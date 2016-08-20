@@ -8,17 +8,20 @@ Road Traffic (Authorisation to Drive) Amendment Regulations 2015 | 26 Jun 2015 p
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 5) 2015 | 13 Nov 2015 p. 4663 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Nov 2015 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 27 May 2016 p. 1549-54 | 1 Jul 2016 (see r. 2(b))
 On-demand Transport Regulations Amendment Regulations 2016 Pt. 3 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
+Road Traffic (Authorisation to Drive) Amendment Regulations 2016 | 19 Aug 2016 p. 3572-5 | r. 1 and 2: 19 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Aug 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-another jurisdiction’s driving authorisation3, 59(1)
 allocated time27(1)
+another jurisdiction’s driving authorisation3, 59(1)
 applicant19(1)
 authorised43(3)
 axle3
 child care service11(4)
 commencement day82
 current licence75(1)
+Defence Force family member card3
+Defence Force member card3
 Department3
 disqualified3
 driver licence14(1)
@@ -58,6 +61,7 @@ RT Act s. 10393(1)
 schooling10(1)
 section3
 semi-trailer3
+specified period32(1)
 taxi12(4)
 theory testSch. 9
 trailer3
