@@ -37,6 +37,7 @@ Wildlife Conservation Amendment Regulations 2012 | 7 Dec 2012 p. 5977-80 | r. 1 
 Reprint 4: The Wildlife Conservation Regulations 1970 as at 12 Apr 2013 (includes amendments listed above)
 Wildlife Conservation Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3338-9 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2014 (see r. 2(b))
 Wildlife Conservation Amendment Regulations 2014 | 8 Jan 2015 p. 137-9 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Wildlife Conservation Amendment Regulations 2016 | 26 Aug 2016 p. 3651-2 | r. 1 and 2: 26 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2016 (see r. 2(b))
 Footnote no longer required.
 Now known as the Zoological Parks Authority.
 Repealed by the Zoological Parks Authority Act 2001.
