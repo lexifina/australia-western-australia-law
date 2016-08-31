@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Insurance Commission of Western Australia Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Insurance Commission of Western Australia Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Government Insurance Commission Act 1986 | 51 of 1986 | 5 Aug 1986 | s. 1 and 2: 5 Aug 1986; Act other than s. 1 and 2: 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4859)
@@ -29,21 +29,23 @@ Insurance Commission of Western Australia Amendment Act 2013 | 7 of 2013 | 19 Au
 Reprint 4: The Insurance Commission of Western Australia Act 1986 as at 10 Jan 2014 (includes amendments listed above) (correction in Gazette 4 Aug 2015 p. 3135)
 Associations Incorporation Act 2015 s. 219 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. (b) and Gazette 24 Jun 2016 p. 2291-2)
 Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 2 | 8 of 2016 | 14 Apr 2016 | 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 5: The Insurance Commission of Western Australia Act 1986 as at 31 Aug 2016 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 25 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 s. 5. Now the Life Insurance Act 1995 of the Commonwealth.
-Repealed by the Insurance Commission of Western Australia Act 1986 s. 46(1).
+Other notes
+The Life Insurance Act 1945 was repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 s. 5.
+The State Government Insurance Office Act 1938 was repealed by the Insurance Commission of Western Australia Act 1986 s. 46(1).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
-Section 3P(4a) was deleted by the Motor Vehicle (Third Party Insurance Surcharge) Repeal Act 1988 s. 5.
-Repealed by the Financial Legislation Amendment and Repeal Act 2006.
-Now cited as the Workers’ Compensation and Injury Management Act 1981.
-Section 31(2)(k) was deleted by the SGIO Privatisation Act 1992 s. 28.
-Sections 21 and 22 were deleted by the Acts Amendment (Financial Administration and Audit) Act 1985 s. 3.
-Section 26 was deleted by the State Government Insurance Commission Act 1986 s. 46(2).
-Under the Public Sector Management Act 1994, a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
+The Motor Vehicle (Third Party Insurance) Act 1943 s. 3P(4a) was deleted by the Motor Vehicle (Third Party Insurance Surcharge) Repeal Act 1988 s. 5.
+The Financial Administration and Audit Act 1985 was repealed by the Financial Legislation Amendment and Repeal Act 2006.
+Now known as the Workers’ Compensation and Injury Management Act 1981.
+Section 31(2)(k) of this Act was deleted by the SGIO Privatisation Act 1992 s. 28.
+The State Trading Concerns Act 1916 s. 21 and 22 were deleted by the Acts Amendment (Financial Administration and Audit) Act 1985 s. 3.
+The Employers’ Indemnity Supplementation Fund Act 1980 s. 26 was deleted by the State Government Insurance Commission Act 1986 s. 46(2).
+Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management which is a term defined in the Interpretation Act 1984.
 Now known as the Insurance Commission of Western Australia Act 1986; short title changed (see note under s. 1).
@@ -53,14 +55,6 @@ The Acts Amendment (ICWA) Act 1996 Pt. 3 contained transitional and savings prov
 The Insurance Commission of Western Australia Amendment Act 2002 s. 10 reads as follows:
 10.Transition and savings
 The functions conferred on the Insurance Commission of Western Australia by section 6(ca) and (e) of the Insurance Commission of Western Australia Act 1986 as amended by this Act are taken always to have been functions of the Commission.
-On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 s. 25 and 28 had not come into operation. They read as follows:
-25.Sections 47 and 48 repealed
-Sections 47 and 48 of the principal Act are repealed.
-28.Schedule 4 repealed
-Schedule 4 to the principal Act is repealed.
-On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 had not come into operation. It reads as follows:
-50.Insurance Commission of Western Australia Act 1986 amended
-Clause 16(2) of Schedule 4 to the Insurance Commission of Western Australia Act 1986 is amended by deleting “(including, if he is a contributor under the Superannuation and Family Benefits Act 1938, his rights under that Act)”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
