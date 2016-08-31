@@ -30,6 +30,7 @@ Conservation and Land Management Amendment Regulations (No. 5) 2015 | 4 Dec 2015
 Conservation and Land Management Amendment Regulations (No. 6) 2015 | 11 Dec 2015 p. 4954-6 | 12 Dec 2015 (see r. 2 and Gazette 11 Dec 2015 p. 4953)
 Conservation and Land Management Amendment Regulations (No. 2) 2016 | 4 Apr 2016 p. 1011-12 | r. 1 and 2: 4 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2016 (see r. 2(b))
 Conservation and Land Management Amendment Regulations 2016 | 6 May 2016 p. 1381-2 | 7 May 2016 (see r. 2 and Gazette 6 May 2016 p. 1379-80)
+Conservation and Land Management Amendment Regulations (No. 4) 2016 | 30 Aug 2016 p. 3685-6 | r. 1 and 2: 30 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2016 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
