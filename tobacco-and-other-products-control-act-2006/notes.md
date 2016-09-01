@@ -12,12 +12,12 @@ Tobacco Products Control Amendment Act 2009 | 22 of 2009 | 22 Sep 2009 | s. 1 an
  | Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Reprint 2: The Tobacco Products Control Act 2006 as at 8 Jul 2011 (includes amendments listed above)
+ | Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 3 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 189 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 3 | 3 of 2016 | 21 Mar 2016 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 27 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 27 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 The provision in this Act repealing the Tobacco Control Act 1990 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Trade Practices Act 1974 (Commonwealth) is now called the Competition and Consumer Act 2010.
@@ -26,48 +26,7 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 (1) This section amends the Tobacco Products Control Act 2006.
 (2) In the Glossary in the definition of tobacco product delete paragraph (d) and insert:
 (d)nicotine, or a product that contains nicotine, in a form that is a poison within the meaning of the Medicines and Poisons Act 2014 section 3; or
-On the date as at which this compilation was prepared, the Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 3 had not come into operation. It reads as follows:
-Part 8 — Consequential amendments to other Acts
-Division 3 — Tobacco Products Control Act 2006 amended
-54.Act amended
-This Division amends the Tobacco Products Control Act 2006.
-55.Section 3 replaced
-Delete section 3 and insert:
-3.Purposes of Act
-The purposes of this Act are to reduce the incidence of illness and death related to the use of tobacco products —
-(a) by prohibiting the supply of tobacco products and smoking implements to young persons; and
-(b) by discouraging the use of tobacco products; and
-(c) by restricting the promotion of tobacco products and
-(d) by reducing the exposure of people to tobacco smoke from tobacco products that are smoked by other people.
-56.Part 5 heading replaced
-Delete the heading to Part 5 and insert:
-Part 5 — Administration
-57.Part 5 Divisions 1 to 3 deleted
-Delete Part 5 Divisions 1, 2 and 3.
-58.Part 5 Division 4 heading deleted
-Delete the heading to Part 5 Division 4.
-59.Section 122 deleted
-Delete section 122.
-60.Section 124A amended
-In section 124A(2) delete “or the Foundation has under this Act.” and insert:
-has under this Act or the Foundation has under the Western Australian Health Promotion Foundation Act 2016.
-61.Section 126 deleted
-Delete section 126.
-62.Schedule 1 deleted
-Delete Schedule 1.
-63.Schedule 2 deleted
-Delete Schedule 2.
-64.Glossary amended
-(1) In the Glossary delete the definitions of:
-Account
-chairperson
-committee
-executive director
-member
-racing
-sporting
-(2) In the Glossary in the definition of Foundation delete “established by section 59;” and insert:
-mentioned in the Western Australian Health Promotion Foundation Act 2016 section 5;
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 27 had not come into operation. It reads as follows:
 Part 3 — Amendments to other Acts and repeals
 Division 27 — Tobacco Products Control Act 2006 amended
@@ -92,19 +51,14 @@ authorised officer means a person designated as an authorised officer under the 
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-1990 ActSch. 2 cl. 4
-AccountGl.
 approvedGl.
 approved guideGl.
 carried by28(1)
 cartonGl.
 CEOGl.
-chairpersonGl.
 child107D(1)
 cigarGl.
 cigaretteGl.
-commencement daySch. 2 cl. 4
-committeeGl.
 compliance survey94
 consent107F(2)
 contractor121(6)
@@ -113,27 +67,20 @@ controlled purchase operation94
 corresponding lawGl.
 customerGl.
 director108(1)
-document68(4)
 employee107F(1)
 employer107F(1)
 enclosed public placeGl.
 engaging in conduct108(1)
 environmental health officerGl.
-executive directorGl.
-former FoundationSch. 2 cl. 4
 FoundationGl.
 identity cardGl.
 indirect saleGl.
 indirect seller’s licenceGl.
-information68(4)
 investigation purposesGl.
 investigatorGl.
 licenceGl.
 licensed premisesGl.
-memberSch. 1 cl. 2(3), Sch. 1 cl. 16, Gl.
 mines amenityGl.
-misbehaviourSch. 1 cl. 2(3)
-new FoundationSch. 2 cl. 4
 occupierGl.
 officerGl.
 outdoor eating areaGl.
@@ -145,7 +92,6 @@ product32(3)
 product lineGl.
 promoteGl.
 public placeGl.
-racingGl.
 receiver13(1)
 recordGl.
 registered designGl.
@@ -163,7 +109,6 @@ smoking implementGl.
 smoking zoneGl.
 specialist retailer23(1)
 sponsorship35(1)
-sportingGl.
 state of mind108(1)
 supplyGl.
 tobacco advertisementGl.

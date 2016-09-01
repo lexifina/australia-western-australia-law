@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 November 2015 of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Sector Management Act 1994 | 31 of 1994 | 8 Jul 1994 | s. 1 and 2: 8 Jul 1994; s. 3, 16, 19, 20, 26, 28 and Sch. 4: 20 Aug 1994 (see s. 2 and Gazette 19 Aug 1994 p. 4155); s. 4-6, Pt. 2 Div. 1, 2 and 4, s. 17, 18, 21-25 and 27, Pt. 3-6, 8, and 9 and Sch. 1-3, 5 and 6: 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948); Pt. 7: 1 Jan 1996 (see s. 2 and Gazette 24 Nov 1995 p. 5389)
@@ -102,28 +102,21 @@ Workforce Reform Act 2014 Pt. 3 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 37 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Alcohol and Drug Authority Amendment Act 2015 s. 17 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Reprint 11: The Public Sector Management Act 1994 as at 3 Nov 2015 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 2 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 2 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
 The amendment in the State Superannuation Amendment Act 2007 s. 85 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The amendments in the Public Sector Reform Act 2010 s. 68 and 70 to the Public Sector Management Act 1994 s. 79(6) and 99 are not included as those sections were deleted by the Public Sector Reform Act 2010 s. 55(3) and 57 respectively.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
-On the date as at which this compilation was prepared, the Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 2 had not come into operation. It reads as follows:
-Part 8 — Consequential amendments to other Acts
-Division 2 — Public Sector Management Act 1994 amended
-52.Act amended
-This Division amends the Public Sector Management Act 1994.
-53.Schedule 2 amended
-In Schedule 2 after item 58 insert:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
