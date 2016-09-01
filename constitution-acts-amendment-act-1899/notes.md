@@ -284,13 +284,13 @@ Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 
 Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes amendments listed above)
  | Perth Market (Disposal) Act 2015 s. 54 | 40 of 2015 | 8 Dec 2015 | 31 Mar 2016 (see s. 2(2) and Gazette 31 Mar 2016 p. 969)
  | Conservation and Land Management Amendment Act 2015 s. 72 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
+ | Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
  | Health Services Act 2016 s. 288 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
@@ -391,14 +391,6 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 had not come into operation. It reads as follows:
-Part 8 — Consequential amendments to other Acts
-Division 1 — Constitution Acts Amendment Act 1899 amended
-50.Act amended
-This Division amends the Constitution Acts Amendment Act 1899.
-51.Schedule V amended
-In Schedule V Part 3 in the item relating to the Western Australian Health Promotion Foundation delete “Tobacco Products Control Act 2006.” and insert:
-Western Australian Health Promotion Foundation Act 2016.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 had not come into operation. It reads as follows:
 Part 3 — Amendments to other Acts and repeals
 Division 8 — Constitution Acts Amendment Act 1899 amended
