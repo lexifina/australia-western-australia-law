@@ -26,27 +26,27 @@
 6. | For a pass for one group entering the Yanchep National Park in one or more non-tour motor vehicles for the purposes of a wedding or other function | 100.00
 [Division 2 inserted in Gazette 27 Sep 2013 p. 4526-7; amended in Gazette 19 Sep 2014 p. 3333; 4 Apr 2016 p. 1011-12.]
 ## Division 3 — Daily entrance fees for Tree Top Walk
-[Heading inserted in Gazette 27 Sep 2013 p. 4527.]
+[Heading inserted in Gazette 5 Jul 2016 p. 2815.]
  |  | $
-1. | For person 16 years of age or over | 19.00
-2. | For person of more than 5 and less than 16 years of age | 9.50
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 47.50
-4. | For holder of a concession card | 13.50
-[Division 3 inserted in Gazette 27 Sep 2013 p. 4527; amended in Gazette 14 Jul 2015 p. 2788.]
+1. | For person 16 years of age or over | 21.00
+2. | For person of more than 5 and less than 16 years of age | 10.50
+3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 52.50
+4. | For holder of a concession card | 15.50
+[Division 3 inserted in Gazette 5 Jul 2016 p. 2815.]
 ## Division 4 — Fees for Geikie Gorge National Park Boat Trip
-[Heading inserted in Gazette 27 Sep 2013 p. 4527.]
+[Heading inserted in Gazette 5 Jul 2016 p. 2816.]
  |  | $
-1. | For person 16 years of age and over | 40.00
-2. | For person of more than 5 and less than 16 years of age | 10.00
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 90.00
-4. | For holder of a concession card | 29.00
-[Division 4 inserted in Gazette 27 Sep 2013 p. 4527; amended in Gazette 14 Jul 2015 p. 2788.]
+1. | For person 16 years of age and over | 45.00
+2. | For person of more than 5 and less than 16 years of age | 12.00
+3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 100.00
+4. | For holder of a concession card | 32.00
+[Division 4 inserted in Gazette 5 Jul 2016 p. 2816.]
 ## Division 5 — Horse riding
-[Heading inserted in Gazette 27 Sep 2013 p. 4527.]
+[Heading inserted in Gazette 5 Jul 2016 p. 2816.]
  |  | $
-1. | Daily fee for one person | 8.00
-2. | Annual pass for family | 57.00
-[Division 5 inserted in Gazette 27 Sep 2013 p. 4527; amended in Gazette 14 Jul 2015 p. 2788.]
+1. | Daily fee for one person | 9.00
+2. | Annual pass for family | 60.00
+[Division 5 inserted in Gazette 5 Jul 2016 p. 2816.]
 ## Division 6 — Camping site fees
 [Heading inserted in Gazette 27 Sep 2013 p. 4527.]
  |  | Fee per night $
@@ -64,42 +64,42 @@
  | each person of more than 5 and less than 16 years of age | 2.00
 [Division 6 inserted in Gazette 27 Sep 2013 p. 4527-8.]
 ## Division 7 — Cave entrance fees
-[Heading inserted in Gazette 27 Sep 2013 p. 4528.]
+[Heading inserted in Gazette 5 Jul 2016 p. 2816.]
  |  | $
-1. | Crystal Cave, Yanchep National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and less than 16 years of age) each person who holds a concession card | 14.00 7.00 35.00 11.00
-2. | Calgardup and Giants Caves, Leeuwin-Naturaliste National Park — each person 16 years of age or over | 17.00
- | each person of more than 5 and less than 16 years of age | 8.50
- | a family (2 adults and 2 children of more than 5 and less than 16 years of age) | 44.00
- | each person who holds a concession card | 11.50
-[Division 7 inserted in Gazette 27 Sep 2013 p. 4528; amended in Gazette 14 Jul 2015 p. 2788.]
+1. | Crystal Cave, Yanchep National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and less than 16 years of age) each person who holds a concession card | 15.00 7.50 37.50 11.50
+2. | Calgardup and Giants Caves, Leeuwin-Naturaliste National Park — each person 16 years of age or over | 18.00
+ | each person of more than 5 and less than 16 years of age | 9.00
+ | a family (2 adults and 2 children of more than 5 and less than 16 years of age) | 45.00
+ | each person who holds a concession card | 12.00
+[Division 7 inserted in Gazette 5 Jul 2016 p. 2816.]
 ## Division 8 — Licence and permit fees
 [Heading inserted in Gazette 27 Sep 2013 p. 4528.]
  |  | $
-1. | Application for cave permit per person per half day (r. 49) | 5.80
+1. | Application for cave permit per person per half day (r. 49) | 6.00
 2. | Application for scientific purposes licence (r. 83) | 25.00
 3. | Application for renewal of scientific purposes licence (r. 92) | 25.00
 4. | Application for commercial operations licence (r. 83) | 115.00
 5. | Application for renewal of commercial operations licence (r. 97) | 100.00
 6. | Application for private mooring licence (r. 83) | 50.00
-[Division 8 inserted in Gazette 27 Sep 2013 p. 4528-9; amended in Gazette 24 Mar 2015 p. 1043; 14 Jul 2015 p. 2788.]
+[Division 8 inserted in Gazette 27 Sep 2013 p. 4528-9; amended in Gazette 24 Mar 2015 p. 1043; 14 Jul 2015 p. 2788; 5 Jul 2016 p. 2816.]
 ## Division 9 — Fees for abseiling
-[Heading inserted in Gazette 27 Sep 2013 p. 4529.]
+[Heading inserted in Gazette 5 Jul 2016 p. 2817.]
  |  | $
-1. | Fee for abseiling other than at Wilyabrup Cliffs (r. 102A) per person per half-day | 9.00
-2. | Fee for abseiling at Wilyabrup Cliffs (r. 102A) | 9.00
-[Division 9 inserted in Gazette 27 Sep 2013 p. 4529; amended in Gazette 14 Jul 2015 p. 2788.]
+1. | Fee for abseiling other than at Wilyabrup Cliffs (r. 102A) per person per half-day | 9.50
+2. | Fee for abseiling at Wilyabrup Cliffs (r. 102A) | 9.50
+[Division 9 inserted in Gazette 5 Jul 2016 p. 2817.]
 ## Division 10 — Entrance fees for Monkey Mia Conservation Park
-[Heading inserted in Gazette 27 Sep 2013 p. 4529.]
+[Heading inserted in Gazette 5 Jul 2016 p. 2817.]
  |  | $
-1. | For person 16 years of age or over | 10.00
-2. | For person of more than 5 and less than 16 years of age | 4.00
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 24.00
-4. | For holder of a concession card | 8.00
-5. | One month pass for person 16 years of age or over | 16.00
-6. | One month pass for person of more than 5 and less than 16 years of age | 6.50
-7. | One month pass for family (2 adults and 2 children of more than 5 and less than 16 years of age) | 38.50
-8. | One month pass for holder of a concession card | 13.00
-[Division 10 inserted in Gazette 27 Sep 2013 p. 4529; amended in Gazette 14 Jul 2015 p. 2788.]
+1. | For person 16 years of age or over | 12.00
+2. | For person of more than 5 and less than 16 years of age | 4.50
+3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 28.50
+4. | For holder of a concession card | 9.00
+5. | One month pass for person 16 years of age or over | 18.00
+6. | One month pass for person of more than 5 and less than 16 years of age | 7.50
+7. | One month pass for family (2 adults and 2 children of more than 5 and less than 16 years of age) | 43.50
+8. | One month pass for holder of a concession card | 15.00
+[Division 10 inserted in Gazette 5 Jul 2016 p. 2817.]
 ## Division 11 — Apiary permit and licence fees
 [Heading inserted in Gazette 3 Sep 2010 p. 4283.]
  |  | $

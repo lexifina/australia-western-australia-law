@@ -30,12 +30,9 @@ Conservation and Land Management Amendment Regulations (No. 5) 2015 | 4 Dec 2015
 Conservation and Land Management Amendment Regulations (No. 6) 2015 | 11 Dec 2015 p. 4954-6 | 12 Dec 2015 (see r. 2 and Gazette 11 Dec 2015 p. 4953)
 Conservation and Land Management Amendment Regulations (No. 2) 2016 | 4 Apr 2016 p. 1011-12 | r. 1 and 2: 4 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2016 (see r. 2(b))
 Conservation and Land Management Amendment Regulations 2016 | 6 May 2016 p. 1381-2 | 7 May 2016 (see r. 2 and Gazette 6 May 2016 p. 1379-80)
+Conservation and Land Management Amendment Regulations (No. 3) 2016 | 5 Jul 2016 p. 2815-17 | r. 1 and 2: 5 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 4) 2016 | 30 Aug 2016 p. 3685-6 | r. 1 and 2: 30 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Conservation and Land Management Amendment Regulations (No. 3) 2016 r. 3 and 4 | 5 Jul 2016 p. 2815-17 | 1 Sep 2016 (see r. 2(b))
-Footnote no longer applicable.
+Footnotes no longer applicable.
 Repealed by these regulations.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
@@ -44,53 +41,6 @@ The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads a
 Barrow Island Net Conservation Benefit Account means the account of that name established as an agency special purpose account under the Financial Management Act 2006 section 16 in accordance with the Conservation and Land Management Act 1984 section 69(1);
 Barrow Island Trust Account means the account referred to in the Conservation and Land Management Regulations 2002 Part 7A immediately before the commencement of regulation 3.
 (2) Any money standing to the credit of the Barrow Island Trust Account immediately before the commencement of regulation 3 is to be transferred to the Barrow Island Net Conservation Benefit Account.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Regulations (No. 3) 2016 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Conservation and Land Management Regulations 2002.
-4.Schedule 1 amended
-(1) Delete Schedule 1 Divisions 3, 4 and 5 and insert:
-Division 3 — Daily entrance fees for Tree Top Walk
- |  | $
-1. | For person 16 years of age or over | 21.00
-2. | For person of more than 5 and less than 16 years of age | 10.50
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 52.50
-4. | For holder of a concession card | 15.50
-Division 4 — Fees for Geikie Gorge National Park Boat Trip
- |  | $
-1. | For person 16 years of age and over | 45.00
-2. | For person of more than 5 and less than 16 years of age | 12.00
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 100.00
-4. | For holder of a concession card | 32.00
-Division 5 — Horse riding
- |  | $
-1. | Daily fee for one person | 9.00
-2. | Annual pass for family | 60.00
-(2) Delete Schedule 1 Division 7 and insert:
-Division 7 — Cave entrance fees
- |  | $
-1. | Crystal Cave, Yanchep National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and less than 16 years of age) each person who holds a concession card | 15.00 7.50 37.50 11.50
-2. | Calgardup and Giants Caves, Leeuwin-Naturaliste National Park — each person 16 years of age or over | 18.00
- | each person of more than 5 and less than 16 years of age | 9.00
- | a family (2 adults and 2 children of more than 5 and less than 16 years of age) | 45.00
- | each person who holds a concession card | 12.00
-(3) In Schedule 1 Division 8 item 1 delete “5.80” and insert:
-6.00
-(4) Delete Schedule 1 Division 9 and insert:
-Division 9 — Fees for abseiling
- |  | $
-1. | Fee for abseiling other than at Wilyabrup Cliffs (r. 102A) per person per half-day | 9.50
-2. | Fee for abseiling at Wilyabrup Cliffs (r. 102A) | 9.50
-(5) Delete Schedule 1 Division 10 and insert:
-Division 10 — Entrance fees for Monkey Mia Conservation Park
- |  | $
-1. | For person 16 years of age or over | 12.00
-2. | For person of more than 5 and less than 16 years of age | 4.50
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 28.50
-4. | For holder of a concession card | 9.00
-5. | One month pass for person 16 years of age or over | 18.00
-6. | One month pass for person of more than 5 and less than 16 years of age | 7.50
-7. | One month pass for family (2 adults and 2 children of more than 5 and less than 16 years of age) | 43.50
-8. | One month pass for holder of a concession card | 15.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
