@@ -23,7 +23,7 @@
 19.Regional Power Corporation established by the Electricity Corporations Act 2005.
 [20-21.Deleted]
 22.The University of Western Australia established under the University of Western Australia Act 1911.
-23.Western Australian Health Promotion Foundation [trading under the name “Healthway”] established under the Tobacco Products Control Act 2006.
+23.Western Australian Health Promotion Foundation mentioned in the Western Australian Health Promotion Foundation Act 2016 section 5.
 24.Western Australian Mint preserved and continued by the Gold Corporation Act 1987.
 25.Water Corporation established by the Water Corporation Act 1995.
-[Schedule 1 inserted in Gazette 11 Jun 2013 p. 2163-4; amended in Gazette 27 Dec 2013 p. 6472; 24 Jun 2016 p. 2311.]
+[Schedule 1 inserted in Gazette 11 Jun 2013 p. 2163-4; amended in Gazette 27 Dec 2013 p. 6472; 24 Jun 2016 p. 2311; 26 Aug 2016 p. 3653.]
