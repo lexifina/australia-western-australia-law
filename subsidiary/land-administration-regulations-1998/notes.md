@@ -32,6 +32,8 @@ Land Administration Amendment Regulations 2012 | 6 Jul 2012 p. 3023-5 | r. 1 and
 Reprint 4: The Land Administration Regulations 1998 as at 17 Aug 2012 (includes amendments listed above)
 Land Administration Amendment Regulations 2013 | 16 Jul 2013 p. 3247-8 | r. 1 and 2: 16 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2013 (see r. 2(b))
 Land Administration Amendment Regulations 2015 | 13 Oct 2015 p. 4062-3 | r. 1 and 2: 13 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Oct 2015 (see r. 2(b))
+Land Administration Amendment Regulations 2016 | 6 Sep 2016 p. 3825-6 | r. 1 and 2: 6 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2016 (see r. 2(b) and Gazette 6 Sep 2016 p. 3826)
+Land Administration Regulations Amendment Regulations 2016 Pt. 2 | 6 Sep 2016 p. 3826-7 | 7 Sep 2016 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
 Defined terms
@@ -43,12 +45,12 @@ AGD17A(1)
 authorised survey18
 Crown land transaction3A(3)
 departmental surveyor18
-land17E(1)
+Jolimont land17E(1)
 marine navigational aid3(1)
 member24
+Narrogin land17E(1)
 other joint venturer13(1)
 panel24
-Public Trustee17E(1)
 relevant matter24
 subject land5, 6(1), 7
 survey18
