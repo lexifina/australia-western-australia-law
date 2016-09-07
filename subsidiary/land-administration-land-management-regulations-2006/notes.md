@@ -8,6 +8,7 @@ Land Administration (Land Management) Amendment Regulations 2012 | 31 Jul 2012 p
 Land Administration (Land Management) Amendment Regulations (No. 2) 2012 | 19 Feb 2013 p. 983-4 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Land Administration (Land Management) Amendment Regulations 2014 | 8 Jan 2015 p. 117-18 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Land Administration (Land Management) Amendment Regulations 2015 | 21 Jul 2015 p. 2935 | r. 1 and 2: 21 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2015 (see r. 2(b))
+Land Administration Regulations Amendment Regulations 2016 Pt. 3 | 6 Sep 2016 p. 3826-7 | 7 Sep 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

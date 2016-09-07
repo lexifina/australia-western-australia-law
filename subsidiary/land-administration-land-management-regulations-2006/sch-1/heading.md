@@ -1,10 +1,10 @@
 ## Schedule 1 — Managed reserves to which these regulations apply
 [r. 2]
-[Heading inserted in Gazette 31 Jul 2012 p. 3696.]
-Reserve | Management body
-Number | Location
-No. 30360 | Quaranup, Albany | The Minister to whom the administration of the Western Australian Sports Centre Trust Act 1986 is for the time being committed by the Governor.
-No. 27853 | Point Peron, Rockingham
-No. 40184 | Woodman Point, Munster
-No. 23563 | Ern Halliday Centre, Hillarys
-[Schedule 1 inserted in Gazette 31 Jul 2012 p. 3696.]
+[Heading inserted in Gazette 6 Sep 2016 p. 3827.]
+Item | Reserve number | Reserve location
+1. | 30360 | Quaranup, Albany
+2. | 27853 | Point Peron, Rockingham
+3. | 40184 | Woodman Point, Munster
+4. | 23563 | Ern Halliday Centre, Hillarys
+5. | 1667 | Birdwood Parade, Dalkeith
+[Schedule 1 inserted in Gazette 6 Sep 2016 p. 3827.]
