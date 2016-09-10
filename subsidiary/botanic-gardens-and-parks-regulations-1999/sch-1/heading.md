@@ -1,5 +1,6 @@
 ## Schedule 1 — Forms
-[rr. 44, 46 & 47]
+[r. 44, 46 and 47]
+[Heading amended: Gazette 9 Sep 2016 p. 3877.]
 Form 1
 Botanic Gardens and Parks Authority Act 1998
 Notice to owner of vehicle involved in offence
@@ -12,7 +13,7 @@ was involved in the commission of the following offence —
 .................................................................................................................................
 .................................................................................................................................
 .................................................................................................................................
-contrary to regulation (6).................. of the Botanic Gardens and Parks Authority Regulations 1999.
+contrary to regulation (6).................. of the Botanic Gardens and Parks Regulations 1999.
 You are required under section 49 of the Botanic Gardens and Parks Authority Act 1998 to identify the person who was the driver or person in charge of the vehicle at the time when the offence is alleged to have been committed.
 If you do not prove otherwise, you will be deemed to have committed the offence unless —
 (a)within 28 days after being served with this notice —
@@ -20,7 +21,7 @@ If you do not prove otherwise, you will be deemed to have committed the offence 
 (ii)you satisfy the chief executive officer of the Botanic Gardens and Parks Authority that the vehicle had been stolen or unlawfully taken, or was being unlawfully used, at the time the offence is alleged to have been committed;
 or
 (b)you were given an infringement notice for the alleged offence and the modified penalty specified in it is paid within 28 days after the notice was given or such further time as is allowed.
-Name of park management officer giving the notice ...........................................
+Identifying number of park management officer giving the notice ...........................................
 Signature ...................................................
 (1)Name of owner or “owner of (vehicle identification) ”
 (2)Address of owner (not required if owner not named)
@@ -28,6 +29,7 @@ Signature ...................................................
 (4)Place at which offence allegedly committed
 (5)Vehicle identification
 (6)Regulation designation
+[Form 1 amended: Gazette 9 Sep 2016 p. 3878.]
 Form 2
 Botanic Gardens and Parks Authority Act 1998
 Infringement notice
@@ -41,10 +43,10 @@ you committed the following offence —
 .................................................................................................................................
 .................................................................................................................................
 .................................................................................................................................
-contrary to regulation (5) ..................... of the Botanic Gardens and Parks Authority Regulations 1999.
+contrary to regulation (5) ..................... of the Botanic Gardens and Parks Regulations 1999.
 The modified penalty for the offence is $ .....................
 If you do not wish to have a complaint of the alleged offence heard and determined by a court, the amount of the modified penalty may be paid to an authorized person at (6) .............................................…………………………….……………………….within a period of 28 days after the giving of this notice.
-Name of park management officer giving the notice ......................................….
+Identifying number of park management officer giving the notice ......................................….
 Signature ...................................................
 (1)Name of alleged offender [“owner of (vehicle identification) ” suffices if notice given with a notice under section 49 of the Act]
 (2)Address of alleged offender [not required if notice given with a notice under section 49 of the Act]
@@ -52,6 +54,7 @@ Signature ...................................................
 (4)Place at which offence allegedly committed
 (5)Regulation designation
 (6)Place where modified penalty may be paid
+[Form 2 amended: Gazette 9 Sep 2016 p. 3878.]
 Form 3
 Botanic Gardens and Parks Authority Act 1998
 Withdrawal of infringement notice
