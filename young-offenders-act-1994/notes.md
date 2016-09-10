@@ -52,6 +52,7 @@ Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 3 | 29 of 201
 Declared Places (Mentally Impaired Accused) Act 2015 s. 89 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 3 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
 Reprint 6: The Young Offenders Act 1994 as at 9 Oct 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014 and the Children and Community Services Legislation Amendment and Repeal Act 2015)
+Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 8 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -60,7 +61,6 @@ Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclai
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Graffiti Vandalism Act 2016 Pt. 6 Div.3 | 16 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
-Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 8 | 17 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -139,35 +139,21 @@ This Division amends the Young Offenders Act 1994.
 44.Section 46 amended
 In section 46(5a) before “but” insert:
 and sections 5 and 10 of the Graffiti Vandalism Act 2016
-On the date as at which this compilation was prepared, the Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Young Offenders Act 1994 amended
-56.Act amended
-This Part amends the Young Offenders Act 1994.
-57.Section 189 amended
-Delete section 189(7)(c) and insert:
-(c) a court having regard to a conviction for the purposes of the Dangerous Sexual Offenders Act 2006 section 7(3); or
-(d) the making of a record of anything that paragraph (a), (b) or (c) allows.
-58.Section 190 amended
-After section 190(1) insert:
-(2A) This section does not prevent evidence of a conviction being received in proceedings under the Dangerous Sexual Offenders Act 2006.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Aboriginal community3
 appeal11CA
 appellant11CA
-appointed person or body15A(3c)
 appropriate person23B(3)
 approved35
 attendance conditions3
-authorised officer15A(3c)
 authorised person169A(7)
 Board131
 body sample3
 CEO (child welfare)15A(2)
 Chief Commissioner11CA
 chief executive officer3
-child15A(3c)
 commencement day11CV(1)
 community work conditions3
 community work order63
@@ -206,9 +192,8 @@ monitor17A
 new evidence11CA
 notice to attend court3
 offender50(1), 50A(1), 50B(1)
-original offence83(2)(c)
+original offence83(2)
 party32(3)
-proceedings for or in respect of a responsible parenting order15A(3c)
 public authority16(1)
 registrar of the court3
 relevant day127(1)
@@ -222,8 +207,8 @@ Schedule 1 offence3
 Schedule 2 offence3
 second sentence123(1)
 Secretary131
-sentence 1124(1)(a)
-sentence 2124(1)(b)
+sentence 1124(1)
+sentence 2124(1)
 sentencing court129(1)
 serious offence124(3)
 special order3

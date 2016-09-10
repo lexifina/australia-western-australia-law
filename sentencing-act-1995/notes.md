@@ -76,13 +76,13 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 3 | 25 of 2015 | 24 Sep 2015 | 31 Oct 2015 (see s. 2(b) and Gazette 30 Oct 2015 p. 4493)
 Sentencing Amendment Act 2015 | 32 of 2015 | 2 Nov 2015 | s. 1 and 2: 2 Nov 2015 (see s. 2(a)); Act other than s. 1 and 2: 3 Nov 2015 (see s. 2(b))
 Reprint 9: The Sentencing Act 1995 as at 8 Jan 2016 (includes amendments listed above)
+Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
  | Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
  | Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
-Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 | 17 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
@@ -224,19 +224,7 @@ On the date as at which this compilation was prepared, the Criminal Code Amendme
 8.Schedule 1A amended
 (2) In Schedule 1A Part 2 item 1 delete “s. 428” and insert:
 s. 417
-On the date as at which this compilation was prepared, the Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Sentencing Act 1995 amended
-53.Act amended
-This Part amends the Sentencing Act 1995.
-54.Section 8 amended
-After section 8(1) insert:
-(2) The possibility that an order might be made in respect of the offender under the Dangerous Sexual Offenders Act 2006 is not a mitigating factor.
-55.Section 98 amended
-In section 98(3):
-(a) delete “is a danger” and insert:
-would be a danger
-(b) before paragraph (a) insert:
-(aa) is not to decide that the offender would not be a danger merely because of the possibility that an order might be made in respect of the offender under the Dangerous Sexual Offenders Act 2006; and
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 23 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts and repeals
 Division 1 — Amendments resulting from renaming of Health Act 1911
@@ -287,7 +275,7 @@ fine57(1)
 firearm106(5)
 firearms offence106(5)
 fixed term9AA(1), 85(1)
-full sentence37A(1)(a)
+full sentence37A(1)
 head sentence9AA(1)
 imprisonable offence33A(1)
 indefinite imprisonment85(1)
@@ -301,7 +289,7 @@ motor vehicle105(5)
 motor vehicle offence105(5)
 nominal sentence98(1)
 offence4(1)
-offender4(1), 79(1)(a), 84E(1)(a), 129(1)(a)
+offender4(1), 79(1), 84E(1), 129(1)
 original offence32(1)
 parole eligibility order85(1)
 parole order85(1)
@@ -325,19 +313,19 @@ requirement33L(1)
 requirements125(1)
 sentence37(5), 37A(5)
 sentencing150A(1)
-sentencing day33B(1)(a)
+sentencing day33B(1)
 speciality court4(1), 84N(2)
 specified33H(15), 75(15), 84C(15)
-specified place33H(2)(a), 75(2)(a), 84C(2)(a)
+specified place33H(2), 75(2), 84C(2)
 spent conviction order4(1)
 statutory penalty4(1)
 superior court4(1)
 term85(1)
 term imposed35(1)
-third party118(1), 120(1)(b)
+third party118(1), 120(1)
 translated sentence 85(1)
 vessel107(5)
 victim9AA(1), 13, 116, 120(1)
 video link14A(4)
-WDO57A(4)(b)
+WDO57A(4)
 written reasons33A(7), 35(4), 80(5A), 84F(5A)

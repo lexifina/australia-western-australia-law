@@ -57,12 +57,12 @@ Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 2 | 29 of 201
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 88 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 8: The Prisons Act 1981 as at 12 Feb 2016 (includes amendments listed above)
+Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 5 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 5 | 17 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Repealed by the Interpretation Act 1984.
@@ -94,13 +94,7 @@ On the date as at which this compilation was prepared, the Criminal Law Amendmen
 (ii) his or her whole life in custody;
 or
 (b) whose release is to be determined by the Governor.
-On the date as at which this compilation was prepared, the Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Prisons Act 1981 amended
-49.Act amended
-This Part amends the Prisons Act 1981.
-50.Section 113B amended
-After section 113B(1)(a) insert:
-(ba) a person who has suffered injury, loss or damage as a direct result of a serious sexual offence (as defined in the Dangerous Sexual Offenders Act 2006 section 3(1)) committed by the prisoner, whether or not that injury, loss or damage was reasonably foreseeable by the prisoner; or
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 had not come into operation. It reads as follows:
 Part 3 — Amendments to other Acts and repeals
 Division 22 — Prisons Act 1981 amended
