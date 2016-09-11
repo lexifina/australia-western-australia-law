@@ -14,6 +14,7 @@ Blood and Tissue (Transmissible Diseases) Amendment Regulations 2012 | 22 May 20
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 2014 | 6 Jun 2014 p. 1788-9 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2014 (see r. 2(b))
 Reprint 2: The Blood and Tissue (Transmissible Diseases) Regulations 1985 as at 14 Nov 2014 (includes amendments listed above)
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 2016 | 11 Mar 2016 p. 681-2 | r. 1 and 2: 11 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Mar 2016 (see r. 2(b))
+Blood and Tissue (Transmissible Diseases) Amendment Regulations (No. 2) 2016 | 9 Sep 2016 p. 3885 | r. 1 and 2: 9 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

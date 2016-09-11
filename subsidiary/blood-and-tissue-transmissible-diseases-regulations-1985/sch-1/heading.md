@@ -1,9 +1,9 @@
 ## Schedule 1 — Blood donor declaration
 [r. 6]
 [Heading inserted in Gazette 22 May 2012 p. 2164.]
-There are some people who MUST NOT give blood as it may transmit infections to those people who receive it. To determine if your blood or blood products will be safe to be given to people in need, we would like you to answer some questions. These questions are a vital part of our efforts to eliminate diseases from the blood supply.
+There are some people who MUST NOT give blood as it may transmit infections to those who receive it. To determine if your blood will be safe to be given to people in need, we would like you to answer some questions. These questions are a vital part of our efforts to eliminate diseases from the blood supply.
 All of the questions are important to answer. Answer each question on the form as honestly as you can and to the best of your knowledge. THERE ARE PENALTIES INCLUDING FINES AND IMPRISONMENT FOR ANYONE PROVIDING FALSE OR MISLEADING INFORMATION.
-Donations of blood are tested for the presence of hepatitis B and C, HIV (the AIDS virus), HTLV and syphilis, unless a collection is unsuccessful or your sample cannot be tested for technical reasons. If your sample is not tested your donation will not be used. If your blood test proves positive for any of these conditions, or for any reason the test shows a significantly abnormal result, you will be informed.
+Donations of blood are tested for hepatitis B, hepatitis C and HIV (AIDS virus). Donations are also tested for HTLV (human T-lymphotropic virus) and syphilis, unless the donation is allocated solely to making externally manufactured plasma products. If your blood tests positive for any of these conditions, or shows a significantly abnormal result, we will notify you.
 Please respond by placing a cross or a tick in the relevant box. Do not circle.
 To the best of your knowledge, have you ever:
 1.Thought you could be infected with HIV or have AIDS? | ¨ Yes¨ No
@@ -21,7 +21,7 @@ In the last 12 months have you:
 12.Been imprisoned in a prison or been held in a lock-up or detention centre? | ¨ Yes¨ No
 13.Had a blood transfusion? | ¨ Yes¨ No
 14.Had (yellow) jaundice or hepatitis or been in contact with someone who has? | ¨ Yes¨ No
-In the last 6 months have you:
+In the last 4 months have you:
 15.Been injured with a used needle (needlestick)? | ¨ Yes¨ No
 16.Had a blood/body fluid splash to eyes, mouth, nose or to broken skin? | ¨ Yes¨ No
 17.Had a tattoo (including cosmetic tattooing), body and/or ear piercing, electrolysis or acupuncture (including dry-needling)? | ¨ Yes¨ No
@@ -38,4 +38,4 @@ Date of birth: | Signature:
 Signature: | Date:
 Date: | Time:
  | Donation number:
-[Schedule 1 inserted in Gazette 22 May 2012 p. 2164-6; amended in Gazette 6 Jun 2014 p. 1789; 11 Mar 2016 p. 681-2.]
+[Schedule 1 inserted in Gazette 22 May 2012 p. 2164-6; amended in Gazette 6 Jun 2014 p. 1789; 11 Mar 2016 p. 681-2; 9 Sep 2016 p. 3885.]
