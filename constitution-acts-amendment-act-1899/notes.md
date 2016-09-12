@@ -292,6 +292,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -402,6 +403,10 @@ This Division amends the Constitution Acts Amendment Act 1899.
 The Local Health Authorities Analytical Committee established by the Health (Miscellaneous Provisions) Act 1911 section 247A.
 (3) In Schedule V Part 3 in the items relating to the Anaesthetic Mortality Committee, the Maternal Mortality Committee and the Perinatal and Infant Mortality Committee delete “Health Act 1911.” and insert:
 Health (Miscellaneous Provisions) Act 1911.
+On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 had not come into operation. It reads as follows:
+14.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the item relating to the Potato Marketing Corporation of Western Australia.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
