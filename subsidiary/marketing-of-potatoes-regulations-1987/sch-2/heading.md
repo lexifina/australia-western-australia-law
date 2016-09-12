@@ -50,7 +50,7 @@ SIGNATURE ....................................... EXPIRY DATE ..................
 Reverse of Form
 WHERE TO PAY
 (The office to which payment may be made is to be specified here.)
-[Form 2 amended in Gazette 18 Mar 2008 p. 866.]
+[Form 2 amended: Gazette 18 Mar 2008 p. 866.]
 Form 3
 [Reg. 33(3)]
 Marketing of Potatoes Act 1946
@@ -705,4 +705,4 @@ Signed ...........................................................
 Signed by .......................................................
 (Name in block letters)
 Dated ...............................
-[Schedule 2 inserted in Gazette 1 Sep 1995 p. 4077-99; amended in Gazette 18 Mar 2008 p. 866.]
+[Schedule 2 inserted: Gazette 1 Sep 1995 p. 4077-99; amended: Gazette 18 Mar 2008 p. 866.]

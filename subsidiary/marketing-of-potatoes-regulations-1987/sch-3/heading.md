@@ -20,5 +20,5 @@ s. 57 | Failure to furnish declaration as to planting | $200
 s. 58 | Failure to furnish notice of intention to harvest | $200
 s. 59 | Failure to furnish notice of harvest | $200
 s. 60 | Failure to furnish notice of receival | $200
-[Schedule 3 inserted in Gazette 1 Sep 1995 p. 4099-100.]
-[Schedule 4 repealed in Gazette 1 Sep 1995 p. 4077.]
+[Schedule 3 inserted: Gazette 1 Sep 1995 p. 4099-100.]
+[Schedule 4 repealed: Gazette 1 Sep 1995 p. 4077.]
