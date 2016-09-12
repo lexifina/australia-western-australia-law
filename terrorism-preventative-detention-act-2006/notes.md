@@ -6,6 +6,7 @@ Terrorism (Preventative Detention) Act 2006 | 42 of 2006 | 22 Sep 2006 | 22 Sep 
 Terrorism (Preventative Detention) Amendment Act 2008 | 1 of 2008 | 5 Mar 2008 | 5 Mar 2008 (see s. 2)
 Legal Profession Act 2008 s. 710 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 38 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Terrorism (Preventative Detention) Amendment Act 2016 | 23 of 2016 | 12 Sep 2016 | 12 Sep 2016 (see s. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
