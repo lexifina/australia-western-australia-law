@@ -7,4 +7,3 @@ An Act to —
 ·provide for levies on waste; and
 ·repeal the Environmental Protection (Landfill) Levy Act 1998; and
 ·provide for related and consequential matters.
-The Parliament of Western Australia enacts as follows:
