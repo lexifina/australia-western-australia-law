@@ -39,6 +39,7 @@ Taxi Amendment Regulations 2015 | 20 Feb 2015 p. 692-4 | r. 1 and 2: 20 Feb 2015
 Taxi Amendment Regulations (No. 2) 2015 | 12 Jun 2015 p. 2036 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 2 | 27 May 2016 p. 1554-6 | 1 Jul 2016 (see r. 2(b))
 On-demand Transport Regulations Amendment Regulations 2016 Pt. 4 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
+Taxi Amendment Regulations 2016 | 16 Sep 2016 p. 3946 | r. 1 and 2: 16 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Sep 2016 (see r. 2(b))
 Plans of the former Department of Land Administration are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
 The Taxi Act 1994 s. 34 and 35 were deleted by the Acts Amendment (Criminal Procedure) Act 1999 s. 9.
