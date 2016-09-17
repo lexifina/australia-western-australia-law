@@ -39,6 +39,7 @@ Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2014 | 
 Western Australian Meat Industry Authority Amendment Regulations (No. 3) 2014 | 3 Sep 2014 p. 3207-8 | r. 1 and 2: 3 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2014 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2014 | 8 Jan 2015 p. 75-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Western Australian Meat Industry Authority Amendment Regulations 2015 | 24 Jul 2015 p. 3041-3 | r. 1 and 2: 24 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2015 (see r. 2(b))
+Western Australian Meat Industry Authority Amendment Regulations 2016 | 16 Sep 2016 p. 3933-5 | r. 1 and 2: 16 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Sep 2016 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
@@ -68,4 +69,3 @@ permit holder25, 33N(1)
 sign25
 stand25
 stock agent3(1), 25
-throughput feeSch. 6
