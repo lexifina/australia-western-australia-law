@@ -9,12 +9,23 @@ Road Traffic (Vehicles) Amendment Regulations (No. 4) 2015 | 12 Jun 2015 p. 2036
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 27 May 2016 p. 1549-54 | 27 May 2016 (see r. 2(a))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 6 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
 Road Traffic Regulations Amendment Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2342-3 | 1 Jul 2016 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 3) 2016 (other than r. 5) | 20 Sep 2016 p. 3982-3 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 5: 21 Sep 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Vehicles) Amendment Regulations (No. 3) 2016 r. 5 | 20 Sep 2016 p. 3982-3 | 24 Oct 2016 (see r. 2(c))
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 reads as follows:
 2.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2015.
 The Transport Regulations Amendment (Fees and Charges) Regulations 2016 r. 9 reads as follows:
 9.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2016.
+On the date as at which this compilation was prepared, the Road Traffic (Vehicles) Amendment Regulations (No. 3) 2016 r. 5 had not come into operation. It reads as follows:
+5.Regulation 235 amended
+(1) In regulation 235(1) insert in alphabetical order:
+alcohol interlock has the meaning given in the Road Traffic (Authorisation to Drive) Act 2008 section 5A(1);
+(2) After regulation 235(3) insert:
+(3A) Despite subregulations (2) and (3), a person may alter a motor vehicle by installing an alcohol interlock without the approval of the CEO.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
