@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 17 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) had not come into operation. They read as follows:
 301.Queen Elizabeth II Medical Centre Act 1966 amended
 (2) Delete section 13(2e) and insert:
@@ -31,6 +32,14 @@ Part 22 — By-laws, regulations and determinations repealed or revoked
 307.By-laws and regulations repealed
 These by-laws and regulations are repealed:
 (j) Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986;
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 17 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 17 — Health Services Act 2016 amended
+59.Act amended
+This Division amends the Health Services Act 2016.
+60.Section 6 amended
+(1) In section 6 in the definition of public authority delete paragraph (c) and insert:
+(c)a local government, regional local government or regional subsidiary;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
