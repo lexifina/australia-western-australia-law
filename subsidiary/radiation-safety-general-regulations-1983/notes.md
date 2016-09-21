@@ -54,14 +54,12 @@ Radiation Safety (General) Amendment Regulations 2014 | 30 Dec 2014 p. 5501-3 | 
 Radiation Safety (General) Amendment Regulations 2015 | 19 May 2015 p. 1754-7 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations (No. 2) 2015 | 9 Oct 2015 p. 3982 | r. 1 and 2: 9 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 6 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
+Radiation Safety (General) Amendment Regulations 2016 | 20 Sep 2016 p. 3967-8 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2016 (see r. 2(b))
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
-4-6Footnote no longer applicable.
-Repealed by the National Health and Medical Research Council Act 1992 (Commonwealth).
+4-7Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
-Repealed by the Mines Safety and Inspection Act 1994.
-Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
-Now see the Local Government Act 1995.
+9-11Footnote no longer applicable.
 The Radiation Safety (General) Amendment Regulations (No. 2) 1999 r. 8(2) and (3) read as follows:
 (2) It is a defence to a prosecution for an offence against regulation 53B(1), inserted by subregulation (1), in relation to the possession of a laser pointer, to prove that the defendant possessed the pointer at the commencement of these regulations.
 (3) Subregulation (2) applies only until 31 May 2000.
@@ -71,7 +69,6 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 absorbed dose3(1)
-amending regulations60(1)
 approved3(1)
 average output power52(1)
 becquerel3(1)
@@ -84,7 +81,6 @@ class 3R laser3(1)
 class 4 laser3(1)
 Code28(1)
 code of practice31A(1)
-commencement day60(1)
 compliance test40(2)
 condition3(1)
 contrastSch. IX
@@ -135,6 +131,7 @@ medical practitioner3(1)
 microwave oven3(1)
 microwave oven standard3(1)
 near-surface disposal31A(1)
+NHMRC3(1)
 non-ionising radiation3(1)
 nuclide3(1)
 one half life of the radioactive substance12(3)
@@ -163,21 +160,17 @@ radioactive substance5(1)
 radiographer3(1)
 radiologist3(1)
 registered3(1)
-registrant3(1), 57A
-registration period60(1)
+registrant3(1)
 regulated class 3B laser52(1)
 repaired19A(4)
 responsible person15(1)
 sealed source3(1)
 section3(1)
 sievert3(1)
-skin type 157A
 smoke detector7B(1)
-solarium3(1)
 sun-tanning unit3(1)
 temporary permit3(1)
 the month of discharge31(5)
-the NHMRC3(1)
 the person at risk33(5)
 the relevant contents11(5)
 tissue weighting factor3(1)
