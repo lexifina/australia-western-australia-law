@@ -6,8 +6,9 @@ Medicines and Poisons Act 2014 s. 1 and 2 | 13 of 2014 | 2 Jul 2014 | 2 Jul 2014
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Medicines and Poisons Act 2014 s. 3-11 and Pt. 2-11 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 20 and Pt. 5 Div. 14 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Medicines and Poisons Act 2014 s. 3-11 and Pt. 2-11 | 13 of 2014 | 2 Jul 2014 | s. 3-11 and Pt. 2 (other than s. 14(2), Pt. 3-11: 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403); s. 14(2): to be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 20 and Pt. 5 Div. 14 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 20: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 14: to be proclaimed (see s. 2(1)(c))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 23 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 3-11 and Pt. 2-11 had not come into operation. They read as follows:
 3.Terms used
 In this Act —
@@ -1699,3 +1700,13 @@ pesticide means an agricultural chemical product as defined in the Agvet Code of
 or
 308.Section 155 deleted
 Delete section 155.
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 23 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 23 — Medicines and Poisons Act 2014 amended
+71.Act amended
+This Division amends the Medicines and Poisons Act 2014.
+72.Section 95 amended
+Delete section 95(1)(c) and insert:
+(c) a person employed by —
+(i) a local government or regional local government under the Local Government Act 1995 section 5.36; or
+(ii) a regional subsidiary.
