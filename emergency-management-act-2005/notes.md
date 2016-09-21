@@ -10,7 +10,17 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 184 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Footnote no longer applicable.
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 13 — Emergency Management Act 2005 amended
+51.Act amended
+This Division amends the Emergency Management Act 2005.
+52.Section 3 amended
+(1) In section 3 in the definition of public authority delete paragraph (c) and insert:
+(c)a local government, regional local government or regional subsidiary; or
+(2) In section 3 in the definition of public authority after each of paragraphs (a), (b) and (d) insert:
+or
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 184 had not come into operation. It reads as follows:
 184.Emergency Management Act 2005 amended
 (1) This section amends the Emergency Management Act 2005.
