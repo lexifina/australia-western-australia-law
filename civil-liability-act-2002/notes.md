@@ -29,6 +29,18 @@ Health, Safety and Civil Liability (Children in Schools and Child Care Services)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 3 | 11 of 2012 | 20 Jun 2012 | 1 Jan 2013 (see s. 2(b)(ii) and Gazette 14 Dec 2012 p. 6195)
 Reprint 4: The Civil Liability Act 2002 as at 13 Sep 2013 (includes amendments listed above)
 Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 1 | 8 of 2016 | 14 Apr 2016 | 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 8 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 8 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 8 — Civil Liability Act 2002 amended
+41.Act amended
+This Division amends the Civil Liability Act 2002.
+42.Section 5U amended
+In section 5U in the definition of public body or officer delete paragraph (f) and insert:
+(f)a local government, regional local government or regional subsidiary; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
