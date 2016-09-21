@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 December 2010 of the Western Australian Land Authority Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Western Australian Land Authority Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Land Authority Act 1992 | 35 of 1992 | 23 Jun 1992 | s. 1, 2 and 4: 23 Jun 1992 (see s. 2(1)); balance: 1 Jul 1992 (see s. 2(2) and Gazette 30 Jun 1992 p. 2869)
@@ -25,10 +25,11 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 136 | 8 of 2009 | 21
 Standardisation of Formatting Act 2010 s. 41 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 88 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Western Australian Land Authority Act 1992 as at 10 Dec 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 34 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Public Sector Management Act 1994 s. 99 deleted by the Public Sector Reform Act 2010 s. 57.
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
 (3) Despite subsections (1) and (2), on and from the commencement of this Act —
@@ -68,10 +69,21 @@ The Western Australian Land Authority Amendment Act 2004 s. 12(2)-(8) read as fo
 (7) A person mentioned in subsection (3) is to be regarded as having been engaged under section 11 of the WALA Act.
 (8) Where this section uses a term that is given a meaning in the WALA Act, the term has that meaning in this section.
 The Western Australian Land Authority Amendment Act 2004 s. 18(2) is a transitional provision of no futher effect.
-As at the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 had not come into operation. It reads as follows:
 72.Western Australian Land Authority Act 1992 amended
 Clause 2(4) in Schedule 4 to the Western Australian Land Authority Act 1992 is amended by deleting “(including rights under the Superannuation and Family Benefits Act 1938)”.
 The amendment in the State Superannuation Amendment Act 2007 s. 88 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 34 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 34 — Western Australian Land Authority Act 1992 amended
+94.Act amended
+This Division amends the Western Australian Land Authority Act 1992.
+95.Section 16 amended
+In section 16(1)(c) delete “governments and regional local governments” and insert:
+governments, regional local governments and regional subsidiaries
+96.Section 17 amended
+In section 17(5) in the definition of person delete “government or regional local government.” and insert:
+government, regional local government or regional subsidiary.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
