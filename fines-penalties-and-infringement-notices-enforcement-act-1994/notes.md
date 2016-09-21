@@ -39,6 +39,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 15 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Act 2003 s. 12 reads as follows:
 12.Validation
@@ -51,8 +52,15 @@ offender means —
 of the Fines, Penalties and Infringement Notices Enforcement Act 1994.
 (2) An agreement entered into, or purportedly entered into, by or on behalf of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 (3) An agreement entered into, or purportedly entered into, by a delegate of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 15 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 15 — Fines, Penalties and Infringement Notices Enforcement Act 1994 amended
+55.Act amended
+This Division amends the Fines, Penalties and Infringement Notices Enforcement Act 1994.
+56.Section 70 amended
+In section 70(1) in the definition of public authority delete “government or a regional local government.” and insert:
+government, regional local government or regional subsidiary.
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation. It reads as follows:
 Part 3 — Amendments to other Acts
 Division 12 — Fines, Penalties and Infringement Notices Enforcement Act 1994 amended
 95.Section 105 deleted
