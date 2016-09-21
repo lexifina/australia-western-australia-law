@@ -9,6 +9,7 @@ Road Traffic (Administration) Amendment Regulations 2015 | 26 Jun 2015 p. 2274 |
 Road Traffic (Administration) Amendment Regulations (No. 4) 2015 | 13 Nov 2015 p. 4662 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2015 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 5 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
 Road Traffic Regulations Amendment Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2342-3 | 1 Jul 2016 (see r. 2(b))
+Road Traffic (Administration) Amendment Regulations 2016 | 20 Sep 2016 p. 3983-4 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
