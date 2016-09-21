@@ -57,6 +57,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Building Act 2011 s. 173 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Water Services Legislation Amendment and Repeal Act 2012 s. 229 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 9: The Soil and Land Conservation Act 1945 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biodiversity Conservation Act 2016 s. 320 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.
@@ -66,6 +70,12 @@ Now known as the Soil and Land Conservation Act 1945; short title changed (see n
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 was a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 320 had not come into operation. It reads as follows:
+320.Soil and Land Conservation Act 1945 amended
+(1) This section amends the Soil and Land Conservation Act 1945.
+(2) In the Schedule delete “Sandalwood Act 1929”.
+(3) In the Schedule insert in alphabetical order:
+Biodiversity Conservation Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
