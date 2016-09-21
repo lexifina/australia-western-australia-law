@@ -107,6 +107,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+ | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 30 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
@@ -117,6 +118,21 @@ On the date as at which this compilation was prepared, the State Superannuation 
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 30 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 30 — Public Sector Management Act 1994 amended
+85.Act amended
+This Division amends the Public Sector Management Act 1994.
+86.Section 102 amended
+(1) Before section 102(1) insert:
+(1A) In this section —
+any local government or regional local government includes any regional subsidiary;
+council of a local government or regional local government includes the governing body of a regional subsidiary.
+(2) In section 102(3) delete “Part 5, Division 8 of the Local Government Act 1995.” and insert:
+the Local Government Act 1995 Part 5 Division 8 or with a charter of a regional subsidiary.
+87.Schedule 1 amended
+In Schedule 1 after item 15 insert:
+15A | Any regional subsidiary or the governing body of a regional subsidiary
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
