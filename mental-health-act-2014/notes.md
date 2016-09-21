@@ -7,6 +7,18 @@ Mental Health Legislation Amendment Act 2014 Pt. 3 | 25 of 2014 | 3 Nov 2014 | 3
 Mental Health Amendment Act 2015 | 36 of 2015 | 23 Nov 2015 | s. 1 and 2: 23 Nov 2015 (see s. 2(a)); s. 3-8: 30 Nov 2015 (see s. 2(b) and (c) and Gazette 13 Nov 2015 p. 4632)
 Reprint 1: The Mental Health Act 2014 as at 15 Apr 2016 (includes amendments listed above)
 Health Services Act 2016 s. 296 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 24 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 24 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 24 — Mental Health Act 2014 amended
+73.Act amended
+This Division amends the Mental Health Act 2014.
+74.Section 572 amended
+In section 572(1) in the definition of State authority delete paragraph (d) and insert:
+(d)a local government, regional local government or regional subsidiary;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
