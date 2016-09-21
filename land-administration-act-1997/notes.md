@@ -57,6 +57,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Biodiversity Conservation Act 2016 s. 318 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -396,6 +397,14 @@ public health has the meaning given in the Public Health Act 2016 section 4(1).
 (i) consult with the management body of the reserve or, if there is no management body, the Minister; and
 (ii) consider any advice provided by the management body or, as the case requires, the Minister.
 (5) If there is a conflict or inconsistency between a local law made by the Chief Health Officer under subsection (2) and a local law made by a local government under the Local Government Act 1995 or any other Act, the local law made by the Chief Health Officer prevails to the extent of the conflict or inconsistency.
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 318 had not come into operation. It reads as follows:
+318.Land Administration Act 1997 amended
+(1) This section amends the Land Administration Act 1997.
+(2) In section 117:
+(a) delete paragraph (d) and insert:
+(d) the Biodiversity Conservation Act 2016; or
+(b) after paragraph (a) insert:
+or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
