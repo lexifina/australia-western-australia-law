@@ -36,6 +36,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
+Biodiversity Conservation Act 2016 s. 315 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 had not come into operation. It reads as follows:
 15.Financial Management Act 2006 amended
@@ -43,6 +44,10 @@ On the date as at which this compilation was prepared, the Marketing of Potatoes
 (2) In Schedule 1 delete the item relating to the Potato Marketing Corporation of Western Australia.
 Footnote no longer applicable.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 315 had not come into operation. It reads as follows:
+315.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In section 23(1) in the definition of prescribed receipts paragraph (b) delete “fauna or”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
