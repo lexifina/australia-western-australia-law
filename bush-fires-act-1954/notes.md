@@ -57,6 +57,12 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4 | 8 of 2012 | 21 May 20
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Reprint 9: The Bush Fires Act 1954 as at 11 Oct 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 17 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biodiversity Conservation Act 2016 s. 312 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Bush Fires Amendment Act 2016 s. 3-6 | 27 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 2 | 28 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
@@ -65,6 +71,63 @@ The Bush Fires Amendment Act 1992 s. 6(2) reads as follows:
 The Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 11(2) is a transitional provision that is of no further effect.
 The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) are transitional provisions that are of no further effect.
 The Standardisation of Formatting Act 2010 s. 52(4) in relation to amendments to the Bush Fires Act 1954 s. 21(1), (2) and (3), s. 39(2), s. 45 and s. 47, the amendment to s. 44(3) to delete “(3)(a) Where” and insert “(3) Where” and the amendments to s. 64 to delete “s. 21(2),” and insert “s. 21(2A) and (2B), had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(5)-(8).
+On the date as at which this compilation was prepared, the Bush Fires Amendment Act 2016 s. 3-6 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Bush Fires Act 1954.
+4.Part III Division 7 inserted
+At the end of Part III insert:
+Division 7 — Bush fire risk treatment standards
+35AA.FES Commissioner may make bush fire risk treatment standards
+(1) The FES Commissioner may make standards (bush fire risk treatment standards) specifying measures for —
+(a)preventing the outbreak of a bush fire or the spread or extension of a bush fire; and
+(b)mitigating the effects of a bush fire on any property.
+(2) The measures that may be specified in bush fire risk treatment standards are —
+(a) all or any of the things mentioned in section 33(1)(a) and (b); and
+(b) any other measures the FES Commissioner considers appropriate.
+(3) Bush fire risk treatment standards may apply to —
+(a) the whole of the State; or
+(b) one or more specified areas of the State.
+(4) The FES Commissioner may amend bush fire risk treatment standards or revoke them and make new bush fire risk treatment standards.
+(5) If the FES Commissioner makes bush fire risk treatment standards, the FES Commissioner must publish those standards and any amendment or revocation of them —
+(a) in a newspaper circulating throughout the State or the relevant areas of the State, as the case requires; or
+(b) on a website maintained by the FES Commissioner; or
+(c) as the FES Commissioner otherwise considers appropriate.
+(6) The FES Commissioner must consult with the Minister before making, amending or revoking any bush fire risk treatment standards.
+(7) The Interpretation Act 1984 section 42 applies to and in relation to the bush fire risk treatment standards as if they were regulations.
+35AB.Compliance with bush fire risk treatment standards
+(1) In this section —
+bush fire risk treatment standards means bush fire risk treatment standards published under section 35AA(5);
+owner or occupier of land includes a department of the Public Service that occupies land or a State agency or instrumentality that owns or occupies land.
+(2) An owner or occupier of land may comply with bush fire risk treatment standards that apply to the land, but is not required to do so.
+(3) Subsection (2) does not authorise an owner or occupier of land to comply with bush fire risk treatment standards that apply to the land if that compliance would result in the owner or occupier failing to comply with —
+(a) another provision of this Act that has effect in relation to the land; or
+(b) a provision of another written law that has effect in relation to the land and that is prescribed by the regulations for the purposes of this subsection; or
+(c) local laws referred to in section 33(5a) that apply to the land.
+(4) Except as provided in subsection (3), an owner or occupier of land may comply with bush fire risk treatment standards that apply to the land despite any other written law.
+5.Section 35A amended
+In section 35A in the definition of normal brigade activities paragraph (c) delete “section 33(1) or a local law made under section 33(5a);” and insert:
+section 33(1), 34(2) or 35(1) or a local law made under section 33(5a);
+6.Section 65 amended
+In section 65(2):
+(a) after paragraph (b) insert:
+(ca) a copy purporting to be a true copy of bush fire risk treatment standards published under section 35AA(5) certified as such by the FES Commissioner; or
+(b) delete “order or notice,” and insert:
+order, notice or standard,
+On the date as at which this compilation was prepared, the Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Bush Fires Act 1954 amended
+3.Act amended
+This Part amends the Bush Fires Act 1954.
+4.Section 35A amended
+In section 35A delete the definition of loss or damage.
+5.Section 37 deleted
+Delete section 37.
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 312 had not come into operation. It reads as follows:
+312.Bush Fires Act 1954 amended
+(1) This section amends the Bush Fires Act 1954.
+(2) In section 7(1) delete the definition of authorised CALM Act officer and insert:
+authorised CALM Act officer means —
+(a)a wildlife officer who is authorised for the purposes of the Conservation and Land Management Act 1984 section 45(4)(b); or
+(b)a forest officer, ranger or conservation and land management officer who is authorised for the purposes of the Conservation and Land Management Act 1984 section 45(5A)(b);
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
