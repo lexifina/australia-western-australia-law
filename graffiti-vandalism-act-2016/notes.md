@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Graffiti Vandalism Act 2016 Pt. 2-6 | 16 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 14 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Graffiti Vandalism Act 2016 Pt. 2-6 had not come into operation. They read as follows:
 Part 2 — Graffiti offences
 4.Terms used
@@ -253,6 +254,14 @@ This Division amends the Young Offenders Act 1994.
 44.Section 46 amended
 In section 46(5a) before “but” insert:
 and sections 5 and 10 of the Graffiti Vandalism Act 2016
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 14 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 14 — Graffiti Vandalism Act 2016 amended
+53.Act amended
+This Division amends the Graffiti Vandalism Act 2016.
+54.Section 4 amended
+In section 4 in the definition of public property delete paragraph (c) and insert:
+(c) a local government, regional local government or regional subsidiary;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
