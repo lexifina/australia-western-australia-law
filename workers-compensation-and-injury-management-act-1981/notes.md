@@ -79,12 +79,13 @@ Workers’ Compensation and Injury Management Amendment (Jockeys) Act 2012 | 45 
 Workers’ Compensation and Injury Management Amendment Act 2013 | 21 of 2013 | 12 Nov 2013 | s. 1 and 2: 12 Nov 2013 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2013 (see s. 2(b))
 Reprint 11: The Workers’ Compensation and Injury Management Act 1981 as at 13 Feb 2015 (includes amendments listed above)
 Health Services Act 2016 s. 306 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
 Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 4 | 28 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
 The effect of this section was removed by the Western Australian Marine Act 1982 s. 135, subject to the savings provisions in section 135(4) of that Act.
 Repealed by the Statute Stocktake Act 1999 (Cwlth).
@@ -422,11 +423,11 @@ an insurer who has issued to the employer a liability insurance policy other tha
 (3) In this section a reference to doing anything includes a reference to omitting to do that thing.
 15.Validity of terms, conditions and exclusions of insurance policies effected during the transitional period
 A term, condition or exclusion of an insurance policy obtained or kept current during the transitional period for the purposes of Part X which, if the policy were obtained immediately after the transitional period, would be valid, lawful and effective is taken to be valid, lawful and effective from the time when the policy was obtained or, if later, from the beginning of the transitional period.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
 74.Workers’ Compensation and Injury Management Act 1981 amended
 Section 201(2) of the Workers’ Compensation and Injury Management Act 1981 is amended by deleting “or the Superannuation and Family Benefits Act 1938”.
 [Section 74 amended by No. 42 of 2004 s. 174.]
-On the date as at which this reprint was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
 (2) In Schedule 1 clause 11(2) delete the definitions of:
 Amount A
 Amount D
@@ -446,11 +447,47 @@ Amount Aa.
 one year mentioned in subclause (5), or if for part of that period the worker was not in the employment that the worker is in on the date of incapacity,
 (7) In Schedule 1 clause 11(7) delete “Amount D” and insert:
 Amount Aa
-On the date as at which this reprint was prepared, the Medicines and Poisons Act 2014 s. 191 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 191 had not come into operation. It reads as follows:
 191.Workers’ Compensation and Injury Management Act 1981 amended
 (1) This section amends the Workers’ Compensation and Injury Management Act 1981.
 (2) In section 5(1) delete the definition of drug of addiction and insert:
 drug of addiction has the meaning given in the Misuse of Drugs Act 1981 section 3(1);
+On the date as at which this compilation was prepared, the Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Workers’ Compensation and Injury Management Act 1981 amended
+8.Act amended
+This Part amends the Workers’ Compensation and Injury Management Act 1981.
+9.Section 49A amended
+In section 49A insert in alphabetical order:
+FES employment, in relation to a worker, means any period of firefighting employment during which the worker is engaged as a member or officer of a permanent fire brigade as defined in Fire Brigades Act 1942 section 4(1);
+firefighting employment means employment by or under the Crown in right of the State, a substantial part of the duties of which consists of firefighting duties, which —
+(a)is covered by an industrial award or industrial agreement applicable to firefighting; or
+(b)is prescribed to be firefighting employment for the purposes of this Act;
+hazardous fire means —
+(a)a fire in a building; or
+(b)a fire in a vehicle, whether designed to move under its own power or to be towed and whether or not still moveable; or
+(c)a fire involving non-organic refuse or rubbish created by humans; or
+(d)a fire that is prescribed to be a hazardous fire for the purposes of this Division;
+hazardous firefighting employment means —
+(a)FES employment; and
+(b)non-FES employment during which the worker attends hazardous fires at a rate at least equivalent to the rate of 5 hazardous fires per year;
+non-FES employment, in relation to a worker, means any period of firefighting employment which is not FES employment;
+10.Section 49B amended
+Delete 49B(b) and insert:
+(b) as at the date of injury the worker is or has been in firefighting employment.
+11.Section 49C amended
+(1) In section 49C(1):
+(a) in paragraph (a) delete “before the date of injury, was employed as a firefighter for” and insert:
+as at the date of injury, is or has been in firefighting employment for a period of, or periods in aggregate amounting to,
+(b) delete paragraph (b) and insert:
+(b) is taken to have been exposed to the hazards of a fire scene in the course of the firefighting employment; and
+(c) before “employment” (2nd occurrence) insert:
+firefighting
+(2) Delete section 49C(2) and (3) and insert:
+(2) For the purposes of subsection (1), a worker to whom this Division applies is taken to have been exposed to the hazards of a fire scene if the employer is satisfied that the worker has completed a period of hazardous firefighting employment of, or 2 or more periods of hazardous firefighting employment in aggregate amounting to, at least the lesser of —
+(a) 5 years; and
+(b) the qualifying period.
+Note:The heading to amended section 49C is to read:
+When firefighting employment taken to contribute to specified disease
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
