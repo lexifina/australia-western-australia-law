@@ -54,13 +54,14 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 16 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.
 The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
-On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 (given effect by s. 38) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 (given effect by s. 38) had not come into operation. It reads as follows:
 38.Consequential Amendments
 The Acts referred to in the Schedule are amended as set out in Schedule 1.
 Schedule 1 item 4 reads as follows:
@@ -68,7 +69,7 @@ Schedule 1 — Consequential amendments to other Acts
 4.Freedom of Information Act 1992
 Provision amended | Amendment
 Schedule 2 | Delete the item “The State Government Insurance Corporation.”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -76,6 +77,16 @@ Act | Provision
 .......................... | ........
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 16 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 16 — Freedom of Information Act 1992 amended
+57.Act amended
+This Division amends the Freedom of Information Act 1992.
+58.Glossary amended
+(1) In the Glossary clause 1 in the definition of principal officer after paragraph (d) insert:
+(ea)in relation to a regional subsidiary — the person who manages the affairs of the regional subsidiary;
+(2) In the Glossary clause 1 in the definition of public body or office delete paragraph (d) and insert:
+(d)a local government, regional local government or regional subsidiary; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
