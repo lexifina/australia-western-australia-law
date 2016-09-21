@@ -50,6 +50,10 @@ Interpretation and Reprints Amendment Act 2010 Pt. 2 | 31 of 2010 | 25 Aug 2010 
 Public Sector Reform Act 2010 s. 78 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 7: The Interpretation Act 1984 as at 21 Jan 2011 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 27 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 19 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
 (1) Where an Act is not to come into operation immediately on the passing thereof, and confers power or will, upon its coming into operation, amend another Act so as to confer power under the other Act as so amended, to make any appointment, to hold any election, to make, grant or issue any instrument that is to say any proclamation, Order in Council, order, warrant, scheme, letters patent, rules, regulations, or by-laws, to give notices, to prescribe forms, or to do any other thing for the purposes of the Act, the power that is or will be conferred may, unless the Act otherwise provides, be exercised at any time after the passing of the first-mentioned Act but the exercise of the power does not confer a right or impose an obligation upon a person before the coming into operation of the first-mentioned Act except in so far as is necessary or expedient for the purpose of making the first-mentioned Act fully effective upon its coming into operation or the other Act fully effective when so amended.
@@ -79,6 +83,14 @@ And, for the protection of persons acting in execution of this Act, where an act
 H.
 No action shall lie against any Justice of the Peace, Officer of Police, Policeman, Constable, Peace Officer, or any other person in the employ of the Government authorised to carry the provisions of this Act, or any of them, into effect, or any person acting for, or under such persons, or any of them, on account of any act, matter, or thing done, or to be done, or commanded by them, or any of them, in carrying the provisions of this Act into effect again any parties offending or suspected of offending against the same, unless there is direct proof of corruption or malice; and if any such person shall be sued for any act, matter, or thing which he shall have so done, or shall so do, in carrying the provisions of this Act into effect, he may plead the general issue and give the special matter in evidence; and in case of judgment after verdict, or by a Judge sitting as a jury, or on demurrer being given for the defendant, or of the plaintiff discontinuing, or becoming non-suit in any such action, the Court before which the action was brought may award treble costs to the defendant or such portion of those costs as the Court thinks fit.
 The Sunday Observance Laws Amendment and Repeal Act 1997 s. 4(2) is a transitional provision that is of no further effect.
+7On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 19 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 19 — Interpretation Act 1984 amended
+63.Act amended
+This Division amends the Interpretation Act 1984.
+64.Section 5 amended
+In section 5 insert in alphabetical order:
+regional subsidiary means a regional subsidiary established under the Local Government Act 1995;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
