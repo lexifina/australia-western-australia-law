@@ -25,8 +25,20 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 18 | 17 of 2014 | 2 Jul 2014
 Declared Places (Mentally Impaired Accused) Act 2015 s. 82 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 4: The Children and Community Services Act 2004 as at 10 Jul 2015 (includes amendments listed above)
 Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 1 and Pt. 3 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 6 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 6 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 6 — Children and Community Services Act 2004 amended
+36.Act amended
+This Division amends the Children and Community Services Act 2004.
+37.Section 3 amended
+In section 3 in the definition of public authority delete paragraph (c) and insert:
+(c)a local government, regional local government or regional subsidiary; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
