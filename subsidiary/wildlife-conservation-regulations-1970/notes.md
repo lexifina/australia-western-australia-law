@@ -38,7 +38,14 @@ Reprint 4: The Wildlife Conservation Regulations 1970 as at 12 Apr 2013 (include
 Wildlife Conservation Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3338-9 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2014 (see r. 2(b))
 Wildlife Conservation Amendment Regulations 2014 | 8 Jan 2015 p. 137-9 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Wildlife Conservation Amendment Regulations 2016 | 26 Aug 2016 p. 3651-2 | r. 1 and 2: 26 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2016 (see r. 2(b))
-Footnote no longer required.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Biodiversity Conservation Act 2016 s. 279(a) assented to 21 Sep 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 279(a) had not come into operation. It reads as follows:
+279.Subsidiary legislation repealed
+The following subsidiary legislation is repealed:
+(a) the Wildlife Conservation Regulations 1970;
 Now known as the Zoological Parks Authority.
 Repealed by the Zoological Parks Authority Act 2001.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
