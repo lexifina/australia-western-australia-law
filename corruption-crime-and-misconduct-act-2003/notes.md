@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 31 July 2015 of the Corruption, Crime and Misconduct Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Corruption, Crime and Misconduct Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -32,6 +32,10 @@ Reprint 5: The Corruption and Crime Commission Act 2003 as at 18 Oct 2013 (inclu
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (s. 3-32) | 35 of 2014 | 9 Dec 2014 | s. 32: 30 Dec 2014 (see s. 2(b) and Gazette 30 Dec 2014 p. 5497); Pt. 2 (other than s. 32): 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 84 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 6: The Corruption, Crime and Misconduct Act 2003 as at 31 Jul 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 11 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Corruption, Crime and Misconduct Act 2003; short title changed (see note under s. 1).
@@ -131,6 +135,18 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 11 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 11 — Corruption, Crime and Misconduct Act 2003 amended
+47.Act amended
+This Division amends the Corruption, Crime and Misconduct Act 2003.
+48.Section 3 amended
+(1) In section 3(1) in the definition of minor misconduct delete paragraph (c) and insert:
+(c)conduct engaged in by —
+(i)a member of a local government or council of a local government; or
+(ii)a member of a council of a regional local government;
+(2) In section 3(1) in the definition of public authority paragraph (c) delete “regional local government” and insert:
+regional local government, regional subsidiary
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
