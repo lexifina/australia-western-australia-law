@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 August 2015 of the Wildlife Conservation Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Wildlife Conservation Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fauna Protection Act 1950 | 77 of 1950 (14 and 15 Geo. VI No. 77) | 5 Jan 1951 | 1 Jul 1952 (see s. 2 and Gazette 13 Jun 1952 p. 1497-8)
@@ -49,9 +49,16 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 2 | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 44 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Reprint 9: The Wildlife Conservation Act 1950 as at 7 Aug 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biodiversity Conservation Act 2016 s. 278 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (1b) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 278 had not come into operation. It reads as follows:
+278.Wildlife Conservation Act 1950 repealed
+The Wildlife Conservation Act 1950 is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
