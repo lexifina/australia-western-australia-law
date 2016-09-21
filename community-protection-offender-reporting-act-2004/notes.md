@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 December 2014 of the Community Protection (Offender Reporting) Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Community Protection (Offender Reporting) Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 | 72 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; s. 3-5, Pt. 4 and 6: 25 Dec 2004 (see s. 2 and Gazette 24 Dec 2004 p. 6266); Pt. 2 (except s. 6(2)(b) and 12) and Pt. 3 and 5 and Sch. 1 and 2: 1 Feb 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6266); s. 6(2)(b): 1 Jul 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6266)
@@ -14,13 +14,14 @@ Community Protection (Offender Reporting) Amendment Act 2012 Pt. 2 | 1 of 2012 |
 Community Protection (Offender Reporting) Amendment Act (No. 2) 2012 Pt. 2 (s. 3-42) | 54 of 2012 | 3 Dec 2012 | s. 3-22, 27, 34(1) and (2) and 35-38: 23 Feb 2013 (see s. 2(b) and Gazette 22 Feb 2013 p. 1045); s. 23-26, 28-33, 34(3) and 39-42: 9 Nov 2013 (see s. 2(b) and Gazette 8 Nov 2013 p. 4969)
 Reprint 2: The Community Protection (Offender Reporting) Act 2004 as at 5 Dec 2014 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 5 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 (as amended by No. 29 of 2008 s. 25(4)) | 8 Dec 2004 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 10 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. This reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this reprint was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 (as amended by the Criminal Law Amendment (Homicide) Act 2008 s. 25(4)) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 (as amended by the Criminal Law Amendment (Homicide) Act 2008 s. 25(4)) had not come into operation. They read as follows:
 12.Class 3 offences
 A Class 3 offence is —
 (a) an offence against a provision listed in Schedule 3;
@@ -41,7 +42,7 @@ s. 326 | Aggravated sexual penetration without consent (if the person against wh
 s. 327 | Sexual coercion (if the person against whom the offence is committed is not a child)
 s. 328 | Aggravated sexual coercion (if the person against whom the offence is committed is not a child)
 [Schedule 3 amended by No. 29 of 2008 s. 25(4).]
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 29 had not come into operation. It reads as follows:
+On the date as at which this ompilation was prepared, the Prostitution Amendment Act 2008 s. 29 had not come into operation. It reads as follows:
 29.Community Protection (Offender Reporting) Act 2004 amended
 (1) The amendments in this section are to the Community Protection (Offender Reporting) Act 2004.
 (2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
@@ -50,6 +51,14 @@ Sexual Services Act 2000
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 ”.
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 10 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts in relation to regional subsidiaries
+Division 10 — Community Protection (Offender Reporting) Act 2004 amended
+45.Act amended
+This Division amends the Community Protection (Offender Reporting) Act 2004.
+46.Section 3 amended
+In section 3 in the definition of public authority delete paragraph (b) and insert:
+(b)a local government, regional local government or regional subsidiary; or
 reporting period3
 respondent14, 85
 restraining order107(1)
