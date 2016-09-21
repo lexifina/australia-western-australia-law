@@ -60,6 +60,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Biodiversity Conservation Act 2016 s. 314 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Deleted by the Building Act 2011 s. 174(6).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
@@ -115,6 +116,29 @@ The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails 
 On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
 2.Environmental Protection Act 1986 amended
 (3) Part VIIA is repealed.
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 314 had not come into operation. It reads as follows:
+314.Environmental Protection Act 1986 amended
+(1) This section amends the Environmental Protection Act 1986.
+(2) In Schedule 5 clause 1:
+(a) in paragraph (a) delete “biological diversity; or” and insert:
+biodiversity; or
+(b) in paragraph (b) delete “fauna indigenous to Western Australia; or” and insert:
+fauna; or
+(c) in paragraph (c) delete “rare flora; or” and insert:
+threatened flora; or
+(3) In Schedule 5 clause 2 delete the definitions of:
+rare flora
+threatened ecological community
+(4) In Schedule 5 clause 2 insert in alphabetical order:
+biodiversity has the meaning given in the Biodiversity Conservation Act 2016 section 5(1);
+fauna has the meaning given in the Biodiversity Conservation Act 2016 section 5(1);
+threatened ecological community has the meaning given in the Biodiversity Conservation Act 2016 section 5(1);
+threatened flora has the meaning given in the Biodiversity Conservation Act 2016 section 5(1);
+(5) Delete Schedule 6 items 4, 5 and 6 and insert:
+4.Clearing consisting of the taking of flora —
+(a) as authorised by a licence under the Biodiversity Conservation Act 2016; or
+(b) as authorised by an authorisation under the Biodiversity Conservation Act 2016 section 40; or
+(c) by a person referred to in the Biodiversity Conservation Act 2016 section 171(2) for the purposes of supply in accordance with a licence under that Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
