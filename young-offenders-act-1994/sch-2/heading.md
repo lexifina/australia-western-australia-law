@@ -52,6 +52,7 @@ s. 16 | Causing, permitting, or seeking to induce child to act as prostitute
 s. 17 | Obtaining payment for prostitution by a child
 s. 18 | Agreement for prostitution by a child
 3.Road Traffic Act 1974
+s. 54 | Driver in incident occasioning bodily harm to stop, ensure assistance and give information
 s. 59 | Dangerous driving causing death, injury, etc.
 s. 59A | Dangerous driving causing bodily harm
-[Schedule 2 amended by No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5); No. 49 of 2012 s. 182.]
+[Schedule 2 amended by No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5); No. 49 of 2012 s. 182; No. 25 of 2016 s. 21(3).]

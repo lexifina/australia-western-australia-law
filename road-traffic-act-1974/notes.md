@@ -155,6 +155,7 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 35 | 17 of 2014 | 2 Jul 2014
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) | 2 of 2015 | 25 Feb 2015 | 4 Apr 2016 (see s. 2(b) and Gazette 24 Mar 2016 p. 927)
 Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9))
+Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1 | 25 of 2016 | 21 Sep 2016 | 22 Sep 2016 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -163,6 +164,7 @@ Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaim
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1 and Div. 4 Subdiv. 1 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -331,11 +333,287 @@ This Division amends the Road Traffic Act 1974.
 326.Section 70 amended
 In section 70(7) delete the definition of technologist and insert:
 technologist means a person approved, or belonging to a class of persons approved, by the Minister to prepare sampling equipment.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1 and Div. 4 Subdiv. 1 had not come into operation. They read as follows:
+Part 3 — Amendments that will be brought into operation by proclamation
+Division 1 — Amendments relating to careless driving
+Subdivision 1 — Road Traffic Act 1974 amended
+22.Act amended
+This Subdivision amends the Road Traffic Act 1974.
+23.Section 59 amended
+In section 59(4) after “59A,” insert:
+59BA(1),
+24.Section 59A amended
+In section 59A(4) after “section” insert:
+59BA(1),
+25.Section 59BA inserted
+After section 59A insert:
+59BA.Careless driving causing death, grievous bodily harm or bodily harm
+(1) If a motor vehicle driven by a person (the driver) is involved in an incident occasioning the death of, or grievous bodily harm or bodily harm to, another person and the driver was, at the time of the incident, driving the motor vehicle without due care and attention, the driver commits an offence.
+Penalty for this subsection: imprisonment for 3 years or a fine of 720 PU and, in any event, the court convicting the person must order that the person be disqualified from holding or obtaining a driver’s licence for a period of not less than 3 months.
+(2) For the purposes of subsection (1) —
+(a) it is immaterial that the death, grievous bodily harm or bodily harm might have been avoided by proper precaution on the part of a person other than the person charged or might have been prevented by proper care or treatment; and
+(b) when an incident occasions grievous bodily harm to a person and that person receives surgical or medical treatment, and death results either from the harm or the treatment, the incident is deemed to have occasioned the death of that person, although the immediate cause of death was the surgical or medical treatment if the treatment was reasonably proper in the circumstances and was applied in good faith.
+(3) A person charged with an offence against subsection (1) may, instead of being convicted of that offence, be convicted of an offence against section 62.
+26.Section 59B amended
+(1) In section 59B(1) and (2) delete “59 and 59A,” and insert:
+59, 59A and 59BA(1),
+(2) After section 59B(6) insert:
+(7) In any proceeding for an offence against section 59BA(1) it is a defence for the person charged to prove that the death, grievous bodily harm or bodily harm occasioned by the incident was not in any way attributable to the level of care and attention with which the motor vehicle was driven.
+Note:The heading to amended section 59B is to read:
+Ancillary matters and defences for sections 59, 59A and 59BA
+27.Section 62 amended
+In section 62 delete the Penalty and insert:
+Penalty: a fine of 30 PU.
+Division 2 — Amendments relating to taking samples
+30.Act amended
+This Division amends the Road Traffic Act 1974.
+31.Section 64AB amended
+In section 64AB(7) delete “4 hours” and insert:
+4 hours, or 12 hours if the sample was taken under section 66(8B),
+32.Section 64AC amended
+In section 64AC(4) delete “4 hours” and insert:
+4 hours, or 12 hours if the sample was taken under section 66(8B),
+33.Section 65 amended
+In section 65 insert in alphabetical order:
+prescribed sample taker means —
+(a)a medical practitioner or registered nurse; or
+(b)an appropriately qualified person prescribed for the purposes of the provision in which the term is used;
+34.Section 66 amended
+After section 66(6a) insert:
+(7) Subsection (8B) applies if a police officer has reasonable grounds to believe that —
+(a) the presence of a motor vehicle has occasioned, or its use has been an immediate or proximate cause of serious bodily harm to, or the death of, a person; and
+(b) a person (the person) may have been the driver or person in charge of the motor vehicle at the time of that presence or use.
+(8A) In subsection (7) —
+serious bodily harm, in relation to a person, means bodily harm that the police officer has reasonable grounds to believe is likely to require the attendance of the person at a hospital (whether or not that is practicable).
+(8B) If this subsection applies, a police officer may —
+(a) require the person to do one or both of the following —
+(i) allow a prescribed sample taker to take a sample of the person’s blood for analysis;
+(ii) provide a sample of the person’s urine for analysis;
+or
+(b) where the person is incapable of complying with that requirement — cause a prescribed sample taker to take a sample of the person’s blood for analysis.
+(8C) For the purposes of subsection (8B), a police officer may require the person to accompany a police officer to a police station or some other place, and may require the person to wait at the police station or place.
+(8) A police officer must not make a requirement under subsection (8B)(a), or cause a prescribed sample taker to take a sample under subsection (8B)(b), if it appears to the police officer that the sample cannot be taken or provided within 12 hours after the time of the presence or use of the motor vehicle referred to in subsection (7)(a).
+35.Section 69 amended
+(1) In section 69(1) delete the passage that begins with “Act,” and continues to the end of the subsection and insert:
+Act.
+(2) After section 69(1a) insert:
+(2A) The prescribed sample taker must ensure that both samples are delivered to a police officer.
+(2B) One of the samples must be delivered, on behalf of the person from whom the samples were taken, to the Chemistry Centre (WA) by a police officer or a person appointed or engaged for that purpose.
+36.Section 69A amended
+(1) In section 69A:
+(a) delete “Where pursuant” and insert:
+(1) Where pursuant
+(b) delete the passage that begins with “Act,” and continues to the end of the section and insert:
+Act.
+(2) At the end of section 69A insert:
+(2) The prescribed sample taker must ensure that both samples are delivered to a police officer.
+(3) One of the samples must be delivered, on behalf of the person who provided the samples, to the Chemistry Centre (WA) by a police officer or a person appointed or engaged for that purpose.
+37.Section 69B amended
+(1) In section 69B:
+(a) delete “If the drug” and insert:
+(1) If the drug
+(b) delete the passage that begins with “Act,” and continues to the end of the section and insert:
+Act.
+(2) At the end of section 69B insert:
+(2) The authorised drug tester must ensure that both samples are delivered to a police officer.
+(3) One of the samples must be delivered, on behalf of the person who provided the samples, to the Chemistry Centre (WA) by a police officer or a person appointed or engaged for that purpose.
+38.Sections 70A and 70B inserted
+After section 69B insert:
+70A.Blood, urine or oral fluid sample: delivery of person’s sample to Chemistry Centre (WA)
+(1) A sample of blood, urine or oral fluid delivered to the Chemistry Centre (WA) on behalf of a person under section 69(2B), 69A(3) or 69B(3) must be retained, and appropriately stored, by the Chemistry Centre (WA) until the person requests the sample.
+(2) The person may, within 3 months after the day on which the sample was delivered to the Chemistry Centre (WA), request that the sample be delivered to an analyst (as defined in the Misuse of Drugs Act 1981 section 3(1)) nominated by the person, for analysis.
+(3) The cost of delivering the sample is to be paid for by the person.
+(4) Despite subsection (1), the Chemistry Centre (WA) need not store the sample for more than 3 months.
+70B.Evidence of delivery of blood, urine or oral fluid samples
+(1) In proceedings for an offence against section 63, 64, 64AA, 64A, 64AAA, 64AB or 64AC, evidence of the delivery of a sample to an analyst or drug analyst may be given in the form of a certificate in which a person who took delivery of the sample sets out the prescribed particulars of the delivery of the sample to the person together with their signature.
+(2) In the absence of evidence to the contrary —
+(a) it is to be presumed that each signature on the certificate is the signature of the person of whom it purports to be the signature; and
+(b) the certificate is evidence of its contents.
+(3) Except with the consent of the accused, evidence of the delivery of a sample to a person in the form of a certificate cannot be given in the proceedings and, if it is given, is not admissible, unless a copy of the certificate is given to the accused at least 28 days before the proceedings.
+(4) If a copy of the certificate has been given as required by subsection (3), the accused cannot challenge or call into question a matter set out in the certificate unless —
+(a) notice in writing of the accused’s intention is given to the prosecutor at least 14 days before the proceedings; or
+(b) the court, in the interests of justice, gives the accused leave to so do.
+(5) A notice under subsection (4)(a) must specify the matter that is to be challenged or called into question.
+39.Section 70 amended
+(1) In section 70(1)(d) and (3a)(a) and (b) delete “4 hours” and insert:
+4 hours, or 12 hours if the sample was taken under section 66(8B),
+(2) In section 70(3b) delete “medical practitioner, registered nurse,” and insert:
+prescribed sample taker,
+40.Various references to “medical practitioner or registered nurse” amended
+In the provisions listed in the Table delete “medical practitioner or registered nurse” (each occurrence) and insert:
+prescribed sample taker
+Table
+s. 66(2), (5), (6), (6a), (11) and (12) | s. 66B(1), (2) and (4)
+s. 66E(1), (2) and (4) | s. 66F(1) and (2)
+s. 67(2) | s. 67AA(2)
+s. 67AB(2) | s. 67A(2)
+s. 68(3) and (7) | s. 69(1)
+s. 69A | s. 70(1), (2), (3a) and (3b)
+s. 72(1)
+Note:The heading to amended section 66F is to read:
+Prescribed sample takers authorised to take blood samples
+Division 3 — Amendments relating to driving instructors
+Subdivision 1 — Road Traffic Act 1974 amended
+41.Act amended
+This Subdivision amends the Road Traffic Act 1974.
+42.Part V Division 1A replaced
+Delete Part V Division 1A and insert:
+Division 1AA — Terms used in this Part
+49AAA.Terms used
+In this Part —
+grievous bodily harm has the meaning given in The Criminal Code section 1(1);
+instructor means a person who may give driving instruction under the Road Traffic (Authorisation to Drive) Act 2008 section 10(2);
+learner driver means —
+(a)the holder of a learner’s permit; or
+(b)a person authorised to drive under the Road Traffic (Authorisation to Drive) Act 2008 section 6;
+provide driving instruction means to provide or attempt to provide driving instruction to a learner driver who is driving a motor vehicle.
+Division 1A — When person taken to be instructor or in charge of vehicle
+49AA.Circumstances in which person taken to be instructor or in charge of motor vehicle
+(1) For the purposes of this Part, unless the contrary is shown, a person is to be taken to be an instructor providing driving instruction to a learner driver if the person is —
+(a) seated beside the learner driver in a motor vehicle driven by the learner driver; or
+(b) if there is no seat directly beside the learner driver —
+(i) seated in the seat nearest the learner driver that faces forward in a motor vehicle driven by the learner driver; or
+(ii) standing near the learner driver in a motor vehicle driven by the learner driver;
+or
+(c) riding in a side car attached, or on a pillion seat fitted, to a motor cycle driven by the learner driver.
+(2) Without limiting the circumstances in which a person is in charge of a motor vehicle, an instructor providing driving instruction to a learner driver is, for the purposes of this Part (other than sections 49AB and 66A), to be taken to be in charge of the motor vehicle driven by the learner driver.
+(3) Subsection (2) does not affect any liability of a learner driver for any offence committed by that person while driving or being in charge of a vehicle.
+43.Section 49AB amended
+Before section 49AB(1) insert:
+(1A) In this section an instructor providing driving instruction to a learner driver is not to be taken, under section 49AA, to be in charge of the motor vehicle driven by the learner driver.
+44.Part V Division 2A inserted
+After Part V Division 1 insert:
+Division 2A — Providing driving instruction to learner drivers: alcohol and drug related offences
+62B.Providing driving instruction: blood alcohol content
+(1) An instructor who provides driving instruction to a learner driver while having a blood alcohol content of or above 0.05 g of alcohol per 100 ml of blood commits an offence.
+Penalty for this subsection: a fine of not less than 6 PU or more than 10 PU.
+(2) Subsection (4) applies to an instructor who —
+(a) holds an extraordinary licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1); or
+(b) has, within the last 3 years, ceased to be subject to an order disqualifying the instructor from holding or obtaining a driver’s licence imposed for an offence against section 63 or 67, or for a second or subsequent offence against section 64, committed after the commencement of the Road Traffic Amendment Act 1997; or
+(c) has, within the last 3 years, been granted a driver’s licence in a case where the instructor did not hold a driver’s licence because it had been cancelled under a cancellation provision as a result of an order disqualifying the instructor from holding or obtaining a driver’s licence imposed for an offence against section 63 or 67, or for a second or subsequent offence against section 64, committed after the commencement of the Road Traffic Amendment Act 1997.
+(3) In subsection (2)(c) —
+cancellation provision means —
+(a)a provision of the Road Traffic (Authorisation to Drive) Act 2008 Part 3 Division 2 under which a driver’s licence may be cancelled; or
+(b)section 75(2a) or (2b) of this Act as in force at any time before those provisions were deleted by the Road Traffic Legislation Amendment Act 2012 section 20.
+(4) An instructor to whom this subsection applies who provides driving instruction to a learner driver while having any blood alcohol content commits an offence.
+Penalty for this subsection: a fine of not less than 6 PU or more than 10 PU.
+(5) An instructor who provides driving instruction to a learner driver in respect of a motor vehicle that has a GCM that is 22.5 tonnes or more while having any blood alcohol content commits an offence.
+Penalty for this subsection: a fine of not less than 6 PU or more than 10 PU.
+(6) It is a defence to a charge of an offence against subsection (4) or (5) for the accused to prove that the accused’s blood alcohol content was not to any extent caused by any of the following —
+(a) the consumption of an alcoholic beverage (otherwise than for the purposes of religious observance);
+(b) the consumption or use of any other substance (for example, food or medicine) for the purpose of consuming alcohol.
+(7) A person charged with an offence against subsection (1) may, instead of being convicted of that offence, be convicted of an offence against subsection (4) or (5) if, at the time of the alleged offence, the person was a person to whom subsection (4) or (5) applied.
+62C.Providing driving instruction with prescribed illicit drug in oral fluid or blood
+(1) An instructor who provides driving instruction to a learner driver while a prescribed illicit drug is present in the instructor’s oral fluid or blood commits an offence.
+Penalty for this subsection: a fine of not less than 6 PU or more than 10 PU.
+(2) If in any proceeding for an offence against this section it is proved that a certain drug was present in the accused’s body at any time within 4 hours after the time that the accused was providing the driving instruction, the presence of that drug in the accused’s body at the time the accused was providing the driving instruction is to be taken to be proved in the absence of proof to the contrary.
+(3) If a person takes a prescribed illicit drug mistakenly believing it to be another drug, that mistake is not a defence in any proceeding for an offence against this section if that other drug is also a drug within the meaning of paragraph (a) or (b) of the definition of drug in section 65.
+45.Section 62B amended
+In section 62B(2):
+(a) in paragraph (c) delete “Act 1997.” and insert:
+Act 1997; or
+(b) after paragraph (c) insert:
+(d) is a member of a class of persons prescribed for the purposes of section 64A(2)(g) by regulations made for the purposes of the Road Traffic (Authorisation to Drive) Act 2008 section 5A.
+46.Section 62C amended
+In section 62C(2) delete “4 hours” and insert:
+4 hours, or 12 hours if the sample was taken under section 66(8B),
+47.Section 66 amended
+(1) In section 66(2)(a)(ii) delete “section 64A(1)” and insert:
+section 62B(4) or (5) or 64A(1)
+(2) After section 66(2)(ca) insert:
+(cb) a police officer has reasonable grounds to believe that —
+(i) an offence against section 59(1)(a) or 59A(1)(a) has been committed by a learner driver; and
+(ii) a person may have been an instructor providing driving instruction to that learner driver at the time of that offence;
+or
+(3) In section 66(2)(cb)(i) delete “section 59(1)(a) or 59A(1)(a)” and insert:
+section 59(1)(a), (ba) or (bb) or 59A(1)(a), (ba) or (bb)
+(4) In section 66(2)(d) delete “63,” and insert:
+63; or
+(5) After section 66(2)(d) insert:
+(e) a police officer has reasonable grounds to believe that —
+(i) the presence of a motor vehicle has occasioned, or its use has been an immediate or proximate cause of, personal injury or damage to property; and
+(ii) a learner driver was driving or attempting to drive the motor vehicle at the time of that presence or use; and
+(iii) a person may have been an instructor providing driving instruction to the learner driver at that time; and
+(iv) at that time, the person would have committed an offence against section 63 if the person had been driving a motor vehicle,
+(6) In section 66(6a)(a) delete “(ca) or (d),” and insert:
+(ca), (cb), (d) or (e),
+(7) In section 66(11) delete “(ca) or (d)” and insert:
+(ca), (cb), (d) or (e)
+48.Section 66A amended
+Before section 66A(1) insert:
+(1A) In this section an instructor providing driving instruction to a learner driver is not to be taken, under section 49AA, to be in charge of the motor vehicle driven by the learner driver.
+49.Section 67 amended
+In section 67(2) delete “person” and insert:
+person, other than a person to whom section 68A(3) applies,
+50.Section 67AB amended
+In section 67AB(2) delete “person” and insert:
+person, other than a person to whom section 68A(3) applies,
+51.Section 67A amended
+In section 67A(1) delete “person” and insert:
+person, other than a person to whom section 68A(3) applies,
+52.Section 68A inserted
+After section 67A insert:
+68A.Failure to comply with s. 66, 66C, 66D or 66E requirement: instructors
+(1) In this section —
+requirement means a requirement of a police officer made under section 66, 66C, 66D or 66E.
+(2) Subsection (3) applies to a person of whom a requirement was made on the basis that the person was, or that there were reasonable grounds to believe that the person was, an instructor providing driving instruction to a learner driver.
+(3) A person to whom this subsection applies who fails to comply with a requirement commits an offence.
+(4) A person convicted of an offence against this section is liable to a fine of 20 PU.
+(5) It is a defence to a prosecution for an offence against this section if the accused satisfies the court that there was some substantial reason for the accused’s failure to comply other than a desire to avoid providing information that might be used as evidence.
+(6) Without limiting the generality of subsection (5), it is a defence to a prosecution for failing to comply with a requirement under section 66, to provide a urine sample, if the accused satisfies the court that the accused attempted to comply with the requirement.
+(7) Without limiting the generality of subsection (5), it is a defence to a prosecution for failing to comply with a requirement to provide a sample of breath for a preliminary test if the accused satisfies the court that the accused complied with a requirement under section 66, to provide a sample of breath for analysis or to allow a sample of blood to be taken for analysis, that arose out of —
+(a) the accused’s failure to comply with the requirement to provide a sample of breath for a preliminary test; or
+(b) the circumstances that gave rise to the requirement to provide a sample of breath for a preliminary test.
+53.Section 70B amended
+In section 70B(1) after “offence against section” insert:
+62B, 62C,
+54.Section 70 amended
+(1) In section 70(1) after “offence against section” insert:
+62B,
+(2) In section 70(3a) after “offence against section” insert:
+62C or
+(3) In section 70(3c) after “section 67(2)(a)” insert:
+or 68A
+(4) In section 70(3d) after “section 67A(1)” insert:
+or 68A
+(5) In section 70(5c), (5d) and (5e) delete “67AB or 67A.” and insert:
+67AB, 67A or 68A.
+(6) In section 70(6) delete “67AA or 67A.” and insert:
+67AA, 67A or 68A.
+Division 4 — Other amendments
+Subdivision 1 — Road Traffic Act 1974 amended
+61.Act amended
+This Subdivision amends the Road Traffic Act 1974.
+62.Section 49 amended
+(1) In section 49(1) in the Penalty delete “Penalty:” and insert:
+Penalty for this subsection:
+(2) In section 49(1) in the Penalty paragraph (c) after “(b),” insert:
+(ca),
+(3) Delete section 49(3)(b) and insert:
+(b) who, at the time of the commission of the offence, is disqualified from holding or obtaining an Australian driver licence of a kind required, other than for the reason described in paragraph (d), whether or not the person has ever held an Australian driver licence of the kind required; or
+(ca) who has held an Australian driver licence of a kind required but ceased to hold the licence of that kind most recently held other than —
+(i) because the person had, before the time of the commission of the offence, voluntarily surrendered the licence most recently held; or
+(ii) because the licence expired; or
+(iii) for the reason described in paragraph (d);
+or
+(4) In section 49(4) and (6) after “(b),” insert:
+(ca)
+(5) In section 49(7) in the definition of relevant offence paragraph (a) after “(b),” insert:
+(ca)
+63.Section 78A amended
+In section 78A in the definition of impounding offence (driver’s licence) paragraph (a) after “(b),” insert:
+(ca),
+64.Section 110 inserted
+At the end of Part VIII insert:
+110.Transitional provisions for the Road Traffic Legislation Amendment Act 2016
+(1) Until the Road Traffic Legislation Amendment Act 2016 section 62(2) comes into operation, section 49(1) has effect as if paragraph (c) of the Penalty also referred to the application of subsection (3)(ca).
+(2) Until the Road Traffic Legislation Amendment Act 2016 section 63 comes into operation, the definition of impounding offence (driver’s licence) paragraph (a) in section 78A, has effect as if it also referred to section 49(3)(ca).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-alleged offence71C(1)(a) and (b)
-alleged offender71C(1)(a) and (b), 79BCA(1)(c), 79BCD(1)(a), 79D(2)(f)(ii), (g)(ii), (h)(ii) and (i)(ii), and (6)(b)
+alleged offence71C(1), 71C(1)
+alleged offender71C(1), 71C(1), 79BCA(1), 79BCD(1), 79D(2), 79D(2), 79D(2)
+79D(2), 79D(6)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
 analyst65
@@ -345,26 +623,25 @@ approved expert70(7)
 authorised drug tester65
 authorised person65
 blood alcohol content65
-bodily harm49AA
 breath analysing equipment65
-business owner79D(2)(g)(i)
+business owner79D(2)
+cancellation provision64A(1A)
 circumstances of aggravation49AB(1)
-commencement day 72A(1)
+commencement day72(8), 72A(1)
 Commissioner78A, 80G(1)
 conduct65
 confiscated vehicle80J(1)
 day of the offence78A
 dentist65
-Director General5(1)
-Director-General of Security44AA
 disqualification notice71C(2)
-driver49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1) and (4), 59(1), 59A(1), 79BC(1)(a)
+driver49A(1), 54(1), 54(2), 54(6), 55(1), 55(4), 56(1), 56(4), 59(1), 59A(1)
+79BC(1)
 driver assessment65
+drug65
 drug testing65
 drugs analyst65
 event81A
 grievous bodily harm49AA
-gross vehicle mass111AB(4)
 hired78A
 impounded vehicle79D(1), 80JA(1)
 impounding offence (driver’s licence)78A
@@ -372,30 +649,29 @@ impounding offence (driving)78A
 impounding or confiscation order78A
 impounding order78A
 impounding period78A
-impounding provision79BA(1)(b)(i) and (ii), 79BCA(5)(b), 79BCD(5)(b)
-initially impounded vehicle79BCA(1)(a)
+impounding provision79BA(1), 79BA(1), 79BCA(5), 79BCD(5)
+initially impounded vehicle79BCA(1)
 interest80G(1), 80JA(1)
 item80J(1)
 lent78A
 material time71(1)
 medical practitioner65
+Minister72(3A)
 necessity permit49A(5)
 notice to surrender79BCC(1)
 nurse practitioner65
-offence79BA(1)(a), 79BCA(1)(c), 79BCD(1)(a)
+offence79BA(1), 79BCA(1), 79BCD(1)
 offender71B(1), 80LA(1)
 order80G(1), 81A
-photograph42E(7), 43A(1), 44AA
-police officer71C(1)(a) and (b), 79BA(1)(a)
-police official44AA
+police officer71C(1), 71C(1), 79BA(1)
 preliminary oral fluid test65
 preliminary test65
 prescribed illicit drug65
-previous offender79(1A), 79BC(1)(a)
+previous offender79(1A), 79BC(1)
 registered nurse65
 relevant offence49(7)
 requirement67(1), 67AA(1), 67AB(1)
-road 81A
+road81A
 road rage circumstances78A
 road rage offence78A
 sample71A(1)
@@ -403,8 +679,7 @@ self-testing breath analysing equipment65
 selling expenses80LA(2)
 senior police officer78A
 service79D(1)
-shorter impounding period79BC(2) and (3)
-specified day28A(3)
+shorter impounding period79BC(2), 79BC(3)
 subject71A(1)
 substitute vehicle79BCA(4), 79B(3A)
 surrender alternative vehicle notice79BCD(2)
@@ -414,11 +689,11 @@ surrender substitute vehicle notice79BCA(2)
 taxi79D(1)
 taxi operator79D(1)
 technologist70(7)
-time of sampling71(1)(c)
+time of sampling71(1)
 uncollected vehicle80J(1)
 undergoes65
-vehicle 79BA(1)(a)
-vehicle A79BCD(1)(a)
+vehicle79BA(1)
+vehicle A79BCD(1)
 vehicle referred to in section 80GA78A
 vehicle service provider79D(1)
-victim54(2) and (6)
+victim54(2), 54(6)

@@ -48,13 +48,17 @@ s. 33(3) | Inciting another to commit, or becoming an accessory after the fact t
 3.Road Traffic Act 1974
 s. 49 | Driving without the appropriate driver’s licence
 s. 60 | Reckless driving
+s. 61 | Dangerous driving
+s. 62 | Careless driving
+s. 62A | Causing excessive noise or smoke from vehicle’s tyres
 s. 63 | Driving under the influence of alcohol, drugs, or alcohol and drugs
 s. 64AB | Driving while impaired by drugs
 s. 64AC | Driving with prescribed illicit drug in oral fluid or blood
 s. 64 | Driving with 0.08g/100ml blood alcohol content
 s. 64AA | Driving with 0.05g/100ml blood alcohol content
 s. 64A | Driving with 0.02g/100ml blood alcohol content
-s. 67 | Failing to provide a breath sample, allow taking of a blood sample or provide a urine sample
+s. 67 | Failure to comply with s. 66 requirement to provide sample, allow sample to be taken or to accompany police officer
 s. 67AA | Failing to undergo a driver assessment, allow taking of a blood sample or provide a urine sample
 s. 67AB | Failing to provide a sample of oral fluid or allow taking of a blood sample
-[Schedule 1 amended by No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4).]
+s. 67A | Failure to comply with other requirements made under s. 66 to 66E
+[Schedule 1 amended by No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4); No. 25 of 2016 s. 21(2).]
