@@ -35,11 +35,12 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 6: The Marketing of Potatoes Act 1946 as at 27 Apr 2012 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 28 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Marketing of Potatoes Amendment and Repeal Act 2016 s. 3-11 | 22 of 2016 | 12 Sep 2016 | 30 Sep 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 19 and Pt. 5 Div. 13 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Marketing of Potatoes Amendment and Repeal Act 2016 Pt. 2 and s. 13(a) | 22 of 2016 | 12 Sep 2016 | s. 3-11: 30 Sep 2016 (see s. 2(b)); s. 12: 31 Dec 2016 (see s. 2(c)); s. 13(a): to be proclaimed (see s. 2(d))
+Marketing of Potatoes Amendment and Repeal Act 2016 s. 12 and s. 13(a) | 22 of 2016 | 12 Sep 2016 | s. 12: 31 Dec 2016 (see s. 2(c)); s. 13(a): to be proclaimed (see s. 2(d))
 The provision in this Act repealing that Act was omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
@@ -68,40 +69,7 @@ This Division amends the Marketing of Potatoes Act 1946.
 305.Section 22B amended
 In section 22B(5) after “Health (Miscellaneous Provisions) Act 1911” insert:
 or the Public Health Act 2016
-On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 Pt. 2 and s. 13(a) had not come into operation. They read as follows:
-Part 2 — Marketing of Potatoes Act 1946 amended
-3.Act amended
-This Part amends the Marketing of Potatoes Act 1946.
-4.Long title replaced
-Delete the long title and insert:
-An Act to provide for the winding up of the Potato Marketing Corporation of Western Australia and related purposes.
-5.Section 5 amended
-In section 5(1) insert in alphabetical order:
-transition day means the day on which the Marketing of Potatoes Amendment and Repeal Act 2016 section 12 comes into operation;
-6.Section 5A inserted
-After section 5 insert:
-5A.Application of Act limited
-This Act does not apply on or after transition day except as provided in Part 6.
-7.Section 8 deleted
-Delete section 8.
-8.Section 17AA inserted
-At the beginning of Part II Division 2 insert:
-17AA.Corporation to continue performing its functions for certain purposes
-(1) The Corporation must continue to perform its functions under this Act, but only for the following purposes —
-(a) to complete any domestic marketing pool that was established, but not concluded, immediately before the commencement of this section;
-(b) to continue any legal proceedings as far as is reasonably practicable until transition day and to make all reasonable endeavours to facilitate the continuation of those proceedings by the State on and after that day in accordance with Part 6;
-(c) to prepare reports and financial statements, including to facilitate the preparation of the final report required under the Financial Management Act 2006 Part 5 Division 3;
-(d) to wind up its affairs (including realising its assets and discharging its liabilities) as soon as practicable but, in any case, not later than transition day.
-(2) The Corporation may do all things necessary or convenient to be done for acting under subsection (1) including —
-(a) entering into negotiations with commercial producers on any matter relating to its winding up; and
-(b) executing a contract, deed or other instrument necessary for its winding up.
-(3) This section overrides sections 17A and 19 and those sections must be read as if the Corporation’s functions were conferred only to give effect to the purposes specified in subsection (1).
-9.Section 19A deleted
-Delete section 19A.
-10.Section 20B deleted
-Delete section 20B.
-11.Section 44 deleted
-Delete section 44.
+On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 12 and 13(a) had not come into operation. They read as follows:
 12.Part 6 inserted
 At the end of the Act insert:
 Part 6 — Transitional provisions for Marketing of Potatoes Amendment and Repeal Act 2016
@@ -224,4 +192,5 @@ public notice5(1)
 relevant instrument18(1a)
 sale5(1)
 sell5(1)
+transition day5(1)
 ware potato5(1)
