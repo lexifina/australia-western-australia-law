@@ -13,6 +13,7 @@ Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2013 | 24 May 
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2013 | 31 Dec 2013 p. 6545-7 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2014 | 12 Dec 2014 p. 4717-18 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2016 | 3 May 2016 p. 1361-2 | r. 1 and 2: 3 May 2016 (see r. 2(a)); Rules other than r. 1 and 2: 4 May 2016 (see r. 2(b))
+Magistrates Court (Minor Cases Procedure) Amendment Rules 2016 | 30 Sep 2016 p. 4174-6 | r. 1 and 2: 30 Sep 2016 (see r. 2(a)); Rules other than r. 1 and 2: 1 Oct 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
