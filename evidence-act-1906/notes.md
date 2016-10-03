@@ -112,6 +112,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Evidence Amendment Act 2016 s. 3 and 4 | 31 of 2016 | 3 Oct 2016 | To be proclaimed (see s. 2(b))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
@@ -195,6 +196,14 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 20 | Commercial sexual act at place where child present
 21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
 21A | Obligations of those who operate sexual service business in relation to children
+On the date as at which this compilation was prepared, the Evidence Amendment Act 2016 s. 3 and 4 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Evidence Act 1906.
+4.Section 106HA amended
+(1) Delete section 106HA(1)(a) and insert:
+(a) the interview was conducted by a person of a prescribed class; and
+(2) Delete section 106HA(1a)(a) and insert:
+(a) the interview was conducted by a person of a prescribed class; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
