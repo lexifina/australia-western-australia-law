@@ -72,10 +72,81 @@ Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2014
 Workers’ Compensation and Injury Management Amendment Regulations 2014 | 25 Mar 2014 p. 820-8 | r. 1 and 2: 25 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Workers’ Compensation and Injury Management Amendment Regulations 2015 | 20 Mar 2015 p. 910-11 | r. 1 and 2: 20 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2015 (see r. 2(b))
 Workers’ Compensation and Injury Management Amendment Regulations 2016 | 15 Apr 2016 p. 1184-5 | r. 1 and 2: 15 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Apr 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2016 r. 3-5 | 4 Oct 2016 p. 4242-5 | 17 Oct 2016 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5 and then to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Workers’ Compensation and Injury Management Amendment Act 2011 s. 77 as at 1 Dec 2011 (see Gazette 8 Nov 2011 p. 4673).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Workers’ Compensation and Injury Management Regulations 1982; citation changed (see note under r. 1).
+On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2016 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Workers’ Compensation and Injury Management Regulations 1982.
+4.Regulation 10 replaced
+Delete regulation 10 and insert:
+10.Worker not residing in State
+(1) For the purposes of section 69, a worker must send to the employer or the employer’s insurer a declaration by the worker and a medical practitioner in the form of Appendix I Form 6 —
+(a) within 3 months after the date on which the worker is no longer residing in the State; and
+(b) for each subsequent period during which the worker continues to receive weekly payments while not residing in the State, within 3 months after the date of the previous declaration by the worker and a medical practitioner.
+(2) A declaration under subregulation (1) is taken to have been sent to an employer or an employer’s insurer at the time it was —
+(a) delivered personally to the last known business address of the employer or the employer’s insurer; or
+(b) posted to the last known business address of the employer or the employer’s insurer; or
+(c) sent by electronic means to the last known email address or fax number of the employer or the employer’s insurer.
+(3) An employer or an employer’s insurer who disputes the identity or entitlement, or both, of a worker may apply —
+(a) under section 182E of the Act for resolution of the dispute by conciliation; and
+(b) under section 182ZT of the Act for determination of the dispute by arbitration, if the dispute is not resolved by conciliation.
+5.Appendix I amended
+In Appendix I delete Form 6 and insert:
+Form 6
+[r. 10(1)]
+Workers’ Compensation and Injury Management Act 1981
+(Section 69)
+DECLARATION OF WORKER NOT RESIDING IN W.A.
+IF A WORKER RESIDES OUTSIDE THE STATE, PROOF OF THE WORKER’S IDENTITY AND CONTINUING INCAPACITY IS REQUIRED EVERY 3 MONTHS
+PART 1 - WORKER’S DECLARATION
+WORKER’S DETAILS
+First name |  | Last name
+Date of birth | / / | Claim no.
+Phone |  | Email
+Address
+Date of injury
+DETAILS OF EMPLOYER or EMPLOYER’S INSURER
+Name
+Address
+Email
+DECLARATION BY WORKER
+I have truthfully answered all the questions I have been asked and have fully cooperated to the best of my ability during the course of the medical examination by the medical practitioner named in PART 2 of this declaration.
+Worker (print name)
+Worker’s signature
+Date of declaration | / / | Date sent to employer or employer’s insurer | / /
+Sent by: | Email c | Post c | Fax c
+PART 2 - MEDICAL PRACTITIONER’S DECLARATION
+MEDICAL ASSESSMENT
+Date of this assessment | / / | Date of injury | / /
+I declare that I have examined the person named in PART 1 of this declaration and I have confirmed that the person who I examined was that person through the sighting of an official document of the government of the country in which the person resides.
+The document I used to confirm the identification of the person was (for example a passport)
+MEDICAL MANAGEMENT
+Clinical findings/ diagnosis
+Medication
+Imaging
+Referral to specialist or hospital (name)
+Approved health treatments (specify type and number of sessions)
+WORK CAPACITY
+Worker’s usual duties
+I find this worker to have:
+c full capacity for work from | / / |  | c but requires further treatment
+c some capacity for work from | / / | to | / / | performing:
+c pre-injury duties | c modified or alternative duties | c workplace modifications
+c pre-injury hours | c modified hours of |  | hours/day |  | days/week
+c no capacity for any work from | / / | to | / /
+ | Specify any work restrictions below. Where there is no capacity for work, please provide clinical reasoning.
+MEDICAL PRACTITIONER’S DETAILS
+Name |  | Medical registration number/country
+Address |  | Medical specialty
+Phone |  | Signature
+Email |  | Date | / /
+ | (Practice stamp - optional)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
