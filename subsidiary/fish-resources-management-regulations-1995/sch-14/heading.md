@@ -37,7 +37,8 @@ ______________________________________________________________________________
 1.You may dispose of this matter within 28 days of the service of this notice by paying the modified penalty in person at any Post Office or Post Office Agency.
 OR
 2.Elect to have this matter dealt with before a COURT by completing the Court Election on the reverse side.
-_____________________________________________________________________________
+Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver’s Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter dealt with before a Court.
+____________________________________________________________________________
 Information about this notice:
 Issued at: by: Signature:
 Election for Court
@@ -94,6 +95,7 @@ If you do not attend or produce the documents:
 ______________________________________________________________________________
 It is an offence not to comply with this summons unless you have a reasonable excuse.
 The maximum penalty to which you may be liable is $5 000.
+______________________________________________________________________________
 Form 6
 [reg. 173]
 Fish Resources Management Act 1994
@@ -129,7 +131,6 @@ The notice served on you prohibiting you from an activity that was polluting, or
 Which notice is varied/revoked?
 No. of notice: Served: By: Time: | Date:
 **This is the variation of the notice.
-______________________________________________________________________________
 ______________________________________________________________________________
 Information about this notice:
 Issued at: by: Signature: Telephone contact: | The Minister for Fisheries
