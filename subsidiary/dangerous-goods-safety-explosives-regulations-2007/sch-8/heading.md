@@ -1,2 +1,2 @@
-## Schedule 8 — Explosives that may supplied without a licence
+## Schedule 8 — Explosives that may be supplied without a licence
 [r. 112]
