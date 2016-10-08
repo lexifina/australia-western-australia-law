@@ -37,8 +37,7 @@ ______________________________________________________________________________
 1.You may dispose of this matter within 28 days of the service of this notice by paying the modified penalty in person at any Post Office or Post Office Agency.
 OR
 2.Elect to have this matter dealt with before a COURT by completing the Court Election on the reverse side.
-Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver’s Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter dealt with before a Court.
-____________________________________________________________________________
+Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver’s Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter dealt with before a Court. ____________________________________________________________________________
 Information about this notice:
 Issued at: by: Signature:
 Election for Court
