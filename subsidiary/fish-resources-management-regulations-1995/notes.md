@@ -191,6 +191,7 @@ Fish Resources Management Amendment Regulations (No. 8) 2015 | 8 Jan 2016 p. 21-
 Fish Resources Management Amendment Regulations 2016 | 18 Mar 2016 p. 743-5 | r. 1 and 2: 18 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2016 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2016 | 18 Mar 2016 p. 746 | r. 1 and 2: 18 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2016 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2016 | 4 Oct 2016 p. 4236-9 | r. 1 and 2: 4 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2016 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 5) 2016 | 7 Oct 2016 p. 4375-9 | r. 1 and 2: 7 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Oct 2016 (see r. 2(b))
 Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
