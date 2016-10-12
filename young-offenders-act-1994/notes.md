@@ -52,6 +52,7 @@ Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 3 | 29 of 201
 Declared Places (Mentally Impaired Accused) Act 2015 s. 89 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 3 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
 Reprint 6: The Young Offenders Act 1994 as at 9 Oct 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014 and the Children and Community Services Legislation Amendment and Repeal Act 2015)
+Graffiti Vandalism Act 2016 Pt. 6 Div. 3 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016(see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 8 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Road Traffic Legislation Amendment Act 2016 s. 21 | 25 of 2016 | 21 Sep 2016 | 22 Sep 2016 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -61,7 +62,6 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Graffiti Vandalism Act 2016 Pt. 6 Div.3 | 16 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 1 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -133,14 +133,7 @@ In section 25(3) in the definition of infringement notice:
 IIIA; or
 (b) after paragraph (b) insert:
 (c)an alcohol intervention requirement given under the Liquor Control Act 1988 Part 7A.
-On the date as at which this compilation was prepared, the Graffiti Vandalism Act 2016 Pt. 6 Div. 3 had not come into operation. It reads as follows:
-Part 6 — Consequential amendments
-Division 3 — Young Offenders Act 1994 amended
-43.Act amended
-This Division amends the Young Offenders Act 1994.
-44.Section 46 amended
-In section 46(5a) before “but” insert:
-and sections 5 and 10 of the Graffiti Vandalism Act 2016
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 1 Subdiv. 2 had not come into operation. It reads as follows:
 Part 3 — Amendments that will be brought into operation by proclamation
 Division 1 — Amendments relating to careless driving

@@ -178,11 +178,11 @@ Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 2 | 11 of 2014 | 24 J
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 2 | 25 of 2015 | 24 Sep 2015 | 31 Oct 2015 (see s. 2(b) and Gazette 30 Oct 2015 p. 4493)
 Reprint 18: The Criminal Code Act Compilation Act 1913 as at 3 Jun 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Graffiti Vandalism Act 2016 Pt. 6 Div. 1 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016 (see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Graffiti Vandalism Act 2016 Pt. 6 Div. 1 | 16 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -221,17 +221,7 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-On the date as at which this compilation was prepared, the Graffiti Vandalism Act 2016 Pt. 6 Div. 1 had not come into operation. It reads as follows:
-Part 6 — Consequential amendments
-Division 1 — The Criminal Code amended
-36.Act amended
-This Division amends The Criminal Code.
-37.Part IV Chapter XXIV deleted
-Delete Part IV Chapter XXIV.
-38.Section 446 deleted
-Delete section 446.
-39.Section 557G deleted
-Delete section 557G.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 had not come into operation. It reads as follows:
 Part 3 — Amendments to other Acts and repeals
 Division 10 — The Criminal Code amended
