@@ -9,7 +9,7 @@ Conservation and Land Management Act 1984 s. 105(1), 106
 Conspiracy and Protection of Property Act 1900 s. 6
 Co-operative and Provident Societies Act 1903 s. 36, 55
 Credit (Administration) Act 1984 s. 37, 38, 39(4), 39(6)
-The Criminal Code s. 74A, 95, 97, 105, 106, 108, 110, 111, 151 (summary conviction), 208 (summary conviction), 426(4), 426A(3), 429, 430, 431, 434, 435, 557G, 557H, 557I
+The Criminal Code s. 74A, 95, 97, 105, 106, 108, 110, 111, 151 (summary conviction), 208 (summary conviction), 426(4), 426A(3), 429, 430, 431, 434, 435, 557H, 557I
 Criminal Investigation (Extra-territorial Offences) Act 1987 s. 6
 Criminal Procedure Act 2004 Sch. 2 cl. 5
 Dangerous Goods (Transport) Act 1998 s. 19, 29(6)
@@ -25,6 +25,7 @@ Fuel, Energy and Power Resources Act 1972 s. 49(3)
 Gaming and Wagering Commission Act 1987 s. 20(3), 35, 42(4), 45(3), 45(4), 58(4)
 Gender Reassignment Act 2000 s. 22(2), 23
 Government Railways Act 1904 s. 34(1), 45, 51(2)
+Graffiti Vandalism Act 2016 s. 6(1)
 Growers Charge Act 1940 s. 6
 Guardianship and Administration Act 1990 s. 49(4), 113(1), Sch. 1 Part B cl. 12(6)
 Health Act 1911 s. 360(1)(e), 360(1)(f)

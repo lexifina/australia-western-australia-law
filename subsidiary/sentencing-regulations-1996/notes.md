@@ -23,6 +23,7 @@ Sentencing Amendment Regulations 2013 | 5 Feb 2013 p. 837-8 | r. 1 and 2: 5 Feb 
 Reprint 3: The Sentencing Regulations 1996 as at 12 Jul 2013 (includes amendments listed above)
 Sentencing Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5065 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Sentencing Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 5179 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
+Sentencing Amendment Regulations 2016 | 11 Oct 2016 p. 4537 | r. 1 and 2: 11 Oct 2016 (see r. 2(a)) Regulations other than r. 1 and 2: 12 Oct 2016 (see r. 2(b))
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
 The Credit (Administration) Act 1984 s. 37, 38, 39(4) and (6) were deleted by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 29.
 The following sections of The Criminal Code have been deleted:
