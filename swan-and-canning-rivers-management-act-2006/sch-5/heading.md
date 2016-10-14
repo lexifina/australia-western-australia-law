@@ -33,7 +33,6 @@
 (eea) the Water Services Act 2012;
 (ee) the Waterways Conservation Act 1976;
 (ff) the Western Australian Land Authority Act 1992.
-[(gg)deleted]
 [2.deleted]
 3.The Conservation and Parks Commission established under the Conservation and Land Management Act 1984.
 [4-6.deleted]
