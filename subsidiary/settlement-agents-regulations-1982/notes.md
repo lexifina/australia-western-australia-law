@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 October 2016 of the Settlement Agents Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Settlement Agents Regulations 1982 | 19 Mar 1982 p. 886-7 | 19 Mar 1982
@@ -53,8 +53,9 @@ Settlement Agents Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4325-6 | r
 Settlement Agents Amendment Regulations 2015 | 23 Jun 2015 p. 2185-6 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 19 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Settlement Agents Amendment Regulations 2016 | 4 Oct 2016 p. 4235-6 | r. 1 and 2: 4 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2016 (see r. 2(b) and Gazette 4 Oct 2016 p. 4293)
+Reprint 7: The Settlement Agents Regulations 1982 as at 14 Oct 2016 (includes amendments listed above)
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
-Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011.
+Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1).
 These regulations were in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
 The Settlement Agents Amendment Regulations (No. 2) 2004 r. 4 (as amended in Gazette 21 Jan 2005 p. 258 and 16 Jun 2006 p. 2122) reads as follows:
 4.Transitional
