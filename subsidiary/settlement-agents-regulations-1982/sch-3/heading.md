@@ -81,5 +81,4 @@ s. 240A | Application to change an address;
 (iii)no dealing that is adverse to, or that derogates from, the caveator’s claim is lodged or is to be lodged after the withdrawal and before the transfer to the caveator or the caveator’s nominee;
 (c)an application to amend the Register as to the name of a registered proprietor;
 (d)a withdrawal of memorial under the Water Services Act 2012 section 128 for a memorial lodged by a water corporation (as defined in that Act) in relation to the payment of an infrastructure contribution under section 128(2)(b) of that Act.
-[(e)deleted]
 [Part C inserted in Gazette 23 May 1997 p. 2422-4; amended in Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8.]
