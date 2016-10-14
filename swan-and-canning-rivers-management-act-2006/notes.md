@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 October 2016 of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Swan and Canning Rivers Management Act 2006 | 51 of 2006 | 6 Oct 2006 | s. 1 and 2: 6 Oct 2006; Act other than s. 1 and 2: 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
@@ -17,21 +17,21 @@ Commercial Arbitration Act 2012 s. 45 it. 20 | 23 of 2012 | 29 Aug 2012 | 7 Aug 
 Water Services Legislation Amendment and Repeal Act 2012 s. 233 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Swan and Canning Rivers Management Amendment Act 2015 Pt. 2 | 6 of 2015 | 9 Mar 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 19 Jun 2015 p. 2095)
 Conservation and Land Management Amendment Act 2015 s. 78 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Swan and Canning Rivers Management Act 2006 as at 14 Oct 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 24 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Repealed by the Water Resources Legislation Amendment Act 2007.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 24 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 1 — Amendments resulting from renaming of Health Act 1911
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 3 Div. 1 and Pt. 5 Div. 24 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(b) and (c))
+On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 24 had not come into operation. They read as follows:
 101.Various references to “Health Act 1911” amended
 (1) This section amends the Acts listed in the Table.
 (2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
 Health (Miscellaneous Provisions) Act 1911
 Table
+...
 Swan and Canning Rivers Management Act 2006 | Sch. 5 it. 1(i)
 Part 5 — Other Acts amended
+...
 Division 24 — Swan and Canning Rivers Management Act 2006 amended
 331.Act amended
 This Division amends the Swan and Canning Rivers Management Act 2006.
@@ -85,7 +85,7 @@ lease29(1)
 liability138
 lot3(1)
 management programme3(1)
-member3(1), 21(1), 134(1), Sch. 6 cl. 8(8), Sch. 6 cl. 10(1), Sch. 6 cl. 13
+member3(1), 21(1), 134(1), Sch. 6 cl. 8(8), 10(1) and 13
 Metropolitan Redevelopment Authority3(1)
 Metropolitan Region Scheme3(1)
 Minister for Lands12(1)
@@ -118,7 +118,7 @@ River reserve lessee3(1)
 Riverpark3(1)
 Riverpark shoreline3(1), 12(1)
 Schedule 5 authority3(1)
-Schedule 5 Minister6(5), 6(5)
+Schedule 5 Minister6(5)(a) and (b)
 scheme94(1), 96(1)
 specified148(1)
 staff28D(1)
