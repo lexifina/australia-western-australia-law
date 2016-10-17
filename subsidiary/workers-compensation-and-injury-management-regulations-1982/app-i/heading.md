@@ -742,84 +742,55 @@ _______________________________________________________________________
 [Form 5 corrigendum in Gazette 23 Apr 1982 p. 1384; amended in Gazette 8 Mar 1991 p. 1076; 29 Oct 1993 p. 5930; 18 Feb 1994 p. 663; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276 and 277; 28 Oct 2005 p. 4926; 25 Mar 2014 p. 828.]
 Form 6
 [r. 10(1)]
-[Heading inserted in Gazette 14 Dec 2012 p. 6210.]
+[Heading inserted in Gazette 4 Oct 2016 p. 4243.]
 Workers’ Compensation and Injury Management Act 1981
 (Section 69)
-DECLARATIONS IN RESPECT OF WORKER NOT RESIDING IN W.A.
-[ r = tick where appropriate. * = delete where appropriate]
-To: (name and address of employer or employer’s insurer).................................................................................
-................................................................................................................................................................................
-................................................................................................................................................................................
-Re: Claim Number......................................................
-1.WORKER’S SECTION
-1a.Worker’s details
-First name(s):.................................................. Surname:...................................................................................
-Address:................................................................................................................................................................
-Telephone:........................... Date of birth:....../....../...... Occupation:..............................................................
-Date of injury:...................... Nature of injury:....................................................................................................
-1b.Employer details
-Name and address of worker’s employer:............................................................................................................
-1c.Declaration by worker
-I,...........................................................................................................................................................................
-(full name of worker)
-*being duly sworn, say that/do solemnly and sincerely affirm that the above details about me are correct.
-*Sworn/affirmed at)
-in (State or country))
-this day of 20)....................................................................
-Before me:....................................................................
-(a person having authority
-to administer an oath)
-2.MEDICAL PRACTITIONER’S SECTION
-2a.Fitness for work
-On........./........../20.......... I examined the above person and am of the opinion that he/she is —
-Fit
-rFit to return to pre-injury duties, no further treatment required
-rFit to return to pre-injury duties, but requires further treatment
-rFit for restricted return to work from ............................. to...................................................
-rRestricted hours (please specify) ..................................................................................
-rRestricted days (please specify) ...................................................................................
-rRestricted duties
-rWork restrictions:
-rNo lifting anything heavier than.................. kg
-rAvoid repetitive bending / lifting
-rAvoid repetitive use of the affected body part .............................................................
-rAvoid prolonged standing / walking / sitting
-rKeep injured area clean and dry
-rOther restrictions ..........................................................................................................
-........................................................................................................................................
-Unfit
-rUnfit totally for work for ................... days from........................ to.............. (inclusive)
-2b.Medical assessment
-Clinical findings / diagnosis (include possible complications, effect of prior injury or medial conditions) ..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-2c.Medical management at this consultation
-rMedication:........................................................................................................................................................................................................................................................................................
-rApproved allied health treatments: (specify type and include number of sessions recommended).............................................................................................................................................................................................................................................................................................................................................................................................................
-rImaging:....................................................................................................................................
-rReferred to another hospital/specialist: (name)........................................................................
-rOther treatment:......................................................................................................................... .............................................................................................................................................
-2d.Progress report (clinical findings/diagnosis at this consultation and possible barriers to return to work)
-................................................................................................................................................................................
-................................................................................................................................................................................
-................................................................................................................................................................................
-2e.Declaration by medical practitioner
-I,..........................................................................................................................................................................
-(full name of medical practitioner)
-of.........................................................................................................................................................................
-(address)
-............................................................................................... Postcode:.............................................................
-*being duly sworn, say that/do solemnly and sincerely affirm that —
-1. I am a duly qualified medical practitioner.
-2. The above details are correct.
-*Sworn/affirmed at)
-in (State or country))
-this day of 20)..................................................................
-Before me:..................................................................
-(a person having authority
-to administer an oath)
-IF A WORKER RESIDES OUTSIDE THE STATE, PROOF OF THE
-WORKER’S IDENTITY AND CONTINUING INCAPACITY IS
-REQUIRED EVERY 3 MONTHS
-[Form 6 inserted in Gazette 14 Dec 2012 p. 6210-11.]
+DECLARATION OF WORKER NOT RESIDING IN W.A.
+IF A WORKER RESIDES OUTSIDE THE STATE, PROOF OF THE WORKER’S IDENTITY AND CONTINUING INCAPACITY IS REQUIRED EVERY 3 MONTHS
+PART 1 - WORKER’S DECLARATION
+WORKER’S DETAILS
+First name |  | Last name
+Date of birth | / / | Claim no.
+Phone |  | Email
+Address
+Date of injury
+DETAILS OF EMPLOYER or EMPLOYER’S INSURER
+Name
+Address
+Email
+DECLARATION BY WORKER
+I have truthfully answered all the questions I have been asked and have fully cooperated to the best of my ability during the course of the medical examination by the medical practitioner named in PART 2 of this declaration.
+Worker (print name)
+Worker’s signature
+Date of declaration | / / | Date sent to employer or employer’s insurer | / /
+Sent by: | Email c | Post c | Fax c
+PART 2 - MEDICAL PRACTITIONER’S DECLARATION
+MEDICAL ASSESSMENT
+Date of this assessment | / / | Date of injury | / /
+I declare that I have examined the person named in PART 1 of this declaration and I have confirmed that the person who I examined was that person through the sighting of an official document of the government of the country in which the person resides.
+The document I used to confirm the identification of the person was (for example a passport)
+MEDICAL MANAGEMENT
+Clinical findings/ diagnosis
+Medication
+Imaging
+Referral to specialist or hospital (name)
+Approved health treatments (specify type and number of sessions)
+WORK CAPACITY
+Worker’s usual duties
+I find this worker to have:
+c full capacity for work from | / / |  | c but requires further treatment
+c some capacity for work from | / / | to | / / | performing:
+c pre-injury duties | c modified or alternative duties | c workplace modifications
+c pre-injury hours | c modified hours of |  | hours/day |  | days/week
+c no capacity for any work from | / / | to | / /
+ | Specify any work restrictions below. Where there is no capacity for work, please provide clinical reasoning.
+MEDICAL PRACTITIONER’S DETAILS
+Name |  | Medical registration number/country
+Address |  | Medical specialty
+Phone |  | Signature
+Email |  | Date | / /
+ | (Practice stamp - optional)
+[Form 6 inserted in Gazette 4 Oct 2016 p. 4243-5.]
 [Form 7 deleted in Gazette 18 Nov 2011 p. 4825.]
 [Forms 8-11 deleted in Gazette 8 Mar 1991 p. 1076.]
 [Form 12 deleted in Gazette 18 Feb 1994 p. 663.]
