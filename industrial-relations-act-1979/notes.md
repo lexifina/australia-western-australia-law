@@ -93,6 +93,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 18 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 4 | 32 of 2016 | 19 Oct 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
@@ -131,6 +132,14 @@ This Division amends the Industrial Relations Act 1979.
 62.Section 7 amended
 In section 7(1) in the definition of public authority delete “government or regional local government;” and insert:
 government, regional local government or regional subsidiary;
+On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 4 had not come into operation. It reads as follows:
+Part 7 — Amendments to and repeal of other Acts
+Division 4 — Industrial Relations Act 1979 amended
+182.Act amended
+This Division amends the Industrial Relations Act 1979.
+183.Section 7 amended
+In section 7(1) in the definition of post-secondary education institution delete “Curtin University of Technology Act 1966,” and insert:
+Curtin University Act 1966,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
