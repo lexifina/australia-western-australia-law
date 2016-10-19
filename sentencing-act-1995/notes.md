@@ -84,6 +84,7 @@ Provisions that have not come into operation
  | Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
  | Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 9 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
@@ -240,6 +241,14 @@ Division 23 — Sentencing Act 1995 amended
 This Division amends the Sentencing Act 1995.
 330.Schedule 1 amended
 In Schedule 1 delete the item relating to the Health (Miscellaneous Provisions) Act 1911.
+On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 9 had not come into operation. It reads as follows:
+Part 7 — Amendments to and repeal of other Acts
+Division 9 — Sentencing Act 1995 amended
+194.Act amended
+This Division amends the Sentencing Act 1995.
+195.Schedule 1 amended
+In Schedule 1 delete the item relating to the Curtin University of Technology and insert:
+Curtin University Act 1966 | Curtin University
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
