@@ -35,6 +35,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | To be proclaimed (see s. 2(b))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
@@ -57,6 +58,19 @@ On the date as at which this compilation was prepared, the Biodiversity Conserva
 (2) After section 41 insert:
 42A.Land under biodiversity conservation covenant, exemption for
 Land is exempt for an assessment year if the land is the subject of a biodiversity conservation covenant under the Biodiversity Conservation Act 2016 that is expressed to have effect in perpetuity and that was in force at midnight on 30 June in the financial year before the assessment year.
+On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 had not come into operation. It reads as follows:
+Part 7 — Amendments to and repeal of other Acts
+Division 5 — Land Tax Assessment Act 2002 amended
+184.Act amended
+This Division amends the Land Tax Assessment Act 2002.
+185.Section 33 amended
+In section 33(4):
+(a) delete paragraph (b) and insert:
+(b) Curtin University established under the Curtin University Act 1966;
+(b) delete paragraph (d) and insert:
+(d) Edith Cowan University established under the Edith Cowan University Act 1984;
+186.Section 44 deleted
+Delete section 44.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
