@@ -68,11 +68,12 @@ State Superannuation Amendment Regulations 2006 Pt. 4 | 26 May 2006 p. 1915-33 |
 Financial Legislation Amendment and Repeal Act 2006 s. 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 State Superannuation Amendment Regulations 2007 Pt. 3 | 13 Apr 2007 p. 1577-613 | 13 Apr 2007 (see r. 2)
 State Superannuation Amendment Regulations 2008 Pt. 3 published in Gazette 18 Jan 2008 p. 149-56 | 19 Jan 2008 (see r. 2(b))
-Police Amendment Act 2008 s. 20 | 8 OF 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
+Police Amendment Act 2008 s. 20 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Regulations (No. 4) 2008 Pt. 3 published in Gazette 23 Jun 2008 p. 2763-99 | Operative on commencement of the State Superannuation Amendment Act 2007 Pt. 3 (see r. 2(b))
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 10 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 N.B.The Superannuation and Family Benefits Act 1938 is affected by section 15 of the District Court of Western Australia Act 1969 (No. 84 of 1969).
 Repealed by the Miscellaneous Repeals Act 1991 (No. 10 of 1991).
 Reference amended under section 7(5)(a) of the Reprints Act 1984 to give effect to section 5(2) of the Water Authority Act 1984 (No. 3 of 1984).
@@ -198,6 +199,14 @@ Section 83N(2)(aa) and “and” after it are deleted and the following is inser
 (aa) the earning rate applicable to the contributor’s notional account under that scheme was the CPI rate (as defined in the State Superannuation Regulations 2001 regulation 3) plus 2%; and
 ”.
 ”.
+On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 10 had not come into operation. It reads as follows:
+Part 7 — Amendments to and repeal of other Acts
+Division 10 — Superannuation and Family Benefits Act 1938 amended
+196.Act amended
+This Division amends the Superannuation and Family Benefits Act 1938.
+197.Section 67 amended
+In section 67(1a)(a) delete “Curtin University of Technology Act 1966;” and insert:
+Curtin University Act 1966;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
