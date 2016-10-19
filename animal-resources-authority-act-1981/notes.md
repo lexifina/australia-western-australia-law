@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 September 2012 of the Animal Resources Authority Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Animal Resources Authority Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Animal Resources Authority Act 1981 | 53 of 1981 | 25 Sep 1981 | 2 Jul 1982 (see s. 2 and Gazette 2 Jul 1982 p. 2311)
@@ -15,18 +15,30 @@ Acts Amendment (Bankruptcy) Act 2009 s. 9 | 18 of 2009 | 16 Sep 2009 | 17 Sep 20
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 2: The Animal Resources Authority Act 1981 as at 14 Sep 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 30 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 2 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Formerly referred to the Western Australian Institute of Technology, the name of which was changed to the Curtin University of Technology by the Western Australian Institute of Technology Amendment Act 1986 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 30 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 30 had not come into operation. It reads as follows:
 30.Animal Resources Authority Act 1981 amended
 The Animal Resources Authority Act 1981 is amended as follows:
 (a) in section 13(b) by deleting “, including his rights under the Superannuation and Family Benefits Act 1938”;
 (b) by repealing section 14.
+On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 2 had not come into operation. It reads as follows:
+Part 7 — Amendments to and repeal of other Acts
+Division 2 — Animal Resources Authority Act 1981 amended
+177.Act amended
+This Division amends the Animal Resources Authority Act 1981.
+178.Section 5 amended
+Delete section 5(2)(b)(iii) and insert:
+(iii) Curtin University — 1 person.
+179.Section 17 amended
+Delete section 17(b)(iii) and insert:
+(iii) Curtin University;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
