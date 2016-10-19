@@ -37,6 +37,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Biodiversity Conservation Act 2016 s. 315 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 3 | 32 of 2016 | 19 Oct 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 had not come into operation. It reads as follows:
 15.Financial Management Act 2006 amended
@@ -48,6 +49,14 @@ On the date as at which this compilation was prepared, the Biodiversity Conserva
 315.Financial Management Act 2006 amended
 (1) This section amends the Financial Management Act 2006.
 (2) In section 23(1) in the definition of prescribed receipts paragraph (b) delete “fauna or”.
+On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 3 had not come into operation. It reads as follows:
+Part 7 — Amendments to and repeal of other Acts
+Division 3 — Financial Management Act 2006 amended
+180.Act amended
+This Division amends the Financial Management Act 2006.
+181.Schedule 1 amended
+In Schedule 1 delete the item “Curtin University of Technology” and insert:
+Curtin University
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
