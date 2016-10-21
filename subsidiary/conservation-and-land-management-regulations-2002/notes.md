@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Conservation and Land Management Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 October 2016 of the Conservation and Land Management Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Conservation and Land Management Regulations 2002 | 3 May 2002 p. 2233-308 | 3 May 2002
@@ -32,8 +32,8 @@ Conservation and Land Management Amendment Regulations (No. 2) 2016 | 4 Apr 2016
 Conservation and Land Management Amendment Regulations 2016 | 6 May 2016 p. 1381-2 | 7 May 2016 (see r. 2 and Gazette 6 May 2016 p. 1379-80)
 Conservation and Land Management Amendment Regulations (No. 3) 2016 | 5 Jul 2016 p. 2815-17 | r. 1 and 2: 5 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 4) 2016 | 30 Aug 2016 p. 3685-6 | r. 1 and 2: 30 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2016 (see r. 2(b))
-Footnotes no longer applicable.
-Repealed by these regulations.
+Reprint 4: The Conservation and Land Management Regulations 2002 as at 21 Oct 2016 (includes amendments listed above)
+The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published in Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
 4.Transitional provision for Barrow Island Trust Account
@@ -108,12 +108,15 @@ restricted area2
 restricted device12(5)
 school holidays2
 scientific purposes licence2
+section 12 commencement124(1)
+section 9(2)124(1)
 sell2
 services2
 sign2
 soil35A(2)
 South-west zone98A
 specified56(6), 61B(1), 98AC(1)
+State forest resolution124(1)
 structure34(2)
 take2
 temporary mooring area2
