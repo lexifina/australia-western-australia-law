@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 October 2016 of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Act Regulations 1947 | 27 Jun 1947 p. 1156-94 | 27 Jun 1947
@@ -65,6 +65,7 @@ Reprint 6: The Electricity Regulations 1947 as at 8 Nov 2013 (includes amendment
 Electricity Amendment Regulations 2015 | 14 Apr 2015 p. 1324 | r. 1 and 2: 14 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Apr 2015 (see r. 2(b))
 Electricity (Network Safety) Regulations 2015 r. 44 | 5 Aug 2015 p. 3141-96 | 6 Aug 2015 (see r. 2(b))
 Electricity Amendment Regulations (No. 2) 2015 | 5 Jan 2016 p. 3 | r. 1 and 2: 5 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jan 2016 (see r. 2(b))
+Reprint 7: The Electricity Regulations 1947 as at 21 Oct 2016 (includes amendments listed above)
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
@@ -88,7 +89,7 @@ approved321
 Australian/New Zealand Wiring Rules2(1)
 commencement day12
 common property12
-conductors 316A(5)
+conductors 316A(5)(a)
 duly constituted authority in another State of the Commonwealth321
 inspection plan242(1A)
 installed12
@@ -98,7 +99,7 @@ new owner12
 notice of completion242(1A)
 notice of intended demolition12
 occupied by an owner12
-overhead power lines316A(5)
+overhead power lines316A(5)(a)
 post-transfer period,15A(1)
 prior owner12
 published specification321
