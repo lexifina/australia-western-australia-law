@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Health Services (Fees and Charges) Order 2016. The following table contains information about those order.
+This is a compilation of the Health Services (Fees and Charges) Order 2016 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Health Services (Fees and Charges) Order 2016 | 1 Jul 2016 p. 2775-811 | 1 Jul 2016 (see cl. 2 and Gazette 24 Jun 2016 p. 2291)
+Health Services (Fees and Charges) Amendment Order 2016 | 21 Oct 2016 p. 4783 | cl. 1 and 2: 21 Oct 2016 (see cl. 2(a)); Order other than cl. 1 and 2: 22 Oct 2016 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
