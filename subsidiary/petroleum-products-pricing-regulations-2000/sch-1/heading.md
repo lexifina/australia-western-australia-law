@@ -15,20 +15,20 @@ Boulder | Karratha
 Broome | Kellerberrin
 Busselton | Kojonup
 Carnarvon | Kununurra
-Cataby | Meekatharra
-Collie | Moora
-Coolgardie | Mt Barker
-Cunderdin | Narrogin
-Dalwallinu | Newman
-Dampier | Norseman
-Denmark | Northam
-Derby | Port Hedland
-Dongara | Ravensthorpe
-Esperance | Regans Ford
-Exmouth | South Hedland
-Fitzroy Crossing | Tammin
-Jurien | Williams
-Kalgoorlie | Wubin
-Kambalda (East) | York
-Kambalda (West)
-[Schedule 1 inserted in Gazette 13 May 2003 p. 1665-6; amended in Gazette 3 Oct 2006 p. 4337; 15 May 2015 p. 1720.]
+Cataby | Meckering
+Collie | Meekatharra
+Coolgardie | Moora
+Cunderdin | Mt Barker
+Dalwallinu | Narrogin
+Dampier | Newman
+Denmark | Norseman
+Derby | Northam
+Dongara | Port Hedland
+Esperance | Ravensthorpe
+Exmouth | Regans Ford
+Fitzroy Crossing | South Hedland
+Jurien | Tammin
+Kalgoorlie | Williams
+Kambalda (East) | Wubin
+Kambalda (West) | York
+[Schedule 1 inserted in Gazette 13 May 2003 p. 1665-6; amended in Gazette 3 Oct 2006 p. 4337; 15 May 2015 p. 1720; 21 Oct 2016 p. 4782.]
