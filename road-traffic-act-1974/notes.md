@@ -152,9 +152,9 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 2 | 59 of 2012 (as amended by No. 10 of 2015 s. 21) | 11 Dec 2012 | Pt. 2 (other than s. 12): 12 Dec 2012 (see s. 2(b)); s. 12: 27 Apr 2015 (see s. 2(c)(ii) and Gazette 17 Apr 2015 p. 1371)
 Reprint 12: The Road Traffic Act 1974 as at 22 Mar 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18), the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Road Traffic (Miscellaneous Amendments) Act 2012 s. 12)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 35 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) | 2 of 2015 | 25 Feb 2015 | 4 Apr 2016 (see s. 2(b) and Gazette 24 Mar 2016 p. 927)
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | Pt. 2 (other than s. 9): 4 Apr 2016 (see s. 2(1)(b) and Gazette 24 Mar 2016 p. 927); Pt. 3 Div. 1: 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
-Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9))
+Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1)
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1 | 25 of 2016 | 21 Sep 2016 | 22 Sep 2016 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -162,7 +162,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
-Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1 and Div. 4 Subdiv. 1 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984.
@@ -293,29 +293,11 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 (2) In section 65 in the definition of drug delete paragraph (b) and insert:
 (b)a Schedule 4 poison as defined in the Medicines and Poisons Act 2014 section 3; or
 The Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 cannot come into operation because the sections it seeks to amend were deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 and Pt. 3 Div. 1 (s. 10-13) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 had not come into operation. It reads as follows:
 9.Section 97 amended
 Delete section 97(2)(a) and insert:
 (a) while disqualified from obtaining a driver’s licence apply for or obtain such a licence, except that a person may apply for such a licence during the last 6 weeks of the period of disqualification;
 (ba) while disqualified from obtaining any particular licence other than a driver’s licence apply for or obtain such a licence;
-Part 3 — Amendments which may be brought into operation on or after the day fixed under the Road Traffic (Administration) Act 2008 section 2(b)
-Division 1 — Road Traffic Act 1974 amended
-10.Act amended
-This Division amends the Road Traffic Act 1974.
-11.Section 49 amended
-(1) In section 49(1) in the Penalty paragraph (c) delete “subsection (3)(a), (b), or (c)” and insert:
-subsection (3)(a), (b), (c) or (da)
-(2) After section 49(3)(c) insert:
-(da) who is a member of a class of persons prescribed for the purposes of this paragraph by regulations made for the purposes of the Road Traffic (Authorisation to Drive) Act 2008 section 5A; or
-12.Section 64A amended
-In section 64A(2):
-(a) in paragraph (f) delete “driver.” and insert:
-driver; or
-(b) after paragraph (f) insert:
-(g) is a member of a class of persons prescribed for the purposes of this paragraph by regulations made for the purposes of the Road Traffic (Authorisation to Drive) Act 2008 section 5A.
-13.Section 78A amended
-In section 78A in the definition of impounding offence (driver’s licence) paragraph (a) delete “section 49(3)(a), (b) or (c); or” and insert:
-section 49(3)(a), (b), (c) or (da); or
 The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 cannot come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 21 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts and repeals
@@ -612,8 +594,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 alleged offence71C(1), 71C(1)
-alleged offender71C(1), 71C(1), 79BCA(1), 79BCD(1), 79D(2), 79D(2), 79D(2)
-79D(2), 79D(6)
+alleged offender71C(1), 79BCA(1), 79BCD(1), 79D(2), 79D(6)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
 analyst65
@@ -634,8 +615,8 @@ confiscated vehicle80J(1)
 day of the offence78A
 dentist65
 disqualification notice71C(2)
-driver49A(1), 54(1), 54(2), 54(6), 55(1), 55(4), 56(1), 56(4), 59(1), 59A(1)
-79BC(1)
+driver49A(1), 54(1), 54(2), 54(6), 55(1), 55(4), 56(1), 56(4), 59(1)
+59A(1), 79BC(1)
 driver assessment65
 drug65
 drug testing65
@@ -649,7 +630,7 @@ impounding offence (driving)78A
 impounding or confiscation order78A
 impounding order78A
 impounding period78A
-impounding provision79BA(1), 79BA(1), 79BCA(5), 79BCD(5)
+impounding provision79BA(1), 79BCA(5), 79BCD(5)
 initially impounded vehicle79BCA(1)
 interest80G(1), 80JA(1)
 item80J(1)
@@ -663,7 +644,7 @@ nurse practitioner65
 offence79BA(1), 79BCA(1), 79BCD(1)
 offender71B(1), 80LA(1)
 order80G(1), 81A
-police officer71C(1), 71C(1), 79BA(1)
+police officer71C(1), 79BA(1)
 preliminary oral fluid test65
 preliminary test65
 prescribed illicit drug65
