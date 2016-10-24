@@ -10,24 +10,16 @@ Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 o
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | 27 Apr 2015 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611 and 17 Apr 2015 p. 1371)
 Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 (as amended by No. 10 of 2015 s. 19) | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s. 2(e) and Gazettes 29 Jun 2011 p. 2611 and 17 Apr 2015 p. 1371); Pt. 5 (other than s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s 2(f) and Gazette 17 Apr 2015 p. 1371)
 Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 | 59 of 2012 | 11 Dec 2012 | 27 Apr 2015 (see s 2(c)(ii) and Gazette 17 Apr 2015 p. 1371)
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 | 2 of 2015 | 25 Feb 2015 | 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Road Traffic Legislation Amendment Act 2015 Pt. 3 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
-Reprint 1: The Road Traffic (Administration) Act 2008 as at 15 May 2015 (includes amendments listed above)
+Reprint 1: The Road Traffic (Administration) Act 2008 as at 15 May 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2)
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 2 | 25 of 2016 | 21 Sep 2016 | 22 Sep 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 | 2 of 2015 | 25 Feb 2015 | 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 3 Subdiv. 2 and Div. 4 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 had not come into operation. It reads as follows:
-Part 3 — Amendments which may be brought into operation on or after the day fixed under the Road Traffic (Administration) Act 2008 section 2(b)
-Division 2 — Road Traffic (Administration) Act 2008 amended
-14.Act amended
-This Division amends the Road Traffic (Administration) Act 2008.
-15.Section 36 amended
-Delete section 36(2)(a) and insert:
-(a) while disqualified from obtaining a driver’s licence apply for or obtain such a licence, except that a person may apply for such a licence during the last 6 weeks of the period of disqualification;
-(ba) while disqualified from obtaining any particular licence other than a driver’s licence apply for or obtain such a licence;
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 3 Subdiv. 2 and Div. 4 Subdiv. 2 had not come into operation. They read as follows:
 Part 3 — Amendments that will be brought into operation by proclamation
 Division 3 — Amendments relating to driving instructors
@@ -260,8 +252,8 @@ Australian driver licensing authority4
 Australian police officer4
 authorised person47(1), 59(1), 117(1)
 authorised purpose14(1)
-authorised to drive a vehicle29(3)(a)
-authorised to run the engine of a vehicle29(3)(b)
+authorised to drive a vehicle29(3)
+authorised to run the engine of a vehicle29(3)
 axle4
 axle group4
 bodily harm4
@@ -269,7 +261,7 @@ broken down31
 business address4
 CEO4
 certificate126(1)
-co-driver4, 28, 38
+co-driver4, 28, 28, 38
 commencement day147
 Commissioner140(1)
 compensation order123
@@ -302,8 +294,9 @@ GVM4
 heavy traffic132(1)
 heavy vehicle4
 home address4
+ICWA13D(1)
 incident26(1)
-incident information12(1)
+incident information12(1), 13D(1), 13E(1), 15(1)
 infringement notice4, 13A(1), 79
 inspection station4
 instructor information4
@@ -344,7 +337,7 @@ predominantly for residential purposes51(2)
 premises4, 54(1), 55(1)
 prescribed area40(1), 47(1)
 prescribed person14(1)
-present offence107(a)
+present offence107
 PU7
 public authority4
 public place28
@@ -355,7 +348,7 @@ records4
 relevant authorisation12(1)
 relevant authority13A(1)
 remote communication62
-residential purposes51(1)(a) and (b)
+residential purposes51(1), 51(1)
 responsible person4, 34(1)
 road4
 road authority123
