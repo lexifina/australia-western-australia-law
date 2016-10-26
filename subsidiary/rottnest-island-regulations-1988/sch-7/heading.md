@@ -16,11 +16,11 @@
  | More than 8 m but less than 10 m | $275.00
  | 10 m or more but less than 15 m | $330.50
  | 15 m or more | $551.00
-4. | Annual fee in lieu of admission fee for aircraft (r. 7) | $237.50
+[4.deleted]
 5A. | Annual permit fee for domestic commercial vessels (r. 7A(2)) | $100.00
-[Part 1 inserted in Gazette 3 Jul 2009 p. 2701-2; amended in Gazette 31 Aug 2010 p. 4190-1; 29 Jul 2011 p. 3146; 29 Jun 2012 p. 2961; 18 Jun 2013 p. 2308; 20 Jun 2014 p. 2042; 5 Jun 2015 p. 1975; 22 Sep 2015 p. 3862; 17 Jun 2016 p. 2113.]
-## Part 2 — Mooring licences
-[Heading inserted in Gazette 3 Jul 2009 p. 2702.]
+[Part 1 inserted in Gazette 3 Jul 2009 p. 2701-2; amended in Gazette 31 Aug 2010 p. 4190-1; 29 Jul 2011 p. 3146; 29 Jun 2012 p. 2961; 18 Jun 2013 p. 2308; 20 Jun 2014 p. 2042; 5 Jun 2015 p. 1975; 22 Sep 2015 p. 3862; 17 Jun 2016 p. 2113; 25 Oct 2016 p. 4877.]
+## Part 2 — Mooring site licences
+[Heading inserted in Gazette 3 Jul 2009 p. 2702; amended in Gazette 25 Oct 2016 p. 4877.]
 5. | Application fee for mooring site licence (r. 20(3)(c)) | $52.50
 6. | Annual mooring site licence (r. 22(3)(b)(i) and 33(3)(b)(i))
  | Length of vessel
@@ -28,7 +28,7 @@
  | More than 10 m | $98.50/m of length of licensed vessel or vessel to be licensed
 7A. | Fee for replacement of lost mooring sticker (r. 26(4A)) | $21.50
 7B. | Mooring exchange fee (r. 30(10)(ba)) | $268.50
-[Part 2 inserted in Gazette 3 Jul 2009 p. 2702; amended in Gazette 31 Aug 2010 p. 4190-1; 29 Jul 2011 p. 3146; 29 Jun 2012 p. 2961-2; 18 Jun 2013 p. 2308; 20 Jun 2014 p. 2043; 5 Jun 2015 p. 1975; 17 Jun 2016 p. 2113.]
+[Part 2 inserted in Gazette 3 Jul 2009 p. 2702; amended in Gazette 31 Aug 2010 p. 4190-1; 29 Jul 2011 p. 3146; 29 Jun 2012 p. 2961-2; 18 Jun 2013 p. 2308; 20 Jun 2014 p. 2043; 5 Jun 2015 p. 1975; 17 Jun 2016 p. 2113; 25 Oct 2016 p. 4877.]
 ## Part 3 — Authorised user payment
 [Heading inserted in Gazette 3 Jul 2009 p. 2702.]
 7. | Annual authorised user payment (r. 31B(3)(a)(ii) and 31E(1)(b)) | $50.00/m of length of authorised vessel

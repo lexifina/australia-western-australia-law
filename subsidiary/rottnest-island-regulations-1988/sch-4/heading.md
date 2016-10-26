@@ -5,7 +5,7 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 1. | 5(4) | Failing or refusing to pay admission, not being a passenger on commercial transport | 150
 2AAA. | 6(1) | Failing to collect, or remit fees collected, from ferry passengers | 200
 2AA. | 6(4) | Passing on ticket with intention of providing false evidence as to payment of admission fee | 150
-2A. | 7(2) | Failing to ensure annual payment sticker is exhibited on non-commercial vessels or aircraft | 150
+2A. | 7(2) | Failing to ensure annual payment sticker is exhibited on non-commercial vessels | 150
 2B. | 7A(4) | Failing to ensure annual permit sticker is exhibited on domestic commercial vessel | 200
 2C. | 7A(5) | Failing to register journey to the Island | 200
 2D. | 7A(6) | Failing to collect, or remit fees collected, from domestic commercial vessel passengers | 200
@@ -32,7 +32,7 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 19. | 37(1)(b) | Beach-anchoring a vessel in Thomson, Longreach or Geordie Bay without permission and not in permitted area | 150
 20. | 38A(3) | Exceeding speed limit set for vessel in defined area | 100
 21. | 38B(3) | Using vessel contrary to notice setting aside area and imposing conditions for use of that vessel | 200
-22. | 38C(2) | Discharging or depositing sullage from vessel other than by approved system | 200
+22. | 38C(2) | Discharging or depositing black water from vessel other than by approved system | 200
 23A. | 38E(2) | Use of main jetty contrary to signs | 200
 23B. | 38F(5) | Berthing commercial vessel at main jetty otherwise than in accordance with written approval | 200
 23C. | 38H(1) | Master failing to keep or produce manifest | 200
@@ -80,5 +80,5 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 49. | 74B(1) | Altering information on sticker or document issued by the Authority | 200
 50. | 74B(2) | Wrongly displaying a sticker on a vessel | 200
 51. | 74C | Altering information on authorisation issued by mooring site licensee | 200
-[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4; 24 Jan 2014 p. 114; 22 Sep 2015 p. 3861; 5 Apr 2016 p. 1029.]
+[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4; 24 Jan 2014 p. 114; 22 Sep 2015 p. 3861; 5 Apr 2016 p. 1029; 25 Oct 2016 p. 4877.]
 [Schedule 5 deleted in Gazette 22 Sep 2015 p. 3862.]

@@ -45,6 +45,7 @@ Rottnest Island Amendment Regulations 2015 | 5 Jun 2015 p. 1974-6 | r. 1 and 2: 
 Rottnest Island Amendment Regulations (No. 2) 2015 | 22 Sep 2015 p. 3849-63 | r. 1 and 2: 22 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Sep 2015 (see r. 2(b))
 Rottnest Island Amendment Regulations 2016 | 5 Apr 2016 p. 1028-9 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 2) 2016 | 17 Jun 2016 p. 2112-14 | r. 1 and 2: 17 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
+Rottnest Island Amendment Regulations (No. 3) 2016 | 25 Oct 2016 p. 4874-7 | r. 1 and 2: 25 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Oct 2016 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
@@ -54,7 +55,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accommodation8(7), 10(2)
-additional vessel19
+additional vessel19, 27(2)
 adequate insurance cover3
 aerodrome63
 aircraft63, 66(2)
@@ -68,6 +69,7 @@ authorised user19
 authorised vessel19
 beach37(2)
 bicycle3
+black water38C(1)
 Board75(9)
 by-law75(9)
 certificate of registration3
@@ -87,10 +89,9 @@ fish40(3)
 flora39(2), 41B(1)
 hired bicycle51(2)
 journey3
-Kingstown Barracks Restricted Alcohol Consumption Area72(1)
+Kingstown Barracks 72(1)
 length3
-licensed vessel19
-liquid waste38C(1)
+licensed vessel19, 26(1)
 liquor3
 litter60B(2)
 loss18(1)
@@ -105,7 +106,6 @@ mooring site licensee3
 nominated vessel31B(2), 31C(3)
 officer38D
 operator3
-other road users48(2)
 overall length3
 permanent resident3
 permitted area37(2)
@@ -116,11 +116,9 @@ rental mooring3
 repealed by-laws75(9)
 restricted area36(1)
 sandboard60A(3)
-settlement47(3)
 specified15(6)
 structure52(5)
 suitable vessel19
-sullage38C(1)
 take39(2)
 unlawfully70(2)
 use3
