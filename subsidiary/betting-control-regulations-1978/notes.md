@@ -66,7 +66,30 @@ Betting Control Amendment Regulations (No. 2) 2014 | 14 Nov 2014 p. 4279-80 | r.
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 2 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see r. 2(b))
 Betting Control Amendment Regulations (No. 2) 2016 | 8 Mar 2016 p. 669 | r. 1 and 2: 8 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2016 (see r. 2(b))
 Betting Control Amendment Regulations 2016 | 13 May 2016 p. 1427 | r. 1 and 2: 13 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is read and construed as a reference to the Commissioner of State Revenue unless the contrary intention appears.
+On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Betting Control Regulations 1978 amended
+3.Regulations amended
+This Part amends the Betting Control Regulations 1978.
+4.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 17(1)(ac) | $345 | $348
+r. 17(1)(a) | $695 | $702
+r. 17(1)(ba) | $170 | $171
+r. 17(1)(bb) | $91 | $92
+r. 17(1)(c) | $165 | $166
+r. 17(1)(f) | $665 | $672
+r. 17(2) | $108 | $109
+r. 17(3) | $108 | $109
+r. 17A(1)(a)(i) | $389 | $393
+r. 17A(1)(a)(ii) | $793 | $801
+r. 17A(1)(a)(iii) | $1 190 | $1 203
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
