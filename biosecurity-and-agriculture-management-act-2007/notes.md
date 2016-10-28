@@ -7,8 +7,9 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see r. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Reprint 1: The Biosecurity and Agriculture Management Act 2007 as at 26 Jul 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2)
+Genetically Modified Crops Free Areas Repeal Act 2016 Pt. 3 | 34 of 2016 | 27 Oct 2016 | 28 Oct 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
