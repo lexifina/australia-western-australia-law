@@ -23,11 +23,11 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 3: The Taxi Act 1994 as at 8 Apr 2011 (includes amendments listed above except those in the Co-operatives Act 2009 s. 517)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 5 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d)and Gazette 17 Apr 2015 p. 1371)
+Taxi Amendment Act 2016 | 29 of 2016 | 3 Oct 2016 | s. 1 and 2: 3 Oct 2016 (see s. 2(a)); Act other than s. 1 and 2: 29 Oct 2016 (see s. 2(b) and Gazette 28 Oct 2016 p. 4909)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
-Taxi Amendment Act 2016 s. 3-7 | 29 of 2016 | 3 Oct 2016 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
@@ -51,53 +51,6 @@ In section 40:
 (h)regulating the conduct and behaviour of taxi drivers in relation to the provision of taxi services;
 (b) delete:
 (k)regulating the circumstances under which a driver may refuse to accept a passenger or may terminate a hiring;
-On the date as at which this compilation was prepared, the Taxi Amendment Act 2016 s. 3-7 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Taxi Act 1994.
-4.Section 17 amended
-Delete section 17(4).
-5.Section 24 amended
-Delete section 24(3).
-6.Part 3A inserted
-After section 30I insert:
-Part 3A — Adjustment assistance grants
-30J.Terms used
-In this Part —
-eligible owner, of taxi plates, means a person who —
-(a)is the owner, or has an interest in the ownership, of the taxi plates; and
-(b)became the owner, or acquired the interest in the ownership, of the taxi plates —
-(i)before 18 December 2015; or
-(ii)on or after 18 December 2015, but only if the application under section 24 for approval of the transfer of the ownership, or the interest in the ownership, of the taxi plates to the person was made before that day;
-restricted taxi plates means taxi plates used, or to be used, on a taxi operated subject to conditions restricting the operation of the taxi to specified times or areas.
-30K.Application for adjustment assistance grant
-(1) An eligible owner of taxi plates may apply for an adjustment assistance grant in respect of the taxi plates.
-(2) The application must be made to the Director General in the approved form on or before the prescribed day.
-(3) If the application is for an adjustment assistance grant in respect of taxi plates owned by 2 or more eligible owners in partnership, the application must —
-(a) be made jointly by the eligible owners; and
-(b) specify a particular person who is to receive the grant on behalf of the eligible owners.
-(4) An applicant must provide any additional information that the Director General may require for the proper consideration of the application.
-(5) The Director General may require any information provided with an application to be verified by a statutory declaration.
-30L.Requirement to grant application for adjustment assistance grant
-The Director General must, by notice in writing, grant an application for an adjustment assistance grant in respect of taxi plates if satisfied that —
-(a) the applicant, or in the case of a joint application each applicant, is the eligible owner of the taxi plates; and
-(b) no other application for an adjustment assistance grant in respect of the taxi plates has been granted.
-30M.Amount and payment of adjustment assistance grant
-(1) The amount of an adjustment assistance grant is —
-(a) in respect of taxi plates other than restricted taxi plates — $20 000; or
-(b) in respect of restricted taxi plates — $6 000.
-(2) An adjustment assistance grant in respect of taxi plates is to be paid to —
-(a) the applicant; or
-(b) if the application specifies a person who is to receive the grant on behalf of the eligible owners of the taxi plates — that person.
-(3) No more than one adjustment assistance grant may be paid in respect of the same taxi plates.
-(4) The payment of an adjustment assistance grant is to be charged to the Taxi Industry Development Account.
-7.Section 41 amended
-(1) In section 41(4) delete “With” and insert:
-Without limiting Part 3A, with
-(2) In section 41(5):
-(a) after paragraph (b) insert:
-(ba) adjustment assistance grants under Part 3A; and
-(b) in paragraph (f) after “(b),” insert:
-(ba),
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -114,6 +67,7 @@ department3(1)
 Director General3(1)
 divestment period21(3), 23(2)
 eligible operator30A(1)
+eligible owner30J
 former Board47(1)
 lease3(1)
 lessee3(1)
@@ -133,6 +87,7 @@ related16(10)
 relevant percentage16(10)
 repealed Act3(1)
 restricted hours taxi30I(1)
+restricted taxi plates30J
 RHT owner30I(1)
 RHT plates30I(1)
 taxi3(1)
