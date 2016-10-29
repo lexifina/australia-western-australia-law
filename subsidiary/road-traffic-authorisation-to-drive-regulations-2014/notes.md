@@ -10,6 +10,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 27 M
 On-demand Transport Regulations Amendment Regulations 2016 Pt. 3 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2016 | 19 Aug 2016 p. 3572-5 | r. 1 and 2: 19 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Aug 2016 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2)2016 | 20 Sep 2016 p. 3968-82 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2016 (see r. 2(b))
+Road Traffic (Authorisation to Drive) Amendment Regulations (No. 4)2016 | 28 Oct 2016 p. 4919 | r. 1 and 2: 28 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Oct 2016 (see r. 2(b)(ii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
