@@ -40,13 +40,20 @@ Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulat
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2014 | 17 Oct 2014 p. 4023-71 | r. 1 and 2: 17 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2014 (see r. 2(b))
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2015 | 20 Mar 2015 p. 911-12 | r. 1 and 2: 20 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2015 (see r. 2(b))
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations (No. 2) 2015 | 16 Oct 2015 p. 4075-146 | r. 1 and 2: 16 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2015 (see r. 2(b))
+Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2016 | 21 Oct 2016 p. 4821-63 | r. 1 and 2: 21 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2016 (see r. 2(b))
 The amendments in the Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulations (No. 3) 2004 published in Gazette 4 Jan 2005 p. 6-14 have no effect because of an error in the reference to the principal regulations to be amended.
 Now known as the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 acupuncturist7C(1)
-assessor9(2)
+after-hoursSch. 1
+andSch. 1
+closed reductionSch. 1, Sch. 1
+exposureSch. 1
 GST10(1)
 MBS item number2(2)
+open reductionSch. 1, Sch. 1
+otherSch. 1, Sch. 1
 report and certificate9(2)
+useSch. 1
