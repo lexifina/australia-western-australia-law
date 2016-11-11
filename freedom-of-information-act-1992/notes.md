@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Freedom of Information Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 November 2016 of the Freedom of Information Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Freedom of Information Act 1992 | 76 of 1992 | 15 Dec 1992 | s. 1 and 2: 15 Dec 1992; Pt. 4 Div. 1 and 2: 11 Jun 1993 (see s. 2 and Gazette 11 Jun 1993 p. 2867); Act other than s. 1 and 2 and Pt. 4 Div. 1 and 2: 1 Nov 1993 (see s. 2 and Gazette 29 Oct 1993 p. 5881)
@@ -49,7 +49,8 @@ Reprint 6: The Freedom of Information Act 1992 as at 1 Feb 2013 (includes amendm
 Electoral Amendment Act 2014 Pt. 3 | 14 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 33 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 86 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Freedom of Information Act 1992 as at 11 Nov 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
@@ -61,15 +62,15 @@ The State Government Insurance Corporation ceased to exist on 1 July 2012.
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.
 The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
-On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 (given effect by s. 38) had not come into operation. It reads as follows:
-38.Consequential Amendments
+On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 (given effect by s. 38) had not come into operation. It reads as follows:
+38.Consequential amendments
 The Acts referred to in the Schedule are amended as set out in Schedule 1.
 Schedule 1 item 4 reads as follows:
-Schedule 1 — Consequential amendments to other Acts
+SCHEDULE 1 — CONSEQUENTIAL AMENDMENTS TO OTHER ACTS
 4.Freedom of Information Act 1992
 Provision amended | Amendment
 Schedule 2 | Delete the item “The State Government Insurance Corporation.”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -77,7 +78,7 @@ Act | Provision
 .......................... | ........
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 16 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 16 had not come into operation. It reads as follows:
 Part 3 — Amendments to other Acts in relation to regional subsidiaries
 Division 16 — Freedom of Information Act 1992 amended
 57.Act amended
@@ -130,5 +131,4 @@ requested documentsGl.
 review proceedings88
 State archiveGl.
 subcontractorGl.
-the agencyGl.
 third party32(1), 33(1), Gl.
