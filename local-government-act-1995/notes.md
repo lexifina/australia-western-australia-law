@@ -62,11 +62,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | City of Perth Act 2016 Pt. 4 Div. 4 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
  | Reprint 7: The Local Government Act 1995 as at 13 May 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
  | Graffiti Vandalism Act 2016 Pt. 6 Div. 2 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016 (see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
+ | Local Government Legislation Amendment Act 2016 Pt. 2 (other than s. 4, 6-9, 11 and 17) | 26 of 2016 | 21 Sep 2016 | 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 18 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Local Government Legislation Amendment Act 2016 Pt. 2 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 18 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Local Government Legislation Amendment Act 2016 s. 4, 6-9, 11 and 17 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -243,7 +244,7 @@ This Division amends the Local Government Act 1995.
 166.Section 3.5 amended
 After section 3.5(4A) insert:
 (4B) Nothing in the Health (Miscellaneous Provisions) Act 1911 or the Public Health Act 2016 prevents a local government from making local laws under this Act about matters relating to public health (as defined in the Public Health Act 2016 section 4(1)).
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 s. 4, 6-9, 11 and 17 had not come into operation. They read as follows:
 Part 2 — Local Government Act 1995 amended
 3.Act amended
 This Part amends the Local Government Act 1995.
@@ -251,9 +252,6 @@ This Part amends the Local Government Act 1995.
 In section 1.4 insert in alphabetical order:
 regional local government means a regional local government established under section 3.61;
 regional subsidiary means a regional subsidiary established under section 3.69;
-5.Section 3.12 amended
-After section 3.12(1) insert:
-(2A) Despite subsection (1), a failure to follow the procedure described in this section does not invalidate a local law if there has been substantial compliance with the procedure.
 6.Section 3.60 amended
 In section 3.60 before “unless” insert:
 or regional subsidiary
@@ -297,140 +295,15 @@ Regulations may —
 (2) Nothing in section 3.69 prevents local governments from making arrangements under which —
 (a) a local government provides a service or carries on an activity for another local government; or
 (b) local governments provide a service or carry on an activity jointly without forming a regional subsidiary.
-10.Section 4.88 amended
-(1) Delete section 4.88(1) and insert:
-(1) A person must not, during the relevant period in relation to an election —
-(a) print, publish or distribute deceptive material; or
-(b) cause deceptive material to be printed, published or distributed.
-Penalty: a fine of $5 000 or imprisonment for one year.
-(2) In section 4.88(2) delete “subsection (1)(a)” and insert:
-subsection (1)
-(3) Delete section 4.88(3).
-Note:The heading to amended section 4.88 is to read:
-Offence to print, publish or distribute misleading or deceptive material
 11.Section 5.49 amended
 In section 5.49(1) in the definition of eligible body after paragraph (b) insert:
 (ca)a regional subsidiary; or
-12.Section 5.63 amended
-Delete section 5.63(1)(c) and insert:
-(c) an interest relating to —
-(i) a fee, reimbursement of an expense or an allowance to which section 5.98, 5.98A, 5.99, 5.99A, 5.100 or 5.101(2) refers; or
-(ii) a gift permitted by section 5.100A; or
-(iii) reimbursement of an expense that is the subject of regulations made under section 5.101A;
-or
-13.Section 5.99A amended
-(1) In section 5.99A:
-(a) delete “A local government” and insert:
-(1) A local government
-(b) after “pay all” insert:
-eligible
-(2) At the end of section 5.99A insert:
-(2) For the purposes of subsection (1), a council member is eligible to be paid an annual allowance under subsection (1) for a type of expense only in the following cases —
-(a) in the case of an annual allowance that is paid in advance, if it is reasonably likely that the council member will incur expenses of that type during the period to which the allowance relates;
-(b) in the case of an annual allowance that is not paid in advance, if the council member has incurred expenses of that type during the period to which the allowance relates.
-14.Sections 5.102AA to 5.102AC inserted
-At the end of Part 5 Division 8 insert:
-5.102AA.Apportionment of annual payments
-A determination made by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B may provide for the payment of a proportion of an annual allowance or annual fee payable under this Division if a person holds the office to which the allowance or fee relates for only part of a year.
-5.102AB.Repayment of advance annual payments if recipient ceases to hold office
-(1) This section applies if —
-(a) a local government pays an annual allowance or annual fee under this Division to a person in advance (either wholly or in part); and
-(b) the person ceases to hold the office to which the allowance or fee relates before the end of the period to which the advance payment relates.
-(2) Regulations may be made —
-(a) requiring the repayment to a local government, to the extent determined in accordance with the regulations, of an advance payment of an annual allowance or annual fee in the circumstances to which this section applies; and
-(b) providing for a local government to recover any amount repayable if it is not repaid.
-5.102AC.Application of this Division to regional local governments
-(1) This Division applies, and is to be taken to have always applied, in accordance with section 3.66(1) and (5) to and in relation to regional local governments, members and deputy members of the councils of regional local governments and chairmen and deputy chairmen of regional local governments.
-(2) This section does not limit section 3.66.
-15.Section 5.110A inserted
-After section 5.109 insert:
-5.110A.Withdrawal of complaint of minor breach
-(1) This section applies to the following complaints —
-(a) a complaint made under section 5.107, other than a complaint that, under section 5.115, the complaints officer has sent to the Departmental CEO;
-(b) a complaint made under section 5.114 that, under section 5.108, the Departmental CEO has sent to the complaints officer;
-(c) a complaint made under section 5.109.
-(2) A person who has made a complaint to which this section applies can withdraw the complaint at any time before a standards panel does either of the things that it is required to do under section 5.110(2) in relation to the complaint.
-(3) A withdrawal of a complaint —
-(a) must be in writing; and
-(b) must be sent to the member of the primary standards panel who is appointed under Schedule 5.1 clause 2(a).
-(4) If a complaint is withdrawn —
-(a) the member of the primary standards panel who is appointed under Schedule 5.1 clause 2(a) must, as soon as practicable after receiving the withdrawal —
-(i) give to the person who made the complaint an acknowledgment in writing that the withdrawal of the complaint has been received; and
-(ii) notify the council member about whom the complaint was made and the complaints officer that the complaint has been withdrawn;
-and
-(b) neither the member of the primary standards panel who is appointed under Schedule 5.1 clause 2(a) nor a standards panel is to take any action or, as the case requires, any further action under section 5.110 in relation to the complaint; and
-(c) a further complaint about the matter that is the subject of the withdrawn complaint cannot be made (whether by the original complainant or anyone else) unless the member of the primary standards panel who is appointed under Schedule 5.1 clause 2(a) is satisfied that it is appropriate to do so in the circumstances.
-(5) Without limiting subsection (2), a complaint cannot be withdrawn if, under section 5.111, a standards panel has sent the complaint to the Departmental CEO, even if the Departmental CEO subsequently decides not to make an allegation under section 5.112(2).
-(6) Despite subsection (4) —
-(a) even though a complaint has been withdrawn, a standards panel can deal with the complaint as if it had not been withdrawn if the member of the primary standards panel who is appointed under Schedule 5.1 clause 2(a) is satisfied that it is appropriate to do so in the circumstances; and
-(b) if paragraph (a) applies, the member of the primary standards panel who is appointed under Schedule 5.1 clause 2(a) must notify the parties and the complaints officer that a standards panel is to deal with the complaint.
-16.Section 5.110 amended
-(1) After section 5.110(2) insert:
-(3A) However, a standards panel can at any stage of its proceedings refuse to deal with a complaint if the standards panel is satisfied that the complaint is frivolous, trivial, vexatious, misconceived or without substance.
-(2) Delete section 5.110(4) and insert:
-(4) A standards panel must give each party written notice of the reasons for —
-(a) any finding it makes under subsection (2); or
-(b) any refusal under subsection (3A) to deal with a complaint.
 17.Section 6.23 amended
 After section 6.23(3) insert:
 (4) In relation to a regional subsidiary, a receiver is entitled to receive whichever of the following over which security has been given in a particular case —
 (a) the financial contributions of the participants to the regional subsidiary’s funds as set out or provided for in the regional subsidiary’s charter;
 (b) Government grants that were not given to the regional subsidiary for a specific purpose;
 (c) the general funds of a participant to the extent that those funds secure financial accommodation extended to the regional subsidiary.
-18.Section 9.15 amended
-In section 9.15 delete the definition of authorised person and insert:
-authorised person means a person appointed under section 9.10(1) by the local government to be an authorised person for the purposes of section 9.16;
-19.Section 9.17 amended
-In section 9.17(1):
-(a) in paragraph (b) delete “an authorised person” and insert:
-the CEO of the local government
-(b) delete paragraph (c) and insert:
-(c) inform the alleged offender how and where the money may be paid.
-20.Section 9.19 amended
-In section 9.19 delete “An authorised person” and insert:
-The CEO of a local government
-21.Section 9.20 amended
-In section 9.20(1) delete “an authorised person” and insert:
-the CEO of the local government
-22.Section 9.23 deleted
-Delete section 9.23.
-23.Schedule 2.1 clause 11 amended
-After Schedule 2.1 clause 11(4) insert:
-(5A) The value of compensation required to be made under subclause (4)(a) to a person whose contract of employment with a local government is terminated or varied is not to exceed in total —
-(a) in the case of a person whose contract of employment is terminated —
-(i) if the person’s employment is governed by a written contract in accordance with section 5.39, the maximum amount of money to which the person is entitled, under that contract, if the contract is terminated before the expiry date; or
-(ii) in any other case, the value of the person’s final annual remuneration, as calculated in accordance with regulations made for the purposes of section 5.50(3);
-or
-(b) in the case of a person whose contract of employment is varied, the lesser of —
-(i) the amount that the person would have been entitled to if the person’s contract of employment had been terminated before the expiry date; or
-(ii) the value of the person’s annual remuneration for the year ending on the date of the variation, calculated in accordance with regulations made for the purposes of section 5.50(3) as if the person’s contract of employment had terminated on that date.
-(5B) For the purposes of subclause (5A), the total value of the compensation required to be made to a person includes all amounts to which the person is entitled under a contract of employment or award relating to the person as an employee of the local government.
-24.Schedule 2.1 clause 12 inserted
-After Schedule 2.1 clause 11 insert:
-12.Registration of documents
-(1) In this clause —
-relevant official means —
-(a)the Registrar of Titles under the Transfer of Land Act 1893; or
-(b)the Registrar of Deeds and Transfers under the Registration of Deeds Act 1856; or
-(c)the Minister administering the Land Administration Act 1997; or
-(d)any other person authorised by a written law to record and give effect to the registration of documents relating to transactions affecting any estate or interest in land or any other property.
-(2) The relevant officials are —
-(a) to take notice of an order of the kind referred to in clause 11(3) relating to property, rights and liabilities; and
-(b) to record and register in the appropriate manner the documents necessary to show the effect of the order as it relates to those matters.
-25.Schedule 9.3 Division 3 inserted
-At the end of Schedule 9.3 insert:
-Division 3 — Provisions for Local Government Legislation Amendment Act 2016
-45.Term used: amending Act
-In this Division —
-amending Act means the Local Government Legislation Amendment Act 2016.
-46.Part 5 Division 9: complaints
-Sections 5.110A and 5.110 (as amended by the amending Act) apply to and in relation to a complaint whether made before or after the amending Act section 15 comes into operation.
-47.Part 9 Division 2 Subdivision 2
-(1) An infringement notice given under section 9.16 before the amending Act section 19 comes into operation is not invalid, and is to be taken never to have been invalid, just because the notice provided that the amount of the modified penalty may be paid to an authorised person at a particular place and did not state who are authorised persons for the purposes of receiving payment of modified penalties.
-(2) Any extension of time for payment given under section 9.19 before the amending Act section 20 comes into operation is to be taken to have been given by the CEO of the relevant local government.
-(3) Any withdrawal of an infringement notice before the amending Act section 21 comes into operation is to be taken to have been done by the CEO of the relevant local government.
-48.Schedule 2.1: transitional arrangements
-Schedule 2.1 clause 11(5A) and (5B) apply to and in relation to the termination or variation of a contract of employment whether entered into before or after the amending Act section 23 comes into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -447,7 +320,7 @@ affected electorsSch. 2.1 cl. 1, Sch. 2.2 cl. 1
 affected local governmentSch. 2.1 cl. 1
 affected person9
 alleged offender3
-amending ActSch. 9.3 cl. 14A(1), Sch. 9.3 cl. 42
+amending ActSch. 9.3 cl. 14A(1), Sch. 9.3 cl. 42, Sch. 9.3 cl. 45
 amending provisionSch. 9.3 cl. 44
 amount misapplied8(3)
 an authorised person8(6), 8(6)
@@ -625,6 +498,7 @@ regulations7
 relative5(1)
 relevant district2(2)
 relevant interest6(1)
+relevant officialSch. 2.1 cl. 12(1)
 relevant period4(4)
 relevant person5, 5(1)
 return5(1)
