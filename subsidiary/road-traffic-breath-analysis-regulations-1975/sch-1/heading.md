@@ -3,10 +3,10 @@
 Form 1
 Western Australia
 ROAD TRAFFIC ACT 1974
-I, ............................................................................................................................. the chief executive officer of the Chemistry Centre (WA), pursuant to the power conferred on me by section 72 of the Road Traffic Act 1974, HEREBY CERTIFY that: ..................................................................................... is competent to operate all types of breath analysing equipment.
-Dated at Perth this ...................................... day of ...................................... 20.....
-............................................................. chief executive officer Chemistry Centre (WA)
-[Form 1 amended in Gazette 14 Mar 2008 p. 833.]
+I, ............................................................................................................................. the Commissioner of Police, pursuant to the power conferred on me by section 72 of the Road Traffic Act 1974, HEREBY CERTIFY that: ..................................................................................... is competent to operate all types of breath analysing equipment.
+Dated at ............................................................. this ...................................... day of ...................................... 20.....
+............................................................. Commissioner of Police
+[Form 1 amended in Gazette 14 Mar 2008 p. 833; 15 Nov 2016 p. 5061.]
 Form 2
 Western Australia
 ROAD TRAFFIC ACT 1974
