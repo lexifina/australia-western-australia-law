@@ -12,6 +12,7 @@ Reprint 2: The Classification (Publications, Films and Computer Games) Enforceme
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 2, Pt. 3 and 4 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Reprint 3: The Classification (Publications, Films and Computer Games) Enforcement Act 1996 as at 13 May 2011 (includes amendments listed above)
 Classification (Publications, Films and Computer Games) Enforcement Amendment Act 2012 | 53 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2013 (see s. 2(b)(i))
+Classification (Publications, Films and Computer Games) Enforcement Amendment Act 2016 | 36 of 2016 | 16 Nov 2016 | s. 1 and 2: 16 Nov 2016 (see s. 2(a)); Act other than s. 1 and 2: 17 Nov 2016 (see s. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 Repealed by s. 153 of this Act.
 The amendment in the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 16 is not included because the section it sought to amend had been repealed by the Censorship Amendment Act 2003 s. 35 before the amendment purported to come into operation.
@@ -102,10 +103,10 @@ authorised person3
 Board3
 business day3
 buy3
-classification certificate3
 classified3
 code of practice99
 commencement144
+commencement day153B(1)
 Commonwealth Act3
 Commonwealth Gazette3
 computer game3
@@ -143,12 +144,15 @@ registered person3
 registered premises3
 Registrar3
 relevant section153A
+relevant showing6(3)
+repealed provision 153B(1)
 restricted material99
 Review Board3
 seized copies117A(1)
 seized products117A(1)
 sell3
 sound recording3
+subject to a conditional cultural exemption6(1)
 submittable publication3
 transitional Commonwealth regulation152A(2)
 unapproved advertisement90(2)
