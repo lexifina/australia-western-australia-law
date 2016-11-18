@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 November 2016 of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pawnbrokers and Second-hand Dealers Regulations 1996 | 29 Mar 1996 p. 1557-76 | 1 Apr 1996 (see r. 2)
@@ -36,11 +36,8 @@ Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2014 | 5 Aug 2
 Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 3) 2014 | 8 Jan 2015 p. 151-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2015 | 2 Jun 2015 p. 1948-52 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
-Footnote no longer applicable.
-Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 (Cwlth).
+Reprint 5: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 18 Nov 2016 (includes amendments listed above)
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Pawnbrokers and Second-hand Dealers Act 1994.
-Omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -48,9 +45,9 @@ financial body3
 new sale5(2)
 public authority3
 public utility3
-retail shop5(3)
 retailer5(3)
+retail shop5(3)
 section3
 telephone utility3
 traded goods5(2)
-transaction card13A(1)
+transaction card13A(1)(b)
