@@ -15,7 +15,7 @@ Description of fee | Amount
 7.Disconnection of overhead service leads following unauthorised reconnection ....................................... | $194.00
 8.Meter reading where reading requested by consumer.. | $14.89
 [9.Deleted]
-10.Overdue account notices ......................................... | $5.50
+10.Overdue account notices ......................................... | $4.75
 11.Tariff R1 or R3 “time-of-use meter” installation fee | $809.60
 12.A transaction fee where a consumer makes a payment to the corporation by means of one of the following —
 (a)a Visa or a MasterCard credit card or debit card | 0.53% of the amount of the charge
