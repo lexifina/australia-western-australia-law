@@ -10,31 +10,8 @@ Road Traffic (Administration) Amendment Regulations (No. 4) 2015 | 13 Nov 2015 p
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 5 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
 Road Traffic Regulations Amendment Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2342-3 | 1 Jul 2016 (see r. 2(b))
 Road Traffic (Administration) Amendment Regulations 2016 | 20 Sep 2016 p. 3983-4 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Road Traffic Regulations Amendment (Pilot Vehicle Drivers) Regulations 2016 Pt. 3 | 15 Nov 2016 p. 5062-77 | 28 Nov 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, the Road Traffic Regulations Amendment (Pilot Vehicle Drivers) Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Road Traffic (Administration) Regulations 2014 amended
-7.Regulations amended
-This Part amend the Road Traffic (Administration) Regulations 2014.
-8.Regulation 13 amended
-In regulation 13(1) in the Table after the item for “Road Traffic (Vehicles) Regulations 2014 r. 140” insert:
-Road Traffic (Vehicles) Regulations 2014 r. 454X | Direct production of heavy vehicle pilot licence
-9.Regulation 14 amended
-In regulation 14(1) in the Table after the item for “Road Traffic (Vehicles) Regulations 2014 r. 140” insert:
-Road Traffic (Vehicles) Regulations 2014 r. 454X | Direct production of heavy vehicle pilot licence
-10.Regulation 17 amended
-(1) In regulation 17(2) at the end of the Table insert:
-Road Traffic (Vehicles) Regulations 2014 r. 454X | Direct production of heavy vehicle pilot licence
-(2) In regulation 17(3)(d) delete “regulation 452(2).” and insert:
-regulation 452(2) or 454X.
-11.Regulation 24 amended
-In regulation 24(1) in the definition of road law regulation offence in the last item in the Table after “12,” insert:
-13A,
-12.Regulation 26 amended
-In regulation 26 in the last item in the Table after “12,” insert:
-13A,
+Road Traffic (Administration) Amendment Regulations (No. 2) 2016 | 25 Nov 2016 p. 5280-2 | r. 1 and 2: 25 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2016 (see r. 2(b) and Gazette 25 Nov 2016 p. 5279)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
