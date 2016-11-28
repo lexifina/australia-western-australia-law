@@ -13,54 +13,15 @@ Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 | 59 of 2012 | 11 Dec 201
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 | 2 of 2015 | 25 Feb 2015 | 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Road Traffic Legislation Amendment Act 2015 Pt. 3 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 1: The Road Traffic (Administration) Act 2008 as at 15 May 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2)
-Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 2 | 25 of 2016 | 21 Sep 2016 | 22 Sep 2016 (see s. 2(b))
+Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 2 and Pt. 3 Div. 3 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | Pt. 2 Div. 2: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 3 Subdiv. 2: 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 3 Subdiv. 2 and Div. 4 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 4 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 3 Subdiv. 2 and Div. 4 Subdiv. 2 had not come into operation. They read as follows:
 Part 3 — Amendments that will be brought into operation by proclamation
-Division 3 — Amendments relating to driving instructors
-Subdivision 2 — Road Traffic (Administration) Act 2008 amended
-55.Act amended
-This Subdivision amends the Road Traffic (Administration) Act 2008.
-56.Section 28 amended
-In section 28 insert in alphabetical order:
-instructor has the meaning given in the Road Traffic Act 1974 section 49AAA;
-learner driver has the meaning given in the Road Traffic Act 1974 section 49AAA;
-provide driving instruction has the meaning given in the Road Traffic Act 1974 section 49AAA;
-57.Part 4 Division 2A inserted
-After Part 4 Division 1 insert:
-Division 2A — When person taken to be instructor or in charge of vehicle
-32A.Circumstances in which person taken to be instructor or in charge of motor vehicle
-(1) For the purposes of this Part, unless the contrary is shown, a person is to be taken to be an instructor providing driving instruction to a learner driver if the person is —
-(a) seated beside the learner driver in a motor vehicle driven by the learner driver; or
-(b) if there is no seat directly beside the learner driver —
-(i) seated in the seat nearest the learner driver that faces forward in a motor vehicle driven by the learner driver; or
-(ii) standing near the learner driver in a motor vehicle driven by the learner driver;
-or
-(c) riding in a side car attached, or on a pillion seat fitted, to a motor cycle driven by the learner driver.
-(2) Without limiting the circumstances in which a person is in charge of a motor vehicle, an instructor providing driving instruction to a learner driver is, for the purposes of this Part, to be taken to be in charge of the motor vehicle driven by the learner driver.
-(3) Subsection (2) does not affect any liability of a learner driver for any offence committed by that person while driving or being in charge of a vehicle.
-58.Section 33 amended
-In section 33(1) delete “vehicle” and insert:
-vehicle, or an instructor providing driving instruction to a learner driver,
-59.Section 35 amended
-(1) Delete section 35(1) and insert:
-(1) In this section —
-identity request means a request made under a road law for information as to the identity of the person who was driving or in charge of a vehicle at any particular time.
-(2) In section 35(2) delete “a driver” and insert:
-an
-Note:The heading to amended section 35 is to read:
-Duty to take reasonable measures to be able to comply with identity request
-60.Section 109 amended
-In section 109(1):
-(a) in paragraph (f) after “section” insert:
-62B(4) or
-(b) after paragraph (f) insert:
-(gaa) that the vehicle to which the alleged offence relates was, at the time of the alleged offence, a motor vehicle referred to in the Road Traffic Act 1974 section 62B(5);
 Division 4 — Other amendments
 Subdivision 2 — Road Traffic (Administration) Act 2008 amended
 65.Act amended
@@ -278,7 +239,6 @@ distance measuring equipment117(1)
 district4
 drive4
 driver4, 28, 38
-driver identity request35(1)
 driver’s licence4
 driver’s licence document36(3)
 driver’s licence information4
@@ -295,16 +255,19 @@ heavy traffic132(1)
 heavy vehicle4
 home address4
 ICWA13D(1)
+identity request35(1)
 incident26(1)
 incident information12(1), 13D(1), 13E(1), 15(1)
 infringement notice4, 13A(1), 79
 inspection station4
+instructor28
 instructor information4
 involved person4
 issuing authority21
 journey documentation4
 jurisdiction4
 label36(3)
+learner driver28
 learner’s permit4
 licence holder6(1)
 licensed6(1)
@@ -338,6 +301,7 @@ premises4, 54(1), 55(1)
 prescribed area40(1), 47(1)
 prescribed person14(1)
 present offence107
+provide driving instruction28
 PU7
 public authority4
 public place28

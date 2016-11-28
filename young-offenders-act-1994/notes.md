@@ -54,15 +54,15 @@ Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 
 Reprint 6: The Young Offenders Act 1994 as at 9 Oct 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014 and the Children and Community Services Legislation Amendment and Repeal Act 2015)
 Graffiti Vandalism Act 2016 Pt. 6 Div. 3 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016(see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 8 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
-Road Traffic Legislation Amendment Act 2016 s. 21 | 25 of 2016 | 21 Sep 2016 | 22 Sep 2016 (see s. 2(b))
+Road Traffic Legislation Amendment Act 2016 s. 21 and 29 | 25 of 2016 | 21 Sep 2016 | s. 21: 22 Sep 2016 (see s. 2(b)); s. 29: 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 1 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
+Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 4 | 51 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(1)(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -133,19 +133,15 @@ In section 25(3) in the definition of infringement notice:
 IIIA; or
 (b) after paragraph (b) insert:
 (c)an alcohol intervention requirement given under the Liquor Control Act 1988 Part 7A.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 1 Subdiv. 2 had not come into operation. It reads as follows:
-Part 3 — Amendments that will be brought into operation by proclamation
-Division 1 — Amendments relating to careless driving
-Subdivision 2 — Young Offenders Act 1994 amended
-28.Act amended
-This Subdivision amends the Young Offenders Act 1994.
-29.Schedule 2 amended
-In Schedule 2 item 3:
-(a) delete the row relating to section 59 and insert:
-s. 59 | Dangerous driving causing death or grievous bodily harm
-(b) after the row relating to section 59A insert:
-s. 59BA(1) | Careless driving causing death, grievous bodily harm or bodily harm
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 4 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to other Acts and repeals
+Division 4 — Young Offenders Act 1994 amended
+55.Act amended
+This Division amends the Young Offenders Act 1994.
+56.Schedule 1 amended
+In Schedule 1 item 3 relating to the Road Traffic Code 1974 delete the row relating to s. 60 and insert:
+s. 60 | Driving in reckless manner
+s. 60A | Driving at reckless speed
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
