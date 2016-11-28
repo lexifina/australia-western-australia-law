@@ -55,10 +55,7 @@ Road Traffic Code Amendment Regulations 2015 | 13 Feb 2015 p. 651-2 | r. 1 and 2
 Road Traffic Code Amendment Regulations (No. 3) 2015 | 16 Oct 2015 p. 4152 | r. 1 and 2: 16 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2015 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 4) 2015 | 22 Dec 2015 p. 5131 | r. 1 and 2: 22 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2015 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 2) 2016 | 26 Apr 2016 p. 1277-8 | r. 1 and 2: 26 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic Code Amendment Regulations 2016 r. 3-5 | 15 Nov 2016 p. 5061-2 | 28 Nov 2016 (see r. 2(b))
+Road Traffic Code Amendment Regulations 2016 | 15 Nov 2016 p. 5061-2 | r. 1 and 2: 15 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2016 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
@@ -67,16 +64,6 @@ Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in 
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
-On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations 2016 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic Code 2000.
-4.Regulation 3 amended
-(1) In regulation 3(1) delete the definition of accredited pilot.
-(2) In regulation 3(1) insert in alphabetical order:
-licenced pilot vehicle driver means a person who holds a heavy vehicle pilot licence granted under the Road Traffic (Vehicles) Regulations 2014 Part 13A;
-5.Regulation 272 amended
-In regulation 272(1)(d)(i) delete “an accredited pilot; and” and insert:
-a licenced pilot vehicle driver; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
