@@ -17,6 +17,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 20 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 2 | 51 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(1)(b))
 The provisions of this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 20 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts and repeals
@@ -34,6 +35,14 @@ This Division amends the Road Safety Council Act 2002.
 324.Section 6 amended
 In section 6(1)(h) delete “Health (Miscellaneous Provisions) Act 1911;” and insert:
 Public Health Act 2016;
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 2 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to other Acts and repeals
+Division 2 — Road Safety Council Act 2002 amended
+51.Act amended
+This Division amends the Road Safety Council Act 2002.
+52.Section 12 amended
+In section 12(2)(da) delete “section 80J(7)(j)(i) requires” and insert:
+section 80J(7)(j)(i) and 80V(4)(e) require
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
