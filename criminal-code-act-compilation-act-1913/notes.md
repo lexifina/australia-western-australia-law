@@ -184,6 +184,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 1 | 51 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(1)(b))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -236,6 +237,17 @@ medical practitioner means a person registered under the Health Practitioner Reg
 128.Section 306 amended
 In section 306(1) in the definition of female genital mutilation paragraph (d) delete “within the meaning of the Health Act 1911; or” and insert:
 as defined in section 3 of that Act; or
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to other Acts and repeals
+Division 1 — The Criminal Code amended
+48.Act amended
+This Division amends The Criminal Code.
+49.Section 378 amended
+In section 378(2)(a) delete “section 60 of the Road Traffic Act 1974 (i.e. the offence known as reckless driving); or” and insert:
+the Road Traffic Act 1974 section 60 or 60A; or
+50.Section 417A amended
+In section 417A(3)(a) delete “section 60 (i.e. the offence known as reckless driving); or” and insert:
+section 60 or 60A; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
