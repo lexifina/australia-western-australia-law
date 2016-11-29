@@ -52,13 +52,21 @@ Reprint 9: The Wildlife Conservation Act 1950 as at 7 Aug 2015 (includes amendme
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biodiversity Conservation Act 2016 s. 278 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Biodiversity Conservation Act 2016 s. 278 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (1b) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
 On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 278 had not come into operation. It reads as follows:
 278.Wildlife Conservation Act 1950 repealed
 The Wildlife Conservation Act 1950 is repealed.
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 377 had not come into operation. It reads as follows:
+377.Various references to Fish Resources Management Act 1994 amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Fish Resources Management Act 1994” and insert:
+Aquatic Resources Management Act 2016
+Table
+Wildlife Conservation Act 1950 | s. 17(2)(e) and (g) and s. 17A(d)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
