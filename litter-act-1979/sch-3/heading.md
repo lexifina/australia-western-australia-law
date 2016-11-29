@@ -1,6 +1,6 @@
 ## Third Schedule — Institutions of proceedings
 [s. 30 and 31]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Column 1 | Column 2
 Class of authorised officer serving infringement notice or instituting proceedings | Public authority on behalf of which notice is served or proceedings instituted
 Members of the Police Force | The Commissioner of Police
@@ -14,4 +14,4 @@ Fisheries officers referred to in the Fish Resources Management Act 1994 | The C
 Bush fire liaison officers under the Bush Fires Act 1954 | The FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3
 Inspectors under the Western Australian Marine Act 1982 | The chief executive officer as defined in section 3(1) of the Western Australian Marine Act 1982
 Persons holding or acting in a prescribed office of a public authority | That public authority
-[Third Schedule inserted by No. 49 of 1981 s. 7; amended by No. 53 of 1994 s. 264; No. 24 of 1995 s. 55; No. 14 of 1996 s. 4; No. 42 of 1998 s. 38; No. 28 of 2006 s. 216; No. 22 of 2012 s. 127.]
+[Third Schedule inserted: No. 49 of 1981 s. 7; amended: No. 53 of 1994 s. 264; No. 24 of 1995 s. 55; No. 14 of 1996 s. 4; No. 42 of 1998 s. 38; No. 28 of 2006 s. 216; No. 22 of 2012 s. 127.]
