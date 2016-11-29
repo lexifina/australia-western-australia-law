@@ -18,13 +18,12 @@ President of The Western Australian Industrial Relations Commission.
 Chief Commissioner, Senior Commissioner or other commissioner of The Western Australian Industrial Relations Commission.
 Chairman or other member of the Salaries and Allowances Tribunal established by the Salaries and Allowances Act 1975.
 Chairman of the Coal Industry Superannuation Board.
-Chairperson or deputy chairperson of the Coal Industry Tribunal of Western Australia constituted under the Coal Industry Tribunal of Western Australia Act 1992.
 Member of the Mental Health Tribunal established by the Mental Health Act 2014.
 Public service arbitrator appointed under Division 2 of Part IIA of the Industrial Relations Act 1979.
 Chairman, or deputy of the chairman, of the Railways Classification Board established under Division 3 of Part IIA of the Industrial Relations Act 1979.
 Member of the State Administrative Tribunal.
 Western Australian Energy Disputes Arbitrator appointed under section 62 of the Energy Arbitration and Review Act 1998.
-[Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 Sch. 3 Div. 1; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141; No. 73 of 2006 s. 116(2); No. 16 of 2009 s. 68; No. 25 of 2014 s. 39.]
+[Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 Sch. 3 Div. 1; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141; No. 73 of 2006 s. 116(2); No. 16 of 2009 s. 68; No. 25 of 2014 s. 39; No. 50 of 2016 s. 5(1).]
 ## Division 2 — Other offices
 [Heading inserted by No. 19 of 2010 s. 14(4).]
 Auditor General appointed under the Auditor General Act 2006.
@@ -52,9 +51,8 @@ A prescribed office within the meaning of the Salaries and Allowances Act 1975.
 [Heading inserted by No. 19 of 2010 s. 14(5).]
 ## Division 1 — Tribunal and board offices
 [Heading inserted by No. 19 of 2010 s. 14(5).]
-Member, or deputy of a member, of the Coal Industry Tribunal of Western Australia constituted under the Coal Industry Tribunal of Western Australia Act 1992.
 Member, or deputy of a member, of the Railways Classification Board, established under Division 3 of Part IIA of the Industrial Relations Act 1979.
-[Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 15 of 1991 s. 22(b); No. 37 of 1992 s. 39(b); No. 1 of 1995 s. 23(b); No. 34 of 1999 s. 61; No. 59 of 2004 s. 141.]
+[Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 15 of 1991 s. 22(b); No. 37 of 1992 s. 39(b); No. 1 of 1995 s. 23(b); No. 34 of 1999 s. 61; No. 59 of 2004 s. 141; No. 50 of 2016 s. 5(2).]
 ## Division 2 — Other offices or places
 [Heading inserted by No. 19 of 2010 s. 14(6).]
 The office or place of —

@@ -9,6 +9,7 @@ Reprint 1: The Fair Trading Act 2010 as at 3 Feb 2012 (includes amendments liste
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 21 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fair Trading Amendment Act 2013 | 11 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2013 (see s. 2(b) and Gazette 29 Nov 2013 p. 5455)
 Consumer Protection Legislation Amendment Act 2014 Pt. 4 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Statutes (Repeals) Act 2016 Pt. 4 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 1aaThe Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 read as follows:
 4.Operation of section 73(1) altered
 Delete section 73(1)(c)(ii) and insert:
@@ -22,7 +23,7 @@ Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Medicines and Poisons Act 2014 s. 185 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Travel Agents Amendment and Expiry Act 2014 s. 8 | 21 of 2014 | 29 Aug 2014 | Operative on commencement after the day on which the Travel Agents Act 1985 expires under s. 61(1) of that Act as amended by s. 7 of this Act (see s. 2(c))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 12 and Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 12 and Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 12: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 7: to be proclaimed (see s. 2(1)(c))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
 83.Fair Trading Act 2010 amended
