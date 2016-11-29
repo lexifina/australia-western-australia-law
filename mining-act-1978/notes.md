@@ -85,6 +85,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
+Aquatic Resources Management Act 2016 s. 369 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -389,6 +390,18 @@ Table
 s. 46(aa)(ii) | s. 63(aa)(ii)
 s. 70H(1)(aa)(ii) | s. 82(1)
 s. 84AA
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 369 had not come into operation. It reads as follows:
+369.Mining Act 1978 amended
+(1) This section amends the Mining Act 1978.
+(2) In section 24A(3)(b) delete “fisheries” and insert:
+aquatic resources
+(3) In section 24A(6) delete “fisheries” and insert:
+aquatic resources
+(4) In section 24A(9) delete the definition of fisheries Minister.
+(5) In section 24A(9) insert in alphabetical order:
+aquatic resources Minister means the Minister for the time being charged with the administration of the Aquatic Resources Management Act 2016;
+(6) In section 25(2B) delete “Fish Resources Management Act 1994” and insert:
+Aquatic Resources Management Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
