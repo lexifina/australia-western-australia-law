@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 March 2015 of the Litter Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Litter Act 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Litter Act 1979 | 81 of 1979 | 11 Dec 1979 | 9 May 1980 (see s. 2 and Gazette 9 May 1980 p. 1446)
@@ -42,6 +42,11 @@ Reprint 5: The Litter Act 1979 as at 11 May 2012 (includes amendments listed abo
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 8 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Litter Amendment Act 2012 | 30 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1 and 2: 21 Nov 2012 (see s. 2(b) and Gazette 20 Nov 2012 p. 5685)
 Reprint 6: The Litter Act 1979 as at 20 Mar 2015 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Aquatic Resources Management Act 2016 s. 367 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Other notes
 Repealed by the Associations Incorporation Act 1987.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined terms
