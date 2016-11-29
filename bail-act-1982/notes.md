@@ -64,6 +64,10 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 1 (
 Reprint 9: The Bail Act 1982 as at 1 May 2015 (includes amendments listed above)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 2 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2014 p. 4632)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 1 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 23. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004 s. 4.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -78,6 +82,17 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
 The Bail Amendment Act 2008 s. 6(2), 9(4)-(11), 10(2), 11(3), 15(5)-(8), 16(2), 18(4)-(5), 21(3), 22(2), 23(4), 24(6)-(7), 27(2)-(3), 28(6), 30(4)-(5), 31(2)-(3), 32(3)-(4), 33(6), 40(2), 41(5)-(9), 42(3) and 44 are transitional provisions.
+On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to other Acts
+Division 1 — Bail Act 1982 amended
+87.Act amended
+This Division amends the Bail Act 1982.
+88.Section 16A amended
+In section 16A(3) before “violence” insert:
+family violence restraining orders or
+89.Schedule 1 amended
+In Schedule 1 Part C clause 3B(6) in the definition of protective condition or order paragraph (b) delete “a violence” and insert:
+a family violence restraining order or a violence
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
