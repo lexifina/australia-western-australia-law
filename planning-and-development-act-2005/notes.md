@@ -24,13 +24,14 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 222 | 25 of 2012 | 3
 Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above except those in the Commercial Arbitration Act 2012, Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
 Associations Incorporation Act 2015 s. 226 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Reprint 4: The Planning and Development Act 2005 as at 1 Apr 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
-On the date as at which this reprint was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
 149.Conditions on rural land (tied lots)
 (1) In this section —
 rural land means land zoned for agricultural or rural use under a local planning scheme.
@@ -178,6 +179,13 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 377 had not come into operation. It reads as follows:
+377.Various references to Fish Resources Management Act 1994 amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Fish Resources Management Act 1994” and insert:
+Aquatic Resources Management Act 2016
+Table
+Planning and Development Act 2005 | Sch. 2 cl. 7(2)(e)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
