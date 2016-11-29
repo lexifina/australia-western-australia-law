@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 June 2012 of the Pearling Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pearling Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pearling Act 1990 | 88 of 1990 | 17 Dec 1990 | s. 1 and 2: 17 Dec 1990; Act other than s. 1 and 2: 1 Jan 1991 (see s. 2 and Gazette 21 Dec 1990 p. 6199)
@@ -22,6 +22,11 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 3: The Pearling Act 1990 as at 1 Jun 2012 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Aquatic Resources Management Act 2016 s. 268 and Pt. 18 Div. 1 and 3 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Other notes
 Repealed by the Fish Resources Management Act 1994.
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 of the Commonwealth.
 The Pearling Amendment Act 1994 s. 6 reads as follows:
