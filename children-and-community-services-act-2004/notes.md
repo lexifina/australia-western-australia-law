@@ -29,6 +29,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 6 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 2 | 49 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 6 had not come into operation. It reads as follows:
@@ -39,6 +40,28 @@ This Division amends the Children and Community Services Act 2004.
 37.Section 3 amended
 In section 3 in the definition of public authority delete paragraph (c) and insert:
 (c)a local government, regional local government or regional subsidiary; or
+On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 2 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to other Acts
+Division 2 — Children and Community Services Act 2004 amended
+90.Act amended
+This Division amends the Children and Community Services Act 2004.
+91.Section 3 amended
+(1) In section 3 delete the definitions of:
+act of family and domestic violence
+exposed
+(2) In section 3 insert in alphabetical order:
+exposed, in relation to family violence, has the meaning given in the Restraining Orders Act 1997 section 6A(1);
+family violence has the meaning given in the Restraining Orders Act 1997 section 5A(1);
+(3) In section 3 in the definition of social services paragraph (l) delete “and domestic”.
+92.Section 23 amended
+In section 23 in the definition of relevant information paragraph (a)(iii) delete “one or more acts of family and domestic” and insert:
+family
+93.Section 28A amended
+In section 28A(1) in the definition of relevant information paragraph (a)(ii) delete “one or more acts of family and domestic” and insert:
+family
+94.Section 28 amended
+In section 28(1) in the definition of emotional abuse paragraph (b) delete “an act of family and domestic” and insert:
+family
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
