@@ -27,11 +27,26 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 5 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 s. 52(1) had not come into operation. It reads as follows:
 52.Section 142 amended
 (1) Delete section 142(7)(a)(ii) and insert:
 (ii) under the Mental Health Act 2014 section 157;
 The paragraph that it seeks to amend has been deleted.
+On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 5 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to other Acts
+Division 5 — Criminal Investigation Act 2006 amended
+101.Act amended
+This Division amends the Criminal Investigation Act 2006.
+102.Section 128 amended
+In section 128(1) in the definition of serious offence delete paragraph (c) and insert:
+(c)that involves family violence as defined in the Restraining Orders Act 1997 section 5A(2)(a), (b), (e) or (j) or a threat to enact that violence; or
+103.Section 135 amended
+In section 135(2):
+(a) in paragraph (b) delete “place.” and insert:
+place; or
+(b) after paragraph (b) insert:
+(c) the person is complying with an order under the Restraining Orders Act 1997 section 62F(1)(c) or (2)(a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
