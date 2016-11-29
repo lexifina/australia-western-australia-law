@@ -29,6 +29,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 12 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
@@ -43,6 +44,15 @@ This Division amends the Duties Act 2008.
 50.Section 3 amended
 In section 3 in the definition of local government paragraph (b) after “government” insert:
 or regional subsidiary
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 377 had not come into operation. It reads as follows:
+377.Various references to Fish Resources Management Act 1994 amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Fish Resources Management Act 1994” and insert:
+Aquatic Resources Management Act 2016
+Table
+Duties Act 2008 | s. 136
+Note:In the Duties Act 2008, the heading to amended section 136 is to read:
+Business licences held under Aquatic Resources Management Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
