@@ -1,6 +1,6 @@
 ## Schedule 3 — Prevention of Collisions Convention
 [s. 76]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 CONVENTION ON THE INTERNATIONAL REGULATIONS FOR PREVENTING COLLISIONS AT SEA, 1972
 ARTICLE I
 General Obligations

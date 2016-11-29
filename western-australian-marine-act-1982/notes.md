@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 27 July 2012 of the Western Australian Marine Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Western Australian Marine Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Marine Act 1982 | 55 of 1982 | 5 Nov 1982 | 1 Jul 1983 (see s. 2 and Gazette 24 Jun 1983 p. 1977)
@@ -23,14 +23,15 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 7 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 3: The Western Australian Marine Act 1982 as at 27 Jul 2012 (includes amendments listed above) Correction in Gazette 26 Jul 2013 p. 3354
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Western Australian Marine Amendment Act 1987 s. 4-6 | 15 of 1987 | 25 Jun 1987 | To be proclaimed (see s. 2)
 Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 | 35 of 1990 | 9 Oct 1990 | To be proclaimed (see s. 2)
+Aquatic Resources Management Act 2016 s. 376 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 s. 3(2) (Cwlth).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Western Australian Marine Amendment Act 1987 s. 4-6 had not come into operation. They read as follows:
+On the date as at which this compilaton was prepared, the Western Australian Marine Amendment Act 1987 s. 4-6 had not come into operation. They read as follows:
 4.Section 76 amended
 Section 76 of the principal Act is amended by inserting after the definition of “Prevention of Collisions Convention” the following definition —
 “
@@ -158,7 +159,7 @@ Penalty —
 (4)The owner of a ship of the kind referred to in subsection (1) in respect of which a chemical tanker construction certificate is in force shall cause the certificate to be carried on board the ship.
 Penalty: $1 000.
 ”.
-On the date as at which this reprint was prepared, the Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 had not come into operation. They read as follows:
 4.Section 3 amended
 Section 3 of the principal Act is amended in subsection (1) —
 (d) by deleting the definition of “Manning Committee”;
@@ -189,6 +190,13 @@ and
 Section 20 of the principal Act is repealed.
 12.Section 65 repealed
 Section 65 of the principal Act is repealed.
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 376 had not come into operation. It reads as follows:
+376.Western Australian Marine Act 1982 amended
+(1) This section amends the Western Australian Marine Act 1982.
+(2) In section 3(1) insert in alphabetical order:
+aquatic compliance officer means a compliance officer designated under the Aquatic Resources Management Act 2016 section 159(1);
+(3) Delete section 28(3)(b) and insert:
+(b) an aquatic compliance officer; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
