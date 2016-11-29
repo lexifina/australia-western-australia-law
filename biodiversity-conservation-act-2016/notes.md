@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biodiversity Conservation Act 2016 s. 3-12, Pt. 2-17 and Sch. 1 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Aquatic Resources Management Act 2016 Pt. 19 Div. 1 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 3-12, Pt. 2-17 and Sch. 1 had not come into operation. It reads as follows:
 3.Objects of Act
 (1) The objects of this Act are —
@@ -2827,3 +2828,66 @@ Schedule 1 — Matters for which regulations may be made
 19.The review by the State Administrative Tribunal or another specified person or body of decisions made under the regulations.
 20.If this Act is a prescribed Act for the purposes of the Criminal Procedure Act 2004 Part 2, offences for which infringement notices may be issued under that Part and other matters referred to in the Criminal Procedure Act 2004 sections 5 and 6.
 21.The verification of information or documentation, including a requirement for a statutory declaration to be made about a matter.
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 Pt. 19 Div. 1 had not come into operation. It reads as follows:
+Part 19 — Consequential amendments to other Acts
+Division 1 — Biodiversity Conservation Act 2016 amended
+289.Act amended
+This Division amends the Biodiversity Conservation Act 2016.
+290.Section 5 amended
+(1) In section 5(1) delete the definitions of:
+fish
+pearl oyster
+(2) In section 5(1) insert in alphabetical order:
+aquatic organism has the meaning given in the Aquatic Resources Management Act 2016 section 3(1);
+(3) In section 5(1) in the definition of biodiversity conservation measures delete paragraph (g)(v) and insert:
+(v) aquatic resource use plans and management plans under the Aquatic Resources Management Act 2016 and measures under Part 6 of that Act relating to the control of declared organisms or biological threats;
+(4) In section 5(1) in the definition of fauna processing establishment delete “fish or pearl oyster,” and insert:
+aquatic organisms,
+291.Section 7 amended
+In section 7(1) in the definition of relevant authorisation delete paragraphs (d) and (e) and insert:
+(d) the Aquatic Resources Management Act 2016; or
+292.Section 12 amended
+Delete section 12(1) and insert:
+(1) This Act, other than Part 9, does not apply to or in relation to any aquatic organism that is the subject of —
+(a) aquaculture, as defined in the Aquatic Resources Management Act 2016 section 3(1); or
+(b) commercial fishing, as defined in the Aquatic Resources Management Act 2016 section 3(1); or
+(c) recreational fishing, as defined in the Aquatic Resources Management Act 2016 section 3(1).
+293.Section 54 amended
+In section 54(2)(b) delete “Fish Resources Management Act 1994.” and insert:
+Aquatic Resources Management Act 2016.
+294.Section 132 amended
+Delete section 132(3)(a)(ii) and (iii) and insert:
+(ii) if the species to which the order relates is a species of aquatic organism — the Minister responsible for the administration of the Aquatic Resources Management Act 2016;
+295.Section 145 amended
+In section 145 in the definition of fauna delete “fish or pearl oyster.” and insert:
+aquatic organisms.
+296.Section 151 amended
+(1) In section 151(1)(a) delete “fish or pearl oyster); and” and insert:
+aquatic organisms); and
+(2) In section 151(2)(a)(i) delete “fish or pearl oyster); and” and insert:
+aquatic organisms); and
+297.Section 153 amended
+(1) In section 153(3)(a) delete “fish or pearl oyster); and” and insert:
+aquatic organisms); and
+(2) In section 153(4(a)(i) delete “fish or pearl oyster); and” and insert:
+aquatic organisms); and
+298.Section 158 amended
+In section 158(1) in the definition of fauna delete “fish or pearl oyster.” and insert:
+aquatic organisms.
+299.Section 166 amended
+In section 166 in the definition of flora delete “fish.” and insert:
+aquatic organisms.
+300.Section 190 amended
+In section 190 in the definition of aquatic eco tourism delete “Fish Resources Management Act 1994 section 4(1);” and insert:
+Aquatic Resources Management Act 2016 section 3(1);
+301.Section 194 amended
+In section 194(3) delete “Fish Resources Management Act 1994” and insert:
+Aquatic Resources Management Act 2016
+302.Section 274 amended
+In section 274(1) in the definition of information sharing agency —
+(a) after paragraph (a) insert:
+(aa) the department of the Public Service principally assisting in the administration of the Aquatic Resources Management Act 2016;
+(b) delete paragraphs (e) and (h).
+303.Schedule 1 amended
+In Schedule 1 item 2 delete “fish or pearl oyster),” and insert:
+aquatic organisms),
