@@ -54,13 +54,14 @@ Agricultural Practices (Disputes) Repeal Act 2011 s. 4 | 54 of 2011 | 9 Nov 2011
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Water Services Legislation Amendment and Repeal Act 2012 s. 211 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Reprint 8: The Environmental Protection Act 1986 as at 17 May 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 except those in the Road Traffic Legislation Amendment Act 2012)
+Reprint 8: The Environmental Protection Act 1986 as at 17 May 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
 Environmental Protection Amendment (Validation) Act 2014 | 27 of 2014 | 27 Nov 2014 | 27 Nov 2014 (see s. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Biodiversity Conservation Act 2016 s. 314 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Deleted by the Building Act 2011 s. 174(6).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
@@ -139,6 +140,11 @@ threatened flora has the meaning given in the Biodiversity Conservation Act 2016
 (a) as authorised by a licence under the Biodiversity Conservation Act 2016; or
 (b) as authorised by an authorisation under the Biodiversity Conservation Act 2016 section 40; or
 (c) by a person referred to in the Biodiversity Conservation Act 2016 section 171(2) for the purposes of supply in accordance with a licence under that Act.
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 366 had not come into operation. It reads as follows:
+366.Environmental Protection Act 1986 amended
+(1) This section amends the Environmental Protection Act 1986.
+(2) In Schedule 6 item 14 delete “a licence or permit within the meaning of the Fish Resources Management Act 1994.” and insert:
+an authorisation within the meaning of the Aquatic Resources Management Act 2016 section 3(1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
