@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 October 2016 of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Swan and Canning Rivers Management Act 2006 | 51 of 2006 | 6 Oct 2006 | s. 1 and 2: 6 Oct 2006; Act other than s. 1 and 2: 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
@@ -18,11 +18,12 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 233 | 25 of 2012 | 3
 Swan and Canning Rivers Management Amendment Act 2015 Pt. 2 | 6 of 2015 | 9 Mar 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 19 Jun 2015 p. 2095)
 Conservation and Land Management Amendment Act 2015 s. 78 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Reprint 3: The Swan and Canning Rivers Management Act 2006 as at 14 Oct 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 3 Div. 1 and Pt. 5 Div. 24 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(b) and (c))
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 24 had not come into operation. They read as follows:
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 24 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 24: to be proclaimed (see s. 2(1)(c))
+Aquatic Resources Management Act 2016 s. 372 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 24 had not come into operation. They read as follows:
 101.Various references to “Health Act 1911” amended
 (1) This section amends the Acts listed in the Table.
 (2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
@@ -38,6 +39,13 @@ This Division amends the Swan and Canning Rivers Management Act 2006.
 332.Schedule 5 amended
 Delete Schedule 5 item 1(i) and insert:
 (i) the Public Health Act 2016;
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 372 had not come into operation. It reads as follows:
+372.Swan and Canning Rivers Management Act 2006 amended
+(1) This section amends the Swan and Canning Rivers Management Act 2006.
+(2) In Schedule 5:
+(a) before item 1(b) insert:
+(a) the Aquatic Resources Management Act 2016;
+(b) delete item 1(g).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
