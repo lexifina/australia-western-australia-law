@@ -63,7 +63,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 | 49 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
@@ -111,6 +112,26 @@ Chief Health Officer
 Chief Health Officer
 (b) delete “ED, PH,” and insert:
 Chief Health Officer,
+On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to other Acts
+Division 6 — Prisons Act 1981 amended
+104.Act amended
+This Division amends the Prisons Act 1981.
+105.Section 113B amended
+(1) In section 113B(1) insert in alphabetical order:
+violent personal offence means —
+(a)an offence specified in the Restraining Orders Act 1997 section 63(4AA)(a); or
+(b)a violent personal offence as defined in the Restraining Orders Act 1997 section 63A(1A).
+(2) In section 113B(1) in the definition of victim:
+(a) in paragraph (b) delete “deceased.” and insert:
+deceased; or
+(b) after paragraph (b) insert:
+(c)a person protected by a family violence restraining order under the Restraining Orders Act 1997 to which the prisoner is a respondent; or
+(d)a person who can demonstrate, to the satisfaction of the chief executive officer that —
+(i)the person is the victim of an act that, if prosecuted successfully, would constitute a violent personal offence committed by the prisoner; and
+(ii)the act was committed by the prisoner in the context of a family relationship, as defined in the Restraining Orders Act 1997 section 4, with the person.
+(3) After section 113B(1) insert:
+(1A) For the purposes of subsection (1) in the definition of victim paragraph (c) or (d), it is irrelevant that the family violence restraining order or the violent personal offence, as the case requires, is unrelated to the offence referred to in paragraph (a) or (b) of that definition.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
