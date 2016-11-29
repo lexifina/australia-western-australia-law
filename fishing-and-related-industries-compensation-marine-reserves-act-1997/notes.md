@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fishing and Related Industries Compensation (Marine Reserves) Act 1997 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Fishing and Related Industries Compensation (Marine Reserves) Act 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fishing and Related Industries Compensation (Marine Reserves) Act 1997 | 39 of 1997 | 2 Dec 1997 | 2 Dec 1997 (see s. 2)
@@ -7,6 +7,11 @@ Reprint 1: The Fishing and Related Industries Compensation (Marine Reserves) Act
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 53 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Conservation and Land Management Amendment Act 2015 s. 74 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Aquatic Resources Management Act 2016 Pt. 19 Div. 6 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 51 reads as follows:
