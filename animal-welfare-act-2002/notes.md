@@ -13,7 +13,8 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biodiversity Conservation Act 2016 s. 310 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Biodiversity Conservation Act 2016 s. 310 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Aquatic Resources Management Act 2016 s. 362 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 References in the Act to the Director General were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 1. The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 454 is a general transitional provision that applies to references to the Director General in other written laws.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 5 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -47,6 +48,27 @@ taken,
 the Biodiversity Conservation Department; or
 (10) Delete section 64(1)(c) and insert:
 (c) the Biodiversity Conservation Department; and
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 362 had not come into operation. It reads as follows:
+362.Animal Welfare Act 2002 amended
+(1) This section amends the Animal Welfare Act 2002.
+(2) In section 5(1) delete the definition of Fisheries Western Australia.
+(3) In section 5(1) insert in alphabetical order:
+Aquatic Resources Department means the department of the Public Service principally assisting with the administration of the Aquatic Resources Management Act 2016;
+(4) In section 5(1) in the definition of animal delete “a fish (as defined in the Fish Resources Management Act 1994);” and insert:
+an aquatic organism (as defined in the Aquatic Resources Management Act 2016);
+(5) Delete section 5(2).
+(6) In section 33(2):
+(a) after paragraph (a)(ii) insert:
+(iiia) the Aquatic Resources Department; or
+(b) delete paragraph (a)(iv).
+(7) In section 64(1):
+(a) after paragraph (b) insert:
+(ca) the Aquatic Resources Department; and
+(b) delete paragraph (d).
+(8) In section 33(2) after each of paragraph (a)(i), (ii) and (iii) insert:
+or
+(9) In section 64(1) after each of paragraphs (a), (b) and (c) insert:
+and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
