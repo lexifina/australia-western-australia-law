@@ -1,6 +1,6 @@
 ## Schedule 4 — Safety Convention
 [s. 76]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974
 ARTICLE I
 General Obligations under the Convention

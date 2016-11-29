@@ -1,6 +1,6 @@
 ## Schedule 2 — Limitation Convention
 [s. 76]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 INTERNATIONAL CONVENTION RELATING TO THE LIMITATION OF THE LIABILITY OF OWNERS OF SEA-GOING SHIPS
 The High Contracting Parties,
 Having recognised the desirability of determining by agreement certain uniform rules relating to the limitation of the liability of owners of sea-going ships;
