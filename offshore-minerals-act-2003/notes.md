@@ -1,11 +1,15 @@
 Notes
-This is a compilation of the Offshore Minerals Act 2003 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Offshore Minerals Act 2003 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Offshore Minerals Act 2003 | 10 of 2003 | 17 Apr 2003 | 1 Jan 2011 (see s. 2 and Gazette 17 Dec 2010 p. 6350)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Duties Legislation Amendment Act 2008 Sch. 1 cl. 25 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Aquatic Resources Management Act 2016 Pt. 19 Div. 8 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
