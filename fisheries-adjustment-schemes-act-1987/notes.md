@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 June 2011 of the Fisheries Adjustment Schemes Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fisheries Adjustment Schemes Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fisheries Adjustment Schemes Act 1987 | 57 of 1987 | 5 Nov 1987 | s. 1 and 2: 5 Nov 1987; Act other than s. 1 and 2: 1 Jul 1988 (see s. 2 and Gazette 17 Jun 1988 p. 1947)
@@ -22,6 +22,11 @@ Fisheries Adjustment Schemes Amendment Act 2009 | 38 of 2009 | 3 Dec 2009 | s. 1
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Fisheries Adjustment Schemes Act 1987 as at 10 Jun 2011 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Aquatic Resources Management Act 2016 Pt. 19 Div. 5 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Other notes
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 5 is a transitional provision that is of no further effect.
 Defined terms
