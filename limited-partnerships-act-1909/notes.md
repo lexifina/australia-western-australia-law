@@ -19,8 +19,15 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Acts Amendment (Fair Trading) Act 2010 s. 188 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 4: The Limited Partnerships Act 1909 as at 7 Oct 2011 (includes amendments listed above)
 Consumer Protection Legislation Amendment Act 2014 Pt. 6 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Limited Partnerships Act 2016 s. 115(1) | 54 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
+On the date as at which this compilation was prepared, the Limited Partnerships Act 2016 s. 115(1) had not come into operation. It reads as follows:
+115.Written laws repealed
+(1) The Limited Partnerships Act 1909 is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
