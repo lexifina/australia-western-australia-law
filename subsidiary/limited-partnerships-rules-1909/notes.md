@@ -18,6 +18,13 @@ Limited Partnerships (Repeal and Amendment) Rules 2010 | 7 Jan 2011 p. 45-6 | r.
 Limited Partnerships Amendment Rules 2011 | 22 Jun 2011 p. 2361-2 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Limited Partnerships Amendment Rules 2013 | 27 Jun 2013 p. 2683-4 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Limited Partnerships Amendment Rules 2015 | 23 Jun 2015 p. 2177 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Limited Partnerships Act 2016 s. 115(2) assented to 29 Nov 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Limited Partnerships Act 2016 s. 115(2) had not come into operation. It reads as follows:
+115.Written laws repealed
+(2) The Limited Partnerships Rules 1909 are repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
