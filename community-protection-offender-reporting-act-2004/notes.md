@@ -16,10 +16,11 @@ Reprint 2: The Community Protection (Offender Reporting) Act 2004 as at 5 Dec 20
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 5 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 (as amended by No. 29 of 2008 s. 25(4)) | 8 Dec 2004 | To be proclaimed (see s. 2)
-Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 10 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+ | Short title | Number and year | Assent | Commencement
+ | Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 (as amended by No. 29 of 2008 s. 25(4)) | 8 Dec 2004 | To be proclaimed (see s. 2)
+ | Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+ | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 10 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 3 | 49 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. This reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 (as amended by the Criminal Law Amendment (Homicide) Act 2008 s. 25(4)) had not come into operation. They read as follows:
 12.Class 3 offences
@@ -59,19 +60,19 @@ This Division amends the Community Protection (Offender Reporting) Act 2004.
 46.Section 3 amended
 In section 3 in the definition of public authority delete paragraph (b) and insert:
 (b)a local government, regional local government or regional subsidiary; or
-reporting period3
-respondent14, 85
-restraining order107(1)
-senior police officer94C(1)
-sentence3
-specified113(1)
-specified person85J(1)
-strict government custody3
-supervising authority3
-violence restraining order107(1)
-WA Registrar80A
-witness protection program74
-young reportable offender3
+On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 3 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to other Acts
+Division 3 — Community Protection (Offender Reporting) Act 2004 amended
+95.Act amended
+This Division amends the Community Protection (Offender Reporting) Act 2004.
+96.Section 107 amended
+(1) In section 107(1) delete the definitions of:
+misconduct restraining order, police order and violence restraining order
+restraining order
+(2) In section 107(1) insert in alphabetical order:
+restraining order means —
+(a)a restraining order as defined in the Restraining Orders Act 1997 section 3(1); or
+(b)a police order as defined in the Restraining Orders Act 1997 section 3(1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
