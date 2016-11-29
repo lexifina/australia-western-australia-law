@@ -44,6 +44,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7 and No. 8 of 2012 s. 65) | 12 Dec 1978 | To be proclaimed (see s. 2)
+Aquatic Resources Management Act 2016 s. 365 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7 and the Road Traffic Legislation Amendment Act 2012 s. 65) had not come into operation. It reads as follows:
 11.Responsibility of owners
 (1) Subject to the provisions of subsection (2) of this section, the owner of any vehicle which is —
@@ -55,10 +56,17 @@ shall in all proceedings in respect of damage, injury or death arising from the 
 (a) the Road Traffic (Administration) Act 2008 section 5(2); or
 (b) subsection (2) of section 3 of this Act,
 a person has been nominated and is deemed, for the purposes of that Act or for the purposes of this Act other than this section, to be the owner of the vehicle to which the nomination relates that nomination shall not take or have effect to limit the liability of any other person who would but for such nomination be or be deemed to be an owner of the vehicle.
-[Section 11 amended by No. 7 of 2002 s. 7; No. 8 of 2012 s. 65.]
-3The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
+[Section 11 amended: No. 7 of 2002 s. 7; No. 8 of 2012 s. 65.]
+The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 365 had not come into operation. It reads as follows:
+365.Control of Vehicles (Off-road Areas) Act 1978 amended
+(1) This section amends the Control of Vehicles (Off-road Areas) Act 1978.
+(2) Delete section 38(2)(g) and insert:
+(g) a compliance officer as defined in the Aquatic Resources Management Act 2016 section 3(1); or
+(3) In section 38(2) after each of paragraphs (a), (b), (e), (f) and (ga) insert:
+or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
