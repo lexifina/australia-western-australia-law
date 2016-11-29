@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 July 2012 of the Minimum Conditions of Employment Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Minimum Conditions of Employment Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Minimum Conditions of Employment Act 1993 | 14 of 1993 | 23 Nov 1993 | s. 1 and 2: 23 Nov 1993; Act other than s. 1 and 2: 1 Dec 1993 (see s. 2 and Gazette 30 Nov 1993 p. 6439)
@@ -24,53 +24,10 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 36 | 35 of 
 Industrial Legislation Amendment Act 2011 Pt. 4 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Western Australia Day (Renaming) Act 2012 Pt. 2 Div. 2 | 3 of 2012 | 10 Apr 2012 | 11 Apr 2012 (see s. 2(b))
 Reprint 5: The Minimum Conditions of Employment Act 1993 as at 6 Jul 2012 (includes amendments listed above)
+Statutes (Repeals) Act 2016 Pt. 3 Div. 3 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 Expired 14 September 2003.
 Deleted by the Industrial Relations Amendment Act 1993 s. 18(1)(c).
-The Labour Relations Reform Act 2002 s. 165(3)-(5) reads as follows:
-(3) An agreement continues to have effect on and from the commencement day in respect of the employee’s entitlement to annual leave that accrued before the commencement day as if former section 8 had not been amended by this Act.
-(4) An agreement that provides for the foregoing of the employee’s entitlement to annual leave that would have accrued after the commencement day if former section 8 had not been amended by subsection (1) has effect on and from the commencement day as if it provided for the foregoing of 50% of that entitlement.
-(5) In this section —
-agreement means an agreement —
-(a)under former section 8 for an employee to forgo his or her entitlement to annual leave; and
-(b)that is in effect immediately before the commencement day;
-commencement day means the day on which subsection (1) comes into operation;
-former section 8 means section 8 of the Minimum Conditions of Employment Act 1993 as it was in effect immediately before the commencement day.
-The Labour Relations Reform Act 2002 s. 167 repealed the former Part 3 (including the former s. 15 relating to minimum rates of pay). Section 168 and Sch. 1 of that Act read as follows:
-168.Transitional provisions for minimum weekly rates of pay
-(1) A minimum weekly rates of pay order under section 15 of the Minimum Conditions of Employment Act 1993 that has effect immediately before the commencement of Part 10 of the Labour Relations Reform Act 2002 has no effect after that commencement.
-(2) Schedule 1 and subsections (3) and (4) have effect for the period commencing immediately after the commencement of Part 10 of the Labour Relations Reform Act 2002 and ending when the first order under section 51F(1) of the Industrial Relations Act 1979 has effect.
-(3) Schedule 1 clause 2 has the same effect as if it were a provision of an order under section 51F(1) of the Industrial Relations Act 1979 setting the minimum weekly rate of pay in relation to employees who have reached 21 years of age and who are not apprentices or trainees.
-(4) Schedule 1 clause 4 has the same effect as if it were a provision of an order under section 51F(1) of the Industrial Relations Act 1979 setting the minimum weekly rate of pay in relation to apprentices and trainees.
-Schedule 1 — Transitional minimum weekly rates of pay
-[s. 168]
-1.Interpretation
-Unless the contrary intention appears, words and expressions used in this Schedule have the same respective meanings as they have in the Minimum Conditions of Employment Act 1993.
-2.Minimum weekly rate of pay for employees 21 or more years of age
-The minimum weekly rate of pay applicable at a particular time to employees who have reached 21 years of age but who are not apprentices or trainees is the rate for the minimum adult weekly award wage for employees who have reached 21 years of age and who are not apprentices or trainees, as provided for in the General Order made under section 51(2) of the Industrial Relations Act 1979 that is in effect at that time.
-3.Minimum weekly rate of pay for employees less than 21 years of age
-(1) The minimum weekly rate of pay applicable at a particular time to employees who are of the age mentioned in the first column in the Table to this subclause but who are not apprentices or trainees is the percentage, set out opposite that age in the second column in the Table of the rate referred to in clause 2 in effect at that time, rounded up to the nearest 10 cents.
-Table
-Age | Percentage of 21 year old rate
-20 years | 90%
-19 years | 80%
-18 years | 70%
-17 years | 60%
-16 years | 50%
-under 16 years | 40%
-(2) Subclause (1) is for information only and if there is any inconsistency between subclause (1) and section 13 of the Minimum Conditions of Employment Act 1993, the section prevails.
-4.Minimum weekly rate of pay for apprentices and trainees
-(1) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is not in force is the rate of pay that is provided for under an award that applies to that apprentice or trainee.
-(2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
-The Labour Relations Reform Act 2002 s. 169(2) and (3) read as follows:
-(2) An entitlement to paid leave for illness or injury that accrued before the commencement day is preserved on and from the commencement day as if former section 19 had not been amended by this Act.
-(3) In this section —
-commencement day means the day on which subsection (1) comes into operation;
-former section 19 means section 19 of the Minimum Conditions of Employment Act 1993 as it was in effect immediately before the commencement day.
-The Labour Relations Reform Act 2002 s. 173(2) and (3) read as follows:
-(2) An entitlement to paid annual leave that accrued before the commencement day is preserved on and from the commencement day as if former section 23 had not been amended by this Act.
-(3) In this section —
-commencement day means the day on which subsection (1) comes into operation;
-former section 23 means section 23 of the Minimum Conditions of Employment Act 1993 as it was in effect immediately before the commencement day.
+-7Footnote no longer applicable.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 1 cl. 20 (amendment to s. 46(1)) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(3).
 The Labour Relations Legislation Amendment Act 2006 s. 31(2) reads as follows:
 (2) Nothing in Part 4 Division 2 of the Minimum Conditions of Employment Act 1993 requires an untaken entitlement that arose under section 19(1) or 20A(1) of that Act as enacted before the commencement of this section to be carried over from the year in which the entitlement arose to the next year.

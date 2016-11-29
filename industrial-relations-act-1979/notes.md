@@ -88,17 +88,18 @@ Industrial Legislation Amendment Act 2011 Pt. 3 | 53 of 2011 | 11 Nov 2011 | 1 A
 Reprint 14: The Industrial Relations Act 1979 as at 24 Aug 2012 (includes amendments listed above)
 Workforce Reform Act 2014 Pt. 2 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2(b) and Gazette 27 Jun 2014 p. 2301)
 Health Services Act 2016 s. 295 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Statutes (Repeals) Act 2016 Pt. 2 Div 3 and Pt. 3 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 18 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-Universities Legislation Amendment Act 2016 Pt. 7 Div. 4 | 32 of 2016 | 19 Oct 2016 | To be proclaimed (see s. 2(b))
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 4 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
-The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 contain transitional and savings provisions.
+Footnote no longer applicable.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 On the date as at which this compilaton was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
@@ -158,7 +159,7 @@ association7(1)
 Association80C(1)
 auditor65
 authorised representative49G
-award7(1), 46(5), 97U(1), 97UG(7), 97VR, 97YA(3)
+award7(1), 46(5), 97U(1), 97UG(7)
 bargaining agent51O(1), 97U(1)
 bargaining in good faith42B(2), 51S(2)
 Board80C(1), 80M(1)
@@ -229,7 +230,7 @@ group training organisation7(1)
 guardianship order97WS(4)
 head of branch80M(1)
 industrial action7(1)
-industrial agreement7(1), 97UF(4)
+industrial agreement7(1)
 Industrial Gazette7(1)
 industrial inspector7(1)
 industrial instrument29AA(5), 49D(4)
@@ -275,7 +276,6 @@ postal ballot52
 post-secondary education institution7(1)
 premises7(1)
 prescribed period40C, 42A(1)
-prescribed salary80I(2)
 prescribed amount29AA(5)
 President7(1), 20(13)
 presiding judge7(1)

@@ -79,6 +79,7 @@ Workers’ Compensation and Injury Management Amendment (Jockeys) Act 2012 | 45 
 Workers’ Compensation and Injury Management Amendment Act 2013 | 21 of 2013 | 12 Nov 2013 | s. 1 and 2: 12 Nov 2013 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2013 (see s. 2(b))
 Reprint 11: The Workers’ Compensation and Injury Management Act 1981 as at 13 Feb 2015 (includes amendments listed above)
 Health Services Act 2016 s. 306 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Statutes (Repeals) Act 2016 Pt. 2 Div. 4 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

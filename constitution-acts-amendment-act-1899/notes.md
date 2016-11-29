@@ -286,6 +286,7 @@ Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes 
  | Conservation and Land Management Amendment Act 2015 s. 72 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
  | Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
  | Health Services Act 2016 s. 288 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+ | Statutes (Repeals) Act 2016 Pt. 2 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -295,6 +296,7 @@ Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 | 41 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
+Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -417,6 +419,11 @@ On the date as at which this compilation was prepared, the School Boarding Facil
 21.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Country High School Hostels Authority.
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 364 had not come into operation. It reads as follows:
+364.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete “Any advisory committee established or continued in existence under Part 4 of the Fish Resources Management Act 1994.” and insert:
+Any advisory committee established under the Aquatic Resources Management Act 2016 section 224(1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
