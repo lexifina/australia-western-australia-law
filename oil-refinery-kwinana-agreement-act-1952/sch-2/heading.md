@@ -1,6 +1,6 @@
 ## Schedule 2 — Variation agreement
 [s. 3C]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 21st day of October, 1985 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part AND BP REFINERY (KWINANA) PROPRIETY LIMITED a company incorporated in the State of Western Australia and having its registered office at Mason Road, Kwinana (hereinafter called “the Company” in which term shall be included its successors and permitted assigns) of the other part.
 WHEREAS:
 (a)the State and the Company (pursuant to assignment) are now the parties to the agreement dated the 3rd day of March 1952 which is scheduled to the Oil Refinery Industry (Anglo-Iranian Oil Company Limited) Act 1952;
@@ -132,4 +132,4 @@ THE COMMON SEAL OF BP REFINERY (KWINANA) PROPRIETARY LIMITED was hereunto affixe
 [C.S.]
 Director:BRUCE SELIGMANN.
 Secretary:MICHAEL R. BEER.
-[Schedule 2 inserted by No. 80 of 1985 s. 8.]
+[Schedule 2 inserted: No. 80 of 1985 s. 8.]
