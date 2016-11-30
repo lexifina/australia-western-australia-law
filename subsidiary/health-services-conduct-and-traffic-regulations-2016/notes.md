@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Health Services (Conduct and Traffic) Regulations 2016. The following table contains information about those regulations.
+This is a compilation of the Health Services (Conduct and Traffic) Regulations 2016 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Health Services (Conduct and Traffic) Regulations 2016 | 24 Jun 2016 p. 2369-406 | 1 July 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291)
+Health Services (Conduct and Traffic) Amendment Regulations 2016 | 29 Nov 2016 p. 5319-22 | r. 1 and 2: 29 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
