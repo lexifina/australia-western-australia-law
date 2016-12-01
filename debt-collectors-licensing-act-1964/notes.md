@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 23 September 2011 of the Debt Collectors Licensing Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Debt Collectors Licensing Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Debt Collectors Licensing Act 1964 | 108 of 1964 (13 Eliz. No. 108) | 23 Dec 1964 | 1 May 1965 (see s. 2 and Gazette 15 Apr 1965 p. 1041)
@@ -23,6 +23,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Licensing Provisions Amendment Act 2016 Pt. 3 | 44 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 46 reads as follows:
@@ -65,6 +66,35 @@ Section 26 of the principal Act is amended —
 (b) by adding the following subsection —
 (2) Subsections (1) and (2) of section 45 of the Interpretation Act 1984 apply in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 The insertion of s. 12A by the Business Licensing Amendment Act 1995 s. 9 would conflict with an amendment in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 226.
+On the date as at which this compilation was prepared, the Licensing Provisions Amendment Act 2016 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Debt Collectors Licensing Act 1964 amended
+10.Act amended
+This Part amends the Debt Collectors Licensing Act 1964.
+11.Section 7 amended
+(1) In section 7(1) delete “prescribed.” and insert:
+approved in writing by the Commissioner.
+(2) Delete section 7(4) and (5).
+12.Section 8 amended
+In section 8(1) delete “prescribed.” and insert:
+approved in writing by the Commissioner.
+13.Section 10A inserted
+After section 9 insert:
+10A.Duration of licences
+(1) A licence is to be issued or renewed for a period prescribed.
+(2) A period prescribed for the purposes of subsection (1) cannot be less than 12 months.
+(3) Different periods may be prescribed for the purposes of subsection (1) in relation to the renewal of licences of different prescribed descriptions.
+(4) A licence may be renewed even if an application for its renewal has not been made under section 8 before the licence expired if —
+(a) such an application is made within 28 days after the licence has expired; and
+(b) any amount prescribed by way of penalty for a late application is paid.
+(5) A licence renewed as described in subsection (4) is to be taken for all purposes to have taken effect on the day immediately succeeding the day on which the previous licence expired.
+14.Section 26 amended
+(1) In section 26:
+(a) delete “The” and insert:
+(1) The
+(b) after paragraph (c) insert:
+(da) maintaining the accuracy of the register, including the provision of information to the Commissioner to assist in maintaining the accuracy of the register; and
+(2) At the end of section 26 insert:
+(2) The Interpretation Act 1984 section 45(1) and (2) applies in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
