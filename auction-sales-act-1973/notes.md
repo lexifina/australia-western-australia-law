@@ -26,6 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Licensing Provisions Amendment Act 2016 Pt. 2 | 44 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Liquor Licensing Act 1988 s. 176.
 On the date as at which this compilation was prepared, the Business Licensing Amendment Act 1995 Pt. 2 had not come into operation. It reads as follows:
@@ -58,6 +59,38 @@ Section 37 of the principal Act is amended —
 (2) Subsections (1) and (2) of section 45 of the Interpretation Act 1984 apply in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 ”.
 ”.
+On the date as at which this compilation was prepared, the Licensing Provisions Amendment Act 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Auction Sales Act 1973 amended
+3.Act amended
+This Part amends the Auction Sales Act 1973.
+4.Section 9 deleted
+Delete section 9.
+5.Section 11 amended
+(1) In section 11(2) delete “original character testimonials, together with 2 copies of each testimonial” and insert:
+character testimonials
+(2) Delete section 11(5) and (5a).
+(3) In section 11(9) delete “and advertisement”.
+6.Section 12 deleted
+Delete section 12.
+7.Section 16 amended
+In section 16(9) delete “Subject to section 12, the” and insert:
+The
+8.Section 19 amended
+(1) Delete section 19(1) and insert:
+(1) On granting a general or restricted licence, the magistrate shall fix the period, during which, subject to this Act, the licence is to have effect.
+(2A) The period fixed under subsection (1) shall be a period that is —
+(a) not less than 12 months; and
+(b) not more than the prescribed period.
+(2B) A general licence or a restricted licence may be renewed from time to time for the prescribed period.
+(2C) A period prescribed for the purposes of subsection (2A)(b) or (2B) cannot be less than 12 months.
+(2D) Different periods may be prescribed for the purposes of subsection (2B) in relation to the renewal of licences of different prescribed types or descriptions.
+(2) In section 19(3) after “make it undesirable,” insert:
+and any amount prescribed by way of penalty for a late application is paid,
+9.Section 37 amended
+(1) In section 37 delete “The” and insert:
+(1) The
+(2) At the end of section 37 insert:
+(2) The Interpretation Act 1984 section 45(1) and (2) applies in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
