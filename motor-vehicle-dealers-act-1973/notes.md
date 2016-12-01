@@ -44,6 +44,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
+Licensing Provisions Amendment Act 2016 Pt. 6 | 44 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
@@ -153,6 +154,28 @@ Penalty: $5 000.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
 The amendments in the Acts Amendment (Fair Trading) Act 2010 s. 177 will not come into operation (see s. 2(b)(i)).
+On the date as at which this compilation was prepared, the Licensing Provisions Amendment Act 2016 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Motor Vehicle Dealers Act 1973 amended
+25.Act amended
+This Part amends the Motor Vehicle Dealers Act 1973.
+26.Section 28A amended
+In section 28A(1) delete the passage that begins with “to the nearest” and continues to the end of the section and insert:
+the number plates to the nearest licensing or registering authority.
+27.Section 32A amended
+(1) In section 32A insert in alphabetical order:
+registered company auditor has the meaning given in the Corporations Act 2001 (Commonwealth) section 9;
+year, unless otherwise prescribed, means a financial year.
+(2) In section 32A in the definition of trust account delete “section 32C.” and insert:
+section 32C;
+28.Section 32I replaced
+Delete section 32I and insert:
+32I.Audit of trust accounts
+(1) A person who carries on the business of a dealer for the whole or part of a year must ensure that each trust account that is held by the dealer for that year, or part of a year, as the case may be, is audited by a registered company auditor.
+Penalty for this subsection: a fine of $5 000.
+(2) A dealer is to be taken to have complied with subsection (1) in relation to a year if the dealer —
+(a) has neither received nor held money in a trust account during that year; and
+(b) makes a statutory declaration to that effect; and
+(c) gives the statutory declaration to the Commissioner within the period prescribed by the regulations.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
