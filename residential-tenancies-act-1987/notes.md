@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 February 2015 of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -34,6 +34,10 @@ Dog Amendment Act 2013 Pt. 3 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b
 Statutes (Repeals and Minor Amendments) Act 2014 s. 5 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Consumer Protection Legislation Amendment Act 2014 Pt. 12 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Reprint 6: The Residential Tenancies Act 1987 as at 6 Feb 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Residential Tenancies Amendment Act 2016 s. 3-7 | 42 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -42,6 +46,44 @@ The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
 The Real Estate Legislation Amendment Act 1995 s. 46 and 52 were purported to be proclaimed on 1 January 1997 in Gazette 25 June 1996 p. 2902, but the proclamation was revoked before it came into force — see Gazette 6 September 1996 p. 4405.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2016 s. 3-7 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Residential Tenancies Act 1987.
+4.Section 46 amended
+(1) In section 46(1) insert in alphabetical order:
+notice means notice in a form approved by the Commissioner;
+(2) In section 46(4) delete “before the lessor gives notice under subsection (2) of a proposed entry to the premises,” and insert:
+if it would unduly inconvenience the tenant for the lessor to enter the premises as specified in a notice given under subsection (2),
+5.Section 79 amended
+(1) In section 79(2) delete the Penalty and insert:
+Penalty for this subsection: a fine of $5 000.
+(2) Delete section 79(3) and insert:
+(3) A lessor who stores goods under subsection (2) must cause notice in or to the effect of the form approved by the Commissioner for the purposes of this subsection —
+(a) to be given to the tenant within 7 days after the day on which the goods were stored; or
+(b) to be —
+(i) made publicly available in any manner prescribed for the purposes of this paragraph, including (without limitation) by means of a website within 7 days after the day on which the goods were stored; and
+(ii) posted in a prominent position on the premises that were subject to the former agreement within 9 days after the day on which the goods were stored.
+Penalty for this subsection: a fine of $5 000.
+6.Section 85 amended
+(1) In section 85(1):
+(a) in paragraph (b) delete “business.” and insert:
+business; or
+(b) after paragraph (b) insert:
+(c) with the consent of that person or in other circumstances specified in the regulations, be given or served by electronic means in accordance with the regulations.
+(2) In section 85(3):
+(a) delete “Any notice or document required or authorised to be given under this Act to any person whose address is unknown” and insert:
+If a notice or document required or authorised to be given under this Act cannot be given or sent to a person in accordance with subsection (1), it
+(b) in paragraph (a) after “throughout” insert —
+all, or most of,
+(c) in paragraph (b) delete “effected.” and insert:
+effected; or
+(d) after paragraph (b) insert:
+(c) it is made publicly available in any manner prescribed for the purposes of this paragraph, including (without limitation) by means of a website.
+7.Schedule 1 clause 8 amended
+(1) In clause 8(3) delete “prescribed form,” and insert:
+form approved by the Minister,
+(2) In clause 8(4)(b) delete “prescribed form” and insert:
+form approved by the Minister
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
