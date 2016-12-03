@@ -2,327 +2,13 @@ Notes
 This is a compilation of the Biodiversity Conservation Act 2016. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biodiversity Conservation Act 2016 s. 1 and 2 | 24 of 2016 | 21 Sep 2016 | 21 Sep 2016 (see s. 2(a))
+Biodiversity Conservation Act 2016 | 24 of 2016 | 21 Sep 2016 | s. 1 and 2: 21 Sep 2016 (see s. 2(a)); Long title, Pt. 1 (other than s. 1 and 2), Pt. 5, 7 (other than s. 120(1) to (4)), Pt. 8, 11, Pt. 13 Div.1, Pt. 14 (other than s. 256), Pt. 15, Pt. 17 Div. 1 (other than s. 291(b), 292(2) to (4), 293-297, 299, 301, 302 and 304 to 309), Pt. 17 Div. 2 heading, s. 319 and Sch. 1: 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biodiversity Conservation Act 2016 s. 3-12, Pt. 2-17 and Sch. 1 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Biodiversity Conservation Act 2016 | 24 of 2016 | 21 Sep 2016 | Pt. 2-4, Pt. 6, Pt. 7 (s. 120(1)-(4)), Pt. 10, Pt. 12, Pt. 13 Div. 2-4, s. 256, Pt. 16, s. 291(b), 292(2)-(4), 293-297, 299, 301, 302, 304-317, 318(1) and (2)(a) and 320: 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305) Pt. 9 and s. 318(2)(b): to be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 Pt. 19 Div. 1 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 3-12, Pt. 2-17 and Sch. 1 had not come into operation. It reads as follows:
-3.Objects of Act
-(1) The objects of this Act are —
-(a) to conserve and protect biodiversity and biodiversity components in the State; and
-(b) to promote the ecologically sustainable use of biodiversity components in the State.
-(2) In the pursuit of the objects of this Act, regard must be had to the principles of ecologically sustainable development set out in section 4.
-4.Principles of ecologically sustainable development
-The principles of ecologically sustainable development are as follows —
-(a) decision-making processes should effectively integrate both long-term and short-term economic, environmental, social and equitable considerations;
-(b) if there are threats of serious or irreversible environmental damage, lack of full scientific certainty should not be used as a reason for postponing measures to prevent environmental degradation;
-(c) the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
-(d) the conservation of biodiversity and ecological integrity should be a fundamental consideration in decision-making;
-(e) improved valuation, pricing and incentive mechanisms should be promoted.
-5.Terms used
-(1) In this Act, unless the contrary intention appears —
-abandoned fauna means fauna that —
-(a)belongs to a species the juveniles of which are normally cared for by a parent; and
-(b)is of an age at which it would normally be cared for by a parent; and
-(c)has been abandoned by its parents;
-animal means any member, alive or dead, of the animal kingdom (other than a human being) and includes the following —
-(a)any viable or non-viable progeny, larva, embryo, egg, ovum or sperm of an animal;
-(b)any part, product or genetic material of an animal from which another animal could be produced;
-(c)any other part of an animal;
-(d)the carcass of an animal;
-annual report, in relation to the Department, means the annual report submitted by the accountable authority of the Department under the Financial Management Act 2006 Part 5;
-apply, in relation to an identifier, includes to affix, to attach, to implant and to insert;
-biodiversity means the variability among living organisms and the ecosystems of which those organisms are a part and includes the following —
-(a)diversity within native species and between native species;
-(b)diversity of ecosystems;
-(c)diversity of other biodiversity components;
-biodiversity components includes native species, habitats, ecological communities, genes, ecosystems and ecological processes;
-biodiversity conservation means the conservation and protection of biodiversity and biodiversity components;
-biodiversity conservation agreement has the meaning given in section 114(1);
-biodiversity conservation covenant has the meaning given in section 122(1);
-biodiversity conservation measures includes the following —
-(a)penalties for offences under this Act;
-(b)biodiversity management programmes;
-(c)recovery plans and interim recovery plans;
-(d)biodiversity conservation agreements;
-(e)biodiversity conservation covenants;
-(f)measures in place under Part 9 for the control of environmental pests;
-(g)measures in place under any other written law that have the effect, whether directly or indirectly, of conserving or protecting biodiversity or biodiversity components, including the following —
-(i)biosecurity measures;
-(ii)regulations under the CALM Act or the Environmental Protection Act 1986;
-(iii)environmental protection policies;
-(iv)conditions agreed or decided under the Environmental Protection Act 1986 Part IV Division 3;
-(v)management plans under the Fish Resources Management Act 1994 and measures under that Act relating to the control or management of exotic fish, noxious fish or biological threats;
-(vi)State planning policies under the Planning and Development Act 2005;
-biodiversity management programme means a biodiversity management programme approved under section 73(1);
-biological resources includes biochemical substances, genetic resources, organisms, populations and any other biotic component of an ecosystem with actual or potential use or value for humanity;
-bioprospecting activity means an activity involving or related to the taking of fauna or flora for the purposes of identifying, extracting or recovering biological resources;
-biosecurity measures means measures under the Biosecurity and Agriculture Management Act 2007 for the control of declared pests including the following —
-(a)requirements or restrictions imposed by Part 2 of that Act;
-(b)pest control notices, pest exclusion notices and pest keeping notices under Part 2 of that Act;
-(c)management plans under Part 2 of that Act;
-(d)regulations under that Act relating to the keeping, breeding, cultivation or supply of declared pests;
-(e)the terms and conditions of authorisations under that Act relating to the keeping, breeding, cultivation or supply of declared pests;
-business day means a day that is not a Saturday, Sunday or public holiday;
-CALM Act means the Conservation and Land Management Act 1984;
-CALM Act land means each of the following categories of land —
-(a)land, or land and waters, to which the CALM Act applies under the CALM Act section 5;
-(b)section 8A land as defined in the CALM Act section 3;
-(c)section 8C land as defined in the CALM Act section 3;
-(d)land owned by, vested in, or under the care, control and management of, the Executive Body as defined in the CALM Act section 3, whether solely or jointly with another body;
-(e)land to which the CALM Act section 131 applies;
-CALM Act officer means —
-(a)a wildlife officer; or
-(b)a forest officer as defined in the CALM Act section 3; or
-(c)a ranger as defined in the CALM Act section 3; or
-(d)a conservation and land management officer as defined in the CALM Act section 3;
-capture, in relation to fauna, includes to catch, to gather, to trap, to restrain and to remove;
-carcass includes part of a carcass;
-CEO has the meaning given in the CALM Act section 3;
-cetacean means a member of the sub-order Mysticeti or Odontoceti of the Order Cetacea;
-CI Act means the Criminal Investigation Act 2006;
-class —
-(a)in relation to animals, means any grouping of animals; and
-(b)in relation to plants, means any grouping of plants;
-collapsed ecological community means an ecological community that is listed as a collapsed ecological community under section 31(1);
-commercial purpose means the purpose of sale or any other purpose that is directed to financial gain or reward;
-Commission has the meaning given in the CALM Act section 3;
-condition includes a limitation or restriction;
-conserve includes to maintain and to restore;
-container includes the following —
-(a)a case, box, bag, wrapper or material of any kind used or intended to be used to cover, contain or package something;
-(b)a bulk container, or any means of bulk transport, used or intended to be used to cover, contain or package something;
-contravene includes to fail to comply with;
-control, in relation to an environmental pest or other organism, includes the following —
-(a)to eradicate;
-(b)to destroy;
-(c)to prevent the presence or spread of;
-(d)to manage;
-(e)to examine or test for;
-(f)to survey for or monitor the presence or spread of;
-(g)to treat;
-critical habitat means habitat that is listed as critical habitat under section 54(1);
-critically endangered ecological community means a threatened ecological community that is listed in the category of critically endangered ecological community under section 27(1)(a);
-critically endangered species means a threatened species that is listed in the category of critically endangered species under section 19(1)(a);
-Crown land has the meaning given in the Land Administration Act 1997 section 3(1);
-cultivated flora means flora that has been intentionally sown, planted or propagated unless —
-(a)it has been sown, planted or propagated as required under this Act or another written law; or
-(b)it is of a class declared by the regulations to be excluded from this definition;
-declared pest has the meaning given in the Biosecurity and Agriculture Management Act 2007 section 6;
-Department has the meaning given in the CALM Act section 3;
-disturb —
-(a)in relation to fauna, includes the following —
-(i)to chase, drive, follow, harass, herd or hunt fauna by any means;
-(ii)to apply an identifier to fauna by any means;
-(iii)to engage in an activity that has the effect, whether directly or indirectly, of altering the natural behaviour of fauna to its detriment;
-(iv)to cause or permit anything referred to in subparagraph (i), (ii) or (iii) to be done;
-(b)in relation to flora, includes the following —
-(i)to engage in an activity that has the effect, whether directly or indirectly, of altering the long term persistence of the flora in its habitat;
-(ii)to cause or permit an activity referred to in subparagraph (i) to be engaged in;
-ecological community means a naturally occurring assemblage of organisms that occurs in a particular habitat;
-ecologically sustainable use, in relation to biodiversity components, means use of the biodiversity components in a way and at a rate that does not lead to the long-term decline of biodiversity, thereby maintaining the potential of the biodiversity components to meet the needs of present and future generations;
-ecosystem means a dynamic complex of ecological communities and the non-living chemical and physical parts of their environment interacting as a functional unit;
-endangered ecological community means a threatened ecological community that is listed in the category of endangered ecological community under section 27(1)(b);
-endangered species means a threatened species that is listed in the category of endangered species under section 19(1)(b);
-environmental pest means a species in respect of which an order under section 132(1) is in force;
-environmental pest notice has the meaning given in section 135(2);
-environmental protection policy means an approved policy as defined in the Environmental Protection Act 1986 section 3(1);
-EPBC Act means the Environment Protection and Biodiversity Conservation Act 1999 (Commonwealth);
-exclusive economic zone has the meaning given in the Seas and Submerged Lands Act 1973 (Commonwealth) section 3;
-export means to take out of the State and includes the following —
-(a)to offer to export;
-(b)to send or deliver for export;
-(c)to receive, or have in possession, for export;
-external Territory has the meaning given in the Acts Interpretation Act 1901 (Commonwealth) section 17;
-extinct species means a native species that is listed as an extinct species under section 23(1);
-fauna means —
-(a)an animal that —
-(i)belongs to a native species unless the animal is determined by order under section 9(2) not to be fauna for the purposes of this Act; or
-(ii)is determined by order under section 9(1) to be fauna for the purposes of this Act;
-or
-(b)a native species or taxonomic grouping of native species that is determined by order under section 10(1) or (2) to be fauna for the purposes of this Act;
-fauna processing establishment means a place used to process fauna, other than fish or pearl oyster, for a commercial purpose;
-fish has the meaning given in the Fish Resources Management Act 1994 section 4(1);
-flora means —
-(a)a plant that —
-(i)belongs to a native species and is indigenous to the State unless the plant is determined by order under section 9(4) not to be flora for the purposes of this Act; or
-(ii)is determined by order under section 9(3) to be flora for the purposes of this Act;
-or
-(b)a native species or taxonomic grouping of native species that is determined by order under section 10(1) or (2) to be flora for the purposes of this Act;
-flora processing establishment means a place used to process flora for a commercial purpose but does not include a place used solely to process forest products taken under a contract to which the Forest Products Act 2000 Part 8 applies unless those forest products are sandalwood;
-genetic resources means any material of plant, animal, microbial or other origin that contains functional units of heredity and that has actual or potential value to humanity;
-habitat means the biophysical medium or media —
-(a)occupied (continuously, periodically or occasionally) by an organism or group of organisms; or
-(b)once occupied (continuously, periodically or occasionally) by an organism, or group of organisms, and into which organisms of that kind have the potential to be reintroduced;
-habitat conservation notice has the meaning given in section 59(1);
-identifier means a tag, mark, brand, electronic device, or other thing of a prescribed kind, designed or used to identify, track or trace an organism;
-import means to bring into the State;
-injured fauna means fauna that is injured, sick or diseased;
-interim recovery plan means an interim recovery plan made under section 105;
-key threatening process means a threatening process that is listed as a key threatening process under section 34(1);
-label means to mark a package, container or other thing to identify it or its contents by attaching to it or inserting in it a tag, mark, stamp or written statement;
-land has the meaning given in the Land Administration Act 1997 section 3(1);
-lawful activity has the meaning given in section 6;
-lawful authority has the meaning given in section 7(2);
-licence means a licence granted under the regulations;
-managed fauna means fauna prescribed or of a class prescribed by regulations referred to in section 163(1) as managed fauna for the purposes of the section in which the term is used;
-ministerial guidelines means guidelines issued under section 260;
-mobile home means a vehicle that —
-(a)is ordinarily used for human habitation; and
-(b)is permanently or semi-permanently stationary in a single location;
-native species has the meaning given in section 8(2);
-obstruct includes to delay, to hinder and to resist;
-occupier, in relation to land, means a person who is in occupation or control of the land, or is entitled to be in occupation or control of the land, whether or not the person owns the land;
-organism means a life form, other than a human being, whether alive or not and includes part of such a life form and the genetic material of such a life form;
-owner —
-(a)in relation to private land, means —
-(i)a person who is for the time being registered under the Transfer of Land Act 1893 as proprietor of an estate in fee simple in the land; or
-(ii)a person who is for the time being the holder of the freehold in the land as evidenced by a memorial that is registered under the Registration of Deeds Act 1856; or
-(iii)an executor or administrator of, or a person appointed under a written law to act on behalf of, a person referred to in subparagraph (i) or (ii); or
-(iv)an agent or attorney of a person referred to in subparagraph (i) or (ii); or
-(v)a mortgagee in possession of the land;
-(b)in relation to Crown land, means the public authority that has the care, control or management of the land or, if there is no such public authority, the State;
-part, in relation to an animal or carcass, includes the bodily fluid, bone, chitin, exoskeleton, feathers, flesh, fur, hide, organs, pelage, scale, shell, skin, teeth, tissue and viscera of the animal or carcass;
-pearl oyster has the meaning given in the Pearling Act 1990 section 3(1);
-place means any land, building, structure, tent or mobile home or a part of any land, building, structure, tent or mobile home;
-plant means any member, alive or dead, of the plant kingdom or the fungus kingdom and includes the following —
-(a)any viable or non-viable ovule, seed, pollen or spore of a plant;
-(b)any part, product or genetic material of a plant from which another plant could be produced;
-(c)any other part of a plant;
-potential carrier means —
-(a)any thing that is capable of carrying an environmental pest; or
-(b)any thing that is capable of carrying anything else that is capable of carrying an environmental pest;
-prescribed means prescribed by regulations made under this Act;
-private land means alienated land as defined in the Land Administration Act 1997 section 3(1);
-process —
-(a)in relation to fauna, means to cut, skin, treat, freeze, chill, can, cure, pack or preserve;
-(b)in relation to flora, means to obtain or produce a thing or substance of a prescribed kind from flora using a prescribed method;
-prohibited device means —
-(a)a thing or substance of a kind prescribed as a prohibited device; or
-(b)a thing or substance that is used in a manner other than that prescribed for its use;
-prohibited method means —
-(a)a method of a kind prescribed as a prohibited method; or
-(b)a method that is used in a manner other than that prescribed for its use;
-public authority means —
-(a)a Minister of the State; or
-(b)an agency or an organisation as those terms are defined in the Public Sector Management Act 1994 section 3(1); or
-(c)a local government or a regional local government; or
-(d)a body, whether incorporated or not, or the holder of an office, that is established or continued for a public purpose under a written law and that, under the authority of a written law, performs a statutory function on behalf of the State;
-record means any record of information, irrespective of how the information is recorded or stored or able to be recovered and includes the following —
-(a)any thing from which images, sounds or writings can be reproduced, with or without the aid of anything else;
-(b)any thing on which information is recorded or stored, whether electronically, magnetically, mechanically or by some other means;
-recovery plan means —
-(a)a recovery plan approved under section 89(1); or
-(b)a plan adopted as a recovery plan under section 92(1);
-Registrar —
-(a)in relation to land that is under the operation of the Transfer of Land Act 1893, means the Registrar of Titles under that Act;
-(b)in relation to land that is alienated from the Crown but is not under the operation of the Transfer of Land Act 1893, means the Registrar of Deeds and Transfers under the Registration of Deeds Act 1856;
-remedial action has the meaning given in section 217(1);
-sandalwood means a plant that belongs to the species Santalum spicatum or to another species of flora prescribed for the purposes of this definition;
-self-governing Territory has the meaning given in the EPBC Act section 528;
-specially protected fauna means fauna that belongs to a specially protected species;
-specially protected flora means flora that belongs to a specially protected species;
-specially protected species means a native species that is listed as a specially protected species under section 13(1);
-species —
-(a)means a group of organisms that —
-(i)interbreed to produce fertile offspring; or
-(ii)possess common characteristics derived from a common gene pool,
-and
-(b)includes —
-(i)a taxonomically separate population of a species, being a population that is characterised by morphological or other biological differences from other populations of that species; and
-(ii)a distinct population of organisms that the Minister has determined by order under section 9(5) to be a species for the purposes of this Act;
-State agreement means an agreement to which the State is a party and which is authorised, ratified or approved by a written law;
-supply includes the following —
-(a)to sell;
-(b)to send or deliver for the purpose of sale or on sale;
-(c)to receive, or have in possession, for the purpose of sale;
-(d)to dispose of under a hire-purchase agreement;
-(e)to give;
-(f)to send or deliver for the purpose of giving;
-(g)to receive, or have in possession, for the purpose of giving;
-(h)to cause or permit anything referred to in paragraph (a), (b), (c), (d), (e), (f) or (g) to be done;
-(i)to offer to do anything referred to in paragraph (a), (b), (c), (d), (e), (f) or (g);
-take —
-(a)in relation to fauna, includes the following —
-(i)to kill, injure, harvest or capture fauna by any means;
-(ii)to cause or permit anything referred to in subparagraph (i) to be done;
-(b)in relation to flora, includes the following —
-(i)to gather, pluck, cut, pull up, destroy, dig up, remove, harvest or damage flora by any means;
-(ii)to cause or permit anything referred to in subparagraph (i) to be done;
-threatened ecological community means an ecological community that —
-(a)is listed as a threatened ecological community under section 27(1); or
-(b)is to be regarded as a threatened ecological community under section 33;
-threatened fauna means fauna that belongs to a threatened species;
-threatened flora means flora that belongs to a threatened species;
-threatened species means a native species that —
-(a)is listed as a threatened species under section 19(1); or
-(b)is to be regarded as a threatened species under section 26(2);
-threatening process means a process that threatens, or may threaten, the survival, abundance or evolutionary development of a native species or ecological community;
-treat includes to disinfect, to disinfest, to clean, to vaccinate or apply other prophylactic measures, and to isolate;
-vehicle means any thing capable of transporting people or things by air, road, rail or water, and it does not matter how the thing is moved or propelled;
-vulnerable ecological community means a threatened ecological community that is listed in the category of vulnerable ecological community under section 27(1)(c);
-vulnerable species means a threatened species that is listed in the category of vulnerable species under section 19(1)(c);
-wildlife officer has the meaning given in the CALM Act section 3.
-(2) Despite the definitions of occupier and owner in subsection (1), neither the CEO nor the Executive Body (as defined in the CALM Act section 3) is to be regarded as an occupier or owner of land for the purposes of this Act.
-6.Lawful activity
-For the purposes of this Act, but without limiting what may constitute a lawful activity, a reference in this Act to a lawful activity includes —
-(a) clearing that does not involve an offence under the Environmental Protection Act 1986 section 51C; and
-(b) an activity prescribed or of a class prescribed for the purposes of this section.
-7.Lawful authority
-(1) In this section —
-biodiversity conservation conditions means conditions or requirements relating to the conservation or protection of biodiversity or biodiversity components;
-relevant authorisation means a licence, permit, approval, consent, registration, exemption or other authority issued, granted, conferred or given under —
-(a)this Act; or
-(b)the CALM Act; or
-(c)the Environmental Protection Act 1986; or
-(d)the Fish Resources Management Act 1994; or
-(e)the Pearling Act 1990; or
-(f)an enactment prescribed for the purposes of this definition.
-(2) For the purposes of this Act, but without limiting what may constitute lawful authority, there is lawful authority for an act if —
-(a) it is —
-(i) an act that is authorised by a relevant authorisation or is otherwise authorised or required under a State agreement; or
-(ii) an act that is a likely consequence of an act referred to in subparagraph (i);
-and
-(b) all biodiversity conservation conditions that apply to or in relation to it are complied with, whether those conditions are imposed under the relevant authorisation or State agreement referred to in paragraph (a)(i) or imposed in some other way.
-8.Native species
-(1) In this section —
-coastal sea of Australia or an external Territory has the meaning given in the Acts Interpretation Act 1901 (Commonwealth) section 15B(4);
-continental shelf means the continental shelf (as defined in the Seas and Submerged Lands Act 1973 (Commonwealth) section 3) of Australia including its external Territories.
-(2) For the purposes of this Act, a native species is a species —
-(a) that is indigenous to Australia or an external Territory; or
-(b) that is indigenous to the sea-bed of the coastal sea of Australia or an external Territory; or
-(c) that is indigenous to the continental shelf; or
-(d) that is indigenous to the exclusive economic zone; or
-(e) members of which periodically or occasionally visit —
-(i) Australia or an external Territory; or
-(ii) the exclusive economic zone;
-or
-(f) that was present in Australia or an external Territory before 1400.
-9.Determination as to fauna, flora or species
-(1) The Minister may, by order, determine that an animal, other than an animal that belongs to a native species, is fauna for the purposes of this Act.
-(2) The Minister may, by order, determine that an animal that belongs to a native species is not fauna for the purposes of this Act.
-(3) The Minister may, by order, determine that a plant, other than a plant that belongs to a native species and is indigenous to the State, is flora for the purposes of this Act.
-(4) The Minister may, by order, determine that a plant that belongs to a native species and is indigenous to the State is not flora for the purposes of this Act.
-(5) The Minister may, by order, determine that a distinct population of organisms is a species for the purposes of this Act.
-(6) An order made under this section may provide that it applies to the whole of the State, a specified part of the State or specified parts of the State.
-(7) Section 258 applies to an order made under this section.
-10.Determination of certain native species or taxonomic groupings as fauna or flora
-(1) The Minister may, by order, determine that a particular native species, or taxonomic grouping of native species, that is classified as belonging to a kingdom other than the animal kingdom, the plant kingdom or the fungus kingdom is either fauna or flora for the purposes of this Act.
-(2) If it appears to the Minister that according to scientific opinion a particular native species or taxonomic grouping of native species is not classified as belonging to the animal kingdom, the plant kingdom, the fungus kingdom or another kingdom, the Minister may, by order, determine that the species or taxonomic grouping is either fauna or flora for the purposes of this Act.
-(3) Section 258 applies to an order made under this section.
-11.Crown bound
-(1) This Act binds the State and, so far as the legislative power of the State permits, the Crown in all its other capacities.
-(2) Nothing in this Act makes the State, or the Crown in any of its other capacities, liable to be prosecuted for an offence.
-12.Application of Act in relation to aquatic matters
-(1) This Act, other than Part 9, does not apply to or in relation to any fish or pearl oyster that is the subject of —
-(a) aquaculture, as defined in the Fish Resources Management Act 1994 section 4(1); or
-(b) commercial fishing, as defined in the Fish Resources Management Act 1994 section 4(1); or
-(c) recreational fishing, as defined in the Fish Resources Management Act 1994 section 4(1); or
-(d) hatchery activities, as defined in the Pearling Act 1990 section 3(1); or
-(e) pearling, as defined in the Pearling Act 1990 section 3(1).
-(2) Nothing in subsection (1) affects the application of the CALM Act Part II Division 3.
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 Pt. 2-4, Pt. 6, Pt. 7 (s. 120(1)-(4)), Pt. 9, 10, 12, Pt. 13 Div. 2-4, s. 256, Pt. 16, s. 291(b), 292(2)-(4), 293-297, 299, 301, 302, 304-318 and 320 had not come into operation. They read as follows:
 Part 2 — Listing of native species, ecological communities and threatening processes
 Division 1 — Native species
 Subdivision 1 — Specially protected species
@@ -753,77 +439,6 @@ Penalty for this subsection: a fine of $20 000.
 (2) Subsection (1) —
 (a) applies whether the measures are taken by an owner or occupier or the CEO; and
 (b) has effect subject to the provisions of any agreement between an owner or occupier or successive owners and occupiers.
-Part 5 — Biodiversity management programmes
-68.Terms used
-In this Part —
-draft programme means a draft biodiversity management programme prepared under section 70;
-minor amendment, in relation to a biodiversity management programme, means an amendment that, in the opinion of the CEO, is necessary to correct —
-(a)a clerical mistake or unintentional error or omission in the programme; or
-(b)a misdescription of any person, land or thing in the programme.
-69.Content of biodiversity management programme
-(1) A biodiversity management programme is a document that provides for the conservation, protection and management of —
-(a) one or more native species (other than threatened species); or
-(b) one or more ecological communities (other than threatened ecological communities); or
-(c) one or more critical habitats; or
-(d) a combination of such species, communities and habitats.
-(2) Without limiting subsection (1), a biodiversity management programme may deal with one or more of the following matters —
-(a) threats to —
-(i) native species or populations of native species; or
-(ii) an ecological community; or
-(iii) a critical habitat;
-(b) the containment or eradication of species that are not indigenous to the State or the mitigation of the effect of such species;
-(c) the distribution or population size of native species in the State or a part of the State;
-(d) research and strategies relevant to biodiversity conservation;
-(e) the ecologically sustainable use of native species;
-(f) educational activities that promote an appreciation of biodiversity conservation values including the keeping, breeding and display of native species;
-(g) the mitigation, containment or eradication of nuisance or damage caused by native species;
-(h) the mitigation of danger posed by native species;
-(i) matters that are complementary to a recovery plan, interim recovery plan or biodiversity conservation agreement;
-(j) nature-based tourism and recreation as defined in section 190.
-70.Preparation of draft programme
-The CEO may prepare a draft biodiversity management programme.
-71.Consultation on draft programme
-When preparing a draft programme the CEO —
-(a) must consult with the Commission if the programme relates to land vested in that body or is otherwise relevant to the functions of that body; and
-(b) may consult with any other person or body who or which appears to the CEO to be likely to be affected in a material way by the programme.
-72.Submission to Minister
-(1) The CEO may submit a draft programme to the Minister for approval.
-(2) The draft programme must be accompanied by any submissions received as a result of consultation under section 71.
-(3) The Minister may require the CEO to modify the draft programme and resubmit it.
-73.Approval of biodiversity management programme
-(1) The Minister may approve a draft programme submitted under section 72 as a biodiversity management programme or refuse to approve it.
-(2) The Minister must not give approval under subsection (1) unless the Minister —
-(a) is satisfied that the draft programme is consistent with any recovery plan or interim recovery plan that relates to matters dealt with in the draft programme; and
-(b) has had regard to submissions referred to in section 72(2).
-74.Notice of biodiversity management programme
-(1) If the Minister approves a biodiversity management programme under section 73(1), the CEO must cause notice of the programme to be published in the Gazette.
-(2) The notice must specify where copies of the biodiversity management programme may be inspected and obtained.
-75.Operation of biodiversity management programme
-A biodiversity management programme takes effect on —
-(a) the day on which the relevant notice under section 74 is published in the Gazette; or
-(b) if a later day is specified in the notice — that day.
-76.Publication of biodiversity management programme
-(1) The CEO must cause each biodiversity management programme to be published on the Department’s website and in any other way that the CEO considers appropriate.
-(2) The CEO may fix and charge a fee for providing a copy of a biodiversity management programme.
-77.Review of biodiversity management programme
-(1) The CEO may, at any time, carry out a review of a biodiversity management programme.
-(2) The CEO must carry out a review of each biodiversity management programme at intervals of not longer than 5 years calculated from the day on which the relevant programme takes effect.
-78.Amendment of biodiversity management programme
-(1) The CEO may prepare a draft amendment to a biodiversity management programme.
-(2) Sections 71 to 76 apply, with all necessary changes, to and in relation to the amendment as if references in those provisions to —
-(a) a draft programme were references to a draft amendment to a biodiversity management programme; and
-(b) a biodiversity management programme were references to an amendment to a biodiversity management programme.
-(3) Despite subsection (2), section 71 does not apply if the amendment is a minor amendment.
-79.Revocation of biodiversity management programme
-(1) The Minister may, by instrument, revoke a biodiversity management programme.
-(2) The Minister must consult with the Commission before revoking a biodiversity management programme if the programme relates to land vested in that body or is otherwise relevant to the functions of that body.
-(3) The CEO must cause notice of a revocation under subsection (1) to be published in the Gazette.
-(4) A revocation under subsection (1) takes effect on —
-(a) the day on which the relevant notice under subsection (3) is published in the Gazette; or
-(b) if a later day is specified in the notice — that day.
-(5) If a biodiversity management programme (the new programme) replaces another biodiversity management programme (the old programme), the old programme is to be taken to have been revoked under subsection (1) on the day on which the new programme takes effect.
-80.Public authority to have regard to biodiversity management programme
-To the extent that the functions of a public authority relate to matters dealt with in a biodiversity management programme, the public authority must have regard to the programme when performing those functions.
 Part 6 — Recovery plans and interim recovery plans
 Division 1 — Preliminary
 81.Terms used
@@ -1025,71 +640,6 @@ An interim recovery plan takes effect on —
 113.Public authority to have regard to interim recovery plan
 To the extent that the functions of a public authority relate to matters dealt with in an interim recovery plan, the public authority must have regard to the plan when performing those functions.
 Part 7 — Biodiversity conservation agreements
-114.Minister may enter into biodiversity conservation agreement
-(1) The Minister may, on behalf of the State, enter into an agreement (a biodiversity conservation agreement) with an owner or occupier of land in relation to land specified in the agreement.
-(2) A biodiversity conservation agreement may be entered into for one or more of the following purposes —
-(a) to facilitate the ecologically sustainable use of biodiversity components;
-(b) to mitigate the effect of, or prevent, activities that may have an adverse impact on biodiversity or biodiversity components;
-(c) to otherwise promote or enhance biodiversity conservation in the State.
-(3) The Minister must not enter into a biodiversity conservation agreement unless the Minister is satisfied that implementation of, or compliance with, the agreement will be of overall benefit to biodiversity conservation in the State.
-(4) The Minister must not enter into a biodiversity conservation agreement with an owner of land unless the following persons have consented in writing to the agreement —
-(a) each occupier of the land who is not an owner of the land;
-(b) each mortgagee of the land.
-(5) The Minister must not enter into a biodiversity conservation agreement with an occupier of land unless the following persons have consented in writing to the agreement —
-(a) each owner of the land;
-(b) each mortgagee of the land.
-(6) Before entering into a biodiversity conservation agreement that relates to Crown land, the Minister must obtain the concurrence of the Minister responsible for the administration of the Land Administration Act 1997.
-115.Content of biodiversity conservation agreement
-(1) In this section —
-agreement land means the land to which the biodiversity conservation agreement relates;
-specified means specified in the biodiversity conservation agreement.
-(2) A biodiversity conservation agreement may make provision for the Minister to do one or more of the following —
-(a) provide financial assistance to the other party to the agreement;
-(b) provide goods or services to the other party to the agreement;
-(c) provide technical advice to the other party to the agreement;
-(d) carry out, or make arrangements for the carrying out of, a specified activity;
-(e) implement, or participate in the implementation of, a plan for the management of the agreement land;
-(f) do anything else that is necessary or expedient to achieve any of the purposes set out in section 114(2).
-(3) A biodiversity conservation agreement may make provision for the owner or occupier of land who is a party to the agreement to do one or more of the following —
-(a) restrict the use of the agreement land;
-(b) carry out a specified activity or do a specified thing on the agreement land;
-(c) refrain from carrying out a specified activity or doing a specified thing on the agreement land;
-(d) not permit any other person to carry out a specified activity or do a specified thing on the agreement land;
-(e) permit access to the agreement land by a specified person;
-(f) contribute towards costs incurred in connection with biodiversity conservation on the agreement land;
-(g) apply money provided by way of financial assistance under the agreement in a specified manner;
-(h) repay money provided by way of financial assistance under the agreement if the party commits a specified breach of the agreement or in other specified circumstances;
-(i) return goods provided under the agreement if the party commits a specified breach of the agreement or in other specified circumstances;
-(j) implement, or participate in the implementation of, a plan for the management of the agreement land;
-(k) do anything else that is necessary or expedient to achieve any of the purposes set out in section 114(2).
-116.Amendment or cancellation of biodiversity conservation agreement
-(1) In this section —
-other party to the agreement includes any person who is bound by the agreement under section 118.
-(2) The Minister may amend a biodiversity conservation agreement with the consent in writing of the other party to the agreement.
-(3) Before amending a biodiversity conservation agreement that relates to Crown land, the Minister must obtain the concurrence of the Minister responsible for the administration of the Land Administration Act 1997.
-(4) The Minister may, by written notice given to the other party to the agreement, cancel a biodiversity conservation agreement if, in the opinion of the Minister, the agreement —
-(a) is no longer needed to achieve a purpose for which it was entered into; or
-(b) is no longer capable of being used to achieve a purpose for which it was entered into.
-(5) If a biodiversity conservation agreement is cancelled under subsection (4), the other party to the agreement is not entitled to any compensation for loss resulting from the cancellation.
-(6) A biodiversity conservation agreement must not exclude, modify or restrict the operation of this section and to the extent that it purports to do so it is of no effect.
-117.Lodgment of notification with Registrar and withdrawal of notification
-(1) If a biodiversity conservation agreement is entered into under section 114(1), the CEO must lodge a notification in relation to the biodiversity conservation agreement with the Registrar.
-(2) If the biodiversity conservation agreement is cancelled, the CEO must apply to the Registrar for the notification lodged under subsection (1) to be withdrawn.
-(3) The following requirements apply to a notification under subsection (1) and an application under subsection (2) —
-(a) it must be in a form approved by the Registrar;
-(b) it must be accompanied by any information the Registrar requires;
-(c) it must be accompanied by any relevant fee payable under the Transfer of Land Act 1893 or another written law.
-(4) On the lodgment of a notification under subsection (1) or the receipt of an application under subsection (2), the Registrar must make any endorsement or notation the Registrar considers necessary on the certificate of title or other appropriate record in respect of the land to which the notification or application, as the case requires, relates.
-118.Biodiversity conservation agreement binding on owners and occupiers
-If a certificate of title or other record in respect of land contains an endorsement or notation relating to a notification lodged under section 117(1), the biodiversity conservation agreement to which the notification relates, as amended from time to time under section 116(2), binds each successive owner or occupier of the land.
-119.Duty to notify CEO of change in ownership or occupation
-(1) If a certificate of title or other record in respect of land contains an endorsement or notation relating to a notification lodged under section 117(1), an owner of the land to which the notification relates must give written notice to the CEO in accordance with subsection (2) if —
-(a) that person ceases to be an owner of the land; or
-(b) that person or another person ceases to be an occupier of the land.
-Penalty for this subsection: a fine of $20 000.
-(2) The notice must —
-(a) give details of the change in ownership or occupation of the land, including the name and address of the next owner or occupier of the land (if known); and
-(b) be given to the CEO within 60 days after the day on which the change in ownership or occupation of the land occurs.
 120.Action in respect of money, goods or services provided under agreement
 (1) If the CEO is satisfied that goods provided to an owner or occupier of land under a biodiversity conservation agreement are being used for purposes other than the purposes of the agreement or have not been used, a wildlife officer may —
 (a) enter land on which the goods are located; and
@@ -1100,81 +650,6 @@ Penalty for this subsection: a fine of $20 000.
 (c) the entry is in accordance with an entry warrant.
 (3) Part 12 Division 3 applies, with all necessary changes, in relation to applications for, and the issue and execution of, entry warrants for the purposes of subsection (2)(c).
 (4) Without limiting subsection (3), references in Part 12 Division 3 to inspection purposes are to be taken to include the purposes of taking action under subsection (1).
-(5) If the CEO is satisfied that an amount of money provided to an owner or occupier of land by way of financial assistance under a biodiversity conservation agreement has been used for purposes other than the purposes of the agreement, the CEO may require the owner or occupier to pay that amount to the CEO.
-(6) If the CEO is satisfied that goods or services provided to an owner or occupier of land under a biodiversity conservation agreement have been used for purposes other than the purposes of the agreement, the CEO may require the owner or occupier to pay to the CEO an amount determined by the CEO to be equivalent to the value of those goods or services.
-(7) The CEO may recover an amount payable under subsection (5) or (6) in a court of competent jurisdiction as a debt due to the State.
-Part 8 — Biodiversity conservation covenants
-121.Terms used
-In this Part —
-covenant land, in relation to a biodiversity conservation covenant, means the land to which the covenant relates;
-covenantor has the meaning given in section 122(1);
-register, in relation to a biodiversity conservation covenant, means —
-(a)if the covenant relates to land that is under the operation of the Transfer of Land Act 1893 — to endorse the particulars of the covenant on the certificate of title for that land; or
-(b)if the covenant relates to other land — to enter the particulars of the covenant in the appropriate record under the Registration of Deeds Act 1856.
-122.Biodiversity conservation covenant
-(1) An owner of land (the covenantor) may enter into a covenant (a biodiversity conservation covenant) with the CEO to set aside the land or part of the land for one or more of the following purposes —
-(a) the conservation, protection or management of biodiversity or biodiversity components on the land;
-(b) the conservation, protection or management of —
-(i) a specially protected species that occurs on the land; or
-(ii) a threatened species that occurs on the land; or
-(iii) a threatened ecological community that occurs on the land;
-(c) scientific purposes consistent with a purpose referred to in paragraph (a) or (b);
-(d) public education purposes consistent with a purpose referred to in paragraph (a) or (b).
-(2) A biodiversity conservation covenant may be expressed to have effect for a period of time or in perpetuity.
-(3) A biodiversity conservation covenant may do one or more of the following —
-(a) restrict the use of the covenant land;
-(b) restrict the nature of works that may be carried out on the covenant land;
-(c) require that action specified in the covenant be taken on the covenant land;
-(d) require that action be taken in a manner specified in the covenant on the covenant land.
-(4) Different provisions of a biodiversity conservation covenant may be expressed to apply to different parts of the covenant land.
-(5) A biodiversity conservation covenant must be in a form approved by the Registrar.
-123.Consents required
-A biodiversity conservation covenant must have endorsed on it the consent of each person who has a registered interest (within the meaning of the Transfer of Land Act 1893) in the covenant land.
-124.Persons bound by biodiversity conservation covenant
-Each of the following persons is bound by a biodiversity conservation covenant —
-(a) the covenantor while the covenantor remains the owner of the covenant land;
-(b) a person who is bound by the covenant under section 129.
-125.Modification of biodiversity conservation covenant
-A biodiversity conservation covenant may be modified by agreement in writing between the CEO and each person who is bound by the covenant.
-126.Cancellation of biodiversity conservation covenant
-(1) In this section —
-permanent covenant means a biodiversity conservation covenant that is expressed to have effect in perpetuity.
-(2) A biodiversity conservation covenant that is not a permanent covenant may be cancelled —
-(a) by agreement in writing between the CEO and each person who is bound by the covenant; or
-(b) by written notice given by the CEO to each person who is bound by the covenant.
-(3) A permanent covenant may be cancelled by agreement in writing between the CEO and each person who is bound by the covenant.
-127.Lodgment of biodiversity conservation covenant with Registrar
-(1) If a biodiversity conservation covenant is entered into under section 122(1), the CEO must lodge the biodiversity conservation covenant with the Registrar.
-(2) A biodiversity conservation covenant lodged under subsection (1) must be —
-(a) accompanied by any information the Registrar requires; and
-(b) accompanied by any fee payable in respect of the covenant under the Transfer of Land Act 1893 or another written law.
-(3) On the lodgment of a biodiversity conservation covenant under subsection (1), the Registrar must register the covenant.
-(4) If a biodiversity conservation covenant is lodged under subsection (1), the CEO must give a copy of the covenant to the Commissioner of State Revenue.
-128.Instruments relating to modification or cancellation of biodiversity conservation covenant to be given to Registrar
-(1) If a biodiversity conservation covenant registered under section 127(3) is modified, the CEO must give the Registrar a notice setting out the modification.
-(2) If a biodiversity conservation covenant registered under section 127(3) is cancelled, the CEO must apply to the Registrar for the covenant to be discharged.
-(3) The following requirements apply to a notice under subsection (1) and an application under subsection (2) —
-(a) it must be in writing in a form approved by the Registrar;
-(b) it must be accompanied by any information the Registrar requires;
-(c) it must be accompanied by any relevant fee payable under the Transfer of Land Act 1893 or another written law.
-(4) On receiving a notice under subsection (1), the Registrar must make any endorsement or notation the Registrar considers necessary on the certificate of title or other appropriate record in respect of the land to which the biodiversity conservation covenant relates.
-(5) On receiving an application under subsection (2), the Registrar must discharge the biodiversity conservation covenant.
-(6) If the CEO gives a notice under subsection (1) or makes an application under subsection (2), the CEO must give a copy of the notice or application, as the case requires, to the Commissioner of State Revenue.
-129.Biodiversity conservation covenant binding on successive owners
-While a biodiversity conservation covenant remains registered —
-(a) the covenant binds each successive owner of the land to which the covenant relates; and
-(b) if a certificate of title or other record in respect of the land to which the covenant relates contains an endorsement or notation relating to a notice given under section 128(1), the modification to the covenant referred to in the notice binds each successive owner of the land.
-130.Contravention of biodiversity conservation covenant
-A person who is bound by a biodiversity conservation covenant must not contravene the covenant.
-Penalty: a fine of $50 000.
-131.Duty to notify CEO of change in ownership or occupation
-(1) While a biodiversity conservation covenant remains registered under section 127(3), an owner of the land to which the covenant relates must give written notice to the CEO in accordance with subsection (2) if —
-(a) that person ceases to be an owner of the land; or
-(b) that person or another person ceases to be an occupier of the land.
-Penalty for this subsection: a fine of $20 000.
-(2) The notice must —
-(a) give details of the change in ownership or occupation of the land, including the name and address of the next owner or occupier of the land (if known); and
-(b) be given to the CEO within 60 days after the day on which the change in ownership or occupation of the land occurs.
 Part 9 — Control of environmental pests
 132.Declaration of environmental pest
 (1) The Minister may, by order, declare that a species specified in the order or a species of a class specified in the order is an environmental pest for an area if —
@@ -1717,45 +1192,6 @@ sandalwood means sandalwood to which the order applies.
 (f) confer powers on wildlife officers to seize and sell, dispose of or otherwise deal with fauna or flora in circumstances where a charge payable in respect of the fauna or flora has not been paid.
 189.Operation of The Criminal Code s. 417 not affected
 This Act does not prevent The Criminal Code section 417 operating in respect of fauna or flora reasonably suspected of having been taken otherwise than as authorised by or under this Act.
-Part 11 — Nature-based tourism and recreation
-190.Terms used
-In this Part —
-aquatic eco-tourism has the meaning given in the Fish Resources Management Act 1994 section 4(1);
-commercial operator means a person who conducts an activity or provides a service for a commercial purpose;
-nature-based tourism and recreation means activities or services relating to the enjoyment or viewing of, or interaction with, native species and their habitats.
-191.Issue of codes of practice
-(1) The Minister may issue a code of practice for the purpose of providing guidance in relation to nature-based tourism and recreation on land that is not CALM Act land.
-(2) A code of practice issued under this section may incorporate by reference any other code or subsidiary legislation as existing or in force from time to time or as existing or in force at a particular time.
-(3) The Minister may amend or revoke a code of practice issued under this section.
-(4) The CEO must publish a notice in the Gazette giving details of the issue, amendment or revocation of a code of practice under this section.
-(5) A code of practice issued under this section is not subsidiary legislation for the purposes of the Interpretation Act 1984.
-192.Approval of codes of practice
-(1) The Minister may approve a code of practice issued under another written law, or issued by a tourism industry body or other person, if the Minister considers that the code is appropriate for the purpose mentioned in section 191(1).
-(2) A code of practice may be approved as existing or in force from time to time or as existing or in force at a particular time.
-(3) A code of practice approved under this section may consist of any code, standard, rule, specification or provision relating to the purpose mentioned in section 191(1).
-(4) The Minister may approve a revision of the whole or any part of a code of practice approved under this section.
-(5) The Minister may revoke the approval of a code of practice.
-(6) The CEO must publish a notice in the Gazette giving details of the approval, revision, or revocation of approval, of a code of practice under this section.
-(7) A code of practice approved under this section is not subsidiary legislation for the purposes of the Interpretation Act 1984.
-193.Regulations: nature-based tourism and recreation
-(1) The regulations may provide for the control and management of nature-based tourism and recreation on land that is not CALM Act land.
-(2) Subsection (1) does not extend to the control and management of aquatic eco-tourism.
-(3) Regulations made for the purposes of subsection (1) may —
-(a) limit, or provide for the limitation of, the number of persons who may visit or use a particular place for the purposes of nature-based tourism and recreation if the visit or use is, or is likely to be, detrimental to native species or their habitats; and
-(b) regulate commercial operators involved in nature-based tourism and recreation; and
-(c) regulate the activities or services that commercial operators referred to in paragraph (b) conduct or provide; and
-(d) place restrictions on the number of licences that may be issued under this Act in respect of nature-based tourism and recreation —
-(i) of a particular kind; or
-(ii) at a particular place.
-(4) This section does not limit or otherwise affect the operation of section 255(2) or (4).
-194.Consultation
-(1) In this section —
-code of practice means a code of practice referred to in section 191 or 192.
-(2) Before a code of practice is issued or approved, or regulations referred to in section 193 are made, the Minister must consult with the following —
-(a) the Minister responsible for the administration of the Western Australian Tourism Commission Act 1983;
-(b) tourism industry bodies;
-(c) any other person or body who or which appears to the Minister to be likely to be affected by, or interested in, the code of practice or regulations, as the case requires.
-(3) Without limiting subsection (2), if a code of practice is to contain provisions relating to aquatic eco-tourism, the Minister must consult with the Minister responsible for the administration of the Fish Resources Management Act 1994 before the code of practice is issued or approved.
 Part 12 — Inspection and compliance
 Division 1 — Preliminary
 195.Terms used
@@ -2071,25 +1507,6 @@ The Criminal and Found Property Disposal Act 2006 applies to and in respect of �
 (a) any thing seized under section 206 unless the thing is dealt with under section 207(2) or 208(1); and
 (b) any thing forfeited under section 230.
 Part 13 — Legal proceedings
-Division 1 — General provisions relating to offences
-232.Who can commence prosecution
-A prosecution for an offence under this Act may be commenced only by the CEO or a person authorised to do so by the CEO.
-233.Time for commencing prosecution
-(1) A prosecution for an offence under this Act must be commenced within 3 years after the day on which the offence is alleged to have been committed.
-(2) Despite subsection (1), if a prosecution notice alleging an offence under this Act specifies the day on which evidence of the alleged offence first came to the attention of a person who has authority to commence the prosecution —
-(a) the prosecution may be commenced within 3 years after that day; and
-(b) the prosecution notice need not contain particulars of the day on which the offence is alleged to have been committed.
-(3) The day on which evidence first came to the attention of a person who has authority to commence the prosecution is, in the absence of proof to the contrary, the day specified in the prosecution notice.
-234.Attempt, incitement or accessory after the fact
-(1) In this section —
-accessory after the fact to an offence has the meaning given in The Criminal Code section 10.
-(2) The Criminal Code section 555A applies to an offence under this Act as if it were a simple offence under that Code.
-(3) A person who becomes an accessory after the fact to an offence under this Act (the principal offence) commits an offence and is liable on conviction to the penalty to which a person convicted of the principal offence is liable.
-235.Penalties for continuing offences
-For the purposes of the Interpretation Act 1984 section 71, in relation to an offence committed under this Act, the penalty for each separate and further offence committed by a person is a fine of $5 000.
-236.Court may cancel or suspend licence
-(1) If a court convicts a person of an offence under this Act, the court may, in addition to any other penalty it imposes in relation to the offence, cancel, or suspend for any period, any licence held by the person.
-(2) A court must not cancel or suspend a licence under subsection (1) unless the prosecutor applies for its cancellation or suspension.
 Division 2 — Responsibility of certain persons
 237.Liability of officers of body corporate for offence by body
 (1) In this section —
@@ -2229,13 +1646,6 @@ is, without proof of the authorised person’s signature, evidence of the facts 
 This Division is in addition to and does not affect the operation of the Evidence Act 1906.
 Part 14 — Regulations, orders and guidelines
 Division 1 — Regulations
-255.Regulations: general power
-(1) The Governor may make regulations prescribing matters —
-(a) required or permitted by this Act to be prescribed; or
-(b) necessary or convenient to be prescribed for giving effect to the purposes of this Act.
-(2) Without limiting subsection (1), the regulations may provide for, prohibit, control, impose requirements in relation to, or otherwise regulate all or any of the matters referred to in Schedule 1.
-(3) Terms used in Schedule 1 item 13 that are defined in the EPBC Act have the same meaning in that item as they have in that Act.
-(4) The regulations may provide for offences against the regulations and prescribe penalties for those offences not exceeding a fine of $50 000.
 256.Regulations: licensing
 (1) The regulations are to establish a licensing scheme under which the CEO may grant licences for the purposes of this Act.
 (2) Regulations made for the purposes of subsection (1) may provide for or regulate the following —
@@ -2262,204 +1672,6 @@ Division 1 — Regulations
 (4) Without limiting subsection (2)(i), the regulations may provide for any licence or permit granted to a person under the CALM Act to be included in a licence document issued to the person under this Act.
 (5) No person is entitled to the grant, renewal or transfer of a licence as of right unless the regulations expressly provide otherwise.
 (6) If the regulations provide that a licence is transferable by the licence holder then, in accordance with paragraph (d) of the definition of licence in the Personal Property Securities Act 2009 (Commonwealth) section 10, the licence is declared not to be personal property for the purposes of that Act.
-257.Regulations may adopt codes or legislation
-(1) In this section —
-code means a code, code of practice, standard, rule, specification, administrative procedure, quality assurance scheme or other document, published in or outside Australia by any public authority or other person, including the Minister or the CEO, that does not by itself have legislative effect in this State;
-subsidiary legislation includes rules, regulations, instructions, local laws and by-laws.
-(2) The regulations may adopt, either wholly or in part or with modifications and either specifically or by reference —
-(a) any code; or
-(b) any subsidiary legislation made, determined or issued under any other Act or under any Act of the Commonwealth, another State or a Territory.
-(3) If the regulations adopt a code or subsidiary legislation, it is adopted as existing or in force from time to time unless the regulations prescribe that a particular text is adopted.
-(4) Particulars of any code or subsidiary legislation adopted by the regulations must be published on, or accessible through, the Department’s website.
-Division 2 — Orders
-258.Orders made by Minister
-(1) This section applies to an order made by the Minister under another provision of this Act if the other provision states that it so applies.
-(2) An order to which this section applies is subsidiary legislation for the purposes of the Interpretation Act 1984.
-(3) The Minister must cause a copy of each of the following orders to be laid before each House of Parliament as soon as is practicable after the order is published in the Gazette —
-(a) an order to which this section applies;
-(b) an order amending or repealing an order referred to in paragraph (a).
-(4) Subsection (3) does not apply if the order is referred to in section 259.
-259.Certain orders subject to disallowance
-The Interpretation Act 1984 section 42 applies to each of the following orders as if the order were a regulation —
-(a) an order made by the Minister under a provision of this Act listed in the Table;
-(b) an order amending or repealing an order referred to in paragraph (a).
-Table
-s. 9(1), (2), (3), (4) and (5) | s. 10(1) and (2)
-s. 132(1) | s. 147(3)
-s. 168(3) | s. 187(2)
-s. 271(2)
-Division 3 — Guidelines
-260.Guidelines about listing
-(1) The Minister may issue guidelines establishing criteria for, and setting out other matters relevant to, the following —
-(a) the listing of specially protected species under Part 2 Division 1 Subdivision 1;
-(b) the listing of threatened species under Part 2 Division 1 Subdivision 2;
-(c) the listing of extinct species under Part 2 Division 1 Subdivision 3;
-(d) the listing of threatened ecological communities under Part 2 Division 2;
-(e) the listing of key threatening processes under Part 2 Division 3;
-(f) the listing of critical habitats under Part 4 Division 1.
-(2) Without limiting subsection (1), guidelines issued under this section may provide for and in relation to —
-(a) the making of nominations under section 38(1) relating to threatened species or threatened ecological communities; and
-(b) the process for dealing with those nominations.
-261.Other guidelines
-(1) The Minister may issue guidelines setting out matters that the Minister considers to be of importance in respect of the performance by the CEO or any other person of a function under this Act.
-(2) Guidelines issued under this section are intended —
-(a) to assist the CEO and other persons in the performance of functions under this Act; and
-(b) to provide information to —
-(i) any person or body that may be affected by decisions under this Act; and
-(ii) any person or body that has a special interest in species or ecological communities that may be affected by decisions under this Act or in biodiversity conservation generally; and
-(iii) the general community.
-262.Publication, amendment and revocation of guidelines
-(1) Guidelines issued under section 260 or 261 must be published in the prescribed way.
-(2) The Minister may at any time amend or revoke guidelines issued under section 260 or 261.
-(3) An amendment or revocation under subsection (2) must be published in the prescribed way.
-263.Guidelines to be taken into account
-(1) In performing a function under this Act a person must take into account guidelines issued under section 260 or 261 that relate to the performance of the function.
-(2) Nothing in subsection (1) —
-(a) derogates from the person’s duty to exercise the person’s discretion in a particular case; or
-(b) precludes the person from taking into account matters not set out in guidelines; or
-(c) requires the person to take into account guidelines that are inconsistent with the provision of this Act that confers the function.
-264.Status of guidelines
-(1) Guidelines issued under section 260 or 261 are not subsidiary legislation for the purposes of the Interpretation Act 1984.
-(2) If there is a conflict or inconsistency between a provision of this Act and a provision of guidelines issued under section 260 or 261, the provision of this Act prevails.
-Part 15 — Miscellaneous
-Division 1 — Documents
-265.Giving documents to CEO
-A document required or authorised to be given under this Act to the CEO may be given to the CEO —
-(a) by lodging the document at a prescribed address; or
-(b) by prepaid post addressed to the CEO; or
-(c) if the regulations authorise service of the document under this paragraph — by faxing a copy of the document to a fax number stated in the regulations; or
-(d) if the regulations authorise service of the document under this paragraph — by sending electronic data from which the document can be reproduced, in a prescribed format, to a prescribed email address.
-266.Giving documents generally
-(1) A document required or authorised to be given under this Act to a person other than the CEO may be given to the person by —
-(a) giving it to the person personally; or
-(b) leaving it at the person’s place of residence or business; or
-(c) sending it by prepaid post (including document exchange) addressed to the person —
-(i) in accordance with the Interpretation Act 1984 section 75(1); or
-(ii) at an address appearing on recent correspondence addressed by or on behalf of the person to the CEO or otherwise notified to the CEO or published by the person; or
-(iii) at an address shown in the rate book kept by a local government under the Local Government Act 1995 as the address for the service of rate notices under that Act on that person;
-or
-(d) faxing it to a fax number, or emailing it to an email address, provided by the person or appearing on recent correspondence addressed by or on behalf of the person to the CEO or otherwise notified to the CEO or published by the person; or
-(e) communicating it in some other way agreed with the person.
-(2) Where an address for service cannot be identified for the purposes of subsection (1), the document may be given by advertising the document at least twice in the prescribed way, with an interval of at least one week between the advertisements.
-(3) The use of a particular method for giving a document to a person does not prevent the giving of other documents to the same person in a different way.
-(4) Failure to properly give a document to one person does not affect whether or not it was properly given to another person.
-267.Giving documents to owner or occupier of land
-(1) A document given to a person because the person is an owner or occupier of land may be addressed to the person by the description of “the owner” or “the occupier” of the relevant land, describing it, without further name or description.
-(2) If there are 2 or more owners or occupiers, a document is sufficiently given to all of them if it is given to one of them, and is addressed to that one with the addition of the words “and others” or “and another”, as the case requires.
-(3) If a document is to be given to a person because the person is an owner of land, the document may be given to the person by addressing it to the owner and giving it under section 266 to the occupier, if any, of the land.
-(4) If a document is to be given to a person because the person is an owner or occupier of land, the document may be given to the person by addressing it to the person and affixing it to a conspicuous part of the land.
-(5) Subsections (3) and (4) only apply if it is not reasonably practicable to give the document in any of the ways provided for in section 266 and this Act does not otherwise state how the document is to be given.
-268.Giving certain notices
-(1) In this section —
-notice means an environmental pest notice or a notice under section 50(1).
-(2) If for any reason it is not reasonably practicable to give a notice to a person in accordance with section 266, the notice may be given by publishing a copy of the notice in the prescribed way.
-(3) A notice given under subsection (2) —
-(a) may be directed to any number of owners or occupiers of land; and
-(b) is to be taken to be given to the owner and occupier of any land specified in the notice.
-269.Time when document given
-(1) Except where a document is sent by post to an address outside the State, given personally, or the contrary is proved, a document is taken to be given on the business day following the day on which the document was sent by post, faxed or emailed to, or left for, the person to whom it was addressed.
-(2) A document sent by post to an address within Australia but outside the State is taken to be given on the 5th business day after the day on which the document was sent to the person to whom it is addressed.
-(3) A document sent by post to an address outside Australia is taken to be given on the 10th business day after the day on which the document was sent to the person to whom it is addressed.
-270.Defects in document
-A document is not ineffective, nor is it to be regarded as having been not properly given, only because of an error, misdescription, or irregularity in the document or the way it is addressed that is not likely to mislead or does not in fact mislead.
-Division 2 — Other matters
-271.Exemptions from Act
-(1) In this section —
-specified, in relation to an exemption, means specified in the order made under subsection (2) that provides for the exemption.
-(2) The Minister may, by order, exempt from a specified provision of this Act —
-(a) a specified person or a specified class of persons; or
-(b) a specified activity or a specified class of activities; or
-(c) a specified place, vehicle or thing or a specified class of places, vehicles or things.
-(3) An exemption may be granted on an application to, or on the initiative of, the Minister.
-(4) An exemption may be granted indefinitely or for a specified period.
-(5) An exemption may be expressed to apply —
-(a) generally; or
-(b) in specified circumstances; or
-(c) in respect of a specified area of the State.
-(6) An exemption may be granted subject to specified conditions.
-(7) If an exemption is granted subject to a specified condition, the exemption has no effect at any time when the condition is being contravened.
-(8) A person to whom an exemption applies must not contravene any condition to which the exemption is subject.
-Penalty for this subsection: a fine of $50 000.
-(9) This section does not affect the operation of the Interpretation Act 1984 section 43(8)(d).
-(10) Section 258 applies to an order made under subsection (2).
-272.Resolution of matters relating to powers and duties of public authorities
-(1) In this section —
-matter includes a question, difference or dispute;
-responsible Minister, in relation to a public authority, means —
-(a)if the public authority is a Minister of the State — that Minister; or
-(b)if the public authority is an agency or an organisation as defined in the Public Sector Management Act 1994 section 3(1) — the Minister responsible for the administration of that agency or organisation; or
-(c)if the public authority is a local government or a regional local government — the Minister responsible for the administration of the Local Government Act 1995; or
-(d)in any other case — the Minister responsible for the administration of the written law under which the public authority, or the office held by the public authority, is established or continued.
-(2) If, in the operation of this Act, a matter arises, or may arise, with respect to the exercise of any right, power or authority of, or the discharge of any duty by, a public authority under this Act or another written law, then the responsible Minister and the Minister may consult on the matter.
-(3) If the Ministers reach agreement on the matter after consultation under subsection (2), the Ministers must give such directions as result from the agreement, and effect must be given to those directions.
-(4) If no consultation under subsection (2) is concluded or the Ministers cannot reach agreement on the matter, the matter may be finally and conclusively determined by the Governor, and effect must be given to the determination.
-273.Protection from liability for wrongdoing
-(1) An action in tort does not lie against a person for anything that the person has done, in good faith, in the performance or purported performance of a function under this Act.
-(2) The State is also relieved of any liability that it might otherwise have had for another person having done anything as described in subsection (1).
-(3) The protection given by this section applies even though the thing done as described in subsection (1) may have been capable of being done whether or not this Act had been enacted.
-(4) In this section, a reference to the doing of anything includes a reference to an omission to do anything.
-274.Information sharing
-(1) In this section —
-authorised officer means the CEO or a person designated under subsection (2);
-guidelines means guidelines issued under subsection (7);
-information sharing agency means any of the following —
-(a)the department of the Public Service principally assisting in the administration of the Animal Welfare Act 2002;
-(b)the department of the Public Service principally assisting in the administration of the Biosecurity and Agriculture Management Act 2007;
-(c)the department of the Public Service principally assisting in the administration of the Bush Fires Act 1954;
-(d)the department of the Public Service principally assisting in the administration of the Environmental Protection Act 1986;
-(e)the department of the Public Service principally assisting in the administration of the Fish Resources Management Act 1994;
-(f)the department of the Public Service principally assisting in the administration of the Health Act 1911;
-(g)the department of the Public Service principally assisting in the administration of the Land Administration Act 1997;
-(h)the department of the Public Service principally assisting in the administration of the Pearling Act 1990;
-(i)the Forest Products Commission established by the Forest Products Act 2000;
-(j)the Police Force of Western Australia;
-(k)the Western Australian Land Information Authority established by the Land Information Authority Act 2006;
-(l)the Western Australian Museum constituted under the Museum Act 1969;
-(m)the agency of the Commonwealth principally assisting in the administration of the EPBC Act;
-(n)a public authority prescribed for the purposes of this definition;
-(o)an agency of the Commonwealth, another State, or a Territory, prescribed for the purposes of this definition;
-officer, in relation to an information sharing agency, means —
-(a)an officer or employee in or of the agency; or
-(b)if the agency is the Police Force of Western Australia — a member of the Police Force of Western Australia;
-relevant information means information relevant to the administration or enforcement of this Act.
-(2) The CEO may, in writing, designate a person employed in the Department as an authorised officer for the purposes of this section.
-(3) An authorised officer may, in accordance with the guidelines, disclose relevant information to an officer of an information sharing agency.
-(4) An authorised officer may, in accordance with the guidelines, request a public authority that holds relevant information to disclose the information to the authorised officer.
-(5) Information may be disclosed under subsection (3), or in compliance with a request under subsection (4), despite any written law relating to confidentiality or secrecy.
-(6) If information is disclosed, in good faith, under subsection (3), or in compliance with a request under subsection (4) —
-(a) no civil or criminal liability is incurred in respect of the disclosure; and
-(b) the disclosure is not to be regarded as a breach of any duty of confidentiality or secrecy imposed by law; and
-(c) the disclosure is not to be regarded as a breach of professional ethics or standards or as unprofessional conduct.
-(7) The CEO must issue guidelines as to the disclosure of information under subsection (3) and the requesting of information under subsection (4).
-(8) The regulations may include provisions about —
-(a) receiving and storing information disclosed for the purposes of this Act; and
-(b) restricting access to such information.
-275.Confidentiality
-(1) A person who is or has been engaged in the performance of functions under this Act must not, directly or indirectly, record, disclose or make use of any information obtained in the course of duty except —
-(a) for the purpose of, or in connection with, performing a function under this Act; or
-(b) as required or allowed under this Act or another written law; or
-(c) for the purposes of any legal proceedings arising under this Act; or
-(d) with the written consent of the person to whom the information relates; or
-(e) in prescribed circumstances.
-Penalty for this subsection: a fine of $20 000.
-(2) Subsection (1) does not extend to the recording, disclosure or use of statistical or other information that could not reasonably be expected to lead to the identification of any person to whom it relates.
-276.Certain information may be kept confidential
-(1) In this section —
-strategic document means any of the following —
-(a)a biodiversity management programme;
-(b)a recovery plan;
-(c)an interim recovery plan.
-(2) This section applies if the Minister considers that the survival of a native species or ecological community could be threatened by the disclosure of some or all of the following information, or by the presence or actions of persons if some or all of the following information were disclosed —
-(a) the precise location of the species in the wild or of the community;
-(b) any other information about the species or community.
-(3) It is sufficient compliance with this Act if only a general description of the location of the native species or ecological community is included in a strategic document or other instrument made or issued under this Act.
-277.Review of Act
-(1) The Minister must carry out a review of the operation and effectiveness of this Act as soon as is practicable after every 5th anniversary of the commencement of this section.
-(2) In the course of each review the Minister must consider and have regard to —
-(a) the objects of this Act; and
-(b) the adequacy of the penalties imposed under this Act; and
-(c) any other matters that appear to the Minister to be relevant to the operation and effectiveness of this Act.
-(3) The Minister must prepare a report based on each review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
 Part 16 — Repeals and transitional provisions
 Division 1 — Repeal of Wildlife Conservation Act 1950
 Subdivision 1 — Repeals
@@ -2516,58 +1728,13 @@ Division 4 — General
 This Part does not limit or otherwise affect the operation of the Interpretation Act 1984 in relation to the repeals effected by Divisions 1 and 2.
 Part 17 — Consequential amendments to other Acts
 Division 1 — Conservation and Land Management Act 1984 amended
-286.Act amended
-This Division amends the Conservation and Land Management Act 1984.
-287.Long title amended
-In the long title before “and for incidental or connected purposes.” insert:
-to confer functions relating to the conservation, protection and management of biodiversity and biodiversity components,
-288.Section 3 amended
-(1) In section 3 delete the definitions of:
-biodiversity
-biodiversity components
-fauna
-flora
-(2) In section 3 insert in alphabetical order:
-biodiversity has the meaning given in the Biodiversity Conservation Act 2016 section 5(1);
-biodiversity components has the meaning given in the Biodiversity Conservation Act 2016 section 5(1);
-conserve includes to maintain and to restore;
-fauna has the meaning given in the Biodiversity Conservation Act 2016 section 5(1);
-flora has the meaning given in the Biodiversity Conservation Act 2016 section 5(1);
-289.Section 13A amended
-In section 13A(1):
-(a) in paragraph (a) delete “and restoration”;
-(b) in paragraph (b) delete “indigenous”.
-290.Section 13B amended
-In section 13B(1):
-(a) delete “and restoration”;
-(b) delete “indigenous”.
 291.Section 19 amended
-In section 19(1):
-(a) in paragraph (d) delete “conservation” and insert:
-conservation, protection
 (b) after paragraph (g) insert:
 (haa) to participate in the preparation of the following documents under the Biodiversity Conservation Act 2016 Parts 5 and 6 when consulted in accordance with those Parts —
 (i) draft biodiversity management programmes;
 (ii) draft recovery plans;
 (iii) interim recovery plans;
 292.Section 33 amended
-(1) In section 33(1):
-(a) delete paragraph (ca) and insert:
-(ca) to promote and encourage the use of fauna and flora for therapeutic, scientific, breeding, propagation or cultivation purposes for the good of the people in the State and elsewhere, and to undertake any project or operation relating to the use of fauna or flora for such a purpose; and
-(b) in paragraph (cc) delete “conservation of biodiversity throughout” and insert:
-conservation, protection and management of biodiversity and biodiversity components in
-(c) delete paragraph (d) and insert:
-(d) to promote, encourage and facilitate the conservation, protection and management of biodiversity and biodiversity components in the State; and
-(daa) to promote, encourage and facilitate the planning for and establishment of a comprehensive, adequate and representative system of reserves for the purposes of conserving, protecting and managing biodiversity and biodiversity components in the State; and
-(dab) to promote, facilitate and manage nature-based tourism and recreation, as defined in the Biodiversity Conservation Act 2016 section 190, in the State in accordance with this Act and the Biodiversity Conservation Act 2016; and
-(d) delete paragraph (e)(ii) and insert:
-(ii) the conservation, protection and management of biodiversity and biodiversity components in the State; and
-(e) after paragraph (e) insert:
-(fa) to carry out or cause to be carried out surveys of biodiversity and biodiversity components in the State including surveys of the distribution and abundance of native species and ecological communities as those terms are defined in the Biodiversity Conservation Act 2016 section 5(1); and
-(fb) to facilitate the implementation of agreements referred to in the Environment Protection and Biodiversity Conservation Act 1999 (Commonwealth) section 45(2) to which the State is a party; and
-(f) after paragraph (g) insert:
-(ha) to enter into collaborative arrangements with any department, public or private body or other person, whether in the State or elsewhere, for the purposes of performing a function referred to in any of paragraphs (a), (ca), (cc) to (ea) and (gb); and
-(hb) to perform functions conferred on the CEO under the Biodiversity Conservation Act 2016; and
 (2) After section 33(1) insert:
 (2A) In subsection (1)(ca) —
 use includes use or development on a commercial basis.
@@ -2581,8 +1748,6 @@ private land
 take
 (7B) An agreement under subsection (6) may provide for the exercise of powers referred to in that subsection to be conditional on the other person entering into an arrangement with the CEO for the sharing of profits.
 (4) Delete section 33(8).
-(5) In section 33(1) after each of paragraphs (a) to (bb), (cb), (cc), (da) to (dd), (e), (f) and (g) insert:
-and
 293.Section 34A amended
 (1) In section 34A(1) delete “a project or operation undertaken for a purpose mentioned in section 33(1)(ca) or (cc) —” and insert:
 the performance of a function referred to in section 33(1)(a), (ca), (cc) to (fb), (ha) or (hb) —
@@ -2610,14 +1775,6 @@ under this Act, the Biodiversity Conservation Act 2016 or another written law
 297.Section 48 amended
 In section 48(1) delete “1954 or the Wildlife Conservation Act 1950,” and insert:
 1954, the Biodiversity Conservation Act 2016 or another written law,
-298.Section 56 amended
-In section 56(1):
-(a) in paragraph (c) delete “maintenance and restoration” and insert:
-conservation
-(b) in paragraph (c) delete “indigenous”;
-(c) in paragraph (d) delete “maintain and restore” and insert:
-conserve
-(d) in paragraph (d) delete “indigenous”.
 299.Section 68 replaced
 Delete section 68 and insert:
 68.Biodiversity Conservation Account
@@ -2625,9 +1782,6 @@ Delete section 68 and insert:
 (2) The Biodiversity Conservation Account is a continuation of the Nature Conservation and National Parks Account referred to in section 68 of this Act as in force immediately before the commencement of the Biodiversity Conservation Act 2016 section 299.
 (3) The Biodiversity Conservation Account is to be credited with gifts, devises, bequests and donations made to that account.
 (4) The CEO is to apply money standing to the credit of the Biodiversity Conservation Account for the purpose of scientific research relating to biodiversity and biodiversity components in the State.
-300.Section 87 amended
-In section 87(1) in the definition of forest produce paragraph (a) delete “resin or sap; or” and insert:
-resin, sap or seed; or
 301.Section 101B amended
 (1) In section 101B(2a) delete the passage that begins with “in accordance with” and continues to the end of the subsection and insert:
 in accordance with —
@@ -2639,8 +1793,6 @@ regulations made under the Biodiversity Conservation Act 2016, or an authorisati
 302.Section 103A amended
 In section 103A(2) delete “Wildlife Conservation Act 1950” and insert:
 Biodiversity Conservation Act 2016
-303.Section 106 amended
-In section 106(b) delete “indigenous”.
 304.Section 121 amended
 Delete section 121(6)(a) and insert:
 (a) limits the powers conferred on an enforcement officer under another provision of this Act or under the Biodiversity Conservation Act 2016, the Bush Fires Act 1954 or another written law; or
@@ -2789,11 +1941,6 @@ Biodiversity Conservation Act 2016
 (d) the Biodiversity Conservation Act 2016; or
 (b) after paragraph (a) insert:
 or
-319.Land Tax Assessment Act 2002 amended
-(1) This section amends the Land Tax Assessment Act 2002.
-(2) After section 41 insert:
-42A.Land under biodiversity conservation covenant, exemption for
-Land is exempt for an assessment year if the land is the subject of a biodiversity conservation covenant under the Biodiversity Conservation Act 2016 that is expressed to have effect in perpetuity and that was in force at midnight on 30 June in the financial year before the assessment year.
 320.Soil and Land Conservation Act 1945 amended
 (1) This section amends the Soil and Land Conservation Act 1945.
 (2) In the Schedule delete “Sandalwood Act 1929”.
@@ -2891,3 +2038,151 @@ In section 274(1) in the definition of information sharing agency —
 303.Schedule 1 amended
 In Schedule 1 item 2 delete “fish or pearl oyster),” and insert:
 aquatic organisms),
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+abandoned fauna5(1)
+accessory after the fact to an offence234(1)
+agreement land115(1)
+animal5(1)
+annual report5(1)
+apply5(1)
+aquatic eco-tourism190
+authorised officer274(1)
+biodiversity5(1)
+biodiversity components5(1)
+biodiversity conservation5(1)
+biodiversity conservation agreement5(1), 114(1)
+biodiversity conservation conditions7(1)
+biodiversity conservation covenant5(1), 122(1)
+biodiversity conservation measures5(1)
+biodiversity management programme5(1)
+biological resources5(1)
+bioprospecting activity5(1)
+biosecurity measures5(1)
+business day5(1)
+CALM Act5(1)
+CALM Act land5(1)
+CALM Act officer5(1)
+capture5(1)
+carcass5(1)
+CEO5(1)
+cetacean5(1)
+CI Act5(1)
+class5(1)
+coastal sea8(1)
+code257(1)
+code of practice194(1)
+collapsed ecological community5(1)
+commercial operator190
+commercial purpose5(1)
+Commission5(1)
+condition5(1)
+conserve5(1)
+container5(1)
+continental shelf8(1)
+contravene5(1)
+control5(1)
+covenant land121
+covenantor121, 122(1)
+critical habitat5(1)
+critically endangered ecological community5(1)
+critically endangered species5(1)
+Crown land5(1)
+cultivated flora5(1)
+declared pest5(1)
+Department5(1)
+disturb5(1)
+draft programme68
+ecological community5(1)
+ecologically sustainable use5(1)
+ecosystem5(1)
+endangered ecological community5(1)
+endangered species5(1)
+environmental pest5(1)
+environmental pest notice5(1)
+environmental protection policy5(1)
+EPBC Act5(1)
+exclusive economic zone5(1)
+export5(1)
+external Territory5(1)
+extinct species5(1)
+fauna5(1)
+fauna processing establishment5(1)
+fish5(1)
+flora5(1)
+flora processing establishment5(1)
+genetic resources5(1)
+guidelines274(1)
+habitat5(1)
+habitat conservation notice5(1)
+identifier5(1)
+import5(1)
+information sharing agency274(1)
+injured fauna5(1)
+interim recovery plan5(1)
+key threatening process5(1)
+label5(1)
+land5(1)
+lawful activity5(1)
+lawful authority5(1)
+licence5(1)
+managed fauna5(1)
+matter272(1)
+ministerial guidelines5(1)
+minor amendment68
+mobile home5(1)
+native species5(1)
+nature-based tourism and recreation190
+new programme79(5)
+notice268(1)
+obstruct5(1)
+occupier5(1)
+officer274(1)
+old programme79(5)
+organism5(1)
+other party to the agreement116(1)
+owner5(1)
+part5(1)
+pearl oyster5(1)
+permanent covenant126(1)
+place5(1)
+plant5(1)
+potential carrier5(1)
+prescribed5(1)
+principal offence234(3)
+private land5(1)
+process5(1)
+prohibited device5(1)
+prohibited method5(1)
+public authority5(1)
+record5(1)
+recovery plan5(1)
+register121
+Registrar5(1)
+relevant authorisation7(1)
+relevant information274(1)
+remedial action5(1)
+responsible Minister272(1)
+sandalwood5(1)
+self-governing Territory5(1)
+specially protected fauna5(1)
+specially protected flora5(1)
+specially protected species5(1)
+species5(1)
+specified115(1), 271(1)
+State agreement5(1)
+strategic document276(1)
+subsidiary legislation257(1)
+supply5(1)
+take5(1)
+threatened ecological community5(1)
+threatened fauna5(1)
+threatened flora5(1)
+threatened species5(1)
+threatening process5(1)
+treat5(1)
+vehicle5(1)
+vulnerable ecological community5(1)
+vulnerable species5(1)
+wildlife officer5(1)
