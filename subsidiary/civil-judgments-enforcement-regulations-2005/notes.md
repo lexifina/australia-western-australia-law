@@ -25,6 +25,7 @@ Reprint 3: The Civil Judgments Enforcement Regulations 2005 as at 16 Jan 2015 (i
 Civil Judgments Enforcement Amendment Regulations 2015 | 10 Apr 2015 p. 1254-5 | r. 1 and 2: 10 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Apr 2015 (see r. 2(b))
 Civil Judgments Enforcement Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2116-18 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 3 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
+Attorney General Regulations Amendment (Electronic Processes) Regulations 2016 Pt. 2 | 2 Dec 2016 p. 5385-7 | 3 Dec 2016 (see r. 2(b))
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.
@@ -33,9 +34,10 @@ Defined terms
 Defined termProvision(s)
 Act3
 approved form3
-arrest warrant96(1)
+arrest warrant95A
 arrested person68, 96(1)
 business day3
+courts electronic system95A
 Form3
 individual104
 lawyer3
