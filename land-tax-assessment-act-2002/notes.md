@@ -31,11 +31,11 @@ Reprint 4: The Land Tax Assessment Act 2002 as at 19 Apr 2013 (includes amendmen
 Taxation Legislation Amendment Act 2015 Pt. 2 Div. 1 and Pt. 3 | 1 of 2015 | 25 Feb 2015 | Pt. 3 Div. 2: 1 Jul 2003 (see s. 2(c)); Pt. 2 Div. 1: 1 Jul 2014 (see s. 2(b)); Pt. 3 Div. 1 and 3: 25 Feb 2015 (see s. 2(a))
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 3 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 Taxation Legislation Amendment Act (No. 3) 2015 Pt. 3 | 15 of 2015 | 26 May 2015 | 27 May 2015 (see s. 2(c))
+Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | To be proclaimed (see s. 2(b))
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
@@ -52,12 +52,7 @@ commencement day means the day on which this Part comes into operation.
 The Commissioner of State Revenue must make any reassessment necessary to give effect to the amendments effected by this Part.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33(4) is not included because the subsection it sought to amend had been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 319 had not come into operation. It reads as follows:
-319.Land Tax Assessment Act 2002 amended
-(1) This section amends the Land Tax Assessment Act 2002.
-(2) After section 41 insert:
-42A.Land under biodiversity conservation covenant, exemption for
-Land is exempt for an assessment year if the land is the subject of a biodiversity conservation covenant under the Biodiversity Conservation Act 2016 that is expressed to have effect in perpetuity and that was in force at midnight on 30 June in the financial year before the assessment year.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 had not come into operation. It reads as follows:
 Part 7 — Amendments to and repeal of other Acts
 Division 5 — Land Tax Assessment Act 2002 amended
