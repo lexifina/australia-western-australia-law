@@ -179,6 +179,7 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014
 Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 2 | 25 of 2015 | 24 Sep 2015 | 31 Oct 2015 (see s. 2(b) and Gazette 30 Oct 2015 p. 4493)
 Reprint 18: The Criminal Code Act Compilation Act 1913 as at 3 Jun 2016 (includes amendments listed above)
 Graffiti Vandalism Act 2016 Pt. 6 Div. 1 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016 (see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
+Sentencing Legislation Amendment Act 2016 Pt. 2 Div. 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
