@@ -51,12 +51,13 @@ Public Sector Reform Act 2010 s. 83 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Local Government Amendment Act 2012 Pt. 4 (s. 38-41) | 2 of 2012 | 4 Apr 2012 | s. 38, 40(a), (c) and 41 to the extent that it inserts s. 10(4)(c)(i): 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 39, 40(b) and 41 to the extent that it inserts s. 10(4)(c)(ii): 9 Feb 2013 (see s. 2(b) and Gazette 8 Feb 2013 p. 863)
 Workforce Reform Act 2014 Pt. 4 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2(b) and Gazette 27 Jun 2014 p. 2301)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 8 | 32 of 2016 | 19 Oct 2016 | 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
-Now see the Interpretation Act 1984 s. 52.
+Footnote no longer applicable.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
 6.Transitional provision
 (1) Section 6C of the principal Act applies whether or not the offence was committed before the day when this Act commences and whether or not the person was dealt with before that day, but if the person was dealt with before that day the disqualification takes effect on that day instead of the day when the person was dealt with.
@@ -90,7 +91,9 @@ Defined terms
 Defined termProvision(s)
 Chairman4(1)
 elected council member7B(1)
+executive officer7C(1)
 former office entitlement6C(1)
+Government entity7C(1)
 holding public office6C(1)
 member4(1)
 Minister of the Crown4(1)

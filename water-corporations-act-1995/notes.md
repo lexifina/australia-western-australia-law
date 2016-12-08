@@ -28,6 +28,7 @@ Public Sector Reform Act 2010 s. 87 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 7 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 4: The Water Corporations Act 1995 as at 7 Feb 2014 (includes amendments listed above)
 Associations Incorporation Act 2015 s. 231 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 6 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Now known as the Plumbers Licensing Act 1995.
 Now known as the Water Corporations Act 1995; short title changed (see note under s. 1).
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 4 is a validation provision.

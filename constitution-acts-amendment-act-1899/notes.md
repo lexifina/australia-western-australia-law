@@ -287,12 +287,13 @@ Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes 
  | Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
  | Health Services Act 2016 s. 288 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
  | Statutes (Repeals) Act 2016 Pt. 2 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
+ | Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 1 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 | 41 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))

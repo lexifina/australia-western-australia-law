@@ -28,6 +28,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 16 and Sch. 1 cl. 186 
  | Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 518: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+ | Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 8 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 The Western Australian Treasury Corporation Amendment Act 1992 s. 7(4) reads as follows:
 (4) Any agreement or arrangement entered into, or transaction effected, before the commencement of this section which would have been lawful and valid had —
 (a) section 10(2)(fa) and (fb) of the principal Act as inserted by subsection (1); and

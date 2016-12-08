@@ -43,9 +43,11 @@ Parliamentary Commissioner for Administrative Investigations appointed under the
 Parliamentary Inspector of the Corruption and Crime Commission appointed under the Corruption, Crime and Misconduct Act 2003.
 Public Sector Commissioner appointed under the Public Sector Management Act 1994.
 Senior executive officer within the meaning of the Public Sector Management Act 1994.
+An office —
+(a)referred to in the Salaries and Allowances Act 1975 section 6(1)(d) or (e); or
+(b)held by a person specified in column 2 of Schedule 2 to that Act for a Government entity as defined in section 7C(1) of that Act, whether or not the person is an executive officer as defined in that subsection.
 Solicitor-General appointed under the Solicitor-General Act 1969.
-A prescribed office within the meaning of the Salaries and Allowances Act 1975.
-[Division 2 inserted by No. 32 of 1994 s. 9(a); amended by No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 Sch. 2 cl. 6(1); No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 Sch. 1 cl. 30; No. 33 of 2010 s. 55; No. 39 of 2010 s. 73; No. 35 of 2014 s. 39.]
+[Division 2 inserted by No. 32 of 1994 s. 9(a); amended by No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 Sch. 2 cl. 6(1); No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 Sch. 1 cl. 30; No. 33 of 2010 s. 55; No. 39 of 2010 s. 73; No. 35 of 2014 s. 39; No. 46 of 2016 s. 11.]
 [Division 3 deleted by No. 32 of 1994 s. 9(a).]
 ## Part 2 — Offices or places vacated on election
 [Heading inserted by No. 19 of 2010 s. 14(5).]

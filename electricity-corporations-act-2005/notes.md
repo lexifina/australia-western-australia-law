@@ -14,6 +14,7 @@ Electricity Corporations Amendment Act 2013 Pt. 2 (s. 3-36) | 25 of 2013 | 18 De
 Reprint 2: The Electricity Corporations Act 2005 as at 18 Jul 2014 (includes amendments listed above)
 Electricity Corporations Amendment Act 2015 | 16 of 2015 | 25 Jun 2015 | s. 1 and 2: 25 Jun 2015 (see s. 2(a)); Act other than s. 1 and 2: 26 Jun 2015 (see s. 2(b))
 Associations Incorporation Act 2015 s. 216 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Deleted by the Public Sector Reform Act 2010 s. 57.
 Deleted by the Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 r. 5 and 6.
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
