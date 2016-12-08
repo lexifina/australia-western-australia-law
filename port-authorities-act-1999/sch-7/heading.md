@@ -63,4 +63,4 @@ vehicles or other things that are obstructing, or may obstruct, traffic in the p
 42.Any other matters relating to —
 (a) the convenience of shipping, or of operations to do with the storage, loading or unloading of cargo, or of the public, in a port; or
 (b) the performance of the functions imposed on a port authority by this Act.
-[Schedule 7 amended by No. 71 of 2003 s. 9; No. 7 of 2004 s. 70.]
+[Schedule 7 amended: No. 71 of 2003 s. 9; No. 7 of 2004 s. 70.]
