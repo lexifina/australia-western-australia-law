@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Gold Corporation Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gold Corporation Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
- | Short title | Number and year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
  | Gold Banking Corporation Act 1987 | 99 of 1987 | 18 Dec 1987 | s. 1 and 2: 18 Dec 1987; Sch. 3 cl. 1(1): 1 Jul 1987 (see Sch. 3 cl. 1(2)); Act other than s. 1 and 2 and Sch. 3 cl. 1(1): 30 Jun 1988 (see s. 2 and Gazette 30 Jun 1988 p. 2133)
  | Gold Banking Corporation Amendment Act 1988 | 5 of 1988 | 29 Jun 1988 | 29 Jun 1988 (see s. 2)
  | Acts Amendment (Gold Banking Corporation) Act 1990 Pt. 2 | 10 of 1990 | 31 Jul 1990 | 28 Sep 1990 (see s. 2 and Gazette 28 Sep 1990 p. 4981)
@@ -27,10 +27,12 @@ Compilation table
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 65 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 10 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 3 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Other notes
 Now known as the Western Australian Mint Act 1970, which is repealed by this Act.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
@@ -53,15 +55,6 @@ has the same effect after commencement, to the extent that it has any force or s
 (3) In this section —
 commencement means the time at which this Division comes into operation;
 Minister means the Minister to whom the administration of the Western Australian Treasury Corporation Act 1986 is committed.
-”.
-On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) had not come into operation. It reads as follows:
-“
-46.Gold Corporation Act 1987 amended
-(2) Schedule 2 of the Gold Corporation Act 1987 is amended as follows:
-(a) in clause 1 by deleting the definitions of “contributor” and “service”;
-(b) in clause 3(2)(c) by deleting “in a permanent capacity by any Crown instrumentality or other body which is, or is deemed to be, a department for the purposes of the Superannuation and Family Benefits Act 1938 or”;
-(c) in clause 4(1) by deleting “or otherwise was a contributor to units of pension or to the Provident Account under the Superannuation and Family Benefits Act 1938” and “or any existing accruing rights under the Superannuation and Family Benefits Act 1938”;
-(d) by deleting clause 4(2) and (3).
 ”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

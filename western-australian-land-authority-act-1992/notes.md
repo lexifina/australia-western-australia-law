@@ -25,6 +25,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 136 | 8 of 2009 | 21
 Standardisation of Formatting Act 2010 s. 41 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 88 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Western Australian Land Authority Act 1992 as at 10 Dec 2010 (includes amendments listed above)
+Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 7 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

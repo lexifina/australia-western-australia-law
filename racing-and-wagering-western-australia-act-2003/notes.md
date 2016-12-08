@@ -16,6 +16,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 106 | 8 of 2009 | 21
 Racing and Wagering Legislation Amendment Act 2009 Pt. 4 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Statutes (Repeals) Act 2014 s. 9 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
 Associations Incorporation Act 2015 s. 227 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div 5 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Under the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 7(2) the appointed day is 30 Jan 2004 (see Gazette 30 Jan 2004 p. 401).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 is a transitional provision that is of no further effect.
 The amendment in the State Superannuation Amendment Act 2007 s. 86 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
