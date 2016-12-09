@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electoral Act 1907 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electoral Act 1907 | 27 of 1907 (7 Edw. VII No. 27) | 20 Dec 1907 | 1 Mar 1908 (see s. 2)
@@ -102,21 +102,23 @@ Electoral Amendment Act 2014 Pt. 2 | 14 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s
 Statutes (Repeals and Minor Amendments) Act 2014 s. 11 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Electoral Amendment Act 2016 | 14 of 2016 | 11 Jul 2016 | s. 1 and 2: 11 Jul 2016 (see s. (2)(a)); Act other than s. 1 and 2: 17 Aug 2016 (see s. 2(b) and Gazette 16 Aug 2016 p. 3469)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 17: The Electoral Act 1907 as at 9 Dec 2016 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Other notes
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Part 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
-Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
+The Metropolitan Region Town Planning Scheme Act 1959 was repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
-In this reprint the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
+In this consolidation the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Electoral Reform) Act 1987 s. 19(2) reads as follows:
 (2) References to the Chief Electoral Officer in any written law shall, unless because of the context it would be inappropriate so to do, be read and construed as references to the Electoral Commissioner.
 The Acts Amendment (Electoral Reform) Act 1987 s. 21(2) reads as follows:
 (2) A Registrar or returning officer holding office immediately before the commencement of this Act shall, on and from that commencement, be deemed to have been appointed by the Electoral Commissioner.
-The Electoral Amendment (Political Finance) Act 1992 s. 8 is a transitional provision of no further effect.
+The Electoral Amendment (Political Finance) Act 1992 s. 8 is a transitional provision that is of no further effect.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Electoral Amendment Act 2000 s. 81(2) reads as follows:
 (2) The repeal of Schedule 3 does not affect the operation of the Electoral (Ballot Paper Forms) Regulations 1990.
@@ -132,14 +134,6 @@ by reason only of not being an Australian citizen as defined in the Electoral Ac
 by reason only of not being an Australian citizen as defined in the Electoral Act 1907 section 4(1).
 (4) In subsections (2) and (3) —
 commencement means the coming into operation of this section.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-……………………….. | …….
-Electoral Act 1907 | s. 5E(2)
-……………………….. | …….
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -203,7 +197,7 @@ eligible elector91(1), 99C
 eligible political party62C(1)
 eligible vote175LA(1)
 enrolment information4(1)
-enrolment officer42(1)
+enrolment officer42(1)(c)
 entity175
 excluded day71(1)
 existing party62J(1)
@@ -227,7 +221,7 @@ large district allowance16G(4)
 member62C(1)
 mentally impaired accused59(1)
 metropolitan area of Perth16H(2)
-modified penalty156(6), 156(13A)
+modified penalty156(6)(c)(iii) and (13A)(b)
 name113C(10)
 new address31AB(3)
 non-participating candidate156D(14)
@@ -247,7 +241,7 @@ person with judicial experience16A
 political gift199A(2)
 political party4(1)
 polling place4(1), 193(2)
-polling day69
+polling day69(b)
 preference mark146E(7)
 prepared155AB
 prescribed information25A(1a)
@@ -272,7 +266,7 @@ registrar, MIARB59(1)
 related political party62C(1)
 relevant citizenship law4(1)
 relevant day16A
-relevant election175O(2), 175Q(4)
+relevant election175O(2) and (4)
 relevant number4(1)
 relevant period191A(4)
 required deposit81(2)
@@ -294,7 +288,7 @@ tied candidates144(2), 145(3), Sch. 1 cl. 17
 transmitted211A(1)
 undue influence184
 vacancy156A
-valid and sufficient reason156(16)
+valid and sufficient reason156(16)(a)
 vote record4(1), 99E(1)
 voting ticket4(1)
 voting ticket square4(1)
