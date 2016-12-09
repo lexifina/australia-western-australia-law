@@ -1,7 +1,7 @@
 ## Schedule 1
 [Sections 146I, 156D]
 ## Counting of votes at Legislative Council elections
-[Heading inserted by No. 40 of 1987 s. 83.]
+[Heading inserted: No. 40 of 1987 s. 83.]
 1.The method of counting the votes to be used by the returning officer to ascertain the result of an election in a region shall be as provided in this Schedule.
 2.(1)In this Schedule —
 ballot paper includes a vote record;
@@ -45,4 +45,4 @@ and if on the completion of the transfer of the surplus votes of the elected can
 (b)the candidate whose name is on the slip obtained by the returning officer in accordance with clause 5 of Schedule 2 shall be excluded.
 18.Where a candidate is elected by reason that the number of first preference votes received by him, or the aggregate of first preference votes received by him and all other votes obtained by him on transfers under this Schedule, is equal to the quota, all the ballot papers expressing those votes shall be set aside as finally dealt with.
 19.For the purposes of this Schedule, a transfer under clause 4, 5 or 9 of all the surplus votes of an elected candidate, a transfer in accordance with clause 8(a) of all first preference votes of an excluded candidate or a transfer in accordance with clause 8(b) of all the votes of an excluded candidate that were transferred to him from a particular candidate each constitutes a separate transfer.
-[Schedule 1 inserted by No. 40 of 1987 s. 83; amended by No. 64 of 2006 s. 52; No. 14 of 2016 s. 27.]
+[Schedule 1 inserted: No. 40 of 1987 s. 83; amended: No. 64 of 2006 s. 52; No. 14 of 2016 s. 27.]
