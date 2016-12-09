@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 December 2016 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -192,6 +192,7 @@ Fish Resources Management Amendment Regulations 2016 | 18 Mar 2016 p. 743-5 | r.
 Fish Resources Management Amendment Regulations (No. 3) 2016 | 18 Mar 2016 p. 746 | r. 1 and 2: 18 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2016 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2016 | 4 Oct 2016 p. 4236-9 | r. 1 and 2: 4 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2016 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 5) 2016 | 7 Oct 2016 p. 4375-9 | r. 1 and 2: 7 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Oct 2016 (see r. 2(b))
+Reprint 14: The Fish Resources Management Regulations 1995 as at 9 Dec 2016 (includes amendments listed above)
 Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -258,11 +259,11 @@ eastern gulf land area3(1)
 farm lease144A(1)
 fillet3(1)
 finfish3(1), 16C, 65F(1A)
-fish processor’s licence3(1)
-fish trunk3(1)
 fishing boat licence3(1)
 fishing net3(1)
 fishing season38D(1)
+fish processor’s licence3(1)
+fish trunk3(1)
 form3(1)
 former authorisation holder129A
 freshwater finfish65E
