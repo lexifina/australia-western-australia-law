@@ -33,11 +33,10 @@ When and where: | When:a.m./p.m. on the day of20 . Where:
 Details of the offence and modified penalty:
 Section of ActDescription of OffenceModified Penalty $
 What you must do:
-______________________________________________________________________________
 1.You may dispose of this matter within 28 days of the service of this notice by paying the modified penalty in person at any Post Office or Post Office Agency.
 OR
 2.Elect to have this matter dealt with before a COURT by completing the Court Election on the reverse side.
-Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver’s Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter dealt with before a Court. ____________________________________________________________________________
+Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver’s Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter dealt with before a Court.
 Information about this notice:
 Issued at: by: Signature:
 Election for Court
@@ -67,7 +66,6 @@ WITHDRAWAL OF INFRINGEMENT NOTICE
 No. of notice:
 To:
 Postcode:
-______________________________________________________________________________
 AN INFRINGEMENT NOTICE SERVED ON YOU HAS BEEN WITHDRAWN AND NO FURTHER ACTION WILL BE TAKEN*/ A SUMMONS WILL BE ISSUED*
 Details of the withdrawn notice:
 Date of service: Alleged offence: Notice No.:
@@ -91,10 +89,8 @@ Where you must go: When: | TimeDateMonthYear and then from day to day until the 
 Information about this notice:
 Issued at: by: Signature: Telephone contact: | Date: (appointed person)
 If you do not attend or produce the documents:
-______________________________________________________________________________
 It is an offence not to comply with this summons unless you have a reasonable excuse.
 The maximum penalty to which you may be liable is $5 000.
-______________________________________________________________________________
 Form 6
 [reg. 173]
 Fish Resources Management Act 1994
@@ -104,19 +100,15 @@ No. of Notice:
 To:
 Postcode:
 You are prohibited from engaging in the following activity which is polluting, or likely to pollute, the aquatic environment:
-______________________________________________________________________________
-______________________________________________________________________________
 Information about the prohibition:
 Period of prohibition: Circumstances and times:
 Information about this notice:
 Issued at: by: Signature: Telephone contact: | The Minister for Fisheries
 If you contravene this notice:
-______________________________________________________________________________
 It is an offence to contravene this notice.
 The maximum penalty to which you may be liable is:
 For an individual: $25 000.
 For a body corporate: $50 000.
-______________________________________________________________________________
 Form 7
 [reg. 174]
 Fish Resources Management Act 1994
@@ -130,16 +122,13 @@ The notice served on you prohibiting you from an activity that was polluting, or
 Which notice is varied/revoked?
 No. of notice: Served: By: Time: | Date:
 **This is the variation of the notice.
-______________________________________________________________________________
 Information about this notice:
 Issued at: by: Signature: Telephone contact: | The Minister for Fisheries
 If you contravene this notice:
-______________________________________________________________________________
 It is an offence to contravene this notice.
 The maximum penalty to which you may be liable is:
 For an individual: $25 000.
 For a body corporate: $50 000.
-______________________________________________________________________________
 * Delete where not applicable.
 ** Score through this section if not applicable.
 Form 8
@@ -148,7 +137,7 @@ Fish Resources Management Act 1994
 DECLARATION REGARDING MORTALITY AND DISEASE OF PEARL OYSTERS
 Name: __________________________________________________________
 Address: ________________________________________________________
-________________________________________________________________
+________________________________________________________
 Phone no: _______________________________________________________
 I declare that:
 1.The sample of pearl oysters with which this declaration is submitted was taken on _____________________ from pearl oysters being held at (location of hatchery, quarantine site etc.) ___________________________________________________________
@@ -163,7 +152,7 @@ Fish Resources Management Act 1994
 CERTIFICATE OF HEALTH — PEARL OYSTERS
 Name: __________________________________________________________
 Address: ________________________________________________________
-________________________________________________________________
+________________________________________________________
 Phone no: _______________________________________________________
 I am an approved fish pathologist and certify that:
 1.This certificate has been issued in respect of a sample of pearl oysters marked ______________________ which was taken from pearl oysters being held at (location of hatchery, quarantine site etc.) _____________ _____________________ The sample was delivered to me for disease testing on _____________ by _________________________________
