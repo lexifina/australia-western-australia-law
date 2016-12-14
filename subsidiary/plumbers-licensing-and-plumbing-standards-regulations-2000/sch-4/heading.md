@@ -11,7 +11,7 @@ Alleged offence | Details of alleged offence:
 Description of alleged offence:
 Where and when:
 Amount of modified penalty | $
-Plumbing compliance officer who issued this notice | Name:
+Authorised person who issued this notice | Name:
 Signature:
 Date:
 What you must do | 1.You may elect to have this matter heard and determined by a court. To do this, complete the details in “Electing action by a court” on the reverse of this notice and return this notice to [details to be inserted here] within 28 days after the service of this notice. 2.If you do not wish to have this matter heard and determined by a court you may dispose of this matter by paying the modified penalty within 28 days after being given this notice (see “Paying the modified penalty” on the reverse of this notice). Should you not pursue either of the above options within 28 days, court proceedings may be taken against you. If convicted, you may be liable to a penalty of up to [insert relevant maximum penalty here].
@@ -21,7 +21,7 @@ Signature:
 Date:
 Address for service:
 Paying the modified penalty | You may pay the modified penalty — 1.BY POSTING your credit card details or a cheque or money order made payable to [details to be inserted here]; OR 2.IN PERSON to [details to be inserted here].
-[Form 1 inserted in Gazette 28 Jun 2004 p. 2462-3; amended in Gazette 14 Nov 2013 p. 5234.]
+[Form 1 inserted in Gazette 28 Jun 2004 p. 2462-3; amended in Gazette 14 Nov 2013 p. 5234; 13 Dec 2016 p. 5630.]
 Form 2
 Plumbers Licensing and Plumbing Standards Regulations 2000 r. 77(1) Withdrawal of Infringement Notice | Notice No:
 To [Details of alleged offender] | Family name:
