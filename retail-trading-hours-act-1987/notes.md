@@ -27,10 +27,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 45 | 8 of 2012 | 21 May 2
 Retail Trading Hours Amendment Act 2012 | 13 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (see s. 2(a)); s. 3-6: 26 Aug 2012 (see s. 2(b) and Gazette 17 Aug 2012 p. 3899)
 Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 1 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Reprint 4: The Retail Trading Hours Act 1987 as at 7 Aug 2015 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Retail Trading Hours Amendment Act 2016 Pt. 2 | 35 of 2016 | 16 Nov 2016 | To be proclaimed (see s. 2(b))
+Retail Trading Hours Amendment Act 2016 Pt. 2 | 35 of 2016 | 16 Nov 2016 | 14 Dec 2016 (see s. 2(b) and Gazette 13 Dec 2016 p. 5619)
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
 18.Validation
@@ -38,48 +35,6 @@ An order made, or purporting to have been made, under the Retail Trading Hours A
 (a) is taken to have been validly made under that section of that Act;
 (b) continues, on and after that commencement, to have effect and the force of law; and
 (c) in relation to an order made under section 5, 12, 13 or 14 of that Act that continues to have effect and the force of law under paragraph (b) — may be amended or revoked as if it had been made under section 12E of that Act as amended by this Act.
-On the date as at which this compilation was prepared, the Retail Trading Hours Amendment Act 2016 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Retail Trading Hours Act 1987 amended
-3.Act amended
-This Part amends the Retail Trading Hours Act 1987.
-4.Section 4 amended
-(1) After section 4(1) insert:
-(2A) Despite subsection (1), this Act does not apply to Rottnest Island.
-(2) In section 4(3):
-(a) delete “is used as —” and insert:
-is —
-(b) in paragraph (d) delete “and is”;
-(c) in paragraph (d) delete “running.” and insert:
-running; or
-(d) after paragraph (d) insert:
-(e) a retail shop located in a short-term market.
-(3) After section 4(3) insert:
-(4A) For the purposes of subsection (3)(e) a retail shop is located in a short-term market if —
-(a) it is one of a group of retail shops that are placed at a particular location on a particular day and removed from that location before midnight on that day; and
-(b) some or all of the retail shops in the group are operated by different persons; and
-(c) none of the shops in the group is a motor vehicle shop.
-5.Section 5 amended
-In section 5(2) delete “or 14B(4)”.
-6.Section 12 amended
-(1) Delete section 12(2) and insert:
-(2) Subsection (1) does not apply to a motor vehicle shop.
-(2) Delete section 12(4) and insert:
-(4) Subsection (3) does not apply to a motor vehicle shop.
-7.Section 12A deleted
-Delete section 12A.
-8.Section 14A amended
-In section 14A(1):
-(a) in paragraph (b) delete “paragraph; or” and insert:
-paragraph.
-(b) delete paragraphs (c) and (d).
-9.Sections 14B and 14C deleted
-Delete sections 14B and 14C.
-10.Section 15 amended
-In section 15(1)(e)(iii) delete “in, or prescribed for the purposes of, a relevant paragraph of section 14A(1).” and insert:
-in section 14A(1)(a) or prescribed for the purposes of section 14A(1)(b).
-11.Section 25 amended
-Delete section 25(2) and insert:
-(2) A person commits an offence if the person operates a retail shop that is certified to be a small retail shop under section 10(3)(c) and is not owned and operated in accordance with section 10(3)(a), (b), (ba), (bb), (bc), (bd) and (be).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
