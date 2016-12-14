@@ -4,8 +4,15 @@
  | Offences | Modified penalty
 r. 24(1) | Access to meters | $100
 r. 24(2) | Branches or fittings within 1 m of meter | $100
-r. 53(2) | Licensed plumbing contractors to give drainage diagrams to licensee | $100
+r. 39(1) r. 39(2) | Entering, swimming, bathing or washing anything in water supply works Without lawful authority, bringing an animal, or allowing an animal to enter or remain, on land where water supply works of a licensee are provided or are located and that is not open to the public | $400 $400
+r. 40(1) | Without lawful authority, camping on land controlled by a licensee or on which water service works are located other than in an area designated by authorised signs and in accordance with those signs | $400
+r. 40(2) | Without lawful authority, lighting, kindling, maintaining or using a campfire, barbeque or portable stove, or assisting another person to do so, on land controlled by a licensee or on which water service works are located other than in an area designated by authorised signs | $400
+r. 40A(2) | Without lawful authority, taking, or attempting to take (including by shooting, hunting or fishing) an animal in a prohibited area for a licensee’s reservoir | $400
+r. 41(2) | Littering on land controlled by a licensee or where water service works are located | $200
+r. 51B(1) | Using water supplied through a fire service connection other than for emergency purposes | $100
+r. 51B(2) | Owner of land failing to ensure that water supplied through a fire service connection is used only for emergency purposes | $100
 r. 77 | Use of scheme water in contravention of restrictions | $100
+[Division 1 amended in Gazette 13 Dec 2016 p. 5687-8.]
 ## Division 2 — Prescribed offences and modified penalties: forms
 Form 1 — Infringement notice
 Water Services Act 2012 Water Services Regulations 2013 INFRINGEMENT NOTICE | Infringement notice no.
@@ -18,7 +25,6 @@ Details of offence
 Date of issue | Date of issue
 Issuing officer | Name
 Office
-Signature
 Modified penalty | $
 Penalty | Individual | $ | You do not have to pay this amount. This is the maximum fine that can be imposed if you are prosecuted in a court and convicted of this offence.
 Body corporate | $
@@ -36,6 +42,7 @@ Notes to Form —
 1.The details should say what the alleged offender has done that is considered to be a contravention of the law.
 2.Delete this option if not applicable.
 3.Include here, when applicable, details of how a payment may be made electronically.
+[Form 1 amended in Gazette 13 Dec 2016 p. 5688.]
 Form 2 — Withdrawal of infringement notice
 Water Services Act 2012 Water Services Regulations 2013 WITHDRAWAL OF INFRINGEMENT NOTICE | Infringement notice no.
 Alleged offender | Name
