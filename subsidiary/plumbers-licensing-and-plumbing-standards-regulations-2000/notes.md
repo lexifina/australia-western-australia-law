@@ -33,6 +33,8 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations 2015 | 24 Apr 20
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2015 | 23 Jun 2015 p. 2183-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2016 | 29 Apr 2016 p. 1329-52 | r. 1 and 2: 29 Apr 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 33: 30 Apr 2016 (see r. 2(c)); r. 33: 1 May 2016 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 15 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2016 | 13 Dec 2016 p. 5619-27 | r. 1 and 2: 13 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2016 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2016 | 13 Dec 2016 p. 5627-30 | r. 1 and 2: 13 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2016 (see r. 2(b) and Gazette 13 Dec 2016 p. 5659)
 The Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62, and then subsequently changed to the Plumbers Licensing Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 193.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
@@ -49,7 +51,6 @@ Defined termProvision(s)
 advertisement25(2)
 airconditioning waste53(1)
 alternate memberSch. 2 cl. 4(1)
-alternative solution 3(1)
 apparatus for the treatment of sewerage3(1)
 application fee3(1)
 apprentice3(1)
@@ -60,6 +61,7 @@ area associated with a home3(1)
 AS/NZS3(1)
 authorised person74
 authorised work12(2), 13(3)
+authorised worker37
 business document25A(2)
 CertificateSch. 3 cl. 1
 certificate of compliance3(1)
@@ -72,8 +74,10 @@ deputy chairperson3(1)
 disciplinary complaint3(1)
 disciplinary matter3(1)
 drainage plumbing3(1)
+drainage plumbing diagram3(1)
 drainage plumbing work3(1)
 dwelling3(1)
+eligible remote community37
 emergency plumbing work3(1)
 entry warrant3(1)
 exempt work3(1)
@@ -81,6 +85,7 @@ existing pipes13A(4)
 expansion control valve13A(4)
 fitting3(1)
 fixture3(1), 45(4)
+Health Department37
 identification card3(1)
 inspection purposes67(2), 82
 legal practitioner3(1)
@@ -95,9 +100,11 @@ minor plumbing work3(1)
 mobile home3(1)
 new installation fee3(1)
 notice of intention3(1)
+performance solution3(1)
 permit3(1)
 permit fee3(1)
 permit holder3(1)
+permitted work37
 pipe3(1)
 place3(1)
 Plumbing Code3(1)
@@ -110,6 +117,7 @@ previous contractor or permit holder42(5)
 principal plumbing42(2), 45B(2)
 provisional tradesperson’s licence 3(1)
 provisional tradesperson’s licence (drainage plumbing)3(1)
+qualifying plumbing courses37
 register3(1)
 registered training providerSch. 3 cl. 1
 re-issue a licence or permit20A(1A)
@@ -121,6 +129,7 @@ restricted plumbing permit3(1)
 sanitary plumbing3(1)
 sanitary plumbing work3(1)
 serious offence3(1)
+service provider37
 sewer3(1)
 specified54(1)
 statement of attainmentSch. 3 cl. 1
