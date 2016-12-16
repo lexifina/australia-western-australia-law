@@ -220,7 +220,7 @@ Ending a periodic agreement
 41.2by either the lessor or the tenant by giving written notice of termination to the other party. The notice may be given at any time. The lessor must give at least 60 days notice and the tenant must give at least 21 days notice.
 Other grounds for ending agreement
 42.The Residential Tenancies Act 1987 also authorises the lessor and tenant to end this agreement on other grounds. The grounds for the lessor include sale of the residential premises, breach of this agreement by the tenant, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship. The grounds for the tenant include breach of this agreement by the lessor, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship.
-43.For more information, refer to the Residential Tenancies Act 1987 or contact the Department of Commerce on 1300 30 40 54 or visit www.commerce.wa.gov.au/ConsumerProtection.
+43.For more information, refer to the Residential Tenancies Act 1987 or contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
 44.Warning:
 44.1It is an offence for any person to obtain possession of the residential premises without an order of the Magistrates Court if the tenant does not willingly move out (a termination notice issued by the lessor or property manager is not a court order). The court may order fines and compensation to be paid for such an offence.
 44.2It is an offence for a tenant to fail to provide the lessor with a forwarding address when vacating the premises.
@@ -280,7 +280,7 @@ Date: ...................................
 in the presence of:
 ............................................ [Name of witness]
 ............................................ [Signature of witness]
-For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit www.commerce.wa.gov.au/ConsumerProtection.
+For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
 [Form 1AA inserted in Gazette 3 May 2013 p. 1757-76; amended in Gazette 21 Aug 2015 p. 3313-14.]
 FORM 1AB
 Residential Tenancies Act 1987
@@ -516,7 +516,7 @@ Tenant has been offered alternative social housing premises
 46.The lessor may issue the tenant a notice of termination of the tenancy agreement on the grounds that the lessor has offered the tenant alternative social housing premises ONLY after the lessor has notified the tenant in writing of the lessor’s decision and given the tenant an opportunity to seek a review of this decision and to make oral or written representations to the lessor why the agreement should not be terminated.
 Other grounds for ending agreement
 47.The Residential Tenancies Act 1987 also authorises the lessor and the tenant to end this agreement on other grounds. The grounds for the lessor include sale of the residential premises, breach of this agreement by the tenant, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship. The grounds for the tenant include breach of this agreement by the lessor, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship.
-48.For more information, refer to the Residential Tenancies Act 1987 or contact the Department of Commerce on 1300 30 40 54 or visit www.commerce.wa.gov.au/ConsumerProtection.
+48.For more information, refer to the Residential Tenancies Act 1987 or contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
 49.Warning:
 49.1It is an offence for any person to obtain possession of the residential premises without an order of the Magistrates Court if the tenant does not willingly move out (a termination notice issued by the lessor or property manager is not a court order). The court can order fines and compensation to be paid for such an offence.
 49.2It is an offence for a tenant to fail to provide the lessor with a forwarding address when vacating the premises.
@@ -570,7 +570,7 @@ Date: ...................................
 in the presence of:
 ............................................ [Name of witness]
 ........................................... [Signature of witness]
-For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit www.commerce.wa.gov.au/ConsumerProtection.
+For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
 [Form 1AB inserted in Gazette 3 May 2013 p. 1776-96; amended in Gazette 21 Aug 2015 p. 3314-15.]
 FORM 1AC
 Residential Tenancies Act 1987
@@ -610,7 +610,7 @@ If a dispute between a lessor and a tenant is to be decided by the court, it mus
 If you need to give the lessor a notice under the Residential Tenancies Act 1987, it should be in writing and can be given to the lessor or the property manager of the premises, someone living with the lessor who appears to be over the age of 16, or to the person who usually receives the rent.
 If the lessor needs to give you a notice under the Residential Tenancies Act 1987, they can do so by posting it to you or by giving it to someone living in the rented premises who appears to be over 16 or to the person who usually pays the rent.
 Where there are 2 or more lessors or tenants, notice only needs to be given to one of them.
-For information about the Magistrates Court, including what forms you should use, visit their website at www.magistratescourt.wa.gov.au or go to the Department of Commerce website at www.commerce.wa.gov.au/ConsumerProtection to view general information publications about disputes and about the Magistrates Court process.
+For information about the Magistrates Court, including what forms you should use, visit their website at <www.magistratescourt.wa.gov.au> or go to the Department of Commerce website at <www.commerce.wa.gov.au/ConsumerProtection> to view general information publications about disputes and about the Magistrates Court process.
 Further information
 Consumer Protection Division, Department of Commerce
 Perth office:Forrest Centre, 219 St Georges Terrace Perth, Western Australia 6000 (hours 8:30 a.m. — 5:00 p.m.)
@@ -658,7 +658,7 @@ If a dispute between a lessor and a tenant is to be decided by the court, it mus
 If you need to give the lessor a notice under the Residential Tenancies Act 1987, it should be in writing and can be given to the lessor or the property manager of the premises, someone living with the lessor who appears to be over the age of 16, or to the person who usually receives the rent.
 If the lessor needs to give you a notice under the Residential Tenancies Act 1987, they can do so by posting it to you or by giving it to someone living in the rented premises who appears to be over 16 or to the person who usually pays the rent.
 Where there are 2 or more lessors or tenants, notice only needs to be given to one of them.
-For information about the Magistrates Court, including what forms you should use, visit their website at www.magistratescourt.wa.gov.au or go to the Department of Commerce website at www.commerce.wa.gov.au/ConsumerProtection to view general information publications about disputes and about the Magistrates Court process.
+For information about the Magistrates Court, including what forms you should use, visit their website at <www.magistratescourt.wa.gov.au> or go to the Department of Commerce website at <www.commerce.wa.gov.au/ConsumerProtection> to view general information publications about disputes and about the Magistrates Court process.
 Further information
 Consumer Protection Division, Department of Commerce
 Perth office:Forrest Centre, 219 St Georges Terrace Perth, Western Australia 6000 (hours 8:30 a.m. — 5:00 p.m.)
@@ -794,7 +794,7 @@ Ending a periodic agreement
 40.2by either the lessor or the tenant by giving written notice of termination to the other party. The notice may be given at any time. The lessor must give at least 60 days notice and the tenant must give at least 21 days notice.
 Other grounds for ending agreement
 41.The Residential Tenancies Act 1987 also authorises the lessor and the tenant to end this agreement on other grounds. The grounds for the lessor include sale of the residential premises, breach of this agreement by the tenant, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship. The grounds for the tenant include breach of this agreement by the lessor, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship.
-42.For more information, refer to the Residential Tenancies Act 1987 or contact the Department of Commerce on 1300 30 40 54 or visit www.commerce.wa.gov.au/ConsumerProtection.
+42.For more information, refer to the Residential Tenancies Act 1987 or contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
 43.Warning:
 43.1It is an offence for any person to obtain possession of the residential premises without an order of the Magistrates Court if the tenant does not willingly move out (a termination notice issued by the lessor or property manager is not a court order). The court may order fines and compensation to be paid for such an offence.
 43.2It is an offence for a tenant to fail to provide the lessor with a forwarding address when vacating the premises.
@@ -850,7 +850,7 @@ IMPORTANT NOTES ABOUT THIS PROPERTY CONDITION REPORT
 3.At the end of the tenancy the premises must be inspected and the condition of the premises at that time will be compared to that stated in the original property condition report.
 4.A tenant is not responsible for fair wear and tear to the premises. Fair wear and tear is a general term for anything that occurs through ordinary use such as the carpet becoming worn in frequently used areas. Wilful and intentional damage, or damage caused by negligence, is not fair wear and tear.
 5.If you do not have enough space on the report, attach a separate sheet. All attachments should be signed and dated by all of the parties to the residential tenancy agreement.
-6. Information about the rights and responsibilities of lessors and tenants may be obtained by contacting the Department of Commerce on 1300 30 40 54 or visiting www.commerce.wa.gov.au/ConsumerProtection.
+6. Information about the rights and responsibilities of lessors and tenants may be obtained by contacting the Department of Commerce on 1300 30 40 54 or visiting <www.commerce.wa.gov.au/ConsumerProtection>.
 ADDRESS OF RESIDENTIAL PREMISES: ___________________________
  | Clean | Undamaged | Working | Tenant agrees | Comments
 ENTRY
