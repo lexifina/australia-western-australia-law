@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Metropolitan Redevelopment Authority Regulations 2011 | 30 Dec 2011 p. 5475-514 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2011 (see r. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Metropolitan Redevelopment Authority Amendment Regulations 2013 | 30 Aug 2013 p. 4102-3 | r. 1 and 2: 30 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2013 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2014 | 16 Dec 2014 p. 4762-3 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
+Metropolitan Redevelopment Authority Amendment Regulations 2016 | 16 Dec 2016 p. 5702-9 | r. 1 and 2: 16 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
