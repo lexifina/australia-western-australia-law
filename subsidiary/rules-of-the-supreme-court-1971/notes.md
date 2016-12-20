@@ -137,6 +137,10 @@ Supreme Court Amendment Rules 2014 | 19 Dec 2014 p. 4845-9 | r. 1 and 2: 19 Dec 
 Supreme Court Amendment Rules (No. 4) 2015 | 4 Sep 2015 p. 3696-8 | r. 1 and 2: 4 Sep 2015 (see r. 2(a)); Rules other than r. 1 and 2: 18 Sep 2015 (see r. 2(b))
 Supreme Court Amendment Rules (No. 3) 2015 | 13 Nov 2015 p. 4644-55 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); Rules other than r. 1 and 2: 27 Nov 2015 (see r. 2(b))
 Supreme Court Amendment Rules 2016 | 16 Nov 2016 p. 5185-216 | r. 1 and 2: 16 Nov 2016 (see r 2(a)); Rules other than r. 1 and 2: 23 Nov 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court (Arbitration) Rules 2016 r. 26 | 20 Dec 2016 p. 5819-85 | 3 Jan 2017 (see r. 2(b))
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -146,3 +150,9 @@ The commencement date of 1 Jul 1982 that was specified was before the date of ga
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
 Disallowed on 29 Oct 2013, see Gazette 1 Nov 2013 p. 4910.
+On the date as at which this compilation was prepared, the Supreme Court (Arbitration) Rules 2016 r. 26 had not come into operation. It reads as follows:
+26.Rules of the Supreme Court 1971 amended
+(1) This rule amends the Rules of the Supreme Court 1971.
+(2) Delete Order 60A rule 2(2)(a)(x) and insert:
+(x) the Supreme Court (Arbitration) Rules 2016;
+(3) Delete Order 81D.
