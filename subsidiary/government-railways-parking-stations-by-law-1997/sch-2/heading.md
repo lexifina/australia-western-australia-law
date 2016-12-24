@@ -35,7 +35,7 @@ Payment by phone: Please call 1300 276 468 (credit card payments only)
 Payment by internet: infringements.pta.wa.gov.au (credit card payments only)
 Biller ID: 1001089 Ref: Please refer to the infringement serial number printed at the top right hand corner on the reverse side of this form.
 Credit card only. Payments made online or over the phone must be made before 9.00 p.m. Western Australian Standard Time on the due date.
-[Form 1 amended in Gazette 12 Dec 2003 p. 5044 and 5045; 5 Nov 2013 p. 4948-9; 13 Jun 2014 p. 1900.]
+[Form 1 amended: Gazette 12 Dec 2003 p. 5044 and 5045; 5 Nov 2013 p. 4948-9; 13 Jun 2014 p. 1900.]
 Form 2
 [rule 28]
 Government Railways (Parking Stations) By-law 1997
@@ -66,4 +66,4 @@ Name ...................................
 Address .............................................
 ....................................... Signed (Responsible person for vehicle)
 ..................... (Date)
-[Form 2 amended in Gazette 12 Dec 2003 p. 5044 and 5045; 8 Jan 2015 p. 145-6.]
+[Form 2 amended: Gazette 12 Dec 2003 p. 5044 and 5045; 8 Jan 2015 p. 145-6.]
