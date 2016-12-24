@@ -98,6 +98,7 @@ Reprint 6: The Shipping and Pilotage (Ports and Harbours) Regulations 1966 as at
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2015 | 12 Jun 2015 p. 2029-30 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 27 May 2016 p. 1549-54 | 1 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Vessel Pilotage) Regulations 2016 Pt. 3 (other than r. 8(2)) | 16 Sep 2016 p. 3943-5 | 17 Sep 2016 (see r. 2(c))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 3) 2016 Pt. 3 | 23 Dec 2016 p. 5913-15 | 24 Dec 2016 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
