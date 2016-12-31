@@ -35,12 +35,12 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 6: The Marketing of Potatoes Act 1946 as at 27 Apr 2012 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 28 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-Marketing of Potatoes Amendment and Repeal Act 2016 s. 3-11 | 22 of 2016 | 12 Sep 2016 | 30 Sep 2016 (see s. 2(b))
+Marketing of Potatoes Amendment and Repeal Act 2016 Pt. 2 | 22 of 2016 | 12 Sep 2016 | s. 3-11: 30 Sep 2016 (see s. 2(b)); s. 12: 31 Dec 2016 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 19 and Pt. 5 Div. 13 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Marketing of Potatoes Amendment and Repeal Act 2016 s. 12 and s. 13(a) | 22 of 2016 | 12 Sep 2016 | s. 12: 31 Dec 2016 (see s. 2(c)); s. 13(a): to be proclaimed (see s. 2(d))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 19 and Pt. 5 Div. 13 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 19: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 13: to be proclaimed (see s. 2(1)(c))
+Marketing of Potatoes Amendment and Repeal Act 2016 s. 13(a) | 22 of 2016 | 12 Sep 2016 | s. 13(a): to be proclaimed (see s. 2(d))
 The provision in this Act repealing that Act was omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
@@ -69,104 +69,7 @@ This Division amends the Marketing of Potatoes Act 1946.
 305.Section 22B amended
 In section 22B(5) after “Health (Miscellaneous Provisions) Act 1911” insert:
 or the Public Health Act 2016
-On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 12 and 13(a) had not come into operation. They read as follows:
-12.Part 6 inserted
-At the end of the Act insert:
-Part 6 — Transitional provisions for Marketing of Potatoes Amendment and Repeal Act 2016
-45.Terms used
-In this Part, unless the contrary intention appears —
-assets —
-(a)means any legal or equitable estate or interest (whether present or future, whether vested or contingent and whether personal or assignable) in real or personal property of any description; and
-(b)includes money and securities, choses in action and documents;
-former Corporation means the Corporation as in existence immediately before transition day;
-liability means any liability, duty or obligation whether actual, contingent or prospective, liquidated or unliquidated, or whether owed alone or jointly or jointly and severally with any other person;
-new employer means a department of the Public Service of the State designated by the Minister by notice published in the Gazette;
-right means any right, power, privilege or immunity whether actual, contingent or prospective.
-46.Former Corporation abolished
-(1) On transition day, the former Corporation is abolished.
-(2) A person who, immediately before transition day, is a member of the former Corporation ceases to be a member on that day.
-47.Existing employees
-(1) In this section —
-existing employee means a person —
-(a)who, immediately before transition day, is employed by the former Corporation; and
-(b)whose contract of employment does not expire until after that day.
-(2) An existing employee, on and after transition day, is taken to be employed under this Act as an employee of the new employer.
-(3) Except as otherwise agreed by an existing employee, the operation of this section does not —
-(a) affect the employee’s remuneration; or
-(b) affect the employee’s existing or accruing rights in respect of annual leave, long service leave, sick leave or any other leave; or
-(c) affect any rights under a superannuation scheme; or
-(d) interrupt the continuity of the employee’s service.
-(4) For the purposes of this section —
-(a) an existing employee’s service with the former Corporation is taken to have been service with the new employer; and
-(b) the new employer may employ an existing employee otherwise than under the Public Sector Management Act 1994 Part 3, and that employee is to be employed subject to any relevant industrial award or agreement.
-48.Transfer of contracts for services
-A person engaged by the former Corporation under a contract for services that is in force immediately before transition day is taken to have been engaged, on and after transition day, by the new employer on the same terms and conditions for the remainder of the duration of the contract.
-49.Transfer of assets, liabilities, proceedings, remedies and immunities
-(1) On transition day —
-(a) the assets and rights of the former Corporation immediately before that day vest in or become, by force of this section, the property of the State; and
-(b) the liabilities of the former Corporation immediately before that day become, by force of this section, the liabilities of the State.
-(2) On and after transition day, any proceedings or remedy that, immediately before that day, might have been brought or continued by or available against or to the former Corporation may be brought or continued by, and are or is available against or to, the State.
-(3) As soon as is practicable after transition day, all papers, documents, minutes, books of account and other records (however compiled, recorded or stored) relating to the operations of the former Corporation are to be delivered to the Minister.
-50.Exemption from State tax
-(1) In this section —
-State tax includes —
-(a) duty chargeable under the Duties Act 2008; and
-(b) any other tax, duty, fee, levy or charge under a law of the State.
-(2) State tax is not payable in relation to —
-(a) anything that occurs by the operation of this Part; or
-(b) anything done (including a transaction entered into or an instrument or document of any kind made, executed, lodged or given) under this Part, or to give effect to this Part, or for a purpose connected with or arising out of giving effect to this Part.
-(3) The Minister may certify in writing that —
-(a) a specified thing occurred by operation of this Part; or
-(b) a specified thing was done under this Part, or to give effect to this Part, or for a purpose connected with or arising out of giving effect to this Part.
-(4) For all purposes and in all proceedings, a certificate under subsection (3) is sufficient evidence of the matters it certifies, unless the contrary is shown.
-51.Closure of accounts
-(1) As soon as is practicable after transition day, any account maintained by the former Corporation must be closed by the Minister and the moneys in the account credited to the Account.
-(2) The Minister must, by notice published in the Gazette, order that any money standing to the credit of the Account be credited to the Consolidated Account if the Minister is satisfied that the affairs of the former Corporation have been completely wound up.
-(3) The Minister must, by notice published in the Gazette, order that the Account be closed if the Minister is satisfied that —
-(a) there is no money standing to the credit of that account; and
-(b) there is no further money to be credited to that account.
-(4) On the publication of an order under subsection (3), the Account is closed.
-52.Agreements, instruments and documents
-(1) In this section —
-subsisting, in relation to an agreement, instrument or document, means subsisting immediately before transition day.
-(2) A subsisting agreement, instrument or document that contains a reference to the former Corporation has effect from that day as if that reference were amended to be a reference to the Minister.
-(3) Subsection (2) does not apply to an agreement or instrument to which the former Corporation was a party.
-(4) A subsisting agreement or instrument to which the former Corporation was a party has effect from transition day as if —
-(a) the Minister were substituted for the former Corporation as a party to the agreement or instrument; and
-(b) a reference to the former Corporation in the agreement or instrument were amended to be a reference to the Minister.
-(5) Subsection (2) or (4)(b) does not apply to a reference if —
-(a) regulations made under section 57 provide otherwise; or
-(b) that application would be inappropriate in the context in which the reference occurs.
-53.Completion of things commenced
-Anything commenced to be done by the former Corporation before transition day may be continued by the Minister so far as the doing of that thing is within the functions of the Minister.
-54.Continuing effect of things done
-(1) In this section —
-relevant act means an act, matter or thing done or omitted to be done before transition day by, to or in respect of the former Corporation.
-(2) To the extent that a relevant act has force or significance on or after transition day it is taken, from that day, to have been done or omitted by, to or in respect of the Minister so far as the act, matter or thing is relevant to the functions of the Minister.
-(3) This section does not affect the operation of any other provision of this Part.
-55.Effect on other instruments, rights and obligations
-The operation of this Part must not be regarded —
-(a) as a breach of contract or confidence or otherwise a civil wrong; or
-(b) as a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets, rights or liabilities or the disclosure of information; or
-(c) as giving rise to any remedy by a party to an instrument, or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any assets, rights or liabilities; or
-(d) as causing any contract or instrument to be void or otherwise unenforceable; or
-(e) as releasing or allowing the release of any surety.
-56.Interpretation Act 1984 not affected
-Except to the extent this Part expressly provides differently, the Interpretation Act 1984 applies in relation to the repeal of an enactment by the Marketing of Potatoes Amendment and Repeal Act 2016.
-57.Transitional regulations
-(1) In this section —
-publication day, for regulations made under subsection (2), means the day on which those regulations are published in the Gazette;
-specified means specified or described in regulations made under subsection (2);
-transitional matter means any matter of a transitional or savings nature arising from the enactment of the Marketing of Potatoes Amendment and Repeal Act 2016.
-(2) If there is no sufficient provision in this Part for dealing with a transitional matter, the Governor may make regulations prescribing matters necessary or convenient to be prescribed for the purpose of dealing with the transitional matter.
-(3) Regulations made under subsection (2) may provide that specified provisions of a written law —
-(a) do not apply to or in relation to a specified matter; or
-(b) apply with specified modifications to or in relation to a specified matter.
-(4) If regulations made under subsection (2) provide that a specified state of affairs is taken to have existed, or not to have existed, on and after a day that is earlier than the publication day but not earlier than transition day, the regulations have effect according to their terms.
-(5) If regulations contain a provision referred to in subsection (4), the provision does not operate so as —
-(a) to affect in a manner prejudicial to a person (other than the State or an authority of the State) the rights of that person existing before the publication day for those regulations; or
-(b) to impose liabilities on a person (other than the State or an authority of the State) in respect of an act done or omission made before the publication day for those regulations.
-(6) Regulations can only be made under subsection (2) within 24 months after the day on which the Marketing of Potatoes Amendment and Repeal Act 2016 receives the Royal Assent.
+On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 13(a) had not come into operation. It reads as follows:
 13.Repeals
 These written laws are repealed:
 (a) the Marketing of Potatoes Act 1946;
