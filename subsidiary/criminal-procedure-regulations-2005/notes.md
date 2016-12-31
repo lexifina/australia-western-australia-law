@@ -29,6 +29,7 @@ Criminal Procedure Amendment Regulations (No. 2) 2015 | 10 Feb 2015 p. 599 | r. 
 Criminal Procedure Amendment Regulations (No. 2) 2016 | 24 Jun 2016 p. 2317 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2016 (see r. 2(b))
 Criminal Procedure Amendment Regulations 2016 | 30 Sep 2016 p. 4173-4 | r. 1 and 2: 30 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Electronic Processes) Regulations 2016 Pt. 3 | 2 Dec 2016 p. 5385-7 | 3 Dec 2016 (see r. 2(b))
+Attorney General Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 2 | 30 Dec 2016 p. 5965-6 | 31 Dec 2016 (see r. 2(b))
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
 Defined terms
