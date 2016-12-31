@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Fair Trading (Retirement Villages Code) Regulations 2015 | 24 Mar 2015 p. 931-92 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1, 2 and Sch. 1 Div. 3 and 4: 1 Apr 2015 (see r. 2(c)); Sch. 1 Div. 3 and 4: 1 Oct 2015 (see r. 2(b))
 Fair Trading (Retirement Villages Code) Amendment Regulations 2015 | 6 Oct 2015 p. 3965-6 | r. 1 and 2: 6 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2015 (see r. 2(b))
 Retirement Villages Regulations Amendment Regulations 2016 Pt. 2 | 30 Jun 2016 p. 2713-34 | 1 Jul 2016 (see r. 2(b))
+Fair Trading (Retirement Villages Code) Amendment Regulations 2016 | 30 Dec 2016 p. 5964 | r. 1 and 2: 30 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2016 (see r. 2(b))
 These regulations expire at the end of 31 March 2018 (see r. 3(2)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
