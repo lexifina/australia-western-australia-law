@@ -1,0 +1,28 @@
+## Schedule 7A — Forms: notices about acquisition of shares
+[r. 35 and 36]
+[Heading inserted in Gazette 2 Dec 2016 p. 5445.]
+## Form 1 — Compulsory acquisition notice (s. 355(1))
+1. | To:(name of dissenting shareholder) of:(address of dissenting shareholder)
+ | A.The transferee (insert name of person giving notice) on (insert date) made an offer to the holders of *shares in (insert name of co-operative) Co-operative Limited/*shares included in a class of shares in (insert name of co-operative) Co-operative Limited for the transfer of those shares to the transferee, not being an offer made under a scheme or contract to which Part 11 Division 2 of the Act applies; and B.The scheme or contract involving the transfer of those shares to the transferee was on or before (insert date) approved by the holders of at least 90% in nominal value of all the shares concerned, other than excluded shares; and C.You are a dissenting shareholder.
+2. | The transferee gives you notice under section 355(1) of the Act that the transferee desires to acquire those shares held by you.
+3. | You are entitled under section 355(2) of the Act to ask the transferee, by written notice given to the transferee within one month after the day on which this notice is given, to give you a statement in writing of the names and addresses of all other dissenting shareholders as shown in the register of members.
+*4. | You are entitled not later than the expiration of 28 days after the date on which this notice is given or 14 days after the date on which a statement is supplied to you under section 355(2) of the Act, whichever is the later, to elect, by notice to the transferee, which of the alternative terms offered to the approving shareholders under the scheme or contract you prefer. The alternative terms are as follows: (insert details)
+5. | Unless, on application made by you within 28 days after the date on which this notice is given or within 14 days after a statement is supplied to you under section 355(2) of the Act, the Supreme Court otherwise orders, the transferee will be entitled and bound, subject to section 355(2), to acquire your shares —
+ | (a)on the terms on which, under the scheme or contract, the shares of the approving shareholders are to be transferred to the transferee; or (b)if alternative terms were offered —
+ | (i)on the terms for which you have elected; or (ii)if you have not so elected, on whichever of those terms the transferee determines unless the Supreme Court otherwise orders.
+Dated .............. | ...................................................................... Signature of transferee
+* Strike out words not applicable.
+## Form 2 — Notice to remaining shareholders (s. 357(1)(a))
+1. | To:(name of remaining shareholder) of:(address of remaining shareholder)
+ | A.The transferee (insert name of person giving notice) on (insert date) made offers to the holders of *shares in (insert name of co-operative) Co-operative Limited/*shares included in a class of shares in (insert name of co-operative) Co-operative Limited for the transfer of those shares to the transferee, not being offers made under a scheme or contract to which Part 11 Division 2 of the Act applies; and B.Under the scheme or contract the transferee became on (insert date) beneficially entitled to shares in that co-operative which together with any other shares in that co-operative to which the transferee, or the transferee and any body corporate related to the transferee, is beneficially entitled, comprise or include 90% in nominal value of the shares concerned; and C.You are the holder of remaining shares *in that co-operative/*included in that class of shares in that co-operative and have not assented to the scheme or contract or been given notice in respect of those shares by the transferee under section 355(1) of the Act.
+2. | The transferee gives you notice under section 357(1)(a) of the Act that under that scheme or contract the transferee on (insert date) became beneficially entitled to shares in (insert name of co-operative) Co-operative Limited and those shares together with any other shares in that co-operative to which the transferee, or the transferee and any body corporate related to the transferee, is beneficially entitled, comprise or include 90% in nominal value of the shares *in that co-operative/*included in that class of shares in that co-operative.
+3. | You are entitled under section 357(1)(b) of the Act within 3 months after being given this notice, by notice to the transferee to require the transferee to acquire your shares.
+*4. | You are entitled under section 357(1)(b) of the Act, within 3 months after being given this notice to elect by notice to the transferee which of the alternative terms offered to the approving shareholders under the scheme or contract you will accept. The alternative terms are as follows: (insert details)
+5. | If you require the transferee to acquire the shares held by you, the transferee will be entitled and bound to acquire those shares —
+ | (a)on the terms on which the scheme or contract were offered to the approving shareholders; or (b)if alternative terms were offered —
+ | (i)on the terms for which you have elected; or (ii)if you have not so elected, on whichever of those terms the transferee determines; or
+ | (c)on such other terms as are agreed or as the Supreme Court on the application of the transferee or of yourself orders.
+Dated .............. | ...................................................................... Signature of transferee
+* Strike out words not applicable.
+[Schedule 7A inserted in Gazette 2 Dec 2016 p. 5445-8.]
+[Schedule 8 deleted in Gazette 2 Dec 2016 p. 5448.]
