@@ -28,9 +28,6 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Racing and Wagering Western Australia Amendment Regulations 2016 | 4 Mar 2016 p. 628-9 | r. 1 and 2: 4 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2016 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2016 | 8 Mar 2016 p. 668 | r. 1 and 2: 8 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2016 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations (No. 3) 2016 | 24 Jun 2016 p. 2341-2 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 7 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 5.Transitional provision
@@ -42,15 +39,6 @@ old Rules of Harness Racing has the meaning given to that term in section 4 of t
 old Rules of Racing has the meaning given to that term in section 4 of the Racing and Gambling Legislation Amendment and Repeal Act 2003;
 old warning off notice means a notice having the same or similar effect as a notice that could be made by RWWA in accordance with regulation 72(1) of the Racing and Wagering Western Australia Regulations 2003 (as inserted by regulation 4 of these regulations);
 RWWA has the meaning given to that term in section 3(1) of the Racing and Wagering Western Australia Act 2003.
-On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Racing and Wagering Western Australia Regulations 2003 amended
-14.Regulations amended
-This Part amends the Racing and Wagering Western Australia Regulations 2003.
-15.Schedule 1 amended
-(1) In Schedule 1 item 1 delete “456” and insert:
-461
-(2) In Schedule 1 item 2 delete “126” and insert:
-127
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

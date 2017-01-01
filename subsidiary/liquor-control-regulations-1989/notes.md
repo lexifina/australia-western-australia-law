@@ -128,9 +128,6 @@ Liquor Control Amendment Regulations (No. 5) 2016 | 24 Jun 2016 p. 2340-1 | r. 1
 Liquor Control Amendment Regulations (No. 3) 2016 | 26 Jul 2016 p. 3153-4 | r. 1 and 2: 26 Jul 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 4(2): 27 Jul 2016 (see r. 2(b)); r. 4(2): 1 Aug 2016 (see r. 2(c) and Gazette 26 Jul 2016 p. 3167)
 Liquor Control Amendment Regulations (No. 4) 2016 | 6 Sep 2016 p. 3828-9 | r. 1 and 2: 6 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2016 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 7) 2016 | 6 Sep 2016 p. 3830-1 | r. 1 and 2: 6 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 6 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
@@ -145,57 +142,6 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are tran
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
 Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
-On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Liquor Control Regulations 1989 amended
-11.Regulations amended
-This Part amends the Liquor Control Regulations 1989.
-12.Regulation 26 amended
-In regulation 26(1aa):
-(a) in paragraph (a) delete “$274; or” and insert:
-$277; or
-(b) in paragraph (b) delete “$550.” and insert:
-$556.
-13.Schedule 3 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 3 it. 1 | 3 417 | 3 454
-Sch. 3 it. 2 | 877 | 886
-Sch. 3 it. 3 | 840 | 849
-Sch. 3 it. 4 | 578 | 584
-Sch. 3 it. 5 | 285 | 288
-Sch. 3 it. 6(b) | 109 | 110
-Sch. 3 it. 6(c) | 224 | 226
-Sch. 3 it. 6(d) | 1 109 | 1 137
-Sch. 3 it. 6(e) | 2 251 | 2 275
-Sch. 3 it. 6(f) | 4 511 | 4 560
-Sch. 3 it. 7(a)(ii) | 461 | 466
-Sch. 3 it. 7(b) | 345 | 348
-Sch. 3 it. 7(c) | 345 | 348
-Sch. 3 it. 7(e) | 1 156 | 1 168
-Sch. 3 it. 8(a) | 109 | 110
-Sch. 3 it. 8(b) | 224 | 226
-Sch. 3 it. 8(c) | 1 125 | 1 137
-Sch. 3 it. 8(d) | 2 251 | 2 275
-Sch. 3 it. 8(e) | 4 511 | 4 560
-Sch. 3 it. 10A(a) | 163 | 164
-Sch. 3 it. 10A(b) | 125 | 126
-Sch. 3 it. 10(a) | 158 | 159
-Sch. 3 it. 10(b) | 108 | 109
-Sch. 3 it. 11 | 395 | 399
-Sch. 3 it. 12 | 229 | 231
-Sch. 3 it. 15(a) | 235 | 237
-Sch. 3 it. 15(b)(i) | 109 | 110
-Sch. 3 it. 15(b)(ii) | 224 | 226
-Sch. 3 it. 15(b)(iii) | 1 125 | 1 137
-Sch. 3 it. 15(b)(iv) | 2 251 | 2 275
-Sch. 3 it. 15(b)(v) | 4 511 | 4 560
-Sch. 3 it. 17 | 274 | 277
-Sch. 3 it. 18 | 229 | 231
-Sch. 3 it. 19A | 240 | 242
-Sch. 3 it. 19B | 219 | 221
-Sch. 3 it. 19C | 262 | 264
-Sch. 3 it. 23 | 141 | 142
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -19,17 +19,7 @@ Reprint 2: The Casino Control Regulations 1999 as at 6 Mar 2009 (includes amendm
  | Reprint 3: The Casino Control Regulations 1999 as at 4 Apr 2014 (includes amendments listed above)
  | Casino Control Amendment Regulations 2014 | 14 Nov 2014 p. 4280-1 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see. r. 2(b))
  | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 4 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see. r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Casino Control Regulations 1999 amended
-7.Regulations amended
-This Part amends the Casino Control Regulations 1999.
-8.Regulation 4 amended
-In regulation 4 delete “$151.” and insert:
-$152.
+ | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

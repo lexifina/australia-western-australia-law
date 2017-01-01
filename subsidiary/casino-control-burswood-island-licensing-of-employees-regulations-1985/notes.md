@@ -38,23 +38,7 @@ Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulat
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2014 | 14 Nov 2014 p. 4281-2 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
  | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 3 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see r. 2(b))
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2016 | 4 Oct 2016 p. 4241 | r. 1 and 2: 4 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 amended
-5.Regulations amended
-This Part amends the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985.
-6.Regulation 6 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 6(1)(a) | $456 | $461
-r. 6(1)(b) | $285 | $288
-r. 6(1a)(a) | $126 | $127
-r. 6(1a)(b) | $126 | $127
-r. 6(2)(a) | $330 | $333
+ | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

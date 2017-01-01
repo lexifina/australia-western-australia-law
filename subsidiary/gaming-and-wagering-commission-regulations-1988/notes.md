@@ -67,9 +67,6 @@ Gaming and Wagering Commission Amendment Regulations 2014 | 14 Nov 2014 p. 4282-
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 5 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2015 | 1 Dec 2015 p. 4823-4 | r. 1 and 2: 1 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2015 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2016 | 6 Sep 2016 p. 3831-3 | r. 1 and 2: 6 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -77,36 +74,6 @@ Deleted by the Acts Amendment (Continuing Lotteries) Act 2000 s. 5.
 The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 were repealed in Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
-On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Gaming and Wagering Commission Regulations 1988 amended
-9.Regulations amended
-This Part amends the Gaming and Wagering Commission Regulations 1988.
-10.Schedule 1 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 it. 4(c) | 113 | 114
-Sch. 1 it. 5(f)(i) | 224 | 226
-Sch. 1 it. 5(f)(ii) | 374 | 378
-Sch. 1 it. 5(f)(iii) | 418 | 422
-Sch. 1 it. 5(g)(i) | 151 | 152
-Sch. 1 it. 5(g)(ii) | 224 | 226
-Sch. 1 it. 6(d)(ii) | 113 | 114
-Sch. 1 it. 6(d)(iii) | 219 | 221
-Sch. 1 it. 6(d)(iv) | 451 | 455
-Sch. 1 it. 6(d)(v) | 690 | 697
-Sch. 1 it. 6(da) | 151 | 152
-Sch. 1 it. 6(f)(i) | 180 | 181
-Sch. 1 it. 6(f)(ii) | 330 | 333
-Sch. 1 it. 6(f)(iii) | 412 | 416
-Sch. 1 it. 6(g)(i) | 119 | 120
-Sch. 1 it. 6(g)(ii) | 180 | 181
-Sch. 1 it. 8(a) | 151 | 152
-Sch. 1 it. 8(b) | 151 | 152
-Sch. 1 it. 8(c) | 151 | 152
-Sch. 1 it. 9 | 247 | 249
-Sch. 1 it. 10 | 324 | 327
-Sch. 1 it. 11 | 301 | 304
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
