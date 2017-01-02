@@ -44,4 +44,4 @@ Units of pension contributed for before 1 July 1964 | Increase in pension to be 
 40 ....................... | 4.00
 41 ....................... | 4.10
 42 ....................... | 4.20
-[Fifth Schedule inserted by No. 78 of 1967 s.9; amended by No. 6 of 1993 s.11.]
+[Fifth Schedule inserted: No. 78 of 1967 s. 9; amended: No. 6 of 1993 s. 11.]

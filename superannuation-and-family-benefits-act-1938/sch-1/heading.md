@@ -54,4 +54,4 @@ Age next birthday | Contribution on first 2 units | Contribution for each additi
 63 ....................................... | 12.71 | 6.35
 64 ....................................... | 24.99 | 12.49
 65 ....................................... | 25.41 | 12.70
-[First Schedule inserted by No. 106 of 1965 s.21.]
+[First Schedule inserted: No. 106 of 1965 s. 21.]
