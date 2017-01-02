@@ -88,13 +88,13 @@ Industrial Legislation Amendment Act 2011 Pt. 3 | 53 of 2011 | 11 Nov 2011 | 1 A
 Reprint 14: The Industrial Relations Act 1979 as at 24 Aug 2012 (includes amendments listed above)
 Workforce Reform Act 2014 Pt. 2 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2(b) and Gazette 27 Jun 2014 p. 2301)
 Health Services Act 2016 s. 295 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Universities Legislation Amendment Act 2016 Pt. 7 Div. 4 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Statutes (Repeals) Act 2016 Pt. 2 Div 3 and Pt. 3 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 18 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-Universities Legislation Amendment Act 2016 Pt. 7 Div. 4 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
@@ -133,14 +133,6 @@ This Division amends the Industrial Relations Act 1979.
 62.Section 7 amended
 In section 7(1) in the definition of public authority delete “government or regional local government;” and insert:
 government, regional local government or regional subsidiary;
-On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 4 had not come into operation. It reads as follows:
-Part 7 — Amendments to and repeal of other Acts
-Division 4 — Industrial Relations Act 1979 amended
-182.Act amended
-This Division amends the Industrial Relations Act 1979.
-183.Section 7 amended
-In section 7(1) in the definition of post-secondary education institution delete “Curtin University of Technology Act 1966,” and insert:
-Curtin University Act 1966,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
