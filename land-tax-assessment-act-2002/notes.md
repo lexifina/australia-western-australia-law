@@ -32,9 +32,6 @@ Taxation Legislation Amendment Act 2015 Pt. 2 Div. 1 and Pt. 3 | 1 of 2015 | 25 
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 3 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 Taxation Legislation Amendment Act (No. 3) 2015 Pt. 3 | 15 of 2015 | 26 May 2015 | 27 May 2015 (see s. 2(c))
 Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
@@ -52,20 +49,6 @@ commencement day means the day on which this Part comes into operation.
 The Commissioner of State Revenue must make any reassessment necessary to give effect to the amendments effected by this Part.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33(4) is not included because the subsection it sought to amend had been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the amendment purported to come into operation.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 had not come into operation. It reads as follows:
-Part 7 — Amendments to and repeal of other Acts
-Division 5 — Land Tax Assessment Act 2002 amended
-184.Act amended
-This Division amends the Land Tax Assessment Act 2002.
-185.Section 33 amended
-In section 33(4):
-(a) delete paragraph (b) and insert:
-(b) Curtin University established under the Curtin University Act 1966;
-(b) delete paragraph (d) and insert:
-(d) Edith Cowan University established under the Edith Cowan University Act 1984;
-186.Section 44 deleted
-Delete section 44.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

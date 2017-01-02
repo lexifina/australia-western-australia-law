@@ -14,17 +14,7 @@ Compilation table
 Teacher Registration Act 2012 s. 165 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2014 r. 4 published in Gazette 17 Apr 2014 p. 1075-6 | 18 Apr 2014 (see r. 2(b))
 Reprint 2: The Oaths, Affidavits and Statutory Declarations Act 2005 as at 4 Dec 2015 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Universities Legislation Amendment Act 2016 Pt. 7 Div. 6 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 6 had not come into operation. It reads as follows:
-Part 7 — Amendments to and repeal of other Acts
-Division 6 — Oaths, Affidavits and Statutory Declarations Act 2005 amended
-187.Act amended
-This Division amends the Oaths, Affidavits and Statutory Declarations Act 2005.
-188.Schedule 2 amended
-In Schedule 2 item 1 in the 1st bullet point delete “of Technology”.
+ | Universities Legislation Amendment Act 2016 Pt. 7 Div. 6 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
