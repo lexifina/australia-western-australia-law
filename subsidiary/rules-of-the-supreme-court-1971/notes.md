@@ -137,9 +137,6 @@ Supreme Court Amendment Rules 2014 | 19 Dec 2014 p. 4845-9 | r. 1 and 2: 19 Dec 
 Supreme Court Amendment Rules (No. 4) 2015 | 4 Sep 2015 p. 3696-8 | r. 1 and 2: 4 Sep 2015 (see r. 2(a)); Rules other than r. 1 and 2: 18 Sep 2015 (see r. 2(b))
 Supreme Court Amendment Rules (No. 3) 2015 | 13 Nov 2015 p. 4644-55 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); Rules other than r. 1 and 2: 27 Nov 2015 (see r. 2(b))
 Supreme Court Amendment Rules 2016 | 16 Nov 2016 p. 5185-216 | r. 1 and 2: 16 Nov 2016 (see r 2(a)); Rules other than r. 1 and 2: 23 Nov 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Supreme Court (Arbitration) Rules 2016 r. 26 | 20 Dec 2016 p. 5819-85 | 3 Jan 2017 (see r. 2(b))
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
@@ -150,9 +147,177 @@ The commencement date of 1 Jul 1982 that was specified was before the date of ga
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
 Disallowed on 29 Oct 2013, see Gazette 1 Nov 2013 p. 4910.
-On the date as at which this compilation was prepared, the Supreme Court (Arbitration) Rules 2016 r. 26 had not come into operation. It reads as follows:
-26.Rules of the Supreme Court 1971 amended
-(1) This rule amends the Rules of the Supreme Court 1971.
-(2) Delete Order 60A rule 2(2)(a)(x) and insert:
-(x) the Supreme Court (Arbitration) Rules 2016;
-(3) Delete Order 81D.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Accountant4(1)
+Act4(1), 1, 1, 1(1), 1, 1, 1, 1, 1, 1, 1(1), 1, 1(1), 1(1), 1, 1(1)
+action for personal injuries1
+additional authority1
+addressee1(1)
+Admiralty Rules9(1)
+ancillary order1
+another court1
+any relevant scale11(1)
+appeal1
+appeal notice1
+applicant1, 1, 1
+application1(1)
+approved mediator1
+Australian diplomatic or consular agent4(1)
+case4(1), 1
+case management direction1
+case management registrar4(1)
+case manager4(1), 1
+Cause Book4(1)
+Central Authority1
+Central Office4(1)
+CEO1
+certificate5(1A)
+certificate of service1
+certifying authority1
+challenged conduct 1(1)
+challenged decision1(1)
+civil proceedings1
+claim25(1), 1(1)
+claimant25(1)
+CMC List1
+CMC List case1
+CMC List judge1
+commencement day4(1)
+concluded1
+conduct1(1)
+conduct money1(1)
+confiscable property declaration1
+Confiscation Act 20001
+consular agent4(1)
+contemnor1
+Convention country1
+costs4(1)
+Court4(2)
+Court expert1
+court of rendition1(1)
+crime-used property substitution declaration1
+criminal benefits declaration1
+cross-vesting laws1
+defendant1
+described1
+description1
+diplomatic agent4(1)
+document1A, 1
+Electoral Commissioner1
+enforcement1(1)
+enforcement order1
+examination order1
+examiner4(1)
+expert1
+file4(1)
+filed4(1)
+filing4(1)
+first offer3(7)
+folio4(1)
+foreign judicial document1
+form4(1)
+former Order 62A4(1)
+forwarding authority1
+freezing notice1
+freezing order1, 2(1), 1
+geographical address4(1)
+grant1
+Hague Convention1
+Inactive Cases List21
+independent solicitors6(1)
+initiating process1
+inspection1A
+interested non-party1
+interim order1
+interstate confiscation declaration1
+interstate freezing order1
+interstate lawyer1
+issuing officer1(1)
+issuing party1(1)
+judgment1
+land1
+limitation period1(1)
+list of documents5(3)
+local judicial document1
+local roll1
+master4(1)
+medical evidence1
+medical report1
+monitoring order1
+month1
+mortgage1(1), 1(2), 7(1)
+mortgage action4(1), 1(1)
+mortgagee1(2), 1(2), 7(1)
+mortgagor1(2), 1(2), 7(1)
+non-party3(2), 5(1)
+object)2(2)
+objection1
+officer4(1)
+official channel1
+originating summons4(1)
+own costs order25(1)
+party1(6)
+person under disability24(1), 1
+personal property situate within the jurisdiction1(2)
+place of rendition1(1)
+plaintiff4
+possession1
+potential party3(1), 4(1)
+practitioner4(1)
+premises1
+prescribed fee4(1)
+prescribed rate7(3)
+primary court1
+primary court case11(1)
+primary court’s transcript1
+privilege1
+probate action4(1), 1(2)
+proceeding1
+process1
+production order1
+proper officer4(1)
+provisional decision7(2)
+receiver4(1)
+record5(1)
+registrar4(1)
+Registry1(3), 1
+remedy1(1)
+represented person1
+request for service abroad1
+request for service in this jurisdiction1
+respondent1, 1
+review order1(1)
+reviewable conduct1(1)
+reviewable decision1(1)
+RT (AD) Act1
+rules4(1)
+rules of court4(1)
+said Act1(1), 1
+search order1
+second offer3(7)
+section1, 1(1), 1(1), 1(1)
+service details4(1)
+settlement10(3)
+sham transaction order1
+special federal matter1
+subpoena1(1)
+subpoena to attend to give evidence1(2)
+subpoena to produce1(3)
+sufficient time10(3)
+Supreme Court (full bench)1
+suspension order1
+taxing officer4(1)
+testamentary script1(3)
+these rules4(1)
+third party5(5)
+this jurisdiction1
+to file4(1)
+transitional proceedings4(1)
+trial4(1)
+tribunal8(6)
+unexplained wealth declaration1
+will1(3)
+working day4(1)
+writ4(1), 1(1)
