@@ -45,6 +45,10 @@ Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment
 Reprint 6: The Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 as at 23 Jan 2015 (includes amendments listed above)
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2015 | 5 May 2015 p. 1596 | r. 1 and 2: 5 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Public Health) Regulations 2016 Pt. 24 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 references in any law to the Health Department shall be read as references to the Department of Health.
@@ -52,6 +56,72 @@ Now known as the Health (Treatment of Sewage and Disposal of Effluent and Liquid
 The Bacteriolytic Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations 1989 r. 32 is a transitional provision that is of no further effect.
 The Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations (No. 2) 1997 is a transitional and savings provision that is of no further effect.
 If, because of an error made in r. 2, the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2004 did not come into operation before 24 Aug 2004, the amendments were made on that day by the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 4) 2004, but otherwise the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 4) 2004 do not come into operation.
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 24 had not come into operation. It reads as follows:
+Part 24 — Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 amended
+85.Regulations amended
+This Part amends the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974.
+86.Regulation 33 amended
+In regulation 33(4) delete “or an inspector”.
+87.Regulation 36 amended
+In regulation 36(4) delete “or inspector”.
+88.Regulation 41 amended
+In regulation 41(1), (2) and (4) delete “inspector” and insert:
+authorised officer
+89.Regulation 42C amended
+In regulation 42C(3), (4) and (6) delete “Executive Director” and insert:
+Chief Health Officer
+90.Schedule 5 amended
+(1) In Schedule 5 Form No. 1:
+(a) delete “HEALTH ACT 1911” and insert:
+HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
+(b) delete “Executive Director, Public Health and Scientific Support Services:” and insert:
+Chief Health Officer:
+(c) delete “Health Act 1911.” and insert:
+Health (Miscellaneous Provisions) Act 1911.
+(2) In Schedule 5 Form No. 2:
+(a) delete “HEALTH ACT 1911” and insert:
+HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
+(b) delete “Health Act 1911.” and insert:
+Health (Miscellaneous Provisions) Act 1911.
+(c) delete:
+.............................................. EXECUTIVE DIRECTOR, PUBLIC HEALTH AND SCIENTIFIC SUPPORT SERVICES
+and insert:
+.............................................. CHIEF HEALTH OFFICER
+91.Various references to “environmental health officer” amended
+In the provisions listed in the Table delete “environmental health officer” (each occurrence) and insert:
+authorised officer
+Table
+r. 10(1), (2)(a), (2a), (3) and (4) | r. 11
+r. 12 | r. 13
+r. 33(2) and (4) | r. 36(4)
+r. 43(a) | r. 50(1)(b)(i), (iii) and (d)(xi) and (2)
+92.Various references to “Executive Director, Public Health” amended
+In the provisions listed in the Table:
+(a) delete “Executive Director, Public Health” (each occurrence) and insert:
+Chief Health Officer
+(b) delete “Executive Director, Public Health” (each occurrence) and insert:
+Chief Health Officer
+Table
+r. 3 def. of approved par. (b) | r. 3 def. of approving body par. (b)
+r. 3 def. of combined system | r. 3 def. of receptacle for drainage par. (b)
+r. 4(2)(a) | r. 4A(2), (3)(a) and (b), (4), (5), (6) and (7)
+r. 6A(1)(a) and (b) | r. 7(1)(a)
+r. 10(2) | r. 18(2)(b)
+r. 23(1) and (2) | r. 24
+r. 27 | r. 28(2)
+r. 32(m) and (q) | r. 36(1)
+r. 38(1) and (2) | r. 39(1), (2) and (4)(a)
+r. 40(1), (2) and (3) | r. 41(1) and (3)
+r. 42C(1), (2), (3), (4), (5)(b), (6), (7), (8) and (9) | r. 43
+r. 45 | r. 48
+r. 49(1)(a)(ii) and (5) | r. 50(1) and (2)
+r. 51(1) | r. 53
+Sch. 1 it. 2 | Sch. 8 cl. 4 Table and 5
+Notes:
+1.The heading to amended regulation 4A is to read:
+Approval of construction or installation of apparatus by Chief Health Officer
+2.The heading to amended regulation 23 is to read:
+Review of decision of Chief Health Officer
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
