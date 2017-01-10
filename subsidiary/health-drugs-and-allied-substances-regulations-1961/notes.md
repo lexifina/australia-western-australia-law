@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 December 2013 of the Health (Drugs and Allied Substances) Regulations 1961 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Drugs and Allied Substances) Regulations 1961 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Food and Drug Regulations 1961 | 4 Jan 1962 p. 1-67 | 4 Jan 1962
@@ -37,11 +37,31 @@ Health (Drugs and Allied Substances) Amendment Regulations 1990 | 21 Dec 1990 p.
 Health (Drugs and Allied Substances) Amendment Regulations 1993 | 9 Mar 1993 p. 1509-14 | 9 Mar 1993
 Health (Drugs and Allied Substances) Amendment Regulations 2012 | 27 Nov 2012 p. 5735-6 | 27 Nov 2012 (see note under r. 1)
 Reprint 1: The Health (Drugs and Allied Substances) Substances Regulations 1961 as at 6 Dec 2013 (includes amendments as listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Public Health) Regulations 2016 Pt. 13 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Health (Drugs and Allied Substances) Regulations 1961; citation changed (see note under r. 1).
 The untitled amending regulations published in Gazette 19 Mar 1979 p. 634-5 have been superseded by the notice published in Gazette 16 Mar 1979 p. 692-4.
 The untitled amending regulations published in Gazette 16 May 1980 p. 1508-11 did not come into operation and were repealed by the Food and Drug Amendment Regulations 1981 r. 5.
 The commencement date of 1 Oct 1986 that was specified was before the date of gazettal.
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 13 had not come into operation. It reads as follows:
+Part 13 — Health (Drugs and Allied Substances) Regulations 1961 amended
+44.Regulations amended
+This Part amends the Health (Drugs and Allied Substances) Regulations 1961.
+45.Regulation A.01.001 amended
+In regulation A.01.001 in the definition of the Act delete “Health Act 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+46.Regulation A.01.007 amended
+In regulation A.01.007(a) delete “Executive Director, Public Health” and insert:
+Chief Health Officer
+47.Regulation B.01.001 amended
+In regulation B.01.001 in the definition of authorised delete “Executive Director, Public Health” and insert:
+Chief Health Officer
+48.Regulation Z.01.001 amended
+In regulation Z.01.001(d) delete “Executive Director, Public Health” (each occurrence) and insert:
+Chief Health Officer
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
