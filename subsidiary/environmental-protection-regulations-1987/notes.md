@@ -71,6 +71,10 @@ Environmental Protection Amendment Regulations (No. 3) 2014 | 1 Aug 2014 p. 2823
 Reprint 8: The Environmental Protection Regulations 1987 as at 5 Dec 2014 (includes amendments listed above)
 Environmental Protection Amendment Regulations 2015 | 21 Aug 2015 p. 3336 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2015 (see r. 2(b))
 Environmental Protection Amendment Regulations 2016 | 28 Jun 2016 p. 2629-32 | r. 1 and 2: 28 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 7 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Published in Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
@@ -78,6 +82,13 @@ At the time of this compilation section 110H of the Act provides for the establi
 Expired 30 June 2012.
 The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
 The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000 r. 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted in Gazette 19 December 2000 p. 7284.
+On the date as at which this compilation was prepared, the Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Environmental Protection Regulations 1987 amended
+16.Regulations amended
+This Part amends the Environmental Protection Regulations 1987.
+17.Regulation 11 amended
+In regulation 11(1)(a) delete “Health Act 1911; or” and insert:
+Health (Miscellaneous Provisions) Act 1911; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
