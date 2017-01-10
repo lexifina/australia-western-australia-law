@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 26 June 2015 of the Caravan Parks and Camping Grounds Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Caravan Parks and Camping Grounds Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Caravan Parks and Camping Grounds Regulations 1997 | 20 Jun 1997 p. 2871-946 | 1 Jul 1997 (see r. 2)
@@ -13,12 +13,22 @@ Caravan Parks and Camping Grounds Amendment Regulations (No. 2) 2014 | 12 Dec 20
 Caravan Parks and Camping Grounds Amendment Regulations 2014 | 8 Jan 2015 p. 121-2 (as amended in Gazette 10 Apr 2015 p. 1256) | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Caravan Parks and Camping Grounds Amendment Regulations 2015 | 10 Apr 2015 p. 1255-6 | Pt. 1: 10 Apr 2015 (see r. 2(a)); Pt. 2 and 3: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Reprint 2: The Caravan Parks and Camping Grounds Regulations 1997 as at 26 Jun 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Caravan Parks and Camping Grounds Amendment Regulations 2016 r. 3 and 4 | 10 Jan 2017 p. 177 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Repealed by the Building Services (Registration) Act 2011 s. 107
 Under the Alteration of Statutory Designations Order (No. 4) 2013 a reference in any law to the Department of Local Government is to be read and construed, unless the context otherwise requires, as a reference to the Department of Local Government and Communities.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960.
 The Caravan Parks and Camping Grounds Amendment Regulations 2000 r. 22 reads as follows:
 22.Transitional
 A licence issued in relation to a transit camp under the Caravan Parks and Camping Ground Regulations 1997 before the commencement of these regulations is, on and after that commencement, to be taken to be a licence issued in respect of a transit park.
+On the date as at which this compilation was prepared, the Caravan Parks and Camping Grounds Amendment Regulations 2016 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Caravan Parks and Camping Grounds Regulations 1997.
+4.Schedule 7 amended
+In Schedule 7 clause 42(2) delete “Executive Director, Public Health (within the meaning of the Health Act 1911),” and insert:
+Chief Health Officer (within the meaning of the Public Health Act 2016 section 4(1)),
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
