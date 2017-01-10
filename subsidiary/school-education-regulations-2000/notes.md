@@ -23,6 +23,18 @@ School Education Amendment Regulations 2013 | 21 Jun 2013 p. 2446-7 | r. 1 and 2
 School Education Amendment Regulations 2014 | 11 Nov 2014 p. 4255-61 | r. 1 and 2: 11 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2014 (see r. 2(b))
 School Education Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 103-4 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 School Education Amendment Regulations 2015 | 16 Jan 2015 p. 312-314 | r. 1 and 2: 16 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2015 (see r. 2(b) and Gazette 16 Jan 2015 p. 311)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+School Education Amendment Regulations (No. 2) 2016 r. 3 and 4 | 10 Jan 2017 p. 229-30 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+On the date as at which this compilation was prepared, the School Education Amendment Regulations (No. 2) 2016 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the School Education Regulations 2000.
+4.Regulation 28 amended
+In regulation 28 delete “Executive Director of Public Health” and insert:
+Chief Health Officer
+The note at the end of regulation 29(2) is to read:
+Under the Health (Miscellaneous Provisions) Act 1911 section 337(1) a child attending a school is required to submit to a medical or physical examination by a medical practitioner or any nurse authorised by the Chief Health Officer, and the parents or guardians of the child are required to permit such examination as the medical practitioner or nurse deems necessary.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
