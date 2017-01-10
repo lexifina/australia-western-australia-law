@@ -40,8 +40,25 @@ Western Australian Meat Industry Authority Amendment Regulations (No. 3) 2014 | 
 Western Australian Meat Industry Authority Amendment Regulations 2014 | 8 Jan 2015 p. 75-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Western Australian Meat Industry Authority Amendment Regulations 2015 | 24 Jul 2015 p. 3041-3 | r. 1 and 2: 24 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2015 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2016 | 16 Sep 2016 p. 3933-5 | r. 1 and 2: 16 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Sep 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 169-71 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
+On the date as at which this compilation was prepared, the Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Western Australian Meat Industry Authority Regulations 1985 amended
+5.Regulations amended
+This Part amends the Western Australian Meat Industry Authority Regulations 1985.
+6.Regulation 3 amended
+In regulation 3(1) insert in alphabetical order:
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+7.Regulation 10 amended
+In regulation 10 delete “Executive Director, Public Health and Scientific Support Services.” and insert:
+Chief Health Officer.
+8.Schedule 4 amended
+In Schedule 4 clause 1 delete “a meat inspector under the Health Act 1911,” and insert:
+an authorised officer under the Food Act 2008,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
