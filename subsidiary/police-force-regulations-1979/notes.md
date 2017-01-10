@@ -65,10 +65,24 @@ Police Force Amendment Regulations 2011 | 2 Dec 2011 p. 5071-2 | r. 1 and 2: 2 D
 Police Force Amendment Regulations 2014 | 20 May 2014 p. 1608-18 | r. 1 and 2: 20 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2014 (see r. 2(b))
 Reprint 6: The Police Force Regulations 1979 as at 19 Sep 2014 (includes amendments listed above)
 Police Force Amendment Regulations 2015 | 3 Mar 2015 p. 785-6 | r. 1 and 2: 3 Mar 2015 (see r. 2(a)); r. 3 and 4(1): 4 Mar 2015 (see r. 2(b)); r. 4(2): 4 Mar 2015 (see r. 2(c)(i) and Gazette 3 Mar 2015 p. 783)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 221-3 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Police Force Regulations 1979; citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
 The Police Force Amendment Regulations (No. 2) 1998 r. 13 is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Police Force Regulations 1979 amended
+5.Regulations amended
+This Part amends the Police Force Regulations 1979.
+6.Regulation 103 amended
+In regulation 103 insert in alphabetical order:
+CEO (Health) has the meaning given to CEO by the Health Legislation Administration Act 1984 section 3;
+7.Regulation 1402 amended
+In regulation 1402(2) delete “Commissioner of Health under the Health Act 1911.” and insert:
+CEO (Health).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
