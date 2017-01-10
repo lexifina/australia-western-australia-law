@@ -38,6 +38,10 @@ Mines Safety and Inspection Amendment Regulations 2011 | 20 Sep 2011 p. 3800 | r
 Mines Safety and Inspection Amendment Regulations 2012 | 11 Jan 2013 p. 49-53 | r. 1 and 2: 11 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jan 2013 (see r. 2(b))
 Reprint 6: The Mines Safety and Inspection Regulations 1995 as at 8 Aug 2014 (includes amendments listed above)
 Mines Safety and Inspection Amendment Regulations 2015 | 5 Jun 2015 p. 1973-4 | r. 1 and 2: 5 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2015 (see r. 2(b) and Gazette 5 Jun 2015 p. 1971)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mines and Petroleum Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 213-20 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
 The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as follows:
 (2) If immediately before the commencement of subregulation (1) —
@@ -51,27 +55,13 @@ The Mines Safety and Inspection Amendment Regulations 2005 r. 13(2)-(3) read as 
 (2) Any advice given by the Mines Occupational Safety and Health Advisory Board before the commencement of subregulation (1) for the purposes of regulation 9.2 is to be treated as if it had been given by the Mining Industry Advisory Committee.
 (3) In subregulation (2) —
 Mines Occupational Safety and Health Advisory Board has the meaning given by section 4(1) of the Act as in force before the commencement of section 115(2) of the Occupational Safety and Health Legislation Amendment and Repeal Act 2004.
-surface mining operation1.3
-to charge8.1
-tower crane6.1
-trackless unit10.36
-trailing cable5.1
-train15.1
-transitional course2.6(1)
-TWA concentration9.1
-underground manager3.16A(1)(b)
-underground supervisor’s certificate1.3
-use9.32A(12)
-vehicle hoist6.1
-ventilation log book9.1
-ventilation officer9.1
-vertical or sub-vertical openings10.35(2)
-waste management system16.1
-winding engine log book11.1
-winding rope log book11.1
-work box6.1
-working day3.17
-working shift3.17
+On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Public Health) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Mines Safety and Inspection Regulations 1995 amended
+3.Regulations amended
+This Part amends the Mines Safety and Inspection Regulations 1995.
+4.Regulation 1.3 amended
+In regulation 1.3 in the definition of Health Department delete “Health Act 1911” and insert:
+Public Health Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
