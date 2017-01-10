@@ -29,6 +29,17 @@ Reprint 4: The Road Traffic (Blood Sampling and Analysis) Regulations 1975 as at
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2011 | 8 Apr 2011 p. 1292-3 | r. 1 and 2: 8 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Apr 2011 (see r. 2(b))
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2014 | 4 Nov 2014 p. 4205-6 | r. 1 and 2: 4 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2014 (see r. 2(b))
 Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 3 | 23 Dec 2014 p. 4913-38 | 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Safety Commission Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 225-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+On the date as at which this compilation was prepared, the Road Safety Commission Regulations Amendment (Public Health) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Road Traffic (Blood Sampling and Analysis) Regulations 1975 amended
+3.Regulations amended
+This Part amends the Road Traffic (Blood Sampling and Analysis) Regulations 1975.
+4.Regulation 2 amended
+In regulation 2 in the definition of technologist paragraph (a) delete “section 203 of the Health Act 1911; or” and insert:
+the Health (Miscellaneous Provisions) Act 1911 section 203; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
