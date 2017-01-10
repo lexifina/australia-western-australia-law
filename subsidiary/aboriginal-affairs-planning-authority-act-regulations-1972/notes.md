@@ -7,7 +7,20 @@ Untitled regulations | 7 Nov 1978 p. 4217 | 7 Nov 1978
 Reprint 1: The Aboriginal Affairs Planning Authority Act Regulations 1972 as at 17 Oct 2003 (includes amendments listed above)
 Sentencing Legislation (Short Sentences) Amendment Regulations 2004 r. 3 | 14 May 2004 p. 1445-7 | 15 May 2004 (see r. 2 and Gazette 14 May 2004 p. 1445)
 Aboriginal Affairs Planning Authority Amendment Regulations 2013 | 6 Aug 2013 p. 3647-9 | r. 1 and 2: 6 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Aug 2013 (see r. 2(b) and Gazette 6 Aug 2013 p. 3647)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Aboriginal Affairs Planning Authority Amendment Regulations 2016 r. 3-5 | 10 Jan 2017 p. 167-8 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
+On the date as at which this compilation was prepared, the Aboriginal Affairs Planning Authority Amendment Regulations 2016 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Aboriginal Affairs Planning Authority Act Regulations 1972.
+4.Regulation 3 amended
+In regulation 3 insert in alphabetical order:
+authorised officer has the meaning given in the Public Health Act 2016 section 4(1);
+5.Regulation 7 amended
+In regulation 7 delete “public health officials, and” and insert:
+authorised officers and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
