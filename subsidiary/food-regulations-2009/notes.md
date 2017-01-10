@@ -14,8 +14,19 @@ Food Amendment Regulations (No. 3) 2015 | 28 Jul 2015 p. 3083 | r. 1 and 2: 28 J
 Food Amendment Regulations (No. 4) 2015 | 11 Aug 2015 p. 3219-20 | r. 1 and 2: 11 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Aug 2015 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Health Services (Consequential Amendment) Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2311-15 | 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Public Health) Regulations 2016 Pt. 6 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 The Food Act 2008 s. 147(14) commenced 24 Oct 2009.
 Deleted by the Food Act 2008 s. 147(11).
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Food Regulations 2009 amended
+18.Regulations amended
+This Part amends the Food Regulations 2009.
+19.Regulation 42 amended
+In regulation 42(3) delete “Health Act 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
