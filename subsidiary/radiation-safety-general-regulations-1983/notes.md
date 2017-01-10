@@ -55,6 +55,10 @@ Radiation Safety (General) Amendment Regulations 2015 | 19 May 2015 p. 1754-7 | 
 Radiation Safety (General) Amendment Regulations (No. 2) 2015 | 9 Oct 2015 p. 3982 | r. 1 and 2: 9 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 6 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2016 | 20 Sep 2016 p. 3967-8 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Public Health) Regulations 2016 Pt. 31 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 4-7Footnote no longer applicable.
@@ -65,6 +69,13 @@ The Radiation Safety (General) Amendment Regulations (No. 2) 1999 r. 8(2) and (3
 (3) Subregulation (2) applies only until 31 May 2000.
 The Radiation Safety (General) Amendment Regulations 2001 r. 4(3) reads as follows:
 (3) Until the council approves a dental ancillary qualification under regulation 38(1)(c) and (d) of the Radiation Safety (General) Regulations 1983 as amended by this regulation, all dental ancillary qualifications are taken to be approved dental ancillary qualifications for the purposes of that regulation.
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 31 had not come into operation. It reads as follows:
+Part 31 — Radiation Safety (General) Regulations 1983 amended
+118.Regulations amended
+This Part amends the Radiation Safety (General) Regulations 1983.
+119.Regulation 58 amended
+Delete regulation 58(5)(a) and insert:
+(a) an authorised officer as defined in the Public Health Act 2016 section 4(2);
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
