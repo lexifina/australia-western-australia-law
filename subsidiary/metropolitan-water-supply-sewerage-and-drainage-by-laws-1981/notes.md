@@ -84,6 +84,10 @@ Water Agencies Amendment By-laws 2012 Pt. 6 | 20 Jun 2012 p. 2677-92 | 1 Jul 201
 Water Agencies Amendment By-laws 2013 Pt. 6 | 19 Jun 2013 p. 2333-46 | 1 Jul 2013 (see bl. 2(b))
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2013 | 14 Nov 2013 p. 5053-7 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2016 | 7 Jun 2016 p. 1782-7 | bl. 1 and 2: 7 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 8 Jun 2016 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Water By-laws Amendment (Public Health) By-laws 2016 Pt. 3 | 10 Jan 2017 p. 233-5 | 24 Jan 2017 (see bl. 2(b) and Gazette 10 Jan 2017 p. 165)
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 See Bush Fires Act 1954.
 See Strata Titles Act 1985.
@@ -95,6 +99,18 @@ By-law 28.1 of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981
 The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
 3.Application
 Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+On the date as at which this compilation was prepared, the Water By-laws Amendment (Public Health) By-laws 2016 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 amended
+6.By-laws amended
+This Part amends the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981.
+7.By-law 4.8 amended
+(1) In by-law 4.8.2 delete “Health Act 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+(2) In by-law 4.8.4 delete “Health Act 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+8.By-law 5.5 amended
+In by-law 5.5.1 delete “Health Act 1911,” and insert:
+Health (Miscellaneous Provisions) Act 1911,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
