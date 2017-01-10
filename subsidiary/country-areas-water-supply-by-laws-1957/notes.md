@@ -100,6 +100,10 @@ Country Areas Water Supply Amendment By-laws 2013 | 14 Nov 2013 p. 5033-5 | bl. 
 Country Areas Water Supply Amendment By-laws (No. 2) 2013 | 15 Nov 2013 p. 5267-9 | bl. 1 and 2: 15 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 16 Nov 2013 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws 2015 | 8 May 2015 p. 1622 | bl. 1 and 2: 8 May 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 9 May 2015 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws 2016 | 7 Jun 2016 p. 1777-81 | bl. 1 and 2: 7 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 8 Jun 2016 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Water By-laws Amendment (Public Health) By-laws 2016 Pt. 2 | 10 Jan 2017 p. 233-5 | 24 Jan 2017 (see bl. 2(b) and Gazette 10 Jan 2017 p. 165)
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, which is now known as the Liquor Control Act 1988.
 Repealed by the Factories and Shops Act 1963, which was repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
@@ -108,6 +112,16 @@ These by-laws contain an application provision concerning fees and charges for a
 The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
 3.Application
 Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+On the date as at which this compilation was prepared, the Water By-laws Amendment (Public Health) By-laws 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Country Areas Water Supply By-laws 1957 amended
+3.By-laws amended
+This Part amends the Country Areas Water Supply By-laws 1957.
+4.By-law 1A amended
+In by-law 1A(3) delete “Health Act 1911.” and insert:
+Health (Miscellaneous Provisions) Act 1911.
+5.By-law 6A amended
+In by-law 6A(2) delete “Health Act 1911,” and insert:
+Health (Miscellaneous Provisions) Act 1911,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
