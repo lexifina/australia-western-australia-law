@@ -28,10 +28,65 @@ Cremation Amendment Regulations 2014 | 25 Feb 2014 p. 497-8 | r. 1 and 2: 25 Feb
 Reprint 4: The Cremation Regulations 1954 as at 5 Dec 2014 (includes amendments listed above)
 Cremation Amendment Regulations 2015 | 21 Apr 2015 p. 1424 | r. 1 and 2: 21 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2015 (see r. 2(b))
 Cremation Amendment Regulations 2016 | 9 Feb 2016 p. 371-2 | r. 1 and 2: 9 Feb 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Feb 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Repealed by the Cemeteries Act 1986.
 Repealed by the Associations Incorporation Act 1987.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date referred to in r. 2 was before the date of gazettal.
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Cremation Regulations 1954 amended
+5.Regulations amended
+This Part amends the Cremation Regulations 1954.
+6.Regulation 15 amended
+In regulation 15:
+(a) delete “Executive Director or by a person appointed to be a medical officer of health under the Health Act 1911.” and insert:
+Chief Health Officer.
+(b) delete “Executive Director or the medical officer of health deem necessary.” and insert:
+Chief Health Officer deems necessary.
+7.Regulation 17 amended
+In regulation 17 delete “Health Act 1911.” and insert:
+Health (Miscellaneous Provisions) Act 1911.
+8.Appendix “A” amended
+(1) In Appendix “A” Form 1:
+(a) delete “Executive Director” and insert:
+Chief Health Officer
+(b) delete “Executive Director, Public Health and Scientific Support Services” and insert:
+Chief Health Officer
+(2) In Appendix “A” Forms 2 and 3 delete “Executive Director, Public Health and Scientific Support Services” (each occurrence) and insert:
+Chief Health Officer
+(3) In Appendix “A” Form 4:
+(a) delete “EXECUTIVE DIRECTOR, PUBLIC HEALTH AND SCIENTIFIC SUPPORT SERVICES” and insert:
+CHIEF HEALTH OFFICER
+(b) delete “Executive Director, Public Health and Scientific Support Services.” and insert:
+Chief Health Officer.
+(4) In Appendix “A” Form 5:
+(a) delete “EXECUTIVE DIRECTOR, PUBLIC HEALTH AND SCIENTIFIC SUPPORT SERVICES” and insert:
+CHIEF HEALTH OFFICER
+(b) delete “Executive Director, Public Health and Scientific Support Services” (each occurrence) and insert:
+Chief Health Officer
+(c) delete:
+....................................................................
+Executive Director,
+Public Health and
+Scientific Support Services.
+and insert:
+........................................................ Chief Health Officer
+(5) In Appendix “A” Form 10 delete “Executive Director, Public Health and Scientific Support Services,” and insert:
+Chief Health Officer,
+(6) In Appendix “A” Form 12 delete “Executive Director, Public Health and Scientific Support Services” and insert:
+Chief Health Officer
+9.Various references to “Executive Director” amended
+In the provisions listed in the Table delete “Executive Director” (each occurrence) and insert:
+Chief Health Officer
+Table
+r. 4(2) | r. 6(1), (2) and (3)
+r. 7 | r. 8(c)
+r. 9(1) and (2) | r. 10
+r. 14(3), (4), (7) and (8) | r. 17
+r. 20 | Appendix “B”
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
