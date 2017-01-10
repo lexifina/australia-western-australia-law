@@ -11,3 +11,14 @@ Anatomy (Forms and Fees) Amendment Regulations 1989 | 20 Oct 1989 pp.3838-9 | 20
 Anatomy (Forms and Fees) Amendment Regulations 1992 | 12 Jun 1992 pp.2416-7 | 1 Jul 1992 (see Regulation 2)
 Anatomy (Forms and Fees) Amendment Regulations 1998 | 22 Jan 1999 p.213 | 22 Jan 1999
 Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 2 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see regulation 2 and Gazette 30 Jun 2003 p. 2579)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Anatomy (Forms and Fees) Regulations 1933 amended
+3.Regulations amended
+This Part amends the Anatomy (Forms and Fees) Regulations 1933.
+4.Schedule A amended
+In Schedule A Forms C, F, G and J delete “Executive Director, Public Health and Scientific Support Services” and insert:
+Chief Health Officer
