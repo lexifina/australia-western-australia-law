@@ -21,7 +21,38 @@ Health (Public Buildings) Amendment Regulations 2011 | 29 Apr 2011 p. 1529-30 | 
 Reprint 3: The Health (Public Buildings) Regulations 1992 as at 6 Jan 2012 (includes amendments listed above)
 Health (Public Buildings) Amendment Regulations 2013 | 30 Jul 2013 p. 3486 | r. 1 and 2: 30 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2013 (see r. 2(b))
 Health (Public Buildings) Amendment Regulations 2014 | 8 Apr 2014 p. 918 | r. 1 and 2: 8 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Public Health) Regulations 2016 Pt. 19 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 19 had not come into operation. It reads as follows:
+Part 19 — Health (Public Buildings) Regulations 1992 amended
+69.Regulations amended
+This Part amends the Health (Public Buildings) Regulations 1992.
+70.Schedule 2 amended
+(1) In Schedule 2 Form 1:
+(a) delete “HEALTH ACT 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+(b) delete “section 176 of the Health Act” and insert:
+the Health (Miscellaneous Provisions) Act 1911 section 176
+(2) In Schedule 2 Forms 2 and 3 delete “HEALTH ACT 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+(3) In Schedule 2 Form 4:
+(a) delete “HEALTH ACT 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+(b) delete “section 178(1) of the Health Act” and insert:
+the Health (Miscellaneous Provisions) Act 1911 section 178(1)
+(4) In Schedule 2 Form 5 delete “HEALTH ACT 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+71.Various references to “Executive Director, Public Health” amended
+In the provisions listed in the Table delete “Executive Director, Public Health” and insert:
+Chief Health Officer
+Table
+r. 7(2) and (3) | r. 9(4)(b)(ii)
+r. 14(3)(a)(iii) | r. 23(1) and (3)
+r. 31(4) | r. 41
+r. 42(6)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
