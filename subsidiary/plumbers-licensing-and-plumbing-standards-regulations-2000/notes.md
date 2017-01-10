@@ -35,6 +35,10 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations 2016 | 29 Apr 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 15 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2016 | 13 Dec 2016 p. 5619-27 | r. 1 and 2: 13 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2016 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2016 | 13 Dec 2016 p. 5627-30 | r. 1 and 2: 13 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2016 (see r. 2(b) and Gazette 13 Dec 2016 p. 5659)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 The Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62, and then subsequently changed to the Plumbers Licensing Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 193.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
@@ -45,6 +49,13 @@ The Country Areas Water Supply By-laws 1957 bl. 58(3) and (4) were deleted by th
 Repealed by the Building Services (Registration) Act 2011 s. 107.
 Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000; citation changed (see note under r. 1). The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000.
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 contains transitional provisions that are of no further effect.
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Plumbers Licensing and Plumbing Standards Regulations 2000 amended
+9.Regulations amended
+This Part amends the Plumbers Licensing and Plumbing Standards Regulations 2000.
+10.Regulation 3 amended
+In regulation 3(1) in the definition of apparatus for the treatment of sewerage delete “section 3(1) of the Health Act 1911;” and insert:
+the Health (Miscellaneous Provisions) Act 1911 section 3(1);
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
