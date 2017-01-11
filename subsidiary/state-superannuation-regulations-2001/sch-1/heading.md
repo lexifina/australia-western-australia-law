@@ -6,7 +6,7 @@
 3.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b) if the order specifies that in relation to that worker the Government is a Division 1 Employer
 3a.The Government of Western Australia in relation to a worker who is a parliamentarian
 4.Agent General appointed under the Agent General Act 1895
-5.Agricultural Produce Commission established by the Agricultural Produce Commission Act 1988
+[5.deleted]
 [6, 7.deleted]
 8.Colleges established or continued under the Vocational Education and Training Act 1996
 9.Commissioner for Children and Young People established under the Commissioner for Children and Young People Act 2006
@@ -27,8 +27,11 @@
 21.Perth Theatre Trust established by the Perth Theatre Trust Act 1979
 22.President of the Legislative Council, Speaker of the Legislative Assembly, President of the Legislative Council and Speaker of the Legislative Assembly acting jointly under the Parliamentary and Electorate Staff (Employment) Act 1992
 23A.Public Sector Commissioner appointed under the Public Sector Management Act 1994
+23B.Regional Development Commissions established by the Regional Development Commissions Act 1993
 23.Rural Business Development Corporation continued under the Rural Business Development Corporation Act 2000
-[24, 25.deleted]
+24.School Curriculum and Standards Authority established by the School Curriculum and Standards Authority Act 1997
+25.Small Business Development Corporation established by the Small Business Development Corporation Act 1983
+25A.The Aboriginal Affairs Planning Authority continued by the Aboriginal Affairs Planning Authority Act 1972
 26.The Board of the Art Gallery of Western Australia continued by the Art Gallery Act 1959
 27.The Library Board of Western Australia constituted under the Library Board of Western Australia Act 1951
 [28.deleted]
@@ -36,7 +39,7 @@
 29A.Western Australian Health Promotion Foundation mentioned in the Western Australian Health Promotion Foundation Act 2016 section 5.
 30.Western Australian Land Information Authority established by the Land Information Authority Act 2006
 31.Western Australian Planning Commission established by the Planning and Development Act 2005
-[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; 10 Jun 2014 p. 1806; 26 Jun 2015 p. 2273; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
+[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; 10 Jun 2014 p. 1806; 26 Jun 2015 p. 2273; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b) unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 [2A.deleted]
@@ -81,10 +84,8 @@
 [43.deleted]
 43A.Regional Power Corporation established by the Electricity Corporations Act 2005
 44.Rottnest Island Authority established under the Rottnest Island Authority Act 1987
-45A.School Curriculum and Standards Authority established under the School Curriculum and Standards Authority Act 1997
-45.Small Business Development Corporation established under the Small Business Development Corporation Act 1983
-[46.deleted]
-47.The Aboriginal Affairs Planning Authority continued by the Aboriginal Affairs Planning Authority Act 1972
+[45A, 45.deleted]
+[46, 47.deleted]
 48.The Burswood Park Board established under the Parks and Reserves Act 1895
 49.The National Trust of Australia (W.A.) established and incorporated under the National Trust of Australia (W.A.) Act 1964
 50.The Western Australian Mint continued under the Gold Corporation Act 1987
@@ -104,4 +105,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) continued by the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
+[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
