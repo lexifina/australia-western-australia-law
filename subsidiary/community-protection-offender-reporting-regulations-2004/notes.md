@@ -21,10 +21,12 @@ Community Protection (Offender Reporting) Amendment Regulations 2013 | 8 Nov 201
 Reprint 3: The Community Protection (Offender Reporting) Regulations 2004 as at 11 Apr 2014 (includes amendments listed above)
 Community Protection (Offender Reporting) Amendment Regulations 2014 | 5 Aug 2014 p. 2830 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations 2015 | 16 Jun 2015 p. 2077-8 | r. 1 and 2: 16 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2015 (see r. 2(b) and Gazette 16 Jun 2015 p. 2071)
+Community Protection (Offender Reporting) Amendment Regulations 2017 (other than r. 4(2)) | 13 Jan 2017 p. 359-60 | r. 1 and 2: 13 Jan 2017 (see r. 2(a)); Regulations other than r. 1, 2 and 4(2): 14 Jan 2017 (see r. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 221-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Community Protection (Offender Reporting) Amendment Regulations 2017 r. 4(2) | 13 Jan 2017 p. 359-60 | 1 Feb 2017 (see r. 2(b))
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 On the date as at which this compilation was prepared, the Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
@@ -34,6 +36,12 @@ This Part amends the Community Protection (Offender Reporting) Regulations 2004.
 4.Regulation 7 amended
 In regulation 7(3) in the definition of Department of Health delete “Health Act 1911;” and insert:
 Public Health Act 2016;
+On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Amendment Regulations 2017 r. 4(2) had not come into operation. It reads as follows:
+(2) In regulation 21:
+(a) in paragraph (f) delete “section 99AA(1)(a)(i).” and insert:
+section 99AA(1)(a)(i);
+(b) after paragraph (f) insert:
+(g) a prohibition order made under the Sex Offenders Registration Act 2004 (Victoria) Part 4A.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
