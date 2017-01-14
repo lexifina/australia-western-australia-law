@@ -52,12 +52,12 @@ Criminal Organisations Control Act 2012 s. 179 | 49 of 2012 | 29 Nov 2012 | 2 No
 Criminal Investigation (Covert Powers) Act 2012 Pt. 9 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Reprint 6: The Misuse of Drugs Act 1981 as at 19 Apr 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012)
 Misuse of Drugs Amendment (Psychoactive Substances) Act 2015 | 29 of 2015 | 21 Oct 2015 | s. 1 and 2: 21 Oct 2015 (see s. 2(a)); Act other than s. 1 and 2: 18 Nov 2015 (see s. 2(b) and Gazette 17 Nov 2015 p. 4693-4)
+Misuse of Drugs Amendment (Search Powers) Act 2016 | 47 of 2016 | 28 Nov 2016 | s. 1 and 2: 28 Nov 2016 (see s. 2(a)); Act other than s. 1 and 2: 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 337)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 Pt. 11 Div. 3 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Misuse of Drugs Amendment (Search Powers) Act 2016 s. 3-8 | 47 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 16: to be proclaimed (see s. 2(1)(c))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 are savings and transitional provisions.
@@ -220,9 +220,7 @@ Schedule II — Plants to which this Act applies
 102. | NORCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 2.0
 (7) In Schedule V delete item 125 and insert:
 125. | PHOLCODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 5.0
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 16 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 1 — Amendments resulting from renaming of Health Act 1911
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 16 had not come into operation. They read as follows:
 101.Various references to “Health Act 1911” amended
 (1) This section amends the Acts listed in the Table.
 (2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
@@ -257,189 +255,6 @@ Division 3 — Provisions for Public Health (Consequential Provisions) Act 2016
 49.Transitional provision for registered analysts
 (1) Despite the replacement, by the Public Health (Consequential Provisions) Act 2016 section 312 (section 312), of the definition of analyst in section 3(1), any person who, immediately before section 312 comes into operation, is an approved analyst under a declaration made under section 3A continues to be an approved analyst under and subject to section 3A.
 (2) A thing done or omitted to be done under this Act by, to or in relation to an analyst (as defined in section 3(1) as in force immediately before section 312 comes into operation) has the same effect on and after the day on which section 312 comes into operation, to the extent that it has any force or significance on or after that day, as if the thing had been done or omitted by, to or in relation to an analyst as defined in section 3(1) after section 312 comes into operation.
-On the date as at which this compilation was prepared, the Misuse of Drugs Amendment (Search Powers) Act 2016 s. 3-8 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Misuse of Drugs Act 1981.
-4.Section 3 amended
-In section 3(1) insert in alphabetical order:
-category 1 item has the meaning given in section 12;
-category 2 item has the meaning given in section 12;
-vehicle includes aircraft, hovercraft, vessel and any other means of transportation;
-5.Part 4A inserted
-After section 20 insert:
-Part 4A — Targeted searches
-Division 1 — Preliminary
-20A.Terms used
-In this Part —
-Australia Post has the meaning given in the Australian Postal Corporation Act 1989 (Commonwealth) section 3;
-consigned article means any article, including a letter, document, envelope, packet, parcel, package, container or wrapper, consigned for delivery by a delivery business;
-controlled precursor means a category 1 item or a category 2 item;
-delivery business means a business that delivers consigned articles but does not include Australia Post;
-drug detection area means an area referred to in section 20B(2)(a);
-drug detection device means an electronic device, or a system that uses or involves an electronic device, of a type approved by the Commissioner for the purpose of detecting the presence of any of the following —
-(a)a prohibited drug;
-(b)a prohibited plant;
-(c)a controlled precursor;
-drug detection dog means a dog trained to detect the presence of any of the following —
-(a)a prohibited drug;
-(b)a prohibited plant;
-(c)a controlled precursor;
-metropolitan region has the meaning given in the Planning and Development Act 2005 section 4(1);
-preliminary drug detection test means —
-(a)leading or otherwise placing a drug detection dog in the vicinity of a person or property; or
-(b)using a drug detection device in relation to a person or property;
-premises search authorisation means an authorisation issued by a senior police officer under section 20C;
-senior police officer means a police officer who is, or is acting as, a superintendent or an officer above the rank of superintendent;
-vehicle search authorisation means an authorisation issued by a senior police officer under section 20B.
-Division 2 — Authorisations
-20B.Authorisation to exercise powers to search a vehicle or a person
-(1) A senior police officer may issue a vehicle search authorisation under this section if the senior police officer is satisfied there are reasonable grounds to suspect that an area is being, or is likely to be, used for the transport of any of the following —
-(a) a prohibited drug;
-(b) a prohibited plant;
-(c) a controlled precursor.
-(2) A vehicle search authorisation must set out the following —
-(a) subject to subsection (3), the boundaries of the area to which the authorisation relates (the drug detection area);
-(b) the date and time from which it is to take effect;
-(c) the period, not exceeding 14 days, for which it has effect.
-(3) A senior police officer must not specify an area under subsection (2)(a) that —
-(a) is in the metropolitan region; or
-(b) exceeds an area of 5 square kilometres.
-(4) A vehicle search authorisation may be subject to any conditions specified in the authorisation by the senior police officer issuing the authorisation.
-(5) A vehicle search authorisation —
-(a) may be renewed by a senior police officer —
-(i) before the vehicle search authorisation expires; and
-(ii) for a period not exceeding 14 days; and
-(iii) if the senior police officer is satisfied that the requirements set out in subsection (1) are met;
-and
-(b) may be renewed under paragraph (a) more than once; and
-(c) may be revoked or varied by a senior police officer.
-(6) A vehicle search authorisation issued when 3 authorisations are already in force has no effect.
-(7) A vehicle search authorisation, or the renewal, variation or revocation of a vehicle search authorisation, must be in writing.
-20C.Authorisation to exercise powers to search premises
-(1) A senior police officer may issue a premises search authorisation under this section in respect of premises used primarily for carrying on a delivery business.
-(2) A premises search authorisation must set out the following —
-(a) the address of the premises to which the authorisation relates;
-(b) the date and time from which it is to take effect;
-(c) the period, not exceeding 24 hours, for which it has effect.
-(3) A premises search authorisation may be subject to any conditions specified in the authorisation by the senior police officer issuing the authorisation.
-(4) A premises search authorisation —
-(a) may be renewed by a senior police officer —
-(i) before the premises search authorisation expires; and
-(ii) for a period not exceeding 24 hours;
-and
-(b) may be renewed under paragraph (a) more than once; and
-(c) may be revoked or varied by a senior police officer.
-(5) A premises search authorisation issued when 3 authorisations are already in force has no effect.
-(6) A premises search authorisation, or the renewal, variation or revocation of a premises search authorisation, must be in writing.
-Division 3 — Ancillary provisions in relation to exercising powers
-20D.Other written laws
-Unless the contrary intention appears in this Act or another written law —
-(a) this Part does not affect the operation of any other written law; and
-(b) the powers in this Part are in addition to, and not in derogation of, the powers conferred on police officers by Part V or any other written law.
-20E.Assistance when exercising powers under this Part
-(1) A police officer may authorise as many other persons to assist in exercising a power under this Part as are reasonably necessary in the circumstances.
-(2) If a police officer authorises other persons to assist in the exercise of powers under this Part, the Criminal Investigation Act 2006 section 15, with any necessary changes, applies to and in relation to the exercise of powers by, or the assistance of, that person.
-20F.Use of force
-When exercising a power under this Part, a person may use such force as is reasonably necessary and with such assistance as the person considers necessary —
-(a) to exercise the power; and
-(b) to overcome any resistance to exercising the power that is offered, or that the person exercising the power reasonably suspects will be offered, by any person.
-Division 4 — Vehicle searches
-20G.Powers of police officers in relation to searching vehicle in drug detection area
-(1) In this section —
-search includes doing a preliminary drug detection test.
-(2) Under a vehicle search authorisation, a police officer may do one or more of the following in relation to a vehicle in the drug detection area set out in the authorisation —
-(a) require the driver of the vehicle to stop the vehicle;
-(b) enter and search any part of the vehicle;
-(c) detain the vehicle for a reasonable period in order to search the vehicle;
-(d) move the vehicle to a place suitable to search the vehicle;
-(e) require a person to open any part of the vehicle;
-(f) require the driver, or a passenger, of the vehicle not to leave, or to remain in, the vehicle;
-(g) take any action that is reasonably necessary in order to search the vehicle.
-(3) A police officer has reasonable grounds to suspect that any thing referred to in section 23(1)(a), (b) or (c) is in the possession of a person, if a preliminary drug detection test in relation to a vehicle in which the person is, or was, the driver or a passenger, indicates the detection of any of the following —
-(a) a prohibited drug;
-(b) a prohibited plant;
-(c) a controlled precursor.
-(4) Section 25 applies as if the reference in subsection (1) of that section to a police officer exercising the powers conferred by section 22 or 23 included a reference to a police officer exercising the powers conferred by subsection (2) of this section.
-(5) Section 26 applies as if —
-(a) the reference in subsection (1)(a)(i) and (ii) of that section to a dangerous substance included a reference to a controlled precursor; and
-(b) the reference in subsection (1) of that section to the exercise of the powers conferred by section 22 or 23 included a reference to the exercise of the powers conferred by subsection (2) of this section.
-20H.Powers of police officers in relation to searching persons in a drug detection area
-(1) Under a vehicle search authorisation, a police officer may do a preliminary drug detection test on the following persons —
-(a) the driver of a vehicle in the drug detection area; or
-(b) a passenger of a vehicle in the drug detection area; or
-(c) a person who a police officer has reasonable grounds to suspect has recently left a vehicle that is, or was, in the drug detection area.
-(2) A police officer who wishes to do a preliminary drug detection test on a person under subsection (1) may detain the person for a reasonable period in order to do the test.
-(3) A police officer has reasonable grounds to suspect that any thing referred to in section 23(1)(a), (b) or (c) is in the possession of a person, if a preliminary drug detection test indicates the detection of any of the following on the person —
-(a) a prohibited drug;
-(b) a prohibited plant;
-(c) a controlled precursor.
-(4) Section 25 applies as if the reference in subsection (1) of that section to a police officer exercising the powers conferred by section 22 or 23 included a reference to a police officer exercising the powers conferred by subsection (1) of this section.
-(5) Section 26 applies as if —
-(a) the reference in subsection (1)(a)(i) and (ii) of that section to a dangerous substance included a reference to a controlled precursor; and
-(b) the reference in subsection (1) of that section to the exercise of the powers conferred by section 22 or 23 included a reference to the exercise of the powers conferred by subsection (1) of this section.
-Division 5 — Searches of delivery business premises
-20I.Powers of police officers in relation to premises
-(1) In this section —
-premises includes a vehicle at the premises.
-(2) Under a premises search authorisation, a police officer may do one or more of the following in respect of the premises to which the authorisation relates —
-(a) enter the premises;
-(b) subject to subsection (3), do a preliminary drug detection test on, or in relation to, any consigned article;
-(c) take into and use in the premises any equipment that is, or facilities that are, reasonably necessary in order to exercise any power under the authorisation;
-(d) make reasonable use of any equipment, facilities or services in the premises in order to exercise any power under the authorisation and for that purpose —
-(i) to operate the equipment or facilities; and
-(ii) to require an occupier of the premises to do anything that is reasonable and necessary to facilitate that use;
-(e) open and examine a consigned article if a preliminary drug detection test indicates the detection of any of the following in relation to the article —
-(i) a prohibited drug;
-(ii) a prohibited plant;
-(iii) a controlled precursor;
-(f) take any action that is reasonably necessary in order to search the premises.
-(3) A police officer may do a preliminary drug detection test on, or in relation to, a consigned article under subsection (2)(b) only if the consigned article is in a part of the premises used for the purpose of —
-(a) storing consigned articles prior to delivery; or
-(b) sorting consigned articles prior to delivery; or
-(c) dispatching consigned articles for delivery; or
-(d) if the consigned article is in a vehicle, parking vehicles.
-(4) Section 25 applies as if the reference in subsection (1) of that section to a police officer exercising the powers conferred by section 22 or 23 included a reference to a police officer exercising the powers conferred by subsection (2) of this section.
-(5) Section 26 applies as if —
-(a) the reference in subsection (1)(a)(i) and (ii) of that section to a dangerous substance included a reference to a controlled precursor; and
-(b) the reference in subsection (1) of that section to the exercise of the powers conferred by section 22 or 23 included a reference to the exercise of the powers conferred by subsection (2) of this section.
-Division 6 — Offences
-20J.Failure to comply with requirement of police officer
-A person who fails to comply, without reasonable excuse, with a requirement of a police officer in the exercise of powers conferred on that police officer under section 20G(2)(a), (e) or (f), or 20I(2)(d)(ii), commits a simple offence.
-20K.Application of section 29 to exercise of powers conferred by or under this Part
-Section 29 applies as if references in paragraphs (a) and (b) of that section to a police officer acting in the exercise of the powers conferred on the police officer by or under Part V or a person assisting a police officer so acting included a reference to a police officer acting in the exercise of the powers conferred by section 20G(2), 20H(1) or 20I(2) or a person assisting a police officer so acting.
-Division 7 — Prescribed procedures
-20L.Regulations as to the exercise of powers under this Part
-(1) The regulations may prescribe procedures to be followed in relation to the exercise of the powers conferred by this Part.
-(2) Without limiting the generality of subsection (1), regulations may —
-(a) provide for the manner in which vehicles may be stopped in a drug detection area, including the establishment of facilities, warnings and other devices to enable vehicles to be stopped in a safe and orderly manner; and
-(b) provide for the procedure to be followed in relation to doing a preliminary drug detection test.
-6.Section 21 amended
-(1) In section 21 delete the definition of vehicle.
-(2) In section 21 in the definition of search warrant delete “section 24;” and insert:
-section 24.
-7.Section 34 amended
-(1) In section 34(1)(d) before “25(2)” insert:
-20J,
-8.Section 42A and 42B inserted
-At the end of Part VI insert:
-42A.Annual report to Minister on Part 4A
-(1) The Commissioner must give a report to the Minister that provides the following information for each financial year —
-(a) the numbers of vehicle search authorisations and premises search authorisations issued during the financial year;
-(b) the areas that were subject to a vehicle search authorisation;
-(c) the premises that were subject to a premises search authorisation;
-(d) the periods during which any authorisations had effect;
-(e) the number of occasions when, as a result of the exercise of the powers conferred by section 20G(2), a prohibited drug, prohibited plant or a controlled precursor was detected by a preliminary drug detection test;
-(f) the number of occasions when, as a result of the exercise of the powers conferred by section 20H(1), a prohibited drug, prohibited plant or a controlled precursor was detected by a preliminary drug detection test;
-(g) the number of occasions when, as a result of the exercise of the powers conferred by section 20I(2)(e), a prohibited drug, prohibited plant or controlled precursor was detected;
-(h) a statement of any defect or irregularity identified in relation to a vehicle search authorisation or premises search authorisation.
-(2) The Minister is to cause the report to be laid before each House of Parliament no later than 12 sitting days of that House after receiving the report.
-42B.Review of Part 4A
-(1) In this section —
-commencement day means the day on which the Misuse of Drugs Amendment (Search Powers) Act 2016 section 5 comes into operation.
-(2) The Minister must carry out a review of the operation and effectiveness of Part 4A as soon as practicable after the expiration of 5 years from commencement day.
-(3) The Minister must lay (or cause to be laid) a report of the review under this section before both Houses of Parliament —
-(a) as soon as practicable after the review is completed; but
-(b) not later than 2 years after the end of the period of 5 years.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -450,6 +265,7 @@ analyst3(1)
 approved analyst3(1)
 approved botanist3(1)
 approved person21
+Australia Post20A
 authorised person8B(1), 14(4)
 authorised prescription3(1)
 botanist3(1)
@@ -457,23 +273,29 @@ cannabis3(1)
 cannabis intervention requirement8B(1)
 cannabis intervention session8B(1)
 cannabis resin3(1)
-category 1 item12
-category 2 item12
+category 1 item3(1), 12
+category 2 item3(1), 12
 CEO (Health)8B(1), 38D(1)
 child3(1)
 CIN45
 CIR8B(2)
 CIS8B(2)
 claimant27(1)
-commencement day45
+commencement day42B(1), 45
 Commissioner3(1)
 confidential information27B(1)
+consigned article20A
 consume8N(1)
+controlled precursor20A
 dangerous substance3(1)
 declared criminal organisation32A(3)
+delivery business 20A
 dentist3(1)
 destruction notice8T(1)
 display7B(1)
+drug detection area20A, 20B(2)
+drug detection device20A
+drug detection dog20A
 drug of addiction3(1)
 drug paraphernalia7B(1)
 external serious drug offence32A(3)
@@ -483,6 +305,7 @@ industrial hemp seed3(1)
 manufacture8N(1)
 medical practitioner3(1)
 member32A(3)
+metropolitan region20A
 minor cannabis related offence8B(1)
 new offence8E(4), 8G(1)
 nurse practitioner3(1)
@@ -490,6 +313,9 @@ opium3(1)
 owner5(2)
 Poisons Act 19643(1)
 police officer8B(1)
+preliminary drug detection test20A
+premises20I(1)
+premises search authorisation20A
 principal offence33(1), 33(2), 33(3)
 processed industrial hemp3(1)
 prohibited drug3(1)
@@ -503,8 +329,10 @@ relevant thing27(6)
 repeal daySch. IX cl. 1(1)
 responsible adult8B(1)
 sample3(1)
+search20G(1)
 search warrant21
 seized property28(1)
+senior police officer20A
 serious drug offence32A(3)
 simple offence3(1)
 specified27A(7)
@@ -518,7 +346,8 @@ to possess3(1)
 to supply3(1)
 undercover officer3(1)
 undercover operation3(1)
-vehicle21
+vehicle3(1)
+vehicle search authorisation20A
 veterinary surgeon3(1)
 young person8B(1)
 young person at risk8H(2)
