@@ -156,6 +156,7 @@ Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (ot
 Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1)
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 (other than Div. 2 and s. 46, 53 and 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 (other than Div. 2 and s. 46, 53 and 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279)
+Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 338)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -163,9 +164,8 @@ Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 21: to be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 2, and s. 46, 53 and 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
-Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 and Pt. 3 Div. 3 and 5 | 51 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -300,9 +300,7 @@ Delete section 97(2)(a) and insert:
 (a) while disqualified from obtaining a driver’s licence apply for or obtain such a licence, except that a person may apply for such a licence during the last 6 weeks of the period of disqualification;
 (ba) while disqualified from obtaining any particular licence other than a driver’s licence apply for or obtain such a licence;
 The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 cannot come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 21 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 1 — Amendments resulting from renaming of Health Act 1911
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 21 had not come into operation. They read as follows:
 101.Various references to “Health Act 1911” amended
 (1) This section amends the Acts listed in the Table.
 (2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
@@ -417,565 +415,18 @@ At the end of Part VIII insert:
 110.Transitional provisions for the Road Traffic Legislation Amendment Act 2016
 (1) Until the Road Traffic Legislation Amendment Act 2016 section 62(2) comes into operation, section 49(1) has effect as if paragraph (c) of the Penalty also referred to the application of subsection (3)(ca).
 (2) Until the Road Traffic Legislation Amendment Act 2016 section 63 comes into operation, the definition of impounding offence (driver’s licence) paragraph (a) in section 78A, has effect as if it also referred to section 49(3)(ca).
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 and Pt. 3 Div. 3 and 5 had not come into operation. They read as follows:
-Part 2 — Road Traffic Act 1974 amended
-3.Act amended
-This Part amends the Road Traffic Act 1974.
-4.Section 49AAA amended
-(1) In section 49AAA insert in alphabetical order:
-above the speed limit, in relation to the driving of a vehicle, means driving the vehicle at a speed that exceeds the speed limit applicable to the driver, the vehicle or the length of road where it is being driven;
-confiscation zone means —
-(a)in relation to a vehicle, a length of road where the speed limit applicable to the vehicle, or the length of road, is 50 km/h or less; or
-(b)a school zone;
-motor cycle means a motor vehicle that has 2 wheels and includes —
-(a)a 2-wheeled motor vehicle with a sidecar attached to it that is supported by a third wheel; and
-(b)a motor vehicle with 3 wheels that is ridden in the same way as a motor vehicle with 2 wheels;
-school zone means a length of road designated as a school zone under a road law;
-speed limit means a speed limit set under a road law.
-(2) In section 49AAA in the definition of provide driving instruction delete “vehicle.” and insert:
-vehicle;
-Note for this section:
-This section is an alternative to section 5 and Part 3 Division 3 and applies if the Road Traffic Legislation Amendment Act 2016 section 42 comes into operation on or before the day on which this section comes into operation. See section 57(1).
-5. Section 49AA amended
-(1) In section 49AA insert in alphabetical order:
-above the speed limit, in relation to the driving of a vehicle, means driving the vehicle at a speed that exceeds the speed limit applicable to the driver, the vehicle or the length of road where it is being driven;
-confiscation zone means —
-(a)in relation to a vehicle, a length of road where the speed limit applicable to the vehicle, or the length of road, is 50 km/h or less; or
-(b)a school zone;
-motor cycle means a motor vehicle that has 2 wheels and includes —
-(a)a 2-wheeled motor vehicle with a sidecar attached to it that is supported by a third wheel; and
-(b)a motor vehicle with 3 wheels that is ridden in the same way as a motor vehicle with 2 wheels;
-school zone means a length of road designated as a school zone under a road law;
-speed limit means a speed limit set under a road law.
-(2) In section 49AA in the definition of grievous bodily harm delete “section 1(1).” and insert:
-section 1(1);
-Note:The heading to amended section 49AA is to read:
-Terms used
-Note for this section:
-This section read with Part 3 Division 3 is an alternative to section 4 and applies if the Road Traffic Legislation Amendment Act 2016 section 42 has not come into operation before this section and Part 3 Division 3 has come into operation. See section 57(2).
-6.Section 49AB amended
-Delete section 49AB(1)(b) and insert:
-(b) the person was driving the vehicle concerned on a road at 45 km/h or more above the speed limit; or
-7.Section 60 amended
-(1) Delete section 60(1) to (1D) and insert:
-(1) For the purposes of this section, a motor vehicle is driven in a reckless manner if it is driven in a manner (which expression includes speed) that is inherently dangerous or that is, having regard to all the circumstances of the case, dangerous to the public or to any person.
-(1A) A person commits an offence if the person wilfully drives a motor vehicle in a reckless manner in —
-(a) a confiscation zone; or
-(b) any other place.
-(2) In section 60(2) delete “section 61 or 62 or, if the charge is of an offence against subsection (1), an offence against section 62A.” and insert:
-section 60A, 61, 62 or 62A.
-(3) Delete section 60(3) to (7).
-Note:The heading to section 60 is to read:
-Driving in reckless manner
-8.Sections 60A, 60B and 60C inserted
-After section 60 insert:
-60A.Driving at reckless speed
-(1) A person commits an offence if the person drives a motor vehicle at a speed of 155 km/h or more on any other length of road.
-(2) A person commits an offence if the person drives a motor vehicle at 45 km/h or more above the speed limit —
-(a) in a confiscation zone; or
-(b) on any other length of road.
-(3) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of an offence against section 60(1A), 61 or 62.
-60B.Penalties for offences against sections 60 and 60A
-(1) In this section —
-offence means an offence against section 60 or 60A.
-(2) A person convicted of an offence is liable —
-(a) for a first offence, to a fine of 120 PU or to imprisonment for 9 months; and
-(b) for a second offence, to a fine of 180 PU or to imprisonment for 9 months; and
-(c) for a third or subsequent offence, to a fine of 240 PU or to imprisonment for 12 months.
-(3) In any event, a court convicting a person —
-(a) of a first offence, must order that the person be disqualified from holding or obtaining a driver’s licence for a period of not less than 6 months; and
-(b) of a second offence, must order that the person be disqualified from holding or obtaining a driver’s licence for a period of not less than 12 months; and
-(c) of a third or subsequent offence, must order that the person be permanently disqualified from holding or obtaining a driver’s licence.
-(4) If an offence is committed in the circumstance of aggravation referred to in section 49AB(1)(c), the offence is a crime.
-Penalty for this subsection: imprisonment for 5 years.
-Summary conviction penalty for this subsection: imprisonment for 2 years.
-(5) A court sentencing a person for an offence committed in the circumstance of aggravation referred to in section 49AB(1)(c) must —
-(a) sentence the person to a term of imprisonment of at least 6 months; and
-(b) not suspend the term of imprisonment; and
-(c) for a first or second offence — order that the offender is disqualified from holding or obtaining a driver’s licence for a period of not less than 2 years; and
-(d) for a third or subsequent offence — order that the offender is permanently disqualified from holding or obtaining a driver’s licence.
-(6) Subsection (5) applies whether the person was convicted on indictment or summarily and despite the Sentencing Act 1995 Part 5.
-(7) A reference in subsection (5)(c) or (d) to an offence is a reference to the offence whether or not committed in the circumstance of aggravation referred to in section 49AB(1)(c).
-60C.Arrest without warrant for driving in reckless manner or at reckless speed
-A police officer who reasonably suspects that a person has committed an offence against section 60 or 60A may, without a warrant, arrest the person.
-9.Section 61 amended
-In section 61(4) delete “or 60” and insert:
-60, as in force from time to time, or 60A
-10.Section 61A amended
-In section 61A(1) delete “60(1)” and insert:
-60(1A)
-Note:The heading to amended section 61A is to read:
-Defence for police officers driving in reckless manner in certain circumstances
-11.Section 61B inserted
-After section 61A insert:
-61B.Defence for certain officers driving at reckless speed
-The driver of a motor vehicle is not guilty of an offence under section 60A if —
-(a) either —
-(i) the driver is on official duty as a police officer and the driving is substantially in accordance with the Commissioner’s policies and guidelines relating to driving, applicable at the time of the driving, and any direction given under such a policy or guideline; or
-(ii) the driver is on official duty responding to a fire or fire alarm; or
-(iii) the driver is on official duty responding to an emergency or rescue operation where it is reasonable to assume that human life is likely to be in danger; or
-(iv) the motor vehicle is an ambulance and is being used to answer an urgent call or to convey a person to a place for the provision of urgent medical treatment;
-and
-(b) the driver is taking reasonable care; and
-(c) the vehicle is displaying a blue or red flashing light or sounding an alarm unless, in the circumstances, it is reasonable for a light not to be displayed or an alarm not to be sounded.
-12.Section 62A replaced
-Delete section 62A and insert:
-62A.Causing excessive noise or smoke from vehicle’s tyres
-A person commits an offence if the person wilfully drives a motor vehicle so as to cause one or more of its tyres to create smoke or excessive noise in or on, or leave a substance on the driving surface of —
-(a) a confiscation zone; or
-(b) any other length of road; or
-(c) a carpark.
-Penalty: a fine of 30 PU.
-13.Section 74 deleted
-Delete section 74.
-14.Section 78A amended
-(1) In section 78A delete “In” and insert:
-(1) In
-(2) In section 78A delete the definitions of:
-impounding offence (driving)
-impounding or confiscation order
-(3) In section 78A insert in alphabetical order:
-impound, in relation to a vehicle, means to store the vehicle following its seizure or surrender;
-impounding offence (driving) means —
-(a)an offence against section 60, 60A or 62A; or
-(b)an offence committed before the coming into operation of the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 section 14 that was an impounding offence (driving) as defined in this section as in force when the offence was committed;
-impounding or confiscation order means —
-(a)a court order made under section 80A, 80B(1), 80C(1), 80CA(1), 80CB(1) or 80FA; or
-(b)a court order made before the coming into operation of the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 section 14 that was an impounding or confiscation order as defined in this section as in force when the order was made;
-interest, in relation to a vehicle, means a legal or equitable interest, right or title in or to the ownership or possession of the vehicle;
-reasonable expenses, of the Commissioner, means expenses reasonably incurred by, and currently owing to, the Commissioner;
-(4) In section 78A in the definition of road rage offence paragraph (b) delete “60” insert:
-60, as in force from time to time, or 60A
-(5) At the end of section 78A insert:
-(2) In this Division, section 60(1A) is the offence for which a vehicle was impounded if —
-(a) in relation to the driving of the vehicle, a person is charged with an offence against section 60A(1) or (2); and
-(b) under section 60A(3), the person is instead convicted of an offence against section 60(1A).
-(3) In this Division, section 60A(1) is the offence for which a vehicle was impounded if —
-(a) in relation to the driving of the vehicle, a person is charged with an offence against section 60(1A); and
-(b) under section 60(2), the person is instead convicted of an offence against section 60A(1).
-(4) In this Division, section 60A(2) is the offence for which a vehicle was impounded if —
-(a) in relation to the driving of the vehicle, a person is charged with an offence against section 60(1A); and
-(b) under section 60(2), the person is instead convicted of an offence against section 60A(2).
-(5) In this Division, section 62A, as in force from time to time, is the offence for which a vehicle was impounded if —
-(a) in relation to the driving of the vehicle, a person is charged with an offence against —
-(i) section 60(1A); or
-(ii) section 60(1) as in force before the coming into operation of the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 section 14;
-and
-(b) under section 60(2), the person is instead convicted of an offence against section 62A.
-15.Section 78C amended
-(1) In section 78C(1) delete “section 79(1) or 79A(1)” and insert:
-section 79(1), 79A(1) or 80O(2)
-(2) In section 78C(2A) delete “by operation of section 79BB(2), 79BCB(2) or 79BCE(2).” and insert:
-under section 79BB(2), 79BCB(2), 79BCE(2) or 80Q(2).
-(3) In section 78C(2) delete “by operation of section 79BB(2), 79BCB(2) or 79BCE(2)” and insert:
-under section 79BB(2), 79BCB(2), 79BCE(2) or 80Q(2)
-(4) Delete section 78C(3)(a) and (ba) and insert:
-(a) impounded under section 79(1), 79A(1) or 80O(2); or
-(aa) impounded, or to be impounded, under section 79BB(1) or (2), 79BCB(1) or (2), 79BCE(1) or (2) or 80Q(2); or
-(5) In section 78C(4) delete “subsection (3)(ba)” and insert:
-subsection (3)(aa)
-16.Section 78D amended
-(1) In section 78D(a) delete “79BCB or 79BCE” and insert:
-79BCB, 79BCE, 80O(2) or 80Q(1) or (2)
-(2) In section 78D(ca) delete “section 80J;” and insert:
-section 80JA, 80J or 80V;
-17.Section 78E amended
-In section 78E delete “80K or 80LA” and insert:
-80I, 80K, 80LA or 80W
-18.Section 78F inserted
-At the end of Part V Division 4 Subdivision 1 insert:
-78F.Right of Commissioner of Police to be heard in proceedings under this Division
-(1) The Commissioner of Police has a right to be heard in proceedings under this Division.
-(2) The Commissioner of Police may be represented in those proceedings by any person the Commissioner authorises for that purpose.
-19.Part V Division 4 Subdivision 2 heading amended
-In the heading to Part V Division 4 Subdivision 2 after “police” insert:
-for certain offences
-20.Section 79 amended
-In section 79(1) before “impound” insert:
-seize and
-21.Section 79A amended
-In section 79A(1) before “impound” insert:
-seize and
-22.Section 79BA amended
-In section 79BA(5):
-(a) in paragraph (b) delete “section 79BB(5); and” and insert:
-section 79BB(5) and (6); and
-(b) in paragraph (c) delete “by operation of” and insert:
-under
-23.Section 79BB amended
-(1) In section 79BB(1) and (2) delete “is impounded by operation of this subsection” and insert:
-must be impounded
-(2) In section 79BB(3) and (4) delete “by operation of” and insert:
-under
-(3) Delete section 79BB(5) and insert:
-(5) A person who is given a surrender notice in relation to a vehicle commits an offence if the person fails to comply with the notice.
-Penalty for this subsection: a fine of 50 PU.
-(6) A person who is given a surrender notice in relation to a vehicle commits an offence if, without the authority of a court order, the person —
-(a) disposes of an interest that the person has in the vehicle; or
-(b) does anything, or causes or permits another person to do anything, that results or will result in a reduction in the value of the vehicle.
-Penalty for this subsection: a fine of 50 PU.
-Note:The heading to amended section 79BB is to read:
-Consequences of surrender notice
-24.Section 79BCA amended
-In section 79BCA(6):
-(a) in paragraph (b) delete “section 79BCB(5); and” and insert:
-section 79BCB(5) and (6); and
-(b) in paragraph (c) delete “by operation of” and insert:
-under
-Note:The heading to amended section 79BCA is to read:
-Surrender substitute vehicle notice
-25.Section 79BCB amended
-(1) In section 79BCB(1) and (2) delete “is impounded by operation of this subsection” and insert:
-must be impounded
-(2) In section 79BCB(4) delete “by operation of” and insert:
-under
-(3) Delete section 79BCB(5) and insert:
-(5) A person who is given a surrender substitute vehicle notice under section 79BCA in relation to a vehicle commits an offence if the person fails to comply with the notice.
-Penalty for this subsection: a fine of 50 PU.
-(6) A person who is given a surrender substitute vehicle notice under section 79BCA in relation to a vehicle commits an offence if, without the authority of a court order, the person —
-(a) disposes of an interest that the person has in the vehicle; or
-(b) does anything, or causes or permits another person to do anything, that results or will result in a reduction in the value of the vehicle.
-Penalty for this subsection: a fine of 50 PU.
-Note:The heading to amended section 79BCB is to read:
-Consequences of surrender substitute vehicle notice
-26.Section 79BCC amended
-In section 79BCC(2)(c)(ii) delete “issued for it under Part III,” and insert:
-granted for it under the Road Traffic (Vehicles) Act 2012 Part 2,
-Note:The heading to amended section 79BCC is to read:
-Cancelling notice under s. 79BA, 79BCA or 79BCD
-27.Section 79BCD amended
-In section 79BCD(6):
-(a) in paragraph (b) delete “section 79BCE(5); and” and insert:
-section 79BCE(5) and (6); and
-(b) in paragraph (c) delete “by operation of” and insert:
-under
-Note:The heading to amended section 79BCD is to read:
-Surrender alternative vehicle notice
-28.Section 79BCE amended
-(1) In section 79BCE(1) and (2) delete “is impounded by operation of this subsection” and insert:
-must be impounded
-(2) In section 79BCE(4) delete “by operation of” and insert:
-under
-(3) Delete section 79BCE(5) and insert:
-(5) A person who is given a surrender alternative vehicle notice under section 79BCD in relation to a vehicle commits an offence if the person fails to comply with the notice.
-Penalty for this subsection: a fine of 50 PU.
-(6) A person who is given a surrender alternative vehicle notice under section 79BCD in relation to a vehicle commits an offence if, without the authority of a court order, the person —
-(a) disposes of an interest that the person has in the vehicle; or
-(b) does anything, or causes or permits another person to do anything, that results or will result in a reduction in the value of the vehicle.
-Penalty for this subsection: a fine of 50 PU.
-Note:The heading to amended section 79BCE is to read:
-Consequences of surrender alternative vehicle notice
-29.Section 79C amended
-In section 79C(1):
-(a) before “impounds” insert:
-seizes and
-(b) in paragraph (aa) delete “the impounding,” and insert:
-the date of the seizure and impounding,
-30.Section 79E amended
-In section 79E:
-(a) delete “expenses reasonably incurred by” and insert:
-reasonable expenses of
-(b) delete the passage that begins with “section 79BCE less —” and continues to the end of the section and insert:
-section 79BCE.
-Note:The heading to amended section 79E is to read:
-Liability for police expenses for impounding
-31.Section 80A replaced
-Delete section 80A and insert:
-80A.Confiscation of vehicles used in certain impounding offences (driving)
-(1) A court that convicts a person of an impounding offence (driving) may, by order and in accordance with subsection (2), (3) or (4), confiscate the vehicle used in the offence.
-(2) A court may make an order if it is satisfied that —
-(a) the offence was committed in a school zone; or
-(b) the offence was committed in a confiscation zone other than a school zone and the commission of the offence resulted in, or was likely to result in —
-(i) members of the public experiencing harassment, intimidation, fear or alarm; or
-(ii) damage to any property, including the road;
-or
-(c) the commission of the offence involved the driving of the vehicle at 90 km/h or more above the speed limit.
-(3) The court may make the order if it is satisfied that —
-(a) the offence was committed in a confiscation zone; and
-(b) in the 5 years before the day on which the offence was committed the person was convicted of a previous impounding offence (driving) which was committed in a confiscation zone.
-(4) The court may make the order if it is satisfied that in the 5 years before the day on which the offence was committed the person was convicted of 2 previous impounding offences (driving).
-32.Section 80D amended
-In section 80D(1) delete “section 80A(1),” and insert:
-section 80A, as in force at any time,
-Note:The heading to amended section 80D is to read:
-Effect of confiscation under s. 80A, 80C or 80CB
-33.Section 80E amended
-In section 80E(1) and (2) delete “section 80A(1)” and insert:
-section 80A
-34.Section 80FA amended
-In section 80FA(2) delete “section 80A(1),” and insert:
-section 80A,
-35.Section 80G amended
-(1) In section 80G(1) delete the definition of interest.
-(2) In section 80G(1) in the definition of order delete “section 80A(1),” and insert:
-section 80A,
-(3) After section 80G(3) insert:
-(3A) Despite subsections (2) and (3), the court may make an order on its own initiative in proceedings referred to in subsection (2)(b), in which case subsection (3) applies as if —
-(a) references to the Commissioner were references to the court; and
-(b) references to an intention to make an application were references to an intention to make an order.
-(4) In section 80G(5):
-(a) delete “an application for” and insert:
-whether or not to make
-(b) delete “section 80A(1)” and insert:
-section 80A(3) or (4),
-(5) In section 80G(6A):
-(a) delete “grant an application for” and insert:
-make
-(b) delete “it may make under section 80A(1)” and insert:
-may be made under section 80A(3) or (4)
-(6) In section 80G(6) delete “not, before the application is decided,” and insert:
-not
-(7) At the end of section 80G(6) delete the Penalty and insert:
-Penalty for this subsection: a fine of 50 PU.
-Note:The heading to amended section 80G is to read:
-Procedure and grounds for making orders under s. 80A to 80CB
-36.Section 80H amended
-In section 80H(1) delete “expenses reasonably incurred by” and insert:
-reasonable expenses of
-Note:The heading to amended section 80H is to read:
-Liability for police expenses for court-ordered impounding
-37.Part V Division 4 Subdivision 4 heading replaced
-Delete the heading to Part V Division 4 Subdivision 4 and insert:
-Subdivision 4 — Vehicles impounded or confiscated under Subdivision 2 or 3
-38.Section 80IB amended
-(1) In section 80IB(1) delete “expenses reasonably incurred by” and insert:
-reasonable expenses of
-(2) In section 80IB(5)(b) delete “not convicted of that offence within that period or within an extension of that period ordered by the court.” and insert:
-acquitted of that offence, or the charge is withdrawn or dismissed.
-39.Section 80I amended
-(1) At the beginning of section 80I insert:
-(1A) If a vehicle is impounded under Subdivision 2 or on an impounding order and a person is convicted of the offence for which the vehicle was impounded, that person is liable to pay to the Commissioner an amount specified by the Commissioner as being equivalent to all reasonable expenses of the Commissioner in storing the vehicle after the impounding period ends (the post-impoundment expenses).
-(2) In section 80I(1) delete “expenses incurred in storing the vehicle after the impounding period ends.” and insert:
-post-impoundment expenses for the vehicle.
-(3) In section 80I(2A) delete “expenses referred to in subsection (1)” and insert:
-post-impoundment expenses
-(4) In section 80I(2) delete “expenses referred to in subsection (1)” and insert:
-post-impoundment expenses
-Note:The heading to amended section 80I is to read:
-Storage expenses after impounding period ends
-40.Section 80JA amended
-(1) In section 80JA(1) delete the definition of interest.
-(2) In section 80JA(1) in the definition of impounded vehicle delete “section 79A;” and insert:
-section 79 or 79A.
-(3) In section 80JA(8)(b) delete “expenses reasonably incurred by” and insert:
-reasonable expenses of
-Note:The heading to amended section 80JA is to read:
-Disposal, with consent, of vehicles impounded under s. 79 or 79A
-41.Section 80J amended
-(1) In section 80J(1) insert in alphabetical order:
-expenses means the reasonable expenses of the Commissioner;
-(2) In section 80J(1) in the definition of confiscated vehicle delete “section 80A(1),” and insert:
-section 80A, as in force at any time,
-(3) In section 80J(1) in the definition of uncollected vehicle delete “28 days” and insert:
-7 days
-(4) Delete section 80J(3) and insert:
-(3) The Commissioner is not to sell or otherwise dispose of a confiscated vehicle or an item unless any appeal against an impounding or confiscation order in respect of the vehicle is determined.
-(5) Delete section 80J(4)(b).
-(6) Delete section 80J(7)(g) and insert:
-(g) in satisfaction of an unpaid amount for which a person is liable under section 80I;
-(ga) in satisfaction of an unpaid amount of a judgment debt arising out of a liability under section 80I;
-(7) In section 80J(7)(j)(i) delete “section 80A(1)” and insert:
-section 80A, as in force at any time,
-Note:The heading to amended section 80J is to read:
-Sale of confiscated and uncollected vehicles and items
-42.Section 80LA amended
-In section 80LA(2) delete “expenses reasonably incurred to sell” and insert:
-reasonable expenses incurred by the Commissioner in selling
-Note:The heading to amended section 80LA is to read:
-Liability for police expenses for uncollected vehicle more than sale proceeds
-43.Section 80L amended
-In section 80L(1) delete “section 80A(1),” and insert:
-section 80A, as in force at any time,
-44.Section 80M inserted
-At the end of Part V Division 4 Subdivision 4 insert:
-80M.Compensation for certain vehicles or items disposed of under s. 80J
-(1) In this section —
-former owner, in relation to an uncollected vehicle sold or otherwise disposed of under section 80J, or an item in or on the vehicle, means the owner of the vehicle or item before the vehicle or item was sold or otherwise disposed of;
-item has the meaning given in section 80J(1);
-uncollected vehicle has the meaning given in section 80J(1).
-(2) The State is liable to pay compensation to the former owner of an uncollected vehicle, or an item, if the vehicle or item is sold or otherwise disposed of under section 80J and —
-(a) no charge of committing the offence for which the vehicle was impounded is laid during the period of one year after the day on which the offence is suspected to have been committed; or
-(b) during the period described in paragraph (a), a person is charged with committing the offence but the person is acquitted of that offence, or the charge is withdrawn or dismissed.
-(3) If, before the end of the period referred to in subsection (2)(a), the Commissioner of Police is satisfied that it is unlikely that a person will be charged with committing the offence for which the uncollected vehicle was impounded, the former owner of the vehicle, or item, may be paid compensation.
-(4) A liability that the State has under subsection (2) in relation to a an uncollected vehicle, or item, is reduced by an amount paid under subsection (3) in relation to the vehicle or item.
-(5) The State may recover from a person an amount equal to the amount of compensation paid to the person under subsection (2) or (3) in a court of competent jurisdiction as a debt due to the State if —
-(a) a person is, after the payment of the compensation, convicted of the offence for which the uncollected vehicle was impounded; and
-(b) any appeal against the conviction is determined and the conviction is not quashed or overturned.
-(6) The State is liable to pay compensation to the former owner of an uncollected vehicle, or an item, if —
-(a) a person was convicted of the offence for which the vehicle was impounded; and
-(b) the person is subsequently acquitted of the offence; and
-(c) at the time of the acquittal —
-(i) no other person has been convicted of the offence for which the vehicle was impounded; or
-(ii) if a person has been charged with the offence for which the vehicle was impounded, the person is acquitted of the offence or the charge is withdrawn or dismissed.
-(7) The amount of compensation to be paid under this section —
-(a) for an uncollected vehicle, is limited to the market value of the vehicle at the time it was impounded; and
-(b) for an item, is limited to the market value of the item at the time the vehicle was impounded.
-(8) For the purposes of subsection (7), the market value of an uncollected vehicle, or an item, is —
-(a) the market value agreed between the State and the former owner of the vehicle or item; or
-(b) if no such agreement exists, the market value of the vehicle or item as determined by a court of competent jurisdiction.
-45.Part V Division 4 Subdivision 5 inserted
-At the end of Part V Division 4 insert:
-Subdivision 5 — Impounding and confiscation of unlicensed motor cycles used on roads
-80N.Terms used
-In this Subdivision —
-immediate family, in relation to a person, means a spouse or de facto partner, child, grandchild, sibling, parent or grandparent of the person;
-surrender notice has the meaning given in section 80P(2);
-suspected use, in relation to a motor cycle impounded under section 80O(2) or 80Q(1) or (2), means the use of the motor cycle in circumstances described in section 80O(1)(a) to (c).
-80O.Police power to impound unlicensed motor cycle used on road
-(1) This section applies if a police officer reasonably suspects that —
-(a) a motor cycle is being used on a road; and
-(b) the use constitutes an offence under the Road Traffic (Vehicles) Act 2012 section 4(2); and
-(c) the motor cycle was not, at any time during the period of 2 years immediately before the day of the use —
-(i) licensed under the Road Traffic (Vehicles) Act 2012; or
-(ii) the subject of a permit, or number plates, issued under the Road Traffic (Vehicles) Act 2012 section 13.
-(2) The police officer may seize and impound the motor cycle within a period of 28 days after the day of its suspected use.
-(3) The Commissioner is to ensure that, as soon as practicable after a motor cycle is impounded under subsection (2), notice of the impounding is given to —
-(a) a responsible person for the motor cycle; and
-(b) if that person has not reached the age of 18 years, a responsible adult, as defined in the Young Offenders Act 1994, for the person.
-(4) The notice must be in an approved form and specify the following —
-(a) the time when the motor cycle was impounded;
-(b) the address of the place where the motor cycle is stored;
-(c) sufficient details of the motor cycle to identify it;
-(d) the time and place of the suspected use of the motor cycle;
-(e) sufficient other details of the suspected use to identify the grounds for giving the notice;
-(f) if known, the name of the driver of the motor cycle during its suspected use.
-(5) The notice must also include the following —
-(a) a statement to the effect that this Subdivision contains law about the notice and the impounding of the motor cycle;
-(b) a statement as to the effect of sections 80S, 80T and 80U;
-(c) a statement as to the effect that if the motor cycle is confiscated under section 80T, it may be disposed of under section 80V;
-(d) a statement as to the effect of section 80W.
-80P.Surrender notice
-(1) This section applies if —
-(a) a police officer reasonably suspects, in relation to a motor cycle, that the motor cycle has been used in circumstances described in section 80O(1)(a) to (c); and
-(b) it is impracticable for the police officer to impound the motor cycle under section 80O(2).
-(2) The police officer may give, personally or by registered post, a notice (a surrender notice) to —
-(a) a responsible person for the motor cycle; and
-(b) if that person has not reached the age of 18 years, a responsible adult, as defined in the Young Offenders Act 1994, for the person.
-(3) The surrender notice cannot be given more than 28 days after the day of the suspected use of the motor cycle.
-(4) The surrender notice must be in an approved form and contain a statement to the effect that, because of the suspected use of the motor cycle, it is required to be surrendered to the Commissioner for impounding.
-(5) The surrender notice must specify the following —
-(a) sufficient details of the motor cycle to identify it;
-(b) the time and place of the suspected use of the motor cycle;
-(c) sufficient other details of the suspected use to identify the grounds for giving the notice;
-(d) if known, the name of the driver of the motor cycle during its suspected use;
-(e) the place at which, and the time of day during which, the motor cycle and its keys are required to be surrendered under this Subdivision;
-(f) the last day on or before which the motor cycle and its keys are required to be surrendered, being the 7th day after the day the surrender notice has been given.
-(6) The surrender notice must also include the following —
-(a) a statement to the effect that this Subdivision contains law about the notice and the impounding of the motor cycle;
-(b) a statement as to the effect of sections 80Q(1) and (2), 80S, 80T and 80U;
-(c) a statement as to the effect that if the motor cycle is confiscated under section 80T, it may be disposed of under section 80V;
-(d) a statement as to the effect of section 80W.
-80Q.Consequences of surrender notice
-(1) If a responsible person for a motor cycle who is given a surrender notice surrenders the motor cycle according to the notice, the motor cycle must be impounded for a period that commences at the time when the motor cycle is surrendered.
-(2) If a responsible person for a motor cycle who is given a surrender notice fails to surrender the motor cycle according to the notice, the motor cycle must be impounded for a period that commences at the time when a police officer takes possession of the motor cycle for the purpose of impounding it.
-(3) A person who is given a surrender notice in relation to a motor cycle commits an offence if the person fails to comply with the notice.
-Penalty for this subsection: a fine of 50 PU.
-(4) A person who is given a surrender notice in relation to a motor cycle commits an offence if, without the authority of a court order, the person —
-(a) disposes of an interest that the person has in the motor cycle; or
-(b) does anything, or causes or permits another person to do anything, that results or will result in a reduction in the value of the motor cycle.
-Penalty for this subsection: a fine of 50 PU.
-80R.Senior police officer to be informed if vehicle impounded
-(1) A police officer, other than a senior police officer, who seizes and impounds a motor cycle under section 80O(2) or gives a surrender notice under section 80P(2) must, as soon as practicable after the notice is given, inform a senior police officer of the following —
-(a) the date the seizure and impounding or the giving of the notice, as the case requires;
-(b) the police officer’s grounds for suspecting the matters referred to in section 80O(1)(a) to (c);
-(c) whether or not the motor cycle has been seized or surrendered.
-(2) A senior police officer who is informed under subsection (1) must make enquiries as to whether there were reasonable grounds for suspecting the matters referred to in section 80O(1)(a) to (c).
-(3) If the senior police officer is not satisfied that there were reasonable grounds for suspecting the matters referred to in section 80O(1)(a) to (c), the senior police officer must, as soon as practicable —
-(a) if the motor cycle has been impounded under section 80P, cancel the surrender notice and give a written notice of the cancellation to each person to whom the notice was given; and
-(b) ensure that the motor cycle is returned to a responsible person for the motor cycle, or if no responsible person is available, to the driver of the motor cycle at the time of its suspected use.
-80S.Claims of right to possession
-(1) A person may, within 10 days after the day on which a motor cycle is impounded under section 80O(2) or 80Q(1) or (2), give to the Commissioner a claim that —
-(a) the person —
-(i) is a responsible person for the motor cycle; and
-(ii) is not a member of the driver’s immediate family; and
-(iii) was not the driver of the motor cycle at the time of the suspected use;
-and
-(b) the suspected use of the motor cycle occurred without the knowledge and acquiescence of the person.
-(2) The claim is to be in an approved form.
-(3) If the Commissioner accepts the claim, the Commissioner must, as soon as practicable, ensure that the motor cycle is returned to the claimant.
-(4) If the Commissioner rejects a claim, the Commissioner must, as soon as practicable, give a written notice of the rejection to the person making the claim.
-80T.Confiscation
-(1) A motor cycle impounded under section 80O(2) or 80Q(1) or (2) is confiscated on the later of the following —
-(a) if the Commissioner does not receive a claim under section 80S — the 14th day after the motor cycle is impounded; or
-(b) if the Commissioner receives one or more claims under section 80S but rejects all of them — the day after the last of those claims is rejected.
-(2) If a motor cycle is confiscated under subsection (1), the property in the motor cycle vests absolutely in the State, free from all interests, rights, titles or claims in or to the ownership or possession of the motor cycle.
-80U.Liability for police expenses
-If a motor cycle is confiscated under section 80T(1), the driver of the motor cycle at the time of its suspected use is liable to pay to the Commissioner an amount specified by the Commissioner as being equivalent to all reasonable expenses of the Commissioner in —
-(a) impounding the motor cycle; and
-(b) storing the motor cycle after it has been confiscated but before it has been sold or otherwise disposed of under section 80V.
-80V.Sale or other disposal of confiscated motor cycle and items on it
-(1) In this section —
-confiscated motor cycle means a motor cycle that is confiscated under section 80T(1);
-item, in relation to a confiscated motor cycle, means an item that was in or on the motor cycle at the time when it was impounded under this Subdivision.
-(2) The Commissioner may sell or otherwise dispose of a confiscated motor cycle or an item.
-(3) The owner of an item may apply to the Magistrates Court for an order that the item be returned.
-(4) Proceeds of the sale or disposal under subsection (2) of a confiscated motor cycle or item are to be paid in the following order of priority —
-(a) for expenses incurred in selling the motor cycle or item;
-(b) for expenses incurred consequent on the confiscation of the motor cycle;
-(c) in satisfaction of an unpaid amount for which a person is liable under section 80U;
-(d) in satisfaction of an unpaid amount of a judgment debt arising out of a liability under section 80U;
-(e) in satisfaction of any unpaid amount known to the Commissioner —
-(i) for which the motor cycle was nominated in writing as security for the payment of that amount; and
-(ii) that, but for the confiscation of the motor cycle, would have been payable to a person other than the person convicted of the offence in respect of which the motor cycle was confiscated;
-(f) the balance, to the credit of the Road Trauma Trust Account established in accordance with the Road Safety Council Act 2002 section 12.
-80W.Liability for police expenses exceeding sale proceeds
-If a motor cycle or item is sold under section 80V(2) but the proceeds of the sale are insufficient to pay the expenses specified in section 80U, the driver of the motor cycle at the time of its suspected use is liable to pay to the Commissioner the difference between the amount of those expenses and the proceeds of the sale.
-46.Part VIII heading amended
-In the heading to Part VIII after “Transitional” insert:
-and savings
-47.Section 109 inserted
-At the end of Part VIII insert:
-109.Transitional and savings provisions for the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016
-(1) In this section —
-amendment Act means the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016;
-commencement day means —
-(a)in subsections (2) to (5), the day on which section 7 of the amendment Act comes into operation;
-(b)in subsections (6) to (9), the day on which section 31 of the amendment Act comes into operation;
-former, in relation to a provision of this Act, means the provision as it was immediately before commencement day.
-(2) An offence committed under former section 60(1) is, on and after commencement day, to be taken to be an offence under section 60(1A)(b) for the purposes of Part V.
-(3) An offence committed under former section 60(1a) is, on and after commencement day, to be taken to be an offence under section 60A(1)(b) for the purposes of Part V.
-(4) An offence committed under former section 60(1b) is, on and after commencement day, to be taken to be an offence under section 60A(2)(b) for the purposes of Part V.
-(5) An offence committed under former section 62A is, on and after commencement day, to be taken to be an offence under section 62A(b) or (c), as the case requires, for the purposes of Part V.
-(6) Section 80A(2) and (3) do not apply to, or in relation to, an offence committed before commencement day.
-(7) Section 80J applies to a vehicle impounded under Part V Division 4 Subdivision 2, or on an impounding order (as defined in section 78A), whether before, on or after commencement day.
-(8) Section 80J applies to a vehicle confiscated under former section 80A(1) as if it had been confiscated under section 80A on or after commencement day.
-(9) Section 80J applies to a vehicle confiscated under section 80C(1) or 80CB(1) whether before, on or after commencement day.
-Part 3 — Consequential amendments to other Acts and repeals
-Division 3 — Road Traffic Legislation Amendment Act 2016 amended 37
-53.Act amended
-This Division amends the Road Traffic Legislation Amendment Act 2016.
-54.Section 42 amended
-(1) In section 42 in inserted section 49AAA insert in alphabetical order:
-above the speed limit, in relation to the driving of a vehicle, means driving the vehicle at a speed that exceeds the speed limit applicable to the driver, the vehicle or the length of road where it is being driven;
-confiscation zone means —
-(a)in relation to a vehicle, a length of road where the speed limit applicable to the vehicle, or the length of road, is 50 km/h or less; or
-(b)a school zone;
-motor cycle means a motor vehicle that has 2 wheels and includes —
-(a)a 2-wheeled motor vehicle with a sidecar attached to it that is supported by a third wheel; and
-(b)a motor vehicle with 3 wheels that is ridden in the same way as a motor vehicle with 2 wheels;
-school zone means a length of road designated as a school zone under a road law;
-speed limit means a speed limit set under a road law.
-(2) In section 42 in inserted section 49AAA in the definition of provide driving instruction delete “vehicle.” and insert:
-vehicle;
-Note for this Division:
-See the note to section 5.
-Division 5 — Repeals
-57.Certain provisions of this Act repealed if not commenced
-(1) If the Road Traffic Legislation Amendment Act 2016 section 42 comes into operation on or before the day on which section 4 of this Act comes into operation, section 5 and Part 3 Division 3 of this Act —
-(a) do not come into operation; and
-(b) are repealed when section 4 of this Act comes into operation.
-(2) If the Road Traffic Legislation Amendment Act 2016 section 42 has not come into operation before the day on which section 5 and Part 3 Division 3 of this Act have come into operation, section 4 of this Act —
-(a) does not come into operation; and
-(b) is repealed when section 5 and Part 3 Division 3 of this Act come into operation.
+The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 s. 5 and Pt. 3 Div. 3 will not come into operation (see. s. 57(1)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+above the speed limit49AAA
 alleged offence71C(1), 71C(1)
 alleged offender71C(1), 71C(1), 79BCA(1), 79BCD(1), 79D(2), 79D(2), 79D(2), 79D(2), 79D(6)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
+amendment Act109(1)
 analyst65
-approved78A
+approved78A(1)
 approved device65
 approved expert70(7)
 authorised drug tester65
@@ -985,11 +436,13 @@ breath analysing equipment65
 business owner79D(2)
 cancellation provision62B(3), 64A(1A)
 circumstances of aggravation49AB(1)
-commencement day72(8), 72A(1)
-Commissioner78A, 80G(1)
+commencement day72(8), 72A(1), 109(1)
+Commissioner78A(1), 80G(1)
 conduct65
+confiscated motor cycle80V(1)
 confiscated vehicle80J(1)
-day of the offence78A
+confiscation zone49AAA
+day of the offence78A(1)
 dentist65
 disqualification notice71C(2)
 driver49A(1), 54(1), 54(2), 54(6), 55(1), 55(4), 56(1), 56(4), 59(1), 59A(1), 59BA(1), 79BC(1)
@@ -998,62 +451,74 @@ drug65
 drug testing65
 drugs analyst65
 event81A
+expenses80J(1)
+former109(1)
+former owner80M(1)
 grievous bodily harm49AAA
-hired78A
+hired78A(1)
+immediate family80N
+impound78A(1)
 impounded vehicle79D(1), 80JA(1)
-impounding offence (driver’s licence)78A
-impounding offence (driving)78A
-impounding or confiscation order78A
-impounding order78A
-impounding period78A
+impounding offence (driver’s licence)78A(1)
+impounding offence (driving)78A(1)
+impounding or confiscation order78A(1)
+impounding order78A(1)
+impounding period78A(1)
 impounding provision79BA(1), 79BA(1), 79BCA(5), 79BCD(5)
 initially impounded vehicle79BCA(1)
 instructor49AAA
-interest80G(1), 80JA(1)
-item80J(1)
+interest78A(1)
+item80J(1), 80M(1), 80V(1)
 learner driver49AAA
-lent78A
+lent78A(1)
 material time71(1)
 medical practitioner65
 Minister72(3A)
+motor cycle49AAA
 necessity permit49A(5)
 notice to surrender79BCC(1)
 nurse practitioner65
-offence79BA(1), 79BCA(1), 79BCD(1)
+offence60B(1), 79BA(1), 79BCA(1), 79BCD(1)
 offender71B(1), 80LA(1)
 order80G(1), 81A
 police officer71C(1), 71C(1), 79BA(1)
+post-impoundment expenses80I(1A)
 preliminary oral fluid test65
 preliminary test65
 prescribed illicit drug65
 previous offender79(1A), 79BC(1)
 provide driving instruction49AAA
+reasonable expenses78A(1)
+reckless manner60(1)
 registered nurse65
 relevant offence49(7)
 requirement67(1), 67AA(1), 67AB(1), 68A(1)
 road81A
-road rage circumstances78A
-road rage offence78A
+road rage circumstances78A(1)
+road rage offence78A(1)
 sample71A(1)
+school zone49AAA
 self-testing breath analysing equipment65
 selling expenses80LA(2)
-senior police officer78A
+senior police officer78A(1)
 service79D(1)
 shorter impounding period79BC(2), 79BC(3)
+speed limit49AAA
 subject71A(1)
 substitute vehicle79BCA(4), 79B(3A)
 surrender alternative vehicle notice79BCD(2)
-surrender notice79(1A), 79BA(2)
-surrender period78A
+surrender notice79(1A), 79BA(2), 80N, 80P(2)
+surrender period78A(1)
 surrender substitute vehicle notice79BCA(2)
+suspected use80N
 taxi79D(1)
 taxi operator79D(1)
 technologist70(7)
 time of sampling71(1)
-uncollected vehicle80J(1)
+uncollected vehicle80J(1), 80M(1)
 undergoes65
 vehicle79BA(1)
 vehicle A79BCD(1)
-vehicle referred to in section 80GA78A
+vehicle referred to in section 80GA78A(1)
 vehicle service provider79D(1)
 victim54(2), 54(6)

@@ -1,4 +1,4 @@
-### 79BCA. Notice to surrender substitute vehicle for impoundment, issue of etc.
+### 79BCA. Surrender substitute vehicle notice
 (1) This section applies if —
 (a) a vehicle (the initially impounded vehicle) is impounded under section 79, 79A or 79BB; and
 (b) under section 79D(2), the initially impounded vehicle is released before the impounding period ends; and
@@ -22,7 +22,7 @@ and
 (j) the last day on or before which the vehicle and its keys are required to be surrendered, being the seventh day after the day on which the notice is given.
 (6) The surrender substitute vehicle notice must also include —
 (a) a statement to the effect that this Division contains law about the notice and the impounding of the vehicle; and
-(b) a statement as to the effect of section 79BCB(5); and
-(c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded by operation of section 79BCB(2).
+(b) a statement as to the effect of section 79BCB(5) and (6); and
+(c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded under section 79BCB(2).
 (7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender substitute vehicle notice must specify only one of them as the substitute vehicle, being the one decided by the police officer issuing the notice.
-[Section 79BCA inserted by No. 20 of 2010 s. 6; amended by No. 8 of 2012 s. 37.]
+[Section 79BCA inserted by No. 20 of 2010 s. 6; amended by No. 8 of 2012 s. 37; No. 51 of 2016 s. 24.]
