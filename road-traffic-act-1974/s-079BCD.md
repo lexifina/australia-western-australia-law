@@ -1,4 +1,4 @@
-### 79BCD. Notice to surrender alternative vehicle for impoundment, issue of etc.
+### 79BCD. Surrender alternative vehicle notice
 (1) This section applies if —
 (a) under section 79BA a surrender notice is given to a person responsible for a vehicle (vehicle A) the driver of which (the alleged offender) is suspected of having committed an offence (the offence); and
 (b) under section 79BCC the surrender notice is cancelled before vehicle A is impounded under section 79BB; and
@@ -20,7 +20,7 @@
 (i) the last day on or before which the alternative vehicle and its keys are required to be surrendered, being the seventh day after the day on which the notice is given.
 (6) The surrender alternative vehicle notice must also include —
 (a) a statement to the effect that this Division contains law about the notice and the impounding of the vehicle; and
-(b) a statement as to the effect of section 79BCE(5); and
-(c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded by operation of section 79BCE(2).
+(b) a statement as to the effect of section 79BCE(5) and (6); and
+(c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded under section 79BCE(2).
 (7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender alternative vehicle notice must specify only one of them as the alternative vehicle, being the one decided by the police officer issuing the notice.
-[Section 79BCD inserted by No. 20 of 2010 s. 6; amended by No. 8 of 2012 s. 37.]
+[Section 79BCD inserted by No. 20 of 2010 s. 6; amended by No. 8 of 2012 s. 37; No. 51 of 2016 s. 27.]

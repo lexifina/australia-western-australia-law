@@ -1,4 +1,4 @@
-### 79BCC. Notice under s. 79BA, 79BCA or 79BCD, cancelling
+### 79BCC. Cancelling notice under s. 79BA, 79BCA or 79BCD
 (1) In this section —
 notice to surrender means —
 (a) a surrender notice given under section 79BA; or
@@ -9,7 +9,7 @@ notice to surrender means —
 (b) the vehicle has not been impounded under section 79BB, 79BCB or 79BCE, as the case may be; and
 (c) either —
 (i) if the vehicle were so impounded, the vehicle would be a vehicle that could, under section 79D, be released before the impounding period ends; or
-(ii) the vehicle’s condition is such that it no longer functions as a vehicle and a licence could not be issued for it under Part III,
+(ii) the vehicle’s condition is such that it no longer functions as a vehicle and a licence could not be granted for it under the Road Traffic (Vehicles) Act 2012 Part 2,
 the officer may cancel the notice to surrender.
 (3) As soon as is practicable after a senior police officer cancels a notice to surrender, the officer must give a written notice of the cancellation to the person to whom the notice to surrender was given.
-[Section 79BCC inserted by No. 20 of 2010 s. 6.]
+[Section 79BCC inserted by No. 20 of 2010 s. 6; amended by No. 51 of 2016 s. 26.]
