@@ -3,7 +3,7 @@
 [Heading inserted in Gazette 6 Aug 2013 p. 3655.]
 Adoption Regulations 1995 r. 23M(1)(a)
 Building Services (Complaint Resolution and Administration) Act 2011 s. 11(1)(d), 11(4)(b) or 55(1)
-Children and Community Services Act 2004 s. 94 or 163(1)
+Children and Community Services Act 2004 s. 88H, 94 or 163(1)
 Credit Act 1984 s. 74(3) or 116(4)
 Credit (Administration) Act 1984 s. 23(5)
 Debt Collectors Licensing Act 1964 s. 10(1c) or 11(2)
@@ -25,6 +25,7 @@ Retirement Villages Act 1992 s. 9(3)(c)
 State Administrative Tribunal Act 2004 s. 44(3)(b) or (4) or 83(2)(a)
 Strata Titles Act 1985 s. 82
 Taxation Administration Act 2003 s. 38(5)
+Teacher Registration Act 2012 s. 21(2), 26(4), 53(1)(e), 61(1)(a) or 80(1)(c)
 Valuation of Land Act 1978 s. 33(2) or 35(2)
-[Schedule 7 inserted in Gazette 26 Jun 2007 p. 2994-5; amended in Gazette 22 Jul 2011 p. 3018; 6 Aug 2013 p. 3655-6; 14 Nov 2013 p. 5069; 29 Dec 2015 p. 5180.]
+[Schedule 7 inserted in Gazette 26 Jun 2007 p. 2994-5; amended in Gazette 22 Jul 2011 p. 3018; 6 Aug 2013 p. 3655-6; 14 Nov 2013 p. 5069; 29 Dec 2015 p. 5180; 13 Jan 2017 p. 352.]
 [Schedules 8-19 deleted in Gazette 26 Jun 2007 p. 2987.]

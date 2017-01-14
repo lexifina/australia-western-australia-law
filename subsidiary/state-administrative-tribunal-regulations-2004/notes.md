@@ -31,6 +31,7 @@ State Administrative Tribunal Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p
 State Administrative Tribunal Amendment Regulations (No. 4) 2015 | 29 Dec 2015 p. 5179-80 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 9 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 5 | 30 Dec 2016 p. 5965-6 | 31 Dec 2016 (see r. 2(b))
+State Administrative Tribunal Amendment Regulations (No. 3) 2016 | 13 Jan 2017 p. 351-2 | r. 1 and 2: 13 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2017 (see r. 2(b))
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
