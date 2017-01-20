@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Sexual Offenders Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 January 2017 of the Dangerous Sexual Offenders Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Dangerous Sexual Offenders Act 2006 | 1 of 2006 | 30 Mar 2006 | s. 1 and 2: 30 Mar 2006; Act other than s. 1 and 2: 13 May 2006 (see s. 2 and Gazette 12 May 2006 p. 1781)
@@ -10,6 +10,7 @@ Reprint 1: The Dangerous Sexual Offenders Act 2006 as at 18 Oct 2013 (includes a
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 9 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 10 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 2 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
+Reprint 2: The Dangerous Sexual Offenders Act 2006 as at 20 Jan 2017 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -18,13 +19,13 @@ approved19A(3)
 audio link44(1A)
 Board3(1)
 chief executive officer3(1)
-commencement daySch. 1 cl. 1(1), Sch. 1 cl. 2(1)
+commencement daySch. 1 cl. 1(1) and cl. 2(1)
 commit a serious sexual offence3(1)
 community3(1)
 community corrections officer3(1)
 continuing detention order3(1)
 criminal record3(1)
-current order8(4A)
+current order8(4A)(a)
 Division 2 order3(1)
 DPP3(1)
 expert evidence material10A(1)
