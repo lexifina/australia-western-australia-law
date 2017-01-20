@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Legal Aid Commission Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Legal Aid Commission Act 1976 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Legal Aid Commission Act 1976 | 143 of 1976 | 13 Dec 1976 | 17 Jun 1977 (see s. 2 and Gazette 17 Jun 1977 p. 1812)
@@ -37,27 +37,19 @@ Acts Amendment (Bankruptcy) Act 2009 s. 50 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Acts Amendment (Fair Trading) Act 2010 s. 197 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Associations Incorporation Act 2015 s. 221 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
-On the date as at which this compilationwas prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 6: The Legal Aid Commission Act 1976 as at 20 Jan 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Other notes
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
-Footnote no longer applicable.
-Repealed by the Statute Stocktake Act 1999 s. 3 of the Commonwealth (No. 118 of 1999).
-Footnote no longer applicable.
-See Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 s. 88(2).
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 11.
+Repealed by the Statute Stocktake Act 1999 s. 3 (Cwlth) (No. 118 of 1999).
+See the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 s. 88(2).
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 9.
 The Legal Contribution Trust Act 1967 Pt. V was repealed by the Legal Contribution Trust Act Amendment Act 1976 s. 6.
-Repealed by the Public Employment (Consequential and Transitional) Amendment Act 1999 s. 3(1) of the Commonwealth (No. 146 of 1999).
+Repealed by the Public Employment (Consequential and Transitional) Amendment Act 1999 s. 3(1) (Cwlth) (No. 146 of 1999).
 The amendment in the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 47(7) and (11) cannot be done as the section to be amended has already been amended by the Statutes (Repeals and Minor Amendments) Act 2003 s. 75(4).
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-...................... | ........
-Legal Aid Commission Act 1976 | s. 22
-...................... | ........
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -73,6 +65,8 @@ authorised person68A
 CEO37(3b)
 Chairman4(1)
 child37(3b)
+Commission4(1)
+Commonwealth Council4(1)
 Commonwealth employee77(1)
 consultative committee4(1)
 Convention68A
@@ -80,8 +74,9 @@ court64(6)
 decision46
 Department37(3b)
 Director4(1)
-disclose64(2b), 64(2c)
+disclose64(2b) and (2c)
 disclosure64(2b)
+Fund4(1)
 law practice4(1)
 Law Society4(1)
 legal advice4(1)
@@ -106,9 +101,6 @@ regulations68A
 relevant official44A(10)
 responsible authority47(4)
 review committee4(1)
-the Commission4(1)
-the Commonwealth Council4(1)
-the Fund4(1)
-the staff4(1)
+staff4(1)
 transferred employee78(1)
 unassisted person4(1)
