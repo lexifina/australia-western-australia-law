@@ -1,6 +1,6 @@
 ## Schedule 1 — Departments and authorities, and extent, to which this Act does not apply
 [s. 13(2)(n)]
-[Heading inserted by No. 10 of 2009 s. 10.]
+[Heading inserted: No. 10 of 2009 s. 10.]
 Act establishing department or authority | Department or authority, and extent, to which this Act does not apply
 Auditor General Act 2006 | The Auditor General to the extent of the Auditor General’s functions other than that of chief executive officer of the department of the Public Service known as the Office of the Auditor General.
 Commissioner for Children and Young People Act 2006 | Commissioner for Children and Young People to the extent of the Commissioner’s functions other than that of chief employee under the Public Sector Management Act 1994.
@@ -17,4 +17,4 @@ Racing and Wagering Western Australia Act 2003 | Racing and Wagering Western Aus
 Royal Commissions Act 1968 | Any Royal Commission.
 Solicitor-General Act 1969 | Solicitor-General.
 State Administrative Tribunal Act 2004 | State Administrative Tribunal.
-[Schedule 1 inserted by No. 10 of 2009 s. 10; amended by No. 16 of 2009 s. 71; No. 39 of 2010 s. 80; No. 35 of 2014 s. 36(5).]
+[Schedule 1 inserted: No. 10 of 2009 s. 10; amended: No. 16 of 2009 s. 71; No. 39 of 2010 s. 80; No. 35 of 2014 s. 36(5).]
