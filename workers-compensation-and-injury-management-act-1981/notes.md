@@ -80,13 +80,13 @@ Workers’ Compensation and Injury Management Amendment Act 2013 | 21 of 2013 | 
 Reprint 11: The Workers’ Compensation and Injury Management Act 1981 as at 13 Feb 2015 (includes amendments listed above)
 Health Services Act 2016 s. 306 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Statutes (Repeals) Act 2016 Pt. 2 Div. 4 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
+Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 4 | 28 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 647)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
 Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 4 | 28 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
 The effect of this section was removed by the Western Australian Marine Act 1982 s. 135, subject to the savings provisions in section 135(4) of that Act.
 Repealed by the Statute Stocktake Act 1999 (Cwlth).
@@ -453,47 +453,11 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 (1) This section amends the Workers’ Compensation and Injury Management Act 1981.
 (2) In section 5(1) delete the definition of drug of addiction and insert:
 drug of addiction has the meaning given in the Misuse of Drugs Act 1981 section 3(1);
-On the date as at which this compilation was prepared, the Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Workers’ Compensation and Injury Management Act 1981 amended
-8.Act amended
-This Part amends the Workers’ Compensation and Injury Management Act 1981.
-9.Section 49A amended
-In section 49A insert in alphabetical order:
-FES employment, in relation to a worker, means any period of firefighting employment during which the worker is engaged as a member or officer of a permanent fire brigade as defined in Fire Brigades Act 1942 section 4(1);
-firefighting employment means employment by or under the Crown in right of the State, a substantial part of the duties of which consists of firefighting duties, which —
-(a)is covered by an industrial award or industrial agreement applicable to firefighting; or
-(b)is prescribed to be firefighting employment for the purposes of this Act;
-hazardous fire means —
-(a)a fire in a building; or
-(b)a fire in a vehicle, whether designed to move under its own power or to be towed and whether or not still moveable; or
-(c)a fire involving non-organic refuse or rubbish created by humans; or
-(d)a fire that is prescribed to be a hazardous fire for the purposes of this Division;
-hazardous firefighting employment means —
-(a)FES employment; and
-(b)non-FES employment during which the worker attends hazardous fires at a rate at least equivalent to the rate of 5 hazardous fires per year;
-non-FES employment, in relation to a worker, means any period of firefighting employment which is not FES employment;
-10.Section 49B amended
-Delete 49B(b) and insert:
-(b) as at the date of injury the worker is or has been in firefighting employment.
-11.Section 49C amended
-(1) In section 49C(1):
-(a) in paragraph (a) delete “before the date of injury, was employed as a firefighter for” and insert:
-as at the date of injury, is or has been in firefighting employment for a period of, or periods in aggregate amounting to,
-(b) delete paragraph (b) and insert:
-(b) is taken to have been exposed to the hazards of a fire scene in the course of the firefighting employment; and
-(c) before “employment” (2nd occurrence) insert:
-firefighting
-(2) Delete section 49C(2) and (3) and insert:
-(2) For the purposes of subsection (1), a worker to whom this Division applies is taken to have been exposed to the hazards of a fire scene if the employer is satisfied that the worker has completed a period of hazardous firefighting employment of, or 2 or more periods of hazardous firefighting employment in aggregate amounting to, at least the lesser of —
-(a) 5 years; and
-(b) the qualifying period.
-Note:The heading to amended section 49C is to read:
-When firefighting employment taken to contribute to specified disease
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 additional medical examination66A(1)
-adjacent areaSch. 6 cl. 2(1), Sch. 6 cl. 2(2), Sch. 6 cl. 2(3), Sch. 6 cl. 2(4)
+adjacent areaSch. 6 cl. 2(1), cl. 2(2), cl. 2(3) and cl. 2(4)
 agent261
 agent service261
 agreed93E(1)
@@ -587,11 +551,15 @@ election registration day93H(1)
 employer5(1), 5(1), 5(1), 59(1), 93AC, 154A(2)
 estimate5(1)
 event93H(2), 158(2), Sch. 1 cl. 18C(4)
+FES employment49A
+firefighting employment49A
 former Board316
 former provisionsSch. 8 cl. 1
 former Supplementary Board316
 full amount31D(1)
 General Account5(1)
+hazardous fire49A
+hazardous firefighting employment49A
 hearing259(1)
 HIV31F(1), 93Q(8)
 impairment31G(1)
@@ -630,6 +598,7 @@ new Board316
 new information 217A(1)
 new Supplementary Board316
 noise induced hearing loss5(1)
+non-FES employment49A
 normal evaluation93M(5), 93N(6), 146C(3)
 notifiable person182(2)
 notification day93EC
@@ -657,8 +626,7 @@ proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
 prohibited drug31F(1), 93Q(8)
 prohibited person182S(4), 195(4A)
 qualifying period49A
-reasonable expenses referred to
-in clause 17(1)Sch. 1 cl. 18A(1AA), Sch. 1 cl. 18D(1A)
+reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA) and cl. 18D(1A)
 redemption amountSch. 5 cl. 1(1)
 registered agent5(1)
 registered club11A(1)
@@ -709,6 +677,6 @@ weekly paymentsSch. 5 cl. 3(2)
 weekly payments of compensation5(1)
 WorkCover Guides5(1)
 WorkCover WA5(1), 314(2)
-worker5(1), 5(1), 5(1), 8, 9, 10, 11A(2), 93AC
+worker5(1), 8, 9, 10, 11A(2), 93AC
 workers’ compensation cover170(7)
 working director10A(1)
