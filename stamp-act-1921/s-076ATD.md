@@ -5,4 +5,4 @@
 (a) the person has, or the person and any related person have, a controlling interest in the WA company;
 (b) the acquisition of that controlling interest gave rise to a liability for duty under this Part; and
 (c) the person acquires, or the person and any related person acquire, an interest in the WA company such that having acquired that interest the person, or the person and any related person, would be entitled if the WA company were to be wound up to participate further in a distribution of the property of the WA company.
-[Section 76ATD inserted by No. 11 of 2004 s. 29.]
+[Section 76ATD inserted: No. 11 of 2004 s. 29.]

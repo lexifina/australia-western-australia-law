@@ -23,4 +23,4 @@
 (b) results solely from the allotment or issue of units in the provisional public trust during the start up period,
 the conveyance or transfer is to be disregarded in relation to a unit held in the provisional public trust on the first day of the start up period.
 (7) For the purpose of being satisfied as to a matter referred to in subsection (5), the Commissioner may take into account any matter that the Commissioner considers to be relevant.
-[Section 63ADB inserted by No. 66 of 2003 s. 22.]
+[Section 63ADB inserted: No. 66 of 2003 s. 22.]

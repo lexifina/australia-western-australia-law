@@ -14,4 +14,4 @@ liable person means —
 (6) The requirement to lodge a dutiable statement under subsection (1) in respect of a disposition ceases to apply if a transfer or an instrument effecting or evidencing the disposition is lodged with the Commissioner at any time after the disposition was made, but nothing in this subsection affects the liability of a person for an offence against subsection (1) committed before the transfer or the instrument is lodged.
 (7) If subsection (6) has effect, the transfer or instrument referred to in that subsection is to be regarded, for the purposes of sections 16(5) and 17A, as having been first executed on the day on which the disposition was made.
 (8) Section 31B does not apply to, or in relation to, a disposition referred to in subsection (1).
-[Section 73DAA inserted by No. 66 of 2003 s. 32; amended by No. 12 of 2008 s. 10.]
+[Section 73DAA inserted: No. 66 of 2003 s. 32; amended: No. 12 of 2008 s. 10.]

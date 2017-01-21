@@ -5,4 +5,4 @@ bankruptcy trustee means —
 (a) the Official Trustee in Bankruptcy; or
 (b) a registered trustee,
 under the Bankruptcy Act 1966 of the Commonwealth.
-[Section 75ABA inserted by No. 28 of 2000 s. 5; amended by No. 2 of 2003 s. 63.]
+[Section 75ABA inserted: No. 28 of 2000 s. 5; amended: No. 2 of 2003 s. 63.]

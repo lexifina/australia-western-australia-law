@@ -23,4 +23,4 @@ Bis the duty calculated under item 4(1) of the Second Schedule on the dutiable v
 (a) a section 76AT statement relates to a relevant acquisition within section 76ATC(1)(a)(ii); and
 (b) duty charged under Division 2 or 3 (the previous duty) has been paid in respect of a previous acquisition of an interest in the WA company that is taken into consideration under section 76ATC(1)(a)(ii),
 there shall be deducted from the duty payable on the section 76AT statement the amount that the previous duty would have been if the previous acquisition had occurred immediately before the relevant acquisition occurred.
-[Section 76ATA inserted by No. 11 of 2004 s. 29.]
+[Section 76ATA inserted: No. 11 of 2004 s. 29.]

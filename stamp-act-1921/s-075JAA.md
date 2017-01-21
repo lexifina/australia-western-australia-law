@@ -10,4 +10,4 @@ A body corporate is dormant throughout a particular period if, and only if, thro
 (h) was not, and did not become, a party to any underwriting agreement and did not enter into any agreement or pass any resolution in relation to becoming a party to any underwriting agreement;
 (i) did not obtain or receive a grant of any licence or other authority, or make any application or pass any resolution in relation to obtaining a licence or other authority; and
 (j) was not, and did not become, a party to any litigation or negotiations with any other person or body.
-[Section 75JAA inserted by No. 10 of 2001 s. 171.]
+[Section 75JAA inserted: No. 10 of 2001 s. 171.]

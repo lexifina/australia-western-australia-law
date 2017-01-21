@@ -9,4 +9,4 @@
 (b) if the Commissioner decides not to register a unit trust scheme as a provisional public trust, must give the unit trustee reasons for that decision.
 (5) Subject to section 17 of the Taxation Administration Act 2003, if the Commissioner registers a unit trust scheme as a provisional public trust, then the Commissioner must make any reassessment necessary to give effect to that registration.
 (6) If the Commissioner decides not to register a unit trust scheme as a provisional public trust, the unit trustee may challenge the validity or correctness of that decision in accordance with Part 4 of the Taxation Administration Act 2003 as if the unit trustee were a taxpayer and the decision were a decision affecting the trustee’s liability to pay duty.
-[Section 63ADA inserted by No. 66 of 2003 s. 22.]
+[Section 63ADA inserted: No. 66 of 2003 s. 22.]
