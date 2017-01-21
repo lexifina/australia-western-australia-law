@@ -21,6 +21,7 @@ Reprint 3: The Local Government (Administration) Regulations 1996 as at 3 Feb 20
 Local Government (Administration) Amendment Regulations 2012 | 13 Jul 2012 p. 3218-19 | r. 1 and 2: 13 Jul 2012 (see r. 2(a)); r. 3 and 4: 14 Jul 2012 (see r. 2(c)); r. 5-8: 1 Jul 2013 (see r. 2(b) and Gazette 8 Feb 2013 p. 863)
 Local Government (Administration) Amendment Regulations 2014 | 28 Feb 2014 p. 519 | r. 1 and 2: 28 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2014 (see r. 2(b))
 Local Government (Administration) Amendment Regulations 2016 | 4 Mar 2016 p. 649-58 | r. 1 and 2: 4 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Mar 2016 (see r. 2(b))
+Local Government Regulations Amendment (Gifts) Regulations 2017 Pt. 2 | 20 Jan 2017 p. 648-50 | 21 Jan 2017 (see r. 2(b))
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
 Defined terms
