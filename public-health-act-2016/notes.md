@@ -1,14 +1,14 @@
 Notes
-This is a compilation of the Public Health Act 2016. The following table contains information about that Act.
+This is a compilation of the Public Health Act 2016 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 Pt 1, 17, 19 Div. 2, 5 and 6, Pt. 20 (s. 310 and 322) | 18 of 2016 | 25 Jul 2016 | Pt. 1 (other than s. 3-5): 25 Jul 2016 (see s. 2(a)); s. 3-5, Pt. 17, Pt. 19 Div. 2, 5 and 6 and Pt. 20 s. 310 and 322: 26 Jul 2016 (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 28 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 Pt. 2-16, 18, 19 (Div. 1, 3 and 4), Pt 20 (other than s. 310 and 322) | 18 of 2016 | 25 Jul 2016 | Pt. 2 Div. 1 (except s. 7 and 8) and Div. 2-4, Pt. 18 Div. 1 and 2 and Pt. 20 (s. 307-309 and 311-312): 24 Jan 2017 (see s. 2(c) and Gazette 10 Jan 2017 p. 163); s. 7 and 8, Pt. 2 Div. 5, Pt. 3-16, Pt. 18 Div. 3, Pt. 19 Div. 1, 3 and 4 and s. 313-321: to be proclaimed (see s. 2(c))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 18 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 28 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Public Health Act 2016 Pt. 2-16, 18, 19 (Div. 1, 3 and 4), Pt 20 (other than s. 310 and 322) had not come into operation. They read as follows:
 Part 2 — Administration
 Division 1 — Chief Health Officer
@@ -2723,14 +2723,6 @@ This Division amends the Public Health Act 2016.
 320.Section 302 amended
 In section 302(2) after “this Act” insert:
 or the Health (Miscellaneous Provisions) Act 1911 Part XI
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 28 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 28 — Public Health Act 2016 amended
-81.Act amended
-This Division amends the Public Health Act 2016.
-82.Section 4 amended
-In section 4(1) in the definition of public authority after paragraph (d) insert:
-(da) a regional subsidiary; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

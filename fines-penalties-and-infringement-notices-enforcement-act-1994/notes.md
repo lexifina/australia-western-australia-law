@@ -34,12 +34,12 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 2 |
 Reprint 5: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 11 Oct 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 12 (other than s. 95) | 20 of 2013 | 4 Nov 2013 | Pt. 3 Div. 12 (other than s. 75 and 95): 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391); s. 75: 14 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4631)
 Electricity Corporations Amendment Act 2013 s. 43 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 15 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 15 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Act 2003 s. 12 reads as follows:
 12.Validation
@@ -52,14 +52,7 @@ offender means —
 of the Fines, Penalties and Infringement Notices Enforcement Act 1994.
 (2) An agreement entered into, or purportedly entered into, by or on behalf of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 (3) An agreement entered into, or purportedly entered into, by a delegate of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 15 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 15 — Fines, Penalties and Infringement Notices Enforcement Act 1994 amended
-55.Act amended
-This Division amends the Fines, Penalties and Infringement Notices Enforcement Act 1994.
-56.Section 70 amended
-In section 70(1) in the definition of public authority delete “government or a regional local government.” and insert:
-government, regional local government or regional subsidiary.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation. It reads as follows:
 Part 3 — Amendments to other Acts
 Division 12 — Fines, Penalties and Infringement Notices Enforcement Act 1994 amended

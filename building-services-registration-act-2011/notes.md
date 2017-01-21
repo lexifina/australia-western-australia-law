@@ -1,20 +1,9 @@
 Notes
-This is a compilation of the Building Services (Registration) Act 2011. The following table contains information about that Act.
+This is a compilation of the Building Services (Registration) Act 2011 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Building Services (Registration) Act 2011 | 19 of 2011 | 22 Jun 2011 | s. 1 and 2: 22 Jun 2011 (see s. 2(a)); s. 3, Pt. 2-8, Pt. 9 other than s. 112 and Div. 3 Subdiv. 3, Pt. 10 Div. 1, s. 155, s. 156(1) and (4) and s. 157-159: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6); s. 112 & Pt. 9 Div. 3 Subdiv. 3, s. 155(2) (the item relating to The Municipal Building Surveyors Examination Committee) and s. 156(2) and (3): 2 Apr 2012 (see s. 2(b) and Gazette 30 Mar 2012 p. 1549)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 3 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 3 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 3 — Building Services (Registration) Act 2011 amended
-30.Act amended
-This Division amends the Building Services (Registration) Act 2011.
-31.Section 3 amended
-In section 3 in the definition of public authority delete paragraph (c) and insert:
-(c)a local government, regional local government or regional subsidiary;
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 3 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

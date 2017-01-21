@@ -103,13 +103,13 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 37 | 35 of 20
 Alcohol and Drug Authority Amendment Act 2015 s. 17 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Reprint 11: The Public Sector Management Act 1994 as at 3 Nov 2015 (includes amendments listed above)
 Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 2 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 30 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 7 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
- | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 30 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
- | School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 23 | 41 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
+School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 23 | 41 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
@@ -120,21 +120,6 @@ On the date as at which this compilation was prepared, the State Superannuation 
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 30 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 30 — Public Sector Management Act 1994 amended
-85.Act amended
-This Division amends the Public Sector Management Act 1994.
-86.Section 102 amended
-(1) Before section 102(1) insert:
-(1A) In this section —
-any local government or regional local government includes any regional subsidiary;
-council of a local government or regional local government includes the governing body of a regional subsidiary.
-(2) In section 102(3) delete “Part 5, Division 8 of the Local Government Act 1995.” and insert:
-the Local Government Act 1995 Part 5 Division 8 or with a charter of a regional subsidiary.
-87.Schedule 1 amended
-In Schedule 1 after item 15 insert:
-15A | Any regional subsidiary or the governing body of a regional subsidiary
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 23 had not come into operation. It reads as follows:
 23.Public Sector Management Act 1994 amended

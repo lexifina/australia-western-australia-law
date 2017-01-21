@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC, 1a. The table also contains information about any reprint.
+This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC, . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Act 2002 | 48 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see. s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -20,12 +20,9 @@ Revenue Laws Amendment Act 2014 Pt. 4 | 15 of 2014 | 2 Jul 2014 | 1 Jul 2014 (se
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 4 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 Taxation Legislation Amendment Act (No. 3) 2015 Pt. 4 | 15 of 2015 | 26 May 2015 | 1 Jul 2015 (see s. 2(b)(i))
 Health Services Act 2016 s. 298 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 27 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 27 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5.
 Renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Commonwealth).
@@ -36,18 +33,9 @@ The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) and 15(7) read as follo
 15.Section 29 amended and transitional provision
 ...
 (7) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 27 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 27 — Pay-roll Tax Assessment Act 2002 amended
-79.Act amended
-This Division amends the Pay-roll Tax Assessment Act 2002.
-80.Section 40 amended
-In section 40(2)(g) delete “government or” and insert:
-government, a regional subsidiary or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-2004/5 year22A(1)
 ABNGl.
 actual value9BB(2), Gl.
 actuaryGl.
@@ -55,7 +43,6 @@ adoption leave41A(1)
 agentGl.
 aggregate interest35D(1)
 annual threshold amountGl.
-apportioned threshold amountGl.
 assessment amendmentsSch. 1 cl. 8(1)
 assessment yearGl.
 associated person35A(1)
@@ -63,7 +50,6 @@ Australian jurisdictionGl.
 Australian superannuation fundGl.
 Australian taxable wages13(1), 17(1A)
 businessGl.
-calculation provision22A(5)
 charitable body or organisationGl.
 commencement daySch. 1 cl. 10
 Commonwealth income tax provisions9DD(1)
@@ -93,8 +79,6 @@ exemptionSch. 1 cl. 10
 expected pay-roll tax liability28A(3), 29(1b)
 FBT yearGl.
 FBTA ActGl.
-first part of the tax period22A(4)
-first period22A(2)
 fringe benefitGl.
 groupGl.
 GSTGl.
@@ -113,18 +97,15 @@ monthly threshold amountGl.
 motor vehicle allowanceGl.
 new employee41C(1), 41C(4)
 new provisionsSch. 1 cl. 10
-new rate22A(2)
 new section 9DASch. 1 cl. 8(1)
 nominated deductionGl.
 non-group employerGl.
 non-profit organisationGl.
 notional contribution9CA
-old rate22A(2)
 old section 9DASch. 1 cl. 8(1)
 optionGl.
 paidGl.
 parental leave41A(1)
-part period factor22A(6)
 part-year10(3), 13(4)
 payGl.
 payableGl.
@@ -147,12 +128,9 @@ related body corporateGl.
 related person35A(1)
 relevant bodySch. 1 cl. 13(1), Gl.
 relevant day9DA(4), Sch. 1 cl. 8(1)
-relevant part period22A(5)
 remote locationGl.
 returnGl.
 return periodGl.
-second part of the tax period22A(4)
-second period22A(2)
 shareGl.
 smaller groupGl.
 specified daySch. 1 cl. 11(1)
@@ -163,7 +141,6 @@ superannuation contribution9CA
 superannuation fundGl.
 Superannuation Guarantee ActGl.
 tapering valueGl.
-tax period22A(4)
 taxes42(2), 43(11), Gl.
 tax-reducing arrangementGl.
 termination payment9EA(2)

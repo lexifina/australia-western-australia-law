@@ -62,12 +62,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | City of Perth Act 2016 Pt. 4 Div. 4 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
  | Reprint 7: The Local Government Act 1995 as at 13 May 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
  | Graffiti Vandalism Act 2016 Pt. 6 Div. 2 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016 (see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
- | Local Government Legislation Amendment Act 2016 Pt. 2 (other than s. 4, 6-9, 11 and 17) | 26 of 2016 | 21 Sep 2016 | 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035)
+ | Local Government Legislation Amendment Act 2016 Pt. 2 | 26 of 2016 | 21 Sep 2016 | Pt. 2 (other than s. 4, 6-9, 11 and 17): 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035); s. 4, 6-9, 11 and 17: 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 18 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Local Government Legislation Amendment Act 2016 s. 4, 6-9, 11 and 17 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -244,66 +243,6 @@ This Division amends the Local Government Act 1995.
 166.Section 3.5 amended
 After section 3.5(4A) insert:
 (4B) Nothing in the Health (Miscellaneous Provisions) Act 1911 or the Public Health Act 2016 prevents a local government from making local laws under this Act about matters relating to public health (as defined in the Public Health Act 2016 section 4(1)).
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 s. 4, 6-9, 11 and 17 had not come into operation. They read as follows:
-Part 2 — Local Government Act 1995 amended
-3.Act amended
-This Part amends the Local Government Act 1995.
-4.Section 1.4 amended
-In section 1.4 insert in alphabetical order:
-regional local government means a regional local government established under section 3.61;
-regional subsidiary means a regional subsidiary established under section 3.69;
-6.Section 3.60 amended
-In section 3.60 before “unless” insert:
-or regional subsidiary
-7.Part 3 Division 4 heading amended
-In the heading to Part 3 Division 4 after “governments” insert:
-and regional subsidiaries
-8.Section 3.68 amended
-In section 3.68 delete “this Division” and insert:
-sections 3.61 to 3.67
-9.Sections 3.69 to 3.72 inserted
-At the end of Part 3 Division 4 insert:
-3.69.Regional subsidiaries
-(1) Two or more local governments making arrangements under which they are to provide a service or carry on an activity jointly may, with the Minister’s approval and in accordance with the regulations, form a subsidiary body (called a regional subsidiary) to provide that service or carry on that activity.
-(2) If the Minister approves the formation of a regional subsidiary, the Minister must, by notice in the Gazette, declare that the regional subsidiary is established —
-(a) on the date set out in the notice; and
-(b) under the name set out in the notice.
-(3) A regional subsidiary —
-(a) is a body corporate with perpetual succession and a common seal; and
-(b) is to have a governing body consisting of members appointed in accordance with the regional subsidiary’s charter (as approved by the Minister in accordance with section 3.70(3)).
-(4) Without limiting subsection (3)(b), a governing body may consist of or include members who are not council members or employees.
-3.70.Regional subsidiaries to have charter
-(1) Local governments proposing to form a regional subsidiary must prepare a charter addressing the following matters —
-(a) the establishment and powers and duties of the regional subsidiary;
-(b) the process for selecting and appointing members of the regional subsidiary’s governing body;
-(c) the qualifications that members of the regional subsidiary’s governing body must have;
-(d) the administration of the regional subsidiary, including the membership and procedures of its governing body, and the fees, allowances and expenses to be paid or reimbursed to the members of its governing body;
-(e) the financial management, planning, auditing and reporting to be undertaken by the regional subsidiary;
-(f) the process for amending the charter;
-(g) the winding up of the regional subsidiary;
-(h) any other matters required by the regulations to be dealt with in a charter.
-(2) The local governments must forward the charter to the Minister when applying for approval for the formation of the regional subsidiary.
-(3) A charter, and an amendment to a charter, are of no effect unless approved by the Minister.
-3.71.Regulations about regional subsidiaries
-Regulations may —
-(a) regulate the procedure for applying to the Minister for approval for the formation of a regional subsidiary; and
-(b) require the local governments proposing to form a regional subsidiary to consult with the community in their districts in accordance with the regulations; and
-(c) provide that a specified provision of this Act applies in relation to a regional subsidiary subject to any prescribed or necessary modifications; and
-(d) provide for or regulate any other matter that is necessary or convenient to be provided for or regulated in respect of a regional subsidiary.
-3.72.Other provisions and arrangements not affected
-(1) Section 3.69 has effect in addition to the provisions of this Division relating to regional local governments, and does not derogate from those provisions.
-(2) Nothing in section 3.69 prevents local governments from making arrangements under which —
-(a) a local government provides a service or carries on an activity for another local government; or
-(b) local governments provide a service or carry on an activity jointly without forming a regional subsidiary.
-11.Section 5.49 amended
-In section 5.49(1) in the definition of eligible body after paragraph (b) insert:
-(ca)a regional subsidiary; or
-17.Section 6.23 amended
-After section 6.23(3) insert:
-(4) In relation to a regional subsidiary, a receiver is entitled to receive whichever of the following over which security has been given in a particular case —
-(a) the financial contributions of the participants to the regional subsidiary’s funds as set out or provided for in the regional subsidiary’s charter;
-(b) Government grants that were not given to the regional subsidiary for a specific purpose;
-(c) the general funds of a participant to the extent that those funds secure financial accommodation extended to the regional subsidiary.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -379,8 +318,7 @@ district1
 districtsSch. 2.1 cl. 8(1)
 disused materialSch. 3.1
 early vote4
-election4, Sch. 2.3 cl. 10
-election4(2)
+election4, 4(2), Sch. 2.3 cl. 10
 election day4
 election notice4, 4(2)
 election year1
@@ -393,8 +331,7 @@ electoral material4(3)
 electoral officer4
 electoral requirements1, 4
 electoral roll4
-electorate4(1), 4(1)
-electorateSch. 9.3 cl. 12(2)
+electorate4(1), 4(1), Sch. 9.3 cl. 12(2)
 electors5
 eligible body5(1)
 employee1, 5(1), 5(1), 7(2)
@@ -492,7 +429,9 @@ qualified person7
 rate9(3)
 rate record6
 recurrent breach5
+regional local government1
 regional purpose3(2)
+regional subsidiary1, 3(1)
 registered company auditor7
 regulations7
 relative5(1)

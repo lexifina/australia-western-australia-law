@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 1a, 6-10. The table also contains information about any reprint.
+This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 6-10. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Stamp Act 1921 | 10 of 1922 (12 Geo. V No. 44) | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
@@ -173,158 +173,22 @@ Reprint 18: The Stamp Act 1921 as at 29 Aug 2008 (includes amendments listed abo
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 119 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Revenue Laws Amendment Act 2012 Pt. 7 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 32 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 32 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 6 Div. 1.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1M appearing after the provision number.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth) Pt. 6 Div. 1.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 Repealed by the Mining Act 1978.
 Section 75AH has a retrospective commencement date effective from 1 Jul 2004; see the Revenue Laws Amendment Act 2006 s. 2(3).
 Section 76 has a retrospective commencement date effective from 6 Feb 2008; see the Revenue Laws Amendment Act 2008 s. 2(1)(d).
 The Acts Amendment (Land Administration) Act 1997 came into operation 30 Mar 1998.
 The Stamp Act Amendment Act (No. 2) 1952 commenced on 5 Jan 1953 (see Gazette 31 Dec 1952 p. 2985) but was repealed by the Betting Control Act 1954 s. 3(1).
 The Road Traffic Amendment Act 2000 Pt. 3 Div. 3 would have amended the Stamp Act 1921 but was repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 28(3) without coming into operation.
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 6 Div. 1 of those regulations read as follows:
-“
-1.Citation
-These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
-2.Commencement
-These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:
-Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
-4.Modification of State taxing laws
-(1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
-(2) If —
-(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding applied law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the State taxing law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
-Part 6 — Stamp duty
-Division 1 — The Stamp Act 1921
-37.Modification of the Stamp Act 1921
-This Division sets out modifications of the Stamp Act 1921 in its application as a law of Western Australia.
-38.Section 2 inserted
-After section 1 the following section is inserted —
-“
-2.Application of Act in non-Commonwealth places
-(1) In this Act, unless the contrary intention appears —
-(a) a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
-(b) a reference to the regulations is to be read as a reference to the Stamp Regulations 2003 in their application as a law of Western Australia; and
-(c) a reference to the Land Tax Assessment Act 2002 is to be read as a reference to that Act in its application as a law of Western Australia; and
-(d)a reference to the Taxation Administration Act 2003 is to be read as a reference to that Act in its application as a law of Western Australia.
-(2) This Act is to be read with the applied Stamp Act as a single body of law.
-(3) If this Act requires any duty paid or payable in another State or a Territory, or any duty previously paid, to be taken into account for the purpose of calculating the amount of duty payable under this Act, then any duty paid or payable under the applied Stamp Act must also be taken into account if it would have been taken into account under this Act if it were paid or payable solely under this Act.
-”.
-39.Section 4 modified
-Section 4(1) is modified by inserting in their appropriate alphabetical positions —
-“
-“applied interstate law” means a law of another State in its application as a law of the Commonwealth in or in relation to Commonwealth places in that State in accordance with the Commonwealth Act;
-“applied Stamp Act” means the Stamp Act 1921 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
-“Commonwealth Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
-”.
-40.Section 4AA inserted
-After section 4 the following section is inserted —
-“
-4AA.Instruments subject to dual liability
-(1) If an instrument or 2 or more instruments is, are or may be liable for duty under both this Act and the applied Stamp Act, the total amount of duty payable under this Act and the applied Stamp Act may be calculated under this Act by reference to the amount equal to the sum of —
-(a) the amount or amounts in respect of which duty is payable under this Act; and
-(b) the amount or amounts in respect of which duty is payable under the applied Stamp Act.
-(2) The amount of duty payable on the instrument or instruments under this Act is the amount calculated under subsection (1) less any amount paid under the applied Stamp Act.
-”.
-41.Section 81 modified
-Section 81 is modified in the definition of “corresponding Act” by inserting after “State” —
-“ or an applied interstate law ”.
-42.Section 119 modified
-Section 119(1) is modified in the definition of “exempt body” by inserting after paragraph (a) the following paragraph —
-“
-(aa) the Commonwealth or the Crown in right of the Commonwealth;
-”.
-”.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. R. 1-5 and Pt. 6 Div. 1 of that notice read as follows:
-“
-1.Citation
-This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
-2.Commencement
-This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:
-Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
-4.Definitions
-In this notice —
-“applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-“Commissioner of State Revenue” means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
-5.Modification of applied WA laws
-(1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
-(2) If —
-(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding State taxing law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the applied WA law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
-Part 6 — Stamp duty
-Division 1 — The applied Stamp Act 1921
-39.Modification of the applied Stamp Act 1921
-This Division sets out modifications of the Stamp Act 1921 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia.
-40.Section 2 inserted
-After section 1 the following section is inserted —
-“
-2.Application of Act in Commonwealth places
-(1) In this Act, unless the contrary intention appears —
-(a) a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
-(b) a reference to the regulations is to be read as a reference to the Stamp Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
-(c) a reference to the Minister is to be read as a reference to the Minister of the Crown in right of Western Australia to whom the administration of the corresponding Stamp Act is for the time being committed by the Governor of Western Australia; and
-(d) a reference to any of the following enactments is to be read as a reference to the enactment of that name of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act —
-(i) the Business Tax Review (Assessment) Act (No. 2) 2003;
-(ii) the Land Tax Assessment Act 2002;
-(iii) the Revenue Laws Amendment Act 2006;
-(iv) the Taxation Administration Act 2003.
-(2) This Act is to be read with the corresponding Stamp Act as a single body of law.
-(3) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, this Act is deemed to be further modified to any extent that is necessary or convenient —
-(a) to enable this Act to operate effectively as a law of the Commonwealth; and
-(b) to ensure that the combined liability of a taxpayer under this Act and the corresponding Stamp Act is as nearly as possible the same as the taxpayer’s liability would be under the corresponding Stamp Act alone if the Commonwealth places in Western Australia were not Commonwealth places.
-(4) If this Act requires any duty paid or payable in another State or a Territory, or any duty previously paid, to be taken into account for the purpose of calculating the amount of duty payable under this Act, then any duty paid, payable or previously paid under the corresponding Stamp Act must also be taken into account if it would have been taken into account under this Act if it were paid or payable solely under this Act.
-”.
-41.Section 4 modified
-(1) Section 4(1) is modified by inserting in their appropriate alphabetical positions —
-“
-“applied interstate law” means a law of another State in its application as a law of the Commonwealth in or in relation to Commonwealth places in that State in accordance with the Commonwealth Mirror Taxes Act;
-“Commonwealth Mirror Taxes Act” means the Commonwealth Places (Mirror Taxes) Act 1998;
-“corresponding Stamp Act” means the Stamp Act 1921 of Western Australia in its application as a law of Western Australia;
-”.
-(2) Section 4(1) is modified in the definition of “government body” by inserting after “State” —
-“ or the Commonwealth ”.
-42.Section 4AA inserted
-After section 4 the following section is inserted —
-“
-4AA.Instruments subject to dual liability
-(1) If an instrument or 2 or more instruments is, are or may be liable for duty under both this Act and the corresponding Stamp Act, the total amount of duty payable under this Act and the corresponding Stamp Act may be calculated under this Act by reference to the amount equal to the sum of —
-(a) the amount or amounts in respect of which duty is payable under this Act; and
-(b) the amount or amounts in respect of which duty is payable under the corresponding Stamp Act.
-(2) The amount of duty paid or payable on the instrument or instruments under this Act is the amount equal to the amount calculated under subsection (1) less any amount paid under the corresponding Stamp Act.
-”.
-43.Section 16 modified
-Section 16(1) is modified by deleting “for the use of the Crown”.
-44.Section 26 modified
-(1) Section 26(1) is modified by deleting “Crown” and inserting instead —
-“ Commonwealth ”.
-(2) Section 26(1a) is modified by deleting “Crown” and inserting instead —
-“ Commonwealth ”.
-45.Section 81 modified
-Section 81 is modified in the definition of “corresponding Act” by inserting after “State” —
-“ or an applied interstate law ”.
-”.
+8-9No longer required.
 The amendment in the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 175(3) is not included because the section it sought to amend had been repealed by the Stamp Amendment Act 2003 s. 7 before the amendment purported to come into operation.
 The renumbering of Parts, Divisions, sections etc. effected in the 1934 reprint (in the appendix to the annual sessional volume of 1933-1934) and subsequent reprints has been retained. References to the original numbering are contained in those reprints.
 The Second Schedule to the Metric Conversion Act 1972 was inserted by the Metric Conversion Act Amendment Act 1973.
@@ -380,7 +244,7 @@ In this Part —
 “Commission” means the Gaming Commission of Western Australia, established under the Gaming Commission Act 1987;
 “Gaming Commission Act” means the Gaming Commission Act 1987 as amended by this Act;
 “Stamp Act” means the Stamp Act 1921 as in force immediately prior to the commencement day.
-[Section 17 amended by No. 45 of 2002 s. 6.]
+[Section 17 amended: No. 45 of 2002 s. 6.]
 18.Licences
 A licence issued under Part IVAA of the Stamp Act and in force immediately before the commencement day —
 (a) is taken to be a licence issued under Part V Division 7 of the Gaming Commission Act; and
@@ -717,14 +581,6 @@ The Stamp Amendment (Assessment) Act 2005 s. 7 and 8 read as follows:
 “old Part IIIF” means Part IIIF of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule and item 8 of the Third Schedule of the Stamp Act 1921, as in force immediately before commencement.
 ”.
 The Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) was repealed on 27 Jun 2008 by the Revenue Laws Amendment Act 2008 s. 7(3).
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 32 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 32 — Stamp Act 1921 amended
-90.Act amended
-This Division amends the Stamp Act 1921.
-91.Section 4 amended
-In section 4(1) in the definition of local government delete “government or” and insert:
-government, regional local government, regional subsidiary or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Civil Judgments Enforcement Act 2004 and includes the amendments made by the other written laws referred to in the following table , 4. The table also contains information about any reprint.
+This is a compilation of the Civil Judgments Enforcement Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Judgments Enforcement Act 2004 | 28 of 2004 | 14 Oct 2004 | s. 1 and 2: 14 Oct 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -13,10 +13,7 @@ Police Amendment Act 2009 s. 13 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Reprint 2: The Civil Judgments Enforcement Act 2004 as at 24 May 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 3 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 7 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 7 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 The correct short title of this Commonwealth Act is the Child Support (Assessment) Act 1989.
 The Workmen’s Wages Act 1898 was repealed by the Statutes (Repeals and Minor Amendments) Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
@@ -83,17 +80,6 @@ Division 2 — General
 (3) To the extent that a provision of regulations made under subsection (1) has effect before the day on which it is published in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 7 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 7 — Civil Judgments Enforcement Act 2004 amended
-38.Act amended
-This Division amends the Civil Judgments Enforcement Act 2004.
-39.Section 63 amended
-In section 63(1) in the definition of public authority delete “government or a regional local government.” and insert:
-government, regional local government or regional subsidiary.
-40.Section 107 amended
-In section 107(2)(b) delete “government or a regional local government,” and insert:
-government, regional local government or regional subsidiary,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

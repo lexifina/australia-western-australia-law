@@ -6,21 +6,11 @@ Emergency Management Act 2005 | 15 of 2005 | 27 Sep 2005 | 24 Dec 2005 (see s. 2
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 19 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 6 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 184 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 13 — Emergency Management Act 2005 amended
-51.Act amended
-This Division amends the Emergency Management Act 2005.
-52.Section 3 amended
-(1) In section 3 in the definition of public authority delete paragraph (c) and insert:
-(c)a local government, regional local government or regional subsidiary; or
-(2) In section 3 in the definition of public authority after each of paragraphs (a), (b) and (d) insert:
-or
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 184 had not come into operation. It reads as follows:
 184.Emergency Management Act 2005 amended
 (1) This section amends the Emergency Management Act 2005.

@@ -11,7 +11,8 @@
 9.An incorporated or unincorporated body established or continued for a public purpose under a written law.
 10.An office, post or position established or continued for a public purpose under a written law.
 11.A department as defined in the Public Sector Management Act 1994.
-12.A local government or regional local government under the Local Government Act 1995.
+12.A local government, regional local government or regional subsidiary under the Local Government Act 1995.
 13.A Royal Commission established under the Royal Commissions Act 1968.
 14.A body or office that is established by the Governor or a Minister.
 15.A commission, board, committee or other body established by, or a person appointed by, the Governor or the Government of the State or a Minister of the Crown to advise on, inquire into or investigate any matter.
+[Schedule 1 amended: No. 26 of 2016 s. 93.]

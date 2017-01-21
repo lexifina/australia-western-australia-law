@@ -1,45 +1,13 @@
 Notes
-This is a compilation of the Health Services Act 2016. The following table contains information about that Act.
+This is a compilation of the Health Services Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 | 11 of 2016 | 26 May 2016 | s. 1 and 2: 26 May 2016 (see s. 2(a)); s. 6, 7, 32, 238, 244 and 245: 15 Jun 2016 (see s. 2(b) and Gazette 14 Jun 2016 p. 1819); Act other than s. 1, 2, 6, 7, 32, 238, 244, 245, 301(2), (3), (6) and (7) and 307(j): 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 17 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 17 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) had not come into operation. They read as follows:
-301.Queen Elizabeth II Medical Centre Act 1966 amended
-(2) Delete section 13(2e) and insert:
-(2e) While a setting aside and delegation under subsection (2a) are in force, the delegate, for the purposes for which the site was set aside, has all the powers delegated to the delegate under subsection (2a) in respect of the site as if those powers had been conferred on the delegate by this Act.
-(3) Delete section 13(2g)(b)(i) and insert:
-(i) to the delegate under the regulations; or
-(6) In section 20(1) and (1a) delete “Trust may, with the approval of the Governor, make by-laws” and insert:
-Governor may make regulations
-(7) In the provisions listed in the Table:
-(a) delete “by-laws” (each occurrence) and insert:
-regulations
-(b) delete “by-law” (each occurrence) and insert:
-regulation
-Table
-s. 20(1a)(i), (k), (m), (n), (p), (q), (r), (s) and (t) | s. 20(1b) def. of specified
-s. 20(1c) | s. 20(1d)
-s. 20(1e) | s. 20(2)
-s. 20(3) | s. 20(4)
-Note:The heading to amended section 20 is to read:
-Regulations
-Part 22 — By-laws, regulations and determinations repealed or revoked
-307.By-laws and regulations repealed
-These by-laws and regulations are repealed:
-(j) Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986;
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 17 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 17 — Health Services Act 2016 amended
-59.Act amended
-This Division amends the Health Services Act 2016.
-60.Section 6 amended
-(1) In section 6 in the definition of public authority delete paragraph (c) and insert:
-(c)a local government, regional local government or regional subsidiary;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
