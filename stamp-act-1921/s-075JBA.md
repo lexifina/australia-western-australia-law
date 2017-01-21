@@ -5,4 +5,4 @@
 [(4)deleted]
 (5) If the Commissioner is given sufficient information to do so the Commissioner shall make the requested determination.
 (6) If the Commissioner determines that the controlling body would be approved and the claw-back waived then, on an application under section 75JB(5g), the Commissioner shall approve the controlling body and waive the claw-back unless the Commissioner is of the opinion that in relation to the request for a determination there was not a full and true disclosure of relevant information and evidence.
-[Section 75JBA inserted by No. 29 of 2000 s. 7; amended by No. 2 of 2003 s. 78; No. 66 of 2003 s. 51.]
+[Section 75JBA inserted: No. 29 of 2000 s. 7; amended: No. 2 of 2003 s. 78; No. 66 of 2003 s. 51.]

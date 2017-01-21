@@ -47,4 +47,4 @@ would be entitled if the corporation were to be wound up, after the time of the 
 (8) In determining the entitlement of an entity to property other than land for the purposes of this section —
 (a) if the entity has contracted or agreed to dispose of an interest in such property, that contract or agreement is to be regarded as having been completed even if it has not yet been completed; and
 (b) if the entity has contracted or agreed to acquire an interest in such property but that contract or agreement has not yet been completed, that contract or agreement is to be disregarded.
-[Section 76ATB inserted by No. 11 of 2004 s. 29; amended by No. 11 of 2005 s. 18, 19 and 24.]
+[Section 76ATB inserted: No. 11 of 2004 s. 29; amended: No. 11 of 2005 s. 18, 19 and 24.]

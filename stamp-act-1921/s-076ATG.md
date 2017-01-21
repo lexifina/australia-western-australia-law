@@ -1,5 +1,5 @@
 ## Division 3b — Listed corporations incorporated, or taken to be registered, outside Western Australia, and certain other companies not within Division 3a
-[Heading inserted by No. 11 of 2004 s. 29.]
+[Heading inserted: No. 11 of 2004 s. 29.]
 ### 76ATG. Preparation of dutiable statement
 (1) Where by a relevant acquisition a person acquires a controlling interest in —
 (a) a listed land-holder corporation; or
@@ -52,4 +52,4 @@ and
 (14) If the corporation requests the Commissioner to give reasons why the Commissioner has not made a determination under subsection (11), the Commissioner is to give reasons to the corporation.
 (15) A person who fails to comply with subsection (1), (2), (4)(c) or (5)(b) commits an offence.
 Penalty: $20 000.
-[Section 76ATG inserted by No. 11 of 2004 s. 29.]
+[Section 76ATG inserted: No. 11 of 2004 s. 29.]

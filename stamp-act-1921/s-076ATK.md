@@ -19,4 +19,4 @@ and
 (II) in the case of a discretionary trust, may benefit from that trust;
 and
 (iii) any other corporation, or the trustee of any other trust that would by an application of this subsection be a holding corporation of a corporation that is a holding corporation of the corporation.
-[Section 76ATK inserted by No. 11 of 2004 s. 29; amended by No. 11 of 2005 s. 18 and 21.]
+[Section 76ATK inserted: No. 11 of 2004 s. 29; amended: No. 11 of 2005 s. 18 and 21.]
