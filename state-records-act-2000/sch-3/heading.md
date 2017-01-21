@@ -6,4 +6,4 @@
 (ii) the Bunbury Water Corporation; and
 (iii) the Busselton Water Corporation; and
 (iv) a body established by the Governor.
-[Schedule 3 amended by No. 18 of 2005 s. 139; No. 25 of 2012 s. 230(1) and (2); No. 25 of 2013 s. 46.]
+[Schedule 3 amended: No. 18 of 2005 s. 139; No. 25 of 2012 s. 230(1) and (2); No. 25 of 2013 s. 46.]
