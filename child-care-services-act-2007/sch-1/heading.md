@@ -32,4 +32,4 @@ and prescribing the persons liable to pay those fees.
 21.Establishing a mechanism for the review of the regulations.
 22.Providing for offences against the regulations and prescribing, in respect of any such offence, a penalty not exceeding a fine of $6 000.
 23.Conferring a right to apply to the State Administrative Tribunal for a review of a decision of the CEO made under the regulations.
-[Schedule 1 amended by No. 38 of 2011 s. 39.]
+[Schedule 1 amended: No. 38 of 2011 s. 39.]
