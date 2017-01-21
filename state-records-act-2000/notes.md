@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Records Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Records Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Records Act 2000 | 52 of 2000 | 28 Nov 2000 | s. 1 and 2: 28 Nov 2000; s. 3-10, Pt. 8 and 9 and s. 77 and 82: 28 Jul 2001 (see s. 2 and Gazette 27 Jul 2001 p. 3797); Pt. 2-7 and s. 72, 78-81, 83 and 84: 1 Dec 2001 (see s. 2 and Gazette 30 Nov 2001 p. 6067)
@@ -9,23 +9,11 @@ Public Sector Reform Act 2010 s. 85 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 201
 Reprint 1: The State Records Act 2000 as at 6 Jan 2012 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 s. 230(1) and (2) | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Electricity Corporations Amendment Act 2013 s. 46 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 33 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 230(3) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 33 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 230(3) had not come into operation. It reads as follows:
-230.State Records Act 2000 amended
-(3) In Schedule 3 item 1 after each of subitems (i) and (ii) insert:
-and
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 33 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 33 — State Records Act 2000 amended
-92.Act amended
-This Division amends the State Records Act 2000.
-93.Schedule 1 amended
-In Schedule 1 item 12 delete “government or regional local government” and insert:
-government, regional local government or regional subsidiary
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

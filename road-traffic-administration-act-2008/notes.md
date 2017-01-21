@@ -14,13 +14,13 @@ Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div
 Road Traffic Legislation Amendment Act 2015 Pt. 3 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 1: The Road Traffic (Administration) Act 2008 as at 15 May 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2)
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 2 and Pt. 3 Div. 3 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | Pt. 2 Div. 2: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 3 Subdiv. 2: 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279)
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 4 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 4 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | 6 Sep 2017 (see s. 2(c) and Gazette 22 Aug 2017 p. 4501)
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 3 Subdiv. 2 and Div. 4 Subdiv. 2 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 4 Subdiv. 2 had not come into operation. It reads as follows:
 Part 3 — Amendments that will be brought into operation by proclamation
 Division 4 — Other amendments
 Subdivision 2 — Road Traffic (Administration) Act 2008 amended
@@ -193,14 +193,6 @@ An approval under the RT(A) Act section 117(3) that was in effect immediately be
 speed measuring equipment has the meaning given in the RT(A) Act section 117(1).
 (2) A person who, immediately before commencement day, is a person certified by the Commissioner of Police as being competent to use speed measuring equipment is, on and from commencement day, to be taken to be a person certified by the Commissioner of Police as being competent to install, set up, test and retrieve data from speed measuring and recording equipment as defined in section 117(1) and produce images from the data.
 (3) A person who, immediately before commencement day, is a person certified by the Commissioner of Police as being competent to use speed measuring equipment is, on and from commencement day, to be taken to be a person certified by the Commissioner of Police as being competent to install, set up, test and retrieve data from an average speed detection system as defined in section 117B(1) and produce images from the data.
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 31 — Road Traffic (Administration) Act 2008 amended
-88.Act amended
-This Division amends the Road Traffic (Administration) Act 2008.
-89.Section 4 amended
-In section 4 in the definition of public authority delete paragraph (c) and insert:
-(c)a local government, regional local government or regional subsidiary; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

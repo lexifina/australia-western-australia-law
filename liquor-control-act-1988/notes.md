@@ -52,13 +52,13 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Associations Incorporation Act 2015 s. 222 and 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
  | Liquor Legislation Amendment Act 2015 Pt. 2 (other than s. 26) | 35 of 2015 | 2 Nov 2015 | Pt. 2 (other than s. 26): 20 Nov 2015 (see s. 2(b) and Gazette 17 Nov 2015 p. 4693)
  | Reprint 8: The Liquor Control Act 1988 as at 4 Mar 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
+ | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 20 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 s. 101, Pt. 3 Div. 17 and Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | s. 101 and Pt. 3 Div. 17: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 12: to be proclaimed (see s. 2(1)(c))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 20 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -73,14 +73,7 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (1) The amendment in this section is to the Liquor Control Act 1988.
 (2) After section 37(6) the following subsection is inserted —
 (7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 20 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 20 — Liquor Control Act 1988 amended
-65.Act amended
-This Division amends the Liquor Control Act 1988.
-66.Section 37 amended
-In section 37(1A) in the definition of public body delete paragraph (c) and insert:
-(c)a local government, regional local government or regional subsidiary; or
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Liquor Legislation Amendment Act 2015 s. 26 had not come into operation. It reads as follows:
 26.Part 7A inserted
 After section 172A insert:

@@ -25,10 +25,10 @@ Taxation Legislation Amendment Act (No. 2) 2015 Pt. 2 | 8 of 2015 | 9 Mar 2015 |
 Taxation Legislation Amendment Act (No. 3) 2015 Pt. 2 | 15 of 2015 | 26 May 2015 | 27 May 2015 (see s. 2(c))
 Revenue Laws Amendment Act 2015 Pt. 2 Div. 2 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
 Reprint 3: The Duties Act 2008 as at 13 Nov 2015 (includes amendments listed above)
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 12 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 12 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
@@ -36,14 +36,7 @@ The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gaz
 The Duties Act 2008 Sch. 3 Div. 2 was repealed by the Revenue Laws Amendment Act 2008 s. 4.
 The Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 was deleted by the Duties Legislation Amendment Act 2013 s. 5. The amendments made by the Revenue Laws Amendment Act 2010 Pt. 3 Div. 1 have no effect for the same reason.
 The Duties Legislation Amendment Act 2013 Pt. 3 will not come into operation (see s. 2(1)(c) and (2)).
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 12 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 12 — Duties Act 2008 amended
-49.Act amended
-This Division amends the Duties Act 2008.
-50.Section 3 amended
-In section 3 in the definition of local government paragraph (b) after “government” insert:
-or regional subsidiary
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 377 had not come into operation. It reads as follows:
 377.Various references to Fish Resources Management Act 1994 amended
 (1) This section amends the Acts listed in the Table.
@@ -51,7 +44,8 @@ On the date as at which this compilation was prepared, the Aquatic Resources Man
 Aquatic Resources Management Act 2016
 Table
 Duties Act 2008 | s. 136
-Note:In the Duties Act 2008, the heading to amended section 136 is to read:
+Note:
+In the Duties Act 2008, the heading to amended section 136 is to read:
 Business licences held under Aquatic Resources Management Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

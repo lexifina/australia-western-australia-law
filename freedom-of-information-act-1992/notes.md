@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 November 2016 of the Freedom of Information Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Freedom of Information Act 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Freedom of Information Act 1992 | 76 of 1992 | 15 Dec 1992 | s. 1 and 2: 15 Dec 1992; Pt. 4 Div. 1 and 2: 11 Jun 1993 (see s. 2 and Gazette 11 Jun 1993 p. 2867); Act other than s. 1 and 2 and Pt. 4 Div. 1 and 2: 1 Nov 1993 (see s. 2 and Gazette 29 Oct 1993 p. 5881)
@@ -50,44 +50,19 @@ Electoral Amendment Act 2014 Pt. 3 | 14 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 33 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 86 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 7: The Freedom of Information Act 1992 as at 11 Nov 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 16 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 16 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Other notes
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.
 The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
-On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 (given effect by s. 38) had not come into operation. It reads as follows:
-38.Consequential amendments
-The Acts referred to in the Schedule are amended as set out in Schedule 1.
-Schedule 1 item 4 reads as follows:
-SCHEDULE 1 — CONSEQUENTIAL AMENDMENTS TO OTHER ACTS
-4.Freedom of Information Act 1992
-Provision amended | Amendment
-Schedule 2 | Delete the item “The State Government Insurance Corporation.”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-.......................... | ........
-Freedom of Information Act 1992 | s. 62(2)
-...................... | ........
-On the date as at which this reprint was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 16 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 16 — Freedom of Information Act 1992 amended
-57.Act amended
-This Division amends the Freedom of Information Act 1992.
-58.Glossary amended
-(1) In the Glossary clause 1 in the definition of principal officer after paragraph (d) insert:
-(ea)in relation to a regional subsidiary — the person who manages the affairs of the regional subsidiary;
-(2) In the Glossary clause 1 in the definition of public body or office delete paragraph (d) and insert:
-(d)a local government, regional local government or regional subsidiary; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

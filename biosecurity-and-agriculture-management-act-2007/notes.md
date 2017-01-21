@@ -9,6 +9,7 @@ Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 20
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Reprint 1: The Biosecurity and Agriculture Management Act 2007 as at 26 Jul 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2)
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 1 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Genetically Modified Crops Free Areas Repeal Act 2016 Pt. 3 | 34 of 2016 | 27 Oct 2016 | 28 Oct 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -16,18 +17,10 @@ Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 182 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 4 and Pt. 5 Div. 1 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 4: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 1: to be proclaimed (see s. 2(1)(c))
 Biodiversity Conservation Act 2016 s. 311 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 1 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 Pt. 19 Div. 2 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Mining Act 1978.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 1 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 1 — Biosecurity and Agriculture Management Act 2007 amended
-26.Act amended
-This Division amends the Biosecurity and Agriculture Management Act 2007.
-27.Section 6 amended
-In section 6 in the definition of public authority delete paragraph (d) and insert:
-(d)a local government, regional local government or regional subsidiary;
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 182 had not come into operation. It reads as follows:
 182.Biosecurity and Agriculture Management Act 2007 amended
 (1) This section amends the Biosecurity and Agriculture Management Act 2007.

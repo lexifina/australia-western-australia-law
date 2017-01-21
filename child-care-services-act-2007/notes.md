@@ -9,10 +9,7 @@ Compilation table
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 1 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Reprint 2: The Child Care Services Act 2007 as at 8 Apr 2016 (includes amendments listed above)
 Associations Incorporation Act 2015 s. 212 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 5 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 5 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Section 65 was omitted under the Reprints Act 1984 s. 7(4)(e).
 The section in this Act repealing the Children and Community Services Act 2004 Part 8 was omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -20,14 +17,6 @@ Now known as the Child Care Services (Child Care) Regulations 2006.
 Now known as the Child Care Services (Family Day Care) Regulations 2006.
 Now known as the Child Care Services (Outside School Hours Care) Regulations 2006.
 Now known as the Child Care Services (Outside School Hours Family Day Care) Regulations 2006.
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 5 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 5 — Child Care Services Act 2007 amended
-34.Act amended
-This Division amends the Child Care Services Act 2007.
-35.Section 3 amended
-In section 3 in the definition of public authority delete paragraph (c) and insert:
-(c)a local government, regional local government or regional subsidiary; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

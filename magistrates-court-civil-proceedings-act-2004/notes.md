@@ -11,20 +11,9 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 201
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Reprint 1: The Magistrates Court (Civil Proceedings) Act 2004 as at 13 Apr 2012 (includes amendments listed above except those in the Residential Tenancies Amendment Act 2011)
 Courts Legislation Amendment Act 2012 Pt. 3 | 43 of 2012 | 22 Nov 2012 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 323)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2016 Pt. 3 Div. 22 | 26 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2016 Pt. 3 Div. 22 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2016 Pt. 3 Div. 22 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts in relation to regional subsidiaries
-Division 22 — Magistrates Court (Civil Proceedings) Act 2004 amended
-69.Act amended
-This Division amends the Magistrates Court (Civil Proceedings) Act 2004.
-70.Section 3 amended
-In section 3(1) in the definition of public authority delete paragraph (c) and insert:
-(c)a local government, regional local government or regional subsidiary; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
