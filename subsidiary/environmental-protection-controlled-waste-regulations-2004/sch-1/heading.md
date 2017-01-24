@@ -80,4 +80,4 @@ Waste, substances, or articles containing or contaminated by polychlorinated bip
 Wastes of an explosive nature not subject to any other written law
 Wool scouring wastes
 Zinc compounds
-[Schedule 1 amended in Gazette 1 Aug 2014 p. 2817-18.]
+[Schedule 1 amended: Gazette 1 Aug 2014 p. 2817-18.]

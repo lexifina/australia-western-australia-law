@@ -1,6 +1,6 @@
 ## Schedule 3 — Fees
 [r. 54]
-[Heading inserted in Gazette 1 Aug 2014 p. 2820.]
+[Heading inserted: Gazette 1 Aug 2014 p. 2820.]
 Item | Type of fee | Fee $
 1. | Licence as a carrier (r. 4(1)) | 225.00 one year 555.00 3 years 885.00 5 years
 2. | Licence as a driver (r. 4(1), 20(1)) | 225.00 one year 345.00 3 years 465.00 5 years
@@ -19,4 +19,4 @@ Item | Type of fee | Fee $
  | (f)issued other than electronically on or after 16 April 2016 and on or before 15 April 2017 | 55.50
  | (g)issued electronically on or after 16 April 2017 | 44.00
  | (h)issued other than electronically on or after 16 April 2017 | 57.50
-[Schedule 3 inserted in Gazette 1 Aug 2014 p. 2820-1.]
+[Schedule 3 inserted: Gazette 1 Aug 2014 p. 2820-1.]
