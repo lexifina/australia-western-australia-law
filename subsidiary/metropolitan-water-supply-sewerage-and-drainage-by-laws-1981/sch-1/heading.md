@@ -1,6 +1,6 @@
 ## Schedule 1 — Description of South West Settlement Area
 [bl. 1.1]
-[Heading inserted in Gazette 7 Jun 2016 p. 1787.]
+[Heading inserted: Gazette 7 Jun 2016 p. 1787.]
 All the lands and waters contained within a line that —
 ·starts at the intersection of the prolongation westerly of the northern boundary of the Shire of Coorow with the low water mark, being a point on a northern boundary of native title determination application WAD6192/1998 (WC97/71) as accepted for registration on the Register of Native Title Claims on 22 August 1997;
 ·then continues generally easterly and generally south-easterly along the boundaries of that native title application to the intersection with native title determination application WAD6181/1998 (WC00/7) as accepted for registration on the Register of Native Title Claims on 3 July 2008;
@@ -18,4 +18,4 @@ Notes for this Schedule:
 1.The low water mark is sourced from the Spatial Cadastral Database maintained by the Western Australian Land Information Authority as at 29 October 2012.
 2.Coordinate references are to Geocentric Datum of Australia 1994 (GDA94) coordinates in decimal degrees.
 3.The 3 nautical mile limit is sourced from Australian Maritime Boundaries (AMB), 6th edition, released in February 2006.
-[Schedule 1 inserted in Gazette 7 Jun 2016 p. 1786-7.]
+[Schedule 1 inserted: Gazette 7 Jun 2016 p. 1786-7.]
