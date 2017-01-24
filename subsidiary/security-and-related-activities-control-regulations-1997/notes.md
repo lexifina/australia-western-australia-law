@@ -44,21 +44,8 @@ Security and Related Activities (Control) Amendment Regulations (No. 2) 2015 | 1
 Reprint 7: The Security and Related Activities (Control) Regulations 1997 as at 4 Dec 2015 (includes amendments listed above)
 Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations 2016 | 29 Jul 2016 p. 3243-57 | r. 1 and 2: 29 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jul 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 221-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Security and Related Activities (Control) Regulations 1997 amended
-8.Regulations amended
-This Part amends the Security and Related Activities (Control) Regulations 1997.
-9.Regulation 44 amended
-In regulation 44 in the definition of technologist paragraph (a) delete “section 203 of the Health Act 1911; or” and insert:
-the Health (Miscellaneous Provisions) Act 1911 section 203; or
-10.Regulation 46 amended
-In regulation 46(1) delete “Health Act 1911)” and insert:
-Health (Miscellaneous Provisions) Act 1911)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
