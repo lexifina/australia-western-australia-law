@@ -21,25 +21,9 @@ Building Amendment Regulations 2016 | 5 Apr 2016 p. 1015-21 | r. 1 and 2: 5 Apr 
 Building Amendment Regulations (No. 2) 2016 | 15 Apr 2016 p. 1165-72 | r. 1 and 2: 15 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2016 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Reprint 3: The Building Regulations 2012 as at 12 Aug 2016 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Building Regulations 2012 amended
-3.Regulations amended
-This Part amends the Building Regulations 2012.
-4.Regulation 18 amended
-In regulation 18(2)(a) delete “Health Act 1911” and insert:
-Health (Miscellaneous Provisions) Act 1911
-5.Regulation 36 amended
-In regulation 36(1)(a) delete “Health Act 1911” and insert:
-Health (Miscellaneous Provisions) Act 1911
-6.Regulation 37 amended
-In regulation 37(a) delete “Health Act 1911” and insert:
-Health (Miscellaneous Provisions) Act 1911
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
