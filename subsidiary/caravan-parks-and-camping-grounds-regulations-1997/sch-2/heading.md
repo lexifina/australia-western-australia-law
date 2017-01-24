@@ -7,4 +7,4 @@ Licence | Type of facility
 4.Park home park licence | Park home park
 5.Transit park licence | Transit park
 6.Nature based park licence | Nature based park
-[Schedule 2 amended in Gazette 25 Aug 2000 p. 4920.]
+[Schedule 2 amended: Gazette 25 Aug 2000 p. 4920.]

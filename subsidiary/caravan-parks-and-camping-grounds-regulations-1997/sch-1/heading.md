@@ -30,7 +30,7 @@ Notes
 Documents to be attached [Not necessary if application is for renewal of licence] | 1.The written approval of the owner of the land referred to in this form for the applicant/s to make this application, or proof that the applicant/s is/are the owner/s of that land.
 2.A plan of the proposed facility showing — (a)the sites, and where applicable, denoting the types of sites; (b)the buildings; (c)the roads and paths; (d)the drainage and waste water disposal systems; and (e)the location of fire hoses, fire hydrants and extinguishers.
 Only necessary for application for nature based park licence | 3.A management plan containing details about these matters in relation to the facility: (a)market segment; (b)the amenities that are proposed to be provided, or not provided, at the facility; (c)site planning; (d)environmental impact and sustainability; (e)waste management; (f)traffic management; (g)risk management; (h)length of stay of occupiers.
-[Form 1 amended in Gazette 12 Dec 2014 p. 4727.]
+[Form 1 amended: Gazette 12 Dec 2014 p. 4727.]
 Form 2. Licence
 Caravan Parks and Camping Grounds Act 1995, sec. 7(4) LICENCE
 Expiry date
@@ -67,7 +67,7 @@ Signature:
 Date:
 Notes
 WHAT YOU MUST DO | 1.You may dispose of this matter within 28 days after the service of this notice by paying the modified penalty — (a)BY POSTING a cheque or money order made payable to ..........................................................................................; or (b)IN PERSON AT (address of local government offices) ............. .......................................................................................... OR 2.Elect to have this matter dealt with before a COURT. Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
-[Form 3 amended in Gazette 20 Aug 2013 p. 3851.]
+[Form 3 amended: Gazette 20 Aug 2013 p. 3851.]
 Form 4. Withdrawal of Infringement Notice
 Caravan Parks and Camping Grounds Act 1995, sec. 23(7) WITHDRAWAL OF INFRINGEMENT NOTICE
 Local government | Name of local government:
@@ -86,4 +86,4 @@ WESTERN AUSTRALIA Caravan Parks & Camping Grounds Act 1995 IDENTITY CARD AUTHORI
  | [Photograph of authorised person] | This is to certify that ................................................ [name of person] .............................................. is an authorised person under section 17(1)(b) of the Caravan Parks and Camping Grounds Act 1995.
 ............................................................................................................................... SignatureDate Issued by the chief executive officer of the Department of Local Government* or ......................... *[name of the local government].
 * Delete whichever is not applicable.
-[Form 6 deleted in Gazette 30 Dec 2004 p. 7011.]
+[Form 6 deleted: Gazette 30 Dec 2004 p. 7011.]

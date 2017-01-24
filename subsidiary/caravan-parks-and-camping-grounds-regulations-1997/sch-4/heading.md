@@ -28,4 +28,4 @@ PART 2 — REGULATIONS | $
 15.Regulation 30(1)(b) and (c) ................................................. | 200
 16.Regulation 34(1)(b) .............................................................. | 200
 17.Regulation 39(1)(c) and (2)(b) ............................................ | 200
-[Schedule 4 amended in Gazette 25 Aug 2000 p. 4916.]
+[Schedule 4 amended: Gazette 25 Aug 2000 p. 4916.]
