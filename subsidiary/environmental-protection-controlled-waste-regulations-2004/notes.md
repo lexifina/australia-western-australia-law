@@ -9,20 +9,7 @@ Environmental Protection (Controlled Waste) Amendment Regulations 2012 | 5 Apr 2
 Environmental Protection (Controlled Waste) Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5039-40 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Environmental Protection (Controlled Waste) Amendment Regulations 2014 | 1 Aug 2014 p. 2787-821 | r. 1 and 2: 1 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2014 (see r. 2(b))
 Reprint 1: The Environmental Protection (Controlled Waste) Regulations 2004 as at 3 Oct 2014 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
-On the date as at which this compilation was prepared, the Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Environmental Protection (Controlled Waste) Regulations 2004 amended
-7.Regulations amended
-This Part amends the Environmental Protection (Controlled Waste) Regulations 2004.
-8.Regulation 2 amended
-In regulation 2 in the definition of apparatus for the treatment of sewage delete “Executive Director, Public Health under the Health Act 1911;” and insert:
-Chief Health Officer under the Health (Miscellaneous Provisions) Act 1911;
-9.Regulation 42 amended
-In regulation 42 in the definition of material containing asbestos paragraph (c) delete “Executive Director, Public Health under the Health Act 1911;” and insert:
-Chief Health Officer under the Health (Miscellaneous Provisions) Act 1911;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

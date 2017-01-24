@@ -33,9 +33,6 @@ Conservation and Land Management Amendment Regulations 2016 | 6 May 2016 p. 1381
 Conservation and Land Management Amendment Regulations (No. 3) 2016 | 5 Jul 2016 p. 2815-17 | r. 1 and 2: 5 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 4) 2016 | 30 Aug 2016 p. 3685-6 | r. 1 and 2: 30 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2016 (see r. 2(b))
 Reprint 4: The Conservation and Land Management Regulations 2002 as at 21 Oct 2016 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published in Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
@@ -45,13 +42,6 @@ The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads a
 Barrow Island Net Conservation Benefit Account means the account of that name established as an agency special purpose account under the Financial Management Act 2006 section 16 in accordance with the Conservation and Land Management Act 1984 section 69(1);
 Barrow Island Trust Account means the account referred to in the Conservation and Land Management Regulations 2002 Part 7A immediately before the commencement of regulation 3.
 (2) Any money standing to the credit of the Barrow Island Trust Account immediately before the commencement of regulation 3 is to be transferred to the Barrow Island Net Conservation Benefit Account.
-On the date as at which this compilation was prepared, the Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Conservation and Land Management Regulations 2002 amended
-3.Regulations amended
-This Part amends the Conservation and Land Management Regulations 2002.
-4.Regulation 98G amended
-In regulation 98G(2)(f)(iii) delete “Health Act 1911;” and insert:
-Health (Miscellaneous Provisions) Act 1911;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
