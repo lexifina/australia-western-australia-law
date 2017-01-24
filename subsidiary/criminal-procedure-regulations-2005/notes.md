@@ -30,20 +30,9 @@ Criminal Procedure Amendment Regulations (No. 2) 2016 | 24 Jun 2016 p. 2317 | r.
 Criminal Procedure Amendment Regulations 2016 | 30 Sep 2016 p. 4173-4 | r. 1 and 2: 30 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Electronic Processes) Regulations 2016 Pt. 3 | 2 Dec 2016 p. 5385-7 | 3 Dec 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 2 | 30 Dec 2016 p. 5965-6 | 31 Dec 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 173-6 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
-On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Criminal Procedure Regulations 2005 amended
-3.Regulations amended
-This Part amends the Criminal Procedure Regulations 2005.
-4.Schedule 1A amended
-In Schedule 1A insert in alphabetical order:
-Health (Miscellaneous Provisions) Act 1911
-Public Health Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -54,4 +43,5 @@ CPA3(1)
 Form3(1)
 lodge3(1)
 remote communication9(1)
+specified document13B(1)
 trial date21

@@ -28,7 +28,7 @@ Government Railways Act 1904 s. 34(1), 45, 51(2)
 Graffiti Vandalism Act 2016 s. 6(1)
 Growers Charge Act 1940 s. 6
 Guardianship and Administration Act 1990 s. 49(4), 113(1), Sch. 1 Part B cl. 12(6)
-Health Act 1911 s. 360(1)(e), 360(1)(f)
+Health (Miscellaneous Provisions) Act 1911 s. 360(1)(e), 360(1)(f)
 Housing Societies Act 1976 s. 29D(9), 79(a)
 Juries Act 1957 s. 56B(1), 56C(1), 56D(1)
 Local Government (Miscellaneous Provisions) Act 1960 s. 474(7), 482(3)

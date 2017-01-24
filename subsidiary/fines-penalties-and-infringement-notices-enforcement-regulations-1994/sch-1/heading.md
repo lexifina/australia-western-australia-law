@@ -41,7 +41,7 @@ Food Act 2008
 Gaming and Wagering Commission Act 1987
 Gas Standards Act 1972
 Government Railways Act 1904 | 53A
-Health Act 1911
+Health (Miscellaneous Provisions) Act 1911
 Health Services Act 2016
 Hire-Purchase Act 1959
 Home Building Contracts Act 1991
@@ -63,6 +63,7 @@ Petroleum Products Pricing Act 1983
 Planning and Development Act 2005
 Plumbers Licensing Act 1995
 Port Authorities Act 1999
+Public Health Act 2016
 Public Transport Authority Act 2003
 Queen Elizabeth II Medical Centre Act 1966 | 20
 Real Estate and Business Agents Act 1978
@@ -88,4 +89,4 @@ Waterways Conservation Act 1976
 Western Australian Marine Act 1982 | 132
 Western Australian Meat Industry Authority Act 1976
 Zoological Parks Authority Act 2001
-[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19; 23 Jun 2009 p. 2466; 29 Jan 2010 p. 200; 25 Jun 2010 p. 2869; 17 Sep 2010 p. 4759; 17 Jun 2011 p. 2169; 13 Dec 2011 p. 5282; 16 Mar 2012 p. 1256; 23 Mar 2012 p. 1370; 8 Jun 2012 p. 2386; 5 Feb 2013 p. 836; 10 May 2013 p. 1937; 20 Aug 2013 p. 3884; 20 Jun 2014 p. 2026; 10 Feb 2015 p. 611; 3 Mar 2015 p. 784; 12 Jun 2015 p. 2027; 28 Jun 2016 p. 2643; 9 Aug 2016 p. 3428; 30 Dec 2016 p. 5966.]
+[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19; 23 Jun 2009 p. 2466; 29 Jan 2010 p. 200; 25 Jun 2010 p. 2869; 17 Sep 2010 p. 4759; 17 Jun 2011 p. 2169; 13 Dec 2011 p. 5282; 16 Mar 2012 p. 1256; 23 Mar 2012 p. 1370; 8 Jun 2012 p. 2386; 5 Feb 2013 p. 836; 10 May 2013 p. 1937; 20 Aug 2013 p. 3884; 20 Jun 2014 p. 2026; 10 Feb 2015 p. 611; 3 Mar 2015 p. 784; 12 Jun 2015 p. 2027; 28 Jun 2016 p. 2643; 9 Aug 2016 p. 3428; 30 Dec 2016 p. 5966; 10 Jan 2017 p. 175.]

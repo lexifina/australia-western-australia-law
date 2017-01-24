@@ -66,24 +66,12 @@ Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 7 | 14 Jun 20
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2016 | 28 Jun 2016 p. 2642-3 | r. 1 and 2: 28 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2016 | 9 Aug 2016 p. 3427-8 | r. 1 and 2: 9 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 3 | 30 Dec 2016 p. 5965-6 | 31 Dec 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 173-6 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009 s. 490.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
-On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Fines, Penalties and Infringement Notices Enforcement Regulations 1994 amended
-5.Regulations amended
-This Part amends the Fines, Penalties and Infringement Notices Enforcement Regulations 1994.
-6.Schedule 1 amended
-(1) In Schedule 1 delete “Health Act 1911”.
-(2) In Schedule 1 insert in alphabetical order:
-Health (Miscellaneous Provisions) Act 1911
-Public Health Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

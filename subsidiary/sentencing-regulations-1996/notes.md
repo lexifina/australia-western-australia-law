@@ -24,9 +24,6 @@ Reprint 3: The Sentencing Regulations 1996 as at 12 Jul 2013 (includes amendment
 Sentencing Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5065 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Sentencing Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 5179 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Sentencing Amendment Regulations 2016 | 11 Oct 2016 p. 4537 | r. 1 and 2: 11 Oct 2016 (see r. 2(a)) Regulations other than r. 1 and 2: 12 Oct 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 173-6 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
 The Credit (Administration) Act 1984 s. 37, 38, 39(4) and (6) were deleted by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 29.
@@ -53,13 +50,6 @@ Formerly referred to the Curriculum Council Act 1997 the short title of which wa
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Formerly referred to the Navigable Waters Regulations, the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Sentencing Regulations 1996 amended
-7.Regulations amended
-This Part amends the Sentencing Regulations 1996.
-8.Schedule 2 amended
-In Schedule 2 delete “Health Act 1911” and insert:
-Health (Miscellaneous Provisions) Act 1911
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
