@@ -2,25 +2,17 @@ Notes
 This is a compilation of the Public Health Act 2016 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Public Health Act 2016 Pt 1, 17, 19 Div. 2, 5 and 6, Pt. 20 (s. 310 and 322) | 18 of 2016 | 25 Jul 2016 | Pt. 1 (other than s. 3-5): 25 Jul 2016 (see s. 2(a)); s. 3-5, Pt. 17, Pt. 19 Div. 2, 5 and 6 and Pt. 20 s. 310 and 322: 26 Jul 2016 (see s. 2(b))
+Public Health Act 2016 | 18 of 2016 | 25 Jul 2016 | Pt. 1 (other than s. 3-5): 25 Jul 2016 (see s. 2(a)); s. 3-5: 26 Jul 2016 (see s. 2(b)(i)); Pt. 17: 26 Jul 2016 (see s. 2(b)(ii)); Pt. 19 (other than Div. 1, 3 and 4): 26 Jul 2016 (see s. 2(b)(iii)); Pt. 20 (s. 310 and 322): 26 Jul 2016 (see s. 2(b)(iv)); Pt. 2 Div. 1 (except s. 7 and 8), Div. 2-4, Pt. 18 Div. 1 and 2 and Pt. 20 (s. 307-309, 311 and 312): 24 Jan 2017 (see s. 2(c) and Gazette 10 Jan 2017 p. 163)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 28 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health Act 2016 Pt. 2-16, 18, 19 (Div. 1, 3 and 4), Pt 20 (other than s. 310 and 322) | 18 of 2016 | 25 Jul 2016 | Pt. 2 Div. 1 (except s. 7 and 8) and Div. 2-4, Pt. 18 Div. 1 and 2 and Pt. 20 (s. 307-309 and 311-312): 24 Jan 2017 (see s. 2(c) and Gazette 10 Jan 2017 p. 163); s. 7 and 8, Pt. 2 Div. 5, Pt. 3-16, Pt. 18 Div. 3, Pt. 19 Div. 1, 3 and 4 and s. 313-321: to be proclaimed (see s. 2(c))
+Public Health Act 2016 s. 7 and 8, Pt. 2 Div. 5, Pt. 3-16, Pt. 18 Div. 3, Pt. 19 Div. 1, 3 and 4 and Pt. 20 (s. 313-321) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 18 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-On the date as at which this compilation was prepared, the Public Health Act 2016 Pt. 2-16, 18, 19 (Div. 1, 3 and 4), Pt 20 (other than s. 310 and 322) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Public Health Act 2016 s. 7 and 8, Pt. 2 Div. 5, Pt. 3-16, Pt. 18 Div. 3, Pt. 19 Div. 1, 3 and 4 and Pt. 20 (s. 313-321) had not come into operation. They read as follows:
 Part 2 — Administration
 Division 1 — Chief Health Officer
 Subdivision 1 — Functions of Chief Health Officer
-6.Functions of Chief Health Officer
-The Chief Health Officer has the following functions in relation to the administration of this Act —
-(a) to initiate, support and manage public health planning for the State;
-(b) to develop and implement policies and programmes to achieve the objects of this Act;
-(c) to provide advice or recommendations to the Minister or to any other person or body or to the community generally on matters relevant to public health;
-(d) to provide advice or recommendations to the Minister on possible changes to this Act or the regulations that the Chief Health Officer considers appropriate or necessary;
-(e) to perform the functions that are conferred on the Chief Health Officer by or under this Act;
-(f) to administer this Act in accordance with its objects and principles.
 7.Chief Health Officer may give directions to local governments
 (1) This section applies if the Chief Health Officer —
 (a) considers that there is, or is likely to be, a material public health risk in a local government district; and
@@ -35,193 +27,6 @@ The Chief Health Officer has the following functions in relation to the administ
 8.Chief Health Officer may act without seeking local government agreement in urgent circumstances
 (1) If the Chief Health Officer considers that the circumstances of the material public health risk referred to in section 7(1) are sufficiently urgent, the Chief Health Officer may do anything that the Chief Health Officer considers necessary to prevent, control or abate that risk without having first sought to reach agreement with the local government as to the measures referred to in section 7(1)(b).
 (2) Any costs incurred by the Chief Health Officer in doing anything under subsection (1) are not recoverable from the local government.
-9.Chief Health Officer may delegate
-(1) The Chief Health Officer may delegate any function of the Chief Health Officer under another provision of this Act to a public health official.
-(2) A delegation must be in writing signed by the Chief Health Officer.
-(3) A delegation may expressly authorise the delegate to further delegate the function to another public health official.
-(4) A person performing a function that has been delegated to the person under, or as authorised under, this section is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
-(5) Nothing in this section limits the ability of the Chief Health Officer to act through an officer or agent.
-10.Power to delegate under Health Legislation Administration Act 1984 section 9 excluded
-The Health Legislation Administration Act 1984 section 9 does not apply to or in relation to any function of the Chief Health Officer under this Act.
-Subdivision 2 — Designation of Chief Health Officer
-11.Minister to designate Chief Health Officer
-(1) The Minister must designate a person as the Chief Health Officer.
-(2) A person cannot be designated as Chief Health Officer unless —
-(a) the person is a departmental officer; and
-(b) the person is a medical practitioner; and
-(c) the Minister is satisfied that the person has appropriate qualifications and experience in public health.
-12.Term of office and remuneration of Chief Health Officer
-(1) A designation under section 11 —
-(a) must be made by notice published in the Gazette; and
-(b) must specify the term of the designation, which cannot exceed 5 years.
-(2) Subsection (1)(b) does not prevent a person from serving as Chief Health Officer more than once.
-(3) The Chief Health Officer is entitled to the remuneration determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975.
-(4) For the purposes of the Salaries and Allowances Act 1975 and any other written law, the office of Chief Health Officer is to be taken to be prescribed under section 6(1)(e) of that Act for the purposes of section 6 of that Act.
-13.Resignation, vacation of office and removal from office
-(1) The Chief Health Officer may resign from that office by writing signed and given to the Minister.
-(2) The resignation takes effect on the later of —
-(a) receipt by the Minister; or
-(b) the day specified in the resignation.
-(3) A person vacates office as the Chief Health Officer if the person ceases to be —
-(a) a departmental officer; or
-(b) a medical practitioner.
-(4) The Minister may remove a person from the office of Chief Health Officer on any of these grounds —
-(a) mental or physical incapacity;
-(b) incompetence;
-(c) neglect of duty;
-(d) misconduct.
-(5) The removal of a person from office under subsection (4) does not by itself affect the person’s employment as a public service officer.
-(6) Subsection (4) does not limit the application of the Public Sector Management Act 1994 Part 5 to and in relation to any person who holds or has held the office of Chief Health Officer.
-14.Acting Chief Health Officer
-(1) The CEO may designate a person to act in the office of the Chief Health Officer —
-(a) during a vacancy in the office, whether or not a designation has previously been made under section 11(1); or
-(b) during a period, or during all periods, when the person holding the office or a person acting in the office under a designation under this section is on leave or is for any other reason unable to perform the functions of the office.
-(2) A person cannot be designated under subsection (1) unless —
-(a) the person is —
-(i) a departmental officer; and
-(ii) a medical practitioner;
-and
-(b) the CEO is satisfied that the person has appropriate qualifications and experience in public health.
-(3) A designation under subsection (1) —
-(a) must be in writing; and
-(b) may be expressed to have effect only in the circumstances specified in it.
-(4) A person cannot act under a designation under subsection (1) for longer than 12 months at a time.
-(5) The CEO may revoke a designation under subsection (1) at any time.
-15.Authority of Acting Chief Health Officer
-(1) The Interpretation Act 1984 section 49 authorises the performance of the functions of the Chief Health Officer by a person acting under a designation under section 14.
-(2) The validity of anything done by or in relation to a person purporting to act under a designation under section 14 is not to be called into question on any of these grounds —
-(a) the occasion for the designation had not arisen;
-(b) there is a defect or irregularity in the designation;
-(c) the designation had ceased to have effect;
-(d) the occasion for the person to act had not arisen or had ceased.
-Division 2 — Functions of local governments
-16.Functions of local governments
-A local government has the following functions in relation to the administration of this Act —
-(a) to initiate, support and manage public health planning for its local government district;
-(b) to develop and implement policies and programmes to achieve the objects of this Act within its local government district;
-(c) to perform the functions that are conferred on local governments by or under this Act;
-(d) to administer and enforce this Act within its local government district in accordance with the objects and principles of this Act.
-17.Appointment of environmental health officers
-(1) A local government may appoint one or more persons as environmental health officers.
-(2) An appointee may be —
-(a) a person employed by the local government under the Local Government Act 1995 section 5.36; or
-(b) a person engaged by the local government under a contract for services.
-(3) A local government must not appoint a person as an environmental health officer unless the person has the qualifications and experience approved by the Chief Health Officer under section 18.
-(4) Two or more local governments may enter into arrangements for one or more persons to be appointed as environmental health officers for each of those local governments.
-(5) This section does not limit the Local Government Act 1995 section 5.36.
-18.Chief Health Officer to approve qualifications and experience required by environmental health officers
-(1) The Chief Health Officer must, by notice published in the Gazette, approve the qualifications and experience that persons to be appointed as environmental health officers must have.
-(2) An approval is not subsidiary legislation for the purposes of the Interpretation Act 1984.
-(3) The Interpretation Act 1984 sections 43 (other than subsection (6)) and 44 and Part VIII apply to an approval as if it were subsidiary legislation.
-Division 3 — Functions of enforcement agencies
-19.Functions of enforcement agencies
-An enforcement agency has the functions in relation to the administration of this Act that are conferred or imposed on the agency by or under this Act.
-20.Conditions on performance of functions by enforcement agencies
-(1) The Chief Health Officer, after consultation with another enforcement agency, may, in writing, impose conditions or restrictions on the performance of functions under this Act by the enforcement agency.
-(2) The performance by an enforcement agency of functions under this Act is subject to any conditions or restrictions imposed under subsection (1).
-21.Enforcement agency may delegate
-(1) A power or duty conferred or imposed on an enforcement agency may be delegated —
-(a) if the enforcement agency is the Chief Health Officer, in accordance with section 9; or
-(b) if the enforcement agency is a local government, to —
-(i) the chief executive officer of the local government; or
-(ii) an authorised officer designated by the local government;
-or
-(c) if the enforcement agency is a person or body, or a person or body within a class of persons or bodies, prescribed by the regulations, to an authorised officer designated by the agency.
-(2) A delegation under subsection (1)(b) or (c) must be in writing.
-(3) Without limiting the Interpretation Act 1984 section 59, the exercise or performance by a delegate of an enforcement agency of a power or duty delegated under subsection (1)(b) or (c) is subject to any condition or restriction imposed under section 20 on the exercise or performance by the enforcement agency of the power or duty.
-(4) Subsection (5) applies if —
-(a) the regulations expressly authorise a delegated power or duty of an enforcement agency referred to in subsection (1)(b) or (c) to be further delegated; and
-(b) the delegated power or duty is further delegated to a person or body in accordance with those regulations.
-(5) If this subsection applies, subsection (3) applies to the exercise or performance by the person or body of that power or duty as if it were exercised or performed, and delegated, as described in subsection (3).
-22.Reports by and about enforcement agencies
-(1) An enforcement agency (other than the Chief Health Officer) must report to the Chief Health Officer, at the intervals that the Chief Health Officer requires, on the performance of functions under this Act by the agency and by persons employed or engaged by the agency.
-(2) In addition to any report required under subsection (1), an enforcement agency must forward to the Chief Health Officer details of any proceedings for an offence under this Act taken by the agency, and those details must be forwarded —
-(a) within one month after the proceedings have been instituted; and
-(b) within one month after the proceedings have been finally dealt with.
-(3) The accountable authority of the Department must include in the annual report submitted under the Financial Management Act 2006 Part 5 —
-(a) a report on the performance by enforcement agencies (including the Chief Health Officer) of functions under this Act; and
-(b) the current State public health plan prepared under section 43.
-Division 4 — Authorised officers
-23.Terms used
-In this Division —
-designate includes, in relation to a person or class of persons who are not departmental officers, appoint;
-designation means a designation under section 24(1);
-specified means specified in a designation.
-24.Designation of authorised officers
-(1) An enforcement agency may designate a person or class of persons as authorised officers —
-(a) for the purposes of this Act or another specified Act; or
-(b) for the purposes of the specified provisions of this Act or another specified Act; or
-(c) for the purposes of the provisions of this Act or another specified Act other than the specified provisions of that Act.
-(2) The Chief Health Officer may designate a person or class of persons under subsection (1) only if the person or, as the case requires, the persons in that class are public health officials.
-(3) An enforcement agency that is a local government may designate under subsection (1) —
-(a) an environmental health officer or environmental health officers as a class; or
-(b) a person who is not an environmental health officer or a class of persons who are not environmental health officers; or
-(c) a mixture of the two.
-(4) Enforcement agencies that are local governments may act jointly in the designation of persons or classes of persons as authorised officers.
-25.Certain authorised officers required to have qualifications and experience
-(1) An enforcement agency must not designate a person or class of persons under section 24(1) unless the enforcement agency —
-(a) considers that the person or, as the case requires, the persons in that class have appropriate qualifications and experience to perform the particular functions that the person or class of persons are to perform as authorised officers; and
-(b) has regard to any guidelines issued under section 29.
-(2) This section does not apply to the designation of —
-(a) public health officials, whether individually or as a class; or
-(b) environmental health officers, whether individually or as a class.
-26.Further provisions relating to designations
-(1) The power to make a designation includes —
-(a) the power to revoke a designation previously made; and
-(b) in relation to a person (person A) who is designated, the power to designate a person or class of persons to perform functions of person A when it is impractical for person A to perform the functions; and
-(c) in relation to a class of persons (class A) who are designated, the power to designate a person or class of persons to perform functions of persons in class A when it is impractical for persons in class A to perform the functions.
-(2) These must be in writing —
-(a) a designation;
-(b) a revocation of a designation.
-27.Lists of authorised officers to be maintained
-Each enforcement agency must prepare and maintain a list of —
-(a) the persons (if any) who are individually designated as authorised officers by the agency; and
-(b) the classes of persons (if any) who are designated as authorised officers by the agency.
-28.When designation as authorised officer ceases
-(1) A person ceases to be an authorised officer if the designation by virtue of which that person is an authorised officer is revoked or ceases to have effect.
-(2) A designation by the Chief Health Officer ceases to have effect if the person designated ceases to be a public health official.
-(3) A person who is an authorised officer by virtue of being an environmental health officer ceases to be an authorised officer if the person ceases to be an environmental health officer.
-29.Chief Health Officer may issue guidelines about qualifications and experience of authorised officers
-The Chief Health Officer may issue guidelines in relation to the appropriate qualifications and experience for a person or class of persons to be designated as authorised officers.
-30.Certificates of authority
-(1) An enforcement agency must issue to each person who is an authorised officer by virtue of a designation by the agency a certificate of authority as an authorised officer.
-(2) The certificate of authority must —
-(a) state that it is issued under this Act; and
-(b) state the name of the person to whom it is issued and bear —
-(i) a photograph or digital image of that person; and
-(ii) the person’s signature;
-and
-(c) state the date, if any, on which it expires; and
-(d) specify —
-(i) the Acts or the provisions of the Acts for the purposes of which the person is designated as an authorised officer; and
-(ii) any provisions of an Act that are excluded from the designation;
-and
-(e) specify any conditions or restrictions to which the person’s authority is subject; and
-(f) bear the signature of the person by whom it is issued and state the capacity in which the person is acting in issuing the certificate.
-(3) An authorised officer must produce the certificate of authority —
-(a) if asked to do so by the person in charge of any premises entered under this Act by the authorised officer; or
-(b) if asked to do so by a person who, under this Act, is required by the authorised officer to produce anything or to answer any question.
-(4) If an enforcement agency is satisfied that obtaining a photograph or digital image of a person to whom a certificate of authority is to be issued, or the person’s signature, would unreasonably delay the issuing of the certificate to that person, the enforcement agency may issue a temporary certificate of authority that does not comply with either or both of the requirements of subsection (2)(b).
-(5) A temporary certificate of authority —
-(a) is valid for the period, not exceeding one month, that is stated on the certificate; but
-(b) otherwise has the same effect as an ordinary certificate of authority issued under this section.
-31.Issuing and production of certificate of authority for purposes of other written laws
-(1) In this section —
-certificate requirement, in relation to a written law, means a requirement that persons who are authorised to exercise powers under that written law be issued with an identity card;
-identity card means a certificate or other document evidencing a person’s identity or appointment;
-production requirement, in relation to a written law, means a requirement that a person who exercises, has exercised, or is about to exercise a power under that written law produce an identity card, whether on request or otherwise.
-(2) This section applies if —
-(a) a person is designated as an authorised officer for the purposes of one or more provisions of another written law; and
-(b) that other written law has a certificate requirement.
-(3) If this section applies —
-(a) it is sufficient compliance with the certificate requirement in the other written law if the certificate of authority issued to that person under section 30 specifies that the person is designated as an authorised officer for the purposes of that other written law or one or more provisions of that other written law; and
-(b) it is sufficient compliance with any production requirement in that other written law if —
-(i) the production requirement relates to a provision for the purposes of which the designation has effect; and
-(ii) the person produces that certificate of authority.
-32.Certificate of authority to be returned
-(1) A person to whom a certificate of authority is issued under section 30 and who ceases to be an authorised officer must, as soon as practicable, return the certificate to the enforcement agency that issued the certificate.
-(2) A person who contravenes subsection (1) without reasonable excuse, the onus of proving which is on the person, commits an offence.
-Penalty for an offence under this subsection: a fine of $1 000.
 Division 5 — Advisory committees
 33.Establishment and functions of advisory committees
 (1) The Chief Health Officer may establish advisory committees to assist the Chief Health Officer in the performance of the Chief Health Officer’s functions under this Act.
@@ -2452,84 +2257,6 @@ and
 265.Review of decisions relating to compensation
 A person from whom an item was seized under this Part, or any other person who has sought compensation under section 264, who is dissatisfied with a decision by an enforcement agency under that section as to the refusal to pay compensation or as to the amount of compensation may apply to the State Administrative Tribunal for a review of the decision.
 Part 18 — Liability, evidentiary and procedural provisions
-Division 1 — Civil liability
-279.Contraventions not breach of statutory duty
-A contravention of this Act is not actionable as a breach of statutory duty.
-Division 2 — Criminal liability
-280.Commencing proceedings
-Proceedings for an offence under this Act may be commenced —
-(a) by the Chief Health Officer or by an authorised officer authorised in writing by the Chief Health Officer; or
-(b) by an enforcement agency other than the Chief Health Officer.
-281.Offences by employees — liability of employer
-(1) If an employee contravenes any provision of this Act, the employer is to be taken to have contravened the same provision whether or not the employee contravened the provision —
-(a) without the employer’s authority; or
-(b) contrary to the employer’s orders or instructions.
-(2) In proceedings against an employer for such a contravention, it is a defence to prove that the employer —
-(a) had no knowledge of the contravention; and
-(b) could not, by the exercise of due diligence, have prevented the contravention.
-(3) An employer may be proceeded against and convicted under a provision in accordance with this section whether or not the employee has been proceeded against or convicted under that provision.
-282.Liability of officers of body corporate for offence by body corporate
-(1) In this section —
-officer, in relation to a body corporate, has the meaning given in the Corporations Act 2001 (Commonwealth) section 9.
-(2) This section applies to —
-(a) sections 37 and 38; and
-(b) a provision of the regulations that is prescribed for the purposes of this section.
-(3) If a body corporate is guilty of an offence to which this section applies, an officer of the body corporate is also guilty of the offence unless the officer took all reasonable steps to prevent the commission of the offence by the body corporate.
-(4) The officer has the onus of proving that the officer took all reasonable steps to prevent the commission of the offence by the body corporate.
-(5) In determining whether things done or omitted to be done by the officer constitute reasonable steps, a court must have regard to —
-(a) what the officer knew, or ought to have known, about the commission of the offence by the body corporate; and
-(b) whether the officer was in a position to influence the conduct of the body corporate in relation to the commission of the offence; and
-(c) any other relevant matter.
-283.Further provisions relating to liability of officers of body corporate
-(1) Section 282 does not affect the liability of a body corporate for any offence.
-(2) Section 282 does not affect the operation of The Criminal Code chapters II, LVII, LVIII and LIX in relation to an officer or any other person.
-(3) An officer of a body corporate may be charged with, and convicted of, an offence in accordance with section 282 whether or not the body corporate is charged with, or convicted of, the principal offence committed by the body corporate.
-(4) If an officer of a body corporate who is charged with an offence in accordance with section 282 claims that the body corporate would have a defence if it were charged with the offence —
-(a) the onus of proving the defence is on the officer; and
-(b) the standard of proof required is the standard that would apply to the body corporate in relation to the defence.
-(5) Subsection (4) does not limit any other defence available to the officer.
-284.Liability of employees and agents
-It is not a defence in proceedings for an offence under this Act that the accused person was, at the time of the commission of the offence, an employee or agent of another person.
-285.Disclosure by witnesses
-(1) In any proceedings for an offence under this Act, a witness for the prosecution is not compelled to disclose the fact that the witness received information, the nature of the information received or the name of the person from whom the information was received.
-(2) An authorised officer appearing as a witness in any proceedings is not compelled to produce any document containing any confidential matter made or received in his or her capacity as an authorised officer.
-(3) Despite subsections (1) and (2), a court hearing proceedings for an offence under this Act may order the disclosure of any matter, or the production of a document, referred to in those subsections if the court considers that it is necessary in the interests of justice.
-286.Documentary evidence of certain matters
-(1) In this section —
-relevant officer means —
-(a)the Chief Health Officer; or
-(b)the chief executive officer of a local government; or
-(c)for an enforcement agency other than the Chief Health Officer or a local government, the person prescribed by the regulations in respect of the enforcement agency.
-(2) In any proceedings for an offence under this Act —
-(a) production of a copy of a code or other document that has been adopted by the regulations, purporting to be signed by the Chief Health Officer certifying that the copy is a true copy as at a specified date or during a specified period, is evidence of the contents of the code or other document as at that date or during that period; and
-(b) a document purporting to be a copy of any licence, registration, approval, order, direction, notice or authority under this Act is evidence of that licence, registration, approval, order, direction, notice or authority; and
-(c) a document purporting to be signed by the relevant officer and certifying any of the following matters is evidence of the matter certified —
-(i) that at a specified time or during a specified period, there was or was not in force any licence, registration, approval, order, direction, notice or authority in relation to a specified person or persons or specified premises;
-(ii) that at a specified time or during a specified period, a licence, registration, approval, order, direction, notice or authority was or was not subject to specified conditions;
-(iii) as to the receipt or otherwise of any notice, application or payment;
-(iv) that any amount of fees, charges or other money is payable under this Act by a specified person and has not been paid at the date of the certificate.
-287.Court may order costs and expenses
-Without affecting any other power of a court to award costs, a court that hears proceedings for an offence under this Act has power to make the orders that it thinks fit in respect of the costs and expenses of and incidental to the examination, seizure, detention, storage, analysis, destruction or other disposition of anything the subject of those proceedings.
-288.Court may order forfeiture
-A court that convicts a person of an offence under this Act may, in addition to any penalty imposed or order made in respect of the conviction, order the forfeiture to the State of anything that was used in the commission of the offence.
-289.Court’s powers in relation to registration and licences
-(1) If the holder of a certificate of registration is convicted by any court of an offence under this Act, the court may by order, in addition to any penalty imposed or order made in respect of the conviction, do one or more of the following —
-(a) impose any condition on the registration of the relevant registrable activity, for any period specified in the order;
-(b) suspend the registration of the relevant registrable activity for whatever period, not exceeding 3 months, the court thinks fit;
-(c) cancel the registration of the relevant registrable activity;
-(d) disqualify the holder of the certificate of registration from holding a certificate of registration for whatever period the court thinks fit or permanently.
-(2) If the holder of an activity licence is convicted by any court of an offence under this Act, the court may by order, in addition to any penalty imposed or order made in respect of the conviction, do one or more of the following —
-(a) impose any condition on the licence, for any period specified in the order;
-(b) suspend the licence for whatever period, not exceeding 3 months, the court thinks fit;
-(c) cancel the licence;
-(d) disqualify the holder of the licence from holding an activity licence for whatever period the court thinks fit or permanently.
-(3) When making an order under this section, a court may, if it thinks fit, defer the operation of the order pending an appeal.
-290.Further provisions relating to orders under section 289
-(1) If, under section 289, a court makes an order imposing a condition on the registration of a registrable activity or an activity licence, or suspending or cancelling the registration of a registrable activity or an activity licence —
-(a) the order has the same effect as if the condition had been imposed, or the registration or activity licence had been suspended or cancelled, under Part 8; but
-(b) nothing in section 75 or 85 applies in relation to the imposition of the condition or, as the case requires, the suspension or cancellation of the registration or licence.
-(2) A person who is disqualified under section 289 from holding a certificate of registration cannot during the period of disqualification apply for, or be issued with, a certificate of registration.
-(3) A person who is disqualified under section 289 from holding an activity licence cannot during the period of disqualification apply for, or be issued with, an activity licence.
 Division 3 — Enforcement action against Crown
 291.Term used: responsible agency
 In this Division —
@@ -2646,34 +2373,6 @@ Division 4 — Guidelines
 (c) notice of the revocation of guidelines.
 (3) Guidelines are not subsidiary legislation for the purposes of the Interpretation Act 1984.
 Part 20 — Transitional and savings provisions
-307.Terms used
-(1) In this Part —
-Health Act means the Act that —
-(a)before its renaming by the Public Health (Consequential Provisions) Act 2016, is known as the Health Act 1911; and
-(b)after its renaming by the Public Health (Consequential Provisions) Act 2016, is known as the Health (Miscellaneous Provisions) Act 1911.
-(2) If a term has or, before the deletion of the relevant provision by the Public Health (Consequential Provisions) Act 2016, had a meaning in the Health Act, it has the same meaning in this Part unless the contrary intention appears.
-308.Application of Interpretation Act 1984
-The provisions of this Part do not prejudice or affect the application of the Interpretation Act 1984 to and in relation to the deletions of provisions of the Health Act effected by the Public Health (Consequential Provisions) Act 2016.
-309.References to Health Act 1911 and Health (Miscellaneous Provisions) Act 1911
-A reference in a written law or document to the Health Act 1911 or the Health (Miscellaneous Provisions) Act 1911 may, if the context permits, be taken to be a reference to this Act.
-311.Executive Director, Public Health to hold office as Chief Health Officer
-(1) The person (the incumbent) who, immediately before the day on which this section comes into operation (the commencement day), holds the office of Executive Director, Public Health in the Department —
-(a) is to be taken to be designated under section 11 as the Chief Health Officer; and
-(b) is to be taken to be designated for a term of office beginning on the commencement day that is the balance of the incumbent’s term of office (the residual term) as Executive Director, Public Health remaining immediately before the commencement day.
-(2) Subsection (1)(b) does not prevent the incumbent from again being designated as Chief Health Officer when the residual term expires.
-(3) Regardless of section 12(3), if the remuneration that the incumbent would have been entitled to receive as Executive Director, Public Health during the residual term is greater than the remuneration determined for the position of Chief Health Officer by the Salaries and Allowances Tribunal, the incumbent is entitled to receive that greater remuneration during the residual term.
-312.Environmental health officers to be authorised officers for certain purposes
-(1) If, immediately before this section comes into operation, a person holds an appointment as an environmental health officer under the Health Act, then, on this section coming into operation, the person is to be taken —
-(a) to have been designated as an authorised officer under section 24(1) by the local government that appointed the person as an environmental health officer; and
-(b) to have been so designated for the purposes of —
-(i) Parts 8, 9, 14 and 16; and
-(ii) the Health Act sections 145(1), 157(2), 173 (paragraph (a) of the definition of authorised person), 181, 183, 184(1), 227(1), 228(1), 234(1), 257, 262(3), 265(1), 267(1)(c), 268(a), 277(1)(b) and (3), 280(2), 349(1), 351(1), (2) and (5), 352(1) and (2), 358(2) and 375; and
-(iii) the Dog Act 1976; and
-(iv) the Tobacco Products Control Act 2006; and
-(v) the Food Act 2008; and
-(vi) the Cat Act 2011.
-(2) If, under the Health Act section 30(1), the local governments of 2 or more districts have joined in the appointment of a person to whom subsection (1) applies, the person is to be taken to have been designated as an authorised officer, for the purposes referred to in subsection (1)(b), by those local governments acting jointly under section 24(4).
-(3) This section does not limit or affect the power of a local government, or local governments acting jointly, to revoke or vary the designation, as an authorised officer, of a person to whom subsection (1) applies.
 313.Unpaid rates levied under Health Act Part III remain recoverable
 If any health rate, sanitary rate, supplementary rate or special loan rate made and levied under the Health Act Part III remains unpaid immediately before the deletion of that Part effected by the Public Health (Consequential Provisions) Act 2016, the rate remains due and payable and may be recovered under the Local Government Act 1995, and all the provisions of the Local Government Act 1995 relating to the payment and recovery of general rates apply accordingly.
 314.Transitional provisions relating to deletion of Health Act Part IV
@@ -2733,15 +2432,20 @@ approved form4(1)
 authorised officer4(1), 4(2)
 CEO4(1)
 certificate of registration4(1)
+certificate requirement31(1)
 Chief Health Officer4(1)
 child care service4(1)
+class A26(1)
 code305(1)
+commencement day311(1)
 Commissioner of Police4(1)
 compliance plan266
 Crown266
 Crown authority266
 Department4(1)
 departmental officer4(1)
+designate23
+designation23
 emergency area4(1)
 emergency management4(1)
 emergency officer4(1)
@@ -2754,7 +2458,10 @@ exemption266
 exemption-holder266
 general public health duty4(1)
 harm4(1)
+Health Act307(1)
+identity card31(1)
 improvement notice4(1)
+incumbent311(1)
 judicial officer4(1)
 material public health risk4(1)
 medical examination4(1)
@@ -2767,10 +2474,12 @@ notifiable infectious disease4(1)
 notifiable infectious disease-related condition4(1)
 nurse4(1)
 nurse practitioner4(1)
-officer4(1)
+officer4(1), 282(1)
+person A26(1)
 personal details4(1)
 premises4(1)
 prescribed condition of health4(1)
+production requirement31(1)
 public authority4(1)
 public health4(1)
 public health emergency4(1)
@@ -2781,7 +2490,9 @@ public health risk4(1)
 public health risk activity4(1)
 public health state of emergency4(1)
 public health state of emergency declaration4(1)
+relevant officer286(1)
 remote communication4(1)
+residual term311(1)
 responsible Minister274(3)
 sample4(1)
 school4(1)
@@ -2789,7 +2500,7 @@ senior next of kin4(1)
 senior police officer4(1)
 serious public health incident power4(1)
 serious public health risk4(1)
-specified322(1)
+specified23, 322(1)
 subsidiary legislation305(1)
 test order4(1)
 transitional matter322(1)
