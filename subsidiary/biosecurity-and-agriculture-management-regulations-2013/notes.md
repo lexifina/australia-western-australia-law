@@ -1,19 +1,9 @@
 Notes
-This is a compilation of the Biosecurity and Agriculture Management Regulations 2013. The following table contains information about those regulations.
+This is a compilation of the Biosecurity and Agriculture Management Regulations 2013 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Biosecurity and Agriculture Management Regulations 2013 | 5 Feb 2013 p. 465-591 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 169-71 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
-On the date as at which this compilation was prepared, the Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Biosecurity and Agriculture Management Regulations 2013 amended
-3.Regulations amended
-This Part amends the Biosecurity and Agriculture Management Regulations 2013.
-4.Regulation 42 amended
-In regulation 42 delete “Health Act 1911,” and insert:
-Health (Miscellaneous Provisions) Act 1911,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
