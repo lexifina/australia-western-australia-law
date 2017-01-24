@@ -11,29 +11,11 @@ Young Offenders Amendment Regulations 2007 | 3 Apr 2007 p. 1509-10 | 4 Apr 2007 
 Reprint 2: The Young Offenders Regulations 1995 as at 20 Jul 2007 (includes amendments listed above)
 Young Offenders Amendment Regulations 2009 | 19 Jun 2009 p. 2232-5 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Young Offenders Amendment Regulations 2015 | 21 Aug 2015 p. 3325-35 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Aug 2015 (see r. 2(b) and Gazette 21 Aug 2015 p. 3310)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Corrective Services Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 185-9 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
-On the date as at which this compilation was prepared, the Corrective Services Regulations Amendment (Public Health) Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Young Offenders Regulations 1995 amended
-8.Regulations amended
-This Part amends the Young Offenders Regulations 1995.
-9.Regulation 2 amended
-In regulation 2 insert in alphabetical order:
-analyst means a person approved under regulation 102(5);
-10.Regulation 51 amended
-(1) In regulation 51(1) delete “Executive Director, Public Health.” and insert:
-Chief Health Officer.
-(2) In regulation 51(2) delete “Executive Director, Public Health” and insert:
-Chief Health Officer
-11.Regulation 102 amended
-Delete regulation 102(5) and insert:
-(5) For the purposes of these regulations, the chief executive officer may approve a person who is employed by an approved analysis agent as an analyst.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-analyst102(5)
+analyst2
 approved9(4)
 authorised46A(1)
 commencement day105(1)

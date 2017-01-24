@@ -6,7 +6,7 @@ Prisons Regulations 1982
 Superintendent,
 ....................................................................... Prison.
 I, .......................................................................................................... (full name)
-being a person appointed as an analyst under the Health Act 1911 and employed at the ................................................... (Name of approved analysis agent)
+being a person approved as an analyst under regulation 27(3) and employed at the ................................................... (Name of approved analysis agent)
 CERTIFY THAT:
 (1)On the ................................. day of ................................. 20 ............ I received a sample of ....................................................................... from ................................................................................................... in a sealed container and bearing, inter alia,
 ................................................................................. Prisoner’s name
@@ -19,7 +19,7 @@ CERTIFY THAT:
 DATED this ..................................... day of ......................................... 20 ...........
 ...................................................................................................................
 AnalystLaboratory Number
-[Form 1 inserted in Gazette 17 Aug 1984 p. 2450; amended in Gazette 9 Aug 1991 p. 4113; 8 Nov 1991 p. 5721; 13 Sep 1996 p. 4570.]
+[Form 1 inserted in Gazette 17 Aug 1984 p. 2450; amended in Gazette 9 Aug 1991 p. 4113; 8 Nov 1991 p. 5721; 13 Sep 1996 p. 4570; 10 Jan 2017 p. 187.]
 Form 2
 [Regulation 54]
 Prisons Act 1981
