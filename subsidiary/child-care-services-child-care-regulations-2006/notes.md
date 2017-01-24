@@ -13,23 +13,11 @@ Child Care Services (Child Care) Amendment Regulations 2011 | 6 Jan 2012 p. 14-2
 Child Care Services (Child Care) Amendment Regulations (No. 3) 2012 | 5 Mar 2013 p. 1110-13 | r. 1 and 2: 5 Mar 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2013 (see r. 2(b))
 Reprint 4: The Child Care Services (Child Care) Regulations 2006 as at 24 May 2013 (includes amendments listed above)
 Child Care Services (Child Care) Amendment Regulations (No. 2) 2012 | 2 Aug 2013 p. 3527 | r. 1 and 2: 2 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2013 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Child Care Services (Child Care) Amendment Regulations 2016 r. 3-5 | 10 Jan 2017 p. 179-80 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Child Care Services (Child Care) Amendment Regulations 2016 | 10 Jan 2017 p. 179-80 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 These regulations were made under the Children and Community Services Act 2004 but continue to operate under the Child Care Services Act 2007 s. 52 from 10 August 2007 (see s. 56).
 The Building Regulations 1989 were repealed by the Building Act 2011 s. 157, as at 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033).
 The Community Services (Child Care) Amendment Regulations 2001 commenced 13 Feb 2001 (see Gazette 13 Feb 2001 p. 872-91).
 Now known as the Child Care Services (Child Care) Regulations 2006; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Child Care Services (Child Care) Amendment Regulations 2016 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Child Care Services (Child Care) Regulations 2006.
-4.Regulation 4 amended
-In regulation 4 delete “Health Act 1911” and insert:
-Health (Miscellaneous Provisions) Act 1911
-5.Regulation 97 amended
-In regulation 97(4) delete “Health Act 1911.” and insert:
-Health (Miscellaneous Provisions) Act 1911.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
