@@ -52,12 +52,13 @@ Criminal Organisations Control Act 2012 s. 179 | 49 of 2012 | 29 Nov 2012 | 2 No
 Criminal Investigation (Covert Powers) Act 2012 Pt. 9 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Reprint 6: The Misuse of Drugs Act 1981 as at 19 Apr 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012)
 Misuse of Drugs Amendment (Psychoactive Substances) Act 2015 | 29 of 2015 | 21 Oct 2015 | s. 1 and 2: 21 Oct 2015 (see s. 2(a)); Act other than s. 1 and 2: 18 Nov 2015 (see s. 2(b) and Gazette 17 Nov 2015 p. 4693-4)
+Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Misuse of Drugs Amendment (Search Powers) Act 2016 | 47 of 2016 | 28 Nov 2016 | s. 1 and 2: 28 Nov 2016 (see s. 2(a)); Act other than s. 1 and 2: 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 337)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 Pt. 11 Div. 3 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 16: to be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 are savings and transitional provisions.
@@ -220,13 +221,7 @@ Schedule II — Plants to which this Act applies
 102. | NORCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 2.0
 (7) In Schedule V delete item 125 and insert:
 125. | PHOLCODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 5.0
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 16 had not come into operation. They read as follows:
-101.Various references to “Health Act 1911” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
-Health (Miscellaneous Provisions) Act 1911
-Table
-Misuse of Drugs Act 1981 | s. 3(1) def. of analyst
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 16 — Misuse of Drugs Act 1981 amended
 311.Act amended

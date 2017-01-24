@@ -26,36 +26,19 @@ Reprint 3: The Radiation Safety Act 1975 as at 6 Nov 2009 (includes amendments l
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 44 | 35 of 2010 | 30 Aug 2010 | s. 142, 146 and 147(1): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 143-145, 147(2)-(4), 148 and 149: 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 33 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 102 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Repealed by section 5 of this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 44 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 102 had not come into operation. It reads as follows:
-102.Various references to “Executive Director” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete the definition of Executive Director.
-Table
-Radiation Safety Act 1975 | s. 4
-(3) In the provisions listed in the Table insert in alphabetical order:
-Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
-Table
-Radiation Safety Act 1975 | s. 4
-(4) In the provisions listed in the Table delete “Executive Director” (each occurrence) and insert:
-Chief Health Officer
-Table
-Radiation Safety Act 1975 | s. 4 def. of authorised officer, 7(1), 13(2)(a) and (3), 16(7) and (8), 42(3) and (4), 55(1), (2) and (3)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 authorisation41A(1)
 authorised officer4
 Board4
+Chief Health Officer 4
 Council4
 electronic product4
-Executive Director4
 irradiating apparatus4
 medical radiation practitioner4
 medical radiation technology4

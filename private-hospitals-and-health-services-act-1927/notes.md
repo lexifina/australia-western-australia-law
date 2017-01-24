@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 October 2016 of the Private Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Private Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Hospitals Act 1927 | 23 of 1927 (18 Geo. V No. 23) | 23 Dec 1927 | 1 Jan 1928 (see s. 1)
@@ -62,12 +62,8 @@ Compilation table
 National Health Funding Pool Act 2012 Pt. 7 | 44 of 2012 | 20 Nov 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6195)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 3 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Health Services Act 2016 Pt. 20 Div. 1 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
-Reprint 8: The Private Hospitals and Health Services Act 1927 as at 21 Oct 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 23 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Reprint 8: The Private Hospitals and Health Services Act 1927 as at 21 Oct 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016)
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The Hospitals and Health Services Amendment Act 2013 s. 3-7 had not come into operation when they were deleted by the Health Services Act 2016 s. 283.
 The short title was initially the Hospitals Act 1927and was subsequently changed to the Hospitals and Health Services Act 1927 then to the Private Hospitals and Health Services Act 1927 (see note under s. 1).
@@ -86,25 +82,7 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
-48.Hospitals and Health Services Act 1927 amended
-(2) The Hospitals and Health Services Act 1927 is amended as follows:
-(a) in section 7E(2) —
-(i) at the end of paragraph (b) by deleting the comma and inserting a full stop instead;
-(ii) by deleting the rest of the subsection;
-(b) in section 7E(5) by deleting “the scheme for accrued or accruing benefits under the Superannuation and Family Benefits Act 1938,”;
-(c) in section 12A(1) by deleting “contributors for the purposes of the Superannuation and Family Benefits Act 1938.” and inserting instead —
-“
-Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
-”.
-The amendments in the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) cannot be made as the sections to be amended have been deleted by the Health Services Act 2016 s. 267 and 270.
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 23 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 23 — Private Hospitals and Health Services Act 1927 amended
-182.Act amended
-This Division amends the Private Hospitals and Health Services Act 1927.
-183.Section 2 amended
-In section 2(1) delete the definition of infectious disease.
+The State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) was deleted by the Health Services Act 2016 s. 304.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -114,7 +92,6 @@ Chief Psychiatrist2(1)
 Department2(1)
 health service2(1)
 hospital2(1)
-infectious disease2(1)
 licence26A
 medical practitioner2(1)
 mental illness2(1)

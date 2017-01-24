@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 September 2016 of the Housing Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Housing Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Housing Act 1980 | 58 of 1980 | 24 Nov 1980 | 1 Jan 1981 (see s. 2 and Gazette 24 Dec 1980 p. 4349)
@@ -37,11 +37,12 @@ Residential Tenancies Amendment Act 2011 Pt. 5 Div. 2 | 60 of 2011 | 14 Dec 2011
 Water Services Legislation Amendment and Repeal Act 2012 s. 218 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 26 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
-Reprint 4: The Housing Act 1980 as at 2 Sep 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Reprint 4: The Housing Act 1980 as at 2 Sep 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016 s. 101)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 9 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 9: to be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 9 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The body preserved and continued by this Act is now called the “Housing Authority” (see s. 6).
 Repealed by the Housing Societies Repeal Act 2005.
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -81,13 +82,7 @@ former body means —
 (b)the Government Employees’ Housing Authority established by section 8 of the Government Employees’ Housing Act 1964 as in force before commencement;
 Housing Authority means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
 The Standardisation of Formatting Act 2010 s. 51 Table in item 31 in the row relating to s. 55(5) had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(4).
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 9 had not come into operation. They read as follows:
-101.Various references to “Health Act 1911” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
-Health (Miscellaneous Provisions) Act 1911
-Table
-Housing Act 1980 | s. 5(1) def. of local government
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 9 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 9 — Housing Act 1980 amended
 294.Act amended

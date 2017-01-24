@@ -77,6 +77,7 @@ Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 3 | 25 of
 Sentencing Amendment Act 2015 | 32 of 2015 | 2 Nov 2015 | s. 1 and 2: 2 Nov 2015 (see s. 2(a)); Act other than s. 1 and 2: 3 Nov 2015 (see s. 2(b))
 Reprint 9: The Sentencing Act 1995 as at 8 Jan 2016 (includes amendments listed above)
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
+Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 9 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 1 and 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -85,8 +86,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
- | Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 23: to be proclaimed (see s. 2(1)(c))
- | Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 Div. 3-6 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
+ | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+ | Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 Div. 3-6 | 45 of 2016 | 7 Dec 2016 | Pt. 3 Div. 1: 1 Jul 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1159); Pt. 4 Div. 3-6: to be proclaimed (see s. 2(c))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
@@ -228,13 +229,7 @@ On the date as at which this compilation was prepared, the Criminal Code Amendme
 (2) In Schedule 1A Part 2 item 1 delete “s. 428” and insert:
 s. 417
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 23 had not come into operation. They read as follows:
-101.Various references to “Health Act 1911” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
-Health (Miscellaneous Provisions) Act 1911
-Table
-Sentencing Act 1995 | Sch. 1
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 23 — Sentencing Act 1995 amended
 329.Act amended

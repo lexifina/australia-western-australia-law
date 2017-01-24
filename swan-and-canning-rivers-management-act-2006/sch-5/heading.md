@@ -8,7 +8,7 @@
 (f) the Fire and Emergency Services Act 1998;
 (g) the Fish Resources Management Act 1994;
 (h) the Forest Products Act 2000;
-(i) the Health Act 1911;
+(i) the Health (Miscellaneous Provisions) Act 1911;
 (j) the Hope Valley-Wattleup Redevelopment Act 2000;
 (k) the Jetties Act 1926;
 (l) the Land Administration Act 1997;
@@ -49,4 +49,4 @@
 17.The holder of a licence under the Electricity Industry Act 2004.
 18.The holder of a distribution licence under the Energy Coordination Act 1994.
 19.Any decision-making authority as defined in the Environmental Protection Act 1986 section 3.
-[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233; No. 6 of 2015 s. 49; No. 28 of 2015 s. 78.]
+[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233; No. 6 of 2015 s. 49; No. 28 of 2015 s. 78; No. 19 of 2016 s. 101.]

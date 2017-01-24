@@ -1,35 +1,35 @@
 Notes
 This is a compilation of the School Education Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-School Education Act 1999 | 36 of 1999 | 2 Nov 1999 | s. 1 and 2: 2 Nov 1999; Act other than s. 1, 2, 182(3) and 208: 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7904)
-State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 62 | 43 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2(2) and Gazette 16 Feb 2001 p. 903)
-Labour Relations Reform Act 2002 s. 27 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2 and Gazette 6 Sep 2002 p. 4487)
-Sentencing Legislation Amendment and Repeal Act 2003 s. 94 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
-Statutes (Repeals and Minor Amendments) Act 2003 s. 107 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Reprint 1: The School Education Act 1999 as at 3 Sep 2004 (includes amendments listed above)
-Children and Community Services Act 2004 Sch. 2 cl. 24 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 2 | 22 of 2005 | 18 Nov 2005 | Pt. 2 Div. 1 and 2: 18 Nov 2005 (see s. 2(1)); Pt. 2 Div. 4: 1 Jan 2006 (see s. 2(3)); Pt. 2 Div. 3: 1 Jan 2008 (see s. 2(2))
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 6 and Sch. 1 cl. 154 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 2: The School Education Act 1999 as at 16 Mar 2007 (includes amendments listed above except those in the Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 2 Div. 3)
-Training Legislation Amendment and Repeal Act 2008 s. 61 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
-Public Sector Reform Act 2010 s. 89 and 110 | 39 of 2010 | 1 Oct 2010 | s. 89: 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563); s. 110: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 | 1 of 2011 | 1 Mar 2011 | 1 Jan 2013 (see s. 2(b) and Gazette 14 Dec 2012 p. 6195)
-Curriculum Council Amendment Act 2011 Pt. 3 Div. 4 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
-Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 7 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
-School Education Amendment Act 2012 Pt. 2 | 46 of 2012 | 29 Nov 2012 | s. 3 and 5: 29 Nov 2012 (see s. 2(a)); Pt. 2 other than s. 3 and 5: 1 Jan 2013 (see s. 2(b))
-Reprint 3: The School Education Act 1999 as at 15 Mar 2013 (includes amendments listed above)
-School Education Amendment Act 2014 Pt. 2 (s. 3-35) | 28 of 2014 | 27 Nov 2014 | s. 29: 27 Nov 2014 (see s. 2(b)(i)); Pt. 2 Div. 1 and 3 (other than s. 29): 17 Dec 2014 (see s. 2(c) and Gazette 16 Dec 2014 p. 4759); Pt. 2 Div. 2: 2 Feb 2015 (see s. 2(c) and Gazette 16 Jan 2015 p. 311)
-Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
-Associations Incorporation Act 2015 s. 228 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
-Reprint 4: The School Education Act 1999 as at 19 Feb 2016 (includes amendments listed above except the Associations Incorporation Act 2015)
+ | Short title | Number and year | Assent | Commencement
+ | School Education Act 1999 | 36 of 1999 | 2 Nov 1999 | s. 1 and 2: 2 Nov 1999; Act other than s. 1, 2, 182(3) and 208: 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7904)
+ | State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 62 | 43 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2(2) and Gazette 16 Feb 2001 p. 903)
+ | Labour Relations Reform Act 2002 s. 27 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2 and Gazette 6 Sep 2002 p. 4487)
+ | Sentencing Legislation Amendment and Repeal Act 2003 s. 94 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+ | Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
+ | Statutes (Repeals and Minor Amendments) Act 2003 s. 107 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+ | Reprint 1: The School Education Act 1999 as at 3 Sep 2004 (includes amendments listed above)
+ | Children and Community Services Act 2004 Sch. 2 cl. 24 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 2 | 22 of 2005 | 18 Nov 2005 | Pt. 2 Div. 1 and 2: 18 Nov 2005 (see s. 2(1)); Pt. 2 Div. 4: 1 Jan 2006 (see s. 2(3)); Pt. 2 Div. 3: 1 Jan 2008 (see s. 2(2))
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 6 and Sch. 1 cl. 154 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+ | Reprint 2: The School Education Act 1999 as at 16 Mar 2007 (includes amendments listed above except those in the Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 2 Div. 3)
+ | Training Legislation Amendment and Repeal Act 2008 s. 61 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
+ | Public Sector Reform Act 2010 s. 89 and 110 | 39 of 2010 | 1 Oct 2010 | s. 89: 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563); s. 110: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+ | Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 | 1 of 2011 | 1 Mar 2011 | 1 Jan 2013 (see s. 2(b) and Gazette 14 Dec 2012 p. 6195)
+ | Curriculum Council Amendment Act 2011 Pt. 3 Div. 4 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
+ | Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 7 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
+ | School Education Amendment Act 2012 Pt. 2 | 46 of 2012 | 29 Nov 2012 | s. 3 and 5: 29 Nov 2012 (see s. 2(a)); Pt. 2 other than s. 3 and 5: 1 Jan 2013 (see s. 2(b))
+ | Reprint 3: The School Education Act 1999 as at 15 Mar 2013 (includes amendments listed above)
+ | School Education Amendment Act 2014 Pt. 2 (s. 3-35) | 28 of 2014 | 27 Nov 2014 | s. 29: 27 Nov 2014 (see s. 2(b)(i)); Pt. 2 Div. 1 and 3 (other than s. 29): 17 Dec 2014 (see s. 2(c) and Gazette 16 Dec 2014 p. 4759); Pt. 2 Div. 2: 2 Feb 2015 (see s. 2(c) and Gazette 16 Jan 2015 p. 311)
+ | Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
+ | Associations Incorporation Act 2015 s. 228 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+ | Reprint 4: The School Education Act 1999 as at 19 Feb 2016 (includes amendments listed above except the Associations Incorporation Act 2015)
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 25 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 25 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 Pt. 3 | 41 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
@@ -46,17 +46,7 @@ The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s
 (2) When the meaning of “compulsory education period” changes by operation of section 6(b) of the School Education Act 1999 (inserted by subsection (1)), the change extends to the compulsory education period for a child which, but for the change, would have ended on 31 December 2005.
 The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s. 21 is a transitional provision of no further effect.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 25 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 25 — School Education Act 1999 amended
-187.Act amended
-This Division amends the School Education Act 1999.
-188.Section 27 amended
-(1) In section 27(2) delete “Executive Director of Public Health” and insert:
-Chief Health Officer
-(2) After section 27(2) insert:
-(3A) In subsection (2) —
-Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the School Boarding Facilities Legislation Amendment and Repeal Act 2016 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — School Education Act 1999 amended
 5.Act amended
@@ -486,9 +476,10 @@ capital works186(4)
 CEO’s Instructions233(1)
 certificate of registration150
 chief executive officer4
+Chief Health Officer27(3A)
 child4, 75(3)
 child of compulsory school age4, 29(1a)
-commencementSch. 1 cl. 1, Sch. 1 cl. 24
+commencementSch. 1 cl. 1 and cl. 24
 commencement Sch. 1 cl. 26
 commencement day11L(7)
 Community Kindergarten Registration Advisory Panel201(7)
