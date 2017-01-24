@@ -13,4 +13,4 @@ Item No. | Description of plant | Period
 8 | Bridge cranes with a safe working load greater than 10 t or which are designed to handle molten metal or dangerous goods | 4 years
 9 | Vehicle hoists | 2 years
 10 | Mobile cranes with a safe working load greater than 10 t | 2 years.
-[Schedule 3 amended in Gazette 11 Jan 2013 p. 53.]
+[Schedule 3 amended: Gazette 11 Jan 2013 p. 53.]
