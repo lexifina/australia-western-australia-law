@@ -52,13 +52,14 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Associations Incorporation Act 2015 s. 222 and 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
  | Liquor Legislation Amendment Act 2015 Pt. 2 (other than s. 26) | 35 of 2015 | 2 Nov 2015 | Pt. 2 (other than s. 26): 20 Nov 2015 (see s. 2(b) and Gazette 17 Nov 2015 p. 4693)
  | Reprint 8: The Liquor Control Act 1988 as at 4 Mar 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
+ | Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 3 Div. 17 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 20 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 s. 101, Pt. 3 Div. 17 and Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | s. 101 and Pt. 3 Div. 17: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 12: to be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -166,28 +167,7 @@ Division 3 — Alcohol intervention sessions
 (a) the name and address of the person who has completed the AIS; and
 (b) the date of completion; and
 (c) the details of the AIR in respect of which the AIS was completed.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101, Pt. 3 Div. 17 and Pt. 5 Div. 12 had not come into operation. They read as follows:
-101.Various references to “Health Act 1911” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
-Health (Miscellaneous Provisions) Act 1911
-Table
-Liquor Control Act 1988 | s. 39(2)(a)(i), 69(8)(a) and (9A)(b) and 95(4)(f)(iii)
-Division 17 — Liquor Control Act 1988 amended
-161.Act amended
-This Division amends the Liquor Control Act 1988.
-162.Section 3 amended
-(1) In section 3(1) delete the definition of Executive Director, Public Health.
-(2) In section 3(1) insert in alphabetical order:
-Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
-163.Section 64 amended
-Delete section 64(1C)(c) and insert:
-(c) the Chief Health Officer;
-164.Section 69 amended
-(1) In section 69(8a) delete “Executive Director, Public Health —” and insert:
-Chief Health Officer —
-(2) In section 69(9A) delete “Executive Director, Public Health” and insert:
-Chief Health Officer
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 12 — Liquor Control Act 1988 amended
 300.Act amended
@@ -211,14 +191,14 @@ ActSch. 1 cl. 1(1)
 alleged offence167(1)
 alleged offender167(1)
 applicable day65A(1)
-applicant152N, Sch. 1B cl. 4(1)(a)
+applicant152N, Sch. 1B cl. 4(1)
 application152W(1), Sch. 1 cl. 1(1)
 appointed daySch. 1 cl. 1(1)
 approved manager102A, Sch. 1B cl. 1
 approved restricted manager3(1)
 approved unrestricted manager3(1)
 assessment3(1)
-AssociationSch. 2 cl. 1
+AssociationSch. 2 Div. 1 cl. 1
 authorised officer3(1)
 authorised person3(1)
 beer3(1)
@@ -230,14 +210,15 @@ casino gaming licence3(1)
 casino liquor licence3(1)
 cellar door permit3(1), 61A(1)
 chairperson3(1)
+Chief Health Officer3(1)
 closing time3(1)
-club49(1), Sch. 2 cl. 1(a)
+club49(1), Sch. 2 Div 1. cl. 1, Sch. 2 Div. 2 cl. 1
 club licence3(1)
 club restricted licence3(1)
 commencement daySch. 1A cl. 1, Sch. 1B cl. 1
 Commission3(1)
 Commissioner of Police3(1)
-Committee of ManagementSch. 2 cl. 1
+Committee of ManagementSch. 2 Div 2 cl. 1
 condition3(1)
 confidential police information3(1)
 consume3(1)
@@ -255,8 +236,6 @@ disqualified3(1)
 drunk3(1), 3A(1)
 employed152A
 employee3(7), 165(4)
-Executive Director69(8b)
-Executive Director, Public Health3(1)
 extended trading permit3(1)
 former ActSch. 1A cl. 1
 function3(1)
@@ -274,7 +253,7 @@ interest of the community3(1)
 juvenile3(1)
 kind3(1)
 lawyer3(1)
-LeagueSch. 2 cl. 1
+LeagueSch. 2 Div. 1 cl. 1, Sch. 2 Div. 2 cl. 1
 lease3(1)
 lessee3(1)
 lessor3(1)
@@ -338,7 +317,6 @@ relevant period57(1), 93(1a)
 relevant person152A
 removal3(1)
 repealed ActSch. 1 cl. 1(1)
-required day62(4)
 responsible person3(1)
 restaurant3(1)
 restaurant licence3(1)
@@ -355,12 +333,13 @@ special facility licence3(1)
 specified31(8), 40(3), 53(2), 59(6), 60(9), 99(5), 115AA(1), 126E(1), 172(12)
 spirits3(1)
 sports arena110(4B)
-State Branch HeadquartersSch. 2 cl. 1
-State ExecutiveSch. 2 cl. 1
+State Branch HeadquartersSch. 2 Div. 1 cl. 1, Sch. 2 Div. 2 cl. 1
+State ExecutiveSch. 2 Div. 1 cl. 1, Sch. 2 Div. 2 cl. 1
 subsidy3(1)
 substance3(1)
 tavern licence3(1)
 tavern restricted licence3(1)
+the required day62(4)
 this Act3(1)
 townsite3(1)
 transitional regulationsSch. 1A cl. 10(1)

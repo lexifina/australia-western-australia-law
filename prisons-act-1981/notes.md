@@ -58,13 +58,13 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Declared Places (Mentally Impaired Accused) Act 2015 s. 88 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 8: The Prisons Act 1981 as at 12 Feb 2016 (includes amendments listed above)
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 5 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 | 49 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
@@ -96,22 +96,6 @@ On the date as at which this compilation was prepared, the Criminal Law Amendmen
 or
 (b) whose release is to be determined by the Governor.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 22 — Prisons Act 1981 amended
-180.Act amended
-This Division amends the Prisons Act 1981.
-181.Section 95C amended
-(1) Delete section 95C(1) and insert:
-(1) In this section —
-Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1).
-(2) In section 95C(2) delete “ED, PH” and insert:
-Chief Health Officer
-(3) In section 95C(3):
-(a) delete “ED, PH” and insert:
-Chief Health Officer
-(b) delete “ED, PH,” and insert:
-Chief Health Officer,
 On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 had not come into operation. It reads as follows:
 Part 3 — Consequential amendments to other Acts
 Division 6 — Prisons Act 1981 amended
@@ -142,6 +126,7 @@ appellant99
 cessation declaration114(5)
 Chief Commissioner99
 chief executive officer3(1)
+Chief Health Officer95C(1)
 commencement day 110K(1)
 commencement day119(1)
 Commission114(12)
@@ -152,7 +137,6 @@ decision notice99, 102(3)
 Department3(1)
 District Court judge3(1)
 drugs search49A(1)
-ED, PH95C(1)
 external facility23(1)
 Family Court judge3(1)
 former disciplinary provisions119(1)

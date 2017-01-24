@@ -286,6 +286,7 @@ Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes 
  | Conservation and Land Management Amendment Act 2015 s. 72 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
  | Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
  | Health Services Act 2016 s. 288 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+ | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Statutes (Repeals) Act 2016 Pt. 2 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
  | Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 1 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -293,14 +294,13 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 | 41 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
-Relevant provisions deleted by the Health Amendment Act 1985.
+Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Repealed by the Honey Pool Repeal Act 1991.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -396,18 +396,7 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 183.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 8 — Constitution Acts Amendment Act 1899 amended
-119.Act amended
-This Division amends the Constitution Acts Amendment Act 1899.
-120.Schedule V amended
-(1) In Schedule V Part 3 delete the item “The Advisory Committee constituted under section 216 of the Health Act 1911.”.
-(2) In Schedule V Part 3 after the item relating to the Local Government Advisory Board insert:
-The Local Health Authorities Analytical Committee established by the Health (Miscellaneous Provisions) Act 1911 section 247A.
-(3) In Schedule V Part 3 in the items relating to the Anaesthetic Mortality Committee, the Maternal Mortality Committee and the Perinatal and Infant Mortality Committee delete “Health Act 1911.” and insert:
-Health (Miscellaneous Provisions) Act 1911.
+-59Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 had not come into operation. It reads as follows:
 14.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.

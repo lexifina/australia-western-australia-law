@@ -35,33 +35,20 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 6: The Marketing of Potatoes Act 1946 as at 27 Apr 2012 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 28 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 19 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Marketing of Potatoes Amendment and Repeal Act 2016 Pt. 2 | 22 of 2016 | 12 Sep 2016 | s. 3-11: 30 Sep 2016 (see s. 2(b)); s. 12: 31 Dec 2016 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 19 and Pt. 5 Div. 13 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 19: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 13: to be proclaimed (see s. 2(1)(c))
-Marketing of Potatoes Amendment and Repeal Act 2016 s. 13(a) | 22 of 2016 | 12 Sep 2016 | s. 13(a): to be proclaimed (see s. 2(d))
+Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 13 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Marketing of Potatoes Amendment and Repeal Act 2016 s. 13(a) | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 The provision in this Act repealing that Act was omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Marketing of Potatoes Amendment Act 1995 s. 9(2) and (3) are transitional provisions that are of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 30 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 19 and Pt. 5 Div. 13 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 19 — Marketing of Potatoes Act 1946 amended
-167.Act amended
-This Division amends the Marketing of Potatoes Act 1946.
-168.Section 22B amended
-(1) In section 22B(5):
-(a) delete “CEO (Health)” and insert:
-Chief Health Officer
-(b) delete “Health Act 1911” and insert:
-Health (Miscellaneous Provisions) Act 1911 or the Food Act 2008
-(2) After section 22B(5) insert:
-(6A) In subsection (5) —
-Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1).
-(3) Delete section 22B(10).
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 13 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 13 — Marketing of Potatoes Act 1946 amended
 304.Act amended
@@ -78,22 +65,34 @@ Defined terms
 Defined termProvision(s)
 Account5(1)
 area licence5(1)
-CEO (Health)22B(10)
+assets45
+Chief Health Officer22B(6A)
 commercial producer5(1)
 consignment advice5(1)
 Corporation5(1)
 document38(4)
+existing employee47(1)
+former Corporation45
 grower5(1)
 information38(4)
 inspector5(1)
+liability45
+new employer45
 officer41A(3)
 packaging5(1)
 potato exporter5(1)
 potato product5(1)
 potato product manufacturer5(1)
 public notice5(1)
+publication day57(1)
+relevant act54(1)
 relevant instrument18(1a)
+right45
 sale5(1)
 sell5(1)
+specified57(1)
+State tax50(1)
+subsisting52(1)
 transition day5(1)
+transitional matter57(1)
 ware potato5(1)

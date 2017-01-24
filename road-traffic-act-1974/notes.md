@@ -155,6 +155,7 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 35 | 17 of 2014 | 2 Jul 2014
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | Pt. 2 (other than s. 9): 4 Apr 2016 (see s. 2(1)(b) and Gazette 24 Mar 2016 p. 927); Pt. 3 Div. 1: 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1)
+Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 (other than Div. 2 and s. 46, 53 and 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 (other than Div. 2 and s. 46, 53 and 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 338)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -164,7 +165,7 @@ Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b))
-Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 21: to be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 2, and s. 46, 53 and 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -300,13 +301,7 @@ Delete section 97(2)(a) and insert:
 (a) while disqualified from obtaining a driver’s licence apply for or obtain such a licence, except that a person may apply for such a licence during the last 6 weeks of the period of disqualification;
 (ba) while disqualified from obtaining any particular licence other than a driver’s licence apply for or obtain such a licence;
 The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 cannot come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 21 had not come into operation. They read as follows:
-101.Various references to “Health Act 1911” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
-Health (Miscellaneous Provisions) Act 1911
-Table
-Road Traffic Act 1974 | s. 70(7) def. of technologist par. (a)
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 21 — Road Traffic Act 1974 amended
 325.Act amended

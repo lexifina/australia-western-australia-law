@@ -179,13 +179,13 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014
 Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 2 | 25 of 2015 | 24 Sep 2015 | 31 Oct 2015 (see s. 2(b) and Gazette 30 Oct 2015 p. 4493)
 Reprint 18: The Criminal Code Act Compilation Act 1913 as at 3 Jun 2016 (includes amendments listed above)
 Graffiti Vandalism Act 2016 Pt. 6 Div. 1 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016 (see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Sentencing Legislation Amendment Act 2016 Pt. 2 Div. 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 1 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and Gazette 13 Jan 2017 p. 338)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 4 | 49 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -224,22 +224,7 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 10 — The Criminal Code amended
-126.Act amended
-This Division amends The Criminal Code.
-127.Section 199 amended
-(1) In section 199(1)(b) delete “Health Act 1911.” and insert:
-Health (Miscellaneous Provisions) Act 1911.
-(2) Delete section 199(4) and insert:
-(4) In this section —
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession.
-128.Section 306 amended
-In section 306(1) in the definition of female genital mutilation paragraph (d) delete “within the meaning of the Health Act 1911; or” and insert:
-as defined in section 3 of that Act; or
-Footnote no longer applicable.
+-35Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 4 had not come into operation. It reads as follows:
 Part 3 — Consequential amendments to other Acts
 Division 4 — The Criminal Code amended

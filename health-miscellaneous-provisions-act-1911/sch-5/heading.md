@@ -12,8 +12,8 @@ Part III
 Sections 276(5), 276A(5) and 300(5).
 [Part III inserted by No. 80 of 1987 s. 176; amended by No. 57 of 1997 s. 68(4); No. 23 of 2006 s. 13(3); No. 43 of 2008 s. 147(20).]
 Part IV
-Sections 98, 99(4), 108(4), 109, 188, 223(1), 225(2), 227(2), 231(2), 234(1), 240(1), 267(1), 278(1), 279, 282(2), 310(1), 313(1), 332(1), 336(5a), 336A(5a), 336B(7a), 340M(1) and (2), 340AK(5b), 340AM(1) and (2), 340BM(1) and (2) and 366(2).
-[Part IV inserted by No. 80 of 1987 s. 176; amended by No. 59 of 1991 s. 19 and 28(b); No. 74 of 2003 s. 64(3); No. 23 of 2006 s. 13(4); No. 43 of 2008 s. 147(21).]
+Sections 98, 99(4), 108(4), 109, 188, 223(1), 225(2), 227(2), 231(2), 234(1), 240(1), 267(1), 278(1), 279, 282(2), 310(1), 313(1), 332(1), 336(5a), 336A(5a), 336B(7a), 340LB(2), 340M(1) and (2), 340ALB(2), 340AM(1) and (2), 340BLB(2), 340BM(1) and (2) and 366(2).
+[Part IV inserted by No. 80 of 1987 s. 176; amended by No. 59 of 1991 s. 19 and 28(b); No. 74 of 2003 s. 64(3); No. 23 of 2006 s. 13(4); No. 43 of 2008 s. 147(21); No. 19 of 2016 s. 97.]
 Part V
 Sections 82(3), 121(2), 133(2), 171(2), 246FO, 246FR(1), (2) and (3), 246FS(1), 246FT(4) and (5), 246FY(2), 246FZB, 246FZC(4), 255 and 264(1).
 [Part V inserted by No. 80 of 1987 s. 176; amended by No. 43 of 2008 s. 147(22).]
