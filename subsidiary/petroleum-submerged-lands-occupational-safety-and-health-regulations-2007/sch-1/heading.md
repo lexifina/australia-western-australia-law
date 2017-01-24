@@ -35,7 +35,7 @@ NOTES:
 ·a workforce representative in relation to the designated work group that includes a group member affected by the decision;
 ·if there is no designated work group — a workforce representative in relation to a member of the workforce affected by the decision;
 ·the owner of any workplace, plant, substance or thing to which that decision relates.
-[Form 1 amended in Gazette 30 Dec 2011 p. 5552 and 5553.]
+[Form 1 amended: Gazette 30 Dec 2011 p. 5552 and 5553.]
 Form 2Notice of removal of plant or sample
 Petroleum (Submerged Lands) Act 1982
 Petroleum (Submerged Lands) (Occupational Health and Safety) Regulations 2007
@@ -58,7 +58,7 @@ NOTES:
 ·a workforce representative in relation to the designated work group that includes a group member affected by the decision;
 ·if there is no designated work group — a workforce representative in relation to a member of the workforce affected by the decision;
 ·the owner of any workplace, plant, substance or thing to which that decision relates.
-[Form 2 amended in Gazette 30 Dec 2011 p. 5553.]
+[Form 2 amended: Gazette 30 Dec 2011 p. 5553.]
 Form 3Do not disturb notice
 Petroleum (Submerged Lands) Act 1982
 Petroleum (Submerged Lands) (Occupational Health and Safety) Regulations 2007
@@ -82,7 +82,7 @@ NOTES:
 ·a workforce representative in relation to the designated work group that includes a group member affected by the decision;
 ·if there is no designated work group — a workforce representative in relation to a member of the workforce affected by the decision;
 ·the owner of any workplace, plant, substance or thing to which that decision relates.
-[Form 3 amended in Gazette 30 Dec 2011 p. 5553.]
+[Form 3 amended: Gazette 30 Dec 2011 p. 5553.]
 Form 4Prohibition notice
 Petroleum (Submerged Lands) Act 1982
 Petroleum (Submerged Lands) (Occupational Health and Safety) Regulations 2007
@@ -113,7 +113,7 @@ NOTES:
 ·a workforce representative in relation to the designated work group that includes a group member affected by the decision;
 ·if there is no designated work group — a workforce representative in relation to a member of the workforce affected by the decision;
 ·the owner of any workplace, plant, substance or thing to which that decision relates.
-[Form 4 amended in Gazette 30 Dec 2011 p. 5553.]
+[Form 4 amended: Gazette 30 Dec 2011 p. 5553.]
 Form 5Improvement notice
 Petroleum (Submerged Lands) Act 1982
 Petroleum (Submerged Lands) (Occupational Health and Safety) Regulations 2007
@@ -154,5 +154,5 @@ NOTES:
 ·a workforce representative in relation to the designated work group that includes a group member affected by the decision;
 ·if there is no designated work group — a workforce representative in relation to a member of the workforce affected by the decision;
 ·the owner of any workplace, plant, substance or thing to which that decision relates.
-[Form 5 amended in Gazette 30 Dec 2011 p. 5553.]
+[Form 5 amended: Gazette 30 Dec 2011 p. 5553.]
 ·
