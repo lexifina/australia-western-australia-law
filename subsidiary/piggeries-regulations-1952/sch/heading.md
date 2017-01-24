@@ -80,4 +80,4 @@ Wongan-Ballidu —
 (1) Townsites of Burakin, Cadoux and Kondut.
 (2) All that land situated within a radius of 6 kilometres from the Wongan Hills Post Office.
 (3) All that land within a radius of 3 kilometres of the Ballidu Hall.
-[Schedule inserted in Gazette 10 June 1988 pp.1903-05; amended in Gazette 28 October 1988 p.4283; 7 December 1990 p.5985; 17 May 1991 p.2477; 9 August 1991 p.4116; 21 August 1992 p.4128; 4 May 1993 p.2298; 20 August 1993 p.4494; 31 March 1995 p.1155; 25 July 1995 p.3137; 12 December 1995 p.6000; 15 March 1996 p.997; 29 November 1996 p.6648; 27 November 1998 p.6342.]
+[Schedule inserted in Gazette 10 June 1988 p. 1903-05; amended in Gazette 28 October 1988 p. 4283; 7 December 1990 p. 5985; 17 May 1991 p. 2477; 9 August 1991 p .4116; 21 August 1992 p. 4128; 4 May 1993 p. 2298; 20 August 1993 p. 4494; 31 March 1995 p. 1155; 25 July 1995 p. 3137; 12 December 1995 p. 6000; 15 March 1996 p. 997; 29 November 1996 p. 6648; 27 November 1998 p. 6342.]
