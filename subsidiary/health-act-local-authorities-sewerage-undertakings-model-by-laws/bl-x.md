@@ -1,2 +1,0 @@
-### 18Work carried under system of deferred payment
-If any owner wishes to avail himself of the provisions of the Act regarding deferred payments, and the local authority has approved of his doing so, he shall sign an agreement to pay the costs incurred by the local authority in relation to such works and interest at the prescribed rate per annum on the amount remaining to be paid in accordance with the provisions of the Act.

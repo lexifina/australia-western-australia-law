@@ -1,3 +1,0 @@
-### 4AB. Laundry with washing machines to be separated from kitchen
-Where laundry facilities provided in accordance with these by-laws consist of mechanical washing machines and wash troughs or sinks, and are situated in the same building as and adjacent to a kitchen, those facilities shall be separated from the kitchen by a wall or other approved partition which shall be at least 1.8 metres high and where an opening permitting communication between the laundry and kitchen is provided, the opening shall not extend for more than half the width of the room and it shall not be more than 1.3 metres wide.
-[By-law 4AB inserted by Gazette 18 August 1971 p.3029; amended by Gazette 21 December 1973 p.4672.]
