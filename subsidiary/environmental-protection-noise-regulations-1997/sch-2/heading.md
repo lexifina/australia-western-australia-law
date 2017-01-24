@@ -1,6 +1,6 @@
 ## Schedule 2 — Community noise
 [r. 16]
-[Heading inserted in Gazette 5 Dec 2013 p. 5716.]
+[Heading inserted: Gazette 5 Dec 2013 p. 5716.]
 ItemActivity
 1. Noise emitted by spectators at a sporting activity that is —
 (a)arranged by a sporting organization; or
@@ -14,4 +14,4 @@ ItemActivity
 (a)is conducted under the control of the occupier of the premises; and
 (b)does not include the use of mechanical equipment other than musical instruments.
 5. Noise emitted from agricultural shows, fairs, fetes, exhibitions and like events.
-[Schedule 2 amended in Gazette 5 Dec 2013 p. 5716.]
+[Schedule 2 amended: Gazette 5 Dec 2013 p. 5716.]

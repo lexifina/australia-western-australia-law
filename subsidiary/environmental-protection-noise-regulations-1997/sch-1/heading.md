@@ -1,6 +1,6 @@
 ## Schedule 1 — Classification of premises
 [r. 2]
-[Heading inserted in Gazette 5 Dec 2013 p. 5714.]
+[Heading inserted: Gazette 5 Dec 2013 p. 5714.]
 Part A — Industrial and utility premises
 1.Premises used for the purpose of providing sewerage, electricity, gas, drainage, passenger transport or other similar services.
 2A.Premises used for the purpose of providing water other than a water storage dam or catchment for a water storage dam.
@@ -17,7 +17,7 @@ Part A — Industrial and utility premises
 6. Waste disposal sites and premises used for carrying out any process for and incidental to the treatment of waste.
 7. Grounds, administrative premises, and premises or parts of premises used for the personal comfort, convenience or enjoyment of leisure of employees, or persons otherwise engaged in the conduct of an industry or utility, where those premises are attached to or form part of premises referred to in this Part.
 8. Caretaker’s and like residences attached to or forming part of premises referred to in this Part.
-[Part A amended in Gazette 5 Dec 2013 p. 5714-15.]
+[Part A amended: Gazette 5 Dec 2013 p. 5714-15.]
 Part B — Commercial premises
 1. Offices — premises used for the conduct of administration, the practice of a profession, the carrying on of agencies, banks, typist and secretarial services and services of a similar nature.
 2. General retail shops, small retail shops and special retail shops within the meaning of the Retail Trading Hours Act 1987, showrooms, warehouses and wholesale sales places and display areas.
@@ -34,9 +34,9 @@ Part B — Commercial premises
 13. Grounds, administrative premises, and premises or parts of premises used for the personal comfort, convenience or enjoyment of leisure of employees, or persons otherwise engaged in the conduct of commerce, where those premises are attached to or form part of premises referred to in this Part.
 14.Premises used for the purpose of providing communications.
 15. Caretaker’s and like residential premises attached to or forming part of premises referred to in this Part.
-[Part B amended in Gazette 5 Dec 2013 p. 5715.]
+[Part B amended: Gazette 5 Dec 2013 p. 5715.]
 Part C — Noise sensitive premises
-[Heading inserted in Gazette 5 Dec 2013 p. 5715.]
+[Heading inserted: Gazette 5 Dec 2013 p. 5715.]
 1. Premises occupied solely or mainly for residential or accommodation purposes.
 2. Rural premises.
 3. Premises used for the purpose of —
@@ -51,4 +51,4 @@ Part C — Noise sensitive premises
 (i)a prison or detention centre; or
 (j)a water storage dam or a catchment for a water storage dam.
 4. Any other premises not referred to in Part A or Part B of this Schedule.
-[Part C amended in Gazette 5 Dec 2013 p. 5715-16.]
+[Part C amended: Gazette 5 Dec 2013 p. 5715-16.]
