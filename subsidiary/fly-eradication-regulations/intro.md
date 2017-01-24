@@ -1,3 +1,3 @@
 Western Australia
-Health Act 1911
+Health (Miscellaneous Provision) Act 1911
 Fly Eradication Regulations

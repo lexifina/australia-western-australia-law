@@ -1,11 +1,11 @@
 ## Schedule 1
 [r. 2]
 FORM 1
-Health Act 1911
+Health (Miscellaneous Provisions) Act 1911
 Health (Section 335(5)(d) Abortion Notice) Regulations 1998
 Notification by Medical Practitioner of Induced Abortion
-To Executive Director, Public Health
-Under section 335 (5) (d) of the Health Act 1911 I,..............................................,
+To Chief Health Officer
+Under the Health (Miscellaneous Provisions) Act 1911 section 335(5)(d) I,..............................................,
 [please print full name]
 provide notice of an abortion, which I performed, at:...........................................
 [address where procedure performed]
@@ -34,8 +34,8 @@ Not stated o
 6.Postcode of residence of patient:....................................
 Signature.........................................
 [Signature of Medical Practitioner]
-Executive Director, Public Health, PO Box 8172, Stirling Street, Perth, Perth 6849
-2 As required by section 335(5)(d) of the Health Act 1911 notice must be given within 14 days of the abortion being performed.
-Forward completed form (top copy) to Executive Director, Public Heath
+Chief Health Officer, PO Box 8172, Stirling Street, Perth, Perth 6849
+2 As required by the Health (Miscellaneous Provisions) Act 1911 section 335(5)(d) notice must be given within 14 days of the abortion being performed.
+Forward completed form (top copy) to Chief Health Officer
 Duplicate (yellow copy) to be retained by medical practitioner
-[Schedule 1 amended in Gazette 22 Oct 2001 p. 5629-30.]
+[Schedule 1 amended: Gazette 22 Oct 2001 p. 5629-30; 10 Jan 2017 p. 280-1.]

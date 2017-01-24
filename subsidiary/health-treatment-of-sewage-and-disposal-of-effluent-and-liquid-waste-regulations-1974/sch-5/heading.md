@@ -2,11 +2,11 @@
 [Reg. 41]
 [Heading amended in Gazette 15 Dec 1989 p. 4552.]
 Form No. 1
-HEALTH ACT 1911
+HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974
 APPLICATION FOR TESTING OF SANITARY FIXTURES AND FITTINGS
-To the Executive Director, Public Health and Scientific Support Services:
-It is requested that you arrange for the articles specified hereunder to be tested for approval in accordance with the Health Act 1911.
+To the Chief Health Officer:
+It is requested that you arrange for the articles specified hereunder to be tested for approval in accordance with the Health (Miscellaneous Provisions) Act 1911.
 I undertake to pay the prescribed fee for the service on demand.
 Articles:
 Description: .................................................................................................
@@ -14,20 +14,17 @@ Number: ........................................................................
 Location: .....................................................................................................
 Signature of Applicant: ......................................
 Date: ......................................
-[Form 1 amended in Gazette 29 Jun 1984 p. 1781.]
+[Form 1 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 285-6.]
 Form No. 2
-HEALTH ACT 1911
+HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974
 CERTIFICATE OF APPROVAL
-This Certificate of Approval is granted in respect of the type of article described hereunder in accordance with the Health Act 1911.
-................................................................................................................................
+This Certificate of Approval is granted in respect of the type of article described hereunder in accordance with the Health (Miscellaneous Provisions) Act 1911
+.................................................................................................................................
 ................................................................................................................................
 ................................................................................................................................
 ................................................................................................................................
 Issued at Perth, this day of , 20.........
 ..............................................
-EXECUTIVE DIRECTOR,
-PUBLIC HEALTH AND
-SCIENTIFIC SUPPORT
-SERVICES
-[Form 2 amended in Gazette 29 Jun 1984 p. 1781.]
+CHIEF HEALTH OFFICER
+[Form 2 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 286.]

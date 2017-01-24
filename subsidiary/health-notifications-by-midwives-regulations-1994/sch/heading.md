@@ -1,11 +1,10 @@
 ## Schedule
 FORM 1
 [r. 3]
-HEALTH ACT 1911
+HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
 HEALTH (NOTIFICATIONS BY MIDWIVES) REGULATIONS 1994
 NOTIFICATION OF INTENTION TO ENTER INTO PRIVATE PRACTICE AS A MIDWIFE
-EXECUTIVE DIRECTOR
-PUBLIC HEALTH
+CHIEF HEALTH OFFICER
 I intend to enter into private practice as a midwife on ____/____/____
 PERSONAL PARTICULARS
 Full Name: ______________________________________________________
@@ -20,7 +19,7 @@ Professional Indemnity Insurance Provider: _____________________________
 Signature: ___________________
 Date: ____/____/____
 * Delete if not applicable
-[Form 1 inserted in Gazette 14 Dec 2012 p. 6200.]
+[Form 1 inserted in Gazette 14 Dec 2012 p. 6200; amended in Gazette 10 Jan 2017 p. 270.]
 FORM 2
 [r. 4]
 [Form 2 inserted in Gazette 3 May 2016 p. 1357-8.]

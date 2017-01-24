@@ -9,23 +9,4 @@ Health (Notification by Midwives) Amendment Regulations (No. 2) 2011 | 30 Dec 20
 Health (Notifications by Midwives) Amendment Regulations 2012 | 14 Dec 2012 p. 6199-201 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Health (Notifications by Midwives) Amendment Regulations 2014 | 24 Apr 2014 p. 1143-5 | r. 1 and 2: 24 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Health (Notifications by Midwives) Amendment Regulations 2016 | 3 May 2016 p. 1356-8 | r. 1 and 2: 3 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 17 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
-On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 17 had not come into operation. It reads as follows:
-Part 17 — Health (Notifications by Midwives) Regulations 1994 amended
-59.Regulations amended
-This Part amends the Health (Notifications by Midwives) Regulations 1994.
-60.Regulation 3 amended
-In regulation 3 delete “Executive Director, Public Health” and insert:
-Chief Health Officer
-61.Schedule amended
-In the Schedule Form 1:
-(a) delete “HEALTH ACT 1911” and insert:
-HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
-(b) delete:
-EXECUTIVE DIRECTOR
-PUBLIC HEALTH
-and insert:
-CHIEF HEALTH OFFICER

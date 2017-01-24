@@ -21,17 +21,7 @@ Tobacco Products Control Amendment Regulations (No. 4) 2015 | 25 Aug 2015 p. 337
 Tobacco Products Control Amendment Regulations (No. 2) 2016 | 6 May 2016 p. 1382-3 | r. 1 and 2: 6 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 7 May 2016 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Tobacco Products Control Amendment Regulations (No. 3) 2016 | 26 Jul 2016 p. 3150 | r. 1 and 2: 26 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b) and Gazette 26 Jul 2016 p. 3145)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 34 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
-On the date as at which this compilation was prepared, the Health Regulations Amendment (Public Health) Regulations 2016 Pt. 34 had not come into operation. It reads as follows:
-Part 34 — Tobacco Products Control Regulations 2006 amended
-125.Regulations amended
-This Part amends the Tobacco Products Control Regulations 2006.
-126.Regulation 59 amended
-Delete regulation 59(a) and insert:
-(a) authorised officers;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

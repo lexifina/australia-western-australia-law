@@ -12,7 +12,7 @@ Table
 Time for water to fall 25 m (minutes) | Soil type | Loading infiltration rate litres per m2 per day
 Alternating system | Non-alternating system
 1 to 5 more than 5 to 60 more than 60 | Sand Loams or gravels Impervious clays, etc | 30 20 | 15 10
-As approved by the Executive Director, Public Health (see clause 5)
-5.This soil type in its natural state is unsuitable for on site disposal, however the Executive Director, Public Health may approve of a loading infiltration rate in a particular case if satisfied that system design and site modification to justify the loading rate will be carried out.
+As approved by the Chief Health Officer (see clause 5)
+5.This soil type in its natural state is unsuitable for on site disposal, however the Chief Health Officer may approve of a loading infiltration rate in a particular case if satisfied that system design and site modification to justify the loading rate will be carried out.
 Diagram
-[Schedule 8 amended in Gazette 29 Jun 1984 p. 1781; 15 Dec 1989 p. 4552-3.]
+[Schedule 8 amended in Gazette 29 Jun 1984 p. 1781; 15 Dec 1989 p. 4552-3; 10 Jan 2017 p. 287-8.]

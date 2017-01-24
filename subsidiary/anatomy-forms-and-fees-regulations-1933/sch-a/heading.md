@@ -18,7 +18,7 @@ Signature: ……………………………………………………...
 Witness (signature): …………………………………….……….
 (Address): ………………………………………………………..
 Note. — Persons who offer their remains for anatomical examination should inform their senior next of kin of their wishes and ask them to co-operate with the School of Anatomy. If a will has been made it is important that the executor be informed also. A copy of this statement will be supplied for filing with the will on request.
-[Form B(1) amended in Gazette 30 June 2003 p. 2592.]
+[Form B(1) amended: Gazette 30 June 2003 p. 2592.]
 Form B(2)
 Anatomy Act 1930
 To the Principal of the …………………………………………………………................
@@ -54,10 +54,10 @@ being the senior next of kin, agree to the anatomical examination of his/her bod
 (Relationship):……………………………….
 (Address):……………………………………
 …………………………………………….....
-[Form B(2) amended in Gazette 30 June 2003 p. 2592.]
+[Form B(2) amended: Gazette 30 June 2003 p. 2592.]
 Form C
 Anatomy Act 1930
-Notice to the Executive Director, Public Health and Scientific Support Services of the intended Removal of a Body for the Purpose of Anatomical Dissection.
+Notice to the Chief Health Officer of the intended Removal of a Body for the Purpose of Anatomical Dissection.
 Date……………………….............19……….
 Sir,
 I desire to inform you that it is my intention to remove to the…………………................
@@ -68,6 +68,7 @@ During life * he/she has never expressed to me, nor, so far as I know, to any ot
 I certify that the death in this case was not caused by an infectious disease, and that a medical certificate of the cause of death has been given.
 (Official Designation)………………………….(Signed)………………………...............
 * Delete word not applicable.
+[Form C amended: Gazette 10 Jan 2017 p. 246.]
 Form D
 Anatomy Act 1930
 Notice to the Principal of the……………………………….School of Anatomy.
@@ -91,7 +92,7 @@ Principal
 Form F
 Anatomy Act 1930
 Register No. ………………………………..
-Notice from the Principal of the………………………………………..School of Anatomy to the Executive Director, Public Health and Scientific Support Services of Receipt of Body for Anatomical Examination.
+Notice from the Principal of the………………………………………..School of Anatomy to the Chief Health Officer of Receipt of Body for Anatomical Examination.
 Date…………………………19……….
 Name of Deceased………………………………………………………………...............
 Sex……….Age (as far as known)………………..Late abode…………………...............
@@ -103,13 +104,15 @@ To whom delivered………………………………
 _________________
 I certify that I received with the body the certificate of the cause of death of………..…………………………………………which I herewith enclose.
 (Signed)………………………………….
+[Form F amended: Gazette 10 Jan 2017 p. 246.]
 Form G
 Anatomy Act 1930
 Register No. ………………………………..
-Notice from the Principal of the………………………………………..School of Anatomy to the Executive Director, Public Health and Scientific Support Services of having returned, for the purpose of sepulture, the remains of persons which have undergone Anatomical Examination.
+Notice from the Principal of the………………………………………..School of Anatomy to the Chief Health Officer of having returned, for the purpose of sepulture, the remains of persons which have undergone Anatomical Examination.
 Name of Person whose dissected remains are to be buried. | When Received. | To whom given for Burial; that is to say, for Conveyance to the Cemetery. | Religious Persuasion of Deceased.
 (Signed)………………………………………..
 (Date)……………………………….19……….
+[Form G amended: Gazette 10 Jan 2017 p. 246.]
 Form H
 Anatomy Act 1930
 Register No. ………………………………..
@@ -142,7 +145,7 @@ To be filed and kept by the Principal of the School of Anatomy.
 Form J
 Anatomy Act 1930
 Register No. ………………………………..
-Notice to the Executive Director, Public Health and Scientific Support Services by Person receiving Dissected Body from……...............…………………………..School of Anatomy for the purpose of Burial.
+Notice to the Chief Health Officer by Person receiving Dissected Body from……...............…………………………..School of Anatomy for the purpose of Burial.
 Date……………………………19……….
 Sir,
 I, this day, received the remains of…………….……..........……..and conveyed same to ( * )……………………..........for sepulture in the (†)………………………........portion of the Cemetery.
@@ -150,4 +153,5 @@ Accompanying is the certificate of the officiating clergyman.
 (Signed)…………………………………
 (Address)…………………………………
 ( * ) Here name Cemetery (†) Here state Denomination
-[Schedule A inserted in Gazette 2 July 1948 pp.1467-9; amended in Gazettes 17 December 1948 p.2975, 12 June 1958 pp.1291-2; 29 June 1984 p.1781; 22 January 1999 p.213; 30 June 2003 p.2592.]
+[Form J amended: Gazette 10 Jan 2017 p. 246.]
+[Schedule A inserted: Gazette 2 Jul 1948 p. 1467-9; amended: Gazette 17 Dec 1948 p. 2975; 12 Jun 1958 p. 1291-2; 29 Jun 1984 p. 1781; 22 Jan 1999 p. 213; 30 Jun 2003 p. 2592; 10 Jan 2017 p. 246.]

@@ -1,9 +1,9 @@
 ## Appendix
 Form No. 1
 Western Australia
-Health Act 1911
+Health (Miscellaneous Provisions) Act 1911
 STILLBIRTH AND NEO-NATAL DEATH NOTIFICATION
-To Executive Director, Public Health and Scientific Support Services
+To Chief Health Officer
 Name of Mother ........................... Home Address .......................... Age .............
 Place of Birth .........................................................................................................
 Gestation Period ...................... Birth Weight ...................... Sex of Foetus ..........
@@ -70,4 +70,4 @@ Other Remarks
 Date ..............................................
 ................................................................
 Signature of Medical Practitioner.
-[Appendix amended in Gazette 30 Jun 2003 p. 2620.]
+[Appendix amended: Gazette 30 Jun 2003 p. 2620; 10 Jan 2017 p. 297.]

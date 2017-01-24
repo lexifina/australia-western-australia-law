@@ -1,10 +1,10 @@
 ## Schedule 2
 FORM 1
 [Reg. 4]
-HEALTH ACT 1911
+Health (Miscellaneous Provisions) Act 1911
 HEALTH (PUBLIC BUILDINGS) REGULATIONS 1992
 APPLICATION TO CONSTRUCT, EXTEND OR ALTER A PUBLIC BUILDING
-I being the owner/agent hereby apply under section 176 of the Health Act to construct alter or extend a public building:
+I being the owner/agent hereby apply under the Health (Miscellaneous Provisions) Act 1911 section 176 to construct alter or extend a public building:
 PREMISES DETAILS
 NAME OF ..............................................................................................................
 LOCATION NO. .................... STREET ...............................................................
@@ -20,9 +20,10 @@ OWNER/AGENT: ...................................
 ADDRESS: ..............................................
 TELEPHONE: .........................................
 FAX: ........................................................
+[Form 1 amended in Gazette 10 Jan 2017 p. 276.]
 FORM 2
 [Reg. 5]
-HEALTH ACT 1911
+Health (Miscellaneous Provisions) Act 1911
 HEALTH (PUBLIC BUILDINGS) REGULATIONS 1992
 APPLICATION FOR CERTIFICATE OF APPROVAL
 I being the owner/agent hereby apply for a certificate of approval in respect of:
@@ -37,9 +38,10 @@ OWNER/AGENT: ...................................
 ADDRESS: ..............................................
 TELEPHONE: .........................................
 FAX: ........................................................
+[Form 2 amended in Gazette 10 Jan 2017 p. 276.]
 FORM 3
 [Reg. 9]
-HEALTH ACT 1911
+Health (Miscellaneous Provisions) Act 1911
 HEALTH (PUBLIC BUILDINGS) REGULATIONS 1992
 APPLICATION FOR VARIATION OF CERTIFICATE OF APPROVAL
 I being the owner/agent hereby apply for a variation of certificate of approval in respect to:
@@ -55,12 +57,13 @@ OWNER/AGENT: ...................................
 ADDRESS: ..............................................
 TELEPHONE: .........................................
 FAX: ........................................................
+[Form 3 amended in Gazette 10 Jan 2017 p. 276.]
 FORM 4
 [Reg. 6]
-HEALTH ACT 1911
+Health (Miscellaneous Provisions) Act 1911
 HEALTH (PUBLIC BUILDINGS) REGULATIONS 1992
 CERTIFICATE OF APPROVAL
-This certificate is issued in accordance with section 178(1) of the Health Act in respect to the public building located at:
+This certificate is issued in accordance with the Health (Miscellaneous Provisions) Act 1911 section 178(1) in respect to the public building located at:
 ................................................................................................................................
 known as:
 ................................................................................................................................
@@ -69,9 +72,10 @@ known as:
 Public Building Area | Type of Use | Maximum Accommodation
 SIGNED BY: ....................................................................
 FOR THE SHIRE/TOWN/CITY OF: .....................................................
+[Form 4 amended in Gazette 10 Jan 2017 p. 276.]
 FORM 5
 [Reg. 10]
-HEALTH ACT 1911
+Health (Miscellaneous Provisions) Act 1911
 HEALTH (PUBLIC BUILDINGS) REGULATIONS 1992
 CERTIFICATE OF ELECTRICAL COMPLIANCE
 To the City/Town/Shire of:
@@ -92,4 +96,4 @@ Contractor’s/in-house electrical installer’s Registration No:_______________
 Contractor’s/in-house electrical installer’s Address:_______________________
 Contractor’s/in-house electrical installer’s Telephone No:__________________
 This form to be forwarded to the Local Government when work is completed.
-[Form 5 amended in Gazette 3 Aug 2001 p. 3965 (disallowed in Gazette 20 Nov 2001 p. 6012); 7 Jun 2002 p. 2731.]
+[Form 5 amended in Gazette 3 Aug 2001 p. 3965 (disallowed in Gazette 20 Nov 2001 p. 6012); 7 Jun 2002 p. 2731; 10 Jan 2017 p. 277.]

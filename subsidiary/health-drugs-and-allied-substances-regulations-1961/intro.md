@@ -1,3 +1,3 @@
 Western Australia
-Health Act 1911
+Health (Miscellaneous Provisions) Act 1911
 Health (Drugs and Allied Substances) Regulations 1961
