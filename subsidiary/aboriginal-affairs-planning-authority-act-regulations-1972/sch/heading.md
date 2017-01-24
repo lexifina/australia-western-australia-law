@@ -16,10 +16,10 @@ IN pursuance of the provisions of section 31 of the Aboriginal Affairs Planning 
 This permit is valid from the ........................... day of ............................... 20........... and expires on the ....................... day of ................................ 20.......... unless sooner revoked by the Minister.
 ..................................................................
 Minister.
-[Form 2 amended in Gazette 7 Nov 1978 p. 4217.]
+[Form 2 amended: Gazette 7 Nov 1978 p. 4217.]
 Form No. 3
 Aboriginal Affairs Planning Authority Act 1972
-[Heading amended in Gazette 6 Aug 2013 p. 3648.]
+[Heading amended: Gazette 6 Aug 2013 p. 3648.]
 APPLICATION FOR ORDER FOR PAYMENT OF PROCEEDS OF ESTATE OF DECEASED PERSON OF ABORIGINAL DESCENT
 (a) Full name of claimant. | I, (a) ................................................................................................
 (b) Address of claimant. | of (b) ............................................................................................... in the State of Western Australia, being
@@ -28,7 +28,7 @@ APPLICATION FOR ORDER FOR PAYMENT OF PROCEEDS OF ESTATE OF DECEASED PERSON OF AB
 (e) Set out the grounds on which the claim is based. | (e) Dated the ..................... day of ................................, 20......... ............................................................. (Signature of Claimant) Report and Recommendation of Local Officer: Date ................................................... ............................................................. (Signature of Officer)
 FOR HEAD OFFICE USE ONLY.
  | Claim is approved. _________________ not approved. ............................................................. Public Trustee Date ................................................ Executive Council Minutes prepared ............................................. Executive Council Approval granted ............................................. Disbursement made ........................................................................ ............................................................. A/O
-[Form 3 amended in Gazette 6 Aug 2013 p. 3648-9.]
+[Form 3 amended: Gazette 6 Aug 2013 p. 3648-9.]
 Form No. 4
 Aboriginal Affairs Planning Authority Act 1972
 (Section 41)
@@ -53,4 +53,4 @@ DATE ..........................................
 12.How long have you been in your present position? ....................................................................................................................
 13.At what rate could you repay any assistance given? ....................................................................................................................
 14.Can you obtain financial assistance from any other person or authority? ....................................................................................................................
-[Schedule amended in Gazette 7 Nov 1978 p. 4217; 6 Aug 2013 p. 3648-9.]
+[Schedule amended: Gazette 7 Nov 1978 p. 4217; 6 Aug 2013 p. 3648-9.]
