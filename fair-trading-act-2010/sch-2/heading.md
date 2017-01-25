@@ -9,5 +9,4 @@ Motor Vehicle Dealers Act 1973
 Motor Vehicle Repairers Act 2003
 Real Estate and Business Agents Act 1978
 Settlement Agents Act 1981
-Travel Agents Act 1985
-[Schedule 2 inserted by No. 58 of 2010 s. 12; amended by No. 11 of 2013 s. 16.]
+[Schedule 2 inserted by No. 58 of 2010 s. 12; amended by No. 11 of 2013 s. 16; No. 21 of 2014 s. 8.]
