@@ -22,12 +22,13 @@ Reprint 3: The Health (Public Buildings) Regulations 1992 as at 6 Jan 2012 (incl
 Health (Public Buildings) Amendment Regulations 2013 | 30 Jul 2013 p. 3486 | r. 1 and 2: 30 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2013 (see r. 2(b))
 Health (Public Buildings) Amendment Regulations 2014 | 8 Apr 2014 p. 918 | r. 1 and 2: 8 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 19 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Health (Public Buildings) Amendment Regulations 2017 | 24 Jan 2017 p. 741-4 | r. 1 and 2: 24 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2017 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 AS/NZS 22933(1)
-AS/NZS 43603(1)
+AS/NZS ISO 31000:20093(1)
 Building Regulations3(1)
 cinema3(1)
 drive-in3(1)
@@ -41,5 +42,4 @@ licensed premises3(1)
 new maximum number7(5)
 non-toxic23(3)
 PEN9B(3)
-supply authority3(1)
 theatre3(1)
