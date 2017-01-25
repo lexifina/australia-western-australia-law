@@ -14,6 +14,5 @@ Pharmacy Act 2010
 Real Estate and Business Agents Act 1978
 Settlement Agents Act 1981
 Teacher Registration Act 2012
-Travel Agents Act 1985
 Veterinary Surgeons Act 1960
-[Schedule 1 amended in Gazette 31 Jul 2007 p. 3805; 7 Dec 2012 p. 5994; 6 Aug 2013 p. 3653-4.]
+[Schedule 1 amended in Gazette 31 Jul 2007 p. 3805; 7 Dec 2012 p. 5994; 6 Aug 2013 p. 3653-4; 24 Jan 2017 p. 745.]

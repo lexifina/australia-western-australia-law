@@ -31,6 +31,7 @@ Criminal Procedure Amendment Regulations 2016 | 30 Sep 2016 p. 4173-4 | r. 1 and
 Attorney General Regulations Amendment (Electronic Processes) Regulations 2016 Pt. 3 | 2 Dec 2016 p. 5385-7 | 3 Dec 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 2 | 30 Dec 2016 p. 5965-6 | 31 Dec 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 173-6 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 2 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
 Defined terms

@@ -49,7 +49,6 @@ Street Collections (Regulation) Act 1940 s. 8
 Sunday Entertainments Act 1979 s. 3(1)
 Swan River Trust Act 1988 s. 64(6)
 Transport Co-ordination Act 1966 s. 49(3)
-Travel Agents Act 1985 s. 41(1)
 Unclaimed Money Act 1990 s. 22(2)
 Water Corporation Act 1995 Sch. 2 cl. 12(1)
 Zoological Parks Authority Act 2001 s. 31
