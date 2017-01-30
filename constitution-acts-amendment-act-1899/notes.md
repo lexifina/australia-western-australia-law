@@ -277,11 +277,12 @@ Reprint 19: The Constitution Acts Amendment Act 1899 as at 12 Jul 2013 (includes
 Minerals Research Institute of Western Australia Act 2013 s. 76 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
 Electricity Corporations Amendment Act 2013 s. 37 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Ports Legislation Amendment Act 2014 s. 44 | 9 of 2014 | 20 May 2014 | s. 44(1) and (3)-(5): 1 Jul 2014 (see s. 2(1)(c) and Gazette 20 Jun 2014 p. 2023); s. 44(2): 1 Oct 2014 (see s. 2(1)(c) and Gazette 19 Sep 2014 p. 3329)
+Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
-Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes amendments listed above)
+Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes amendments listed above except those in the Medicines and Poisons Act 2014)
  | Perth Market (Disposal) Act 2015 s. 54 | 40 of 2015 | 8 Dec 2015 | 31 Mar 2016 (see s. 2(2) and Gazette 31 Mar 2016 p. 969)
  | Conservation and Land Management Amendment Act 2015 s. 72 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
  | Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
@@ -293,7 +294,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 | 41 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
@@ -392,10 +392,6 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
-On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 183 had not come into operation. It reads as follows:
-183.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
 -59Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 had not come into operation. It reads as follows:
 14.Constitution Acts Amendment Act 1899 amended

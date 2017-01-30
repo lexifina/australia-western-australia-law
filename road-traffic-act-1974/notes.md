@@ -151,10 +151,11 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 13 | 22 of
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 2 | 59 of 2012 (as amended by No. 10 of 2015 s. 21) | 11 Dec 2012 | Pt. 2 (other than s. 12): 12 Dec 2012 (see s. 2(b)); s. 12: 27 Apr 2015 (see s. 2(c)(ii) and Gazette 17 Apr 2015 p. 1371)
 Reprint 12: The Road Traffic Act 1974 as at 22 Mar 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18), the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Road Traffic (Miscellaneous Amendments) Act 2012 s. 12)
+Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 35 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | Pt. 2 (other than s. 9): 4 Apr 2016 (see s. 2(1)(b) and Gazette 24 Mar 2016 p. 927); Pt. 3 Div. 1: 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
-Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1)
+Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Medicines and Poisons Act 2014 and the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 (other than Div. 2 and s. 46, 53 and 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 (other than Div. 2 and s. 46, 53 and 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 338)
@@ -162,11 +163,10 @@ Under the Cross-border Justice Act 2008 section 14, in order to give effect to t
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 2, and s. 46, 53 and 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 2, and s. 46, 53 and 64 | 25 of 2016 | 21 Sep 2016 | Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9); s. 64: To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -289,11 +289,7 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 The Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) had not come into operation when they were deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 36.
-On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 188 had not come into operation. It reads as follows:
-188.Road Traffic Act 1974 amended
-(1) This section amends the Road Traffic Act 1974.
-(2) In section 65 in the definition of drug delete paragraph (b) and insert:
-(b)a Schedule 4 poison as defined in the Medicines and Poisons Act 2014 section 3; or
+Footnote no longer applicable.
 The Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 cannot come into operation because the sections it seeks to amend were deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
 On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 had not come into operation. It reads as follows:
 9.Section 97 amended

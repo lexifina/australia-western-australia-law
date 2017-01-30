@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Miscellaneous Provisions) Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 (1 Geo. V No. 45) | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
@@ -136,13 +136,13 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 6 | 11 of 2012
 Commercial Arbitration Act 2012 s. 45 it. 9 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 216 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 16: The Health Act 1911 as at 6 Dec 2013 (includes amendments listed above)
+Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
  | Public Health (Consequential Provisions) Act 2016 Pt. 2 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) & Gazette 17 Jan 2017 p. 403)
 Public Health (Consequential Provisions) Act 2016 Pt. 4 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
@@ -216,53 +216,7 @@ specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
-On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 Pt. 11 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Health Act 1911 amended
-148.Act amended
-This Division amends the Health Act 1911.
-149.Section 3 amended
-(1) In section 3(1) delete the definitions of:
-drug
-false trade description
-the Drug Advisory Committee
-therapeutic substance
-trade description
-(2) In section 3(1) in the definition of meat delete “except in Division 3A of Part VIIA,”.
-150.Section 5 amended
-In section 5(6):
-(a) delete “food or drug,” and insert:
-food,
-(b) delete “or drug” (each occurrence).
-151.Part VIIA heading replaced
-Delete the heading to Part VIIA and insert:
-Part VIIA — Pesticides
-152.Part VIIA Division 1 heading replaced
-Delete the heading to Part VIIA Division 1 and insert:
-Division 1 — Registration of analysts
-153.Section 202 deleted
-Delete section 202.
-154.Part VIIA Divisions 5, 6 and 7 deleted
-Delete Part VIIA Divisions 5, 6 and 7.
-155.Section 246A amended
-In section 246A(3) delete “Poisons Act 1964.” and insert:
-Medicines and Poisons Act 2014.
-Note:The heading to amended section 246A is to read:
-Crown bound, but Health Practitioner Regulation National Law (Western Australia) and Medicines and Poisons Act 2014 not affected by Division 8
-156.Part VIIA Division 9 deleted
-Delete Part VIIA Division 9.
-157.Section 360 amended
-In section 360(4)(b) delete “246C or 246D(1).” and insert:
-246C.
-158.Section 377 amended
-Delete section 377(10).
-159.Schedule 5 amended
-In Schedule 5:
-(a) in Part I delete “225(1), 238(3) and (5),”;
-(b) in Part II delete “224(2), 227(13),”;
-(c) in Part IV delete “223(1), 225(2), 227(2), 231(2), 234(1), 240(1),”;
-(d) in Part VI delete “221(1), 222, 236(1), 241(1),”;
-(e) in Part VII delete “131(2), 228(2), 237(2), 238(1)” and insert:
-131(2)
+Footnote no longer required.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 4 had not come into operation. It reads as follows:
 Part 4 — Health (Miscellaneous Provisions) Act 1911 amended
 Division 1 — Act amended
@@ -481,14 +435,11 @@ Now known as the Health (Miscellaneous Provisions) Act 1911; short title changed
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-advertisement236(3), 241(3)
 Agvet Code of Western Australia3(1)
 AIDS3(1)
 analyst3(1)
 Analytical Committee3(1), 247AA
 apparatus for the treatment of sewage3(1), 100(4)
-appliance226(4)
-appointed member202(10)
 approved laboratory290
 approved medical officer290
 authorised officer3(1)
@@ -497,44 +448,35 @@ cellar3(1)
 CEO3(1)
 certificate of approval173
 cesspool3(1)
-Chairman202(3), 246B(3)
+Chairman246B(3)
 Chief Health Officer3(1)
 child care centre337(2A)
 commencement daySch. 6 cl. 2 and cl. 4
 Committee340A, 340AA, 340BA
 communicable tuberculosis290
-competent officer227(1)
-competent officer228(1)
-co-opted member202(10), 246B(9)
-covering236(3), 241(3)
+co-opted member246B(9)
 daily penalty3(1)
 dairy3(1)
 dairy produce3(1)
 declared patient290
-deficient product231(1)
 dentist331
 Department3(1)
 departmental officer13A(1)
 disposal3(1)
 district3(1)
 drain3(1)
-drug3(1)
-Drug Advisory Committee3(1)
 employed in the Department13A(1)
-false trade description3(1)
 HIV infection3(1)
 hospital290
 house3(1)
 infectious disease3(1)
 informed consent334(5)
 investigator340A, 340AA, 340BA
-label236(3), 241(3)
 land3(1)
 lodging-house3(1)
-manufacturer231(1)
 meat3(1)
 medical practitioner3(1)
-member202(10), 246B(9), 247AA, 340A, 340AA, 340BA
+member246B(9), 247AA, 340A, 340AA, 340BA
 metropolitan area247AA, 340A, 340AA, 340BA
 midwife3(1)
 milk3(1)
@@ -548,8 +490,6 @@ offensive3(1)
 offensive matter3(1)
 offensive trade186(1)
 owner3(1), 100(4)
-package228(9)
-patent or proprietary medicine237(3)
 pesticide3(1)
 Pesticides Advisory Committee246
 piggery3(1)
@@ -564,10 +504,9 @@ public building173
 public house3(1)
 public place3(1)
 public vehicle3(1)
-purchaser227(3)
 rack-rent3(1)
 reasonable evidence292
-regular member202(10), 246B(9)
+regular member246B(9)
 regulation3(1)
 relative3(1)
 researcher340AL(1a)
@@ -577,20 +516,17 @@ scheme247AA
 school3(1)
 school dental service331
 school dental therapist331
-section 13 179(7)
+section 13179(7)
 sell3(1)
 sewage3(1)
 sewer3(1)
 statement313(3)
 street3(1)
-therapeutic substance3(1)
 therapeutic use3(1)
 this Act3(1)
 trade3(1)
-trade description3(1)
 tuberculosis290
 underground room3(1)
-vendor231(1)
 venereal disease3(1)
 vessel3(1)
 voluntary patient290

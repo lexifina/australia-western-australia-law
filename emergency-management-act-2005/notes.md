@@ -6,36 +6,8 @@ Emergency Management Act 2005 | 15 of 2005 | 27 Sep 2005 | 24 Dec 2005 (see s. 2
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 19 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 6 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Medicines and Poisons Act 2014 s. 184 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Medicines and Poisons Act 2014 s. 184 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 184 had not come into operation. It reads as follows:
-184.Emergency Management Act 2005 amended
-(1) This section amends the Emergency Management Act 2005.
-(2) At the end of Part 6 Division 2 insert:
-76A.Manufacture, supply and prescription of poisons
-(1) In this section each of the following terms has the meaning given in the Medicines and Poisons Act 2014 section 3 —
-CEO
-manufacture
-poison
-prescribe
-supply
-(2) For the purposes of emergency management —
-(a) the CEO may authorise a person to administer, manufacture, supply or prescribe a poison; and
-(b) during a state of emergency a person authorised under paragraph (a) may administer, manufacture, supply or prescribe a poison.
-(3) An authorisation under subsection (2)(a) is to specify —
-(a) whether it applies to any state of emergency or is limited to a particular state of emergency; and
-(b) the person, or class of persons, to whom it applies; and
-(c) the poison, or a class of poisons, to which it applies; and
-(d) the terms and conditions to which it is subject.
-(4) An authorisation under subsection (2)(a) may be given orally or in writing but if given orally is to be put in writing as soon as is practicable.
-(5) A failure to put an authorisation in writing does not invalidate the authorisation or anything done under the authorisation.
-(6) When exercising a power under subsection (2)(b) a person is to comply with —
-(a) the terms and conditions of the authorisation; and
-(b) any directions of the CEO or State Emergency Coordinator.
-(7) This section applies despite any provision of the Medicines and Poisons Act 2014 or the Misuse of Drugs Act 1981.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
