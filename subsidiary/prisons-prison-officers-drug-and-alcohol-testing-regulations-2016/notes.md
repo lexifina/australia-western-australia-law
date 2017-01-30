@@ -3,6 +3,7 @@ This is a compilation of the Prisons (Prison Officers Drug and Alcohol Testing) 
 Compilation table
 Citation | Gazettal | Commencement
 Prisons (Prison Officers Drug and Alcohol Testing) Regulations 2016 | 18 Mar 2016 p. 763-97 | r. 1 and 2: 18 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2016 (see r. 2(b))
+Corrective Services Regulations Amendment (Poisons) Regulations 2016 Pt. 2 | 17 Jan 2017 p. 407-9 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
