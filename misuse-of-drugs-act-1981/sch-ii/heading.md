@@ -1,6 +1,6 @@
-## Schedule II — Plants to which Act applies, notwithstanding anything in Poisons Act 1964
+## Schedule II — Plants to which this Act applies
+[Heading inserted by No. 13 of 2014 s. 179.]
 [s. 4(2)(b)]
-[Heading amended by No. 19 of 2010 s. 4.]
 Item | Prohibited plant
 1. | Papaver somniferum
 2. | Papaver bracteatum

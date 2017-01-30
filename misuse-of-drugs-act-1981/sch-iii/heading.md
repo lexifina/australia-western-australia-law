@@ -3,7 +3,7 @@
 [Heading amended by No. 19 of 2010 s. 4.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ACETORPHINE | 6.0
-2. | ACETYLDIHYDROCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
+2. | ACETYLDIHYDROCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 6.0
 3. | ACETYLMETHADOL | 6.0
 4. | ALLOBARBITONE | 30.0
 5. | ALLYLBARBITURIC ACID | 30.0
@@ -34,7 +34,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 27. | CANNABIS (in cigarette form) | 400 cigarettes each containing any portion of cannabis
 28. | CLONITAZENE | 15.0
 29. | COCAINE | 4.0
-30. | CODEINE (except when included in Schedule 2, 3 or 4 in Appendix A to the Poisons Act 1964) | 30.0
+30. | CODEINE (except when a Schedule 2, 3 or 4 poison as defined in the Medicines and Poisons Act 2014) | 30.0
 31. | CODEINE-N-OXIDE | 30.0
 32. | CODOXIME | 30.0
 33. | CYCLOBARBITONE | 30.0
@@ -47,7 +47,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 38A. | DIBENZOPYRANS (not specifically included elsewhere in this Schedule) | 500.0
 38. | DIETHYLTHIAMBUTENE | 15.0
 39. | DIFENOXIN (excluding preparations containing, per dosage unit, not more than 0.5 mg of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin) | 30.0
-40. | DIHYDROCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 30.0
+40. | DIHYDROCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 30.0
 41. | DIHYDROMORPHINE | 30.0
 42. | DIMENOXADOL | 30.0
 43. | DIMEPHEPTANOL | 30.0
@@ -113,7 +113,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 87. | MORAMIDE-INTERMEDIATE | 3.0
 88. | MORPHERIDINE | 6.0
 89. | MORPHINE | 6.0
-90. | MORPHINE DERIVATIVES (not specifically included elsewhere in this Schedule or in any Schedule in Appendix A to the Poisons Act 1964) | 6.0
+90. | MORPHINE DERIVATIVES (not specifically included elsewhere in this Schedule or not a Schedule 2, 3, 4, 5, 6, 7, 8 or 9 poison as defined in the Medicines and Poisons Act 2014) | 6.0
 91. | MORPHINE METHOBROMIDE AND OTHER PENTAVALENT NITROGEN MORPHINE DERIVATIVES | 6.0
 92. | MORPHINE-N-OXIDE | 6.0
 93. | MORPHINE SUBSTITUTES (not specifically included elsewhere in this Schedule) | 6.0
@@ -124,11 +124,11 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 95C. | NAPHTHOYLPYRROLES | 500.0
 95D. | NAPHTHYLMETHYLINDENES | 500.0
 95. | NEALBARBITONE | 30.0
-96. | NICOCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
-97. | NICODICODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
+96. | NICOCODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 6.0
+97. | NICODICODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 6.0
 98. | NICOMORPHINE | 6.0
 99. | NORACYMETHADOL | 6.0
-100. | NORCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
+100. | NORCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 6.0
 101. | NORLEVORPHANOL | 6.0
 102. | NORMETHADONE | 1.5
 103. | NORMORPHINE | 60.0
@@ -159,7 +159,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 121. | PHENOPERIDINE | 3.0
 122A. | PHENYLACETYLINDOLES (not specifically included elsewhere in this Schedule) | 500.0
 122. | PHENYLMETHYLBARBITURIC ACID | 30.0
-123. | PHOLCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 15.0
+123. | PHOLCODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 15.0
 124. | PIMINODINE | 30.0
 125. | PIRITRAMIDE | 3.0
 126A. | PRAVADOLINE (WIN 48098) | 500.0
@@ -181,4 +181,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 140. | THEBAINE | 6.0
 141. | TRIMEPERIDINE | 30.0
 142. | VINBARBITONE | 30.0
-[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5194-5.]
+[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5194-5; No. 13 of 2014 s. 180.]
