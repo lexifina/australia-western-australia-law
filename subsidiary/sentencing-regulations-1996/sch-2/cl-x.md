@@ -34,7 +34,6 @@ Juries Act 1957 s. 56B(1), 56C(1), 56D(1)
 Local Government (Miscellaneous Provisions) Act 1960 s. 474(7), 482(3)
 Mental Health Act 2014 s. 342(1), 468(10), 471(2), 576(2)
 Nuclear Activities Regulation Act 1978 s. 9(7)
-Poisons Act 1964 s. 49(2)
 Police Act 1892 s. 16A(1), 31, 54, 54A(3), 59, 65, 66, 76F(3)(a), 82B(1), 82B(3), 97, 107, 124, 125, 128
 Prisons Act 1981 s. 49(2)
 Prostitution Act 2000 s. 12 (first offence), 19(1)
