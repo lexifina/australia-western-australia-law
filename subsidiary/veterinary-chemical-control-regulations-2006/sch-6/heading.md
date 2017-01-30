@@ -1,5 +1,5 @@
 ## Schedule 6 — Forms
-[Forms 1 and 2 deleted in Gazette 5 Feb 2013 p. 830.]
+[Forms 1 and 2 deleted: Gazette 5 Feb 2013 p. 830.]
 FORM 3
 Veterinary Chemical Control and Animal Feeding Stuffs Act 1976
 Veterinary Chemical Control Regulations 2006
@@ -9,7 +9,7 @@ This is to certify that ........................................................
 Dated: .....................................................................................
 Minister
 Specimen signature of holder: ........................................................
-[Form 3 amended in Gazette 5 Feb 2013 p. 831.]
+[Form 3 amended: Gazette 5 Feb 2013 p. 831.]
 FORM 4
 Veterinary Chemical Control and Animal Feeding Stuffs Act 1976
 Veterinary Chemical Control Regulations 2006
@@ -27,4 +27,4 @@ I have analysed the sample and the result of my analysis is as follows:
 .............................................................................................................................
 Signed: .........................................................
 On ...................................................... [date]
-[Form 4 amended in Gazette 5 Feb 2013 p. 831.]
+[Form 4 amended: Gazette 5 Feb 2013 p. 831.]
