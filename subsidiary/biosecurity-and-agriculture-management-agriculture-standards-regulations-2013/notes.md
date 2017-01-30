@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Biosecurity and Agriculture Management (Agriculture Standards) Regulations 2013 | 5 Feb 2013 p. 763-820 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Biosecurity and Agriculture Management (Agriculture Standards) Amendment Regulations 2015 | 16 Jun 2015 p. 2073-5 | r. 1 and 2: 16 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2015 (see r. 2(b))
+Agriculture and Food Regulations Amendment (Poisons) Regulations 2016 Pt. 3 | 17 Jan 2017 p. 404-6 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
