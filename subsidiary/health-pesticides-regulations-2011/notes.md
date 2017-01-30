@@ -11,6 +11,7 @@ Health (Pesticides) Amendment Regulations 2016 | 29 Jan 2016 p. 269-73 | r. 1 an
 Reprint 1: The Health (Pesticides) Regulations 2011 as at 13 May 2016 (includes amendments listed above)
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 18 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Health Regulations Amendment (Poisons) Regulations 2016 Pt. 3 | 17 Jan 2017 p. 409-11 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
