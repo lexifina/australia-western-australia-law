@@ -24,6 +24,7 @@ School Education Amendment Regulations 2014 | 11 Nov 2014 p. 4255-61 | r. 1 and 
 School Education Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 103-4 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 School Education Amendment Regulations 2015 | 16 Jan 2015 p. 312-314 | r. 1 and 2: 16 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2015 (see r. 2(b) and Gazette 16 Jan 2015 p. 311)
 School Education Amendment Regulations (No. 2) 2016 | 10 Jan 2017 p. 229-30 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+School Education Amendment Regulations 2016 | 17 Jan 2017 p. 417 | r. 1 and 2: 17 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -48,7 +49,7 @@ enrolled child148A(1)
 existing school133(2)
 extra cost optional component58, 142(1)
 first charges payment year3(1)
-governing body3(1), 3(1)
+governing body3(1)
 independent minor3(1), 147(1)
 kindergarten132
 kindergarten programme3(1)
