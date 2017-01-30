@@ -24,6 +24,6 @@ The Criminal Code | Offences under the following sections —
  | s. 445 | s. 474 | s. 514
  | Offences under s. 378 other than an offence that falls within the description of a special case under the heading “Punishment in special cases” in that section
 Misuse of Drugs Act 1981 | All offences other than indictable offences
-Poisons Act 1964 | All offences
+Medicines and Poisons Act 2014 | All offences
 Weapons Act 1999 | All offences
-[Division 2 inserted in Gazette 4 Dec 2009 p. 4915-16; amended in Gazette 29 Jul 2016 p. 3249.]
+[Division 2 inserted in Gazette 4 Dec 2009 p. 4915-16; amended in Gazette 29 Jul 2016 p. 3249; 17 Jan 2017 p. 416.]
