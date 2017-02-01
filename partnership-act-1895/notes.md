@@ -16,34 +16,15 @@ Partnership Amendment Act 2005 | 3 of 2005 | 1 Jun 2005 | 29 Jun 2005
 Reprint 5: The Partnership Act 1895 as at 9 Feb 2007 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 63 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Limited Partnerships Act 2016 Pt. 7 | 54 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Limited Partnerships Act 2016 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Partnership Act 1895 amended
-122.Partnership Act 1895 amended
-(1) This Part amends the Partnership Act 1895.
-(2) In section 3 insert in alphabetical order:
-incorporated limited partnership has the meaning given in the Limited Partnerships Act 2016 section 3;
-limited partnership has the meaning given in the Limited Partnerships Act 2016 section 3;
-(3) In section 4 delete “This” and insert:
-(1) Subject to subsections (2) and (3), this
-(4) At the end of section 4 insert:
-(2) This Act applies to a limited partnership to the extent and with the modifications set out in the Limited Partnerships Act 2016 section 6.
-(3) This Act applies to an incorporated limited partnership to the extent and with the modifications set out in the Limited Partnerships Act 2016 sections 8 and 9.
-(5) In section 7(1) delete “Partnership” and insert:
-Subject to subsection (3), partnership
-(6) After section 7(2) insert:
-(3) Partnership does not include the relation which subsists between —
-(a) the partners in an incorporated limited partnership; or
-(b) an incorporated limited partnership and its partners.
+Limited Partnerships Act 2016 s. 122 | 54 of 2016 | 29 Nov 2016 | 1 Feb 2017 (see s. 2(b) and Gazette 31 Jan 2017 p. 1093)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 business3
 court3
+incorporated limited partnership3
 land3
+limited partnership3
 person3
 writing3
 written3
