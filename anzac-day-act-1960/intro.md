@@ -1,4 +1,4 @@
 Western Australia
 Anzac Day Act 1960
 An Act to amend and consolidate the law relating to the observance of Anzac Day as a public holiday; to establish an Anzac Day Trust Account; and for other and incidental purposes.
-[Long title amended by No. 77 of 2006 s. 17.]
+[Long title amended: No. 77 of 2006 s. 17.]
