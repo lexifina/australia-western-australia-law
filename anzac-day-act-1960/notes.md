@@ -20,11 +20,12 @@ Anzac Day Amendment Act 2003 | 62 of 2003 | 26 Nov 2003 | 26 Nov 2003 (see s. 2)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 3: The Anzac Day Act 1960 as at 15 Sep 2006 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 10 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 10 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Anzac Day Amendment Act 2016 | 4 of 2016 | 21 Mar 2016 | s. 1 and 2: 21 Mar 2016 (see s. 2(a)); Act other than s. 1 and 2: 23 Mar 2016 (see s. 2(b) and Gazette 22 Mar 2016 p. 859)
 Anzac Day Amendment Act (No. 2) 2016 | 5 of 2016 | 21 Mar 2016 | s. 1 and 2: 21 Mar 2016 (see s. 2(a)); Act other than s. 1 and 2: 23 Mar 2016 (see s. 2(b) and Gazette 22 Mar 2016 p. 859)
+Reprint 4: The Anzac Day Act 1960 as at 3 Feb 2017 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -41,3 +42,4 @@ racing club3
 sport event3
 Trust3
 Trustee3
+By Authority: JOHN A. STRIJK, Government Printer
