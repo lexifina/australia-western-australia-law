@@ -209,7 +209,7 @@ The value of residential premises in a retirement village will increase and decr
 Form 1A
 Retirement Villages Act 1992
 [r. 4(1)(b)]
-Disclosure statement for prospective residents — short term residence contract (as defined in regulation 4A)
+Disclosure statement for prospective residents — short-term residence contract (as defined in regulation 4A)
 Under the Retirement Villages Act 1992 section 13(2) the owner of residential premises in a retirement village is required to provide the following information to a person at least 10 working days before that person enters into a residence contract.
 THE OWNER, OR A PERSON AUTHORISED TO ACT ON BEHALF OF THE OWNER, MUST COMPLETE ALL SECTIONS OF THIS DISCLOSURE STATEMENT IN WRITING.
 Declaration by the owner I [name]: of [address]: . being the owner, or a person authorised to act on behalf of the owner of [retirement village], certify that the information contained herein is to the best of my knowledge correct. ........................................................ [Signature] [Date]
