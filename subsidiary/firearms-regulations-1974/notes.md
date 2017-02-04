@@ -93,6 +93,7 @@ Firearms Amendment Regulations 2016 | 5 Apr 2016 p. 1025-7 | r. 1 and 2: 5 Apr 2
 Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
 Reprint 9: The Firearms Regulations 1974 as at 5 Aug 2016 (includes amendments listed above)
 Police Regulations Amendment (Captive Bolt Guns) Regulations 2016 Pt. 2 | 29 Nov 2016 p. 5322-3 | 30 Nov 2016 (see r. 2(b))
+Firearms Amendment Regulations 2017 | 3 Feb 2017 p. 1113-14 | r. 1 and 2: 3 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Feb 2017 (see r. 2(b))
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
 Defined terms
