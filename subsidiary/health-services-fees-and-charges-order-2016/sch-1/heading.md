@@ -20,12 +20,12 @@
  | (b)for ineligible out-patients — for each individual service rendered | $270
 5. | Medicines, for each item —
  | (a)for holders of an entitlement card | no charge
- | (b)for other people who are — (i)veterans who hold a Gold Card or a White Card; or (ii)pensioners; or (iii)concessional beneficiaries | $6.20
+ | (b)for other people who are — (i)veterans who hold a Gold Card or a White Card; or (ii)pensioners; or (iii)concessional beneficiaries | $6.30
  | (c)for all other people —
  | (i)at a participating hospital —
- | (I)for an item on the PBS list | PBS price up to a maximum of $38.30
- | (II)for an item not on the PBS list | $30.60
- | (ii)at a hospital that is not a participating hospital | $30.60
+ | (I)for an item on the PBS list | PBS price up to a maximum of $38.80
+ | (II)for an item not on the PBS list | $31.00
+ | (ii)at a hospital that is not a participating hospital | $31.00
 ## Subdivision 4 — Same day patients
 6. | Same day health service, other than a service subject to a charge set out in this Schedule and associated with the provision of such service —
  | (a)for public same day patients | no charge
@@ -34,7 +34,7 @@
  | (d)for ineligible same day patients | $2 024 per day
 ## Subdivision 5 — Other services
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $37.50 per day
-[Division 1 amended in Gazette 21 Oct 2016 p. 4783.]
+[Division 1 amended in Gazette 21 Oct 2016 p. 4783; 3 Feb 2017 p. 1113.]
 ## Division 2 — Compensable patients
 ## Subdivision 1 — Compensable in-patients
 1. | Accommodation, maintenance, nursing care and other services in a hospital bed, except services referred to in item 4, 5 or 6 | $2 262 per day
@@ -45,12 +45,13 @@
 6. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient requiring 24 hour a day care for airway management, with or without tracheostomy | $3 800 per day
 ## Subdivision 2 — Compensable out-patients
 7. | For radiological service — for each item of service | $270
-8. | For medicines, subject to item 9, for each item — (a)at a participating hospital — (i)for an item on the PBS list (ii)for an item not on the PBS list (b)at a hospital that is not a participating hospital | PBS price up to a maximum of $38.30 $30.60 $30.60
+8. | For medicines, subject to item 9, for each item — (a)at a participating hospital — (i)for an item on the PBS list (ii)for an item not on the PBS list (b)at a hospital that is not a participating hospital | PBS price up to a maximum of $38.80 $31.00 $31.00
 9. | For each other individual service (with any medicines supplied at the time of the initial service being treated as included in that service) | $270
 ## Subdivision 3 — Compensable same day patients
 10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $1 547 per day
  | (b)for a patient in Princess Margaret Hospital for Children in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 148 per day
  | (c)for any other patient | $2 004 per day
+[Division 2 amended in Gazette 3 Feb 2017 p. 1113.]
 ## Division 3 — Magnetic resonance imaging
 Charges for magnetic resonance imaging services
 Item | Service | Charge (per study)
