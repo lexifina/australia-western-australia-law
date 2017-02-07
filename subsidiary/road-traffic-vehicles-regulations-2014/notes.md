@@ -11,6 +11,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 
 Road Traffic Regulations Amendment Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2342-3 | 1 Jul 2016 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2016 | 20 Sep 2016 p. 3982-3 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); r. 3 and 4: 21 Sep 2016 (see. r. 2(b)); r. 5: 24 Oct 2016 (see r. 2(c))
 Road Traffic Regulations Amendment (Pilot Vehicle Drivers) Regulations 2016 Pt. 2 | 15 Nov 2016 p. 5062-77 | 28 Nov 2016 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 | 7 Feb 2017 p. 1177-8 | 7 Feb 2017 (see note under r. 1)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -30,6 +31,9 @@ In regulation 120:
 64 PU.
 (b) in the Modified penalty delete “20 PU.” and insert:
 24 PU.
+The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 2 reads as follows:
+2.Specified day
+For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2017.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
