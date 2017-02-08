@@ -25,12 +25,13 @@ Restraining Orders Amendment Act 2011 Pt. 2 | 32 of 2011 | 12 Sep 2011 | 5 May 2
 Restraining Orders Amendment Act 2013 Pt. 2 | 14 of 2013 | 4 Oct 2013 | 4 Oct 2013 (see s. 2)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 17 (other than s. 108, 110-112, 114-117, 119 and 121) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Reprint 4: The Restraining Orders Act 1997 as at 13 Mar 2015 (includes amendments listed above)
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 s. 60, 71, 73 and 76 | 49 of 2016 | 29 Nov 2016 | 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 18 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 2 | 49 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 2 (other than s. 60, 71, 73 and 76) | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
 On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 had not come into operation. They read as follows:
@@ -78,7 +79,7 @@ In section 62D(8) delete the definition of remote communication.
 121.Section 71 amended
 Delete section 71(5)(a) and insert:
 (a) has been served on the restrained person by post or electronically; and
-On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 2 (other than s. 60, 71, 73 and 76) had not come into operation. It reads as follows:
 Part 2 — Restraining Orders Act 1997 amended
 3.Act amended
 This Part amends the Restraining Orders Act 1997.
@@ -835,14 +836,6 @@ taken
 (b) delete “and domestic”;
 (c) delete “an act of abuse.” and insert:
 family or personal violence.
-60.Section 61A amended
-(1) In section 61A(2)(b) after “or (2a)” insert:
-(the previous offences)
-(2) After section 61A(2) insert:
-(2A) For the purposes of subsection (2)(b) each of the previous offences is to be counted, regardless of whether the convictions for them —
-(a) were recorded before or after the date on which the relevant offence, or any of the previous offences, was committed; or
-(b) have been counted in sentencing under this section for a different relevant offence.
-(2B) For the purposes of subsection (2)(b), convictions for 2 or more previous offences committed on the same day are to be treated as a single conviction.
 61.Section 61C inserted
 After section 61B insert:
 61C.Report under s. 10V to be considered in sentencing for breach of FVRO
@@ -941,18 +934,6 @@ the order
 (5) Delete section 63A(5).
 Note:The heading to amended section 63A is to read:
 FVRO or VRO made if certain violent personal offences committed
-71.Section 63B replaced
-Delete section 63B and insert:
-63B.Circumstances to be taken into account when sentencing for certain offences
-(1) In this section —
-violent personal offence means —
-(a)an offence mentioned in The Criminal Code section 277; or
-(b)an offence against The Criminal Code section 281, 283, 292, 293, 294, 304, 320, 321, 321A, 329, 332, 333, 338A, 338B, 338C, 338E or 444.
-(2) Where a person commits a violent personal offence, the court sentencing the person is to determine the seriousness of the offence by reference to whether —
-(a) the person is in a family relationship with a victim of the offence; or
-(b) a child was present when the offence was committed; or
-(c) the conduct of the person in committing the offence constituted a breach of a restraining order.
-(3) Nothing in subsection (2) affects the discretion of a court to decide whether or not a circumstance set out in that subsection is a circumstance to take into account in sentencing an offender for any other offence.
 72.Section 63D inserted
 After section 63C insert:
 63D.Court to give reasons for certain decisions
@@ -960,12 +941,6 @@ After section 63C insert:
 (a) making an order relating to an FVRO under section 23(1)(b) or (c), 29(1)(b) or (c) or 40(3)(b) or (c); or
 (b) refusing to make an order under section 43(1) relating to an FVRO.
 (2) The reasons must address the principles referred to in section 10B(1)(a), (b) and (c).
-73.Section 64 amended
-Delete section 64(1)(b) and insert:
-(b) to do any of the following —
-(i) make, vary or cancel a final order;
-(ii) refuse to make, vary or cancel a final order;
-(iii) make any other order in relation to a final order,
 74.Section 67 amended
 After section 67(2) insert:
 (2A) The reasons must address the principles referred to in section 10B(1)(a), (b) and (c).
@@ -974,17 +949,6 @@ After section 67(2) insert:
 order (a third party) if it is satisfied that it would have been able to make the order in respect of the third party had the third party made a separate application for the order.
 (2) After section 68(2) insert:
 (3) This section does not apply to an FVRO made under section 63(4AA).
-76.Section 70 amended
-(1) In section 70(1) delete “subsection (3),” and insert:
-subsection (1A) or (3),
-(2) After section 70(1) insert:
-(1A) Subsection (1) does not apply to a disclosure of information to a person who is, or who is in a class of persons that is, prescribed in the regulations for the purposes of this subsection.
-(1B) If the information is disclosed to a person referred to in subsection (1A) —
-(a) no civil or criminal liability is incurred in respect of the disclosure of the information; and
-(b) the disclosure of the information is not to be regarded as a breach of any duty of confidentiality or secrecy imposed by any written or other law; and
-(c) the disclosure of the information is not to be regarded as a breach of professional ethics or standards or as unprofessional conduct.
-(3) In section 70(2) delete the Penalty and insert:
-Penalty for this subsection: a fine of $6 000 or imprisonment for 18 months.
 77.Section 70A amended
 (1) In section 70A(1) in the definition of prescribed information:
 (a) after “prescribed” insert:

@@ -182,11 +182,12 @@ Graffiti Vandalism Act 2016 Pt. 6 Div. 1 | 16 of 2016 | 11 Jul 2016 | 12 Oct 201
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Sentencing Legislation Amendment Act 2016 Pt. 2 Div. 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 1 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and Gazette 13 Jan 2017 p. 338)
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 s. 97, 98 and 100 | 49 of 2016 | 29 Nov 2016 | 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 4 | 49 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 s. 99 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -225,23 +226,7 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
 -35Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 4 had not come into operation. It reads as follows:
-Part 3 — Consequential amendments to other Acts
-Division 4 — The Criminal Code amended
-97.Act amended
-This Division amends The Criminal Code.
-98.Section 1 amended
-After section 1(4) insert:
-(4A) In this Code, unless the context otherwise indicates —
-(a) a reference to causing or doing bodily harm to a person includes, if the person is a pregnant woman, a reference to causing or doing bodily harm to the woman’s unborn child; and
-(b) a reference to intending to cause or intending to do bodily harm to a person includes, if the person is a pregnant woman, a reference to intending to cause or intending to do bodily harm to the woman’s unborn child; and
-(c) a reference to causing or doing grievous bodily harm to a person includes, if the person is a pregnant woman —
-(i) a reference to causing or doing grievous bodily harm to the woman’s unborn child; and
-(ii) a reference to causing the loss of the woman’s pregnancy;
-and
-(d) a reference to intending to cause or intending to do grievous bodily harm to a person includes, if the person is a pregnant woman —
-(i) a reference to intending to cause or intending to do grievous bodily harm to the woman’s unborn child; and
-(ii) a reference to intending to cause the loss of the woman’s pregnancy.
+On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 s. 99 had not come into operation. It reads as follows:
 99.Section 221 amended
 (1) In section 221(1) in the definition of circumstances of aggravation:
 (a) in paragraph (a) delete “and domestic”;
@@ -250,9 +235,6 @@ order, other than an order under Part 1C,
 (2) Delete section 221(2) and insert:
 (2) In this section —
 family relationship has the meaning given in the Restraining Orders Act 1997 section 4(1).
-100.Section 281 amended
-In section 281(1) delete “10 years.” and insert:
-20 years.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
