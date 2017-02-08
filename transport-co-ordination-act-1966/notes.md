@@ -73,11 +73,11 @@ Reprint 9: The Transport Co-ordination Act 1966 as at 11 Mar 2011 (includes amen
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 6 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 51 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 42 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Licensing Provisions Amendment Act 2016 Pt. 9 | 44 of 2016 | 1 Dec 2016 | 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1158)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 3 and 6 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
-Licensing Provisions Amendment Act 2016 Pt. 9 | 44 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
 (a) in section 2, in the definition of omnibus by deleting “a vehicle licensed for use as a taxi-car under the Taxi-cars (Co-ordination and Control) Act 1963, or” and substituting the following —
@@ -172,13 +172,6 @@ Delete section 47ZE.
 In section 47ZF(1):
 (a) delete paragraph (q);
 (b) in paragraph (u) delete “and holders of taxi-car drivers’ licences”.
-On the date as at which this compilation was prepared, the Licensing Provisions Amendment Act 2016 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — Transport Co-ordination Act 1966 amended
-42.Act amended
-This Part amends the Transport Co-ordination Act 1966.
-43.Section 43A amended
-In section 43A delete “of one year” and insert:
-of not more than 5 years
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -80,13 +80,13 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 29 | 17 of 2014 | 2 Jul 2014
 Alumina Refinery (Mitchell Plateau) Agreement (Termination) Act 2015 Pt. 3 | 31 of 2015 | 2 Nov 2015 | 3 Nov 2015 (see s. 2(b))
 Conservation and Land Management Amendment Act 2015 s. 77 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Mining (Transitional Provisions) (Anomalies Prevention) Order 2016 published in Gazette 22 Jul 2016 p. 3134 | 22 Jul 2016 (see cl. 2)
+Licensing Provisions Amendment Act 2016 Pt. 5 | 44 of 2016 | 1 Dec 2016 | 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1158)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 369 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Licensing Provisions Amendment Act 2016 Pt. 5 | 44 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -403,40 +403,6 @@ aquatic resources
 aquatic resources Minister means the Minister for the time being charged with the administration of the Aquatic Resources Management Act 2016;
 (6) In section 25(2B) delete “Fish Resources Management Act 1994” and insert:
 Aquatic Resources Management Act 2016
-On the date as at which this compilation was prepared, the Licensing Provisions Amendment Act 2016 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Mining Act 1978 amended
-19.Act amended
-This Part amends the Mining Act 1978.
-20.Section 8 amended
-In section 8(1) insert in alphabetical order:
-designated tenement contact (DTC), in respect of a mining tenement, or an application for a mining tenement, means the person who is, or the persons who are, in accordance with the regulations, the designated tenement contact for the mining tenement or application;
-21.Section 17 inserted
-After section 16 insert:
-17.Designated tenement contact
-(1) In this section —
-give includes serve, notify, send or any similar expression;
-prescribed provision means a provision of this Act, or the regulations made for the purposes of this Act —
-(a)under which the Minister, a warden or any official of the Department is required or permitted to give information, a document or notice to a person who holds, or has applied for, a mining tenement; and
-(b)that is prescribed for the purpose of this section.
-(2) Despite anything else in this Act, a prescribed provision is to be taken to have been complied with if —
-(a) under the prescribed provision, information, a document or notice is required or permitted to be given to a person who holds, or has applied for, a mining tenement; and
-(b) the information, document or notice referred to in the provision is given to the designated tenement contact for that mining tenement or application.
-22.Section 40C amended
-In section 40C delete “a natural” and insert:
-any
-23.Section 111 amended
-(1) In section 111 delete “Notwithstanding” and insert:
-(1) Notwithstanding
-(2) At the end of section 111 insert:
-(2) A reference to a licence or lease in subsection (1) does not include a reference to a licence or lease granted on an application made on or after the commencement of the Licensing Provisions Amendment Act 2016 section 23.
-Note:The heading to amended section 111 is to read:
-Iron authorisations
-24.Section 162 amended
-After section 162(2)(eb) insert:
-(ec) regulate matters in connection with designated tenement contacts for mining tenements and applications for mining tenements, including without limitation —
-(i) to require a person who holds, or has applied for, a mining tenement to have a designated tenement contact for the mining tenement or application;
-(ii) to provide the manner in which designated tenement contacts are to be nominated for mining tenements, or applications for mining tenements, by persons who hold, or have applied for, mining tenements;
-(iii) to provide for matters relating to the provision, updating and accurate recording of particulars relating to designated tenement contacts;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -471,6 +437,7 @@ damage8(1)
 dealing8(1)
 Department8(1)
 designated area57A(5)
+designated tenement contact (DTC)8(1)
 Director General of Mines8(1)
 Director, Geological Survey8(1)
 end day65(1)
@@ -484,6 +451,7 @@ former holder114(7)
 former holder114C(1)
 fossick8(1)
 geological sample8(1)
+give17(1)
 grant125A(3)
 granted land65(4c)
 graticular sections56C(1)
@@ -538,6 +506,7 @@ permit land40G(1)
 prescribed day19(2d)
 prescribed official8(1), 30(8)
 prescribed period114(1)
+prescribed provision17(1)
 primary tenement56A(1)
 primary tenement70(1), 70A, 85B(1)
 private land8(1)
