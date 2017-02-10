@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Offshore Minerals Regulations 2010 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 10 February 2017 of the Offshore Minerals Regulations 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Offshore Minerals Regulations 2010 | 17 Dec 2010 p. 6379-96 | r. 1 and 2: 17 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b) and Gazette 17 Dec 2010 p. 6350)
@@ -8,6 +8,7 @@ Offshore Minerals Amendment Regulations 2013 | 26 Jul 2013 p. 3355-6 | r. 1 and 
 Offshore Minerals Amendment Regulations 2014 | 20 Jun 2014 p. 2039 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Offshore Minerals Amendment Regulations 2015 | 26 Jun 2015 p. 2256-7 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Mining and Offshore Minerals Regulations Amendment (Fees and Rents) Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2335-8 | 1 Jul 2016 (see r. 2(b))
+Reprint 1: The Offshore Minerals Regulations 2010 as at 10 Feb 2017 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
