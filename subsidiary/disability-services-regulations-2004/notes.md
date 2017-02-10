@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Disability Services Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 February 2017 of the Disability Services Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Disability Services Regulations 2004 | 14 Dec 2004 p. 6002-6 | 15 Dec 2004 (see r. 2 and Gazette 14 Dec 2004 p. 5999)
@@ -13,9 +13,11 @@ Disability Services Amendment Regulations (No. 2) 2016 | 14 Jun 2016 p. 1820-3 |
 Disability Services Amendment Regulations (No. 3) 2016 | 24 Jun 2016 p. 2311 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Disability Services Amendment Regulations 2016 | 26 Aug 2016 p. 3653 | r. 1 and 2: 26 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b) and Gazette 26 Jul 2016 p. 3145)
 Disability Services Amendment Regulations (No. 4) 2016 | 30 Dec 2016 p. 5970-2 | r. 1 and 2: 30 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2017 (see r. 2(b))
+Reprint 2: The Disability Services Regulations 2004 as at 10 Feb 2017 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+2017 expansion area11
 child11
 Cockburn-Kwinana area11
 Commission component29
@@ -26,6 +28,7 @@ NDIS Act11
 operational policy23(1)
 participant11
 plan11
+Ranges area11
 support11
 trial11
 trial actuary29
