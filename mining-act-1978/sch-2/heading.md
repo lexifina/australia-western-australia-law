@@ -1,4 +1,4 @@
 ## Third Schedule — Private land not open for mining
 [s. 27]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 East Locations 36, 41, 48, 51, 53, 55, 57, 59, 32, 35, 39, 40, 42, 44, 45, 50, 37, 61, 62.
