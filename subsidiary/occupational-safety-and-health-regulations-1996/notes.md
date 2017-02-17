@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 February 2017 of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -87,13 +87,286 @@ Occupational Safety and Health Amendment Regulations 2014 | 8 Jan 2015 p. 101-2 
 Occupational Safety and Health Amendment Regulations 2015 | 23 Jun 2015 p. 2181-2 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 14 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Reprint 10: The Occupational Safety and Health Regulations 1996 as at 17 Feb 2017 (includes amendments listed above)
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
-The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
+The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987, see s. 33(1) which repealed the Noise Abatement Act 1972 under which the regulations were made.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
-The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 10(b) reads as follows:
-10.Regulation 5.46 amended
-In regulation 5.46(1):
-(b) in paragraph (a) delete “every person employed to do asbestos removal work; and” and insert:
-any person employed or otherwise engaged to do work involving friable asbestos-containing material; and
+The amendments to r. 5.46(1)(a) in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 5.46(1)(a) was replaced by the Occupational Safety and Health Amendment Regulations 2010 r. 5.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+abrasive blasting1, 3
+abrasive material1, 3
+AC classified hazardous substance5(1)
+allied process1, 3
+alter4
+amusement structure4
+anchorage3
+appointed medical practitioner5(1)
+approved1
+article5(1)
+AS1
+AS/NZS1
+asbestos1, 5(1)
+asbestos demolition site3(1)
+asbestos dust5(1)
+asbestos removalist licence 5(1)
+asbestos work5(1)
+asbestos work area5(1)
+asbestos-containing material3(1), 5(1)
+assessment instrument6(1)
+assessor6(1)
+atmospheric monitoring5
+audiogram7(1)
+authorised person4(2)
+award2(11)
+barricade3
+biological monitoring5(1), 5
+blasting cabinet3
+blasting chamber3
+blood lead level5
+boiler4, Sch. 6.3 cl. 10
+bona fide research5
+boom-type elevating work platform4, Sch. 6.3 cl. 6
+bridge crane4, Sch. 6.3 cl. 6
+Building Code1
+building maintenance equipment4
+building maintenance unit1, 4
+building or structure1
+cantilevered scaffold3, Sch. 6.3 cl. 2
+carcinogenic substance5
+certificate of competency6(1), 7(1)
+chemical name5(1)
+class 13
+class 23
+class 33
+classified plant7
+client3
+commencement7
+commencement day7(1)
+commercial vehicle3
+commercial vehicle driver3
+commissioning4
+competent person1
+compressed air wet abrasive blast cleaning3
+concrete panel3(1)
+concrete placing unit4
+confined space3
+confirmed blood lead level5
+construction diving work3(1)
+construction induction training certificate3
+construction induction training course3
+construction site1
+construction work1
+consumer package5(1)
+container5(1)
+contaminant3
+conveyor4
+crane1, 4
+curing agent5
+damp5
+danger tag1
+danger zone3(1)
+demolition1, 3
+demolition licence5(1)
+derrick craneSch. 6.3 cl. 6
+design verifier4
+designated plant7
+designer3
+direct fired process heaterSch. 6.3 cl. 10
+documentary evidence of forklift competency7(1)
+dogger4(1)
+dogging workSch. 6.3 cl. 4
+domestic construction work3
+driver fatigue management plan3
+dry abrasive blasting1, 3
+earthmoving machinery1, 4
+elevating work platform4
+emergency services5(1)
+employee3
+employer3
+enclosed workplace3
+energy source4(1)
+escalator4
+exhaust system1
+existing assessor7(1)
+existing assessor of forklift competency7(1)
+expiry date5(2), 6(2), 6(2)
+explosive powered tool4
+exposure standard5(1)
+exposure standard for noise3
+fall injury prevention system3
+filter3
+finalised5(2), 6(2), 7(2)
+fired heater4
+first aid3(1)
+flammable paint3
+forklift truck7(1), Sch. 6.3 cl. 8
+forklift work7(1)
+former regulations6(1), 7(1)
+friable asbestos-containing material5(1)
+gantry3, Sch. 6.3 cl. 2
+gantry crane4, Sch. 6.3 cl. 6
+gas cylinder1, 4
+gear1
+generic name5(1)
+GHS5(1)
+GHS classified hazardous substance5(1)
+GVM3
+hand-held equipment3(2)
+hazard classSch. 5.1
+hazardous substance5(1)
+Hazardous Substances Information System5(1)
+health surveillance5(1), 5
+high risk work6(1), 7(1)
+high risk work (interstate) licence6(1), 7(1)
+high risk work (WA) licence6(1), 7(1)
+high risk work licence1, 6(1)
+high-risk construction work3
+hoarding1, 3
+hoist1, 4
+holder6(3)
+holds6(3), 7(3)
+hung scaffold3, Sch. 6.3 cl. 1
+industrial equipment7(1)
+industrial lift truck4
+industrial robot4
+ingredient5(1)
+inorganic lead5
+instructor4(8)
+interlocked4
+introductory course2(2)
+isocyanate5
+L C,peak3
+LAeq,8h3
+laser4
+laser product4
+lead material5
+lead process5
+lead-risk job5
+licence3, 5(1), 6
+licensed person3(1), 3, 6(1)
+lift4
+lower explosive limit5
+main contractor1
+manual handling3(1)
+manufacturing process1
+mast climbing work platform4, Sch. 6.3 cl. 1
+Material Safety Data Sheet5(1)
+materials hoistSch. 6.3 cl. 1
+medical practitioner1
+mobile crane4, Sch. 6.3 cl. 6
+monitoring5(1)
+motor vehicle3
+MSDS,5(1)
+nail gun4
+National Code 5(1)
+national standard7(1)
+NOHSC1(1)
+noise3
+non-friable asbestos-containing material5(1)
+non-slewing mobile craneSch. 6.3 cl. 6
+notice of satisfactory assessment6(1), 7(1)
+ongoing surveillance5(1)
+operator protective devices4
+or5(1)
+order-picking forklift truckSch. 6.3 cl. 8
+other facility3(1)
+out-of-service tag4
+overhead power line3(1)
+oxygen deficient atmosphere3
+passenger4(7)
+person having control of a workplace1
+person having control of access to a workplace1
+personal hearing protectors3
+personnel and materials hoistSch. 6.3 cl. 6
+platform1
+polyhydroxy compound5
+polyurethane manufacturing process5
+portable equipment3(2)
+portal boom craneSch. 6.3 cl. 6
+post-introductory course2(2)
+powder paint3
+prescribed equipment6(1)
+prescribed work7(1)
+presence sensing safeguarding system4
+pressure equipment4
+pressure piping4
+pressure vessel1, 4
+pressurised liquid blast cleaning3
+previously registered as an assessor6(1)
+promoter5
+purchaser5(1)
+qualification or statement of attainment6(1)
+reciprocating steam engineSch. 6.3 cl. 10
+recognised construction induction training course3
+record5(1)
+registered training organisation1
+registration6
+regulation 1.15 penalty1
+regulation 1.16 penalty1
+regulatory authority4
+removal level5
+repair4
+RepairsSch. 5.2
+repealed regulations7
+representative2(2), 2(2)
+resin5
+responsible person3, 4(1)
+responsible person at a workplace3
+restricted licence5(1)
+retailer5(1)
+rigger4(1)
+rigging workSch. 6.3 cl. 4
+risk phrase5(1)
+roof3
+Safe Work Australia5(1)
+safe work method statement3
+safety phrase5(1)
+sanitary facilities3(1)
+scaffold1, 3
+scaffolding equipment3
+scaffolding workSch. 6.3 cl. 2
+Schedule 5.4 substance5
+Schedule 5.5 substance5
+Schedule 5.6 substance5
+self-contained breathing apparatus3
+self-erecting tower craneSch. 6.3 cl. 6
+slewing mobile craneSch. 6.3 cl. 6
+smoke3
+spray painting3
+spray painting process3
+spur scaffold3, Sch. 6.3 cl. 2
+substance5(1)
+supplied air respirator1, 3
+supplier5(1)
+supply authority3
+suspended scaffold3, Sch. 6.3 cl. 1
+tilt-up work3(1)
+tobacco product3
+tower crane4, Sch. 6.3 cl. 6
+toxic atmosphere3, 3(1)
+toxic paint3
+tractor4
+transition period7(1)
+transitional course2(2)
+turbineSch. 6.3 cl. 10
+type I ingredient5(1), Sch. 5.1, Sch. 5.1
+type II ingredient5(1), Sch. 5.1, Sch. 5.1
+type III ingredient5(1), Sch. 5.1, Sch. 5.1
+unrestricted licence5(1)
+use4, 5(1), 6(1), Sch. 6.3 cl. 1
+vehicle hoist4
+vehicle loading crane4(1), Sch. 6.3 cl. 6
+vehicle-mounted concrete placing boomSch. 6.3 cl. 6
+wall3, 3(1)
+warehouse operator5(1)
+welding1, 3
+wet abrasive blasting1, 3
+work box4
+work that the person was authorised to do7(1)
+work time3
+worker6(3)
+workplace3(2)
