@@ -1,6 +1,6 @@
 ## Schedule 1 — Forms
 [r. 3, 5D]
-[Heading amended in Gazette 2 Jul 1996 p. 3199.]
+[Heading amended: Gazette 2 Jul 1996 p. 3199.]
 Form M.D. 1
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -37,8 +37,8 @@ Further identifier(s) required by the regulations (if any) .....................
 ............................................................................................
 Note: Please attach a copy of all photo identification.
 All applicable details on this declaration must be completed.
-[Form M.D. 1 inserted in Gazette 10 Dec 2004 p. 5972-3; amended in Gazette 5 Aug 2014 p. 2831-2.]
-[Forms M.D. 2 to M.D. 6 deleted in Gazette 19 Dec 2000 p. 7292.]
+[Form M.D. 1 inserted: Gazette 10 Dec 2004 p. 5972-3; amended: Gazette 5 Aug 2014 p. 2831-2.]
+[Forms M.D. 2 to M.D. 6 deleted: Gazette 19 Dec 2000 p. 7292.]
 Form M.D. 7
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -81,7 +81,7 @@ at .............................................................................
 Signature of Commissioner of Police*/
 delegate of Commissioner of Police*
 * Please delete inapplicable alternative.
-[Form M.D. 8A inserted in Gazette 2 Jul 1996 p. 3199-200; amended in Gazette 6 May 2011 p. 1621.]
+[Form M.D. 8A inserted: Gazette 2 Jul 1996 p. 3199-200; amended: Gazette 6 May 2011 p. 1621.]
 Form M.D. 8B
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -92,7 +92,7 @@ Analysis*/examination* applied for on ............................. at .........
 ..................................................
 Signature of applicant
 * Please delete inapplicable alternative.
-[Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200; amended in Gazette 12 Nov 2010 p. 5663; 6 May 2011 p. 1621.]
+[Form M.D. 8B inserted: Gazette 2 Jul 1996 p. 3200; amended: Gazette 12 Nov 2010 p. 5663; 6 May 2011 p. 1621.]
 Form M.D. 9
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -100,17 +100,17 @@ MISUSE OF DRUGS REGULATIONS 1982
 PSYCHOACTIVE SUBSTANCE DESTRUCTION NOTICE
 Property reference No. ........................
 Police reference No. ...........................
-I ................................................................................................................................
+I ..............................................................................................................................
 [Name and rank of police officer]
 having custody of a thing seized from you for being suspected to be a psychoactive substance, comprising —
-...................................................................................................................................
+...............................................................................................................................
 [describe the thing]
-....................................................................................................................................
+................................................................................................................................
 and —
 (a)being satisfied that no person will be tried with the commission of an offence in relation to the thing*; or
 (b)having confirmed that a person was tried with the commission of an offence in relation to the thing and the person was not convicted of that offence*,
 advise you
-....................................................................................................................................
+................................................................................................................................
 [Name and address of person from whom the thing was seized]
 that the suspected psychoactive substance will be destroyed on or after the ...... day of ................ 20.......** unless, before that day, an application is made under section 8U(1) of the Act to have a sample of that suspected psychoactive substance analysed. An application is to be accompanied by the analysis fee of $.......................... .
 This Notice is given on the ........... day of ................ 20.......
@@ -118,44 +118,44 @@ Signature/rank/rego ………………………………………….
 * Delete inapplicable alternative.
 ** Must be at least 3 weeks after this notice is given.
 Personal Service
-On the ………… day of ………… 20 ...... at ………………………………...........
+On the ................ day of .............. 20 ...... at ..........................................................
 I personally served the person named in the notice with this destruction notice —
 by delivering a duplicate to him/her personally.
 by leaving a duplicate of it for him/her with .................................................
-……………………………………………………….. at his/her last known place of abode/principal office or place of business.
-Signature/rank/rego ……………………………....
-Date ………………….................................…......
+...................................................................................... at his/her last known place of abode/principal office or place of business.
+Signature/rank/rego ...............................................
+Date .......................................................................
 Postal Service
-On the………… day of…………………… 20….. I posted a copy of this destruction notice to the person named in the notice —
+On the ................. day of ............................. 20 ............. I posted a copy of this destruction notice to the person named in the notice —
 to his/her last known place of abode;
 to his/her last known place of business/employment, by pre-paid post/certified post/courier.
 in case of a Corporation or Association, to the principal place of business/principal office in this state.
-Postal/Courier reference number ………………………………………
-Courier company (if applicable) ……………………………………....
-Signature/rank/rego …………………………….....
-Date ………………….................................…......
-[Form M.D. 9 inserted in Gazette 5 Jan 2016 p. 5-6.]
+Postal/Courier reference number ............................................................
+Courier company (if applicable) .............................................................
+Signature/rank/rego ..................................................
+Date ..........................................................................
+[Form M.D. 9 inserted: Gazette 5 Jan 2016 p. 5-6.]
 Form M.D. 10
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
 APPLICATION TO HAVE SAMPLE OF SUSPECTED PSYCHOACTIVE SUBSTANCE ANALYSED OR EXAMINED BY APPROVED ANALYST
 To: The Commissioner of Police
-I .................................................................................................................................
+I ..............................................................................................................................
 [Name and Address of Applicant]
-....................................................................................................................................
+................................................................................................................................
 having been given a psychoactive substance destruction notice (Property Reference No. ............... , Police Reference No. ............)* in relation to —
-....................................................................................................................................
+................................................................................................................................
 [describe the thing]
-....................................................................................................................................
+................................................................................................................................
 apply to have a sample of that thing suspected to be a psychoactive substance analysed by an approved analyst.
 This application is accompanied by the fee of $ ..........., as set out on the relevant destruction notice and calculated in accordance with the Misuse of Drugs Regulations 1982 regulation 13.
 Analysis applied for on ............................. at ...............................**
 .................................................. Signature of applicant
 * Reference numbers from the Notice.
 ** Must be before the destruction date in the Notice.
-[Form M.D. 10 inserted in Gazette 5 Jan 2016 p. 6-7.]
-[Forms M.D. 11 and M.D. 12 deleted in Gazette 25 Jan 2013 p. 282.]
+[Form M.D. 10 inserted: Gazette 5 Jan 2016 p. 6-7.]
+[Forms M.D. 11 and M.D. 12 deleted: Gazette 25 Jan 2013 p. 282.]
 Form M.D. 13
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -164,19 +164,18 @@ CERTIFICATE OF APPROVED ANALYST
 Laboratory reference No. ............................
 Police reference No. ....................................
 I, ............................................................................., being an approved analyst within the meaning of the Misuse of Drugs Act 1981, hereby certify that —
-(a)I obtained*/received* for analysis the following quantity*/mass* of
-......................................................................................................
-marked .........................................................................................
-from*/by* ....................................................................................
-on ................................................................................................;
-(b)I analysed the thing referred to in paragraph (a) of this certificate by [insert details of method of analysis] with the following result ............................................................................
-.....................................................................................................; and
-(c)the following other matters relating to my analysis should be noted ............................................................................................
+(a)I obtained*/received* for analysis the following quantity*/mass* of ..........................................................................................................
+marked .............................................................................................
+from*/by* ........................................................................................
+on ....................................................................................................;
+(b)I analysed the thing referred to in paragraph (a) of this certificate by [insert details of method of analysis] with the following result ..........................................................................................................
+...........................................................................................................; and
+(c)the following other matters relating to my analysis should bez noted ................................................................................................;
 Certified on ............................................... at ........................................................
 ...................................................... ........................................................
 Signature of approved analyst Address of approved analyst
 * Please delete inapplicable alternative.
-[Form M.D. 13 amended in Gazette 2 Jul 1996 p. 3201.]
+[Form M.D. 13 amended: Gazette 2 Jul 1996 p. 3201.]
 Form M.D. 14
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -192,12 +191,12 @@ from*/by* ......................................................................
 on ................................................................................................;
 (b)I examined the thing referred to in paragraph (a) of this certificate by [insert details of method of examination] with the following result ............................................................................
 .....................................................................................................; and
-(c)the following other matters relating to my examination should be noted .......................................................................................
+(c)the following other matters relating to my examination should be noted ......................................................................................;
 Certified on ............................................... at ........................................................
 ...................................................... ........................................................
 Signature of approved analyst Address of approved botanist
 * Please delete inapplicable alternative.
-[Form M.D. 14 amended in Gazette 2 Jul 1996 p. 3201-2.]
+[Form M.D. 14 amended: Gazette 2 Jul 1996 p. 3201-2.]
 Form M.D. 15
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -207,7 +206,7 @@ I [insert name of applicant accused] apply for a copy of [insert details of rele
 Certificate applied for on ..................... at .....................
 ...............................................................
 Signature of applicant accused
-[Form M.D. 15 inserted in Gazette 2 Jul 1996 p. 3202; amended in Gazette 12 Nov 2010 p. 5663.]
+[Form M.D. 15 inserted: Gazette 2 Jul 1996 p. 3202; amended: Gazette 12 Nov 2010 p. 5663.]
 Form M.D. 16
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -263,13 +262,13 @@ BRING photographic identification. ARRIVE on time and complete the entire CIS. D
 WHAT IF I NEED TO RE-SCHEDULE A CIS BOOKING?
 If you need to reschedule a booking to complete a CIS, you must contact the CIS Booking Service by calling 1800 722 362. A booking can only be rescheduled if another appointment is available within the permitted 28 day period.
 WHAT IF I NEED AN EXTENSION OF TIME TO DO A CIS?
-In exceptional circumstances, Police may approve an extension of the time permitted to complete a CIS beyond the permitted 28 day period. To apply for an extension of time, please visit www.police.wa.gov.au, navigate to Online forms, navigate to Alcohol and Drugs, click on Application for extension of time to complete a CIS, complete the form and use the email link to send the application form to the Drug Diversion Coordinator. Alternatively, if you cannot access the Police website, you may telephone 131 444, ask to speak to the WA Police Drug Diversion Coordinator, and ask them to mail you an Application for extension of time to complete a CIS by post.
+In exceptional circumstances, Police may approve an extension of the time permitted to complete a CIS beyond the permitted 28 day period. To apply for an extension of time, please visit <www.police.wa.gov.au>, navigate to Online forms, navigate to Alcohol and Drugs, click on Application for extension of time to complete a CIS, complete the form and use the email link to send the application form to the Drug Diversion Coordinator. Alternatively, if you cannot access the Police website, you may telephone 131 444, ask to speak to the WA Police Drug Diversion Coordinator, and ask them to mail you an Application for extension of time to complete a CIS by post.
 Once you have obtained the application form, complete it and post it to: WA POLICE DRUG DIVERSION COORDINATOR LICENSING ENFORCEMENT DIVISION LOCKED BAG 9, EAST PERTH POST OFFICE EAST PERTH WA 6892 Alternatively, you may also send the completed application form by email to led.cir.smail@police.wa.gov.au
 CANNABIS INTERVENTION SESSION APPOINTMENT DETAILS
 Appointment Date:
 Appointment Time:
 Appointment Address:
-[Form M.D. 16 inserted in Gazette 21 Mar 2014 p. 738-41.]
+[Form M.D. 16 inserted: Gazette 21 Mar 2014 p. 738-41.]
 Form M.D. 17
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -288,7 +287,7 @@ The Cannabis Intervention Requirement (CIR) referred to above and given to you u
 Authorised Person issuing this withdrawal notice
 Surname |  |  |  |  |  | Reg.
 Section |  |  |  |  |  | Signature
-[Form M.D. 17 inserted in Gazette 29 Jul 2011 p. 3142-3.]
+[Form M.D. 17 inserted: Gazette 29 Jul 2011 p. 3142-3.]
 Form M.D. 18
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -312,4 +311,4 @@ Name
 Agency
 Signature
 Date |  |  | / |  |  | /
-[Form M.D. 18 inserted in Gazette 29 Jul 2011 p. 3143.]
+[Form M.D. 18 inserted: Gazette 29 Jul 2011 p. 3143.]

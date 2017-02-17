@@ -26,7 +26,9 @@ Misuse of Drugs Amendment Regulations 2014 | 21 Mar 2014 p. 737-41 | r. 1 and 2:
 Misuse of Drugs Amendment Regulations (No. 2) 2014 | 5 Aug 2014 p. 2831-2 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
 Misuse of Drugs Amendment Regulations 2015 | 5 Jan 2016 p. 4-7 | r. 1 and 2: 5 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jan 2016 (see r. 2(b))
 Police Regulations Amendment (Poisons) Regulations 2016 Pt. 2 | 17 Jan 2017 p. 412-17 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Reprint 4: The Misuse of Drugs Regulations 1982 as at 17 Feb 2017 (includes amendments listed above)
+The Drugs Act 1908 of South Australia was repealed on 1 Jul 2011 by the Controlled Substances Act 1984 of South Australia.
+Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Conservation and Land Managementis to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
