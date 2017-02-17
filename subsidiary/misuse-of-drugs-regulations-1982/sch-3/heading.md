@@ -1,8 +1,8 @@
 ## Schedule 3 — Category 1 items
-[Heading inserted in Gazette 10 Dec 2004 p. 5974.]
+[Heading inserted: Gazette 10 Dec 2004 p. 5974.]
 [r. 5, 5C]
 ## Division 1 — Substances
-[Heading inserted in Gazette 10 Dec 2004 p. 5974.]
+[Heading inserted: Gazette 10 Dec 2004 p. 5974.]
 Chemical name | Alternate name | Quantity substance in seized sample
 Acetic anhydride |  | 50 ml
 Acetyl Chloride |  | 50 ml
@@ -46,9 +46,9 @@ Phosphorus red/white |  | 19 g
 Phosphorous acid | Phosphonic Acid
 Pseudoephedrine (including salts) |  | 37 g
 Pyridine
-[Division 1 inserted in Gazette 10 Dec 2004 p. 5974-5; amended in Gazette 23 Jun 2009 p. 2493.]
+[Division 1 inserted: Gazette 10 Dec 2004 p. 5974-5; amended: Gazette 23 Jun 2009 p. 2493.]
 ## Division 2 — Things
-[Heading inserted in Gazette 23 Jun 2009 p. 2493.]
+[Heading inserted: Gazette 23 Jun 2009 p. 2493.]
 Item | Description
 1 | Any storage device containing ammonia gas where the mass of the storage device is less than one tonne.
-[Division 2 inserted in Gazette 23 Jun 2009 p. 2493.]
+[Division 2 inserted: Gazette 23 Jun 2009 p. 2493.]

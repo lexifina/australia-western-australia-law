@@ -1,8 +1,8 @@
 ## Schedule 4 — Category 2 items
-[Heading inserted in Gazette 10 Dec 2004 p. 5977.]
+[Heading inserted: Gazette 10 Dec 2004 p. 5977.]
 [r. 5A, 5C]
 ## Division 1 — Substances
-[Heading inserted in Gazette 10 Dec 2004 p. 5977.]
+[Heading inserted: Gazette 10 Dec 2004 p. 5977.]
 Chemical name | Alternate name | Quantity of substance in seized sample
 N-Acetylanthranilic acid | 0-Acetamidobenzoic acid
 Allylbenzene | 3-Phenyl-1-propene, 2-Propenyl Benzene
@@ -42,9 +42,9 @@ Sodium Borohydride
 Alkali metal - Sodium |  | 24 g
 Thionyl chloride
 Thorium (including salts)
-[Division 1 inserted in Gazette 10 Dec 2004 p. 5977-9.]
+[Division 1 inserted: Gazette 10 Dec 2004 p. 5977-9.]
 ## Division 2 — Things
-[Heading inserted in Gazette 10 Dec 2004 p. 5979.]
+[Heading inserted: Gazette 10 Dec 2004 p. 5979.]
 Description | Details
 Gas cylinder containing hydrogen sulphide gas
 Gas cylinder containing hydrogen gas
@@ -58,4 +58,4 @@ Heating mantles | Capacity 500 ml or greater (including the repair or supply of 
 Encapsulators (Capsule filling machines) | Manual or mechanical
 Pill presses (including a part for a pill press) | Manual or mechanical
 Rotary evaporators
-[Division 2 inserted in Gazette 10 Dec 2004 p. 5979; amended in Gazette 22 Mar 2011 p. 972.]
+[Division 2 inserted: Gazette 10 Dec 2004 p. 5979; amended: Gazette 22 Mar 2011 p. 972.]

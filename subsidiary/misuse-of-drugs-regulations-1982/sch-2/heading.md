@@ -12,4 +12,4 @@ Item | Prescribed university
 9 | University of Pennsylvania (Philadelphia, Pennsylvania, United States of America)
 10 | University of Reading (Reading, Berkshire, England)
 11 | University of Singapore (Singapore)
-[Schedule 2 inserted in Gazette 2 Jul 1996 p. 3203; amended in Gazette 10 Dec 2004 p. 5974.]
+[Schedule 2 inserted: Gazette 2 Jul 1996 p. 3203; amended: Gazette 10 Dec 2004 p. 5974.]
