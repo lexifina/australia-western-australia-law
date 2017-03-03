@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 March 2017 of the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 | 31 Dec 2007 p. 7057-100 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -15,6 +15,7 @@ Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2014 | 17
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2015 | 26 Jun 2015 p. 2265-6 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 4 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+Reprint 2: The Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 as at 3 Mar 2017 (includes amendments listed above)
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -52,7 +53,7 @@ place4
 relevant date17(1)
 relevant time4
 risk assessment4
-risk control measures23(2), Sch. 4 cl. 5(1)
+risk control measures23(2)(c), Sch. 4 cl. 5(1)
 safety management system4
 safety report4
 Schedule 1 substance4
