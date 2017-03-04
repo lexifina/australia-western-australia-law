@@ -1,6 +1,6 @@
 ## Schedule 2 — Forms
 [r. 4]
-[Heading inserted in Gazette 9 Oct 2012 p. 4756.]
+[Heading inserted: Gazette 9 Oct 2012 p. 4756.]
 1.Infringement notice
 Part 1
 Western Australian Marine Act 1982, s. 132(1) Infringement notice | Infringement notice no.:
@@ -30,7 +30,7 @@ Infringement notice no:________________
 Election to have matter dealt with by a Court | I decline to be dealt with under the Western Australian Marine Act 1982 section 132 and elect to be prosecuted in Court for the alleged offence. ________________________________ (Name) ___________________________________/___/___ (Signature)(Date) Detach this Part and send to: [Insert details of designated officer]
 How to pay | By post | Tick the relevant box below: rI want to pay the modified penalty. A cheque or money order (payable to [insert name of designated officer]) for the modified penalty is enclosed. rI want to pay the modified penalty by credit card. Please debit my credit card account. Card type _____________________________ Cardholder name _______________________ Card number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] Expiry date of card _____/_____ Amount $__________ Signature ____________________ Detach this Part and send to: [Insert details of designated officer]
 In person | Pay the cashier at: [Insert details of designated officer]
-[Form 1 inserted in Gazette 9 Oct 2012 p. 4756-8; amended in Gazette 20 Aug 2013 p. 3849.]
+[Form 1 inserted: Gazette 9 Oct 2012 p. 4756-8; amended: Gazette 20 Aug 2013 p. 3849.]
 2.Withdrawal of infringement notice
 Part 1
 Western Australian Marine Act 1982, s. 132(5) Withdrawal of infringement notice | Withdrawal no.:
@@ -56,7 +56,7 @@ Withdrawal of infringement notice [*Delete whichever is not applicable] | The ab
 Part 2 (detachable)
 Withdrawal no:________________
 Claim for refund | I claim a refund for the modified penalty paid in accordance with the infringement notice that was withdrawn by this notice of withdrawal. ________________________________ (Name) ___________________________________/___/___ (Signature)(Date) Detach this Part and send to: [Insert details of designated officer]
-[Form 2 inserted in Gazette 9 Oct 2012 p. 4758-9.]
+[Form 2 inserted: Gazette 9 Oct 2012 p. 4758-9.]
 3.Notice requiring identification of person in charge of vessel
 Part 1
 Western Australian Marine Act 1982, s. 133(2) Notice requiring identification of person in charge of vessel | Notice no:
@@ -84,8 +84,8 @@ Name
 Address
 ___________________________________/___/___ (Signature of registered owner)(Date) Detach this section and send to: [Insert details]
 Refer to infringement notice no. ____________
-[Form 3 inserted in Gazette 9 Oct 2012 p. 4759-61.]
+[Form 3 inserted: Gazette 9 Oct 2012 p. 4759-61.]
 4.Certificate as to authorised person other than inspector
 Certificate as to authorised person other than inspector Western Australian Marine Act 1982, s. 134(1)
 TO WHOM IT MAY CONCERN ___________________________________________________ (Name) not being an inspector, is an authorised person for the purposes of the Western Australian Marine Act 1982 sections 132 and 133. ________________________________ Chief Executive Officer ________________________________ (Signature of authorised person) Appointment no. __________________
-[Form 4 inserted in Gazette 9 Oct 2012 p. 4761.]
+[Form 4 inserted: Gazette 9 Oct 2012 p. 4761.]
