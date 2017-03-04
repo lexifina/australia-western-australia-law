@@ -11,6 +11,7 @@ Reprint 1: The Dangerous Goods Safety (Security Risk Substances) Regulations 200
 Dangerous Goods Safety (Security Risk Substances) Amendment Regulations 2015 | 26 Jun 2015 p. 2263-4 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 6 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 5 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 4 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Now known as the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -41,8 +42,6 @@ level 3 fine3
 licence3, 29, 50(1)
 licensed place23(1)
 manufacture20
-Material Safety Data Sheet3
-MSDS3
 officer33(1)
 packaged 23(1)
 personal details3
@@ -50,6 +49,9 @@ proposed action43(1)
 qualified officer33(1)
 relevant offence29
 required details3
+Safe Work Australia3
+safety data sheet3
+SDS3
 secure3
 secure nominee3
 security clearance3

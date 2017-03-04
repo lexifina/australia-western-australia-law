@@ -14,6 +14,7 @@ Reprint 2: The Dangerous Goods Safety (Storage and Handling of Non-explosives) R
 Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2262-3 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 7 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 5 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
 Repealed by the Dangerous Goods Safety (Goods in Ports) Repeal Regulations 2013.
@@ -21,7 +22,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 ADG Code4
-ADG compliant135D(1), 135D(2)
+ADG compliant135D(1) and (2)
 agreed FES emergency response guide76B(1)
 alleged135M(1)
 amend29(1), 92(1)
@@ -31,17 +32,16 @@ AS4
 AS/NZS4
 berth134
 bulk4, 9A
-C1 combustible liquid4
 capacity4
 class4
 class label4
 combustible liquid4
-commencement daySch. 6 cl. 1, Sch. 6 cl. 6, Sch. 6 cl. 10
+commencement daySch. 6 cl. 1, cl. 6 and cl. 10
 compatible4
 consignor134
 consumer container4
 control temperature53(1)
-current MSDS4
+current SDS4
 damaged135O(1)
 dangerous goods4
 dangerous goods in transit4
@@ -67,6 +67,7 @@ fire risk dangerous goods4
 fire risk goods25(1A)
 flashpoint4
 free from dangerous goods4
+GHS4
 goods12A(1), 13A(1), 13B(1)
 goods too dangerous to transport4
 grace period44A(1)
@@ -78,10 +79,11 @@ hot work135O(1)
 IBC4
 ignition source4
 IMDG Code4
-IMDG compliant135D(1), 135D(3)
-importer16
+IMDG compliant135D(1) and (3)
+importer4, 16
 kg or LSch. 1, Sch. 5 cl. 1(2)
 label4
+labelling requirements13(1)
 level 1 fine4
 level 2 fine4
 level 3 fine4
@@ -94,8 +96,6 @@ LP gas4
 major hazard facility4
 manifest quantity4
 manufacturer16
-Material Safety Data Sheet4
-MSDS4
 operate4
 operator4, 134
 packaged dangerous goods4
@@ -117,6 +117,9 @@ repealed regulationsSch. 6 cl. 1
 risk assessment4
 risk control measures4
 rural dangerous goods location4
+Safe Work Australia4
+safety data sheet4
+SDS4
 small quantity dangerous goods location4
 special berth (non-explosives)134
 stabiliser53(1)

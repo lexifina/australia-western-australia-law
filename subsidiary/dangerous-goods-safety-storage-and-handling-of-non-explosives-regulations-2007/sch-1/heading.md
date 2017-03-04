@@ -17,8 +17,8 @@ Item | Description of dangerous goods | Packing group | Placarding quantity | Ma
 II and III (aggregate) | 1 000 kg or L | 10 000 kg or L
 I, II and III (aggregate) where quantity of goods in packing group I does not exceed 50 kg or L | 1 000 kg or L | 10 000 kg or L
 6. | Goods too dangerous to transport | N/A | 5 kg or L | 50 kg or L
-7. | C1 combustible liquids with fire risk dangerous goods | N/A | 1 000 L | 10 000 L
-8. | Other C1 combustible liquids | N/A | 10 000 L | 100 000 L
+7. | combustible liquids with fire risk dangerous goods | N/A | 1 000 L | 10 000 L
+8. | Other combustible liquids | N/A | 10 000 L | 100 000 L
 Note for this Schedule:
 For the purposes of item 5 in the Table —
 (a)all Type B Division 4.1 Self Reactive Substances that do not have a packing group assigned to them are to be taken to be assigned to packing group I;
@@ -27,4 +27,5 @@ For the purposes of item 5 in the Table —
 (d)all Types C to F Division 5.2 Organic Peroxides that do not have a packing group assigned to them are to be taken to be assigned to packing group II;
 (e)Class 9 dangerous goods that do not have a packing group assigned to them are to be taken to be assigned to packing group III;
 (f)all other articles and things that do not have a packing group assigned to them are to be taken to be assigned to packing group II.
+[Schedule 1 amended in Gazette 3 Mar 2017 p. 1481.]
 [Schedule 2 deleted in Gazette 2 Dec 2013 p. 5562.]

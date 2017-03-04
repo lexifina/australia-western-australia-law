@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 October 2016 of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Explosives) Regulations 2007 | 31 Dec 2007 p. 6541-717 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -21,6 +21,7 @@ Dangerous Goods Safety (Explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 2 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Reprint 2: The Dangerous Goods Safety (Explosives) Regulations 2007 as at 7 Oct 2016 (includes amendments listed above)
+Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 2 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -31,7 +32,7 @@ ADG Code3
 AE Code3
 aerial shell3
 affected person39(1)
-airport manager148(2)(d)
+airport manager148(2)
 alternative safety measures3
 amend172(1)
 ammunition3
@@ -91,7 +92,7 @@ fee3
 FES Commissioner3
 fill73(1)
 firework3
-fireworks contractor101(2)(a)
+fireworks contractor101(2)
 fireworks event3, 136
 fireworks event permit3
 flash powderSch. 2 cl. 2(1)
@@ -116,7 +117,6 @@ level 3 fine3
 licence3, 156(1), 194(1), Sch. 10 cl. 1
 magazine185
 manufacture3
-Material Safety Data Sheet3
 medical practitioner3
 MHF163(1)
 MHF Regulations163(1)
@@ -124,7 +124,6 @@ mine3
 mobile processing unit3
 model rocket motor3
 MPU3
-MSDS3
 multi-shot box itemSch. 2 cl. 2(1)
 NEQ3
 officer165(1)
@@ -158,8 +157,11 @@ required planSch. 10 cl. 1
 responsible person36(1)
 road3
 road vehicle95(1)
+Safe Work Australia3
 safely74(1)
+safety data sheet3
 saluteSch. 2 cl. 2(1)
+SDS3
 secure3
 secure nominee3
 security card3
@@ -168,8 +170,8 @@ security document22(1)
 security sensitive ammonium nitrate3
 SEF185
 sell3
-shotfirer129(1)(a), 133(1)(a), 134(3)(a)
-site149(1)(c), 161(2)(a) and (4)(a)
+shotfirer129(1), 133(1), 134(3)
+site149(1), 161(2) and (4)
 sky rocketSch. 2 cl. 2(1)
 special berth (explosives)111A(2)
 SSAN3
@@ -177,7 +179,7 @@ SSAN licence190(1)
 State explosives facility3
 State land3
 store3
-submission date175(2)(e)
+submission date175(2)
 supervised3
 supervised access3
 supply3

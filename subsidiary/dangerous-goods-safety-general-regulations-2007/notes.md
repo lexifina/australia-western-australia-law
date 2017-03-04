@@ -6,6 +6,7 @@ Dangerous Goods Safety (General) Regulations 2007 | 31 Dec 2007 p. 7143-60 | r. 
 Dangerous Goods Safety (General) Amendment Regulations 2010 | 22 Jun 2010 p. 2780-2 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2010 (see r. 2(b))
 Dangerous Goods Safety (General) Amendment Regulations 2012 | 16 Mar 2012 p. 1257-9 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 3 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 3 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
