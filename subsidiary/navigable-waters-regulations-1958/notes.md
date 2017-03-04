@@ -142,6 +142,7 @@ Navigable Waters Amendment Regulations (No. 3) 2014 | 25 Jul 2014 p. 2581-91 | r
 Reprint 16: The Navigable Waters Regulations 1958 as at 5 Dec 2014 (includes amendments listed above)
 Navigable Waters Amendment Regulations 2015 | 29 May 2015 p. 1881-2 | r. 1 and 2: 29 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 27 May 2016 p. 1549-54 | 1 Jul 2016 (see r. 2(b))
+Transport Regulations Amendment (Lifejackets) Regulations 2017 Pt. 2 | 3 Mar 2017 p. 1484-91 | 4 Mar 2017 (see r. 2(b))
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
 Defined terms
@@ -149,9 +150,10 @@ Defined terms
 Defined termProvision(s)
 ABP standard45A(2)
 Acts2
-appropriate personal flotation device50B(3)
+appropriate lifejacket50B(1)
 appropriate signal19E(4)
-AS/NZS52BAB(1A)
+AS46(2)
+AS/NZS46(2)
 authorised person2
 CEO47(1)
 department2
@@ -164,13 +166,14 @@ freestyle driving50A(4)
 higher qualification47C(7)
 hull identification number45A(2)
 inspector2
+ISO46(2)
 jetty21
 learner47B(2)
-Level 10046(2)
-Level 15046(2)
-Level 27546(2)
-Level 5046(2)
-Level 50S (Special)46(2)
+Level 100 lifejacket46(2)
+Level 150 lifejacket46(2)
+Level 275 lifejacket46(2)
+Level 50 lifejacket46(2)
+Level 50S lifejacket46(2)
 motor boat2
 navigable waters2
 officer of the department 2
@@ -194,7 +197,7 @@ RST vessel47(1)
 sailboard46(2)
 sailboard riding46(2)
 shore51D(1B), 52BAD(1)
-SOLAS jacket46(2)
+SOLAS lifejacket 46(2)
 speed boat2
 surfing50A(4)
 tender45A(2)

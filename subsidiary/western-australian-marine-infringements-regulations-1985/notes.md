@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 December 2013 of the Western Australian Marine (Infringements) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Western Australian Marine (Infringements) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Western Australian Marine (Infringements) Regulations 1985 | 4 Oct 1985 p. 3866-70 | 4 Jan 1986 (see r. 2)
@@ -27,6 +27,7 @@ Western Australian Marine (Infringements) Amendment Regulations 2012 | 9 Oct 201
 Western Australian Marine (Infringements) Amendment Regulations (No. 2) 2012 | 4 Jan 2013 p. 9 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2013 (see r. 2(b))
 Western Australian Marine (Infringements) Amendment Regulations 2013 | 20 Aug 2013 p. 3849 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Reprint 3: The Western Australian Marine (Infringements) Regulations 1985 as at 6 Dec 2013 (includes amendments listed above)
+Transport Regulations Amendment (Lifejackets) Regulations 2017 Pt. 3 | 3 Mar 2017 p. 1484-91 | 4 Mar 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

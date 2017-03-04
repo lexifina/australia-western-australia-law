@@ -1,6 +1,6 @@
 ## Schedule 1 — Modified penalties
 [r. 3]
-[Heading inserted in Gazette 13 Nov 2009 p. 4538.]
+[Heading inserted: Gazette 13 Nov 2009 p. 4538.]
 Item | Navigable Waters Regulations 1958 | Description of offence | Modified penalty $
 1 | 6A | Failing to comply with directions | 200
 1AA | 10(a) | Obstructing, impeding or interfering with passage of vessel approaching or leaving public jetty or bridge | 100
@@ -47,18 +47,18 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 23I | 47H | Failing to produce recreational skipper’s ticket on request | 200
 23J | 47I | Holder of recreational skipper’s ticket failing to notify change of details | 120
 24 | 48(a)(i) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing in water with a depth of less than 3 m | 160
-24A | 48(a)(ii) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 45 m of a river bank or low water mark | 160
+24A | 48(a)(ii) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 50 m of a river bank or low water mark | 160
 24B | 48(b) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing in or through mooring area | 160
 24C | 48(c) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 15 m of a vessel under weigh | 160
-24D | 48(d)(i) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 45 m of a moored vessel | 160
-24E | 48(d)(iii) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 45 m of a person in the water | 200
-24F | 48(d)(iv) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 45 m of a jetty or wharf | 160
+24D | 48(d)(i) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 50 m of a moored vessel | 160
+24E | 48(d)(iii) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 50 m of a person in the water | 200
+24F | 48(d)(iv) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 50 m of a jetty or wharf | 160
 24G | 48(e) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing through an arch of a bridge | 160
 25 | 48A(2) | Driving motor boat towing para-sailor or water skier in area not set aside for purpose | 200
 26 | 49(1) | Towing para-sailor or water skier without observer in towing speed boat | 160
 27 | 49(2) | Driver of or observer in speed boat towing para-sailor or water skier failing to maintain constant lookout or watch | 120
 [28deleted]
-29 | 49C | Failing to drive speed boat at least 45 m behind water skier or other boat | 120
+29 | 49C | Failing to drive speed boat at least 50 m behind water skier or other boat | 120
 30 | 49D | Driver of boat about to take off failing to yield right of way to speed boat landing water skier | 60
 31 | 49E | Trailing ski rope within 30 m of shore in water ski area | 60
 32 | 49G | Failing to keep speed boat towing water skier at least 30 m from shore when not engaged in landing or taking off water skier | 60
@@ -72,12 +72,12 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 38 | 50 | Driving motor boat towing water skier between sundown and 8am on Swan River or between sundown and 9am on Canning River | 200
 38A | 50A(2) | Freestyle driving, surfing or wave jumping in a prohibited area | 200
 38B | 50A(3) | Freestyle driving, surfing or wave jumping within — (a)30 m of another personal watercraft; or (b)50 m of any other vessel or person | 200
-38C | 50B | Failing to wear an appropriate flotation device while on a personal watercraft | 200
+38C | 50B | Failing to wear an appropriate lifejacket while on a personal watercraft | 200
 39 | 51 | Using motor boat not fitted with efficient silencer approved by Department | 160
 40 | 51A | Causing or permitting motor boat to emit smoke or vapour causing danger, nuisance or annoyance . | 160
 40A | 51D | Failing to fit a bilge pump | 160
 41 | 52 | Failing to equip vessel with approved fire extinguisher | 160
-42 | 52A | Failing to equip vessel with required number of approved life jackets whilst being navigated outside protected waters | 200
+42 | 52A | Failing to equip vessel with required number of lifejackets whilst being navigated outside protected waters | 200
 43 | 52B | Failing to equip vessel with required number of distress signals whilst being navigated outside protected waters | 160
 43A | 52BAA | Failing to equip vessel with an approved and licensed marine transceiver | 200
 43B | 52BAB | Failing to equip vessel with an approved Electronic Position Indicating Radio Beacon | 200
@@ -147,4 +147,4 @@ Item | Mooring Regulations 1998 | Description of offence | Modified penalty $
 99 | 6(2)(a) | Securing vessel to mooring on licensed mooring site when another vessel is secured to the mooring | 100
 100 | 6(2)(b) | Securing vessel to another vessel secured to a mooring on a licensed mooring site | 100
 101 | 6A | Securing vessel in a mooring control area for more than 6 hours | 100
-[First Schedule inserted in Gazette 9 Jun 1992 p. 2381-2; amended in Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9.]
+[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1.]
