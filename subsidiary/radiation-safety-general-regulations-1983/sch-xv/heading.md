@@ -50,6 +50,6 @@ In the case of —
 (a)radioactive substances | 33
 (b)irradiating apparatus and/or electronic products | 33
 [Part 2 inserted in Gazette 19 May 2015 p. 1756-7; amended in Gazette 17 Jun 2016 p. 2104.]
-Part 3 — Records
+## Part 3 — Records
 1.Fee for copy of records (per page) | 2
 [Schedule XV inserted in Gazette 28 Jun 1996 p. 3022-4; amended in Gazette 30 Jun 1999 p. 2875-6; 19 May 2015 p. 1754-7.]
