@@ -4,4 +4,4 @@
 1. | Charge payable for lodging an application for the review of a decision by the Director (rule 5 and section 25 of the Act) | 405.00
 2. | Charge payable for lodging an appeal against a decision of the Commission constituted by one member (rule 6 and section 28(4a) of the Act) | 405.00
 3. | Cost per page for the supply of a copy of a document or transcript of an electronic recording under rule 14 | 5.00
-[Schedule 1 amended in Gazette 1 Dec 2009 p. 4816; 21 Jun 2011 p. 2251-2; 18 Nov 2014 p. 4328.]
+[Schedule 1 amended: Gazette 1 Dec 2009 p. 4816; 21 Jun 2011 p. 2251-2; 18 Nov 2014 p. 4328.]
