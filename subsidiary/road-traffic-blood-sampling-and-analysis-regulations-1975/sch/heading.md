@@ -16,9 +16,9 @@ ROAD TRAFFIC ACT 1974
 Regulation 8: Road Traffic (Blood Sampling and Analysis) Regulations 1975
 FORM B
 Part I
-By Medical Practitioner or Registered Nurse:
-I ............................................................ of ............................................................. duly qualified medical practitioner or registered nurse hereby certify that:
-1.At the hour of ....................................m. on the ........................................... day of ............................................................ 20................ I took a sample of the blood of .................................... of ............................. portion of which sample is now contained in the enclosed container numbered .............................................
+By prescribed sample taker:
+I ............................................................ of ............................................................. prescribed sample taker, hereby certify that:
+1.At the hour of ....................................m. on the ........................................... day of ............................................................ 20................ I took a sample of the blood of .................................... of ............................., a portion of which sample is now contained in the enclosed container numbered .............................................
 2.The equipment used for the purpose of taking that blood sample was contained in a package serially numbered .................................... handed to me by ................................................. and that package was sealed and intact prior to being opened by me.
 3.In taking the blood sample I complied with regulation 7 of the Road Traffic (Blood Sampling and Analysis) Regulations 1975.
 .................................................
@@ -37,7 +37,7 @@ Alleged time of last drink containing alcohol consumed by subject:
 ...................................................
 Signature, Rank and Number.
 [Diagram deleted]
-[Form B amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 8 Jan 2010 p. 33; 4 Nov 2014 p. 4206; 23 Dec 2014 p. 4916.]
+[Form B amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 8 Jan 2010 p. 33; 4 Nov 2014 p. 4206; 23 Dec 2014 p. 4916; 7 Feb 2017 p. 1173.]
 Western Australia.
 ROAD TRAFFIC ACT 1974
 Regulation 10: Road Traffic (Blood Sampling and Analysis) Regulations 1975
@@ -58,15 +58,15 @@ Regulation 12: Road Traffic (Blood Sampling and Analysis) Regulations 1975
 FORM D
 To:(1) ...................................................................................................................
 at (2) ...................................................................................................................
-Acting pursuant to the provisions of section 66(5) or 66B(1) of the Road Traffic Act 1974, I, the undersigned police officer, hereby request you the said (1) .............................................................................. to take a sample of the blood of (3) ............................................................................................................ presently at (4) ................................................................................................... in accordance with the abovementioned regulations.
+Acting pursuant to the provisions of section 66(5), 66(8B) or 66B(1) of the Road Traffic Act 1974, I, the undersigned police officer, hereby request you the said (1) .............................................................................. to take a sample of the blood of (3) ............................................................................................................ presently at (4) ................................................................................................... in accordance with section 69 of the Road Traffic Act 1974.
 Dated at ................................................ this ......................................... day of........................................, 20..............
 ...................................................
 Signature, Rank and Number.
-(1)Insert name of medical practitioner or registered nurse or the words Medical Superintendent, Medical Officer in Charge, Medical Registrar or Registered Nurse, as the case may require.
+(1)Insert name of prescribed sample taker.
 (2)Address or name of hospital, as the case may require.
 (3)Name of subject.
 (4)Place where subject is then to be found.
-[Form D amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 11 Oct 2007 p. 5478; 23 Dec 2014 p. 4916.]
+[Form D amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 11 Oct 2007 p. 5478; 23 Dec 2014 p. 4916; 7 Feb 2017 p. 1173-4.]
 FORM E
 Western Australia
 ROAD TRAFFIC ACT 1974
