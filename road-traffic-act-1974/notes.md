@@ -157,7 +157,7 @@ Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (ot
 Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Medicines and Poisons Act 2014 and the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 (other than Div. 2 and s. 46, 53 and 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 (other than Div. 2 and s. 46, 53 and 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279)
+Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1, Div. 4 Subdiv. 1 (other than s 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 1 Subdiv. 1, Div. 3 Subdiv. 1 (other than s. 46 and 53) and Div. 4 Subdiv. 1 (other than s. 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279); Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 338)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -166,7 +166,7 @@ Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Legislation Amendment Act 2016 Pt. 3 Div. 2, and s. 46, 53 and 64 | 25 of 2016 | 21 Sep 2016 | Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9); s. 64: To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | s. 64: To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -305,102 +305,7 @@ This Division amends the Road Traffic Act 1974.
 326.Section 70 amended
 In section 70(7) delete the definition of technologist and insert:
 technologist means a person approved, or belonging to a class of persons approved, by the Minister to prepare sampling equipment.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 Pt. 3 (other than Div. 2, s. 46, 53 and 64) had not come into operation. They read as follows:
-Part 3 — Amendments that will be brought into operation by proclamation
-Division 2 — Amendments relating to taking samples
-30.Act amended
-This Division amends the Road Traffic Act 1974.
-31.Section 64AB amended
-In section 64AB(7) delete “4 hours” and insert:
-4 hours, or 12 hours if the sample was taken under section 66(8B),
-32.Section 64AC amended
-In section 64AC(4) delete “4 hours” and insert:
-4 hours, or 12 hours if the sample was taken under section 66(8B),
-33.Section 65 amended
-In section 65 insert in alphabetical order:
-prescribed sample taker means —
-(a)a medical practitioner or registered nurse; or
-(b)an appropriately qualified person prescribed for the purposes of the provision in which the term is used;
-34.Section 66 amended
-After section 66(6a) insert:
-(7) Subsection (8B) applies if a police officer has reasonable grounds to believe that —
-(a) the presence of a motor vehicle has occasioned, or its use has been an immediate or proximate cause of serious bodily harm to, or the death of, a person; and
-(b) a person (the person) may have been the driver or person in charge of the motor vehicle at the time of that presence or use.
-(8A) In subsection (7) —
-serious bodily harm, in relation to a person, means bodily harm that the police officer has reasonable grounds to believe is likely to require the attendance of the person at a hospital (whether or not that is practicable).
-(8B) If this subsection applies, a police officer may —
-(a) require the person to do one or both of the following —
-(i) allow a prescribed sample taker to take a sample of the person’s blood for analysis;
-(ii) provide a sample of the person’s urine for analysis;
-or
-(b) where the person is incapable of complying with that requirement — cause a prescribed sample taker to take a sample of the person’s blood for analysis.
-(8C) For the purposes of subsection (8B), a police officer may require the person to accompany a police officer to a police station or some other place, and may require the person to wait at the police station or place.
-(8) A police officer must not make a requirement under subsection (8B)(a), or cause a prescribed sample taker to take a sample under subsection (8B)(b), if it appears to the police officer that the sample cannot be taken or provided within 12 hours after the time of the presence or use of the motor vehicle referred to in subsection (7)(a).
-35.Section 69 amended
-(1) In section 69(1) delete the passage that begins with “Act,” and continues to the end of the subsection and insert:
-Act.
-(2) After section 69(1a) insert:
-(2A) The prescribed sample taker must ensure that both samples are delivered to a police officer.
-(2B) One of the samples must be delivered, on behalf of the person from whom the samples were taken, to the Chemistry Centre (WA) by a police officer or a person appointed or engaged for that purpose.
-36.Section 69A amended
-(1) In section 69A:
-(a) delete “Where pursuant” and insert:
-(1) Where pursuant
-(b) delete the passage that begins with “Act,” and continues to the end of the section and insert:
-Act.
-(2) At the end of section 69A insert:
-(2) The prescribed sample taker must ensure that both samples are delivered to a police officer.
-(3) One of the samples must be delivered, on behalf of the person who provided the samples, to the Chemistry Centre (WA) by a police officer or a person appointed or engaged for that purpose.
-37.Section 69B amended
-(1) In section 69B:
-(a) delete “If the drug” and insert:
-(1) If the drug
-(b) delete the passage that begins with “Act,” and continues to the end of the section and insert:
-Act.
-(2) At the end of section 69B insert:
-(2) The authorised drug tester must ensure that both samples are delivered to a police officer.
-(3) One of the samples must be delivered, on behalf of the person who provided the samples, to the Chemistry Centre (WA) by a police officer or a person appointed or engaged for that purpose.
-38.Sections 70A and 70B inserted
-After section 69B insert:
-70A.Blood, urine or oral fluid sample: delivery of person’s sample to Chemistry Centre (WA)
-(1) A sample of blood, urine or oral fluid delivered to the Chemistry Centre (WA) on behalf of a person under section 69(2B), 69A(3) or 69B(3) must be retained, and appropriately stored, by the Chemistry Centre (WA) until the person requests the sample.
-(2) The person may, within 3 months after the day on which the sample was delivered to the Chemistry Centre (WA), request that the sample be delivered to an analyst (as defined in the Misuse of Drugs Act 1981 section 3(1)) nominated by the person, for analysis.
-(3) The cost of delivering the sample is to be paid for by the person.
-(4) Despite subsection (1), the Chemistry Centre (WA) need not store the sample for more than 3 months.
-70B.Evidence of delivery of blood, urine or oral fluid samples
-(1) In proceedings for an offence against section 63, 64, 64AA, 64A, 64AAA, 64AB or 64AC, evidence of the delivery of a sample to an analyst or drug analyst may be given in the form of a certificate in which a person who took delivery of the sample sets out the prescribed particulars of the delivery of the sample to the person together with their signature.
-(2) In the absence of evidence to the contrary —
-(a) it is to be presumed that each signature on the certificate is the signature of the person of whom it purports to be the signature; and
-(b) the certificate is evidence of its contents.
-(3) Except with the consent of the accused, evidence of the delivery of a sample to a person in the form of a certificate cannot be given in the proceedings and, if it is given, is not admissible, unless a copy of the certificate is given to the accused at least 28 days before the proceedings.
-(4) If a copy of the certificate has been given as required by subsection (3), the accused cannot challenge or call into question a matter set out in the certificate unless —
-(a) notice in writing of the accused’s intention is given to the prosecutor at least 14 days before the proceedings; or
-(b) the court, in the interests of justice, gives the accused leave to so do.
-(5) A notice under subsection (4)(a) must specify the matter that is to be challenged or called into question.
-39.Section 70 amended
-(1) In section 70(1)(d) and (3a)(a) and (b) delete “4 hours” and insert:
-4 hours, or 12 hours if the sample was taken under section 66(8B),
-(2) In section 70(3b) delete “medical practitioner, registered nurse,” and insert:
-prescribed sample taker,
-40.Various references to “medical practitioner or registered nurse” amended
-In the provisions listed in the Table delete “medical practitioner or registered nurse” (each occurrence) and insert:
-prescribed sample taker
-Table
-s. 66(2), (5), (6), (6a), (11) and (12) | s. 66B(1), (2) and (4)
-s. 66E(1), (2) and (4) | s. 66F(1) and (2)
-s. 67(2) | s. 67AA(2)
-s. 67AB(2) | s. 67A(2)
-s. 68(3) and (7) | s. 69(1)
-s. 69A | s. 70(1), (2), (3a) and (3b)
-s. 72(1)
-Note:The heading to amended section 66F is to read:
-Prescribed sample takers authorised to take blood samples
-46.Section 62C amended
-In section 62C(2) delete “4 hours” and insert:
-4 hours, or 12 hours if the sample was taken under section 66(8B),
-53.Section 70B amended
-In section 70B(1) after “offence against section” insert:
-62B, 62C,
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 s. 64 had not come into operation. It reads as follows:
 64.Section 110 inserted
 At the end of Part VIII insert:
 110.Transitional provisions for the Road Traffic Legislation Amendment Act 2016
@@ -412,7 +317,7 @@ Defined terms
 Defined termProvision(s)
 above the speed limit49AAA
 alleged offence71C(1), 71C(1)
-alleged offender71C(1), 71C(1), 79BCA(1), 79BCD(1), 79D(2), 79D(2), 79D(2), 79D(2), 79D(6)
+alleged offender71C(1), 79BCA(1), 79BCD(1), 79D(2), 79D(6)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
 amendment Act109(1)
@@ -436,7 +341,7 @@ confiscation zone49AAA
 day of the offence78A(1)
 dentist65
 disqualification notice71C(2)
-driver49A(1), 54(1), 54(2), 54(6), 55(1), 55(4), 56(1), 56(4), 59(1), 59A(1), 59BA(1), 79BC(1)
+driver49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1) and (4), 59(1), 59A(1), 59BA(1), 79BC(1)
 driver assessment65
 drug65
 drug testing65
@@ -455,7 +360,7 @@ impounding offence (driving)78A(1)
 impounding or confiscation order78A(1)
 impounding order78A(1)
 impounding period78A(1)
-impounding provision79BA(1), 79BA(1), 79BCA(5), 79BCD(5)
+impounding provision79BA(1), 79BCA(5), 79BCD(5)
 initially impounded vehicle79BCA(1)
 instructor49AAA
 interest78A(1)
@@ -477,6 +382,7 @@ post-impoundment expenses80I(1A)
 preliminary oral fluid test65
 preliminary test65
 prescribed illicit drug65
+prescribed sample taker65
 previous offender79(1A), 79BC(1)
 provide driving instruction49AAA
 reasonable expenses78A(1)
@@ -492,6 +398,7 @@ school zone49AAA
 self-testing breath analysing equipment65
 selling expenses80LA(2)
 senior police officer78A(1)
+serious bodily harm66(8A)
 service79D(1)
 shorter impounding period79BC(2), 79BC(3)
 speed limit49AAA
@@ -505,6 +412,7 @@ suspected use80N
 taxi79D(1)
 taxi operator79D(1)
 technologist70(7)
+the person66(7)
 time of sampling71(1)
 uncollected vehicle80J(1), 80M(1)
 undergoes65
