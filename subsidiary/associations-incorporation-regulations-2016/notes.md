@@ -1,13 +1,16 @@
 Notes
-This is a compilation of the Associations Incorporation Regulations 2016. The following table contains information about those regulations.
+This is a compilation of the Associations Incorporation Regulations 2016 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Associations Incorporation Regulations 2016 | 24 Jun 2016 p. 2407-77 | 1 July 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291-2)
+Associations Incorporation Amendment Regulations 2017 | 10 Mar 2017 p. 1565-6 | r. 1 and 2: 10 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Mar 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+1987 Act notice19(1)
 accounting standards20(1)
 ActSch. 2 cl. 1
+address for service19(1)
 associate memberSch. 2 cl. 1
 AssociationSch. 2 cl. 1
 association’s proposal14(2)
