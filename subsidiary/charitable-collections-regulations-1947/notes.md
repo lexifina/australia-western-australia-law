@@ -19,6 +19,7 @@ Charitable Collections Amendment Regulations 2009 | 12 Jun 2009 p. 2106-7 | r. 1
 Charitable Collections Amendment Regulations 2011 | 30 Jun 2011 p. 2647 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 3: The Charitable Collections Regulations 1947 as at 26 Apr 2013 (includes amendments listed above)
 Charitable Collections Amendment Regulations 2013 | 20 Aug 2013 p. 3824 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Charitable Collections Amendment Regulations 2017 | 10 Mar 2017 p. 1567 | r. 1 and 2: 10 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Mar 2017 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
 The Charitable Collections Amendment Regulations 2000 r. 12 reads as follows:
 12.Savings and transition
