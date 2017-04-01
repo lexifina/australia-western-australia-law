@@ -18,6 +18,7 @@ Building Services (Registration) Amendment Regulations (No. 2) 2014 | 19 Dec 201
 Reprint 2: The Building Services (Registration) Regulations 2011 as at 8 May 2015 (includes amendments listed above)
 Building Services (Registration) Amendment Regulations 2015 | 23 Jun 2015 p. 2165-7 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+Building Services (Registration) Amendment Regulations 2017 | 31 Mar 2017 p. 1941-2 | r. 1 and 2: 31 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2017 (see r. 2(b))
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
 The Local Government (Building Surveyors) Regulations 2008 were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
