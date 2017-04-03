@@ -20,18 +20,9 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 3) 2015 | 13 Nov 2015 p. 4633-7 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); r. 5: 14 Nov 2015 (see r. 2(b)); Regulations other than 1, 2, 5, 7, 17(2) and 18: 30 Nov 2015 8.00 am (see r. 2(d)); r. 7, 17(2) and 18: 1 Jul 2016 8.00 am (see r. 2(c) and Gazette 31 May 2016 p. 1657)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 4) 2015 | 25 Nov 2015 p. 4741-2 | r. 1 and 2: 25 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2015 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2016 | 24 Jun 2016 p. 2296-303 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 30 Jun 2016 p. 2695)
-Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2016 (other than r. 9) | 23 Nov 2016 p. 5265-9 | r. 1 and 2: 23 Nov 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 9: 24 Nov 2016 (see r. 2(c) and Gazette 23 Nov 2016 p. 5249)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2016 r. 9 | 23 Nov 2016 p. 5265-9 | 3 Apr 2017 (see r. 2(b))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2016 | 23 Nov 2016 p. 5265-9 | r. 1 and 2: 23 Nov 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 9: 24 Nov 2016 (see r. 2(c) and Gazette 23 Nov 2016 p. 5249); Regulation 9: 3 Apr 2017 (see r. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Energy Arbitration and Review Act 1998.
-Footnote no longer required.
-On the date as at which this compilation was prepared, the Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2016 r. 9 had not come into operation. It reads as follows:
-9.Regulation 12B amended
-After regulation 12B(2) insert:
-(3) The Rule Change Panel is responsible for the development, in accordance with the market rules, of amendments of and replacements for the market rules.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
