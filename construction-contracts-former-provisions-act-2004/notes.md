@@ -6,21 +6,7 @@ Compilation table
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 38 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Building Services (Complaint Resolution and Administration) Act 2011 s. 128 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
  | Reprint 1: The Construction Contracts Act 2004 as at 12 Aug 2016 (includes amendments listed above)
-Construction Contracts Amendment Act 2016 | 55 of 2016 | 29 Nov 2016 | s. 1 and 2: 29 Nov 2016 (see s. 2(a)); Act other than s. 1, 2, 7 and 20: 15 Dec 2016 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Construction Contracts Amendment Act 2016 s. 7 and 20 | 55 of 2016 | 29 Nov 2016 | 3 Apr 2017 (see s. 2(c))
-On the date as at which this compilation was prepared, the Construction Contracts Amendment Act 2016 s. 7 and 20 had not come into operation. They read as follows:
-7.Section 10 amended
-In section 10 delete “50 days” (each occurrence) and insert:
-42 days
-Note:The heading to amended section 10 is to read:
-Prohibited: provisions requiring payment to be made after 42 days
-20.Section 60 inserted
-After section 59 insert:
-60.Payment periods: contracts entered into before 3 April 2017
-Section 10 applies to a construction contract entered into before 3 April 2017 as if the Construction Contracts Amendment Act 2016 section 7 had not come into operation.
+Construction Contracts Amendment Act 2016 | 55 of 2016 | 29 Nov 2016 | s. 1 and 2: 29 Nov 2016 (see s. 2(a)); Act other than s. 1, 2, 7 and 20: 15 Dec 2016 (see s. 2(b)); s. 7 and 20: 3 Apr 2017 (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
