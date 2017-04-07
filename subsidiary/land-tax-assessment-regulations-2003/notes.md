@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 April 2017 of the Land Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Land Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2409-14 | 1 Jul 2003 (see r. 2(1) and Gazette 27 Jun 2003 p. 2383)
@@ -13,17 +13,20 @@ Electricity Corporations (Consequential Amendments) Regulations 2013 r. 13 | 27 
 Land Tax Assessment Amendment Regulations 2014 | 30 Jun 2014 p. 2425-6 | r. 1 and 2: 30 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Land Tax Assessment Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3340 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2014 (see r. 2(b)(i))
 Land Tax Assessment Amendment Regulations 2015 | 18 Sep 2015 p. 3813-15 | r. 1 and 2: 18 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2015 (see r. 2(b))
+Reprint 2: The Land Tax Assessment Regulations 2003 as at 7 Apr 2017 (includes amendments listed above)
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 3 of those regulations read as follows:
-“
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. Regulations 1-4 and Pt. 3 Div. 3 of those regulations read as follows:
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 2.Commencement
 These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
 3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
+(1) Subject to this regulation, the modifications prescribed in Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:
+(3) The modifications prescribed in Part 2 have effect on and from 1 July 2008.
+(4) The modification in regulation 29 has effect on and from 25 June 2010.
+(5) The modifications in regulation 47 have effect on and from 1 July 2008.
+Note for this regulation:
 Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
 4.Modification of State taxing laws
 (1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
@@ -36,13 +39,14 @@ then —
 (e) the person is not required to take the action under the State taxing law; and
 (f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
 (3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
+Note for this regulation:
+If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Part 3 — Land tax
 Division 3 — The Land Tax Assessment Regulations 2003
 19.Modification of the Land Tax Assessment Regulations 2003
 This Division sets out modifications of the Land Tax Assessment Regulations 2003 in their application as a law of Western Australia.
 20.Regulation 3A inserted
 After regulation 3 the following regulation is inserted —
-“
 3A.Application of regulations in non-Commonwealth places
 (1) In this regulation —
 applied Land Tax Assessment Regulations means the Land Tax Assessment Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act.
@@ -53,19 +57,18 @@ applied Land Tax Assessment Regulations means the Land Tax Assessment Regulation
 (d) a reference to the Land Tax Assessment Act 1976 is to be read as a reference to that Act in its application, before 1 July 2003, as a law of Western Australia; and
 (e) a reference to the Land Tax Assessment Regulations 1976 is to be read as a reference to those regulations in their application, before 1 July 2003, as a law of Western Australia.
 (3) These regulations are to be read with the applied Land Tax Assessment Regulations as a single body of law.
-”.
-”.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 3 Div. 3 of that notice read as follows:
-“
+Under the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8(2) these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. Clauses 1-5 and Pt. 3 Div. 3 of that notice read as follows:
 1.Citation
 This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 2.Commencement
 This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
 3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
+(1) Subject to this regulation, the modifications prescribed in Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:
-Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
+(3) The modifications prescribed in Part 2 have effect on and from 1 July 2008.
+(4) The modification prescribed in clause 30 has effect on and from 25 June 2010.
+(5) The modifications prescribed in clause 51 have effect on and from 1 July 2008.
+Note: Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
 applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
@@ -82,13 +85,13 @@ then —
 (e) the person is not required to take the action under the applied WA law; and
 (f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
 (3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
+Note:If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined item.
 Part 3 — Land tax
 Division 3 — The applied Land Tax Assessment Regulations 2003
 20.Modification of the applied Land Tax Assessment Regulations 2003
 This Division sets out modifications of the Land Tax Assessment Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia.
 21.Regulation 3A inserted
 After regulation 3 the following regulation is inserted —
-“
 3A.Application of regulations in Commonwealth places
 (1) In this regulation —
 corresponding Land Tax Assessment Regulations means the Land Tax Assessment Regulations 2003 of Western Australia in their application as a law of Western Australia.
@@ -99,13 +102,11 @@ corresponding Land Tax Assessment Regulations means the Land Tax Assessment Regu
 (d) a reference to the Land Tax Assessment Regulations 1976 is to be read as a reference to those regulations in their application, before 1 July 2003, as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act.
 (3) These regulations are to be read with the corresponding Land Tax Assessment Regulations as a single body of law.
 (4) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, these regulations are deemed to be further modified to any extent that is necessary or convenient to enable these regulations to operate effectively as a law of the Commonwealth.
-”.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 A3(2)
-amount paid9(1), 9(2)
+amount paid9(1) and (2)
 arrears3(1)
 assessed amount3(1)
 DA3(2)
@@ -115,6 +116,6 @@ option 13(1)
 option 23(1)
 option 33(1)
 RA3(2)
-relevant assessment notice3(1), 3(1)
-relevant provision10A(1)
+relevant assessment notice3(1)
+relevant provision10A(1)(a)
 residual amount3(1)
