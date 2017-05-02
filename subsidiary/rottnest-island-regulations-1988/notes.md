@@ -46,11 +46,43 @@ Rottnest Island Amendment Regulations (No. 2) 2015 | 22 Sep 2015 p. 3849-63 | r.
 Rottnest Island Amendment Regulations 2016 | 5 Apr 2016 p. 1028-9 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 2) 2016 | 17 Jun 2016 p. 2112-14 | r. 1 and 2: 17 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 3) 2016 | 25 Oct 2016 p. 4874-7 | r. 1 and 2: 25 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Oct 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Rottnest Island Amendment Regulations 2017 r. 3-67 | 2 May 2017 p. 2305-6 | 1 Jul 2017 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
 The Rottnest Island Amendment Regulations 1997 r. 5(2) is a transitional provision that is of no further effect.
 The Rottnest Island Amendment Regulations 2003 r. 4(3) is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Rottnest Island Amendment Regulations 2017 r. 3-6 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Rottnest Island Regulations 1988.
+4.Schedule 6 amended
+(1) In Schedule 6 item 1 delete “$51.50” and insert:
+$52.50
+(2) In Schedule 6 item 2 delete “$44.00” and insert:
+$45.00
+5.Schedule 7 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 7 Pt. 1 it. 1 | $42.50 | $43.50
+Sch. 7 Pt. 1 it. 2 | $23.50 $53.00 | $24.00 $54.00
+Sch. 7 Pt.1 it. 3 | $242.00 $275.00 $330.50 $551.00 | $248.00 $282.00 $339.00 $565.00
+Sch. 7 Pt. 1 it. 5A | $100.00 | $102.50
+Sch. 7 Pt. 2 it. 5 | $52.50 | $53.50
+Sch. 7 Pt. 2 it. 6 | $985.50 $98.50/m | $1 011.00 $101.00/m
+Sch. 7 Pt. 2 it. 7A | $21.50 | $22.00
+Sch. 7 Pt. 2 it. 7B | $268.50 | $275.00
+Sch. 7 Pt. 3 it. 7 | $50.00/m | $51.00/m
+6.Schedule 8 amended
+Amend Schedule 8 as set out in the Table.
+Table
+Delete | Insert
+$57.00 | $58.00
+$408.50/m | $418.50/m
+$652.00/m | $669.00/m
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
