@@ -18,10 +18,7 @@ as expanded or altered from time to time.
 but in preparing a report under section 27(1)(a) a transmitter or distributor is to set out the information mentioned in items 7 and 11, so far as it relates to the operations of the transmitter or distributor, for the whole of the discrete area described in paragraph (c) and also for each of the following areas separately —
 (d) the area served by the North West interconnected system;
 (e) each area of the State served by an isolated system.
-3.For the purposes of item 14 each of the following is a discrete area —
-(a) the Perth CBD;
-(b) the urban areas other than the Perth CBD;
-(c) all other areas of the State.
+[3.deleted]
 4.In respect of each failure by the transmitter or distributor to comply with a provision of this Code or an instrument under section 14(3) (as identified by monitoring records or under section 24 or following a complaint) —
 (a) the total number of breaches of each provision; and
 (b) the remedial action taken in each case.
@@ -43,8 +40,5 @@ and in the case of interruptions referred to in paragraph (a), the number of int
 13.For each paragraph of item 11, the average of the 4 amounts under that paragraph in respect of the years comprising —
 (a) the year to which the report relates; and
 (b) the 3 years referred to in item 12.
-14.For customer premises in each discrete area, an estimate of the 25th, 50th, 75th, 90th, 95th, 98th and 100th percentile values of —
-(a) the average length of interruption referred to in item 11(a);
-(b) the number of interruptions; and
-(c) the total length of interruptions.
-15.For each category of information in item 14(a), (b) and (c), a graph showing the distribution of customer premises across the range of that category.
+[14-15.deleted]
+[Schedule 1 amended in Gazette 2 May 2017 p. 2291.]
