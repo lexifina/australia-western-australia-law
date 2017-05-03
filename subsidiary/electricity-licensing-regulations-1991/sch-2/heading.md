@@ -14,10 +14,14 @@ Item | Standard | Title
 10. | AS/NZS 3004.2:2008 | Electrical installations — Marinas and recreational boats — Recreational boats installations
 11. | AS/NZS 3008.1.1:2009 | Electrical installations — Selection of cables — Cables for alternating voltages up to and including 0.6/1kV — Typical Australian installation conditions
 12. | AS/NZS 3010:2005 | Electrical installations — Generating sets
+12A. | AS 3011.1-1992 | Electrical installations — Secondary batteries installed in buildings — Vented cells
+12B. | AS 3011.2-1992 | Electrical installations — Secondary batteries installed in buildings — Sealed cells
+12C. | AS 4086.1-1993 | Secondary batteries for use with stand-alone power systems — General requirements
+12D. | AS/NZS 4509.1:2009 | Stand-alone power systems — Safety and installation
 13. | AS 4777.1-2005 | Grid connection of energy systems via inverters — Installation requirements
 14. | AS 4777.2-2005 | Grid connection of energy systems via inverters — Inverter requirements
 15. | AS 4777.3-2005 | Grid connection of energy systems via inverters — Grid protection requirements
-16. | AS/NZS 5033:2005 | Installation of photovoltaic (PV) arrays
+16. | AS/NZS 5033:2014 | Installation of photovoltaic (PV) arrays
 17. | AS/NZS 7000:2010 | Overhead line design — Detailed procedures Note:Applies to overhead lines downstream of the point of supply
 18. | AS/NZS 60079.0:2008 | Explosive atmospheres — Equipment — General requirements
 19. | AS/NZS 60079.10.1:2009 | Explosive atmospheres — Classification of areas — Explosive gas atmospheres (IEC 60079-10-1, Ed. 1.0(2008) MOD)
@@ -25,4 +29,4 @@ Item | Standard | Title
 21. | AS/NZS 60079.17:2009 | Explosive atmospheres — Electrical installations inspection and maintenance (IEC 60079-17, Ed. 4.0(2007) MOD)
 22. | AS/NZS 61241.0:2005 | Electrical apparatus for use in the presence of combustible dust — General requirements
 23. | AS/NZS 61241.14:2005 | Electrical apparatus for use in the presence of combustible dust — Selection and installation (IEC 61241-14, Ed. 1.0(2004) MOD)
-[Schedule 2 inserted in Gazette 13 Apr 2012 p. 1654-6.]
+[Schedule 2 inserted in Gazette 13 Apr 2012 p. 1654-6; amended in Gazette 2 May 2017 p. 2302.]

@@ -5,7 +5,7 @@
 1.Licences and permits under Part 3 —
 (a)Application for licence or permit | 68
 (b)Registration of licence or permit or renewal of registration (for each year) | 87
-(c)Replacement for licence or permit or copy of certificate of registration | 45
+(c)Replacement for licence or permit | 45
 (d)Application for restoration of name to register (failure to renew) | 74
 2.Licences under Part 4 —
 (a)Application for licence | 103
@@ -17,5 +17,7 @@
 (g)Extract of register | 68
 (h)Copy of register (if available) | 79
 (i)Application for restoration of name to register (failure to renew) | 139
-3.Further inspection | 171
-[Schedule 1 inserted in Gazette 23 Jun 2015 p. 2172-3; amended in Gazette 3 Jun 2016 p. 1758-9.]
+3.Further inspection —
+(a)If relevant network operator is the Regional Power Corporation | 474.50
+(b)If relevant network operator is not the Regional Power Corporation | 169
+[Schedule 1 inserted in Gazette 23 Jun 2015 p. 2172-3; amended in Gazette 3 Jun 2016 p. 1758-9; 2 May 2017 p. 2301-2.]
