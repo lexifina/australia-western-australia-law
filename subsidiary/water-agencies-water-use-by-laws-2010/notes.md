@@ -11,6 +11,7 @@ Water Agencies (Water Use) Amendment By-laws 2012 | 24 Aug 2012 p. 3961-3 | bl. 
 Reprint 1: The Water Agencies (Water Use) By-laws 2010 as at 5 Apr 2013 (includes amendments listed above)
 Water Agencies (Water Use) Amendment By laws 2013 | 14 Nov 2013 p. 5097-9 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Water Agencies (Water Use) Amendment By-laws 2016 | 13 Dec 2016 p. 5657-8 | bl. 1 and 2: 13 Dec 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 14 Dec 2016 (see bl. 2(b) and Gazette 13 Dec 2016 p. 5659) (see footnote 2)
+Water Agencies (Water Use) Amendment By-laws 2017 | 9 May 2017 p. 24312 | bl. 1 and 2: 9 May 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 10 May 2017 (see bl. 2(b))
 The Water Agencies (Water Use) Amendment By-laws 2016, which purports to amend the principal by-laws, are of no effect as those amending by-laws were made by the Governor. By-laws made under the Water Agencies (Powers) Act 1984 section 34 must be made by the Minister. The amendments purportedly made by the Water Agencies (Water Use) Amendment By-laws 2016 are therefore not included in the compilation of the principal by-laws.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -24,7 +25,7 @@ Area 43
 commencement day31(1)
 consumption year,18
 domestic bore3
-domestic bore water3
+domestic bore water or water3
 evening period3
 former plan31(1)
 garden3
@@ -35,9 +36,7 @@ non-residential lot18
 other property11(1)
 relevant property3
 restriction notice31(1)
-scheme water 3
 scheme water efficiency management plan18
-scheme water supplier3
 specified day31(1)
 stage of restrictions3
 synthetic sporting ground3
