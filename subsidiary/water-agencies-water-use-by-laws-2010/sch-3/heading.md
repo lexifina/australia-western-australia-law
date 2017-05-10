@@ -36,5 +36,5 @@ Last digit of property’s street number or, where there is no street number, lo
  | 8 | Wednesday
  | 9 | Thursday
  | 0 | Friday
-[Division 3 amended in Gazette 28 Sep 2010 p. 5065.]
-[Schedule 4 deleted in Gazette 14 Nov 2013 p. 5099.]
+[Division 3 amended: Gazette 28 Sep 2010 p. 5065.]
+[Schedule 4 deleted: Gazette 14 Nov 2013 p. 5099.]
