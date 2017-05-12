@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Magistrates Court (Minor Cases Procedure) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 May 2017 of the Magistrates Court (Minor Cases Procedure) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Magistrates Court (Minor Cases Procedure) Rules 2005 | 28 Apr 2005 p. 1711-48 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2005 p. 7127)
+Magistrates Court (Minor Cases Procedure) Rules 2005 | 28 Apr 2005 p. 1711-48 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2005 | 10 Jun 2005 p. 2565-6 | 10 Jun 2005
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2007 | 24 Aug 2007 p. 4333-4 | r. 1 and 2: 24 Aug 2007 (see r. 2(a)); Rules other than r. 1 and 2: 25 Aug 2007 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2008 | 3 Jun 2008 p. 2138-49 | r. 1 and 2: 3 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2008 (see r. 2(b))
@@ -14,9 +14,11 @@ Magistrates Court (Minor Cases Procedure) Amendment Rules 2013 | 31 Dec 2013 p. 
 Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2014 | 12 Dec 2014 p. 4717-18 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2016 | 3 May 2016 p. 1361-2 | r. 1 and 2: 3 May 2016 (see r. 2(a)); Rules other than r. 1 and 2: 4 May 2016 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2016 | 30 Sep 2016 p. 4174-6 | r. 1 and 2: 30 Sep 2016 (see r. 2(a)); Rules other than r. 1 and 2: 1 Oct 2016 (see r. 2(b))
+Reprint 2: The Magistrates Court (Minor Cases Procedure) Rules 2005 as at 12 May 2017 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Act4
 administrative staff member4
 agent4
 application4
@@ -38,7 +40,6 @@ represented person69
 response4
 serve4
 serve personally4
-the Act4
 third party4
 third party claim4
 working day4
