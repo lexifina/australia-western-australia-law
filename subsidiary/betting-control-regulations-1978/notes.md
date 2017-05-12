@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Betting Control Regulations 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 May 2017 of the Betting Control Regulations 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Betting Control Regulations 1978 | 22 Jun 1978 p. 1991-2014 | 22 Jun 1978
@@ -67,10 +67,12 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Betting Control Amendment Regulations (No. 2) 2016 | 8 Mar 2016 p. 669 | r. 1 and 2: 8 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2016 (see r. 2(b))
 Betting Control Amendment Regulations 2016 | 13 May 2016 p. 1427 | r. 1 and 2: 13 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2016 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
+Reprint 8: The Betting Control Regulations 1978 as at 12 May 2017 (includes amendments listed above)
 Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is read and construed as a reference to the Commissioner of State Revenue unless the contrary intention appears.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+all up betApp it. 1(1)
 another jurisdiction98
 approval98
 approved officer104(2), 107(2)
@@ -79,24 +81,39 @@ Australian Greyhound Racing Rules78(1)
 Australian Rules of Harness Racing78(1)
 Australian Rules of Racing78(1)
 authorisation98
+barrierApp it. 1(1)
+betApp it. 4A(1 )
 bet back3(1)
 betting98
+betting sheetApp it. 1(1)
 cash3(1)
 commencement day102(1)
+committeeApp it. 1(1)
 concession bet3(1)
 country3(1)
+doubleApp it. 1(1)
 each way bet3(1)
 Flexi Bet3(1)
 grandstand enclosure3(1)
 host club91(1)
 internet betting3(1)
+late scratched runnerApp it. 4A(1 )
 leger3(1)
 local on-course totalisator78(1)
+multiple doubleApp it. 10(2)
+objectionApp it. 1(1)
+oddsApp it. 4A(1 )
 on-course totalisator78(1)
+percentageApp it. 4A(1 )
+play or payApp it. 4A(1)
 prescribed information104(1), 107(1)
 relevant person98
 rules of racing3(1)
 rules of wagering3(1)
 runner3(1)
+Scale of Deduction TableApp it. 1(1)
 sporting event3(1)
+sum percentageApp it. 4A(1 )
 totalisator63(1A)
+trebleApp it. 1(1)
+walk-overApp it. 1(1)
