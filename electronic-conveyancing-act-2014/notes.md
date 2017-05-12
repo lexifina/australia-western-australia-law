@@ -1,13 +1,16 @@
 Notes
-This is a compilation of the Electronic Conveyancing Act 2014. The following table contains information about that Act.
+This reprint is a compilation as at 12 May 2017 of the Electronic Conveyancing Act 2014 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electronic Conveyancing Act 2014 | 2 of 2014 | 24 Mar 2014 | Pt. 1 (other than s. 3-7A): 24 Mar 2014 (see s. 2(a)); s. 3-7A, Pt. 3-5 and Sch. 1: 25 Mar 2014 (see s. 2(b)); Pt. 2 and 6-9: 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
+Reprint 1: The Electronic Conveyancing Act 2014 as at 12 May 2017 (includes amendments listed above)
+The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
+The short title of the Legislative Instruments Act 2003 (Cwlth) was changed to the Legislation Act 2003 (Cwlth) by the Acts and Instruments (Framework Reform) Act 2015 (Cwlth) Sch. 1 Pt. 1 it. 3.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 ActSch. 1 cl. 12(1)
-additional instrument-making powerSch. 1 cl. 30(3)
+additional instrument-making powerSch. 1 cl. 30(3)(b)
 adultSch. 1 cl. 12(1)
 affidavitSch. 1 cl. 12(1)
 amendSch. 1 cl. 12(1)
@@ -19,7 +22,7 @@ associated financial transaction3(1)
 AustraliaSch. 1 cl. 12(1)
 authorised person45(1)
 Authority3(1)
-basic statutory instrument-making powerSch. 1 cl. 30(3)
+basic statutory instrument-making powerSch. 1 cl. 30(3)(a)
 business day43(1), Sch. 1 cl. 12(1)
 calendar monthSch. 1 cl. 12(1)
 calendar yearSch. 1 cl. 12(1)
@@ -42,7 +45,7 @@ ECNL3(1)
 Electronic Conveyancing National Law3(1)
 ELN3(1), 13(1)
 ELNO3(1), 15(1), 32
-empowering provisionSch. 1 cl. 30(1), Sch. 1 cl. 30(2)
+empowering provisionSch. 1 cl. 30(1) and (2)
 expireSch. 1 cl. 12(1)
 external TerritorySch. 1 cl. 12(1)
 extrinsic materialSch. 1 cl. 8(1)
@@ -89,14 +92,13 @@ personSch. 1 cl. 12(1)
 powerSch. 1 cl. 12(1)
 printedSch. 1 cl. 12(1)
 proceedingSch. 1 cl. 12(1)
-proprietor63(2)
 provisionSch. 1 cl. 12(1)
 recordSch. 1 cl. 12(1)
 Registrar3(1)
 registry instrument3(1)
 repealSch. 1 cl. 12(1)
 responsible tribunal3(1)
-review period47(1)
+review period47(1)(a)
 section 2830A(2)
 signSch. 1 cl. 12(1)
 State3(1), 7A(2)
@@ -105,9 +107,8 @@ statutory instrumentSch. 1 cl. 12(1)
 subscriber3(1), 32
 swearSch. 1 cl. 12(1)
 Territory3(1)
-the ActSch. 1 cl. 12(2)
+the ActSch. 1 cl. 12 (2)
 this jurisdiction3(1)
 titles register3(1)
-transfer duty statement49
 wordSch. 1 cl. 12(1)
 writingSch. 1 cl. 12(1)
