@@ -21,6 +21,7 @@ Local Government (Financial Management) Amendment Regulations 2012 | 20 Apr 2012
 Local Government (Financial Management) Amendment Regulations (No. 2) 2012 | 29 Jun 2012 p. 2952-4 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
 Reprint 3: The Local Government (Financial Management) Regulations 1996 as at 7 Dec 2012 (includes amendments listed above)
 Local Government (Financial Management) Amendment Regulations 2013 | 21 Jun 2013 p. 2450-2 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2013 (see r. 2(b))
+Local Government (Financial Management) Amendment Regulations 2017 | 12 May 2017 p. 2469 | r. 1 and 2: 12 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 13 May 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
