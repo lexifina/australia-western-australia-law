@@ -101,9 +101,11 @@ Country Areas Water Supply Amendment By-laws (No. 2) 2013 | 15 Nov 2013 p. 5267-
 Country Areas Water Supply Amendment By-laws 2015 | 8 May 2015 p. 1622 | bl. 1 and 2: 8 May 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 9 May 2015 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws 2016 | 7 Jun 2016 p. 1777-81 | bl. 1 and 2: 7 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 8 Jun 2016 (see bl. 2(b))
 Water By-laws Amendment (Public Health) By-laws 2016 Pt. 2 | 10 Jan 2017 p. 233-5 | 24 Jan 2017 (see bl. 2(b) and Gazette 10 Jan 2017 p. 165)
+Reprint 6: The Country Areas Water Supply By-laws 1957 as at 19 May 2017 (includes amendments listed above)
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, which is now known as the Liquor Control Act 1988.
 Repealed by the Factories and Shops Act 1963, which was repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
+These by-laws included headings immediately before various by-laws. Those headings were progressively deleted in Gazette 22 Dec 1964 p. 4070-72, 16 Jun 2000 p. 2962 and 29 May 2001 p. 2708.
 Now known as the Country Areas Water Supply By-laws 1957; citation changed (see note under bl. 1).
 These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
 The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
