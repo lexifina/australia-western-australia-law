@@ -17,6 +17,7 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 28 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Health Services Act 2016 s. 294 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 s. 102 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Reprint 3: The Human Tissue and Transplant Act 1982 as at 19 May 2017 (includes amendments listed above)
 The provisions in this Act repealing these Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
