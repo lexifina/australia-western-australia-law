@@ -136,11 +136,12 @@ When carrying fewer than 5 passengers | $1.25/km
 When carrying 5 or more passengers | $1.90/km
 Other amounts (maximums)
 Call out fee | $1.50
+Airport fee (for a journey starting at the terminal at the Port Hedland International Airport) | $2.00
 Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 7 inserted in Gazette 23 Dec 2014 p. 4907-8; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 7 inserted in Gazette 23 Dec 2014 p. 4907-8; amended in Gazette 28 Jun 2016 p. 2671; 12 May 2017 p. 2472.]
 ## Division 8 — South West region
 [Heading inserted in Gazette 23 Dec 2014 p. 4908.]
 Metered rates (maximums)
