@@ -127,6 +127,10 @@ Reprint 9: The Jetties Regulations 1940 as at 5 Feb 2016 (includes amendments li
 Jetties Amendment Regulations 2016 | 5 Apr 2016 p. 1022-5 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2016 | 15 Apr 2016 p. 1172-81 | r. 1 and 2: 15 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2:1 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 3) 2016 Pt. 2 | 23 Dec 2016 p. 5913-15 | 24 Dec 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Jetties Amendment Regulations 2017 r. 3-9 | 26 May 2017 p. 2623-32 | 1 Jul 2017 (see r. 2(b))
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the department in the Public Service designated as “Police Department” is to be read and construed as a reference to the department designated as “Police Service”.
@@ -140,6 +144,166 @@ The Jetties Amendment Regulations (No. 2) 2014 r. 17 is not included because of 
 17.Regulation 95A amended
 In regulation 95A(1) delete “schedule of charges.” and insert:
 the requirement to pay any applicable dues or charges prescribed in Schedule 1.
+On the date as at which this compilation was prepared, the Jetties Amendment Regulations 2017 r. 3-9 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Jetties Regulations 1940.
+4.Regulation 73 amended
+After regulation 73(1) insert:
+(1A) A permit for the exclusive use of a berth granted under subregulation (1) remains in force for such period as is specified on the permit, which may exceed 1 year from the date of issue.
+5.Schedule 1 clause 12 amended
+In Schedule 1 clause 12(3) Table 12.1:
+(a) delete items 10 and 11;
+(b) in items 12 and 13 delete “pen, alongside berth or piled mooring” and insert:
+pen or alongside berth
+(c) in item 15 delete “pen, alongside berth other than the service wharf or piled mooring” and insert:
+pen or alongside berth other than the service wharf
+6.Schedule 1 clause 13 amended
+Delete Schedule 1 clause 13(2) Table 13.1 item 1.
+7.Schedule 1 clause 22 amended
+Delete Schedule 1 clause 22(3) Table 22.1 and insert:
+Table 22.1 (Pen use and berthing)
+Item | Service | $
+1. | For the use, other than casual daily use, of a berth at the service wharf or jetty by a recreational vessel, Government vessel, tourism vessel or fishing vessel, an amount calculated per metre of the vessel’s length using the annual rate of | 518.00
+2. | For the use, other than casual daily use, of a berth at the service wharf or jetty by a service vessel, an amount calculated per metre of the vessel’s length using the annual rate of | 1 144.00
+3. | For the casual daily use of a berth at the service wharf or jetty by a Government vessel, tourism vessel or fishing vessel, an amount calculated using standard Rate 1
+4. | For the casual daily use of the service wharf or jetty by a recreational vessel, an amount calculated using standard Rate 2
+5. | For the short term use of a berth at the service wharf or jetty by a vessel (but not a service vessel), an amount calculated using standard Rate 3
+6. | For the use of a berth at the service wharf or jetty by a service vessel, an amount calculated per metre of the vessel’s length at the 6-hourly rate of | 8.80
+7. | For the use of the service wharf hardstand or appurtenant area for storage or maintenance, an amount calculated per m2 at the daily rate of | 1.75
+8.Schedule 1 clause 25A amended
+Delete Schedule 1 clause 25A(2) Table 25A.1 item 1 and insert:
+1. | For the use, other than casual daily use, of a pen with a walkway, an amount calculated per metre of the pen’s length using the annual rate of | 428.00
+1A. | For the use, other than casual daily use, of a pen without a walkway, an amount calculated per metre of the pen’s length using the annual rate of | 418.00
+9.Various dues and charges amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 cl. 1A | $7.30 | $7.45
+Sch. 1 cl. 1A | $51.15 | $52.40
+Sch. 1 cl. 1A | $82.00 | $84.00
+Sch. 1 cl. 1(2) Table 1.1 it. 1 | 418.00 | 428.00
+Sch. 1 cl. 1(2) Table 1.1 it. 2 | 418.00 | 428.00
+Sch. 1 cl. 2(2) Table 2.1 it. 1 | 220.00 | 225.00
+Sch. 1 cl. 2(2) Table 2.1 it. 2 | 264.00 | 270.00
+Sch. 1 cl. 3(2) Table 3.1 it. 1 | 418.00 | 428.00
+Sch. 1 cl. 3(2) Table 3.1 it. 2 | 418.00 | 428.00
+Sch. 1 cl. 4(2) Table 4.1 it. 1 | 264.00 | 270.00
+Sch. 1 cl. 6(2) Table 6.1 it. 1 | 341.00 | 349.00
+Sch. 1 cl. 6(2) Table 6.1 it. 2 | 341.00 | 349.00
+Sch. 1 cl. 7(2) Table 7.1 it. 1 | 253.00 | 259.00
+Sch. 1 cl. 7(2) Table 7.1 it. 2 | 231.00 | 236.00
+Sch. 1 cl. 7(2) Table 7.1 it. 3 | 302.50 | 310.00
+Sch. 1 cl. 7(2) Table 7.1 it. 4 | 302.50 | 310.00
+Sch. 1 cl. 7(2) Table 7.1 it. 10 | 143.00 | 146.00
+Sch. 1 cl. 10(2) Table 10.1 it. 1 | 286.00 | 293.00
+Sch. 1 cl. 11(2) Table 11.1 it. 1 | 308.00 | 315.00
+Sch. 1 cl. 11(2) Table 11.1 it. 2 | 214.50 | 219.00
+Sch. 1 cl. 11(2) Table 11.1 it. 3 | 308.00 | 315.00
+Sch. 1 cl. 11(2) Table 11.1 it. 6 | 264.00 | 270.00
+Sch. 1 cl. 12(3) Table 12.1 it. 1 | 434.50 | 445.00
+Sch. 1 cl. 12(3) Table 12.1 it. 2 | 577.50 | 591.00
+Sch. 1 cl. 12(3) Table 12.1 it. 3 | 434.50 | 445.00
+Sch. 1 cl. 12(3) Table 12.1 it. 4 | 577.50 | 591.00
+Sch. 1 cl. 12(3) Table 12.1 it. 5 | 616.00 | 631.00
+Sch. 1 cl. 12(3) Table 12.1 it. 6 | 836.00 | 856.00
+Sch. 1 cl. 12(3) Table 12.1 it. 7 | 1 050.50 | 1 076.00
+Sch. 1 cl. 12(3) Table 12.1 it. 8 | 616.00 | 631.00
+Sch. 1 cl. 12(3) Table 12.1 it. 9 | 836.00 | 856.00
+Sch. 1 cl. 12(3) Table 12.1 it. 15 | 11.15 | 11.40
+Sch. 1 cl. 12(3) Table 12.1 it. 16 | 17.20 | 17.60
+Sch. 1 cl. 12(3) Table 12.1 it. 17 | 1.70 | 1.75
+Sch. 1 cl. 13(2) Table 13.1 it. 2 | 319.00 | 327.00
+Sch. 1 cl. 13(2) Table 13.1 it. 2 | 429.00 | 439.00
+Sch. 1 cl. 13(2) Table 13.1 it. 3 | 346.50 | 355.00
+Sch. 1 cl. 13(2) Table 13.1 it. 3 | 462.00 | 473.00
+Sch. 1 cl. 13(2) Table 13.1 it. 4 | 693.00 | 710.00
+Sch. 1 cl. 13(2) Table 13.1 it. 5 | 693.00 | 710.00
+Sch. 1 cl. 14(2) Table 14.1 it. 1 | 553.30 | 567.00
+Sch. 1 cl. 14(2) Table 14.1 it. 2 | 553.30 | 567.00
+Sch. 1 cl. 17(2) Table 17.1 it. 1 | 407.00 | 417.00
+Sch. 1 cl. 17(2) Table 17.1 it. 2 | 440.00 | 451.00
+Sch. 1 cl. 18(2) Table 18.1 it. 1 | 280.50 | 287.00
+Sch. 1 cl. 18(2) Table 18.1 it. 2 | 280.50 | 287.00
+Sch. 1 cl. 21(3) Table 21.1 it. 1 | 341.00 | 349.00
+Sch. 1 cl. 21(3) Table 21.1 it. 2 | 363.00 | 372.00
+Sch. 1 cl. 21(3) Table 21.1 it. 6 | 9.10 | 9.30
+Sch. 1 cl. 2(3) Table 21.1 it. 8 | 68.75 | 70.40
+Sch. 1 cl. 21(3) Table 21.1 it. 9 | 20.90 | 21.40
+Sch. 1 cl. 21(3) Table 21.1 it. 10 | 8.60 | 8.80
+Sch. 1 cl. 21(3) Table 21.1 it. 11 | 1.70 | 1.75
+Sch. 1 cl. 22(4) Table 22.2 it. 1 | 203.50 | 208.50
+Sch. 1 cl. 22(4) Table 22.2 it. 1 | 297.00 | 304.40
+Sch. 1 cl. 23(2) Table 23.1 it. 1 | 136.40 | 230.00
+Sch. 1 cl. 23(3) Table 23.2 it. 1 | 614.90 | 630.00
+Sch. 1 cl. 25A(2) Table 25A.1 it. 6 | 418.00 | 428.00
+Sch. 1 cl. 25(2) Table 25.1 it. 1 | $1.22 | $1.25
+Sch. 1 cl. 25(2) Table 25.1 it. 1 | 182.50 | 187.06
+Sch. 1 cl. 25(2) Table 25.1 it. 2 | $6.60 | $6.77
+Sch. 1 cl. 25(2) Table 25.1 it. 2 | 121.62 | 124.66
+Sch. 1 cl. 25(2) Table 25.1 it. 3 | $6.60 | $6.77
+Sch. 1 cl. 25(2) Table 25.1 it. 3 | 121.62 | 124.66
+Sch. 1 cl. 25(2) Table 25.1 it. 4 | $9.48 | $9.72
+Sch. 1 cl. 25(2) Table 25.1 it. 5 | $30.48 | $31.24
+Sch. 1 cl. 25(3) Table 25.2 it. 1 | 105.80 | 108.45
+Sch. 1 cl. 25(3) Table 25.2 it. 1 | 130.89 | 134.16
+Sch. 1 cl. 25(3) Table 25.2 it. 1 | 66.42 | 68.08
+Sch. 1 cl. 25(3) Table 25.2 it. 1 | 209.79 | 215.03
+Sch. 1 cl. 25(3) Table 25.2 it. 2 | 60.97 | 62.49
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 2.60 | 2.67
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 0.53 | 0.54
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 11.09 | 11.37
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 11.56 | 11.85
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 2.60 | 2.67
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 4.50 | 4.61
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 3.66 | 3.75
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 4.31 | 4.42
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 3.56 | 3.65
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 2.45 | 2.51
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 4.29 | 4.40
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 4.10 | 4.20
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 16.24 | 16.65
+Sch. 1 cl. 25(3) Table 25.2 it. 3 | 7.08 | 7.26
+Sch. 1 cl. 25(5) Table 25.4 it. 1 | 0.72 | 0.74
+Sch. 1 cl. 25(5) Table 25.4 it. 2 | 0.72 (each occurrence) | 0.74
+Sch. 1 cl. 25(5) Table 25.4 it. 3 | 38.85 | 39.82
+Sch. 1 cl. 25(7) Table 25.6 it. 1 | 13.93 | 14.28
+Sch. 1 cl. 25(7) Table 25.6 it. 1 | 15.86 | 16.26
+Sch. 1 cl. 25(7) Table 25.6 it. 1 | 19.79 | 20.28
+Sch. 1 cl. 25(8) Table 25.7 it. 1 | 33.60 | 34.44
+Sch. 1 cl. 25(8) Table 25.7 it. 2 | 10.79 | 11.06
+Sch. 1 cl. 25(8) Table 25.7 it. 3 | 3.56 | 3.65
+Sch. 1 cl. 26(2) Table 26.1 it. 1 | 46.30 | 47.40
+Sch. 1 cl. 26(2) Table 26.1 it. 1 | 140.70 | 144.20
+Sch. 1 cl. 30 Table 30.1 it. 1 | 10.45 | 10.70
+Sch. 1 cl. 30 Table 30.1 it. 1 | 4.40 | 4.50
+Sch. 1 cl. 30 Table 30.1 it. 2 | 6.90 | 7.05
+Sch. 1 cl. 30 Table 30.1 it. 3 | 15.20 | 15.55
+Sch. 1 cl. 31 Table 31.1 it. 1 | 72.60 | 74.40
+Sch. 1 cl. 31 Table 31.1 it. 1 | 145.20 | 148.80
+Sch. 1 cl. 31 Table 31.1 it. 2 | 246.95 | 253.10
+Sch. 1 cl. 31 Table 31.1 it. 3 | 19.25 | 19.70
+Sch. 1 cl. 31 Table 31.1 it. 3 | 43.45 | 44.50
+Sch. 1 cl. 31 Table 31.1 it. 4 | 19.25 | 19.70
+Sch. 1 cl. 31 Table 31.1 it. 4 | 43.45 | 44.50
+Sch. 1 cl. 32 | $279.40 | $286.00
+Sch. 1A cl. 1 Table it. 1 to 25 | 0.056 | 0.057
+Sch. 1A cl. 1 Table it. 26 | 0.01109 | 0.01137
+Sch. 2 cl. 1B | $7.30 | $7.45
+Sch. 2 cl. 1B | $51.15 | $52.40
+Sch. 2 cl. 1B | $82.00 | $84.00
+Sch. 2 cl. 1(2) Table 1.1 it. 1 | $4 429.71 | $4 540.45
+Sch. 2 cl. 1(2) Table 1.1 it. 1 | $62.01 | $63.50
+Sch. 2 cl. 1(2) Table 1.1 it. 1 | $7 973.45 | $8 172.00
+Sch. 2 cl. 1(2) Table 1.1 it. 1 | $442.97 | $454.00
+Sch. 2 cl. 1(2) Table 1.1 it. 1 | $708.76 | $726.50
+Sch. 2 cl. 1(2) Table 1.1 it. 1 | $6 201.61 | $6 356.00
+Sch. 2 cl. 1(2) Table 1.1 it. 2 | $88.60 | $90.80
+Sch. 2 cl. 3(2) Table 3.1 it. 1 | 599.50 | 614.00
+Sch. 2 cl. 3(2) Table 3.1 it. 2 | 539.00 | 552.00
+Sch. 2 cl. 3(2) Table 3.1 it. 3 | 599.50 | 614.00
+Sch. 2 cl. 4(2) Table 4.1 it. 1 | 548.90 | $562.00
+Sch. 2 cl. 4(2) Table 4.1 it. 2 | 548.90 | 562.00
+Sch. 2 cl. 5(2) Table 5.1 it. 1 | 169.40 | 173.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
