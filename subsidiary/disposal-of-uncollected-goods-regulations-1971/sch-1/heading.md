@@ -1,4 +1,5 @@
-## First Schedule
+## Schedule 1
+[Heading inserted: Gazette 9 Jun 2017 p. 2850.]
 Batteries.
 Bedding (including sleeping bags).
 Bicycle and bicycle parts.
