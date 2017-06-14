@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 November 2011 of the Electricity Industry (Licence Conditions) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Industry (Licence Conditions) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry (Licence Conditions) Regulations 2005 | 7 Jan 2005 p. 57-9 | 7 Jan 2005 (see r. 2)
@@ -7,6 +7,7 @@ Electricity Industry (Licence Conditions) Amendment Regulations (No. 3) 2005 | 1
 Electricity Industry (Licence Conditions) Amendment Regulations 2005 | 23 Dec 2005 p. 6266-7 | 23 Dec 2005 (see r. 2)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 74 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Reprint 1: The Electricity Industry (Licence Conditions) Regulations 2005 as at 4 Nov 2011 (includes amendments listed above )
+Electricity Industry (Licence Conditions) Amendment Regulations 2017 | 13 Jun 2017 p. 2882-3 | r. 1 and 2: 13 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2): 14 Jun 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
