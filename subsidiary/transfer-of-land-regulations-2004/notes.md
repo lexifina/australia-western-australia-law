@@ -27,7 +27,99 @@ Reprint 4: The Transfer of Land Regulations 2004 as at 5 Dec 2014 (includes amen
 Transfer of Land Amendment Regulations 2015 | 19 Jun 2015 p. 2136-9 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Transfer of Land Amendment Regulations 2016 | 22 Mar 2016 p. 835-6 | r. 1 and 2: 22 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Mar 2016 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2016 Pt 4 | 24 Jun 2016 p. 2320-5 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3181-6 | 3 Jul 2017 (see r. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
+On the date as at which this compilation was prepared, the Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Transfer of Land Regulations 2004 amended
+7.Regulations amended
+This Part amends the Transfer of Land Regulations 2004.
+8.Regulation 9A amended
+Delete regulation 9A(9)(c).
+9.Regulation 13 amended
+In regulation 13(2):
+(a) in paragraph (b) delete “proprietor; and” and insert:
+proprietor.
+(b) delete paragraph (c).
+10.Schedule 1 amended
+In Schedule 1 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Div. 1 it. 1 | $165.80 $13.00 | $168.70 $13.20
+Div. 1 it. 2(c) | $165.80 | $168.70
+Div. 1 it. 3 | $165.80 | $168.70
+Div. 1 it. 4 | $165.80 (each occurrence) $175.80 $195.80 | $168.70 $178.70 $198.70
+Div. 1 it. 5 | $165.80 | $168.70
+Div. 1 it. 6 | $165.80 | $168.70
+Div. 1 it. 7 | $165.80 | $168.70
+Div. 1 it. 8 | $165.80 | $168.70
+Div. 1 it. 9 | $165.80 | $168.70
+Div. 1 it. 10 | $165.80 | $168.70
+Div. 1 it. 11 | $165.80 | $168.70
+Div. 2 it. 1 | $165.80 | $168.70
+Div. 2 it. 2(a) | $268.50 | $273.00
+Div. 2 it. 2(b) | $71.50 | $72.00
+Div. 2 it. 2(c) | $268.50 | $273.00
+Div. 2 it. 3(a) | $268.50 | $273.00
+Div. 2 it. 3(b) | $71.50 | $72.00
+Div. 2 it. 4 | $268.50 | $273.00
+Div. 2 it. 5(a) | $82.90 | $84.35
+Div. 2 it. 5(b) | $6.00 | $6.10
+Div. 2 it. 6 | $165.80 | $168.70
+Div. 2 it. 7 | $165.80 | $168.70
+Div. 2 it. 8 | $165.80 | $168.70
+Div. 2 it. 9 | $165.80 | $168.70
+Div. 2 it. 10 | $165.80 | $168.70
+Div. 3 it. 1 | $165.80 | $168.70
+Div. 3 it. 2A | $165.80 | $168.70
+Div. 3 it. 2 | $82.90 | $84.35
+Div. 4 it. 1(a) | $165.80 | $168.70
+Div. 4 it. 1(b) | $6.00 | $6.10
+Div. 4 it. 2 | $165.80 $6.00 | $168.70 $6.10
+Div. 4 it. 3 | $165.80 | $168.70
+Div. 4 it. 4 | $165.80 | $168.70
+Div. 4 it. 5 | $310.30 | $315.70
+Div. 4 it. 6 | $165.80 | $168.70
+Div. 4 it. 7 | $165.80 | $168.70
+Div. 5 it. 1 | $165.80 | $168.70
+Div. 5 it. 2 | $60.00 | $61.00
+Div. 5 it. 3 | $60.00 | $61.00
+Div. 6 it. 1 | $24.85 | $25.30
+Div. 6 it. 2 | $24.85 | $25.30
+Div. 6 it. 3 | $24.85 | $25.30
+Div. 6 it. 4 | $24.85 | $25.30
+Div. 6 it. 5(a) | $12.40 | $12.65
+Div. 6 it. 5(b) | $24.85 | $25.30
+Div. 6 it. 6(a) | $12.40 | $12.65
+Div. 6 it. 6(b) | $24.85 | $25.30
+Div. 6 it. 7 | $24.85 | $25.30
+Div. 6 it. 8 | $24.85 | $25.30
+Div. 6 it. 9 | $24.85 | $25.30
+Div. 6 it. 10 | $24.85 | $25.30
+Div. 6 it. 12 | $12.40 | $12.65
+Div. 6 it. 13 | $24.85 | $25.30
+Div. 6 it. 14 | $24.85 | $25.30
+Div. 6 it. 15 | $24.85 | $25.30
+Div. 6 it. 16 | $24.85 | $25.30
+Div. 6 it. 17 | $12.40 | $12.65
+Div. 6 it. 18(a) | $12.40 | $12.65
+Div. 6 it. 21 | $12.40 | $12.65
+Div. 6 it. 22 | $24.85 | $25.30
+Div. 6 it. 23 | $24.85 | $25.30
+Div. 7 it. 1 | $165.80 (each occurrence) | $168.70
+Div. 7 it. 3 | $144.50 | $147.00
+Div. 7 it. 4 | $144.50 | $147.00
+Div. 7 it. 5 | $144.50 | $147.00
+Div. 7 it. 6(a) | $108.00 | $110.00
+Div. 7 it. 6(b) | $82.90 | $84.35
+Div. 7 it. 8 | $144.50 | $147.00
+Div. 7 it. 9 | $207.00 | $210.00
+Div. 7 it. 14 | $6.00 | $6.10
+11.Schedule 2 amended
+At the end of Schedule 2 insert:
+10.An application for information not to be inspected as part of the names index.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
