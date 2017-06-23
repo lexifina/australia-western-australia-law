@@ -5,4 +5,3 @@ An Act to —
 ·repeal various Acts; and
 ·make consequential amendments to various Acts,
 and for related purposes.
-The Parliament of Western Australia enacts as follows:
