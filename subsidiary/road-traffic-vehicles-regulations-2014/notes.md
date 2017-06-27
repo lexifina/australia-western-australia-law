@@ -26,6 +26,7 @@ For the purposes of section 18 of the Act, the specified day in relation to thes
 The Transport Regulations Amendment (Fees and Charges) Regulations 2017 r. 12 reads as follows:
 12.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2017.
+The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
