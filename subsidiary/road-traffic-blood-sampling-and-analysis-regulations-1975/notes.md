@@ -31,6 +31,7 @@ Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2014 | 4 Nov 20
 Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 3 | 23 Dec 2014 p. 4913-38 | 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Road Safety Commission Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 225-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Road Traffic Regulations Amendment Regulations 2017 Pt. 2 | 7 Feb 2017 p. 1171-7 | 10 Mar 2017 (see r. 2(b) and Gazette 7 Feb 2017 p. 1158-9)
+Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2017 | 27 Jun 2017 p. 3448-9 | r. 1 and 2: 27 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
