@@ -18,4 +18,4 @@ Item | Article | Description
 13. | Knuckle knife | A knife made or modified to be held so that the blade protrudes between the knuckles or fingers of a hand (e.g. the article commonly known as the “Urban Pal” knife).
 [14.deleted]
 15. | Spray weapon (not oleoresin capsicum) | A spray weapon made or modified to be used to discharge a substance other than oleoresin capsicum.
-[Schedule 1 amended in Gazette 11 Sep 2007 p. 4613; 8 Apr 2011 p. 1286.]
+[Schedule 1 amended: Gazette 11 Sep 2007 p. 4613; 8 Apr 2011 p. 1286.]

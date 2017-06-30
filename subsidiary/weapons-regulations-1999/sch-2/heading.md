@@ -25,4 +25,4 @@ Item | Article | Description
 20. | Throwing blade or knife | A blade or knife made or modified to be thrown and includes an article consisting of a blade attached to a cord, rope or chain so as to enable the blade to be thrown and retrieved (e.g. the martial arts weapon known as the shoge, ninja kyokeysu shoge or kyotetsu shoge).
 21. | Throwing star | A sharpened, star-shaped article made or modified to be thrown (e.g. the martial arts weapon known as the shuriken or shaken) and includes a throwing star that is attached to a belt buckle.
 22. | Weighted chain or cord weapon | An article — (a)consisting of or incorporating a chain or cord made of any material and weighted at both ends; and (b)made or modified to be used to injure or disable a person or as a martial arts weapon, (e.g. the martial arts weapons known as the kusari fundo, manrikigusari and surujin).
-[Schedule 2 amended in Gazette 1 Oct 2004 p. 4284; 11 Apr 2008 p. 1392; 8 Apr 2011 p. 1286; 29 Nov 2016 p. 5323.]
+[Schedule 2 amended: Gazette 1 Oct 2004 p. 4284; 11 Apr 2008 p. 1392; 8 Apr 2011 p. 1286; 29 Nov 2016 p. 5323.]
