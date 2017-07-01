@@ -1,5 +1,5 @@
 ## Schedule 1 — Charges for Bunbury Water Corporation
-[r. 7 and 8]
-[Heading inserted in Gazette 27 Jun 2016 p. 2540.]
+[r. 7]
+[Heading inserted in Gazette 23 Jun 2017 p. 3325.]
 ## Division 1 — Service charges
-[Heading inserted in Gazette 27 Jun 2016 p. 2540.]
+[Heading inserted in Gazette 23 Jun 2017 p. 3325.]

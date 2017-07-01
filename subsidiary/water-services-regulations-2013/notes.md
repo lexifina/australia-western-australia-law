@@ -9,6 +9,7 @@ Water Services Amendment Regulations (No. 2) 2014 | 30 Dec 2014 p. 5508-9 | r. 1
 Water Services Amendment Regulations 2015 | 30 Jun 2015 p. 2352-3 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Water Services Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 27 Jun 2016 p. 2531-620 | 1 Jul 2016 (see r. 2(b))
 Water Services Legislation Amendment Regulations 2016 Pt. 2 | 13 Dec 2016 p. 5659-94 | 14 Dec 2016 (see r. 2(b))
+Water Services Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3317-403 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -9,6 +9,7 @@ Water Services (Water Corporations Charges) Amendment Regulations 2015 | 30 Jun 
 Reprint 1: The Water Services (Water Corporations Charges) Regulations 2014 as at 8 Jan 2016 (includes amendments listed above)
 Water Services Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 27 Jun 2016 p. 2531-620 | 1 Jul 2016 (see r. 2(b))
 Water Services Legislation Amendment Regulations 2016 Pt. 3 | 13 Dec 2016 p. 5659-94 | 14 Dec 2016 (see r. 2(b))
+Water Services Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 23 Jun 2017 p. 3317-403 | 1 Jul 2017 (see r. 2(b))
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.
 The Water Agencies (Charges) By-laws 1987 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) on 1 Jul 2014.
 The Country Towns Sewerage Act 1948 was repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(a) on 18 Nov 2013.
