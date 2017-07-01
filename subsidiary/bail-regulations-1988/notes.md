@@ -19,6 +19,7 @@ Bail Amendment Regulations 2009 | 25 Feb 2009 p. 471-90 | r. 1 and 2: 25 Feb 200
 Reprint 2: The Bail Regulations 1988 as at 6 Mar 2009 (includes amendments listed above)
 Bail Amendment Regulations 2012 | 6 Mar 2012 p. 895 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
 Bail Amendment Regulations 2014 | 12 Sep 2014 p. 3281-9 | r. 1 and 2: 12 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Sep 2014 (see r. 2(b) and Gazette 12 Sep 2014 p. 3279)
+Attorney General Regulations Amendment (Family Violence Restraining Orders) Regulations 2017 Pt. 2 | 27 Jun 2017 p. 3432-5 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -10,6 +10,7 @@ Magistrates Court Amendment Regulations 2012 | 27 Apr 2012 p. 1766-7 | r. 1 and 
 Reprint 1: The Magistrates Court Regulations 2005 as at 17 Aug 2012 (includes amendments listed above)
 Magistrates Court Amendment Regulations (No. 2) 2014 | 30 Sep 2014 p. 3597 | r. 1 and 2: 30 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2014 (see r. 2(b))
 Magistrates Court Amendment Regulations 2015 | 10 Feb 2015 p. 615-16 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Attorney General Regulations Amendment (Family Violence Restraining Orders) Regulations 2017 Pt. 6 | 27 Jun 2017 p. 3432-5 | 1 Jul 2017 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

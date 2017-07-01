@@ -6,3 +6,4 @@ Cross-border Justice Regulations 2009 | 28 Oct 2009 p. 4225-302 | Pt. 1-2, Pt. 3
 Cross-border Justice Amendment Regulations 2010 | 13 Jul 2010 p. 3292-4 | r. 1 and 2: 13 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jul 2010 (see r. 2(b))
 Cross-border Justice Amendment Regulations 2015 | 10 Feb 2015 p. 601-6 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Cross-border Justice Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 5175-7 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
+Attorney General Regulations Amendment (Family Violence Restraining Orders) Regulations 2017 Pt. 5 | 27 Jun 2017 p. 3432-5 | 1 Jul 2017 (see r. 2(b))

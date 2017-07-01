@@ -28,6 +28,7 @@ Magistrates Court (Fees) Amendment Regulations (No. 3) 2015 | 4 Sep 2015 p. 3695
 Reprint 3: The Magistrates Court (Fees) Regulations 2005 as at 3 Dec 2015 (includes amendments listed above)
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 8 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations (No. 2) 2016 | 1 Jul 2016 p. 2747-8 | r. 1 and 2: 1 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2016 (see r. 2(b) and Gazette 14 Jun 2016 p. 1855)
+Attorney General Regulations Amendment (Family Violence Restraining Orders) Regulations 2017 Pt. 7 | 27 Jun 2017 p. 3432-5 | 1 Jul 2017 (see r. 2(b))
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms
