@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 July 2016 of the Adoption Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Adoption Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Adoption Regulations 1995 | 29 Dec 1994 p. 7171-208 | 1 Jan 1995 (see r. 2 and Gazette 25 Nov 1994 p. 5905)
@@ -18,6 +18,7 @@ Adoption Amendment Regulations 2014 | 27 Jun 2014 p. 2309-10 | r. 1 and 2: 27 Ju
 Adoption Amendment Regulations 2015 | 26 Jun 2015 p. 2236-7 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Child Protection Regulations Amendment Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2292-4 | 1 Jul 2016 (see r. 2(b))
 Reprint 3: The Adoption Regulations 1995 as at 15 Jul 2016 (includes amendments listed above)
+Child Protection Regulations Amendment (Fees and Payments) Regulations 2017 Pt. 2 | 23 Jun 2017 p. 3174-5 | 1 Jul 2017 (see r. 2(b))
 Repealed by the Adoption Act 1994.
 Repealed by the Adoption Rules 1995.
 Defined terms
