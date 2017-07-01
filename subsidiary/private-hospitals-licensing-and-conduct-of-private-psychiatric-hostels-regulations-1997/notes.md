@@ -14,6 +14,8 @@ Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regul
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2015 | 29 Dec 2015 p. 5173-4 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2016 | 29 Jan 2016 p. 273-5 | r. 1 and 2: 29 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2016 (see r. 2(b))
 Hospitals Regulations Amendment (Licensing and Conduct Fees) Regulations 2016 Pt. 3 | 17 Jun 2016 p. 2099-2100 | 1 Jul 2016 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
+Formerly referred to the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

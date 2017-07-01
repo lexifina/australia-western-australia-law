@@ -22,6 +22,7 @@ Tobacco Products Control Amendment Regulations (No. 2) 2016 | 6 May 2016 p. 1382
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Tobacco Products Control Amendment Regulations (No. 3) 2016 | 26 Jul 2016 p. 3150 | r. 1 and 2: 26 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b) and Gazette 26 Jul 2016 p. 3145)
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 34 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -15,6 +15,7 @@ Food Amendment Regulations (No. 4) 2015 | 11 Aug 2015 p. 3219-20 | r. 1 and 2: 1
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Health Services (Consequential Amendment) Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2311-15 | 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 6 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 The Food Act 2008 s. 147(14) commenced 24 Oct 2009.
 Deleted by the Food Act 2008 s. 147(11).
 Defined terms
