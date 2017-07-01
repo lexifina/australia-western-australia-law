@@ -113,4 +113,4 @@ Other survey periods
 57.One deep tank that is used exclusively for fuel oil to be surveyed internally every 5 years starting when the ship is 10 years old and all such deep tanks to be surveyed by the time the ship is 25 years old.
 58.At least one double bottom tank that is used exclusively for fuel oil to be surveyed internally every 5 years starting when the ship is 10 years old and all such double bottom tanks to be surveyed by the time the ship is 25 years old.
 59.The survey period for an item not specified in this Part shall be that period determined by the Authority.
-[Schedule 3 deleted in Gazette 11 Dec 2009 p. 5109.]
+[Schedule 3 deleted: Gazette 11 Dec 2009 p. 5109.]
