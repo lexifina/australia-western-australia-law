@@ -37,5 +37,5 @@ s. 50DA | Benefiting from offence against Part IIIA
 s. 50DB | Encouraging offence against Part IIIA
 Customs Act 1901 of the Commonwealth
 s. 233BAB | Special offences relating to tier 2 goods (if the offence involves items of child pornography or of child abuse material)
-[Schedule 2 amended by No. 27 of 2008 s. 12; No. 21 of 2010 s. 13; No. 54 of 2012 s. 38.]
+[Schedule 2 amended: No. 27 of 2008 s. 12; No. 21 of 2010 s. 13; No. 54 of 2012 s. 38.]
 [Schedule 3 has not come into operation.]
