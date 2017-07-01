@@ -290,13 +290,13 @@ Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes 
  | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Statutes (Repeals) Act 2016 Pt. 2 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
  | Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 1 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see 2(b))
+ | School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 | 41 of 2016 | 28 Nov 2016 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
@@ -401,10 +401,7 @@ On the date as at which this compilation was prepared, the Biodiversity Conserva
 313.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to the Western Australian Wildlife Authority.
-On the date as at which this compilation was prepared, the School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 had not come into operation. It reads as follows:
-21.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 delete the item relating to The Country High School Hostels Authority.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 364 had not come into operation. It reads as follows:
 364.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
