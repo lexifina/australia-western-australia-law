@@ -1,6 +1,6 @@
 ## Schedule 1 — Public authorities to which Part 5 applies
 [r. 6]
-[Heading inserted in Gazette 11 Jun 2013 p. 2163.]
+[Heading inserted: Gazette 11 Jun 2013 p. 2163.]
 1.A department established under the Public Sector Management Act 1994 section 35.
 2.An entity specified in the Public Sector Management Act 1994 Schedule 2 column 2.
 3.A local government.
@@ -26,4 +26,4 @@
 23.Western Australian Health Promotion Foundation mentioned in the Western Australian Health Promotion Foundation Act 2016 section 5.
 24.Western Australian Mint preserved and continued by the Gold Corporation Act 1987.
 25.Water Corporation established by the Water Corporation Act 1995.
-[Schedule 1 inserted in Gazette 11 Jun 2013 p. 2163-4; amended in Gazette 27 Dec 2013 p. 6472; 24 Jun 2016 p. 2311; 26 Aug 2016 p. 3653.]
+[Schedule 1 inserted: Gazette 11 Jun 2013 p. 2163-4; amended: Gazette 27 Dec 2013 p. 6472; 24 Jun 2016 p. 2311; 26 Aug 2016 p. 3653.]
