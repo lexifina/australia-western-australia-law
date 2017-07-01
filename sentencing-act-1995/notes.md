@@ -79,7 +79,7 @@ Reprint 9: The Sentencing Act 1995 as at 8 Jan 2016 (includes amendments listed 
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 9 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 1 and 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 Div. 1 and 2 | 45 of 2016 | 7 Dec 2016 | Pt. 4 Div. 1 and 2: 8 Dec 2016 (see s. 2(b)); Pt. 3 Div. 1: 1 Jul 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1159)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -87,7 +87,7 @@ Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
- | Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 Div. 3-6 | 45 of 2016 | 7 Dec 2016 | Pt. 3 Div. 1: 1 Jul 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1159); Pt. 4 Div. 3-6: to be proclaimed (see s. 2(c))
+ | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 3-6 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
@@ -237,32 +237,7 @@ This Division amends the Sentencing Act 1995.
 330.Schedule 1 amended
 In Schedule 1 delete the item relating to the Health (Miscellaneous Provisions) Act 1911.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 Div. 3-6 had not come into operation. They read as follows:
-Part 3 — Amendments about parole and post-sentencing supervision
-Division 1 — Sentencing Act 1995 amended
-18.Act amended
-This Division amends the Sentencing Act 1995.
-19.Section 89 amended
-(1) In section 89(2) delete “12” (each occurrence) and insert:
-6
-(2) In section 89(4) delete “2” and insert:
-one
-20.Section 97A inserted
-At the end of Part 13 Division 4 insert:
-97A.Declaration of serious violent offence for purposes of Sentence Administration Act 2003 Part 5A
-(1) In this section —
-family and domestic relationship has the meaning given in the Restraining Orders Act 1997 section 4(1);
-offence does not include an offence specified in the Sentence Administration Act 2003 Schedule 4;
-victim has the meaning given in section 13.
-(2) This section applies if a court is sentencing an offender to imprisonment for an indictable offence.
-(3) The court may, for the purposes of the Sentence Administration Act 2003 Part 5A, declare the offence to be a serious violent offence if the offence —
-(a) involved the use of, or counselling or procuring the use of, or conspiring or attempting to use, serious violence against another person; or
-(b) resulted in serious harm to, or the death of, another person.
-(4) The court must regard the existence of any of the following circumstances as an aggravating factor when deciding whether to make a declaration —
-(a) the offender has a history of violent offending;
-(b) the offender was in a family and domestic relationship with a victim of the offence when the offence was committed;
-(c) a victim of the offence was under 12 years of age when the offence was committed.
-(5) A declaration may be made by the court on its own initiative or on an application by the prosecutor.
+On the date as at which this compilation was prepared, the Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 3-6 had not come into operation. They read as follows:
 Part 4 — Other amendments to the Sentencing Act 1995
 Division 3 — Amendments about suspended fines
 48.Section 14 amended
@@ -538,9 +513,10 @@ breach4(1)
 CBO4(2)
 CCO4(2)
 CEO (corrections)4(1)
+circumstances of aggravation145A(1)
 COC Act9A(1)
 COC Act offence9A(1)
-commencement150A(1)
+commencement150A(1), 150AB(1)
 community based order4(1)
 community corrections centre4(1)
 community corrections officer4(1)
@@ -559,6 +535,7 @@ DPP4(2)
 driver’s licence105(5)
 early release order76(4), 81(4)
 excluded offence33A(1)
+family and domestic relationship97A(1)
 fine57(1)
 firearm106(5)
 firearms offence106(5)
@@ -576,7 +553,7 @@ marine qualification107(5)
 motor vehicle105(5)
 motor vehicle offence105(5)
 nominal sentence98(1)
-offence4(1)
+offence4(1), 97A(1)
 offender4(1), 79(1), 84E(1), 129(1)
 original offence32(1)
 parole eligibility order85(1)
@@ -613,7 +590,7 @@ term imposed35(1)
 third party118(1), 120(1)
 translated sentence 85(1)
 vessel107(5)
-victim9AA(1), 13, 116, 120(1)
+victim9AA(1), 13, 97A(1), 116, 120(1)
 video link14A(4)
 WDO57A(4)
 written reasons33A(7), 35(4), 80(5A), 84F(5A)
