@@ -99,47 +99,16 @@ Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2015 | 12 Jun 2
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 27 May 2016 p. 1549-54 | 1 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Vessel Pilotage) Regulations 2016 Pt. 3 (other than r. 8(2)) | 16 Sep 2016 p. 3943-5 | 17 Sep 2016 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 3) 2016 Pt. 3 | 23 Dec 2016 p. 5913-15 | 24 Dec 2016 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Transport Regulations Amendment (Vessel Pilotage) Regulations 2016 r. 8(2) | 16 Sep 2016 p. 3943-5 | 17 Sep 2017 (see r. 2(b))
-Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).
 The Shipping and Pilotage Amendment Act 2006 s. 10 commenced on 4 June 2010.
 Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
 On the date as at which this compilation was prepared, the Transport Regulations Amendment (Vessel Pilotage) Regulations 2016 r. 8(2) had not come into operation. It reads as follows:
 (2) Delete regulation 9(c) and (e).
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Shipping and Pilotage (Ports and Harbours) Regulations 1966 amended
-14.Regulations amended
-This Part amends the Shipping and Pilotage (Ports and Harbours) Regulations 1966.
-15.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 9B(2)(b) | $520 | $529
-r. 9F(2)(c) | $336 | $341.80
-r. 14(3) | $5 804.72 | $5 949.84
-r. 15(3) | $955.27 | $979.15
-r. 15A(1) | $951.70 | $975.49
-r. 15A(2) | $951.70 | $975.49
-r. 15A(2) | $1 129.93 | $1 158.18
-r. 15B | $452.69 | $464.01
-r. 15B | $648.74 | $664.96
-r. 15C | $142.57 | $146.13
-r. 15C | $955.27 | $979.15
-r. 15C | $2 480.87 | $2 542.89
-r. 16(d)(i) | $1 049.73 | $1 075.97
-Sch. 3 Div. 1 it. 1 | $8 122.59 | $8 325.65
-Sch. 3 Div. 1 it. 1 | $8 312.24 | $8 520.05
-Sch. 3 Div. 1 it. 1 | $9 226.73 | $9 457.40
-Sch. 3 Div. 1 it. 1 | $10 202.52 | $10 457.58
-Sch. 3 Div. 1 it. 1 | $12 242.55 | $12 548.61
-Sch. 3 Div. 1 it. 1 | $13 688.07 | $14 030.27
-Sch. 3 Div. 1 it. 1 | $14 986.05 | $15 360.70
-Sch. 3 Div. 1 it. 2(a) | $793.08 | $812.91
-Sch. 3 Div. 1 it. 2(c)(i) | $452.69/hour | $464.01/hour
-Sch. 3 Div. 1 it. 2(c)(ii) | $648.74/hour | $664.96/hour
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

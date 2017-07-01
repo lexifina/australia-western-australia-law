@@ -31,25 +31,8 @@ Reprint 4: The Perth Parking Management Regulations 1999 as at 15 Aug 2014 (incl
 Perth Parking Management Amendment Regulations 2015 | 13 Feb 2015 p. 652-3 | r. 1 and 2: 13 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Feb 2015 (see r. 2(b))
 Perth Parking Management Amendment Regulations (No. 2) 2015 | 15 May 2015 p. 1729-30 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Perth Parking Management Amendment Regulations 2016 | 13 May 2016 p. 1428 | r. 1 and 2: 13 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4had not come into operation. It reads as follows:
-Part 4 — Perth Parking Management Regulations 1999 amended
-7.Regulations amended
-This Part amends the Perth Parking Management Regulations 1999.
-8.Schedule 2 amended
-In Schedule 2 item 11:
-(a) in paragraph (b) delete “1 088.60” and insert:
-1 107.70
-(b) in paragraph (c) delete “1 005.80” and insert:
-1 023.50
-(c) in paragraph (d) delete “1 005.80” and insert:
-1 023.50
-(d) in paragraph (e) delete “1 132.00” and insert:
-1 151.90
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
