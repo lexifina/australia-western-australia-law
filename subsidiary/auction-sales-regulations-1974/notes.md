@@ -19,6 +19,8 @@ Auction Sales Amendment Regulations 2014 | 17 Jun 2014 p. 1956 | r. 1 and 2: 17 
 Reprint 2: The Auction Sales Regulations 1974 as at 7 Nov 2014 (includes amendments listed above)
 Auction Sales Amendment Regulations 2015 | 23 Jun 2015 p. 2160-1 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
+Licensing Provisions Regulations Amendment Regulations 2017 Pt. 2 | 27 Jun 2017 p. 3408-16 | 1 Jul 2017 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -27,3 +29,5 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act1(2)
+surrendered licence8C(1)
+transition period8B(1)
