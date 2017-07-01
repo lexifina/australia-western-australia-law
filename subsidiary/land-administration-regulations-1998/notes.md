@@ -34,6 +34,7 @@ Land Administration Amendment Regulations 2013 | 16 Jul 2013 p. 3247-8 | r. 1 an
 Land Administration Amendment Regulations 2015 | 13 Oct 2015 p. 4062-3 | r. 1 and 2: 13 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Oct 2015 (see r. 2(b))
 Land Administration Amendment Regulations 2016 | 6 Sep 2016 p. 3825-6 | r. 1 and 2: 6 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2016 (see r. 2(b) and Gazette 6 Sep 2016 p. 3826)
 Land Administration Regulations Amendment Regulations 2016 Pt. 2 | 6 Sep 2016 p. 3826-7 | 7 Sep 2016 (see r. 2(b))
+Land Administration Amendment Regulations (No. 2) 2017 | 27 Jun 2017 p. 3435-6 | r. 1 and 2: 27 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
 Defined terms
