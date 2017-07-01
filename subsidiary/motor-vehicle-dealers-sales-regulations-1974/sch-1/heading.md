@@ -1,5 +1,5 @@
 ## Schedule 1 — Forms
-[Heading inserted in Gazette 17 Nov 2006 p. 4753.]
+[Heading inserted: Gazette 17 Nov 2006 p. 4753.]
 ## Form 1 — Register of transactions
 [r. 3]
 Western Australia Motor Vehicle Dealers Act 1973 section 25 Motor Vehicle Dealers (Sales) Regulations 1974 regulation 3 Dealers register of transactions for registered premises situated at: ............................................................................................................................ (This register is to be produced on demand by any person mentioned in the Motor Vehicle Dealers Act 1973 section 25(2).) | Remarks:
@@ -14,7 +14,7 @@ Engine No.
 VIN/ Chassis No.
 Licence Plate No.
 Register No.:
-[Form 1 inserted in Gazette 17 Nov 2006 p. 4753.]
+[Form 1 inserted: Gazette 17 Nov 2006 p. 4753.]
 Note:Forms 2 and 3 have been deliberately omitted.
 ## Form 4 — Vehicle particulars and warranty
 [r. 7]
@@ -28,7 +28,7 @@ The warranty means that the selling dealer must repair or make good all defects 
 MORE INFORMATION If you have any questions or require further information about the statutory warranty contact the Consumer Protection Call Centre on 1300 304 054 (Mon to Fri). TTY (08) 9282 0800 (hearing impaired). Internet: www.docep.wa.gov.au ALWAYS CONTACT THE DEALER FIRST TO DISCUSS WARRANTY REPAIRS Please see reverse for a “Quick Guide to Warranty Items”
 (reverse — for cars)
 (reverse— for bikes)
-[Form 4 inserted in Gazette 17 Nov 2006 p. 4754-5; amended in Gazette 8 Jan 2015 p. 89.]
+[Form 4 inserted: Gazette 17 Nov 2006 p. 4754-5; amended: Gazette 8 Jan 2015 p. 89.]
 ## Form 5 — Notice of defects excluded from warranty
 [r. 6]
 WESTERN AUSTRALIA Motor Vehicle Dealers Act 1973 section 35 Motor Vehicle Dealers (Sales) Regulations 1974 regulation 6 NOTICE OF DEFECTS EXCLUDED FROM WARRANTY This vehicle is provided with a warranty under the Motor Vehicle Dealers Act 1973, except for the defects stated below
@@ -42,7 +42,7 @@ PLEASE SEE REVERSE FOR IMPORTANT INFORMATION ABOUT THIS VEHICLE PURCHASE
 •an accurate and detailed description of the defect, and an accurate estimate of the repair cost has been stated; and •you are given a signed copy of this notice before, or at the time of, sale. Remember, it will be your responsibility to repair the defects listed on the front of this notice.
 DESCRIPTION OF DEFECTS The “Details of Defect” should set out (with reasonable particularity) a description of the nature of the defect. For example, it would not be considered reasonable for a dealer to state “engine” as the defect and estimate $800 as the cost of repairs. What should be stated is the particular defect with the engine, such as “excessive exhaust smoke — piston rings require replacement” together with the estimated cost of repairs.
 MORE INFORMATION If you have any questions or require further information about statutory warranties or this notice, contact the Consumer Protection Call Centre on 1300 304 054 (Mon to Fri). TTY (08) 9282 0800 (hearing impaired). Internet: www.docep.wa.gov.au
-[Form 5 inserted in Gazette 17 Nov 2006 p. 4755-7.]
+[Form 5 inserted: Gazette 17 Nov 2006 p. 4755-7.]
 ## Form 6 — Vehicle particulars — no warranty
 [r. 7]
 WESTERN AUSTRALIA Motor Vehicle Dealers Act 1973 section 33 Motor Vehicle Dealers (Sales) Regulations 1974 regulation 7 VEHICLE PARTICULARS — NO WARRANTY
@@ -59,4 +59,4 @@ The following vehicles are excluded —
 5. | A multi-wheeled open motor vehicle the driver of which sits astride the vehicle or part of the vehicle in a manner similar to that customary for the driver of a motor cycle.
 WARRANTIES IMPLIED UNDER FAIR TRADING AND TRADE PRACTICES LAWS The Fair Trading Act 2010 and Trade Practices Act 1974 (Cwlth) require the dealer selling this vehicle to ensure that the vehicle matches any description given and that it is of “merchantable quality”. This means that it must be fit for the purpose for which a vehicle of that nature is normally used. The amount of money you have paid for the vehicle is taken into account when determining merchantable quality. For example, even though a vehicle is not covered by the statutory warranty under the Motor Vehicle Dealers Act 1973, you are entitled to expect the dealer to repair any major defects that were present at the time of sale which prevent the vehicle from being used in the normal way. This also applies to anything that makes the vehicle unsafe to drive (eg. faulty brakes, faulty steering or major structural rust).
 The requirement of merchantable quality does not apply — ·to defects specifically drawn to your attention before the contract of sale is made; or ·if you examine the vehicle for defects before the contract is made, to defects that examination should have revealed. VEHICLES BOUGHT AT AUCTION Vehicles purchased at auction do not carry a “statutory warranty” if they are being auctioned on behalf of a member of the public. MORE INFORMATION If you have any questions or require further information about statutory warranties or this notice, contact the Consumer Protection Call Centre on 1300 304 054 (Mon to Fri). TTY (08) 9282 0800 (hearing impaired). Internet: www.docep.wa.gov.au
-[Form 6 inserted in Gazette 17 Nov 2006 p. 4757-8; amended in Gazette 30 Jun 2011 p. 2660; 8 Jan 2015 p. 89.]
+[Form 6 inserted: Gazette 17 Nov 2006 p. 4757-8; amended: Gazette 30 Jun 2011 p. 2660; 8 Jan 2015 p. 89.]

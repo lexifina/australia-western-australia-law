@@ -1,6 +1,6 @@
 ## Schedule 4 — Vehicle consignment contract
 [r. 13A]
-[Heading inserted in Gazette 17 Nov 2006 p. 4759.]
+[Heading inserted: Gazette 17 Nov 2006 p. 4759.]
 VEHICLE CONSIGNMENT CONTRACT
 TERMS AND CONDITIONS
 (PLEASE READ CAREFULLY)
@@ -44,4 +44,4 @@ TERMS AND CONDITIONS
 13.NOTICE
 13.1Any Notice required by this Contract may be given by direct communication, telephone, electronically, fax or post to the addresses and numbers included in this Contract.
 13.2If sent by post, a Notice will be considered to have been received, unless the contrary is shown, at the time when the Notice would have been delivered in the ordinary course of the post.
-[Schedule 4, formerly Fourth Schedule, inserted in Gazette 13 Aug 2002 p. 4167-9; amended in Gazette 30 Jun 2011 p. 2660.]
+[Schedule 4, formerly Fourth Schedule, inserted: Gazette 13 Aug 2002 p. 4167-9; amended: Gazette 30 Jun 2011 p. 2660.]
