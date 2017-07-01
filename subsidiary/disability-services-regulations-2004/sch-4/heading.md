@@ -1,8 +1,8 @@
 ## Schedule 4 — Prescribed service providers and complaint returns
 [r. 41(2) and (3)]
-[Heading inserted in Gazette 17 Jul 2015 p. 2916.]
+[Heading inserted: Gazette 17 Jul 2015 p. 2916.]
 ## Division 1 — Service providers
-[Heading inserted in Gazette 17 Jul 2015 p. 2916.]
+[Heading inserted: Gazette 17 Jul 2015 p. 2916.]
 Disability Service Provider (Legal entity names)
 Activ Foundation Incorporated
 Seventh-day Adventist Aged Care (Western Australia) Limited
@@ -24,9 +24,9 @@ Senses Australia
 The Cerebral Palsy Association Of Western Australia Ltd
 Therapy Focus Incorporated
 UnitingCare West
-[Division 1 inserted in Gazette 17 Jul 2015 p. 2916-17.]
+[Division 1 inserted: Gazette 17 Jul 2015 p. 2916-17.]
 ## Division 2 — Form of complaint return
-[Heading inserted in Gazette 17 Jul 2015 p. 2917.]
+[Heading inserted: Gazette 17 Jul 2015 p. 2917.]
 I.Profile of the person making the complaint
 The information entered into this part of the complaint report provides useful descriptors to support service providers to interpret data entered in the following sections of this report. Service providers are encouraged to complete all fields in this section recognising the value this provides to individuals with a disability, services and the disability sector. This information may facilitate effective analysis and identification of opportunities for improvement across the sector.
 Question 1 is optional and your responses will not be submitted to HaDSCO
@@ -59,7 +59,7 @@ Note: Complaints that are not closed at the end of a reporting period (30 June) 
 14. | Please list the postcode(s) where the service was provided. (If more than one location, please list the postcodes of all locations) | 1..... (Numbers only, WA postcode) 2......(Numbers only, WA postcode) 3..... (Numbers only, WA postcode) 4......(Numbers only, WA postcode) 5......(Numbers only, WA postcode)
 Question 15 is optional and will not be submitted to HaDSCO
 15. | Please record your case notes for this complaint here _______________________________________________________ _______________________________________________________ _______________________________________________________ _______________________________________________________ _______________________________________________________ _______________________________________________________
-16. | How is the service funded? [Please select all that apply] 1Disability Services Commission (DSC) 2DSC - NDIS/My Way trial sites (My Way) 3NDIA - NDIS trial sites (NDIA) 4Home and Community Care (HACC) program (Disability) 5Home and Community Care (HACC) program (Non-disability)* 6Other local, state or federal government [Please specify] _________* 7Other non-governmental funding source [Please specify] _________* * Note: Only complaints that are fully or partially funded by 1 (DSC), 2 (My Way), 3 (NDIA) or 4 (HACC) program (Disability) will be included in your report to HaDSCO.
+16. | How is the service funded? [Please select all that apply] 1Disability Services Commission (DSC) 2DSC - WA NDIS trial sites (WA NDIS) 3NDIA - NDIS trial sites (NDIA) 4Home and Community Care (HACC) program (Disability) 5Home and Community Care (HACC) program (Non-disability)* 6Other local, state or federal government [Please specify] _________* 7Other non-governmental funding source [Please specify] _________* * Note: Only complaints that are fully or partially funded by 1 (DSC), 2 (WA NDIS), 3 (NDIA) or 4 (HACC) program (Disability) will be included in your report to HaDSCO.
 17. | Which service(s) was the complaint about? (See Definitions) [Please select all that apply]
  | Accommodation support | 1Large residential/institution (>20 places) - 24-hour care [NMDS code: 1.01] 2Small residential/institution (7-20 places) - 24-hour care [NMDS code: 1.02] 3Hostels - generally not 24-hour care [NMDS code: 1.03]
  |  | 4Group homes (usually <7 places) [NMDS code: 1.04] 5Attendant care/personal care [NMDS code: 1.05] 6In-home accommodation support [NMDS code: 1.06] 7Alternative family placement [NMDS code: 1.07] 8Other accommodation support [NMDS code: 1.08] [Please specify] ________________
@@ -116,4 +116,4 @@ This section records details about any action(s) taken to resolve the complaint 
 Only respond to question 30 if all outcomes sought were not achieved (question 26).
 30. | Why did your service not achieve all of the outcomes that were desired by the person who made the complaint? [Please select all that apply] 1Complaint was made anonymously 2Part of the complaint was unrelated to services provided by our agency 3Complaint was withdrawn 4The person who made the complaint did not have the authority to make a complaint on behalf of the person receiving a disability service 5Difference of opinion between parties 6Complaint was vexatious 7The issues raised were about the provider, but were not within the provider’s control or influence to address [Please specify] ____________ 8Other [Please specify] _____________
 31. | If you have any other comments about the complaint please record them here _______________________________________________________ _______________________________________________________ _______________________________________________________
-[Division 2 inserted in Gazette 17 Jul 2015 p. 2917-32.]
+[Division 2 inserted: Gazette 17 Jul 2015 p. 2917-32; amended: Gazette 16 Jun 2017 p. 2933.]
