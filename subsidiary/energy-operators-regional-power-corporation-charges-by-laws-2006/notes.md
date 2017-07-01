@@ -18,6 +18,8 @@ Reprint 2: The Energy Operators (Regional Power Corporation) (Charges) By-laws 2
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2015 | 26 Jun 2015 p. 2247-52 | bl. 1 and 2: 26 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2016 | 28 Jun 2016 p. 2626-8 | bl. 1 and 2: 28 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws (No. 2) 2016 | 31 Aug 2016 p. 3707-10 | bl. 1 and 2: 31 Aug 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2016 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2017 | 27 Jun 2017 p. 3419-24 | bl. 1 and 2: 27 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws (No. 2) 2017 | 30 Jun 2017 p. 3562-4 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b)(i))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
