@@ -25,6 +25,7 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 201
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 3) 2015 | 30 Jun 2015 p. 2335-6 | bl. 1 and 2: 30 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2016 | 1 Jul 2016 p. 2743-5 | bl. 1 and 2: 1 Jul 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2016 | 1 Jul 2016 p. 2745-7 | bl. 1 and 2: 1 Jul 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2017 | 30 Jun 2017 p. 3574 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
