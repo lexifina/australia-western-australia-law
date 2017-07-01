@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Petroleum and Geothermal Energy Resources (Resource Management and Administration) Regulations 2015 | 30 Jun 2015 p. 2405-531 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Pt. 9: 1 Jul 2015 (see s. r. 2(b) and Gazette 30 Jun 2015 p. 2321); Regulations other than r. 1, 2 and Pt. 9: 1 Jul 2015 (see r. 2(c))
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 13 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 14 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

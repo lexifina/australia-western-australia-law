@@ -26,6 +26,7 @@ Reprint 3: The Petroleum (Submerged Lands) Regulations 1990 as at 14 Nov 2014 (i
 Petroleum (Submerged Lands) Amendment Regulations 2015 | 30 Jun 2015 p. 2345 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2 and Gazette 30 Jun 2015 p. 2321)
 Petroleum (Submerged Lands) Amendment Regulations (No. 2) 2015 | 30 Jun 2015 p. 2348-9 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 8 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 12 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Commencement day was 16 December 2000 (see Gazette 15 Dec 2000 p. 7201).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

@@ -22,6 +22,8 @@ Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 2 | 5 Feb 2016
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Reprint 2: The Dangerous Goods Safety (Explosives) Regulations 2007 as at 7 Oct 2016 (includes amendments listed above)
 Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 2 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Dangerous Goods (Explosives) Amendment Regulations 2017 | 27 Jun 2017 p. 3431-2 | r. 1 and 2: 27 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -24,6 +24,7 @@ Petroleum Pipelines Amendment Regulations 2014 | 25 Feb 2014 p. 503 | r. 1 and 2
 Petroleum Pipelines Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1986-7 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Petroleum Pipelines Amendment Regulations 2015 | 30 Jun 2015 p. 2350-1 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 14 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 16 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 The Acts Amendment (Petroleum) Act 1990 was proclaimed on 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

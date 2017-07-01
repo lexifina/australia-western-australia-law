@@ -11,6 +11,7 @@ Reprint 1: The Mines Safety and Inspection Levy Regulations 2010 as at 14 Mar 20
  | Mines Safety and Inspection Levy Amendment Regulations 2014 | 30 May 2014 p. 1690-1 | r. 1 and 2: 30 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
  | Mines Safety and Inspection Levy Amendment Regulations 2015 | 26 Jun 2015 p. 2261-2 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
  | Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 7 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
