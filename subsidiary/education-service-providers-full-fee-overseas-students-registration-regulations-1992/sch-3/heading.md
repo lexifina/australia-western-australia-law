@@ -14,4 +14,4 @@ Education Service Providers (Full Fee Overseas Students) Registration Act 1992 A
  | Field 4 | Gender (M/F)
  | Field 3 | Country of origin (code)
  | Field 2 | Student number
-[Schedule 3 inserted in Gazette 6 Sep 1996 p. 4409.]
+[Schedule 3 inserted: Gazette 6 Sep 1996 p. 4409.]

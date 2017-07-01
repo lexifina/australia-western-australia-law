@@ -54,4 +54,4 @@ Swan Christian High School | Midland
 Trinity College | East Perth
 Ursula Frayne Catholic College | Victoria Park
 Wesley College | South Perth
-[Schedule 2 inserted in Gazette 22 Dec 1995 p. 6168-9; amended in Gazette 7 Mar 1997 p. 1405.]
+[Schedule 2 inserted: Gazette 22 Dec 1995 p. 6168-9; amended in Gazette 7 Mar 1997 p. 1405.]
