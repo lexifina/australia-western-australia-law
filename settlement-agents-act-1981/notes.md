@@ -53,10 +53,7 @@ Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 4 | 6 of 2012 | 10 Apr 
 Electronic Conveyancing Act 2014 Pt. 7 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Consumer Protection Legislation Amendment Act 2014 Pt. 14 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Reprint 7: The Settlement Agents Act 1981 as at 13 Mar 2015 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Licensing Provisions Amendment Act 2016 Pt. 8 | 44 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
+Licensing Provisions Amendment Act 2016 Pt. 8 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -66,37 +63,6 @@ Repealed by the Land Administration Act 1997 s. 281.
 The Real Estate Legislation Amendment Act 1995 s. 65(2) and 87 are saving and transitional provisions that are of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions for certain acts and omissions occurring before 23 Apr 2003.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Licensing Provisions Amendment Act 2016 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Settlement Agents Act 1981 amended
-36.Act amended
-This Part amends the Settlement Agents Act 1981.
-37.Section 24 amended
-(1) Delete section 24(3).
-(2) In section 24(4) delete “determines, verified if the Commissioner so requires by statutory declaration.” and insert:
-determines.
-38.Section 26A amended
-(1) Delete section 26A(3).
-(2) In section 26A(4) delete “determines, verified if the Commissioner so requires by statutory declaration.” and insert:
-determines.
-39.Section 26B amended
-(1) Delete section 26B(3).
-(2) In section 26B(4) delete “determines, verified if the Commissioner so requires by statutory declaration.” and insert:
-determines.
-40.Section 33 amended
-(1) Delete section 33(3).
-(2) In section 33(4) delete “determines, verified if the Commissioner so requires by statutory declaration.” and insert:
-determines.
-41.Section 111A inserted
-After section 110 insert:
-111A.Offence to give false or misleading information
-(1) A person who gives false or misleading information in relation to an application under section 24, 26A, 26B, 31 or 33 commits an offence.
-Penalty for this subsection: a fine of $20 000.
-(2) For the purposes of subsection (1), a person gives false or misleading information in relation to an application referred to in subsection (1) if the person does one or more of the following —
-(a) states anything in relation to an application that the person knows is false or misleading in a material particular;
-(b) omits anything from a statement made in relation to an application without which the statement is, to the person’s knowledge, misleading in a material particular;
-(c) gives or produces any information in relation to an application that —
-(i) the person knows is false or misleading in a material particular; or
-(ii) omits anything without which the information is, to the person’s knowledge, misleading in a material particular.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

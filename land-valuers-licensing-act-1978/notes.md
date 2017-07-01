@@ -22,34 +22,11 @@ Acts Amendment (Bankruptcy) Act 2009 s. 49 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Acts Amendment (Fair Trading) Act 2010 Pt. 3 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Reprint 4: The Land Valuers Licensing Act 1978 as at 14 Oct 2011 (includes amendments listed above) (correction to reprint in Gazette 24 Aug 2012 p. 3959)
 Consumer Protection Legislation Amendment Act 2014 Pt. 5 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Licensing Provisions Amendment Act 2016 Pt. 4 | 44 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
+Licensing Provisions Amendment Act 2016 Pt. 4 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(b).
-On the date as at which this compilation was prepared, the Licensing Provisions Amendment Act 2016 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Land Valuers Licensing Act 1978 amended
-15.Act amended
-This Part amends the Land Valuers Licensing Act 1978.
-16.Section 17 amended
-Delete section 17(3).
-17.Section 19 amended
-In section 19 after “person who” insert:
-pays to the Commissioner the prescribed fee and
-18.Section 20 replaced
-Delete section 20 and insert:
-20.Offence to give false or misleading information
-(1) A person who gives false or misleading information in relation to an application under this Part for the grant or renewal of a licence commits an offence.
-Penalty for this subsection: a fine of $20 000.
-(2) For the purposes of subsection (1), a person gives false or misleading information in relation to an application under this Part for the grant or renewal of a licence if the person does one or more of the following —
-(a) states anything in relation to an application that the person knows is false or misleading in a material particular;
-(b) omits anything from a statement made in relation to an application without which the statement is, to the person’s knowledge, misleading in a material particular;
-(c) gives or produces any information in relation to an application that —
-(i) the person knows is false or misleading in a material particular; or
-(ii) omits anything without which the information is, to the person’s knowledge, misleading in a material particular.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

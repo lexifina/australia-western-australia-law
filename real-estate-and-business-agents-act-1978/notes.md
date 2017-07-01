@@ -54,10 +54,7 @@ Acts Amendment (Fair Trading) Act 2010 Pt. 6 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2
 Statutes (Repeals and Minor Amendments) Act 2011 s. 25 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 7: The Real Estate and Business Agents Act 1978 as at 18 Nov 2011 (includes amendments listed above)
 Consumer Protection Legislation Amendment Act 2014 Pt. 10 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Licensing Provisions Amendment Act 2016 Pt. 7 | 44 of 2016 | 1 Dec 2016 | To be proclaimed (see s. 2(b))
+Licensing Provisions Amendment Act 2016 Pt. 7 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -71,46 +68,6 @@ The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 4(2
 (3) Where a person may give notice of a claim under section 116(2) as amended by this section, notice of the claim given by the person previously in writing to the Board (whether or not dealt with by the Board) is to be taken to be notice of the claim for the purposes of that section.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions which may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Licensing Provisions Amendment Act 2016 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Real Estate and Business Agents Act 1978 amended
-29.Act amended
-This Part amends the Real Estate and Business Agents Act 1978.
-30.Section 24 amended
-(1) Delete section 24(3).
-(2) In section 24(4) delete “determines, verified if the Commissioner so requires by statutory declaration.” and insert:
-determines.
-31.Section 33 amended
-(1) Delete section 33(3).
-(2) In section 33(4) delete “determines, verified if the Commissioner so requires by statutory declaration.” and insert:
-determines.
-32.Section 43 amended
-(1) Delete section 43(2).
-(2) In section 43(3) delete “determines, verified if the Commissioner so requires by statutory declaration.” and insert:
-determines.
-33.Section 49 amended
-(1) Delete section 49(5).
-(2) In section 49(6) delete “determines, verified if the Commissioner so determines by statutory declaration.” and insert:
-determines.
-34.Section 61 amended
-(1) In section 61(4) delete “unless there is a failure to settle the transaction and that failure is due to the fault of the agent’s principal.” and insert:
-unless —
-(a) there is a failure to settle the transaction and that failure is due to the fault of the agent’s principal; or
-(b) it is a prescribed transaction.
-(2) In section 61(4a) insert in alphabetical order —
-prescribed transaction means any of the following transactions —
-(a)the sale of a lot in a proposed scheme described in the Strata Titles Act 1985 section 70(1);
-(b) any other transaction prescribed, or that belongs to a class of transactions prescribed, for the purposes of this definition;
-35.Section 134A inserted
-After section 133 insert:
-134A.Offence to give false or misleading information
-(1) A person who gives false or misleading information in relation to an application under section 24, 33, 43, 48 or 49 commits an offence.
-Penalty for this subsection: a fine of $20 000.
-(2) For the purposes of subsection (1), a person gives false or misleading information in relation to an application referred to in subsection (1) if the person does one or more of the following —
-(a) states anything in relation to an application that the person knows is false or misleading in a material particular;
-(b) omits anything from a statement made in relation to an application without which the statement is, to the person’s knowledge, misleading in a material particular;
-(c) gives or produces any information in relation to an application that —
-(i) the person knows is false or misleading in a material particular; or
-(ii) omits anything without which the information is, to the person’s knowledge, misleading in a material particular.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -157,6 +114,7 @@ licensee4(1)
 member4(1)
 party23C(7)
 person aggrieved23(2)
+prescribed transaction61(4a)
 real estate4(1)
 real estate agent4(1)
 real estate sales representative4(1)
