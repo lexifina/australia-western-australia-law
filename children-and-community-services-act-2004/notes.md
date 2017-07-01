@@ -8,7 +8,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Family Legislation Amendment Act 2006 Pt. 6 Div. 1 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Child Care Services Act 2007 Pt. 7 Div. 1 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 1: The Children and Community Services Act 2004 as at 4 Apr 2008 (includes amendments listed above)
-Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p\ . 511)
+Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 4-11 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
@@ -26,41 +26,15 @@ Declared Places (Mentally Impaired Accused) Act 2015 s. 82 | 4 of 2015 | 3 Mar 2
 Reprint 4: The Children and Community Services Act 2004 as at 10 Jul 2015 (includes amendments listed above)
 Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 1 and Pt. 3 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 6 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 2 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 2 had not come into operation. It reads as follows:
-Part 3 — Consequential amendments to other Acts
-Division 2 — Children and Community Services Act 2004 amended
-90.Act amended
-This Division amends the Children and Community Services Act 2004.
-91.Section 3 amended
-(1) In section 3 delete the definitions of:
-act of family and domestic violence
-exposed
-(2) In section 3 insert in alphabetical order:
-exposed, in relation to family violence, has the meaning given in the Restraining Orders Act 1997 section 6A(1);
-family violence has the meaning given in the Restraining Orders Act 1997 section 5A(1);
-(3) In section 3 in the definition of social services paragraph (l) delete “and domestic”.
-92.Section 23 amended
-In section 23 in the definition of relevant information paragraph (a)(iii) delete “one or more acts of family and domestic” and insert:
-family
-93.Section 28A amended
-In section 28A(1) in the definition of relevant information paragraph (a)(ii) delete “one or more acts of family and domestic” and insert:
-family
-94.Section 28 amended
-In section 28(1) in the definition of emotional abuse paragraph (b) delete “an act of family and domestic” and insert:
-family
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Aboriginal child3
 Aboriginal person3
-act of family and domestic violence3
 adult3
 advisory body27(1)
 amending sectionSch. 1 cl. 26
@@ -124,6 +98,7 @@ exposed3
 extended orderSch. 1 cl. 1
 facility125A(1)
 family business188
+family violence3
 firearm112
 first listing date3
 guidelines80(1)
