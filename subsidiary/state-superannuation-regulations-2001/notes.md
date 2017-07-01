@@ -58,11 +58,7 @@ Reprint 6: The State Superannuation Regulations 2001 as at 8 Jan 2016 (includes 
 State Superannuation Amendment Regulations (No. 4) 2016 | 1 Jul 2016 p. 2750 | r. 1 and 2: 1 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 State Superannuation Amendment Regulations 2016 | 5 Jul 2016 p. 2817-19 | r. 1 and 2: 5 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jul 2016 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2016 | 26 Aug 2016 p. 3667-8 | r. 1 and 2: 26 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b) and Gazette 26 Jul 2016 p. 3145)
-State Superannuation Amendment Regulations (No. 2) 2016 r. 3, 4, 7-14 and 16-45 | 10 Jan 2017 p. 147-57 | 11 Jan 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-State Superannuation Amendment Regulations (No. 2) 2016 r. 5, 6 and 15 | 10 Jan 2017 p. 147-57 | 1 Jul 2017 (see r. 2(c))
+State Superannuation Amendment Regulations (No. 2) 2016 | 10 Jan 2017 p. 147-57 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2 and 5, 6 and 15: 11 Jan 2017 (see r. 2(b)); r. 5, 6 and 15: 1 Jul 2017 (see r. 2(c))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.slp.wa.gov.au.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
 Repealed by the State Superannuation Act 2000 s. 39.
@@ -80,44 +76,6 @@ is taken to have become a statutory Member when he or she ceased to be so exclud
 The State Superannuation Amendment Regulations (No. 4) 2008 had not come into operation when it was deleted by the State Superannuation Amendment Regulations 2009 Pt. 3.
 The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 (2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
-On the date as at which this compilation was prepared, the State Superannuation Amendment Regulations (No. 2) 2016 r. 5, 6 and 15 had not come into operation. They read as follows:
-5.Regulation 50A amended
-After regulation 50A(1) insert:
-(1A) Subregulation (1) does not prevent a person whose membership of the West State Super Scheme is terminated under regulation 53(2) from resuming membership under regulation 53(3).
-6.Regulation 53 amended
-(1) In regulation 53:
-(a) delete “A person” and insert:
-(1) A person
-(b) in paragraph (d) delete “regulation 79AAA.” and insert:
-regulation 79AAA; or
-(c) after paragraph (d) insert:
-(e) the Board terminates the person’s membership of the West State Super Scheme under subregulation (2).
-(2) At the end of regulation 53 insert:
-(2) The Board may terminate a person’s membership of the West State Super Scheme if —
-(a) the balance of the person’s west state account is reduced to zero other than in any of the circumstances mentioned in subregulation (1)(a) to (d); and
-(b) the Board reasonably believes that no further amount will be credited to the account.
-(3) A person whose membership is terminated under subregulation (2) may resume membership of the West State Super Scheme by tendering a contribution to the Fund in accordance with subregulation (4).
-(4) For the purposes of subregulation (3) a contribution —
-(a) must be of at least the minimum amount fixed by the Board for the purposes of subregulation (3); and
-(b) must be tendered within 30 days after the Board gives the member information about the termination of membership under regulation 224B.
-(5) A person who resumes membership of the West State Super Scheme under subregulation (3), is taken to have been a West State Super Member continuously since before the termination of membership.
-15.Regulation 87 amended
-(1) In regulation 87:
-(a) delete “A person” and insert:
-(1) A person
-(b) in paragraph (d) delete “regulation 121A.” and insert:
-regulation 121A; or
-(c) after paragraph (d) insert:
-(e) the Board terminates the person’s membership under subregulation (2).
-(2) At the end of regulation 87 insert:
-(2) The Board may terminate a person’s membership of the GESB Super Scheme if —
-(a) the balance of the person’s GESB Super account is reduced to zero other than in any of the circumstances mentioned in subregulation (1)(a) to (d); and
-(b) the Board reasonably believes that no further amount will be credited to the account.
-(3) A person whose membership is terminated under subregulation (2) may resume membership of the GESB Super Scheme by tendering a contribution to the Fund in accordance with subregulation (4).
-(4) For the purposes of subregulation (3) a contribution —
-(a) must be of at least the minimum amount fixed by the Board for the purposes of subregulation (3); and
-(b) must be tendered within 30 days after the Board gives the member information about the termination of membership under regulation 224B.
-(5) A person who resumes membership of the GESB Super Scheme under subregulation (3), is taken to have been a GESB Super Member continuously since before the termination of membership.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
