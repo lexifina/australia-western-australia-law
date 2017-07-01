@@ -6,6 +6,7 @@ Health Services (Fees and Charges) Order 2016 | 1 Jul 2016 p. 2775-811 | 1 Jul 2
 Health Services (Fees and Charges) Amendment Order 2016 | 21 Oct 2016 p. 4783 | cl. 1 and 2: 21 Oct 2016 (see cl. 2(a)); Order other than cl. 1 and 2: 22 Oct 2016 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 2) 2017 | 3 Feb 2017 p. 1112-13 | cl. 1 and 2: 3 Feb 2017 (see cl. 2(a)); Order other than cl. 1 and 2: 4 Feb 2017 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 3) 2017 | 5 May 2017 p. 2369 | cl. 1 and 2: 5 May 2017 (see cl. 2(a)); Order other than cl. 1 and 2: 6 May 2017 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order (No. 4) 2017 | 30 Jun 2017 p. 3566-7 | cl. 1 and 2: 30 Jun 2017 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2017 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
