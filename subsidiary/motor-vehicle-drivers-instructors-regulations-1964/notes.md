@@ -67,6 +67,7 @@ Reprint 7: The Motor Vehicle Drivers Instructors Regulations 1964 as at 2 Oct 20
 Motor Vehicle Drivers Instructors Amendment Regulations 2016 | 5 Apr 2016 p. 1030 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 3 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations 2017 | 26 May 2017 p. 2634 | r. 1 and 2: 26 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 27 May 2017 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 3 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 is a transitional provision that is of no further effect.
 The Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2001 r. 9 and Sch. 1 and 2 are transitional and saving provisions that are of no further effect.

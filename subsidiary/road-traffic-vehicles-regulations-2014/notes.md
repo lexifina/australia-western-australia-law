@@ -14,6 +14,7 @@ Road Traffic Regulations Amendment (Pilot Vehicle Drivers) Regulations 2016 Pt. 
 Road Traffic (Vehicles) Amendment Regulations 2017 | 20 Jan 2017 p. 651-2 | r. 1 and 2: 20 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Mar 2017 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 | 7 Feb 2017 p. 1177-8 | 7 Feb 2017 (see note under r. 1)
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 26 May 2017 p. 2639-45 | 26 May 2017 (see r. 2(a))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 5 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
 2.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2015.

@@ -54,6 +54,7 @@ Transport (Country Taxi-car) Amendment Regulations 2014 | 8 Jan 2015 p. 65-7 | r
 Transport (Country Taxi-car) Amendment Regulations 2015 | 12 Jun 2015 p. 2035 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 3 | 27 May 2016 p. 1554-6 | 1 Jul 2016 (see r. 2(b))
 On-demand Transport Regulations Amendment Regulations 2016 Pt. 6 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 7 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.

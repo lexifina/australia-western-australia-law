@@ -12,6 +12,7 @@ Road Traffic Regulations Amendment Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2342-
 Road Traffic (Administration) Amendment Regulations 2016 | 20 Sep 2016 p. 3983-4 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2016 (see r. 2(b))
 Road Traffic Regulations Amendment (Pilot Vehicle Drivers) Regulations 2016 Pt. 3 | 15 Nov 2016 p. 5062-77 | 28 Nov 2016 (see r. 2(b))
 Road Traffic (Administration) Amendment Regulations (No. 2) 2016 | 25 Nov 2016 p. 5280-2 | r. 1 and 2: 25 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2016 (see r. 2(b) and Gazette 25 Nov 2016 p. 5279)
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 4 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
