@@ -2,8 +2,7 @@
 [Regulation 4]
 Petroleum (Submerged Lands) Act 1982
 Petroleum (Submerged Lands) Regulations 1990
-Form of Instrument of Transfer of Title
-under section 78 of Petroleum (Submerged Lands) Act 1982
+Form of Instrument of Transfer of Title under section 78 of Petroleum (Submerged Lands) Act 1982
 I/We (1) (2) ................................................................................................................ being the registered holder/holders (1) of (3) ........................................................... in consideration of (4) ............................................................................................. hereby transfer all right, title and interest in that (3) ............................................ to (5) ......................................................................................................................
 In witness of this transfer the parties to the transfer have affixed their respective common seals or signatures below on this ................................................ day of .......................................... 20 ..................
 (6)(7)
