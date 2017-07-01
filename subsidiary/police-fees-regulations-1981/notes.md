@@ -43,6 +43,7 @@ Police (Fees) Amendment Regulations 2015 | 2 Jun 2015 p. 1942-3 | r. 1 and 2: 2 
 Police (Fees) Amendment Regulations (No. 2) 2015 | 24 Jul 2015 p. 3056-7 | r. 1 and 2: 24 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2015 (see r. 2(b))
 Reprint 4: The Police (Fees) Regulations 1981 as at 16 Oct 2015 (includes amendments listed above)
 Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
+Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 27 Jun 2017 p. 3440-8 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
