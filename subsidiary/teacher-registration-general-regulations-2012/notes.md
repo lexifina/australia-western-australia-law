@@ -11,6 +11,7 @@ Teacher Registration (General) Amendment Regulations 2015 | 13 Mar 2015 p. 849 |
 Teacher Registration (General) Amendment Regulations (No. 2) 2015 | 12 Jun 2015 p. 2024-5 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Reprint 1: The Teacher Registration (General) Regulations 2012 as at 7 Aug 2015 (includes amendments listed above)
 Teacher Registration Regulations (Fees) Amendment Regulations 2016 Pt. 2 | 14 Jun 2016 p. 1823-5 | 1 Jul 2016 (see r. 2(b))
+Education and Training Regulations Amendment (Fees) Regulations 2017 Pt. 4 | 27 Jun 2017 p. 3416-19 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
