@@ -182,12 +182,11 @@ Graffiti Vandalism Act 2016 Pt. 6 Div. 1 | 16 of 2016 | 11 Jul 2016 | 12 Oct 201
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Sentencing Legislation Amendment Act 2016 Pt. 2 Div. 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 1 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and Gazette 13 Jan 2017 p. 338)
-Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 s. 97, 98 and 100 | 49 of 2016 | 29 Nov 2016 | 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 4 (s. 97-100) | 49 of 2016 | 29 Nov 2016 | s. 97, 98 and 100: 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157); s. 99: 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 s. 99 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -226,23 +225,14 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
 -35Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 s. 99 had not come into operation. It reads as follows:
-99.Section 221 amended
-(1) In section 221(1) in the definition of circumstances of aggravation:
-(a) in paragraph (a) delete “and domestic”;
-(b) in paragraph (c) delete “order” and insert:
-order, other than an order under Part 1C,
-(2) Delete section 221(2) and insert:
-(2) In this section —
-family relationship has the meaning given in the Restraining Orders Act 1997 section 4(1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accessory after the fact10
-accused5(1)(b), 10G(2), 10H(2)
+accused5(1), 10G(2), 10H(2)
 adult offender1(1)
-advice given546(12)
-agent546(1)
+advice given546
+agent546
 aggravated home burglary1(1)
 aid148(1)
 aircraft1(1)
@@ -265,7 +255,7 @@ bulletproof clothing557I(1)
 carnal connection6
 carnal knowledge6
 charge5(1)
-child1(1)(b), 217A, 306(1), 320(1), 321(1), 322(1), 331A, 557K(1)
+child1(1), 217A, 306(1), 320(1), 321(1), 322(1), 331A, 557K(1)
 child care centre557K(1)
 child exploitation material217A
 child pornography217A
@@ -282,11 +272,11 @@ compound136(1)
 computer generated image204B(1)
 computer system440A(1)
 conducting a business331C(1)
-consent319(2)(a)
+consent319(2)
 consort557J(1), 557K(1)
-contract546(7)
+contract546
 conveyance1(1), 284(1), 390A(1)
-court5(1)(b)
+court5(1)
 court of summary jurisdiction1(1)
 CP Act720
 criminal organisation221C(1), 221D(1)
@@ -321,12 +311,11 @@ electronic204B(1)
 electronic communication204B(1), 489
 enclosed land70B(1)
 explosive substance1(1), 455, 557(2)
-family and domestic relationship221(2)
+family relationship221(2)
 female genital mutilation306(1)
-first relevant conviction401A(1)(a)(i), (b)(ii)(II)
+first relevant conviction401A(1), 401A(1)
 forge1(1)
 government contractor81(1)
-graffiti implement216(1)
 grievous bodily harm1(1)
 harass76
 harm305A(1)
@@ -340,7 +329,7 @@ identification material 489
 identification material494(1)
 identity offence494(1)
 impair305A(1)
-in relation to his principal’s affairs or business546(11)
+in relation to his principal’s affairs or business546
 incapable person331A
 incites1(1)
 indecent act319(1)
@@ -368,15 +357,15 @@ mental impairment1(1)
 money1(1)
 mortgaged goods389
 motor vehicle1(1)
-new conviction401A(4)(b)
+new conviction401A(4)
 night1(1)
 night-time1(1)
 obstruct172(1)
 obtains1(1)
 occupant244(1), 254(2)
-offence2, 244(6), 563A(3) and (5)
-offence A10B(1) and (2)
-offender446(1)
+offence 2
+offence244(6), 563A(3), 563B(5)
+offence A10B(1), 10B(2)
 offensive material204A(1)
 official information81(1)
 organise75B(1)
@@ -386,7 +375,7 @@ password440A(1)
 periodical343A(2)
 person1(1)
 person employed in the Public Service1(1)
-person having business relations with the principal546(10)
+person having business relations with the principal546
 person in authority70A(1)
 picture204B(1), 217A
 place244(6), 254(1), 400(1)
@@ -396,10 +385,10 @@ prescribed amount68D(1)
 prescribed circumstances297(8), 318(5)
 prescribed offence321A(1)
 prescribed place68B(1)
-principal546(2)
-principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1), 553(1), 558(1)(a) and (b), 562(1)
+principal546
+principal offence10D, 10E, 10F, 10G(1), 10G(2), 10H(1), 10H(2), 552(1), 553(1), 558(1), 558(1), 562(1)
 print98(1), 99(1)
-prior relevant convictions401A(4)(a)
+prior relevant convictions401A(4)
 prison145(1)
 proceeds563A(3)
 prohibited conduct187(1)
@@ -408,7 +397,6 @@ provider305A(3)
 provocation245, 245
 public officer1(1), 84
 public place1(1)
-public property446(1)
 public servant81(1)
 publish76, 98(1), 99(1), 345(7)
 pursue338D(1)
@@ -427,20 +415,20 @@ review date740B(1)
 reward96(1)
 riot62
 riotously assembled62
-second relevant conviction401A(1)(a)(ii) and (b)(iii)(II)
+second relevant conviction401A(1), 401A(1)
 seditious enterprise46
 seditious intention44
 seditious words46
 seditious writing46
 sentence completion date401A(5)
-sentencing court401A(4)(d)
+sentencing court401A(4)
 serious disease1(1)
 servant1(1)
 set305(1)
 sexual act321A(1)
 sexual service331A
 ship1(1)
-solicit any valuable consideration546(9)
+solicit any valuable consideration546
 special property371(2)
 steal371
 summarily1(1)
@@ -452,19 +440,19 @@ to indecently record319(1)
 to sexually penetrate319(1)
 transaction563A(3)
 trespass70A(1)
-trustee546(2)
+trustee546
 unamended CodeSch. 1 cl. 2(1)
 unauthorised disclosure81(1)
 unlawful assembly62
 use390A(1), 440A(1)
 used in connection with an offence563B(5)
 utter1(1)
-valuable consideration546(4)-(6)
-valuable consideration solicited546(9)
+valuable consideration546, 546, 546
+valuable consideration solicited546
 valuable security1(1)
 vehicle1(1), 75A(2)
 vessel1(1)
-victim204B(1), 331D(1)(a) and (2)(b), 345(1), 494(1)
+victim204B(1), 331D(1), 331D(2), 345(1), 494(1)
 voice print489
 volatile substance206(1)
 wilfully destroy or damage443

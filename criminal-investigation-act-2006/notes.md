@@ -22,31 +22,17 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 (other than 
 Criminal Investigation Amendment Act 2014 | 31 of 2014 | 3 Dec 2014 | s. 1 and 2: 3 Dec 2014 (see s. 2(a)); Act other than s. 1 and 2: 28 Jan 2015 (see s. 2(b) and Gazette 27 Jan 2015 p. 435)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Reprint 3: The Criminal Investigation Act 2006 as at 4 Sep 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014)
+Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 5 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
-Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 5 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 s. 52(1) had not come into operation. It reads as follows:
 52.Section 142 amended
 (1) Delete section 142(7)(a)(ii) and insert:
 (ii) under the Mental Health Act 2014 section 157;
 The paragraph that it seeks to amend has been deleted.
-On the date as at which this compilation was prepared, the Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 5 had not come into operation. It reads as follows:
-Part 3 — Consequential amendments to other Acts
-Division 5 — Criminal Investigation Act 2006 amended
-101.Act amended
-This Division amends the Criminal Investigation Act 2006.
-102.Section 128 amended
-In section 128(1) in the definition of serious offence delete paragraph (c) and insert:
-(c)that involves family violence as defined in the Restraining Orders Act 1997 section 5A(2)(a), (b), (e) or (j) or a threat to enact that violence; or
-103.Section 135 amended
-In section 135(2):
-(a) in paragraph (b) delete “place.” and insert:
-place; or
-(b) after paragraph (b) insert:
-(c) the person is complying with an order under the Restraining Orders Act 1997 section 62F(1)(c) or (2)(a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -136,7 +122,7 @@ reasonably suspects3(1)
 record3(1)
 relevant thing73
 remote communication3(1)
-responsible person73
+responsible person73, 73
 road18(1)
 search warrant3(1)
 searcher65(1), 70(1), 71(1), 72(1)
@@ -147,9 +133,9 @@ serious event37(1)
 serious offence40(1), 57, 128(1), 133(1), 142(1)
 statutory penalty3(1)
 strip search3(1)
-suspect25(2) and (3), 26(5), 73, 91(1), 92(1), 97(1), 115
-target device58(3)(d)
-target person58(3)(g)
+suspect25(2), 25(3), 26(5), 73, 91(1), 92(1), 97(1), 115
+target device58(3)
+target person58(3)
 target place43(1), 44(1)
 target thing43(1), 44(1)
 thing relevant to an offence3(1)
