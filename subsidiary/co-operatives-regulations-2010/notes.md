@@ -9,6 +9,7 @@ Co-operatives Amendment Regulations 2012 | 27 Nov 2012 p. 5733 | 27 Nov 2012
 Co-operatives Amendment Regulations 2013 | 27 Jun 2013 p. 2673-6 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Co-operatives Amendment Regulations 2015 | 23 Jun 2015 p. 2167-9 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Co-operatives Amendment Regulations 2016 | 2 Dec 2016 p. 5407-52 | r. 1 and 2: 2 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2017 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 8 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,7 +27,8 @@ judicial officer41(1)
 limited dividendSch. 3 cl. 72(2)
 memberSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
 parent entity18C(1)
-receiverSch. 1 cl. 22(1), Sch. 2 cl. 19(1), Sch. 2 cl. 31(1), Sch. 3 cl. 19(1), Sch. 3 cl. 31(1)
+receiverSch. 1 cl. 22(1), Sch. 2 cl. 19(1), Sch. 2 cl. 31(1)
+Sch. 3 cl. 19(1), Sch. 3 cl. 31(1)
 regulationsSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
 schemeSch. 7 cl. 1
 scheme co-operativeSch. 7 cl. 1

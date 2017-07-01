@@ -33,6 +33,7 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2015 | 23 Jun 2015 p. 2175 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Reprint 5: The Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 as at 14 Aug 2015 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 10 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 12 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

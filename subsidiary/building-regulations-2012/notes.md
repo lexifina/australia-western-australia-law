@@ -23,6 +23,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 3 Jun
 Reprint 3: The Building Regulations 2012 as at 12 Aug 2016 (includes amendments listed above)
 Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Building Amendment Regulations 2017 | 7 Feb 2017 p. 1160-2 | r. 1 and 2: 7 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Feb 2017 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms

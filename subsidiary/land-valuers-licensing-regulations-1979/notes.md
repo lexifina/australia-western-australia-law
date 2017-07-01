@@ -43,6 +43,7 @@ Land Valuers Licensing Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4318 
 Land Valuers Licensing Amendment Regulations 2015 | 15 May 2015 p. 1718-19 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2015 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations (No. 2) 2015 | 23 Jun 2015 p. 2176 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 11 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 13 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 The Curtin University of Technology Act 1966 s. 5 established the Western Australian Institute of Technology as the Curtin University of Technology from 1 January 1987.
 The commencement date of 1 Jul 1989 that was specified was before the date of gazettal.
 Defined terms

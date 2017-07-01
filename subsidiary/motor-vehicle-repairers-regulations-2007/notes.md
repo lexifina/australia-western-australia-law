@@ -22,6 +22,7 @@ Motor Vehicle Repairers Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 91-3 
 Motor Vehicle Repairers Amendment Regulations 2015 | 23 Jun 2015 p. 2179-80 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Reprint 3: The Motor Vehicle Repairers Regulations 2007 as at 7 Aug 2015 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 13 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 15 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

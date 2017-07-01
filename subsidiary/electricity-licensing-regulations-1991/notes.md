@@ -46,6 +46,7 @@ Electricity (Network Safety) Regulations 2015 r. 43 | 5 Aug 2015 p. 3141-96 | 6 
 Reprint 7: The Electricity (Licensing) Regulations 1991 as at 4 Sep 2015 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations 2017 | 2 May 2017 p. 2291-302 | r. 1 and 2: 2 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2017 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
