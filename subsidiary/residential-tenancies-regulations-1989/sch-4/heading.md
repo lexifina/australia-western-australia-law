@@ -170,8 +170,8 @@ Reasonable time
 26.1between 8.00 a.m. and 6.00 p.m. on a weekday; or
 26.2between 9.00 a.m. and 5.00 p.m. on a Saturday; or
 26.3at any other time agreed between the lessor and each tenant.
-Requirement to negotiate a day and time for a proposed entry by the lessor
-27.The lessor or property manager must make a reasonable attempt to negotiate a day and time that does not unduly inconvenience the tenant.
+REQUIREMENT TO NEGOTIATE A DAY AND TIME FOR A PROPOSED ENTRY BY THE LESSOR
+27.If it would unduly inconvenience the tenant for the lessor or property manager to enter the premises as specified in a notice of an intention to enter premises on a particular day, the lessor or property manager must make a reasonable attempt to negotiate a day and time that does not unduly inconvenience the tenant.
 Requirement to give tenant notice of proposed entry
 28.Where the lessor or property manager gives a tenant notice of an intention to enter premises on a particular day, the notice must specify the day and whether it will be before or after 12.00 p.m.
 Tenant entitled to be present
@@ -245,7 +245,7 @@ NOTICES
 51B.A notice from the tenant to the lessor may be given to the property manager or the lessor’s agent.
 51C.A notice under this agreement may be given to a person:
 51C.1by giving it to the person directly; or
-51C.2if an address for service for the person is given in the agreement — by posting it to, or leaving it at, the address for service; or
+51C.2if an address for service for the person is given in the agreement — by posting it to the address for service; or
 51C.3if the person has agreed under Part A to the electronic service of notices — by sending the notice to the email address or facsimile number given in Part A.
 51D.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
 ADVICE, COMPLAINTS AND DISPUTES
@@ -271,17 +271,11 @@ THE LESSOR AND TENANT ENTER INTO THIS AGREEMENT AND AGREE TO ALL ITS TERMS.
 SIGNED BY THE LESSOR/PROPERTY MANAGER
 ............................................................... [Signature of lessor/property manager]
 Date: ...................................
-in the presence of:
-............................................ [Name of witness]
-............................................ [Signature of witness]
 SIGNED BY THE TENANT
 ............................................. [Signature of tenant]
 Date: ...................................
-in the presence of:
-............................................ [Name of witness]
-............................................ [Signature of witness]
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
-[Form 1AA inserted in Gazette 3 May 2013 p. 1757-76; amended in Gazette 21 Aug 2015 p. 3313-14.]
+[Form 1AA inserted in Gazette 3 May 2013 p. 1757-76; amended in Gazette 21 Aug 2015 p. 3313-14; 30 Jun 2017 p. 3556-7.]
 FORM 1AB
 Residential Tenancies Act 1987
 Section 27A
@@ -457,8 +451,8 @@ Reasonable time
 28.1between 8.00 a.m. and 6.00 p.m. on a weekday; or
 28.2between 9.00 a.m. and 5.00 p.m. on a Saturday; or
 28.3at any other time agreed between the lessor and each tenant.
-Requirement to negotiate a day and time for a proposed entry by the lessor
-29.The lessor or property manager must make a reasonable attempt to negotiate a day and time that does not unduly inconvenience the tenant.
+REQUIREMENT TO NEGOTIATE A DAY AND TIME FOR A PROPOSED ENTRY BY THE LESSOR
+29.If it would unduly inconvenience the tenant for the lessor or property manager to enter the premises as specified in a notice of an intention to enter premises on a particular day, the lessor or property manager must make a reasonable attempt to negotiate a day and time that does not unduly inconvenience the tenant.
 Requirement to give tenant notice of proposed entry
 30.Where the lessor or property manager gives a tenant notice of an intention to enter premises on a particular day, the notice must specify the day and whether it will be before or after 12.00 p.m.
 Tenant entitled to be present
@@ -535,7 +529,7 @@ NOTICES
 55A.3if there is no prescribed form or approved form — in writing.
 55B.A notice under this agreement may be given to a person:
 55B.1by giving it to the person directly; or
-55B.2if an address for service for the person is given in the agreement — by posting it to, or leaving it at, the address for service; or
+55B.2if an address for service for the person is given in the agreement — by posting it to the address for service; or
 55B.3if the person has agreed under Part A to the electronic service of notices — by sending the notice to the email address or facsimile number given in Part A.
 55C.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
 ADVICE, COMPLAINTS AND DISPUTES
@@ -560,18 +554,12 @@ ADDITIONAL TERMS: ..............................................................
 THE LESSOR AND TENANT ENTER INTO THIS AGREEMENT AND AGREE TO ALL ITS TERMS.
 SIGNED BY THE LESSOR/PROPERTY MANAGER
 ............................................................... [Signature of lessor/property manager]
-Date: .....................................
-in the presence of:
-............................................... [Name of witness]
-............................................... [Signature of witness]
-SIGNED BY THE TENANT
-.............................................. [Signature of tenant]
 Date: ...................................
-in the presence of:
-............................................ [Name of witness]
-........................................... [Signature of witness]
+SIGNED BY THE TENANT
+............................................. [Signature of tenant]
+Date: ...................................
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
-[Form 1AB inserted in Gazette 3 May 2013 p. 1776-96; amended in Gazette 21 Aug 2015 p. 3314-15.]
+[Form 1AB inserted in Gazette 3 May 2013 p. 1776-96; amended in Gazette 21 Aug 2015 p. 3314-15; 30 Jun 2017 p. 3557-8.]
 FORM 1AC
 Residential Tenancies Act 1987
 Section 27B
@@ -581,7 +569,7 @@ At the start of your tenancy you must be given the following by the lessor or th
 •a copy of this information statement
 •a copy of your residential tenancy agreement
 •2 copies of the property condition report (must be received within 7 days after you have entered into occupation of the premises)
-•a bond lodgment form for you to sign (if you are paying a security bond), so that it can be lodged with the Bond Administrator
+•a receipt for any bond that you have paid
 •keys to your new home.
 Upfront costs
 You are not required to pay:
@@ -619,7 +607,7 @@ Email: consumer@commerce.wa.gov.au
 Internet: www.commerce.wa.gov.au/ConsumerProtection
 Regional offices: Goldfields/Esperance:(08) 9026 3250 Great Southern:(08) 9842 8366 Kimberley:(08) 9191 8400 South-West:(08) 9722 2888 North-West:(08) 9185 0900 Mid-West:(08) 9920 9800
 The WA Government provides funding assistance to the WA Tenancy Network which provides advice, information and advocacy to tenants throughout Western Australia. Contact the Consumer Protection Advice Line on 1300 30 40 54 for referral to a centre near you.
-[Form 1AC inserted in Gazette 3 May 2013 p. 1797-800; amended in Gazette 20 Jan 2015 p. 371.]
+[Form 1AC inserted in Gazette 3 May 2013 p. 1797-800; amended in Gazette 20 Jan 2015 p. 371; 30 Jun 2017 p. 3558.]
 FORM 1AD
 Residential Tenancies Act 1987
 Section 27B
@@ -629,7 +617,7 @@ Although you do not have a written residential tenancy agreement you and the les
 At the start of your tenancy you must be given the following by the lessor or the property manager of the premises:
 •a copy of this information statement
 •2 copies of the property condition report (must be received within 7 days after you have entered into occupation of the premises)
-•a bond lodgment form for you to sign (if you are paying a security bond), so that it can be lodged with the Bond Administrator
+•a receipt for any bond that you have paid
 •keys to your new home.
 Upfront costs
 You are not required to pay:
@@ -744,8 +732,8 @@ Reasonable time
 25.1between 8.00 a.m. and 6.00 p.m. on a weekday; or
 25.2between 9.00 a.m. and 5.00 p.m. on a Saturday; or
 25.3at any other time agreed between the lessor and each tenant.
-Requirement to negotiate a day and time for a proposed entry by the lessor
-26.The lessor or property manager must make a reasonable attempt to negotiate a day and time that does not unduly inconvenience the tenant.
+REQUIREMENT TO NEGOTIATE A DAY AND TIME FOR A PROPOSED ENTRY BY THE LESSOR
+26.If it would unduly inconvenience the tenant for the lessor or property manager to enter the premises as specified in a notice of an intention to enter premises on a particular day, the lessor or property manager must make a reasonable attempt to negotiate a day and time that does not unduly inconvenience the tenant.
 Requirement to give tenant notice of proposed entry
 27.Where the lessor or property manager gives a tenant notice of an intention to enter premises on a particular day, the notice must specify the day and whether it will be before or after 12.00 p.m.
 Tenant entitled to be present
@@ -819,7 +807,7 @@ NOTICES
 50B.A notice from the tenant to the lessor may be given to the property manager or the lessor’s agent.
 50C.A notice under this agreement may be given to a person:
 50C.1by giving it to the person directly; or
-50C.2if an address for service for the person is provided by the person — by posting it to, or leaving it at, the address for service; or
+50C.2if an address for service for the person is provided by the person — by posting it to the address for service; or
 50C.3if the person has agreed in writing to the service of notices by email or facsimile — by sending the notice to the email address or facsimile number provided by the person.
 50D.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
 ADVICE, COMPLAINTS AND DISPUTES
@@ -832,7 +820,7 @@ If a dispute cannot be resolved
 52.2requiring a party to the agreement to perform a certain action under the agreement; and
 52.3order the payment of any amount owing under the agreement; and
 52.4order the payment of compensation for loss or injury.
-[Form 1AD inserted in Gazette 3 May 2013 p. 1801-17; amended in Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16.]
+[Form 1AD inserted in Gazette 3 May 2013 p. 1801-17; amended in Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16; 30 Jun 2017 p. 3558-9.]
 FORM 1
 Residential Tenancies Act 1987
 Section 27C(6)
@@ -1043,7 +1031,7 @@ The lessor believes that this ground applies because ....................... ...
 (Note:This notice cannot be given during the term of a periodic residential tenancy agreement.)
 6.This notice of NOT LESS THAN 60 DAYS is given to you on the grounds that the lessor has determined, as a result of an assessment carried out under the Residential Tenancies Act 1987 section 71D, that you are not eligible to reside in social housing premises, or to reside in the class of social housing premises to which the agreement relates (see the Residential Tenancies Act 1987 section 71C).
 (Note:This notice can be given during the term of a periodic or a fixed term residential tenancy agreement.)
-7.This notice of NOT LESS THAN 30 DAYS is given to you on the ground that the lessor has offered to enter into a new social housing tenancy agreement with you in respect of alternative premises (see the Residential Tenancies Act 1987 section 71H).
+7.This notice of NOT LESS THAN 60 DAYS is given to you on the ground that the lessor has offered to enter into a new social housing tenancy agreement with you in respect of alternative premises (see the Residential Tenancies Act 1987 section 71H).
 (Note:This notice can be given during the term of a periodic or a fixed term residential tenancy agreement.)
 DATE: .......................................... SIGNED: ...................................................... (Lessor/property manager)
 ADDRESS: ............................................................................................................
@@ -1054,66 +1042,10 @@ IMPORTANT INFORMATION FOR TENANTS
 •The lessor is seeking to terminate your residential tenancy agreement and requires you to vacate the premises on the date specified in this notice.
 •If you do not vacate the premises, the lessor may apply to court for an order terminating your residential tenancy agreement and requiring you to vacate the premises.
 •You should seek advice immediately if you do not understand this notice or if you require further information.
-[Form 1C inserted in Gazette 3 May 2013 p. 1826-9.]
-FORM 2
-RESIDENTIAL TENANCIES ACT 1987
-Section 79(3)(a)
-NOTICE TO FORMER TENANT AS TO DISPOSAL OF GOODS
-TO ..........................................................................................................................
-(name of former tenant)
-of ............................................................................................................................
-(forwarding address of former tenant)
-1.The residential tenancy agreement in respect of the premises at ................ ...................................................................................................................... between you as tenant and me as lessor was terminated on .......................
-(insert date)
-2.The following goods were left on the premises —
-......................................................................................................................
-(specify goods*)
-......................................................................................................................
-which I put into storage under section 79(2) of the Act on ........................
-(insert date)
-3.Under section 79(7) of the Act, a person who has a lawful right to the goods may reclaim them upon paying to me the reasonable costs incurred for removal and storage.
-4.If the goods have not been reclaimed within 60 days after the date shown in paragraph 2 above —
-(a)I am required by the Act to have them sold by public auction; and
-(b)I am entitled, subject to approval of a competent court, to receive from the proceeds of sale my costs and any amount owing to me under the terminated agreement and to pay the balance into court.
-......................................................................................................................
-(date)(signature of lessor)
-..................................................................................
-(name of lessor)
-..................................................................................
-(address of lessor)
-..................................................................................
-* NOTE:Under section 79(1) of the Act, a lessor need not store, but may remove and destroy —
-(a)perishable foodstuffs; and
-(b)goods whose value is less than the estimated cost of removal, storage and sale.
-[Form 2 amended in Gazette 29 Apr 2005 p. 1775; 3 May 2013 p. 1829.]
-FORM 3
-RESIDENTIAL TENANCIES ACT 1987
-Section 79(3)(b)
-NOTICE AS TO DISPOSAL OF GOODS
-1.A residential tenancy agreement in respect of the premises at .................... ...................................................................................................................... between ........................................................................................................ as lessor and ................................................................................................. as tenant was terminated on .........................................................................
-2.The following goods were left on the premises — ..................................... ...................................................................................................................... which have been put into storage under section 79(2) of the Act on ..........
-3.Under section 79(7) of the Act, a person who has a lawful right to the goods may reclaim them upon paying to the lessor the reasonable costs incurred for removal and storage.
-4.If the goods have not been reclaimed within 60 days after the date shown in paragraph 2 above the lessor —
-(a)is required by the Act to have them sold by public auction; and
-(b)is entitled, subject to approval of a competent court, to receive from the proceeds of sale the lessor’s costs and any amount owing to the lessor under the terminated agreement, and to pay the balance into court.
-......................................................................................................................
-(date)(signature of lessor)
-..................................................................................
-(name of lessor)
-..................................................................................
-(address of lessor)
-[Form 3 amended in Gazette 29 Apr 2005 p. 1775; 3 May 2013 p. 1829-30.]
+[Form 1C inserted in Gazette 3 May 2013 p. 1826-9; amended in Gazette 30 Jun 2017 p. 3559.]
+[Forms 2 and 3 deleted in Gazette 30 Jun 2017 p. 3559.]
 [Form 4 deleted in Gazette 3 May 2013 p. 1830.]
-FORM 5
-MAGISTRATES COURT ………. REGISTRY Ph: Fax: | Residential Tenancies Act 1987 Schedule 1 clause 8(3) and (4) NOTICE OF INTENTION TO DISPUTE APPLICATION FOR DISPOSAL OF BOND MONEY | Case number: Date lodged:
-APPLICANT (S) Tick [ü] a box ¨ Lessor ¨ Tenant | Name(s):
-Address: | Postcode: Daytime telephone:
-RESPONDENT (S) Tick [ü] a box ¨ Lessor ¨ Tenant | Name(s):
-Address: | Postcode: Daytime telephone:
-TAKE NOTICE that I intend to dispute this application for the following reasons: THE PRESCRIBED DISPUTE FEE OF $18.00 MUST BE FORWARDED WITH THIS NOTICE AT THE TIME OF LODGMENT
-Signature of respondent(s) |  | Date | / /
-Respondent’s address for service of notices is:
-[Form 5 inserted in Gazette 29 Apr 2005 p. 1775-6; amended in Gazette 3 May 2013 p. 1830.]
+[Form 5 deleted in Gazette 30 Jun 2017 p. 3559.]
 FORM 6
 Residential Tenancies Act 1987 section 88A(3) Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
