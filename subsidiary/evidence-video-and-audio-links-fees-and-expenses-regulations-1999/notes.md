@@ -20,3 +20,4 @@ Reprint 3: The Evidence (Video and Audio Links Fees and Expenses) Regulations 19
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2014 | 27 Jun 2014 p. 2341 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2015 | 19 Jun 2015 p. 2122-3 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 6 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))

@@ -27,6 +27,7 @@ Civil Judgments Enforcement Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 3 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Electronic Processes) Regulations 2016 Pt. 2 | 2 Dec 2016 p. 5385-7 | 3 Dec 2016 (see r. 2(b))
 Civil Judgments Enforcement Amendment Regulations 2016 | 13 Jan 2017 p. 338-50 | r. 1 and 2: 13 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2017 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.

@@ -18,6 +18,7 @@ Reprint 3: The Coroners Regulations 1997 as at 23 May 2014 (includes amendments 
 Coroners Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2337 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Coroners Amendment Regulations 2015 | 19 Jun 2015 p. 2118-19 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 4 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

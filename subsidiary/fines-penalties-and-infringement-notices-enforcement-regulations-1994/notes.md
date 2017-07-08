@@ -68,6 +68,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Attorney General Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 3 | 30 Dec 2016 p. 5965-6 | 31 Dec 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 173-6 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 3 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
