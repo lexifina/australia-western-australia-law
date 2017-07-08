@@ -5,61 +5,61 @@
 Table
 Fees | $
 1.Application for an exemption under section 7(4) —
-(a)if one of the purposes is for commercial purposes (as provided by section 7(2)(e) of the Act) | 2 396.00
-(b)if the application does not include commercial purposes (as provided by section 7(2)(a), (b), (c), (d), (f) and (g) of the Act) | 313.00
-2.Copy of entry on, or extract from, the register (reg. 114(2)(a)) | 34.00
-3.Access to the register in electronic form (reg. 114(2)(b)) | 34.00
-4.Application for replacement authorisation (reg. 129) | 21.00
-[Part 1 inserted in Gazette 9 Jun 2009 p. 1912; amended in Gazette 6 May 2011 p. 1609-10; 30 Jun 2015 p. 2333; 7 Oct 2016 p. 4375.]
+(a)if one of the purposes is for commercial purposes (as provided by section 7(2)(e) of the Act) | 2 465.00
+(b)if the application does not include commercial purposes (as provided by section 7(2)(a), (b), (c), (d), (f) and (g) of the Act) | 322.00
+2.Copy of entry on, or extract from, the register (reg. 114(2)(a)) | 35.00
+3.Access to the register in electronic form (reg. 114(2)(b)) | 35.00
+4.Application for replacement authorisation (reg. 129) | 22.00
+[Part 1 inserted in Gazette 9 Jun 2009 p. 1912; amended in Gazette 6 May 2011 p. 1609-10; 30 Jun 2015 p. 2333; 7 Oct 2016 p. 4375; 7 Jul 2017 p. 3696.]
 ## Part 2 — Application fees
 [reg. 135]
 [Heading inserted in Gazette 9 Jun 2009 p. 1913.]
 Fee | $
-1.Fishing boat licence, grant or renewal (reg. 118) | 89.00
-For transfer | 450.00
-For variation | 450.00
-2.Carrier boat licence, grant or renewal (reg. 120) | 89.00
-For transfer | 489.00
-For variation | 489.00
-3.Commercial fishing licence, grant or renewal (reg. 122) | 89.00
+1.Fishing boat licence, grant or renewal (reg. 118) | 92.00
+For transfer | 463.00
+For variation | 463.00
+2.Carrier boat licence, grant or renewal (reg. 120) | 92.00
+For transfer | 503.00
+For variation | 503.00
+3.Commercial fishing licence, grant or renewal (reg. 122) | 92.00
 [4, 5.deleted]
-6.Application for authority to use another boat (reg. 132) | 450.00
-7.Grant of permit under section 80 of the Act | 477.00
-8.Fish processor’s licence under section 83 of the Act | 415.00
-For renewal | 93.00
-For transfer | 415.00
-For variation (other than as set out in item 9) | 415.00
-9.Variation of fish processor’s licence to change place at which fish may be processed under the licence | 415.00
-10.Aquaculture lease, grant or renewal (reg. 67) | 2 525.00
+6.Application for authority to use another boat (reg. 132) | 463.00
+7.Grant of permit under section 80 of the Act | 491.00
+8.Fish processor’s licence under section 83 of the Act | 427.00
+For renewal | 96.00
+For transfer | 427.00
+For variation (other than as set out in item 9) | 427.00
+9.Variation of fish processor’s licence to change place at which fish may be processed under the licence | 427.00
+10.Aquaculture lease, grant or renewal (reg. 67) | 2 597.00
 11.Aquaculture licence under section 92 of the Act —
-In respect of freehold land | 175.00
-In respect of non-freehold land | 791.00
-For renewal | 89.00
-For transfer (freehold land) | 175.00
-For transfer (non-freehold land) | 582.00
-For variation (freehold land) | 175.00
-For variation (non-freehold land) | 582.00
-12.Authorisation under section 66 of the Act | 338.00
-For renewal | 89.00
-For transfer | 450.00
-For variation | 450.00
-13.Exclusive licence, grant or renewal (reg. 166) | 791.00
-14.Authority to take fish for scientific purposes (reg. 178) | 89.00
-15.Authority to bring in non-endemic fish (reg. 176) | 157.00
-16.Temporary transfer of part entitlements under section 141 of the Act | 157.00
-17.Register — notation under section 127 of the Act | 157.00
-Register — variation under section 131 of the Act | 157.00
-Register — removal of record under section 131 of the Act | 157.00
-18.Authority to take or handle fish for genetic or chemical extraction or analysis (reg. 179) | 771.00
-19.Restricted fishing tour operator’s licence (reg. 128J) | 71.00
-For renewal | 76.00
-For transfer | 228.00
-For variation | 228.00
-20.Fishing tour operator’s licence (reg. 128J) | 71.00
-For renewal | 76.00
-For transfer | 228.00
-For variation | 228.00
-[Part 2 inserted in Gazette 9 Jun 2009 p. 1913-14; amended in Gazette 12 Feb 2010 p. 586; 6 May 2011 p. 1610-11; 30 May 2014 p. 1736; 30 Jun 2015 p. 2334-5.]
+In respect of freehold land | 180.00
+In respect of non-freehold land | 814.00
+For renewal | 92.00
+For transfer (freehold land) | 180.00
+For transfer (non-freehold land) | 599.00
+For variation (freehold land) | 180.00
+For variation (non-freehold land) | 599.00
+12.Authorisation under section 66 of the Act | 348.00
+For renewal | 92.00
+For transfer | 463.00
+For variation | 463.00
+13.Exclusive licence, grant or renewal (reg. 166) | 814.00
+14.Authority to take fish for scientific purposes (reg. 178) | 92.00
+15.Authority to bring in non-endemic fish (reg. 176) | 162.00
+16.Temporary transfer of part entitlements under section 141 of the Act | 162.00
+17.Register — notation under section 127 of the Act | 162.00
+Register — variation under section 131 of the Act | 162.00
+Register — removal of record under section 131 of the Act | 162.00
+18.Authority to take or handle fish for genetic or chemical extraction or analysis (reg. 179) | 793.00
+19.Restricted fishing tour operator’s licence (reg. 128J) | 73.00
+For renewal | 78.00
+For transfer | 235.00
+For variation | 235.00
+20.Fishing tour operator’s licence (reg. 128J) | 73.00
+For renewal | 78.00
+For transfer | 235.00
+For variation | 235.00
+[Part 2 inserted in Gazette 9 Jun 2009 p. 1913-14; amended in Gazette 12 Feb 2010 p. 586; 6 May 2011 p. 1610-11; 30 May 2014 p. 1736; 30 Jun 2015 p. 2334-5; 7 Jul 2017 p. 3696-7.]
 ## Part 3 — Fees for the grant or renewal of authorisations
 [reg. 137]
 [Heading inserted in Gazette 9 Jun 2009 p. 1915.]
@@ -184,10 +184,10 @@ Fee | $
  | (2)a boat shorter than 6.5 m | 85.00
  | [7.deleted]
  | 8.Recreational fishing licence (r. 124) —
- | (a)fishing for rock lobster | 40.00
- | (b)fishing for marron | 40.00
- | (c)fishing for abalone | 40.00
- | (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
- | (e)fishing by means of a fishing net | 40.00
- | 9.Recreational (boat) fishing licence (r. 124C) | 30.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200; 4 Nov 2014 p. 4203; 30 Jun 2015 p. 2332; 30 Sep 2015 p. 3919-23; 8 Jan 2016 p. 22; 4 Oct 2016 p. 4237; 7 Oct 2016 p. 4376-9.]
+ | (a)fishing for rock lobster | 45.00
+ | (b)fishing for marron | 45.00
+ | (c)fishing for abalone | 45.00
+ | (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 45.00
+ | (e)fishing by means of a fishing net | 45.00
+ | 9.Recreational (boat) fishing licence (r. 124C) | 35.00
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200; 4 Nov 2014 p. 4203; 30 Jun 2015 p. 2332; 30 Sep 2015 p. 3919-23; 8 Jan 2016 p. 22; 4 Oct 2016 p. 4237; 7 Oct 2016 p. 4376-9; 7 Jul 2017 p. 3697.]
