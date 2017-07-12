@@ -1,6 +1,6 @@
 ## Schedule 2 — Supplementary Agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made this 14th day of September 1987 BETWEEN:
 THE HONOURABLE PAMELA ANNE BEGGS J.P. M.L.A. the Minister of the Crown for the time being charged with the administration of the Control Act acting for and on behalf of the State of Western Australia and its instrumentalities from time to time (“the State”) of the first part;
@@ -51,4 +51,4 @@ F. S. KAMP. Secretary
 THE COMMON SEAL of BURSWOOD MANAGEMENT LIMITED was hereunto affixed by authority of the Board of Directors in the presence of: |  | (C.S.)
 D. R. DEMPSTER. Director
 C. R. COULSON. Secretary
-[Schedule 2 inserted by No. 44 of 1987 s. 9.]
+[Schedule 2 inserted: No. 44 of 1987 s. 9.]

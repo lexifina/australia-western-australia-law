@@ -1,6 +1,6 @@
 ## Schedule 12 — Eleventh Supplementary Agreement
 [s. 3]
-[Heading inserted by No. 17 of 2008 s. 6.]
+[Heading inserted: No. 17 of 2008 s. 6.]
 Casino (Burswood Island) Agreement
 ELEVENTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 28th day of March 2007

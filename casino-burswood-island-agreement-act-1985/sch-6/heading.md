@@ -1,6 +1,6 @@
 ## Schedule 6 — Fourth Supplementary Agreement
 [s. 3A]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 FOURTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 30th day of March 1992
@@ -29,4 +29,4 @@ AS WITNESS the execution of this Agreement by or on behalf of the parties hereto
 SIGNED by THE HONOURABLE PAMELA ANNE BEGGS, J.P., M.L.A., for and on behalf of the State of Western Australia in the presence of: M J EganCT 7847 | ) ) ) ) ) ) | Pam Beggs
 SIGNED by PERPETUAL TRUSTEES W.A. LTD. by its duly appointed Attorneys who state they have no notice of revocation of the Power of Attorney dated 5 February 1990 under which this Agreement is signed. | ) ) ) ) ) ) ) | George Butcher Manager, Corporate Trusts R P Jenkins Company Solicitor
 THE COMMON SEAL of) BURSWOOD RESORT (MANAGEMENT) LIMITED was hereunto affixed by authority of the Board of Directors in the presence of: Bill MartinDirector Yew Seng KwaSecretary | ) ) ) ) ) | C.S.
-[Schedule 6 inserted in Gazette 8 May 1998 p. 2392-3.]
+[Schedule 6 inserted: Gazette 8 May 1998 p. 2392-3.]

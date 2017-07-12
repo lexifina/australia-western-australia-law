@@ -1,6 +1,6 @@
 ## Schedule 10 — Ninth Supplementary Agreement
 [s. 3A]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Casino (Burswood Island) Agreement
 NINTH SUPPLEMENTARY AGREEMENT
 Dated 23 November 2005
@@ -53,4 +53,4 @@ AS WITNESS the execution of this Agreement by or on behalf of the parties the da
 SIGNED by THE HONOURABLE MARK MCGOWAN MLA for and on behalf of the State of Western Australia in the presence of: J Nichols ……………………………….….... Signature of witness Jon M. Nichols …………………………….,..….… Name of witness (block letters) | ) ) ) ) ) | Mark McGowan ……………………………….…… Signature of THE HONOURABLE MARK MCGOWAN MLA
 THE COMMON SEAL of BURSWOOD NOMINEES LIMITED (ACN 078 250 307) is duly affixed by authority of its directors in the presence of: David Courtney …………………………………… Signature of authorised person Director ……………………………………. Office held DAVID GRAEME COURTNEY …………………………………… Name of authorised person (block letters) | ) ) ) ) ) | D.S. J Henwood …………………………….…… Signature of authorised person Secretary ………………………………….. Office held JUSTINE LISA HENWOOD ………………………………….. Name of authorised person (block letters)
 THE COMMON SEAL of BURSWOOD RESORT (MANAGEMENT) LTD (ACN 009 396 945) is duly affixed by authority of its directors in the presence of: David Courtney …………………………………… Signature of authorised person Director …………………………………… Office held DAVID GRAEME COURTNEY …………………………………… Name of authorised person (block letters) | ) ) ) ) ) | C.S. J Henwood …………………………………... Signature of authorised person Secretary …………………………………… Office held JUSTINE LISA HENWOOD …………………………………… Name of authorised person (block letters)
-[Schedule 10 inserted in Gazette 4 Jul 2006 p. 2467-71.]
+[Schedule 10 inserted: Gazette 4 Jul 2006 p. 2467-71.]

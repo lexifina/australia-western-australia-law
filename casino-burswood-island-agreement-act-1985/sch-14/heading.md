@@ -1,6 +1,6 @@
 ## Schedule 14 — Thirteenth Supplementary Agreement
 [s. 3A]
-[Heading inserted in Gazette 28 Jul 2015 p. 3084.]
+[Heading inserted: Gazette 28 Jul 2015 p. 3084.]
 Casino (Burswood Island) Agreement
 THIRTEENTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made 16th day of March 2015
@@ -83,4 +83,4 @@ THE COMMON SEAL of) BURSWOOD RESORT) (MANAGEMENT) LIMITED) (ACN 009 396 945) was
 Signature of authorised personSignature of authorised person
 DirectorSecretary ……………………………………………………………… Office heldOffice held
 Barry FelsteadJOSHUA ROBERT PRESTON ……………………………………………………………… Name of authorised personName of authorised person
-[Schedule 14 inserted in Gazette 28 Jul 2015 p. 3084-8.]
+[Schedule 14 inserted: Gazette 28 Jul 2015 p. 3084-8.]

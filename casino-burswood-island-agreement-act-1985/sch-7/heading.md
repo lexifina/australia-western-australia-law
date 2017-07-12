@@ -1,6 +1,6 @@
 ## Schedule 7 — Fifth Supplementary Agreement
 [s. 3A]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 FIFTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 3rd day of April 1995
@@ -25,4 +25,4 @@ AS WITNESS the execution of this Agreement by or on behalf of the parties the da
 SIGNED by THE HONOURABLE GEORGE MAXWELL EVANS MBE, FCA, MLC for and on behalf of the State of Western Australia in the presence of: B A Sargeant | ) ) ) ) ) ) | G M Evans
 THE COMMON SEAL of the said PERPETUAL TRUSTEES WA LTD A.C.N. 008 666 886 was hereunto affixed in accordance with its articles of association. DirectorI B Anderson SecretaryL M McKinley | ) ) ) ) ) | C.S.
 THE COMMON SEAL of BURSWOOD RESORT (MANAGEMENT) LIMITED (ACN 009 396 9450 was hereunto affixed by authority of the Board of Directors in the presence of- DirectorP G Evans SecretaryYew Seng Kaw | ) ) ) ) ) ) | C.S.
-[Schedule 7 inserted in Gazette 8 May 1998 p. 2393-4.]
+[Schedule 7 inserted: Gazette 8 May 1998 p. 2393-4.]
