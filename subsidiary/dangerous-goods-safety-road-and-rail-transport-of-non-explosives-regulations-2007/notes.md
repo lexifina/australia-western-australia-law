@@ -20,6 +20,7 @@ Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Reg
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 5 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 4 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2017 | 11 Jul 2017 p. 3820-33 | r. 1 and 2: 11 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2017 (see r. 2(b))
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed, before the amendments came into operation, by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
 Defined terms
@@ -30,7 +31,7 @@ ADG Code4
 ADR approved4
 aggregate quantity4
 another participating jurisdiction4
-appropriately marked4, 106(1), 106(2), 106(3), 106(4), 106(5)
+appropriately marked4, 106(1), 106(2), 106(3), 106(4)
 appropriately placarded4, 111(2)
 approval4, 193, 207
 approved packaging4
@@ -38,6 +39,7 @@ approved responder183
 approved tank4
 approved test4
 approved training course4
+article4
 authorised body4
 bulk container4, 33(1)
 bulk transfer139
@@ -45,13 +47,16 @@ business transfer237(1)
 CAP4
 capacity4
 cargo transport unit4
+classification code110(3)
 code8(1)
 combination4
-commencement day273
+commencement day273, 286
 Competent Authorities Panel4
 compliance plate4
+complying MPU13A(1)
 consignor4, 40(1)
 consigns4, 40(1)
+converter dolly229
 corresponding approval4
 corresponding authority4
 corresponding dangerous goods driver licence4
@@ -74,10 +79,9 @@ driver licensing authority4
 driving licences register4
 emergency response contract183
 emergency service officer4
+empty dangerous goods packaging120A
 exemption4, 189, 262(1)
 expiry date225(3), 235(3)
-explosives manufacture (MPU) licence215(1)
-Explosives Regulations215(1)
 FES Department4
 food4
 food packaging4
@@ -103,7 +107,7 @@ load4
 loader4, 42
 loads4, 42
 MEGC4, 35
-mobile processing unit215(1)
+mobile processing unit (MPU)13A(1)
 model subordinate law4
 multi-element gas container4
 multimodal4
@@ -125,6 +129,7 @@ placards4, 111(1)
 portable tank4
 premises4
 pressure drums4
+previous regulation 221(c)287(1)
 prime contractor4, 43
 prime mover4
 proposed action211(1), 254(1), 261(1)
@@ -145,8 +150,8 @@ required emergency information156
 RID approved4
 rigid vehicle4
 road4
+road tank vehicle215(1)
 service equipment4
-Standing Council on Transport and Infrastructure4
 structural equipment4
 subsidiary legislation8(1)
 Subsidiary Risk4, 30
@@ -157,6 +162,7 @@ tank A146(1A)
 telephone advisory service179(1)
 trailer4
 train4
+Transport and Infrastructure Council4
 tubes4
 UN approved4
 UN Class4, 29

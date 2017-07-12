@@ -2,7 +2,9 @@
 [r. 271]
 Table
 Item | Provision | Modified penalty for an individual ($) | Modified penalty for a body corporate ($)
-1. | Regulation 20(2) | 600 | 3 000
+1. | Regulation 13B(3) | 100 | 500
+1A. | Regulation 13B(4) | 100 | 500
+1B. | Regulation 20(2) | 600 | 3 000
 2. | Regulation 22 | 300 | 1 500
 3. | Regulation 54 | 600 | 3 000
 4. | Regulation 61 | 600 | 3 000
@@ -22,11 +24,12 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 23C. | Regulation 112(5) | 600 | 3 000
 23. | Regulation 116 | 600 | 3 000
 24. | Regulation 119 | 600 | 3 000
-25. | Regulation 123 | 300 | —
+25. | Regulation 123(1) | 300 | —
+25A. | Regulation 123(2) | 300 | —
 26. | Regulation 127(1) | 300 | —
 27. | Regulation 127(2) | 300 | —
 27. | Regulation 138(3) | 300 | 1 500
-28. | Regulation 140(3) | 600 | —
+[28 | deleted]
 29. | Regulation 141(1) | 300 | —
 30. | Regulation 141(3) | 300 | —
 31. | Regulation 142(2) | 600 | 3 000
@@ -63,7 +66,7 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 61. | Regulation 177(3) | 600 | 3 000
 62. | Regulation 178(4) | 300 | 1 500
 63. | Regulation 179(2) | 300 | 1 500
-64. | Regulation 179(3) | 300 | 1 500
+[64 | deleted]
 65. | Regulation 185(1) | 600 | 3 000
 66. | Regulation 237(2) | 100 | 500
 67. | Regulation 237(3) | 100 | 500
@@ -71,9 +74,10 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 69. | Regulation 239 | 100 | —
 70. | Regulation 240 | 100 | —
 71. | Regulation 243 | 600 | 3 000
+71A. | Regulation 244(3) | 600 | 3 000
 72. | Regulation 247(2) | 100 | 500
 73. | Regulation 248(2) | 100 | 500
 74. | Regulation 257(1) | 600 | 3 000
 75. | Regulation 258(1) | 600 | 3 000
 76. | Regulation 259(2) | 200 | 1 000
-[Schedule 1 amended in Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701.]
+[Schedule 1 amended in Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701; 11 Jul 2017 p. 3833.]
