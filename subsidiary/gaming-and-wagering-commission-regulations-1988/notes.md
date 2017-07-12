@@ -69,6 +69,7 @@ Gaming and Wagering Commission Amendment Regulations 2015 | 1 Dec 2015 p. 4823-4
 Gaming and Wagering Commission Amendment Regulations 2016 | 6 Sep 2016 p. 3831-3 | r. 1 and 2: 6 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2016 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2017 | 26 May 2017 p. 2632-3 | r. 1 and 2: 26 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 27 May 2017 (see r. 2(b))
+Gaming and Wagering Commission Amendment Regulations (No. 3) 2017 | 11 Jul 2017 p. 3833-4 | r. 1 and 2: 11 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2017 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Deleted by the Acts Amendment (Continuing Lotteries) Act 2000 s. 5.
