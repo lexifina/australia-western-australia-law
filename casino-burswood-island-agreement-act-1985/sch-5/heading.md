@@ -1,6 +1,6 @@
 ## Schedule 5 — Third Supplementary Agreement
 [s. 3A]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 THIRD SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 13th day of November 1991
@@ -27,4 +27,4 @@ AS WITNESS the execution of this Agreement by or on behalf of the parties hereto
 SIGNED by THE HONOURABLE PAMELA ANNE BEGGS, J.P., M.L.A., for and on behalf of the State of Western Australia in the presence of: A J Secker CT 6217 | ) ) ) ) ) ) | Pam Beggs
 SIGNED by PERPETUAL TRUSTEES WA. LTD. by it’s Attorney who state they have no notice of revocation of the Power of Attorney dated 5 February 1990 under which this Agreement is signed. | ) ) ) ) ) ) ) | R P Jenkins Company Solicitor George Butcher Manager Corporate Trusts
 THE COMMON SEAL of) BURSWOOD RESORT (MANAGEMENT) LIMITED was hereunto affixed by authority of the Board of Directors in the presence of: Bill MartinDirector Yew Seng KwaSecretary | ) ) ) ) ) ) | C.S.
-[Schedule 5 inserted in Gazette 8 May 1998 p. 2390-2.]
+[Schedule 5 inserted: Gazette 8 May 1998 p. 2390-2.]

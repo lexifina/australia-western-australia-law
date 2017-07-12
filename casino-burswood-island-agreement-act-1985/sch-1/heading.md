@@ -1,6 +1,6 @@
 ## Schedule 1 — Casino (Burswood Island) Agreement
 [s. 3]
-[Heading amended by No. 44 of 1987 s. 8; No. 19 of 2010 s. 4.]
+[Heading amended: No. 44 of 1987 s. 8; No. 19 of 2010 s. 4.]
 AGREEMENT
 INDEX.
 Clause.Page
@@ -566,4 +566,4 @@ F. S. KAMP Secretary.
 THE COMMON SEAL of BURSWOOD MANAGEMENT LIMITED was hereunto affixed by authority of the Board of Directors in the presence of: |  | (L.S.)
 D. R. DEMPSTER Director.
 J. J. HUGHES Director.
-[Schedule 1 amended by No. 44 of 1987 s. 8.]
+[Schedule 1 amended: No. 44 of 1987 s. 8.]

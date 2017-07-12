@@ -1,6 +1,6 @@
 ## Schedule 3 — Second Supplementary Agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 SECOND SUPPLEMENTARY AGREEMENT BURSWOOD CASINO (1990)
 THIS AGREEMENT made the third day of May 1990
 BETWEEN:
@@ -35,4 +35,4 @@ B. Romeo — Accountant Corporate Trusts.
 THE COMMON SEAL of BURSWOOD MANAGEMENT LIMITED was hereunto affixed by authority of the Board of Directors in the presence of: |  | [C.S.]
 Dallas R. Dempster, Director.
 Yew Seng Kwa, Secretary.
-[Schedule 3 inserted by No. 15 of 1990 s. 6.]
+[Schedule 3 inserted: No. 15 of 1990 s. 6.]

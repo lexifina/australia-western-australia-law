@@ -1,6 +1,6 @@
 ## Schedule 4 — Seventh Supplementary Agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 SEVENTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the ninth day of June 1997
@@ -271,4 +271,4 @@ __________________________________
 DirectorDONALD MICHAEL WATT
 __________________________________
 SecretaryYEW SENG KWA
-[Schedule 4 inserted by No. 20 of 1997 s. 8.]
+[Schedule 4 inserted: No. 20 of 1997 s. 8.]

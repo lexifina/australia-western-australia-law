@@ -1,6 +1,6 @@
 ## Schedule 13 — Twelfth Supplementary Agreement
 [s. 3]
-[Heading inserted by No. 25 of 2011 s. 6.]
+[Heading inserted: No. 25 of 2011 s. 6.]
 Casino (Burswood Island) Agreement
 TWELFTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made 12th day of May 2011
