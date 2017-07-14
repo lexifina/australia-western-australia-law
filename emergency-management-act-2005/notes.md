@@ -1,13 +1,14 @@
 Notes
-This is a compilation of the Emergency Management Act 2005 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Emergency Management Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Emergency Management Act 2005 | 15 of 2005 | 27 Sep 2005 | 24 Dec 2005 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Emergency Management Act 2005 | 15 of 2005 | 27 Sep 2005 | s. 1 and 2: 27 Sep 2005; Act other than s. 1 and 2: 24 Dec 2005 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 19 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 6 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Medicines and Poisons Act 2014 s. 184 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Reprint 1: The Emergency Management Act 2005 as at 14 Jul 2017 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
