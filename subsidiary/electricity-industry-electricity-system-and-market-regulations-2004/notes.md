@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 July 2017 of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | Regulations other than r. 4(3)(b): 30 Sep 2004; r. 4(3)(b): 1 Oct 2004 (see r. 4(3) and the Wholesale Electricity Market Rules published in Gazette 5 Oct 2004 r. 1.8.2 and 1.9.7)
@@ -20,8 +20,10 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 3) 2015 | 13 Nov 2015 p. 4633-7 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); r. 5: 14 Nov 2015 (see r. 2(b)); Regulations other than 1, 2, 5, 7, 17(2) and 18: 30 Nov 2015 8.00 am (see r. 2(d)); r. 7, 17(2) and 18: 1 Jul 2016 8.00 am (see r. 2(c) and Gazette 31 May 2016 p. 1657)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 4) 2015 | 25 Nov 2015 p. 4741-2 | r. 1 and 2: 25 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2015 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2016 | 24 Jun 2016 p. 2296-303 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 30 Jun 2016 p. 2695)
-Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2016 | 23 Nov 2016 p. 5265-9 | r. 1 and 2: 23 Nov 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 9: 24 Nov 2016 (see r. 2(c) and Gazette 23 Nov 2016 p. 5249); Regulation 9: 3 Apr 2017 (see r. 2(b))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2016 | 23 Nov 2016 p. 5265-9 | r. 1 and 2: 23 Nov 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 9: 24 Nov 2016 (see r. 2(c) and Gazette 23 Nov 2016 p. 5249); r. 9: 3 Apr 2017 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2017 | 30 Jun 2017 p. 3560-1 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
+Reprint 3: The Electricity Industry (Wholesale Electricity Market) Regulations 2004 as at 14 Jul 2017 (includes amendments listed above)
+Now known as the Competition and Consumer Act 2010 (Cwlth). The short title was changed by the Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 Sch. 5 cl. 2 (Cwlth).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Energy Arbitration and Review Act 1998.
 Defined terms
@@ -45,7 +47,7 @@ market rules5, 6(1)
 market website3
 new rules4(1)
 operator3
-person17A(1), 17A(2)
+person17A(1) and (2)
 person required to pay40(1AA)
 procedural decision41(1), 48
 protected information54(1)
