@@ -1,12 +1,13 @@
 Notes
-This is a compilation of the Food Act 2008 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Food Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Food Act 2008 | 43 of 2008 | 8 Jul 2008 | s. 1 and 2: 8 Jul 2008 (see s. 2(1)(a)); s. 3-7, Pt. 2-7 and 9-14: 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157); Pt. 8 Div. 1 and 3: 23 Apr 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157) Pt 8 Div. 2: 23 Oct 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
+Food Act 2008 | 43 of 2008 | 8 Jul 2008 | s. 1 and 2: 8 Jul 2008 (see s. 2(1)(a)); s. 3-7, Pt. 2-7 and 9-14: 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157); Pt. 8 Div. 1 and 3: 23 Apr 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157); Pt. 8 Div. 2: 23 Oct 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
 Police Amendment Act 2009 s. 18 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Health Services Act 2016 s. 290 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 14 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Reprint 1: The Food Act 2008 as at 14 Jul 2017 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -31,8 +32,8 @@ equipment8
 examine 8
 exempted food business109(2)
 false statement131(2)
-food8, 9(1)
-food business8
+food8, 9(1), (2) and (3)
+food business8, 10
 food safety auditor 8
 food safety program103(1)
 Food Safety Standards8
@@ -50,8 +51,9 @@ officer128(1)
 package8
 premises8
 prescribed6(1), 126(1)
-primary food production8, 11(1)
+primary food production8, 11(1) and (2)
 priority classification103(1)
+processes12(3)
 prohibition order8
 proprietor8
 protected person141(2)
@@ -62,7 +64,7 @@ sell8
 slaughter13(3)
 specified154(3)
 specified information107(2)
-unsafe8
-unsuitable8, 13(2)
+unsafe8, 12(1) and (2)
+unsuitable8, 13(1) and (2)
 vehicle8
 water supplier 5(2)
