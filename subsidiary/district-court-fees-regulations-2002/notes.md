@@ -28,6 +28,7 @@ District Court (Fees) Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2119-2
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 5 | 14 Jun 2016 p. 1849-986 (as amended in Gazette 9 Sep 2016 p. 3886) | 4 Jul 2016 (see r. 2(b))
 District Court (Fees) Amendment Regulations (No. 2) 2016 Pt. 2 | 9 Sep 2016 p. 3886 | 10 Sep 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
+District Court (Fees) Amendment Regulations 2017 | 14 Jul 2017 p. 3949-50 | r. 1 and 2: 14 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jul 2017 (see r. 2(b))
 Repealed by the District Court Rules 2005.
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.
