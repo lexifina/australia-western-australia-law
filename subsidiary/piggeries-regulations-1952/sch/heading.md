@@ -39,7 +39,7 @@ Harvey —
 (2) Cookernup — All that land contained within the Shire of Harvey that is situated within a radius of 1.5 kilometres from the Cookernup Railway Station.
 (3) Australind — All that land contained within the Shire of Harvey that is situated not more than 400 metres from high water mark of Leschenault Estuary.
 (4) South-West Highway — All that land contained within the Shire of Harvey that is situated not more than 800 metres from either side of the South West Highway, unless otherwise declared a prohibited area.
-(5) Catchment Areas — All land contained within the Shire of Harvey that is situated outside a catchment area established under the Country Areas Water Supply Act 1947, or the Rights in Water and Irrigation Act 1914, but within 1.5 kilometres of any water-course, or high watermark of a catchment in a catehment area.
+(5) Catchment Areas — All land contained within the Shire of Harvey that is situated outside a catchment area established under the Country Areas Water Supply Act 1947, or the Rights in Water and Irrigation Act 1914, but within 1.5 kilometres of any water-course, or high watermark of a catchment in a catchment area.
 Katanning — Townsite of Katanning.
 Kent — Townsites of Nyabing and Pingrup.
 Kojonup —
@@ -80,4 +80,4 @@ Wongan-Ballidu —
 (1) Townsites of Burakin, Cadoux and Kondut.
 (2) All that land situated within a radius of 6 kilometres from the Wongan Hills Post Office.
 (3) All that land within a radius of 3 kilometres of the Ballidu Hall.
-[Schedule inserted in Gazette 10 June 1988 p. 1903-05; amended in Gazette 28 October 1988 p. 4283; 7 December 1990 p. 5985; 17 May 1991 p. 2477; 9 August 1991 p .4116; 21 August 1992 p. 4128; 4 May 1993 p. 2298; 20 August 1993 p. 4494; 31 March 1995 p. 1155; 25 July 1995 p. 3137; 12 December 1995 p. 6000; 15 March 1996 p. 997; 29 November 1996 p. 6648; 27 November 1998 p. 6342.]
+[Schedule inserted: Gazette 10 June 1988 p. 1903-05; amended: Gazette 28 Oct 1988 p. 4283; 7 Dec 1990 p. 5985; 17 May 1991 p. 2477; 9 Aug 1991 p .4116; 21 Aug 1992 p. 4128; 4 May 1993 p. 2298; 20 Aug 1993 p. 4494; 31 Mar 1995 p. 1155; 25 Jul 1995 p. 3137; 12 Dec 1995 p. 6000; 15 Mar 1996 p. 997; 29 Nov 1996 p. 6648; 27 Nov 1998 p. 6342.]
