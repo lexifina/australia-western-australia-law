@@ -1,7 +1,7 @@
 Notes
-This reprint is a compilation as at 18 January 2013 of the Commercial Tenancy (Retail Shops) Agreements Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Commercial Tenancy (Retail Shops) Agreements Regulations 1985 | 30 Aug 1985 p. 3121-7 | 1 Sep 1985 (see r. 2 and Gazette 30 Aug 1985 p. 3065)
 Commercial Tenancy (Retail Shops) Agreements Amendment Regulations 1991 | 3 May 1991 p. 1954 | 3 May 1991
 Commercial Tenancy (Retail Shops) Agreements Amendment Regulations 1992 | 16 Feb 1993 p. 1269-79 | 16 Feb 1993
@@ -13,7 +13,10 @@ Reprint 2: The Commercial Tenancy (Retail Shops) Agreements Regulations 1985 as 
 Commercial Tenancy (Retail Shops) Agreements Amendment Regulations 2012 | 23 Mar 2012 p. 1364-6 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Mar 2012 (see r. 2(b) and Gazette 23 Mar 2012 p. 1363)
 Commercial Tenancy (Retail Shops) Agreements Amendment Regulations (No. 2) 2012 | 30 Nov 2012 p. 5831-901 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b) and Gazette 30 Nov 2012 p. 5773)
 Reprint 3: The Commercial Tenancy (Retail Shops) Agreements Regulations 1985 as at 18 Jan 2013 (includes amendments listed above)
+Commercial Tenancy (Retail Shops) Agreements Amendment Regulations 2017 | 21 Jul 2017 p. 4020-1 | r. 1 and 2: 21 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2017 (see r. 2(b))
+Other notes
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 s. 3 commenced on 1 Jan 2013 (see s. 2(b) and Gazette 30 Nov 2012 p. 5773).
+The Act and the regulations can be accessed electronically at www.legislation.wa.gov.au.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

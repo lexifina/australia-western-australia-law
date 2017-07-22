@@ -1,5 +1,5 @@
 ## Schedule 2 — Forms
-[Heading inserted in Gazette 30 Nov 2012 p. 5855.]
+[Heading inserted: Gazette 30 Nov 2012 p. 5855.]
 FORM 1
 Commercial Tenancy (Retail Shops) Agreements Act 1985
 Section 6(4)
@@ -191,8 +191,8 @@ PART 13 — TENANT ACKNOWLEDGMENTS AND SIGNATURE
 36Acknowledgments by the tenant
 By signing this disclosure statement, the tenant confirms and acknowledges that the tenant received this disclosure statement.
 Warnings to tenant: —Before signing any offer to lease, lease or associated document the tenant should ensure that it fully understands this disclosure statement, the form of lease and the operating expenses budget and that the tenant has negotiated any change that it wishes to make; —Signing any of the above documents is legally binding on the tenant.
-Before entering into a lease, tenants should consider these key questions: —Does the planning authority allow your proposed use for the premises under planning law? —Is the security of your occupancy affected by: —mortgages, charges or encumbrances granted by the landlord?
-—rights and obligations under a head lease? —Do the premises comply with all requirements of building and safety legislation? Are the premises affected by outstanding notices by any authority? —Could your trading be affected by disturbances or changes to the building/centre? —Does the landlord require you to refurbish the premises regularly or at the end of the lease? —Can the landlord end the lease early even if you comply with the lease? —Are all the existing structures, fixtures and plant and equipment in good working order? —Are you required to make good the premises at the end of the lease? —Is the tenancy mix of the shopping centre (if applicable) likely to change during the course of the lease? — see item 25.2? —Who is responsible for building defects? —Who is responsible for maintenance, insurance, repairing or replacing finishes, fixtures and fittings, equipment and services?
+Before entering into a lease, tenants should consider these key questions: —Does the planning authority allow your proposed use for the premises under planning law? —Is the security of your occupancy affected by: —mortgages, charges or encumbrances granted by the landlord? —rights and obligations under a head lease? —Do the premises comply with all requirements of building and safety legislation? Are the premises affected by outstanding notices by any authority? —Could your trading be affected by disturbances or changes to the building/centre? —Does the landlord require you to refurbish the premises regularly or at the end of the lease? —Can the landlord end the lease early even if you comply with the lease? —Are all the existing structures, fixtures and plant and equipment in good working order?
+—Are you required to make good the premises at the end of the lease? —Is the tenancy mix of the shopping centre (if applicable) likely to change during the course of the lease? — see item 25.2? —Who is responsible for building defects? —Who is responsible for maintenance, insurance, repairing or replacing finishes, fixtures and fittings, equipment and services?
 37Tenant’s signature
 It is important that a tenant seek independent legal and financial advice before entering into a lease.
 37.1Name of Tenant | [Insert name of the tenant]
@@ -212,7 +212,7 @@ PART 14 — ATTACHMENTS
 39.3Casual mall licensing policy (see item 28.1) | oYes oNot applicable
 39.4Additional attachments relating to the retail shopping centre | [List any additional attachments relating to the retail shopping centre]
 This disclosure statement is not complete unless it is accompanied by — ·a copy of the form of lease; and ·the current year’s annual estimates of expenditure for each item of operating expenses; and ·a copy of the tenant guide (see Form 4 of the Commercial Tenancy (Retail Shops) Agreements Regulations 1985.
-[Form 1 inserted in Gazette 30 Nov 2012 p. 5855-78.]
+[Form 1 inserted: Gazette 30 Nov 2012 p. 5855-78.]
 FORM 2
 Commercial Tenancy (Retail Shops) Agreements Act 1985
 Section 7(1)(a)
@@ -243,7 +243,7 @@ Dated:
 ..............................................................
 (Signature of tenant or where tenant is a body corporate, the signature of a person duly authorised by the body corporate to give this notice).
 * Strike out whichever does not apply.
-[Form 2 amended in Gazette 18 Jun 1999 p. 2606.]
+[Form 2 amended: Gazette 18 Jun 1999 p. 2606.]
 FORM 3
 Commercial Tenancy (Retail Shops) Agreements Act 1985
 Section 13(1)
@@ -279,7 +279,7 @@ The current term of the lease of the abovenamed retail shop expires on .........
 Under section 13(1) of the Commercial Tenancy (Retail Shops) Agreements Act 1985, I give notice that I exercise my option to renew the lease of the abovementioned retail shop for a term commencing immediately after the expiry of the current term and expiring on ..............................
 Date: ................................................
 (Signature of tenant or if tenant is a body corporate, the signature of a person duly authorised by the body corporate to give this notice).
-[Form 3 amended in Gazette 18 Jun 1999 p. 2606.]
+[Form 3 amended: Gazette 18 Jun 1999 p. 2606.]
 FORM 4
 Commercial Tenancy (Retail Shops) Agreements Act 1985
 Section 6A
@@ -544,6 +544,6 @@ KEEP RECORDS
 You should make sure that you keep records of all agreements, undertakings, correspondence (including emails) and other communications with the landlord. Where possible you should confirm things in writing.
 Make sure that you diarise important dates in relation to your lease.
 If you need to make a claim in the Tribunal you will need to provide appropriate evidence to support your claim.
-[Form 4 inserted in Gazette 30 Nov 2012 p. 5878-901.]
-[Form 5 deleted in Gazette 30 Dec 2004 p. 6907.]
-[Form 6 deleted in Gazette 30 Nov 2012 p. 5901.]
+[Form 4 inserted: Gazette 30 Nov 2012 p. 5878-901.]
+[Form 5 deleted: Gazette 30 Dec 2004 p. 6907.]
+[Form 6 deleted: Gazette 30 Nov 2012 p. 5901.]
