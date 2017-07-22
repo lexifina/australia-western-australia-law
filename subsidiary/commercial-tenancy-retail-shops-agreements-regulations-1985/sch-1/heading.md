@@ -1,6 +1,6 @@
 ## Schedule 1 — Provisions for retail shop leases
 [r. 7]
-[Heading inserted in Gazette 30 Nov 2012 p. 5842.]
+[Heading inserted: Gazette 30 Nov 2012 p. 5842.]
 Item and description | Provision for retail shop lease
 1.Entitlement by landlord to determine the lease Section 13(6)(da) of the Act | The landlord is entitled to determine the lease by reason of either of the following persons becoming, according to the Interpretation Act 1984 section 13D, a bankrupt or a person whose affairs are under insolvency laws — (a)the tenant;
  | (b)a guarantor of the tenant, if — (i)the tenant is a body corporate; and (ii)the guarantor is a director or a majority shareholder of the body corporate.
@@ -37,4 +37,4 @@ Item and description | Provision for retail shop lease
  | (a)because the tenant needs to fit out the new retail shop and to relocate the tenant’s fixtures, fittings, furnishings, plant and equipment and stock-in-trade from the retail shop to the new retail shop; or (b)because the landlord had not provided the tenant with access to the new retail shop; or (c)because of any other actions of the landlord.
  | 1.8.2Subclause 1.8.1(a) does not apply to any period of time where there is unreasonable delay in fitting out the new retail shop and installing the fixtures, fittings, furnishings, plant and equipment, and stock-in-trade in the new retail shop, unless the delay is outside of the control of the tenant.
  | 1.9.Dispute resolution Any question between the landlord and the tenant arising under this lease may be referred to the State Administrative Tribunal, or made the subject of a request to the Small Business Commissioner, where relevant, in accordance with the Commercial Tenancy (Retail Shops) Agreements Act 1985.
-[Schedule 1 inserted in Gazette 30 Nov 2012 p. 5842-54.]
+[Schedule 1 inserted: Gazette 30 Nov 2012 p. 5842-54.]
