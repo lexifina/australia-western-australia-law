@@ -1,6 +1,6 @@
 ## Schedule 4 — IP warrant (suspect)
 [r. 10(2)]
-[Heading inserted in Gazette 19 Nov 2002 p. 5513.]
+[Heading inserted: Gazette 19 Nov 2002 p. 5513.]
 Criminal Investigation (Identifying People) Act 2002, s. 46
 IP WARRANT (SUSPECT) Strike out any parts of this form that are not applicable
 Applicant | Name: .................................................. .................................................. | Rank and registered number or official title: .......................................
@@ -13,4 +13,4 @@ Period for execution of warrant (Not to exceed 14 days)
 From: ........./........./......... | To: ........../............/.........
 Date and time of issuing warrant | Date: ......./......../........ Time: ...........................
 JP or Magistrate | Name: ................................................................................................
-[Schedule 4 inserted in Gazette 19 Nov 2002 p. 5513-14; amended in Gazette 15 Apr 2014 p. 1060.]
+[Schedule 4 inserted: Gazette 19 Nov 2002 p. 5513-14; amended: Gazette 15 Apr 2014 p. 1060.]

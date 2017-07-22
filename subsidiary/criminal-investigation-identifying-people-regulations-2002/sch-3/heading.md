@@ -1,6 +1,6 @@
 ## Schedule 3 — IP warrant (involved protected person)
 [r. 10(1)]
-[Heading inserted in Gazette 19 Nov 2002 p. 5512.]
+[Heading inserted: Gazette 19 Nov 2002 p. 5512.]
 Criminal Investigation (Identifying People) Act 2002, s. 33
 IP WARRANT (INVOLVED PROTECTED PERSON) Strike out any parts of this form that are not applicable
 Applicant | Name: ...................................................... ...................................................... | Rank and registered number or official title: ............................
@@ -16,4 +16,4 @@ Period for execution of warrant (Not to exceed 14 days)
 From: ........./........./......... | To: ........./............/.........
 Date and time of issuing warrant | Date: ......./......../........ Time: ...........................
 Magistrate | Name: ................................................................................................
-[Schedule 3 inserted in Gazette 19 Nov 2002 p. 5512-13; amended in Gazette 15 Apr 2014 p. 1060.]
+[Schedule 3 inserted: Gazette 19 Nov 2002 p. 5512-13; amended: Gazette 15 Apr 2014 p. 1060.]
