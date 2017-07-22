@@ -15,6 +15,7 @@ Criminal Investigation (Identifying People) Amendment Regulations (No. 2) 2015 |
 Reprint 2: The Criminal Investigation (Identifying People) Regulations 2002 as at 11 Dec 2015 (includes amendments listed above)
 Criminal Investigation (Identifying People) Amendment Regulations 2016 | 14 Jun 2016 p. 1833-4 | r. 1 and 2: 14 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Criminal Investigation (Identifying People) Amendment Regulations 2017 | 23 Jun 2017 p. 3186-7 | r. 1 and 2: 23 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2017 (see r. 2(b))
+Criminal Investigation (Identifying People) Amendment Regulations (No. 2) 2017 | 21 Jul 2017 p. 4028 | r. 1 and 2: 21 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2017 (see r. 2(b))
 16 April 2014 (see Gazette 15 April 2014 p. 1053).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
