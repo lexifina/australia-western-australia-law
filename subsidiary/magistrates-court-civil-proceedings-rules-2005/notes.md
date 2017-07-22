@@ -24,6 +24,7 @@ Reprint 3: The Magistrates Court (Civil Proceedings) Rules 2005 as at 17 Jul 201
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2016 | 3 May 2016 p. 1360-1 | r. 1 and 2: 3 May 2016 (see r. 2(a)); Rules other than r. 1 and 2: 4 May 2016 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2016 | 30 Sep 2016 p. 4177-82 | r. 1 and 2: 30 Sep 2016 (see r. 2(a)); Rules other than r. 1 and 2: 1 Oct 2016 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2017 | 20 Jun 2017 p. 2991-3055 | r. 1 and 2: 20 Jun 2017 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2017 Pt. 2 | 21 Jul 2017 p. 4024-7 | 22 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

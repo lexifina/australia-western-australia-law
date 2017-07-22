@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 May 2017 of the Magistrates Court (Minor Cases Procedure) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (Minor Cases Procedure) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Minor Cases Procedure) Rules 2005 | 28 Apr 2005 p. 1711-48 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -15,6 +15,7 @@ Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2014 | 12 Dec 
 Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2016 | 3 May 2016 p. 1361-2 | r. 1 and 2: 3 May 2016 (see r. 2(a)); Rules other than r. 1 and 2: 4 May 2016 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2016 | 30 Sep 2016 p. 4174-6 | r. 1 and 2: 30 Sep 2016 (see r. 2(a)); Rules other than r. 1 and 2: 1 Oct 2016 (see r. 2(b))
 Reprint 2: The Magistrates Court (Minor Cases Procedure) Rules 2005 as at 12 May 2017 (includes amendments listed above)
+Magistrates Court Rules Amendment Rules 2017 Pt. 3 | 21 Jul 2017 p. 4024-7 | 22 Jul 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
