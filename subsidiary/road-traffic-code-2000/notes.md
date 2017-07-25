@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 December 2016 of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -57,11 +57,37 @@ Road Traffic Code Amendment Regulations (No. 4) 2015 | 22 Dec 2015 p. 5131 | r. 
 Road Traffic Code Amendment Regulations (No. 2) 2016 | 26 Apr 2016 p. 1277-8 | r. 1 and 2: 26 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2016 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2016 | 15 Nov 2016 p. 5061-2 | r. 1 and 2: 15 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2016 (see r. 2(b))
 Reprint 5: The Road Traffic Code 2000 as at 9 Dec 2016 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic Code Amendment Regulations (No. 2) 2017r. 3-5 | 25 Jul 2017 p. 4078-80 | 5 Sep 2017 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
+On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations (No. 2) 2017 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Road Traffic Code 2000.
+4.Regulation 9 amended
+(1) Delete regulation 9(1a), (2) and (2a) and insert:
+(1A) A person who commits an offence against Part 16 Division 2 or regulation 244 is liable —
+(a) for a first offence, to a minimum penalty of the number of penalty units that could be imposed as a modified penalty for the particular offence and a maximum penalty of 56 penalty units (56 PU); and
+(b) for a subsequent offence, to a minimum penalty of the number of penalty units that could be imposed as a modified penalty for the particular offence and a maximum penalty of 84 penalty units (84 PU).
+(1B) For the purposes of subregulation (1A)(b), an offence is regarded as a subsequent offence if the person by whom it is committed has previously committed an offence of any kind against Part 16 Division 2 or regulation 244.
+(2) Except as provided in subregulation (1A), a person who commits an offence against these regulations is liable —
+(a) for a first offence, to a penalty not exceeding 64 penalty units (64 PU); and
+(b) for a subsequent offence, to a penalty not exceeding 96 penalty units (96 PU).
+(2) In regulation 9(3) after “committed an offence” insert:
+of any kind
+5.Regulation 17 amended
+(1) In regulation 17(1) in the Table item (e) delete “20 PU” (each occurrence) and insert:
+24 PU
+(2) In regulation 17(2) in the Table:
+(a) in item (d) delete “17 PU” (each occurrence) and insert:
+24 PU
+(b) in item (e) delete “20 PU” (each occurrence) and insert:
+30 PU
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
