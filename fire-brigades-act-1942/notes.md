@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fire Brigades Act 1942 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire Brigades Act 1942 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fire Brigades Act 1942 | 35 of 1942 | 23 Dec 1942 | 17 May 1943 (see s. 1 and Gazette 14 May 1943 p. 463) Proc. published 9 Apr 1943 p. 345 revoked (see Gazette 14 May 1943 p. 463)
@@ -91,6 +91,9 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 213 (other than s. 2
 Fire Brigades (Fire Districts) Notice (No. 2) 2012 published in Gazette 14 Dec 2012 p. 6213-14 | 14 Dec 2012
 Reprint 8: The Fire Brigades Act 1942 as at 24 Jan 2014 (includes amendments listed above)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 13 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Fire Brigades (Northampton Fire District) Notice 2017 published in Gazette 25 Jul 2017 p. 4075 | 26 Jul 2017 (see cl. 2(b))
+Other notes
+Footnote no longer applicable.
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
 36.Transitional provisions
 Schedule 1 has effect.
@@ -177,9 +180,9 @@ Division 4 — Regulations
 (4)To the extent that any such regulation has effect on a day that is earlier than the day of its publication in the Gazette, the regulation does not operate so as —
 (a)to affect, in a manner prejudicial to any person (other than the State or the Authority), the rights of that person existing before the day of its publication; or
 (b)to impose liabilities on any person (other than the State or the Authority), in respect of anything done or omitted to be done before the day of its publication.
-Marginal notes in the Fire Brigades Act 1942 referring to legislation of other jurisdictions have been omitted from this reprint.
-Marginal notes in the Fire Brigades Act 1942 referring to sections of the Fire Brigades Act 1916 have been omitted from this reprint.
-The amendments in the Fire Brigades Amendment Act (No. 2) 1982 are not included in this reprint because, before it came into operation, that Act was repealed by the Fire and Emergency Services Legislation Amendment Act 2002.
+Marginal notes in the Fire Brigades Act 1942 referring to legislation of other jurisdictions have been omitted from this compilation.
+Marginal notes in the Fire Brigades Act 1942 referring to sections of the Fire Brigades Act 1916 have been omitted from this compilation.
+The amendments in the Fire Brigades Amendment Act (No. 2) 1982 are not included in this compilation because, before it came into operation, that Act was repealed by the Fire and Emergency Services Legislation Amendment Act 2002.
 The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975.
 The Fire Brigades Amendment Act 1982 s. 18(2) is a savings provision that is of no further effect.
 The Fire Brigades Amendment Act 1985 s. 11(2) reads as follows:
