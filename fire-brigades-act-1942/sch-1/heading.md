@@ -1,6 +1,6 @@
 ## Second Schedule — Fire districts
 [s. 5]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Fire district | Local government district or part thereof constituting fire district
 Part I
 Metropolitan Fire District | Perth
@@ -101,6 +101,7 @@ Nannup Fire District | Nannup
 Narrogin Fire District | Narrogin (Town)
 Newman Fire District | East Pilbara
 Northam Fire District | Northam (Town)
+Northampton Fire District | Northampton
 Northcliffe Fire District | Manjimup
 Onslow Fire District | Ashburton
 Pemberton Fire District | Manjimup
@@ -128,6 +129,6 @@ Wyndham Fire District | Wyndham
 Yallingup Fire District | Busselton
 Yanchep Fire District | Wanneroo
 York Fire District | York
-[The Second Schedule inserted by No. 27 of 1971 s. 4; amended by No. 38 of 1993 s. 34; No. 14 of 1996 s. 4; No. 57 of 1997 s. 60; amended in Gazette 21 Jan 1972 p. 74; 4 Feb 1972 p. 213-14; 23 Jun 1972 p. 2029-30; 4 Aug 1972 p. 2923; 20 Oct 1972 p. 4152; 27 Oct 1972 p. 4208; 25 May 1973 p. 1617; 26 Oct 1973 p. 4050; 28 Jun 1974 p. 2233-4; 30 Aug 1974 p. 3236; 28 Feb 1975 p. 721-2; 7 Dec 1979 p. 3772; 27 Mar 1981 p. 1039-40; 20 May 1983 p. 1523-4; 16 Mar 1984 p. 701; 14 Aug 1987 p. 3163-6; 3 Mar 1989 p. 675; 29 Jun 1990 p. 3147; 16 Jul 1993 p. 3889; 19 Dec 1995 p. 6145; 17 Jan 1997 p. 407; 24 Apr 1997 p. 2068; 27 Jun 1997 p. 3094; 2 Oct 1998 p. 5513; 29 Jun 1999 p. 2832; 1 Jul 1999 p. 2911; 1 Aug 2000 p. 4133; 28 Mar 2002 p. 1762; 6 Sep 2002 p. 4488; 28 Jun 2005 p. 2919; 29 Nov 2005 p. 5782-3; 14 Dec 2012 p. 6214.]
-[The Third Schedule deleted by No. 38 of 2002 s. 61.]
-[The Fourth Schedule deleted by No. 42 of 2002 s. 29.]
+[The Second Schedule inserted: No. 27 of 1971 s. 4; amended: No. 38 of 1993 s. 34; No. 14 of 1996 s. 4; No. 57 of 1997 s. 60; amended: Gazette 21 Jan 1972 p. 74; 4 Feb 1972 p. 213-14; 23 Jun 1972 p. 2029-30; 4 Aug 1972 p. 2923; 20 Oct 1972 p. 4152; 27 Oct 1972 p. 4208; 25 May 1973 p. 1617; 26 Oct 1973 p. 4050; 28 Jun 1974 p. 2233-4; 30 Aug 1974 p. 3236; 28 Feb 1975 p. 721-2; 7 Dec 1979 p. 3772; 27 Mar 1981 p. 1039-40; 20 May 1983 p. 1523-4; 16 Mar 1984 p. 701; 14 Aug 1987 p. 3163-6; 3 Mar 1989 p. 675; 29 Jun 1990 p. 3147; 16 Jul 1993 p. 3889; 19 Dec 1995 p. 6145; 17 Jan 1997 p. 407; 24 Apr 1997 p. 2068; 27 Jun 1997 p. 3094; 2 Oct 1998 p. 5513; 29 Jun 1999 p. 2832; 1 Jul 1999 p. 2911; 1 Aug 2000 p. 4133; 28 Mar 2002 p. 1762; 6 Sep 2002 p. 4488; 28 Jun 2005 p. 2919; 29 Nov 2005 p. 5782-3; 14 Dec 2012 p. 6214; 25 Jul 2017 p. 4075.]
+[The Third Schedule deleted: No. 38 of 2002 s. 61.]
+[The Fourth Schedule deleted: No. 42 of 2002 s. 29.]
