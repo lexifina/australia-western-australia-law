@@ -18,6 +18,7 @@ Reprint 2: The Housing Regulations 1980 as at 3 Aug 2012 (includes amendments li
 Housing Amendment Regulations 2015 | 16 Jun 2015 p. 2075-6 | r. 1 and 2: 16 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Housing Amendment Regulations 2016 | 24 Jun 2016 p. 2316-17 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Housing Amendment Regulations (No. 2) 2016 | 30 Dec 2016 p. 5968 | r. 1 and 2: 30 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2016 (see r. 2(b))
+Housing Amendment Regulations 2017 | 1 Aug 2017 p. 4112-13 | r. 1 and 2: 1 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2017 (see r. 2(b))
 Repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
