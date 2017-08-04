@@ -7,4 +7,4 @@ Penalty for this subsection: a fine of $500.
 (3) The notice must be given —
 (a) as soon as practicable after the declaration is made if the auditor has been appointed before the declaration is made; or
 (b) before the auditor is appointed if the declaration is made before the auditor is appointed.
-[Section 244ZZL inserted by No. 7 of 2016 s. 85.]
+[Section 244ZZL inserted: No. 7 of 2016 s. 85.]

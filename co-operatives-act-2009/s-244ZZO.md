@@ -6,4 +6,4 @@ Note for this subsection:
 This is a civil penalty provision (see section 482A).
 (2) A person commits an offence if they contravene subsection (1) and the contravention is dishonest.
 Penalty for this subsection: a fine of $200 000, or imprisonment for 5 years, or both.
-[Section 244ZZO inserted by No. 7 of 2016 s. 85.]
+[Section 244ZZO inserted: No. 7 of 2016 s. 85.]

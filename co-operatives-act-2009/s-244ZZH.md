@@ -10,4 +10,4 @@
 (a) be expressed to be subject to conditions; and
 (b) be indefinite or limited to a specified period; and
 (c) if indefinite, be expressed to commence on a specified date.
-[Section 244ZZH inserted by No. 7 of 2016 s. 85.]
+[Section 244ZZH inserted: No. 7 of 2016 s. 85.]
