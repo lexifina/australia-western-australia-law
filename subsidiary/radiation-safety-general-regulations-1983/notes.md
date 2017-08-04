@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Radiation Safety (General) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 August 2017 of the Radiation Safety (General) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Radiation Safety (General) Regulations 1983 | 21 Feb 1983 p. 555-636 | 21 Aug 1993 (see r. 2)
+Radiation Safety (General) Regulations 1983 | 21 Feb 1983 p. 555-636 | 21 Aug 1983 (see r. 2)
 Health Legislation Amendment Regulations 1984 r. 4 | 29 Jun 1984 p. 1780-4 | 1 Jul 1984 (see r. 2)
 Radiation Safety (General) Amendment Regulations 1986 | 10 Oct 1986 p. 3844-6 | 10 Oct 1986
 Radiation Safety (General) Amendment Regulations (No. 2) 1986 | 5 Dec 1986 p. 4467-8 | 5 Dec 1986
@@ -40,7 +40,7 @@ Radiation Safety (General) Amendment Regulations (No. 3) 1997 | 11 Nov 1997 p. 6
 Radiation Safety (General) Amendment Regulations (No. 2) 1998 | 10 Feb 1998 p. 733 | 1 Jul 1998 (see r. 2)
 Radiation Safety (General) Amendment Regulations 1999 | 30 Jun 1999 p. 2875-6 | 1 Jul 1999 (see r. 2)
 Radiation Safety (General) Amendment Regulations (No. 2) 1999 | 31 Dec 1999 p. 7060-4 | 31 Dec 1999
-Radiation Safety (General) Amendment Regulations 2000 | 29 Feb 2000 p. 992 | 29 Feb 2000
+Radiation Safety (General) Amendment Regulations 2000 | 29 Feb 2000 p. 991-2 | 29 Feb 2000
 Reprint of the Radiation Safety (General) Regulations 1983 as at 24 Mar 2000 (includes amendments listed above)
 Radiation Safety (General) Amendment Regulations 2001 | 25 Sep 2001 p. 5286-7 | 25 Sep 2001
 Radiation Safety (General) Amendment Regulations 2002 | 26 Mar 2002 p. 1746-7 | 26 Mar 2002 (see r. 2 and Gazette 26 Mar 2002 p. 1744)
@@ -58,14 +58,10 @@ Radiation Safety (General) Amendment Regulations 2016 | 20 Sep 2016 p. 3967-8 | 
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 31 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Radiation Safety (General) Amendment Regulations 2017 | 7 Mar 2017 p. 1526-7 | r. 1 and 2: 7 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Mar 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
-Footnote no longer applicable.
+Reprint 4: The Radiation Safety (General) Regulations 1983 as at 4 Aug 2017 (includes amendments listed above)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
-4-7Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
-9-11Footnote no longer applicable.
-The Radiation Safety (General) Amendment Regulations (No. 2) 1999 r. 8(2) and (3) read as follows:
-(2) It is a defence to a prosecution for an offence against regulation 53B(1), inserted by subregulation (1), in relation to the possession of a laser pointer, to prove that the defendant possessed the pointer at the commencement of these regulations.
-(3) Subregulation (2) applies only until 31 May 2000.
+The Radiation Safety (General) Amendment Regulations (No. 2) 1999 r. 8(2) and (3) are transitional provisions that are of no further effect.
 The Radiation Safety (General) Amendment Regulations 2001 r. 4(3) reads as follows:
 (3) Until the council approves a dental ancillary qualification under regulation 38(1)(c) and (d) of the Radiation Safety (General) Regulations 1983 as amended by this regulation, all dental ancillary qualifications are taken to be approved dental ancillary qualifications for the purposes of that regulation.
 Defined terms
@@ -82,11 +78,11 @@ class 2 laser3(1)
 class 3B laser3(1)
 class 3R laser3(1)
 class 4 laser3(1)
-Code28(1)
+Code28(1)(g)(i)
 code of practice31A(1)
 compliance test40(2)
 condition3(1)
-contrastSch. IX
+contrastSch. IX it. 1(t)(ii)
 controlled area52(1)
 cooling curve3(1)
 dentist3(1)
@@ -98,7 +94,7 @@ ECD substance7C(1)
 effective dose3(1)
 effective dose limit3(1)
 electron capture detector7C(1)
-equipmentSch. XVI
+equipmentSch. XVI it. 1
 equivalent dose3(1)
 equivalent dose limit3(1)
 exemption3(1)
@@ -114,7 +110,7 @@ industrial radiographer3(1)
 ion mobility spectrometer7D(1)
 ionisation3(1)
 ionising radiation3(1)
-irradiating apparatus6(1), 6(3), 6(4)
+irradiating apparatus6(1), (3) and (4)
 item3(1)
 keep3(1)
 laser3(1)
@@ -133,13 +129,15 @@ maximum permissible exposure level3(1)
 medical practitioner3(1)
 microwave oven3(1)
 microwave oven standard3(1)
+month of discharge31(5)(c)
 near-surface disposal31A(1)
 NHMRC3(1)
 non-ionising radiation3(1)
 nuclide3(1)
 one half life of the radioactive substance12(3)
-ownerSch. II
+ownerSch. II Form RS 7
 permit3(1)
+person at risk33(5)
 personal file3(1)
 personal monitoring device3(1)
 personal supervision3(1)
@@ -165,6 +163,7 @@ radiologist3(1)
 registered3(1)
 registrant3(1)
 regulated class 3B laser52(1)
+relevant contents11(5)
 repaired19A(4)
 responsible person15(1)
 sealed source3(1)
@@ -173,13 +172,10 @@ sievert3(1)
 smoke detector7B(1)
 sun-tanning unit3(1)
 temporary permit3(1)
-the month of discharge31(5)
-the person at risk33(5)
-the relevant contents11(5)
 tissue weighting factor3(1)
-to be exposed33(2)
+to be exposed33(2)(a)
 transilluminator3(1)
-treatment roomSch. XVI
+treatment roomSch. XVI it. 1
 user5(7)
 veterinary surgeon3(1)
 x-ray operator3(1)
