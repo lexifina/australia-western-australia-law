@@ -5,23 +5,25 @@
 (a)the x-ray tube shall be enclosed in a housing in such a manner that the absorbed dose rate in air from leakage radiation measured at a distance of 1 metre from the focus of that x-ray tube does not exceed —
 (i)for apparatus used with intra-oral x-ray film, 0.25 milligray in 1 hour; and
 (ii)for other apparatus, 1 milligray in 1 hour,
-at every rating specified by the manufacturer for that tube in that housing and, to determine compliance with this condition, measurements may be averaged over an area not larger than 10 000 square mms at a distance of 1 metre from that tube;
-(b)cones, diaphragms or collimators which serve to limit the useful beam shall be so constructed that, in combination with the x-ray tube housing, they comply with the leakage radiation limits set out in paragraph (a);
+at every rating specified by the manufacturer for that tube in that housing and, to determine compliance with this condition, measurements may be averaged over an area not larger than 10 000 square mms at a distance of 1 metre from that tube; and
+(b)cones, diaphragms or collimators which serve to limit the useful beam shall be so constructed that, in combination with the x-ray tube housing, they comply with the leakage radiation limits set out in paragraph (a); and
 (c)the minimum power capability of apparatus —
 (i)used for —
 (A)dental radiography with intra-oral x-ray film; or
 (B)lateral oblique radiography of the mandible with extra-oral x-ray film,
 or both, shall be 60 kV(peak) at 7 milliamps for 3 seconds;
 (ii)used for dental radiography with intra-oral x-ray film but also used for cephalometric or trans-cranial tempero-mandibular joint radiography, shall be 70 kV(peak) at 10 milliamps for 3 seconds;
+and
 (d)the selected —
 (i)tube potential difference in kV(peak), the x-ray tube current in milliamps (mA) and the exposure time in seconds or fractions of a second; or
 (ii)kV(peak) and the product of the tube current and exposure time (mAs),
-shall be indicated by analogue metres, digital displays or scales, or calibrated permanent markings, but apparatus which provides for object programmed control (exposure selection by diagrammatic representations of the part to be examined) shall indicate the exposure time in seconds on the control panel;
+shall be indicated by analogue metres, digital displays or scales, or calibrated permanent markings, but apparatus which provides for object programmed control (exposure selection by diagrammatic representations of the part to be examined) shall indicate the exposure time in seconds on the control panel; and
 (e)when object programmed control exposure times can be modified by a further control which can be adjusted to account for variations in the speed of the film used —
-(i)that control shall be provided with a tool for its adjustment;
+(i)that control shall be provided with a tool for its adjustment; and
 (ii)that control shall be clearly labelled to indicate its purpose; and
 (iii)there shall be clearly indicated on or adjacent to that control the setting to be used with “D” speed intra-oral x-ray film;
-(f)all conductors to the primary winding of the high voltage transformer shall be effectively inoperable when the exposure switch is in the OFF position and the failure of any component of the timing circuit or an earth fault shall not lead to the production of x-rays;
+and
+(f)all conductors to the primary winding of the high voltage transformer shall be effectively inoperable when the exposure switch is in the OFF position and the failure of any component of the timing circuit or an earth fault shall not lead to the production of x-rays; and
 (g)the useful x-ray beam shall incorporate filtration so that the half value layer of the useful x-ray beam for a given x-ray tube potential in kV(peak) is not less than the values given in the following table —
  | Table
 Design Operating Range (kV(peak)) | Measured Potential (kV(peak)) | Half Value Layer (millimetres of aluminium)
@@ -36,11 +38,12 @@ Above 70 | 71 | 2.1
  | 130 | 3.5
  | 140 | 3.8
  | 150 | 4.1
-(h)the exposure timer shall be electronic and the circuit of the apparatus shall be so designed that in the event of any component failure such failure is to a safe condition and does not lead to the x-ray tube becoming energized or continuing to be energized;
-(i)it shall not be possible to initiate an exposure without the exposure timer set to a nominated exposure time greater than zero (or to a projection in the case of an object programmed control) and the exposure control switch shall be protected against accidental operation;
+and
+(h)the exposure timer shall be electronic and the circuit of the apparatus shall be so designed that in the event of any component failure such failure is to a safe condition and does not lead to the x-ray tube becoming energized or continuing to be energized; and
+(i)it shall not be possible to initiate an exposure without the exposure timer set to a nominated exposure time greater than zero (or to a projection in the case of an object programmed control) and the exposure control switch shall be protected against accidental operation; and
 (j)the apparatus shall incorporate —
 (i)a visual signal in the form of a yellow light which —
-(A)is clearly visible;
+(A)is clearly visible; and
 (B)is marked as to its function; and
 (C)illuminates when the x-ray tube is energized;
 and
@@ -48,18 +51,21 @@ and
 and both the visual and audible signals shall be —
 (iii)located at the control panel; or
 (iv)in the case of remotely controlled equipment, where those signals could not otherwise be seen or heard, at the position of the operator;
-(k)the exposure control switch shall be so arranged that the operator can remain well outside the useful x-ray beam and at least 2 metres from the x-ray tube and the patient during the exposure, but if this distance cannot be achieved and if the Council so requires, a protective barrier shall be provided;
+and
+(k)the exposure control switch shall be so arranged that the operator can remain well outside the useful x-ray beam and at least 2 metres from the x-ray tube and the patient during the exposure, but if this distance cannot be achieved and if the Council so requires, a protective barrier shall be provided; and
 (l)where the exposure is initiated by an infra-red or wireless remote control handpiece, that handpiece shall —
-(i)be encoded so that no other remote control handpiece can initiate exposures;
+(i)be encoded so that no other remote control handpiece can initiate exposures; and
 (ii)be permanently labelled with a warning identifying the purpose of the handpiece; and
 (iii)have provision at the control panel for its storage;
-(m)the exposure control switch, including that for infra-red or wireless remote control handpieces, shall be “dead man” so that continuous pressure is necessary to maintain the x-ray exposure and it shall not be possible to make repeat exposures without releasing that switch;
+and
+(m)the exposure control switch, including that for infra-red or wireless remote control handpieces, shall be “dead man” so that continuous pressure is necessary to maintain the x-ray exposure and it shall not be possible to make repeat exposures without releasing that switch; and
 (n)it shall not be possible to initiate an exposure other than for a preset time interval, except in the case of apparatus equipped with an automatic exposure control device, in which case an overriding timer shall be provided to limit the total exposure time —
 (i)in the case of apparatus used with intra-oral x-ray film for —
 (A)lateral oblique examinations of the mandible; or
 (B)cephalometric examinations,
 to not more than 3 seconds; and
 (ii)in the case of panoramic (tomographic) apparatus, to not more than 20 seconds;
+and
 (o)the accuracy of the timer shall ensure that —
 (i)the measured exposure time is within plus or minus 10% for exposure times greater than or equal to 0.1 second and within plus or minus 20% for exposure times less than 0.1 second, with the exposure time in seconds determined —
 (A)for single phase generators, by counting the total number of pulses in the radiation waveform and multiplying by a factor of 0.02 if half wave rectified or a factor of 0.01 if full wave rectified; and
@@ -70,47 +76,55 @@ Xi =ith measurement
 =mean value of measurements
 S = estimated standard deviation
 n =number of measurements;
-(p)the current delivered to the x-ray tube shall be within plus or minus 15% of the indicated value;
+and
+(p)the current delivered to the x-ray tube shall be within plus or minus 15% of the indicated value; and
 (q)where the tube current can be varied, then for any single value of the x-ray tube voltage in kV(peak) within the range specified for the apparatus, the average ratios of the dose in air (in milligray) to the product of the tube current and exposure time (as mAs) obtained at any 2 tube current settings at the same focal spot size, shall not differ by more than 0.2 times their mean calculated as follows —
 Where —
 =the average of 10 consecutive measurements of the ratios of the measured values of the dose in air to the mAs;
-(r)the kilovoltage applied to the x-ray tube shall be within plus or minus 5% or plus or minus 5 kV(peak), whichever is the lesser, of the nominal or preset value averaged over the first 100 milliseconds of the exposure;
-(s)except for equipment used for panoramic (tomographic) radiography, the x-ray tube head shall remain stationary when placed in position for radiography;
+and
+(r)the kilovoltage applied to the x-ray tube shall be within plus or minus 5% or plus or minus 5 kV(peak), whichever is the lesser, of the nominal or preset value averaged over the first 100 milliseconds of the exposure; and
+(s)except for equipment used for panoramic (tomographic) radiography, the x-ray tube head shall remain stationary when placed in position for radiography; and
 (t)where a light beam collimator is provided to define the shape and size of the useful x-ray beam —
 (i)the illuminance of the light beam shall not be less than 100 lux at a distance of 1 metre from the focal spot of the x-ray tube or at the plane of the x-ray film, whichever is the lesser;
 (ii)the contrast (as defined below) at the edge of the illuminated field at the distance referred to in subparagraph (i) shall not be less than 3;
 contrast means the ratio of the illumination measured 3 mms from the edge of the field towards the centre of the field to the illumination measured 3 mms from the edge of the field away from the centre of the field, using a measuring aperture not greater than 1 mm;
 (iii)the collimator shall be designed so that the irradiated area does not exceed the illuminated area under any conditions and the edges of the irradiated and illuminated areas are coincident to within 10 mm at 100 cms;
 (iv)the collimator shall be attached to the x-ray tube housing so that it cannot be detached without the use of tools;
+and
 (u)for apparatus intended for use with intra-oral x-ray film and which may also be used for lateral oblique examinations of the mandible, the cone, diaphragm or collimator referred to in paragraph (b) —
 (i)shall limit the diameter of the useful beam at the end of that cone, diaphragm or collimator to a diameter not exceeding 60 mm or, if the x-ray beam is not circular, to a maximum diagonal dimension of 60 mm; and
 (ii)shall be open ended and shall be so constructed that the minimum distance from the outer end to the x-ray tube focus is not less than 200 mm and the internal diameter is greater than the diameter of the useful beam at the outer end;
+and
 (v)for apparatus used for panoramic (tomographic) radiography, the cone, diaphragm or collimator referred to in paragraph (b) —
 (i)shall provide a useful x-ray beam with dimensions not greater than the dimensions of the slot in the secondary collimator immediately adjacent to the x-ray film and that cone or diaphragm shall also restrict the vertical dimension of the useful beam so that it cannot exceed the height of the x-ray film (or its smallest dimension); and
 (ii)in conjunction with the x-ray tube housing shall limit the distance between the x-ray tube focus and the patient’s skin to not less than 150 mm;
+and
 (w)for apparatus used for cephalometric radiography —
 (i)the cone, diaphragm or collimator referred to in paragraph (b) shall restrict the useful beam to the size of the x-ray film and shall not exceed —
 (A)180 x 240 mm or 180 mm in diameter for an x-ray film with dimensions of 180 mm x 240 mm; and
 (B)240 x 300 mm or 240 mm in diameter for an x-ray film with dimensions of 240 x 300 mm;
 and
 (ii)the x-ray tube and x-ray film shall be so arranged that the x-ray tube focus to film distance is not less than 1.5 metres and the minimum x-ray tube focus to the patient entrance surface is not less than 300 mms;
+and
 (x)where the apparatus is designed —
 (i)exclusively for one of the purposes referred to in paragraph (u) or (v), the cone, diaphragm or collimator shall be attached to the x-ray tube housing so that it cannot be detached without the use of tools;
 (ii)for more than one such purpose the cone, diaphragm, or collimator selected shall be interlocked so that the use of the apparatus is restricted only to the purpose appropriate to that cone, diaphragm or collimator;
+and
 (y)the x-ray tube assembly shall be marked with —
 (i)the name of the supplier or manufacturer;
 (ii)the type number of the x-ray tube or the x-ray tube assembly;
 (iii)the nominal value of the inherent filtration of the x-ray tube assembly and, where appropriate, the value of any permanently added filtration including that provided by cones, diaphragms or collimators;
 (iv)the position and nominal size of the focal spot or spots;
 (v)the values of the x-ray tube potential in kV(peak) and the tube current where those values are fixed;
+and
 (z)intra-oral x-ray tubes shall not be used; and
 (za)fluoroscopy shall not be used.
 2.In the case of irradiating apparatus which is operated or used for diagnostic medical radiography —
 (a)the x-ray tube shall be enclosed in a housing in such a manner that the absorbed dose rate measured in air from leakage radiation measured at a distance of 1 metre from the focus of that tube does not exceed 1 milligray in 1 hour at each rating specified by the manufacturer for that tube in that housing and, to determine compliance with this requirement, measurements shall be averaged over an area not larger than 10 000 sq mm at a distance of 1 metre from that tube;
 (b)diaphragms, cones or collimators used to limit the useful beam to the area of clinical interest shall be so constructed that, in combination with the tube housing, they comply with the leakage radiation limits set out in paragraph (a);
 (c)except in relation to irradiating apparatus or procedures specified in writing by the Council —
-(i)a continuously adjustable multiplane rectangular collimator shall be fitted to the x-ray tube and that collimator shall, except in the case of examinations utilizing a serial changer in association with a fluoroscopic apparatus, be a light beam unit;
-(ii)the lack of alignment between any boundary of the light beam and the equivalent boundary of the x-ray beam in the plane of the image receptor shall not exceed 1% of the distance between the target of the x-ray tube and the plane of the image receptor;
+(i)a continuously adjustable multiplane rectangular collimator shall be fitted to the x-ray tube and that collimator shall, except in the case of examinations utilizing a serial changer in association with a fluoroscopic apparatus, be a light beam unit; and
+(ii)the lack of alignment between any boundary of the light beam and the equivalent boundary of the x-ray beam in the plane of the image receptor shall not exceed 1% of the distance between the target of the x-ray tube and the plane of the image receptor; and
 (iii)the illuminance of the light beam shall be not less than 100 lux at a distance of 1 metre from the light source; and
 (iv)when provision is made for the automatic adjustment of the collimator referred to in subparagraph (i) to the size of the film in use, it shall be possible, at the discretion of the operator, to adjust that collimator to produce an x-ray beam smaller than the size of the film in use;
 (d)when more than one x-ray tube can be operated from a single control panel, there shall, except in the case of the undertable and associated overtable x-ray tubes on fluoroscopic equipment, be an indication at or near the tube housing and on the control panel showing which x-ray tube is selected;
@@ -139,12 +153,12 @@ Table
 Item | Aluminium equivalent (millimetres)
 Front panel(s) of cassette holder (total of all) Front panel(s) of film changer (total of all) Stationary tabletop Movable tabletop (including stationary subtop) Cradle | 1.0 1.0 1.0 1.5 2.0
 (n)involving portable or mobile x-ray apparatus —
-(i)paragraphs (a), (b), (c), (e), (f), (g), (h) and (k) apply to that apparatus, except that the continuously adjustable rectangular collimator referred to in paragraph (c) need not be multi-plane;
-(ii)a cable not less than 2 metres in length shall be provided for the exposure control switch of that apparatus so that the operator thereof can remain outside the x-ray beam at least 2 metres from the x-ray tube and from the patient;
+(i)paragraphs (a), (b), (c), (e), (f), (g), (h) and (k) apply to that apparatus, except that the continuously adjustable rectangular collimator referred to in paragraph (c) need not be multi-plane; and
+(ii)a cable not less than 2 metres in length shall be provided for the exposure control switch of that apparatus so that the operator thereof can remain outside the x-ray beam at least 2 metres from the x-ray tube and from the patient; and
 (iii)the equipment shall be so arranged that an x-ray tube focus to film distance of at least 750 mm may be utilized for medical radiography; and
 (iv)that apparatus shall have a minimum x-ray exposure capability of 85 kVp at 20 milliamperes for 2 seconds;
 (o)involving photo fluorography —
-(i)high efficiency optical systems shall be used;
+(i)high efficiency optical systems shall be used; and
 (ii)when there is a fixed relationship between the x-ray tube and the photo fluorographic camera, a fixed diaphragm is provided which limits the x-ray beam to dimensions no larger than those of the fluorescent screen and the equipment is designed for one image size only, it shall not be necessary for a continuously adjustable rectangular light beam diaphragm to be provided; and
 (iii)when a light beam diaphragm is provided, it shall not be possible for the dimensions of the x-ray beam to exceed those of the fluorescent screen;
 (p)involving equipment in which the x-ray tube is energised by a capacitor energy storage system (capacitor discharge x-ray equipment), radiation emitted from the x-ray tube when the exposure switch or timer is not activated shall not exceed 20 microsieverts per hour at 50 mm from any accessible surface of the x-ray tube or associated diaphragm or collimator with the collimator fully open and, to determine compliance with this requirement, measurements shall be averaged over an area not exceeding 10 000 square mm with no linear dimension greater than 200 mm and the response time of the measuring instrument shall not be less than 3, nor greater than 20, seconds.
@@ -187,7 +201,7 @@ Overtable x-ray tube | Permanently between the image intensifier and patient | 3
 C-arm or U-arm apparatus where the x-ray tube and image intensifier are mechanically linked | May or may not be permanently in the useful x-ray beam | 300 mms from the input surface of the image intensifier | Shortest distance between the x-ray tube focal spot and the image intensifier but not less than 400 mms from the x-ray tube focal spot
 Other fluoroscopic apparatus | May or may not be permanently in the useful x-ray beam | 400 mms from the x-ray tube focal spot or the minimum distance, whichever is greater
 (l)notwithstanding paragraph (k), where the apparatus is fitted with automatic dose rate control and a higher dose rate is temporarily required, a maximum dose rate in air of 100 milligray per minute is permitted for the apparatus configurations specified in the Table to paragraph (k) at the measurement points and under the conditions specified in that Table, subject to the higher dose rate facility —
-(i)being activated by a clearly identified control requiring a deliberate action by the fluoroscopist;
+(i)being activated by a clearly identified control requiring a deliberate action by the fluoroscopist; and
 (ii)being accompanied during activation by —
 (A)a continuous signal audible to the fluoroscopist and distinguishable from the signal required under paragraph (j); or
 (B)an identified and readily distinguishable visible signal at the image viewing position occupied by the fluoroscopist;
@@ -229,17 +243,17 @@ and for the purpose of determining compliance with this requirement, measurement
 (ii)the tube assembly carries a remotely operated shutter to control the useful beam so that the skin dose to the patient does not exceed 50 milligrays during the period of time it takes for the shutter to open;
 (k)subject to paragraph (q), the equipment shall be provided with 2 automatic timers, comprising a primary timer and a back-up timer;
 (l)the timers referred to in paragraph (k) shall be so designed and arranged that —
-(i)the failure of one timer does not affect the operation of the other timer;
-(ii)the possibility of accidental communication between the timers is minimised;
-(iii)the failure of the main power supply to either timer will terminate the exposure;
-(iv)each timer is capable of terminating the exposure independently of the other timer;
-(v)the 2 terminating circuits are kept physically separated;
-(vi)each timer counts upwards from zero so that an over exposure will give a reading;
-(vii)the primary timer terminates the exposure when the preset time for termination of the exposure is reached;
-(viii)the back-up timer terminates the exposure after, but not more than 0.1 minutes after, the preset time for termination of exposure on the primary timer;
-(ix)each timer continues to record and display until the exposure is terminated by whatever means and retains the display of its readings on and after termination;
-(x)in the event of a power failure, readings displayed at the time of that failure are stored in a retrievable form;
-(xi)a single preselection of the exposure time presets both timers;
+(i)the failure of one timer does not affect the operation of the other timer; and
+(ii)the possibility of accidental communication between the timers is minimised; and
+(iii)the failure of the main power supply to either timer will terminate the exposure; and
+(iv)each timer is capable of terminating the exposure independently of the other timer; and
+(v)the 2 terminating circuits are kept physically separated; and
+(vi)each timer counts upwards from zero so that an over exposure will give a reading; and
+(vii)the primary timer terminates the exposure when the preset time for termination of the exposure is reached; and
+(viii)the back-up timer terminates the exposure after, but not more than 0.1 minutes after, the preset time for termination of exposure on the primary timer; and
+(ix)each timer continues to record and display until the exposure is terminated by whatever means and retains the display of its readings on and after termination; and
+(x)in the event of a power failure, readings displayed at the time of that failure are stored in a retrievable form; and
+(xi)a single preselection of the exposure time presets both timers; and
 (xii)the displays of the timers are positioned closely together on the control panel, identical in form and easy to read; and
 (xiii)the timers are single scaled in minutes and decimals of minutes or in seconds only and are capable of being read without further calculation;
 (m)there shall be a clearly visible or audible indicator on the control panel which is activated when the exposure is terminated otherwise than by the primary timer referred to in paragraph (k);
@@ -250,10 +264,11 @@ by the operator of the equipment before a new exposure can be made;
 (o)the procedures referred to in paragraph (n) may be carried out automatically if the equipment is provided with timers that produce a permanent printout or chart record;
 (p)equipment which can operate at tube potentials exceeding 150 kilovolts peak shall be provided with a transmission monitoring ionisation chamber or equivalent device positioned in the useful beam to provide a continuous check on the constancy of the radiation output;
 (q)the chamber referred to in paragraph (p) may be used as an integrating dose meter to control treatment dose in the place of the primary timer referred to in paragraph (k) and where that chamber is so used —
-(i)the integrating dose meter shall terminate the exposure by switching off the high tension or closing the shutter when the preset dose for the treatment is reached;
+(i)the integrating dose meter shall terminate the exposure by switching off the high tension or closing the shutter when the preset dose for the treatment is reached; and
 (ii)the equipment shall be provided with a back-up timer so designed and arranged that it —
 (A)is capable of terminating the exposure independently of the integrating dose meter; and
 (B)terminates the exposure after the expiry of a period of time that exceeds the period of time estimated for the treatment by not more than 10% of that estimated period of time;
+and
 (iii)the integrating dose meter and the back-up timer shall count upwards from zero so that an over exposure will give a reading; and
 (iv)the integrating dose meter and the back-up timer shall continue to record and display until the exposure is terminated by whatever means and shall retain the display of their readings on and after termination.
 5.In the case of irradiating apparatus which is operated or used for veterinary radiography —

@@ -6,7 +6,7 @@
 3.The beam of the laser or its laser system shall be terminated in an absorbent fire resistant material, which shall be inspected periodically for signs of deterioration.
 4.If the laser or its laser system is operated or used without its entire beam path and interaction site enclosed, that operation or use shall take place in a controlled area which is permanently isolated from other areas within the premises concerned.
 5.Except in medical laser installations, safety latches or interlocks designed —
-(a)to prevent uncontrolled entry into;
+(a)to prevent uncontrolled entry into; and
 (b)to enable rapid exit from; and
 (c)to enable rapid entry in an emergency into,
 the controlled area referred to in item 4 shall be installed.

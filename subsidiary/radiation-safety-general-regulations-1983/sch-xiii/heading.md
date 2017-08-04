@@ -19,7 +19,7 @@
 13.The illuminance level in the controlled area referred to in item 10 shall, unless the Council otherwise directs, be not less than 350 lux.
 14.Persons other than those operating or using the laser or its laser system shall not enter the controlled area referred to in item 10 unless they have the permission of the person in whose name the premises concerned are registered to do so and take such protective measures as he directs.
 15.There shall be displayed —
-(a)in conspicuous locations inside and outside the controlled area referred to in item 10;
+(a)in conspicuous locations inside and outside the controlled area referred to in item 10; and
 (b)at all entrances giving access to the controlled area; and
 (c)in a prominent position near the laser,
 area warning signs in accordance with Section 10.5 of the laser safety standard.

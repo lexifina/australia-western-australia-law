@@ -15,7 +15,7 @@ treatment room means a room where the radiation source for any equipment is hous
 5.It shall be possible from outside the treatment room, to observe and converse with a patient who is inside the treatment room.
 6.When the radiation beam is in use, a signal shall indicate this clearly to persons inside the treatment room and persons about to enter the treatment room.
 7.The radiation source shall be fitted with a source control mechanism so that —
-(a)if any door or other barrier (such as a light beam) to the treatment room is opened or interrupted, the equipment shall automatically and immediately switch off;
+(a)if any door or other barrier (such as a light beam) to the treatment room is opened or interrupted, the equipment shall automatically and immediately switch off; and
 (b)the equipment cannot be activated until all barriers to the treatment room are closed; and
 (c)after the equipment has switched off, as referred to in paragraph (a), it can only be reactivated manually.
 8.Only the person receiving treatment shall be in the treatment room while the radiation beam is in use.
@@ -31,8 +31,8 @@ treatment room means a room where the radiation source for any equipment is hous
 (b)near the entrance outside the treatment room.
 (3)The permanent radiation monitor shall have the capacity to provide an audible signal inside the treatment room and this signal shall be used when maintenance or calibration of the equipment is in progress.
 14.A permanent radiation monitor used in association with the equipment shall —
-(a)provide visible warning of a malfunction that may result in an exposed or partly exposed radiation source;
-(b)provide a warning of high radiation levels which is visible to a person in, or about to enter, the treatment room;
+(a)provide visible warning of a malfunction that may result in an exposed or partly exposed radiation source; and
+(b)provide a warning of high radiation levels which is visible to a person in, or about to enter, the treatment room; and
 (c)have an emergency power supply (i.e. a battery system) which is separate from the power supply to the equipment; and
 (d)be tested to ensure that it is operating correctly each day before the equipment is used for treatment.
 15.(1)A portable radiation survey monitor shall be available on the premises where the treatment room is located and shall be used if any malfunction occurs that may result in an exposed or partly exposed radiation source.
@@ -47,13 +47,13 @@ treatment room means a room where the radiation source for any equipment is hous
 and
 (b)such that the integrity of the protective source housing shielding is preserved in the event of fire.
 18.(1)When the radiation beam is off, the maximum dose rate in air shall be measured at 26 points defined by a sphere 1 metre in radius centred on the radiation source of which —
-(a)2 points shall be located at the poles of the sphere and 4 equally spaced points shall be located on the sphere’s equator;
+(a)2 points shall be located at the poles of the sphere and 4 equally spaced points shall be located on the sphere’s equator; and
 (b)8 points shall be located at the centres of the spherical triangles formed by connecting the first 6 points; and
 (c)12 points shall be located at points midway between the first 6 points.
 (2)The average maximum dose rate of the 26 points referred to in subitem (1) shall not exceed 0.02 milligray per hour and no point shall exceed 0.1 milligray per hour.
 (3)When the radiation beam is on, the maximum dose rate in air shall be measured with the beam defining diaphragms closed as far as possible and, if the useful beam aperture is not completely intercepted at that position, the entire useful beam shall be blocked by lead which has an attenuation equivalent to that of the equipment source housing.
 19.(1)The radiation source housing, including the radiation beam aperture and other locations likely to be contaminated in the event of a leakage, shall be tested when the radiation beam is off for leakage of radioactive material —
-(a)immediately after the installation of the equipment;
+(a)immediately after the installation of the equipment; and
 (b)at intervals not exceeding 12 months; and
 (c)immediately before any maintenance work is carried out in the housing port or collimator assembly.
 (2)No maintenance work shall be carried out in the housing port or collimator assembly until the contamination test described in subitem (1) is completed.
@@ -68,7 +68,7 @@ and
 (b)the treatment area shall be indicated by a laser alignment system.
 23.When the radiation source is in the “on” position and at the usual treatment distance (i.e. source to skin distance or source to isocentre distance), the mechanical axis defining the axis of rotation of the collimating device shall be accurately aligned to within 2 mm of the central axis of the radiation beam for all orientations of the treatment head.
 24.The equipment shall have a remotely operated source control mechanism which —
-(a)can function in any orientation of the source housing;
+(a)can function in any orientation of the source housing; and
 (b)automatically and immediately switches the equipment off —
 (i)at the predetermined end of the exposure; or
 (ii)if there is a breakdown or interruption of the activating force;
@@ -81,17 +81,18 @@ and
 (a)an automatic timer, or an integrated dosemeter, which terminates the treatment after a pre-set time or dose; and
 (b)a back-up timer which is independent of the timer referred to in paragraph (a).
 (2)The timers referred to in subitem (1) shall be arranged so that —
-(a)the failure of one timer does not affect the other timer;
-(b)the possibility of accidental communication between the timers is minimized;
-(c)each timer is capable of terminating the radiation exposure by means independent of the other timer;
-(d)the terminating electrical circuits of the 2 timers are kept physically separate;
-(e)each timer counts up from zero so that an over-exposure will give a reading;
-(f)information from the timers is retrievable, including after a power failure;
-(g)the stopping and starting of the timers is controlled by switches activated by the source or shutter so that in the event of failure of the terminating means, a true record of maximum exposure time is obtained;
+(a)the failure of one timer does not affect the other timer; and
+(b)the possibility of accidental communication between the timers is minimized; and
+(c)each timer is capable of terminating the radiation exposure by means independent of the other timer; and
+(d)the terminating electrical circuits of the 2 timers are kept physically separate; and
+(e)each timer counts up from zero so that an over-exposure will give a reading; and
+(f)information from the timers is retrievable, including after a power failure; and
+(g)the stopping and starting of the timers is controlled by switches activated by the source or shutter so that in the event of failure of the terminating means, a true record of maximum exposure time is obtained; and
 (h)the switch controlling the timer referred to in subitem (1)(a) shall operate when the source or shutter —
 (i)arrives at; and
 (ii)leaves,
 the fully “on” position;
+and
 (i)the switch controlling the back-up timer referred to in subitem (1)(b) shall operate when the source or shutter —
 (i)arrives at; and
 (ii)leaves,

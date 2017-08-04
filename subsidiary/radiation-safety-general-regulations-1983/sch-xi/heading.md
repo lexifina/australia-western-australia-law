@@ -2,11 +2,11 @@
 [Regulation 38]
 ## Requirements to be complied with in respect of operation or use of irradiating apparatus
 1.In the case of irradiating apparatus operated or used for dental radiography —
-(a)a person other than the patient shall not hold the x-ray film during its exposure to x-rays;
-(b)a person other than the patient shall not be in the x-ray beam emitted by that irradiating apparatus;
-(c)a person shall not touch the cone, diaphragm or x-ray tube housing of that irradiating apparatus during exposure;
-(d)a person other than a person whose presence is essential to the radiographic procedure concerned or for the care of the patient, as the case requires, shall not be in the radiographic room during an exposure;
-(e)a person shall not use for intra-oral dental radiography any x-ray film which has a sensitivity less than that of films defined as Speed Group D films by the publication known as American National Standard ANSI PHG.1. 1970 issued by the American National Standards Institute;
+(a)a person other than the patient shall not hold the x-ray film during its exposure to x-rays; and
+(b)a person other than the patient shall not be in the x-ray beam emitted by that irradiating apparatus; and
+(c)a person shall not touch the cone, diaphragm or x-ray tube housing of that irradiating apparatus during exposure; and
+(d)a person other than a person whose presence is essential to the radiographic procedure concerned or for the care of the patient, as the case requires, shall not be in the radiographic room during an exposure; and
+(e)a person shall not use for intra-oral dental radiography any x-ray film which has a sensitivity less than that of films defined as Speed Group D films by the publication known as American National Standard ANSI PHG.1. 1970 issued by the American National Standards Institute; and
 (f)facilities shall be provided to enable the x-ray film taken by that irradiating apparatus to be processed in the manner specified by the manufacturer of that film and —
 (i)for other than dry to dry automatic film processors, those facilities shall include —
 (A)a non-mercury thermometer with the scale marked at least every 1°C or a digital thermometer accurate to plus or minus 0.2°C;
@@ -25,9 +25,10 @@ and
 (a)a person who holds a patient during the exposure to x-rays of the patient —
 (i)shall wear a protective apron and protective gloves with a shielding value of not less than 0.25 mm lead equivalent; and
 (ii)shall not expose any part of his body which is not protected by the apron and gloves referred to in subparagraph (i) to the useful x-ray beam;
+and
 (b)if a patient is being exposed to x-rays in a room where x-ray apparatus is installed, a person other than the patient shall not during that exposure remain in that room unless —
 (i)that person remains behind a protective screen or is wearing a protective apron and —
-A.his presence during the radiographic procedure concerned is necessary;
+A.his presence during the radiographic procedure concerned is necessary; or
 B.he is a medical practitioner responsible for the care of the patient; or
 C.he is receiving instruction from a person responsible for the conduct of the radiographic procedure concerned;
 or
@@ -55,12 +56,13 @@ the treatment room during the treatment of the patient.
 (i)before an open installation is employed for that radiography, ensure that adequate protection is provided; and
 (ii)during an x-ray exposure ensure that an open installation is kept under continuous surveillance and that, if any person not authorised by him enters that installation, the x-ray exposure is terminated.
 7.In the case of irradiating apparatus operated or used for veterinary radiography —
-(a)whenever it is necessary to employ an angulated or horizontal beam, the film or cassette shall be supported by mechanical means;
-(b)a person shall not be regularly employed to hold or support animal patients or film during x-ray exposures;
-(c)subject to paragraph (d), mechanical restraining or supporting devices shall be employed if it is necessary for an animal patient to be held in position during x-ray exposures;
+(a)whenever it is necessary to employ an angulated or horizontal beam, the film or cassette shall be supported by mechanical means; and
+(b)a person shall not be regularly employed to hold or support animal patients or film during x-ray exposures; and
+(c)subject to paragraph (d), mechanical restraining or supporting devices shall be employed if it is necessary for an animal patient to be held in position during x-ray exposures; and
 (d)a person who, for clinical reasons, holds an animal patient during an x-ray exposure shall —
 (i)wear a protective apron with a shielding value of not less than 0.25 mm lead equivalent and protective gloves with a shielding value of not less than 0.25 mm lead equivalent; and
 (ii)keep all parts of his body which are not protected by the apron and gloves referred to in subparagraph (i) out of the useful x-ray beam;
+and
 (e)a person under the age of 18 years shall not hold or support an animal patient during x-ray exposures; and
 (f)a person shall not hold in his hand the x-ray film or the x-ray tube and attached cone or diaphragm of that irradiating apparatus during an x-ray exposure.
 [Schedule XI amended in Gazette 15 Mar 1991 p. 1129; 28 May 1993 p. 2594-5; 22 Jul 1997 p. 3825.]
