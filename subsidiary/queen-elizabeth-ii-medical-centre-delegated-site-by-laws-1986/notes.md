@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 August 2017 of the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 | 24 Oct 1986 p. 3947-54 | 1 Nov 1986 (see bl. 2 and Gazette 24 Oct 1986 p. 3938)
@@ -26,11 +26,13 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 3) 201
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2016 | 1 Jul 2016 p. 2743-5 | bl. 1 and 2: 1 Jul 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2016 | 1 Jul 2016 p. 2745-7 | bl. 1 and 2: 1 Jul 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2017 | 30 Jun 2017 p. 3574 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 as at 4 Aug 2017 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 s. 307(j) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(j) had not come into operation. It reads as follows:
+Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+On the date as at which this reprint was prepared, the Health Services Act 2016 s. 307(j) had not come into operation. It reads as follows:
 307.By-laws and regulations repealed
 These by-laws and regulations are repealed:
 (j) Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986;
