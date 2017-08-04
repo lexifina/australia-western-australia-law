@@ -1,5 +1,5 @@
 ## Division 14 — Exemptions and modifications
-[Heading inserted by No. 7 of 2016 s. 85.]
+[Heading inserted: No. 7 of 2016 s. 85.]
 ### 244ZZD. Exemptions: individual co-operatives
 (1) On an application made in accordance with subsection (4) in relation to a co-operative, the Registrar may, by order published in the Gazette, exempt any of the following from compliance with all or specified requirements of the target provisions referred to in subsection (2) —
 (a) the directors;
@@ -15,4 +15,4 @@
 (b) in writing and signed by a director; and
 (c) lodged with the Registrar.
 (5) The Registrar must give the applicant written notice of the granting, revocation or suspension of the exemption.
-[Section 244ZZD inserted by No. 7 of 2016 s. 85.]
+[Section 244ZZD inserted: No. 7 of 2016 s. 85.]

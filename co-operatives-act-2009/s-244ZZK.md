@@ -24,4 +24,4 @@ and if the application is made by a firm or company, the declaration has effect 
 (b) the availability of other registered company auditors capable of providing satisfactory audit services for the audited body or bodies; and
 (c) any other matters which the Registrar considers relevant.
 (8) The Registrar must give the applicant written notice of the making, revocation or suspension of the declaration.
-[Section 244ZZK inserted by No. 7 of 2016 s. 85.]
+[Section 244ZZK inserted: No. 7 of 2016 s. 85.]

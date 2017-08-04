@@ -14,4 +14,4 @@
 (a) in writing and signed by the applicant; and
 (b) lodged with the Registrar.
 (5) The Registrar must give the applicant written notice of the granting, revocation or suspension of the exemption.
-[Section 244ZZG inserted by No. 7 of 2016 s. 85.]
+[Section 244ZZG inserted: No. 7 of 2016 s. 85.]

@@ -13,4 +13,4 @@
 (a) the number of creditors and potential creditors; and
 (b) the position of creditors and potential creditors (in particular, their ability to independently obtain financial information about the co-operative or co-operatives); and
 (c) the nature and extent of the liabilities of the co-operative or co-operatives.
-[Section 244ZZF inserted by No. 7 of 2016 s. 85.]
+[Section 244ZZF inserted: No. 7 of 2016 s. 85.]
