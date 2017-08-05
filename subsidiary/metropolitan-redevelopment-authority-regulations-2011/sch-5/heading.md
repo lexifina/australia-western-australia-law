@@ -20,4 +20,4 @@ Item | Service | Fee
 8. | Providing a copy (except in an electronic format) of a draft redevelopment scheme, a redevelopment scheme or a policy made by the Authority for the purposes of a redevelopment scheme | 30 cents per page
 9. | Replying to a property settlement questionnaire | $73
 10. | Providing written planning advice | $73
-[Schedule 5 amended in Gazette 16 Dec 2016 p. 5708-9.]
+[Schedule 5 amended: Gazette 16 Dec 2016 p. 5708-9.]
