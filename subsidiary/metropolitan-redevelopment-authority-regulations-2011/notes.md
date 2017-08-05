@@ -7,6 +7,7 @@ Metropolitan Redevelopment Authority Amendment Regulations 2013 | 30 Aug 2013 p.
 Metropolitan Redevelopment Authority Amendment Regulations 2014 | 16 Dec 2014 p. 4762-3 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2016 | 16 Dec 2016 p. 5702-9 | r. 1 and 2: 16 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2016 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2017 | 7 Feb 2017 p. 1170-1 | r. 1 and 2: 7 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Feb 2017 (see r. 2(b))
+Metropolitan Redevelopment Authority Amendment Regulations (No. 2) 2017 | 4 Aug 2017 p. 4315 | r. 1 and 2: 4 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
