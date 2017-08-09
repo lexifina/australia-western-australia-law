@@ -24,6 +24,7 @@ Reprint 3: The Building Regulations 2012 as at 12 Aug 2016 (includes amendments 
 Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Building Amendment Regulations 2017 | 7 Feb 2017 p. 1160-2 | r. 1 and 2: 7 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Feb 2017 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
+Building Regulations Amendment Regulations 2017 Pt. 2 | 8 Aug 2017 p. 4343-5 | 9 Aug 2017 (see r. 2(b))
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -32,7 +33,6 @@ Defined termProvision(s)
 10 year life battery55(1)
 access through a building48
 accredited person31
-alternative solution3
 applicable technical aspects47(1A)
 application31, 40(1)
 approved alternative building solution55(1)
@@ -74,6 +74,7 @@ management body10(1A)
 new owner57(1)
 owner10(2A), 55(1)
 performance requirement3
+performance solution3
 pergolaSch. 4 cl. 2
 person responsible54A(1)
 person with a disability51(1)
