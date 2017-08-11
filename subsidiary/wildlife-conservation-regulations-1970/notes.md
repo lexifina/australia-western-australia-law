@@ -40,8 +40,9 @@ Wildlife Conservation Amendment Regulations 2014 | 8 Jan 2015 p. 137-9 | r. 1 an
 Wildlife Conservation Amendment Regulations 2016 | 26 Aug 2016 p. 3651-2 | r. 1 and 2: 26 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2016 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Biodiversity Conservation Act 2016 s. 279(a) assented to 21 Sep 2016 | To be proclaimed (see s. 2(b))
+ | Citation | Gazettal | Commencement
+ | Biodiversity Conservation Act 2016 s. 279(a) assented to 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Wildlife Conservation Amendment Regulations 2017 r. 3-6 | 11 Aug 2017 p. 4353-4 | 1 Oct 2017 (see r. 2(b))
 On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 279(a) had not come into operation. It reads as follows:
 279.Subsidiary legislation repealed
 The following subsidiary legislation is repealed:
@@ -61,6 +62,23 @@ The Conservation and Land Management Regulations 2002 r. 116 reads as follows:
 (5) In subregulation (1) —
 former provision means a provision repealed by regulation 114 or 115.
 The commencement date referred to in r. 2 was before the date of gazettal.
+On the date as at which this compilation was prepared, the Wildlife Conservation Amendment Regulations 2017 r. 3-6 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Wildlife Conservation Regulations 1970.
+4.Regulation 12 amended
+In regulation 12(6)(b) delete “$20.” and insert:
+$30.
+5.Regulation 15 amended
+Delete regulation 15(2B) and insert:
+(2B) The fee payable —
+(a) for the issue of a fauna interaction licence is $75; and
+(b) for the issue of any other licence under this regulation is $100.
+6.Regulation 16 amended
+In regulation 16(2a):
+(a) delete “$50” and insert:
+$100
+(b) delete “$100” and insert:
+$200
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
