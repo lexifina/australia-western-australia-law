@@ -100,4 +100,4 @@ Dividend of withdrawn runner (for wager of $1) | Win, Doubles, Trebles deduction
 31.00 | 0.03 | 0.03 | 0.04 | 0.03
 41.00 | 0.02 | 0.03 | 0.03 | 0.02
 51.00 | 0.02 | 0.02 | 0.02 | 002
-[Schedule 1 amended in Gazette 4 Jan 2013 p. 18-19.]
+[Schedule 1 amended: Gazette 4 Jan 2013 p. 18-19.]
