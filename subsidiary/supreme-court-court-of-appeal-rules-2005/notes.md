@@ -3,6 +3,20 @@ This is a compilation of the Supreme Court (Court of Appeal) Rules 2005. The fol
 Compilation table
 Citation | Gazettal | Commencement
 Supreme Court (Court of Appeal) Rules 2005 | 29 Apr 2005 p. 1803-75 | 2 May 2005 (see r. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court Rules Amendment Rules 2017 Pt. 3 | 16 Aug 2017 p. 4391-427 | 30 Aug 2017 (see r. 2(c))
+On the date as at which this compilation was prepared, the Supreme Court Rules Amendment Rules 2017 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Supreme Court (Court of Appeal) Rules 2005 amended
+31.Rules amended
+This Part amends the Supreme Court (Court of Appeal) Rules 2005.
+32.Rule 47 amended
+Delete rule 47(1) and insert:
+(1) In this rule —
+approved mediator means —
+(a)the Court of Appeal Registrar; or
+(b)an approved mediator as defined in the RSC Order 4A rule 1.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
