@@ -132,6 +132,7 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Liquor Control Amendment Regulations 2017 | 10 Jan 2017 p. 140-6 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2017 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2017 | 3 Feb 2017 p. 1114-15 | r. 1 and 2: 3 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Feb 2017 (see r. 2(b))
 Reprint 14: The Liquor Control Regulations 1989 as at 5 May 2017 (includes amendments listed above)
+Liquor Control Amendment Regulations (No. 4) 2017 | 18 Aug 2017 p. 4457 | r. 1 and 2: 18 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2017 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Commenced 1 July 2014.
