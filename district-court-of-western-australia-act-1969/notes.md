@@ -60,6 +60,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 3 | 3 of 2017 | 21 Aug 2017 | 18 Sep 2017 (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -142,6 +143,16 @@ Act | Provision
 District Court of Western Australia Act 1969 | s. 15
 ........................................................... | .........
 ”.
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — District Court of Western Australia Act 1969 amended
+8.Act amended
+This Part amends the District Court of Western Australia Act 1969.
+9.Section 42 amended
+In section 42(2) delete “life.” and insert:
+life, unless the offence is —
+(a) a crime under the Misuse of Drugs Act 1981 section 6(1) that involves a trafficable quantity of methylamphetamine as defined in section 34(1A) of that Act (a serious methylamphetamine crime); or
+(b) an attempt to commit a serious methylamphetamine crime under the Misuse of Drugs Act 1981 section 33(1)(a); or
+(c) conspiring to commit a serious methylamphetamine crime under the Misuse of Drugs Act 1981 section 33(2)(c).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
