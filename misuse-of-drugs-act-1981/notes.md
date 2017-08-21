@@ -59,6 +59,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 2 | 3 of 2017 | 21 Aug 2017 | 18 Sep 2017 (see s. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 are savings and transitional provisions.
@@ -100,6 +101,47 @@ Division 3 — Provisions for Public Health (Consequential Provisions) Act 2016
 49.Transitional provision for registered analysts
 (1) Despite the replacement, by the Public Health (Consequential Provisions) Act 2016 section 312 (section 312), of the definition of analyst in section 3(1), any person who, immediately before section 312 comes into operation, is an approved analyst under a declaration made under section 3A continues to be an approved analyst under and subject to section 3A.
 (2) A thing done or omitted to be done under this Act by, to or in relation to an analyst (as defined in section 3(1) as in force immediately before section 312 comes into operation) has the same effect on and after the day on which section 312 comes into operation, to the extent that it has any force or significance on or after that day, as if the thing had been done or omitted by, to or in relation to an analyst as defined in section 3(1) after section 312 comes into operation.
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Misuse of Drugs Act 1981 amended
+3.Act amended
+This Part amends the Misuse of Drugs Act 1981.
+4.Section 3 amended
+In section 3(1) insert in alphabetical order:
+methylamphetamine means the prohibited drug referred to in Schedule VII item 8;
+5.Section 32A amended
+(1) In section 32A(3) in the definition of external serious drug offence delete “7(1), 33(1)(a) or 33(2)(a); or” and insert:
+7(1) or 33(1)(a) or, under section 33(2), conspiring to commit a crime under section 6(1) or 7(1); or
+(2) In section 32A(3) in the definition of serious drug offence delete “7(1), 33(1)(a) or 33(2)(a).” and insert:
+7(1) or 33(1)(a) or, under section 33(2), conspiring to commit a crime under section 6(1) or 7(1).
+6.Section 33 amended
+(1) In section 33(1) after “an offence” insert:
+under this Act
+(2) Delete section 33(2) and insert:
+(2) A person who conspires with another to commit an offence under this Act (the principal offence) commits —
+(a) if the principal offence is a crime under section 6(1) that does not involve methylamphetamine, the crime, but is liable on conviction to the penalty referred to in section 34(1)(b); or
+(b) if the principal offence is a crime under section 7(1), the crime, but is liable on conviction to the penalty referred to in section 34(1)(ba); or
+(c) if the principal offence is a simple offence or a crime other than a crime referred to in paragraph (a) or (b), the simple offence or the crime, as the case requires, and is liable on conviction to the same penalty to which a person who commits the principal offence is liable.
+(3) In section 33(3):
+(a) after “an offence” insert:
+under this Act
+(b) in paragraph (c) delete “fine; and” and insert:
+fine to which a person who commits the principal offence is liable; and
+(c) delete paragraph (d) and the passage that begins “to which” and continues to the end of the subsection and insert:
+(d) to imprisonment for a term not exceeding —
+(i) 14 years, in a case where the person who commits the principal offence is liable to imprisonment for life; and
+(ii) half of the term to which a person who commits the principal offence is liable, in any other case.
+7.Section 34 amended
+(1) Before section 34(1) insert:
+(1A) In this section —
+trafficable quantity of methylamphetamine means a quantity of methylamphetamine not less than that specified in Schedule VII item 8.
+(2) Delete section 34(1)(a) and (b) and insert:
+(a) a crime under section 6(1) that involves a trafficable quantity of methylamphetamine is liable to imprisonment for life; or
+(aa) any other crime under section 6(1) is liable to a fine not exceeding $100 000 or to imprisonment for a term not exceeding 25 years or both; or
+(ab) a crime under section 7(1) is liable to a fine not exceeding $100 000 or to imprisonment for a term not exceeding 25 years or both; or
+(b) conspiring with another to commit a crime under section 6(1) that does not involve methylamphetamine is liable to a fine not exceeding $75 000 or to imprisonment for a term not exceeding 20 years or both; or
+(ba) conspiring with another to commit a crime under section 7(1) is liable to a fine not exceeding $75 000 or to imprisonment for a term not exceeding 20 years or both; or
+(3) In section 34(2) and (3) delete “referred to in subsection (1)(a)” and insert:
+under section 6(1) or 7(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
