@@ -57,6 +57,7 @@ Road Traffic Code Amendment Regulations (No. 4) 2015 | 22 Dec 2015 p. 5131 | r. 
 Road Traffic Code Amendment Regulations (No. 2) 2016 | 26 Apr 2016 p. 1277-8 | r. 1 and 2: 26 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2016 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2016 | 15 Nov 2016 p. 5061-2 | r. 1 and 2: 15 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2016 (see r. 2(b))
 Reprint 5: The Road Traffic Code 2000 as at 9 Dec 2016 (includes amendments listed above)
+Road Traffic Code Amendment Regulations (No. 4) 2017 | 22 Aug 2017 p. 4503-4 | r. 1 and 2: 22 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Aug 2017 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
