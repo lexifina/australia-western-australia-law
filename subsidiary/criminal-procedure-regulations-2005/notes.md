@@ -34,6 +34,7 @@ Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 
 Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 2 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Attorney General Regulations Amendment (Family Violence Restraining Orders) Regulations 2017 Pt. 4 | 27 Jun 2017 p. 3432-5 | 1 Jul 2017 (see r. 2(b))
 Attorney General Regulations Amendment Regulations 2017 Pt. 2 | 4 Aug 2017 p. 4313-14 | 5 Aug 2017 (see r. 2(b))
+Criminal Procedure Amendment Regulations 2017 | 25 Aug 2017 p. 4568-9 | r. 1 and 2: 25 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2017 (see r. 2(b))
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
 Defined terms
