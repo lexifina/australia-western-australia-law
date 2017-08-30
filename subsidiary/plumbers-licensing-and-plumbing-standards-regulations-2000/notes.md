@@ -37,6 +37,7 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2016 | 1
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2016 | 13 Dec 2016 p. 5627-30 | r. 1 and 2: 13 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2016 (see r. 2(b) and Gazette 13 Dec 2016 p. 5659)
 Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 17 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations 2017 | 29 Aug 2017 p. 4593-4 | r. 1 and 2: 29 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Aug 2017 (see r. 2(b))
 The Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62, and then subsequently changed to the Plumbers Licensing Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 193.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
