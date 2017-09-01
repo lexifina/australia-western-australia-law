@@ -34,6 +34,7 @@ Conservation and Land Management Amendment Regulations (No. 3) 2016 | 5 Jul 2016
 Conservation and Land Management Amendment Regulations (No. 4) 2016 | 30 Aug 2016 p. 3685-6 | r. 1 and 2: 30 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2016 (see r. 2(b))
 Reprint 4: The Conservation and Land Management Regulations 2002 as at 21 Oct 2016 (includes amendments listed above)
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Conservation and Land Management Amendment Regulations 2017 | 1 Sep 2017 p. 4649-51 | 1 Sep 2017 (see r. 2(a) and (b))
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published in Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
