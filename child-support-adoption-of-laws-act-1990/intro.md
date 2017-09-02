@@ -5,5 +5,4 @@ Preamble
 WHEREAS the Parliaments of the States of New South Wales, Victoria, South Australia and Tasmania have referred to the Parliament of the Commonwealth the matter of the maintenance of children to the extent that that matter is not otherwise included in the legislative powers of the Parliament of the Commonwealth;
 AND WHEREAS the Parliament of the Commonwealth has subsequently enacted the Child Support (Registration and Collection) Act 1988 (formerly known as the Child Support Act 1988) and the Child Support (Assessment) Act 1989;
 AND WHEREAS it is desired to adopt the Child Support (Registration and Collection) Act 1988, and the Child Support (Assessment) Act 1989, of the Commonwealth insofar as those Acts apply to or in relation to the maintenance of children and do not otherwise extend to Western Australia and to authorise the Governor to make certain arrangements for the purposes of section 20 of the Child Support (Registration and Collection) Act 1988 of the Commonwealth;
-[Preamble amended by No. 19 of 2010 s. 50.]
-The Parliament of Western Australia enacts as follows:
+[Preamble amended: No. 19 of 2010 s. 50.]

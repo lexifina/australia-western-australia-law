@@ -15,6 +15,7 @@ Child Support (Adoption of Laws) Amendment Act 2012 | 39 of 2012 | 22 Nov 2012 |
 Reprint 2: The Child Support (Adoption of Laws) Act 1990 as at 1 Feb 2013 (includes amendments listed above) (correction in Gazette 26 Apr 2013 p. 1657)
 Child Support (Adoption of Laws) Amendment Act 2014 | 34 of 2014 | 3 Dec 2014 | s. 1 and 2: 3 Dec 2014 (see s. 2(a)); Act other than s. 1 and 2: 4 Dec 2014 (see s. 2(b))
 Child Support (Adoption of Laws) Amendment Act 2015 | 37 of 2015 | 27 Nov 2015 | s. 1 and 2: 27 Nov 2015 (see s. 2(a)); Act other than s. 1 and 2: 28 Nov 2015 (see s. 2(b))
+Child Support (Adoption of Laws) Amendment Act 2017 | 4 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1 and 2: 2 Sep 2017 (see s. 2(b))
 The section in this Act repealing that Act was omitted under the Reprints Act 1984 s. 7(4)(f).
 The Child Support (Adoption of Laws) Amendment Act 2002 s. 3 reads as follows:
 3.Purpose of Act
