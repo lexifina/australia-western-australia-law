@@ -57,41 +57,21 @@ Road Traffic Code Amendment Regulations (No. 4) 2015 | 22 Dec 2015 p. 5131 | r. 
 Road Traffic Code Amendment Regulations (No. 2) 2016 | 26 Apr 2016 p. 1277-8 | r. 1 and 2: 26 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2016 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2016 | 15 Nov 2016 p. 5061-2 | r. 1 and 2: 15 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2016 (see r. 2(b))
 Reprint 5: The Road Traffic Code 2000 as at 9 Dec 2016 (includes amendments listed above)
+Road Traffic Code Amendment Regulations (No. 2) 2017 | 25 Jul 2017 p. 4078-80 | r. 1 and 2: 25 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 4) 2017 | 22 Aug 2017 p. 4503-4 | r. 1 and 2: 22 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Aug 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic Code Amendment Regulations (No. 2) 2017r. 3-5 | 25 Jul 2017 p. 4078-80 | 5 Sep 2017 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
-On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations (No. 2) 2017 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic Code 2000.
-4.Regulation 9 amended
-(1) Delete regulation 9(1a), (2) and (2a) and insert:
-(1A) A person who commits an offence against Part 16 Division 2 or regulation 244 is liable —
-(a) for a first offence, to a minimum penalty of the number of penalty units that could be imposed as a modified penalty for the particular offence and a maximum penalty of 56 penalty units (56 PU); and
-(b) for a subsequent offence, to a minimum penalty of the number of penalty units that could be imposed as a modified penalty for the particular offence and a maximum penalty of 84 penalty units (84 PU).
-(1B) For the purposes of subregulation (1A)(b), an offence is regarded as a subsequent offence if the person by whom it is committed has previously committed an offence of any kind against Part 16 Division 2 or regulation 244.
-(2) Except as provided in subregulation (1A), a person who commits an offence against these regulations is liable —
-(a) for a first offence, to a penalty not exceeding 64 penalty units (64 PU); and
-(b) for a subsequent offence, to a penalty not exceeding 96 penalty units (96 PU).
-(2) In regulation 9(3) after “committed an offence” insert:
-of any kind
-5.Regulation 17 amended
-(1) In regulation 17(1) in the Table item (e) delete “20 PU” (each occurrence) and insert:
-24 PU
-(2) In regulation 17(2) in the Table:
-(a) in item (d) delete “17 PU” (each occurrence) and insert:
-24 PU
-(b) in item (e) delete “20 PU” (each occurrence) and insert:
-30 PU
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+“bus lane” road marking3(1)
+“end of heavy vehicle speed zone” sign3(1)
+“end trucks and buses low gear” sign90(3)
+“heavy vehicle speed zone” sign3(1)
+“trucks and buses low gear” sign90(3)
 agricultural implement289(3)
 agricultural machine289(3)
 alcohol ignition interlock device3(1)
@@ -102,9 +82,9 @@ articulated vehicle3(1)
 AS/NZS:1754-1995230
 authorised body3(1)
 authorised person3(1)
-B double110(1)
 B light3(1)
 B lights3(1)
+B-double110(1)
 bicycle3(1)
 bicycle crossing lights3(1)
 bicycle hook turn storage area3(1)
@@ -120,10 +100,9 @@ built-up area3(1)
 bus3(1)
 bus embayment3(1)
 bus lane3(1)
-“bus lane” road marking3(1)
 bus stop3(1)
-busway3(1)
 bus zone3(1)
+busway3(1)
 carriageway3(1)
 centre3(1)
 child restraint230
@@ -147,8 +126,6 @@ electric personal transporter use area3(1)
 emergency stopping lane3(1)
 emergency vehicle3(1)
 emergency worker283(2)
-“end of heavy vehicle speed zone” sign3(1)
-“end trucks and buses low gear” sign90(3)
 EPT3(4)
 EPT use area3(4)
 fire hydrant3(1)
@@ -162,7 +139,6 @@ halfway around91(2)
 hazard warning lights188(2)
 heavy vehicle3(1), 191(1), 192(1)
 heavy vehicle speed zone3(1)
-“heavy vehicle speed zone” sign3(1)
 held265(1)
 holiday period3(1)
 hook turn3(1)
@@ -188,16 +164,15 @@ mobile phone265(1)
 moped79(2), 130(5)
 motor break-down service vehicle288A(1)
 motor cycle3(1), 130(5), 246A(1), 246B(1)
+motor vehicle3(1)
 motorised scooter3(1)
 motorised wheelchair3(1)
-motor vehicle3(1)
-n90(3)
 nature strip3(1)
 no bicycles road marking3(1)
 no parking area3(1)
 no stopping area3(1)
-obstruction3(1)
 O’Connor Industrial Area138A(1)
+obstruction3(1)
 omnibus230
 one-way carriageway3(1)
 operator 230A
@@ -265,29 +240,28 @@ terminating road3(1)
 T-intersection3(1)
 to become dislodged from257(5)
 tow truck3(1)
-traffic-control signal3(1)
 traffic island3(1)
 traffic sign3(1)
+traffic-control signal3(1)
 trailer3(1)
 train3(1)
 transit lane3(1)
 truck3(1)
 truck lane3(1)
-“trucks and buses low gear” sign90(3)
 truck zone3(1)
+turn line3(1)
 turning lane3(1)
 turning left34(1)
 turning left from the continuing road into the terminating road56(7)
 turning right34(2), 34(3)
 turning right from the continuing road into the terminating road56(7)
-turn line3(1)
 two-up driver230
 two-way carriageway3(1)
+U turn3(1)
 unattended141(2), 163(2)
 unrestrained235A(1)
 use265(1)
-U turn3(1)
-vehicle3(1), 110(2), 110(3)
+vehicle3(1), 110(2) and (3)
 Vehicle Standards3(1)
 weekend3(1)
 wheeled recreational device3(1)
