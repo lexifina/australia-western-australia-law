@@ -136,6 +136,7 @@ Mining Amendment Regulations (No. 6) 2015 | 6 Oct 2015 p. 3969 | r. 1 and 2: 6 O
 Reprint 11: The Mining Regulations 1981 as at 3 Jun 2016 (includes amendments listed above)
 Mining and Offshore Minerals Regulations Amendment (Fees and Rents) Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2335-8 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 8 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Mining Amendment Regulations 2017 | 5 Sep 2017 p. 4681-5 | r. 1 and 2: 5 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Sep 2017 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -170,6 +171,7 @@ CSch. 4 cl. 1
 combined mineral exploration report96(1)
 commencement daySch. 3 cl. 1(1)
 concentrate85(1)
+contracted list price86AB(1)
 contractor120P
 counselSch. 4 cl. 1
 date of application2
@@ -227,8 +229,6 @@ nickel by-product85(1)
 numberSch. 3 cl. 1(1)
 objection137(1)
 operations report96(1)
-optional royalty period86AB(1)
-optional royalty rate86AB(1)
 other tenementSch. 3 cl. 7(5)
 party137(1)
 permit4A
@@ -246,6 +246,7 @@ purchaser85(1)
 quarter85(1)
 quarterly period2
 RBA rate85AB(1)
+reference price86AB(1)
 refiner86AA(11)
 refinery86AA(11)
 related corporation85(1)
