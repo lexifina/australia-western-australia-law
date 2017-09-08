@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Radiation Safety Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 September 2017 of the Radiation Safety Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Radiation Safety Act 1975 | 44 of 1975 | 18 Sep 1975 | 7 May 1976 (see s. 2 and Gazette 7 May 1976 p. 1381)
@@ -27,7 +27,8 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 44 | 35 of 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 33 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Public Health (Consequential Provisions) Act 2016 s. 102 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Repealed by section 5 of this Act.
+Reprint 4: The Radiation Safety Act 1975 as at 8 Sep 2017 (includes amendments listed above)
+The Radioactive Substances Act 1954 was repealed by section 5 of this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 44 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined terms
@@ -47,4 +48,4 @@ owner4
 purchaser4
 radioactive substance4
 sell4
-supervisor27(2)
+supervisor27(2)(bb)(i)
