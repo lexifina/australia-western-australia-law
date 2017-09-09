@@ -34,6 +34,7 @@ Perth Market (Disposal) Act 2015 s. 55 | 40 of 2015 | 8 Dec 2015 | 31 Mar 2016 (
 Health Services Act 2016 s. 289 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 3 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 22 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
+Financial Management (Statutory Authorities) Regulations 2017 published in Gazette 8 Sep 2017 p. 4698 | r. 1 and 2: 8 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Sep 2017 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
