@@ -15,6 +15,7 @@ Reprint 2: The Fire and Emergency Services Regulations 1998 as at 7 Dec 2012 (in
 Fire and Emergency Services Amendment Regulations 2013 | 14 May 2013 p. 1968-9 | r. 1 and 2: 14 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2013 (see r. 2(b))
 Fire and Emergency Services Amendment Regulations 2014 | 12 Dec 2014 p. 4712-13 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Fire and Emergency Services Amendment Regulations 2015 | 2 Jun 2015 p. 1939-40 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jun 2015 (see r. 2(b))
+Fire and Emergency Services Amendment Regulations 2017 | 8 Sep 2017 p. 4695-6 | r. 1 and 2: 8 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Sep 2017 (see r. 2(b))
 Formerly referred to the Fire and Emergency Services Authority of Western Australia Act 1998, the short title of which was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Mining Act 1978.
 Now known as the Fire and Emergency Services Regulations 1998; citation changed (see note under r. 1).
