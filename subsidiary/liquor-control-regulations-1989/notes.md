@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 May 2017 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -133,6 +133,10 @@ Liquor Control Amendment Regulations 2017 | 10 Jan 2017 p. 140-6 | r. 1 and 2: 1
 Liquor Control Amendment Regulations (No. 2) 2017 | 3 Feb 2017 p. 1114-15 | r. 1 and 2: 3 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Feb 2017 (see r. 2(b))
 Reprint 14: The Liquor Control Regulations 1989 as at 5 May 2017 (includes amendments listed above)
 Liquor Control Amendment Regulations (No. 4) 2017 | 18 Aug 2017 p. 4457 | r. 1 and 2: 18 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Liquor Control Amendment Regulations (No. 3) 2017 r. 3 and 4 | 12 Sep 2017 p. 4735-6 | 10 Oct 2017 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Commenced 1 July 2014.
@@ -142,6 +146,16 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are tran
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
 Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
+On the date as at which this compilation was prepared the Liquor Control Amendment Regulations (No. 3) 2017 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Liquor Control Regulations 1989.
+4.Regulation 8CA amended
+(1) In regulation 8CA(1) in the definition of tourism business delete “genuinely marketed as a provider of a tourism service.” and insert:
+accredited under the Australian Tourism Accreditation Program.
+(2) In regulation 8CA(2):
+(a) after paragraph (b) insert:
+(ba) the person who supplies the liquor to the customer has completed successfully a course of training or an assessment, approved by the Director for the purposes of this paragraph, in responsible practices in the sale, supply and service of liquor; and
+(b) delete paragraph (f).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
