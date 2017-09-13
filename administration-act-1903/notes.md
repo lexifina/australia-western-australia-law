@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 April 2016 of the Administration Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Administration Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Administration Act 1903 | 13 of 1903 (3 Edw. VII No. 13) | 31 Dec 1903 | 1 Jan 1904 (see s. 1)
@@ -73,13 +73,14 @@ Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
  | Standardisation of Formatting Act 2010 s. 6 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 14 | 48 of 2011 | 25 Oct 2011 | 16 Jan 2013 (see s. 2(b) and Gazette 15 Jan 2013 p. 79)
  | Reprint 12: The Administration Act 1903 as at 15 Apr 2016 (includes amendments listed above)
+ | Statutes (Minor Amendments) Act 2017 s. 3 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Repealed by section 2 of this Act.
 Part IV (Curator of Intestate Estates) as originally enacted, was repealed by the Curator of Intestate Estates Act 1918 (No. 9 of 1918). The Curator of Intestate Estates continued under the Curator of Intestate Estates Act 1918 and, on 1 July 1942, became the Public Trustee (see the Public Trustee Act 1941 s. 3).
 This Part was originally enacted as Part II of the Administration Act (Estate and Succession Duties) Amendment Act 1934 (No. 28 of 1934). It was inserted as Part VI in the 1934 reprint of this Act (see the Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 77) and renumbered as Part V in the 1943 reprint.
 The Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 3 provides that —
 3.This Act shall apply in the case of any person dying after its commencement, but the provisions of Part VI of the principal Act as hereby repealed shall apply to any person dying before the commencement of this Act.
 This amount is now declared to be $50 000; see proclamation in Gazette 6 February 2009 p. 243.
-In this reprint the numbering of Parts, sections, Divisions etc. effected in the 1934 reprint, the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in those reprints.
+In this compilation the numbering of Parts, sections, Divisions etc. effected in the 1934 reprint, the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in those reprints.
 The Administration Act Amendment Act 1970 s. 2(2) is a transitional provision that is of no further effect.
 The Metric Conversion Act 1972 Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Death Duty Assessment Act 1973 s. 3(2), (3), (4) and (5) are transitional provisions that are of no further effect.

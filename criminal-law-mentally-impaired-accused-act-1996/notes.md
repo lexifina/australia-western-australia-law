@@ -21,6 +21,7 @@ Reprint 3: The Criminal Law (Mentally Impaired Accused) Act 1996 as at 17 Apr 20
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 7 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 1 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 1 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
+Statutes (Minor Amendments) Act 2017 s. 5 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 9 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Now known as the Criminal Law (Mentally Impaired Accused) Act 1996; short title changed (see note under s. 1).
 Defined terms

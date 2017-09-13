@@ -112,7 +112,6 @@
  | s. 206 | Supplying intoxicants to people likely to abuse them
  | s. 313 | Common assaults
  | s. 338E(2) | Stalking in manner reasonably expected to intimidate
- | s. 428 | Possessing stolen or unlawfully obtained property
  | s. 445 | Damaging property
  | s. 557H | Possessing a disguise
  | s. 557I(2) | Possessing bulletproof clothing
@@ -166,4 +165,4 @@
  | s. 7(1) and (2) | Offences relating to controlled weapons
  | s. 8A(2) and (3) | Selling or supplying controlled weapons to children
  | s. 8(1) | Carrying or possessing article as weapon
-[Part 2 inserted by No. 49 of 2012 s. 181(4); amended by No. 35 of 2014 s. 39.]
+[Part 2 inserted by No. 49 of 2012 s. 181(4); amended by No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5).]
