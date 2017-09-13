@@ -50,6 +50,7 @@ Electricity Corporations Amendment Act 2013 s. 42 | 25 of 2013 | 18 Dec 2013 | 1
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Reprint 7: The Equal Opportunity Act 1984 as at 5 Aug 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016 s. 101)
+Statutes (Minor Amendments) Act 2017 s. 8 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

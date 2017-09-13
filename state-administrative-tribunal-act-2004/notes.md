@@ -32,13 +32,14 @@ Teacher Registration Act 2012 s. 170 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Travel Agents Amendment and Expiry Act 2014 s. 9 | 21 of 2014 | 29 Aug 2014 | 25 Jan 2017 (see s. 2(c) and Gazette 24 Jan 2017 p. 741)
 Reprint 4: The State Administrative Tribunal Act 2004 as at 4 Dec 2015 (includes amendments listed above except those in the Travel Agents Amendment and Expiry Act 2014)
+Statutes (Minor Amendments) Act 2017 s. 13 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 | 18 of 2014 | 2 Jul 2014 | Operative on the day after the expiry of the period of 6 months beginning on proclamation day (see s. 2(f))
 Aquatic Resources Management Act 2016 s. 371 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-The Hairdressers Registration Act 1946 expired 13 Mar 2012.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.

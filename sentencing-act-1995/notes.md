@@ -70,7 +70,7 @@ Criminal Organisations Control Act 2012 s. 181 | 49 of 2012 | 29 Nov 2012 | 2 No
 Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012, Water Services Legislation Amendment and Repeal Act 2012, Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Criminal Organisations Control Act 2012)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 18 (other than s. 124 and 127) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Sentencing Legislation Amendment Act 2014 Pt. 2 | 6 of 2014 | 22 Apr 2014 | 23 Apr 2014 (see s. 2(b))
-Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 (other than s. 8(2)) | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
+Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 (other than s. 8(2)) | 11 of 2014 (amended by No. 6 of 2017 s. 4) | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 37 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 3 | 25 of 2015 | 24 Sep 2015 | 31 Oct 2015 (see s. 2(b) and Gazette 30 Oct 2015 p. 4493)
@@ -80,12 +80,12 @@ Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 | 17 of 2016 | 1
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 9 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 Div. 1 and 2 | 45 of 2016 | 7 Dec 2016 | Pt. 4 Div. 1 and 2: 8 Dec 2016 (see s. 2(b)); Pt. 3 Div. 1: 1 Jul 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1159)
+Statutes (Minor Amendments) Act 2017 s. 12 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
  | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 3-6 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
@@ -224,10 +224,7 @@ Delete section 38(2) and insert:
 (2) The review —
 (a) is to be based on an examination, in the absence of the parties, of the court documents relevant to the offence (whether the original documents or copies, or some other form of the documents prescribed by the regulations or rules of court); and
 (b) is not to involve a hearing.
-On the date as at which this compilation was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) had not come into operation. It reads as follows:
-8.Schedule 1A amended
-(2) In Schedule 1A Part 2 item 1 delete “s. 428” and insert:
-s. 417
+The Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) had not come into operation when it was deleted by the Statutes (Minor Amendments Act 2017 s. 4(2).
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
@@ -535,7 +532,7 @@ DPP4(2)
 driver’s licence105(5)
 early release order76(4), 81(4)
 excluded offence33A(1)
-family and domestic relationship97A(1)
+family relationship97A(1)
 fine57(1)
 firearm106(5)
 firearms offence106(5)
