@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 January 2016 of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Act 1967 | 72 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
@@ -41,10 +41,11 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 201
 Commercial Arbitration Act 2012 s. 45 it. 15 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 8 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Reprint 8: The Petroleum and Geothermal Energy Resources Act 1967 as at 15 Jan 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
+Petroleum Legislation Amendment Act 2017 Pt. 2 | 7 of 2017 | 14 Sep 2017 | To be proclaimed (see s. 2(b))
 The Petroleum Act 1936 was repealed by this Act, s. 3.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
@@ -129,7 +130,7 @@ relevant licence means a production licence for petroleum in force under Part II
 The Acts Amendment (Mining and Petroleum) Act 1999 s. 26(5) reads as follows:
 (5) Despite the amendments made by this section, section 43F of the Petroleum Act 1967 continues to apply to and in relation to the extension of a drilling reservation in force on the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 7 reads as follows:
@@ -165,6 +166,544 @@ After section 106(3) the following subsection is inserted —
 57.Section 116 amended
 After section 116(1) the following subsection is inserted —
 (1a)Where the giving of a consent under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
+On the date as at which this compilation was prepared, the Petroleum Legislation Amendment Act 2017 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Petroleum and Geothermal Energy Resources Act 1967 amended
+3.Act amended
+This Part amends the Petroleum and Geothermal Energy Resources Act 1967.
+4.Section 5 amended
+(1) In section 5(1) insert in alphabetical order:
+boundary-change permit means a petroleum exploration permit granted under section 37B;
+Commonwealth Act means the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Commonwealth);
+Commonwealth lease means a petroleum retention lease as defined in the Commonwealth Act section 7;
+Commonwealth licence means a fixed-term petroleum production licence as defined in the Commonwealth Act section 7;
+Commonwealth permit means a petroleum exploration permit as defined in the Commonwealth Act section 7;
+granted, in relation to a boundary-change permit, a petroleum retention lease under section 48CD or a petroleum production licence under section 61A, means taken to have been granted;
+offshore area has the meaning given in the Petroleum (Submerged Lands) Act 1982 section 4;
+(2) In section 5(1) in the definition of geothermal exploration permit delete “issued under” and insert:
+that confers the authority referred to in
+(3) In section 5(1) in the definition of petroleum exploration permit delete “issued under” and insert:
+that confers the authority referred to in
+(4) After section 5(8) insert:
+(9) Notes in this Act are provided to assist understanding and do not form part of the Act.
+5.Section 6A amended
+(1) In section 6A(1) insert in alphabetical order:
+Commonwealth instrument means an instrument under the Commonwealth Act that confers, in relation to the offshore area, some or all of the rights that a permit, lease or licence confers in relation to the inshore area;
+(2) After section 6A(4) insert:
+(5) If —
+(a) a Commonwealth instrument has been granted on the basis that an area (the second affected area) is within the offshore area; and
+(b) as a result of a change to the boundary of the inshore area the second affected area —
+(i) ceases to be within the offshore area; and
+(ii) falls within the inshore area,
+then this Act does not apply to the second affected area.
+(6) Subsection (5) continues to apply in relation to the second affected area only while the Commonwealth instrument remains in force.
+6.Section 7A amended
+(1) In section 7A(2):
+(a) delete “which an access” and insert:
+which a geothermal access
+(b) delete “petroleum pool or geothermal resources area, being a pool or” and insert:
+geothermal resources area, being an
+(c) delete “access authority, any petroleum or” and insert:
+geothermal access authority, any
+(d) delete “under the licence” and insert:
+under the geothermal production licence
+(2) In section 7A(3):
+(a) delete “petroleum pool or”;
+(b) delete “petroleum or” (each occurrence);
+(c) delete “pool or” (each occurrence);
+(d) delete “under the licence” and insert:
+under the geothermal production licence
+(3) In section 7A(5):
+(a) delete “petroleum pool or”;
+(b) delete “to explore for, or recover, petroleum, or”;
+(c) delete “petroleum or” (each occurrence);
+(d) delete “pool or” (each occurrence).
+(4) In section 7A(7):
+(a) in paragraph (a) delete “petroleum pool or”;
+(b) in paragraph (a) delete “to explore for or recover petroleum, or”;
+(c) in paragraph (c) delete “petroleum or”;
+(d) in paragraph (c) delete “pool or”;
+(e) delete “all petroleum or” and insert:
+all
+(5) Delete section 7A(8) and insert:
+(8) In this section —
+(a) a reference to a geothermal production licence includes a reference to a geothermal exploration permit and a geothermal retention lease; and
+(b) a reference to a licensee is a reference to the registered holder of a geothermal production licence and includes a reference to a geothermal permittee and a geothermal lessee; and
+(c) a reference to a licence area is a reference to the area constituted by the blocks that are the subject of a geothermal production licence and includes a reference to a geothermal permit area and a geothermal lease area; and
+(d) a reference to a State includes a reference to the Northern Territory; and
+(e) a reference to the Supreme Court is a reference to the Supreme Court of the State, or of one of the States, in which the petroleum pool is wholly or partly situated.
+Note:The heading to amended section 7A is to read:
+Geothermal resources area in, or extending into, other areas
+7.Section 7B inserted
+After section 7A insert:
+7B.Petroleum pool in, or extending into, other areas
+(1) The provisions of this section have effect for the purposes of this Act (including any Act with which this Act is incorporated) and of licences (whether granted before or after the commencement of this section).
+(2) If a well-head is situated in a licence area or in an area in respect of which a petroleum access authority is in force (in this subsection called an access authority area) and the well from that well-head is inclined so as to enter a petroleum pool, being a pool that does not extend to that licence area or access authority area, at a place within an adjoining licence area of the same licensee or registered holder of the petroleum access authority, any petroleum recovered through that well is taken to have been recovered in that adjoining licence area under the petroleum production licence in respect of that area.
+(3) If a petroleum pool is partly in one licence area and partly in an adjoining licence area of the same licensee and petroleum is recovered from that pool through a well or wells in one or both of the licence areas, there is taken to have been recovered in each of the licence areas, under the petroleum production licence in respect of that area, such proportion of all petroleum so recovered as may reasonably be treated as being derived from that area, having regard to the nature and probable extent of the pool, and the respective proportions are to be determined in accordance with subsection (4).
+(4) The proportions to be determined for the purposes of subsection (3) may be determined by agreement between the licensee and the Minister or, in the absence of agreement, may be determined by the Supreme Court on the application of the licensee or the Minister.
+(5) If a petroleum pool is partly in a licence area and partly in another area in which the licensee has authority under another written law or a law of another State or the Commonwealth to explore for, or recover, petroleum, and petroleum is recovered from that pool through a well or wells in the licence area, the other area or both, there is taken to have been recovered in the licence area such proportion of all petroleum so recovered as may reasonably be treated as being derived from the licence area, having regard to the nature and probable extent of the pool, and that proportion is to be determined in accordance with subsection (6).
+(6) The proportion to be determined for the purposes of subsection (5) may be determined —
+(a) in the case of a licensee having authority under another written law, by agreement between —
+(i) that licensee; and
+(ii) the Minister; and
+(iii) if the other written law is administered by a Minister of the Crown other than the Minister, that Minister of the Crown,
+or, in the absence of agreement, may be determined by the Supreme Court on the application of that licensee, the Minister, or the Minister of the Crown (if applicable) referred to in subparagraph (iii); or
+(b) in the case of a licensee having authority under a law of another State, by agreement between —
+(i) that licensee; and
+(ii) the Minister; and
+(iii) the State Minister administering the law of the other State,
+or, in the absence of agreement, may be determined by the Supreme Court on the application of that licensee, the Minister or the State Minister referred to in subparagraph (iii); or
+(c) in the case of a licensee having authority under a law of the Commonwealth, by agreement between —
+(i) that licensee; and
+(ii) the Minister; and
+(iii) the Joint Authority,
+or, in the absence of agreement, may be determined by the Supreme Court on the application of that licensee, the Minister or the Joint Authority.
+(7) In subsection (6) —
+Joint Authority has the meaning given in the Commonwealth Act section 7.
+(8) If —
+(a) an agreement is in force to explore for, or recover, petroleum between —
+(i) a licensee, the Minister and, if the other written law mentioned in this subparagraph is administered by a Minister of the Crown other than the Minister, that Minister of the Crown in relation to a petroleum pool that is partly in the licence area and partly in another area (the other area) in which the licensee has authority under another written law; or
+(ii) a licensee, the Minister and the State Minister administering a law of another State in relation to a petroleum pool that is partly in the licence area and partly in another area (the other area) in which the licensee has authority under the law of the other State; or
+(iii) a licensee, the Minister and the Joint Authority in relation to a petroleum pool that is partly in the licence area and partly in another area (the other area) in which the licensee has authority under a law of the Commonwealth;
+and
+(b) the agreement contains a provision (the apportionment provision) that provides that, for the purposes of this section, there is taken to be recovered in the licence area a specified proportion of all of the petroleum recovered from the petroleum pool; and
+(c) assuming that petroleum were recovered from the part of the seabed that is within the areal and vertical extents specified in the agreement, the specified proportion would be consistent with such proportion of all petroleum so recovered as may reasonably be treated as being derived from the licence area, having regard to the nature and probable extent of the petroleum in that part of the seabed; and
+(d) the agreement contains a provision to the effect that if it becomes apparent that the areal and vertical extents of the petroleum pool, as specified in the agreement, comprise or are likely to comprise more than one petroleum pool, the apportionment set out in the apportionment provision will apply to the petroleum recovered from any or all of those petroleum pools, regardless of their location but within those areal and vertical extents; and
+(e) after the time of the making of the agreement, it becomes apparent that the areal and vertical extents of the petroleum pool, as specified in the agreement, comprise, or are likely to comprise, 2 or more petroleum pools; and
+(f) petroleum is recovered from any of those petroleum pools through a well or wells in the licence area, the other area or both,
+then —
+(g) for the purposes of this Act, there is taken to have been recovered in the licence area such proportion of all petroleum so recovered as is specified in the apportionment provision; and
+(h) subsection (5) does not apply to any of those petroleum pools.
+(9) The question of whether there is or was a petroleum pool covered by subsection (8)(a) is to be determined on the basis of information known at the time of the making of the relevant agreement referred to in that provision.
+(10) The question of whether subsection (8)(c) applies is to be determined on the basis of information known at the time of the commencement of the apportionment provision.
+(11) The location of any of the 2 or more petroleum pools mentioned in subsection (8)(e) is immaterial.
+(12) If —
+(a) at a particular time after the commencement of this section, a petroleum pool is partly in a licence area and partly in another area (the other area) in which the licensee has authority under another written law or a law of another State or the Commonwealth to explore for, or recover, petroleum; and
+(b) at that time, an agreement is made between —
+(i) if the licensee has authority under another written law — the licensee, the Minister and, if the other written law is administered by a Minister of the Crown other than the Minister, that Minister of the Crown; or
+(ii) if the licensee has authority under a law of another State — the licensee, the Minister and the State Minister administering the law of the other State; or
+(iii) if the licensee has authority under a law of the Commonwealth — the licensee, the Minister and the Joint Authority;
+and
+(c) the agreement specifies a part of the seabed by reference to its areal and vertical extents; and
+(d) the areal and vertical extents of the specified part consist of —
+(i) the whole or a part of the licence area; and
+(ii) the whole or a part of the other area;
+and
+(e) the areal and vertical extents of the specified part include the petroleum pool; and
+(f) the agreement contains a provision (the apportionment provision) that provides that, for the purposes of this section, there is taken to be recovered in the licence area a specified proportion of all of the petroleum recovered from the specified part; and
+(g) assuming that petroleum were recovered from the specified part, the specified proportion would be consistent with such proportion of all petroleum so recovered as may reasonably be treated as being derived from the licence area, having regard to the nature and probable extent of the petroleum in the specified part; and
+(h) petroleum is recovered from the specified part through a well or wells in the licence area, the other area or both,
+then —
+(i) for the purposes of this Act, there is taken to have been recovered in the licence area such proportion of all petroleum so recovered as is specified in the apportionment provision; and
+(j) subsection (5) does not apply to a petroleum pool located in the specified part.
+(13) The question of whether there is or was a petroleum pool covered by subsection (12)(a) at a particular time is to be determined on the basis of information known at that time.
+(14) The question of whether subsection (12)(g) applies is to be determined on the basis of information known at the time of the commencement of the apportionment provision.
+(15) If —
+(a) a petroleum pool is partly in a licence area and partly in another area, whether in the State or not, in respect of which another person has authority, whether under this Act or another written law or under the law of another State or the Commonwealth, to explore for or recover petroleum; and
+(b) a unit development agreement in accordance with section 69 is in force between the licensee and that other person; and
+(c) petroleum is recovered from that pool through a well or wells in the licence area, the other area or both,
+there is taken to have been recovered in the licence area such proportion of all petroleum so recovered as is specified in, or determined in accordance with, the agreement referred to in paragraph (b).
+(16) In this section —
+(a) a reference to a petroleum production licence includes a reference to a petroleum exploration permit and a petroleum retention lease; and
+(b) a reference to a licensee is a reference to the registered holder of a petroleum production licence and includes a reference to a petroleum permittee and a petroleum lessee; and
+(c) a reference to a licence area is a reference to the area constituted by the blocks that are the subject of a petroleum production licence and includes a reference to a petroleum permit area and a petroleum lease area; and
+(d) a reference to a State includes a reference to the Northern Territory; and
+(e) a reference to the Supreme Court is a reference to the Supreme Court of the State, or of one of the States, in which the petroleum pool is wholly or partly situated.
+8.Section 37B inserted
+After section 37A insert:
+37B.Grant of boundary-change permit
+(1) In this section —
+section 27 block means —
+(a)a block constituted as provided by section 27; or
+(b)if a graticular section is wholly within the area that was covered by the Commonwealth permit concerned — the graticular section; or
+(c)if a part only of a graticular section is within the area that was covered by the Commonwealth permit concerned — that part of the graticular section.
+Note for this definition:
+See also subsection (8).
+(2) This section applies if —
+(a) a Commonwealth permit has been granted on the basis that an area (the relevant area) is within the offshore area; and
+(b) as a result of a change to the boundary of the offshore area, the relevant area —
+(i) ceases to be within the offshore area; and
+(ii) falls within the inshore area;
+and
+(c) either —
+(i) the conditions set out in subsection (3) are satisfied; or
+(ii) the conditions set out in subsection (4) are satisfied.
+(3) The conditions mentioned in subsection (2)(c)(i) are —
+(a) one or more, but not all, of the section 27 blocks that were covered by the Commonwealth permit immediately before the change are in the relevant area; and
+(b) the Commonwealth permit subsequently ceases to be in force at the same time (the relevant time) —
+(i) as to all of the section 27 blocks that were covered by the Commonwealth permit immediately before the change and that are in the offshore area; and
+(ii) otherwise than as the result of the cancellation or surrender of the Commonwealth permit.
+(4) The conditions mentioned in subsection (2)(c)(ii) are —
+(a) all of the section 27 blocks that were covered by the Commonwealth permit immediately before the change are in the relevant area; and
+(b) the Commonwealth permit subsequently ceases to be in force at the same time (the relevant time) —
+(i) as to all of the section 27 blocks that were covered by the Commonwealth permit immediately before the change; and
+(ii) otherwise than as the result of the cancellation or surrender of the Commonwealth permit.
+(5) If —
+(a) assuming that —
+(i) the change to the boundary of the offshore area had not occurred; and
+(ii) the relevant area had remained in the offshore area,
+the holder of the Commonwealth permit would have been entitled to apply under the Commonwealth Act for the renewal of the Commonwealth permit in relation to all of the section 27 blocks that are —
+(iii) covered by the Commonwealth permit; and
+(iv) in the relevant area;
+and
+(b) there are one or more section 27 blocks (the relevant section 27 blocks) that —
+(i) correspond to the section 27 blocks covered by paragraph (a); and
+(ii) are in the inshore area; and
+(iii) are not the subject of a variation under section 97A,
+the Minister is taken —
+(c) to have granted the holder of the Commonwealth permit a petroleum exploration permit over those relevant section 27 blocks; and
+(d) to have done so immediately after the relevant time mentioned in whichever of subsection (3) or (4) is applicable.
+Note for this subsection:
+For the duration of the petroleum exploration permit, see section 39(1A).
+(6) If —
+(a) assuming that —
+(i) the change to the boundary of the offshore area had not occurred; and
+(ii) the relevant area had remained in the offshore area,
+the holder of the Commonwealth permit would not have been entitled to apply under the Commonwealth Act for the renewal of the Commonwealth permit in relation to all of the section 27 blocks that are —
+(iii) covered by the Commonwealth permit; and
+(iv) in the relevant area;
+and
+(b) there are one or more section 27 blocks (the relevant section 27 blocks) that —
+(i) correspond to the section 27 blocks that were covered by the Commonwealth permit immediately before the change; and
+(ii) are in the inshore area; and
+(iii) are not the subject of a variation under section 97A,
+the Minister is taken —
+(c) to have granted the holder of the Commonwealth permit a petroleum exploration permit over those relevant section 27 blocks; and
+(d) to have done so immediately after the relevant time mentioned in whichever of subsection (3) or (4) is applicable.
+Note for this subsection:
+For the duration of the petroleum exploration permit, see section 39(1B).
+(7) For the purposes of subsections (5) and (6), the following provisions of the Commonwealth Act are to be disregarded —
+(a) the standard halving rules in section 123 of that Act;
+(b) the modified halving rules in section 124 of that Act;
+(c) a provision of a kind specified in the regulations.
+(8) If, after the change to the boundary of the offshore area —
+(a) a part of a section 27 block that was covered by the Commonwealth permit immediately before the change is in the offshore area; and
+(b) the remaining part of the section 27 block is in the inshore area,
+then, for the purposes of this section (other than this subsection), each of those parts is taken to constitute, and to have always constituted, a section 27 block.
+(9) An assumption in subsection (5)(a) or (6)(a) does not affect subsection (8).
+9.Section 39 amended
+After section 39(1) insert:
+(1A) Subject to this Part, a boundary-change permit granted under section 37B(5) remains in force for a period of 5 years commencing on the day on which the permit is granted.
+(1B) Subject to this Part, a boundary-change permit granted under section 37B(6) remains in force for a period of 12 months commencing on the day on which the permit is granted.
+10.Section 40 amended
+In section 40(1) delete “sections 41 and 42A,” and insert:
+sections 41, 42A and 42B,
+11.Section 41 amended
+After section 41(6) insert:
+(7) Subsections (1) to (5) do not apply to an application for the renewal of a permit if —
+(a) the permit was granted on the basis that an area (the relevant area) was within the inshore area; and
+(b) as a result of a change to the boundary of the offshore area, the relevant area —
+(i) ceased to be within the inshore area; and
+(ii) fell within the offshore area;
+and
+(c) immediately before the change, the relevant area was a part of the permit area.
+(8) For the purposes of subsection (7) —
+(a) section 6A is to be disregarded; and
+(b) it is immaterial whether the change occurred before, at or after the commencement day.
+(9) In subsection (8)(b) —
+commencement day means the day on which the Petroleum Legislation Amendment Act 2017 section 11 comes into operation.
+12.Section 42B inserted
+After section 42A insert:
+42B.Limits on renewal of boundary-change permits
+(1) If —
+(a) a boundary-change permit is granted under section 37B(5); and
+(b) the relevant Commonwealth permit that ceases to be in force, as mentioned in section 37B(3)(b) or (4)(b), was granted otherwise than by way of renewal,
+then —
+(c) section 41 applies to an application for the renewal of the boundary-change permit; and
+(d) an application must not be made for the renewal of the boundary-change permit if the Minister has previously granted a renewal of the permit.
+(2) If —
+(a) a boundary-change permit is granted under section 37B(5); and
+(b) the relevant Commonwealth permit that ceases to be in force, as mentioned in section 37B(3)(b) or (4)(b), was granted by way of renewal,
+an application must not be made for the renewal of the boundary-change permit.
+(3) If a boundary-change permit is granted under section 37B(6), an application must not be made for the renewal of the permit.
+13.Section 43 amended
+(1) After section 43(1) insert:
+(1A) Subsection (1) does not apply to a boundary-change permit.
+(2) After section 43(2) insert:
+(3) The Minister may, by written notice given to the permittee, vary a boundary-change permit by imposing one or more conditions to which the permit is subject.
+(4) A notice under subsection (3) may only be given within 14 days after the grant of the boundary-change permit.
+(5) A variation under subsection (3) takes effect on the day on which notice of the variation is given to the permittee.
+(6) If, when a boundary-change permit is granted, the relevant Commonwealth permit that ceases to be in force, as mentioned in section 37B(3)(b) or (4)(b), is of a kind that corresponds to a petroleum exploration permit granted under section 32(4) or 37, any or all of the conditions mentioned in subsection (7) may be specified in —
+(a) the boundary-change permit; or
+(b) a permit granted by way of the renewal of the boundary-change permit.
+(7) The following conditions are specified for the purposes of subsection (6) —
+(a) conditions requiring the permittee to carry out work in, or in relation to, the permit area (including conditions requiring the permittee to carry out the work during a period of 12 months or longer, or during periods each of which is 12 months or longer);
+(b) conditions relating to the amounts that the permittee must spend in carrying out such work;
+(c) conditions requiring the permittee to comply with directions that —
+(i) relate to the matters covered by paragraphs (a) and (b); and
+(ii) are given in accordance with the permit.
+(8) Subsection (6) does not limit subsection (3).
+(9) If —
+(a) a boundary-change permit is granted; and
+(b) the relevant Commonwealth permit that ceases to be in force, as mentioned in section 37B(3)(b) or (4)(b), is a cash-bid petroleum exploration permit, as defined in the Commonwealth Act section 7,
+the conditions mentioned in subsection (10) must not be specified in —
+(c) the boundary-change permit; or
+(d) a permit granted by way of the renewal of the boundary-change permit.
+(10) The following conditions are specified for the purposes of subsection (9) —
+(a) conditions requiring the permittee to carry out work in, or in relation to, the permit area;
+(b) conditions requiring the permittee to spend particular amounts on the carrying out of work in, or in relation to, the permit area.
+14.Section 47 amended
+(1) Before section 47(1) insert:
+(1A) In this section —
+section 27 block means —
+(a)a block constituted as provided by section 27; or
+(b)if a graticular section is wholly within the area that was covered by the Commonwealth permit concerned — the graticular section; or
+(c)if a part only of a graticular section is within the area that was covered by the Commonwealth permit concerned — that part of the graticular section.
+(2) After section 47(2) insert:
+(2A) Subsection (2B) applies if —
+(a) a boundary-change permit is granted over one or more section 27 blocks; and
+(b) immediately before the grant, those section 27 blocks were, or were part of, a location as defined in the Commonwealth Act section 7; and
+(c) apart from this subsection, those section 27 blocks are not, and are not part of, a location as defined in section 5 of this Act.
+(2B) The Minister is taken —
+(a) to have declared those section 27 blocks to be a location; and
+(b) to have done so immediately after the grant.
+(2C) Subsection (2D) applies if —
+(a) a permit is varied under section 97A so as to include in the permit area one or more section 27 blocks; and
+(b) immediately before the variation, those section 27 blocks were, or were part of, a location as defined in the Commonwealth Act section 7; and
+(c) apart from this subsection, those section 27 blocks are not, and are not part of, a location as defined in section 5 of this Act.
+(2D) The Minister is taken —
+(a) to have declared those section 27 blocks to be a location; and
+(b) to have done so immediately after the variation.
+15.Section 48CD inserted
+After section 48CC insert:
+48CD.Grant of petroleum retention lease as result of change to boundary of offshore area
+(1) In this section —
+section 27 block means —
+(a)a block constituted as provided by section 27; or
+(b)if a graticular section is wholly within the area that was covered by the Commonwealth lease concerned — the graticular section; or
+(c)if a part only of a graticular section is within the area that was covered by the Commonwealth lease concerned — that part of the graticular section.
+Note for this definition:
+See also subsection (6).
+(2) This section applies if —
+(a) a Commonwealth lease has been granted on the basis that an area (the relevant area) is within the offshore area; and
+(b) as a result of a change to the boundary of the offshore area, the relevant area —
+(i) ceases to be within the offshore area; and
+(ii) falls within the inshore area;
+and
+(c) either —
+(i) the conditions set out in subsection (3) are satisfied; or
+(ii) the conditions set out in subsection (4) are satisfied;
+and
+(d) there are one or more section 27 blocks (the relevant section 27 blocks) that —
+(i) correspond to the section 27 blocks that were covered by the Commonwealth lease immediately before the change; and
+(ii) are in the inshore area; and
+(iii) are not the subject of a variation under section 97A.
+(3) The conditions mentioned in subsection (2)(c)(i) are —
+(a) one or more, but not all, of the section 27 blocks that were covered by the Commonwealth lease immediately before the change are in the relevant area; and
+(b) the Commonwealth lease subsequently ceases to be in force at the same time (the relevant time) —
+(i) as to all of the section 27 blocks that were covered by the Commonwealth lease immediately before the change and that are in the offshore area; and
+(ii) otherwise than as the result of the cancellation or surrender of the Commonwealth lease.
+(4) The conditions mentioned in subsection (2)(c)(ii) are —
+(a) all of the section 27 blocks that were covered by the Commonwealth lease immediately before the change are in the relevant area; and
+(b) the Commonwealth lease subsequently ceases to be in force at the same time (the relevant time) —
+(i) as to all of the section 27 blocks that were covered by the Commonwealth lease immediately before the change; and
+(ii) otherwise than as the result of the cancellation or surrender of the Commonwealth lease.
+(5) The Minister is taken —
+(a) to have granted the holder of the Commonwealth lease a petroleum retention lease over the relevant section 27 blocks; and
+(b) to have done so immediately after the relevant time mentioned in whichever of subsection (3) or (4) is applicable.
+Note for this subsection:
+For the duration of the petroleum retention lease, see section 48D(2).
+(6) If, after the change to the boundary of the offshore area —
+(a) a part of a section 27 block that was covered by the Commonwealth lease immediately before the change is in the offshore area; and
+(b) the remaining part of the section 27 block is in the inshore area,
+then, for the purposes of this section (other than this subsection), each of those parts is taken to constitute, and to have always constituted, a section 27 block.
+16.Section 48D amended
+(1) In section 48D:
+(a) delete “Subject” and insert:
+(1) Subject
+(b) delete “otherwise)” and insert:
+otherwise and other than a petroleum retention lease granted under section 48CD)
+(2) At the end of section 48D insert:
+(2) Subject to this Part, a petroleum retention lease granted under section 48CD remains in force for a period of 5 years commencing on the day on which the lease is granted.
+17.Section 48H amended
+(1) After section 48H(1) insert:
+(1A) Subsection (1) does not apply to a petroleum retention lease granted under section 48CD.
+(2) After section 48H(4) insert:
+(5) The Minister may, by written notice given to the lessee, vary a petroleum retention lease granted under section 48CD by imposing one or more conditions to which the lease is subject.
+(6) A notice under subsection (5) may only be given within 14 days after the grant of the petroleum retention lease.
+(7) A variation under subsection (5) takes effect on the day on which notice of the variation is given to the lessee.
+18.Section 56 amended
+After section 56(6) insert:
+(7) This section does not apply in relation to a permit if —
+(a) the permit has been granted on the basis that an area (the relevant area) is within the inshore area; and
+(b) as a result of a change to the boundary of the offshore area, the relevant area —
+(i) ceases to be within the inshore area; and
+(ii) falls within the offshore area;
+and
+(c) immediately before the change, the relevant area was a part of the permit area.
+(8) For the purposes of subsection (7) —
+(a) section 6A is to be disregarded; and
+(b) it is immaterial whether the change occurred before, at or after the commencement day.
+(9) In subsection (8)(b) —
+commencement day means the day on which the Petroleum Legislation Amendment Act 2017 section 18 comes into operation.
+19.Section 61A inserted
+After section 61 insert:
+61A.Grant of petroleum production licence as result of change to boundary of offshore area
+(1) In this section —
+section 27 block means —
+(a)a block constituted as provided by section 27; or
+(b)if a graticular section is wholly within the area that was covered by the Commonwealth licence concerned — the graticular section; or
+(c)if a part only of a graticular section is within the area that was covered by the Commonwealth licence concerned — that part of the graticular section.
+Note for this definition:
+See also subsection (6).
+(2) This section applies if —
+(a) a Commonwealth licence has been granted on the basis that an area (the relevant area) is within the offshore area; and
+(b) as a result of a change to the boundary of the offshore area, the relevant area —
+(i) ceases to be within the offshore area; and
+(ii) falls within the inshore area;
+and
+(c) either —
+(i) the conditions set out in subsection (3) are satisfied; or
+(ii) the conditions set out in subsection (4) are satisfied;
+and
+(d) there are one or more section 27 blocks (the relevant section 27 blocks) that —
+(i) correspond to the section 27 blocks that were covered by the Commonwealth licence immediately before the change; and
+(ii) are in the inshore area; and
+(iii) are not the subject of a variation under section 97A.
+(3) The conditions mentioned in subsection (2)(c)(i) are —
+(a) one or more, but not all, of the section 27 blocks that were covered by the Commonwealth licence immediately before the change are in the relevant area; and
+(b) the Commonwealth licence subsequently ceases to be in force at the same time (the relevant time) —
+(i) as to all of the section 27 blocks that were covered by the Commonwealth licence immediately before the change and that are in the offshore area; and
+(ii) otherwise than as the result of the cancellation or surrender of the Commonwealth licence.
+(4) The conditions mentioned in subsection (2)(c)(ii) are —
+(a) all of the section 27 blocks that were covered by the Commonwealth licence immediately before the change are in the relevant area; and
+(b) the Commonwealth licence subsequently ceases to be in force at the same time (the relevant time) —
+(i) as to all of the section 27 blocks that were covered by the Commonwealth licence immediately before the change; and
+(ii) otherwise than as the result of the cancellation or surrender of the Commonwealth licence.
+(5) The Minister is taken —
+(a) to have granted the holder of the Commonwealth licence a petroleum production licence over the relevant section 27 blocks; and
+(b) to have done so immediately after the relevant time mentioned in whichever of subsection (3) or (4) is applicable.
+Note for this subsection:
+For the duration of the licence, see section 63(3).
+(6) If, after the change to the boundary of the offshore area —
+(a) a part of a section 27 block that was covered by the Commonwealth licence immediately before the change is in the offshore area; and
+(b) the remaining part of the section 27 block is in the inshore area,
+then, for the purposes of this section (other than this subsection), each of those parts is taken to constitute, and to have always constituted, a section 27 block.
+20.Section 63 amended
+(1) In section 63(2) delete “section 41(3)” and insert:
+section 41(3), other than a petroleum production licence granted under section 61A,
+(2) After section 63(2) insert:
+(3) Subject to this Part, a petroleum production licence granted under section 61A remains in force for the period of 21 years commencing on the day on which the licence is granted.
+21.Section 64 amended
+(1) Delete section 64(1) and insert:
+(1) Subject to this section, a licensee under a licence to which section 63(1)(a) or (b) or (3) applies may, from time to time, make an application to the Minister for the renewal of the licence.
+(2) After section 64(3) insert:
+(4) If —
+(a) a petroleum production licence is granted under section 61A; and
+(b) the relevant Commonwealth licence that ceases to be in force, as mentioned in section 61A(3)(b) or (4)(b), was granted otherwise than by way of renewal,
+an application must not be made for the renewal of the petroleum production licence if the Minister has previously granted a renewal of the licence.
+(5) If —
+(a) a petroleum production licence is granted under section 61A; and
+(b) the relevant Commonwealth licence that ceases to be in force, as mentioned in section 61A(3)(b) or (4)(b), was granted by way of renewal,
+an application must not be made for the renewal of the petroleum production licence.
+22.Section 66 amended
+After section 66(2) insert:
+(3) Subsection (1) does not apply to a petroleum production licence granted under section 61A.
+(4) The Minister may, by written notice given to the licensee, vary a petroleum production licence granted under section 61A by imposing one or more conditions to which the licence is subject.
+(5) A notice under subsection (4) may only be given within 14 days after the grant of the petroleum production licence.
+(6) A variation under subsection (4) takes effect on the day on which notice of the variation is given to the licensee.
+23.Section 69 amended
+(1) Before section 69(1) insert:
+(1A) In this section —
+Joint Authority and offshore area have the respective meanings given in the Commonwealth Act section 7.
+(2) In section 69(1)(a)(i) delete “State or of the Northern Territory,” and insert:
+State, the Northern Territory or the Commonwealth,
+(3) In section 69(11):
+(a) in paragraph (b) delete “Territory,” and insert:
+Territory; or
+(b) after paragraph (b) insert:
+(c) the offshore area,
+(c) delete “another State or a Territory referred to in paragraph (a).” and insert:
+the other State or the Territory if paragraph (a) or (b) applies and with the Joint Authority if paragraph (c) applies.
+(4) In section 69(11a) delete “another State or a Territory referred to in paragraph (a).” and insert:
+the other State or the Territory.
+(5) In section 69(12) delete “concerned.” and insert:
+concerned and with the approval of the Joint Authority if subsection (11)(c) applies.
+24.Section 97A inserted
+After section 97 insert:
+97A.Variation of petroleum title by including area as result of change to boundary of offshore area
+(1) In this section —
+Commonwealth title means —
+(a)a Commonwealth permit; or
+(b)a Commonwealth lease; or
+(c)a Commonwealth licence;
+fixed-term WA petroleum production licence means a petroleum production licence granted for a fixed period of years;
+petroleum title means a petroleum exploration permit, petroleum retention lease or fixed-term WA petroleum production licence;
+section 27 block means —
+(a)a block constituted as provided by section 27; or
+(b)if a graticular section is wholly within the area that was covered by the Commonwealth title concerned — the graticular section; or
+(c)if a part only of a graticular section is within the area that was covered by the Commonwealth title concerned — that part of the graticular section.
+Note for this definition:
+See also subsection (14).
+(2) This section applies if —
+(a) a Commonwealth title has been granted on the basis that an area (the relevant area) is within the offshore area; and
+(b) as a result of a change to the boundary of the offshore area, the relevant area —
+(i) ceases to be within the offshore area; and
+(ii) falls within the inshore area;
+and
+(c) either —
+(i) the conditions set out in subsection (3) are satisfied; or
+(ii) the conditions set out in subsection (4) are satisfied;
+and
+(d) immediately before the relevant time mentioned in whichever of subsection (3) or (4) is applicable —
+(i) the Commonwealth title was held by the registered holder of a petroleum title that corresponds to the Commonwealth title; and
+(ii) at least one section 27 block covered by the petroleum title immediately adjoined at least one other section 27 block that was covered by the Commonwealth title and that is in the relevant area;
+and
+(e) before the relevant time mentioned in whichever of subsection (3) or (4) is applicable —
+(i) the registered holder of the Commonwealth title; and
+(ii) the registered holder of the petroleum title,
+gave the Minister a written notice electing to accept the variation under this section of the petroleum title.
+Note for this subsection:
+For when a petroleum title corresponds to a Commonwealth title, see subsection (13).
+(3) The conditions mentioned in subsection (2)(c)(i) are —
+(a) one or more, but not all, of the section 27 blocks that were covered by the Commonwealth title immediately before the change are in the relevant area; and
+(b) the Commonwealth title subsequently ceases to be in force at the same time (the relevant time) —
+(i) as to all of the section 27 blocks that were covered by the Commonwealth title immediately before the change and that are in the offshore area; and
+(ii) otherwise than as the result of the cancellation or surrender of the Commonwealth title.
+(4) The conditions mentioned in subsection (2)(c)(ii) are —
+(a) all of the section 27 blocks that were covered by the Commonwealth title immediately before the change are in the relevant area; and
+(b) the Commonwealth title subsequently ceases to be in force at the same time (the relevant time) —
+(i) as to all of the section 27 blocks that were covered by the Commonwealth title immediately before the change; and
+(ii) otherwise than as the result of the cancellation or surrender of the Commonwealth title.
+(5) If the conditions set out in subsection (2)(d) and (e) are met in relation to only one petroleum title, that petroleum title is the relevant petroleum title for the purposes of this section.
+(6) If the conditions set out in subsection (2)(d) and (e) would, apart from this subsection, be met in relation to 2 or more petroleum titles that have the same registered holder, the Minister must, by written notice given to the registered holder, declare that one of those petroleum titles is the relevant petroleum title for the purposes of this section.
+(7) If the relevant petroleum title is a petroleum exploration permit —
+(a) the Minister must, by written notice given to the permittee, vary the permit to include in the permit area all of the section 27 blocks that —
+(i) correspond to the section 27 blocks that were covered by the Commonwealth title immediately before the change; and
+(ii) are in the inshore area;
+and
+(b) the section 27 blocks included in the permit area because of the variation are, for the remainder of the term of the permit, blocks in relation to which the permit is in force.
+(8) If the relevant petroleum title is a petroleum retention lease —
+(a) the Minister must, by written notice given to the lessee, vary the lease to include in the lease area all of the section 27 blocks that —
+(i) correspond to the section 27 blocks that were covered by the Commonwealth title immediately before the change; and
+(ii) are in the inshore area;
+and
+(b) the section 27 blocks included in the lease area because of the variation are, for the remainder of the term of the lease, blocks in relation to which the lease is in force.
+(9) If the relevant petroleum title is a petroleum production licence —
+(a) the Minister must, by written notice given to the licensee, vary the licence to include in the licence area all of the section 27 blocks that —
+(i) correspond to the section 27 blocks that were covered by the Commonwealth title immediately before the change; and
+(ii) are in the inshore area;
+and
+(b) the section 27 blocks included in the licence area because of the variation are, for the remainder of the term of the licence, blocks in relation to which the licence is in force.
+(10) Subsections (7)(b), (8)(b) and (9)(b) have effect subject to this Part.
+(11) A variation mentioned in subsection (7)(a), (8)(a) or (9)(a) takes effect immediately after the relevant time mentioned in whichever of subsection (3) or (4) is applicable.
+(12) For the purposes of this section, a section 27 block immediately adjoins another section 27 block if —
+(a) the graticular section that constitutes or includes that section 27 block and the graticular section that constitutes or includes that other section 27 block —
+(i) have a side in common; or
+(ii) are joined together at one point only;
+or
+(b) that section 27 block and that other section 27 block are in the same graticular section.
+(13) For the purposes of this section —
+(a) a petroleum exploration permit granted otherwise than by way of renewal corresponds to a Commonwealth permit granted otherwise than by way of renewal; and
+(b) a petroleum retention lease corresponds to a Commonwealth lease; and
+(c) a fixed-term WA petroleum production licence granted otherwise than by way of renewal corresponds to a Commonwealth licence granted otherwise than by way of renewal; and
+(d) a petroleum exploration permit granted by way of first renewal corresponds to a Commonwealth permit granted by way of first renewal; and
+(e) a fixed-term WA petroleum production licence granted by way of first renewal corresponds to a Commonwealth licence granted by way of first renewal; and
+(f) a petroleum exploration permit granted by way of second renewal corresponds to a Commonwealth permit granted by way of second renewal; and
+(g) a fixed-term WA petroleum production licence granted by way of second or subsequent renewal corresponds to a fixed-term petroleum production licence, as defined in the Commonwealth Act section 7, granted by way of second or subsequent renewal.
+(14) If, after the change to the boundary of the offshore area —
+(a) a part of a section 27 block that was covered by the Commonwealth title immediately before the change is in the offshore area; and
+(b) the remaining part of the section 27 block is in the inshore area,
+then, for the purposes of this section (other than this subsection), each of those parts is taken to constitute, and to have always constituted, a section 27 block.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
