@@ -17,6 +17,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Port Kennedy Development Act 2017 s. 7 | 8 of 2017 | 15 Sep 2017 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Department of Land Administration plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
@@ -27,6 +28,9 @@ On the date as at which this compilation was prepared, the Aquatic Resources Man
 Aquatic Resources Management Act 2016
 Table
 Port Kennedy Development Agreement Act 1992 | s. 12(3)(c)
+On the date as at which this compilation was prepared, the Port Kennedy Development Act 2017 s. 7 had not come into operation. It reads as follows:
+7.Port Kennedy Development Agreement Act 1992 repealed
+The Port Kennedy Development Agreement Act 1992 is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
