@@ -8,6 +8,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 3-8, Pt. 2-19 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Aquatic Resources Legislation Amendment Act 2016 Pt. 2 | 40 of 2016 | 29 Nov 2016 | Operative on commencement of the Aquatic Resources Management Act 2016 s. 263 (see s. 2(b))
+Port Kennedy Development Act 2017 s. 8 | 8 of 2017 | 15 Sep 2017 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared the Aquatic Resources Management Act 2016 s. 3-8 and Pt. 2-19 had not come into operation. They read as follows:
 3.Terms used
 (1) In this Act, unless the contrary intention appears —
@@ -3342,3 +3343,7 @@ This Part amends the Aquatic Resources Management Act 2016.
 4.Section 263 amended
 After section 263(5) insert:
 (6) To the extent that the regulations prescribe under subsection (2)(j) a fee that includes an amount referred to in subsection (5) that is a tax, the regulations may impose the tax.
+On the date as at which this compilation was prepared, the Port Kennedy Development Act 2017 s. 8 had not come into operation. It reads as follows:
+8.Aquatic Resources Management Act 2016 amended
+(1) This section amends the Aquatic Resources Management Act 2016.
+(2) In section 377 in the Table delete the item relating to the Port Kennedy Development Agreement Act 1992.
