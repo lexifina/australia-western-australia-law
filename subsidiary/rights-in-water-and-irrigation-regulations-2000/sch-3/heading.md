@@ -111,13 +111,13 @@ Information about this notice | Date: ..........................................
 WHAT YOU MUST DO:
 1. | You may dispose of this matter by paying the modified penalty within a period of 21 days after this notice is given.
  | PAY THE MODIFIED PENALTY TO:
- | The Chief Finance Officer Department of Water PO Box K822 PERTH WA 6842
- | If you wish to do so but are unable to make payment within 21 days you may apply to the Department of Water for an extension of time within which the modified penalty may be paid.
+ | The Chief Finance Officer Department of Water and Environmental Regulation Locked Bag 33 Cloisters Square PERTH WA 6850
+ | If you wish to do so but are unable to make payment within 21 days you may apply to the Department for an extension of time within which the modified penalty may be paid.
 OR | IF YOU DO NOT PAY THE MODIFIED PENALTY
 2. | A prosecution notice may be issued against you for the alleged offence, in which case the matter will be dealt with by a COURT.
 OR
  | The modified penalty may be recovered by the Fines Enforcement Registry, in which case — (a)additional administrative charges may be incurred; (b)some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold; and (c)you will be given an opportunity to elect to have a prosecution notice for the alleged offence dealt with by a COURT. PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
-[Form 3 amended in Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625; 4 Apr 2008 p. 1313; 23 Jun 2009 p. 2500; 20 Aug 2013 p. 3846.]
+[Form 3 amended in Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625; 4 Apr 2008 p. 1313; 23 Jun 2009 p. 2500; 20 Aug 2013 p. 3846; 15 Sep 2017 p. 4795.]
 Form 4
 [r. 54]
 Water Agencies (Powers) Act 1984 s. 103(6)
@@ -146,6 +146,6 @@ Photograph of authorised person
 ................................................................... (Date of expiry)
 This is to certify that the person identified on this certificate is authorised, in accordance with section 103 of the Water Agencies (Powers) Act 1984, to give infringement notices under the Rights in Water and Irrigation Regulations 2000.
 Signed: .......................................................................
-Chief executive officer of the Department of Water or Chief executive officer of the Water Corporation on behalf of the Water Corporation.*
+Chief executive officer of the Department or Chief executive officer of the Water Corporation on behalf of the Water Corporation.*
 * Delete the inapplicable.
-[Form 5 amended in Gazette 14 Jun 2002 p. 2837; 23 Jun 2009 p. 2501.]
+[Form 5 amended in Gazette 14 Jun 2002 p. 2837; 23 Jun 2009 p. 2501; 15 Sep 2017 p. 4795.]

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 28 July 2017 of the Water Services Regulations 2013 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Services Regulations 2013 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Services Regulations 2013 | 14 Nov 2013 p. 5103-204 | Regulations other than r. 30: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027); r. 30: 1 Jul 2014 (see r. 2(a) and Gazette 14 Nov 2013 p. 5028)
@@ -11,6 +11,7 @@ Water Services Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 27 Jun 2016
 Water Services Legislation Amendment Regulations 2016 Pt. 2 | 13 Dec 2016 p. 5659-94 | 14 Dec 2016 (see r. 2(b))
 Water Services Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3317-403 | 1 Jul 2017 (see r. 2(b))
 Reprint 1: The Water Services Regulations 2013 as at 28 Jul 2017 (includes amendments listed above)
+Water Legislation Amendment Regulations 2017 Pt. 5 | 15 Sep 2017 p. 4794-6 | 16 Sep 2017 (see r. 2(b))
 The Water Boards Act 1904 was repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 201.
 The Country Town Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 Now known as the Plumbers Licensing Act 1995.
@@ -69,9 +70,9 @@ metropolitan area3(1)
 morning period76
 multi-unit development3(1)
 non-residential lot80B
-offence80D(1)(a)
+offence80D(1)
 ombudsman12
-period80D(1)(a)
+period80D(1)
 permit91(1)
 pipes47(1)
 plan80B
@@ -104,12 +105,12 @@ unmanaged reserve27
 vacant lot28B
 vehicle31
 water corporation licensee3(1)
-watercourse5(9)
 water efficiency management plan80B
 water supply connection3(1)
 water supply service (fire)3(1)
 water supply works of a licensee31
 water use restrictions76
+watercourse5(9)
 week76
 withdrawal fee83(1)
 working day3(1)
