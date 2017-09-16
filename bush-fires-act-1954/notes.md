@@ -58,11 +58,11 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 3 | 22 of 2012 | 
 Reprint 9: The Bush Fires Act 1954 as at 11 Oct 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 17 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Bush Fires Amendment Act 2016 | 27 of 2016 | 21 Sep 2016 | s. 1 and 2: 21 Sep 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3552)
+Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 2 | 28 of 2016 | 21 Sep 2016 | 16 Sep 2017 (see s. 2(b) and Gazette 15 Sep 2017 p. 4791)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biodiversity Conservation Act 2016 s. 312 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 2 | 28 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Biodiversity Conservation Act 2016 s. 312 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
@@ -72,14 +72,6 @@ The Fire and Emergency Services Authority of Western Australia (Consequential Pr
 The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) are transitional provisions that are of no further effect.
 The Standardisation of Formatting Act 2010 s. 52(4) in relation to amendments to the Bush Fires Act 1954 s. 21(1), (2) and (3), s. 39(2), s. 45 and s. 47, the amendment to s. 44(3) to delete “(3)(a) Where” and insert “(3) Where” and the amendments to s. 64 to delete “s. 21(2),” and insert “s. 21(2A) and (2B), had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(5)-(8).
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Bush Fires Act 1954 amended
-3.Act amended
-This Part amends the Bush Fires Act 1954.
-4.Section 35A amended
-In section 35A delete the definition of loss or damage.
-5.Section 37 deleted
-Delete section 37.
 On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 312 had not come into operation. It reads as follows:
 312.Bush Fires Act 1954 amended
 (1) This section amends the Bush Fires Act 1954.
@@ -122,11 +114,9 @@ incendiary material27D(1)
 infringement notice59A(2)
 land other than conservation land9, 45(1)
 limited burning times24C
-loss or damage35A
 normal brigade activities35A
 occupier of land7(1)
 owner or occupier of land33(9), 35AB(1)
-prescribed amount37(6)
 prescribed condition18(5D)
 prohibited burning times7(1)
 property32(1)
@@ -137,6 +127,5 @@ relevant bush fire14B(1)
 restricted burning times7(1)
 rubbish tip24C
 specified24C
-specified injury37(6)
 total fire ban21
 volunteer fire fighter35A
