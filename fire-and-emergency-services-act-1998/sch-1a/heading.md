@@ -1,6 +1,6 @@
 ## Schedule 1A — Modification of operation of Part 6A
 [s. 36ZK]
-[Heading inserted by No. 42 of 2002 s. 17.]
+[Heading inserted: No. 42 of 2002 s. 17.]
 column 1: provision | column 2: amendment or repeal
 s. 36P | Subsection (2) is repealed and the following subsection is inserted instead — “ (2)The levy is payable to the local government for the district in which the leviable land is located. ”.
 s. 36S(1) | “or the FES Commissioner, as the case requires,” is deleted.
@@ -15,5 +15,5 @@ s. 36ZB | The following definitions are inserted in the appropriate alphabetical
 s. 36ZC(1) and (2) | “FES Commissioner” is deleted in each place where it occurs and the following is inserted instead — “ local government ”.
 s. 36ZD | (a)“Minister” is deleted and the following is inserted instead — “ local government ”; (b)“FES Commissioner” is deleted in both places where it occurs and the following is inserted instead — “ local government ”.
 s. 36ZH(2)(b) | After “payable” the following is inserted — “ and to the local government ”.
-[Schedule 1A inserted by No. 42 of 2002 s. 17; amended by No. 22 of 2012 s. 41.]
-[Schedule 2 deleted by No. 22 of 2012 s. 42.]
+[Schedule 1A inserted: No. 42 of 2002 s. 17; amended: No. 22 of 2012 s. 41.]
+[Schedule 2 deleted: No. 22 of 2012 s. 42.]
