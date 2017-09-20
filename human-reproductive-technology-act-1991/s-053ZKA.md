@@ -1,4 +1,4 @@
 ### 53ZKA. Annual reports
 (1) The NHMRC Licensing Committee must furnish to the Minister a copy of any report prepared under section 19(3) of the Research Involving Human Embryos Act 2002 of the Commonwealth (insofar as the report is relevant to the operation of this Act).
 (2) The Minister must, within 12 sitting days after receipt of a report under subsection (1), cause copies of the report to be laid before each House of Parliament.
-[Section 53ZKA inserted by No. 17 of 2004 s. 36.]
+[Section 53ZKA inserted: No. 17 of 2004 s. 36.]
