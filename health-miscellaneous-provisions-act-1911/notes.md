@@ -139,11 +139,11 @@ Reprint 16: The Health Act 1911 as at 6 Dec 2013 (includes amendments listed abo
 Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
- | Public Health (Consequential Provisions) Act 2016 Pt. 2 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165)
+ | Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 Pt. 4 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -217,15 +217,9 @@ specified means specified or described in the regulations.
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
 Footnote no longer required.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 4 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) had not come into operation. They read as follows:
 Part 4 — Health (Miscellaneous Provisions) Act 1911 amended
-Division 1 — Act amended
-206.Act amended
-This Part amends the Health (Miscellaneous Provisions) Act 1911.
 Division 2 — Part I amended
-207.Section 3 amended
-(1) In section 3(1) delete the definition of AIDS.
-(2) In section 3(1) delete the definition of responsible pathologist.
 208.Section 5 deleted
 Delete section 5.
 209.Section 6 deleted
@@ -235,10 +229,6 @@ Division 3 — Part II amended
 Delete section 7.
 211.Section 12 deleted
 Delete section 12.
-212.Sections 13 and 14 deleted
-Delete sections 13 and 14.
-213.Section 15 deleted
-Delete section 15.
 214.Section 16 deleted
 Delete section 16.
 215.Section 17 deleted
@@ -305,26 +295,11 @@ Delete Part VIIA Division 8.
 Division 10 — Part IX amended
 239.Part IX heading and Part IX Division 1 heading deleted
 Delete the headings to Part IX and Part IX Division 1.
-240.Section 248 deleted
-Delete section 248.
 241.Section 249 deleted
 Delete section 249.
-242.Sections 250 to 275 deleted
-Delete sections 250 to 275.
-243.Part IX Division 2 deleted
-Delete Part IX Division 2.
 Division 11 — Part IXA deleted
 244.Part IXA deleted
 Delete Part IXA.
-Division 12 — Part X deleted
-245.Part X deleted
-Delete Part X.
-Division 13 — Part XI deleted
-246.Part XI deleted
-Delete Part XI.
-Division 14 — Part XIII amended
-247.Section 340 deleted
-Delete section 340.
 Division 15 — Part XIIIB amended
 248.Section 340AB amended
 In section 340AB(3)(d) delete “Princess Margaret Hospital for Children,” and insert:
@@ -395,12 +370,8 @@ analysed.
 Delete section 377.
 271.Section 378 deleted
 Delete section 378.
-272.Schedule 1 deleted
-Delete Schedule 1.
 273.Schedule 2 deleted
 Delete Schedule 2.
-274.Schedule 4 deleted
-Delete Schedule 4.
 275.Schedule 5 amended
 (1) Delete Schedule 5 Part I and insert:
 Part I
@@ -436,7 +407,6 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Agvet Code of Western Australia3(1)
-AIDS3(1)
 analyst3(1)
 Analytical Committee3(1), 247AA
 apparatus for the treatment of sewage3(1), 100(4)
@@ -510,7 +480,6 @@ regular member246B(9)
 regulation3(1)
 relative3(1)
 researcher340AL(1a)
-responsible pathologist3(1)
 sanitary convenience3(1)
 scheme247AA
 school3(1)

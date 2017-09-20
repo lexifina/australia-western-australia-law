@@ -48,13 +48,9 @@ Reprint 6: The Equal Opportunity Act 1984 as at 7 Jan 2011 (includes amendments 
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 3 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Electricity Corporations Amendment Act 2013 s. 42 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
-Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Reprint 7: The Equal Opportunity Act 1984 as at 5 Aug 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016 s. 101)
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 6 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 6: 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
+Reprint 7: The Equal Opportunity Act 1984 as at 5 Aug 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016
 Statutes (Minor Amendments) Act 2017 s. 8 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 6 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 (Cwlth) (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 (Cwlth).
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
@@ -77,17 +73,6 @@ Unless the context otherwise requires, where in an arrangement made under the Eq
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
 The amendments in the Co-operatives Act 2009 s. 509(2) and 514(2) are not included because the section to be amended (s. 35N(1)) had expired on 9 Jan 1995 under s. 35N(2). Section 35N(2) reads as follows:
 (2) Subsection (1) shall, except to the extent that regulations made for the purposes of this subsection provide otherwise, cease to be in force at the expiration of 2 years after the coming into operation of section 11 of the Equal Opportunity Amendment Act 1992.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 6 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 6 — Equal Opportunity Act 1984 amended
-288.Act amended
-This Division amends the Equal Opportunity Act 1984.
-289.Section 66U amended
-(1) In section 66U(1) delete “an infectious” and insert:
-a notifiable infectious
-(2) Delete section 66U(3) and insert:
-(3) In this section —
-notifiable infectious disease has the meaning given in the Public Health Act 2016 section 4(1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -123,10 +108,9 @@ family responsibility or family status4(1)
 Fines Enforcement Registrar4(1)
 functions4(1)
 gender reassigned person4(1)
-harasser49A(1), 49A(2)
+harasser49A(1) and (2)
 impairment4(1)
 incorporated association4(1)
-infectious disease66U(3)
 inquiry4(1)
 institution74(1)
 institution of tertiary education4(1)
@@ -134,6 +118,7 @@ man4(1)
 management plan138
 marital status4(1)
 near relative4(1)
+notifiable infectious disease66U(3)
 opposite sex35AA(2)
 person victimised67(1)
 principal4(1)
