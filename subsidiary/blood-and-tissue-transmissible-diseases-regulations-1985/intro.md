@@ -1,3 +1,3 @@
 Western Australia
-Health (Miscellaneous Provisions) Act 1911
+Public Health Act 2016
 Blood and Tissue (Transmissible Diseases) Regulations 1985
