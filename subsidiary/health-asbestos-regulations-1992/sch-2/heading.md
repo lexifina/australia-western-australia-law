@@ -1,6 +1,6 @@
 ## Schedule 2 — Infringement notice
 [r. 15D(8)(a)]
-[Heading inserted in Gazette 10 Jan 2017 p. 207.]
+[Heading inserted: Gazette 10 Jan 2017 p. 207.]
 Health (Miscellaneous Provisions) Act 1911 Health (Asbestos) Regulations 1992 INFRINGEMENT NOTICE | Infringement notice no.
 Alleged offender | Name
 Address
@@ -28,4 +28,4 @@ Notes to Form —
 1.The details should say what the alleged offender has done that is considered to be a contravention of the law.
 2.Delete this option if not applicable.
 3.Include here, when applicable, details of how a payment may be made electronically.
-[Schedule 2 inserted in Gazette 10 Jan 2017 p. 207-9.]
+[Schedule 2 inserted: Gazette 10 Jan 2017 p. 207-9.]
