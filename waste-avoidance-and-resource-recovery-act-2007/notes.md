@@ -6,14 +6,13 @@ Waste Avoidance and Resource Recovery Act 2007 | 36 of 2007 | 21 Dec 2007 | s. 1
 Waste Avoidance and Resource Recovery Amendment Act 2009 Pt. 2 | 48 of 2009 | 7 Dec 2009 | s. 3 and 9: 8 Dec 2009 (see s. 2(b)); Pt. 2 other than s. 3 and 9: 1 Jan 2010 (see s. 2(c) and Gazette 22 Dec 2009 p. 5253)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Waste Avoidance and Resource Recovery Amendment (Validation) Act 2014 | 16 of 2014 | 2 Jul 2014 | 2 Jul 2014 (see s. 2)
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 29 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Reprint 1: The Waste Avoidance and Resource Recovery Act 2007 as at 16 Sep 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 29)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 29 and Pt. 5 Div. 26 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 29: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 26: 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
+Reprint 1: The Waste Avoidance and Resource Recovery Act 2007 as at 16 Sep 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and 3 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 26 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and 3 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and 3 had not come into operation. They read as follows:
 Schedule 4 — Amendments and repeals
 [s. 100]
 2.Environmental Protection Act 1986 amended
@@ -23,14 +22,6 @@ The Environmental Protection (Landfill) Levy Act 1998 is repealed.
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 26 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 26 — Waste Avoidance and Resource Recovery Act 2007 amended
-336.Act amended
-This Division amends the Waste Avoidance and Resource Recovery Act 2007.
-337.Section 7 amended
-In section 7(1) delete “1911.” and insert:
-1911 or the Public Health Act 2016.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
