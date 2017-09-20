@@ -23,4 +23,4 @@
 15.To take appropriate measures to bring the provisions of this Act to the attention of the public.
 16.To do such other acts and things as are conducive to the prevention and control of waste.
 17.To perform such other functions as are conferred on it under this Act or are referred to it by the Minister.
-[Schedule 2 amended by No. 48 of 2009 s. 10.]
+[Schedule 2 amended: No. 48 of 2009 s. 10.]
