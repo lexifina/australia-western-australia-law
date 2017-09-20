@@ -14,6 +14,7 @@ Child Care Services (Child Care) Amendment Regulations (No. 3) 2012 | 5 Mar 2013
 Reprint 4: The Child Care Services (Child Care) Regulations 2006 as at 24 May 2013 (includes amendments listed above)
 Child Care Services (Child Care) Amendment Regulations (No. 2) 2012 | 2 Aug 2013 p. 3527 | r. 1 and 2: 2 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2013 (see r. 2(b))
 Child Care Services (Child Care) Amendment Regulations 2016 | 10 Jan 2017 p. 179-80 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Child Care Services (Child Care) Amendment Regulations 2017 | 19 Sep 2017 p. 4881 | r. 1 and 2: 19 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2017 (see r. 2(b))
 These regulations were made under the Children and Community Services Act 2004 but continue to operate under the Child Care Services Act 2007 s. 52 from 10 August 2007 (see s. 56).
 The Building Regulations 1989 were repealed by the Building Act 2011 s. 157, as at 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033).
 The Community Services (Child Care) Amendment Regulations 2001 commenced 13 Feb 2001 (see Gazette 13 Feb 2001 p. 872-91).
