@@ -12,6 +12,7 @@ Health (Asbestos) Amendment Regulations 2002 | 13 Aug 2002 p. 4179 | 13 Aug 2002
 Health (Asbestos) Amendment Regulations 2006 | 15 Dec 2006 p. 5622 | 15 Dec 2006
 Health (Asbestos) Amendment Regulations 2016 | 10 Jan 2017 p. 199-211 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 10 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Health (Asbestos) Amendment Regulations 2017 | 19 Sep 2017 p. 4882 | r. 1 and 2: 19 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
