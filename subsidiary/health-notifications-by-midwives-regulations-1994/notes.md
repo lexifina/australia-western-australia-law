@@ -5,9 +5,10 @@ Citation | Gazettal | Commencement
 Health (Notifications by Midwives) Regulations 1994 | 28 Jan 1994 p. 283-5 | 28 Jan 1994
 Reprint 1: The Health (Notifications by Midwives) Regulations 1994 as at 11 Jun 2004
 Health (Notifications by Midwives) Amendment Regulations 2011 | 1 Apr 2011 p. 1178 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
-Health (Notification by Midwives) Amendment Regulations (No. 2) 2011 | 30 Dec 2011 p. 5577-8 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2011 (see r. 2(b))
+Health (Notifications by Midwives) Amendment Regulations (No. 2) 2011 | 30 Dec 2011 p. 5577-8 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2011 (see r. 2(b))
 Health (Notifications by Midwives) Amendment Regulations 2012 | 14 Dec 2012 p. 6199-201 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Health (Notifications by Midwives) Amendment Regulations 2014 | 24 Apr 2014 p. 1143-5 | r. 1 and 2: 24 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Health (Notifications by Midwives) Amendment Regulations 2016 | 3 May 2016 p. 1356-8 | r. 1 and 2: 3 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 17 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health (Notifications by Midwives) Amendment Regulations 2017 | 16 May 2017 p. 2489-91 | r. 1 and 2: 16 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
+Reprint 2: The Health (Notifications by Midwives) Regulations 1994 as at 22 Sep 2017 (includes amendments listed above)

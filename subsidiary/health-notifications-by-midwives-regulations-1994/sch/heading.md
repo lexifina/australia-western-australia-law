@@ -1,5 +1,5 @@
 ## Schedule
-FORM 1
+Form 1
 [r. 3]
 HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
 HEALTH (NOTIFICATIONS BY MIDWIVES) REGULATIONS 1994
@@ -19,7 +19,7 @@ Professional Indemnity Insurance Provider: _____________________________
 Signature: ___________________
 Date: ____/____/____
 * Delete if not applicable
-[Form 1 inserted in Gazette 14 Dec 2012 p. 6200; amended in Gazette 10 Jan 2017 p. 270.]
+[Form 1 inserted: Gazette 14 Dec 2012 p. 6200; amended: Gazette 10 Jan 2017 p. 270.]
 Form 2
 [r. 4]
-[Form 2 inserted in Gazette 16 May 2017 p. 2490-1.]
+[Form 2 inserted: Gazette 16 May 2017 p. 2490-1.]
