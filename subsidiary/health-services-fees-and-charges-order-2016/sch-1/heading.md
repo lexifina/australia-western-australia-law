@@ -7,8 +7,8 @@
  | (b)for private in-patients —
  | (i)in single bed wards (if taken at patient’s request) | $638 per day
  | (ii)in other wards | $350 per day
- | (c)for nursing home type patients | $58.80 per day
- | (d)for nursing home type private patients | $196.90 per day
+ | (c)for nursing home type patients | $59.20 per day
+ | (d)for nursing home type private patients | $197.30 per day
  | (e)for ineligible in-patients | $2 586 per day
  | (f)for eligible veteran in-patients | no charge
 2. | Home modifications service and supply or loan as appropriate, of such aids and appliances, orthotics and prostheses, oxygen, gas and equipment, wigs, surgical implants or devices as are approved by the Department CEO (including repair and replacement) | no charge
@@ -34,7 +34,7 @@
  | (d)for ineligible same day patients | $2 429 per day
 ## Subdivision 5 — Other services
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $38.15 per day
-[Division 1 amended in Gazette 21 Oct 2016 p. 4783; 3 Feb 2017 p. 1113; 5 May 2017 p. 2369; 30 Jun 2017 p. 3567.]
+[Division 1 amended in Gazette 21 Oct 2016 p. 4783; 3 Feb 2017 p. 1113; 5 May 2017 p. 2369; 30 Jun 2017 p. 3567; 22 Sep 2017 p. 4933.]
 ## Division 2 — Compensable patients
 ## Subdivision 1 — Compensable in-patients
 1. | Accommodation, maintenance, nursing care and other services in a hospital bed, except services referred to in item 4, 5 or 6 | $2 540 per day
