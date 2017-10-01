@@ -79,7 +79,7 @@ Reprint 9: The Sentencing Act 1995 as at 8 Jan 2016 (includes amendments listed 
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 9 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 Div. 1 and 2 | 45 of 2016 | 7 Dec 2016 | Pt. 4 Div. 1 and 2: 8 Dec 2016 (see s. 2(b)); Pt. 3 Div. 1: 1 Jul 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1159)
+Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 (other than Div. 5 and s. 69 and 73) | 45 of 2016 | 7 Dec 2016 | Pt. 4 Div. 1 and 2: 8 Dec 2016 (see s. 2(b)); Pt. 3 Div. 1: 1 Jul 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1159); Pt. 4 Div. 3, 4 and 6 (other than s. 69 and 73: 1 Oct 2017 (see s. 2(c) and Gazette 29 Sep 2017 p. 4983)
 Statutes (Minor Amendments) Act 2017 s. 12 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -87,7 +87,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
- | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 3-6 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
+ | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
@@ -234,114 +234,7 @@ This Division amends the Sentencing Act 1995.
 330.Schedule 1 amended
 In Schedule 1 delete the item relating to the Health (Miscellaneous Provisions) Act 1911.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 3-6 had not come into operation. They read as follows:
-Part 4 — Other amendments to the Sentencing Act 1995
-Division 3 — Amendments about suspended fines
-48.Section 14 amended
-In section 14(2):
-(a) in paragraph (b) delete “fine,” and insert:
-fine; or
-(b) after paragraph (b) insert:
-(c) under Part 8A impose a suspended fine,
-49.Section 39 amended
-After section 39(2)(c) insert:
-(ca) with or without making a spent conviction order, under Part 8A impose a suspended fine; or
-50.Section 40 amended
-In section 40(2):
-(a) in paragraph (b) delete “fine.” and insert:
-fine; or
-(b) after paragraph (b) insert:
-(c) under Part 8A impose a suspended fine.
-51.Section 44 amended
-In section 44(1):
-(a) in paragraph (a)(i) delete “(b) and (c); or” and insert:
-(b), (c) and (ca); or
-(b) in paragraph (a)(ii) delete “(c)” and insert:
-(c), (ca)
-52.Part 8A inserted
-After section 60 insert:
-Part 8A — Suspended fine
-60A.When fine may be suspended
-(1) A court that sentences an offender to a fine may order that the fine be suspended for a period set by the court that is not to be more than 24 months.
-(2) A suspended fine is not to be imposed unless a fine equal to that suspended would, if it were not possible to suspend the fine, be appropriate in all the circumstances.
-60B.Effect of suspending fine
-(1) An offender sentenced to a suspended fine is not to pay any part of the fine that is suspended unless —
-(a) during the suspension period the offender commits an offence (in this State or elsewhere); and
-(b) a court makes an order under section 60E.
-(2) The suspension period begins on the day on which the sentence is imposed.
-(3) An offender who is sentenced to a suspended fine is to be taken to be discharged from the sentence at the end of the suspension period.
-(4) Subsection (3) does not affect the operation of subsection (1) or section 60C or 60E.
-60C.Re-offender may be dealt with or committed
-(1) If a court convicts a person of an offence and that offence was committed during the suspension period of a suspended fine imposed on the person in relation to another offence, the court —
-(a) if it is the Magistrates Court or the Children’s Court, must deal with the person under section 60E unless the suspended fine was imposed —
-(i) by the Magistrates Court or the Children’s Court for an indictable offence; or
-(ii) by a superior court,
-in which case the court must commit the person to the court that imposed the suspended fine and that court must deal with the person under section 60E; or
-(b) if it is the District Court, must deal with the person under section 60E unless the suspended fine was imposed by the Children’s Court or the Supreme Court for an offence which the District Court would not have jurisdiction to deal with if it were committed by an adult, in which case the court must commit the person to the court that imposed the suspended fine and that court must deal with the person under section 60E; or
-(c) if it is the Supreme Court, must deal with the person under section 60E.
-(2) The powers in subsection (1) may be exercised by a court at any time, even if the suspension period has ended.
-(3) Subsection (1) does not affect the powers of the court that convicts the person of the offence committed during the suspension period to deal with the person for that offence.
-(4) A court that under subsection (1) commits a person to another court must certify that the person has been convicted of an offence committed during the suspension period.
-(5) A certificate by a court under subsection (4) is, in the absence of evidence to the contrary, evidence of its contents.
-60D.Alleging re-offending in court
-(1) If —
-(a) a person (the offender) has been convicted and dealt with (in this State or elsewhere) for an offence; and
-(b) that offence was committed during the suspension period of a suspended fine imposed on the offender in relation to another offence,
-a written notice alleging those matters may be lodged in a court in accordance with this section.
-(2) The notice may be lodged at any time up until 2 years after the last day of the suspension period.
-(3) The notice may be signed by a police officer or another person referred to in the Criminal Procedure Act 2004 section 20(3).
-(4) The notice must be in a prescribed form and be signed in the presence of a JP or a prescribed court officer (as defined in the Criminal Procedure Act 2004 section 3(1)) who may issue a summons to the offender.
-(5) The notice must be lodged with, and the summons must direct the offender to appear before, the court that imposed the suspended fine.
-(6) The Criminal Procedure Act 2004 section 32, with any necessary changes, applies to and in respect of a summons issued under this section.
-(7) An offender who appears before a court as a result of a summons issued under this section must be dealt with by the court under section 60E.
-60E.How re-offender to be dealt with
-(1) If satisfied that a person has been convicted (in this State or elsewhere) of an offence and that the offence was committed during the suspension period of a suspended fine, a court that must deal with the person under this section must deal with the person by one of these methods —
-(a) unless an order under this paragraph or paragraph (b) has already been made, it may order the person to pay the fine that was suspended;
-(b) unless an order under paragraph (a) has already been made, it may order the person to pay part of the fine that was suspended;
-(c) unless the suspension period has ended, it may substitute another suspension period of not more than 24 months for the suspension period originally set, and the new suspension period is to begin on the day it is substituted;
-(d) it may make no order in respect of the suspended fine.
-(2) The powers in subsection (1) may be exercised as often as is necessary.
-(3) A court must make an order under subsection (1)(a) unless it decides that it would be unjust to do so in view of all the circumstances that have arisen, or have become known, since the suspended fine was imposed.
-(4) If a court does not make an order under subsection (1)(a), it must give written reasons for not doing so.
-(5) If a court deals with a person under subsection (1)(d), then, unless the suspension period has ended, the sentence of a suspended fine remains in effect and the suspension period continues to elapse.
-(6) An order by a superior court under subsection (1) in a case where the sentence of a suspended fine was imposed for an offence for which the person had not been convicted on indictment is to be taken, for the purposes of an appeal against the sentence, as being made following a conviction on indictment.
-Division 4 — Amendments about victim impact statements
-53.Section 23A inserted
-At the beginning of Part 3 Division 4 insert:
-23A.Terms used
-In this Division —
-family victim, in relation to an offence, means a person who was, at the time the offence was committed, a member of the primary victim’s immediate family, and includes such a person whether or not the person has suffered personal harm as a result of the offence;
-member of the primary victim’s immediate family means —
-(a)the primary victim’s spouse; or
-(b)the primary victim’s de facto partner; or
-(c)a person to whom the primary victim is engaged to be married; or
-(d)a parent, grandparent, guardian, step-parent or step-grandparent of the primary victim; or
-(e)a child, grandchild, step-child or step-grandchild of the primary victim or some other child for whom the primary victim is the guardian; or
-(f)a brother, sister, half-brother, half-sister, step-brother or step-sister of the primary victim; or
-(g)if, at the time of the offence, the primary victim was an Aboriginal person or a Torres Strait Islander requiring care, a person who, in the opinion of the court, is regarded under the customary law or tradition of the primary victim’s community as the equivalent of the primary victim’s guardian or carer;
-personal harm means bodily harm or psychological or psychiatric harm;
-primary victim, in relation to an offence, means —
-(a)a person against whom the offence was committed; or
-(b)a person who was a witness to the offence if it included any of the following —
-(i)actual or threatened violence;
-(ii)sexual assault;
-(iii)bodily harm;
-(iv)death;
-requiring care, in relation to a person, means a person who —
-(a)is under 18 years of age; or
-(b)in the absence of positive evidence as to age, appears to be under 18 years of age; or
-(c)because of a mental or physical impairment, is unable to give a victim impact statement;
-victim means a primary victim or a family victim;
-victim impact statement means a statement containing particulars of —
-(a)in the case of a primary victim, any personal harm suffered by the victim as a direct result of the offence; or
-(b)in the case of a family victim, the impact of the primary victim’s personal harm on the members of the primary victim’s immediate family.
-54.Section 25 amended
-Delete section 25(1).
-55.Section 26 amended
-After section 26(2) insert:
-(3) A court must, after imposing a sentence of imprisonment on an offender, make available to the Prisoners Review Board a copy of any victim impact statement given to the court under section 24.
-Note:The heading to amended section 26 is to read:
-Court’s functions in relation to victim impact statement
+On the date as at which this compilation was prepared, the Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 had not come into operation. They read as follows:
 Division 5 — Amendments about CROs
 56.Section 49 amended
 Delete section 49(1) and insert:
@@ -379,55 +272,12 @@ After section 131(1) insert:
 60.Section 133 amended
 In section 133(2) delete “section 52(2).” and insert:
 section 52(2) or (7).
-Division 6 — Miscellaneous amendments
-61.Section 4 amended
-(1) In section 4(1) insert in alphabetical order:
-parole eligibility order has the meaning given in section 89(1);
-prescribed means prescribed in the regulations;
-Prisoners Review Board means the Prisoners Review Board established under the Sentence Administration Act 2003;
-written reasons includes reasons that are —
-(a)given orally and subsequently transcribed; and
-(b)given orally but also recorded electronically in a format that enables them to be subsequently transcribed.
-(2) In section 4(1) in the definition of superior court delete “Court.” and insert:
-Court;
-(3) After section 4(3) insert:
-(4) In this Act a reference to the suspension of a term or terms of imprisonment is a reference to a suspension of —
-(a) the whole of the term or terms; or
-(b) part of the term or terms.
-62.Section 9G amended
-In section 9G(1) delete “under section 89”.
-63.Section 22 amended
-In section 22(1)(b) delete “21 days after being ordered.” and insert:
-14 days before the sentencing day.
-64.Section 33A amended
-Delete section 33A(7).
-65.Section 35 amended
-Delete section 35(4).
-66.Section 45 amended
-After section 45(1) insert:
-(1A) In addition to subsection (1), under section 39(2), a court sentencing an offender is not to make a spent conviction order in respect of an offender who is subject to a PSO unless —
-(a) the offence to which the PSO applies is a simple offence; and
-(b) the court is satisfied that the offender has complied with any programme requirements imposed as part of the PSO.
-67.Section 75 amended
-After section 75(8)(a) insert:
-(aa) for the purpose of the paid employment of the offender; or
-68.Section 76 amended
-In section 76(1) delete “the whole of”.
 69.Section 80 amended
 (1) Delete section 80(5A).
 (2) In section 80(5)(b) delete “order under section 89,” and insert:
 order,
 (3) After section 80(7) insert:
 (7A) If an order is made under subsection (1)(c) or (d) under which a sentence of suspended imprisonment remains in effect and continues to elapse, the court must make the order subject to a supervision requirement in accordance with section 71 as if the sentence were an ISO.
-70.Section 84F amended
-(1) Delete section 84F(5A).
-(2) In section 84F(5)(b) delete “order under section 89,” and insert:
-order,
-71.Section 84L amended
-In section 84L(3)(b) delete “order under section 89,” and insert:
-order,
-72.Section 85 amended
-In section 85(1) delete the definition of parole eligibility order.
 73.Section 86 amended
 In section 86:
 (a) delete “of 6 months” and insert:
@@ -436,70 +286,6 @@ of 3 months
 3 months; or
 Note:The heading to amended section 86 is to read:
 Term of 3 months or less not to be imposed
-74.Section 87 amended
-(1) In section 87:
-(a) delete “If” and insert:
-(1) If
-(b) delete paragraph (a) and insert:
-(a) the offender has previously spent time —
-(i) in custody in respect of the offence for which the offender is being sentenced; or
-(ii) in custody in respect of another offence, while on bail for the offence for which the offender is being sentenced;
-and
-(2) At the end of section 87 insert:
-(2) Subsection (1)(a)(i) does not apply if the time in custody has already been taken into account in sentencing for another offence under subsection (1)(a)(ii).
-75.Section 89 amended
-Delete section 89(1) and insert:
-(1) A court sentencing an offender to a fixed term of imprisonment may make an order (a parole eligibility order) that the offender be eligible to be considered for parole in respect of that term by the Prisoners Review Board.
-76.Section 98 amended
-In section 98(1)(c) delete “under Part 13”.
-77.Part 18 Division 6 inserted
-At the end of Part 18 insert:
-Division 6 — Functions of speciality courts
-136A.Application of Division
-This Division applies if —
-(a) the court that imposes a community order on an offender is a speciality court; or
-(b) an offender is committed for trial or sentence for an offence to a superior court by a speciality court and a community order is imposed on the offender by the superior court and the superior court orders that this Division is to apply.
-136B.Term used: court
-In this Division —
-court means a speciality court and includes a superior court referred to in section 136A(b).
-136C.Court may direct offender on community order to appear
-(1) The court may order that the offender appear or reappear before the court after the imposition of the community order —
-(a) at a time and place fixed by the court; or
-(b) if and when summonsed by the court,
-so that the court can ascertain whether the offender is complying with the sentence.
-(2) An order may be made under subsection (1) on any reappearance of the offender pursuant to a previous order made under subsection (1).
-(3) If an offender does not reappear before the court at the time and place fixed or in response to a summons issued by the court, the court may issue a warrant to have the offender arrested and brought before the court.
-(4) On a reappearance ordered under subsection (1), or compelled under subsection (1) or (3), the court may amend a community order.
-136D.Court to deal with re-offender
-(1) If this Division applies and a court other than the court convicts the offender of an offence as referred to in section 128, that court must commit the offender to the court and the court must deal with the offender under section 130.
-(2) Section 128(2) to (4) apply for the purposes of subsection (1).
-(3) If this Division applies, a notice under section 129(1) must be lodged with the court and a summons or warrant issued under section 129 must direct the offender to appear or be brought before the court.
-136E.Court to deal with application to amend or cancel community order
-If this Division applies, an application under section 126 is to be made to the court.
-136F.Court to deal with proceedings for breaches
-If this Division applies, a prosecution for an offence against section 131(1) is to be commenced in, and heard and determined by, the court and, if the offender is convicted, the court must deal with the offender under sections 132 and 133.
-78.Part 18A inserted
-Before Part 19 insert:
-Part 18A — Review of conditional orders
-136G.Terms used
-In this Part —
-CEO means —
-(a)in relation to a CRO — the CEO (DOTAG);
-(b)in relation to a CSI, ISO or PSO — the CEO (corrections);
-conditional order means any of the following —
-(a)a CRO;
-(b)a CSI;
-(c)an ISO;
-(d)a PSO.
-136H.Application to review
-(1) The CEO may apply to a court to review a conditional order if the CEO is of the opinion that the offender subject to the order might not be able to comply with its requirements.
-(2) The application must be made to the court that imposed the conditional order.
-(3) The application must be made in accordance with the regulations.
-136I.Court may confirm, amend or cancel
-(1) If on an application under section 136H a court is satisfied that an offender subject to a conditional order might not be able to comply with its requirements, the court may make an order under subsection (2) but otherwise it must confirm the conditional order.
-(2) If a court may make an order under this subsection, it may either —
-(a) amend the conditional order so as to change the requirement; or
-(b) if the court thinks that the circumstances of the offender have so altered since the court passed sentence that it is necessary and just to do so, cancel the conditional order and sentence the person for the offence for which the conditional order was imposed in any manner the court could if it had just convicted the person of that offence.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -509,6 +295,7 @@ bail4(1)
 breach4(1)
 CBO4(2)
 CCO4(2)
+CEO136G
 CEO (corrections)4(1)
 circumstances of aggravation145A(1)
 COC Act9A(1)
@@ -519,8 +306,10 @@ community corrections centre4(1)
 community corrections officer4(1)
 community order4(1)
 community work4(1)
+conditional order136G
 conditional release order4(1)
 conditional suspended imprisonment4(1)
+court136B
 criminal property confiscation8(6)
 CRO4(2)
 CSI4(2)
@@ -533,6 +322,7 @@ driver’s licence105(5)
 early release order76(4), 81(4)
 excluded offence33A(1)
 family relationship97A(1)
+family victim23A
 fine57(1)
 firearm106(5)
 firearms offence106(5)
@@ -547,22 +337,27 @@ joint offenders55(3)
 mandatory minimum sentence85(1)
 marine offence107(5)
 marine qualification107(5)
+member of the primary victim’s immediate family23A
 motor vehicle105(5)
 motor vehicle offence105(5)
 nominal sentence98(1)
 offence4(1), 97A(1)
-offender4(1), 79(1), 84E(1), 129(1)
+offender4(1), 60D(1), 79(1), 84E(1), 129(1)
 original offence32(1)
-parole eligibility order85(1)
+parole eligibility order4(1), 89(1)
 parole order85(1)
 parole term85(1)
 passport offence108(6)
 pending charge31
 period of imprisonment59(7)
+personal harm23A
+prescribed4(1)
 prescribed offence85(1)
 prescribed term85(1)
 pre-sentence order4(1)
+primary victim23A
 prisoner85(1)
+Prisoners Review Board4(1)
 property116
 PSO4(2)
 reduced sentence37A(1)
@@ -573,6 +368,7 @@ relevant simple offence9A(1)
 reparation order109
 requirement33L(1)
 requirements125(1)
+requiring care23A
 sentence37(5), 37A(5)
 sentencing150A(1)
 sentencing day33B(1)
@@ -587,7 +383,8 @@ term imposed35(1)
 third party118(1), 120(1)
 translated sentence 85(1)
 vessel107(5)
-victim9AA(1), 13, 97A(1), 116, 120(1)
+victim9AA(1), 13, 23A, 97A(1), 116, 120(1)
+victim impact statement23A
 video link14A(4)
 WDO57A(4)
-written reasons33A(7), 35(4), 80(5A), 84F(5A)
+written reasons4(1), 80(5A)
