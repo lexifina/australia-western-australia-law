@@ -46,11 +46,7 @@ Standardisation of Formatting Act 2010 s. 48 and 51 | 19 of 2010 | 28 Jun 2010 |
 Reprint 5: The University of Western Australia Act 1911 as at 10 Dec 2010 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 52 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Statutes (Repeals) Act 2014 s. 13 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
-Universities Legislation Amendment Act 2016 Pt. 6 (other than s. 139) | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Universities Legislation Amendment Act 2016 s. 139 | 32 of 2016 | 19 Oct 2016 | 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
+Universities Legislation Amendment Act 2016 Pt. 6 | 32 of 2016 | 19 Oct 2016 | Pt. 6 (other than s. 139): 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557): s. 139: 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Repealed by Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Student Guilds and Associations) Act 1983 s. 7 reads as follows:
 7.Transitional — ineligibility for membership of the Guild
@@ -76,14 +72,6 @@ Senate means the University of Western Australia Senate.
 (6) The persons who, immediately before commencement day, were members of the Senate under repealed section 10(h) and (i) respectively continue in office as members of the Senate under new section 8(1)(g) on and from commencement day.
 (7) The persons who, immediately before commencement day, were members of the Senate under repealed section 10(k) continue in office as members of the Senate under new section 8(1)(i) on and from commencement day.
 (8) A person who, under this section, continues in office as a member of the Senate on and from commencement day, continues in office for the balance of the term of office that applied to the person immediately before commencement day.
-On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 s. 139 had not come into operation. It reads as follows:
-139.Section 11B inserted
-After section 11A insert:
-11B.Remuneration and allowances for Senate members
-(1) A member of the Senate is entitled to be paid the remuneration (if any) and allowances (if any) determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975.
-(2) Any remuneration and allowances payable —
-(a) are expenditure for the purposes of the University; and
-(b) are to be paid out of the funds of the University.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
