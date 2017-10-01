@@ -41,12 +41,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 42 | 77 
 Acts Amendment (Bankruptcy) Act 2009 s. 28 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 and 43(2) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 5: The Curtin University of Technology Act 1966 as at 7 Nov 2014 (includes amendments listed above)
-Universities Legislation Amendment Act 2016 Pt. 2 (other than s. 19 and 31) | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Universities Legislation Amendment Act 2016 Pt. 2 | 32 of 2016 | 19 Oct 2016 | Part 2 (other than s. 19 and 31): 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557); s. 19 and 31: 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 38 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Universities Legislation Amendment Act 2016 s. 19 and 31 | 32 of 2016 | 19 Oct 2016 | 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Footnote no longer applicable.
 Repealed by the School Education Act 1999 s. 246(1).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 14.
@@ -90,30 +89,6 @@ The Curtin University of Technology Act 1966 is amended as follows:
 “
 Member of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
-On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 s. 19 and 31 had not come into operation. They read as follows:
-19.Section 14A inserted
-After section 13 insert:
-14A.Remuneration and allowances for Council members
-(1) A member of the Council is entitled to be paid the remuneration (if any) and allowances (if any) determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975.
-(2) Any remuneration and allowances payable —
-(a) are, for the purposes of section 23(3), expenditure incurred by the Council for the purposes of giving effect to this Act; and
-(b) are to be paid out of the funds of the University.
-31.Sections 21O and 21P replaced
-Delete sections 21O and 21P and insert:
-21PA.Remuneration and allowances for Kalgoorlie Campus Council members
-(1) A member of the Kalgoorlie Campus Council is entitled to be paid the remuneration (if any) and allowances (if any) determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975.
-(2) Any remuneration and allowances payable —
-(a) are, for the purposes of section 23(3), expenditure incurred by the Council for the purposes of giving effect to this Act; and
-(b) are to be paid out of the funds of the University.
-21P.Delegation by Kalgoorlie Campus Council
-(1) The Kalgoorlie Campus Council may by resolution delegate any of its functions to —
-(a) any member of the Kalgoorlie Campus Council; or
-(b) a committee of persons appointed by the Kalgoorlie Campus Council; or
-(c) any other person.
-(2) The Kalgoorlie Campus Council may by resolution revoke a delegation given under this section.
-(3) A resolution delegating a function may authorise the delegate to further delegate the delegated function to a person or body.
-(4) A subdelegation under this section must be in writing.
-(5) The Interpretation Act 1984 sections 58 and 59 apply to and in relation to a subdelegation under this section in the same way that they apply to and in relation to a delegation given under this section.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

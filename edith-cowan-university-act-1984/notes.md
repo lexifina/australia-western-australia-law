@@ -29,12 +29,11 @@ Reprint 4: The Edith Cowan University Act 1984 as at 11 Aug 2006 (includes amend
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 33 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Universities Legislation Amendment Act 2016 Pt. 3 (other than s. 61) | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
+Universities Legislation Amendment Act 2016 Pt. 3 | 32 of 2016 | 19 Oct 2016 | Pt. 3 (other than s. 61): 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557); s. 61: 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Universities Legislation Amendment Act 2016 s. 61 | 32 of 2016 | 19 Oct 2016 | 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Repealed by the School Education Act 1999.
 Under the Teacher Education Act 1972 s. 57, the appointed day was 26 November 1973. See Gazette 23 November 1973 p. 4266. The Act was repealed by the Colleges Act 1978 s. 5.
 Repealed by the Vocational Education and Training Act 1996.
@@ -79,12 +78,6 @@ The Edith Cowan University Act 1984 is amended as follows:
 Member of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 s. 61 had not come into operation. It reads as follows:
-61.Section 15A inserted
-After section 14 insert:
-15A.Remuneration and allowances for Council members
-(1) A member of the Council is entitled to be paid the remuneration (if any) and allowances (if any) determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975.
-(2) Any remuneration and allowances payable are to be paid out of the funds available to the Council under section 36.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

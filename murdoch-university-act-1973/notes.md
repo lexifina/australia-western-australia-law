@@ -34,11 +34,7 @@ Universities Legislation Amendment Act 2005 Pt. 4 | 8 of 2005 | 7 Jul 2005 | 13 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 111 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 58 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 3: The Murdoch University Act 1973 as at 11 Jun 2010 (includes amendments listed above)
-Universities Legislation Amendment Act 2016 Pt. 4 (other than s. 106) | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Universities Legislation Amendment Act 2016 s. 106 | 32 of 2016 | 19 Oct 2016 | 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
+Universities Legislation Amendment Act 2016 Pt. 4 | 32 of 2016 | 19 Oct 2016 | Pt. 4 (other than s. 106): 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557); s. 106: 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Footnotes no longer applicable.
 The Murdoch University Amendment Act 1980 s. 5 is a validation provision that is of no further effect.
 The Voluntary Membership of Student Guilds and Associations Act 1994 s. 2 contains transitional provisions that are of no further effect.
@@ -58,12 +54,6 @@ Senate means the Murdoch University Senate.
 (8) The persons who, immediately before commencement day, were members of the Senate under repealed section 12(1)(g) or (i) continue in office as members of the Senate under new section 12(1)(f) on and from commencement day.
 (9) The persons who, immediately before commencement day, were members of the Senate under repealed section 12(1)(j) continue in office as members of the Senate under new section 12(1)(g) on and from commencement day.
 (10) A person who, under this section, continues in office as a member of the Senate on and from commencement day, continues in office for the balance of the term of office that applied to the person immediately before commencement day.
-On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 s. 106 had not come into operation. It reads as follows:
-106.Section 19 replaced
-Delete section 19 and insert:
-19A.Remuneration and allowances for Senate members
-(1) A member of the Senate is entitled to be paid the remuneration (if any) and allowances (if any) determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975.
-(2) Any remuneration and allowances payable are to be paid out of funds of the University.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

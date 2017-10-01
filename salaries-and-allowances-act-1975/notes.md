@@ -51,11 +51,8 @@ Public Sector Reform Act 2010 s. 83 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Local Government Amendment Act 2012 Pt. 4 (s. 38-41) | 2 of 2012 | 4 Apr 2012 | s. 38, 40(a), (c) and 41 to the extent that it inserts s. 10(4)(c)(i): 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 39, 40(b) and 41 to the extent that it inserts s. 10(4)(c)(ii): 9 Feb 2013 (see s. 2(b) and Gazette 8 Feb 2013 p. 863)
 Workforce Reform Act 2014 Pt. 4 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2(b) and Gazette 27 Jun 2014 p. 2301)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
-Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 8 | 32 of 2016 | 19 Oct 2016 | 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
+Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Footnote no longer applicable.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
@@ -65,27 +62,6 @@ The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
 (a) if the offence was a Schedule 1 offence committed by the person while holding public office, on the day when the person is convicted;
 (b) in any other case, on the day when the person was sentenced.
 Now known as the Salaries and Allowances Act 1975; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the Universities Legislation Amendment Act 2016 Pt. 7 Div. 8 had not come into operation. It reads as follows:
-Part 7 — Amendments to and repeal of other Acts
-Division 8 — Salaries and Allowances Act 1975 amended
-191.Act amended
-This Division amends the Salaries and Allowances Act 1975.
-192.Section 6 amended
-(1) After section 6(1)(d) insert:
-(ea) a person holding any of the following offices —
-(i) member of the Council of Curtin University;
-(ii) member of the Kalgoorlie Campus Council of Curtin University;
-(iii) member of the Council of Edith Cowan University;
-(iv) member of the ECU South West Campus (Bunbury) Advisory Board of Edith Cowan University;
-(v) member of the Advisory Board of the Academy of Edith Cowan University;
-(vi) member of the Senate of Murdoch University;
-(vii) member of the Senate of the University of Western Australia;
-and
-(2) In section 6 after each of subsections (1)(a) to (c) and (2)(a) insert:
-and
-193.Section 10 amended
-After section 10(4)(b) insert:
-(ca) appoint a person nominated from time to time in writing by the Public Sector Commissioner to assist the Tribunal in an inquiry insofar as it relates to the remuneration to be paid or provided to persons holding the offices referred to in section 6(1)(ea); and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
