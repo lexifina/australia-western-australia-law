@@ -52,6 +52,7 @@ Port Authorities Amendment Regulations (No. 5) 2014 | 19 Sep 2014 p. 3342-3 | r.
 Reprint 6: The Port Authorities Regulations 2001 as at 21 Nov 2014 (includes amendments listed above)
 Port Authorities Amendment Regulations 2014 | 8 Jan 2015 p. 61-3 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Transport Regulations Amendment (Vessel Pilotage) Regulations 2016 Pt. 2 | 16 Sep 2016 p. 3943-5 | Pt. 2 (other than r. 4(2)): 17 Sep 2016 (see r. 2(c)); r. 4(2): 17 Sep 2017 (see r. 2(b))
+Port Authorities Amendment Regulations 2017 | 3 Oct 2017 p. 5037-48 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Oct 2017 (see r. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -70,7 +71,7 @@ boating safety exclusion zoneSch. 1 cl. 38(1)
 cargo vessel22
 channelSch. 1 cl. 106(4)
 collector of port charges3
-commercial vesselSch. 1 cl. 11(3), Sch. 1 cl. 36
+commercial vesselSch. 1 cl. 5D, Sch. 1 cl. 11(3), Sch. 1 cl. 36
 dangerous goodsSch. 1 cl. 8(4), Sch. 1 cl. 70(4)
 departmentSch. 1 cl. 66
 designated by notices or signs69
@@ -84,7 +85,7 @@ exempt master22
 exempt vessel22
 explosivesSch. 1 cl. 8(4), Sch. 1 cl. 70(4)
 first vessel40(1)
-fishing vesselSch. 1 cl. 2, Sch. 1 cl. 36
+fishing vesselSch. 1 cl. 2, Sch. 1 cl. 5D, Sch. 1 cl. 36
 Geraldton HarbourSch. 1 cl. 106(4)
 in charge of a vesselSch. 1 cl. 73
 Inner HarbourSch. 1 cl. 66
@@ -93,9 +94,10 @@ Iron Ore (Hamersley Range) AgreementSch. 1 cl. 36
 launching place93(1)
 length overall3
 Marine Act3
-mooringSch. 1 cl. 13, Sch. 1 cl. 49
-mooring buoySch. 1 cl. 19(1), Sch. 1 cl. 55(1)
-mooring ownerSch. 1 cl. 13, Sch. 1 cl. 49
+mooringSch. 1 cl. 5J, Sch. 1 cl. 13, Sch. 1 cl. 49
+mooring buoySch. 1 cl. 5P(1), Sch. 1 cl. 19(1), Sch. 1 cl. 55(1)
+mooring handbookSch. 1 cl. 5J, Sch. 1 cl. 49
+mooring ownerSch. 1 cl. 5J, Sch. 1 cl. 13, Sch. 1 cl. 49
 motor boat98(2), Sch. 1 cl. 101(2), Sch. 1 cl. 105(2)
 motor vehicle3
 Navigation Act3
@@ -118,13 +120,11 @@ port authority3
 port services70(2)
 prescribed condition52(5)
 private vessel3
-prohibited anchorage areaSch. 1 cl. 48(4)
+prohibited anchorage areaSch. 1 cl. 5I(1), Sch. 1 cl. 48(4)
 property of a port authority3
 property of the port authority3
-restricted areaSch. 1 cl. 110(2)
-service provider’s licenceSch. 1 cl. 2, Sch. 1 cl. 23, Sch. 1 cl. 31,
-Sch. 1 cl. 59, Sch. 1 cl. 64AA, Sch. 1 cl. 94,
-Sch. 1 cl. 102A, Sch. 1 cl. 107A
+restricted areaSch. 1 cl. 5ZA(1), Sch. 1 cl. 110(2)
+service provider’s licenceSch. 1 cl. 2, Sch. 1 cl. 5T, Sch. 1 cl. 23, Sch. 1 cl. 31, Sch. 1 cl. 59, Sch. 1 cl. 64AA, Sch. 1 cl. 94, Sch. 1 cl. 102A, Sch. 1 cl. 107A
 small vesselSch. 1 cl. 68(4), Sch. 1 cl. 106(1)
 traffic sign100
 unclaimed goods66(1)

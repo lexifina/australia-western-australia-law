@@ -21,19 +21,33 @@
 4. | Regulation 104(2): stopping an over-length vehicle in a no-stopping area | $80.00
 5. | Regulation 105(3)(a): parking a vehicle (other than an over-length vehicle) in a parking area otherwise than in accordance with a notice, sign, etc. | $40.00
 6. | Regulation 105(3)(a): parking an over-length vehicle in a parking area otherwise than in accordance with a notice, sign, etc. | $80.00
-7. | Regulation 105(3)(b): parking a vehicle (other than an over-length vehicle) in a no-parking area ........................... | $40.00
-8. | Regulation 105(3)(b): parking an over-length vehicle in a no-parking area ................................................................... | $80.00
+7. | Regulation 105(3)(b): parking a vehicle (other than an over-length vehicle) in a no-parking area | $40.00
+8. | Regulation 105(3)(b): parking an over-length vehicle in a no-parking area | $80.00
 8A. | Regulation 115(2): giving false name or address to, or failing to comply with direction of, an authorised officer .. | $200.00
+ | Port of Balla Balla
+8B. | Schedule 1 clause 5E(2): failing to produce on demand certificate of tonnage and certificate of registry etc. | $200.00
+8C. | Schedule 1 clause 5G(1): unauthorised bunkering of a vessel | $200.00
+8D. | Schedule 1 clause 5G(3): failing to notify harbour master of beginning and end of bunkering | $200.00
+8E. | Schedule 1 clause 5H(2): failing to ensure a private vessel does not impede passage of commercial vessel or keeps safe distance from commercial vessel | $500.00
+8F. | Schedule 1 clause 5I(2): failing to ensure no fishing from a fishing vessel in a channel, fairway, etc. | $500.00
+8G. | Schedule 1 clause 5I(4): failing to ensure a fishing vessel does not impede passage of commercial vessel or keeps safe distance from commercial vessel | $500.00
+8H. | Schedule 1 clause 5K: unauthorised installation or use of mooring | $500.00
+8I. | Schedule 1 clause 5N(5): failing to comply with direction to cause removal of mooring within 14 days after revocation of authorisation to install or use the mooring | $500.00
+8J. | Schedule 1 clause 5W(1): unauthorised placing of goods on port facility, port land, etc. | $200.00
+8K. | Schedule 1 clause 5W(2): unloading goods on to wharf, or placing goods on wharf, otherwise than where directed by harbour master | $200.00
+8L. | Schedule 1 clause 5W(3): unloading goods on to wharf, or placing goods on wharf, in a manner that obstructs or interferes with, or is likely to obstruct or interfere with, a mooring point, hose connection or electrical fixture | $200.00
+8M. | Schedule 1 clause 5X(2): failing to report incident resulting in damage to port facility, vessel, navigational aid, etc. | $200.00
  | Port of Ashburton and Port of Dampier
 9. | Schedule 1 clause 38(2): vessel entering boating safety exclusion zone | $200.00
 10. | Schedule 1 clause 39(2): failing to produce on demand certificate of tonnage and certificate of registry etc. | $200.00
 11. | Schedule 1 clause 41(1): operating propeller of a vessel moored to a wharf | $200.00
 12. | Schedule 1 clause 45(1): unauthorised bunkering of a vessel | $200.00
 13. | Schedule 1 clause 45(3): failing to notify harbour master of beginning and end of bunkering | $200.00
-14. | Schedule 1 clause 47(2): failing to ensure a private vessel does not impede passage of commercial vessel or keeps safe distance from commercial vessel | $200.00
+14. | Schedule 1 clause 47(2): failing to ensure a private vessel does not impede passage of commercial vessel or keeps safe distance from commercial vessel | $500.00
 15. | Schedule 1 clause 48(1): failing to ensure no fishing from a fishing vessel in a channel, fairway, etc. | $500.00
-16. | Schedule 1 clause 48(3): failing to ensure a fishing vessel does not impede passage of commercial vessel or keeps safe distance from commercial vessel | $200.00
-17. | Schedule 1 clause 50: unauthorised installation or use of mooring | $200.00
+16. | Schedule 1 clause 48(3): failing to ensure a fishing vessel does not impede passage of commercial vessel or keeps safe distance from commercial vessel | $500.00
+17. | Schedule 1 clause 50: unauthorised installation or use of mooring | $500.00
+17A. | Schedule 1 clause 53(5): failing to comply with direction to cause removal of mooring within 14 days after revocation of authorisation to install or use the mooring | $500.00
 18. | Schedule 1 clause 62(1): unauthorised placing of goods on port facility, port land, etc. | $200.00
 19. | Schedule 1 clause 62(2): unloading goods on to wharf, or placing goods on wharf, otherwise than where directed by harbour master | $200.00
 20. | Schedule 1 clause 62(3): unloading goods on to wharf, or placing goods on wharf, less than 1 m from mooring point, hose connection, etc. | $200.00
@@ -45,4 +59,4 @@
  | Port of Fremantle
 25. | Schedule 1 clause 100: unauthorised swimming in waters of port outside designated area | $200.00
 26. | Schedule 1 clause 101(1): unauthorised use of motor boats, or water skiing, in Inner Harbour | $200.00
-[Schedule 3 amended in Gazette 31 Jan 2003 p. 298-9; 10 Dec 2004 p. 5916; 28 Jun 2013 p. 2766; 20 Jun 2014 p. 2035.]
+[Schedule 3 amended in Gazette 31 Jan 2003 p. 298-9; 10 Dec 2004 p. 5916; 28 Jun 2013 p. 2766; 20 Jun 2014 p. 2035;3 Oct 2017 p. 5047-8.]
