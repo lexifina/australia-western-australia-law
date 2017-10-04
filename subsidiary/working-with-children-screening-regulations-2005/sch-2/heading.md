@@ -52,5 +52,6 @@ s. 474.24A | Aggravated offence — offence involving conduct on 3 or more occas
 s. 474.25A(1) | Engaging in sexual activity with child under 16 using a carriage service
 s. 474.25A(2) | Causing child under 16 to engage in sexual activity with another person using a carriage service
 s. 474.25B | Aggravated offence — child with mental impairment or under care, supervision or authority of accused person
+s. 474.25C | Using a carriage service to prepare or plan to cause harm to, engage in sexual activity with, or procure for sexual activity, persons under 16
 s. 474.27A | Using a carriage service to transmit indecent communication to child under 16
-[Schedule 2 inserted in Gazette 5 Oct 2010 p. 5115-18.]
+[Schedule 2 inserted in Gazette 5 Oct 2010 p. 5115-18; amended in Gazette 3 Oct 2017 p. 5036.]
