@@ -1,5 +1,6 @@
 ## Schedule 5 — Powerball
-[r. 4 and 86]
+[r. 4, 86, 88 and 89]
+[Heading amended in Gazette 4 Oct 2017 p. 5147.]
 ## Division 1 — Calculating the total cost of entry
 The unit cost of entering a Powerball draw is made up of a subscription of 85 cents per game and an agent’s component.
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
@@ -56,16 +57,16 @@ Odds of winning — division 1 division 2 division 3 division 4 division 5 divis
 Systems range | 3-5/7-20 inclusive
 Powerpik (simple) | 6
 Powerpik systems range | 4-5/7-15 inclusive
-Multiweek options | 2, 5 or 10 weeks
+Multiweek options | Up to 10 weeks
 Advance sales (maximum) | 10 weeks
 Games per playslip (minimum) | 2
 System entries per playslip (minimum) | 1
 Games per playslip (maximum) | 12
 System entries per playslip (maximum) | 12 (subject to maximum aggregate entry cost)
-Games per oral request (default) | 12, 18, 25, 30 or 50
 Games per oral request (if available) | 2 to 50
 Syndicate entries may be purchased (if available) | (see Part 2 Division 3)
-System entries per oral request | 1
-Powerpik entries per oral request | 1
+System entries per oral request (if available) | Up to 50
+Powerpik entries per oral request | Up to 50
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
+[Division 3 amended in Gazette 4 Oct 2017 p. 5147-8.]
