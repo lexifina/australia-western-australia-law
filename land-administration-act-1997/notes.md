@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 October 2017 of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | s. 1 and 2: 3 Oct 1997; Act other than s. 1 and 2: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -45,23 +45,23 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 8 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
-Reprint 6: The Land Administration Act 1997 as at 16 Nov 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90, Commercial Arbitration Act 2012 s. 45 it. 11; Water Services Legislation Amendment and Repeal Act 2012 s. 220 and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27)
 Commercial Arbitration Act 2012 s. 45 it. 11 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 220 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 6: The Land Administration Act 1997 as at 16 Nov 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90, Commercial Arbitration Act 2012; Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 16 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Conservation and Land Management Amendment Act 2015 s. 76 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Land Administration (South West Native Title Settlement) Act 2016 Pt. 6 | 10 of 2016 | 16 May 2016 | 6 Jun 2016 (see s. 2(b) and Gazette 27 May 2016 p. 1548)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Land Administration Act 1997 as at 6 Oct 2017 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Biodiversity Conservation Act 2016 s. 318 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
+Biodiversity Conservation Act 2016 s. 318 | 24 of 2016 | 21 Sep 2016 | s. 318(1) and (2)(a): 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305); s. 318(2)(b): to be proclaimed (see s. 2(b))
+On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
-“
 6A.Renewal etc. of certain tenures subject to Native Title (State Provisions) Act 1998
 (1) Where the exercise of a power under this Act to renew, re-grant or extend a non-exclusive tenure of land is a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the exercise of the power is subject to section 5.3 of that Act.
 (2) In subsection (1) —
@@ -70,15 +70,12 @@ non-exclusive tenure of land means an interest under —
 (b)a licence; or
 (c)other authority,
 that permits the use of the land but does not confer a right of exclusive possession.
-”.
 7.Section 152A inserted
 After section 152 the following section is inserted —
-“
 152A.This Part subject to Native Title (State Provisions) Act 1998
 Where the taking of land or an interest in land under this Part is a Part 3 act, a Part 4 act or a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the operation of this Part is subject to section 3.6, 4.5 or 5.3, as the case may be, of that Act.
-”.
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation (see endnotes 1a and 4).
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 4 reads as follows:
@@ -87,7 +84,6 @@ Division 4 — Land Administration Act 1997
 The amendments in this Division are to the Land Administration Act 1997.
 7.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
-“
 6A.Renewal etc. of certain tenures subject to Native Title (State Provisions) Act 1999
 (1) Where the exercise of a power under this Act to renew, re-grant or extend a non-exclusive tenure of land is a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the exercise of the power is subject to section 4.3 of that Act.
 (2) In subsection (1) —
@@ -96,11 +92,9 @@ non-exclusive tenure of land means an interest under —
 (b)a licence; or
 (c)other authority,
 that permits the use of the land but does not confer a right of exclusive possession.
-”.
 8.Section 151 amended
 Section 151(1) is amended as follows:
 (a) by inserting in the appropriate alphabetical positions the following definitions —
-“
 approved determination of native title means an approved determination of native title under the NTA where —
 (a)the effect of the determination is that the person concerned —
 (i)holds native title; or
@@ -109,17 +103,12 @@ in relation to the land affected by the taking;
 (b)it is apparent from the terms of, or reasons for, the determination that the person concerned held native title in relation to the land affected by the taking immediately before the taking; or
 (c)it is not apparent from the terms of, or reasons for, the determination that native title did not exist in relation to the land affected by the taking immediately before the taking;
 registered native title body corporate and registered native title claimant have the same meaning as they have in the NTA;
-”;
 (b) in the definition of proprietor in paragraph (b) by inserting after “registered” —
-“
 , or a registered native title body corporate or registered native title claimant in relation to the land
-”.
 9.Section 152A inserted
 After section 152 the following section is inserted —
-“
 152A.This Part subject to Native Title (State Provisions) Act 1999
 Where the taking of land or an interest in land under this Part is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of this Part is subject to section 2.6, 3.5, or 4.3 of that Act.
-”.
 10.Section 153 amended
 Section 153(3) is amended in paragraph (a) of the definition of in accordance with the NTA as follows:
 (a) by deleting “5” in the 3 places where it occurs and inserting instead —
@@ -128,9 +117,7 @@ Section 153(3) is amended in paragraph (a) of the definition of in accordance wi
 “ 1999 ”.
 11.Section 154 amended
 (1) Section 154(1)(b) is deleted and the following paragraph is inserted instead —
-“
 (b) the taking of those interests would be a compulsory acquisition that is referred to in section 26(1)(c)(iii) of the NTA.
-”.
 (2) Section 154(3) is amended in the definition of in accordance with the NTA as follows:
 (a) in paragraph (a) —
 (i) by deleting “Part 3” in the 3 places where it occurs and inserting instead —
@@ -144,9 +131,7 @@ Section 153(3) is amended in paragraph (a) of the definition of in accordance wi
 “ 1999 ”.
 12.Section 156 amended
 After section 156(2) the following subsection is inserted —
-“
 (2a) The entitlement of native title holders to compensation under Part 10 is an entitlement to compensation on just terms for any loss, diminution or impairment of, or other effect of the taking on, their native title rights and interests.
-”.
 13.Section 157 amended
 Section 157 is amended by inserting after “native title holders” —
 “ or a registered native title body corporate ”.
@@ -156,127 +141,89 @@ Section 158 is repealed.
 (1) Section 162(2) is amended by deleting “In” and inserting instead —
 “ Subject to subsection (3), in ”.
 (2) After section 162(2) the following subsection is inserted —
-“
 (3) Subsection (2) does not apply if the interest taken is a native title right or interest.
-”.
 16.Section 163 amended
 Section 163 is amended by deleting “of the Minister or of the principal proprietor of the land.” and inserting instead —
-“
 of —
 (c) the Minister;
 (d) the principal proprietor of the land; or
 (e) if there is a registered native title body corporate or registered native title claimant in relation to the land, that body corporate or claimant.
-”.
 17.Section 170 amended
 Section 170(5)(b) is amended by inserting after “occupier of the land” —
-“
 , any registered native title body corporate or registered native title claimant in relation to the land,
-”.
 18.Section 175 amended
 Section 175(1)(a) is amended after subparagraph (ii) by deleting “or” and inserting instead —
-“
 (iia) any registered native title body corporate or registered native title claimant in relation to land affected by the notice;
 (iib) the holder of any native title rights and interests in land affected by the notice; or
-”.
 19.Section 176 amended
 Section 176(1) is amended by deleting “, a lease of Crown land or” and inserting instead —
 “ or a lease of Crown land or the holders of ”.
 20.Section 182 amended
 Section 182(2) is amended by deleting “and to” and inserting instead —
-“
 any registered native title body corporate or registered native title claimant, and
-”.
 21.Section 183 amended
 Section 183(2)(a) is amended by deleting “and to” and inserting instead —
-“
 any registered native title body corporate or registered native title claimant, and
-”.
 22.Section 184 amended
 Section 184(3) is amended by deleting “and to” and inserting instead —
-“
 any registered native title body corporate or registered native title claimant, and
-”.
 23.Section 185 amended
 Section 185(3) is amended by deleting “and to” and inserting instead —
-“
 any registered native title body corporate or registered native title claimant in relation to the land, and
-”.
 24.Section 186 amended
 Section 186(3)(a) is amended by deleting “and to” and inserting instead —
-“
 any registered native title body corporate or registered native title claimant, and
-”.
 25.Section 206 amended
 Section 206(1) is amended by inserting after “interest in land” —
 “ , other than a native title right or interest, ”.
 26.Section 207 amended
 After section 207(2) the following subsection is inserted —
-“
 (2a) The time limit (whether it has expired or not) under this section must, on the application of a person who wishes to make a claim in respect of the taking of native title rights and interests, be extended if an approved determination of native title is made in relation to the land to which the claim relates.
-”.
 27.Section 212 amended
 After section 212(2) the following subsection is inserted —
-“
 (3) If the acquiring authority does transfer property, provide goods and services or provide another form of compensation in accordance with a request —
 (a) the transfer of property, provision of goods and services or provision of another form of compensation constitutes full or part compensation under this Part, as the case may be; and
 (b) the entitlement to compensation is taken to have been determined in accordance with the provisions of this Part.
-”.
 28.Section 214 amended
 (1) Section 214(2) is amended by deleting “If” and inserting instead —
 “ Subject to subsection (3), if ”.
 (2) After section 214(2) the following subsection is inserted —
-“
 (3) Subsection (2) does not operate to bar a claim in respect of native title rights and interests if —
 (a) during or after the 60 day period, or any extended time, referred to in that subsection an approved determination of native title is made in relation to the land to which the claim relates; and
 (b) the particulars required under this section are furnished within 60 days after that determination is made.
-”.
 29.Section 216 amended
 (1) Section 216(1) is amended by inserting after “A claimant may,” —
 “ subject to subsection (4), ”.
 (2) After section 216(3) the following subsection is inserted —
-“
 (4) An application cannot be made under subsection (1) if the notice disputing the title of the claimant relates to native title rights and interests.
-”.
 30.Section 217 amended
 Section 217(2) is amended as follows:
 (a) by deleting the passage beginning “If a judgment” and ending “under dispute,” and inserting instead —
-“
 If —
 (a) a judgment of the Supreme Court under section 216 confirms, in whole, or in part, a claimant’s title to an interest in land under dispute; or
 (b) in the case of a claimant to whom section 216(4) applies, an approved determination of native title is made in relation to the claimant,
-”;
 (b) by inserting after “confirmed” —
 “ or determined ”.
 31.Section 221 amended
 Section 221(2)(b) is deleted and the following paragraph is inserted instead —
-“
 (b) if the title of the claimant was disputed then —
 (i) if the Supreme Court confirmed the claimant’s title, in whole or in part, under section 216 — the day of the judgment; or
 (ii) if an approved determination of native title was made in relation to the claimant — the day of the determination.
-”.
 32.Section 223 amended
 Section 223(7) is amended by deleting “the judgment of the Supreme Court on that issue under section 216” and inserting instead —
-“
 —
 (a) the judgment of the Supreme Court on that issue under section 216; or
 (b) in the case of a claimant to whom section 216(4) applies, the outcome of any native title determination application made by the claimant under section 61 of the NTA.
-”.
 33.Section 224 amended
 Section 224(7) is amended by deleting “the judgment of the Court under section 216” and inserting instead —
-“
 —
 (a) the judgment of the Supreme Court under section 216; or
 (b) in the case of a claimant to whom section 216(4) applies, the outcome of any native title determination application made by the claimant under section 61 of the NTA.
-”.
 34.Section 241 amended
 (1) Section 241(1) is amended by deleting “taken under this Part” and inserting instead —
-“
 , other than native title rights and interests, taken under Part 9
-”.
 (2) After section 241(1) the following subsection is inserted —
-“
 (1a) In determining the amount of compensation (if any) to be offered, paid, or awarded for native title rights and interests taken under Part 9, regard may be had to the matters referred to in this section.
-”.
 The Land Administration Amendment Act 2000 s. 8(6), (7) and (8) read as follows:
 (6) Despite section 18(6) of the Land Administration Act 1997, an act —
 (a) done in contravention of section 18(1), (2), (3) or (4) of that Act on or before the coming into operation of this section;
@@ -303,7 +250,7 @@ The Land Administration Amendment Act 2000 s. 18(2) reads as follows:
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 13(3) reads as follows:
 (3) The application of section 170 of the Land Administration Act 1997 as amended by this section extends to a notice of intention, as defined in section 151 of that Act, that is current at the commencement of this section.
 The Prescription Act 1832 (UK) is an Imperial Act adopted in WA by the Imperial Acts Adopting Act 1836.
-The Acts Amendment (Land Administration) Act 1997 (No. 31 of 1997) commenced on 30 Mar 1998. See s. 2 and Gazette 27 Mar 1998 p. 1765.
+The Acts Amendment (Land Administration) Act 1997 commenced on 30 Mar 1998. See s. 2 and Gazette 27 Mar 1998 p. 1765.
 The Discharged Soldiers Settlement Act 1918 was repealed by the Miscellaneous Repeals Act 1986.
 The Permanent Reserves Act 1899 was repealed by the Native Flora Protection Act 1935, which was repealed by the Wildlife Conservation Act Amendment Act 1976.
 The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 22 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 75(4).
@@ -376,7 +323,7 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) If a matter has been partly or fully heard, but not determined, by a Compensation Court under the Land Administration Act 1997 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 11 — Land Administration Act 1997 amended
 298.Act amended
@@ -397,7 +344,7 @@ public health has the meaning given in the Public Health Act 2016 section 4(1).
 (i) consult with the management body of the reserve or, if there is no management body, the Minister; and
 (ii) consider any advice provided by the management body or, as the case requires, the Minister.
 (5) If there is a conflict or inconsistency between a local law made by the Chief Health Officer under subsection (2) and a local law made by a local government under the Local Government Act 1995 or any other Act, the local law made by the Chief Health Officer prevails to the extent of the conflict or inconsistency.
-On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 318 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biodiversity Conservation Act 2016 s. 318 had not come into operation. It reads as follows:
 318.Land Administration Act 1997 amended
 (1) This section amends the Land Administration Act 1997.
 (2) In section 117:
@@ -453,7 +400,7 @@ Crown land interest holder275A(1)
 Crown lease3(1)
 date of taking151(1)
 dealing3(1)
-deemed application143(6)
+deemed application143(6)(c)
 Department3(1), 202(4)
 designate151(1)
 designated151(1)
@@ -477,8 +424,8 @@ inundated land3(1)
 land3(1)
 land administration expertise3(1)
 land district3(1)
+landholder87(3)(c)
 land reservedSch. 3 cl. 1
-landholder87(3)
 lease3(1)
 licence3(1)
 location3(1)
@@ -503,7 +450,7 @@ notice of intention151(1)
 NTA151(1)
 occupier151(1)
 order3(1)
-original portion176(1)
+original portion176(1)(a)
 pastoral lease3(1), 101(1)
 pastoral lessee3(1)
 pastoral purposes93
@@ -547,7 +494,7 @@ return date113(1)
 road3(1)
 scheme3(1)
 second Act200(2)
-small portion176(1)
+small portion176(1)(b)
 soil conservation notice93
 special Act151(1)
 specified purpose144(4)
@@ -562,7 +509,7 @@ subsidiary certificate of Crown land title3(1)
 survey mark268(3)
 take151(1)
 taken151(1)
-taker87(3)
+taker87(3)(c)
 taking151(1)
 taking order151(1)
 TLA3(1)
