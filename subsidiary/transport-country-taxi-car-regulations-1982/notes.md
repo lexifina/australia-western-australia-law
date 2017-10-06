@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport (Country Taxi-car) Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 October 2017 of the Transport (Country Taxi-car) Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Transport (Country Taxi-car) Regulations 1982 | 23 Jul 1982 p. 2853-61 (erratum 30 Jul 1982 p. 2957) | 1 Aug 1982 (see r. 2 and Gazette 23 Jul 1982 p. 2842)
@@ -55,9 +55,9 @@ Transport (Country Taxi-car) Amendment Regulations 2015 | 12 Jun 2015 p. 2035 | 
 On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 3 | 27 May 2016 p. 1554-6 | 1 Jul 2016 (see r. 2(b))
 On-demand Transport Regulations Amendment Regulations 2016 Pt. 6 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 7 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
+Reprint 5: The Transport (Country Taxi-car) Regulations 1982 as at 6 Oct 2017 (includes amendments listed above)
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
-Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
-If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
+Now known as the registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -68,7 +68,7 @@ for hire sign29(4)
 ordinary taxi-car licence4
 regulation4
 subregulation4
+taxi-car licence4
 taxi for hire sign29(4)
 taxi sign29(4)
-taxi-car licence4
 temporary taxi-car licence4
