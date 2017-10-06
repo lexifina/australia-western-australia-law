@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This reprint is a compilation as at 6 October 2017 of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Financial Management Act 2006 | 76 of 2006 | 21 Dec 2006 | s. 1 and 2: 21 Dec 2006; Act other than s. 1 and 2: 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
@@ -35,19 +35,19 @@ Health Services Act 2016 s. 289 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 3 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 22 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
 Financial Management (Statutory Authorities) Regulations 2017 published in Gazette 8 Sep 2017 p. 4698 | r. 1 and 2: 8 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Sep 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Financial Management Act 2006 as at 6 Oct 2017 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
-Biodiversity Conservation Act 2016 s. 315 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Biodiversity Conservation Act 2016 s. 315 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
-On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 had not come into operation. It reads as follows:
+The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+On the date as at which this reprint was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 had not come into operation. It reads as follows:
 15.Financial Management Act 2006 amended
 (1) This section amends the Financial Management Act 2006.
 (2) In Schedule 1 delete the item relating to the Potato Marketing Corporation of Western Australia.
-Footnote no longer applicable.
-The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 315 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biodiversity Conservation Act 2016 s. 315 had not come into operation. It reads as follows:
 315.Financial Management Act 2006 amended
 (1) This section amends the Financial Management Act 2006.
 (2) In section 23(1) in the definition of prescribed receipts paragraph (b) delete “fauna or”.
