@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 March 2017 of the Road Traffic (Drug Driving) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Drug Driving) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Drug Driving) Regulations 2007 | 11 Oct 2007 p. 5483-500 | r. 1 and 2: 11 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2007 (see r. 2(b) and Gazette 11 Oct 2007 p. 5475)
@@ -11,3 +11,4 @@ Road Traffic (Drug Driving) Amendment Regulations 2015 | 6 Mar 2015 p. 817-19 | 
 Road Traffic (Drug Driving) Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 5182 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Road Traffic Regulations Amendment Regulations 2017 Pt. 3 | 7 Feb 2017 p. 1171-7 | 10 Mar 2017 (see r. 2(b) and Gazette 7 Feb 2017 p. 1158-9)
 Reprint 1: The Road Traffic (Drug Driving) Regulations 2007 as at 10 Mar 2017 (includes amendments listed above)
+Road Traffic (Drug Driving) Amendment Regulations 2017 | 6 Oct 2017 p. 5185-6 | r. 1 and 2: 6 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2017 (see r. 2(b))
