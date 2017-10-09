@@ -1,6 +1,6 @@
 ### Terms used
 In this Schedule —
-hazard perception test means a test under regulation 16(2)(d);
+hazard perception test means a test under regulation 16A(2)(c) or 16B(2)(a);
 practical driving assessment —
 (a)in relation to an application for a driver’s licence, means a driving test to satisfy the CEO that the applicant is able to control a motor vehicle of the appropriate class;
 (b)in relation to an application by the holder of a driver’s licence for a condition or limitation endorsed on the licence to be revoked, means a driving test to satisfy the CEO that the condition or limitation should be revoked;
@@ -25,6 +25,6 @@ theory test means a theory test to satisfy the CEO that the applicant has a reas
 8. | Application for the endorsement of a driver’s licence under regulation 12(2) to show that it includes extension T | 108.50
 9. | First hazard perception test in respect of a driver’s licence application | 21.20
 10 | Each additional hazard perception test in respect of a driver’s licence application | 14.10
-11 | Fee for logbook under regulation 16(2)(a) or (c) | 18.70
+11 | Fee for logbook referred to in regulation 16A(2)(b)(ii) | 18.70
 12 | Copy of excessive demerit points notice as defined in section 40(1) previously given to a person | 21.10
-[Schedule 9 amended in Gazette 27 May 2015 p. 1875; 27 May 2016 p. 1552; 26 May 2017 p. 2642.]
+[Schedule 9 amended in Gazette 27 May 2015 p. 1875; 27 May 2016 p. 1552; 26 May 2017 p. 2642; 3 Oct 2017 p. 5054.]
