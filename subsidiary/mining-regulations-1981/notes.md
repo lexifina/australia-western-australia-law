@@ -153,6 +153,7 @@ The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) read as follows:
 (8) In subregulation (7) —
 commencement day means the day on which these regulations come into operation;
 existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
+Disallowed on 12 Oct 2017 see Gazette 17 Oct 2017 p. 5345.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
