@@ -23,6 +23,8 @@ Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 | 17 Jun 
 Tobacco Products Control Amendment Regulations (No. 3) 2016 | 26 Jul 2016 p. 3150 | r. 1 and 2: 26 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b) and Gazette 26 Jul 2016 p. 3145)
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 34 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
+Reprint 3: The Tobacco Products Control Regulations 2006 as at 13 Oct 2017 (includes amendments listed above)
+Repealed by the Competition and Consumer (Tobacco) Information Standard 2011 cl. 1.7.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -40,8 +42,8 @@ liquor licensed premises3
 non-smoking zone16A
 price ticket30
 representative3
-retail premises30
 retailer30
+retail premises30
 roof7
 sales place30
 section3

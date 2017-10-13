@@ -1,6 +1,6 @@
 ## Schedule 4 — Prescribed offences and modified penalties
 [r. 60]
-[Heading inserted in Gazette 10 Sep 2010 p. 4395.]
+[Heading inserted: Gazette 10 Sep 2010 p. 4395.]
 Offences under Tobacco Products Control Act 2006 | Modified penalty $
 s. 6 | 1 000
 s. 7 | 1 000
@@ -59,4 +59,4 @@ r. 36(1) | 300
 r. 36(2) | 300
 r. 36(3) | 300
 r. 37 | 300
-[Schedule 4 inserted in Gazette 10 Sep 2010 p. 4395-7.]
+[Schedule 4 inserted: Gazette 10 Sep 2010 p. 4395-7.]
