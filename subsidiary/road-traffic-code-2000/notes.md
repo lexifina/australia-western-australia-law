@@ -59,11 +59,68 @@ Road Traffic Code Amendment Regulations 2016 | 15 Nov 2016 p. 5061-2 | r. 1 and 
 Reprint 5: The Road Traffic Code 2000 as at 9 Dec 2016 (includes amendments listed above)
 Road Traffic Code Amendment Regulations (No. 2) 2017 | 25 Jul 2017 p. 4078-80 | r. 1 and 2: 25 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 4) 2017 | 22 Aug 2017 p. 4503-4 | r. 1 and 2: 22 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Aug 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic Code Amendment Regulations (No. 3) 2017 r. 3-9 | 17 Oct 2017 p. 5338-41 | 13 Dec 2017 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
+On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations (No. 3) 2017 r. 3-9 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Road Traffic Code 2000.
+4.Regulation 3 amended
+(1) In regulation 3(1) insert in alphabetical order:
+speed limit, applicable to —
+(a)a heavy vehicle speed zone, means the speed indicated by the numerals on the “heavy vehicle speed zone” sign at the beginning of the zone;
+(b)a school zone, means the speed indicated by the numerals on the “school zone” sign at the beginning of the zone;
+(c)a speed limited area, means the speed indicated by the numerals on the “area speed limit” sign on a road leading into the area;
+(d)a speed zone, means the speed indicated by the numerals on the speed limit sign, at the beginning of the zone;
+(2) After regulation 3(1) insert:
+(2) For the purposes of these regulations, a reference to speed is a reference to speed measured in kilometres per hour.
+5.Regulation 11 amended
+(1) In regulation 11(3) delete “exceeding, in kilometres per hour, that indicated by the numerals on the speed limit sign, at the beginning of the speed zone.” and insert:
+exceeding the speed limit applicable to the zone.
+(2) In regulation 11(5) delete “exceeding, in kilometres per hour, that indicated by the numerals on the “area speed limit” sign erected on a road leading into that area.” and insert:
+exceeding the speed limit applicable to the area.
+(3) In regulation 11(6):
+(a) in paragraph (a) delete “exceeding, in kilometres per hour, that indicated by the numerals on; and” and insert:
+exceeding the speed limit applicable to the zone; and
+(b) delete paragraph (b) and the passage that begins “the “school zone” sign” and continues to the end of the regulation and insert:
+(b) during the school zone periods indicated on the “school zone” sign at the beginning of the zone.
+6.Regulation 12 amended
+In regulation 12 delete “speed limit unless —” and insert:
+speed limit applicable to the zone unless —
+7.Regulation 14 amended
+In regulation 14 delete “indicated by numbers shown on the “heavy vehicle speed zone” sign.” and insert:
+applicable to the zone.
+8.Regulation 16 amended
+In regulation 16 delete “in kilometres per hour”.
+9.Regulation 18A inserted
+At the end of Part 3 insert:
+18A.Evasive action in relation to speed camera
+(1) In this regulation —
+average speed detection system has the meaning given in the Road Traffic (Administration) Act 2008 section 117B(1);
+speed measuring and recording equipment has the meaning given in the Road Traffic (Administration) Act 2008 section 117(1).
+(2) A person must not drive a motor vehicle on a road if the vehicle is fitted with any device or other equipment that would prevent or adversely affect the operation of speed measuring and recording equipment or an average speed detection system.
+Points:
+(a)during a holiday period: 14
+(b)other than during a holiday period: 7
+Modified penalty:
+(a)when driving a heavy vehicle: 30 PU
+(b)when driving a motor vehicle other than a heavy vehicle: 24 PU
+(3) A person must not drive a motor vehicle on a road in a manner that would prevent or adversely affect the operation of speed measuring and recording equipment or an average speed detection system.
+Points:
+(a)during a holiday period: 14
+(b)other than during a holiday period: 7
+Modified penalty:
+(a)when driving a heavy vehicle: 30 PU
+(b)when driving a motor vehicle other than a heavy vehicle: 24 PU
+(4) A person who commits an offence against regulation 109, 112, 116, 117 or 129 (a road positioning offence) is taken to have also committed an offence against subregulation (3) if the road positioning offence is committed within 100 m of —
+(a) speed measuring and recording equipment; or
+(b) the detection points, as defined in the Road Traffic (Administration) Act 2008 section 117B(1), for an average speed detection system.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
