@@ -19,6 +19,7 @@ Petroleum Products Pricing Amendment Regulations 2014 | 15 Aug 2014 p. 2933-7 | 
 Petroleum Products Pricing Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4322-4 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Petroleum Products Pricing Amendment Regulations 2015 | 15 May 2015 p. 1719-20 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2015 (see r. 2(b))
 Petroleum Products Pricing Amendment Regulations 2016 | 21 Oct 2016 p. 4782 | r. 1 and 2: 21 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Oct 2016 (see r. 2(b))
+Petroleum Products Pricing Amendment Regulations 2017 | 17 Oct 2017 p. 5335-7 | r. 1 and 2: 17 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Oct 2017 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection was called the Department of Commerce.
 The Petroleum Products Pricing Amendment Regulations 2001 r. 8 reads as follows:
 8.Defence during transitional period
@@ -43,8 +44,8 @@ Defined termProvision(s)
 calendar month10(3)
 day2A
 kinds offered6(2)
-Perth metropolitan region4(2)
+Perth metropolitan region2AA
 regular unleaded petrol6(7)
 retail sale2A
 standard retail sale6(7)
-townsite4(2)
+townsite2AA
