@@ -35,6 +35,7 @@ Reprint 6: The Constitution Act 1889 as at 13 Jul 2007 (includes amendments list
  | Standardisation of Formatting Act 2010 s. 13 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 20 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
  | Constitution Amendment (Recognition of Aboriginal People) Act 2015 | 22 of 2015 | 17 Sep 2015 | 17 Sep 2015 (see s. 2)
+ | Constitution Amendment (Demise of the Crown) Act 2017 | 9 of 2017 | 25 Oct 2017 | s. 1 and 2: 25 Oct 2017 (see s. 2(a)); Act other than s. 1 and 2: 26 Oct 2017 (see s. 2(b))
 N.B.:The Constitution Act 1889 was or is affected by —
 An Act to augment Ministerial Salaries. 55 Vict. No. 23 (1892). (Repealed by 60 Vict. No. 18.)
 The Officers of Parliament Act 1893. (56 Vict. No. 17). (Repealed by 63 Vict. No. 19.)
