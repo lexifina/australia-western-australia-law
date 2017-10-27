@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Cremation Act 1929 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Cremation Act 1929 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cremation Act 1929 | 22 of 1929 (20 Geo. V No. 20) | 11 Dec 1929 | 11 Dec 1929
@@ -25,14 +25,13 @@ Reprint 5: The Cremation Act 1929 as at 4 Jul 2008 (includes amendments listed a
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 14 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Associations Incorporation Act 2015 s. 213 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 9 and Pt. 5 Div. 4 (s. 284 and 285(1)) | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 9: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 4 (s. 284 and 285(1)): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Public Health (Consequential Provisions) Act 2016 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 9: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 4 (s. 284 and 285(1): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
+Reprint 6: The Cremation Act 1929 as at 27 Oct 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 285(2) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 285(2) had not come into operation. It reads as follows:
-285.Section 8A amended
-(2) In section 8A(b) delete “Health (Miscellaneous Provisions) Act 1911 or the”.
+Other notes
 The renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in the 1943 reprint.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined terms
