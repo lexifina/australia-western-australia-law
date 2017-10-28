@@ -64,10 +64,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Graffiti Vandalism Act 2016 Pt. 6 Div. 2 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016 (see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
  | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 18 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Local Government Legislation Amendment Act 2016 Pt. 2 | 26 of 2016 | 21 Sep 2016 | Pt. 2 (other than s. 4, 6-9, 11 and 17): 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035); s. 4, 6-9, 11 and 17: 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+ | Local Government Amendment (Auditing) Act 2017 (other than s. 4(2) and 7(2)) | 5 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(b) and Gazette 27 Oct 2017 p. 5413)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Local Government Amendment (Auditing) Act 2017 s. 3-22 | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(b) and (c))
+Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -235,235 +236,14 @@ the LG Act means the Local Government Act 1995.
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this compilation was prepared, the Local Government Amendment (Auditing) Act 2017 s. 3-22 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Local Government Act 1995.
+On the date as at which this compilation was prepared, the Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) had not come into operation. They read as follows:
 4.Section 1.4 amended
-(1) In section 1.4 delete the definition of auditor and insert:
-auditor means —
-(a)in relation to an audit, other than a performance audit —
-(i)in relation to a local government that has an audit contract that is in force — a person for the time being appointed under Part 7 Division 2 to be the auditor of the local government; and
-(ii)in relation to a local government that does not have an audit contract that is in force — the Auditor General;
-and
-(b)in relation to a performance audit — the Auditor General;
 (2) In section 1.4 delete the definition of auditor and insert:
 auditor means the Auditor General;
-5.Section 3.64 amended
-In section 3.64(e) delete “chairman” (each occurrence) and insert:
-chairperson
-6.Section 3.70A inserted
-After section 3.70 insert:
-3.70A.Audit requirements for regional subsidiaries
-(1) Section 7.1 and the provisions of Part 7 Divisions 3A to 4 apply in relation to a regional subsidiary as if the regional subsidiary were a local government.
-(2) The application of a provision under subsection (1) is subject to any prescribed or necessary modifications to the provision provided for in the regulations.
 7.Section 5.53 amended
-(1) Delete section 5.53(2)(h) and insert:
-(h) the auditor’s report prepared under section 7.9(1) or 7.12AD(1) for the financial year; and
 (2) Delete section 5.53(2)(h) and insert:
 (h) the auditor’s report prepared under section 7.12AD(1) for the financial year; and
-8.Section 5.55A inserted
-After section 5.55 insert:
-5.55A.Publication of annual reports
-The CEO is to publish the annual report on the local government’s official website within 14 days after the report has been accepted by the local government.
-9.Section 5.94 amended
-After section 5.94(t) insert:
-(ta) a report on a supplementary audit prepared under section 7.12AH(1);
-10.Section 7.1 amended
-(1) In section 7.1 delete “Part —” and insert:
-Part, unless the contrary intention appears —
-(2) In section 7.1 insert in alphabetical order:
-audit has the meaning given in the Auditor General Act section 4(1);
-audit contract means an agreement in writing that —
-(a)was made under section 7.8(1); and
-(b)was in force immediately before commencement day;
-Auditor General Act means the Auditor General Act 2006;
-audit report means a report prepared by an auditor on a local government audit;
-commencement day means the day on which the Local Government Amendment (Auditing) Act 2017 section 10 comes into operation;
-financial audit means an audit conducted under section 7.12AB;
-local government audit means —
-(a)an audit conducted under this Part; or
-(b)a performance audit;
-performance audit means an examination or investigation carried out under the Auditor General Act section 18 (as applied by section 7.12AJ(1) of this Act);
-supplementary audit means an audit conducted under section 7.12AG.
-(3) In section 7.1 in the definition of regulations delete “Part.” and insert:
-Part;
-11.Section 7.1A amended
-In section 7.1A(3) delete “him or her” and insert:
-the CEO
-12.Section 7.1D inserted
-At the beginning of Part 7 Division 2 insert:
-7.1D.Application
-This Division applies in relation to a local government that has an audit contract that is in force.
-13.Section 7.3 amended
-(1) In section 7.3(1) delete “A local” and insert:
-Subject to subsection (1A), a local
-(2) After section 7.3(1) insert:
-(1A) A local government cannot appoint a person to be its auditor after commencement day.
-14.Section 7.7 amended
-(1) In section 7.7 delete “If” and insert:
-(1) Subject to subsection (2), if
-(2) At the end of section 7.7 insert:
-(2) The Departmental CEO cannot appoint a person to be the auditor of a local government after commencement day.
-15.Section 7.8A inserted
-At the beginning of Part 7 Division 3 insert:
-7.8A.Application
-This Division applies in relation to a local government that has an audit contract that is in force.
-16.Section 7.9 amended
-In section 7.9(4) delete “government to be dealt with under section 7.12A.” and insert:
-government.
-17.Section 7.11 amended
-In section 7.11 delete “inspection or inquiry,”.
-18.Part 7 Divisions 3A to 3D inserted
-After Part 7 Division 3 insert:
-Division 3A — Financial audit
-7.12AA.Application
-This Division applies in relation to a local government that does not have an audit contract that is in force.
-7.12AB.Conducting a financial audit
-The auditor must audit the accounts and annual financial report of a local government at least once in respect of each financial year.
-7.12AC.Dispensing with a financial audit
-(1) Despite section 7.12AB, the auditor may dispense with all or any part of a financial audit if the auditor considers that the dispensation is appropriate in the circumstances.
-(2) The auditor must consult the Minister before exercising the power conferred by subsection (1).
-(3) If the auditor exercises the power conferred by subsection (1), the auditor must notify —
-(a) the Public Accounts Committee as defined in the Auditor General Act section 4(1); and
-(b) the Estimates and Financial Operations Committee as defined in the Auditor General Act section 4(1).
-7.12AD.Reporting on a financial audit
-(1) The auditor must prepare and sign a report on a financial audit.
-(2) The auditor must give the report to —
-(a) the mayor, president or chairperson of the local government; and
-(b) the CEO of the local government; and
-(c) the Minister.
-7.12AE.Fees for a financial audit
-(1) The auditor must determine whether a fee is to be charged for a financial audit of a local government and if so, the amount of that fee.
-(2) A fee determined under subsection (1) must be paid by the local government.
-Division 3B — Supplementary audit
-7.12AF.Application
-This Division applies in relation to a local government that does not have an audit contract that is in force.
-7.12AG.Conducting a supplementary audit
-The auditor may audit any particular aspect of the accounts of a local government that the Minister requests the auditor to audit.
-7.12AH.Reporting on a supplementary audit
-(1) The auditor must prepare and sign a report on a supplementary audit.
-(2) The auditor must give the report to the Minister.
-(3) The Minister —
-(a) may give a copy of the report to the mayor, president or chairperson of the local government, and to the CEO of the local government; and
-(b) may request the CEO of the local government to publish the report on the local government’s official website.
-(4) The CEO must publish a copy of the report on the local government’s official website within 14 days after receiving a request under subsection (3)(b).
-7.12AI.Fees for a supplementary audit
-(1) The auditor must determine whether a fee is to be charged for a supplementary audit of a local government and if so, the amount of that fee.
-(2) A fee determined under subsection (1) must be paid by the local government.
-Division 3C — Performance audit
-7.12AJ.Conducting a performance audit
-(1) The Auditor General Act section 18 applies in relation to a local government as if —
-(a) the local government were an agency; and
-(b) money collected, received or held by any person for or on behalf of the local government were public money; and
-(c) money collected, received or held by the local government for or on behalf of a person other than the local government were other money; and
-(d) property held for or on behalf of the local government, other than money referred to in paragraph (b), were public property; and
-(e) property held by the local government for or on behalf of a person other than the local government were other property; and
-(f) the reference in the Auditor General Act section 18(2)(d) to “legislative provisions, public sector policies or its own internal policies;” were a reference to “legislative provisions or its own internal policies;”.
-(2) A performance audit is taken for the purposes of the Auditor General Act to have been carried out under the Auditor General Act Part 3 Division 1.
-7.12AK.Reporting on a performance audit
-(1) The Auditor General Act section 25 applies in relation to a performance audit as if —
-(a) a local government were an agency; and
-(b) the council of the local government were its accountable authority.
-(2) The auditor must give a report on a performance audit to the local government.
-Division 3D — Other audits
-7.12AL.Audits of accounts of related entities and certain subsidiary bodies
-The Auditor General Act sections 16 and 17 apply in relation to a local government as if —
-(a) the local government were an agency; and
-(b) the council of the local government were its accountable authority.
-19.Section 7.12A amended
-(1) In section 7.12A(1)(a) delete “his or her” and insert:
-the auditor’s
-(2) In section 7.12A(3):
-(a) delete “is to examine the report of the auditor prepared under section 7.9(1), and any report prepared under section 7.9(3) forwarded to it, and is to —” and insert:
-must —
-(b) before paragraph (a) insert:
-(aa) examine an audit report received by the local government; and
-(c) in paragraph (a) delete “report, or reports,” and insert:
-audit report,
-(3) Delete section 7.12A(4) and insert:
-(4) A local government must —
-(a) prepare a report addressing any matters identified as significant by the auditor in the audit report, and stating what action the local government has taken or intends to take with respect to each of those matters; and
-(b) give a copy of that report to the Minister within 3 months after the audit report is received by the local government.
-(5) Within 14 days after a local government gives a report to the Minister under subsection (4)(b), the CEO must publish a copy of the report on the local government’s official website.
-20.Section 7.13 amended
-In section 7.13(1):
-(a) delete “provision —” and insert:
-provision as follows —
-(b) delete paragraphs (aa), (ab), (ac) and (ad) and insert:
-(aa) as to the functions of a CEO in relation to —
-(i) a local government audit; and
-(ii) a report (an action report) prepared by a local government under section 7.12A(4)(a); and
-(iii) an audit report; and
-(iv) a report on an audit conducted by a local government under this Act or any other written law;
-(ab) as to the functions of an audit committee, including in relation to —
-(i) the selection and recommendation of an auditor under Division 2; and
-(ii) a local government audit; and
-(iii) an action report; and
-(iv) an audit report; and
-(v) a report on an audit conducted by a local government under this Act or any other written law;
-(ac) as to the procedure to be followed in selecting an auditor under Division 2;
-(c) in paragraph (ae) delete “a report by an auditor;” and insert:
-an audit report;
-(d) in paragraph (a) delete “agreements between local governments and auditors;” and insert:
-an agreement in writing (agreement) made under section 7.8(1);
-(e) delete paragraph (b) and insert:
-(b) for notifications and reports to be given in relation to an agreement, including any variations to, or termination of an agreement;
-(f) in paragraph (ba) delete “the copies of agreements between local governments and auditors” and insert:
-a copy of an agreement
-(g) in paragraph (c) delete “auditor;” and insert:
-auditor under section 7.5;
-(h) in paragraph (d) delete “for —” and insert:
-for the following —
-(i) in paragraph (f) delete “by auditors in their reports;” and insert:
-in an audit report;
-(j) delete paragraphs (g) and (h) and insert:
-(g) requiring an auditor (other than the Auditor General) to provide the Minister with prescribed information as to an audit conducted by the auditor;
-(h) prescribing the circumstances in which an auditor (other than the Auditor General) is to be considered to have a conflict of interest and requiring an auditor (other than the Auditor General) to disclose in an audit report such information as to a possible conflict of interest as is prescribed;
-21.Schedule 9.3 amended
-(1) Delete Schedule 9.3 clause 32.
-(2) At the end of Schedule 9.3 insert:
-Division 4 — Provisions for the Local Government Amendment (Auditing) Act 2017
-49.Terms used
-In this Division —
-audit contract has the meaning given in section 7.1;
-commencement day has the meaning given in section 7.1.
-50.Minister to publish status of audit contracts
-During the period beginning on commencement day and ending on the day fixed by proclamation under the Local Government Amendment (Auditing) Act 2017 section 22(2), the Minister must publish on a website maintained by the Department a list of —
-(a) local governments that have an audit contract that is in force; and
-(b) local governments that do not have an audit contract that is in force.
-51.Audit contracts may be terminated after completion of FY17/18 audit
-(1) In this clause —
-FY17/18 audit, in relation to a local government, means an audit of the local government conducted under section 7.9(1) in respect of the financial year ending on 30 June 2018.
-(2) This clause applies in relation to a local government after the completion of the FY17/18 audit for the local government.
-(3) The Departmental CEO may give notice (a notice) to a local government specifying the date (the termination date) on which the audit contract for the local government is to terminate.
-(4) An audit contract in relation to which a notice is given is terminated by force of this provision on the termination date.
-(5) The Departmental CEO may give a notice on the Departmental CEO’s own initiative.
-(6) The Minister may —
-(a) request the Departmental CEO to give a notice to a local government; and
-(b) nominate the termination date to be specified in the notice.
-(7) On request by the Minister, the Departmental CEO must give a notice to the local government specifying the termination date nominated by the Minister.
-(8) A notice given or request made under this clause must be in writing.
-52.Audit contracts are terminated after completion of FY19/20 audit
-(1) In this clause —
-FY19/20 audit, in relation to a local government, means an audit of the local government conducted under section 7.9(1) in respect of the financial year ending on 30 June 2020.
-(2) An audit contract for a local government, unless earlier lawfully terminated, is terminated by force of this provision on completion of the FY19/20 audit for the local government.
-53.No breach of contract
-Anything that occurs by operation of this Division is not to be regarded as a breach of contract.
-54.Transitional regulations
-(1) In this clause —
-specified means specified or described in the regulations;
-transitional matter —
-(a)means a matter or issue of a transitional nature that arises as a result of the enactment of the Local Government Amendment (Auditing) Act 2017; and
-(b)includes a saving or application matter.
-(2) If there is not sufficient provision in this Division for dealing with a transitional matter, regulations under this Act may prescribe all matters that are required or necessary or convenient to be prescribed for dealing with the matter.
-(3) Regulations made under subclause (2) may provide that specified provisions of a written law —
-(a) do not apply to or in relation to any matter; or
-(b) apply with specified modifications to or in relation to any matter.
-(4) If regulations made under subclause (2) provide that a specified state of affairs is taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the day this clause comes into operation, the regulations have effect according to their terms.
-(5) If regulations made under subclause (2) contain a provision referred to in subclause (4), the provision does not operate so as —
-(a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication of those regulations; or
-(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-(6) Regulations made under subclause (2) in relation to a matter referred to in subclause (3) must be made within whatever period is reasonably and practicably necessary to deal with a transitional matter.
+The Local Government Amendment (Auditing) Act 2017 s. 22 reads as follows:
 22.Superseded provisions to be deleted
 (1) In this section —
 superseded provisions means the following provisions of the Local Government Act 1995 —
@@ -482,3 +262,253 @@ The description at the beginning of Part 7 is to be altered by:
 (a)deleting “the financial accounts of”;
 (b)deleting paragraph (a) and inserting:
 (a)the establishment of audit committees; and
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+75% majority1.4
+abandoned vehicle wreck3.40A(5)
+absent vote4.67(a)
+absolute majority1.4
+Absolute majority required1.9
+acquire3.59(1)
+action report7.13(1)
+additional purpose6.8(1a)
+address5.74(1)
+Advisory Board1.4
+affected electorsSch. 2.1 cl. 1, Sch. 2.2 cl. 1
+affected local governmentSch. 2.1 cl. 1
+affected person9.2
+agreement7.8, 7.13(1)
+alleged offender3.38
+amending ActSch. 9.3 cl. 14A(1), 42 and 45
+amending provisionSch. 9.3 cl. 44
+amount misapplied8.35(3)
+an authorised person8.3(6)(a) and (b)
+annual budget6.1
+annual return5.74(1)
+approved auditor7.1
+arrangement5.49(1)
+audit7.1
+audit committee7.1
+audit contract7.1, Sch. 9.3 cl. 49
+auditor1.4
+Auditor General Act7.1
+audit report7.1
+authorisation9.2
+authorised employee9.31
+authorised land officer9.69(1)
+authorised person8.1, 8.35(3), 9.13(1), 9.15
+Authority9.69(1)
+breach5.102A
+budget deficiency6.1
+campaign period5.123(3)
+candidate A4.81(4), Sch. 2.3 cl. 12(4)
+candidate B 4.81(4), Sch. 2.3 cl. 12(4)
+CEO1.4
+certified copy9.31
+close of enrolments4.39(1)
+close of nominations4.49(a)
+commencement day7.1, Sch. 9.3 cl. 1 and 49
+commissioner1.4
+committee5.1
+committee meeting5.98(7)
+complaints officer5.102A
+conditions5.44(5)
+continuing authoritySch. 9.3 cl. 1
+contravention that can lead to impounding3.38
+corporation5.74(1)
+council1.4
+councillor1.4
+councillor mayor or president1.4
+court3.26(5)
+Crown lands1.4
+Crown lease1.4
+Crown lessee1.4
+debt5.85(3)
+deceptive material4.88(4)
+decision5.125(2), 9.2
+Department1.4
+Departmental CEO1.4
+designated employee5.74(1), Sch. 9.3 cl. 1
+details4.52(3)
+determined5.98(1A)
+detriment4.85(4)
+differential general rate6.1
+dispose3.58(1), 3.59(1)
+disposition of real property5.86(3)
+disqualified2.27(1)
+disqualified person7.1, 7.4(2)
+district1.4
+districtsSch. 2.1 cl. 8(1)
+disused materialSch. 3.1 Div. 1
+early vote4.67(b)
+election4.1, 4.36(2), Sch. 2.3 cl. 10
+election day4.1
+election notice4.1, 4.64(2)
+election year1.4
+elector1.4
+Electoral Commissioner1.4
+electoral conduct4.85(4)
+Electoral Division4.1A(6)
+electoral material4.87(3)
+electoral officer4.1
+electoral requirements1.4, 4.1
+electoral roll4.1
+elector mayor or president1.4
+electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)(a)
+electors5.26
+eligible body5.49(1)
+employee1.4, 5.48(1), 5.70(1), 7.10(2)
+entitled person6.67(3)
+establishment agreement3.61(2)(b)
+existing rollSch. 9.3 cl. 12(1)
+extent5.59
+extraordinary election1.4, 4.8(3)
+extraordinary vacancySch. 2.3 cl. 1 and 6
+financial audit7.1
+financial year1.4
+former districtSch. 9.3 cl. 1
+former municipalitySch. 9.3 cl. 1
+former provisions2.22(3), Sch. 9.3 cl. 1
+former sectionSch. 9.3 cl. 38(1)
+former section 3003.53(1)
+former valuationSch. 6.1 cl. 1(2)
+FY17/18 auditSch. 9.3 cl. 51(1)
+FY19/20 auditSch. 9.3 cl. 52(1)
+general funds6.21(4)
+general rate6.1
+gift5.82(4)
+goods3.38
+Government agreement6.25
+gross rental value6.25
+inaugural election1.4, 4.2(2)
+income5.80(4)
+indictable penalty2.22(3)
+inquiry8.1
+Inquiry Panel1.4
+interest5.79(3), 5.84(2)
+interim valuation6.25
+invalidity complaint4.80(2), Sch. 2.3 cl. 11(2)
+judicial proceedings9.69(1)
+land transaction3.59(1)
+lease6.60(1)
+lessee6.60(1)
+lessor6.60(1)
+local government1.4, 9.15
+local government audit7.1
+local government property1.4
+local public notice1.4
+long service benefit5.48(1)
+major land transaction3.59(1)
+major trading undertaking3.59(1)
+making3.12(8)
+meeting minutes9.37(2)
+member1.4, 5.59, Sch. 2.5 cl. 1, Sch. 5.1 cl. 1
+member of a parliament2.20(2)
+metropolitan area1.4
+minimum payment6.1
+minor breach5.102A
+municipal fund1.4
+new ordinary election day provisionsSch. 9.3 cl. 14A(1)
+new valuationSch. 6.1 cl. 1(2)
+nomination place4.47(2)(b)
+non-perishable goods3.38
+noticeSch. 2.1 cl. 1, Sch. 9.3 cl. 51(3)
+notice recipient3.26(2)
+notifiable gift5.62(2)
+occupier1.4
+offence2.22(3)
+officeSch. 2.3 cl. 1 and 6
+official plan9.48(2)
+officially certified9.48(2)
+ordinary election1.4, 4.4(2)
+ordinary elections day1.4
+original valuationsSch. 6.1 cl. 2(2)
+other person5.9(1)
+otherwise unvested facility3.53(1)
+owner1.4, 6.25, 9.13(1), 9.15
+parkSch. 9.1 cl. 1(1)
+parking facilitiesSch. 9.1 cl. 1(1)
+parking regionSch. 9.1 cl. 1(1)
+participants3.61(1)
+party5.102A
+performance audit7.1
+person having an interest3.51(1)
+political party5.83(4)
+polling place4.1
+postal election4.61(1)
+power of sale6.68(1)
+power to borrow6.20(2)
+power to lease6.65
+prescribed1.4, 9.13(1), 9.15
+prescribed financial market5.84(2)
+preserved CEOSch. 9.3 cl. 43(1)
+primary return5.74(1)
+primary standards panel5.102A, 5.122(1)
+print4.87(3), 4.88(4)
+private landSch. 9.1 cl. 7(1)
+private thoroughfareSch. 3.1 Div. 3, Sch. 9.1 cl. 7(1)
+proceedings9.29(1)
+property3.58(1)
+proposalSch. 2.1 cl. 1
+proposal land5.60B(2)
+public facility9.46(4)
+publish4.88(4), 5.90(2)
+qualified person7.1
+rate9.40(3)
+rate record6.25
+recurrent breach5.102A
+regional local government1.4
+regional subsidiary1.4
+regional purpose3.62(2)
+registered company auditor7.1
+regulations7.1
+relative5.74(1)
+relevant district2.45(2)
+relevant officialSch. 2.1 cl. 12(1)
+relevant interest6.29(1)
+relevant period4.88(4)
+relevant person5.59, 5.74(1)
+return5.74(1)
+return period5.74(1)
+reviewSch. 2.2 cl. 1
+reward4.85(4)
+rules of conduct5.102A
+senior employeeSch. 9.3 cl. 1
+serious breach5.102A
+serious local government offence2.22(3)
+service charge6.1, 6.42, 6.54, 6.63
+show cause notice8.15B(1)
+Special majority required1.10
+specified3.38, Sch. 9.3 cl. 54(1)
+specified area rate6.1
+standSch. 9.1 cl. 1(1)
+standards panel5.102A
+start day5.74(1)
+Statewide public notice1.4
+statutory provision administered by the local government9.28(2)
+submissionSch. 2.2 cl. 1
+supplementary audit7.1
+suspended order5.117(2)
+termination dateSch. 9.3 cl. 51(3)
+the authorised person8.3(6)(a)
+this Act4.1
+this Part4.1
+thoroughfare1.4
+trading undertaking3.59(1)
+transitional matterSch. 9.3 cl. 54(1)
+travel5.83(4)
+trust fund6.1
+unimproved value6.25
+unsightlySch. 3.1 Div. 1
+vacant land6.25
+value5.62(2)
+vehicle3.38
+vehicle offence9.13(1)
+voting in person election4.61(1)
+voting papers4.71(2)
+WALGA1.4
+ward1.4
+WCIM Act5.49(1)
+WorkCover WA5.49(1)
+By Authority: JOHN A. STRIJK, Government Printer
