@@ -195,8 +195,9 @@ Fish Resources Management Amendment Regulations (No. 5) 2016 | 7 Oct 2016 p. 437
 Reprint 14: The Fish Resources Management Regulations 1995 as at 9 Dec 2016 (includes amendments listed above)
 Fisheries Regulations Amendment (Fees) Regulations 2017 Pt. 2 | 7 Jul 2017 p. 3695-7 | 8 Jul 2017 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2017 | 1 Sep 2017 p. 4651-5 | r. 1 and 2: 1 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2017 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 3) 2017 | 27 Oct 2017 p. 5416 | r. 1 and 2: 27 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2017 (see r. 2(b))
 Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 (Sch. 1 cl. 68) to the Fisheries Research and Development Account. This reference was changed under the Reprints Act 1984 s. 7(3)(h).
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 (Sch. 1 cl. 68) to the Recreational Fishing Account. This reference was changed under the Reprints Act 1984 s. 7(3)(h).
