@@ -3,7 +3,7 @@
 [Heading inserted in Gazette 21 Oct 2016 p. 4858.]
 ## Exercise-based programmes
  | Type of service | Fee
-EXE20 | Initial Consultation/Assessment Insurer approval must be obtained prior to undertaking the service. | $190.55 per hour to a maximum of 2 hours**
+EXE20 | Initial Consultation/Assessment Insurer approval must be obtained prior to undertaking the service. | $193.70 per hour to a maximum of 2 hours**
  | Review of current medical and vocational status.
  | Communication/Liaison with relevant parties.
  | Physiological assessment/testing.
@@ -11,16 +11,16 @@ EXE20 | Initial Consultation/Assessment Insurer approval must be obtained prior 
  | Programme design based on above.
  | Exercise facility/equipment coordination (pool or gym based).
  | Provider to patient ratio must be 1:1 for the duration of the consultation.
-EXE21 | Subsequent Exercise Consultation/Assessment Includes — •programme implementation — prescription and provision of exercises (land or pool based); •programme monitoring; •post programme screening questionnaire relating to worker’s level of function; •psychosocial reassessment; •communication/liaison with relevant parties. | $190.55 per hour to a maximum of 1 hour**
-EXE02 | Initial report Includes — •initial assessment report outlining results (self-reported and objective), recommendations and exercise rehabilitation plan; | $190.55 per hour to a maximum of 1 hour**
+EXE21 | Subsequent Exercise Consultation/Assessment Includes — •programme implementation — prescription and provision of exercises (land or pool based); •programme monitoring; •post programme screening questionnaire relating to worker’s level of function; •psychosocial reassessment; •communication/liaison with relevant parties. | $193.70 per hour to a maximum of 1 hour**
+EXE02 | Initial report Includes — •initial assessment report outlining results (self-reported and objective), recommendations and exercise rehabilitation plan; | $193.70 per hour to a maximum of 1 hour**
  | •current status as per medical certification and proposed outcome status;
  | •detailed cost plan outlining proposed outcome, services required and proposed costs for insurer approval.
-EXE03 | Subsequent reports Progress report to be provided at the request of the referrer. | $190.55 per hour to a maximum of 30 minutes**
-EXE04 | Final report Comprehensive report to be provided at the end of the service delivery detailing — •physiological testing results pre and post programme; •worker attendance/programme compliance. | $190.55 per hour to a maximum of 30 minutes**
+EXE03 | Subsequent reports Progress report to be provided at the request of the referrer. | $193.70 per hour to a maximum of 30 minutes**
+EXE04 | Final report Comprehensive report to be provided at the end of the service delivery detailing — •physiological testing results pre and post programme; •worker attendance/programme compliance. | $193.70 per hour to a maximum of 30 minutes**
 EXE05 | Gym membership/Entry fees Includes direct cost of membership (pool or gym). Prior approval from insurer required. | Market rates
-EXE06 | Travel Travel when the most appropriate management of the patient requires the provider to travel away from their normal practice. The insurer must provide pre-approval for travel in excess of 1 hour. If services are provided to more than one worker before leaving a venue, the fee for the journey is to be apportioned equally between workers. | $152.50 per hour**
-EXE08 | Communication Any requested or required oral communication with relevant parties (treating medical practitioners, employers and insurers) relating to the treatment of a specific worker. Excludes courtesy communication such as acknowledgment of referral and brief updates to the medical practitioner. Maximum time allowable per communication of 30 minutes. | $19.15 per 6 minute block
-EXE09 | Attendance at Medical Case Conferences Insurer approval must be obtained prior to undertaking the service. | $190.55 per hour**
+EXE06 | Travel Travel when the most appropriate management of the patient requires the provider to travel away from their normal practice. The insurer must provide pre-approval for travel in excess of 1 hour. If services are provided to more than one worker before leaving a venue, the fee for the journey is to be apportioned equally between workers. | $155.05 per hour**
+EXE08 | Communication Any requested or required oral communication with relevant parties (treating medical practitioners, employers and insurers) relating to the treatment of a specific worker. Excludes courtesy communication such as acknowledgment of referral and brief updates to the medical practitioner. Maximum time allowable per communication of 30 minutes. | $19.45 per 6 minute block
+EXE09 | Attendance at Medical Case Conferences Insurer approval must be obtained prior to undertaking the service. | $193.70 per hour**
 Note for this Schedule:
 ** Denotes that where the service provided is a fraction of 1 hour, the amount chargeable is to be calculated as that fraction of the maximum amount.
-[Schedule 5A inserted in Gazette 21 Oct 2016 p. 4858-60.]
+[Schedule 5A inserted in Gazette 21 Oct 2016 p. 4858-60; amended in Gazette 6 Oct 2017 p. 5229.]
