@@ -31,6 +31,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Domestic Violence Orders (National Recognition) Act 2017 Pt. 7 | 10 of 2017 | 8 Nov 2017 | To be proclaimed (see s. 2(b))
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
 On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 had not come into operation. They read as follows:
@@ -78,6 +79,28 @@ In section 62D(8) delete the definition of remote communication.
 121.Section 71 amended
 Delete section 71(5)(a) and insert:
 (a) has been served on the restrained person by post or electronically; and
+On the date as at which this compilation was prepared, the Domestic Violence Orders (National Recognition) Act 2017 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Restraining Orders Act 1997 amended
+44.Act amended
+This Part amends the Restraining Orders Act 1997.
+45.Section 3 amended
+In section 3 in the definition of application delete “this Act;” and insert:
+this Act or the Domestic Violence Orders (National Recognition) Act 2017;
+46.Section 8 amended
+After section 8(1)(h) insert:
+(ha) if the order is an FVRO, the effect of the Domestic Violence Orders (National Recognition) Act 2017;
+47.Sections 74A and 74B inserted
+After section 74 insert:
+74A.Interstate DVOs under Domestic Violence Orders (National Recognition) Act 2017 cannot be registered
+(1) An application cannot be made under section 75 in respect of an interstate order that is an interstate DVO as defined in the Domestic Violence Orders (National Recognition) Act 2017 section 6.
+(2) To avoid doubt, subsection (1) applies whether the interstate DVO was made before, on or after the day on which the Domestic Violence Orders (National Recognition) Act 2017 section 47 comes into operation.
+74B.Interstate orders registered before commencement of Domestic Violence Orders (National Recognition) Act 2017
+(1) This section applies to an interstate order that, immediately before the day on which the Domestic Violence Orders (National Recognition) Act 2017 section 47 comes into operation, is registered under this Part.
+(2) Unless subsection (4) applies, the registration of the order is not affected by the Domestic Violence Orders (National Recognition) Act 2017 and this Part continues to apply in respect of the order.
+(3) The order is not a local DVO for the purposes of the Domestic Violence Orders (National Recognition) Act 2017.
+(4) If, under the Domestic Violence Orders (National Recognition) Act 2017, the order becomes a recognised DVO in Western Australia —
+(a) the order ceases to be registered under this Part; and
+(b) that Act applies to the order in the same way as it applies to another recognised DVO that, under that Act, is a non-local DVO.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
