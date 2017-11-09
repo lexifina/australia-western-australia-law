@@ -3,6 +3,7 @@ This is a compilation of the Legal Profession (Law Library Fees) Rules 2017. The
 Compilation table
 Citation | Gazettal | Commencement
 Legal Profession (Law Library Fees) Rules 2017 | 13 Jan 2017 p. 364-5 | 13 Jan 2017 (see r. 2)
+Regulation 6(1)(a) and (b) and (2)-(5) disallowed on 9 Nov 2017, see Gazette 14 Nov 2017 p. 5610.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
