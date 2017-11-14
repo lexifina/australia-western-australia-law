@@ -89,12 +89,79 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 14 | 3 Ju
 Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Reprint 10: The Occupational Safety and Health Regulations 1996 as at 17 Feb 2017 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 16 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Occupational Safety and Health Amendment Regulations 2017 r. 3-8 | 14 Nov 2017 p. 5602-6 | 14 May 2018 (see r. 2(b))
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987, see s. 33(1) which repealed the Noise Abatement Act 1972 under which the regulations were made.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 The amendments to r. 5.46(1)(a) in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 5.46(1)(a) was replaced by the Occupational Safety and Health Amendment Regulations 2010 r. 5.
+On the date as at which this compilation was prepared, the Occupational Safety and Health Amendment Regulations 2017 r. 3-8 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Occupational Safety and Health Regulations 1996.
+4.Regulation 1.3 amended
+In regulation 1.3 insert in alphabetical order:
+electrical installation has the meaning given in the Electricity (Licensing) Regulations 1991 regulation 3(1);
+5.Regulation 3.58 replaced
+Delete regulation 3.58 and insert:
+3.58.Interpretation
+(1) In this Division, unless the contrary intention appears —
+de-energised, in relation to a part of an electrical installation, has the meaning given in the Electricity (Licensing) Regulations 1991 regulation 3(1);
+electrical work has the meaning given in the Electricity (Licensing) Regulations 1991 regulation 3(1);
+energised, in relation to a part of an electrical installation, has the meaning given in the Electricity (Licensing) Regulations 1991 regulation 3(1);
+network operator has the meaning given in the Electricity Act 1945 section 5(1).
+(2) For the purposes of this Division, a reference in AS/NZS 3012 to an electricity distributor is to be treated as a reference to a person who is a network operator under the Electricity (Network Safety) Regulations 2015 regulation 4(1)(a), (b), (c), (d), (e), (f) or (g).
+(3) For the purposes of this Division —
+(a) a part of an electrical installation is taken to be energised unless it is de-energised; and
+(b) the neutral for a part of an electrical installation is taken to be de-energised if the part is de-energised.
+6.Regulations 3.59A and 3.59B inserted
+After regulation 3.59 insert:
+3.59A.Electrical work
+(1) A person who, at a workplace, is an employer, the main contractor, a self-employed person, a person having control of the workplace or a person having control of access to the workplace must ensure that, before electrical work is carried out on a part of an electrical installation at the workplace, the part —
+(a) is tested by a competent person to ascertain whether or not it is energised; and
+(b) if it is found to be energised, is de-energised by a competent person.
+Penalty for this subregulation: the regulation 1.16 penalty.
+(2) Subregulation (1)(b) does not apply to electrical work carried out under the Electricity (Licensing) Regulations 1991 regulation 55(2).
+3.59B.Work in roof spaces
+(1) In this regulation —
+building means a Class 1, Class 2 or Class 10a building as classified under the Building Regulations 2012;
+roof space, of a building —
+(a)means the space in the building that is —
+(i)immediately under the roof; or
+(ii)if there is a ceiling under the roof, or a part of the roof, the space between the roof, or that part of the roof, and the ceiling;
+but
+(b)does not include a habitable room in the roof space;
+service apparatus has the meaning given in the Electricity Act 1945 section 5(1).
+(2) A person who, at a workplace, is an employer, the main contractor, a self-employed person, a person having control of the workplace or a person having control of access to the workplace must ensure that, before work is done in a roof space of a building at the workplace, the building’s electrical installation is de-energised by a competent person.
+Penalty for this subregulation: the regulation 1.16 penalty.
+(3) An employee must not do work in a roof space of a building at a workplace unless the building’s electrical installation is de-energised by a competent person.
+Penalty for this subregulation: the regulation 1.15 penalty.
+(4) If the roof space of a building to which subregulation (2) or (3) applies is divided into separate parts, such that a person cannot move from 1 part of the roof space to another, and each part relates to a separate dwelling, the requirement to de-energise the building’s electrical installation only applies to the dwelling that relates to the part of the roof space in which the work is to be done.
+(5) Subregulations (2) and (3) do not apply to work done by a competent person to test, service or commission an appliance or other equipment in or accessible by means of the roof space (for example, a gas appliance, air conditioner or antenna), to the extent necessary to energise the appliance or equipment, if —
+(a) it is necessary to energise the appliance or equipment for the purpose of testing, servicing or commissioning the appliance or equipment; and
+(b) a risk assessment has been undertaken in accordance with regulation 3.1 by a competent person; and
+(c) the competent person referred to in paragraph (b) is satisfied that —
+(i) the risks identified by the risk assessment are or can be reduced to as low as reasonably practicable; and
+(ii) the work can be carried out safely;
+and
+(d) if regulation 3.143 does not apply to the work, a safe work method statement for the work has been prepared in accordance with regulation 3.143(4), as if the work were high risk construction work and the place where the work is to be carried out were a construction site.
+(6) Subregulations (2) and (3) do not require the de-energisation of —
+(a) service apparatus that is part of a building’s electrical installation; or
+(b) a supply cable that is part of a building’s electrical installation if —
+(i) the cable is from a solar power system, wind turbine or battery; and
+(ii) it is not practicable to de-energise the cable;
+or
+(c) any other part of a building’s electrical installation if it is not practicable to de-energise that part.
+(7) Subregulations (2) and (3) do not apply to electrical work carried out under the Electricity (Licensing) Regulations 1991 regulation 55(2).
+7.Regulation 3.65 amended
+In regulation 3.65 delete “supply authority’s” and insert:
+network operator’s
+8.Regulation 3.137 amended
+In regulation 3.137 insert in alphabetical order:
+energised, in relation to an electrical installation or line, means connected to a supply of electricity to the installation or line, whether or not electricity is flowing through any part of the installation or line;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
