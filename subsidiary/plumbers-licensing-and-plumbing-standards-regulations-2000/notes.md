@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 November 2017 of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -38,19 +38,14 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2016 | 1
 Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 17 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2017 | 29 Aug 2017 p. 4593-4 | r. 1 and 2: 29 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Aug 2017 (see r. 2(b))
-The Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62, and then subsequently changed to the Plumbers Licensing Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 193.
-The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
-Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
-Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a lawyer or legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
+Reprint 5: The Plumbers Licensing and Plumbing Standards Regulations 2000 as at 24 Nov 2017 (includes amendments listed above)
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
-The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 bl. 7.1, 7.2, 7.3, 16.1 and 16.2 were deleted by the Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2004 in Gazette 28 Jun 2004 p. 2375.
-The Country Areas Water Supply By-laws 1957 bl. 58(3) and (4) were deleted by the Country Areas Water Supply Amendment By-laws 2004 in Gazette 28 Jun 2004 p. 2391.
-Repealed by the Building Services (Registration) Act 2011 s. 107.
-Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000; citation changed (see note under r. 1). The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000.
+The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 contains transitional provisions that are of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+eligible remote community37
 advertisement25(2)
 airconditioning waste53(1)
 alternate memberSch. 2 cl. 4(1)
@@ -80,14 +75,13 @@ drainage plumbing3(1)
 drainage plumbing diagram3(1)
 drainage plumbing work3(1)
 dwelling3(1)
-eligible remote community37
 emergency plumbing work3(1)
 entry warrant3(1)
 exempt work3(1)
 existing pipes13A(4)
 expansion control valve13A(4)
 fitting3(1)
-fixture3(1), 45(4)
+fixture3(1), 45(4)(a)
 Health Department37
 identification card3(1)
 inspection purposes67(2), 82
@@ -115,9 +109,9 @@ plumbing compliance officer3(1)
 plumbing contractor’s licence3(1)
 plumbing standards3(1), 48
 prescribed offence74
-previous contractor45B(4)
-previous contractor or permit holder42(5)
-principal plumbing42(2), 45B(2)
+previous contractor45B(4)(a)
+previous contractor or permit holder42(5)(a)
+principal plumbing42(2)(a), 45B(2)(a)
 provisional tradesperson’s licence 3(1)
 provisional tradesperson’s licence (drainage plumbing)3(1)
 qualifying plumbing courses37
@@ -139,10 +133,10 @@ statement of attainmentSch. 3 cl. 1
 statement of competencySch. 3 cl. 1
 temperature/pressure relief valve13A(4)
 trade waste3(1)
-Trades Recognition AustraliaSch. 3 cl. 5(1)
 tradesperson3(1)
 tradesperson’s licence3(1)
 tradesperson’s licence (drainage plumbing)3(1)
+Trades Recognition AustraliaSch. 3 cl. 5(1)
 waste3(1)
 wastewater3(1)
 water heater3(1)
