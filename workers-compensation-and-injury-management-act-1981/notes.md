@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 November 2017 of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Workers’ Compensation and Assistance Act 1981 | 86 of 1981 | 23 Nov 1981 | 3 May 1982 (see s. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -7,7 +7,8 @@ Compilation table
  | Workers’ Compensation and Assistance Amendment Act (No. 2) 1983 | 79 of 1983 | 22 Dec 1983 | 22 Dec 1983
  | Health Legislation Amendment Act 1984 Pt. XXIV | 28 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2 and Gazette 15 Jun 1984 p. 1629)
  | Workers’ Compensation and Assistance Amendment Act 1984 | 104 of 1984 | 19 Dec 1984 | 19 Dec 1984 (see s. 2)
- | Workers’ Compensation and Assistance Amendment Act 1985-14 | 44 of 1985 | 20 May 1985 | s. 1 and 2: 20 May 1985; s. 3(1) and (2) and 26: 20 May 1985 (see s. 2(1)); s. 3(3), 4-9, 13-18, 21, 22, 24, 27-37, 39-43: 28 Jun 1985 (see s. 2(2) and Gazette 14 Jun 1985 p. 2134); s. 25: 1 Jul 1985 (see s. 2(3)); s. 20: 25 Oct 1985 (see s. 2(2) and Gazette 25 Oct 1985 p. 4100); s. 23: 7 Feb 1986 (see s. 2(2) and Gazette 7 Feb 1986 p. 425); s. 38: 25 Jul 1986 (see s. 2(2) and Gazette 25 Jul 1986 p. 2453)
+ | Workers’ Compensation and Assistance Amendment Act 1985-14 | 44 of 1985 | 20 May 1985 | s. 1 and 2: 20 May 1985; s. 3(1) and (2) and 26: 20 May 1985 (see s. 2(1)); s. 3(3), 4-9, 13-18, 21, 22, 24, 27-37, 39-43: 28 Jun 1985 (see s. 2(2) and Gazette 14 Jun 1985 p. 2134); s. 25: 1 Jul 1985 (see s. 2(3)); s. 20: 25 Oct 1985 (see s. 2(2) and Gazette 25 Oct 1985 p. 4100); s. 23: 7 Feb 1986 (see s. 2(2) and Gazette 7 Feb 1986 p. 425);
+ |  |  |  | s. 38: 25 Jul 1986 (see s. 2(2) and Gazette 25 Jul 1986 p. 2453)
  | Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
  | Workers’ Compensation and Assistance Amendment Act 1986 | 33 of 1986 | 1 Aug 1986 | 1 Aug 1986 (see s. 2)
  | State Government Insurance Commission Act 1986 s. 46(2) | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4859)
@@ -53,7 +54,7 @@ Compilation table
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 (Sch. 2 cl. 156 and 157) | 84 of 2004 (as amended by No. 2 of 2008 s. 78(10)) | 16 Dec 2004 | s. 78 and 80 (Sch. 2 cl. 156 and 157 — the amendment to s. 188B(3)): 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Reprint 6: The Workers’ Compensation and Injury Management Act 1981 as at 5 Aug 2005 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 and the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 Pt. 3 and certain provisions of the Workers’ Compensation Reform Act 2004)
  | Workers’ Compensation Legislation Amendment Act 2005 Pt. 3, 4 and s. 32 | 16 of 2005 | 27 Sep 2005 | s. 30(1) and (2): 1 Jul 2005 (see s. 2(2)); s. 30(3): 27 Sep 2005 (see s. 2(1)); Pt. 3 and s. 32: 14 Nov 2005 (see s. 2(3))
- | Limitation Legislation Amendment and Repeal Act 2005 Pt. 9 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+ | Limitation Legislation Amendment and Repeal Act 2005 Pt. 9 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2(2))
  | Chiropractors Act 2005 Sch. 3 cl. 8 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
  | Reprint 7: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2006 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 and the Chiropractors Act 2005)
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 189 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
@@ -82,7 +83,8 @@ Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (s
  | Health Services Act 2016 s. 306 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
  | Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 4 | 28 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 647)
  | Statutes (Repeals) Act 2016 Pt. 2 Div. 4 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 12: The Workers’ Compensation and Injury Management Act 1981 as at 24 Nov 2017 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -102,7 +104,7 @@ Column 1 Description of Disease | Column 2 Description of Process
 Pleural plaques (diffuse pleural fibrosis) | Any process entailing substantial exposure to asbestos dust.
 Note:In accordance with section 45(2) of the Act this order takes effect on the expiration of 3 months from the date of publication in the Gazette.
 Repealed by s. 317 of this Act.
-Repealed by the Interpretation Act 1984 s. 77
+Repealed by the Interpretation Act 1984 s. 77.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Workers’ Compensation and Injury Management Act 1981; short title changed (see note under s. 1).
 The Workers’ Compensation and Assistance Amendment Act 1984 s. 9 and 10 are transitional and validation provisions that are of no further effect.
@@ -424,11 +426,11 @@ an insurer who has issued to the employer a liability insurance policy other tha
 (3) In this section a reference to doing anything includes a reference to omitting to do that thing.
 15.Validity of terms, conditions and exclusions of insurance policies effected during the transitional period
 A term, condition or exclusion of an insurance policy obtained or kept current during the transitional period for the purposes of Part X which, if the policy were obtained immediately after the transitional period, would be valid, lawful and effective is taken to be valid, lawful and effective from the time when the policy was obtained or, if later, from the beginning of the transitional period.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
 74.Workers’ Compensation and Injury Management Act 1981 amended
 Section 201(2) of the Workers’ Compensation and Injury Management Act 1981 is amended by deleting “or the Superannuation and Family Benefits Act 1938”.
 [Section 74 amended by No. 42 of 2004 s. 174.]
-On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
 (2) In Schedule 1 clause 11(2) delete the definitions of:
 Amount A
 Amount D
@@ -452,7 +454,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 additional medical examination66A(1)
-adjacent areaSch. 6 cl. 2(1), cl. 2(2), cl. 2(3) and cl. 2(4)
+adjacent areaSch. 6 cl. 2(1)- (4)
 agent261
 agent service261
 agreed93E(1)
@@ -511,21 +513,21 @@ court23A, 182ZH(1)
 Crown14(1)
 damages93A, 159
 date of injury49A
-de facto partner5(1)
 decision5(1)
-decision of a specialised retraining assessment panel146V(9)
 decision of an approved medical specialist146J(2)
 decision of an approved medical specialist panel146O(7)
+decision of a specialised retraining assessment panel146V(9)
 deemed worker159
-defendant92, 93(1)
+de facto partner5(1)
+defendant92, 93(1)(b)
 degree of disability93E(1)
 degree of impairment146
 degree of permanent impairment31B
-degree of permanent whole of person impairment93H(1), 158(1), Sch. 1 cl. 18C(3)
+degree of permanent whole of person impairment93H(1), 158(1),
+Sch. 1 cl. 18C(3)
 dentist5(1)
 dependants5(1)
-designation182C(1)
-designation 182ZR(1)
+designation182C(1), 182ZR(1)
 determined93E(1)
 direction182M(1)
 Director5(1)
@@ -543,7 +545,7 @@ drug of addiction5(1)
 E175AA(1), 303A(1)
 earnings5(1), 10A(1), Sch. 1 cl. 11(2)
 election registration day93H(1)
-employer5(1), 5(1), 5(1), 59(1), 93AC, 154A(2)
+employer5(1), 59(1), 93AC(a), 154A(2)(a)
 estimate5(1)
 event93H(2), 158(2), Sch. 1 cl. 18C(4)
 FES employment49A
@@ -558,15 +560,15 @@ hazardous firefighting employment49A
 hearing259(1)
 HIV31F(1), 93Q(8)
 impairment31G(1)
-in respect of the injury or injuries93P(3)
 incorporated insurance office161(1)
 industrial agreement5(1)
 industrial award5(1)
 industrial disease premium5(1)
-information111A(4), 182R(1)
-injury5(1), 93AC, 180(1)
+information111A(4), 182R(1)(a)
+injury5(1), 93AC(a), 180(1)
 injury management5(1)
 injury management system155
+in respect of the injury or injuries93P(3)
 inspector5(1)
 insurable damages159
 Insurance Commission of Western Australia 5(1)
@@ -579,7 +581,7 @@ licensed facility11A(1)
 licensed jockey11A(1)
 licensed trainer11A(1)
 loss of25
-LPI5(1), 5(1), 93F(8)
+LPI5(1), 93F(8)(b)(i)
 March CPI5A(2)
 medical assessment panel5(1)
 medical practitioner5(1)
@@ -596,7 +598,7 @@ noise induced hearing loss5(1)
 non-FES employment49A
 normal evaluation93M(5), 93N(6), 146C(3)
 notifiable person182(2)
-notification day93EC
+notification day93EC(b)(i)
 notional residual entitlement5(1)
 NRE amount5(1)
 overtimeSch. 1 cl. 11(2)
@@ -616,12 +618,12 @@ prescribed amount5(1), Sch. 1 cl. 18A(1d)
 prescribed Commonwealth award or agreement83(2A)
 prescribed workplaceSch. 7 cl. 1
 primary power212
-principal175(1), 175(6)
+principal175(1), 175(6)(a)
 proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
 prohibited drug31F(1), 93Q(8)
 prohibited person182S(4), 195(4A)
 qualifying period49A
-reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA) and cl. 18D(1A)
+reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA), Sch. 1 cl. 18D(1A)
 redemption amountSch. 5 cl. 1(1)
 registered agent5(1)
 registered club11A(1)
@@ -667,11 +669,12 @@ tributer5(1)
 Trust Account5(1)
 vocational rehabilitation5(1)
 W175AA(1)
-weekly earningsSch. 1 cl. 11(1), Sch. 1 cl. 14
+weekly earningsSch. 1 cl. 11(1) and 14
 weekly paymentsSch. 5 cl. 3(2)
 weekly payments of compensation5(1)
 WorkCover Guides5(1)
 WorkCover WA5(1), 314(2)
-worker5(1), 8, 9, 10, 11A(2), 93AC
+worker5(1), 8, 9, 10(a), 11A(2), 93AC(a)
 workers’ compensation cover170(7)
 working director10A(1)
+By Authority: KEVIN J. McRAE, Government Printer
