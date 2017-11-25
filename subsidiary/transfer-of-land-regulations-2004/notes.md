@@ -28,6 +28,7 @@ Transfer of Land Amendment Regulations 2015 | 19 Jun 2015 p. 2136-9 | r. 1 and 2
 Transfer of Land Amendment Regulations 2016 | 22 Mar 2016 p. 835-6 | r. 1 and 2: 22 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Mar 2016 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2016 Pt 4 | 24 Jun 2016 p. 2320-5 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3181-6 | 3 Jul 2017 (see r. 2(b))
+Transfer of Land Amendment Regulations 2017 | 24 Nov 2017 p. 5679-82 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -35,6 +36,7 @@ Defined termProvision(s)
 benefited lot8(1)
 circle8(1)
 department11
+ELN8A(1)
 lot8(1)
 names index11
 organisation11
