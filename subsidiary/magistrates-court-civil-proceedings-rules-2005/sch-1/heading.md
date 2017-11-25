@@ -64,28 +64,29 @@ Notification [To be filled in by the court] | I certify that on __ __/__ __/__ _
 [Form 1 inserted in Gazette 20 Jun 2017 p. 2995.]
 Form 2 — Family violence restraining order
 Part A — Family violence restraining order
-Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Family violence restraining order |  | Number:
-Jurisdiction:
-Location:
-Person who is bound by this order | Family name: | Date of birth:
-Other names:
-Homestreet: address:suburb:postcode:
-Workstreet: address:suburb:postcode:
-Phone nos.:work:home: mobile:
-Applicant for the order [If not the person to be protected] | Family name: | Date of birth:
-Other names:
-Person protected | Family name: | Date of birth:
-Other names:
-Type of order | The order isr for 72 hours or lessr an interim orderr a final order
-Terms of this order
-Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful:
-Order made | Date order made: | Time order made:
-Registrar |  | Date:
+ | Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Family violence restraining order |  | Number:
+ | Jurisdiction:
+ | Location:
+ | Person who is bound by this order | Family name: | Date of birth:
+ | Other names:
+ | Homestreet: address:suburb:postcode:
+ | Workstreet: address:suburb:postcode:
+ | Phone nos.:work:home: mobile:
+ | Applicant for the order [If not the person to be protected] | Family name: | Date of birth:
+ | Other names:
+ | Person protected | Family name: | Date of birth:
+ | Other names:
+ | Type of order | The order isr for 72 hours or lessr an interim orderr a final order
+ | Terms of this order
+ | Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful:
+THIS IS A NATIONALLY RECOGNISED ORDER
+ | Order made | Date order made: | Time order made:
+ | Registrar |  | Date:
 Form 2 — Family violence restraining order
 Part B — Information to be on the copy of order given to the person who is bound by the order
 IMPORTANT INFORMATION FOR PERSON BOUND BY THIS ORDER
 If the order is for 72 hours or less
-A family violence restraining order has been made against you for 72 hours or less on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order until the end of the period specified in the order. Penalty: It is an offence to breach a family violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you will consider this an aggravating factor. Counselling, support and/or legal services may be of assistance to you.
+A family violence restraining order has been made against you for 72 hours or less on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order until the end of the period specified in the order. Penalty: It is an offence to breach a family violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you may consider this an aggravating factor. Counselling, support and/or legal services may be of assistance to you.
 If the order is an interim order
 An interim family violence restraining order has been made against you on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order, and it will remain in force until a final order is made or a court decides not to make a final order. You must comply with this order at all times while it is in force. You have an opportunity to object to the order before it becomes a final order.
 If you want to object to this order being made final you must fill in the “Objection” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. The court will then arrange a final order hearing at which it will consider anything you want to say before deciding whether to make a final family violence restraining order. The court will let you know where and when the final order hearing will be held.
@@ -180,24 +181,25 @@ Current proceedings for family order | Court: | Family Court matter no.:
 Terms of family order being sought which relate to the respondent’s rights in relation to children:
 Are these terms of the order being opposed?r Yesr Nor Unknown
 Applicant | Signature: | Date:
-[Form 2 inserted in Gazette 20 Jun 2017 p. 2996-3004.]
+[Form 2 inserted in Gazette 20 Jun 2017 p. 2996-3004; amended in Gazette 24 Nov 2017 p. 5674.]
 Form 3 — Conduct agreement order
 Part A — Conduct agreement order
-Restraining Orders Act 1997 s. 10H and 43 Conduct agreement order |  | Number:
-Jurisdiction:
-Location:
-Person who has agreed to be bound by this order | Family name: | Date of birth:
-Other names:
-Homestreet: address:suburb:postcode:
-Workstreet: address:suburb:postcode:
-Phone nos.:work:home: mobile:
-Person protected | Family name: | Date of birth:
-Other names:
-Type of order | This a final order.
-Terms of this order
-Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful:
-Order made | Date order made: | Time order made:
-Registrar |  | Date:
+ | Restraining Orders Act 1997 s. 10H and 43 Conduct agreement order |  | Number:
+ | Jurisdiction:
+ | Location:
+ | Person who has agreed to be bound by this order | Family name: | Date of birth:
+ | Other names:
+ | Homestreet: address:suburb:postcode:
+ | Workstreet: address:suburb:postcode:
+ | Phone nos.:work:home: mobile:
+ | Person protected | Family name: | Date of birth:
+ | Other names:
+ | Type of order | This a final order.
+ | Terms of this order
+ | Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful:
+THIS IS A NATIONALLY RECOGNISED ORDER
+ | Order made | Date order made: | Time order made:
+ | Registrar |  | Date:
 Form 3 — Conduct agreement order
 Part B — Information to be on the copy of order given to the person who is bound by the order
 IMPORTANT INFORMATION FOR PERSON BOUND BY THIS ORDER
@@ -250,28 +252,29 @@ Current proceedings for family order | Court: | Family Court matter no.:
 Terms of family order being sought which relate to the respondent’s rights in relation to children:
 Are these terms of the order being opposed? r Yesr Nor Unknown
 Applicant | Signature: | Date:
-[Form 3 inserted in Gazette 20 Jun 2017 p. 3005-9.]
+[Form 3 inserted in Gazette 20 Jun 2017 p. 3005-9; amended in Gazette 24 Nov 2017 p. 5674.]
 Form 4 — Section 63A family violence restraining order
 Part A — Section 63A family violence restraining order
-Restraining Orders Act 1997 s. 63A Section 63A family violence restraining order |  | Number:
-Jurisdiction:
-Location:
-Person who is bound by this order | Family name: | Date of birth:
-Other names:
-Homestreet: address:suburb:postcode:
-Workstreet: address:suburb:postcode:
-Phone nos.:work:home: mobile:
-Person protected | Family name: | Date of birth:
-Other names:
-Lifelong order | This order remains in force for the period of the life of the person who is bound by this order.
-Terms of this order
-Order made | Date order made: | Time order made:
-Registrar |  | Date:
+ | Restraining Orders Act 1997 s. 63A Section 63A family violence restraining order |  | Number:
+ | Jurisdiction:
+ | Location:
+ | Person who is bound by this order | Family name: | Date of birth:
+ | Other names:
+ | Homestreet: address:suburb:postcode:
+ | Workstreet: address:suburb:postcode:
+ | Phone nos.:work:home: mobile:
+ | Person protected | Family name: | Date of birth:
+ | Other names:
+ | Lifelong order | This order remains in force for the period of the life of the person who is bound by this order.
+ | Terms of this order
+THIS IS A NATIONALLY RECOGNISED ORDER
+ | Order made | Date order made: | Time order made:
+ | Registrar |  | Date:
 Form 4 — Section 63A family violence restraining order
 Part B — Information to be on the copy of the order given to the person who is bound by the order
 IMPORTANT INFORMATION FOR THE PERSON WHO IS BOUND BY THIS ORDER
 Section 63A family violence restraining order
-A family violence restraining order has been made against you under the Restraining Orders Act 1997 section 63A. The order is in the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order for the rest of your life. Penalty: It is an offence to breach a family violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you will consider this an aggravating factor. Note 1:If you are convicted of breaching this order, the fact that the person protected by the order aided you in the breach is not a mitigating factor for the purposes of your sentencing (see the Restraining Orders Act 1997 section 61B(2)). Note 2:If you are convicted of breaching this order and you have been convicted of at least 2 other offences under the Restraining Orders Act 1997 section 61(1) or (2a) within the period of 2 years before your conviction for breaching this order, you will face a penalty that is or includes imprisonment (or, if you are a child, detention) unless the court decides under section 61A(6) of the Act not to impose such a penalty. Counselling, support and/or legal services may be of assistance to you.
+A family violence restraining order has been made against you under the Restraining Orders Act 1997 section 63A. The order is in the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order for the rest of your life. Penalty: It is an offence to breach a family violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you may consider this an aggravating factor. Note 1:If you are convicted of breaching this order, the fact that the person protected by the order aided you in the breach is not a mitigating factor for the purposes of your sentencing (see the Restraining Orders Act 1997 section 61B(2)). Note 2:If you are convicted of breaching this order and you have been convicted of at least 2 other offences under the Restraining Orders Act 1997 section 61(1) or (2a) within the period of 2 years before your conviction for breaching this order, you will face a penalty that is or includes imprisonment (or, if you are a child, detention) unless the court decides under section 61A(6) of the Act not to impose such a penalty. Counselling, support and/or legal services may be of assistance to you.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
 Form 4 — Section 63A family violence restraining order
 Part C — Information to be on the copy of the order given to the person protected by the order
@@ -279,7 +282,7 @@ IMPORTANT INFORMATION FOR THE PERSON WHO IS PROTECTED BY THIS ORDER
 Section 63A family violence restraining order
 A family violence restraining order has been made to protect you under the Restraining Orders Act 1997 section 63A. The order is in the terms set out on the front of this order. This order came into force when it was served on the person who is bound by the order, or at a later time if this is specified on the front of this order. The person who is bound by this order must comply with this order for the rest of the person’s life. Penalty: It is an offence to breach a family violence restraining order. If the person who is bound by this order breaches this order the person may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Note 1:If the person bound by this order breaches it and you aid the person in that breach, you will not commit an offence however the court might decide to vary or cancel the order (see the Restraining Orders Act 1997 section 61B(3) and (4)). Note 2:If the person who is bound by this order is convicted of breaching this order and the person has been convicted of at least 2 other offences under the Restraining Orders Act 1997 section 61(1) or (2a) within the period of 2 years before the conviction for breaching this order, the person will face a penalty that is or includes imprisonment (or, if the person is a child, detention) unless the court decides under section 61A(6) of the Act not to impose such a penalty. Counselling, support and/or legal services may be of assistance to you.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
-[Form 4 inserted in Gazette 20 Jun 2017 p. 3010-12.]
+[Form 4 inserted in Gazette 20 Jun 2017 p. 3010-12; amended in Gazette 24 Nov 2017 p. 5675.]
 Form 5 — Application for violence restraining order
 Restraining Orders Act 1997 s. 25 Violence restraining order Application |  | Number:
 Jurisdiction:
@@ -330,7 +333,7 @@ Form 6 — Violence restraining order
 Part B — Information to be on the copy of order given to the person who is bound by the order
 IMPORTANT INFORMATION FOR PERSON BOUND BY THIS ORDER
 If the order is for 72 hours or less
-A violence restraining order has been made against you for 72 hours or less on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order until the end of the period specified in the order. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you will consider this an aggravating factor. Counselling, support and/or legal services may be of assistance to you.
+A violence restraining order has been made against you for 72 hours or less on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order until the end of the period specified in the order. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you may consider this an aggravating factor. Counselling, support and/or legal services may be of assistance to you.
 If the order is an interim order
 An interim violence restraining order has been made against you on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order, and it will remain in force until a final order is made or a court decides not to make a final order. You must comply with this order at all times while it is in force. You have an opportunity to object to the order before it becomes a final order. If you want to object to this order being made final you must fill in the “Objection” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. The court will then arrange a final order hearing at which it will consider anything you want to say before deciding whether to make a final violence restraining order. The court will let you know where and when the final order hearing will be held. If you do not object to this order being made final you should fill in the “Consent” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. You will then not need to attend a final order hearing and the order will automatically become a final order which remains in force for the period specified in the order or — (a)if no period is specified and you are not a child, for 2 years from the date this interim order was served on you; or (b)if no period is specified and you are a child, for 6 months from the date this interim order was served on you. If you do nothing and do not fill in and return the other copy of this order within 21 days the court will assume that you do not object and the interim order will automatically become a final order. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling, support and/or legal services may be of assistance to you.
 If the order is a final order
@@ -393,7 +396,7 @@ Date of birth:
 Signature: …………………………………................... (If possible to obtain)
 Certificate | I certify that on the day and at the time and place set out above: rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 Part 6 Division 2. In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 16 years to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
 Signature: | Date:
-[Form 6 inserted in Gazette 20 Jun 2017 p. 3014-21.]
+[Form 6 inserted in Gazette 20 Jun 2017 p. 3014-21; amended in Gazette 24 Nov 2017 p. 5675.]
 Form 7 — Section 63A violence restraining order
 Part A — Section 63A violence restraining order
 Restraining Orders Act 1997 s. 63A Section 63A violence restraining order |  | Number:
@@ -414,7 +417,7 @@ Form 7 — Section 63A violence restraining order
 Part B — Information to be on the copy of the order given to the person who is bound by the order
 IMPORTANT INFORMATION FOR THE PERSON WHO IS BOUND BY THIS ORDER
 Section 63A violence restraining order
-A violence restraining order has been made against you under the Restraining Orders Act 1997 section 63A. The order is in the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order for the rest of your life. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you will consider this an aggravating factor. Note 1:If you are convicted of breaching this order, the fact that the person protected by the order aided you in the breach is not a mitigating factor for the purposes of your sentencing (see the Restraining Orders Act 1997 section 61B(2)). Note 2:If you are convicted of breaching this order and you have been convicted of at least 2 other offences under the Restraining Orders Act 1997 section 61(1) or (2a) within the period of 2 years before your conviction for breaching this order, you will face a penalty that is or includes imprisonment (or, if you are a child, detention) unless the court decides under section 61A(6) of the Act not to impose such a penalty. Counselling, support and/or legal services may be of assistance to you.
+A violence restraining order has been made against you under the Restraining Orders Act 1997 section 63A. The order is in the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order for the rest of your life. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you may consider this an aggravating factor. Note 1:If you are convicted of breaching this order, the fact that the person protected by the order aided you in the breach is not a mitigating factor for the purposes of your sentencing (see the Restraining Orders Act 1997 section 61B(2)). Note 2:If you are convicted of breaching this order and you have been convicted of at least 2 other offences under the Restraining Orders Act 1997 section 61(1) or (2a) within the period of 2 years before your conviction for breaching this order, you will face a penalty that is or includes imprisonment (or, if you are a child, detention) unless the court decides under section 61A(6) of the Act not to impose such a penalty. Counselling, support and/or legal services may be of assistance to you.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF YOU WERE PRESENT IN COURT WHEN IT WAS MADE
 Form 7 — Section 63A violence restraining order
 Part C — Information to be on the copy of the order given to the person protected by the order
@@ -422,7 +425,7 @@ IMPORTANT INFORMATION FOR THE PERSON WHO IS PROTECTED BY THIS ORDER
 Section 63A violence restraining order
 A violence restraining order has been made to protect you under the Restraining Orders Act 1997 section 63A. The order is in the terms set out on the front of this order. This order came into force when it was served on the person who is bound by the order, or at a later time, if this is specified on the front of this order. The person who is bound by this order must comply with this order for the rest of the person’s life. Penalty: It is an offence to breach a violence restraining order. If the person who is bound by this order breaches this order the person may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Note 1:If the person bound by this order breaches it and you aid the person in that breach, you will not commit an offence however the court might decide to vary or cancel the order (see the Restraining Orders Act 1997 section 61B(3) and (4)). Note 2:If the person who is bound by this order is convicted of breaching this order and the person has been convicted of at least 2 other offences under the Restraining Orders Act 1997 section 61(1) or (2a) within the period of 2 years before the conviction for breaching this order, the person will face a penalty that is or includes imprisonment (or, if the person is a child, detention) unless the court decides under section 61A(6) of the Act not to impose such a penalty. Counselling, support and/or legal services may be of assistance to you.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
-[Form 7 inserted in Gazette 20 Jun 2017 p. 3022-4.]
+[Form 7 inserted in Gazette 20 Jun 2017 p. 3022-4; amended in Gazette 24 Nov 2017 p. 5675.]
 Form 8 — Application for misconduct restraining order
 Restraining Orders Act 1997 s. 38(2) Misconduct restraining order Application |  | Number:
 Jurisdiction:
@@ -539,7 +542,7 @@ Form 10 — Telephone order
 Part C — Information to be on the copy of the order to be given to the person who is bound by the order
 IMPORTANT INFORMATION FOR PERSON WHO IS BOUND BY THIS ORDER
 If the order is for 72 hours or less
-A family violence restraining order / violence restraining order has been made against you for 72 hours or less on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order until the end of the period specified in the order. Penalty: It is an offence to breach a family violence restraining order / violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you will consider this an aggravating factor. Counselling, support and/or legal services may be of assistance to you.
+A family violence restraining order / violence restraining order has been made against you for 72 hours or less on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order. You must comply with this order until the end of the period specified in the order. Penalty: It is an offence to breach a family violence restraining order / violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. If you breach the order in the presence of a child with whom you are in a family relationship (e.g. your child, your partner’s child or a child who ordinarily resides with you) the court sentencing you may consider this an aggravating factor. Counselling, support and/or legal services may be of assistance to you.
 If the order is an interim order
 An interim family violence restraining order / violence restraining order has been made against you on the terms set out on the front of this order. This order came into force when it was served on you, or at a later time, if this is specified on the front of this order, and it will remain in force until a final order is made or a court decides not to make a final order. You must comply with this order at all times while it is in force. If you object to this order being made final you must fill in the “Objection” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. The court will then arrange a final order hearing at which it will consider anything you want to say before deciding whether to make a final family violence restraining order / violence restraining order. The court will let you know where and when the final order hearing will be held. If you do not object to this order being made final you should fill in the “Consent” section on the back of the other copy of this order and return it to the court within 21 days from the date this order was served on you. You will then not need to attend a final order hearing and the order will automatically become a final order which will stay in force for the period specified in the order or — (a)if no period is specified and you are not a child, for 2 years from the date on which this order was served on you; or (b)if no period is specified and you are a child, for 6 months from the date on which this order was served on you. If the order is a family violence restraining order and you were in prison at the time the court received your “Consent” form, the order will stay in force while you are in prison and for a further 3 months from the date on which you are released from prison (or shorter if specified in the order). If you do nothing and do not fill in and return the other copy of this order within 21 days the court will assume that you do not object and the interim order will automatically become a final order. Penalty: It is an offence to breach a violence restraining order. If you breach this order you may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Counselling, support and/or legal services may be of assistance to you.
 Additional information about conviction for breaching the order
@@ -596,7 +599,7 @@ Date of birth:
 Signature: …………………………………................... (If possible to obtain)
 Certificate | I certify that on the day and at the time and place set out above — rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 Part 6 Division 2. In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 16 to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
 Signature: | Date:
-[Form 10 inserted in Gazette 20 Jun 2017 p. 3030-8.]
+[Form 10 inserted in Gazette 20 Jun 2017 p. 3030-8; amended in Gazette 24 Nov 2017 p. 5675.]
 Form 11 — Restraining order record of telephone application
 Restraining Orders Act 1997 s. 21(4) Restraining order Record of telephone application |  | Number:
 Jurisdiction:
