@@ -138,6 +138,7 @@ Mining and Offshore Minerals Regulations Amendment (Fees and Rents) Regulations 
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 8 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mining Amendment Regulations 2017 | 5 Sep 2017 p. 4681-5 | r. 1 and 2: 5 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Sep 2017 (see r. 2(b))
 Mining Amendment Regulations (No. 2) 2017 | 29 Sep 2017 p. 4986-7 | r. 1 and 2: 29 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2017 (see r. 2(b))
+Mining Amendment Regulations (No. 3) 2017 | 24 Nov 2017 p. 5682-3 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -258,7 +259,7 @@ relevant depth101A(1)
 relevant exploration licence4A
 relevant operations report58A(1)
 relevant period96CA(1)
-relevant period86(2a), 86(2a)
+relevant period86(2a)
 reversion licence63A(1)
 royalty ore86AD(4)
 royalty return2
