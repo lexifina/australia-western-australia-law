@@ -11,6 +11,7 @@ School Curriculum and Standards Authority Amendment Regulations 2012 | 7 Dec 201
 Reprint 2: The School Curriculum and Standards Authority Regulations 2005 as at 1 Mar 2013 (includes amendments listed above)
 School Curriculum and Standards Authority Amendment Regulations 2013 | 6 Sep 2013 p. 4245-6 | r. 1 and 2: 6 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 School Curriculum and Standards Authority Amendment Regulations 2014 | 26 Aug 2014 p. 3079-80 | r. 1 and 2: 26 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2014 (see r. 2(b))
+School Curriculum and Standards Authority Amendment Regulations 2017 | 24 Nov 2017 p. 5672-3 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Pt. 2 (Cwlth). Now see the Australian Citizenship Act 2007 (Cwlth).
 Now known as the School Curriculum and Standards Authority Regulations 2005; citation changed (see note under r. 1).
 Defined terms
