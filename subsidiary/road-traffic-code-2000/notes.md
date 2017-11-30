@@ -60,11 +60,11 @@ Reprint 5: The Road Traffic Code 2000 as at 9 Dec 2016 (includes amendments list
 Road Traffic Code Amendment Regulations (No. 2) 2017 | 25 Jul 2017 p. 4078-80 | r. 1 and 2: 25 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 4) 2017 | 22 Aug 2017 p. 4503-4 | r. 1 and 2: 22 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Aug 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 5) 2017 | 31 Oct 2017 p. 5464-5 | r. 1 and 2: 31 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2017 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 6) 2017 | 31 Oct 2017 p. 5462-4 | r. 1 and 2: 31 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2017 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Road Traffic Code Amendment Regulations (No. 3) 2017 r. 3-9 | 17 Oct 2017 p. 5338-41 | 13 Dec 2017 (see r. 2(b))
-Road Traffic Code Amendment Regulations (No. 6) 2017 r. 3-7 | 31 Oct 2017 p. 5462-4 | 30 Nov 2017 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -123,46 +123,6 @@ Modified penalty:
 (4) A person who commits an offence against regulation 109, 112, 116, 117 or 129 (a road positioning offence) is taken to have also committed an offence against subregulation (3) if the road positioning offence is committed within 100 m of —
 (a) speed measuring and recording equipment; or
 (b) the detection points, as defined in the Road Traffic (Administration) Act 2008 section 117B(1), for an average speed detection system.
-On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations (No. 6) 2017 r. 3-7 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic Code 2000.
-4.Regulation 116 amended
-(1) In regulation 116 delete “Where” and insert:
-(1) Where
-(2) At the end of regulation 116 insert:
-(2) Subregulation (1) is subject to regulations 120 and 124A(5).
-5.Regulation 119 amended
-In regulation 119(2):
-(a) in paragraph (c) delete “island.” and insert:
-island; or
-(b) after paragraph (c) insert:
-(d) it is to comply with regulation 124A(1), in accordance with regulation 124A(5).
-6.Regulation 124A inserted
-After regulation 124 insert:
-124A.Keeping safe distance when passing bicycle
-(1) A driver of a motor vehicle passing to the right of a bicycle that is travelling on a road in the same direction as the vehicle must pass the bicycle at a safe distance from the bicycle.
-Points: 4Modified penalty: 8 PU
-(2) A safe distance from the bicycle is —
-(a) if the speed limit applicable to the length of road is not more than 60 km/h — a lateral distance of at least 1 m; or
-(b) if the speed limit applicable to the length of road is more than 60 km/h — a lateral distance of at least 1.5 m.
-(3) For the purposes of subregulation (2), the lateral distance is measured between the following points —
-(a) the furthest point to the left on the driver’s vehicle or any projection from the vehicle (whether or not attached to the vehicle);
-(b) the furthest point to the right on the bicycle.
-(4) For the purposes of subregulation (3)(b) —
-(a) the following things are to be taken to be part of the bicycle —
-(i) any bicycle trailer as defined in regulation 223(3) towed by the bicycle;
-(ii) any basket or pannier bags attached to the bicycle or bicycle trailer;
-(iii) the rider of the bicycle;
-(iv) any passenger on the bicycle, in the bicycle trailer or on the bicycle trailer;
-and
-(b) a flag or stick (whether or not flexible) attached to and projecting sideways from the bicycle or any bicycle trailer is to be taken not to be part of the bicycle or bicycle trailer.
-(5) A driver of a motor vehicle may, if it is necessary in order to comply with subregulation (1), do any of the following —
-(a) if the driver is driving on a two-way carriageway without a dividing line or median strip — drive to the right of the centre of the carriageway, provided that the driver has a clear view of any approaching traffic and can do so safely;
-(b) if the driver is driving on a two-way carriageway with a dividing line — drive to the right of the dividing line, provided that the driver has a clear view of any approaching traffic and can do so safely;
-(c) drive on a dividing strip, or on or over a single continuous line or 2 parallel continuous lines, or on or over a painted island, provided that the driver has a clear view of any approaching traffic and can do so safely.
-7.Regulation 127 amended
-After regulation 127(3)(a) insert:
-(aa) the driver is driving a motor vehicle and is passing a bicycle in accordance with regulation 124A(5); or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
