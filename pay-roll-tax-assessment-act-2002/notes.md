@@ -21,6 +21,7 @@ Taxation Legislation Amendment Act (No. 2) 2015 Pt. 4 | 8 of 2015 | 9 Mar 2015 |
 Taxation Legislation Amendment Act (No. 3) 2015 Pt. 4 | 15 of 2015 | 26 May 2015 | 1 Jul 2015 (see s. 2(b)(i))
 Health Services Act 2016 s. 298 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 27 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Pay-roll Tax Assessment Amendment (Debt and Deficit Remediation) Act 2017 | 20 of 2017 | 13 Dec 2017 | s. 1 and 2: 13 Dec 2017 (see s. 2(a)); Act other than s. 1 and 2: 14 Dec 2017 (see s. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5.
@@ -48,7 +49,7 @@ assessment yearGl.
 associated person35A(1)
 Australian jurisdictionGl.
 Australian superannuation fundGl.
-Australian taxable wages13(1), 17(1A)
+Australian taxable wagesGl.
 businessGl.
 charitable body or organisationGl.
 commencement daySch. 1 cl. 10
@@ -106,7 +107,7 @@ old section 9DASch. 1 cl. 8(1)
 optionGl.
 paidGl.
 parental leave41A(1)
-part-year10(3), 13(4)
+part-year10(3), 13(4), 23C(1)
 payGl.
 payableGl.
 pay-roll taxGl.
@@ -132,6 +133,7 @@ remote locationGl.
 returnGl.
 return periodGl.
 shareGl.
+sliding scale periodGl.
 smaller groupGl.
 specified daySch. 1 cl. 11(1)
 specified exempt allowanceGl.
