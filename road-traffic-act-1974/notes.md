@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 December 2017 of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic Act 1974 | 59 of 1974 | 3 Dec 1974 | s. 4: 3 Dec 1974 (see s. 2(2)); s. 6-10 and 12: 21 Feb 1975 (see s. 2(1) and Gazette 21 Feb 1975 p. 633); Act other than s. 4, 6-10 and 12: 1 Jun 1975 (see s. 2(1) and Gazette 29 May 1975 p. 1442)
@@ -157,16 +157,16 @@ Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (ot
 Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Medicines and Poisons Act 2014 and the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1, Div. 4 Subdiv. 1 (other than s 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 1 Subdiv. 1, Div. 3 Subdiv. 1 (other than s. 46 and 53) and Div. 4 Subdiv. 1 (other than s. 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279); Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9)
-Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 338)
+Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1, Div. 4 Subdiv. 1 (other than s. 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 1 Subdiv. 1, Div. 3 Subdiv. 1 (other than s. 46 and 53) and Div. 4 Subdiv. 1 (other than s. 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279); Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9)
+Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and (2) and Gazette 13 Jan 2017 p. 338)
+Reprint 14: The Road Traffic Act 1974 as at 1 Dec 2017 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
-Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | s. 64: To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -184,7 +184,7 @@ The Acts Amendment (Chemistry Centre (WA)) Act 1990 s. 9 and 10 read as follows:
 A certificate or label issued under the principal Act that purports to have been signed by the director of the Government Chemical Laboratories or prepared by the Government Chemical Laboratories before the commencement of this Act shall continue to have effect as if this Act had not come into operation.
 10.Validation
 Every act or thing purporting to have been done by the Director or any other officer of the Chemistry Centre (WA) under the principal Act before the commencement of this Act that would have been lawful if this Act had been in force at the time when it was done is hereby validated and declared to have been lawfully done.
-The Criminal Law Amendment Act 1991 it. 1(2) of Pt. A of the Sch. reads as follows:
+The Criminal Law Amendment Act 1991 cl. 1(2) of Pt. A of the Sch. reads as follows:
 (2) Notwithstanding subclause (1), section 59(2), as it was immediately before the commencement of this clause, continues to apply in relation to —
 (a) any death that occurred before the commencement of this clause; and
 (b) any death that occurs after the commencement of this clause if the driving which directly or indirectly causes the death occurs not less than a year and a day before the commencement of this clause.
@@ -194,11 +194,10 @@ The Road Traffic Amendment Act 1996 s. 52 reads as follows:
 (2) In subsection (1) —
 Traffic Board means the Traffic Board constituted under section 6 of the Road Traffic Act 1974 as it was before the commencement of this Act.
 The Road Traffic Amendment Act 1996 s. 8(3) was deleted by the Road Traffic Amendment Act 2006 s. 43(2).
-The amendment to s. 20(2) referred to in the Road Traffic Amendment Act 1997 s. 13 did not come into operation because of an error in the reference to the provision to be amended.
+The amendment in the Road Traffic Amendment Act 1997 s. 13 to amend s. 20(2) did not come into operation because of an error in the reference to the provision to be amended.
 The Road Traffic Amendment Act 2000 s. 48 and Sch. 1 read as follows:
 48.Savings and transitional
 Schedule 1 has effect.
-Schedule 1 reads as follows:
 Schedule 1 — Savings and transitional
 [s. 48]
 1.Interpretation
@@ -289,15 +288,10 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 The Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) had not come into operation when they were deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 36.
-Footnote no longer applicable.
+The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 will not come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
+The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 s. 5 and Pt. 3 Div. 3 will not come into operation (see. s. 57(1)).
 The Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 cannot come into operation because the sections it seeks to amend were deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 had not come into operation. It reads as follows:
-9.Section 97 amended
-Delete section 97(2)(a) and insert:
-(a) while disqualified from obtaining a driver’s licence apply for or obtain such a licence, except that a person may apply for such a licence during the last 6 weeks of the period of disqualification;
-(ba) while disqualified from obtaining any particular licence other than a driver’s licence apply for or obtain such a licence;
-The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 cannot come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 21 — Road Traffic Act 1974 amended
 325.Act amended
@@ -305,19 +299,18 @@ This Division amends the Road Traffic Act 1974.
 326.Section 70 amended
 In section 70(7) delete the definition of technologist and insert:
 technologist means a person approved, or belonging to a class of persons approved, by the Minister to prepare sampling equipment.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 s. 64 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2016 s. 64 had not come into operation. It reads as follows:
 64.Section 110 inserted
 At the end of Part VIII insert:
 110.Transitional provisions for the Road Traffic Legislation Amendment Act 2016
 (1) Until the Road Traffic Legislation Amendment Act 2016 section 62(2) comes into operation, section 49(1) has effect as if paragraph (c) of the Penalty also referred to the application of subsection (3)(ca).
 (2) Until the Road Traffic Legislation Amendment Act 2016 section 63 comes into operation, the definition of impounding offence (driver’s licence) paragraph (a) in section 78A, has effect as if it also referred to section 49(3)(ca).
-The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 s. 5 and Pt. 3 Div. 3 will not come into operation (see. s. 57(1)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 above the speed limit49AAA
-alleged offence71C(1), 71C(1)
-alleged offender71C(1), 79BCA(1), 79BCD(1), 79D(2), 79D(6)
+alleged offence71C(1) (a) and (b)
+alleged offender71C(1)(a) and (b), 79BCA(1)(c), 79BCD(1)(a), 79D(2)(f)(ii), (g)(ii), (h)(ii) and (i)(ii) and 79D(6)(b)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
 amendment Act109(1)
@@ -329,7 +322,7 @@ authorised drug tester65
 authorised person65
 blood alcohol content65
 breath analysing equipment65
-business owner79D(2)
+business owner79D(2)(g)(i)
 cancellation provision62B(3), 64A(1A)
 circumstances of aggravation49AB(1)
 commencement day72(8), 72A(1), 109(1)
@@ -341,7 +334,7 @@ confiscation zone49AAA
 day of the offence78A(1)
 dentist65
 disqualification notice71C(2)
-driver49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1) and (4), 59(1), 59A(1), 59BA(1), 79BC(1)
+driver49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1) and (4), 59(1), 59A(1), 59BA(1), 79BC(1)(a)
 driver assessment65
 drug65
 drug testing65
@@ -360,8 +353,8 @@ impounding offence (driving)78A(1)
 impounding or confiscation order78A(1)
 impounding order78A(1)
 impounding period78A(1)
-impounding provision79BA(1), 79BCA(5), 79BCD(5)
-initially impounded vehicle79BCA(1)
+impounding provision79BA(1)(b)(i) and (ii), 79BCA(5)(b), 79BCD(5)(b)
+initially impounded vehicle79BCA(1)(a)
 instructor49AAA
 interest78A(1)
 item80J(1), 80M(1), 80V(1)
@@ -374,16 +367,17 @@ motor cycle49AAA
 necessity permit49A(5)
 notice to surrender79BCC(1)
 nurse practitioner65
-offence60B(1), 79BA(1), 79BCA(1), 79BCD(1)
+offence60B(1), 79BA(1)(a), 79BCA(1)(c), 79BCD(1)(a)
 offender71B(1), 80LA(1)
 order80G(1), 81A
-police officer71C(1), 71C(1), 79BA(1)
+person66(7)(b)
+police officer71C(1)(a) and (b), 79BA(1)(a)
 post-impoundment expenses80I(1A)
 preliminary oral fluid test65
 preliminary test65
 prescribed illicit drug65
 prescribed sample taker65
-previous offender79(1A), 79BC(1)
+previous offender79(1A), 79BC(1)(a)
 provide driving instruction49AAA
 reasonable expenses78A(1)
 reckless manner60(1)
@@ -400,7 +394,7 @@ selling expenses80LA(2)
 senior police officer78A(1)
 serious bodily harm66(8A)
 service79D(1)
-shorter impounding period79BC(2), 79BC(3)
+shorter impounding period79BC(2) and (3)
 speed limit49AAA
 subject71A(1)
 substitute vehicle79BCA(4), 79B(3A)
@@ -412,12 +406,11 @@ suspected use80N
 taxi79D(1)
 taxi operator79D(1)
 technologist70(7)
-the person66(7)
-time of sampling71(1)
+time of sampling71(1)(c)
 uncollected vehicle80J(1), 80M(1)
 undergoes65
-vehicle79BA(1)
-vehicle A79BCD(1)
+vehicle79BA(1)(a)
+vehicle A79BCD(1)(a)
 vehicle referred to in section 80GA78A(1)
 vehicle service provider79D(1)
-victim54(2), 54(6)
+victim54(2) and (6)
