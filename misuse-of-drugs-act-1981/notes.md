@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 December 2017 of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Act 1981 | 66 of 1981 | 23 Oct 1981 | 1 Sep 1982 (see s. 2 and Gazette 20 Aug 1982 p. 3250)
@@ -36,7 +36,7 @@ Medical Practitioners Act 2008 Sch. 3 cl. 37 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Police Amendment Act 2009 s. 21 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-Misuse of Drugs Amendment Act 2010 | 44 of 2010 | 28 Oct 2010 | s. 1 and 2: 28 Oct 2010 (see s. 2(a)); s. 3, 4 and 7(3) and (4): 22 Jan 2011 (see s. 2(b) and Gazette 21 Jan 2011 p. 157); s. 5-7(1) and (2), 8-10: 9 Jul 2011 (see 2(b) and Gazette 8 Jul 2011 p. 2895)
+Misuse of Drugs Amendment Act 2010 | 44 of 2010 | 28 Oct 2010 | s. 1 and 2: 28 Oct 2010 (see s. 2(a)); s. 3, 4 and 7(3) and (4): 22 Jan 2011 (see s. 2(b) and Gazette 21 Jan 2011 p. 157); s. 5-7(1) and (2) and 8-10: 9 Jul 2011 (see s. 2(b) and Gazette 8 Jul 2011 p. 2895)
 Cannabis Law Reform Act 2010 Pt. 3 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 2 | 50 of 2010 | 24 Nov 2010 | 25 Nov 2010 (see s. 2(b))
 Misuse of Drugs (Numbers of Cannabis Plants) Order 2010 published in Gazette 15 Apr 2011 p. 1425-6 | cl. 1 and 2: 15 Apr 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 16 Apr 2011 (see cl. 2(b))
@@ -56,10 +56,12 @@ Misuse of Drugs Amendment (Psychoactive Substances) Act 2015 | 29 of 2015 | 21 O
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Misuse of Drugs Amendment (Search Powers) Act 2016 | 47 of 2016 | 28 Nov 2016 | s. 1 and 2: 28 Nov 2016 (see s. 2(a)); Act other than s. 1 and 2: 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 337)
 Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 2 | 3 of 2017 | 21 Aug 2017 | 18 Sep 2017 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Misuse of Drugs Act 1981 as at 1 Dec 2017 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+The Poisons Act 1964 was repealed by the Medicines and Poisons Act 2014 s. 137.
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 are savings and transitional provisions.
@@ -71,8 +73,7 @@ commencement day means the day on which this Part comes into operation.
 (1) In this section —
 former authorisation means an authorisation under the Misuse of Drugs Act 1981 section 31(1) as in force immediately before the day on which Part 9 comes into operation.
 (2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
-Footnote not applicable.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 16 — Misuse of Drugs Act 1981 amended
 311.Act amended
@@ -106,7 +107,7 @@ Defined terms
 Defined termProvision(s)
 adult3(1), 8B(1)
 Agvet Code of Western Australia8N(1)
-amending Act44(1)
+amending Act44(1)(a)
 analyst3(1)
 appropriate licence5B(1)
 appropriate permit5B(1)
@@ -128,7 +129,7 @@ child3(1)
 CIN45
 CIR8B(2)
 CIS8B(2)
-claimant27(1)
+claimant27(1)(b)
 commencement day42B(1), 45
 Commissioner3(1)
 confidential information27B(1)
@@ -140,7 +141,7 @@ declared criminal organisation32A(3)
 delivery business 20A
 destruction notice8T(1)
 display7B(1)
-drug detection area20A, 20B(2)
+drug detection area20A, 20B(2)(a)
 drug detection device20A
 drug detection dog20A
 drug of addiction3(1)
@@ -162,7 +163,7 @@ police officer8B(1)
 preliminary drug detection test20A
 premises20I(1)
 premises search authorisation20A
-principal offence33(1), 33(2), 33(3)
+principal offence33(1), (2) and (3)
 processed industrial hemp3(1)
 professional authority5B(1)
 prohibited drug3(1)
