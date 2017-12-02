@@ -63,4 +63,4 @@ More than 38 but not more than 38.5 | Between 0.320 and 0.392, both inclusive.
 More than 38.5 but not more than 39 | Between 0.330 and 0.404, both inclusive.
 More than 39 but not more than 39.5 | Between 0.340 and 0.416, both inclusive.
 More than 39.5 but not more than 40 | Between 0.350 and 0.428, both inclusive.
-[Third Schedule amended in Gazette 14 Mar 2008 p. 833.]
+[Third Schedule amended: Gazette 14 Mar 2008 p. 833.]
