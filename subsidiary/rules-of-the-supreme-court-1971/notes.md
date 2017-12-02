@@ -141,6 +141,7 @@ Supreme Court (Arbitration) Rules 2016 r. 26 | 20 Dec 2016 p. 5819-85 | 3 Jan 20
 Supreme Court Amendment (Subpoenas) Rules 2017 | 24 May 2017 p. 2565-607 | Pt. 1: 24 May 2017 (see r. 2(a)); Rules other than Pt. 1: 7 Jun 2017 (see r. 2(b))
 Supreme Court Amendment Rules 2017 | 30 Jun 2017 p. 3575-6 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Supreme Court Rules Amendment Rules 2017 Pt. 2 | 16 Aug 2017 p. 4391-427 | Pt. 2 (other than r. 30): 30 Aug 2017 (see r. 2(c)); r. 30: 4 Sep 2017 (see r. 2(b))
+Supreme Court Amendment Rules (No. 3) 2017 | 1 Dec 2017 p. 5732-3 | r. 1 and 2: 1 Dec 2017 (see r. 2(a)); Rules other than r. 1 and 2: 2 Dec 2017 (see r. 2(b))
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
