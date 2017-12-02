@@ -34,7 +34,7 @@ ItemInstruction
 11.Turn the control knob to the position marked “ANALYZE”, wait for the red light to come on, and then wait for at least 90 seconds.
 12.Switch on the switch marked “LIGHT”, centre the pointer of the null meter by adjusting the wheel marked “BALANCE”, and then release the switch marked “LIGHT”.
 13.Record the test result as shown by the position of the scale pointer on the blood alcohol scale.
-## Part 3 — Analysis of breath sample by self-testing breath analysing equipment
+## Part 3 — Analysis of breath sample by self-testing breath analysing equipment (Dräger Alcotest 7110)
 ItemInstruction
 1.Ensure that the equipment is switched on, that there is sufficient paper in the paper roll in the printer compartment, and that the words “READY TO START” appear on the display panel.
 2.Push the pad marked “START” on the keyboard and then use the keyboard to enter particulars relating to the analysis.
@@ -48,4 +48,14 @@ EITHER
 OR
 5.2Press the pad marked “N” on the keyboard.
 5.2.1Press the pad marked “ENTER” on the keyboard to terminate the analysis.
-[Second Schedule amended in Gazette 24 Dec 1987 p. 4563-4; 28 Jan 2014 p. 183.]
+## Part 4 — Analysis of breath sample by self-testing breath analysing equipment (Dräger Alcotest 9510)
+1.Ensure that the equipment is switched on, that there is sufficient paper in the paper roll in the printer compartment, and that the words “READY TO START” appear on the display screen.
+2.Follow the prompts on the display screen and enter particulars relating to the analysis.
+3.After the words “PLEASE BLOW” appear on the display screen connect a mouthpiece to the sampling hose.
+4.Direct the person whose breath is to be analysed to provide a sample of the person’s breath into the equipment.
+5.If the expression “DO YOU WANT TO REPEAT THE TEST? YES NO” appears on the display screen indicating that a sample of breath has not been provided as required then —
+EITHER
+5.1Select “YES” and follow instructions 3 and 4 again.
+OR
+5.2Select “NO” to terminate the analysis.
+[Second Schedule amended: Gazette 24 Dec 1987 p. 4563-4; 28 Jan 2014 p. 183; 1 Dec 2017 p. 5735.]

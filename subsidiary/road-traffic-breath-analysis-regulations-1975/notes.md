@@ -13,6 +13,7 @@ Reprint 2: The Road Traffic (Breath Analysis) Regulations 1975 as at 9 Jan 2004 
 Road Traffic Legislation Amendment Regulations 2008 Pt. 3 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
 Road Traffic (Breath Analysis) Amendment Regulations 2014 | 28 Jan 2014 p. 182-3 | r. 1 and 2: 28 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jan 2014 (see r. 2(b))
 Road Traffic (Breath Analysis) Amendment Regulations 2016 | 15 Nov 2016 p. 5060-1 | r. 1 and 2: 15 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2016 (see r. 2(b))
+Road Traffic (Breath Analysis) Amendment Regulations 2017 | 1 Dec 2017 p. 5734-5 | r. 1 and 2: 1 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
