@@ -1,6 +1,6 @@
 ## Ninth Schedule — Eighth Supplementary Agreement
 [s. 2]
-[Heading inserted by No. 60 of 1987 s. 6; amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 60 of 1987 s. 6; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made this 27th day of October 1987
 BETWEEN:
 THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and
@@ -71,4 +71,4 @@ MINISTER FOR MINERALS AND ENERGY
 THE COMMON SEAL OF HAMERSLEY IRON PTY. LIMITED was hereunto affixed by authority of the Directors in the presence of: |  | (C.S.)
 Director M. A. O’LEARY
 Director C. J. S. RENWICK
-[Ninth Schedule inserted by No. 60 of 1987 s. 6.]
+[Ninth Schedule inserted: No. 60 of 1987 s. 6.]

@@ -1,6 +1,6 @@
 ## Eleventh Schedule — Tenth Supplementary Agreement
 [s. 2]
-[Heading inserted by No. 42 of 1992 s. 6; amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 42 of 1992 s. 6; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 25th day of May 1992
 B E T W E E N :
 THE HONOURABLE CARMEN MARY LAWRENCE, B. Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part
@@ -279,4 +279,4 @@ MINISTER FOR STATE DEVELOPMENT
 THE COMMON SEAL of HAMERSLEY IRON PTY. LIMITED was hereunto affixed by authority of the Directors in the presence of:
 Director I. J. WILLIAMS
 Secretary G. B. BABON
-[Eleventh Schedule inserted by No. 42 of 1992 s. 6.]
+[Eleventh Schedule inserted: No. 42 of 1992 s. 6.]
