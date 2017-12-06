@@ -1,6 +1,6 @@
 ## Thirteenth Schedule — Twelfth Supplementary Agreement
 [s. 2]
-[Heading inserted by No. 61 of 2010 s. 6.]
+[Heading inserted: No. 61 of 2010 s. 6.]
 2010
 THE HONOURABLE COLIN JAMES BARNETT PREMIER OF THE STATE OF WESTERN AUSTRALIA
 AND
@@ -453,4 +453,4 @@ presence of:)
 Director
 [Signature] |  | HELEN FERNIHOUGH
 Secretary
-[Thirteenth Schedule inserted by No. 61 of 2010 s. 6.]
+[Thirteenth Schedule inserted: No. 61 of 2010 s. 6.]

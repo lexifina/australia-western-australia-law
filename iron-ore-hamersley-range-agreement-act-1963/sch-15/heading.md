@@ -1,6 +1,6 @@
 ## Fifteenth Schedule — Fourteenth Supplementary Agreement
 [s. 2]
-[Heading inserted by No. 61 of 2011 s. 6.]
+[Heading inserted: No. 61 of 2011 s. 6.]
 2011
 THE HONOURABLE COLIN JAMES BARNETT
 PREMIER OF THE STATE OF WESTERN AUSTRALIA
@@ -137,4 +137,4 @@ by authority of the Directors in the presence of: )
 Director
 [Signature] |  | Helen Fernihough
 Secretary
-[Fifteenth Schedule inserted by No. 61 of 2011 s. 6.]
+[Fifteenth Schedule inserted: No. 61 of 2011 s. 6.]
