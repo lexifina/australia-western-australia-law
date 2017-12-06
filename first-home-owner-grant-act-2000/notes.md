@@ -21,7 +21,7 @@ Revenue Laws Amendment Act 2012 Pt. 3 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (se
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 3 | 32 of 2012 | 8 Oct 2012 | 9 Oct 2012 (see s. 2(e))
 Revenue Laws Amendment Act 2013 Pt. 4 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(c)(ii))
 Revenue Laws Amendment Act 2015 Pt. 2 Div. 1 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
-First Home Owner Grant Amendment Act 2017 s. 8-16 | 16 of 2017 | 5 Dec 2017 | 1 Jan 2017 (see s. 2(b))
+First Home Owner Grant Amendment Act 2017 | 16 of 2017 | 5 Dec 2017 | s. 8-16: 1 Jan 2017 (see s. 2(b)); s. 1 and 2: 5 Dec 2017 (see s. 2(a)); Act other than s. 1, 2, 8-16: 6 Dec 2017 (see s. 2(c))
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2003 s. 10 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2004 Pt. 3 is a transitional provision of no further effect.
@@ -134,7 +134,7 @@ relevant day21(3)
 relevant interest3(1), 6(1)
 relevant material3(1)
 repayment arrangement3(1)
-required repayment52(1)
+required repayment52(1A)
 required residence period3(1), 13(2)
 residence requirements3(1)
 residential property3(1), 3(2)
