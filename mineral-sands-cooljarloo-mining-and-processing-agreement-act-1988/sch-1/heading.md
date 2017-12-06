@@ -1,6 +1,6 @@
-## Schedule — Mineral Sands (Cooljarloo) Mining and Processing Agreement
+## Schedule 1 — Mineral Sands (Cooljarloo) Mining and Processing Agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4; No 14 of 2017 s. 6.]
 THIS AGREEMENT is made this 8th day of November 1988
 BETWEEN
 THE HONOURABLE PETER M’CALLUM DOWDING, LL.B., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part YALGOO MINERALS PTY. LTD. a company incorporated in Western Australia and having its registered office at 4th Level, 1050 Hay Street, West Perth and KMCC WESTERN AUSTRALIA PTY. LTD. a company incorporated in Western Australia and having its registered office at care of Robox Nominees Pty. Ltd., 35th Floor, R & I Tower, 108 St. George’s Terrace, Perth (hereinafter called “the Joint Venturers” in which term shall be included their respective successors and permitted assigns) of the second part and TIO2 CORPORATION NL a company incorporated in Western Australia and having its registered office at 4th Level, 1050 Hay Street, West Perth and KERR-McGEE CHEMICAL CORPORATION a company incorporated in the State of Delaware in the United States of America and having its principal place of business at Kerr-McGee Center, Oklahoma City, Oklahoma, United States of America (hereinafter called “the Guarantors”) of the third part.
