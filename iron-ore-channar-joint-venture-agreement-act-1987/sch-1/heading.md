@@ -1,6 +1,5 @@
-## Schedule — Iron Ore (Channar Joint Venture) Agreement
-[s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+## Schedule 1 — Iron Ore (Channar Joint Venture) Agreement
+[Heading inserted: No. 13 of 2017 s. 6.]
 THIS AGREEMENT made this 27th day of October 1987 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part CMIEC (CHANNAR) PTY. LTD. a company incorporated in Western Australia and having its registered office at 140 St. George’s Terrace, Perth and CHANNAR MINING PTY. LIMITED a company incorporated in Western Australia and having its registered office at 191 St. George’s Terrace, Perth (hereinafter together called the “Joint Venturers” in which term shall be included their respective successors and permitted assigns) of the second part and HAMERSLEY IRON PTY. LIMITED a company incorporated in Victoria and having its registered office in the State of Western Australia at 191 St George’s Terrace, Perth (hereinafter called “Hamersley”) of the third part.
 WHEREAS:
 (a)the Joint Venturers, having established the economic viability thereof, desire to recover and market to the People’s Republic of China iron ore from the land shown bordered green on the plan marked “A” (which has been initialled by or on behalf of the parties hereto for the purpose of identification) through a joint venture in which CMIEC (Channar) Pty. Ltd. will hold an undivided 40% Participating Interest and Channar Mining Pty. Limited will hold an undivided 60% Participating Interest; and
