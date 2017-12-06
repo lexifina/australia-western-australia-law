@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 January 2014 of the Iron Ore (Hamersley Range) Agreement Act 1963 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Iron Ore (Hamersley Range) Agreement Act 1963 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Iron Ore (Hamersley Range) Agreement Act 1963 | 24 of 1963 (12 Eliz. II No. 24) | 13 Nov 1963 | 13 Nov 1963
@@ -20,17 +20,19 @@ Iron Ore Agreements Legislation Amendment Act 2010 Pt. 3 | 34 of 2010 | 26 Aug 2
 Iron Ore Agreements Legislation Amendment Act (No. 2) 2010 Pt. 2 | 61 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(c))
 Iron Ore Agreements Legislation Amendment Act 2011 Pt. 2 | 61 of 2011 | 14 Dec 2011 | 15 Dec 2011 (see s. 2(b))
 Reprint 3: The Iron Ore (Hamersley Range) Agreement Act 1963 as at 17 Jan 2014 (includes amendments listed above)
+Iron Ore (Channar Joint Venture) (Hamersley Range) Agreements Amendment Act 2017 Pt. 3 | 13 of 2017 | 5 Dec 2017 | 6 Dec 2017 (see s. 2(b))
 Repealed by the Mining Act 1978.
 Repealed by the Interpretation Act 1984.
 Marginal notes in the agreement have been represented as headnotes in this reprint but that does not change their status as marginal notes.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Eleventh Supplementary Agreement2
-Fifth Supplementary Agreement2
 Agreement2, 4A(1)
 Company2
 Eighth Supplementary Agreement2
+Eleventh Supplementary Agreement2
+Fifteenth Supplementary Agreement2
+Fifth Supplementary Agreement2
 First Supplementary Agreement2
 Fourteenth Supplementary Agreement2
 Fourth Supplementary Agreement2
