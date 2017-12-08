@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table The table also contains information about any reprint.
+This is a compilation of the Sentencing Act 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | s. 1 and 2: 16 Jan 1996; Act other than s. 1, 2 and 19, and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -81,23 +81,24 @@ Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 9 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 (other than Div. 5 and s. 69 and 73) | 45 of 2016 | 7 Dec 2016 | Pt. 4 Div. 1 and 2: 8 Dec 2016 (see s. 2(b)); Pt. 3 Div. 1: 1 Jul 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1159); Pt. 4 Div. 3, 4 and 6 (other than s. 69 and 73: 1 Oct 2017 (see s. 2(c) and Gazette 29 Sep 2017 p. 4983)
 Statutes (Minor Amendments) Act 2017 s. 12 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
-Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 10: The Sentencing Act 1995 as at 8 Dec 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
  | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
+Other notes
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and were deleted by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
 The Sentencing Legislation Amendment and Repeal Act 1999 Pt. 2 Div. 3 (s. 14-26) are transitional provisions. They did not come into operation before the Act was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Sentencing Amendment (Adjustment of Sentences) Act 2000 s. 4-6 commenced 7 Dec 2000.
-The Sentencing Legislation Amendment and Repeal Act 2003 s. 22, which gives effect to Sch. 1 (amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5), reads as follows:
+The Sentencing Legislation Amendment and Repeal Act 2003 s. 22 and Sch. 1 (which was amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5) read as follows:
 22.Transitional provisions
 Schedule 1 has effect in relation to the amendments effected by this Division.
-Schedule 1 reads as follows:
 Schedule 1 — Transitional provisions
 [s. 22 and 29(2)]
 1.Interpretation
@@ -110,8 +111,8 @@ old provisions means the Sentencing Act 1995, and the repealed Act, as they woul
 repealed Act means the Sentence Administration Act 1995;
 sentencing amendments means the amendments to the Sentencing Act 1995 effected by Part 2 Division 4 and the repeal of the Sentence Administration Act 1995 effected by section 29(1).
 (2) In this Schedule, words and expressions have the same meanings as they have in the Sentencing Act 1995 and in particular, in Part 13 of that Act.
-[2.Deleted by No. 49 of 2008 s. 3.]
-[3A.As inserted by No. 49 of 2008 s. 4, expired 14 Jan 2012 (see cl. 3A(5).]
+[2.Deleted: No. 49 of 2008 s. 3.]
+[3A.As inserted: No. 49 of 2008 s. 4, expired 14 Jan 2012 (see cl. 3A(5).]
 3.Application of Interpretation Act 1984 s. 36
 Section 36 of the Interpretation Act 1984 applies as if the Sentence Administration Act 1995 had been repealed and re-enacted by the Sentence Administration Act 2003.
 4.Community orders imposed before commencement
@@ -157,7 +158,7 @@ the Minister, in writing, may discharge the person from the term.
 (b) has effect despite the old provisions.
 (7) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is in custody, the person must be released in respect of that term.
 (8) If, on the date a discharge has effect in relation to a person who is subject to an old parole term, the person is subject to a parole order made in respect of that term, the person ceases to be subject to the parole order in so far as it applies in respect of that term.
-[Clause 5A inserted by No. 5 of 2008 s. 109.]
+[Clause 5A inserted: No. 5 of 2008 s. 109.]
 6.Early release orders made before commencement
 If immediately before commencement a person is subject to a parole order, a home detention order, or a work release order, made under the repealed Act, then on and after commencement the repealed Act continues to apply to and in respect of that order.
 7.WROs
@@ -204,88 +205,14 @@ The Board’s annual report made under section 112 of the Sentence Administratio
 (a) any release of the person on parole in respect of the sentence is to be by means of a parole order made by the Governor under Part 3 of the Sentence Administration Act 2003;
 (b) the parole period for the parole order is that provided by section 27(3) of the Sentence Administration Act 2003; and
 (c) Part 3 Divisions 6 to 11 and Parts 4 to 10 of the Sentence Administration Act 2003 apply to and in respect of the person and the parole order.
-[14.Deleted by No. 49 of 2008 s. 5.]
+[14.Deleted: No. 49 of 2008 s. 5.]
 The Acts Amendment (Justice) Act 2008 s. 109 commenced 30 Sep 2008.
 The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3-5 commenced 14 Jan 2009.
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59, which purported to replace s. 84E, could not be included because s. 84E was not in operation when s. 59 came into operation. Section 59 was subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 75(2).
 The Parole and Sentencing Legislation Amendment Act 2006 s. 74(2) and 75(2) commenced 22 Sep 2006.
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts
-Division 18 — Sentencing Act 1995 amended
-124.Section 14 amended
-Delete section 14(6) and insert:
-(6) Unless the court directs that a summons issued under subsection (5) be served personally, the summons is to be served —
-(a) by pre-paid post; or
-(b) electronically in accordance with the regulations.
-127.Section 38 amended
-Delete section 38(2) and insert:
-(2) The review —
-(a) is to be based on an examination, in the absence of the parties, of the court documents relevant to the offence (whether the original documents or copies, or some other form of the documents prescribed by the regulations or rules of court); and
-(b) is not to involve a hearing.
 The Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) had not come into operation when it was deleted by the Statutes (Minor Amendments Act 2017 s. 4(2).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 23 — Sentencing Act 1995 amended
-329.Act amended
-This Division amends the Sentencing Act 1995.
-330.Schedule 1 amended
-In Schedule 1 delete the item relating to the Health (Miscellaneous Provisions) Act 1911.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 had not come into operation. They read as follows:
-Division 5 — Amendments about CROs
-56.Section 49 amended
-Delete section 49(1) and insert:
-(1) In this section —
-CEO (DOTAG) means the chief executive officer of the Public Sector agency principally assisting the Minister in the administration of this Part.
-(1A) A court making a CRO may impose any requirements on the offender it decides are necessary to secure the good behaviour of the offender.
-(1B) Without limiting subsection (1A), the court may impose a requirement that the offender participate in an activity approved by the CEO (DOTAG).
-(1C) For the purposes of a requirement imposed by a court under subsection (1B), the CEO (DOTAG) may approve —
-(a) any educational, vocational or personal development programme; or
-(b) any unpaid work; or
-(c) any other activity the CEO (DOTAG) considers appropriate.
-(1D) The number of hours set by a court for a requirement imposed by it under subsection (1B) must be at least 10 and not more than 60.
-(1E) As part of a requirement imposed by a court under subsection (1B), the court may require an offender to record the offender’s compliance with the requirement in a log book approved by the court.
-57.Section 51 amended
-(1) In section 51(1) delete “or a surety for the offender or both have —” and insert:
-has —
-(2) Delete section 51(3), (4) and (5).
-58.Section 52 amended
-(1) In section 52(2):
-(a) delete “If” and insert:
-Subject to subsections (3) and (7), if
-(b) delete the passage that begins with “State —” and continues to the end of the subsection and insert:
-State, must order that the full amount agreed to be paid or deposited by the offender be paid or forfeited (as the case may be) to the State.
-(2) Delete section 52(4).
-(3) After section 52(6) insert:
-(7) Despite subsection (2), the court may order that only part of the amount agreed to be paid or deposited by the offender be paid or forfeited (as the case may be) to the State if —
-(a) the breach of the CRO relates to a failure to complete a requirement under section 49(1B); and
-(b) the court is satisfied that —
-(i) the offender has completed part of the requirement; and
-(ii) it would be unjust to order the payment or forfeiture of the full amount.
-(8) The part of the amount ordered to be paid or forfeited under subsection (7) is to be a sum the court considers appropriate in the circumstances.
-59.Section 131 amended
-After section 131(1) insert:
-(1A) Subsection (1) does not apply to the breach of a CRO if the breach relates to a failure to complete a requirement referred to in section 49(1B).
-60.Section 133 amended
-In section 133(2) delete “section 52(2).” and insert:
-section 52(2) or (7).
-69.Section 80 amended
-(1) Delete section 80(5A).
-(2) In section 80(5)(b) delete “order under section 89,” and insert:
-order,
-(3) After section 80(7) insert:
-(7A) If an order is made under subsection (1)(c) or (d) under which a sentence of suspended imprisonment remains in effect and continues to elapse, the court must make the order subject to a supervision requirement in accordance with section 71 as if the sentence were an ISO.
-73.Section 86 amended
-In section 86:
-(a) delete “of 6 months” and insert:
-of 3 months
-(b) in paragraph (a) delete “6 months; or” and insert:
-3 months; or
-Note:The heading to amended section 86 is to read:
-Term of 3 months or less not to be imposed
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -327,7 +254,7 @@ fine57(1)
 firearm106(5)
 firearms offence106(5)
 fixed term9AA(1), 85(1)
-full sentence37A(1)
+full sentence37A(1)(a)
 head sentence9AA(1)
 imprisonable offence33A(1)
 indefinite imprisonment85(1)
@@ -342,7 +269,7 @@ motor vehicle105(5)
 motor vehicle offence105(5)
 nominal sentence98(1)
 offence4(1), 97A(1)
-offender4(1), 60D(1), 79(1), 84E(1), 129(1)
+offender4(1), 60D(1)(a), 79(1)(a), 84E(1)(a), 129(1)(a)
 original offence32(1)
 parole eligibility order4(1), 89(1)
 parole order85(1)
@@ -371,20 +298,20 @@ requirements125(1)
 requiring care23A
 sentence37(5), 37A(5)
 sentencing150A(1)
-sentencing day33B(1)
+sentencing day33B(1)(a)
 speciality court4(1), 84N(2)
 specified33H(15), 75(15), 84C(15)
-specified place33H(2), 75(2), 84C(2)
+specified place33H(2)(a), 75(2)(a), 84C(2)(a)
 spent conviction order4(1)
 statutory penalty4(1)
 superior court4(1)
 term85(1)
 term imposed35(1)
-third party118(1), 120(1)
+third party118(1), 120(1)(b)
 translated sentence 85(1)
 vessel107(5)
 victim9AA(1), 13, 23A, 97A(1), 116, 120(1)
 victim impact statement23A
 video link14A(4)
-WDO57A(4)
+WDO57A(4)(b)
 written reasons4(1), 80(5A)

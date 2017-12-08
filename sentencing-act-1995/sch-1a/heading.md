@@ -1,8 +1,8 @@
 ## Schedule 1A — Relevant indictable and simple offences for purposes of Part 2 Division 2A
 [s. 9A(1)]
-[Heading inserted by No. 49 of 2012 s. 181(4).]
+[Heading inserted: No. 49 of 2012 s. 181(4).]
 ## Part 1 — Relevant indictable offences
-[Heading inserted by No. 49 of 2012 s. 181(4).]
+[Heading inserted: No. 49 of 2012 s. 181(4).]
  | Enactment | Description of offence
 1. | The Criminal Code
  | s. 68B(2) | Being armed in or near place of public entertainment
@@ -104,9 +104,9 @@
 7. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury etc.
  | s. 59A | Dangerous driving causing bodily harm — if the offender is liable to imprisonment for 7 years
-[Part 1 inserted by No. 49 of 2012 s. 181(4); amended by No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39.]
+[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39.]
 ## Part 2 — Relevant simple offences
-[Heading inserted by No. 49 of 2012 s. 181(4).]
+[Heading inserted: No. 49 of 2012 s. 181(4).]
  | Enactment | Description of offence
 1. | The Criminal Code
  | s. 206 | Supplying intoxicants to people likely to abuse them
@@ -165,4 +165,4 @@
  | s. 7(1) and (2) | Offences relating to controlled weapons
  | s. 8A(2) and (3) | Selling or supplying controlled weapons to children
  | s. 8(1) | Carrying or possessing article as weapon
-[Part 2 inserted by No. 49 of 2012 s. 181(4); amended by No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5).]
+[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5).]
