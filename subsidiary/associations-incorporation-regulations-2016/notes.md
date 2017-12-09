@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Associations Incorporation Regulations 2016 | 24 Jun 2016 p. 2407-77 | 1 July 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291-2)
 Associations Incorporation Amendment Regulations 2017 | 10 Mar 2017 p. 1565-6 | r. 1 and 2: 10 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Mar 2017 (see r. 2(b))
+Associations Incorporation Amendment Regulations (No. 2) 2017 | 8 Dec 2017 p. 5842-3 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
