@@ -23,6 +23,7 @@ Local Government (Functions and General) Amendment Regulations 2011 | 27 Sep 201
 Reprint 3: The Local Government (Functions and General) Regulations 1996 as at 16 Mar 2012 (includes amendments listed above)
 Local Government (Functions and General) Amendment Regulations 2015 Pt. 2 | 18 Sep 2015 p. 3804-13 | 1 Oct 2015 (see r. 2(b))
 Local Government Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 3 | 30 Dec 2016 p. 5969-70 | 31 Dec 2016 (see r. 2(b))
+Local Government (Functions and General) Amendment Regulations 2017 | 8 Dec 2017 p. 5844-5 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2017 (see r. 2(b))
 The Local Government Act 1995 came into operation on 1 July 1996.
 The Local Government (Functions and General) Amendment Regulations 2001 r. 11 is a transitional provision that is of no further effect.
 Defined terms
