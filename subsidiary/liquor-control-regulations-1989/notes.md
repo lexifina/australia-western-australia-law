@@ -135,6 +135,7 @@ Reprint 14: The Liquor Control Regulations 1989 as at 5 May 2017 (includes amend
 Liquor Control Amendment Regulations (No. 4) 2017 | 18 Aug 2017 p. 4457 | r. 1 and 2: 18 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2017 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 3) 2017 | 12 Sep 2017 p. 4735-6 | r. 1 and 2: 12 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2017 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 5) 2017 | 3 Oct 2017 p. 5049-50 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Oct 2017 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 6) 2017 | 8 Dec 2017 p. 5849-50 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2017 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
