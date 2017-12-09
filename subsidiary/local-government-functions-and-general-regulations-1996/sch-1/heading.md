@@ -114,7 +114,7 @@ Person objecting
 (6) give details of grounds of objection
 (7) plans, specifications, letters, notices, or other documents (if appropriate)
 (8) signature of person objecting
-[Form 5 deleted in Gazette 30 Dec 2004 p. 7016.]
+[Form 5 deleted: Gazette 30 Dec 2004 p. 7016.]
 Form 6
 [reg. 36]
 Local Government Act 1995
