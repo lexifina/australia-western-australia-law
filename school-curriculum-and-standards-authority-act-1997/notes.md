@@ -20,7 +20,78 @@ Curriculum Council Amendment Act 2011 Pt. 2 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2
 Reprint 3: The School Curriculum and Standards Authority Act 1997 as at 27 Apr 2012 (includes amendments listed above)
 School Education Amendment Act 2012 Pt. 3 | 46 of 2012 | 29 Nov 2012 | 1 Jan 2013 (see s. 2(b))
 School Education Amendment Act 2014 Pt. 3 | 28 of 2014 | 27 Nov 2014 | 2 Feb 2015 (see s. 2(c) and Gazette 16 Jan 2015 p. 311)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+School Curriculum and Standards Authority Amendment Act 2017 s. 3-8 | 17 of 2017 | 13 Dec 2017 | To be proclaimed (see s. 2(b))
 Now known as the School Curriculum and Standards Authority Act 1997; short title changed (see note under s. 1).
+On the date as at which this compilation was prepared, the School Curriculum and Standards Authority Amendment Act 2017 s. 3-8 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the School Curriculum and Standards Authority Act 1997.
+4.Section 3 amended
+(1) In section 3 insert in alphabetical order:
+research involving students means research conducted by any person or body in relation to either or both of the following purposes —
+(a)promoting student achievement or student wellbeing;
+(b)understanding outcomes connected with student achievement or wellbeing;
+wellbeing, of a student, includes the following —
+(a)the care of the student;
+(b)the physical, emotional, psychological and educational development of the student;
+(c)the physical, emotional and psychological health of the student;
+(d)the safety of the student.
+(2) In section 3 in the definition of vocational education and training delete “Act 1996.” and insert:
+Act 1996;
+5.Section 9 amended
+In section 9(1):
+(a) after paragraph (e) insert:
+(ea) to administer and support the implementation of national assessment of student achievement that is the subject of agreements or arrangements made between the State and the Commonwealth (whether or not those agreements or arrangements involve another State or a Territory) or a governing body, for example, the National Assessment Program; and
+(b) in paragraph (q) delete “achievement;” and insert:
+achievement; and
+(c) after paragraph (q) insert:
+(r) to support the development of the national school curriculum and national assessments; and
+(s) to conduct and promote, or participate in, research involving students.
+6.Section 15 amended
+Delete section 15(2)(a).
+7.Section 32 amended
+(1) Delete section 32(1) and insert:
+(1) A person to whom subsection (2) applies must not (whether directly or indirectly) collect, use or disclose any information obtained by the person because of —
+(a) the person’s office, position, employment or engagement under or for the purposes of this Act; or
+(b) any disclosure made to the person under this Act.
+Penalty for this subsection: $10 000 and imprisonment for 12 months.
+(2) After section 32(3) insert:
+(4) A person does not commit an offence under subsection (1) if the collection, use, or disclosure of information is authorised under section 32A.
+Note:The heading to amended section 32 is to read:
+Confidentiality
+8.Section 32A and 32B inserted
+After section 32 insert:
+32A.Authorised collection, use, or disclosure of information
+(1) For the purposes of this Act, the collection, use or disclosure of information is authorised if the information is collected, used or disclosed in good faith in any of the following circumstances —
+(a) for the purpose of, or in connection with, performing a function under this Act or another written law;
+(b) as required or allowed under this Act or another law.
+(2) If the collection, use or disclosure of information is authorised under subsection (1) —
+(a) no civil or criminal liability is incurred in respect of the collection, use or disclosure; and
+(b) the collection, use or disclosure is not to be regarded as —
+(i) a breach of any duty of confidentiality or secrecy imposed by law; or
+(ii) a breach of professional ethics or standards or any principles of conduct applicable to a person’s employment; or
+(iii) unprofessional conduct.
+32B.Disclosure of information for research involving students
+(1) In this section —
+relevant information includes the following —
+(a)any report on student achievement finalised by the Authority under section 12;
+(b)information (including personal information) provided to, or disclosed by, the Authority under Part 3A;
+personal information means information about an individual whose identity is apparent or can be reasonably ascertained from the information.
+(2) The Board may disclose any relevant information that it holds for the purpose of, or in connection with, performing a function under this Act to any person or body that it considers appropriate who is carrying out, or who proposes to carry out, research involving students.
+(3) Before disclosing any relevant information that is or includes personal information, the Board must be satisfied that —
+(a) disclosure of the information is reasonably necessary for the purpose for which it is to be disclosed; and
+(b) the purpose for which the information is to be disclosed cannot be achieved by providing information that is not personal information; and
+(c) it is impracticable to obtain the consent of the individual or individuals to whom the information relates.
+(4) If the Board discloses any relevant information under this section, it may impose any conditions on the provision of the information that it thinks fit, including conditions —
+(a) requiring the person to whom the information is disclosed to take all reasonable steps to store the information in a way that protects it from misuse, interference, loss, unauthorised access or modification; and
+(b) requiring the person to whom the information is disclosed to use the information only for the purpose for which it is disclosed; and
+(c) specifying the maximum period that the information may be retained; and
+(d) relating to the copying, return, or disposal of the information.
+(5) A person to whom information is disclosed under this section must not contravene a condition that applies to the disclosure.
+Penalty for this subsection: a fine of $10 000.
+(6) The regulations may prescribe procedures relating to the disclosure of information under this section that the Board must comply with.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
