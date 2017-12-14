@@ -22,6 +22,7 @@ Taxation Legislation Amendment Act (No. 3) 2015 Pt. 4 | 15 of 2015 | 26 May 2015
 Health Services Act 2016 s. 298 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 27 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Pay-roll Tax Assessment Amendment (Debt and Deficit Remediation) Act 2017 | 20 of 2017 | 13 Dec 2017 | s. 1 and 2: 13 Dec 2017 (see s. 2(a)); Act other than s. 1 and 2: 14 Dec 2017 (see s. 2(b))
+Pay-roll Tax Assessment Amendment (Exemption for Trainees) Act 2018 | 7 of 2018 | 18 May 2018 | Act other than s. 1 and 2: 1 Dec 2017 (see s. 2(b)); s. 1 and 2: 18 May 2018 (see s. 2(a))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5.
@@ -44,6 +45,7 @@ adoption leave41A(1)
 agentGl.
 aggregate interest35D(1)
 annual threshold amountGl.
+apprentice41D(1), Sch. 1 cl. 15
 assessment amendmentsSch. 1 cl. 8(1)
 assessment yearGl.
 associated person35A(1)
@@ -52,7 +54,8 @@ Australian superannuation fundGl.
 Australian taxable wagesGl.
 businessGl.
 charitable body or organisationGl.
-commencement daySch. 1 cl. 10
+class A or class B qualification41D(1)
+commencement daySch. 1 cl. 10 and cl. 15
 Commonwealth income tax provisions9DD(1)
 companyGl.
 controlling interestGl.
@@ -77,16 +80,19 @@ employment termination payment9EA(2)
 entity35A(1)
 exemptGl.
 exemptionSch. 1 cl. 10
+existing training contractSch. 1 cl. 15
 expected pay-roll tax liability28A(3), 29(1b)
 FBT yearGl.
 FBTA ActGl.
 fringe benefitGl.
 groupGl.
+group member41D(1)
 GSTGl.
 indirect interest35C(1)
 indirectly controlled corporation35C(3)
 individual superannuation guarantee shortfallGl.
 industrial associationGl.
+initial employer41D(1)
 instrument6D(1)
 interstate non-group employerGl.
 interstate taxable wagesGl.
@@ -96,9 +102,10 @@ local non-group employerGl.
 maternity leave41A(1)
 monthly threshold amountGl.
 motor vehicle allowanceGl.
-new employee41C(1), 41C(4)
+new employee41C(1) and (4)
 new provisionsSch. 1 cl. 10
 new section 9DASch. 1 cl. 8(1)
+nominal period41D(1)
 nominated deductionGl.
 non-group employerGl.
 non-profit organisationGl.
@@ -125,6 +132,7 @@ provideGl.
 quarter29(4d)
 registeredGl.
 registered business addressGl.
+registered training contract41D(1)
 related body corporateGl.
 related person35A(1)
 relevant bodySch. 1 cl. 13(1), Gl.
@@ -147,12 +155,14 @@ taxes42(2), 43(11), Gl.
 tax-reducing arrangementGl.
 termination payment9EA(2)
 TerritoryGl.
+training contract41D(1)
 trusteeGl.
 unused annual leave payment9EA(2)
 unused long service leave payment9EA(2)
 upper threshold amountGl.
 valueGl.
-vesting day9DB(2), 9DB(3)
+vesting day9DB(2) and (3)
+VET Act41D(1)
 voting shareGl.
 WA fringe benefitsGl.
 WA taxable wages5(2), Gl.
