@@ -1,76 +1,23 @@
 Notes
-This is a compilation of the Criminal Investigation (Covert Powers) Act 2012 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Criminal Investigation (Covert Powers) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Investigation (Covert Powers) Act 2012 | 55 of 2012 | 3 Dec 2012 | s. 1 and 2: 3 Dec 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 1: The Criminal Investigation (Covert Powers) Act 2012 as at 15 Dec 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 4 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 Pt. 19 Div. 4 had not come into operation. It reads as follows:
-Part 19 — Consequential amendments to other Acts
-Division 4 — Criminal Investigation (Covert Powers) Act 2012 amended
-329.Act amended
-This Division amends the Criminal Investigation (Covert Powers) Act 2012.
-330.Section 3 amended
-(1) In section 3 delete the definitions of:
-fisheries department
-fisheries officer
-(2) In section 3 insert in alphabetical order:
-aquatic resources department means the department principally assisting in the administration of the Aquatic Resources Management Act 2016;
-compliance officer has the meaning given in the Aquatic Resources Management Act 2016 section 3(1);
-(3) In section 3 in the definition of authorising officer paragraph (a) delete “fisheries” and insert:
-aquatic resources
-(4) In section 3 in the definition of chief officer paragraph (c) delete “fisheries” and insert:
-aquatic resources
-(5) In section 3 in the definition of law enforcement agency delete paragraph (c) and insert:
-(c)the aquatic resources department;
-(6) In section 3 in the definition of law enforcement officer delete paragraph (d) and insert:
-(d)a compliance officer holding a prescribed office in the aquatic resources department;
-(7) In section 3 in the definition of Minister delete paragraph (c) and insert:
-(c)in relation to the aquatic resources department, means the Minister administering the Aquatic Resources Management Act 2016;
-(8) In section 3 in the definition of this jurisdiction paragraph (b):
-(a) delete “fisheries” and insert:
-aquatic resources
-(b) delete “Fish Resources Management Act 1994 section 5(b) to (d).” and insert:
-Aquatic Resources Management Act 2016 section 5(1)(b) and (c).
-331.Section 5 amended
-In section 5 in the definition of relevant offence:
-(a) before paragraph (b)(i) insert:
-(ia)the Aquatic Resources Management Act 2016;
-(b) delete paragraph (b)(iv).
-332.Section 43 amended
-In section 43(1) in the definition of senior officer paragraph (c):
-(a) delete “fisheries” (1st occurrence) and insert:
-aquatic resources
-(b) delete “fisheries” (2nd occurrence) and insert:
-compliance
-333.Section 48 amended
-In section 48(4)(c) delete “fisheries” and insert:
-aquatic resources
-334.Section 79 amended
-In section 79(1) in the definition of senior officer paragraph (c):
-(a) delete “fisheries” (1st occurrence) and insert:
-aquatic resources
-(b) delete “fisheries” (2nd occurrence) and insert:
-compliance
-335.Section 83 amended
-In section 83(1)(b)(iii) delete “fisheries” and insert:
-compliance
-336.Section 105 amended
-In section 105(1) in the definition of senior officer paragraph (c):
-(a) delete “fisheries” (1st occurrence) and insert:
-aquatic resources
-(b) delete “fisheries” (2nd occurrence) and insert:
-compliance
+Other notes
+The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 acquire44
 ancillary conduct31(1)
 appeal80
-assumed name80, 83(2)
+assumed name80, 83(2)(a)(i)
 Australian Crime Commission3
 authorised civilian44
 authorised officer44
@@ -103,11 +50,11 @@ evidence44, 58(1)
 false representation80
 fisheries department3
 fisheries officer3
-formal application5, 10(2), 47(3)
-formal authority5, 15(1), 44, 49(1)
-formal cancellation of authority52(3)
-formal variation application5, 19(3)
-formal variation of authority5, 21(1), 51(4)
+formal application5, 10(2)(a), 47(3)(a)
+formal authority5, 15(1)(a), 44, 49(1)(a)
+formal cancellation of authority52(3)(a)
+formal variation application5, 19(3)(a)
+formal variation of authority5, 21(1)(a), 51(4)(a)
 former authorisation109(1), 110(1)
 government agency3
 government issuing agency44
@@ -129,7 +76,7 @@ officer44
 operational information35(1)
 operative80
 original court93(1)
-outstanding83(1), 83(1)
+outstanding83(1)(a) and (b)
 parliamentary committee80
 parliamentary proceeding80
 participant5, 28(1)
@@ -152,10 +99,10 @@ sexual offence5
 supervisor44
 suspect5
 this jurisdiction3
-urgent application5, 10(2), 47(3)
-urgent authority5, 15(1), 49(1)
-urgent cancellation of authority52(3)
-urgent variation application5, 19(3)
-urgent variation of authority5, 21(1), 51(4)
+urgent application5, 10(2)(b), 47(3)(b)
+urgent authority5, 15(1)(b), 49(1)(b)
+urgent cancellation of authority52(3)(b)
+urgent variation application5, 19(3)(b)
+urgent variation of authority5, 21(1)(b), 51(4)(b)
 use44
 witness identity protection certificate80
