@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health (Miscellaneous Provisions) Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 December 2017 of the Health (Miscellaneous Provisions) Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 (1 Geo. V No. 45) | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
@@ -140,14 +140,15 @@ Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | 30 Jan 
 Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
  | Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
-Other proclamations relating to offensive trades were published in the Gazette on —
+Proclamations relating to offensive trades were published in the Gazette on —
 20 September 1918
 9 April 1948
 10 February 1950
@@ -164,9 +165,9 @@ Other proclamations relating to offensive trades were published in the Gazette o
 26 November 1993
 16 June 1995
 28 June 1996
-The Evidence Act 1906 s. 106 was deleted by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
-Renumbering of sections of the Act and certain Part and Division headings was effected in earlier reprints under the Health Act Amendment Act 1919 s.4 and the Health Act Amendment Act 1933 (No. 2) s. 42.
-The amendment in the Caravan Parks and Camping Grounds Act 1995 s. 33 is not included as the section it sought to amend had been deleted by the Local Government (Consequential Amendments) Act 1996 s. 4 before the amendment purported to come into operation.
+Renumbering of sections of the Act and certain Part and Division headings was effected in earlier reprints under the Health Act Amendment Act 1919 s. 4 and the Health Act Amendment Act 1933 (No. 2) s. 42.
+The amendment in the Caravan Parks and Camping Grounds Act 1995 s. 33 is not included as the section it sought to amend had been deleted by the Local Government (Consequential Amendments) Act 1996 s. 4 before the amendment came into operation.
+Now known as the Health (Miscellaneous Provisions) Act 1911; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Third and Fourth Schedules were inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
 The Acts Amendment (Statutory Designations) and Validation Act 1981 s. 5 is a validation provision that is of no further effect.
@@ -183,10 +184,10 @@ Savings
 The repeal of any provision by the previous clause does not affect the continuation of any thing done by or under that provision prior to its repeal.
 Transitional
 On the day on which this Act comes into operation a regulation under section 343(5) of the Health Act 1911 as in force before this Act came into operation, becomes a regulation under section 343A of the Health Act 1911.
-The amendment in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 39(3) is not included because the section it sought to amend had been deleted by the Hospitals Amendment Act 1994 s. 18 before the amendment purported to come into operation.
+The amendment in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 39(3) is not included because the section it sought to amend had been deleted by the Hospitals Amendment Act 1994 s. 18 before the amendment came into operation.
 The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 39(8) is a transitional provision that is of no further effect.
 The Acts Amendment (Abortion) Act 1998 s. 8 is a transitional provision that is of no further effect.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 23 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 23 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13) before it came into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
 Division 13 — Transitional provisions
@@ -216,8 +217,7 @@ specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
-Footnote no longer required.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) had not come into operation. They read as follows:
 Part 4 — Health (Miscellaneous Provisions) Act 1911 amended
 Division 2 — Part I amended
 208.Section 5 deleted
@@ -402,7 +402,6 @@ Section 340AL(1c)
 276.Schedule 6 amended
 After Schedule 6 clause 5(2) insert:
 (2A) The persons who held office under section 340AB(3)(d) as members of the Perinatal and Infant Mortality Committee, or as deputies of those members, immediately before the coming into operation of the Public Health (Consequential Provisions) Act 2016 section 248 continue in office, under and subject to Part XIIIB, as members or, as the case requires, deputies of members of the Committee until the expiry of their respective terms as if they had been appointed by the Minister on the nomination of the chief executive of the health service provider for Perth Children’s Hospital under the Health Services Act 2016.
-Now known as the Health (Miscellaneous Provisions) Act 1911; short title changed (see note under s. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -410,9 +409,7 @@ Agvet Code of Western Australia3(1)
 analyst3(1)
 Analytical Committee3(1), 247AA
 apparatus for the treatment of sewage3(1), 100(4)
-approved laboratory290
-approved medical officer290
-authorised officer3(1)
+authorised officer3(1) and (2A)
 authorised person173
 cellar3(1)
 CEO3(1)
@@ -421,14 +418,12 @@ cesspool3(1)
 Chairman246B(3)
 Chief Health Officer3(1)
 child care centre337(2A)
-commencement daySch. 6 cl. 2 and cl. 4
+commencement daySch. 6 cl. 2 and 4
 Committee340A, 340AA, 340BA
-communicable tuberculosis290
 co-opted member246B(9)
 daily penalty3(1)
 dairy3(1)
 dairy produce3(1)
-declared patient290
 dentist331
 Department3(1)
 departmental officer13A(1)
@@ -436,8 +431,8 @@ disposal3(1)
 district3(1)
 drain3(1)
 employed in the Department13A(1)
+food3(1)
 HIV infection3(1)
-hospital290
 house3(1)
 infectious disease3(1)
 informed consent334(5)
@@ -460,6 +455,7 @@ offensive3(1)
 offensive matter3(1)
 offensive trade186(1)
 owner3(1), 100(4)
+person in default116(e)
 pesticide3(1)
 Pesticides Advisory Committee246
 piggery3(1)
@@ -467,7 +463,6 @@ pig-swill3(1)
 premises 3(1)
 prescribed3(1)
 prescribed condition of health289B
-prisoner309(1)
 private place3(1)
 proclamation3(1)
 public building173
@@ -475,7 +470,6 @@ public house3(1)
 public place3(1)
 public vehicle3(1)
 rack-rent3(1)
-reasonable evidence292
 regular member246B(9)
 regulation3(1)
 relative3(1)
@@ -489,16 +483,13 @@ section 13179(7)
 sell3(1)
 sewage3(1)
 sewer3(1)
-statement313(3)
 street3(1)
 therapeutic use3(1)
 this Act3(1)
 trade3(1)
-tuberculosis290
 underground room3(1)
 venereal disease3(1)
 vessel3(1)
-voluntary patient290
 WALGA247AA
-Water supply129
+water supply129
 writing3(1)
