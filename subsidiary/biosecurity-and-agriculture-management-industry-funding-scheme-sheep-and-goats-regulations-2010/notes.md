@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Biosecurity and Agriculture Management Industry Funding Scheme (Sheep and Goats) Regulations 2010 | 21 May 2010 p. 2127-57 | r. 1 and 2: 21 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2010 (see r. 2(b))
 Public Sector Reform (Consequential Amendments) Regulations 2011 r. 20 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
+Biosecurity and Agriculture Management Industry Funding Scheme (Sheep and Goats) Amendment Regulations 2017 | 19 Dec 2017 p. 5933-5 | r. 1 and 2: 19 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2017 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
