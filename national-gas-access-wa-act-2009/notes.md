@@ -4,13 +4,14 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 National Gas Access (WA) Act 2009 | 16 of 2009 | 1 Sep 2009 | s. 1 and 2: 1 Sep 2009 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Petroleum and Energy Legislation Amendment Act 2010 s. 184 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) Gazette 24 May 2011 p. 1892)
+National Gas Access (WA) (Act Amendment) Regulations 2017 published in Gazette 22 Dec 2017 p. 5985-6 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b) and Gazette 22 Dec 2017 p. 5984)
 ## Note — Western Australian National Gas Access Law text
 [This note is not part of the Act. It shows the text that, under section 7(1), applies as the National Gas Access (Western Australia) Law.]
 ## Chapter 1 — Preliminary
 ## Part 1 — Citation and interpretation
 ### 1. Citation
 This law may be cited as the National Gas Access Law.
-[Section 1 modified by WA Act Sch. 1 cl. 2.]
+[Section 1 modified: WA Act Sch. 1 cl. 2.]
 ### 2. Definitions
 In this Law—
 15-year no-coverage determination means a determination of a relevant Minister under Chapter 5 Part 2;
@@ -125,7 +126,9 @@ greenfields pipeline incentive means—
 (b)a price regulation exemption;
 haulage, in relation to natural gas, includes conveyance or reticulation of natural gas;
 initial classification decision means a decision of the NCC under section 98 or 155;
-initial National Gas Rules means the National Gas Rules that, when section 30 of the National Gas Access (WA) Act 2009 comes into operation, apply under section 294;
+initial National Gas Rules means —
+(a)the National Gas Rules that, when the National Gas Access (WA) Act 2009 section 30 came into operation, applied under section 294; and
+(b)the National Gas Access (Pipelines-Arbitration Amendment) Rules 2017 made by the Minister for Mineral Resources and Energy of South Australia under the National Gas (South Australia) Law section 294F (notice of which was published in the Government Gazette of South Australia on 1 August 2017 at p. 2994);
 international pipeline means a pipeline for the haulage of gas from a foreign source;
 jurisdictional determination criteria, in relation to a cross boundary distribution pipeline, has the meaning given by section 14;
 jurisdictional gas legislation means an Act of a participating jurisdiction (other than national gas legislation), or any instrument made or issued under or for the purposes of that Act, that regulates the haulage of gas in that jurisdiction;
@@ -289,14 +292,14 @@ user or consumer association has the meaning given by section 244;
 user or consumer interest group has the meaning given by section 244;
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria;
 WA arbitrator has the meaning given to that term in section 9(1) of the National Gas Access (WA) Act 2009.
-[Section 2 modified by WA Act Sch. 1 cl. 3; amended, see SA Act No. 30 of 2009 s. 6 and WA Gazette 18 Dec 2009 p. 5167; Act No. 79 of 2013 s. 19 and WA Gazette 14 Mar 2014 p. 632.]
+[Section 2 modified: WA Act Sch. 1 cl. 3; amended, see SA Act No. 30 of 2009 s. 6 and WA Gazette 18 Dec 2009 p. 5167; SA Act No. 79 of 2013 s. 19 and WA Gazette 14 Mar 2014 p. 632.]
 ### 2A. Meaning of AER modified
 (1)In this Law, other than in the definition of AER in section 2, a reference to the AER is to be read as a reference to the regulator (whether the ERA or the AER) except to the extent that subsection (2) gives a different meaning.
 (2)To the extent to which a reference to the AER is capable of being read as a reference to the Australian Energy Regulator established by section 44AE of the Trade Practices Act 1974 of the Commonwealth acting as the disputes resolution body, the term is to be read as having or including that meaning.
-[Section 2A inserted by WA Act Sch. 1 cl. 4.]
+[Section 2A inserted: WA Act Sch. 1 cl. 4.]
 ### 2B. References to WA application Act
 In this Law, a reference to the National Gas Access (Western Australia) Act 2008, if any, is to be read as a reference to the National Gas Access (WA) Act 2009.
-[Section 2B inserted by WA Act Sch. 1 cl. 4.]
+[Section 2B inserted: WA Act Sch. 1 cl. 4.]
 ### 3. Meaning of civil penalty provision
 A civil penalty provision is—
 (a)a provision of this Law specified in an item in the Table at the foot of this section; or
@@ -453,10 +456,10 @@ For the purposes of this Law, an extension to, or expansion of the capacity of, 
 ### 20. Interpretation generally
 Schedule 2 to this Law applies to this Law, the Regulations and the Rules and any other statutory instrument made under this Law.
 ## Part 1A — Postponement of Natural Gas Services Bulletin Board provisions
-[Heading inserted by WA Act Sch. 1 cl. 5.]
+[Heading inserted: WA Act Sch. 1 cl. 5.]
 ### 20A. Minister may fix day on which provisions apply
 To the extent that a provision of this Law relates to the Natural Gas Services Bulletin Board, the provision does not apply before a day is fixed by the Minister, by an order notice of which is published in the Government Gazette, as the day on and after which provisions of this Law relating to the Natural Gas Services Bulletin Board apply.
-[Section 20A inserted by WA Act Sch. 1 cl. 5.]
+[Section 20A inserted: WA Act Sch. 1 cl. 5.]
 ## Part 2 — Participating jurisdictions
 ### 21. Participating jurisdictions
 The State of South Australia, the Commonwealth, each of the States of New South Wales, Victoria, Queensland, Western Australia and Tasmania, and the Australian Capital Territory and the Northern Territory are participating jurisdictions for the purposes of this Law.
@@ -539,7 +542,7 @@ are, in accordance with the Rules —
 [Section 28 amended see SA Act No. 79 of 2013 s. 20 and WA Gazette 14 Mar 2014 p. 632.]
 ### 29. Delegations
 Any delegation by the AER under section 44AAH of the Trade Practices Act 1974 of the Commonwealth or by the ERA under section 29 of the Economic Regulation Authority Act 2003 extends to, and has effect for the purposes of, this Law, the Regulations and the Rules.
-[Section 29 modified by WA Act Sch. 1 cl. 6.]
+[Section 29 modified: WA Act Sch. 1 cl. 6.]
 ### 30. Confidentiality
 (1)Section 44AAF of the Trade Practices Act 1974 of the Commonwealth has effect for the purposes of this Law, the Regulations and the Rules as if it formed part of this Law.
 (2)Without limiting section 2A, that section also applies to section 44AAF as adopted by subsection (1) and, when the adopted section is read as if a reference in it to the AER were a reference to the ERA, it is further modified as follows:
@@ -549,7 +552,7 @@ Any delegation by the AER under section 44AAH of the Trade Practices Act 1974 of
 (i)an ERA member, a person assisting the ERA in the performance of its functions or a delegate of the ERA;
 Note—
 See also Chapter 10 Part 2 Division 1.
-[Section 30 modified by WA Act Sch. 1 cl. 7.]
+[Section 30 modified: WA Act Sch. 1 cl. 7.]
 ## Division 2 — Search warrants
 ### 31. Definitions
 In this Division—
@@ -876,14 +879,14 @@ decision related matter, in relation to a designated reviewable regulatory decis
 (g)the transcript of any hearing (if any) conducted by the AER for the purpose of making the decision.
 [Section 68C inserted see SA Act No. 79 of 2013 s. 21 and WA Gazette 14 Mar 2014 p. 632.]
 ## Part 1A — Functions and powers of WA arbitrator
-[Heading inserted by WA Act Sch. 1 cl. 8.]
+[Heading inserted: WA Act Sch. 1 cl. 8.]
 ### 68A. Manner in which WA arbitrator must perform or exercise certain functions or powers
 (1)The WA arbitrator must, in performing or exercising a function or power that relates to an access determination, perform or exercise that function or power in a manner that will or is likely to contribute to the achievement of the national gas objective.
 (2)In addition, the WA arbitrator—
 (a)must take into account the revenue and pricing principles when making an access determination relating to a rate or charge for a pipeline service; and
 (b)may take into account the revenue and pricing principles when performing or exercising any other function or power that relates to an access determination, if the WA arbitrator considers it appropriate to do so.
 (3)For the purposes of subsection (2)(a), a reference to a reference service in the revenue and pricing principles must be read as a reference to a pipeline service.
-[Section 68A inserted by WA Act Sch. 1 cl. 8.]
+[Section 68A inserted: WA Act Sch. 1 cl. 8.]
 ## Part 2 — Functions and powers of the Australian Energy Market Commission
 ## Division 1 — General
 ### 69. Functions and powers of the AEMC
@@ -1011,6 +1014,25 @@ Subject to any requirement or direction of the MCE, a MCE directed review—
 (a)give a copy of the report to the MCE; and
 (b)publish a report or a version of a report from which confidential information has been omitted in accordance with section 331.
 ## Division 6 — Miscellaneous matters
+### 83A. Special information and transparency requirements relating to non-scheme pipelines
+(1)In this section—
+non-scheme pipeline means—
+(a)a transmission pipeline that is not a scheme pipeline; and
+(b)a distribution pipeline that is not a scheme pipeline.
+(2)Without limiting any other provision, the Rules may provide for such things as—
+(a)the collection, disclosure, verification, management and publication of information in relation to services that may be provided by a non-scheme pipeline; and
+(b)without limiting paragraph (a), requirements about the information that must be provided by service providers in relation to access (or potential access) to services provided by means of any non-scheme pipeline, including information about—
+(i)the terms and conditions on which the service provider is prepared to make a non-scheme pipeline available for use by others; and
+(ii)the procedures that the service provider will apply in determining a proposal for access to a non-scheme pipeline; and
+(iii)relevant prices, costs and methodologies associated with gaining access to (and using) a non-scheme pipeline and relevant or related services; and
+(iv)access contracts and arrangements used (or required to be used) by the service provider; and
+(c)without limiting paragraphs (a) and (b), information to be provided by a service provider in response to a request for access to services provided by means of a non-scheme pipeline; and
+(d)requirements to ensure that information is accurate and complete; and
+(e)requirements that relate to any matter that is contemplated by Chapter 4 Part 2 (as if a reference to a covered pipeline service provider in that Part were a reference to a service provider in relation to a non-scheme pipeline and subject to any modifications made by the Rules and subject to such other necessary alterations and modifications so as to apply those requirements in relation to non-scheme pipelines); and
+(f)the imposition or recovery of costs associated with any matter referred to in a preceding paragraph or otherwise associated with facilitating access (or potential access) to services provided by means of a non-scheme pipeline.
+(3)Nothing in subsection (2) limits any power to grant an exemption from complying with a provision, or part of a provision, of the Rules.
+(4)A reference in subsection (2) with respect to gaining access (or potential access) to services provided by means of a non-scheme pipeline includes a reference to services that will require an extension to, or expansion of the capacity of, a non-scheme pipeline.
+[Section 83A inserted: see SA Act No. 23 of 2017 s. 4 and WA Gazette 22 Dec 2017 p. 5984.]
 ### 84. AEMC must publish and make available up to date versions of Rules
 The AEMC must, at all times—
 (a)maintain, on its website, a copy of the National Gas Rules, as in force from time to time; and
@@ -1776,7 +1798,8 @@ The relevant Minister may, on application by the AER, revoke a greenfields pipel
 The Commonwealth Minister, on application by the AER, may revoke a price regulation exemption on the ground that the service provider has breached a condition to which the price regulation exemption is subject.
 ### 177. Exhaustive provision for termination of greenfields pipeline incentive
 A greenfields pipeline incentive does not terminate, and cannot be revoked, before the end of its term except as provided in this Part.
-## Chapter 6 — Access disputes
+## Chapter 6 — Access disputes—scheme pipelines
+[Heading inserted: see SA Act No. 23 of 2017 s. 5 and WA Gazette 22 Dec 2017 p. 5984.]
 ## Part 1 — Interpretation and application
 ### 178. Definitions
 In this Chapter—
@@ -1805,7 +1828,7 @@ A dispute about access to a light regulation service may be notified under this 
 (b)the WA arbitrator may request the ERA to give the WA arbitrator any information in the ERA’s possession that is relevant to the dispute.
 (2)The ERA is to give the WA arbitrator the information requested, whether or not it is confidential and whether or not it came into the ERA’s possession for the purposes of resolving the dispute.
 (3)If the ERA gives the WA arbitrator information that is confidential, the ERA is to identify the nature and extent of the confidentiality and the WA arbitrator is to treat the information accordingly.
-[Section 181A inserted by WA Act Sch. 1 cl. 9.]
+[Section 181A inserted: WA Act Sch. 1 cl. 9.]
 ### 182. Withdrawal of notification
 (1)The person who notified the dispute resolution body of an access dispute under section 181(1) may withdraw that notification at any time before the dispute resolution body makes an access determination in respect of that access dispute.
 (2)The notification must be withdrawn by notice in writing.
@@ -2038,6 +2061,174 @@ subsequent service provider means a service provider (other than the service pro
 The Regulations may provide for the dispute resolution body to—
 (a)charge the parties to an access dispute for its costs in the access dispute; and
 (b)apportion those costs between the parties.
+## Chapter 6A—Access disputes—non-scheme pipelines
+[Heading inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+## Part 1—Interpretation and application
+[Heading inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216A. Definitions
+In this Chapter—
+access determination means a determination of an arbitrator under Part 3 and includes a variation under Part 5;
+access dispute means a dispute between a user or prospective user and a service provider about 1 or more aspects of access to a pipeline service provided by means of a non-scheme pipeline (subject to the operation of section 216C(2));
+dispute hearing means a hearing conducted by an arbitrator under this Chapter for the purpose of making an access determination;
+distribution pipeline means a pipeline that is classified in accordance with this Law or the Rules as a distribution pipeline and includes any extension to, or expansion of the capacity of, such a pipeline that, by operation of an access arrangement or access determination, is to be treated as part of the pipeline;
+non-scheme pipeline means a pipeline to which this Chapter applies by operation of section 216C;
+party, in relation to an access dispute, has the meaning given by section 216I;
+prospective user has the meaning given by section 216B;
+scheme administrator means the AER;
+transmission pipeline means a pipeline that is classified in accordance with this Law or the Rules as a transmission pipeline and includes any extension to, or expansion of the capacity of, such a pipeline that, by operation of an access arrangement or access determination, is to be treated as part of the pipeline;
+user means a person who—
+(a)is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a non-scheme pipeline; or
+(b)has a right under an access determination to be provided with a pipeline service by means of a non-scheme pipeline.
+[Section 216A inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216B. Meaning of prospective user
+(1)For the purposes of this Chapter, a prospective user is a person who seeks or wishes to be provided with a pipeline service by means of a non-scheme pipeline.
+(2)To avoid doubt, a user is also a prospective user for the purposes of this Chapter if the user seeks or wishes to be provided with a pipeline service by means of a non-scheme pipeline other than a pipeline service already provided to them under—
+(a)a contract; or
+(b)an access determination.
+(3)Subsection (2)(b) does not limit the operation of Part 5.
+[Section 216B inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216C. Application of Chapter
+(1)Subject to subsection (2), this Chapter applies to and in relation to—
+(a)a transmission pipeline that is not a scheme pipeline; and
+(b)a distribution pipeline that is not a scheme pipeline.
+(2)This Chapter does not apply to or in relation to—
+(a)a pipeline, or part of a pipeline, excluded from the operation of this Chapter by the Rules; or
+(b)a pipeline within a class or group of pipelines excluded from the operation of this Chapter by the Rules; or
+(c)a pipeline service (including in relation to a specific pipeline, or part of a specific pipeline) excluded from the operation of this Chapter by the Rules.
+[Section 216C inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216D. Application of this Chapter to disputes arising under Rules
+The provisions of this Chapter applicable to the determination of an access dispute apply, subject to such modifications as may be prescribed by the Rules, to the determination of any dispute arising under any provision of the Rules specified in the Rules for the purposes of this section.
+[Section 216D inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216E. Chapter does not limit how disputes about access may be raised or dealt with
+This Chapter is not to be taken to limit how a dispute about access to a pipeline service may be raised or dealt with.
+[Section 216E inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+## Part 2—Negotiation of access
+[Heading inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216F. Access proposals
+The Rules may contain provisions for or with respect to seeking access to a pipeline service provided or to be provided by means of a non-scheme pipeline (or by part of a non-scheme pipeline or by an extension to, or expansion of the capacity of, a non-scheme pipeline).
+[Section 216F inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216G. Duty to negotiate in good faith
+A prospective user or user seeking access to a pipeline service provided or to be provided by means of a non-scheme pipeline (or by part of a non-scheme pipeline or by an extension to, or expansion of the capacity of, a non-scheme pipeline), and the service provider for the relevant non-scheme pipeline, must negotiate in good faith with each other about whether access can be granted and, if so, the terms and conditions for the provision of access to the prospective user or user (as the case requires).
+[Section 216G inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216H. Notification of access dispute
+(1)Subject to this section, if a prospective user or user (as the case requires) and a service provider cannot agree about 1 or more aspects of access to a pipeline service after a request has been made in accordance with the Rules, the prospective user or user, or the service provider, may notify the scheme administrator, in writing, that an access dispute exists.
+(2)A notification must include, in accordance with the Rules, information about—
+(a)the matters (if any) on which agreement has been reached; and
+(b)the matters that are in dispute; and
+(c)any other matter specified by the Rules.
+(3)A notification must be accompanied by the fee set by the Rules (if any).
+(4)A notification cannot be made under this section if the access dispute relates to a matter excluded from arbitration under this Chapter by the Rules.
+[Section 216H inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216I. Parties to an access dispute
+The parties to an access dispute are—
+(a)the parties to the negotiations that gave rise to the access dispute under section 216H(1); and
+(b)if the scheme administrator is of the opinion that the resolution of the access dispute may involve requiring another person to do something and that it is appropriate that the person be joined as a party—that other person.
+[Section 216I inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+## Part 3—Reference of dispute to arbitration
+[Heading inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216J. Reference of dispute
+(1)If the scheme administrator receives notification of an access dispute under Part 2, the dispute must be referred to arbitration.
+(2)The scheme administrator must give notice of the referral of an access dispute to arbitration to the parties to the negotiations that gave rise to the access dispute and, if relevant, to any other person who will be a party to the access dispute.
+[Section 216J inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216K. Selection of arbitrator
+(1)The parties to an access dispute may agree to appoint, in accordance with the Rules, the arbitrator for the purposes of an access dispute that is to be referred to arbitration under this Part.
+(2)If the parties do not agree to the appointment of an arbitrator within a period specified by the Rules, the arbitrator will be a person selected by the scheme administrator after consultation with the parties to the access dispute.
+(3)The arbitrator must be a person who—
+(a)is independent of the parties to the dispute; and
+(b)is properly qualified to act in the resolution of the dispute; and
+(c)has no direct or indirect interest in the outcome of the dispute.
+(4)If for some reason an arbitrator does not complete an arbitration, the parties may agree, in accordance with the Rules, to make a fresh appointment and, in default of agreement within a period specified by the Rules, the scheme administrator may, after consultation with the parties, make the appointment.
+[Section 216K inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216L. Determination of access dispute
+(1)Unless an arbitration is terminated under another provision of this Chapter, the arbitrator must make a determination on access by the prospective user or user (as the case requires) (including a determination that does not require a service provider to provide access to any pipeline services).
+(2)A determination may deal with any matter relating to access by the prospective user or user to the pipeline services specified by the Rules for the purposes of this subsection (and the arbitrator must not make a determination that is inconsistent with the Rules or goes beyond the matters specified by the Rules).
+(3)The Rules may also, in connection with the making of an access determination, contain provisions for or with respect to such things as—
+(a)the form of any determination; and
+(b)the content of any determination, including as to the giving of reasons; and
+(c)the time within which a determination must be made; and
+(d)the process for making a determination; and
+(e)when a determination takes effect; and
+(f)the giving of notice of the making of a determination.
+[Section 216L inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216M. Principles to be taken into account
+The arbitrator must, when making a determination on access, take into account any pricing or other principle specified in the Rules.
+[Section 216M inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216N. Restrictions on access determinations
+(1)The arbitrator must not make an access determination that would have any of the following effects:
+(a)preventing a user obtaining a sufficient amount of a pipeline service under a contract or previous access determination to be able to meet the user's reasonably anticipated requirements, measured at the time that the access dispute was notified;
+(b)preventing a prospective user or user from obtaining, by the exercise of a pre-notification right, a sufficient amount of a pipeline service to be able to meet the prospective user's or user's actual requirements;
+(c)depriving a person of a relevant protected contractual right.
+(2)In this section—
+pre-notification right means a right under a contract, or under an access determination, that was in force at the time when the access dispute was notified under section 216H;
+relevant exclusivity right means an express contractual right that—
+(a)prevents a service provider supplying pipeline services to persons who are not parties to the contract; or
+(b)limits or controls a service provider's ability to supply pipeline services to persons who are not parties to the contract,
+but does not include a user's contractual right to obtain a certain amount of pipeline services;
+relevant protected contractual right means a right under a contract (other than a relevant exclusivity right) that was in force immediately before notification of an access dispute under section 216H.
+[Section 216N inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216O. Arbitrator's power to terminate arbitration
+(1)An arbitrator may determine not to proceed with an arbitration (and terminate the proceedings under this Chapter) if the arbitrator considers that—
+(a)the notification of the dispute was vexatious; or
+(b)the subject matter of the dispute is trivial, misconceived or lacking in substance; or
+(c)the party who notified the access dispute did not negotiate in good faith; or
+(d)there is some other good reason why the arbitration should not proceed.
+(2)Furthermore, the arbitrator may at any time terminate an arbitration without making an access determination if the arbitrator considers that—
+(a)the prospective user or user seeking access is not engaging in the arbitration in good faith; or
+(b)the terms and conditions on which access is to be granted should be governed by an existing contract or determination.
+(3)The arbitrator may also at any time terminate an arbitration if the arbitrator considers that a specified dispute termination circumstance has occurred.
+(4)In subsection (3), a specified dispute termination circumstance is a circumstance specified by the Rules as being a circumstance, the occurrence of which, entitles the arbitrator to terminate an access dispute without any further step being taken.
+[Section 216O inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216P. Access seeker's right to terminate arbitration
+(1)The prospective user or user seeking access to pipelines services under this Chapter may terminate the arbitration before an access determination is made by the arbitrator.
+(2)The arbitration is terminated under this section by giving notice of termination to—
+(a)the arbitrator; and
+(b)the other parties to the arbitration; and
+(c)the scheme administrator.
+[Section 216P inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+## Part 4—Compliance with access determinations
+[Heading inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216Q. Compliance with access determinations
+(1)Subject to the Rules and to subsection (2), an access determination is enforceable as if it were a contract between the parties to the access determination.
+(2)A prospective user or user of a pipeline service to which an access determination relates is not bound to seek access to the service (but if access is sought or obtained then the prospective user or user (as the case requires) is bound by any relevant provision of the access determination).
+[Section 216Q inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+## Part 5—Variation of access determinations
+[Heading inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216R. Variation of access determinations
+(1)An access determination may be varied by agreement between all parties to the access determination.
+(2)The Rules may also contain provisions with respect to seeking variations to an access determination.
+(3)The provisions of this Chapter about the arbitration of an access dispute apply with necessary modifications to a proposal under the Rules to vary an access determination or to a dispute arising out of such a proposal.
+[Section 216R inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+## Part 6—Hearing procedures
+[Heading inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216S. Hearing procedures
+Chapter 6 Part 6 applies to an arbitration under this Chapter—
+(a)as if—
+(i)a reference in that Part to a dispute hearing were a reference to a hearing conducted by an arbitrator for the purposes of making an access determination under this Chapter; and
+(ii)a reference in that Part to a party or parties were a reference to a party or the parties to an arbitration under this Chapter; and
+(iii)a reference in that Part to the dispute resolution body were a reference to an arbitrator under this Chapter; and
+(iv)a reference in that Part to an access dispute were a reference to an access dispute under this Chapter; and
+(b)subject to the exclusion of sections 206 and 207, and subject to any other exclusion prescribed by the Regulations; and
+(c)subject to any modifications prescribed by the Regulations; and
+(d)with such other necessary alterations and modifications.
+[Section 216S inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+## Part 7—Miscellaneous matters
+[Heading inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216T. Correction of access determinations for clerical mistakes etc
+The Rules may make provision with respect to correcting the following in an access determination:
+(a)a clerical mistake;
+(b)an error arising from an accidental slip or omission;
+(c)a material miscalculation of figures or a material mistake in the description of any person, thing or matter referred to in an access determination;
+(d)a defect in form.
+[Section 216T inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216U. Reservation of capacity during an access dispute
+A service provider who is in an access dispute with a user must not, without the consent of the user, alter the rights that the user has to use the capacity of the non-scheme pipeline during the period of the dispute.
+[Section 216U inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
+### 216V. Costs of arbitration
+(1)Subject to this section, the costs of an arbitration under this Chapter (including costs associated with the arbitration process and the cost of the arbitrator) will be shared equally between the parties to the arbitration.
+(2)The Rules may make provision with respect to the costs of an arbitration under this Chapter, including rules that provide for a different approach to allocating costs under subsection (1) in specified circumstances.
+(3)Costs payable to an arbitrator are a debt due to the arbitrator and may be recovered by the arbitrator in a court of competent jurisdiction.
+(4)Despite anything in a preceding subsection, the parties to an arbitration will bear their own costs.
+[Section 216V inserted: see SA Act No. 23 of 2017 s. 6 and WA Gazette 22 Dec 2017 p. 5984.]
 ## Chapter 7 — The Natural Gas Services Bulletin Board
 ## Part 1 — The Bulletin Board Operator
 ### 217. The Bulletin Board operator
@@ -2169,7 +2360,7 @@ A Supreme Court of a participating jurisdiction that is a State may hear an appl
 (4)The power of the Court under subsection (3) to grant an injunction restraining a person from engaging in conduct of a particular kind may be exercised—
 (a)if the Court is satisfied that the person has engaged in conduct of that kind—whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
 (b)if it appears to the Court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the person engages in conduct of that kind.
-[Section 231 modified by WA Act Sch. 1 cl. 10.]
+[Section 231 modified: WA Act Sch. 1 cl. 10.]
 ### 232. Proceedings for declaration that a person is in breach of a conduct provision
 (1)The Court may make an order, on application by a person other than the AER, declaring that another person is in breach of a conduct provision.
 (2)If the order declares a person to be in breach of a conduct provision, the order may include 1 or more of the following:
@@ -2211,7 +2402,7 @@ Clause 49 of Schedule 2 to this Law sets out further provisions in relation to d
 A person who attempts to commit a breach of a civil penalty provision commits a breach of that provision.
 ### 240. Civil penalties payable to the Commonwealth
 If a person is ordered to pay a civil penalty, the penalty is payable to the State of Western Australia except if the order is made on an application by the AER on behalf of the Commonwealth, in which case it is payable to the Commonwealth.
-[Section 240 modified by WA Act Sch. 1 cl. 11.]
+[Section 240 modified: WA Act Sch. 1 cl. 11.]
 ## Part 4 — Judicial review of decisions under this Law, the Regulations and the Rules
 ### 241. Definition
 In this Part—
@@ -2457,7 +2648,6 @@ if —
 (i)users and prospective users of the pipeline services; and
 (ii)any user or consumer associations or user or consumer interest groups,
 that the Tribunal considers have an interest in the determination, other than a user or consumer association or a user or consumer interest group that is a party to the review.
-(1)Subject to this section, the Tribunal, in reviewing a reviewable regulatory decision, must not consider any matter other than review related matter.
 [(2)deleted]
 (3)If in a review, other than a review that relates to a designated reviewable regulatory decision, the Tribunal is of the view that a ground of review has been made out, the Tribunal may allow new information or material to be submitted if the new information or material—
 (a)would assist it on any aspect of the determination to be made; and
@@ -2579,6 +2769,8 @@ The member of the Tribunal presiding in the review may require the AER to give i
 (b)induced the contravention, whether through threats or promises or otherwise; or
 (c)been in any way (directly or indirectly) knowingly concerned in or a party to the contravention; or
 (d)conspired with others to effect the contravention.
+(5)A reference in this section to an access determination includes a reference to an access determination under Chapter 6A.
+[Section 271 amended: see SA Act No. 23 of 2017 s. 7 and WA Gazette 22 Dec 2017 p. 5984.]
 ### 272. Consent injunctions
 On an application for an injunction under section 271, the Court may grant an injunction by consent of all of the parties to the proceedings, whether or not the Court is satisfied that the section applies.
 ### 273. Interim injunctions
@@ -2692,7 +2884,7 @@ publish means—
 (f)in relation to a report prepared under section 320—publish on the AEMC’s website and make available at the offices of the AEMC;
 REMCo means the Retail Energy Market Company Ltd (ACN 103 318 556);
 urgent Rule means a Rule relating to any matter or thing that, if not made as a matter of urgency, will result in that matter or thing imminently prejudicing or threatening the supply of gas.
-[Section 290 modified by WA Act Sch. 1 cl. 12.]
+[Section 290 modified: WA Act Sch. 1 cl. 12.]
 ## Division 2 — Rule making tests
 ### 291. Application of national gas objective
 (1)The AEMC may only make a Rule if it is satisfied that the Rule will or is likely to contribute to the achievement of the national gas objective.
@@ -2709,9 +2901,25 @@ In addition to complying with sections 291 and 293, the AEMC must take into acco
 In addition to complying with sections 291 and 292, the AEMC must take into account the revenue and pricing principles in making a Rule for or with respect to any matter or thing specified in items 40 to 48 of Schedule 1 to this Law.
 ## Part 2 — Initial National Gas Rules
 ### 294. Initial National Gas Rules for WA
-(1)The National Gas Rules (the initial National Gas Rules) that apply upon section 30 of the National Gas Access (WA) Act 2009 coming into operation are as set out in the document called the National Gas Rules 2008, signed on 1 July 2008 by the Minister for Energy of South Australia, as affected, if applicable, by any amendments made by the AEMC under national gas legislation before the coming into operation of that section.
-(2)Subsection (1) does not prevent the AEMC from making Rules under this Chapter that amend or revoke the initial National Gas Rules.
-[Section 294 inserted by WA Act Sch. 1 cl. 13.]
+(1)The National Gas Rules that apply upon section 30 of the National Gas Access (WA) Act 2009 coming into operation are as set out in the document called the National Gas Rules 2008, signed on 1 July 2008 by the Minister for Energy of South Australia, as affected, if applicable, by any amendments made by the AEMC under national gas legislation before the coming into operation of that section.
+(2)Subsection (1) does not prevent the AEMC from making Rules under this Chapter that amend or revoke the rules referred to in it.
+[Section 294 inserted and modified: WA Act Sch. 1 cl. 13.]
+### 294F. South Australian Minister to make initial Rules relating to access to non-scheme pipelines
+(1)The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister) may make Rules on any 1 or more of the following subjects:
+(a)access proposals, access disputes and arbitrations under Chapter 6A;
+(b)the subject matter of a new head power added to Schedule 1 by the Pipelines Access/Arbitration amendments;
+(c)any other subject contemplated by, or consequential on, the Pipelines Access/Arbitration amendments.
+(2)Rules may only be made under subsection (1) on the recommendation of the MCE.
+(3)Section 74(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(4)As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a)publish notice of the making of the Rules in the South Australian Government Gazette stating the date of commencement or, if they commence at different times, various dates of commencement; and
+(b)making the Rules publicly available.
+(5)The South Australian Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (4)(a) or this subsection.
+(6)Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(7)Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
+(8)In this section—
+Pipelines Access/Arbitration amendments means the amendments made to this Law by the National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017.
+[Section 294F inserted: see SA Act No. 23 of 2017 s. 8 and WA Gazette 22 Dec 2017 p. 5984.]
 ## Part 3 — Procedure for the making of a Rule by the AEMC
 ### 295. Initiation of making of a Rule
 (1)The AEMC may make a Rule at the request of any person or the MCE.
@@ -3134,9 +3342,9 @@ Access arrangements
  | (d)drafts of decisions of access arrangements and proposals and decisions of the AER.
 36 | Matters to be addressed by the AER in approving or not approving an access arrangement, or making an access arrangement, or approving or not approving revisions or variations to an applicable access arrangement.
 Access disputes
-37 | The procedure and time limits for the making of access determinations.
-38 | The appointment of persons to inquire into and report on the safe operation of pipelines for the purpose of enabling the dispute resolution body to make an access determination.
-39 | The kinds of access determinations that may be made including determinations—
+37 | The procedure and time limits for the making of access determinations under Chapter 6 or 6A.
+38 | The appointment of persons to inquire into and report on the safe operation of pipelines for the purpose of enabling the dispute resolution body to make an access determination under Chapter 6 or an arbitrator to make an access determination under Chapter 6A.
+39 | The kinds of access determinations that may be made under Chapter 6 or 6A including determinations—
  | (a)requiring prospective users or users to make capital contributions towards a service provider’s capital expenditure for the installation or construction of new facilities for the expansion of the capacity of pipelines;
  | (b)that enable service providers to charge prospective users or users surcharges to recover capital expenditure for the installation or construction of new facilities for the expansion of the capacity of pipelines.
 Regulatory economic methodologies
@@ -3168,6 +3376,7 @@ Regulatory economic methodologies
 46 | Incentives for service providers to make efficient operating and investment decisions including, where applicable, service performance incentive schemes.
 47 | The treatment of capital contributions referred to in item 39(a) when determining the capital base with respect to a covered pipeline.
 48 | The handling of surcharges referred to in item 39(b).
+48A | For the purposes of items 40 to 47 (inclusive)— (a)a reference to the dispute resolution body will be taken to include a reference to an arbitrator under Chapter 6A; and (b)a reference to an access determination will be taken to include a reference to an access determination under Chapter 6A; and (c)a reference to a covered pipeline will be taken to include a reference to a non-scheme pipeline under Chapter 6A.
 AER economic regulatory function or powers
 49 | The way in which the AER performs or exercises an AER economic regulatory function or power, including the basis on which the AER makes an AER economic regulatory decision.
 50 | Principles to be applied, and procedures to be followed, by the AER in exercising or performing an AER economic regulatory function or power.
@@ -3236,7 +3445,7 @@ Miscellaneous
 81 | The modification of section 3, 8 or 10.8 of the Gas Code as those sections apply to a transitioned access arrangement (as defined in clause 1 of Schedule 3 to this Law). Note— See also clause 30 of Schedule 3 to this Law.
 82 | Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the Gas Code as in operation and effect immediately before the commencement of section 30 of the National Gas Access (WA) Act 2009 of Western Australia.
 83 | Any matter or thing relating to gas prescribed by the Regulations.
-[Schedule 1 modified by WA Act Sch. 1 cl. 14.]
+[Schedule 1 modified: WA Act Sch. 1 cl. 14; amended see SA Act No. 23 of 2017 s. 9 and WA Gazette 22 Dec 2017 p. 5984.]
 ## Schedule 2 — Miscellaneous provisions relating to interpretation
 Section 20
 ## Part 1 — Preliminary
@@ -3589,7 +3798,7 @@ Clause 27 applies to a conferral of power by this Law to the extent that the pow
 (a)as if references in clause 27(2), (5) and (6) to the commencement of the empowering provision referred to the time when the Western Australian National Gas Access Law text, as defined in section 7(2) of the National Gas Access (WA) Act 2009, is affected by the amendment; and
 (b)as if the reference in clause 27(3) to additional power that would be conferred had an Act of South Australia commenced referred to additional power that would be conferred had the Western Australian National Gas Access Law text been already affected by the amendment; and
 (c)as if clause 27(7) had been omitted.
-[Clause 27A inserted by WA Act Sch. 1 cl. 15.]
+[Clause 27A inserted: WA Act Sch. 1 cl. 15.]
 ## Part 5 — Distance and time
 ### 28. Matters relating to distance and time
 (1)In the measurement of distance for the purposes of this Law, the distance is to be measured along the shortest road ordinarily used for travelling.
@@ -3665,7 +3874,7 @@ SES employee has the same meaning as in section 17AA of the Acts Interpretation 
 (v)a relevant notice.
 (2)When subclause (1) is read as if a reference in it to the AER were a reference to the ERA, the subclause is to be read as if “an AER member, or an SES employee or acting SES employee assisting the AER as mentioned in section 44AAC of the Trade Practices Act 1974 of the Commonwealth” had been deleted and the following had been inserted instead:
 a member of the ERA
-[Clause 34 modified by WA Act Sch. 1 cl. 16.]
+[Clause 34 modified: WA Act Sch. 1 cl. 16.]
 ### 35. Evidentiary certificates—AEMC
 In any proceedings under this Law, a certificate signed or purported to be signed by a Commissioner or the AEMC chief executive, stating any of the following matters is evidence of the matter:
 (a)a stated document is a decision (however described), made, given, served or issued under this Law;
@@ -3763,7 +3972,7 @@ and the person in breach of the civil penalty provision mentioned in paragraph (
 (5)The proceedings for the declaration referred to in subclause (3) may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the declaration must be dismissed.
 ### 50. Attempts and incitement
 Section 555A(1) and (2) of The Criminal Code apply in relation to a simple offence under this Law as if it were a simple offence under The Criminal Code.
-[Clause 50 inserted by WA Act Sch. 1 cl. 17.]
+[Clause 50 inserted: WA Act Sch. 1 cl. 17.]
 ## Part 11 — Instruments under this Law
 ### 51. Schedule applies to statutory instruments
 (1)This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
@@ -3831,7 +4040,7 @@ transitioned access arrangement means—
 (c)a current access arrangement incorporating revisions approved, or approved and made, in accordance with clause 29.
 Note—
 The Regulations or the Rules may also contain provisions of an application, savings or transitional nature.
-[Clause 1 modified by WA Act Sch. 1 cl. 18.]
+[Clause 1 modified: WA Act Sch. 1 cl. 18.]
 ### 2. Schedule subject to jurisdictional transitional arrangements in jurisdictional legislation
 (1)This Schedule, and any Regulations or Rules of a savings and transitional nature, apply in this jurisdiction except to the extent provided by or under an Act of this jurisdiction (including an Act that applies this Law and the Regulations as a law of this jurisdiction).
 (2)In this clause—
@@ -4135,7 +4344,7 @@ AER breach investigation means an investigation conducted and completed by the A
 (3)Despite anything to the contrary in clause 2 or the repeal of the old access law and Gas Code, Part 5 of the old access law applies to a proceeding under this clause as if—
 (a)a reference in that Part to a relevant Regulator or the ACCC were a reference to the AER; and
 (b)regulation 5 of, and Schedule 2 to, the Gas Pipelines Access (Western Australia) Regulations 2000 were not repealed.
-[Clause 45 modified by WA Act Sch. 1 cl. 18.]
+[Clause 45 modified: WA Act Sch. 1 cl. 18.]
 ## Part 9 — Associate contracts
 ### 46. Pending associate contract approvals that are approved after commencement day
 (1)This clause applies if on the commencement day—
@@ -4198,46 +4407,45 @@ Source | Published | Commencement
 National Gas (South Australia) Act 2008 Schedule (as modified by the National Gas Access (WA) Act 2009 Sch. 1) | SA Act No. 19 of 2008 | In SA: 1 Jul 2008 (see SA Gazette 26 Jun 2008 p. 2553) In WA: 1 Jan 2010 (see WA Act s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009 s. 6 | SA Act No. 30 of 2009 | In SA: 1 Jul 2009 (see SA Gazette 25 Jun 2008 p. 3000) In WA: 1 Jan 2010 (see WA Gazette 18 Dec 2009 p. 5167-8)
 Statutes Amendment (National Electricity and Gas Laws — Limited Merits Review) Act 2013 Pt. 3 | SA Act No. 79 of 2013 | In SA: 19 Dec 2013 (see SA Gazette 19 Dec 2013 p. 4927) In WA: 15 Mar 2014 (see WA Gazette 14 Mar 2014 p. 632)
+National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017 | SA Act No. 23 of 2017 | In SA: 1 Aug 2017 (see SA Gazette 1 Aug 2017 p. 3037) In WA: 23 Dec 2017 (see WA Gazette 22 Dec 2017 p. 5984)
 Defined terms
-[This is a list of terms defined and the provisions where they are defined.
-Unless otherwise indicated references are to provisions in the Note.
-The list is not part of the law.]
-Defined TermProvision(s)
-15-year no-coverage determination2, 151(1)
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+15-year no-coverage determination2, 151
 ACCC2
 access arrangement2
-access arrangement revision proposalSch. 3 cl. 30
+access arrangement revision proposal30
 access determination2
 access dispute178
 access dispute pipeline 178
-ActSch. 2 cl. 10
-acting SES employeeSch. 2 cl. 33
-active request301(1)
-additional instrument making powerSch. 2 cl. 27
-additional ring fencing requirement137, 143(1)
-adjacent area in respect of the StateAct 5(2)
-adjacent area of another participating jurisdictionAct 9(1)
-adjacent area of this jurisdictionAct 9(1)
+Act10
+acting SES employee33
+active request301
+additional instrument making power27
+additional ring fencing requirement137, 143
+adjacent area in respect of the State5(2)
+adjacent area of another participating jurisdiction9(1)
+adjacent area of this jurisdiction9(1)
 AEMC2
-AEMC chief executiveSch. 2 cl. 33
-AEMC CommissionerSch. 2 cl. 33
+AEMC chief executive33
+AEMC Commissioner33
 AEMC initiated Rule290
-AEMC official86(3)
+AEMC official86
 AEMC Rule review290
 AER2
-AER breach investigationSch. 3 cl. 45
+AER breach investigation45
 AER economic regulatory decision2
 AER economic regulatory function or power2
 AER information disclosure decision244
-AER memberSch. 2 cl. 33
+AER member33
 AER ring fencing determination2
 affected or interested person or body244, 250
-affidavitSch. 2 cl. 10
-amendSch. 2 cl. 10
+affidavit10
+amend10
 applicable access arrangement2
 applicable access arrangement decision2
 applicant244
-appointSch. 2 cl. 10
+appoint10
 approved associate contract2
 associate2
 associate contract2
@@ -4245,176 +4453,180 @@ associate contract decision2
 associate pipeline service2
 authorised person31
 average annual regulated revenue244
-basic instrument making powerSch. 2 cl. 27
-binding no-coverage determinationSch. 3 cl. 1
-breachSch. 2 cl. 10
+basic instrument making power27
+binding no-coverage determination1
+breach10
 breach provision287
 Bulletin Board information2
 Bulletin Board operator2
-business daySch. 2 cl. 10
-business unit A143(2)
-business unit B143(2)
-calendar monthSch. 2 cl. 10
-calendar yearSch. 2 cl. 10
+business day10
+business unit B143
+business unit A143
+calendar month10
+calendar year10
 charge2
-civil monetary liability221(6), 226(5)
+civil monetary liability221, 226
 civil penalty2
 civil penalty provision2
 classification decision under the Rules2
-coastal watersAct 5(2)
-commencementSch. 2 cl. 10
-commencement daySch. 3 cl. 1
+coastal waters5(2)
+commencement10
+commencement day1
 commission2
-Commonwealth bodiesAct 12(2)
+Commonwealth bodies12(2)
 Commonwealth Minister2
 compliance date137
-complying service provider10(2)
+complying service provider10
 conduct provision2
-conferSch. 2 cl. 10
+confer10
 consolidated Rule request300
-contraveneSch. 2 cl. 10
+constituent components2
+contravene10
 contributing service43
-controlling pipeline activity10(5)
-Councillor90(9)
-CourtAct 9(1)
-coverage determination2, 92(1)
+controlling pipeline activity10
+Councillor90
+Court9(1)
+coverage determination2, 92
 coverage recommendation2
 coverage related light regulation decision244
-coverage revocation determination2, 102(1)
+coverage revocation determination2, 102
 coverage revocation recommendation2
 covered pipeline2
 covered pipeline service provider2
 cross boundary distribution pipeline2
-cross boundary pipelineAct 16(4)
+cross boundary pipeline16(4)
 cross boundary transmission pipeline2
-current access arrangementSch. 3 cl. 1
-current access arrangement modification RulesSch. 3 cl. 30
-decision makerSch. 2 cl. 31
-definitionSch. 2 cl. 10
-designated MinisterAct 9(1)
+current access arrangement1
+current access arrangement modification Rules30
+decision maker31
+decision related matter68C
+definition10
+designated Minister9(1)
 designated pipeline2
+designated reviewable regulatory decision2
 developable capacity2
 dispute hearing178
-dispute resolution bodyAct 9(1), Note 2
+dispute resolution body9(1), 2
 distribution pipeline2
-documentSch. 2 cl. 10
+document10
 draft Rule determination2
-empowering provisionSch. 2 cl. 27
+empowering provision27, 27
 end user2, 244
 ERA2
-ERA pipelineAct 9(1)
-estateSch. 2 cl. 10
+ERA pipeline9(1)
+estate10
 excluded infrastructure149
-exempt contractAct 19(3)
-exempt matterAct 15(2)
-expireSch. 2 cl. 10
+exempt contract19(3)
+exempt matter15(2)
+expire10
 extension and expansion requirements2
-failSch. 2 cl. 10
+fail10
 final Rule determination2
-financial yearSch. 2 cl. 10
+financial year10
 foreign company2
 foreign source2
 form of regulation factors2
 full access arrangement2
 full access arrangement decision2
-functionSch. 2 cl. 10
-further disclosure notice329(6)
+function10
+further disclosure notice329
 Gas Code2
 gas market operator2
 gas market regulatory body290
-gas other than natural gasAct 6A(3)
-Gas Pipelines Access LawAct 11(4)
-GazetteSch. 2 cl. 10
+gas other than natural gas6A(3)
+Gas Pipelines Access Law11(4)
+Gazette10
 general regulatory information order2
 GMCo290
 greenfields pipeline incentive2
 greenfields pipeline project149
 haulage2
-initial classification decision2, 98(1), 155(1)
-initial disclosure notice329(2), (3)
-initial National Gas Rules2
-instrumentSch. 2 cl. 10
-interestSch. 2 cl. 10
+initial classification decision2, 98, 155
+initial disclosure notice329, 329
+initial National Gas RulesSch. 1 cl. 3(1), 2, 294
+instrument10
+interest10
 international pipeline2
 intervener244
 jurisdictional determination criteria2
 jurisdictional gas legislation2
-Law extrinsic materialSch. 2 cl. 8
-Legislature of this jurisdictionAct 9(1)
-light regulation determination2, 110(1), 112(1)
+Law extrinsic material8
+Legislature of this jurisdiction9(1)
+light regulation determination2, 110, 112
 light regulation services2
 limited access arrangement2
 limited access arrangement decision2
-makeSch. 2 cl. 10
+make10
 market initiated proposed Rule290
 marketing staff137
-matters of a transitional natureAct 11(4)
+materially preferable designated NGO decision244, 259
+matters of a transitional nature11(4)
 MCE2
 MCE directed review2
 MCE statement of policy principles2
 minimum ring fencing requirement2
 Minister of a participating jurisdiction2
-Minister of this participating jurisdiction87(3)
+Minister of this participating jurisdiction87
 Ministerial coverage decision2
-Ministerial or NCC scheme decision333(3)
-minorSch. 2 cl. 10
-modificationSch. 2 cl. 10
-monthSch. 2 cl. 10
+Ministerial or NCC scheme decision333
+minor10
+modification10
+month10
 more preferable Rule290, 296
-named monthSch. 2 cl. 10
-National Gas Access (Western Australia) LawAct 3(1), 11(4)
-National Gas Access (Western Australia) RegulationsAct 3(1)
-National Gas Law or this lawAct 9(1)
+named month10
+National Gas Access (Western Australia) Law3(1), 11(4)
+National Gas Access (Western Australia) Regulations3(1)
+National Gas Law9(1)
 national gas legislation2
 national gas objective2
-National Gas Rules or Rules2
-national provisionsAct 19(3)
+National Gas Rules2
+national provisions19(3)
 natural gas2
 natural gas service2
 Natural Gas Services Bulletin Board2
 NCC2
-NCC memberSch. 2 cl. 33
+NCC member33
 NCC recommendation244
 NCC recommendation or decision2
-new application ActSch. 3 cl. 1
+new application Act1
 new facility2
-new scheme revisions commencement dateSch. 3 cl. 31
+new scheme revisions commencement date31
 no-coverage recommendation2
-nominated disputes208, 209(2)
+nominated disputes208, 209
 non scheme pipeline user2
 non-controversial Rule290
-non-finalised access disputeSch. 3 cl. 42
-notified compliance date143(4)
-numberSch. 2 cl. 10
-oathSch. 2 cl. 10
+non-finalised access dispute42
+notified compliance date143
+number10
+oath10
 offence provision2
-officeSch. 2 cl. 10
+office10
 officer2
 old access law2
-old scheme classification and scheme participant determinationSch. 3 cl. 53
+old scheme classification and scheme participant determination53
 old scheme classification or determination2
-old scheme coverage applicationSch. 3 cl. 1
-old scheme coverage determinationSch. 3 cl. 1
-old scheme coverage revocation applicationSch. 3 cl. 1
-old scheme coverage revocation determinationSch. 3 cl. 1
-old scheme covered pipelineSch. 3 cl. 1
+old scheme coverage application1
+old scheme coverage determination1
+old scheme coverage revocation application1
+old scheme coverage revocation determination1
+old scheme covered pipeline1
 old scheme distribution pipeline2
-old scheme limited access arrangementSch. 3 cl. 1
-old scheme price regulation exemptionSch. 3 cl. 1
-old scheme relevant MinisterSch. 3 cl. 1
-old scheme ring fencing requirementSch. 3 cl. 38
+old scheme limited access arrangement1
+old scheme price regulation exemption1
+old scheme relevant Minister1
+old scheme ring fencing requirement38
 old scheme transmission pipeline 2
-omitSch. 2 cl. 10
-ordinary meaningSch. 2 cl. 8
+omit10
+ordinary meaning8
 original decision maker244
 participating jurisdiction2
-party178, Sch. 2 cl. 10
-penaltySch. 2 cl. 10
-pending old scheme coverage determinationSch. 3 cl. 1
-pending old scheme coverage non-revocation determinationSch. 3 cl. 1
-pending old scheme coverage revocation determinationSch. 3 cl. 1
-pending old scheme no-coverage determinationSch. 3 cl. 1
-personSch. 2 cl. 10
+party178, 10
+penalty10
+pending old scheme coverage determination1
+pending old scheme coverage non-revocation determination1
+pending old scheme coverage revocation determination1
+pending old scheme no-coverage determination1
+person10
 person aggrieved241
 pipeline2
 pipeline classification criterion2
@@ -4423,105 +4635,108 @@ pipeline reliability standard2
 pipeline safety duty2
 pipeline service2
 pipeline service standard2
-powerSch. 2 cl. 10
-pre-notification right188(2)
-prescribedSch. 2 cl. 10
+power10
+pre-notification right188
+prescribed10
 price or revenue regulation2
 price regulation exemption2
 price regulation exemption recommendation2
-principal decision maker331(2)
-printedSch. 2 cl. 10
-proceedingSch. 2 cl. 10
+principal decision maker331
+printed10
+proceeding10
 processable gas2
 producer2
-propertySch. 2 cl. 10
+property10
 proposed Rule290
 prospective user2
-provisionSch. 2 cl. 10
+provision10
 publish290
 queuing requirements2
 reclassification decision2, 129
-recordSch. 2 cl. 10
+record10
 reference service2
 reference tariff2
-Reference TariffSch. 3 cl. 31
+Reference Tariff31
 regulated revenue244
 Regulations2
-Regulations or Rules of a savings and transitional natureSch. 3 cl. 2
-regulatorAct 9(1), Note 2
+Regulations or Rules of a savings and transitional nature2
+regulator9(1), 2
 regulatory information instrument2
 regulatory information notice 2
 regulatory obligation or requirement2
 regulatory payment 2
 regulatory period244
-regulatory scheme decision maker332(3)
+regulatory scheme decision maker332
 related business137
 related provider43
-relevant appeals bodySch. 3 cl. 1
+relevant appeals body1
 relevant decision maker330
-relevant decision or documentSch. 2 cl. 31
-relevant exclusivity right188(2), 321(2)
+relevant decision or document31
+relevant exclusivity right188, 321
 relevant Minister2
-relevant national provisionsAct 19(3)
-relevant notice42(1), Sch. 2 cl. 31, 33
-relevant pipeline description171(3)
-relevant protected contractual right188(2), 321(2)
+relevant national provisions19(3)
+relevant notice42, 31, 33
+relevant pipeline description171
+relevant protected contractual right188, 321
 relevant provision31
 relevant Regulator2
-relevant Regulator investigationSch. 3 cl. 43
-relevant transition dateSch. 3 cl. 9, 16, 24
-relevant transition periodSch. 3 cl. 31, 38
+relevant Regulator investigation43
+relevant transition date9, 16, 24
+relevant transition period31, 38
 REMCo290
-repealSch. 2 cl. 10
-report trigger date320(1)
-restricted period329(8)
+repeal10
+report trigger date320
+restricted period329
 revenue and pricing principles2
-review related matter 261(7)
+review related matter261
 review under this Part244
-reviewable regulatory decision244, Sch. 3 cl. 31
-reviewable regulatory decision process participant254(2)
+reviewable regulatory decision2, 244, 31
+reviewable regulatory decision process participant244
 ring fencing decision2
-Rule extrinsic materialSch. 2 cl. 8
-SA Schedule amendmentAct 7A(1)
+Rule extrinsic material8
+Rules2
+SA Schedule amendment7A(1)
 scheme decision330
 scheme pipeline2
 scheme pipeline service provider43
 scheme procedure330
-service provider2, 151(4), 160(3)
-service provider group10(1)
+service provider2, 151, 160
+service provider group10
 service provider performance report2
-SES employeeSch. 2 cl. 33
-signSch. 2 cl. 10
+SES employee33
+sign10
 small to medium user or end user244
 small/medium user or consumer intervener244
-South Australian ActAct 3(1)
+South Australian Act3(1)
 spare capacity 2
-specified dispute termination circumstance 186(3)
-standard period260(1)
-statutory declarationSch. 2 cl. 10
-statutory instrumentSch. 2 cl. 10, 21, 51
+specified dispute termination circumstance 186
+standard period260
+statutory declaration10
+statutory instrument10, 21, 51
 storage provider2
-subsequent service provider215(2)
+subsequent service provider215
 supply2
-swearSch. 2 cl. 10
+swear10
 tariff2
 tender approval decision2
 Territory2
-that other legislationAct 16(1)
-the first terms134(1)
-the second terms134(1)
-this jurisdictionAct 9(1)
-transitional periodAct 20(2)
-transitioned access arrangementSch. 3 cl. 1
+that other legislation16(1)
+the first terms134
+the second terms134
+this jurisdiction9(1)
+this Law9(1)
+transitional period20(2)
+transitioned access arrangement1
 transmission pipeline2
 Tribunal2
+underlying National Gas LawSch. 1 cl. 1(2)
 urgent Rule290
 user2
-user or consumer association244
-user or consumer interest group244
+user or consumer association2, 244
+user or consumer interest group2, 244
 user or consumer intervener 244
 VENCorp2
-WA arbitratorAct 9(1), Note 2
-Western Australian National Gas Access Law textAct 7(2)
-wordSch. 2 cl. 10
-writingSch. 2 cl. 10
+WA arbitrator9(1), 2
+Western Australian National Gas Access Law text7(2)
+word10
+writing10
