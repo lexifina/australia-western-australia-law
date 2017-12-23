@@ -10,12 +10,13 @@ Busselton | Manjimup
 Capel | Murray
 Dardanup | Waroona
 Localities
-Brown Range | Greys Plain
-Capricorn | Kambalda East
-Cataby | Kambalda West
-Dongara | Kingsford
-Fitzroy Crossing | Port Denison
+Brown Range | Kambalda East
+Capricorn | Kambalda West
+Cataby | Kingsford
+Dongara | Port Denison
+Fitzroy Crossing | Wundowie
 Gap Ridge | Yilkari
+Greys Plain
 Townsites
 Boulder | Kojonup
 Broome | Kununurra
@@ -35,4 +36,4 @@ Jurien | Williams
 Kalgoorlie | Wubin
 Karratha | York
 Kellerberrin
-[Schedule 1 inserted in Gazette 13 May 2003 p. 1665-6; amended in Gazette 3 Oct 2006 p. 4337; 15 May 2015 p. 1720; 21 Oct 2016 p. 4782; 17 Oct 2017 p. 5336-7.]
+[Schedule 1 inserted in Gazette 13 May 2003 p. 1665-6; amended in Gazette 3 Oct 2006 p. 4337; 15 May 2015 p. 1720; 21 Oct 2016 p. 4782; 17 Oct 2017 p. 5336-7; 22 Dec 2017 p. 5977.]
