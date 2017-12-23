@@ -26,6 +26,7 @@ Retail Trading Hours Amendment Regulations 2007 | 11 May 2007 p. 2027-31 | 11 Ma
 Retail Trading Hours Amendment Regulations 2010 | 15 Oct 2010 p. 5171-2 | r. 1 and 2: 15 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Oct 2010 (see r. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Retail Trading Hours Amendment Regulations 2011 | 8 Apr 2011 p. 1281-2 | r. 1 and 2: 8 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Apr 2011 (see r. 2(b))
 Retail Trading Hours Amendment Regulations 2016 | 13 Dec 2016 p. 5630-2 | r. 1 and 2: 13 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2016 (see r. 2(b))
+Retail Trading Hours Amendment Regulations 2017 | 22 Dec 2017 p. 5975-6 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
 Formerly referred to the Third Schedule of the Metropolitan Region Town Planning Scheme Act 1959. Under the Reprints Act 1984 s. 7(3)(g)(i) the current reference was substituted for the former one.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
