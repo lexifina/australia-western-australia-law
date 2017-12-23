@@ -18,6 +18,7 @@ Cambridge | Whole district
 Canning | Whole district
 Capel | Whole district
 Carnarvon | Whole district
+Chapman Valley | Whole district
 Claremont | Whole district
 Cockburn | Whole district
 Collie | Whole district
@@ -30,6 +31,7 @@ Dumbleyung | Whole district
 East Fremantle | Whole district
 Esperance | All townsites and lots measuring 10 ha or less
 Fremantle | Whole district
+Gingin | Whole district
 Gosnells | Whole district
 Greater Geraldton | Whole district except areas in Mullewa Ward that are not townsites
 Hall’s Creek | All townsites and area subject to the Shire of Halls Creek local planning scheme
@@ -52,7 +54,6 @@ Mosman Park | Whole district
 Mundaring | Whole district
 Murchison | None
 Murray | Whole district
-Narrogin (Town) | Whole district
 Nedlands | Whole district
 Northam | Whole district
 Northampton | Whole district
@@ -86,4 +87,4 @@ Wyalkatchem | Whole district
 Wyndham-East Kimberley | Whole district
 York | Whole district
 All other districts | All townsites
-[Schedule 5 amended in Gazette 24 Apr 2014 p. 1141.]
+[Schedule 5 amended in Gazette 24 Apr 2014 p. 1141; 22 Dec 2017 p. 5974-5.]
