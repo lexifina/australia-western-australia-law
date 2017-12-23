@@ -1,8 +1,9 @@
-## Schedule 4 — Application fees for permits and authorisations
-[r. 11 and 13A]
-[Heading inserted in Gazette 17 Jun 2014 p. 1967.]
-Application for | Fee
-Permit | $103
-Authorisation | $602
+## Schedule 4 — Fees for permits and authorisations
+[r. 11, 13A and 15A]
+[Heading inserted in Gazette 22 Dec 2017 p. 5989.]
+Service | Fee
+Application for permit | $49
+Issue or renewal of permit (for each year) | $54
+Application for authorisation | $602
 Replacement permit or authorisation | $105
-[Schedule 4 inserted in Gazette 17 Jun 2014 p. 1967; amended in Gazette 23 Jun 2015 p. 2175; 3 Jun 2016 p. 1761; 23 Jun 2017 p. 3240.]
+[Schedule 4 inserted in Gazette 22 Dec 2017 p. 5989.]
