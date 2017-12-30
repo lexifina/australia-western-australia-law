@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 March 2017 of the First Home Owner Grant Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the First Home Owner Grant Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 First Home Owner Grant Regulations 2000 | 30 Jun 2000 p. 3433-7 | 1 Jul 2000 (see r. 2)
@@ -21,6 +21,7 @@ First Home Owner Grant Amendment Regulations 2015 | 26 Jun 2015 p. 2277-8 | r. 1
 First Home Owner Grant Amendment Regulations (No. 2) 2015 | 11 Aug 2015 p. 3221-2 | r. 1 and 2: 11 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Aug 2015 (see r. 2(b))
 First Home Owner Grant Amendment Regulations (No. 3) 2015 | 11 Dec 2015 p. 4961 | r. 1 and 2: 11 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
 Reprint 3: The First Home Owner Grant Regulations 2000 as at 3 Mar 2017 (includes amendments listed above)
+First Home Owner Grant Amendment Regulations 2017 | 29 Dec 2017 p. 6083-6 | r. 1 and 2: 29 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2017 (see r. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
 Repealed by the Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015 Sch. 1, Part 1.
 Defined terms
@@ -29,14 +30,15 @@ Defined termProvision(s)
 affairs11(3)
 appropriate publication10(3)
 confidential information11(3)
+co-owner7(2D)
 delegate9(1)
 interested person3
 new home7(2b)
+non-strata home unit7(4)
 Nyamba Buru Yawuru Ltd7(4)
 primary production business5(2)
 protected web site11(3)
 records9(4)
-relevant owner of land7(4)
 State Housing Commission7(4)
 witness10(1)
 Yawuru Home Ownership Project7(4)
