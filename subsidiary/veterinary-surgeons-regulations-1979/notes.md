@@ -49,34 +49,9 @@ Reprint 5: The Veterinary Surgeons Regulations 1979 as at 6 Jun 2014 (includes a
 Veterinary Surgeons Amendment Regulations 2015 | 2 Jun 2015 p. 1938-9 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
 Veterinary Surgeons Amendment Regulations (No. 2) 2015 | 12 Jan 2016 p. 43 | r. 1 and 2: 12 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jan 2016 (see r. 2(b))
 Agriculture and Food Regulations Amendment (Poisons) Regulations 2016 Pt. 6 | 17 Jan 2017 p. 404-6 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Veterinary Surgeons Amendment Regulations 2017 r. 3 and 4 | 21 Jul 2017 p. 4019-20 | 1 Jan 2018 (see r. 2(b))
+Veterinary Surgeons Amendment Regulations 2017 | 21 Jul 2017 p. 4019-20 | r. 1 and 2: 21 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2018 (see r. 2(b))
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Veterinary Surgeons Amendment Regulations 2017 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Veterinary Surgeons Regulations 1979.
-4.Regulation 80 amended
-(1) In regulation 80 in the Table after item 9 insert:
-9A | Roll fee for a new graduate (r. 19(1)) ................. | 142
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 80 Table it. 1 | 125 | 142
-r. 80 Table it. 1A | 125 | 142
-r. 80 Table it. 2 | 125 | 142
-r. 80 Table it. 4 | 185 | 210
-r. 80 Table it. 5 | 30 | 34
-r. 80 Table it. 8 | 410 | 465
-r. 80 Table it. 9 | 200 | 227
-r. 80 Table it. 10 | 410 | 465
-r. 80 Table it. 11 | 50 | 57
-r. 80 Table it. 12 | 80 | 91
-r. 80 Table it. 18 | 105 | 120
-r. 80 Table it. 19 | 65 | 74
-r. 80 Table it. 19A | 25 | 28
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
