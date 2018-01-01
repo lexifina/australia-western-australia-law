@@ -1,6 +1,6 @@
 ## Schedule 2 — Specialists
 [r. 16A(1)]
-[Heading inserted in Gazette 29 May 2012 p. 2228.]
+[Heading inserted: Gazette 29 May 2012 p. 2228.]
 Animal behaviour
 Avian medicine
 Canine medicine
@@ -37,4 +37,4 @@ Veterinary pharmacology
 Veterinary public health and food hygiene
 Veterinary reproduction (species)
 Veterinary toxicology
-[Schedule 2 inserted in Gazette 29 May 2012 p. 2228-9; amended in Gazette 14 Mar 2014 p. 629.]
+[Schedule 2 inserted: Gazette 29 May 2012 p. 2228-9; amended: Gazette 14 Mar 2014 p. 629.]

@@ -1,6 +1,6 @@
 ## Schedule 3 — Equivalent specialty
 [r. 16A(2)]
-[Heading inserted in Gazette 29 May 2012 p. 2229.]
+[Heading inserted: Gazette 29 May 2012 p. 2229.]
 Existing specialty | Equivalent specialty
 Avian medicine | Avian medicine
 Cat medicine | Feline medicine
@@ -24,4 +24,4 @@ Veterinary reproduction: sheep and goat reproduction | Veterinary reproduction (
 Veterinary surgery: equine surgery | Equine surgery
 Veterinary surgery: large animal surgery | Large animal surgery
 Veterinary surgery: small animal surgery | Small animal surgery
-[Schedule 3 inserted in Gazette 29 May 2012 p. 2229-30.]
+[Schedule 3 inserted: Gazette 29 May 2012 p. 2229-30.]
