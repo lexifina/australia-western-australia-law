@@ -42,21 +42,12 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 17 | 3 Ju
 Reprint 5: The Residential Tenancies Regulations 1989 as at 16 Dec 2016 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 19 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Residential Tenancies Amendment Regulations 2017 | 30 Jun 2017 p. 3554-9 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2017 (see r. 2(b) and Gazette 30 Jun 2017 p. 3551-2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Residential Tenancies Amendment Regulations (No. 2) 2017 r. 3 and 4 | 8 Dec 2017 p. 5843 | 1 Jan 2018 (see r. 2(b))
+Residential Tenancies Amendment Regulations (No. 2) 2017 | 8 Dec 2017 p. 5843 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2018 (see r. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.
 The Residential Tenancies Act 1987 Sch. 1 cl. 7 was deleted by the Residential Tenancies Amendment Act 2011 s. 87(16).
 Now called the Consolidated Account.
-On the date as at which this compilation was prepared, the Residential Tenancies Amendment Regulations (No. 2) 2017 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Residential Tenancies Regulations 1989.
-4.Schedule 3 amended
-In Schedule 3 item (1)(a)(ii) delete “54.50” and insert:
-65.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
