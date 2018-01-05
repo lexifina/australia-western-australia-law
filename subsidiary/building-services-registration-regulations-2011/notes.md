@@ -21,10 +21,41 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 3 Jun
 Building Services (Registration) Amendment Regulations 2017 | 31 Mar 2017 p. 1941-2 | r. 1 and 2: 31 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2017 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Building Regulations Amendment Regulations 2017 Pt. 3 | 8 Aug 2017 p. 4343-5 | 9 Aug 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Building Services (Registration) Amendment Regulations (No. 2) 2017 r. 3-6 | 5 Jan 2018 p. 4-8 | 1 Sep 2018 (see r. 2(b))
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
 The Local Government (Building Surveyors) Regulations 2008 were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
 The Painters’ Registration Act 1961 was repealed by the Building Services (Registration) Act 2011 s. 108 on 29 Aug 2011.
+On the date as at which this compilation was prepared, the Building Services (Registration) Amendment Regulations (No. 2) 2017 r. 3-6 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Building Services (Registration) Regulations 2011.
+4.Regulation 31 amended
+(1) In regulation 31(1) delete the Table and insert:
+Table
+ | Qualifications | Experience
+Set 1 | (a)CPC30611 Certificate III in Painting and Decorating as described in the CPC08: Construction, Plumbing and Services Training Package published by Training.gov.au including the units in small business management and estimating and specification that are provided as part of the qualification referred to in paragraph (a)(i) of set 2; or (b)an equivalent qualification as determined by the Board | (a)experience in carrying out painting work gained in the course of the completion of an apprenticeship in painting; or (b)experience in carrying out painting work for periods totalling at least the equivalent of 4 years full-time covering a significant range of painting techniques
+Set 2 | (a)either — (i)52784WA Course in Painters Registration being an approved VET course as defined in the Vocational Education and Training Act 1996 section 5(1); or | experience in carrying out painting work for periods totalling at least the equivalent of 5 years full-time covering a significant range of painting techniques
+ | (ii)an equivalent qualification as determined by the Board; and
+ | (b)successful completion of a practical trades test, as determined by the Board, conducted by a person authorised under the Vocational Education and Training Act 1996 to provide 52784WA Course in Painters Registration
+(2) In regulation 31(4) delete the definition of previously registered.
+(3) In regulation 31(4) in the definition of eligible person paragraph (a) after “registered” insert:
+as a painting practitioner
+5.Regulation 32 amended
+In regulation 32 delete “small business management or estimating and specification,”.
+6.Part 4 Division 4 inserted
+At the end of Part 4 insert:
+Division 4 — Building Services (Registration) Amendment Regulations (No. 2) 2017
+52.Painting practitioners: applications for registration made before 1 September 2018
+Despite regulation 31(1), in relation to an application for registration as a painting practitioner made, but not determined, before 1 September 2018, a qualification (if any) listed in a set in the Table, together with the experience (if any) listed in the same set, are prescribed for the purposes of section 17(1)(b) as qualifications and experience for painting practitioners.
+Table
+ | Qualifications | Experience
+Set 1 | (a)CPC30611 Certificate III in Painting and Decorating as described in the CPC08: Construction, Plumbing and Services Training Package published by Training.gov.au including the units in small business management and estimating and specification that are provided as part of the qualification referred to in paragraph (a) of set 3; or (b)an equivalent qualification as determined by the Board | (a)experience in carrying out painting work gained in the course of the completion of an apprenticeship in painting; or (b)experience in carrying out painting work for periods totalling at least the equivalent of 4 years full-time covering a significant range of painting techniques
+Set 2 | (a)CPC30611 Certificate III in Painting and Decorating as described in the CPC08: Construction, Plumbing and Services Training Package published by Training.gov.au; or (b)an equivalent qualification as determined by the Board | (a)experience in carrying out painting work for periods totalling at least the equivalent of 4 years full-time covering a significant range of painting techniques; and (b)experience in small business management and estimating and specification sufficient to gain knowledge and skills equivalent to those possessed by a person who has successfully completed the units in those subjects provided as part of the qualification referred to in paragraph (a) of set 3
+Set 3 | (a)52784WA Course in Painters Registration being an approved VET course as defined in the Vocational Education and Training Act 1996 section 5(1); or (b)an equivalent qualification as determined by the Board | experience in carrying out painting work for periods totalling at least the equivalent of 5 years full-time covering a significant range of painting techniques
+Set 4 |  | experience in carrying out painting work — (a)covering a significant range of painting techniques for periods totalling at least the equivalent of 5 years full-time; and (b)sufficient to gain knowledge and skills equivalent to those possessed by a person who has successfully completed a qualification referred to in set 3
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
