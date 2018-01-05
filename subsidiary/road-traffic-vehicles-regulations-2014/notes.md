@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 5 January 2018 of the Road Traffic (Vehicles) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -16,6 +16,9 @@ Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 | 7 Feb 2017 p. 1177-
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 26 May 2017 p. 2639-45 | 26 May 2017 (see r. 2(a))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 5 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2017 | 1 Dec 2017 p. 5739 | r. 1 and 2: 1 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2017 (see r. 2(b))
+Reprint 1: The Road Traffic (Vehicles) Regulations 2014 as at 5 Jan 2018 (includes amendments listed above)
+The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
+Repealed by the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (Cwlth).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
 2.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2015.
@@ -28,7 +31,6 @@ For the purposes of section 18 of the Act, the specified day in relation to thes
 The Transport Regulations Amendment (Fees and Charges) Regulations 2017 r. 12 reads as follows:
 12.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2017.
-The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -69,7 +71,7 @@ bus3, 323
 car3
 car or bus3
 car-type vehicle359(1)
-centre3, 3
+centre3
 CEO exemption455
 CEO exemption reviewable decision478
 Certificate of Attendance454E(1)
@@ -128,7 +130,7 @@ heavy vehicle12
 heavy vehicle 436
 heavy vehicle pilot licence454A
 high-beam3
-holder138
+holder138(a)
 HVNL224(1)
 ID prevention state120(1)
 identifier3
@@ -193,7 +195,7 @@ point of articulation3
 pole-type trailer3, 390
 Police Service employee453(2)
 prime mover3
-proposed action454Q(1), 466(2)
+proposed action454Q(1), 466(2)(a)(iii)
 provisional licence454A
 read120(1)
 rear fog light226
@@ -229,7 +231,7 @@ Statement of Attainment454E(1)
 statutory write-off3
 stock52(1)
 street rod vehicle226
-submission date454Q(2)
+submission date454Q(2)(e)
 Table38(1)
 Technical Guide150(3)
 third edition ADR226
