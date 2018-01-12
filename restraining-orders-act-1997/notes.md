@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 January 2018 of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Restraining Orders Act 1997 | 19 of 1997 | 28 Aug 1997 | s. 1 and 2: 28 Aug 1997; Act other than s. 1 and 2: 15 Sep 1997 (see s. 2 and Gazette 12 Sep 1997 p. 5149)
@@ -13,7 +13,7 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 90 | 50 of 2003 | 9 Jul 
 Children and Community Services Act 2004 Sch. 2 cl. 23 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 2 (s. 3-57) | 38 of 2004 | 9 Nov 2004 | s. 3-56: 1 Dec 2004 (see s. 2 and Gazette 26 Nov 2004 p. 5309); s. 57: 22 Mar 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Courts Legislation Amendment and Repeal Act 2004 Pt. 17 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(3) and (4)) | 23 Nov 2004 | Pt. 17 (other than the amendments in s. 123 to s. 67(2) and in s. 124 to s. 4(a)): 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Courts Legislation Amendment and Repeal Act 2004 Pt. 17 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(3) and (4)) | 23 Nov 2004 | Pt. 17 (other than the amendments in s. 123 (to s. 67(2)) and in s. 124 (to s. 4(a)): 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 2: The Restraining Orders Act 1997 as at 5 May 2006 (includes amendments listed above)
 Family Legislation Amendment Act 2006 Pt. 6 Div. 3 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 10 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
@@ -27,14 +27,15 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 17 
 Reprint 4: The Restraining Orders Act 1997 as at 13 Mar 2015 (includes amendments listed above)
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 2 (s. 3-86) | 49 of 2016 | 29 Nov 2016 | Pt. 2 (s. 60, 71, 73 and 76): 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157); Pt. 2 (other than s. 60, 71, 73 and 76): 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Domestic Violence Orders (National Recognition) Act 2017 Pt. 7 | 10 of 2017 | 8 Nov 2017 | 25 Nov 2017 (see s. 2(b) and Gazette 24 Nov 2017 p. 5671)
+Reprint 5: The Restraining Orders Act 1997 as at 12 Jan 2018 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 18 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 had not come into operation. They read as follows:
 108.Section 3 amended
 In section 3 insert in alphabetical order:
 remote communication means any way of communicating at a distance, including by telephone, fax, radio, video conference or email;
@@ -96,7 +97,7 @@ CEO (child welfare)3(1)
 child3(1)
 child welfare law50B(4)
 child welfare officer3(1)
-co-licensee71(2)
+co-licensee71(2)(a)(iii)
 Commissioner of Police3(1)
 conduct agreement10H(1)
 conduct agreement order3(1), 10H(1)
@@ -106,9 +107,9 @@ corresponding law3(1)
 court3(1), 10I
 cyber-stalking3(1)
 earlier order32(5)
-eligibility assessment interview10I, 10L(1)
+eligibility assessment interview10I, 10L(1)(b)
 eligibility assessment order10I
-eligibility assessment report10I, 10L(1)
+eligibility assessment report10I, 10L(1)(a)
 eligibility assessor10I, 10P(1)
 exposed3(1), 6A(1)
 family member3(1), 4(3)
@@ -144,7 +145,7 @@ police order3(1)
 prepare and serve3(1)
 prescribed form3(1)
 prescribed information70A(1)
-previous offences61A(2)
+previous offences61A(2)(b)
 prisoner16A(1)
 proceeding10I
 proceedings under this Act3(1)
@@ -154,7 +155,7 @@ registered3(1)
 registered order74
 registrar3(1), 74
 related4(2)
-relevant offence61A(2)
+relevant offence61A(2)(a)
 remote communication62D(8)
 representation44A(3), 53E(4)
 respondent3(1), 31A, 43A(1)
@@ -172,7 +173,7 @@ telephone order3(1)
 third party68(1)
 under this Act70(4)
 variation or cancellation order10I, 10T(1)
-victim10V(2)
+victim10V(2)(c)
 video link53B(4)
 violence restraining order3(1)
 violent personal offence63A(1A), 63B(1)
