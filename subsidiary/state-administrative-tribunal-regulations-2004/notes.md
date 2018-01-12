@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 January 2018 of the State Administrative Tribunal Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Administrative Tribunal Regulations 2004 | 30 Dec 2004 p. 6747-848 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -34,6 +34,7 @@ Attorney General Regulations Amendment (Associations Incorporation) Regulations 
 State Administrative Tribunal Amendment Regulations (No. 3) 2016 | 13 Jan 2017 p. 351-2 | r. 1 and 2: 13 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2017 (see r. 2(b))
 Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 5 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
+Reprint 5: The State Administrative Tribunal Regulations 2004 as at 12 Jan 2018 (includes amendments listed above)
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
@@ -43,8 +44,7 @@ Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendme
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116(1).
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1117(7).
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Fair Trading (Retirement Villages Interim Code) Regulations 2013. Now see the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2014 Sch. 1 cl. 5.8(2).
-The amendment to r. 9(3) in the State Administrative Tribunal Amendment Regulations (No. 4) 2013 r. 4 is not included because the subregulation it sought to amend had been deleted by the State Administrative Tribunal Amendment Regulations 2013 r. 6(3) before the amendment purported to come into operation.
+The amendment to r. 9(3) in the State Administrative Tribunal Amendment Regulations (No. 4) 2013 r. 4 is not included because it was deleted by the State Administrative Tribunal Amendment Regulations 2013 r. 6(3) before the State Administrative Tribunal Amendment Regulations (No. 4) 2013 had commenced.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -57,7 +57,7 @@ commencement day28(1), 33(1), 55(1), 61(1), 63(1)
 eligible entity3
 eligible entity fee3
 eligible individual3
-eligible individual fee,3
+eligible individual fee3
 entity3
 fee item3
 former adjudicator3
