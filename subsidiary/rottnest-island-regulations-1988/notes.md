@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 January 2018 of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rottnest Island Regulations 1988 | 30 May 1988 p. 1825-46 | 30 May 1988 (see r. 2 and Gazette 30 May 1988 p. 1823)
@@ -47,6 +47,7 @@ Rottnest Island Amendment Regulations 2016 | 5 Apr 2016 p. 1028-9 | r. 1 and 2: 
 Rottnest Island Amendment Regulations (No. 2) 2016 | 17 Jun 2016 p. 2112-14 | r. 1 and 2: 17 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 3) 2016 | 25 Oct 2016 p. 4874-7 | r. 1 and 2: 25 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Oct 2016 (see r. 2(b))
 Rottnest Island Amendment Regulations 2017 | 2 May 2017 p. 2305-6 | r. 1 and 2: 2 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
+Reprint 6: The Rottnest Island Regulations 1988 as at 12 Jan 2018 (includes amendments listed above)
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
@@ -68,7 +69,7 @@ assault70(2)
 authorised person68(2)
 authorised user19
 authorised vessel19
-beach37(2)
+beach37(2)(a)
 bicycle3
 black water38C(1)
 Board75(9)
@@ -87,7 +88,7 @@ explosive device59(3a)
 fauna40(3), 59(3)
 ferry3
 fish40(3)
-flora39(2), 41B(1)
+flora39(2)(a), 41B(1)
 hired bicycle51(2)
 journey3
 Kingstown Barracks 72(1)
@@ -104,23 +105,23 @@ mooring inspection report19
 mooring site3
 mooring site licence3
 mooring site licensee3
-nominated vessel31B(2), 31C(3)
+nominated vessel31B(2), 31C(3)(a)
 officer38D
 operator3
 overall length3
 permanent resident3
-permitted area37(2)
+permitted area37(2)(b)
 previous licensee30(4)
 register3
 rental licence3
 rental mooring3
 repealed by-laws75(9)
-restricted area36(1)
+restricted area36(1)(a)
 sandboard60A(3)
 specified15(6)
 structure52(5)
 suitable vessel19
-take39(2)
+take39(2)(b)
 unlawfully70(2)
 use3
 vehicle3, 38N(1), 46(2)

@@ -30,7 +30,7 @@ o | Regulation 70(1)(c) — doing or engaging in any offensive, indecent or impr
 o | Regulation 72(2) — being in possession of liquor at Kingstown Barracks | $200
 o | Other (specify) | $
 [Form 2 inserted in Gazette 7 Dec 2001 p. 6189-90; amended in Gazette 8 Dec 2009 p. 5005-6; 25 Oct 2011 p. 4515; 5 Apr 2016 p. 1029.]
-Form 3
+## Form 3
 Rottnest Island Authority Act 1987
 WITHDRAWAL OF INFRINGEMENT NOTICE
 No. ..................................

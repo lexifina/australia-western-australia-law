@@ -1,7 +1,7 @@
 ## Schedule 8 — Berthing fee for main jetty
 [r. 38G]
 [Heading inserted in Gazette 29 Jun 2004 p. 2547; amended in Gazette 22 Sep 2015 p. 3862.]
-Method of calculating annual rate (based on surveyed passenger carrying capacity for the vessel’s highest class of survey) plus — | $58.00per passenger
+Method of calculating annual rate (based on surveyed passenger carrying capacity for the vessel’s highest class of survey) plus — | $58.00 per passenger
 Vessels less than 35 m: | $418.50/m x length of vessel
 Vessels 35 m and over: | $669.00/m x length of vessel
 Fees for berthing at the main jetty are as follows —
