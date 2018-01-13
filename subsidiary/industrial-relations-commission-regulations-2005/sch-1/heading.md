@@ -522,18 +522,21 @@ Between | ......................................................................
 and | ..................................................................................................................
  | (respondent)
 Agent | .................................................................................................................. ..................................................................................................................
- | (insert name, street address and telephone number of agent)
+ | (specify: (a)name, street address and telephone number of agent; or (b)details relating to a class of persons of which the agent is a member)
 is hereby authorised to appear and act, in the abovementioned proceedings, for
 .........................................................................................................................................
 .........................................................................................................................................
 (name of party for whom agent is appearing and acting)
 This warrant also authorises the agent to receive mail, including email or fax, from the Commission for and on behalf of the party for whom the agent is appearing and acting.
 (delete if not applicable)
+This warrant also authorises the agent to appear and act for the party in other proceedings before the Commission.
+(delete if not applicable)
+This warrant applies until [it is withdrawn / .......................].
 (affix seal where necessary) | ........................................................................
  | (signature of party for whom the agent is appearing)
 Dated this ................................... day of ............................................. 20 ......................
 NOTE:Unless the Commission otherwise directs, after the warrant is filed, the party for who the agent is appearing must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 18 inserted in Gazette 4 Jul 2014 p. 2413-14; amended in Gazette 15 May 2015 p. 1725.]
+[Form 18 inserted in Gazette 4 Jul 2014 p. 2413-14; amended in Gazette 15 May 2015 p. 1725; 12 Jan 2018 p. 117.]
 Form 19 — Application for registration of organisation/association
 [r. 66(1), 67(1) and 68(1)]
 Industrial Relations Act 1979

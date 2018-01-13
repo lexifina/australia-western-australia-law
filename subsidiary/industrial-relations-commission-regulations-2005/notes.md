@@ -23,6 +23,7 @@ Reprint 3: The Industrial Relations Commission Regulations 2005 as at 12 Sep 201
 Industrial Relations Commission Amendment Regulations (No. 2) 2015 | 9 Jan 2015 p. 211-12 | r. 1 and 2: 9 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jan 2015 (see r. 2(b))
 Industrial Relations Commission Amendment Regulations 2015 | 15 May 2015 p. 1721-5 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2015 (see r. 2(b))
 Industrial Relations Commission Amendment Regulations (No. 3) 2015 | 21 Aug 2015 p. 3336-46 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Aug 2015 (see r. 2(b) and Gazette 21 Aug 2015 p. 3310)
+Industrial Relations Commission Amendment Regulations 2018 | 12 Jan 2018 p. 116-17 | r. 1 and 2: 12 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jan 2018 (see r. 2(b))
 Although the commencement date of 1 Jul 2008 was specified in the Industrial Relations Commission Amendment Regulations (No. 2) 2008, because of the Interpretation Act 1984 s. 25(3) those regulations came into operation on 1 Aug 2008 when the Owner-Drivers (Contracts and Disputes) Act 2007 Sch. 3 cl. 1 came into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -60,4 +61,5 @@ reviewable decision102A(1)
 salaried position109
 substantive proceedings18(1)
 Tribunal95(1), 99A
+warrant63(1)
 writing3
