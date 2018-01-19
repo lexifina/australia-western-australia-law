@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Working with Children (Criminal Record Checking) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 January 2018 of the Working with Children (Criminal Record Checking) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Working with Children (Criminal Record Checking) Regulations 2005 | 21 Dec 2005 p. 6189-214 | 1 Jan 2006 (see r. 2 and Gazette 30 Dec 2005 p. 6875)
@@ -25,7 +25,7 @@ Child Protection Regulations Amendment Regulations 2016 Pt. 4 | 24 Jun 2016 p. 2
 Working with Children (Criminal Record Checking) Amendment Regulations 2016 | 24 Jun 2016 p. 2294-5 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3174-5 | 1 Jul 2017 (see r. 2(b))
 Working with Children (Criminal Record Checking) Amendment Regulations 2017 | 3 Oct 2017 p. 5036 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Oct 2017 (see r. 2(b))
-Footnote no longer applicable.
+Reprint 4: The Working with Children (Criminal Record Checking) Regulations 2005 as at 19 Jan 2018 (includes amendments listed above)
 Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Community Services Act 1972, Community Services (Child Care) Regulations 1988 and Community Services (Outside School Hours Care) Regulations 2002 were repealed by the Children and Community Services Act 2004 s. 250.
 Formerly referred to the Children and Community Services (Child Care) Regulations 2006, the citation of which was changed to the Child Care Services (Child Care) Regulations 2006 by the Children and Community Services (Child Care) Amendment Regulations 2007 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -37,10 +37,10 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 application11A(1)
+Australian Crime Commission6(1)
 child-related job10(4)
-CrimTrac Agency6(2)
 driver’s licence endorsed with extension F or T18(3)
-employer21(3)
+employer21(3)(g)
 exempt work3
 national event3
 national tour3
