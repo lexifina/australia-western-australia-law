@@ -64,7 +64,6 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 4. | To amend certificates of title of other owners affected by section 170 of the Act — for each certificate of title affected | $168.70
 5. | To serve a section 138A caveator with notice under section 138B of the Act | $315.70
 6. | For each replacement edition of a duplicate certificate of title where a duplicate certificate of title was issued on the registration of the certificate of title | $168.70
-[7Adeleted]
 7. | An application in respect of any matter not specifically provided for in this Division | $168.70
 [Division 4 inserted in Gazette 9 Jan 2009 p. 32; amended in Gazette 22 May 2009 p. 1705; 19 Jun 2009 p. 2239; 18 Jun 2010 p. 2680-1; 14 Jun 2011 p. 2134-5; 19 Jun 2015 p. 2138; 24 Jun 2016 p. 2322 and 2323; 23 Jun 2017 p. 3184.]
 ## Division 5 — Certificates
@@ -123,8 +122,6 @@ Note:The fees specified in item 18 include the taking a hard copy of screen prin
 9. | Cancellation of a deposited plan | $210.00
 10. | Search of an historic tenure | fee as assessed by the Registrar, not exceeding actual cost
 11. | Providing a replica of a certificate of title, plan or document registered in the State | actual cost
-[12.deleted]
-[13.deleted]
+[12, 13. deleted]
 14. | For registrations and recordings under Division 1, lodgments under Division 2 and applications under Division 4 — involving more than 20 certificates or leases — each certificate or lease in excess of 20 | $6.10
-[15.deleted]
 [Division 7 inserted in Gazette 9 Jan 2009 p. 34-6; amended in Gazette 19 Jun 2009 p. 2238 and 2240-1; 18 Jun 2010 p. 2682; 14 Jun 2011 p. 2136; 22 Jun 2012 p. 2782-3; 26 Jul 2013 p. 3348; 19 Jun 2015 p. 2139; 22 Mar 2016 p. 836; 24 Jun 2016 p. 2322 and 2324; 23 Jun 2017 p. 3185.]

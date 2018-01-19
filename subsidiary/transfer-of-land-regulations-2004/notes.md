@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transfer of Land Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 January 2018 of the Transfer of Land Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Transfer of Land Regulations 2004 | 2 Sep 2004 p. 3829-46 | 6 Sep 2004 (see r. 2)
@@ -26,9 +26,10 @@ Transfer of Land Amendment Regulations 2014 | 30 May 2014 p. 1683-6 | r. 1 and 2
 Reprint 4: The Transfer of Land Regulations 2004 as at 5 Dec 2014 (includes amendments listed above)
 Transfer of Land Amendment Regulations 2015 | 19 Jun 2015 p. 2136-9 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Transfer of Land Amendment Regulations 2016 | 22 Mar 2016 p. 835-6 | r. 1 and 2: 22 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Mar 2016 (see r. 2(b))
-Lands Regulations Amendment (Fees and Charges) Regulations 2016 Pt 4 | 24 Jun 2016 p. 2320-5 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
+Lands Regulations Amendment (Fees and Charges) Regulations 2016 Pt 4 | 24 Jun 2016 p. 2320-5 | 1 Jul 2016 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3181-6 | 3 Jul 2017 (see r. 2(b))
 Transfer of Land Amendment Regulations 2017 | 24 Nov 2017 p. 5679-82 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
+Reprint 5: The Transfer of Land Regulations 2004 as at 19 Jan 2018 (includes amendments listed above)
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
