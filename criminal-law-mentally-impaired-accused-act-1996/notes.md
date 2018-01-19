@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Law (Mentally Impaired Accused) Act 1996 and includes the amendments made by the other written laws referred to in the following table.The table also contains information about any reprint.
+This is a compilation of the Criminal Law (Mentally Impaired Accused) Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Law (Mentally Impaired Defendants) Act 1996 | 70 of 1996 | 13 Nov 1996 | 13 Nov 1997 (see s. 2)
@@ -22,6 +22,7 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 7 |
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 1 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 1 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Statutes (Minor Amendments) Act 2017 s. 5 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
+Reprint 4: The Criminal Law (Mentally Impaired Accused) Act 1996 as at 19 Jan 2018 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 9 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Now known as the Criminal Law (Mentally Impaired Accused) Act 1996; short title changed (see note under s. 1).
 Defined terms
@@ -46,3 +47,4 @@ Schedule 1 offence3
 statutory penalty3
 trial8
 victim33(6)
+By Authority: KEVIN J. McRAE, Government Printer
