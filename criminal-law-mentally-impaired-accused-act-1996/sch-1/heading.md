@@ -35,4 +35,4 @@ s. 444 | Criminal damage
 s. 32 | Wilfully lighting a fire or causing a fire to be lit under such circumstances as to be likely to injure or damage a person or property
 3.Road Traffic Act 1974
 s. 59 | Dangerous driving causing death, injury etc.
-[Schedule 1 amended by No. 38 of 1998 s. 4(3); No. 23 of 2001 s. 10(2); No. 4 of 2004 s. 24 and 26; No. 29 of 2008 s. 29; No. 6 of 2017 s. 5(2).]
+[Schedule 1 amended: No. 38 of 1998 s. 4(3); No. 23 of 2001 s. 10(2); No. 4 of 2004 s. 24 and 26; No. 29 of 2008 s. 29; No. 6 of 2017 s. 5(2).]
