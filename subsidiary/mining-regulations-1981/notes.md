@@ -139,11 +139,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt
 Mining Amendment Regulations 2017 | 5 Sep 2017 p. 4681-5 | r. 1 and 2: 5 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Sep 2017 (see r. 2(b))
 Mining Amendment Regulations (No. 2) 2017 | 29 Sep 2017 p. 4986-7 | r. 1 and 2: 29 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2017 (see r. 2(b))
 Mining Amendment Regulations (No. 3) 2017 | 24 Nov 2017 p. 5682-3 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Mining Amendment Regulations (No. 4) 2017 r. 3-16 | 22 Dec 2017 p. 5989-93 | 22 Jan 2018 (see r. 2(b))
-The Mining Amendment Act 1990 was operative 28 June 1991.
+Mining Amendment Regulations (No. 4) 2017 | 22 Dec 2017 p. 5989-93 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2018 (see r. 2(b))
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Mining Act 1978.
@@ -160,71 +156,6 @@ commencement day means the day on which these regulations come into operation;
 existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
 Disallowed on 12 Oct 2017 see Gazette 17 Oct 2017 p. 5345.
 Disallowed on 28 Nov 2017 see Gazette 1 Dec 2017 p. 5749.
-On the date as at which this compilation was prepared, the Mining Amendment Regulations (No. 4) 2017 r. 3-16 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Mining Regulations 1981.
-4.Regulation 2 amended
-(1) In regulation 2 delete the definition of Director, Environment Division.
-(2) In regulation 2 insert in alphabetical order:
-Director Operations, Resource and Environmental Compliance Division means the person for the time being holding or acting in the office of Director Operations, Resource and Environmental Compliance Division in the Department;
-Executive Director, Resource and Environmental Compliance Division means the person for the time being holding or acting in the office of Executive Director, Resource and Environmental Compliance Division in the Department;
-5.Regulation 4B amended
-In regulation 4B delete “Mineral Titles” and insert:
-Resource Tenure
-6.Regulation 5 amended
-Delete regulation 5(3) and insert:
-(3) For the purposes of section 30(8) the prescribed offices or positions are —
-(a) Executive Director Resource Tenure Division in the Department;
-(b) General Manager Resource Tenure in the Resource Tenure Division of the Department.
-7.Regulation 32A amended
-Delete regulation 32A(3) and insert:
-(3) For the purposes of section 82A(2)(b) the prescribed officials are —
-(a) Director Operations, Resource and Environmental Compliance Division;
-(b) Executive Director, Resource and Environmental Compliance Division.
-8.Regulation 33A amended
-In regulation 33A(1) delete paragraphs (a) and (b) and insert:
-(a) Director Operations, Resource and Environmental Compliance Division;
-(b) Executive Director, Resource and Environmental Compliance Division;
-(c) General Manager Minerals, North, Resource and Environmental Compliance Division in the Department;
-(d) General Manager Minerals, South, Resource and Environmental Compliance Division in the Department.
-9.Regulation 89B amended
-In regulation 89B delete “Mineral Titles” and insert:
-Resource Tenure
-10.Regulation 113A amended
-In regulation 113A:
-(a) delete paragraphs (b) and (c) and insert:
-(b) General Manager Resource Tenure; and
-(c) Manager Mineral Tenure; and
-(b) delete “of the Mineral Titles” and insert:
-in the Resource Tenure
-11.Regulation 113B amended
-In regulation 113B delete paragraphs (a) and (b) and insert:
-(a) Executive Director Resource Tenure Division in the Department;
-(b) General Manager Resource Tenure in the Resource Tenure Division of the Department.
-12.Regulation 116 amended
-In regulation 116 in the definition of Director delete “of the Mineral Titles Division of” and insert:
-Resource Tenure Division in
-13.Regulation 120J amended
-Delete regulation 120J(3) and insert:
-(3) When reviewing a direction, the Executive Director, Resource and Environmental Compliance Division may —
-(a) take into account any active measures that have been taken by the mining tenement holder which result in substantial compliance with the direction; and
-(b) extend the time period for compliance with the direction, if of the opinion that measures already taken by the mining tenement holder will be completed within the extended time period.
-14.Schedule 1 amended
-In Schedule 1 Form 1A delete “Registrar/Customer Service Coordinator, Mineral Titles Division” and insert:
-Registrar
-15.Various references to “Director, Environment” replaced
-In the provisions listed in the Table delete “Director, Environment” (each occurrence) and insert:
-Executive Director, Resource and Environmental Compliance
-Table
-r. 120J(1) | r. 120J(4)
-r. 120N(3) | r. 120N(4)
-16.Various references to “Environment” replaced
-In the provisions listed in the Table delete “Environment” and insert:
-Resource and Environmental Compliance
-Table
-r. 2 definition of environmental officer | r. 13A(2)
-r. 21A(2) | r. 23DA(2)
-r. 31A(2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -253,11 +184,12 @@ decreasing adjustment85AA(5)
 deliverer86AA(11)
 determination137(1)
 Director116, 120P
-Director, Environment Division2
+Director Operations, Resource and Environmental Compliance Division2
 document59A(1)
 environment information96CA(1)
 environment report96CA(1)
-environmental officer2, Sch. 4 cl. 3
+environmental officer2
+Executive Director, Resource and Environmental Compliance Division2
 existing amount86(2d)
 existing exploration licence2, Sch. 3 cl. 1(1)
 expense85AA(3)
@@ -319,6 +251,7 @@ purchaser85(1)
 quarter85(1)
 quarterly period2
 RBA rate85AB(1)
+reference grade86AD(4)
 reference price86AB(1)
 refiner86AA(11)
 refinery86AA(11)
@@ -328,8 +261,7 @@ release date23(2)
 relevant depth101A(1)
 relevant exploration licence4A
 relevant operations report58A(1)
-relevant period96CA(1)
-relevant period86(2a), 86(2a)
+relevant period86(2a), 96CA(1)
 reversion licence63A(1)
 royalty ore86AD(4)
 royalty return2
