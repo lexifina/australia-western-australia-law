@@ -25,54 +25,8 @@ Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2
 Building Amendment Regulations 2017 | 7 Feb 2017 p. 1160-2 | r. 1 and 2: 7 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Feb 2017 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Building Regulations Amendment Regulations 2017 Pt. 2 | 8 Aug 2017 p. 4343-5 | 9 Aug 2017 (see r. 2(b))
-Building Amendment Regulations (No. 3) 2017 (other than r. 5-8, 9(2), (3) and (5) and 11) | 22 Dec 2017 p. 5971-5 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1, 2, 5-8, 9(2), (3) and (5) and 11: 23 Dec 2017 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Building Amendment Regulations (No. 3) 2017 r. 5-8, 9(2), (3) and (5) and 11 | 22 Dec 2017 p. 5971-5 | 23 Jan 2018 (see r. 2(b))
+Building Amendment Regulations (No. 3) 2017 | 22 Dec 2017 p. 5971-5 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1, 2, 5-8, 9(2), (3) and (5) and 11: 23 Dec 2017 (see r. 2(c)); r. 5-8, 9(2), (3) and (5) and 11: 23 Jan 2018 (see r. 2(b))
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Building Amendment Regulations (No. 3) 2017 r. 5-8, 9(2), (3) and (5) and 11 had not come into operation. They read as follows:
-5.Regulation 55 amended
-In regulation 55(1) insert in alphabetical order:
-declaration of intended demolition, in relation to a dwelling the ownership of which is transferred, means a statutory declaration made by the person to whom the ownership is transferred declaring that the person intends to demolish the dwelling within the period of 6 months beginning on the transfer day;
-transfer day, in relation to a dwelling the ownership of which is transferred, means the day on which the ownership is transferred;
-6.Regulation 56 amended
-(1) In regulation 56 delete “If an owner” and insert:
-(1) If an owner
-(2) In regulation 56 in the Penalty delete “Penalty:” and insert:
-Penalty for this subregulation:
-(3) At the end of regulation 56 insert:
-(2) It is a defence to a charge of an offence under subregulation (1) for the accused to prove that the person to whom the ownership of the dwelling is transferred gave the accused a declaration of intended demolition for the dwelling before the time of the transfer.
-7.Regulation 57 amended
-(1) In regulation 57(1):
-(a) delete “56,” and insert:
-56(1),
-(b) delete “12 months of the ownership being transferred,” and insert:
-the post-transfer period,
-(2) In regulation 57(1) in the Penalty delete “Penalty:” and insert:
-Penalty for this subregulation:
-(3) After regulation 57(1) insert:
-(1A) In subregulation (1) —
-post-transfer period, in relation to a dwelling, means —
-(a)if the new owner gave the prior owner a declaration of intended demolition for the dwelling before the time of the transfer — the period of 6 months beginning on the transfer day; or
-(b)if the new owner did not give the prior owner a declaration of intended demolition for the dwelling before the time of the transfer — the period of 12 months beginning on the transfer day.
-(4) In regulation 57(2) delete “The new owner” and insert:
-If the new owner did not give the prior owner a declaration of intended demolition for the dwelling before the time of the transfer, the new owner
-(5) After regulation 57(2) insert:
-(3) It is a defence to a charge of an offence under subregulation (1) for the accused to prove that the dwelling was demolished within the post-transfer period.
-8.Regulation 60 amended
-In regulation 60(2) delete “56(a),” and insert:
-56(1)(a),
-9.Schedule 4 amended
-(2) In Schedule 4 clause 1 in the Table delete the item relating to Laverton and insert:
-Laverton | Whole district other than townsites
-(3) In Schedule 4 clause 1 in the Table delete the item relating to Menzies and insert:
-Menzies | Whole district other than townsites
-(5) In Schedule 4 clause 1 in the Table delete the item relating to Wiluna and insert:
-Wiluna | Whole district other than townsite of Wiluna
-11.Schedule 6 amended
-In Schedule 6 delete “r. 56” and insert:
-r. 56(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -103,6 +57,7 @@ Class3
 CodeMark certificate31J(1)
 commencement day3, 31BA(8)
 decision33(1)
+declaration of intended demolition55(1)
 dwelling55(1)
 electrician55(1)
 EPSch. 3 cl. 1
@@ -124,6 +79,7 @@ performance solution3
 pergolaSch. 4 cl. 2
 person responsible54A(1)
 person with a disability51(1)
+post-transfer period57(1A)
 pre-May 2016 private swimming pool 3
 prior owner57(1)
 private swimming pool3
@@ -144,6 +100,7 @@ sole-occupancy unit3
 swimming pool3
 Table41(2)
 townsite3
+transfer day55(1)
 transitional bush fire application31
 unit55(1)
 work54A(1)
