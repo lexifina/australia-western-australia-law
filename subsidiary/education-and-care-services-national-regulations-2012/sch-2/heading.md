@@ -25,12 +25,13 @@ Section 141(4)(d) | Application for review by Regulatory Authority | Nil | Nil
 Section 145(2)(c) | Application for review by Ratings Review Panel | 24 or fewer approved places $400 | 5 or fewer family day care educators $400
  |  | 25 to 80 approved places $600 | 6 to 20 family day care educators $600
  |  | 81 or more approved places $800 | 21 or more family day care educators $800
-Section 152(3)(c) | Application for highest rating | 24 or fewer approved places $200 | 5 or fewer family day care educators $200
- |  | 25 to 80 approved places $400 | 6 to 20 family day care educators $400
- |  | 81 or more approved places $600 | 21 or more family day care educators $600
-Section 159(3)(c) | Re-application for highest rating | 24 or fewer approved places $200 | 5 or fewer family day care educators $200
- |  | 25 to 80 approved places $400 | 6 to 20 family day care educators $400
- |  | 81 or more approved places $600 | 21 or more family day care educators $600
+Section 152(3)(c) | Application for highest rating | 24 or fewer approved places nil | 5 or fewer family day care educators nil
+ |  | 25 to 80 approved places nil | 6 to 20 family day care educators nil
+ |  | 81 or more approved places nil | 21 or more family day care educators nil
+Section 159(3)(c) | Re-application for highest rating | 24 or fewer approved places nil | 5 or fewer family day care educators nil
+ |  | 25 to 80 approved places nil | 6 to 20 family day care educators nil
+ |  | 81 or more approved places nil | 21 or more family day care educators nil
+[Part 1 amended in Gazette 23 Jan 2018 p. 257-8.]
 ## Part 2 — Other fees
 Provision of the Law or regulation | Description | Fee
 Section 107(c) | Application for supervisor certificate | $30
