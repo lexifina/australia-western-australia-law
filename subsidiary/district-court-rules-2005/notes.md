@@ -14,6 +14,7 @@ District Court Amendment Rules 2013 | 26 Jul 2013 p. 3407-47 | r. 1 and 2: 26 Ju
 Reprint 2: The District Court Rules 2005 as at 6 Dec 2013 (includes amendments listed above)
 District Court Amendment Rules (No. 2) 2013 | 31 Dec 2013 p. 6549-62 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 20 Jan 2014 (see r. 2(b))
 District Court Amendment Rules (No. 2) 2016 | 21 Jun 2016 p. 2201-2 | r. 1 and 2: 21 Jun 2016 (see r. 2(a)); Rules other than r. 1 and 2: 22 Jun 2016 (see r. 2(b))
+District Court Amendment Rules (No. 3) 2017 | 2 Feb 2018 p. 316-17 | r. 1 and 2: 2 Feb 2018 (see r. 2(a)); Rules other than r. 1 and 2: 3 Feb 2018 (see r. 2(b))
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a lawyer or legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
