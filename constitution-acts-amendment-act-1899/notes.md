@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 February 2018 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
@@ -191,7 +191,7 @@ Adoption Amendment Act (No. 2) 2003 s. 87 | 8 of 2003 | 1 Apr 2003 | 1 Jun 2003 
 Censorship Amendment Act 2003 s. 43 | 30 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Public Transport Authority Act 2003 s. 202 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 20, 50, 68(1), 116(1) and 221(1) | 35 of 2003 | 26 Jun 2003 | s. 20, 68(1), and 221(1): 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 50 and 116(1): 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
-Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Corruption and Crime Commission Act 2003 Sch. 4 cl. 1 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) | 50 of 2003 | 9 Jul 2003 | 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
 Reprint 12: The Constitution Acts Amendment Act 1899 as at 3 Oct 2003 (includes amendments listed above except those in the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 50 and 116(1) and the Corruption and Crime Commission Act 2003)
 Economic Regulation Authority Act 2003 Sch. 2 cl. 6 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -282,16 +282,17 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 | 23 of 2014 | 
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
-Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes amendments listed above except those in the Medicines and Poisons Act 2014)
- | Perth Market (Disposal) Act 2015 s. 54 | 40 of 2015 | 8 Dec 2015 | 31 Mar 2016 (see s. 2(2) and Gazette 31 Mar 2016 p. 969)
  | Conservation and Land Management Amendment Act 2015 s. 72 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
+Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes amendments listed above except those in the Medicines and Poisons Act 2014 and the Conservation and Land Management Amendment Act 2015)
+ | Perth Market (Disposal) Act 2015 s. 54 | 40 of 2015 | 8 Dec 2015 | 31 Mar 2016 (see s. 2(2) and Gazette 31 Mar 2016 p. 969)
  | Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
  | Health Services Act 2016 s. 288 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
  | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
- | Statutes (Repeals) Act 2016 Pt. 2 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
- | Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 1 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see 2(b))
  | School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Statutes (Repeals) Act 2016 Pt. 2 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
+ | Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 1 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+ | Reprint 21: The Constitution Acts Amendment Act 1899 as at 9 Feb 2018 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
@@ -300,7 +301,6 @@ Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | To be pro
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
-Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Repealed by the Honey Pool Repeal Act 1991.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -359,10 +359,10 @@ Expired 31 Oct 1984.
 Relevant provisions deleted by the Acts Amendment (Conservation and Land Management) Act 1984.
 Repealed by the Youth, Sport and Recreation Repeal Act 1984.
 The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
-The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from this reprint.
 The amendments in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 are not included because it was deleted before it came into operation by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Conservation and Land Management Amendment Act 1991 s. 57 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 35(3).
+The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The Motor Vehicle Dealers Amendment Act 2003 s. 25 and 26 read as follows:
 25.Transitional provision: membership of Board
 The persons who were members of the Motor Vehicle Dealers Licensing Board immediately before the commencement of section 10 cease to hold office on that commencement.
@@ -382,7 +382,7 @@ The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as f
 by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
-On the date as at which this Compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 2 reads as follows:
@@ -392,17 +392,15 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
--59Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 had not come into operation. It reads as follows:
 14.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to the Potato Marketing Corporation of Western Australia.
-On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 313 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biodiversity Conservation Act 2016 s. 313 had not come into operation. It reads as follows:
 313.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to the Western Australian Wildlife Authority.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 364 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Aquatic Resources Management Act 2016 s. 364 had not come into operation. It reads as follows:
 364.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete “Any advisory committee established or continued in existence under Part 4 of the Fish Resources Management Act 1994.” and insert:
