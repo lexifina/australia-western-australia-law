@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Authorised Lotteries) Rules 2016 | 7 Oct 2016 p. 4405-527 | r. 1 and 2: 7 Oct 2016 (see r. 2(a)); Rules other than r. 1 and 2: 8 Oct 2016 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) Amendment Rules 2017 | 4 Oct 2017 p. 5107-51 | r. 1 and 2: 4 Oct 2017 (see r. 2(a)); Rules other than r. 1 and 2: 5 Oct 2017 (see r. 2(b))
+Lotteries Commission (Authorised Lotteries) (Multiple Games) Amendment Rules 2018 | 9 Feb 2018 p. 405-6 | r. 1 and 2: 9 Feb 2018 (see r. 2(a)); Rules other than r. 1 and 2: 10 Feb 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
