@@ -30,6 +30,7 @@ Supreme Court (Fees) Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2130-4 
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 10 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Supreme Court (Fees) Amendment Regulations 2017 | 19 Sep 2017 p. 4885-6 | r. 1 and 2: 19 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2017 (see r. 2(b))
+Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 6 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.
 Defined terms

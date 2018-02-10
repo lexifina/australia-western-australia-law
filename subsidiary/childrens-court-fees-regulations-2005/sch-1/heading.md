@@ -33,13 +33,13 @@ NOTE Fees under this item are payable in the case of an indictable offence dealt
 Item | Matter | Column A Fee for individual $ | Column B Fee for eligible individual $
 1. | On filing an application for a misconduct restraining order under the Restraining Orders Act 1997 | 119.00 | 35.70
 2. | On the execution of an arrest warrant of any kind —
- | (a)for arresting the person | 130.00 | 130.00
+ | (a)for arresting the person | 131.65 | 131.65
  | (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody | 130.00 | 130.00
  | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until the person is conveyed to a court or a custodial place | 34.50 | 34.50
 NOTE 1 The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
-NOTE 2 The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
+NOTE 2 The fee under paragraph (a) includes the costs of — (a)receiving and printing the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
 3. | For an application for an extraordinary drivers licence | 196.50 | 61.50
-[Division 2 inserted in Gazette 7 Jul 2017 p. 3730-1.]
+[Division 2 inserted in Gazette 7 Jul 2017 p. 3730-1; amended in Gazette 9 Feb 2018 p. 401-2.]
 ## Division 3 — Criminal jurisdiction
 [Heading inserted in Gazette 7 Jul 2017 p. 3732.]
 Item | Matter | Column A Fee for individual $ | Column B Fee for eligible individual $

@@ -1,16 +1,16 @@
 ## Schedule 2 — Sheriff’s fees
 [r. 105]
 Item | Action | Fee $
-1. | (a)Service of any process when personal service is not required under the Act | 51.00
- | (b)Service of any process when personal service is required under the Act | 71.50
+1. | (a)Service of any process when personal service is not required under the Act | 52.65
+ | (b)Service of any process when personal service is required under the Act | 73.15
  | (c)Service by post, including postage | 35.00
  | Note 1: The fee under paragraphs (a) and (b) is payable whether or not the service is successful and covers up to 3 attempts at service at the same address. Note 2: The fee is not payable in respect of any process that is served in conjunction with any process requiring attendance at a court by the party to be served.
- | Note 3: The fee includes the completion of any certificate of the service.
-2. | For enforcing a judgment by means of a property (seizure and sale) order . | 163.00
- | Note 1: The fee is payable whether or not the Sheriff’s functions under the order are performed and covers up to 3 attempts to perform the functions at the same address. Note 2: The fee includes — (a)receipt of the order; and (b)attendances and inquiries before attempting seizure; and (c)service of any notice required before seizure; and (d)seizure and preparing an inventory of any personal property seized; and (e)granting walking possession; and (f)making a report to the creditor.
-3. | For enforcing a judgment by means of a property (seizure and delivery) order | 130.00
+ | Note 3: The fee includes the costs of receiving and printing the process and the completion of any certificate of the service.
+2. | For enforcing a judgment by means of a property (seizure and sale) order . | 164.65
+ | Note 1: The fee is payable whether or not the Sheriff’s functions under the order are performed and covers up to 3 attempts to perform the functions at the same address. Note 2: The fee includes the costs of — (a)receiving and printing the order; and (b)attendances and inquiries before attempting seizure; and (c)service of any notice required before seizure; and (d)seizure and preparing an inventory of any personal property seized; and (e)granting walking possession; and (f)making a report to the creditor.
+3. | For enforcing a judgment by means of a property (seizure and delivery) order | 131.65
  | Note 1: The fee is payable whether or not the Sheriff’s functions under the order are performed and covers up to 3 attempts to perform the functions at the same address.
- | Note 2: The fee includes — (a)receipt of the order; and (b)attendances and inquiries before attempting seizure and delivery; and (c)an appointment to deliver property; and (d)removal of a person from land; and (e)supervision of lock and security changes to premises; and (f)securing seized property; and (g)delivering seized property to the person entitled to it in accordance with the order; and (h)making a report to the person entitled to the benefit of the order.
+ | Note 2: The fee includes the costs of — (a)receiving and printing the order; and (b)attendances and inquiries before attempting seizure and delivery; and (c)an appointment to deliver property; and (d)removal of a person from land; and (e)supervision of lock and security changes to premises; and (f)securing seized property; and (g)delivering seized property to the person entitled to it in accordance with the order; and (h)making a report to the person entitled to the benefit of the order.
 4. | Inspection of personal property under seizure | 69.00
  | Note 1: If the Sheriff has several enforcement orders, one fee is payable for the first enforcement order in priority.
 5. | For possession of personal property under seizure per day | 7.55
@@ -42,11 +42,11 @@ Item | Action | Fee $
  | (b)For the balance over $13 500, a fee at the rate of | 2.50%
  | Note 1: If real property is delivered in accordance with a property (seizure and delivery) order made by the Magistrates Court, the maximum amount payable under this item is $357.00.
 11. | On the execution of an arrest warrant of any kind —
- | (a)for preparing to arrest, and arresting, the person | 130.00
+ | (a)for preparing to arrest, and arresting, the person | 131.65
  | (b)for conveying the person from the place of arrest to appear before a judicial officer in a court, or to a custodial place, and releasing the person from arrest or custody | 130.00
  | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until he or she is conveyed to a court or a custodial place | 34.50
  | Note 1: The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
- | Note 2: The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
+ | Note 2: The fee under paragraph (a) includes the costs of — (a)receiving and printing the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
  | Note 3: The fee under paragraph (b) is payable whether or not the place of arrest is the court building or custodial place and whether or not the person is conveyed to a court or a custodial place in a vehicle
 12. | For each half hour or part of a half hour that it is necessary for an enforcement officer to engage an assistant to perform a function —
  | (a)in relation to the execution of an arrest warrant; or
@@ -64,4 +64,4 @@ Item | Action | Fee $
 19. | Copies of documents —
  | (a)Copies of enforcement orders, for each page | 1.70
  | (b)For certifying that a document is a true copy, an additional fee of | 19.85
-[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471; 4 Sep 2009 p. 3486-7; 27 Nov 2009 p. 4786; 8 Mar 2011 p. 797; 20 Dec 2011 p. 5394-5; 30 Nov 2012 p. 5798-9; 15 Nov 2013 p. 5254-5; 27 Jun 2014 p. 2335-6; 10 Apr 2015 p. 1254-5; 19 Jun 2015 p. 2116-17; 14 Jun 2016 p. 1869-70; 7 Jul 2017 p. 3734-5.]
+[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471; 4 Sep 2009 p. 3486-7; 27 Nov 2009 p. 4786; 8 Mar 2011 p. 797; 20 Dec 2011 p. 5394-5; 30 Nov 2012 p. 5798-9; 15 Nov 2013 p. 5254-5; 27 Jun 2014 p. 2335-6; 10 Apr 2015 p. 1254-5; 19 Jun 2015 p. 2116-17; 14 Jun 2016 p. 1869-70; 7 Jul 2017 p. 3734-5; 9 Feb 2018 p. 402-3.]

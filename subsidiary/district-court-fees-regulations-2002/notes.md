@@ -29,6 +29,7 @@ Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 5 | 14 Jun 20
 District Court (Fees) Amendment Regulations (No. 2) 2016 Pt. 2 | 9 Sep 2016 p. 3886 | 10 Sep 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 District Court (Fees) Amendment Regulations 2017 | 14 Jul 2017 p. 3949-50 | r. 1 and 2: 14 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jul 2017 (see r. 2(b))
+Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 4 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Repealed by the District Court Rules 2005.
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.
@@ -39,12 +40,18 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 approved recipient11A(1)
+Centrelink7(1)
 corporation3
+eligible entity3
+eligible entity fee3
+eligible individual3
+eligible individual fee3
+entity3
 fee9(1)
 individual3
 non-profit association3
+person3
 Rules3
 searchable information11A(1)
 small business3
-special reasons7(1a)
 subsidiary3

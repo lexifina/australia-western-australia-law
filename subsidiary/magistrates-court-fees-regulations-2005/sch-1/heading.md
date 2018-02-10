@@ -68,18 +68,18 @@ Note 1 This fee is not payable for matters dealt with under the minor cases proc
 Note 2 The % rate is to be applied to the amount at which the bill is drawn.
 Note 3 If the parties agree on the bill of costs and the appointment is cancelled, the following percentage of the fee paid is to be refunded — (a)if the appointment is cancelled less than 3 days before the day of the appointment, nil; (b)if the appointment is cancelled 3 days or more and less than 10 days before the day of the appointment, 50%; (c)if the appointment is cancelled 10 or more days before the day of the appointment, 80%.
 9. | On the execution of an arrest warrant of any kind —
- | (a)for arresting the person | 130.00 | 130.00 | 130.00
+ | (a)for arresting the person | 131.65 | 131.65 | 131.65
  | (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody | 130.00 | 130.00 | 130.00
  | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until the person is conveyed to a court or a custodial place | 34.50 | 34.50 | 34.50
 Note 1 The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
-Note 2 The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
+Note 2 The fee under paragraph (a) includes the costs of — (a)receiving and printing the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
 10. | For an application for an extraordinary drivers licence under the Road Traffic (Authorisation to Drive) Act 2008 section 27 | 196.50 | N/A | 59.00
 11. | On filing — (a)an application for a misconduct restraining order under the Restraining Orders Act 1997 | 119.00 | 119.00 | 35.70
  | (b)an application under the Disposal of Uncollected Goods Act 1970 | 119.00 | 119.00 | 35.70
  | (c)an application under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 101, 101AA or 101A | 119.00 | 119.00 | 35.70
  | (d)an application under the Dividing Fences Act 1961 | 119.00 | 119.00 | 35.70
  | (e)an application under the Pawnbrokers and Second-hand Dealers Act 1994 | 119.00 | 119.00 | 35.70
-[Division 2 inserted in Gazette 7 Jul 2017 p. 3761-70.]
+[Division 2 inserted in Gazette 7 Jul 2017 p. 3761-70; amended in Gazette 9 Feb 2018 p. 404.]
 Division 3 — Criminal jurisdiction
 [Heading inserted in Gazette 7 Jul 2017 p. 3770.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $

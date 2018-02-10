@@ -22,6 +22,7 @@ Children’s Court (Fees) Amendment Regulations 2015 | 19 Jun 2015 p. 2114-15 | 
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 2 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Family Violence Restraining Orders) Regulations 2017 Pt. 3 | 27 Jun 2017 p. 3432-5 | 1 Jul 2017 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
+Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 2 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
