@@ -23,6 +23,7 @@ Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amend
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2016 | 31 Aug 2016 p. 3701-5 | bl. 1 and 2: 31 Aug 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2016 (see bl. 2(b))
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2017 | 27 Jun 2017 p. 3424-31 | bl. 1 and 2: 27 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b))
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2017 | 30 Jun 2017 p. 3564-6 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b)(i) and Gazette 27 Jun 2017 p. 3424)
+Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2018 | 16 Feb 2018 p. 469-70 | bl. 1 and 2: 16 Feb 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 17 Feb 2018 (see bl. 2(b))
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 The Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016, (row 5 of the table in by-law 5) was disallowed by the Legislative Council on 22 Nov 2016 (see Gazette 6 Dec 2016 p. 5492).
 Defined terms
@@ -34,7 +35,9 @@ half-hourly maximum demand3
 interest period12(1)
 off peak3
 on peak3
+permitted surcharge3
 RBA cash rate3
+RBA Standard No. 3 of 20163
 relevant period8(1)
 residential tariff3
 Tariff3

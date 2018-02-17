@@ -15,7 +15,5 @@ Description of fee | Amount
 7.Meter reading where reading requested by consumer | $16.63
 8.Overdue account notices | $5.00
 9.Tariff R1 or R3 “time-of-use meter” installation fee | $809.60
-10.A transaction fee where a consumer makes a payment to the corporation by means of one of the following —
-(a)a Visa or a MasterCard credit card or debit card | 0.47% of the amount of the charge
-(b)an American Express credit card | 0.7% of the amount of the charge
-[Schedule 4 inserted in Gazette 30 Jun 2017 p. 3565-6.]
+10.A transaction fee where a consumer makes a payment to the corporation by means of a credit card or debit card | The permitted surcharge for the payment
+[Schedule 4 inserted in Gazette 30 Jun 2017 p. 3565-6; amended in Gazette 16 Feb 2018 p. 470.]
