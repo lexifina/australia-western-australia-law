@@ -20,6 +20,7 @@ Rights in Water and Irrigation Amendment Regulations 2011 | 20 Dec 2011 p. 5411 
 Rights in Water and Irrigation Amendment Regulations 2013 | 20 Aug 2013 p. 3846 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Rights in Water and Irrigation Amendment Regulations 2014 | 16 Dec 2014 p. 4766 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
 Water Legislation Amendment Regulations 2017 Pt. 2 | 15 Sep 2017 p. 4794-6 | 16 Sep 2017 (see r. 2(b))
+Rights in Water and Irrigation Amendment Regulations 2018 | 20 Feb 2018 p. 495-501 | r. 1 and 2: 20 Feb 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Feb 2018 (see r. 2(b))
 These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 37.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Disallowed 22 Nov 2007 see Gazette 27 Nov 2007 p. 5910.
@@ -30,12 +31,16 @@ Defined termProvision(s)
 Act3
 approved3
 clause47
+coordinate references41A
 Department3
 form3
+Gnangara groundwater plan area41A
 licence3, 32
+meter41A
 new owner16(1)
 permit3
 register47
 section3
-water entitlement23(1)
+water entitlement23(1), 41A
+water year41A
 well32

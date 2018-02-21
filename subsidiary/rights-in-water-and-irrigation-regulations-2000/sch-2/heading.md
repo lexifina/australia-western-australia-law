@@ -7,5 +7,6 @@
 3. | An offence against section 26E(1) of the Act | $150
 4. | An offence against section 26G(3) of the Act | $500
 5. | An offence against section 26GC(2) of the Act | $500
+5A. | An offence against regulation 41C(1) | $400
 6. | An offence against regulation 43 | $400
-[Schedule 2 inserted in Gazette 5 Sep 2006 p. 3624.]
+[Schedule 2 inserted in Gazette 5 Sep 2006 p. 3624; amended in Gazette 20 Feb 2018 p. 499.]
