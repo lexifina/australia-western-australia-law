@@ -6,10 +6,9 @@ Aquatic Resources Management Act 2016 s. 1 and 2 | 53 of 2016 | 29 Nov 2016 | 29
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Aquatic Resources Management Act 2016 s. 3-8, Pt. 2-19 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Aquatic Resources Management Act 2016 s. 3-8, Pt. 2-19 | 53 of 2016 (as amended by No. 8 of 2017 s. 8) | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Aquatic Resources Legislation Amendment Act 2016 Pt. 2 | 40 of 2016 | 29 Nov 2016 | Operative on commencement of the Aquatic Resources Management Act 2016 s. 263 (see s. 2(b))
-Port Kennedy Development Act 2017 s. 8 | 8 of 2017 | 15 Sep 2017 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared the Aquatic Resources Management Act 2016 s. 3-8 and Pt. 2-19 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared the Aquatic Resources Management Act 2016 s. 3-8 and Pt. 2-19 (as amended by No. 8 of 2017 s. 8) had not come into operation. They read as follows:
 3.Terms used
 (1) In this Act, unless the contrary intention appears —
 Aboriginal body corporate means —
@@ -3332,10 +3331,10 @@ Aquatic Resources Management Act 2016
 Table
 Duties Act 2008 | s. 136
 Planning and Development Act 2005 | Sch. 2 cl. 7(2)(e)
-Port Kennedy Development Agreement Act 1992 | s. 12(3)(c)
 Wildlife Conservation Act 1950 | s. 17(2)(e) and (g) and s. 17A(d)
 Note:In the Duties Act 2008, the heading to amended section 136 is to read:
 Business licences held under Aquatic Resources Management Act 2016
+[Section 377 amended by No. 8 of 2017 s. 8.]
 On the date as at which this compilation was prepared the Aquatic Resources Legislation Amendment Act 2016 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Aquatic Resources Management Act 2016 amended
 3.Act amended
@@ -3343,7 +3342,3 @@ This Part amends the Aquatic Resources Management Act 2016.
 4.Section 263 amended
 After section 263(5) insert:
 (6) To the extent that the regulations prescribe under subsection (2)(j) a fee that includes an amount referred to in subsection (5) that is a tax, the regulations may impose the tax.
-On the date as at which this compilation was prepared, the Port Kennedy Development Act 2017 s. 8 had not come into operation. It reads as follows:
-8.Aquatic Resources Management Act 2016 amended
-(1) This section amends the Aquatic Resources Management Act 2016.
-(2) In section 377 in the Table delete the item relating to the Port Kennedy Development Agreement Act 1992.
