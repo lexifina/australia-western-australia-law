@@ -53,6 +53,7 @@ Workforce Reform Act 2014 Pt. 4 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 8 | 32 of 2016 | 19 Oct 2016 | 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+Salaries and Allowances Amendment (Debt and Deficit Remediation) Act 2018 | 1 of 2018 | 27 Feb 2018 | s. 1 and 2: 27 Feb 2018 (see s. 2(a)); Act other than s. 1 and 2: 28 Feb 2018 (see s. 2(b))
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Footnote no longer applicable.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
@@ -66,10 +67,13 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Chairman4(1)
+classification framework10D(1)
+commencement day10B
 elected council member7B(1)
-executive officer7C(1)
+entity10F(1)
+executive officer7C(1), 10F(1)
 former office entitlement6C(1)
-Government entity7C(1)
+Government entity7C(1), 10F(3)
 holding public office6C(1)
 member4(1)
 Minister of the Crown4(1)
