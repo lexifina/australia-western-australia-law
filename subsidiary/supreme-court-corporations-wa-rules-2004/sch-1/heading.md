@@ -13,7 +13,7 @@ CD (and Others)
 Defendant(s)
 [list, in a schedule, any further defendants]
 [insert information to comply with Order 69 Rule 2(1)(h) of the Rules of the Supreme Court 1971]
-[Form 1 amended in Gazette 13 Feb 2009 p. 312.]
+[Form 1 amended: Gazette 13 Feb 2009 p. 312.]
 Form 2
 rules 2.2 and 15A.3
 Originating process
@@ -64,7 +64,7 @@ OR
 [Complete the following section if the time for service has been abridged.]
 The time by which a copy of this originating process is to be served has been abridged by order made by [name of judge or other Court officer] on [date] to [time and date].
 * Omit if not applicable
-[Form 2 amended in Gazette 13 Feb 2009 p. 308.]
+[Form 2 amended: Gazette 13 Feb 2009 p. 308.]
 Form 3
 rules 2.2, 15A.4, 15A.8 and 15A.9
 Interlocutory process
@@ -97,7 +97,7 @@ OR
 [Complete the following section if the time for service has been abridged.]
 The time by which a copy of this interlocutory process is to be served has been abridged by order made by [name of judge or other Court officer] on [date] to [time and date].
 * Omit if not applicable
-[Form 3 amended in Gazette 13 Apr 2007 p. 1673; 13 Feb 2009 p. 308.]
+[Form 3 amended: Gazette 13 Apr 2007 p. 1673; 13 Feb 2009 p. 308.]
 Form 4
 rule 2.9
 Notice of appearance
@@ -129,7 +129,7 @@ Date:
 Signed on behalf of ASIC
 Name of signatory: [name].
 Capacity of signatory: [capacity].
-[Form 5 amended in Gazette 12 Aug 2008 p. 3548.]
+[Form 5 amended: Gazette 12 Aug 2008 p. 3548.]
 Form 6
 rule 3.4
 Notice of hearing to approve compromise or arrangement
@@ -187,7 +187,7 @@ Signature of official liquidator
 * Omit if not applicable
 Schedule
 [description of hourly rate(s)]
-[Form 8 amended in Gazette 12 Aug 2008 p. 3545-6.]
+[Form 8 amended: Gazette 12 Aug 2008 p. 3545-6.]
 Form 9
 rule 5.6
 Notice of application for winding-up order
@@ -200,7 +200,7 @@ ABN or ACN: [ABN or ACN of company to which proceeding relates]
 Date:
 Name of plaintiff or plaintiff’s legal practitioner: [name]
 * Omit if not applicable
-[Form 9 amended in Gazette 13 Feb 2009 p. 312; 21 Sep 2012 p. 4427.]
+[Form 9 amended: Gazette 13 Feb 2009 p. 312; 21 Sep 2012 p. 4427.]
 Form 10
 rule 5.10
 Notice of application for winding-up order by substituted plaintiff
@@ -213,7 +213,7 @@ ABN or ACN: [ABN or ACN of company to which proceeding relates]
 Date:
 Name of substituted plaintiff or substituted plaintiff’s legal practitioner: [name]
 * Omit if not applicable
-[Form 10 amended in Gazette 13 Feb 2009 p. 312.]
+[Form 10 amended: Gazette 13 Feb 2009 p. 312.]
 Form 11
 rule 5.11
 Notice of winding-up order and of appointment of liquidator
@@ -224,7 +224,7 @@ ABN or ACN: [ABN or ACN of company to which proceeding relates]
 On [date], the [name of Court] in Proceeding No. of [year], ordered the winding-up of [name of company] and I was appointed as liquidator of the company.
 Date:
 Name and address of liquidator: [name and address]
-[Form 11 amended in Gazette 13 Feb 2009 p. 312.]
+[Form 11 amended: Gazette 13 Feb 2009 p. 312.]
 Form 12
 rule 6.2
 Notice of appointment of provisional liquidator
@@ -235,7 +235,7 @@ ABN or ACN: [ABN or ACN of company to which proceeding relates]
 On [date], in Proceeding No. of [year], heard by the [name of Court], I was appointed as the provisional liquidator of the above company.
 Date:
 Name and address of provisional liquidator: [name and address]
-[Form 12 amended in Gazette 13 Feb 2009 p. 312.]
+[Form 12 amended: Gazette 13 Feb 2009 p. 312.]
 Form 13
 rule 7.6
 Notice by creditor or contributory of objection to release of liquidator
@@ -286,7 +286,7 @@ Name of liquidator: [name].
 The liquidator’s address for service is [address].
 ............................................
 Signature of liquidator
-[Form 15 amended in Gazette 13 Feb 2009 p. 312.]
+[Form 15 amended: Gazette 13 Feb 2009 p. 312.]
 Form 16
 rules 9.1, 9.2, 9.3, 9.4 and 9.5
 Notice of intention to apply for remuneration
@@ -300,7 +300,7 @@ Date:
 Signature of *receiver/*administrator/*liquidator/
 *provisional liquidator/*special manager
 * Omit if not applicable
-[Form 16 amended in Gazette 13 Feb 2009 p. 312.]
+[Form 16 amended: Gazette 13 Feb 2009 p. 312.]
 Form 16A
 rules 9.2A, 9.4A
 Notice of intention to apply for review of remuneration
@@ -316,7 +316,7 @@ Date:
 ...............................................................
 Signature of proposed plaintiff or applicant
 * Omit if not applicable
-[Form 16A inserted in Gazette 12 Aug 2008 p. 3546.]
+[Form 16A inserted: Gazette 12 Aug 2008 p. 3546.]
 Form 17
 rule 11.3
 Summons for examination
@@ -359,7 +359,7 @@ Date:
 Signed
 Judge/Registrar
 * Omit if not applicable
-[Form 17A inserted in Gazette 12 Aug 2008 p. 3547-8.]
+[Form 17A inserted: Gazette 12 Aug 2008 p. 3547-8.]
 Form 18
 rule 12.2
 Summons for appearance in relation to registration of transfer of interests
@@ -387,7 +387,7 @@ Signature of official liquidator
 *Omit if not applicable
 Schedule
 [description of hourly rate(s)]
-[Form 19 inserted in Gazette 13 Feb 2009 p. 309; amended in Gazette 1 Apr 2010 p. 1279.]
+[Form 19 inserted: Gazette 13 Feb 2009 p. 309; amended: Gazette 1 Apr 2010 p. 1279.]
 Form 20
 rule 15A.6
 Notice of filing of application for recognition of foreign proceeding
@@ -404,7 +404,7 @@ Copies of documents filed may be obtained from the plaintiff’s address for ser
 Date:
 Name of plaintiff or plaintiff’s legal practitioner: [name]
 *Omit if not applicable
-[Form 20 inserted in Gazette 13 Feb 2009 p. 309-10.]
+[Form 20 inserted: Gazette 13 Feb 2009 p. 309-10.]
 Form 21
 rule 15A.7
 Notice of making of order under the Cross-Border Insolvency Act 2008 (Commonwealth)
@@ -420,7 +420,7 @@ TAKE NOTICE that:
 Date:
 Name of plaintiff or plaintiff’s legal practitioner: [name]
 *Omit if not applicable
-[Form 21 inserted in Gazette 13 Feb 2009 p. 310.]
+[Form 21 inserted: Gazette 13 Feb 2009 p. 310.]
 Form 22
 rule 15A.7
 Notice of dismissal or withdrawal of application for recognition of foreign proceeding
@@ -432,7 +432,7 @@ TAKE NOTICE that the application under the Cross-Border Insolvency Act 2008 (Com
 Date:
 Name of person giving notice or of person’s legal practitioner [name]
 *Omit if not applicable
-[Form 22 inserted in Gazette 13 Feb 2009 p. 311.]
+[Form 22 inserted: Gazette 13 Feb 2009 p. 311.]
 Form 23
 rule 15A.9
 Notice of filing of application to modify or terminate an order for recognition or other relief
@@ -450,4 +450,4 @@ Copies of documents filed may be obtained from the applicant’s address for ser
 Date:
 Name of plaintiff or plaintiff’s legal practitioner: [name]
 *Omit if not applicable
-[Form 23 inserted in Gazette 13 Feb 2009 p. 311-12.]
+[Form 23 inserted: Gazette 13 Feb 2009 p. 311-12.]

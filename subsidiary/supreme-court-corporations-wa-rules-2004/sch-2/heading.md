@@ -15,4 +15,4 @@ Item | Provision | Description of matter
 10. | Chapter 6 | Relating to acquisition of shares (s. 602-742)
 11. | Part 9.4B | Relating to civil consequences of contravening civil penalty provisions (s. 1317DA-1317S)
 12. | Part 9.5 except s. 1318, 1319, 1322 and 1325 | Relating to powers of courts (s. 1318-1327)
-[Schedule 2 amended in Gazette 12 Aug 2008 p. 3548.]
+[Schedule 2 amended: Gazette 12 Aug 2008 p. 3548.]

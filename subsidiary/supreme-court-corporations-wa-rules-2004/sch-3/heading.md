@@ -20,4 +20,4 @@ I, [name] of [address and occupation], *say on oath/*affirm [or *make oath and s
 8.The sum demanded remains due and payable by the defendant to me [or the plaintiff].
 Sworn, etc.
 * Omit if not applicable
-[Note 2 amended in Gazette 6 Jul 2004 p. 2712.]
+[Note 2 amended: Gazette 6 Jul 2004 p. 2712.]
