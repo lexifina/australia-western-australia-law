@@ -62,38 +62,12 @@ Road Traffic Code Amendment Regulations (No. 4) 2017 | 22 Aug 2017 p. 4503-4 | r
 Road Traffic Code Amendment Regulations (No. 3) 2017 | 17 Oct 2017 p. 5338-41 | r. 1 and 2: 17 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 5) 2017 | 31 Oct 2017 p. 5464-5 | r. 1 and 2: 31 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 6) 2017 | 31 Oct 2017 p. 5462-4 | r. 1 and 2: 31 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic Code Amendment Regulations (No. 8) 2017 r. 3 and 4 | 5 Jan 2018 p. 9-10 | 2 Mar 2018 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 8) 2017 | 5 Jan 2018 p. 9-10 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2018 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
-On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations (No. 8) 2017 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic Code 2000.
-4.Part 11 Division 6A inserted
-After Part 11 Division 6 insert:
-Division 6A — Stationary incident response vehicles
-137A.Approaching and passing stationary incident response vehicles
-(1) In this regulation —
-hazard warning light has the same meaning as in regulation 188;
-incident response vehicle means any of the following vehicles if the vehicle is displaying a flashing light other than a turn indicator light or hazard warning light —
-(a)an emergency vehicle;
-(b)a motor break-down service vehicle;
-(c)a tow truck;
-(d)a vehicle that is being used to provide an incident response service on behalf of the Commissioner of Main Roads.
-(2) A driver approaching a stationary incident response vehicle must drive at a speed at which the driver can, if necessary, stop safely before passing the incident response vehicle.
-Points: 3Modified penalty: 6 PU
-(3) A driver approaching a stationary incident response vehicle that is in the same lane of a multi-lane carriageway as the driver must move to another lane for vehicular traffic travelling in the same direction as the driver, if it is safe to do so.
-Points: 3Modified penalty: 6 PU
-(4) A driver must not pass a stationary incident response vehicle at a speed exceeding 40 km/h.
-Points: 3Modified penalty: 6 PU
-(5) Subregulations (2) and (4) do not apply if the driver —
-(a) is on a two-way carriageway; and
-(b) the incident response vehicle is on the side of the carriageway used by vehicular traffic travelling in the opposite direction to the driver.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -167,6 +141,7 @@ front fog light3(1)
 g258(7)
 give way line3(1)
 halfway around91(2)
+hazard warning light137A(1)
 hazard warning lights188(2)
 heavy vehicle3(1), 191(1), 192(1)
 heavy vehicle speed zone3(1)
@@ -174,6 +149,7 @@ held265(1)
 holiday period3(1)
 hook turn3(1)
 hours of darkness3(1)
+incident response vehicle137A(1)
 intersection3(1)
 keep clear marking3(1)
 laned carriageway3(1)
