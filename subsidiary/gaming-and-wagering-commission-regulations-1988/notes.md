@@ -71,6 +71,7 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Gaming and Wagering Commission Amendment Regulations 2017 | 26 May 2017 p. 2632-3 | r. 1 and 2: 26 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 27 May 2017 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations (No. 3) 2017 | 11 Jul 2017 p. 3833-4 | r. 1 and 2: 11 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2017 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 10 Nov 2017 p. 5579-94 | 1 Jan 2018 (see r. 2(b))
+Gaming and Wagering Commission Amendment Regulations 2018 | 2 Mar 2018 p. 672 | r. 1 and 2: 2 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Mar 2018 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Deleted by the Acts Amendment (Continuing Lotteries) Act 2000 s. 5.
@@ -81,8 +82,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 amusement parlour18B(7)
-baseline8A(1)
-cruise ship8A(1), 18C(1)
+cruise ship18C(1)
 donor organization30A(3)
 gambling operator43(1)
 lottery terms and conditions36A(2)
