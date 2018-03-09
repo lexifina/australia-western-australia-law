@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the District Court of Western Australia Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 March 2018 of the District Court of Western Australia Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | District Court of Western Australia Act 1969 | 84 of 1969 | 17 Nov 1969 | 1 Apr 1970 (see s. 2 and Gazette 26 Mar 1970 p. 903)
@@ -57,13 +57,13 @@ Compilation table
  | Commercial Arbitration Act 2012 s. 45 it. 5 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
  | Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 10 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 3 | 3 of 2017 | 21 Aug 2017 | 18 Sep 2017 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 9: The District Court of Western Australia Act 1969 as at 9 Mar 2018 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
-“
 Part 22 — Transitional provisions
 Division 1 — Provisions about enforcing judgments
 143.Interpretation
@@ -127,14 +127,10 @@ Division 2 — General
 (3) To the extent that a provision of regulations made under subsection (1) has effect before the day on which it is published in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
-”.
 The Limitation Legislation Amendment and Repeal Act 2005 s. 10(2) reads as follows:
-“
 10.Section 37 amended and a savings provision
 (2) The District Court of Western Australia Act 1969 section 37, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -142,7 +138,6 @@ Act | Provision
 ........................................................... | .........
 District Court of Western Australia Act 1969 | s. 15
 ........................................................... | .........
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -150,6 +145,8 @@ action6(1)
 Australian lawyer6(1)
 auxiliary District Court judge6(1)
 cause6(1)
+Chief Judge6(1)
+Court6(1)
 defendant6(1)
 District Court judge6(1)
 judgment6(1)
@@ -165,5 +162,3 @@ registrar6(1)
 section6(1)
 serious methylamphetamine crime42(2)
 sheriff6(1)
-the Chief Judge6(1)
-the Court6(1)
