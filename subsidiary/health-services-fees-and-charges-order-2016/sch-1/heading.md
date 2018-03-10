@@ -69,7 +69,8 @@ Item | Charge
 1. | The MBS amount for the service if the service is provided to — (a)a private in-patient; or (b)a compensable in-patient; or (c)a nursing home type private patient; or (d)an ineligible in-patient; or (e)a compensable day patient; or (f)an ineligible day patient; or (g)a compensable out-patient; or (h)an ineligible out-patient; or (i)a private same day patient; or (j)a compensable same day patient; or (k)an ineligible same day patient.
 2. | If the service is provided to a private pathology out-patient — 85% of the MBS amount for the service.
 ## Division 5 — Specialised orthoses
-## Subdivision 1 — Royal Perth Hospital and Fiona Stanley Hospital
+## Subdivision 1 — Adult chargeable patients
+[Heading inserted in Gazette 9 Mar 2018 p. 799.]
 Table
 Item | Code | Description of orthosis | Charge
 1. | AFOAT | Ankle foot orthosis, articulated plastic with toe plate | $1 216.92
@@ -174,7 +175,8 @@ Item | Code | Description of orthosis | Charge
 100. | RMO3 | Repair/modification orthosis, labour up to 3 hours | $225.53
 101. | WOP | Wrist orthosis, custom plastic | $358.22
 102. | WOS1 | Wrist orthosis, prefabricated | $130.31
-## Subdivision 2 — Princess Margaret Hospital for Children
+## Subdivision 2 — Child chargeable patients
+[Heading inserted in Gazette 9 Mar 2018 p. 799.]
 Table
 Item | Description of orthosis | Charge
 1. | 3 point dynamic pressure orthosis | $181.18
