@@ -26,6 +26,7 @@ Building Amendment Regulations 2017 | 7 Feb 2017 p. 1160-2 | r. 1 and 2: 7 Feb 2
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Building Regulations Amendment Regulations 2017 Pt. 2 | 8 Aug 2017 p. 4343-5 | 9 Aug 2017 (see r. 2(b))
 Building Amendment Regulations (No. 3) 2017 | 22 Dec 2017 p. 5971-5 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1, 2, 5-8, 9(2), (3) and (5) and 11: 23 Dec 2017 (see r. 2(c)); r. 5-8, 9(2), (3) and (5) and 11: 23 Jan 2018 (see r. 2(b))
+Building Amendment Regulations 2018 | 9 Mar 2018 p. 799-800 | r. 1 and 2: 9 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Mar 2018 (see r. 2(b))
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
