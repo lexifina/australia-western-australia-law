@@ -24,6 +24,7 @@ Reprint 2: The Dangerous Goods Safety (Explosives) Regulations 2007 as at 7 Oct 
 Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 2 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Dangerous Goods (Explosives) Amendment Regulations 2017 | 27 Jun 2017 p. 3431-2 | r. 1 and 2: 27 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2018 Pt. 2 | 20 Mar 2018 p. 996-1005 | 21 Mar 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -34,7 +35,6 @@ ADG Code3
 AE Code3
 aerial shell3
 affected person39(1)
-airport manager148(2)
 alternative safety measures3
 amend172(1)
 ammunition3
@@ -67,6 +67,7 @@ Category 3 load95(1)
 CBD107(1)
 class 1.4 explosive77A(1)
 classification code3
+close proximity firework136
 Commissioner19(1)
 complying magazine91(1)
 constituent3
@@ -99,16 +100,18 @@ fireworks event3, 136
 fireworks event permit3
 flash powderSch. 2 cl. 2(1)
 fountainSch. 2 cl. 2(1)
+GHS104(2B)
 grace period179A(1)
 ground display3
 gun3
 handle111A(2)
 harbour master111A(2)
 holder3
-import54, 56
+import56
 initiate3
 initiating article77(1)
 inner packaging40(1)
+Intermediate Bulk Container104(2B)
 international requirements56
 interstate law30(1A)
 interstate licence97(1)
@@ -169,11 +172,12 @@ secure nominee3
 security card3
 security clearance3
 security document22(1)
+security information25A(1)
 security sensitive ammonium nitrate3
 SEF185
 sell3
 shotfirer129(1), 133(1), 134(3)
-site149(1), 161(2) and (4)
+site149(1), 161(2), 161(4)
 sky rocketSch. 2 cl. 2(1)
 special berth (explosives)111A(2)
 SSAN3
@@ -186,12 +190,12 @@ supervised3
 supervised access3
 supply3
 test permit3
-theatrical firework136
 townsite131(1)
 trading licence3
 train95(1)
 type A facility185
 type B facility185
+UN Number104(2B)
 unauthorised explosive26
 unauthorised person52(1)
 unexplained loss3

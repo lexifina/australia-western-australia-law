@@ -16,6 +16,7 @@ Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 7 | 5 Feb 2016
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 5 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2018 Pt. 3 | 20 Mar 2018 p. 996-1005 | 21 Mar 2018 (see r. 2(b))
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
 Repealed by the Dangerous Goods Safety (Goods in Ports) Repeal Regulations 2013.
@@ -23,7 +24,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 ADG Code4
-ADG compliant135D(1) and (2)
+ADG compliant135D(1), 135D(2)
 agreed FES emergency response guide76B(1)
 alleged135M(1)
 amend29(1), 92(1)
@@ -80,7 +81,7 @@ hot work135O(1)
 IBC4
 ignition source4
 IMDG Code4
-IMDG compliant135D(1) and (3)
+IMDG compliant135D(1), 135D(3)
 importer4, 16
 kg or LSch. 1, Sch. 5 cl. 1(2)
 label4
