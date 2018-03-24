@@ -8,6 +8,7 @@ Cat Amendment Regulations (No. 2) 2013 | 23 Aug 2013 p. 4004-7 | r. 1 and 2: 23 
 Cat Amendment Regulations 2014 | 20 May 2014 p. 1606-8 | r. 1 and 2: 20 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2014 (see r. 2(b))
 Reprint 1: The Cat Regulations 2012 as at 4 Dec 2015 (includes amendments listed above)
 Cat Amendment Regulations 2016 | 11 Mar 2016 p. 686-8 | r. 1 and 2: 11 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Mar 2016 (see r. 2(b))
+Local Government Regulations Amendment (Cat and Dog) Regulations 2018 Pt. 2 | 23 Mar 2018 p. 1025-8 | 24 Mar 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -15,4 +16,4 @@ exhibited10(1)
 Form3(1)
 pensionerSch. 3 cl. 1(1)
 registered training provider7(3)
-By Authority: JOHN A. STRIJK, Government Printer
+SAFE entity9(1)
