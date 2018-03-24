@@ -53,7 +53,7 @@ Insert:
 (7)name or description of person, animal or property attacked;
 (8)address or description of premises.
 ÅDelete if not appropriate.
-[Form 2 amended in Gazette 20 May 2014 p. 1605.]
+[Form 2 amended: Gazette 20 May 2014 p. 1605.]
 Form 3
 [r. 15]
 Dog Act 1976 s. 12A(3) and 29(5a)
@@ -71,7 +71,7 @@ Insert:
 (2)address or description of premises;
 (3)description of dog;
 (4)name or description of person attacked.
-[Form 3 inserted in Gazette 11 Mar 2016 p. 689-90.]
+[Form 3 inserted: Gazette 11 Mar 2016 p. 689-90.]
 Form 4
 [r. 20, 22 and 23]
 Application/information form
@@ -185,7 +185,7 @@ _______________________________________________________________
 Part G — Local government use only
 Registration approved (ü): r
 •Assigned registration number ___________________
-[Form 4 amended in Gazette 20 May 2014 p. 1605.]
+[Form 4 amended: Gazette 20 May 2014 p. 1605.]
 Form 5
 [r. 21]
 Dog Act 1976 s. 16(6)(a)
@@ -246,7 +246,7 @@ ____________________________
 (3)State name and address of the person believed to be the owner.
 (4)State, if known, where the dog is ordinarily kept.
 (5)Insert name and address of each person making the complaint.
-[Form 7 amended in Gazette 20 May 2014 p. 1605.]
+[Form 7 amended: Gazette 20 May 2014 p. 1605.]
 Form 8A
 [r. 33A]
 Dog Act 1976 s. 38(3)
@@ -268,7 +268,7 @@ ____________________________ (Name and signature of authorised person)
 (4)State, if known, where the dog is ordinarily kept.
 (5)Penalty for an offence relating to a dangerous dog — a fine of $10 000 with a minimum of $500 and a fine of $500 for each separate and further offence.
 Penalty for an offence relating to a dog other than a dangerous dog — a fine of $5 000.
-[Form 8A inserted in Gazette 20 May 2014 p. 1605-6.]
+[Form 8A inserted: Gazette 20 May 2014 p. 1605-6.]
 Form 8
 [r. 35(1)]
 Infringement notice
