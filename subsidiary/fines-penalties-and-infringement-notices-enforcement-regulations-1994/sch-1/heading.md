@@ -24,7 +24,7 @@ Conservation and Land Management Act 1984
 Control of Vehicles (Off-road Areas) Act 1978 | 37
 Credit Act 1984
 Credit (Administration) Act 1984
-Curtin University of Technology Act 1966 | 20A
+Curtin University Act 1966 | 20A
 Dangerous Goods Safety Act 2004
 Debt Collectors Licensing Act 1964
 Dog Act 1976 | 45A

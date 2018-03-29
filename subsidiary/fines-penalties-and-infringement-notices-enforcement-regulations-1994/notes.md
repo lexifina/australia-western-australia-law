@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 29 March 2018 of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -70,10 +70,23 @@ Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 
 Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 3 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Attorney General Regulations Amendment Regulations 2017 Pt. 3 | 4 Aug 2017 p. 4313-14 | 5 Aug 2017 (see r. 2(b))
-Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Footnote no longer applicable.
-Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Reprint 8: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 29 Mar 2018 (includes amendments listed above)
+Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Agriculture and Food is read and construed as a reference to the Department of Primary Industries and Regional Development unless the contrary intention appears.
+Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Commerce is read and construed as a reference to the relevant successor. The “relevant successor” means:
+(a) the Department of Jobs, Tourism, Science and Innovation if the reference to be read and construed relates to a function, office or other matter that on 1 Jul 2017 became a function of, office in or other matter relating to that department; or
+(b) the Department of Mines, Industry Regulation and Safety if the reference to be read and construed relates to a function, office or other matter that on 1 Jul 2017 became a function of, office in or other matter relating to that department.
+Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Environment Regulation is read and construed as a reference to the Department of Water and Environmental Regulation unless the contrary intention appears.
+Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Fisheries is read and construed as a reference to the Department of Primary Industries and Regional Development unless the contrary intention appears.
+Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Mines and Petroleum is read and construed as a reference to the Department of Mines, Industry Regulation and Safety unless the contrary intention appears.
+Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Parks and Wildlife is read and construed as a reference to the Department of Biodiversity, Conservation and Attractions unless the contrary intention appears.
+Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Racing, Gaming and Liquor is read and construed as a reference to the Department of Local Government, Sport and Cultural Industries unless the contrary intention appears.
+Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Water is read and construed as a reference to the Department of Water and Environmental Regulation unless the contrary intention appears.
+No longer exists. See endnote 15.
+Formerly referred to the Censorship Act 1996, the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009 s. 490.
+Formerly referred to the Curtin University of Technology Act 1966, the short title of which was changed to the Curtin University Act 1966 by the Universities Legislation Amendment Act 2016 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Repealed by the Perth Market Disposal Act 2015.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
