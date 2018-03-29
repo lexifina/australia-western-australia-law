@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Industry Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 29 March 2018 of the Electricity Industry Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Industry Act 2004 | 5 of 2004 | 23 Apr 2004 | s. 1 and 2: 23 Apr 2004; s. 3, Pt. 4 (other than s. 65), Pt. 9 and 10: 23 Jun 2004 (see s. 2 and Gazette 22 Jun 2004 p. 2161); Pt. 8: 1 Jul 2004 (see s. 2 and Gazette 22 Jun 2004 p. 2161); Pt. 2, 3, 5 and 6, s. 65, Sch. 1 and Sch. 3 Div. 1: 31 Dec 2004 (see s. 2 and Gazette 12 Nov 2004 p. 5017); Pt. 7, Sch. 2 and Sch. 3 Div. 2: 25 Jun 2005 (see s. 2 and Gazette 24 Jun 2005 p. 2751)
@@ -15,10 +15,12 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Electricity Corporations Amendment Act 2013 s. 39 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Reprint 3: The Electricity Industry Act 2004 as at 29 Mar 2018 (includes amendments listed above)
 The Electricity Corporation Act 1994 was renamed as the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 Sch. 5 cl. 9.
-The Electricity Corporations Act 2005 Pt. 2 and Sch. 5 (other than cl. 21(2)(a)(ii)) came into operation on 1 Apr 2006, see Gazette 31 Mar 2006 p. 1153.
-The National Gas Access (WA) Act 2009 s. 51 and s. 59(1) came into operation on 1 Jan 2010, see Gazette 31 Dec 2009 p. 5327.
+The Electricity Corporations Act 2005 Sch. 5 cl. 11 came into operation on 1 Apr 2006, see Gazette 31 Mar 2006 p. 1153.
+The National Gas Access (WA) Act 2009 s. 59(1) came into operation on 1 Jan 2010, see Gazette 31 Dec 2009 p. 5327.
 The Gas Pipelines Access (Western Australia) Act 1998 was renamed as the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26.
+Part 8 Div. 4 (r. 119-120) expired at the expiration of the period of 3 years from 1 Jul 2004 (see s. 120 of this Act as at 1 Jul 2004).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,7 +44,7 @@ committee78
 Competition Principles Agreement103
 confer121(1)
 connect57
-cooling-off period48(1)
+cooling-off period48(1)(b)
 Coordinator60
 corporation54A(1), 60
 customer3, 47, 78, 90
@@ -105,7 +107,7 @@ supplier of last resort67, 69(1)
 supply3
 system60
 system management participant126(1)
-tariff customersSch. 1 cl. 1
+tariff customersSch. 1 cl. 1(e)
 Tariff Equalisation Account129B
 tariff equalisation contribution129B
 transmission licence3
