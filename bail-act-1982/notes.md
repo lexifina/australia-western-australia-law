@@ -64,9 +64,6 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 1 (
 Reprint 9: The Bail Act 1982 as at 1 May 2015 (includes amendments listed above)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 2 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2014 p. 4632)
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 1 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Dangerous Sexual Offenders Legislation Amendment Act 2017 Pt. 2 | 21 of 2017 | 13 Dec 2017 | 29 Mar 2018 (see s. 2(b) and Gazette 16 Mar 2018 p. 916-17)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
@@ -83,54 +80,6 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
 The Bail Amendment Act 2008 s. 6(2), 9(4)-(11), 10(2), 11(3), 15(5)-(8), 16(2), 18(4)-(5), 21(3), 22(2), 23(4), 24(6)-(7), 27(2)-(3), 28(6), 30(4)-(5), 31(2)-(3), 32(3)-(4), 33(6), 40(2), 41(5)-(9), 42(3) and 44 are transitional provisions.
-On the date as at which this compilation was prepared, the Dangerous Sexual Offenders Legislation Amendment Act 2017 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Bail Act 1982 amended
-3.Act amended
-This Part amends the Bail Act 1982.
-4.Section 6 amended
-In section 6(2)(b) delete “clause 3A of Part C of Schedule 1.” and insert:
-Schedule 1 Part C clauses 3A and 3D.
-5.Section 7 amended
-In section 7(5) delete “clause 3A of Part C of Schedule 1.” and insert:
-Schedule 1 Part C clauses 3A and 3D.
-6.Section 26 amended
-(1) In section 26(1)(ba) delete “a serious offence to which Schedule 1 Part C clause 3A” and insert:
-an offence to which Schedule 1 Part C clause 3A or 3D
-(2) In section 26(2)(aa) delete “a serious offence to which Schedule 1 Part C clause 3A” and insert:
-an offence to which Schedule 1 Part C clause 3A or 3D
-7.Schedule 1 Part C clause 1 amended
-In Schedule 1 Part C clause 1 delete “clauses 3A and 3C,” and insert:
-clauses 3A, 3C and 3D,
-8.Schedule 1 Part C clause 2 amended
-In Schedule 1 Part C clause 2(3) delete paragraph (a) and insert:
-(a) clauses 3A, 3C and 3D; and
-9.Schedule 1 Part C clause 3D inserted
-After Schedule 1 Part C clause 3C insert:
-3D.Bail in cases of offence under Dangerous Sexual Offenders Act 2006 section 40A
-(1) In this clause —
-section 40A offence means the offence under the Dangerous Sexual Offenders Act 2006 section 40A of contravening a requirement of a supervision order;
-victim has the meaning given in the Dangerous Sexual Offenders Act 2006 section 3(1).
-(2) This clause applies where an accused is in custody —
-(a) awaiting an appearance in court before conviction for a section 40A offence; or
-(b) waiting to be sentenced or otherwise dealt with for a section 40A offence of which the accused has been convicted.
-(3) Despite clause 1, 2 or 4 or any other provision of this Act, where this clause applies the judicial officer or (if section 16A does not apply) the authorised officer in whom jurisdiction is vested must refuse to grant bail for the section 40A offence unless the judicial officer or authorised officer —
-(a) is satisfied that there are exceptional reasons why the accused should not be kept in custody; and
-(b) is satisfied that bail may properly be granted having regard to the provisions of clauses 1 and 3 or, in the case of a child, clauses 2 and 3.
-(4) The judicial officer or authorised officer must in making any decision for the purposes of subclause (3) —
-(a) have regard to —
-(i) any history of proven or alleged contraventions of supervision orders by the accused; and
-(ii) any adverse effect that a grant of bail to the accused would have on a victim of the accused;
-and
-(b) consider whether it would be appropriate to refuse bail and make a hospital order under the Criminal Law (Mentally Impaired Accused) Act 1996 section 5; and
-(c) consider whether the conduct alleged to amount to the contravention in itself appears to be minor or trivial.
-(5) Subclause (4) does not limit the matters that the judicial officer or authorised officer may take into account for the purposes of subclause (3).
-(6) Despite section 7(1), where an accused is refused bail under subclause (3) for an appearance for a section 40A offence the accused’s case for bail need not be considered again under that subsection for an appearance for that offence unless the accused satisfies the judicial officer who may order detention that —
-(a) new facts have been discovered, new circumstances have arisen or the circumstances have changed since bail was refused; or
-(b) the accused failed adequately to present the case for bail on the occasion of that refusal.
-(7) A child accused who is refused bail under subclause (3) must be dealt with in accordance with the Young Offenders Act 1994 section 19(2).
-10.Schedule 1 Part C clause 4 amended
-In Schedule 1 Part C clause 4(1) delete “clauses 3A and 3C,” and insert:
-clauses 3A, 3C and 3D,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -177,6 +126,7 @@ relevant official43A(1)
 relevant papers27(2)
 relevant personSch. 1 cl. 3B(3)
 responsible personSch. 1 cl. 2(1)
+section 40A offenceSch. 1 cl. 3D(1)
 serious offence3(1), 6A(1)
 statute66(3)
 summary court6A(1)
@@ -185,4 +135,5 @@ surety approval officer3(1)
 surety undertaking3(1)
 trial3(1), 7E(2), 31A(1), 44(3)
 urban area16A(4)
+victimSch. 1 cl. 3D(1)
 video link43A(1), 66B(1)
