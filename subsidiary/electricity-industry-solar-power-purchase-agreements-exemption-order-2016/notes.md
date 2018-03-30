@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry (Solar Power Purchase Agreements) Exemption Order 2016 | 23 Dec 2016 p. 5900-3 | cl. 1 and 2: 23 Dec 2016 (see cl. 2(a)); Order other than cl. 1 and 2: 24 Dec 2016 (see cl. 2(b))
 Electricity Industry (Solar Power Purchase Agreements) Exemption Amendment Order 2017 | 13 Jun 2017 p. 2881-2 | cl. 1 and 2: 13 Jun 2017 (see cl. 2(a)); Order other than cl. 1 and 2: 14 Jun 2017 (see cl. 2(b))
+Electricity Industry (Solar Power Purchase Agreements) Exemption Amendment Order 2018 | 29 Mar 2018 p. 1093-4 | cl. 1 and 2: 29 Mar 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Mar 2018 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
