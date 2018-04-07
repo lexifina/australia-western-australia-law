@@ -16,7 +16,7 @@ Dated the ....................................... day of .......................
 For and on behalf of the applicant,
 ...................................................................
 Chairman.
-[Form 1 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 247-8.]
+[Form 1 amended: Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 247-8.]
 Form 2
 Western Australia
 Cremation Act 1929
@@ -27,7 +27,7 @@ Dated at Perth in the State of Western Australia this ..........................
 By His Excellency’s Command,
 ....................................................................
 Minister.
-[Form 2 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 248.]
+[Form 2 amended: Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 248.]
 Form 3
 Western Australia
 Cremation Act 1929
@@ -38,7 +38,7 @@ Dated at Perth in the State of Western Australia, this .........................
 By His Excellency’s Command.
 ....................................................................
 Minister for Health.
-[Form 3 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 248.]
+[Form 3 amended: Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 248.]
 Form 4
 Western Australia
 Cremation Act 1929
@@ -51,7 +51,7 @@ Dated this ................................ day of .............................
 For and on behalf of the applicant.
 ..............................................................
 Chairman.
-[Form 4 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 248.]
+[Form 4 amended: Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 248.]
 Form 5
 Western Australia
 Cremation Act 1929
@@ -60,7 +60,7 @@ Regulation 7
 Whereas a licence to use and conduct a crematorium upon a site defined and set aside for the purpose within the ........................................................ cemetery was on the ............................................... granted under the provisions of the Cremation Act 1929, to ......................................................................................................................................... and whereas it is provided that the licence shall not have any validity or effect unless and until the Chief Health Officer shall certify within one year from the granting of the licence that the necessary buildings, fittings, works and apparatus have been erected and installed in accordance with the approved plans and specifications, and that the relative regulations have been complied with: Now, therefore, I ..................................................................................... Chief Health Officer do hereby certify that the buildings, fittings, works and apparatus have been duly erected and installed, in accordance with the approved plans and specifications, at the site mentioned in the licence, and that the relative regulations have been complied with.
 Dated the ................................ day of ..............................................., 20...............
 ........................................................ Chief Health Officer
-[Form 5 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 248-9.]
+[Form 5 amended: Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 248-9.]
 Form 6
 Application for Permit to Cremate | Cremation Act 1929 Form 6
 Applicant | Name
@@ -90,7 +90,7 @@ Medical Referee
 Signature
 Name
 The nearest surviving relative of a deceased person, is the first person who is available from the following persons in the order of priority listed — (a)a person who, immediately before the death, was living as — (i)the spouse of the deceased; or (ii)a de facto partner of the deceased and who is at least 18 years of age; (b)a person who, immediately before the death, was the spouse of the deceased; (c)a son or daughter of the deceased who is at least 18 years of age; (d)a parent of the deceased; (e)a brother or sister of the deceased who is at least 18 years of age.
-[Form 6 inserted in Gazette 4 Apr 2008 p. 1300-2; amended in Gazette 8 Feb 2013 p. 866; 9 Feb 2016 p. 371.]
+[Form 6 inserted: Gazette 4 Apr 2008 p. 1300-2; amended: Gazette 8 Feb 2013 p. 866; 9 Feb 2016 p. 371.]
 Form 7
 Certificate of Medical Practitioner | Cremation Act 1929 Form 7
 Certificate to be completed by doctor who attended deceased prior to death. Add additional pages if more space is required. Attach copies of all relevant laboratory reports, results, certificates etc.
@@ -127,7 +127,7 @@ Safety of cremation | At the time of death was the deceased fitted with a cardia
 Certification of medical practitioner | I certify that the information set out above is true and correct and that I have not omitted any relevant information.
 Signature
 Date / /20
-[Form 7 inserted in Gazette 29 Jun 2012 p. 2945-9; amended in Gazette 25 Feb 2014 p. 497-8; 21 Apr 2015 p. 1424; 9 Feb 2016 p. 371; 7 Mar 2017 p. 1525.]
+[Form 7 inserted: Gazette 29 Jun 2012 p. 2945-9; amended: Gazette 25 Feb 2014 p. 497-8; 21 Apr 2015 p. 1424; 9 Feb 2016 p. 371; 7 Mar 2017 p. 1525.]
 Form 8
 Western Australia
 Cremation Act 1929
@@ -159,7 +159,7 @@ I hereby give you notice that the application made by you for a permit to cremat
 This refusal has been made known to the Chief Health Officer, together with the reasons therefor. You may apply to the State Administrative Tribunal for a review of the decision.
 ....................................................................
 Medical Referee.
-[Form 10 amended in Gazette 29 Jun 1984 p. 1781; 30 Dec 2004 p. 6933; 10 Jan 2017 p. 249.]
+[Form 10 amended: Gazette 29 Jun 1984 p. 1781; 30 Dec 2004 p. 6933; 10 Jan 2017 p. 249.]
 Form 11
 Western Australia
 Cremation Act 1929
@@ -176,7 +176,7 @@ I, ............................................... (name), of ..................
 ....................................................................
 Signature.
 Date ................................................
-[Form 12 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 249.]
+[Form 12 amended: Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 249.]
 Form 13
 CERTIFICATE OF MEDICAL PRACTITIONER WHO HAS CONDUCTED A POST MORTEM EXAMINATION
 (Regulation 20A)
@@ -190,4 +190,4 @@ Address .....................................................
 Qualifications ............................................
 Date ................................................
 No person who knows that under the terms of any policy of life assurance, will, settlement, or statute or otherwise howsoever he is entitled or will become entitled by reason or in consequence of the death of another person to any real or personal property shall give or sign any certificate concerning the death of such other person for any of the purposes of this Act.
-[Form 13 inserted in Gazette 17 Dec 1954 p. 2252.]
+[Form 13 inserted: Gazette 17 Dec 1954 p. 2252.]
