@@ -1,6 +1,6 @@
 ## Schedule 7 — Set for Life
 [r. 4, 111 and 112]
-[Heading amended in Gazette 4 Oct 2017 p. 5149.]
+[Heading amended: Gazette 4 Oct 2017 p. 5149.]
 ## Division 1 — Calculating the total cost of entry
 Unit cost
 The unit cost of entering a Set for Life draw is made up of a subscription of 55 cents per SET and an agent’s component.
@@ -48,4 +48,4 @@ System entries per oral request | Up to 50
 QuickSET entries per oral request | 2 to 50
 Prize claim period | 12 months
 Maximum aggregate entry cost | $100 000
-[Division 3 amended in Gazette 4 Oct 2017 p. 5149.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5149.]

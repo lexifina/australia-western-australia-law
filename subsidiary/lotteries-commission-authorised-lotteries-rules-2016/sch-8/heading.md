@@ -1,6 +1,6 @@
 ## Schedule 8 — Soccer Pools
 [r. 121, 123 and 124]
-[Heading amended in Gazette 4 Oct 2017 p. 5149.]
+[Heading amended: Gazette 4 Oct 2017 p. 5149.]
 ## Division 1 — Calculating the total cost of entry
 The unit cost of entering a Soccer Pools Game is made up of a subscription of 50 cents per game and an agent’s component.
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
@@ -50,4 +50,4 @@ Syndicate entries may be purchased (if available) | (see Part 2 Division 3)
 System entries per oral request | Up to 50
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
-[Division 3 amended in Gazette 4 Oct 2017 p. 5149-50.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5149-50.]

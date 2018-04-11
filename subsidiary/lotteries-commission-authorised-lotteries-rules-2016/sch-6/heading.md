@@ -1,6 +1,6 @@
 ## Schedule 6 — Saturday Lotto
 [r. 4 and 101]
-[Heading amended in Gazette 4 Oct 2017 p. 5148.]
+[Heading amended: Gazette 4 Oct 2017 p. 5148.]
 ## Division 1 — Calculating the total cost of entry
 The unit cost of entering a Saturday Lotto draw is made up of a subscription of 65 cents per game and an agent’s component.
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
@@ -49,4 +49,4 @@ Syndicate entries may be purchased (if available) | (see Part 2 Division 3)
 System entries per oral request (if available) | Up to 50
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
-[Division 3 amended in Gazette 4 Oct 2017 p. 5148.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5148.]

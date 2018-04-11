@@ -1,7 +1,7 @@
 ## Schedule 3 — Monday and Wednesday Lotto
 [r. 4]
 ## Division 1 — Calculating the total cost of entry
-[Heading amended in Gazette 4 Oct 2017 p. 5145.]
+[Heading amended: Gazette 4 Oct 2017 p. 5145.]
 The unit cost of entering a Monday Lotto or a Wednesday Lotto draw, is made up of a subscription of 55 cents per game and an agent’s component.
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
 where —
@@ -49,4 +49,4 @@ Syndicate entries may be purchased (if available) | (see Part 2 Division 3)
 System entries per oral request | Up to 50
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
-[Division 3 amended in Gazette 4 Oct 2017 p. 5146.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5146.]

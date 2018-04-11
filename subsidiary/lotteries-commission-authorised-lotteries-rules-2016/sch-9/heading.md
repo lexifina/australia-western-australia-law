@@ -12,4 +12,4 @@ Advance sales (maximum) | 10 weeks
 Games per entry (minimum) (may depend on the coupon used) | 1
 Games per entry (maximum) (may depend on the coupon used) | 50
 Prize payout period | 12 months
-[Schedule 9 amended in Gazette 4 Oct 2017 p. 5150.]
+[Schedule 9 amended: Gazette 4 Oct 2017 p. 5150.]

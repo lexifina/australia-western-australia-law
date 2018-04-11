@@ -8,7 +8,7 @@ GNo. of games entered in a draw;
 WNo. of weeks the entry spans;
 TTotal agent’s component cost payable by the subscriber.
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
-[Division 1 amended in Gazette 4 Oct 2017 p. 5146.]
+[Division 1 amended: Gazette 4 Oct 2017 p. 5146.]
 ## Division 2 — System entries and game equivalents
 OZ Lotto
 System | No. of games per game board
@@ -55,4 +55,4 @@ Syndicate entries may be purchased (if available) | (see Part 2 Division 3)
 System entries per oral request | Up to 50
 Prize payment period | 12 months
 Maximum aggregate entry cost | $100 000
-[Division 3 amended in Gazette 4 Oct 2017 p. 5147.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5147.]

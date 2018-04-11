@@ -1,6 +1,6 @@
 ## Schedule 1 — Cash 3 Types of Play, Odds, etc.
 [r. 52, 54, 55, 59, 60, 61 and 62]
-[Heading amended in Gazette 4 Oct 2017 p. 5145.]
+[Heading amended: Gazette 4 Oct 2017 p. 5145.]
 Description of possible 3 Digit individual play types/Odds | If you pick (e.g.) | You win if any of these combinations are drawn (e.g.) | Payout 50 cent wager | Payout $1.00 wager
 Exact order Odds 1 in 1000 | 123 | 123 | $250 | $500
 Any order – 3-way (Playing 2 like digits) Odds 1 in 333.33 | 118 | 118 181 811 | $80 | $160
