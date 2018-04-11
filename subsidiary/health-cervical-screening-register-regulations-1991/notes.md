@@ -9,6 +9,7 @@ Health (Cervical Cytology Register) Amendment Regulations (No. 2) 2006 | 15 Dec 
 Health (Cervical Cytology Register) Amendment Regulations 2007 | 2 Oct 2007 p. 4963-4 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2007 (see r. 2(b))
 Reprint 2: The Health (Cervical Cytology Register) Regulations 1991 as at 20 Feb 2009 (includes amendments listed above)
 Health (Cervical Cytology Register) Amendment Regulations 2014 | 23 May 2014 p. 1631-5 | r. 1 and 2: 23 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 24 May 2014 (see r. 2(b))
+Health Regulations Amendment (Cervical Screening Register) Regulations 2018 Pt. 2 | 10 Apr 2018 p. 1247-8 | 11 Apr 2018 (see r. 2(b))
 Now known as the Health (Cervical Screening Register) Regulations 1991, citatation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
