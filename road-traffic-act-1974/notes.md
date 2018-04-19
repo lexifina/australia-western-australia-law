@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 December 2017 of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic Act 1974 | 59 of 1974 | 3 Dec 1974 | s. 4: 3 Dec 1974 (see s. 2(2)); s. 6-10 and 12: 21 Feb 1975 (see s. 2(1) and Gazette 21 Feb 1975 p. 633); Act other than s. 4, 6-10 and 12: 1 Jun 1975 (see s. 2(1) and Gazette 29 May 1975 p. 1442)
@@ -161,12 +161,13 @@ Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 Div. 1 Subdiv. 1
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and (2) and Gazette 13 Jan 2017 p. 338)
 Reprint 14: The Road Traffic Act 1974 as at 1 Dec 2017 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | To be proclaimed (see s. 2(d))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -291,7 +292,7 @@ The Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 
 The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 will not come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
 The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 s. 5 and Pt. 3 Div. 3 will not come into operation (see. s. 57(1)).
 The Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 cannot come into operation because the sections it seeks to amend were deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 21 — Road Traffic Act 1974 amended
 325.Act amended
@@ -299,12 +300,18 @@ This Division amends the Road Traffic Act 1974.
 326.Section 70 amended
 In section 70(7) delete the definition of technologist and insert:
 technologist means a person approved, or belonging to a class of persons approved, by the Minister to prepare sampling equipment.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2016 s. 64 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 s. 64 had not come into operation. It reads as follows:
 64.Section 110 inserted
 At the end of Part VIII insert:
 110.Transitional provisions for the Road Traffic Legislation Amendment Act 2016
 (1) Until the Road Traffic Legislation Amendment Act 2016 section 62(2) comes into operation, section 49(1) has effect as if paragraph (c) of the Penalty also referred to the application of subsection (3)(ca).
 (2) Until the Road Traffic Legislation Amendment Act 2016 section 63 comes into operation, the definition of impounding offence (driver’s licence) paragraph (a) in section 78A, has effect as if it also referred to section 49(3)(ca).
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 had not come into operation. It reads as follows:
+120.Road Traffic Act 1974 amended
+(1) This section amends the Road Traffic Act 1974.
+(2) In section 65 in the definition of nurse practitioner delete “whose name is entered on the Register of Nurses kept under that Law as being qualified to practice as a” and insert:
+in the nursing profession whose registration under that Law is endorsed as
+(3) In section 65 in the definition of registered nurse delete “and midwifery”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
