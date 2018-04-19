@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 December 2017 of the Health (Miscellaneous Provisions) Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Miscellaneous Provisions) Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 (1 Geo. V No. 45) | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
@@ -141,10 +141,11 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014
 Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
  | Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
  | Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -217,7 +218,7 @@ specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) had not come into operation. They read as follows:
 Part 4 — Health (Miscellaneous Provisions) Act 1911 amended
 Division 2 — Part I amended
 208.Section 5 deleted
@@ -402,6 +403,15 @@ Section 340AL(1c)
 276.Schedule 6 amended
 After Schedule 6 clause 5(2) insert:
 (2A) The persons who held office under section 340AB(3)(d) as members of the Perinatal and Infant Mortality Committee, or as deputies of those members, immediately before the coming into operation of the Public Health (Consequential Provisions) Act 2016 section 248 continue in office, under and subject to Part XIIIB, as members or, as the case requires, deputies of members of the Committee until the expiry of their respective terms as if they had been appointed by the Minister on the nomination of the chief executive of the health service provider for Perth Children’s Hospital under the Health Services Act 2016.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 had not come into operation. It reads as follows:
+111.Health (Miscellaneous Provisions) Act 1911 amended
+(1) This section amends the Health (Miscellaneous Provisions) Act 1911.
+(2) In section 3(1) in the definition of midwife delete “whose name is entered on the Register of Midwives kept under that Law;” and insert:
+in the midwifery profession;
+(3) In section 3(1) in the definition of nurse delete “and midwifery profession whose name is entered on the Register of Nurses kept under that Law;” and insert:
+profession;
+(4) In section 3(1) in the definition of nurse practitioner delete “whose name is entered on the Register of Nurses kept under that Law as being qualified to practice as a” and insert:
+in the nursing profession whose registration under that Law is endorsed as
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
