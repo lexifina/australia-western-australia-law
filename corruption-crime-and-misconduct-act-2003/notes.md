@@ -33,6 +33,10 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (s. 3-32) 
 Declared Places (Mentally Impaired Accused) Act 2015 s. 84 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 6: The Corruption, Crime and Misconduct Act 2003 as at 31 Jul 2015 (includes amendments listed above)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 11 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 105 | 4 of 2018 | 19 Apr 2018 | To be proclaimed (see s. 2(d))
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Corruption, Crime and Misconduct Act 2003; short title changed (see note under s. 1).
@@ -132,6 +136,10 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 105 had not come into operation. It reads as follows:
+105.Corruption, Crime and Misconduct Act 2003 amended
+(1) This section amends the Corruption, Crime and Misconduct Act 2003.
+(2) In section 54(1) in the definition of registered nurse delete “and midwifery”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
