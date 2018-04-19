@@ -4,6 +4,16 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Rail Safety National Law (WA) Act 2015 | 21 of 2015 | 17 Sep 2015 | s. 1 and 2: 17 Sep 2015 (see s. 2(a); Act other than s. 1 and 2: 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 Health Services Act 2016 s. 302 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 119 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 119 had not come into operation. It reads as follows:
+119.Rail Safety National Law (WA) Act 2015 amended
+(1) This section amends the Rail Safety National Law (WA) Act 2015.
+(2) In section 9(1) in the definition of registered nurse delete “and midwifery”.
+(3) In the Schedule section 248(3) in the definition of person to whom this section applies paragraph (b) delete “and midwifery profession as a nurse” and insert:
+profession
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
