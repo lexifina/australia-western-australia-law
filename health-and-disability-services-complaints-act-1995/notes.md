@@ -40,6 +40,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 112 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Health and Disability Services (Complaints) Act 1995; short title changed (see note under s. 1).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -59,6 +60,12 @@ Act | Provision
 .............................................. | ................
 Health Services (Conciliation and Review) Act 1995 | Sch. 2, cl. 3
 .............................................. | ................
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 112 had not come into operation. It reads as follows:
+112.Health and Disability Services (Complaints) Act 1995 amended
+(1) This section amends the Health and Disability Services (Complaints) Act 1995.
+(2) In section 3(1) delete the definition of registration board and insert:
+registration board means a National Health Practitioner Board established under the Health Practitioner Regulation National Law (Western Australia);
+(3) Delete Schedule 1.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
