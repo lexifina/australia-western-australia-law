@@ -28,11 +28,18 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 108 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 s. 52(1) had not come into operation. It reads as follows:
 52.Section 142 amended
 (1) Delete section 142(7)(a)(ii) and insert:
 (ii) under the Mental Health Act 2014 section 157;
 The paragraph that it seeks to amend has been deleted.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 108 had not come into operation. It reads as follows:
+108.Criminal Investigation Act 2006 amended
+(1) This section amends the Criminal Investigation Act 2006.
+(2) In section 73 in the definition of midwife delete “whose name is entered on the Register of Midwives kept under that Law;” and insert:
+in the midwifery profession;
+(3) In section 73 in the definition of nurse delete “and midwifery”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
