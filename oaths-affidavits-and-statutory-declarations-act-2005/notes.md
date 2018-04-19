@@ -15,6 +15,18 @@ Teacher Registration Act 2012 s. 165 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see
 Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2014 r. 4 published in Gazette 17 Apr 2014 p. 1075-6 | 18 Apr 2014 (see r. 2(b))
 Reprint 2: The Oaths, Affidavits and Statutory Declarations Act 2005 as at 4 Dec 2015 (includes amendments listed above)
  | Universities Legislation Amendment Act 2016 Pt. 7 Div. 6 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 115 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 115 had not come into operation. It reads as follows:
+115.Oaths, Affidavits and Statutory Declarations Act 2005 amended
+(1) This section amends the Oaths, Affidavits and Statutory Declarations Act 2005.
+(2) In Schedule 2 after item 25 insert:
+25A. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the midwifery profession. | Midwife
+(3) In Schedule 2 item 27 delete “and midwifery”.
+(4) In Schedule 2 after item 28 insert:
+28A. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the paramedicine profession. | Paramedic
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -24,4 +36,3 @@ chief judicial officer10(1)
 court staff10(1)
 experienced legal practitioner 8
 prescribed consular official3
-By Authority: JOHN A. STRIJK, Government Printer
