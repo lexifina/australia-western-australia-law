@@ -45,7 +45,8 @@ Reprint 6: The Firearms Act 1973 as at 13 Feb 2015 (includes amendments listed a
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biodiversity Conservation Act 2016 s. 316 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Biodiversity Conservation Act 2016 s. 316 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -65,6 +66,10 @@ On the date as at which this compilation was prepared, the Biodiversity Conserva
 (1) This section amends the Firearms Act 1973.
 (2) Delete section 23(10b) and insert:
 (11A) For the purposes of subsections (10) and (10a), the fact that a person uses or carries a firearm for the purposes of an activity authorised under the Biodiversity Conservation Act 2016 is not a reasonable excuse.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 had not come into operation. It reads as follows:
+110.Firearms Act 1973 amended
+(1) This section amends the Firearms Act 1973.
+(2) In section 23B(3) in the definition of registered nurse delete “and midwifery”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
