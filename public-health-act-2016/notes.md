@@ -9,6 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1, and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 117 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 On the date as at which this compilation was prepared, the Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1 and Pt. 20 (s. 313-320) had not come into operation. They read as follows:
 7.Chief Health Officer may give directions to local governments
 (1) This section applies if the Chief Health Officer —
@@ -648,6 +649,15 @@ A requisition issued under the Health Act section 260 and in force immediately b
 (c) the Health (Notification of Stimulant Induced Psychosis) Regulations 2010;
 (d) the Health (Western Australian Cancer Register) Regulations 2011;
 (e) the Health (Western Australian Register of Developmental Anomalies) Regulations 2010.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 117 had not come into operation. It reads as follows:
+117.Public Health Act 2016 amended
+(1) This section amends the Public Health Act 2016.
+(2) In section 4(1) in the definition of midwife delete “whose name is entered on the Register of Midwives kept under that Law;” and insert:
+in the midwifery profession;
+(3) In section 4(1) in the definition of nurse delete “and midwifery profession whose name is entered on the Register of Nurses kept under that Law;” and insert:
+profession;
+(4) In section 4(1) in the definition of nurse practitioner delete “whose name is entered on the Register of Nurses kept under that Law as being qualified to practice as a” and insert:
+in the nursing profession whose registration under that Law is endorsed as
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
