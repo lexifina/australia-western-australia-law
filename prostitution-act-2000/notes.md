@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 September 2013 of the Prostitution Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Prostitution Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prostitution Act 2000 | 17 of 2000 | 22 Jun 2000 | s. 1 and 2: 22 Jun 2000; Act other than s. 1 and 2: 29 Jul 2000 (see s. 2 and Gazette 28 Jul 2000 p. 3987)
@@ -22,10 +22,11 @@ Child Pornography and Exploitation Material and Classification Legislation Amend
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 42 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Criminal Investigation (Covert Powers) Act 2012 Pt. 10 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Reprint 2: The Prostitution Act 2000 as at 13 Sep 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 Pt. 2 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 116 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Criminal Code s. 278 and 281A were deleted by the Criminal Law Amendment (Homicide) Act 2008 s. 10 and s. 13 respectively.
 The Criminal Investigation (Covert Powers) Act 2012 s. 108 and 110 read as follows:
@@ -36,7 +37,7 @@ commencement day means the day on which this Part comes into operation.
 (1) In this section —
 former authorisation means an authorisation under the Prostitution Act 2000 section 35(1) as in force immediately before the day on which Part 10 comes into operation.
 (2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Prostitution Act 2000 amended
 3.The Act amended
 The amendments in this Part are to the Prostitution Act 2000.
@@ -568,6 +569,10 @@ s. 6(1) | s. 6(3)(a) | s. 6(4)(c)
 s. 6(2)(a) | s. 6(3)(b)(i)
 s. 6(3) | s. 6(3)(b)(ii)
 ”.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 116 had not come into operation. It reads as follows:
+116.Prostitution Act 2000 amended
+(1) This section amends the Prostitution Act 2000.
+(2) In section 29(7) in the definition of registered nurse delete “and midwifery”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
