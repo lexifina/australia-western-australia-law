@@ -3,6 +3,17 @@ This is a compilation of the Declared Places (Mentally Impaired Accused) Act 201
 Compilation table
 Short title | Number and year | Assent | Commencement
 Declared Places (Mentally Impaired Accused) Act 2015 | 4 of 2015 | 3 Mar 2015 | s. 1 and 2: 3 Mar 2015 (see s. 2(a)); Act other than s. 1 and 2: 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 109 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 109 had not come into operation. It reads as follows:
+109.Declared Places (Mentally Impaired Accused) Act 2015 amended
+(1) This section amends the Declared Places (Mentally Impaired Accused) Act 2015.
+(2) In section 25 in the definition of nurse delete the passage that begins with “Australia) —” and continues to the end of the definition and insert:
+Australia) in the nursing profession —
+(a)whose registration under that Law is endorsed as nurse practitioner; or
+(b)whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
