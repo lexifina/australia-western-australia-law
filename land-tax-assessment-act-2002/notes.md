@@ -33,6 +33,7 @@ Taxation Legislation Amendment Act (No. 2) 2015 Pt. 3 | 8 of 2015 | 9 Mar 2015 |
 Taxation Legislation Amendment Act (No. 3) 2015 Pt. 3 | 15 of 2015 | 26 May 2015 | 27 May 2015 (see s. 2(c))
 Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
+Land Tax Assessment Amendment Act 2018 | 5 of 2018 | 26 Apr 2018 | Pt. 2: 1 Jul 2003 (see s. 2(a) and Gazette 27 Jun 2003 p. 2383); Act other than Pt. 2: 26 Apr 2018 (see s. 2(b))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
@@ -52,117 +53,118 @@ The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-new provisionsSch. 1 cl. 3
 2012 to 2014 assessment periodSch. 1 cl. 10
 aged care facility38A(1)
-agentGl.
-aggregated taxable valueGl.
-amended ActSch. 1 cl. 10
+agentGl. cl. 1
+aggregated taxable valueGl. cl. 1
+amended ActSch. 1 cl. 10, Sch. 1 cl. 16
 amending ActSch. 1 cl. 6
-approvedGl.
-assessmentGl.
-assessment yearGl.
+approvedGl. cl. 1
+assessmentGl. cl. 1
+assessment yearGl. cl. 1
 beneficiary23A(1), 29, 30K
-building contractGl.
+building contractGl. cl. 1
 change30F(1)
-clauseGl.
-commencement Sch. 1 cl. 10
-commencement dateGl.
-completion dateGl.
+clauseGl. cl. 1
+commencement Sch. 1 cl. 10, Sch. 1 cl. 16
+commencement dateGl. cl. 1
+completion dateGl. cl. 1
 compliant trusteeSch. 1 cl. 9(1)
-conservation covenantGl.
+conservation covenantGl. cl. 1
 deceased30E
-decisionSch. 1 cl. 12(1)
-disabled beneficiaryGl.
+decisionSch. 1 cl. 12(1), Sch. 1 cl. 18(1)
+disabled beneficiaryGl. cl. 1
 disabled person26A(1)
 discretionary trust29
 dwelling park land39A(1)
 dwelling park purposes39A(1)
 excluded purpose39A(1)
-exemptGl.
-exempt purposeGl.
+exemptGl. cl. 1
+exempt purposeGl. cl. 1
 exemption provision18(1)
 family corporation29, 30H
 family member29
 family owner29, 30H
 family trust29, 30H
 family unit trust scheme29, 30H
+former ActSch. 1 cl. 16
 former section 20Sch. 1 cl. 8(1)
 former section 30Sch. 1 cl. 7(1)
-home lotGl.
-home unitGl.
-improvement schemeGl.
-improvementsGl.
+home lotGl. cl. 1
+home unitGl. cl. 1
+improvement schemeGl. cl. 1
+improvementsGl. cl. 1
 individual30I(1)
-industrial associationGl.
-joint ownersGl.
-landGl.
-Land Information AuthorityGl.
-land taxGl.
-land tax ActGl.
-local planning schemeGl.
-lotGl., Gl.
-metropolitan regionGl.
+industrial associationGl. cl. 1
+joint ownersGl. cl. 1
+landGl. cl. 1
+Land Information AuthorityGl. cl. 1
+land taxGl. cl. 1
+land tax ActGl. cl. 1
+local planning schemeGl. cl. 1
+lotGl. cl. 1
+metropolitan regionGl. cl. 1
 modified rural business land provisions Sch. 1 cl. 10
 new lot43A(1)
-non-profit associationGl.
+new provisionsSch. 1 cl. 3
+non-profit associationGl. cl. 1
+non-public authoritySch. 1 cl. 16
 non-rural land29
-non-strata home unitGl.
+non-strata home unitGl. cl. 1
 old lot43A(1)
 original assessment year38AC(8)
-other lotsGl.
-ownerGl.
-owner-builderGl.
-parcelGl.
+other lotsGl. cl. 1
+ownerGl. cl. 1
+owner-builderGl. cl. 1
+parcelGl. cl. 1
 partnership29
-political partyGl.
+political partyGl. cl. 1
 preliminary notice about an exemption under section 37Sch. 1 cl. 4(1)
-previous assessmentSch. 1 cl. 10
+previous assessmentSch. 1 cl. 10, Sch. 1 cl. 16
 previous assessment periodSch. 1 cl. 8(1)
-previous financial yearGl.
 previously exempt landSch. 1 cl. 3
 primary production29
 primary production business29
-primary residenceGl.
-private residenceGl.
-private residential propertyGl.
+primary residenceGl. cl. 1
+private residenceGl. cl. 1
+private residential propertyGl. cl. 1
 produce animals30A(1)
-professional associationGl.
-promote trade, industry or commerceGl.
+professional associationGl. cl. 1
+promote trade, industry or commerceGl. cl. 1
 property A27(1)
 property B27(1)
 public charitable or benevolent institution37(1)
-public statutory authorityGl.
-registeredGl.
+public statutory authorityGl. cl. 1
+registeredGl. cl. 1
 related29
 related purpose39A(1)
-relevant bodyGl.
+relevant bodyGl. cl. 1
 relevant requirements18(1)
-reserved land32(5), 33(6), Gl.
+reserved land32(5), 33(6), Gl. cl. 1
 residence contract39(1)
 residential care38A(1)
 residential premises39(1)
-retirement village39(1), Gl.
+retirement village39(1), Gl. cl. 1
 retirement village scheme39(1)
 rural business land assessmentSch. 1 cl. 10
 rural land29
 shareholder30J
-sportGl.
-sports associationGl.
-strata planGl.
-strata schemeGl.
-strata title home unitGl.
-subdividedGl.
-subdividing ownerGl.
-survey-strata planGl.
-survey-strata schemeGl.
-taxable authorityGl.
-taxable landGl.
-taxable valueGl.
-taxes9(6), 31(6), Gl.
+sportGl. cl. 1
+sports associationGl. cl. 1
+strata planGl. cl. 1
+strata schemeGl. cl. 1
+strata title home unitGl. cl. 1
+subdividedGl. cl. 1
+subdividing ownerGl. cl. 1
+survey-strata planGl. cl. 1
+survey-strata schemeGl. cl. 1
+taxable authorityGl. cl. 1
+taxable landGl. cl. 1
+taxable valueGl. cl. 1
+taxes9(6), 31(6), Gl. cl. 1
 transitional periodSch. 1 cl. 7(1)
-trusteeGl.
-unimproved valueGl.
+trusteeGl. cl. 1
+unimproved valueGl. cl. 1
 unit holder30
-validation periodSch. 1 cl. 10
+validation periodSch. 1 cl. 10, Sch. 1 cl. 16
 year A39A(5A)
