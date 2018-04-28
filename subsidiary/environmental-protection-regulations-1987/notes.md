@@ -72,6 +72,7 @@ Reprint 8: The Environmental Protection Regulations 1987 as at 5 Dec 2014 (inclu
 Environmental Protection Amendment Regulations 2015 | 21 Aug 2015 p. 3336 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2015 (see r. 2(b))
 Environmental Protection Amendment Regulations 2016 | 28 Jun 2016 p. 2629-32 | r. 1 and 2: 28 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 7 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Environmental Protection Amendment Regulations 2018 | 27 Apr 2018 p. 1389-90 | r. 1 and 2: 27 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2018 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
@@ -90,6 +91,7 @@ baseline report26(1)
 baseline survey26(1)
 best practice criteria4(1)
 category4(1)
+clean fill premises2AA
 commencement day21(1)
 development site16A
 development work16A
@@ -100,6 +102,7 @@ existing landfill26(8)
 existing licensee21(1)
 Fund21(1)
 head office2AA
+Landfill Waste Classification and Waste Definitions 19962AA
 length16(4)
 levy21(1)
 licence4(1)
