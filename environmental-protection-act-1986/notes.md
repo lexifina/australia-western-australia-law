@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 May 2018 of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Environmental Protection Act 1986 | 87 of 1986 | 10 Dec 1986 | s. 1 and 2: 10 Dec 1986; Act other than s. 1 and 2: 20 Feb 1987 (see s. 2 and Gazette 20 Feb 1987 p. 440)
@@ -18,7 +18,7 @@ Acts Amendment (Assemblies and Noise) Act 1996 Pt. 3 | 50 of 1996 | 31 Oct 1996 
 Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
 Acts Amendment (Land Administration) Act 1997 Pt. 25 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 54 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Environmental Protection Amendment Act 1998 | 14 of 1998 | 21 May 1998 | s. 1-3, 21, 26, 27, 29, 32-34, 36 and 37: 21 May 1998 (see s. 2(1)); s. 20: 1 Jul 1998 (see s. 2(2) and Gazette 26 Jun 1998 p. 3369); s. 4, 6-9, 11, 12 and 14 (to the extent that it inserts Pt. VIA heading, Div. 3 and 4 headings and s. 99Q-99X and 99Z-99ZB), 15-19, 22-25, 28, 30, 31 and 35: 1 Jul 1998 (see s. 2(3) and Gazette 26 Jun 1998 p. 3369); s. 10, 13 and 14 (to the extent that it inserts Div. 1 and 2 headings and s. 99A-99P and 99Y): 8 Jan 1999 (see s. 2 and Gazette 8 Jan 1999 p. 35); s. 5: 10 Sep 2005 (see s. 2 and Gazette 9 Sep 2005 p. 4155)
+Environmental Protection Amendment Act 1998 | 14 of 1998 | 21 May 1998 | s. 1-3, 21, 26, 27, 29, 32-34, 36 and 37: 21 May 1998 (see s. 2(1)); s. 20: 1 Jul 1998 (see s. 2(2) and Gazette 26 Jun 1998 p. 3369); s. 4, 6-9, 11, 12 and 14 (to the extent that it inserts Pt. VIA heading, Div. 3 and 4 headings and s. 99Q-99X and 99Z-99ZB), 15-19, 22-25, 28, 30, 31 and 35: 1 Jul 1998 (see s. 2(3) and Gazette 26 Jun 1998 p. 3369); s. 10, 13 and 14 (to the extent that it inserts Div. 1 and 2 headings and s. 99A-99P and 99Y): 8 Jan 1999 (see s. 2(3) and Gazette 8 Jan 1999 p. 35); s. 5: 10 Sep 2005 (see s. 2(3) and Gazette 9 Sep 2005 p. 4155)
 Reprint of the Environmental Protection Act 1986 as at 16 Apr 1999 (includes amendments listed above except those in the Environmental Protection Amendment Act 1998 s. 5)
 Midland Redevelopment Act 1999 s. 71 | 38 of 1999 | 11 Nov 1999 | 1 Jan 2000 (see s. 2 and Gazette 31 Dec 1999 p. 7059)
 Reprint of the Environmental Protection Act 1986 as at 7 Jul 2000 (includes amendments listed above except those in the Environmental Protection Amendment Act 1998 s. 5)
@@ -56,11 +56,12 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 | 22 of 
 Water Services Legislation Amendment and Repeal Act 2012 s. 211 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 8: The Environmental Protection Act 1986 as at 17 May 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
 Environmental Protection Amendment (Validation) Act 2014 | 27 of 2014 | 27 Nov 2014 | 27 Nov 2014 (see s. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 9: The Environmental Protection Act 1986 as at 4 May 2018 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Biodiversity Conservation Act 2016 s. 314 | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Biodiversity Conservation Act 2016 s. 314 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Deleted by the Building Act 2011 s. 174(6).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -114,10 +115,10 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
-On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
 2.Environmental Protection Act 1986 amended
 (3) Part VIIA is repealed.
-On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 314 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biodiversity Conservation Act 2016 s. 314 had not come into operation. It reads as follows:
 314.Environmental Protection Act 1986 amended
 (1) This section amends the Environmental Protection Act 1986.
 (2) In Schedule 5 clause 1:
@@ -140,7 +141,7 @@ threatened flora has the meaning given in the Biodiversity Conservation Act 2016
 (a) as authorised by a licence under the Biodiversity Conservation Act 2016; or
 (b) as authorised by an authorisation under the Biodiversity Conservation Act 2016 section 40; or
 (c) by a person referred to in the Biodiversity Conservation Act 2016 section 171(2) for the purposes of supply in accordance with a licence under that Act.
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 366 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Aquatic Resources Management Act 2016 s. 366 had not come into operation. It reads as follows:
 366.Environmental Protection Act 1986 amended
 (1) This section amends the Environmental Protection Act 1986.
 (2) In Schedule 6 item 14 delete “a licence or permit within the meaning of the Fish Resources Management Act 1994.” and insert:
@@ -159,7 +160,7 @@ Appeals Convenor3(1)
 applicant3(1)
 approved88(6)
 approved policy3(1)
-area permit51A, 51E(7)
+area permit51A, 51E(7)(c)
 assessed scheme3(1)
 assessment report44(1)
 authorisation50D(1), 68A(1), 86A, Sch. 2
@@ -187,7 +188,7 @@ conservation covenant51D(1)
 contaminated3(1)
 contaminated sites auditor3(1)
 contravention51S(1)
-convicted99T
+convicted99T(a)
 corporation51R(7), 55(3), 58(4)
 court51S(1)
 damage costs3A(3)
@@ -201,7 +202,7 @@ designated area57(5)
 designated person99H
 detrimental action111A(3)
 discharge3(1)
-draft policy3(1), 31
+draft policy3(1), 31(a)(i)
 driver3(1)
 ecosystem health condition3(1)
 emission3(1)
@@ -215,7 +216,7 @@ establish51I(4)
 existing authorisation61(3)
 final approval3(1)
 financial assurance requirement86A
-first notice28(1), 32(1)
+first notice28(1)(c)(ii), 32(1)(a)(i)
 former EP Act130(1), 131(1), 132(1)
 fuel burning equipment3(1)
 ground of invalidity134(1)
@@ -235,7 +236,7 @@ local planning scheme3(1)
 material environmental harm3(1), 3A(2)
 materials3(1)
 Minister (Water Resources)57(5)
-Minister for Lands121A(1)
+Minister for Lands121A(1)(a)
 misbehaviourSch. 7 cl. 3(3)
 monetary benefits99Z(2)
 monitoring programme3(1)
@@ -268,7 +269,7 @@ protection3(1)
 public authority3(1)
 public place3(1)
 public review48C(7)
-purpose permit51A, 51E(8)
+purpose permit51A, 51E(8)(c)
 rare floraSch. 5 cl. 2
 recorded100(1a)
 referred proposal39B(1)
@@ -295,7 +296,7 @@ significant proposal37B(1)
 SLC Act51D(1)
 soil conservation notice51D(1)
 specified6(10), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6), Sch. 2
-strategic proposal37B(1), 37B(2), 39B(3)
+strategic proposal37B(1) and (2), 39B(3)(a)
 subdivision3(2a)
 subsidiary51R(7), 55(3), 58(4)
 The Wilderness Society v Minister for Environment134(1)
