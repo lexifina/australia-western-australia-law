@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 May 2018 of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 First Home Owner Grant Act 2000 | 16 of 2000 | 9 Jun 2000 | 1 Jul 2000 (see s. 2)
@@ -21,12 +21,13 @@ Revenue Laws Amendment Act 2012 Pt. 3 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (se
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 3 | 32 of 2012 | 8 Oct 2012 | 9 Oct 2012 (see s. 2(e))
 Revenue Laws Amendment Act 2013 Pt. 4 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(c)(ii))
 Revenue Laws Amendment Act 2015 Pt. 2 Div. 1 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
-First Home Owner Grant Amendment Act 2017 | 16 of 2017 | 5 Dec 2017 | s. 8-16: 1 Jan 2017 (see s. 2(b)); s. 1 and 2: 5 Dec 2017 (see s. 2(a)); Act other than s. 1, 2, 8-16: 6 Dec 2017 (see s. 2(c))
+First Home Owner Grant Amendment Act 2017 | 16 of 2017 | 5 Dec 2017 | s. 8-16: 1 Jan 2017 (see s. 2(b)); s. 1 and 2: 5 Dec 2017 (see s. 2(a)); Act other than s. 1, 2 and 8-16: 6 Dec 2017 (see s. 2(c))
+Reprint 3: The First Home Owner Grant Act 2000 as at 4 May 2018 (includes amendments listed above)
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 20 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2003 s. 10 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2004 Pt. 3 is a transitional provision of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 20 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The First Home Owner Grant Amendment Act 2005 Pt. 3 reads as follows:
 Part 3 — Transitional provisions
 Division 1 — First home owner grant
@@ -87,7 +88,7 @@ class 1 eligible transaction14B(1)
 class 2 eligible transaction14B(1a)
 class 3 eligible transaction14B(1b)
 class 4 eligible transaction14B(2)
-class 5 eligible 14B(3)
+class 5 eligible transaction14B(3)
 class 6 eligible transaction14B(4A)
 class 7 eligible transaction14B(4B)
 class 8 eligible transaction14B(4C)
@@ -120,7 +121,7 @@ new home3(1)
 non-conforming interest6(3)
 objector26
 option to purchase3(1)
-outstanding amount58(1)
+outstanding amount58(1)(a)(i)
 owner3(1), 5
 owner builder3(1)
 permanent resident3(1), 7B(1)
@@ -146,9 +147,9 @@ State65(7)
 substantially renovated home3(1)
 take-up period3(1), 13(5)
 taxation law3(1)
-the applicant11(1)
+applicant11(1)
 the home3(1)
-the other grant11(1)
+other grant11(1)
 total value3(1), 14AC(1)
 transaction3(1)
 unencumbered value3(1), 14AE(1)
