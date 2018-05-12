@@ -39,7 +39,7 @@
 ## Subdivision 1 — Compensable in-patients
 1. | Accommodation, maintenance, nursing care and other services in a hospital bed, except services referred to in item 4, 5 or 6 | $2 540 per day
 2. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient, not being a patient mentioned in item 3, in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $1 961 per day
-3. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient in Princess Margaret Hospital for Children in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 723 per day
+3. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient in Perth Children’s Hospital or Princess Margaret Hospital for Children in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 723 per day
 4. | Accommodation, maintenance, nursing care and other services in a nursing home bed | $289 per day
 5. | Accommodation, maintenance, nursing care and other services in a hospital bed for a ventilator dependent compensable in-patient with tracheostomy requiring 24 hour a day individual care | $6 356 per day
 6. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient requiring 24 hour a day care for airway management, with or without tracheostomy | $3 800 per day
@@ -49,9 +49,9 @@
 9. | For each other individual service (with any medicines supplied at the time of the initial service being treated as included in that service) | $275
 ## Subdivision 3 — Compensable same day patients
 10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $1 856 per day
- | (b)for a patient in Princess Margaret Hospital for Children in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 577 per day
+ | (b)for a patient in Perth Children’s Hospital or Princess Margaret Hospital for Children in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 577 per day
  | (c)for any other patient | $2 404 per day
-[Division 2 amended in Gazette 3 Feb 2017 p. 1113; 30 Jun 2017 p. 3567; 2 Feb 2018 p. 316.]
+[Division 2 amended in Gazette 3 Feb 2017 p. 1113; 30 Jun 2017 p. 3567; 2 Feb 2018 p. 316; 11 May 2018 p. 1503.]
 ## Division 3 — Magnetic resonance imaging
 Charges for magnetic resonance imaging services
 Item | Service | Charge (per study)
