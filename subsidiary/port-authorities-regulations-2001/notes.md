@@ -53,6 +53,7 @@ Reprint 6: The Port Authorities Regulations 2001 as at 21 Nov 2014 (includes ame
 Port Authorities Amendment Regulations 2014 | 8 Jan 2015 p. 61-3 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Transport Regulations Amendment (Vessel Pilotage) Regulations 2016 Pt. 2 | 16 Sep 2016 p. 3943-5 | Pt. 2 (other than r. 4(2)): 17 Sep 2016 (see r. 2(c)); r. 4(2): 17 Sep 2017 (see r. 2(b))
 Port Authorities Amendment Regulations 2017 | 3 Oct 2017 p. 5037-48 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Oct 2017 (see r. 2(b))
+Transport Regulations Amendment (Pilotage) Regulations 2018 Pt. 2 | 11 May 2018 p. 1511-12 | 12 May 2018 (see r. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).

@@ -101,6 +101,7 @@ Transport Regulations Amendment (Vessel Pilotage) Regulations 2016 Pt. 3 | 16 Se
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 3) 2016 Pt. 3 | 23 Dec 2016 p. 5913-15 | 24 Dec 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2017 | 4 Jul 2017 p. 3665-6 | r. 1 and 2: 4 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jul 2017 (see r. 2(b))
+Transport Regulations Amendment (Pilotage) Regulations 2018 Pt. 3 | 11 May 2018 p. 1511-12 | 12 May 2018 (see r. 2(b))
 Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).
 The Shipping and Pilotage Amendment Act 2006 s. 10 commenced on 4 June 2010.
 Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
