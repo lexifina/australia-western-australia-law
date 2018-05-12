@@ -5,6 +5,6 @@ restricted area means the areas shaded in red on the map bearing the logo of the
 (a) moor or anchor a vessel in the restricted area; or
 (b) fish in the restricted area.
 Penalty for this subclause: a fine of $5 000.
-[Clause 5ZA inserted in Gazette 3 Oct 2017 p. 5045.]
+[Clause 5ZA inserted: Gazette 3 Oct 2017 p. 5045.]
 ## Division 2 — Port of Broome
-[Heading inserted in Gazette 20 Jun 2014 p. 2032.]
+[Heading inserted: Gazette 20 Jun 2014 p. 2032.]
