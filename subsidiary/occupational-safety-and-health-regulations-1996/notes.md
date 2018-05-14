@@ -89,352 +89,293 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 14 | 3 Ju
 Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 181-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Reprint 10: The Occupational Safety and Health Regulations 1996 as at 17 Feb 2017 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 16 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Occupational Safety and Health Amendment Regulations 2017 r. 3-8 | 14 Nov 2017 p. 5602-6 | 14 May 2018 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations 2017 | 14 Nov 2017 p. 5602-6 | r. 1 and 2: 14 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2018 (see r. 2(b))
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987, see s. 33(1) which repealed the Noise Abatement Act 1972 under which the regulations were made.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 The amendments to r. 5.46(1)(a) in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 5.46(1)(a) was replaced by the Occupational Safety and Health Amendment Regulations 2010 r. 5.
-On the date as at which this compilation was prepared, the Occupational Safety and Health Amendment Regulations 2017 r. 3-8 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Occupational Safety and Health Regulations 1996.
-4.Regulation 1.3 amended
-In regulation 1.3 insert in alphabetical order:
-electrical installation has the meaning given in the Electricity (Licensing) Regulations 1991 regulation 3(1);
-5.Regulation 3.58 replaced
-Delete regulation 3.58 and insert:
-3.58.Interpretation
-(1) In this Division, unless the contrary intention appears —
-de-energised, in relation to a part of an electrical installation, has the meaning given in the Electricity (Licensing) Regulations 1991 regulation 3(1);
-electrical work has the meaning given in the Electricity (Licensing) Regulations 1991 regulation 3(1);
-energised, in relation to a part of an electrical installation, has the meaning given in the Electricity (Licensing) Regulations 1991 regulation 3(1);
-network operator has the meaning given in the Electricity Act 1945 section 5(1).
-(2) For the purposes of this Division, a reference in AS/NZS 3012 to an electricity distributor is to be treated as a reference to a person who is a network operator under the Electricity (Network Safety) Regulations 2015 regulation 4(1)(a), (b), (c), (d), (e), (f) or (g).
-(3) For the purposes of this Division —
-(a) a part of an electrical installation is taken to be energised unless it is de-energised; and
-(b) the neutral for a part of an electrical installation is taken to be de-energised if the part is de-energised.
-6.Regulations 3.59A and 3.59B inserted
-After regulation 3.59 insert:
-3.59A.Electrical work
-(1) A person who, at a workplace, is an employer, the main contractor, a self-employed person, a person having control of the workplace or a person having control of access to the workplace must ensure that, before electrical work is carried out on a part of an electrical installation at the workplace, the part —
-(a) is tested by a competent person to ascertain whether or not it is energised; and
-(b) if it is found to be energised, is de-energised by a competent person.
-Penalty for this subregulation: the regulation 1.16 penalty.
-(2) Subregulation (1)(b) does not apply to electrical work carried out under the Electricity (Licensing) Regulations 1991 regulation 55(2).
-3.59B.Work in roof spaces
-(1) In this regulation —
-building means a Class 1, Class 2 or Class 10a building as classified under the Building Regulations 2012;
-roof space, of a building —
-(a)means the space in the building that is —
-(i)immediately under the roof; or
-(ii)if there is a ceiling under the roof, or a part of the roof, the space between the roof, or that part of the roof, and the ceiling;
-but
-(b)does not include a habitable room in the roof space;
-service apparatus has the meaning given in the Electricity Act 1945 section 5(1).
-(2) A person who, at a workplace, is an employer, the main contractor, a self-employed person, a person having control of the workplace or a person having control of access to the workplace must ensure that, before work is done in a roof space of a building at the workplace, the building’s electrical installation is de-energised by a competent person.
-Penalty for this subregulation: the regulation 1.16 penalty.
-(3) An employee must not do work in a roof space of a building at a workplace unless the building’s electrical installation is de-energised by a competent person.
-Penalty for this subregulation: the regulation 1.15 penalty.
-(4) If the roof space of a building to which subregulation (2) or (3) applies is divided into separate parts, such that a person cannot move from 1 part of the roof space to another, and each part relates to a separate dwelling, the requirement to de-energise the building’s electrical installation only applies to the dwelling that relates to the part of the roof space in which the work is to be done.
-(5) Subregulations (2) and (3) do not apply to work done by a competent person to test, service or commission an appliance or other equipment in or accessible by means of the roof space (for example, a gas appliance, air conditioner or antenna), to the extent necessary to energise the appliance or equipment, if —
-(a) it is necessary to energise the appliance or equipment for the purpose of testing, servicing or commissioning the appliance or equipment; and
-(b) a risk assessment has been undertaken in accordance with regulation 3.1 by a competent person; and
-(c) the competent person referred to in paragraph (b) is satisfied that —
-(i) the risks identified by the risk assessment are or can be reduced to as low as reasonably practicable; and
-(ii) the work can be carried out safely;
-and
-(d) if regulation 3.143 does not apply to the work, a safe work method statement for the work has been prepared in accordance with regulation 3.143(4), as if the work were high risk construction work and the place where the work is to be carried out were a construction site.
-(6) Subregulations (2) and (3) do not require the de-energisation of —
-(a) service apparatus that is part of a building’s electrical installation; or
-(b) a supply cable that is part of a building’s electrical installation if —
-(i) the cable is from a solar power system, wind turbine or battery; and
-(ii) it is not practicable to de-energise the cable;
-or
-(c) any other part of a building’s electrical installation if it is not practicable to de-energise that part.
-(7) Subregulations (2) and (3) do not apply to electrical work carried out under the Electricity (Licensing) Regulations 1991 regulation 55(2).
-7.Regulation 3.65 amended
-In regulation 3.65 delete “supply authority’s” and insert:
-network operator’s
-8.Regulation 3.137 amended
-In regulation 3.137 insert in alphabetical order:
-energised, in relation to an electrical installation or line, means connected to a supply of electricity to the installation or line, whether or not electricity is flowing through any part of the installation or line;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-abrasive blasting1, 3
-abrasive material1, 3
-AC classified hazardous substance5(1)
-allied process1, 3
-alter4
-amusement structure4
-anchorage3
-appointed medical practitioner5(1)
-approved1
-article5(1)
-AS1
-AS/NZS1
-asbestos1, 5(1)
-asbestos demolition site3(1)
-asbestos dust5(1)
-asbestos removalist licence 5(1)
-asbestos work5(1)
-asbestos work area5(1)
-asbestos-containing material3(1), 5(1)
-assessment instrument6(1)
-assessor6(1)
-atmospheric monitoring5
-audiogram7(1)
-authorised person4(2)
-award2(11)
-barricade3
-biological monitoring5(1), 5
-blasting cabinet3
-blasting chamber3
-blood lead level5
-boiler4, Sch. 6.3 cl. 10
-bona fide research5
-boom-type elevating work platform4, Sch. 6.3 cl. 6
-bridge crane4, Sch. 6.3 cl. 6
-Building Code1
-building maintenance equipment4
-building maintenance unit1, 4
-building or structure1
-cantilevered scaffold3, Sch. 6.3 cl. 2
-carcinogenic substance5
-certificate of competency6(1), 7(1)
-chemical name5(1)
-class 13
-class 23
-class 33
-classified plant7
-client3
-commencement7
-commencement day7(1)
-commercial vehicle3
-commercial vehicle driver3
-commissioning4
-competent person1
-compressed air wet abrasive blast cleaning3
-concrete panel3(1)
-concrete placing unit4
-confined space3
-confirmed blood lead level5
-construction diving work3(1)
-construction induction training certificate3
-construction induction training course3
-construction site1
-construction work1
-consumer package5(1)
-container5(1)
-contaminant3
-conveyor4
-crane1, 4
-curing agent5
-damp5
-danger tag1
-danger zone3(1)
-demolition1, 3
-demolition licence5(1)
+abrasive blasting1.3, 3.102
+abrasive material1.3, 3.102
+AC classified hazardous substance5.1(1)
+allied process1.3, 3.94
+alter4.1
+amusement structure4.1
+anchorage3.48
+appointed medical practitioner5.1(1)
+approved1.3
+article5.1(1)
+AS1.3
+AS/NZS1.3
+asbestos1.3, 5.1(1)
+asbestos demolition site3.126(1)
+asbestos dust5.42(1)
+asbestos removalist licence 5.53A(1)
+asbestos work5.42(1)
+asbestos work area5.42(1)
+asbestos-containing material3.126(1), 5.42(1)
+assessment instrument6.20(1)
+assessor6.1(1)
+atmospheric monitoring5.53
+audiogram7.41(1)
+authorised person4.37A(b)
+award2.2(11)
+barricade3.66
+biological monitoring5.1(1), 5.53
+blasting cabinet3.102
+blasting chamber3.102
+blood lead level5.53
+boiler4.1, Sch. 6.3 cl. 10
+bona fide research5.28
+boom-type elevating work platform4.1, Sch. 6.3 cl. 6
+bridge crane4.1, Sch. 6.3 cl. 6
+building3.59B(1)
+Building Code1.3
+building maintenance equipment4.1
+building maintenance unit1.3, 4.1
+building or structure1.3
+cantilevered scaffold3.66, Sch. 6.3 cl. 2
+carcinogenic substance5.28
+certificate of competency6.6(1), 7.9(1)
+chemical name5.1(1)
+class 13.114
+class 23.114
+class 33.114
+classified plant7.1
+client3.137
+commencement7.1
+commencement day7.9(1)
+commercial vehicle3.130
+commercial vehicle driver3.130
+commissioning4.1
+competent person1.3
+compressed air wet abrasive blast cleaning3.102
+concrete panel3.88(1)
+concrete placing unit4.1
+confined space3.82
+confirmed blood lead level5.53
+construction diving work3.29(1)
+construction induction training certificate3.135
+construction induction training course3.135
+construction site1.3
+construction work1.3
+consumer package5.1(1)
+container5.1(1)
+contaminant3.82
+conveyor4.1
+crane1.3, 4.1
+curing agent5.72
+damp5.53
+danger tag1.3
+danger zone3.64(1)
+de-energised3.58(1)
+demolition1.3, 3.114
+demolition licence5.1(1)
 derrick craneSch. 6.3 cl. 6
-design verifier4
-designated plant7
-designer3
+design verifier4.1
+designated plant7.1
+designer3.137
 direct fired process heaterSch. 6.3 cl. 10
-documentary evidence of forklift competency7(1)
-dogger4(1)
+documentary evidence of forklift competency7.9(1)
+dogger4.54(1)
 dogging workSch. 6.3 cl. 4
-domestic construction work3
-driver fatigue management plan3
-dry abrasive blasting1, 3
-earthmoving machinery1, 4
-elevating work platform4
-emergency services5(1)
-employee3
-employer3
-enclosed workplace3
-energy source4(1)
-escalator4
-exhaust system1
-existing assessor7(1)
-existing assessor of forklift competency7(1)
-expiry date5(2), 6(2), 6(2)
-explosive powered tool4
-exposure standard5(1)
-exposure standard for noise3
-fall injury prevention system3
-filter3
-finalised5(2), 6(2), 7(2)
-fired heater4
-first aid3(1)
-flammable paint3
-forklift truck7(1), Sch. 6.3 cl. 8
-forklift work7(1)
-former regulations6(1), 7(1)
-friable asbestos-containing material5(1)
-gantry3, Sch. 6.3 cl. 2
-gantry crane4, Sch. 6.3 cl. 6
-gas cylinder1, 4
-gear1
-generic name5(1)
-GHS5(1)
-GHS classified hazardous substance5(1)
-GVM3
-hand-held equipment3(2)
-hazard classSch. 5.1
-hazardous substance5(1)
-Hazardous Substances Information System5(1)
-health surveillance5(1), 5
-high risk work6(1), 7(1)
-high risk work (interstate) licence6(1), 7(1)
-high risk work (WA) licence6(1), 7(1)
-high risk work licence1, 6(1)
-high-risk construction work3
-hoarding1, 3
-hoist1, 4
-holder6(3)
-holds6(3), 7(3)
-hung scaffold3, Sch. 6.3 cl. 1
-industrial equipment7(1)
-industrial lift truck4
-industrial robot4
-ingredient5(1)
-inorganic lead5
-instructor4(8)
-interlocked4
-introductory course2(2)
-isocyanate5
-L C,peak3
-LAeq,8h3
-laser4
-laser product4
-lead material5
-lead process5
-lead-risk job5
-licence3, 5(1), 6
-licensed person3(1), 3, 6(1)
-lift4
-lower explosive limit5
-main contractor1
-manual handling3(1)
-manufacturing process1
-mast climbing work platform4, Sch. 6.3 cl. 1
-Material Safety Data Sheet5(1)
+domestic construction work3.137
+driver fatigue management plan3.130
+dry abrasive blasting1.3, 3.102
+earthmoving machinery1.3, 4.1
+electrical installation1.3
+electrical work3.58(1)
+elevating work platform4.1
+emergency services5.1(1)
+employee3.135
+employer3.135
+enclosed workplace3.44A
+energised3.58(1), 3.137
+energy source4.37A(1)
+escalator4.1
+exhaust system1.3
+existing assessor7.20(1)
+existing assessor of forklift competency7.21(1)
+expiry date5.45F(2), 6.11(2), 6.27(2)(a)
+explosive powered tool4.1
+exposure standard5.1(1)
+exposure standard for noise3.45
+fall injury prevention system3.48
+filter3.37(l)
+finalised5.42(2), 6.1(2), 7.9(2)
+fired heater4.1
+first aid3.12(1)
+flammable paint3.99
+forklift truck7.9(1), Sch. 6.3 cl. 8
+forklift work7.9(1)
+former regulations6.1(1), 7.9(1)
+friable asbestos-containing material5.42(1)
+gantry3.66, Sch. 6.3 cl. 2
+gantry crane4.1, Sch. 6.3 cl. 6
+gas cylinder1.3, 4.1
+gear1.3
+generic name5.1(1)
+GHS5.1(1)
+GHS classified hazardous substance5.1(1)
+GVM3.130
+hand-held equipment3.60(2)
+hazard classSch. 5.1 Div. 2
+hazardous substance5.1(1)
+Hazardous Substances Information System5.1(1)
+health surveillance5.1(1), 5.53
+high risk work6.1(1), 7.9(1)
+high risk work (interstate) licence6.1(1), 7.9(1)
+high risk work (WA) licence6.1(1), 7.9(1)
+high risk work licence1.3, 6.1(1)
+high-risk construction work3.137
+hoarding1.3, 3.66
+hoist1.3, 4.1
+holder6.1(3)
+holds6.1(3), 7.9(3)
+hung scaffold3.66, Sch. 6.3 cl. 1
+industrial equipment7.9(1)
+industrial lift truck4.1
+industrial robot4.1
+ingredient5.1(1)
+inorganic lead5.53
+instructor4.44(8)
+interlocked4.1
+introductory course2.2(2)
+isocyanate5.72
+L C,peak3.45
+LAeq,8h3.45
+laser4.1
+laser product4.1
+lead material5.53
+lead process5.53
+lead-risk job5.53
+licence3.114, 5.42(1), 6.4
+licensed person3.72(1), 3.114, 6.3(1)
+lift4.1
+lower explosive limit5.68
+main contractor1.3
+manual handling3.4(1)
+manufacturing process1.3
+mast climbing work platform4.1, Sch. 6.3 cl. 1
+Material Safety Data Sheet5.1(1)
 materials hoistSch. 6.3 cl. 1
-medical practitioner1
-mobile crane4, Sch. 6.3 cl. 6
-monitoring5(1)
-motor vehicle3
-MSDS,5(1)
-nail gun4
-National Code 5(1)
-national standard7(1)
-NOHSC1(1)
-noise3
-non-friable asbestos-containing material5(1)
+medical practitioner1.3
+mobile crane4.1, Sch. 6.3 cl. 6
+monitoring5.1(1)
+motor vehicle3.130
+MSDS5.1(1)
+nail gun4.1
+National Code 5.1(1)
+national standard7.9(1)
+network operator3.58(1)
+NOHSC1.11(1)
+noise3.45
+non-friable asbestos-containing material5.42(1)
 non-slewing mobile craneSch. 6.3 cl. 6
-notice of satisfactory assessment6(1), 7(1)
-ongoing surveillance5(1)
-operator protective devices4
-or5(1)
+notice of satisfactory assessment6.1(1), 7.9(1)
+ongoing surveillance5.24(1)
+operator protective devices4.1
 order-picking forklift truckSch. 6.3 cl. 8
-other facility3(1)
-out-of-service tag4
-overhead power line3(1)
-oxygen deficient atmosphere3
-passenger4(7)
-person having control of a workplace1
-person having control of access to a workplace1
-personal hearing protectors3
+other facility3.20(1)
+out-of-service tag4.1
+overhead power line3.64(1)
+oxygen deficient atmosphere3.37
+passenger4.44(7)
+person having control of a workplace1.3
+person having control of access to a workplace1.3
+personal hearing protectors3.45
 personnel and materials hoistSch. 6.3 cl. 6
-platform1
-polyhydroxy compound5
-polyurethane manufacturing process5
-portable equipment3(2)
+platform1.3
+polyhydroxy compound5.72
+polyurethane manufacturing process5.72
+portable equipment3.60(2)
 portal boom craneSch. 6.3 cl. 6
-post-introductory course2(2)
-powder paint3
-prescribed equipment6(1)
-prescribed work7(1)
-presence sensing safeguarding system4
-pressure equipment4
-pressure piping4
-pressure vessel1, 4
-pressurised liquid blast cleaning3
-previously registered as an assessor6(1)
-promoter5
-purchaser5(1)
-qualification or statement of attainment6(1)
+post-introductory course2.3(2)
+powder paint3.99
+prescribed equipment6.3(1)
+prescribed work7.9(1)
+presence sensing safeguarding system4.1
+pressure equipment4.1
+pressure piping4.1
+pressure vessel1.3, 4.1
+pressurised liquid blast cleaning3.102
+previously registered as an assessor6.22(1)
+promoter5.72
+purchaser5.1(1)
+qualification or statement of attainment6.1(1)
 reciprocating steam engineSch. 6.3 cl. 10
-recognised construction induction training course3
-record5(1)
-registered training organisation1
-registration6
-regulation 1.15 penalty1
-regulation 1.16 penalty1
-regulatory authority4
-removal level5
-repair4
+recognised construction induction training course3.135
+record5.1(1)
+registered training organisation1.3
+registration6.18
+regulation 1.15 penalty1.3
+regulation 1.16 penalty1.3
+regulatory authority4.1
+removal level5.53
+repair4.1
 RepairsSch. 5.2
-repealed regulations7
-representative2(2), 2(2)
-resin5
-responsible person3, 4(1)
-responsible person at a workplace3
-restricted licence5(1)
-retailer5(1)
-rigger4(1)
+repealed regulations7.1
+representative2.2(2), 2.3(2)
+resin5.72
+responsible person3.88, 4.54(1)
+responsible person at a workplace3.130
+restricted licence5.42(1)
+retailer5.1(1)
+rigger4.54(1)
 rigging workSch. 6.3 cl. 4
-risk phrase5(1)
-roof3
-Safe Work Australia5(1)
-safe work method statement3
-safety phrase5(1)
-sanitary facilities3(1)
-scaffold1, 3
-scaffolding equipment3
+risk phrase5.1(1)
+roof3.44A
+roof space3.59B(1)
+Safe Work Australia5.1(1)
+safe work method statement3.137
+safety phrase5.1(1)
+sanitary facilities3.20(1)
+scaffold1.3, 3.66
+scaffolding equipment3.66
 scaffolding workSch. 6.3 cl. 2
-Schedule 5.4 substance5
-Schedule 5.5 substance5
-Schedule 5.6 substance5
-self-contained breathing apparatus3
+Schedule 5.4 substance5.28
+Schedule 5.5 substance5.28
+Schedule 5.6 substance5.28
+self-contained breathing apparatus3.37
 self-erecting tower craneSch. 6.3 cl. 6
+service apparatus3.59B(1)
 slewing mobile craneSch. 6.3 cl. 6
-smoke3
-spray painting3
-spray painting process3
-spur scaffold3, Sch. 6.3 cl. 2
-substance5(1)
-supplied air respirator1, 3
-supplier5(1)
-supply authority3
-suspended scaffold3, Sch. 6.3 cl. 1
-tilt-up work3(1)
-tobacco product3
-tower crane4, Sch. 6.3 cl. 6
-toxic atmosphere3, 3(1)
-toxic paint3
-tractor4
-transition period7(1)
-transitional course2(2)
+smoke3. 44A
+spray painting3.99
+spray painting process3.99
+spur scaffold3.66, Sch. 6.3 cl. 2
+substance5.1(1)
+supplied air respirator1.3, 3.37
+supplier5.1(1)
+supply authority3.58
+suspended scaffold3.66, Sch. 6.3 cl. 1
+tilt-up work3.88(1)
+tobacco product3.44A
+tower crane4.1, Sch. 6.3 cl. 6
+toxic atmosphere3.37, 3.40(1)
+toxic paint3.99
+tractor4.1
+transition period7.9(1)
+transitional course2.2(2)
 turbineSch. 6.3 cl. 10
-type I ingredient5(1), Sch. 5.1, Sch. 5.1
-type II ingredient5(1), Sch. 5.1, Sch. 5.1
-type III ingredient5(1), Sch. 5.1, Sch. 5.1
-unrestricted licence5(1)
-use4, 5(1), 6(1), Sch. 6.3 cl. 1
-vehicle hoist4
-vehicle loading crane4(1), Sch. 6.3 cl. 6
+type I ingredient5.1(1), Sch. 5.1 Div. 1 and 2
+type II ingredient5.1(1), Sch. 5.1 Div. 1 and 2
+type III ingredient5.1(1), Sch. 5.1 Div. 1 and 2
+unrestricted licence5.42(1)
+use4.1, 5.1(1), 6.3(1), Sch. 6.3 cl. 1
+vehicle hoist4.1
+vehicle loading crane4.54(1), Sch. 6.3 cl. 6
 vehicle-mounted concrete placing boomSch. 6.3 cl. 6
-wall3, 3(1)
-warehouse operator5(1)
-welding1, 3
-wet abrasive blasting1, 3
-work box4
-work that the person was authorised to do7(1)
-work time3
-worker6(3)
-workplace3(2)
+wall3.44A, 3.88(1)
+warehouse operator5.1(1)
+welding1.3, 3.94
+wet abrasive blasting1.3, 3.102
+work box4.1
+work that the person was authorised to do7.9(1)
+work time3.130
+worker6.2(3)
+workplace3.60(2)
