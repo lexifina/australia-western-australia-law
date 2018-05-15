@@ -63,11 +63,117 @@ Road Traffic Code Amendment Regulations (No. 3) 2017 | 17 Oct 2017 p. 5338-41 | 
 Road Traffic Code Amendment Regulations (No. 5) 2017 | 31 Oct 2017 p. 5464-5 | r. 1 and 2: 31 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 6) 2017 | 31 Oct 2017 p. 5462-4 | r. 1 and 2: 31 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 8) 2017 | 5 Jan 2018 p. 9-10 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic Code Amendment Regulations 2018 r. 3-11 | 15 May 2018 p. 1531-6 | 27 Jun 2018 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
+On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations 2018 r. 3-11 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Road Traffic Code 2000.
+4.Regulation 3 amended
+In regulation 3(1) in the definition of bicycle lane:
+(a) delete paragraph (a) and insert:
+(a)beginning at a “bicycle lane” sign applying to the lane, or a road marking comprising a white bicycle symbol and the word “lane” painted in white; and
+(b) in paragraph (b) delete “following:” and insert:
+following —
+(c) delete paragraph (b)(i) and insert:
+(i)an “end bicycle lane” sign applying to the lane, or a road marking comprising a white bicycle symbol and the words “end lane” painted in white;
+5.Regulation 53 amended
+In regulation 53 delete “on” and insert:
+on, or approaching,
+6.Regulation 203 amended
+Delete regulation 203(5) and insert:
+(5) Nothing in this regulation applies in respect of —
+(a) a carriageway from which vehicles are for the time being excluded; or
+(b) a carriageway that is a shared zone.
+7.Regulation 233 amended
+(1) In regulation 233(1)(a) delete “the age of 16 years; and” and insert:
+16 years of age; and
+(2) In regulation 233(2)(b) before “must not” insert:
+except as provided in subregulation (2A),
+(3) After regulation 233(2) insert:
+(2A) Despite subregulation (2)(b), a passenger in a taxi, bus, omnibus or tow truck may hold a child who is under 1 year of age in their lap if —
+(a) there is no suitable child restraint available in the taxi, bus, omnibus or tow truck for the child; and
+(b) the passenger is not in the front row of seats if the taxi, bus, omnibus or tow truck has 2 or more rows of seats.
+(4) In regulation 233(3):
+(a) delete “a bus,” and insert:
+an
+(b) delete “the age of 16 years” and insert:
+16 years of age
+(5) After regulation 233(3) insert:
+(4) For the purposes of this regulation, a child restraint is available in a motor vehicle if it is —
+(a) fitted in the vehicle; and
+(b) not occupied by someone else who is under 16 years of age.
+(6) At the end of regulation 233 insert:
+Note:
+Under regulation 284, regulation 233 does not apply to the driver of a bus.
+8.Regulation 234 amended
+(1) In regulation 234(1):
+(a) delete “bus or”;
+(b) delete “has not reached the age of 16 years.” and insert:
+is under 16 years of age.
+(2) Delete regulation 234(2), (3) and (4) and insert:
+(2) If the passenger is under 6 months of age, the passenger must be restrained in a properly fastened and adjusted rearward facing suitable child restraint.
+(3) If the passenger has reached 6 months of age but is under 4 years of age, the passenger must be restrained in a properly fastened and adjusted —
+(a) rearward facing suitable child restraint; or
+(b) forward facing suitable child restraint that has an inbuilt harness.
+(4) If the passenger has reached 4 years of age but is under 7 years of age, the passenger must —
+(a) be restrained in a properly fastened and adjusted forward facing suitable child restraint that has an inbuilt harness; or
+(b) be placed on a properly positioned booster seat and be restrained by either —
+(i) a lap and sash type seatbelt that is properly adjusted and fastened; or
+(ii) a lap only type seatbelt and (in relation to the upper body of the passenger) a child safety harness, each of which is properly adjusted and fastened.
+(3) In regulation 234(5) delete “has not reached the age of 4 years” and insert:
+is under 4 years of age
+(4) Delete regulation 234(6) and insert:
+(6) A passenger who has reached 4 years of age but is under 7 years of age, must not be in the front row of a motor vehicle that has 2 or more rows of seats unless each other seat or unobstructed seating position in the row or rows behind the front row is either —
+(a) occupied by a passenger who is under 7 years of age; or
+(b) not suitable for the installation of a forward facing child restraint or a booster seat that would allow this regulation to be complied with for that passenger.
+(5) In regulation 234(7):
+(a) delete “the age of 7 years but has not reached the age of 16 years —” and insert:
+7 years of age but is under 16 years of age —
+(b) in paragraph (b)(i) delete “suitable”.
+(6) In regulation 234(8) delete “Subregulations (2), (3), (4) and (5)” and insert:
+Subregulations (2), (3), (4), (5) and (6)
+(7) In regulation 234(12) delete “subregulation (4)(b)” and insert:
+subregulation (4)(b)(i)
+(8) Delete regulation 234(13) and insert:
+(13) The driver of a taxi or omnibus is exempt from subregulations (2), (3) and (4) in relation to a passenger if —
+(a) there is no suitable child restraint available in the taxi or omnibus for the passenger; and
+(b) the passenger is not in the front row of seats if the taxi or omnibus has 2 or more rows of seats.
+(9) After regulation 234(13) insert:
+(13A) If the exemption set out in subregulation (13) applies to a driver in relation to a passenger who has reached 1 year of age, the passenger must (unless exempt from wearing a seatbelt under regulation 235) wear a seatbelt that is properly adjusted and securely fastened to the best extent possible given the height and weight of the passenger.
+(10) Delete regulation 234(14) and insert:
+(14) For the purposes of this regulation, a child restraint is available in a motor vehicle if it is —
+(a) fitted in the vehicle; and
+(b) not occupied by someone else who is under 16 years of age.
+(11) At the end of regulation 234 insert:
+Note:
+Under regulation 284, regulation 234 does not apply to the driver of a bus.
+9.Regulation 235 amended
+(1) In regulation 235(1) delete “the age of 4 years, but has not reached the age of 7 years,” and insert:
+4 years of age but is under 7 years of age,
+(2) In regulation 235(4) delete “who has not reached the age of 7 years.” and insert:
+charged under regulation 234(1) in relation to a passenger who is under 7 years of age.
+(3) In regulation 235(6) delete “A person in” and insert:
+Except as provided in subregulation (6A), a person in
+(4) After regulation 235(6) insert:
+(6A) Subregulation (6) does not apply to a person charged under regulation 234(1) in relation to a passenger who is under 7 years of age.
+10.Regulation 235A amended
+In regulation 235A(1)(b) delete “has not reached the age of 16 years” and insert:
+is under 16 years of age
+11.Regulation 245 amended
+(1) In regulation 245(1)(b) delete “handlebars; and” and insert:
+handlebars, unless the motor cycle is stationary and, in the circumstances, it is safe to remove both hands from the handlebars; and
+(2) After regulation 245(2) insert:
+(3) Subregulation (1)(c) does not apply where the motor cycle is moving at less than 10 km/h and any of the following apply —
+(a) the rider is manoeuvring the motor cycle in order to park the motor cycle;
+(b) the motor cycle is decelerating to come to a stop;
+(c) the motor cycle is accelerating from a stationary position.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
