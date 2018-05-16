@@ -4,14 +4,14 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010 | 35 of 2010 | 30 Aug 2010 | s. 1 and 2: 30 Aug 2010 (see s. 2(a)); s. 3, 4 (and the Sch.), s. 5-13, 14(a)-(d), (f) and (h)-(m), 15(1)(a) and (b), (2)(a)-(e), (g), (i)-(n) and (3), 16-40, 41(1), 42, 43, 44(2)-(6), (8) and (10)-(15), 45-77, 78(1), 79-90, 91(1)-(3), 92-111, 112(1), 113-142, 146, 147(1), 150-156, 157(1) and (2) and 158-166: 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 14(e) and (g), 15(1)(c), (2)(f) and (h), 41(2), 44(1), (7) and (9), 78(2), 91(4) and (5), 112(2), 143-145, 147(2)-(4), 148-149 and 157(3): 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Reprint 1: The Health Practitioner Regulation National Law (WA) Act 2010 as at 23 Jun 2017
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 | 4 of 2018 | 19 Apr 2018 | Pt. 2 (other than s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-88 and 90-97): 20 Apr 2018 (see s. 2(b)(i))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 | 4 of 2018 | 19 Apr 2018 | Pt. 2 (other than s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-88 and 90-97): 20 Apr 2018 (see s. 2(b)(i)); s. 87: 16 May 2018 (see s. 2(d) and Gazette 15 May 2018 p. 1527)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-88 and 90-97 | 4 of 2018 | 19 Apr 2018 | s. 38: 18 May 2018 (see s. 2(c)); s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-88 and 90-97: to be proclaimed (see s. 2(d))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-86, 88 and 90-97 | 4 of 2018 | 19 Apr 2018 | s. 38: 18 May 2018 (see s. 2(c)); s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-86, 88 and 90-97: to be proclaimed (see s. 2(d))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of this Act was changed to the Human Services (Medicare) Act 1973 by the Human Services Legislation Amendment Act 2011 (Cwlth) Sch. 1 Pt. 1 cl. 2.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-88 and 90-97 had not come into operation. They reads as follows:
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-86, 88 and 90-97 had not come into operation. They reads as follows:
 9.Section 5 amended
 (3) In section 5 insert in alphabetical order:
 prohibition order means —
@@ -479,9 +479,6 @@ a health profession
 86.Section 235 amended
 In section 235(2)(a) delete “Practitioners” and insert:
 Practitioner
-87.Section 245 amended
-After section 245(4) insert:
-(5) The amendment of the Health Practitioner Regulation National Law (WA) Regulations 2010 by the Health Practitioner Regulation National Law (WA) Amendment Act 2018 does not prevent the national regulations from being amended or repealed under this section.
 88.Section 284 amended
 In section 284(5):
 (a) in the definition of National Board delete “Nursing and Midwifery Board of Australia;” and insert:
