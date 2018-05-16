@@ -1,6 +1,6 @@
 ## Schedule 2 — 2010 variation agreement
 [s. 3]
-[Heading inserted by No. 60 of 2010 s. 8.]
+[Heading inserted: No. 60 of 2010 s. 8.]
 2010
 THE HONOURABLE COLIN JAMES BARNETT
 PREMIER OF THE STATE OF WESTERN AUSTRALIA
@@ -235,4 +235,4 @@ Director: [Signature]
 Name: WILLIAM GRAEME ROWLEY
 Director/Secretary: [Signature]
 Name: MARK ANDREW THOMAS
-[Schedule 2 inserted by No. 60 of 2010 s. 8.]
+[Schedule 2 inserted: No. 60 of 2010 s. 8.]
