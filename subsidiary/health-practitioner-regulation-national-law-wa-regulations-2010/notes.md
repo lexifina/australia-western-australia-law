@@ -3,17 +3,7 @@ This is a compilation of the Health Practitioner Regulation National Law (WA) Re
 Compilation table
 Citation | Gazettal | Commencement
 Health Practitioner Regulation National Law (WA) Regulations 2010 | 26 Nov 2010 p. 5952-3 | r. 1 and 2: 26 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Nov 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 Pt. 3 | 4 of 2018 | 19 Apr 2018 | To be proclaimed (see s. 2(d))
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Health Practitioner Regulation National Law (WA) Regulations 2010 amended
-99.Regulations amended
-This Part amends the Health Practitioner Regulation National Law (WA) Regulations 2010.
-100.Regulation 4 amended
-In regulation 4(1) delete “from time to time” and insert:
-on 6 December 2017
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 assented to 19 Apr 2018 Pt. 3 | 16 May 2018 (see s. 2(d) and Gazette 15 May 2018 p. 1527)
 ## Note — Health Practitioner Regulation National Law Regulation
 [This note is not part of the Regulations. It shows the text of the Health Practitioner Regulation National Law Regulation referred to in regulation 3 as —
 (a) modified by regulation 4(2); and
