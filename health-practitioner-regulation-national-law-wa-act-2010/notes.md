@@ -4,14 +4,14 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010 | 35 of 2010 | 30 Aug 2010 | s. 1 and 2: 30 Aug 2010 (see s. 2(a)); s. 3, 4 (and the Sch.), s. 5-13, 14(a)-(d), (f) and (h)-(m), 15(1)(a) and (b), (2)(a)-(e), (g), (i)-(n) and (3), 16-40, 41(1), 42, 43, 44(2)-(6), (8) and (10)-(15), 45-77, 78(1), 79-90, 91(1)-(3), 92-111, 112(1), 113-142, 146, 147(1), 150-156, 157(1) and (2) and 158-166: 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 14(e) and (g), 15(1)(c), (2)(f) and (h), 41(2), 44(1), (7) and (9), 78(2), 91(4) and (5), 112(2), 143-145, 147(2)-(4), 148-149 and 157(3): 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Reprint 1: The Health Practitioner Regulation National Law (WA) Act 2010 as at 23 Jun 2017
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 | 4 of 2018 | 19 Apr 2018 | Pt. 2 (other than s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-88 and 90-97): 20 Apr 2018 (see s. 2(b)(i)); s. 87: 16 May 2018 (see s. 2(d) and Gazette 15 May 2018 p. 1527)
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 | 4 of 2018 | 19 Apr 2018 | Pt. 2 (other than s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-88 and 90-97): 20 Apr 2018 (see s. 2(b)(i)); s. 87: 16 May 2018 (see s. 2(d) and Gazette 15 May 2018 p. 1527); s. 38: 18 May 2018 (see. s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-86, 88 and 90-97 | 4 of 2018 | 19 Apr 2018 | s. 38: 18 May 2018 (see s. 2(c)); s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-86, 88 and 90-97: to be proclaimed (see s. 2(d))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-86, 88 and 90-97 | 4 of 2018 | 19 Apr 2018 | s. 9(3), 18, 22, 40(3), 41(3), 43, 47, 56, 57(b) and (c), 58, 60, 62, 64, 65(1), 67-70, 72-74, 90 and 91: 1 Aug 2018 (see s. 2(d) and Gazette 26 Jun 2018 p. 2357); s. 9(4)-(6), 10-17, 19-21, 25, 27-35, 36(b)-(d), 39, 40(1), 41(1), 42(1), 44-46, 49, 51-54, 55(a), 57(a), 59, 61, 63, 64, 65(2) and (3), 66, 71(1), 75-86, 88 and 92-97: to be proclaimed (see s. 2(d))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of this Act was changed to the Human Services (Medicare) Act 1973 by the Human Services Legislation Amendment Act 2011 (Cwlth) Sch. 1 Pt. 1 cl. 2.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 38, 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-86, 88 and 90-97 had not come into operation. They reads as follows:
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 9(3)-(6), 10-22, 25, 27-35, 36(b)-(d), 39, 40(1) and (3), 41(1) and (3), 42(1), 43-47, 49, 51-54, 55(a), 56-70, 71(1), 72-86, 88 and 90-97 had not come into operation. They reads as follows:
 9.Section 5 amended
 (3) In section 5 insert in alphabetical order:
 prohibition order means —
@@ -142,22 +142,6 @@ Nursing | nurse, registered nurse, nurse practitioner, enrolled nurse
 (c) delete the row for Nursing and Midwifery;
 (d) after the row for Osteopathy insert:
 Paramedicine | paramedic
-38.Section 123A inserted
-After section 123 insert:
-123A.Restricted birthing practices
-(1) In this section —
-midwife means a person who is registered under this Law in the midwifery profession;
-restricted birthing practice means undertaking the care of a woman by managing the 3 stages of labour, or any part of those stages.
-(2) A person must not carry out a restricted birthing practice unless the person —
-(a)is a medical practitioner; or
-(b)is a midwife; or
-(c)is a student who carries out the restricted birthing practice in the course of activities undertaken as part of —
-(i)an approved programme of study for the medical or midwifery profession; or
-(ii)clinical training in the medical or midwifery profession;
-or
-(d)is acting under the supervision of a medical practitioner or midwife and in accordance with any requirements set out in a code or guideline approved, under section 39, by the National Board established for the relevant profession; or
-(e)is providing emergency assistance to a woman who is in labour.
-Penalty for this subsection: a fine of $30 000.
 39.Section 124 amended
 In section 124(1)(a) and (b) delete “the health profession” and insert:
 a health profession
@@ -669,7 +653,7 @@ manipulation of the cervical spineSch. s. 123(2)
 maySch. 7 cl. 14(1)
 medical practitionerSch. s. 5
 memberSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 4 cl. 1
-midwifeSch. s. 284(5)
+midwifeSch. s. 123A(1), 284(5)
 Ministerial CouncilSch. s. 5
 minorSch. 7 cl. 12(1)
 modificationSch. 7 cl. 12(1)
@@ -746,6 +730,7 @@ repealSch. 7 cl. 12(1)
 repealed LawSch. s. 250
 responsible MinisterSch. s. 5
 responsible tribunalSch. s. 5
+restricted birthing practiceSch. s. 123A(1)
 restricted dental actSch. s. 121(2)
 review periodSch. s. 5
 savings and transitional provisionsSch. s. 305(1)
