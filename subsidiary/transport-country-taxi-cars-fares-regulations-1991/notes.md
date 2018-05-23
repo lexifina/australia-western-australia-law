@@ -45,6 +45,7 @@ Country Taxi-cars (Fares and Charges) Amendment Regulations 2015 | 20 Feb 2015 p
 On-demand Transport Regulations Amendment Regulations 2016 Pt. 2 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
 Reprint 4: The Transport (Country Taxi-cars Fares) Regulations 1991 as at 10 Mar 2017 (includes amendments listed above)
 Transport (Country Taxi-cars Fares) Amendment Regulations 2017 | 12 May 2017 p. 2471-2 | r. 1 and 2: 12 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2017 (see r. 2(b))
+Transport Regulations Amendment (Fares) Regulations 2018 Pt. 3 | 22 May 2018 p. 1600-1 | 23 May 2018 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
