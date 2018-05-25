@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 January 2018 of the Road Traffic (Vehicles) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -17,6 +17,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 26 M
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 5 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2017 | 1 Dec 2017 p. 5739 | r. 1 and 2: 1 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2017 (see r. 2(b))
 Reprint 1: The Road Traffic (Vehicles) Regulations 2014 as at 5 Jan 2018 (includes amendments listed above)
+Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 May 2018 p. 1640-7 | 25 May 2018 (see r. 2(a))
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 Repealed by the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (Cwlth).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -31,6 +32,9 @@ For the purposes of section 18 of the Act, the specified day in relation to thes
 The Transport Regulations Amendment (Fees and Charges) Regulations 2017 r. 12 reads as follows:
 12.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2017.
+The Transport Regulations Amendment (Fees and Charges) Regulations 2018 r. 14 reads as follows:
+14.Specified day
+For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2018.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
