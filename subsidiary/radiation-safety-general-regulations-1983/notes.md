@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 August 2017 of the Radiation Safety (General) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Radiation Safety (General) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Radiation Safety (General) Regulations 1983 | 21 Feb 1983 p. 555-636 | 21 Aug 1983 (see r. 2)
@@ -59,11 +59,48 @@ Health Regulations Amendment (Public Health) Regulations 2016 Pt. 31 | 10 Jan 20
 Radiation Safety (General) Amendment Regulations 2017 | 7 Mar 2017 p. 1526-7 | r. 1 and 2: 7 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Mar 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Reprint 4: The Radiation Safety (General) Regulations 1983 as at 4 Aug 2017 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
 The Radiation Safety (General) Amendment Regulations (No. 2) 1999 r. 8(2) and (3) are transitional provisions that are of no further effect.
 The Radiation Safety (General) Amendment Regulations 2001 r. 4(3) reads as follows:
 (3) Until the council approves a dental ancillary qualification under regulation 38(1)(c) and (d) of the Radiation Safety (General) Regulations 1983 as amended by this regulation, all dental ancillary qualifications are taken to be approved dental ancillary qualifications for the purposes of that regulation.
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 had not come into operation. It reads as follows:
+Part 9 — Radiation Safety (General) Regulations 1983 amended
+17.Regulations amended
+This Part amends the Radiation Safety (General) Regulations 1983.
+18.Schedule XV amended
+(1) Delete Schedule XV Part 1 and insert:
+Part 1 — Registration and licences
+ | $
+ | Annual | Triennial
+1.Fee for registration or renewal of registration of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)), for the manufacture, use or storage of radioactive substances
+(a)Radioactive substances, other than tritium in gaseous tritium light devices —
+Maximum quantity:
+40 gigabecquerels | 190 | 380
+400 gigabecquerels | 380 | 755
+4 terabecquerels | 755 | 1 510
+Exceeding 4 terabecquerels | 1 150 | 2 300
+(b)Tritium in gaseous tritium light devices —
+Maximum quantity:
+4 terabecquerels | 55 | 111
+40 terabecquerels | 138 | 277
+Exceeding 40 terabecquerels | 277 | 553
+1A.Fee for registration or renewal of registration of premises used solely for the mining and milling of radioactive ores (including mineral sands) | 190 | 380
+2.Fee for registration or renewal of registration of premises for the sale or service of radioactive substances, irradiating apparatus or electronic products | 190 | 380
+3.Fee for registration or renewal of registration of premises, other than premises referred to in items 1, 1A and 2, irradiating apparatus and electronic products
+In the case of —
+(a)not more than 2 irradiating apparatus and/or electronic products | 190 | 380
+(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 380 | 755
+(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 755 | 1 510
+(d)more than 10 irradiating apparatus and/or electronic products | 1 150 | 2 300
+4.Licence fee
+In the case of —
+(a)irradiating apparatus and/or electronic products | 75 | 150
+(b)radioactive substances | 75 | 150
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
