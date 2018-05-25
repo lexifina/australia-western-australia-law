@@ -13,6 +13,17 @@ Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 17 Jun 
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 18 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health Regulations Amendment (Poisons) Regulations 2016 Pt. 3 | 17 Jan 2017 p. 409-11 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Health (Pesticides) Regulations 2011 amended
+5.Regulations amended
+This Part amends the Health (Pesticides) Regulations 2011.
+6.Schedule 1 amended
+In Schedule 1 delete “175” (each occurrence) and insert:
+190
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
