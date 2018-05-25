@@ -32,7 +32,23 @@ Perth Parking Management Amendment Regulations 2015 | 13 Feb 2015 p. 652-3 | r. 
 Perth Parking Management Amendment Regulations (No. 2) 2015 | 15 May 2015 p. 1729-30 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Perth Parking Management Amendment Regulations 2016 | 13 May 2016 p. 1428 | r. 1 and 2: 13 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
+On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Perth Parking Management Regulations 1999 amended
+7.Regulations amended
+This Part amends the Perth Parking Management Regulations 1999.
+8.Schedule 2 amended
+In Schedule 2 delete item 11 and insert:
+11. | a facility that has more than 5 parking bays for the use of vehicles (excluding a bay set aside for the exclusive use of vehicles referred to in any of items 2 to 10, 12 and 13) —
+ | (a)for each motor cycle bay; | nil
+ | (b)for each bay (excluding a bay that is on a carriageway) that is available to the public for use without time constraints; | 1 124.40
+ | (c)for each bay that is on a carriageway; | 1 038.90
+ | (d)for each bay that is available to the public and in which 50% of the vehicles being parked stay for less than 4 hours and at least 90% stay for less than 6 hours; | 1 038.90
+ | (e)for each other bay | 1 169.20
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
