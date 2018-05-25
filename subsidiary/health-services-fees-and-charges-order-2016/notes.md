@@ -12,6 +12,35 @@ Health Services (Fees and Charges) Amendment Order 2018 | 2 Feb 2018 p. 315-16 |
 Health Services (Fees and Charges) Amendment Order (No. 2) 2018 | 9 Mar 2018 p. 797-9 | cl. 1 and 2: 9 Mar 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 10 Mar 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 4) 2018 | 27 Apr 2018 p. 1392-3 | cl. 1 and 2: 27 Apr 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 28 Apr 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 3) 2018 | 11 May 2018 p. 1503 | cl. 1 and 2: 11 May 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 12 May 2018 (see cl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Services (Fees and Charges) Amendment Order (No. 6) 2018 cl. 3 and 4 | 25 May 2018 p. 1631-2 | 1 Jul 2018 (see cl. 2(b))
+On the date as at which this compilation was prepared, the Health Services (Fees and Charges) Amendment Order (No. 6) 2018 cl. 3 and 4 had not come into operation. They read as follows:
+3.Order amended
+This order amends the Health Services (Fees and Charges) Order 2016.
+4.Schedule 1 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 Div. 1 it. 1(b)(i) | $638 | $649
+Sch. 1 Div. 1 it. 1(b)(ii) | $350 | $356
+Sch. 1 Div. 1 it. 1(e) | $2 586 | $2 778
+Sch. 1 Div. 1 it. 4(b) | $275 | $280
+Sch. 1 Div. 1 it. 6(b) | $289 | $294
+Sch. 1 Div. 1 it. 6(d) | $2 429 | $2 366
+Sch. 1 Div. 1 it. 7 | $38.15 | $38.45
+Sch. 1 Div. 2 it. 1 | $2 540 | $2 794
+Sch. 1 Div. 2 it. 2 | $1 961 | $2 157
+Sch. 1 Div. 2 it. 3 | $2 723 | $2 995
+Sch. 1 Div. 2 it. 4 | $289 | $294
+Sch. 1 Div. 2 it. 5 | $6 356 | $6 442
+Sch. 1 Div. 2 it. 6 | $3 800 | $3 852
+Sch. 1 Div. 2 it. 7 | $275 | $280
+Sch. 1 Div. 2 it. 9 | $275 | $280
+Sch. 1 Div. 2 it. 10(a) | $1 856 | $2 042
+Sch. 1 Div. 2 it. 10(b) | $2 577 | $2 835
+Sch. 1 Div. 2 it. 10(c) | $2 404 | $2 645
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
