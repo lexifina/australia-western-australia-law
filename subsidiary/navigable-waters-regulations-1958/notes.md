@@ -144,8 +144,38 @@ Navigable Waters Amendment Regulations 2015 | 29 May 2015 p. 1881-2 | r. 1 and 2
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 27 May 2016 p. 1549-54 | 1 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Lifejackets) Regulations 2017 Pt. 2 | 3 Mar 2017 p. 1484-91 | 4 Mar 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
+On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Navigable Waters Regulations 1958 amended
+3.Regulations amended
+This Part amends the Navigable Waters Regulations 1958.
+4.Regulation 47C amended
+(1) After regulation 47C(3)(b) insert:
+(ba) must be accompanied by a fee of $28.00; and
+(2) In regulation 47C(4) delete “subregulation (2)(a),” and insert:
+subregulation (2)(a) and the fee referred to in subregulation (3)(ba),
+(3) In regulation 47C(5)(b)(ii) delete “$20.80.” and insert:
+$21.50.
+5.Regulation 57 amended
+In regulation 57(1) delete “Schedule 2” and insert:
+Schedule 3
+6.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 45B(3a)(b) Table | 117.60 249.80 501.10 732.90 | 121.20 257.30 516.20 754.90
+r. 45B(4) | $26.90 | $28.00
+r. 45B(6A) | $11.00 | $12.00
+r. 45BAA(4A) | $26.70 | $28.00
+r. 45BA(2)(a) | $350 | $360
+r. 45BA(2)(b) | $145 | $150
+r. 45BA(6a)(b) | $145 | $150
+r. 45E(2)(a) | $26.90 | $28.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
