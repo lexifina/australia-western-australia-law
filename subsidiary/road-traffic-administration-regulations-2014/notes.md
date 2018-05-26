@@ -15,6 +15,7 @@ Road Traffic (Administration) Amendment Regulations (No. 2) 2016 | 25 Nov 2016 p
 Road Traffic Regulations Amendment (Penalties) Regulations 2017 Pt. 2 | 26 May 2017 p. 2636-9 | 28 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 4 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Road Traffic (Administration) Amendment Regulations 2017 | 3 Oct 2017 p. 5054-5 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Oct 2017 (see r. 2(b))
+Road Traffic (Administration) Amendment Regulations 2018 | 25 May 2018 p. 1648-9 | r. 1 and 2: 25 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 26 May 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
