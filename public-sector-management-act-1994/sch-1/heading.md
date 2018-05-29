@@ -1,6 +1,6 @@
 ## Schedule 1 — Entities which are not organisations
 [s. 3 and 108]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Column 1 Item | Column 2 Entity
 1 | The Governor’s Establishment referred to in the Governor’s Establishment Act 1992
 2 | A department of the staff of Parliament referred to in the Parliamentary and Electorate Staff (Employment) Act 1992
@@ -26,4 +26,4 @@ Column 1 Item | Column 2 Entity
  | (ii)the Bunbury Water Corporation; and (iii)the Busselton Water Corporation; and (iv)a body established by the Governor.
 20 | Western Australian Greyhound Racing Association established by the Western Australian Greyhound Racing Association Act 1981
 21 | A body established by the Electricity Corporations Act 2005 section 4(1)
-[Schedule 1 amended by No. 73 of 1990 s. 22(3)(a)(iii); No. 89 of 1994 s. 109; No. 73 of 1995 s. 188; No. 14 of 1996 s. 4; No. 57 of 1997 s. 99(4); No. 5 of 1999 s. 23; No. 58 of 1999 s. 106; No. 24 of 2000 s. 14(13) and 34(2); No. 35 of 2003 s. 23 and 221(3); No. 67 of 2004 s. 45(2); No. 18 of 2005 s. 139; No. 25 of 2012 s. 224; No. 25 of 2013 s. 44; No. 26 of 2016 s. 87; No. 32 of 2016 s. 190; amended in Gazette 16 Sep 1994 p. 4803; 23 Jun 1995 p. 2508; 3 Nov 1995 p. 5204; 4 Jan 2005 p. 6.]
+[Schedule 1 amended: No. 73 of 1990 s. 22(3)(a)(iii); No. 89 of 1994 s. 109; No. 73 of 1995 s. 188; No. 14 of 1996 s. 4; No. 57 of 1997 s. 99(4); No. 5 of 1999 s. 23; No. 58 of 1999 s. 106; No. 24 of 2000 s. 14(13) and 34(2); No. 35 of 2003 s. 23 and 221(3); No. 67 of 2004 s. 45(2); No. 18 of 2005 s. 139; No. 25 of 2012 s. 224; No. 25 of 2013 s. 44; No. 26 of 2016 s. 87; No. 32 of 2016 s. 190; amended: Gazette 16 Sep 1994 p. 4803; 23 Jun 1995 p. 2508; 3 Nov 1995 p. 5204; 4 Jan 2005 p. 6.]
