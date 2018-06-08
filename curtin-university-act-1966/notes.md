@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Curtin University Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Curtin University Act 1966 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Institute of Technology Act 1966 | 94 of 1966 | 12 Dec 1966 | 26 May 1967 (see s. 2 and Gazette 26 May 1967 p. 1363-4)
@@ -42,16 +42,17 @@ Acts Amendment (Bankruptcy) Act 2009 s. 28 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 and 43(2) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 5: The Curtin University of Technology Act 1966 as at 7 Nov 2014 (includes amendments listed above)
 Universities Legislation Amendment Act 2016 Pt. 2 | 32 of 2016 | 19 Oct 2016 | Part 2 (other than s. 19 and 31): 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557); s. 19 and 31: 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 6: The Curtin University Act 1966 as at 8 Jun 2018 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 38 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Footnote no longer applicable.
+Other notes
 Repealed by the School Education Act 1999 s. 246(1).
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 14.
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 13.
 Repealed by the State Superannuation Act 2000 s. 39.
 Under the Land Administration Act 1997 s. 281(3) a reference in written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
-Short title was initially the Western Australian Institute of Technology Act 1966 and was subsequently changed to the Curtin University of Technology Act 1966 then to the Curtin University Act 1966 (see note under s. 1).
+The short title was initially the Western Australian Institute of Technology Act 1966 and was subsequently changed to the Curtin University of Technology Act 1966 then to the Curtin University Act 1966 (see note under s. 1).
 The Acts Amendment (Student Guilds and Associations) Act 1983 s. 18 (as amended by the Western Australian Institute of Technology Amendment Act 1986 s. 13) reads as follows:
 18.Transitional — ineligibility for membership of the Student Guild
 (1) Notwithstanding section 44(5) of the principal Act as substituted by section 16(b) of this Act, the following persons and classes of persons shall not be eligible for any form of membership of the Student Guild, that is to say —
@@ -59,7 +60,7 @@ The Acts Amendment (Student Guilds and Associations) Act 1983 s. 18 (as amended 
 (b) persons who are not enrolled students; and
 (c) such persons or classes of persons as the Council declares by resolution to be ineligible for membership of the Student Guild.
 (2) The Governor may by proclamation provide that this section shall cease to be in operation on a day fixed by the proclamation.
-[Section 18 amended by No. 96 of 1986 s. 13.]
+[Section 18 amended: No. 96 of 1986 s. 13.]
 The Acts Amendment (Educational Institutions Superannuation) Act 1985 s. 6(2) and (3) read as follows:
 (2) Notwithstanding subsection (1), where a member of the staff, officer or employee of the Institute was, immediately before the coming into operation of that subsection, a contributor for pension, superannuation or benefits under an agreement entered into by the Council under section 30 of the principal Act as in force before the coming into operation of that subsection, he shall be entitled to continue to be such a contributor and to retain his accrued rights under the Superannuation and Family Benefits Act 1938.
 (3) Nothing in subsection (1) affects any rights or liabilities of the Council under an agreement entered into by the Council under section 30 of the principal Act as in force before the coming into operation of that subsection.
@@ -80,15 +81,6 @@ commencement day means the day on which the Universities Legislation Amendment A
 deleted section 9(1)(ia), (j) or (k) means the Curtin University of Technology Act 1966 section 9(1)(ia), (j) or (k) as those provisions were in effect immediately before commencement day;
 member means a member of the Council of the Curtin University of Technology.
 (2) The persons who, immediately before commencement day, were members under deleted section 9(1)(ia), (j) or (k) cease to be members on commencement day.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 38 had not come into operation. It reads as follows:
-38.Curtin University of Technology Act 1966 amended
-The Curtin University of Technology Act 1966 is amended as follows:
-(a) in section 29(1) by deleting “and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938;
-(b) by repealing section 29(2);
-(c) in section 30A(3) by deleting “contributor for pension, superannuation or benefits under the Superannuation and Family Benefits Act 1938.” and inserting instead —
-“
-Member of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
