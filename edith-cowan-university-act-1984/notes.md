@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Edith Cowan University Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 June 2018 of the Edith Cowan University Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian College of Advanced Education Act 1984 | 18 of 1984 | 31 May 1984 | 1 Sep 1984 (see s. 2 and Gazette 24 Aug 1984 p. 2567)
@@ -26,14 +26,16 @@ Reprint 3: The Edith Cowan University Act 1984 as at 20 Aug 2004 (includes amend
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Universities Legislation Amendment Act 2005 Pt. 3 | 8 of 2005 | 7 Jul 2005 | 13 Aug 2005 (see s. 2 and Gazette 12 Aug 2005 p. 3651)
 Reprint 4: The Edith Cowan University Act 1984 as at 11 Aug 2006 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 17 and Sch. 1 cl. 49 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 33 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Universities Legislation Amendment Act 2016 Pt. 3 | 32 of 2016 | 19 Oct 2016 | Pt. 3 (other than s. 61): 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557); s. 61: 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 5: The Edith Cowan University Act 1984 as at 8 Jun 2018 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Other notes
 Repealed by the School Education Act 1999.
 Under the Teacher Education Act 1972 s. 57, the appointed day was 26 November 1973. See Gazette 23 November 1973 p. 4266. The Act was repealed by the Colleges Act 1978 s. 5.
 Repealed by the Vocational Education and Training Act 1996.
@@ -41,43 +43,23 @@ The Superannuation and Family Benefits Act 1938 was repealed by the State Supera
 Repealed by the State Superannuation Act 2000 (see also endnote 12).
 Now known as the Edith Cowan University Act 1984; short title changed (see note under s. 1).
 The Acts Amendment (Educational Institutions Superannuation) Act 1985 s. 14 and 15 read as follows:
-“
 14.Rights of contributors to The Superannuation Fund and the Western Australian Post Secondary Education Superannuation Scheme
 (1) Notwithstanding section 13, where a member of the staff of the University was, immediately before the coming into operation of that section —
 (a) a contributor for pension, superannuation or benefits under an agreement entered into by the Council under section 35 of the Colleges Act as incorporated by section 34 of the principal Act as in force before the coming into operation of section 13, he shall be entitled to continue to be such a contributor and to retain his accrued rights under the Superannuation and Family Benefits Act 1938; or
 (b) a member of the Western Australian Post Secondary Education Superannuation Scheme established under section 36 of the Colleges Act as incorporated by section 34 of the principal Act as in force before the coming into operation of section 13, he shall be entitled to continue to be such a member and to retain his accrued rights under that superannuation scheme.
 15.Rights and liabilities of the Council not affected
 Nothing in section 13 affects any rights or liabilities of the Council under an agreement entered into by the Council under section 35 of the Colleges Act as incorporated by section 34 of the principal Act as in force before the coming into operation of section 13.
-”.
 The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 30(2) reads as follows:
-“
 (2) Despite subsection (1)(a), each person appointed and holding office as a member of the Council of the University under section 9(1)(a) of the Act immediately before the commencement of this section continues, subject to the Act, to hold office as a member for the remainder of the period for which he or she was appointed.
-”.
 The Statutes (Repeals and Minor Amendments) Act 2003 s. 46(5) reads as follows:
-“
 (5) A person holding office as the chairperson or a member of the Bunbury Campus Advisory Board immediately before the commencement day continues to hold office on and after that day, subject to the Statute of the University under which the person was appointed, as the chairperson or a member of the ECU South West Campus (Bunbury) Advisory Board, as the case requires, for the remainder of the period for which he or she was appointed to the Bunbury Campus Advisory Board.
-”.
 The Universities Legislation Amendment Act 2005 s. 16 reads as follows:
-“
 16.Transitional provision
 (1) In this section —
 commencement day means the day on which the Universities Legislation Amendment Act 2005 comes into operation;
 deleted section 9(1)(g) or (h) means the Edith Cowan University Act 1984 section 9(1)(g) or (h) as those provisions were in effect immediately before commencement day;
 member means a member of the Council of the Edith Cowan University.
 (2) The persons who, immediately before commencement day, were members under deleted section 9(1)(g) or (h) cease to be members on commencement day.
-”.
-On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 had not come into operation. It reads as follows:
-“
-40.Edith Cowan University Act 1984 amended
-The Edith Cowan University Act 1984 is amended as follows:
-(a) in section 32(1) by deleting “, retirement and his rights if any under the Superannuation and Family Benefits Act 1938.” and inserting instead —
-“ and retirement. ”;
-(b) by repealing section 32(2);
-(c) in section 34(3) by deleting “contributor for pension, superannuation or benefits under the Superannuation and Family Benefits Act 1938.” and inserting instead —
-“
-Member of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
-”.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -93,7 +75,7 @@ casual vacancy3(1)
 Chancellor3(1)
 Colleges Act3(1)
 commencement date3(1)
-commencement day54
+commencement day4(1), 19(1), 41(1) and 54
 commercial arrangement30A
 commercial purpose30A
 contractor29(1A)
@@ -118,7 +100,6 @@ prescribed3(1)
 residential accommodation3(1)
 Statute3(1)
 Student Guild3(1)
-the commencement day4(1), 19(1), 41(1)
 transition period61(1)
 University3(1)
 university development proposal30A
