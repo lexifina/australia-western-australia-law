@@ -48,6 +48,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 | 3 Jun
 Electricity (Licensing) Amendment Regulations 2017 | 2 May 2017 p. 2291-302 | r. 1 and 2: 2 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2017 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 2) 2017 | 14 Nov 2017 p. 5597-602 | r. 1 and 2: 14 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2018 (see r. 2(b))
+Electricity (Licensing) Amendment Regulations (No. 3) 2018 | 7 Jun 2018 p. 1815-24 | r. 1, 2 and 10: 7 Jun 2018 (see r. 2(a)); Regulations other than r. 1, 2 and 10: 8 Jun 2018 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
@@ -56,9 +57,11 @@ Now called the Tradespersons’ Rights Regulation Act 1946 (Cwlth).
 The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
+The Electricity (Licensing) Amendment Regulations 2018 were repealed by the Electricity (Licensing) Amendment Regulations (No. 3) 2018 regulation 10 before they came into operation, see Gazette 7 June 2018 p. 1824.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+agent50AA(1)
 approved5(1a)
 Australian/New Zealand Wiring Rules3(1)
 Board3(1)
@@ -86,6 +89,7 @@ electrical worker’s licence3(1)
 electrician3(1)
 employee63(1)
 employer50AB, 63(1)
+employer of an electrical worker in training50AA(1)
 energised3(1)
 executive officer3(1)
 flexible cord19(1A)
@@ -93,6 +97,7 @@ former apprentice50AB
 holder of a licence46(1a), 47(1aa)
 in-house electrical installing work3(1)
 in-house electrical installing work licence3(1)
+labour hire arrangement50AA(1)
 legal practitioner3(1)
 licence3(1)
 licensed electrical worker3(1)
@@ -119,7 +124,7 @@ relevant network operator3(1)
 required time51(3)
 risk assessment54A(1)
 servicing19(1A)
-supervising electrical worker50(3), 50AA(1)
+supervising electrical worker49C(1), 50(3)
 temporary builders supply52B(4A)
 transportable structure3(1)
 working days3(1)
