@@ -19,7 +19,33 @@ Housing Amendment Regulations 2015 | 16 Jun 2015 p. 2075-6 | r. 1 and 2: 16 Jun 
 Housing Amendment Regulations 2016 | 24 Jun 2016 p. 2316-17 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Housing Amendment Regulations (No. 2) 2016 | 30 Dec 2016 p. 5968 | r. 1 and 2: 30 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2016 (see r. 2(b))
 Housing Amendment Regulations 2017 | 1 Aug 2017 p. 4112-13 | r. 1 and 2: 1 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Housing Amendment Regulations 2018 r. 3 and 4 | 12 Jun 2018 p. 1896-7 | 1 Jul 2018 (see r. 2(b))
 Repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998.
+On the date as at which this compilation was prepared, the Housing Amendment Regulations 2018 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Housing Regulations 1980.
+4.Regulation 8 amended
+In regulation 8 delete the Table and insert:
+Table
+Column 1 Item no. | Column 2 Item | Column 3 Fee $
+ | Preparation of documents
+1. | Mortgage | 166
+2. | Discharge of mortgage | 65
+3. | Shared equity caveat | 59
+4. | Any other caveat | 65
+5. | Shared equity withdrawal of caveat | 59
+6. | Any other withdrawal of caveat | 65
+7. | Deed of co-ownership | 198
+8. | Any other deed | 123
+9. | Transfer of land | 207
+10. | Statutory declaration | 51
+11. | Settlement statement | 180
+12. | Any other document | 77
+ | Miscellaneous
+13. | Production of titles and other documents | 33
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
