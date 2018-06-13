@@ -12,6 +12,7 @@ Health Services (Fees and Charges) Amendment Order 2018 | 2 Feb 2018 p. 315-16 |
 Health Services (Fees and Charges) Amendment Order (No. 2) 2018 | 9 Mar 2018 p. 797-9 | cl. 1 and 2: 9 Mar 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 10 Mar 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 4) 2018 | 27 Apr 2018 p. 1392-3 | cl. 1 and 2: 27 Apr 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 28 Apr 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 3) 2018 | 11 May 2018 p. 1503 | cl. 1 and 2: 11 May 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 12 May 2018 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order (No. 5) 2018 | 12 Jun 2018 p. 1895 | cl. 1 and 2: 12 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 13 Jun 2018 (see cl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
