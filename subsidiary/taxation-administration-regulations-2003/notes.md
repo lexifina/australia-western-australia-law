@@ -30,12 +30,21 @@ Taxation Administration Amendment Regulations 2016 | 24 Jun 2016 p. 2344-5 | r. 
 Taxation Administration Amendment Regulations (No. 2) 2016 | 13 Dec 2016 p. 5634 | r. 1 and 2: 13 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2016 (see r. 2(b))
 Taxation Administration Amendment Regulations 2017 | 27 Jun 2017 p. 3450-1 | r. 1 and 2: 27 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Taxation Administration Amendment Regulations 2018 | 6 Mar 2018 p. 709-10 | r. 1 and 2: 6 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2018 (see r. 2(b))
+Taxation Administration Amendment Regulations (No. 2) 2018 (other than r. 4) | 12 Jun 2018 p. 1901 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 13 Jun 2018 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Taxation Administration Amendment Regulations (No. 2) 2018 r. 4 | 12 Jun 2018 p. 1901 | 1 Jul 2018 (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number.
 Under the Settlement Agents Act 1981 s. 126, a reference to the Settlement Agents Supervisory Board may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Under the Settlement Agents Act 1981 s. 3(1) Commissioner has the meaning given in the Fair Trading Act 2010 s. 6.
 The Settlement Agents Act 1981 s. 6 was deleted by the Acts Amendment (Fair Trading) Act 2010 s. 137(2).
 Under the Settlement Agents Act 1981 s. 129(1), a reference to the Registrar may where the context so requires, be read as if it had been amended to be a reference to the Commissioner. See note 2 as to the meaning of Commissioner.
+On the date as at which this compilation was prepared, the Taxation Administration Amendment Regulations (No. 2) 2018 r. 4 had not come into operation. It reads as follows:
+4.Regulation 8 amended
+In regulation 8 delete “$39.60.” and insert:
+$50.35.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
