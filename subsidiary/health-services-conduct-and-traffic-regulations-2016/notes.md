@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Health Services (Conduct and Traffic) Regulations 2016 | 24 Jun 2016 p. 2369-406 | 1 July 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291)
 Health Services (Conduct and Traffic) Amendment Regulations 2016 | 29 Nov 2016 p. 5319-22 | r. 1 and 2: 29 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2016 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
+Health Services (Conduct and Traffic) Amendment Regulations 2018 | 12 Jun 2018 p. 1892-3 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2018 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement

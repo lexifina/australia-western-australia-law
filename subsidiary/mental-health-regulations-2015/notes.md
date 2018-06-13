@@ -9,6 +9,7 @@ Mental Health Amendment Regulations (No. 2) 2016 | 22 Jul 2016 p. 3133 | r. 1 an
 Mental Health Amendment Regulations (No. 2) 2017 | 18 Aug 2017 p. 4447 | r. 1 and 2: 18 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2017 (see r. 2(b))
 Mental Health Amendment Regulations (No. 3) 2017 | 6 Oct 2017 p. 5180 | r. 1 and 2: 6 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2017 (see r. 2(b))
 Mental Health Amendment Regulations 2018 | 1 May 2018 p. 1433 | r. 1 and 2: 1 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2018 (see r. 2(b))
+Mental Health Amendment Regulations (No. 2) 2018 | 12 Jun 2018 p. 1892 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
