@@ -37,3 +37,4 @@ Rates and Charges (Rebates and Deferments) Amendment Regulations 2015 | 26 Jun 2
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2016 | 14 Jun 2016 p. 1840-1 | r. 1 and 2: 14 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jun 2016 (see r. 2(b))
 Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2016 | 14 Jun 2016 p. 1841-2 | r. 1 and 2: 14 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2017 | 27 Jun 2017 p. 3449-50 | r. 1 and 2: 27 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2017 (see r. 2(b))
+Rates and Charges (Rebates and Deferments) Amendment Regulations 2018 | 12 Jun 2018 p. 1899-900 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2018 (see r. 2(b))
