@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Health Services (Health Service Providers) Order 2016 | 17 Jun 2016 p. 2133-60 | 18 Jun 2016 (see cl. 2)
 Health Services (Health Service Providers) Amendment Order 2018 | 11 May 2018 p. 1504 | cl. 1 and 2: 11 May 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 12 May 2018 (see cl. 2(b))
+Health Services (Health Service Providers) Amendment Order (No. 4) 2018 | 12 Jun 2018 p. 1894-5 | cl. 1 and 2: 12 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 13 Jun 2018 (see cl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
