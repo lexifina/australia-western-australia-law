@@ -42,6 +42,22 @@ Valuation of Land Amendment Regulations 2013 | 26 Jul 2013 p. 3350-1 | r. 1 and 
 Valuation of Land Amendment Regulations 2015 | 19 Jun 2015 p. 2140 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 24 Jun 2016 p. 2320-5 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 23 Jun 2017 p. 3181-6 | 3 Jul 2017 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Lands Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 15 Jun 2018 p. 1923-8 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, the Lands Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Valuation of Land Regulations 1979 amended
+9.Regulations amended
+This Part amends the Valuation of Land Regulations 1979.
+10.Schedule 1 amended
+In Schedule 1 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+it. 1 | 149.50 | 151.50
+it. 2 | 60.00 | 61.00
+it. 3 | 8.20 | 8.30
+it. 4 | 17.90 | 18.10
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
