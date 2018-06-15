@@ -21,3 +21,20 @@ Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2014 | 
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2015 | 19 Jun 2015 p. 2122-3 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 6 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 amended
+14.Regulations amended
+This Part amends the Evidence (Video and Audio Links Fees and Expenses) Regulations 1999.
+15.Schedule 1 replaced
+Delete Schedule 1 and insert:
+Schedule 1 — Fees
+[r. 2 and 3]
+1.Booking fee
+(a) Intrastate link $118.50
+(b) Interstate or overseas link $176.00
+2.Hourly fee
+Per hour or part of an hour $92.50
