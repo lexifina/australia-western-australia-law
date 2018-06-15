@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 29 March 2018 of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -71,6 +71,10 @@ Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 3 | 
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Attorney General Regulations Amendment Regulations 2017 Pt. 3 | 4 Aug 2017 p. 4313-14 | 5 Aug 2017 (see r. 2(b))
 Reprint 8: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 29 Mar 2018 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Agriculture and Food is read and construed as a reference to the Department of Primary Industries and Regional Development unless the contrary intention appears.
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Commerce is read and construed as a reference to the relevant successor. The “relevant successor” means:
@@ -88,6 +92,37 @@ The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009
 Formerly referred to the Curtin University of Technology Act 1966, the short title of which was changed to the Curtin University Act 1966 by the Universities Legislation Amendment Act 2016 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Perth Market Disposal Act 2015.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
+On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Fines, Penalties and Infringement Notices Enforcement Regulations 1994 amended
+16.Regulations amended
+This Part amends the Fines, Penalties and Infringement Notices Enforcement Regulations 1994.
+17.Schedule 2 replaced
+Delete Schedule 2 and insert:
+Schedule 2 — Enforcement fees
+[r. 9]
+Division 1 — Enforcement fees for Part 3 of the Act
+1. | Fee for issuing a final demand (To be imposed when the final demand is issued.) | $19.90
+2. | Fee for preparing an enforcement certificate in relation to an infringement notice, for each infringement notice (To be imposed when the infringement notice is registered.) | $16.95
+3. | Fee for registering an infringement notice with the Registry (To be imposed when the notice is registered.) | $63.50
+4. | Fee for issuing a notice of intention to enforce (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $42.00
+5. | Fee for issuing an enforcement warrant (To be imposed when the warrant is issued.) | $198.00
+Division 2 — Enforcement fees for Part 4 of the Act
+1. | Fee for issuing a notice of intention to enforce (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $42.00
+2. | Fee for issuing an enforcement warrant (To be imposed when the warrant is issued.) | $198.00
+Division 3 — Enforcement fees for Part 7 of the Act
+1.Fee for attending the Magistrates Court in connection with proceedings to examine a person under section 69, for each hour or part of an hour | $87.50
+2.The actual amounts disbursed in connection with seizing, moving, storing, securing, protecting and insuring property (including amounts disbursed for the keeping of animals) are prescribed as enforcement fees.
+3.Fee for inspecting personal property under seizure | $59.00
+4.Fee for lodging a memorial under section 89 | $63.50
+5.Fee for lodging a withdrawal of memorial under section 90 | $42.00
+6.The actual amounts disbursed for the purpose of valuing any personal property or land, or for searches of titles and other records, are prescribed as enforcement fees.
+7.The actual amounts disbursed for advertising, and otherwise in connection with the arranging of, any intended sale of personal property or land are prescribed as enforcement fees.
+8.Fee for arranging a sale of personal property or land, including preparing advertisements and conditions of sale, but excluding disbursements, not exceeding | $209.00
+9.The actual amounts disbursed in connection with a sale of personal property or land (including settlement costs) are prescribed as enforcement fees.
+10.Fee for attending a sale of personal property or land | $94.00
+11.Fee for preparing and executing a transfer of land sold | $209.00
+12.Fee for attending a court in connection with interpleader proceedings, for each half hour or part of a half hour | $29.90
+13.If the Sheriff or a delegate of the Sheriff is necessarily put to extra trouble and expense in connection with executing an enforcement warrant or is required to do anything not provided for in this Division, the Sheriff may set an amount or an additional amount (as the case may be) and that amount is prescribed as an enforcement fee. If under this item the Sheriff sets an amount for travelling expenses, the amount is not to exceed the rate per kilometre, 1 way, that is prescribed as a travelling fee for the service of documents in the Magistrates Court (Fees) Regulations 2005.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
