@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 November 2017 of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Workers’ Compensation and Assistance Act 1981 | 86 of 1981 | 23 Nov 1981 | 3 May 1982 (see s. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -84,11 +84,13 @@ Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (s
  | Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 4 | 28 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 647)
  | Statutes (Repeals) Act 2016 Pt. 2 Div. 4 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
  | Reprint 12: The Workers’ Compensation and Injury Management Act 1981 as at 24 Nov 2017 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+ | Workers’ Compensation and Injury Management Amendment Act 2018 Pt. 1 and 3 | 8 of 2018 | 20 Jun 2018 | Pt. 1: 20 Jun 2018 (see s. 2(a)); Pt. 3: 21 Jun 2018 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
+Workers’ Compensation and Injury Management Amendment Act 2018 Pt. 2 | 8 of 2018 | 20 Jun 2018 | To be proclaimed (see s. 2(c))
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
 The effect of this section was removed by the Western Australian Marine Act 1982 s. 135, subject to the savings provisions in section 135(4) of that Act.
 Repealed by the Statute Stocktake Act 1999 (Cwlth).
@@ -426,11 +428,11 @@ an insurer who has issued to the employer a liability insurance policy other tha
 (3) In this section a reference to doing anything includes a reference to omitting to do that thing.
 15.Validity of terms, conditions and exclusions of insurance policies effected during the transitional period
 A term, condition or exclusion of an insurance policy obtained or kept current during the transitional period for the purposes of Part X which, if the policy were obtained immediately after the transitional period, would be valid, lawful and effective is taken to be valid, lawful and effective from the time when the policy was obtained or, if later, from the beginning of the transitional period.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
 74.Workers’ Compensation and Injury Management Act 1981 amended
 Section 201(2) of the Workers’ Compensation and Injury Management Act 1981 is amended by deleting “or the Superannuation and Family Benefits Act 1938”.
 [Section 74 amended by No. 42 of 2004 s. 174.]
-On the date as at which this reprint was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
 (2) In Schedule 1 clause 11(2) delete the definitions of:
 Amount A
 Amount D
@@ -450,11 +452,284 @@ Amount Aa.
 one year mentioned in subclause (5), or if for part of that period the worker was not in the employment that the worker is in on the date of incapacity,
 (7) In Schedule 1 clause 11(7) delete “Amount D” and insert:
 Amount Aa
+On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2018 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Amendments about compensation for dependants of workers
+4.Section 5 amended
+(1) In section 5(1) delete the definitions of:
+child’s allowance
+de facto partner
+dependants
+member of a family
+notional residual entitlement
+NRE amount
+spouse
+(2) In section 5(1) insert in alphabetical order:
+dependant of a deceased worker has the meaning given in Schedule 1A clause 3;
+5.Section 18 amended
+(1) In section 18 delete “If an injury” and insert:
+(1) If an injury
+(2) At the end of section 18 insert:
+(2) If an injury of a worker occurs and the worker dies, the employer shall, subject to this Act, be liable to pay compensation in accordance with Schedule 1A.
+(3) Subsection (2) does not limit the application of Schedule 5 in relation to the death of the worker.
+Note:The heading to amended section 18 is to read:
+Employers liable to pay compensation for injuries to workers
+6.Part III Division 5A inserted
+After Part III Division 5 insert:
+Division 5A — Claims by dependants and others for compensation
+72C.Terms used
+In this Division —
+approved means approved by the chief executive officer;
+claim means a claim for compensation made under section 72E;
+claimant means a person claiming to be entitled to compensation under clause 7, 8, 9 or 11;
+clause means a clause of Schedule 1A.
+72D.Application of this Division
+(1) This Division applies to compensation that an employer of a worker is liable to pay to or for a person in accordance with Schedule 1A.
+(2) A provision of this Division prevails to the extent, if any, that it is inconsistent with a provision of this Act that is not in this Division.
+72E.Claims for compensation for dependants and others
+(1) A claim for compensation may be made on the employer by, or on behalf of, a claimant.
+(2) Compensation for 2 or more claimants can be the subject of 1 claim.
+(3) A claim must be made in the approved form and must be accompanied by supporting information and documents in accordance with guidelines issued from time to time by WorkCover WA.
+72F.Claims procedure where employer insured
+(1) This section applies if —
+(a) a claim is made on an employer in accordance with section 178(1); and
+(b) the employer is indemnified under a policy of insurance against liability to pay the compensation claimed.
+(2) Before the expiration of 5 full working days after the claim is made the employer must give the claim to the insurer to be dealt with under and in accordance with the policy of insurance.
+Penalty for this subsection: a fine of $1 000.
+(3) On receiving the claim the insurer must give a copy of it to WorkCover WA.
+(4) As soon as is practicable after receiving the claim the insurer must —
+(a) give the claimant and the employer notice that liability is accepted in respect of the compensation claimed; or
+(b) give the claimant and the employer notice that liability is disputed in respect of some or all of the compensation claimed; or
+(c) give the claimant notice that additional information or documents specified in the notice are required in order for a decision to accept or dispute liability for compensation to be made.
+(5) As soon as is practicable after receiving information or documents required under subsection (4)(c) the insurer must give the claimant and the employer —
+(a) notice that liability is accepted in respect of the compensation claimed; or
+(b) notice that liability is disputed in respect of some or all of the compensation claimed.
+(6) A notice given under subsection (4) or (5) must be in the approved form and the insurer must give a copy of the notice to WorkCover WA.
+72G.Claims procedure where employer is self-insured or uninsured
+(1) This section applies if —
+(a) a claim is made on an employer in accordance with section 178(1); and
+(b) the employer (whether in contravention of section 160, in accordance with an exemption under section 164, as a result of the insurer declining to indemnify the employer, or otherwise) is not indemnified by a policy of insurance against liability to pay the compensation claimed.
+(2) On receiving the claim the employer must give a copy of it to WorkCover WA.
+(3) As soon as is practicable after receiving the claim the employer must give the claimant —
+(a) notice that liability is accepted in respect of the compensation claimed; or
+(b) notice that liability is disputed in respect of some or all of the compensation claimed; or
+(c) notice that additional information or documents specified in the notice are required in order for a decision to accept or dispute liability for compensation to be made.
+(4) As soon as is practicable after receiving information or documents required under subsection (3)(c) the employer must give the claimant —
+(a) notice that liability is accepted in respect of the compensation claimed; or
+(b) notice that liability is disputed in respect of some or all of the compensation claimed.
+(5) A notice given under subsection (3) or (4) must be in the approved form and the employer must give a copy of the notice to WorkCover WA.
+72H.Resolution of claim
+(1) In this section —
+response means a notice under section 72F(4) or 72G(3);
+response period means the period of 30 days after the day on which the claim is made on the employer.
+(2) Except as provided in subsection (8), compensation in accordance with Schedule 1A is to be paid only as specified in an order made under subsection (7).
+(3) An application may be made to the Registrar by or on behalf of the claimant for the claim to be determined by an arbitrator.
+(4) The application may be made —
+(a) at any time after the claimant receives a response; or
+(b) if the claimant does not receive a response during the response period, at any time after the end of the response period.
+(5) If the application is made before the claimant receives a response, the application does not affect the continued operation of section 72F(2) to (6) or 72G(2) to (5), whichever are applicable, in relation to the claim.
+(6) If the application is made after the claimant receives a response under section 72F(4)(c) or 72G(3)(c), the application does not affect the continued operation of section 72F(5) or 72G(4), whichever is applicable, in relation to the claim.
+(7) An arbitrator must determine the claim and make an order specifying whether the claimant is entitled to compensation in accordance with Schedule 1A and, if so, the amount of compensation to which the claimant is entitled.
+(8) If an insurer or employer accepts liability in respect of compensation to which a person is entitled under clause 9, the compensation can be paid to the person without an order having been made under subsection (7).
+72I.Manner of payment of lump sum compensation
+(1) If an order (the compensation order) is made under section 72H(7) for the payment of compensation to which a dependant of a deceased worker (the dependant) is entitled under clause 7 or 11, the compensation order must specify whether compensation for the dependant is to be —
+(a) paid to WorkCover WA and applied in the manner specified in the order; or
+(b) paid to the dependant as specified in the order.
+(2) Subsection (3) applies after the making of the compensation order if the compensation order includes provisions of the kind mentioned in subsection (1)(a).
+(3) On application being made to the Registrar, an arbitrator may make an order specifying that the compensation is to be —
+(a) applied otherwise than in the manner specified in the compensation order; or
+(b) paid to the dependant.
+72J.Manner of payment of child’s allowance
+(1) This section applies if an order (the compensation order) is made under section 72H(7) for the payment of compensation to which a dependant of a deceased worker (the dependant) is entitled under clause 8 (the child’s allowance).
+(2) The compensation order must provide for amounts in respect of the child’s allowance to be paid to WorkCover WA by the insurer or employer weekly or at such other intervals as are specified in the order.
+(3) WorkCover WA must make periodic payments of the child’s allowance to the dependant as specified in the compensation order but no payment is to be made in advance of a periodic payment or by way of commutation.
+(4) Payments to and by WorkCover WA under subsections (2) and (3) are to continue as long as the dependant remains entitled to the child’s allowance but, subject to clause 8(6), if the entitlement is based on the dependant being a full-time student payments may be suspended if proof of participation in full-time study is not provided when and in the manner required by WorkCover WA.
+(5) Despite subsections (2) and (4), the liability to make payments under subsection (2) may be fully discharged by the payment to WorkCover WA of an amount calculated in accordance with the regulations as being the full amount of the child’s allowance that will be payable on the assumption that the child’s allowance will be payable to the dependant until the dependant attains the age of 21 years.
+(6) An application by the insurer or employer to pay an amount under subsection (5) may be made to WorkCover WA in the approved form when, or at any time after, the compensation order is made.
+(7) If an amount paid to WorkCover WA under subsection (2) or (5) has been credited to the Trust Account under section 110(2)(b) and the entitlement of the dependant to the child’s allowance ends before the amount has been exhausted by periodic payments under subsection (3), any surplus moneys standing to the credit of the Trust Account must be transferred to the General Account.
+(8) On application being made to the Registrar by or on behalf of the claimant, an arbitrator may make an order varying the terms of the compensation order in relation to a matter mentioned in subsection (2) or (3).
+72K.Effect of recovery of damages on moneys held in Trust Account
+(1) In this section —
+damages means —
+(a)damages due or payable to, or claimed by, a dependant of a deceased worker under the Fatal Accidents Act 1959 for an injury causing the death of the worker; or
+(b)damages due or payable to, or claimed on behalf of, the estate of a deceased worker under the Law Reform (Miscellaneous Provisions) Act 1941 for an injury causing the death of the worker;
+judgment includes an acceptance of an offer to consent to judgment;
+settlement includes —
+(a)a settlement by the acceptance of money paid into court; and
+(b)a memorandum of the terms of a settlement that has been filed under section 92(f);
+trust moneys of a dependant means moneys credited to the Trust Account under section 110(2)(a) or (b) in respect of the dependant.
+(2) Despite anything in this Act, in paying or otherwise applying or dealing with trust moneys of a dependant WorkCover WA must have regard to, and take into account, any judgment or settlement under which damages are payable to the dependant.
+(3) Without limiting subsection (2), a judgment in or settlement of an action for damages may include directions to WorkCover WA as to how trust moneys of a dependant are to be paid or otherwise applied or dealt with and WorkCover WA must give effect to a direction so given.
+(4) Notice must be given to WorkCover WA by or on behalf of the claimant if —
+(a) an action for damages is commenced; or
+(b) judgment is given or settlement takes place in an action for damages.
+(5) A notice given under subsection (4) must be in the approved form.
+72L.Application of Part XI to matters under this Division
+(1) In this section —
+application means an application under section 72H(3), 72I(3) or 72J(8) or clause 8(6) or (7);
+order means an order under section 72H(7), 72I(3) or 72J(8).
+(2) An application must be made in accordance with this Act and the arbitration rules and may be rejected by the Registrar if it does not comply.
+(3) An application can be made and received, and an order can be made, whether or not there is a dispute about liability or the payment of compensation.
+(4) Without limiting section 72D(2), the following provisions do not apply to a claim, application or order —
+(a) Part XI Division 3 Subdivision 2;
+(b) sections 182ZT, 182ZU, 189 and 211(2);
+(c) the conciliation rules.
+7.Section 106 amended
+In section 106(2):
+(a) in paragraph (e) delete “section 101(caa).” and insert:
+section 101(caa); and
+(b) after paragraph (e) insert:
+(f) any moneys required to be transferred to the General Account under section 72J(7).
+8.Section 110 amended
+Delete section 110(2) and insert:
+(2) There shall be credited to the Trust Account —
+(a) all moneys paid to WorkCover WA under section 72I(1)(a); and
+(b) all moneys paid to WorkCover WA under section 72J(2) or (5); and
+(c) all moneys paid to WorkCover WA under section 218.
+9.Section 218 amended
+(1) Delete section 218(1) and insert:
+(1) A question as to the payment of compensation that is payable to a worker under a legal disability to give an effective discharge for payment may be determined on application under this Division as a dispute.
+(2) In section 218(2) delete “person” and insert:
+worker
+(3) Delete section 218(3).
+(4) Delete section 218(4) and insert:
+(4) After it has been ordered under subsection (2) that compensation be paid to WorkCover WA, a question as to whether the compensation should be applied differently may be determined on application under this Division as a dispute.
+Note:The heading to amended section 218 is to read:
+Payment of compensation to person under legal disability
+10.Schedule 1 amended
+(1) Delete the reference after the heading to Schedule 1 and insert:
+[s. 18(1)]
+(2) In Schedule 1 delete clauses 1 to 5.
+(3) In Schedule 1 delete clause 17(2).
+(4) In Schedule 1 clause 19(3) delete “dependants, unless a” and insert:
+person mentioned in Schedule 1A clause 2 who is dependent on the earnings of the worker, unless the
+11.Schedule 1A inserted
+After Schedule 1 insert:
+Schedule 1A — Compensation entitlements when worker has died
+[s. 18(2)]
+Division 1 — Application and terms used
+1.Application of Schedule
+This Schedule applies if —
+(a) an injury of a worker occurs; and
+(b) the worker dies on or after the day on which the Workers’ Compensation and Injury Management Amendment Act 2018 section 6 comes into operation.
+2.Partners, children and prescribed family members
+(1) A person is a partner if —
+(a) the worker is the spouse or de facto partner of the person; or
+(b) the worker has previously been a spouse or de facto partner of the person.
+(2) A person, of any age, is a child if —
+(a) the worker is a parent of the person; or
+(b) the worker is a step-parent of the person (whether the person was legally adopted by the worker or not),
+and children has a corresponding meaning.
+(3) A person is a prescribed family member if —
+(a) the person is a parent of the worker; or
+(b) the person is a step-parent of the worker (whether the worker was legally adopted or not); or
+(c) the worker stands in the place of a parent to the person; or
+(d) the person stands in the place of a parent to the worker; or
+(e) the person is a sibling or half-sibling of the worker; or
+(f) the worker is a grandparent of the person; or
+(g) the person is a grandparent of the worker.
+3.Dependants
+A person who is a partner, child or prescribed family member is a dependant if the person —
+(a) was wholly or in part dependent upon the earnings of the worker at the time of the worker’s death; or
+(b) would have been wholly or in part dependent upon the earnings of the worker at the time of the worker’s death if the injury had not occurred.
+4.Lump sum entitlement
+The lump sum entitlement (LSE) is the amount equal to 250% of the prescribed amount calculated as at the date of the worker’s death.
+5.Child’s allowance
+The child’s allowance is —
+(a) the amount of $133 per week; or
+(b) if regulations made for the purposes of this clause prescribe a different amount per week or provide for a different amount per week to be determined in accordance with the regulations, that amount.
+Division 2 — Entitlements if the worker’s death results from the injury
+6.Application of this Division
+This Division applies if the worker’s death results from the injury.
+7.Lump sum compensation for partners, children and others
+(1) If the worker dies leaving —
+(a) a person described in column 1 of item 1 or 9 in the Table who is a dependant; or
+(b) persons described in column 1 of item 2, 3, 4, 5, 6, 7, 8 or 10 in the Table each of whom is a dependant,
+the person or each of those persons is entitled to, or to a portion of, the lump sum entitlement as determined in accordance with column 2 of that item.
+Table
+Item | Column 1 Dependant or dependants | Column 2 Compensation
+1. | Partners: 1 Children: 0 | 100% of the LSE to the partner
+2. | Partners: 1 Children: 1 | 90% of the LSE to the partner 10% of the LSE to the child
+3. | Partners: 1 Children: 2 to 5 | 5% of the LSE to each child Balance of the LSE to the partner
+4. | Partners: 1 Children: 6 or more | 75% of the LSE to the partner 25% of the LSE divided equally between the children
+5. | Partners: 2 or more Children: None | 100% of the LSE divided so that each partner receives an amount proportionate to the loss of financial support suffered by that partner
+6. | Partners: 2 or more Children: 1 | 90% of the LSE divided between the partners so that each partner receives an amount proportionate to the loss of financial support suffered by that partner 10% of the LSE to the child
+7. | Partners: 2 or more Children: 2 to 5 | 5% of the LSE to each child Balance of the LSE divided between the partners so that each partner receives an amount proportionate to the loss of financial support suffered by that partner
+8. | Partners: 2 or more Children: 6 or more | 75% of the LSE divided between the partners so that each partner receives an amount proportionate to the loss of financial support suffered by that partner 25% of the LSE divided equally between the children
+9. | Partners: None Children: 1 | 100% of the LSE to the child
+10. | Partners: None Children: 2 or more | 100% of the LSE divided equally between the children
+(2) The compensation for a partner or child under subclause (1) applies whether or not the worker dies also leaving any prescribed family member who is a dependant.
+(3) If the worker dies not leaving a partner or child who is a dependant but leaving 1 prescribed family member who is a dependant, that prescribed family member is entitled to an amount that is reasonable and proportionate to the loss of financial support suffered by the prescribed family member, but not exceeding the lump sum entitlement.
+(4) If the worker dies not leaving a partner or child who is a dependant but leaving 2 or more prescribed family members who are dependants, each of those prescribed family members is entitled to an amount that is reasonable and proportionate to the loss of financial support suffered by the prescribed family member, but not exceeding, in total, the lump sum entitlement.
+8.Allowance for children
+(1) This clause applies to a child left by the worker when the worker dies.
+(2) An eligible child is a child who is a dependant and —
+(a) is under the age of 16 years; or
+(b) has attained the age of 16 years but is under the age of 21 years and is a full-time student; or
+(c) is the subject of a determination that is in force under subclause (5) or (6).
+(3) Each eligible child is entitled to the child’s allowance.
+(4) The child’s allowance is in addition to, and does not affect, any compensation for the eligible child under clause 7(1) of this Schedule.
+(5) An arbitrator may, in the arbitrator’s absolute discretion, determine in an order referred to in section 72J(1) that a child who is under the age of 21 years but has attained the age of 16 years and is not a full-time student should receive the child’s allowance by reason of circumstances.
+(6) If —
+(a) the eligibility of a child who has attained the age of 16 years to receive the child’s allowance under an order referred to in section 72J(1) ceases because the child is not a full-time student; and
+(b) the child is under the age of 21 years,
+on application being made to the Registrar an arbitrator may, in the arbitrator’s absolute discretion, determine that the child should continue to receive the child’s allowance by reason of circumstances.
+(7) On application being made to the Registrar an arbitrator may, in the arbitrator’s absolute discretion, revoke a determination made under subclause (5) or (6).
+9.Funeral and medical expenses
+(1) In this clause —
+funeral expenses means expenses properly incurred in relation to the funeral and burial or cremation of the worker and includes fees and charges paid or payable to the Board or local government in which the care, control and management of a cemetery is vested under the Cemeteries Act 1986;
+medical expenses means expenses properly incurred from the time of the injury until the worker’s death in relation to a matter of a kind mentioned in Schedule 1 clause 17(1).
+(2) A person who has incurred funeral expenses is entitled to the amount of the expenses incurred but not exceeding —
+(a) the amount of $9 813; or
+(b) if regulations made for the purposes of this subclause prescribe a different amount or provide for a different amount to be determined in accordance with the regulations, that amount.
+(3) A person who has incurred medical expenses is entitled to the amount of the expenses incurred to the extent that those expenses are reasonable and have not been the subject of compensation paid in accordance with Schedule 1 clause 17.
+Division 3 — Entitlements if the worker’s death does not result from the injury
+10.Application of this Division
+This Division applies if —
+(a) the worker’s death does not result from the injury; and
+(b) the worker has been in receipt of, or was entitled to receive, weekly payments for not less than 6 months immediately preceding the worker’s death; and
+(c) no order for payment of a lump sum in redemption has been made under section 67; and
+(d) no memorandum of agreement for payment of a lump sum in redemption has been recorded under section 76; and
+(e) no memorandum of the terms of a settlement has been filed under section 92(f).
+11.Lump sum compensation for partners and children
+(1) In this clause —
+aggregated amount means the aggregate of weekly payments for total incapacity of the worker at a rate calculated and varied as at the date of the worker’s death for a period of 1 year after the worker’s death;
+eligible person means a person who is a partner or child and is a dependant.
+(2) If the worker dies leaving 1 eligible person, that eligible person is entitled to the aggregated amount.
+(3) If the worker dies leaving 2 or more eligible persons, each of those eligible persons is entitled to a portion of the aggregated amount determined as if —
+(a) item 2, 3, 4, 5, 6, 7, 8 or 10 in the Table to clause 7(1) of this Schedule, whichever is relevant, applied; and
+(b) any reference to the LSE in column 2 of that item was a reference to the aggregated amount.
+12.Schedule 5 amended
+(1) In Schedule 5 clause 1(1) insert in alphabetical order:
+de facto partner includes a former de facto partner of a worker;
+spouse includes a former spouse of a worker;
+(2) In Schedule 5 clause 6(c) delete “clauses 1, 2, 3, 4, 5 and 17(2) of Schedule 1 shall” and insert:
+Schedule 1A does
+(3) In Schedule 5 clause 7(c) delete “clauses 1, 2, 3, 4, 5 and 17(2) of Schedule 1 do” and insert:
+Schedule 1A does
+13.Schedule 8 Division 1 heading inserted
+At the beginning of Schedule 8 insert:
+Division 1 — Workers’ Compensation and Injury Management Amendment Act 2011
+14.Schedule 8 Division 2 inserted
+In Schedule 8 after clause 8 insert:
+Division 2 — Workers’ Compensation and Injury Management Amendment Act 2018
+9.Terms used
+In this Division —
+commencement day means the day of the coming into operation of the Workers’ Compensation and Injury Management Amendment Act 2018 section 6;
+former provisions means the following as in force before the commencement day —
+(a)the definitions in section 5(1) of child’s allowance, de facto partner, dependants, member of a family, notional residual entitlement, NRE amount and spouse;
+(b)sections 18 and 218;
+(c)Schedule 1 heading and clauses 1 to 5 and 17(2);
+(d)Schedule 5 clauses 6(c) and 7(c).
+10.Former provisions apply to deaths before commencement day
+(1) Except as provided in subclause (2), if an injury of a worker occurred and the worker died before the commencement day, the former provisions apply in relation to the injury and death as if they were still in force.
+(2) On and from the commencement day the child’s allowance that a person is entitled to receive under the former provisions as applied by subclause (1) is the child’s allowance as defined in Schedule 1A clause 5.
+Note for this clause:
+The former provisions are set out in Reprint 11 of the Workers’ Compensation and Injury Management Act 1981 as at 13 February 2015.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 additional medical examination66A(1)
-adjacent areaSch. 6 cl. 2(1)- (4)
+adjacent areaSch. 6 cl. 2(1), Sch. 6 cl. 2(2), Sch. 6 cl. 2(3), Sch. 6 cl. 2(4)
 agent261
 agent service261
 agreed93E(1)
@@ -513,18 +788,17 @@ court23A, 182ZH(1)
 Crown14(1)
 damages93A, 159
 date of injury49A
+de facto partner5(1)
 decision5(1)
+decision of a specialised retraining assessment panel146V(9)
 decision of an approved medical specialist146J(2)
 decision of an approved medical specialist panel146O(7)
-decision of a specialised retraining assessment panel146V(9)
 deemed worker159
-de facto partner5(1)
-defendant92, 93(1)(b)
+defendant92, 93(1)
 degree of disability93E(1)
 degree of impairment146
 degree of permanent impairment31B
-degree of permanent whole of person impairment93H(1), 158(1),
-Sch. 1 cl. 18C(3)
+degree of permanent whole of person impairment93H(1), 158(1), Sch. 1 cl. 18C(3)
 dentist5(1)
 dependants5(1)
 designation182C(1), 182ZR(1)
@@ -545,7 +819,7 @@ drug of addiction5(1)
 E175AA(1), 303A(1)
 earnings5(1), 10A(1), Sch. 1 cl. 11(2)
 election registration day93H(1)
-employer5(1), 59(1), 93AC(a), 154A(2)(a)
+employer5(1), 59(1), 93AC, 154A(2)
 estimate5(1)
 event93H(2), 158(2), Sch. 1 cl. 18C(4)
 FES employment49A
@@ -560,15 +834,15 @@ hazardous firefighting employment49A
 hearing259(1)
 HIV31F(1), 93Q(8)
 impairment31G(1)
+in respect of the injury or injuries93P(3)
 incorporated insurance office161(1)
 industrial agreement5(1)
 industrial award5(1)
 industrial disease premium5(1)
-information111A(4), 182R(1)(a)
-injury5(1), 93AC(a), 180(1)
+information111A(4), 182R(1)
+injury5(1), 93AC, 180(1)
 injury management5(1)
 injury management system155
-in respect of the injury or injuries93P(3)
 inspector5(1)
 insurable damages159
 Insurance Commission of Western Australia 5(1)
@@ -581,7 +855,7 @@ licensed facility11A(1)
 licensed jockey11A(1)
 licensed trainer11A(1)
 loss of25
-LPI5(1), 93F(8)(b)(i)
+LPI5(1), 93F(8)
 March CPI5A(2)
 medical assessment panel5(1)
 medical practitioner5(1)
@@ -598,7 +872,7 @@ noise induced hearing loss5(1)
 non-FES employment49A
 normal evaluation93M(5), 93N(6), 146C(3)
 notifiable person182(2)
-notification day93EC(b)(i)
+notification day93EC
 notional residual entitlement5(1)
 NRE amount5(1)
 overtimeSch. 1 cl. 11(2)
@@ -618,12 +892,12 @@ prescribed amount5(1), Sch. 1 cl. 18A(1d)
 prescribed Commonwealth award or agreement83(2A)
 prescribed workplaceSch. 7 cl. 1
 primary power212
-principal175(1), 175(6)(a)
+principal175(1), 175(6)
 proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
 prohibited drug31F(1), 93Q(8)
 prohibited person182S(4), 195(4A)
 qualifying period49A
-reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA), Sch. 1 cl. 18D(1A)
+reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA) and 18D(1A)
 redemption amountSch. 5 cl. 1(1)
 registered agent5(1)
 registered club11A(1)
@@ -669,12 +943,12 @@ tributer5(1)
 Trust Account5(1)
 vocational rehabilitation5(1)
 W175AA(1)
-weekly earningsSch. 1 cl. 11(1) and 14
+weekly earningsSch. 1 cl. 11(1), Sch. 1 cl. 14
 weekly paymentsSch. 5 cl. 3(2)
 weekly payments of compensation5(1)
 WorkCover Guides5(1)
 WorkCover WA5(1), 314(2)
-worker5(1), 8, 9, 10(a), 11A(2), 93AC(a)
+worker5(1), 8, 9, 10, 11A(2), 93AC
 workers’ compensation cover170(7)
 working director10A(1)
 By Authority: KEVIN J. McRAE, Government Printer
