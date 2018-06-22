@@ -1,5 +1,5 @@
 ## The Sixth Schedule
-[Heading inserted by No. 16 of 1956.]
+[Heading inserted: No. 16 of 1956.]
 [s. 47(1a)]
 Western Australia
 Evidence Act 1906
@@ -21,4 +21,4 @@ Before me
 A person having authority to take affidavits in
 ......................................................................................................................
 ((a) Designation of court) ((b) Parties) ((c) Description of legal proceedings, e.g. “an action”, “a prosecution notice”, “an indictment”) ((d) Designation of department)
-[The Sixth Schedule inserted by No. 16 of 1956; amended by No. 84 of 2004 s. 80.]
+[The Sixth Schedule inserted: No. 16 of 1956; amended: No. 84 of 2004 s. 80.]

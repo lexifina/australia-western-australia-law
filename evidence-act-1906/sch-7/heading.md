@@ -1,8 +1,8 @@
 ## Schedule 7
 (Section 106A)
-[Heading inserted by No. 36 of 1992 s. 10.]
+[Heading inserted: No. 36 of 1992 s. 10.]
 ## Part A
-[Heading inserted by No. 36 of 1992 s. 10.]
+[Heading inserted: No. 36 of 1992 s. 10.]
 1.(1)A proceeding comes within the provisions of this Schedule if —
 (a) it is a proceeding in which a person stands charged with an offence under a section or Chapter of The Criminal Code mentioned in Part B or C or under a repealed Code section or a section of the Prostitution Act 2000 mentioned in Part B —
 (i) whether as a single offence or together with any other offence as an additional or alternative count; and
@@ -19,9 +19,9 @@ repealed Code section means a repealed section of The Criminal Code that, before
 (b) a person who is or was, at the time when the offence was committed, living in the same household as the complainant; or
 (c) a person who at any time had the care of, or exercised authority over, the complainant in the household on a regular basis,
 and it is immaterial whether a relationship referred to in paragraph (a) is of the whole blood or of the half blood.
-[Part A inserted by No. 36 of 1992 s. 10; amended by No. 17 of 2000 s. 64; No. 71 of 2000 s. 30; No. 34 of 2004 s. 251; No. 46 of 2004 s. 29.]
+[Part A inserted: No. 36 of 1992 s. 10; amended: No. 17 of 2000 s. 64; No. 71 of 2000 s. 30; No. 34 of 2004 s. 251; No. 46 of 2004 s. 29.]
 ## Part B
-[Heading inserted by No. 17 of 2000 s. 64.]
+[Heading inserted: No. 17 of 2000 s. 64.]
 Chapter or section | Matter to which Chapter or section relates
 The Criminal Code
 181 | Carnal knowledge of animal
@@ -39,9 +39,9 @@ Prostitution Act 2000
 18 | Agreement for prostitution by a child
 20 | Prostitution at place where child present
 21 | Allowing child to be at place involving prostitution
-[Part B inserted by No. 17 of 2000 s. 64; amended by No. 3 of 2002 s. 35(2).]
+[Part B inserted: No. 17 of 2000 s. 64; amended: No. 3 of 2002 s. 35(2).]
 ## Part C
-[Heading inserted by No. 36 of 1992 s. 10.]
+[Heading inserted: No. 36 of 1992 s. 10.]
 Chapter or section | Matter to which Chapter or section relates
 XXVIII | Homicide; suicide; concealment of birth
 292 | Disabling in order to commit indictable offence
@@ -58,4 +58,4 @@ XXVIII | Homicide; suicide; concealment of birth
 332 | Kidnapping
 333 | Deprivation of liberty
 347 | Child stealing
-[Part C inserted by No. 36 of 1992 s. 10; amended by No. 82 of 1994 s. 13(4)(b); No. 4 of 2004 s. 24; No. 84 of 2004 s. 41 and 82.]
+[Part C inserted: No. 36 of 1992 s. 10; amended: No. 82 of 1994 s. 13(4)(b); No. 4 of 2004 s. 24; No. 84 of 2004 s. 41 and 82.]
