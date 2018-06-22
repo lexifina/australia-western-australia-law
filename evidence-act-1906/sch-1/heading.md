@@ -1,8 +1,8 @@
 ## The Second Schedule
 [Section 9]
-[Heading inserted by No. 48 of 1991 s. 10.]
+[Heading inserted: No. 48 of 1991 s. 10.]
 ## Part 1 — Offences under The Criminal Code
-[Heading inserted by No. 48 of 1991 s. 10.]
+[Heading inserted: No. 48 of 1991 s. 10.]
 Provision | Description of offence
 s. 58 | Threatening a person who is to give, or has given, evidence before Parliament
 s. 68 | Going armed in public so as to cause fear
@@ -75,9 +75,9 @@ s. 455 | Attempting to cause explosion likely to do serious damage to property
 s. 456 | Attempts to damage or obstruct mines
 s. 457 | Interfering with marine signals
 s. 458 | Interfering with navigation works
-[Part 1 inserted by No. 48 of 1991 s. 10; amended by No. 14 of 1992 s. 15(2); No. 82 of 1994 s. 13(4)(a); No. 69 of 1996 s. 31; No. 15 of 1998 s. 6(1); No. 23 of 2001 s. 10(3); No. 3 of 2002 s. 41(3); No. 4 of 2004 s. 24, 26 and 61(6); No. 2 of 2008 s. 55; No. 29 of 2008 s. 33.]
+[Part 1 inserted: No. 48 of 1991 s. 10; amended: No. 14 of 1992 s. 15(2); No. 82 of 1994 s. 13(4)(a); No. 69 of 1996 s. 31; No. 15 of 1998 s. 6(1); No. 23 of 2001 s. 10(3); No. 3 of 2002 s. 41(3); No. 4 of 2004 s. 24, 26 and 61(6); No. 2 of 2008 s. 55; No. 29 of 2008 s. 33.]
 ## Part 2 — Offences under the Road Traffic Act 1974
-[Heading inserted by No. 48 of 1991 s. 10.]
+[Heading inserted: No. 48 of 1991 s. 10.]
 Provision | Description of offence
 s. 54 | Failure to stop when a vehicle is involved in an accident
 s. 56 | Failure to report an accident involving a vehicle whereby bodily injury is caused
@@ -86,21 +86,21 @@ s. 59 | Dangerous driving causing death or grievous bodily harm
 s. 59A | Dangerous driving causing bodily harm
 s. 60 | Reckless driving
 s. 61 | Dangerous driving
-[Part 2 inserted by No. 48 of 1991 s. 10.]
-[Part 3 deleted by No. 70 of 2004 s. 82.]
+[Part 2 inserted: No. 48 of 1991 s. 10.]
+[Part 3 deleted: No. 70 of 2004 s. 82.]
 ## Part 4 — Offences under the Children and Community Services Act 2004
-[Heading inserted by No. 34 of 2004 s. 251.]
+[Heading inserted: No. 34 of 2004 s. 251.]
 Provision | Description of offence
 s. 101(1) | Failing to protect child from harm
 s. 102 | Leaving child unsupervised in vehicle
-[Part 4 inserted by No. 34 of 2004 s. 251.]
+[Part 4 inserted: No. 34 of 2004 s. 251.]
 ## Part 5 — Offences under the Misuse of Drugs Act 1981
-[Heading inserted by No. 48 of 1991 s. 10.]
+[Heading inserted: No. 48 of 1991 s. 10.]
 Provision | Description of offence
 s. 6(1) | Indictable offences concerned with prohibited drugs
 s. 7(1) | Indictable offences concerned with prohibited plants
 s. 33(1) | Attempting to commit an indictable offence under section 6(1) or 7(1)
 s. 33(2) | Conspiring with another to commit an indictable offence under section 6(1) or 7(1)
 s. 33(3) | Inciting another to commit, or becoming an accessory after the fact to, a crime under section 6(1) or 7(1)
-[Part 5 inserted by No. 48 of 1991 s. 10; amended by No. 62 of 2004 s. 9(2).]
-[The Third Schedule deleted by No. 70 of 1988 s. 44.]
+[Part 5 inserted: No. 48 of 1991 s. 10; amended: No. 62 of 2004 s. 9(2).]
+[The Third Schedule deleted: No. 70 of 1988 s. 44.]

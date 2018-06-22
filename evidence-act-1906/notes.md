@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 22 June 2018 of the Evidence Act 1906 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Evidence Act 1906 | 28 of 1906 (6 Edw. VII No. 28) | 14 Dec 1906 | 14 Dec 1906
@@ -109,11 +109,13 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 11 
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 4 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Evidence Amendment Act 2016 | 31 of 2016 | 3 Oct 2016 | s. 1 and 2: 3 Oct 2016 (see s. 2(a)); Act other than s. 1 and 2: 19 Nov 2016 (see s. 2(b) and Gazette 18 Nov 2016 p. 5219)
 Statutes (Minor Amendments) Act 2017 s. 9 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
-Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 11 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 17: The Evidence Act 1906 as at 22 Jun 2018 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Other notes
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 11 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
@@ -129,7 +131,7 @@ amended provisions means —
 (d)the Sentencing Act 1995,
 as amended by this Act.
 The amendment in the Land Information Authority Act 2006 s. 133 to the Fifth Schedule is not included because the entry it sought to amend had been amended by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 37.
-The Evidence Act Amendment Act 1974 is not included as it was repealed by the Evidence Amendment Act 1987 s. 10.
+The Evidence Act Amendment Act 1974 is not included as it was repealed before it came into operation by the Evidence Amendment Act 1987 s. 10.
 The Acts Amendment (Abortion) Act 1998 s. 6(2) reads as follows:
 (2) In relation to an offence committed before the commencement of this Act, the Evidence Act 1906 applies as if subsection (1) had not been enacted.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 14(2) reads as follows:
@@ -176,27 +178,6 @@ fee regulations means regulations 6(2) and 13 of the Evidence (Witnesses’ and 
 (2) Any payment purporting to have been made under the fee regulations before the coming into operation of section 28 is taken to have been, and to have always been, as valid as it would have been if section 28 had come into operation before the fee regulations were made.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to s. 56(1) is not included because that subsection was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
 The amendment in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to s. 106A is not included because the paragraph it sought to amend had been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
-31.Evidence Act 1906 amended
-(1) The amendments in this section are to the Evidence Act 1906.
-(2) Section 36A(1) paragraph (a) of the definition of sexual offence is amended as follows:
-(a) by deleting “or 191(1)(a)”;
-(b) by deleting “Prostitution Act 2000;” and inserting instead —
-“ Sexual Services Act 2000; ”.
-(3) Schedule 7 Part A clause 1(a) is amended by deleting “Prostitution Act 2000” and inserting instead —
-“ Sexual Services Act 2000 ”.
-(4) Schedule 7 Part B is amended as follows:
-(a) by deleting the entry relating to section 191 of The Criminal Code;
-(b) by deleting “Prostitution Act 2000” and inserting instead —
-“ Sexual Services Act 2000 ”;
-(c) by deleting “prostitute” in each place where it occurs and inserting instead —
-“ sex worker ”;
-(d) by deleting the entries relating to sections 17, 18, 20 and 21 of the Prostitution Act 2000 and inserting instead —
-17 | Obtaining payment for commercial sexual act by a child
-18 | Agreement for child to act as a sex worker
-20 | Commercial sexual act at place where child present
-21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
-21A | Obligations of those who operate sexual service business in relation to children
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -219,14 +200,14 @@ business record79B
 child106A
 colony3
 Commonwealth3
-complainant19A(1), 36A(1), 36C(4)
-confidant20A(1), 20A(1)
+complainant19A(1)(a), 36A(1), 36C(4)
+confidant20A(1)
 confider20E(1)
 corroboration warning50(1)
 counsel106A
 counselling communication19A(1)
 counsellor19A(1)
-counsels19A(1), 19A(2)
+counsels19A(1)(a) and (2)
 court3, 79B
 criminal organisation106A
 criminal organisation offence106A
