@@ -1,5 +1,5 @@
 Notes about the Fair Trading Act 2010
-This is a compilation of the Fair Trading Act 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 22 June 2018 of the Fair Trading Act 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fair Trading Act 2010 | 57 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
@@ -13,38 +13,26 @@ Travel Agents Amendment and Expiry Act 2014 s. 8 | 21 of 2014 | 29 Aug 2014 | 25
 Consumer Protection Legislation Amendment Act 2014 Pt. 4 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 12 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Statutes (Repeals) Act 2016 Pt. 4 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
-1aaThe Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 read as follows:
+Reprint 2: The Fair Trading Act 2010 as at 22 Jun 2018 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
+Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
+The effect of s. 36(2) and (3) is altered by the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5, which read as follows:
 4.Operation of section 73(1) altered
 Delete section 73(1)(c)(ii) and insert:
 (ii) between 6 pm and midnight.
 5.Operation of section 170(1) altered
 Delete section 170(1)(c)(ii) and insert:
 (ii) between 6 pm and midnight.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
-Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
 83.Fair Trading Act 2010 amended
 (1) This section amends the Fair Trading Act 2010.
 (2) In Schedule 1 delete “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976”.
-[Section 83 amended by No. 58 of 2010 s. 192(7).]
-4-6Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 12 and Pt. 5 Div. 7 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 12 — Fair Trading Act 2010 amended
-135.Act amended
-This Division amends the Fair Trading Act 2010.
-136.Section 15 amended
-Delete section 15(3).
-137.Section 34 deleted
-Delete section 34.
-138.Schedule 1 amended
-In Schedule 1 delete the item relating to the Health Act 1911 and insert:
-Food Act 2008
-Health (Miscellaneous Provisions) Act 1911
+[Section 83 amended: No. 58 of 2010 s. 192(7).]
+On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 7 — Fair Trading Act 2010 amended
 290.Act amended
@@ -54,12 +42,12 @@ This Division amends the Fair Trading Act 2010.
 (2) In Schedule 1 insert in alphabetical order:
 Public Health Act 2016
 ## Note — Australian Consumer Law (WA) text
-[This note is not part of the Fair Trading Act 2010 (the Act). Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
-(a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 1 January 2013 (but as modified by section 36 of the Act); and
+[This note is not part of the Act. Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
+(a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 1 January 2013 (as modified by section 36 of the Act); and
 (b)the regulations made under section 139G the Cwth Act, as those regulations are in force from time to time.
 Regulations may also be made under section 116(3) of the Act that alter the operation of certain provisions of the Australian Consumer Law (WA).
-This note shows the version of the text of Schedule 2 to the Cwth Act, as in force on 1 January 2013 (but as modified by section 36 of the Act and any regulations made under section 116(3) of the Act) that, together with the regulations made under section 139G of the Cwth Act, applies as the Australian Consumer Law (WA).
-The text of the regulations made under section 139G of the Cwth Act is not reproduced. The regulations can be accessed at www.comlaw.gov.au].
+This note shows the version of the text of Schedule 2 to the Cwth Act, as in force on 1 January 2013 (as modified by section 36 of the Act and regulations made under section 116(3) of the Act) that, together with the regulations made under section 139G of the Cwth Act, applies as the Australian Consumer Law (WA).
+The text of the regulations made under section 139G of the Cwth Act is not reproduced. The regulations can be accessed at www.comlaw.gov.au.]
 ## Chapter 1 — Introduction
 ### 1. Application of this Schedule
 This Schedule applies to the extent provided by:
@@ -1201,7 +1189,7 @@ Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (a)was given by the person to the dealer or a person acting on the dealer’s behalf; and
 (b)was not given in the presence of the dealer or a person acting on the dealer’s behalf.
 Note:The Do Not Call Register Act 2006 may apply to a telephone call made for the purpose of negotiating an unsolicited consumer agreement.
-[Section 73 modified by No. 57 of 2010 s. 36(2); altered by the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4.]
+[Section 73 modified: No. 57 of 2010 s. 36(2); altered: the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4.]
 ### 74. Disclosing purpose and identity
 A dealer who calls on a person for the purpose of negotiating an unsolicited consumer agreement, or for an incidental or related purpose, must, as soon as practicable and in any event before starting to negotiate:
 (a)clearly advise the person that the dealer’s purpose is to seek the person’s agreement to a supply of the goods or services concerned; and
@@ -2413,7 +2401,7 @@ Penalty:
 (a)was given by the person to the dealer or a person acting on the dealer’s behalf; and
 (b)was not given in the presence of the dealer or a person acting on the dealer’s behalf.
 (3)Subsection (1) is an offence of strict liability.
-[Section 170 modified by No. 57 of 2010 s. 36(3); altered by the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 5.]
+[Section 170 modified: No. 57 of 2010 s. 36(3); altered: the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 5.]
 ### 171. Disclosing purpose and identity
 (1)A dealer commits an offence if the dealer:
 (a)calls on a person for the purpose of negotiating an unsolicited consumer agreement, or for an incidental or related purpose; and
@@ -3766,14 +3754,10 @@ the following amounts may be recovered in the joint liability proceedings (to th
 (iii)prior negotiations or arrangements in relation to the acquisition of the goods were conducted or made with the consumer by or on behalf of the supplier; and
 (iv)the credit provider did not take physical possession of the goods before they were delivered to the consumer; or
 (b)the supply of services to the consumer by a person in relation to whom the credit provider is not a linked credit provider.
-Notes about the Australian Consumer Law text
-[This note is not part of the Act.
-Section 19(1) provides that the Australian Consumer Law text that, under section 19(2), applies as the Australian Consumer Law (WA) consists of:
-(a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth), as in force on 1 January 2013 (but as modified by section 36); and
-(b)the regulations made under section 139G of that Act, as those regulations are in force from time to time.
-Regulations may also be made under the Fair Trading Act 2010 section 116(3) that alter the operation of certain provisions of the Australian Consumer Law (WA).
+Notes about the Australian Consumer Law (WA) text
+This note shows the version of the text of Schedule 2 to the Cwth Act, as in force on 1 January 2013, as modified by section 36 of the Act and the regulations made under section 116(3) of the Act referred to in the following table. The text of the regulations made under section 139G of the Cwth Act is not reproduced. The regulations can be accessed at www.comlaw.gov.au.
 Compilation table
-Short title | Number and year | Assent | Commencement
+Citation | Commencement
 Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 as published in Gazette 17 Apr 2014 | 18 Apr 2014 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -3806,7 +3790,7 @@ investigator 63
 judicial member83(5)
 jurisdiction17(1)
 law17(1)
-liability114(1), 115(1)
+liability114(1)(b), 115(1)
 modifications17(1)
 motor vehicle63
 other jurisdiction27
@@ -3815,14 +3799,14 @@ person A95(4), 99(2)
 person B95(4)
 personal information112(1)
 President83(5)
-principal111(1), 111(2)
+principal111(1) and (2)
 provision6
 publish62(1)
 registration Act88A
 regulated activity88A
 regulated person88A, 112(1)
 regulator22
-renewal day38(2)
+renewal day38(2)(a)
 respondent106(4)
 re-supply6
 services6, 8(1)
@@ -3835,4 +3819,4 @@ Territory17(1)
 this jurisdiction17(1)
 trade or commerce6
 transitional matter117(2)
-variation day38(2)
+variation day38(2)(b)
