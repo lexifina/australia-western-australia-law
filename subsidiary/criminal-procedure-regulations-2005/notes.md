@@ -35,8 +35,10 @@ Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 2 | 
 Attorney General Regulations Amendment (Family Violence Restraining Orders) Regulations 2017 Pt. 4 | 27 Jun 2017 p. 3432-5 | 1 Jul 2017 (see r. 2(b))
 Attorney General Regulations Amendment Regulations 2017 Pt. 2 | 4 Aug 2017 p. 4313-14 | 5 Aug 2017 (see r. 2(b))
 Criminal Procedure Amendment Regulations 2017 | 25 Aug 2017 p. 4568-9 | r. 1 and 2: 25 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2017 (see r. 2(b))
+Criminal Procedure Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2421-4 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
+The Criminal Procedure Amendment Regulations 2018 were repealed by the Criminal Procedure Amendment Regulations (No. 2) 2018 regulation 9 before they came into operation, see Gazette 26 June 2018 p. 2421-4.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
