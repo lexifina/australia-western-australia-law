@@ -22,6 +22,26 @@ Local Government (Financial Management) Amendment Regulations (No. 2) 2012 | 29 
 Reprint 3: The Local Government (Financial Management) Regulations 1996 as at 7 Dec 2012 (includes amendments listed above)
 Local Government (Financial Management) Amendment Regulations 2013 | 21 Jun 2013 p. 2450-2 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2013 (see r. 2(b))
 Local Government (Financial Management) Amendment Regulations 2017 | 12 May 2017 p. 2469 | r. 1 and 2: 12 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 13 May 2017 (see r. 2(b))
+Local Government Regulations Amendment (Auditing) Regulations 2018 Pt. 3 (other than r. 13 and 14) | 26 Jun 2018 p. 2384-9 | 27 Jun 2018 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Local Government Regulations Amendment (Auditing) Regulations 2018 r. 13 and 14 | 26 Jun 2018 p. 2384-9 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, the Local Government Regulations Amendment (Auditing) Regulations 2018 r. 13 and 14had not come into operation. They read as follows:
+13.Regulation 17A amended
+(1) In regulation 17A(1) insert in alphabetical order:
+carrying amount, in relation to an asset, means the carrying amount of the asset determined in accordance with the AAS;
+(2) Delete regulation 17A(4) and (5) and insert:
+(4) A local government must revalue an asset of the local government —
+(a) whenever the local government is of the opinion that the fair value of the asset is likely to be materially different from its carrying amount; and
+(b) in any event, within a period of at least 3 years but no more than 5 years after the day on which the asset was last valued or revalued.
+(5) An asset is to be excluded from the assets of a local government if the fair value of the asset as at the date of acquisition by the local government is under $5 000.
+14.Regulation 17B inserted
+After regulation 17A insert:
+17B.CEO to take steps to protect excluded portable and attractive assets
+A CEO must take all reasonable steps to prevent the theft or loss of —
+(a) a non-consumable asset that is susceptible to theft or loss due to its portable nature and attractiveness for personal use or resale; and
+(b) an asset referred to in regulation 17A(5).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
