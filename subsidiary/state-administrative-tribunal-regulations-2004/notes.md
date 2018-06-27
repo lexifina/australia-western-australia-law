@@ -35,6 +35,7 @@ State Administrative Tribunal Amendment Regulations (No. 3) 2016 | 13 Jan 2017 p
 Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 5 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Reprint 5: The State Administrative Tribunal Regulations 2004 as at 12 Jan 2018 (includes amendments listed above)
+State Administrative Tribunal Amendment Regulations 2018 | 26 Jun 2018 p. 2382-3 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
