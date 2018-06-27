@@ -1,6 +1,6 @@
 ## Schedule 5 — O’Connor Industrial Area
 [r. 138A]
-[Heading inserted in Gazette 23 Dec 2014 p. 4926.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4926.]
 The O’Connor Industrial Area is the area bordered by —
 •South Street between the intersections of South Street and Ladner Way and South Street and Hines Road;
 •Hines Road between the intersections of Hines Road and South Street and Hines Road and Clarke Street;
@@ -15,4 +15,4 @@ The O’Connor Industrial Area is the area bordered by —
 •Winterburn Way until it reaches Ladner Street;
 •Ladner Street between the intersections of Ladner Street and Winterburn Way and Ladner Street and South Street.
 For information purposes the area described above is shown on the following map.
-[Schedule 5 inserted in Gazette 23 Dec 2014 p. 4926-7.]
+[Schedule 5 inserted: Gazette 23 Dec 2014 p. 4926-7.]

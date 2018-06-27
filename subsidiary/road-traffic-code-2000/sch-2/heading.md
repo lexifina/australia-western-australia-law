@@ -59,4 +59,4 @@ Truck lane sign (regs 3, 135) | Trucks and buses low gear sign (reg 90)
 Trucks must enter sign (reg 87) | Trucks use left lane sign (reg 137)
 Truck zone sign (arrow and background to words in red) (regs 3, 152) | Two-way sign (regs 80, 118)
 U turn permitted sign (regs 31, 72) | Works zone sign (arrow and background to words in red) (regs 3, 153)
-[Schedule 2 amended in Gazette 13 Jul 2001 p. 3474-5; 11 Jan 2002 p. 52; 29 Dec 2006 p. 5924; 8 Feb 2008 p. 320; 13 Nov 2009 p. 4609-12.]
+[Schedule 2 amended: Gazette 13 Jul 2001 p. 3474-5; 11 Jan 2002 p. 52; 29 Dec 2006 p. 5924; 8 Feb 2008 p. 320; 13 Nov 2009 p. 4609-12.]

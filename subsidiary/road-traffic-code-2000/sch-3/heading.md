@@ -39,4 +39,4 @@ Taxi zone sign (arrow, edge and words in red) (regs 3, 154) | Trucks and buses l
 Trucks and buses low gear sign (yellow lights) (reg 90) | Trucks must enter sign (reg 87)
 Trucks use left lane sign (reg 137) | Truck zone sign (arrow and words in red) (regs 3, 152)
 Two-way sign (regs 80, 118) | Works zone sign (arrow and words in red) (regs 3, 153)
-[Schedule 3 amended in Gazette 13 Nov 2009 p. 4612-15.]
+[Schedule 3 amended: Gazette 13 Nov 2009 p. 4612-15.]
