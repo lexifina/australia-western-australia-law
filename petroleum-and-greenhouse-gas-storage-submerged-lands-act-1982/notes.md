@@ -3,7 +3,7 @@ This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes t
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Submerged Lands) Act 1982 | 33 of 1982 | 27 May 1982 | 14 Feb 1983 (see s. 2(1))
-Acts Amendment (Petroleum) Act 1990 Pt. IV 7-13 | 12 of 1990 (as amended by No. 28 of 1994 Pt. 2) | 31 Jul 1990 | 1 Oct 1990 (see s. 2 and Gazette 28 Sep 1990 p. 5099)
+Acts Amendment (Petroleum) Act 1990 Pt. IV 9-15 | 12 of 1990 (as amended by No. 28 of 1994 Pt. 2) | 31 Jul 1990 | 1 Oct 1990 (see s. 2 and Gazette 28 Sep 1990 p. 5099)
 Reprint of the Petroleum (Submerged Lands) Act 1982 as at 24 Mar 1992 (includes amendments listed above)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Land (Titles and Traditional Usage) Act 1993 s. 45 | 21 of 1993 | 2 Dec 1993 | 2 Dec 1993 (see s. 2)
@@ -35,10 +35,21 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 201
 Petroleum (Submerged Lands) Amendment Act 2011 | 57 of 2011 | 30 Nov 2011 | s. 1 and 2: 30 Nov 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2012 (see s. 2(b) and Gazette 30 Dec 2011 p. 5537)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 7 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Petroleum Legislation Amendment Act 2017 Pt. 3 | 7 of 2017 | 14 Sep 2017 | 15 Nov 2017 (see s. 2(b) and Gazette 14 Nov 2017 p. 5597)
+Reprint 5: The Petroleum (Submerged Lands) Act 1982 as at 29 Jun 2018 (includes amendments listed above)
+Repealed by the Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011 Sch 4 Part 1 (Cwlth).
+The title of the Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003 (Cwlth) was changed to the Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003 (Cwlth) by the Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 1) Act 2011 (Cwlth) Sch. 1 it. 2.
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
-Footnote no longer applicable.
-Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009. Now see Fair Work Act 2009 (Commonwealth).
+Schedule 3 Division 2 clause 6 expired on 1 Jan 2013. It reads as follows:
+6.Interpretation of references to Safety Authority in regulations
+(1) This clause applies to these regulations —
+(a) the Petroleum (Submerged Lands) (Diving Safety) Regulations 2007;
+(b) the Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 2007;
+(c) the Petroleum (Submerged Lands) (Occupational Safety and Health) Regulations 2007;
+(d) the Petroleum (Submerged Lands) (Pipelines) Regulations 2007.
+(2) On and from the commencement of the Petroleum (Submerged Lands) Amendment Act 2011 section 12, a reference in the regulations to which this clause applies to the Safety Authority is to be taken, unless the context otherwise requires, to be a reference to the Minister.
+(3) This clause expires 12 months after the commencement referred to in subclause (2).
+Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The amendment in the Petroleum Safety Act 1999 s. 92 was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before the amendment purported to come into operation.
 The Acts Amendment (Petroleum) Act 1990 s. 191(2) (as amended by the Acts Amendment (Petroleum) Act 1994 s. 3) reads as follows:
 (2) Notwithstanding anything in the principal Act —
@@ -153,16 +164,6 @@ The Acts Amendment (Petroleum) Act 1990 s. 218(2) and (3) read as follows:
 The Land (Titles and Traditional Usage) Act 1993 Sch. 1 Pt. 4 cl. 5(2) reads as follows:
 (2) Division 4A inserted by subsection (1) does not apply to an application for approval lodged before the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Schedule 3 Division 2 clause 6 expired on 1 Jan 2013. It reads as follows:
-6.Interpretation of references to Safety Authority in regulations
-(1) This clause applies to these regulations —
-(a) the Petroleum (Submerged Lands) (Diving Safety) Regulations 2007;
-(b) the Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 2007;
-(c) the Petroleum (Submerged Lands) (Occupational Safety and Health) Regulations 2007;
-(d) the Petroleum (Submerged Lands) (Pipelines) Regulations 2007.
-(2) On and from the commencement of the Petroleum (Submerged Lands) Amendment Act 2011 section 12, a reference in the regulations to which this clause applies to the Safety Authority is to be taken, unless the context otherwise requires, to be a reference to the Minister.
-(3) This clause expires 12 months after the commencement referred to in subclause (2).
-[Clause 6 inserted by No. 57 of 2011 s. 15.]
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -213,7 +214,6 @@ documentary information152A
 employeeSch. 5 cl. 3
 employerSch. 5 cl. 3
 equipment supplierSch. 5 cl. 14(1)
-existing pipelineSch. 5 cl. 82(4)
 explore for petroleum19(2)
 facility4(1), Sch. 5 cl. 3 and 4(9)
 federal duty145A(3)
@@ -255,7 +255,7 @@ operator98(1), Sch. 5 cl. 3
 operator’s representativeSch. 5 cl. 3 and 5(1)
 original licence51(1)
 ostensible supplierSch. 5 cl. 12(2)
-other area9(7A), (8A) and (8E)
+other area9(7A) and (8E)(a)
 other licence area9(6)
 ownSch. 5 cl. 3
 partly cancelled4(1)
@@ -269,7 +269,6 @@ petroleum mining sample152A
 petroleum pool4(1)
 petroleum title103A(1), 112(13)
 pipeline4(1)
-pipeline licence4(1), Sch. 5 cl. 82(4)
 pipeline licensee4(1)
 pipeline operator under the Commonwealth Act or a corresponding law64(5), 65(13)
 place4(1)
@@ -292,9 +291,9 @@ regulations4(1), Sch. 5 cl. 3
 relevant area27A(2), 31(7), 38CD(2), 46(7), 51A(2), 103A(2)
 relevant licence54(4) and (5)
 relevant personSch. 5 cl. 7
-relevant petroleum title103A(5) and (6)
-relevant section 17 blocks27A(5) and (6), 38CD(2), 51A(2)
-relevant time27A(3) and (4), 38CD(3) and (4), 51A(3) and (4), 103A(3) and (4)
+relevant petroleum title103A(5), 103A(6)
+relevant section 17 blocks27A(5)(b) and (6)(b), 38CD(2)(d), 51A(2)(d)
+relevant time 27A(3)(b) and (4)(b), 38CD(3)(b) and(4)(b), 51A(3)(b) and (4)(b), 103A(3)(b) and (4)(b)
 relinquished area4(1)
 responsible personSch. 5 cl. 37(2) and 61(1)
 reviewing authoritySch. 5 cl. 22(5) and 65(10)
@@ -312,8 +311,6 @@ supervisorSch. 5 cl. 43(1)
 tank station4(1)
 terminal station4(1)
 territorial sea4(1)
-the Barrow Island PipelineSch. 5 cl. 82(4)
-the Withnell Bay PipelineSch. 5 cl. 82(4)
 this Act106(1), 126(4)
 this Part106(1)
 this ScheduleSch. 5 cl. 82(4)
