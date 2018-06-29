@@ -1,6 +1,6 @@
 ## Schedule 2 — Scheduled area for Western Australia
 [s. 4]
-[Heading inserted by No. 42 of 2010 s. 168.]
+[Heading inserted: No. 42 of 2010 s. 168.]
 Note:
 Regulations referred to in section 10(5) prescribe a datum for the purposes of this Schedule.
 The scheduled area for Western Australia is the area the boundary of which commences at a point that is the intersection of the coastline at mean low water by the boundary between the States of South Australia and Western Australia and runs thence southerly along the geodesic to a point of Latitude 31° 44′ 55.02″ South, Longitude 129° 00′ 05.08″ East:
@@ -70,4 +70,4 @@ The scheduled area for Western Australia is the area the boundary of which comme
 (zzn) thence southerly along the geodesic to a point of Latitude 14° 37′ 24.91″ South, Longitude 129° 01′ 49.38″ East; and
 (zzo) thence southerly along the geodesic to the intersection of the coastline at mean low water by the boundary between the Northern Territory of Australia and the State of Western Australia; and
 (zzp) thence along the coastline of the State of Western Australia at mean low water to the point of commencement.
-[Schedule 2 inserted by No. 42 of 2010 s. 168.]
+[Schedule 2 inserted: No. 42 of 2010 s. 168.]
