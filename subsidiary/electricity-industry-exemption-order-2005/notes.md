@@ -21,6 +21,7 @@ Electricity Industry Exemption Amendment Order (No. 2) 2016 | 23 Dec 2016 p. 589
 Electricity Industry Exemption Amendment Order (No. 2) 2017 | 22 Aug 2017 p. 4501-2 | cl. 1 and 2: 22 Aug 2017 (see cl. 2(a)); Order other than cl. 1 and 2: 23 Aug 2017 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 2) 2018 | 26 Jun 2018 p. 2360 | cl. 1 and 2: 26 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 27 Jun 2018 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 4) 2018 | 26 Jun 2018 p. 2361 | cl. 1 and 2: 26 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 27 Jun 2018 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order (No. 5) 2018 | 29 Jun 2018 p. 2434-5 | cl. 1 and 2: 29 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Jun 2018 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -35,6 +36,7 @@ DBNGP Transmission12(1)
 Eastern Metropolitan Regional Council25(1)
 electric vehicle19(1)
 electricity reticulation system6(1)
+EMR Golden Grove21(1)
 Eucla15(1)
 exempt supplier6(1)
 Fremantle Port Authority14(1)
@@ -45,7 +47,6 @@ Karakin Wind Farm20(1)
 Kwinana site23(1), 24(1)
 Kwinana WTE Project24(1)
 Minjar Gold21(1)
-MMG Golden Grove21(1)
 non-residential property3A
 occupier6(1)
 PEP Agreement8(1)
