@@ -1,6 +1,6 @@
 ## Schedule 4 — Forms
 [r. 75(2) and 77(1)]
-[Heading inserted in Gazette 28 Jun 2004 p. 2461.]
+[Heading inserted: Gazette 28 Jun 2004 p. 2461.]
 Form 1
 Plumbers Licensing and Plumbing Standards Regulations 2000 r. 75(2) Infringement Notice | Notice No:
 Alleged offender | Family name:
@@ -21,7 +21,7 @@ Signature:
 Date:
 Address for service:
 Paying the modified penalty | You may pay the modified penalty — 1.BY POSTING your credit card details or a cheque or money order made payable to [details to be inserted here]; OR 2.IN PERSON to [details to be inserted here].
-[Form 1 inserted in Gazette 28 Jun 2004 p. 2462-3; amended in Gazette 14 Nov 2013 p. 5234; 13 Dec 2016 p. 5630.]
+[Form 1 inserted: Gazette 28 Jun 2004 p. 2462-3; amended: Gazette 14 Nov 2013 p. 5234; 13 Dec 2016 p. 5630.]
 Form 2
 Plumbers Licensing and Plumbing Standards Regulations 2000 r. 77(1) Withdrawal of Infringement Notice | Notice No:
 To [Details of alleged offender] | Family name:
@@ -35,4 +35,4 @@ Alleged offence:
 Authorised person who issued this notice | Name:
 Signature:
 Date:
-[Form 2 inserted in Gazette 28 Jun 2004 p. 2463; amended in Gazette 14 Nov 2013 p. 5234.]
+[Form 2 inserted: Gazette 28 Jun 2004 p. 2463; amended: Gazette 14 Nov 2013 p. 5234.]
