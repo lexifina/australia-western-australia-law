@@ -27,32 +27,16 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2016 | 1 Ju
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2016 | 1 Jul 2016 p. 2745-7 | bl. 1 and 2: 1 Jul 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2017 | 30 Jun 2017 p. 3574 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b))
 Reprint 3: The Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 as at 4 Aug 2017 (includes amendments listed above)
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2018 | 8 Jun 2018 p. 1833-4 | bl. 1 and 2: 8 Jun 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Health Services Act 2016 s. 307(j) assented to 26 May 2016 | To be proclaimed (see s. 2(b))
-Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2018 bl. 3 and 4 | 8 Jun 2018 p. 1833-4 | 1 Jul 2018 (see bl. 2(b))
 Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(j) had not come into operation. It reads as follows:
 307.By-laws and regulations repealed
 These by-laws and regulations are repealed:
 (j) Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986;
-On the date as at which this compilation was prepared, the Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2018 bl. 3 and 4 had not come into operation. They read as follows:
-3.By-laws amended
-These by-laws amend the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986.
-4.Schedule 1 amended
-Amend Schedule 1 as set out in the Table.
-Table
-Delete | Insert
-$3.30 (each occurrence) | $3.40
-$6.60 | $6.80
-$9.90 | $10.20
-$13.20 | $13.60
-$16.50 | $17.00
-$19.80 | $20.40
-$23.10 | $23.80
-$6.00 | $6.05
-$30.00 | $30.25
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
