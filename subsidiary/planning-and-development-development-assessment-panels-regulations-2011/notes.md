@@ -8,6 +8,7 @@ Planning and Development (Development Assessment Panels) Amendment Regulations (
 Planning and Development (Development Assessment Panels) Amendment Regulations 2015 | 17 Apr 2015 p. 1380-6 | r. 1 and 2: 17 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2015 (see r. 2(b))
 Planning and Development (Development Assessment Panels) Amendment Regulations 2016 | 16 Dec 2016 p. 5709-21 | r. 1 and 2: 16 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2017 (see r. 2(b))
 Planning and Development (Development Assessment Panels) Amendment Regulations 2017 | 30 Jun 2017 p. 3592-3 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
+Planning and Development (Development Assessment Panels) Amendment Regulations 2018 | 26 Jun 2018 p. 2389-90 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
