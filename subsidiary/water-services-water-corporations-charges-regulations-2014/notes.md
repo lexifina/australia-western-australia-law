@@ -12,6 +12,7 @@ Water Services Legislation Amendment Regulations 2016 Pt. 3 | 13 Dec 2016 p. 565
 Water Services Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 23 Jun 2017 p. 3317-403 | 1 Jul 2017 (see r. 2(b))
 Water Services (Water Corporations Charges) Amendment Regulations 2017 | 4 Aug 2017 p. 4316-17 | r. 1 and 2: 4 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2017 (see r. 2(b))
 Water Legislation Amendment Regulations 2017 Pt. 4 | 15 Sep 2017 p. 4794-6 | 16 Sep 2017 (see r. 2(b))
+Water Services Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 22 Jun 2018 p. 2211-95 | 1 Jul 2018 (see r. 2(b))
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.
 The Water Agencies (Charges) By-laws 1987 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) on 1 Jul 2014.
 The Country Towns Sewerage Act 1948 was repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(a) on 18 Nov 2013.
@@ -62,8 +63,10 @@ non-profit private organisation16(1)
 non-residential lot6, 11
 nursing home16(1)
 old provision55(1)
+permitted surcharge15A(1), 20(1)
 product evaluationSch. 7 cl. 13
 public land16(1)
+RBA Standard No. 3 of 201615A(1), 20(1)
 registered pensioner3(1)
 registered senior3(1)
 residential lot6, 11
@@ -75,7 +78,7 @@ semi-rural residential property16(1)
 sewerage area16(1)
 sewerage charge16(1)
 shared grease arrestorSch. 4 cl. 8
-single capital infrastructure charge16(1), Sch. 3 cl. 18
+single capital infrastructure charge16(1)
 special meter reading16(1)
 strata-titled caravan bay16(1)
 trade waste charge19(1)

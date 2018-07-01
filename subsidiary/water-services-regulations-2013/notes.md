@@ -12,6 +12,7 @@ Water Services Legislation Amendment Regulations 2016 Pt. 2 | 13 Dec 2016 p. 565
 Water Services Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3317-403 | 1 Jul 2017 (see r. 2(b))
 Reprint 1: The Water Services Regulations 2013 as at 28 Jul 2017 (includes amendments listed above)
 Water Legislation Amendment Regulations 2017 Pt. 5 | 15 Sep 2017 p. 4794-6 | 16 Sep 2017 (see r. 2(b))
+Water Services Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 22 Jun 2018 p. 2211-95 | 1 Jul 2018 (see r. 2(b))
 The Water Boards Act 1904 was repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 201.
 The Country Town Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 Now known as the Plumbers Licensing Act 1995.
