@@ -22,4 +22,4 @@ Government trading organisations
 20A.Southern Ports Authority established under the Port Authorities Act 1999 section 4.
 20.Western Australian Coastal Shipping Commission established under the Western Australian Coastal Shipping Commission Act 1965 section 5.
 21.Western Australian Land Authority established under the Western Australian Land Authority Act 1992 section 5.
-[Schedule 8 amended in Gazette 19 Sep 2014 p. 3345.]
+[Schedule 8 amended: Gazette 19 Sep 2014 p. 3345.]
