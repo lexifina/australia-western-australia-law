@@ -51,7 +51,7 @@ Bankcard [ ]Mastercard [ ]Visacard [ ]
 Card Number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]Amount [ ] [ ] [ ] [ ]
 Cardholder Name: ..............................................................................................................................
 Signature: ........................................................................................... Expiry Date: ......../......../........
-[Form 1 amended in Gazette 28 Feb 2003 p. 682.]
+[Form 1 amended: Gazette 28 Feb 2003 p. 682.]
 FORM 2
 TAXI ACT 1994 — section 39(6)
 TAXI REGULATIONS 1995 — regulation 22(3)
@@ -69,7 +69,7 @@ Code
 Description
 Take notice that I, being authorised to do so hereby withdraw proceedings under the Taxi Act 1994 in relation to infringement notice issued for the above offence.
 Director GeneralDate
-[Form 2 amended in Gazette 28 Feb 2003 p. 682.]
+[Form 2 amended: Gazette 28 Feb 2003 p. 682.]
 FORM 3
 TAXI ACT 1994 — section 34(1)(b)
 TAXI REGULATIONS 1995 — regulation 23(1)(a)

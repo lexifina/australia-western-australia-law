@@ -49,4 +49,4 @@ Item | Section of Act or Regulation | Description of Offence | Modified Penalty 
 [30.Deleted]
 31 | Regulation 18(2) | Operating taxi with an unsealed meter | 250
 32 | Regulation 18(4) and (5) | Offences relating to meters | 250
-[Schedule 1 inserted in Gazette 23 Jan 2004 p. 323-5; amended in Gazette 24 Feb 2006 p. 883; 24 Apr 2009 p. 1387; 7 Jun 2011 p. 2061-2; 20 Feb 2015 p. 694; 28 Jun 2016 p. 2683-5.]
+[Schedule 1 inserted: Gazette 23 Jan 2004 p. 323-5; amended: Gazette 24 Feb 2006 p. 883; 24 Apr 2009 p. 1387; 7 Jun 2011 p. 2061-2; 20 Feb 2015 p. 694; 28 Jun 2016 p. 2683-5.]

@@ -1,6 +1,6 @@
 ## Schedule 3 — Fares
 [r. 6]
-[Heading inserted in Gazette 28 Jun 2016 p. 2685.]
+[Heading inserted: Gazette 28 Jun 2016 p. 2685.]
 Metered rates (maximums)
 Tariff | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.72/km | $49.00/hour
@@ -23,4 +23,4 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 3 am Saturday or midnight Saturday to 3 am Sunday | $3.60
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.80
-[Schedule 3 inserted in Gazette 28 Jun 2016 p. 2685-7.]
+[Schedule 3 inserted: Gazette 28 Jun 2016 p. 2685-7.]
