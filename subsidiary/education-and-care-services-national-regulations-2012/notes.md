@@ -12,6 +12,7 @@ Education and Care Services National Amendment Regulations 2015 | 26 Jun 2015 p.
 Education and Care Services National Amendment Regulations (No. 2) 2015 | 3 Jul 2015 p. 2667-8 | r. 1 and 2: 3 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2015 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2017 | 3 Nov 2017 p. 5481-5 | r. 1 and 2: 3 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2017 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2018 | 23 Jan 2018 p. 247-58 | 1 Feb 2018 (see r. 2(b)(i))
+Education and Care Services National Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2358-9 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 The short title of this Act was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -44,6 +45,7 @@ early childhood teacher4(1)
 educational program4(1), 73(1)
 emergency4(1), 123(1A)
 excursion4(1)
+family assistance law4(1)
 family day care educator assistant4(1)
 financial declaration4(1)
 in attendance4(1), 11
