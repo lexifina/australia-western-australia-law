@@ -38,6 +38,7 @@ Pawnbrokers and Second-hand Dealers Amendment Regulations 2015 | 2 Jun 2015 p. 1
 Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
 Reprint 5: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 18 Nov 2016 (includes amendments listed above)
 Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 27 Jun 2017 p. 3440-8 | 1 Jul 2017 (see r. 2(b))
+Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 26 Jun 2018 p. 2392-400 | 1 Jul 2018 (see r. 2(b))
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

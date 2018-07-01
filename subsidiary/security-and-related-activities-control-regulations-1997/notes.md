@@ -47,6 +47,7 @@ Security and Related Activities (Control) Amendment Regulations 2016 | 29 Jul 20
 Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 221-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Police Regulations Amendment (Poisons) Regulations 2016 Pt. 4 | 17 Jan 2017 p. 412-17 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 27 Jun 2017 p. 3440-8 | 1 Jul 2017 (see r. 2(b))
+Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 26 Jun 2018 p. 2392-400 | 1 Jul 2018 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
