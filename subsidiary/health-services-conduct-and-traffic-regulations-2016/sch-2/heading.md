@@ -1,6 +1,6 @@
 ## Schedule 2 — Prescribed offences and modified penalties
 [r. 29]
-[Heading inserted in Gazette 29 Nov 2016 p. 5320.]
+[Heading inserted: Gazette 29 Nov 2016 p. 5320.]
 Item | Offence | Modified penalty $
 1. | r. 6(5) | Contravening direction given by authorised person | 100
 2. | r. 7(2) | Bringing prohibited item onto health service provider land without permission | 100
@@ -21,4 +21,4 @@ Item | Offence | Modified penalty $
 17. | r. 20(2) | Parking in paid staff parking area for which person is not eligible staff member | 60
 18. | r. 20(3) | Removing vehicle from paid staff parking area without paying fee | 60
 19. | r. 21(2) | Parking in permit parking area — without holding and displaying parking permit; or other than in accordance with parking permit | 60
-[Schedule 2 inserted in Gazette 29 Nov 2016 p. 5320-2.]
+[Schedule 2 inserted: Gazette 29 Nov 2016 p. 5320-2.]
