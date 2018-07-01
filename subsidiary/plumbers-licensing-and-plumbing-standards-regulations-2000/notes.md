@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 November 2017 of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -39,6 +39,7 @@ Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 17 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2017 | 29 Aug 2017 p. 4593-4 | r. 1 and 2: 29 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Aug 2017 (see r. 2(b))
 Reprint 5: The Plumbers Licensing and Plumbing Standards Regulations 2000 as at 24 Nov 2017 (includes amendments listed above)
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 17 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 contains transitional provisions that are of no further effect.

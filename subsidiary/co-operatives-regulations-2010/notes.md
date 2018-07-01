@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 October 2017 of the Co-operatives Regulations 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Co-operatives Regulations 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Co-operatives Regulations 2010 | 13 Aug 2010 p. 3765-970 | r. 1 and 2: 13 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b) and Gazette 13 Aug 2010 p. 3975)
@@ -12,6 +12,7 @@ Co-operatives Amendment Regulations 2016 | 2 Dec 2016 p. 5407-52 | r. 1 and 2: 2
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 8 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Co-operatives Amendment Regulations 2017 | 4 Aug 2017 p. 4307-8 | r. 1 and 2: 4 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2017 (see r. 2(b))
 Reprint 1: The Co-operatives Regulations 2010 as at 6 Oct 2017 (includes amendments listed above)
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

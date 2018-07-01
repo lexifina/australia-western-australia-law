@@ -55,6 +55,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 19 | 3 Ju
 Settlement Agents Amendment Regulations 2016 | 4 Oct 2016 p. 4235-6 | r. 1 and 2: 4 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2016 (see r. 2(b) and Gazette 4 Oct 2016 p. 4293)
 Reprint 7: The Settlement Agents Regulations 1982 as at 14 Oct 2016 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 20 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
+Commerce and Industrial Relations Amendment (Fees and Charges) Regulations 2018 Pt. 20 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
 Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1).
 These regulations were in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
@@ -65,7 +66,7 @@ Despite the repeal effected by regulation 3, in relation to an application for a
 (b) required to be passed for the conferring by a college (within the meaning of the Vocational Education and Training Act 1996) of —
 (i) a Certificate in Settlement Agency Procedure; or
 (ii) a Certificate IV in Conveyancing.
-[Regulation 4 amended in Gazette 21 Jan 2005 p. 258; 16 Jun 2006 p. 2122.]
+[Regulation 4 amended: Gazette 21 Jan 2005 p. 258; 16 Jun 2006 p. 2122.]
 The Settlement Agents Amendment Regulations (No. 2) 2008 were published on 23 Dec 2008 p. 5469-70 and again on 30 Dec 2008 p. 5640-1. The publication of 30 Dec 2008 has no effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

@@ -21,6 +21,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 3 Jun
 Building Services (Registration) Amendment Regulations 2017 | 31 Mar 2017 p. 1941-2 | r. 1 and 2: 31 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2017 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Building Regulations Amendment Regulations 2017 Pt. 3 | 8 Aug 2017 p. 4343-5 | 9 Aug 2017 (see r. 2(b))
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement

@@ -43,6 +43,7 @@ Reprint 5: The Residential Tenancies Regulations 1989 as at 16 Dec 2016 (include
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 19 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Residential Tenancies Amendment Regulations 2017 | 30 Jun 2017 p. 3554-9 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2017 (see r. 2(b) and Gazette 30 Jun 2017 p. 3551-2)
 Residential Tenancies Amendment Regulations (No. 2) 2017 | 8 Dec 2017 p. 5843 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2018 (see r. 2(b))
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 19 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.

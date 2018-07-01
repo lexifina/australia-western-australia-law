@@ -90,6 +90,7 @@ Commerce Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2
 Reprint 10: The Occupational Safety and Health Regulations 1996 as at 17 Feb 2017 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 16 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2017 | 14 Nov 2017 p. 5602-6 | r. 1 and 2: 14 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2018 (see r. 2(b))
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 16 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).

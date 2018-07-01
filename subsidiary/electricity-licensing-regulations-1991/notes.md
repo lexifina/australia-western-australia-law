@@ -49,6 +49,7 @@ Electricity (Licensing) Amendment Regulations 2017 | 2 May 2017 p. 2291-302 | r.
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 2) 2017 | 14 Nov 2017 p. 5597-602 | r. 1 and 2: 14 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2018 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 3) 2018 | 7 Jun 2018 p. 1815-24 | r. 1, 2 and 10: 7 Jun 2018 (see r. 2(a)); Regulations other than r. 1, 2 and 10: 8 Jun 2018 (see r. 2(b))
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.

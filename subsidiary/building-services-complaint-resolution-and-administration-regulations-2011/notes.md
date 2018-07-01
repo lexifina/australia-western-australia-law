@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 29 Mar 2018 of the Building Services (Complaint Resolution and Administration) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Building Services (Complaint Resolution and Administration) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Services (Complaint Resolution and Administration) Regulations 2011 | 26 Aug 2011 p. 3453-71 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Pt. 3 Div. 1 and 3: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475); r. 3, 4, Pt. 2 (other than r. 7(a)) and Pt. 4: 29 Aug 2011 (see r. 2(d) and Gazette 26 Aug 2011 p. 3475); r. 7(a) and Pt. 3 Div. 2: 2 Apr 2012 (see r. 2(c) and Gazette 13 Mar 2012 p. 1033)
@@ -14,6 +14,7 @@ Building Services (Complaint Resolution and Administration) Amendment Regulation
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Reprint 2: The Building Services (Complaint Resolution and Administration) Regulations 2011 as at 29 Mar 2018 (includes amendments listed above)
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Section 374 was deleted by the Building Act 2011 s. 153(2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

@@ -51,6 +51,7 @@ Reprint 6: The Motor Vehicle Dealers (Licensing) Regulations 1974 as at 7 Aug 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 12 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 14 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Licensing Provisions Regulations Amendment Regulations 2017 Pt. 4 | 27 Jun 2017 p. 3408-16 | 1 Jul 2017 (see r. 2(b))
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 14 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

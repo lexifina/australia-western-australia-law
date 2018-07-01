@@ -83,6 +83,7 @@ Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2015 | 2
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 16 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 18 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations 2017 | 30 Jun 2017 p. 3553-4 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 18 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) and r. 5(2) are transitional provisions that are of no further effect.
