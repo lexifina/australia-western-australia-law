@@ -48,10 +48,7 @@ Strata Titles General Amendment Regulations 2013 | 26 Jul 2013 p. 3349-50 | r. 1
 Strata Titles General Amendment Regulations 2015 | 19 Jun 2015 p. 2135-6 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015(see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2320-5 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3181-6 | 3 Jul 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Lands Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 15 Jun 2018 p. 1923-8 | 1 Jul 2018 (see r. 2(b))
+ | Lands Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 15 Jun 2018 p. 1923-8 | 1 Jul 2018 (see r. 2(b))
 Repealed by the Strata Titles Act 1985.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
@@ -60,21 +57,6 @@ The Strata Titles Amendment Act 1995 commenced 14 March 1996.
 The Strata Titles Regulations 1985 were repealed by r. 47 of these regulations, which was omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 The Strata Titles General Amendment Regulations 2000 r. 2(2) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Land Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Strata Titles General Regulations 1996 amended
-5.Regulations amended
-This Part amends the Strata Titles General Regulations 1996.
-6.Schedule 1 amended
-In Schedule 1 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-it. 1(a) | 273.00 72.00 | 277.00 73.00
-it. 1(b) | 273.00 | 277.00
-it. 1(c) | 110.00 | 111.60
-it. 1(d) | 168.70 6.10 | 171.20 6.20
-it. 1(e) | 168.70 | 171.20
-it. 1(f) | 168.70 | 171.20
-it. 1(g) | 168.70 | 171.20
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
