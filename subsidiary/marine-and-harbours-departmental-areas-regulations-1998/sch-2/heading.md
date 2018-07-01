@@ -29,7 +29,7 @@ Signature ........................................................
 (4)Time at which offence was allegedly committed.
 (5)Place at which offence was allegedly committed.
 (6)Place where modified penalty may be paid.
-[Form 1 amended in Gazette 8 Jan 2015 p. 54-5.]
+[Form 1 amended: Gazette 8 Jan 2015 p. 54-5.]
 FORM 2
 MARINE AND HARBOURS ACT 1981
 MARINE AND HARBOURS (DEPARTMENTAL AREAS) REGULATIONS 1998
