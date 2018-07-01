@@ -1,6 +1,6 @@
 ## Schedule 3 — Forms
 [r. 48(2) and (3)]
-[Heading inserted in Gazette 14 Jul 2006 p. 2580.]
+[Heading inserted: Gazette 14 Jul 2006 p. 2580.]
 FORM 1
 TRANSPORT CO-ORDINATION ACT 1966 — section 58A
 TRANSPORT (COUNTRY TAXI-CAR) REGULATIONS 1982 — regulation 48(2)
@@ -54,7 +54,7 @@ Card Number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 Amount [ ] [ ] [ ] [ ]
 Cardholder Name: ..............................................................................................................................
 Signature: ............................................................ Expiry Date: ......../......../........
-[Form 1 inserted in Gazette 14 Jul 2006 p. 2580-1; amended in Gazette 20 Aug 2013 p. 3848.]
+[Form 1 inserted: Gazette 14 Jul 2006 p. 2580-1; amended: Gazette 20 Aug 2013 p. 3848.]
 FORM 2
 TRANSPORT CO-ORDINATION ACT 1966 — section 58A
 TRANSPORT (COUNTRY TAXI-CAR) REGULATIONS 1982 — regulation 48(3)
@@ -73,4 +73,4 @@ Code
 Description
 Take notice that I, being authorised to do so, hereby withdraw proceedings under the Transport Co-ordination Act 1966 in relation to the infringement notice issued for the above offence.
 Director GeneralDate
-[Form 2 inserted in Gazette 14 Jul 2006 p. 2581.]
+[Form 2 inserted: Gazette 14 Jul 2006 p. 2581.]

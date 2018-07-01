@@ -1,6 +1,6 @@
 ## Schedule 2 — Modified penalties
 [r. 48(1)]
-[Heading inserted in Gazette 14 Jul 2006 p. 2578.]
+[Heading inserted: Gazette 14 Jul 2006 p. 2578.]
 Item | Section of Act or Regulation | Description of offence | Modified penalty
 1 | s. 50(1)(a) | Operating public vehicle to consign, send or convey goods or passengers without appropriate licence | $500 for an individual $1 000 for a corporation
 2 | s. 53 | Owner or driver of public vehicle failing to comply with terms and conditions of licence | $200
@@ -21,4 +21,4 @@ Item | Section of Act or Regulation | Description of offence | Modified penalty
 17 | r. 38 | Operator of taxi-car manipulating taximeter in manner likely to defraud | $50
 18 | r. 39(3) and (4) | Offences relating to setting, stopping or pausing taximeter | $50
 19 | r. 41(2) | Owner or operator of taxi-car failing to comply with terms of notice received under r. 41(1) or rectify defect found during inspection | $50
-[Schedule 2 inserted in Gazette 14 Jul 2006 p. 2578-9; amended in Gazette 28 Jun 2016 p. 2692.]
+[Schedule 2 inserted: Gazette 14 Jul 2006 p. 2578-9; amended: Gazette 28 Jun 2016 p. 2692.]
