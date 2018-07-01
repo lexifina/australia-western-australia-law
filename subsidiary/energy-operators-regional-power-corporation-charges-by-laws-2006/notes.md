@@ -21,6 +21,7 @@ Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws (No. 2
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2017 | 27 Jun 2017 p. 3419-24 | bl. 1 and 2: 27 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws (No. 2) 2017 | 30 Jun 2017 p. 3562-4 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b)(i))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws (No. 3) 2017 | 22 Dec 2017 p. 5978-83 | bl. 1 and 2: 22 Dec 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2018 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2018 | 26 Jun 2018 p. 2361-71 | bl. 1 and 2: 26 Jun 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -32,11 +33,12 @@ interest period12(1)
 MyPower non-residential tariffSch. 1 cl. 9(1)
 MyPower residential tariffSch. 1 cl. 8(1)
 North West interconnected system4(1A), 4(2A)
-part-periodSch. 1 cl. 8(4), Sch. 1 cl. 9(4)
 peak daySch. 1 cl. 7(1)
 peak periodSch. 1 cl. 7(1)
 peak timeSch. 1 cl. 7(1)
+permitted surcharge3
 RBA cash rate3
+RBA Standard No. 3 of 20163
 regional non-integrated system4(1A)
 relevant period8(1)
 residential tariff3
