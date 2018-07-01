@@ -1,6 +1,6 @@
 ## Schedule 7A — Forms: notices about acquisition of shares
 [r. 35 and 36]
-[Heading inserted in Gazette 2 Dec 2016 p. 5445.]
+[Heading inserted: Gazette 2 Dec 2016 p. 5445.]
 ## Form 1 — Compulsory acquisition notice (s. 355(1))
 1. | To:(name of dissenting shareholder) of:(address of dissenting shareholder)
  | A.The transferee (insert name of person giving notice) on (insert date) made an offer to the holders of *shares in (insert name of co-operative) Co-operative Limited/*shares included in a class of shares in (insert name of co-operative) Co-operative Limited for the transfer of those shares to the transferee, not being an offer made under a scheme or contract to which Part 11 Division 2 of the Act applies; and B.The scheme or contract involving the transfer of those shares to the transferee was on or before (insert date) approved by the holders of at least 90% in nominal value of all the shares concerned, other than excluded shares; and C.You are a dissenting shareholder.
@@ -24,5 +24,5 @@ Dated .............. | .........................................................
  | (c)on such other terms as are agreed or as the Supreme Court on the application of the transferee or of yourself orders.
 Dated .............. | ...................................................................... Signature of transferee
 * Strike out words not applicable.
-[Schedule 7A inserted in Gazette 2 Dec 2016 p. 5445-8.]
-[Schedule 8 deleted in Gazette 2 Dec 2016 p. 5448.]
+[Schedule 7A inserted: Gazette 2 Dec 2016 p. 5445-8.]
+[Schedule 8 deleted: Gazette 2 Dec 2016 p. 5448.]

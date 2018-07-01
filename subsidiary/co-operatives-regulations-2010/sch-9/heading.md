@@ -1,6 +1,6 @@
 ## Schedule 9 — Holders of prescribed offices
 [r. 41]
-[Heading inserted in Gazette 2 Dec 2016 p. 5449.]
+[Heading inserted: Gazette 2 Dec 2016 p. 5449.]
 Commonwealth
 1.The Treasurer
 2.A trustee under the Bankruptcy Act 1966 (Commonwealth) Part IV, X or XI
@@ -40,4 +40,4 @@ Western Australia
 26.Treasurer
 27.Public trustee
 28.A registrar or judicial officer of the Supreme Court of Western Australia
-[Schedule 9 inserted in Gazette 2 Dec 2016 p. 5449-51.]
+[Schedule 9 inserted: Gazette 2 Dec 2016 p. 5449-51.]
