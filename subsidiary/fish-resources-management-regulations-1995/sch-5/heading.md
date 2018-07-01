@@ -1,6 +1,6 @@
 ## Schedule 5 — Noxious fish
 [r. 70]
-[Heading inserted in Gazette 22 Oct 2014 p. 4088.]
+[Heading inserted: Gazette 22 Oct 2014 p. 4088.]
 In this Schedule —
 Montebello Islands Marine Park means all waters reserved under the Conservation and Land Management Act 1984 section 13 as Class “A” Marine Reserve No. 9, Montebello Islands Marine Park;
 Port of Albany means the area described to be the Port of Albany by order made by the Governor under the Port Authorities Act 1999 section 24(1);
@@ -285,4 +285,4 @@ Undaria pinnatifida | Japanese Kelp, Wakame | Any area of the State
 Valencia hispanica | Valencia Toothcarp | Any area of the State
 Womersleyella setacea (syn. Polysiphonia setacea) | Red Polysiphonous Macroalga | Any area of the State
 Zacco platypus | Freshwater Minnow | Any area of the State
-[Schedule 5 inserted in Gazette 22 Oct 2014 p. 4088-115.]
+[Schedule 5 inserted: Gazette 22 Oct 2014 p. 4088-115.]

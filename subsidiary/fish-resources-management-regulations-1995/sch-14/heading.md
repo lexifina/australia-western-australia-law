@@ -1,6 +1,6 @@
 ## Schedule 14
 ## Forms
-[Form 1 deleted in Gazette 30 Dec 2004 p. 6965.]
+[Form 1 deleted: Gazette 30 Dec 2004 p. 6965.]
 Form 2
 [reg. 147]
 Fish Resources Management Act 1994
@@ -18,7 +18,7 @@ and I authorise ................................................................
 Signature of Justice of the Peace
 ............................................
 Date
-[Form 2 amended in Gazette 29 May 2008 p. 2059.]
+[Form 2 amended: Gazette 29 May 2008 p. 2059.]
 Form 3
 [reg. 160]
 Fish Resources Management Act 1994
@@ -57,7 +57,7 @@ Address ________________________________________________
 ______________________________Postcode __________
 Signature ________________________________________________
 Date _____/ _______/ _______
-[Form 3 amended in Gazette 10 Nov 2006 p. 4710-11.]
+[Form 3 amended: Gazette 10 Nov 2006 p. 4710-11.]
 Form 4
 [reg. 161]
 Fish Resources Management Act 1994
@@ -145,7 +145,7 @@ ___________________________________________________________
 2.No unexplained mortalities have occurred, and no signs of clinical disease have been seen, in the last 12 months among pearl oysters being held at that place.
 Signature: _____________________
 Date: _________________________
-[Form 8 inserted in Gazette 24 Sep 2013 p. 4450-1.]
+[Form 8 inserted: Gazette 24 Sep 2013 p. 4450-1.]
 Form 9
 [r. 144F(4)]
 Fish Resources Management Act 1994
@@ -169,4 +169,4 @@ and no genetic components not of Western Australian origin were detected.
 Signature: ____________________________ Approved fish pathologist
 Date: ________________________________
 OFFICE USE ONLY 1.AHL No: ________________________________________________ 2.Name of licensee or permit holder: ____________________________
-[Form 9 inserted in Gazette 24 Sep 2013 p. 4451-2.]
+[Form 9 inserted: Gazette 24 Sep 2013 p. 4451-2.]

@@ -1,6 +1,6 @@
 ## Schedule 9 — Determining the value of fish
 [s. 222(2) and r. 157]
-[Heading inserted in Gazette 29 Sep 2009 p. 3875.]
+[Heading inserted: Gazette 29 Sep 2009 p. 3875.]
 Species of fish | Value per unit of weight ($/kgm) | Value per fish ($)
 Abalone, Brownlip (shucked) ....................... | 90.00 | 24.00
 Abalone, Brownlip (whole weight) ............... | 35.00 | 23.00
@@ -157,4 +157,4 @@ Wrasse, King ................................................. | 3.00 | 2.00
 Yabbie ........................................................... | 12.00 | 2.00
 Zoila Cowry .................................................. | - | 50.00
 All fish not otherwise listed in this Schedule | 1.00 | 1.00
-[Schedule 9 inserted in Gazette 29 Sep 2009 p. 3875-82; amended in Gazette 1 Mar 2011 p. 675; 24 Aug 2011 p. 3409; 24 Feb 2012 p. 803; 22 Jun 2012 p. 2779; 30 May 2014 p. 1724; 23 Jan 2015 p. 402-6.]
+[Schedule 9 inserted: Gazette 29 Sep 2009 p. 3875-82; amended: Gazette 1 Mar 2011 p. 675; 24 Aug 2011 p. 3409; 24 Feb 2012 p. 803; 22 Jun 2012 p. 2779; 30 May 2014 p. 1724; 23 Jan 2015 p. 402-6.]

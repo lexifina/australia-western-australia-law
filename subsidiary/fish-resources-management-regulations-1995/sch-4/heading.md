@@ -1,6 +1,6 @@
 ## Schedule 4 — Categories of fish
 [s. 259 and r. 180]
-[Heading inserted in Gazette 29 Sep 2009 p. 3869.]
+[Heading inserted: Gazette 29 Sep 2009 p. 3869.]
 Category 1 fish
 Abalone, Brownlip
 Abalone, Greenlip
@@ -128,4 +128,4 @@ Whiting (other than whiting listed as category 2 fish)
 Wrasse (other than wrasse listed as category 1 fish)
 Category 4 fish
 Any species of fish not specified in this Schedule to be category 1 fish, category 2 fish or category 3 fish.
-[Schedule 4 inserted in Gazette 29 Sep 2009 p. 3869-74; amended in Gazette 24 Aug 2011 p. 3409; 24 Feb 2012 p. 803; 30 May 2014 p. 1724.]
+[Schedule 4 inserted: Gazette 29 Sep 2009 p. 3869-74; amended: Gazette 24 Aug 2011 p. 3409; 24 Feb 2012 p. 803; 30 May 2014 p. 1724.]

@@ -9,4 +9,4 @@ West Coast Demersal Scalefish (Interim) Managed Fishery means the fishery declar
 Penalty: $2 000.
 (3) If a person is fishing for demersal scalefish from a boat, other than a fishing boat, in the West Coast Region by means of a line, the master of the boat must ensure that there is a release weight on the boat.
 Penalty: $2 000.
-[Regulation 64OAA inserted in Gazette 8 Dec 2009 p. 4995; amended in Gazette 1 Mar 2011 p. 671.]
+[Regulation 64OAA inserted: Gazette 8 Dec 2009 p. 4995; amended: Gazette 1 Mar 2011 p. 671.]

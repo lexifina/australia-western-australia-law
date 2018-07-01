@@ -1,8 +1,8 @@
 ## Schedule 17 — Fish diseases
 [r. 3]
-[Heading inserted in Gazette 24 Sep 2013 p. 4453.]
+[Heading inserted: Gazette 24 Sep 2013 p. 4453.]
 ## Division 1 — Diseases of crustaceans
-[Heading inserted in Gazette 24 Sep 2013 p. 4453.]
+[Heading inserted: Gazette 24 Sep 2013 p. 4453.]
 Crayfish plague
 GAV/LOV virus of prawns
 Infectious hypodermal and haemopoietic necrosis virus
@@ -15,9 +15,9 @@ Taura syndrome
 White spot disease
 White tail disease
 Yellowhead disease
-[Division 1 inserted in Gazette 24 Sep 2013 p. 4453.]
+[Division 1 inserted: Gazette 24 Sep 2013 p. 4453.]
 ## Division 2 — Diseases of molluscs
-[Heading inserted in Gazette 24 Sep 2013 p. 4453.]
+[Heading inserted: Gazette 24 Sep 2013 p. 4453.]
 Abalone viral ganglioneuritis
 Abalone viral mortality
 Acute viral necrosis in scallops
@@ -34,9 +34,9 @@ Marteiliosis
 Mikrocytosis (Mykrycytois mackini)
 Perkinsosis
 Withering syndrome of abalone
-[Division 2 inserted in Gazette 24 Sep 2013 p. 4453-4.]
+[Division 2 inserted: Gazette 24 Sep 2013 p. 4453-4.]
 ## Division 3 — Diseases of other fish
-[Heading inserted in Gazette 24 Sep 2013 p. 4454.]
+[Heading inserted: Gazette 24 Sep 2013 p. 4454.]
 Aeromonas salmonicida infection (Goldfish ulcer disease)
 Aeromonas salmonicida infection (Furunculosis)
 Bacterial kidney disease (Renibacterium salmoninarium)
@@ -59,4 +59,4 @@ Spring viraemia of carp
 Viral encephalopathy and retinopathy
 Viral haemorrhagic septicaemia
 Whirling disease of salmonids
-[Division 3 inserted in Gazette 24 Sep 2013 p. 4454-5.]
+[Division 3 inserted: Gazette 24 Sep 2013 p. 4454-5.]

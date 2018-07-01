@@ -16,14 +16,14 @@ Name of fish | Method of determining length
 8.Abalone | By measuring the shell from edge to edge across the longest diameter.
 9.Trochus | By measuring the base from edge to edge across the longest diameter.
 10.Any other fish | By measuring from the point of the snout to the tip of the tail.
-[Part 1 amended in Gazette 15 Jan 1999 p. 113; 13 Nov 2007 p. 5694.]
+[Part 1 amended: Gazette 15 Jan 1999 p. 113; 13 Nov 2007 p. 5694.]
 ## Part 2 — Method of determining the volume of fish
 The volume of space which is filled by whole, undamaged fish without compressing those fish.
 ## Part 3 — Method of determining the length of fish trunks and fillets
-[Heading inserted in Gazette 4 Nov 2005 p. 5317.]
+[Heading inserted: Gazette 4 Nov 2005 p. 5317.]
 A fish trunk or fillet is to be measured —
 (a) when the fish is lying flat; and
 (b) without being held; and
 (c) lengthwise along the longest part of the fish to which both the skin and the flesh of the fish extends; and
 (d) in the case of a fillet, the measurement is not to include any part of the head or tail of the fish still attached.
-[Part 3 inserted in Gazette 4 Nov 2005 p. 5317.]
+[Part 3 inserted: Gazette 4 Nov 2005 p. 5317.]

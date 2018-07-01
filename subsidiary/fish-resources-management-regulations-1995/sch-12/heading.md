@@ -55,7 +55,7 @@ Offence Part 1 — Sections of the Act | Modified penalty $
 11.Section 171(1) | 200.00
 12.Section 172 | 200.00
 13.Section 190(2) | 200.00
-[Part 1 amended in Gazette 13 Feb 2009 p. 300; 24 Feb 2012 p. 803; 18 Dec 2012 p. 6591; 18 Jun 2013 p. 2297-9; 27 Aug 2013 p. 4057; 7 Aug 2015 p. 3204.]
+[Part 1 amended: Gazette 13 Feb 2009 p. 300; 24 Feb 2012 p. 803; 18 Dec 2012 p. 6591; 18 Jun 2013 p. 2297-9; 27 Aug 2013 p. 4057; 7 Aug 2015 p. 3204.]
 Offence Part 2 — Regulations | Modified penalty $
 1.Regulation 108 | 50.00
 2.Regulations 12(3), 16B, 39, 40, 42, 43, 44 and 64L | 75.00
@@ -71,4 +71,4 @@ Offence Part 2 — Regulations | Modified penalty $
 (a)a fishing boat licence, carrier boat licence or commercial fishing licence | 400.00
 (b)any other licence granted under Part 11 | 100.00
 8.Regulation 59(2) | 500.00
-[Part 2 amended in Gazette 8 Sep 2000 p. 5188; 29 Dec 2000 p. 7979; 29 Jun 2001 p. 3179-80; 14 Nov 2001 p. 5979; 29 Nov 2002 p. 5655; 27 Jun 2003 p. 2394-5; 1 Oct 2003 p. 4345-6; 28 Nov 2003 p. 4776; 23 Dec 2003 p. 5206; 4 Nov 2005 p. 5317; 11 Nov 2005 p. 5566; 22 Dec 2005 p. 6239; 23 May 2006 p. 1861; 29 Dec 2006 p. 5892; 6 Jul 2007 p. 3389; 4 Sep 2007 p. 4521; 21 Dec 2007 p. 6326; 19 Dec 2008 p. 5363; 3 Jul 2009 p. 2680; 29 Sep 2009 p. 3882; 8 Dec 2009 p. 4997-8; 12 Feb 2010 p. 587; 27 Aug 2010 p. 4107; 1 Mar 2011 p. 672-3; 2 Nov 2011 p. 4625; 18 Dec 2012 p. 6591-2; 29 Jan 2013 p. 319; 28 Jun 2013 p. 2894; 27 Aug 2013 p. 4057; 30 May 2014 p. 1724-5 and 1737; 12 Aug 2014 p. 2907; 23 Jan 2015 p. 406-7; 30 Jun 2015 p. 2332; 7 Aug 2015 p. 3204-5; 18 Mar 2016 p. 745.]
+[Part 2 amended: Gazette 8 Sep 2000 p. 5188; 29 Dec 2000 p. 7979; 29 Jun 2001 p. 3179-80; 14 Nov 2001 p. 5979; 29 Nov 2002 p. 5655; 27 Jun 2003 p. 2394-5; 1 Oct 2003 p. 4345-6; 28 Nov 2003 p. 4776; 23 Dec 2003 p. 5206; 4 Nov 2005 p. 5317; 11 Nov 2005 p. 5566; 22 Dec 2005 p. 6239; 23 May 2006 p. 1861; 29 Dec 2006 p. 5892; 6 Jul 2007 p. 3389; 4 Sep 2007 p. 4521; 21 Dec 2007 p. 6326; 19 Dec 2008 p. 5363; 3 Jul 2009 p. 2680; 29 Sep 2009 p. 3882; 8 Dec 2009 p. 4997-8; 12 Feb 2010 p. 587; 27 Aug 2010 p. 4107; 1 Mar 2011 p. 672-3; 2 Nov 2011 p. 4625; 18 Dec 2012 p. 6591-2; 29 Jan 2013 p. 319; 28 Jun 2013 p. 2894; 27 Aug 2013 p. 4057; 30 May 2014 p. 1724-5 and 1737; 12 Aug 2014 p. 2907; 23 Jan 2015 p. 406-7; 30 Jun 2015 p. 2332; 7 Aug 2015 p. 3204-5; 18 Mar 2016 p. 745.]

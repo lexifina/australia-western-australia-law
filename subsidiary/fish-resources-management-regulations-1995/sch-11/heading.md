@@ -4,4 +4,4 @@
 Fish | Trade name
 Barramundi | Barramundi
 Dhufish, West Australian | Dhufish
-[Schedule 11 amended in Gazette 1 Oct 2003 p. 4345.]
+[Schedule 11 amended: Gazette 1 Oct 2003 p. 4345.]

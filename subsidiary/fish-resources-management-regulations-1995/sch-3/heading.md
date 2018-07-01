@@ -1,13 +1,13 @@
 ## Schedule 3
 [Pt. 4B]
-[Heading inserted in Gazette 29 Jan 2013 p. 313.]
+[Heading inserted: Gazette 29 Jan 2013 p. 313.]
 ## Bag limits
-[Heading inserted in Gazette 29 Jan 2013 p. 313.]
+[Heading inserted: Gazette 29 Jan 2013 p. 313.]
 ## Part 1 — Bag limits — demersal finfish
-[Heading inserted in Gazette 29 Jan 2013 p. 313.]
+[Heading inserted: Gazette 29 Jan 2013 p. 313.]
 ## Division 1 — Regions other than West Coast region
 [r. 65A]
-[Heading inserted in Gazette 29 Jan 2013 p. 313.]
+[Heading inserted: Gazette 29 Jan 2013 p. 313.]
 Fish | Species bag limit for one day | Grouped bag limit of all species of demersal finfish for one day
 Barramundi cod | 3 | 5 (excluding Snapper, Red (Redfish) and Swallowtail in South Coast region)
 Boarfish | 3
@@ -28,10 +28,10 @@ Snapper, Pink, except in the waters of the Shark Bay western gulf or the waters 
 Snapper, Pink, in the waters of the Shark Bay western gulf or the waters of the Shark Bay eastern gulf | 2
 Snapper, Queen | 3
 Snapper, Red (Redfish) and Swallowtail in South Coast region | 8
-[Division 1 inserted in Gazette 29 Jan 2013 p. 313-14; amended in Gazette 27 Aug 2013 p. 4057; 30 May 2014 p. 1723.]
+[Division 1 inserted: Gazette 29 Jan 2013 p. 313-14; amended: Gazette 27 Aug 2013 p. 4057; 30 May 2014 p. 1723.]
 ## Division 2 — West Coast region
 [r. 65B]
-[Heading inserted in Gazette 29 Jan 2013 p. 314.]
+[Heading inserted: Gazette 29 Jan 2013 p. 314.]
 Fish | Species bag limit for one day | Grouped bag limit of all species of demersal finfish for one day
 Boarfish | 2 | 2
 Cod, all species except Coral Trout and Coronation Trout | 2
@@ -47,10 +47,10 @@ Sea Perch, Tropical, all species except Mangrove Jack | 2
 Snapper, Pink, | 2
 Snapper, Queen | 2
 Snapper, Red (Redfish) and Swallowtail | 2
-[Division 2 inserted in Gazette 29 Jan 2013 p. 314; amended in Gazette 28 Jun 2013 p. 2893.]
+[Division 2 inserted: Gazette 29 Jan 2013 p. 314; amended: Gazette 28 Jun 2013 p. 2893.]
 ## Part 2 — Bag limits — large pelagic fish
 [r. 65C]
-[Heading inserted in Gazette 29 Jan 2013 p. 315.]
+[Heading inserted: Gazette 29 Jan 2013 p. 315.]
 Fish | Species bag limit for one day | Grouped bag limit of all species of large pelagic finfish for one day
 Amberjack, Samson Fish and Yellowtail Kingfish | 3 | 3
 Barracouta (Gemfish) | 3
@@ -62,10 +62,10 @@ Mackerel (Broad-barred Spanish, Queensland School, Shark, Australian Spotted, Na
 Sharks and rays | 3
 Trevally, Giant and Golden | 3
 Tuna (Bigeye, Mackerel, Longtail (Northern Bluefin), Skipjack, Southern Bluefin, Yellowfin and Dogtooth) | 3
-[Part 2 inserted in Gazette 29 Jan 2013 p. 315; amended in Gazette 30 May 2014 p. 1723; 20 Feb 2015 p. 680.]
+[Part 2 inserted: Gazette 29 Jan 2013 p. 315; amended: Gazette 30 May 2014 p. 1723; 20 Feb 2015 p. 680.]
 ## Part 3 — Bag limits — nearshore or estuarine finfish
 [r. 65D]
-[Heading inserted in Gazette 29 Jan 2013 p. 315.]
+[Heading inserted: Gazette 29 Jan 2013 p. 315.]
 Fish | Species bag limit for one day | Grouped bag limit of all species of nearshore or estuarine finfish for one day
 Barramundi | 2 | 16
 Bonitos, all species and Tuna, Albacore | 8
@@ -92,24 +92,24 @@ Trevally and Queenfish, all species except Giant and Golden Trevally, Needleskin
 Tripletail | 2
 Whiting, King George (Spotted) | 12
 Wrasse and Parrot Fish | 8
-[Part 3 inserted in Gazette 29 Jan 2013 p. 315-17.]
+[Part 3 inserted: Gazette 29 Jan 2013 p. 315-17.]
 ## Part 4 — Bag limits — freshwater finfish
 [r. 65E]
-[Heading inserted in Gazette 28 Jun 2013 p. 2893.]
+[Heading inserted: Gazette 28 Jun 2013 p. 2893.]
 Fish | Grouped bag limit of all species of freshwater finfish for one day
 Catfish | 4
 Grunter
 Trout, Brown and Rainbow
-[Part 4 inserted in Gazette 28 Jun 2013 p. 2893.]
+[Part 4 inserted: Gazette 28 Jun 2013 p. 2893.]
 ## Part 5A — Bag limits — other finfish
 [r. 65F]
-[Heading inserted in Gazette 20 Feb 2015 p. 680.]
+[Heading inserted: Gazette 20 Feb 2015 p. 680.]
 Fish | Species bag limit for one day
 Herring, Australian (Tommy Ruff) | 12
-[Part 5A inserted in Gazette 20 Feb 2015 p. 680.]
+[Part 5A inserted: Gazette 20 Feb 2015 p. 680.]
 ## Part 5 — Bag limits — crustaceans
 [r. 65G]
-[Heading inserted in Gazette 29 Jan 2013 p. 317.]
+[Heading inserted: Gazette 29 Jan 2013 p. 317.]
 Species | Bag limit for one day
 Cherabin | 9 litres
 Crab, Blue Swimmer | 10 (in West Coast region) 20 (in other regions)
@@ -121,10 +121,10 @@ Redclaw, Queensland | N/A
 Rock Lobster, all species | 8 (including no more than 4 Tropical Rock Lobsters)
 Yabbies, Common and White | N/A
 Other crustacean species not specified above | 10
-[Part 5 inserted in Gazette 29 Jan 2013 p. 317; amended in Gazette 28 Jun 2013 p. 2893-4; 7 Aug 2015 p. 3204; 18 Mar 2016 p. 745.]
+[Part 5 inserted: Gazette 29 Jan 2013 p. 317; amended: Gazette 28 Jun 2013 p. 2893-4; 7 Aug 2015 p. 3204; 18 Mar 2016 p. 745.]
 ## Part 6 — Bag limits — molluscs and other invertebrates
 [r. 65H]
-[Heading inserted in Gazette 29 Jan 2013 p. 318.]
+[Heading inserted: Gazette 29 Jan 2013 p. 318.]
 Species | Bag limit for one day
 Abalone, Greenlip and Brownlip | 5
 Abalone, Roe’s | 20 (including no more than 15 taken from Abalone Zone 1)
@@ -139,4 +139,4 @@ Sea Urchin | 20
 Squid, Cuttlefish and Octopus | 15
 Zoila Cowry, Volute, Conch | 10
 Other molluscs and invertebrate species not specified | 10
-[Part 6 inserted in Gazette 29 Jan 2013 p. 318; amended in Gazette 28 Jun 2013 p. 2894; 30 May 2014 p. 1723; 22 Oct 2014 p. 4088.]
+[Part 6 inserted: Gazette 29 Jan 2013 p. 318; amended: Gazette 28 Jun 2013 p. 2894; 30 May 2014 p. 1723; 22 Oct 2014 p. 4088.]
