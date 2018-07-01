@@ -1,6 +1,6 @@
 ## Schedule 7
 [Reg. 49(1)]
-[Heading inserted in Gazette 15 Dec 1989 p. 4552.]
+[Heading inserted: Gazette 15 Dec 1989 p. 4552.]
 Form No. 1
 ‘D’ & ‘C’ TO BE AT COURSE HEIGHT BUT NOT LESS
 THAN 1200 FOR ‘C’ AND 1500 FOR ‘D’.
@@ -16,7 +16,7 @@ Cover — Shall be of concrete in section with rebated joint as shown, reinforce
 The covers shall withstand a flexural test of 2 MPa and a load bearing of 7 kPa.
 Traffic covers shall be constructed to specific Departmental specifications.
 No soak well shall be situated closer than 1.8 m to any building, boundary fence or septic tank, unless otherwise approved by the local government.
-[Form 1 amended in Gazette 29 Jul 1997 p. 4084; 5 Sep 1997 p. 5037.]
+[Form 1 amended: Gazette 29 Jul 1997 p. 4084; 5 Sep 1997 p. 5037.]
 Form No. 2
 Specifications
 Trench to be not less than 9 m long, constructed as shown.
@@ -24,7 +24,7 @@ Filling to consist of 50 mm or 75 mm gauge broken blue metal; filling on top may
 Distributing pipe to be 75 mm or 100 mm diameter unglazed agricultural pipes laid with open butt joints, or other approved piping.
 Grade shall be laid at not more than 1 in 200.
 A French drain shall not be situated closer than 3.5 m from any dwelling nor closer than 6 m from any window or door of any dwelling, nor closer than 1.8 m from any lot boundary, unless otherwise approved by the local government.
-[Form 2 amended in Gazette 29 Jul 1997 p. 4084.]
+[Form 2 amended: Gazette 29 Jul 1997 p. 4084.]
 Form No. 3
 SEMI INVERTED TYPE LEACH DRAIN
 FULLY INVERTED TYPE LEACH DRAIN
@@ -33,5 +33,5 @@ DETAILS OF LEACH DRAIN.
 THE DRAIN SHALL NOT BE SITUATED CLOSER THAN 2000 FROM ANY SEPTIC TANK, BUILDING OR BOUNDARY OF A LOT, UNLESS OTHERWISE APPROVED BY THE LOCAL GOVERNMENT.
 MINIMUM LENGTH BLACKWATER SYSTEMS TO HAVE DRAIN 6000 LONG COMBINED SYSTEMS TO HAVE DRAIN 9000 LONG REINFORCED CONCRETE PAVING SLABS POSITIONED BENEATH INLET AND BRICK SPREADER WALLS PROVIDED NOT MORE THAN 1200 cts
 SEGMENTS WHERE SEGMENTS ARE USED ALL COURSES ABOVE THE OVERT OF THE INLET TO BE LAID 3:1 CEMENT MORTAR.
-[Form 3 amended in Gazette 29 Jul 1997 p. 4084; 7 Jan 2005 p. 70.]
+[Form 3 amended: Gazette 29 Jul 1997 p. 4084; 7 Jan 2005 p. 70.]
 Form No. 4

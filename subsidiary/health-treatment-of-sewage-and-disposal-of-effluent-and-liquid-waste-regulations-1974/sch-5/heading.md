@@ -1,6 +1,6 @@
 ## Schedule 5
 [Reg. 41]
-[Heading amended in Gazette 15 Dec 1989 p. 4552.]
+[Heading amended: Gazette 15 Dec 1989 p. 4552.]
 Form No. 1
 HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974
@@ -14,7 +14,7 @@ Number: ........................................................................
 Location: .....................................................................................................
 Signature of Applicant: ......................................
 Date: ......................................
-[Form 1 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 285-6.]
+[Form 1 amended: Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 285-6.]
 Form No. 2
 HEALTH (MISCELLANEOUS PROVISIONS) ACT 1911
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974
@@ -27,4 +27,4 @@ This Certificate of Approval is granted in respect of the type of article descri
 Issued at Perth, this day of , 20.........
 ..............................................
 CHIEF HEALTH OFFICER
-[Form 2 amended in Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 286.]
+[Form 2 amended: Gazette 29 Jun 1984 p. 1781; 10 Jan 2017 p. 286.]

@@ -1,8 +1,8 @@
 ## Schedule 3
 [Reg. 34]
-[Heading inserted in Gazette 15 Dec 1989 p. 4552.]
+[Heading inserted: Gazette 15 Dec 1989 p. 4552.]
 ## Concrete covers for in situ septic tanks
-[Heading inserted in Gazette 15 Dec 1989 p. 4552.]
+[Heading inserted: Gazette 15 Dec 1989 p. 4552.]
 DEPTH 2 000
 L x B | FABRIC REINFORCEMENT FOR 2 000 DEEP TANK
 R1 | R2 | R3 | R4 | R5 | R6
