@@ -13,4 +13,4 @@ In witness of this transfer the parties to the transfer have affixed their respe
 (5) Here insert the name and address of the transferee, or, if there are 2 or more transferees, the name and address of each transferee.
 (6) Here affix the common seal or signature of the transferor or of each transferor, as the case may be.
 (7) Here affix the common seal or signature of the transferee or of each transferee, as the case may be.
-[Schedule 2 inserted in Gazette 28 Sep 1990 p. 5102; amended in Gazette 23 Jun 2009 p. 2474.]
+[Schedule 2 inserted: Gazette 28 Sep 1990 p. 5102; amended: Gazette 23 Jun 2009 p. 2474.]
