@@ -1,5 +1,5 @@
 ## Geographical limits of smooth waters and partially smooth waters
-[Heading inserted in Gazette 6 Apr 2018 p. 1213.]
+[Heading inserted: Gazette 6 Apr 2018 p. 1213.]
 Area | Smooth water limits
 Western Australian Inland Waters | All rivers and inland waterways with the exception of Lake Argyle.
 Albany | Princess Royal Harbour west of a line through Possession Point (35°2.523′S, 117°55.319′E) and King Point (35°2.093′S, 117°55.174′E). Oyster Harbour north of the latitude of Emu Point (34°59.886′S).
@@ -23,4 +23,4 @@ Kuri Bay | The waters of Brecknock Harbour enclosed by a line starting on the ma
 Lake Argyle | All the waters of Lake Argyle that are in Western Australia.
 Port Walcott | The waters of Port Walcott west of 117°13.198′E (the eastern end of Jarman Island), south of 20°32.811′S (the northern end of Bezout Island) and east of 117°10.078′E.
 Wyndham- Cambridge Gulf | The waters of the west arm of Cambridge Gulf south of the latitude of Pender Point (15°16.917′S) and north of a line through 15°29.456′S, 128°1.901′E and 15°29.980′S, 128°2.219′E including the Forrest River downstream from a line through 15°16.297′S, 127°56.910′E and 15°16.116′S, 127°57.629′E.
-[Schedule 1 inserted in Gazette 6 Apr 2018 p. 1213-15.]
+[Schedule 1 inserted: Gazette 6 Apr 2018 p. 1213-15.]

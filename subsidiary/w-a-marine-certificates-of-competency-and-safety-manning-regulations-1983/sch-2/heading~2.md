@@ -54,4 +54,4 @@ MARINE ENGINE DRIVER GRADE II — Acceptable basic qualification for —
 (a)Taking charge of the machinery on vessels of less than 20 QN engaged in operations up to Australian Coastal and Middle-Water limits, or on vessels of less than 35 QN engaged in operations up to Offshore limits; and
 (b)Second-in-charge of the machinery on vessels of less than 35 QN engaged in operations up to Australian Coastal and Middle-Water limits, or (if carried) on vessels of less than 50 QN engaged in operations up to Offshore limits.
 Note: A refrigeration endorsement of a Marine Engine Driver Grade II certificate of competency may be granted. A refrigeration endorsement is an acceptable basic qualification for taking charge of the refrigeration equipment on those vessels in which the holder of the certificate may take charge of the propulsion machinery and on fishing vessels which carry a refrigerated commercial catch.
-[Schedule 2 amended in Gazette 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 11 Feb 2011 p. 489-90.]
+[Schedule 2 amended: Gazette 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 11 Feb 2011 p. 489-90.]

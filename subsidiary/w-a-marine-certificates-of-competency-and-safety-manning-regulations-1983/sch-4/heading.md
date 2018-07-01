@@ -282,7 +282,7 @@ Examination Subjects —
 Engineering Knowledge (1 3-hour paper)
 Engineering Knowledge (Oral)
 (b)The examination for refrigeration endorsement of a certificate as Marine Engine-Driver Grade II shall be in accordance with the syllabuses set out in Schedule Two to Section 2 of the Code.
-[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390; 11 Dec 2009 p. 5091; 11 Feb 2011 p. 490-3; 14 Feb 2012 p. 672-3.]
+[Schedule 4 amended: Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390; 11 Dec 2009 p. 5091; 11 Feb 2011 p. 490-3; 14 Feb 2012 p. 672-3.]
 Schedule 5 [r. 28] Safety manning PART I TOTAL SAFETY MANNING FOR SHELTERED WATERS (SEE NOTE 7) AND INSHORE OPERATIONAL AREAS | Engine room manning | Other personnel | As determined by Manning Committee
 Certificated personnel (see Note 1) | Qualification (see Note 3) | Marine Engine Driver Grade I | Marine Engine Driver Grade II | Master’s certificate with Engineer Endorsement (see Note 9)
 Duty | Engineer | Engineer | Engineer
@@ -346,5 +346,5 @@ NOTE 6 — For fishing vessels the Total Safety manning shall be 2 persons consi
 NOTE 7 — The requirements may be amended by the Authority to meet local conditions in which case the certificate titles (Master Class IV, Master Class V and Coxswain) shall be qualified accordingly (e.g. by the addition of Harbours or Inland Waters); and the exemption from the requirements of the standard certificates may be listed at the back of the certificate.
 NOTE 8 — For vessels of 50 QN and over but less than 1 500 kW propulsion power in Australian Coastal and Middle Water Operations the Chief Engineer and Second Engineer on Fishing Vessels is to be an Engineer Class III.
 NOTE 9 — In the case of a vessel fitted with refrigerated equipment associated with the carriage of refrigerated commercial cargo or the refrigerated commercial catch on a commercial vessel, the person in charge of the machinery shall hold a Marine Engine-Driver Grade II certificate with refrigeration endorsement and be a person other than the Master.
-[Schedule 5 amended in Gazette 29 Jun 1984 p. 1760; 11 Aug 1992 p. 3977.]
+[Schedule 5 amended: Gazette 29 Jun 1984 p. 1760; 11 Aug 1992 p. 3977.]
 [Schedule 6 omitted under the Reprints Act 1984 s. 7(4)(e).]
