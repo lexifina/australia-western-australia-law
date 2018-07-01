@@ -1,6 +1,6 @@
 ## Schedule 2 — Services and matters for which fees cannot be charged
 [r. 9A(8)]
-[Heading amended in Gazette 27 May 2005 p. 2295; 22 May 2009 p. 1705.]
+[Heading amended: Gazette 27 May 2005 p. 2295; 22 May 2009 p. 1705.]
 1.Lodgment or withdrawal of a memorial under —
 (a) the Local Government Act 1995 Schedule 6.3 clause 2; or
 [(b)deleted]
@@ -21,5 +21,5 @@
 8.Lodgment of a dealing, deposited plan or other document by or on behalf of the Minister for Lands (other than such a lodgment by the Minister on behalf of another person).
 9.An application for the issue of a duplicate certificate of title where a duplicate certificate of title was not issued on the registration of the certificate of title.
 10.An application for information not to be inspected as part of the names index.
-[Schedule 2 amended in Gazette 25 Jun 2007 p. 2978; 20 Jun 2008 p. 2717; 13 Apr 2012 p. 1659; 26 Jul 2013 p. 3349; 23 Jun 2017 p. 3185.]
-[Schedule 3 deleted in Gazette 19 Jun 2009 p. 2241.]
+[Schedule 2 amended: Gazette 25 Jun 2007 p. 2978; 20 Jun 2008 p. 2717; 13 Apr 2012 p. 1659; 26 Jul 2013 p. 3349; 23 Jun 2017 p. 3185.]
+[Schedule 3 deleted: Gazette 19 Jun 2009 p. 2241.]
