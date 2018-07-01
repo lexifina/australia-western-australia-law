@@ -1,5 +1,5 @@
 ## Schedule 6 — Forms
-[Heading inserted in Gazette 4 Jun 2010 p. 2461.]
+[Heading inserted: Gazette 4 Jun 2010 p. 2461.]
 FORM 1
 [r. 16H(1)]
 PILOTAGE EXEMPTION CERTIFICATE
@@ -36,10 +36,10 @@ PILOTAGE AREA | CONDITIONS | NAME AND SIGNATURE OF OFFICER | DATE
 ............................ | ....................................... | ..................................................... | ...................
 ............................ | ....................................... | ..................................................... | ...................
 ............................ | ....................................... | ..................................................... | ...................
-[Form 1 inserted in Gazette 19 Jul 1991 p. 3648-9; amended in Gazette 4 Jun 2010 p. 2461.]
+[Form 1 inserted: Gazette 19 Jul 1991 p. 3648-9; amended: Gazette 4 Jun 2010 p. 2461.]
 FORM 2
 [r. 16J(1)]
 PILOTAGE EXEMPTION RECORD BOOK
 Pilotage Area Visits | Medical Certificates
 Pilotage Area | Date & Time In | Date & Time Out | Name of Vessel | Pilot/Harbour Master Initials | Received | Next Due
-[Form 2 inserted in Gazette 19 Jul 1991 p. 3648-9; amended in Gazette 4 Jun 2010 p. 2462.]
+[Form 2 inserted: Gazette 19 Jul 1991 p. 3648-9; amended: Gazette 4 Jun 2010 p. 2462.]

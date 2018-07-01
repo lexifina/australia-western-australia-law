@@ -1,7 +1,7 @@
 ## Schedule 1 — Signals indicating tides
 [r. 5]
-[Heading inserted in Gazette 4 Jun 2010 p. 2459.]
-[Table 1 deleted in Gazette 4 Jun 2010 p. 2459.]
+[Heading inserted: Gazette 4 Jun 2010 p. 2459.]
+[Table 1 deleted: Gazette 4 Jun 2010 p. 2459.]
 Table 2 — Tidal signals at Derby
 1.Signals to be displayed, upon request from a post at the jetty at that Port —
 Tide rising — by day, a black triangular shape; by night a green light.
@@ -15,7 +15,7 @@ Depth of water | Signal by day | Signal by night
 5.5 m | A black ball over a black oblong shape over a black triangular shape. | A red light over a white light over a green light.
 5.8 m | A black ball over 2 black oblong shapes. | A red light over 2 white lights.
 6.1 m | A black triangular shape. | A green light.
-[Table 2 inserted in Gazette 15 Jun 1973 p. 2235; amended in Gazette 4 Jun 2010 p. 2459.]
+[Table 2 inserted: Gazette 15 Jun 1973 p. 2235; amended: Gazette 4 Jun 2010 p. 2459.]
 Table 3 — Tidal signals at Point Samson
 Signals to be displayed from a post at the jetty at that Port —
 Tide rising — by day, a black triangle; by night, a green light.

@@ -1,6 +1,6 @@
 ## Schedule 4 — Specified countries
 [r. 18A(1)(a)]
-[Heading inserted in Gazette 4 Jun 2010 p. 2460.]
+[Heading inserted: Gazette 4 Jun 2010 p. 2460.]
 A country within the Commonwealth of Nations
 Belgium
 Burma
@@ -19,4 +19,4 @@ Sweden
 United States of America
 Union of Soviet Socialist Republics
 Yugoslavia.
-[Fourth Schedule inserted in Gazette 28 Aug 1981 p. 3575.]
+[Fourth Schedule inserted: Gazette 28 Aug 1981 p. 3575.]

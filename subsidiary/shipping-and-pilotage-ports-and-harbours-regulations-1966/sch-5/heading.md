@@ -1,6 +1,6 @@
 ## Schedule 5 — Specified documents
 [r. 18A(1)(b)(ii)]
-[Heading inserted in Gazette 4 Jun 2010 p. 2460.]
+[Heading inserted: Gazette 4 Jun 2010 p. 2460.]
 Country | Record
 Britain | Certificate of British Registry. British Tonnage Certificate.
 Panama | Ship’s Register. Certificado de Arqueo.
@@ -20,4 +20,4 @@ Argentina | Certificado de Matricula.
 Greece | Certificate of Nationality. Certificate of Measurement.
 China | Certificate of Vessel’s Nationality. Tonnage Certificate.
 Russia | Ship’s Register.
-[Fifth Schedule inserted in Gazette 28 Aug 1981 p. 3575.]
+[Fifth Schedule inserted: Gazette 28 Aug 1981 p. 3575.]

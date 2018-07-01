@@ -1,6 +1,6 @@
 ## Schedule 2 — Signals to be displayed on vessels
 [r. 6, 7 and 8]
-[Heading inserted in Gazette 4 Jun 2010 p. 2459.]
+[Heading inserted: Gazette 4 Jun 2010 p. 2459.]
 Table 1 — General port signals
 Purpose of signal | Signal to be displayed
 Pilot required | By day — (1)International Code Flag “G”; or (2)The Pilot Jack.
@@ -12,7 +12,7 @@ Explosives, dangerous cargo or inflammable liquids on board vessel not gas free 
 To communicate with shore station or port control | By day — (1) International Code Flag “K”; or (2) International Code Flags “YP”.
  | Both signals to be followed by appropriate complement number from Table 1 of International Code.
  | By night — Morse flashing general call, i.e., A.A.A.A., etc.
-[Table 1 inserted in Gazette 22 Feb 1972 p. 407-8; amended in Gazette 15 Jun 1973 p. 2235; 27 Jun 2003 p. 2523.]
+[Table 1 inserted: Gazette 22 Feb 1972 p. 407-8; amended: Gazette 15 Jun 1973 p. 2235; 27 Jun 2003 p. 2523.]
 Table 2 — Signals to be used by masters of dredging vessels
 Purpose of signal | Signal
 Dredging master requires any vessel approaching from seaward to keep the dredger on the starboard hand of that vessel and requires any vessel proceeding seaward to keep the dredger on the port hand of that vessel | By day — a black triangle on the yardarm on the side of the dredger to be passed. By night — a green light over a red light on the yardarm on the side of the vessel to be passed. In fog, mist, or heavy rain — the Morse sound signal letter “A” given at intervals of not more than 2 minutes on the dredger’s bell.
@@ -25,4 +25,4 @@ The Morse sound signals referred to in this table shall be given as follows:
 (a)a short ring — of 1½ seconds’ duration; and
 (b)a long ring — of 4 seconds’ duration; and
 (c)intervals between rings — of 1½ seconds’ duration.
-[Table 2 inserted in Gazette 22 Feb 1972 p. 407-8; amended in Gazette 27 Jun 2003 p. 2523.]
+[Table 2 inserted: Gazette 22 Feb 1972 p. 407-8; amended: Gazette 27 Jun 2003 p. 2523.]

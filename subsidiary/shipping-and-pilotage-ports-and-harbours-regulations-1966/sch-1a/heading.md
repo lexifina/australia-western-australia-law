@@ -1,8 +1,8 @@
 ## Schedule 1A — Declared ports
 [r. 5A]
-[Heading inserted in Gazette 4 Jun 2010 p. 2444.]
+[Heading inserted: Gazette 4 Jun 2010 p. 2444.]
 ## Division 1 — Name and limits of port
-[Heading inserted in Gazette 4 Jun 2010 p. 2444.]
+[Heading inserted: Gazette 4 Jun 2010 p. 2444.]
 Name of port | Limits of port
 Port of Barrow Island | The area of water and land described on Plan 1396 01 06B held by the Department, a copy of which is included for information purposes in Division 2.
 Port of Cape Preston | The area of water and land described on Plan 1396 01 12C held by the Department, a copy of which is included for information purposes in Division 2.
@@ -16,7 +16,7 @@ Port of Varanus Island | The area of water and land described on Plan 1396 01 05
 Port Walcott | The area of water and land described on Plan 1396 01 04B held by the Department, a copy of which is included for information purposes in Division 2.
 Port of Wyndham | The area of water and land described on Plan 1396 01 01C held by the Department, a copy of which is included for information purposes in Division 2.
 Port of Yampi Sound | The area of water and land described on Plan 1396 01 02B held by the Department, a copy of which is included for information purposes in Division 2.
-[Division 1 inserted in Gazette 4 Jun 2010 p. 2444-6; amended in Gazette 30 Nov 2011 p. 4983; 5 Sep 2014 p. 3216; 4 Jul 2017 p. 3665.]
+[Division 1 inserted: Gazette 4 Jun 2010 p. 2444-6; amended: Gazette 30 Nov 2011 p. 4983; 5 Sep 2014 p. 3216; 4 Jul 2017 p. 3665.]
 ## Division 2 — Copies of plans
-[Heading inserted in Gazette 4 Jun 2010 p. 2447.]
-[Division 2 inserted in Gazette 4 Jun 2010 p. 2447-58; amended in Gazette 30 Nov 2011 p. 4984; 5 Sep 2014 p. 3217; 4 Jul 2017 p. 3666.]
+[Heading inserted: Gazette 4 Jun 2010 p. 2447.]
+[Division 2 inserted: Gazette 4 Jun 2010 p. 2447-58; amended: Gazette 30 Nov 2011 p. 4984; 5 Sep 2014 p. 3217; 4 Jul 2017 p. 3666.]
