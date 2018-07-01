@@ -35,25 +35,9 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 
 On-demand Transport Regulations Amendment Regulations 2016 Pt. 5 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
 Transport Co-ordination Amendment Regulations 2016 | 5 Aug 2016 p. 3312-15 | r. 1 and 2: 5 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 8 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference to the clerk in Form 21 was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The references to the court in Form 21 were amended under the Reprints Act 1984 s. 7(5)(a).
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 had not come into operation. It reads as follows:
-Part 10 — Transport Co-ordination Regulations 1985 amended
-22.Regulations amended
-This Part amends the Transport Co-ordination Regulations 1985.
-23.Regulation 8A amended
-In regulation 8A:
-(a) in paragraph (a)(ii) delete “$69.15;” and insert:
-$70.25;
-(b) in paragraph (d) delete “$1.70.” and insert:
-$1.75.
-24.Regulation 8B amended
-In regulation 8B(b) delete “$43.75.” and insert:
-$44.00.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

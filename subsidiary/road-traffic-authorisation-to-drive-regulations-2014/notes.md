@@ -14,41 +14,7 @@ Road Traffic (Authorisation to Drive) Amendment Regulations (No. 4)2016 | 28 Oct
 Road Traffic Regulations Amendment (Penalties) Regulations 2017 Pt. 3 | 26 May 2017 p. 2636-9 | 28 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2017 | 3 Oct 2017 p. 5050-4 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Road Traffic (Authorisation to Drive) Regulations 2014 amended
-11.Regulations amended
-This Part amends the Road Traffic (Authorisation to Drive) Regulations 2014.
-12.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 73(1) | $35.80 | $30.00
-r. 73(2) | $35.10 | $30.00
-r. 77(1)(a) | $91.50 | $91.55
-r. 77(1)(b) | $183.00 | $183.05
-r. 77(2)(a) | $19.55 | $19.75
-r. 77(2)(b) | $39.10 | $39.45
-r. 77A(1) | $192.30 | $229.75
-r. 77A(2) | $192.30 | $229.75
-Sch. 9 it. 1 | 18.80 | 19.25
-Sch. 9 it. 2 | 13.10 | 13.95
-Sch. 9 it. 3(a)(i) | 77.20 | 89.15
-Sch. 9 it. 3(a)(ii) | 176.90 | 205.55
-Sch. 9 it. 3(b) | 41.40 | 44.70
-Sch. 9 it. 4(a) | 73.70 | 81.40
-Sch. 9 it. 4(b) | 168.60 | 196.15
-Sch. 9 it. 6(a) | 42.50 | 44.05
-Sch. 9 it. 6(b) | 133.50 | 149.50
-Sch. 9 it. 7 | 108.50 | 110.10
-Sch. 9 it. 8 | 108.50 | 110.10
-Sch. 9 it. 9 | 21.20 | 22.20
-Sch. 9 it. 10 | 14.10 | 15.40
-Sch. 9 it. 11 | 18.70 | 7.35
-Sch. 9 it. 12 | 21.10 | 21.35
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

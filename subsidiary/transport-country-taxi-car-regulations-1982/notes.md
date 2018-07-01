@@ -56,27 +56,10 @@ On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 3 | 27 May
 On-demand Transport Regulations Amendment Regulations 2016 Pt. 6 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 7 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Reprint 5: The Transport (Country Taxi-car) Regulations 1982 as at 6 Oct 2017 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
+ | Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Now known as the registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — Transport (Country Taxi-car) Regulations 1982 amended
-20.Regulations amended
-This Part amends the Transport (Country Taxi-car) Regulations 1982.
-21.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Fees
-[r. 8, 10, 11, 14 and 17]
-Item | Description | $
-1. | Administration fee for issuing taxi-car licence (r. 8(2)) | 217.00
-2. | Fee for issuing or renewing ordinary taxi-car licence (r. 8(2) and 10(1)) | 217.00
-3. | Fee for transferring ordinary taxi-car licence (r. 11(3)) | 228.00
-4. | Fee for issuing number plates for vehicle licensed as taxi-car (r. 14(1)) | 44.00
-5. | Fee for authorising operation of vehicle in substitution for vehicle under repair (r. 17(1)) | 76.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

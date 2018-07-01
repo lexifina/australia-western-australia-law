@@ -44,9 +44,6 @@ Taxi Amendment Regulations (No. 2) 2016 | 28 Oct 2016 p. 4920 | r. 1 and 2: 28 O
 Reprint 5: The Taxi Regulations 1995 as at 5 May 2017 (includes amendments listed above)
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 6 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fares) Regulations 2018 Pt. 2 | 22 May 2018 p. 1600-1 | 23 May 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Plans of the former Department of Land Administration are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
@@ -55,17 +52,6 @@ Under the Alteration of Statutory Designation (DPI) Order 2009 a reference in a 
 Now known as the registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Taxi Regulations 1995 amended
-18.Regulations amended
-This Part amends the Taxi Regulations 1995.
-19.Regulation 19 amended
-(1) In regulation 19(1) delete “$213.70” and insert:
-$217.00
-(2) In regulation 19(2) delete “$75.30.” and insert:
-$76.00.
-(3) In regulation 19(4) delete “$43.75.” and insert:
-$44.00.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

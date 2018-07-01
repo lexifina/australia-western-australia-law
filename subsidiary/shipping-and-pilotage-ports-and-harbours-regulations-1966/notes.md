@@ -102,35 +102,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 3) 2016 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2017 | 4 Jul 2017 p. 3665-6 | r. 1 and 2: 4 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Pilotage) Regulations 2018 Pt. 3 | 11 May 2018 p. 1511-12 | 12 May 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
-Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).
-The Shipping and Pilotage Amendment Act 2006 s. 10 commenced on 4 June 2010.
-Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Shipping and Pilotage (Ports and Harbours) Regulations 1966 amended
-16.Regulations amended
-This Part amends the Shipping and Pilotage (Ports and Harbours) Regulations 1966.
-17.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 9B(2)(b) | $529 | $537
-r. 9F(2)(c) | $341.80 | $346.00
-r. 9J | $190 | $195
-r. 14(3) | $5 949.84 | $6 039.09
-r. 15(3) | $979.15 | $993.84
-r. 15A(1) | $975.49 | $990.12
-r. 15A(2) | $975.49 $1 158.18 | $990.12 $1 175.55
-r. 15B | $464.01 $664.96 | $470.97 $674.93
-r. 15C | $146.13 $979.15 $2 542.89 | $148.32 $993.84 $2 581.03
-r. 16(d)(i) | $1 075.97 | $1 092.11
-Sch. 3 Div. 1 it. 1 | $8 325.65 $8 520.05 $9 457.40 $10 457.58 $12 548.61 $14 030.27 $15 360.70 | $8 450.53 $8 647.85 $9 599.26 $10 614.44 $12 736.84 $14 240.72 $15 591.11
-Sch. 3 Div. 1 it. 2(a) | $812.91 | $825.10
-Sch. 3 Div. 1 it. 2(c)(i) | $464.01/hour | $470.97/hour
-Sch. 3 Div. 1 it. 2(c)(ii) | $664.96/hour | $674.93/hour
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
