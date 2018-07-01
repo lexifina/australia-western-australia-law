@@ -18,6 +18,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2017 | 1 Dec 2017 p. 5739 | r. 1 and 2: 1 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2017 (see r. 2(b))
 Reprint 1: The Road Traffic (Vehicles) Regulations 2014 as at 5 Jan 2018 (includes amendments listed above)
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 May 2018 p. 1640-7 | 25 May 2018 (see r. 2(a))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 6 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 Repealed by the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (Cwlth).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:

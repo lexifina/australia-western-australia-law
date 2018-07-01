@@ -52,6 +52,7 @@ Reprint 5: The W.A. Marine (Certificates of Competency and Safety Manning) Regul
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2013 | 28 Jun 2013 p. 2770-1 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2014 | 30 May 2014 p. 1688-9 | r. 1 and 2: 30 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2018 | 6 Apr 2018 p. 1212-15 | r. 1 and 2: 6 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Apr 2018 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 7 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Repealed by the Pearling Act 1990.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
