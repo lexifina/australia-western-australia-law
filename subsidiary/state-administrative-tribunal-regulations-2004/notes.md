@@ -36,9 +36,6 @@ Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 5 | 
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Reprint 5: The State Administrative Tribunal Regulations 2004 as at 12 Jan 2018 (includes amendments listed above)
 State Administrative Tribunal Amendment Regulations 2018 | 26 Jun 2018 p. 2382-3 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
@@ -50,71 +47,6 @@ Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendme
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1117(7).
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The amendment to r. 9(3) in the State Administrative Tribunal Amendment Regulations (No. 4) 2013 r. 4 is not included because it was deleted by the State Administrative Tribunal Amendment Regulations 2013 r. 6(3) before the State Administrative Tribunal Amendment Regulations (No. 4) 2013 had commenced.
-On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — State Administrative Tribunal Regulations 2004 amended
-20.Regulations amended
-This Part amends the State Administrative Tribunal Regulations 2004.
-21.Regulation 9 amended
-(1) In regulation 9(1) delete the Table and insert:
-Table
-Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | Application | 1 665.00 | 1 665.00 | 100.00
-2. | Hearing fee (for each day or part of a day allocated, other than the first day) | 1 665.00 | 1 665.00 | 100.00
-3. | Application for assessment of costs | 311.00 plus assessment fee of 2.5% of the costs claimed in the application | 463.00 plus assessment fee of 2.5% of the costs claimed in the application | 93.50
-(2) In regulation 9(2) delete the Table and insert:
-Table
-Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | Application | 608.00 | 1 109.00 | 100.00
-2. | Hearing fee (for each day or part of a day allocated, other than the first day) | 556.00 | 720.00 | 100.00
-3. | Application for assessment of costs | 220.00 plus assessment fee of 2.5% of the costs claimed in the application | 330.00 plus assessment fee of 2.5% of the costs claimed in the application | 65.50
-(3) In regulation 9(4) delete the Table and insert:
-Table
-Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | Application | 111.50 | 111.50 | 33.20
-2. | Hearing fee (for each day or part of a day allocated, other than the first day) | 221.00 | 221.00 | 66.00
-3. | Application for assessment of costs | 107.50 plus assessment fee of 2.5% of the costs claimed in the application | 160.00 plus assessment fee of 2.5% of the costs claimed in the application | 32.30
-22.Regulation 10 amended
-(1) In regulation 10(2) delete the Table and insert:
-Table
-Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | Application | 608.00 | 608.00 | 100.00
-2. | Hearing fee (for each day or part of a day allocated, other than the first day) | 556.00 | 556.00 | 100.00
-3. | Application for assessment of costs | 220.00 plus assessment fee of 2.5% of the costs claimed in the application | 220.00 plus assessment fee of 2.5% of the costs claimed in the application | 65.50
-(2) In regulation 10(3) delete the Table and insert:
-Table
-Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | Application | 1 109.00 | 1 109.00 | 100.00
-2. | Hearing fee (for each day or part of a day allocated, other than the first day) | 720.00 | 720.00 | 100.00
-3. | Application for assessment of costs | 330.00 plus assessment fee of 2.5% of the costs claimed in the application | 330.00 plus assessment fee of 2.5% of the costs claimed in the application | 99.00
-23.Regulation 11B amended
-In regulation 11B delete the Table and insert:
-Table
-Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | Application | 500.00 | 500.00 | 100.00
-2. | Hearing fee (for each day or part of a day allocated, other than the first day) | 500.00 | 500.00 | 100.00
-3. | Application for assessment of costs | 173.00 plus assessment fee of 2.5% of the costs claimed in the application | 262.00 plus assessment fee of 2.5% of the costs claimed in the application | 52.00
-24.Schedule 20 replaced
-Delete Schedule 20 and insert:
-Schedule 20 — Other fees
-[r. 27]
-Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | Application under section 22(1) of the Act | 101.50 | 204.00 | 30.40
-2. | For a copy of a document, for each page or part of a page | 1.45 | 1.45 | 0.45
-3. | For a copy of reasons for decision, for each page or part of a page —
- | (a)for 1 copy on the request of a party to the application | 0.00 | 0.00 | 0.00
- | (b)for each additional copy on the request of a party to the application | 1.50 | 1.50 | 0.45
- | (c)for each copy on the request of a person who is not a party to the application | 1.50 | 1.50 | 0.45
-4. | For certifying under a seal that a document is a true copy, an additional fee of | 19.75 | 19.75 | 5.90
-5. | (a)For a copy of a transcript, or part of a transcript —
- | (i)provided to a party within 1 day after the day on which the fee is paid | 20.50 plus 8.45 per page | 20.50 plus 16.90 per page | 6.15 plus 2.55 per page
- | (ii)provided to a party within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
- | (iii)provided to a party within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
- | (b)For an additional copy of the transcript, or part of the transcript, provided to a party under paragraph (a) —
- | (i)in electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
- | (ii)paper copy | 2.10 per page | 2.10 per page | 0.60 per page
-6. | For searching the register of proceedings other than a search made by or on behalf of a party to the application of that part of the register applicable to the application | 22.30 | 22.30 | 6.65
-7. | For searching any proceeding or record other than a search made by or on behalf of a party to the application | 49.60 | 49.60 | 14.85
-8. | For sealing a summons to a witness | 40.90 | 40.90 | 12.25
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
