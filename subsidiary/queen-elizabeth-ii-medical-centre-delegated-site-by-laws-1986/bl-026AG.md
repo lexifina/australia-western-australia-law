@@ -11,4 +11,4 @@
 (3) If the secretary has made a determination under sub-bylaw (1)(f) in relation to a class of parking permits, an authorised person may cancel a parking permit in that class by giving the permit holder 60 days written notice.
 (4) If the permit holder requests an authorised person to do so, the authorised person may cancel the permit by giving the permit holder written notice.
 (5) The notice given under this by-law must set out the grounds on which the permit is cancelled.
-[By-law 26AG inserted in Gazette 22 Jun 2010 p. 2777-8; amended in Gazette 28 Jun 2013 p. 2755.]
+[By-law 26AG inserted: Gazette 22 Jun 2010 p. 2777-8; amended: Gazette 28 Jun 2013 p. 2755.]

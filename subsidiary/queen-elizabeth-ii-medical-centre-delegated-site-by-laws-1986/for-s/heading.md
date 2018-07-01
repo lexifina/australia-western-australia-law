@@ -43,7 +43,7 @@ I, (Name) ......................................................................
 admit contravening the by-law indicated in this form.
 ......................................................................
 (Signature of offender).
-[Form 2 amended in Gazette 9 Dec 1988 p. 4822; 29 Jun 2001 p. 3114; 10 Feb 2015 p. 620.]
+[Form 2 amended: Gazette 9 Dec 1988 p. 4822; 29 Jun 2001 p. 3114; 10 Feb 2015 p. 620.]
 Form 3
 Queen Elizabeth II Medical Centre Act 1966
 Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986
@@ -57,4 +57,4 @@ Infringement notice No. .................. served on you on the ................
 ................................................................................ is hereby withdrawn and no further action will be taken against you in respect of the alleged offence.
 ......................................................................
 Authorised person.
-[Form 3 amended in Gazette 9 Dec 1988 p. 4822.]
+[Form 3 amended: Gazette 9 Dec 1988 p. 4822.]

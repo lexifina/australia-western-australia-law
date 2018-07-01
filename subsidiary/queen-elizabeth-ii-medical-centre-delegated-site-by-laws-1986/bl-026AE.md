@@ -13,4 +13,4 @@
 (5) An applicant or other person must not give information in relation to an application that the person knows to be —
 (a) false or misleading in a material particular; or
 (b) likely to deceive in a material way.
-[By-law 26AE inserted in Gazette 22 Jun 2010 p. 2776; amended in Gazette 1 Jul 2016 p. 2743-4.]
+[By-law 26AE inserted: Gazette 22 Jun 2010 p. 2776; amended: Gazette 1 Jul 2016 p. 2743-4.]

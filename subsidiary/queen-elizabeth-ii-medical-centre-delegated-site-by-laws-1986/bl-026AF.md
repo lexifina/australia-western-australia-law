@@ -14,4 +14,4 @@ decision means a decision by an authorised person under by-law 26AE to —
 (b) likely to deceive in a material way.
 (7) After reviewing a decision the committee, by written notice given to the applicant, is to affirm, reverse or vary the decision.
 (8) The committee is to give the notice referred to in sub-bylaw (7) within 30 days of receiving the application for a review of the decision under sub-bylaw (2).
-[By-law 26AF inserted in Gazette 1 Jul 2016 p. 2744-5.]
+[By-law 26AF inserted: Gazette 1 Jul 2016 p. 2744-5.]

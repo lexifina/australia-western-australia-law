@@ -10,4 +10,4 @@
 (a) takes effect on the day specified in it; and
 (b) remains in effect for the period specified in it, unless it is cancelled before the end of that period.
 (5) If the holder of a parking permit of a particular class ceases to satisfy any of the eligibility criteria for that class of permit, the permit holder must notify an authorised person.
-[By-law 26AD inserted in Gazette 22 Jun 2010 p. 2775-6.]
+[By-law 26AD inserted: Gazette 22 Jun 2010 p. 2775-6.]

@@ -5,4 +5,4 @@ permit parking area means an area set aside under by-law 26(1)(c).
 (a) the person holds a parking permit of the class (if any) for which the area is set aside; and
 (b) the person parks the vehicle in accordance with that permit; and
 (c) the permit is displayed in or on the vehicle in the manner specified in the permit.
-[By-law 26AC inserted in Gazette 22 Jun 2010 p. 2775.]
+[By-law 26AC inserted: Gazette 22 Jun 2010 p. 2775.]
