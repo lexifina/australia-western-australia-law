@@ -1,6 +1,6 @@
 ## Appendix III
 [r. 19E]
-[Heading inserted in Gazette 26 Feb 1991 p. 947.]
+[Heading inserted: Gazette 26 Feb 1991 p. 947.]
 Report No. 118 of the National Acoustic Laboratories
 Appendix 3
 Binaural tables for determining percentage loss of hearing
@@ -191,4 +191,4 @@ HTL — BETTER EAR
 80 | 0.2 | 0.3 | 0.3 | 0.4 | 0.5 | 0.6 | 0.6 | 0.7 | 0.8 | 0.8 | 0.9
 85 | 0.2 | 0.3 | 0.4 | 0.4 | 0.5 | 0.6 | 0.6 | 0.7 | 0.8 | 0.8 | 0.9 | 0.9
 £90 | 0.2 | 0.3 | 0.4 | 0.4 | 0.5 | 0.6 | 0.6 | 0.7 | 0.8 | 0.8 | 0.9 | 0.9 | 1.0
-[Appendix III inserted in Gazette 26 Feb 1991 p. 947-56.]
+[Appendix III inserted: Gazette 26 Feb 1991 p. 947-56.]

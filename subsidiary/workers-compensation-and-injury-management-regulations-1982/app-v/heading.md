@@ -1,6 +1,6 @@
 ## Appendix V — Prescribed offences and modified penalties
 [r. 50, 51]
-[Heading inserted in Gazette 28 Oct 2005 p. 4970.]
+[Heading inserted: Gazette 28 Oct 2005 p. 4970.]
 Item | Section of Act | Description of offence | Modified penalty
 1A. | 57A(2A) | Failing to claim under policy of insurance | $200.00
 1. | 57A(3) | Failing to provide notice | $200.00
@@ -37,4 +37,4 @@ Item | Section of Act | Description of offence | Modified penalty
 29. | 175D(1)(d) | Giving false or misleading information in a certificate under section 175B(1)(f) of the Act | $500.00
 30. | 175D(1)(e) | Preventing another person from complying with a requirement under the Act | $500.00
 31. | 180(5) | Failing to comply with request to provide copy of relevant document | $200.00
-[Appendix V inserted in Gazette 28 Oct 2005 p. 4970-2; amended in Gazette 18 Nov 2011 p. 4826; 25 Feb 2014 p. 508.]
+[Appendix V inserted: Gazette 28 Oct 2005 p. 4970-2; amended: Gazette 18 Nov 2011 p. 4826; 25 Feb 2014 p. 508.]
