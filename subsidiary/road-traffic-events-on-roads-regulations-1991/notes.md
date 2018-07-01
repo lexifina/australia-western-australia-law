@@ -20,3 +20,4 @@ Road Traffic Consequential Amendment Regulations 2008 Pt. 3 | 10 Jun 2008 p. 244
 Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 6 | 23 Dec 2014 p. 4913-38 | 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Road Traffic (Events on Roads) Amendment Regulations 2015 | 2 Jun 2015 p. 1946 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Road Traffic (Events on Roads) Amendment Regulations 2016 | 27 May 2016 p. 1557 | r. 1 and 2: 27 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
+Road Traffic (Events on Roads) Amendment Regulations 2018 | 26 Jun 2018 p. 2391 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
