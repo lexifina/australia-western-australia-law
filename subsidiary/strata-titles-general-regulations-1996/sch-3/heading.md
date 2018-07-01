@@ -1,6 +1,6 @@
 ## Schedule 3
 [Regulation 46]
-[Forms 1 and 2 deleted in Gazette 24 Jan 2006 p. 437.]
+[Forms 1 and 2 deleted: Gazette 24 Jan 2006 p. 437.]
 Form 3
 STRATA/SURVEY-STRATA PLAN NO. | Office Use Only | Current Cs of Title | Vol. Fol. |  |  |  |  |  | Aggregate | DESCRIPTION OF PARCEL AND BUILDING/PARCEL CERTIFICATE OF LICENSED VALUER STRATA/SURVEY-STRATA I, ............................................, being a Licensed Valuer licensed under the Land Valuers Licensing Act 1978 certify that the unit entitlement of each lot (in this certificate, excluding any common property lots), as stated in the schedule bears in relation to the aggregate unit entitlement of all lots delineated on the plan a proportion not greater than 5% more or 5% less than the proportion that the value (as that term is defined in section 14(2a) of the Strata Titles Act 1985) of that lot bears to the aggregate value of all the lots delineated on the plan. ..................................................................... .............................................................. DateSigned
 Schedule of Unit Entitlement | Unit Entitlement
@@ -8,8 +8,8 @@ Lot No.
 Office Use Only | Current Cs of Title | Vol. Fol.
 Schedule of Unit Entitlement | Unit Entitlement
 Lot. No.
-[Form 3 inserted in Gazette 17 Jan 1997 p. 478-9.]
-[Form 4 deleted in Gazette 24 Jan 2006 p. 437.]
+[Form 3 inserted: Gazette 17 Jan 1997 p. 478-9.]
+[Form 4 deleted: Gazette 24 Jan 2006 p. 437.]
 Form 5
 Strata Titles Act 1985
 Sections 5B(1), 8A, 22(1)
@@ -28,7 +28,7 @@ and
 ................................................................................................
 DateLicensed Surveyor
 *Delete if inapplicable
-[Form 5 amended in Gazette 17 Jan 1997 p. 480.]
+[Form 5 amended: Gazette 17 Jan 1997 p. 480.]
 Form 6
 Strata Titles Act 1985
 Sections 8A(e), 22(2)
@@ -39,8 +39,8 @@ I ................................................... being a licensed surveyor 
 (a)is a plan of re-subdivision; and
 (b)complies with Schedule 1 by-law(s) No(s). .................................. on Survey-strata Plan No. ................................................... registered in respect of (name of scheme) or sufficiently complies with that/those by-law(s) in a way that is allowed by regulation 36 of the Strata Titles General Regulations 1996.
 .......................................................................................... Date Licensed Surveyor
-[Form 6 inserted in Gazette 24 Jan 2006 p. 437.]
-[Form 7 deleted in Gazette 13 Apr 2012 p. 1658.]
+[Form 6 inserted: Gazette 24 Jan 2006 p. 437.]
+[Form 7 deleted: Gazette 13 Apr 2012 p. 1658.]
 Form 8
 ANNEXURE ........... OF STRATA/SURVEY-STRATA PLAN No. ........... REGISTRAR OF TITLES | Schedule of Dealings on Strata/Survey-strata Plan | Signature of Registrar of Titles |  |  |  |  |  |  |  | SCHEDULE OF ENCUMBRANCES ETC. | Cancellation |  |  |  |  |  |  | Note: Entries may be affected by subsequent endorsements.
 Instrument | Time
@@ -59,7 +59,7 @@ Section 10
 The City/Town/Shire of .......................................... consents to the conversion to common property of Lot(s) ....................... in Strata/Survey-strata Plan No. ........
 ..............................................................................................
 DateChief Executive Officer.
-[Form 9 amended in Gazette 17 Jan 1997 p. 480.]
+[Form 9 amended: Gazette 17 Jan 1997 p. 480.]
 Form 10
 CERTIFICATE OF THE STRATA COMPANY
 Strata Titles Act 1985
@@ -70,7 +70,7 @@ The Common Seal of the Owners of (name of scheme) Strata/Survey-strata Plan No. 
 .......................................
 Members of the Council.
 *Delete whichever is inapplicable.
-[Form 10 amended in Gazette 17 Jan 1997 p. 480.]
+[Form 10 amended: Gazette 17 Jan 1997 p. 480.]
 Form 11
 CERTIFICATE THAT STRATA COMPANY AGREES TO AMENDED SCHEDULE OF UNIT ENTITLEMENT
 Strata Titles Act 1985
@@ -90,7 +90,7 @@ The Common Seal of the Owners of (name of scheme) Strata/Survey-strata Plan No. 
 .......................................
 .......................................
 Members of the Council.
-[Form 12 amended in Gazette 30 Dec 2004 p. 6945.]
+[Form 12 amended: Gazette 30 Dec 2004 p. 6945.]
 Form 13
 CERTIFICATE OF THE STRATA COMPANY
 Strata Titles Act 1985
@@ -148,7 +148,7 @@ The Common Seal of the Owners of (name of scheme) Strata/Survey-strata Plan No. 
 .........................................
 Members of the Council.
 *Delete whichever is inapplicable.
-[Form 17 amended in Gazette 17 Jan 1997 p. 481.]
+[Form 17 amended: Gazette 17 Jan 1997 p. 481.]
 Form 18
 CERTIFICATE OF LOCAL GOVERNMENT
 Strata Titles Act 1985
@@ -160,7 +160,7 @@ The City/Town/Shire of ........................................................ 
 ..........................................................................................
 DateChief Executive Officer
 *Delete whichever is inapplicable.
-[Form 18 amended in Gazette 17 Jan 1997 p. 481.]
+[Form 18 amended: Gazette 17 Jan 1997 p. 481.]
 Form 19
 CERTIFICATE OF THE STRATA COMPANY
 Strata Titles Act 1985
@@ -218,7 +218,7 @@ The Common Seal of the Owners of (name of scheme) Strata/Survey-strata Plan No. 
 .........................................
 Members of the Council
 *Delete whichever is inapplicable.
-[Form 20 inserted in Gazette 17 Jan 1997 p. 482-3.]
+[Form 20 inserted: Gazette 17 Jan 1997 p. 482-3.]
 Form 21
 NOTIFICATION OF CHANGE OF BY-LAWS
 Strata Titles Act 1985
@@ -232,7 +232,7 @@ The Common Seal of the Owners of (name of scheme) Strata/Survey-strata Plan No. 
 .........................................
 .........................................
 Members of the Council
-[Form 21 amended in Gazette 17 Jan 1997 p. 483.]
+[Form 21 amended: Gazette 17 Jan 1997 p. 483.]
 Form 22
 DISPOSITION ON SUBDIVISION
 Strata Titles Act 1985
@@ -270,7 +270,7 @@ Name
 Address
 Occupation
 (TO BE SIGNED BY EACH PROPRIETOR)
-[Form 22 inserted in Gazette 17 Jan 1997 p. 483.]
+[Form 22 inserted: Gazette 17 Jan 1997 p. 483.]
 Form 23
 DISPOSITION ON RE-SUBDIVISION
 Strata Titles Act 1985
@@ -311,7 +311,7 @@ Name
 Address
 Occupation
 (TO BE SIGNED BY THE STRATA COMPANY AND PROPRIETOR(S) OF EACH AFFECTED LOT)
-[Form 23 inserted in Gazette 17 Jan 1997 p. 486-8.]
+[Form 23 inserted: Gazette 17 Jan 1997 p. 486-8.]
 Form 24
 Strata Titles Act 1985
 Section 25(3)
@@ -385,7 +385,7 @@ Notes
 (c)a sketch of all buildings that are constructed or proposed to be modified or constructed showing the location of water and sewerage pipes within the property;
 (d)evidence of any approval by the local government to the proposed modification of a building or to the construction of any proposed buildings.
 2.A person who wishes to apply to the State Administrative Tribunal for a review of a decision of the Western Australian Planning Commission may do so under section 27 of the Strata Titles Act 1985.
-[Form 24 inserted in Gazette 13 May 2005 p. 2083-5.]
+[Form 24 inserted: Gazette 13 May 2005 p. 2083-5.]
 Form 25
 Strata Titles Act 1985
 Section 5C(1)
@@ -418,7 +418,7 @@ Name
 Address
 Occupation
 (ADDITIONAL SIGNATURES AS REQUIRED)
-[Form 25 amended in Gazette 17 Jan 1997 p. 490.]
+[Form 25 amended: Gazette 17 Jan 1997 p. 490.]
 Form 26
 WAPC Ref.STRATA PLAN NO. .......................
 Strata Titles Act 1985
@@ -447,7 +447,7 @@ Planning Commission
 ...................................
 Date
 (*To be deleted as appropriate.)
-[Form 26 inserted in Gazette 17 Jan 1997 p. 490.]
+[Form 26 inserted: Gazette 17 Jan 1997 p. 490.]
 Form 27
 Strata Titles Act 1985
 Regulation 37(1)(a)
@@ -474,7 +474,7 @@ PART 3 — ACKNOWLEDGMENT OF RECEIPT OF NOTIFIABLE INFORMATION
 Statement by Vendor(s) Name(s)......................................................................................................................... ......................................................................................................................... Address(es) ....................................................................................................................... ......................................................................................................................... *I/We, the Vendor(s), hereby certify that the notifiable information in relation to the Strata lot as described in Part 1 of this form, as required by section 69 of the Strata Titles Act 1985, has been given to — *the prospective purchaser(s); or *the listing agent to provide it to the prospective purchaser(s), before the offer or contract to purchase this property was signed by the purchaser. *I/We authorise the prospective purchaser(s) to inspect the records of the strata company. Vendor(s) signature(s) ..................................................................................................... Date ......................................................................... (*Delete whichever is inapplicable)
 Acknowledgment by prospective purchaser(s) *I/We, the prospective purchaser(s) described in Part 1 of this form, acknowledge that *I/we have received notifiable information in respect of the lot described in Part 1 of this form and understand that the disclosure given by the vendor(s) or by the selling agent is not an offer or a contract to purchase a strata titled lot, but only provides information to *me/us. Prospective purchaser(s) signature(s) ............................................................................. Date ............................................................... (*Delete whichever is inapplicable)
 Statement by selling agent I, .............................................................................................................(name of agent), of ..............................................................................................................(name of firm), as selling agent, hereby certify that the notifiable information for this property, as provided by the vendor, has been given to the prospective purchaser(s). Selling agent’s signature ................................................................................................. Date ...........................................................................
-[Form 28 inserted in Gazette 14 Apr 2000 p. 1884-9.]
+[Form 28 inserted: Gazette 14 Apr 2000 p. 1884-9.]
 Form 29
 Strata Titles Act 1985
 Section 69A(f)
@@ -516,7 +516,7 @@ The purchaser may have the RIGHT TO TERMINATE A CONTRACT to purchase a strata ti
 The purchaser’s right to terminate the contract is restricted if the Disclosure Statement or notification of any changes was given after entering into the contract but before settlement.
 The STANDARD BY-LAWS contained in the STRATA TITLES ACT 1985 are *set out below/attached.
 (*Delete whichever is not applicable)
-[Form 29 amended in Gazette 17 Jan 1997 p. 493-4.]
+[Form 29 amended: Gazette 17 Jan 1997 p. 493-4.]
 Form 30
 NOTICE OF RESOLUTION OF MERGER OF BUILDINGS
 Strata Titles Act 1985
@@ -544,7 +544,7 @@ Signed ........................................... | Signed ....................
 * Delete whichever is inapplicable.
 **Delete if inapplicable.
 ***This form may be signed by the strata company, all of the registered proprietors in a 2 to 5 lot scheme or by one proprietor where an order made under section 103C or 103M accompanies this form.
-[Form 30 inserted in Gazette 17 Jan 1997 p. 494-5; amended in Gazette 30 Dec 2004 p. 6945.]
+[Form 30 inserted: Gazette 17 Jan 1997 p. 494-5; amended: Gazette 30 Dec 2004 p. 6945.]
 Form 31
 NOTICE OF OBJECTION TO AUTOMATIC MERGER OF BUILDINGS
 Strata Titles Act 1985
@@ -559,7 +559,7 @@ Dated ............................................. **Full name of proprietor ..
 Signed ........................................... | Signed ...............................................
 *The effect of the application of section 21M to a scheme is that the boundaries of lots or parts of lots which are buildings are fixed by reference to the external surfaces of those buildings.
 **This form may be signed by one or more of the registered proprietors in the scheme.
-[Form 31 inserted in Gazette 17 Jan 1997 p. 495.]
+[Form 31 inserted: Gazette 17 Jan 1997 p. 495.]
 Form 32
 NOTICE OF RESOLUTION OF MERGER OF LAND
 Strata Titles Act 1985
@@ -615,7 +615,7 @@ Signed ........................................... | Signed ....................
 *Delete whichever is inapplicable.
 **Delete if inapplicable. If a resolution in the terms of 1(c) is included, a resolution in the terms of 2 must be included.
 ***This form may be signed by the strata company, all of the registered proprietors in a 2 to 5 lot scheme or by one proprietor where an order made under section 103C or 103M accompanies this form.
-[Form 32 inserted in Gazette 17 Jan 1997 p. 496-8; amended in Gazette 30 Dec 2004 p. 6945.]
+[Form 32 inserted: Gazette 17 Jan 1997 p. 496-8; amended: Gazette 30 Dec 2004 p. 6945.]
 Form 33
 NOTICE OF RESOLUTION OF MERGER OF BUILDINGS AND LAND
 Strata Titles Act 1985
@@ -672,8 +672,8 @@ Signed ........................................... | Signed ....................
 *Delete whichever is inapplicable.
 **Delete if inapplicable. If a resolution in the terms of 2(c) is included, a resolution in the terms of 3 must also be included.
 ***This form may be signed by the strata company, all of the registered proprietors in a 2 to 5 lot scheme or by one proprietor where an order made under section 103C or 103M accompanies this form.
-[Form 33 inserted in Gazette 17 Jan 1997 p. 498-500; amended in Gazette 30 Dec 2004 p. 6945.]
-[Form 34 deleted in Gazette 24 Jan 2006 p. 437.]
+[Form 33 inserted: Gazette 17 Jan 1997 p. 498-500; amended: Gazette 30 Dec 2004 p. 6945.]
+[Form 34 deleted: Gazette 24 Jan 2006 p. 437.]
 Form 35
 Strata Titles Act 1985
 Sections 21T(1)(c), 21U
@@ -700,7 +700,7 @@ and
 .................................................................................................................
 Date Licensed Surveyor
 *Delete if inapplicable.
-[Form 35 inserted in Gazette 17 Jan 1997 p. 502-3; amended in Gazette 13 Apr 2012 p. 1658.]
+[Form 35 inserted: Gazette 17 Jan 1997 p. 502-3; amended: Gazette 13 Apr 2012 p. 1658.]
 Form 36
 CERTIFICATE OF LICENSED VALUER MERGER IN STRATA SCHEME
 Strata Titles Act 1985
@@ -713,7 +713,7 @@ bears in relation to the aggregate unit entitlement of all lots delineated on th
 .................................................................................................................
 DateLicensed Valuer
 *Delete whichever is inapplicable.
-[Form 36 inserted in Gazette 17 Jan 1997 p. 503.]
+[Form 36 inserted: Gazette 17 Jan 1997 p. 503.]
 Form 37
 NOTICE OF RESOLUTION
 OF CONVERSION TO A SURVEY-STRATA SCHEME
@@ -767,7 +767,7 @@ Full name of proprietor ....................................................... 
 Signed ........................................... | Signed ............................................
 *Delete whichever is inapplicable.
 **This form may be signed by the strata company or all of the registered proprietors in a 2 to 5 lot scheme.
-[Form 37 inserted in Gazette 17 Jan 1997 p. 504-5.]
+[Form 37 inserted: Gazette 17 Jan 1997 p. 504-5.]
 Form 38
 Strata Titles Act 1985
 Sections 31E(1)(b), 31F
@@ -789,7 +789,7 @@ and
 ........................................................................................................
 DateLicensed Surveyor
 *Delete whichever is inapplicable.
-[Form 38 inserted in Gazette 17 Jan 1997 p. 506-7; amended in Gazette 24 Jan 2006 p. 437-8.]
+[Form 38 inserted: Gazette 17 Jan 1997 p. 506-7; amended: Gazette 24 Jan 2006 p. 437-8.]
 Form 39
 DISPOSITION ON MERGER OF LAND OR CONVERSION TO A SURVEY-STRATA SCHEME
 Strata Titles Act 1985
@@ -835,7 +835,7 @@ TO BE SIGNED BY:
 •ALL PROPRIETORS IN A 2 TO 5 LOT SCHEME.
 WHERE A PROPRIETOR SIGNS, THE SIGNATURE IS TO BE WITNESSED.
 WHERE INSUFFICIENT SPACE IS PROVIDED IN THIS FORM, THE REQUIRED SIGNATURES, CONSENTS OR PANELS MAY BE COMPLETED ON AN ADDITIONAL PAGE THAT IDENTIFIES AND IS ATTACHED TO THIS FORM.
-[Form 39 inserted in Gazette 17 Jan 1997 p. 507-9.]
+[Form 39 inserted: Gazette 17 Jan 1997 p. 507-9.]
 Form 40
 NOTICE OF OBJECTION TO CHANGE OF FENCING PROVISIONS
 Strata Titles Act 1985
@@ -854,7 +854,7 @@ Signed .......................................... | Signed .....................
 *Delete as appropriate.
 **This date is the day after the expiry of 6 months after the commencement of section 37 of the Strata Titles Amendment Act 1996.
 ***This form may be signed by one or more of the registered proprietors in the scheme.
-[Form 40 inserted in Gazette 17 Jan 1997 p. 509-10.]
+[Form 40 inserted: Gazette 17 Jan 1997 p. 509-10.]
 Form 41
 NOTICE OF TERMINATION OF INSURANCE ORDER
 Strata Titles Amendment Act 1996
@@ -871,4 +871,4 @@ A copy of the notice is attached to this Notice.
 Signed .......................................... | Signed ...............................................
 *Delete whichever is inapplicable.
 **This form may be signed by one or more of the registered proprietors in the scheme.
-[Form 41 inserted in Gazette 17 Jan 1997 p. 510; amended in Gazette 30 Dec 2004 p. 6945.]
+[Form 41 inserted: Gazette 17 Jan 1997 p. 510; amended: Gazette 30 Dec 2004 p. 6945.]

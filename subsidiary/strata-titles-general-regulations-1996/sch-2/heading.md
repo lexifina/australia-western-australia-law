@@ -38,4 +38,4 @@ Sections 31E(1)(b), 31F | Form 38 — Certificate of Licensed Surveyor — Conve
 Sections 21V, 31H, Regulation 21A(1)(b) | Form 39 — Disposition on Merger of Land or Conversion to a Survey-Strata Scheme.
 Sections 123A, 123C | Form 40 — Notice of Objection to Change of Fencing Provisions.
 Section 30 Strata Titles Amendment Act 1996 | Form 41 — Notice of Termination of Insurance Order.
-[Schedule 2 amended in Gazette 28 Jun 1996 p. 3061; 17 Jan 1997 p. 476-8; 30 Dec 2004 p. 6945; 24 Jan 2006 p. 436-7; 13 Apr 2012 p. 1658.]
+[Schedule 2 amended: Gazette 28 Jun 1996 p. 3061; 17 Jan 1997 p. 476-8; 30 Dec 2004 p. 6945; 24 Jan 2006 p. 436-7; 13 Apr 2012 p. 1658.]
