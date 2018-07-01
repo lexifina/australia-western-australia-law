@@ -1,6 +1,6 @@
 ## Schedule 2 — Offences under laws of other jurisdictions prescribed as Class 2 offences
 [r. 5]
-[Heading inserted in Gazette 5 Oct 2010 p. 5115.]
+[Heading inserted: Gazette 5 Oct 2010 p. 5115.]
 Provisions and jurisdiction | Description of offence
 Criminal Code Act 1995 Schedule (Commonwealth)
 s. 271.4 | Trafficking in children
@@ -54,4 +54,4 @@ s. 474.25A(2) | Causing child under 16 to engage in sexual activity with another
 s. 474.25B | Aggravated offence — child with mental impairment or under care, supervision or authority of accused person
 s. 474.25C | Using a carriage service to prepare or plan to cause harm to, engage in sexual activity with, or procure for sexual activity, persons under 16
 s. 474.27A | Using a carriage service to transmit indecent communication to child under 16
-[Schedule 2 inserted in Gazette 5 Oct 2010 p. 5115-18; amended in Gazette 3 Oct 2017 p. 5036.]
+[Schedule 2 inserted: Gazette 5 Oct 2010 p. 5115-18; amended: Gazette 3 Oct 2017 p. 5036.]
