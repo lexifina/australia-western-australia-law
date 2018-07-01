@@ -73,11 +73,12 @@ Environmental Protection Amendment Regulations 2015 | 21 Aug 2015 p. 3336 | r. 1
 Environmental Protection Amendment Regulations 2016 | 28 Jun 2016 p. 2629-32 | r. 1 and 2: 28 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 7 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Environmental Protection Amendment Regulations 2018 | 27 Apr 2018 p. 1389-90 | r. 1 and 2: 27 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2018 (see r. 2(b))
+Environmental Protection Amendment Regulations (No. 2) 2018 | 12 Jun 2018 p. 1887-9 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
+Environmental Protection (Plastic Bags) Regulations 2018 Pt. 3 (other than r. 7(2)) | 12 Jun 2018 p. 1890-1 | 1 Jul 2018 (see r. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Environmental Protection Amendment Regulations (No. 2) 2018 r. 3-8 | 12 Jun 2018 p. 1887-9 | 1 Jul 2018 (see r. 2(b))
-Environmental Protection (Plastic Bags) Regulations 2018 Pt. 3 | 12 Jun 2018 p. 1890-1 | r. 6 and 7(1): 1 Jul 2018 (see r. 2(c)); r. 7(2): 1 Jan 2019 (see r. 2(b))
+Environmental Protection (Plastic Bags) Regulations 2018 r. 7(2) | 12 Jun 2018 p. 1890-1 | 1 Jan 2019 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
@@ -85,66 +86,9 @@ At the time of this compilation section 110H of the Act provides for the establi
 Expired 30 June 2012.
 The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
 The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000 r. 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted in Gazette 19 December 2000 p. 7284.
-On the date as at which this compilation was prepared, the Environmental Protection Amendment Regulations (No. 2) 2018 r. 3-8 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Environmental Protection Regulations 1987.
-4.Regulation 4 amended
-(1) In regulation 4(5) delete “5C,”.
-(2) In regulation 4(5) in the Table delete:
-On and from 1 July 2017 | 35.60
-and insert:
-Beginning on 1 July 2017 and ending on 30 June 2018 | 35.60
-On and from 1 July 2018 | 40.60
-(3) In regulation 4(6) in the Table delete:
-On and from 1 July 2017 | 35.60
-and insert:
-Beginning on 1 July 2017 and ending on 30 June 2018 | 35.60
-On and from 1 July 2018 | 40.60
-(4) In regulation 4(7) in the Table delete:
-On and from 1 July 2017 | 49.80
-and insert:
-Beginning on 1 July 2017 and ending on 30 June 2018 | 49.80
-On and from 1 July 2018 | 56.80
-5.Regulation 5BB amended
-In regulation 5BB:
-(a) delete “(1)”;
-(b) delete “for 2016-2017 of $3.40” and insert:
-of $6.80
-6.Regulation 5C amended
-In regulation 5C delete “2 units.” and insert:
-$71.20.
-7.Regulation 5G amended
-(1) In regulation 5G(2) in the Table delete:
-On and from 1 July 2012 | 905 000.00
-and insert:
-Beginning on 1 July 2012 and ending on 30 June 2018 | 905 000.00
-On and from 1 July 2018 | 1 030 000.00
-(2) In regulation 5G(3) in the Table delete:
-On and from 1 July 2012 | 850 000.00
-and insert:
-Beginning on 1 July 2012 and ending on 30 June 2018 | 850 000.00
-On and from 1 July 2018 | 970 000.00
-(3) In regulation 5G(4) in the Table delete:
-On and from 1 July 2012 | 940 000.00
-and insert:
-Beginning on 1 July 2012 and ending on 30 June 2018 | 940 000.00
-On and from 1 July 2018 | 1 070 000.00
-(4) In regulation 5G(5) in the Table delete:
-On and from 1 July 2012 | 940 000.00
-and insert:
-Beginning on 1 July 2012 and ending on 30 June 2018 | 940 000.00
-On and from 1 July 2018 | 1 070 000.00
-8.Schedule 3 amended
-Delete the reference after the heading to Schedule 3 and insert:
-[r. 5BA(1)]
-On the date as at which this compilation was prepared, the Environmental Protection (Plastic Bags) Regulations 2018 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Environmental Protection (Plastic Bags) Regulations 2018 r. 7(2) had not come into operation. It reads as follows:
 Part 3 — Environmental Protection Regulations 1987 amended
-6.Regulations amended
-This Part amends the Environmental Protection Regulations 1987.
 7.Schedule 6 amended
-(1) At the end of Schedule 6 insert:
-Environmental Protection (Plastic Bags) Regulations 2018
-1.regulation 5 | 250 | 500
 (2) At the end of Schedule 6 delete the item relating to the Environmental Protection (Plastic Bags) Regulations 2018 and insert:
 Environmental Protection (Plastic Bags) Regulations 2018
 1.regulation 4 | 250 | 500
