@@ -18,10 +18,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Criminal Investigation (Covert Powers) Act 2012 Pt. 8 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 6 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Reprint 3: The Criminal Injuries Compensation Act 2003 as at 29 Nov 2013 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 3 | 3 of 2018 | 19 Apr 2018 | To be proclaimed (see s. 2(b))
+ | Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 3 | 3 of 2018 | 19 Apr 2018 | 1 Jul 2018 (see s. 2(b) and Gazette 29 Jun 2018 p. 2434)
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004.
@@ -32,13 +29,6 @@ The Criminal Injuries Compensation Amendment Act 2004 s. 10 reads as follows:
 (1) An order to pay moneys under section 39 of the Criminal Injuries Compensation Act 1985, made on or after 1 January 2004, is deemed to have been made under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 (2) An amount received or recovered as described in section 68 of the Criminal Injuries Compensation Act 2003, on or after 1 January 2004, is deemed to create a debt due under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 (3) A notice given under the Criminal Injuries Compensation Act 1985, on or after 1 January 2004, is deemed to have been given under the Criminal Injuries Compensation Act 2003, as amended by this Act.
-On the date as at which this compilation was prepared, the Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Criminal Injuries Compensation Act 2003 amended
-6.Act amended
-This Part amends the Criminal Injuries Compensation Act 2003.
-7.Section 68 amended
-After section 68(1) insert:
-(1A) Subsection (1) does not apply if the amount referred to in subsection (1)(b) was reduced to take into account the compensation award referred to in subsection (1)(a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
