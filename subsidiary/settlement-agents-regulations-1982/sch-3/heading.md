@@ -1,10 +1,10 @@
 ## Schedule 3 — Documents that a real estate settlement agent may draw or prepare
 [Reg. 11]
-[Heading inserted in Gazette 23 May 1997 p. 2421.]
+[Heading inserted: Gazette 23 May 1997 p. 2421.]
 ## Part A — Offer and acceptance
 1.“Contract for Sale of Land by Offer and Acceptance” (1994 revision) incorporating the “1994 Joint Form of General Conditions for the Sale of Land”, as adopted jointly by the Law Society of Western Australia (Inc) and the Real Estate Institute of Western Australia (Inc) and approved by the Settlement Agents Association (Inc) and the Associated Settlement Agents of Western Australia (Inc).
 2.“Contract for Sale of Strata Title Property by Offer and Acceptance” incorporating the “1994 Joint Form of General Conditions for the Sale of Land”, as adopted jointly by the Law Society of Western Australia (Inc) and the Real Estate Institute of Western Australia (Inc) and approved by the Settlement Agents Association (Inc) and the Associated Settlement Agents of Western Australia (Inc).
-[Part A inserted in Gazette 23 May 1997 p. 2421.]
+[Part A inserted: Gazette 23 May 1997 p. 2421.]
 ## Part B — Requisitions on title
 1.Is the certificate or certificates of title to the land the subject of any dealing or dealings under the Transfer of Land Act 1893? If so, please provide true copies of all documents lodged under the Transfer of Land Act 1893 relating to such dealing or dealings.
 2.Is the vendor aware of any circumstances which could give rise to a claim to an interest in the land, or any parts of it, by virtue of adverse possession? If so, please provide details.
@@ -25,7 +25,7 @@
 6.Is anybody in occupation of the land under any or any alleged lease or licence? If so, please provide precise details of the terms of any such lease or licence or alleged lease or licence and provide copies of any agreements in respect thereof.
 7. Are there any claims by any third parties to a mining lease or licence under the Mining Act 1978? If so, please provide precise details of the terms of any claim.
 8. The vendor is to list all applications, transfers, instruments, statutory declarations, discharges of mortgages, withdrawals of caveats or other documents to be tendered at settlement in order for the purchaser to become registered as the proprietor of the freehold of the land without any encumbrances on the title to it.
-[Part B inserted in Gazette 23 May 1997 p. 2421-2; amended in Gazette 15 Jun 2004 p. 2026; 22 Dec 2006 p. 5808; 14 Nov 2013 p. 5067.]
+[Part B inserted: Gazette 23 May 1997 p. 2421-2; amended: Gazette 15 Jun 2004 p. 2026; 22 Dec 2006 p. 5808; 14 Nov 2013 p. 5067.]
 ## Part C — Documents for registration or lodgement
 1.Under or for the purposes of the Strata Titles Act 1985 the following documents, subject to the condition that a licensee shall not draft a resolution of a strata company under or for the purposes of that Act —
 (a)these documents for the purposes of these provisions of that Act:
@@ -81,4 +81,4 @@ s. 240A | Application to change an address;
 (iii)no dealing that is adverse to, or that derogates from, the caveator’s claim is lodged or is to be lodged after the withdrawal and before the transfer to the caveator or the caveator’s nominee;
 (c)an application to amend the Register as to the name of a registered proprietor;
 (d)a withdrawal of memorial under the Water Services Act 2012 section 128 for a memorial lodged by a water corporation (as defined in that Act) in relation to the payment of an infrastructure contribution under section 128(2)(b) of that Act.
-[Part C inserted in Gazette 23 May 1997 p. 2422-4; amended in Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8.]
+[Part C inserted: Gazette 23 May 1997 p. 2422-4; amended: Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8.]

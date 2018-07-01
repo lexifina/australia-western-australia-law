@@ -1,6 +1,6 @@
 ## Schedule 1A — Professional development subjects
 [r. 4B]
-[Heading inserted in Gazette 28 Dec 2007 p. 6411.]
+[Heading inserted: Gazette 28 Dec 2007 p. 6411.]
 1.Joint Form of General Conditions
 2.Conflicts of interest and disclosures
 3.Reconciliation of trust accounts
@@ -19,4 +19,4 @@
 16.Office of State Revenue rulings and practices
 17.Landgate practices and procedures
 18.Legislative change affecting conveyancing
-[Schedule 1A inserted in Gazette 28 Dec 2007 p. 6411.]
+[Schedule 1A inserted: Gazette 28 Dec 2007 p. 6411.]
