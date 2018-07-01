@@ -28,7 +28,7 @@ in the presence of:
 (Signature and full names
 and address of witness)
 *Delete if not applicable.
-[Form 1 amended in Gazette 26 Feb 1991 p. 939; 8 Mar 1991 p. 1076; 18 Feb 1994 p. 662; 17 Nov 2000 p. 6319; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4912-13.]
+[Form 1 amended: Gazette 26 Feb 1991 p. 939; 8 Mar 1991 p. 1076; 18 Feb 1994 p. 662; 17 Nov 2000 p. 6319; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4912-13.]
 Form 1A
 [r. 4(2)]
 Workers’ Compensation and Injury Management Act 1981
@@ -53,7 +53,7 @@ in the presence of:
 (Signature and full names and address of witness)
 ______________________________________________________________
 *Delete if not applicable.
-[Form 1A inserted in Gazette 28 Oct 2005 p. 4913-14.]
+[Form 1A inserted: Gazette 28 Oct 2005 p. 4913-14.]
 Form 2
 [r. 5]
 Workers’ Compensation and Injury Management Act 1981
@@ -90,8 +90,8 @@ of
 a Medical Practitioner, attended the examination of the above claimant.
 ................................................
 (Chairman)
-[Form 2 amended in Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6845-6; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 18 Nov 2011 p. 4823.]
-[Form 2A deleted in Gazette 15 Oct 1999 p. 4900.]
+[Form 2 amended: Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6845-6; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 18 Nov 2011 p. 4823.]
+[Form 2A deleted: Gazette 15 Oct 1999 p. 4900.]
 Form 2B
 [r. 6AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -248,7 +248,7 @@ Print your name:
 Witness signature:
 Witness print name:
 IMPORTANT: FAILURE TO PROVIDE YOUR SIGNATURE ON EITHER THE DECLARATION OR THE CONSENT AUTHORITIES MAY DELAY A DECISION BY THE INSURER ON YOUR CLAIM.
-[Form 2B inserted in Gazette 10 Sep 2010 p. 4352-7; amended in Gazette 18 Nov 2011 p. 4824; 25 Mar 2014 p. 822.]
+[Form 2B inserted: Gazette 10 Sep 2010 p. 4352-7; amended: Gazette 18 Nov 2011 p. 4824; 25 Mar 2014 p. 822.]
 Form 2C
 [regs 4(1), 6AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -305,7 +305,7 @@ NIHL Claims Officer
 check:Date......./......../........Signature
 NIHL Manager
 check:Date......./......../........Signature
-[Form 2C inserted in Gazette 25 Aug 1995 p. 3885-7; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4915-16; 18 Nov 2011 p. 4824.]
+[Form 2C inserted: Gazette 25 Aug 1995 p. 3885-7; amended: Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4915-16; 18 Nov 2011 p. 4824.]
 Form 2CA
 [regs 4(2), 6AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -357,64 +357,8 @@ Termination Date......./......../........
 Subsequent test at termination Date......./......../........PLH o o. o o
 NIHL Claims Officer checkDate......./......../........Signature...................................
 NIHL Manager checkDate......./......../........Signature..................................
-[Form 2CA inserted in Gazette 28 Oct 2005 p. 4916-19.]
-Form 2D
-[r. 6AA]
-Workers’ Compensation and Injury Management Act 1981
-WORKERS’ COMPENSATION CLAIM FORM FOR DEPENDANTS OF DECEASED WORKERS
-If insufficient space attach relevant details. If you can’t fill in this form yourself you may ask someone to help you. If the deceased had no dependants this form can be used to claim for statutory allowances only (e.g. funeral expenses). Please complete all questions except for the details requested on dependants (see below).
-Applicant’s Details
-Full Name of Applicant | Surname |  | Other Names
- | Occupation |  | Relationship to deceased worker
- |  |  | i.e. Executor, spouse, de facto partner, son, daughter
-Residential Address
- | Postcode | Telephone No.
-Deceased Worker’s Details
-Full Name of deceased worker | Surname |  | Other Names
-Sex |  | Male |  | Female |  | Date of Birth | / /
-Worker’s Occupation
-Period of Employment
-Residential Address immediately prior to death
-Employer’s Details
-Full Name of Employer, including trading name
-Address of worker’s usual workplace or base | Postcode Telephone No.
-Major activity of workplace (e.g. footwear manufacturing, sheep farming)
-Deceased Worker’s Dependant/s Details
-Do not complete the following question if you are claiming for statutory allowances only. Give full details of deceased worker’s dependants as at the date of death:
-Name of Dependant | Date of Birth | Residential Address | Occupation | Relationship to deceased worker | Dependency Wholly Part ü Tick Box
- |  |  |  |  | ¨¨
- |  |  |  |  | ¨¨
- |  |  |  |  | ¨¨
-Details of Fatality
-Was the death the result of a |  | Yes |  | No
-work-related injury and/or disease?
-What was the cause of death?
-What were the main tasks/duties of the deceased’s employment when he/she suffered the injury and/or contracted the disease?
-In the case of personal injury, when did it occur? | Day of the week |  | Time |  | Date
- |  |  |  | / /
-Date of death if different. | Date | / /
-Where did the injury occur? (e.g. Workshop floor, Hay Street, Cloverdale)
-In the case of a disease, what was the date of death? | Date | / / | Date of diagnosis | Date | / /
-If known, when was the deceased first incapacitated by the disease? | Date | / / | Don’t know
-Prior to this application, have any workers’ compensation payments been received or applied for in respect of the deceased (i.e. weekly payments, medical expenses, lump sums). |  |  |  |  | Have you attached a copy of any official notice of the deceased’s death?
-YES |  | NO |  | YES |  | NO
-If yes, please attach as much information as you can
-Declaration
-I, the undersigned, do hereby warrant the truth of the foregoing statements. I hereby authorise any medical practitioner to disclose to the deceased worker’s employer or his/her insurer and WorkCover WA any information regarding the deceased worker’s medical history. However, I do not authorise the release or testing of human tissue samples or human tissue material of any kind or for any purpose.
-Signature |  | Date | / /
-Signature |  | Date | / /
-INSURER/SELF-INSURER DETAILS
-Insurer/self-insurer to complete then detach and forward the duplicate of this notice to WorkCover WA, 2 Bedbrook Place, Shenton Park, WA 6008:
-Name of insurer/self-insurer: |  | Date stamp of insurer/self-insurer
-Policy number:
-Claim number:
-WCN:
-Occurrence Details
-Mechanism:
-Agency:
-Nature:
-Body Locn:
-[Form 2D inserted in Gazette 15 Oct 1999 p. 4901-2; amended in Gazette 17 Nov 2000 p. 6320; 30 Jun 2003 p. 2637; 21 Jan 2005 p. 276; 14 Dec 2012 p. 6210.]
+[Form 2CA inserted: Gazette 28 Oct 2005 p. 4916-19.]
+[Form 2D deleted: Gazette 29 Jun 2018 p. 2446.]
 Form 3
 [r. 6A and 7(1)]
 Workers’ Compensation and Injury Management Act 1981
@@ -475,7 +419,7 @@ Address |  | Email
 Phone
 Fax |  | Date | / /
 (Practice stamp — optional)
-[Form 3 inserted in Gazette 25 Mar 2014 p. 822-4.]
+[Form 3 inserted: Gazette 25 Mar 2014 p. 822-4.]
 Form 3A
 [r. 6B]
 Workers’ Compensation and Injury Management Act 1981
@@ -498,7 +442,7 @@ Date on which weekly payments are proposed to commence:
 Signed on behalf of the insurer:
 Date:......................................................
 * Please provide this claim number to your general practitioner at your next appointment in relation to this claim
-[Form 3A inserted in Gazette 14 Dec 1999 p. 6151; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4920.]
+[Form 3A inserted: Gazette 14 Dec 1999 p. 6151; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4920.]
 Form 3B
 [r. 6C]
 Workers’ Compensation and Injury Management Act 1981
@@ -533,7 +477,7 @@ NOTE THAT if you wish you may —
 ·seek advice in relation to the dispute from WorkCover WA;
 ·if reasonable attempts have been made to resolve the dispute by negotiation with the employer and the insurer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
 ·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
-[Form 3B inserted in Gazette 8 Mar 1991 p. 1074; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4921-2; 18 Nov 2011 p. 4824.]
+[Form 3B inserted: Gazette 8 Mar 1991 p. 1074; amended: Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4921-2; 18 Nov 2011 p. 4824.]
 Form 3C
 [r. 6D]
 Workers’ Compensation and Injury Management Act 1981
@@ -563,7 +507,7 @@ NOTE THAT if you wish you may —
 ·seek advice in relation to the dispute from WorkCover WA;
 ·if reasonable attempts have been made to resolve the dispute by negotiation with the employer and the insurer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
 ·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
-[Form 3C inserted in Gazette 8 Mar 1991 p. 1075; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4922-3; 18 Nov 2011 p. 4824.]
+[Form 3C inserted: Gazette 8 Mar 1991 p. 1075; amended: Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4922-3; 18 Nov 2011 p. 4824.]
 Form 3D
 [r. 6E]
 Workers’ Compensation and Injury Management Act 1981
@@ -590,7 +534,7 @@ NOTE THAT if you wish you may —
 ·seek advice in relation to the dispute from WorkCover WA;
 ·if reasonable attempts have been made to resolve the dispute by negotiation with the employer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
 ·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
-[Form 3D inserted in Gazette 8 Mar 1991 p. 1075; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4923-4; 18 Nov 2011 p. 4824.]
+[Form 3D inserted: Gazette 8 Mar 1991 p. 1075; amended: Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4923-4; 18 Nov 2011 p. 4824.]
 Form 3E
 [r. 6F]
 Workers’ Compensation and Injury Management Act 1981
@@ -617,7 +561,7 @@ NOTE THAT if you wish you may —
 ·seek advice in relation to the dispute from WorkCover WA;
 ·if reasonable attempts have been made to resolve the dispute by negotiation with the employer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
 ·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
-[Form 3E inserted in Gazette 8 Mar 1991 p. 1075-6; amended in Gazette 5 Feb 1993 p. 1060; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4925-6; 18 Nov 2011 p. 4824-5.]
+[Form 3E inserted: Gazette 8 Mar 1991 p. 1075-6; amended: Gazette 5 Feb 1993 p. 1060; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4925-6; 18 Nov 2011 p. 4824-5.]
 Form 4
 [r. 7(1)]
 Workers’ Compensation and Injury Management Act 1981
@@ -654,7 +598,7 @@ Address |  | Email
 Phone
 Fax |  | Date | / /
 (Practice stamp — optional)
-[Form 4 inserted in Gazette 25 Mar 2014 p. 824-5.]
+[Form 4 inserted: Gazette 25 Mar 2014 p. 824-5.]
 Form 4A
 [r. 7A]
 Workers’ Compensation and Injury Management Act 1981
@@ -715,7 +659,7 @@ Address |  | Email
 Phone
 Fax |  | Date | / /
 (Practice stamp — optional)
-[Form 4A inserted in Gazette 25 Mar 2014 p. 826-8.]
+[Form 4A inserted: Gazette 25 Mar 2014 p. 826-8.]
 Form 5
 [r. 7(2)]
 Workers’ Compensation and Injury Management Act 1981
@@ -739,10 +683,10 @@ Dated theday of20 .
 Signed on behalf of the employer.
 _______________________________________________________________________
 * Delete whichever is inapplicable.
-[Form 5 corrigendum in Gazette 23 Apr 1982 p. 1384; amended in Gazette 8 Mar 1991 p. 1076; 29 Oct 1993 p. 5930; 18 Feb 1994 p. 663; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276 and 277; 28 Oct 2005 p. 4926; 25 Mar 2014 p. 828.]
+[Form 5 corrigendum: Gazette 23 Apr 1982 p. 1384; amended: Gazette 8 Mar 1991 p. 1076; 29 Oct 1993 p. 5930; 18 Feb 1994 p. 663; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276 and 277; 28 Oct 2005 p. 4926; 25 Mar 2014 p. 828.]
 Form 6
 [r. 10(1)]
-[Heading inserted in Gazette 4 Oct 2016 p. 4243.]
+[Heading inserted: Gazette 4 Oct 2016 p. 4243.]
 Workers’ Compensation and Injury Management Act 1981
 (Section 69)
 DECLARATION OF WORKER NOT RESIDING IN W.A.
@@ -790,11 +734,11 @@ Address |  | Medical specialty
 Phone |  | Signature
 Email |  | Date | / /
  | (Practice stamp - optional)
-[Form 6 inserted in Gazette 4 Oct 2016 p. 4243-5.]
-[Form 7 deleted in Gazette 18 Nov 2011 p. 4825.]
-[Forms 8-11 deleted in Gazette 8 Mar 1991 p. 1076.]
-[Form 12 deleted in Gazette 18 Feb 1994 p. 663.]
-[Form 13 deleted in Gazette 28 Oct 2005 p. 4928.]
+[Form 6 inserted: Gazette 4 Oct 2016 p. 4243-5.]
+[Form 7 deleted: Gazette 18 Nov 2011 p. 4825.]
+[Forms 8-11 deleted: Gazette 8 Mar 1991 p. 1076.]
+[Form 12 deleted: Gazette 18 Feb 1994 p. 663.]
+[Form 13 deleted: Gazette 28 Oct 2005 p. 4928.]
 Form 14
 [r. 18(1)]
 Workers’ Compensation and Injury Management Act 1981
@@ -807,7 +751,7 @@ I acknowledge that, by making this election: —
 1.I shall have no other claim to redemption of weekly payments.
 2.I shall have no claim after the date of this election to weekly payments of compensation.
 3.I shall have no further entitlement from the date of this election, to payment of expenses under the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clauses 9, 17, 18, 18A and 19 (that is, in general terms, medical and other expenses, hospital charges and travelling costs).
-4.Upon my death the provisions of the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clauses 1, 1A, 1B, 1C, 2, 3, 4, 5 and 17(2) shall not apply: that is, in general terms dependants of mine, whether totally or partially dependent, shall have no entitlement to payment, benefit, allowance or expenses (funeral or otherwise).
+4.Upon my death the provisions of the Workers’ Compensation and Injury Management Act 1981 Schedule 1A shall not apply: that is, in general terms dependants of mine, whether totally or partially dependent, shall have no entitlement to payment, benefit, allowance or expenses (funeral or otherwise).
 Dated the day of 20 .
 Signed by the worker
 in the presence of:
@@ -815,7 +759,7 @@ in the presence of:
 ...................................................................
 ...................................................................
 (Signature and full names of witness).
-[Form 14 amended in Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6850; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4928.]
+[Form 14 amended: Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6850; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4928; 29 Jun 2018 p. 2446.]
 Form 15
 [r. 18(2)]
 Workers’ Compensation and Injury Management Act 1981
@@ -828,7 +772,7 @@ I acknowledge that, by making this election: —
 1.I shall have no other claim to redemption of weekly payments.
 2.I shall have no claim after the date of this election to weekly payments of compensation.
 3.If my death results from that injury and a dependant spouse or/and a dependant de facto partner survives me then that person is, or those persons are, entitled to all or part of a lump sum calculated in accordance with the Workers’ Compensation and Injury Management Act 1981 Schedule 5 clause 7 of the supplementary amount for a worker with a dependent spouse or dependent de facto partner.
-4.Upon my death the provisions of the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clauses 1, 1A, 1B, 1C, 2, 3, 4, 5 and 17(2) shall not apply: that is, in general terms, dependants of mine, whether totally or partially dependent, shall have no entitlement to any payment, benefit, allowance or expense (funeral or otherwise).
+4.Upon my death the provisions of the Workers’ Compensation and Injury Management Act 1981 Schedule 1A shall not apply: that is, in general terms, dependants of mine, whether totally or partially dependent, shall have no entitlement to any payment, benefit, allowance or expense (funeral or otherwise).
 Dated the day of 20 .
 Signed by the worker
 in the presence of:
@@ -838,7 +782,7 @@ in the presence of:
 (Signature and full names of witness).
 ______________________________________________________________________
 * Delete whichever is inapplicable.
-[Form 15 amended in Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6850; 17 Nov 2000 p. 6320; 30 Jun 2003 p. 2637-8; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4928-9.]
+[Form 15 amended: Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6850; 17 Nov 2000 p. 6320; 30 Jun 2003 p. 2637-8; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4928-9; 29 Jun 2018 p. 2446.]
 Form 15A
 [r. 12(4)]
 Workers’ Compensation and Injury Management Act 1981
@@ -852,7 +796,7 @@ TAKE NOTICE
 Dated this................ day of........................................ 20...............
 ...............................................................
 Director
-[Form 15A inserted in Gazette 18 Feb 1994 p. 663; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
+[Form 15A inserted: Gazette 18 Feb 1994 p. 663; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
 Form 15B
 [r. 12(5)]
 Workers’ Compensation and Injury Management Act 1981
@@ -867,7 +811,7 @@ You may, without fee, obtain a certificate of the memorandum and its recording.
 Dated this.............................. day of....................................... 20.............
 ............................................................
 Director
-[Form 15B inserted in Gazette 18 Feb 1994 p. 664; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
+[Form 15B inserted: Gazette 18 Feb 1994 p. 664; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
 Form 15C
 [r. 12(1a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -930,7 +874,7 @@ in the presence of:
 SIGNED by or on behalf of the employer:
 in the presence of-
 *Delete if not applicable.
-[Form 15C inserted in Gazette 15 Oct 1999 p. 4907-10; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929-31; 18 Nov 2011 p. 4825.]
+[Form 15C inserted: Gazette 15 Oct 1999 p. 4907-10; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929-31; 18 Nov 2011 p. 4825.]
 Form 15D
 [r. 12(3a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -948,7 +892,7 @@ I , confirm that I have read the above information and I acknowledge that I am a
 Dated the day of (year)
 .......................................
 Signature of the worker
-[Form 15D inserted in Gazette 15 Oct 1999 p. 4910; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4931-2.]
+[Form 15D inserted: Gazette 15 Oct 1999 p. 4910; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4931-2.]
 Form 15E
 [r. 12(4a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -966,7 +910,7 @@ a party affected by such Memorandum, in the following particulars:
 of a party interested in the Memorandum in the above mentioned matter sent to you for registration, objects to the same being recorded, on the following grounds:)
 (here state grounds)
 Dated this day of (year)
-[Form 15E inserted in Gazette 15 Oct 1999 p. 4911; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4932.]
+[Form 15E inserted: Gazette 15 Oct 1999 p. 4911; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4932.]
 Form 15F
 [r. 12(4b)]
 Workers’ Compensation and Injury Management Act 1981
@@ -987,7 +931,7 @@ The Memorandum will therefore not be recorded, except with the consent in writin
 or by order of the Registrar.
 Dated this day of , (year)
 Director
-[Form 15F inserted in Gazette 15 Oct 1999 p. 4911-12; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4932; 18 Nov 2011 p. 4825.]
+[Form 15F inserted: Gazette 15 Oct 1999 p. 4911-12; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4932; 18 Nov 2011 p. 4825.]
 Form 15G
 [r. 12AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -1024,10 +968,10 @@ worker |  | Date | / /
  | (signed on behalf of employer)
 WorkCover WA |  | Date | / /
  | (signed on behalf of employer)
-[Form 15G inserted in Gazette 28 Oct 2005 p. 4932-4.]
+[Form 15G inserted: Gazette 28 Oct 2005 p. 4932-4.]
 Form 16
 [r. 15]
-[Heading inserted in Gazette 14 Dec 2012 p. 6211.]
+[Heading inserted: Gazette 14 Dec 2012 p. 6211.]
 Workers’ Compensation and Injury Management Act 1981
 MONTHLY STATEMENT BY APPROVED INSURANCE OFFICES
 CONFIDENTIAL
@@ -1041,10 +985,10 @@ WorkCover no. | Policy/cover note no. | New (N) Renewal (R) Cover note (C) | Nam
 Position held by officer.............................................................. Date....................................................
 ...............................................
 Signature of responsible officer
-[Form 16 inserted in Gazette 14 Dec 2012 p. 6211-12.]
+[Form 16 inserted: Gazette 14 Dec 2012 p. 6211-12.]
 Form 17
 [r. 15]
-[Heading inserted in Gazette 14 Dec 2012 p. 6212.]
+[Heading inserted: Gazette 14 Dec 2012 p. 6212.]
 Workers’ Compensation and Injury Management Act 1981
 MONTHLY STATEMENT BY APPROVED INSURANCE OFFICES
 CONFIDENTIAL
@@ -1058,7 +1002,7 @@ WorkCover No. | Policy no. | Name | Address | Reason
 Position held by officer............................................................. Date......................................................
 ....................................................
 Signature of responsible officer
-[Form 17 inserted in Gazette 14 Dec 2012 p. 6212.]
+[Form 17 inserted: Gazette 14 Dec 2012 p. 6212.]
 Form 18
 [r. 19D]
 Workers’ Compensation and Injury Management Act 1981
@@ -1077,7 +1021,7 @@ at................................................ am/pm on
 (name of employer) (date)
 NON-ATTENDANCE:A worker shall not, without reasonable excuse, fail to submit himself for an audiometric test of which the worker has notice (regulation 19D(3)).
 PERIOD OF QUIET:An employer shall ensure that the worker is not knowingly exposed in the workplace, and the worker shall not knowingly permit himself to be exposed, to noise levels above 80dB(A) during the 16 hours immediately preceding the audiometric test (regulation 19D(2)).
-[Form 18 inserted in Gazette 26 Feb 1991 p. 940; amended in Gazette 8 Mar 1991 p. 1076; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4934.]
+[Form 18 inserted: Gazette 26 Feb 1991 p. 940; amended: Gazette 8 Mar 1991 p. 1076; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4934.]
 Form 19A
 [r. 19F]
 Workers’ Compensation and Injury Management Act 1981
@@ -1126,7 +1070,7 @@ I hereby certify, that I have personally conducted an audiometric test in accord
 SIGNATURE |  | DAY | MONTH | YEAR
 *Delete which doesn’t apply
 **Approved Medical Practitioners or Audiologists Only
-[Form 19A inserted in Gazette 3 Apr 1992 p. 1542-3; amended in Gazette 21 Jan 2005 p. 276 and 277.]
+[Form 19A inserted: Gazette 3 Apr 1992 p. 1542-3; amended: Gazette 21 Jan 2005 p. 276 and 277.]
 Form 19B
 [r. 19F]
 Workers’ Compensation and Injury Management Act 1981
@@ -1178,8 +1122,8 @@ SIGNATURE |  | DAY | MONTH | YEAR
 *Delete which doesn’t apply
 **Approved Medical Practitioners or Audiologists Only
 ***Registered Otorhinolaryngologist Only
-[Form 19B inserted in Gazette 3 Apr 1992 p. 1544-5; amended in Gazette 21 Jan 2005 p. 276 and 277.]
-[Form 20 deleted in Gazette 28 Oct 2005 p. 4934.]
+[Form 19B inserted: Gazette 3 Apr 1992 p. 1544-5; amended: Gazette 21 Jan 2005 p. 276 and 277.]
+[Form 20 deleted: Gazette 28 Oct 2005 p. 4934.]
 Form 21
 [r. 19H]
 Workers’ Compensation and Injury Management Act 1981
@@ -1194,7 +1138,7 @@ and request that you arrange a retest of hearing under regulation 19H.
 ...........................................................................................................................
 Signature of ApplicantDate
 *Strike out whichever does not apply.
-[Form 21 inserted in Gazette 26 Feb 1991 p. 946; amended in Gazette 8 Mar 1991 p. 1076; 21 Jan 2005 p. 276 and 277.]
+[Form 21 inserted: Gazette 26 Feb 1991 p. 946; amended: Gazette 8 Mar 1991 p. 1076; 21 Jan 2005 p. 276 and 277.]
 Form 22
 [r. 19J(1)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1227,7 +1171,7 @@ Tick if the worker and the employer cannot agree on whether the degree of disabi
 The action taken by or on behalf of the worker to obtain the employer’s agreement
 Signature of worker |  | Date | / /
 Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia You must also give to the Director medical evidence from a medical practitioner indicating that, in his or her opinion, your degree of disability is not less than the relevant level.
-[Form 22 inserted in Gazette 14 Dec 1999 p. 6153-4; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4934-5; 18 Nov 2011 p. 4825.]
+[Form 22 inserted: Gazette 14 Dec 1999 p. 6153-4; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4934-5; 18 Nov 2011 p. 4825.]
 Form 22A
 [r. 19JA]
 Workers’ Compensation and Injury Management Act 1981
@@ -1267,7 +1211,7 @@ Name of Medical Practitioner/s | Date of medical report/s
 Note: Under section 93EA(4)(c) of the Act, this form is to be accompanied by a copy of the medical evidence that complies with section 93D(6) of the Act, unless the worker satisfies the Director that the complying evidence has already been produced.
 Signature of worker | ________________________________ | Date | / /
 Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia
-[Form 22A inserted in Gazette 26 Oct 2004 p. 4902-5; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4935; 18 Nov 2011 p. 4825.]
+[Form 22A inserted: Gazette 26 Oct 2004 p. 4902-5; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4935; 18 Nov 2011 p. 4825.]
 Form 22B
 [r. 19JB]
 Workers’ Compensation and Injury Management Act 1981
@@ -1307,7 +1251,7 @@ Name of Medical Practitioner/s | Date of medical report/s
 Note: Under section 93EB(4)(c) of the Act, this form is to be accompanied by a copy of the medical evidence that complies with section 93D(6) of the Act, unless the worker satisfies the Director that the complying evidence has already been produced.
 Signature of worker |  | Date | / /
 Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia
-[Form 22B inserted in Gazette 26 Oct 2004 p. 4905-8; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4936; 18 Nov 2011 p. 4825.]
+[Form 22B inserted: Gazette 26 Oct 2004 p. 4905-8; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4936; 18 Nov 2011 p. 4825.]
 Form 23
 [r. 19J(2), (3)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1332,7 +1276,7 @@ Signature of Director |  | Date | / /
 Employer’s objection
 Employer’s assessment of degree of disability
 Signature of employer |  | Date | / /
-[Form 23 inserted in Gazette 14 Dec 1999 p. 6154-5; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4936-7; 18 Nov 2011 p. 4825.]
+[Form 23 inserted: Gazette 14 Dec 1999 p. 6154-5; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4936-7; 18 Nov 2011 p. 4825.]
 Form 23A
 [r. 19JA]
 Workers’ Compensation and Injury Management Act 1981
@@ -1372,7 +1316,7 @@ Signature of Director |  | Date | / /
 Employer’s objection
 Employer’s assessment of degree of disability
 Signature of employer |  | Date | / /
-[Form 23A inserted in Gazette 26 Oct 2004 p. 4908-10; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4937-8; 9 Dec 2005 p. 5897; 18 Nov 2011 p. 4825.]
+[Form 23A inserted: Gazette 26 Oct 2004 p. 4908-10; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4937-8; 9 Dec 2005 p. 5897; 18 Nov 2011 p. 4825.]
 Form 23B
 [r. 19JB]
 Workers’ Compensation and Injury Management Act 1981
@@ -1412,7 +1356,7 @@ Signature of Director |  | Date | / /
 Employer’s objection
 Employer’s assessment of degree of disability
 Signature of employer |  | Date | / /
-[Form 23B inserted in Gazette 26 Oct 2004 p. 4911-13; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4937-8; 9 Dec 2005 p. 5897; 18 Nov 2011 p. 4825.]
+[Form 23B inserted: Gazette 26 Oct 2004 p. 4911-13; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4937-8; 9 Dec 2005 p. 5897; 18 Nov 2011 p. 4825.]
 Form 24
 [r. 19K(1), (2)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1446,7 +1390,7 @@ Signature of witness |  | Name of witness
 Recording of agreement
 Date of recording |  | Record no.
 Signature of Director |  | Date | / /
-[Form 24 inserted in Gazette 14 Dec 1999 p. 6156-7; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4938.]
+[Form 24 inserted: Gazette 14 Dec 1999 p. 6156-7; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4938.]
 Form 25
 [r. 19M(1)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1485,7 +1429,7 @@ Warning The registration of this election will, in most cases, prevent you from 
 Registration of election
 Date of registration |  | Registration no.
 Signature of Director |  | Date | / /
-[Form 25 inserted in Gazette 14 Dec 1999 p. 6157-9; amended in Gazette 17 Nov 2000 p. 6317 and 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4938.]
+[Form 25 inserted: Gazette 14 Dec 1999 p. 6157-9; amended: Gazette 17 Nov 2000 p. 6317 and 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4938.]
 Form 26
 [r. 19N(3)(a) and (5)(a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1523,7 +1467,7 @@ Granting of extension
 An extension of time to make an election under section 93E(3)(b) of the Act — ris granted until / / OR ris not granted
 The extension of time is granted under — r regulation 19N(2)(a) OR r regulation 19N(2)(c)
 Signature of Director |  | Date | / /
-[Form 26 inserted in Gazette 14 Dec 1999 p. 6159-61; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4938-9; 18 Nov 2011 p. 4825.]
+[Form 26 inserted: Gazette 14 Dec 1999 p. 6159-61; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4938-9; 18 Nov 2011 p. 4825.]
 Form 27
 [r. 19N(4)(a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1561,7 +1505,7 @@ Lodging this form This form should be lodged with — Director WorkCover WA Pert
 Granting of extension
 An extension of time to make an election under section 93E(3)(b) of the Act — ris granted until / / OR ris not granted
 Signature of Director |  | Date | / /
-[Form 27 inserted in Gazette 14 Dec 1999 p. 6161-3; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4939; 18 Nov 2011 p. 4825.]
+[Form 27 inserted: Gazette 14 Dec 1999 p. 6161-3; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4939; 18 Nov 2011 p. 4825.]
 Form 28
 [r. 19N(3a)(a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1597,11 +1541,11 @@ Lodging this form This form should be lodged with — Director WorkCover WA Pert
 Granting of extension
 An extension of time to make an election under section 93E(3)(b) of the Act — ris granted until / / OR ris not granted
 Signature of Director |  | Date | / /
-[Form 28 inserted in Gazette 17 Nov 2000 p. 6317-19; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4939; 18 Nov 2011 p. 4825.]
+[Form 28 inserted: Gazette 17 Nov 2000 p. 6317-19; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4939; 18 Nov 2011 p. 4825.]
 Form 29
 [r. 16A(1)]
 Workers’ Compensation and Injury Management Act 1981
-(Schedule 1 clause 1C(1), (5))
+(Schedule 1 clause 1C(1) and (5), Schedule 8 clause 10)
 NOTICE OF DEPENDANT’S ENTITLEMENT TO ELECT
 Record No.
 TO:
@@ -1618,11 +1562,11 @@ The Director may refuse to register the election if not satisfied that you have 
 Dated this..................... day of................ 20.........
 ................................................................................
 Director
-[Form 29 inserted in Gazette 28 Oct 2005 p. 4939-40; amended in Gazette 18 Nov 2011 p. 4825.]
+[Form 29 inserted: Gazette 28 Oct 2005 p. 4939-40; amended: Gazette 18 Nov 2011 p. 4825; 29 Jun 2018 p. 2446.]
 Form 30
 [r. 16A(2)]
 Workers’ Compensation and Injury Management Act 1981
-(Schedule 1 clause 1C(4)(a), (5))
+(Schedule 1 clause 1C(4)(a) and (5), Schedule 8 clause 10)
 NOTICE OF PROVISIONAL APPORTIONMENT
 Record No.
 TO:
@@ -1642,7 +1586,7 @@ The Director may refuse to register the election if not satisfied that you have 
 Dated this..................... day of................ 20.........
 .................................................................................
 Arbitrator
-[Form 30 inserted in Gazette 28 Oct 2005 p. 4941.]
+[Form 30 inserted: Gazette 28 Oct 2005 p. 4941; amended: Gazette 29 Jun 2018 p. 2446.]
 Form 31
 [r. 17AD(2)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1705,7 +1649,7 @@ employer |  | Date | / /
  | (signature of person sending copy)
 Note
 Section 93E(14) of the Workers’ Compensation and Injury Management Act 1981 provides that if a further additional sum has been allowed to a worker under Schedule 1 clause 18A(1b) of that Act in relation to an injury that is compensable under the Act, damages are not to be awarded in respect of the injury.
-[Form 31 inserted in Gazette 28 Oct 2005 p. 4942-4; amended in Gazette 18 Nov 2011 p. 4825.]
+[Form 31 inserted: Gazette 28 Oct 2005 p. 4942-4; amended: Gazette 18 Nov 2011 p. 4825.]
 Form 32
 [r. 20]
 Workers’ Compensation and Injury Management Act 1981
@@ -1749,7 +1693,7 @@ To worker |  | Date | / /
  | (signature of person sending copy)
 To employer |  | Date | / /
  | (signature of person sending copy)
-[Form 32 inserted in Gazette 28 Oct 2005 p. 4944-6.]
+[Form 32 inserted: Gazette 28 Oct 2005 p. 4944-6.]
 Form 33
 [r. 21]
 Workers’ Compensation and Injury Management Act 1981
@@ -1793,7 +1737,7 @@ worker |  | Date | / /
  | (signature of person sending copy)
 employer |  | Date | / /
  | (signature of person sending copy)
-[Form 33 inserted in Gazette 28 Oct 2005 p. 4946-8.]
+[Form 33 inserted: Gazette 28 Oct 2005 p. 4946-8.]
 Form 34
 [r. 22]
 Workers’ Compensation and Injury Management Act 1981
@@ -1853,7 +1797,7 @@ worker |  | Date | / /
  | (signature of person sending copy)
 employer |  | Date | / /
  | (signature of person sending copy)
-[Form 34 inserted in Gazette 28 Oct 2005 p. 4948-50.]
+[Form 34 inserted: Gazette 28 Oct 2005 p. 4948-50.]
 Form 35
 [r. 23]
 Workers’ Compensation and Injury Management Act 1981
@@ -1918,7 +1862,7 @@ worker |  | Date | / /
  | (signature of person sending copy)
 employer |  | Date | / /
  | (signature of person sending copy)
-[Form 35 inserted in Gazette 28 Oct 2005 p. 4951-3; amended in Gazette 18 Nov 2011 p. 4825.]
+[Form 35 inserted: Gazette 28 Oct 2005 p. 4951-3; amended: Gazette 18 Nov 2011 p. 4825.]
 Form 36
 [r. 25]
 Workers’ Compensation and Injury Management Act 1981
@@ -1947,7 +1891,7 @@ Postcode
 Telephone no. |  | WorkCover number (WCN)
 Contact person
 Title |  | Telephone no.
-[Form 36 inserted in Gazette 28 Oct 2005 p. 4953-4; amended in Gazette 18 Nov 2011 p. 4825.]
+[Form 36 inserted: Gazette 28 Oct 2005 p. 4953-4; amended: Gazette 18 Nov 2011 p. 4825.]
 Form 37
 [r. 47(4)(a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1991,7 +1935,7 @@ To worker |  | Date | / /
  | (signature of person sending copy)
 To employer |  | Date | / /
  | (signature of person sending copy)
-[Form 37 inserted in Gazette 28 Oct 2005 p. 4955-6.]
+[Form 37 inserted: Gazette 28 Oct 2005 p. 4955-6.]
 Form 38
 [r. 47(4)(b)]
 Workers’ Compensation and Injury Management Act 1981
@@ -2029,7 +1973,7 @@ To worker |  | Date | / /
  | (signature of person sending copy)
 To employer |  | Date | / /
  | (signature of person sending copy)
-[Form 38 inserted in Gazette 28 Oct 2005 p. 4957-8.]
+[Form 38 inserted: Gazette 28 Oct 2005 p. 4957-8.]
 Form 39
 [r. 48]
 Workers’ Compensation and Injury Management Act 1981
@@ -2089,7 +2033,7 @@ worker |  | Date | / /
  | (signature of person sending copy)
 employer |  | Date | / /
  | (signature of person sending copy)
-[Form 39 inserted in Gazette 28 Oct 2005 p. 4959-61; amended in Gazette 18 Nov 2011 p. 4825.]
+[Form 39 inserted: Gazette 28 Oct 2005 p. 4959-61; amended: Gazette 18 Nov 2011 p. 4825.]
 Form 40
 [r. 52]
 Workers’ Compensation and Injury Management Act 1981 INFRINGEMENT NOTICE | Infringement notice no.
@@ -2113,7 +2057,7 @@ How to pay | By post | Tick the relevant box below and post this notice to: Work
  | Electronic transfer | [Insert details]
 *The following are authorised officers for the purposes of receiving payment of modified penalties:
 Method of service |  | Date of service
-[Form 40 inserted in Gazette 25 Feb 2014 p. 505-7.]
+[Form 40 inserted: Gazette 25 Feb 2014 p. 505-7.]
 Form 41
 [r. 53]
 Workers’ Compensation and Injury Management Act 1981 WITHDRAWAL OF INFRINGEMENT NOTICE | Withdrawal no.
@@ -2131,4 +2075,4 @@ Date | Date of withdrawal
 Withdrawal of infringement notice | The above infringement notice issued against you for the above alleged offence has been withdrawn. If you have already paid the modified penalty for the alleged offence, you are entitled to a refund.
 [*Delete whichever is not applicable] | *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, you may claim your refund by signing and dating this notice and posting it to: Workcover WA [Insert address]
 Your signature |  | Date
-[Form 41 inserted in Gazette 25 Feb 2014 p. 507-8.]
+[Form 41 inserted: Gazette 25 Feb 2014 p. 507-8.]
