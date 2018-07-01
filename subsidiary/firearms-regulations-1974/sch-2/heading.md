@@ -40,4 +40,4 @@ Any other rifle of category B that is chambered for any of the following cartrid
 .45ACP
 .45/70Government
 .577Solid and coiled Snider
-[Schedule 2 inserted in Gazette 6 Dec 1996 p. 6841; amended in Gazette 12 Aug 2003 p. 3669.]
+[Schedule 2 inserted: Gazette 6 Dec 1996 p. 6841; amended: Gazette 12 Aug 2003 p. 3669.]
