@@ -13,6 +13,7 @@ Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 6 | 5 Feb 2016
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 5 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 4 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Now known as the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

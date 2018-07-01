@@ -140,10 +140,8 @@ Mining Amendment Regulations 2017 | 5 Sep 2017 p. 4681-5 | r. 1 and 2: 5 Sep 201
 Mining Amendment Regulations (No. 2) 2017 | 29 Sep 2017 p. 4986-7 | r. 1 and 2: 29 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2017 (see r. 2(b))
 Mining Amendment Regulations (No. 3) 2017 | 24 Nov 2017 p. 5682-3 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
 Mining Amendment Regulations (No. 4) 2017 | 22 Dec 2017 p. 5989-93 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Mining Amendment Regulations (No. 2) 2018 r. 3-4 | 4 May 2018 p. 1477-9 | 1 Jul 2018 (see r. 2(b))
+Mining Amendment Regulations (No. 2) 2018 | 4 May 2018 p. 1477-9 | r. 1 and 2: 4 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -161,26 +159,6 @@ commencement day means the day on which these regulations come into operation;
 existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
 Disallowed on 12 Oct 2017 see Gazette 17 Oct 2017 p. 5345.
 Disallowed on 28 Nov 2017 see Gazette 1 Dec 2017 p. 5749.
-On the date as at which this compilation was prepared, the Mining Amendment Regulations (No. 2) 2018 r. 3-4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Mining Regulations 1981.
-4.Regulation 86AA amended
-(1) In regulation 86AA(8) and (9) after “gold bearing material” (1st occurrence) insert:
-(other than material to which subregulation (9A) applies)
-(2) After regulation 86AA(9) insert:
-(9A) If gold bearing material is exported from Australia as a concentrate or as crushed or screened material (that is, not in the form of a metal) —
-(a) gold metal is to be regarded as being produced from the gold bearing material at the time when the ship used to export the material arrives at the place where the material is to be unloaded; and
-(b) the amount of gold metal that is to be regarded as being produced from the gold bearing material is —
-(i) the payable gold metal content of the material as ascertained by the Director General of Mines from the invoice or invoices for the material or assays of the material; or
-(ii) if ascertaining the amount described in subparagraph (i) is not practicable — the amount determined by the Director General of Mines, after consultation with the person liable to pay the royalty, to be a reasonable estimate of the gold metal content.
-(3) In regulation 86AA(10):
-(a) in paragraph (b) delete “amount,” and insert:
-amount; or
-(b) after paragraph (b) insert:
-(c) after an amount has been determined under subregulation (9A)(b)(ii) to be a reasonable estimate of the gold metal content of gold bearing material, the Director General of Mines is satisfied by information given by the person liable to pay the royalty that the payable gold metal content of the material differs from the estimated amount,
-(4) In regulation 86AA(11) insert in alphabetical order:
-invoice, for gold bearing material, means an invoice (other than an interim invoice) for the sale of the material or the metal or mineral content of the material;
-payable gold metal content, of gold bearing material, means the gold metal content of the material ascertained, on a payable basis (which includes taking into account a fair and reasonable estimate of refining or smelting losses), from assays of the material;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -237,6 +215,7 @@ ilmenite feedstock86AC(1)
 increasing adjustment85AA(5)
 input tax credit85AA(5)
 inspector120F(5)
+invoice86AA(11)
 issuing officer4A
 JLSch. 4 cl. 1
 JORC Code89C(1)
@@ -261,6 +240,7 @@ objection137(1)
 operations report96(1)
 other tenementSch. 3 cl. 7(5)
 party137(1)
+payable gold metal content86AA(11)
 permit4A
 permit holder4A
 PLSch. 4 cl. 1
@@ -286,7 +266,7 @@ release date23(2)
 relevant depth101A(1)
 relevant exploration licence4A
 relevant operations report58A(1)
-relevant period86(2a), 96CA(1)
+relevant period 86(2a), 96CA(1)
 reversion licence63A(1)
 royalty ore86AD(4)
 royalty return2

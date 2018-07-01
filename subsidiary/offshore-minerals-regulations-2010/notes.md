@@ -10,6 +10,7 @@ Offshore Minerals Amendment Regulations 2015 | 26 Jun 2015 p. 2256-7 | r. 1 and 
 Mining and Offshore Minerals Regulations Amendment (Fees and Rents) Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2335-8 | 1 Jul 2016 (see r. 2(b))
 Reprint 1: The Offshore Minerals Regulations 2010 as at 10 Feb 2017 (includes amendments listed above)
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

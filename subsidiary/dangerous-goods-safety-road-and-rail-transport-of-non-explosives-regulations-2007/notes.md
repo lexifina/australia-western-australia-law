@@ -21,6 +21,7 @@ Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 5 | 5 Feb 2016
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 4 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2017 | 11 Jul 2017 p. 3820-33 | r. 1 and 2: 11 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2017 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed, before the amendments came into operation, by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
 Defined terms

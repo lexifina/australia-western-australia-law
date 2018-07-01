@@ -17,6 +17,7 @@ Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 4 | 5 Feb 2016
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Reprint 2: The Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 as at 3 Mar 2017 (includes amendments listed above)
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

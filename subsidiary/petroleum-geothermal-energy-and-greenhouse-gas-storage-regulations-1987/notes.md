@@ -29,6 +29,7 @@ Compilation table
  | Petroleum and Geothermal Energy Resources Amendment Regulations (No. 2) 2015 | 30 Jun 2015 p. 2346-7 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
  | Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 11 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 15 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 15 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 The Acts Amendment (Petroleum) Act 1990 (other than s. 32) came into operation 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Commencement day was 16 Dec 2000 (see Gazette 15 Dec 2000 p. 7201).
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).

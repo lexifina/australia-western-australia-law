@@ -17,6 +17,7 @@ Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt.
 Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 5 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2018 Pt. 3 | 20 Mar 2018 p. 996-1005 | 21 Mar 2018 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
 Repealed by the Dangerous Goods Safety (Goods in Ports) Repeal Regulations 2013.
