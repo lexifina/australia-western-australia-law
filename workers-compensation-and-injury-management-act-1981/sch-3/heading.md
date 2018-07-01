@@ -1,6 +1,6 @@
 ## Schedule 3 — Specified industrial diseases
 [s. 32]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Column 1 Description of Disease | Column 2 Description of Process
 *Arsenic, phosphorus, lead, mercury or other mineral poisoning | Any employment involving the use or handling of arsenic, phosphorus, lead, mercury, or other mineral, or their preparations or compounds.
 *Anthrax | Wool-combing; wool-sorting; handling of hides, skins, wool, hair, bristles, or carcasses; loading and unloading or transport of merchandise.
@@ -33,4 +33,4 @@ Diseases caused by alcohols, glycols or ketones | Any process entailing exposure
 Diseases caused by the asphyxiants carbon monoxide, hydrogen cyanide or its toxic derivatives or hydrogen sulfide | Any process in which carbon monoxide, hydrogen cyanide or its toxic derivatives or hydrogen sulfide is used.
 Diffuse pleural fibrosis | Any process entailing substantial exposure to asbestos dust.
 * See section 48(2)
-[Schedule 3 amended by No. 44 of 1985 s. 43; No. 48 of 1993 s. 42; (see Orders made under s. 45); No. 31 of 2011 s. 124.]
+[Schedule 3 amended: No. 44 of 1985 s. 43; No. 48 of 1993 s. 42; (see Orders made under s. 45); No. 31 of 2011 s. 124.]

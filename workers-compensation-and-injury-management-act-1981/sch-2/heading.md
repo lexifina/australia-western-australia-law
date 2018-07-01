@@ -1,8 +1,8 @@
 ## Schedule 2 — Table of compensation payable
 [s. 24]
-[Heading inserted by No. 42 of 2004 s. 142(1); amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 42 of 2004 s. 142(1); amended: No. 19 of 2010 s. 4.]
 ## Part 1
-[Heading inserted by No. 42 of 2004 s. 142(1).]
+[Heading inserted: No. 42 of 2004 s. 142(1).]
 Column 1 ItemNature of injury or impairment | Column 2 Ratio which the sum payable herein bears to the prescribed amount.
  | %
 EYES
@@ -61,9 +61,9 @@ MISCELLANEOUS
 37.Loss of genitals ...................................................... | 50
 38.Severe facial scarring or disfigurement to a maximum of .......................................................... | 80
 39.Severe bodily, other than facial, scarring or disfigurement to a maximum of ............................ | 50
-[Part 1 amended by No. 44 of 1985 s. 42; No. 48 of 1993 s. 20; No. 34 of 1999 s. 54; No. 42 of 2004 s. 142(2).]
+[Part 1 amended: No. 44 of 1985 s. 42; No. 48 of 1993 s. 20; No. 34 of 1999 s. 54; No. 42 of 2004 s. 142(2).]
 ## Part 2
-[Heading inserted by No. 42 of 2004 s. 142(3).]
+[Heading inserted: No. 42 of 2004 s. 142(3).]
 Column 1 ItemNature of injury or impairment | Column 2 Ratio which the sum payable herein bears to the prescribed amount.
  |  | %
  | EYES
@@ -120,4 +120,4 @@ Column 1 ItemNature of injury or impairment | Column 2 Ratio which the sum payab
 80. | Impairment from facial scarring or disfigurement ....................................................... | 80
 81. | Impairment from bodily, other than facial, scarring or disfigurement ..................................... | 50
 82. | AIDS .................................................................... | 100
-[Part 2 inserted by No. 42 of 2004 s. 142(3).]
+[Part 2 inserted: No. 42 of 2004 s. 142(3).]

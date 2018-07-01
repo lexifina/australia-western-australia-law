@@ -1,6 +1,6 @@
 ## Schedule 4A — Specified diseases for firefighters
 [s. 49A and 49C(1)(c)]
-[Heading inserted by No. 21 of 2013 s. 5.]
+[Heading inserted: No. 21 of 2013 s. 5.]
  | Column 1 | Column 2
 Item | Disease | Qualifying period
 1. | Primary site brain cancer | 5 years
@@ -16,4 +16,4 @@ Item | Disease | Qualifying period
 11. | Primary site colorectal cancer | 15 years
 12. | Primary site oesophageal cancer | 25 years
 13. | A cancer of a kind prescribed by the regulations for the purposes of this Schedule | The period prescribed by the regulations for such a cancer
-[Schedule 4A inserted by No. 21 of 2013 s. 5.]
+[Schedule 4A inserted: No. 21 of 2013 s. 5.]
