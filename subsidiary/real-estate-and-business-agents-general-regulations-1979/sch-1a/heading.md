@@ -1,6 +1,6 @@
 ## Schedule 1A — Professional development subjects
 [r. 4AB]
-[Heading inserted in Gazette 28 Dec 2007 p. 6407.]
+[Heading inserted: Gazette 28 Dec 2007 p. 6407.]
 1.Agency agreements
 2.Auctions
 3.Business broking
@@ -20,4 +20,4 @@
 17.Trust accounting
 18.Understanding real estate documents
 19.Valid appointment to act
-[Schedule 1A inserted in Gazette 28 Dec 2007 p. 6407.]
+[Schedule 1A inserted: Gazette 28 Dec 2007 p. 6407.]
