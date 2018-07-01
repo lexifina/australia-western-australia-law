@@ -23,6 +23,7 @@ Child Protection Regulations Amendment Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2
 Children and Community Services Amendment Regulations 2016 | 24 Jun 2016 p. 2295-6 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Reprint 3: The Children and Community Services Regulations 2006 as at 2 Sep 2016 (includes amendments listed above)
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3174-5 | 1 Jul 2017 (see r. 2(b))
+Children and Community Services Amendment Regulations 2018 | 22 Jun 2018 p. 2178-80 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
 Defined terms
@@ -40,6 +41,7 @@ medical practitioner16A
 NATA16A
 nominated reporter16A
 panel16
+personal material21B
 President3
 provisional care plan5(2)
 report16A, 16
