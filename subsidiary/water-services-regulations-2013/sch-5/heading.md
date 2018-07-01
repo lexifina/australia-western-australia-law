@@ -12,7 +12,7 @@ r. 41(2) | Littering on land controlled by a licensee or where water service wor
 r. 51B(1) | Using water supplied through a fire service connection other than for emergency purposes | $100
 r. 51B(2) | Owner of land failing to ensure that water supplied through a fire service connection is used only for emergency purposes | $100
 r. 77 | Use of scheme water in contravention of restrictions | $100
-[Division 1 amended in Gazette 13 Dec 2016 p. 5687-8.]
+[Division 1 amended: Gazette 13 Dec 2016 p. 5687-8.]
 ## Division 2 — Prescribed offences and modified penalties: forms
 Form 1 — Infringement notice
 Water Services Act 2012 Water Services Regulations 2013 INFRINGEMENT NOTICE | Infringement notice no.
@@ -42,7 +42,7 @@ Notes to Form —
 1.The details should say what the alleged offender has done that is considered to be a contravention of the law.
 2.Delete this option if not applicable.
 3.Include here, when applicable, details of how a payment may be made electronically.
-[Form 1 amended in Gazette 13 Dec 2016 p. 5688.]
+[Form 1 amended: Gazette 13 Dec 2016 p. 5688.]
 Form 2 — Withdrawal of infringement notice
 Water Services Act 2012 Water Services Regulations 2013 WITHDRAWAL OF INFRINGEMENT NOTICE | Infringement notice no.
 Alleged offender | Name
