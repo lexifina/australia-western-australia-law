@@ -16,26 +16,9 @@ Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 17 Jun 
 Health Services (Consequential Amendment) Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2311-15 | 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 6 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 The Food Act 2008 s. 147(14) commenced 24 Oct 2009.
 Deleted by the Food Act 2008 s. 147(11).
-On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Food Regulations 2009 amended
-3.Regulations amended
-This Part amends the Food Regulations 2009.
-4.Schedule 2 replaced
-Delete Schedule 2 and insert:
-Schedule 2 — Prescribed fees
-[r. 52]
-Item | Provision of Food Act 2008 | Prescribed fee
-1. | s. 82(3)(b) | $205
-2. | s. 88(3)(b) | $205
-3. | s. 94(3)(b) | $210
-4. | s. 107(3) | $72
-5. | s. 110(3)(c) | $210
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

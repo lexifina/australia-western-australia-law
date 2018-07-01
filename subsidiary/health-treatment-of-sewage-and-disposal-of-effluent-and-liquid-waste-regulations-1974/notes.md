@@ -47,9 +47,6 @@ Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 24 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
@@ -58,13 +55,6 @@ Now known as the Health (Treatment of Sewage and Disposal of Effluent and Liquid
 The Bacteriolytic Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations 1989 r. 32 is a transitional provision that is of no further effect.
 The Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations (No. 2) 1997 is a transitional and savings provision that is of no further effect.
 If, because of an error made in r. 2, the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2004 did not come into operation before 24 Aug 2004, the amendments were made on that day by the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 4) 2004, but otherwise the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 4) 2004 do not come into operation.
-On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 amended
-7.Regulations amended
-This Part amends the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974.
-8.Schedule 1 amended
-In Schedule 1 item 2(a) delete “56.00” and insert:
-61.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
