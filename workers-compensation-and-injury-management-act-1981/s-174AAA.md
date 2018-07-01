@@ -10,4 +10,4 @@ WorkCover WA may apply to the Supreme Court for an order setting aside the judgm
 (a) the judgment or agreement is taken never to have had effect for the purpose of any proceeding in any court; and
 (b) evidence of a statement or communication, or a part of a statement or communication, tending to establish the existence of the agreement is not admissible in any proceeding in a court, unless the Supreme Court orders otherwise.
 (6) The Supreme Court may make an order under subsection (5)(b) only if satisfied that the admission of the evidence is necessary to avoid injustice to a party to the proceeding.
-[Section 174AAA inserted by No. 31 of 2011 s. 114.]
+[Section 174AAA inserted: No. 31 of 2011 s. 114.]
