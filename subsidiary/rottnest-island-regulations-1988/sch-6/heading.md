@@ -1,6 +1,6 @@
 ## Schedule 6 — Aerodrome usage fees
 [r. 7B and 7C]
 [Heading inserted in Gazette 29 Jul 2011 p. 3145.]
-1.Aerodrome usage fee (r. 7B(1)) | $52.50
-2.Aerodrome usage fee for calculating annual payment (r. 7C(1)(b)) | $45.00
-[Schedule 6 inserted in Gazette 29 Jul 2011 p. 3145; amended in Gazette 29 Jun 2012 p. 2961; 18 Jun 2013 p. 2307; 20 Jun 2014 p. 2042; 5 Jun 2015 p. 1975; 17 Jun 2016 p. 2113; 2 May 2017 p. 2305.]
+1.Aerodrome usage fee (r. 7B(1)) | $53.50
+2.Aerodrome usage fee for calculating annual payment (r. 7C(1)(b)) | $45.50
+[Schedule 6 inserted in Gazette 29 Jul 2011 p. 3145; amended in Gazette 29 Jun 2012 p. 2961; 18 Jun 2013 p. 2307; 20 Jun 2014 p. 2042; 5 Jun 2015 p. 1975; 17 Jun 2016 p. 2113; 2 May 2017 p. 2305; 22 Jun 2018 p. 2182-3.]
