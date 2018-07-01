@@ -1,6 +1,6 @@
 ## Schedule 5 — Prescribed offences and modified penalties
 [r. 13]
-[Heading inserted in Gazette 3 May 2013 p. 1832.]
+[Heading inserted: Gazette 3 May 2013 p. 1832.]
 Offences under Residential Tenancies Act 1987 | Modified penalty
 s. 22(5) | Unlawfully demanding or receiving fee or reward for representing or assisting party to proceedings | $1 000
 s. 27A | Failing to use prescribed form of written residential tenancy agreement | $1 000
@@ -49,4 +49,4 @@ s. 82I(2) | Database operator failing to give copy of personal information in re
 s. 82K(2) | Keeping personal information in residential tenancy database longer than permitted | $1 000
 s. 93(1) | Failing to take reasonable steps to ensure security bond is transferred to bond administrator when required | $1 000
 s. 96(2) | Failing to pay bond, or part of bond, when required | $1 000
-[Schedule 5 inserted in Gazette 3 May 2013 p. 1832-5.]
+[Schedule 5 inserted: Gazette 3 May 2013 p. 1832-5.]

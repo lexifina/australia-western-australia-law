@@ -1,6 +1,6 @@
 ## Schedule 4 — Forms
 [r. 10AA, 10AB, 10AC and 18]
-[Heading inserted in Gazette 3 May 2013 p. 1757.]
+[Heading inserted: Gazette 3 May 2013 p. 1757.]
 FORM 1AA
 Residential Tenancies Act 1987
 Section 27A
@@ -275,7 +275,7 @@ SIGNED BY THE TENANT
 ............................................. [Signature of tenant]
 Date: ...................................
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
-[Form 1AA inserted in Gazette 3 May 2013 p. 1757-76; amended in Gazette 21 Aug 2015 p. 3313-14; 30 Jun 2017 p. 3556-7.]
+[Form 1AA inserted: Gazette 3 May 2013 p. 1757-76; amended: Gazette 21 Aug 2015 p. 3313-14; 30 Jun 2017 p. 3556-7.]
 FORM 1AB
 Residential Tenancies Act 1987
 Section 27A
@@ -559,7 +559,7 @@ SIGNED BY THE TENANT
 ............................................. [Signature of tenant]
 Date: ...................................
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
-[Form 1AB inserted in Gazette 3 May 2013 p. 1776-96; amended in Gazette 21 Aug 2015 p. 3314-15; 30 Jun 2017 p. 3557-8.]
+[Form 1AB inserted: Gazette 3 May 2013 p. 1776-96; amended: Gazette 21 Aug 2015 p. 3314-15; 30 Jun 2017 p. 3557-8.]
 FORM 1AC
 Residential Tenancies Act 1987
 Section 27B
@@ -607,7 +607,7 @@ Email: consumer@commerce.wa.gov.au
 Internet: www.commerce.wa.gov.au/ConsumerProtection
 Regional offices: Goldfields/Esperance:(08) 9026 3250 Great Southern:(08) 9842 8366 Kimberley:(08) 9191 8400 South-West:(08) 9722 2888 North-West:(08) 9185 0900 Mid-West:(08) 9920 9800
 The WA Government provides funding assistance to the WA Tenancy Network which provides advice, information and advocacy to tenants throughout Western Australia. Contact the Consumer Protection Advice Line on 1300 30 40 54 for referral to a centre near you.
-[Form 1AC inserted in Gazette 3 May 2013 p. 1797-800; amended in Gazette 20 Jan 2015 p. 371; 30 Jun 2017 p. 3558.]
+[Form 1AC inserted: Gazette 3 May 2013 p. 1797-800; amended: Gazette 20 Jan 2015 p. 371; 30 Jun 2017 p. 3558.]
 FORM 1AD
 Residential Tenancies Act 1987
 Section 27B
@@ -820,7 +820,7 @@ If a dispute cannot be resolved
 52.2requiring a party to the agreement to perform a certain action under the agreement; and
 52.3order the payment of any amount owing under the agreement; and
 52.4order the payment of compensation for loss or injury.
-[Form 1AD inserted in Gazette 3 May 2013 p. 1801-17; amended in Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16; 30 Jun 2017 p. 3558-9.]
+[Form 1AD inserted: Gazette 3 May 2013 p. 1801-17; amended: Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16; 30 Jun 2017 p. 3558-9.]
 FORM 1
 Residential Tenancies Act 1987
 Section 27C(6)
@@ -948,7 +948,7 @@ Note: Further items and comments may be recorded on a separate sheet, signed by 
 Date: .................................................
 .......................................................... Tenant’s signature
 Date: ................................................
-[Form 1 inserted in Gazette 3 May 2013 p. 1817-24.]
+[Form 1 inserted: Gazette 3 May 2013 p. 1817-24.]
 FORM 1A
 RESIDENTIAL TENANCIES ACT 1987
 Section 61(a)
@@ -974,7 +974,7 @@ IMPORTANT INFORMATION FOR TENANTS
 ·If you pay the rent due under the agreement after receiving this notice, the payment will not prevent the lessor applying in court for an order terminating your residential tenancy agreement and requiring you to vacate the premises.
 ·You should contact the lessor or property manager of the premises immediately to try and resolve this matter.
 ·You should seek advice immediately if you do not understand this notice or if you require further information.
-[Form 1A inserted in Gazette 25 Jun 1996 p. 2412-13; amended in Gazette 3 May 2013 p. 1825.]
+[Form 1A inserted: Gazette 25 Jun 1996 p. 2412-13; amended: Gazette 3 May 2013 p. 1825.]
 FORM 1B
 RESIDENTIAL TENANCIES ACT 1987
 Section 61(a)
@@ -999,7 +999,7 @@ IMPORTANT INFORMATION FOR TENANTS
 ·The lessor cannot continue an application for a court order if you pay to the lessor the rent due under the residential tenancy agreement together with the court application fee in full not less than one day before the court hearing.
 ·You should contact the lessor or property manager of the premises immediately to try and resolve this matter.
 ·You should seek advice immediately if you do not understand this notice or if you require further information.
-[Form 1B inserted in Gazette 25 Jun 1996 p. 2913-14; amended in Gazette 3 May 2013 p. 1825.]
+[Form 1B inserted: Gazette 25 Jun 1996 p. 2913-14; amended: Gazette 3 May 2013 p. 1825.]
 FORM 1C
 RESIDENTIAL TENANCIES ACT 1987
 Section 61(a)
@@ -1042,10 +1042,10 @@ IMPORTANT INFORMATION FOR TENANTS
 •The lessor is seeking to terminate your residential tenancy agreement and requires you to vacate the premises on the date specified in this notice.
 •If you do not vacate the premises, the lessor may apply to court for an order terminating your residential tenancy agreement and requiring you to vacate the premises.
 •You should seek advice immediately if you do not understand this notice or if you require further information.
-[Form 1C inserted in Gazette 3 May 2013 p. 1826-9; amended in Gazette 30 Jun 2017 p. 3559.]
-[Forms 2 and 3 deleted in Gazette 30 Jun 2017 p. 3559.]
-[Form 4 deleted in Gazette 3 May 2013 p. 1830.]
-[Form 5 deleted in Gazette 30 Jun 2017 p. 3559.]
+[Form 1C inserted: Gazette 3 May 2013 p. 1826-9; amended: Gazette 30 Jun 2017 p. 3559.]
+[Forms 2 and 3 deleted: Gazette 30 Jun 2017 p. 3559.]
+[Form 4 deleted: Gazette 3 May 2013 p. 1830.]
+[Form 5 deleted: Gazette 30 Jun 2017 p. 3559.]
 FORM 6
 Residential Tenancies Act 1987 section 88A(3) Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
@@ -1063,7 +1063,7 @@ Date | Date of notice //20
 Notice to alleged offender | It is alleged that you have committed the above offence. If you do not wish to have the complaint of the alleged offence heard and determined by a court, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Authorised Person — Residential Tenancies Act 1987’) to: Authorised Person — Residential Tenancies Act 1987 Department of Commerce Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Commerce 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
  | If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Authorised Person at the above postal address.
  | If you want this matter to be dealt with by prosecution in court, sign here _________________________________________________ and post this notice to the Authorised Person at the above postal address within 28 days after the date of this notice.
-[Form 6 inserted in Gazette 22 Sep 2006 p. 4128; amended in Gazette 24 May 2011 p. 1895; 3 May 2013 p. 1830-1; 20 Aug 2013 p. 3840.]
+[Form 6 inserted: Gazette 22 Sep 2006 p. 4128; amended: Gazette 24 May 2011 p. 1895; 3 May 2013 p. 1830-1; 20 Aug 2013 p. 3840.]
 FORM 7
 Residential Tenancies Act 1987 section 88A(7) Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
@@ -1080,4 +1080,4 @@ Signature
 Office
 Date | Date of withdrawal //20
 Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Authorised Person — Residential Tenancies Act 1987 Department of Commerce Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
-[Form 7 inserted in Gazette 22 Sep 2006 p. 4128-9; amended in Gazette 24 May 2011 p. 1895; 3 May 2013 p. 1831.]
+[Form 7 inserted: Gazette 22 Sep 2006 p. 4128-9; amended: Gazette 24 May 2011 p. 1895; 3 May 2013 p. 1831.]
