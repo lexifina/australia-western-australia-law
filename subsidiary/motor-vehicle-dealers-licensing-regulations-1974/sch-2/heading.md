@@ -10,4 +10,4 @@ D | Buying any vehicles for the purpose of dismantling them and selling off the 
 E | Acting as an agent to facilitate the selling or purchase of any vehicles on behalf of members of the public.
 F | Hiring out vehicles, buying vehicles for hiring out, and selling and auctioning any vehicles that have been hired out by the dealer.
 Any combination of A, B, C, D, E and F, as nominated by the dealer. | The businesses subject of the nominated categories.
-[Fourth Schedule inserted in Gazette 13 Aug 2002 p. 4158.]
+[Fourth Schedule inserted: Gazette 13 Aug 2002 p. 4158.]
