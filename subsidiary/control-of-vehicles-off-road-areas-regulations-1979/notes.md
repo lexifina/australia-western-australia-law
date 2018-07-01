@@ -12,21 +12,9 @@ Reprinted as at 19 May 2000
 Control of Vehicles (Off-road Areas) Amendment Regulations 2007 | 26 Oct 2007 p. 5655 | r. 1 and 2: 26 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2007 (see r. 2(b))
 Control of Vehicles (Off-road Areas) Amendment Regulations 2014 | 8 Jan 2015 p. 123-7 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Control of Vehicles (Off-road Areas) Amendment Regulations 2015 | 18 Sep 2015 p. 3801-3 | r. 1 and 2: 18 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Control of Vehicles (Off road Areas) Amendment Regulations 2018 r. 3-5 | 15 Jun 2018 p. 1928-9 | 1 Jul 2018 (see r. 2(b))
+ | Control of Vehicles (Off-road Areas) Amendment Regulations 2018 | 15 Jun 2018 p. 1928-9 | r. 1 and 2: 15 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Part XXIV of the Local Government Act 1960 was repealed by the Local Government Act 1995 (No. 74 of 1995) section 9.70.
 Under the Alteration of Statutory Designations Order 1984, references to the Department of Public Health are to be read as references to the Health Department.
-On the date as at which this compilation was prepared, the Control of Vehicles (Off road Areas) Amendment Regulations 2018 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Control of Vehicles (Off-road Areas) Regulations 1979.
-4.Regulation 5 amended
-In regulation 5 delete “$15.” and insert:
-$25.
-5.Regulation 6A amended
-In regulation 6A delete “$15.” and insert:
-$25.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
