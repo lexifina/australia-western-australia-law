@@ -6,4 +6,4 @@ MC | A motor vehicle of class HC, HR, MR or LR
 HC | A motor vehicle of class HR, MR or LR
 HR | A motor vehicle of class MR or LR
 MR | A motor vehicle of class LR
-[Schedule 4 inserted in Gazette 27 Apr 2001 p. 2206.]
+[Schedule 4 inserted: Gazette 27 Apr 2001 p. 2206.]

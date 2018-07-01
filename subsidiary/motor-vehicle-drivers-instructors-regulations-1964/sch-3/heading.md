@@ -8,4 +8,4 @@ No. | Class | Motor vehicle description
 5. | HR | A motor vehicle, other than a motor cycle or motor carrier, that has 3 or more axles and a GVM exceeding 8 t.
 6. | HC | A motor vehicle that is attached to — (a)a semi-trailer; or (b)a trailer that has a GVM exceeding 9 t.
 7. | MC | Any other motor vehicle.
-[Schedule 3 inserted in Gazette 27 Apr 2001 p. 2206.]
+[Schedule 3 inserted: Gazette 27 Apr 2001 p. 2206.]
