@@ -1,6 +1,6 @@
 ## Schedule 6 — Forms
 [r. 59]
-[Heading inserted in Gazette 29 Jul 2016 p. 3254.]
+[Heading inserted: Gazette 29 Jul 2016 p. 3254.]
 Form 1 — Infringement notice
 Security and Related Activities (Control) Act 1996 Security and Related Activities (Control) Regulations 1997 Infringement notice
 Alleged offender | Name:Surname
@@ -29,7 +29,7 @@ How to pay the modified penalty | In person | [Details for paying in person]
  | By post | Post this notice, with a cheque or money order made payable to [payee], to: Western Australia Police 303 Sevenoaks Street Cannington WA 6107 or Locked Bag 9, East Perth WA 6892 Do not send cash in the mail.
  | Online | [Details for online payments]
  | By telephone | [Details for telephone payments]
-[Form 1 inserted in Gazette 29 Jul 2016 p. 3254-6.]
+[Form 1 inserted: Gazette 29 Jul 2016 p. 3254-6.]
 Form 2 — Withdrawal of infringement notice
 Security and Related Activities (Control) Act 1996 Security and Related Activities (Control) Regulations 1997 Withdrawal of infringement notice
 Alleged offender | Name:Surname
@@ -46,4 +46,4 @@ Signature
 Office
 Date of withdrawal | //20
 Withdrawal of infringement notice | The above infringement notice, which was issued for the above alleged offence, has been withdrawn. If you have already paid the modified penalty for the alleged offence in accordance with the infringement notice, the amount will be refunded to you.
-[Form 2 inserted in Gazette 29 Jul 2016 p. 3256-7.]
+[Form 2 inserted: Gazette 29 Jul 2016 p. 3256-7.]

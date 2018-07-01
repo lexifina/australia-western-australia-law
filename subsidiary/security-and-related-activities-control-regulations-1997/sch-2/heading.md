@@ -1,8 +1,8 @@
 ## Schedule 2 — Disqualifying offences
 [r. 24]
-[Heading inserted in Gazette 4 Dec 2009 p. 4914.]
+[Heading inserted: Gazette 4 Dec 2009 p. 4914.]
 ## Division 1 — Division 1 offences
-[Heading inserted in Gazette 4 Dec 2009 p. 4914.]
+[Heading inserted: Gazette 4 Dec 2009 p. 4914.]
 Enactment | Offences
 The Criminal Code | All indictable offences with a maximum penalty exceeding 3 years imprisonment (whether or not a summary conviction penalty applies in respect of the offence), other than an offence under s. 378
  | Offences under the following sections —
@@ -14,9 +14,9 @@ The Criminal Code | All indictable offences with a maximum penalty exceeding 3 y
 Firearms Act 1973 | All indictable offences
 Misuse of Drugs Act 1981 | All indictable offences
 Criminal Code Act 1995 (Commonwealth) | All offences in the Schedule Part 5.3 — Terrorism
-[Division 1 inserted in Gazette 4 Dec 2009 p. 4914-15; amended in Gazette 29 Jul 2016 p. 3249.]
+[Division 1 inserted: Gazette 4 Dec 2009 p. 4914-15; amended: Gazette 29 Jul 2016 p. 3249.]
 ## Division 2 — Division 2 offences
-[Heading inserted in Gazette 4 Dec 2009 p. 4915.]
+[Heading inserted: Gazette 4 Dec 2009 p. 4915.]
 Enactment | Offences
 The Criminal Code | Offences under the following sections —
  | s. 75 | s. 172 | s. 190
@@ -26,4 +26,4 @@ The Criminal Code | Offences under the following sections —
 Misuse of Drugs Act 1981 | All offences other than indictable offences
 Medicines and Poisons Act 2014 | All offences
 Weapons Act 1999 | All offences
-[Division 2 inserted in Gazette 4 Dec 2009 p. 4915-16; amended in Gazette 29 Jul 2016 p. 3249; 17 Jan 2017 p. 416.]
+[Division 2 inserted: Gazette 4 Dec 2009 p. 4915-16; amended: Gazette 29 Jul 2016 p. 3249; 17 Jan 2017 p. 416.]

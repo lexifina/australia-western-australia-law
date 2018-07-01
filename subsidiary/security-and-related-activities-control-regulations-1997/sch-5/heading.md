@@ -1,8 +1,8 @@
 ## Schedule 5 — Prescribed offences and modified penalties for infringement notices
 [r. 58]
-[Heading inserted in Gazette 29 Jul 2016 p. 3249.]
+[Heading inserted: Gazette 29 Jul 2016 p. 3249.]
 ## Division 1 — Offences under the Act
-[Heading inserted in Gazette 29 Jul 2016 p. 3249.]
+[Heading inserted: Gazette 29 Jul 2016 p. 3249.]
 Item | Section | Offence | Modified penalty ($)
 1 | s. 15 | Acting as a security agent without a licence | 500
 2 | s. 16 | Acting as a security officer without a licence | 500
@@ -39,10 +39,10 @@ Item | Section | Offence | Modified penalty ($)
 33 | s. 84(a) or (c) | Failing to keep records | 500
 34 | s. 85(4) | Refusing or failing to comply with a requirement or providing false or misleading information | 400
 35 | s. 93A(2) | Refusing or failing to comply with requirement to provide name and address of agent | 400
-[Division 1 inserted in Gazette 29 Jul 2016 p. 3249-53.]
+[Division 1 inserted: Gazette 29 Jul 2016 p. 3249-53.]
 ## Division 2 — Offence under these regulations
-[Heading inserted in Gazette 29 Jul 2016 p. 3253.]
+[Heading inserted: Gazette 29 Jul 2016 p. 3253.]
 Item | Regulation | Offence | Modified penalty ($)
 1 | r. 40(2) | Failing to record details in incident register | 400
 2 | r. 48A(1) | Failing to produce identity card when giving blood or urine sample under direction | 400
-[Division 2 inserted in Gazette 29 Jul 2016 p. 3253.]
+[Division 2 inserted: Gazette 29 Jul 2016 p. 3253.]
