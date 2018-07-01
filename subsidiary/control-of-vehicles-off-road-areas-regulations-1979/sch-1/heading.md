@@ -61,7 +61,7 @@ within 21 days after the date of the service of this infringement notice.
 Signature of authorised officer ................................................
 Designation .............................................................................
 * Cross out underlined passage if inapplicable.
-[Form 3 amended in Gazette 8 Jan 2015 p. 127.]
+[Form 3 amended: Gazette 8 Jan 2015 p. 127.]
 Form 4
 Western Australia
 Control of Vehicles (Off-road Areas) Act 1978
@@ -89,7 +89,7 @@ Town CEO */Shire CEO *).
 Signature of authorised officer .................................................
 Dated ....................................................
 * Cross out underlined passage if not applicable.
-[Form 5 amended in Gazette 8 Jan 2015 p. 127.]
+[Form 5 amended: Gazette 8 Jan 2015 p. 127.]
 Form 6
 Western Australia
 Control of Vehicles (Off-road Areas) Act 1978
@@ -129,4 +129,4 @@ Date issued ......................................................
 Warning
 A person who uses the abovementioned vehicle while this notice is in force otherwise than for a purpose specified on the front of this notice or for the purpose of presenting that vehicle to the Director General for inspection by or on behalf of the Director General, or who wilfully removes, damages or obliterates this notice attached to that vehicle, commits an offence.
 Penalty: $200.
-[First Schedule amended in Gazette 2 Feb 1982 p. 395; 31 Jan 1997 p. 673.]
+[First Schedule amended: Gazette 2 Feb 1982 p. 395; 31 Jan 1997 p. 673.]
