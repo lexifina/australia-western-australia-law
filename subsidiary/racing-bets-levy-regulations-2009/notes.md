@@ -6,6 +6,7 @@ Racing Bets Levy Regulations 2009 | 8 Jan 2010 p. 27-8 | r. 1 and 2: 8 Jan 2010 
 Racing Bets Levy Amendment Regulations 2012 | 12 Oct 2012 p. 4851-2 | r. 1 and 2: 12 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Oct 2012 (see r. 2(b))
 Racing Bets Levy Amendment Regulations 2013 | 15 Feb 2013 p. 957-9 | r. 1 and 2: 15 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2013 (see r. 2(b))
 Racing Bets Levy Amendment Regulations 2014 | 9 Sep 2014 p. 3240-2 | r. 1 and 2: 9 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2014 (see r. 2(b))
+Racing Bets Levy Amendment Regulations 2018 | 6 Jul 2018 p. 2542-4 | r. 1 and 2: 6 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
