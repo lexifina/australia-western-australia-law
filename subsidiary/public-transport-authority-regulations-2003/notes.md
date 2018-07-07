@@ -14,6 +14,7 @@ Public Transport Authority Amendment Regulations (No. 2) 2009 | 24 Jul 2009 p. 2
 Public Transport Authority Amendment Regulations 2013 | 5 Nov 2013 p. 4950-5 | r. 1 and 2: 5 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2013 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2014 | 13 Jun 2014 p. 1901-2 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jun 2014 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2016 | 23 Dec 2016 p. 5912 | r. 1 and 2: 23 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2016 (see r. 2(b))
+Public Transport Authority Amendment Regulations 2018 | 6 Jul 2018 p. 2549-50 | r. 1 and 2: 6 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2018 (see r. 2(b))
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006 s. 126.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -30,6 +31,7 @@ master3
 park24
 parking24
 parking space24
+passenger capacity41(2)
 peak flow direction33A
 peak time33A
 secured parking facility24
