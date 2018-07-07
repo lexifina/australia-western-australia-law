@@ -31,7 +31,7 @@ Payment by phone: Please call 1300 276 468 (credit card payments only)
 Payment by internet: infringements.pta.wa.gov.au (credit card payments only)
 Biller ID: 1001089 Ref: Please refer to the infringement serial number printed at the top right hand corner on the reverse side of this form.
 Credit card only. Payments made online or over the phone must be made before 9.00 p.m. Western Australian Standard Time on the due date.
-[Form 1 amended in Gazette 5 Nov 2013 p. 4953-4; 13 Jun 2014 p. 1902.]
+[Form 1 amended: Gazette 5 Nov 2013 p. 4953-4; 13 Jun 2014 p. 1902.]
 Form 2
 Public Transport Authority Act 2003
 Public Transport Authority Regulations 2003
