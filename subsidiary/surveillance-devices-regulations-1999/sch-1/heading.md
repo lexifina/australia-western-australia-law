@@ -1,10 +1,10 @@
 ## Schedule 1 — Forms
 [r. 3]
-No. | Form | Section of Act
-1 | Warrant | 13, 14, 17, 19 and 22
-2 | Application for emergency authorisation | 21
-3 | Emergency authorisation | 21
-4 | Application for — ·tracking device warrant ·tracking device (maintenance/retrieval) warrant | 15 and 19
+ | No. | Form | Section of Act
+ | 1 | Warrant | 13, 14, 17, 19 and 22
+ | 2 | Application for emergency authorisation | 21
+ | 3 | Emergency authorisation | 21
+ | 4 | Application for — ·tracking device warrant ·tracking device (maintenance/retrieval) warrant | 15 and 19
 Surveillance Devices Act 1998, s. 13, 14, 17, 19 and 22 Warrant |  | o Supreme Court judge o Magistrate At.........................................
  | Strike out any parts of this form that are not applicable
 Person to whom warrant is issued | Name
@@ -25,7 +25,7 @@ Period of warrant | ___/___/______ to ___/___/______, being ___________________d
 The warrant may be used at any time of the day or night
 Conditions | This warrant is subject to these conditions
 Issue of warrant | Signature Judge / Magistrate DateTime
-[Form amended by No. 74 of 2004 s. 73(3); amended in Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
+[Form amended: Act No. 74 of 2004 s. 73(3); Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
 Surveillance Devices Act 1998, s. 21 Application for emergency authorisation
  | Strike out any parts of this form that are not applicable
 Applicant | Name
@@ -55,7 +55,7 @@ Vehicle
 Premises___________________________________________________
 Period of authorisation | Period for which authorisation is required __________________days Reason this period is required _______________________________ __________________________________________________________
 Signature of applicant | Date
-[Form amended by No. 74 of 2004 s. 73(3); amended in Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
+[Form amended: Act No. 74 of 2004 s. 73(3); Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
 Surveillance Devices Act 1998, s. 21 Emergency authorisation
  | Strike out any parts of this form that are not applicable
 Authorised person | Name
@@ -75,7 +75,7 @@ The authorisation may be used at any time of the day or night
 Conditions | This authorisation is subject to these conditions
 Authorised person(s) | Signature DateTime
 Signature DateTime
-[Form amended by No. 74 of 2004 s. 73(3) and (4); amended in Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
+[Form amended: Act No. 74 of 2004 s. 73(3) and (4); Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
 Surveillance Devices Act 1998, s. 15 and 19
 Application for —
 •tracking device warrant
@@ -111,4 +111,4 @@ Note 1 — Identification of person under surveillance
 The person under surveillance may be identified by a numerical reference identifying the relevant law enforcement agency and the year in which the application is made. For example —WAPS 1/1999 (for the first application in 1999 by a member of the WA police force)
 Note 2 — Lodging of Application for warrant
 The application is to be lodged with the magistrate. An application must be accompanied by — •an “Authorisation of surveillance”; and •an affidavit containing a “Statement of facts in support of application for warrant” in accordance with Surveillance Devices Act 1998, s. 15(3)(a), (b), (c) and (f). An application should also be accompanied by a draft warrant in the form of the warrant being sought.
-[Form inserted in Gazette 8 Feb 2000 p. 458-60; amended by No. 74 of 2004 s. 73(3); amended in Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
+[Form inserted: Gazette 8 Feb 2000 p. 458-60; amended: Act No. 74 of 2004 s. 73(3); Gazette 5 May 2006 p. 1736; 21 Sep 2007 p. 4735.]
