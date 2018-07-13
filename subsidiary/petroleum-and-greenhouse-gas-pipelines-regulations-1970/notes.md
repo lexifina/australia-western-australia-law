@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum Pipelines Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 July 2018 of the Petroleum Pipelines Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum Pipelines Regulations 1970 | 30 Jul 1970 p. 2242-52 | 30 Jul 1970
@@ -26,10 +26,11 @@ Petroleum Pipelines Amendment Regulations 2015 | 30 Jun 2015 p. 2350-1 | r. 1 an
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 14 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 16 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 16 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
-The Acts Amendment (Petroleum) Act 1990 was proclaimed on 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
+Reprint 3: The Petroleum Pipelines Regulations 1970 as at 13 Jul 2018 (includes amendments listed above)
+The day fixed under the Acts Amendment (Petroleum) Act 1990 s. 2(1) was 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+dealing4D(1)
 related dealing4D(2)
 section 29(1)24(1)
-the dealing4D(1)
