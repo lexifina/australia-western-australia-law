@@ -18,6 +18,7 @@ Reprint 2: The Surveillance Devices Regulations 1999 as at 10 Sep 2010 (includes
  | Surveillance Devices Amendment Regulations 2016 | 16 Sep 2016 p. 3941 | r. 1 and 2: 16 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Sep 2016 (see r. 2(b))
  | Surveillance Devices Amendment Regulations (No. 3) 2016 | 23 Dec 2016 p. 5905-6 | r. 1 and 2: 23 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2016 (see r. 2(b))
  | Surveillance Devices Amendment Regulations 2017 | 18 Aug 2017 p. 4448 | r. 1 and 2: 18 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2017 (see r. 2(b))
+ | Reprint 3: The Surveillance Devices Regulations 1999 as at 13 Jul 2018 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,6 +27,7 @@ hospital6(4)
 nursing home6(4)
 Part 5 record7(3)
 prison6(4)
+public authority6(4)
 researcher6(4)
 superintendent6(4)
 surveillance information9(3)
