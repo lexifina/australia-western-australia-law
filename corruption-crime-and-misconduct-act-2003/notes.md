@@ -37,6 +37,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 105 | 4 of 2018 | 19 Apr 2018 | To be proclaimed (see s. 2(d))
+Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 Pt. 2 | 10 of 2018 | 13 Jul 2018 | 1 Sep 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2894)
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Corruption, Crime and Misconduct Act 2003; short title changed (see note under s. 1).
@@ -140,6 +141,152 @@ On the date as at which this compilation was prepared, the Health Practitioner R
 105.Corruption, Crime and Misconduct Act 2003 amended
 (1) This section amends the Corruption, Crime and Misconduct Act 2003.
 (2) In section 54(1) in the definition of registered nurse delete “and midwifery”.
+On the date as at which this compilation was prepared, the Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Corruption, Crime and Misconduct Act 2003 amended
+3.Act amended
+This Part amends the Corruption, Crime and Misconduct Act 2003.
+4.Long title amended
+In the long title delete “organised crime; and” and insert:
+organised crime and with respect to the confiscation of unexplained wealth and criminal benefits; and
+5.Section 3 amended
+(1) In section 3(1) insert in alphabetical order:
+authorised officer has the meaning given in section 184(1);
+criminal benefit has the meaning given in the Criminal Property Confiscation Act 2000 section 145;
+unexplained wealth has the meaning given in the Criminal Property Confiscation Act 2000 section 144;
+(2) In section 3(1) in the definition of investigation after “under” insert:
+section 21AD or
+6.Section 7A amended
+In section 7A:
+(a) in paragraph (b) delete “sector.” and insert:
+sector; and
+(b) after paragraph (b) insert:
+(c) to facilitate the exercise of the Commission’s functions under the Criminal Property Confiscation Act 2000.
+7.Section 7B amended
+After section 7B(6) insert:
+(7) The Commission is to be able to investigate matters in relation to unexplained wealth and criminal benefits for the purpose of the exercise of its functions under the Criminal Property Confiscation Act 2000.
+8.Section 21AD inserted
+At the end of Part 2 Division 2 insert:
+21AD.Unexplained wealth functions
+(1) The Commission has the functions (unexplained wealth functions) that are conferred on it under the Criminal Property Confiscation Act 2000.
+(2) The Commission may decide to exercise its unexplained wealth functions on the basis of —
+(a) consultations, and investigations and other actions (either by itself or in cooperation with independent agencies, appropriate authorities and other relevant persons or bodies); or
+(b) information otherwise given to the Commission.
+(3) The Commission may exercise its powers under this Act to assist in the performance of its functions under the Criminal Property Confiscation Act 2000.
+(4) For the purposes of the Criminal Property Confiscation Act 2000, the Commission may make such use as it thinks fit of any information obtained by it under this Act.
+(5) Without limiting how the Commission may perform its unexplained wealth functions, the Commission may —
+(a) investigate, either by itself or in cooperation with another body, whether a person has or may have acquired unexplained wealth or a criminal benefit; and
+(b) consult, cooperate and exchange information with independent agencies, appropriate authorities and any other relevant persons and bodies.
+9.Section 91 amended
+In section 91(2):
+(a) in paragraph (q) delete “functions.” and insert:
+functions; and
+(b) after paragraph (q) insert:
+(r) a description of the Commission’s activities during that year in relation to its unexplained wealth functions.
+10.Section 94 amended
+(1) In section 94(1) delete “investigation,” and insert:
+investigation under Part 3,
+(2) After section 94(1) insert:
+(1A) For the purposes of its functions under section 21AD, the Commission may, by written notice served on a person, require the person to produce a statement of information.
+(3) In section 94(3)(a) delete “authority or public officer; and” and insert:
+authority, public officer or other person served with the notice; and
+(4) In section 94(4)(c) delete “authority or public officer.” and insert:
+authority, public officer or other person served with the notice.
+(5) In section 94(5):
+(a) in paragraph (c) delete “action.” and insert:
+action; or
+(b) after paragraph (c) insert:
+(d) under subsection (5A).
+(6) After section 94(5) insert:
+(5A) A statement of information produced in compliance with a notice served under subsection (1A) is admissible in evidence in any proceeding under the Criminal Property Confiscation Act 2000.
+11.Section 122 amended
+After section 122(2) insert:
+(2A) Subsection (2) does not apply to an authority to conduct a controlled operation in respect of a matter relating to the Commission’s functions under section 21AD.
+12.Section 136 amended
+In section 136 delete “functions under this Part.” and insert:
+functions.
+13.Section 137 amended
+(1) In section 137 delete “The” and insert:
+(1) The
+(2) At the end of section 137 insert:
+(2) Except as specified in the Criminal Property Confiscation Act 2000 section 60A, this Part does not apply to examinations conducted by the Commission under Part 5 Division 2 of that Act.
+14.Section 144 amended
+(1) Before section 144(1) insert:
+(1A) In this section —
+unexplained wealth requirement means —
+(a)a requirement under section 94(1A); or
+(b)a requirement under section 95 made for the purposes of the Commission’s functions under section 21AD.
+(2) In section 144(1) delete “subsection (2),” and insert:
+subsections (2) to (5),
+(3) After section 144(2) insert:
+(3) A person is not entitled to contravene an unexplained wealth requirement in relation to any information, document or other thing on the basis that the information, document or thing is subject to legal professional privilege, or contains or is likely to contain information that would, apart from this subsection, be subject to legal professional privilege.
+(4) Any information, document or other thing produced or obtained under an unexplained wealth requirement is not inadmissible in any proceedings under this Act or the Criminal Property Confiscation Act 2000 only because the information, document or other thing would, apart from this subsection, be subject to legal professional privilege.
+(5) Nothing in this section affects the operation of the Criminal Property Confiscation Act 2000 section 139.
+15.Section 145 amended
+(1) In section 145(1):
+(a) after “statement” (each occurrence) insert:
+or disclosure
+(b) delete paragraph (a) and insert:
+(a) any criminal proceedings other than proceedings for an offence under this Act; or
+(c) in paragraph (b)(ii) delete “against” and insert:
+under
+(2) After section 145(1) insert:
+(1A) Despite subsection (1), a statement or disclosure made by a witness in answer to a question that the Commission requires the witness to answer is admissible in evidence against the person making the statement or disclosure —
+(a) in any proceedings under the Criminal Property Confiscation Act 2000; and
+(b) in any civil proceeding.
+(3) In section 145(2) after “statement” insert:
+or disclosure
+(4) After section 145(2) insert:
+(3) For the purposes of this section, the transcript of an examination of a witness is admissible as evidence of a statement or disclosure made by the witness in answer to a question that the Commission requires the witness to answer.
+16.Section 148 amended
+After section 148(1) insert:
+(1A) If a person who has been served under the Criminal Property Confiscation Act 2000 section 59 with a copy of an examination order made by the Commission fails to attend before the Commission as required under the examination order, the Commission may, on proof by a statement verified by statutory declaration that the examination order was served, issue a warrant for the apprehension of that person.
+17.Section 151 amended
+In section 151(1) in the definition of restricted matter paragraph (c) delete “this Act;” and insert:
+this Act or by an authorised officer under the Criminal Property Confiscation Act 2000;
+18.Section 157 amended
+In section 157 in the definition of reasonable excuse:
+(a) delete “otherwise.” and insert:
+otherwise; or
+(b) after paragraph (b) insert:
+(c)the production of the document or other thing might, but for section 144(3), be subject to legal professional privilege.
+19.Section 160A inserted
+After section 160 insert:
+160A.Contempts in relation to examination orders under the Criminal Property Confiscation Act 2000
+(1) Subsection (2) applies to a person who has been served under the Criminal Property Confiscation Act 2000 section 59 with an examination order made by the Commission.
+(2) A person to whom this subsection applies is in contempt of the Commission if the person fails, without reasonable excuse, to —
+(a) attend before the Commission as required under the examination order; or
+(b) produce any document or other thing as required under the examination order.
+(3) Subsection (4) applies to a person who has been served under the Criminal Property Confiscation Act 2000 section 59 with an examination order made by the Commission requiring the person to attend before the Commission and give information.
+(4) A person to whom this subsection applies is in contempt of the Commission if the person —
+(a) refuses or fails to be sworn or make an affirmation; or
+(b) fails to answer any question relevant to the examination that the Commission requires the person to answer.
+20.Section 162 amended
+Before section 162(1) insert:
+(1A) In this section —
+examination includes an examination conducted by the Commission under the Criminal Property Confiscation Act 2000.
+21.Section 163 amended
+In section 163(5) delete “summons.” and insert:
+summons served under section 96.
+22.Section 184 amended
+(1) After section 184(3b) insert:
+(3BA) For the purposes of the Criminal Property Confiscation Act 2000, an authorised officer has the powers that are specified in that Act as powers of an authorised CCC officer.
+(2) In section 184(3c) delete “(3b).” and insert:
+(3BA).
+23.Section 217 amended
+After section 217(3) insert:
+(4) In any proceeding under this or any other Act, or application for an order or declaration under the Criminal Property Confiscation Act 2000, a document signed by the Commission and stating that an examination order has been made by the Commission under the Criminal Property Confiscation Act 2000 section 58(1) is evidence of the matter stated.
+24.Section 223A amended
+Delete section 223A(1) and insert:
+(1) The Criminal and Found Property Disposal Act 2006 applies to and in respect of —
+(a) anything seized under this Act, other than a thing seized under section 75(4); and
+(b) anything seized by an authorised officer under the Criminal Property Confiscation Act 2000.
+25.Section 226A inserted
+After section 226 insert:
+226A.Review of 2018 amendments to Act
+(1) The Minister must carry out a review of the operation and effectiveness of the amendments made to this Act by the Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 as soon as is practicable after every 5th anniversary of the date on which the Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 section 8 comes into operation.
+(2) The Minister must prepare a report based on each review and cause it to be laid before each House of Parliament —
+(a) as soon as practicable after the review is completed; but
+(b) not later than 1 year after each 5 year anniversary.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
