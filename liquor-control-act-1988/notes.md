@@ -60,6 +60,7 @@ Provisions that have not come into operation
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Liquor Control Amendment Act 2018 s. 3-70 | 9 of 2018 | 13 Jul 2018 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -183,6 +184,594 @@ Public Health Act 2016.
 303.Section 95 amended
 In section 95(4)(f)(iii) after “Health (Miscellaneous Provisions) Act 1911” insert:
 or the Public Health Act 2016
+On the date as at which this compilation was prepared, the Liquor Control Amendment Act 2018 s. 3-70 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Liquor Control Act 1988.
+4.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+closing time
+inspector
+interest of the community
+low alcohol liquor
+member (each occurrence)
+party to proceedings
+person authorised to sell liquor
+small bar licence
+(2) In section 3(1) insert in alphabetical order:
+Department means the department of the Public Service principally assisting in the administration of this Act;
+Department’s website means a website maintained by or on behalf of the Department;
+inspector means an inspector appointed under section 14(1)(a);
+member —
+(a)in relation to a club — includes a person who is a member of the club by reason of reciprocal arrangements with another club made in accordance with the rules of the club; and
+(b)in relation to the Commission — means a member of the Commission and includes the chairperson;
+party to proceedings includes —
+(a)an objector, unless a determination is made under section 74(4) in relation to the objection; and
+(b)a person who intervenes in proceedings;
+small bar licence means a licence granted under section 41A;
+(3) In section 3(1) in the definition of authorised officer delete paragraph (b) and insert:
+(b)an inspector; or
+(4) In section 3(1) in the definition of Director or Director of Liquor Licensing delete “department of the Public Service principally assisting in the administration of this Act;” and insert:
+Department;
+(5) In section 3(1) in the definition of hotel licence delete “licence or as a small bar licence;” and insert:
+licence;
+(6) In section 3(1) in the definition of manager paragraph (b) delete “by the licensee of the premises”.
+(7) In section 3(1) in the definition of metropolitan area delete paragraph (a) and insert:
+(a)the region described in the Planning and Development Act 2005 Schedule 3; and
+5.Section 4 amended
+In section 4(6) delete “licensee,” and insert:
+licensee of a producer’s licence, a wholesaler’s licence or a special facility licence of a prescribed type,
+6.Section 5 amended
+In section 5(2):
+(a) in paragraph (e) delete “Act.” and insert:
+Act; and
+(b) after paragraph (e) insert:
+(f) to encourage responsible attitudes and practices towards the promotion, sale, supply, service and consumption of liquor that are consistent with the interests of the community.
+7.Section 14 amended
+Delete section 14(3)(a) and insert:
+(a) an inspector; and
+8.Section 16 amended
+(1) Delete section 16(8) and insert:
+(8) The hearing of a proceeding before the Commission must be in public unless the Commission considers that, in the circumstances of the case, the hearing should be in private.
+(2) In section 16(9) delete “Commission is in private, the Commission,” and insert:
+licensing authority, however constituted, is in private, the licensing authority,
+(3) Delete section 16(11) and insert:
+(11) Subject to subsections (8) and (9) and section 30, the licensing authority must ensure that each party to proceedings is given a reasonable opportunity to —
+(a) present its case to the licensing authority; and
+(b) inspect any documents —
+(i) to which the licensing authority proposes to have regard in making a determination in the proceedings; and
+(ii) that are relevant to the party’s case;
+and
+(c) make submissions in relation to any documents inspected under paragraph (b).
+9.Section 18AA inserted
+After section 18 insert:
+18AA.Notice of decision
+(1) If the licensing authority, when constituted by the Director, makes a decision in relation to an application, the licensing authority must give to each party to proceedings written notice of —
+(a) the decision; and
+(b) the right of review under section 25.
+(2) The notice may, but need not, include the reasons for the decision.
+(3) If the notice does not include the reasons for the decision, a party to proceedings may, within 28 days after receiving the notice or any longer period that may be allowed by the Director, request the licensing authority to provide the party with the reasons for the decision.
+(4) If a party to proceedings makes a request under subsection (3), the licensing authority must provide the party to proceedings with written reasons for the decision.
+10.Section 22 amended
+In section 22 delete “Commission,” and insert:
+Commission constituted by the chairperson and 2 other members,
+11.Section 25 amended
+(1) In section 25(2) delete “notice of” and insert:
+written reasons for
+(2) Delete section 25(6)(a).
+12.Section 25A inserted
+After section 25 insert:
+25A.Commission may refer application for review to State Administrative Tribunal
+(1) If an application is made to the Commission under section 25(1) for a review of a decision, the Commission may, instead of conducting the review, refer the application to the State Administrative Tribunal (the Tribunal) for a review of the decision.
+(2) An application cannot be referred under subsection (1) unless the President of the Tribunal agrees to the referral.
+(3) If an application is referred under subsection (1), the person who made the application is to be regarded as the applicant for the purposes of the exercise of the Tribunal’s review jurisdiction under the State Administrative Tribunal Act 2004.
+(4) When conducting a review under this section, the Tribunal may have regard only to the material that was before the Director when making the decision.
+(5) When conducting a review under this section involving a question of law or giving directions as to any question of law reviewed, the Tribunal is to be constituted by, or is to include, a lawyer.
+(6) Section 25(3) applies to a review under this section as if it were a review under section 25.
+(7) On a review under this section, the Tribunal has the powers conferred on the Commission under section 25(4).
+13.Section 28 amended
+Delete section 28(1)(a) and insert:
+(a) is a party to proceedings before the Commission; and
+14.Section 30 amended
+Delete section 30(4)(a) and insert:
+(a) the Director is not required to serve a copy of the notice under section 73(4A); and
+15.Section 34 amended
+(1) In section 34(2):
+(a) in paragraph (a) delete “subject to subsection (3),”;
+(b) delete paragraph (a)(i).
+(2) Delete section 34(3) and insert:
+(3) Subsection (4) applies to any application made to the licensing authority for —
+(a) the grant or removal of a licence; or
+(b) approval to the transfer of a licence; or
+(c) approval of a person —
+(i) as a trustee; or
+(ii) as the occupant of a position of authority in a body corporate that holds a licence.
+(4) The licensing authority must not hear or determine any application to which this subsection applies if that application is made by a person who is, according the Interpretation Act 1984 section 13D, a bankrupt or a person whose affairs are under insolvency laws.
+16.Section 36 amended
+Delete section 36(3) and insert:
+(3) In addition to a licence granted in respect of any premises, or a part of any premises, either or both of the following licences may also be granted in respect of those premises or a part of those premises —
+(a) an occasional licence;
+(b) a licence conditionally granted under section 62.
+17.Section 36A amended
+In section 36A(2) delete “shall not approve” and insert:
+must not grant an application for
+18.Section 36B inserted
+After section 36A insert:
+36B.Restrictions on grant or removal of certain licences authorising sale of packaged liquor
+(1) In this section —
+local packaged liquor requirements, in relation to an application to which this section applies, means the requirements of consumers for packaged liquor in the locality in which the proposed licensed premises are, or are to be, situated;
+packaged liquor premises means premises to which a licence referred to in subsection (2) relates;
+prescribed area means the area prescribed for the purposes of this section;
+prescribed distance means the distance prescribed for the purposes of this section;
+proposed licensed premises, in relation to an application to which this section applies, means —
+(a)if the application is for the grant of a licence — the premises to which the application relates; or
+(b)if the application is for the removal of a licence — the premises to which the licence is sought to be removed;
+retail section —
+(a)in relation to packaged liquor premises — means the part or parts of the premises on which packaged liquor is displayed for the purposes of sale or sold; and
+(b)in relation to proposed licensed premises — means the part or parts of the premises on which packaged liquor is to be displayed for the purposes of sale or sold.
+(2) This section applies to an application for the grant or removal of any of the following licences —
+(a) a hotel licence without restriction;
+(b) a tavern licence;
+(c) a liquor store licence;
+(d) a special facility licence of a prescribed type.
+(3) The licensing authority must not hear or determine an application to which this section applies if —
+(a) packaged liquor premises are situated less than the prescribed distance from the proposed licensed premises; and
+(b) the area of the retail section of those packaged liquor premises exceeds the prescribed area; and
+(c) the area of the retail section of the proposed licensed premises exceeds the prescribed area.
+(4) The licensing authority must not grant an application to which this section applies unless satisfied that local packaged liquor requirements cannot reasonably be met by existing packaged liquor premises in the locality in which the proposed licensed premises are, or are to be, situated.
+(5) Regulations made for the purposes of the definition of prescribed distance in subsection (1) may prescribe different distances in relation to packaged liquor premises in different areas of the State.
+19.Section 37C inserted
+At the end of Part 3 Division 1 insert:
+37C.Register of licensed premises
+(1) The Director may keep a register that contains the following information in respect of licensed premises —
+(a) the name and address of the premises;
+(b) the licence number of the premises;
+(c) the type of licence that applies to the premises;
+(d)the status of the licence that applies to the premises (for example, whether the licence is conditionally granted or suspended);
+(e) the name of the licensee of the premises.
+(2) The Director may make the register available to the public in any way the Director considers appropriate, including by publication on the Department’s website.
+20.Section 38 amended
+(1) In section 38(1)(a) delete “licence; or” and insert:
+licence of a kind prescribed; or
+(2) In section 38(4):
+(a) delete paragraph (b) and insert:
+(b) whether the amenity, quiet or good order of the locality in which the licensed premises or proposed licensed premises are, or are to be, situated might in some manner be lessened; and
+(b) after paragraph (c) insert:
+(ca) any effect the granting of the application might have in relation to tourism, or community or cultural matters; and
+(3) After section 38(6) insert:
+(7) If subsection (2) applies to an application, the Director may publish the following on the Department’s website —
+(a) the application;
+(b) any document or information provided under subsection (3) in relation to the application.
+21.Section 41 amended
+(1) Delete section 41(1aa).
+(2) In section 41(1)(a) delete “and is not a small bar licence”.
+(3) In section 41(2)(b) delete “small bar licence or a hotel restricted licence,” and insert:
+hotel restricted licence or a tavern restricted licence,
+(4) In section 41(4) delete “small bar licence or a”.
+22.Sections 41A and 41B inserted
+After section 41 insert:
+41A.Effect and conditions of small bar licence
+(1) Subject to this Act, the licensee of a small bar licence is, during permitted hours, authorised to sell liquor for consumption on the licensed premises.
+(2) A small bar licence is subject to —
+(a) a condition prohibiting the sale of packaged liquor; and
+(b) a condition limiting the maximum number of persons (excluding responsible persons and authorised officers) who may be on the licensed premises to 120.
+41B.Small bar licence may be granted as alternative to tavern restricted licence
+(1) If the licensing authority considers it appropriate, the licensing authority may, with the agreement of the applicant, treat an application for a tavern restricted licence as an application for a small bar licence.
+(2) Subsection (3) applies to a tavern restricted licence if —
+(a) it is subject to a condition limiting the maximum number of persons (excluding responsible persons and authorised officers) who may be on the licensed premises to 120; and
+(b) the capacity of the licensed premises is not more than 120 persons.
+(3) The licensing authority may, of its own motion or on the application of the licensee of the licence —
+(a) cancel a tavern restricted licence to which this subsection applies; and
+(b) grant to the person who was the licensee of the licence a small bar licence in respect of the premises to which the licence related.
+(4) If the licensing authority proposes of its own motion to cancel a tavern restricted licence and grant a small bar licence under subsection (3), the licensing authority must give the licensee of the tavern restricted licence —
+(a) a notice that sets out the proposal and the reasons for it; and
+(b) a reasonable opportunity to make submissions or to be heard in relation to the proposal.
+23.Section 44 amended
+Delete section 44(1) and insert:
+(1) Subject to this Act, a casino licence authorises the licensee, during permitted hours, to do either or both of the following —
+(a) sell liquor for consumption —
+(i) on the premises at the casino; and
+(ii) on other premises within the casino complex concerned or adjacent to that complex, within one or more defined areas as may from time to time be approved by the Gaming and Wagering Commission;
+(b) supply, without charge, packaged liquor on the premises referred to in paragraph (a) as part of —
+(i) an accommodation, restaurant or dining service provided on those premises; or
+(ii) a function or promotional activity conducted on those premises.
+24.Section 45 amended
+(1) In section 45(1)(b) delete “that” and insert:
+a
+(2) In section 45(3):
+(a) delete “to an applicant to whom subsection (1) applies”;
+(b) after “casino complex” (1st occurrence) insert:
+to which a casino gaming licence relates
+25.Section 48 amended
+(1) In section 48(2):
+(a) in paragraph (a)(ii) delete “rules approved by the Director;” and insert:
+the rules of the club;
+(b) in paragraph (b) delete “rules approved by the Director; or” and insert:
+the rules of the club; or
+(c) delete “constitution and rules of the club, as approved by the Director,” and insert:
+rules of the club
+(2) After section 48(2) insert:
+(2A) Subject to this Act, a club licence authorises the sale, during permitted hours, of liquor to a visitor for consumption on the licensed premises if the sale does not contravene the rules of the club.
+(2B) In subsection (2A) —
+visitor means a person, other than a member, a guest of a member or a person referred to in subsection (5), who —
+(a)is at least 40 km or, if a greater distance is prescribed for the purposes of this paragraph, at least that distance from their usual place of residence; and
+(b)is visiting the club while travelling in the course of a holiday or travelling for leisure or business; and
+(c)is required, at the time of their visit, to pay a fee to the club for the use of its facilities.
+(3) In section 48(4):
+(a) in paragraph (b) delete “rules approved by the Director,” and insert:
+the rules of the club,
+(b) in paragraph (d) delete the passage that begins with “change —” and ends with “the Secretary” and insert:
+change in the appointment of a person as trustee to hold the licence for the club, the Secretary
+(c) after paragraph (e) insert:
+(ea) an up-to-date register of visitors (as defined in subsection (2B)) be continually available for inspection at the club premises; and
+(d) in paragraph (f) delete “constitution and rules, as approved by the Director,” and insert:
+rules
+(4) In section 48(5):
+(a) delete “club —” and insert:
+club or a team, or a person assisting a member or an official of another club or a team —
+(b) delete “day in accordance with rules approved by the Director.” and insert:
+day, in accordance with the rules of the club.
+(5) In section 48(7) delete “constitution or rules as approved by the Director” and insert:
+rules,
+26.Section 49 amended
+(1) In section 49(1):
+(a) in paragraph (c) delete “unless subsection (4) applies, that the constitution and” and insert:
+that the
+(b) in paragraph (c) delete “sought,” and insert:
+sought.
+(c) delete “and the content of that constitution and those rules is approved by the Director.”.
+(2) In section 49(2) delete “constitution or” (each occurrence).
+(3) Delete section 49(3) and (4).
+27.Section 50A inserted
+After section 50 insert:
+50A.Issue of extended trading permit under s. 60(4)(ca) for certain restaurant licences at time of grant
+(1) Subsection (2) applies if —
+(a) the licensing authority decides to grant a restaurant licence subject to a condition limiting the maximum number of persons (excluding responsible persons and authorised officers) who may be on the licensed premises to 120; and
+(b) the application for the restaurant licence specifies that an extended trading permit under section 60(4)(ca) is also sought in respect of the premises to which the application relates.
+(2) When the licensing authority grants the restaurant licence the licensing authority may issue an extended trading permit under section 60(4)(ca) in respect of the licensed premises.
+28.Section 55 amended
+(1) In section 55(1):
+(a) delete paragraphs (a) and (b) and insert:
+(a) to sell or supply (including by way of sample) on the licensed premises liquor produced by the licensee for consumption on a part of the licensed premises approved for the purpose by the Director; and
+(b) to sell or supply on or from the licensed premises liquor produced by the licensee for consumption off the licensed premises; and
+(b) in paragraph (c) delete “from” and insert:
+on
+(2) Delete section 55(1a).
+(3) In section 55(2A) delete “Despite subsection (1)(a), the” and insert:
+The
+(4) In section 55(3) delete “corporate which produces wine or spirits, wine or spirits” and insert:
+corporate, liquor
+29.Section 56 amended
+In section 56(1):
+(a) after paragraph (b) insert:
+(ba) being spirits made from wine —
+(i) if it was distilled by that person; or
+(ii) if it was distilled under the control or direction of that person from wine produced by that person;
+or
+(b) in paragraph (c) delete “spirits,” and insert:
+spirits not made from wine,
+30.Section 58 amended
+Delete section 58(2a).
+31.Section 59A inserted
+At the end of Part 3 Division 2 insert:
+59A.Additional authorisations relating to supply and sale of liquor on licensed premises
+(1) In this section —
+interstate supplier means a person who is authorised under the law of another State, or of a Territory, to sell packaged liquor;
+packaged liquor —
+(a)in relation to an interstate supplier, means liquor in sealed containers for consumption off the premises of the interstate supplier; and
+(b)otherwise, has the meaning given in section 3(1);
+packaged liquor licence means a licence that authorises the sale of packaged liquor, but does not include a hotel restricted licence, a casino liquor licence, a club licence or an occasional licence.
+(2) A packaged liquor licence authorises the licensee (the supplier), with the agreement of another licensee —
+(a) to supply liquor, by way of free sample, on the licensed premises of the other licensee for consumption on those premises; and
+(b) to sell packaged liquor on the licensed premises of the other licensee for delivery to the purchaser, or to premises specified by the purchaser, from the licensed premises of the supplier.
+(3) An interstate supplier is authorised, with the agreement of a licensee —
+(a) to supply liquor, by way of free sample, on the licensed premises of the licensee for consumption on those premises; and
+(b) to sell packaged liquor on the licensed premises of the licensee for delivery to the purchaser, or to premises specified by the purchaser, from the premises of the interstate supplier.
+(4) A sale of packaged liquor made by an interstate supplier as authorised under subsection (3) is taken to be made under a licence described in section 109(1)(a).
+32.Section 60 amended
+(1) In section 60(3a) delete “subsection (4)(ca) or (g)” and insert:
+subsection (4)(ca), (g) or (h)
+(2) In section 60(4):
+(a) in paragraph (a) after “liquor” insert:
+as a caterer
+(b) in paragraph (a) delete “as a caterer on specified premises,”;
+(c) in paragraph (e) delete “a Sunday,”;
+(d) in paragraph (e)(ii) delete “constitution and rules of the association, if that constitution or those rules were required to be approved by the Director, are observed;” and insert:
+rules of the association are observed;
+(e) in paragraph (g) delete “5” and insert:
+10
+(f) in paragraph (h) delete the passage that begins with “on such days” and ends with “otherwise be authorised,” and insert:
+under the licence on specified premises or in a specified area that would not otherwise be authorised, on such days and between such hours on those days as may be specified,
+(g) in paragraph (ia) delete “wine or beer” (1st occurrence) and insert:
+liquor
+(h) in paragraph (ia) delete “wine or beer,” and insert:
+liquor,
+33.Section 61 amended
+(1) In section 61(1):
+(a) in paragraph (c) delete “relates; and” and insert:
+relates.
+(b) delete paragraph (d).
+(2) Delete section 61(2).
+34.Section 61A amended
+(1) In section 61A(2):
+(a) in paragraph (a) delete “wine or beer; and” and insert:
+liquor; and
+(b) in paragraph (c) delete “beer,” and insert:
+liquor other than wine,
+(c) in paragraph (c) delete “beer” (2nd occurrence) and insert:
+liquor
+(d) in paragraph (e) delete “wine or beer” and insert:
+liquor
+(2) In section 61A(4):
+(a) delete “beer” (1st occurrence) and insert:
+liquor other than wine
+(b) delete “beer” (2nd occurrence) and insert:
+liquor
+(3) After section 61A(5) insert:
+(5A) If a cellar door permit is issued in respect of the same premises to 2 or more licensees, those licensees are jointly and severally liable —
+(a) as licensee; and
+(b) in respect of any civil or criminal liability that attaches to the licensee under this Act.
+(4) In section 61A(6) delete “licence.” and insert:
+permit.
+Note:The heading to amended section 61A is to read:
+Extended trading permit for sale of liquor (s. 60(4)(ia))
+35.Section 64 amended
+After section 64(1b) insert:
+(1BA) An application under subsection (1a)(b) to vary a condition must be made not later than the prescribed number of days before the variation is proposed to take effect, unless the Director otherwise approves.
+36.Section 65 amended
+Delete section 65(1) and insert:
+(1) Subject to subsection (3), a licence or permit that authorises the sale of packaged liquor or of liquor for consumption off the licensed premises is subject to the following conditions —
+(a) that the liquor sold —
+(i) must be consigned to the purchaser at, and delivered on or from, the licensed premises, unless the Director otherwise approves; and
+(ii) must be delivered in sealed containers; and
+(iii) must not, unless an extended trading permit or a special facility licence so authorises, be or be permitted to be consumed on or, except in the case of liquor sold under section 55, in the immediate proximity of the licensed premises;
+(b) that the prescribed requirements relating to sale and delivery must be complied with.
+(1A) A person who contravenes a condition referred to in subsection (1) commits an offence.
+Penalty for this subsection: a fine of $2 000.
+Note:The heading to amended section 65 is to read:
+Conditions relating to sale and delivery of packaged liquor or liquor for consumption off licensed premises
+37.Section 67 amended
+Delete section 67(5) and insert:
+(5) If an application is required to be advertised, the Director must cause a copy of the notice of application to be published on the Department’s website.
+38.Section 68 amended
+(1) In section 68(1):
+(a) in paragraph (b)(iv) delete “section 72; and” and insert:
+section 72;
+(b) delete paragraph (b)(v).
+(2) In section 68(2) delete “(1)(b)(iii), (iv) and (v)” and insert:
+(1)(b)(iii) and (iv)
+39.Section 69 amended
+(1) In section 69(3) delete “67(5)(a)” and insert:
+67(5)
+(2) Delete section 69(5).
+(3) In section 69(6)(c)(iv) before “any” insert:
+as to
+(4) After section 69(8) insert:
+(8AA) The chief executive officer appointed under the Western Australian Tourism Commission Act 1983 section 17 may intervene in proceedings before the licensing authority for the purpose of introducing evidence or making representations —
+(a) as to whether any tourism benefits might result if a particular application is granted; and
+(b) as to any other matter relevant to the proper development of the tourism industry in the State.
+40.Section 70 amended
+In section 70(2) delete “the section” and insert:
+this section
+41.Section 72A inserted
+After section 72 insert:
+72A.Submissions generally
+(1) In this section —
+submission means —
+(a)a submission made by a person in support of an application; or
+(b)a submission made by a person in opposition to an application, but does not include an objection to an application lodged with the Director under section 73.
+(2) A person who makes a submission to the Director is not a party to proceedings.
+(3) Subsection (2) does not apply to a person who intervenes in proceedings relating to an application.
+(4) The Director may, but need not, acknowledge receipt of a submission.
+(5) Sections 73 and 74 do not apply to a submission made in opposition to an application.
+42.Section 73 amended
+Delete section 73(4a) and insert:
+(4A) The Director must serve a copy of a notice lodged under subsection (4) on the applicant, unless section 30(4)(a) applies.
+43.Section 74 amended
+After section 74(4) insert:
+(5) A determination made by the Director under subsection (4) is not subject to review under section 25.
+44.Section 75 amended
+Delete section 75(2)(b) and insert:
+(b) if not required to be advertised is not subject to objection, but may be made the subject of a submission or an intervention under section 69; and
+45.Section 77A inserted
+At the end of Part 3 Division 7 insert:
+77A.Restrictions on alteration or redefinition of certain packaged liquor premises
+(1) In this section —
+packaged liquor premises has the meaning given in section 36B(1);
+prescribed area means the area prescribed for the purposes of this section;
+prescribed distance means the distance prescribed for the purposes of this section;
+retail section, in relation to packaged liquor premises, means the part or parts of the premises on which packaged liquor is displayed for the purposes of sale or sold.
+(2) Subsection (3) applies to packaged liquor premises if —
+(a) the premises are situated less than the prescribed distance from other packaged liquor premises; and
+(b) the area of the retail section of the other packaged liquor premises exceeds the prescribed area.
+(3) The licensing authority must not hear or determine an application made under section 77(4) in respect of packaged liquor premises to which this subsection applies —
+(a) if —
+(i) the area of the retail section of the premises does not exceed the prescribed area; and
+(ii) the proposed alteration or redefinition of the premises would increase the area of the retail section of the premises so that it exceeds the prescribed area;
+or
+(b) if —
+(i) the area of the retail section of the premises exceeds the prescribed area; and
+(ii) the proposed alteration or redefinition of the premises would increase the area of the retail section of the premises.
+(4) Regulations made for the purposes of the definition of prescribed distance in subsection (1) may prescribe different distances in relation to packaged liquor premises in different areas of the State.
+46.Section 95 amended
+(1) Before section 95(1) insert:
+(1A) In this section —
+employee, of the licensee, includes —
+(a)a person engaged under a contract for services by the licensee; and
+(b)a person who —
+(i)holds a crowd controller’s licence; and
+(ii)is employed by a crowd control agent engaged under a contract for services by the licensee or occupier or a manager of the licensed premises to supply the services of crowd controllers at those premises.
+(2) In section 95(4)(k) delete “of the licensee; or” and insert:
+of —
+(i) the licensee; or
+(ii) an employee or agent of the licensee; or
+(iii) a person acting, or purporting to act, on behalf of the licensee;
+or
+(3) After section 95(11) insert:
+(12) The hearing of a complaint lodged under this section must be in public unless the Commission considers that, in the circumstances of the case, the hearing should be in private.
+47.Section 98 amended
+In section 98(1):
+(a) in paragraph (a) after “6 a.m. to” insert:
+12
+(b) in paragraph (d) delete “2 a.m.;” and insert:
+2 am and then in accordance with paragraph (a) or (b), as the case requires;
+48.Section 98AA inserted
+After section 98 insert:
+98AA.Permitted hours under small bar licence
+The permitted hours under a small bar licence are —
+(a) on a day other than a Sunday — from 6 am to 12 midnight;
+(b) on a Sunday — from 10 am to 12 midnight;
+(c) on New Year’s Day — from immediately after 12 midnight on New Year’s Eve to 2 am and then in accordance with paragraph (a) or (b), as the case requires;
+(d) on Good Friday or Christmas Day — from 12 noon to 10 pm, but only for liquor sold ancillary to a meal supplied by the licensee;
+(e) on ANZAC Day — from 12 noon to 12 midnight.
+49.Section 98A amended
+In section 98A(1)(g) delete “paragraph (a), (b) or (c),” and insert:
+paragraph (a) or (c),
+50.Section 98E amended
+In section 98E(1)(d) after “2 a.m.” insert:
+and then in accordance with paragraph (a) or (b)(ii), as the case requires.
+51.Section 98G amended
+In section 98G(2) delete “section 55(1)(a)(iv) the permitted hours” and insert:
+section 55(1)(a), the permitted hours in relation to the sale or supply of beer or spirits
+52.Section 100 amended
+(1) In section 100(2)(c) and (2a)(b) delete “by the licensee”.
+(2) In section 100(3) delete “licensee” and insert:
+licensee, an approved unrestricted manager or an approved restricted manager
+(3) In section 100(4) delete “licensee from appointing” and insert:
+appointment of
+53.Section 109A inserted
+After section 109 insert:
+109A.Offence to carry liquor in excess of prescribed quantity in prescribed area of State
+(1) In this section —
+driver, in relation to a vehicle, means a person who has control over the steering, movement or propulsion of the vehicle;
+vehicle, without limiting the definition of that term in section 3(1), includes a trailer, semi-trailer or caravan attached to another vehicle.
+(2) A person who, in a prescribed area of the State, carries a kind of liquor in a quantity that exceeds the quantity prescribed for that kind of liquor commits an offence.
+Penalty for this subsection: a fine of $10 000.
+(3) For the purposes of subsection (2), if liquor is carried in or on a vehicle the driver of the vehicle is taken to be the person who carries the liquor.
+(4) It is a defence to a charge of an offence under subsection (2) to prove that the liquor was carried —
+(a) for the purpose of a sale that may lawfully be made; or
+(b) by a person of a prescribed class; or
+(c) in or on a vehicle of a prescribed class; or
+(d) in prescribed circumstances.
+(5) Regulations made for the purposes of subsection (2) may prescribe different quantities for different areas of the State.
+54.Section 110 amended
+Delete section 110(6a) and insert:
+(6A) If, under a licence, wine is sold to a person (the purchaser) for consumption on the licensed premises ancillary to a meal provided by the licensee, then, despite any other provision of this Act, it is lawful for the purchaser subsequently to take from the licensed premises any opened container of the wine if its contents have been partially consumed.
+55.Section 112 amended
+In section 112(1)(a)(i) delete “15” and insert:
+30
+56.Section 115 amended
+(1) In section 115(1) and (2) in the Penalty delete “Penalty:” and insert:
+Penalty for this subsection:
+(2) After section 115(4a) insert:
+(4B) A person commits an offence if the person does not leave licensed premises or a part of licensed premises after being required under subsection (4)(b) to do so.
+Penalty for this subsection: a fine of $5 000.
+(3) In section 115(5):
+(a) delete “A person who —” and insert:
+A person commits an offence if the person —
+(b) in paragraph (b) delete “closed; or” and insert:
+closed.
+(c) delete paragraph (c);
+(d) delete “commits an offence.”.
+(4) In section 115(5) in the Penalty delete “Penalty:” and insert:
+Penalty for this subsection:
+(5) In section 115(6) delete the Penalty and insert:
+Penalty for this subsection: a fine of $5 000.
+(6) In section 115(7) in the Penalty delete “Penalty:” and insert:
+Penalty for this subsection:
+57.Section 115AA amended
+(1) In section 115AA(2) delete “premises —” and insert:
+premises or in the vicinity of licensed premises —
+(2) After section 115AA(7A) insert:
+(7B) The reference in subsection (7A) to performing duties relating to the person’s work does not include attending a function associated with the person’s work that is held on the premises.
+58.Section 115AC amended
+In section 115AC(1):
+(a) in paragraph (a) after “name” insert:
+and date of birth
+(b) delete paragraph (c) and insert:
+(c) the address of the person;
+59.Section 115AE amended
+(1) In section 115AE delete “A responsible” and insert:
+(1) Subject to subsection (2), a responsible
+(2) In section 115AE in the Penalty delete “Penalty:” and insert:
+Penalty for this subsection:
+(3) At the end of section 115AE insert:
+(2) A responsible person in relation to licensed premises does not commit an offence under subsection (1) if the responsible person permits the person to enter or remain on the premises solely for the purpose of performing duties relating to the person’s work.
+(3) The reference in subsection (2) to performing duties relating to the person’s work does not include attending a function associated with the person’s work that is held on the premises.
+60.Section 120 amended
+In section 120(1)(a)(i) delete “constitution or”.
+61.Section 152B amended
+(1) In section 152B delete “The Commissioner” and insert:
+(1) The Commissioner
+(2) At the end of section 152B insert:
+(2) The Commissioner of Police must serve a copy of the application on the relevant person.
+62.Section 155 amended
+(1) After section 155(5) insert:
+(5A) If a person is contravening section 109A(2) a member of the Police Force may, subject to subsection (5B), seize an opened or unopened container of liquor involved in the contravention.
+(5B) The total quantity of a kind of liquor in any containers seized under subsection (5A) must not exceed the seizable quantity for that kind of liquor.
+(5C) In subsection (5B) —
+seizable quantity, for a kind of liquor, means the quantity representing the difference between the total quantity of that kind of liquor involved in the contravention and the quantity prescribed for that kind of liquor under section 109A(2).
+(2) In section 155(7)(b)(ii) delete “believes” and insert:
+suspects
+(3) In section 155(9) after “subsection” (2nd occurrence) insert:
+(5A),
+63.Section 167 amended
+(1) In section 167(1) insert in alphabetical order:
+approved form means the form approved by the Director;
+(2) In section 167(1) in the definition of infringement notice delete “a notice” and insert:
+an infringement notice
+(3) In section 167(2) delete the passage that begins with “a notice” and ends with “in the notice.” and insert:
+an infringement notice.
+(4) After section 167(2) insert:
+(2A) An infringement notice must be in the approved form and must —
+(a) contain a description of the alleged offence; and
+(b) advise that if the alleged offender does not wish to be prosecuted for the alleged offence in a court, the amount of money specified in the notice as being the modified penalty for the offence may be paid to an authorised person within a period of 28 days after the giving of the notice; and
+(c) inform the alleged offender as to who are authorised persons for the purposes of receiving payment of modified penalties.
+(5) In section 167(5) delete “prescribed” and insert:
+approved
+64.Section 170 amended
+In section 170(db) delete “the licensee shall be deemed not to have appointed a person” and insert:
+a person is taken not to have been appointed
+65.Section 174A amended
+In section 174A(2) delete “department of the Public Service that principally assists the Minister to administer this Act” and insert:
+Department
+66.Section 174B inserted
+After section 174A insert:
+174B.Liquor accords: authorisation for purposes of Competition and Consumer Act 2010 and Competition Code
+(1) In this section —
+liquor accord has the meaning given in section 64(1b).
+(2) For the purposes of the Competition and Consumer Act 2010 (Commonwealth) and the Competition Code, the following conduct is authorised by this Act, to the extent that it would otherwise contravene that Act or that Code —
+(a) the entry by any person into a liquor accord;
+(b) conduct engaged in by any person for the purpose of promoting or giving effect to the terms of a liquor accord.
+67.Section 175 amended
+Delete section 175(1)(d) and (e) and insert:
+(d) advertising, websites maintained by licensees, and the content of notices; and
+(e) the endorsement, production and display of licences; and
+68.Section 177C inserted
+After section 177B insert:
+177C.Transitional provisions for Liquor Control Amendment Act 2018 (Sch. 1C)
+Schedule 1C sets out transitional provisions relating to amendments made to this Act by the Liquor Control Amendment Act 2018.
+69.Section 178 amended
+In section 178(1) delete “section 95 of the Liquor Licensing Amendment Act 1998,” and insert:
+the Liquor Control Amendment Act 2018 section 68,
+70.Schedule 1C inserted
+After Schedule 1B insert:
+Schedule 1C — Transitional provisions relating to the Liquor Control Amendment Act 2018
+[s. 177C]
+1.Application of s. 36B to existing applications for grant or removal of licence
+Section 36B applies to an application for the grant or removal of a licence referred to in section 36B(2) that was made, but not determined by the licensing authority, before the day on which the Liquor Control Amendment Act 2018 section 18 comes into operation.
+2.Small bar licences
+(1) In this clause —
+commencement day means the day on which the Liquor Control Amendment Act 2018 section 21 comes into operation;
+old licence means a hotel licence of the kind referred to in section 41(1aa) as in force immediately before commencement day.
+(2) An old licence that was in effect immediately before commencement day is taken to be a small bar licence under section 41A, subject to the conditions that applied to the old licence immediately before commencement day.
+(3) An application for an old licence that was made, but not determined by the licensing authority, before commencement day is taken to be an application for a small bar licence under section 41A.
+3.Certain restaurant licences: no fee for application for extended trading permit under section 60(4)(ca)
+(1) In this clause —
+commencement day means the day on which the Liquor Control Amendment Act 2018 section 27 comes into operation;
+small restaurant licence means a restaurant licence that, immediately before commencement day, was subject to a condition limiting the maximum number of persons (excluding responsible persons and authorised officers) who may be on the licensed premises to 120.
+(2) If, in the period of 12 months beginning on commencement day, the licensee of a small restaurant licence makes an application for an extended trading permit under section 60(4)(ca), then, despite section 68(1)(b), the notice of application is not required to be accompanied by any prescribed fee.
+4.Application of s. 77A to existing applications for alteration or redefinition of licensed premises
+Section 77A applies to an application under section 77(4) that was made, but not determined by the licensing authority, before the day on which the Liquor Control Amendment Act 2018 section 45 comes into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
