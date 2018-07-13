@@ -19,4 +19,4 @@ day of ................................... 20 ..........
 (5)Here insert the name and address of the transferee, or, if there are 2 or more transferees, the name and address of each transferee.
 (6)Here affix the common seal or signature of the transferor or of each transferor, as the case may be.
 (7)Here affix the common seal or signature of the transferee or of each transferee, as the case may be.
-[Fourth Schedule inserted in Gazette 28 Sep 1990 p. 5105.]
+[Fourth Schedule inserted: Gazette 28 Sep 1990 p. 5105.]
