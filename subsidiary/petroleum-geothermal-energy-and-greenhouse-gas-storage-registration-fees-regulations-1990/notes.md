@@ -18,4 +18,5 @@ Petroleum and Geothermal Energy Resources (Registration Fees) Amendment Regulati
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 12 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 13 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 13 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
+Reprint 3: The Petroleum and Geothermal Energy Resources (Registration Fees) Regulations 1990 as at 13 Jul 2018 (includes amendments listed above)
 Now known as the Petroleum and Geothermal Energy Resources (Registration Fees) Regulations 1990; citation changed (see note under r. 1).
