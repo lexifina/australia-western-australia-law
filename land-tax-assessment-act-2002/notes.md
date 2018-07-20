@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 Jul 2018 of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC, 6. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -34,12 +34,15 @@ Taxation Legislation Amendment Act (No. 3) 2015 Pt. 3 | 15 of 2015 | 26 May 2015
 Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Land Tax Assessment Amendment Act 2018 | 5 of 2018 | 26 Apr 2018 | Pt. 2: 1 Jul 2003 (see s. 2(a) and Gazette 27 Jun 2003 p. 2383); Act other than Pt. 2: 26 Apr 2018 (see s. 2(b))
-Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
-Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
-Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8(2), this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
+Reprint 5: The Land Tax Assessment Act 2002 as at 20 Jul 2018 (includes amendments listed above)
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
+Repealed by the Aged Care Amendment Act 2011 (Cwlth).
+Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any law to the Forests Department was to be read as a reference to the Department of Conservation and Land Management.
+Under the Public Sector Management Act 1994 the names of departments may be changed. The Department of Conservation and Land Management was renamed the Department of Environment and Conservation.
+At the time of this reprint, under the Alteration of Statutory Designation Order 2017 cl. 4, a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Biodiversity, Conservation and Attractions.
+At the time of this reprint, under the Alteration of Statutory Designation Order 2017 cl. 8, a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Mines, Industry Regulation and Safety.
+Under the Land Administration Act 1997 s. 281(3) a reference in any law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 The amendment in the State Superannuation Amendment Act 2007 s. 83 is not included because it was deleted by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as follows:
 7.Financial years before the commencement day
@@ -57,22 +60,22 @@ Defined termProvision(s)
 aged care facility38A(1)
 agentGl. cl. 1
 aggregated taxable valueGl. cl. 1
-amended ActSch. 1 cl. 10, Sch. 1 cl. 16
+amended ActSch. 1 cl. 10 and 16
 amending ActSch. 1 cl. 6
 approvedGl. cl. 1
 assessmentGl. cl. 1
 assessment yearGl. cl. 1
-beneficiary23A(1), 29, 30K
+beneficiary23A(1)(b), 29, 30K
 building contractGl. cl. 1
 change30F(1)
 clauseGl. cl. 1
-commencement Sch. 1 cl. 10, Sch. 1 cl. 16
+commencement Sch. 1 cl. 10 and 16
 commencement dateGl. cl. 1
 completion dateGl. cl. 1
 compliant trusteeSch. 1 cl. 9(1)
 conservation covenantGl. cl. 1
 deceased30E
-decisionSch. 1 cl. 12(1), Sch. 1 cl. 18(1)
+decisionSch. 1 cl. 12(1) and 18(1)
 disabled beneficiaryGl. cl. 1
 disabled person26A(1)
 discretionary trust29
@@ -82,11 +85,11 @@ excluded purpose39A(1)
 exemptGl. cl. 1
 exempt purposeGl. cl. 1
 exemption provision18(1)
-family corporation29, 30H
+family corporation29, 30H(b)
 family member29
 family owner29, 30H
-family trust29, 30H
-family unit trust scheme29, 30H
+family trust29, 30H(c)
+family unit trust scheme29, 30H(d)
 former ActSch. 1 cl. 16
 former section 20Sch. 1 cl. 8(1)
 former section 30Sch. 1 cl. 7(1)
@@ -103,7 +106,7 @@ land taxGl. cl. 1
 land tax ActGl. cl. 1
 local planning schemeGl. cl. 1
 lotGl. cl. 1
-metropolitan regionGl. cl. 1
+metropolitan regionGl. cl. 1 and 2
 modified rural business land provisions Sch. 1 cl. 10
 new lot43A(1)
 new provisionsSch. 1 cl. 3
@@ -112,7 +115,7 @@ non-public authoritySch. 1 cl. 16
 non-rural land29
 non-strata home unitGl. cl. 1
 old lot43A(1)
-original assessment year38AC(8)
+original assessment year38AC(8)(a)
 other lotsGl. cl. 1
 ownerGl. cl. 1
 owner-builderGl. cl. 1
@@ -120,19 +123,20 @@ parcelGl. cl. 1
 partnership29
 political partyGl. cl. 1
 preliminary notice about an exemption under section 37Sch. 1 cl. 4(1)
-previous assessmentSch. 1 cl. 10, Sch. 1 cl. 16
+previous assessmentSch. 1 cl. 10 and 16
 previous assessment periodSch. 1 cl. 8(1)
 previously exempt landSch. 1 cl. 3
+previous financial yearGl. cl. 6(5)(a)
 primary production29
 primary production business29
 primary residenceGl. cl. 1
 private residenceGl. cl. 1
 private residential propertyGl. cl. 1
-produce animals30A(1)
+produce animals30A(1)(b)
 professional associationGl. cl. 1
 promote trade, industry or commerceGl. cl. 1
 property A27(1)
-property B27(1)
+property B27(1)(a)
 public charitable or benevolent institution37(1)
 public statutory authorityGl. cl. 1
 registeredGl. cl. 1
@@ -166,5 +170,5 @@ transitional periodSch. 1 cl. 7(1)
 trusteeGl. cl. 1
 unimproved valueGl. cl. 1
 unit holder30
-validation periodSch. 1 cl. 10, Sch. 1 cl. 16
+validation periodSch. 1 cl. 10 and 16
 year A39A(5A)
