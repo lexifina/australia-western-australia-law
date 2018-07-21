@@ -140,6 +140,7 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Liquor Control Amendment Regulations 2018 | 19 Jan 2018 p. 231-2 | r. 1 and 2: 19 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jan 2018 (see r. 2(b))
 Liquor Control (Kalumburu Restricted Area) Regulations 2018 Pt. 5 | 2 Mar 2018 p. 669-72 | 3 Mar 2018 (see r. 2(b))
 Liquor Control (Parnngurr Restricted Area) Regulations 2018 Pt. 5 | 6 Jul 2018 p. 2546-8 | 7 Jul 2018 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 2) 2018 | 20 Jul 2018 p. 2631-2 | r. 1 and 2: 20 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jul 2018 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Commenced 1 July 2014.
@@ -207,10 +208,12 @@ relevant body corporate5B(2), 5B(3), 5B(4)
 relevant lot11(1)
 relevant premises11(1)
 renewal application14ADD(1)
+resident8(1), 8(2)
 residential care8(2)
 responsible adult8A(1), 8F(1)
 restricted material8A(1)
 retail sale4A(2)
+retirement village8(2)
 room service restaurant9A(17)
 sale5(2)
 school8F(1)
