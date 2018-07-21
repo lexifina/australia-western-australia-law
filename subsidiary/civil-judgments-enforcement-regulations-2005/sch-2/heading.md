@@ -1,6 +1,6 @@
 ## Schedule 2 — Sheriff’s fees
 [r. 105]
-[Heading inserted in Gazette 15 Jun 2018 p. 1971.]
+[Heading inserted: Gazette 15 Jun 2018 p. 1971.]
 Item | Action | Fee $
 1. | (a)Service of any process when personal service is not required under the Act | 56.50
  | (b)Service of any process when personal service is required under the Act | 78.50
@@ -67,4 +67,4 @@ Item | Action | Fee $
 19. | Copies of documents —
  | (a)copies of enforcement orders, for each page | 1.85
  | (b)for certifying that a document is a true copy, an additional fee of | 21.30
-[Schedule 2 inserted in Gazette 15 Jun 2018 p. 1971-9.]
+[Schedule 2 inserted: Gazette 15 Jun 2018 p. 1971-9.]

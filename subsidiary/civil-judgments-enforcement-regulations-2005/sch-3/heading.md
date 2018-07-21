@@ -1,6 +1,6 @@
 ## Schedule 3 — Fees to be paid for anything done by the Marshal in Admiralty
 [r. 105]
-[Heading inserted in Gazette 15 Jun 2018 p. 1980.]
+[Heading inserted: Gazette 15 Jun 2018 p. 1980.]
 Item | Matter | Fee $
 1. | For receiving and entering a warrant or release | 124.00
 2. | For receiving and entering a writ of summons, decree, order, commission, or other instrument under the seal of the Supreme Court | 49.50
@@ -22,4 +22,4 @@ Item | Matter | Fee $
  | Note: No fee is payable for the custody and possession of property under arrest if it consists of money in a bank, or of goods stored in a bonded warehouse, or if it is in the custody of a customs house officer, or other authorised person.
 13. | If the Marshal or any of the Marshal’s officers is required to travel for the purpose of discharging their duty, in addition to the above fees | Reasonable expenses for travelling, board and maintenance
 14. | If the Marshal or other person employed under the Marshal is necessarily put to and incurs extra trouble and expense in the discharge of any duty incidental to their office or employment or for any duty or service not provided for in another item of this Schedule | A sum or additional sum that the Marshal may reasonably allow
-[Schedule 3 inserted in Gazette 15 Jun 2018 p. 1980-2.]
+[Schedule 3 inserted: Gazette 15 Jun 2018 p. 1980-2.]
