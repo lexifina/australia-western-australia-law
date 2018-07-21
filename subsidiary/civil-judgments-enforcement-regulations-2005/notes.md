@@ -31,6 +31,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3
 Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 3 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Civil Judgments Enforcement Amendment Regulations 2018 | 8 May 2018 p. 1493 | r. 1 and 2: 8 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
+Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 3 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.

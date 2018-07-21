@@ -32,6 +32,7 @@ Attorney General Regulations Amendment (Family Violence Restraining Orders) Regu
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 8 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 5 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
+Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 6 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms

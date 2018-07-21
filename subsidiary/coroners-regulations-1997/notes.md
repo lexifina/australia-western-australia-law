@@ -20,6 +20,7 @@ Coroners Amendment Regulations 2015 | 19 Jun 2015 p. 2118-19 | r. 1 and 2: 19 Ju
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 4 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
+Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 4 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

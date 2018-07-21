@@ -24,6 +24,7 @@ Attorney General Regulations Amendment (Family Violence Restraining Orders) Regu
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 2 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
+Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 2 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

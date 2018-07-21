@@ -31,7 +31,7 @@ Applicant Details: | Full Name:
 Please indicate your party type: ❑ Individual ❑ Entity
 Address:
 Date of Birth:
-If you are applying for a fee reduction because of financial hardship or in the interests of justice, please give supporting reasons for your request (attach a separate page if required). If the reasons include financial hardship you must complete the information on the following pages.
+Please give supporting reasons for your request (attach a separate page if required). If the reasons include financial hardship you must complete the information on the following pages.
 I certify that the above information and disclosures in this form are true and correct.
 Applicant’s Signature | Dated:
 *Note: A person who makes a statement or representation in this application that the person knows or has reason to believe is false or misleading in a material particular commits an offence under the District Court (Fees) Regulations 2002 regulation 8B(1).
@@ -87,7 +87,7 @@ Income |  | $
 Assets |  | $
 Liabilities |  | $
 TOTAL | $
-[Form 2 inserted in Gazette 14 Jun 2016 p. 1900-5.]
+[Form 2 inserted in Gazette 14 Jun 2016 p. 1900-5; amended in Gazette 20 Jul 2018 p. 2626.]
 Form 3 Application for determination of dispute about fees
 In the District Court of Western Australia | No. of 20
 Plaintiff:........................................................................................................

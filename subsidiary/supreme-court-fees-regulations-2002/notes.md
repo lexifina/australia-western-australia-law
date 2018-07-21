@@ -32,6 +32,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 1
 Supreme Court (Fees) Amendment Regulations 2017 | 19 Sep 2017 p. 4885-6 | r. 1 and 2: 19 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2017 (see r. 2(b))
 Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 6 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
+Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 8 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.
 Defined terms

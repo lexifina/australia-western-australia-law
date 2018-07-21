@@ -31,6 +31,7 @@ Compilation table
  | District Court (Fees) Amendment Regulations 2017 | 14 Jul 2017 p. 3949-50 | r. 1 and 2: 14 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jul 2017 (see r. 2(b))
  | Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 4 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
+Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 5 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Repealed by the District Court Rules 2005.
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.

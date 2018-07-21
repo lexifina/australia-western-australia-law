@@ -35,8 +35,9 @@ State Administrative Tribunal Amendment Regulations (No. 3) 2016 | 13 Jan 2017 p
 Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 5 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Reprint 5: The State Administrative Tribunal Regulations 2004 as at 12 Jan 2018 (includes amendments listed above)
-State Administrative Tribunal Amendment Regulations 2018 | 26 Jun 2018 p. 2382-3 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
+State Administrative Tribunal Amendment Regulations 2018 | 26 Jun 2018 p. 2382-3 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
+Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 7 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
