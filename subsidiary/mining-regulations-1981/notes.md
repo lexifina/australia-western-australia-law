@@ -142,6 +142,7 @@ Mining Amendment Regulations (No. 3) 2017 | 24 Nov 2017 p. 5682-3 | r. 1 and 2: 
 Mining Amendment Regulations (No. 4) 2017 | 22 Dec 2017 p. 5989-93 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2018 (see r. 2(b))
 Mining Amendment Regulations (No. 2) 2018 | 4 May 2018 p. 1477-9 | r. 1 and 2: 4 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
+Mining Amendment Regulations 2018 | 24 Jul 2018 p. 2651-3 | r. 1 and 2: 24 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2018 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -162,6 +163,7 @@ Disallowed on 28 Nov 2017 see Gazette 1 Dec 2017 p. 5749.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+block2, Sch. 3 cl. 1(1)
 aerial photography120P
 agent137(1)
 allowable deductions85(1)
@@ -173,7 +175,6 @@ application70BA(1), 70BB(1), 70BC(1), 70BD(1)
 approved surveyor116
 Australian Geodetic DatumSch. 3 cl. 1(1)
 beneficiation plant86AC(1)
-block2, Sch. 3 cl. 1(1)
 CSch. 4 cl. 1
 combined mineral exploration report96(1)
 commencement daySch. 3 cl. 1(1)
@@ -189,6 +190,7 @@ determination137(1)
 Director116, 120P
 Director Operations, Resource and Environmental Compliance Division2
 document59A(1)
+Dry Freight Wire86AD(1)
 environment information96CA(1)
 environment report96CA(1)
 environmental officer2
@@ -244,9 +246,11 @@ payable gold metal content86AA(11)
 permit4A
 permit holder4A
 PLSch. 4 cl. 1
+Platts daily assessments86AD(1)
+Platts daily premium spot assessment86AD(1)
 Platts freight rate86AD(1)
-Platts index86AD(1)
-Platts midpoint price 86AD(1)
+Platts premium86AD(1)
+Platts price86AD(1)
 prescribed fee2
 prescribed landSch. 3 cl. 1(1)
 prescribed period84F(1)
@@ -266,7 +270,7 @@ release date23(2)
 relevant depth101A(1)
 relevant exploration licence4A
 relevant operations report58A(1)
-relevant period 86(2a), 96CA(1)
+relevant period86(2a), 86(2a), 96CA(1)
 reversion licence63A(1)
 royalty ore86AD(4)
 royalty return2
