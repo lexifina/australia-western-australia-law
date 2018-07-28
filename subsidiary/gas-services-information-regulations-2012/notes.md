@@ -12,6 +12,7 @@ Gas Services Information Amendment Regulations (No. 3) 2015 | 13 Nov 2015 p. 463
 Gas Services Information Amendment Regulations 2016 | 24 Jun 2016 p. 2303-9 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 30 Jun 2016 p. 2695)
 Gas Services Information Amendment Regulations (No. 2) 2016 | 23 Nov 2016 p. 5271-5 | r. 1 and 2: 23 Nov 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 9(2): 24 Nov 2016 (see r. 2(c)); Regulation 9(2): 3 Apr 2017 (see r. 2(b))
 Gas Services Information Amendment Regulations 2017 | 30 Jun 2017 p. 3561-2 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
+Energy Regulations Amendment (Independent Market Operator) Regulations 2018 Pt. 3 | 27 Jul 2018 p. 2687-9 | 28 Jul 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

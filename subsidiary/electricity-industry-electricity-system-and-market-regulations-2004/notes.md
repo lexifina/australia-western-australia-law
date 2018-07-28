@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 July 2017 of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | Regulations other than r. 4(3)(b): 30 Sep 2004; r. 4(3)(b): 1 Oct 2004 (see r. 4(3) and the Wholesale Electricity Market Rules published in Gazette 5 Oct 2004 r. 1.8.2 and 1.9.7)
@@ -23,6 +23,7 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2016 |
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2016 | 23 Nov 2016 p. 5265-9 | r. 1 and 2: 23 Nov 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 9: 24 Nov 2016 (see r. 2(c) and Gazette 23 Nov 2016 p. 5249); r. 9: 3 Apr 2017 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2017 | 30 Jun 2017 p. 3560-1 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Reprint 3: The Electricity Industry (Wholesale Electricity Market) Regulations 2004 as at 14 Jul 2017 (includes amendments listed above)
+Energy Regulations Amendment (Independent Market Operator) Regulations 2018 Pt. 2 | 27 Jul 2018 p. 2687-9 | 28 Jul 2018 (see r. 2(b))
 Now known as the Competition and Consumer Act 2010 (Cwlth). The short title was changed by the Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 Sch. 5 cl. 2 (Cwlth).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Energy Arbitration and Review Act 1998.
