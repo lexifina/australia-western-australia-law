@@ -1,6 +1,6 @@
 ## Schedule 1 — Civil penalty provisions and amounts
 [r. 15]
-[Heading inserted in Gazette 28 Jun 2013 p. 2961.]
+[Heading inserted: Gazette 28 Jun 2013 p. 2961.]
 Rule | Category | Maximum civil penalty amount
 r. 18(5) | A | first contravention: $10 000 subsequent contraventions: $20 000
 r. 18(6) | B | first contravention: $40 000 subsequent contraventions: $80 000
@@ -82,4 +82,4 @@ r. 166 | A | $5 000 plus a daily amount of $1 000
 r. 169(3) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
 r. 169(5) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
 r. 173(2) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-[Schedule 1 inserted in Gazette 28 Jun 2013 p. 2961-5; amended in Gazette 8 Sep 2015 p. 3720.]
+[Schedule 1 inserted: Gazette 28 Jun 2013 p. 2961-5; amended: Gazette 8 Sep 2015 p. 3720.]
