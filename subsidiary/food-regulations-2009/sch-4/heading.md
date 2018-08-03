@@ -16,4 +16,4 @@ Notice to alleged offender | It is alleged that you have committed the above off
  | If you do not pay the modified penalty within 28 days, you may be prosecuted for the alleged offence in a court or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
  | If you need more time to pay the modified penalty, you can apply for an extension of time by writing to [details of relevant enforcement agency].
  | If you want this matter to be dealt with by prosecution in court, sign the “Cashier’s Copy” of this notice here _________________________________________________ and post it to [details of relevant enforcement agency] within 28 days after the date of this notice.
-[Schedule 4 amended in Gazette 20 Aug 2013 p. 3852.]
+[Schedule 4 amended: Gazette 20 Aug 2013 p. 3852.]

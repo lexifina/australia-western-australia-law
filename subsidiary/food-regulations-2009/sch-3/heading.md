@@ -59,4 +59,4 @@ Item | Offence under Food Regulations 2009 | Modified penalty (individual) | Mod
 49. | r. 49(2) | $500 | $1 000
 50. | r. 49(3) | $500 | $1 000
 51. | r. 50 | $500 | $1 000
-[Schedule 3 amended in Gazette 20 Apr 2012 p. 1697-8.]
+[Schedule 3 amended: Gazette 20 Apr 2012 p. 1697-8.]
