@@ -66,6 +66,7 @@ Police Force Amendment Regulations 2014 | 20 May 2014 p. 1608-18 | r. 1 and 2: 2
 Reprint 6: The Police Force Regulations 1979 as at 19 Sep 2014 (includes amendments listed above)
 Police Force Amendment Regulations 2015 | 3 Mar 2015 p. 785-6 | r. 1 and 2: 3 Mar 2015 (see r. 2(a)); r. 3 and 4(1): 4 Mar 2015 (see r. 2(b)); r. 4(2): 4 Mar 2015 (see r. 2(c)(i) and Gazette 3 Mar 2015 p. 783)
 Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 221-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Police Force Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2863-4 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Police Force Regulations 1979; citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
