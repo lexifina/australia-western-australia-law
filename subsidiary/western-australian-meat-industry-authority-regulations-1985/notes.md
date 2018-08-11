@@ -42,6 +42,7 @@ Western Australian Meat Industry Authority Amendment Regulations 2015 | 24 Jul 2
 Western Australian Meat Industry Authority Amendment Regulations 2016 | 16 Sep 2016 p. 3933-5 | r. 1 and 2: 16 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Sep 2016 (see r. 2(b))
 Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 169-71 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Western Australian Meat Industry Authority Amendment Regulations 2017 | 27 Oct 2017 p. 5413-15 | r. 1 and 2: 27 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2017 (see r. 2(b))
+Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2859-62 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
