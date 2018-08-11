@@ -37,6 +37,7 @@ Reprint 3: The Salaries and Allowances Regulations 1975 as at 19 Jul 2013 (inclu
 Salaries and Allowances Amendment Regulations (No. 2) 2014 | 12 Dec 2014 p. 4738 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2014 (see r. 2(b))
 Salaries and Allowances Amendment Regulations 2015 | 29 Dec 2015 p. 5181 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Salaries and Allowances Amendment Regulations 2018 | 6 Jul 2018 p. 2538-42 | r. 1 and 2: 6 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2018 (see r. 2(b))
+Salaries and Allowances Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2864-5 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 Repealed by the Financial Legislation Amendment and Repeal Act 2006.
 Formerly referred to the Health Services (Conciliation and Review) Act 1995 the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -48,6 +49,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 commencement day2
+Government entity3A
 post-commencement determination5(1)
 pre-commencement determination5(1)
 report6(1)
