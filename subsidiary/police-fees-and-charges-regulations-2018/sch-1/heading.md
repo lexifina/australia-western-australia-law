@@ -1,6 +1,6 @@
 ## Schedule 1 — Fees
 [r. 4(1)]
-[Heading inserted in Gazette 26 Jun 2018 p. 2398.]
+[Heading inserted: Gazette 26 Jun 2018 p. 2398.]
  | Rate | Amount
 1. | Copy of traffic infringement notice record | $28.10
 2. | Escorts and guards — each person provided per hour and part of an hour for high risk escorts carried out by TRG | $113.40
@@ -16,4 +16,4 @@
 8. | Replacement of prosecution documents —
  | (a)a statement of the material facts of a charge, which has already been served (per hour or part of an hour) | $98.00
  | (b)additional copy of documents already disclosed (per hour or part of an hour) | $98.00
-[Schedule 1 inserted in Gazette 26 Jun 2018 p. 2398.]
+[Schedule 1 inserted: Gazette 26 Jun 2018 p. 2398.]
