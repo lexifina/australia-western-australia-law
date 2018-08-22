@@ -1,6 +1,6 @@
 ## Schedule 3 — Forms
 [r. 7A(2) and (3)]
-[Heading inserted in Gazette 14 Jul 2006 p. 2573.]
+[Heading inserted: Gazette 14 Jul 2006 p. 2573.]
 FORM 1
 TRANSPORT CO-ORDINATION ACT 1966 — section 58A
 TRANSPORT (COUNTRY TAXI-CARS FARES) REGULATIONS 1991 - regulation 7A(2)
@@ -53,7 +53,7 @@ Card Number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 Amount [ ] [ ] [ ] [ ]
 Cardholder Name: ...............................................................................................................
 Signature: ........................................................................... Expiry Date: ......../......../........
-[Form 1 inserted in Gazette 14 Jul 2006 p. 2573-4; amended in Gazette 28 Jun 2016 p. 2673.]
+[Form 1 inserted: Gazette 14 Jul 2006 p. 2573-4; amended: Gazette 28 Jun 2016 p. 2673.]
 FORM 2
 TRANSPORT CO-ORDINATION ACT 1966 — section 58A
 TRANSPORT (COUNTRY TAXI-CARS FARES) REGULATIONS 1991 - regulation 7A(3)
@@ -72,4 +72,4 @@ Code
 Description
 Take notice that I, being authorised to do so, hereby withdraw proceedings under the Transport Co-ordination Act 1966 in relation to the infringement notice issued for the above offence.
 Director GeneralDate
-[Form 2 inserted in Gazette 14 Jul 2006 p. 2574-5; amended in Gazette 28 Jun 2016 p. 2673.]
+[Form 2 inserted: Gazette 14 Jul 2006 p. 2574-5; amended: Gazette 28 Jun 2016 p. 2673.]

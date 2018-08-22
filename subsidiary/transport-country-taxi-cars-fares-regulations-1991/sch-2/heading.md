@@ -1,6 +1,6 @@
 ## Schedule 2 — Modified penalties
 [r. 7A(1)]
-[Heading inserted in Gazette 14 Jul 2006 p. 2572.]
+[Heading inserted: Gazette 14 Jul 2006 p. 2572.]
 Table
 Item | Regulation | Description of offence | Modified penalty $
 1. | r. 3(1) | Fare, surcharge or fee of a kind set out in Schedule 1 for hire of taxi-car is more than that in Schedule 1 | 50
@@ -18,4 +18,4 @@ Item | Regulation | Description of offence | Modified penalty $
 13. | r. 6(1) | Owner failing to ensure fare schedule carried in vehicle | 50
 14. | r. 6(2) | Driver failing to make schedule available to hirer upon request | 50
 15. | r. 6(3) | Driving a taxi-car in which relevant fare schedule is not carried | 50
-[Schedule 2 inserted in Gazette 28 Jun 2016 p. 2671-3.]
+[Schedule 2 inserted: Gazette 28 Jun 2016 p. 2671-3.]
