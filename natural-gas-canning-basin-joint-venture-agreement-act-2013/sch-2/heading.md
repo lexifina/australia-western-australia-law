@@ -58,4 +58,4 @@ EXECUTED by DIAMOND RESOURCES (CANNING) PTY LTD ACN 145 113 186 in accordance wi
 [Signature] Signature of director: Name of director: Masaki Fujiwara | [Signature] Signature of director: Name of director: Masayuki Moroi
 SIGNED for and on behalf of MITSUBISHI CORPORATION in the presence of: | ) ) )
 Signature of witness: Name: MASAKI FUJIWARA [Signature] | [Signature] Signature of duly authorised representative Name: Makoto Tsurusaki Title: Senior Vice President Division COO, E&P Business Division Energy Business Group
-[Schedule 2 inserted by No. 1 of 2016 s. 7.]
+[Schedule 2 inserted: No. 1 of 2016 s. 7.]
