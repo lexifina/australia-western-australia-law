@@ -1,8 +1,8 @@
 ## Schedule 1 — Fares
 [r. 3]
-[Heading inserted in Gazette 23 Dec 2014 p. 4898; amended in Gazette 28 Jun 2016 p. 2670.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4898; amended: Gazette 28 Jun 2016 p. 2670.]
 ## Division 1 — Gascoyne region
-[Heading inserted in Gazette 23 Dec 2014 p. 4898.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4898.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $2.31/km | $49.00/hour
@@ -20,9 +20,9 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 1 inserted in Gazette 23 Dec 2014 p. 4898-9; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 1 inserted: Gazette 23 Dec 2014 p. 4898-9; amended: Gazette 28 Jun 2016 p. 2671.]
 ## Division 2 — Goldfields-Esperance region
-[Heading inserted in Gazette 23 Dec 2014 p. 4899.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4899.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.80/km | $49.00/hour
@@ -40,9 +40,9 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 2 inserted in Gazette 23 Dec 2014 p. 4899-901; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 2 inserted: Gazette 23 Dec 2014 p. 4899-901; amended: Gazette 28 Jun 2016 p. 2671.]
 ## Division 3 — Great Southern region
-[Heading inserted in Gazette 23 Dec 2014 p. 4901.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4901.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.75/km | $49.00/hour
@@ -60,9 +60,9 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 3 inserted in Gazette 23 Dec 2014 p. 4901-2; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 3 inserted: Gazette 23 Dec 2014 p. 4901-2; amended: Gazette 28 Jun 2016 p. 2671.]
 ## Division 4 — Kimberley region
-[Heading inserted in Gazette 23 Dec 2014 p. 4902.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4902.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $2.27/km | $49.00/hour
@@ -76,13 +76,15 @@ When carrying fewer than 5 passengers | $1.26/km
 When carrying 5 or more passengers | $1.92/km
 Other amounts (maximums)
 Call out fee | $1.50
+Airport fee
+(for a journey starting at the terminal at the Broome International Airport) | $2.50
 Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 4 inserted in Gazette 23 Dec 2014 p. 4902-4; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 4 inserted: Gazette 23 Dec 2014 p. 4902-4; amended: Gazette 28 Jun 2016 p. 2671; 21 Aug 2018 p. 2943.]
 ## Division 5 — Mid West region
-[Heading inserted in Gazette 23 Dec 2014 p. 4904.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4904.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.30 | $1.76/km | $49.50/hour
@@ -100,9 +102,9 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.80
-[Division 5 inserted in Gazette 23 Dec 2014 p. 4904-5; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 5 inserted: Gazette 23 Dec 2014 p. 4904-5; amended: Gazette 28 Jun 2016 p. 2671.]
 ## Division 6 — Peel region
-[Heading inserted in Gazette 23 Dec 2014 p. 4905.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4905.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.75/km | $49.00/hour
@@ -120,9 +122,9 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 6 inserted in Gazette 23 Dec 2014 p. 4905-7; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 6 inserted: Gazette 23 Dec 2014 p. 4905-7; amended: Gazette 28 Jun 2016 p. 2671.]
 ## Division 7 — Pilbara region
-[Heading inserted in Gazette 23 Dec 2014 p. 4907.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4907.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $2.31/km | $49.00/hour
@@ -141,9 +143,9 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 7 inserted in Gazette 23 Dec 2014 p. 4907-8; amended in Gazette 28 Jun 2016 p. 2671; 12 May 2017 p. 2472.]
+[Division 7 inserted: Gazette 23 Dec 2014 p. 4907-8; amended: Gazette 28 Jun 2016 p. 2671; 12 May 2017 p. 2472.]
 ## Division 8 — South West region
-[Heading inserted in Gazette 23 Dec 2014 p. 4908.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4908.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.75/km | $49.00/hour
@@ -161,9 +163,9 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 8 inserted in Gazette 23 Dec 2014 p. 4908-10; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 8 inserted: Gazette 23 Dec 2014 p. 4908-10; amended: Gazette 28 Jun 2016 p. 2671.]
 ## Division 9 — Wheatbelt region
-[Heading inserted in Gazette 23 Dec 2014 p. 4910.]
+[Heading inserted: Gazette 23 Dec 2014 p. 4910.]
 Metered rates (maximums)
  | Flagfall | Distance rate | Detention
 Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.80/km | $49.00/hour
@@ -181,4 +183,4 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
 Christmas Day — midnight to midnight | $5.10
 New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
-[Division 9 inserted in Gazette 23 Dec 2014 p. 4910-11; amended in Gazette 28 Jun 2016 p. 2671.]
+[Division 9 inserted: Gazette 23 Dec 2014 p. 4910-11; amended: Gazette 28 Jun 2016 p. 2671.]
