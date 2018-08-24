@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Salaries and Allowances Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation the Salaries and Allowances Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Salaries and Allowances Tribunal Act 1975 | 27 of 1975 | 16 May 1975 | Act other than s. 13: 16 May 1975 (see s. 2(1)); s. 13: 8 Aug 1975 (see s. 2(2) and Gazette 12 Aug 1975 p. 2951)
@@ -35,7 +35,7 @@ Compilation table
  | Electoral Amendment Act 2000 s. 26 and 57 | 36 of 2000 | 10 Oct 2000 | 21 Oct 2000 (see s. 2 and Gazette 20 Oct 2000 p. 5899)
  | Parliamentary Superannuation Legislation Amendment Act 2000 Pt. 3 | 37 of 2000 | 10 Oct 2000 | 10 Oct 2000 (see s. 2)
  | Salaries and Allowances Amendment Act 2001 | 22 of 2001 | 26 Nov 2001 | 26 Nov 2001 (see s. 2)
- | Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+ | Corruption and Crime Commission Act 2003 Sch. 4 cl. 9 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
  | Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 17 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
  | Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
  | Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
@@ -54,8 +54,8 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 8 | 32 of 2016 | 19 Oct 2016 | 1 Oct 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Salaries and Allowances Amendment (Debt and Deficit Remediation) Act 2018 | 1 of 2018 | 27 Feb 2018 | s. 1 and 2: 27 Feb 2018 (see s. 2(a)); Act other than s. 1 and 2: 28 Feb 2018 (see s. 2(b))
+Reprint 6: The Salaries and Allowances Act 1975 as at 24 Aug 2018 (includes amendments listed above)
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
-Footnote no longer applicable.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
 6.Transitional provision
 (1) Section 6C of the principal Act applies whether or not the offence was committed before the day when this Act commences and whether or not the person was dealt with before that day, but if the person was dealt with before that day the disqualification takes effect on that day instead of the day when the person was dealt with.
@@ -73,7 +73,9 @@ elected council member7B(1)
 entity10F(1)
 executive officer7C(1), 10F(1)
 former office entitlement6C(1)
+fresh election6(5b)
 Government entity7C(1), 10F(3)
+Government Financial Projections Statement10A(1)
 holding public office6C(1)
 member4(1)
 Minister of the Crown4(1)
@@ -81,5 +83,4 @@ Public Sector Wages Policy Statement 10A(1)
 remuneration4(1)
 Schedule 1 offence6C(1)
 section4(1)
-the fresh election6(5b)
 Tribunal4(1)
