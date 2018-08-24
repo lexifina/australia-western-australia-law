@@ -1,6 +1,6 @@
 ## Schedule 2 — Entities that may be prescribed as Government entities and their executive officers
 [s. 7C]
-[Heading inserted by No. 46 of 2016 s. 9.]
+[Heading inserted: No. 46 of 2016 s. 9.]
 Column 1: entities | Column 2: executive officers
 A corporation as defined in the Electricity Corporations Act 2005 section 3(1). | 1.The person appointed under the Electricity Corporations Act 2005 section 14(2) or (3) as the chief executive officer of the corporation.
  | 2.A person appointed under the Electricity Corporations Act 2005 section 17 to act in place of the chief executive officer of the corporation.
@@ -18,4 +18,4 @@ The Authority as defined in the Western Australian Land Authority Act 1992 secti
  | 2.A person appointed under the Western Australian Land Authority Act 1992 section 10(8) to act in the office of chief executive officer of the Authority.
 The Corporation as defined in the Western Australian Treasury Corporation Act 1986 section 3(1). | 1.The person appointed under the Western Australian Treasury Corporation Act 1986 section 8(2) as the chief executive officer of the Corporation.
  | 2.A person appointed under the Western Australian Treasury Corporation Act 1986 section 8(5) to act in place of the chief executive officer of the Corporation.
-[Schedule 2 inserted by No. 46 of 2016 s. 9.]
+[Schedule 2 inserted: No. 46 of 2016 s. 9.]
