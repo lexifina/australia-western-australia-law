@@ -57,6 +57,7 @@ Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2
 Misuse of Drugs Amendment (Search Powers) Act 2016 | 47 of 2016 | 28 Nov 2016 | s. 1 and 2: 28 Nov 2016 (see s. 2(a)); Act other than s. 1 and 2: 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 337)
 Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 2 | 3 of 2017 | 21 Aug 2017 | 18 Sep 2017 (see s. 2(b))
 Reprint 7: The Misuse of Drugs Act 1981 as at 1 Dec 2017 (includes amendments listed above)
+Misuse of Drugs (Amounts of Prohibited Drugs) Order 2018 published in Gazette 29 Aug 2018 p. 2995-3039 | cl. 1 and 2: 29 Aug 2018 (see cl. 2); Order other than cl. 1 and 2: 30 Aug 2018 (see cl. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -115,7 +116,7 @@ Defined terms
 Defined termProvision(s)
 adult3(1), 8B(1)
 Agvet Code of Western Australia8N(1)
-amending Act44(1)(a)
+amending Act44(1)
 analyst3(1)
 appropriate licence5B(1)
 appropriate permit5B(1)
@@ -137,7 +138,7 @@ child3(1)
 CIN45
 CIR8B(2)
 CIS8B(2)
-claimant27(1)(b)
+claimant27(1)
 commencement day42B(1), 45
 Commissioner3(1)
 confidential information27B(1)
@@ -149,7 +150,7 @@ declared criminal organisation32A(3)
 delivery business 20A
 destruction notice8T(1)
 display7B(1)
-drug detection area20A, 20B(2)(a)
+drug detection area20A, 20B(2)
 drug detection device20A
 drug detection dog20A
 drug of addiction3(1)

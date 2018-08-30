@@ -1,6 +1,8 @@
 ## Schedule III — Amounts of prohibited drugs determining court of trial
 [s. 9]
 [Heading amended by No. 19 of 2010 s. 4.]
+## Division 1 — General
+[Heading inserted in Gazette 29 Aug 2018 p. 2995.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ACETORPHINE | 6.0
 2. | ACETYLDIHYDROCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 6.0
@@ -18,7 +20,8 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 14. | APROBARBITONE | 30.0
 15. | BARBITONE | 30.0
 16. | BENZETHIDINE | 30.0
-17A. | BENZOYLINDOLES (not specifically included elsewhere in this Schedule) | 500.0
+17A. | BENZOYLINDOLES (plant material) | 60.0
+17B. | BENZOYLINDOLES (in any form except plant material) | 4.0
 17. | BENZYLMORPHINE | 15.0
 18A. | BENZYLPIPERAZINE (BZP) | 4.0
 18. | BETACETYLMETHADOL | 15.0
@@ -28,7 +31,8 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 22. | BEZITRAMIDE | 15.0
 23. | BUFOTENINE | 6.0
 24. | BUTOBARBITONE | 30.0
-25A. | 1-BUTYL-3-(1-NAPHTHOYL) INDOLE (JWH-073) | 500.0
+25A. | 1-BUTYL-3-(1-NAPHTHOYL) INDOLE (JWH-073) (plant material) | 60.0
+25B. | 1-BUTYL-3-(1-NAPHTHOYL) INDOLE (JWH-073) (in any form except plant material) | 4.0
 25. | CANNABIS | 500.0
 26. | CANNABIS RESIN | 40.0
 27. | CANNABIS (in cigarette form) | 400 cigarettes each containing any portion of cannabis
@@ -38,13 +42,16 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 31. | CODEINE-N-OXIDE | 30.0
 32. | CODOXIME | 30.0
 33. | CYCLOBARBITONE | 30.0
-34A. | 1-CYCLOHEXYLETHYL-3-(2- METHOXYPHENYLACETYL) INDOLE (RCS-8) | 500.0
-34B. | CYCLOHEXYLPHENOLS (not specifically included elsewhere in this Schedule) | 500.0
+34A. | 1-CYCLOHEXYLETHYL-3-(2- METHOXYPHENYLACETYL) INDOLE (RCS-8) (plant material) | 60.0
+34AA. | 1-CYCLOHEXYLETHYL-3-(2- METHOXYPHENYLACETYL) INDOLE (RCS-8) (in any form except plant material) | 4.0
+34B. | CYCLOHEXYLPHENOLS (plant material) | 60.0
+34C. | CYCLOHEXYLPHENOLS (in any form except plant material) | 4.0
 34. | DESOMORPHINE | 6.0
 35. | DEXAMPHETAMINE | 6.0
 36. | DEXTROMORAMIDE | 3.0
 37. | DIAMPROMIDE | 15.0
-38A. | DIBENZOPYRANS (not specifically included elsewhere in this Schedule) | 500.0
+38A. | DIBENZOPYRANS (plant material) | 60.0
+38B. | DIBENZOPYRANS (in any form except plant material) | 4.0
 38. | DIETHYLTHIAMBUTENE | 15.0
 39. | DIFENOXIN (excluding preparations containing, per dosage unit, not more than 0.5 mg of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin) | 30.0
 40. | DIHYDROCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 30.0
@@ -54,11 +61,14 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 44. | 2,5-DIMETHOXY-4-BROMOAMPHETAMINE | 0.25
 45. | 2,5-DIMETHOXY-4-METHYLAMPHETAMINE | 0.25
 46A. | DIMETHYLAMPHETAMINE | 4.0
-46B. | 5-(1,1-DIMETHYLHEPTYL)-2-[(1R,3S)- 3-HYDROXYCYCLOHEXYL]-PHENOL (CP 47,497) | 500.0
-46C. | 5-(1,1-DIMETHYLOCTYL)-2-[(1R,3S)- 3-HYDROXYCYCLOHEXYL]-PHENOL (CANNABICYCLOHEXANOL or CP 47,497 C8 HOMOLOGUE) | 500.0
+46B. | 5-(1,1-DIMETHYLHEPTYL)-2-[(1R,3S)-3- HYDROXYCYCLOHEXYL]-PHENOL (CP 47,497) (plant material) | 60.0
+46BA. | 5-(1,1-DIMETHYLHEPTYL)-2-[(1R,3S)-3- HYDROXYCYCLOHEXYL]-PHENOL (CP 47,497) (in any form except plant material) | 4.0
+46C. | 5-(1,1-DIMETHYLOCTYL)-2-[(1R,3S)-3- HYDROXYCYCLOHEXYL]-PHENOL (CANNABICYCLOHEXANOL or CP 47,497 C8 HOMOLOGUE) (plant material) | 60.0
+46D. | 5-(1,1-DIMETHYLOCTYL)-2-[(1R,3S)-3- HYDROXYCYCLOHEXYL]-PHENOL (CANNABICYCLOHEXANOL or CP 47,497 C8 HOMOLOGUE) (in any form except plant material) | 4.0
 46. | DIMETHYLTHIAMBUTENE | 60.0
 47. | DIMETHYLTRYPTAMINE | 6.0
 48. | DIOXAPHETYL BUTYRATE | 6.0
+48A. | DIPHENIDINE | 4.0
 49. | DIPHENOXYLATE (excluding preparations containing, per dosage unit, not more than 2.5 mg of diphenoxylate calculated as base, and a quantity of atropine sulphate equivalent to at least 1% of the dose of diphenoxylate) | 6.0
 50. | DIPIPANONE | 30.0
 51. | DROTEBANOL | 0.3
@@ -69,18 +79,25 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 55. | ETONITAZENE | 15.0
 56. | ETORPHINE | 15.0
 57. | ETOXERIDINE | 15.0
-58. | FENTANYL | 0.015
-59A. | 1-(5-FLUOROPENTYL)-3-(2-IODOBENZOYL) INDOLE (AM-694) | 500.0
-59B. | 1-(5-FLUOROPENTYL)-3-(1-NAPHTHOYL) INDOLE (AM-2201) | 500.0
+[58. | deleted]
+59A. | 1-(5-FLUOROPENTYL)-3-(2-IODOBENZOYL) INDOLE (AM-694) (plant material) | 60.0
+59AA. | 1-(5-FLUOROPENTYL)-3-(2-IODOBENZOYL) INDOLE (AM-694) (in any form except plant material) | 4.0
+59AB. | 1-(5-FLUOROPENTYL)-N-(1-METHYL-1- PHENYLETHYL)-1H-INDAZOLE-3- CARBOXAMIDE (SGT-25) (plant material) | 60.0
+59AC. | 1-(5-FLUOROPENTYL)-N-(1-METHYL-1- PHENYLETHYL)-1H-INDAZOLE-3- CARBOXAMIDE (SGT-25) (in any form except plant material) | 4.0
+59B. | 1-(5-FLUOROPENTYL)-3-(1-NAPHTHOYL) INDOLE (AM-2201) (plant material) | 60.0
+59C. | 1-(5-FLUOROPENTYL)-3-(1-NAPHTHOYL) INDOLE (AM-2201) (in any form except plant material) | 4.0
 59. | FURETHIDINE | 3.0
+59AAA. | GAMMA HYDROXY BUTRATE (4-HYDROXYBUTANOIC ACID) | 4.0
 60. | HALLUCINOGENIC SUBSTANCES (structurally derived from methoxyphenethylamine) | 0.25
 61. | HEPTABARBITONE | 30.0
 62. | HEXOBARBITONE | 30.0
-63A. | 1-HEXYL-3-(1-NAPHTHOYL) INDOLE (JWH-019) | 500.0
+63A. | 1-HEXYL-3-(1-NAPHTHOYL) INDOLE (JWH-019) (plant material) | 60.0
+63B. | 1-HEXYL-3-(1-NAPHTHOYL) INDOLE (JWH-019) (in any form except plant material) | 4.0
 63. | HYDROCODONE | 6.0
 64. | HYDROMORPHINOL | 6.0
 65. | HYDROMORPHONE | 6.0
-66A. | 9-(HYDROXYMETHYL)-6,6-DIMETHYL-3- (2-METHYLOCTAN-2-YL)- 6A,7,10,10A-TETRAHYDROBENZO[C] CHROMEN-1-OL (HU-210) | 500.0
+66A. | 9-(HYDROXYMETHYL)-6,6-DIMETHYL-3-(2-METHYLOCTAN-2-YL)-6A,7,10,10A- TETRAHYDROBENZO[C] CHROMEN-1-OL (HU-210) (plant material) | 60.0
+66B. | 9-(HYDROXYMETHYL)-6,6-DIMETHYL-3-(2-METHYLOCTAN-2-YL)-6A,7,10,10A- TETRAHYDROBENZO[C] CHROMEN-1-OL (HU-210) (in any form except plant material) | 4.0
 66. | HYDROXYPETHIDINE | 15.0
 67. | ISOMETHADONE | 0.6
 68. | KETOBEMIDONE | 0.6
@@ -96,11 +113,21 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 78. | METHAQUALONE | 150.0
 79. | METHARBITONE | 30.0
 80A. | METHCATHINONE | 4.0
-80BA. | 4-METHOXYPHENYL(1-BUTYL-1H-INDOL- 3-YL)-METHANONE (RCS-4 (C4)) | 500.0
-80BB. | 2-(4-METHOXYPHENYL)-1-(1-PENTYL-1H- INDOL-3-YL)-ETHANONE (JWH-201) | 500.0
-80B. | 2-(2-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL)ETHANONE (JWH-250) | 500.0
-80C. | 2-(3-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL)ETHANONE (JWH-302) | 500.0
+80AA. | 2-METHOXYDIPHENIDINE (2-MXP or MXP) (plant material) | 60.0
+80AB. | 2-METHOXYDIPHENIDINE (2-MXP or MXP) (in any form except plant material) | 4.0
+80BA. | 4-METHOXYPHENYL(1-BUTYL-1H-INDOL-3-YL)-METHANONE (RCS-4 (C4)) (plant material) | 60.0
+80BAA. | 4-METHOXYPHENYL(1-BUTYL-1H-INDOL-3-YL)-METHANONE (RCS-4 (C4)) (in any form except plant material) | 4.0
+80BB. | 2-(4-METHOXYPHENYL)-1-(1-PENTYL- 1H-INDOL-3-YL)-ETHANONE (JWH-201) (plant material) | 60.0
+80BBA. | 2-(4-METHOXYPHENYL)-1-(1-PENTYL- 1H-INDOL-3-YL)-ETHANONE (JWH-201) (in any form except plant material) | 4.0
+80B. | 2-(2-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL) ETHANONE (JWH-250) (plant material) | 60.0
+80CA. | 2-(2-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL) ETHANONE (JWH-250) (in any form except plant material) | 4.0
+80C. | 2-(3-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL) ETHANONE (JWH-302) (plant material) | 60.0
+80D. | 2-(3-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL) ETHANONE (JWH-302) (in any form except plant material) | 4.0
 80. | METHYLAMPHETAMINE | 4.0
+81A. | METHYL (S)-2-[1-(5-FLUOROPENTYL)-1H- INDAZOLE-3-CARBOXAMIDO]-3,3-DIMETHYLBUTANOATE (5F-ADB) (plant material) | 60.0
+81B. | METHYL (S)-2-[1-(5-FLUOROPENTYL)-1H- INDAZOLE-3-CARBOXAMIDO]-3,3- DIMETHYLBUTANOATE (5F-ADB) (in any form except plant material) | 4.0
+81C. | METHYL 2-(1-(5-FLUOROPENTYL)-1H- INDAZOLE-3-CARBOXAMIDO)-3- METHYLBUTANOATE (5F-AMB) (plant material) | 60.0
+81D. | METHYL 2-(1-(5-FLUOROPENTYL)-1H- INDAZOLE-3-CARBOXAMIDO)-3- METHYLBUTANOATE (5F-AMB) (in any form except plant material) | 4.0
 81. | METHYLDESORPHINE | 6.0
 82. | METHYLDIHYDROMORPHINE | 6.0
 82A. | 3, 4-METHYLENEDIOXYAMPHETAMINE (MDA) | 4.0
@@ -117,12 +144,29 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 91. | MORPHINE METHOBROMIDE AND OTHER PENTAVALENT NITROGEN MORPHINE DERIVATIVES | 6.0
 92. | MORPHINE-N-OXIDE | 6.0
 93. | MORPHINE SUBSTITUTES (not specifically included elsewhere in this Schedule) | 6.0
-94A. | 1-[2-(4-MORPHOLINYL)ETHYL]- 3-(1-NAPHTHOYL) INDOLE (JWH-200) | 500.0
+94A. | 1-[2-(4-MORPHOLINYL) ETHYL]-3-(1- NAPHTHOYL) INDOLE (JWH-200) (plant material) | 60.0
+94B. | 1-[2-(4-MORPHOLINYL) ETHYL]-3-(1- NAPHTHOYL) INDOLE (JWH-200) (in any form except plant material) | 4.0
 94. | MYROPHINE | 60.0
-95A. | NAPHTHOYLINDOLES (not specifically included elsewhere in this Schedule) | 500.0
-95B. | NAPHTHYLMETHYLINDOLES | 500.0
-95C. | NAPHTHOYLPYRROLES | 500.0
-95D. | NAPHTHYLMETHYLINDENES | 500.0
+94AA. | N-(1-AMINO-3,3-DIMETHYL-1-OXOBUTAN-2-YL)-1-(CYCLOHEXYLMETHYL)-1H- INDAZOLE-3-CARBOXAMIDE (MAB-CHMINACA or ADB-CHMINACA) (plant material) | 60.0
+94AB. | N-(1-AMINO-3,3-DIMETHYL-1-OXOBUTAN-2-YL)-1-(CYCLOHEXYLMETHYL)-1H- INDAZOLE-3-CARBOXAMIDE (MAB-CHMINACA or ADB-CHMINACA) (in any form except plant material) | 4.0
+94AC. | N-(1-AMINO-3,3-DIMETHYL-1-OXOBUTAN-2-YL)-1-(5-FLUOROPENTYL)-1H-INDOLE-3- CARBOXAMIDE (5F-ADBICA) (plant material) | 60.0
+94AD. | N-(1-AMINO-3,3-DIMETHYL-1-OXOBUTAN-2-YL)-1-(5-FLUOROPENTYL)-1H-INDOLE-3- CARBOXAMIDE (5F-ADBICA) (in any form except plant material) | 4.0
+94AE. | N-[1-(AMINOCARBONYL)-2,2- DIMETHYLPROPYL]-1-PENTYL-1H- INDAZOLE-3-CARBOXAMIDE (ADB-PINACA) (plant material) | 60.0
+94AF. | N-[1-(AMINOCARBONYL)-2,2- DIMETHYLPROPYL]-1-PENTYL-1H- INDAZOLE-3-CARBOXAMIDE (ADB-PINACA) (in any form except plant material) | 4.0
+94AG. | N-(1-[AMINOCARBONYL)-2- METHYLPROPYL]-1- (CYCLOHEXYLMETHYL)-1H-INDAZOLE-3- CARBOXAMIDE (AB-CHMINACA) (plant material) | 60.0
+94AH. | N-(1-[AMINOCARBONYL)-2- METHYLPROPYL]-1- (CYCLOHEXYLMETHYL)-1H-INDAZOLE-3- CARBOXAMIDE (AB-CHMINACA) (in any form except plant material) | 4.0
+94AI. | N-(1-AMINO-3-METHYL-1-OXOBUTAN-2-YL)-1-(5-FLUOROPENTYL)-1H-INDOLE-3- CARBOXAMIDE (5F-ABICA) (plant material) | 60.0
+94AJ. | N-(1-AMINO-3-METHYL-1-OXOBUTAN-2-YL)-1-(5-FLUOROPENTYL)-1H-INDOLE-3- CARBOXAMIDE (5F-ABICA) (in any form except plant material) | 4.0
+94AK. | N-[(1S)-1-(AMINOCARBONYL)-2- METHYLPROPYL]-1-(5-FLUOROPENTYL)-1H-INDAZOLE-3-CARBOXAMIDE (5F-AB-PINACA) (plant material) | 60.0
+94AL. | N-[(1S)-1-(AMINOCARBONYL)-2- METHYLPROPYL]-1-(5-FLUOROPENTYL)-1H-INDAZOLE-3-CARBOXAMIDE (5F-AB-PINACA) (in any form except plant material) | 4.0
+95A. | NAPHTHOYLINDOLES (plant material) | 60.0
+95AB. | NAPHTHOYLINDOLES (in any form except plant material) | 4.0
+95B. | NAPHTHYLMETHYLINDOLES (plant material) | 60.0
+95BA. | NAPHTHYLMETHYLINDOLES (in any form except plant material) | 4.0
+95C. | NAPHTHOYLPYRROLES (plant material) | 60.0
+95CA. | NAPHTHOYLPYRROLES (in any form except plant material) | 4.0
+95D. | NAPHTHYLMETHYLINDENES (plant material) | 60.0
+95DA. | NAPHTHYLMETHYLINDENES (in any form except plant material) | 4.0
 95. | NEALBARBITONE | 30.0
 96. | NICOCODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 6.0
 97. | NICODICODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 6.0
@@ -138,13 +182,20 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 107. | OXYMORPHONE | 6.0
 108. | PENTAZOCINE | 30.0
 109. | PENTOBARBITONE | 30.0
-110AA. | 1-PENTYL-3-(4-CHLORO-1-NAPHTHOYL) INDOLE (JWH-398) | 500.0
-110AB. | 1-PENTYL-3-(2-CHLOROPHENYLACETYL) INDOLE (JWH-203) | 500.0
-110AC. | 1-PENTYL-3-(4-ETHYL-1-NAPHTHOYL) INDOLE (JWH-210) | 500.0
-110AD. | 1-PENTYL-3-[(4-METHOXY)-BENZOYL] INDOLE (RCS-4) | 500.0
-110AE. | 1-PENTYL-3-(4-METHOXY-1-NAPHTHOYL) INDOLE (JWH-081) | 500.0
-110A. | 1-PENTYL-3-(1-NAPHTHOYL) INDOLE (JWH-018) | 500.0
-110B. | 1-PENTYL-3-(4-METHYL-1-NAPHTHOYL) INDOLE (JWH-122) | 500.0
+110AA. | 1-PENTYL-3-(4-CHLORO-1-NAPHTHOYL) INDOLE (JWH-398) (plant material) | 60.0
+110AAA. | 1-PENTYL-3-(4-CHLORO-1-NAPHTHOYL) INDOLE (JWH-398) (in any form except plant material) | 4.0
+110AB. | 1-PENTYL-3-(2-CHLOROPHENYLACETYL) INDOLE (JWH-203) (plant material) | 60.0
+110ABA. | 1-PENTYL-3-(2-CHLOROPHENYLACETYL) INDOLE (JWH-203) (in any form except plant material) | 4.0
+110AC. | 1-PENTYL-3-(4-ETHYL-1-NAPHTHOYL) INDOLE (JWH-210) (plant material) | 60.0
+110ACA. | 1-PENTYL-3-(4-ETHYL-1-NAPHTHOYL) INDOLE (JWH-210) (in any form except plant material) | 4.0
+110AD. | 1-PENTYL-3-[(4-METHOXY)-BENZOYL] INDOLE (RCS-4) (plant material) | 60.0
+110ADA. | 1-PENTYL-3-[(4-METHOXY)-BENZOYL] INDOLE (RCS-4) (in any form except plant material) | 4.0
+110AE. | 1-PENTYL-3-(4-METHOXY-1-NAPHTHOYL) INDOLE (JWH-081) (plant material) | 60.0
+110AEA. | 1-PENTYL-3-(4-METHOXY-1-NAPHTHOYL) INDOLE (JWH-081) (in any form except plant material) | 4.0
+110A. | 1-PENTYL-3-(1-NAPHTHOYL) INDOLE (JWH-018) (plant material) | 60.0
+110BA. | 1-PENTYL-3-(1-NAPHTHOYL) INDOLE (JWH-018) (in any form except plant material) | 4.0
+110B. | 1-PENTYL-3-(4-METHYL-1-NAPHTHOYL) INDOLE (JWH-122) (plant material) | 60.0
+110C. | 1-PENTYL-3-(4-METHYL-1-NAPHTHOYL) INDOLE (JWH-122) (in any form except plant material) | 4.0
 110. | PETHIDINE | 15.0
 111. | PETHIDINE-INTERMEDIATE A | 15.0
 112. | PETHIDINE-INTERMEDIATE B | 15.0
@@ -157,16 +208,19 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 119. | PHENOBARBITONE | 30.0
 120. | PHENOMORPHAN | 15.0
 121. | PHENOPERIDINE | 3.0
-122A. | PHENYLACETYLINDOLES (not specifically included elsewhere in this Schedule) | 500.0
+122A. | PHENYLACETYLINDOLES (plant material) | 60.0
+122B. | PHENYLACETYLINDOLES (in any form except plant material) | 4.0
 122. | PHENYLMETHYLBARBITURIC ACID | 30.0
 123. | PHOLCODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 15.0
 124. | PIMINODINE | 30.0
 125. | PIRITRAMIDE | 3.0
-126A. | PRAVADOLINE (WIN 48098) | 500.0
+126A. | PRAVADOLINE (WIN 48098) (plant material) | 60.0
+126B. | PRAVADOLINE (WIN 48098) (in any form except plant material) | 4.0
 126. | PROHEPTAZINE | 3.0
 127. | PROPERIDINE | 75.0
 128. | PROPIRAM | 12.0
-129A. | 1-PROPYL-2-METHYL-3-(1-NAPHTHOYL) INDOLE (JWH-015) | 500.0
+129A. | 1-PROPYL-2-METHYL-3-(1-NAPHTHOYL) INDOLE (JWH-015) (plant material) | 60.0
+129B. | 1-PROPYL-2-METHYL-3-(1-NAPHTHOYL) INDOLE (JWH-015) (in any form except plant material) | 4.0
 129. | PSILOCIN | 0.3
 130. | PSILOCYBIN | 0.3
 131. | PSYCHOTOMIMETIC SUBSTANCES (structurally derived from methoxyphenethylamine) | 0.25
@@ -181,4 +235,72 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 140. | THEBAINE | 6.0
 141. | TRIMEPERIDINE | 30.0
 142. | VINBARBITONE | 30.0
-[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5194-5; No. 13 of 2014 s. 180.]
+[Division 1 amended by No. 48 of 1995 s. 43; No. 13 of 2014 s. 180; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5194-5; 29 Aug 2018 p. 2995-3006.]
+## Division 2 — Steroids
+[Heading inserted in Gazette 29 Aug 2018 p. 3006.]
+Item | Prohibited drug | Amount (in grams unless otherwise stated)
+1. | ATAMESTANE | 100.0
+2. | BOLANDIOL | 100.0
+3. | BOLASTERONE | 100.0
+4. | BOLANZINE | 100.0
+5. | BOLDENONE | 100.0
+6. | BOLENOL | 100.0
+7. | BOLMANTALATE | 100.0
+8. | CALUSTERONE | 100.0
+9. | CHLORANDROSTENOLONE | 100.0
+10. | CHLOROMETHANDIENONE | 100.0
+11. | CHLOROXYDIENONE | 100.0
+12. | CHLOROXYMESTERONE (DEHYDROCHLOROMETHYLTESTOSTERONE) | 100.0
+13. | CLOSTEBOL (4-CHLOROTESTOSTERONE) | 100.0
+14. | DIHYDROLONE | 100.0
+15. | DIMETHANDROSTANOLONE | 100.0
+16. | DIMETHAZINE | 100.0
+17. | DROSTANOLONE | 100.0
+18. | ENESTEBOL | 100.0
+19. | EPITIOSTANOL | 100.0
+20. | ETHYLDIENOLONE | 100.0
+21. | ETHYLOESTRENOL | 100.0
+22. | FLUOXYMESTERONE | 100.0
+23. | FORMEBOLONE | 100.0
+24. | FORMYLDIENOLONE | 100.0
+25. | FURAZABOL | 100.0
+26. | HYDROXYSTENOZOL | 100.0
+27. | MEBOLAZINE | 100.0
+28. | MEPITIOSTANE | 100.0
+29. | MESABOLONE | 100.0
+30. | MESTANOLONE (ANDROSTALONE) | 100.0
+31. | MESTEROLONE | 100.0
+32. | METHANDIENONE | 100.0
+33. | METHANDRIOL | 100.0
+34. | METHENOLONE | 100.0
+35. | METHYLANDROSTANOLONE | 100.0
+36. | METHYLCLOSTEBOL | 100.0
+37. | METHYLTESTOSTERONE | 100.0
+38. | METHYLTRIENOLONE | 100.0
+39. | METRIBOLONE | 100.0
+40. | MIBOLERONE | 100.0
+41. | NANDROLONE | 100.0
+42. | NORANDROSTENOLONE | 100.0
+43. | NORBOLETHONE | 100.0
+44. | NORCLOSTEBOL | 100.0
+45. | NORETHANDROLONE | 100.0
+46. | NORMETHANDRONE | 100.0
+47. | OVANDROTONE | 100.0
+48. | OXABOLONE | 100.0
+49. | OXANDROLONE | 100.0
+50. | OXYMESTERONE | 100.0
+51. | OXYMETHOLONE | 100.0
+52. | PRASTERONE (DEHYDROEPIANDROSTERONE, DEHRYDROISOANDROSERONE) | 100.0
+53. | PROPETANDROL | 100.0
+54. | QUINBOLONE | 100.0
+55. | ROXIBOLONE | 100.0
+56. | SILANDRONE | 100.0
+57. | STANOLONE | 100.0
+58. | STANOZOLOL | 100.0
+59. | STENBOLONE | 100.0
+60. | TESTOLACTONE | 100.0
+61. | TESTOSTERONE | 100.0
+62. | THIMOSTERONE (TIOMESTERONE) | 100.0
+63. | TRENBOLONE | 100.0
+64. | TRESTOLONE | 100.0
+[Division 2 inserted in Gazette 29 Aug 2018 p. 3006-10.]
