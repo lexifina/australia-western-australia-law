@@ -34,13 +34,13 @@
 4. | For holder of a concession card | 15.50
 [Division 3 inserted in Gazette 5 Jul 2016 p. 2815.]
 ## Division 4 — Fees for Geikie Gorge National Park Boat Trip
-[Heading inserted in Gazette 5 Jul 2016 p. 2816.]
+[Heading inserted in Gazette 28 Aug 2018 p. 2989.]
  |  | $
-1. | For person 16 years of age and over | 45.00
-2. | For person of more than 5 and less than 16 years of age | 12.00
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 100.00
-4. | For holder of a concession card | 32.00
-[Division 4 inserted in Gazette 5 Jul 2016 p. 2816.]
+1. | For person 16 years of age and over | 50.00
+2. | For person of more than 5 and less than 16 years of age | 14.00
+3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 110.00
+4. | For holder of a concession card | 35.00
+[Division 4 inserted in Gazette 28 Aug 2018 p. 2989.]
 ## Division 5 — Horse riding
 [Heading inserted in Gazette 5 Jul 2016 p. 2816.]
  |  | $
@@ -78,10 +78,10 @@
 1. | Application for cave permit per person per half day (r. 49) | 6.00
 2. | Application for scientific purposes licence (r. 83) | 25.00
 3. | Application for renewal of scientific purposes licence (r. 92) | 25.00
-4. | Application for commercial operations licence (r. 83) | 115.00
-5. | Application for renewal of commercial operations licence (r. 97) | 100.00
+4. | Application for commercial operations licence (r. 83) | 117.00
+5. | Application for renewal of commercial operations licence (r. 97) | 117.00
 6. | Application for private mooring licence (r. 83) | 50.00
-[Division 8 inserted in Gazette 27 Sep 2013 p. 4528-9; amended in Gazette 24 Mar 2015 p. 1043; 14 Jul 2015 p. 2788; 5 Jul 2016 p. 2816.]
+[Division 8 inserted in Gazette 27 Sep 2013 p. 4528-9; amended in Gazette 24 Mar 2015 p. 1043; 14 Jul 2015 p. 2788; 5 Jul 2016 p. 2816; 28 Aug 2018 p. 2990.]
 ## Division 9 — Fees for abseiling
 [Heading inserted in Gazette 5 Jul 2016 p. 2817.]
  |  | $
@@ -89,26 +89,26 @@
 2. | Fee for abseiling at Wilyabrup Cliffs (r. 102A) | 9.50
 [Division 9 inserted in Gazette 5 Jul 2016 p. 2817.]
 ## Division 10 — Entrance fees for Monkey Mia Conservation Park
-[Heading inserted in Gazette 5 Jul 2016 p. 2817.]
+[Heading inserted in Gazette 28 Aug 2018 p. 2990.]
  |  | $
-1. | For person 16 years of age or over | 12.00
-2. | For person of more than 5 and less than 16 years of age | 4.50
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 28.50
-4. | For holder of a concession card | 9.00
-5. | One month pass for person 16 years of age or over | 18.00
-6. | One month pass for person of more than 5 and less than 16 years of age | 7.50
-7. | One month pass for family (2 adults and 2 children of more than 5 and less than 16 years of age) | 43.50
-8. | One month pass for holder of a concession card | 15.00
-[Division 10 inserted in Gazette 5 Jul 2016 p. 2817.]
+1. | For person 16 years of age or over | 15.00
+2. | For person of more than 5 and less than 16 years of age | 5.00
+3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 35.00
+4. | For holder of a concession card | 10.00
+5. | One month pass for person 16 years of age or over | 25.00
+6. | One month pass for person of more than 5 and less than 16 years of age | 10.00
+7. | One month pass for family (2 adults and 2 children of more than 5 and less than 16 years of age) | 60.00
+8. | One month pass for holder of a concession card | 20.00
+[Division 10 inserted in Gazette 28 Aug 2018 p. 2990.]
 ## Division 11 — Apiary permit, licence and site fees
-[Heading inserted in Gazette 1 Sep 2017 p. 4651.]
+[Heading inserted in Gazette 28 Aug 2018 p. 2990.]
  |  | $
-1. | Application for grant of apiary authority where item 4 does not apply — (a)for apiary site in South-west zone (fee per 5 sites) (b)for apiary site outside the South-west zone (fee per 5 sites) | 148.00 71.00
-2. | Application to transfer apiary authority | 13.00
-3. | Application to vary apiary licence to change the site to which it relates — (a)where new site is in the South-west zone (fee per 5 new sites) (b)where new site is outside the South-west zone (fee per 5 new sites) | 110.00 55.00
+1. | Application for grant of apiary authority where item 4 does not apply — (a)for apiary site in South-west zone (fee per 5 sites) (b)for apiary site outside the South-west zone (fee per 5 sites) | 155.00 75.00
+2. | Application to transfer apiary authority | 14.00
+3. | Application to vary apiary licence to change the site to which it relates — (a)where new site is in the South-west zone (fee per 5 new sites) (b)where new site is outside the South-west zone (fee per 5 new sites) | 116.00 58.00
 4. | Application for grant of apiary permit where permit is sought to replace a permit held by the applicant for a different site which will be surrendered if the application is granted — (a)where new site is in the South-west zone (fee per 5 new sites) (b)where new site is outside the South-west zone (fee per 5 new sites) | 110.00 55.00
-5. | Apiary site fee — (a)where site is in the South-west zone (b)where site is outside the South-west zone | 92.00 46.00
-[Division 11 inserted in Gazette 3 Sep 2010 p. 4283; amended in Gazette 14 Jul 2015 p. 2789; 1 Sep 2017 p. 4651.]
+5. | Apiary site fee — (a)where site is in the South-west zone (b)where site is outside the South-west zone | 100.00 50.00
+[Division 11 inserted in Gazette 28 Aug 2018 p. 2990-1.]
 ## Division 12 — Landing fees for aircraft
 [Heading inserted in Gazette 3 Dec 2010 p. 6052.]
 1. | Daily landing fee for each occupant of an aircraft landing on an aircraft landing area | 11.00
