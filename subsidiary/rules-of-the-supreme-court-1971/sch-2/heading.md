@@ -1,2 +1,2 @@
 ## Schedule 2 — Forms
-[Heading inserted in Gazette 28 Jun 2011 p. 2555.]
+[Heading inserted: Gazette 28 Jun 2011 p. 2555.]
