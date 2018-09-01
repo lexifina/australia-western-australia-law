@@ -75,6 +75,7 @@ Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 7 | 10 Ja
 Environmental Protection Amendment Regulations 2018 | 27 Apr 2018 p. 1389-90 | r. 1 and 2: 27 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2018 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 2) 2018 | 12 Jun 2018 p. 1887-9 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Environmental Protection (Plastic Bags) Regulations 2018 Pt. 3 (other than r. 7(2)) | 12 Jun 2018 p. 1890-1 | 1 Jul 2018 (see r. 2(c))
+Environmental Protection (Solid Fuel Heater and Firewood) Regulations 2018 Pt. 5 Div. 2 | 31 Aug 2018 p. 3093-107 | 1 Sep 2018 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement

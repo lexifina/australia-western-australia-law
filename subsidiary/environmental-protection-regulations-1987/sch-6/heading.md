@@ -83,14 +83,6 @@ Environmental Protection (Concrete Batching and Cement Product Manufacturing) Re
 23.regulation 12(2) | 250 | 500
 24.regulation 12(3) | 250 | 500
 25.regulation 13 | 250 | 500
-Environmental Protection (Domestic Solid Fuel Burning Appliances and Firewood Supply) Regulations 1998
-1.regulation 1B(1) | 250 | 500
-2.regulation 1C | 250 | 500
-3.regulation 1D(3) | 250 | 500
-4.regulation 3 | 250 | 500
-5.regulation 4 | 250 | 500
-6.regulation 5(5) | 250 | 500
-7.regulation 8 | 250 | 500
 Environmental Protection (Abattoirs) Regulations 2001
 1.regulation 4(1) | 250 | 500
 2.regulation 4(2) | 250 | 500
@@ -127,6 +119,14 @@ Environmental Protection (Rural Landfill) Regulations 2002
 12.regulation 15 | 250 | 500
 13.regulation 16 | 250 | 500
 14.regulation 17(1) | 250 | 500
+Environmental Protection (Solid Fuel Heater and Firewood) Regulations 2017
+1.regulation 5(1) | 250 | 500
+2.regulation 6 | 250 | 500
+3.regulation 7(3) | 250 | 500
+4.regulation 10 | 250 | 500
+5.regulation 11 | 250 | 500
+6.regulation 12(4) | 250 | 500
+7.regulation 15 | 250 | 500
 Environmental Protection (Unauthorised Discharges) Regulations 2004
 1.regulation 3(1) | 250 | 500
 2.regulation 4(1) | 250 | 500
@@ -209,4 +209,4 @@ Environmental Protection (Packaged Fertiliser) Regulations 2010
 16.regulation 17(5) | 250 | 500
 Environmental Protection (Plastic Bags) Regulations 2018
 1.regulation 5 | 250 | 500
-[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6; 29 Sep 2006 p. 4267; 27 Apr 2007 p. 1812; 31 Dec 2010 p. 6883-4; 2 Mar 2012 p. 855; 8 May 2012 p. 1893; 24 Sep 2013 p. 4385-6; 1 Aug 2014 p. 2823-4; 12 Jun 2018 p. 1891.]
+[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6; 29 Sep 2006 p. 4267; 27 Apr 2007 p. 1812; 31 Dec 2010 p. 6883-4; 2 Mar 2012 p. 855; 8 May 2012 p. 1893; 24 Sep 2013 p. 4385-6; 1 Aug 2014 p. 2823-4; 12 Jun 2018 p. 1891; 31 Aug 2018 p. 3016.]
