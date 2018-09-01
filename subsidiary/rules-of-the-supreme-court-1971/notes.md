@@ -144,6 +144,7 @@ Supreme Court Rules Amendment Rules 2017 Pt. 2 | 16 Aug 2017 p. 4391-427 | Pt. 2
 Supreme Court Amendment Rules (No. 3) 2017 | 1 Dec 2017 p. 5732-3 | r. 1 and 2: 1 Dec 2017 (see r. 2(a)); Rules other than r. 1 and 2: 2 Dec 2017 (see r. 2(b))
 Supreme Court Amendment Rules 2018 | 27 Feb 2018 p. 551-624 | r. 1 and 2: 27 Feb 2018 (see r. 2(a)); Rules other than r. 1 and 2: 1 Mar 2018 (see r. 2(b))
 Supreme Court Amendment Rules (No. 2) 2018 | 29 Jun 2018 p. 2437-8 | r. 1 and 2: 29 Jun 2018 (see r. 2(a)); Rules other than r. 1 and 2: 30 Jun 2018 (see r. 2(b))
+Supreme Court Amendment Rules (No. 3) 2018 | 28 Aug 2018 p. 2991-2 | r. 1 and 2: 28 Aug 2018 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2018 (see r. 2(b) and Gazette 17 Aug 2018 p. 2894)
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -153,3 +154,176 @@ The commencement date of 1 Jul 1982 that was specified was before the date of ga
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
 Disallowed on 29 Oct 2013, see Gazette 1 Nov 2013 p. 4910.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+AO. 4A r. 2(2)(n)
+AccountantO. 1 r. 4(1)
+ActO. 1 r. 4(1), O. 38A r. 1(a), O. 39 r. 1(a), O. 39A r. 1(1), O. 44A r. 1(a), O. 46 r. 1, O. 70 r. 1, O. 75 r. 1, O. 76 r. 1, O. 80A r. 1, O. 81B r. 1(1), O. 81E r. 1, O. 81F r. 1(1), O. 81G r. 1(1), O. 81H r. 1, O. 85 r. 1(1)
+action for personal injuriesO. 36A r. 1
+additional authorityO. 11A r. 1
+addresseeO. 36B r. 1(1)
+Admiralty RulesO. 84 r. 9(1)
+ancillary orderO. 52A r. 1
+another courtO. 52A r. 1
+any relevant scaleO. 66 r. 11(1)
+appealO. 65 r. 1
+appeal noticeO. 65 r. 1
+applicantO. 11A r. 1, O. 52A r. 1, O. 52B r. 1
+application O. 56 r. 1(1)
+approved mediatorO. 4A r. 1
+arbitration lawO. 81D r. 1
+arbitratorO. 81D r. 1
+Australian diplomatic or consular agentO. 1 r. 4(1)
+BO. 4A r. 2(2)(n)
+caseO. 1 r. 4(1), O. 4A r. 1
+case management directionO. 4A r. 1
+case management registrarO. 1 r. 4(1)
+case managerO. 1 r. 4(1), O. 4A r. 1
+Cause BookO. 1 r. 4(1)
+Central AuthorityO. 11A r. 1
+Central OfficeO. 1 r. 4(1)
+certificate O. 39A r. 5(1A)
+certificate of service O. 11A r. 1
+certifying authorityO. 11A r. 1
+challenged conduct O. 56 r. 1(1)
+challenged decision O. 56 r. 1(1)
+chargeO. 62A r. 1(3)
+civil proceedingsO. 11A r. 1
+claimO. 81G r. 1(1)
+CMC ListO. 4A r. 1
+CMC List caseO. 4A r. 1
+CMC List judgeO. 4A r. 1
+concludedO. 65 r. 1
+conduct O. 56 r. 1(1)
+conduct moneyO. 36B r. 1(1)
+confiscable property declarationO. 81FA r. 1
+Confiscation Act 2000O. 81FA r. 1
+consular agentO. 1 r. 4(1)
+contemnorO. 55 r. 1
+Convention countryO. 11A r. 1
+costsO. 1 r. 4(1)
+CourtO. 1 r. 4(2)
+Court expertO. 40 r. 1
+court of renditionO. 81B r. 1(1)
+crime-used property substitution declarationO. 81C r. 1
+criminal benefits declarationO. 81C r. 1
+cross-vesting lawsO. 81E r. 1
+defendantO. 11A r. 1
+describedO. 52B r. 1
+descriptionO. 26A r. 1
+diplomatic agentO. 1 r. 4(1)
+Director GeneralO. 81C r. 1
+documentO. 26 r. 1A, O. 26A r. 1
+Electoral CommissionerO. 65C r. 1
+enforcementO. 81B r. 1(1)
+enforcement orderO. 4A r. 1
+examinerO. 38 r. 4(1)
+examination orderO. 81FA r. 1
+expertO. 40 r. 1
+fileO. 1 r. 4(1)
+filedO. 1 r. 4(1)
+filingO. 1 r. 4(1)
+first offerO. 24A r. 3(7)
+folioO. 1 r. 4(1)
+foreign judicial documentO. 11A r. 1
+form O. 1 r. 4(1)
+forwarding authorityO. 11A r. 1
+freezing noticeO. 81FA r. 1
+freezing orderO. 52A r. 1 and 2(1), O. 81FA r. 1
+geographical addressO. 1 r. 4(1)
+grantO. 75 r. 1
+Hague ConventionO. 11A r. 1
+independent solicitorsO. 52B r. 6(1)
+initiating processO. 11A r. 1
+inspectionO. 26 r. 1A
+Inactive Cases ListO. 4A r. 21
+interested non-partyO. 9A r. 1
+interim orderO. 65 r. 1
+interstate confiscation declarationO. 81FA r. 1
+interstate freezing orderO. 81FA r. 1
+interstate lawyerO. 75A r. 1
+issuing officerO. 36B r. 1(1)
+issuing partyO. 36B r. 1(1)
+judgmentO. 52A r. 1
+landO. 53 r. 1
+limitation period O. 56 r. 1(1)
+list of documentsO. 26 r. 5(3)
+local judicial documentO. 11A r. 1
+local rollO. 75A r. 1
+masterO. 1 r. 4(1)
+medical evidenceO. 36A r. 1
+medical reportO. 36A r. 1
+monitoring orderO. 81FA r. 1
+monthO. 3 r. 1
+mortgageO. 10 r. 1(2), O. 62A r. 1(2) and (3)
+mortgageeO. 10 r. 1(2)
+mortgagorO. 10 r. 1(2)
+non-partyO. 26A r. 3(2) and 5(1)
+objectO. 4A r. 2(2)(n)
+objectionO. 81FA r. 1
+officerO. 1 r. 4(1)
+official channelO. 11 r. 1
+originating summonsO. 1 r. 4(1)
+partyO. 28 r. 1(6)
+person under disabilityO. 66 r. 24(1), O. 70 r. 1
+personal property situate within the jurisdictionO. 10 r. 1(2)
+place of renditionO. 81B r. 1(1)
+plaintiffO. 25 r. 4
+possessionO. 26A r. 1
+potential partyO. 26A r. 3(1) and 4(1)
+practitionerO. 1 r. 4(1)
+premisesO. 52B r. 1
+prescribed feeO. 1 r. 4(1)
+prescribed rateO. 51 r. 7(3)
+primary courtO. 65 r. 1
+primary court caseO. 65 r. 11(1)
+primary court’s transcriptO. 65 r. 1
+privilegeO. 36A r. 1
+probate actionO. 1 r. 4(1), O. 73 r. 1(2)
+proceedingO. 81E r. 1
+processO. 11 r. 1
+production orderO. 81FA r. 1
+proper officerO. 1 r. 4(1)
+provisional decisionO. 65 r. 7(2)
+receiverO. 1 r. 4(1)
+recordO. 52B r. 5(1)
+registrarO. 1 r. 4(1)
+RegistryO. 73 r. 1(3), O. 75 r. 1
+remedy O. 56 r. 1(1)
+represented personO. 70 r. 1
+request for service abroadO. 11A r. 1
+request for service in this jurisdictionO. 11A r. 1
+respondentO. 52A r. 1, O. 52B r. 1
+review orderO. 56A r. 1(1)
+reviewable conduct O. 56 r. 1(1)
+reviewable decision O. 56 r. 1(1)
+RTAO. 81C r. 1
+rulesO. 1 r. 4(1)
+rules of CourtO. 1 r. 4(1)
+said ActO. 62 r. 1(1), O. 80 r. 1
+search orderO. 52B r. 1
+second offerO. 24A r. 3(7)
+sectionO. 46 r. 1, O. 56A r. 1(1), O. 81F r. 1(1), O. 85 r. 1(1)
+service detailsO. 1 r. 4(1)
+settlementO. 70 r. 10(3)
+sham transaction orderO. 81FA r. 1
+special federal matterO. 81E r. 1
+subpoenaO. 36B r. 1(1)
+subpoena to attend to give evidenceO. 36B r. 1(2)
+subpoena to produceO. 36B r. 1(3)
+sufficient timeO. 11A r. 10(3)
+Supreme Court (full bench)O. 75A r. 1
+suspension orderO. 81FA r. 1
+taxing officerO. 1 r. 4(1)
+testamentary scriptO. 73 r 1(3)
+these rulesO. 1 r. 4(1)
+third partyO. 52A r. 5(5)
+this jurisdictionO. 11A r. 1
+to fileO. 1 r. 4(1)
+trialO. 1 r. 4(1)
+tribunalO. 31 r. 8(6)
+unexplained wealth declarationO. 81FA r. 1
+willO. 73 r. 1(3)
+working dayO. 1 r. 4(1)
+writO. 1 r. 4(1), O. 56 r. 1(1)
