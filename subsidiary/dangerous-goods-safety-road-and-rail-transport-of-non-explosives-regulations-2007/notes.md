@@ -22,8 +22,21 @@ Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt.
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2017 | 11 Jul 2017 p. 3820-33 | r. 1 and 2: 11 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
+Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 (other than r. 10) | 31 Aug 2018 p. 3043-7 | r. 1 and 2: 31 Aug 2018 (see r. 2(a)); Regulations other than r. 1 , 2 and 10: 1 Sep 2018 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 r. 10 | 31 Aug 2018 p. 3043-7 | 1 Jul 2019 (see r. 2(b))
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed, before the amendments came into operation, by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
+On the date as at which this compilation was prepared, the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 r. 10 had not come into operation. It reads as follows:
+10.Section 109A inserted
+After section 109 insert:
+109A.Further duties if dangerous goods transported in portable tank or by tank vehicle
+(1) A person must not consign dangerous goods for transport in a portable tank, or by a tank vehicle, if a sign, writing or other information affixed to the portable tank or tank vehicle is false or misleading in a material particular about the contents of the portable tank or tank vehicle.
+Penalty for this subregulation: a fine of $5 000.
+(2) A prime contractor must not transport dangerous goods in a portable tank, or by a tank vehicle, if the prime contractor knows, or ought reasonably to know, that a sign, writing or other information affixed to the portable tank or tank vehicle is false or misleading in a material particular about the contents of the portable tank or tank vehicle.
+Penalty for this subregulation: a fine of $5 000.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -32,7 +45,7 @@ ADG Code4
 ADR approved4
 aggregate quantity4
 another participating jurisdiction4
-appropriately marked4, 106(1), 106(2), 106(3), 106(4)
+appropriately marked4, 106(1), (2), (3), (4) and (5)
 appropriately placarded4, 111(2)
 approval4, 193, 207
 approved packaging4
@@ -51,7 +64,7 @@ cargo transport unit4
 classification code110(3)
 code8(1)
 combination4
-commencement day273, 286
+commencement day273, 286, 289
 Competent Authorities Panel4
 compliance plate4
 complying MPU13A(1)
@@ -95,7 +108,7 @@ ICAO approved4
 ICAO Technical Instructions4
 IMDG Code4
 IMO approved4
-incompatible4, 32(1), 32(2)
+incompatible4, 32(1) and (2)
 inner packaging4
 intermediate bulk container4, 34(1)
 journey4
@@ -109,7 +122,7 @@ loader4, 42
 loads4, 42
 MEGC4, 35
 mobile processing unit (MPU)13A(1)
-model subordinate law4
+model subordinate instrument4
 multi-element gas container4
 multimodal4
 multiple-element gas container35
@@ -154,8 +167,8 @@ road4
 road tank vehicle215(1)
 service equipment4
 structural equipment4
+Subsidiary Hazard4, 30
 subsidiary legislation8(1)
-Subsidiary Risk4, 30
 tank4, 36(1)
 tank A147(1A), 148(2)
 tank vehicle4
@@ -164,6 +177,7 @@ telephone advisory service179(1)
 trailer4
 train4
 Transport and Infrastructure Council4
+transport documentation4
 tubes4
 UN approved4
 UN Class4, 29
