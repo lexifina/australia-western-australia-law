@@ -59,6 +59,10 @@ Reprint 7: The Spent Convictions Act 1988 as at 23 Oct 2015 (includes amendments
 Health Services Act 2016 s. 303 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 26 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 24 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Education and Care Services National Law (WA) Amendment Act 2018 Pt. 3 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -66,6 +70,14 @@ Repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
 The Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32(4).
 The Machinery of Government (Miscellaneous Amendment) Act 2006 Pt. 3 Div. 5 had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(4).
+On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Amendment Act 2018 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Spent Convictions Act 1988 amended
+91.Act amended
+This Part amends the Spent Convictions Act 1988.
+92.Schedule 3 amended
+In Schedule 3 clause 1(5) in the Table delete item 6A and insert:
+6A.A person who — (a)holds, or is applying for, a provider approval under the Education and Care Services National Law (Western Australia); or | Sections 18, 20 and 22 and Division 4
+(b)has, or will have, management or control of an education and care service operated, or to be operated, by a person that — (i)is not an individual; and (ii)holds, or is applying for, a provider approval under the Education and Care Services National Law (Western Australia).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
