@@ -14,6 +14,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(d))
+Road Traffic Amendment (Driving Offences) Act 2018 Pt. 3 | 19 of 2018 | 7 Sep 2018 | To be proclaimed (see s. 2(b))
 The Road Traffic Amendment Act (No. 2) 2007 s. 27 commenced 1 Dec 2010.
 The Road Traffic Legislation Amendment Act 2012 Pt. 3 (s. 15-18) commenced 1 Aug 2012; Pt. 3 other than s. 15-18 commenced 27 Apr 2015.
 On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 had not come into operation. It reads as follows:
@@ -33,6 +34,16 @@ CEO (taxi drivers licensing) means the CEO as defined in the Taxi Drivers Licens
 At the end of Part 2 Division 3A insert:
 11E.Disclosure to CEO (taxi drivers licensing)
 The CEO may disclose photographs to the CEO (taxi drivers licensing) for the purposes of the performance of the functions of the CEO (taxi drivers licensing) under the Taxi Drivers Licensing Act 2014.
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Driving Offences) Act 2018 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Road Traffic (Authorisation to Drive) Act 2008 amended
+5.Act amended
+This Part amends the Road Traffic (Authorisation to Drive) Act 2008.
+6.Section 4 amended
+After section 4(6) insert:
+(7) The regulations may provide that the Road Traffic Act 1974 section 49AB(1)(ac) does not apply to a person —
+(a) holding a class of authorisation specified in the regulations; and
+(b) driving a kind of vehicle specified in the regulations for that class of authorisation.
+(8) The Minister must consult with the Minister responsible for the administration of the Road Traffic Act 1974 before recommending to the Governor that regulations referred to in subsection (7) be made, amended or repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
