@@ -36,6 +36,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 7: The Occupational Safety and Health Act 1984 as at 7 Jan 2011 (includes amendments listed above)
 Industrial Legislation Amendment Act 2011 Pt. 7 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 4 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Occupational Safety and Health Amendment Act 2018 s. 3 and 4 | 16 of 2018 | 7 Sep 2018 | To be proclaimed (see s. 2(b))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -80,6 +84,40 @@ as if section 68 had not been enacted.
 (2) An appeal brought under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, may be dealt with and determined as if that section had not been enacted.
 This amendment took effect on 15 May 2010 when the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 came into operation, see Gazette 14 May 2010 p. 2015.
 The Standardisation of Formatting Act 2010 s. 4, the amendment to the Occupational Safety and Health Act 1984 Schedule, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(b).
+On the date as at which this compilation was prepared, the Occupational Safety and Health Amendment Act 2018 s. 3 and 4 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Occupational Safety and Health Act 1984.
+4.Various penalties amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 3A(1)(a)(i) | $5 000 | $50 000
+s. 3A(1)(a)(ii) | $6 250 | $60 000
+s. 3A(1)(b)(i)(I) | $25 000 | $100 000
+s. 3A(1)(b)(i)(II) | $31 250 | $120 000
+s. 3A(1)(b)(ii)(I) | $50 000 | $450 000
+s. 3A(1)(b)(ii)(II) | $62 500 | $570 000
+s. 3A(2)(a)(i) | $100 000 | $250 000
+s. 3A(2)(a)(ii) | $125 000 | $350 000
+s. 3A(2)(b)(i) | $200 000 | $1 500 000
+s. 3A(2)(b)(ii) | $250 000 | $1 800 000
+s. 3A(3)(a)(i) | $200 000 | $400 000
+s. 3A(3)(a)(ii) | $250 000 | $500 000
+s. 3A(3)(b)(i) | $400 000 | $2 000 000
+s. 3A(3)(b)(ii) | $500 000 | $2 500 000
+s. 3A(4)(a)(i) | $250 000 and imprisonment for 2 years | $550 000 and imprisonment for 5 years
+s. 3A(4)(a)(ii) | $312 500 and imprisonment for 2 years | $680 000 and imprisonment for 5 years
+s. 3A(4)(b)(i) | $500 000 | $2 700 000
+s. 3A(4)(b)(ii) | $625 000 | $3 500 000
+s. 20A(1)(a) | $25 000 | $100 000
+s. 20A(1)(b) | $31 250 | $120 000
+s. 20A(2)(c) | $20 000 | $80 000
+s. 20A(2)(d) | $25 000 | $100 000
+s. 20A(3)(c) | $10 000 | $40 000
+s. 20A(3)(d) | $12 500 | $50 000
+s. 54A(2)(a) | $200 | $800
+s. 54A(2)(b) | $1 000 | $4 000
+s. 54A(2)(c) | $2 000 | $8 000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
