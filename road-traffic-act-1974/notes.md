@@ -168,6 +168,7 @@ Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be 
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | To be proclaimed (see s. 2(d))
+Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -312,6 +313,29 @@ On the date as at which this compilation was prepared, the Health Practitioner R
 (2) In section 65 in the definition of nurse practitioner delete “whose name is entered on the Register of Nurses kept under that Law as being qualified to practice as a” and insert:
 in the nursing profession whose registration under that Law is endorsed as
 (3) In section 65 in the definition of registered nurse delete “and midwifery”.
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Road Traffic Act 1974 amended
+3.Act amended
+This Part amends the Road Traffic Act 1974.
+4.Section 49AB amended
+(1) Before section 49AB(1A) insert:
+(1AA) In this section —
+prescribed authorisation —
+(a)means —
+(i)a learner’s permit; or
+(ii)an Australian driver licence; or
+(iii)a licence or authorisation granted under the law of an external licensing authority as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1);
+and
+(b)includes an extraordinary licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1).
+(2) After section 49AB(1)(a) insert:
+(aa) the person has never held a prescribed authorisation; or
+(ab) the person has held a prescribed authorisation but is a person described in section 49(3)(a), (b), (ca), (c) or (da); or
+(ac) the person holds a prescribed authorisation but the prescribed authorisation does not authorise the person to drive a vehicle of the kind concerned; or
+(ad) the person commits an offence under the Road Traffic (Authorisation to Drive) Act 2008 section 38(1); or
+(3) In section 49AB(1)(b) delete “45 km/h” and insert:
+30 km/h
+(4) After section 49AB(1) insert:
+(2A) Subsection (1)(ac) does not apply to a person who is a member of a class of persons prescribed for the purposes of the subsection by regulations made under the Road Traffic (Authorisation to Drive) Act 2008 section 4(7).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
