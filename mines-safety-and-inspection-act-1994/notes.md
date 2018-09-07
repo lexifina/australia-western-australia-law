@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 January 2016 of the Mines Safety and Inspection Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mines Safety and Inspection Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mines Safety and Inspection Act 1994 | 62 of 1994 | 7 Nov 1994 | s. 1 and 2: 7 Nov 1994; Act other than s. 1 and 2: 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
@@ -33,6 +33,10 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 Mines Safety and Inspection Amendment Act 2014 Pt. 2 | 33 of 2014 | 3 Dec 2014 | 6 Jun 2015 (see s. 2(b) and Gazette 5 Jun 2015 p. 1971)
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 Reprint 6: The Mines Safety and Inspection Act 1994 as at 22 Jan 2016 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Mines Safety and Inspection Amendment Act 2018 s. 3 and 4 | 17 of 2018 | 7 Sep 2018 | To be proclaimed (see s. 2(b))
 The Industrial Relations Act 1988 (Commonwealth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
@@ -66,6 +70,44 @@ The Mines Safety and Inspection Amendment Act 2004 s. 85(2) reads as follows:
 (2) An appeal brought under section 52 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
 The Mines Safety and Inspection Amendment Act 2004 s. 86(2) reads as follows:
 (2) An appeal brought under section 86 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
+On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Act 2018 s. 3 and 4 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Mines Safety and Inspection Act 1994.
+4.Various penalties amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 4A(1)(a)(i) | $5 000 | $50 000
+s. 4A(1)(a)(ii) | $6 250 | $60 000
+s. 4A(1)(b)(i)(I) | $25 000 | $100 000
+s. 4A(1)(b)(i)(II) | $31 250 | $120 000
+s. 4A(1)(b)(ii)(I) | $50 000 | $450 000
+s. 4A(1)(b)(ii)(II) | $62 500 | $570 000
+s. 4A(2)(a)(i) | $100 000 | $250 000
+s. 4A(2)(a)(ii) | $125 000 | $350 000
+s. 4A(2)(b)(i) | $200 000 | $1 500 000
+s. 4A(2)(b)(ii) | $250 000 | $1 800 000
+s. 4A(3)(a)(i) | $200 000 | $400 000
+s. 4A(3)(a)(ii) | $250 000 | $500 000
+s. 4A(3)(b)(i) | $400 000 | $2 000 000
+s. 4A(3)(b)(ii) | $500 000 | $2 500 000
+s. 4A(4)(a)(i) | $250 000 and imprisonment for 2 years | $550 000 and imprisonment for 5 years
+s. 4A(4)(a)(ii) | $312 500 and imprisonment for 2 years | $680 000 and imprisonment for 5 years
+s. 4A(4)(b)(i) | $500 000 | $2 700 000
+s. 4A(4)(b)(ii) | $625 000 | $3 500 000
+s. 10A(1)(a) | $25 000 | $100 000
+s. 10A(1)(b) | $31 250 | $120 000
+s. 10A(2)(c) | $20 000 | $80 000
+s. 10A(2)(d) | $25 000 | $100 000
+s. 10A(3)(c) | $10 000 | $40 000
+s. 10A(3)(d) | $12 500 | $50 000
+s. 11(4) | $10 000 | $40 000
+s. 21(5) | $25 000 $5 000 | $100 000 $20 000
+s. 23(3) | $25 000 $5 000 | $100 000 $20 000
+s. 26(3) | $10 000 | $40 000
+s. 95(2)(a) | $200 | $800
+s. 95(2)(b) | $1 000 | $4 000
+s. 95(2)(c) | $2 000 | $8 000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
