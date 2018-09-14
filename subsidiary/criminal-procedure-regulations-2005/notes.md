@@ -36,9 +36,24 @@ Attorney General Regulations Amendment (Family Violence Restraining Orders) Regu
 Attorney General Regulations Amendment Regulations 2017 Pt. 2 | 4 Aug 2017 p. 4313-14 | 5 Aug 2017 (see r. 2(b))
 Criminal Procedure Amendment Regulations 2017 | 25 Aug 2017 p. 4568-9 | r. 1 and 2: 25 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2017 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2421-4 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Justice Regulations Amendment (Biodiversity Conservation) Regulations 2018 Pt. 2 | 14 Sep 2018 p. 3314-15 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
 The Criminal Procedure Amendment Regulations 2018 were repealed by the Criminal Procedure Amendment Regulations (No. 2) 2018 regulation 9 before they came into operation, see Gazette 26 June 2018 p. 2421-4.
+On the date as at which this compilation was prepared, the Justice Regulations Amendment (Biodiversity Conservation) Regulations 2018 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Criminal Procedure Regulations 2005 amended
+3.Regulations amended
+This Part amends the Criminal Procedure Regulations 2005.
+4.Schedule 1A amended
+In Schedule 1A insert in alphabetical order:
+Biodiversity Conservation Act 2016
+5.Schedule 4 amended
+In Schedule 4 before clause 1 insert:
+1A.Biodiversity Conservation Act 2016 offences
+Any simple offence under the Biodiversity Conservation Act 2016.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
