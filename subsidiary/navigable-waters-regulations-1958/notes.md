@@ -15,30 +15,30 @@ Untitled regulations | 3 Oct 1967 p. 2592-3 | 3 Oct 1967
 Untitled regulations | 28 May 1969 p. 1568 | 28 May 1969
 Untitled regulations | 2 Jul 1969 p. 1954 | 2 Jul 1969
 Untitled regulations | 9 Feb 1970 p. 377 | 9 Feb 1970
-Reprint of the Navigable Waters Regulations authorised 15 Apr 1970 in Gazette 28 Apr 1970 p. 1181-98 (includes amendments listed above except those in Gazette 9 Feb 1970)
+Reprint of the Navigable Waters Regulations authorised 15 Apr 1970 by Gazette 28 Apr 1970 p. 1181-98 (includes amendments listed above except those by Gazette 9 Feb 1970)
 Untitled regulations | 1 May 1970 p. 1233 | 1 May 1970
 Untitled regulations | 16 Oct 1970 p. 3205-6 | 16 Oct 1970
 Untitled regulations | 16 Dec 1971 p. 5230-2 | 16 Dec 1971
 Untitled regulations | 24 Mar 1972 p. 699 | 24 Mar 1972
 Untitled regulations | 7 Jun 1972 p. 1721 | 7 Jun 1972
-Reprint of the Navigable Waters Regulations authorised 24 Jul 1972 in Gazette 1 Aug 1972 p. 2901-20 (includes amendments listed above except those in Gazette 7 Jun 1972)
+Reprint of the Navigable Waters Regulations authorised 24 Jul 1972 by Gazette 1 Aug 1972 p. 2901-20 (includes amendments listed above except those by Gazette 7 Jun 1972)
 Untitled regulations | 22 Dec 1972 p. 4777-8 | 22 Dec 1972
 Untitled notice under the Metric Conversion Act 1972 s. 6 | 15 Jun 1973 p. 2234 | 1 Jul 1973
-Reprint of the Navigable Waters Regulations authorised 4 Jul 1974 in Gazette 10 Jul 1974 p. 2547-65 (includes amendments listed above)
+Reprint of the Navigable Waters Regulations authorised 4 Jul 1974 by Gazette 10 Jul 1974 p. 2547-65 (includes amendments listed above)
 Untitled regulations | 12 Jul 1974 p. 2624-6 | 12 Jul 1974
 Untitled regulations | 14 Feb 1975 p. 572 | 1 Mar 1975
 Untitled regulations | 14 Mar 1975 p. 899-900 | 14 Mar 1975
 Untitled regulations | 22 Aug 1975 p. 3044 | 22 Aug 1975
-Reprint of the Navigable Waters Regulations authorised 6 Apr 1976 in Gazette 14 Apr 1976 p. 1141-63 (includes amendments listed above)
+Reprint of the Navigable Waters Regulations authorised 6 Apr 1976 by Gazette 14 Apr 1976 p. 1141-63 (includes amendments listed above)
 Untitled regulations | 17 Sep 1976 p. 3463 | 17 Sep 1976
 Untitled regulations | 18 Feb 1977 p. 505 | 18 Feb 1977
-Reprint of the Navigable Waters Regulations authorised 24 Aug 1977 in Gazette 7 Sep 1977 p. 3223-45 (includes amendments listed above except those in Gazette 18 Feb 1977)
+Reprint of the Navigable Waters Regulations authorised 24 Aug 1977 by Gazette 7 Sep 1977 p. 3223-45 (includes amendments listed above except those by Gazette 18 Feb 1977)
 Untitled regulations | 17 Mar 1978 p. 816-17 | 20 Mar 1978 (see Gazette 17 Mar 1978 p. 789)
 Untitled regulations | 31 Mar 1978 p. 989-90 | 31 Mar 1978
 Untitled regulations | 22 Sep 1978 p. 3504-5 | 22 Sep 1978
 Untitled regulations | 9 Feb 1979 p. 375 | 9 Feb 1979
 Untitled regulations | 16 Mar 1979 p. 750-1 | 16 Mar 1979
-Reprint of the Navigable Waters Regulations authorised 25 Jun 1979 in Gazette 23 Jul 1979 p. 2047-69 (includes amendments listed above except those in Gazette 9 Feb and 16 Mar 1979)
+Reprint of the Navigable Waters Regulations authorised 25 Jun 1979 by Gazette 23 Jul 1979 p. 2047-69 (includes amendments listed above except those by Gazette 9 Feb and 16 Mar 1979)
 Untitled regulations | 7 Sep 1979 p. 2735 | 7 Sep 1979
 Untitled regulations | 20 Jun 1980 p. 1831 | 1 Jul 1980 (see r. 2)
 Navigable Waters Amendment Regulations 1980 | 28 Nov 1980 p. 4050 | 28 Nov 1980
@@ -49,7 +49,7 @@ Navigable Waters Amendment Regulations (No. 2) 1981 | 7 Aug 1981 p. 3230 | 7 Aug
 Navigable Waters Amendment Regulations (No. 4) 1981 | 14 Aug 1981 p. 3340 | 14 Aug 1981
 Navigable Waters Amendment Regulations (No. 5) 1981 | 4 Sep 1981 p. 3861-2 | 4 Sep 1981
 Navigable Waters Amendment Regulations (No. 3) 1981 | 9 Oct 1981 p. 4257 | 9 Oct 1981
-Reprint of the Navigable Waters Regulations authorised 3 Dec 1981 in Gazette 21 Dec 1981 p. 5283-306 (includes amendments listed above except those in the Navigable Waters Amendment Regulations 1981 and the Navigable Waters Amendment Regulations (No. 2), (No. 3), (No. 4) and (No. 5) 1981)
+Reprint of the Navigable Waters Regulations authorised 3 Dec 1981 by Gazette 21 Dec 1981 p. 5283-306 (includes amendments listed above except those in the Navigable Waters Amendment Regulations 1981 and the Navigable Waters Amendment Regulations (No. 2), (No. 3), (No. 4) and (No. 5) 1981)
 Navigable Waters Amendment Regulations (No. 6) 1981 | 18 Dec 1981 p. 5219 | 18 Dec 1981
 Navigable Waters Amendment Regulations 1982 | 7 May 1982 p. 1454 | 7 May 1982
 Navigable Waters Amendment Regulations (No. 2) 1982 | 4 Jun 1982 p. 1808 | 4 Jun 1982
@@ -73,7 +73,7 @@ Navigable Waters Amendment Regulations (No. 2) 1988 | 28 Oct 1988 p. 4289 | 28 O
 Navigable Waters Amendment Regulations (No. 3) 1988 | 13 Jan 1989 p. 75 | 13 Jan 1989
 Navigable Waters Amendment Regulations (No. 2) 1989 | 30 Jun 1989 p. 1926-8 | 1 Jul 1989 (see r. 2)
 Navigable Waters Amendment Regulations 1989 | 25 Aug 1989 p. 2846 | 25 Aug 1989
-Reprint of the Navigable Waters Regulations as at 17 Oct 1989 in Gazette 8 Nov 1989 p. 4001-39 (includes amendments listed above)
+Reprint of the Navigable Waters Regulations as at 17 Oct 1989 by Gazette 8 Nov 1989 p. 4001-39 (includes amendments listed above)
 Navigable Waters Amendment Regulations (No. 3) 1989 | 2 Mar 1990 p. 1328-9 | 2 Mar 1990
 Navigable Waters Amendment Regulations 1990 | 11 May 1990 p. 2283 | 11 May 1990
 Navigable Waters Amendment Regulations (No. 3) 1990 | 1 Aug 1990 p. 3640-1 | 1 Aug 1990 (see r. 2)
@@ -145,8 +145,18 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 27 M
 Transport Regulations Amendment (Lifejackets) Regulations 2017 Pt. 2 | 3 Mar 2017 p. 1484-91 | 4 Mar 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Navigable Waters Amendment Regulations 2018 r. 3 and 4 | 14 Sep 2018 p. 3315-16 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
+On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations 2018 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Navigable Waters Regulations 1958.
+4.Regulation 19E amended
+In regulation 19E(2)(b) delete “Wildlife Conservation Act 1950” and insert:
+Biodiversity Conservation Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
