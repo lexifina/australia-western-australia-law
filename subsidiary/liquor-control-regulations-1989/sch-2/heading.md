@@ -37,4 +37,4 @@ Item | Category of applicant | Details to be provided
  |  | (d)if incorporated, the date and place of incorporation, including a copy of the certificate of incorporation; and
  |  | (e)the full name of, residential address of, and office held by, any trustee or office bearer and the date of that person’s appointment or election as the case may be; and
  |  | (f)in respect of any person sought to be approved as manager, the details set out in the third column of item 1.
-[Schedule 2 amended in Gazette 22 May 1998 p. 2944; 6 Oct 1998 p. 5567; 28 Sep 2001 p. 5357-8; 30 Jun 2003 p. 2612; 24 Oct 2008 p. 4683-4.]
+[Schedule 2 amended by Gazette 22 May 1998 p. 2944; 6 Oct 1998 p. 5567; 28 Sep 2001 p. 5357-8; 30 Jun 2003 p. 2612; 24 Oct 2008 p. 4683-4.]

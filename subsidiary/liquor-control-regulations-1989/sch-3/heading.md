@@ -1,6 +1,6 @@
 ## Schedule 3 — Fees
 [r. 11, 14ADF, 18B, 26 and 27A]
-[Heading inserted in Gazette 10 Nov 2017 p. 5587.]
+[Heading inserted by Gazette 10 Nov 2017 p. 5587.]
 Item | Description | Fee $
 1. | Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence | 3 514
 2. | Application for the grant or removal of a club licence, restaurant licence, producer’s licence or wholesaler’s licence | 901
@@ -69,4 +69,4 @@ Item | Description | Fee $
  | (a)1 to 10 postcodes | 40
  | (b)more than 10 postcodes | 89
 39. | For each person who is a party to an application under the Act and in relation to whom a background check is sought from the Police Service | 150
-[Schedule 3 inserted in Gazette 10 Nov 2017 p. 5587-92.]
+[Schedule 3 inserted by Gazette 10 Nov 2017 p. 5587-92.]

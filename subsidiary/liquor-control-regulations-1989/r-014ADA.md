@@ -8,4 +8,4 @@ approval application means an application for a manager’s approval under secti
 (4) An approval application by an approved restricted manager seeking approval as an approved unrestricted manager must be lodged —
 (a) at an Australia Post office or agency; or
 (b) by an electronic means acceptable to the Director.
-[Regulation 14ADA inserted in Gazette 3 Jun 2011 p. 1995.]
+[Regulation 14ADA inserted by Gazette 3 Jun 2011 p. 1995.]

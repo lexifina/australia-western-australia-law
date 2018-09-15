@@ -7,4 +7,4 @@
 (ii) by an electronic means acceptable to the Director;
 and
 (c) accompanied by the appropriate fee set out in Schedule 3.
-[Regulation 14ADF inserted in Gazette 3 Jun 2011 p. 1997.]
+[Regulation 14ADF inserted by Gazette 3 Jun 2011 p. 1997.]

@@ -1,7 +1,7 @@
 ## Schedule 1
 [Regulation 3]
 ## Forms
-[Forms 1-18 deleted in Gazette 1 May 2007 p. 1887.]
+[Forms 1-18 deleted by Gazette 1 May 2007 p. 1887.]
 Form 19
 Liquor Control Act 1988
 [Regulation 19(1)]
@@ -37,7 +37,7 @@ ________________________________Date: ____ / ____ / ____Ph No: _________________
 ________________________________Date: ____ / ____ / ____Ph No: _________________
 FOR OFFICE | DATE RECEIVED:____ / ____ / ____ | AMOUNT PAYABLE: $
 USE ONLY | DATE PAID: ____ / ____ / ____ | PAYMENT DETAILS:
-[Form 19 inserted in Gazette 9 Jul 2004 p. 2774-5.]
+[Form 19 inserted by Gazette 9 Jul 2004 p. 2774-5.]
 Form 19A
 Liquor Control Act 1988
 [Regulation 19(1)]
@@ -72,7 +72,7 @@ ________________________________Date: ____ / ____ / ____Ph No: _________________
 ________________________________Date: ____ / ____ / ____Ph No: _________________
 FOR OFFICE | DATE RECEIVED: ____ / ____ / ____ | AMOUNT PAYABLE: $
 USE ONLY | DATE PAID:____ / ____ / ____ | PAYMENT DETAILS:
-[Form 19A inserted in Gazette 9 Jul 2004 p. 2776-7.]
+[Form 19A inserted by Gazette 9 Jul 2004 p. 2776-7.]
 Form 20
 Liquor Control Act 1988
 [Section 161]
@@ -95,7 +95,7 @@ at .............................................................................
 .................................................................
 Signature of Justice of the Peace granting
 the warrant
-[Form 20 amended in Gazette 28 Sep 2007 p. 4930-1.]
+[Form 20 amended by Gazette 28 Sep 2007 p. 4930-1.]
 Form 21
 Liquor Control Act 1988 Infringement notice | Notice No.
 Date of notice
@@ -117,7 +117,7 @@ How to pay the modified penalty | In person | [Details for paying in person]
  | By post | Post this notice, with a cheque or money order made payable to [payee], to: [Address] Do not send cash in the mail.
  | Online | [Details for online payments]
  | By telephone | [Details for telephone payments]
-[Form 21 inserted in Gazette 28 Sep 2007 p. 4931; amended in Gazette 20 Aug 2013 p. 3855; 1 Dec 2015 p. 4822-3.]
+[Form 21 inserted by Gazette 28 Sep 2007 p. 4931; amended by Gazette 20 Aug 2013 p. 3855; 1 Dec 2015 p. 4822-3.]
 Form 22
 Liquor Control Act 1988 Withdrawal of infringement notice
 Date of withdrawal
@@ -134,4 +134,4 @@ Officer withdrawing notice | Director of Liquor Licensing
 Registered No.
 Station/Unit
 Withdrawal of infringement notice | The above infringement notice, which was issued for the above alleged offence, has been withdrawn. If you have already paid the modified penalty for the alleged offence in accordance with the infringement notice, the amount will be refunded to you.
-[Form 22 inserted in Gazette 28 Sep 2007 p. 4932; amended in Gazette 1 Dec 2015 p. 4823.]
+[Form 22 inserted by Gazette 28 Sep 2007 p. 4932; amended by Gazette 1 Dec 2015 p. 4823.]

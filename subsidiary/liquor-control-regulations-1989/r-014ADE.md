@@ -8,4 +8,4 @@
 (b) to an authorised officer or the officer in charge of a police station, within 48 hours after the direction is given, if the card is not in the person’s possession when the direction is given.
 (4) A person who fails to comply with a direction given to the person under subregulation (3) commits an offence.
 Penalty: a fine of $2 000.
-[Regulation 14ADE inserted in Gazette 3 Jun 2011 p. 1996-7.]
+[Regulation 14ADE inserted by Gazette 3 Jun 2011 p. 1996-7.]
