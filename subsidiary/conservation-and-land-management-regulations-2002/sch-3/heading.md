@@ -19,10 +19,10 @@ Signature:
 Modified penalty | $_____
 TAKE NOTICE | It is alleged that you have committed the above offence/that you are the responsible person for the vehicle/vessel in relation to which the above offence occurred. If you do not want to be prosecuted in court for the offence, the modified penalty must be paid to the CEO within 28 days after the date of this notice. If the modified penalty is not paid within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken: your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. Paying the modified penalty will not be regarded as an admission for the purposes of any civil or criminal court case. If you want this matter to be dealt with by prosecution in court: Lodge a request online using the form provided at www.dpaw.wa.gov.au OR Sign and date here: __________________________________ / /20 and post this notice to the CEO at the address below.
  | If you consider that you have good reason to have this notice withdrawn, you can write to the CEO at the address below requesting that this notice be withdrawn and setting out why you consider that this notice should be withdrawn. Your letter must be received not later than 28 days after the date of this notice.
-If infringement notice served on responsible person for a vehicle or owner of a vessel | As the responsible person/owner you will be presumed to have been the driver or person in charge of the vehicle/vessel unless within 28 days after the date of this notice: (a)the modified penalty is paid; or (b)you supply the CEO with the following information: the name and address of the driver or person in charge of the vehicle/vessel at the time of the alleged offence or information showing that at the time of the alleged offence the vehicle/vessel had been stolen or unlawfully taken or was being unlawfully used. For further information see the Conservation and Land Management Act 1984 sections 114A-114E (www.slp.wa.gov.au).
-How to pay Note: for payment in person you MUST ensure that you provide your INFRINGEMENT NOTICE NUMBER | By post | Tick the relevant box below and post payment to: Chief Executive Officer Department of Parks and Wildlife Locked Bag 104 Bentley DC Bentley WA 6983. rA cheque or money order (payable to ‘Chief Executive Officer, Department of Parks and Wildlife’) for the modified penalty is enclosed.
-In person | At any Commonwealth Bank
-[Form 1 inserted in Gazette 11 Dec 2015 p. 4954-6.]
+If infringement notice served on responsible person for a vehicle or owner of a vessel | As the responsible person/owner you will be presumed to have been the driver or person in charge of the vehicle/vessel unless within 28 days after the date of this notice: (a)the modified penalty is paid; or (b)you supply the CEO with the following information: the name and address of the driver or person in charge of the vehicle/vessel at the time of the alleged offence or information showing that at the time of the alleged offence the vehicle/vessel had been stolen or unlawfully taken or was being unlawfully used. For further information see the Conservation and Land Management Act 1984 sections 114A-114E (www.legislation.wa.gov.au).
+How to pay Note: for payment in person you MUST ensure that you provide your INFRINGEMENT NOTICE NUMBER | By post | Tick the relevant box below and post payment to: Chief Executive Officer Department of Biodiversity, Conservation and Attractions Locked Bag 104 Bentley DC Bentley WA 6983. rA cheque or money order (payable to ‘Chief Executive Officer, Department of Biodiversity, Conservation and Attractions’) for the modified penalty is enclosed.
+In person | Pay the cashier at any office of the Department of Biodiversity, Conservation and Attractions, or pay over the telephone by credit card by calling the general telephone number of any office of the Department of Biodiversity, Conservation and Attractions.
+[Form 1 inserted by Gazette 11 Dec 2015 p. 4954-6; amended by Gazette 14 Sep 2018 p. 3308.]
 Form 2
 [r. 112(4)]
 Conservation and Land Management Regulations 2002
@@ -38,8 +38,8 @@ It is proposed to commence court proceedings against you for the alleged offence
 (* Delete whichever does not apply.)
 ...........................................................
 Chief Executive Officer,
-Department of Environment and Conservation
-[Form 2 amended in Gazette 29 Sep 2006 p. 4333.]
+Department of Biodiversity, Conservation and Attractions
+[Form 2 amended by Gazette 29 Sep 2006 p. 4333; 14 Sep 2018 p. 3308.]
 Form 3 — Apiary permit
 Regulation 98D(1)
 CONSERVATION AND LAND MANAGEMENT REGULATIONS 2002
@@ -59,5 +59,5 @@ Site that may be occupied
  | Special Conditions
  | Period during which site may be occupied
  | First day of Period: _______________________ | Last day of Period: _______________________
-This permit is not valid without the signature of the Director General or his delegate. __________________________________________________________________________ DIRECTOR GENERALDate DEPARTMENT OF PARKS AND WILDLIFE
-[Form 3 inserted in Gazette 3 Sep 2010 p. 4284; amended in Gazette 6 May 2016 p. 1382.]
+This permit is not valid without the signature of the Director General or his delegate. __________________________________________________________________________ DIRECTOR GENERALDate DEPARTMENT OF BIODIVERSITY, CONSERVATION AND ATTRACTIONS
+[Form 3 inserted by Gazette 3 Sep 2010 p. 4284; amended by Gazette 6 May 2016 p. 1382; 14 Sep 2018 p. 3308.]

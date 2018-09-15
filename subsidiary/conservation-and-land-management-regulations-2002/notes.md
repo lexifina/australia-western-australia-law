@@ -36,7 +36,12 @@ Reprint 4: The Conservation and Land Management Regulations 2002 as at 21 Oct 20
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Conservation and Land Management Amendment Regulations 2017 | 1 Sep 2017 p. 4649-51 | 1 Sep 2017 (see r. 2(a) and (b))
 Conservation and Land Management Amendment Regulations (No. 2) 2018 | 28 Aug 2018 p. 2989-91 | r. 1 and 2: 28 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2018 (see r. 2(b))
-The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published in Gazette 3 May 2002 p. 2295).
+Conservation and Land Management Amendment Regulations 2018 r. 1-3 and 7 | 14 Sep 2018 p. 3307-8 | r. 1 and 2: 14 Sep 2018 (see r. 2(a)); r. 3 and 7: 15 Sep 2018 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Conservation and Land Management Amendment Regulations 2018 r. 4-6 | 14 Sep 2018 p. 3307-8 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
+The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
 4.Transitional provision for Barrow Island Trust Account
@@ -44,6 +49,16 @@ The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads a
 Barrow Island Net Conservation Benefit Account means the account of that name established as an agency special purpose account under the Financial Management Act 2006 section 16 in accordance with the Conservation and Land Management Act 1984 section 69(1);
 Barrow Island Trust Account means the account referred to in the Conservation and Land Management Regulations 2002 Part 7A immediately before the commencement of regulation 3.
 (2) Any money standing to the credit of the Barrow Island Trust Account immediately before the commencement of regulation 3 is to be transferred to the Barrow Island Net Conservation Benefit Account.
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Regulations 2018 r. 4-6 had not come into operation. They read as follows:
+4.Regulation 4 amended
+In regulation 4(3)(b) delete “Wildlife Conservation Act 1950; or” and insert:
+Biodiversity Conservation Act 2016; or
+5.Regulation 85 amended
+In regulation 85(2)(a) delete “Wildlife Conservation Act 1950” and insert:
+Biodiversity Conservation Act 2016
+6.Regulation 86 amended
+In regulation 86(1)(a)(ii) delete “Wildlife Conservation Act 1950” and insert:
+Biodiversity Conservation Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
