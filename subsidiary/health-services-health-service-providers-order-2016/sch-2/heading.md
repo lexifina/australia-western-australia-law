@@ -62,6 +62,7 @@
 56.Kalgoorlie Hospital
 57.Kalumburu Health Centre
 58.Kambalda Health Centre
+58A.Karratha Health Campus
 59.Katanning Hospital
 60.Kellerberrin Memorial Hospital
 61.Kojonup Hospital
@@ -127,3 +128,4 @@
 121.Yalgoo Health Centre
 122.Yandeyarra Health Centre
 123.York Hospital
+[Schedule 2 amended by Gazette 14 Sep 2018 p. 3314.]
