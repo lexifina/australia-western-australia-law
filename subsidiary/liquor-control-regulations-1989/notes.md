@@ -141,6 +141,7 @@ Liquor Control Amendment Regulations 2018 | 19 Jan 2018 p. 231-2 | r. 1 and 2: 1
 Liquor Control (Kalumburu Restricted Area) Regulations 2018 Pt. 5 | 2 Mar 2018 p. 669-72 | 3 Mar 2018 (see r. 2(b))
 Liquor Control (Parnngurr Restricted Area) Regulations 2018 Pt. 5 | 6 Jul 2018 p. 2546-8 | 7 Jul 2018 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2018 | 20 Jul 2018 p. 2631-2 | r. 1 and 2: 20 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jul 2018 (see r. 2(b))
+Liquor Control (Ngurrawaana Restricted Area) Regulations 2018 Pt. 5 | 14 Sep 2018 p. 3317-19 | 15 Sep 2018 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
