@@ -10,7 +10,7 @@ Item No. | Section creating offence | Nature of offence | Penalty $
 5. | 107(c) | Damaging buildings etc. | 200
 6. | 107(d) | Destroying dams etc. | 200
 7. | 107(i) | Removing forest produce without paying | 200
-[Division 1 amended in Gazette 29 Sep 2006 p. 4330-1.]
+[Division 1 amended by Gazette 29 Sep 2006 p. 4330-1.]
 ## Division 2 — Offences under these regulations
  | Column 1 | Column 2 | Column 3
 Item No. | Regulation creating offence | Nature of offence | Penalty $
@@ -138,9 +138,9 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 76. | 108 | Unlawfully taking still or motion pictures | 50
 77. | 109 | Failing to produce licence etc. | 200
 78. | 110 | Giving false or misleading information | 200
-[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052; 19 Sep 2014 p. 3333-4 and 3336-7; 24 Mar 2015 p. 1043-4; 10 Nov 2015 p. 4606.]
+[Division 2 amended by Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052; 19 Sep 2014 p. 3333-4 and 3336-7; 24 Mar 2015 p. 1043-4; 10 Nov 2015 p. 4606.]
 ## Division 3 — Offences under Forest Management Regulations 1993
-[Heading inserted in Gazette 7 Dec 2012 p. 5972.]
+[Heading inserted by Gazette 7 Dec 2012 p. 5972.]
  | Column 1 | Column 2 | Column 3
 Item No. | Regulation creating offence | Nature of offence | Penalty $
 1. | 108 | Entry, use, movement of potential carrier without authorisation or contrary to condition | 200
@@ -151,4 +151,4 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 6. | 123 | Failure to give name and address on request | 150
 7. | 124 | Failure to comply with request to stop or with signpost, or avoiding or breaking through barrier | 150
 8. | 125 | Hindering, obstructing or failing to comply with direction of authorised person | 150
-[Division 3 inserted in Gazette 7 Dec 2012 p. 5972-3.]
+[Division 3 inserted by Gazette 7 Dec 2012 p. 5972-3.]
