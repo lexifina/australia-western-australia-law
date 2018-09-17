@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Biodiversity Conservation Regulations 2018 r. 3-7, Pt. 2-13 and Sch. 1-11 | 14 Sep 2018 p. 3337-505 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Biodiversity Conservation Amendment Regulations 2018 r. 3 and 4 | 17 Sep 2018 p. 3507-8 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 On the date as at which this compilation was prepared, the Biodiversity Conservation Regulations 2018 r. 3-7, Pt. 2-13 and Sch. 1-11 had not come into operation. They read as follows:
 3.Terms used
 In these regulations —
@@ -2040,3 +2041,13 @@ Herpetofauna farmer’s licence (r. 5) | Fauna possessing (breeding) licence
 Herpetofauna importer’s licence (r. 5) | Fauna importing licence
 Herpetofauna exporter’s licence (r. 5) | Fauna exporting licence
 Reptile removalist’s licence (r. 17) | Fauna taking (dangerous fauna) licence
+On the date as at which this compilation was prepared, the Biodiversity Conservation Amendment Regulations 2018 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Biodiversity Conservation Regulations 2018.
+4.Regulation 168 amended
+(1) In regulation 168 delete the definitions of:
+specially protected fauna notice
+rare flora notice
+(2) In regulation 168 insert in alphabetical order:
+rare flora notice means the Wildlife Conservation (Rare Flora) Notice 2018 published in the Gazette on 11 September 2018 at pages 3226 to 3232;
+specially protected fauna notice means the Wildlife Conservation (Specially Protected Fauna) Notice 2018 published in the Gazette on 11 September 2018 at pages 3232 to 3242;
