@@ -300,6 +300,7 @@ Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 
 Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 104 | 4 of 2018 | 19 Apr 2018 | To be proclaimed (see s. 2(d))
+Heritage Act 2018 s. 184 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -426,6 +427,11 @@ The Podiatry Board of Australia
 The Psychology Board of Australia
 (3) In Schedule V Part 3 after the item relating to the Health Education Council of Western Australia insert:
 Any National Health Practitioner Board established under the Health Practitioner Regulation National Law (Western Australia).
+On the date as at which this compilation was prepared, the Heritage Act 2018 s. 184 had not come into operation. It reads as follows:
+184.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the item for the Heritage Council of Western Australia and insert:
+The Heritage Council of Western Australia established by the Heritage Act 2018.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
