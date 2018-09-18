@@ -26,6 +26,7 @@ Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Education and Care Services National Law (WA) Amendment Act 2018 Pt. 4 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
+Historical Homosexual Convictions Expungement Act 2018 Pt. 5 | 20 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
 [s. 65]
@@ -82,6 +83,16 @@ This Part amends the Working with Children (Criminal Record Checking) Act 2004.
 94.Section 38 amended
 In section 38(3)(b)(ii) delete “a certified supervisor, a nominated supervisor or a person with management or control,” and insert:
 a nominated supervisor or a person with management or control
+On the date as at which this compilation was prepared, the Historical Homosexual Convictions Expungement Act 2018 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Working with Children (Criminal Record Checking) Act 2004 amended
+32.Section 4 amended
+In section 4 in the definition of non-conviction charge delete “conviction;” and insert:
+conviction, and has a meaning affected by section 8A;
+33.Section 8A inserted
+After section 8 insert:
+8A.Expunged convictions to be taken to be non-conviction charges for the purposes of this Act
+(1) For the purposes of this Act, a reference to a non-conviction charge includes a reference to an expunged conviction, as that term is defined in the Historical Homosexual Convictions Expungement Act 2018 section 3(1).
+(2) Subsection (1) applies despite anything in the Historical Homosexual Convictions Expungement Act 2018.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
