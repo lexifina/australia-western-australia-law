@@ -62,6 +62,7 @@ Provisions that have not come into operation
  | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Liquor Control Amendment Act 2018 s. 5, 8, 10, 12, 17, 18, 20-22, 25, 26, 32, 35, 36, 38, 39, 45, 46, 53, 56, 60, 62 and 63 | 9 of 2018 | 13 Jul 2018 | To be proclaimed (see s. 2(b))
+Heritage Act 2018 s. 185 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Footnote no longer applicable.
 Repealed by the Public Sector Management Act 1994.
@@ -465,6 +466,11 @@ an infringement notice.
 (c) inform the alleged offender as to who are authorised persons for the purposes of receiving payment of modified penalties.
 (5) In section 167(5) delete “prescribed” and insert:
 approved
+On the date as at which this compilation was prepared, the Heritage Act 2018 s. 185 had not come into operation. It reads as follows:
+185.Liquor Control Act 1988 amended
+(1) This section amends the Liquor Control Act 1988.
+(2) In section 77(5a)(a) delete “Register of Heritage Places compiled under the Heritage of Western Australia Act 1990; or” and insert:
+State Register of Heritage Places established and maintained under the Heritage Act 2018; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
