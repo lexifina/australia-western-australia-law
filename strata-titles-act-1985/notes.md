@@ -52,6 +52,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Heritage Act 2018 s. 187 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
 Deleted by the Building Act 2011 s. 153(2).
@@ -133,6 +134,13 @@ On the date as at which this compilation was prepared, the State Superannuation 
 67.Strata Titles Act 1985 amended
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
+On the date as at which this compilation was prepared, the Heritage Act 2018 s. 187 had not come into operation. It reads as follows:
+187.Strata Titles Act 1985 amended
+(1) This section amends the Strata Titles Act 1985.
+(2) In section 25(7) delete “section 78 of the Heritage of Western Australia Act 1990.” and insert:
+the Heritage Act 2018 Part 5 Division 2.
+(3) In section 25(8) delete “land to which section 78 of the Heritage of Western Australia Act 1990 applies.” and insert:
+included in a place of a kind referred to in the Heritage Act 2018 section 72(1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
