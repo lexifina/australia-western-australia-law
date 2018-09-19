@@ -1,6 +1,6 @@
 ## Schedule 1 — Forms prescribed for Restraining Orders Act 1997
 [r. 131D]
-[Heading inserted in Gazette 20 Jun 2017 p. 2992.]
+[Heading inserted: Gazette 20 Jun 2017 p. 2992.]
 Table of forms
 Forms about family violence restraining orders
 Form |  | Provisions of Act
@@ -32,7 +32,7 @@ Form |  | Provisions of Act
 16 | Part A — Restraining order — Summons Part B — Information to be on the proof of service copy | Sections 26(3) and 39
 17 | Application to have final order under section 32(2) of the Act set aside | Section 32(5)
 18 | Application to have decision under section 42 of the Act set aside | Section 43A
-[Table of Forms inserted in Gazette 20 Jun 2017 p. 2992-4.]
+[Table of Forms inserted: Gazette 20 Jun 2017 p. 2992-4.]
 Form 1 — Application for family violence restraining order
 Restraining Orders Act 1997 s. 24A Family violence restraining order Application |  | Number:
 Jurisdiction:
@@ -61,7 +61,7 @@ Applicant [Not essential if applicant is a police officer] | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
 Signature of registrar:
 Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ________________________ I notified the applicant of the hearing date. Signature ofregistrar:
-[Form 1 inserted in Gazette 20 Jun 2017 p. 2995.]
+[Form 1 inserted: Gazette 20 Jun 2017 p. 2995.]
 Form 2 — Family violence restraining order
 Part A — Family violence restraining order
  | Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Family violence restraining order |  | Number:
@@ -181,7 +181,7 @@ Current proceedings for family order | Court: | Family Court matter no.:
 Terms of family order being sought which relate to the respondent’s rights in relation to children:
 Are these terms of the order being opposed?r Yesr Nor Unknown
 Applicant | Signature: | Date:
-[Form 2 inserted in Gazette 20 Jun 2017 p. 2996-3004; amended in Gazette 24 Nov 2017 p. 5674.]
+[Form 2 inserted: Gazette 20 Jun 2017 p. 2996-3004; amended: Gazette 24 Nov 2017 p. 5674.]
 Form 3 — Conduct agreement order
 Part A — Conduct agreement order
  | Restraining Orders Act 1997 s. 10H and 43 Conduct agreement order |  | Number:
@@ -252,7 +252,7 @@ Current proceedings for family order | Court: | Family Court matter no.:
 Terms of family order being sought which relate to the respondent’s rights in relation to children:
 Are these terms of the order being opposed? r Yesr Nor Unknown
 Applicant | Signature: | Date:
-[Form 3 inserted in Gazette 20 Jun 2017 p. 3005-9; amended in Gazette 24 Nov 2017 p. 5674.]
+[Form 3 inserted: Gazette 20 Jun 2017 p. 3005-9; amended: Gazette 24 Nov 2017 p. 5674.]
 Form 4 — Section 63A family violence restraining order
 Part A — Section 63A family violence restraining order
  | Restraining Orders Act 1997 s. 63A Section 63A family violence restraining order |  | Number:
@@ -282,7 +282,7 @@ IMPORTANT INFORMATION FOR THE PERSON WHO IS PROTECTED BY THIS ORDER
 Section 63A family violence restraining order
 A family violence restraining order has been made to protect you under the Restraining Orders Act 1997 section 63A. The order is in the terms set out on the front of this order. This order came into force when it was served on the person who is bound by the order, or at a later time if this is specified on the front of this order. The person who is bound by this order must comply with this order for the rest of the person’s life. Penalty: It is an offence to breach a family violence restraining order. If the person who is bound by this order breaches this order the person may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Note 1:If the person bound by this order breaches it and you aid the person in that breach, you will not commit an offence however the court might decide to vary or cancel the order (see the Restraining Orders Act 1997 section 61B(3) and (4)). Note 2:If the person who is bound by this order is convicted of breaching this order and the person has been convicted of at least 2 other offences under the Restraining Orders Act 1997 section 61(1) or (2a) within the period of 2 years before the conviction for breaching this order, the person will face a penalty that is or includes imprisonment (or, if the person is a child, detention) unless the court decides under section 61A(6) of the Act not to impose such a penalty. Counselling, support and/or legal services may be of assistance to you.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
-[Form 4 inserted in Gazette 20 Jun 2017 p. 3010-12; amended in Gazette 24 Nov 2017 p. 5675.]
+[Form 4 inserted: Gazette 20 Jun 2017 p. 3010-12; amended: Gazette 24 Nov 2017 p. 5675.]
 Form 5 — Application for violence restraining order
 Restraining Orders Act 1997 s. 25 Violence restraining order Application |  | Number:
 Jurisdiction:
@@ -309,7 +309,7 @@ Applicant [Not essential if applicant is a police officer] | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
 Signature of registrar:
 Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ at _______ am/pm at _______________________________ I notified the applicant of the hearing date. Signature of registrar:
-[Form 5 inserted in Gazette 20 Jun 2017 p. 3013.]
+[Form 5 inserted: Gazette 20 Jun 2017 p. 3013.]
 Form 6 — Violence restraining order
 Part A — Violence restraining order
 Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Violence restraining order |  | Number:
@@ -396,7 +396,7 @@ Date of birth:
 Signature: …………………………………................... (If possible to obtain)
 Certificate | I certify that on the day and at the time and place set out above: rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 Part 6 Division 2. In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 16 years to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
 Signature: | Date:
-[Form 6 inserted in Gazette 20 Jun 2017 p. 3014-21; amended in Gazette 24 Nov 2017 p. 5675.]
+[Form 6 inserted: Gazette 20 Jun 2017 p. 3014-21; amended: Gazette 24 Nov 2017 p. 5675.]
 Form 7 — Section 63A violence restraining order
 Part A — Section 63A violence restraining order
 Restraining Orders Act 1997 s. 63A Section 63A violence restraining order |  | Number:
@@ -425,7 +425,7 @@ IMPORTANT INFORMATION FOR THE PERSON WHO IS PROTECTED BY THIS ORDER
 Section 63A violence restraining order
 A violence restraining order has been made to protect you under the Restraining Orders Act 1997 section 63A. The order is in the terms set out on the front of this order. This order came into force when it was served on the person who is bound by the order, or at a later time, if this is specified on the front of this order. The person who is bound by this order must comply with this order for the rest of the person’s life. Penalty: It is an offence to breach a violence restraining order. If the person who is bound by this order breaches this order the person may be arrested and on conviction will face a penalty of up to $6 000 or imprisonment for 2 years, or both. Note 1:If the person bound by this order breaches it and you aid the person in that breach, you will not commit an offence however the court might decide to vary or cancel the order (see the Restraining Orders Act 1997 section 61B(3) and (4)). Note 2:If the person who is bound by this order is convicted of breaching this order and the person has been convicted of at least 2 other offences under the Restraining Orders Act 1997 section 61(1) or (2a) within the period of 2 years before the conviction for breaching this order, the person will face a penalty that is or includes imprisonment (or, if the person is a child, detention) unless the court decides under section 61A(6) of the Act not to impose such a penalty. Counselling, support and/or legal services may be of assistance to you.
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
-[Form 7 inserted in Gazette 20 Jun 2017 p. 3022-4; amended in Gazette 24 Nov 2017 p. 5675.]
+[Form 7 inserted: Gazette 20 Jun 2017 p. 3022-4; amended: Gazette 24 Nov 2017 p. 5675.]
 Form 8 — Application for misconduct restraining order
 Restraining Orders Act 1997 s. 38(2) Misconduct restraining order Application |  | Number:
 Jurisdiction:
@@ -451,7 +451,7 @@ Applicant | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
 Registrar:
 Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ at _______ am/pm at _____________________ I notified the applicant of the hearing date. Registrar:
-[Form 8 inserted in Gazette 20 Jun 2017 p. 3025.]
+[Form 8 inserted: Gazette 20 Jun 2017 p. 3025.]
 Form 9 — Misconduct restraining order
 Part A — Misconduct restraining order
 Restraining Orders Act 1997 s. 43, 49 and 63 Misconduct restraining order |  | Number:
@@ -499,7 +499,7 @@ Date of birth:
 Signature: …………………………………................... (If possible to obtain)
 Certificate | I certify that on the day and at the time and place set out above: rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 Part 6 Division 2. In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 16 years to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
 Signature: | Date:
-[Form 9 inserted in Gazette 20 Jun 2017 p. 3026-9.]
+[Form 9 inserted: Gazette 20 Jun 2017 p. 3026-9.]
 Form 10 — Telephone order
 Part A — Court copy of telephone order
 Restraining Orders Act 1997 s. 23 Telephone family violence restraining order / Violence restraining order |  | Number:
@@ -599,7 +599,7 @@ Date of birth:
 Signature: …………………………………................... (If possible to obtain)
 Certificate | I certify that on the day and at the time and place set out above — rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 Part 6 Division 2. In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 16 to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
 Signature: | Date:
-[Form 10 inserted in Gazette 20 Jun 2017 p. 3030-8; amended in Gazette 24 Nov 2017 p. 5675.]
+[Form 10 inserted: Gazette 20 Jun 2017 p. 3030-8; amended: Gazette 24 Nov 2017 p. 5675.]
 Form 11 — Restraining order record of telephone application
 Restraining Orders Act 1997 s. 21(4) Restraining order Record of telephone application |  | Number:
 Jurisdiction:
@@ -636,7 +636,7 @@ Magistrate | Name:
 Court where Magistrate is based:
 Magistrate’s location when hearing application:
 Signature: | Date: | Time:
-[Form 11 inserted in Gazette 20 Jun 2017 p. 3039-40.]
+[Form 11 inserted: Gazette 20 Jun 2017 p. 3039-40.]
 Form 12 — Application to vary or cancel a restraining order
 Part A — Application to vary or cancel a restraining order
 Restraining Orders Act 1997 s. 45 Restraining order Application to vary or cancel |  | Number:
@@ -670,7 +670,7 @@ Application by the person who is bound by the restraining order
 If you are the person who is bound by the restraining order and you have applied to vary or cancel a restraining order, you must attend a hearing on the date set out on the front of this application. The person protected by the restraining order will not attend this hearing. At this hearing you will have the opportunity to satisfy the court that you should be granted leave to continue the application. To do this you will need to satisfy the court that one of the following applies — (a)you had a reasonable cause not to attend a prior hearing where the restraining order was made (this does not apply in respect of a hearing where you were not present because the person protected by the order chose to have the matter heard in your absence under the Restraining Orders Act 1997 section 26); (b)there is evidence to support a claim that a person protected by the order has persistently invited or encouraged you to breach the order, or by the person’s actions has persistently attempted to cause you to breach the order; (c)there has been a substantial change in the relevant circumstances since the order was made; (d)if this application is made to vary or cancel an interim order, there is evidence to support a claim that the restraints imposed by the order are causing you unnecessary hardship. If you do not attend the hearing, your application may be dismissed. Your application to vary or cancel the restraining order will be dismissed if you do not satisfy the court that one of the grounds set out above applies. If the court is satisfied that one of the grounds set out above applies to you then the court will set a date for a further hearing and will summons the person protected by the order to attend. At that hearing the court will decide whether or not to vary or cancel the restraining order. If you do not attend the hearing, your application may be dismissed.
 Application to extend duration of order
 If this application is to vary the restraining order by extending the duration of the order, then, despite anything else in the Restraining Orders Act 1997, THE ORDER WILL NOT EXPIRE before the application is determined if the person bound by the order has been given a copy of this application.
-[Form 12 inserted in Gazette 20 Jun 2017 p. 3041-3.]
+[Form 12 inserted: Gazette 20 Jun 2017 p. 3041-3.]
 Form 13 — Summons to vary or cancel restraining order
 Part A — Summons to vary or cancel restraining order
 Restraining Orders Act 1997 s. 47 Restraining order Summons to vary or cancel |  | Number:
@@ -714,7 +714,7 @@ Steps taken to attempt service:
 I was unable to serve this summons because: rthe person to be summonsed does not appear to live or work at the addresses given and cannot be found elsewhere rthe person to be summonsed appears to be deliberately avoiding being served with this summons rother [give details]
 Signature: | Date:
 Please return this proof of service copy of the summons to the court before the hearing date, even if you have been unable to serve it.
-[Form 13 inserted in Gazette 20 Jun 2017 p. 3044-6.]
+[Form 13 inserted: Gazette 20 Jun 2017 p. 3044-6.]
 Form 14 — Restraining order made during other proceedings — record of proceedings
 Restraining Orders Act 1997 s. 63 Restraining order made during other proceedings Record of proceedings |  | Proceedings in which order made:
 Jurisdiction:
@@ -742,7 +742,7 @@ Other notes
 Terms of the order
 Order made | Date order made: | Time order made:
 Registrar | Signature: | Date:
-[Form 14 inserted in Gazette 20 Jun 2017 p. 3047-8.]
+[Form 14 inserted: Gazette 20 Jun 2017 p. 3047-8.]
 Form 15 — Application to register an interstate restraining order
 Part A — Application to register an interstate restraining order
 Restraining Orders Act 1997 s. 75 Interstate restraining order Application to register |  | Number:
@@ -784,7 +784,7 @@ Form 15 — Application to register an interstate restraining order
 Part D — Information to be on the copy of the application given to the interstate court where the relevant interstate order was made
 Notification to the Registrar
 The restraining order described above and made in your court has been registered in Western Australia. If the original order is varied or cancelled please notify the registrar of the court mentioned above.
-[Form 15 inserted in Gazette 20 Jun 2017 p. 3049-50.]
+[Form 15 inserted: Gazette 20 Jun 2017 p. 3049-50.]
 Form 16 — Restraining order — summons
 Part A — Restraining order — summons
 Restraining Orders Act 1997 s. 26(3) and 39 Restraining order Summons |  | Number:
@@ -830,7 +830,7 @@ Steps taken to attempt service:
 I was unable to serve this summons because: rthe person to be summonsed does not appear to live or work at the addresses given and cannot be found elsewhere rthe person to be summonsed appears to be deliberately avoiding being served with this summons rother [give details]
 Signature: | Date:
 Please return this proof of service copy of the summons to the court before the hearing date, even if you have been unable to serve it.
-[Form 16 inserted in Gazette 20 Jun 2017 p. 3051-3.]
+[Form 16 inserted: Gazette 20 Jun 2017 p. 3051-3.]
 Form 17 — Application to have final order under section 32(2) of the Act set aside
 Restraining Orders Act 1997 s. 32(5) Application to set aside final order under the Restraining Orders Act 1997 section 32(2) |  | Number:
 Jurisdiction:
@@ -850,7 +850,7 @@ Grounds for application | I rely on the following grounds in support of this app
 Signature of applicant |  | Date
 Notice of court hearing | Court: Address:
 Date and time of hearing:
-[Form 17 inserted in Gazette 20 Jun 2017 p. 3054.]
+[Form 17 inserted: Gazette 20 Jun 2017 p. 3054.]
 Form 18 — Application to have decision under section 42 of the Act set aside
 Restraining Orders Act 1997 s. 43A Application to set aside decision under the Restraining Orders Act 1997 section 42 |  | Number:
 Jurisdiction:
@@ -871,4 +871,4 @@ Grounds for application | I rely on the following grounds in support of this app
 Signature of applicant |  | Date
 Notice of court hearing | Court: Address:
 Date and time of hearing:
-[Form 18 inserted in Gazette 20 Jun 2017 p. 3055.]
+[Form 18 inserted: Gazette 20 Jun 2017 p. 3055.]

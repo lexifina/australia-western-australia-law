@@ -3,4 +3,4 @@
 (a) the period allowed by rule 133AAD(2) for lodging an application under rule 133AAD has expired; and
 (b) no application has been lodged.
 (2) A registrar must list the case before a magistrate in chambers for the making of an order by the Court under section 10(2B).
-[Rule 133AAE inserted in Gazette 23 Jan 2015 p. 413.]
+[Rule 133AAE inserted: Gazette 23 Jan 2015 p. 413.]

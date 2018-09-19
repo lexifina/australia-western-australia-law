@@ -10,4 +10,4 @@
 (b) the verified statement of account referred to in subrule (2)(b);
 (c) the supporting affidavit referred to in subrule (2)(c);
 (d) the receipt referred to in subrule (3).
-[Rule 133AAC inserted in Gazette 23 Jan 2015 p. 412.]
+[Rule 133AAC inserted: Gazette 23 Jan 2015 p. 412.]

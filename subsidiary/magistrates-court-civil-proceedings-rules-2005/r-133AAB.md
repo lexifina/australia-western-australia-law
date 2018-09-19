@@ -9,4 +9,4 @@
 (6) At the directions hearing, the Court may —
 (a) make orders as to the procedure to be followed by each party and the Court in order to ensure the application is dealt with justly; and
 (b) make an interim order under section 7(7A) pending the final determination of the application.
-[Rule 133AAB inserted in Gazette 23 Jan 2015 p. 411-12.]
+[Rule 133AAB inserted: Gazette 23 Jan 2015 p. 411-12.]

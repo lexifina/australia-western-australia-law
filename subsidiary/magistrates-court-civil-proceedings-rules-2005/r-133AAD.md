@@ -12,4 +12,4 @@
 (8) The registrar must endorse the date of the directions hearing on the copy of the application that is to be served under subrule (9).
 (9) The applicant must serve personally on any other party a copy of the application and the supporting affidavit at least 5 clear days before the date of the directions hearing.
 (10) At the directions hearing, the Court may make orders as to the procedure to be followed by the applicant, any other party and the Court to ensure the application is dealt with justly.
-[Rule 133AAD inserted in Gazette 23 Jan 2015 p. 412-13.]
+[Rule 133AAD inserted: Gazette 23 Jan 2015 p. 412-13.]
