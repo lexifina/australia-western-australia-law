@@ -4,6 +4,8 @@ Bush Fires Act 1954
 $
 1 | Section 17(12) | Setting fire to bush during prohibited burning times | 250
 2 | Section 18 | Offences relating to burning of bush | 250
+2A | Section 22B(2) | Offences relating to fires in the open air during total fire ban | 1 000
+2B | Section 22C(5) | Failure to observe and carry out the conditions of an exemption from section 22B | 1 000
 3 | Section 22(3)(a) | Failure to notify and obtain approval of local government before setting fire to bush on land adjoining exempt land | 250
 4 | Section 22(3)(b) | Failure to prepare a fire break in accordance with section 22(3)(b) before setting fire to bush on land adjoining exempt land | 250
 5 | Section 24B(3)(a) | Failure to produce permit to burn | 100
@@ -66,4 +68,4 @@ $
 49B | Regulation 39E(3) | Failure to comply with the directions of a bush fire control officer | 250
 50 | Regulation 43(1) | Failure to give prescribed notification to local government regarding the occurrence of a bush fire | 100
 51 | Regulation 44(a) | Failure by owner or occupier of land to give prescribed notice of intention to exercise powers conferred by section 34 of the Act | 250
-[First Schedule inserted in Gazette 23 November 1990 pp.5779-82; amended in Gazette 22 December 1998 pp.6856 and 6860; 23 November 1999 p.5851; 18 July 2000 p.3863; 10 January 2003 p. 34-35.]
+[First Schedule inserted: Gazette 23 November 1990 pp.5779-82; amended: Gazette 22 December 1998 pp.6856 and 6860; 23 November 1999 p.5851; 18 July 2000 p.3863; 10 January 2003 p. 34-35; 18 Sep 2018 p. 3512.]
