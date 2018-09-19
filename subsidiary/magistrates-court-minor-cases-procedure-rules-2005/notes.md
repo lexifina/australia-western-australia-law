@@ -16,6 +16,7 @@ Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2016 | 3 May 2
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2016 | 30 Sep 2016 p. 4174-6 | r. 1 and 2: 30 Sep 2016 (see r. 2(a)); Rules other than r. 1 and 2: 1 Oct 2016 (see r. 2(b))
 Reprint 2: The Magistrates Court (Minor Cases Procedure) Rules 2005 as at 12 May 2017 (includes amendments listed above)
 Magistrates Court Rules Amendment Rules 2017 Pt. 3 | 21 Jul 2017 p. 4024-7 | 22 Jul 2017 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2018 Pt. 3 | 18 Sep 2018 p. 3515-16 | 19 Sep 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

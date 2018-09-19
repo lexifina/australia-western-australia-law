@@ -26,6 +26,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules 2016 | 30 Sep 2016 p. 4177
 Magistrates Court (Civil Proceedings) Amendment Rules 2017 | 20 Jun 2017 p. 2991-3055 | r. 1 and 2: 20 Jun 2017 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2017 Pt. 2 | 21 Jul 2017 p. 4024-7 | 22 Jul 2017 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2017 | 24 Nov 2017 p. 5674-5 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Rules other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2018 Pt. 2 | 18 Sep 2018 p. 3515-16 | 19 Sep 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -35,7 +36,7 @@ applicant133AAD(1)
 application4, 123
 approved form4
 child116
-claimant65(1)
+claimant65(1), 94A
 conferring Act123
 counterclaim4
 default judgment4
