@@ -20,7 +20,7 @@ Mining Amendment Regulations (No. 2) 1988 | 8 Apr 1988 p. 1165 | 8 Apr 1988
 Mining Amendment Regulations (No. 3) 1988 | 20 May 1988 p. 1705-7 | 20 May 1988
 Mining Amendment Regulations (No. 5) 1988 | 15 Jul 1988 p. 2474 | 15 Jul 1988
 Mining Amendment Regulations (No. 4) 1988 | 22 Jul 1988 p. 2526-8 | 1 Aug 1988 (see r. 2)
-Reprint of the Mining Regulations 1981 as at 11 Aug 1988 in Gazette 24 Aug 1988 p. 3147-242 (includes amendments listed above)
+Reprint of the Mining Regulations 1981 as at 11 Aug 1988 by Gazette 24 Aug 1988 p. 3147-242 (includes amendments listed above)
 Mining Amendment Regulations 1989 | 3 Mar 1989 p. 688-9 | 3 Mar 1989
 Mining Amendment Regulations (No. 2) 1989 | 30 Jun 1989 p. 2001 | 1 Jul 1989 (see r. 2)
 Mining Amendment Regulations (No. 3) 1989 | 21 Jul 1989 p. 2249-50 | 1 Aug 1989 (see r. 2)
@@ -143,6 +143,7 @@ Mining Amendment Regulations (No. 4) 2017 | 22 Dec 2017 p. 5989-93 | r. 1 and 2:
 Mining Amendment Regulations (No. 2) 2018 | 4 May 2018 p. 1477-9 | r. 1 and 2: 4 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mining Amendment Regulations 2018 | 24 Jul 2018 p. 2651-3 | r. 1 and 2: 24 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2018 (see r. 2(b))
+Mining Amendment Regulations (No. 3) 2018 | 18 Sep 2018 p. 3516-18 | r. 1 and 2: 18 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2018 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -163,7 +164,6 @@ Disallowed on 28 Nov 2017 see Gazette 1 Dec 2017 p. 5749.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-block2, Sch. 3 cl. 1(1)
 aerial photography120P
 agent137(1)
 allowable deductions85(1)
@@ -175,6 +175,7 @@ application70BA(1), 70BB(1), 70BC(1), 70BD(1)
 approved surveyor116
 Australian Geodetic DatumSch. 3 cl. 1(1)
 beneficiation plant86AC(1)
+block2, Sch. 3 cl. 1(1)
 CSch. 4 cl. 1
 combined mineral exploration report96(1)
 commencement daySch. 3 cl. 1(1)
@@ -270,7 +271,7 @@ release date23(2)
 relevant depth101A(1)
 relevant exploration licence4A
 relevant operations report58A(1)
-relevant period86(2a), 86(2a), 96CA(1)
+relevant period86(2a), 96CA(1)
 reversion licence63A(1)
 royalty ore86AD(4)
 royalty return2
