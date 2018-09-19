@@ -20,4 +20,4 @@
  | .................................................................... Mining Registrar
 Notes:1.If section 122A(1)(b) of the Act applies, insert “THE MORTGAGOR AND THE MORTGAGEE acknowledge that this mortgage is subject to the interest claimed by the caveator in caveat no.” and the relevant caveat number.
 2.If the words set out in Note 1 are inserted in the mortgage the mortgage must also be signed by the mortgagee(s) and that signature or those signatures duly witnessed.
-[Form 25 amended in Gazette 2 Oct 1987 p. 3835; 3 Feb 2006 p. 527; 15 Jan 2010 p. 126; 9 Nov 2012 p. 5435-6.]
+[Form 25 amended by Gazette 2 Oct 1987 p. 3835; 3 Feb 2006 p. 527; 15 Jan 2010 p. 126; 9 Nov 2012 p. 5435-6.]

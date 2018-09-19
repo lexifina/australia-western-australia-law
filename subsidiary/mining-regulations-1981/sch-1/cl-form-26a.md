@@ -12,4 +12,4 @@ OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ............................................................................................
 .................................................................... Mining Registrar
 NOTE 1: If Mortgage is to be totally discharged use Form 26.
-[Form 26A inserted in Gazette 31 Jul 1992 p. 3779-80; amended in Gazette 15 Jan 2010 p. 126; 9 Nov 2012 p. 5437-9.]
+[Form 26A inserted by Gazette 31 Jul 1992 p. 3779-80; amended by Gazette 15 Jan 2010 p. 126; 9 Nov 2012 p. 5437-9.]

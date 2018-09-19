@@ -5,4 +5,4 @@ Form 43 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 136)
  | until theday of20
  | DATED thisday of20
  | Seal of the Warden’s Court | ............................................................Warden Mineral Field
-[Form 43 amended in Gazette 15 Jan 2010 p. 134.]
+[Form 43 amended by Gazette 15 Jan 2010 p. 134.]

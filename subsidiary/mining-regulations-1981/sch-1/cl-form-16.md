@@ -13,5 +13,5 @@ Received at ................................a.m./p.m. on .......................
 .................................................................... Mining Registrar
 NOTES: 1.If this form is signed by a person who is an employee of the objector, the person must state the person’s full name and the position in which the person is employed.
 2.A “mention hearing” is an initial hearing where the warden may give directions to the parties, set a hearing date and/or adjourn to a further mention hearing. A party who does not wish to attend in person or by lawyer or agent on the nominated mention hearing date must make written application not less than 7 days before the hearing. Costs may be awarded against a party for non-attendance.
-[Form 16 inserted in Gazette 9 Mar 2007 p. 905-6; amended in Gazette 15 Jan 2010 p. 123; 9 Nov 2012 p. 5423-4.]
-[Form 16A deleted in Gazette 4 Apr 1997 p. 1780.]
+[Form 16 inserted by Gazette 9 Mar 2007 p. 905-6; amended by Gazette 15 Jan 2010 p. 123; 9 Nov 2012 p. 5423-4.]
+[Form 16A deleted by Gazette 4 Apr 1997 p. 1780.]

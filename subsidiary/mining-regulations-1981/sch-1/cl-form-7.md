@@ -12,4 +12,4 @@ ________
 (Reverse of Form)
 Schedule of Endorsements/Conditions/Description of
 Granted Area
-[Form 7 inserted in Gazette 24 Jun 1994 p. 2939; amended in Gazette 4 Apr 1997 p. 1780; 15 Jan 2010 p. 121.]
+[Form 7 inserted by Gazette 24 Jun 1994 p. 2939; amended by Gazette 4 Apr 1997 p. 1780; 15 Jan 2010 p. 121.]

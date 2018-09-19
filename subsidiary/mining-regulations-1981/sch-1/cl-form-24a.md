@@ -9,4 +9,4 @@
  | OFFICIAL USE
  | Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
  | .................................................................... Mining Registrar
-[Form 24A inserted in Gazette 3 Feb 2006 p. 526-7; amended in Gazette 15 Jan 2010 p. 126; 9 Nov 2012 p. 5433-5.]
+[Form 24A inserted by Gazette 3 Feb 2006 p. 526-7; amended by Gazette 15 Jan 2010 p. 126; 9 Nov 2012 p. 5433-5.]

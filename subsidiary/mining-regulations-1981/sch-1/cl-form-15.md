@@ -21,4 +21,4 @@ In accordance with regulation 49 of the Mining Regulations 1981 —
 (d)publish a notice in the Government Gazette
 ...........................................................................
 Warden
-[Form 15 amended in Gazette 9 Mar 2007 p. 905; 15 Jan 2010 p. 123.]
+[Form 15 amended by Gazette 9 Mar 2007 p. 905; 15 Jan 2010 p. 123.]

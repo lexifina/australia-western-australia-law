@@ -18,4 +18,4 @@ STAMP OF MINING REGISTRAR | Received at ............... a.m./p.m. on the .......
 NOTES:1.If this form is signed by a person who is an employee of the applicant, the person must state the person’s full name and the position in which the person is employed.
 2.A “mention hearing” is an initial hearing where the warden may give directions to the parties, set a hearing date and/or adjourn to a further mention hearing. A party who does not wish to attend in person or by lawyer or agent on the nominated mention hearing date must make a written application not less than 7 days before the hearing. Costs may be awarded against a party for non-attendance.
 3.If at a mention hearing a date for the hearing and determination of the application for forfeiture is fixed, you may apply for the issue of a witness summons to compel the attendance of any witnesses and/or production of relevant documents.
-[Form 35A inserted in Gazette 9 Mar 2007 p. 908-9; amended in Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5448-50.]
+[Form 35A inserted by Gazette 9 Mar 2007 p. 908-9; amended by Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5448-50.]

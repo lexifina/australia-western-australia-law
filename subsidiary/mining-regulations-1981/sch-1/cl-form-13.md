@@ -6,4 +6,4 @@ Form 13 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 45) NOTICE OF RE-MARKING (to b
 (e)Describe boundaries of retained portion (f)Area of retained portion | Portion Retained (e) (f)
 (g)Date and time of re-marking | (g)
 (h)Signature of holder | (h) ............................................................................................................
-[Form 13 amended in Gazette 15 Jan 2010 p. 122.]
+[Form 13 amended by Gazette 15 Jan 2010 p. 122.]

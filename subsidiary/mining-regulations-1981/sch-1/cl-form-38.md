@@ -6,5 +6,5 @@ Form 38 Tenement No. .............. | WESTERN AUSTRALIA Mining Regulations 1981 
 (c)Specify full name and address of tenement holder | (c)
 (d)Insert result (e)Set forth the decision in full (or attach) | (d) AND the Court / Warden directs — (e) DATED at ........................................................................... this ...................... day of ................................... 20 ..........
 SEAL OF WARDEN’S COURT / STAMP OF MINING REGISTRAR | ...................................................Warden/Mining Registrar
-[Form 38 inserted in Gazette 9 Mar 2007 p. 914; amended in Gazette 15 Jan 2010 p. 133.]
-[Forms 39-41 deleted in Gazette 9 Mar 2007 p. 914.]
+[Form 38 inserted by Gazette 9 Mar 2007 p. 914; amended by Gazette 15 Jan 2010 p. 133.]
+[Forms 39-41 deleted by Gazette 9 Mar 2007 p. 914.]

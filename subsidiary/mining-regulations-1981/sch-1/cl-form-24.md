@@ -12,4 +12,4 @@ Received at ................................a.m./p.m. on .......................
 .................................................................... Mining Registrar
 Notes:1.If the caveat is lodged pursuant to section 122A(2) of the Act the term of the caveat (if any) must be stated and a copy of the agreement attached.
 2.If the caveat is lodged pursuant to section 122A(1)(b) of the Act, insert “unless the instrument is expressed to be subject to the interest claimed in this caveat”.
-[Form 24 inserted in Gazette 3 Feb 2006 p. 525-6; amended in Gazette 15 Jan 2010 p. 126; 9 Nov 2012 p. 5432-3.]
+[Form 24 inserted by Gazette 3 Feb 2006 p. 525-6; amended by Gazette 15 Jan 2010 p. 126; 9 Nov 2012 p. 5432-3.]

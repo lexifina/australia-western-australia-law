@@ -11,4 +11,4 @@ LODGING PARTY (h) Full name and address (for return of documents) | (h)
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
 .................................................................... Mining Registrar
-[Form 14 inserted in Gazette 31 May 1991 p. 2701-2; amended in Gazette 15 Jan 2010 p. 123; 9 Nov 2012 p. 5422-3.]
+[Form 14 inserted by Gazette 31 May 1991 p. 2701-2; amended by Gazette 15 Jan 2010 p. 123; 9 Nov 2012 p. 5422-3.]

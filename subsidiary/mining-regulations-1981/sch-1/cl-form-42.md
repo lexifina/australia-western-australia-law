@@ -12,4 +12,4 @@
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20
 .................................................................... Mining Registrar
-[Form 42 amended in Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5454-5.]
+[Form 42 amended by Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5454-5.]
