@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Human Reproductive Technology (Licences and Registers) Regulations 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Human Reproductive Technology Regulations 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Human Reproductive Technology (Licences and Registers) Regulations 1993 | 19 Mar 1993 p. 1642-6 | 19 Mar 1993
@@ -10,6 +10,8 @@ Human Reproductive Technology (Licences and Registers) Amendment Regulations 200
 Human Reproductive Technology (Licences and Registers) Amendment Regulations 2014 | 15 Jul 2014 p. 2464-5 | r. 1 and 2: 15 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2014 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 8 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
+Human Reproductive Technology (Licences and Registers) Amendment Regulations 2018 | 18 Sep 2018 p. 3512-14 | r. 1 and 2: 18 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2018 (see r. 2(b))
+Now known as the Human Reproductive Technology (Licences and Registers) Regulations 1993; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
