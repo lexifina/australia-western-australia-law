@@ -16,4 +16,5 @@ Telephone number
 Reference
 Signature of party or lawyer | Party/lawyer | Date of signing:
 Note to Form 1AA — 1.If not held at Perth, state the location of the relevant registry.
-[Form 1AA inserted in Gazette 26 Jul 2013 p. 3417-18; amended in Gazette 31 Dec 2013 p. 6556.]
+[Form 1AA inserted: Gazette 26 Jul 2013 p. 3417-18; amended: Gazette 31 Dec 2013 p. 6556.]
+[1AB.Deleted: Gazette 7 Sep 2018 p. 3191.]
