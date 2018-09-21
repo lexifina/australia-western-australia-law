@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sentencing Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 September 2018 of the Sentencing Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Sentencing Regulations 1996 | 4 Oct 1996 p. 5281-96 | 4 Nov 1996 (see r. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -25,9 +25,10 @@ Sentencing Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5065 | r. 1 and 2
 Sentencing Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 5179 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Sentencing Amendment Regulations 2016 | 11 Oct 2016 p. 4537 | r. 1 and 2: 11 Oct 2016 (see r. 2(a)) Regulations other than r. 1 and 2: 12 Oct 2016 (see r. 2(b))
 Attorney General Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 173-6 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
-Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 4 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Sentencing Amendment Regulations (No. 2) 2016 | 17 Jan 2017 p. 418 | r. 1 and 2: 17 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
+Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 4 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Sentencing Amendment Regulations (No. 2) 2017 | 29 Sep 2017 p. 4983-5 | r. 1 and 2: 29 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2017 (see r. 2(b) and Gazette 29 Sep 2017 p. 4983)
+Reprint 4: The Sentencing Regulations 1996 as at 21 Sep 2018 (includes amendments listed above)
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
 The Credit (Administration) Act 1984 s. 37, 38, 39(4) and (6) were deleted by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 29.
 The following sections of The Criminal Code have been deleted:
@@ -36,7 +37,7 @@ s. 208 by the Criminal Code Amendment Act 2004 s. 17;
 s. 426A(3) by the Criminal Code Amendment Act 2004 s. 34;
 s. 430, 431, 434 and 435 by the Criminal Law Amendment (Simple Offences) Act 2004 s. 28.
 The Dangerous Goods (Transport) Act 1998 was repealed by the Dangerous Goods Safety Act 2004.
-Formerly referred to the Electricity Corporation Act 1994 the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Formerly referred to the Electricity Corporation Act 1994, the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Sch. 2 was deleted by the Electricity Corporations Act 2005 s. 139.
 The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004.
 The Family Court Act 1997 s. 243(6) was deleted by the Criminal Code Amendment Act 2004 s.58.
@@ -49,9 +50,8 @@ s. 97 and 107 by the Criminal Law Amendment (Simple Offences) Act 2004 s. 68;
 s. 124 by the Criminal Investigation (Consequential Provisions) Act 2006 s. 67;
 s. 125 by the Criminal Law Amendment (Simple Offences) Act 2004 s. 70;
 s. 128 by the Courts Legislation Amendment and Repeal Act 2004 s. 141.
-Formerly referred to the Curriculum Council Act 1997 the short title of which was changed to School Curriculum and Standards Authority Act 1997 by the Curriculum Council Amendment Act 2011 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Formerly referred to the Curriculum Council Act 1997, the short title of which was changed to School Curriculum and Standards Authority Act 1997 by the Curriculum Council Amendment Act 2011 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
-Repealed by the Water Resources Legislation Amendment Act 2007.
 Formerly referred to the Navigable Waters Regulations, the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -63,3 +63,4 @@ non-complying person8B(1)
 prosecutor4B(8), 10(8)
 Sheriff’s costs8B(1)
 superior court application5B(1)
+By Authority: KEVIN J. McRAE, Government Printer
