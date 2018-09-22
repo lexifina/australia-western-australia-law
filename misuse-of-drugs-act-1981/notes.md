@@ -58,11 +58,11 @@ Misuse of Drugs Amendment (Search Powers) Act 2016 | 47 of 2016 | 28 Nov 2016 | 
 Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 2 | 3 of 2017 | 21 Aug 2017 | 18 Sep 2017 (see s. 2(b))
 Reprint 7: The Misuse of Drugs Act 1981 as at 1 Dec 2017 (includes amendments listed above)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2018 published in Gazette 29 Aug 2018 p. 2995-3039 | cl. 1 and 2: 29 Aug 2018 (see cl. 2); Order other than cl. 1 and 2: 30 Aug 2018 (see cl. 2)
+Industrial Hemp Amendment Act 2018 Pt. 3 | 15 of 2018 | 28 Aug 2018 | 22 Sep 2018 (see s. 2(b) and Gazette 21 Sep 2018 p. 3533)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Industrial Hemp Amendment Act 2018 Pt. 3 | 15 of 2018 | 28 Aug 2018 | To be proclaimed (see s. 2(b))
 The Poisons Act 1964 was repealed by the Medicines and Poisons Act 2014 s. 137.
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
@@ -104,13 +104,6 @@ Division 3 — Provisions for Public Health (Consequential Provisions) Act 2016
 49.Transitional provision for registered analysts
 (1) Despite the replacement, by the Public Health (Consequential Provisions) Act 2016 section 312 (section 312), of the definition of analyst in section 3(1), any person who, immediately before section 312 comes into operation, is an approved analyst under a declaration made under section 3A continues to be an approved analyst under and subject to section 3A.
 (2) A thing done or omitted to be done under this Act by, to or in relation to an analyst (as defined in section 3(1) as in force immediately before section 312 comes into operation) has the same effect on and after the day on which section 312 comes into operation, to the extent that it has any force or significance on or after that day, as if the thing had been done or omitted by, to or in relation to an analyst as defined in section 3(1) after section 312 comes into operation.
-On the date as at which this compilation was prepared, the Industrial Hemp Amendment Act 2018 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Misuse of Drugs Act 1981 amended
-5.Act amended
-This Part amends the Misuse of Drugs Act 1981.
-6.Section 3 amended
-In section 3(1) in the definition of processed industrial hemp paragraph (a) delete “0.35%” and insert:
-1%
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
