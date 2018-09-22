@@ -1,8 +1,8 @@
 ## Schedule VII — Amounts of prohibited drugs for purposes of drug trafficking
 [s. 32A(1)(b)(i)]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 ## Division 1 — General
-[Heading inserted in Gazette 29 Aug 2018 p. 3025.]
+[Heading inserted: Gazette 29 Aug 2018 p. 3025.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1A. | ACETYL-ALPHA-METHYLFENTANYL | 0.070
 1. | AMPHETAMINE | 28.0
@@ -107,9 +107,9 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 15AA. | PRAVADOLINE (WIN 48098) (in any form except plant material) | 28.0
 16. | 1-PROPYL-2-METHYL-3-(1-NAPHTHOYL) INDOLE (JWH-015) (plant material) | 420.0
 16A. | 1-PROPYL-2-METHYL-3-(1-NAPHTHOYL) INDOLE (JWH-015) (in any form except plant material) | 28.0
-[Division 1 inserted by No. 50 of 1990 s. 6; amended in Gazette 29 Nov 1991 p. 6041; 22 Mar 1994 p. 1245; 29 Apr 2011 p. 1533-4; 1 Jul 2011 p. 2744-5; 11 Oct 2011 p. 4319-20; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5196; 29 Aug 2018 p. 3025-35.]
+[Division 1 inserted: No. 50 of 1990 s. 6; amended: Gazette 29 Nov 1991 p. 6041; 22 Mar 1994 p. 1245; 29 Apr 2011 p. 1533-4; 1 Jul 2011 p. 2744-5; 11 Oct 2011 p. 4319-20; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5196; 29 Aug 2018 p. 3025-35.]
 ## Division 2 — Steroids
-[Heading inserted in Gazette 29 Aug 2018 p. 3036.]
+[Heading inserted: Gazette 29 Aug 2018 p. 3036.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ATAMESTANE | 700.0
 2. | BOLANDIOL | 700.0
@@ -175,4 +175,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 62. | THIMOSTERONE (TIOMESTERONE) | 700.0
 63. | TRENBOLONE | 700.0
 64. | TRESTOLONE | 700.0
-[Division 2 inserted in Gazette 29 Aug 2018 p. 3036-9.]
+[Division 2 inserted: Gazette 29 Aug 2018 p. 3036-9.]

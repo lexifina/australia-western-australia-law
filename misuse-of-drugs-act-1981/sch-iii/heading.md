@@ -1,8 +1,8 @@
 ## Schedule III — Amounts of prohibited drugs determining court of trial
 [s. 9]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 ## Division 1 — General
-[Heading inserted in Gazette 29 Aug 2018 p. 2995.]
+[Heading inserted: Gazette 29 Aug 2018 p. 2995.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ACETORPHINE | 6.0
 2. | ACETYLDIHYDROCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 6.0
@@ -235,9 +235,9 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 140. | THEBAINE | 6.0
 141. | TRIMEPERIDINE | 30.0
 142. | VINBARBITONE | 30.0
-[Division 1 amended by No. 48 of 1995 s. 43; No. 13 of 2014 s. 180; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5194-5; 29 Aug 2018 p. 2995-3006.]
+[Division 1 amended: No. 48 of 1995 s. 43; No. 13 of 2014 s. 180; amended: Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5194-5; 29 Aug 2018 p. 2995-3006.]
 ## Division 2 — Steroids
-[Heading inserted in Gazette 29 Aug 2018 p. 3006.]
+[Heading inserted: Gazette 29 Aug 2018 p. 3006.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ATAMESTANE | 100.0
 2. | BOLANDIOL | 100.0
@@ -303,4 +303,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 62. | THIMOSTERONE (TIOMESTERONE) | 100.0
 63. | TRENBOLONE | 100.0
 64. | TRESTOLONE | 100.0
-[Division 2 inserted in Gazette 29 Aug 2018 p. 3006-10.]
+[Division 2 inserted: Gazette 29 Aug 2018 p. 3006-10.]

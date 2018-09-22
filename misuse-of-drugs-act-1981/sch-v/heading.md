@@ -1,8 +1,8 @@
 ## Schedule V — Amounts of prohibited drugs giving rise to presumption of intention to sell or supply same
 [s. 11(a)]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 ## Division 1 — General
-[Heading inserted in Gazette 29 Aug 2018 p. 3010.]
+[Heading inserted: Gazette 29 Aug 2018 p. 3010.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ACETORPHINE | 2.0
 1A. | ACETYL-ALPHA-METHYLFENTANYL | 0.005
@@ -239,9 +239,9 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 142. | THEBAINE | 10.0
 143. | TRIMEPERIDINE | 10.0
 144. | VINBARBITONE | 10.0
-[Division 1 amended by No. 48 of 1995 s. 43; No. 13 of 2014 s. 181; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743-4; 11 Oct 2011 p. 4318-19; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5195; 29 Aug 2018 p. 3010-21.]
+[Division 1 amended: No. 48 of 1995 s. 43; No. 13 of 2014 s. 181; amended: Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743-4; 11 Oct 2011 p. 4318-19; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5195; 29 Aug 2018 p. 3010-21.]
 ## Division 2 — Steroids
-[Heading inserted in Gazette 29 Aug 2018 p. 3021.]
+[Heading inserted: Gazette 29 Aug 2018 p. 3021.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1. | ATAMESTANE | 50.0
 2. | BOLANDIOL | 50.0
@@ -307,4 +307,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 62. | THIMOSTERONE (TIOMESTERONE) | 50.0
 63. | TRENBOLONE | 50.0
 64. | TRESTOLONE | 50.0
-[Division 2 inserted in Gazette 29 Aug 2018 p. 3021-5.]
+[Division 2 inserted: Gazette 29 Aug 2018 p. 3021-5.]
