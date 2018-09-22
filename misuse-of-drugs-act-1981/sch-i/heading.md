@@ -1,6 +1,6 @@
 ## Schedule I — Drugs to which Act applies, notwithstanding anything in Medicines and Poisons Act 2014
 [s. 4(1)(c)]
-[Heading amended by No. 19 of 2010 s. 4; No. 13 of 2014 s. 178.]
+[Heading amended: No. 19 of 2010 s. 4; No. 13 of 2014 s. 178.]
 Item | Prohibited drugs
 1. | Cocaine, ecgonine, heroin, morphine and their respective salts.
 2. | Opium.
