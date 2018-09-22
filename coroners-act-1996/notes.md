@@ -26,6 +26,7 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 5 | 25 of 2014
 Reprint 3: The Coroners Act 1996 as at 7 Nov 2014 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014)
 Alcohol and Drug Authority Amendment Act 2015 s. 15 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 83 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
+Coroners Amendment Act 2018 | 23 of 2018 | 21 Sep 2018 | s. 1 and 2: 21 Sep 2018 (see s. 2(a)); Act other than s. 1 and 2: 22 Sep 2018 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
