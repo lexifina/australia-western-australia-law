@@ -1,6 +1,6 @@
 ## Schedule 4 — Fees
 [bl. 7]
-[Heading inserted in Gazette 26 Jun 2018 p. 2378.]
+[Heading inserted: Gazette 26 Jun 2018 p. 2378.]
 Description of fee | Amount
 1.Non-refundable account establishment fee payable on the establishment or transfer of an account | $33.80
 2.Three phase residential installation — (a)new installation of three phase meter or replacement of single phase meter with three phase meter (b)installation of subsidiary three phase meter (each installation) | $235.04 $148.50
@@ -18,4 +18,4 @@ Description of fee | Amount
 10.A transaction fee where a consumer makes a payment to the corporation by means of a credit card or debit card | The permitted surcharge for the payment
 11. Paper bill fee | $1.27
 12. Over-the-counter payment fee | $2.10
-[Schedule 4 inserted in Gazette 26 Jun 2018 p. 2378-9.]
+[Schedule 4 inserted: Gazette 26 Jun 2018 p. 2378-9.]

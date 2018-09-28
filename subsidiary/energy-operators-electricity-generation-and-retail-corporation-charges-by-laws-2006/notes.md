@@ -25,6 +25,7 @@ Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amend
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2017 | 30 Jun 2017 p. 3564-6 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b)(i) and Gazette 27 Jun 2017 p. 3424)
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2018 | 16 Feb 2018 p. 469-70 | bl. 1 and 2: 16 Feb 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 17 Feb 2018 (see bl. 2(b))
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2018 | 26 Jun 2018 p. 2371-9 | bl. 1 and 2: 26 Jun 2018 (see bl. 2); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2)
+Reprint 4: The Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 as at 28 Sep 2018 (includes amendments listed above)
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 The Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016, (row 5 of the table in by-law 5) was disallowed by the Legislative Council on 22 Nov 2016 (see Gazette 6 Dec 2016 p. 5492).
 Defined terms
@@ -43,3 +44,4 @@ relevant period8(1)
 residential tariff3
 Tariff3
 unit3
+By Authority: KEVIN J. McRAE, Government Printer

@@ -1,8 +1,8 @@
 ## Schedule 2 — Unmetered supply
 [bl. 4(2) and (3)]
-[Heading inserted in Gazette 26 Jun 2018 p. 2376.]
+[Heading inserted: Gazette 26 Jun 2018 p. 2376.]
 ## Division 1 — Street lighting
-[Heading inserted in Gazette 26 Jun 2018 p. 2376.]
+[Heading inserted: Gazette 26 Jun 2018 p. 2376.]
 Item | Wattage | Type | Midnight Switch-off (Obsolescent) Cents per day | 1.15 a.m. Switch-off Cents per day | Dawn Switch-off Cents per day
 Street lighting on current offer and for existing services
 Z.01 | 50 | Mercury Vapour | 32.7338 | 33.4901 | 36.2736
@@ -32,6 +32,6 @@ Z.55 | 500 | Incandescent | 79.1375 | 82.2287 | 93.8371
 Z.56 | 40 | Fluorescent | 32.5011 | 33.2026 | 35.7780
 Z.57 | 80 | Fluorescent | 39.7906 | 40.6786 | 44.7566
 Z.58 | 160 | Fluorescent | 55.6580 | 56.4305 | 65.4738
-[Division 1 inserted in Gazette 26 Jun 2018 p. 2376-7.]
+[Division 1 inserted: Gazette 26 Jun 2018 p. 2376-7.]
 ## Division 2 — Miscellaneous
-[Heading inserted in Gazette 26 Jun 2018 p. 2377.]
+[Heading inserted: Gazette 26 Jun 2018 p. 2377.]
