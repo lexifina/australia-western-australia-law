@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Children’s Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 28 September 2018 of the Children’s Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Children’s Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1415-33 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -25,6 +25,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2
 Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 2 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 2 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
+Reprint 3: The Children’s Court (Fees) Regulations 2005 as at 28 Sep 2018 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
