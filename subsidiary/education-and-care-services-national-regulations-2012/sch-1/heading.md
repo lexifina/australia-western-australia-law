@@ -1,5 +1,5 @@
 ## Schedule 1 — National Quality Standard
-[Heading inserted in Gazette 23 Jan 2018 p. 251.]
+[Heading inserted: Gazette 23 Jan 2018 p. 251.]
 Notes for this Schedule:
 1.The National Quality Standard is used to assess education and care services to determine rating levels under Part 5 of the Law.
 2.The Regulatory Authority may suspend a service approval if an education and care service has operated at a rating level as not meeting the National Quality Standard and there has been no improvement in that rating level and a service waiver or temporary waiver does not apply to the service in relation to the non-compliance — see section 70(1)(d) of the Law.
@@ -128,4 +128,4 @@ Element 7.2.2 — Educational leadership
 The educational leader is supported and leads the development and implementation of the educational program and assessment and planning cycle.
 Element 7.2.3 — Development of professionals
 Educators’, co-ordinators’ and staff members’ performance is regularly evaluated and individual plans are in place to support learning and development.
-[Schedule 1 inserted in Gazette 23 Jan 2018 p. 251-7.]
+[Schedule 1 inserted: Gazette 23 Jan 2018 p. 251-7.]
