@@ -1,0 +1,7 @@
+### 188AC. Limitation on section 188AB(3)(b)
+(1) The power described in section 188AB(3)(b) to impose a fine, and the power of a court to impose a penalty for an offence under this Law as it applies in this, or another participating jurisdiction, cannot both be exercised in respect of an act or omission of a person that is substantially the same.
+(2) A fine that exceeds the relevant maximum fine cannot be imposed under section 188AB(3)(b).
+(3) In subsection (2) —
+relevant maximum fine means, if the fine is to be imposed in respect of an act or omission that constitutes an offence under this Law, the maximum fine that could be imposed by a court for that offence.
+Note:Section 188AC does not form part of the national law as set out in the Schedule to the Education and Care Services National Law Act 2010 (Victoria).
+[Section 188AC, formerly section 188C renumbered as section 188AC: No. 18 of 2018 s. 67; amended: No. 18 of 2018 s. 66.]

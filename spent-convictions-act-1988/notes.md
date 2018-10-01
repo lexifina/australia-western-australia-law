@@ -4,45 +4,45 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Spent Convictions Act 1988 | 55 of 1988 | 8 Dec 1988 | s. 1 and 2: 8 Dec 1988; Act other than s. 1 and 2: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644)
 Spent Convictions Amendment Act 1989 | 24 of 1989 | 8 Dec 1989 | 8 Dec 1989 (see s. 2)
-Spent Convictions Regulations 1992 published in Gazette 26 Jun 1992 p. 2715-22 | 1 Jul 1992 (see r. 2 and Gazette 26 Jun 1992 p. 2644)
+Spent Convictions Regulations 1992 published by Gazette 26 Jun 1992 p. 2715-22 | 1 Jul 1992 (see r. 2 and Gazette 26 Jun 1992 p. 2644)
 Reprint of the Spent Convictions Act 1988 as at 4 Nov 1992 (includes amendments listed above)
 Adoption Act 1994 s. 145 | 9 of 1994 | 15 Apr 1994 | 1 Jan 1995 (see s. 2 and Gazette 25 Nov 1994 p. 5905)
-Spent Convictions (Amendment of Act, Schedule 3) Regulations 1994 published in Gazette 12 Jul 1994 p. 3365-6 | 12 Jul 1994
+Spent Convictions (Amendment of Act, Schedule 3) Regulations 1994 published by Gazette 12 Jul 1994 p. 3365-6 | 12 Jul 1994
 Young Offenders Act 1994 s. 236 | 104 of 1994 | 11 Jan 1995 | 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
 Sentencing (Consequential Provisions) Act 1995 Pt. 74 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2(1) and Gazette 25 Oct 1996 p. 5632)
 Security and Related Activities (Control) Act 1996 s. 96 | 27 of 1996 | 22 Jul 1996 | 1 Apr 1997 (see s. 2 and Gazette 27 Mar 1997 p. 1693)
 Reprint of the Spent Convictions Act 1988 as at 19 Nov 1996 (includes amendments listed above except those in the Security and Related Activities (Control) Act 1996)
-Spent Convictions (Act Amendment) Regulations 1998 published in Gazette 27 Feb 1998 p. 1035 | 27 Feb 1998
+Spent Convictions (Act Amendment) Regulations 1998 published by Gazette 27 Feb 1998 p. 1035 | 27 Feb 1998
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 65 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
-Spent Convictions (Act Amendment) Regulations (No. 2) 1998 published in Gazette 5 May 1998 p. 2331 | 5 May 1998
-Spent Convictions (Act Amendment) Regulations (No. 3) 1998 published in Gazette 9 Oct 1998 p. 5593-4 | 9 Oct 1998
+Spent Convictions (Act Amendment) Regulations (No. 2) 1998 published by Gazette 5 May 1998 p. 2331 | 5 May 1998
+Spent Convictions (Act Amendment) Regulations (No. 3) 1998 published by Gazette 9 Oct 1998 p. 5593-4 | 9 Oct 1998
 School Education Act 1999 s. 247 | 36 of 1999 | 2 Nov 1999 | 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7904)
 Prisons Amendment Act 1999 s. 20 | 43 of 1999 | 8 Dec 1999 | 18 Dec 1999 (see s. 2(2) and Gazette 17 Dec 1999 p. 6175)
 Court Security and Custodial Services (Consequential Provisions) Act 1999 Pt. 11 | 47 of 1999 | 8 Dec 1999 | 18 Dec 1999 (see s. 2 and Gazette 17 Dec 1999 p. 6175-6)
-Spent Convictions (Act Amendment) Regulations 2000 published in Gazette 2 Jun 2000 p. 2667 | 2 Jun 2000
-Spent Convictions (Act Amendment) Regulations (No. 2) 2000 published in Gazette 28 Jul 2000 p. 4013 | 28 Jul 2000
-Reprint of the Spent Convictions Act 1988 as at 1 Sep 2000 (includes amendments listed above except those in the School Education Act 1999) (correction in Gazette 6 Oct 2000 p. 5591)
-Spent Convictions (Act Amendment) Regulations (No. 2) 2001 published in Gazette 17 Aug 2001 p. 4346 | 17 Aug 2001
-Spent Convictions (Act Amendment) Regulations (No. 3) 2001 published in Gazette 1 Feb 2002 p. 517 | 1 Feb 2002
+Spent Convictions (Act Amendment) Regulations 2000 published by Gazette 2 Jun 2000 p. 2667 | 2 Jun 2000
+Spent Convictions (Act Amendment) Regulations (No. 2) 2000 published by Gazette 28 Jul 2000 p. 4013 | 28 Jul 2000
+Reprint of the Spent Convictions Act 1988 as at 1 Sep 2000 (includes amendments listed above except those in the School Education Act 1999) (correction by Gazette 6 Oct 2000 p. 5591)
+Spent Convictions (Act Amendment) Regulations (No. 2) 2001 published by Gazette 17 Aug 2001 p. 4346 | 17 Aug 2001
+Spent Convictions (Act Amendment) Regulations (No. 3) 2001 published by Gazette 1 Feb 2002 p. 517 | 1 Feb 2002
 Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 (as amended by No. 78 of 2003 s. 35(13)) | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) | 50 of 2003 | 9 Jul 2003 | 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
 Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
-Spent Convictions (Act Amendment) Regulations 2003 published in Gazette 30 Dec 2003 p. 5726-7 | 30 Dec 2003
+Spent Convictions (Act Amendment) Regulations 2003 published by Gazette 30 Dec 2003 p. 5726-7 | 30 Dec 2003
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Spent Convictions (Act Amendment) Regulations 2004 published in Gazette 26 Nov 2004 p. 5312-13 | 26 Nov 2004
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Spent Convictions (Act Amendment) Regulations 2005 published in Gazette 31 May 2005 p. 2413-20 | 31 May 2005
+Spent Convictions (Act Amendment) Regulations 2004 published by Gazette 26 Nov 2004 p. 5312-13 | 26 Nov 2004
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
+Spent Convictions (Act Amendment) Regulations 2005 published by Gazette 31 May 2005 p. 2413-20 | 31 May 2005
 Reprint 4: The Spent Convictions Act 1988 as at 8 Jul 2005 (includes amendments listed above)
-Spent Convictions (Act Amendment) Regulations (No. 2) 2005 published in Gazette 4 Nov 2005 p. 5319-20 | 4 Nov 2005
+Spent Convictions (Act Amendment) Regulations (No. 2) 2005 published by Gazette 4 Nov 2005 p. 5319-20 | 4 Nov 2005
 Parole and Sentencing Legislation Amendment Act 2006 s. 96 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
-Spent Convictions (Act Amendment) Regulations 2006 published in Gazette 24 Oct 2006 p. 4491-2 | 24 Oct 2006
+Spent Convictions (Act Amendment) Regulations 2006 published by Gazette 24 Oct 2006 p. 4491-2 | 24 Oct 2006
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 11 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
 Reprint 5: The Spent Convictions Act 1988 as at 1 Jun 2007 (includes amendments listed above)
 Police Amendment Act 2008 s. 19 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 Security and Related Activities (Control) Amendment Act 2008 s. 82 | 4 of 2008 | 2 Apr 2008 | 13 Dec 2009 (see s. 2(b) and Gazette 4 Dec 2009 p. 4919)
-Spent Convictions (Act Amendment) Regulations 2009 published in Gazette 18 Aug 2009 p. 3238-9 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
+Spent Convictions (Act Amendment) Regulations 2009 published by Gazette 18 Aug 2009 p. 3238-9 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
 Police Amendment Act 2009 s. 23 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
-Spent Convictions (Act Amendment) Regulations (No. 2) 2009 published in Gazette 29 Jan 2010 p. 197-9 | r. 1 and 2: 29 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2010 (see r. 2(b))
+Spent Convictions (Act Amendment) Regulations (No. 2) 2009 published by Gazette 29 Jan 2010 p. 197-9 | r. 1 and 2: 29 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2010 (see r. 2(b))
 Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 3 | 7 of 2010 | 27 May 2010 | 6 Oct 2010 (see s. 2(b) and Gazette 5 Oct 2010 p. 5113)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Cannabis Law Reform Act 2010 Pt. 4 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
@@ -50,18 +50,15 @@ Reprint 6: The Spent Convictions Act 1988 as at 5 Aug 2011 (includes amendments 
 Misuse of Drugs Amendment Act 2011 Pt. 4 | 56 of 2011 | 21 Nov 2011 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 324-5)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
-Spent Convictions (Act Amendment) Regulations 2013 published in Gazette 17 May 2013 p. 1984 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
+Spent Convictions (Act Amendment) Regulations 2013 published by Gazette 17 May 2013 p. 1984 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 22 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
-Spent Convictions (Act Amendment) Regulations 2014 published in Gazette 6 Mar 2015 p. 815-16 | r. 1 and 2: 6 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2015 (see r. 2(b))
+Spent Convictions (Act Amendment) Regulations 2014 published by Gazette 6 Mar 2015 p. 815-16 | r. 1 and 2: 6 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2015 (see r. 2(b))
 Alcohol and Drug Authority Amendment Act 2015 s. 18 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Reprint 7: The Spent Convictions Act 1988 as at 23 Oct 2015 (includes amendments listed above)
 Health Services Act 2016 s. 303 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 26 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 24 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Education and Care Services National Law (WA) Amendment Act 2018 Pt. 3 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
@@ -70,14 +67,6 @@ Repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
 The Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32(4).
 The Machinery of Government (Miscellaneous Amendment) Act 2006 Pt. 3 Div. 5 had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(4).
-On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Amendment Act 2018 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Spent Convictions Act 1988 amended
-91.Act amended
-This Part amends the Spent Convictions Act 1988.
-92.Schedule 3 amended
-In Schedule 3 clause 1(5) in the Table delete item 6A and insert:
-6A.A person who — (a)holds, or is applying for, a provider approval under the Education and Care Services National Law (Western Australia); or | Sections 18, 20 and 22 and Division 4
-(b)has, or will have, management or control of an education and care service operated, or to be operated, by a person that — (i)is not an individual; and (ii)holds, or is applying for, a provider approval under the Education and Care Services National Law (Western Australia).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

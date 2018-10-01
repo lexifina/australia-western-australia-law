@@ -20,12 +20,12 @@ Compilation table
  | Misuse of Drugs Amendment Act 2011 Pt. 5 | 56 of 2011 | 21 Nov 2011 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 324-5)
  | Reprint 3: The Working with Children (Criminal Record Checking) Act 2004 as at 17 Feb 2012 (includes amendments listed above except those in the Misuse of Drugs Amendment Act 2011)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 9 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
+Education and Care Services National Law (WA) Amendment Act 2018 Pt. 4 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Education and Care Services National Law (WA) Amendment Act 2018 Pt. 4 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
 Historical Homosexual Convictions Expungement Act 2018 Pt. 5 | 20 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
@@ -68,7 +68,7 @@ s. 17(1) and (3) | s. 38(2), (3) and (4)
 s. 18(1) and (2) | s. 42(2)
 s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
-3On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
 35.Working with Children (Criminal Record Checking) Act 2004 amended
 (1) The amendments in this section are to the Working with Children (Criminal Record Checking) Act 2004.
 (2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
@@ -76,13 +76,7 @@ Sexual Services Act 2000
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
-On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Amendment Act 2018 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Working with Children (Criminal Record Checking) Act 2004 amended
-93.Act amended
-This Part amends the Working with Children (Criminal Record Checking) Act 2004.
-94.Section 38 amended
-In section 38(3)(b)(ii) delete “a certified supervisor, a nominated supervisor or a person with management or control,” and insert:
-a nominated supervisor or a person with management or control
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Historical Homosexual Convictions Expungement Act 2018 Pt. 5 had not come into operation. It reads as follows:
 Part 5 — Working with Children (Criminal Record Checking) Act 2004 amended
 32.Section 4 amended
