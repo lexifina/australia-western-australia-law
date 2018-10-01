@@ -41,4 +41,4 @@ and in the case of interruptions referred to in paragraph (a), the number of int
 (a) the year to which the report relates; and
 (b) the 3 years referred to in item 12.
 [14-15.deleted]
-[Schedule 1 amended in Gazette 2 May 2017 p. 2291.]
+[Schedule 1 amended: Gazette 2 May 2017 p. 2291.]
