@@ -1,6 +1,6 @@
 ## Schedule 20 — Other fees
 [r. 27]
-[Heading inserted in Gazette 15 Jun 2018 p. 2026.]
+[Heading inserted by Gazette 15 Jun 2018 p. 2026.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
 1. | Application under section 22(1) of the Act | 101.50 | 204.00 | 30.40
 2. | For a copy of a document, for each page or part of a page | 1.45 | 1.45 | 0.45
@@ -19,4 +19,4 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
 6. | For searching the register of proceedings other than a search made by or on behalf of a party to the application of that part of the register applicable to the application | 22.30 | 22.30 | 6.65
 7. | For searching any proceeding or record other than a search made by or on behalf of a party to the application | 49.60 | 49.60 | 14.85
 8. | For sealing a summons to a witness | 40.90 | 40.90 | 12.25
-[Schedule 20 inserted in Gazette 15 Jun 2018 p. 2026-8.]
+[Schedule 20 inserted by Gazette 15 Jun 2018 p. 2026-8.]
