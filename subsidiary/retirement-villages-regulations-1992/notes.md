@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2017 of the Retirement Villages Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Retirement Villages Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Retirement Villages Regulations 1992 | 10 Jul 1992 p. 3191-8 | 10 Jul 1992 (see r. 2 and Gazette 10 Jul 1992 p. 3185)
@@ -14,6 +14,7 @@ Retirement Villages Amendment Regulations 2016 | 23 Mar 2016 p. 861-924 | r. 1 a
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 18 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Retirement Villages Regulations Amendment Regulations 2016 Pt. 3 | 30 Jun 2016 p. 2713-34 | 1 Jul 2016 (see r. 2(b))
 Reprint 2: The Retirement Villages Regulations 1992 as at 3 Feb 2017 (includes amendments listed above)
+Retirement Villages Amendment Regulations (No 2) 2018 | 28 Sep 2018 p. 3719-20 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
 (2) Despite subregulation (1), if the owner of a retirement village is required, under section 13(2) of the Retirement Villages Act 1992, to give a statement containing information prescribed by regulation 4 of the Retirement Villages Regulations 1992, between 1 October 2003 and 31 December 2003 (inclusive), the owner satisfies the requirements of section 13(2) if either —
 (a) the form inserted by subregulation (1); or
