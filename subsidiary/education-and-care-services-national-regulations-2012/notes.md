@@ -13,6 +13,7 @@ Education and Care Services National Amendment Regulations (No. 2) 2015 | 3 Jul 
 Education and Care Services National Amendment Regulations 2017 | 3 Nov 2017 p. 5481-5 | r. 1 and 2: 3 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2017 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2018 | 23 Jan 2018 p. 247-58 | 1 Feb 2018 (see r. 2(b)(i))
 Education and Care Services National Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2358-9 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
+Education and Care Services National Amendment Regulations (No. 3) 2018 | 28 Sep 2018 p. 3601-58 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
 The short title of this Act was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -41,6 +42,7 @@ criminal history record check4(1)
 criminal history statement4(1)
 diagnosed as at risk of anaphylaxis4(1)
 disciplinary proceedings statement4(1)
+early childhood service162
 early childhood teacher4(1)
 educational program4(1), 73(1)
 emergency4(1), 123(1A)
@@ -60,6 +62,7 @@ occupancy permit4(1)
 overseas criminal history statement4(1)
 parenting order160(4)
 parenting plan160(4)
+person in day-to-day charge117A
 planning and development law4(1)
 planning permit4(1)
 pre-kindergarten programme368
@@ -83,11 +86,10 @@ relevant year235(2)
 remote area239A(5)
 renovate4(1)
 responsible person4(1)
-safety screening clearance4(1)
 scheme commencement day4(1)
 school368
 secondary programme368
-serious incident4(1)
+serious incident4(1), 12
 soil assessment4(1)
 State collecting institution216
 suitably qualified person4(1)
