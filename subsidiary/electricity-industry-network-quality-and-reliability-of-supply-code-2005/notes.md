@@ -8,6 +8,7 @@ Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 
 Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2009 | 27 Nov 2009 p. 4781-3 | s. 1 and 2: 27 Nov 2009 (see s. 2(a)); Code other than s. 1 and 2: 28 Nov 2009 (see s. 2(b))
 Reprint 1: The Electricity Industry (Network Quality and Reliability of Supply) Code 2005 as at 23 Jul 2010 (includes amendments listed above)
 Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2017 | 2 May 2017 p. 2287-91 | s. 1 and 2: 2 May 2017 (see s. 2(a)); Code other than s. 1, 2 and 8-14: 3 May 2017 (see s. 2(c)); s. 8-14: 1 Jul 2017 (see s. 2(b))
+Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2018 | 25 Sep 2018 p. 3568-9 | 1 Oct 2018 (see s. 2)
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -21,11 +22,14 @@ customer3(1), 11(1A), 11A(1)
 customer premises13(1), Sch. 1
 customer’s electrical installations3(1)
 distributor3(1)
+Eastern Goldfields3(1)
 eligible person16
 emergency operating state16
+essential services13A(2)
 interruption3(1)
 isolated systemSch. 1
 network3(1)
+North Country3(1)
 North West interconnected systemSch. 1
 permitted number of times12(1)
 Perth CBD3(1)
