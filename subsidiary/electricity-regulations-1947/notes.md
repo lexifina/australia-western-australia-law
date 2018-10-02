@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 October 2016 of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Act Regulations 1947 | 27 Jun 1947 p. 1156-94 | 27 Jun 1947
@@ -66,6 +66,10 @@ Electricity Amendment Regulations 2015 | 14 Apr 2015 p. 1324 | r. 1 and 2: 14 Ap
 Electricity (Network Safety) Regulations 2015 r. 44 | 5 Aug 2015 p. 3141-96 | 6 Aug 2015 (see r. 2(b))
 Electricity Amendment Regulations (No. 2) 2015 | 5 Jan 2016 p. 3 | r. 1 and 2: 5 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jan 2016 (see r. 2(b))
 Reprint 7: The Electricity Regulations 1947 as at 21 Oct 2016 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Electricity Amendment Regulations 2018 Pt. 2 | 2 Oct 2018 p. 3784-92 | 1 Jan 2019 (see r. 2(b))
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
@@ -77,6 +81,158 @@ Regulation 278 disallowed on 22 Sep 1948, see Gazette 1 Oct 1948 p. 2375 and 25 
 The commencement date of 1 Jun 1979 that was specified was before the date of gazettal.
 The headings before r. 238-277, 279 and 321-341 were deleted by the Electricity Amendment Regulations 2000, see Gazette 30 May 2000 p. 2571-2.
 The amendment in the Electricity Amendment Regulations (No. 2) 2007 r. 3 is not included because the regulation it sought to amend had been deleted before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Electricity Amendment Regulations 2018 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Electricity Regulations 1947 amended
+3.Regulations amended
+This Part amends the Electricity Regulations 1947.
+4.Regulation 2 replaced
+Delete regulation 2 and insert:
+2.Terms used
+In these regulations, unless the contrary intention appears —
+active conductor means —
+(a)in a system that includes a neutral conductor — a conductor in the system maintained at a difference of potential from the neutral conductor; and
+(b)in a system that does not include a neutral conductor — any conductor in the system;
+appliance means a consuming device, other than a lamp, in which electricity is —
+(a)converted into heat, motion or other form of energy; or
+(b)substantially changed in its electrical character;
+conductor means a wire or other form of conducting material suitable for carrying current except where the wire or material is directly employed in converting electrical energy into another form;
+electrical equipment means any of the following when used for the generation, conversion, storage, transmission, distribution or utilisation of electrical energy —
+(a)wiring systems;
+(b)switchgear;
+(c)controlgear;
+(d)accessories;
+(e)appliances;
+(f)luminaires;
+(g)fittings;
+neutral conductor means —
+(a)the conductor of a 3-phase system that is maintained at an intermediate and approximately uniform potential in respect of the active conductors; or
+(b)the conductor of a single-phase system that is connected to earth at its origin.
+5.Regulation 12 amended
+(1) In regulation 12 delete the definitions of:
+commencement day
+installed
+(2) In regulation 12 insert in alphabetical order:
+building permit has the meaning given in the Building Act 2011 section 3;
+premises does not include a transportable structure or vehicle;
+properly installed, in relation to residential premises or common property relating to residential premises, means —
+(a)installed in accordance with regulation 12A in relation to those premises or that property; and
+(b)not installed in relation to any other premises or property;
+residual current device means a device designed to isolate supply to protected circuits, socket outlets or electrical equipment in the event of a current flow to earth that exceeds a particular value;
+(3) In regulation 12 in the definition of common property delete paragraph (b) and insert:
+(b)if those premises and other residential premises are situated on the same lot as defined in the Planning and Development Act 2005 section 4(1), or on 2 or more contiguous lots — means all the areas of the lot or lots that do not comprise or form part of any residential premises;
+(4) In regulation 12 in the definition of residential premises after “of residence” insert:
+or accommodation, whether short or long-term,
+6.Regulation 12A inserted
+After regulation 12 insert:
+12A.Installation of residual current devices
+(1) In this regulation —
+final subcircuit means a final subcircuit to which a socket outlet, lighting point or directly-connected hand-held appliance is connected.
+(2) Residual current devices are installed in accordance with this regulation in relation to residential premises, or common property relating to residential premises, if all of the following apply —
+(a) the number of residual current devices installed on the premises is at least —
+(i) 1, if the premises have 1 final subcircuit; and
+(ii) 2, if the premises have more than 1 final subcircuit;
+(b) if 2 or more residual current devices are installed on the premises, lighting points connected to final subcircuits are distributed between the devices;
+(c) each residual current device complies with AS/NZS 3190:2016 Approval and test specification — Residual current devices (current-operated earth-leakage devices);
+(d) each residual current device has a maximum rated residual current of 30 mA;
+(e) each residual current device protects not more than 3 final subcircuits;
+(f) each residual current device is installed at the switchboard at which each final subcircuit protected by it originates.
+7.Regulation 13 amended
+In regulation 13 delete “at least 2 residual current devices are” and insert:
+residual current devices are properly
+8.Regulation 14 amended
+(1) In regulation 14 delete “at least 2 residual current devices are” and insert:
+residual current devices are properly
+(2) In regulation 14(b) delete “the commencement day; or” and insert:
+9 August 2009; or
+(3) Delete regulation 14(c) and (d) and insert:
+(c) before the completion of any building works on the premises, if those works require the grant of a building permit.
+9.Regulation 15A amended
+In regulation 15A(2) delete “at least 2 residual current devices are” and insert:
+residual current devices are properly
+10.Regulation 15 replaced
+Delete regulation 15 and insert:
+15.Common property relating to residential premises
+Subject to any exemption under regulation 18, an owner of common property relating to residential premises must ensure that residual current devices are properly installed in relation to the common property.
+Penalty:
+(a)in the case of an individual — a fine of $15 000;
+(b)in the case of a body corporate — a fine of $100 000.
+11.Regulation 16 amended
+(1) In regulation 16(1) after “new owner” insert:
+of the transferred residential premises
+(2) Delete regulation 16(2) and insert:
+(2) It is a defence to a charge of an offence under regulation 15 for the person charged to prove that the person had, before the charge was laid, arranged for the demolition of the premises.
+12.Regulation 17 inserted
+After regulation 16 insert:
+17.Transportable structures or vehicles used for accommodation
+Subject to any exemption under regulation 18, an owner of a transportable structure or vehicle that constitutes or is intended to constitute a place of residence or accommodation, whether short or long-term, must ensure that at least 1 residual current device is installed in relation to the structure or vehicle in accordance with AS/NZS 3001:2008 Electrical installations — Transportable structures and vehicles including their site supplies.
+Penalty:
+(a)in the case of an individual — a fine of $15 000;
+(b)in the case of a body corporate — a fine of $100 000.
+13.Regulation 18 amended
+(1) In regulation 18(1):
+(a) after “premises” insert:
+or a transportable structure or vehicle
+(b) delete “14 or 15,” and insert:
+14, 15 or 17,
+(2) In regulation 18(2)(a) delete “14 or 15,” and insert:
+14, 15 or 17,
+14.Regulation 241 amended
+In regulation 241(1) insert in alphabetical order:
+fuse means a device to protect a circuit against damage from an excessive current by opening the circuit when the current melts an element in the device;
+15.Regulation 243 amended
+In regulation 243(1), (2), (3) and (4)(a) after “neutral” insert:
+conductor
+Note:The heading to amended regulation 243 is to read:
+Voltage on neutral conductor
+16.Regulation 257 replaced
+Delete regulation 257 and insert:
+257.Supply to premises requiring transformers
+(1) If a network operator considers it necessary to install transformers in relation to premises, the owner of the premises must —
+(a) at the site where the transformers are installed, provide the following —
+(i) an accessible space, to the satisfaction of the network operator, for electrical equipment;
+(ii) an enclosure, to the satisfaction of the network operator, for the protection of electrical equipment against external influences and contact with live parts;
+and
+(b) ensure that circuit breakers and fuses on the premises have a fault rating to the satisfaction of the network operator.
+Penalty for this subregulation:
+(a)in the case of an individual — a fine of $50 000;
+(b)in the case of a body corporate — a fine of $250 000.
+(2) The network operator may use electrical equipment referred to in subregulation (1) for the supply of electricity to consumers other than the occupier of the premises.
+17.Regulation 316A amended
+(1) Before regulation 316A(1) insert:
+(1A) In this regulation —
+conductor includes any of the following —
+(a)an active conductor;
+(b)a neutral conductor;
+(c)a catenary supported conductor;
+(d)a neutral screened conductor;
+(e)a stranded conductor (whether bundled or not) that is supported by insulators or purpose-designed fittings so that it remains above the ground and is directly exposed to the weather;
+overhead power lines means overhead lines for the transmission of electrical energy.
+(1B) In this regulation —
+(a)a reference to performing work includes a reference to assisting to perform work; and
+(b)performing work in the course of employment is to be regarded as being for reward; and
+(c)vegetation control work is performed within a danger zone if any part of the following comes within the danger zone at any time while the work is being performed —
+(i)the vegetation;
+(ii)the body of, or any tool, vehicle, or other equipment used by, a person performing the work.
+(2) Delete regulation 316A(5).
+18.Regulation 321 amended
+In regulation 321 delete the definition of published specification and insert:
+published specification means the relevant Approval and Test Specification published by Standards Australia and which is that relating to prescribed appliances which are prescribed in a notification published in the Gazette by direction of the Director by reference to the following —
+(a)the classification letters, numbers, month (if any) and year of publication or title of Approval and Test Specifications published by Standards Australia;
+(b)any amendment of the Approval and Test Specifications published by Standards Australia;
+(c)any part of the Approval and Test Specifications or any amendment thereof published by Standards Australia.
+19.Schedule 1 amended
+(1) In Schedule 1 Table 2:
+(a) in the items relating to r. 13, r. 14 and r. 15A delete “at least 2 residual current devices are” and insert:
+residual current devices are properly
+(b) in the item relating to r. 15 delete “at least one residual current device is installed before 9 August 2011” and insert:
+residual current devices are properly installed in relation to the common property
+(2) In Schedule 1 Table 3:
+(a) in the item relating to r. 28(1) & 65 delete “address” and insert:
+contact details
+(b) after the item relating to r. 35 insert:
+r. 37(1) | Carrying out any in-house electrical installing work without a qualified employee or a licence | $1 250 | $5 000
+(c) after the item relating to r. 45(2) & 65 insert:
+r. 47C | Failing to notify nominees of cancellation or suspension of licence | $1 250 | $5 000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
