@@ -12,6 +12,7 @@ Gas Standards (Gas Supply and System Safety) Amendment Regulations (No. 2) 2009 
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2010 Pt. 2 | 15 Oct 2010 p. 5172-5 | 16 Oct 2010 (see r. 2(b))
 Reprint 2: The Gas Standards (Gas Supply and System Safety) Regulations 2000 as at 4 May 2012 (includes amendments listed above)
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2016 | 11 Oct 2016 p. 4532-6 | r. 1 and 2: 11 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2016 (see r. 2(b))
+Gas Standards (Gas Supply and System Safety) Amendment Regulations 2018 | 2 Oct 2018 p. 3782-3 | r. 1 and 2: 2 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
