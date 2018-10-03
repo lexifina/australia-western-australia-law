@@ -17,7 +17,7 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 83 and 87(7) | 74 of 2003 | 
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115 | 51 of 2004 | 12 Nov 2004 | 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000)
 Mines Safety and Inspection Amendment Act 2004 -10 | 68 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1 and 2: 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000 and Gazette 11 Feb 2005 p. 695)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Mines Safety and Inspection Act 1994 as at 10 Jun 2005 (includes amendments listed above except those in the Dangerous Goods Safety Act 2004)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Mines Safety and Inspection Amendment Act 2008 | 16 of 2008 | 16 Apr 2008 | s. 1 and 2: 16 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 17 Apr 2008 (see s. 2(b))
@@ -33,10 +33,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 Mines Safety and Inspection Amendment Act 2014 Pt. 2 | 33 of 2014 | 3 Dec 2014 | 6 Jun 2015 (see s. 2(b) and Gazette 5 Jun 2015 p. 1971)
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 Reprint 6: The Mines Safety and Inspection Act 1994 as at 22 Jan 2016 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Mines Safety and Inspection Amendment Act 2018 s. 3 and 4 | 17 of 2018 | 7 Sep 2018 | To be proclaimed (see s. 2(b))
+Mines Safety and Inspection Amendment Act 2018 | 17 of 2018 | 7 Sep 2018 | s. 1 and 2: 7 Sep 2018 (see s. 2(a)); Act other than s. 1 and 2: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3780)
 The Industrial Relations Act 1988 (Commonwealth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
@@ -70,44 +67,6 @@ The Mines Safety and Inspection Amendment Act 2004 s. 85(2) reads as follows:
 (2) An appeal brought under section 52 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
 The Mines Safety and Inspection Amendment Act 2004 s. 86(2) reads as follows:
 (2) An appeal brought under section 86 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
-On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Act 2018 s. 3 and 4 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Mines Safety and Inspection Act 1994.
-4.Various penalties amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-s. 4A(1)(a)(i) | $5 000 | $50 000
-s. 4A(1)(a)(ii) | $6 250 | $60 000
-s. 4A(1)(b)(i)(I) | $25 000 | $100 000
-s. 4A(1)(b)(i)(II) | $31 250 | $120 000
-s. 4A(1)(b)(ii)(I) | $50 000 | $450 000
-s. 4A(1)(b)(ii)(II) | $62 500 | $570 000
-s. 4A(2)(a)(i) | $100 000 | $250 000
-s. 4A(2)(a)(ii) | $125 000 | $350 000
-s. 4A(2)(b)(i) | $200 000 | $1 500 000
-s. 4A(2)(b)(ii) | $250 000 | $1 800 000
-s. 4A(3)(a)(i) | $200 000 | $400 000
-s. 4A(3)(a)(ii) | $250 000 | $500 000
-s. 4A(3)(b)(i) | $400 000 | $2 000 000
-s. 4A(3)(b)(ii) | $500 000 | $2 500 000
-s. 4A(4)(a)(i) | $250 000 and imprisonment for 2 years | $550 000 and imprisonment for 5 years
-s. 4A(4)(a)(ii) | $312 500 and imprisonment for 2 years | $680 000 and imprisonment for 5 years
-s. 4A(4)(b)(i) | $500 000 | $2 700 000
-s. 4A(4)(b)(ii) | $625 000 | $3 500 000
-s. 10A(1)(a) | $25 000 | $100 000
-s. 10A(1)(b) | $31 250 | $120 000
-s. 10A(2)(c) | $20 000 | $80 000
-s. 10A(2)(d) | $25 000 | $100 000
-s. 10A(3)(c) | $10 000 | $40 000
-s. 10A(3)(d) | $12 500 | $50 000
-s. 11(4) | $10 000 | $40 000
-s. 21(5) | $25 000 $5 000 | $100 000 $20 000
-s. 23(3) | $25 000 $5 000 | $100 000 $20 000
-s. 26(3) | $10 000 | $40 000
-s. 95(2)(a) | $200 | $800
-s. 95(2)(b) | $1 000 | $4 000
-s. 95(2)(c) | $2 000 | $8 000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
