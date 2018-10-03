@@ -1,6 +1,6 @@
 ## Schedule 1 — Subject matter for regulations
 [s. 60(5)]
-[Heading inserted by No. 36 of 2009 s. 16.]
+[Heading inserted: No. 36 of 2009 s. 16.]
 1.Safety and health standards or procedures to be complied with —
 (a)at any workplace; or
 (b)in the performance of any work; or
@@ -58,4 +58,4 @@ of plant used at a workplace.
 29.The recovery of fees under this Act.
 30.Standards in relation to the use of any physical, biological, chemical or psychological hazard (including standards concerning exposure to any of those hazards).
 31.The approval of laboratories for the analysis of samples taken under this Act and the conduct of tests for the purposes of this Act.
-[Schedule 1, formerly Schedule, inserted by No. 43 of 1987 s. 18; amended by No. 30 of 1995 s. 46 and 47; No. 51 of 2004 s. 13, 57, 69(4), 101 and 114; renumbered as Schedule 1 by No. 36 of 2009 s. 16.]
+[Schedule 1, formerly Schedule, inserted: No. 43 of 1987 s. 18; amended: No. 30 of 1995 s. 46 and 47; No. 51 of 2004 s. 13, 57, 69(4), 101 and 114; renumbered as Schedule 1: No. 36 of 2009 s. 16.]
