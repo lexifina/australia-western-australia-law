@@ -1,6 +1,6 @@
 ## Schedule 2 — Forms
 [r. 9(2) and 9(3)]
-[Heading inserted in Gazette 21 Apr 2006 p. 1577.]
+[Heading inserted: Gazette 21 Apr 2006 p. 1577.]
 Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999, reg. 9(2) Summons to attend before the Director | Form 1
 Person summonsed | Name:
 Address:
@@ -14,7 +14,7 @@ Reason for proceedings | The proceedings are being held because:
 Person issuing summons | Name:
 Office:
 Signature:Date:
-[Form 1 inserted in Gazette 21 Apr 2006 p. 1577.]
+[Form 1 inserted: Gazette 21 Apr 2006 p. 1577.]
  | Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999, reg. 9(3) Summons to give evidence at proceedings | Form 2
  | Person summonsed | Name:
  | Address:
@@ -30,4 +30,4 @@ Documents to be produced (if any)
 Person issuing summons | Name:
 Office:
 Signature:Date:
-[Form 2 inserted in Gazette 21 Apr 2006 p. 1578.]
+[Form 2 inserted: Gazette 21 Apr 2006 p. 1578.]

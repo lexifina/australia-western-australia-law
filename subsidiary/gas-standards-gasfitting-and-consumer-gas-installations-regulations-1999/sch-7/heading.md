@@ -1,6 +1,6 @@
 ## Schedule 7 — Standards containing requirements for consumers’ gas installations
 [r. 32(1)(b)]
-[Heading inserted in Gazette 26 Nov 2010 p. 5933.]
+[Heading inserted: Gazette 26 Nov 2010 p. 5933.]
 Item | Title | Standard
 1. | Gas installations | AS/NZS 5601
 2. | Industrial and commercial gas-fired appliances | AS 3814
@@ -19,4 +19,4 @@ Item | Title | Standard
 15. | Pressure piping | AS 4041
 16. | Approval and test specification — General requirements for electrical equipment | AS/NZS 3100
 17. | Household and similar electrical appliances — Safety Part 2.102: Particular requirements for gas, oil and solid fuel burning appliances having electrical connections | AS/NZS 60335-2-102
-[Schedule 7 inserted in Gazette 26 Nov 2010 p. 5933-4; amended in Gazette 18 Jan 2011 p. 147.]
+[Schedule 7 inserted: Gazette 26 Nov 2010 p. 5933-4; amended: Gazette 18 Jan 2011 p. 147.]
