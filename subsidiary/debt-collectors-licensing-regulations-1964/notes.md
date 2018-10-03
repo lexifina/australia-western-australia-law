@@ -36,9 +36,10 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 7 | 3 Jun
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Licensing Provisions Regulations Amendment Regulations 2017 Pt. 3 | 27 Jun 2017 p. 3408-16 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
+Commerce and Industrial Relations Regulations Amendment (Administration) Regulations 2018 Pt. 2 | 2 Oct 2018 p. 3794-6 | 3 Oct 2018 (see r. 2(b))
 Under the Consumer Affairs Act 1971 s. 4(3), references, however expressed, in any other Act or in any regulation, notice, proclamation, or statutory instrument of any kind made, published or in force under that or any other Act to the Commissioner for Consumer Protection are, unless the context requires otherwise, read and construed as references to the Commissioner for Fair Trading as defined by the Consumer Affairs Act 1971.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 151(5) provides that a reference to the Commissioner for Fair Trading is to have effect as if it had been amended to be a reference to the Commissioner as defined by the Consumer Affairs Act 1971.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
+Footnote no longer applicable.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

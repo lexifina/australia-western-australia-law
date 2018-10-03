@@ -1,6 +1,6 @@
 ## Schedule 1 — Forms
 [r. 3]
-[Heading inserted in Gazette 22 Sep 2006 p. 4110.]
+[Heading inserted: Gazette 22 Sep 2006 p. 4110.]
 Form 1
 Employment Agents Act 1976
 APPLICATION FOR A GENERAL LICENCE
@@ -21,7 +21,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever not applicable. † Delete if not applicable.
-[Form 1 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
+[Form 1 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
 Form 2
 Employment Agents Act 1976
 APPLICATION FOR A RESTRICTED LICENCE
@@ -42,7 +42,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever inapplicable. † Delete if not applicable.
-[Form 2 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
+[Form 2 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
 Form 3
 Employment Agents Act 1976
 APPLICATION FOR AN INTERIM LICENCE
@@ -64,7 +64,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever inapplicable. † Delete if not applicable.
-[Form 3 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
+[Form 3 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
 Form 4
 Employment Agents Act 1976
 APPLICATION FOR A DUPLICATE LICENCE
@@ -77,7 +77,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever inapplicable. † Delete if not applicable.
-[Form 4 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 4 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
 Form 5
 Employment Agents Act 1976
 APPLICATION FOR TRANSFER OF LICENCE
@@ -99,7 +99,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever inapplicable. † Delete if not applicable.
-[Form 5 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
+[Form 5 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
 Form 6
 Employment Agents Act 1976
 APPLICATION FOR A RENEWAL OF LICENCE
@@ -111,7 +111,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever not applicable.
-[Form 6 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 6 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
 Form 7
 Employment Agents Act 1976
 GENERAL LICENCE
@@ -119,7 +119,7 @@ This is to certify that ........................................................
 Date of issue: ........................................ Date of expiry: ......................................
 ................................................................ Commissioner for Consumer Protection.
 † Delete if not applicable.
-[Form 7 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 7 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
 Form 8
 Employment Agents Act 1976
 RESTRICTED LICENCE
@@ -127,22 +127,22 @@ This is to certify that ........................................................
 Date of issue: ........................................ Date of expiry: ......................................
 ................................................................ Commissioner for Consumer Protection.
 † Delete if not applicable.
-[Form 8 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 8 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
 Form 9
 Employment Agents Act 1976
 INTERIM LICENCE
 This is to certify that .............................................................................................. ........................................................ trading as ....................................................... of ............................................................................................................................ is licensed to carry on business as an employment agent on behalf of .................. ................................................................................................................................. at the following places of business for a period of ................................................ ..................................................................... subject to the conditions, limitations and restrictions set out in the licence issued to ...................................................... ................................................................................................................................. ................................................................................................................................. and to the following conditions, limitations and restrictions: ................................ ................................................................................................................................. .................................................................................................................................
 Date of issue: ........................................ Date of expiry: ......................................
 ................................................................ Commissioner for Consumer Protection.
-[Form 9 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 9 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
 Form 10
 TRANSFER ENDORSEMENT
 This licence is transferred to .................................................................................. ........................................................ trading as .................................. *who/which shall henceforth have the sole right to use and exercise the same subject to the Act.
 Dated the ..................................... day of .................................................... 20......
 ................................................................ Commissioner for Consumer Protection.
 * Delete whichever is not applicable.
-[Form 10 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
-[Form 11 deleted in Gazette 18 Nov 2014 p. 4317.]
+[Form 10 amended: Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 11 deleted: Gazette 18 Nov 2014 p. 4317.]
 Form 12 Employment Agents Act 1976 REGISTER OF EMPLOYMENT AGENTS Business Name Address of Principal Place of Business Address of Other Places of Business | Cancellation or Surrender | Date
 S
 C
@@ -172,8 +172,8 @@ Officer issuing notice | Name
 Signature
 Office
 Date | Date of notice //20
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Employment Agents Act 1976’) to: Approved Officer — Employment Agents Act 1976 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection [street address to be inserted] If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here ____________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
-[Form 13 inserted in Gazette 22 Sep 2006 p. 4110; amended in Gazette 20 August 2013 p. 3830; 18 Nov 2014 p. 4317.]
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Employment Agents Act 1976’) to: Approved Officer — Employment Agents Act 1976 Department of Mines, Industry Regulation and Safety Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Mines, Industry Regulation and Safety [street address to be inserted] If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here ____________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
+[Form 13 inserted: Gazette 22 Sep 2006 p. 4110; amended: Gazette 20 August 2013 p. 3830; 18 Nov 2014 p. 4317; 2 Oct 2018 p. 3795.]
 Form 14
 Employment Agents Act 1976 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
@@ -189,5 +189,5 @@ Officer withdrawing notice | Name
 Signature
 Office
 Date | Date of withdrawal //20
-Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Employment Agents Act 1976 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
-[Form 14 inserted in Gazette 22 Sep 2006 p. 4111.]
+Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Employment Agents Act 1976 Department of Mines, Industry Regulation and Safety Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
+[Form 14 inserted: Gazette 22 Sep 2006 p. 4111; amended: Gazette 2 Oct 2018 p. 3795.]
