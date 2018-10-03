@@ -13,4 +13,4 @@ The Common Seal of
 was hereunto affixed
 pursuant, etc.,
 in the presence of:
-[Second Schedule amended in Gazette 30 Dec 2004 p. 6917; 22 Sep 2006 p. 4104.]
+[Second Schedule amended: Gazette 30 Dec 2004 p. 6917; 22 Sep 2006 p. 4104.]
