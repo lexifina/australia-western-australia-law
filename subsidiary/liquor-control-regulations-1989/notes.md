@@ -142,10 +142,12 @@ Liquor Control (Kalumburu Restricted Area) Regulations 2018 Pt. 5 | 2 Mar 2018 p
 Liquor Control (Parnngurr Restricted Area) Regulations 2018 Pt. 5 | 6 Jul 2018 p. 2546-8 | 7 Jul 2018 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2018 | 20 Jul 2018 p. 2631-2 | r. 1 and 2: 20 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jul 2018 (see r. 2(b))
 Liquor Control (Ngurrawaana Restricted Area) Regulations 2018 Pt. 5 | 14 Sep 2018 p. 3317-19 | 15 Sep 2018 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 3) 2018 (other than r. 15(2) and (4)) | 2 Oct 2018 p. 3798-802 | r. 1 and 2: 2 Oct 2018 (see r. 2(a)); Regulations other than r. 1, 2, 15(2) and (4): 3 Oct 2018 (see r. 2(c) and Gazette 2 Oct 2018 p. 3779)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 3) 2018 r. 15(2) and (4) | 2 Oct 2018 p. 3798-802 | 1 Jan 2019 (see r. 2(b) and Gazette 7 Sep 2018 p. 3192)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Commenced 1 July 2014.
@@ -236,6 +238,12 @@ Item | Description | Fee $
  | (a)1 to 10 postcodes | 41
  | (b)more than 10 postcodes | 90
 39. | For each person who is a party to an application under the Act and in relation to whom a background check is sought from the Police Service | 152
+On the date as at which this compilation was prepared, the Liquor Control Amendment Regulations (No. 3) 2018 r. 15(2) and (4) had not come into operation. They read as follows:
+15.Schedule 3 amended
+(2) In Schedule 3 in the Table item 2 before “club licence,” insert:
+small bar licence,
+(4) In Schedule 3 in the Table items 8 and 18 delete “anticipated number of patrons is —” and insert:
+maximum number of patrons on any day of the period to which the application relates is —
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

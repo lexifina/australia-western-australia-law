@@ -3,7 +3,7 @@
 [Heading inserted by Gazette 10 Nov 2017 p. 5587.]
 Item | Description | Fee $
 1. | Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence | 3 514
-2. | Application for the grant or removal of a club licence, restaurant licence, producer’s licence or wholesaler’s licence | 901
+2. | Application for the grant or removal of a small bar licence, club licence, restaurant licence, producer’s licence or wholesaler’s licence | 901
 3. | Application for the transfer of a licence | 863
 4. | Licence fee for any licence other than a club restricted licence | 594
 5. | Licence fee for a club restricted licence | 293
@@ -14,7 +14,7 @@ Item | Description | Fee $
  | (b)issued for the purpose referred to in section 60(4)(e) (c)issued for the purpose referred to in section 60(4)(h) | 354 354
  | (d)issued for the purpose referred to in section 60(4)(ia) — (i)if no previous application for that purpose has been made by any licensee in respect of the relevant premises (ii)if subparagraph (i) does not apply | 354 298
  | (e)issued for any other purpose | 1 188
-8. | Application for extended trading permit (in respect of a licence other than a club restricted licence) for a period of 21 days or less if the anticipated number of patrons is —
+8. | Application for extended trading permit (in respect of a licence other than a club restricted licence) for a period of 21 days or less if the maximum number of patrons on any day of the period to which the application relates is —
  | (a)up to 500 | 111
  | (b)between 501 and 1 000 | 229
  | (c)between 1 001 and 5 000 | 1 156
@@ -40,7 +40,7 @@ Item | Description | Fee $
 17. | Application for approval of change of name of licensed premises | 74
 18. | Application to add, vary or cancel condition of licence or permit (other than club restricted licence) —
  | (a)for a period of over 21 days | 241
- | (b)for a period of 21 days or less if the anticipated number of patrons is —
+ | (b)for a period of 21 days or less if the maximum number of patrons on any day of the period to which the application relates is —
  | (i)up to 500 | 111
  | (ii)between 501 and 1 000 | 229
  | (iii)between 1 001 and 5 000 | 1 156
@@ -69,4 +69,4 @@ Item | Description | Fee $
  | (a)1 to 10 postcodes | 40
  | (b)more than 10 postcodes | 89
 39. | For each person who is a party to an application under the Act and in relation to whom a background check is sought from the Police Service | 150
-[Schedule 3 inserted by Gazette 10 Nov 2017 p. 5587-92.]
+[Schedule 3 inserted by Gazette 10 Nov 2017 p. 5587-92; amended by 2 Oct 2018 p. 3801-2.]
