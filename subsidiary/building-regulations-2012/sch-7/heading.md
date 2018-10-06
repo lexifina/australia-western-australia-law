@@ -1,6 +1,6 @@
 ## Schedule 7 — Forms
 [r. 71]
-[Heading inserted in Gazette 18 Dec 2012 p. 6577.]
+[Heading inserted: Gazette 18 Dec 2012 p. 6577.]
 Form 1 — Infringement notice
 Building Act 2011 Building Regulations 2012 INFRINGEMENT NOTICE | Infringement notice no.
 Alleged offender | Name
@@ -20,7 +20,7 @@ TAKE NOTICE | It is alleged that you have committed the above offence. If you do
 How to pay | By post | Tick the relevant box below and post this notice to: Approved Officer — Building Act 2011 [Address] rI want to pay the modified penalty. A cheque or money order (payable to ‘Approved Officer’ — Building Act 2011) for the modified penalty is enclosed. rI want to pay the modified penalty by credit card. Please debit my credit card account. Card type _____________________________ Cardholder name _______________________ Card number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] Expiry date of card _____/_____ Amount $__________ Signature ____________________ Complete all details
 In person | Pay the cashier at: [Address]
 Method of service |  | Date of service
-[Form 1 inserted in Gazette 18 Dec 2012 p. 6577-80; amended in Gazette 20 Aug 2013 p. 3822.]
+[Form 1 inserted: Gazette 18 Dec 2012 p. 6577-80; amended: Gazette 20 Aug 2013 p. 3822.]
 Form 2 — Withdrawal of infringement notice
 Building Act 2011 Building Regulations 2012 WITHDRAWAL OF INFRINGEMENT NOTICE | Withdrawal no.
 Alleged offender | Name
@@ -37,4 +37,4 @@ Signature
 Date | Date of withdrawal
 Withdrawal of infringement notice [*Delete whichever is not applicable] | The above infringement notice issued against you for the above alleged offence has been withdrawn. If you have already paid the modified penalty for the alleged offence, you are entitled to a refund. *Your refund is enclosed or *If you have paid the modified penalty but a refund is not enclosed, you may claim your refund by signing and dating this notice and posting it to: Approved Officer — Building Act 2011 [Address]
 Your signature |  | Date
-[Form 2 inserted in Gazette 18 Dec 2012 p. 6580-1.]
+[Form 2 inserted: Gazette 18 Dec 2012 p. 6580-1.]

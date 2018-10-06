@@ -87,4 +87,4 @@ Wyalkatchem | Whole district
 Wyndham-East Kimberley | Whole district
 York | Whole district
 All other districts | All townsites
-[Schedule 5 amended in Gazette 24 Apr 2014 p. 1141; 22 Dec 2017 p. 5974-5.]
+[Schedule 5 amended: Gazette 24 Apr 2014 p. 1141; 22 Dec 2017 p. 5974-5.]
