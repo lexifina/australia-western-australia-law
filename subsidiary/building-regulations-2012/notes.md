@@ -27,6 +27,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Ju
 Building Regulations Amendment Regulations 2017 Pt. 2 | 8 Aug 2017 p. 4343-5 | 9 Aug 2017 (see r. 2(b))
 Building Amendment Regulations (No. 3) 2017 | 22 Dec 2017 p. 5971-5 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1, 2, 5-8, 9(2), (3) and (5) and 11: 23 Dec 2017 (see r. 2(c)); r. 5-8, 9(2), (3) and (5) and 11: 23 Jan 2018 (see r. 2(b))
 Building Amendment Regulations 2018 | 9 Mar 2018 p. 799-800 | r. 1 and 2: 9 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Mar 2018 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2018 | 5 Oct 2018 p. 4013-16 | r. 1 and 2: 5 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2018 (see r. 2(b))
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -56,7 +57,10 @@ bushfire attack level (BAL)3
 business day3
 Class3
 CodeMark certificate31J(1)
+commencement date 31HA(1)
 commencement day3, 31BA(8)
+CV33
+debris criteria 31HA(1)
 decision33(1)
 declaration of intended demolition55(1)
 dwelling55(1)
@@ -64,8 +68,12 @@ electrician55(1)
 EPSch. 3 cl. 1
 estimated value3
 excluded building work31BA(1A)
+exempt remedial work31HA(1)
+existing building or incidental structure 31HA(1)
 expiry day23(1), 40(1)
+external wall31HA(1)
 FES Commissioner3
+fire resistance performance requirement3
 former provisions3
 GSTSch. 1 cl. 1
 Heritage Act3
@@ -74,6 +82,7 @@ local planning scheme3, 31BA(8)
 managed reserve10(1A)
 management body10(1A)
 new owner57(1)
+non-combustible external wall31HA(1)
 owner10(2A), 55(1)
 performance requirement3
 performance solution3
@@ -90,6 +99,7 @@ relevant building standards48A(1)
 relevant componentsSch. 1 cl. 1
 relevant day60(1)
 relevant edition of the Building Code3
+remedial work31HA(1)
 renovation, alteration, extension, improvement or repair31BA(1A)
 repeal day54(1)
 repealed provisions54(1)
