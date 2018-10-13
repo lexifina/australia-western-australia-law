@@ -11,7 +11,7 @@ State Superannuation Amendment (Retirement Income Scheme) Regulations 2003 | 19 
 State Superannuation Amendment Regulations 2003 | 13 Jun 2003 p. 2105-14 | 13 Jun 2003
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 19 | 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 State Superannuation Amendment Regulations (No. 2) 2003 | 26 Aug 2003 p. 3756-7 | 26 Aug 2003
-Reprint 1: The State Superannuation Regulations 2001 as at 7 Nov 2003 (includes amendments listed above excluding the retrospective amendments published in Gazette 25 Jun 2004 p. 2233-4 and 13 Apr 2007 p. 1577-613)
+Reprint 1: The State Superannuation Regulations 2001 as at 7 Nov 2003 (includes amendments listed above excluding the retrospective amendments published by Gazette 25 Jun 2004 p. 2233-4 and 13 Apr 2007 p. 1577-613)
 Inspector of Custodial Services Act 2003 s. 56(1) assented to 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Superannuation Amendment Regulations (No. 4) 2003 | 30 Dec 2003 p. 5725-6 | 30 Dec 2003
 State Superannuation Amendment Regulations 2004 | 25 Jun 2004 p. 2228-33 | 25 Jun 2004
@@ -20,7 +20,7 @@ State Superannuation Amendment Regulations (No. 6) 2004 | 26 Nov 2004 p. 5311 | 
 State Superannuation Amendment Regulations (No. 3) 2004 | 1 Dec 2004 p. 5703-4 | 1 Jan 2004 (see r. 2)
 State Superannuation Amendment Regulations (No. 4) 2004 | 1 Dec 2004 p. 5705-18 | 1 Dec 2004
 State Superannuation Amendment Regulations (No. 5) 2004 | 10 Dec 2004 p. 5894-908 | 10 Dec 2004
-Reprint 2: The State Superannuation Regulations 2001 as at 2 Sep 2005 (includes amendments listed above excluding the retrospective amendment published in Gazette 13 Apr 2007 p. 1577-613)
+Reprint 2: The State Superannuation Regulations 2001 as at 2 Sep 2005 (includes amendments listed above excluding the retrospective amendment published by Gazette 13 Apr 2007 p. 1577-613)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 87 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 State Superannuation Amendment Regulations 2006 | 26 May 2006 p. 1915-33 | 26 May 2006
 State Superannuation Amendment Regulations (No. 2) 2006 | 21 Jul 2006 p. 2651-2 | 21 Jul 2006
@@ -59,7 +59,12 @@ State Superannuation Amendment Regulations (No. 4) 2016 | 1 Jul 2016 p. 2750 | r
 State Superannuation Amendment Regulations 2016 | 5 Jul 2016 p. 2817-19 | r. 1 and 2: 5 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jul 2016 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2016 | 26 Aug 2016 p. 3667-8 | r. 1 and 2: 26 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b) and Gazette 26 Jul 2016 p. 3145)
 State Superannuation Amendment Regulations (No. 2) 2016 | 10 Jan 2017 p. 147-57 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2 and 5, 6 and 15: 11 Jan 2017 (see r. 2(b)); r. 5, 6 and 15: 1 Jul 2017 (see r. 2(c))
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.slp.wa.gov.au.
+State Superannuation Amendment Regulations 2018 (other than r. 12-16) | 12 Oct 2018 p. 4060-4 | r. 1 and 2: 12 Oct 2018 (see r. 2(a)); Regulations other r. 1, 2 and 12-16: 13 Oct 2018 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+State Superannuation Amendment Regulations 2018 r. 12-16 | 12 Oct 2018 p. 4063-4 | 1 Nov 2018 (see r. 2(b))
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
 Repealed by the State Superannuation Act 2000 s. 39.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
@@ -76,6 +81,29 @@ is taken to have become a statutory Member when he or she ceased to be so exclud
 The State Superannuation Amendment Regulations (No. 4) 2008 had not come into operation when it was deleted by the State Superannuation Amendment Regulations 2009 Pt. 3.
 The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 (2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Regulations 2018 r. 12-16 had not come into operation. They read as follows:
+12.Regulation 220 amended
+(1) In regulation 220 delete the definition of Superannuation Complaints Tribunal.
+(2) In regulation 220 in the definition of reporting period paragraph (b) delete “next;” and insert:
+next.
+13.Regulation 221 amended
+Delete regulation 221(2)(f)(ii) and insert:
+(ii) the operation of the AFCA scheme.
+14.Regulation 224 amended
+Delete regulation 224(2)(e)(ii) and insert:
+(ii) the operation of the AFCA scheme;
+15.Regulation 224B amended
+(1) Delete regulation 224B(2)(c)(ii) and insert:
+(ii) the operation of the AFCA scheme.
+(2) Delete regulation 224B(3)(a)(ii) and insert:
+(ii) the operation of the AFCA scheme;
+16.Regulation 250 replaced
+Delete regulation 250 and insert:
+250.Independent review by AFCA of Board’s decisions
+(1) For the purposes of the independent review mentioned in section 13(3)(b) of the Act, the Australian Financial Complaints Authority is prescribed.
+(2) Subject to the Corporations Act Part 7.10A, a person refers a matter under section 13(3)(b) of the Act by making a complaint under the AFCA scheme in relation to the matter.
+Note for this regulation:
+The Superannuation Complaints Tribunal will continue to deal with complaints, relating to decisions of the Board, that are made to it but not finalised before the commencement of the State Superannuation Amendment Regulations 2018 regulation 16 until the Superannuation (Resolution of Complaints) Act 1993 (Commonwealth) is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -90,11 +118,13 @@ actual tax amount49A(6), 81A(6)
 additional superannuation contributions12G(1)
 adjusted final remunerationSch. 2 cl. 1(1)
 adjustment day12, Sch. 3 cl. 5
+AFCA scheme3(1)
 allocated pension fund171
 annual reporting day220
 ASICSch. 2 cl. 13
 ASIC workerSch. 2 cl. 13
 assessment notice49A(6), 81A(6)
+Australian Financial Complaints Authority3(1)
 average contribution rate12, 13(1)
 average Part 6 contribution rateSch. 2 cl. 17
 benefit47(5)
@@ -106,6 +136,7 @@ Commonwealth maximum171
 Commonwealth minimum171
 Commonwealth payment3(1)
 Commonwealth Unclaimed Money Act3(1)
+commutation authority3(1)
 compassionate ground47A(8), 79A(7), 123(7)
 compulsory transfereeSch. 2 cl. 1(1)
 condition of release3(1)
@@ -227,6 +258,7 @@ reduced benefit option35(2)
 Registrar225
 regulated superannuation fund3(1)
 release authority3(1)
+relevant amount96(4)
 relevant MemberSch. 3 cl. 29(3)
 relevant regulationsSch. 2 cl. 13, Sch. 2 cl. 15
 remuneration17A(1)
