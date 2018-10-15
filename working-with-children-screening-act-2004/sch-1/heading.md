@@ -15,4 +15,4 @@ s. 328 | Aggravated sexual coercion (if the person against whom the offence is c
  | Crimes Act 1914 of the Commonwealth
  | s. 50BA | Sexual intercourse with child under 16 (if the child against whom the offence is committed is under 13)
  | s. 50BB | Inducing child under 16 to engage in sexual intercourse (if the child against whom the offence is committed is under 13)
-[Schedule 1 amended by No. 2 of 2008 s. 74; No. 8 of 2009 s. 140(2); No. 7 of 2010 s. 24.]
+[Schedule 1 amended: No. 2 of 2008 s. 74; No. 8 of 2009 s. 140(2); No. 7 of 2010 s. 24.]
