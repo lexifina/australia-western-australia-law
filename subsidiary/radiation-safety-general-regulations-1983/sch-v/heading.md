@@ -188,4 +188,4 @@ Item | Radioactive substance | Maximum quantity (megabecquerels)
 Based on alpha disintegration rate of Th-232, Th-230 and their daughter products. Based on alpha disintegration rate of U-238, U-234, and U-235.
 NOTE:For purposes of regulations 5(1)(b) and 32(3), where there is involved a combination of isotopes in known amounts, the limit for the combination should be derived as follows: Determine, for each isotope in the combination, the ratio between the quantity present in the combination and the limit otherwise established for the specific isotope when not in combination. The sum of such ratios for all the isotopes in the combination may not exceed “1” (i.e. “unity”). Example: for purposes of regulation 5(1)(b), if a particular combination contains 1 megabecquerel of Au-198 and 2 megabecquerels of C-14, it may also include not more than 0.01 megabecquerel of I-131. This limit was determined as follows:
 = 0.25 + 0.5 + 0.25 = 1
-[Schedule V amended in Gazette 22 Jul 1997 p. 3824.]
+[Schedule V amended: Gazette 22 Jul 1997 p. 3824.]

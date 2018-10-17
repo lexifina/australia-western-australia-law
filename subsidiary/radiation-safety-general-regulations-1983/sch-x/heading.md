@@ -35,4 +35,4 @@ and
 (ii)shielded windows, mirrors or closed circuit television systems are provided to permit continuous observation of the patient during treatment and are so located that the operator of that apparatus is able to see both the patient and the control panel for that irradiating apparatus from the same position; and
 (iii)provision is made for oral communication with the patient.
 4.In the case of premises in which there is chiropractic radiographic equipment, the person in whose name those premises are registered shall ensure that the requirements of item 2 are complied with in respect of that apparatus.
-[Schedule X amended in Gazette 22 Jul 1997 p. 3824-5.]
+[Schedule X amended: Gazette 22 Jul 1997 p. 3824-5.]

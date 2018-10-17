@@ -26,4 +26,4 @@ Radioactive substance | Maximum quantity
 H | 1 gigabecquerel
 Pm | 18 megabecquerels
 Ra | 5.5 kilobecquerels
-[Schedule VI amended in Gazette 16 Jul 2002 p. 3400.]
+[Schedule VI amended: Gazette 16 Jul 2002 p. 3400.]

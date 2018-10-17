@@ -296,4 +296,4 @@ Number | Maker and type | Type of radiation | Purpose | Location on premises
 Form RS 16
 Radiation Safety Act 1975 _________________holds a licence under the Act for the use of RADIOACTIVE SUBSTANCES (LS / ) IRRADIATING APPARATUS (LX / ) (Delete whichever is not applicable) for the purpose of INDUSTRIAL RADIOGRAPHY _________________
 Licences held under the Radiation Safety Act 1975 are subject to all applicable regulations under the Act and to any conditions, restrictions or limitations imposed when the licence was issued. ....................................................... | Activity Limits Expiry date Chairman, Radiological Council. (not valid until signed)
-[Schedule II amended in Gazette 29 Nov 1991 p. 5990.]
+[Schedule II amended: Gazette 29 Nov 1991 p. 5990.]

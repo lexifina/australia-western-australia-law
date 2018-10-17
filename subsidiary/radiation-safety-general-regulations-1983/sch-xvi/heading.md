@@ -1,5 +1,5 @@
 ## Schedule XVI
-[Heading inserted in Gazette 4 Mar 1994 p. 837.]
+[Heading inserted: Gazette 4 Mar 1994 p. 837.]
 [Regulation 28(3)(d)]
 1.In this Schedule —
 equipment means cobalt teletherapy equipment;
@@ -111,4 +111,4 @@ a position where the source is just shielded; and
 (2)The equipment shall be arranged so that —
 (a)the relationship between the useful beam and a beam stop is permanently fixed; or
 (b)it has mechanical or electrical stops to ensure that the beam is directed only towards barriers for which useful beam shielding has been provided.
-[Schedule XVI inserted in Gazette 4 Mar 1994 p. 837-41; (correction in Gazette 11 Mar 1994 p. 960); amended in Gazette 22 Jul 1997 p. 3825.]
+[Schedule XVI inserted: Gazette 4 Mar 1994 p. 837-41; (correction: Gazette 11 Mar 1994 p. 960); amended: Gazette 22 Jul 1997 p. 3825.]

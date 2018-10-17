@@ -65,5 +65,5 @@ the treatment room during the treatment of the patient.
 and
 (e)a person under the age of 18 years shall not hold or support an animal patient during x-ray exposures; and
 (f)a person shall not hold in his hand the x-ray film or the x-ray tube and attached cone or diaphragm of that irradiating apparatus during an x-ray exposure.
-[Schedule XI amended in Gazette 15 Mar 1991 p. 1129; 28 May 1993 p. 2594-5; 22 Jul 1997 p. 3825.]
-[Schedule XII deleted in Gazette 22 Jul 1997 p. 3825.]
+[Schedule XI amended: Gazette 15 Mar 1991 p. 1129; 28 May 1993 p. 2594-5; 22 Jul 1997 p. 3825.]
+[Schedule XII deleted: Gazette 22 Jul 1997 p. 3825.]

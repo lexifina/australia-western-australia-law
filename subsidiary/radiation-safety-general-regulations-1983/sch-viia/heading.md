@@ -6,4 +6,4 @@ Permluco self powered signFO 1
 Permluco self powered signFO 3
 Permluco self powered signFO 4
 Permluco self powered signFO 9.
-[Schedule VIIA inserted in Gazette 6 Sep 1991 p. 4632.]
+[Schedule VIIA inserted: Gazette 6 Sep 1991 p. 4632.]

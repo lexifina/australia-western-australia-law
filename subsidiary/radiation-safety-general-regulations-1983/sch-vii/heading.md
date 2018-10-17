@@ -7,4 +7,4 @@ Item | Electronic product | Regulations from which there is no exemption under s
 [4, 5 deleted]
 6 | Class 3B lasers with average output power of 5 milliwatts or less, other than single pulsed lasers | regulations 53 and 53B
 7 | Class 3R lasers | regulations 53 and 53B
-[Schedule VII inserted in Gazette 31 Dec 1999 p. 7064; amended in Gazette 17 Aug 2010 p. 4048.]
+[Schedule VII inserted: Gazette 31 Dec 1999 p. 7064; amended: Gazette 17 Aug 2010 p. 4048.]

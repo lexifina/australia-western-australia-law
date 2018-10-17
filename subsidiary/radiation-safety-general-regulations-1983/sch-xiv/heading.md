@@ -31,4 +31,4 @@ from a position outside the controlled area referred to in item 4.
 22.Area warning signs complying with Section 10.5 of the laser safety standard shall be displayed at the entrance to the controlled area referred to in item 4.
 23.All persons having access to the controlled area referred to in item 4 shall be authorised to do so by or on behalf of the person in whose name the premises concerned are registered.
 24.Persons operating or using the laser system are to undergo eye examinations in accordance with section 10.11 of the laser safety standard.
-[Schedule XIV amended in Gazette 10 Oct 1986 p. 3846; 15 Oct 1996 p. 5452; 17 Aug 2010 p. 4048; 20 Sep 2016 p. 3968; 7 Mar 2017 p. 1527.]
+[Schedule XIV amended: Gazette 10 Oct 1986 p. 3846; 15 Oct 1996 p. 5452; 17 Aug 2010 p. 4048; 20 Sep 2016 p. 3968; 7 Mar 2017 p. 1527.]

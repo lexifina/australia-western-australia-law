@@ -282,4 +282,4 @@ and
 (a)the requirements for equipment used for x-ray analysis set out in the NHMRC publication entitled “Code of Practice for Protection against Ionizing Radiation emitted from X-ray Analysis Equipment 1984”; or
 (b)if that equipment is of such a kind that the requirements of the publication referred to in paragraph (a) cannot readily be complied with, such requirements as the Council specifies in writing in relation to that equipment for the purpose of achieving a level of safety equivalent to that attained by compliance with the requirements of that publication.
 9.In the case of x-ray equipment used by chiropractors for radiography of human beings the requirements specified in this Schedule for fixed medical diagnostic x-ray apparatus must be met.
-[Schedule IX amended in Gazette 15 Mar 1991 p. 1127-9; 28 May 1993 p. 2588-94; 11 Jun 1993 p. 2873-7; 4 Feb 1994 p. 341; 22 Jul 1997 p. 3824.]
+[Schedule IX amended: Gazette 15 Mar 1991 p. 1127-9; 28 May 1993 p. 2588-94; 11 Jun 1993 p. 2873-7; 4 Feb 1994 p. 341; 22 Jul 1997 p. 3824.]

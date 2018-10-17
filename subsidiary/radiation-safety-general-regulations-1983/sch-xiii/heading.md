@@ -1,7 +1,7 @@
 ## Schedule XIII
 [Regulation 54]
 ## Requirements to be complied with in respect of premises in which regulated class 3B lasers are operated or used
-[Heading amended in Gazette 15 Oct 1996 p. 5451.]
+[Heading amended: Gazette 15 Oct 1996 p. 5451.]
 1.Such beam stops, beam enlarging systems, shutters or other safety devices as the Council from time to time directs shall be incorporated in the laser or its system.
 2.The beam of the laser shall be —
 (a)contained within enclosures; or
@@ -24,4 +24,4 @@
 (c)in a prominent position near the laser,
 area warning signs in accordance with Section 10.5 of the laser safety standard.
 16.Persons operating or using the laser system are to undergo eye examinations in accordance with section 10.11 of the laser safety standard.
-[Schedule XIII amended in Gazette 10 Oct 1986 p. 3846; 15 Oct 1996 p. 5451; 17 Aug 2010 p. 4048.]
+[Schedule XIII amended: Gazette 10 Oct 1986 p. 3846; 15 Oct 1996 p. 5451; 17 Aug 2010 p. 4048.]

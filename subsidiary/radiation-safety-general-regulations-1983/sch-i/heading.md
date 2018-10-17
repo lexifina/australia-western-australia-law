@@ -23,4 +23,4 @@
 (b) radiofrequency fields with frequencies from 3 kHz to 300 GHz which exceed the limits specified in the publication entitled “Maximum Exposure Levels to Radiofrequency Fields — 3 kHz to 300 GHz” published by the Australian Radiation Protection and Nuclear Safety Agency in May 2002; or
 (c)ultraviolet radiations with wavelengths from 180 nm to 400 nm which exceed the limits specified in the publication entitled “Occupational Standard for Exposure to Ultraviolet Radiation (1989)” published by the NHMRC in December 1989.
 (2)Subitem (1)(b) does not apply to exposure resulting from the normal operation of microwave ovens which comply with the radiation emission limit set out in item 32.1 of the microwave oven standard.
-[Schedule I amended in Gazette 4 May 1993 p. 2301; 28 Jan 1994 p. 283; 4 Mar 1994 p. 837; 17 Mar 1995 p. 1027; 22 Jul 1997 p. 3823-4; 19 Aug 1997 p. 4721; 17 Aug 2010 p. 4047-8.]
+[Schedule I amended: Gazette 4 May 1993 p. 2301; 28 Jan 1994 p. 283; 4 Mar 1994 p. 837; 17 Mar 1995 p. 1027; 22 Jul 1997 p. 3823-4; 19 Aug 1997 p. 4721; 17 Aug 2010 p. 4047-8.]
