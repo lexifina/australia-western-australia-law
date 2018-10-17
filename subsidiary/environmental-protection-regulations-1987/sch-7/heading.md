@@ -1,6 +1,6 @@
 ## Schedule 7 — Forms
 [r. 37, 38, 42, 43]
-[Heading inserted in Gazette 11 Dec 1998 p. 6608.]
+[Heading inserted by Gazette 11 Dec 1998 p. 6608.]
 Form 1
 Environmental Protection Act 1986 (Section 99B)
 Modified penalty notice
@@ -31,7 +31,7 @@ If you wish to do so but are unable to make payment within 28 days you may apply
 OR
 2.Elect to have the matter dealt with by a COURT.
 If you do not take one of the above options within the time specified above, this matter will be dealt with before a COURT.
-[Form 1 inserted in Gazette 11 Dec 1998 p. 6608-9; amended in Gazette 21 Aug 2015 p. 3336.]
+[Form 1 inserted by Gazette 11 Dec 1998 p. 6608-9; amended by Gazette 21 Aug 2015 p. 3336.]
 Form 2
 Environmental Protection Act 1986 (Section 99D)
 Withdrawal of modified penalty notice
@@ -49,7 +49,7 @@ Issued at: | ...................................................................
 by: | ..............................................................................
 Signature: | ..............................................................................
 * Delete where not applicable.
-[Form 2 inserted in Gazette 11 Dec 1998 p. 6609; amended in Gazette 21 Aug 2015 p. 3336.]
+[Form 2 inserted by Gazette 11 Dec 1998 p. 6609; amended by Gazette 21 Aug 2015 p. 3336.]
 Form 3
 Environmental Protection Act 1986 (Section 99K)
 Infringement notice
@@ -85,7 +85,7 @@ The modified penalty may be recovered by the Fines Enforcement Registry, in whic
 (b)some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold; and
 (c)you will be given an opportunity to elect to have a complaint for the alleged offence dealt with by a COURT.
 PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
-[Form 3 inserted in Gazette 11 Dec 1998 p. 6610-11; amended in Gazette 20 Aug 2013 p. 3857; 21 Aug 2015 p. 3336.]
+[Form 3 inserted by Gazette 11 Dec 1998 p. 6610-11; amended by Gazette 20 Aug 2013 p. 3857; 21 Aug 2015 p. 3336.]
 Form 4
 Environmental Protection Act 1986 (Section 99N)
 Withdrawal of infringement notice
@@ -103,4 +103,4 @@ Issued at: | ...................................................................
 by: | ..............................................................................
 Signature: | ..............................................................................
 * Delete where not applicable.
-[Form 4 inserted in Gazette 11 Dec 1998 p. 6611; amended in Gazette 21 Aug 2015 p. 3336.]
+[Form 4 inserted by Gazette 11 Dec 1998 p. 6611; amended by Gazette 21 Aug 2015 p. 3336.]
