@@ -27,4 +27,4 @@ theory test means a theory test to satisfy the CEO that the applicant has a reas
 10 | Each additional hazard perception test in respect of a driver’s licence application | 15.40
 11 | Fee for logbook referred to in regulation 16A(2)(b)(ii) | 7.35
 12 | Copy of excessive demerit points notice as defined in section 40(1) previously given to a person | 21.35
-[Schedule 9 amended in Gazette 27 May 2015 p. 1875; 27 May 2016 p. 1552; 26 May 2017 p. 2642; 3 Oct 2017 p. 5054; 25 May 2018 p. 1643.]
+[Schedule 9 amended by Gazette 27 May 2015 p. 1875; 27 May 2016 p. 1552; 26 May 2017 p. 2642; 3 Oct 2017 p. 5054; 25 May 2018 p. 1643.]
