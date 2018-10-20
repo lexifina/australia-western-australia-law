@@ -92,7 +92,7 @@
 85.Narembeen Memorial Hospital
 86.Narrogin Hospital
 87.Newman Hospital
-88.Nickol Bay Hospital
+[88.deleted]
 89.Nookanbah Health Centre
 90.Norseman Hospital
 91.Northam Hospital
@@ -128,4 +128,4 @@
 121.Yalgoo Health Centre
 122.Yandeyarra Health Centre
 123.York Hospital
-[Schedule 2 amended by Gazette 14 Sep 2018 p. 3314.]
+[Schedule 2 amended by Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135.]
