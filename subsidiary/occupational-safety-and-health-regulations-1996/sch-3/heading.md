@@ -1,6 +1,6 @@
 ## Schedule 3.1 — Guidelines and forms of guidance to be available for access by persons working at workplaces
 [Regulation 3.2(e)]
-Date of publication in Gazette | Title
+Date of publication by Gazette | Title
 30 July 1996 | The General Duty of Care in Western Australian Workplaces
 30 July 1996 | Election of Safety and Health Representatives, Representatives and Committees and Resolution of Issues
 30 July 1996 | Guidance Note for the Assessment of Health Risks Arising from the Use of Hazardous Substances in the Workplace [NOHSC: 3017 (1994)]
