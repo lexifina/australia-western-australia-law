@@ -12,4 +12,4 @@ Ethylene dibromide [106-93-4] when used as a fumigant
 Beta-Propiolactone [57-57-8] (2-propiolactone)
 o-Toluidine [95-53-4] and o-Toluidine hydrochloride [636-21-5]
 Vinyl chloride monomer [75-01-4]
-[Schedule 5.5 amended in Gazette 30 Dec 2003 p. 5743.]
+[Schedule 5.5 amended: Gazette 30 Dec 2003 p. 5743.]

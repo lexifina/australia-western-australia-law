@@ -10,4 +10,4 @@ Chloromethyl methyl ether [107-30-2] (technical grade containing bis(chloromethy
 4-Dimethylaminoazobenzene [60-11-7]
 2-Naphthylamine [91-59-8] and its salts
 4-Nitrodiphenyl [92-93-3]
-[Schedule 5.4 amended in Gazette 30 Dec 2003 p. 5743.]
+[Schedule 5.4 amended: Gazette 30 Dec 2003 p. 5743.]

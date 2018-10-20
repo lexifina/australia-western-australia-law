@@ -11,4 +11,4 @@ Pressure vessels categorized as hazard level A, B or C according to the criteria
 (c)serially produced vessels to which AS 2971 applies
 Tower cranes
 Truck-mounted concrete placing units with booms
-[Schedule 4.2 amended in Gazette 17 Dec 1999 p. 6244; 8 Mar 2002 p. 1003; 7 Jun 2002 p. 2738; 10 Jan 2003 p. 75.]
+[Schedule 4.2 amended: Gazette 17 Dec 1999 p. 6244; 8 Mar 2002 p. 1003; 7 Jun 2002 p. 2738; 10 Jan 2003 p. 75.]

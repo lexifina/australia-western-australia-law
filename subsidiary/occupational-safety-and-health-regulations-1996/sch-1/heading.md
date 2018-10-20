@@ -1,6 +1,6 @@
 ## Schedule 1 — Australian Standards and Australian/New Zealand Standards
 [r. 1.3]
-[Heading inserted in Gazette 28 Nov 2008 p. 5032.]
+[Heading inserted: Gazette 28 Nov 2008 p. 5032.]
 Item | AS or AS/NZS Number | Title | Regulation Reference
 1 | AS/NZS 1200:2000 | Pressure equipment | 4.1, 4.43, Sch. 4.3
 2 | AS/NZS 1269 | Occupational noise management | 3.45, 3.47
@@ -158,4 +158,4 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 48 | AS 4343-2005 | Pressure equipment — Hazard levels | 4.1, Sch. 4.1, Sch. 4.2, Sch. 4.3
 49 | AS/NZS 4431:1996 | Guidelines for safe working on new lift installations in new constructions | 4.57
 50 | AS/NZS 4576:1995 | Guidelines for scaffolding | 3.26
-[Schedule 1 inserted in Gazette 28 Nov 2008 p. 5032-41; amended in Gazette 5 Jun 2009 p. 1880-1; 15 Jan 2010 p. 75; 2 Nov 2010 p. 5499-500.]
+[Schedule 1 inserted: Gazette 28 Nov 2008 p. 5032-41; amended: Gazette 5 Jun 2009 p. 1880-1; 15 Jan 2010 p. 75; 2 Nov 2010 p. 5499-500.]

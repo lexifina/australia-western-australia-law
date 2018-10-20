@@ -40,7 +40,7 @@ Phone Number:
 Person for liaison:
 Phone Number:
 OFFICE USE ONLY: o Nat. Person receiving report: . . . . . . . . . . . . . . . . . . . . . . . o Loc. o Ag. Date: _ _ / _ _ / _ _ Time: . . . . . . . . . . . . o Type
-[Form 1 amended in Gazette 7 Jun 2002 p. 2735-6.]
+[Form 1 amended: Gazette 7 Jun 2002 p. 2735-6.]
 Form 2 — Notification of Disease
 [Regulation 2.5(2)]
 Occupational Safety and Health Act 1984
@@ -76,8 +76,8 @@ Position:
 Phone Number:
 Person for liaison:
 Phone Number:
-[Form 2 amended in Gazette 7 Jun 2002 p. 2736.]
-[Form 3 deleted in Gazette 6 Jan 2006 p. 12.]
+[Form 2 amended: Gazette 7 Jun 2002 p. 2736.]
+[Form 3 deleted: Gazette 6 Jan 2006 p. 12.]
 Form 4 — Reference of improvement notice for review
 [Regulation 2.8(1)]
 Occupational Safety and Health Act 1984 section 51
@@ -108,7 +108,7 @@ I request the review on the following grounds:
 Signature of person referring notice for review:
 Date:
 NOTE:A reference of an improvement notice for review must be made to the Commissioner within the time specified in the notice as the time before which the notice is required to be complied with [section 51(2)(a) of the Act].
-[Form 4 amended in Gazette 7 Jun 2002 p. 2736.]
+[Form 4 amended: Gazette 7 Jun 2002 p. 2736.]
 Form 5 — Reference of prohibition notice for review
 [Regulation 2.8(2)]
 Occupational Safety and Health Act 1984 section 51
@@ -138,5 +138,5 @@ I request the review on the following grounds:
 Signature of person referring notice for review:
 Date:
 NOTE:A reference of a prohibition notice for review must be made to the Commissioner within 7 days of the issue of the notice or such further time as may be allowed by the Commissioner [section 51(2)(b) of the Act].
-[Form 5 amended in Gazette 7 Jun 2002 p. 2736.]
-[Form 6 deleted in Gazette 9 Jul 2010 p. 3247.]
+[Form 5 amended: Gazette 7 Jun 2002 p. 2736.]
+[Form 6 deleted: Gazette 9 Jul 2010 p. 3247.]

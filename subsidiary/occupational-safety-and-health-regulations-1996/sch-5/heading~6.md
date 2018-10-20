@@ -7,4 +7,4 @@ Anthophyllite asbestos [77536-67-5]
 Crocidolite [12001-28-4] (blue asbestos)
 Chrysotile [12001-29-5] (white asbestos)
 Tremolite asbestos [77536-68-6]
-[Schedule 5.6 inserted in Gazette 30 Dec 2003 p. 5743.]
+[Schedule 5.6 inserted: Gazette 30 Dec 2003 p. 5743.]

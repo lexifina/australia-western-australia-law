@@ -15,4 +15,4 @@ Pressure equipment categorized as hazard level A, B, C or D according to the cri
 Tower cranes
 Vehicle hoists which, in order to work, require the supply of energy of a kind other than, or in addition to, the energy supplied by the exertion of the body of a human or an animal
 Work boxes
-[Schedule 4.1 amended in Gazette 17 Dec 1999 p. 6244; 8 Mar 2002 p. 1002; 7 Jun 2002 p. 2738.]
+[Schedule 4.1 amended: Gazette 17 Dec 1999 p. 6244; 8 Mar 2002 p. 1002; 7 Jun 2002 p. 2738.]
