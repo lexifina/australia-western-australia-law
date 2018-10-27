@@ -3,7 +3,7 @@
 Peak organisations
 Federation of Community Legal Centres (Western Australia) Incorporated
 Community legal centres
-Aboriginal Legal Service of Western Australia (Inc)
+Aboriginal Legal Service of Western Australia Limited
 Albany Community Legal Centre Inc
 Armadale Information and Referral Service Inc
 Boogurlarri Community House Association Inc
@@ -32,4 +32,4 @@ TLC Emergency Welfare Foundation (WA) Inc (trading as Welfare Rights & Advocacy 
 Women’s Legal Services Inc (WA)
 Women’s Refuges Multicultural Service Incorporated
 Youth Legal Service (Inc)
-[Schedule 2 amended in Gazette 31 Jul 2015 p. 3120.]
+[Schedule 2 amended: Gazette 31 Jul 2015 p. 3120; 26 Oct 2018 p. 4251.]
