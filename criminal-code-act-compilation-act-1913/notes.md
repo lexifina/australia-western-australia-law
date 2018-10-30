@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 September 2017 of the Criminal Code Act Compilation Act 1913 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Code Act Compilation Act 1913 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Code Act Compilation Act 1913 | 28 of 1913 (4 Geo. V No. 28) | 30 Dec 1913 | 1 Jan 1914 (see s. 1)
@@ -184,10 +184,11 @@ Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 4 (s. 97-100) | 49 of 2016 | 29 Nov 2016 | s. 97, 98 and 100: 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157); s. 99: 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Sentencing Legislation Amendment Act 2016 Pt. 2 Div. 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Reprint 19: The Criminal Code Act Compilation Act 1913 as at 22 Sep 2017 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 2 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -218,13 +219,25 @@ The amendment in the Criminal Procedure and Appeals (Consequential and Other Pro
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 2 cl. 36 to The Criminal Code s. 133A was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(7) before it came into operation.
 The amendment in the Nurses and Midwives Act 2006 s. 114 is not included because the section it sought to amend had been deleted by the Criminal Investigation (Consequential Provisions) Act 2006 s. 22 before the amendment came into operation.
 The Criminal Investigation (Consequential Provisions) Act 2006 s. 29 is a transitional provision about search warrants.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
 30.The Criminal Code amended
 (1) The amendments in this section are to The Criminal Code.
 (2) Section 190 is repealed.
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 2 had not come into operation. It reads as follows:
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 2 — The Criminal Code amended
+307.Act amended
+This Subdivision amends The Criminal Code.
+308.Section 297 amended
+Delete section 297(4)(c)(iii) and insert:
+(iii) a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
+309.Section 318 amended
+Delete section 318(1)(g)(iii) and insert:
+(iii) a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
