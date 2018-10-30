@@ -167,8 +167,9 @@ Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | To be proclaimed (see s. 2(d))
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | To be proclaimed (see s. 2(b))
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -220,7 +221,7 @@ If —
 (b) the licence was issued before the commencement day without the photograph and signature of the licence holder,
 then section 42B of the Road Traffic Act 1974 applies to the issue of the duplicate as if it were the issue of a driver’s licence.
 The amendment in the Road Traffic Amendment Act 2000 s. 16(2) to amend s. 25(2) is not included because the subsection it sought to amend had been deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1062(2).
-The amendment in the Road Traffic Amendment Act 2000 s. 33 to amend s. 59(1a) is not included because the subsection it sought to amend had been deleted by the Criminal Code Amendment Act 2004 Sch. 3 cl. 27(3);
+The amendment in the Road Traffic Amendment Act 2000 s. 33 to amend s. 59(1a) is not included because the subsection it sought to amend had been deleted by the Criminal Code Amendment Act 2004 Sch. 3 cl. 27(3).
 The amendment in the Road Traffic Amendment Act 2000 s. 33 to amend s. 59(3) is not included because the subsection it sought to amend had been amended by the Road Traffic Amendment (Dangerous Driving) Act 2004 s. 5(3).
 The amendment in the Road Traffic Amendment Act 2000 s. 39 to amend s. 89 is not included because the section it sought to amend had been deleted by the Criminal Law Amendment (Simple Offences) Act 2004 s. 82.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -336,6 +337,49 @@ and
 30 km/h
 (4) After section 49AB(1) insert:
 (2A) Subsection (1)(ac) does not apply to a person who is a member of a class of persons prescribed for the purposes of the subsection by regulations made under the Road Traffic (Authorisation to Drive) Act 2008 section 4(7).
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 had not come into operation. It reads as follows:
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 3 — Road Traffic Act 1974 amended
+310.Act amended
+This Subdivision amends the Road Traffic Act 1974.
+311.Section 64A amended
+In section 64A(5):
+(a) in paragraph (a) delete “carried for hire or reward; or” and insert:
+transported for hire or reward as defined in the Transport (Road Passenger Services) Act 2018 section 11 (except subsection (2)); or
+(b) delete paragraph (b);
+(c) delete paragraph (c) and insert:
+(c) if, at the relevant time, the vehicle is transporting passengers for hire or reward as defined in the Transport (Road Passenger Services) Act 2018 section 11 (except subsection (2)); or
+312.Section 79D amended
+(1) In section 79D(1) delete the definitions of:
+taxi
+taxi operator
+(2) In section 79D(1) insert in alphabetical order:
+passenger transport vehicle means a passenger transport vehicle for which a passenger transport vehicle authorisation has been issued under the Transport (Road Passenger Services) Act 2018 whether or not, at the relevant time, the vehicle is standing or plying for hire or transporting passengers for reward;
+provider of a passenger transport vehicle has the meaning given in the Transport (Road Passenger Services) Act 2018 section 4(1);
+(3) Delete section 79D(2)(h) and (i) and insert:
+(h) a senior police officer is satisfied that, at the time the offence for which the vehicle was impounded was committed —
+(i) the vehicle was a passenger transport vehicle; and
+(ii) the person who allegedly committed the offence (the alleged offender) was driving the passenger transport vehicle under an agreement between the alleged offender and the provider of the passenger transport vehicle, or an agent of the provider, under which the alleged offender pays the provider or agent in order to be allowed to drive the passenger transport vehicle for reward; and
+(iii) the provider of the passenger transport vehicle or agent who entered into the agreement with the alleged offender had complied with subsection (5); and
+(iv) the alleged offender was not a responsible person for the vehicle;
+or
+(i) a senior police officer is satisfied that, at the time the offence for which the vehicle was impounded was committed —
+(i) the vehicle was a passenger transport vehicle; and
+(ii) the person who allegedly committed the offence (the alleged offender) was an employee or contractor of the provider of the passenger transport vehicle; and
+(iii) the alleged offender was driving the vehicle with the consent of the provider of the vehicle; and
+(iv) the person who consented to the alleged offender driving the vehicle had complied with subsection (5A); and
+(v) the alleged offender was not a responsible person for the vehicle;
+or
+(4) In section 79D(4) delete “(2)(g)(iv) and (i)(iv),” and insert:
+(2)(g)(iv),
+(5) Delete section 79D(5) and insert:
+(5) For the purposes of subsection (2)(h)(iii), a provider of a passenger transport vehicle or agent who enters into an agreement with a driver of a passenger transport vehicle must —
+(a) ensure the driver holds a current passenger transport driver authorisation under the Transport (Road Passenger Services) Act 2018; and
+(b) ensure the driver has been instructed to obey the law when driving the vehicle.
+(5A) For the purposes of subsection (2)(i)(iv), a provider of a passenger transport vehicle or agent who consents to an employee or contractor driving the vehicle must —
+(a) ensure the driver holds a current passenger transport driver authorisation under the Transport (Road Passenger Services) Act 2018; and
+(b) ensure the driver has been instructed to obey the law when driving the vehicle.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
