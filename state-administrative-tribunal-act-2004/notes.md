@@ -39,6 +39,7 @@ Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 | 18 of 2014 | 2 Jul 2014 | Operative on the day after the expiry of the period of 6 months beginning on proclamation day (see s. 2(f))
 Aquatic Resources Management Act 2016 s. 371 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 7 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
@@ -60,6 +61,17 @@ Fish Resources Management Act 1994
 Pearling Act 1990
 (3) In Schedule 1 insert in alphabetical order:
 Aquatic Resources Management Act 2016
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 7 had not come into operation. It reads as follows:
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 7 — State Administrative Tribunal Act 2004 amended
+326.Act amended
+This Subdivision amends the State Administrative Tribunal Act 2004.
+327.Schedule 1 amended
+(1) In Schedule 1 delete:
+Taxi Act 1994
+(2) In Schedule 1 insert in alphabetical order:
+Transport (Road Passenger Services) Act 2018
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
