@@ -15,6 +15,32 @@ Road Traffic Legislation Amendment Act 2015 Pt. 3 | 10 of 2015 | 1 Apr 2015 | 2 
 Reprint 1: The Road Traffic (Administration) Act 2008 as at 15 May 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2)
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 2 and Pt. 3 Div. 3 Subdiv. 2 and Div. 4 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | Pt. 2 Div. 2: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 3 Subdiv. 2: 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279) Pt. 3 Div. 4 Subdiv. 2: 6 Sep 2017 (see s. 2(c) and Gazette 22 Aug 2017 p. 4501)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 had not come into operation. It reads as follows:
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 4 — Road Traffic (Administration) Act 2008 amended
+313.Act amended
+This Subdivision amends the Road Traffic (Administration) Act 2008.
+314.Section 12 amended
+In section 12(5) delete “road law” and insert:
+road law, the Transport (Road Passenger Services) Act 2018 Part 7
+315.Section 14 amended
+In section 14(3) delete the Penalty and insert:
+Penalty for this subsection: imprisonment for 12 months or a fine of 240 PU.
+316.Section 15 amended
+In section 15(3) delete the Penalty and insert:
+Penalty for this subsection: imprisonment for 12 months or a fine of 240 PU.
+317.Section 110 amended
+After section 110(1) insert:
+(1A) In subsection (1) —
+road law includes the Transport (Road Passenger Services) Act 2018.
+318.Section 143A amended
+In section 143A(1) delete the Penalty and insert:
+Penalty for this subsection: imprisonment for 12 months or a fine of 240 PU.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
