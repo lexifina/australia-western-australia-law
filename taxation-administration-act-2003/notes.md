@@ -29,6 +29,10 @@ Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (s
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 5 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 Associations Incorporation Act 2015 s. 229 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Reprint 5: The Taxation Administration Act 2003 as at 22 Apr 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 8 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and with the modifications provided for in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 r. 4 and Pt. 7 Div. 1. Part 7 Div. 1 of those regulations reads as follows:
 Part 7 — Taxation administration
 Division 1 — The Taxation Administration Act 2003
@@ -221,6 +225,15 @@ new provisions means the provisions of the Stamp Act 1921 as amended by the Reve
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
 The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment was to come into operation.
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 8 had not come into operation. It reads as follows:
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 8 — Taxation Administration Act 2003 amended
+328.Act amended
+This Subdivision amends the Taxation Administration Act 2003.
+329.Section 3 amended
+After section 3(1)(j) insert —
+(jaa) the Transport (Road Passenger Services) Act 2018 Part 9 Division 2;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
