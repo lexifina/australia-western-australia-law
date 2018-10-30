@@ -15,6 +15,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(d))
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 3 | 19 of 2018 | 7 Sep 2018 | To be proclaimed (see s. 2(b))
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 The Road Traffic Amendment Act (No. 2) 2007 s. 27 commenced 1 Dec 2010.
 The Road Traffic Legislation Amendment Act 2012 Pt. 3 (s. 15-18) commenced 1 Aug 2012; Pt. 3 other than s. 15-18 commenced 27 Apr 2015.
 On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 had not come into operation. It reads as follows:
@@ -44,6 +45,22 @@ After section 4(6) insert:
 (a) holding a class of authorisation specified in the regulations; and
 (b) driving a kind of vehicle specified in the regulations for that class of authorisation.
 (8) The Minister must consult with the Minister responsible for the administration of the Road Traffic Act 1974 before recommending to the Governor that regulations referred to in subsection (7) be made, amended or repealed.
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 had not come into operation. It reads as follows:
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 5 — Road Traffic (Authorisation to Drive) Act 2008 amended
+319.Act amended
+This Subdivision amends the Road Traffic (Authorisation to Drive) Act 2008.
+320.Section 9 amended
+After section 9(7) insert:
+(8) Subsection (7) does not apply to a person who reproduces a photograph provided under this section for the purposes of the Transport (Road Passenger Services) Act 2018 Part 7.
+321.Section 11B amended
+In section 11B insert in alphabetical order:
+CEO (road passenger services) means the CEO as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
+322.Section 11E inserted
+At the end of Part 2 Division 3A insert:
+11E.Disclosure to CEO (road passenger services)
+The CEO may disclose photographs to the CEO (road passenger services) for the purposes of the performance of the functions of the CEO (road passenger services) under the Transport (Road Passenger Services) Act 2018.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
