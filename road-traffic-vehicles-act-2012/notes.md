@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 June 2015 of the Road Traffic (Vehicles) Act 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Vehicles) Act 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Vehicles) Act 2012 | 7 of 2012 | 21 May 2012 | s. 1 and 2: 21 May 2012 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -7,9 +7,30 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 4 | 2 of 2015 | 25 Feb 2015 | 27 Apr 2015 (see s. 2(1)(b) and (2) and Gazette 17 Apr 2015 p. 1374)
 Road Traffic Legislation Amendment Act 2015 Pt. 5 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 1: The Road Traffic (Vehicles) Act 2012 as at 12 Jun 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 6 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 The Road Traffic Legislation Amendment Act 2012 Pt. 2 commenced on 12 Dec 2012.
 The Road Traffic (Licensing) Regulations 1975 were repealed by the Road Traffic (Repeals and Amendment) Regulations 2014 as at 27 Apr 2015 (see Gazette 23 Dec 2014 p. 4914).
 The Road Traffic (Vehicle Standards) Regulations 2002 were repealed by the Road Traffic (Repeals and Amendment) Regulations 2014 as at 27 Apr 2015 (see Gazette 23 Dec 2014 p. 4914).
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 6 had not come into operation. It reads as follows:
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 6 — Road Traffic (Vehicles) Act 2012 amended
+323.Act amended
+This Subdivision amends the Road Traffic (Vehicles) Act 2012.
+324.Section 21 amended
+In section 21(c) delete “1966.” and insert:
+1966 or the Transport (Road Passenger Services) Act 2018.
+325.Section 131 amended
+Delete section 131(2) and insert:
+(2) For the purposes of subsection (1) a carriage of passengers is under a motor vehicle pooling arrangement if —
+(a) the motor vehicle is provided by the driver; and
+(b) the driver would be undertaking the relevant journey in any event; and
+(c) the carriage is not the result of plying or touting for hire by the driver or another person; and
+(d) the maximum number of persons in the motor vehicle, including the driver, is 9; and
+(e) a payment by a passenger is limited to making a contribution to the costs incurred in making the journey and does not involve profit for the driver or any other person.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
