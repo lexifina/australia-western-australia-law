@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport Co-ordination Act 1966 and includes the amendments made by the other written laws referred to in the following table 1a, 6, 7, 15-19. The table also contains information about any reprint.
+This is a compilation of the Transport Co-ordination Act 1966 and includes the amendments made by the other written laws referred to in the following table 1a, 6, 7, 15-20. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road and Air Transport Commission Act 1966 | 53 of 1966 | 5 Dec 1966 | 19 Jun 1967 (see s. 2 and Gazette 9 Jun 1967 p. 1547)
@@ -77,7 +77,7 @@ Licensing Provisions Amendment Act 2016 Pt. 9 | 44 of 2016 | 1 Dec 2016 | 8 Feb 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Taxi Drivers Licensing Act 2014 Pt. 10 Div. 3 and 6 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 10 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
 (a) in section 2, in the definition of omnibus by deleting “a vehicle licensed for use as a taxi-car under the Taxi-cars (Co-ordination and Control) Act 1963, or” and substituting the following —
@@ -156,22 +156,63 @@ The amendment in the Bulk Handling Repeal Act 2000 s. 16 is not included because
 The amendment in the Labour Relations Reform Act 2002 s. 27 is not included because the section it sought to amend had been replaced by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 42 before the amendment purported to come into operation.
 The Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13) before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Taxi Drivers Amendment Act 2014 Pt. 10 Div. 3 and 6 had not come into operation. They read as follows:
-Division 3 — Road Traffic Legislation Amendment Act 2012 amended
-78.Act amended
-This Division amends the Road Traffic Legislation Amendment Act 2012.
-79.Section 191 deleted
-Delete section 191.
-This Division will not come into operation because the amendment in the Road Traffic Legislation Amendment Act 2012 s. 191 to the Transport Co-ordination Act 1966 s. 47ZE has already had effect as at 27 April 2015.
-Division 6 — Transport Co-ordination Act 1966 amended
-86.Act amended
-This Division amends the Transport Co-ordination Act 1966.
-87.Section 47ZE deleted
-Delete section 47ZE.
-88.Section 47ZF amended
-In section 47ZF(1):
-(a) delete paragraph (q);
-(b) in paragraph (u) delete “and holders of taxi-car drivers’ licences”.
+The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 3 and 6 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 10 had not come into operation. It reads as follows:
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 10 — Transport Co-ordination Act 1966 amended
+334.Act amended
+This Subdivision amends the Transport Co-ordination Act 1966.
+335.Section 4 amended
+(1) In section 4(1) delete the definition of omnibus.
+(2) Delete section 4(3) and (4).
+336.Section 15D inserted
+After section 15C insert:
+15D.Stopping places
+(1) In this section —
+local government includes the Commissioner of Main Roads, in relation to any road in relation to which the Commissioner may exercise power under the Main Roads Act 1930;
+passenger transport vehicle means a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1).
+(2) The Minister may appoint stopping places to be used for passenger transport vehicles operated for hire or reward.
+(3) The Minister may cause to be erected at a stopping place appointed under subsection (2) —
+(a) any sign indicating and identifying the stopping place; and
+(b) shelters of any design or construction the Minister thinks fit.
+(4) Before a sign or shelter is erected under subsection (3), the Minister must cause the Director General to confer with the local government concerned on the matter.
+(5) If agreement cannot be reached on the location, size and type of sign or shelter, the matter is to be determined by —
+(a) the Minister; and
+(b) as the case requires, the Minister administering the Local Government Act 1995 or the Minister administering the Main Roads Act 1930.
+(6) A local government must, if so required by the Minister, appoint within its district any stands for passenger transport vehicles that are agreed on between the Minister and the local government.
+(7) If agreement is not reached under subsection (6), the matter must be resolved in the manner provided by subsection (5) for resolving matters in dispute.
+337.Section 17 amended
+(1) After section 17(2) insert:
+(2A) The Minister may impose conditions, restrictions and prohibitions on an authorisation granted to a tenderer under the Transport (Road Passenger Services) Act 2018 Part 4 Division 2 in addition to any other conditions that may be imposed under that Division.
+(2) In section 17(3):
+(a) after “licence” (first occurrence) insert:
+or authorisation
+(b) delete “this Act to cancel the licence” and insert:
+this Act or the Transport (Road Passenger Services) Act 2018 to cancel the licence or authorisation
+338.Section 19 amended
+(1) In section 19(1) after “subject to” insert:
+subsection (1A) and
+(2) After section 19(1) insert:
+(1A) This Part does not apply to a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1).
+339.Section 20 amended
+In section 20(2) delete “vehicle or omnibus,” and insert:
+vehicle,
+340.Section 21 amended
+Delete section 21(1)(a).
+341.Part III Division 2 deleted
+Delete Part III Division 2.
+342.Part IIIB deleted
+Delete Part IIIB.
+343.Section 55 deleted
+Delete section 55.
+344.Section 57 amended
+Delete section 57(7).
+345.Section 60 amended
+Delete section 60(2)(c), (d), (e) and (ea).
+346.Section 63 amended
+In section 63 delete “this Act.” and insert:
+this Act or the Transport (Road Passenger Services) Act 2018.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
