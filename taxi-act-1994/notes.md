@@ -28,6 +28,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
+Transport (Road Passenger Services) Act 2018 s. 302, 303 and Pt. 14 Div. 2 Subdiv. 9 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
@@ -51,6 +52,38 @@ In section 40:
 (h)regulating the conduct and behaviour of taxi drivers in relation to the provision of taxi services;
 (b) delete:
 (k)regulating the circumstances under which a driver may refuse to accept a passenger or may terminate a hiring;
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 s. 302, 303 and Pt. 14 Div. 2 Subdiv. 9 had not come into operation. They read as follows:
+302.Taxi Act 1994 Part 3 Division 2 deleted
+The Taxi Act 1994 Part 3 Division 2 is deleted.
+303.Taxi Act 1994 repealed
+The Taxi Act 1994 is repealed.
+Part 14 — Repeals and consequential amendments
+Division 2 — Consequential amendments
+Subdivision 9 — Taxi Act 1994 amended
+330.Act amended
+This Subdivision amends the Taxi Act 1994.
+331.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+registration
+taxi dispatch service
+(2) In section 3(1) insert in alphabetical order:
+taxi dispatch service means an on-demand booking service as defined in the Transport (Road Passenger Services) Act 2018 section 10;
+(3) In section 3(3):
+(a) in paragraph (a) delete “or an application for registration”;
+(b) after paragraph (b) insert:
+(ba) a reference to the provider of a taxi dispatch service is a reference to the provider of an on-demand booking service as defined in the Transport (Road Passenger Services) Act 2018 section 10; and
+332.Section 33 amended
+Delete section 33(c).
+333.Section 37 amended
+In section 37(1):
+(a) in paragraph (b) delete “section 24; or” and insert:
+section 24,
+(b) delete paragraph (c);
+(c) in paragraph (e) delete “transferee; or” and insert:
+transferee,
+(d) delete paragraph (f);
+(e) delete “plates or the provider of a taxi dispatch service,” and insert:
+plates,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
