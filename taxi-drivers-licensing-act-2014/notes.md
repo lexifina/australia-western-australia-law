@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Taxi Drivers Licensing Act 2014 Pts. 2-11 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2)
+Transport (Road Passenger Services) Act 2018 s. 304 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pts. 2-11 had not come into operation. They read as follows:
 “
 Part 2 — Unlicensed persons driving taxis and related offences
@@ -799,6 +800,9 @@ Part 11 — Repeals
 If Part 10 Division 1 of this Act does not come into operation under section 2(c)(ii) of this Act, delete Part 10 Division 1 on the day fixed under section 2(b).
 90.Part 10 Division 3 repealed if not commenced
 If Part 10 Division 3 of this Act does not come into operation under section 2(e)(ii) of this Act, delete Part 10 Division 3 on the day on which section 87 comes into operation under section 2(f).
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 s. 304 had not come into operation. It reads as follows:
+304.Taxi Drivers Licensing Act 2014 repealed
+The Taxi Drivers Licensing Act 2014 is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
