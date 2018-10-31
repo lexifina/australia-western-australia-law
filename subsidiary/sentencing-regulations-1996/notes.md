@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 September 2018 of the Sentencing Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Sentencing Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Sentencing Regulations 1996 | 4 Oct 1996 p. 5281-96 | 4 Nov 1996 (see r. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -29,6 +29,7 @@ Sentencing Amendment Regulations (No. 2) 2016 | 17 Jan 2017 p. 418 | r. 1 and 2:
 Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 4 | 24 Jan 2017 p. 744-5 | 25 Jan 2017 (see r. 2(b) and Gazette 24 Jan 2017 p. 741)
 Sentencing Amendment Regulations (No. 2) 2017 | 29 Sep 2017 p. 4983-5 | r. 1 and 2: 29 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2017 (see r. 2(b) and Gazette 29 Sep 2017 p. 4983)
 Reprint 4: The Sentencing Regulations 1996 as at 21 Sep 2018 (includes amendments listed above)
+Sentencing Amendment Regulations (No. 2) 2018 | 30 Oct 2018 p. 4333-4 | r. 1 and 2: 30 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2018 (see r. 2(b))
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
 The Credit (Administration) Act 1984 s. 37, 38, 39(4) and (6) were deleted by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 29.
 The following sections of The Criminal Code have been deleted:
@@ -58,6 +59,7 @@ Defined terms
 Defined termProvision(s)
 approved3(1)
 court officer3(1)
+courts electronic system14(1)
 lower court application5A(1)
 non-complying person8B(1)
 prosecutor4B(8), 10(8)
