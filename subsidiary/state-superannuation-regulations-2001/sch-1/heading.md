@@ -39,7 +39,7 @@
 29A.Western Australian Health Promotion Foundation mentioned in the Western Australian Health Promotion Foundation Act 2016 section 5.
 30.Western Australian Land Information Authority established by the Land Information Authority Act 2006
 31.Western Australian Planning Commission established by the Planning and Development Act 2005
-[Division 1 amended by Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; 10 Jun 2014 p. 1806; 26 Jun 2015 p. 2273; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
+[Division 1 amended: Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; 10 Jun 2014 p. 1806; 26 Jun 2015 p. 2273; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b) unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 [2A.deleted]
@@ -105,4 +105,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) continued by the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended by Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
+[Division 2 amended: Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
