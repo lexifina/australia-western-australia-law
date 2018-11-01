@@ -59,11 +59,7 @@ State Superannuation Amendment Regulations (No. 4) 2016 | 1 Jul 2016 p. 2750 | r
 State Superannuation Amendment Regulations 2016 | 5 Jul 2016 p. 2817-19 | r. 1 and 2: 5 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jul 2016 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2016 | 26 Aug 2016 p. 3667-8 | r. 1 and 2: 26 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2016 (see r. 2(b) and Gazette 26 Jul 2016 p. 3145)
 State Superannuation Amendment Regulations (No. 2) 2016 | 10 Jan 2017 p. 147-57 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2 and 5, 6 and 15: 11 Jan 2017 (see r. 2(b)); r. 5, 6 and 15: 1 Jul 2017 (see r. 2(c))
-State Superannuation Amendment Regulations 2018 (other than r. 12-16) | 12 Oct 2018 p. 4060-4 | r. 1 and 2: 12 Oct 2018 (see r. 2(a)); Regulations other r. 1, 2 and 12-16: 13 Oct 2018 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-State Superannuation Amendment Regulations 2018 r. 12-16 | 12 Oct 2018 p. 4063-4 | 1 Nov 2018 (see r. 2(b))
+State Superannuation Amendment Regulations 2018 | 12 Oct 2018 p. 4060-4 | r. 1 and 2: 12 Oct 2018 (see r. 2(a)); Regulations other r. 1, 2 and 12-16: 13 Oct 2018 (see r. 2(c)); r. 12-16: 1 Nov 2018 (see r. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
 Repealed by the State Superannuation Act 2000 s. 39.
@@ -81,29 +77,6 @@ is taken to have become a statutory Member when he or she ceased to be so exclud
 The State Superannuation Amendment Regulations (No. 4) 2008 had not come into operation when it was deleted by the State Superannuation Amendment Regulations 2009 Pt. 3.
 The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 (2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
-On the date as at which this compilation was prepared, the State Superannuation Amendment Regulations 2018 r. 12-16 had not come into operation. They read as follows:
-12.Regulation 220 amended
-(1) In regulation 220 delete the definition of Superannuation Complaints Tribunal.
-(2) In regulation 220 in the definition of reporting period paragraph (b) delete “next;” and insert:
-next.
-13.Regulation 221 amended
-Delete regulation 221(2)(f)(ii) and insert:
-(ii) the operation of the AFCA scheme.
-14.Regulation 224 amended
-Delete regulation 224(2)(e)(ii) and insert:
-(ii) the operation of the AFCA scheme;
-15.Regulation 224B amended
-(1) Delete regulation 224B(2)(c)(ii) and insert:
-(ii) the operation of the AFCA scheme.
-(2) Delete regulation 224B(3)(a)(ii) and insert:
-(ii) the operation of the AFCA scheme;
-16.Regulation 250 replaced
-Delete regulation 250 and insert:
-250.Independent review by AFCA of Board’s decisions
-(1) For the purposes of the independent review mentioned in section 13(3)(b) of the Act, the Australian Financial Complaints Authority is prescribed.
-(2) Subject to the Corporations Act Part 7.10A, a person refers a matter under section 13(3)(b) of the Act by making a complaint under the AFCA scheme in relation to the matter.
-Note for this regulation:
-The Superannuation Complaints Tribunal will continue to deal with complaints, relating to decisions of the Board, that are made to it but not finalised before the commencement of the State Superannuation Amendment Regulations 2018 regulation 16 until the Superannuation (Resolution of Complaints) Act 1993 (Commonwealth) is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -299,7 +272,6 @@ statutory WSS Member50(1)
 suffering permanent incapacity76(4), 118(5)
 suffers from a terminal medical condition3(1)
 superannuation agreement219A(2)
-Superannuation Complaints Tribunal220
 superannuation fund3(1)
 superannuation interest219A(1)
 superannuation salary in respect of a contribution period26(1)
