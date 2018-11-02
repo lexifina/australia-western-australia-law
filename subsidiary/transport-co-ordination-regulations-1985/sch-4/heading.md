@@ -1,6 +1,6 @@
 ## Schedule 4 — Infringement notice forms
 [r. 13(2) and (3)]
-[Heading inserted in Gazette 5 Aug 2016 p. 3313.]
+[Heading inserted: Gazette 5 Aug 2016 p. 3313.]
 FORM 1
 Transport Co-ordination Act 1966 section 58A
 Transport Co-ordination Regulations 1985 regulation 13(2)
@@ -51,7 +51,7 @@ Card Number qqqqqqqqqqqqqqqq
 Amount ................................................................................................
 Cardholder Name ................................................................................
 Signature ........................................... Expiry Date ............./..............
-[Form 1 inserted in Gazette 5 Aug 2016 p. 3313-15.]
+[Form 1 inserted: Gazette 5 Aug 2016 p. 3313-15.]
 FORM 2
 Transport Co-ordination Act 1966 section 58A
 Transport Co-ordination Regulations 1985 regulation 13(3)
@@ -70,4 +70,4 @@ A summons will be issued*
 Authorised person who sent this notice
 ......................................................................................... NameSignature
 ................................................. Date signed
-[Form 2 inserted in Gazette 5 Aug 2016 p. 3315.]
+[Form 2 inserted: Gazette 5 Aug 2016 p. 3315.]

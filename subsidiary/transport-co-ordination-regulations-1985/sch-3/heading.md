@@ -1,8 +1,8 @@
 ## Schedule 3 — Airports
 [r. 8BA and 8BB]
-[Heading inserted in Gazette 6 Oct 2006 p. 4367.]
+[Heading inserted: Gazette 6 Oct 2006 p. 4367.]
 ## Division 1
-[Heading inserted in Gazette 6 Oct 2006 p. 4367.]
+[Heading inserted: Gazette 6 Oct 2006 p. 4367.]
 1.Albany
 2.Carnarvon
 3.Esperance
@@ -16,9 +16,9 @@
 11.Monkey Mia-Shark Bay
 12.Mt. Magnet
 13.Wiluna
-[Division 1 inserted in Gazette 6 Oct 2006 p. 4367-8.]
+[Division 1 inserted: Gazette 6 Oct 2006 p. 4367-8.]
 ## Division 2
-[Heading inserted in Gazette 6 Oct 2006 p. 4368.]
+[Heading inserted: Gazette 6 Oct 2006 p. 4368.]
 1.Fitzroy Crossing
 2.Halls Creek
-[Division 2 inserted in Gazette 6 Oct 2006 p. 4368.]
+[Division 2 inserted: Gazette 6 Oct 2006 p. 4368.]
