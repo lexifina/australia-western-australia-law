@@ -1,7 +1,7 @@
 ## Schedule 2
 ## Forms
-[Form 1 deleted in Gazette 27 May 2016 p. 1556.]
-[Form 2 deleted in Gazette 28 Jun 2016 p. 2688.]
+[Form 1 deleted: Gazette 27 May 2016 p. 1556.]
+[Form 2 deleted: Gazette 28 Jun 2016 p. 2688.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -72,7 +72,7 @@ Private Address (if any)........................................................
 Date of Application.................................................................................................
 PLEASE FORWARD ROAD TRAFFIC (VEHICLES) ACT 2012 VEHICLE LICENCE AND CURRENT RENEWAL RECEIPT FOR EACH VEHICLE WHEN SUBMITTING THIS APPLICATION
 IF AN APPLICATION FOR A REPLACEMENT OR ADDITIONAL VEHICLE, PLEASE FORWARD CURRENT COMMERCIAL GOODS VEHICLE LICENCE IN ADDITION TO ABOVE
-[Form 4 amended in Gazette 28 Feb 2003 p. 683; 8 Jan 2015 p. 70.]
+[Form 4 amended: Gazette 28 Feb 2003 p. 683; 8 Jan 2015 p. 70.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -87,7 +87,7 @@ Make and Type | Plate No | Max Load Kg | Gross Weight Kg | $ c
 RATETOTAL
 ISSUED with the authority of the MINISTER and effective on and from the
 day of 20 .
-[Form 5 amended in Gazette 28 Feb 2003 p. 683.]
+[Form 5 amended: Gazette 28 Feb 2003 p. 683.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -125,7 +125,7 @@ AMENDMENTS TO ROUTE AND/OR GOODS
 6. Freight Rates to be charged in case of Regular.................................................... Public Transport Service or General Hire. (If .................................................... space inadequate attach separate statement.).................................................... .....................................................................................................................................
 7. Reasons why existing transport facilities ........................................................... (road, rail, sea or air) cannot cater adequately ........................................................... for the transport proposed in this application............................................................ .....................................................................................................................................
 8. Any further information in support of this ........................................................... application............................................................ ........................................................................................................................................
-[Form 6 amended in Gazette 8 Jan 2015 p. 70.]
+[Form 6 amended: Gazette 8 Jan 2015 p. 70.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -179,7 +179,7 @@ Address............................................................
 .........................................................................
 OPERATIONS REQUIRING A LICENCE —
 Except where the above mentioned exemptions apply, a licence is required in respect of every aircraft which is used to carry passengers or goods for hire or for any consideration, or in the course of or in connection with any trade or business whatever.
-[Form 7 amended in Gazette 28 Feb 2003 p. 683.]
+[Form 7 amended: Gazette 28 Feb 2003 p. 683.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -193,7 +193,7 @@ DESCRIPTION OF AIRCRAFT AND FEES PAYABLE
 Make and Type | Identification No. | No. of Engines | Max Take-off Weight kg | $ c
 RATE | TOTAL
 ISSUED with the authority of the MINISTER and effective on and from the day of 20
-[Form 8 amended in Gazette 28 Feb 2003 p. 683.]
+[Form 8 amended: Gazette 28 Feb 2003 p. 683.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -213,7 +213,7 @@ To the Director General
 I/WE CERTIFY that the above information is true and correct in every particular.
 FOR OFFICE USE ONLY
 Rec. No. | Amount | Date Paid | .......................................... Signature of Licensee. Date
-[Form 9 amended in Gazette 28 Feb 2003 p. 683.]
+[Form 9 amended: Gazette 28 Feb 2003 p. 683.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -238,7 +238,7 @@ Port of Loading — | .................. | Consignor — | .....................
 Port of Discharge | .................. | Consignee — | ......................................
 I/WE HEREBY DECLARE that the information contained in this application and the attachments (if any) hereto is, to the best of my/our knowledge and belief, true and correct in every particular.
 Date of Application...................20........ Signature of Applicant...........................
-[Form 10 amended in Gazette 28 Feb 2003 p. 683.]
+[Form 10 amended: Gazette 28 Feb 2003 p. 683.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -255,7 +255,7 @@ Ports of Call | Description of Cargo | Consignors and Consignees
 Port of Loading — .................................... Port of Discharge — .................................... |  | Consignor — .................................... Consignee — ....................................
 LICENCE FEE: $............................................ Receipt No. — .............................................. Date of Payment — .............................................. | ISSUED with the authority of the Minister on the................................................20..........
 * Strike out if not applicable.
-[Form 11 amended in Gazette 28 Feb 2003 p. 683.]
+[Form 11 amended: Gazette 28 Feb 2003 p. 683.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -272,7 +272,7 @@ Period of renewal applied for...................................................
 PARTICULARS OF SHIP
 Name of Ship............................................Port of Registry.................................................
 Name of Registered Owner................................Official Number.......................................
-[Form 12 amended in Gazette 28 Feb 2003 p. 683.]
+[Form 12 amended: Gazette 28 Feb 2003 p. 683.]
 Western Australia TRANSPORT CO-ORDINATION ACT 1966 TRANSPORT CO-ORDINATION REGULATIONS 1985 APPLICATION FOR PERMIT/TEMPORARY LICENCE | Telephone application No. issued (if any) No.............................
 Form 13
 S. 41(2)
@@ -296,7 +296,7 @@ REASONS why existing transport services cannot be used: — ....................
 FOR OFFICE USE ONLY | I HEREBY CERTIFY that the information set out hereon is true and correct in every particular, and that the vehicle proposed to be used is correctly under the Road Traffic (Vehicles) Act 2012. Date of Application...........................20...... Signature of Applicant................................ Occupation of Applicant............................. Address of Applicant..................................
 Rec. No......................... Amount.......................... Date...............................
 Permit No...................... Expires........................... .......................................
-[Form 13 amended in Gazette 28 Feb 2003 p. 683; 8 Jan 2015 p. 70.]
+[Form 13 amended: Gazette 28 Feb 2003 p. 683; 8 Jan 2015 p. 70.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -321,7 +321,7 @@ NOTE — SPECIAL CONDITIONS BELOW ARE/ARE NOT APPLICABLE | TOTAL FEES DUE $
  |  | Amount.....................
  | .......................................................... Authorised Officer | Date....................... | $.....................................
 N.B. — This Permit is not transferable under any circumstances.
-[Form 14 amended in Gazette 28 Feb 2003 p. 684; 8 Jan 2015 p. 71 (as amended in Gazette 17 Apr 2015 p. 1388).]
+[Form 14 amended: Gazette 28 Feb 2003 p. 684; 8 Jan 2015 p. 71 (as amended: Gazette 17 Apr 2015 p. 1388).]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -345,7 +345,7 @@ Quantity ........................... ........................... ...............
 Description ...................................................... ...................................................... ...................................................... | Description ...................................................... ...................................................... ...................................................... | Description ...................................................... ...................................................... ...................................................... | Description ...................................................... ...................................................... ......................................................
 PARTICULARS OF VOYAGE | Proposed date of Sailing ........................... Proposed date of discharge ........................... ………………… ........................... | Proposed date of sailing ........................... Proposed date of discharge ........................... | Proposed date of sailing ........................... Proposed date of discharge ........................... | Proposed date of sailing ........................... Proposed date of discharge ...........................
 Port at which cargo is to be loaded — ................................................ Port at which cargo is to be discharged — ................................................ ................................................ | Port at which cargo is to be loaded — ................................................ Port at which cargo is to be discharged — ................................................ | Port at which cargo is to be loaded — ................................................ Port at which cargo is to be discharged — ................................................ | Port at which cargo is to be loaded — ................................................ Port at which cargo is to be discharged — ................................................
-[Form 15 amended in Gazette 28 Feb 2003 p. 684.]
+[Form 15 amended: Gazette 28 Feb 2003 p. 684.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -360,7 +360,7 @@ Port of Discharge................................Discharge on or about..........
 Description of Cargo | Quantity | Consigned —
 ........................................................ ........................................................ ........................................................ | .................. .................. .................. | From — ..................................... .....................................
 PERMIT FEE: $................ Receipt No........................ | ISSUED with the authority of the Minister on the......................................20............
-[Form 16 amended in Gazette 28 Feb 2003 p. 684.]
+[Form 16 amended: Gazette 28 Feb 2003 p. 684.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 17
@@ -385,7 +385,7 @@ Signature of Transferor.........................................................
 Date.......................................
 Telephone No. ........................................
 * Delete whichever is not applicable.
-[Form 17 inserted in Gazette 29 Apr 1988 p. 1306; amended in Gazette 28 Feb 2003 p. 684.]
+[Form 17 inserted: Gazette 29 Apr 1988 p. 1306; amended: Gazette 28 Feb 2003 p. 684.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -399,7 +399,7 @@ Signature of Transferee.............................................
 Date.......................................20............ Telephone No.........................................
 The omnibus in respect of which the abovementioned licence has been issued has been disposed of to (transferee)....................................................................... and I agree to the licence being transferred to him.
 Date..................................20........... Signature of Transferor.................................
-[Form 18 amended in Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2688.]
+[Form 18 amended: Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2688.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 19
@@ -414,8 +414,8 @@ for the transfer to him of licence for omnibus [insert vehicle description] or C
 (who has agreed to such transfer), the Licence is hereby transferred accordingly and henceforth the transferee shall be the licensee and, as such, shall comply in all respects with the terms and conditions of the licence.
 Issued with the authority of the Minister
 ...................................................Authorised Officer
-[Form 19 inserted in Gazette 29 Apr 1988 p. 1306; amended in Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2689.]
-[Form 20 deleted in Gazette 30 Dec 2004 p. 6960.]
+[Form 19 inserted: Gazette 29 Apr 1988 p. 1306; amended: Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2689.]
+[Form 20 deleted: Gazette 30 Dec 2004 p. 6960.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -433,7 +433,7 @@ Court...........................................................................
 2.If you wish to make an election please complete the copies of the form of election accompanying this notice so as to indicate either that you will appear at the hearing of the complaint contained in the summons or that you will not appear at the hearing.
 3.For an election to be properly made under the Act one copy of the form of election should be delivered by post or otherwise to the registrar of the Magistrates Courtat the place appointed in the summons for the hearing and one copy should be delivered by post or otherwise to the complainant whose address is ................................................................................................................ ................................................................................................................................. so as to reach each addressee not later than 21 days before the time appointed in the summons for the hearing of the complainant.
 4.If you DO NOT APPEAR, whether you elect to do so or not, the Magistrates Court hearing the complaint may under the alternative procedure provided for in the Act proceed —
-(a)to hear and determine the complaint in your absence;
+(a)to hear and determine the complaint in your absence; and
 (b)to permit the affidavits accompanying the summons and this notice to be tendered in evidence; and
 (c)to determine the complaint on such particulars in the affidavits in support of the matters alleged in the complaints as would, under the laws of evidence apart from section 56A of the Transport Co-ordination Act 1966, be admissible if given orally before the Court, and not on any other particulars.
 5.If you DO APPEAR at the hearing having elected not to appear or having made no election at all, the Court hearing the complaint is required, on the application of the complainant, to adjourn the hearing of the complaint for at least such time as is shown to the satisfaction of the Court to be necessary to enable the complainant to proceed otherwise than by the procedure referred to in paragraph 4 of this notice.
@@ -517,7 +517,7 @@ Private Address ................................................................
 .................................................................................. Phone No. ............................
 Business Address or Registered Office ..................................................................
 .................................................................................. Phone No. ............................
-[Form 24 inserted in Gazette 29 Apr 1988 p. 1307; amended in Gazette 28 Feb 2003 p. 684.]
+[Form 24 inserted: Gazette 29 Apr 1988 p. 1307; amended: Gazette 28 Feb 2003 p. 684.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 25
@@ -536,7 +536,7 @@ subject to the Transport Co-ordination Act 1966 and the conditions (if any) endo
 Issued with the authority of the Minister and effective on ..................... 20 ........
 .....................................................
 Authorised Officer
-[Form 25 inserted in Gazette 29 Apr 1988 p. 1307-8; amended in Gazette 28 Feb 2003 p. 684.]
+[Form 25 inserted: Gazette 29 Apr 1988 p. 1307-8; amended: Gazette 28 Feb 2003 p. 684.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Telephone application
@@ -562,4 +562,4 @@ Date of application
 Signature of owner
 Occupation of owner
 Address of owner.
-[Form 26 inserted in Gazette 29 Apr 1988 p. 1308; amended in Gazette 28 Feb 2003 p. 684.]
+[Form 26 inserted: Gazette 29 Apr 1988 p. 1308; amended: Gazette 28 Feb 2003 p. 684.]
