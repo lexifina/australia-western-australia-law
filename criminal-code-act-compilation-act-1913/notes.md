@@ -189,6 +189,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 2 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 | 28 of 2018 | 2 Nov 2018 | 1 Jan 2019 (see s. 2(b)) and Gazette 21 Dec 2018 p. 4845)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -238,6 +239,27 @@ Delete section 297(4)(c)(iii) and insert:
 309.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
+On the date as at which this compilation was prepared, the Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — The Criminal Code amended
+6.Act amended
+This Part amends The Criminal Code.
+7.Section 338B amended
+In section 338B delete the Summary conviction penalty and insert:
+Summary conviction penalty:
+(a)in a case to which paragraph (a) above applies: imprisonment for 3 years and a fine of $36 000; or
+(b)in a case to which paragraph (b) above applies: imprisonment for 18 months and a fine of $18 000.
+8.Section 401 amended
+In section 401(3) delete “$10 000” and insert:
+$50 000
+9.Section 409 amended
+In section 409(2) delete “$10 000” and insert:
+$50 000
+10.Section 426 amended
+In section 426(2) delete “$10 000,” and insert:
+$50 000,
+11.Section 527 amended
+In section 527(2) delete “$10 000” and insert:
+$50 000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
