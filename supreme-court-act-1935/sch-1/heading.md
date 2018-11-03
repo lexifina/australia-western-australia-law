@@ -1,6 +1,6 @@
 ## First Schedule — Enactments repealed
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Session and Number | Title or Short Title | Extent of Repeal
 2 Will. IV., No. 3 | An Act for regulating the constitution of juries and the office of sheriff | The whole.
 3 and 4 Will. IV., c. 42 (adopted by 6 Will. IV., No. 4) | An Act for the further amendment of the law, and the better advancement of justice | The whole except sections 2 to 7, and sections 31, 37 and 38.
