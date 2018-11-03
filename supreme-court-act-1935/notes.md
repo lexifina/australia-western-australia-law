@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Supreme Court Act 1935 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Supreme Court Act 1935 | 36 of 1935 (26 Geo. V No. 36) | 3 Mar 1936 | 1 May 1936 (see s. 1 and Gazette 9 Apr 1936 p. 527). Reserved for Royal Assent 7 Jan 1936. Assented: 3 Mar 1936 (see Gazette 3 Apr 1936 p. 484)
@@ -89,10 +89,13 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 201
 Reprint 9: The Supreme Court Act 1935 as at 6 Jan 2012 (includes amendments listed above)
 Commercial Arbitration Act 2012 s. 45 it. 19 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pts. 3 Div. 20 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Courts Legislation Amendment Act 2018 Pt. 4 | 29 of 2018 | 2 Nov 2018 | 3 Nov 2018 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Other notes
+Footnote no longer applicable.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 5.Sections 6 and 7 replaced by sections 6, 7 and 7A, and transitional provision
@@ -140,7 +143,7 @@ If immediately before commencement a judgment of the Supreme Court, District Cou
 (a) if any proceedings for or in connection with enforcing the judgment are pending in a court, section 145 applies;
 (aa) if any enforcement process is in force in relation to the judgment, section 146 applies;
 (b) otherwise, the judgment may be enforced under and subject to the Civil Judgments Enforcement Act 2004.
-[Section 144 amended by No. 5 of 2008 s. 24.]
+[Section 144 amended: No. 5 of 2008 s. 24.]
 145.Pending proceedings to enforce a judgment
 (1) If immediately before commencement proceedings for or in connection with enforcing a judgment are pending in a court, then on commencement either —
 (a) the proceedings may be continued under the law in force immediately before commencement, despite the enactment of the Civil Judgments Enforcement Act 2004; or
@@ -193,14 +196,6 @@ Division 2 — General
 The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follows:
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
-68.Supreme Court Act 1935 amended
-Section 11B of the Supreme Court Act 1935 is amended as follows:
-(a) by repealing subsection (2) and inserting the following subsection instead —
-“
-(2)Where a Master was, immediately before his appointment as such, an officer of the Public Service of the State he retains his existing and accruing rights and for the purpose of determining those rights, his service as Master shall be taken into account as if it were service in the Public Service of the State.
-”;
-(b) by repealing subsection (3a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -14,6 +14,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 | 8 of 2012 | 21 May 20
 Reprint 2: The Civil Judgments Enforcement Act 2004 as at 24 May 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 3 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 7 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Courts Legislation Amendment Act 2018 Pt. 2 | 29 of 2018 | 2 Nov 2018 | 3 Nov 2018 (see s. 2(b))
 The correct short title of this Commonwealth Act is the Child Support (Assessment) Act 1989.
 The Workmen’s Wages Act 1898 was repealed by the Statutes (Repeals and Minor Amendments) Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
@@ -30,7 +31,7 @@ If immediately before commencement a judgment of the Supreme Court, District Cou
 (a) if any proceedings for or in connection with enforcing the judgment are pending in a court, section 145 applies;
 (aa) if any enforcement process is in force in relation to the judgment, section 146 applies;
 (b) otherwise, the judgment may be enforced under and subject to the Civil Judgments Enforcement Act 2004.
-[Section 144 amended by No. 5 of 2008 s. 24.]
+[Section 144 amended: No. 5 of 2008 s. 24.]
 145.Pending proceedings to enforce a judgment
 (1) If immediately before commencement proceedings for or in connection with enforcing a judgment are pending in a court, then on commencement either —
 (a) the proceedings may be continued under the law in force immediately before commencement, despite the enactment of the Civil Judgments Enforcement Act 2004; or
