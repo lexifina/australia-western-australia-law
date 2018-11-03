@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 October 2015 of the Magistrates Court Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Magistrates Court Act 2004 | 47 of 2004 | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -20,6 +20,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 30 | 8 of 2012 | 21 May 2
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 13 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Reprint 3: The Magistrates Court Act 2004 as at 2 Oct 2015 (includes amendments listed above)
+Courts Legislation Amendment Act 2018 Pt. 3 | 29 of 2018 | 2 Nov 2018 | 3 Nov 2018 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 13 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
 The Courts Legislation Amendment and Repeal Act 2004 Part 22 contains transitional provisions about enforcing judgments given before the Civil Judgments Enforcement Act 2004 commenced, including judgment of Local Courts.
