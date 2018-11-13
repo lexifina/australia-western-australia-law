@@ -6,14 +6,17 @@ Water Agencies (Powers) Act 1984
 Application for a licence under the Rights in Water and Irrigation Act 1914 s. 26D
 Name of applicant | ..................................................................................................................................
 Postal address for applicant | ...................................................................................................................................................................................................
-Description of the land the application is made in respect of | ...................................................................................................................................................................................................
+Description of the land in respect of which the application is made [Land descriptions to be as they appear on Certificate of Title, certificate of Crown land title or TENGRAPH] | .................................................................................................................................................................................................................................................................... .................................................................................................................................. .................................................................
 Does the applicant own the land? | ..................................................................................................................................
 If the applicant does not own the land, describe the interest that would entitle the applicant to hold a licence in respect of the land | .....................................................................................................................................................................................................................................................................................................................................
 If there is another licence under section 26D in respect of the land, provide the licence number | ....................................................................................................................................................................................................................................................................
 Purpose of application | new well/bore/excavation/soak................ enlargement or deepening of existing well/bore/excavation/soak....................... other (describe)........................................
-Proposed water use, please specify — ·if the use is commercial or non commercial ·the volume of water to be used ·the water use ·the duration of the use (and licence)
-Declaration by applicant | I,................................apply for a licence under section 26D of the Rights in Water and Irrigation Act 1914. .................................................................(signature or seal of applicant)
-[Form 1 amended by Gazette 23 Jun 2009 p. 2500.]
+If the applicant is a water services licensee, specify water services provider name and licence number | ........................................................................................................................ ........................................................................................................................
+Is the application related to public water supply purposes? | ........................................................................................................................
+Is the application related to mining purposes? If so, include details as relevant: ·mining tenement number(s), mine name and mine field ·details of petroleum or geothermal title(s) ·petroleum pipeline licence number(s) | .................................................................................................................................................................................... .................................................................................................................................................................................... .................................................................................................................................................................................... ............................................................
+Proposed water use: ·specify whether the use is commercial or not ·specify volume of water to be used ·include detailed description of purposes for which water to be used ·specify duration of use and licence | ........................................................................................................................ ............................................................ ............................................................ ............................................................ ............................................................ ............................................................ ............................................................ ............................................................ ............................................................ ............................................................
+Declaration by applicant | I,................................apply for a licence under section 26D of the Rights in Water and Irrigation Act 1914. ..................................................................(signature or seal of applicant)
+[Form 1 amended: Gazette 23 Jun 2009 p. 2500; 30 Oct 2018 p. 4344-5.]
 Form 2
 [r. 39]
 Rights in Water and Irrigation Act 1914 Water Agencies (Powers) Act 1984
@@ -93,7 +96,7 @@ Signature of person making declaration
 _____________________
 Date
 * If there is insufficient space, please use, and attach, a separate page.
-[Form 2 inserted by Gazette 15 Sep 2009 p. 3599-604.]
+[Form 2 inserted: Gazette 15 Sep 2009 p. 3599-604.]
 Form 3
 [r. 53]
 Water Agencies (Powers) Act 1984 s. 103(2)
@@ -117,7 +120,7 @@ OR | IF YOU DO NOT PAY THE MODIFIED PENALTY
 2. | A prosecution notice may be issued against you for the alleged offence, in which case the matter will be dealt with by a COURT.
 OR
  | The modified penalty may be recovered by the Fines Enforcement Registry, in which case — (a)additional administrative charges may be incurred; (b)some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold; and (c)you will be given an opportunity to elect to have a prosecution notice for the alleged offence dealt with by a COURT. PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
-[Form 3 amended by Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625; 4 Apr 2008 p. 1313; 23 Jun 2009 p. 2500; 20 Aug 2013 p. 3846; 15 Sep 2017 p. 4795.]
+[Form 3 amended: Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625; 4 Apr 2008 p. 1313; 23 Jun 2009 p. 2500; 20 Aug 2013 p. 3846; 15 Sep 2017 p. 4795.]
 Form 4
 [r. 54]
 Water Agencies (Powers) Act 1984 s. 103(6)
@@ -131,7 +134,7 @@ Infringement Notice No. ......................... Date ...... / ...... / ......
  | AN INFRINGEMENT NOTICE GIVEN TO YOU HAS BEEN WITHDRAWN AND NO FURTHER ACTION WILL BE TAKEN*/A SUMMONS WILL BE ISSUED* * Delete where not applicable.
 Information about the withdrawn notice | Date of issue: ....................................................................... Alleged offence: .................................................................. Notice number: ....................................................................
 Information about this notice | Date: .................................................................................... Issued at: ............................................................................. By: ....................................................................................... Signature of prescribed person: .......................................... Title of the office held by the prescribed person: ...............
-[Form 4 amended by Gazette 14 Jun 2002 p. 2837; 23 Jun 2009 p. 2500.]
+[Form 4 amended: Gazette 14 Jun 2002 p. 2837; 23 Jun 2009 p. 2500.]
 Form 5
 Rights in Water and Irrigation Act 1914
 Water Agencies (Powers) Act 1984 s. 103(11)
@@ -148,4 +151,4 @@ This is to certify that the person identified on this certificate is authorised,
 Signed: .......................................................................
 Chief executive officer of the Department or Chief executive officer of the Water Corporation on behalf of the Water Corporation.*
 * Delete the inapplicable.
-[Form 5 amended by Gazette 14 Jun 2002 p. 2837; 23 Jun 2009 p. 2501; 15 Sep 2017 p. 4795.]
+[Form 5 amended: Gazette 14 Jun 2002 p. 2837; 23 Jun 2009 p. 2501; 15 Sep 2017 p. 4795.]
