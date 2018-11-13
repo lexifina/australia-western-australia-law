@@ -14,6 +14,16 @@ Health Services (Fees and Charges) Amendment Order (No. 4) 2018 | 27 Apr 2018 p.
 Health Services (Fees and Charges) Amendment Order (No. 3) 2018 | 11 May 2018 p. 1503 | cl. 1 and 2: 11 May 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 12 May 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 6) 2018 | 25 May 2018 p. 1631-2 | cl. 1 and 2: 25 May 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 5) 2018 | 12 Jun 2018 p. 1895 | cl. 1 and 2: 12 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 13 Jun 2018 (see cl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Services (Fees and Charges) Amendment Order (No.7) 2018 cl. 3 and 4 | 13 Nov 2018 p. 4432 | 1 Dec 2018 (see cl. 2(b))
+On the date as at which this compilation was prepared, the Health Services (Fees and Charges) Amendment Order (No.7) 2018 cl. 3 and 4 had not come into operation. They read as follows:
+3.Order amended
+This order amends the Health Services (Fees and Charges) Order 2016.
+4.Clause 3 amended
+In clause 3 in the definition of midwife delete “whose name is entered on the Register of Midwives kept under that Law;” and insert:
+in the midwifery profession;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
