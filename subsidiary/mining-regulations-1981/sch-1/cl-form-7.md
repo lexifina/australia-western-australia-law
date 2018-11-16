@@ -8,8 +8,7 @@ Form 7 Instrument of Licence | WESTERN AUSTRALIA Mining Act 1978 (Sec. 116 Reg. 
 (f)Shire | (f) subject to the provisions of the Mining Act 1978 and the conditions/endorsements as set out on the reverse of this Form. .............................................................. Mining Registrar
 NOTE
 In addition to any specific conditions that are endorsed on this instrument, the holder in exercising the rights granted by this Licence must first ensure that the necessary consents and permission have been obtained and compensation has been agreed to or determined in respect to certain Crown Land, Public Reserves, private land, etc., and where the lawful rights of other land users is concerned or affected.
-________
 (Reverse of Form)
 Schedule of Endorsements/Conditions/Description of
 Granted Area
-[Form 7 inserted by Gazette 24 Jun 1994 p. 2939; amended by Gazette 4 Apr 1997 p. 1780; 15 Jan 2010 p. 121.]
+[Form 7 inserted: Gazette 24 Jun 1994 p. 2939; amended: Gazette 4 Apr 1997 p. 1780; 15 Jan 2010 p. 121.]

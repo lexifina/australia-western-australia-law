@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 November 2018 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -20,7 +20,7 @@ Mining Amendment Regulations (No. 2) 1988 | 8 Apr 1988 p. 1165 | 8 Apr 1988
 Mining Amendment Regulations (No. 3) 1988 | 20 May 1988 p. 1705-7 | 20 May 1988
 Mining Amendment Regulations (No. 5) 1988 | 15 Jul 1988 p. 2474 | 15 Jul 1988
 Mining Amendment Regulations (No. 4) 1988 | 22 Jul 1988 p. 2526-8 | 1 Aug 1988 (see r. 2)
-Reprint of the Mining Regulations 1981 as at 11 Aug 1988 by Gazette 24 Aug 1988 p. 3147-242 (includes amendments listed above)
+Reprint of the Mining Regulations 1981 as at 11 Aug 1988: Gazette 24 Aug 1988 p. 3147-242 (includes amendments listed above)
 Mining Amendment Regulations 1989 | 3 Mar 1989 p. 688-9 | 3 Mar 1989
 Mining Amendment Regulations (No. 2) 1989 | 30 Jun 1989 p. 2001 | 1 Jul 1989 (see r. 2)
 Mining Amendment Regulations (No. 3) 1989 | 21 Jul 1989 p. 2249-50 | 1 Aug 1989 (see r. 2)
@@ -144,10 +144,13 @@ Mining Amendment Regulations (No. 2) 2018 | 4 May 2018 p. 1477-9 | r. 1 and 2: 4
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mining Amendment Regulations 2018 | 24 Jul 2018 p. 2651-3 | r. 1 and 2: 24 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2018 (see r. 2(b))
 Mining Amendment Regulations (No. 3) 2018 | 18 Sep 2018 p. 3516-18 | r. 1 and 2: 18 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2018 (see r. 2(b))
-The Mining Amendment Act 1990 was operative 28 June 1991.
-The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
+Reprint 12: The Mining Regulations 1981 as at 16 Nov 2018 (includes amendments listed above)
+The Mining Amendment Act 1990 commenced 28 Jun 1991.
+Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+The Mining Amendment Act 1993 s. 28 commenced 1 Jul 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Mining Act 1978.
+The Acts Amendment (Australian Datum) Act 2000 s. 5 commenced 16 Dec 2000.
 The Mining Amendment Regulations (No. 6) 2001 r. 13 reads as follows:
 13.Saving
 Despite the amendments effected by these regulations, the Mining Regulations 1981 as in force immediately before the commencement of these regulations continue to apply in relation to the determination and payment of, and returns in respect of, royalties for minerals first sold, transferred or otherwise disposed of before that commencement.
@@ -291,3 +294,4 @@ supply85AA(5)
 tenement116
 treatment facility86AA(11)
 working day2
+By Authority: KEVIN J. McRAE, Government Printer
