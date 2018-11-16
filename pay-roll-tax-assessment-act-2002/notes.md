@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC, . The table also contains information about any reprint.
+This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Act 2002 | 48 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see. s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -23,6 +23,7 @@ Health Services Act 2016 s. 298 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 27 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Pay-roll Tax Assessment Amendment (Debt and Deficit Remediation) Act 2017 | 20 of 2017 | 13 Dec 2017 | s. 1 and 2: 13 Dec 2017 (see s. 2(a)); Act other than s. 1 and 2: 14 Dec 2017 (see s. 2(b))
 Pay-roll Tax Assessment Amendment (Exemption for Trainees) Act 2018 | 7 of 2018 | 18 May 2018 | Act other than s. 1 and 2: 1 Dec 2017 (see s. 2(b)); s. 1 and 2: 18 May 2018 (see s. 2(a))
+Reprint 4: The Pay-roll Tax Assessment Act 2002 as at 16 Nov 2018 (includes amendments listed above)
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5.
@@ -55,14 +56,14 @@ Australian taxable wagesGl.
 businessGl.
 charitable body or organisationGl.
 class A or class B qualification41D(1)
-commencement daySch. 1 cl. 10 and cl. 15
+commencement daySch. 1 cl. 10 and 15
 Commonwealth income tax provisions9DD(1)
 companyGl.
 controlling interestGl.
 corporationGl.
 Corporations ActGl.
 corresponding lawGl.
-decision)42B(1)
+decision42B(1)(a)
 defined benefit fundGl.
 defined superannuation benefitGl.
 designated group employerGl.
@@ -114,7 +115,7 @@ old section 9DASch. 1 cl. 8(1)
 optionGl.
 paidGl.
 parental leave41A(1)
-part-year10(3), 13(4), 23C(1)
+part-year10(3), 13(4), 23C(1)(b)
 payGl.
 payableGl.
 pay-roll taxGl.
@@ -143,7 +144,7 @@ return periodGl.
 shareGl.
 sliding scale periodGl.
 smaller groupGl.
-specified daySch. 1 cl. 11(1)
+specified daySch. 1 cl. 11(1)(c)
 specified exempt allowanceGl.
 specified taxable benefitGl.
 StateGl.
