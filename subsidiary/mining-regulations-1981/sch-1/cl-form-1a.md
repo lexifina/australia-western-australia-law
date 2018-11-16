@@ -11,4 +11,4 @@ DATED this day of 20
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
 .................................................................... Mining Registrar
-[Form 1A inserted by Gazette 2 Feb 2001 p. 710-11; amended by Gazette 15 Jan 2010 p. 119; 9 Nov 2012 p. 5417-18; 1 Feb 2013 p. 455; 22 Dec 2017 p. 5992.]
+[Form 1A inserted: Gazette 2 Feb 2001 p. 710-11; amended: Gazette 15 Jan 2010 p. 119; 9 Nov 2012 p. 5417-18; 1 Feb 2013 p. 455; 22 Dec 2017 p. 5992.]

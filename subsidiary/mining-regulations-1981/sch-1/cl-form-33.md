@@ -17,5 +17,5 @@ TAKE NOTICE YOUR RESPONSE IN THE FORM OF FORM 36 must be filed and served upon t
 Received at ................................a.m./p.m. on .................................. 20 ....... with the prescribed plaint fee.
 .................................................................... Mining Registrar
 Note:If this form is signed by a person who is an employee of the plaintiff, the person must state the person’s full name and the position in which the person is employed.
-[Form 33 inserted by Gazette 9 Nov 2012 p. 5445-6.]
-[Form 34 deleted by Gazette 9 Nov 2012 p. 5446.]
+[Form 33 inserted: Gazette 9 Nov 2012 p. 5445-6.]
+[Form 34 deleted: Gazette 9 Nov 2012 p. 5446.]

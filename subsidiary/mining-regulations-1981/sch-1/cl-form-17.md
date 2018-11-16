@@ -13,4 +13,4 @@ A NOTICE OF OBJECTION to this application may be lodged at any mining registrarâ
 Received at ................................a.m./p.m. on .................................. 20...... with fee of $.......... together with the outstanding rent of $............. for the period ending ...../...../.....
 .................................................................... Mining Registrar
 NOTE: If this form is signed by a person who is an employee of the applicant, the person must state the personâ€™s full name and the position in which the person is employed.
-[Form 17 inserted by Gazette 2 Oct 1987 p. 3831-2; amended by Gazette 4 Apr 1997 p. 1780; 15 Jan 2010 p. 123; 18 Mar 2011 p. 925; 9 Nov 2012 p. 5424-5.]
+[Form 17 inserted: Gazette 2 Oct 1987 p. 3831-2; amended: Gazette 4 Apr 1997 p. 1780; 15 Jan 2010 p. 123; 18 Mar 2011 p. 925; 9 Nov 2012 p. 5424-5.]

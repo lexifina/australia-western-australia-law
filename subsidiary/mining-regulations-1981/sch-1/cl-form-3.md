@@ -14,4 +14,4 @@ The holder of a permit under section 30 of the Mining Act 1978, or his duly auth
 (c)to remove from the private land such samples for the purpose of assaying or testing the value thereof, and to mark out a mining tenement with respect to that land or any part thereof,
 but the holder or his duly authorised agent shall not carry out any other mining operations on or otherwise disturb the surface of the land.
 The holder of a permit is liable to pay compensation for any loss or damage arising from any entry upon the land effected in pursuance of this permit.
-[Form 3 amended by Gazette 2 Oct 1987 p. 3823; 15 Jan 2010 p. 119.]
+[Form 3 amended: Gazette 2 Oct 1987 p. 3823; 15 Jan 2010 p. 119.]

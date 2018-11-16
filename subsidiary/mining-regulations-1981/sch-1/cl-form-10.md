@@ -38,4 +38,4 @@ In addition to any specific conditions that are endorsed on this instrument, the
 IN witness whereof the Minister has affixed his seal and set his
 hand hereto this .............................. day of ................................20...............
 MINISTER
-[Form 10 amended by Gazette 2 Oct 1987 p. 3830 and 3837; 3 Feb 2006 p. 524; 15 Jan 2010 p. 122; 18 Mar 2011 p. 925.]
+[Form 10 amended: Gazette 2 Oct 1987 p. 3830 and 3837; 3 Feb 2006 p. 524; 15 Jan 2010 p. 122; 18 Mar 2011 p. 925.]

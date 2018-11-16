@@ -15,4 +15,4 @@ In addition to any specific conditions that are endorsed on this instrument, the
 For schedule of endorsements/conditions see reverse of form.
 Reverse of form
 Schedule of Endorsement/Conditions:
-[Form 4 amended by Gazette 13 Oct 1995 p. 4823; 15 Jan 2010 p. 120.]
+[Form 4 amended: Gazette 13 Oct 1995 p. 4823; 15 Jan 2010 p. 120.]

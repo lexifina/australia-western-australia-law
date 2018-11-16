@@ -16,4 +16,4 @@ Received at ................................a.m./p.m. on .......................
 .................................................................... Mining Registrar
 Note 1:A statutory declaration setting out reasons in support of the application must be lodged at any mining registrar’s office within 28 days after lodgment of the application or within any extension of that period.
 (See regulation 54(3) and (4) of the Mining Regulations 1981.)
-[Form 18 inserted by Gazette 17 Jan 2003 p. 107-8; amended by Gazette 3 Feb 2006 p. 603; 15 Jan 2010 p. 123; 18 Mar 2011 p. 925; 9 Nov 2012 p. 5426-7.]
+[Form 18 inserted: Gazette 17 Jan 2003 p. 107-8; amended: Gazette 3 Feb 2006 p. 603; 15 Jan 2010 p. 123; 18 Mar 2011 p. 925; 9 Nov 2012 p. 5426-7.]

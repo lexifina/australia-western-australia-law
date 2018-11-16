@@ -20,4 +20,4 @@ Received at ................................a.m./p.m. on .......................
 SEAL OF WARDEN’S COURT/STAMP OF MINING REGISTRAR
 NOTES:1.This application is to be supported by affidavit outlining the reasons the order is sought, including the relevant facts.
 2.This application must be served on the other party/parties and an affidavit as proof of service must be lodged.
-[Form 36A inserted by Gazette 9 Mar 2007 p. 911-12; amended by Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5452-4.]
+[Form 36A inserted: Gazette 9 Mar 2007 p. 911-12; amended: Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5452-4.]

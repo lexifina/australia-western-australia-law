@@ -19,4 +19,4 @@ Notes: 1. Where the stamp duty shown on the transfer is not in respect of the fu
 If no mortgage, or a mortgage is to be discharged prior to or on the transfer, insert “nil”.
 The consent of the mortgagee to the transfer must be lodged with this form.
 3.If section 122A(1)(b) of the Act applies, insert “THE TRANSFEROR and THE TRANSFEREE acknowledge that this transfer is subject to the interest claimed by the caveator in caveat no.” and the relevant caveat number.
-[Form 23 inserted by Gazette 3 Feb 2006 p. 524-5; amended by Gazette 9 Mar 2007 p. 906; 15 Jan 2010 p. 125; 9 Nov 2012 p. 5431-2.]
+[Form 23 inserted: Gazette 3 Feb 2006 p. 524-5; amended: Gazette 9 Mar 2007 p. 906; 15 Jan 2010 p. 125; 9 Nov 2012 p. 5431-2.]

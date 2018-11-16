@@ -12,4 +12,4 @@ OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ............................................................................................
 .................................................................... Mining Registrar
 Note 1:This declaration may be made before a person who is an authorised witness for a statutory declaration under the Oaths, Affidavits and Statutory Declarations Act 2005 section 12(6).
-[Form 29 inserted by Gazette 15 Jan 2010 p. 130-1; amended by Gazette 9 Nov 2012 p. 5441-2.]
+[Form 29 inserted: Gazette 15 Jan 2010 p. 130-1; amended: Gazette 9 Nov 2012 p. 5441-2.]

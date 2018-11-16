@@ -143,4 +143,4 @@ Administration/Overheads/Native Title: | SUBTOTAL (E) | $
 (not to exceed 20% of the minimum expenditure commitment or total expenditure on the activities shown at subheadings (A) & (B), whichever is greater)
 TOTAL EXPENDITURE (add SUBTOTALS A to E) | $
 A copy of this page can be obtained by any person on the payment of the prescribed fee in accordance with regulation 96(3).
-[Form 5 inserted by Gazette 11 Jun 1999 p. 2546-51; amended by Gazette 15 Jan 2010 p. 120-1; 18 Mar 2011 p. 924-5; 9 Nov 2012 p. 5419.]
+[Form 5 inserted: Gazette 11 Jun 1999 p. 2546-51; amended: Gazette 15 Jan 2010 p. 120-1; 18 Mar 2011 p. 924-5; 9 Nov 2012 p. 5419.]

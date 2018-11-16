@@ -40,4 +40,4 @@ IN witness whereof the Minister has affixed his seal
 and set his hand hereto
 this ......................... day of ......................20...............
 MINISTER
-[Form 8 amended by Gazette 2 Oct 1987 p. 3828; 3 Feb 2006 p. 524 and 602; 15 Jan 2010 p. 121; 18 Mar 2011 p. 925.]
+[Form 8 amended: Gazette 2 Oct 1987 p. 3828; 3 Feb 2006 p. 524 and 602; 15 Jan 2010 p. 121; 18 Mar 2011 p. 925.]

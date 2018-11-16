@@ -15,4 +15,4 @@ TENEMENT TYPE | TENEMENT NUMBER | HOLDER/APPLICANT | DATE OF MARKING | FIELD BOO
 ............................................................. APPROVED SURVEYOR.
 NOTE: Any additional information relating to the conduct of this survey should be presented in a written report.
 ............./............/20..........
-[Form 44 inserted by Gazette 5 Jul 1991 p. 3359; amended by Gazette 15 Jan 2010 p. 134.]
+[Form 44 inserted: Gazette 5 Jul 1991 p. 3359; amended: Gazette 15 Jan 2010 p. 134.]

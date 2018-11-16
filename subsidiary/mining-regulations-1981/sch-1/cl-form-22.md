@@ -9,4 +9,4 @@
  | OFFICIAL USE
  | Received at ................................a.m./p.m. on .................................. 20
  | .................................................................... Mining Registrar
-[Form 22 amended by Gazette 2 Oct 1987 p. 3835; 15 Jan 2010 p. 125; 9 Nov 2012 p. 5429-30.]
+[Form 22 amended: Gazette 2 Oct 1987 p. 3835; 15 Jan 2010 p. 125; 9 Nov 2012 p. 5429-30.]

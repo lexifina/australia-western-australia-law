@@ -14,4 +14,4 @@ OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ............................................................................................
 .................................................................... Mining Registrar
 NOTE:If this form is signed by a person who is an employee of the applicant, the person must state the person’s full name and the position in which the person is employed.
-[Form 36 inserted by Gazette 9 Mar 2007 p. 910; amended by Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5450-1.]
+[Form 36 inserted: Gazette 9 Mar 2007 p. 910; amended: Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5450-1.]

@@ -1,6 +1,6 @@
 ## Schedule 2 — Fees and rents
 [r. 2, 4D(2), 16C(2), 23BA(2), 25B, 28A(1), 64(1b) and (1C), 84D, 109(1) and (3), 121(2), 163(2) and (4) and 165(7)(f)]
-[Heading inserted by Gazette 25 Jun 2018 p. 2307.]
+[Heading inserted: Gazette 25 Jun 2018 p. 2307.]
  |  | $
 1.Annual rent of existing exploration licence per square kilometre or part of 1 square kilometre —
 (a)for years 1 to 7 of the term of the licence |  | 54.50
@@ -74,4 +74,4 @@
 (i)evidence — per page |  | 9.60
 (ii)a judgment, decision or order — per page |  | 1.25
 (f)taxation of bill of costs | $0.05 in each amount of $1.00 on amount of lodged bill (minimum fee $10.00) — however where the lodged bill exceeds $1 000 the fee is reduced to $0.025 in each $1.00 for the excess, plus $50.00
-[Schedule 2 inserted by Gazette 25 Jun 2018 p. 2307-11.]
+[Schedule 2 inserted: Gazette 25 Jun 2018 p. 2307-11.]

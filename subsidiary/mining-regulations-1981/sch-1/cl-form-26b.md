@@ -9,4 +9,4 @@ Form 26B | WESTERN AUSTRALIA Mining Act 1978 (s. 103C r. 84AA)
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ............................................................................................
 .................................................................... Mining Registrar
-[Form 26B inserted by Gazette 15 Jan 2010 p. 127-8; amended by Gazette 9 Nov 2012 p. 5439-40.]
+[Form 26B inserted: Gazette 15 Jan 2010 p. 127-8; amended: Gazette 9 Nov 2012 p. 5439-40.]

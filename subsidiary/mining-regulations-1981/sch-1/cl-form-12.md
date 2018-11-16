@@ -8,4 +8,4 @@ LODGING PARTY (g)Full name and address (for return of documents) | (g)
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20.....
 .................................................................... Mining Registrar
-[Form 12 amended by Gazette 2 Oct 1987 p. 3831; 15 Jan 2010 p. 122; 9 Nov 2012 p. 5421-2.]
+[Form 12 amended: Gazette 2 Oct 1987 p. 3831; 15 Jan 2010 p. 122; 9 Nov 2012 p. 5421-2.]
