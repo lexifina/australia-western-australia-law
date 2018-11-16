@@ -1,6 +1,6 @@
 ## Schedule 1 — Training contract
 [r. 38]
-[Heading inserted in Gazette 5 Dec 2014 p. 4526.]
+[Heading inserted: Gazette 5 Dec 2014 p. 4526.]
 Apprenticeship/Traineeship
 Training Contract
 Western Australia
@@ -277,4 +277,4 @@ Training Contract ID No..............................................
 pEligible for incentives
 pNot eligible for incentives
 Notes .......................................................................................................................................................................................................................................................................................................................................................................................................................................
-[Schedule 1 inserted in Gazette 5 Dec 2014 p. 4526-41; amended in Gazette 12 Dec 2014 p. 4743; 27 Jan 2016 p. 224.]
+[Schedule 1 inserted: Gazette 5 Dec 2014 p. 4526-41; amended: Gazette 12 Dec 2014 p. 4743; 27 Jan 2016 p. 224.]

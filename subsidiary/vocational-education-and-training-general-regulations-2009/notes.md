@@ -16,19 +16,30 @@ Vocational Education and Training (General) Amendment Regulations 2015 | 10 Mar 
 Vocational Education and Training (General) Amendment Regulations (No. 2) 2015 | 28 Aug 2015 p. 3599 | r. 1 and 2: 28 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2015 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2016 | 27 Jan 2016 p. 222-4 | r. 1 and 2: 27 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jan 2016 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2017 | 29 Dec 2017 p. 6080-3 | r. 1 and 2: 29 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2018 (see r. 2(b))
+Reprint 2: The Vocational Education and Training (General) Regulations 2009 as at 16 Nov 2018 (includes amendments listed above)
+Repealed by the Vocational Education and Training (Commonwealth Powers) Act 2010 Sch. 1 (NSW).
+Repealed by the Training and Skills Development Act 2016 (NT).
+Repealed by the Further Education and Training Act 2014 (Qld).
+Repealed by the Training and Workforce Development (Repeals and Consequential Amendments Act 2013 (Tas).
+The Training Legislation Amendment and Repeal Act 2008 (other than Part 1) commenced 10 Jun 2009.
+The Industrial Training Act 1975 was repealed by the Training Legislation Amendment and Repeal Act 2008.
+Repealed by the Vocational Education and Training (General) Regulations 2009 r. 56(2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accreditation application7(1)
 accreditation standards7(1)
 Act3
+amendment regulations61
 application11(1)
-AQF 3
+AQF3
+AQTF61
 ASQA3
 associate12(1)
 audit7(1), 24
 child40(1)
 commencement55, Sch. 2 cl. 1
+commencement day61
 Commonwealth Act3
 compliance audit7(1), 24
 complying training plan3, 43(1)
@@ -63,3 +74,4 @@ WA3
 WA accredited course7(1)
 WA registered provider7(1)
 working day3
+By Authority: KEVIN J. McRAE, Government Printer
