@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 November 2018 of the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Security Risk Substances) Regulations 2007 | 31 Dec 2007 p. 6719-75 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -14,6 +14,7 @@ Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt.
 Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 4 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
+Reprint 2: The Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 as at 16 Nov 2018 (includes amendments listed above)
 Now known as the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -59,10 +60,10 @@ secure nominee3
 security clearance3
 security sensitive ammonium nitrate3
 shotfiring licence3
-site31(3)
+site31(3)(a)
 SSAN3
 store3
-submission date43(2)
+submission date43(2)(e)
 supervised3
 supervised access3
 supply3
@@ -70,3 +71,4 @@ unauthorised person14(1)
 unexplained loss3
 unsupervised access3
 unsupervised access authorisation3
+By Authority: KEVIN J. McRAE, Government Printer
