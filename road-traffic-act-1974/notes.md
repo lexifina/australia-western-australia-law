@@ -160,6 +160,7 @@ Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1, Div. 4 Subdiv. 1 (other than s. 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 1 Subdiv. 1, Div. 3 Subdiv. 1 (other than s. 46 and 53) and Div. 4 Subdiv. 1 (other than s. 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279); Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and (2) and Gazette 13 Jan 2017 p. 338)
 Reprint 14: The Road Traffic Act 1974 as at 1 Dec 2017 (includes amendments listed above)
+Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -168,7 +169,6 @@ Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be 
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | To be proclaimed (see s. 2(b))
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -314,29 +314,7 @@ On the date as at which this compilation was prepared, the Health Practitioner R
 (2) In section 65 in the definition of nurse practitioner delete “whose name is entered on the Register of Nurses kept under that Law as being qualified to practice as a” and insert:
 in the nursing profession whose registration under that Law is endorsed as
 (3) In section 65 in the definition of registered nurse delete “and midwifery”.
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Road Traffic Act 1974 amended
-3.Act amended
-This Part amends the Road Traffic Act 1974.
-4.Section 49AB amended
-(1) Before section 49AB(1A) insert:
-(1AA) In this section —
-prescribed authorisation —
-(a)means —
-(i)a learner’s permit; or
-(ii)an Australian driver licence; or
-(iii)a licence or authorisation granted under the law of an external licensing authority as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1);
-and
-(b)includes an extraordinary licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1).
-(2) After section 49AB(1)(a) insert:
-(aa) the person has never held a prescribed authorisation; or
-(ab) the person has held a prescribed authorisation but is a person described in section 49(3)(a), (b), (ca), (c) or (da); or
-(ac) the person holds a prescribed authorisation but the prescribed authorisation does not authorise the person to drive a vehicle of the kind concerned; or
-(ad) the person commits an offence under the Road Traffic (Authorisation to Drive) Act 2008 section 38(1); or
-(3) In section 49AB(1)(b) delete “45 km/h” and insert:
-30 km/h
-(4) After section 49AB(1) insert:
-(2A) Subsection (1)(ac) does not apply to a person who is a member of a class of persons prescribed for the purposes of the subsection by regulations made under the Road Traffic (Authorisation to Drive) Act 2008 section 4(7).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 had not come into operation. It reads as follows:
 Part 14 — Repeals and consequential amendments
 Division 2 — Consequential amendments
@@ -450,6 +428,7 @@ police officer71C(1)(a) and (b), 79BA(1)(a)
 post-impoundment expenses80I(1A)
 preliminary oral fluid test65
 preliminary test65
+prescribed authorisation49AB(1AA)
 prescribed illicit drug65
 prescribed sample taker65
 previous offender79(1A), 79BC(1)(a)
