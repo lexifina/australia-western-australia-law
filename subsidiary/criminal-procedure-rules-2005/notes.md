@@ -13,6 +13,7 @@ Criminal Procedure Amendment Rules 2012 | 19 Jun 2012 p. 2647-9 | r. 1 and 2: 19
 Criminal Procedure Amendment Rules 2013 | 15 Mar 2013 p. 1203-5 | r. 1 and 2: 15 Mar 2013 (see r. 2(a)); Rules other than r. 1 and 2: 16 Mar 2013 (see r. 2(b))
 Criminal Procedure Amendment Rules (No. 2) 2013 | 19 Nov 2013 p. 5295-6 | r. 1 and 2: 19 Nov 2013 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2013 (see r. 2(b))
 Criminal Procedure Amendment Rules 2014 | 19 Dec 2014 p. 4843-5 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
+Criminal Procedure Amendment Rules 2018 | 16 Nov 2018 p. 4524-5 | r. 1 and 2: 16 Nov 2018 (see r. 2(a)); Rules other than r. 1 and 2: 17 Nov 2018 (see r. 2(b))
 The Parole Board was replaced by the Prisoners Review Board. See Parole and Sentencing Legislation Amendment Act 2006.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
