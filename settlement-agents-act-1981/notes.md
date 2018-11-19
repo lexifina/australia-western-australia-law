@@ -54,6 +54,11 @@ Electronic Conveyancing Act 2014 Pt. 7 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (s
 Consumer Protection Legislation Amendment Act 2014 Pt. 14 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Reprint 7: The Settlement Agents Act 1981 as at 13 Mar 2015 (includes amendments listed above)
 Licensing Provisions Amendment Act 2016 Pt. 8 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Strata Titles Amendment Act 2018 Pt. 3 Div. 21 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 21 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -63,6 +68,31 @@ Repealed by the Land Administration Act 1997 s. 281.
 The Real Estate Legislation Amendment Act 1995 s. 65(2) and 87 are saving and transitional provisions that are of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions for certain acts and omissions occurring before 23 Apr 2003.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 21 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 21 — Settlement Agents Act 1981 amended
+187.Act amended
+This Division amends the Settlement Agents Act 1981.
+188.Section 46 amended
+(1) In section 46(2):
+(a) in paragraph (a) delete “2005; or” and insert:
+2005 or the Strata Titles Act 1985; or
+(b) in paragraph (b) after “land” insert:
+the subject of a strata lease as defined in the Strata Titles Act 1985 section 3(1) or land
+189.Section 47 amended
+In section 47(2)(a) after “except”:
+a strata lease as defined in the Strata Titles Act 1985 section 3(1) or
+On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 21 had not come into operation. It reads as follows:
+Part 14 — Other Acts amended
+Division 21 — Settlement Agents Act 1981 amended
+247.Act amended
+This Division amends the Settlement Agents Act 1981.
+248.Section 46 amended
+In section 46(2)(a) after “2005” insert:
+or the Community Titles Act 2018
+249.Schedule 2 clause 1 amended
+In Schedule 2 after clause 1(2)(c)(ii) insert:
+(iia) the Community Titles Act 2018; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
