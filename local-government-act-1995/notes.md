@@ -65,10 +65,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 18 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Local Government Legislation Amendment Act 2016 Pt. 2 | 26 of 2016 | 21 Sep 2016 | Pt. 2 (other than s. 4, 6-9, 11 and 17): 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035); s. 4, 6-9, 11 and 17: 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
  | Local Government Amendment (Auditing) Act 2017 (other than s. 4(2) and 7(2)) | 5 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(b) and Gazette 27 Oct 2017 p. 5413)
+ | Local Government Amendment (Suspension and Dismissal) Act 2018 | 31 of 2018 | 19 Nov 2018 | s. 1 and 2: 19 Nov 2018 (see s. 2(b)); Act other than s. 1 and 2: 20 Nov 2018 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
+ | Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -262,6 +264,14 @@ The description at the beginning of Part 7 is to be altered by:
 (a)deleting “the financial accounts of”;
 (b)deleting paragraph (a) and inserting:
 (a)the establishment of audit committees; and
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 12 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 12 — Local Government Act 1995 amended
+156.Act amended
+This Division amends the Local Government Act 1995.
+157.Section 1.4 amended
+In section 1.4 in the definition of owner after paragraph (a)(i) insert:
+(ia)the owner of a lot in a leasehold scheme as defined in the Strata Titles Act 1985 section 3(1); and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -336,6 +346,7 @@ detriment4.85(4)
 differential general rate6.1
 dispose3.58(1), 3.59(1)
 disposition of real property5.86(3)
+disqualification offence8.15D
 disqualified2.27(1)
 disqualified person7.1, 7.4(2)
 district1.4
@@ -421,8 +432,10 @@ offence2.22(3)
 officeSch. 2.3 cl. 1 and 6
 official plan9.48(2)
 officially certified9.48(2)
+on which the order is based8.15D
 ordinary election1.4, 4.4(2)
 ordinary elections day1.4
+original order8.15G(1)
 original valuationsSch. 6.1 cl. 2(2)
 other person5.9(1)
 otherwise unvested facility3.53(1)
@@ -463,6 +476,7 @@ regional subsidiary1.4
 regional purpose3.62(2)
 registered company auditor7.1
 regulations7.1
+reinstatement8.15D
 relative5.74(1)
 relevant district2.45(2)
 relevant officialSch. 2.1 cl. 12(1)
