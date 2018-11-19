@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Retirement Villages Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Retirement Villages Act 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Retirement Villages Act 1992 | 34 of 1992 | 19 Jun 1992 | s. 1 and 2: 19 Jun 1992; Act other than s. 1 and 2: 10 Jul 1992 (see s. 2 and Gazette 10 Jul 1992 p. 3185)
@@ -27,11 +27,14 @@ Acts Amendment (Fair Trading) Act 2010 s. 190 and 199 | 58 of 2010 | 8 Dec 2010 
 Building Act 2011 s. 171 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Retirement Villages Amendment Act 2012 (other than s. 4(4)) | 36 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1, 2 and 4(4): 1 Apr 2014 (see s. 2(b) and Gazette 21 Mar 2014 p. 721)
 Reprint 4: The Retirement Villages Act 1992 as at 5 Jul 2013 (includes amendments listed above except those in the Retirement Villages Amendment Act 2012)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Retirement Villages Amendment Act 2012 s. 4(4) | 36 of 2012 | 5 Nov 2012 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div 19 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 19 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 45 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 37 reads as follows:
@@ -42,14 +45,7 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (a) the Act section 39 does not apply; and
 (b) the matter is to be dealt with by the Tribunal as if the Retirement Villages Act 1992 section 47 in force immediately before the commencement day continued to apply and a reference in that section to the Tribunal were a reference to the State Administrative Tribunal.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) had not come into operation. It reads as follows:
-60.Retirement Villages Act 1992 amended
-(2) Section 25(1)(g)(i) of the Retirement Villages Act 1992 is amended by deleting “, and in particular his or her rights, if any, under the Superannuation and Family Benefits Act 1938”.
-The section that it seeks to amend has been deleted.
-On the date as at which this compilation was prepared, the Retirement Villages Amendment Act 2012 s. 4(4) had not come into operation. It reads as follows:
-4.Section 3 amended
-(4) In section 3(1) in the definition of service contract after each of paragraphs (a) to (f) insert:
-or
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) had not come into operation. The section that it seeks to amend has been deleted.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
