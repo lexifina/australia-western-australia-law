@@ -1,6 +1,6 @@
 ## First Schedule — Adopted Acts ceasing to have effect
 [s. 4(a)]
-[Heading amended by No. 19 of 2010 s. 26(2).]
+[Heading amended: No. 19 of 2010 s. 26(2).]
 Reference to Acts | Subject or Title
 8 and 9 Vic. Cap. 106 Adopted by 12 Vic. No. 21 | An Act to amend the Law of Real Property.
 8 and 9 Vic. Cap. 119 Adopted by 12 Vic. No. 21 | An Act to facilitate the Conveyance of Real Property.

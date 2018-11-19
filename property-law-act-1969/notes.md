@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Property Law Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Property Law Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Property Law Act 1969 | 32 of 1969 | 19 May 1969 | 1 Aug 1969 (see s. 2 and Gazette 27 Jun 1969 p. 1873)
@@ -19,15 +19,20 @@ Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 No
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Reprint of the Property Law Act 1969 as at 21 May 1999 (includes amendments listed above)
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 21 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
-Acts Amendment (Equality of Status) Act 2003 s. 1258 and Pt. 49 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+Acts Amendment (Equality of Status) Act 2003 s. 125 and Pt. 49 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Reprint 4: The Property Law Act 1969 as at 24 Aug 2007 (includes amendments listed above)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Standardisation of Formatting Act 2010 s. 26 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Strata Titles Amendment Act 2018 Pt. 3 Div. 15 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 15 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
 Repealed by the Interpretation Act 1984.
-Repealed by the Strata Titles Act 1985.
 Section 31A proclaimed 21 January 1972, see Gazette 21 January 1972 p 72.
 Repealed by the Property Law Act 1969.
 Section 117 repealed by the Wills Act 1970 s. 3.
@@ -71,7 +76,7 @@ lessor7, 81(5)
 limitation100
 mines and minerals7
 month8
-mortgage7, 7
+mortgage7
 mortgage money7
 mortgaged property55(6)
 mortgagee7
