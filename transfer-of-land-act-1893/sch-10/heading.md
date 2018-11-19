@@ -1,8 +1,8 @@
 ## Twenty-sixth Schedule — General conditions of sale
 [s. 237]
-[Heading inserted by No. 19 of 2010 s. 38(15).]
+[Heading inserted: No. 19 of 2010 s. 38(15).]
 Table A
-[Heading inserted by No. 19 of 2010 s. 38(15).]
+[Heading inserted: No. 19 of 2010 s. 38(15).]
 1.The purchaser shall complete his purchase upon the day that the last of the acceptances or notes for purchase money become due; but he shall be entitled to the possession of the lot or lots purchased by him or to the receipt of the rents and profits thereof upon his acceptance of the title to such lot or lots; and if from any cause whatsoever his purchase shall not be completed at the time above specified the purchaser shall pay interest on such of his acceptances or notes as shall become overdue at the rate of 8% per annum to the time of completion without prejudice however to the vendor’s right under the sixth condition.
 2.All roads or ways adjoining or leading to or from the land sold or shown on the existing certificate of title to the property the areas of which roads are not included in such certificate shall be deemed by the purchaser either to be appurtenant to such land or to have become public roads.
 3.The certificate of title to the property sold shall be produced and a copy thereof may be made by the purchaser or his solicitor on application in that behalf to the vendor or his solicitor and the purchaser shall within 14 days after the day of sale deliver to the vendor or his solicitor a statement in writing of all objections or requisitions (if any) to or on the title or concerning any matter appearing on the particulars or conditions and in this respect time shall be of the essence of the contract. All objections or requisitions not included in such statements to be delivered within the time aforesaid shall be deemed absolutely waived by the purchaser and in default of such objections (if none) and subject only to such (if any) so delivered the purchaser shall be considered as having accepted the title and it shall be lawful for the auctioneer to pay over and deliver to the said vendor all sums of money paid and acceptances or notes given by the said purchaser on account of the purchase money without being liable to any action or other proceeding for recovery of the same.
@@ -12,5 +12,5 @@ Table A
 7.That the vendor will upon due payment of the full amount of purchase money sign a transfer of the property to the purchaser such transfer to be prepared by and at the expense of the purchaser.
 8.That the purchaser shall pay or bear the expense of all duty under the Duties Act 2008 on or in respect of the acceptances or notes provided for by the contract and of the transfer to him.
 9.The vendor shall not at any time be required by any purchaser or purchasers at the present sale to join in erecting any dividing fence upon any part of the land sold or offered for sale nor shall the vendor be liable at any time to contribute towards the expense of erecting any such dividing fence whether the land now offered for sale be sold or not; but this condition shall not prejudice or affect the rights of purchasers as to dividing fences as between themselves and all other parties except the vendor.
-[Twenty-sixth Schedule amended by No. 113 of 1965 s. 8; No. 12 of 2008 Sch. 1 cl. 38(2).]
-[Twenty-seventh Schedule deleted by No. 25 of 1909 s. 2.]
+[Twenty-sixth Schedule amended: No. 113 of 1965 s. 8; No. 12 of 2008 Sch. 1 cl. 38(2).]
+[Twenty-seventh Schedule deleted: No. 25 of 1909 s. 2.]

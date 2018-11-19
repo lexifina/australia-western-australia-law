@@ -1,6 +1,6 @@
 ## Sixteenth Schedule — Short form of covenant by mortgagor to insure
 [s. 115]
-[Heading inserted by No. 19 of 2010 s. 38(11).]
+[Heading inserted: No. 19 of 2010 s. 38(11).]
 Column One | Column Two
 That I will insure against fire in the name of the mortgagee. | That I my heirs executors administrators or transferees will insure and so long as any money shall remain secured by this mortgage kept insured against loss or damage by fire in the name of the mortgagee or his transferees in some public insurance office to be approved by him or them all buildings which shall for the time being be erected on the said land and which shall be of a nature or kind capable of being so insured to the amount either of the principal money hereby secured or of the full value of such buildings and will when required deposit with the mortgagee or his transferees the policy of such insurance and within 7 days after each premium shall become payable the receipt for such premium. And that the moneys which shall be received on account of such insurance shall at his or their option be applied either in or towards satisfaction of the moneys secured by this mortgage or in rebuilding or reinstating under the superintendence of his or their surveyor the buildings destroyed or damaged. And that on any breach or non-observance of this covenant he or they shall be at liberty to effect such insurance and continue the same for such period as may be deemed fit and the costs and expenses paid on account thereof shall be a charge upon the said land and bear interest at the same rate as if principal money overdue.
-[Seventeenth and Eighteenth Schedules deleted by No. 81 of 1996 s. 151.]
+[Seventeenth and Eighteenth Schedules deleted: No. 81 of 1996 s. 151.]
