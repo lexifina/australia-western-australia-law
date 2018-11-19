@@ -6,4 +6,4 @@ An Act to make provision for —
 ·the management policies to be followed in relation to the Swan and Canning Rivers and associated land;
 ·the establishment of a Foundation with fund-raising and other functions,
 and for related purposes.
-[Long title amended by No. 6 of 2015 s. 4.]
+[Long title amended: No. 6 of 2015 s. 4.]

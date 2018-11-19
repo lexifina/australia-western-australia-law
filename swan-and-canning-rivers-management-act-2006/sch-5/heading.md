@@ -49,4 +49,4 @@
 17.The holder of a licence under the Electricity Industry Act 2004.
 18.The holder of a distribution licence under the Energy Coordination Act 1994.
 19.Any decision-making authority as defined in the Environmental Protection Act 1986 section 3.
-[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233; No. 6 of 2015 s. 49; No. 28 of 2015 s. 78; No. 19 of 2016 s. 101.]
+[Schedule 5 amended: No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233; No. 6 of 2015 s. 49; No. 28 of 2015 s. 78; No. 19 of 2016 s. 101.]

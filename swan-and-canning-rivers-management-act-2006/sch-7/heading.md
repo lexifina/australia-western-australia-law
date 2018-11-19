@@ -1,6 +1,6 @@
 ## Schedule 7 — Local governments
 [s. 22, 26]
-[Heading amended by No. 45 of 2011 s. 144(19).]
+[Heading amended: No. 45 of 2011 s. 144(19).]
 City of Armadale
 Town of Bassendean
 City of Bayswater
@@ -22,4 +22,4 @@ City of Subiaco
 City of Swan
 Town of Victoria Park
 City of Vincent
-[Schedule 7 amended by No. 45 of 2011 s. 144(19); No. 6 of 2015 s. 53.]
+[Schedule 7 amended: No. 45 of 2011 s. 144(19); No. 6 of 2015 s. 53.]
