@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes amendments made by other written laws. For provisions that have come into operation and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Commercial Tenancy (Retail Shops) Agreements Act 1985 | 43 of 1985 | 13 May 1985 | s. 1 and 2: 13 May 1985; Act other than s. 1 and 2: 1 Sep 1985 (see s. 2 and Gazette 30 Aug 1985 p. 3065)
@@ -14,7 +14,7 @@ Reprint of the Commercial Tenancy (Retail Shops) Agreements as at 21 Jul 2000 (i
 Corporations (Consequential Amendments) Act 2001 Pt. 12 and s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Taxation Administration (Consequential Provisions) Act 2002 s. 10 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Acts Amendment (Equality of Status) Act 2003 Pt. 5 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 21 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 21, | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 3 | 47 of 2006 | 4 Oct 2006 | 11 May 2007 (see s. 2 and Gazette 11 May 2007 p. 2017)
 Reprint 3: The Commercial Tenancy (Retail Shops) Agreements as at 8 Jun 2007 (includes amendments listed above)
@@ -24,6 +24,11 @@ Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 | 59 of 2011 | 1
 Reprint 4: The Commercial Tenancy (Retail Shops) Agreements as at 18 Jan 2013 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 14 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Consumer Protection Legislation Amendment Act 2014 Pt. 2 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Community Titles Act 2018 Pt. 14 Div. 2 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Other notes
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
 22.Saving and transitional
 (1) Subject to subsection (2), an amendment made to the principal Act by a provision of this Act does not apply to or in relation to a retail shop lease entered into before the day on which that provision comes into operation and the provisions of the principal Act as in force prior to the coming into operation of that provision shall continue to apply to and in relation to any such lease as if this Act had not been passed.
