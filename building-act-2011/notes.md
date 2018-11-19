@@ -10,6 +10,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Heritage Act 2018 s. 183 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 1 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div 1 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The provisions in this Act repealing the Building Regulations 1989 and the Local Government (Prohibition on Dealings in Land) Regulations 1973 have been omitted under the Reprints Act 1984 s. 7(4)(f).
 On the date as at which this compilation was prepared, the Heritage Act 2018 s. 183 had not come into operation. It reads as follows:
@@ -21,6 +23,27 @@ Heritage Act 2018
 Heritage Act 2018
 (4) In section 23(5)(b) delete “Heritage of Western Australia Act 1990” and insert:
 Heritage Act 2018
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 1 — Building Act 2011 amended
+120.Act amended
+This Division amends the Building Act 2011.
+121.Section 3 amended
+In section 3 insert in alphabetical order:
+strata lease has the meaning given in the Strata Titles Act 1985;
+122.Section 5 amended
+Section 5(1) is amended in the definition of owner by deleting “freehold,” and inserting:
+freehold or held in leasehold under a strata lease,
+123.Section 50 deleted
+Delete section 50.
+On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 1 had not come into operation. It reads as follows:
+Part 14 — Other Acts amended
+Division 1 — Building Act 2011 amended
+191.Act amended
+This Division amends the Building Act 2011.
+192.Section 3 amended
+In section 3 in the definition of land after “defined in” insert:
+the Community Titles Act 2018 section 3(1) or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
