@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 January 2016 of the Valuation of Land Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Valuation of Land Act 1978 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Valuation of Land Act 1978 | 74 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
@@ -51,6 +51,12 @@ Land Legislation Amendment Act 2015 Pt. 6 | 11 of 2015 | 29 Apr 2015 | 30 Jun 20
 Land Legislation Amendment (Taxing) Act 2015 Pt. 5 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Valuation of Land Amendment Act 2015 | 14 of 2015 | 15 May 2015 | s. 1 and 2: 15 May 2015 (see s. 2(a)); Act other than s. 1 and 2: 30 Jun 2015 (see s. 2(b)(i))
 Reprint 7: The Valuation of Land Act 1978 as at 8 Jan 2016 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Strata Titles Amendment Act 2018 Pt. 3 Div 24 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 24 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -60,6 +66,7 @@ The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and P
 The Acts Amendment and Repeal (Competition Policy) Act 2003 s. 51(2) is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 65 is a transitional provision that is likely to be of no further effect.
+The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of section 50 is postponed until the end of 31 December 2024.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
