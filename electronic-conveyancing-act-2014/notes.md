@@ -1,9 +1,14 @@
 Notes
-This reprint is a compilation as at 12 May 2017 of the Electronic Conveyancing Act 2014 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electronic Conveyancing Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electronic Conveyancing Act 2014 | 2 of 2014 | 24 Mar 2014 | Pt. 1 (other than s. 3-7A): 24 Mar 2014 (see s. 2(a)); s. 3-7A, Pt. 3-5 and Sch. 1: 25 Mar 2014 (see s. 2(b)); Pt. 2 and 6-9: 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Reprint 1: The Electronic Conveyancing Act 2014 as at 12 May 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Community Titles Act 2018 Pt. 14 Div. 7 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Legislative Instruments Act 2003 (Cwlth) was changed to the Legislation Act 2003 (Cwlth) by the Acts and Instruments (Framework Reform) Act 2015 (Cwlth) Sch. 1 Pt. 1 it. 3.
 Defined terms
