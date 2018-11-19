@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 October 2017 of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | s. 1 and 2: 3 Oct 1997; Act other than s. 1 and 2: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -52,14 +52,15 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 16 | 25 of 201
 Conservation and Land Management Amendment Act 2015 s. 76 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Land Administration (South West Native Title Settlement) Act 2016 Pt. 6 | 10 of 2016 | 16 May 2016 | 6 Jun 2016 (see s. 2(b) and Gazette 27 May 2016 p. 1548)
 Reprint 7: The Land Administration Act 1997 as at 6 Oct 2017 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Biodiversity Conservation Act 2016 s. 318 | 24 of 2016 | 21 Sep 2016 | s. 318(1) and (2)(a): 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305); s. 318(2)(b): to be proclaimed (see s. 2(b))
-On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
+Strata Titles Amendment Act 2018 Pt. 3 Div. 9 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
 6A.Renewal etc. of certain tenures subject to Native Title (State Provisions) Act 1998
@@ -75,7 +76,7 @@ After section 152 the following section is inserted —
 152A.This Part subject to Native Title (State Provisions) Act 1998
 Where the taking of land or an interest in land under this Part is a Part 3 act, a Part 4 act or a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the operation of this Part is subject to section 3.6, 4.5 or 5.3, as the case may be, of that Act.
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation (see endnotes 1a and 4).
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 4 reads as follows:
@@ -323,7 +324,7 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) If a matter has been partly or fully heard, but not determined, by a Compensation Court under the Land Administration Act 1997 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 11 — Land Administration Act 1997 amended
 298.Act amended
@@ -344,13 +345,80 @@ public health has the meaning given in the Public Health Act 2016 section 4(1).
 (i) consult with the management body of the reserve or, if there is no management body, the Minister; and
 (ii) consider any advice provided by the management body or, as the case requires, the Minister.
 (5) If there is a conflict or inconsistency between a local law made by the Chief Health Officer under subsection (2) and a local law made by a local government under the Local Government Act 1995 or any other Act, the local law made by the Chief Health Officer prevails to the extent of the conflict or inconsistency.
-On the date as at which this reprint was prepared, the Biodiversity Conservation Act 2016 s. 318 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 318 had not come into operation. It reads as follows:
 318.Land Administration Act 1997 amended
 (1) This section amends the Land Administration Act 1997.
 (2) In section 117:
 (a) delete paragraph (d) and insert:
 (d) the Biodiversity Conservation Act 2016; or
 (b) after paragraph (a) insert:
+or
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 9 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 9 — Land Administration Act 1997 amended
+144.Act amended
+This Division amends the Land Administration Act 1997.
+145.Section 3 amended
+In section 3(1) insert in alphabetical order:
+leasehold scheme has the meaning given in the Strata Titles Act 1985 section 3(1);
+146.Section 16 amended
+After section 16(2) insert:
+(2A) If the charge secures the due performance of conditions concerning a specified use under section 75(1) and those conditions are varied under that section, the charge is to be taken to secure the performance of the conditions as so varied.
+147.Section 35 amended
+(1) In section 35(4):
+(a) in paragraph (a)(ii) delete “if a sublease or caveat” and insert:
+if a sublease, caveat or other interest
+(b) in paragraph (a)(ii) delete “Crown land;” and insert:
+Crown land; or
+(c) after paragraph (a)(ii) insert:
+(iii) if it is land referred to in subsection (1)(b) subdivided by a leasehold scheme, remains so subdivided and the freehold reversion in the land is held by the Minister until the termination of the leasehold scheme, when the land becomes Crown land;
+(2) In section 35(5)(a)(i) delete “sublease or caveat” and insert:
+sublease, caveat or other interest
+(3) In section 35(6) after “sublease” insert:
+or other interest
+(4) In section 35(7):
+(a) after “sublease” insert:
+or other interest
+(b) delete “sublessee,” and insert:
+sublessee or interest holder,
+(c) delete “sublease.” and insert:
+sublease or other interest.
+(5) In section 35(10) delete “any sublease or caveat” and insert:
+it is subdivided by a leasehold scheme or any sublease, caveat or other interest that
+(6) After section 35(10) insert:
+(10A) If the freehold reversion in land forfeited under this section is held by the Minister, as referred to in subsection (4)(a)(iii), then nothing in this Act, or any other law, affects the capacity of the Minister under the Strata Titles Act 1985 to be, and to exercise all rights and functions as —
+(a) the owner of a leasehold scheme; and
+(b) if the Minister, as owner of a leasehold scheme, re-enters a lot in a leasehold scheme under the Strata Titles Act 1985 — the owner of a lot in a leasehold scheme.
+148.Section 72 amended
+(1) In section 72 insert in alphabetical order:
+owner of a leasehold scheme has the meaning given in the Strata Titles Act 1985 section 3(1);
+resolution without dissent has the meaning given in the Strata Titles Act 1985 section 3(1);
+scheme by-laws has the meaning given in the Strata Titles Act 1985 section 3(1);
+strata company has the meaning given in the Strata Titles Act 1985 section 3(1);
+strata lease has the meaning given in the Strata Titles Act 1985 section 3(1).
+(2) In section 72 in the definition of employee delete “1994.” and insert:
+1994;
+149.Section 75 amended
+(1) After section 75(3) insert:
+(3A) Conditional tenure land cannot be subdivided except by a leasehold scheme and with the written permission of the Minister.
+(3B) If conditional tenure land is subdivided by a leasehold scheme –
+(a) strata leases of lots in the scheme, and the scheme by-laws, are invalid to the extent that they are inconsistent with the conditions concerning the specified use; and
+(b) a strata lease of a lot in the scheme is taken to contain a condition (contravention of which may lead to forfeiture of the lot to the owner of the leasehold scheme) that the lot must not be used for a purpose that is inconsistent with the conditions concerning the specified use; and
+(c) if the owner of the leasehold scheme or the strata company refuses or fails to take action to enforce a strata lease or the scheme by-laws after being given a reasonable opportunity to do so, the Minister may take that action as if the Minister were the owner of the leasehold scheme or the strata company, as the case requires.
+(2) In section 75(4) delete “When conditional tenure land is used in breach of any condition concerning the specified use —” and insert:
+If there is a breach of the conditions concerning the specified use of conditional tenure land —
+(3) In section 75(6) before “licence” insert:
+lease,
+(4) After section 75(6) insert:
+(6A) Subsection (6) does not apply -
+(a) to an individual lot in a leasehold scheme (rather than to the parcel of land subdivided by the scheme); or
+(b) in circumstances prescribed in the regulations.
+(6B) The Minister may, by order, on the application of the holder of the freehold in conditional tenure land, vary the conditions concerning the specified use.
+(6C) The Minister may charge the holder an amount for variation of the conditions concerning the specified use, being the difference between the unimproved value of the conditional tenure land, as determined by the Minister on the advice of the Valuer-General, if it were transferred at the time of the variation subject to the conditions as varied and the price that was paid for the conditional tenure land when it was transferred to the holder or a predecessor of the holder under subsection (1).
+(6D) Subject to the regulations, an application for variation of the conditions concerning the specified use must be accompanied by —
+(a) the written consent of each person with a lease, licence, mortgage, charge, security or other encumbrance over the conditional tenure land (disregarding any such lease, licence, mortgage, charge, security or encumbrance over an individual lot in a leasehold scheme rather than over the parcel of land subdivided by the scheme); and
+(b) if the land is subdivided by a leasehold scheme, evidence to the satisfaction of the Minister that the strata company has passed a resolution without dissent in favour of the variation.
+(5) In section 75(4) after paragraph (a) delete “and” and insert:
 or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
