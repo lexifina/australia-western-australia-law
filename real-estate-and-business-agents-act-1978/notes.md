@@ -55,6 +55,11 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 25 | 47 of 2011 | 25 Oct 201
 Reprint 7: The Real Estate and Business Agents Act 1978 as at 18 Nov 2011 (includes amendments listed above)
 Consumer Protection Legislation Amendment Act 2014 Pt. 10 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Licensing Provisions Amendment Act 2016 Pt. 7 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Strata Titles Amendment Act 2018 Pt. 3 Div. 17 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 17 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -68,6 +73,35 @@ The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 4(2
 (3) Where a person may give notice of a claim under section 116(2) as amended by this section, notice of the claim given by the person previously in writing to the Board (whether or not dealt with by the Board) is to be taken to be notice of the claim for the purposes of that section.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions which may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 17 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 17 — Real Estate and Business Agents Act 1978 amended
+178.Act amended
+This Division amends the Real Estate and Business Agents Act 1978.
+179.Section 61 amended
+In section 61(4a) in the definition of prescribed transaction delete paragraph (a) and insert:
+(a)the sale of a proposed lot under the Strata Titles Act 1985 before the lot is created;
+180.Section 131A amended
+In section 131A in the definition of dwelling delete paragraph (a) and insert:
+(a)a lot within the meaning of the Strata Titles Act 1985; and
+On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 17 had not come into operation. It reads as follows:
+Part 14 — Other Acts amended
+Division 17 — Real Estate and Business Agents Act 1978 amended
+232.Act amended
+This Division amends the Real Estate and Business Agents Act 1978.
+233.Section 4 amended
+(1) In section 4(1) delete the definition of strata company.
+(2) In section 4(3a) delete “strata company” and insert:
+community corporation within the meaning of the Community Titles Act 2018 or a strata company within the meaning of the Strata Titles Act 1985
+234.Section 61 amended
+In section 61(4a) in the definition of prescribed transaction before paragraph (a) insert:
+(aa)the sale of a proposed lot under the Community Titles Act 2018 before the lot is created;
+235.Section 131A amended
+In section 131A in the definition of dwelling:
+(a) before paragraph (a) insert:
+(aa)a lot within the meaning of the Community Titles Act 2018; and
+(b) in paragraph (b) delete “paragraph (a),” and insert:
+paragraph (aa) or (a),
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
