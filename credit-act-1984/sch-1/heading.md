@@ -1,6 +1,6 @@
 ## Schedule 1 — Accrued credit charge
 [s. 11]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 1.This Schedule applies to a credit sale contract or a loan contract, where —
 (a) the whole or any part of the credit charge is a pre-determined credit charge or an estimated credit charge; and
 (b) the whole of the amount financed was provided on the same day; and
