@@ -37,6 +37,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Heritage Act 2018 s. 166 | 22 of 2018 | 18 Sep2018 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 8 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also note 5.
 The Taxation Administration (Consequential Provisions) Act 2002 contains transitional provisions that may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 53 deal with certain transitional issues some of which may be relevant for this Act.
@@ -64,6 +65,14 @@ Heritage of Western Australia Act 1990 | s. 27(4)
 On the date as at which this compilation was prepared, the Heritage Act 2018 s. 166 had not come into operation. It reads as follows:
 166.Heritage of Western Australia Act 1990 repealed
 The Heritage of Western Australia Act 1990 is repealed.
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 8 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 8 — Heritage of Western Australia Act 1990 amended
+142.Act amended
+This Division amends the Heritage of Western Australia Act 1990.
+143.Section 78 amended
+In section 78(1)(d) delete “approval under section 25 of the Strata Titles Act 1985; and” and insert:
+endorsing a strata plan with unconditional approval of a subdivision under the Strata Titles Act 1985 section 15(4); and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
