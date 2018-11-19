@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 January 2016 of the Transfer of Land Act 1893 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Transfer of Land Act 1893 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Transfer of Land Act 1893 | 1893 (56 Vict. No. 14) | 13 Jan 1893 | 13 Jan 1893
@@ -79,10 +79,14 @@ Electronic Conveyancing Act 2014 Pt. 9 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (s
 Land Legislation Amendment Act 2015 Pt. 5 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Land Legislation Amendment (Taxing) Act 2015 Pt. 4 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Reprint 11: The Transfer of Land Act 1893 as at 8 Jan 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
+Strata Titles Amendment Act 2018 Pt. 3 Div 23 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 23 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
+Footnote no longer required.
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -94,7 +98,7 @@ The Acts Amendment (Land Administration) Act 1997 s. 94(2) reads as follows:
 The Settled Land Act 1892 was repealed by the Trustees Act 1962.
 The Transfer of Land Amendment Act 1996 s. 37(3) reads as follows:
 (3) Section 65 of and the Ninth Schedule to the principal Act as in force immediately before the commencement of subsection (1) continue to apply to all transfers, leases and certificates of title in effect before that commencement on which an easement was marked in accordance with those provisions.
-On the date as at which this reprint was prepared, the Western Australian Land Information Authority was principally assisting in the administration of the Transfer of Land Act 1893.
+On the date as at which this compilation was prepared, the Western Australian Land Information Authority was principally assisting in the administration of the Transfer of Land Act 1893.
 The Acts Amendment (Land Administration) Act 1997 s. 104(2) reads as follows:
 (2) A lease of Crown land (not being a Crown lease) granted before the commencement of this section, which lease would have been valid had it been granted as a lease under the Land Administration Act 1997, is validated by force of this subsection and is to be treated as if it were a lease registered under section 81Q of the principal Act as amended by this Act.
 Repealed by the Property Law Act 1969 Second Schedule.
@@ -115,57 +119,7 @@ commencement means the day on which section 1 of this Act comes into operation.
 (2) The account called the “assurance fund” immediately before commencement is to be closed on commencement and the money that is in the account at the time when the account is being closed is to be credited to the Consolidated Fund.
 (3) Subsection (2) does not affect or prejudice the application of the Interpretation Act 1984 but a right, obligation or liability of, or in respect of, the assurance fund subsisting immediately before commencement becomes, on commencement, a right, obligation or liability of, or in respect of, the State in accordance with Part XI or XII of the principal Act, as the case requires.
 The amendment in the Financial Legislation Amendment and Repeal Act 2006 s. 4 to s. 190 is not included because s. 190 had been replaced by the Land Information Authority Act 2006 s. 115.
-On the date as at which this reprint was prepared, the Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 (as amended by No. 60 of 2003 s. 164) had not come into operation. They read as follows:
-43.Section 136A amended
-Section 136A is amended by deleting “section 166 or 166A” and inserting instead —
-“ section 166(1), 166A(1) or 166C(2)(a) ”.
-46.Section 138 amended
-Section 138 is amended as follows:
-(a) by inserting after “any transfer” —
-“
-(including a disposition statement accompanying an application under section 166C)
-”;
-(b) by deleting “think” and inserting instead —
-“ thinks ”.
-56.Section 166C inserted
-After section 166B the following section is inserted —
-“
-166C.Alternative application (using disposition statements) for new certificates of title on subdivision of land between existing owners
-(1) Notwithstanding section 166 but subject to subsections (5) and (6) where land under the operation of this Act —
-(a) comprises 2 or more parcels not having the same proprietor for all the parcels; or
-(b) is held by 2 or more proprietors as joint tenants or as tenants in common,
-and the proprietors of the freehold in the land (the proprietors) wish to subdivide the land between themselves only, they may apply to the Registrar under this section, instead of applying under section 166, for the creation and registration of new certificates of title for the land.
-(2) An application under this section shall be in an approved form and —
-(a) shall be made in relation to a plan or diagram of the proposed subdivision that —
-(i) is lodged or deposited with the Authority;
-(ii) is prepared in accordance with any relevant regulations made under this Act or the Licensed Surveyors Act 1909;
-(iii) contains, or is accompanied by a document that contains, such information, certificates and consents as are prescribed in the regulations; and
-(iv) is signed by or on behalf of the inspector of plans and surveys referred to in section 163 as being in order for dealings with or without conditions;
-(b) shall be accompanied by a disposition statement —
-(i) that is in an approved form; and
-(ii) in which is set out the amount of any consideration passing between any of the proprietors of the freehold in the land in consideration for the subdivision;
-(c) shall be accompanied by a document that contains such information, certificates and consents as are prescribed in the regulations;
-(d) shall be accompanied by such documents as the Registrar determines are necessary to satisfy any conditions before the plan or diagram referred to in subsection (2)(a) is in order for dealing; and
-(e) shall be accompanied by the prescribed fee.
-(3) A disposition statement accompanying an application under this section is a request to the Registrar to endorse the new certificates of title for the land that is the subject of the application and, if applicable, to take such other action in relation to the Register or any graphic as is required, to give effect to the extent provided for in regulations to any of the following —
-(a) the disposal of the land or interests in the land to, or the vesting of the land or interests in the land in, the State of Western Australia, a public authority or a local government;
-(b) the allocation of lots on the plan or diagram referred to in subsection (2)(a) between the proprietors;
-(c) the allocation of other registered interests and caveats affecting the land to lots (or part lots as shown on a graphic) on the plan or diagram referred to in subsection (2)(a);
-(d) the attachment or discharge of other registered interests and caveats affecting the land to or from lots (or part lots as shown on a graphic) on the plan or diagram referred to in subsection (2)(a).
-(4) Section 166(3) and (6) apply to an application under this section as if the references to the plan or diagram were references to the plan or diagram referred to in subsection (2)(a) and the Registrar may endorse the new certificates of title for the land that is the subject of the application and take such other action in relation to the Register or any graphic as is required to give effect to the application and requests in the disposition statement.
-(5) The Registrar is not to grant an application under this section if —
-(a) the land that is the subject of the application is held by 2 or more proprietors as joint tenants; and
-(b) an effect of granting the application would be to sever the joint tenancy.
-(6) The Registrar is not to grant an application under this section unless —
-(a) all the proprietors have signed the disposition statement; and
-(b) each person who has a registered interest in the land and each caveator in relation to the land consents to the person’s interest or caveat being allocated in accordance with the disposition statement on the subdivision.
-(7) On registration of the certificates of title for the land that is the subject of an application under this section —
-(a) every lot that is enlarged or diminished under the plan or diagram referred to in subsection (2)(a) is, by operation of law, subject to each encumbrance, caveat, notification or memorial allocated to it in the disposition statement to the extent provided in the disposition statement; and
-(b) every such encumbrance, caveat, notification and memorial is deemed to be amended accordingly.
-”.
-57.Section 167 amended
-Section 167 is amended by deleting “or 166A” and inserting instead —
-“ , 166A or 166C ”.
+The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of section 182AA is postponed until the end of 31 December 2024.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
