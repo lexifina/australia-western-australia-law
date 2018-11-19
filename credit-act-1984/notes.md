@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Credit Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Credit Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | s. 1 and 2: 27 Dec 1984; Act other than s. 1, 2 and 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867); s. 91(3) deleted by No. 8 of 2009 s. 44(2)
@@ -23,10 +23,16 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 9 | 28 of
 Duties Legislation Amendment Act 2008 Sch. 1 cl. 6 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and 36 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
- | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
- | Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed above)
- | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
- | Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed above)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Strata Titles Amendment Act 2018 Pt. 3 Div 4 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 4 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
 Repealed by the Strata Titles Act 1985.
 Repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010.
 The Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 was part of a legislative exercise in which the regulation of credit and certain other transactions was referred to the Commonwealth. As part of that exercise the National Consumer Credit Protection Act 2009 (Cwlth), which contains the National Credit Code, was adopted in WA on 1 July 2010.
