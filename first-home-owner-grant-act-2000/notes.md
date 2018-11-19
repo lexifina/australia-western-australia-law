@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 May 2018 of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the First Home Owner Grant Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 First Home Owner Grant Act 2000 | 16 of 2000 | 9 Jun 2000 | 1 Jul 2000 (see s. 2)
@@ -23,6 +23,12 @@ Revenue Laws Amendment Act 2013 Pt. 4 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (
 Revenue Laws Amendment Act 2015 Pt. 2 Div. 1 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
 First Home Owner Grant Amendment Act 2017 | 16 of 2017 | 5 Dec 2017 | s. 8-16: 1 Jan 2017 (see s. 2(b)); s. 1 and 2: 5 Dec 2017 (see s. 2(a)); Act other than s. 1, 2 and 8-16: 6 Dec 2017 (see s. 2(c))
 Reprint 3: The First Home Owner Grant Act 2000 as at 4 May 2018 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Strata Titles Amendment Act 2018 Pt. 3 Div 7 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 9 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 20 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2003 s. 10 is a savings provision of no further effect.
