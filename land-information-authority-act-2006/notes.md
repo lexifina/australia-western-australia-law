@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 September 2015 of the Land Information Authority Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Information Authority Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Information Authority Act 2006 | 60 of 2006 | 16 Nov 2006 | Pt. 1: 17 Nov 2006 (see s. 2(2)); Act other than Pt. 1: 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
@@ -7,6 +7,12 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 94 | 77 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Land Legislation Amendment Act 2015 Pt. 2 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Reprint 1: The Land Information Authority Act 2006 as at 4 Sep 2015 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Strata Titles Amendment Act 2018 Pt. 3 Div. 10 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 11 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
