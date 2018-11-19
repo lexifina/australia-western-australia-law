@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rates and Charges (Rebates and Deferments) Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rates and Charges (Rebates and Deferments) Act 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rates and Charges (Rebates and Deferments) Act 1992 | 31 of 1992 | 19 Jun 1992 | s. 1 and 2: 19 Jun 1992; Act other than s. 1 and 2: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2643)
@@ -35,11 +35,14 @@ Rates and Charges (Rebates and Deferments) Amendment Act 2013 | 4 of 2013 | 29 J
 Reprint 4: The Rates and Charges (Rebates and Deferments) Act 1992 as at 4 Oct 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 s. 226(2), (3), (5) and (6) and the Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(3) and (4))
 Revenue Laws Amendment Act 2015 Pt. 3 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 226(4) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 19 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 16 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 16 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -65,22 +68,6 @@ The Rates and Charges (Rebates and Deferments) Amendment Act 2005 s. 16 reads as
 16.Transitional
 If an eligible person who holds a relevant interest in land of a kind referred to in section 29A or 29B of the Rates and Charges (Rebates and Deferments) Act 1992 registers an entitlement in respect of land under section 32 of that Act after 30 June 2005 and before 1 October 2005, section 40 of that Act applies to that person as if the entitlement had been registered at the commencement of the charged period.
 The Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 14(2) does not have effect because this Act received the Royal Assent before 1 Jul 2013 (see s. 14(1)).
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 226(4) had not come into operation. It reads as follows:
-226.Rates and Charges (Rebates and Deferments) Act 1992 amended
-(4) In section 3(1):
-(a) in the definition of the pension means test after paragraph (a)(i) insert:
-and
-(b) in the definition of dependant after each of paragraphs (a) and (ab), the definition of eligibility after each of paragraphs (a) and (a)(i) and (ii) and the definition of prescribed charge after each of paragraphs (a) and (b) insert:
-or
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 19 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 19 — Rates and Charges (Rebates and Deferments) Act 1992 amended
-321.Act amended
-This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
-322.Section 3 amended
-(1) In section 3(1) in the definition of prescribed charge after paragraph (b)(iii) insert:
-(iva)the Public Health Act 2016; or
-(2) In section 3(1) in the definition of prescribed charge delete paragraph (b)(iii).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
