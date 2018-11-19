@@ -31,6 +31,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Duties Amendment (Additional Duty for Foreign Persons) Act 2018 s. 3-15 | 24 of 2018 | 17 Oct 2018 | 1 Jan 2019 (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
@@ -626,6 +628,60 @@ Chapter 3A Part 2 applies in relation to the imposition of foreign transfer duty
 45.Application of some Ch. 8 provisions
 (1) Sections 272(2) and 273 as in force before the commencement of the Duties Amendment (Additional Duty for Foreign Persons) Act 2018 section 15 apply in relation to a dutiable transaction that takes place before 1 January 2019.
 (2) Section 273(2A) applies in relation to a foreign dutiable transaction only if that transaction takes place on or after 1 January 2019.
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 5 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 5 — Duties Act 2008 amended
+130.Act amended
+This Division amends the Duties Act 2008.
+131.Section 3 amended
+In section 3 insert in alphabetical order:
+lease does not include a strata lease;
+strata lease has the meaning given in the Strata Titles Act 1985 section 3(1);
+132.Section 17 amended
+(1) Before section 17(2)(b) insert:
+(ac) an estate in land created as a strata lot in a freehold or a leasehold scheme on the registration of the strata titles scheme or an amendment of the strata titles scheme under the Strata Titles Act 1985;
+Note for this paragraph:
+Common property created on the registration or amendment of a strata titles scheme is also not new dutiable property.
+(ad) an estate in land created on termination of a strata titles scheme under the Strata Titles Act 1985;
+(2) After section 17(2) insert:
+(3) Without limiting section 11(1)(f), new dutiable property that is land in Western Australia includes an extension of the term of a strata lease for a lot in a leasehold scheme by the postponement of the expiry day for the scheme as referred to in the Strata Titles Act 1985 section 50(3).
+133.Section 18 amended
+After section 18(c) insert:
+(ca) a strata lease;
+134.Section 87 amended
+In section 87(2)(j)(ii) delete “strata/survey-strata plan” and insert:
+strata titles scheme or an amendment of a strata titles scheme
+135.Section 90 amended
+(1) In section 90(b)(i) delete “strata lot; and” and insert:
+lot in a strata scheme (within the meaning of the Strata Titles Act 1985); and
+(2) In section 90(b)(ii) delete “strata”.
+136.Section 112 amended
+(1) In section 112(6):
+(a) in paragraph (a) delete “section 21I or 21M or an order under section 103P of that Act; or” and insert:
+Schedule 2A clause 21I; or
+(b) delete paragraphs (b) and (c);
+(c) in paragraph (d) delete “Part II Division 2A or Part III Division 3,” and insert:
+Schedule 2A Part 4 Division 1 or 2,
+On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 6 had not come into operation. It reads as follows:
+Part 14 — Other Acts amended
+Division 6 — Duties Act 2008 amended
+203.Act amended
+This Division amends the Duties Act 2008.
+204.Section 17 amended
+After section 17(2)(a) insert:
+(aa) an estate in land created as a community lot in a community titles scheme on the registration of the community titles scheme or an amendment of the community titles scheme under the Community Titles Act 2018;
+Note for this subparagraph:
+Common property created on the registration or amendment of a community titles scheme is also not new dutiable property.
+(ab) an estate in land referred to in the Community Titles Act 2018 section 154(2)(b)(ii), (c)(ii) or (d)(iii) created on termination of a community titles scheme under that Act;
+205.Section 87 amended
+After section 87(2)(j)(i) insert:
+(ia) the registration of a community titles scheme or an amendment of a community titles scheme under the Community Titles Act 2018; or
+206.Section 90 amended
+Before section 90(b) insert:
+(ab) for —
+(i) the sale of a lot in a community titles (building) scheme (within the meaning of the Community Titles Act 2018); and
+(ii) the construction on the lot, after liability for duty on the agreement arises, of a building for commercial, residential or mixed use purposes;
+or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
