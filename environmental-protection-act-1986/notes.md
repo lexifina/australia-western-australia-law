@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 May 2018 of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Environmental Protection Act 1986 | 87 of 1986 | 10 Dec 1986 | s. 1 and 2: 10 Dec 1986; Act other than s. 1 and 2: 20 Feb 1987 (see s. 2 and Gazette 20 Feb 1987 p. 440)
@@ -57,12 +57,14 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 211 | 25 of 2012 | 3
 Reprint 8: The Environmental Protection Act 1986 as at 17 May 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
 Environmental Protection Amendment (Validation) Act 2014 | 27 of 2014 | 27 Nov 2014 | 27 Nov 2014 (see s. 2)
 Reprint 9: The Environmental Protection Act 1986 as at 4 May 2018 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Biodiversity Conservation Act 2016 s. 314 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div 6 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 8 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Deleted by the Building Act 2011 s. 174(6).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
@@ -115,10 +117,10 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
-On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
 2.Environmental Protection Act 1986 amended
 (3) Part VIIA is repealed.
-On the date as at which this reprint was prepared, the Biodiversity Conservation Act 2016 s. 314 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 314 had not come into operation. It reads as follows:
 314.Environmental Protection Act 1986 amended
 (1) This section amends the Environmental Protection Act 1986.
 (2) In Schedule 5 clause 1:
@@ -141,11 +143,31 @@ threatened flora has the meaning given in the Biodiversity Conservation Act 2016
 (a) as authorised by a licence under the Biodiversity Conservation Act 2016; or
 (b) as authorised by an authorisation under the Biodiversity Conservation Act 2016 section 40; or
 (c) by a person referred to in the Biodiversity Conservation Act 2016 section 171(2) for the purposes of supply in accordance with a licence under that Act.
-On the date as at which this reprint was prepared, the Aquatic Resources Management Act 2016 s. 366 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 366 had not come into operation. It reads as follows:
 366.Environmental Protection Act 1986 amended
 (1) This section amends the Environmental Protection Act 1986.
 (2) In Schedule 6 item 14 delete “a licence or permit within the meaning of the Fish Resources Management Act 1994.” and insert:
 an authorisation within the meaning of the Aquatic Resources Management Act 2016 section 3(1).
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 6 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 6 — Environmental Protection Act 1986 amended
+137.Act amended
+This Division amends the Environmental Protection Act 1986.
+138.Section 3 amended
+(1) In section 3(1) in the definition of responsible authority paragraph (b)(ii) delete “a strata plan, strata plan of subdivision or strata plan of consolidation required to be accompanied by a certificate issued under section 23 of” and insert:
+a subdivision of land by a strata scheme under
+(2) Delete section 3(2a)(b) and insert:
+(b) a subdivision of land by a strata scheme under the Strata Titles Act 1985.
+On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 8 had not come into operation. It reads as follows:
+Part 14 — Other Acts amended
+Division 8 — Environmental Protection Act 1986 amended
+209.Act amended
+This Division amends the Environmental Protection Act 1986.
+210.Section 3 amended
+(1) In section 3(1) in the definition of responsible authority paragraph (b)(i) delete “2005;” and insert:
+2005 (including a subdivision of land by a community scheme under the Community Titles Act 2018);
+(2) In section 3(2a)(a) delete “2005; or” and insert:
+2005 (including a subdivision of land by a community scheme under the Community Titles Act 2018); or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
