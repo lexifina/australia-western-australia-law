@@ -1,6 +1,6 @@
 ## Schedule 2A — Matters that may be provided for in management statement
 [s. 5C and 42]
-[Heading inserted by No. 58 of 1995 s. 89; amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 58 of 1995 s. 89; amended: No. 19 of 2010 s. 4.]
 1.The amendment or repeal of a by-law contained in Schedule 1.
 2.The amendment or repeal of a by-law contained in Schedule 2.
 3.Any additional by-law that may be made under section 42.
@@ -20,4 +20,4 @@ including any obligations of the strata company.
 12.Safety and security.
 13.The carrying on of any business or trading activity by the strata company, and the method of distributing and sharing any profit or loss.
 14.Procedures to be followed for the resolution of disputes as a prerequisite to the making of an application to the State Administrative Tribunal for relief under this Act.
-[Schedule 2A inserted by No. 58 of 1995 s. 89; amended by No. 61 of 1996 s. 38; No. 55 of 2004 s. 1156(3).]
+[Schedule 2A inserted: No. 58 of 1995 s. 89; amended: No. 61 of 1996 s. 38; No. 55 of 2004 s. 1156(3).]
