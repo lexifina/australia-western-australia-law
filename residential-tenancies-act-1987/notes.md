@@ -35,6 +35,11 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 5 | 17 of 2014 | 2 Jul 2014 
 Consumer Protection Legislation Amendment Act 2014 Pt. 12 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Reprint 6: The Residential Tenancies Act 1987 as at 6 Feb 2015 (includes amendments listed above)
 Residential Tenancies Amendment Act 2016 | 42 of 2016 | 1 Dec 2016 | s. 1 and 2: 1 Dec 2016 (see s. 2(a)); Act other than s. 1 and 2: 3 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551-2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Strata Titles Amendment Act 2018 Pt. 3 Div 18 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 18 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -43,6 +48,24 @@ The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
 The Real Estate Legislation Amendment Act 1995 s. 46 and 52 were purported to be proclaimed on 1 January 1997 in Gazette 25 June 1996 p. 2902, but the proclamation was revoked before it came into force — see Gazette 6 September 1996 p. 4405.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 18 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 18 — Residential Tenancies Act 1987 amended
+181.Act amended
+This Division amends the Residential Tenancies Act 1987.
+182.Section 5 amended
+After section 5(1) insert:
+(1A) This Act does not apply to a residential tenancy agreement that is a strata lease, within the meaning of the Strata Titles Act 1985.
+Note for this subsection:
+This subsection does not affect the application of this Act to a residential tenancy agreement that is a sublease of a strata lease.
+On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 18 had not come into operation. It reads as follows:
+Part 14 — Other Acts amended
+Division 18 — Residential Tenancies Act 1987 amended
+236.Act amended
+This Division amends the Residential Tenancies Act 1987.
+237.Section 48 amended
+Delete section 48(2) and insert:
+(2) It is a term of every residential tenancy agreement that contributions payable to a community corporation under the Community Titles Act 2018 or a strata company under the Strata Titles Act 1985 cannot be passed on to a tenant.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
