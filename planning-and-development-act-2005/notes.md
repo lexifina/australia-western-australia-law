@@ -30,6 +30,8 @@ Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Heritage Act 2018 s. 186 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 14 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 14 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
@@ -237,6 +239,106 @@ Heritage Act 2018; or
 (16) Delete section 249(2)(c) and insert:
 (c) an order made under the Heritage Act 2018 Part 4 or Part 11 Division 4.
 (17) Delete section 250(2).
+On the date as at which this compilation was prepared, the Strata Titles Amendment 2018 Pt. 3 Div. 14 had not come into operation. It reads as follows:
+Part 3 — Other Acts amended
+Division 14 — Planning and Development Act 2005 amended
+160.Act amended
+This Division amends the Planning and Development Act 2005.
+161.Section 4 amended
+In section 4(1) in the definition of lot delete “in relation to a strata scheme, a lot in relation to a survey-strata scheme, or a lot shown as common property on a survey-strata plan, as those terms are defined in the Strata Titles Act 1985;” and insert:
+as defined in the Strata Titles Act 1985 section 3(1);
+162.Section 136 amended
+(1) Delete section 136(3A) and insert:
+(2D) Subsection (1) applies to land comprised of common property or a lot in a strata titles scheme and a reference in that subsection to a lot includes a reference to a lot in a strata titles scheme.
+(2E) However, subsection (1) does not apply to the sale of common property or part of a lot, an agreement to sell common property or part of a lot or the grant of an option of purchase of common property or part of a lot if the transaction is associated with a subdivision by registration of an amendment of a strata titles scheme.
+(2F) Words in subsections (2D) and (2E) have the meanings given in the Strata Titles Act 1985 section 3(1) (and references to those words in sections 139 and 140 are to be read accordingly).
+(2) In section 136(3) in the definition of licence to use or occupy delete “easement;” and insert:
+easement.
+(3) In section 136(3) delete the definition of lot.
+163.Section 148 deleted
+Delete section 148.
+164.Section 150 amended
+In section 150(3)(a) and (c) delete “plan lodged” and insert:
+scheme plan lodged
+165.Section 152 amended
+(1) In section 152(1) delete “plan under” and insert:
+scheme plan under
+(2) In section 152(2)(a) delete “plan lodged” and insert:
+scheme plan lodged
+(3) In section 152(3)(b) delete “plan” and insert:
+scheme plan
+166.Part 10 Division 5A inserted
+After section 164 insert:
+Division 5A — Integration of subdivision and development
+164A.Integration of subdivision and development
+(1) This section applies if, on an application for subdivision approval or development approval, the Commission or responsible authority forms the opinion that the integration of subdivision and development approvals or multiple subdivision or development approvals is necessary or desirable —
+(a) due to the size of the lots and potential impact on the amenity of the locality; or
+(b) for other reasons associated with the achievement of orderly and proper planning, and the preservation of the amenity, of the locality.
+(2) The main purposes of integrating subdivision and development approvals are —
+(a) to facilitate a cohesive approach to planning and development in circumstances where subdivision and development should only be undertaken in conjunction with each other; and
+(b) to ensure that, in those circumstances, appropriate conditions for both the subdivision and development of land are determined as early as is practicable.
+(3) If this section applies —
+(a) the Commission may, in order to achieve the necessary or desirable integration of subdivision and development approvals, refuse to determine an application for subdivision approval until other applications for subdivision or development approvals are made or are made and determined; and
+(b) the Commission may refuse to unconditionally endorse a diagram or plan of survey with a subdivision approval in order for the plan to be registered in the Register under the Transfer of Land Act 1893 unless satisfied that —
+(i) the diagram or plan of survey is an accurate depiction of the subdivision that has been prepared after completion of the works necessary for the subdivision and the construction or modification of the buildings necessary for the development, the approvals of which have been required to be integrated; and
+(ii) the subdivision and development has been undertaken consistently with the relevant approvals, including their conditions; and
+(iii) the requirements of the Building Act 2011 have been complied with for the development.
+(4) Regulations may be made —
+(a) requiring the Commission or a responsible authority to inform each other and share information about an application for subdivision approval or development approval; or
+(b) requiring an applicant to provide additional documents or information reasonably required to determine whether subdivision and development approvals should be integrated under this section and to give effect to any such integration; or
+(c) establishing processes for the concurrent or separate consideration of subdivision and development approvals to which this section applies and for the imposition of conditions of approvals to which this section applies; or
+(d) otherwise facilitating the integration of subdivision and development approvals.
+167.Section 165 amended
+Delete section 165(1)(b) and insert:
+(b) a strata titles scheme as defined in the Strata Titles Act 1985 section 3(1), registered, or lodged for registration, under that Act,
+168.Section 167 amended
+In section 167(1)(a) and (c) delete “plan lodged” and insert:
+scheme plan lodged
+169.Section 168 amended
+(1) In section 168(1), (3), (4)(a) and (8)(a) delete “plan lodged” and insert:
+scheme plan lodged
+(2) In section 168(9) delete “plan that” and insert:
+scheme plan that
+170.Schedule 2 amended
+In schedule 2 clause 4(4) and (5) delete “Part II” and insert:
+Part 3
+On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 14 had not come into operation. It reads as follows:
+Part 14 — Other Acts amended
+Division 14 — Planning and Development Act 2005 amended
+222.Act amended
+This Division amends the Planning and Development Act 2005.
+223.Section 136 amended
+After section 136(2) insert:
+(2A) Subsection (1) applies to land comprised of common property or a lot in a community titles scheme and a reference in that subsection to a lot includes a reference to a lot in a community titles scheme.
+(2B) However, subsection (1) does not apply to the sale of common property or part of a lot, an agreement to sell common property or part of a lot or the grant of an option of purchase of common property or part of a lot if the transaction is associated with a subdivision by registration of an amendment of a community titles scheme.
+(2C) Words in subsections (2A) and (2B) have the meanings given in the Community Titles Act 2018 section 3(1) (and references to those words in sections 139 and 140 are to be read accordingly).
+224.Section 148 deleted
+Delete section 148.
+225.Section 162 amended
+After section 162(2) insert:
+(3) While a community development statement is in force for a community scheme, within the meaning of the Community Titles Act 2018, any approval for development must be consistent with the community development statement.
+226.Part 10 Division 5A inserted
+After Part 10 Division 5 insert:
+Division 5A — Integration of subdivision and development
+164A.Integration of subdivision and development
+(1) This section applies if, on an application for subdivision approval or development approval, the Commission or responsible authority forms the opinion that the integration of subdivision and development approvals or multiple subdivision or development approvals is necessary or desirable —
+(a) due to the size of the lots and potential impact on the amenity of the locality; or
+(b) for other reasons associated with the achievement of orderly and proper planning, and the preservation of the amenity, of the locality.
+(2) The main purposes of integrating subdivision and development approvals are —
+(a) to facilitate a cohesive approach to planning and development in circumstances where subdivision and development should only be undertaken in conjunction with each other; and
+(b) to ensure that, in those circumstances, appropriate conditions for both the subdivision and development of land are determined as early as is practicable.
+(3) Without limitation, integration of subdivision and development approvals will generally be necessary or desirable in the context of a community scheme within the meaning of the Community Titles Act 2018.
+(4) If this section applies —
+(a) the Commission may, in order to achieve the necessary or desirable integration of subdivision and development approvals, refuse to determine an application for subdivision approval until other applications for subdivision or development approvals are made or are made and determined; and
+(b) the Commission may refuse to unconditionally endorse a diagram or plan of survey with a subdivision approval in order for the plan to be registered in the Register under the Transfer of Land Act 1893 unless satisfied that —
+(i) the diagram or plan of survey is an accurate depiction of the subdivision that has been prepared after completion of the works necessary for the subdivision and the construction or modification of the buildings necessary for the development, the approvals of which have been required to be integrated; and
+(ii) the subdivision and development has been undertaken consistently with the relevant approvals, including their conditions; and
+(iii) the requirements of the Building Act 2011 have been complied with for the development.
+(5) Regulations may be made —
+(a) requiring the Commission or a responsible authority to inform each other and share information about an application for subdivision approval or development approval; or
+(b) requiring an applicant to provide additional documents or information reasonably required to determine whether subdivision and development approvals should be integrated under this section and to give effect to any such integration; or
+(c) establishing processes for the concurrent or separate consideration of subdivision and development approvals to which this section applies and for the imposition of conditions of approvals to which this section applies; or
+(d) otherwise facilitating the integration of subdivision and development approvals.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
