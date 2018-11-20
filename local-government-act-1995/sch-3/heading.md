@@ -15,7 +15,7 @@ unsightly, in relation to land, means having an appearance that, because of the 
 5A.(1)Ensure that overgrown vegetation, rubbish, or disused material, as specified, is removed from land that the local government considers to be untidy.
 (2)In this item —
 disused material includes disused motor vehicles, old motor vehicle bodies and old machinery.
-[5B.Deleted by No. 16 of 2016 s. 41.]
+[5B.Deleted: No. 16 of 2016 s. 41.]
 6.Take specified measures for preventing or minimising the movement of sand, silt, clay or rocks on or from the land if, in the opinion of the local government, that movement would be likely to adversely affect other land.
 7.Ensure that land that adjoins a public thoroughfare or other public place that is specified for the purposes of this item by a local law is not overgrown.
 8.Remove all or part of a tree that is obstructing or otherwise prejudicially affecting a thoroughfare that is under the local government’s control or management and adjoins the land where the tree is situated.
@@ -33,7 +33,7 @@ creating a nuisance.
 14.(1)Remove or make safe anything that is obstructing or otherwise prejudicially affecting a private thoroughfare so that danger to anyone using the thoroughfare is prevented or minimised.
 (2)In this item —
 private thoroughfare has the same meaning as in Schedule 9.1 clause 7(1).
-[Division 1 amended in Gazette 29 Apr 1997 p. 2144; amended by No. 49 of 2004 s. 72; No. 17 of 2009 s. 46; No. 16 of 2016 s. 41.]
+[Division 1 amended: Gazette 29 Apr 1997 p. 2144; amended: No. 49 of 2004 s. 72; No. 17 of 2009 s. 46; No. 16 of 2016 s. 41.]
 ## Division 2 — Provisions contraventions of which may lead to a notice requiring things to be done
 1.Regulations under Schedule 9.1, clause 3 (Obstructing or encroaching on public thoroughfare).
 1A.Regulations under Schedule 9.1, clause 5(1) (Gates and other devices across public thoroughfares) requiring a person to remove a gate or other device from across a public thoroughfare when requested by a local government to do so.
@@ -45,4 +45,4 @@ private thoroughfare has the same meaning as in Schedule 9.1 clause 7(1).
 4.Regulations under Schedule 9.1, clause 9 (Protection of watercourses, drains, tunnels and bridges).
 5.Regulations under Schedule 9.1, clause 10 (Protection of thoroughfares from water damage).
 6.Regulations under Schedule 9.1, clause 12 (Wind erosion and sand drifts).
-[Division 2 amended in Gazette 24 Jun 1996 p. 2862.]
+[Division 2 amended: Gazette 24 Jun 1996 p. 2862.]

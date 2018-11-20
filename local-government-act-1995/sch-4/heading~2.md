@@ -14,4 +14,4 @@
 (a) so appointed to the office of councillor on the same day, is that determined on the drawing of lots by the returning officer; or
 (b) so appointed to the office of councillor on different days, is in inverse order of the date of appointment; or
 (c) elected to the office of councillor, is such that persons so elected retire after persons so appointed.
-[Schedule 4.2 amended by No. 9 of 2007 s. 6; No. 15 of 2009 s. 6.]
+[Schedule 4.2 amended: No. 9 of 2007 s. 6; No. 15 of 2009 s. 6.]
