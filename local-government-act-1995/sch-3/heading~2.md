@@ -13,5 +13,5 @@ Section 3.36 applies.
 Section 3.27(3) applies.
 6.Place on land signs to indicate the names of public thoroughfares.
 7.Make safe a tree that presents serious and immediate danger, without having given the owner the notice otherwise required by regulations.
-[8.Deleted by No. 16 of 2016 s. 42.]
-[Schedule 3.2 amended by No. 17 of 2009 s. 47; No. 16 of 2016 s. 42.]
+[8.Deleted: No. 16 of 2016 s. 42.]
+[Schedule 3.2 amended: No. 17 of 2009 s. 47; No. 16 of 2016 s. 42.]
