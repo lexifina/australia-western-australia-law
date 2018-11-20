@@ -70,7 +70,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
- | Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -89,7 +89,7 @@ municipality includes a regional council;
 SIS Act means the Superannuation Industry (Supervision) Act 1993 (Cwlth) as amended from time to time.
 (2) A reference in this Part to the City of Perth scheme is a reference to the scheme as it is amended from time to time.
 (3) A reference in this Part to the industry scheme is a reference to the scheme as it is amended from time to time.
-[Section 170A amended in Gazette 26 May 2006 p. 1877.]
+[Section 170A amended: Gazette 26 May 2006 p. 1877.]
 170B.Municipalities to use industry scheme
 (1) To provide superannuation and other benefits for its employees and their dependants, a municipality shall participate in and comply with the industry scheme.
 (2) A municipality shall exercise such powers and discharge such obligations as are necessary to give effect to the industry scheme.
@@ -106,13 +106,13 @@ the amount that the municipality would, but for this subsection, be required und
 (ii) individual superannuation guarantee shortfall;
 and
 (b) a reference to a municipality making the minimum SG contributions for an employee for a period is a reference to the municipality making the contributions necessary for it to avoid incurring an individual superannuation guarantee shortfall in respect of the employee in respect of that period.
-[Section 170B amended in Gazette 26 May 2006 p. 1878; No. 2 of 2016 s. 31.]
+[Section 170B amended: Gazette 26 May 2006 p. 1878; No. 2 of 2016 s. 31.]
 170C.City of Perth scheme
 (1) The City of Perth shall establish a scheme that accords with the SIS Act to provide superannuation and other benefits for its employees and their dependants and for those of its former employees (and their dependants) whose employers, by virtue of section 170D or the City of Perth Act 2016 section 23, are required to participate in and comply with the scheme.
 (2) The City of Perth shall participate in and comply with the City of Perth scheme.
 (3) The City of Perth shall exercise such powers and discharge such obligations as are necessary to give effect to the City of Perth scheme.
 (4) A person who becomes an employee of the City of Perth shall be a member of and subject to the City of Perth scheme unless he or she elects to be a member of the industry scheme.
-[Section 170C amended by No. 2 of 2016 s. 32.]
+[Section 170C amended: No. 2 of 2016 s. 32.]
 170D.City of Perth scheme members who become employed by a regional council
 (1) If a person —
 (a) is a member of the City of Perth scheme; and
@@ -525,4 +525,3 @@ WALGA1.4
 ward1.4
 WCIM Act5.49(1)
 WorkCover WA5.49(1)
-By Authority: JOHN A. STRIJK, Government Printer
