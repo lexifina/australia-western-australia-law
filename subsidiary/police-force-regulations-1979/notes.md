@@ -15,7 +15,7 @@ Police Amendment Regulations (No. 3) 1984 | 7 Dec 1984 p. 4024-30 | 7 Dec 1984
 Police Amendment Regulations 1985 | 1 Mar 1985 p. 790 | 1 Mar 1985
 Police Amendment Regulations (No. 2) 1985 | 16 Aug 1985 p. 2926-8 | 16 Aug 1985
 Police Amendment Regulations 1986 | 24 Apr 1986 p. 1476-80 | 24 Apr 1986
-Reprint of the Police Regulations 1979 as at 28 Aug 1986 published in Gazette 24 Sep 1986 p. 3463-517 (includes all amendments listed above)
+Reprint of the Police Regulations 1979 as at 28 Aug 1986 published by Gazette 24 Sep 1986 p. 3463-517 (includes all amendments listed above)
 Police Amendment Regulations (No. 2) 1986 | 31 Oct 1986 p. 4050-1 | 31 Oct 1986
 Police Amendment Regulations (No. 2) 1987 | 14 Aug 1987 p. 3167 | 14 Aug 1987
 Police Amendment Regulations 1988 | 22 Jan 1988 p. 127-8 | 22 Jan 1988
@@ -53,7 +53,7 @@ Police Force Amendment Regulations (No. 3) 2005 | 30 Dec 2005 p. 6879 | 30 Dec 2
 Police Force Amendment Regulations 2006 | 15 Dec 2006 p. 5631-6 | 15 Dec 2006
 Police Force Amendment Regulations (No. 4) 2006 | 22 Dec 2006 p. 5823 | 22 Dec 2006
 Police Force Amendment Regulations 2007 | 2 Feb 2007 p. 246-51 | 7 Feb 2007 (see r. 2)
-Reprint 4: The Police Force Regulations 1979 as at 13 Apr 2007 (includes amendments listed above) (correction in Gazette 9 May 2008 p. 1859)
+Reprint 4: The Police Force Regulations 1979 as at 13 Apr 2007 (includes amendments listed above) (correction by Gazette 9 May 2008 p. 1859)
 Police Force Amendment Regulations (No. 3) 2007 | 16 Nov 2007 p. 5786-7 | r. 1 and 2: 16 Nov 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Nov 2007 (see r. 2(b))
 Police Force Amendment Regulations (No. 2) 2008 | 30 Dec 2008 p. 5643-7 | r. 1 and 2: 30 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2008 (see r. 2(b))
 Police Force Amendment Regulations 2010 | 12 Mar 2010 p. 954-6 | r. 1 and 2: 12 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Mar 2010 (see r. 2(b) and Gazette 12 Mar 2010 p. 941)
@@ -67,6 +67,7 @@ Reprint 6: The Police Force Regulations 1979 as at 19 Sep 2014 (includes amendme
 Police Force Amendment Regulations 2015 | 3 Mar 2015 p. 785-6 | r. 1 and 2: 3 Mar 2015 (see r. 2(a)); r. 3 and 4(1): 4 Mar 2015 (see r. 2(b)); r. 4(2): 4 Mar 2015 (see r. 2(c)(i) and Gazette 3 Mar 2015 p. 783)
 Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 221-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Police Force Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2863-4 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
+Police Force Amendment Regulations (No. 3) 2018 | 23 Nov 2018 p. 4552-3 | r. 1 and 2: 23 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Nov 2018 (see r. 2(b))
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Police Force Regulations 1979; citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
