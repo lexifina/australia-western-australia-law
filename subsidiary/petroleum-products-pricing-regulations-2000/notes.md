@@ -22,6 +22,7 @@ Petroleum Products Pricing Amendment Regulations 2016 | 21 Oct 2016 p. 4782 | r.
 Petroleum Products Pricing Amendment Regulations 2017 | 17 Oct 2017 p. 5335-7 | r. 1 and 2: 17 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Oct 2017 (see r. 2(b))
 Petroleum Products Pricing Amendment Regulations (No. 2) 2017 | 22 Dec 2017 p. 5976-7 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
 Petroleum Products Pricing Amendment Regulations 2018 | 1 May 2018 p. 1432 | r. 1 and 2: 1 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2018 (see r. 2(b))
+Petroleum Products Pricing Amendment Regulations (No. 2) 2018 | 27 Nov 2018 p. 4575 | r. 1 and 2: 27 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2018 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection was called the Department of Commerce.
 The Petroleum Products Pricing Amendment Regulations 2001 r. 8 reads as follows:
 8.Defence during transitional period
