@@ -43,6 +43,7 @@ Vocational Education and Training (Colleges) Amendment Regulations 2016 | 23 Dec
 Vocational Education and Training (Colleges) Amendment Regulations 2017 | 3 Feb 2017 p. 1115-17 | r. 1 and 2: 3 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Feb 2017 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2017 | 22 Dec 2017 p. 5995-6 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2018 | 12 Jun 2018 p. 1897-8 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2018 (see r. 2(b))
+Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2018 | 27 Nov 2018 p. 4583-4 | r. 1 and 2: 27 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2018 (see r. 2(b))
 Footnote no longer applicable.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Vocational Education and Training (Colleges) Regulations 1996; citation changed (see note under r. 1).
