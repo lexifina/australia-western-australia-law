@@ -1,6 +1,6 @@
 ## Schedule 2 — Prescribed offences and modified penalties
 [r. 11, 12]
-[Heading inserted in Gazette 22 Sep 2006 p. 4125.]
+[Heading inserted: Gazette 22 Sep 2006 p. 4125.]
 Offences under Petroleum Products Pricing Act 1983 | Modified penalty
 s. 11(1) | Failing to notify Commissioner of proposed increase in price or rate of declared petroleum products or service ................................................ | $4 000
 s. 14(1) | Selling or supplying controlled petroleum products or service above maximum price or rate | $4 000
@@ -17,4 +17,4 @@ s. 27A(5)(a) | Failing or refusing to comply with requirements of notice .......
 Offences under Petroleum Products Pricing Regulations 2000
 r. 3(1) | Offering motor fuel for sale at other than standard retail price notified to Commissioner ..... | $1 000
 r. 6(1) | Offering motor fuel for sale without having required price display ............................................ | $1 000
-[Schedule 2 inserted in Gazette 22 Sep 2006 p. 4125-6; amended in Gazette 18 Nov 2014 p. 4323.]
+[Schedule 2 inserted: Gazette 22 Sep 2006 p. 4125-6; amended: Gazette 18 Nov 2014 p. 4323.]

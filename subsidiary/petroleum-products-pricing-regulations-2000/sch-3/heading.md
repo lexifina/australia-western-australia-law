@@ -1,6 +1,6 @@
 ## Schedule 3 — Forms
 [r. 13 and 14]
-[Heading inserted in Gazette 15 Aug 2014 p. 2934.]
+[Heading inserted: Gazette 15 Aug 2014 p. 2934.]
 Form 1 — Infringement notice relating to offence under Petroleum Products Pricing Act 1983
 Petroleum Products Pricing Act 1983 INFRINGEMENT NOTICE | Infringement notice no.
 Alleged offender | Name
@@ -19,7 +19,7 @@ TAKE NOTICE | It is alleged that you have committed the above offence. If you do
 How to pay | By post | Tick the relevant box below and post this notice to: Commissioner for Consumer Protection Department of Commerce Locked Bag 14 CLOISTERS SQUARE WA 6850 rI want to pay the modified penalty. A cheque or money order (payable to ‘Commissioner for Consumer Protection’) for the modified penalty is enclosed. rI want to pay the modified penalty by credit card. Please debit my credit card account. Card type _____________________________ Cardholder name _______________________ Card number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] Expiry date of card _____/_____ Amount $__________ Signature ____________________ Complete all details
 In person | Pay the cashier at: Department of Commerce [street address to be inserted]
 Method of service |  | Date of service
-[Form 1 inserted in Gazette 15 Aug 2014 p. 2934-6; amended in Gazette 18 Nov 2014 p. 4324.]
+[Form 1 inserted: Gazette 15 Aug 2014 p. 2934-6; amended: Gazette 18 Nov 2014 p. 4324.]
 Form 2 — Withdrawal of infringement notice relating to offence under Petroleum Products Pricing Act 1983
 Petroleum Products Pricing Act 1983 WITHDRAWAL OF INFRINGEMENT NOTICE | Withdrawal no.
 Alleged offender | Name
@@ -36,4 +36,4 @@ Signature
 Date | Date of withdrawal
 Withdrawal of infringement notice [*Delete whichever is not applicable] | The above infringement notice issued against you for the above alleged offence has been withdrawn. If you have already paid the modified penalty for the alleged offence, you are entitled to a refund. *Your refund is enclosed or *If you have paid the modified penalty but a refund is not enclosed, you may claim your refund by signing and dating this notice and posting it to: Commissioner for Consumer Protection Department of Commerce Locked Bag 14 CLOISTERS SQUARE WA 6850
 Your signature |  | Date
-[Form 2 inserted in Gazette 15 Aug 2014 p. 2936-7.]
+[Form 2 inserted: Gazette 15 Aug 2014 p. 2936-7.]
