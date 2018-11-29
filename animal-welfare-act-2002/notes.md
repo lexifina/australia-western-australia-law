@@ -10,6 +10,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 1 | 28 o
 Reprint 1: The Animal Welfare Act 2002 as at 13 Oct 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 9 and 84 | 24 of 2007 | 12 Oct 2007 | s. 9: 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645); s. 84: 1 May 2013 ( see s. 2(2) and Gazette 5 Feb 2013 p. 823)
+Animal Welfare Amendment Act 2018 | 35 of 2018 | 28 Nov 2018 | s. 1 and 2: 28 Nov 2018 (see s. 2(a)); Act other than s. 1 and 2: 29 Nov 2018 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -79,7 +80,7 @@ authorised person63
 CALM5(1)
 caused93(7)
 CEO5(1)
-code of practice5(1)
+code of practice5(1) and 94(3)
 Department5(1)
 fauna5(1)
 field site14(2)
