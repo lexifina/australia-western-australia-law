@@ -9,4 +9,4 @@ commencement day means the day on which the Health, Safety and Civil Liability (
 (b) the symptoms of the injury first appeared on or after the commencement day,
 the incident is to be taken, for the purpose of subsection (4), to have happened on or after the commencement day.
 (6) This Part does not limit the protection from liability given by another written law.
-[Section 5AAB inserted by No. 1 of 2011 s. 6.]
+[Section 5AAB inserted: No. 1 of 2011 s. 6.]

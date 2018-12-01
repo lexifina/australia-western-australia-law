@@ -5,4 +5,4 @@
 (c) the civil liability of the concurrent wrongdoer was otherwise of a kind excluded from the operation of this Part by section 3A.
 (2) The liability of an excluded concurrent wrongdoer is to be determined in accordance with the legal rules, if any, that (apart from this Part) are relevant.
 (3) The liability of any other concurrent wrongdoer who is not an excluded concurrent wrongdoer is to be determined in accordance with the provisions of this Part.
-[Section 5AJA inserted by No. 43 of 2004 s. 8.]
+[Section 5AJA inserted: No. 43 of 2004 s. 8.]

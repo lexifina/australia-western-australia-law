@@ -1,5 +1,5 @@
 ## Part 1CA — Liability relating to emergency medical assistance given to enrolled children
-[Heading inserted by No. 1 of 2011 s. 6.]
+[Heading inserted: No. 1 of 2011 s. 6.]
 ### 5AAA. Terms used
 In this Part —
 child care service means —
@@ -18,4 +18,4 @@ staff member means a natural person who is —
 (da) a nominated supervisor as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
 (d) a member of the staff of a child care service; or
 (e) prescribed (or of a class prescribed) by the regulations as a person to whom this Part applies.
-[Section 5AAA inserted by No. 1 of 2011 s. 6; amended by No. 11 of 2012 s. 29.]
+[Section 5AAA inserted: No. 1 of 2011 s. 6; amended: No. 11 of 2012 s. 29.]
