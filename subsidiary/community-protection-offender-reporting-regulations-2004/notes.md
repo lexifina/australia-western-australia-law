@@ -23,18 +23,7 @@ Community Protection (Offender Reporting) Amendment Regulations 2014 | 5 Aug 201
 Community Protection (Offender Reporting) Amendment Regulations 2015 | 16 Jun 2015 p. 2077-8 | r. 1 and 2: 16 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2015 (see r. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 221-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Community Protection (Offender Reporting) Amendment Regulations 2017 | 13 Jan 2017 p. 359-60 | r. 1 and 2: 13 Jan 2017 (see r. 2(a)); Regulations other than r. 1, 2 and 4(2): 14 Jan 2017 (see r. 2(c)); r. 4(2): 2 Feb 2017 (see r. 2(b) and s. 2(2) of 2016/021 (Vic))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Community Protection (Offender Reporting) Amendment Regulations 2018 r. 3 and 4 | 13 Nov 2018 p. 4432-3 | 1 Dec 2018 (see r. 2(b))
-Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Amendment Regulations 2018 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Community Protection (Offender Reporting) Regulations 2004.
-4.Regulation 3 amended
-In regulation 3 delete the definition of registered nurse and insert:
-registered nurse means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse;
+Community Protection (Offender Reporting) Amendment Regulations 2018 | 13 Nov 2018 p. 4432-3 | r. 1 and 2: 13 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
