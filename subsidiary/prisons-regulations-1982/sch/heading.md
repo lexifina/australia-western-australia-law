@@ -19,7 +19,7 @@ CERTIFY THAT:
 DATED this ..................................... day of ......................................... 20 ...........
 ...................................................................................................................
 AnalystLaboratory Number
-[Form 1 inserted in Gazette 17 Aug 1984 p. 2450; amended in Gazette 9 Aug 1991 p. 4113; 8 Nov 1991 p. 5721; 13 Sep 1996 p. 4570; 10 Jan 2017 p. 187.]
+[Form 1 inserted: Gazette 17 Aug 1984 p. 2450; amended: Gazette 9 Aug 1991 p. 4113; 8 Nov 1991 p. 5721; 13 Sep 1996 p. 4570; 10 Jan 2017 p. 187.]
 Form 2
 [Regulation 54]
 Prisons Act 1981
@@ -55,7 +55,7 @@ In the presence of .............................................................
 (Print name of witness)
 ......................................................................................................................
 (Signature of witness)
-[Form 2 inserted in Gazette 19 Mar 1996 p. 1241-2; amended in Gazette 30 Jun 2003 p. 2625-6; 11 Jun 2004 p. 2002.]
+[Form 2 inserted: Gazette 19 Mar 1996 p. 1241-2; amended: Gazette 30 Jun 2003 p. 2625-6; 11 Jun 2004 p. 2002.]
 Form 3
 [Reg. 82]
 Prisons Act 1981
@@ -74,4 +74,4 @@ By section 10 of the Prisons Act 1981 an officer required to give any informatio
 A prisoner who commits that offence is guilty of an aggravated prison offence and liable to be punished accordingly.
 GIVEN under my hand this ........................ day of .................................. 20 .......
 ............................................................. (A.B. ).
-[Form 3 amended in Gazette 11 Dec 1987 p. 4369; 2 Nov 1999 p. 5475.]
+[Form 3 amended: Gazette 11 Dec 1987 p. 4369; 2 Nov 1999 p. 5475.]
