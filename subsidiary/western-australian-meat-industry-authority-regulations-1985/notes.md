@@ -43,18 +43,9 @@ Western Australian Meat Industry Authority Amendment Regulations 2016 | 16 Sep 2
 Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 169-71 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Western Australian Meat Industry Authority Amendment Regulations 2017 | 27 Oct 2017 p. 5413-15 | r. 1 and 2: 27 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2017 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2859-62 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Western Australian Meat Industry Authority Amendment Regulations 2018 r. 3 and 4 | 13 Nov 2018 p. 4436-7 | 1 Dec 2018 (see r. 2(b))
+Western Australian Meat Industry Authority Amendment Regulations 2018 | 13 Nov 2018 p. 4436-7 | r. 1 and 2: 13 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2018 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
-On the date as at which this compilation was prepared, the Western Australian Meat Industry Authority Amendment Regulations 2018 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Western Australian Meat Industry Authority Regulations 1985.
-4.Regulation 33G amended
-In regulation 33G in the definition of nurse practitioner delete “whose name is entered on the Register of Nurses kept under that Law as being qualified to practise as a nurse practitioner.” and insert:
-in the nursing profession whose registration under that Law is endorsed as nurse practitioner.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -83,3 +74,4 @@ permit holder25, 33N(1)
 sign25
 stand25
 stock agent3(1), 25
+throughput feeSch. 6 cl. 1
