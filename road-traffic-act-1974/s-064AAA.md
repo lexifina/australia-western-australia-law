@@ -9,4 +9,4 @@ Penalty: not less than 3 PU or more than 6 PU.
 (3) It is a defence to a charge of an offence against subsection (1) or (2) for the accused to prove that the accused’s blood alcohol content was not to any extent caused by any of the following —
 (a) the consumption of an alcoholic beverage (otherwise than for the purposes of religious observance);
 (b) the consumption or use of any other substance (for example, food or medicine) for the purpose of consuming alcohol.
-[Section 64AAA inserted by No. 14 of 2011 s. 9; amended by No. 22 of 2012 s. 139.]
+[Section 64AAA inserted: No. 14 of 2011 s. 9; amended: No. 22 of 2012 s. 139.]

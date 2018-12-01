@@ -9,4 +9,4 @@ Penalty for this subsection: a fine of 50 PU.
 (a) disposes of an interest that the person has in the vehicle; or
 (b) does anything, or causes or permits another person to do anything, that results or will result in a reduction in the value of the vehicle.
 Penalty for this subsection: a fine of 50 PU.
-[Section 79BCB inserted by No. 20 of 2010 s. 6; amended by No. 8 of 2012 s. 37; No. 51 of 2016 s. 25.]
+[Section 79BCB inserted: No. 20 of 2010 s. 6; amended: No. 8 of 2012 s. 37; No. 51 of 2016 s. 25.]

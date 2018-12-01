@@ -1,7 +1,7 @@
 ## Part V — Regulation of traffic
-[Heading inserted by No. 76 of 1996 s. 11.]
+[Heading inserted: No. 76 of 1996 s. 11.]
 ## Division 1AA — Terms used in this Part
-[Heading inserted by No. 25 of 2016 s. 42.]
+[Heading inserted: No. 25 of 2016 s. 42.]
 ### 49AAA. Terms used
 In this Part —
 above the speed limit, in relation to the driving of a vehicle, means driving the vehicle at a speed that exceeds the speed limit applicable to the driver, the vehicle or the length of road where it is being driven;
@@ -19,4 +19,4 @@ motor cycle means a motor vehicle that has 2 wheels and includes —
 provide driving instruction means to provide or attempt to provide driving instruction to a learner driver who is driving a motor vehicle;
 school zone means a length of road designated as a school zone under a road law;
 speed limit means a speed limit set under a road law.
-[Section 49AAA inserted by No. 25 of 2016 s. 42; amended by No. 51 of 2016 s. 4.]
+[Section 49AAA inserted: No. 25 of 2016 s. 42; amended: No. 51 of 2016 s. 4.]
