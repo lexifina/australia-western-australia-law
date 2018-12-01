@@ -8,4 +8,4 @@ and
 (c) the plaintiff unnecessarily incurs costs in the proceedings because the plaintiff was not aware that the other person may be a concurrent wrongdoer in relation to the claim,
 the court hearing the proceedings may order that the defendant pay all or any of those costs to the plaintiff.
 (2) The court may order that the costs to be paid by the defendant be assessed on an indemnity basis or otherwise.
-[Section 5AKA inserted by No. 43 of 2004 s. 9.]
+[Section 5AKA inserted: No. 43 of 2004 s. 9.]
