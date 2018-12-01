@@ -34,7 +34,7 @@
  | (d)for ineligible same day patients | $2 366 per day
 ## Subdivision 5 — Other services
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $38.45 per day
-[Division 1 amended in Gazette 21 Oct 2016 p. 4783; 3 Feb 2017 p. 1113; 5 May 2017 p. 2369; 30 Jun 2017 p. 3567; 22 Sep 2017 p. 4933; 2 Feb 2018 p. 316; 27 Apr 2018 p. 1392-3; 25 May 2018 p. 1631-2.]
+[Division 1 amended: Gazette 21 Oct 2016 p. 4783; 3 Feb 2017 p. 1113; 5 May 2017 p. 2369; 30 Jun 2017 p. 3567; 22 Sep 2017 p. 4933; 2 Feb 2018 p. 316; 27 Apr 2018 p. 1392-3; 25 May 2018 p. 1631-2.]
 ## Division 2 — Compensable patients
 ## Subdivision 1 — Compensable in-patients
 1. | Accommodation, maintenance, nursing care and other services in a hospital bed, except services referred to in item 4, 5 or 6 | $2 794 per day
@@ -51,7 +51,7 @@
 10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 042 per day
  | (b)for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 835 per day
  | (c)for any other patient | $2 645 per day
-[Division 2 amended in Gazette 3 Feb 2017 p. 1113; 30 Jun 2017 p. 3567; 2 Feb 2018 p. 316; 11 May 2018 p. 1503; 25 May 2018 p. 1632; 12 Jun 2018 p. 1895.]
+[Division 2 amended: Gazette 3 Feb 2017 p. 1113; 30 Jun 2017 p. 3567; 2 Feb 2018 p. 316; 11 May 2018 p. 1503; 25 May 2018 p. 1632; 12 Jun 2018 p. 1895.]
 ## Division 3 — Magnetic resonance imaging
 Charges for magnetic resonance imaging services
 Item | Service | Charge (per study)
@@ -70,7 +70,7 @@ Item | Charge
 2. | If the service is provided to a private pathology out-patient — 85% of the MBS amount for the service.
 ## Division 5 — Specialised orthoses
 ## Subdivision 1 — Adult chargeable patients
-[Heading inserted in Gazette 9 Mar 2018 p. 799.]
+[Heading inserted: Gazette 9 Mar 2018 p. 799.]
 Table
 Item | Code | Description of orthosis | Charge
 1. | AFOAT | Ankle foot orthosis, articulated plastic with toe plate | $1 216.92
@@ -176,7 +176,7 @@ Item | Code | Description of orthosis | Charge
 101. | WOP | Wrist orthosis, custom plastic | $358.22
 102. | WOS1 | Wrist orthosis, prefabricated | $130.31
 ## Subdivision 2 — Child chargeable patients
-[Heading inserted in Gazette 9 Mar 2018 p. 799.]
+[Heading inserted: Gazette 9 Mar 2018 p. 799.]
 Table
 Item | Description of orthosis | Charge
 1. | 3 point dynamic pressure orthosis | $181.18
