@@ -8,4 +8,4 @@ An Act —
 ·to repeal the Welfare and Assistance Act 1961;
 ·to amend certain Acts,
 and to provide for related matters.
-[Long title amended by No. 19 of 2007 s. 63.]
+[Long title amended: No. 19 of 2007 s. 63.]
