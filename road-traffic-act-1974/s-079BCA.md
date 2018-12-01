@@ -25,4 +25,4 @@ and
 (b) a statement as to the effect of section 79BCB(5) and (6); and
 (c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded under section 79BCB(2).
 (7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender substitute vehicle notice must specify only one of them as the substitute vehicle, being the one decided by the police officer issuing the notice.
-[Section 79BCA inserted by No. 20 of 2010 s. 6; amended by No. 8 of 2012 s. 37; No. 51 of 2016 s. 24.]
+[Section 79BCA inserted: No. 20 of 2010 s. 6; amended: No. 8 of 2012 s. 37; No. 51 of 2016 s. 24.]

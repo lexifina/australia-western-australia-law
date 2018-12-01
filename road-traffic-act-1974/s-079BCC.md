@@ -12,4 +12,4 @@ notice to surrender means —
 (ii) the vehicle’s condition is such that it no longer functions as a vehicle and a licence could not be granted for it under the Road Traffic (Vehicles) Act 2012 Part 2,
 the officer may cancel the notice to surrender.
 (3) As soon as is practicable after a senior police officer cancels a notice to surrender, the officer must give a written notice of the cancellation to the person to whom the notice to surrender was given.
-[Section 79BCC inserted by No. 20 of 2010 s. 6; amended by No. 51 of 2016 s. 26.]
+[Section 79BCC inserted: No. 20 of 2010 s. 6; amended: No. 51 of 2016 s. 26.]
