@@ -28,7 +28,7 @@ Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 49 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Firearms Amendment Act 2004 | 69 of 2004 (as amended by No. 8 of 2009 s. 59) | 8 Dec 2004 | s. 1, 2, 13 and 21: 8 Dec 2004 (see s. 2(3)); Act other than s. 1, 2, 13, 17, 21, 22(4)(a) and 26: 1 Jan 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265); s. 17: 1 Feb 2005 (see s. 2 and Gazette 24 Dec 2004 p. 6265); s. 22(4)(a) and 26 deleted by No. 8 of 2009 s. 59
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Firearms Act 1973 as at 1 Jul 2005 (includes amendments listed above)
 Psychologists Act 2005 Sch. 3 cl. 4 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
 Nurses and Midwives Act 2006 Sch. 3 cl. 8 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
@@ -42,11 +42,11 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 58 | 8 of 2009 | 21 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 20 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 69 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 Reprint 6: The Firearms Act 1973 as at 13 Feb 2015 (includes amendments listed above)
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biodiversity Conservation Act 2016 s. 316 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -66,10 +66,6 @@ On the date as at which this compilation was prepared, the Biodiversity Conserva
 (1) This section amends the Firearms Act 1973.
 (2) Delete section 23(10b) and insert:
 (11A) For the purposes of subsections (10) and (10a), the fact that a person uses or carries a firearm for the purposes of an activity authorised under the Biodiversity Conservation Act 2016 is not a reasonable excuse.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 had not come into operation. It reads as follows:
-110.Firearms Act 1973 amended
-(1) This section amends the Firearms Act 1973.
-(2) In section 23B(3) in the definition of registered nurse delete “and midwifery”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

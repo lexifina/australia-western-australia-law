@@ -76,7 +76,7 @@ Health Amendment Act 1991 | 59 of 1991 | 23 Dec 1991 | s. 1 and 2: 23 Dec 1991; 
  |  |  | s. 25: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644); Pt. 3: 4 Sep 1992 (see s. 2 and Gazette 4 Sep 1992 p. 4453); Pt. 5: 23 Dec 1992 (see s. 2 and Gazette 23 Dec 1992 p. 6209)
 Nurses Act 1992 s. 84 | 27 of 1992 | 23 Jun 1992 | 29 Oct 1993 (see s. 2 and Gazette 29 Oct 1993 p. 5881)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
-Untitled proclamation published in Gazette 26 Nov 1993 p. 6321 | 26 Nov 1993
+Untitled proclamation published by Gazette 26 Nov 1993 p. 6321 | 26 Nov 1993
 Local Government Amendment Act 1994 s. 42 | 27 of 1994 | 23 Jun 1994 | 1 Jul 1994 (see s. 2)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
@@ -92,7 +92,7 @@ Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 O
 Acts Amendment (Assemblies and Noise) Act 1996 Pt. 2 | 50 of 1996 | 31 Oct 1996 | 4 Dec 1996 (see s. 2 and Gazette 3 Dec 1996 p. 6695)
 Dental Amendment Act 1996 s. 18 | 64 of 1996 | 11 Nov 1996 | 1 Jan 1997 (see s. 2 and Gazette 31 Dec 1996 p. 7427)
 Transfer of Land Amendment Act 1996 s. 153(1) and (2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
-Reprint of the Health Act 1911 as at 11 Mar 1997 (includes amendments listed above except those in the Hospitals Amendment Act 1994, Coroners Act 1996 and the Health Amendment Act 1996 s. 7 and 13) (correction in Gazette 2 Dec 1997 p. 7058)
+Reprint of the Health Act 1911 as at 11 Mar 1997 (includes amendments listed above except those in the Hospitals Amendment Act 1994, Coroners Act 1996 and the Health Amendment Act 1996 s. 7 and 13) (correction by Gazette 2 Dec 1997 p. 7058)
 Acts Amendment (Land Administration) Act 1997 Pt. 30 and s. 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 68 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 39 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
@@ -103,7 +103,7 @@ School Education Act 1999 s. 247 | 36 of 1999 | 2 Nov 1999 | 1 Jan 2001 (see s. 
 Water Services Coordination Amendment Act 1999 s. 11(5) | 39 of 1999 | 9 Nov 1999 | 19 Jun 2000 (see s. 2 and Gazette 16 Jun 2000 p. 2939)
 Reprint of the Health Act 1911 as at 31 Mar 2000 (includes amendments listed above except those in the School Education Act 1999 and the Water Services Coordination Amendment Act 1999)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 16 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-Untitled proclamation published in Gazette 17 Nov 2000 p. 6289 | 17 Nov 2000
+Untitled proclamation published by Gazette 17 Nov 2000 p. 6289 | 17 Nov 2000
 Corporations (Consequential Amendments) Act 2001 Pt. 30 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Acts Amendment (Equality of Status) Act 2003 Pt. 26 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 71 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
@@ -112,7 +112,7 @@ Children and Community Services Act 2004 Sch. 2 cl. 12 | 34 of 2004 | 20 Oct 200
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 58 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Health Legislation Amendment Act 2004 Pt. 2 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Reprint 13: The Health Act 1911 as at 15 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Tobacco Products Control Act 2006 s. 126 | 5 of 2006 | 12 Apr 2006 | 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701)
 Health Amendment Act 2006 | 23 of 2006 | 9 Jun 2006 | 7 Jul 2006 (see s. 2)
@@ -129,7 +129,7 @@ Medical Practitioners Act 2008 Sch. 3 cl. 23 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Criminal Law Amendment (Homicide) Act 2008 s. 34 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Food Act 2008 s. 147 | 43 of 2008 | 8 Jul 2008 | 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 71 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-Reprint 15: The Health Act 1911 as at 20 Nov 2009 (includes amendments listed above) (correction in Gazette 14 Dec 2010 p. 6301)
+Reprint 15: The Health Act 1911 as at 20 Nov 2009 (includes amendments listed above) (correction by Gazette 14 Dec 2010 p. 6301)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 22 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Building Act 2011 s. 161 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 6 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
@@ -141,21 +141,21 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014
 Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
  | Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
  | Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above)
+ | Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
-Proclamations relating to offensive trades were published in the Gazette on —
+Proclamations relating to offensive trades were published by Gazette on —
 20 September 1918
 9 April 1948
 10 February 1950
 30 May 1952
 11 January 1957
-10 November 1961 (cancelled in Gazette 29 November 1985)
+10 November 1961 (cancelled by Gazette 29 November 1985)
 10 March 1967
 16 February 1968
 28 February 1969
@@ -403,15 +403,6 @@ Section 340AL(1c)
 276.Schedule 6 amended
 After Schedule 6 clause 5(2) insert:
 (2A) The persons who held office under section 340AB(3)(d) as members of the Perinatal and Infant Mortality Committee, or as deputies of those members, immediately before the coming into operation of the Public Health (Consequential Provisions) Act 2016 section 248 continue in office, under and subject to Part XIIIB, as members or, as the case requires, deputies of members of the Committee until the expiry of their respective terms as if they had been appointed by the Minister on the nomination of the chief executive of the health service provider for Perth Children’s Hospital under the Health Services Act 2016.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 had not come into operation. It reads as follows:
-111.Health (Miscellaneous Provisions) Act 1911 amended
-(1) This section amends the Health (Miscellaneous Provisions) Act 1911.
-(2) In section 3(1) in the definition of midwife delete “whose name is entered on the Register of Midwives kept under that Law;” and insert:
-in the midwifery profession;
-(3) In section 3(1) in the definition of nurse delete “and midwifery profession whose name is entered on the Register of Nurses kept under that Law;” and insert:
-profession;
-(4) In section 3(1) in the definition of nurse practitioner delete “whose name is entered on the Register of Nurses kept under that Law as being qualified to practice as a” and insert:
-in the nursing profession whose registration under that Law is endorsed as
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

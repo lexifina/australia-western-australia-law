@@ -292,6 +292,7 @@ Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes 
  | Statutes (Repeals) Act 2016 Pt. 2 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
  | Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 1 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
  | Reprint 21: The Constitution Acts Amendment Act 1899 as at 9 Feb 2018 (includes amendments listed above)
+ | Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 104 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -299,7 +300,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 104 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Heritage Act 2018 s. 184 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 1 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
@@ -351,10 +351,10 @@ Relevant provisions deleted by the Solar Energy Research Amendment Act 1987 and 
 Repealed by the Censorship Act 1996, now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 Repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 Repealed by the Cemeteries Act 1986. The former body corporate continued under the name “Karrakatta Cemetery Board”, see Sch. 2 cl. 4 of that Act.
-This Council was not in existence at the date of this reprint.
+This Council was not in existence at the date of this compilation.
 Relevant provisions deleted by the Agricultural Legislation Amendment and Repeal Act 1998 s. 21.
 Repealed by the Western Australian Arts Council Repeal Act 1986.
-This committee was not in existence at the date of this reprint.
+This committee was not in existence at the date of this compilation.
 Repealed by the Acts Amendment and Repeal (Post-Secondary Education) Act 1989.
 Expired 7 Jun 1991.
 Repealed by the Wheat Marketing Act 1984, which was repealed by the Wheat Marketing Act 1989 which was repealed by the Acts Amendment and Repeal (Competition Policy) Act 2003.
@@ -362,7 +362,7 @@ Expired 31 Oct 1984.
 Relevant provisions deleted by the Acts Amendment (Conservation and Land Management) Act 1984.
 Repealed by the Youth, Sport and Recreation Repeal Act 1984.
 The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
-Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from this reprint.
+Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from this compilation.
 The amendments in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 are not included because it was deleted before it came into operation by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Conservation and Land Management Amendment Act 1991 s. 57 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 35(3).
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
@@ -408,26 +408,7 @@ On the date as at which this compilation was prepared, the Aquatic Resources Man
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete “Any advisory committee established or continued in existence under Part 4 of the Fish Resources Management Act 1994.” and insert:
 Any advisory committee established under the Aquatic Resources Management Act 2016 section 224(1).
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 104 had not come into operation. It reads as follows:
-104.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 delete the items for:
-The Aboriginal and Torres Strait Islander Health Practice Board of Australia
-The Chinese Medicine Board of Australia
-The Chiropractic Board of Australia
-The Dental Board of Australia
-The Medical Board of Australia
-The Medical Radiation Practice Board of Australia
-The Nursing and Midwifery Board of Australia
-The Occupational Therapy Board of Australia
-The Optometry Board of Australia
-The Osteopathy Board of Australia
-The Pharmacy Board of Australia
-The Physiotherapy Board of Australia
-The Podiatry Board of Australia
-The Psychology Board of Australia
-(3) In Schedule V Part 3 after the item relating to the Health Education Council of Western Australia insert:
-Any National Health Practitioner Board established under the Health Practitioner Regulation National Law (Western Australia).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Heritage Act 2018 s. 184 had not come into operation. It reads as follows:
 184.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.

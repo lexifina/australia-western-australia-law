@@ -8,7 +8,7 @@ Reprint 1: The Corruption and Crime Commission Act 2003 as at 5 Jan 2004 (includ
 Criminal Code Amendment Act 2004 s. 24 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Corruption and Crime Commission Act 2003 as at 7 Jul 2006 (includes amendments listed above)
 Nurses and Midwives Act 2006 Sch. 3 cl. 4 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 3 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
@@ -33,11 +33,8 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (s. 3-32) 
 Declared Places (Mentally Impaired Accused) Act 2015 s. 84 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 6: The Corruption, Crime and Misconduct Act 2003 as at 31 Jul 2015 (includes amendments listed above)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 11 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 Pt. 2 | 10 of 2018 | 13 Jul 2018 | 1 Sep 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2894)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 105 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 Pt. 2 | 10 of 2018 | 13 Jul 2018 | 1 Sep 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2894)
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Corruption, Crime and Misconduct Act 2003; short title changed (see note under s. 1).
@@ -137,10 +134,6 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 105 had not come into operation. It reads as follows:
-105.Corruption, Crime and Misconduct Act 2003 amended
-(1) This section amends the Corruption, Crime and Misconduct Act 2003.
-(2) In section 54(1) in the definition of registered nurse delete “and midwifery”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

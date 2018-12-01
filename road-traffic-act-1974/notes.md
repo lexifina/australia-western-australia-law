@@ -13,30 +13,30 @@ Road Traffic Act Amendment Act 1978 | 89 of 1978 (as amended by No. 82 of 1982 s
 Acts Amendment and Repeal (Road Maintenance) Act 1979 Pt. II | 9 of 1979 | 18 May 1979 | 1 Jul 1979 (see s. 2(2))
 Road Traffic Act Amendment Act 1979 | 10 of 1979 | 18 May 1979 | 18 May 1979
 Road Traffic Act Amendment Act (No. 2) 1979 | 71 of 1979 | 27 Nov 1979 | Act other than s. 4, 5, 8-11, 13, 14 and 18: 27 Nov 1979 (see s. 2(1)); s. 8-11, 13, 14 and 18: 1 Feb 1980 (see s. 2(2) and Gazette 1 Feb 1980 p. 284); s. 4: 15 Feb 1980 (see s. 2(2) and Gazette 15 Feb 1980 p. 456); s. 5: 2 May 1980 (see s. 2(2) and Gazette 2 May 1980 p. 1405)
-Untitled regulations published in Gazette 6 Jun 1980 p. 1671-2 | 6 Jun 1980
+Untitled regulations published by Gazette 6 Jun 1980 p. 1671-2 | 6 Jun 1980
 Reprint of the Road Traffic Act 1974 approved 22 Jul 1980 (includes amendments listed above)
 Road Traffic Amendment Act 1980 | 42 of 1980 | 12 Nov 1980 | Act other than s. 3-6, 8, 9(a) and 10: 12 Nov 1980 (see s. 2(1)); s. 3-6, 8, 9(a) and 10: 1 Jan 1981 (see s. 2(2))
 Acts Amendment (Motor Vehicle Pools) Act 1980 Pt. II | 48 of 1980 | 19 Nov 1980 | 19 Nov 1980
 Road Traffic Amendment Act (No. 2) 1980 | 81 of 1980 | 5 Dec 1980 | 5 Dec 1980
-Road Traffic (Fees for Vehicle Licences) Regulations 1981 published in Gazette 29 May 1981 p. 1611-18 | 29 May 1981
+Road Traffic (Fees for Vehicle Licences) Regulations 1981 published by Gazette 29 May 1981 p. 1611-18 | 29 May 1981
 Road Traffic Amendment Act 1981 | 39 of 1981 | 25 Aug 1981 | 25 Aug 1981
 Road Traffic Amendment Act (No. 2) 1981 | 71 of 1981 | 30 Oct 1981 | 1 Aug 1982 (see s. 2 and Gazette 23 Jul 1982 p. 2842)
 Road Traffic Amendment Act (No. 4) 1981 | 105 of 1981 | 4 Dec 1981 | 2 Feb 1982 (see s. 2 and Gazette 2 Feb 1982 p. 393)
 Companies (Consequential Amendments) Act 1982 s. 28 | 10 of 1982 | 14 May 1982 | 1 Jul 1982 (see s. 2(1) and Gazette 25 Jun 1982 p. 2079)
 Acts Amendment (Motor Vehicle Fees) Act 1982 Pt. III | 25 of 1982 | 27 May 1982 | 1 Jul 1982 (see s. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations 1982 published in Gazette 28 May 1982 p. 1728-34 | 28 May 1982
+Road Traffic (Fees for Vehicle Licences) Regulations 1982 published by Gazette 28 May 1982 p. 1728-34 | 28 May 1982
 Road Traffic Amendment Act 1982 | 60 of 1982 | 24 Sep 1982 | Act other than s. 3 and 6(a): 1 Oct 1982 (see s. 2 and Gazette 1 Oct 1982 p. 3885); s. 3 and 6(a): 1 Nov 1982 (see s. 2 and Gazette 1 Oct 1982 p. 3885)
 Road Traffic Amendment Act (No. 2) 1982 | 82 of 1982 | 11 Nov 1982 | Act other than s. 5, 7, 9, 11-14, 15(d), (e), (g), (j), (l) and (n), 16, 17, 18(a)(ii), (b), (d) and (e), 19, 20(a)-(c) and (e), 21(1), 25 and 26: 11 Nov 1982 (see s. 2(1)); s. 5, 7, 9, 11-13, 14(b), 15(d), 16, 20(a)-(c) and (e), 21(1), 25 and 26: 9 Dec 1982 (see s. 2(2)); s. 14(a), 15(e), (g), (j), (l), and (n), 17, 18(a)(ii), (b), (d) and (e) and 19: 1 Mar 1983 (see s. 2(3) and Gazette 25 Feb 1983 p. 638)
-Road Traffic (Fees for Vehicle Licences) Regulations 1983 published in Gazette 20 May 1983 p. 1525-32 | 20 May 1983
+Road Traffic (Fees for Vehicle Licences) Regulations 1983 published by Gazette 20 May 1983 p. 1525-32 | 20 May 1983
 Reprint of the Road Traffic Act 1974 approved 9 Jul 1983 (includes amendments listed above)
-Road Traffic (Fees for Vehicle Licences) Regulations 1984 published in Gazette 28 Jun 1984 p. 1741-51 | 28 Jun 1984
+Road Traffic (Fees for Vehicle Licences) Regulations 1984 published by Gazette 28 Jun 1984 p. 1741-51 | 28 Jun 1984
 Road Traffic Amendment Act 1984 | 95 of 1984 | 7 Dec 1984 | 4 Jan 1985
 Acts Amendment and Repeal (Credit) Act 1984 Pt. VII | 102 of 1984 | 19 Dec 1984 | 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867)
 Acts Amendment and Repeal (Transport Co-ordination) Act 1985 Pt. VI | 54 of 1985 | 28 Oct 1985 | 1 Jan 1986 (see s. 2 and Gazette 20 Dec 1985 p. 4822)
 Road Traffic Amendment Act 1985 | 89 of 1985 | 4 Dec 1985 | 4 Dec 1985 (see s. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations 1986 published in Gazette 30 May 1986 p. 1769-75 (erratum 13 Jun 1986 p. 1979) | 30 May 1986
+Road Traffic (Fees for Vehicle Licences) Regulations 1986 published by Gazette 30 May 1986 p. 1769-75 (erratum 13 Jun 1986 p. 1979) | 30 May 1986
 Road Traffic Amendment Act (No. 2) 1986 | 78 of 1986 | 4 Dec 1986 | 4 Dec 1986 (see s. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations 1987 published in Gazette 29 May 1987 p. 2263-73 | 29 May 1987
+Road Traffic (Fees for Vehicle Licences) Regulations 1987 published by Gazette 29 May 1987 p. 2263-73 | 29 May 1987
 Road Traffic Amendment Act (No. 2) 1987 | 121 of 1987 (as amended by No. 84 of 2004 s. 80 cl. 123 and No. 8 of 2009 s. 112) | 24 Dec 1987 | s. 1 and 2: 24 Dec 1987; s. 3-6 and 8-10: 24 Dec 1987 (see s. 2 and Gazette 24 Dec 1987 p. 4561); s. 7: 1 Oct 1988 (see s. 2 and Gazette 30 Sep 1988 p. 3967); s. 11(a): 21 Dec 1990 (see s. 2 and Gazette 21 Dec 1990 p. 6212)
 Road Traffic Amendment Act 1988 | 11 of 1988 | 6 Sep 1988 | s. 1 and 2: 6 Sep 1988; s. 3, 20, 21 and 23: 28 Oct 1988 (see s. 2 and Gazette 28 Oct 1988 p. 4274); s. 8(a) and (b): 4 Nov 1988 (see s. 2 and Gazette 4 Nov 1988 p. 4365); s. 4-7, 9-17, 19, 22 and 24: 16 Nov 1988 (see s. 2 and Gazette 16 Nov 1988 p. 4517); s. 8(c) and 18 (other than paragraph (b)): 21 Jul 1989 (see s. 2 and Gazette 21 Jul 1989 p. 2212); s. 18(b): 19 Sep 1989 (see s. 2 and Gazette 21 Jul 1989 p. 2212)
 Road Traffic Amendment (Random Breath Tests) Act 1988 | 16 of 1988 (as amended by No. 46 of 1989 s. 4; No. 76 of 1996 s. 41 and No. 39 of 2000 s. 67) | 9 Sep 1988 | s. 1 and 2: 9 Sep 1988; Act other than s. 1, 2 and 5: 1 Oct 1988 (see s. 2 and Gazette 30 Sep 1988 p. 3967)
@@ -44,23 +44,23 @@ Road Traffic Amendment Act (No. 3) 1988 | 32 of 1988 | 24 Nov 1988 | s. 1 and 2:
 Road Traffic Amendment Act (No. 2) 1988 | 57 of 1988 | 8 Dec 1988 | s. 1 and 2: 8 Dec 1988; Act other than s. 1 and 2: 1 Feb 1989 (see s. 2 and Gazette 23 Dec 1988 p. 4937)
 Acts Amendment (Events on Roads) Act 1988 Pt. 2 | 64 of 1988 | 8 Dec 1988 | 1 Feb 1991 (see s. 2 and Gazette 1 Feb 1991 p. 511)
 Acts Amendment (Children’s Court) Act 1988 Pt. 7 | 49 of 1988 | 22 Dec 1988 | 1 Dec 1989 (see s. 2 and Gazette 24 Nov 1989 p. 4327)
-Road Traffic (Fees for Vehicle Licences) Regulations 1989 published in Gazette 11 Aug 1989 p. 2695-704 | 11 Aug 1989
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1989 published in Gazette 22 Sep 1989 p. 3463 | 22 Sep 1989
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 3) 1989 published in Gazette 17 Nov 1989 p. 4161-5 (erratum 8 Dec 1989 p. 4463) | 17 Nov 1989
+Road Traffic (Fees for Vehicle Licences) Regulations 1989 published by Gazette 11 Aug 1989 p. 2695-704 | 11 Aug 1989
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1989 published by Gazette 22 Sep 1989 p. 3463 | 22 Sep 1989
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 3) 1989 published by Gazette 17 Nov 1989 p. 4161-5 (erratum 8 Dec 1989 p. 4463) | 17 Nov 1989
 Acts Amendment (Chemistry Centre (WA)) Act 1990 Pt. 3 | 19 of 1990 | 24 Jul 1990 | 9 Aug 1991 (see s. 2 and Gazette 9 Aug 1991 p. 4101)
-Road Traffic (Fees for Vehicle Licences) Regulations 1990 published in Gazette 29 Aug 1990 p. 4383-90 (erratum 7 Dec 1990 p. 6051) | 29 Aug 1990
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1990 published in Gazette 23 Nov 1990 p. 5850-1 | 23 Nov 1990
+Road Traffic (Fees for Vehicle Licences) Regulations 1990 published by Gazette 29 Aug 1990 p. 4383-90 (erratum 7 Dec 1990 p. 6051) | 29 Aug 1990
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1990 published by Gazette 23 Nov 1990 p. 5850-1 | 23 Nov 1990
 Road Traffic Amendment Act (No. 3) 1990 | 60 of 1990 | 17 Dec 1990 | s. 1 and 2: 17 Dec 1990; Act other than s. 1 and 2: 21 Dec 1990 (see s. 2 and Gazette 21 Dec 1990 p. 6212)
 Reprint of the Road Traffic Act 1974 as at 4 Apr 1991 (includes amendments listed above except those in the Acts Amendment (Chemistry Centre (WA)) Act 1990)
-Road Traffic (Fees for Vehicle Licences) Regulations 1991 published in Gazette 23 Aug 1991 p. 4417-22 | 23 Aug 1991
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1991 published in Gazette 22 Nov 1991 p. 5958-9 | 22 Nov 1991
+Road Traffic (Fees for Vehicle Licences) Regulations 1991 published by Gazette 23 Aug 1991 p. 4417-22 | 23 Aug 1991
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1991 published by Gazette 22 Nov 1991 p. 5958-9 | 22 Nov 1991
 Criminal Law Amendment Act 1991 s. 6(2) and 21 | 37 of 1991 | 12 Dec 1991 | s. 6(2): 12 Dec 1991 (see s. 2(1)); s. 21: 10 Feb 1992 (see s. 2(2) and Gazette 31 Jan 1992 p. 477)
 Road Traffic (Bicycle Helmets) Amendment Act 1991 | 46 of 1991 | 17 Dec 1991 | 17 Dec 1991 (see s. 2)
 Road Traffic Amendment (Power Assisted Pedal Cycles) Act 1991 | 50 of 1991 | 17 Dec 1991 | s. 1 and 2: 17 Dec 1991; Act other than s. 1 and 2: 24 Dec 1991 (see s. 2 and Gazette 24 Dec 1991 p. 6395)
 Criminal Law Amendment Act 1992 Pt. 3 | 1 of 1992 | 7 Feb 1992 | 9 Mar 1992 (see s. 2)
 Road Traffic Amendment Act 1992 | 13 of 1992 | 16 Jun 1992 | 16 Jun 1993 (see s. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations 1992 published in Gazette 21 Aug 1992 p. 4162-6 | 21 Aug 1992
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1992 published in Gazette 13 Nov 1992 p. 5591-2 | 13 Nov 1992
+Road Traffic (Fees for Vehicle Licences) Regulations 1992 published by Gazette 21 Aug 1992 p. 4162-6 | 21 Aug 1992
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1992 published by Gazette 13 Nov 1992 p. 5591-2 | 13 Nov 1992
 Financial Administration Legislation Amendment Act 1993 s. 6 and 11 | 6 of 1993 | 27 Aug 1993 | s. 11: 1 Jul 1993 (see s. 2(1)); s. 6: 27 Aug 1993 (see s. 2(2))
 Acts Amendment (Vehicles on Roads) Act 1994 Pt. 3 | 13 of 1994 | 15 Apr 1994 | 17 May 1994 (see s. 2 and Gazette 17 May 1994 p. 2065)
 Taxi Act 1994 s. 48 | 83 of 1994 | 20 Dec 1994 | 10 Jan 1995 (see s. 2 and Gazette 10 Jan 1995 p. 73)
@@ -69,32 +69,32 @@ Reprint of the Road Traffic Act 1974 as at 1 Jun 1995 (includes amendments liste
 Road Traffic Amendment Act 1995 | 21 of 1995 | 13 Jul 1995 | s. 1 and 2: 13 Jul 1995; Act other than s. 1 and 2: 25 Nov 1995 (see s. 2 and Gazette 24 Nov 1995 p. 5390)
 Acts Amendment (Vehicle Licences) Act 1995 Pt. 2 | 57 of 1995 | 20 Dec 1995 | 20 Dec 1995 (see s. 2)
 Sentencing (Consequential Provisions) Act 1995 Pt. 71 and s. 147 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
-Road Traffic (Fees for Vehicle Licences) Regulations 1996 published in Gazette 24 May 1996 p. 2181-9 | 24 May 1996
+Road Traffic (Fees for Vehicle Licences) Regulations 1996 published by Gazette 24 May 1996 p. 2181-9 | 24 May 1996
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Consumer Credit (Western Australia) Act 1996 s. 13 | 30 of 1996 | 10 Sep 1996 | 1 Nov 1996 (see s. 2)
 Road Traffic Amendment (Measuring Equipment) Act 1996 | 37 of 1996 | 27 Sep 1996 | 27 Sep 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 27(3) and 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2)
 Road Traffic Amendment Act 1996 | 76 of 1996 (as amended by No. 49 of 1996 s. 27(4); No. 54 of 2006 s. 43(2)) | 14 Nov 1996 | s. 1 and 2: 14 Nov 1996; Act other than s. 1, 2 and 8(3): 1 Feb 1997 (see s. 2 and Gazette 31 Jan 1997 p. 613)
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1996 published in Gazette 17 Dec 1996 p. 7014-15 | 17 Dec 1996
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1996 published by Gazette 17 Dec 1996 p. 7014-15 | 17 Dec 1996
 Reprint of the Road Traffic Act 1974 as at 25 Mar 1997 (includes amendments listed above)
-Road Traffic (Fees for Vehicle Licences) Regulations 1997 published in Gazette 13 May 1997 p. 2344-9 | 13 May 1997
+Road Traffic (Fees for Vehicle Licences) Regulations 1997 published by Gazette 13 May 1997 p. 2344-9 | 13 May 1997
 Road Traffic Amendment Act 1997 | 50 of 1997 | 12 Dec 1997 | s. 1 and 2: 12 Dec 1997; Act other than s. 1 and 2: 1 Jan 1998 (see s. 2 and Gazette 23 Dec 1997 p. 7400)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 106 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Road Traffic (Fees for Vehicle Licences) Regulations 1998 published in Gazette 12 May 1998 p. 2799-800 | 15 May 1998 (see r. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1998 published in Gazette 3 Jul 1998 p. 3603-4 | 3 Jul 1998 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations 1998 published by Gazette 12 May 1998 p. 2799-800 | 15 May 1998 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 1998 published by Gazette 3 Jul 1998 p. 3603-4 | 3 Jul 1998 (see r. 2)
 Road Traffic Amendment Act 1998 | 52 of 1998 | 7 Dec 1998 | 7 Dec 1998 (see s. 2)
 Perth Parking Management (Consequential Provisions) Act 1999 s. 7(4) | 16 of 1999 | 19 May 1999 | 7 Aug 1999 (see s. 2 and Gazette 6 Aug 1999 p. 3727)
-Road Traffic (Fees for Vehicle Licences) Regulations 1999 published in Gazette 25 May 1999 p. 2070-1 | 25 May 1999 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations 1999 published by Gazette 25 May 1999 p. 2070-1 | 25 May 1999 (see r. 2)
 Revenue Laws Amendment (Assessment) Act 1999 Pt. 3 | 24 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(3))
 Reprint of the Road Traffic Act 1974 as at 17 Sep 1999 (includes amendments listed above)
 School Education Act 1999 s. 247 | 36 of 1999 | 2 Nov 1999 | 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7904)
 Acts Amendment (Police Immunity) Act 1999 s. 9 | 42 of 1999 | 25 Nov 1999 | 25 Nov 1999 (see s. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations 2000 published in Gazette 17 May 2000 p. 2421-3 | 31 May 2000 (see r. 2 and Gazette 17 May 2000 p. 2426)
+Road Traffic (Fees for Vehicle Licences) Regulations 2000 published by Gazette 17 May 2000 p. 2421-3 | 31 May 2000 (see r. 2 and Gazette 17 May 2000 p. 2426)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 39 and 55 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Road Traffic Amendment Act 2000 Pt. 2 15-19 | 39 of 2000 (as amended by No. 5 of 2002 s. 15; No. 45 of 2002 s. 28(2); No. 84 of 2004 s. 80 (cl. 124)) | 10 Oct 2000 | s. 3, 17(1), 34-37 and 47(3): 30 Jan 2001 (see s. 2 and Gazette 30 Jan 2001 p. 615); s. 18, 23, 24, 27, 29 and 48 and Sch. 1 (except cl. 3 and 5): 5 Feb 2001 (see s. 2 and Gazette 30 Jan 2001 p. 615); s. 19-22, 25, 26, 28 and 45 and Sch. 1 cl. 3 and 5: 7 May 2001 (see s. 2 and Gazette 23 Mar 2001 p. 1665); Proclamation of 9 Feb 2001 p. 767 revoked (see Gazette 23 Mar 2001 p. 1665); s. 6 deleted by No. 5 of 2002 s. 15; s. 4, 5, 7-16, 17(2), 30-33, 38-44, 46, 47(1), (2) and (4): 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244-5)
 Acts Amendment (Fines Enforcement and Licence Suspension) Act 2000 Pt. 3 | 51 of 2000 | 28 Nov 2000 | 5 Feb 2001 (see s. 2 and Gazette 30 Jan 2001 p. 615)
-Road Traffic (Fees for Vehicle Licences) Regulations 2001 published in Gazette 29 Jun 2001 p. 3247 | 29 Jun 2001 (see r. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2001 published in Gazette 14 Aug 2001 p. 4256-8 | 14 Aug 2001 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations 2001 published by Gazette 29 Jun 2001 p. 3247 | 29 Jun 2001 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2001 published by Gazette 14 Aug 2001 p. 4256-8 | 14 Aug 2001 (see r. 2)
 Reprint of the Road Traffic Act 1974 as at 19 Oct 2001 (includes amendments listed above except those in the Road Traffic Amendment Act 2000 s. 4-16, 17(2), 30-33, 38-44, 46, 47(1), (2) and (4))
 Road Traffic Amendment Act 2001 | 27 of 2001 | 21 Dec 2001 | s. 1 and 2: 21 Dec 2001; Act other than s. 1 and 2: 10 Aug 2002 (see s. 2 and Gazette 9 Aug 2002 p. 3853-4)
 Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 2 | 28 of 2001 (as amended by No. 45 of 2002 s. 29(2)) | 21 Dec 2001 | 4 Dec 2006 (see s. 2 and Gazette 28 Nov 2006 p. 4889)
@@ -104,11 +104,11 @@ Road Safety Council Act 2002 s. 15 | 5 of 2002 | 4 Jun 2002 | 1 Jul 2002 (see s.
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 Pt. 7 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Taxation Administration (Consequential Provisions) Act 2002 s. 27 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and (2) and Gazette 27 Jun 2003 p. 2383)
 Nurses Amendment Act 2003 Pt. 3 Div. 7 | 9 of 2003 | 9 Apr 2003 | 9 Apr 2003 (see s. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations 2003 published in Gazette 20 May 2003 p. 1804-6 | 31 May 2003 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations 2003 published by Gazette 20 May 2003 p. 1804-6 | 31 May 2003 (see r. 2)
 Sentencing Legislation Amendment and Repeal Act 2003 Pt. 3 and s. 92 | 50 of 2003 | 9 Jul 2003 | Pt. 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 92: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 105 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations 2004 published in Gazette 28 May 2004 p. 1843-5 | 31 May 2004 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations 2004 published by Gazette 28 May 2004 p. 1843-5 | 31 May 2004 (see r. 2)
 Road Traffic Amendment Act 2004 | 6 of 2004 | 10 Jun 2004 | 10 Jun 2004 (see s. 2)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004 | 10 of 2004 | 23 Jun 2004 | s. 1 and 2: 23 Jun 2004; Act other than s. 1 and 2: 4 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
 Reprint 8: The Road Traffic Act 1974 as at 16 Jul 2004 (includes amendments listed above except those in the Road Traffic Amendment Act 2000 s. 4, 5, 7-16, 17(2), 30-33, 38-44, 46, 47(1), (2) and (4), Road Traffic Amendment (Vehicle Licensing) Act 2001 and the Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2004)
@@ -116,11 +116,11 @@ Road Traffic Amendment (Dangerous Driving) Act 2004 | 44 of 2004 | 9 Nov 2004 | 
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 115 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2004 published in Gazette 24 Dec 2004 p. 6255 | 1 Feb 2005 (see r. 2)
-Road Traffic (Fees for Vehicle Licences) Regulations 2005 published in Gazette 27 May 2005 p. 2306-8 | 31 May 2005 (see r. 2)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
+Road Traffic (Fees for Vehicle Licences) Regulations (No. 2) 2004 published by Gazette 24 Dec 2004 p. 6255 | 1 Feb 2005 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations 2005 published by Gazette 27 May 2005 p. 2306-8 | 31 May 2005 (see r. 2)
 Reprint 9: The Road Traffic Act 1974 as at 10 Mar 2006 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
-Road Traffic (Fees for Vehicle Licences) Regulations 2006 published in Gazette 26 May 2006 p. 1885-8 | 31 May 2006 (see r. 2)
+Road Traffic (Fees for Vehicle Licences) Regulations 2006 published by Gazette 26 May 2006 p. 1885-8 | 31 May 2006 (see r. 2)
 Nurses and Midwives Act 2006 Sch. 3 cl. 20 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Road Traffic Amendment Act 2006 Pt. 2 (s. 3-35) 26-28 | 54 of 2006 | 26 Oct 2006 | s. 27: 7 Jul 2007 (see s. 2 and Gazette 6 Jul 2007 p. 3385); s. 19: 11 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475); Pt. 2 (other than s. 19 and 27): 30 Jun 2008 (see s. 2 and Gazette 10 Jun 2008 p. 2471)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
@@ -133,7 +133,7 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 33 | 12 of 2008 | 14 Apr 2008 |
 Medical Practitioners Act 2008 Sch. 3 cl. 51 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Road Traffic Amendment Act 2008 | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); Act other than s. 1, 2, 5(a) and 8: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329); s. 5(a) and 8: 1 Jul 2009 (see s. 2(1)(b) and (2) and Gazette 23 Jun 2009 p. 2423)
 Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above except those in the Medical Practitioners Act 2008, Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (other than s. 26) and the Road Traffic Amendment Act 2008 s. 5(a) and 8) (correction in Gazette 19 Oct 2010 p. 5202)
+Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above except those in the Medical Practitioners Act 2008, Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (other than s. 26) and the Road Traffic Amendment Act 2008 s. 5(a) and 8) (correction by Gazette 19 Oct 2010 p. 5202)
 Road Traffic Amendment (Hoons) Act 2009 Pt. 2 | 23 of 2009 | 6 Oct 2009 | 1 Jan 2010 (see s. 2(1)(b) and (2) and Gazette 31 Dec 2009 p. 5421)
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 12 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
@@ -160,15 +160,14 @@ Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2
 Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1, Div. 4 Subdiv. 1 (other than s. 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 1 Subdiv. 1, Div. 3 Subdiv. 1 (other than s. 46 and 53) and Div. 4 Subdiv. 1 (other than s. 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279); Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and (2) and Gazette 13 Jan 2017 p. 338)
 Reprint 14: The Road Traffic Act 1974 as at 1 Dec 2017 (includes amendments listed above)
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -293,7 +292,7 @@ Points currently recorded in respect of a person under section 103 of the Road T
 The Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) had not come into operation when they were deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 36.
 The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 will not come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
 The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 s. 5 and Pt. 3 Div. 3 will not come into operation (see. s. 57(1)).
-The Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 cannot come into operation because the sections it seeks to amend were deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
+The Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 could not come into operation because the sections it sought to amend were deleted by the Road Traffic Legislation Amendment Act 2012 s. 8. Subsequently, the Taxi Drivers Licensing Act 2014 was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
 On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 21 — Road Traffic Act 1974 amended
@@ -308,12 +307,7 @@ At the end of Part VIII insert:
 110.Transitional provisions for the Road Traffic Legislation Amendment Act 2016
 (1) Until the Road Traffic Legislation Amendment Act 2016 section 62(2) comes into operation, section 49(1) has effect as if paragraph (c) of the Penalty also referred to the application of subsection (3)(ca).
 (2) Until the Road Traffic Legislation Amendment Act 2016 section 63 comes into operation, the definition of impounding offence (driver’s licence) paragraph (a) in section 78A, has effect as if it also referred to section 49(3)(ca).
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 had not come into operation. It reads as follows:
-120.Road Traffic Act 1974 amended
-(1) This section amends the Road Traffic Act 1974.
-(2) In section 65 in the definition of nurse practitioner delete “whose name is entered on the Register of Nurses kept under that Law as being qualified to practice as a” and insert:
-in the nursing profession whose registration under that Law is endorsed as
-(3) In section 65 in the definition of registered nurse delete “and midwifery”.
+Footnote no longer applicable.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 had not come into operation. It reads as follows:
 Part 14 — Repeals and consequential amendments

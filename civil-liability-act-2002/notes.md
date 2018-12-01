@@ -31,24 +31,7 @@ Reprint 4: The Civil Liability Act 2002 as at 13 Sep 2013 (includes amendments l
 Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 1 | 8 of 2016 | 14 Apr 2016 | 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 8 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 2 | 3 of 2018 | 19 Apr 2018 | 1 Jul 2018 (see s. 2(b) and Gazette 29 Jun 2018 p. 2434)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 103 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 103 had not come into operation. It reads as follows:
-103.Civil Liability Act 2002 amended
-(1) This section amends the Civil Liability Act 2002.
-(2) In section 5PA in the definition of health professional:
-(a) delete paragraph (a)(vii) and insert:
-(vii) midwifery;
-(viia) nursing;
-(b) after paragraph (a)(x) insert:
-(xa) paramedicine;
-(3) In section 5AB in the definition of medical qualifications:
-(a) in paragraph (a) delete “the medical” and insert:
-a health
-(b) in paragraph (c) delete “officer or other paramedic;” and insert:
-officer;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
