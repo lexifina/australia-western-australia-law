@@ -1,6 +1,6 @@
 ## Schedule 6B — Forms: infringement notices
 [r. 33ZB]
-[Heading inserted in Gazette 6 Dec 2011 p. 5185.]
+[Heading inserted by Gazette 6 Dec 2011 p. 5185.]
 Form 8.1 — Infringement notice
 Western Australian Meat Industry Authority Act 1976 Infringement notice | Infringement notice No.
 Alleged offender | Name:Family name
@@ -28,7 +28,7 @@ Notice to alleged offender | Important information It is alleged that you have*/
  | ·some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold; and ·you will be given an opportunity to elect to have a prosecution notice for the alleged offence dealt with by a court. Payments after the due date can only be made with a final demand letter, which incurs an additional enforcement fee.
  | If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Chief Executive Officer, Western Australian Meat Industry Authority, at the above address.
  | If you want this matter to be dealt with by prosecution in court, tick this box ❑ sign and date this notice and post it to the Chief Executive Officer, Western Australian Meat Industry Authority, at the above address within 28 days after the date of this notice. Signature: …..…………………….. //20
-[Form 8.1 inserted in Gazette 6 Dec 2011 p. 5185-8; amended in Gazette 20 Aug 2013 p. 3854.]
+[Form 8.1 inserted by Gazette 6 Dec 2011 p. 5185-8; amended by Gazette 20 Aug 2013 p. 3854.]
 Form 8.2 — Withdrawal of infringement notice
 Western Australian Meat Industry Authority Act 1976 Withdrawal of infringement notice | Withdrawal notice No.
 Alleged offender | Name:Family name
@@ -48,4 +48,4 @@ Date | Date of withdrawal: //20
 Withdrawal of infringement notice | The above infringement notice, which was issued for the above alleged offence, has been withdrawn. If you have already paid the modified penalty for the alleged offence, you are entitled to a refund.
 [* delete whichever is not applicable] | *Your refund is enclosed. or
  | *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign and date this notice and post it to: Chief Executive Officer Western Australian Meat Industry Authority PO Box 1434 Midland WA 6936 Signature: ……………………………….//20
-[Form 8.2 inserted in Gazette 6 Dec 2011 p. 5189; amended in Gazette 20 Aug 2013 p. 3854.]
+[Form 8.2 inserted by Gazette 6 Dec 2011 p. 5189; amended by Gazette 20 Aug 2013 p. 3854.]

@@ -1,6 +1,6 @@
 ## Schedule 5
 Forms
-[Heading inserted in Gazette 26 Oct 1990 p. 5362.]
+[Heading inserted by Gazette 26 Oct 1990 p. 5362.]
 Form 1
 [regulation 19]
 Western Australian Meat Industry Authority Act 1976
@@ -19,7 +19,7 @@ I (We) certify that the above particulars are correct.
 Signature(s) of Applicant(s) ...................................................................................
 Date ...................................................................................
 *Owner: Includes a person who is to be the manager of the proposed abattoir or the employer of persons who will work at the proposed abattoir.
-[Form 1 inserted in Gazette 26 Oct 1990 p. 5362-3.]
+[Form 1 inserted by Gazette 26 Oct 1990 p. 5362-3.]
 Form 2
 [regulation 20]
 Western Australian Meat Industry Authority Act 1976
@@ -30,7 +30,7 @@ Conditions and Restrictions
 This approval is valid and remains in force unless revoked in accordance with the Act.
 *Owner:Includes the manager of the abattoir or the employer of persons employed there.
 Dated: ........................................Chairman ...............................................
-[Form 2 inserted in Gazette 26 Oct 1990 p. 5363.]
+[Form 2 inserted by Gazette 26 Oct 1990 p. 5363.]
 Form 3
 [regulation 19]
 Western Australian Meat Industry Authority Act 1976
@@ -57,7 +57,7 @@ Signature(s) of Applicant(s)....................................................
 Date............................................................................
 *Australian Code of Practice for Construction and Equipment of Abattoirs.
 **Includes sheep, lambs and goats.
-[Form 3 inserted in Gazette 26 Oct 1990 p. 5363.]
+[Form 3 inserted by Gazette 26 Oct 1990 p. 5363.]
 Form 4
 [regulation 20]
 Western Australian Meat Industry Authority Act 1976
@@ -68,7 +68,7 @@ Conditions and Restrictions
 This approval is valid and remains in force unless revoked in accordance with the Act.
 *OWNER:Includes a person who is to be the manager of the proposed abattoir or the employer of persons who will work at the proposed abattoir.
 Dated: ........................................Chairman ................................................
-[Form 4 inserted in Gazette 26 Oct 1990 p. 5364.]
+[Form 4 inserted by Gazette 26 Oct 1990 p. 5364.]
 Form 5
 [regulation 19]
 Western Australian Meat Industry Authority Act 1976
@@ -93,7 +93,7 @@ Date ...........................................................................
 *OWNER: Includes the manager of the abattoir or the employer of persons employed there.
 **Strike out which is inapplicable.
 ***Includes sheep, lambs and goats.
-[Form 5 inserted in Gazette 26 Oct 1990 p. 5364.]
+[Form 5 inserted by Gazette 26 Oct 1990 p. 5364.]
 Form 6
 [regulation 20]
 Western Australian Meat Industry Authority Act 1976
@@ -105,7 +105,7 @@ Conditions and Restrictions
 This approval is valid and remains in force unless revoked in accordance with the Act.
 *OWNER: Includes the manager of the abattoir or the employer of persons working there.
 Date ..........................................Chairman ..................................................
-[Form 6 inserted in Gazette 26 Oct 1990 p. 5365.]
+[Form 6 inserted by Gazette 26 Oct 1990 p. 5365.]
 Form 7
 [regulation 24]
 Western Australian Meat Industry Authority Act 1976
@@ -132,4 +132,4 @@ I certify that the particulars contained in this return are correct.
 Signature ...............................................
 Date .......................................................
 NOTE:Failure to complete this form and send it to the Authority within seven (7) days after the above month is an offence under the Act.
-[Form 7 inserted in Gazette 26 Oct 1990 p. 5365-6.]
+[Form 7 inserted by Gazette 26 Oct 1990 p. 5365-6.]

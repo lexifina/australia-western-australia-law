@@ -1,6 +1,6 @@
 ## Schedule 6A — Prescribed offences and modified penalties
 [r. 33Y]
-[Heading inserted in Gazette 6 Dec 2011 p. 5184.]
+[Heading inserted by Gazette 6 Dec 2011 p. 5184.]
 Offences under Western Australian Meat Industry Authority Regulations 1985 | Modified penalty
 r. 33B | Offering ill, injured or disabled stock for sale at Muchea Livestock Centre | $200
 r. 33C | Unauthorised private sale of stock at Muchea Livestock Centre | $200
@@ -24,4 +24,4 @@ r. 33U(1) and (3) | Offences relating to dogs in Muchea Livestock Centre | $200
 r. 33V(1) | Obstructing movement of vehicles, stock or pedestrians | $60
 r. 33W(1) | Erecting or affixing sign without permission | $100
 r. 33X(3) | Failing to comply with direction given by inspector | $100
-[Schedule 6A inserted in Gazette 6 Dec 2011 p. 5184-5; amended in Gazette 3 Sep 2014 p. 3208.]
+[Schedule 6A inserted by Gazette 6 Dec 2011 p. 5184-5; amended by Gazette 3 Sep 2014 p. 3208.]
