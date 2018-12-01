@@ -10,13 +10,13 @@ Guardianship and Administration Act 1990 s. 123 | 24 of 1990 | 7 Sep 1990 | 20 O
 Acts Amendment (Public Sector Management) Act 1994 s. 3(1) and 4 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Nuclear Waste Storage (Prohibition) Act 1999 s. 10(2) | 54 of 1999 | 7 Dec 1999 | 7 Dec 1999 (see s. 2)
-Reprint of the Radiation Safety Act 1975 as at 25 Feb 2000 (includes amendments listed above) (correction in Gazette 28 Oct 2003 p. 4527)
+Reprint of the Radiation Safety Act 1975 as at 25 Feb 2000 (includes amendments listed above) (correction by Gazette 28 Oct 2003 p. 4527)
 Nurses Amendment Act 2003 Pt. 3 Div. 6 | 9 of 2003 | 9 Apr 2003 | 9 Apr 2003 (see s. 2)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 99 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Nuclear Waste Storage (Prohibition) Amendment Act 2004 s. 14 | 2 of 2004 | 1 Apr 2004 | 1 Apr 2004 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 110 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129) (correction in Gazette 7 Jan 2005 p. 53)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 79 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129) (correction by Gazette 7 Jan 2005 p. 53)
 Reprint 2: The Radiation Safety Act 1975 as at 4 Nov 2005 (includes amendments listed above)
 Medical Radiation Technologists Act 2006 Sch. 3 cl. 5 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
 Nurses and Midwives Act 2006 Sch. 3 cl. 19 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
@@ -28,23 +28,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Statutes (Repeals and Minor Amendments) Act 2014 s. 33 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Public Health (Consequential Provisions) Act 2016 s. 102 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Reprint 4: The Radiation Safety Act 1975 as at 8 Sep 2017 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 118 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 The Radioactive Substances Act 1954 was repealed by section 5 of this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 44 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 118 had not come into operation. It reads as follows:
-118.Radiation Safety Act 1975 amended
-(1) This section amends the Radiation Safety Act 1975.
-(2) In section 26(2a):
-(a) delete “a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Nurses kept under that Law as being qualified to practise as”;
-(b) delete “section 39 of that Act” and insert:
-the Health Practitioner Regulation National Law (Western Australia) section 39
-(3) After section 26(2a) insert:
-(2B) In subsection (2a) —
-nurse practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing profession whose registration under that Law is endorsed as nurse practitioner.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -58,8 +45,9 @@ irradiating apparatus4
 medical radiation practitioner4
 medical radiation technology4
 nuclear waste41A(1)
+nurse practitioner26(2B)
 owner4
 purchaser4
 radioactive substance4
 sell4
-supervisor27(2)(bb)(i)
+supervisor27(2)

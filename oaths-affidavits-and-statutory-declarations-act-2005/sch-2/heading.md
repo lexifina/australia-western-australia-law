@@ -28,9 +28,11 @@ Item | Formal description | Informal description
 23. | A member of the Australasian Institute of Chartered Loss Adjusters (ACN 074 804 167). | Loss adjuster
 24. | An authorised celebrant within the meaning of the Marriage Act 1961 of the Commonwealth. | Marriage celebrant
 25. | A member of either House of Parliament of the State or of the Commonwealth. | Member of Parliament
+25A. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the midwifery profession. | Midwife
 26. | A minister of religion registered under Part IV Division 1 of the Marriage Act 1961 of the Commonwealth. | Minister of religion
-27. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession. | Nurse
+27. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing profession. | Nurse
 28. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the optometry profession. | Optometrist
+28A. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the paramedicine profession. | Paramedic
 29. | A registered patent attorney under the Patents Act 1990 of the Commonwealth. | Patent attorney
 30. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the physiotherapy profession. | Physiotherapist
 31. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the podiatry profession. | Podiatrist
@@ -47,4 +49,4 @@ Item | Formal description | Informal description
 42. | A person registered under the Teacher Registration Act 2012. | Registered teacher
 43. | A member, registrar or clerk, or the chief executive officer, of any tribunal of the State or the Commonwealth. | Tribunal officer
 44. | A registered veterinary surgeon within the meaning of the Veterinary Surgeons Act 1960. | Veterinary surgeon
-[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; 17 Apr 2014 p. 1076; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 Sch. 3 cl. 39; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165; No. 32 of 2016 s. 188.]
+[Schedule 2 amended: Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; 17 Apr 2014 p. 1076; amended: No. 21 of 2008 s. 684(5); No. 22 of 2008 Sch. 3 cl. 39; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165; No. 32 of 2016 s. 188; No. 4 of 2018 s. 115.]

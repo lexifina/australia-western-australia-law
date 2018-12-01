@@ -13,15 +13,8 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 7 | 35 of 2
 Reprint 2: The Blood Donation (Limitation of Liability) Act 1985 as at 21 Sep 2012 (includes amendments listed above)
 Health Services Act 2016 s. 285 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 5 and Pt. 5 Div. 2 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 5: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 2: 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 101 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Day fixed is 15 September 1986 (see Gazette 12 Sep 1986 p. 3343).
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 101 had not come into operation. It reads as follows:
-101.Blood Donation (Limitation of Liability) Act 1985 amended
-(1) This section amends the Blood Donation (Limitation of Liability) Act 1985.
-(2) In section 11(1)(e) delete “and midwifery”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

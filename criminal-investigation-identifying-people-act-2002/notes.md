@@ -5,7 +5,7 @@ Short title | Number and year | Assent | Commencement
 Criminal Investigation (Identifying People) Act 2002 | 6 of 2002 | 4 Jun 2002 | s. 1 and 2: 4 Jun 2002; Act other than s. 1 and 2, Pt. 4-7 and Sch. 2 cl. 1, 3 and 5(2): 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037); Pt. 4-7 and Sch. 2 cl. 1, 3 and 5(2): 20 Nov 2002 (see s. 2 and Gazette 19 Nov 2002 p. 5505)
 Acts Amendment (Equality of Status) Act 2003 Pt. 14 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Sentencing Legislation Amendment Act 2004 s. 15 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Nurses and Midwives Act 2006 Sch. 3 cl. 7 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Reprint 1: The Criminal Investigation (Identifying People) Act 2002 as at 10 Nov 2006 (includes amendments listed above except those in the Nurses and Midwives Act 2006)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 7 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
@@ -25,15 +25,8 @@ Criminal Organisations Control Act 2012 s. 175 | 49 of 2012 | 29 Nov 2012 | 2 No
 Criminal Investigation (Identifying People) Amendment Act 2013 Pt. 2 | 22 of 2013 | 12 Nov 2013 | s. 3-27:13 Nov 2013 (see s. 2(c)); s. 28: 16 Apr 2014 (see s. 2(b) and Gazette 15 Apr 2014 p. 1053)
 Reprint 4: The Criminal Investigation (Identifying People) Act 2002 as at 14 Mar 2014 (includes amendments listed above except those in the Criminal Investigation (Identifying People) Amendment Act 2013 s. 28)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 6 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 107 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 107 had not come into operation. It reads as follows:
-107.Criminal Investigation (Identifying People) Act 2002 amended
-(1) This section amends the Criminal Investigation (Identifying People) Act 2002.
-(2) In section 52 in the definition of nurse delete “and midwifery”.
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
