@@ -101,8 +101,7 @@
 94.North Midlands Hospital
 95.Nullagine Health Centre
 96.One Arm Point Health Centre
-97.Onslow Hospital
-98.Paraburdoo Hospital
+97.Onslow Health Service 98.Paraburdoo Hospital
 99.Pemberton Hospital
 100.Pingelly Health Centre
 101.Plantagenet Hospital
@@ -128,4 +127,4 @@
 121.Yalgoo Health Centre
 122.Yandeyarra Health Centre
 123.York Hospital
-[Schedule 2 amended by Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135.]
+[Schedule 2 amended by Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135; 30 Nov 2018 p. 4596.]
