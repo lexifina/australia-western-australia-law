@@ -1,6 +1,6 @@
 ## Schedule 1 — Suburbs and registries
 [r. 44]
-[Heading inserted in Gazette 11 Mar 2014 p. 576.]
+[Heading inserted: Gazette 11 Mar 2014 p. 576.]
 Suburb (A-L) | Registry | Suburb (M-Z) | Registry
 Alexander Heights | Joondalup | Maddington | Armadale
 Alfred Cove | Fremantle | Madeley | Joondalup
@@ -217,4 +217,4 @@ Lesmurdie | Midland
 Lexia | Midland
 Lockridge | Midland
 Lynwood | Fremantle
-[Schedule 1 inserted in Gazette 11 Mar 2014 p. 576-82.]
+[Schedule 1 inserted: Gazette 11 Mar 2014 p. 576-82.]
