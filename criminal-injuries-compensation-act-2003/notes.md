@@ -19,6 +19,7 @@ Criminal Investigation (Covert Powers) Act 2012 Pt. 8 | 55 of 2012 | 3 Dec 2012 
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 6 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Reprint 3: The Criminal Injuries Compensation Act 2003 as at 29 Nov 2013 (includes amendments listed above)
  | Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 3 | 3 of 2018 | 19 Apr 2018 | 1 Jul 2018 (see s. 2(b) and Gazette 29 Jun 2018 p. 2434)
+ | National Redress Scheme for Institutional Child Sexual Abuse (Commonwealth Powers) Act 2018 Pt. 7 | 36 of 2018 | 5 Dec 2018 | 5 Dec 2018 (see s. 2)
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004.
