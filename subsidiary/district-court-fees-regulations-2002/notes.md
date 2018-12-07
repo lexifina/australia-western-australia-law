@@ -32,12 +32,32 @@ Compilation table
  | Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 4 | 9 Feb 2018 p. 401-5 | 10 Feb 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 5 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 4 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
 Repealed by the District Court Rules 2005.
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:
 13.Transitional: recognised reporting services
 A recognised reporting service approved by the Attorney General immediately before the date on which these regulations commenced is taken to have been approved as a person entitled to receive searchable information on that date.
+On the date at which this compilation was prepared, the Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — District Court (Fees) Regulations 2002 amended
+7.Regulations amended
+This Part amends the District Court (Fees) Regulations 2002.
+8.Schedule 1 amended
+Delete Schedule 1 item 16 and insert:
+16. | (a)For the preparation of a transcript, or part of a transcript —
+ | (i)provided within 1 day after the day on which the fee is paid | 20.50 plus 8.45 per page | 20.50 plus 16.90 per page | 6.15 plus 2.55 per page
+ | (ii)provided within 2 days after the day on which the fee is paid | 20.50 plus 7.75 per page | 20.50 plus 15.50 per page | 6.15 plus 2.35 per page
+ | (iii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
+ | (iv)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
+ | (v)provided within 14 days after the day on which the fee is paid | 20.50 plus 6.00 per page | 20.50 plus 12.00 per page | 6.15 plus 2.00 per page
+ | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 20.50 plus 9.00 per page | 20.50 plus 18.00 per page | 6.15 plus 3.00 per page
+ | (b)For a copy of a transcript, or part of a transcript, that has already been prepared —
+ | (i)electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
+ | (ii)paper copy | 2.10 per page | 2.10 per page | 0.60 per page
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
