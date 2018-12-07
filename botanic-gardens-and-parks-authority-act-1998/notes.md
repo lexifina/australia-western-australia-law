@@ -15,6 +15,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 3 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 City of Perth Act 2016 Pt. 4 Div. 2 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 6 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Reprint 3: The Botanic Gardens and Parks Authority Act 1998 as at 7 Dec 2018 (includes amendments listed above)
 The provision in this Act consequentially amending other Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Defined terms
