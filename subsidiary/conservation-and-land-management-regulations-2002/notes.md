@@ -41,6 +41,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Conservation and Land Management Amendment Regulations 2018 r. 4-6 | 14 Sep 2018 p. 3307-8 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Conservation and Land Management Amendment Regulations (No. 4) 2018 r. 3-6 | 11 Dec 2018 p. 4701-3 | 1 Jan 2019 (see r. 2(b))
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
@@ -59,6 +60,34 @@ Biodiversity Conservation Act 2016
 6.Regulation 86 amended
 In regulation 86(1)(a)(ii) delete “Wildlife Conservation Act 1950” and insert:
 Biodiversity Conservation Act 2016
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Regulations (No. 4) 2018 r. 3-6 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Conservation and Land Management Regulations 2002.
+4.Regulation 50A inserted
+At the end of Part 3 Division 1 insert:
+50A.High-risk ocean rock locations
+(1) In this regulation —
+high-risk ocean rock location means an area of CALM land described in Schedule 4 Division 1 (a plan of which is included for information purposes in Schedule 4 Division 2);
+personal flotation device means —
+(a)a lifejacket classified as level 100, 150 or 275 by AS 4758 published by Standards Australia; or
+(b)a buoyancy aid classified as performance level 100, 150 or 275 by ISO 12402 published by the International Organization for Standardization; or
+(c)a personal flotation device that conforms to standard AS 1512 published by Standards Australia;
+wearing, a personal flotation device, means wearing the personal flotation device with all closing or fastening devices (such as zippers, buckles and tapes) correctly secured as specified by the manufacturer of the personal flotation device.
+(2) A person must not enter or remain in a high-risk ocean rock location unless the person is wearing a personal flotation device.
+Penalty for this subregulation: a fine of $1 000.
+5.Schedule 2 amended
+After Schedule 2 Division 2 item 40a insert:
+40B. | 50A(2) | Entering or remaining in high-risk ocean rock location without personal flotation device | 200
+6.Schedule 4 inserted
+After Schedule 3 insert:
+Schedule 4 — High-risk ocean rock locations
+[r. 50A(1)]
+Division 1 — Area descriptions
+Salmon Holes
+(1) All CALM land bounded by a line commencing at the intersection of 35°06'03" south latitude and 117°58'09" east longitude; then extending east along the geodesic to the intersection of 35°06'03" south latitude and 117°58'33" east longitude; then south along the geodesic to the intersection of 35°06'10" south latitude and 117°58'33" east longitude; then west along the geodesic to the intersection of 35°06'10" south latitude and 117°58'09" east longitude; then north along the geodesic to the commencement point.
+(2) All CALM land bounded by a line commencing at the intersection of 35°06'15" south latitude and 117°58'01" east longitude; then extending east along the geodesic to the intersection of 35°06'15" south latitude and 117°58'07" east longitude; then south along the geodesic to the intersection of 35°06'27" south latitude and 117°58'07" east longitude; then west along the geodesic to the intersection of 35°06'27" south latitude and 117°58'01" east longitude; then north along the geodesic to the commencement point.
+Division 2 — Plans for information purposes
+Salmon Holes
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
