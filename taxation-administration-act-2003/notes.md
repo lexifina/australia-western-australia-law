@@ -7,7 +7,7 @@ Business Tax Review (Assessment) Act (No. 2) 2003 s. 95, 100 and 108 | 66 of 200
 Revenue Laws Amendment and Repeal Act 2004 Pt. 4 | 12 of 2004 | 29 Jun 2004 | 29 Jun 2004 (see s. 2(1))
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 124 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 3 | 82 of 2004 | 8 Dec 2004 | 8 Dec 2004 (see s. 2(1))
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Revenue Laws Amendment Act (No. 2) 2005 Pt. 4 | 12 of 2005 | 30 Aug 2005 | 30 Aug 2005 (see s. 2(1))
 Reprint 1: The Taxation Administration Act 2003 as at 14 Oct 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
@@ -33,6 +33,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 8 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 4 | 37 of 2018 | 12 Dec 2018 | 1 Jan 2019 (see s. 2(c))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and with the modifications provided for in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 r. 4 and Pt. 7 Div. 1. Part 7 Div. 1 of those regulations reads as follows:
 Part 7 — Taxation administration
 Division 1 — The Taxation Administration Act 2003
@@ -234,6 +235,25 @@ This Subdivision amends the Taxation Administration Act 2003.
 329.Section 3 amended
 After section 3(1)(j) insert —
 (jaa) the Transport (Road Passenger Services) Act 2018 Part 9 Division 2;
+On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 4 had not come into operation. It reads as follows:
+Part 8 — Other Acts amended
+Division 1 — Amendments commencing on 1 January 2019
+Subdivision 4 — Taxation Administration Act 2003 amended
+44.Act amended
+This Subdivision amends the Taxation Administration Act 2003.
+45.Section 3 amended
+After section 3(1)(jb) insert:
+(jc) the Betting Tax Act 2018;
+(jd) the Betting Tax Assessment Act 2018;
+46.Section 17 amended
+In section 17(3) after “pay-roll tax” insert:
+or betting tax
+47.Section 114 amended
+In section 114(3):
+(a) in paragraph (c)(ii) delete “Treasurer;” and insert:
+Treasurer; or
+(b) after paragraph (c)(ii) insert:
+(iii) an officer of the department of the Public Service principally assisting in the administration of the Betting Control Act 1954, the Gaming and Wagering Commission Act 1987 or the Racing and Wagering Western Australia Act 2003;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
