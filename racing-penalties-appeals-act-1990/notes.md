@@ -23,6 +23,10 @@ Acts Amendment (Bankruptcy) Act 2009 s. 72 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 3: The Racing Penalties (Appeals) Act 1990 as at 24 Sep 2010 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Betting Tax Assessment Act 2018 Pt. 8 Div 2 Subdiv. 4 | 37 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
 Footnote no longer applicable.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 19.Power to amend regulations
@@ -30,6 +34,16 @@ The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 11 Div. 2 are transitional provisions that are of no further effect.
+On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 4 had not come into operation. It reads as follows:
+Part 8 — Other Acts amended
+Division 2 — Amendments commencing on proclamation
+Subdivision 4 — Racing Penalties (Appeals) Act 1990 amended
+76.Act amended
+This Subdivision amends the Racing Penalties (Appeals) Act 1990.
+77.Section 24 amended
+In section 24(4)(a):
+(a) delete “105(1)(h) or”;
+(b) delete “105 or”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -57,4 +71,3 @@ steward3(1)
 thoroughbred3(1)
 trial3(1)
 Tribunal3(1)
-By Authority: JOHN A. STRIJK, Government Printer
