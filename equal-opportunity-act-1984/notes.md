@@ -51,8 +51,12 @@ Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 201
 Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 6 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 6: 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
 Reprint 7: The Equal Opportunity Act 1984 as at 5 Aug 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016
 Statutes (Minor Amendments) Act 2017 s. 8 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Industrial Relations Amendment Act 2018 s. 68 | 39 of 2018 | 12 Dec 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 (Cwlth) (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 (Cwlth).
-The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
+The Uniform Building By-laws 1974 were repealed by Gazette 28 July 1989 p. 2280.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 The Friendly Societies (Western Australia) Act 1999, to which the Friendly Societies (Western Australia) Code was an Appendix, was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5(d).
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19 (Cwlth). The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).
@@ -73,6 +77,10 @@ Unless the context otherwise requires, where in an arrangement made under the Eq
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
 The amendments in the Co-operatives Act 2009 s. 509(2) and 514(2) are not included because the section to be amended (s. 35N(1)) had expired on 9 Jan 1995 under s. 35N(2). Section 35N(2) reads as follows:
 (2) Subsection (1) shall, except to the extent that regulations made for the purposes of this subsection provide otherwise, cease to be in force at the expiration of 2 years after the coming into operation of section 11 of the Equal Opportunity Amendment Act 1992.
+On the date as at which this compilation was prepared, the Industrial Relations Amendment Act 2018 s. 68 had not come into operation. It reads as follows:
+68.Equal Opportunity Act 1984 amended
+(1) This section amends the Equal Opportunity Act 1984.
+(2) In section 66ZN(2)(g) delete “President or”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
