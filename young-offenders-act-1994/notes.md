@@ -58,12 +58,13 @@ Road Traffic Legislation Amendment Act 2016 s. 21 and Pt. 3 Div. 1 Subdiv. 2) | 
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 4 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and (2) and Gazette 13 Jan 2017 p. 338)
 Reprint 7: The Young Offenders Act 1994 as at 1 Jun 2018 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+ | Short title | Number and year | Assent | Commencement
+ | Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+ | Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+ | Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Industrial Relations Amendment Act 2018 s. 72 | 39 of 2018 | 12 Dec 2018 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -95,7 +96,7 @@ principal Act means the Young Offenders Act 1994.
 3.Conditions of employment of other employees and officers on commencement to continue
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
 36.Young Offenders Act 1994 amended
 (1) The amendments in this section are to the Young Offenders Act 1994.
 (2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
@@ -104,7 +105,7 @@ s. 7 | Seeking to induce person to act as a sex worker
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
-On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 had not come into operation. They read as follows:
 Division 21 — Young Offenders Act 1994 amended
 138.Section 43 amended
 (1) Delete section 43(5) and insert:
@@ -123,7 +124,7 @@ Division 21 — Young Offenders Act 1994 amended
 139.Section 45 amended
 In section 45(1) delete “personally on” and insert:
 (either personally, or electronically in accordance with the regulations) on a person who is a responsible adult,
-On the date as at which this reprint was prepared, the Liquor Legislation Amendment Act 2015 Pt. 3 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Liquor Legislation Amendment Act 2015 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Young Offenders Act 1994 amended
 27.Act amended
 This Part amends the Young Offenders Act 1994.
@@ -133,6 +134,16 @@ In section 25(3) in the definition of infringement notice:
 IIIA; or
 (b) after paragraph (b) insert:
 (c)an alcohol intervention requirement given under the Liquor Control Act 1988 Part 7A.
+On the date as at which this compilation was prepared, the Industrial Relations Amendment Act 2018 s. 72 had not come into operation. It reads as follows:
+72.Young Offenders Act 1994 amended
+(1) This section amends the Young Offenders Act 1994.
+(2) In section 11CM in the Table:
+(a) in the item relating to section 32 delete the first paragraph and insert:
+Section 32(1) is to be read as if a reference to “Where an industrial matter has been referred to the Commission the Commission shall” were a reference to “If the Commission is dealing with an appeal instituted under the Young Offenders Act 1994 section 11CH, the Commission may recommend that the parties to the appeal”.
+(b) delete the item relating to section 34 and insert:
+s. 34 | A reference in subsection (1) to “an award, order or declaration” is to be read as if it were a reference to “an order”. A reference in subsection (4) to “no award, order, declaration, finding, or proceeding” is to be read as if it were a reference to “no decision, order, finding or proceeding”.
+(c) delete the item relating to section 90 and insert:
+s. 90 | A reference in subsection (1) to “any decision of the Full Bench, the Commission on an application under section 49(11) or the Commission in Court Session” is to be read as if it were a reference to “a decision of the Commission under the Young Offenders Act 1994 section 11CP”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
