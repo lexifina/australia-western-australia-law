@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prisons Act 1981 | 115 of 1981 | 14 Dec 1981 | 1 Aug 1982 (see s. 2 and Gazette 23 Jul 1982 p. 2841)
@@ -11,7 +11,7 @@ Acts Amendment (Corrective Services) Act 1987 Pt. II | 47 of 1987 | 3 Oct 1987 |
 Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
 Acts Amendment (Imprisonment and Parole) Act 1987 Pt. III | 129 of 1987 | 21 Jan 1988 | 15 Jun 1988 (see s. 2 and Gazette 20 May 1988 p. 1664)
 Prisons Amendment Act (No. 2) 1991 | 47 of 1991 | 17 Dec 1991 | Act other than s. 6: 17 Dec 1991 (see s. 2(1)); s. 6: 1 Apr 1992 (see s. 2(2) and Gazette 27 Mar 1992 p. 1341)
-Reprint of the Prisons Act 1981 as at 9 Jul 1982 (includes amendments listed above) (correction in Gazette 18 May 1993 p. 2465)
+Reprint of the Prisons Act 1981 as at 9 Jul 1982 (includes amendments listed above) (correction by Gazette 18 May 1993 p. 2465)
 Criminal Law Amendment Act (No. 2) 1992 s. 16(1) | 51 of 1992 | 9 Dec 1992 | 6 Jan 1993
 Acts Amendment (Ministry of Justice) Act 1993 Pt. 15 | 31 of 1993 | 15 Dec 1993 | 1 Jul 1993 (see s. 2)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
@@ -65,6 +65,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
+ | Industrial Relations Amendment Act 2018 s. 71 | 39 of 2018 | 12 Dec 2018 | To be proclaimed (see s. 2(b))
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
@@ -95,7 +96,16 @@ On the date as at which this compilation was prepared, the Criminal Law Amendmen
 (ii) his or her whole life in custody;
 or
 (b) whose release is to be determined by the Governor.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Industrial Relations Amendment Act 2018 s. 71 had not come into operation. It reads as follows:
+71.Prisons Act 1981 amended
+(1) This section amends the Prisons Act 1981.
+(2) In section 110B in the Table:
+(a) in the item relating to section 32 delete the first paragraph and insert:
+Section 32(1) is to be read as if a reference to “Where an industrial matter has been referred to the Commission the Commission shall” were a reference to “If the Commission is dealing with an appeal instituted under the Prisons Act 1981 section 106, the Commission may recommend that the parties to the appeal”.
+(b) delete the item relating to section 34 and insert:
+s. 34 | A reference in subsection (1) to “an award, order or declaration” is to be read as if it were a reference to “an order”. A reference in subsection (4) to “no award, order, declaration, finding, or proceeding” is to be read as if it were a reference to “no decision, order, finding or proceeding”.
+(c) delete the item relating to section 90 and insert:
+s. 90 | A reference in subsection (1) to “any decision of the Full Bench, the Commission on an application under section 49(11) or the Commission in Court Session” is to be read as if it were a reference to “a decision of the Commission under the Prisons Act 1981 section 110E”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
