@@ -47,6 +47,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 8 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 2 | 37 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
+Gaming and Wagering Legislation Amendment Act 2018 Pt. 3 | 41 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193-4)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) contains savings and transitional provisions.
@@ -67,6 +69,99 @@ This Division amends the Gaming and Wagering Commission Act 1987.
 293.Section 55 amended
 In section 55(3)(a) delete “Health (Miscellaneous Provisions) Act 1911,” and insert:
 Public Health Act 2016,
+On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 2 had not come into operation. It reads as follows:
+Part 8 — Other Acts amended
+Division 2 — Amendments commencing on proclamation
+Subdivision 2 — Gaming and Wagering Commission Act 1987 amended
+63.Act amended
+This Subdivision amends the Gaming and Wagering Commission Act 1987.
+64.Section 7 amended
+Delete section 7(1)(ea).
+65.Section 9 amended
+(1) In section 9(2) delete “which, subject to subsection (2a),” and insert:
+which
+(2) Delete section 9(2a).
+66.Section 110A amended
+(1) In section 110A(1) delete “or 107”.
+(2) Delete section 110A(2).
+On the date as at which this compilation was prepared, the Gaming and Wagering Legislation Amendment Act 2018 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Gaming and Wagering Commission Act 1987 amended
+16.Act amended
+This Part amends the Gaming and Wagering Commission Act 1987.
+17.Section 3 amended
+(1) In section 3(1) insert in alphabetical order:
+event has the meaning given in the Betting Control Act 1954 section 4(1);
+telecommunication device means —
+(a)a computer adapted for communicating by way of the Internet or another communications network; or
+(b)a television receiver adapted to allow the viewer to transmit information by way of a cable television network or another communications network; or
+(c)a telephone; or
+(d)any other electronic device or thing for communicating at a distance;
+(2) In section 3(1) in the definition of machine delete “any” and insert:
+a telecommunications device and any other
+18.Section 8 amended
+After section 8(2)(c)(iii) insert:
+(iiia) the advertising of live odds during events, whether generally or by specific classes of persons or in a specified manner or place; and
+19.Section 43A amended
+In section 43A(3)(da) delete “races or sporting events; or” and insert:
+events; or
+20.Section 81 amended
+Delete section 81(3).
+21.Part V Division 5A inserted
+After Part V Division 5 insert:
+Division 5A — Remote gambling devices
+93A.Terms used
+In this Division —
+public premises means premises in a public place, except —
+(a)premises comprising a totalisator agency as defined in the Racing and Wagering Western Australia Act 2003 section 3(1); or
+(b)premises established by the Commission as defined in the Lotteries Commission Act 1990 section 3(1) for or in connection with the performance of the Commission’s functions under that Act; or
+(c)prescribed premises or a prescribed class of premises;
+remote gambling device means a telecommunications device that is primarily or exclusively built to transmit a bet on an event or contingency.
+93B.Offences relating to remote gambling devices
+(1) A person who places a remote gambling device on public premises commits an offence.
+Penalty for this subsection: a fine of $20 000.
+(2) A person who uses a remote gambling device on public premises commits an offence.
+Penalty for this subsection: a fine of $20 000.
+(3) An owner or occupier of public premises commits an offence if the owner or occupier permits a remote gambling device to be placed or used on the premises.
+Penalty for this subsection: a fine of $20 000.
+22.Section 101 amended
+In section 101(1) in the definition of foreign lottery delete “the State,” and insert:
+Australia,
+23.Section 107 amended
+In section 107(1) delete “sporting”.
+24.Section 109D amended
+In section 109D(3)(b) delete “Burswood Nominees Pty Ltd; and” and insert:
+the casino licensee as defined in the Casino Control Act 1984 section 3(1); and
+25.Various penalties amended
+(1) In the provisions listed in the Table delete “Penalty:” and insert:
+Penalty for this subsection: a fine of
+Table
+s. 20(3) | s. 22(5)
+s. 29(1) | s. 29(2)
+s. 41(3) | s. 41(6)
+s. 42(4) | s. 42(5)
+s. 43A(2) | s. 43A(3)
+s. 44(1) | s. 45(1)
+s. 45(2) | s. 45(3)
+s. 45(4) | s. 57(3)
+s. 58(4) | s. 85(4)
+s. 88(3) | s. 89(2)
+s. 91(1) | s. 91(4)
+s. 95(4) | s. 96(3)
+s. 97(3) | s. 104(4)
+s. 104(5) | s. 104C(4)
+s. 104E(1) | s. 104E(2)
+s. 104E(3) | s. 104F(1)
+s. 104F(4) | s. 104L(1)
+s. 104L(2) | s. 104L(3)
+s. 104M(1) | s. 104M(2)
+s. 104M(3) | s. 106(1)
+s. 106(2) | s. 108(4)
+s. 109H(2)
+(2) In the provisions listed in the Table delete “Penalty:” and insert:
+Penalty: a fine of
+Table
+s. 86 | s. 93
+s. 98
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
