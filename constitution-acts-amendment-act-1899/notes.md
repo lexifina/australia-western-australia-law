@@ -302,6 +302,7 @@ Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | 1 Jan 201
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Heritage Act 2018 s. 184 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 1 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+Industrial Relations Amendment Act 2018 s. 67 | 39 of 2018 | 12 Dec 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -341,7 +342,7 @@ The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 201
 Subject to sections 156 and 157, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
 150.References to the former Board
 If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
-The Mines Regulation Act Regulations 1976 r. 2.7 was repealed by the Mines Regulation Amendment Regulations 1990 in Gazette 15 Mar 1991 p. 1167.
+The Mines Regulation Act Regulations 1976 r. 2.7 was repealed by the Mines Regulation Amendment Regulations 1990 by Gazette 15 Mar 1991 p. 1167.
 The Settlement Agents Supervisory Board was abolished on 1 Jul 2011. The Settlement Agents Act 1981 s. 125 and 126 read as follows:
 125.Former Board abolished
 Subject to sections 132 and 133, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
@@ -422,6 +423,10 @@ Subdivision 1 — Constitution Acts Amendment Act 1899 amended
 This Subdivision amends the Constitution Acts Amendment Act 1899.
 306.Schedule V Part 3 amended
 In Schedule V Part 3 delete the item relating to the Taxi Industry Board.
+On the date as at which this compilation was prepared, the Industrial Relations Amendment Act 2018 s. 67 had not come into operation. It reads as follows:
+67.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 1 Division 1 delete “President of The Western Australian Industrial Relations Commission.”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
