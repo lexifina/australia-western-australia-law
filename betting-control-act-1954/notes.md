@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 29 July 2016 of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Betting Control Act 1954 | 63 of 1954 (3 Eliz. II No. 63) | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
@@ -43,7 +43,7 @@ Reprint of the Betting Control Act 1954 as at 12 Apr 2002 (includes amendments l
 Betting Legislation Amendment Act 2002 Pt. 2 | 13 of 2002 | 8 Jul 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p. 4693)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 7 Div. 1 | 35 of 2003 | 26 Jun 2003 | s. 74, 76(b), (d)-(g), 77(1), 80, 81(1)-(4), 82-84, 95, 98: 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259); s. 75, 76(a), (c) and (h), 77(2), 78, 79, 81(5) and (6), 85-94, 96, 97 and 99-103: 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 8: The Betting Control Act 1954 as at 20 Oct 2006 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
@@ -56,6 +56,11 @@ Acts Amendment (Bankruptcy) Act 2009 s. 11 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Racing and Wagering Legislation Amendment Act 2009 Pt. 2 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Statutes (Repeals) Act 2014 s. 8 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
 Reprint 10: The Betting Control Act 1954 as at 29 Jul 2016 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 1 and Div 2 Subdiv. 1 | 37 of 2018 | 12 Dec 2018 | Pt. 8 Div. 1 Subdiv. 1: 1 Jan 2019 (see s. 2(c)) Pt. 8 Div. 2 Subdiv. 1: to be proclaimed (see s. 2(b))
+Gaming and Wagering Legislation Amendment Act 2018 Pt. 2 | 41 of 2018 | 12 Dec 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992 s. 72.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) and s. 7(2) are transitional provisions that are of no further effect.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
@@ -133,6 +138,232 @@ has effect after the appointed day as if —
 (a) reporting as required by section 110; and
 (b) performing the functions described in section 106(g).
 (2)The accountable authority, as defined in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1)(a).
+On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 1 and Div. 2 Subdiv. 1 had not come into operation. They read as follows:
+Part 8 — Other Acts amended
+Division 1 — Amendments commencing on 1 January 2019
+Subdivision 1 — Betting Control Act 1954 amended
+32.Act amended
+This Subdivision amends the Betting Control Act 1954.
+33.Section 27E amended
+After section 27E(2)(a) insert:
+(aa) for the purpose of the Commissioner (as defined in the Taxation Administration Act 2003 Glossary clause 1) performing the Commissioner’s functions in relation to betting tax (as defined in the Betting Tax Assessment Act 2018 section 4); or
+34.Part 6 inserted
+After section 33 insert:
+Part 6 — Transitional provisions for Betting Tax Assessment Act 2018
+34.Application of s. 14, 15 and 16 on or after 1 January 2019
+Sections 14, 15 and 16 do not apply to or in relation to a bet made on or after 1 January 2019.
+35.Application of s. 18A on or after 1 January 2019
+Section 18A does not apply to or in relation to a race meeting conducted on or after 1 January 2019 or a bet made on or after 1 January 2019.
+Division 2 — Amendments commencing on proclamation
+Subdivision 1 — Betting Control Act 1954 amended
+48.Act amended
+This Subdivision amends the Betting Control Act 1954.
+49.Long title amended
+In the long title delete “levy on money paid or promised to bookmakers, other betting operators or RWWA as consideration for bets;” and insert:
+racing bets levy on the gross revenue or turnover of betting operators;
+50.Section 4 amended
+In section 4(1) delete the definition of fixed odds bet and insert:
+fixed odds bet means a fixed odds wager as defined in the RWWA Act section 3(1);
+51.Section 11E amended
+In section 11E(4)(a) delete “or bookmakers’ betting levy”.
+52.Section 12 amended
+(1) In section 12(5)(c)(ii) delete “number; and” and insert:
+number.
+(2) Delete section 12(5)(c)(iii) and (iv).
+53.Section 13 amended
+(1) Before section 13(1) insert:
+(1A) In this section —
+total turnover means the aggregate of the turnover that relates to bets made under this Act;
+turnover —
+(a)means the amount of money paid or promised as the consideration for bets made by a bookmaker, whether the bets are —
+(i)made by the bookmaker as a party to the bet; or
+(ii)negotiated by the bookmaker as agent for another person;
+but
+(b)does not include any money promised or paid by a bookmaker as the consideration for a bet made by the bookmaker on the bookmaker’s own behalf in the capacity of a backer but not in the capacity of a bookmaker.
+(1B) For the purposes of the definition of turnover in subsection (1A), the Commission has an absolute discretion to decide what is and what is not a bet made by a bookmaker on the bookmaker’s own behalf in the capacity of a backer but not in the capacity of a bookmaker.
+(2) Delete section 13(2).
+54.Section 14A amended
+In section 14A(3):
+(a) in paragraph (a) delete “bookmaker’s betting levy” and insert:
+annual licence fee
+(b) in paragraph (b) delete “operator.” and insert:
+operator; and
+(c) after paragraph (b) insert:
+(c) to a penalty fee were a reference to an additional racing bets levy; and
+(d) to money due in respect of an annual licence fee were a reference to money due as racing bets levy; and
+(e) to an assessment to be made of the amount of fee due were a reference to an assessment to be made of the amount on which, in the judgment of the Commission, racing bets levy ought to be levied.
+55.Sections 14B to 16 deleted
+Delete sections 14B to 16.
+56.Section 17 amended
+In section 17:
+(a) delete “payment of —” and insert:
+payment of an annual licence fee in respect of —
+(b) delete paragraphs (a) and (b) and insert:
+(a) a bookmaker’s licence; or
+(b) an authorisation to possess and operate a totalisator,
+Note:The heading to amended section 17 is to read:
+Effect on annual licence fee of not being entitled to receive or retain consideration
+57.Section 17A amended
+(1) Before section 17A(1) insert:
+(1A) In this section —
+total turnover has the meaning given in section 13(1A);
+turnover has the meaning given in section 13(1A).
+(2) Delete section 17A(2).
+58.Sections 18 and 18A deleted
+Delete sections 18 and 18A.
+59.Section 18B amended
+(1) In section 18B(1):
+(a) delete “fee, or any bookmakers’ betting levy or further levy” and insert:
+fee
+(b) in paragraph (a) delete “fee or any bookmakers’ betting levy; and” and insert:
+fee; and
+(c) in paragraph (b) delete “or levy”.
+(2) In section 18B(2):
+(a) in paragraph (a) delete “or as bookmaker’s betting levy or further levy”;
+(b) in paragraph (b) delete “fee or any bookmakers’ betting levy,” and insert:
+fee,
+(c) delete “due or upon which, in the judgement of the Commission, bookmakers’ betting levy or further levy ought to be levied.” and insert:
+due.
+(3) In section 18B(3):
+(a) in paragraph (a) delete “fee, or the bookmakers’ betting levy or further levy, and of any additional levy” and insert:
+fee
+(b) in paragraph (b) delete “fee, or of the bookmakers’ betting levy or further levy, and any additional levy,” and insert:
+fee
+(4) In section 18B(5):
+(a) delete “in respect of an annual licence fee or any bookmakers’ betting levy or further levy” and insert:
+an amount in respect of an annual licence fee
+(b) delete “or additional bookmakers’ betting levy, an amount equal to the amount of the fee or levy” and insert:
+an amount equal to the amount of the fee
+(c) delete “or the additional levy,”.
+Note:The heading to amended section 18B is to read:
+Assessment of annual licence fee
+60.Section 19 deleted
+Delete section 19.
+61.Section 33 amended
+In section 33(1)(b)(xv) delete “the assessment, payment and recovery of bookmakers’ betting tax or of bookmakers’ betting levy,”.
+62.Part 6 deleted
+Delete Part 6.
+On the date as at which this compilation was prepared, the Gaming and Wagering Legislation Amendment Act 2018 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Betting Control Act 1954 amended
+3.Act amended
+This Part amends the Betting Control Act 1954.
+4.Section 4 amended
+(1) In section 4(1) delete the definition of machine.
+(2) In section 4(1) insert in alphabetical order:
+contingency means a contingency relating to an event;
+event means a race or other event, whether or not of a sporting nature;
+machine has the meaning given in the Gaming and Wagering Commission Act 1987 section 3(1);
+prohibited event or contingency means an event or contingency, or an event or contingency of a class, prescribed for the purposes of this definition;
+(3) In section 4(1) in the definition of betting material paragraph (a) delete “sporting” and insert:
+other
+(4) In section 4(1) in the definition of offshore betting operator delete “races or sporting”.
+(5) In section 4(1) in the definition of to bet paragraph (a) delete “race or any sporting”.
+(6) In section 4(1) in the definition of totalisator agency delete “a race or sporting” and insert:
+an
+5.Section 4B amended
+(1) In section 4B(1) delete “a sporting” and insert:
+an
+(2) Delete section 4B(2) and insert:
+(2) The Commission may approve bookmaking on or in relation to an event or a contingency, except a prohibited event or contingency.
+(3) In section 4B(5) delete “sporting events” and insert:
+events other than races
+Note:The heading to amended section 4B is to read:
+Application of this Act to events
+6.Section 5 amended
+In section 5(1)(b) delete “a sporting” and insert:
+an
+7.Section 5A amended
+In section 5A:
+(a) in paragraph (a) delete “event, including a sporting event,” and insert:
+event
+(b) in paragraph (b) delete “race or sporting”.
+8.Section 11F amended
+(1) At the end of section 11F(1) insert:
+Penalty for this subsection: a fine of $1 000.
+(2) In section 11F(2) delete the Penalty and insert:
+Penalty for this subsection: a fine of $1 000.
+9.Section 14A amended
+(1) In section 14A(1) delete the definitions of:
+gross revenue
+turnover
+(2) In section 14A(1) insert in alphabetical order:
+bet back means a bet placed with a domestic betting operator, or the operator of a betting exchange, if the bet is placed —
+(a)for the purpose of reducing the liability of another domestic betting operator; and
+(b)by that other domestic betting operator;
+gross revenue means —
+(a)in relation to a domestic betting operator or offshore betting operator — the turnover of the operator, less any dividends to customers by the operator on racing bets;
+(b)in relation to the operator of a betting exchange — the charges, commission, consideration, earnings, fees, reward or other remuneration (however described) payable to or received by an operator in relation to racing bets placed with, or placed and accepted through, the operator;
+turnover means —
+(a)in relation to a domestic betting operator or offshore betting operator — the total amount of racing bets placed with the operator, less the amount of bet backs placed by the operator;
+(b)in relation to a betting exchange — the net winnings of racing bets placed with the betting exchange.
+(3) In section 14A(2) in the Penalty delete “Penalty:” and insert:
+Penalty for this subsection:
+10.Section 24 amended
+In section 24(2) in the definition of bets delete “race or sporting”.
+11.Section 26C amended
+In section 26C(1) delete the Penalty and insert:
+Penalty for this subsection:
+(a)in the case of the licensee or manager, a fine of $5 000;
+(b)in the case of an employee or agent, a fine of $2 000.
+12.Section 27A amended
+(1) In section 27A(1) delete the definitions of:
+approved sporting event
+offshore bet
+(2) In section 27A(1) insert in alphabetical order:
+interstate or offshore bet means a bet made —
+(a)on an event or contingency outside the State; and
+(b)by telephone or electronically by means of the internet, subscription television or any other on-line communications system; and
+(c)with a person who is outside the State (including a person who is outside Australia);
+permitted event or contingency means —
+(a)an event or contingency approved under section 4B(2); or
+(b)an event or contingency, except a prohibited event or contingency, on which betting is permitted by the laws of another State or a Territory.
+(3) In section 27A(1) in the definition of authorised person paragraph (b) delete “races or sporting”.
+(4) After section 27A(2) insert:
+(2A) A person in this State who makes an interstate or offshore bet on an event or contingency that is not a permitted event or contingency commits an offence.
+Penalty for this subsection: a fine of $2 500.
+(2B) A person other than an authorised person who offers an interstate or offshore bet in this State commits an offence.
+Penalty for this subsection: a fine of $5 000 and imprisonment for 1 year.
+(2C) A person who offers an interstate or offshore bet in this State on an event or contingency that is not a permitted event or contingency commits an offence.
+Penalty for this subsection: a fine of $5 000 and imprisonment for 1 year.
+(5) In section 27A(3) delete “offshore” (each occurrence) and insert:
+interstate or offshore
+(6) In section 27A(5) delete “races or sporting” (each occurrence).
+Note:The heading to amended section 27A is to read:
+Interstate and offshore betting
+13.Section 31 amended
+Delete section 31(1)(h)(ii) and insert:
+(ii) an event or contingency approved under section 4B(2).
+14.Section 33 amended
+In section 33(1)(a) delete “sporting”.
+15.Various penalties amended
+(1) In the provisions listed in the Table delete “Penalty:” and insert:
+Penalty for this subsection: a fine of
+Table
+s. 4A(6) | s. 11(6)
+s. 11B(4) | s. 11B(11)
+s. 11B(13) | s. 11B(14)
+s. 11C(2) | s. 11C(9)
+s. 11C(12) | s. 11C(13)
+s. 11E(5) | s. 11G(1)
+s. 11G(2) | s. 11G(3)
+s. 11G(4) | s. 20A(2)
+s. 20B(6) | s. 22(1)
+s. 22(2) | s. 23(1)
+s. 23(2) | s. 24(1)
+s. 25(3) | s. 26A(3)
+s. 26C(5) | s. 27A(2)
+s. 27A(3) | s. 28G(1)
+(2) In the provisions listed in the Table delete “Penalty:” and insert:
+Penalty for this subsection:
+Table
+s. 27D(2A) | s. 27E(2)
+(3) In the provisions listed in the Table delete “Penalty:” and insert:
+Penalty: a fine of
+Table
+s. 22A | s. 26
+s. 26B | s. 27
+s. 28C | s. 28D
+s. 28E | s. 29
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
