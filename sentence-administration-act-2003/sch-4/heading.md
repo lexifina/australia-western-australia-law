@@ -1,6 +1,6 @@
 ## Schedule 4 — Serious violent offences
 [s. 74A]
-[Heading inserted by No. 45 of 2016 s. 44.]
+[Heading inserted: No. 45 of 2016 s. 44.]
  | Enactment | Description of offence
 1. | The Criminal Code
  | s. 279 | Murder
@@ -24,4 +24,4 @@
  | s. 32(2) | Offences of lighting or attempting to light fire likely to injure
 3. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death or grievous bodily harm
-[Schedule 4 inserted by No. 45 of 2016 s. 44.]
+[Schedule 4 inserted: No. 45 of 2016 s. 44.]
