@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 June 2018 of the Sentence Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Sentence Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentence Administration Act 2003 | 49 of 2003 | 9 Jul 2003 | s. 1 and 2: 9 Jul 2003; Act other than s. 1 and 2: 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
@@ -20,6 +20,7 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Sentencing Legislation Amendment Act 2016 Pt. 2 Div. 1 and Pt. 3 Div. 2 | 45 of 2016 | 7 Dec 2016 | Pt. 2 Div. 1: 8 Dec 2016 (see s. 2(b)); Pt. 3 Div. 2: 1 Jul 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1159)
 Sentence Administration Amendment Act 2018 | 2 of 2018 | 23 Mar 2018 | s. 1 and 2: 23 Mar 2018 (see s. 2(a)); Act other than s. 1 and 2: 13 Apr 2018 (see s. 2(b) and Gazette 10 Apr 2018 p. 1283)
 Reprint 3: The Sentence Administration Act 2003 as at 1 Jun 2018 (includes amendments listed above)
+Sentence Administration Amendment (Multiple Murderers) Act 2018 | 42 of 2018 | 12 Dec 2018 | s. 1 and 2: 12 Dec 2018 (see s. 2(a)); Act other than s. 1 and 2: 13 Dec 2018 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
@@ -82,8 +83,10 @@ conditional suspended imprisonment4(2)
 contractor97B(1)
 CSI4(3)
 departmental staff4(2)
+designated prisoner14B
 early release order4(2)
-first report12B(1)(a) and (b)
+first relevant offence14B
+first report12B(1), 12B(1)
 fixed term7(1)
 former Division129(1)
 former transitional provisions123
@@ -114,7 +117,9 @@ release action66A
 release considerations4(2), 5A
 release decision66A
 relevant information97B(1)
+relevant offence14B
 relevant prisoner66A
+relevant report14B
 remains of the victim66A
 research97B(1)
 re-socialisation programme4(2)
@@ -126,7 +131,7 @@ serious offence4(2)
 serious violent offence74A
 service provider97B(1)
 supervised offender4(2), 74E(1)
-T69(6)(a)
+T69(6)
 transitional period123
 victim4(2), 5D(1)
 victim’s submission4(2), 5C(1)
