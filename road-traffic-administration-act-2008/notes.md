@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 December 2018 of the Road Traffic (Administration) Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 | 39 of 2008 | 15 Aug 2008 | s. 1 and 2: 15 Aug 2008 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -7,19 +7,20 @@ Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 | 51 of 2010 | 8 Dec 2010 | 1 Aug 2012 (see s. 2(c) and Gazette 27 Jul 2012 p. 3664)
 Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 10 | 54 of 2010 | 8 Dec 2010 | 8 Dec 2010 (see s. 2(b)(ii))
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | 27 Apr 2015 (see s. 2(b) and Gazettes 30 Aug 2011 p. 3503 and 17 Apr 2015 p. 1371)
-Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | 27 Apr 2015 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611 and 17 Apr 2015 p. 1371)
-Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 (as amended by No. 10 of 2015 s. 19) | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s. 2(e) and Gazettes 29 Jun 2011 p. 2611 and 17 Apr 2015 p. 1371); Pt. 5 (other than s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s 2(f) and Gazette 17 Apr 2015 p. 1371)
-Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 | 59 of 2012 | 11 Dec 2012 | 27 Apr 2015 (see s 2(c)(ii) and Gazette 17 Apr 2015 p. 1371)
+Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | 27 Apr 2015 (see s. 2(b) and Gazettes 29 Jun 2011 p. 2611 and 17 Apr 2015 p. 1371)
+Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 (as amended by No. 10 of 2015 s. 19) | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s. 2(e) and Gazettes 29 Jun 2011 p. 2611 and 17 Apr 2015 p. 1371); Pt. 5 (other than s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s. 2(f) and Gazette 17 Apr 2015 p. 1371)
+Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 | 59 of 2012 | 11 Dec 2012 | 27 Apr 2015 (see s. 2(c)(ii) and Gazette 17 Apr 2015 p. 1371)
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 | 2 of 2015 | 25 Feb 2015 | 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Road Traffic Legislation Amendment Act 2015 Pt. 3 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 1: The Road Traffic (Administration) Act 2008 as at 15 May 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2)
-Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 2 and Pt. 3 Div. 3 Subdiv. 2 and Div. 4 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | Pt. 2 Div. 2: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 3 Subdiv. 2: 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279) Pt. 3 Div. 4 Subdiv. 2: 6 Sep 2017 (see s. 2(c) and Gazette 22 Aug 2017 p. 4501)
+Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 2 and Pt. 3 Div. 3 Subdiv. 2 and Div. 4 Subdiv. 2 | 25 of 2016 | 21 Sep 2016 | Pt. 2 Div. 2: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 3 Subdiv. 2: 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279); Pt. 3 Div. 4 Subdiv. 2: 6 Sep 2017 (see s. 2(c) and Gazette 22 Aug 2017 p. 4501)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Road Traffic (Administration) Act 2008 as at 14 Dec 2018 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 had not come into operation. It reads as follows:
 Part 14 — Repeals and consequential amendments
 Division 2 — Consequential amendments
 Subdivision 4 — Road Traffic (Administration) Act 2008 amended
@@ -55,8 +56,8 @@ Australian driver licensing authority4
 Australian police officer4
 authorised person47(1), 59(1), 117(1), 117B(1)
 authorised purpose14(1)
-authorised to drive a vehicle29(3)
-authorised to run the engine of a vehicle29(3)
+authorised to drive a vehicle29(3)(a)
+authorised to run the engine of a vehicle29(3)(b)
 average speed detection system117B(1)
 axle4
 axle group4
@@ -66,7 +67,7 @@ business address4
 carriageway117B(1)
 CEO4
 certificate126(1)
-co-driver4, 28, 28, 38
+co-driver4, 28, 38
 commencement day147, 166
 Commissioner140(1)
 compensation order123
@@ -79,7 +80,7 @@ demerit points register4
 detection points117B(1)
 director119(1), 137(1)
 disclose4
-Disq7
+Disq7(a)
 distance measuring equipment117(1)
 district4
 drive4
@@ -121,10 +122,10 @@ light140(1)
 light vehicle4
 load4
 loadmeter113(1)
-Max7
+Max7(a)
 MDLR compliance purposes4, 28
 MDLR offence4, 28
-Min7
+Min7(a)
 Minister117(1), 117B(1)
 modified penalty104(1)
 motor vehicle4
@@ -146,9 +147,9 @@ predominantly for residential purposes51(2)
 premises4, 54(1), 55(1)
 prescribed area40(1), 47(1)
 prescribed person14(1)
-present offence107
+present offence107(a)
 provide driving instruction28
-PU7
+PU7(a)
 public authority4
 public place28
 public safety4, 28
@@ -158,7 +159,7 @@ records4
 relevant authorisation12(1)
 relevant authority13A(1)
 remote communication62
-residential purposes51(1), 51(1)
+residential purposes51(1)
 responsible person4, 34(1)
 road4
 road authority123
