@@ -12,3 +12,4 @@ Road Traffic (Drug Driving) Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 
 Road Traffic Regulations Amendment Regulations 2017 Pt. 3 | 7 Feb 2017 p. 1171-7 | 10 Mar 2017 (see r. 2(b) and Gazette 7 Feb 2017 p. 1158-9)
 Reprint 1: The Road Traffic (Drug Driving) Regulations 2007 as at 10 Mar 2017 (includes amendments listed above)
 Road Traffic (Drug Driving) Amendment Regulations 2017 | 6 Oct 2017 p. 5185-6 | r. 1 and 2: 6 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2017 (see r. 2(b))
+Road Traffic (Drug Driving) Amendment Regulations 2018 | 14 Dec 2018 p. 4807 | r. 1 and 2: 14 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2018 (see r. 2(b))
