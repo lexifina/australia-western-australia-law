@@ -30,7 +30,7 @@ Certified on ............................................... at ................
 ...................................................................................................
 Address of drugs analystSignature of drugs analyst
 * Please delete inapplicable alternative.
-[Form 1 amended in Gazette 9 Oct 2009 p. 3998-9; 6 Mar 2015 p. 818.]
+[Form 1 amended: Gazette 9 Oct 2009 p. 3998-9; 6 Mar 2015 p. 818.]
 Form 2
 (r. 10(2))
 WESTERN AUSTRALIA
@@ -148,7 +148,7 @@ yes/nomethylamphetamine;
 yes/no3, 4-methylenedioxy-n, alpha-dimethylphenylethylamine (MDMA).
 .............................................................
 (Authorised drug tester)
-[Form 5 amended in Gazette 25 Jan 2008 p. 217.]
+[Form 5 amended: Gazette 25 Jan 2008 p. 217.]
 Form 6
 (r. 10(6))
 WESTERN AUSTRALIA
