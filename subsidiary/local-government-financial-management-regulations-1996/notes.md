@@ -23,6 +23,7 @@ Reprint 3: The Local Government (Financial Management) Regulations 1996 as at 7 
 Local Government (Financial Management) Amendment Regulations 2013 | 21 Jun 2013 p. 2450-2 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2013 (see r. 2(b))
 Local Government (Financial Management) Amendment Regulations 2017 | 12 May 2017 p. 2469 | r. 1 and 2: 12 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 13 May 2017 (see r. 2(b))
 Local Government Regulations Amendment (Auditing) Regulations 2018 Pt. 3 | 26 Jun 2018 p. 2384-9 | Pt. 3 (other than r. 13 and 14): 27 Jun 2018 (see r. 2(c)); r. 13 and 14: 1 Jul 2018 (see r. 2(b))
+Local Government Regulations Amendment (Recovery of Advance Payments) Regulations 2018 Pt. 3 | 14 Dec 2018 p. 4805-6 | 15 Dec 2018 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
