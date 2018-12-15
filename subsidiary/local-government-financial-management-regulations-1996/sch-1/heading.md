@@ -14,9 +14,9 @@ Recreation and culture | Public halls, Civic Centre Swimming areas and beaches O
 Transport | Streets, roads, bridges, depots — Construction (not capitalised) — Maintenance Road plant purchase (if not capitalised) Parking facilities Traffic control Aerodromes Water transport facilities
 Economic services | Rural services Tourism and area promotion Building control Saleyards and markets Plant nursery Other economic services
 Other property and services | Private works Public works overheads Plant operation Salaries and wages Unclassified Town Planning Schemes
-[Part 1 amended in Gazette 20 Jun 1997 p. 2844.]
+[Part 1 amended: Gazette 20 Jun 1997 p. 2844.]
 ## Part 2 — Nature or type classifications
-[Heading inserted in Gazette 20 Jun 2008 p. 2727.]
+[Heading inserted: Gazette 20 Jun 2008 p. 2727.]
 Revenue
 Rates
 Operating grants, subsidies and contributions
@@ -35,4 +35,4 @@ Loss on asset disposal
 Interest expenses
 Insurance expenses
 Other expenditure
-[Part 2 inserted in Gazette 20 Jun 2008 p. 2727-8.]
+[Part 2 inserted: Gazette 20 Jun 2008 p. 2727-8.]

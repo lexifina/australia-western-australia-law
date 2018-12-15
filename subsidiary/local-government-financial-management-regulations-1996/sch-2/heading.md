@@ -14,7 +14,7 @@ Name of CEO
 (2)insert name of local government
 (3)insert year
 (4)insert date
-[Form 1 amended in Gazette 18 Jun 1999 p. 2640; 20 Jun 2008 p. 2728; 26 Jun 2018 p. 2389.]
+[Form 1 amended: Gazette 18 Jun 1999 p. 2640; 20 Jun 2008 p. 2728; 26 Jun 2018 p. 2389.]
 Form 2
 [reg. 72]
 Local Government Act 1995
