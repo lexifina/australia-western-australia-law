@@ -6,14 +6,14 @@ Coroners Act 1996
 OATH FOR STATE CORONER
 I ................................................... (person’s name) ............................................... do solemnly, sincerely and truly swear that I will well and truly serve the State, according to law, in the office of State Coroner, and I will do right to all manner of people after the laws and usages of this State, without fear or favour, affection or ill will.
 So help me God!
-[Form 1 amended in Gazette 19 Apr 2005 p. 1295.]
+[Form 1 amended: Gazette 19 Apr 2005 p. 1295.]
 Form 2
 [Reg. 4]
 Coroners Act 1996
 (Section 9)
 AFFIRMATION FOR STATE CORONER
 I .................................................. (person’s name) ............................................... do solemnly, sincerely and truly declare and affirm that I will well and truly serve the State, according to law, in the office of State Coroner, and I will do right to all manner of people after the laws and usages of this State, without fear or favour, affection or ill will.
-[Form 2 amended in Gazette 19 Apr 2005 p. 1295.]
+[Form 2 amended: Gazette 19 Apr 2005 p. 1295.]
 Form 3
 [Reg. 6]
 Coroners Act 1996
@@ -144,7 +144,7 @@ Where you must go To be held at When | The Coroner’s Court of Western Australi
 Information about this summons
 Issued at By Signature | Date / / State Coroner Coroner Coroner’s Registrar
 If further information is required, telephone: ..................
-[Form 10 amended in Gazette 11 Mar 2008 p. 816.]
+[Form 10 amended: Gazette 11 Mar 2008 p. 816.]
 Form 11
 [Reg. 16(3)]
 Coroners Act 1996
@@ -160,7 +160,7 @@ THE WITNESS has neglected to appear at the time and place appointed in and by a 
 I AUTHORISE you to enter and search at any time with all force as may be necessary any dwelling-house, building, premises, ship, aircraft or any place where the witness is suspected to be present AND I ORDER that you apprehend the witness and bring the witness before the said Coroner’s Court to answer the said Summons and to be further dealt with according to law.
 Dated at .......................... the ................... day of ................................ 20.............
 Coroner.
-[Form 11 amended in Gazette 12 Feb 2013 p. 922.]
+[Form 11 amended: Gazette 12 Feb 2013 p. 922.]
 Form 12
 [Reg. 18(1)]
 Coroners Act 1996

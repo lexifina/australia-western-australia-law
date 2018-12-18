@@ -1,6 +1,6 @@
 ## Schedule 2 — Fees for post mortem services
 [r. 21]
-[Heading inserted in Gazette 4 Sep 2009 p. 3492-3.]
+[Heading inserted: Gazette 4 Sep 2009 p. 3492-3.]
 Item | Service | Fee
 1. | Post mortem by a pathologist ...................................... | $390
 2. | Post mortem by a doctor who is not a pathologist ........ | $265
