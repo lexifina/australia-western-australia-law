@@ -1,8 +1,8 @@
 ## Schedule 1 — Fees
 [r. 4 and 4A]
-[Heading inserted in Gazette 15 Jun 2018 p. 2029.]
+[Heading inserted: Gazette 15 Jun 2018 p. 2029.]
 ## Division 1 — General Division fees
-[Heading inserted in Gazette 15 Jun 2018 p. 2029.]
+[Heading inserted: Gazette 15 Jun 2018 p. 2029.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
 1. | On filing — (a)any originating process by which a cause, matter or other proceeding in the Court is commenced, other than proceedings of the kind referred to in item 2, 3 or 7 | 1 318.00 | 2 568.00 | 100.00
  | (b)a notice of appeal (whether in draft form or not) | 1 318.00 | 2 568.00 | 100.00
@@ -57,17 +57,20 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (c)For certifying under seal that a document is a true copy, an additional fee of | 21.40 | 21.40 | 6.45
  | (d)For a certificate under the hand of a registrar | 39.20 | 39.20 | 11.80
  | (e)For sealing a warrant of arrest release, commission for the appraisement or sale of property or for the appraisement or sale in admiralty proceedings | 87.50 | 87.50 | 26.20
-13. | (a)For a copy of a transcript, or part of a transcript —
+13. | (a)For the preparation of a transcript, or part of a transcript —
  | (i)provided within 1 day after the day on which the fee is paid | 20.50 plus 8.45 per page | 20.50 plus 16.90 per page | 6.15 plus 2.55 per page
- | (ii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
- | (iii)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
- | (b)For an additional copy of the transcript, or part of the transcript, provided under paragraph (a) —
- | (i)in electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
+ | (ii)provided within 2 days after the day on which the fee is paid | 20.50 plus 7.75 per page | 20.50 plus 15.50 per page | 6.15 plus 2.35 per page
+ | (iii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
+ | (iv)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
+ | (v)provided within 14 days after the day on which the fee is paid | 20.50 plus 6.00 per page | 20.50 plus 12.00 per page | 6.15 plus 2.00 per page
+ | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 20.50 plus 9.00 per page | 20.50 plus 18.00 per page | 6.15 plus 3.00 per page
+ | (b)For a copy of a transcript, or part of a transcript, that has already been prepared —
+ | (i)electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
  | (ii)paper copy | 2.10 per page | 2.10 per page | 0.60 per page
 14. | On filing an application for admission as a practitioner | 371.00 | N/A | N/A
-[Division 1 inserted in Gazette 15 Jun 2018 p. 2029-40.]
+[Division 1 inserted: Gazette 15 Jun 2018 p. 2029-40; amended: Gazette 7 Dec 2018 p. 4672-3.]
 ## Division 2 — Court of Appeal fees
-[Heading inserted in Gazette 15 Jun 2018 p. 2040.]
+[Heading inserted: Gazette 15 Jun 2018 p. 2040.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
 1. | On filing an appeal notice | 220.00 | 570.00 | 66.00
 2. | On filing — (a)Appellant’s case (b)Respondent’s case | 3 313.00 3 313.00 | 8 609.00 8 609.00 | 100.00 100.00
@@ -95,11 +98,14 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (ii)for each copy consisting of more than 10 pages an additional fee per page of | 2.00 | 2.00 | 0.60
  | (c)For certifying under seal that a document is a true copy, an additional fee of | 21.40 | 21.40 | 6.45
  | (d)For a certificate under the hand of a registrar | 42.10 | 42.10 | 12.70
-10. | (a)For a copy of a transcript, or part of a transcript —
+10. | (a)For the preparation of a transcript, or part of a transcript —
  | (i)provided within 1 day after the day on which the fee is paid | 20.50 plus 8.45 per page | 20.50 plus 16.90 per page | 6.15 plus 2.55 per page
- | (ii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
- | (iii)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
- | (b)For an additional copy of the transcript, or part of the transcript, provided under paragraph (a) —
- | (i)in electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
+ | (ii)provided within 2 days after the day on which the fee is paid | 20.50 plus 7.75 per page | 20.50 plus 15.50 per page | 6.15 plus 2.35 per page
+ | (iii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
+ | (iv)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
+ | (v)provided within 14 days after the day on which the fee is paid | 20.50 plus 6.00 per page | 20.50 plus 12.00 per page | 6.15 plus 2.00 per page
+ | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 20.50 plus 9.00 per page | 20.50 plus 18.00 per page | 6.15 plus 3.00 per page
+ | (b)For a copy of a transcript, or part of a transcript, that has already been prepared —
+ | (i)electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
  | (ii)paper copy | 2.10 per page | 2.10 per page | 0.60 per page
-[Division 2 inserted in Gazette 15 Jun 2018 p. 2040-45.]
+[Division 2 inserted: Gazette 15 Jun 2018 p. 2040-45; amended: Gazette 7 Dec 2018 p. 4673-4.]

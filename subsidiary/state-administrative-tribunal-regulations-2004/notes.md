@@ -39,9 +39,6 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9
 State Administrative Tribunal Amendment Regulations 2018 | 26 Jun 2018 p. 2382-3 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 7 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 2) 2018 | 28 Sep 2018 p. 3579 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 6 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
@@ -53,22 +50,6 @@ Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendme
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1117(7).
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The amendment to r. 9(3) in the State Administrative Tribunal Amendment Regulations (No. 4) 2013 r. 4 is not included because it was deleted by the State Administrative Tribunal Amendment Regulations 2013 r. 6(3) before the State Administrative Tribunal Amendment Regulations (No. 4) 2013 had commenced.
-On the date at which this compilation was prepared, the Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — State Administrative Tribunal Regulations 2004 amended
-11.Regulations amended
-This Part amends the State Administrative Tribunal Regulations 2004.
-12.Schedule 20 amended
-Delete Schedule 20 item 5 and insert:
-5. | (a)For the preparation of a transcript, or part of a transcript —
- | (i)provided within 1 day after the day on which the fee is paid | 20.50 plus 8.45 per page | 20.50 plus 16.90 per page | 6.15 plus 2.55 per page
- | (ii)provided within 2 days after the day on which the fee is paid | 20.50 plus 7.75 per page | 20.50 plus 15.50 per page | 6.15 plus 2.35 per page
- | (iii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
- | (iv)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
- | (v)provided within 14 days after the day on which the fee is paid | 20.50 plus 6.00 per page | 20.50 plus 12.00 per page | 6.15 plus 2.00 per page
- | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 20.50 plus 9.00 per page | 20.50 plus 18.00 per page | 6.15 plus 3.00 per page
- | (b)For a copy of a transcript, or part of a transcript, that has already been prepared —
- | (i)electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
- | (ii)paper copy | 2.10 per page | 2.10 per page | 0.60 per page
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

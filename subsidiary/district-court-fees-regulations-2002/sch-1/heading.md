@@ -1,6 +1,6 @@
 ## Schedule 1 — Registry fees
 [r. 4]
-[Heading inserted in Gazette 15 Jun 2018 p. 1986.]
+[Heading inserted: Gazette 15 Jun 2018 p. 1986.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
 1. | On filing any originating process by which a cause, matter or other proceeding in the Court is commenced, other than proceedings of the kind referred to in item 2, 3, 4, 5 or 9 | 877.00 | 1 711.00 | 100.00
 2. | On filing an application for an extraordinary licence under the Road Traffic (Authorisation to Drive) Act 2008 section 27 | 211.00 | N/A | 63.50
@@ -55,11 +55,14 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (i)for each copy issued to a person not a party to the proceedings and for each copy in excess of 1 copy issued to a party to the proceedings (ii)for each copy consisting of 10 or more pages an additional fee per page of | 15.50 2.00 | 15.50 2.00 | 4.55 0.60
  | (c)For certifying under seal that a document is a true copy, an additional fee of | 21.40 | 21.40 | 6.45
  | (d)For a certificate under the hand of a registrar | 42.10 | 42.10 | 12.70
-16. | (a)For a copy of a transcript, or part of a transcript —
+16. | (a)For the preparation of a transcript, or part of a transcript —
  | (i)provided within 1 day after the day on which the fee is paid | 20.50 plus 8.45 per page | 20.50 plus 16.90 per page | 6.15 plus 2.55 per page
- | (ii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
- | (iii)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
- | (b)For an additional copy of the transcript, or part of the transcript, provided under paragraph (a) —
- | (i)in electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
+ | (ii)provided within 2 days after the day on which the fee is paid | 20.50 plus 7.75 per page | 20.50 plus 15.50 per page | 6.15 plus 2.35 per page
+ | (iii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
+ | (iv)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
+ | (v)provided within 14 days after the day on which the fee is paid | 20.50 plus 6.00 per page | 20.50 plus 12.00 per page | 6.15 plus 2.00 per page
+ | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 20.50 plus 9.00 per page | 20.50 plus 18.00 per page | 6.15 plus 3.00 per page
+ | (b)For a copy of a transcript, or part of a transcript, that has already been prepared —
+ | (i)electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
  | (ii)paper copy | 2.10 per page | 2.10 per page | 0.60 per page
-[Schedule 1 inserted in Gazette 15 Jun 2018 p. 1986-95.]
+[Schedule 1 inserted: Gazette 15 Jun 2018 p. 1986-95; amended: Gazette 7 Dec 2018 p. 4669-70.]
