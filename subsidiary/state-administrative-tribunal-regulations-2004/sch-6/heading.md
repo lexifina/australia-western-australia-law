@@ -1,6 +1,6 @@
 ## Schedule 6 — Provision under which proceedings commenced
 [r. 9(4)]
-[Heading inserted by Gazette 26 Jun 2007 p. 2993.]
+[Heading inserted: Gazette 26 Jun 2007 p. 2993.]
 Associations Incorporation Act 2015 s. 170
 Cat Act 2011 s. 71 or 72
 Cat (Uniform Local Provisions) Regulations 2013 r. 11
@@ -18,4 +18,4 @@ Road Traffic (Administration) Regulations 2014 r. 32(1) or 33(2)
 Security and Related Activities (Control) Act 1996 s. 67(1), 67A(4) or 72(1)
 Strata Titles Act 1985 s. 16(1), 39A(4)(c)(ii) or (5), 47(2)(a), 64(1), 83(1), 85, 86, 87, 88, 89, 90, 91, 92, 93(1), 94(1), 95(1), 97(1), 98, 99(1), 99A(1), 100(1), 101, 102(1)(e), (f) or (g), 102(3), 103(1) or (2), 103A(1), 103B(1), 103C(1), 103D(1), 103E(1), 103F(1) or (4), 103G(1), 103H(1), 103I(1), 103J(1), 103K(1), 103L(1), 103M(1), 103N(1), 103O(1), 103P(1), 103Q(1), 103R(1), 114(4)(b), Sch. 3 cl. 12(10)(a) or 13A(5) or Sch. 4 cl. 2(7)(a)
 Working with Children (Criminal Record Checking) Act 2004 s. 26(2)
-[Schedule 6 inserted by Gazette 26 Jun 2007 p. 2993-4; amended by Gazette 13 Jun 2008 p. 2523; 27 Jun 2008 p. 3067; 6 Aug 2013 p. 3655; 8 Apr 2014 p. 921; 10 Feb 2015 p. 623; 30 Dec 2016 p. 5966; 13 Jan 2017 p. 351-2; 26 Jun 2018 p. 2383; 28 Sep 2018 p. 3579.]
+[Schedule 6 inserted: Gazette 26 Jun 2007 p. 2993-4; amended: Gazette 13 Jun 2008 p. 2523; 27 Jun 2008 p. 3067; 6 Aug 2013 p. 3655; 8 Apr 2014 p. 921; 10 Feb 2015 p. 623; 30 Dec 2016 p. 5966; 13 Jan 2017 p. 351-2; 26 Jun 2018 p. 2383; 28 Sep 2018 p. 3579.]
