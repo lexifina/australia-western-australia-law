@@ -1,6 +1,6 @@
 ## Schedule 2 — Sheriff’s fees
 [r. 4]
-[Heading inserted in Gazette 15 Jun 2018 p. 2046.]
+[Heading inserted: Gazette 15 Jun 2018 p. 2046.]
 Item | Matter | Fee $
 1. | On the execution of an arrest warrant of any kind — (a)for arresting the person (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody | 141.50 140.00
  | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until the person is conveyed to a court or a custodial place | 37.10
@@ -13,4 +13,4 @@ Item | Matter | Fee $
  | Note: If more than 1 process or document is executed or served by the sheriff or a bailiff at the same time on the same person or on different persons at the same address, only 1 allowance for kilometres is chargeable.
 4. | Fee to the sheriff for attending a view — per hour or part of an hour | 74.00
 5. | (a)For striking a jury and preparing jury panel (b)For attendance of sheriff’s officer at hearing (per day or part of a day) | 238.00 The sum actually and reasonably paid
-[Schedule 2 inserted in Gazette 15 Jun 2018 p. 2046-7.]
+[Schedule 2 inserted: Gazette 15 Jun 2018 p. 2046-7.]
