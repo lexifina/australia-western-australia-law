@@ -1,6 +1,6 @@
 ## Schedule 2 — Sheriff’s fees
 [r. 4]
-[Heading inserted in Gazette 15 Jun 2018 p. 1996.]
+[Heading inserted: Gazette 15 Jun 2018 p. 1996.]
 Item | Matter | Fee $
 1. | On the execution of an arrest warrant of any kind —
  | (a)for arresting the person | 141.50
@@ -18,4 +18,4 @@ Item | Matter | Fee $
 4. | Fee to the sheriff for attending a view — per hour or part of an hour | 74.00
 5. | (a)For striking a jury and preparing jury panel | 238.00
  | (b)For attendance of sheriff’s officer at hearing (per day or part of a day) | The sum actually and reasonably paid
-[Schedule 2 inserted in Gazette 15 Jun 2018 p. 1996-7.]
+[Schedule 2 inserted: Gazette 15 Jun 2018 p. 1996-7.]
