@@ -14,7 +14,6 @@ Chief Magistrate, Deputy Chief Magistrate or magistrate of the Magistrates Court
 Industrial magistrate appointed under the Industrial Relations Act 1979.
 Coroner appointed under the Coroners Act 1996.
 Chief Assessor of Criminal Injuries Compensation or an Assessor of Criminal Injuries Compensation appointed under the Criminal Injuries Compensation Act 2003.
-President of The Western Australian Industrial Relations Commission.
 Chief Commissioner, Senior Commissioner or other commissioner of The Western Australian Industrial Relations Commission.
 Chairman or other member of the Salaries and Allowances Tribunal established by the Salaries and Allowances Act 1975.
 Chairman of the Coal Industry Superannuation Board.
@@ -23,7 +22,7 @@ Public service arbitrator appointed under Division 2 of Part IIA of the Industri
 Chairman, or deputy of the chairman, of the Railways Classification Board established under Division 3 of Part IIA of the Industrial Relations Act 1979.
 Member of the State Administrative Tribunal.
 Western Australian Energy Disputes Arbitrator appointed under section 62 of the Energy Arbitration and Review Act 1998.
-[Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 Sch. 3 Div. 1; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141; No. 73 of 2006 s. 116(2); No. 16 of 2009 s. 68; No. 25 of 2014 s. 39; No. 50 of 2016 s. 5(1).]
+[Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 Sch. 3 Div. 1; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141; No. 73 of 2006 s. 116(2); No. 16 of 2009 s. 68; No. 25 of 2014 s. 39; No. 50 of 2016 s. 5(1); No. 39 of 2018 s. 67.]
 ## Division 2 — Other offices
 [Heading inserted by No. 19 of 2010 s. 14(4).]
 Auditor General appointed under the Auditor General Act 2006.
