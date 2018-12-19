@@ -1,6 +1,6 @@
 ## Schedule 2 — Schedule 2 offences
 [s. 3, 22, 25, 55 and 124]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Offences —
 ·for which a caution cannot be given, and
 ·which cannot be referred to a juvenile justice team, and
@@ -56,4 +56,4 @@ s. 54 | Driver in incident occasioning bodily harm to stop, ensure assistance an
 s. 59 | Dangerous driving causing death or grievous bodily harm
 s. 59A | Dangerous driving causing bodily harm
 s. 59BA(1) | Careless driving causing death, grievous bodily harm or bodily harm
-[Schedule 2 amended by No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5); No. 49 of 2012 s. 182; No. 25 of 2016 s. 21(3) and 29.]
+[Schedule 2 amended: No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5); No. 49 of 2012 s. 182; No. 25 of 2016 s. 21(3) and 29.]
