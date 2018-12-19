@@ -1,7 +1,7 @@
 ## Schedule 1 — Forms
 Form 1 — Notice of application (general)
 [r. 13(1), 18(1), 27(3), 58(1), 59(1), 73(1) and (2), 82(8) and (11), 85, 100(1), 102(7), 103(9), 103A(2) and 104(1)]
-[Heading amended in Gazette 9 Jan 2015 p. 212.]
+[Heading amended: Gazette 9 Jan 2015 p. 212.]
 Industrial Relations Act 1979
 In the Western Australian Industrial Relations Commission
  | No. ............................ | of 20........................
@@ -31,7 +31,7 @@ NOTE 4: | The fee payable with this application must be paid at the time it is f
 NOTE 5: | Unless the Commission otherwise directs, after the notice is filed, the applicant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
 NOTE 6: | Where service is to be effected outside WA, Form 4 of the Service and Execution of Process Regulations 1993 (Commonwealth) is required to be attached to the application.
 All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 1 inserted in Gazette 4 Jul 2014 p. 2390-2.]
+[Form 1 inserted: Gazette 4 Jul 2014 p. 2390-2.]
 Form 2 — Notice of claim of harsh, oppressive or unfair dismissal
 [r. 61(1)]
 Industrial Relations Act 1979
@@ -57,7 +57,7 @@ NOTE 5: | Unless the Commission otherwise directs, after the notice is filed, th
 NOTE 6: | If the employer desires to contest the claim, the employer must file and serve on the applicant a Form 5 Notice of answer and answering statement within 21 days of being served with this notice. There is no fee payable.
 NOTE 7: | Where service is to be effected outside WA, Form 4 of the Service and Execution of Process Regulations 1993 (Commonwealth) is required to be attached to the application.
 All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 2 inserted in Gazette 4 Jul 2014 p. 2392-3.]
+[Form 2 inserted: Gazette 4 Jul 2014 p. 2392-3.]
 Form 3 — Notice of claim of entitlement to a benefit under a contract of employment
 [r. 61(2)]
 Industrial Relations Act 1979
@@ -80,7 +80,7 @@ NOTE 4: | Unless the Commission otherwise directs, after the notice is filed, th
 NOTE 5: | If the employer desires to contest the claim, the employer must file and serve on the applicant a Form 5 Notice of answer and answering statement within 21 days of being served with this notice. There is no fee payable.
 NOTE 6: | Where service is to be effected outside WA, Form 4 of the Service and Execution of Process Regulations 1993 (Commonwealth) is required to be attached to the application.
 All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 3 inserted in Gazette 4 Jul 2014 p. 2394-5.]
+[Form 3 inserted: Gazette 4 Jul 2014 p. 2394-5.]
 Form 4A — Notice of referral by employee or former employee under Public Sector Management Act 1994
 [r. 63A(2)]
 Industrial Relations Act 1979
@@ -100,7 +100,7 @@ NOTE 1: | This form must be completed and signed by the applicant and written pa
 NOTE 2: | Unless the Commission otherwise directs, after the application is filed the applicant must serve (e.g. by posting or delivering it to the employing authority personally) a stamped copy, together with its attachments, on the employing authority as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
 NOTE 3: | An employing authority that is served with an application and that wants to respond to it may file a notice of answer in Form 5 within 21 days of being served with the application. An answering statement must be attached to the notice of answer and must, in summary form, specify the facts on which the employing authority relies and admit or dispute, either with or without qualification, each part of the application made by the applicant.
 All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 4A inserted in Gazette 15 May 2015 p. 1723-4.]
+[Form 4A inserted: Gazette 15 May 2015 p. 1723-4.]
 Form 4 — Statutory declaration of service
 [r. 28(1), 61(3) and (6), 63A(3) and (6), 98(4) and (5), 99, 99D(5) and (7) and 99E]
 Industrial Relations Act 1979
@@ -131,7 +131,7 @@ before me | ............................................. | ....................
 .....................................................................
 (authority of witness)
 (Stamp of Commission)
-[Form 4 amended in Gazette 28 Apr 2006 p. 1652-3; 22 Jan 2008 p. 194; 4 Jul 2014 p. 2395; 15 May 2015 p. 1724.]
+[Form 4 amended: Gazette 28 Apr 2006 p. 1652-3; 22 Jan 2008 p. 194; 4 Jul 2014 p. 2395; 15 May 2015 p. 1724.]
 Form 5 — Notice of answer
 [r. 14, 48(5), 50(6), 61(4), 63A(4), 89D(2), 89K(2), 99D(6), 99E and 107(6A)]
 Industrial Relations Act 1979
@@ -155,7 +155,7 @@ NOTE 1: | It is important to correctly state the full name of the respondent/s.
 NOTE 2: | This form must be completed and signed by the respondent/s and, where necessary, sealed and an answering statement admitting or disputing each claim made by the applicant/s must be attached.
 NOTE 3: | Unless the Commission otherwise directs, after the notice is filed, the respondent/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each applicant as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done
 All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 5 inserted in Gazette 4 Jul 2014 p. 2395-6; amended in Gazette 15 May 2015 p. 1724; 21 Aug 2015 p. 3343.]
+[Form 5 inserted: Gazette 4 Jul 2014 p. 2395-6; amended: Gazette 15 May 2015 p. 1724; 21 Aug 2015 p. 3343.]
 Form 6 — Notice of retirement from agreement
 [r. 56(a)]
 Industrial Relations Act 1979
@@ -173,7 +173,7 @@ being a party to registered industrial agreement number ........................
 NOTE 1: | This notice signifying intention to retire from an industrial agreement must be completed by the person giving such notice, signed and where necessary sealed by him or her.
 NOTE 2: | Unless the Commission otherwise directs, after the notice is filed, the person who filed it must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each other party as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
 All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 6 inserted in Gazette 4 Jul 2014 p. 2396-7.]
+[Form 6 inserted: Gazette 4 Jul 2014 p. 2396-7.]
 Form 7 — Notice of referral to the Occupational Safety and Health Tribunal
 [r. 96(1)]
 Industrial Relations Act 1979
@@ -201,7 +201,7 @@ The grounds on which the referral is made are:
  | ..........................................................................
  | (signature/seal of applicant or signature of applicant’s solicitor or agent)
 NOTE: For endorsements, see the back of this form. (Stamp of Commission)
-[Form 7 inserted in Gazette 4 Jul 2014 p. 2397-8.]
+[Form 7 inserted: Gazette 4 Jul 2014 p. 2397-8.]
 Form 7A — Notice of referral to the Road Freight Transport Industry Tribunal
 [r. 99B]
 Industrial Relations Act 1979
@@ -227,7 +227,7 @@ Owner-Drivers (Contracts and Disputes) Act 2007; or any relevant conduct complai
  | (signature/seal of applicant or signature of applicant’s solicitor or agent)
 NOTE: | Unless the Commission otherwise directs, after the notice is filed, the applicant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
 All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 7A inserted in Gazette 4 Jul 2014 p. 2399-400.]
+[Form 7A inserted: Gazette 4 Jul 2014 p. 2399-400.]
 Form 8 — Notice of appeal from Board of Reference
 [r. 118(1)]
 Industrial Relations Act 1979
@@ -253,7 +253,7 @@ on the ground/s set forth in the attached schedule.
  | (signature of appellant/s)
 NOTE 1:This form must be completed and signed by the appellant/s and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached.
 NOTE 2:Unless the Commission otherwise directs, after the notice is filed, the appellant/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each other party before the Board of Reference or on the solicitor or agent who represented that party as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 8 inserted in Gazette 4 Jul 2014 p. 2400-1.]
+[Form 8 inserted: Gazette 4 Jul 2014 p. 2400-1.]
 Form 9A — Notice of appeal under Vocational Education and Training Act 1996
 [r. 101(1)]
 Industrial Relations Act 1979
@@ -277,7 +277,7 @@ on the ground/s set out in the attached schedule.
  | .............................................................................
  | (signature of appellant/s)
 NOTE:This form must be completed and signed by the appellant/s and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. (Stamp of Commission)
-[Form 9A inserted in Gazette 4 Jul 2014 p. 2401-2.]
+[Form 9A inserted: Gazette 4 Jul 2014 p. 2401-2.]
 Form 9B — Notice of review of a decision of the Construction Industry Long Service Leave Payments Board
 [r. 102A(2)]
 Industrial Relations Act 1979
@@ -301,7 +301,7 @@ for review to the Commission under the Construction Industry Portable Paid Long 
  | .....................................................................
  | (signature of applicant)
 NOTE:Unless the Commission otherwise directs, after the notice is filed, the applicant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 9B inserted in Gazette 4 Jul 2014 p. 2402-3.]
+[Form 9B inserted: Gazette 4 Jul 2014 p. 2402-3.]
 Form 9 — Notice of appeal to Full Bench
 [r. 99, 99E and 102(1)]
 Industrial Relations Act 1979
@@ -326,7 +326,7 @@ on the ground/s set forth in the attached schedule.
  | (signature of appellant/s)
 NOTE 1:For endorsements, see the back of this form.
 NOTE 2:The fee payable with this notice must be paid at the time it is filed. NOTE 3:This form must be completed and signed by the appellant/s and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. NOTE 4:Unless the Commission otherwise directs, after the notice is filed, the appellant/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. NOTE 5:An appeal book in accordance with the Industrial Relations Commission Regulations 2005 must be filed and served on the respondent/s within 14 days of the filing of this notice. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 9 inserted in Gazette 4 Jul 2014 p. 2404-5; amended in Gazette 15 May 2015 p. 1724.]
+[Form 9 inserted: Gazette 4 Jul 2014 p. 2404-5; amended: Gazette 15 May 2015 p. 1724.]
 Form 10 — Notice of appeal to Public Service Arbitrator / Railway Classifications Board
 [r. 106(1) and 111(1)]
 Industrial Relations Act 1979
@@ -349,7 +349,7 @@ Tick the box if the statement is appropriate: oAn appeal relating to the above p
  | (signature of appellant)
 NOTE 1:The fee payable with this notice must be paid at the time it is filed.
 NOTE 2:Unless the Commission otherwise directs, after the notice is filed, the appellant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent/employer as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 10 inserted in Gazette 4 Jul 2014 p. 2405-6.]
+[Form 10 inserted: Gazette 4 Jul 2014 p. 2405-6.]
 ## Form 11 — Notice of appeal to Public Service Appeal Board
 [r. 107(1)]
 Industrial Relations Act 1979
@@ -369,7 +369,7 @@ NOTE 2: | The fee payable with this notice of appeal must be paid at the time it
 NOTE 3: | Unless the Public Service Appeal Board otherwise directs, after this notice of appeal is filed, the appellant must serve (e.g. by posting or delivering it personally) a stamped copy of it and the attached schedule on the respondent as soon as reasonably practicable and complete and file a Form 4 statutory declaration of service declaring that this has been done.
 NOTE 4: | A respondent that is served with this notice of appeal and that wants to respond to it may file a notice of answer in Form 5 within 21 days of being served with this notice of appeal. There is no fee payable.
 All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 11 inserted in Gazette 21 Aug 2015 p. 3344.]
+[Form 11 inserted: Gazette 21 Aug 2015 p. 3344.]
 Form 12 — Notice of application to enforce the Industrial Relations Act 1979
 [r. 60(1)]
 Industrial Relations Act 1979
@@ -396,7 +396,7 @@ Dated at Perth this ............................ day of ........................
  | (signature of applicant)
 NOTE 1:The fee payable with this notice must be paid at the time it is filed.
 NOTE 2:Where this application is initiated other than by the Registrar it must be signed and, where necessary, sealed by the applicant. (Stamp of Commission)
-[Form 12 inserted in Gazette 4 Jul 2014 p. 2408.]
+[Form 12 inserted: Gazette 4 Jul 2014 p. 2408.]
 Form 13 — Notice of objection
 [r. 15(1), 66(3), 67(3), 68(4), 69(5) and 71(3)]
 Industrial Relations Act 1979
@@ -423,10 +423,10 @@ Dated this ..................................... day of ........................
  | (signature of objector)
 NOTE 1:The fee payable with this notice must be paid at the time it is filed.
 NOTE 2:Unless the Commission otherwise directs, after the notice is filed, the objector must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on the person to whom the objection is directed as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 13 inserted in Gazette 4 Jul 2014 p. 2409-10.]
+[Form 13 inserted: Gazette 4 Jul 2014 p. 2409-10.]
 Form 14 — Notice of withdrawal or discontinuance
 [r. 16(1) and (4), 89G(a), 89N(a), 99 and 99E]
-[Heading amended in Gazette 21 Aug 2015 p. 3345.]
+[Heading amended: Gazette 21 Aug 2015 p. 3345.]
 Industrial Relations Act 1979
 In the Western Australian Industrial Relations Commission
  | No. ............................. | of 20 ....................
@@ -445,7 +445,7 @@ Dated this ................................ day of .............................
  | (signature of applicant/s)
 NOTE 1:Unless the Commission otherwise directs, after the notice is filed, the applicant/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
 NOTE 2: Where a counter-proposal has been filed in answer to an application, the application may only be withdrawn or discontinued with the consent of the respondent making the counter-proposal. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 14 inserted in Gazette 4 Jul 2014 p. 2410-11; amended in Gazette 15 May 2015 p. 1725.]
+[Form 14 inserted: Gazette 4 Jul 2014 p. 2410-11; amended: Gazette 15 May 2015 p. 1725.]
 Form 15 — Notice of hearing
 [r. 32(2), 99, 99E and 103(8)]
 Industrial Relations Act 1979
@@ -462,7 +462,7 @@ To: | ..........................................................................
 TAKE NOTICE that the (insert constitution of Commission) will sit at 111 St. George’s Terrace, Perth in court number .......... on level ......... on .............. at .............. a.m./p.m. to hear the abovementioned matter.
 Dated this .................... day of ............................ 20 ..............
 Registrar (Stamp of Commission)
-[Form 15 inserted in Gazette 28 Apr 2006 p. 1655; amended in Gazette 4 Jul 2014 p. 2411; 15 May 2015 p. 1725.]
+[Form 15 inserted: Gazette 28 Apr 2006 p. 1655; amended: Gazette 4 Jul 2014 p. 2411; 15 May 2015 p. 1725.]
 Form 16 — Notice to admit
 [r. 23(1), 99 and 99E]
 Industrial Relations Act 1979
@@ -486,7 +486,7 @@ Dated this ................................. day of ............................
 ...................................................................
 (signature of party issuing this notice)
 NOTE:This form must be completed and signed by the party requesting the admission or denial of the facts referred to above. (Stamp of Commission)
-[Form 16 inserted in Gazette 4 Jul 2014 p. 2411-12; amended in Gazette 15 May 2015 p. 1725.]
+[Form 16 inserted: Gazette 4 Jul 2014 p. 2411-12; amended: Gazette 15 May 2015 p. 1725.]
 Form 17 — Summons to witness
 [r. 41(1), 99 and 99E]
 Industrial Relations Act 1979
@@ -511,7 +511,7 @@ This summons has been taken out by .............................................
 (name and street address of party taking out summons)
 If you fail or neglect to comply with this summons you are liable to a penalty. NOTE 1:The fee payable with this notice must be paid at the time it is filed. NOTE 2:Service of summons is to be effected by serving it personally on the person named in the summons.
 NOTE 3: At the time of service, the person serving the summons must tender to the person named in the summons sufficient money to enable him or her to travel between his or her place of residence or employment (whichever is appropriate) and the place of hearing mentioned in the summons. (Stamp of Commission)
-[Form 17 inserted in Gazette 4 Jul 2014 p. 2412-13; amended in Gazette 15 May 2015 p. 1725.]
+[Form 17 inserted: Gazette 4 Jul 2014 p. 2412-13; amended: Gazette 15 May 2015 p. 1725.]
 Form 18 — Warrant to appear as agent
 [r. 63(1) and (3), 99 and 99E]
 Industrial Relations Act 1979
@@ -536,7 +536,7 @@ This warrant applies until [it is withdrawn / .......................].
  | (signature of party for whom the agent is appearing)
 Dated this ................................... day of ............................................. 20 ......................
 NOTE:Unless the Commission otherwise directs, after the warrant is filed, the party for who the agent is appearing must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 18 inserted in Gazette 4 Jul 2014 p. 2413-14; amended in Gazette 15 May 2015 p. 1725; 12 Jan 2018 p. 117.]
+[Form 18 inserted: Gazette 4 Jul 2014 p. 2413-14; amended: Gazette 15 May 2015 p. 1725; 12 Jan 2018 p. 117.]
 Form 19 — Application for registration of organisation/association
 [r. 66(1), 67(1) and 68(1)]
 Industrial Relations Act 1979
@@ -556,7 +556,7 @@ The registered office of the organisation/association will be situated at —
  | (name and telephone number of person signing for and on behalf of the organisation/association)
 Dated at Perth this ................................ day of ..................................... 20 ........................
 The appropriate fee must be paid upon lodgment of this application. (Stamp of Commission)
-[Form 19 amended in Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2414.]
+[Form 19 amended: Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2414.]
 Form 20 — Application to register additions, alterations or revisions of the name or rules of a registered organisation or association
 [r. 69(1) and (2), 70(1) and (2) and 71(1)]
 Industrial Relations Act 1979
@@ -574,7 +574,7 @@ an organisation/association registered under the Industrial Relations Act 1979 f
  | (name and telephone number of person signing for and on behalf of the organisation/association)
 Dated at Perth this ................................. day of ...................................... 20 .....................
 The appropriate fee must be paid upon lodgment of this application. (Stamp of Commission)
-[Form 20 amended in Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2414.]
+[Form 20 amended: Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2414.]
 Form 21 — Summons for cancellation or suspension of registration of organisation/association
 [r. 74(2)]
 Industrial Relations Act 1979
@@ -591,7 +591,7 @@ Dated at Perth this ................................... day of .................
  | ..............................................................
  | (signature of Registrar)
 (Stamp of Commission)
-[Form 21 amended in Gazette 4 Jul 2014 p. 2415.]
+[Form 21 amended: Gazette 4 Jul 2014 p. 2415.]
 Form 22 — Request by an organisation/association to cancel its registration
 [r. 75(1)]
 Industrial Relations Act 1979
@@ -614,7 +614,7 @@ The number in favour of this action was | ......................................
  | (name and telephone number of person signing for and on behalf of the organisation/association)
 Dated at Perth this ................................... day of ..................................... 20 .....................
 (Stamp of Commission)
-[Form 22 amended in Gazette 28 Apr 2006 p. 1656; 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
+[Form 22 amended: Gazette 28 Apr 2006 p. 1656; 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
 Form 23 — Application to cancel registration of organisation/association
 [r. 76(1)]
 Industrial Relations Act 1979
@@ -636,7 +636,7 @@ Dated at Perth this ................................. day of ...................
  | .......................................................................
  | (signature of Registrar)
 (Stamp of Commission)
-[Form 23 amended in Gazette 28 Apr 2006 p. 1656; 4 Jul 2014 p. 2415.]
+[Form 23 amended: Gazette 28 Apr 2006 p. 1656; 4 Jul 2014 p. 2415.]
 Form 24 — Certificate of registration as an organisation
 [r. 77(1)]
 Industrial Relations Act 1979
@@ -652,7 +652,7 @@ Given under my hand this ................................ day of ...............
  | ...............................................................................
  | (signature of Registrar)
 (Stamp of Commission)
-[Form 24 amended in Gazette 4 Jul 2014 p. 2415.]
+[Form 24 amended: Gazette 4 Jul 2014 p. 2415.]
 Form 25 — Certificate of registration as an industrial association
 [r. 77(2)]
 Industrial Relations Act 1979
@@ -668,7 +668,7 @@ Given under my hand this .............................. day of .................
  | .............................................................................
  | (signature of Registrar)
 (Stamp of Commission)
-[Form 25 amended in Gazette 4 Jul 2014 p. 2415.]
+[Form 25 amended: Gazette 4 Jul 2014 p. 2415.]
 Form 26 — Certificate of registration as an organisation formed by amalgamation
 [r. 77(3)]
 Industrial Relations Act 1979
@@ -686,7 +686,7 @@ Given under my hand this ............................. day of ..................
  | ...............................................................................
  | (signature of Registrar)
 (Stamp of Commission)
-[Form 26 amended in Gazette 4 Jul 2014 p. 2415.]
+[Form 26 amended: Gazette 4 Jul 2014 p. 2415.]
 Form 27 — Certificate of registration of alteration of rules
 [r. 77(4)]
 Industrial Relations Act 1979
@@ -701,7 +701,7 @@ Given under my hand this .............................. day of .................
  | ...............................................................................
  | (signature of Registrar)
 (Stamp of Commission)
-[Form 27 amended in Gazette 4 Jul 2014 p. 2415.]
+[Form 27 amended: Gazette 4 Jul 2014 p. 2415.]
 Form 28 — Certificate of registration of change of name
 [r. 77(5)]
 Industrial Relations Act 1979
@@ -716,7 +716,7 @@ Given under my hand this ............................. day of ..................
  | .................................................................................
  | (signature of Registrar)
 (Stamp of Commission)
-[Form 28 amended in Gazette 4 Jul 2014 p. 2415.]
+[Form 28 amended: Gazette 4 Jul 2014 p. 2415.]
 Form 29 — Application by secretary for authority to be issued
 [r. 82(1)]
 Industrial Relations Act 1979
@@ -737,7 +737,7 @@ for the issue of an authority under section 49J of the Industrial Relations Act 
  | .....................................................................................
  | (signature of organisation secretary)
 Dated at Perth this ................................ day of ........................................... 20...................
-[Form 29 amended in Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
+[Form 29 amended: Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
 Form 30 — Application by secretary for revocation of an authority
 [r. 82(2)]
 Industrial Relations Act 1979
@@ -758,7 +758,7 @@ for the revocation of an authority issued under section 49J of that Act to —
  | ....................................................................................
  | (signature of organisation secretary)
 Dated at Perth this ..................................... day of ..................................... 20 ..................
-[Form 30 amended in Gazette 28 Apr 2006 p. 1656; 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
+[Form 30 amended: Gazette 28 Apr 2006 p. 1656; 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
 ## Form 31A — Notice of appeal against a decision to take removal action under Prisons Act 1981
 [r. 89B]
 Industrial Relations Act 1979
@@ -777,7 +777,7 @@ The appellant seeks: oan order that the appellant’s removal is, and is to be t
  | ..................................................................
  | (signature of appellant)
 NOTE:Unless the Commission otherwise directs, within 7 days after the notice is filed, the appellant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on the chief executive officer and as soon as reasonably practicable file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 31A inserted in Gazette 21 Aug 2015 p. 3345.]
+[Form 31A inserted: Gazette 21 Aug 2015 p. 3345.]
 ## Form 31B — Notice of appeal against a decision to take removal action under Young Offenders Act 1994
 [r. 89I]
 Industrial Relations Act 1979
@@ -796,7 +796,7 @@ The appellant seeks: oan order that the appellant’s removal is, and is to be t
  | ..................................................................
  | (signature of appellant)
 NOTE:Unless the Commission otherwise directs, within 7 days after the notice is filed, the appellant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on the chief executive officer and as soon as reasonably practicable file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 31B inserted in Gazette 21 Aug 2015 p. 3346.]
+[Form 31B inserted: Gazette 21 Aug 2015 p. 3346.]
 Form 31 — Notice of appeal against a decision of the Commissioner of Police to take removal action
 [r. 90]
 Industrial Relations Act 1979
@@ -816,4 +816,4 @@ The relief sought is ...........................................................
  | ......................................................................
  | (signature of appellant)
 NOTE:Unless the Commission otherwise directs, within 7 days after the notice is filed, the appellant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on the Commissioner of Police and as soon as reasonably practicable file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 31 inserted in Gazette 4 Jul 2014 p. 2416-17.]
+[Form 31 inserted: Gazette 4 Jul 2014 p. 2416-17.]
