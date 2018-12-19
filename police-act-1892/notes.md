@@ -121,10 +121,7 @@ Police Amendment Act 2009 Pt. 2 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 
 Reprint 14: The Police Act 1892 as at 16 Apr 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 42(3), 43(2), 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Police Amendment Act 2011 | 12 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see s. 2(a); Act other than s. 1 and 2: 13 Jan 2018 (see s. 2(b) and Gazette 12 Jan 2018 p. 115)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Industrial Relations Amendment Act 2018 s. 70 | 39 of 2018 | 12 Dec 2018 | To be proclaimed (see s. 2(b))
+Industrial Relations Amendment Act 2018 s. 70 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 14 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Part IIIA commenced 1 Apr 2008.
 Now known as the Police Act 1892; short title changed (see note under s. 3).
@@ -149,17 +146,6 @@ repeal day means the day on which section 64 comes into operation.
 (1) In this section —
 repeal day means the day on which section 65 comes into operation.
 (2) If immediately before repeal day any property is subject to an embargo notice granted under the Police Act 1892 section 90B, whether the property was seized under Part V of that Act or under an Act that refers to that section, then on and after repeal day sections 90B and 90C of that Act apply to and in respect of the notice as if they had not been repealed.
-On the date as at which this compilation was prepared, the Industrial Relations Amendment Act 2018 s. 70 had not come into operation. It reads as follows:
-70.Police Act 1892 amended
-(1) This section amends the Police Act 1892.
-(2) In section 33S in the Table:
-(a) delete “s. 31(6)”;
-(b) in the item relating to section 32 delete the first paragraph and insert:
-Section 32(1) is to be read as if a reference to “Where an industrial matter has been referred to the Commission the Commission shall” were a reference to “If the Commission is dealing with an appeal instituted under the Police Act 1892 section 33P, the Commission may recommend that the parties to the appeal”.
-(c) delete the item relating to section 34 and insert:
-s. 34 | A reference in subsection (1) to “an award, order or declaration” is to be read as if it were a reference to “an order”. A reference in subsection (4) to “no award, order, declaration, finding, or proceeding” is to be read as if it were a reference to “no decision, order, finding or proceeding”.
-(d) delete the item relating to section 90 and insert:
-s. 90 | A reference in subsection (1) to “any decision of the Full Bench, the Commission on an application under section 49(11) or the Commission in Court Session” is to be read as if it were a reference to “a decision of the Commission under the Police Act 1892 section 33U”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

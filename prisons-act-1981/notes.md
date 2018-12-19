@@ -60,12 +60,12 @@ Reprint 8: The Prisons Act 1981 as at 12 Feb 2016 (includes amendments listed ab
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 5 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
+Industrial Relations Amendment Act 2018 s. 71 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
- | Industrial Relations Amendment Act 2018 s. 71 | 39 of 2018 | 12 Dec 2018 | To be proclaimed (see s. 2(b))
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
@@ -96,16 +96,6 @@ On the date as at which this compilation was prepared, the Criminal Law Amendmen
 (ii) his or her whole life in custody;
 or
 (b) whose release is to be determined by the Governor.
-On the date as at which this compilation was prepared, the Industrial Relations Amendment Act 2018 s. 71 had not come into operation. It reads as follows:
-71.Prisons Act 1981 amended
-(1) This section amends the Prisons Act 1981.
-(2) In section 110B in the Table:
-(a) in the item relating to section 32 delete the first paragraph and insert:
-Section 32(1) is to be read as if a reference to “Where an industrial matter has been referred to the Commission the Commission shall” were a reference to “If the Commission is dealing with an appeal instituted under the Prisons Act 1981 section 106, the Commission may recommend that the parties to the appeal”.
-(b) delete the item relating to section 34 and insert:
-s. 34 | A reference in subsection (1) to “an award, order or declaration” is to be read as if it were a reference to “an order”. A reference in subsection (4) to “no award, order, declaration, finding, or proceeding” is to be read as if it were a reference to “no decision, order, finding or proceeding”.
-(c) delete the item relating to section 90 and insert:
-s. 90 | A reference in subsection (1) to “any decision of the Full Bench, the Commission on an application under section 49(11) or the Commission in Court Session” is to be read as if it were a reference to “a decision of the Commission under the Prisons Act 1981 section 110E”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

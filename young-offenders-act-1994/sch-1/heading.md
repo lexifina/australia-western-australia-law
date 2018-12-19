@@ -1,10 +1,10 @@
 ## Schedule 1 — Schedule 1 offences
 [s. 3, 22, 25 and 55]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Offences —
-·for which a caution cannot be given, and
-·which cannot be referred to a juvenile justice team, and
-·for which a conviction will normally be recorded
+•for which a caution cannot be given, and
+•which cannot be referred to a juvenile justice team, and
+•for which a conviction will normally be recorded
 Enactment | Description of offence
 1.The Criminal Code
 s. 125 | Perjury — if the offender commits the crime in order to procure the conviction of another person for a crime punishable with imprisonment for life
@@ -62,4 +62,4 @@ s. 67 | Failure to comply with s. 66 requirement to provide sample, allow sample
 s. 67AA | Failing to undergo a driver assessment, allow taking of a blood sample or provide a urine sample
 s. 67AB | Failing to provide a sample of oral fluid or allow taking of a blood sample
 s. 67A | Failure to comply with other requirements made under s. 66 to 66E
-[Schedule 1 amended by No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4); No. 25 of 2016 s. 21(2); No. 51 of 2016 s. 56.]
+[Schedule 1 amended: No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4); No. 25 of 2016 s. 21(2); No. 51 of 2016 s. 56.]
