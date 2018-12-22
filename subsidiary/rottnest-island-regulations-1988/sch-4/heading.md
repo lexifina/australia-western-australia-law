@@ -1,6 +1,6 @@
 ## Schedule 4 — Offences to which modified penalties apply
 [r. 73]
-[Heading inserted in Gazette 8 Dec 2009 p. 5007.]
+[Heading inserted: Gazette 8 Dec 2009 p. 5007.]
 Item | Regulation | Matter to which regulation relates | Modified penalty $
 1. | 5(4) | Failing or refusing to pay admission, not being a passenger on commercial transport | 150
 2AAA. | 6(1) | Failing to collect, or remit fees collected, from ferry passengers | 200
@@ -80,5 +80,5 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 49. | 74B(1) | Altering information on sticker or document issued by the Authority | 200
 50. | 74B(2) | Wrongly displaying a sticker on a vessel | 200
 51. | 74C | Altering information on authorisation issued by mooring site licensee | 200
-[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4; 24 Jan 2014 p. 114; 22 Sep 2015 p. 3861; 5 Apr 2016 p. 1029; 25 Oct 2016 p. 4877.]
-[Schedule 5 deleted in Gazette 22 Sep 2015 p. 3862.]
+[Schedule 4 inserted: Gazette 8 Dec 2009 p. 5007-9; amended: Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4; 24 Jan 2014 p. 114; 22 Sep 2015 p. 3861; 5 Apr 2016 p. 1029; 25 Oct 2016 p. 4877.]
+[Schedule 5 deleted: Gazette 22 Sep 2015 p. 3862.]
