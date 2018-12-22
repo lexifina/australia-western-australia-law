@@ -49,6 +49,7 @@ Rottnest Island Amendment Regulations (No. 3) 2016 | 25 Oct 2016 p. 4874-7 | r. 
 Rottnest Island Amendment Regulations 2017 | 2 May 2017 p. 2305-6 | r. 1 and 2: 2 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Reprint 6: The Rottnest Island Regulations 1988 as at 12 Jan 2018 (includes amendments listed above)
 Rottnest Island Amendment Regulations 2018 | 22 Jun 2018 p. 2182-3 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
+Rottnest Island Amendment Regulations (No. 2) 2018 | 21 Dec 2018 p. 4854-6 | r. 1 and 2: 21 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2018 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
