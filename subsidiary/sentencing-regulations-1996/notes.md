@@ -30,6 +30,7 @@ Attorney General Regulations Amendment (Travel Agents) Regulations 2016 Pt. 4 | 
 Sentencing Amendment Regulations (No. 2) 2017 | 29 Sep 2017 p. 4983-5 | r. 1 and 2: 29 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2017 (see r. 2(b) and Gazette 29 Sep 2017 p. 4983)
 Reprint 4: The Sentencing Regulations 1996 as at 21 Sep 2018 (includes amendments listed above)
 Sentencing Amendment Regulations (No. 2) 2018 | 30 Oct 2018 p. 4333-4 | r. 1 and 2: 30 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2018 (see r. 2(b))
+Sentencing Amendment Regulations 2018 | 28 Dec 2018 p. 4883-4 | r. 1 and 2: 28 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2018 (see r. 2(b) and Gazette 28 Dec 2018 p. 4879)
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
 The Credit (Administration) Act 1984 s. 37, 38, 39(4) and (6) were deleted by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 29.
 The following sections of The Criminal Code have been deleted:
@@ -65,4 +66,3 @@ non-complying person8B(1)
 prosecutor4B(8), 10(8)
 Sheriff’s costs8B(1)
 superior court application5B(1)
-By Authority: KEVIN J. McRAE, Government Printer

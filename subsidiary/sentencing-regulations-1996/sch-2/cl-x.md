@@ -1,5 +1,4 @@
 ### Acts
-Aerial Spraying Control Act 1966 s. 6, 9(4)
 Bail Act 1982 s. 20(4), 50D(2), 60
 Biological Control Act 1986 s. 41, 43
 Botanic Gardens and Parks Authority Act 1998 s. 30
