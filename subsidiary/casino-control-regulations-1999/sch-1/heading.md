@@ -13,7 +13,7 @@ Date of Service: ............................
 5. | Payment may be made by completing item 6 and either — (a)posting this form and a cheque, money order or postal note for the amount of the modified penalty specified in item 2, to the Gaming and Wagering Commission, P.O. Box 6119, East Perth, W.A. 6892; or (b)delivering this form and paying the amount to the Gaming and Wagering Commission, 1st Floor, Hyatt Centre, 87 Adelaide Terrace, Perth, W.A. 6000.
 6. | I, .............................................................................................................. (name) of ............................................................................................................ (number and street) ................................................................................................................. (town or suburb)(postcode) agree to pay the modified penalty for the offence indicated in this form. ....................................... (Signature of offender)
 * Delete whichever is inapplicable
-[Form 1 amended in Gazette 30 Jan 2004 p. 413.]
+[Form 1 amended: Gazette 30 Jan 2004 p. 413.]
 ## Form 2
 Western Australia
 Casino Control Act 1984, s. 29K
@@ -22,4 +22,4 @@ No: .....................
 Date of Service: ............................
 To: ...................................................................................................................... (name) of ........................................................................................................................ (address) Infringement notice No.: .................... served on you on the .............. day of ......................................, for the offence described below is hereby withdrawn. ................................................... Authorised officer for the Gaming and Wagering Commission of Western Australia
 Section | Description of offence | Modified penalty
-[Form 2 amended in Gazette 30 Jan 2004 p. 413.]
+[Form 2 amended: Gazette 30 Jan 2004 p. 413.]
