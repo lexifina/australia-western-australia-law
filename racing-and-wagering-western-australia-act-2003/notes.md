@@ -17,50 +17,16 @@ Racing and Wagering Legislation Amendment Act 2009 Pt. 4 | 29 of 2009 | 23 Nov 2
 Statutes (Repeals) Act 2014 s. 9 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
 Associations Incorporation Act 2015 s. 227 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div 5 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 2 | 37 of 2018 | 12 Dec 2018 | 1 Jan 2019 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 2 and Div. 2 Subdiv. 3 | 37 of 2018 | 12 Dec 2018 | Pt. 8 Div. 1 Subdiv. 2: 1 Jan 2019 (see s. 2(c)) Pt. 8 Div. 2 Subdiv. 3: to be proclaimed (see s. 2(b))
+Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 3 | 37 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
 Under the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 7(2) the appointed day is 30 Jan 2004 (see Gazette 30 Jan 2004 p. 401).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 is a transitional provision that is of no further effect.
 The amendment in the State Superannuation Amendment Act 2007 s. 86 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 2 and Div. 2 Subdiv. 3 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 3 had not come into operation. It reads as follows:
 Part 8 — Other Acts amended
-Division 1 — Amendments commencing on 1 January 2019
-Subdivision 2 — Racing and Wagering Western Australia Act 2003 amended
-35.Act amended
-This Subdivision amends the Racing and Wagering Western Australia Act 2003.
-36.Section 68 amended
-In section 68(3) delete “section 107A(2).” and insert:
-sections 107A(2) and 107B(3).
-37.Section 77 amended
-In section 77(2)(da) delete “section 107A(2); and” and insert:
-sections 107A(2) and 107B(3); and
-38.Section 102 amended
-In section 102(2)(a)(ii) after “paid” insert:
-or payable
-39.Section 106 amended
-After section 106(1)(g) insert:
-(ga) any amount of betting tax payable under the Betting Tax Assessment Act 2018 section 15;
-40.Section 107B inserted
-After section 107A insert:
-107B.Allocation and distribution of proportion of funds from betting tax
-(1) Each month the Treasurer must pay to RWWA an amount equal to 30% of the amount of betting tax imposed by the Betting Tax Act 2018 section 4 that was credited to the Consolidated Account in the previous month.
-(2) Payments under subsection (1) must be —
-(a) charged to the Consolidated Account which is appropriated accordingly; and
-(b) credited to an account (the betting tax account) maintained under section 88 for the sole purpose of dealing with those payments under this section.
-(3) The funds in the betting tax account must be paid or credited by RWWA, in such amounts as it determines, to —
-(a) thoroughbred racing clubs registered with RWWA; and
-(b) harness racing clubs registered with RWWA; and
-(c) greyhound racing clubs registered with RWWA.
-41.Part 9 inserted
-After section 122 insert:
-Part 9 — Transitional provisions for Betting Tax Assessment Act 2018
-123.Application of s. 102 on or after 1 January 2019
-Section 102 does not apply to or in relation to a wager made on or after 1 January 2019.
-124.Application of s. 107 on or after 1 January 2019
-(1) Section 107 does not apply to moneys received by RWWA in respect of totalisator or fixed odds wagering if the wagering occurs on or after 1 January 2019.
-(2) For the purposes of subsection (1) wagering occurs when a wager is placed.
 Division 2 — Amendments commencing on proclamation
 Subdivision 3 — Racing and Wagering Western Australia Act 2003 amended
 67.Act amended
