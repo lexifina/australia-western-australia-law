@@ -1,5 +1,5 @@
 ## Schedule 2 — Prescribed penalties under section 36(1)
-[Heading inserted in Gazette 10 Jun 2008 p. 2495.]
+[Heading inserted by Gazette 10 Jun 2008 p. 2495.]
 Section | Description of offence | Modified penalty
  |  | $
 41(3) | Being concerned in the conduct of gambling at a common gaming house | 250
@@ -19,4 +19,4 @@ Regulation | Description of offence | Modified penalty
  |  | $
 38A(1) | Conducting a permitted lottery otherwise than in accordance with a permit | 100
 38A(2) | Conducting a standard or continuing lottery otherwise than in accordance with the regulations | 100
-[Schedule 2 inserted in Gazette 10 Jun 2008 p. 2495-6; amended in Gazette 12 Aug 2011 p 3250.]
+[Schedule 2 inserted by Gazette 10 Jun 2008 p. 2495-6; amended by Gazette 12 Aug 2011 p 3250.]

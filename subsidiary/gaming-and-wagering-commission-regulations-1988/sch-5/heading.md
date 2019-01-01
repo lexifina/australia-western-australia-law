@@ -1,6 +1,6 @@
 ## Schedule 5 — Conditions for trade promotion lottery
 [r. 36A]
-[Heading inserted in Gazette 6 Sep 2016 p. 3832.]
+[Heading inserted by Gazette 6 Sep 2016 p. 3832.]
 1.There must be no cost to enter the lottery.
 2.If entry to the lottery is made using a telephone or other electronic medium, the cost of using the telephone or other medium to make the entry must not exceed 55 cents.
 3.If entry to the lottery is made using the Internet, there must be no cost to the participant to register the participant’s name other than the cost paid by the participant to access the website via the internet service provider.
@@ -26,4 +26,4 @@ and
 14.If the lottery has commenced, it cannot be cancelled or withdrawn without the prior written approval of the Commission.
 15.Records relating to the lottery must be kept for 12 months and must be made available to an authorised officer or member of the Police Force on request.
 16.If practicable, members of the public must be given the opportunity to witness the prize draw. If that is not practicable, audit records confirming the prize draw must be made available to an authorised officer or member of the Police Force on request.
-[Schedule 5 inserted in Gazette 6 Sep 2016 p. 3832-3.]
+[Schedule 5 inserted by Gazette 6 Sep 2016 p. 3832-3.]

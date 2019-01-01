@@ -33,7 +33,7 @@ agree to pay the modified penalty for the offence indicated in this form.
 ..............................................
 (Signature of offender)
 *Delete whichever is inapplicable
-[Form 1 amended in Gazette 30 Jan 2004 p. 416.]
+[Form 1 amended by Gazette 30 Jan 2004 p. 416.]
 Form 2
 Gaming and Wagering Commission Act 1987
 [s. 36(7)]
@@ -47,7 +47,7 @@ Infringement notice No ...................... served on you on the .............
 Authorised officer for
 the Gaming and Wagering Commission of Western Australia.
 SectionDescription of offenceModified penalty
-[Form 2 amended in Gazette 30 Jan 2004 p. 416.]
+[Form 2 amended by Gazette 30 Jan 2004 p. 416.]
 Form 3
 Gaming and Wagering Commission Act 1987
 [s. 47; 51]
@@ -78,7 +78,7 @@ Insert
 (7)The duration of the period concerned, or the days authorised.
 (8)Signature of the officer of the Commission or, in the case of a function permit, of the magistrate by whom the permit was issued.
 *Delete if inapplicable.
-[Form 3 amended in Gazette 30 Jan 2004 p. 416.]
+[Form 3 amended by Gazette 30 Jan 2004 p. 416.]
 Form 4
 Gaming and Wagering Commission Act 1987
 [s. 25]
@@ -99,4 +99,4 @@ peace granting the warrant.
 (1)Delete if any inapplicable.
 (2)Insert particulars of premises.
 (3)Insert the name and designation of the authorised officer or member of the Police Force.
-[Form 4 inserted in Gazette 7 Oct 1988 p. 4106; amended in Gazette 30 Jan 2004 p. 416.]
+[Form 4 inserted by Gazette 7 Oct 1988 p. 4106; amended by Gazette 30 Jan 2004 p. 416.]
