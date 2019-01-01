@@ -1,7 +1,7 @@
 ## Schedule 1
 [Regulation 3]
 ## Forms
-[Forms 1-18 deleted by Gazette 1 May 2007 p. 1887.]
+[Forms 1-18 deleted: Gazette 1 May 2007 p. 1887.]
 Form 19
 Liquor Control Act 1988
 [Regulation 19(1)]
@@ -37,7 +37,7 @@ ________________________________Date: ____ / ____ / ____Ph No: _________________
 ________________________________Date: ____ / ____ / ____Ph No: _________________
 FOR OFFICE | DATE RECEIVED:____ / ____ / ____ | AMOUNT PAYABLE: $
 USE ONLY | DATE PAID: ____ / ____ / ____ | PAYMENT DETAILS:
-[Form 19 inserted by Gazette 9 Jul 2004 p. 2774-5.]
+[Form 19 inserted: Gazette 9 Jul 2004 p. 2774-5.]
 Form 19A
 Liquor Control Act 1988
 [Regulation 19(1)]
@@ -72,7 +72,7 @@ ________________________________Date: ____ / ____ / ____Ph No: _________________
 ________________________________Date: ____ / ____ / ____Ph No: _________________
 FOR OFFICE | DATE RECEIVED: ____ / ____ / ____ | AMOUNT PAYABLE: $
 USE ONLY | DATE PAID:____ / ____ / ____ | PAYMENT DETAILS:
-[Form 19A inserted by Gazette 9 Jul 2004 p. 2776-7.]
+[Form 19A inserted: Gazette 9 Jul 2004 p. 2776-7.]
 Form 20
 Liquor Control Act 1988
 [Section 161]
@@ -95,5 +95,5 @@ at .............................................................................
 .................................................................
 Signature of Justice of the Peace granting
 the warrant
-[Form 20 amended by Gazette 28 Sep 2007 p. 4930-1.]
-[Forms 21 and 22 deleted by Gazette 2 Oct 2018 p. 3801.]
+[Form 20 amended: Gazette 28 Sep 2007 p. 4930-1.]
+[Forms 21 and 22 deleted: Gazette 2 Oct 2018 p. 3801.]
