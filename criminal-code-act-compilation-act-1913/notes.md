@@ -135,7 +135,7 @@ Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 2 | 46 of
 Courts Legislation Amendment and Repeal Act 2004 Pt. 9 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Law Amendment (Simple Offences) Act 2004 Pt. 2 (s. 3-39) | 70 of 2004 (as amended by No. 24 of 2005 s. 63; No. 2 of 2008 s. 76(2)) | 8 Dec 2004 | Pt. 2 other than s. 37 and 39: 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Code Amendment (Racial Vilification) Act 2004 | 80 of 2004 (as amended by No. 2 of 2008 s. 6(2), 7(2) and 8(2)) | 8 Dec 2004 | 8 Dec 2004 (see s. 2)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(7)) | 16 Dec 2004 | Pt. 5, s. 80 (Sch. 2 cl. 36 (the amendments to s. 17, 711 and 716)) and s. 82: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(7)) | 16 Dec 2004 | Pt. 5, s. 80 (Sch. 2 cl. 36 (the amendments to s. 17, 711 and 716)) and s. 82: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Defamation Act 2005 s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
@@ -184,12 +184,12 @@ Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 4 (s. 97-100) | 49 of 2016 | 29 Nov 2016 | s. 97, 98 and 100: 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157); s. 99: 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Sentencing Legislation Amendment Act 2016 Pt. 2 Div. 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Reprint 19: The Criminal Code Act Compilation Act 1913 as at 22 Sep 2017 (includes amendments listed above)
+Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 | 28 of 2018 | 2 Nov 2018 | 1 Jan 2019 (see s. 2(b) and Gazette 21 Dec 2018 p. 4845)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 2 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
-Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 | 28 of 2018 | 2 Nov 2018 | 1 Jan 2019 (see s. 2(b)) and Gazette 21 Dec 2018 p. 4845)
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -239,27 +239,6 @@ Delete section 297(4)(c)(iii) and insert:
 309.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
-On the date as at which this compilation was prepared, the Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — The Criminal Code amended
-6.Act amended
-This Part amends The Criminal Code.
-7.Section 338B amended
-In section 338B delete the Summary conviction penalty and insert:
-Summary conviction penalty:
-(a)in a case to which paragraph (a) above applies: imprisonment for 3 years and a fine of $36 000; or
-(b)in a case to which paragraph (b) above applies: imprisonment for 18 months and a fine of $18 000.
-8.Section 401 amended
-In section 401(3) delete “$10 000” and insert:
-$50 000
-9.Section 409 amended
-In section 409(2) delete “$10 000” and insert:
-$50 000
-10.Section 426 amended
-In section 426(2) delete “$10 000,” and insert:
-$50 000,
-11.Section 527 amended
-In section 527(2) delete “$10 000” and insert:
-$50 000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
