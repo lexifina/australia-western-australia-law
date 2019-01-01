@@ -1,0 +1,6 @@
+### Salmon Holes
+(1) All CALM land bounded by a line commencing at the intersection of 35°06'03" south latitude and 117°58'09" east longitude; then extending east along the geodesic to the intersection of 35°06'03" south latitude and 117°58'33" east longitude; then south along the geodesic to the intersection of 35°06'10" south latitude and 117°58'33" east longitude; then west along the geodesic to the intersection of 35°06'10" south latitude and 117°58'09" east longitude; then north along the geodesic to the commencement point.
+(2) All CALM land bounded by a line commencing at the intersection of 35°06'15" south latitude and 117°58'01" east longitude; then extending east along the geodesic to the intersection of 35°06'15" south latitude and 117°58'07" east longitude; then south along the geodesic to the intersection of 35°06'27" south latitude and 117°58'07" east longitude; then west along the geodesic to the intersection of 35°06'27" south latitude and 117°58'01" east longitude; then north along the geodesic to the commencement point.
+[Division 1 inserted: Gazette 11 Dec 2018 p. 4702.]
+## Division 2 — Plans for information purposes
+[Heading inserted: Gazette 11 Dec 2018 p. 4703.]
