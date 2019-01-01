@@ -9,7 +9,7 @@ AS 1824.2-1985 Insulation coordination (phase-to-earth and phase-to-phase, above
 AS 2676.1-1992 Guide to the installation, maintenance, testing and replacement of secondary batteries in buildings — Vented cells.
 AS 2676.2-1992 Guide to the installation, maintenance, testing and replacement of secondary batteries in buildings — Sealed cells.
 AS 5577-2013 Electricity network safety management systems.
-AS/NZS 3000:2007 Electrical installations (known as the Australia/New Zealand Wiring Rules).
+AS/NZS 3000:2018 Electrical installations (known as the Australian/New Zealand Wiring Rules).
 AS/NZS 3013:2005 Electrical installations — Classification of the fire and mechanical performance of wiring system elements.
 AS/NZS 3100:2009 Approval and test specification — General requirements for electrical equipment.
 AS 3865-1991 Calculation of the effects of short-circuit currents.
@@ -24,6 +24,7 @@ ENA Doc 013-2006 Network passport guideline.
 ENA Doc 014-2006 National low voltage electricity network electrical protection guideline.
 ENA Doc 015-2006 National guidelines for prevention of unauthorised access to electricity infrastructure.
 ENA Doc 016-2006 Guideline for the management of risks when working alone.
+[Division 1 amended: Gazette 2 Oct 2018 p. 3794.]
 ## Division 2 — Overhead lines
 Code of Practice for Personnel Electrical Safety for Vegetation Control Work Near Live Power Lines, issued by the Director in July 2012, as from time to time amended and for the time being in force.
 AS/NZS 1768:2007 Lightning protection.

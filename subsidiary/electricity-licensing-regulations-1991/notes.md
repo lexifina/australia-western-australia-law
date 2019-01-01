@@ -50,10 +50,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 23 J
 Electricity (Licensing) Amendment Regulations (No. 2) 2017 | 14 Nov 2017 p. 5597-602 | r. 1 and 2: 14 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2018 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 3) 2018 | 7 Jun 2018 p. 1815-24 | r. 1, 2 and 10: 7 Jun 2018 (see r. 2(a)); Regulations other than r. 1, 2 and 10: 8 Jun 2018 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Electricity Amendment Regulations 2018 Pt. 3 | 2 Oct 2018 p. 3792-3 | 1 Jan 2019 (see r. 2(b))
+Electricity Amendment Regulations 2018 Pt. 3 | 2 Oct 2018 p. 3784-94 | 1 Jan 2019 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
@@ -63,29 +60,13 @@ The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
 The Electricity (Licensing) Amendment Regulations 2018 were repealed by the Electricity (Licensing) Amendment Regulations (No. 3) 2018 regulation 10 before they came into operation, see Gazette 7 June 2018 p. 1824.
-On the date as at which this compilation was prepared, the Electricity Amendment Regulations 2018 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Electricity (Licensing) Regulations 1991 amended
-20.Regulations amended
-This Part amends the Electricity (Licensing) Regulations 1991.
-21.Regulation 3 amended
-(1) In regulation 3(1) delete the definition of Australian/New Zealand Wiring Rules.
-(2) In regulation 3(1) insert in alphabetical order:
-AS, followed by a designation, means the Australian Standard having that designation published by Standards Australia, as amended from time to time;
-AS/NZS, followed by a designation, means the Australian/New Zealand Standard having that designation jointly published by Standards Australia and the Standards Council of New Zealand, as amended from time to time;
-Australian/New Zealand Wiring Rules means AS/NZS 3000:2018 Electrical installations (known as the Australian/New Zealand Wiring Rules);
-(3) In regulation 3(1) in the definition of main switchboard delete “clause 1.4.92;” and insert:
-clause 1.4.122;
-22.Regulation 19 amended
-In regulation 19(1A) in the definition of flexible cord delete “clause 1.4.36;” and insert:
-clause 1.4.40;
-23.Regulation 51 amended
-In regulation 51(3) in the definition of consumers mains delete “clause 1.4.33;” and insert:
-clause 1.4.37;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 agent50AA(1)
 approved5(1a)
+AS3(1)
+AS/NZS3(1)
 Australian/New Zealand Wiring Rules3(1)
 Board3(1)
 Chairman3(1)

@@ -1,6 +1,6 @@
 ## Schedule 1 — Prescribed offences and modified penalties
 [r. 342]
-[Heading inserted in Gazette 31 Dec 2010 p. 6888.]
+[Heading inserted: Gazette 31 Dec 2010 p. 6888.]
 Table 1 — Electricity Act 1945 offences
 Provision(s) | Description of offence under Electricity Act 1945 | Modified penalty
 For individual | For body corporate
@@ -12,10 +12,10 @@ s. 33F | Selling or hiring, or exposing or advertising for sale or hire apparatu
 Table 2 — Electricity Regulations 1947 offences
 Provision(s) | Description of offence under Electricity Regulations 1947 | Modified penalty
 For individual | For body corporate
-r. 13 | Owner of residential premises failing to ensure that at least 2 residual current devices are installed before certain events specified in the regulation occur | $1 000 | $4 000
-r. 14 | Owner of residential premises failing to ensure that at least 2 residual current devices are installed | $1 000 | $4 000
-r. 15A | New owner of residential premises failing to ensure that at least 2 residual current devices are installed | $1 000 | $4 000
-r. 15 | Owner of common property failing to ensure at least one residual current device is installed before 9 August 2011 | $1 000 | $4 000
+r. 13 | Owner of residential premises failing to ensure that residual current devices are properly installed before certain events specified in the regulation occur | $1 000 | $4 000
+r. 14 | Owner of residential premises failing to ensure that residual current devices are properly installed | $1 000 | $4 000
+r. 15A | New owner of residential premises failing to ensure that residual current devices are properly installed | $1 000 | $4 000
+r. 15 | Owner of common property failing to ensure residual current devices are properly installed in relation to the common property | $1 000 | $4 000
 r. 242(1) & 340 | Supplying electricity without receiving a notice of completion where one is required |  | $10 000
 r. 253(7)(a), (9)(b) & 340 | Failing to give effect to an order to modify inspection practice |  | $20 000
 r. 253(7)(b), (9)(b) & 340 | Failing to give effect to an order to review inspection practice and submit revised system plan and policy statement |  | $10 000
@@ -28,16 +28,18 @@ Provision(s) | Description of offence under Electricity (Licensing) Regulations 
 For individual | For body corporate
 r. 19(1) | Carrying out electrical work without a licence or permit | $1 000
 r. 19(2a) & 65 | Failing to ensure electrical work is checked, tested and certified | $1 000 | $4 000
-r. 28(1) & 65 | Failing to notify Board of change of address | $100 | $400
+r. 28(1) & 65 | Failing to notify Board of change of contact details | $100 | $400
 r. 33(1) & 65 | Carrying on business as an electrical contractor without a licence | $1 250 | $5 000
 r. 34 | Knowingly contracting unlicensed person to do electrical work | $1 250 | $5 000
 r. 35 | Falsely representing electrical work to be carried out by or on behalf of employer | $1 250 | $5 000
+r. 37(1) | Carrying out any in-house electrical installing work without a qualified employee or a licence | $1 250 | $5 000
 r. 38(4) | Licence holder nominating ineligible person to be nominee or permitting ineligible person to continue as nominee | $1 250 | $5 000
 r. 38(5) | Ineligible person permitting himself or herself to be nominated as nominee for licence or to continue to be nominee for licence | $1 250
 r. 44A(2) & 65 | Failing to comply with notice requiring details of insurance policy | $750 | $3 000
 r. 45(1) & 65 | Failing to display licence and certificate of registration at principal place of business | $1 000 | $3 000
 r. 45(1) & 65 | Failing to include licence number in advertisement | $200 | $800
 r. 45(2) & 65 | Failing to notify Board of change of business name, trading name or principal place of business | $100 | $400
+r. 47C | Failing to notify nominees of cancellation or suspension of licence | $1 250 | $5 000
 r. 49(1) & 65 | Carrying out electrical work contrary to requirements specified in r. 49(1) | $1 000 | $4 000
 r. 49A(b) & 65 | Not ensuring a design of electrical installation is accompanied by information about safe installation | $1 000 | $4 000
 r. 50AA(2) & 65 | Employer not ensuring persons are informed of electrical worker’s experience etc. | $500 | $2 000
@@ -83,4 +85,4 @@ r. 41(2) | Failure by network operator to inform Director and give details |  | 
 r. 41(3) | Failure by person who is to become network operator to inform Director and give details |  | $5 000
 r. 41(4) | Failure by person who is to cease to be network operator to inform Director and give details |  | $5 000
 r. 41(5) | Failure by network operator to give notice of change in name or contact details |  | $5 000
-[Schedule 1 inserted in Gazette 31 Dec 2010 p. 6888-92; amended in Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6.]
+[Schedule 1 inserted: Gazette 31 Dec 2010 p. 6888-92; amended: Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6; 2 Oct 2018 p. 3792.]
