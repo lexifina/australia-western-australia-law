@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the District Court of Western Australia Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the District Court of Western Australia Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | District Court of Western Australia Act 1969 | 84 of 1969 | 17 Nov 1969 | 1 Apr 1970 (see s. 2 and Gazette 26 Mar 1970 p. 903)
@@ -46,7 +46,7 @@ Compilation table
  | Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 32, 111 and 125 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
  | Acts Amendment (Court of Appeal) Act 2004 s. 32 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
  | Courts Legislation Amendment and Repeal Act 2004 Pt. 10 | 59 of 2004 (as amended by No. 5 of 2008 s. 24) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 7 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 7 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
  | Reprint 7: The District Court of Western Australia Act 1969 as at 19 Aug 2005 (includes amendments listed above)
  | Limitation Legislation Amendment and Repeal Act 2005 Pt. 5 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 6 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
@@ -58,11 +58,12 @@ Compilation table
  | Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 10 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 3 | 3 of 2017 | 21 Aug 2017 | 18 Sep 2017 (see s. 2(b))
 Reprint 9: The District Court of Western Australia Act 1969 as at 9 Mar 2018 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Court Jurisdiction Legislation Amendment Act 2018 Pt. 2 | 28 of 2018 | 2 Nov 2018 | 1 Jan 2019 (see s. 2(b) and Gazette 21 Dec 2018 p. 4845)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Court Jurisdiction Legislation Amendment Act 2018 Pt. 2 | 28 of 2018 | 2 Nov 2018 | 1 Jan 2019 (see s. 2(b)) and Gazette 21 Dec 2018 p. 4845)
+Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 Part 22 — Transitional provisions
@@ -78,7 +79,7 @@ If immediately before commencement a judgment of the Supreme Court, District Cou
 (a) if any proceedings for or in connection with enforcing the judgment are pending in a court, section 145 applies;
 (aa) if any enforcement process is in force in relation to the judgment, section 146 applies;
 (b) otherwise, the judgment may be enforced under and subject to the Civil Judgments Enforcement Act 2004.
-[Section 144 amended by No. 5 of 2008 s. 24.]
+[Section 144 amended: No. 5 of 2008 s. 24.]
 145.Pending proceedings to enforce a judgment
 (1) If immediately before commencement proceedings for or in connection with enforcing a judgment are pending in a court, then on commencement either —
 (a) the proceedings may be continued under the law in force immediately before commencement, despite the enactment of the Civil Judgments Enforcement Act 2004; or
@@ -131,34 +132,6 @@ Division 2 — General
 The Limitation Legislation Amendment and Repeal Act 2005 s. 10(2) reads as follows:
 10.Section 37 amended and a savings provision
 (2) The District Court of Western Australia Act 1969 section 37, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-........................................................... | .........
-District Court of Western Australia Act 1969 | s. 15
-........................................................... | .........
-On the date as at which this compilation was prepared, the Court Jurisdiction Legislation Amendment Act 2018 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — District Court of Western Australia Act 1969 amended
-3.Act amended
-This Part amends the District Court of Western Australia Act 1969.
-4.Section 42 amended
-Delete section 42(2) and insert:
-(2) The Court does not have jurisdiction to try an accused person charged with an indictable offence that is —
-(a) a crime under The Criminal Code section 279, 280, 283, 288 or 290; or
-(b) an offence, or offence of a class, prescribed in the regulations.
-5.Section 89A amended
-(1) Before section 89A(1) insert:
-(1A) The Governor may make regulations prescribing matters —
-(a) required or permitted to be prescribed by this Act; or
-(b) necessary or convenient to be prescribed for giving effect to this Act.
-(2) In section 89A(1) delete “The” and insert:
-Without limiting subsection (1A), the
-(3) In section 89A(2) delete “subsection (1),” and insert:
-subsection (1A) or (1),
-Note:The heading to amended section 89A is to read:
-Regulations
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
