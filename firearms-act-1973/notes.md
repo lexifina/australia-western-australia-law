@@ -42,11 +42,8 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 58 | 8 of 2009 | 21 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 20 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 69 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 Reprint 6: The Firearms Act 1973 as at 13 Feb 2015 (includes amendments listed above)
-Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Biodiversity Conservation Act 2016 s. 316 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -61,11 +58,6 @@ The Firearms Amendment Act 2004 s. 15(3) reads as follows:
 (3) The amendments made by this section do not affect the validity of a licence or permit that a person already holds under the Firearms Act 1973 on the day on which this section comes into operation, but on or after that day the grant, issue, or renewal of a licence or permit has to be in accordance with that Act as amended by this section.
 The Firearms Amendment Act 2004 s. 22(4)(a) and 26 had not come into operation when they were deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 59.
 The Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 had not come into operation when it was deleted by the Agriculture and Related Resources Protection Amendment Act 2010 s. 62.
-On the date as at which this compilation was prepared, the Biodiversity Conservation Act 2016 s. 316 had not come into operation. It reads as follows:
-316.Firearms Act 1973 amended
-(1) This section amends the Firearms Act 1973.
-(2) Delete section 23(10b) and insert:
-(11A) For the purposes of subsections (10) and (10a), the fact that a person uses or carries a firearm for the purposes of an activity authorised under the Biodiversity Conservation Act 2016 is not a reasonable excuse.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

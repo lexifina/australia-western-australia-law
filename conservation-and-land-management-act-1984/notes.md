@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 January 2017 of the Conservation and Land Management Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Conservation and Land Management Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Conservation and Land Management Act 1984 | 126 of 1984 | 8 Jan 1985 | s. 1 and 2: 8 Jan 1985; Act other than s. 1 and 2: 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
@@ -36,16 +36,16 @@ Compilation table
  | Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | 1 Jan 2011 (see s. 2 and Gazette 17 Dec 2010 p. 6350)
  | Reprint 4: The Conservation and Land Management Act 1984 as at 24 Apr 2003 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3)
  | Sentencing Legislation Amendment and Repeal Act 2003 s. 47 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
- | Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 20 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
+ | Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 20 published by Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
  | Economic Regulation Authority Act 2003 Sch. 2 cl. 4 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
  | Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 5 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
  | Statutes (Repeals and Minor Amendments) Act 2003 s. 21(2) and 39(1)-(10) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
  | Reprint 5: The Conservation and Land Management Act 1984 as at 24 Sep 2004 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
  | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
  | Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
- | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 15-17 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 14-16 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 29 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Petroleum Amendment Act 2007 s. 92 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
@@ -61,13 +61,13 @@ Compilation table
  | Water Services Legislation Amendment and Repeal Act 2012 s. 207 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
  | Swan and Canning Rivers Management Amendment Act 2015 s. 54 | 6 of 2015 | 9 Mar 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 19 Jun 2015 p. 2095)
 Conservation and Land Management Amendment Act 2015 Pt. 2 | 28 of 2015 | 19 Oct 2015 | s. 3, 50, 52, 55 to 58, 60 and 61: 12 Dec 2015 (see s. 2(b) and Gazette 11 Dec 2015 p. 4953); s. 4-49, 51, 53, 54, 59 and 62-71: 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
-Biodiversity Conservation Act 2016 Pt. 17 Div. 1 (other than s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309) | 24 of 2016 | 21 Sep 2016 | 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382)
-Reprint 9: The Conservation and Land Management Act 1984 as at 6 Jan 2017 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Biodiversity Conservation Act 2016 Pt. 17 Div. 1 | 24 of 2016 | 21 Sep 2016 | Pt. 17 Div. 1 (other than s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309): 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382); s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309: 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Reprint 9: The Conservation and Land Management Act 1984 as at 6 Jan 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Biodiversity Conservation Act 2016 s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Aquatic Resources Management Act 2016 Pt. 19 Div. 3 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Other notes
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -213,239 +213,6 @@ Executive Director means the Executive Director referred to in section 36 of the
 and, unless the contrary intention appears, other words and expressions in this section have the same respective meanings as they have in the Conservation and Land Management Act 1984.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
-On the date as at which this reprint was prepared, the Biodiversity Conservation Act 2016 s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309had not come into operation. They read as follows:
-Part 17 — Consequential amendments to other Acts
-Division 1 — Conservation and Land Management Act 1984 amended
-291.Section 19 amended
-In section 19(1):
-(b) after paragraph (g) insert:
-(haa) to participate in the preparation of the following documents under the Biodiversity Conservation Act 2016 Parts 5 and 6 when consulted in accordance with those Parts —
-(i) draft biodiversity management programmes;
-(ii) draft recovery plans;
-(iii) interim recovery plans;
-292.Section 33 amended
-(2) After section 33(1) insert:
-(2A) In subsection (1)(ca) —
-use includes use or development on a commercial basis.
-(3) Delete section 33(6) and insert:
-(6) To promote and encourage the use of fauna and flora for the purposes referred to in subsection (1)(ca), the Minister and the CEO may enter into an agreement with another person under which the Minister and the CEO agree to exercise the powers under the Biodiversity Conservation Act 2016 and this Act to grant, issue or refuse licences or permits —
-(a) to take flora in a manner that has the effect of conferring on the other person an exclusive or preferential right to take specified flora from specified land (other than private land); or
-(b) to take fauna in a manner that has the effect of conferring on the other person an exclusive or preferential right to take specified fauna from specified land (including private land in circumstances where consent to enter the land is obtained from the occupier of the land).
-(7A) In subsection (6) each of the following terms has the meaning given in the Biodiversity Conservation Act 2016 section 5(1) —
-occupier
-private land
-take
-(7B) An agreement under subsection (6) may provide for the exercise of powers referred to in that subsection to be conditional on the other person entering into an arrangement with the CEO for the sharing of profits.
-(4) Delete section 33(8).
-293.Section 34A amended
-(1) In section 34A(1) delete “a project or operation undertaken for a purpose mentioned in section 33(1)(ca) or (cc) —” and insert:
-the performance of a function referred to in section 33(1)(a), (ca), (cc) to (fb), (ha) or (hb) —
-(2) In section 34A(3) delete “engage in any scheme, project or operation referred to in subsection (1).” and insert:
-engage in —
-(a) a scheme for the establishment, management or utilisation of tree plantations; or
-(b) an activity related to a function referred to in section 33(1)(a), (ca), (cc) to (fb), (ha) or (hb).
-294.Section 37 amended
-In section 37 delete “Wildlife Conservation Act 1950” and insert:
-Biodiversity Conservation Act 2016
-295.Section 45 amended
-Delete section 45(3), (3a) and (4) and insert:
-(3) An instrument under subsection (1) may limit the functions of the person designated to functions specified in the instrument.
-(4) Subject to any limitation under subsection (3), wildlife officers —
-(a) have the functions conferred on them under this Act and the Biodiversity Conservation Act 2016; and
-(b) if authorised by the CEO for the purposes of this paragraph, have the functions conferred on them under the Bush Fires Act 1954; and
-(c) have the functions conferred on them under any other written law.
-(5A) Subject to any limitation under subsection (3), forest officers, rangers and conservation and land management officers —
-(a) have the functions conferred on them under this Act; and
-(b) if authorised by the CEO for the purposes of this paragraph, have the functions conferred on them under the Bush Fires Act 1954; and
-(c) have the functions conferred on them under any other written law.
-296.Section 46 amended
-In section 46(3) delete “by or under this Act or the Wildlife Conservation Act 1950” and insert:
-under this Act, the Biodiversity Conservation Act 2016 or another written law
-297.Section 48 amended
-In section 48(1) delete “1954 or the Wildlife Conservation Act 1950,” and insert:
-1954, the Biodiversity Conservation Act 2016 or another written law,
-299.Section 68 replaced
-Delete section 68 and insert:
-68.Biodiversity Conservation Account
-(1) An agency special purpose account called the Biodiversity Conservation Account is established under the Financial Management Act 2006 section 16.
-(2) The Biodiversity Conservation Account is a continuation of the Nature Conservation and National Parks Account referred to in section 68 of this Act as in force immediately before the commencement of the Biodiversity Conservation Act 2016 section 299.
-(3) The Biodiversity Conservation Account is to be credited with gifts, devises, bequests and donations made to that account.
-(4) The CEO is to apply money standing to the credit of the Biodiversity Conservation Account for the purpose of scientific research relating to biodiversity and biodiversity components in the State.
-301.Section 101B amended
-(1) In section 101B(2a) delete the passage that begins with “in accordance with” and continues to the end of the subsection and insert:
-in accordance with —
-(a) a licence granted under regulations made under section 130; or
-(b) a licence granted under regulations made under the Biodiversity Conservation Act 2016; or
-(c) an authorisation given under the Biodiversity Conservation Act 2016 section 40.
-(2) In section 101B(3)(d) delete “notices issued or regulations made under the Wildlife Conservation Act 1950” and insert:
-regulations made under the Biodiversity Conservation Act 2016, or an authorisation given under section 40 of that Act,
-302.Section 103A amended
-In section 103A(2) delete “Wildlife Conservation Act 1950” and insert:
-Biodiversity Conservation Act 2016
-304.Section 121 amended
-Delete section 121(6)(a) and insert:
-(a) limits the powers conferred on an enforcement officer under another provision of this Act or under the Biodiversity Conservation Act 2016, the Bush Fires Act 1954 or another written law; or
-305.Section 124 amended
-Delete section 124(2).
-306.Section 125 replaced
-Delete section 125 and insert:
-125.Application of Criminal Investigation Act 2006 and Criminal Investigation (Identifying People) Act 2002 to enforcement officers
-(1) For the purposes of the Criminal Investigation Act 2006 section 9(1) and the Criminal Investigation (Identifying People) Act 2002 section 5(1), designation as any of the following officers is to be taken to be an appointment to an office —
-(a) a wildlife officer under section 45(1)(a); or
-(b) a forest officer under section 45(1)(b); or
-(c) a ranger under section 45(1)(c); or
-(d) a conservation and land management officer under section 45(1)(d).
-(2) For the purposes of the Criminal Investigation Act 2006 —
-(a) the office of wildlife officer is prescribed under section 9(1)(a) of that Act; and
-(b) the following powers are prescribed under section 9(1)(b) of that Act in respect of that office —
-(i) the powers in Part 2 of that Act;
-(ii) the powers in Part 5 of that Act other than the power in section 44(2)(g)(iv) to do a strip search of a person;
-(iii) the powers in Part 6 of that Act;
-(iv) the powers in Part 8 of that Act to the extent that they authorise, or apply in relation to, the doing of a basic search of a person;
-(v) the powers in Part 9 of that Act to the extent that they authorise, or apply in relation to, the doing of a non-intimate forensic procedure on a person;
-(vi) the powers in Part 12 Divisions 2, 3 and 5 of that Act;
-(vii) the powers in Part 13 of that Act.
-(3) Despite the Criminal Investigation Act 2006 section 43(8)(b)(ii), a search warrant does not authorise a wildlife officer to do a strip search of a person.
-(4) For the purposes of the Criminal Investigation (Identifying People) Act 2002 —
-(a) each of the following offices is prescribed under section 5(1)(a) of that Act —
-(i) wildlife officer;
-(ii) forest officer;
-(iii) ranger;
-(iv) conservation and land management officer;
-(v) honorary wildlife officer;
-(vi) honorary forest officer;
-(vii) honorary ranger;
-(viii) honorary conservation and land management officer;
-and
-(b) the powers in Part 3 of that Act are specified under section 5(1)(b) of that Act in respect of each of those offices.
-126A.Department a prescribed agency for the Criminal and Found Property Disposal Act 2006
-The Department is a prescribed agency for the purposes of the Criminal and Found Property Disposal Act 2006.
-307.Section 127 amended
-(1) In section 127 delete “The regulations” and insert:
-(1) The regulations
-(2) At the end of section 127 insert:
-(2) Without limiting subsection (1)(d), the regulations may provide for a licence granted to a person under the Biodiversity Conservation Act 2016 to be included in a permit document or licence document issued to the person under this Act.
-308.Section 132 amended
-(1) In section 132(1) delete “this Act or the Wildlife Conservation Act 1950.” and insert:
-this Act.
-(2) In section 132(2) and (4) delete “or the Wildlife Conservation Act 1950”.
-309.Section 133 amended
-(1) In section 133(1) delete the passage that begins with “Wildlife Conservation Act 1950,” and continues to the end of the subsection and insert:
-Biodiversity Conservation Act 2016, other than —
-(a) this power of delegation; or
-(b) the power to make any instrument of legislative effect; or
-(c) a function that the Minister has under the Biodiversity Conservation Act 2016 section 260 or 261.
-(2) In section 133(2) delete the passage that begins with “Wildlife Conservation Act 1950,” and continues to the end of the subsection and insert:
-Biodiversity Conservation Act 2016, other than —
-(a) this power of delegation; or
-(b) a function delegated to the CEO under subsection (1); or
-(c) a function that the CEO has under the Biodiversity Conservation Act 2016 section 122, 125 or 126.
-On the date as at which this reprint was prepared, the Aquatic Resources Management Act 2016 Pt. 19 Div. 3 had not come into operation. It reads as follows:
-Part 19 — Consequential amendments to other Acts
-Division 3 — Conservation and Land Management Act 1984 amended
-313.Act amended
-This Division amends the Conservation and Land Management Act 1984.
-314.Section 3 amended
-(1) In section 3 delete the definitions of:
-aquaculture
-commercial fishing
-Fisheries Department
-Minister for Fisheries
-pearling activity
-recreational fishing
-(2) In section 3 insert in alphabetical order:
-aquaculture has the meaning given in the Aquatic Resources Management Act 2016 section 3(1);
-aquatic authorisation means an authorisation as defined in the Aquatic Resources Management Act 2016 section 3(1);
-Aquatic Resources Department means the Department as defined in the Aquatic Resources Management Act 2016 section 3(1);
-commercial fishing has the meaning given in the Aquatic Resources Management Act 2016 section 3(1);
-Minister for Aquatic Resources means the Minister to whom the administration of the Aquatic Resources Management Act 2016 is committed;
-recreational fishing has the meaning given in the Aquatic Resources Management Act 2016 section 3(1);
-(3) In section 3 in the definition of forest products delete “same meaning as it has” and insert:
-meaning given
-315.Section 8A amended
-(1) In section 8A(9) delete “Fisheries,” and insert:
-Aquatic Resources,
-(2) In section 8A(12) delete “Fisheries” (each occurrence) and insert:
-Aquatic Resources
-316.Section 13A amended
-Delete section 13A(2) and insert:
-(2) Subject to section 13D, aquaculture, commercial fishing and recreational fishing shall not be carried out in a marine nature reserve.
-317.Section 13B amended
-(1) In section 13B(3):
-(a) delete “Fish Resources Management Act 1994,” and insert:
-Aquatic Resources Management Act 2016,
-(b) delete “Fish Resources Management Act 1994” and insert:
-Aquatic Resources Management Act 2016
-(2) Delete section 13B(4).
-(3) In section 13B(5) delete “authorisation issued under the Fish Resources Management Act 1994,” and insert:
-aquatic authorisation,
-(4) In section 13B(6) delete “authorisation issued under the Fish Resources Management Act 1994,” and insert:
-aquatic authorisation,
-(5) In section 13B(7) delete “Fish Resources Management Act 1994,” and insert:
-Aquatic Resources Management Act 2016,
-(6) Delete section 13B(8).
-318.Section 13C amended
-(1) In section 13C(2) in the definition of commercial purposes delete paragraph (a) and insert:
-(a)aquaculture and commercial fishing; and
-(2) In section 13C(3) delete “Fish Resources Management Act 1994,” and insert:
-Aquatic Resources Management Act 2016,
-(3) In section 13C(4) delete “Fish Resources Management Act 1994” and insert:
-Aquatic Resources Management Act 2016
-(4) Delete section 13C(5) and (6).
-319.Section 13D replaced
-Delete section 13D and insert:
-13D.Effect of s. 13A, 13B and 13C on certain authorisations for fishing or aquaculture
-(1) Sections 13A and 13B do not affect the validity of an aquatic authorisation which authorises activity in relation to an area affected, after the issue or renewal of the authorisation, by a reservation under section 13 or by a notice under section 62.
-(2) Sections 13A and 13B do not prohibit activities authorised by an aquatic authorisation to which subsection (1) applies.
-(3) Sections 13A and 13B do not affect the validity of an aquaculture lease under the Aquatic Resources Management Act 2016 granted or renewed in relation to an area which is affected, after the grant or renewal, by a reservation under section 13 or by a notice under section 62.
-(4) Sections 13A and 13B do not prevent the renewal of an aquaculture licence under the Aquatic Resources Management Act 2016 if the licence —
-(a) is held by the holder of an aquaculture lease referred to in subsection (3); and
-(b) authorises aquaculture activity in the area under the lease.
-(5) Sections 13A, 13B and 13C do not affect an aquatic management plan if the plan was made in relation to an area affected, after the making of the plan, by a reservation under section 13 or by a notice under section 62, except as they affect an authorisation issued in relation to the area under the plan.
-(6) In subsection (5) —
-aquatic management plan means —
-(a)an aquatic resource use plan made under the Aquatic Resources Management Act 2016 section 24(1); or
-(b)a management plan continued under section 273 of that Act.
-320.Section 14 amended
-(1) In section 14(1a)(b) delete “Fisheries” and insert:
-Aquatic Resources
-(2) In section 14(6)(b) delete “Fisheries” and insert:
-Aquatic Resources
-321.Section 17 amended
-In section 17(6) delete “Fisheries” and insert:
-Aquatic Resources
-322.Section 26H amended
-In section 26H(1)(b) delete “Fisheries” and insert:
-Aquatic Resources
-323.Section 49 amended
-Delete section 49(c) and (d) and insert:
-(c) the CEO as defined in the Aquatic Resources Management Act 2016 section 3(1); and
-(d) a compliance officer as defined in the Aquatic Resources Management Act 2016 section 3(1).
-324.Section 59 amended
-(1) In section 59(3)(b) delete “Fisheries; and” and insert:
-Aquatic Resources; and
-(2) In section 59(5) delete “Fisheries” and insert:
-Aquatic Resources
-325.Section 60 amended
-In section 60(2a):
-(a) delete “Fisheries” and insert:
-Aquatic Resources
-(b) in paragraph (a) delete “aquaculture,” and insert:
-aquaculture or
-(c) in paragraph (a) delete “or pearling activity”;
-(d) in paragraph (b) delete “Fish Resources Management Act 1994 or the Pearling Act 1990.” and insert:
-Aquatic Resources Management Act 2016.
-326.Section 62 amended
-In section 62(3)(c) delete “Fisheries” and insert:
-Aquatic Resources
-327.Section 101B amended
-(1) In section 101B(2a) delete “fish and pearl oyster)” and insert:
-aquatic resources as defined in the Aquatic Resources Management Act 2016 section 3(1))
-(2) Delete section 101B(3)(a) and (b) and insert:
-(a) the Aquatic Resources Management Act 2016,
-328.Section 130 amended
-Delete section 130(2a) and insert:
-(2A) The Governor must not make regulations under subsection (1) that impose any restriction on the taking, in a marine park or marine management area, of an aquatic resource as defined in the Aquatic Resources Management Act 2016 section 3(1) in accordance with the provisions of that Act relating to aquaculture or commercial or recreational fishing.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -500,7 +267,7 @@ exclusive native title holder103A(1)
 Executive Body3
 fauna3
 firewood3
-Fisheries Department3
+Fisheries Department 3
 flora3
 forest lease3
 forest officer3
@@ -543,11 +310,11 @@ national park3
 National Parks Authority145
 nature reserve3
 nature reserves130(3)
-NCNP Account68(1)
 necessary operations33A(1)
 non-exclusive native title3
 NT Act3
 occupied land121(1)
+occupier33(7A)
 owner34B(8), 81, 114AA(1)
 park3
 Part VIII Division 1 authorisation103(2c)
@@ -561,7 +328,7 @@ pipeline licence13E(1)
 potential carrier81
 prior placement159(1)
 prior vesting159(2)
-private land33(8)
+private land33(7A)
 production contract22(3)
 proposed notice62A(1)
 protected thing103A(1)
@@ -592,12 +359,12 @@ special purpose area13B(1A)
 staff25(4)
 State forest3
 State forests128(2)
-take101A, 103A(1), 103A(1)
+take33(7A), 101A, 103A(1), 103A(1)
 timber3
 timber reserve3
 transitional matter168(1)
 tree3
-use33(8)
+use33(2A)
 utility works3
 vehicle81, 103A(1)
 vessel3

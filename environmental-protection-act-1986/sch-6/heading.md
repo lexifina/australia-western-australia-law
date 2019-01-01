@@ -1,5 +1,5 @@
 ## Schedule 6 — Clearing for which a clearing permit is not required
-[Heading inserted by No. 54 of 2003 s. 104.]
+[Heading inserted: No. 54 of 2003 s. 104.]
 [s. 51C]
 1.Clearing that is done in order to give effect to a requirement to clear under a written law.
 2.Clearing that is done —
@@ -20,17 +20,11 @@ in the implementation of the proposal in accordance with a subdivision approval,
 or
 (d) in the exercise of any power conferred under this Act.
 3.Clearing by the Department, within the meaning of the Conservation and Land Management Act 1984, in the performance of its function under section 33(1)(a) of that Act of managing land, but, in the case of land referred to in section 33(1)(a)(i), only if the management is carried out in accordance with section 33(3).
-4.Clearing authorised under a licence —
-(a) referred to in paragraph (a); or
-(b) granted under paragraph (b),
-of section 3(1) of the Sandalwood Act 1929.
-5.Clearing consisting of the taking of flora —
-(a) as authorised under a licence under section 23C of the Wildlife Conservation Act 1950; or
-(b) as consented to under section 23F of the Wildlife Conservation Act 1950 by the Minister administering that Act.
-6.Clearing consisting of the taking of flora by a person authorised —
-(a) by subsection (1)(a); or
-(b) under subsection (1)(b),
-of section 23D of the Wildlife Conservation Act 1950 for the purposes of sale under a licence issued under that section.
+4.Clearing consisting of the taking of flora —
+(a) as authorised by a licence under the Biodiversity Conservation Act 2016; or
+(b) as authorised by an authorisation under the Biodiversity Conservation Act 2016 section 40; or
+(c) by a person referred to in the Biodiversity Conservation Act 2016 section 171(2) for the purposes of supply in accordance with a licence under that Act.
+[5, 6.deleted]
 7.Clearing under the Forest Products Act 2000, of vegetation maintained, or established and maintained, under section 10(1)(g) of that Act.
 8.Clearing under a production contract or road contract entered into and having effect under the Forest Products Act 2000.
 9.Clearing in accordance with a subdivision approval given by the responsible authority under the Planning and Development Act 2005, including —
@@ -50,4 +44,4 @@ of the Bush Fires Act 1954.
 (b) the pastoral lease; or
 (c) any relevant condition set or determination made by the Pastoral Board under Part 7 of that Act.
 14.Clearing of aquatic vegetation that occurs under the authority of a licence or permit within the meaning of the Fish Resources Management Act 1994.
-[Schedule 6 inserted by No. 54 of 2003 s. 116; amended by No. 38 of 2005 s. 15; No. 25 of 2009 s. 20; No. 22 of 2012 s. 123.]
+[Schedule 6 inserted: No. 54 of 2003 s. 116; amended: No. 38 of 2005 s. 15; No. 25 of 2009 s. 20; No. 22 of 2012 s. 123; No. 24 of 2016 s. 314(5).]
