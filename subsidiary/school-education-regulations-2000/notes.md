@@ -27,6 +27,7 @@ School Education Amendment Regulations (No. 2) 2016 | 10 Jan 2017 p. 229-30 | r.
 School Education Amendment Regulations 2016 | 17 Jan 2017 p. 417 | r. 1 and 2: 17 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Reprint 3: The School Education Regulations 2000 as at 1 Sep 2017 (includes amendments listed above)
 School Education Amendment Regulations 2017 | 22 Dec 2017 p. 5977-8 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
+School Education Amendment Regulations 2018 | 21 Dec 2018 p. 4852-3 | r. 1 and 2: 21 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -36,6 +37,7 @@ adult student3(1)
 arrangement49
 arrangements previously notified11D(1)
 association121
+Australian Immunisation Register3(1)
 authorised person68(3), 73, 86, 91
 auto-injector148A(1)
 breach of school discipline3(1)
@@ -44,6 +46,7 @@ code of conduct3(1)
 contribution58, 132
 Council120(1)
 course11C(1)
+current3(1)
 direction69(1)
 dress code3(1)
 educational programme128(1)
@@ -51,7 +54,7 @@ enrolled child148A(1)
 existing school133(2)
 extra cost optional component58, 142(1)
 first charges payment year3(1)
-governing body3(1)
+governing body3(1), 3(1)
 independent minor3(1), 147(1)
 kindergarten132
 kindergarten programme3(1)
@@ -76,7 +79,7 @@ proposed kindergarten133(1)
 registrar3(1)
 Schedule 3A visa holder3(1)
 scheme54
-school103(1), 147(3)(a)
+school103(1), 147(3)
 school administrator3(1)
 school premises3(1)
 school’s premises3(1)
@@ -89,5 +92,8 @@ special reasons65(3)
 specialist programme3(1)
 specified86
 staff member148A(1)
+vaccination status3(1)
+vaccination status certificate3(1)
+vaccine preventable notifiable infectious disease3(1)
 vehicle3(1)
 visa3(1)
