@@ -74,13 +74,9 @@ Environmental Protection Amendment Regulations 2016 | 28 Jun 2016 p. 2629-32 | r
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 7 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Environmental Protection Amendment Regulations 2018 | 27 Apr 2018 p. 1389-90 | r. 1 and 2: 27 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2018 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 2) 2018 | 12 Jun 2018 p. 1887-9 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
-Environmental Protection (Plastic Bags) Regulations 2018 Pt. 3 (other than r. 7(2)) | 12 Jun 2018 p. 1890-1 | 1 Jul 2018 (see r. 2(c))
+Environmental Protection (Plastic Bags) Regulations 2018 Pt. 3 | 12 Jun 2018 p. 1890-1 | Pt. 3 (other than r. 7(2)): 1 Jul 2018 (see r. 2(c)); r. 7(2): 1 Jan 2019 (see r. 2(b))
 Environmental Protection (Solid Fuel Heater and Firewood) Regulations 2018 Pt. 5 Div. 2 | 31 Aug 2018 p. 3093-107 | 1 Sep 2018 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 3) 2018 | 16 Oct 2018 p. 4093 | r. 1 and 2: 16 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Environmental Protection (Plastic Bags) Regulations 2018 r. 7(2) | 12 Jun 2018 p. 1890-1 | 1 Jan 2019 (see r. 2(b))
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
 Proclaimed 1 July 1988 by Gazette 26 June 1998 p. 3369.
@@ -88,13 +84,6 @@ At the time of this compilation section 110H of the Act provides for the establi
 Expired 30 June 2012.
 The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
 The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000 r. 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted by Gazette 19 December 2000 p. 7284.
-On the date as at which this compilation was prepared, the Environmental Protection (Plastic Bags) Regulations 2018 r. 7(2) had not come into operation. It reads as follows:
-Part 3 — Environmental Protection Regulations 1987 amended
-7.Schedule 6 amended
-(2) At the end of Schedule 6 delete the item relating to the Environmental Protection (Plastic Bags) Regulations 2018 and insert:
-Environmental Protection (Plastic Bags) Regulations 2018
-1.regulation 4 | 250 | 500
-2.regulation 5 | 250 | 500
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
