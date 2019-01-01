@@ -36,4 +36,4 @@
 (a) maintain the equipment in a serviceable condition; and
 (b) produce the equipment to an officer of the department on demand.
 (9) A person who contravenes subregulation (2), (3), (4), (5) or (8) commits an offence.
-[Regulation 52BAC inserted by Gazette 25 Jul 2014 p. 2585-7; amended by Gazette 3 Mar 2017 p. 1489.]
+[Regulation 52BAC inserted: Gazette 25 Jul 2014 p. 2585-7; amended: Gazette 3 Mar 2017 p. 1489.]
