@@ -35,10 +35,10 @@ The following rules shall, unless the context otherwise indicates, apply with re
 (3) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, the term larceny is used, it shall be taken that reference is intended to the crime of stealing:
 (4) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, reference is made to any offence by any specific name, it shall be taken that reference is intended to the offence which, under the provisions of the Code, is constituted by the act or omission that would heretofore have constituted the offence referred to:
 (5) When in any statute, statutory rule, local law, by-law, or other instrument, public or private, reference is made to any of the statutory provisions hereby repealed, it shall be taken that reference is intended to the corresponding provisions or substituted provisions of the Code.
-[Section 3 amended by No. 14 of 1996 s. 4; No. 57 of 1997 s. 45; No. 29 of 2008 s. 27.]
+[Section 3 amended: No. 14 of 1996 s. 4; No. 57 of 1997 s. 45; No. 29 of 2008 s. 27.]
 4.Offences are only those in WA’s statute law with some exceptions
 No person shall be liable to be tried or punished in Western Australia as for an offence, except under the express provisions of the Code, or some other statute law of Western Australia, or under the express provisions of some statute of the Commonwealth of Australia, or of the United Kingdom which is expressly applied to Western Australia, or which is in force in all parts of His Majesty’s dominions not expressly excepted from its operation, or which authorises the trial and punishment in Western Australia of offenders who have, at places not in Western Australia, committed offences against the laws of the Commonwealth of Australia or of the United Kingdom.
-[Section 4 amended by No. 4 of 2004 s. 58.]
+[Section 4 amended: No. 4 of 2004 s. 58.]
 5.No civil action for lawful acts; saving
 When, by the Code, any act is declared to be lawful, no action can be brought in respect thereof.
 Except as aforesaid, the provisions of this Act shall not affect any right of action which any person would have had against another if this Act had not been passed; nor shall the omission from the Code of any penal provision in respect of any act or omission, which before the time of the coming into operation of the Code constituted an actionable wrong, affect any right of action in respect thereof.
