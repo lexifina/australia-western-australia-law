@@ -1,6 +1,6 @@
 ## Schedule 2 — Entitlement to enrolment at government school
 [r. 14A(b)]
-[Heading inserted in Gazette 11 Nov 2014 p. 4260.]
+[Heading inserted: Gazette 11 Nov 2014 p. 4260.]
 Item | Visa Subclass number | Visa Subclass name
 1. | 188 | Business Innovation and Investment (Provisional)
 2. | 300 | Prospective Marriage
@@ -36,4 +36,4 @@ Item | Visa Subclass number | Visa Subclass name
 32. | 850 | Resolution of Status (Temporary)
 33. | 851 | Resolution of Status
 34. | 995 | Diplomatic (Temporary)
-[Schedule 2 inserted in Gazette 11 Nov 2014 p. 4260-1.]
+[Schedule 2 inserted: Gazette 11 Nov 2014 p. 4260-1.]
