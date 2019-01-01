@@ -56,11 +56,12 @@ Acts Amendment (Bankruptcy) Act 2009 s. 11 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Racing and Wagering Legislation Amendment Act 2009 Pt. 2 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Statutes (Repeals) Act 2014 s. 8 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
 Reprint 10: The Betting Control Act 1954 as at 29 Jul 2016 (includes amendments listed above)
+Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 1 | 37 of 2018 | 12 Dec 2018 | 1 Jan 2019 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 1 and Div 2 Subdiv. 1 | 37 of 2018 | 12 Dec 2018 | Pt. 8 Div. 1 Subdiv. 1: 1 Jan 2019 (see s. 2(c)) Pt. 8 Div. 2 Subdiv. 1: to be proclaimed (see s. 2(b))
-Gaming and Wagering Legislation Amendment Act 2018 Pt. 2 | 41 of 2018 | 12 Dec 2018 | To be proclaimed (see s. 2(b))
+Betting Tax Assessment Act 2018 Pt. 8 Div 2 Subdiv. 1 | 37 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
+Gaming and Wagering Legislation Amendment Act 2018 Pt. 2 | 41 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193-4)
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992 s. 72.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) and s. 7(2) are transitional provisions that are of no further effect.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
@@ -138,22 +139,8 @@ has effect after the appointed day as if —
 (a) reporting as required by section 110; and
 (b) performing the functions described in section 106(g).
 (2)The accountable authority, as defined in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1)(a).
-On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 1 and Div. 2 Subdiv. 1 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 1 had not come into operation. They read as follows:
 Part 8 — Other Acts amended
-Division 1 — Amendments commencing on 1 January 2019
-Subdivision 1 — Betting Control Act 1954 amended
-32.Act amended
-This Subdivision amends the Betting Control Act 1954.
-33.Section 27E amended
-After section 27E(2)(a) insert:
-(aa) for the purpose of the Commissioner (as defined in the Taxation Administration Act 2003 Glossary clause 1) performing the Commissioner’s functions in relation to betting tax (as defined in the Betting Tax Assessment Act 2018 section 4); or
-34.Part 6 inserted
-After section 33 insert:
-Part 6 — Transitional provisions for Betting Tax Assessment Act 2018
-34.Application of s. 14, 15 and 16 on or after 1 January 2019
-Sections 14, 15 and 16 do not apply to or in relation to a bet made on or after 1 January 2019.
-35.Application of s. 18A on or after 1 January 2019
-Section 18A does not apply to or in relation to a race meeting conducted on or after 1 January 2019 or a bet made on or after 1 January 2019.
 Division 2 — Amendments commencing on proclamation
 Subdivision 1 — Betting Control Act 1954 amended
 48.Act amended
