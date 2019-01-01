@@ -1,8 +1,8 @@
 ## Schedule 1 — Prescribed awards and classifications of work
 [r. 2 and 3]
-[Heading inserted in Gazette 10 Jul 2012 p. 3058.]
+[Heading inserted: Gazette 10 Jul 2012 p. 3058.]
 ## Division 1 — Awards given continuing effect under the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Commonwealth)
-[Heading inserted in Gazette 10 Jul 2012 p. 3058.]
+[Heading inserted: Gazette 10 Jul 2012 p. 3058.]
 Item | Prescribed awards | Exceptions, conditions and limitations
 1. | Australian Workers’ Union Asphalt and Bitumen Industry (WA) Award 1988
 2. | Australian Workers’ Union Construction and Maintenance (Consolidated) Award 1987
@@ -18,9 +18,9 @@ Item | Prescribed awards | Exceptions, conditions and limitations
 12. | Transport Workers Spraypave Pty Ltd Award 1990
 13. | Sprinkler Pipe Fitters’ Award 1975
 14. | Western Australian Civil Contracting Award 1998
-[Division 1 inserted in Gazette 10 Jul 2012 p. 3058-9.]
+[Division 1 inserted: Gazette 10 Jul 2012 p. 3058-9.]
 ## Division 2 — Awards under the Industrial Relations Act 1979
-[Heading inserted in Gazette 10 Jul 2012 p. 3059.]
+[Heading inserted: Gazette 10 Jul 2012 p. 3059.]
 Item | Prescribed awards | Exceptions, conditions and limitations
 1. | Air Conditioning and Refrigeration Industry (Construction and Servicing) Award No. 10 of 1979
 2. | Building Trades Award 1968
@@ -44,4 +44,4 @@ Item | Prescribed awards | Exceptions, conditions and limitations
 20. | Radio and Television Employees’ Award
 21. | Sheet Metal Workers’ Award No. 10 of 1973
 22. | Thermal Insulation Contracting Industry Award
-[Division 2 inserted in Gazette 10 Jul 2012 p. 3059-60.]
+[Division 2 inserted: Gazette 10 Jul 2012 p. 3059-60.]
