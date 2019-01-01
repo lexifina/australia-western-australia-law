@@ -1,6 +1,6 @@
 ## Schedule 2 — Matters in respect of which regulations may be made
 [s. 123(2)]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 1.In this Schedule —
 specified means specified in regulations made under section 123.
 2.The fees to apply under this Act, including, without limiting sections 43, 45 and 45A of the Interpretation Act 1984, the following —
@@ -66,4 +66,4 @@ and the evidential status and probative value of those matters.
 36.The keeping, inspection and production of records and registers under this Act.
 36A.The keeping and production of returns and other information by a licensee in relation to the receipt of waste.
 37.Creating offences under the regulations and penalties for the commission thereof not exceeding $5 000.
-[Schedule 2 amended by No. 14 of 1998 s. 19, 21 and 36; No. 54 of 2003 s. 26, 67, 86, 89, 96 and 138; No. 36 of 2007 s. 100.]
+[Schedule 2 amended: No. 14 of 1998 s. 19, 21 and 36; No. 54 of 2003 s. 26, 67, 86, 89, 96 and 138; No. 36 of 2007 s. 100.]
