@@ -72,9 +72,6 @@ Compilation table
  | Attorney General Regulations Amendment Regulations 2017 Pt. 3 | 4 Aug 2017 p. 4313-14 | 5 Aug 2017 (see r. 2(b))
  | Reprint 8: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 29 Mar 2018 (includes amendments listed above)
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Justice Regulations Amendment (Biodiversity Conservation) Regulations 2018 Pt. 3 | 14 Sep 2018 p. 3314-15 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Agriculture and Food is read and construed as a reference to the Department of Primary Industries and Regional Development unless the contrary intention appears.
@@ -93,13 +90,6 @@ The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009
 Formerly referred to the Curtin University of Technology Act 1966, the short title of which was changed to the Curtin University Act 1966 by the Universities Legislation Amendment Act 2016 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Perth Market Disposal Act 2015.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
-On the date as at which this compilation was prepared, the Justice Regulations Amendment (Biodiversity Conservation) Regulations 2018 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Fines, Penalties and Infringement Notices Enforcement Regulations 1994 amended
-6.Regulations amended
-This Part amends the Fines, Penalties and Infringement Notices Enforcement Regulations 1994.
-7.Schedule 1 amended
-In Schedule 1 insert in alphabetical order:
-Biodiversity Conservation Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

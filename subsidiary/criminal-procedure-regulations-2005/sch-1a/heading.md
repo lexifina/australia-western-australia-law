@@ -1,7 +1,8 @@
 ## Schedule 1A — Infringement notices: prescribed Acts
 [r. 6A]
-[Heading inserted by Gazette 14 Jul 2006 p. 2568.]
+[Heading inserted: Gazette 14 Jul 2006 p. 2568.]
 Associations Incorporation Act 2015
+Biodiversity Conservation Act 2016
 Building Act 2011
 Building Services (Complaint Resolution and Administration) Act 2011
 Building Services (Registration) Act 2011
@@ -38,4 +39,4 @@ Sunday Entertainments Act 1979
 Tobacco Products Control Act 2006
 Water Services Act 2012
 Western Australian Meat Industry Authority Act 1976
-[Schedule 1A inserted by Gazette 14 Jul 2006 p. 2568-9; amended by Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724; 27 Oct 2011 p. 4552; 23 Mar 2012 p. 1369; 30 Aug 2013 p. 4101; 3 Sep 2013 p. 4148; 24 Jun 2016 p. 2317; 30 Dec 2016 p. 5965; 10 Jan 2017 p. 174; 24 Jan 2017 p. 745; 4 Aug 2017 p. 4314.]
+[Schedule 1A inserted: Gazette 14 Jul 2006 p. 2568-9; amended: Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724; 27 Oct 2011 p. 4552; 23 Mar 2012 p. 1369; 30 Aug 2013 p. 4101; 3 Sep 2013 p. 4148; 24 Jun 2016 p. 2317; 30 Dec 2016 p. 5965; 10 Jan 2017 p. 174; 24 Jan 2017 p. 745; 4 Aug 2017 p. 4314; 14 Sep 2018 p. 3314.]
