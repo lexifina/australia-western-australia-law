@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 November 2017 of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 Subdiv. 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 Subdiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479); Pt. 6 Div. 1 Subdiv. 2: 23 Nov 2011 (see s. 2 and Gazette 22 Nov 2011 p. 4843); s. 27-32, 36-39, 43 and Pt. 2 Div. 5: 10 Oct 2012 (see s. 2 and Gazette 9 Oct 2012 p. 4747); Pt. 2 Div. 1 and 2, s. 23-26, 33-35, 40-42 and 44, Pt. 3, Pt. 7 Div. 4, s. 183-186 and 193 and Pt. 9: 1 May 2013 (see s. 2 and Gazette 5 Feb 2013 p. 823)
@@ -11,35 +11,24 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 20
 Reprint 1: The Biosecurity and Agriculture Management Act 2007 as at 26 Jul 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2)
 Medicines and Poisons Act 2014 s. 182 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 4 and Pt. 5 Div. 1 (s. 277, 278(1) and 279(1)) | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 4: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)’ Pt. 5 Div. 1 (s. 277, 278(1) and 279(1)): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
+Biodiversity Conservation Act 2016 s. 311 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 1 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Genetically Modified Crops Free Areas Repeal Act 2016 Pt. 3 | 34 of 2016 | 27 Oct 2016 | 28 Oct 2016 (see s. 2(b))
-Reprint 2: The Biosecurity and Agriculture Management Act 2007 as at 17 Nov 2017 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Biosecurity and Agriculture Management Act 2007 as at 17 Nov 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 311)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 278(2) and 279(2) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Biodiversity Conservation Act 2016 s. 311 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Aquatic Resources Management Act 2016 Pt. 19 Div. 2 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Mining Act 1978.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 s. 278(2) and 279(2) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 278(2) and 279(2) had not come into operation. They read as follows:
 278.Section 4 amended
 (2) Delete section 4(2)(f).
 279.Section 184 amended
 (2) In section 184(1) in the definition of information sharing agency delete paragraph (b).
-On the date as at which this reprint was prepared, the Biodiversity Conservation Act 2016 s. 311 had not come into operation. It reads as follows:
-311.Biosecurity and Agriculture Management Act 2007 amended
-(1) This section amends the Biosecurity and Agriculture Management Act 2007.
-(2) Before section 4(2)(c) insert:
-(cb) the Biodiversity Conservation Act 2016;
-(3) In section 6 delete the definitions of:
-CALM Act Minister
-Minister for the Environment
-(4) In section 45(5)(b) delete “CALM Act Minister.” and insert:
-Minister administering the Biodiversity Conservation Act 2016.
-(5) In section 184(1) in the definition of information sharing agency paragraph (f) delete “Wildlife Conservation Act 1950;” and insert:
-Biodiversity Conservation Act 2016;
-On the date as at which this reprint was prepared, the Aquatic Resources Management Act 2016 Pt. 19 Div. 2 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 Pt. 19 Div. 2 had not come into operation. It reads as follows:
 Part 19 — Consequential amendments to other Acts
 Division 2 — Biosecurity and Agriculture Management Act 2007 amended
 304.Act amended
@@ -98,7 +87,7 @@ Defined termProvision(s)
 acquire152(1)
 additive9(2)
 adulterate59(1)
-agent111(1) and (3)
+agent111(1), 111(3)
 agricultural activity6
 agricultural product6
 Agvet Code of Western Australia6
@@ -119,7 +108,6 @@ Biosecurity Council6
 breed6
 business concern152(1)
 by-product9(2)
-CALM Act Minister6
 charge amount6
 chemical product6
 code190(1)
@@ -145,7 +133,7 @@ disease6
 dispose of152(1)
 dwelling63
 electronic site6
-employer112(1) and (3)
+employer112(1), 112(3)
 entry warrant63
 environment6
 export6
@@ -176,7 +164,6 @@ management plan6
 manufactured animal feed9(2)
 maximum residue limit6
 Minister for Fisheries6
-Minister for the Environment6
 mobile home63
 Modified Penalties Revenue Account6
 notified person84(2)
@@ -204,7 +191,7 @@ prescribed6
 prescribed account140
 prescribed control measures30(1)
 prescribed offence125
-principal111(1) and (3)
+principal111(1), 111(3)
 private land8(2)
 processed animal feed9(2)
 prohibited organism6
@@ -238,4 +225,3 @@ vehicle6
 veterinary chemical product6
 veterinary surgeon6
 wildlife officer6
-By Authority: KEVIN J. McRAE, Government Printer
