@@ -1,8 +1,8 @@
 ## Schedule 4 — Licence fee
 [r. 5D]
-[Heading inserted by Gazette 13 Sep 1996 p. 4560.]
+[Heading inserted: Gazette 13 Sep 1996 p. 4560.]
 ## Part 1 — Premises component
-[Heading inserted by Gazette 13 Sep 1996 p. 4560.]
+[Heading inserted: Gazette 13 Sep 1996 p. 4560.]
 Category | Production or design capacity | Fee units
 Categories 1 and 2 | Not more than 2 000 animals | 25
  | More than 2 000 animals but not more than 5 000 animals | 50
@@ -121,18 +121,18 @@ Category 67A | Not more than 500 tonnes per year | Nil
 Categories 68 to 85 | Not applicable | 24
 Category 86 | Not applicable | 500
 Categories 87 to 89 | Not applicable | 24
-[Part 1 inserted by Gazette 13 Sep 1996 p. 4560-7; amended by Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4717-18; 14 Jun 2002 p. 2794; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2844; 30 Oct 2007 p. 5878; 23 Jul 2010 p. 3401.]
+[Part 1 inserted: Gazette 13 Sep 1996 p. 4560-7; amended: Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4717-18; 14 Jun 2002 p. 2794; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2844; 30 Oct 2007 p. 5878; 23 Jul 2010 p. 3401.]
 ## Part 2 — Part 2 waste
-[Heading inserted by Gazette 13 Dec 2005 p. 5984.]
+[Heading inserted: Gazette 13 Dec 2005 p. 5984.]
 Discharge quantity | Fee units
 Not more than 10 000 tonnes per year | 30
 More than 10 000 but not more than 100 000 tonnes per year | 70
 More than 100 000 but not more than 500 000 tonnes per year | 150
 More than 500 000 but not more than 1 000 000 tonnes per year | 200
 More than 1 000 000 tonnes per year | 400
-[Part 2 inserted by Gazette 13 Sep 1996 p. 4565.]
+[Part 2 inserted: Gazette 13 Sep 1996 p. 4565.]
 ## Part 3 — Discharge component
-[Heading inserted by Gazette 13 Sep 1996 p. 4565.]
+[Heading inserted: Gazette 13 Sep 1996 p. 4565.]
 Table 1 — Discharges into air
 Kind of waste | Fee units (for each gram per minute)
 1.Carbon monoxide | 0.01
@@ -161,4 +161,4 @@ Kind of waste | Fee units
 5.E coli bacteria as indicator species (in each megalitre discharged per day) — (a)1 000 to 5 000 organisms per 100 ml (b)5 000 to 20 000 organisms per 100 ml (c)more than 20 000 organisms per 100 ml | 5 10 15
 6.Other waste (per kilogram discharged per day) — (a)oil and grease (b)total dissolved solids (c)fluoride (d)iron | 0.05 0.05 1 1
 (e)total residual chlorine (f)other | 10 1
-[Part 3 inserted by Gazette 13 Sep 1996 p. 4565-7; amended by Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4718; 29 Sep 2006 p. 4266; 22 Jun 2007 p. 2844; 28 Jun 2016 p. 2631.]
+[Part 3 inserted: Gazette 13 Sep 1996 p. 4565-7; amended: Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4718; 29 Sep 2006 p. 4266; 22 Jun 2007 p. 2844; 28 Jun 2016 p. 2631.]

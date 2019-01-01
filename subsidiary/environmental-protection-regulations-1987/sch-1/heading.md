@@ -1,6 +1,6 @@
 ## Schedule 1 — Prescribed premises
 [r. 5]
-[Heading inserted by Gazette 13 Sep 1996 p. 4549.]
+[Heading inserted: Gazette 13 Sep 1996 p. 4549.]
 Part 1
 Category number | Description of category | Production or design capacity
 1 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated less than 100 m from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
@@ -86,7 +86,7 @@ Category number | Description of category | Production or design capacity
 66 | Class V intractable landfill site: premises (other than clean fill premises) on which waste of a type permitted for disposal for this category of prescribed premises, in accordance with the Landfill Waste Classification and Waste Definitions 1996, is accepted for burial. | Not applicable
 67 | Fuel burning: premises on which gaseous, liquid or solid fuel is burnt in a boiler for the supply of steam or in power generation equipment. | In aggregate 500 kg or more per hour (fuel with a sulphur content of 0.25% or more) or In aggregate 2 000 kg or more per hour (fuel with a sulphur content of less than 0.25%)
 67A | Compost manufacturing and soil blending: premises on which organic material (excluding silage) or waste is stored pending processing, mixing, drying or composting to produce commercial quantities of compost or blended soils. | 1 000 tonnes or more per year
-[Part 1 inserted by Gazette 13 Sep 1996 p. 4549-59; amended by Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17;14 Jun 2002 p. 2293-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843, 30 Oct 2007 p. 5877; 23 Jul 2010 p. 3401; 20 Aug 2013 p. 3856; 27 Apr 2018 p. 1390.]
+[Part 1 inserted: Gazette 13 Sep 1996 p. 4549-59; amended: Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17;14 Jun 2002 p. 2293-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843, 30 Oct 2007 p. 5877; 23 Jul 2010 p. 3401; 20 Aug 2013 p. 3856; 27 Apr 2018 p. 1390.]
 Part 2
 Category number | Description of category | Production or design capacity
 68 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated 100 m or more from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
@@ -115,5 +115,5 @@ Category number | Description of category | Production or design capacity
 87 | Fuel burning: premises on which gaseous, liquid or solid fuel with a sulphur content of less than 0.25% is burnt in a boiler for the supply of steam or in power generation equipment. | More than 500 but less than 2 000 kg per hour in aggregate
 88 | Metal finishing: premises on which — (a)metals are chemically cleaned or metals, plastics or metal or plastic products are plated, electroplated, anodised, coloured or otherwise coated or finished; and (b)from which liquid waste is discharged into a sewer. | Not applicable
 89 | Putrescible landfill site: premises (other than clean fill premises) on which waste of a type permitted for disposal for this category of prescribed premises, in accordance with the Landfill Waste Classification and Waste Definitions 1996, is accepted for burial. | More than 20 but less than 5 000 tonnes per year
-[Part 2 inserted by Gazette 13 Sep 1996 p. 4557-59; amended by Gazette 10 Dec 1996 p. 6877; 15 Aug 2000 p. 4716-17; 13 Dec 2005 p. 5983; 20 Aug 2013 p. 3856-7; 27 Apr 2018 p. 1390.]
-[Schedule 2 deleted by Gazette 8 May 2012 p. 1893.]
+[Part 2 inserted: Gazette 13 Sep 1996 p. 4557-59; amended: Gazette 10 Dec 1996 p. 6877; 15 Aug 2000 p. 4716-17; 13 Dec 2005 p. 5983; 20 Aug 2013 p. 3856-7; 27 Apr 2018 p. 1390.]
+[Schedule 2 deleted: Gazette 8 May 2012 p. 1893.]

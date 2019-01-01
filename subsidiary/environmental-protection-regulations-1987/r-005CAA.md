@@ -7,4 +7,4 @@
 (ii) the name of the applicant;
 (iii) the locality of the premises to which the application relates;
 (iv) the reference number for the application.
-[Regulation 5CAA inserted by Gazette 23 Nov 2004 p. 5222-3.]
+[Regulation 5CAA inserted: Gazette 23 Nov 2004 p. 5222-3.]
