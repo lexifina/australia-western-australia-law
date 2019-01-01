@@ -11,4 +11,4 @@
 (b) varies a condition,
 on the Director’s own initiative, the Director must give the approved manager a reasonable opportunity to make submissions concerning the proposed condition or variation.
 (5) A notice under subregulation (1)(b) or (2) takes effect on the day specified in it.
-[Regulation 14ADB inserted by Gazette 3 Jun 2011 p. 1995-6.]
+[Regulation 14ADB inserted: Gazette 3 Jun 2011 p. 1995-6.]

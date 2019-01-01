@@ -11,4 +11,4 @@ renewal application means an application for the renewal of a manager’s approv
 (a) a renewal application has been made; and
 (b) the Director has not, before the day on which the manager’s approval is due to expire, determined the renewal application,
 the applicant is to be taken to be an approved unrestricted manager or an approved restricted manager, as the case requires, until the Director determines the renewal application.
-[Regulation 14ADD inserted by Gazette 3 Jun 2011 p. 1996.]
+[Regulation 14ADD inserted: Gazette 3 Jun 2011 p. 1996.]
