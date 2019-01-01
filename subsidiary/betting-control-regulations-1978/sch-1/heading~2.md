@@ -1,6 +1,6 @@
 ## Schedule 1 — Forms
 [r. 77]
-[Heading inserted in Gazette 30 Jan 2004 p. 411.]
+[Heading inserted: Gazette 30 Jan 2004 p. 411.]
 Form 1
 Betting Control Act 1954
 [s. 28A]
@@ -16,4 +16,4 @@ at .............................................................................
 Signature of Justice of the Peace granting the warrant.
 (1)Insert particulars of place.
 (2)Insert the name and designation of the authorised officer or member of the Police Force.
-[Schedule 1 inserted in Gazette 30 Jan 2004 p. 411; amended in Gazette 14 Jun 2013 p. 2243.]
+[Schedule 1 inserted: Gazette 30 Jan 2004 p. 411; amended: Gazette 14 Jun 2013 p. 2243.]
