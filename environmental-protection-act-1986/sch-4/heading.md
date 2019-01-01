@@ -1,6 +1,6 @@
 ## Schedule 4 — Transitional provisions not related to Environmental Protection Act 1971
 [s. 127]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 1.If an occupier of premises has, before the coming into operation of this clause, commenced work in respect of which a works approval would have been required by virtue of section 52 or 53, had that section then been in operation, and not completed that work immediately before that coming into operation, that occupier may, notwithstanding that section, complete that work if that occupier —
 (a) notifies the CEO of that work within 14 days of that coming into operation; and
 (b) if required to do so by the CEO by notice in writing served on that occupier, supplies to the CEO such plans, specifications and other information as are specified in that notice within such period as is so specified.
@@ -57,4 +57,4 @@ in respect of the discharge of waste was in force, that permit or disposal licen
 28.A person who was immediately before the coming into operation of this clause an inspector (other than a workplace inspector) appointed under section 34 of the Noise Abatement Act 1972 shall on that coming into operation be deemed to have been appointed an inspector under section 88.
 29.Any by-laws or model by-laws made under section 45 of the Noise Abatement Act 1972 and in force immediately before the coming into operation of this clause shall on that coming into operation cease to have effect.
 30.Any regulations made under section 48 of the Noise Abatement Act 1972 in respect of the appointment of inspectors (other than workplace inspectors) or any other matter unrelated to occupational health, safety or welfare and in force immediately before the coming into operation of this clause shall on that coming into operation be deemed to have been made under section 123.
-[Schedule 4 amended by No. 57 of 1997 s. 54(10); No. 54 of 2003 s. 140(2).]
+[Schedule 4 amended: No. 57 of 1997 s. 54(10); No. 54 of 2003 s. 140(2).]
