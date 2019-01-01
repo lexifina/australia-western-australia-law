@@ -6,16 +6,7 @@ Biosecurity and Agriculture Management Regulations 2013 | 5 Feb 2013 p. 465-591 
 Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 169-71 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Agriculture and Food Regulations Amendment (Poisons) Regulations 2016 Pt. 4 | 17 Jan 2017 p. 404-6 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Biosecurity and Agriculture Management Regulations Amendment Regulations 2017 Pt. 3 | 3 Feb 2017 p. 1110-12 | 4 Feb 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Biosecurity and Agriculture Management Amendment Regulations 2018 r. 3-4 | 14 Sep 2018 p. 3306 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Amendment Regulations 2018 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Biosecurity and Agriculture Management Regulations 2013.
-4.Regulation 109 amended
-In regulation 109(1) in the definition of relevant law after paragraph (e) insert:
-(ea)the Biodiversity Conservation Act 2016;
+Biosecurity and Agriculture Management Amendment Regulations 2018 | 14 Sep 2018 p. 3306 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -27,6 +18,7 @@ apiary3
 apiary site19(1), 90(1)
 approved3
 approved quarantine facility3
+approved training course45A
 area freedom requirement72(1)
 associated infrastructure46
 Australia Post75(1)
@@ -77,6 +69,7 @@ repealed Act147(1)
 repealed regulations140(1), 141(1), 142(1), 143(1), 144(1), 145(1)
 repealed section146(1)
 research programme132(1)
+restricted chemical product45A
 reviewable decision102(1), 121(1)
 section3
 SHB19(1)
