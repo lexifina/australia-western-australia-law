@@ -27,7 +27,7 @@ Compilation table
  | Gaming Commission Amendment Regulations 1996 | 23 Feb 1996 p. 674-5 | 23 Feb 1996
  | Gaming Commission Amendment Regulations (No. 2) 1996 | 28 Jun 1996 p. 3098-100 | 1 Jul 1996 (see r. 2)
  | Gaming Commission Amendment Regulations 1997 | 16 May 1997 p. 2392-4 | 16 May 1997
- | Reprint of the Gaming Commission Regulations 1988 as at 6 Jun 1997 (includes amendments listed above) (correction in Gazette 11 Jul 1997 p. 3623-4)
+ | Reprint of the Gaming Commission Regulations 1988 as at 6 Jun 1997 (includes amendments listed above) (correction by Gazette 11 Jul 1997 p. 3623-4)
  | Gaming Commission Amendment Regulations (No. 2) 1997 | 14 Nov 1997 p. 6448-9 | 1 Jan 1998 (see r. 2)
  | Gaming Commission Amendment Regulations 1998 | 4 Aug 1998 p. 3988-9 | 5 Aug 1998 (see r. 2 and Gazette 4 Aug 1998 p. 3981)
  | Gaming Commission Amendment Regulations (No. 2) 1998 | 5 Feb 1999 p. 405 | 5 Feb 1999
@@ -72,81 +72,13 @@ Gaming and Wagering Commission Amendment Regulations 2017 | 26 May 2017 p. 2632-
 Gaming and Wagering Commission Amendment Regulations (No. 3) 2017 | 11 Jul 2017 p. 3833-4 | r. 1 and 2: 11 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2017 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 10 Nov 2017 p. 5579-94 | 1 Jan 2018 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2018 | 2 Mar 2018 p. 672 | r. 1 and 2: 2 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Mar 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Deleted by the Acts Amendment (Continuing Lotteries) Act 2000 s. 5.
-The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 were repealed in Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
+The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 were repealed by Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
-On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Gaming and Wagering Commission Regulations 1988 amended
-9.Regulations amended
-This Part amends the Gaming and Wagering Commission Regulations 1988.
-10.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Prescribed fees
-[r. 4]
-Item | Description | Fee $
-1. | Search of the register for an identified entry | 9
-2. | Copy of extract from register | 16
-3. | Application for a function permit for —
- | (a)an item of gaming equipment (r. 18B(2)(a)) | 35
- | (b)a class of gaming equipment (r. 18B(2)(b)) | 61
-4. | Application for a permit of a continuing nature for —
- | (a)a video lottery terminal (r. 18AA(7)) | 35
- | (b)an item of gaming equipment (r. 18B(2)(a)) | 66
- | (c)a class of gaming equipment (r. 18B(2)(b)) | 117
-5. | Application for a function permit for —
- | (a)bingo | 23
- | (b)multiple bingo, for each premises | 23
- | (c)simultaneous bingo, for each premises | 23
- | (d)a standard lottery —
- | (i)where the total retail value of prizes or prize money does not exceed $5 000 | 35
- | (ii)otherwise | 76
- | (da)a standard lottery of a kind generally known or described as a Calcutta | 76
- | (e)a continuing lottery | 17
- | (f)gaming (per day authorised) —
- | (i)1-5 tables | 232
- | (ii)6-10 tables | 390
- | (iii)over 10 tables | 435
- | (g)two-up —
- | (i)by a country race club | 156
- | (ii)otherwise | 232
-6. | Application for a permit of a continuing nature for —
- | (a)bingo | 35
- | (b)multiple bingo, for each premises | 35
- | (c)simultaneous bingo, for each premises | 35
- | (d)a standard lottery, where the total retail value of prizes or prize money is —
- | (i)not more than $5 000 | 49
- | (ii)more than $5 000 but not more than $50 000 | 117
- | (iii)more than $50 000 but not more than $100 000 | 227
- | (iv)more than $100 000 but not more than $200 000 | 469
- | (v)more than $200 000 | 720
- | (da)a standard lottery of a kind generally known or described as a Calcutta | 156
- | (e)a continuing lottery | 28
- | (f)gaming (per day authorised) —
- | (i)1-5 tables | 187
- | (ii)6-10 tables | 343
- | (iii)over 10 tables | 429
- | (g)two-up —
- | (i)by a country race club, per day authorised | 124
- | (ii)otherwise, per day authorised | 187
-7. | Application for approval of premises for —
- | (a)a specific function | 23
- | (b)functions from time to time | 76
- | (c)permit of a continuing nature | 76
-8. | Issue of a certificate under section 92 relating to —
- | (a)multiple bingo | 156
- | (b)simultaneous bingo | 156
- | (c)assisting in the conduct of bingo, for hire or reward | 156
-9. | Issue of an approved operator’s certificate | 257
-10. | Issue of a certificate under section 88(5) | 337
-11. | Application to be a licensed supplier | 314
-12. | Approval to operate, or remove money from, gaming equipment | 28
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
