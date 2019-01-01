@@ -1,6 +1,6 @@
 ## Schedule 1 — Fees
 [r. 23(1), 27(3), 38(2a), 39(1), 53A(1), 60(1) and 64]
-[Heading inserted in Gazette 25 Jun 2018 p. 2339.]
+[Heading inserted by Gazette 25 Jun 2018 p. 2339.]
  | $
 1.Licences and permits under Part 3 —
 (a)Application for licence or permit | 72.45
@@ -20,4 +20,4 @@
 3.Further inspection —
 (a)If relevant network operator is the Regional Power Corporation | 498.25
 (b)If relevant network operator is not the Regional Power Corporation | 173.00
-[Schedule 1 inserted in Gazette 25 Jun 2018 p. 2339-40.]
+[Schedule 1 inserted by Gazette 25 Jun 2018 p. 2339-40.]

@@ -1,6 +1,6 @@
 ## Schedule 2 — Standards for electrical work
 [r. 49(1)(c)]
-[Heading inserted in Gazette 13 Apr 2012 p. 1654.]
+[Heading inserted by Gazette 13 Apr 2012 p. 1654.]
 Item | Standard | Title
 1. | AS 2067-2008 | Substations and high voltage installations exceeding 1kV a.c.
 2. | AS/NZS 2381.1:2005 | Electrical equipment for explosive gas atmospheres — Selection, installation and maintenance — General requirements
@@ -29,4 +29,4 @@ Item | Standard | Title
 21. | AS/NZS 60079.17:2009 | Explosive atmospheres — Electrical installations inspection and maintenance (IEC 60079-17, Ed. 4.0(2007) MOD)
 22. | AS/NZS 61241.0:2005 | Electrical apparatus for use in the presence of combustible dust — General requirements
 23. | AS/NZS 61241.14:2005 | Electrical apparatus for use in the presence of combustible dust — Selection and installation (IEC 61241-14, Ed. 1.0(2004) MOD)
-[Schedule 2 inserted in Gazette 13 Apr 2012 p. 1654-6; amended in Gazette 2 May 2017 p. 2302.]
+[Schedule 2 inserted by Gazette 13 Apr 2012 p. 1654-6; amended by Gazette 2 May 2017 p. 2302.]
