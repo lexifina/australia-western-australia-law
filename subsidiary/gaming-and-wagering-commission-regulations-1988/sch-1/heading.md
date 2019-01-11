@@ -1,6 +1,6 @@
 ## Schedule 1 — Prescribed fees
 [r. 4]
-[Heading inserted by Gazette 7 Sep 2018 p. 3194.]
+[Heading inserted: Gazette 7 Sep 2018 p. 3194.]
 Item | Description | Fee $
 1. | Search of the register for an identified entry | 9
 2. | Copy of extract from register | 16
@@ -58,4 +58,4 @@ Item | Description | Fee $
 10. | Issue of a certificate under section 88(5) | 337
 11. | Application to be a licensed supplier | 314
 12. | Approval to operate, or remove money from, gaming equipment | 28
-[Schedule 1 inserted by Gazette 7 Sep 2018 p. 3194-6.]
+[Schedule 1 inserted: Gazette 7 Sep 2018 p. 3194-6.]
