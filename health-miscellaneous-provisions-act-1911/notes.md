@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health (Miscellaneous Provisions) Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Miscellaneous Provisions) Act 1911 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 (1 Geo. V No. 45) | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
@@ -139,13 +139,15 @@ Reprint 16: The Health Act 1911 as at 6 Dec 2013 (includes amendments listed abo
 Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
- | Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
- | Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above)
+ | Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-15 and Div. 16 (s. 272, 274 and 276) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880); Pt. 4 Div. 15 and s. 276: 12 Jan 2019 (see s. 2(1)(c) and Gazette 11 Jan 2019 p. 23)
+ | Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above except those listed in the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 15 and s. 276)
  | Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11 and Div. 16 (s. 249-271, 273 and 275) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Other notes
+Footnote no longer applicable.
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -218,191 +220,6 @@ specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11, Div. 15 and Div. 16 (s. 249-271, 273, 275 and 276) had not come into operation. They read as follows:
-Part 4 — Health (Miscellaneous Provisions) Act 1911 amended
-Division 2 — Part I amended
-208.Section 5 deleted
-Delete section 5.
-209.Section 6 deleted
-Delete section 6.
-Division 3 — Part II amended
-210.Section 7 deleted
-Delete section 7.
-211.Section 12 deleted
-Delete section 12.
-214.Section 16 deleted
-Delete section 16.
-215.Section 17 deleted
-Delete section 17.
-216.Part II Division 2 heading deleted
-Delete the heading to Part II Division 2.
-217.Sections 22 and 25 deleted
-Delete sections 22 and 25.
-218.Section 26 deleted
-Delete section 26.
-219.Section 35 deleted
-Delete section 35.
-220.Section 36 deleted
-Delete section 36.
-221.Section 38 deleted
-Delete section 38.
-222.Part II Division 3 deleted
-Delete Part II Division 3.
-Division 4 — Part III deleted
-223.Part III deleted
-Delete Part III.
-Division 5 — Part IV amended
-224.Sections 53 to 63A deleted
-Delete sections 53 to 63A.
-225.Section 64 amended
-After section 64(9) insert:
-(10) This section does not apply on or after the date on which the Public Health (Consequential Provisions) Act 2016 section 225 comes into operation, other than to and in relation to any agreement made under this section and having effect immediately before that section comes into operation.
-226.Sections 65 to 71 deleted
-Delete sections 65 to 71.
-227.Sections 72 and 73 deleted
-Delete sections 72 and 73.
-228.Section 74 amended
-After section 74(3) insert:
-(4) This section does not apply on or after the date on which the Public Health (Consequential Provisions) Act 2016 section 228 comes into operation, other than to and in relation to any agreement made under this section and having effect immediately before that section comes into operation.
-229.Sections 75 to 94 deleted
-Delete sections 75 to 94.
-230.Part IV Divisions 3 to 5 and 7 to 9 deleted
-Delete Part IV Divisions 3 to 5 and 7 to 9.
-Division 6 — Part V deleted
-231.Part V deleted
-Delete Part V.
-Division 7 — Part VI deleted
-232.Part VI deleted
-Delete Part VI.
-Division 8 — Part VII deleted
-233.Part VII deleted
-Delete Part VII.
-Division 9 — Part VIIA amended
-Subdivision 1 — Amendments to Part VIIA heading
-234.Part VIIA heading amended
-In the heading to Part VIIA delete “disinfectants, therapeutic substances and pesticides” and insert:
-disinfectants and therapeutic substances
-235.Part VIIA heading replaced
-Delete the heading to Part VIIA and insert:
-Part VIIA — Analysts
-Subdivision 2 — Part VIIA Division 1 amended
-236.Section 203 deleted
-Delete section 203.
-237.Part VIIA Division 1 deleted
-Delete Part VIIA Division 1.
-Subdivision 3 — Part VIIA Division 8 deleted
-238.Part VIIA Division 8 deleted
-Delete Part VIIA Division 8.
-Division 10 — Part IX amended
-239.Part IX heading and Part IX Division 1 heading deleted
-Delete the headings to Part IX and Part IX Division 1.
-241.Section 249 deleted
-Delete section 249.
-Division 11 — Part IXA deleted
-244.Part IXA deleted
-Delete Part IXA.
-Division 15 — Part XIIIB amended
-248.Section 340AB amended
-In section 340AB(3)(d) delete “Princess Margaret Hospital for Children,” and insert:
-Perth Children’s Hospital,
-Division 16 — Parts XIV and XV and Schedules amended
-249.Part XIV heading amended
-In the heading to Part XIV delete “and local laws”.
-250.Section 341 amended
-Delete section 341(2).
-251.Section 342 deleted
-Delete section 342.
-252.Section 344C amended
-(1) In section 344C in the Table delete “133(1), 134(6), (11), (12), (29), (44), (45) and (46),”.
-(2) In section 344C in the Table delete “146(3), 158(3),”.
-(3) In section 344C in the Table delete “199(10)”.
-253.Sections 343 to 348A deleted
-Delete sections 343 to 348A.
-254.Sections 349 to 352 deleted
-Delete sections 349 to 352.
-255.Section 353 deleted
-Delete section 353.
-256.Sections 354 and 355 deleted
-Delete sections 354 and 355.
-257.Section 356 deleted
-Delete section 356.
-258.Section 357 deleted
-Delete section 357.
-259.Sections 358 and 359 deleted
-Delete sections 358 and 359.
-260.Section 360 amended
-(1) Delete section 360(1)(a).
-(2) Delete section 360(1)(c).
-(3) Delete section 360(1)(e).
-(4) In section 360(1):
-(a) in paragraph (g)(ii) delete “$500;” and insert:
-$500.
-(b) delete paragraph (h).
-(5) In section 360(2) delete “Local laws and regulations” and insert:
-Regulations
-(6) In section 360(3)(a) delete “local laws and”.
-(7) In section 360 after each of subsection (1)(b) and (d) insert:
-or
-261.Section 361 amended
-In section 361 delete “local law,”.
-262.Section 362 amended
-In section 362(2):
-(a) delete “or local law”;
-(b) delete “or the local government of the district in which the offence is committed, or an officer of the local government,”.
-263.Section 366 deleted
-Delete section 366.
-264.Section 367 deleted
-Delete section 367.
-265.Section 368 deleted
-Delete section 368.
-266.Sections 369 to 371 deleted
-Delete sections 369 to 371.
-267.Sections 373 and 374 deleted
-Delete sections 373 and 374.
-268.Section 376 deleted
-Delete section 376.
-269.Section 377 amended
-In section 377:
-(a) delete paragraphs (1) to (9);
-(b) in paragraph (10) delete “analysed;” and insert:
-analysed.
-(c) delete paragraph (11).
-270.Section 377 deleted
-Delete section 377.
-271.Section 378 deleted
-Delete section 378.
-273.Schedule 2 deleted
-Delete Schedule 2.
-275.Schedule 5 amended
-(1) Delete Schedule 5 Part I and insert:
-Part I
-Sections 203(2), 225(1) and 238(3) and (5)
-(2) Delete Schedule 5 Part I.
-(3) Delete Schedule 5 Part II and insert:
-Part II
-Sections 224(2), 227(13), 335(3) and 337(6)
-(4) Delete Schedule 5 Part II and insert:
-Part II
-Sections 335(3) and 337(6)
-(5) Delete Schedule 5 Part III.
-(6) Delete Schedule 5 Part IV and insert:
-Part IV
-Sections 223(1), 225(2), 227(2), 231(2), 234(1), 240(1), 336(5a), 336A(5a), 336B(7a), 340LB(2), 340M(1) and (2), 340ALB(2), 340AM(1) and (2), 340BLB(2) and 340BM(1) and (2)
-(7) Delete Schedule 5 Part IV and insert:
-Part IV
-Sections 336(5a), 336A(5a), 336B(7a), 340LB(2), 340M(1) and (2), 340ALB(2), 340AM(1) and (2), 340BLB(2) and 340BM(1) and (2)
-(8) Delete Schedule 5 Part V.
-(9) Delete Schedule 5 Part VI and insert:
-Part VI
-Sections 221(1), 222, 236(1), 241(1) and 340AL(1c)
-(10) Delete Schedule 5 Part VI and insert:
-Part VI
-Section 340AL(1c)
-(11) Delete Schedule 5 Part VII.
-(12) Delete Schedule 5 Part VIII.
-276.Schedule 6 amended
-After Schedule 6 clause 5(2) insert:
-(2A) The persons who held office under section 340AB(3)(d) as members of the Perinatal and Infant Mortality Committee, or as deputies of those members, immediately before the coming into operation of the Public Health (Consequential Provisions) Act 2016 section 248 continue in office, under and subject to Part XIIIB, as members or, as the case requires, deputies of members of the Committee until the expiry of their respective terms as if they had been appointed by the Minister on the nomination of the chief executive of the health service provider for Perth Children’s Hospital under the Health Services Act 2016.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
