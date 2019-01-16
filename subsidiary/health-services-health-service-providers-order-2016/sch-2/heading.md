@@ -39,7 +39,7 @@
 33.Coral Bay Health Centre
 34.Corrigin Hospital
 35.Cue Health Centre
-36.Cunderdin Hospital
+36.Cunderdin Health Centre
 37.Dalwallinu Hospital
 38.Denmark Hospital
 39.Derby Hospital
@@ -127,4 +127,4 @@
 121.Yalgoo Health Centre
 122.Yandeyarra Health Centre
 123.York Hospital
-[Schedule 2 amended by Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135; 30 Nov 2018 p. 4596.]
+[Schedule 2 amended: Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135; 30 Nov 2018 p. 4596; 15 Jan 2019 p. 57.]
