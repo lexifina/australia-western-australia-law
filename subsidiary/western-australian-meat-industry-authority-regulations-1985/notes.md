@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Meat Industry Authority Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 January 2019 of the Western Australian Meat Industry Authority Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Western Australian Meat Industry Authority Regulations 1985 | 7 Jun 1985 p. 1978-90 (erratum 14 Jun 1985 p. 2172) | 7 Jun 1985 (see r. 2)
@@ -44,7 +44,7 @@ Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 
 Western Australian Meat Industry Authority Amendment Regulations 2017 | 27 Oct 2017 p. 5413-15 | r. 1 and 2: 27 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2017 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2859-62 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2018 | 13 Nov 2018 p. 4436-7 | r. 1 and 2: 13 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2018 (see r. 2(b))
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
+Reprint 5: The Western Australian Meat Industry Authority Regulations 1985 as at 18 Jan 2019 (includes amendments listed above)
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -74,4 +74,4 @@ permit holder25, 33N(1)
 sign25
 stand25
 stock agent3(1), 25
-throughput feeSch. 6 cl. 1
+throughput feeSch. 6
