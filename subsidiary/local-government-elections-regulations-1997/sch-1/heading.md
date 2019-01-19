@@ -25,7 +25,7 @@ Form | Heading | Section or regulation
 21 | Referendum Ballot Paper | s. 4.99
 22 | Referendum Absent Vote Ballot Paper (front & back) | s. 4.99
 23 | Results of Referendum | s. 4.99
-[List of Forms amended in Gazette 25 Jan 2001 p. 588.]
+[List of Forms amended: Gazette 25 Jan 2001 p. 588.]
 Form 1. Declaration by Electoral Officer
 Local Government (Elections) Regulations 1997, reg. 7 DECLARATION BY ELECTORAL OFFICER
 Electoral Officer | Full name:
@@ -39,7 +39,7 @@ Officer:
 Signature: | Date:
 Notes
 Declaration | The declaration must be signed before: ·a Justice of the Peace; or ·a person authorised under the Oaths, Affidavits and Statutory Declarations Act 2005 to take statutory declarations; or ·a more senior electoral officer.
-[Form 1 amended in Gazette 3 Aug 2007 p. 4006.]
+[Form 1 amended: Gazette 3 Aug 2007 p. 4006.]
 Form 2.Enrolment Eligibility Claim incorporating Notice of Nomination of co-owners or co-occupiers (if required by CEO)
 Local Government Act 1995, s. 4.32(2) ENROLMENT ELIGIBILITY CLAIM See back for notes on when and how to complete this form
 Person making claim | Family name:
@@ -72,7 +72,7 @@ Back of Form 2
 Duration of enrolment of occupiers | If you are an occupier and your enrolment eligibility claim is accepted it will expire in accordance with section 4.33 of the Local Government Act 1995 (this will usually be 6 months after the holding of the second ordinary election after your claim was accepted). If you wish to continue to qualify as an elector after that, you will need to make another enrolment eligibility claim.
 Confidentiality | Your date of birth, phone and fax numbers and email address supplied in this form will be kept confidential and will be used only by the local government and the Western Australian Electoral Commission for the purpose of preparing local government electoral rolls.
 Where to send your form | When you have completed and signed this form, send it to the Chief Executive Officer of your local government. You may send it by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including a signature. If you send it by fax or electronically you should check that it has been received.
-[Form 2 amended in Gazette 25 Jan 2001 p. 588-9; 21 Jan 2005 p. 268; 18 Mar 2005 p. 976; 21 Dec 2012 p. 6643.]
+[Form 2 amended: Gazette 25 Jan 2001 p. 588-9; 21 Jan 2005 p. 268; 18 Mar 2005 p. 976; 21 Dec 2012 p. 6643.]
 Form 3.Notice of Acceptance of Enrolment Eligibility Claim
 Local Government Act 1995, s. 4.32(6) NOTICE OF ACCEPTANCE OF ENROLMENT ELIGIBILITY CLAIM
 Claimant | Name:
@@ -85,7 +85,7 @@ Duration of enrolment of occupiers | Your enrolment eligibility claim expires in
 You should keep this notice as evidence of your qualification as an elector.
 Chief Executive Officer | Name:
 Signature: | Date:
-[Form 3 amended in Gazette 18 Mar 2005 p. 976.]
+[Form 3 amended: Gazette 18 Mar 2005 p. 976.]
 Form 4.Notice of Rejection of Enrolment Eligibility Claim
 Local Government Act 1995, s. 4.32(6) NOTICE OF REJECTION OF ENROLMENT ELIGIBILITY CLAIM
 Claimant | Name:
@@ -110,7 +110,7 @@ Signature: | Date:
 Information to support your appeal | You should include with this form details of any information which supports your appeal. You may wish to include: Œyour enrolment eligibility claim form; and the notice of rejection from the local government; and Žif you are a nominee, a copy of the nomination. Note: The Electoral Commissioner will not be able to process your appeal unless all necessary documentation is provided.
 Back of Form 5
 Where to send your appeal form | When you have completed and signed this form, send it to the Electoral Commissioner at the Western Australian Electoral Commission. You may send your appeal form by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including a signature. If you send it by fax or electronically you should check that it has been received.
-[Form 5 amended in Gazette 22 Dec 1998 p. 6873; 21 Jan 2005 p. 268.]
+[Form 5 amended: Gazette 22 Dec 1998 p. 6873; 21 Jan 2005 p. 268.]
 Form 6.Notice of Cancellation of Eligibility
 Local Government Act 1995, s. 4.35(3) NOTICE OF CANCELLATION OF ELIGIBILITY
 Elector | Name:
@@ -135,7 +135,7 @@ Signature: | Date:
 Information to support your appeal | You should include with this form details of any information which supports your appeal. You may wish to include: Œthe notice of acceptance you received when your enrolment eligibility claim was accepted; and the notice of cancellation of eligibility; and Žany other documents that support your appeal. Note: The Electoral Commissioner will not be able to process your appeal unless all necessary documentation is provided.
 Back of Form 7
 Where to send your appeal form | When you have completed and signed this form, send it to the Electoral Commissioner at the Western Australian Electoral Commission. You may send your appeal form by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including a signature. If you send it by fax or electronically you should check that it has been received.
-[Form 7 amended in Gazette 22 Dec 1998 p. 6874; 21 Jan 2005 p. 268.]
+[Form 7 amended: Gazette 22 Dec 1998 p. 6874; 21 Jan 2005 p. 268.]
 Form 8.Nomination for Election by Candidate
 Local Government Act 1995, s. 4.49(a) NOMINATION FOR ELECTION BY CANDIDATE See back for notes on how to make your nomination
 Nominee | Family name:
@@ -159,14 +159,14 @@ Signature: | Date:
 Back of Form 8
 1Name on ballot paper | The name to be printed on the ballot paper must be your surname and one or more of your given names (or an initial or a commonly accepted variation). You must use the same name on your candidate profile. To ensure fairness between candidates the Returning Officer may rule that a name is inappropriate for inclusion on the ballot paper. If so he or she may ask you to nominate another name or choose one he or she considers appropriate.
 2Who is an elector | You are an elector of the district if you are eligible to be included on the electoral roll for that district. However it is not sufficient if you are only eligible to be on the roll as the nominee of a body corporate which owns or occupies property in the district. You need not be an elector in the ward in which you nominate.
-3Disqualification | You are disqualified for membership of a council if you: ·are a member of the Legislative Assembly, the Legislative Council, the House of Representatives or the Senate (or have been elected as such a member but have not yet taken office); or ·are a member of the council of another local government; or ·are an insolvent under administration; or ·are in prison serving a sentence for a crime; or ·have been convicted of a serious local government offence within the last 5 years (unless the court waived the disqualification); or ·have been convicted on indictment of an offence for which the indictable penalty was or included — (i)imprisonment for life; or (ii)imprisonment for more than 5 years; or ·are subject to a court order disqualifying you from being a member of a council because you have misapplied local government funds or property.
+3Disqualification | You are disqualified for membership of a council if you: ·are a member of the Legislative Assembly, the Legislative Council, the House of Representatives or the Senate (or have been elected as such a member but have not yet taken office); or ·are a member of the council of another local government; or ·are an insolvent under administration; or ·are in prison serving a sentence for a crime; or ·have been convicted of a serious local government offence within the last 5 years (unless the court waived the disqualification); or ·have been convicted of an offence for which the indictable penalty was or included — (i)imprisonment for life; or (ii)imprisonment for more than 5 years; or ·are subject to a court order disqualifying you from being a member of a council because you have misapplied local government funds or property.
 4Eligibility to nominate as a councillor | You are not eligible to nominate as a councillor if you are: ·a member of the council (unless your term of office expires on election day); or ·a candidate in another election for the office of councillor.
 Where to send your nomination | When you have completed and signed this form, send it to the Returning Officer for the district. You may send your nomination by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. If you send it by fax or electronically you should check that it has been received.
 Closing date for nominations | Your nomination must be received by the Returning Officer before 4 p.m. on the 37th day before election day. If you send your nomination electronically it is taken to be received at the time the Returning Officer prints it out.
 Candidate’s profile | Your nomination must be accompanied by a candidate’s profile of not more than 150 words plus your name, address and contact numbers. The profile must be confined to information about you. It may include a recent passport size photo of your head or head and shoulders. The profile must be (or if it is sent electronically, be capable of being) printed on a single A4 page.
 Deposit | When you make your nomination you must pay a deposit of $80. You may send this with your nomination form or deliver it to the Returning Officer at any time before the closing date for nominations. You may pay your deposit in cash or by cheque, bank draft or postal order. If you make appropriate arrangements with the Returning Officer you may be able to pay your deposit by electronic transfer or other means.
 Withdrawing your nomination | You may withdraw your nomination by giving written notice to the Returning Officer before the closing date for nominations. You may send your withdrawal by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. A withdrawal may be lodged by your agent if it is accompanied by a written authorisation, signed by you, permitting the agent to lodge the withdrawal.
-[Form 8 amended in Gazette 21 Jan 2005 p. 266 and 268; 18 Mar 2005 p. 976; 21 Dec 2012 p. 6643.]
+[Form 8 amended: Gazette 21 Jan 2005 p. 266 and 268; 18 Mar 2005 p. 976; 21 Dec 2012 p. 6643; 18 Jan 2019 p. 111.]
 Form 9.Nomination by agent
 Local Government Act 1995, s. 4.49(a) NOMINATION FOR ELECTION BY AGENT See back for notes on how to make a nomination
 Agent | Full name:
@@ -196,7 +196,7 @@ Signature: | Date:
 Back of Form 9
 1Name on ballot paper | The name to be printed on the ballot paper must be the candidate’s surname and one or more of his or her given names (or an initial or a commonly accepted variation). The same name must be used on the candidate profile. To ensure fairness between candidates the Returning Officer may rule that a name is inappropriate for inclusion on the ballot paper. If so he or she may ask you to nominate another name or choose one he or she considers appropriate.
 2Who is an elector | The nominee is an elector of the district if he or she is eligible to be included on the electoral roll for that district. However it is not sufficient if he or she is only eligible to be on the roll as the nominee of a body corporate which owns or occupies property in the district. The nominee need not be an elector in the ward in which he or she is nominated.
-3Disqualification | The nominee is disqualified for membership of a council if he or she: ·is a member of the Legislative Assembly, the Legislative Council, the House of Representatives or the Senate (or has been elected as such a member but has not yet taken office); or ·is a member of the council of another local government; or ·is an insolvent under administration; or ·is in prison serving a sentence for a crime; or ·has been convicted of a serious local government offence within the last 5 years (unless the court waived the disqualification); or ·has been convicted on indictment of an offence for which the indictable penalty was or included — (i)imprisonment for life; or (ii)imprisonment for more than 5 years; or ·is subject to a court order disqualifying him or her from being a member of a council because he or she has misapplied local government funds or property.
+3Disqualification | The nominee is disqualified for membership of a council if he or she: ·is a member of the Legislative Assembly, the Legislative Council, the House of Representatives or the Senate (or has been elected as such a member but has not yet taken office); or ·is a member of the council of another local government; or ·is an insolvent under administration; or ·is in prison serving a sentence for a crime; or ·has been convicted of a serious local government offence within the last 5 years (unless the court waived the disqualification); or ·has been convicted of an offence for which the indictable penalty was or included — (i)imprisonment for life; or (ii)imprisonment for more than 5 years; or ·is subject to a court order disqualifying him or her from being a member of a council because he or she has misapplied local government funds or property.
 4Eligibility to nominate as a councillor | The nominee is not eligible to be nominated as a councillor if he or she is: ·a member of the council (unless his or her term of office expires on election day); or ·a candidate in another election for the office of councillor.
 5Authorisation | You must give to the Returning Officer written evidence that the nominee has authorised you to make the nomination. The nominee may fill in and sign this box or you may send a written authorisation, signed by the nominee, to the Returning Officer with your nomination form or at any time before the closing date for nominations.
 Where to send your nomination | When you have completed and signed this form, send it to the Returning Officer for the district. You may send your nomination by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. If you send it by fax or electronically you should check that it has been received.
@@ -204,7 +204,7 @@ Closing date for nominations | Your nomination must be received by the Returning
 Candidate’s profile | Your nomination must be accompanied by a candidate’s profile of not more than 150 words plus the nominees name, address and contact numbers. The profile must be confined to information about the candidate. It may include a recent passport size photo of the candidate’s head or head and shoulders. The profile must be (or if it is sent electronically, be capable of being) printed on a single A4 page.
 Deposit | When you make your nomination you must pay a deposit of $80. You may send this with your nomination form or deliver it to the Returning Officer at any time before the closing date for nominations. You may pay your deposit in cash or by cheque, bank draft or postal order. If you make appropriate arrangements with the Returning Officer you may be able to pay your deposit by electronic transfer or other means.
 Withdrawing your nomination | You may withdraw your nomination by giving written notice to the Returning Officer before the closing date for nominations. You may send your withdrawal by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures.
-[Form 9 amended in Gazette 21 Jan 2005 p. 267 and 268; 18 Mar 2005 p. 977; 21 Dec 2012 p. 6644.]
+[Form 9 amended: Gazette 21 Jan 2005 p. 267 and 268; 18 Mar 2005 p. 977; 21 Dec 2012 p. 6644; 18 Jan 2019 p. 111.]
 Local Government Act 1995
 Local Government (Elections) Regulations 1997
 [s. 4.59]
@@ -236,7 +236,7 @@ Candidates only — IF YOU ARE UNABLE TO PROVIDE THE INFORMATION REQUIRED BY THI
 Person making disclosure to complete and sign the declaration below
 I . . . . . . . . . . . . . . . . . . . . . . . . . declare that all information and details provided are true and correct, and no known, relevant information is omitted.
 Signature . . . . . . . . . . . . . . . . . . . . . . . . Date . . . . . . . . . . . . . . . . . . . . . . . . .
-[Form 9A inserted in Gazette 14 Aug 2009 p. 3219-20.]
+[Form 9A inserted: Gazette 14 Aug 2009 p. 3219-20.]
 Form 10.Ballot Paper
 BALLOT PAPER
 Election of __________________________
@@ -270,7 +270,7 @@ All names must be in the same size text.
 If 2 names are confusingly similar add such descriptions or additions as are necessary to distinguish them from each other.
 7Number of councillors
 If the election is for more than one councillor insert the number of councillors to be elected.
-[Form 10 inserted in Gazette 28 Aug 2009 p. 3362-3.]
+[Form 10 inserted: Gazette 28 Aug 2009 p. 3362-3.]
 Form 11.Absent Vote Ballot Paper
 ABSENT VOTE BALLOT PAPER See back for notes on how to vote
 Election of rMayor rPresident rCouncillor(s)
@@ -292,7 +292,7 @@ How to make an absent vote
 4Election date | Fill in the official election date — not the day you are filling in this form.
 5Candidates | Fill in the names of the candidates. Write one name on each line. You may fill in the candidates’ names in any order.
 Cast your vote | If the election is for a mayor or president or only one councillor place a tick R in the box next to the candidate you want to elect. If the election is for 2 or more councillors place a tick R in the box next to each of the candidates you want to elect. You may choose up to the number of candidates as there are councillors to be elected. If you choose any more, your vote will be invalid. For example — if the election is for 3 councillors you may tick the boxes for 1, 2 or 3 candidates but if you tick 4 boxes your vote will be invalid. Do not make any other marks on the ballot paper.
-[Form 11 inserted in Gazette 28 Aug 2009 p. 3364.]
+[Form 11 inserted: Gazette 28 Aug 2009 p. 3364.]
 Form 12.Application for Postal Voting Papers
 Local Government (Elections) Regulations 1997, reg 37 APPLICATION FOR POSTAL VOTING PAPERS See back for notes on how to complete this form
 Applicant | Full name:
@@ -311,7 +311,7 @@ Back of Form 12
 3Election | You may make your application at any time but if you want to vote by post at a particular election you must make your application before 4 p.m. on the 4th day before that election.
 Where to send your form | When you have completed and signed this form, send it to — ·if you are making your application within 36 days of an election, the Returning Officer for the district; or ·if you are making your application at any other time, the Chief Executive Officer of your local government. You may send it by post , by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. If you send it by fax or electronically you should check that it has been received.
 Postal votes at future elections | If you have ticked the box indicating that you wish to vote by post at all elections your name will be included on the postal voters register until you cease to be an elector or you ask for your name to be removed from the register. The Returning Officer will automatically send you postal voting papers every time there is an election in your electorate. If at any time you no longer wish to vote by post you should write to the Chief Executive Officer of your local government (or, if it is within 36 days of an election, the Returning Officer) and he or she will remove your name from the register. You may send your letter by post, by fax or by other electronic means.
-[Form 12 amended in Gazette 21 Jan 2005 p. 268.]
+[Form 12 amended: Gazette 21 Jan 2005 p. 268.]
 Form 13.Postal Voting Instructions
 (a)Mayoral/Presidential or Ward Election
 Local Government (Elections) Regulations 1997, r. 43(1)(a) POSTAL VOTING INSTRUCTIONS
@@ -354,7 +354,7 @@ How to vote | ÊDecide which candidate you want to elect as mayor and mark your 
  | ÎPost that envelope to the Returning Officer, or deliver it to an electoral officer at: ·the offices of the local government during office hours before election day; or ·a polling place between 8 a.m. and 6 p.m. on election day. If you post your vote the Returning Officer must receive it before 6 p.m. on election day. Make sure you post it in plenty of time.
 4Mayor/President
 For an election in a Shire replace “mayor” with “president” and “mayoral” with “presidential”.
-[Form 13 inserted in Gazette 28 Aug 2009 p. 3365-7.]
+[Form 13 inserted: Gazette 28 Aug 2009 p. 3365-7.]
 Form 14.Elector’s Certificate
 Local Government (Elections) Regulations 1997, reg 43(1)(e) Elector’s Certificate
 Declaration [Making a false declaration is an offence] | I am the elector to whom a package containing the accompanying ballot paper envelope was addressed. I declare that the accompanying ballot paper envelope contains my ballot paper(s) and that I am the person enrolled as: Surname: Other names: Address (as enrolled, or claimed to be enrolled):
@@ -368,7 +368,7 @@ If the elector’s certificate is:
 (b)printed on the return envelope, replace “accompanying” with “enclosed”.
 2Postal election
 If the certificate is sent under regulation 41 (Postal election) the form may be modified by deleting the part requiring the elector to supply his or her name and address.
-[Form 14 inserted in Gazette 21 Jan 2005 p. 267.]
+[Form 14 inserted: Gazette 21 Jan 2005 p. 267.]
 Form 15.Application for Replacement Postal Voting Papers
 Local Government (Elections) Regulations 1997, reg 45 APPLICATION FOR REPLACEMENT POSTAL VOTING PAPERS
 Applicant | Full name:
@@ -384,7 +384,7 @@ Papers required | Please send me another: rballot paper rballot paper envelope r
 Declaration [Making a false declaration is an offence] | I declare that: ·I have not already voted in the election; and ·all of the details set out above are true and correct.
 Signature: | Date:
 What to do with your application | When you have completed and signed this form, you may send it to the Returning Officer for the district. You may send your form by post, by fax or by any other electronic means so long as it is capable of being printed in its entirety, including signatures. Alternatively you may give your form to an electoral officer at a polling place — ·If you are making your application before election day: during normal office hours; or ·if you are making your application on election day: between 8 a.m. and 6 p.m.
-[Form 15 amended in Gazette 22 Dec 1998 p. 6876; 21 Jan 2005 p. 268.]
+[Form 15 amended: Gazette 22 Dec 1998 p. 6876; 21 Jan 2005 p. 268.]
 Form 16.Provisional Voter’s Declaration
 Local Government (Elections) Regulations 1997, regs 46 and 62 PROVISIONAL VOTER’S DECLARATION
 Elector | Full name:
@@ -404,7 +404,7 @@ Electoral officer | Full name:
 [Tick appropriate boxes] | In considering this claim, I have had regard to: ra previously compiled electoral roll of the local government; ran electoral roll or other document prepared under the Electoral Act 1907 or the Commonwealth Electoral Act 1918; rthe owners and occupiers register; radvice sent by the CEO as to whether or not the person is an elector; rother relevant documents and materials – (describe briefly)
  | This application is racceptedrrejected
  | Signature: | Date:
-[Form 16 inserted in Gazette 22 Dec 1998 p. 6877-8; amended in Gazette 21 Jan 2005 p. 268.]
+[Form 16 inserted: Gazette 22 Dec 1998 p. 6877-8; amended: Gazette 21 Jan 2005 p. 268.]
 Form 17.Application for Absent Vote
 Local Government (Elections) Regulations 1997, reg 54 APPLICATION FOR ABSENT VOTE
 Applicant | Full name:
@@ -426,7 +426,7 @@ Back of Form 17
 1Property | If you are eligible to vote in respect of more than one property you need only give the address of one property, but the application process will be facilitated if you list all the properties. Add additional pages if necessary.
 2Electorate | If you are an elector in more than one electorate you must give the details of each electorate for which you wish to make an absent vote.
 3Declaration | You must sign this form before an Electoral Officer of the local government at whose offices the application is made.
-[Form 17 amended in Gazette 22 Dec 1998 p. 6878; 21 Jan 2005 p. 268.]
+[Form 17 amended: Gazette 22 Dec 1998 p. 6878; 21 Jan 2005 p. 268.]
 Form 18.Appointment of Scrutineer — original copy
 Local Government (Elections) Regulations 1997, reg 69 APPOINTMENT OF SCRUTINEER [To be completed by candidate. See back for notes on how to complete this form]
 Candidate | Full name:
@@ -475,7 +475,7 @@ The rights and duties of a scrutineer
 What you may do | As a scrutineer you may: ·attend at a polling place mentioned in your notice of appointment to observe the conduct of the election and to make sure that the Local Government Act 1995 is being complied with; and ·observe the checking of absent and postal votes; and ·be present at the preparation of postal voting papers but only at a sufficient distance so that you cannot ascertain the markings on the ballot papers; and ·be present when ballot boxes are opened and votes are being counted.
 What you must do | As a scrutineer you must: ·wear identification of your appointment as a scrutineer; and ·have your copy of the Appointment of Scrutineer form with you at all times and produce it when requested to do so by the Presiding Officer at a polling place; and ·comply with all directions given by the Returning Officer and all reasonable requests made by any other electoral officer.
 What you must not do | As a scrutineer you must not: ·enter a polling place if another scrutineer appointed by the same candidate is already there (unless one of you is just to cast your vote); ·take part in the conduct of the election; ·while in or within 6 metres of a polling place: ·canvass for votes; ·solicit the vote of an elector; ·induce an elector to vote for a particular candidate; ·induce an elector not to vote at the election; ·record the name of a person who attends a polling place to vote or record any information given by a person to an electoral officer in order to receive a ballot paper.
-[Form 18 amended in Gazette 22 Dec 1998 p. 6878; 25 Jan 2001 p. 590-1; 21 Jan 2005 p. 268; 3 Aug 2007 p. 4002 and 4006; 28 Aug 2009 p. 3368.]
+[Form 18 amended: Gazette 22 Dec 1998 p. 6878; 25 Jan 2001 p. 590-1; 21 Jan 2005 p. 268; 3 Aug 2007 p. 4002 and 4006; 28 Aug 2009 p. 3368.]
 Form 19.Results of Election
 Local Government Act 1995, s. 4.77 RESULTS OF ELECTION FOR ______________________________________
 Results | These are the results of the local government election held on ______________.
@@ -502,7 +502,7 @@ If a person was appointed by the council of the local government under section 4
 Repeat this box for each ward in the district in which there was an election and insert the name of the ward.
 If there were no councillor elections, delete this box.
 If the district is not divided into wards but councillors were elected for the district, change the title of this box to “Councillors” and delete the word “ward” in the last line.
-[Form 19 inserted in Gazette 28 Aug 2009 p. 3368-9.]
+[Form 19 inserted: Gazette 28 Aug 2009 p. 3368-9.]
 Form 20.Report to Minister
 REPORT TO MINISTER Local Government Act 1995, s. 4.79(2) Local Government (Elections) Regulations 1997, r. 81
 Part 1 — General information
@@ -551,7 +551,7 @@ Part 6 — Candidate/s elected
 Surname | Other names | Year term expires | Type of vacancy (Ordinary/extraordinary/other)
 Returning officer | Full name:
 Signature: | Date:
-[Form 20 inserted in Gazette 28 Aug 2009 p. 3369-71.]
+[Form 20 inserted: Gazette 28 Aug 2009 p. 3369-71.]
 Form 21.Referendum Ballot Paper
 REFERENDUM BALLOT PAPER
 Local government district:
@@ -584,7 +584,7 @@ How to make an absent vote
 3Date | Fill in the official referendum voting date — not the day you are filling in this form.
 4Referendum | Set out the question or proposal to be put to electors. If the possible answers are other than Yes or No, alter the answer boxes accordingly and cast your vote by putting a tick in the appropriate box.
 Cast your vote | To cast your vote in the referendum place a þ in the Yes box or the No box. Do not make any other marks on the ballot paper.
-[Form 22 amended in Gazette 25 Jan 2001 p. 591.]
+[Form 22 amended: Gazette 25 Jan 2001 p. 591.]
 Form 23. Results of Poll or Referendum
 Local Government Act 1995, s. 4.99 RESULTS OF REFERENDUM
 Local government district:

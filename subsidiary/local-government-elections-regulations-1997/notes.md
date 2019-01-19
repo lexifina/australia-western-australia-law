@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 April 2014 of the Local Government (Elections) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government (Elections) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Local Government (Elections) Regulations 1997 | 14 Feb 1997 p. 905-1008 | 14 Feb 1997
@@ -16,6 +16,7 @@ Local Government (Elections) Amendment Regulations 2009 | 14 Aug 2009 p. 3215-20
 Local Government (Elections) Amendment Regulations (No. 2) 2009 | 28 Aug 2009 p. 3359-71 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2009 (see r. 2(b) and Gazette 28 Aug 2009 p. 3347)
 Local Government (Elections) Amendment Regulations 2012 | 21 Dec 2012 p. 6642-4 | r. 1 and 2: 21 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2012 (see r. 2(b))
 Reprint 3: The Local Government (Elections) Regulations 1997 as at 4 Apr 2014 (includes amendments listed above)
+Local Government (Elections) Amendment Regulations 2019 | 18 Jan 2019 p. 111 | r. 1 and 2: 18 Jan 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jan 2019 (see r. 2(b))
 The Criminal Code s. 348 and 349 were deleted by the Defamation Act 2005 s. 47.
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 3.Application
