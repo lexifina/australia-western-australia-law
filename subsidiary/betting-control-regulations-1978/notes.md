@@ -70,7 +70,89 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Reprint 8: The Betting Control Regulations 1978 as at 12 May 2017 (includes amendments listed above)
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 10 Nov 2017 p. 5579-94 | 1 Jan 2018 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Betting Control Amendment Regulations 2019 r. 3-11 | 25 Jan 2019 p. 199-202 | 1 Feb 2019 (see r. 2(b) and Gazette 25 Jan 2019 p. 193-4)
+Racing and Gaming Regulations Amendment Regulations 2019 Pt. 2 | 25 Jan 2019 p. 202-3 | 1 Feb 2019 (see r. 2(b) and Gazette 25 Jan 2019 p. 193)
 Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is read and construed as a reference to the Commissioner of State Revenue unless the contrary intention appears.
+On the date as at which this compilation was prepared the Betting Control Amendment Regulations 2019 r. 3-11 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Betting Control Regulations 1978.
+4.Regulation 3 amended
+In regulation 3(1) insert in alphabetical order:
+approved event means an event, or a contingency, on or in relation to which bookmaking has been approved under section 4B(2) of the Act;
+5.Regulation 14 amended
+In regulation 14(7) delete “sporting events or contingencies approved under section 4B,” and insert:
+an approved event,
+6.Regulation 17 amended
+In regulation 17(1) delete “a sporting event, or a contingency,” (each occurrence) and insert:
+an approved event
+7.Regulation 71 amended
+In regulation 71(1):
+(a) delete “a sporting event,” and insert:
+an event,
+(b) delete “that sporting event” and insert:
+that event
+Note:The heading to amended regulation 71 is to read:
+Telephone betting on approved events
+8.Regulation 74 amended
+In regulation 74:
+(a) delete “a sporting event,” and insert:
+an event,
+(b) delete “that sporting event” and insert:
+that event
+Note:The heading to amended regulation 74 is to read:
+Internet betting (approved events)
+9.Appendix Part 2 heading amended
+In the heading to the Appendix Part 2 delete “a sporting event, or a contingency, approved under section 4B” and insert:
+approved events
+10.Appendix Part 2 rule 4 amended
+In the Appendix Part 2 rule 4 delete “a sporting event or contingency” and insert:
+an approved event
+11.Various references to “sporting event” amended
+In the provisions listed in the Table:
+(a) delete “a sporting event” (each occurrence) and insert:
+an approved event
+(b) delete “a sporting event” and insert:
+an approved event
+(c) delete “or sporting event” and insert:
+or approved event
+(d) delete “the sporting event” and insert:
+the approved event
+(e) delete “same sporting event” and insert:
+same approved event
+(f) delete “sporting events” and insert:
+approved events
+(g) delete “sporting contingencies” and insert:
+approved events
+(h) delete “sports betting” and insert:
+betting on approved events
+Table
+r. 3(1) def. of bet back par. (a) | r. 3(3)(b)
+r. 18(1)(e) | r. 37(1)(k)
+r. 49(b) | r. 50(b)
+r. 51(1)(b) and (3) | r. 60
+r. 61(1) | r. 62(2)
+r. 63(6)(a) and (b) | r. 64(3)(a) and (b)
+Appendix Part 2 r. 1 | Appendix Part 2 r. 6
+Appendix Part 2 r. 7 | Appendix Part 2 r. 8
+Appendix Part 2 r. 9
+On the date as at which this compilation was prepared the Racing and Gaming Regulations Amendment Regulations 2019 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Betting Control Regulations 1978 amended
+3.Regulations amended
+This Part amends the Betting Control Regulations 1978.
+4.Regulation 17E deleted
+Delete regulation 17E.
+5.Regulation 71 amended
+In regulation 71(3) delete “recorded and, for the purposes of section 15, included in the returns to be delivered under the Act.” and insert:
+recorded.
+6.Regulation 72 amended
+In regulation 72(3) delete “recorded and, for the purposes of section 15, included in the returns to be delivered under the Act.” and insert:
+recorded.
+7.Regulation 76 amended
+In regulation 76(3) delete “regulation 37 and, for the purposes of section 15, included in the returns to be delivered under the Act.” and insert:
+regulation 37.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
