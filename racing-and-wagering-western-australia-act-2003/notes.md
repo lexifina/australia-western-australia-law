@@ -17,39 +17,10 @@ Racing and Wagering Legislation Amendment Act 2009 Pt. 4 | 29 of 2009 | 23 Nov 2
 Statutes (Repeals) Act 2014 s. 9 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
 Associations Incorporation Act 2015 s. 227 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div 5 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
-Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 2 | 37 of 2018 | 12 Dec 2018 | 1 Jan 2019 (see s. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 3 | 37 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
+Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 2 and Div. 2 Subdiv. 3 | 37 of 2018 | 12 Dec 2018 | Pt. 8 Div. 1 Subdiv. 2: 1 Jan 2019 (see s. 2(c)) Pt. 8 Div. 2 Subdiv. 3: 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
 Under the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 7(2) the appointed day is 30 Jan 2004 (see Gazette 30 Jan 2004 p. 401).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 is a transitional provision that is of no further effect.
 The amendment in the State Superannuation Amendment Act 2007 s. 86 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 3 had not come into operation. It reads as follows:
-Part 8 — Other Acts amended
-Division 2 — Amendments commencing on proclamation
-Subdivision 3 — Racing and Wagering Western Australia Act 2003 amended
-67.Act amended
-This Subdivision amends the Racing and Wagering Western Australia Act 2003.
-68.Section 68 amended
-In section 68(2)(b) delete “sections 105(5) and” and insert:
-section
-69.Section 77 amended
-In section 77(2)(c) delete “sections 105(5) and” and insert:
-section
-70.Section 102 deleted
-Delete section 102.
-71.Section 105 deleted
-Delete section 105.
-72.Section 106 amended
-(1) Delete section 106(1)(f).
-(2) In section 106(1)(g) delete “or 107”.
-73.Section 107 deleted
-Delete section 107.
-74.Section 114 deleted
-Delete section 114.
-75.Part 9 deleted
-Delete Part 9.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -60,6 +31,7 @@ Australian Greyhound Racing Rules3(1)
 Australian Rules of Harness Racing3(1)
 Australian Rules of Racing3(1)
 authorised person113(1)
+betting tax account107B(2)
 board3(1)
 business arrangement30(5)
 CEO3(1)
@@ -88,7 +60,6 @@ member of staff3(1)
 members of staff23(3)
 metropolitan region3(1)
 notifiable interest19(3)
-off-course racing wager102(1)
 officerSch. 2 cl. 2(1)
 participate30(5)
 person associated with racing34
@@ -103,6 +74,7 @@ racing club3(1)
 racing industry3(1)
 racing year3(1)
 record3(1)
+remuneration21A(1), 21B(1)
 rules of racing3(1)
 rules of wagering3(1)
 RWWA3(1)
