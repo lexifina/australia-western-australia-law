@@ -1,13 +1,14 @@
 Notes
-This is a compilation of the Police Force (Member Testing) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Police Force (Member Testing) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Police Force (Member Testing) Regulations 2011 | 2 Dec 2011 p. 5095-124 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
-Police Regulations Amendment (Poisons) Regulations 2016 Pt. 3 | 17 Jan 2017 p. 412-17 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
+Police Regulations Amendment (Poisons) Regulations 2016 Pt. 3 | 17 Jan 2017 p. 412-17 | 30 Jan 2017 (see r. 2(c) and Gazette 17 Jan 2017 p. 403)
 Police Force (Member Testing) Amendment Regulations 2018 | 16 Feb 2018 p. 472-3 | r. 1 and 2: 16 Feb 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Feb 2018 (see r. 2(b))
 Police Force (Member Testing) Amendment Regulations (No. 2) 2018 | 17 Aug 2018 p. 2898-900 | r. 1 and 2: 17 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Aug 2018 (see r. 2(b))
 Police Force (Member Testing) Amendment Regulations (No. 3) 2018 | 13 Nov 2018 p. 4435-6 | r. 1 and 2: 13 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2018 (see r. 2(b))
-The Police Regulations Amendment (Poisons) Regulations 2016 Pt. 3, which purports to amend the principal regulations, is of no effect as those amending regulations were made by the Governor. Regulations made under the Police Act 1892 section 9 must be made by the Commissioner of Police with the approval of the Minister. The amendments purportedly made by the Police Regulations Amendment (Poisons) Regulations 2016 Pt. 3 are therefore not included in the compilation of the principal regulations.
+Reprint 1: The Police Force (Member Testing) Regulations 2011 as at 15 Feb 2019 (includes amendments listed above)
+The Police Regulations Amendment (Poisons) Regulations 2016 Pt. 3 is of no effect as those amending regulations were made by the Governor. Regulations made under the Police Act 1892 section 9 must be made by the Commissioner of Police with the approval of the Minister. The amendments in the Police Regulations Amendment (Poisons) Regulations 2016 Pt. 3 are therefore not included in the compilation of the principal regulations.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
