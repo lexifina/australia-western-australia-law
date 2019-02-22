@@ -1,7 +1,7 @@
 ## Schedule 1 — Forms
 [rule 1.6]
 Form 1
-rule 2.1
+[rule 2.1]
 Document title
 IN THE SUPREME COURTNo. of [year]
 IN THE MATTER OF [full name of corporation to which the proceeding relates and, if applicable, the words ‘(in liquidation)’, ‘(receiver appointed)’, ‘(receiver and manager appointed)’, ‘(controller acting)’, or ‘(administrator appointed)’]
@@ -15,7 +15,7 @@ Defendant(s)
 [insert information to comply with Order 69 Rule 2(1)(h) of the Rules of the Supreme Court 1971]
 [Form 1 amended: Gazette 13 Feb 2009 p. 312.]
 Form 2
-rules 2.2 and 15A.3
+[rules 2.2 and 15A.3]
 Originating process
 [Title]
 A.DETAILS OF APPLICATION
@@ -37,8 +37,7 @@ If you or your legal practitioner do not appear before the Court at the time sho
 (b)directions may be given for the future conduct of the proceeding;
 (c)any interlocutory application may be heard.
 Before appearing before the Court, you must file a notice of appearance, in the prescribed form, in the Registry and serve a copy of it on the plaintiff.
-Note for this Form:
-Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
+Note:Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
 C.APPLICATION FOR WINDING-UP ON GROUND OF INSOLVENCY
 [Complete this section if this originating process is seeking an order that a company be wound up in insolvency on the ground that the company has failed to comply with a statutory demand (see section 459Q of the Corporations Act).]
 [Set out particulars of service of the statutory demand on the company and of the failure to comply with the demand.]
@@ -47,9 +46,8 @@ C.APPLICATION FOR WINDING-UP ON GROUND OF INSOLVENCY
 (a)verify service of the demand on the company;
 (b)verify the failure of the company to comply with the demand; and
 (c)state whether and, if so, to what extent the debt, or each of the debts, to which the demand relates is still due and payable at the date when the affidavit is made.]
-Note for this Form:
-1 In an application for winding-up in insolvency on the ground that the company has failed to comply with a statutory demand, the applicant should consider completing Part C of Form 2 as shown in Note 1 to these rules.
-2.An example of the affidavit in support of an application for winding-up in insolvency for failure to comply with a statutory demand is shown in Note 2 to these rules.
+Note 1:In an application for winding-up in insolvency on the ground that the company has failed to comply with a statutory demand, the applicant should consider completing Part C of Form 2 as shown in Note 1 to these rules.
+Note 2:An example of the affidavit in support of an application for winding-up in insolvency for failure to comply with a statutory demand is shown in Note 2 to these rules.
 D.FILING
 Date of filing: [date of filing to be entered by Principal Registrar]
 .............................................
@@ -66,7 +64,7 @@ The time by which a copy of this originating process is to be served has been ab
 * Omit if not applicable
 [Form 2 amended: Gazette 13 Feb 2009 p. 308.]
 Form 3
-rules 2.2, 15A.4, 15A.8 and 15A.9
+[rules 2.2, 15A.4, 15A.8 and 15A.9]
 Interlocutory process
 [Title]
 A.DETAILS OF APPLICATION
@@ -84,8 +82,7 @@ B.NOTICE TO RESPONDENT(S) (IF ANY)
 TO: [name and address of each respondent to this interlocutory process (if any). If applicable, also state the respondent’s address for service.]
 If you or your legal practitioner do not appear before the Court at the time shown above, the application may be dealt with, and an order made, in your absence.
 Before appearing before the Court, you must, except if you have already done so or you are the plaintiff in this proceeding, file a notice of appearance, in the prescribed form, in the Registry and serve a copy of it on the plaintiff in the originating process.
-Note for this Form:
-Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
+Note:Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
 C.FILING
 This interlocutory process is filed by [name] for the applicant.
 D.SERVICE
@@ -99,13 +96,12 @@ The time by which a copy of this interlocutory process is to be served has been 
 * Omit if not applicable
 [Form 3 amended: Gazette 13 Apr 2007 p. 1673; 13 Feb 2009 p. 308.]
 Form 4
-rule 2.9
+[rule 2.9]
 Notice of appearance
 [Title]
 A.DETAILS OF PERSON INTENDING TO APPEAR
 Notice is given that [state full name and address], [briefly state your interest in the proceeding, e.g. a creditor for $ (amount), or a contributory, of the corporation] intends to appear before the Court at the hearing of the application to be heard at [name of Court and address] on [date] and, if applicable, to *oppose/*support the application.
-Note for this Form:
-Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
+Note:Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
 B.GROUNDS OF OPPOSITION TO WINDING-UP
 [Complete this section only if you are opposing an application to wind-up a company.]
 The grounds on which I oppose the application for winding-up are —
@@ -120,7 +116,7 @@ Signature of person giving notice
 or of person’s legal practitioner
 * Omit if not applicable
 Form 5
-rule 2.10
+[rule 2.10]
 Notice of intervention by ASIC
 [Title]
 The Australian Securities and Investments Commission, whose address for service is [address], intervenes in this proceeding.
@@ -131,7 +127,7 @@ Name of signatory: [name].
 Capacity of signatory: [capacity].
 [Form 5 amended: Gazette 12 Aug 2008 p. 3548.]
 Form 6
-rule 3.4
+[rule 3.4]
 Notice of hearing to approve compromise or arrangement
 TO all the creditors and members of [name of company].
 TAKE NOTICE that at ....................................*a.m./*p.m. on ..........................., the ........................................ at [address of Court] will hear an application by [name of plaintiff] seeking the approval of a compromise or arrangement between the abovenamed company and its *members/*creditors as proposed by a resolution passed by the meeting of the *members/*creditors of the company held on [date].
@@ -144,7 +140,7 @@ The address for service of the plaintiff is [address of plaintiff’s legal prac
 Name of person giving notice or of person’s legal practitioner [name].
 * Omit if not applicable
 Form 7
-rule 5.2
+[rule 5.2]
 Affidavit accompanying statutory demand
 [Name of creditor(s)]
 Creditor(s)
@@ -169,7 +165,7 @@ swears or affirms affidavit
 * Omit if not applicable
 Note:The form of the opening words and the jurat of this affidavit may be changed to conform to the form of affidavit used in a particular State or Territory — see rule 2.6.
 Form 8
-rules 5.5 and 6.1
+[rules 5.5 and 6.1]
 Consent of liquidator/provisional liquidator
 [Title]
 I, [name], of [address], an official liquidator, consent to be appointed by the Court and to act as the *liquidator/*provisional liquidator of [name of company].
@@ -189,7 +185,7 @@ Schedule
 [description of hourly rate(s)]
 [Form 8 amended: Gazette 12 Aug 2008 p. 3545-6.]
 Form 9
-rule 5.6
+[rule 5.6]
 Notice of application for winding-up order
 IN THE [name of Court]No. of [year]
 [Name of company]
@@ -202,7 +198,7 @@ Name of plaintiff or plaintiff’s legal practitioner: [name]
 * Omit if not applicable
 [Form 9 amended: Gazette 13 Feb 2009 p. 312; 21 Sep 2012 p. 4427.]
 Form 10
-rule 5.10
+[rule 5.10]
 Notice of application for winding-up order by substituted plaintiff
 IN THE [name of Court]No. of [year]
 [Name of company]
@@ -215,7 +211,7 @@ Name of substituted plaintiff or substituted plaintiff’s legal practitioner: [
 * Omit if not applicable
 [Form 10 amended: Gazette 13 Feb 2009 p. 312.]
 Form 11
-rule 5.11
+[rule 5.11]
 Notice of winding-up order and of appointment of liquidator
 IN THE [name of Court]
 AT [location of Court]
@@ -226,7 +222,7 @@ Date:
 Name and address of liquidator: [name and address]
 [Form 11 amended: Gazette 13 Feb 2009 p. 312.]
 Form 12
-rule 6.2
+[rule 6.2]
 Notice of appointment of provisional liquidator
 IN THE [name of Court]
 AT [location of Court]
@@ -237,7 +233,7 @@ Date:
 Name and address of provisional liquidator: [name and address]
 [Form 12 amended: Gazette 13 Feb 2009 p. 312.]
 Form 13
-rule 7.6
+[rule 7.6]
 Notice by creditor or contributory of objection to release of liquidator
 [Title]
 [Name of creditor/contributory] of [address of creditor/contributory], a creditor of [name of company] for $[amount], or a contributory of [name of company] holding [number] shares in the company, objects to the grant of a release to [name of liquidator] of [address of liquidator], who is the liquidator of [name of company], on the following grounds —
@@ -249,7 +245,7 @@ or objector’s legal practitioner
 Name of objector or objector’s legal practitioner: [name].
 The objector’s address for service is [address of objector or objector’s legal practitioner].
 Form 14
-rule 7.8
+[rule 7.8]
 Affidavit in support of application for order for payment of call
 [Title]
 I, [name] of [address], liquidator, *say on oath/*affirm [or *make oath and say/*solemnly and sincerely declare and affirm]:
@@ -269,12 +265,11 @@ Signature and designation of
 person before whom deponent
 swears or affirms affidavit
 * Omit if not applicable
-Note for this Form:
-The form of the opening words and the jurat of this affidavit may be changed to conform to the form of affidavit used in a particular State or Territory — see rule 2.6.
+Note:The form of the opening words and the jurat of this affidavit may be changed to conform to the form of affidavit used in a particular State or Territory — see rule 2.6.
 Schedule B
 Number on list of contributories | Name | Address | Character in which included in the list | Unpaid amount of call | Proportion of costs of application | Total amount payable
 Form 15
-rule 7.9
+[rule 7.9]
 Notice of application for leave to distribute a surplus
 IN THE [name of Court and address]
 APPLICATION NO:
@@ -288,7 +283,7 @@ The liquidator’s address for service is [address].
 Signature of liquidator
 [Form 15 amended: Gazette 13 Feb 2009 p. 312.]
 Form 16
-rules 9.1, 9.2, 9.3, 9.4 and 9.5
+[rules 9.1, 9.2, 9.3, 9.4 and 9.5]
 Notice of intention to apply for remuneration
 IN THE MATTER OF [company name]
 ABN or ACN: [ABN or ACN of company to which proceeding relates]
@@ -302,7 +297,7 @@ Signature of *receiver/*administrator/*liquidator/
 * Omit if not applicable
 [Form 16 amended: Gazette 13 Feb 2009 p. 312.]
 Form 16A
-rules 9.2A, 9.4A
+[rules 9.2A, 9.4A]
 Notice of intention to apply for review of remuneration
 IN THE MATTER OF [company name]
 ACN or ABN: [ACN or ABN of company to which proceeding relates]
@@ -318,7 +313,7 @@ Signature of proposed plaintiff or applicant
 * Omit if not applicable
 [Form 16A inserted: Gazette 12 Aug 2008 p. 3546.]
 Form 17
-rule 11.3
+[rule 11.3]
 Summons for examination
 [Title]
 A.DETAILS OF SUMMONS
@@ -335,8 +330,8 @@ If you do not attend the examination in accordance with this summons, without re
 This summons is issued at the request of [name] whose address for service is [address of person’s legal practitioner or person].
 * Omit if not applicable
 Form 17A
-Corporations Act 2001 (Cth) s. 486B and
-Supreme Court (Corporations) (WA) Rules 2004 r. 11A.1
+[Corporations Act 2001 (Cth) s. 486B and
+Supreme Court (Corporations) (WA) Rules 2004 r. 11A.1]
 Arrest warrant
 [Title]
 TO:All members and special members of the Australian Federal Police and to all officers of the police force of the State or Territory in which [name of person] is found, and to the Sheriff of that State or Territory and all of that Sheriff’s officers.
@@ -353,7 +348,7 @@ AND THE COURT IS SATISFIED THAT [name of person]:
 (c)has destroyed, concealed or removed books of the Company or is about to do so,*
 THIS WARRANT THEREFORE requires and authorises you to take [name of person] and to bring *him/*her before the Court at [address of Court] and to keep *him/*her there pending the making of a further order by the Court.
 THIS WARRANT ALSO requires and authorises you to seize any property or books of the company in the possession of [name of person] and to deliver them into the custody of the Registrar of the Court to be kept by that Registrar until the Court makes an order for their disposal.
-Note: Section 489A of the Corporations Act 2001 of the Commonwealth provides that if the Court issues a warrant under section 486B for a person to be arrested and brought before the Court, and the person is not in prison, then the person named in the warrant may be arrested by an officer of the police force of the State or Territory in which the person is found, or the Sheriff of that State or Territory or any of the Sheriff’s officers, or a member or special member of the Australian Federal Police.
+Note:Section 489A of the Corporations Act 2001 of the Commonwealth provides that if the Court issues a warrant under section 486B for a person to be arrested and brought before the Court, and the person is not in prison, then the person named in the warrant may be arrested by an officer of the police force of the State or Territory in which the person is found, or the Sheriff of that State or Territory or any of the Sheriff’s officers, or a member or special member of the Australian Federal Police.
 Date:
 ........................................
 Signed
@@ -361,7 +356,7 @@ Judge/Registrar
 * Omit if not applicable
 [Form 17A inserted: Gazette 12 Aug 2008 p. 3547-8.]
 Form 18
-rule 12.2
+[rule 12.2]
 Summons for appearance in relation to registration of transfer of interests
 [Title]
 TO: [name and address]
@@ -374,7 +369,7 @@ Principal Registrar
 Schedule
 [description of document(s)]
 Form 19
-rule 15A.5
+[rule 15A.5]
 Consent to act as designated person
 [Title]
 I, [name], of [address], an official liquidator, consent to be appointed by the Court and to act as the person designated by the Court under *article 19/*article 21 of the Model Law to *administer/*realise/*distribute the assets of [name of company].
@@ -389,7 +384,7 @@ Schedule
 [description of hourly rate(s)]
 [Form 19 inserted: Gazette 13 Feb 2009 p. 309; amended: Gazette 1 Apr 2010 p. 1279.]
 Form 20
-rule 15A.6
+[rule 15A.6]
 Notice of filing of application for recognition of foreign proceeding
 IN THE [name of Court]No. of [year]
 [Name of company]
@@ -406,7 +401,7 @@ Name of plaintiff or plaintiff’s legal practitioner: [name]
 *Omit if not applicable
 [Form 20 inserted: Gazette 13 Feb 2009 p. 309-10.]
 Form 21
-rule 15A.7
+[rule 15A.7]
 Notice of making of order under the Cross-Border Insolvency Act 2008 (Commonwealth)
 IN THE [name of Court]No. of [year]
 [Name of company]
@@ -422,7 +417,7 @@ Name of plaintiff or plaintiff’s legal practitioner: [name]
 *Omit if not applicable
 [Form 21 inserted: Gazette 13 Feb 2009 p. 310.]
 Form 22
-rule 15A.7
+[rule 15A.7]
 Notice of dismissal or withdrawal of application for recognition of foreign proceeding
 IN THE [name of Court]No. of [year]
 [Name of company]
@@ -434,7 +429,7 @@ Name of person giving notice or of person’s legal practitioner [name]
 *Omit if not applicable
 [Form 22 inserted: Gazette 13 Feb 2009 p. 311.]
 Form 23
-rule 15A.9
+[rule 15A.9]
 Notice of filing of application to modify or terminate an order for recognition or other relief
 IN THE [name of Court]No. of [year]
 [Name of company]
