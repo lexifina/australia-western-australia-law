@@ -1,46 +1,26 @@
 Notes
-This is a compilation of the Animal Welfare Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Animal Welfare Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Animal Welfare Act 2002 | 33 of 2002 | 15 Nov 2002 | 4 Apr 2003 (see s. 2 and Gazette 4 Apr 2003 p. 1023)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Animal Welfare Act 2002 | 33 of 2002 | 15 Nov 2002 | s. 1 and 2: 15 Nov 2002; Act other than s. 1 and 2: 4 Apr 2003 (see s. 2 and Gazette 4 Apr 2003 p. 1023)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | Sch. 1 cl. 6: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 7 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 1: The Animal Welfare Act 2002 as at 13 Oct 2006 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 9 and 84 | 24 of 2007 | 12 Oct 2007 | s. 9: 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645); s. 84: 1 May 2013 ( see s. 2(2) and Gazette 5 Feb 2013 p. 823)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 9 and 84 | 24 of 2007 | 12 Oct 2007 | s. 9: 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645); s. 84: 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Biodiversity Conservation Act 2016 s. 310 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Animal Welfare Amendment Act 2018 | 35 of 2018 | 28 Nov 2018 | s. 1 and 2: 28 Nov 2018 (see s. 2(a)); Act other than s. 1 and 2: 29 Nov 2018 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 2: The Animal Welfare Act 2002 as at 22 Feb 2019 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 362 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Other notes
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 5 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 References in the Act to the Director General were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 1. The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 454 is a general transitional provision that applies to references to the Director General in other written laws.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 5 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 362 had not come into operation. It reads as follows:
-362.Animal Welfare Act 2002 amended
-(1) This section amends the Animal Welfare Act 2002.
-(2) In section 5(1) delete the definition of Fisheries Western Australia.
-(3) In section 5(1) insert in alphabetical order:
-Aquatic Resources Department means the department of the Public Service principally assisting with the administration of the Aquatic Resources Management Act 2016;
-(4) In section 5(1) in the definition of animal delete “a fish (as defined in the Fish Resources Management Act 1994);” and insert:
-an aquatic organism (as defined in the Aquatic Resources Management Act 2016);
-(5) Delete section 5(2).
-(6) In section 33(2):
-(a) after paragraph (a)(ii) insert:
-(iiia) the Aquatic Resources Department; or
-(b) delete paragraph (a)(iv).
-(7) In section 64(1):
-(a) after paragraph (b) insert:
-(ca) the Aquatic Resources Department; and
-(b) delete paragraph (d).
-(8) In section 33(2) after each of paragraph (a)(i), (ii) and (iii) insert:
-or
-(9) In section 64(1) after each of paragraphs (a), (b) and (c) insert:
-and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
