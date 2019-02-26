@@ -27,6 +27,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Criminal Law Amendment (Intimate Images) Act 2019Pt. 4 | 4 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
 [s. 65]
@@ -76,6 +77,13 @@ Sexual Services Act 2000
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Intimate Images) Act 2019 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Working with Children (Criminal Record Checking) Act 2004 amended
+13.Act amended
+This Part amends the Working with Children (Criminal Record Checking) Act 2004.
+14.Schedule 2 amended
+In Schedule 2 under the heading “The Criminal Code” insert in numerical order:
+s. 221BD | Distribution of intimate image where image is of a child
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
