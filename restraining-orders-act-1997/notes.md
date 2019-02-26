@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 January 2018 of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Restraining Orders Act 1997 | 19 of 1997 | 28 Aug 1997 | s. 1 and 2: 28 Aug 1997; Act other than s. 1 and 2: 15 Sep 1997 (see s. 2 and Gazette 12 Sep 1997 p. 5149)
@@ -33,6 +33,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Criminal Law Amendment (Intimate Images) Act 2019Pt. 3 | 4 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(b))
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
 On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 had not come into operation. They read as follows:
@@ -80,6 +81,22 @@ In section 62D(8) delete the definition of remote communication.
 121.Section 71 amended
 Delete section 71(5)(a) and insert:
 (a) has been served on the restrained person by post or electronically; and
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Intimate Images) Act 2019 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Restraining Orders Act 1997 amended
+8.Act amended
+This Part amends the Restraining Orders Act 1997.
+9.Section 3 amended
+In section 3(1) insert in alphabetical order:
+distributes has the meaning given in The Criminal Code section 221BA;
+intimate image has the meaning given in The Criminal Code section 221BA;
+10.Section 5A amended
+Delete section 5A(2)(k) and insert:
+(k) distributing an intimate image of the family member without the family member’s consent, or threatening to distribute the image;
+11.Section 10G amended
+Delete section 10G(2)(g) and insert:
+(g) distributing an intimate image of the person seeking to be protected, or threatening to distribute the image;
+12.Section 30A amended
+In section 30A(1)(b)(ii) delete “and domestic”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
