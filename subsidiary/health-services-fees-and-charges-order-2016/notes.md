@@ -15,6 +15,7 @@ Health Services (Fees and Charges) Amendment Order (No. 3) 2018 | 11 May 2018 p.
 Health Services (Fees and Charges) Amendment Order (No. 6) 2018 | 25 May 2018 p. 1631-2 | cl. 1 and 2: 25 May 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 5) 2018 | 12 Jun 2018 p. 1895 | cl. 1 and 2: 12 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 13 Jun 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No.7) 2018 | 13 Nov 2018 p. 4432 | cl. 1 and 2: 13 Nov 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Dec 2018 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order 2019 | 26 Feb 2019 p. 439-40 | cl. 1 and 2: 26 Feb 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 27 Feb 2019 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
