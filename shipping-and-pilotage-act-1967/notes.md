@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Shipping and Pilotage Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Shipping and Pilotage Act 1967 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Shipping and Pilotage Act 1967 | 17 of 1967 | 20 Oct 1967 | 20 Oct 1967
@@ -23,76 +23,30 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Reprint 4: The Shipping and Pilotage Act 1967 as at 22 May 2009 (includes amendments listed above except those in the Shipping and Pilotage Amendment Act 2006)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 4 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Ports Legislation Amendment Act 2014 Pt. 3 | 9 of 2014 | 20 May 2014 | 31 May 2014 (see s. 2(1)(c) and Gazette 30 May 2014 p. 1680)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Ports Legislation Amendment Act 2019 Pt. 7 (other than s. 56) | 2 of 2019 | 26 Feb 2019 | 27 Feb 2019 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Shipping and Pilotage Amendment Act 2006 s. 8 and 13(1)(b) | 71 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
+Ports Legislation Amendment Act 2019 s. 56 | 2 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(d)(ii))
+Other notes
 The Shipping and Pilotage Amendment Act 1983 s. 3(2) reads as follows:
 (2) All proclamations made prior to the commencement of this section, under section 10(2) of the principal Act are hereby revoked.
-The ports of Augusta, Balla Balla, Dongara and Point Cloates were declared by proclamation under s. 10(2) to no longer be ports. See Gazette 29 May 1998 p. 2981.
-Lands and Surveys plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
-For variation of Onslow port boundaries see proclamation in Gazette 24 Aug 1990 p. 4246-7.
-For variation of Perth port boundaries see proclamation in Gazette 13 Jun 1986 p. 1969.
-The port of Jurien was declared by proclamation under s. 10(2) to no longer be a port. See Gazette 23 Mar 1989 p. 811.
-For variation of Port Walcott boundaries see proclamation in Gazette 17 Nov 1989 p. 4089.
 The Shipping and Pilotage Amendment Act 1988 s. 6 reads as follows:
 6.Validation
 Any act or other thing done before the day on which this Act comes into operation that would have been lawful had this Act been in force when that act or other thing was done shall be deemed to be and to have been lawfully done and is hereby validated.
-On the date as at which this compilation was prepared, the Shipping and Pilotage Amendment Act 2006 s. 8 and 13(1)(b) had not come into operation. They read as follows:
-8.Section 7B inserted
-Before section 8 the following section is inserted —
-“
-7B.Marine safety plans
-(1) In this section —
-marine department means the department of the Public Service principally assisting the Minister administering the Marine and Harbours Act 1981 in the administration of that Act;
-marine safety plan means a plan prepared by the safety operator for an MSP area and approved by the CEO setting out the arrangements for marine safety in the MSP area;
-MSP area means an area of water, or land and water, declared to be an MSP area under this section;
-safety operator has the meaning given to that term in subsection (4).
-(2) For the purposes of this section, the CEO may, by notice published in the Gazette, declare an area of water, or land and water, to be an MSP area.
-(3) An MSP area cannot include —
-(a) any land or water that is outside a port or outside any controlled area outside a port; or
-(b) any land that is controlled or managed by the marine department; or
-(c) any part of a mooring control area or fishing boat harbour; or
-(d) any land or water where the marine department controls and manages shipping movements and the use of facilities provided for shipping.
-(4) If under subsection (2) the CEO declares an MSP area, the CEO must, by notice published in the Gazette, designate a person as the safety operator for the MSP area.
-(5) In designating a person as the safety operator for an MSP area the CEO must take into account —
-(a) the ability of the person to undertake the functions of a safety operator; and
-(b) the views of the person, or persons, who control or manage shipping movements, and the use of facilities provided for shipping, in the MSP area.
-(6) The Interpretation Act 1984 section 52 applies to the designation of a person as the safety operator for an MSP area as if the designation were an appointment.
-(7) The CEO, by notice published in the Gazette, may at any time cancel or amend a declaration or designation made under this section.
-(8) The safety operator for an MSP area is to have, maintain and implement a marine safety plan for the MSP area.
-(9) The CEO is to monitor the maintenance and implementation of the marine safety plan and may give directions to the safety operator as to the maintenance and implementation of the plan.
-(10) The safety operator is to give effect to any direction given under subsection (9).
-(11) When required to do so under the regulations, and whenever else directed to do so by the CEO, the safety operator is to —
-(a) review a marine safety plan; and
-(b) submit modifications of the plan to the CEO for approval.
-(12) If the marine department controls and manages shipping movements and the use of facilities provided for shipping in an area that —
-(a) is not, or is not part of, an MSP area; but
-(b) is, or is a part of, a port or any controlled area outside a port,
-the chief executive officer of the marine department is to have, maintain and implement a plan setting out the arrangements for marine safety in the area.
-”.
-13.Section 12 amended
-(1) Section 12(1) is amended as follows:
-(b) after paragraph (bb) by inserting —
-“
-(bc) in relation to marine safety plans, providing for —
-(i) their form and the matters to be dealt with in them; and
-(ii) the procedures for submitting and obtaining approval of them; and
-(iii) their review and procedures for submitting and obtaining approval of modifications of them; and
-(iv) the powers that the CEO can exercise in order to monitor their maintenance and implementation;
-”;
 The Standardisation of Formatting Act 2010 s. 4, the amendment to the Shipping and Pilotage Act 1967 Schedule, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(d).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 authorised person12(1b)
+boat harbour3
 CEO3
 controlled area3
 controlling authority3
 declared area6A(1)
 Department3
 existing port10(3)
-fishing boat harbour3
 harbour master3
 marine safety plan3
 mooring control area3
@@ -100,6 +54,5 @@ pilot’s licence9(2)
 pilotage area3
 port3
 regulations10(3)
-responsible authority12(3)
 specified12(1b), 12(3)
 wreckage5(4)

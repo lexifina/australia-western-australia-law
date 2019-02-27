@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Marine and Harbours Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Marine and Harbours Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Marine and Harbours Act 1981 | 21 of 1981 | 26 May 1981 | 1 Mar 1982 (see s. 2 and Gazette 5 Feb 1982 p. 410)
@@ -23,25 +23,32 @@ Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Marine and Harbours Act 1981 as at 14 Mar 2008 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 32 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Ports Legislation Amendment Act 2019 Pt. 4 Div. 1 and 2 | 2 of 2019 | 26 Feb 2019 | 27 Feb 2019 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Ports Legislation Amendment Act 2019 Pt. 4 Div. 3 | 2 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(c) and (e))
+Other notes
 The Marine and Harbours Amendment Act 1994 s. 6(2) reads as follows:
-“
 (2) A lease which was granted or purportedly granted under section 12 of the principal Act before the commencement of this section —
 (a) to enable land or property to be used for community activities; or
 (b) to enable the commercial development of land or property by any person,
 is to be taken to be, and always to have been, as valid as it would have been if it had been granted for a purpose falling within the purposes of the principal Act or relating to the functions of the Department.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-authorised officer18A(1), 18B(3)
+authorised person18A(1), 18B(3)
 chief executive officer3
 Department3
 departmental area3
 departmental land3
 former department20(1)
 former office20(1)
+harbour3
 infringement notice3
+inspector3
 motor vehicle18B(3)
+port3
 Port Authority3
 port works5(2)
 services5A(1), 6A(3)

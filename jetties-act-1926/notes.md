@@ -26,15 +26,26 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Reprint 3: The Jetties Act 1926 as at 8 Jun 2007 (includes amendments listed above except those in the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 81 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Ports Legislation Amendment Act 2019 Pt. 2 | 2 of 2019 | 26 Feb 2019 | 27 Feb 2019 (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Agreements Minister13(1)
 chief executive officer3
 Department3
 Government3
+Government agreement13(1)
+instrument14(1)
 jetty3
+licence13(1)
+materials8A(1A)
 officer3
+port authority3
 private jetty3
 public jetty3
+relevant port authority13(1)
+renew13(1)
+specified13(1)
+Table13(1)
 vessel3

@@ -8,12 +8,16 @@ Acts Amendment (Department of Transport) Act 1993 Pt. 8 | 47 of 1993 | 20 Dec 19
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Reprint 1: The Lights (Navigation Protection) Act 1938 as at 7 May 2004 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Marginal notes in the Lights (Navigation Protection) Act 1938 referring to legislation of other jurisdictions have been omitted from this reprint.
+Ports Legislation Amendment Act 2019 Pt. 3 | 2 of 2019 | 26 Feb 2019 | 27 Feb 2019 (see s. 2(b))
+Marginal notes in the Lights (Navigation Protection) Act 1938 referring to legislation of other jurisdictions have been omitted from this compilation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+chief executive officer2
+department2
+harbour2
 Harbour light2
 Light2
 Owner2
-Port Authority2
-Port or Harbour2
+port2
+port manager2
