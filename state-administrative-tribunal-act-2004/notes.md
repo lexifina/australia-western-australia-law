@@ -33,25 +33,19 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 
 Travel Agents Amendment and Expiry Act 2014 s. 9 | 21 of 2014 | 29 Aug 2014 | 25 Jan 2017 (see s. 2(c) and Gazette 24 Jan 2017 p. 741)
 Reprint 4: The State Administrative Tribunal Act 2004 as at 4 Dec 2015 (includes amendments listed above except those in the Travel Agents Amendment and Expiry Act 2014)
 Statutes (Minor Amendments) Act 2017 s. 13 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
+Transport (Road Passenger Services) Act 2018 s. 327(2) | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
-Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 | 18 of 2014 | 2 Jul 2014 | Operative on the day after the expiry of the period of 6 months beginning on proclamation day (see s. 2(f))
 Aquatic Resources Management Act 2016 s. 371 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 7 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+Transport (Road Passenger Services) Act 2018 s. 327(1) | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
-On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 had not come into operation. It reads as follows:
-Division 4 — State Administrative Tribunal Act 2004 amended
-80.Act amended
-This Division amends the State Administrative Tribunal Act 2004.
-81.Schedule 1 amended
-In Schedule 1 insert in alphabetical order:
-Taxi Drivers Licensing Act 2014
+The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 371 had not come into operation. It reads as follows:
 371.State Administrative Tribunal Act 2004 amended
@@ -61,17 +55,10 @@ Fish Resources Management Act 1994
 Pearling Act 1990
 (3) In Schedule 1 insert in alphabetical order:
 Aquatic Resources Management Act 2016
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 7 had not come into operation. It reads as follows:
-Part 14 — Repeals and consequential amendments
-Division 2 — Consequential amendments
-Subdivision 7 — State Administrative Tribunal Act 2004 amended
-326.Act amended
-This Subdivision amends the State Administrative Tribunal Act 2004.
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 s. 327(1) had not come into operation. It reads as follows:
 327.Schedule 1 amended
 (1) In Schedule 1 delete:
 Taxi Act 1994
-(2) In Schedule 1 insert in alphabetical order:
-Transport (Road Passenger Services) Act 2018
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
