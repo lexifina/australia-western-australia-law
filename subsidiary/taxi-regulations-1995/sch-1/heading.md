@@ -7,8 +7,7 @@ Item | Section of Act or Regulation | Description of Offence | Modified Penalty 
 3 | Section 21(1) | Plate holder failing to ensure that plates used in manner directed | 100
 4 | Section 21(2) | Using taxi plates on vehicle other than taxi | 250
 5 | Section 25(1) | Failure to return taxi plates | 150
-6 | Section 26 | Provide or advertise an unregistered taxi dispatch service | 250
-7 | Section 29(2) | Failure to comply with taxi dispatch service conditions | 300
+[6, 7.Deleted]
 8 | Section 32(5) | Operating taxi the operation of which prohibited | 100
 9 | Section 32(6) | Failure to comply with notice or rectify defect | 300
 10 | Section 36(2) and (5) | Offences relating to the issue of receipts and statements regarding driver bonds | 100
@@ -49,4 +48,4 @@ Item | Section of Act or Regulation | Description of Offence | Modified Penalty 
 [30.Deleted]
 31 | Regulation 18(2) | Operating taxi with an unsealed meter | 250
 32 | Regulation 18(4) and (5) | Offences relating to meters | 250
-[Schedule 1 inserted: Gazette 23 Jan 2004 p. 323-5; amended: Gazette 24 Feb 2006 p. 883; 24 Apr 2009 p. 1387; 7 Jun 2011 p. 2061-2; 20 Feb 2015 p. 694; 28 Jun 2016 p. 2683-5.]
+[Schedule 1 inserted: Gazette 23 Jan 2004 p. 323-5; amended: Gazette 24 Feb 2006 p. 883; 24 Apr 2009 p. 1387; 7 Jun 2011 p. 2061-2; 20 Feb 2015 p. 694; 28 Jun 2016 p. 2683-5; 26 Feb 2019 p. 452.]
