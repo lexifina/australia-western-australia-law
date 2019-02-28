@@ -11,47 +11,10 @@ Road Traffic Legislation Amendment Act 2015 Pt. 4 | 10 of 2015 | 1 Apr 2015 | 2 
 Reprint 1: The Road Traffic (Authorisation to Drive) Act 2008 as at 3 Jul 2015 (includes amendments listed above except those in the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 3)
 Road Traffic Legislation Amendment Act 2016 s. 20 | 25 of 2016 | 21 Sep 2016 | 22 Sep 2016 (see s. 2(b))
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 3 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(d))
-Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 The Road Traffic Amendment Act (No. 2) 2007 s. 27 commenced 1 Dec 2010.
 The Road Traffic Legislation Amendment Act 2012 Pt. 3 (s. 15-18) commenced 1 Aug 2012; Pt. 3 other than s. 15-18 commenced 27 Apr 2015.
-On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 had not come into operation. It reads as follows:
-Part 10 — Consequential amendments
-Division 2 — Road Traffic (Authorisation to Drive) Act 2008 amended
-74.Act amended
-This Division amends the Road Traffic (Authorisation to Drive) Act 2008.
-75.Section 9 amended
-After section 9(7) insert:
-(8) Subsection (7) does not apply to a person who reproduces a photograph provided under this section —
-(a) as a result of its disclosure under section 11E; and
-(b) in the administration of the Taxi Drivers Licensing Act 2014.
-76.Section 11B amended
-In section 11B insert in alphabetical order:
-CEO (taxi drivers licensing) means the CEO as defined in the Taxi Drivers Licensing Act 2014 section 3(1);
-77.Section 11E inserted
-At the end of Part 2 Division 3A insert:
-11E.Disclosure to CEO (taxi drivers licensing)
-The CEO may disclose photographs to the CEO (taxi drivers licensing) for the purposes of the performance of the functions of the CEO (taxi drivers licensing) under the Taxi Drivers Licensing Act 2014.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 had not come into operation. It reads as follows:
-Part 14 — Repeals and consequential amendments
-Division 2 — Consequential amendments
-Subdivision 5 — Road Traffic (Authorisation to Drive) Act 2008 amended
-319.Act amended
-This Subdivision amends the Road Traffic (Authorisation to Drive) Act 2008.
-320.Section 9 amended
-After section 9(7) insert:
-(8) Subsection (7) does not apply to a person who reproduces a photograph provided under this section for the purposes of the Transport (Road Passenger Services) Act 2018 Part 7.
-321.Section 11B amended
-In section 11B insert in alphabetical order:
-CEO (road passenger services) means the CEO as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
-322.Section 11E inserted
-At the end of Part 2 Division 3A insert:
-11E.Disclosure to CEO (road passenger services)
-The CEO may disclose photographs to the CEO (road passenger services) for the purposes of the performance of the functions of the CEO (road passenger services) under the Transport (Road Passenger Services) Act 2018.
+The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -64,9 +27,10 @@ ASIO Act11B
 ASIO official11B
 Australian driver licence3(1)
 Australian driver licensing authority3(1)
+CEO (road passenger services)11B
 commencement day64
 current demerit points40(1)
-dealt with by infringement notice40(1)
+dealt with: infringement notice40(1)
 demerit period55(1)
 demerit point action40(1)
 demerit point offence40(1)
@@ -79,7 +43,7 @@ disqualification period54(1)
 disqualified28(1)
 driver licence14(1)
 driver’s licence3(1)
-driver’s licence held by a person19
+driver’s licence held: a person19
 excessive demerit points (novice driver) notice40(1)
 excessive demerit points notice40(1)
 external licensing authority3(1)

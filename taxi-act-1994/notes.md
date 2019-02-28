@@ -24,66 +24,21 @@ Reprint 3: The Taxi Act 1994 as at 8 Apr 2011 (includes amendments listed above 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 5 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d)and Gazette 17 Apr 2015 p. 1371)
 Taxi Amendment Act 2016 | 29 of 2016 | 3 Oct 2016 | s. 1 and 2: 3 Oct 2016 (see s. 2(a)); Act other than s. 1 and 2: 29 Oct 2016 (see s. 2(b) and Gazette 28 Oct 2016 p. 4909)
+Transport (Road Passenger Services) Act 2018 s. 302 and Pt. 14 Div. 2 Subdiv. 9 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
-Transport (Road Passenger Services) Act 2018 s. 302, 303 and Pt. 14 Div. 2 Subdiv. 9 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+Transport (Road Passenger Services) Act 2018 s. 303 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 49 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 had not come into operation. It reads as follows:
-Division 5 — Taxi Act 1994 amended
-82.Act amended
-This Division amends the Taxi Act 1994.
-83.Section 16 amended
-After section 16(8)(c) insert:
-(da) any conviction of an applicant of an offence, or any infringement notice given to an applicant (and not later withdrawn) in respect of an alleged offence, under the Taxi Drivers Licensing Act 2014 or an Act of another State or a Territory corresponding to that Act; and
-84.Section 29 amended
-Delete section 29(1)(e) and insert:
-(e) complaint resolution;
-(f) steps to be taken by the provider to ensure that the taxi dispatch services that it provides are not used by taxi drivers who do not hold licences granted under the Taxi Drivers Licensing Act 2014,
-85.Section 40 amended
-In section 40:
-(a) delete:
-(h)regulating the conduct and behaviour of taxi drivers in relation to the provision of taxi services;
-(b) delete:
-(k)regulating the circumstances under which a driver may refuse to accept a passenger or may terminate a hiring;
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 s. 302, 303 and Pt. 14 Div. 2 Subdiv. 9 had not come into operation. They read as follows:
-302.Taxi Act 1994 Part 3 Division 2 deleted
-The Taxi Act 1994 Part 3 Division 2 is deleted.
+The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 s. 303 has not come into operation. It reads as follows:
 303.Taxi Act 1994 repealed
 The Taxi Act 1994 is repealed.
-Part 14 — Repeals and consequential amendments
-Division 2 — Consequential amendments
-Subdivision 9 — Taxi Act 1994 amended
-330.Act amended
-This Subdivision amends the Taxi Act 1994.
-331.Section 3 amended
-(1) In section 3(1) delete the definitions of:
-registration
-taxi dispatch service
-(2) In section 3(1) insert in alphabetical order:
-taxi dispatch service means an on-demand booking service as defined in the Transport (Road Passenger Services) Act 2018 section 10;
-(3) In section 3(3):
-(a) in paragraph (a) delete “or an application for registration”;
-(b) after paragraph (b) insert:
-(ba) a reference to the provider of a taxi dispatch service is a reference to the provider of an on-demand booking service as defined in the Transport (Road Passenger Services) Act 2018 section 10; and
-332.Section 33 amended
-Delete section 33(c).
-333.Section 37 amended
-In section 37(1):
-(a) in paragraph (b) delete “section 24; or” and insert:
-section 24,
-(b) delete paragraph (c);
-(c) in paragraph (e) delete “transferee; or” and insert:
-transferee,
-(d) delete paragraph (f);
-(e) delete “plates or the provider of a taxi dispatch service,” and insert:
-plates,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -115,7 +70,6 @@ owner16(10)
 owner-driver16(5), 16(6)
 plate holder3(1), 21(6)
 plate owner’s lease3(1)
-registration3(1)
 related16(10)
 relevant percentage16(10)
 repealed Act3(1)
