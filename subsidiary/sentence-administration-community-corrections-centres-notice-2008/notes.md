@@ -22,3 +22,4 @@ Sentence Administration (Community Corrections Centres) Amendment Notice 2015 | 
 Sentence Administration (Community Corrections Centres) Amendment Notice 2016 | 3 Jun 2016 p. 1716-17 | cl. 1 and 2: 3 Jun 2016 (see cl. 2(a)); Notice other than cl. 1 and 2: 4 Jun 2016 (see cl. 2(b))
 Sentence Administration (Community Corrections Centres) Amendment Notice 2017 | 26 May 2017 p. 2622 | cl. 1 and 2: 26 May 2017 (see cl. 2(a)); Notice other than cl. 1 and 2: 27 May 2017 (see cl. 2(b))
 Sentence Administration (Community Corrections Centres) Amendment Notice 2018 | 8 Jun 2018 p. 1835-9 | cl. 1 and 2: 8 Jun 2018 (see cl. 2(a)); Notice other than cl. 1 and 2: 9 Jun 2018 (see cl. 2(b))
+Sentence Administration (Community Corrections Centres) Notice (No. 2) 2019 | 5 Mar 2019 p. 579 (correction: 12 Mar 2019 p. 665) | cl. 1 and 2: 5 Mar 2019 (see cl. 2(a)); Notice other than cl. 1 and 2: 6 Mar 2019 (see cl. 2(b))
