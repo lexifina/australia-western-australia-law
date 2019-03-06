@@ -1,819 +1,204 @@
 ## Schedule 1 — Forms
-Form 1 — Notice of application (general)
-[r. 13(1), 18(1), 27(3), 58(1), 59(1), 73(1) and (2), 82(8) and (11), 85, 100(1), 102(7), 103(9), 103A(2) and 104(1)]
-[Heading amended: Gazette 9 Jan 2015 p. 212.]
+[r. 3]
+[Heading inserted: Gazette 5 Mar 2019 p. 626.]
+## Division 1 — Summons
+[r. 41(1), 99(1) and 99E(1)]
+[Heading inserted: Gazette 5 Mar 2019 p. 626.]
 Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................ | of 20........................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of respondent/s — attach schedule if more space is needed)
-NOTE 1: | It is important to correctly state the full name of an employer. If an employer in this matter is a trading, financial or foreign corporation the Commission may not have jurisdiction to deal with the matter. If known, please indicate whether the employer is one of the following:
- | o Companyo Incorporated associationo Trust o Unincorporated (e.g. sole trader, partnership or other) o State government agencyo Other .....................................
-TAKE NOTICE THAT | .......................................................................................... .......................................................................................... .......................................................................................... ..........................................................................................
- | (name, street address and telephone number of applicant/s — attach schedule if more space is needed)
-has this day applied to the
-o Commissiono Public Service Arbitrator o Public Service Appeal Board o (other) .........................................................................................................................
-For: | ...........................................................................................................................
- | (examples: an order / a conference / registration of a new agreement / issuance of a new award)
-The grounds on which the application is made are:
-.........................................................................................................................................
-.........................................................................................................................................
-.........................................................................................................................................
-.........................................................................................................................................
-(give details or attach schedule if more space is needed)
- | ......................................................................................
- | ......................................................................................
- | (signature of applicant/s)
-NOTE 2: | For endorsements, see the back of this form.
-NOTE 3: | This form must be completed and signed by the applicant, and a written statement of claim or other adequate description of the subject matter of the application must be attached.
-NOTE 4: | The fee payable with this application must be paid at the time it is filed, or within 7 days of filing, or the application will not proceed.
-NOTE 5: | Unless the Commission otherwise directs, after the notice is filed, the applicant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
-NOTE 6: | Where service is to be effected outside WA, Form 4 of the Service and Execution of Process Regulations 1993 (Commonwealth) is required to be attached to the application.
-All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 1 inserted: Gazette 4 Jul 2014 p. 2390-2.]
-Form 2 — Notice of claim of harsh, oppressive or unfair dismissal
-[r. 61(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................... | of 20........................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of employer — attach schedule if more space is needed)
-NOTE 1: | It is important to correctly state the full name of the employer. If the employer in this matter is a trading, financial or foreign corporation the Commission may not have jurisdiction to deal with the matter. If known, please indicate whether the employer is one of the following:
- | o Companyo Incorporated associationo Trust
- | o Unincorporated (e.g. sole trader, partnership or other)
- | o State government agencyo Other .....................................
-TAKE NOTICE THAT | ............................................................................................
- | ............................................................................................ ............................................................................................ ............................................................................................
- | (name, street address and telephone number of applicant/s — attach schedule if more space is needed)
-has this day claimed to have been harshly, oppressively or unfairly dismissed for the reasons set out in the attached statement and has applied to the Commission for an order of reinstatement or compensation.
- | .....................................................................................
- | (signature of applicant)
-NOTE 2: | For endorsements, see the back of this form.
-NOTE 3: | This form must be completed and signed by the applicant, and a written statement of claim or other adequate description of the subject matter of the application must be attached.
-NOTE 4: | The fee payable with this application must be paid at the time it is filed, or within 7 days of filing, or the application will not proceed.
-NOTE 5: | Unless the Commission otherwise directs, after the notice is filed, the applicant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
-NOTE 6: | If the employer desires to contest the claim, the employer must file and serve on the applicant a Form 5 Notice of answer and answering statement within 21 days of being served with this notice. There is no fee payable.
-NOTE 7: | Where service is to be effected outside WA, Form 4 of the Service and Execution of Process Regulations 1993 (Commonwealth) is required to be attached to the application.
-All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 2 inserted: Gazette 4 Jul 2014 p. 2392-3.]
-Form 3 — Notice of claim of entitlement to a benefit under a contract of employment
-[r. 61(2)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ................................ | of 20.......................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of employer — attach schedule if more space is needed)
-TAKE NOTICE THAT | ...........................................................................................
- | ........................................................................................... ........................................................................................... ...........................................................................................
- | (name, street address and telephone number of applicant/s — attach schedule if more space is needed)
-has this day made a claim that he or she has not been allowed by you a benefit to which he or she is entitled under his or her contract of employment. The claim and the reasons why it is claimed are set out in the attached schedule.
- | .............................................................................
- | .............................................................................
- | (signature of applicant/s)
-NOTE 1: | For endorsements, see the back of this form.
-NOTE 2: | This form must be completed and signed by the applicant/s, and a written statement of claim or other adequate description of the subject matter of the application must be attached.
-NOTE 3: | The fee payable with this application must be paid at the time it is filed, or within 7 days of filing, or the application will not proceed.
-NOTE 4: | Unless the Commission otherwise directs, after the notice is filed, the applicant/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
-NOTE 5: | If the employer desires to contest the claim, the employer must file and serve on the applicant a Form 5 Notice of answer and answering statement within 21 days of being served with this notice. There is no fee payable.
-NOTE 6: | Where service is to be effected outside WA, Form 4 of the Service and Execution of Process Regulations 1993 (Commonwealth) is required to be attached to the application.
-All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 3 inserted: Gazette 4 Jul 2014 p. 2394-5.]
-Form 4A — Notice of referral by employee or former employee under Public Sector Management Act 1994
-[r. 63A(2)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ........................... | of 20 ......................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name of employing authority that made the decision or finding)
-TAKE NOTICE THAT | ...........................................................................
- | ...........................................................................
- | ...........................................................................
- | (name of applicant)
-has this day referred to the Commission the decision or finding made under the Public Sector Management Act 1994 that is set out in the attached written particulars.
- | ............................................................
- | (signature of applicant)
-NOTE 1: | This form must be completed and signed by the applicant and written particulars of the subject matter of the application must be attached to it.
-NOTE 2: | Unless the Commission otherwise directs, after the application is filed the applicant must serve (e.g. by posting or delivering it to the employing authority personally) a stamped copy, together with its attachments, on the employing authority as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
-NOTE 3: | An employing authority that is served with an application and that wants to respond to it may file a notice of answer in Form 5 within 21 days of being served with the application. An answering statement must be attached to the notice of answer and must, in summary form, specify the facts on which the employing authority relies and admit or dispute, either with or without qualification, each part of the application made by the applicant.
-All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 4A inserted: Gazette 15 May 2015 p. 1723-4.]
-Form 4 — Statutory declaration of service
-[r. 28(1), 61(3) and (6), 63A(3) and (6), 98(4) and (5), 99, 99D(5) and (7) and 99E]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .................................. | of 20....................
-IN THE MATTER OF a claim concerning | ..............................................................................
- | (state nature of proceedings)
-I, | ...................................................................................................................................
- | (full name in block letters)
-in the State of Western Australia | ...........................................................................
- | (occupation)
-sincerely declare that on the | ......................................................
- | (date)
-I did serve | .....................................................................................................................
- | (description of document served)
-upon | .....................................................................................................................
- | (name of person or party served)
-by | .....................................................................................................................
- | (state method of service)
-at | .....................................................................................................................
-(city, town or suburb where service occurred, or in case of service by post, address of person or party served)
-This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular. This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005.
-Declared at | ............................................................ | in the State of Western Australia,
-(city, town or suburb where declaration made)
-this | ............................ | day of | ........................................... | 20 ..............
-before me | ............................................. | ...................................................................
-(signature of authorised witness) | (signature of person making the declaration)
-.....................................................................
-(authority of witness)
-(Stamp of Commission)
-[Form 4 amended: Gazette 28 Apr 2006 p. 1652-3; 22 Jan 2008 p. 194; 4 Jul 2014 p. 2395; 15 May 2015 p. 1724.]
-Form 5 — Notice of answer
-[r. 14, 48(5), 50(6), 61(4), 63A(4), 89D(2), 89K(2), 99D(6), 99E and 107(6A)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20.......................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of applicant/s — attach schedule if more space is needed)
-TAKE NOTICE THAT | .........................................................................................
- | ......................................................................................... ..................................................................................................................................................................................
- | (name, street address and telephone number of respondent/s — attach schedule if more space is needed)
-has this day filed an answer to the application or claim made by you in the above number matter.
-The particulars to the answer are:
-.........................................................................................................................................
-......................................................................................................................................... ......................................................................................................................................... .........................................................................................................................................
-(attach schedule if more space is needed)
- | .............................................................................
- | .............................................................................
- | (signature of respondent/s)
-NOTE 1: | It is important to correctly state the full name of the respondent/s.
-NOTE 2: | This form must be completed and signed by the respondent/s and, where necessary, sealed and an answering statement admitting or disputing each claim made by the applicant/s must be attached.
-NOTE 3: | Unless the Commission otherwise directs, after the notice is filed, the respondent/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each applicant as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done
-All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 5 inserted: Gazette 4 Jul 2014 p. 2395-6; amended: Gazette 15 May 2015 p. 1724; 21 Aug 2015 p. 3343.]
-Form 6 — Notice of retirement from agreement
+Industrial Relations Commission Regulations 2005
+Summons to give evidence and/or produce documents
+Application No.
+This Summons is issued by the Western Australian Industrial Relations Commission
+PARTY DETAILS IN THE MATTER TO WHICH THE SUMMONS RELATES
+Applicant / Appellant:
+Respondent / Other Party:
+iIf there is more than 1 applicant/appellant or respondent/other party, please attach a separate page which contains the names of those parties.
+PERSON SUMMONED
+Name:
+Postal address:
+Email address:
+Telephone number:
+iThe postal address provided must be a street address. A PO Box or Locked Bag number is not an acceptable postal address for the purposes of this form.
+Do you believe that the person summoned may need the assistance of an interpreter and/or any special assistance when attending the Commission (such as wheelchair accessibility or a hearing loop)?
+ono
+oyes — interpreter
+oyes — special assistance
+Note: If you have answered yes to either of the above options (i.e. the possible need for an interpreter and/or special assistance) the Commission will make contact with the person summoned to determine their specific needs prior to the listed proceedings.
+THE PERSON SUMMONED IS DIRECTED TO:
+oattend before the Commission to give oral evidence at the time and date set out below, and remain until you are excused by the Commission;
+and / or
+oproduce to the Commission all books, papers or other documents in your possession, or under your control, that are relevant to the matter before the Commission, including:
+Please set out the books, papers or other documents that you believe are in the possession or under the control of the person summoned. The items set out must be relevant to the matter before the Commission. 1. 2. 3.
+DATE, TIME AND ADDRESS OF COMMISSION HEARING
+Date to attend / produce:
+Time to attend / produce:
+Address of hearing:
+DETAILS OF PERSON ISSUING THIS SUMMONS
+ | o Applicant o Respondent o Other:
+Representative:
+Contact person:
+Postal address:
+Email address:
+Telephone number:
+Signature:
+iIf you are lodging this form using the Commission’s online lodgment system, please type your name in full in the signature box above. If you are submitting this form in person, by post or via email, it must be signed.
+If you do not comply with this summons consequences may follow, which can include the Commission imposing penalties on you.
+FOR INFORMATION ABOUT THIS SUMMONS AND HOW TO COMPLY WITH IT, PLEASE SEE THE FOLLOWING
+INFORMATION FOR THE PERSON SUMMONED
+The form set out in the Industrial Relations Commission Regulations 2005 Schedule 1 Division 1 — Summons to Give Evidence and/or Produce Documents — is the prescribed form for requiring a person to attend a hearing before the Western Australian Industrial Relations Commission to give oral evidence, or to produce the documents set out within the summons, or to do both of those things.
+This summons is issued under the Industrial Relations Act 1979 and in accordance with the Industrial Relations Commission Regulations 2005. It is an important document and you must comply with the directions in it.
+A SUMMONS MUST BE SERVED BY DELIVERING IT TO YOU IN PERSON.
+In addition, at the time of service, an amount of money that is likely to be enough to meet your reasonable travel expenses to allow you to attend the hearing before the Commission must be given to you. This is often called conduct money. If you are located within the metropolitan area, conduct money is usually the cost of a bus or train fare from your home to the address of the Commission hearing. If you are located outside of the metropolitan area, conduct money may be equivalent to the cost of your train, plane or bus fare.
+The summons has information in it which sets out the date, time and address of the Commission hearing. The time stated is the scheduled commencement time of the hearing. You may choose to contact the person who issued the summons to see if they can give you a more definite time during the hearing that you might be called to give your evidence. Otherwise, your attendance is required at the scheduled commencement time.
+If you think that you do not have any relevant evidence to give and/or relevant documents to produce to the Commission, you can apply to have the Commission set aside the summons. You can also apply to give your evidence by video-link or telephone.
+Either of those applications must be made to the Commission in the approved form before the scheduled hearing date.
+If you do not comply with this summons consequences may follow, which can include the Commission imposing penalties on you.
+THE ABOVE INFORMATION IS PROVIDED AS A GENERAL GUIDE ONLY
+[Division 1 inserted: Gazette 5 Mar 2019 p. 626-31.]
+## Division 2 — Notice of intention to retire from industrial agreement
 [r. 56(a)]
+[Heading inserted: Gazette 5 Mar 2019 p. 631.]
 Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................... | of 20.......................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of party/parties to whom notice is directed — attach schedule if more space is needed)
-TAKE NOTICE THAT | ...........................................................................................
- | ...........................................................................................
- | (name, street address and telephone number of party giving notice)
-being a party to registered industrial agreement number .................................. of 20.............. has this day given notice of intention to retire from and cease to be a party to the said agreement at the expiration of 30 days from the date of this notice.
- | ......................................................................
- | (signature of party giving notice)
-NOTE 1: | This notice signifying intention to retire from an industrial agreement must be completed by the person giving such notice, signed and where necessary sealed by him or her.
-NOTE 2: | Unless the Commission otherwise directs, after the notice is filed, the person who filed it must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each other party as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
-All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 6 inserted: Gazette 4 Jul 2014 p. 2396-7.]
-Form 7 — Notice of referral to the Occupational Safety and Health Tribunal
-[r. 96(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission sitting as the Occupational Safety and Health Tribunal
- | No. OSHT..................... | of 20.......................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of employer or respondent/s if applicable — attach schedule if more space is needed)
-TAKE NOTICE THAT | ...........................................................................................
- | ............................................................................................ ............................................................................................ ............................................................................................
- | (name, street address and telephone number of applicant — attach schedule if more space is needed)
-has this day referred to the Tribunal:
-.........................................................................................................................................
-.........................................................................................................................................
-(state nature of matter e.g. review, appeal, claim)
-The grounds on which the referral is made are:
-.........................................................................................................................................
-.........................................................................................................................................
-.........................................................................................................................................
-.........................................................................................................................................
-.........................................................................................................................................
-.........................................................................................................................................
-.........................................................................................................................................
-(give details — attach schedule if more space is needed)
- | ..........................................................................
- | (signature/seal of applicant or signature of applicant’s solicitor or agent)
-NOTE: For endorsements, see the back of this form. (Stamp of Commission)
-[Form 7 inserted: Gazette 4 Jul 2014 p. 2397-8.]
-Form 7A — Notice of referral to the Road Freight Transport Industry Tribunal
-[r. 99B]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission sitting as the Road Freight Transport Industry Tribunal
- | No. RFT .................... | of 20.......................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of respondent/s if applicable — attach schedule if more space is needed)
-TAKE NOTICE THAT | ...........................................................................................
- | ...........................................................................................
- | (state name, street address and telephone number of applicant — the categories of persons who may refer a dispute or matter are set out in the Owner-Drivers (Contracts and Disputes) Act 2007 section 40)
-has this day referred to the Tribunal:
-.........................................................................................................................................
-.........................................................................................................................................
-(state nature of dispute or matter and identify whether the dispute or matter arises under the Owner-Drivers (Contracts and Disputes) Act 2007 section 40(a), (b) or (c) or more than one of those paragraphs)
-The grounds on which the referral is made are:
-.........................................................................................................................................
-.........................................................................................................................................
-......................................................................................................................................... ......................................................................................................................................... .........................................................................................................................................
-(state the name, street address and telephone number of owner-driver and of hirer (if not set out above) and the details of the claim, including any relevant terms of the owner-driver contract; or any relevant terms of the code of conduct alleged to be breached; or any alleged circumstances of a breach of the
-Owner-Drivers (Contracts and Disputes) Act 2007; or any relevant conduct complained of in respect of negotiations for an owner-driver contract — attach schedule if more space is needed)
- | ...................................................................
- | (signature/seal of applicant or signature of applicant’s solicitor or agent)
-NOTE: | Unless the Commission otherwise directs, after the notice is filed, the applicant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
-All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 7A inserted: Gazette 4 Jul 2014 p. 2399-400.]
-Form 8 — Notice of appeal from Board of Reference
-[r. 118(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20.......................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of respondent/s — attach schedule if more space is needed)
-TAKE NOTICE THAT | ............................................................................................
- | ............................................................................................ ............................................................................................ ............................................................................................
- | (name, street address and telephone number of appellant/s — attach schedule if more space is needed)
-has this day instituted an appeal to the Commission in Court Session against the decision given on the .............................. day of ...................................... 20 ................
-by the Board of Reference constituted for the purposes of
-.........................................................................................................................................
-(state name and number of award, order or General Order)
-in respect of:
-.........................................................................................................................................
-.........................................................................................................................................
-(state briefly the subject matter of the Board’s decision)
-on the ground/s set forth in the attached schedule.
- | .............................................................................
- | .............................................................................
- | (signature of appellant/s)
-NOTE 1:This form must be completed and signed by the appellant/s and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached.
-NOTE 2:Unless the Commission otherwise directs, after the notice is filed, the appellant/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each other party before the Board of Reference or on the solicitor or agent who represented that party as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 8 inserted: Gazette 4 Jul 2014 p. 2400-1.]
-Form 9A — Notice of appeal under Vocational Education and Training Act 1996
-[r. 101(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .............................. of 20 ........................
-To: | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of respondent/s — attach schedule if more space is needed)
-TAKE NOTICE THAT | ............................................................................................
- | ............................................................................................ ............................................................................................
- | (name, street address and telephone number of appellant/s — attach schedule if more space is needed)
-has this day instituted an appeal to the Commission against the decision given on the ................................................. day of ......................................... 20..............................
-by the chief executive officer of the department principally assisting the Minister to administer the Vocational Education and Training Act 1996 or
-.........................................................................................................................................
-(state title of person who gave decision)
-in respect of:
-.........................................................................................................................................
-.........................................................................................................................................
-(state briefly the subject matter of the decision)
-on the ground/s set out in the attached schedule.
- | .............................................................................
- | .............................................................................
- | (signature of appellant/s)
-NOTE:This form must be completed and signed by the appellant/s and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. (Stamp of Commission)
-[Form 9A inserted: Gazette 4 Jul 2014 p. 2401-2.]
-Form 9B — Notice of review of a decision of the Construction Industry Long Service Leave Payments Board
-[r. 102A(2)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20....................
-To: | The Construction Industry Long Service Leave Payments Board
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of respondent/s — attach schedule if more space is needed)
-TAKE NOTICE THAT | ............................................................................................
- | ............................................................................................
- | (name, street address and telephone number of applicant)
-has this day referred the decision of the Construction Industry Long Service Leave Payments Board
-.........................................................................................................................................
-(give details of the decision)
-given on the ............................... day of .................................................... 20.................
-for review to the Commission under the Construction Industry Portable Paid Long Service Leave Act 1985 section 50 on the following grounds:
-.........................................................................................................................................
-.........................................................................................................................................
-......................................................................................................................................... .........................................................................................................................................
-(attach schedule if more space is needed)
- | .....................................................................
- | (signature of applicant)
-NOTE:Unless the Commission otherwise directs, after the notice is filed, the applicant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 9B inserted: Gazette 4 Jul 2014 p. 2402-3.]
-Form 9 — Notice of appeal to Full Bench
-[r. 99, 99E and 102(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ......................... | of 20............................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name, street address and telephone number of respondent/s — attach schedule if more space is needed)
-TAKE NOTICE THAT | .............................................................................................
- | ............................................................................................. ............................................................................................. .............................................................................................
- | (name, street address and telephone number of appellant/s — attach schedule if more space is needed)
-has this day instituted an appeal against the decision of the:
-o | Commission | o | Public Service Arbitrator | o | Industrial Magistrates Court
-o | Occupational Safety and Health Tribunal
-o | Road Freight Transport Industry Tribunal
-o | (other).....................................................................................................................
-in matter numbered ........................................ of ......................... or the following parts or parts of that decision namely:
-.........................................................................................................................................
-on the ground/s set forth in the attached schedule.
- | .............................................................................
- | .............................................................................
- | (signature of appellant/s)
-NOTE 1:For endorsements, see the back of this form.
-NOTE 2:The fee payable with this notice must be paid at the time it is filed. NOTE 3:This form must be completed and signed by the appellant/s and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. NOTE 4:Unless the Commission otherwise directs, after the notice is filed, the appellant/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. NOTE 5:An appeal book in accordance with the Industrial Relations Commission Regulations 2005 must be filed and served on the respondent/s within 14 days of the filing of this notice. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 9 inserted: Gazette 4 Jul 2014 p. 2404-5; amended: Gazette 15 May 2015 p. 1724.]
-Form 10 — Notice of appeal to Public Service Arbitrator / Railway Classifications Board
-[r. 106(1) and 111(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20 .................
-To: | ...........................................................................................................................
- | ...........................................................................................................................
- | (name, street address and telephone number of respondent/employer)
-TAKE NOTICE THAT | ...........................................................................................
- | ...........................................................................................
- | (name, street address and telephone number of appellant)
-has this day instituted an appeal against the salary/range of salary/title* of the office occupied by me. (*delete whichever is inapplicable)
-Particulars of office to which appeal relates | Position No. Section | Classification Branch | Title Division
-Claim
-Grounds of Appeal
-Tick the box if the statement is appropriate: oAn appeal relating to the above position has not been lodged within the last 12 months; oI wish to represent myself; or oI authorise the following organisation/person* to act as my agent.
-.........................................................................................................................................
-(name, street address and telephone number of agent)
- | ....................................................................
- | (signature of appellant)
-NOTE 1:The fee payable with this notice must be paid at the time it is filed.
-NOTE 2:Unless the Commission otherwise directs, after the notice is filed, the appellant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent/employer as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 10 inserted: Gazette 4 Jul 2014 p. 2405-6.]
-## Form 11 — Notice of appeal to Public Service Appeal Board
-[r. 107(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20.....................
-To: | .........................................................................................................................
- | ......................................................................................................................... ............................................................................................................... ...............................................................................................................
- | (name, postal address and telephone number of the employing authority who made the decision, finding, determination or recommendation — attach statement if more space is needed)
-TAKE NOTICE THAT | .........................................................................................
- | ......................................................................................... .................................................................................. ..................................................................................
- | (name, street address and telephone number of person making the appeal — attach statement if more space is needed)
-has this day instituted an appeal against the decision, finding, determination or recommendation given on the ............................. day of ............................................... 20 ................
- | ........................................................................
- | (signature of appellant)
-NOTE 1: | This form must be completed by the appellant and a schedule that includes such particulars as are approved by the Chief Commissioner from time to time must be attached. This form and the attached schedule must be signed by the appellant.
-NOTE 2: | The fee payable with this notice of appeal must be paid at the time it is filed, or within 7 days of filing, or the appeal will not proceed.
-NOTE 3: | Unless the Public Service Appeal Board otherwise directs, after this notice of appeal is filed, the appellant must serve (e.g. by posting or delivering it personally) a stamped copy of it and the attached schedule on the respondent as soon as reasonably practicable and complete and file a Form 4 statutory declaration of service declaring that this has been done.
-NOTE 4: | A respondent that is served with this notice of appeal and that wants to respond to it may file a notice of answer in Form 5 within 21 days of being served with this notice of appeal. There is no fee payable.
-All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 11 inserted: Gazette 21 Aug 2015 p. 3344.]
-Form 12 — Notice of application to enforce the Industrial Relations Act 1979
-[r. 60(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .......................... | of 20.......................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ...........................................................................................................................
- | (name and street address of respondent/s — attach schedule if more space is needed)
-TAKE NOTICE THAT | ............................................................................................
- | (Minister / Registrar / Deputy registrar / Industrial inspector / Interested person)
-has this day applied to the Full Bench of the Western Australian Industrial Relations Commission for the enforcement of
-.........................................................................................................................................
-(specify part of the Act, direction, order or declaration alleged to be breached)
-You are therefore summoned to appear before the Full Bench of the Western Australian Industrial Relations Commission at 111 St Georges Terrace, Perth
-in hearing room ............................................................................................................
-on ............................... the ...................... day of ........................................... 20............
-(day of the week) | (date) | (month) | (year)
-at ....................................... o’clock in the ................................................... a.m./p.m.
-to answer the application for enforcement of that .......................................................
- | (Act, direction, order or declaration)
-under the Industrial Relations Act 1979 section 84A.
-Dated at Perth this ............................ day of .......................................... 20 ..................
- | ...................................................................
- | (signature of applicant)
-NOTE 1:The fee payable with this notice must be paid at the time it is filed.
-NOTE 2:Where this application is initiated other than by the Registrar it must be signed and, where necessary, sealed by the applicant. (Stamp of Commission)
-[Form 12 inserted: Gazette 4 Jul 2014 p. 2408.]
-Form 13 — Notice of objection
-[r. 15(1), 66(3), 67(3), 68(4), 69(5) and 71(3)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20 ....................
-IN THE MATTER OF an application for | ............................................................................................
- | (state nature of application)
-Objector | ..................................................................................................................
- | (name, street address and telephone number of objector)
-The above named objector objects to the whole (or any part) of the abovementioned application.
-.........................................................................................................................................
-.........................................................................................................................................
-(if part only, specify part objected to)
-The grounds of objection are:
-.........................................................................................................................................
-......................................................................................................................................... ......................................................................................................................................... .........................................................................................................................................
-(attach schedule if more space is needed)
-The objector is or is likely to be affected by the application in the following manner, namely:
-.........................................................................................................................................
-.........................................................................................................................................
-(attach schedule if more space is needed)
-Dated this ..................................... day of .......................................... 20........................
- | ...........................................................................
- | (signature of objector)
-NOTE 1:The fee payable with this notice must be paid at the time it is filed.
-NOTE 2:Unless the Commission otherwise directs, after the notice is filed, the objector must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on the person to whom the objection is directed as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 13 inserted: Gazette 4 Jul 2014 p. 2409-10.]
-Form 14 — Notice of withdrawal or discontinuance
-[r. 16(1) and (4), 89G(a), 89N(a), 99 and 99E]
-[Heading amended: Gazette 21 Aug 2015 p. 3345.]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20 ....................
-To: | ...........................................................................................................................
- | ........................................................................................................................... ........................................................................................................................... ...........................................................................................................................
- | (name and street address of respondent/s — attach schedule if more space is needed)
-TAKE NOTICE THAT | ............................................................................................
- | ............................................................................................ ............................................................................................ ............................................................................................
- | (name and street address of applicant/s — attach schedule if more space is needed)
-the applicant hereby discontinues or withdraws this application or the following part of the claim, namely —
-.........................................................................................................................................
-(if part only, specify part withdrawn or discontinued)
-Dated this ................................ day of .................................................. 20.....................
- | ............................................................................
- | ............................................................................
- | (signature of applicant/s)
-NOTE 1:Unless the Commission otherwise directs, after the notice is filed, the applicant/s must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done.
-NOTE 2: Where a counter-proposal has been filed in answer to an application, the application may only be withdrawn or discontinued with the consent of the respondent making the counter-proposal. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 14 inserted: Gazette 4 Jul 2014 p. 2410-11; amended: Gazette 15 May 2015 p. 1725.]
-Form 15 — Notice of hearing
-[r. 32(2), 99, 99E and 103(8)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .............................. | of 20 ......................
-In the matter of: | [state nature of matter]
-Between | ..................................................................................................
- | (applicant)
-and | ..................................................................................................
- | (respondent)
-To: | ......................................................................................................................
- | ......................................................................................................................
- | (name and address)
-TAKE NOTICE that the (insert constitution of Commission) will sit at 111 St. George’s Terrace, Perth in court number .......... on level ......... on .............. at .............. a.m./p.m. to hear the abovementioned matter.
-Dated this .................... day of ............................ 20 ..............
-Registrar (Stamp of Commission)
-[Form 15 inserted: Gazette 28 Apr 2006 p. 1655; amended: Gazette 4 Jul 2014 p. 2411; 15 May 2015 p. 1725.]
-Form 16 — Notice to admit
-[r. 23(1), 99 and 99E]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- |  | No. ............................. | of 20.......................
-Between | ...................................................................................................................
- | (applicant)
-and | ...................................................................................................................
- | (respondent)
-To: | ...................................................................................................................
- | ...................................................................................................................
- | (name and street address)
-TAKE NOTICE that you are required within 7 days of receiving this notice to admit or deny in writing the following facts:
-.........................................................................................................................................
-.........................................................................................................................................
-.........................................................................................................................................
-......................................................................................................................................... ......................................................................................................................................... .........................................................................................................................................
-(attach schedule if more space is needed)
-and TAKE FURTHER NOTICE that should you fail to reply to this notice within 7 days or such other time as the Commission upon your application may direct you may be liable to pay the costs of establishing those facts before the Commission.
-Dated this ................................. day of ............................................ 20 ......................
-...................................................................
-(signature of party issuing this notice)
-NOTE:This form must be completed and signed by the party requesting the admission or denial of the facts referred to above. (Stamp of Commission)
-[Form 16 inserted: Gazette 4 Jul 2014 p. 2411-12; amended: Gazette 15 May 2015 p. 1725.]
-Form 17 — Summons to witness
-[r. 41(1), 99 and 99E]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- |  | No. .............................. | of 20.....................
-Between | ...................................................................................................................
- | (applicant)
-and | ...................................................................................................................
- | (respondent)
-To: | ...................................................................................................................
- | ...................................................................................................................
- | (full name, occupation and street address)
-You are summoned to appear before the Commission at ...............................................
-on ..........................................the ..................... day of ............................... 20 ..............
-at ............................................. o’clock in the ................................................ a.m./p.m.
-and after that from day to day until discharged from attendance, to:
-(delete if not applicable) | (1)give evidence concerning the abovementioned matter; and (2)produce all books, papers, or other documents in your possession or under your control in any way relating to the proceedings in the said matter and in particular (but not exclusively) the following:
- | ...............................................................................................................
- | ...............................................................................................................
-This summons has been taken out by .............................................................................
-.........................................................................................................................................
-(name and street address of party taking out summons)
-If you fail or neglect to comply with this summons you are liable to a penalty. NOTE 1:The fee payable with this notice must be paid at the time it is filed. NOTE 2:Service of summons is to be effected by serving it personally on the person named in the summons.
-NOTE 3: At the time of service, the person serving the summons must tender to the person named in the summons sufficient money to enable him or her to travel between his or her place of residence or employment (whichever is appropriate) and the place of hearing mentioned in the summons. (Stamp of Commission)
-[Form 17 inserted: Gazette 4 Jul 2014 p. 2412-13; amended: Gazette 15 May 2015 p. 1725.]
-Form 18 — Warrant to appear as agent
-[r. 63(1) and (3), 99 and 99E]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- |  | No. ............................. | of 20.......................
-Between | ..................................................................................................................
- | (applicant)
-and | ..................................................................................................................
- | (respondent)
-Agent | .................................................................................................................. ..................................................................................................................
- | (specify: (a)name, street address and telephone number of agent; or (b)details relating to a class of persons of which the agent is a member)
-is hereby authorised to appear and act, in the abovementioned proceedings, for
-.........................................................................................................................................
-.........................................................................................................................................
-(name of party for whom agent is appearing and acting)
-This warrant also authorises the agent to receive mail, including email or fax, from the Commission for and on behalf of the party for whom the agent is appearing and acting.
-(delete if not applicable)
-This warrant also authorises the agent to appear and act for the party in other proceedings before the Commission.
-(delete if not applicable)
-This warrant applies until [it is withdrawn / .......................].
-(affix seal where necessary) | ........................................................................
- | (signature of party for whom the agent is appearing)
-Dated this ................................... day of ............................................. 20 ......................
-NOTE:Unless the Commission otherwise directs, after the warrant is filed, the party for who the agent is appearing must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on each respondent as soon as reasonably practicable and file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 18 inserted: Gazette 4 Jul 2014 p. 2413-14; amended: Gazette 15 May 2015 p. 1725; 12 Jan 2018 p. 117.]
-Form 19 — Application for registration of organisation/association
+Industrial Relations Commission Regulations 2005
+Notice of a party’s intention to retire from an industrial agreement
+Application No.
+This Notice is lodged in the Western Australian Industrial Relations Commission
+Details of the party giving notice to retire from an industrial agreement
+iPlease provide the details of the party to the industrial agreement who is lodging this notice, i.e. the party intending to retire from an agreement.
+Legal name of organisation or business:
+Business trading name:
+Business ACN or ABN:
+Name of contact person:
+Postal address:
+Suburb:
+State or Territory:
+Postcode:
+iThe postal address provided must be a street address. A PO Box or Locked Bag number is not an acceptable postal address for the purposes of this application.
+Telephone number:
+Email address:
+Details of the other party or parties to the industrial agreement
+iPlease provide the details of the other named party or parties to the industrial agreement that you intend to retire from. If there is more than 1 other party, please attach a separate page which contains the information that is required below, for each additional party.
+OTHER PARTY
+Legal name of organisation or business:
+Business trading name:
+Business ACN or ABN:
+Name of contact person:
+Postal address:
+Suburb:
+State or Territory:
+Postcode:
+iThe postal address provided must be a street address. A PO Box or Locked Bag number is not an acceptable postal address for the purposes of this application.
+Telephone number:
+Email address:
+Details of the industrial agreement
+iPlease provide the agreement number and name, in full, of the industrial agreement that you intend to retire from.
+THE PURPOSE OF THIS NOTICE IS TO INFORM THE COMMISSION AND THE OTHER PARTY OR PARTIES TO THE ABOVE INDUSTRIAL AGREEMENT THAT A PARTY TO THAT AGREEMENT INTENDS TO RETIRE FROM IT. THE RETIREMENT OF THAT PARTY FROM THE INDUSTRIAL AGREEMENT WILL TAKE EFFECT 30 DAYS FROM THE DATE OF FILING THIS NOTICE.
+Signature of the party giving notice to retire from an industrial agreement
+iIf you are lodging this form using the Commission’s online lodgment system, please type your name in full in the signature box below. If you are submitting this form in person, by post, or via email, it must be signed.
+Signature:
+[Division 2 inserted: Gazette 5 Mar 2019 p. 631-3.]
+## Division 3 — Application to register organisation or association
 [r. 66(1), 67(1) and 68(1)]
+[Heading inserted: Gazette 5 Mar 2019 p. 634.]
 Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ................................. | of 20..............................
-To the Full Bench:
-An application for registration under Part II Division 4 of the Industrial Relations Act 1979 is made by —
-.............................................................................................................................................
-.............................................................................................................................................
-(name of organisation/association)
-The following documents are lodged in support of this application —
-(1)a list containing the full names and addresses of officers of the organisation/association; (2)a certified copy of the rules of the organisation/association; (3)a copy of the resolution authorising the application.
-The registered office of the organisation/association will be situated at —
-.............................................................................................................................................
-.............................................................................................................................................
- | .............................................................................
- | (name and telephone number of person signing for and on behalf of the organisation/association)
-Dated at Perth this ................................ day of ..................................... 20 ........................
-The appropriate fee must be paid upon lodgment of this application. (Stamp of Commission)
-[Form 19 amended: Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2414.]
-Form 20 — Application to register additions, alterations or revisions of the name or rules of a registered organisation or association
-[r. 69(1) and (2), 70(1) and (2) and 71(1)]
+Industrial Relations Commission Regulations 2005
+Application to register an employee or employer organisation or an industrial association
+Application No.
+This application is made to the Western Australian Industrial Relations Commission
+The purpose of the application is to register a new employee or employer organisation or to register an industrial association.
+Application for registration is made by:
+iPlease insert the full name of the organisation or industrial association that is seeking registration in the space below.
+Registration of the new organisation is sought as:
+oan organisation of employees (Industrial Relations Act 1979 s. 53)
+oan organisation of employers (Industrial Relations Act 1979 s. 54)
+oan industrial association (Industrial Relations Act 1979 s. 67)
+Has the new organisation been formed as a result of the proposed amalgamation of 2 or more existing organisations?
+ono
+oyes — please provide the full names of the amalgamating organisations below
+Organisation 1:
+Organisation 2:
+Organisation 3:
+Applicant’s details
+iPlease provide the details of the organisation(s), or industrial association(s) making this application. If there is more than 1 applicant, please attach a separate page which contains the information that is required below, for each additional applicant.
+Full name of organisation or industrial association:
+Name of contact person:
+Address of registered office of organisation or industrial association:
+ | Suburb: | WA | Postcode:
+iThe address provided must be the address of the registered office of the organisation or industrial association. A PO Box or Locked Bag number is not an acceptable postal address for the purposes of this application.
+Telephone number:
+Email address:
+Do you need an interpreter?
+oyes — language required
+ono
+Do you, or any person attending the Commission with you, require any special assistance (such as wheelchair accessibility or a hearing loop)?
+oyes — please specify:
+ono
+Applicant’s representative’s details
+iYou may have a representative present your case on your behalf, such as a registered industrial agent, a union official (if you are a member of a union) or a lawyer. If you have a representative, please provide their contact details below.
+You are not required to have a representative and may present your own case.
+Do you have a representative?
+oyes
+ono
+Name of representative:
+Name of organisation, agent or law firm:
+Postal address:
+Suburb:
+State or Territory:
+Postcode:
+Telephone number:
+Email address:
+If you have a representative, the Commission will contact either you or your representative, so you need to decide whether you are to be, or your representative is to be, the contact person for the Commission. Who would you like the Commission to send documents and correspondence to, relating to your application?
+o to you or o to your representative
+How would you like that correspondence to be sent?
+o by email or o by post
+iIf you choose to receive documents and correspondence by email, or to have documents and correspondence sent by email to your representative on your behalf, it is your or your representative’s responsibility to check your email inbox regularly for communication from the Commission.
+DOCUMENT CHECKLIST
+APPLICATION FOR REGISTRATION AS AN EMPLOYEE OR EMPLOYER ORGANISATION
+To apply for registration as an employee or employer organisation, the following documents are to be provided and attached to this application when it is lodged:
+iPlease confirm that the following documents have been attached to this application by ticking each of the check boxes below. If this application seeks the registration of a new organisation as a result of the proposed amalgamation of 2 or more existing organisations, the documents required in points 1, 3, 4 and 5 below must be provided for each organisation.
+1.o3 copies of a list containing the full names of the officers of the organisation, with their respective addresses; and
+2o3 printed or type-written copies of the rules of the organisation, certified as being correct by the president or secretary of the organisation; and
+3.o3 copies of the information given to members in accordance with the Industrial Relations Act 1979 s. 55(4)(b); and
+4.o3 copies of the resolution of the organisation authorising the making of this application to the Commission; and
+5.oa statement, in the form of a statutory declaration made by the president or secretary (as authorised by the organisation’s rules) which details the process undertaken by the organisation to inform its members, including how notices were disseminated. The statement must also provide evidence of the required resolutions having been made, in accordance with the rules of the organisation.
+NOTE:
+If this application is being lodged in person or by post, where specified above 3 copies of documents must be provided. If the application is being lodged using the Commission’s online lodgment system, or via email, you need only provide 1 copy of each of the required documents.
+DOCUMENT CHECKLIST
+APPLICATION FOR REGISTRATION OF AN INDUSTRIAL ASSOCIATION
+To apply for the registration of an industrial association, the following documents are to be provided and attached to this application when it is lodged:
+iPlease confirm that the following documents have been attached to this application by ticking each of the check boxes below.
+1.o3 copies of a list containing the full names of the organisations that are represented on the council or other body; and
+2o3 copies of a list containing the full name and address of each person representing those organisations on the council or other body; and
+3.o3 copies of a list containing the full names and addresses of the officers of the council or other body; and
+4.o3 printed or type-written copies of the rules of the council or other body, certified as being correct by the president or chairman and secretary of the council or other body; an
+5.o3 copies of the information given to members of the council or other body in accordance with the Industrial Relations Act 1979 s. 55(4)(b), as applied by the Industrial Relations Act 1979 s. 67(3); and
+6.o3 copies of the resolution of the council or other body authorising the making of this application to the Commission; and
+7.oa statement, in the form of a statutory declaration made by the president, chairman or secretary (as authorised by the rules of the council or other body) which details the process undertaken by the council or other body to inform its members, including how notices were disseminated; the statement must also provide evidence of the required resolutions, in accordance with the rules of the council or other body.
+NOTE:
+If this application is being lodged in person or by post, where specified above 3 copies of documents must be provided. If the application is being lodged using the Commission’s online lodgment system, or via email, you need only provide 1 copy of each of the required documents.
+Applicant’s signature
+iIf you are lodging this form using the Commission’s online lodgment system, please type your name in full in the signature box below. If you are submitting this form in person, by post, or via email, it must be signed.
+Applicant(s)
+[Division 3 inserted: Gazette 5 Mar 2019 p. 634-9.]
+## Division 4 — Certificate of registration
+[r. 77(1), (2), (3), (4) and (5)]
+[Heading inserted: Gazette 5 Mar 2019 p. 639.]
 Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .............................. | of 20 ........................
-To the Full Bench/Registrar:
-An application is made by —
-.............................................................................................................................................
-.............................................................................................................................................
- | (name of organisation/association)
-an organisation/association registered under the Industrial Relations Act 1979 for the registration or alteration to the name/rules of the organisation/association, the particulars of which are attached to this Form. The alterations were proposed by the organisation/association in accordance with its rules and the Act on —
-..........................................................................
-(date alterations were proposed)
- | ........................................................................................
- | (name and telephone number of person signing for and on behalf of the organisation/association)
-Dated at Perth this ................................. day of ...................................... 20 .....................
-The appropriate fee must be paid upon lodgment of this application. (Stamp of Commission)
-[Form 20 amended: Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2414.]
-Form 21 — Summons for cancellation or suspension of registration of organisation/association
-[r. 74(2)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20 ........................
-To: | ........................................................................................................................
- | ........................................................................................................................
- | (name and address of organisation/association)
-TAKE NOTICE that you are required to appear before the Full Bench of the Western Australian Industrial Relations Commission at 111 St George’s Terrace, Perth
-on ....................................the ................... day of ............................................ 20 .............
-at ....................................... o’clock in the ....................................................... a.m./p.m.
-and after that as required, to show cause why the registration of the organisation should not be cancelled or suspended under the Industrial Relations Act 1979 section 73.
-Dated at Perth this ................................... day of ...................................... 20 ....................
- | ..............................................................
- | (signature of Registrar)
-(Stamp of Commission)
-[Form 21 amended: Gazette 4 Jul 2014 p. 2415.]
-Form 22 — Request by an organisation/association to cancel its registration
-[r. 75(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .................................. | of 20 .............................
-To the Registrar:
-A request is made by —
-.............................................................................................................................................
-.............................................................................................................................................
-(name of organisation/association)
-an organisation/association registered under the Industrial Relations Act 1979 for the cancellation of that registration.
-The grounds on which the request is made are:
-.............................................................................................................................................
-.............................................................................................................................................
-(attach schedule if necessary)
-The number of members whose names are at present lawfully on the register of members kept by the organisation/association is ................................................................
-The number of members present at the meeting which resolved to seek the cancellation/suspension of the organisation/association was | ..........................
-The number in favour of this action was | .......................................................................
- | ...............................................................................
- | (name and telephone number of person signing for and on behalf of the organisation/association)
-Dated at Perth this ................................... day of ..................................... 20 .....................
-(Stamp of Commission)
-[Form 22 amended: Gazette 28 Apr 2006 p. 1656; 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
-Form 23 — Application to cancel registration of organisation/association
-[r. 76(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. ............................. | of 20 ........................
-To: | ...............................................................................................................................
- | ...............................................................................................................................
- | (name and address of organisation/association)
-TAKE NOTICE that that the Registrar has this day applied to have the registration of —
-.............................................................................................................................................
-(name of organisation/association)
-cancelled on the following grounds —
-.............................................................................................................................................
-.............................................................................................................................................
-.............................................................................................................................................
-(grounds for cancellation)
-AND TAKE NOTICE that notice of any objection to the cancellation must be given in writing in accordance with Form 13 within 14 days of the service of this application.
-Dated at Perth this ................................. day of ........................................ 20 ....................
- | .......................................................................
- | (signature of Registrar)
-(Stamp of Commission)
-[Form 23 amended: Gazette 28 Apr 2006 p. 1656; 4 Jul 2014 p. 2415.]
-Form 24 — Certificate of registration as an organisation
-[r. 77(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
-I certify that the organisation called —
-.............................................................................................................................................
-(name of organisation)
-whose registered office is at —
-.............................................................................................................................................
-(address of organisation)
-has this day been duly registered as an organisation under the Industrial Relations Act 1979, and, under section 60 of that Act, is a body corporate.
-Given under my hand this ................................ day of .............................. 20 ...................
- | ...............................................................................
- | (signature of Registrar)
-(Stamp of Commission)
-[Form 24 amended: Gazette 4 Jul 2014 p. 2415.]
-Form 25 — Certificate of registration as an industrial association
-[r. 77(2)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
-I certify that the association called —
-.............................................................................................................................................
-(name of association)
-whose registered office is at —
-.............................................................................................................................................
-(address of association)
-has this day been duly registered as an industrial association under the Industrial Relations Act 1979, and, pursuant to sections 60 and 67 of that Act, is a body corporate.
-Given under my hand this .............................. day of ................................ 20 ...................
- | .............................................................................
- | (signature of Registrar)
-(Stamp of Commission)
-[Form 25 amended: Gazette 4 Jul 2014 p. 2415.]
-Form 26 — Certificate of registration as an organisation formed by amalgamation
-[r. 77(3)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
-I certify that the organisations formerly registered under the names —
-1 ..........................................................................................................................................
-(organisation)
-2 ..........................................................................................................................................
-(organisation)
-have this day been duly registered under the Industrial Relations Act 1979, as one organisation by the name —
-.............................................................................................................................................
-(organisation)
-and that organisation is, pursuant to section 60 of that Act, a body corporate. The registrations of the organisations referred to in items 1 and 2 above are this day cancelled.
-Given under my hand this ............................. day of ................................ 20 ....................
- | ...............................................................................
- | (signature of Registrar)
-(Stamp of Commission)
-[Form 26 amended: Gazette 4 Jul 2014 p. 2415.]
-Form 27 — Certificate of registration of alteration of rules
-[r. 77(4)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
-I certify that the annexed alteration of rules of —
-.............................................................................................................................................
-(organisation/association)
-have this day been duly registered at my office under the provisions of the Industrial Relations Act 1979.
-The rules altered are —
-.............................................................................................................................................
-Given under my hand this .............................. day of .................................... 20 ...............
- | ...............................................................................
- | (signature of Registrar)
-(Stamp of Commission)
-[Form 27 amended: Gazette 4 Jul 2014 p. 2415.]
-Form 28 — Certificate of registration of change of name
-[r. 77(5)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
-I certify that on ................................. day of ............................................. 20 ...................
-on the hearing of an application duly made on behalf of the organisation/association formerly registered under the title of —
-.............................................................................................................................................
-(organisation/association)
-the Full Bench consented to the name of the organisation/association being changed to read, and that name is accordingly now registered as —
-.............................................................................................................................................
-Given under my hand this ............................. day of ....................................... 20 .............
- | .................................................................................
- | (signature of Registrar)
-(Stamp of Commission)
-[Form 28 amended: Gazette 4 Jul 2014 p. 2415.]
-Form 29 — Application by secretary for authority to be issued
-[r. 82(1)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .............................. | of 20 .............................
-To the Registrar:
-An application is made by —
-.............................................................................................................................................
-(name of secretary of organisation)
-the secretary of —
-.............................................................................................................................................
-.............................................................................................................................................
-(name, registered address and telephone number of organisation)
-for the issue of an authority under section 49J of the Industrial Relations Act 1979 to the following person —
-.............................................................................................................................................
-.............................................................................................................................................
-(name, registered address and telephone number of person)
- | .....................................................................................
- | (signature of organisation secretary)
-Dated at Perth this ................................ day of ........................................... 20...................
-[Form 29 amended: Gazette 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
-Form 30 — Application by secretary for revocation of an authority
-[r. 82(2)]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .............................. | of 20 .............................
-To the Registrar:
-An application is made under section 49J(6) of the Industrial Relations Act 1979 by —
-.............................................................................................................................................
-(name of secretary of organisation)
-the secretary of —
-.............................................................................................................................................
-.............................................................................................................................................
-(name, registered address and telephone number of organisation)
-for the revocation of an authority issued under section 49J of that Act to —
-.............................................................................................................................................
-.............................................................................................................................................
-(name, registered address and telephone number of person)
- | ....................................................................................
- | (signature of organisation secretary)
-Dated at Perth this ..................................... day of ..................................... 20 ..................
-[Form 30 amended: Gazette 28 Apr 2006 p. 1656; 10 Jul 2009 p. 2744; 4 Jul 2014 p. 2415.]
-## Form 31A — Notice of appeal against a decision to take removal action under Prisons Act 1981
-[r. 89B]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .............................. | of 20 ....................
-To the chief executive officer
-TAKE NOTICE THAT | ..........................................................................................
- | ......................................................................................... ...................................................................................
- | (name, street address and telephone number of appellant — attach statement if more space is needed)
-has this day instituted an appeal under the Prisons Act 1981 section 106 against your decision under section 101 of that Act to take removal action against the appellant with effect from the ....................... day of .................................... 20..................
-The details of the decision and reasons for the decision being harsh, oppressive or unfair are:
-.................................................................................................................................
-.................................................................................................................................
-(give details of the decision and reasons for the decision being harsh, oppressive or unfair — attach statement if more space is needed)
-The appellant seeks: oan order that the appellant’s removal is, and is to be taken to have always been, of no effect; or oan order that the chief executive officer is to pay the appellant an amount of compensation for loss or injury caused by the removal. (please tick one box only)
- | ..................................................................
- | (signature of appellant)
-NOTE:Unless the Commission otherwise directs, within 7 days after the notice is filed, the appellant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on the chief executive officer and as soon as reasonably practicable file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 31A inserted: Gazette 21 Aug 2015 p. 3345.]
-## Form 31B — Notice of appeal against a decision to take removal action under Young Offenders Act 1994
-[r. 89I]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .............................. | of 20 ....................
-To the chief executive officer
-TAKE NOTICE THAT | ..........................................................................................
- | .......................................................................................... ...................................................................................
- | (name, street address and telephone number of appellant — attach statement if more space is needed)
-has this day instituted an appeal under the Young Offenders Act 1994 section 11CH against your decision under section 11CC of that Act to remove the appellant from office with effect from the ................... day of .................................... 20..................
-The details of the decision and reasons for the decision being harsh, oppressive or unfair are:
-.................................................................................................................................
-.................................................................................................................................
-(give details of the decision and reasons for the decision being harsh, oppressive or unfair — attach statement if more space is needed)
-The appellant seeks: oan order that the appellant’s removal is, and is to be taken to have always been, of no effect; or oan order that the chief executive officer is to pay the appellant an amount of compensation for loss or injury caused by the removal. (please tick one box only)
- | ..................................................................
- | (signature of appellant)
-NOTE:Unless the Commission otherwise directs, within 7 days after the notice is filed, the appellant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on the chief executive officer and as soon as reasonably practicable file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 31B inserted: Gazette 21 Aug 2015 p. 3346.]
-Form 31 — Notice of appeal against a decision of the Commissioner of Police to take removal action
-[r. 90]
-Industrial Relations Act 1979
-In the Western Australian Industrial Relations Commission
- | No. .............................. | of 20 ......................
-To the Commissioner of Police
-TAKE NOTICE THAT | ............................................................................................
- | ............................................................................................ ............................................................................................
- | (name, street address and telephone number of appellant/s — attach schedule if more space is needed)
-has this day instituted an appeal under the Police Act 1892 section 33P against your decision under section 33L of that Act to remove him/her from office with effect from the ........................................ day of .............................................. 20 ..................
-The reasons why the decision is harsh, oppressive or unfair are:
-.........................................................................................................................................
-......................................................................................................................................... .........................................................................................................................................
-(give details of the decision — attach schedule if more space is needed)
-The relief sought is .........................................................................................................
-(state whether the removal is sought to be of no effect or whether compensation is sought)
- | ......................................................................
- | (signature of appellant)
-NOTE:Unless the Commission otherwise directs, within 7 days after the notice is filed, the appellant must serve (e.g. by posting or delivering it to the person personally) a stamped copy, together with its attachments, on the Commissioner of Police and as soon as reasonably practicable file a Form 4 statutory declaration of service declaring that this has been done. All Forms are available from the Registry or downloadable at www.wairc.wa.gov.au. (Stamp of Commission)
-[Form 31 inserted: Gazette 4 Jul 2014 p. 2416-17.]
+Industrial Relations Commission Regulations 2005
+Certificate of registration of an organisation or industrial association, or change of name or alteration of rules
+This Certificate is given by the Registrar, Western Australian Industrial Relations Commission
+This Certificate certifies that —
+othe organisation identified below has been duly registered as an organisation under the Industrial Relations Act 1979.
+othe industrial association identified below has been duly registered as an industrial association under the Industrial Relations Act 1979.
+othat the organisations formerly registered as:
+and
+have been duly registered under the Industrial Relations Act 1979 as the organisation that is identified below. The registration of each of the organisations formerly registered (above) is cancelled with effect from the date of this Certificate.
+othe annexed alteration of rules of the organisation or industrial association identified below has been duly registered under the Industrial Relations Act 1979. The rules altered are:
+oon the hearing of the application duly made on behalf of:
+the Commission has consented to the name of the organisation or industrial association being changed to the name identified below, which has been duly registered.
+NAME OF ORGANISATION OR INDUSTRIAL ASSOCIATION THAT THIS CERTIFICATE IS ISSUED TO:
+Full name of organisation or industrial association:
+Address of registered office of organisation or industrial association:
+ | Suburb: | WA | Postcode:
+This Certificate takes effect on and from
+[Division 4 inserted: Gazette 5 Mar 2019 p. 639-41.]
