@@ -55,14 +55,14 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (i)for each copy issued to a person not a party to the proceedings and for each copy in excess of 1 copy issued to a party to the proceedings (ii)for each copy consisting of 10 or more pages an additional fee per page of | 15.50 2.00 | 15.50 2.00 | 4.55 0.60
  | (c)For certifying under seal that a document is a true copy, an additional fee of | 21.40 | 21.40 | 6.45
  | (d)For a certificate under the hand of a registrar | 42.10 | 42.10 | 12.70
-16. | (a)For the preparation of a transcript, or part of a transcript —
+16. | (a)For the provision of a transcript, or part of a transcript —
  | (i)provided within 1 day after the day on which the fee is paid | 20.50 plus 8.45 per page | 20.50 plus 16.90 per page | 6.15 plus 2.55 per page
  | (ii)provided within 2 days after the day on which the fee is paid | 20.50 plus 7.75 per page | 20.50 plus 15.50 per page | 6.15 plus 2.35 per page
  | (iii)provided within 4 days after the day on which the fee is paid | 20.50 plus 7.30 per page | 20.50 plus 14.75 per page | 6.15 plus 2.20 per page
  | (iv)provided within 7 days after the day on which the fee is paid | 20.50 plus 7.05 per page | 20.50 plus 14.05 per page | 6.15 plus 2.15 per page
  | (v)provided within 14 days after the day on which the fee is paid | 20.50 plus 6.00 per page | 20.50 plus 12.00 per page | 6.15 plus 2.00 per page
  | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 20.50 plus 9.00 per page | 20.50 plus 18.00 per page | 6.15 plus 3.00 per page
- | (b)For a copy of a transcript, or part of a transcript, that has already been prepared —
+ | (b)For the provision of a copy of a transcript, or part of a transcript, where the transcript or part has already been provided to the person requesting the copy —
  | (i)electronic format | 21.40 per copy | 21.40 per copy | 6.45 per copy
  | (ii)paper copy | 2.10 per page | 2.10 per page | 0.60 per page
-[Schedule 1 inserted: Gazette 15 Jun 2018 p. 1986-95; amended: Gazette 7 Dec 2018 p. 4669-70.]
+[Schedule 1 inserted: Gazette 15 Jun 2018 p. 1986-95; amended: Gazette 7 Dec 2018 p. 4669-70; 12 Mar 2019 p. 667.]

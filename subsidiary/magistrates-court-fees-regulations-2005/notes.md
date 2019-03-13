@@ -34,6 +34,7 @@ Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 5 | 9
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 6 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 5 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
+Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 5 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms

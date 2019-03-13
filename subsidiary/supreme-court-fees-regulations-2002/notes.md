@@ -34,6 +34,7 @@ Attorney General Regulations Amendment (Bailiff Fees) Regulations 2018 Pt. 6 | 9
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 8 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 7 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
+Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 7 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.
 Defined terms
@@ -43,15 +44,18 @@ bilateral convention5(1)
 Centrelink7(1)
 corporation3
 eligible entity3
+eligible entity fee3
 eligible individual3
 eligible individual fee3
 enforcement officer3
+entity3
 entry fee9(1)
 evidence convention5(1)
 fee9(1), 9A(1)
 grantSch. 3
 individual3
 non-profit association3
+person3
 Rules3
 small business3
 subsidiary3

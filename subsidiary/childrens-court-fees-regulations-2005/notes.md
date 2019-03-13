@@ -27,6 +27,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 2 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Reprint 3: The Children’s Court (Fees) Regulations 2005 as at 28 Sep 2018 (includes amendments listed above)
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 2 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
+Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 2 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

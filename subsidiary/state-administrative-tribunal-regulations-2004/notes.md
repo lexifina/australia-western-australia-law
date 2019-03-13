@@ -40,6 +40,7 @@ State Administrative Tribunal Amendment Regulations 2018 | 26 Jun 2018 p. 2382-3
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 7 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 2) 2018 | 28 Sep 2018 p. 3579 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 6 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
+Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 6 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
