@@ -17,12 +17,14 @@ Rules of Wagering Amendment Rules (No. 2) 2013 | 29 Nov 2013 p. 5468-72 | r. 1 a
 Rules of Wagering Amendment Rules 2014 | 16 Dec 2014 p. 4764 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
 Rules of Wagering Amendment Rules 2016 | 22 Mar 2016 p. 836-9 | r. 1 and 2: 22 Mar 2016 (see r. 2(a)); Rules other than r. 1 and 2: 23 Mar 2016 (see r. 2(b))
 Rules of Wagering Amendment Rules 2017 | 11 Aug 2017 p. 4354-5 | r. 1 and 2: 11 Aug 2017 (see r. 2(a)); Rules other than r. 1 and 2: 12 Aug 2017 (see r. 2(b))
+Rules of Wagering Amendment Rules 2019 | 15 Mar 2019 p. 797-801 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Rules other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 agency manual63
 agency settlement63
 all-up3(1)
+approved event3(1)
 Australian totalisator3(1)
 bet3(2)
 bet back3(1)
@@ -71,11 +73,10 @@ race3(1)
 relevant novelty wager18A
 relevant period63
 runner3(1)
-runs28(2), 28(2)
+runs28(2)
 RWWA3(1)
 RWWA Act3(1)
 RWWA Regulations3(1)
-scheduled starting time3(1)
 secondary winning wager25(2)
 sporting event3(1)
 sports tipping wager24
