@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Medicines and Poisons Regulations 2016 | 17 Jan 2017 p. 443-586 | 30 Jan 2017 (see r. 2 and Gazette 17 Jan 2017 p. 403)
 Health Regulations Amendment Regulations 2018 Pt. 3 | 13 Nov 2018 p. 4428-31 | 1 Dec 2018 (see r. 2(b))
+Medicines and Poisons Amendment Regulations 2019 | 15 Mar 2019 p. 786-92 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -23,6 +24,7 @@ approved form3(1)
 approved needle and syringe programme3(1)
 approved system142(1)
 AS/NZS 3809:199894
+ASGS39A(1)
 Australian Register of Therapeutic Goods89(1)
 authorised person144(1), 147(1)
 cannabis-based product114
@@ -69,6 +71,7 @@ legally imported amygdalin9(1)
 listed name89(1)
 livestock export standard49(1)
 medic37
+medical practitioner3(1)
 medication chart3(1)
 Medicines List67(1)
 midwife37
@@ -80,8 +83,10 @@ optometrist37
 Optometry guidelines59(1)
 oral health therapist37
 paramedic37
-patient15(1), 64(4), 64(4)
+patient15(1), 16A(1), 64(4)
 patient in a hospital3(1)
+PBS37
+PBS medicine37
 permitted purpose74(1), 79(1)
 personal information18(1)
 pharmaceutical sample3(1)
@@ -103,6 +108,7 @@ register147(1)
 registered nurse37
 regulated Australian vessel37
 relevant premises95(1)
+remote clinic37
 repealed Act149
 repealed regulations149
 repeat form24(1), 24(2)
