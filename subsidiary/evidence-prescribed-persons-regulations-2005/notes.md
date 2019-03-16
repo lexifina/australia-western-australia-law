@@ -11,6 +11,7 @@ Reprint 1: The Evidence (Prescribed Persons) Regulations 2005 as at 23 Nov 2012 
 Evidence (Prescribed Persons) Amendment Regulations 2015 | 5 Jun 2015 p. 1972-3 | r. 1 and 2: 5 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2015 (see r. 2(b))
 Evidence (Prescribed Persons) Amendment Regulations 2016 | 24 Jun 2016 p. 2319-20 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Evidence (Prescribed Persons) Amendment Regulations 2018 | 19 Jun 2018 p. 2077 | r. 1 and 2: 19 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
+Evidence (Prescribed Persons) Amendment Regulations 2019 | 15 Mar 2019 p. 793-4 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
