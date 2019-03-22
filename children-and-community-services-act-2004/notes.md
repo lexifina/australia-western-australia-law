@@ -4,7 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987); Sch. 2 cl. 25 deleted by No. 8 of 2009 s. 32(4)
 Working with Children (Criminal Record Checking) Act 2004 Pt. 5 | 65 of 2004 | 8 Dec 2004 | Pt. 5 other than s. 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875); s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 85(4) | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 85(4) | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Family Legislation Amendment Act 2006 Pt. 6 Div. 1 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Child Care Services Act 2007 Pt. 7 Div. 1 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 1: The Children and Community Services Act 2004 as at 4 Apr 2008 (includes amendments listed above)
@@ -28,6 +28,7 @@ Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 6 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 2 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 102 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Reprint 5: The Children and Community Services Act 2004 as at 22 Mar 2019 (includes amendments listed above)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 Defined terms
@@ -69,7 +70,7 @@ child protection proceeding157(1)
 child welfare law157(1)
 Children’s Court157(1)
 commencementSch. 1 cl. 28(1)
-commencement day124A, Sch. 1 cl. 1, Sch. 1 cl. 29
+commencement day124A, Sch. 1 cl. 1 and 29
 Commissioner242A(1)
 Commissioner of Police124D(1)
 Commonwealth agency23(1)
@@ -170,13 +171,13 @@ provisionally protected child88A
 PSR ActSch. 1 cl. 29
 PSR Act parenting agreementSch. 1 cl. 29
 public authority3
-publication day88B(3)
+publication day88B(3)(a)
 publish237(1)
 registrar of the Court157(1)
 relative3
-relevant behaviour131D
+relevant behaviour131D(a)
 relevant information23(1), 28A
-relevant modification94(2)
+relevant modification94(2)(b)
 relevant person73(1)
 remote communication120(1)
 repealed ActSch. 1 cl. 1
@@ -204,7 +205,7 @@ teacher124A
 Torres Strait Islander3
 Torres Strait Islander child3
 transferred order181(1)
-Tribunal decision94(2)
+Tribunal decision94(2)(b)
 variation134(2A)
 warrant (access)121(1)
 warrant (apprehension)122(1)
