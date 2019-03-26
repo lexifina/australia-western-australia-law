@@ -28,7 +28,63 @@ Building Regulations Amendment Regulations 2017 Pt. 2 | 8 Aug 2017 p. 4343-5 | 9
 Building Amendment Regulations (No. 3) 2017 | 22 Dec 2017 p. 5971-5 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1, 2, 5-8, 9(2), (3) and (5) and 11: 23 Dec 2017 (see r. 2(c)); r. 5-8, 9(2), (3) and (5) and 11: 23 Jan 2018 (see r. 2(b))
 Building Amendment Regulations 2018 | 9 Mar 2018 p. 799-800 | r. 1 and 2: 9 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Mar 2018 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2018 | 5 Oct 2018 p. 4013-16 | r. 1 and 2: 5 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Building Amendment Regulations 2019 r. 3-11 | 26 Mar 2019 p. 943-6 | 1 May 2019 (see r. 2(b))
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
+On the date as at which this compilation was prepared, the Building Amendment Regulations 2019 r. 3-11had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Building Regulations 2012.
+Part 2 — Extension of waiver of bush fire performance requirements
+4.Regulation 31BA amended
+(1) In regulation 31BA(2)(b) delete “1 May 2019.” and insert:
+1 May 2021.
+(2) In regulation 31BA(4)(b) delete “1 May 2019.” and insert:
+1 May 2021.
+5.Regulation 31 amended
+In regulation 31 in the definition of transitional bush fire application paragraph (a) delete “1 May 2019; and” and insert:
+1 May 2021; and
+Part 3 — Amendments relating to 2019 edition of Building Code
+6.Regulation 3 amended
+(1) In regulation 3 in the definitions of assessment method, performance requirement, performance solution, sole-occupancy unit and swimming pool delete “the Building Code Volume 1 Part A1;” and insert:
+the Building Code Volume One Schedule 3;
+(2) In regulation 3 in the definition of Building Code delete “volumes 1 and 2,” and insert:
+Volumes One and Two,
+(3) In regulation 3 in the definition of Building Code pool barrier requirements paragraph (a) delete “performance requirement P2.5.3 in the Building Code Volume 2 Part 2.5;” and insert:
+performance requirement P2.7.1 in the Building Code Volume Two Part 2.7;
+(4) In regulation 3 in the definition of bush fire performance requirement paragraph (b) delete “the Building Code Volume 2 performance requirement P2.3.4;” and insert:
+the Building Code Volume Two performance requirement P2.7.5;
+7.Regulation 3A inserted
+At the end of Part 1 insert:
+3A.Transitional provision relating to Building Amendment Regulations 2019 Part 3
+In a case where, in accordance with these regulations, an edition of the Building Code that is earlier than the 2019 edition is applicable, these regulations apply, as necessary, as if the Building Amendment Regulations 2019 regulations 6 and 8 to 11 had not come into operation.
+8.Regulation 31D amended
+In regulation 31D(3) in the Table:
+(a) delete “Structural provisions” and insert:
+Structure
+(b) delete “P2.3.2, P2.3.3, P2.3.4, P2.3.5” and insert:
+P2.3.2
+(c) after the last row insert:
+Volume Two, Part 2.7 —Ancillary provisions and additional construction requirements | P2.7.3, P2.7.5, P2.7.6
+9.Regulation 31HA amended
+(1) In regulation 31HA(1) in the definition of debris criteria delete “AS 5113:2016 (Fire propagation testing and classification of external walls of buildings)” and insert:
+AS 5113 (Classification of external walls of buildings based on reaction-to-fire performance)
+(2) In regulation 31HA(1) in the definition of external wall delete “the Building Code Volume 1 Part A1;” and insert:
+the Building Code Volume One Schedule 3 for the purposes of Volume One;
+(3) In regulation 31HA(1) in the definition of non-combustible external wall delete “the Building Code Volume 1 Part A1) by the Building Code Volume 1 Part C1.9;” and insert:
+the Building Code Volume One Schedule 3) by the Building Code Volume One Part C1.9;
+10.Schedule 3 amended
+In Schedule 3 in the Table delete “Sound systems and intercom systems for emergency purposes required under EP4.3” and insert:
+Emergency warning and intercom systems required under EP4.3
+11.References to “Volume 1” replaced
+In the provisions listed in the Table delete “Volume 1” (each occurrence) and insert:
+Volume One
+Table
+r. 3 def. of Building Code pool barrier requirements par. (b) | r. 3 def. of bush fire performance requirement par. (a)
+r. 3 def. of CV3 | r. 3 def. of fire resistance performance requirement
+r. 18B(4)(b) | r. 31A(3)
+r. 31D(3A)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
