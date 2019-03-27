@@ -25,6 +25,7 @@ Magistrates Court (General) Amendment Rules 2014 | 15 Aug 2014 p. 2937-46 | r. 1
 Magistrates Court (General) Amendment Rules (No. 3) 2014 | 8 Jan 2015 p. 161-7 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Rules other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Magistrates Court (General) Amendment Rules 2015 | 18 Dec 2015 p. 5077 | r. 1 and 2: 18 Dec 2015 (see r. 2(a)); Rules other than r. 1 and 2: 19 Dec 2015 (see r. 2(b))
 Magistrates Court (General) Amendment Rules 2018 | 4 Dec 2018 p. 4629-30 | r. 1 and 2: 4 Dec 2018 (see r. 2(a)); Rules other than r. 1 and 2: 5 Dec 2018 (see r. 2(b))
+Magistrates Court (General) Amendment Rules 2019 | 26 Mar 2019 p. 946-7 | r. 1 and 2: 26 Mar 2019 (see r. 2(a)); Rules other than r. 1 and 2: 27 Mar 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
