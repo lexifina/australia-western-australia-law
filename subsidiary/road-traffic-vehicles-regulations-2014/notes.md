@@ -19,6 +19,7 @@ Road Traffic (Vehicles) Amendment Regulations (No. 3) 2017 | 1 Dec 2017 p. 5739 
 Reprint 1: The Road Traffic (Vehicles) Regulations 2014 as at 5 Jan 2018 (includes amendments listed above)
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 May 2018 p. 1640-7 | 25 May 2018 (see r. 2(a))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 6 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 3) 2019 | 29 Mar 2019 p. 962-72 | r. 1 and 2: 29 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Mar 2019 (see r. 2(b))
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 Repealed by the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (Cwlth).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -54,6 +55,9 @@ agricultural special purpose vehicle52(1)
 agricultural vehicle3
 AI exemption502(1)
 air brake226
+air storage tank3
+Airservices Australia3
+Airservices Australia vehicle3
 alcohol interlock235(1)
 amend454N(1)
 animal drawn vehicle390
@@ -64,6 +68,8 @@ approved material259(1)
 articulated bus3
 articulated vehicle418(1)
 assessor146
+Australian Border Force3
+Australian Border Force vehicle3
 Australian Design Rule (ADR)3
 Australian Standard (AS)3
 B-double3
@@ -76,11 +82,12 @@ bus3, 323
 car3
 car or bus3
 car-type vehicle359(1)
-centre3
+centre line3
 CEO exemption455
 CEO exemption reviewable decision478
 Certificate of Attendance454E(1)
 certificate of inspection3
+certified to ADR 83/00357A
 character3
 class 1 vehicle190
 class 2 vehicle203(2)
@@ -88,9 +95,12 @@ class 3 vehicle190
 clearance light432(1)
 combination3, 166(1)
 commencement day454ZC(1), 484
+Commission357(1)
 compliance plate3
 compliance time152(1)
 complying bus161
+compressed air reserve334(1A)
+condensate drain valve334(1A)
 connector366(5)
 consulting officer481
 contract of insurance103
@@ -105,6 +115,7 @@ declaration455
 defect notice3
 departmental exemption505(1)
 derivative of a car235(1)
+diesel engine3
 direction indicator light312(1), 313(1)
 dog trailer3
 drawbar3
@@ -128,6 +139,7 @@ gate to gate425(1)
 glazing260(1)
 goods vehicle3
 goods vehicle derivative38(1)
+governor cut-out pressure334(1A)
 gross trailer mass (GTM)3
 ground clearance178(1)
 heavy trailer12
@@ -135,11 +147,12 @@ heavy vehicle12
 heavy vehicle 436
 heavy vehicle pilot licence454A
 high-beam3
-holder138(a)
+holder138
 HVNL224(1)
 ID prevention state120(1)
 identifier3
 imitation plate109
+Immigration and Border Protection worker3
 improvement notice481
 improvement notice reviewable decision481
 independent brake336(1)
@@ -175,6 +188,7 @@ motorised wheelchair3
 mudguard3
 name plate109
 national standard226
+nearer side of the vehicle3
 new owner51(1)
 notifiable146
 number274(1)
@@ -188,6 +202,7 @@ ordinary plate109
 over-mass3
 overseas vehicle103
 oversize3
+parking brake3
 peak hours3
 permit43, 190, 202
 personal details50(1)
@@ -200,10 +215,12 @@ point of articulation3
 pole-type trailer3, 390
 Police Service employee453(2)
 prime mover3
-proposed action454Q(1), 466(2)(a)(iii)
+proposed action454Q(1), 466(2)
 provisional licence454A
+radial ply tyre266(1)
 read120(1)
-rear fog light226
+rear fog light226, 315(1A)
+rear glazing260(1)
 rear marking plate328(1)
 rear overhang3
 reflective plate109
@@ -226,17 +243,18 @@ section3
 semi-trailer3
 service brake3
 set3
+side marker light3
 single axle3
 special plate109
 special purpose vehicle3
 special use vehicle327(4)
 specified455
-spring brake334(2)
+spring brake334(1A)
 Statement of Attainment454E(1)
 statutory write-off3
 stock52(1)
 street rod vehicle226
-submission date454Q(2)(e)
+submission date454Q(2)
 Table38(1)
 Technical Guide150(3)
 third edition ADR226
@@ -256,6 +274,8 @@ turntable3
 unloaded mass3
 used423(1)
 vacuum brakes226
+vacuum reserve334(1A)
+vacuum storage tank3
 vehicle165(1), 167(1), 179(2), 180(1), 181(1), 236(1), 238(1)
 vehicle examiner12, 20(1)
 vehicle identification number (VIN)3
