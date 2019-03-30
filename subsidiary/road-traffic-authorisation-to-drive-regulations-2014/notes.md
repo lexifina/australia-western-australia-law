@@ -16,6 +16,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 26 M
 Road Traffic (Authorisation to Drive) Amendment Regulations 2017 | 3 Oct 2017 p. 5050-4 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2018 | 19 Oct 2018 p. 4139-44 | r. 1 and 2: 19 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2018 (see r. 2(b))
+Transport Regulations Amendment (Information) Regulations 2019 Pt. 3 | 29 Mar 2019 p. 972-80 | 30 Mar 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

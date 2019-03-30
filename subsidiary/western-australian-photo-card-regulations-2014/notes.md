@@ -10,11 +10,17 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 
 Reprint 1: The Western Australian Photo Card Regulations 2014 as at 6 Jan 2017 (includes amendments listed above)
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 10 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 8 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
+Transport Regulations Amendment (Information) Regulations 2019 Pt. 4 | 29 Mar 2019 p. 972-80 | 30 Mar 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+ABF Commissioner10(2)
 applicant4(1), 5(1)
+APS employee10(1)
+Chief of Defence10(2)
 current photo card3
+LG CEO10(2)
 other card6(5)
+PA CEO10(2)
 replaced card6(4)
 section3
