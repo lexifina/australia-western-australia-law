@@ -146,11 +146,11 @@ Notes for Form 1:
 14.Evidence of death, in relation to a deceased former resident of a retirement village, means —
 (a)evidence of the grant of probate or letters of administration; or
 (b)other evidence that the administering body of the retirement village accepts as evidence of the former resident’s death (Retirement Villages Regulations 1992 regulation 9(1)).
-15.Refurbishment work means maintenance, repair, replacement or renovation work carried out in respect of residential premises to return the residential premises to a reasonable condition (Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018 Schedule 1 clause 22).
+15.Refurbishment work means maintenance, repair, replacement or renovation work carried out in respect of residential premises to return the residential premises to a reasonable condition (Fair Trading (Retirement Villages Interim Code) Regulations 2019 Schedule 1 clause 22).
 16.This section will be required to be completed as of 1 July 2016.
-17.Provided under the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018 Schedule 1 clause 19(1)(a) or the Fair Trading (Retirement Villages Interim Code) Regulations 2018 Schedule 1 clause 19(1)(a) or, for the financial year ending on 30 June 2017, provided under the Fair Trading (Retirement Villages Code) Regulations 2015 Schedule 1 clause 19(1)(a).
+17.Provided under the Fair Trading (Retirement Villages Interim Code) Regulations 2019 Schedule 1 clause 19(1)(a) or, for the financial year ending on 30 June 2018, provided under the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018 Schedule 1 clause 19(1)(a) or the Fair Trading (Retirement Villages Interim Code) Regulations 2018 Schedule 1 clause 19(1)(a).
 18.This section will be required to be completed as of 1 July 2016.
-19.The total balance of the reserve fund(s) to be stated refers to the accounts available in the last financial year, as referred to in the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018 Schedule 1 clause 19(1)(b).
+19.The total balance of the reserve fund(s) to be stated refers to the accounts available in the last financial year, as referred to in the Fair Trading (Retirement Villages Interim Code) Regulations 2019 Schedule 1 clause 19(1)(b).
 20.Communal amenities may be varied by resident consent via a special resolution of residents (Retirement Villages Regulations 1992 regulation 7C Table item 4).
 21.Communal services may be varied by resident consent via a special resolution of residents (Retirement Villages Regulations 1992 regulation 7E Table item 3).
 22.See note 20.
@@ -205,7 +205,7 @@ TOTAL DEDUCTIONS | $........... | $........... | $.......... | $..........
 TOTAL ESTIMATED REFUND ENTITLEMENT | $........... | $........... | $.......... | $..........
 *Note for Table B:
 The value of residential premises in a retirement village will increase and decrease over time and be influenced by a range of circumstances including the national and international economy. The values used in this example are illustrative only and do not guarantee an entitlement to a specific refund amount. The 2% per annum increase is an arbitrary figure chosen to enable comparison between villages. Additional deductions may also apply.
-[Form 1 inserted: Gazette 23 Mar 2016 p. 867-903; amended: Gazette 30 Jun 2016 p. 2717-24 and 2733-4; 28 Sep 2018 p. 3719-20.]
+[Form 1 inserted: Gazette 23 Mar 2016 p. 867-903; amended: Gazette 30 Jun 2016 p. 2717-24 and 2733-4; 28 Sep 2018 p. 3719-20; 22 Mar 2019 p. 936.]
 Form 1A
 Retirement Villages Act 1992
 [r. 4(1)(b)]
@@ -303,7 +303,7 @@ Notes for Form 1A:
 7.For example retirement villages operated by a not-for-profit operator may not be subject to council rates.
 8.For example charges for rubbish collection or an emergency service levy that apply independently of council rates.
 9.This section will be required to be completed as of 1 July 2016.
-10.Provided under the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018 Schedule 1 clause 19(1)(a) or the Fair Trading (Retirement Villages Interim Code) Regulations 2018 Schedule 1 clause 19(1)(a) or, for the financial year ending on 30 June 2017, provided under the Fair Trading (Retirement Villages Code) Regulations 2015 Schedule 1 clause 19(1)(a).
+10.Provided under the Fair Trading (Retirement Villages Interim Code) Regulations 2019 Schedule 1 clause 19(1)(a) or, for the financial year ending on 30 June 2018, provided under the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018 Schedule 1 clause 19(1)(a) or the Fair Trading (Retirement Villages Interim Code) Regulations 2018 Schedule 1 clause 19(1)(a).
 11.Total amount must be $1 500 or less.
 12.For example a security bond.
 13.Communal amenities may be varied by resident consent via a special resolution of residents (Retirement Villages Regulations 1992 regulation 7C Table item 4).
@@ -327,7 +327,7 @@ TOTAL ESTIMATED REFUND ENTITLEMENT | $
 *Notes for this Table:
 1.The values used in this example are for illustrative purposes only and should not be interpreted as guaranteeing a specific entitlement to a refund.
 2.Additional deductions may apply for amounts that may be payable for matters such as council rates, water, utilities and unpaid recurrent charges (if any).
-[Form 1A inserted: Gazette 23 Mar 2016 p. 903-24; amended: Gazette 30 Jun 2016 p. 2724-32 and 2733-4; 28 Sep 2018 p. 3720.]
+[Form 1A inserted: Gazette 23 Mar 2016 p. 903-24; amended: Gazette 30 Jun 2016 p. 2724-32 and 2733-4; 28 Sep 2018 p. 3720; 22 Mar 2019 p. 936.]
 FORM 2
 RETIREMENT VILLAGES ACT 1992
 NOTICE OF RIGHTS UNDER SECTIONS 13 AND 14 OF THE RETIREMENT VILLAGES ACT 1992

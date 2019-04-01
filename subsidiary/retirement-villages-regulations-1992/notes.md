@@ -15,31 +15,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 18 | 3 Ju
 Retirement Villages Regulations Amendment Regulations 2016 Pt. 3 | 30 Jun 2016 p. 2713-34 | 1 Jul 2016 (see r. 2(b))
 Reprint 2: The Retirement Villages Regulations 1992 as at 3 Feb 2017 (includes amendments listed above)
 Retirement Villages Amendment Regulations (No 2) 2018 | 28 Sep 2018 p. 3719-20 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Retirement Villages Amendment Regulations 2019 r. 3-6 | 22 Mar 2019 | 1 Apr 2019 (see r. 2(b))
-The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
-(2) Despite subregulation (1), if the owner of a retirement village is required, under section 13(2) of the Retirement Villages Act 1992, to give a statement containing information prescribed by regulation 4 of the Retirement Villages Regulations 1992, between 1 October 2003 and 31 December 2003 (inclusive), the owner satisfies the requirements of section 13(2) if either —
-(a) the form inserted by subregulation (1); or
-(b) the form it replaced,
-is completed and signed.
-On the date as at which this compilation was prepared the Retirement Villages Amendment Regulations 2019 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Retirement Villages Regulations 1992.
-4.Regulation 4A amended
-In regulation 4A in the definition of Code delete “Interim Code of Practice for Retirement Villages (No. 2) 2018 set out in the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018” and insert:
-Interim Code of Practice for Retirement Villages 2019 set out in the Fair Trading (Retirement Villages Interim Code) Regulations 2019
-5.Schedule 1 Form 1 amended
-(1) In Schedule 1 Form 1 note 15 delete “(Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018” and insert:
-(Fair Trading (Retirement Villages Interim Code) Regulations 2019
-(2) In Schedule 1 Form 1 delete note 17 and insert:
-17.Provided under the Fair Trading (Retirement Villages Interim Code) Regulations 2019 Schedule 1 clause 19(1)(a) or, for the financial year ending on 30 June 2018, provided under the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018 Schedule 1 clause 19(1)(a) or the Fair Trading (Retirement Villages Interim Code) Regulations 2018 Schedule 1 clause 19(1)(a).
-(3) In Schedule 1 Form 1 note 19 delete “Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018” and insert:
-Fair Trading (Retirement Villages Interim Code) Regulations 2019
-6.Schedule 1 Form 1A amended
-In Schedule 1 Form 1A delete note 10 and insert:
-10.Provided under the Fair Trading (Retirement Villages Interim Code) Regulations 2019 Schedule 1 clause 19(1)(a) or, for the financial year ending on 30 June 2018, provided under the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2018 Schedule 1 clause 19(1)(a) or the Fair Trading (Retirement Villages Interim Code) Regulations 2018 Schedule 1 clause 19(1)(a).
+Retirement Villages Amendment Regulations 2019 | 22 Mar 2019 | r. 1 and 2: 22 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2019 (See r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
