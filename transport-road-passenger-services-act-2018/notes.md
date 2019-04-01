@@ -1,27 +1,14 @@
 Notes
-This is a compilation of the Transport (Road Passenger Services) Act 2018. The following table contains information about that Act.
+This is a compilation of the Transport (Road Passenger Services) Act 2018 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Transport (Road Passenger Services) Act 2018 | 26 of 2018 | 30 Oct 2018 | Pt. 1: 30 Oct 2018 (see s. 2(a)) Pt. 2, Pt. 3 (other than s. 27(1) and (2) and 28), Pt. 7 and 8, Pt. 9 Div. 1 (other than s. 230 and 236) and Div. 3, Pt. 10 and 11, Pt. 12 (other than Div. 3), Pt. 13, Pt 14 Div. 1 (other than s. 303) and Div. 2 (other than Subdiv. 1, 2, 3, 8 and 10 and s. 327(1)): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
+Transport (Road Passenger Services) Act 2018 | 26 of 2018 | 30 Oct 2018 | Pt. 1: 30 Oct 2018 (see s. 2(a)) Pt. 2, Pt. 3 (other than s. 27(1) and (2) and 28), Pt. 7 and 8, Pt. 9 Div. 1 (other than s. 230 and 236) and Div. 3, Pt. 10 and 11, Pt. 12 (other than Div. 3), Pt. 13, Pt 14 Div. 1 (other than s. 303) and Div. 2 (other than Subdiv. 1, 2, 3, 8 and 10 and s. 327(1)): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 27(1) and (2) and 28, Pt. 9 Div. 2 and Pt. 14 Div. 2 Subdiv. 8: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
+Transport (Road Passenger Services) Amendment Act 2018 | 27 of 2018 | 30 Oct 2018 | s. 1 and 2: 30 Oct 2018 (see s. 2(a)); Act other than s. 1 and 2: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Transport (Road Passenger Services) Act 2018 s. 27(1) and (2) and 28, Pt. 4-6, s. 230, 236, Pt. 9 Div. 2, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1, 2, 3, 8 and 10 and s. 327(1) | 26 of 2018 | 30 Oct 2018 | s. 27(1) and (2) and 28, Pt. 9 Div. 2 and Pt. 14 Div. 2 Subdiv. 8: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); Balance to be proclaimed (see s. 2(b))
-Transport (Road Passenger Services) Amendment Act 2018 s. 3 and 4 | 27 of 2018 | 30 Oct 2018 | 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 s. 27(1) and (2) and 28, Pt. 4-6, s. 230, 236, Pt. 9 Div. 2, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1, 2, 3, 8 and 10 and s. 327(1) had not come into operation. They read as follows:
-27.Provider of on-demand booking service must be authorised
-(1) A person commits an offence if —
-(a) the person provides an on-demand booking service; and
-(b) the person does not hold an on-demand booking service authorisation that is in force and authorises the provision of that service.
-Penalty for this subsection:
-(a)for an individual, a fine of $40 000;
-(b)for a body corporate, a fine of $200 000.
-(2) A provider of an on-demand booking service is not required to hold an on-demand booking service authorisation to provide the service if the provider has an association arrangement with the provider of an authorised on-demand booking service in relation to that service.
-28.Provider of on-demand booking service must comply with authorisation conditions
-A provider of an on-demand booking service must comply with the conditions of the on-demand booking service authorisation for that service.
-Penalty:
-(a)for an individual, a fine of $40 000;
-(b)for a body corporate, a fine of $200 000.
+Transport (Road Passenger Services) Act 2018 Pt. 4-6, s. 230, 236, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1-3 and 10 and s. 327(1) | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 4-6, s. 230, 236, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1-3 and 10 and s. 327(1) had not come into operation. They read as follows:
 Part 4 — Regular passenger transport services
 Division 1 — Offences
 56.Provider of regular passenger transport service must be authorised
@@ -782,102 +769,6 @@ Part 9 — Voluntary buyback and adjustment assistance payment schemes and levy
 The CEO must, by notice in writing, grant an application for a net loss payment in relation to taxi plates if —
 (a) the applicant, or if a joint application, each applicant, is an eligible former owner of the taxi plates; and
 (b) no other application for a net loss payment in relation to the taxi plates has been granted to the eligible former owner.
-Division 2 — On-demand passenger transport levy
-Subdivision 1 — Preliminary
-241.Terms used
-In this Division —
-assessment period, in relation to a prescribed class of on-demand booking service or prescribed class of provider of an on-demand booking service, means the period determined by the CEO for that class of service or provider for the purposes of this Division;
-levy area means the area consisting of —
-(a)the metropolitan region as defined in the Planning and Development Act 2005 section 4(1); and
-(b)the Mandurah local government district; and
-(c)the Murray local government district;
-levy fare means a fare calculated in accordance with the regulations for the purposes of the levy;
-relevant journey means a journey that starts and finishes in the levy area (whether or not a part of the journey is carried out outside the levy area).
-242.Meaning of terms
-The Glossary at the end of the Taxation Administration Act 2003 defines or affects the meaning of some words and expressions used in this Division and also affects the operation of other provisions.
-243.Relationship with Taxation Administration Act 2003
-(1) The Taxation Administration Act 2003 is to be read with this Division as if they formed a single Act.
-(2) The regulations may modify the operation of the Taxation Administration Act 2003 for the purposes of this Division.
-Subdivision 2 — On-demand passenger transport levy
-244.Leviable passenger service transactions
-(1) The following are leviable passenger service transactions for the purposes of this Division —
-(a) taking a booking for an on-demand vehicle to be used in providing an on-demand passenger transport service to a person (whether the passenger transport service is to be provided by the provider who takes the booking or another person) for a relevant journey;
-(b) prescribed passenger service transactions.
-(2) The regulations may provide that passenger service transactions of a specified kind or by a specified kind of booking service provider are not leviable passenger service transactions.
-(3) If the provider of an associated booking service takes a booking for an on-demand vehicle to be used in providing an on-demand passenger transport service, the provider of the principal booking service under the association arrangement is, for the purposes of this Division, taken to have taken that booking in place of the provider of the associated booking service.
-(4) This section does not apply to a booking for a vehicle that is equipped to seat more than 12 adult persons, including the driver of the vehicle.
-245.On-demand passenger transport levy
-(1) A levy called the on-demand passenger transport levy is payable in relation to leviable passenger service transactions.
-(2) The levy is payable in accordance with this Division.
-246.When levy payable
-(1) A person who, during any assessment period (the relevant assessment period), was the provider of an on-demand booking service, is liable to pay, on or before the specified day, the levy calculated in accordance with section 245 in relation to each leviable passenger service transaction by the provider that occurred in the relevant assessment period.
-(2) In subsection (1) —
-specified day means —
-(a) the last day of the following assessment period; or
-(b) any other day that is specified by the CEO.
-(3) A day specified by the CEO under subsection (2) must not be earlier than the day on or before which the return for the relevant assessment period is to be provided under section 250.
-(4) For the purposes of this Division, a leviable passenger service transaction (other than a prescribed passenger service transaction) occurs when the on-demand passenger transport service to which the booking relates is completed.
-(5) For the purposes of this Division, a prescribed passenger service transaction occurs at the prescribed time.
-(6) This Division does not apply in relation to any booking made before this Division comes into operation.
-(7) A person who is liable to pay the levy must pay the levy within the time required under subsection (1).
-Penalty for this subsection: a fine of $5 000.
-247.Calculation on estimated basis if amount based on actual transactions cannot be determined
-(1) If it is not reasonably practicable to determine the whole or part of the amount of levy payable based on actual levy fares or leviable passenger service transactions or both during an assessment period, the amount payable may be calculated on an estimated basis in accordance with the regulations.
-(2) The CEO is to determine whether or not it is reasonably practicable to determine the whole or part of the amount of levy payable based on actual levy fares or leviable passenger service transactions or both during an assessment period.
-(3) The CEO may issue written guidelines for the purposes of subsection (2) for use by persons who may be liable to pay the levy.
-248.Passenger service transactions for which levy is not payable
-(1) A person is not liable to pay the levy for taking a booking for an on-demand vehicle to be used in providing an on-demand passenger transport service if —
-(a) the on-demand passenger transport service is not provided for any reason; or
-(b) another provider is already liable to pay the levy for taking a booking to provide the service.
-(2) The taking of a booking for an on-demand vehicle to be used in providing an on-demand passenger transport service to transport more than one passenger, or that results in the passengers being transported to different locations, is taken to be one leviable passenger service transaction unless separate fares are charged.
-Subdivision 3 — Miscellaneous
-249.Registration of liable persons
-(1) A provider of an on-demand booking service who is liable to pay the levy must apply to the CEO in accordance with this section and the regulations to be registered as a taxpayer for the purposes of this Division.
-Penalty for this subsection: a fine of $20 000.
-(2) An application is to be in an approved form.
-(3) The CEO may cancel the registration of a person as a taxpayer for the purposes of this Division if the CEO is satisfied that the person is not, or is no longer, liable to pay the levy.
-250.Returns
-(1) A person who is registered as a taxpayer for the purposes of this Division, or who is required to apply for registration under section 249, must lodge a return in accordance with the regulations with the CEO for each assessment period.
-Penalty for this subsection: a fine of $5 000.
-(2) The return for an assessment period (the relevant assessment period) must be lodged on or before —
-(a) subject to paragraph (b), the last day of the following assessment period; or
-(b) if another day has been specified by the CEO, that other day.
-(3) A day specified by the CEO under subsection (2) must not be less than 1 month after the end of the relevant assessment period.
-251.Keeping of records
-A person who is registered as a taxpayer for the purposes of this Division, or who is required to apply for registration under section 249, must keep —
-(a) the records that are prescribed for the purposes of this section; and
-(b) any other records necessary to enable the CEO to determine the person’s liability to pay the levy.
-Penalty: a fine of $20 000.
-252.Information sharing
-(1) The CEO may enter into an arrangement with the Commissioner of State Revenue for the purpose of sharing information held by either of them that is relevant to liability for or payment of the levy or is otherwise connected with the levy.
-(2) Under an information sharing arrangement, each party to the arrangement is, despite any other provision of this Act or other law of the State, authorised —
-(a) to request and receive information held by the other party to the arrangement; and
-(b) to disclose information to the other party or a person specified in the arrangement, but only to the extent that the information is sought or disclosed to assist in the administration and collection of the levy.
-(3) This section does not limit the operation of any law under which the CEO or the Commissioner of State Revenue is authorised or required to disclose information to another person or body.
-253.Functions of CEO
-(1) The CEO may exercise any functions delegated to the CEO by the Commissioner of State Revenue under the Taxation Administration Act 2003 in relation to this Division.
-(2) A function that is delegated to the CEO under the Taxation Administration Act 2003 in relation to this Division is taken while the delegation is in effect —
-(a) to be a function of the CEO under this Act; and
-(b) not to be a function of the Commissioner of State Revenue under the Taxation Administration Act 2003 to the extent that it relates to this Division.
-(3) Nothing in subsection (2)(b) prevents the Commissioner of State Revenue or an investigator under the Taxation Administration Act 2003 from exercising any function under —
-(a) Part 8 of that Act in relation to this Division; or
-(b) Part 2 of that Act that is required or convenient to be exercised in relation to the exercise of the functions under Part 8 of that Act in relation to this Division.
-(4) The CEO may delegate any functions delegated to the CEO under the Taxation Administration Act 2003 in relation to this Division to any person to whom the CEO may delegate a function under section 284.
-(5) Section 284(2) to (5) apply to a delegation under subsection (4) as if it were a delegation under section 284(1).
-254.Powers of authorised officers
-(1) For the purpose of determining liability for the levy and other matters related to the payment or collection of the levy, an authorised officer may exercise the functions conferred by Part 8.
-(2) For the purpose of subsection (1), Part 8 applies as if a reference in that Part to a purpose specified in that Part were a reference to the purpose referred to in subsection (1).
-255.Conditions
-It is a condition of the authorisation of the provider of an on-demand booking service who is liable to pay the levy that the provider pays the levy in accordance with this Division and the regulations under this Division.
-256.Recovery of amounts of fares allocated for levy
-(1) A person who is liable to pay the levy may give an on-demand driver or other person who collects amounts paid for fares that relate to leviable passenger service transactions reasonable directions as to the collection or payment of any amount of fare allocated for the levy.
-(2) A person who is liable to pay the levy may recover any amount allocated for the levy in a fare that relates to a leviable passenger service transaction from the on-demand driver or other person who collects amounts paid for those fares.
-(3) The amount referred to in subsection (2) may be recovered in a court of competent jurisdiction as a debt owing to the person liable to pay the levy.
-(4) This section applies to the payment or recovery of an amount allocated to the levy in a fare whether the amount of levy payable was calculated on the basis of the actual levy fare or on an estimated basis in accordance with section 247.
-257.Cessation of levy
-(1) The levy is not payable for any leviable passenger service transaction that occurs on or after the levy repeal day.
-(2) The Minister may by notice published in the Gazette specify the levy repeal day.
-(3) A notice under this section cannot be amended or revoked after the levy repeal day specified in the notice.
 Part 12 — Miscellaneous
 Division 3 — Review of Act
 291.Review of Act
@@ -950,12 +841,6 @@ Subdivision 7 — State Administrative Tribunal Act 2004 amended
 327.Schedule 1 amended
 (1) In Schedule 1 delete:
 Taxi Act 1994
-Subdivision 8 — Taxation Administration Act 2003 amended
-328.Act amended
-This Subdivision amends the Taxation Administration Act 2003.
-329.Section 3 amended
-After section 3(1)(j) insert —
-(jaa) the Transport (Road Passenger Services) Act 2018 Part 9 Division 2;
 Subdivision 10 — Transport Co-ordination Act 1966 amended
 334.Act amended
 This Subdivision amends the Transport Co-ordination Act 1966.
@@ -1009,13 +894,6 @@ Delete section 60(2)(c), (d), (e) and (ea).
 346.Section 63 amended
 In section 63 delete “this Act.” and insert:
 this Act or the Transport (Road Passenger Services) Act 2018.
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Amendment Act 2018 s. 3 and 4 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Transport (Road Passenger Services) Act 2018.
-4.Section 245 amended
-After section 245(2) insert:
-(3) The levy is imposed.
-(4) The amount of the levy is 10% of the levy fare for the on-demand passenger transport service to which each leviable passenger service transaction relates to a maximum of $10 for each leviable passenger service transaction.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -1026,6 +904,7 @@ a tourism passenger transport service7(1)
 approved4(1)
 approved medical report4(1)
 area restricted plates226(1)
+assessment period241
 associated booking service4(1)
 association arrangement4(1)
 authorisation289(2)
@@ -1080,6 +959,8 @@ law enforcement official150(1)
 learner’s permit4(1)
 lessee296(1)
 levy4(1)
+levy area241
+levy fare241
 medical practitioner4(1)
 MPT plates226(1)
 multi-purpose taxi226(1)
@@ -1129,10 +1010,12 @@ provider of an on-demand vehicle4(1)
 rank or hail service4(1)
 regular passenger transport service4(1), 6(1)
 regular passenger transport service authorisation4(1)
+relevant assessment period246(1), 250(2)
 relevant authority150(1)
 relevant date296(1)
 relevant decision36(4)
 relevant financial interest12(1)
+relevant journey241
 relevant licence258
 relevant person150(1), 167, 195(4), 197(4)
 relevant position12(1)
@@ -1148,6 +1031,7 @@ safety duties14(1)
 safety duty4(1)
 safety standard4(1)
 safety standards14(2)
+specified day246(2)
 statement289(2)
 subsidiary legislation266(1)
 taking a booking4(1)
