@@ -47,47 +47,10 @@ Reprint 4: The Transport (Country Taxi-cars Fares) Regulations 1991 as at 10 Mar
 Transport (Country Taxi-cars Fares) Amendment Regulations 2017 | 12 May 2017 p. 2471-2 | r. 1 and 2: 12 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2017 (see r. 2(b))
 Transport Regulations Amendment (Fares) Regulations 2018 Pt. 3 | 22 May 2018 p. 1600-1 | 23 May 2018 (see r. 2(b))
 Transport (Country Taxi-cars Fares) Amendment Regulation 2018 | 21 Aug 2018 p. 2943 | r. 1 and 2: 21 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Road Passenger Services) Regulations 2019 Pt. 3 Div. 2 | 26 Feb 2019 p. 451-8 | 1 Apr 2019 (see r. 2(c) and Gazette 26 Feb 2019 p. 449-50)
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Road Passenger Services) Regulations 2019 Pt. 3 Div. 2 had not come into operation. It reads as follows:
-Part 3 — Amendments relating to on-demand passenger transport levy
-Division 2 — Transport (Country Taxi-cars Fares) Regulations 1991 amended
-12.Regulations amended
-This Division amends the Transport (Country Taxi-cars Fares) Regulations 1991.
-13.Regulation 2A amended
-(1) In regulation 2A(1) insert in alphabetical order:
-leviable passenger service transaction has the meaning given in the Transport (Road Passenger Services) Act 2018 section 244;
-(2) In regulation 2A(1) in the definition of Schedule 1 fare delete “and includes any surcharge or fee of a kind set out in Schedule 1 for the hire;” and insert:
-and includes —
-(a)any surcharge or fee of a kind set out in Schedule 1 for the hire; and
-(b)any amount charged under regulation 3(1AA) in respect of the hire;
-14.Regulation 3 amended
-(1) After regulation 3(1) insert:
-(1AA) Despite subregulation (1), if levy under the Transport (Road Passenger Services) Act 2018 Part 9 Division 2 is payable in relation to a leviable passenger service transaction that relates to the hire of a taxi-car, the following may also be charged for the hire of the taxi-car —
-(a) an amount of fare allocated for the levy;
-(b) an amount for the GST payable in relation to the amount referred to in paragraph (a).
-(1AB) An amount charged under subregulation (1AA)(a) must not exceed the lesser of —
-(a) 10% of the sum of the amounts charged for the hire of the taxi-car of a kind referred to in the Transport (Road Passenger Services) Regulations 2019 regulation 47(2) (excluding the GST included in any of those amounts); or
-(b) $10.
-(2) In regulation 3(1B) delete “and (1A)” and insert:
-to (1A)
-15.Regulation 3AA amended
-In regulation 3AA(2):
-(a) after “voucher” insert:
-(as defined in regulation 5A(1))
-(b) delete “(as calculated in accordance with the appropriate tariff set out in Schedule 1)” and insert:
-(as determined in accordance with regulation 3)
-16.Regulation 5 amended
-Delete regulation 5(3) and insert:
-(3) If a taxi-car is the subject of multiple hiring, each separate hirer may, at that hirer’s destination, be charged 75% of the Schedule 1 fare for the hire of the taxi-car applicable at that hirer’s destination.
-17.Regulation 6 amended
-After regulation 6(1) insert:
-(1A) If any amounts under regulation 3(1AA) are to be paid in relation to the hire of the taxi-car, the fare schedule must include a statement that an additional amount of fare allocated for the levy and an amount for the GST on that additional amount may be charged.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -98,6 +61,7 @@ contract fare2A(1), 3AA(1)
 designated radius3(4)
 fare schedule6(1)
 GST2A(1)
+leviable passenger service transaction2A(1)
 multiple hiring5(1)
 non-cash payment 2A(1)
 payment terminal2A(1)
