@@ -27,6 +27,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules 2017 | 20 Jun 2017 p. 2991
 Magistrates Court Rules Amendment Rules 2017 Pt. 2 | 21 Jul 2017 p. 4024-7 | 22 Jul 2017 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2017 | 24 Nov 2017 p. 5674-5 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Rules other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2018 Pt. 2 | 18 Sep 2018 p. 3515-16 | 19 Sep 2018 (see r. 2(b))
+Magistrates Court Rules Amendment (Inactive Cases) Rules 2019 Pt. 2 | 5 Apr 2019 p. 1012-16 | 6 Apr 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -45,7 +46,7 @@ departmental officer99A
 determined value87
 enforcement officer4
 first party66
-Inactive Cases List95A
+inactive case95A
 listing conference4
 lodge4
 order4
