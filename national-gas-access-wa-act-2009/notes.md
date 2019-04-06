@@ -5,6 +5,7 @@ Short title | Number and year | Assent | Commencement
 National Gas Access (WA) Act 2009 | 16 of 2009 | 1 Sep 2009 | s. 1 and 2: 1 Sep 2009 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Petroleum and Energy Legislation Amendment Act 2010 s. 184 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) Gazette 24 May 2011 p. 1892)
 National Gas Access (WA) (Act Amendment) Regulations 2017 published in Gazette 22 Dec 2017 p. 5985-6 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b) and Gazette 22 Dec 2017 p. 5984)
+National Gas Access (WA) (Act Amendment) Regulations 2019 published in Gazette 5 Apr 2019 p. 1009-10 | r. 1 and 2: 5 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2019 (see r. 2(b) and Gazette 5 Apr 2019 p. 1007)
 ## Note — Western Australian National Gas Access Law text
 [This note is not part of the Act. It shows the text that, under section 7(1), applies as the National Gas Access (Western Australia) Law.]
 ## Chapter 1 — Preliminary
@@ -21,14 +22,16 @@ access determination means a determination of the dispute resolution body under 
 AEMC means the Australian Energy Market Commission established by section 5 of the Australian Energy Market Commission Establishment Act 2004 of South Australia;
 AER means the Australian Energy Regulator established by section 44AE of the Trade Practices Act 1974 of the Commonwealth except if section 2A requires the term to be given a different meaning;
 AER economic regulatory decision means a decision (however described) of the AER under this Law or the Rules performing or exercising an AER economic regulatory function or power;
-AER economic regulatory function or power means a function or power performed or exercised by the AER under this Law or the Rules that relates to the economic regulation of pipeline services provided by a service provider—
+AER economic regulatory function or power means a function or power performed or exercised by the AER under this Law or the Rules (other than making a rate of return instrument) that relates to the economic regulation of pipeline services provided by a service provider—
 (a)by means of; or
 (b)in connection with,
-a scheme pipeline and includes a function or power performed or exercised by the AER under this Law or the Rules that relates to—
+a scheme pipeline and includes a function or power performed or exercised by the AER under this Law or the Rules (other than making a rate of return instrument) that relates to—
 (c)the preparation of a service provider performance report;
 (d)a ring fencing decision;
 (e)an applicable access arrangement decision;
 (f)an access determination (if the AER is the dispute resolution body);
+Note—
+The application of a rate of return instrument under this Law is an AER economic regulatory function or power. See section 30Q(2).
 AER ring fencing determination means a determination of the AER under section 143(1);
 applicable access arrangement means a limited access arrangement or full access arrangement that has taken effect after being approved or made by the AER under the Rules and includes an applicable access arrangement as varied—
 (a)under the Rules; or
@@ -128,7 +131,8 @@ haulage, in relation to natural gas, includes conveyance or reticulation of natu
 initial classification decision means a decision of the NCC under section 98 or 155;
 initial National Gas Rules means —
 (a)the National Gas Rules that, when the National Gas Access (WA) Act 2009 section 30 came into operation, applied under section 294; and
-(b)the National Gas Access (Pipelines-Arbitration Amendment) Rules 2017 made by the Minister for Mineral Resources and Energy of South Australia under the National Gas (South Australia) Law section 294F (notice of which was published in the Government Gazette of South Australia on 1 August 2017 at p. 2994);
+(b)the National Gas Access (Pipelines-Arbitration Amendment) Rules 2017 made by the Minister for Mineral Resources and Energy of South Australia under the National Gas (South Australia) Law section 294F (notice of which was published in the Government Gazette of South Australia on 1 August 2017 at p. 2994); and
+(c)the National Gas (Binding Rate of Return Instrument) Amendment Rule 2019 made by the Minister for Energy and Mining of South Australia under the National Gas (South Australia) Law section 294CA (notice of which was published in the Government Gazette of South Australia on 7 February 2019 at p. 404);
 international pipeline means a pipeline for the haulage of gas from a foreign source;
 jurisdictional determination criteria, in relation to a cross boundary distribution pipeline, has the meaning given by section 14;
 jurisdictional gas legislation means an Act of a participating jurisdiction (other than national gas legislation), or any instrument made or issued under or for the purposes of that Act, that regulates the haulage of gas in that jurisdiction;
@@ -241,6 +245,7 @@ processable gas means a substance that—
 producer means a person who carries on a business of producing natural gas;
 prospective user has the meaning given by section 5;
 queuing requirements means terms and conditions providing for the priority that a prospective user has, as against any other prospective user, to obtain access to spare capacity and developable capacity;
+rate of return instrument—see section 30D(2);
 reclassification decision means a decision of the NCC under Chapter 3 Part 5;
 reference service means a pipeline service specified by, or determined or approved by the AER under, the Rules as a reference service;
 reference tariff means a tariff or charge for a reference service—
@@ -292,7 +297,7 @@ user or consumer association has the meaning given by section 244;
 user or consumer interest group has the meaning given by section 244;
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria;
 WA arbitrator has the meaning given to that term in section 9(1) of the National Gas Access (WA) Act 2009.
-[Section 2 modified: WA Act Sch. 1 cl. 3; amended, see SA Act No. 30 of 2009 s. 6 and WA Gazette 18 Dec 2009 p. 5167; SA Act No. 79 of 2013 s. 19 and WA Gazette 14 Mar 2014 p. 632.]
+[Section 2 modified: WA Act Sch. 1 cl. 3; amended: see SA Act No. 30 of 2009 s. 6 and WA Gazette 18 Dec 2009 p. 5167; SA Act No. 79 of 2013 s. 19 and WA Gazette 14 Mar 2014 p. 632; SA Act No. 33 of 2018 and WA Gazette 5 Apr 2019 p. 1007-8.]
 ### 2A. Meaning of AER modified
 (1)In this Law, other than in the definition of AER in section 2, a reference to the AER is to be read as a reference to the regulator (whether the ERA or the AER) except to the extent that subsection (2) gives a different meaning.
 (2)To the extent to which a reference to the AER is capable of being read as a reference to the Australian Energy Regulator established by section 44AE of the Trade Practices Act 1974 of the Commonwealth acting as the disputes resolution body, the term is to be read as having or including that meaning.
@@ -511,11 +516,13 @@ The National Gas Rules have the force of law in this jurisdiction.
 (b)to investigate breaches or possible breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; and
 (c)to institute and conduct proceedings in relation to breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; and
 (d)to institute and conduct appeals from decisions in proceedings referred to in paragraph (c); and
+(da)to make a rate of return instrument; and
 (e)AER economic regulatory functions or powers; and
 (f)to prepare and publish reports on the financial and operational performance of service providers in providing pipeline services by means of covered pipelines; and
 (g)to approve compliance programs of service providers relating to compliance by service providers with this Law or the Rules; and
 (h)any other functions and powers conferred on it under this Law or the Rules.
 (2)The AER has the power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
+[Section 27 amended: see SA Act No. 33 of 2018 s. 14 and WA Gazette 5 Apr 2019 p. 1007.]
 ### 28. Manner in which AER must perform or exercise AER economic regulatory functions or powers
 (1)The AER must, in performing or exercising an AER economic regulatory function or power—
 (a)perform or exercise that function or power in a manner that will or is likely to contribute to the achievement of the national gas objective; and
@@ -539,7 +546,7 @@ are, in accordance with the Rules —
 (ii)when making an access determination relating to a rate or charge for a pipeline service; and
 (b)may take into account the revenue and pricing principles when performing or exercising any other AER economic regulatory function or power, if the AER considers it appropriate to do so.
 (3)For the purposes of subsection (2)(a)(ii), a reference to a “reference service” in the revenue and pricing principles must be read as a reference to a “pipeline service”.
-[Section 28 amended see SA Act No. 79 of 2013 s. 20 and WA Gazette 14 Mar 2014 p. 632.]
+[Section 28 amended: see SA Act No. 79 of 2013 s. 20 and WA Gazette 14 Mar 2014 p. 632.]
 ### 29. Delegations
 Any delegation by the AER under section 44AAH of the Trade Practices Act 1974 of the Commonwealth or by the ERA under section 29 of the Economic Regulation Authority Act 2003 extends to, and has effect for the purposes of, this Law, the Regulations and the Rules.
 [Section 29 modified: WA Act Sch. 1 cl. 6.]
@@ -553,6 +560,183 @@ Any delegation by the AER under section 44AAH of the Trade Practices Act 1974 of
 Note—
 See also Chapter 10 Part 2 Division 1.
 [Section 30 modified: WA Act Sch. 1 cl. 7.]
+## Division 1A—Rate of return instrument
+[Heading inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+## Subdivision 1—Preliminary
+[Heading inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30A. Definitions
+In this Division—
+consumer reference group, for making a rate of return instrument, see section 30H(1)(a);
+explanatory information, for a rate of return instrument, means information about the content of the instrument, including (but not limited to) information explaining—
+(a)the reasons for the rate of return on capital or the value of imputation credits under the instrument; and
+(b)how the stated value, or the way to calculate the rate or value, was decided; and
+(c)if the instrument replaces another instrument—
+(i)the differences (if any) between the instrument and the replaced instrument; and
+(ii)the reasons for any differences; and‚
+(d)why the AER is satisfied the instrument will, or is most likely to, contribute to the achievement of the national gas objective to the greatest degree; and
+(e)how the AER had regard to the following in making the instrument:
+(i)the revenue and pricing principles;
+(ii)the matters mentioned in section 30G;
+(iii)estimation methods, financial models, market data and other evidence relevant to making the instrument;
+(iv)prevailing conditions in the market for equity funds;
+(v)the interrelationships between financial parameters used, or to be used, in relation to deciding the rate or value.
+[Section 30A inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30B. Rate of return instrument has force of law
+(1)A rate of return instrument has the force of law in this jurisdiction.
+(2)An Act of this jurisdiction regulating the making of subordinate legislation does not apply to a rate of return instrument.
+[Section 30B inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30C. Rate of return instrument is binding on AER and covered pipeline service providers
+A rate of return instrument is binding on—
+(a)the AER in relation to the performance or exercise of an AER economic regulatory function or power; and
+(b)each covered pipeline service provider in relation to a matter relevant to the performance or exercise of an AER economic regulatory function or power.
+[Section 30C inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+## Subdivision 2—Requirement to make rate of return instrument
+[Heading inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30D. AER to make rate of return instrument
+(1)This section applies if a rate of return on capital or the value of imputation credits is required for performing or exercising an AER economic regulatory function or power.
+(2)The AER must make an instrument (a rate of return instrument) stating—
+(a)for a rate of return on capital—the way to calculate the rate; and
+(b)for the value of imputation credits—the value or the way to calculate the value.
+(3)The AER may make an instrument only if satisfied the instrument will, or is most likely to, contribute to the achievement of the national gas objective to the greatest degree.
+(4)Subject to subsection (3), the way to calculate a rate of return on capital must include a weighted average of an allowed return on equity and an allowed return on debt.
+(5)In making an instrument, the AER must have regard to—
+(a)the revenue and pricing principles; and
+(b)other information the AER considers appropriate.
+[Section 30D inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30E. Content of rate of return instrument
+(1)If a rate of return instrument states the value of imputation credits, the instrument must state a single value to apply in relation to all covered pipeline service providers.
+(2)If a rate of return instrument states a way to calculate the rate of return on capital or the value of imputation credits, the instrument must—
+(a)provide for the same methodology to apply in relation to all covered pipeline service providers in calculating the rate or value; and
+(b)provide for the methodology to apply automatically without the exercise of any discretion by the AER.
+Example for paragraph (b)—
+The instrument can not include different methodologies or a band of values from which the AER could choose in applying the instrument.
+(3)Subject to subsections (1) and (2), the instrument may include other matters the AER considers appropriate.
+Example—
+Matters to help a covered pipeline service provider calculate a rate of return or the value of imputation credits.
+[Section 30E inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+## Subdivision 3—Consultation requirements
+[Heading inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30F. Process for making rate of return instrument
+Subject to this Division, the AER may make a rate of return instrument in the way it considers appropriate.
+[Section 30F inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30G. Other matters AER must have regard to in making instrument
+In making a rate of return instrument, the AER must also have regard to the following—
+(a)advice, recommendations or submissions given by a consumer reference group;
+(b)submissions made, and the report published, under section 30H;
+(c)submissions made under section 30J;
+(d)the report given by the independent panel under section 30K.
+[Section 30G inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30H. Requirements before publishing draft instrument
+(1)Before publishing a draft rate of return instrument under this Subdivision, the AER must—
+(a)establish a reference group to help the AER implement an effective consumer consultation process for making the proposed instrument (a consumer reference group); and
+(b)publish a notice on its website—
+(i)inviting persons to make a written submission to the AER about the proposed instrument; and
+(ii)stating the period, not less than 28 days, within which a submission must be made; and
+(c)seek concurrent expert opinions or evidence about the proposed instrument.
+(2)A person may make a submission after the stated period only with the written approval of the AER.
+(3)Subject to subsections (4) and (5), the AER may seek the expert opinions or evidence in the way it considers appropriate.
+Example—
+The AER might convene a conference of experts to identify key issues, and areas of dispute and agreement among the experts, about the content of the proposed instrument.
+(4)The AER must call for nominations of eligible experts but may seek the expert opinions or evidence from any eligible expert.
+(5)If practicable, the AER must seek the expert opinions or evidence from at least 3 eligible experts.
+(6)The AER must publish on its website—
+(a)submissions made under this section; and
+(b)a report on the outcomes of seeking the expert opinions or evidence.
+(7)In this section—
+eligible expert means a person with qualifications or experience in a field the AER considers relevant to making a rate of return instrument.
+Examples of relevant fields—
+Finance, economics, law, consumer affairs, institutional investment.
+[Section 30H inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30I. Consumer reference group
+(1)A consumer reference group for making a rate of return instrument—
+(a)is to consist of the members appointed by the AER; and
+(b)may carry out its activities, including giving advice or recommendations to the AER about the instrument, in the way it considers appropriate.
+(2)Without limiting subsection (1)(b), the consumer reference group may—
+(a)consult with consumers of natural gas; and
+(b)facilitate consumer engagement in the process for making the instrument; and
+(c)make written submissions to the AER about the content of the instrument and the process for making it.
+(3)The AER must publish on its website any written advice, recommendations or submissions given to it by the consumer reference group.
+[Section 30I inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30J. Publication of draft instrument and other information
+(1)The AER must, at least 6 months before making a rate of return instrument, publish on its website—
+(a)a draft of the proposed instrument and the explanatory information for the instrument; and
+(b)a notice—
+(i)inviting persons to make a written submission to the AER about the proposed instrument; and
+(ii)stating the period, not less than 28 days, within which a submission must be made.
+(2)A person may make a submission after the stated period only with the written approval of the AER.
+(3)The AER must publish submissions made under this section on its website.
+[Section 30J inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30K. Report about draft instrument by independent panel
+(1)The AER must, as soon as practicable after publishing the draft instrument, establish an independent panel to give the AER a written report about the instrument.
+(2)The panel—
+(a)may carry out its activities, including giving the report, in the way it considers appropriate; but
+(b)must seek to give the report by consensus.
+(3)The panel must—
+(a)consist of at least 3 members, appointed by the AER, who have qualifications or experience in a field the AER considers relevant to making a rate of return instrument; and
+Examples of relevant fields—
+Finance, economics, law, consumer affairs, institutional investment.
+(b)give the report to the AER before the AER makes the instrument.
+(4)The AER must take reasonable steps to minimise and manage any conflicts of interest a panel member may have in relation to making the instrument.
+(5)The report must—
+(a)include the panel’s assessment of the evidence and reasons supporting the rate of return on capital or the value of imputation credits under the instrument; and
+(b)state whether the report is given by consensus.
+(6)The AER must publish the report on its website.
+[Section 30K inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30L. Publication of explanatory information
+The AER must publish explanatory information for a rate of return instrument on its website when the instrument is published under section 30N.
+[Section 30L inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30M. Failure to comply does not affect validity
+Failure to comply with this Subdivision does not invalidate or otherwise affect a rate of return instrument.
+[Section 30M inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+## Subdivision 4—Publication, review and other matters
+[Heading inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30N. Publication of rate of return instrument
+After making a rate of return instrument, the AER must publish the instrument on its website.
+Note—
+See section 30L for the requirement to publish explanatory information for the instrument.
+[Section 30N inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30O. Commencement and duration of instrument
+A rate of return instrument—
+(a)commences on the day after it is published on the AER’s website; and
+(b)remains in force until the end of the day it is replaced under section 30P.
+[Section 30O inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30P. Review and replacement of instrument
+(1)The AER must—
+(a)review each rate of return instrument; and
+(b)make a new rate of return instrument under this Division to replace the reviewed instrument.
+(2)The AER must replace the reviewed instrument by publishing the new instrument on its website on the day that is—
+(a)the fourth anniversary of the day the reviewed instrument was published; or
+(b)if the day mentioned in paragraph (a) is not a business day—the first business day after that day.
+[Section 30P inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30Q. Application of instrument
+(1)A rate of return instrument—
+(a)applies for the purposes of an AER economic regulatory decision made after the commencement of the instrument; and
+(b)does not affect an AER economic regulatory decision made before the commencement of the instrument.
+(2)To remove any doubt, it is declared that the application of the instrument under this Law, including, for example, in making a full access arrangement decision, is an AER economic regulatory function or power.
+[Section 30Q inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+[30R.Section 30R inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007; deleted: WA Act Sch. 1 cl. 7A.]
+## Subdivision 5—Confidentiality of information
+[Heading inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30S. Confidentiality
+(1)If a person wishes to give information to the AER for the purposes of this Division in confidence—
+(a)the person must give the AER written notice that the person claims the information is confidential; and
+(b)give reasons to support the claim, including—
+(i)information about the detriment that might be caused to the person if the information were disclosed by the AER; and
+(ii)information that—
+(A)is reasonably within the person’s knowledge and capacity to give; and
+(B)may be relevant to the AER’s consideration under section 329 about whether the public benefit in disclosing the information outweighs the detriment.
+(2)In giving reasons to support a claim under subsection (1) about information received from another person (a third party), a person may include information that—
+(a)is reasonably within the person’s knowledge and capacity to give; and
+(b)is about the detriment that might be caused to the third party if the information were disclosed by the AER; and
+(c)may be relevant to the AER’s consideration under section 329 about whether the public benefit in disclosing the information outweighs the detriment.
+(3)In acting under subsection (1), a person must specifically identify the information in relation to which the claim is made.
+(4)Information given to the AER for the purposes of this Division is not to be regarded as being given in confidence, or to be confidential in any way, unless the information is subject to an express claim of confidentiality made under this section.
+[Section 30S inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
+### 30T. Disclosure of information given in confidence
+(1)Chapter 10 Part 2 Division 1 applies in relation to publishing information given to the AER in confidence under this Division.
+(2)In this section—
+information includes advice, recommendations, submissions and reports.
+[Section 30T inserted: see SA Act No. 33 of 2018 s. 15 and WA Gazette 5 Apr 2019 p. 1007.]
 ## Division 2 — Search warrants
 ### 31. Definitions
 In this Division—
@@ -746,8 +930,8 @@ See also section 65 about what the AER must and may do after receiving submissio
 (b)give its reasons, in writing, why the regulatory information notice to be served is an urgent notice.
 (3)A regulatory information notice is an urgent notice if—
 (a)under the notice the AER will require the scheme pipeline service provider or related provider to provide information to the AER; and
-(b)that requirement has arisen because the AER considers it must deal with or address a particular matter or thing in order for it to make an AER economic regulatory decision; and
-(c)the AER considers that, having regard to the time within which it must make that AER economic regulatory decision, the time within which the AER requires the information is of the essence.
+(b)that requirement has arisen because the AER considers it must deal with or address a particular matter or thing in order for it to make an AER economic regulatory decision or a rate of return instrument; and
+(c)the AER considers that, having regard to the time within which it must make that AER economic regulatory decision or a rate of return instrument, the time within which the AER requires the information is of the essence.
 (4)A notice under subsection (1) must—
 (a)invite the scheme pipeline service provider, or the related provider, to make written representations to the AER as to whether the AER should serve the regulatory information notice on them; and
 (b)specify the period within which the scheme pipeline service provider, or the related provider, may make the representations.
@@ -755,6 +939,7 @@ See also section 65 about what the AER must and may do after receiving submissio
 (a)in the case of an urgent notice to be served—a period of not less than 5 business days and not more than 10 business days calculated from the date of the notice under subsection (1);
 (b)in all other cases—a period of at least 20 business days calculated from the date of the notice under subsection (1).
 (6)The AER must consider the written representations made in accordance with a notice under subsection (1) before making its decision in accordance with this Division to serve the regulatory information notice.
+[Section 52 amended: see SA Act No. 33 of 2018 s. 16 and WA Gazette 5 Apr 2019 p. 1007.]
 ## Subdivision 3 — Form and content of regulatory information instruments
 ### 53. Form and content of regulatory information instrument
 (1)A regulatory information instrument—
@@ -806,14 +991,15 @@ On being served a regulatory information notice, a person named in the notice mu
 ### 59. Assumptions where there is non-compliance with regulatory information instrument
 (1)This section applies if—
 (a)under a regulatory information instrument the AER—
-(i)requires a scheme pipeline service provider to provide information to the AER for the purpose of enabling the AER to make an AER economic regulatory decision relating to the scheme pipeline service provider; or
-(ii)requires a related provider to provide information to the AER that is relevant to the making of an AER economic regulatory decision relating to a scheme pipeline service provider; and
+(i)requires a scheme pipeline service provider to provide information to the AER for the purpose of enabling the AER to make an AER economic regulatory decision relating to the scheme pipeline service provider or to make a rate of return instrument; or
+(ii)requires a related provider to provide information to the AER that is relevant to the making of an AER economic regulatory decision relating to a scheme pipeline service provider or the making of a rate of return instrument; and
 (b)the scheme pipeline service provider or related provider—
 (i)does not provide the information to the AER in accordance with the applicable regulatory information instrument; or
 (ii)provides information that is insufficient (when compared to what was requested under the applicable regulatory information instrument).
 (2)Without limiting sections 56 and 57 and despite anything to the contrary in this Law or the Rules, the AER—
-(a)may make the AER economic regulatory decision on the basis of the information the AER has at the time it makes that decision; and
-(b)in making that decision, may make reasonable assumptions (including assumptions adverse to the interests of the scheme pipeline service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
+(a)may make the AER economic regulatory decision or the rate of return instrument on the basis of the information the AER has at the time it makes that decision or instrument; and
+(b)in making that decision or instrument, may make reasonable assumptions (including assumptions adverse to the interests of the scheme pipeline service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
+[Section 59 amended: see SA Act No. 33 of 2018 s. 17 and WA Gazette 5 Apr 2019 p. 1007.]
 ## Subdivision 5 — General
 ### 60. Providing to AER false and misleading information
 A person must not, in purported compliance with a regulatory information instrument requiring the person to provide information to the AER, provide information to the AER that the person knows is false or misleading in a material particular.
@@ -2904,6 +3090,22 @@ In addition to complying with sections 291 and 292, the AEMC must take into acco
 (1)The National Gas Rules that apply upon section 30 of the National Gas Access (WA) Act 2009 coming into operation are as set out in the document called the National Gas Rules 2008, signed on 1 July 2008 by the Minister for Energy of South Australia, as affected, if applicable, by any amendments made by the AEMC under national gas legislation before the coming into operation of that section.
 (2)Subsection (1) does not prevent the AEMC from making Rules under this Chapter that amend or revoke the rules referred to in it.
 [Section 294 inserted and modified: WA Act Sch. 1 cl. 13.]
+### 294CA. South Australian Minister may make consequential Rules relating to rate of return instrument
+(1)The South Australian Minister may make Rules that revoke or amend a Rule if the revocation or amendment is consequential on the enactment of the Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018.
+(2)Without limiting subsection (1), the South Australian Minister may make a rule providing that the rate of return on capital under a rate of return instrument in force at the start of a regulatory period applies throughout the period.
+(3)Section 74(3) applies to Rules made under this section in the same way it applies to Rules made by the AEMC.
+(4)As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a)publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b)make the Rules publicly available.
+(5)The notice referred to in subsection (4)(a) must state—
+(a)the date on which the Rules commence operation; and
+(b)if different Rules will commence operation on different dates, those dates.
+(6)Rules may only be made under this section on the recommendation of the MCE.
+(7)Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(8)In this section—
+regulatory period means the period specified in an applicable access arrangement to be the regulatory period;
+South Australian Minister means the Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia.
+[Section 294CA inserted: see SA Act No. 33 of 2018 s. 18 and WA Gazette 5 Apr 2019 p. 1007-8.]
 ### 294F. South Australian Minister to make initial Rules relating to access to non-scheme pipelines
 (1)The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister) may make Rules on any 1 or more of the following subjects:
 (a)access proposals, access disputes and arbitrations under Chapter 6A;
@@ -3359,7 +3561,7 @@ Regulatory economic methodologies
  | (d)depreciation;
  | (e)the operating costs of a service provider;
  | (f)if the service provider is a corporation, the income tax payable by corporations;
- | (g)a rate of return on assets.
+ | [(g)deleted]
 42 | The methodology known as “total factor productivity”—
  | (a)as a regulatory economic methodology to be applied by— (i)the AER for the purpose of approving or making a full access arrangement; (ii)the AER for the purpose of approving revisions or a variation to an applicable access arrangement that is a full access arrangement; (iii)the dispute resolution body for the purpose of making an access determination;
  | (b)as an economic regulatory tool to inform and assist the AER in applying, or analysing the application of, the regulatory economic methodology known as the “building block approach” by the AER for the purpose of— (i)approving or making a full access arrangement; or (ii)approving revisions or a variation to an applicable access arrangement that is a full access arrangement;
@@ -3445,7 +3647,7 @@ Miscellaneous
 81 | The modification of section 3, 8 or 10.8 of the Gas Code as those sections apply to a transitioned access arrangement (as defined in clause 1 of Schedule 3 to this Law). Note— See also clause 30 of Schedule 3 to this Law.
 82 | Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the Gas Code as in operation and effect immediately before the commencement of section 30 of the National Gas Access (WA) Act 2009 of Western Australia.
 83 | Any matter or thing relating to gas prescribed by the Regulations.
-[Schedule 1 modified: WA Act Sch. 1 cl. 14; amended see SA Act No. 23 of 2017 s. 9 and WA Gazette 22 Dec 2017 p. 5984.]
+[Schedule 1 modified: WA Act Sch. 1 cl. 14; amended: see SA Act No. 23 of 2017 s. 9 and WA Gazette 22 Dec 2017 p. 5984; SA Act No. 33 of 2018 s. 19 and WA Gazette 5 Apr 2019 p. 1007.]
 ## Schedule 2 — Miscellaneous provisions relating to interpretation
 Section 20
 ## Part 1 — Preliminary
@@ -3860,6 +4062,7 @@ SES employee has the same meaning as in section 17AA of the Acts Interpretation 
 (iii)a general regulatory information order;
 (iv)a notice, notification, direction or requirement;
 (b)a stated document is a copy of a thing referred to in paragraph (a);
+(ba)a stated document is a copy of a rate of return instrument;
 (c)on a stated day, a person was or was not:
 (i)given a decision (however described), or determination (however described);
 (ii)authorised as an authorised person (within the meaning of section 31);
@@ -3874,7 +4077,7 @@ SES employee has the same meaning as in section 17AA of the Acts Interpretation 
 (v)a relevant notice.
 (2)When subclause (1) is read as if a reference in it to the AER were a reference to the ERA, the subclause is to be read as if “an AER member, or an SES employee or acting SES employee assisting the AER as mentioned in section 44AAC of the Trade Practices Act 1974 of the Commonwealth” had been deleted and the following had been inserted instead:
 a member of the ERA
-[Clause 34 modified: WA Act Sch. 1 cl. 16.]
+[Clause 34 modified: WA Act Sch. 1 cl. 16; amended: see SA Act No. 33 of 2018 s. 20(1) and WA Gazette 5 Apr 2019 p. 1007-8.]
 ### 35. Evidentiary certificates—AEMC
 In any proceedings under this Law, a certificate signed or purported to be signed by a Commissioner or the AEMC chief executive, stating any of the following matters is evidence of the matter:
 (a)a stated document is a decision (however described), made, given, served or issued under this Law;
@@ -3978,7 +4181,14 @@ Section 555A(1) and (2) of The Criminal Code apply in relation to a simple offen
 (1)This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
 (2)The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
 (3)In this clause—
-statutory instrument includes the Regulations or the Rules.
+statutory instrument includes the Regulations, the rate of return instrument or the Rules.
+[Clause 51 modified: WA Act Sch. 1 cl. 17A.]
+### 51A. Rate of return instrument construed not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
+(1)A rate of return instrument is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made.
+(2)If a provision of the rate of return instrument, or the application of a provision of the instrument to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
+(a)it is a valid provision to the extent to which it is not in excess of the power; and
+(b)the remainder of the instrument, and the application of the provision to other persons, subject matters or circumstances, is not affected.
+[Clause 51A inserted: see SA Act No. 33 of 2018 s. 20(3) and WA Gazette 5 Apr 2019 p. 1007.]
 ### 52. National Gas Rules to be construed so as not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
 (1)The National Gas Rules are to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which they are made.
 (2)If a provision of the National Gas Rules, or the application of a provision of the National Gas Rules to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
@@ -4000,6 +4210,18 @@ The term function is defined in clause 10 to include “duty”.
 (d)affect a penalty arising because of a breach of the Rule; or
 (e)affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
 (2)A penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced as if the Rule had not been ordered by the Court as invalid.
+### 53A. Invalid rate of return instrument
+(1)This clause applies if the Court orders (by declaration or otherwise) that a rate of return instrument is invalid.
+(2)The AER must make a new rate of return instrument under this Law to replace the invalid instrument.
+(3)Until the invalid instrument is replaced, the rate of return on capital and the value of imputation credits under the invalid instrument continue to apply for the purposes of this Law.
+(4)However, the AER must deal with any affected access arrangement decision to apply the new rate of return instrument to the decision as if the new instrument had applied from the start of the decision.
+(5)Subclause (4) applies despite section 30Q(1).
+(6)In this clause—
+affected access arrangement decision means a full access arrangement decision to which the invalid instrument applied or continued to apply;
+deal with, an affected access arrangement decision, means to do either of the following the AER considers appropriate in the circumstances—
+(a)revoke the decision and substitute a new decision;
+(b)vary the decision.
+[Clause 53A inserted: see SA Act No. 33 of 2018 s. 20(4) and WA Gazette 5 Apr 2019 p. 1007.]
 ## Schedule 3 — Savings and transitionals
 Section 336
 ## Part 1 — General
@@ -4400,6 +4622,48 @@ old scheme classification and scheme participant determination means—
 (a)a classification and determination under section 10(5)(a) of the old access law; or
 (b)a determination under section 10(5)(b) of the old access law; or
 (c)a classification and determination under section 11(3) of the old access law.
+## Part 17—Transitional provisions for rate of return instrument
+[Heading inserted: see SA Act No. 33 of 2018 s. 21 and WA Gazette 5 Apr 2019 p. 1007.]
+### 95. Definitions
+In this Part—
+2013 non-binding guideline means the guideline about determining the rate of return on capital issued by the AER in 2013;
+commencement means the coming into operation of the National Gas Access (WA) Adoption of Amendments Order 2019 clause 3;
+review, of the 2013 non-binding guideline, means the review of the guideline started by the AER in 2017;
+stakeholders means—
+(a)service providers and consumer organisations; or
+(b)end users and prospective end users; or
+(c)any of the following persons the AER considers appropriate to give the AER advice or comment about the review of the 2013 non-binding guideline—
+(i)persons engaged by a covered pipeline service provider, a consumer organisation or another entity to give the advice or comment;
+(ii)other persons the AER considers have the qualifications or experience appropriate to give the advice or comment; or
+(d)other persons the AER considers have an interest in the review of the 2013 non-binding guideline.
+[Clause 95 inserted: see SA Act No. 33 of 2018 s. 21 and WA Gazette 5 Apr 2019 p. 1007; modified: WA Act Sch. 1 cl. 18(3).]
+### 96. Making first rate of return instrument if review not completed before commencement
+(1)This clause applies if—
+(a)the review of the 2013 non-binding guideline was not completed before the commencement; and
+(b)the AER has sought advice or comment from stakeholders in relation to the review; and
+(c)at least 3 months before making the first rate of return instrument, the AER has published on its website a draft of the proposed first rate of return instrument or proposed new non-binding guideline under the Rules; and
+(d)the draft instrument or guideline has been reviewed by an independent panel consisting of at least 3 members with qualifications or experience the AER considers appropriate to conduct the review.
+(2)Chapter 2 Part 1 Division 1A Subdivision 3 does not apply in relation to making the first rate of return instrument.
+(3)The independent panel mentioned in subclause (1)(d) must seek to give the AER a consensus report on the panel’s review.
+(4)However, a failure to give the AER a consensus report does not affect the making of the first rate of return instrument.
+[Clause 96 inserted: see SA Act No. 33 of 2018 s. 21 and WA Gazette 5 Apr 2019 p. 1007; modified: WA Act Sch. 1 cl. 18(4).]
+### 97. Making first rate of return instrument if review completed before commencement
+(1)This clause applies if, before the commencement—
+(a)the review of the 2013 non-binding guideline was completed and a new non-binding guideline is in force under the Rules; and
+(b)the AER sought advice or comment from stakeholders in relation to the review; and
+(c)at least 3 months before making the new non-binding guideline, the AER published on its website a draft of the proposed new non-binding guideline; and
+(d)the draft was reviewed by an independent panel consisting of at least 3 members with qualifications or experience the AER considered appropriate to conduct the review; and
+(e)the independent panel gave the AER a report on the panel’s review.
+(2)The new non-binding guideline is taken to be the first rate of return instrument on the commencement.
+(3)For section 30P, the instrument is taken to have been published on the AER’s website on the commencement.
+(4)The report mentioned in subclause (1)(e) need not be a consensus report on the panel’s review.
+[Clause 97 inserted: see SA Act No. 33 of 2018 s. 21 and WA Gazette 5 Apr 2019 p. 1007; modified: WA Act Sch. 1 cl. 18(5).]
+### 98. Application of this Law to particular decisions
+(1)The amended Law applies in relation to an AER economic regulatory decision made after the commencement even if any action or process for making the decision started before the commencement.
+(2)However, subclause (1) does not apply in relation to an AER economic regulatory decision made before the commencement that has been remitted back to the AER to make the decision again.
+(3)In this clause—
+amended Law means this Law as amended and modified by virtue of the National Gas Access (WA) Adoption of Amendments Order 2019 and the National Gas Access (WA) (Act Amendment) Regulations 2019.
+[Clause 98 inserted: see SA Act No. 33 of 2018 s. 21 and WA Gazette 5 Apr 2019 p. 1007; modified: WA Act Sch. 1 cl. 18(6).]
 Notes about the Western Australian National Gas Access Law text
 Compilation table
 The Western Australian National Gas Access Law text is the text that results from modifying the National Gas Law, as set out in the Schedule to the National Gas (South Australia) Act 2008 (South Australia) for the time being in force (the SA Schedule), as shown in the National Gas Access (WA) Act 2009 Schedule 1 (WA Schedule 1) and to reflect that, because of the National Gas Access (WA) Act 2009 s. 7A, amendments to the SA Schedule only affect the Western Australian National Gas Access Law text to the extent that they are declared under that section to be relevant to that text.
@@ -4408,44 +4672,50 @@ National Gas (South Australia) Act 2008 Schedule (as modified by the National Ga
 National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009 s. 6 | SA Act No. 30 of 2009 | In SA: 1 Jul 2009 (see SA Gazette 25 Jun 2008 p. 3000) In WA: 1 Jan 2010 (see WA Gazette 18 Dec 2009 p. 5167-8)
 Statutes Amendment (National Electricity and Gas Laws — Limited Merits Review) Act 2013 Pt. 3 | SA Act No. 79 of 2013 | In SA: 19 Dec 2013 (see SA Gazette 19 Dec 2013 p. 4927) In WA: 15 Mar 2014 (see WA Gazette 14 Mar 2014 p. 632)
 National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017 | SA Act No. 23 of 2017 | In SA: 1 Aug 2017 (see SA Gazette 1 Aug 2017 p. 3037) In WA: 23 Dec 2017 (see WA Gazette 22 Dec 2017 p. 5984)
+Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018 Pt. 3 | SA Act No. 33 of 2018 | In SA: 13 Dec 2018 (see SA Gazette 13 Dec 2018 p. 4272) In WA: 6 Apr 2019 (see WA Gazette 5 Apr 2019 p. 1007)
 Defined terms
-[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined termProvision(s)
-15-year no-coverage determination2, 151
+[This is a list of terms defined and the provisions where they are defined.
+Unless otherwise indicated references are to provisions in the Note.
+The list is not part of the law.]
+Defined TermProvision(s)
+15-year no-coverage determination2, 151(1)
+2013 non-binding guidelineSch. 3 cl. 95
 ACCC2
 access arrangement2
-access arrangement revision proposal30
-access determination2
-access dispute178
+access arrangement revision proposalSch. 3 cl. 30
+access determination2, 216A
+access dispute178, 216A
 access dispute pipeline 178
-Act10
-acting SES employee33
-active request301
-additional instrument making power27
-additional ring fencing requirement137, 143
-adjacent area in respect of the State5(2)
-adjacent area of another participating jurisdiction9(1)
-adjacent area of this jurisdiction9(1)
+ActSch. 2 cl. 10
+acting SES employeeSch. 2 cl. 33
+active request301(1)
+additional instrument making powerSch. 2 cl. 27
+additional ring fencing requirement137, 143(1)
+adjacent area in respect of the StateAct 5(2)
+adjacent area of another participating jurisdictionAct 9(1)
+adjacent area of this jurisdictionAct 9(1)
 AEMC2
-AEMC chief executive33
-AEMC Commissioner33
+AEMC chief executiveSch. 2 cl. 33
+AEMC CommissionerSch. 2 cl. 33
 AEMC initiated Rule290
-AEMC official86
+AEMC official86(3)
 AEMC Rule review290
 AER2
-AER breach investigation45
+AER breach investigationSch. 3 cl. 45
 AER economic regulatory decision2
 AER economic regulatory function or power2
 AER information disclosure decision244
-AER member33
+AER memberSch. 2 cl. 33
 AER ring fencing determination2
+affected access arrangement decisionSch. 2 cl. 53A
 affected or interested person or body244, 250
-affidavit10
-amend10
+affidavitSch. 2 cl. 10
+amendSch. 2 cl. 10
+amended LawSch. 3 cl. 98
 applicable access arrangement2
 applicable access arrangement decision2
 applicant244
-appoint10
+appointSch. 2 cl. 10
 approved associate contract2
 associate2
 associate contract2
@@ -4453,180 +4723,186 @@ associate contract decision2
 associate pipeline service2
 authorised person31
 average annual regulated revenue244
-basic instrument making power27
-binding no-coverage determination1
-breach10
+basic instrument making powerSch. 2 cl. 27
+binding no-coverage determinationSch. 3 cl. 1
+breachSch. 2 cl. 10
 breach provision287
 Bulletin Board information2
 Bulletin Board operator2
-business day10
-business unit B143
-business unit A143
-calendar month10
-calendar year10
+business daySch. 2 cl. 10
+business unit A143(2)
+business unit B143(2)
+calendar monthSch. 2 cl. 10
+calendar yearSch. 2 cl. 10
 charge2
-civil monetary liability221, 226
+civil monetary liability221(6), 226(5)
 civil penalty2
 civil penalty provision2
 classification decision under the Rules2
-coastal waters5(2)
-commencement10
-commencement day1
+coastal watersAct 5(2)
+commencementSch. 2 cl. 10, Sch. 3 cl. 95
+commencement daySch. 3 cl. 1
 commission2
-Commonwealth bodies12(2)
+Commonwealth bodiesAct 12(2)
 Commonwealth Minister2
 compliance date137
-complying service provider10
+complying service provider10(2)
 conduct provision2
-confer10
+conferSch. 2 cl. 10
 consolidated Rule request300
 constituent components2
-contravene10
+consumer reference group30A, 30H
+contraveneSch. 2 cl. 10
 contributing service43
-controlling pipeline activity10
-Councillor90
-Court9(1)
-coverage determination2, 92
+controlling pipeline activity10(5)
+Councillor90(9)
+CourtAct 9(1)
+coverage determination2, 92(1)
 coverage recommendation2
 coverage related light regulation decision244
-coverage revocation determination2, 102
+coverage revocation determination2, 102(1)
 coverage revocation recommendation2
 covered pipeline2
 covered pipeline service provider2
 cross boundary distribution pipeline2
-cross boundary pipeline16(4)
+cross boundary pipelineAct 16(4)
 cross boundary transmission pipeline2
-current access arrangement1
-current access arrangement modification Rules30
-decision maker31
+current access arrangementSch. 3 cl. 1
+current access arrangement modification RulesSch. 3 cl. 30
+deal withSch. 2 cl. 53A
+decision makerSch. 2 cl. 31
 decision related matter68C
-definition10
-designated Minister9(1)
+definitionSch. 2 cl. 10
+designated MinisterAct 9(1)
 designated pipeline2
 designated reviewable regulatory decision2
 developable capacity2
 dispute hearing178
-dispute resolution body9(1), 2
+dispute resolution bodyAct 9(1), Note 2
 distribution pipeline2
-document10
+documentSch. 2 cl. 10
 draft Rule determination2
-empowering provision27, 27
+eligible expert30H
+empowering provisionSch. 2 cl. 27
 end user2, 244
 ERA2
-ERA pipeline9(1)
-estate10
+ERA pipelineAct 9(1)
+estateSch. 2 cl. 10
 excluded infrastructure149
-exempt contract19(3)
-exempt matter15(2)
-expire10
+exempt contractAct 19(3)
+exempt matterAct 15(2)
+expireSch. 2 cl. 10
+explanatory information30A
 extension and expansion requirements2
-fail10
+failSch. 2 cl. 10
 final Rule determination2
-financial year10
+financial yearSch. 2 cl. 10
 foreign company2
 foreign source2
 form of regulation factors2
 full access arrangement2
 full access arrangement decision2
-function10
-further disclosure notice329
+functionSch. 2 cl. 10
+further disclosure notice329(6)
 Gas Code2
 gas market operator2
 gas market regulatory body290
-gas other than natural gas6A(3)
-Gas Pipelines Access Law11(4)
-Gazette10
+gas other than natural gasAct 6A(3)
+Gas Pipelines Access LawAct 11(4)
+GazetteSch. 2 cl. 10
 general regulatory information order2
 GMCo290
 greenfields pipeline incentive2
 greenfields pipeline project149
 haulage2
-initial classification decision2, 98, 155
-initial disclosure notice329, 329
-initial National Gas RulesSch. 1 cl. 3(1), 2, 294
-instrument10
-interest10
+information30T
+initial classification decision2, 98(1), 155(1)
+initial disclosure notice329(2), (3)
+initial National Gas Rules2
+instrumentSch. 2 cl. 10
+interestSch. 2 cl. 10
 international pipeline2
 intervener244
 jurisdictional determination criteria2
 jurisdictional gas legislation2
-Law extrinsic material8
-Legislature of this jurisdiction9(1)
-light regulation determination2, 110, 112
+Law extrinsic materialSch. 2 cl. 8
+Legislature of this jurisdictionAct 9(1)
+light regulation determination2, 110(1), 112(1)
 light regulation services2
 limited access arrangement2
 limited access arrangement decision2
-make10
+makeSch. 2 cl. 10
 market initiated proposed Rule290
 marketing staff137
 materially preferable designated NGO decision244, 259
-matters of a transitional nature11(4)
+matters of a transitional natureAct 11(4)
 MCE2
 MCE directed review2
 MCE statement of policy principles2
 minimum ring fencing requirement2
 Minister of a participating jurisdiction2
-Minister of this participating jurisdiction87
+Minister of this participating jurisdiction87(3)
 Ministerial coverage decision2
-Ministerial or NCC scheme decision333
-minor10
-modification10
-month10
+Ministerial or NCC scheme decision333(3)
+minorSch. 2 cl. 10
+modificationSch. 2 cl. 10
+monthSch. 2 cl. 10
 more preferable Rule290, 296
-named month10
-National Gas Access (Western Australia) Law3(1), 11(4)
-National Gas Access (Western Australia) Regulations3(1)
-National Gas Law9(1)
+named monthSch. 2 cl. 10
+National Gas Access (Western Australia) LawAct 3(1), 11(4)
+National Gas Access (Western Australia) RegulationsAct 3(1)
+National Gas LawAct 9(1)
 national gas legislation2
 national gas objective2
 National Gas Rules2
-national provisions19(3)
+national provisionsAct 19(3)
 natural gas2
 natural gas service2
 Natural Gas Services Bulletin Board2
 NCC2
-NCC member33
+NCC memberSch. 2 cl. 33
 NCC recommendation244
 NCC recommendation or decision2
-new application Act1
+new application ActSch. 3 cl. 1
 new facility2
-new scheme revisions commencement date31
+new scheme revisions commencement dateSch. 3 cl. 31
 no-coverage recommendation2
-nominated disputes208, 209
+nominated disputes208, 209(2)
 non scheme pipeline user2
 non-controversial Rule290
-non-finalised access dispute42
-notified compliance date143
-number10
-oath10
+non-finalised access disputeSch. 3 cl. 42
+non-scheme pipeline216A
+notified compliance date143(4)
+numberSch. 2 cl. 10
+oathSch. 2 cl. 10
 offence provision2
-office10
+officeSch. 2 cl. 10
 officer2
 old access law2
-old scheme classification and scheme participant determination53
+old scheme classification and scheme participant determinationSch. 3 cl. 53
 old scheme classification or determination2
-old scheme coverage application1
-old scheme coverage determination1
-old scheme coverage revocation application1
-old scheme coverage revocation determination1
-old scheme covered pipeline1
+old scheme coverage applicationSch. 3 cl. 1
+old scheme coverage determinationSch. 3 cl. 1
+old scheme coverage revocation applicationSch. 3 cl. 1
+old scheme coverage revocation determinationSch. 3 cl. 1
+old scheme covered pipelineSch. 3 cl. 1
 old scheme distribution pipeline2
-old scheme limited access arrangement1
-old scheme price regulation exemption1
-old scheme relevant Minister1
-old scheme ring fencing requirement38
-old scheme transmission pipeline 2
-omit10
-ordinary meaning8
+old scheme limited access arrangementSch. 3 cl. 1
+old scheme price regulation exemptionSch. 3 cl. 1
+old scheme relevant MinisterSch. 3 cl. 1
+old scheme ring fencing requirementSch. 3 cl. 38
+old scheme transmission pipeline2
+omitSch. 2 cl. 10
+ordinary meaningSch. 2 cl. 8
 original decision maker244
 participating jurisdiction2
-party178, 10
-penalty10
-pending old scheme coverage determination1
-pending old scheme coverage non-revocation determination1
-pending old scheme coverage revocation determination1
-pending old scheme no-coverage determination1
-person10
+party178, 216A, Sch. 2 cl. 10
+penaltySch. 2 cl. 10
+pending old scheme coverage determinationSch. 3 cl. 1
+pending old scheme coverage non-revocation determinationSch. 3 cl. 1
+pending old scheme coverage revocation determinationSch. 3 cl. 1
+pending old scheme no-coverage determinationSch. 3 cl. 1
+personSch. 2 cl. 10
 person aggrieved241
 pipeline2
 pipeline classification criterion2
@@ -4635,108 +4911,115 @@ pipeline reliability standard2
 pipeline safety duty2
 pipeline service2
 pipeline service standard2
-power10
-pre-notification right188
-prescribed10
+Pipelines Access/Arbitration amendments294F
+powerSch. 2 cl. 10
+pre-notification right188(2), 216N
+prescribedSch. 2 cl. 10
 price or revenue regulation2
 price regulation exemption2
 price regulation exemption recommendation2
-principal decision maker331
-printed10
-proceeding10
+principal decision maker331(2)
+printedSch. 2 cl. 10
+proceedingSch. 2 cl. 10
 processable gas2
 producer2
-property10
+propertySch. 2 cl. 10
 proposed Rule290
 prospective user2
-provision10
+provisionSch. 2 cl. 10
 publish290
 queuing requirements2
+rate of return instrument2, 30D
 reclassification decision2, 129
-record10
+recordSch. 2 cl. 10
 reference service2
 reference tariff2
-Reference Tariff31
+Reference TariffSch. 3 cl. 31
 regulated revenue244
 Regulations2
-Regulations or Rules of a savings and transitional nature2
-regulator9(1), 2
+Regulations or Rules of a savings and transitional natureSch. 3 cl. 2
+regulatorAct 9(1), Note 2
 regulatory information instrument2
 regulatory information notice 2
 regulatory obligation or requirement2
 regulatory payment 2
 regulatory period244
-regulatory scheme decision maker332
+regulatory scheme decision maker332(3)
 related business137
 related provider43
-relevant appeals body1
+relevant appeals bodySch. 3 cl. 1
 relevant decision maker330
-relevant decision or document31
-relevant exclusivity right188, 321
+relevant decision or documentSch. 2 cl. 31
+relevant exclusivity right188(2), 321(2)
 relevant Minister2
-relevant national provisions19(3)
-relevant notice42, 31, 33
-relevant pipeline description171
-relevant protected contractual right188, 321
+relevant national provisionsAct 19(3)
+relevant notice42(1), Sch. 2 cl. 31, 33
+relevant pipeline description171(3)
+relevant protected contractual right188(2), 216N, 321(2)
 relevant provision31
 relevant Regulator2
-relevant Regulator investigation43
-relevant transition date9, 16, 24
-relevant transition period31, 38
+relevant Regulator investigationSch. 3 cl. 43
+relevant transition dateSch. 3 cl. 9, 16, 24
+relevant transition periodSch. 3 cl. 31, 38
 REMCo290
-repeal10
-report trigger date320
-restricted period329
+repealSch. 2 cl. 10
+report trigger date320(1)
+restricted period329(8)
 revenue and pricing principles2
-review related matter261
+reviewSch. 3 cl. 95
+review related matter 261(7)
 review under this Part244
-reviewable regulatory decision2, 244, 31
-reviewable regulatory decision process participant244
+reviewable regulatory decision2, 244, Sch. 3 cl. 31
+reviewable regulatory decision process participant254(2)
 ring fencing decision2
-Rule extrinsic material8
+Rule extrinsic materialSch. 2 cl. 8
 Rules2
-SA Schedule amendment7A(1)
+SA Schedule amendmentAct 7A(1)
+scheme administrator216A
 scheme decision330
 scheme pipeline2
 scheme pipeline service provider43
 scheme procedure330
-service provider2, 151, 160
-service provider group10
+service provider2, 151(4), 160(3)
+service provider group10(1)
 service provider performance report2
-SES employee33
-sign10
+SES employeeSch. 2 cl. 33
+signSch. 2 cl. 10
 small to medium user or end user244
 small/medium user or consumer intervener244
-South Australian Act3(1)
-spare capacity 2
-specified dispute termination circumstance 186
-standard period260
-statutory declaration10
-statutory instrument10, 21, 51
+South Australian ActAct 3(1)
+South Australian Minister294CA
+spare capacity2
+specified dispute termination circumstance186(3)
+stakeholdersSch. 3 cl. 95
+standard period260(1)
+statutory declarationSch. 2 cl. 10
+statutory instrumentSch. 2 cl. 10, 21, 51
 storage provider2
-subsequent service provider215
+subsequent service provider215(2)
 supply2
-swear10
+swearSch. 2 cl. 10
 tariff2
 tender approval decision2
 Territory2
-that other legislation16(1)
-the first terms134
-the second terms134
-this jurisdiction9(1)
-this Law9(1)
-transitional period20(2)
-transitioned access arrangement1
+that other legislationAct 16(1)
+the first terms134(1)
+the second terms134(1)
+third party30S
+this jurisdictionAct 9(1)
+this lawAct 9(1)
+transitional periodAct 20(2)
+transitioned access arrangementSch. 3 cl. 1
 transmission pipeline2
 Tribunal2
-underlying National Gas LawSch. 1 cl. 1(2)
+underlying National Gas LawAct Sch. 1 cl. 1(2)
 urgent Rule290
-user2
+user2, 216A
 user or consumer association2, 244
 user or consumer interest group2, 244
 user or consumer intervener 244
 VENCorp2
-WA arbitrator9(1), 2
-Western Australian National Gas Access Law text7(2)
-word10
-writing10
+WA arbitratorAct 9(1), Note 2
+Western Australian National Gas Access Law textAct 7(2)
+wordSch. 2 cl. 10
+writingSch. 2 cl. 10
