@@ -185,12 +185,12 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Sentencing Legislation Amendment Act 2016 Pt. 2 Div. 2 | 45 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Reprint 19: The Criminal Code Act Compilation Act 1913 as at 22 Sep 2017 (includes amendments listed above)
 Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 | 28 of 2018 | 2 Nov 2018 | 1 Jan 2019 (see s. 2(b) and Gazette 21 Dec 2018 p. 4845)
+Criminal Law Amendment (Intimate Images) Act 2019Pt. 2 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 2 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
-Criminal Law Amendment (Intimate Images) Act 2019Pt. 2 | 4 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(b))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -240,111 +240,6 @@ Delete section 297(4)(c)(iii) and insert:
 309.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Intimate Images) Act 2019 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — The Criminal Code amended
-3.Act amended
-This Part amends The Criminal Code.
-4.Chapter XXVA inserted
-After section 221B insert:
-Chapter XXVA — Intimate images
-221BA.Terms used
-In this Chapter —
-consent has the meaning given in section 221BB;
-distributes an intimate image of a person includes the meaning given in section 221BC;
-engaged in a private act means —
-(a)in a state of undress; or
-(b)using the toilet, showering or bathing; or
-(c)engaged in a sexual act;
-intimate image, of a person —
-(a)means a still or moving image, in any form, that shows, in circumstances in which the person would reasonably expect to be afforded privacy —
-(i) the person’s genital area or anal area, whether bare or covered by underwear; or
-(ii)in the case of a female person, or transgender or intersex person identifying as female, the breasts of the person, whether bare or covered by underwear; or
-(iii)the person engaged in a private act;
-and
-(b)includes an image, in any form, that has been created or altered to appear to show any of the things mentioned in paragraph (a);
-law enforcement agency means —
-(a)the Police Force of the State; or
-(b)the Police Service of the State; or
-(c)the Office of the Director of Public Prosecutions of the State; or
-(d)the Corruption and Crime Commission; or
-(e)any entity of another State or a Territory, the Commonwealth or another country that has functions similar to functions of an entity referred to in paragraph (a), (b), (c) or (d).
-221BB.Term used: consent
-(1) In this Chapter a reference to consent is a reference to consent freely and voluntarily given.
-(2) Without limiting the generality of subsection (1), consent is not freely and voluntarily given if it is obtained by force, threat, intimidation, deceit or any fraudulent means.
-(3) A person who consents to the distribution of an intimate image of themselves on a particular occasion is not, only because of that fact, to be regarded as having consented to the distribution of the image or any other image on another occasion.
-(4) A person who consents to the distribution of an intimate image of themselves to or by a particular person or in a particular way is not, only because of that fact, to be regarded as having consented to the distribution of the image or any other image to or by another person or in another way.
-(5) A person who distributes an intimate image of themselves is not, only because of that fact, to be regarded as having consented to any other distribution of the image or any other image.
-(6) A person under 16 years of age is incapable of consenting to the distribution of an intimate image.
-(7) This section does not limit the grounds on which it may be established that a person does not consent to the distribution of an intimate image.
-221BC.Term used: distributes
-In this Chapter a person distributes an intimate image of a person by —
-(a) communicating, exhibiting, selling, sending, supplying, offering or transmitting the image to a person other than themselves or the person depicted in the image; or
-(b) making the image available for access by electronic or other means by a person other than themselves or the person depicted in the image; or
-(c) entering into an agreement or arrangement to do anything referred to in paragraph (a) or (b).
-221BD.Distribution of intimate image
-(1) In this section —
-media activity purposes means the purposes of collecting, preparing for the distribution of, or distributing —
-(a)material having the character of news, current affairs or a documentary; or
-(b)material consisting of commentary or opinion on, or analysis of, news, current affairs, or a documentary.
-(2) A person commits a crime if —
-(a) the person distributes an intimate image of another person (the depicted person); and
-(b) the depicted person does not consent to the distribution.
-Penalty for this subsection: imprisonment for 3 years.
-Summary conviction penalty for this subsection: imprisonment for 18 months and a fine of $18 000.
-(3) It is a defence to a charge under subsection (2) to prove that —
-(a) the distribution of the image was for a genuine scientific, educational or medical purpose; or
-(b) the distribution of the image was reasonably necessary for the purpose of legal proceedings; or
-(c) the person who distributed the image —
-(i) distributed the image for media activity purposes; and
-(ii) did not intend the distribution to cause harm to the depicted person; and
-(iii) reasonably believed the distribution to be in the public interest;
-or
-(d) a reasonable person would consider the distribution of the image to be acceptable, having regard to each of the following (to the extent relevant) —
-(i) the nature and content of the image;
-(ii) the circumstances in which the image was distributed;
-(iii) the age, mental capacity, vulnerability or other relevant circumstances of the depicted person;
-(iv) the degree to which the accused’s actions affect the privacy of the depicted person;
-(v) the relationship between the accused and the depicted person;
-(vi) any other relevant matters.
-(4) Nothing in subsection (2) makes it an offence —
-(a) for a member or officer of a law enforcement agency or their agents to distribute an intimate image when acting in the course of their official duties; or
-(b) for a person to distribute an intimate image in accordance with, or in the performance of the person’s functions under, a written law or a law of the Commonwealth or another State or Territory; or
-(c) for a person to distribute an intimate image for the purposes of the administration of justice.
-221BE.Court may order rectification
-(1) In this section —
-intimate image offence means —
-(a)an offence under section 221BD; or
-(b)an offence under section 338A or 338B, if the offence involves a threat to distribute an intimate image of a person; or
-(c)an offence under section 338C, if any of the following relate to the distribution of an intimate image of a person —
-(i) the threat referred to in section 338C(1)(a);
-(ii) the intention, proposal, plan or conspiracy referred to in section 338C(1)(b); or
-(iii) the belief, suspicion or fear referred to in section 338C(2)(a).
-(2) If a person is charged with an intimate image offence, the court may order the person to take reasonable actions to remove, retract, recover, delete, destroy or forfeit to the State any intimate image to which the offence relates within a period specified by the court.
-(3) The court may make an order under subsection (2) whether or not the person is convicted of the offence.
-(4) In considering whether or not to make an order under subsection (2), and the content of that order, the court must have regard to any other similar obligations the person is under in relation to the image.
-(5) This section does not limit the court’s powers under section 731 or under the Criminal Property Confiscation Act 2000.
-(6) A person who, without reasonable excuse, fails to comply with an order made under subsection (2) commits an offence.
-Penalty for this subsection: imprisonment for 12 months and a fine of $12 000.
-221BF.Review of amendments made by Criminal Law Amendment (Intimate Images) Act 2019
-(1) The Minister must review the operation and effectiveness of the amendments made to this Code, the Restraining Orders Act 1997 and the Working with Children (Criminal Record Checking) Act 2004 by the Criminal Law Amendment (Intimate Images) Act 2019, and prepare a report based on the review, as soon as practicable after the 3rd anniversary of the day on which the Criminal Law Amendment (Intimate Images) Act 2019 section 4 comes into operation.
-(2) The Minister must cause the report to be laid before each House of Parliament as soon as practicable after it is prepared, but not later than 12 months after the 3rd anniversary.
-5.Section 338 amended
-In section 338:
-(a) in paragraph (d) delete “not.” and insert:
-not; or
-(b) after paragraph (d) insert:
-(e) distribute an intimate image (within the meaning given to those terms in section 221BA) of any person other than the distributor.
-6.Section 338B amended
-In section 338B delete “(c) or (d)” and insert:
-(c), (d) or (e)
-7.Section 338C amended
-(1) In section 338C(1):
-(a) in paragraph (a) delete “(c) or (d)” and insert:
-(c), (d) or (e)
-(b) in paragraph (b) delete “(c) or (d),” and insert:
-(c), (d) or (e),
-(2) In section 338C(2)(a) delete “(c) or (d)” and insert:
-(c), (d) or (e)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -391,7 +286,7 @@ compound136(1)
 computer generated image204B(1)
 computer system440A(1)
 conducting a business331C(1)
-consent319(2)
+consent221BA, 221BB(1), 319(2)
 consort557J(1), 557K(1)
 contract546(7)
 conveyance1(1), 284(1), 390A(1)
@@ -411,12 +306,14 @@ deceptive material99(1)
 declared criminal organisation221C(1)
 declared drug trafficker557J(1)
 defamatory345(7)
+depicted person221BD(2)(a)
 destroy1(1)
 detriment97(1)
 digital signature489
 disclosure81(1)
 display76
 distribute76, 219(1)
+distributes221BA, 221BC
 District Court1(1)
 drive74B(1), 284(1)
 dwelling1(1)
@@ -428,6 +325,7 @@ electoral officer93
 electronic204B(1)
 electronic communication204B(1), 489
 enclosed land70B(1)
+engaged in a private act221BA
 explosive substance1(1), 455, 557(2)
 family relationship221(2)
 female genital mutilation306(1)
@@ -454,18 +352,21 @@ indecent matter204B(1)
 indictable offence221C(1)
 indictment1(1)
 information81(1)
+intimate image221BA
+intimate image offence221BE(1)
 intimidate338D(1)
 intoxicant206(1)
 intoxicating substance305A(1)
 judicial proceeding120
 juvenile offender1(1)
 kill270
-law enforcement agency221A(4)
+law enforcement agency221A(4), 221BA
 lawful excuse68B(1), 68C(1), 68D(1)
 liable1(1)
 licensed premises75A(4)
 lineal relative329(1)
 material204A(1), 217A
+media activity purposes221BD(1)
 medical practitioner199(4)
 member76
 member of the crew1(1)
