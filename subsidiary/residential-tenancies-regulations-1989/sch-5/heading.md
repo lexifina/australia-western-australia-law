@@ -22,6 +22,7 @@ s. 29(8)(b) | Failing to ensure tenant does not sign bond disposal form without 
 s. 32 | Requiring or receiving rent in excess of court ordered amount | $1 000
 s. 33(1) | Failing to give receipt for rent | $1 000
 s. 34(1) | Failing to keep records of rent received | $1 000
+s. 45(3) | Failing to give lessor copy of key within 7 days | $1 000
 s. 51(1) | Failing to notify tenant of lessor’s details | $1 000
 s. 51(2) | Failing to notify tenant of lessor’s name and property manager’s name and details | $1 000
 s. 51(3) | Failing to notify tenant of new lessor’s details | $1 000
@@ -34,7 +35,10 @@ s. 54(1)(b) | Failing to give tenant copy of executed residential tenancy agreem
 s. 57(2A) | Executing residential tenancy agreement providing for accelerated rent or liquidated damages | $1 000
 s. 59F(1) | Lessor or tenant altering, removing or adding lock without consent | $2 000
 s. 59F(2) | Property manager altering, removing or adding lock without consent | $2 000
+s. 59F(2A) | Lessor breaching term referred to in s. 45(2)(c) | $2 000
 s. 63(3) | Giving false or misleading notice of termination | $1 000
+s. 71AB(3) | Lessor disclosing information referred to in s. 71AB(2) | $1 000
+s. 71AB(4) | Lessor failing to ensure information referred to in s. 71AB(2) is kept in secure manner | $1 000
 s. 79(3) | Failing to give notice that abandoned goods have been stored | $1 000
 s. 80A(6) | Failing to give reclaimed document to person | $1 000
 s. 80 | Entering leased premises to recover possession without court order | $4 000
@@ -49,4 +53,4 @@ s. 82I(2) | Database operator failing to give copy of personal information in re
 s. 82K(2) | Keeping personal information in residential tenancy database longer than permitted | $1 000
 s. 93(1) | Failing to take reasonable steps to ensure security bond is transferred to bond administrator when required | $1 000
 s. 96(2) | Failing to pay bond, or part of bond, when required | $1 000
-[Schedule 5 inserted: Gazette 3 May 2013 p. 1832-5.]
+[Schedule 5 inserted: Gazette 3 May 2013 p. 1832-5; amended: Gazette 9 Apr 2019 p. 1052.]

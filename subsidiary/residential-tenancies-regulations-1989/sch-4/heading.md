@@ -163,7 +163,8 @@ LESSOR’S ACCESS TO THE PREMISES
 24.5carrying out or inspecting necessary repairs to or maintenance of the premises, at any reasonable time, after giving the tenant not less than 72 hours notice in writing before the proposed entry;
 24.6showing the premises to prospective tenants, at any reasonable time and on a reasonable number of occasions during the period of 21 days preceding the termination of the agreement, after giving the tenant reasonable notice in writing;
 24.7showing the premises to prospective purchasers, at any reasonable time and on a reasonable number of occasions, after giving the tenant reasonable notice in writing;
-24.8if the tenant agrees at, or immediately before, the time of entry.
+24.8if the tenant agrees at, or immediately before, the time of entry;
+24.9in accordance with the Residential Tenancies Act 1987 section 46(6A) and (6B).
 25.There are directions within the Residential Tenancies Act 1987 which guide tenants, lessors and property managers on appropriate behaviour in relation to gaining or granting access to the premises. The following summary may assist.
 Reasonable time
 26.Reasonable time means:
@@ -191,11 +192,26 @@ ALTERATIONS AND ADDITIONS TO THE PREMISES
 33.If the lessor wants to make an alteration or addition or affix a fixture to the premises, then:
 33.1the lessor must obtain the tenant’s permission prior to affixing any fixture or making any renovation, alteration or addition to the premises; and
 33.2the tenant must not unreasonably refuse permission for the lessor to affix any fixture or make any renovation, alteration or addition to the premises.
+33A.For the purposes of the Residential Tenancies Act 1987 section 47(4), the tenant may make the following prescribed alterations:
+33A.1the renovation, alteration or addition of any of the following —
+●security alarms and cameras;
+●locks, screens and shutters on windows;
+●security screens on doors;
+●exterior lights;
+●locks on gates;
+33A.2the pruning of shrubs and trees to improve visibility around the residential premises.
+33B.Under the Residential Tenancies Act 1987 section 47(5):
+33B.1the cost of making the prescribed alterations must be borne by the tenant; and
+33B.2the tenant must give written notice to the lessor of the tenant’s intention to make the prescribed alterations; and
+33B.3work on the prescribed alterations must be undertaken by a qualified tradesperson, a copy of whose invoice the tenant must provide to the lessor within 14 days of the alterations being completed; and
+33B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata company by-laws; and
+33B.5the tenant must restore the premises to their original condition at the end of the residential tenancy agreement if the lessor requires the tenant to do so and, where restoration work has been undertaken by a tradesperson, must provide to the lessor a copy of that tradesperson’s invoice within 14 days of that work having been performed.
 LOCKS AND SECURITY DEVICES
 34.The prescribed means of securing the premises are specified in the Residential Tenancies Regulations 1989. In every tenancy:
 34.1the lessor must provide and maintain such means to ensure the premises are reasonably secure as prescribed in the regulations; and
-34.2any lock or security device at the premises must not be altered, removed or added by a lessor or tenant without the consent of the other; and
-34.3the lessor or the tenant must not unreasonably withhold that consent.
+34.2any lock or security device at the premises must not be altered, removed or added by a lessor or tenant without the consent of the other or except in accordance with clause 34.4; and
+34.3the lessor or the tenant must not unreasonably withhold the consent referred to in clause 34.2; and
+34.4a tenant may alter or add any lock or other means of securing the residential premises in accordance with the Residential Tenancies Act 1987 section 45(2)(a), and the tenant and lessor must comply with section 45(2)(b) and (c) in relation to copies of keys to altered or added locks or other means of securing the residential premises.
 TRANSFER OF TENANCY OR SUB-LETTING BY TENANT
 35.If the tenancy agreement allows the tenant to assign his or her interest or sub-let the premises with the lessor’s consent:
 35.1the tenant cannot assign his or her interest or sub-let the premises without the written consent of the lessor; and
@@ -218,6 +234,11 @@ Ending a periodic agreement
 41.If this agreement is a periodic agreement it may be ended:
 41.1by agreement in writing between the lessor and the tenant; or
 41.2by either the lessor or the tenant by giving written notice of termination to the other party. The notice may be given at any time. The lessor must give at least 60 days notice and the tenant must give at least 21 days notice.
+ENDING A TENANT’S INTEREST IN A RESIDENTIAL TENANCY AGREEMENT BECAUSE OF FAMILY VIOLENCE
+41A.A tenant’s interest in a residential tenancy agreement may be ended:
+41A.1by the tenant under the Residential Tenancies Act 1987 section 60(1)(ba) if the tenant or a dependant of the tenant is, during the tenancy period, likely to be subjected or exposed to family violence; or
+41A.2by the tenant under the Residential Tenancies Act 1987 section 60(1)(bb) if the tenant receives a copy of a notice of a termination referred to in item 41A.1 from another tenant; or
+41A.3by a court under the Residential Tenancies Act 1987 section 60(1)(bc) if a family violence order is in force against a tenant to protect another tenant or if the court is satisfied that the tenant has committed family violence against another tenant or their dependant during the tenancy period.
 Other grounds for ending agreement
 42.The Residential Tenancies Act 1987 also authorises the lessor and tenant to end this agreement on other grounds. The grounds for the lessor include sale of the residential premises, breach of this agreement by the tenant, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship. The grounds for the tenant include breach of this agreement by the lessor, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship.
 43.For more information, refer to the Residential Tenancies Act 1987 or contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
@@ -275,7 +296,7 @@ SIGNED BY THE TENANT
 ............................................. [Signature of tenant]
 Date: ...................................
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
-[Form 1AA inserted: Gazette 3 May 2013 p. 1757-76; amended: Gazette 21 Aug 2015 p. 3313-14; 30 Jun 2017 p. 3556-7.]
+[Form 1AA inserted: Gazette 3 May 2013 p. 1757-76; amended: Gazette 21 Aug 2015 p. 3313-14; 30 Jun 2017 p. 3556-7; 9 Apr 2019 p. 1045-6.]
 FORM 1AB
 Residential Tenancies Act 1987
 Section 27A
@@ -444,7 +465,8 @@ LESSOR’S ACCESS TO THE PREMISES
 26.5carrying out or inspecting necessary repairs to or maintenance of the premises, at any reasonable time, after giving the tenant not less than 72 hours notice in writing before the proposed entry;
 26.6showing the premises to prospective tenants, at any reasonable time and on a reasonable number of occasions during the period of 21 days preceding the termination of the agreement, after giving the tenant reasonable notice in writing;
 26.7showing the premises to prospective purchasers, at any reasonable time and on a reasonable number of occasions, after giving the tenant reasonable notice in writing;
-26.8if the tenant agrees at, or immediately before, the time of entry.
+26.8if the tenant agrees at, or immediately before, the time of entry;
+26.9in accordance with the Residential Tenancies Act 1987 section 46(6A) and (6B).
 27.There are directions within the Residential Tenancies Act 1987 which guide tenants, lessors and property managers on appropriate behaviour in relation to gaining or granting access to the premises. The following summary may assist.
 Reasonable time
 28.Reasonable time means:
@@ -472,11 +494,26 @@ ALTERATIONS AND ADDITIONS TO THE PREMISES
 35.If the lessor wants to make an alteration or addition or affix a fixture to the premises, then:
 35.1the lessor must obtain the tenant’s permission prior to affixing any fixture or making any renovation, alteration or addition to the premises; and
 35.2the tenant must not unreasonably refuse permission for the lessor to affix any fixture or make any renovation, alteration or addition to the premises.
+35A.For the purposes of the Residential Tenancies Act 1987 section 47(4), the tenant may make the following prescribed alterations:
+35A.1the renovation, alteration or addition of any of the following —
+●security alarms and cameras;
+●locks, screens and shutters on windows;
+●security screens on doors;
+●exterior lights;
+●locks on gates;
+35A.2the pruning of shrubs and trees to improve visibility around the residential premises.
+35B.Under the Residential Tenancies Act 1987 section 47(5):
+35B.1the cost of making the prescribed alterations must be borne by the tenant; and
+35B.2the tenant must give written notice to the lessor of the tenant’s intention to make the prescribed alterations; and
+35B.3work on the prescribed alterations must be undertaken by a qualified tradesperson, a copy of whose invoice the tenant must provide to the lessor within 14 days of the alterations being completed; and
+35B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata company by-laws; and
+35B.5the tenant must restore the premises to their original condition at the end of the residential tenancy agreement if the lessor requires the tenant to do so and, where restoration work has been undertaken by a tradesperson, must provide to the lessor a copy of that tradesperson’s invoice within 14 days of that work having been performed.
 LOCKS AND SECURITY DEVICES
 36.The prescribed means of securing the premises are specified in the Residential Tenancies Regulations 1989. In every tenancy:
 36.1the lessor must provide and maintain such means to ensure the premises are reasonably secure as prescribed in the regulations; and
-36.2any lock or security device at the premises must not be altered, removed or added by a lessor or tenant without the consent of the other; and
-36.3the lessor or the tenant must not unreasonably withhold that consent.
+36.2any lock or security device at the premises must not be altered, removed or added by a lessor or tenant without the consent of the other or except in accordance with clause 36.4; and
+36.3the lessor or the tenant must not unreasonably withhold the consent referred to in clause 36.2; and
+36.4a tenant may alter or add any lock or other means of securing the residential premises in accordance with the Residential Tenancies Act 1987 section 45(2)(a).
 TRANSFER OF TENANCY OR SUB-LETTING BY TENANT
 37.If the tenancy agreement allows the tenant to assign his or her interest or sub-let the premises with the lessor’s consent:
 37.1the tenant cannot assign his or her interest or sub-let the premises without the written consent of the lessor; and
@@ -499,6 +536,11 @@ Ending a periodic agreement
 43.If this agreement is a periodic agreement it may be ended:
 43.1by agreement in writing between the lessor and the tenant; or
 43.2by either the lessor or the tenant by giving written notice of termination to the other party. The notice may be given at any time. The lessor must give at least 60 days notice and the tenant must give at least 21 days notice.
+ENDING A TENANT’S INTEREST IN A RESIDENTIAL TENANCY AGREEMENT BECAUSE OF FAMILY VIOLENCE
+43A.A tenant’s interest in a residential tenancy agreement may be ended:
+43A.1by the tenant under the Residential Tenancies Act 1987 section 60(1)(ba) if the tenant or a dependant of the tenant is, during the tenancy period, likely to be subjected or exposed to family violence; or
+43A.2by the tenant under the Residential Tenancies Act 1987 section 60(1)(bb) if the tenant receives a copy of a notice of a termination referred to in item 43A.1 from another tenant; or
+43A.3by a court under the Residential Tenancies Act 1987 section 60(1)(bc) if a family violence order is in force against a tenant to protect another tenant or if the court is satisfied that the tenant has committed family violence against another tenant or their dependant during the tenancy period.
 Objectionable behaviour
 44.The lessor may apply to the Magistrates Court for an order terminating the tenancy agreement if the tenant:
 44.1uses or allows the premises to be used for any illegal purpose; or
@@ -559,7 +601,7 @@ SIGNED BY THE TENANT
 ............................................. [Signature of tenant]
 Date: ...................................
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
-[Form 1AB inserted: Gazette 3 May 2013 p. 1776-96; amended: Gazette 21 Aug 2015 p. 3314-15; 30 Jun 2017 p. 3557-8.]
+[Form 1AB inserted: Gazette 3 May 2013 p. 1776-96; amended: Gazette 21 Aug 2015 p. 3314-15; 30 Jun 2017 p. 3557-8; 9 Apr 2019 p. 1046-8.]
 FORM 1AC
 Residential Tenancies Act 1987
 Section 27B
@@ -725,7 +767,8 @@ LESSOR’S ACCESS TO THE PREMISES
 23.5carrying out or inspecting necessary repairs to or maintenance of the premises, at any reasonable time, after giving the tenant not less than 72 hours notice in writing before the proposed entry;
 23.6showing the premises to prospective tenants, at any reasonable time and on a reasonable number of occasions during the period of 21 days preceding the termination of the agreement, after giving the tenant reasonable notice in writing;
 23.7showing the premises to prospective purchasers, at any reasonable time and on a reasonable number of occasions, after giving the tenant reasonable notice in writing;
-23.8if the tenant agrees at, or immediately before, the time of entry.
+23.8if the tenant agrees at, or immediately before, the time of entry;
+23.9in accordance with the Residential Tenancies Act 1987 section 46(6A) and (6B).
 24.There are directions within the Residential Tenancies Act 1987 which guide tenants, lessors and property managers on appropriate behaviour in relation to gaining or granting access to the premises. The following summary may assist.
 Reasonable time
 25.Reasonable time means:
@@ -753,11 +796,26 @@ ALTERATIONS AND ADDITIONS TO THE PREMISES
 32.If the lessor wants to make an alteration or addition or affix a fixture to the premises, then:
 32.1the lessor must obtain the tenant’s permission prior to affixing any fixture or making any renovation, alteration or addition to the premises; and
 32.2the tenant must not unreasonably refuse permission for the lessor to affix any fixture or make any renovation, alteration or addition to the premises.
+32A.For the purposes of the Residential Tenancies Act 1987 section 47(4), the tenant may make the following prescribed alterations:
+32A.1the renovation, alteration or addition of any of the following —
+●security alarms and cameras;
+●locks, screens and shutters on windows;
+●security screens on doors;
+●exterior lights;
+●locks on gates;
+32A.2the pruning of shrubs and trees to improve visibility around the residential premises.
+32B.Under the Residential Tenancies Act 1987 section 47(5):
+32B.1the cost of making the prescribed alterations must be borne by the tenant; and
+32B.2the tenant must give written notice to the lessor of the tenant’s intention to make the prescribed alterations; and
+32B.3work on the prescribed alterations must be undertaken by a qualified tradesperson, a copy of whose invoice the tenant must provide to the lessor within 14 days of the alterations being completed; and
+32B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata company by-laws; and
+32B.5the tenant must restore the premises to their original condition at the end of the residential tenancy agreement if the lessor requires the tenant to do so and, where restoration work has been undertaken by a tradesperson, must provide to the lessor a copy of that tradesperson’s invoice within 14 days of that work having been performed.
 LOCKS AND SECURITY DEVICES
 33.The prescribed means of securing the premises are specified in the Residential Tenancies Regulations 1989. In every tenancy:
 33.1the lessor must provide and maintain such means to ensure the premises are reasonably secure as prescribed in the regulations; and
-33.2any lock or security device at the premises must not be altered, removed or added by a lessor or tenant without the consent of the other; and
-33.3the lessor or the tenant must not unreasonably withhold that consent.
+33.2any lock or security device at the premises must not be altered, removed or added by a lessor or tenant without the consent of the other or except in accordance with clause 33.4; and
+33.3the lessor or the tenant must not unreasonably withhold the consent referred to in clause 33.2; and
+33.4a tenant may alter or add any lock or other means of securing the residential premises in accordance with the Residential Tenancies Act 1987 section 45(2)(a), and the tenant and lessor must comply with section 45(2)(b) and (c) in relation to copies of keys to altered or added locks or other means of securing the residential premises.
 TRANSFER OF TENANCY OR SUB-LETTING BY TENANT
 34.If the tenancy agreement allows the tenant to assign his or her interest or sub-let the premises with the lessor’s consent:
 34.1the tenant cannot assign his or her interest or sub-let the premises without the written consent of the lessor; and
@@ -780,6 +838,11 @@ Ending a periodic agreement
 40.If this agreement is a periodic agreement it may be ended:
 40.1by agreement in writing between the lessor and the tenant; or
 40.2by either the lessor or the tenant by giving written notice of termination to the other party. The notice may be given at any time. The lessor must give at least 60 days notice and the tenant must give at least 21 days notice.
+ENDING A TENANT’S INTEREST IN A RESIDENTIAL TENANCY AGREEMENT BECAUSE OF FAMILY VIOLENCE
+40A.A tenant’s interest in a residential tenancy agreement may be ended:
+40A.1by the tenant under the Residential Tenancies Act 1987 section 60(1)(ba) if the tenant or a dependant of the tenant is, during the tenancy period, likely to be subjected or exposed to family violence; or
+40A.2by the tenant under the Residential Tenancies Act 1987 section 60(1)(bb) if the tenant receives a copy of a notice of a termination referred to in item 40A.1 from another tenant; or
+40A.3by a court under the Residential Tenancies Act 1987 section 60(1)(bc) if a family violence order is in force against a tenant to protect another tenant or if the court is satisfied that the tenant has committed family violence against another tenant or their dependant during the tenancy period.
 Other grounds for ending agreement
 41.The Residential Tenancies Act 1987 also authorises the lessor and the tenant to end this agreement on other grounds. The grounds for the lessor include sale of the residential premises, breach of this agreement by the tenant, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship. The grounds for the tenant include breach of this agreement by the lessor, where the agreement is frustrated (e.g. where the premises are destroyed or become uninhabitable) and hardship.
 42.For more information, refer to the Residential Tenancies Act 1987 or contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
@@ -820,7 +883,7 @@ If a dispute cannot be resolved
 52.2requiring a party to the agreement to perform a certain action under the agreement; and
 52.3order the payment of any amount owing under the agreement; and
 52.4order the payment of compensation for loss or injury.
-[Form 1AD inserted: Gazette 3 May 2013 p. 1801-17; amended: Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16; 30 Jun 2017 p. 3558-9.]
+[Form 1AD inserted: Gazette 3 May 2013 p. 1801-17; amended: Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16; 30 Jun 2017 p. 3558-9; 9 Apr 2019 p. 1048-50.]
 FORM 1
 Residential Tenancies Act 1987
 Section 27C(6)
@@ -1043,7 +1106,26 @@ IMPORTANT INFORMATION FOR TENANTS
 •If you do not vacate the premises, the lessor may apply to court for an order terminating your residential tenancy agreement and requiring you to vacate the premises.
 •You should seek advice immediately if you do not understand this notice or if you require further information.
 [Form 1C inserted: Gazette 3 May 2013 p. 1826-9; amended: Gazette 30 Jun 2017 p. 3559.]
-[Forms 2 and 3 deleted: Gazette 30 Jun 2017 p. 3559.]
+FORM 2
+Notice of termination of tenant’s interest in residential tenancy agreement on grounds of family violence Residential Tenancies Act 1987 s. 67(2), 71AB(1) Residential Tenancies Regulations 1989 r. 18 |  | Part A
+Lessor | Family name:
+Other names:
+Tenant | Family name:
+Other names:
+Residential premises | Address: Postcode:
+Notice | I, the tenant, give notice of the termination of my interest in the residential tenancy agreement on the grounds that I am, or my dependant is, likely to be subjected or exposed to family violence. The last day of my tenancy will be __________________________________ (a day that is not less than 7 days after the giving of this notice). I will move out of the residential premises on or before this day.
+Accompanying document(s) | I attach 1 or more of the following: ra DVO; ra Family Court injunction or an application for a Family Court injunction; ra copy of a prosecution notice or indictment containing a charge relating to violence against the tenant or a court record of a conviction of the charge; ra report of family violence under the Residential Tenancies Act 1987 s. 71AB(2)(d).
+Signature | Tenant: | Date:
+Further information | See Part B of this form and also refer to the Residential Tenancies Act 1987 or contact the Department of Mines, Industry Regulation and Safety — Consumer Protection Division on 1300 304 054 or at www.commerce.wa.gov.au/consumer-protection. For Translating and Interpreting Services please telephone TIS on 131 450 and ask to speak to the Department of Mines, Industry Regulation and Safety (1300 304 054) for assistance.
+Important information about this notice |  | Part B
+The types of tenancy agreements to which this notice applies This notice applies to all tenancy agreements under the Residential Tenancies Act 1987.
+Period of notice by tenant A tenant can give the lessor this notice if the tenant, or a dependant of the tenant, is likely to be exposed or subjected to family violence during the term of the residential tenancy agreement. The period of the notice must not be less than 7 days before the termination day.
+Co-tenants A lessor must give a copy of this notice (but not an accompanying document) to any co-tenants named on the residential tenancy agreement within 7 days after receiving this notice. A co-tenant may, within 7 days after receiving a copy of this notice, give the lessor notice of termination of the co-tenant’s interest in the residential tenancy agreement. This period of notice must not be less than 21 days before the termination day.
+Notice by co-tenant to terminate their interest in the residential tenancy agreement A co-tenant does not need to use a specific form to notify the lessor that they wish to terminate their interest in the residential tenancy agreement. They simply need to notify the lessor in writing.
+Co-tenant remaining in residential premises Any co-tenants who wish to remain in the residential premises are entitled to do so and the existing tenancy agreement will continue to apply to them.
+Documents must be kept confidential A lessor must not disclose information contained in this notice or an accompanying document to another person except as allowed by the Residential Tenancies Act 1987 or another written law. A penalty of a fine of up to $5 000 applies for failure to comply with this requirement. A lessor must ensure that information given to them in this notice and an accompanying document is kept in a secure manner so far as it is reasonably practicable to do so. A penalty of a fine of up to $5 000 applies for failure to comply with this requirement.
+[Form 2 inserted: Gazette 9 Apr 2019 p. 1050-1.]
+[Form 3 deleted: Gazette 30 Jun 2017 p. 3559.]
 [Form 4 deleted: Gazette 3 May 2013 p. 1830.]
 [Form 5 deleted: Gazette 30 Jun 2017 p. 3559.]
 FORM 6

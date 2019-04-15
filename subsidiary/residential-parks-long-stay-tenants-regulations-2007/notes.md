@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Residential Parks (Long-stay Tenants) Regulations 2007 | 1 Aug 2007 p. 3837-985 | r. 1 and 2: 1 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2007 (see r. 2(b) and Gazette 1 Aug 2007 p. 3835)
 Residential Parks (Long-stay Tenants) Amendment Regulations 2011 | 5 Jul 2011 p. 2813-22 | r. 1 and 2: 5 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2011 (see r. 2(b))
 Residential Parks (Long-stay Tenants) Amendment Regulations 2013 | 14 Nov 2013 p. 5063-4 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
+Commerce Regulations Amendment (Family Violence) Regulations 2019 Pt. 3 | 9 Apr 2019 p. 1042-55 | 15 Apr 2019 (see r. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
