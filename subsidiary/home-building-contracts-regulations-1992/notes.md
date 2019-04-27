@@ -20,3 +20,4 @@ Reprint 3: The Home Building Contracts Regulations 1992 as at 1 Feb 2008 (includ
 Home Building Contracts Amendment Regulations 2011 | 26 Aug 2011 p. 3477-8 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Home Building Contracts Amendment Regulations 2012 | 8 May 2012 p. 1888-91 | r. 1 and 2: 8 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2012 (see r. 2(b))
 Home Building Contracts Amendment Regulations 2013 | 12 Feb 2013 p. 920-1 | r. 1 and 2: 12 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2013 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 5 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))

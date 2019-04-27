@@ -24,6 +24,7 @@ Building Regulations Amendment Regulations 2017 Pt. 3 | 8 Aug 2017 p. 4343-5 | 9
 Building Services (Registration) Amendment Regulations (No. 2) 2017 | 5 Jan 2018 p. 4-8 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2018 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Building Services (Registration) Amendment Regulations 2018 | 21 Sep 2018 p. 3534-7 | r. 1 and 2: 21 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2018 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 4 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
 The Local Government (Building Surveyors) Regulations 2008 were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
@@ -35,9 +36,10 @@ Defined termProvision(s)
 approval number27(1)
 builder work3, 13(1)
 Building Code22
-building contractor13(1)
-building surveying contractor28A
-building surveying work28A
+building contractor13(1), Sch. 5 cl. 1
+building surveying contractor28A, Sch. 5 cl. 1
+building surveying practitionerSch. 5 cl. 1
+building surveying work28A, Sch. 5 cl. 1
 building surveying work level 13, 28A
 building surveying work level 23, 28A
 building work12
@@ -57,7 +59,7 @@ insolvent3
 owner-builder3
 owner-builder authorisation37
 painter work3, 28(1)
-painting contractor28(1)
+painting contractor28(1), Sch. 5 cl. 1
 painting work28(1)
 previously registered16(4)
 principal builder3

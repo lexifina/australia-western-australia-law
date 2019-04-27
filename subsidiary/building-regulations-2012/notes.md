@@ -28,6 +28,7 @@ Building Regulations Amendment Regulations 2017 Pt. 2 | 8 Aug 2017 p. 4343-5 | 9
 Building Amendment Regulations (No. 3) 2017 | 22 Dec 2017 p. 5971-5 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1, 2, 5-8, 9(2), (3) and (5) and 11: 23 Dec 2017 (see r. 2(c)); r. 5-8, 9(2), (3) and (5) and 11: 23 Jan 2018 (see r. 2(b))
 Building Amendment Regulations 2018 | 9 Mar 2018 p. 799-800 | r. 1 and 2: 9 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Mar 2018 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2018 | 5 Oct 2018 p. 4013-16 | r. 1 and 2: 5 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2018 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 2 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -164,6 +165,7 @@ road10(1A), 44A
 safety measures48A(1)
 section3
 sole-occupancy unit3
+specified employee70(1A)
 swimming pool3
 Table41(2)
 townsite3
