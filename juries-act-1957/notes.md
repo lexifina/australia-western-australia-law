@@ -68,6 +68,7 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 15 | 25 of 201
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Statutes (Minor Amendments) Act 2017 s. 11 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Industrial Relations Amendment Act 2018 s. 69 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
+Reprint 8: The Juries Act 1957 as at 10 May 2019 (includes amendments listed above)
 The Criminal Code s. 282 and 679 have been deleted.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
