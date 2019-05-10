@@ -8,7 +8,7 @@ Your rights
 You may be able to apply to the court to have the summons(es) set aside. If you want to make such an application you should get legal advice.
 Your obligations
 You must obey the summons(es) if at the time you were served with them or at some reasonable time before the date(s) when the summons(es) require you to appear in court —
-•an amount that is likely to be sufficient to meet your reasonable expenses of attending court was tendered to you;
+•an amount that is likely to be sufficient to meet your reasonable expenses of attending court was tendered to you; or
 •arrangements to enable you to attend court were made with you; or
 •you were provided the means to enable you to attend court.
 If you do not obey the summons(es) you may be imprisoned or fined or both.

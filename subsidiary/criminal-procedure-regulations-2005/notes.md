@@ -38,7 +38,9 @@ Criminal Procedure Amendment Regulations 2017 | 25 Aug 2017 p. 4568-9 | r. 1 and
 Criminal Procedure Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2421-4 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
 Justice Regulations Amendment (Biodiversity Conservation) Regulations 2018 Pt. 2 | 14 Sep 2018 p. 3314-15 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Justice Regulations Amendment (Road Passenger Services) Regulations 2019 Pt. 2 | 12 Feb 2019 p. 265-6 | 13 Feb 2019 (see r. 2(b))
-Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
+Reprint 4: The Criminal Procedure Regulations 2005 as at 10 May 2019 (includes amendments listed above)
+Repealed by the Road Transport (General) Act 2005 (NSW).
+Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
 Repealed by the Co-operatives Act 2009.
 The Criminal Procedure Amendment Regulations 2018 were repealed by the Criminal Procedure Amendment Regulations (No. 2) 2018 regulation 9 before they came into operation, see Gazette 26 June 2018 p. 2421-4.
 Defined terms
