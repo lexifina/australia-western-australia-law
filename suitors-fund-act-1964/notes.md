@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Suitors’ Fund Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Suitors’ Fund Act 1964 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Suitors’ Fund Act 1964 | 43 of 1964 (13 Eliz. II No. 43) | 19 Nov 1964 | s. 1-7: 1 Jan 1965 (see s. 2 and Gazette 24 Dec 1964 p. 4093); balance: 2 Aug 1965 (see s. 2 and Gazette 16 Jul 1965 p. 2059)
@@ -31,6 +31,13 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 164 | 77
 Criminal Law and Evidence Amendment Act 2008 s. 71 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Legal Profession Act 2008 s. 708 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 4: The Suitors’ Fund Act 1964 as at 25 Jun 2010 (includes amendments listed above)
+Suitors’ Fund Amendment Act 2019 s. 1-3 and 6 | 8 of 2019 | 15 May 2019 | 15 May 2019 (see s. 2(a))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Suitors’ Fund Amendment Act 2019 s. 4 and 5 | 8 of 2019 | 15 May 2019 | To be proclaimed (see s. 2(b))
+Suitors’ Fund Amendment (Levy) Act 2019 s. 3 and 4 | 9 of 2019 | 15 May 2019 | Operative on commencement of the Suitors’ Fund Amendment Act 2019 s. 4 (see s. 2(b))
+Other notes
 Proclaimed 1 Jan 1978, see s. 2 and Gazette 23 Dec 1977, p. 4671.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.
 Defined terms
