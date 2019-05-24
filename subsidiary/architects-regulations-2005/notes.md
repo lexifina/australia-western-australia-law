@@ -8,13 +8,14 @@ Reprint 1: The Architects Regulations 2005 as at 17 Apr 2009 (includes amendment
 Architects Amendment Regulations 2009 | 30 Jun 2009 p. 2621-2 | r. 1 and 2: 30 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Architects Amendment Regulations 2013 | 27 Jun 2013 p. 2659-60 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
+Reprint 2: The Architects Regulations 2005 as at 24 May 2019 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 person 120
-person 220
+person 220(c)
 registered address3
+renewal year16C(4)(a)
 return day3
 section3
-the renewal year16C(4)
 vote11(2)
