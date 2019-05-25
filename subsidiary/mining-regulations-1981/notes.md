@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 November 2018 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation as at 16 November 2018 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -145,6 +145,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt
 Mining Amendment Regulations 2018 | 24 Jul 2018 p. 2651-3 | r. 1 and 2: 24 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2018 (see r. 2(b))
 Mining Amendment Regulations (No. 3) 2018 | 18 Sep 2018 p. 3516-18 | r. 1 and 2: 18 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2018 (see r. 2(b))
 Reprint 12: The Mining Regulations 1981 as at 16 Nov 2018 (includes amendments listed above)
+Mining Amendment Regulations (No. 3) 2019 | 24 May 2019 p. 1493-4 | r. 1 and 2: 24 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2019 (see r. 2(b))
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Mining Amendment Act 1993 s. 28 commenced 1 Jul 1994.
@@ -294,4 +295,3 @@ supply85AA(5)
 tenement116
 treatment facility86AA(11)
 working day2
-By Authority: KEVIN J. McRAE, Government Printer

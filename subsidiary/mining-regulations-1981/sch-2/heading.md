@@ -13,12 +13,17 @@
 (iv)for year 8, and each subsequent year, of the term of the licence |  | 567.00
 3.Annual rent of general purpose lease per hectare or part of 1 hectare |  | 16.50
 4.Annual rent of lease granted under the Mining Act 1904, either pursuant to or continued in force by virtue of an agreement scheduled to, incorporated in, or appearing in an Act or a variation of such an agreement, per hectare or part of 1 hectare |  | 18.70
-5.Annual rent of mining lease per hectare or part of 1 hectare |  | 18.70
+[5.deleted]
 6.Annual rent of miscellaneous licence per hectare or part of 1 hectare —
 (a)for the purpose referred to in regulation 42B(ia) |  | 0.50
 (b)for any other purpose |  | 16.50
 7.Annual rent of prospecting licence per hectare or part of one hectare (minimum $27.50) |  | 2.75
 8.Annual rent of retention licence per hectare or part of 1 hectare |  | 8.20
+8A.Annual rent of mining lease per hectare or part of 1 hectare |  | 18.70
+8B.Annual rent of mining lease per hectare or part of 1 hectare where the lease is restricted under section 110 to minerals dissolved in brine —
+(a)for years 1 to 5 of the initial term of the lease |  | 2.32
+(b)for year 6, and each subsequent year, of the initial term of the lease |  | 4.64
+(c)if the lease is renewed or further renewed, for each year of the further term of the lease |  | 4.64
 9.Application fee for —
 (a)exploration licence —
 (i)1 block |  | 357.00
@@ -74,4 +79,4 @@
 (i)evidence — per page |  | 9.60
 (ii)a judgment, decision or order — per page |  | 1.25
 (f)taxation of bill of costs | $0.05 in each amount of $1.00 on amount of lodged bill (minimum fee $10.00) — however where the lodged bill exceeds $1 000 the fee is reduced to $0.025 in each $1.00 for the excess, plus $50.00
-[Schedule 2 inserted: Gazette 25 Jun 2018 p. 2307-11.]
+[Schedule 2 inserted: Gazette 25 Jun 2018 p. 2307-11; amended: Gazette 24 May 2019 p. 1494.]
