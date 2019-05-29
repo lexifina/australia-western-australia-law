@@ -15,7 +15,6 @@ Boron tribromide
 L-Ephedrine (including salts) | Ethyl phenyl | 37 g
 Ethyl phenyl acetate | Benzene acetic acid, ethyl ester, methylbenzyl acetate
 Gamma butyrolactone |  | 3.5 ml
-Gamma hydroxybutanoic acid (including salts) | Gamma hydroxybutyric acid
 Hydroiodic acid | Hydrogen iodide | 250 ml
 4-Hydroxybutanal | 4-Hydroxy butyraldehyde
 2-Hydroxytetrahydrofuran | Tetrahydro-2-furanol
@@ -46,7 +45,7 @@ Phosphorus red/white |  | 19 g
 Phosphorous acid | Phosphonic Acid
 Pseudoephedrine (including salts) |  | 37 g
 Pyridine
-[Division 1 inserted: Gazette 10 Dec 2004 p. 5974-5; amended: Gazette 23 Jun 2009 p. 2493.]
+[Division 1 inserted: Gazette 10 Dec 2004 p. 5974-5; amended: Gazette 23 Jun 2009 p. 2493; 28 May 2019 p. 1703.]
 ## Division 2 — Things
 [Heading inserted: Gazette 23 Jun 2009 p. 2493.]
 Item | Description
