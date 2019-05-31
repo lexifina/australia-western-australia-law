@@ -17,6 +17,35 @@ Road Traffic (Authorisation to Drive) Amendment Regulations 2017 | 3 Oct 2017 p.
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2018 | 19 Oct 2018 p. 4139-44 | r. 1 and 2: 19 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2018 (see r. 2(b))
 Transport Regulations Amendment (Information) Regulations 2019 Pt. 3 | 29 Mar 2019 p. 972-80 | 30 Mar 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 5 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
+On the date at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Road Traffic (Authorisation to Drive) Regulations 2014 amended
+9.Regulations amended
+This Part amends the Road Traffic (Authorisation to Drive) Regulations 2014.
+10.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 73(1) and (2) | $30.00 | $27.50
+r. 77A(1) and (2) | $229.75 | $313.10
+Sch. 9 it. 1 | 19.25 | 19.60
+Sch. 9 it. 2 | 13.95 | 14.65
+Sch. 9 it. 3(a)(i) | 89.15 | 99.30
+Sch. 9 it. 3(a)(ii) | 205.55 | 229.95
+Sch. 9 it. 3(b) | 44.70 | 47.35
+Sch. 9 it. 4(a) | 81.40 | 87.90
+Sch. 9 it. 4(b) | 196.15 | 219.40
+Sch. 9 it. 5 | 9.00 | 3.95
+Sch. 9 it. 7 | 110.10 | 112.00
+Sch. 9 it. 8 | 110.10 | 112.00
+Sch. 9 it. 9 | 22.20 | 23.60
+Sch. 9 it. 9A | 21.20 | 23.60
+Sch. 9 it. 10 | 15.40 | 16.75
+Sch. 9 it. 11 | 7.35 | 9.45
+Sch. 9 it. 12 | 21.35 | 19.75
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
