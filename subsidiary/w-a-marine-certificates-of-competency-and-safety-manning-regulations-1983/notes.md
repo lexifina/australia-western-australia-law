@@ -53,7 +53,20 @@ W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulation
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2014 | 30 May 2014 p. 1688-9 | r. 1 and 2: 30 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2018 | 6 Apr 2018 p. 1212-15 | r. 1 and 2: 6 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Apr 2018 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 7 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 8 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Repealed by the Pearling Act 1990.
+On the date at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 8 had not come into operation. It reads as follows:
+Part 8 — W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 amended
+15.Regulations amended
+This Part amends the W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983.
+16.Schedule 3 amended
+(1) In Schedule 3 item 7 delete “$257.00” and insert:
+$262.00
+(2) In Schedule 3 item 8 delete “$190.00” and insert:
+$194.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
