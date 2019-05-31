@@ -37,8 +37,19 @@ Transport Co-ordination Amendment Regulations 2016 | 5 Aug 2016 p. 3312-15 | r. 
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 8 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Reprint 5: The Transport Co-ordination Regulations 1985 as at 2 Nov 2018 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 7 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference to the clerk in Form 21, Schedule 2, was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The references to the court in Form 21, Schedule 2, were amended under the Reprints Act 1984 s. 7(5)(a).
+On the date at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Transport Co-ordination Regulations 1985 amended
+13.Regulations amended
+This Part amends the Transport Co-ordination Regulations 1985.
+14.Regulation 8A amended
+In regulation 8A(d) delete “$1.75.” and insert:
+$1.80.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
