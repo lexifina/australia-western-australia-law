@@ -11,6 +11,17 @@ Reprint 1: The Western Australian Photo Card Regulations 2014 as at 6 Jan 2017 (
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 10 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 8 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Transport Regulations Amendment (Information) Regulations 2019 Pt. 4 | 29 Mar 2019 p. 972-80 | 30 Mar 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 10 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
+On the date at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 10 had not come into operation. It reads as follows:
+Part 10 — Western Australian Photo Card Regulations 2014 amended
+19.Regulations amended
+This Part amends the Western Australian Photo Card Regulations 2014.
+20.Regulation 7 amended
+In regulation 7 in the Table in item 2 delete “30.00” and insert:
+27.50
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
