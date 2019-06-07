@@ -32,11 +32,18 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Health Services Act 2016 s. 307(j) assented to 26 May 2016 | To be proclaimed (see s. 2(b))
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2019 bl. 3 and 4 | 7 Jun 2019 p. 1825 | 1 Jul 2019 (see bl. 2(b))
 Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(j) had not come into operation. It reads as follows:
 307.By-laws and regulations repealed
 These by-laws and regulations are repealed:
 (j) Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986;
+On the date at which this compilation was prepared, the Health Services (Fees and Charges) Amendment Order (No. 3) 2019 bl. 3 and 4 had not come into operation. They read as follows:
+3.By-laws amended
+These by-laws amend the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986.
+4.Schedule 1 amended
+In Schedule 1 in the item for by-law 26AB(3) delete “$6.05 per day, to a maximum of $30.25 per week” and insert:
+$6.10 per day, to a maximum of $30.50 per week
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
