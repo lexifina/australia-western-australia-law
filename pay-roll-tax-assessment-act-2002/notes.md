@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC. The table also contains information about any reprint.
+This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1a, 1M, 1MC. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Act 2002 | 48 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see. s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -24,6 +24,10 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 27 | 26 of 2016 | 21 
 Pay-roll Tax Assessment Amendment (Debt and Deficit Remediation) Act 2017 | 20 of 2017 | 13 Dec 2017 | s. 1 and 2: 13 Dec 2017 (see s. 2(a)); Act other than s. 1 and 2: 14 Dec 2017 (see s. 2(b))
 Pay-roll Tax Assessment Amendment (Exemption for Trainees) Act 2018 | 7 of 2018 | 18 May 2018 | Act other than s. 1 and 2: 1 Dec 2017 (see s. 2(b)); s. 1 and 2: 18 May 2018 (see s. 2(a))
 Reprint 4: The Pay-roll Tax Assessment Act 2002 as at 16 Nov 2018 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Pay-roll Tax Assessment Amendment Act 2019 s. 3-7 | 10 of 2019 | 12 Jun 2019 | 1 Jul 2019 (see s. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5.
@@ -36,6 +40,53 @@ The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) and 15(7) read as follo
 15.Section 29 amended and transitional provision
 ...
 (7) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
+On the date as at which this compilation was prepared, the Pay-roll Tax Assessment Amendment Act 2019 s. 3-7 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Pay-roll Tax Assessment Act 2002.
+4.Section 41D amended
+(1) In section 41D(1) delete the definitions of:
+group member
+initial employer
+nominal period
+(2) Delete section 41D(3) to (6) and insert:
+(3) An exemption under subsection (2) does not apply to wages paid or payable to or in relation to an employee under a registered training contract that is suspended under the VET Act for the period of the suspension.
+Note:The heading to amended section 41D is to read:
+Exempt wages: apprentices under training contracts
+5.Schedule 1 clause 15 amended
+(1) In Schedule 1 clause 15 delete the definitions of:
+apprentice
+existing training contract
+(2) In Schedule 1 clause 15 in the definition of commencement day delete “operation;” and insert:
+operation.
+Note:The heading to amended Schedule 1 clause 15 is to read:
+Term used: commencement day
+6.Schedule 1 clause 16 deleted
+Delete Schedule 1 clause 16.
+7.Schedule 1 Division 7 inserted
+At the end of Schedule 1 insert:
+Division 7 — Provisions for the Pay-roll Tax Assessment Amendment Act 2019
+18.Terms used
+In this Division —
+apprentice has the meaning given in the VET Act section 60A;
+commencement day means the day on which the Pay-roll Tax Assessment Amendment Act 2019 section 4 comes into operation;
+former section 41D means section 41D as in force immediately before commencement day;
+VET Act means the Vocational Education and Training Act 1996.
+19.Application of amendments made by Pay-roll Tax Assessment Amendment Act 2019
+The amendments made by the Pay-roll Tax Assessment Amendment Act 2019 apply in relation to wages paid or payable on or after commencement day.
+20.Exemption for wages paid or payable: training contracts lodged for registration before 1 December 2017
+(1) This clause applies to a training contract (the pre-1 December 2017 training contract) if —
+(a) in accordance with a requirement imposed under the VET Act section 60C(5), an apprentice under the training contract is referred to as a “trainee”; and
+(b) the training contract was lodged for registration under the VET Act section 60F(2) before 1 December 2017.
+(2) Despite the amendments made by the Pay-roll Tax Assessment Amendment Act 2019 section 4, wages paid or payable by an employer to or in relation to an employee are exempt from pay-roll tax if —
+(a) the wages are paid or payable for a period during which the employee is an apprentice under the pre-1 December 2017 training contract; and
+(b) the wages would have been exempt from pay-roll tax under former section 41D, as modified by Schedule 1 clause 16 (as that clause was in force immediately before commencement day).
+21.Exemption for wages paid or payable: training contracts lodged for registration between 1 December 2017 and 30 June 2019
+(1) This clause applies to a training contract (the pre-1 July 2019 training contract) if —
+(a) in accordance with a requirement imposed under the VET Act section 60C(5), an apprentice under the training contract is referred to as a “trainee”; and
+(b) the training contract was lodged for registration under the VET Act section 60F(2) during the period beginning on 1 December 2017 and ending immediately before commencement day.
+(2) Despite the amendments made by the Pay-roll Tax Assessment Amendment Act 2019 section 4, wages paid or payable by an employer to or in relation to an employee are exempt from pay-roll tax if —
+(a) the wages are paid or payable for a period during which the employee is an apprentice under the pre-1 July 2019 training contract; and
+(b) the wages would have been exempt from pay-roll tax under former section 41D.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
