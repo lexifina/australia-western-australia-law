@@ -35,6 +35,7 @@ Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | 3 Dec 201
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Land Tax Assessment Amendment Act 2018 | 5 of 2018 | 26 Apr 2018 | Pt. 2: 1 Jul 2003 (see s. 2(a) and Gazette 27 Jun 2003 p. 2383); Act other than Pt. 2: 26 Apr 2018 (see s. 2(b))
 Reprint 5: The Land Tax Assessment Act 2002 as at 20 Jul 2018 (includes amendments listed above)
+Revenue Laws Amendment Act 2019 Pt. 3 Div. 2 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(e))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -42,6 +43,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Strata Titles Amendment Act 2018 Pt. 3 Div. 11 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Revenue Laws Amendment Act 2019 Pt. 3 Div. 3 and 4 | 12 of 2019 | 12 Jun 2019 | Pt. 3 Div. 3: 1 Jul 2019 (see s. 2(c)); Pt. 3 Div. 4: To be proclaimed (see s. 2(d))
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any law to the Forests Department was to be read as a reference to the Department of Conservation and Land Management.
 Under the Public Sector Management Act 1994 the names of departments may be changed. The Department of Conservation and Land Management was renamed the Department of Environment and Conservation.
@@ -110,6 +112,69 @@ After section 43A(1)(a) insert:
 subdivision of the land (other than for a subdivision under the Community Titles Act 2018)
 (5) In the Glossary clause 3(1) after paragraph (c) insert:
 (ca) in the case of land the subject of a scheme plan or amendment of a scheme plan under the Community Titles Act 2018, the plan or amendment is approved by the Western Australian Planning Commission in accordance with section 18(1)(b)(ii) of that Act; or
+On the date as at which this compilation was prepared, the Revenue Laws Amendment Act 2019 Pt. 3 Div. 3 and 4 had not come into operation. They read as follows:
+Division 3 — Amendments commencing on 1 July 2019
+139.Part 3 Division 2 Subdivision 1 heading inserted
+At the beginning of Part 3 Division 2 insert:
+Subdivision 1 — Exemptions and rebates for private residential property
+140.Part 3 Division 2 Subdivision 2 inserted:
+At the end of Part 3 Division 2 insert:
+Subdivision 2 — Application of private residential exemptions to subdivided land
+28A.Terms used
+In this Subdivision —
+exemption period means —
+(a)in relation to section 24, 25 or 27 — an assessment year;
+(b)in relation to section 24A, 25A or 27A — a period of 2 consecutive assessment years;
+exemption provision means section 24, 24A, 25, 25A, 27 or 27A;
+new lot, in relation to a subdivision of land, means a lot that comes into existence as a result of the subdivision;
+parent lot, in relation to a subdivision of land, means a lot that ceases to be a lot for the purposes of this Act under the Glossary clause 2(2) as a result of the subdivision.
+28B.Application of certain private residential exemptions to property subdivided during exemption period
+(1) This section applies if —
+(a) land is subdivided during an exemption period for an exemption provision; and
+(b) because of the subdivision, there are 1 or more requirements (the unsatisfied requirements) of the exemption provision that —
+(i) are not satisfied in relation to private residential property that is a parent lot in relation to the subdivision; but
+(ii) would be satisfied if the private residential property the subject of the exemption provision were 1 or more of the new lots in relation to the subdivision.
+(2) For the purposes of the application of the exemption provision to private residential property that is a parent lot referred to in subsection (1)(b)(i) for the exemption period —
+(a) the unsatisfied requirements are taken to be satisfied; and
+(b) if an exemption applies to the parent lot because of paragraph (a), the exemption applies only to the part or parts of the parent lot that, after the subdivision, constitute the new lot or lots referred to in subsection (1)(b)(ii); and
+(c) if there is any area of the parent lot to which the exemption does not apply because of paragraph (b), the taxable value of the parent lot is to be determined under section 18A as if the area of each new lot referred to in subsection (1)(b)(ii) were an exempt area referred to in section 18A(2).
+(3) For the purposes of determining under subsection (1)(b)(ii) whether a relevant requirement would be satisfied in relation to a new lot —
+(a) a requirement that relates to the ownership of the private residential property at midnight on 30 June immediately before the exemption period is taken to be satisfied in relation to a new lot if each person who is an owner of that new lot after the subdivision (a new lot owner) was also an owner of the parent lot at that time; and
+(b) if, at that time, the new lot owners owned the parent lot jointly with 1 or more other persons — the new lot is taken to have been owned at that time by the new lot owners only.
+(4) A reference in subsection (3) to an owner of a new lot after a subdivision is to a person who is an owner of the new lot after the certificate of title for the new lot is registered under the Transfer of Land Act 1893.
+28C.Application of requirements relating to sale or disposal of subdivided property
+(1) For the purposes of the application of section 27 or 27A to private residential property, a requirement in section 27(1)(f) or 27A(1)(j) that relates to the property acquired first referred to in that section is taken to be satisfied if —
+(a) the property acquired first is subdivided during the exemption period for section 27 or 27A (whichever is relevant); and
+(b) the requirement is satisfied in relation to each of the new lots in relation to the subdivision.
+(2) Subsection (1) applies in relation to the requirement in section 27(1)(f) whether the property acquired first is property A or property B referred to in section 27.
+(3) Despite section 28B(2)(a), a requirement in section 27(1)(f) or 27A(1)(j) is not taken to be satisfied under that section unless subsection (1)(b) of this section applies.
+28D.Application of 2-year private residential exemptions if property subdivided during first year
+If private residential property that is a parent lot is exempt under section 24A, 25A or 27A (the relevant 2-year exemption provision) because of the application of section 28B(2), and the subdivision occurs in the first assessment year of the exemption period for the relevant 2-year exemption provision, the exemption applies for the second year of the exemption period to the private residential property that is each new lot referred to in section 28B(2)(b) rather than to the parent lot.
+28E.Ownership of land during period when land subdivided but certificates of title not issued
+(1) This section applies if —
+(a) a parent lot that is owned jointly by 2 or more persons (the joint owners) is subdivided; and
+(b) there is a period of time (the relevant period) between the subdivision occurring and a certificate of title for any new lot being registered under the Transfer of Land Act 1893; and
+(c) either —
+(i) after the certificate of title is registered, each new lot is owned by some, but not all, of the joint owners (the relevant owners); or
+(ii) the Commissioner is satisfied that after the certificate of title is registered, each new lot will be owned by some, but not all, of the joint owners (the relevant owners).
+(2) For the purposes of this Division, the Commissioner may treat each new lot as being owned during the relevant period by the relevant owners only rather than by all of the joint owners.
+141.Schedule 1 amended
+At the end of Schedule 1 Division 6 insert:
+21.Application of amendments relating to subdivision of land
+(1) Part 3 Division 2 Subdivision 2 (other than section 28E) applies in relation to exemption periods (as defined in section 28A) that begin on or after 1 July 2019.
+(2) Section 28E and the Glossary clause 2(2) apply in relation to assessment years that begin on or after 1 July 2019, whether the subdivision referred to in whichever of those provisions is relevant occurs before or after 1 July 2019.
+(3) Despite subclauses (1) and (2), Part 3 Division 2 Subdivision 2 and the Glossary clause 2(2) do not apply for the purposes of determining whether private residential property is exempt under section 24, 24A, 25, 25A or 27A (the relevant exemption provision) if the commencement date for the construction or refurbishment referred to in the relevant exemption provision is before 1 July 2019.
+142.Glossary clause 2 amended
+After the Glossary clause 2(1) insert:
+(2) Despite subclause (1), if —
+(a) land that constitutes a lot (the parent lot) is subdivided resulting in 2 or more new lots referred to in paragraph (a)(vii) or (c) of the definition of lot in subclause (1) coming into existence, the parent lot ceases to be a lot for the purposes of this Act when the new lots come into existence; or
+(b) land that constitutes 2 or more lots (the parent lots) is subdivided resulting in a single new lot referred to in paragraph (a)(vii) or (c) of the definition of lot in subclause (1) coming into existence, the parent lots cease to be lots for the purposes of this Act when the new lot comes into existence.
+(2A) Subclause (2) does not prevent land tax from being payable on a parent lot, or an exemption, concession or rebate from applying in relation to the parent lot, for the financial year in which the land is subdivided or any earlier financial year.
+(2B) Subclause (2) does not apply to a subdivision of land in circumstances prescribed by the regulations.
+Division 4 — Amendment commencing when Community Titles Act 2018 s. 219(3) commences
+143.Glossary clause 2 amended
+In the Glossary clause 2(2)(a) and (b) delete “paragraph (a)(vii)” and insert:
+paragraph (a)(via), (vii)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -129,7 +194,7 @@ clauseGl. cl. 1
 commencement Sch. 1 cl. 10 and 16
 commencement dateGl. cl. 1
 completion dateGl. cl. 1
-compliant trusteeSch. 1 cl. 9(1)
+compliant trusteeSch. 1 cl. 9(1) and 20(1)
 conservation covenantGl. cl. 1
 deceased30E
 decisionSch. 1 cl. 12(1) and 18(1)
@@ -140,8 +205,9 @@ dwelling park land39A(1)
 dwelling park purposes39A(1)
 excluded purpose39A(1)
 exemptGl. cl. 1
+exempt area18A(2)
 exempt purposeGl. cl. 1
-exemption provision18(1)
+exemption provision18(1), 18A(1)
 family corporation29, 30H(b)
 family member29
 family owner29, 30H
@@ -200,7 +266,7 @@ registeredGl. cl. 1
 related29
 related purpose39A(1)
 relevant bodyGl. cl. 1
-relevant requirements18(1)
+relevant requirements18(1), 18A(1)
 reserved land32(5), 33(6), Gl. cl. 1
 residence contract39(1)
 residential care38A(1)

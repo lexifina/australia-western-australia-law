@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Duties Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Duties Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Duties Act 2008 | 11 of 2008 | 14 Apr 2008 | s. 1 and 2: 14 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2 and Sch. 3 Div. 2: 1 Jul 2008 (see s. 2(b))
@@ -27,110 +27,55 @@ Revenue Laws Amendment Act 2015 Pt. 2 Div. 2 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2
 Reprint 3: The Duties Act 2008 as at 13 Nov 2015 (includes amendments listed above)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 12 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Duties Amendment (Additional Duty for Foreign Persons) Act 2018 | 24 of 2018 | 17 Oct 2018 | s. 1 and 2: 17 Oct 2018 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2019 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Revenue Law Amendment Act 2019 Pt. 2 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b)(i))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Other notes
 The Mining Act 1904 was repealed by the Mining Act 1978.
-This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
+This section is deemed to have come into operation on 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 s. 2(b) and Pt. 2 Div. 1 and 2).
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
 The Duties Act 2008 Sch. 3 Div. 2 was repealed by the Revenue Laws Amendment Act 2008 s. 4.
 The Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 was deleted by the Duties Legislation Amendment Act 2013 s. 5. The amendments made by the Revenue Laws Amendment Act 2010 Pt. 3 Div. 1 have no effect for the same reason.
 The Duties Legislation Amendment Act 2013 Pt. 3 will not come into operation (see s. 2(1)(c) and (2)).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 377 had not come into operation. It reads as follows:
-377.Various references to Fish Resources Management Act 1994 amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Fish Resources Management Act 1994” and insert:
-Aquatic Resources Management Act 2016
-Table
-Duties Act 2008 | s. 136
-Note:
-In the Duties Act 2008, the heading to amended section 136 is to read:
-Business licences held under Aquatic Resources Management Act 2016
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 5 had not come into operation. It reads as follows:
-Part 3 — Other Acts amended
-Division 5 — Duties Act 2008 amended
-130.Act amended
-This Division amends the Duties Act 2008.
-131.Section 3 amended
-In section 3 insert in alphabetical order:
-lease does not include a strata lease;
-strata lease has the meaning given in the Strata Titles Act 1985 section 3(1);
-132.Section 17 amended
-(1) Before section 17(2)(b) insert:
-(ac) an estate in land created as a strata lot in a freehold or a leasehold scheme on the registration of the strata titles scheme or an amendment of the strata titles scheme under the Strata Titles Act 1985;
-Note for this paragraph:
-Common property created on the registration or amendment of a strata titles scheme is also not new dutiable property.
-(ad) an estate in land created on termination of a strata titles scheme under the Strata Titles Act 1985;
-(2) After section 17(2) insert:
-(3) Without limiting section 11(1)(f), new dutiable property that is land in Western Australia includes an extension of the term of a strata lease for a lot in a leasehold scheme by the postponement of the expiry day for the scheme as referred to in the Strata Titles Act 1985 section 50(3).
-133.Section 18 amended
-After section 18(c) insert:
-(ca) a strata lease;
-134.Section 87 amended
-In section 87(2)(j)(ii) delete “strata/survey-strata plan” and insert:
-strata titles scheme or an amendment of a strata titles scheme
-135.Section 90 amended
-(1) In section 90(b)(i) delete “strata lot; and” and insert:
-lot in a strata scheme (within the meaning of the Strata Titles Act 1985); and
-(2) In section 90(b)(ii) delete “strata”.
-136.Section 112 amended
-(1) In section 112(6):
-(a) in paragraph (a) delete “section 21I or 21M or an order under section 103P of that Act; or” and insert:
-Schedule 2A clause 21I; or
-(b) delete paragraphs (b) and (c);
-(c) in paragraph (d) delete “Part II Division 2A or Part III Division 3,” and insert:
-Schedule 2A Part 4 Division 1 or 2,
-On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 6 had not come into operation. It reads as follows:
-Part 14 — Other Acts amended
-Division 6 — Duties Act 2008 amended
-203.Act amended
-This Division amends the Duties Act 2008.
-204.Section 17 amended
-After section 17(2)(a) insert:
-(aa) an estate in land created as a community lot in a community titles scheme on the registration of the community titles scheme or an amendment of the community titles scheme under the Community Titles Act 2018;
-Note for this subparagraph:
-Common property created on the registration or amendment of a community titles scheme is also not new dutiable property.
-(ab) an estate in land referred to in the Community Titles Act 2018 section 154(2)(b)(ii), (c)(ii) or (d)(iii) created on termination of a community titles scheme under that Act;
-205.Section 87 amended
-After section 87(2)(j)(i) insert:
-(ia) the registration of a community titles scheme or an amendment of a community titles scheme under the Community Titles Act 2018; or
-206.Section 90 amended
-Before section 90(b) insert:
-(ab) for —
-(i) the sale of a lot in a community titles (building) scheme (within the meaning of the Community Titles Act 2018); and
-(ii) the construction on the lot, after liability for duty on the agreement arises, of a building for commercial, residential or mixed use purposes;
-or
+This clause is deemed to have come into operation on 13 Jun 2019 (see the Duties Amendment Act 2022 s. 2(c) and Pt. 4).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 A44(2), 257(2)
 accident insurance206
-acquirer171(2), 175
+acquirer163(1), 171(2), 175, 205ZH(1)
 acquiring person167(1), 168(1), 205ZM(1)
 acquisition165
 acquisition statement199
 additional insurance210(2)
+administration order139A(1)
+administrator139A(1)
 affected entity259(1)
+aggregated group interest163(2), 205ZH(3)
 aggregated transaction147F(3)
 agreement by instalments33(1)
 amended provisionsSch. 3 cl. 37
+amended section 244ASch. 3 cl. 50(1)
 approved superannuation fund122(2)
 associate205A(1), 205B(1) and (2)
+associated acquisition259(6)
 authorised trustee corporation63
 B44(2), 257(2)
 bankruptcy trustee108(1)
+bare trustee118(2)
 beneficiary43(4)
 business asset79
 business identity79
-business licence79, 277(1)
+business licence79
 C49(1)
-call option44(1), 177(1)
+call option44(1), 177(1), 197A(1)
 cancelled transaction107(1)
+cap amount77(2A)
+car or bus244A(1)
 caravan228
 caveat278(1)
 CEO228
@@ -140,11 +85,13 @@ child128(1)
 chosen entity125(2)
 circuit layout right79
 commencementSch. 3 cl. 37
+commencement day Sch. 3 cl. 46(1)
+Commissioner113A(1)
 commodities79
 Commonwealth Act121
-company A12(3)
-company B12(3)
-company C12(4)
+company A12(3), 160A(1)
+company B12(3), 160A(1)
+company C12(4), 160A(2)
 complying approved deposit fund121
 complying superannuation fund121
 concessional first home owner141(1)
@@ -159,7 +106,7 @@ contract of insurance206, 208
 controlling entity264(1), 264(1)
 corporate consolidation259(1)
 corporate trustee3
-corporation3, 171(1)
+corporation3
 Corporations Act3
 corresponding State law228
 court3
@@ -171,14 +118,17 @@ de facto relationship property128(1)
 dealer228
 decision96B(1)
 declaration of trust9
+deemed transaction78A(3), 120B(3)
 dependant127(1)
 dependent transaction274(1)
 deposit141(1)
+derivative mining right3
 digitally sign22A, 273A(1)
+direct interest154A(3)
 director3
 discretionary trust3
 disposition9, 63
-distributed value194(4), 194(4)
+distributed value194(4)
 distribution139(1)
 dormant corporation42(6)
 duplicate3
@@ -187,17 +137,18 @@ dutiable transaction3, 11(1)
 dutiable transactions11(2)
 dutiable value9, 205F(1), 231
 duties Act3
-duty3, 9, 148, 206, 228
-duty endorsed3, 272(1), (2) and (3)
+duty3, 9, 148(1), 206, 228
+duty endorsed3, 272(1) and (2), 272(3)
 dwelling205A(1)
 earlier acquisition189(4), 189(6)
 earlier instrumentSch. 3 cl. 10(1)
 electronic conveyancing instrument22A, 273A(1)
 eligible rollover fund121
 eligible transaction147A(1), 147B
+endorsed transaction118(1)
 entitled3
-entitlement value194(4), 194(4)
-entity9, 102(3), 148, 257(1)
+entitlement value194(4)
+entity9, 102(3), 148(1), 257(1)
 exempt body3
 exempt family farm transaction99(1)
 exempt transaction9
@@ -222,13 +173,19 @@ first dutiable transaction35, 47, 51
 first home owner concessional rate141(1)
 first home owner concessional transaction141(1)
 first transaction104
+fixed infrastructure3, 91A(1)
+fixed infrastructure access right3, 91A(1), (2) and (4)
+fixed infrastructure activity91D(1)
+fixed infrastructure control right3, 91A(1) and (4)
+fixed infrastructure statutory licence3, 91A(1) and (4)
+fixed infrastructure transaction91C(1)
 flag lifting agreement128(1)
-foreign acquirer205ZD(1)
+foreign acquirer205ZD(1), 205ZE(2), 205ZT
 foreign corporation205A(1), 205C(2)
 foreign dutiable transaction3, 205H(1)
 foreign dutiable transactions205H(2)
 foreign individual205A(1)
-foreign landholder acquisition205ZD(1), 205ZH(1) and (2), 205ZI(1) and (2)
+foreign landholder acquisition205ZD(1), 205ZH(1)
 foreign landholder duty3
 foreign person205A(1)
 foreign tax268(1)
@@ -240,56 +197,70 @@ franchise arrangement79
 franchisee79
 franchisor79
 further concessional transaction141(1)
+further interest148(1)
 general conditional agreement9
 general insurance206
-General insurance209(1), 209(2)
+General insurance209(1) and (2)
 general insurer206, 214
 general rate3
+goods vehicle244A(1)
 grant228
 GST3
 head entity259(1)
 heavy vehicle228
+higher entity154A(1), 204D(2)
 industrial association3
 insured person223(1)
 insurer206
 intellectual property79
-interest148
+interest148(1)
 interest in a discretionary trust9
 interim assessment44A(1), 195A(1), 205R(1), 205ZL(1)
 intermediary206
 interstate duty206
 intervening transactions42(8)
 issue of title conditional agreement9
-land3, 147F(1), 147F(3), 148
-landholder148
+issuing law91A(1)
+land3, 3A(1), (2) and (5), 147F(1) and (3), 148(1), Sch. 3 cl. 48(2), (3) and (4)
+land asset148(1), 205ZE(2)
+landholder91A(1), 148(1)
 landholder duty3
 legal personal representative127(1)
-licence228, 230(2), 230(3)
+licence228, 230(2) and (3)
 life insurance206
-linked entity148, 156(2)
-listed corporation148
-listed landholder148
-listed unit trust scheme148
+linked entity91A(1), 148(1), 156(2)
+listed corporation148(1)
+listed landholder148(1)
+listed unit trust scheme148(1)
 local government3
 lodge3
 lot96
-main entity156(1)
+lower entity154A(1)
+main acquisition195B(1) and (3), 204G(1), 204H(1), 205ZKA(1)
+main entities156A(1)
+main entity154A(1), 156(1), 195B(1) and (3), 204A(1), 204G(1), 205ZKA(1)
 major holder264(1)
 majority shareholder3
 managed investment scheme9
 matrimonial instrument128(1)
 matrimonial property128(1)
-merging corporations12(4), 12(5)
+merging corporations12(4) and (5), 160A(2) and (3)
 mining tenement3
 mining tenement conditional agreement9
+mining tenement fixture36A(1), 149A(1)
+mining tenement land asset149A(3)
+mining tenement valuation provision91I(1)
+motor cycle244A(1)
 motor vehicle228
+motorised wheelchair244A(1)
 new dutiable property9, 17(1) and (2)
 new record273(3)
 new residential property205F(1), 205I(1) and (2)
 new trustee119(1)
 new vehicle228
 nominal duty3
-notifiable event264(1), (2) and (3)
+notifiable event257(1), 264(2) and (3)
+notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
 offshore risk insurance206
 old partnership77(4)
 old public unit trust119(1)
@@ -299,67 +270,94 @@ order3
 original dutiable property123(2)
 original equipment239(2)
 original transaction96C(8)
-original transfer120(1)
+original transfer118(1), 120(1), 120A(1)
+original transferee120B(1)
+original transferor120A(1), 120B(1)
+other entities155(4)
 parcel of land205A(1)
 parent entity257(1)
 partially exempt acquisition172(2)
 partnership3
 partnership acquisition9
 partnership interest9
+pastoral lease3
+pastoral lessee3
 person154(1)
+person A91E(1), 91F(1), 91G(1), 91H(1)
+person B91E(1), 91F(1), 91G(1), 91H(1)
 person liable to pay duty9
 person related29(3), 194(6)
 plant breeder right79
 political party3
 pooled superannuation trust121
 potential voting power205C(1)
+pre-commencement periodSch. 3 cl. 48(1)
 premium206, 211
 prescribed3
+prescribed body corporate113A(1)
 prescribed financial market3
 pre-section 270 decision request269(1)
 pre-transaction decision request261(1)
+previous administration agreementSch. 3 cl. 49(1)
+previous assessmentSch. 3 cl. 52(1)
+previous right91F(1), 91G(1)
 primary production3, 101A(1)
 produce animals101A(1)
 professional association3
 promote trade, industry or commerce3
-property122(3)
+property122(3), 266B(1), 266C(1)
 proprietor45(2)
 proprietor of a business178(1)
+prospective right91E(1), 91F(1), 91I(1)
 public authority3
+public float3, 257(1)
 purchase price231
-put option44(1), 177(1)
+put option44(1), 177(1), 197A(1)
 registered insurer206
 registered scheme3
 registrar276(2), 278(1)
+related acquisitions156A(1)
 related corporation3
-related person79, 148, 201(1)
+related person79, 148(1), 201(1)
 related transaction274(1)
-relevant acquisition148, 163, 164, Sch. 3 cl. 1(1)
+relevant acquisition148(1), 163(1), 266B(1), 266C(1), Sch. 3 cl. 1(1)
 relevant acquisition Sch. 3 cl. 37
+relevant activity91A(1)
 relevant body3
-relevant consolidation transaction257(1), 259(2), (3) and (4)
-relevant entity126(1)
+relevant consolidation transaction257(1), 259(2), (3), (4) and (5)
+relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
+relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
+relevant land assets167(1), 168(1)
+relevant licence277(1)
+relevant partnership property78(1), 78A(1)
 relevant period29(3), 147F(2) and (4), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
-relevant reconstruction transaction257(1), 260(1), (2), (2A), (3), and (4)
+relevant reconstruction transaction257(1), 260(1), 260(2), (2A), (3), (4) and (5)
+relevant reconstruction transaction property266B(2)
+relevant residential property205ZM(1)
 relevant transaction257(1)
 relevant transfer125(1)
+relevant vehicle licence transferSch. 3 cl. 50(1)
 relinquishing person167(1), 168(1), 205ZM(1)
+relocatable home3
 replacement transaction107(1)
 representative206
+represented person139A(2)
 required duty273(1)
 residence96, 147A(1)
 residential land147A(1), 147D
 residential landholder205ZD(1)
+residential park site3
 residential partnership acquisition205F(1)
-residential property3, 205E(1), (2) and (3)
+residential property3, 205E(1), 205E(2), 205E(3)
 residential trust acquisition205F(1)
 residential trust surrender205F(1)
 responsible entity119(1)
 responsible person264(1)
 restraint of trade arrangement79
-retiring partner78(1)
+retained property78A(1)
+retiring partner78(1), 78A(1)
 right9
 scheme267(1)
 scheme property9
@@ -380,15 +378,19 @@ specialised vehicle231
 splitting agreement128(1)
 Stamp Act referenceSch. 3 cl. 28(1)
 stamp dutySch. 3 cl. 5(3)
+step-child6(1)
 subdivision conditional agreement9
 subsale transaction107(1)
 subsequent transaction104
+subsequent transfer118(1), 120A(2), 120B(1)
 subsidiary257(1)
+substituted transferee141(3), 147A(3)
 superannuation agreement128(1)
 superannuation fund121, 125(1), 128(1)
 superannuation interest128(1)
 supply3
-surplus property148
+surplus property113A(1), 148(1)
+surplus receiving body113A(1)
 surrender9
 taker in default9
 tax avoidance scheme268(2)
@@ -397,19 +399,21 @@ taxpayer147A(1)
 terminated on relevant grounds9
 terms contract141(1)
 trailer228
-transaction3
-transaction group257(1), 257(1)
+transaction3, Sch. 3 cl. 46(1)
+transaction group257(1)
 transaction record3
 transfer9
 transfer duty3
 transfer duty statement3
+transfer property78(1)
 transferee99(1), 141(1)
-transferor99(1), 122(2), 173(1)
+transferor99(1), 118(1), 122(2), 173(1)
 transfers42(8)
+triggering acquisition266B(2)
+triggering acquisition property266B(2)
 trust acquisition9
 trust surrender9
-trustee118(1)
-unencumbered value9, 36(1), 148
+unencumbered value9, 36(1), 148(1)
 unlisted corporation63
 vehicle228, 230(1)
 vehicle licence duty3
