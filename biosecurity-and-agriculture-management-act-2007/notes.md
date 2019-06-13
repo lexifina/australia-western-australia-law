@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Biosecurity and Agriculture Management Act 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 Subdiv. 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 Subdiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479); Pt. 6 Div. 1 Subdiv. 2: 23 Nov 2011 (see s. 2 and Gazette 22 Nov 2011 p. 4843); s. 27-32, 36-39, 43 and Pt. 2 Div. 5: 10 Oct 2012 (see s. 2 and Gazette 9 Oct 2012 p. 4747); Pt. 2 Div. 1 and 2, s. 23-26, 33-35, 40-42 and 44, Pt. 3, Pt. 7 Div. 4, s. 183-186 and 193 and Pt. 9: 1 May 2013 (see s. 2 and Gazette 5 Feb 2013 p. 823)
@@ -15,79 +15,22 @@ Biodiversity Conservation Act 2016 s. 311 | 24 of 2016 | 21 Sep 2016 | 1 Jan 201
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 1 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Genetically Modified Crops Free Areas Repeal Act 2016 Pt. 3 | 34 of 2016 | 27 Oct 2016 | 28 Oct 2016 (see s. 2(b))
 Reprint 2: The Biosecurity and Agriculture Management Act 2007 as at 17 Nov 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 311)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Taxation Administration Amendment Act 2019 Pt. 3 | 11 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 278(2) and 279(2) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 Pt. 19 Div. 2 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Other notes
 Repealed by the Mining Act 1978.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 278(2) and 279(2) had not come into operation. They read as follows:
-278.Section 4 amended
-(2) Delete section 4(2)(f).
-279.Section 184 amended
-(2) In section 184(1) in the definition of information sharing agency delete paragraph (b).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 Pt. 19 Div. 2 had not come into operation. It reads as follows:
-Part 19 — Consequential amendments to other Acts
-Division 2 — Biosecurity and Agriculture Management Act 2007 amended
-304.Act amended
-This Division amends the Biosecurity and Agriculture Management Act 2007.
-305.Section 3 amended
-In section 3(1)(a)(iv) delete “pearling” and insert:
-aquaculture
-306.Section 4 amended
-After section 4(2)(b) insert:
-(ca) the Aquatic Resources Management Act 2016;
-307.Section 6 amended
-(1) In section 6 delete the definitions of:
-fish
-fisheries officer
-Minister for Fisheries
-pearl oyster
-(2) In section 6 insert in alphabetical order:
-aquatic compliance officer means a compliance officer designated under the Aquatic Resources Management Act 2016 section 159(1);
-aquatic organism has the meaning given to that term in the Aquatic Resources Management Act 2016 section 3(1);
-aquaculture has the meaning given to that term in the Aquatic Resources Management Act 2016 section 3(1);
-Minister for Aquatic Resources means the Minister administering the Aquatic Resources Management Act 2016;
-(3) In section 6 in the definition of biosecurity paragraph (d) delete “pearling” and insert:
-aquaculture
-(4) In section 6 in the definition of identification card paragraph (b) delete “a fisheries officer, an inspector as that term is defined in the Pearling Act 1990,” and insert:
-an aquatic compliance officer,
-(5) In section 6 in the definition of inspector:
-(a) delete paragraph (b) and insert:
-(b)in relation to aquatic organisms — an inspector appointed under section 162 or an aquatic compliance officer; and
-(b) in paragraph (c) delete “fish —” and insert:
-an aquatic organism —
-(6) In section 6 in the definition of land delete paragraph (e) and insert:
-(e)in respect of aquatic organisms managed by the State under an arrangement with the Commonwealth under the Aquatic Resources Management Act 2016, the waters of the Australian fishing zone as defined by the Fisheries Management Act 1991 (Commonwealth);
-308.Section 9 amended
-In section 9(2) in the definition of basic animal feed delete “fish” and insert:
-aquatic organisms
-309.Section 12 amended
-In section 12(1)(a)(iv) delete “pearling” and insert:
-aquaculture
-310.Section 22 amended
-In section 22(2)(a)(iv) delete “pearling” and insert:
-aquaculture
-311.Section 45 amended
-In section 45(5):
-(a) in paragraph (a) delete “fish,” and insert:
-an aquatic organism,
-(b) in paragraph (a) delete “Fisheries Minister; or” and insert:
-Minister for Aquatic Resources; or
-(c) in paragraph (b) delete “a fish,” and insert:
-an aquatic organism,
-312.Section 184 amended
-In section 184 in the definition of information sharing agency paragraph (e) delete “Fish Resources Management Act 1994;” and insert:
-Aquatic Resources Management Act 2016;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 acquire152(1)
 additive9(2)
 adulterate59(1)
-agent111(1), 111(3)
+agent111(1) and (3)
 agricultural activity6
 agricultural product6
 Agvet Code of Western Australia6
@@ -133,7 +76,7 @@ disease6
 dispose of152(1)
 dwelling63
 electronic site6
-employer112(1), 112(3)
+employer112(1) and (3)
 entry warrant63
 environment6
 export6
@@ -191,7 +134,7 @@ prescribed6
 prescribed account140
 prescribed control measures30(1)
 prescribed offence125
-principal111(1), 111(3)
+principal111(1) and (3)
 private land8(2)
 processed animal feed9(2)
 prohibited organism6
