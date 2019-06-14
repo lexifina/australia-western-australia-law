@@ -33,6 +33,7 @@ Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Health Services Act 2016 s. 307(j) assented to 26 May 2016 | To be proclaimed (see s. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2019 bl. 3 and 4 | 7 Jun 2019 p. 1825 | 1 Jul 2019 (see bl. 2(b))
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2019 bl. 3-5 | 14 Jun 2019 p. 1900-1 | Operative on commencement of the Transport (Road Passenger Services) Act 2018 Pt. 6 (see bl. 2(b)(i))
 Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(j) had not come into operation. It reads as follows:
 307.By-laws and regulations repealed
@@ -44,6 +45,15 @@ These by-laws amend the Queen Elizabeth II Medical Centre (Delegated Site) By-la
 4.Schedule 1 amended
 In Schedule 1 in the item for by-law 26AB(3) delete “$6.05 per day, to a maximum of $30.25 per week” and insert:
 $6.10 per day, to a maximum of $30.50 per week
+On the date as at which this compilation was prepared, the Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2019 bl. 3-5 had not come into operation. They read as follows:
+3.By-laws amended
+These by-laws amend the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986.
+4.By-law 3 amended
+In by-law 3(1) insert in alphabetical order:
+on-demand rank or hail vehicle authorisation means a passenger transport vehicle authorisation (as defined in the Transport (Road Passenger Services) Act 2018 section 4(1)) that authorises the operation of the vehicle for use in providing an on-demand rank or hail passenger transport service (as defined in that section);
+5.By-law 20 amended
+Delete by-law 20(2)(f) and (g) and insert:
+(f) a vehicle in relation to which an on-demand rank or hail vehicle authorisation is in force.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
