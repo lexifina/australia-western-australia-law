@@ -14,6 +14,36 @@ Health Regulations Amendment (Public Health) Regulations 2016 Pt. 18 | 10 Jan 20
 Health Regulations Amendment (Poisons) Regulations 2016 Pt. 3 | 17 Jan 2017 p. 409-11 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Health (Pesticides) Regulations 2011 amended
+5.Regulations amended
+This Part amends the Health (Pesticides) Regulations 2011.
+6.Schedule 1 replaced
+Delete Schedule 1 and insert:
+Schedule 1 — Fees
+[r. 111]
+Regulation | Description | Fee ($)
+Matters relating to business registrations
+r. 17 | Application for grant of registration | 365
+r. 19(2) | Application for change or addition to business premises | 27
+r. 20(4)(b) | Application for amendment or removal of conditions | 27
+r. 22(1) | Application for renewal of registration | 365
+r. 23(5) | Replacement registration certificate | 13
+Matters relating to licences
+r. 37 | Application for grant of licence | 200
+r. 40(2) | Application for change or addition to endorsements | 27
+r. 41(2) | Application for change or addition to restricted-use pesticides | 27
+r. 42(4)(b) | Application for amendment or removal of conditions | 27
+r. 44(1) | Application for renewal of technician’s licence | 200
+r. 45(1) | Application for extension of provisional licence (fee per month, or part of a month, of extension sought) | 27
+r. 46(1) | Application to upgrade provisional licence to technician’s licence | 27
+r. 48(5) | Replacement of licence card | 14
+Other matters
+r. 101(1)(b) | Application for Chief Health Officer permit | 130
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
