@@ -23,9 +23,9 @@ Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 
 Sentencing (Consequential Provisions) Act 1995 Pt. 28 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Acts Amendment (Land Administration) Act 1997 Pt. 24 and s. 142 and 143 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
-Gas Pipelines Access (Western Australia) Act 1998 s. 89 | 65 of 1998 | 15 Jan 1999 | 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441)
+Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 Div. 4 | 65 of 1998 | 15 Jan 1999 | 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441)
 Energy Coordination Amendment Act 1999 s. 10(1) | 20 of 1999 | 24 Jun 1999 | 16 Oct 1999 (see s. 2 and Gazette 15 Oct 1999 p. 4865)
-Gas Corporation (Business Disposal) Act 1999 s. 54-56, 77-83 and 90-92 | 58 of 1999 | 24 Dec 1999 | s. 54-56: 24 Dec 1999 (see s. 2(1)); s. 77-83: 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545); s. 90-92: 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
+Gas Corporation (Business Disposal) Act 1999 s. 54-56, 77-83 and 90-92 | 58 of 1999 (as amended by No. 74 of 2003 s. 51(4)) | 24 Dec 1999 | s. 54-56: 24 Dec 1999 (see s. 2(1)); s. 77-83: 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545); s. 90-92: 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Reprint of the Energy Operators (Powers) Act 1979 as at 15 Sep 2000 (includes amendments listed above except those in the Gas Corporation (Business Disposal) Act 1999 s. 90-92) (correction in Gazette 22 Nov 2002 p. 5533)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 58 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
@@ -44,36 +44,34 @@ Water Resources Legislation Amendment Act 2007 s. 193 | 38 of 2007 | 21 Dec 2007
 Reprint 5: The Energy Operators (Powers) Act 1979 as at 4 Apr 2008 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 s. 210 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Electricity Corporations Amendment Act 2013 s. 41 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Reprint 6: The Energy Operators (Powers) Act 1979 as at 14 Jun 2019 (includes amendments listed above)
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
 The Energy Operators (Powers) Act 1979 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 3 it. 9, which reads as follows:
-“
 9.Exclusion of certain statutory rights
 (1) The rights, powers, and privileges given to the corporation by the Energy Corporations (Powers) Act 1979 do not apply in relation to land in the DBNGP corridor as defined in section 27 of this Act.
 (2) Subclause (1) does not have the effect that anything referred to in section 43 of the Energy Corporations (Powers) Act 1979 ceases to be the property of the corporation.
-”.
 Short title was initially the State Energy Commission Act 1979 and was subsequently changed to the Energy Corporations (Powers) Act 1979 and then to the Energy Operators (Powers) Act 1979 (see note under s. 1).
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 s. 34(2) is a transitional provision that is of no further effect.
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 Pt. 3 (as amended by the Electricity Corporations Act 2005 s. 139) reads as follows:
-“
 Part 3 ¾ Transitional provisions for succession from Commission to new corporations
 Division 1 ¾ Preliminary
 42.Intention
 The intention of the provisions of this Part is that the Electricity Corporation and the Gas Corporation will, in accordance with those provisions, stand in place of and be the successors to the Commission, except so far as section 48 applies.
 43.Definitions
 In this Part, unless the contrary intention appears ¾
-“assets” means ¾
+assets means ¾
 (a)property of every kind whether tangible or intangible, real or personal, corporeal or incorporeal; and
 (b)without limiting paragraph (a) includes choses in action, goodwill, rights, interests and claims of every kind in or to property, whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether liquidated or unliquidated, actual, contingent or prospective;
-“commencement day” means the day on which Part 2 comes into operation;
-“Commission” means the Commission under the principal Act as in force before the commencement day;
-“corporation” means the Electricity Corporation or the Gas Corporation but in section 47 “corporations” means both of those corporations;
-“Electricity Corporation” means the body corporate established by section 4 of the Electricity Corporation Act 1994;
-“Gas Corporation” means the body corporate established by section 4 of the Gas Corporation Act 1994;
-“liability” means any liability, duty or obligation whether actual, contingent or prospective, liquidated or unliquidated, or whether owed alone or jointly or jointly and severally with any other person;
-“principal Act” means the State Energy Commission Act 1979;
-“right” means any right, power, privilege or immunity whether actual, contingent or prospective;
-“transfer order” means the order and any amendments to it made by the Minister under section 44, and includes any order made under subsection (5) of that section.
+commencement day means the day on which Part 2 comes into operation;
+Commission means the Commission under the principal Act as in force before the commencement day;
+corporation means the Electricity Corporation or the Gas Corporation but in section 47 corporations means both of those corporations;
+Electricity Corporation means the body corporate established by section 4 of the Electricity Corporation Act 1994;
+Gas Corporation means the body corporate established by section 4 of the Gas Corporation Act 1994;
+liability means any liability, duty or obligation whether actual, contingent or prospective, liquidated or unliquidated, or whether owed alone or jointly or jointly and severally with any other person;
+principal Act means the State Energy Commission Act 1979;
+right means any right, power, privilege or immunity whether actual, contingent or prospective;
+transfer order means the order and any amendments to it made by the Minister under section 44, and includes any order made under subsection (5) of that section.
 Division 2 ¾ Devolution of Commission’s assets and liabilities etc.
 44.Minister to make order for allocation of assets and liabilities
 (1) As soon as is practicable after this section comes into force the Minister is to make and publish in the Gazette an order specifying —
@@ -153,7 +151,7 @@ Subject to section 44(5), on and after the commencement day —
 (e) the Coordinator of Energy referred to in section 4 of the Energy Coordination Act 1994.
 (2) Subsection (1) does not apply to a provision of a Government agreement that is spent or has had its effect.
 (3) On and after the commencement day a provision of a Government agreement which under subsection (1) is affected by the transfer order has effect by force of this section as so affected.
-(4) In this section “Government agreement” has the same meaning as it has in the Government Agreements Act 1979.
+(4) In this section Government agreement has the same meaning as it has in the Government Agreements Act 1979.
 50.Debentures and inscribed stock
 (1) Without limiting section 45, 46 or 47 any debentures or inscribed stock which devolve under any of those sections, and the determination of rights and obligations in respect of the same, continue to be governed by sections 108 and 111 of the principal Act and regulations made under section 110 of that Act, despite the repeal of those sections, as if —
 (a) those sections and regulations remained in force; and
@@ -162,7 +160,7 @@ Subject to section 44(5), on and after the commencement day —
 (ii) 2 or more of the new corporations jointly or severally,
 in accordance with a transfer order.
 (1a) In subsection (1)(b) —
-“new corporation” and “transfer order” have the meanings given to those terms in section 142(1) of the Electricity Corporations Act 2005.
+new corporation and transfer order have the meanings given to those terms in section 142(1) of the Electricity Corporations Act 2005.
 (2) The Governor may, by further regulations, amend or repeal the regulations referred to in subsection (1).
 [Section 50 amended: No. 18 of 2005 s. 139.]
 51.Guarantees in respect of Commission
@@ -176,7 +174,7 @@ as if it were a guarantee of the liabilities of the corporation which have been 
 (3) Despite its repeal by section 34, section 106(1) of the principal Act is to be taken to continue to apply for the purposes of subsection (2).
 (4) The Treasurer may enter into any instrument confirming the continued liability of the State under a guarantee referred to in subsection (1).
 (5) Division 4 of Part 5 of the relevant Act is to be taken to apply to a liability of a corporation referred to in subsection (1) if a guarantee of that liability cannot be preserved under this section (whether because the guarantee is governed otherwise than by the law of the State or for any other reason).
-(6) In subsection (5) “relevant Act” means —
+(6) In subsection (5) relevant Act means —
 (a) in the case of the Electricity Corporation, the Electricity Corporation Act 1994; and
 (b) in the case of the Gas Corporation, the Gas Corporation Act 1994.
 (7) By virtue of this subsection, any sum paid by the Treasurer under a guarantee referred to in subsection (1) constitutes a charge on the assets of the relevant corporation or the corporations jointly, as the case may require.
@@ -187,7 +185,7 @@ as if it were a guarantee of the liabilities of the corporation which have been 
 (2) The fact that subsection (1)(a) applies to an asset, right or liability that is allocated to a corporation or to both of the corporations under this Part does not affect the duty of the corporation or the corporations to account for and report on that asset, right or liability under the written law by which the corporation is established.
 53.Exemption from State taxation
 (1) In this section —
-“State tax” includes stamp duty chargeable under the Stamp Act 1921 and any other tax, duty, fee, levy or charge under a law of the State.
+State tax includes stamp duty chargeable under the Stamp Act 1921 and any other tax, duty, fee, levy or charge under a law of the State.
 (2) State tax is not payable in relation to —
 (a) anything that occurs by the operation of this Part; or
 (b) anything done (including a transaction entered into or an instrument or document of any kind made, executed, lodged or given) under this Part, or to give effect to this Part, or for a purpose connected with or arising out of, giving effect to this Part.
@@ -198,7 +196,7 @@ as if it were a guarantee of the liabilities of the corporation which have been 
 54.Registration of documents
 (1) The relevant officials are to take notice of the provisions of this Part and are empowered to record and register in the appropriate manner the documents necessary to give effect to this Part.
 (2) Without limiting subsection (1), a statement in an instrument executed by the Electricity Corporation or the Gas Corporation that any estate or interest in land or other property has become vested in it or in the corporations jointly or in specified shares under section 45, 46 or 47 is evidence of that fact.
-(3) In subsection (1) “relevant officials” means the Registrar of Titles, the Registrar of Deeds, the Ministers respectively administering the Land Act 1933 and the Mining Act 1978 and any other person authorised by a written law to record and give effect to the registration of documents relating to transactions affecting any estate or interest in land or any other property.
+(3) In subsection (1) relevant officials means the Registrar of Titles, the Registrar of Deeds, the Ministers respectively administering the Land Act 1933 and the Mining Act 1978 and any other person authorised by a written law to record and give effect to the registration of documents relating to transactions affecting any estate or interest in land or any other property.
 55.Saving
 The operation of section 45, 46 or 47 is not to be regarded —
 (a) as a breach of contract or confidence or otherwise as a civil wrong;
@@ -235,7 +233,7 @@ Despite Part 2 of this Act, where the Commission had the benefit of any immunity
 has effect after that day as if —
 (c) the relevant corporation were substituted for the Commission as a party to the agreement or instrument; and
 (d) any reference in the agreement or instrument to the Commission were (unless the context otherwise requires) a reference to the relevant corporation.
-(3) In this section “relevant corporation” means —
+(3) In this section relevant corporation means —
 (a) in relation to the functions of the Commission that after the commencement day are functions of the Electricity Corporation, that corporation;
 (b) in relation to the functions of the Commission that after the commencement day are functions of the Gas Corporation, that corporation.
 63.Commission to perform necessary transitional functions
@@ -256,10 +254,8 @@ has effect after that day as if —
 (3) To the extent that a provision of any such order has effect on a day that is earlier than the day of its publication in the Gazette, the provision does not operate so as —
 (a) to affect, in a manner prejudicial to any person (other than the State, the Electricity Corporation, the Gas Corporation or any authority of the State), the rights of that person existing before the day of its publication; or
 (b) to impose liabilities on any person (other than the State, the Electricity Corporation, the Gas Corporation or any authority of the State), in respect of anything done or omitted to be done before the day of publication.
-”.
 The Gas Corporation (Business Disposal) Act 1999 s. 92(c)(i) and (d) do not have effect because the provisions they would have amended were previously amended by the Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13). Subsequently s. 92(c)(i) and (d) were deleted by the Statutes (Repeals and Minor Amendments) Act 2003 s. 51(4).
 The Energy Legislation Amendment Act 2003 s. 115(3)-(4) and 116 read as follows:
-“
 115.Section 65 amended and transitional provision
 (3) Section 65 of the principal Act as in force immediately before the commencement of this section is to continue to have effect for the purpose of adjusting, under section 65, charges in respect of which, according to the records of the energy operator —
 (a) a metering or billing error was discovered by;
@@ -279,11 +275,9 @@ the energy operator, as mentioned in subsection (3), is to be presumed to be cor
 (3) In this section —
 appropriate network development means “appropriate network development” as defined in section 58(3a) or section 61(1a) of the principal Act, as the case may require;
 Western Power Corporation has the meaning given to that term in section 4(1) of the principal Act.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-a power of entry46(1)
 accounting period65(9)
 acquisition4(1)
 apparatus4(1)
@@ -291,6 +285,7 @@ appropriate network development58(3a), 61(1a)
 charges4(1)
 consumer installation4(1)
 Coordinator of Energy4(1)
+corporation124(6)
 department4(1)
 distribution system57(1)
 distribution works4(1)
@@ -304,6 +299,7 @@ land4(1), 36
 liquid petroleum gas4(1)
 meter4(1)
 officer4(1)
+power of entry46(1)
 premises4(1)
 relevant Minister45(16)
 service apparatus4(1)
@@ -313,7 +309,6 @@ supply or sale60(1)
 supply system4(1)
 system emergency4(1), 57(1)
 terms60(1)
-the corporation124(6)
 transfer event43(1aa)
 undertaking4(1)
 works4(1)
