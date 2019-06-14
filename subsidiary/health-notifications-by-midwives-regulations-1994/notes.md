@@ -12,3 +12,14 @@ Health (Notifications by Midwives) Amendment Regulations 2016 | 3 May 2016 p. 13
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 17 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health (Notifications by Midwives) Amendment Regulations 2017 | 16 May 2017 p. 2489-91 | r. 1 and 2: 16 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Reprint 2: The Health (Notifications by Midwives) Regulations 1994 as at 22 Sep 2017 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Health (Notifications by Midwives) Amendment Regulations 2019 r. 3-4 | 14 Jun 2019 p. 1894-6 | 1 Jul 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, the Health (Notifications by Midwives) Amendment Regulations 2019 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Health (Notifications by Midwives) Regulations 1994.
+4.Schedule amended
+In the Schedule delete Form 2 and insert:
+Form 2
+[r. 4]
