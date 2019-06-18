@@ -6,6 +6,20 @@ Petroleum (Submerged Lands) (Resource Management and Administration) Regulations
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 10 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 had not come into operation. It reads as follows:
+Part 9 — Petroleum (Submerged Lands) (Resource Management and Administration) Regulations 2015 amended
+24.Regulations amended
+This Part amends the Petroleum (Submerged Lands) (Resource Management and Administration) Regulations 2015.
+25.Regulation 93 amended
+In regulation 93(2) and (3) delete “$129.00” and insert:
+$135.00
+26.Regulation 97 amended
+In regulation 97(2) and (3) delete “$129.00” and insert:
+$135.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
