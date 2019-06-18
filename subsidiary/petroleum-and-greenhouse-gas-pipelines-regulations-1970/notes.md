@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 July 2018 of the Petroleum Pipelines Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum Pipelines Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum Pipelines Regulations 1970 | 30 Jul 1970 p. 2242-52 | 30 Jul 1970
@@ -27,7 +27,32 @@ Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt.
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 16 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 16 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Reprint 3: The Petroleum Pipelines Regulations 1970 as at 13 Jul 2018 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 16 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 The day fixed under the Acts Amendment (Petroleum) Act 1990 s. 2(1) was 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
+On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 16 had not come into operation. It reads as follows:
+Part 16 — Petroleum Pipelines Regulations 1970 amended
+42.Regulations amended
+This Part amends the Petroleum Pipelines Regulations 1970.
+43.Regulation 4B amended
+In regulation 4B delete “$207.00.” and insert:
+$217.00.
+44.Third Schedule replaced
+Delete the Third Schedule and insert:
+Third Schedule — Fees
+[r. 4]
+Item | Purpose | Provision of Act | Fee ($)
+1. | Application for licence | s. 8(l)(j) | 6 845.00
+2. | Application for variation of licence | s. 15(2)(d) | 6 845.00
+3. | Registration of memorandum of transfer and name of transferee | s. 44(9) | 135.00
+4. | Registration as licensee on devolution by operation of law | s. 45(2) | 135.00
+5. | Application by company licensee for registration of change of name | s. 45(3) | 135.00
+6. | Entry on memorial of registration of approval of dealing | s. 47(12) | 135.00
+7. | Inspection of register | s. 52(1) | 135.00
+8. | Copies of or extracts from the register or of or from an instrument certified by Minister | s. 53(2) | 135.00
+9. | Certificate by Minister as to entry, matter or things under the Act | s. 53(3) | 135.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
