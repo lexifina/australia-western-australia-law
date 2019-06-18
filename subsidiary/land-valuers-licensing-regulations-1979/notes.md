@@ -45,8 +45,26 @@ Land Valuers Licensing Amendment Regulations (No. 2) 2015 | 23 Jun 2015 p. 2176 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 11 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 13 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 12 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 12 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 The Curtin University of Technology Act 1966 s. 5 established the Western Australian Institute of Technology as the Curtin University of Technology from 1 January 1987.
 The commencement date of 1 Jul 1989 that was specified was before the date of gazettal.
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 12 had not come into operation. It reads as follows:
+Part 12 — Land Valuers Licensing Regulations 1979 amended
+23.Regulations amended
+This Part amends the Land Valuers Licensing Regulations 1979.
+24.Schedule 1 amended
+In Schedule 1:
+(a) in item 3 delete “28.00” and insert:
+29.50
+(b) in item 4 delete “11.25” and insert:
+11.80
+(c) in item 5 delete “11.60” and insert:
+12.20
+(d) in item 5 delete “2.20” and insert:
+2.30
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
