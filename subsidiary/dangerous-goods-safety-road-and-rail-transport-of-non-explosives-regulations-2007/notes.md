@@ -27,6 +27,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 r. 10 | 31 Aug 2018 p. 3043-7 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed, before the amendments came into operation, by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
 On the date as at which this compilation was prepared, the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 r. 10 had not come into operation. It reads as follows:
@@ -37,6 +38,18 @@ After section 109 insert:
 Penalty for this subregulation: a fine of $5 000.
 (2) A prime contractor must not transport dangerous goods in a portable tank, or by a tank vehicle, if the prime contractor knows, or ought reasonably to know, that a sign, writing or other information affixed to the portable tank or tank vehicle is false or misleading in a material particular about the contents of the portable tank or tank vehicle.
 Penalty for this subregulation: a fine of $5 000.
+On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 amended
+10.Regulations amended
+This Part amends the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007.
+11.Regulation 272 amended
+In regulation 272 in the Table:
+(a) in item 1 delete “280.00” and insert:
+294.00
+(b) in item 2(a) delete “22.50” and insert:
+23.50
+(c) in item 2(b) delete “141.00” and insert:
+148.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
