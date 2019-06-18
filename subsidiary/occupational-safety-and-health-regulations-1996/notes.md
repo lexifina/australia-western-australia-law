@@ -93,12 +93,22 @@ Occupational Safety and Health Amendment Regulations 2017 | 14 Nov 2017 p. 5602-
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 16 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2018 | 19 Oct 2018 p. 4136-7 | r. 1 and 2: 19 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Oct 2018 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2019 | 10 May 2019 p. 1401 | r. 1 and 2: 10 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Occupational Safety and Health Amendment Regulations (No. 2) 2019 r. 3-4 | 18 Jun 2019 p. 2039 | Operative when the Transport (Road Passenger Services) Act 2018 Pt. 6 comes into operation (see r. 2(b))
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987, see s. 33(1) which repealed the Noise Abatement Act 1972 under which the regulations were made.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 The amendments to r. 5.46(1)(a) in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 5.46(1)(a) was replaced by the Occupational Safety and Health Amendment Regulations 2010 r. 5.
+On the date as at which this compilation was prepared, the Occupational Safety and Health Amendment Regulations (No. 2) 2019 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Occupational Safety and Health Regulations 1996.
+4.Regulation 3.130 amended
+In regulation 3.130 in the definition of commercial vehicle delete paragraph (a) and insert:
+(a)a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1); or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
