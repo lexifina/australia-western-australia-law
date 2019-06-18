@@ -37,7 +37,24 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 12 | 23 J
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2017 | 22 Dec 2017 p. 5987-9 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 11 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2018 | 2 Oct 2018 p. 3783-4 | r. 1 and 2: 2 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 had not come into operation. It reads as follows:
+Part 11 — Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 amended
+21.Regulations amended
+This Part amends the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999.
+22.Schedule 4 replaced
+Delete Schedule 4 and insert:
+Schedule 4 — Fees for permits and authorisations
+[r. 11, 13A and 15A]
+Service | Fee
+Application for permit | $54.00
+Issue or renewal of permit (for each year) | $57.00
+Application for authorisation | $664.00
+Replacement permit or authorisation | $116.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
