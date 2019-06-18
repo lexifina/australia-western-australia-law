@@ -25,6 +25,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 6 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations 2019 r. 3-4 | 18 Jun 2019 p. 2061 | 1 Jul 2019 (see r. 2(b))
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 Repealed by the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (Cwlth).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -89,6 +90,11 @@ r. 134(1)(b) | $26.15 | $25.35
 r. 134(3) | $43.25 | $40.70
 r. 235(4) | $68.90 | $71.80
 r. 468(1) | $51.25 | $52.25
+On the date as at which this compilation was prepared, the Road Traffic (Vehicles) Amendment Regulations 2019 r. 3-4had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Road Traffic (Vehicles) Regulations 2014.
+4.Regulation 25 deleted
+Delete regulation 25.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
