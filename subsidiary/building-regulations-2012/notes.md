@@ -30,7 +30,27 @@ Building Amendment Regulations 2018 | 9 Mar 2018 p. 799-800 | r. 1 and 2: 9 Mar 
 Building Amendment Regulations (No. 2) 2018 | 5 Oct 2018 p. 4013-16 | r. 1 and 2: 5 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2018 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 2 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
 Building Amendment Regulations 2019 | 26 Mar 2019 p. 943-6 | r. 1 and 2: 26 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Building Regulations 2012 amended
+7.Regulations amended
+This Part amends the Building Regulations 2012.
+8.Schedule 2 amended
+(1) In Schedule 2 Division 1 items 1 to 4 delete “$97.70” (each occurrence) and insert:
+$105.00
+(2) In Schedule 2 Division 2:
+(a) in items 1 to 4 delete “$97.70” and insert:
+$105.00
+(b) in item 5 delete “$10.80” and insert:
+$11.60
+(c) in item 5 delete “$107.70” and insert:
+$115.00
+(d) in items 6 to 10 delete “$97.70” and insert:
+$105.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
