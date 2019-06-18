@@ -18,9 +18,29 @@ Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 5 | 3 Mar 2017
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2018 Pt. 3 | 20 Mar 2018 p. 996-1005 | 21 Mar 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
 Repealed by the Dangerous Goods Safety (Goods in Ports) Repeal Regulations 2013.
+On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 amended
+15.Regulations amended
+This Part amends the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007.
+16.Regulation 44A amended
+In regulation 44A(4) delete “$39.00.” and insert:
+$41.00.
+17.Regulation 135I amended
+In regulation 135I(2)(e)(v) delete “$4 213.00.” and insert:
+$4 424.00.
+18.Schedule 5 amended
+In Schedule 5 clause 2 delete the Table and insert:
+Table
+Item | Maximum quantity of dangerous goods specified in the licence for the site | Fee ($)
+1. | Less than 50 000 kg or L | 223.00
+2. | 50 000 kg or L or more | 743.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
