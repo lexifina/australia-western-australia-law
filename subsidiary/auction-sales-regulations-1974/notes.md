@@ -22,10 +22,32 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 3 Jun
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Licensing Provisions Regulations Amendment Regulations 2017 Pt. 2 | 27 Jun 2017 p. 3408-16 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Auction Sales Regulations 1974; name changed (see note under r. 1).
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Auction Sales Regulations 1974 amended
+5.Regulations amended
+This Part amends the Auction Sales Regulations 1974.
+6.Regulation 3 amended
+In regulation 3(1) in the Table:
+(a) delete “$187.95” (each occurrence) and insert:
+$197.00
+(b) delete “$375.90” (each occurrence) and insert:
+$395.00
+(c) delete “$563.85” (each occurrence) and insert:
+$592.00
+(d) delete “$66.15” and insert:
+$69.50
+(e) delete “$15.25” (each occurrence) and insert:
+$16.00
+(f) delete “$52.90” and insert:
+$55.50
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
