@@ -23,15 +23,9 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Reprint 3: The Criminal Property Confiscation Act 2000 as at 4 May 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 513)
 Criminal Organisations Control Act 2012 s. 176(1)-(4) | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 Pt. 3 | 10 of 2018 | 13 Jul 2018 | 1 Sep 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2894)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Organisations Control Act 2012 s. 176(5) | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
+Reprint 4: The Criminal Property Confiscation Act 2000 as at 21 Jun 2019 (includes amendments listed above)
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
-On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 176(5) had not come into operation. It reads as follows:
-176.Criminal Property Confiscation Act 2000 amended
-(5) In section 159(2) after paragraphs (b) and (c) insert:
-and
+The amendments in the Criminal Organisations Control Act 2012 s. 176(5) had not come into operation when it was deleted by the Statutes (Minor Amendments) Act 2017 s. 6(3).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -51,17 +45,17 @@ corporationGl.
 corresponding lawGl.
 courtGl.
 crime-derivedGl.
-crime-derived property4
+crime-derived property4(d)
 crime-usedGl.
-crime-used property4
+crime-used property4(c)
 crime-used property substitution declarationGl.
 criminal benefitGl.
-criminal benefits4
+criminal benefits4(b)
 criminal benefits declarationGl.
 criminal useGl.
 dealGl.
 declared criminal organisation148(4A)
-declared drug trafficker4, 159(1), Gl.
+declared drug trafficker4(e), 159(1), Gl.
 directorGl.
 dispose ofGl.
 documentGl.
@@ -110,7 +104,7 @@ sham transactionGl.
 State taxesGl.
 suspension orderGl.
 transactionGl.
-unexplained wealth4, Gl.
+unexplained wealth4(a), Gl.
 unexplained wealth declarationGl.
 valuable considerationGl.
 valueGl.
