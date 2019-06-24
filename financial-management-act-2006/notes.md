@@ -41,12 +41,19 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
+Infrastructure Western Australia Act 2019 s. 75 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 had not come into operation. It reads as follows:
 15.Financial Management Act 2006 amended
 (1) This section amends the Financial Management Act 2006.
 (2) In Schedule 1 delete the item relating to the Potato Marketing Corporation of Western Australia.
+On the date as at which this compilation was prepared, the Infrastructure Western Australia Act 2019 s. 75 had not come into operation. It reads as follows:
+Part 6 — Consequential amendments to other Acts
+75.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In Schedule 1 after the item for the Housing Authority insert:
+Infrastructure WA
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
