@@ -303,6 +303,7 @@ Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Heritage Act 2018 s. 184 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 1 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+Infrastructure Western Australia Act 2019 s. 74 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -420,6 +421,12 @@ Subdivision 1 — Constitution Acts Amendment Act 1899 amended
 This Subdivision amends the Constitution Acts Amendment Act 1899.
 306.Schedule V Part 3 amended
 In Schedule V Part 3 delete the item relating to the Taxi Industry Board.
+On the date as at which this compilation was prepared, the Infrastructure Western Australia Act 2019 s. 74 had not come into operation. It reads as follows:
+Part 6 — Consequential amendments to other Acts
+74.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 before the item for the board of the Minerals Research Institute of Western Australia insert:
+The board of Infrastructure WA established under the Infrastructure Western Australia Act 2019.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
