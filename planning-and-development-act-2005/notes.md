@@ -32,6 +32,7 @@ Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be 
 Heritage Act 2018 s. 186 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 14 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 14 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Infrastructure Western Australia Act 2019 s. 76 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
@@ -339,6 +340,11 @@ Division 5A — Integration of subdivision and development
 (b) requiring an applicant to provide additional documents or information reasonably required to determine whether subdivision and development approvals should be integrated under this section and to give effect to any such integration; or
 (c) establishing processes for the concurrent or separate consideration of subdivision and development approvals to which this section applies and for the imposition of conditions of approvals to which this section applies; or
 (d) otherwise facilitating the integration of subdivision and development approvals.
+On the date as at which this compilation was prepared, the Infrastructure Western Australia Act 2019 s. 76 had not come into operation. It reads as follows:
+Part 6 — Consequential amendments to other Acts
+76.Planning and Development Act 2005 amended
+(1) This section amends the Planning and Development Act 2005.
+(2) Delete Schedule 2 clause 6.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
