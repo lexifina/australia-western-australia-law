@@ -37,6 +37,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 23 Ju
 Licensing Provisions Regulations Amendment Regulations 2017 Pt. 3 | 27 Jun 2017 p. 3408-16 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Administration) Regulations 2018 Pt. 2 | 2 Oct 2018 p. 3794-6 | 3 Oct 2018 (see r. 2(b))
+Debt Collectors Licensing Amendment Regulations 2019 | 25 Jun 2019 p. 2191-2 | r. 1 and 2: 25 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jun 2019 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
