@@ -7,6 +7,7 @@ Agriculture and Food Regulations Amendment (Public Health) Regulations 2016 Pt. 
 Agriculture and Food Regulations Amendment (Poisons) Regulations 2016 Pt. 4 | 17 Jan 2017 p. 404-6 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Biosecurity and Agriculture Management Regulations Amendment Regulations 2017 Pt. 3 | 3 Feb 2017 p. 1110-12 | 4 Feb 2017 (see r. 2(b))
 Biosecurity and Agriculture Management Amendment Regulations 2018 | 14 Sep 2018 p. 3306 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Biosecurity and Agriculture Management Regulations Amendment Regulations (No. 2) 2019 Pt. 4 | 27 Jun 2019 p. 2407-54 | 28 Jun 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -139,21 +139,23 @@ r. 108(1) | Saleyard operator moving animal from saleyard contrary to regulation
 r. 110(2) | Abattoir operator failing to comply with direction of inspector | 500
 r. 116(2) | Export depot operator failing to comply with direction of inspector | 500
 r. 128 | Moving sheep or goat from farming property contrary to regulations | 500
+r. 129A(1) | Moving pig less than 25 kg from farming property contrary to regulations | 500
+r. 129A(2) | Moving pig 25 kg or more from farming property contrary to regulations | 500
 r. 135(2) | Failing to give information to saleyard operator as requested | 500
 r. 143(2) | Holding yard operator failing to comply with direction given by inspector | 500
 r. 148(2) | Saleyard operator failing to apply NLIS post breeder tag to animal | 500
 r. 149(2) | Saleyard operator failing to comply with direction given by inspector | 500
 r. 150 | Saleyard operator failing to apply NLIS post breeder tag to animal born at saleyard | 500
-r. 152(1) | Saleyard operator failing to record movement of consignment of sheep or goats to or from saleyard | 500
+r. 152(1) | Saleyard operator failing to record movement of consignment of animals to or from saleyard | 500
 r. 154(2) | Abattoir operator failing to comply with direction given by inspector | 500
 r. 161(2) | Export depot operator failing to comply with direction given by inspector | 500
 r. 165(1) | Owner of deer (other than imported deer or deer from pound) failing to identify it in accordance with regulations | 200
 r. 165(2) | Owner of imported deer failing to identify it in accordance with regulations | 200
 r. 165(3) | Owner of deer from pound failing to identify it in accordance with regulations | 200
-r. 170(1) | Owner of horse (other than imported horse or horse from pound) kept on property in south-west of State failing to identify it in accordance with regulations | 200
-r. 170(3) | Owner of imported horse failing to identify it in accordance with regulations | 200
-r. 170(4) | Owner of horse from pound failing to identify it in accordance with regulations | 200
-r. 178(1) | Owner of pig failing to identify it in accordance with regulations | 500
+r. 170(1) | Owner of horse or donkey kept on property in south-west of State failing to identify it in accordance with regulations | 200
+r. 170(2) | Owner of horse or donkey kept on property not in south-west of State failing to identify it in accordance with regulations | 200
+r. 170(3) | Owner of imported horse or donkey failing to identify it in accordance with regulations | 200
+r. 170(4) | Owner of horse or donkey from pound failing to identify it in accordance with regulations | 200
 r. 181(1) | Owner of South American camelid (other than imported South American camelid or South American camelid from pound) failing to identify it in accordance with regulations | 200
 r. 181(2) | Owner of imported South American camelid failing to identify it in accordance with regulations | 200
 r. 181(3) | Owner of South American camelid from pound failing to identify it in accordance with regulations | 200
@@ -170,6 +172,7 @@ r. 207 | Possessing unidentified hive | 200
 r. 208(1) | Beekeeper failing to display notice | 200
 r. 209(3) | Beekeeper failing to retain record of establishment, or removal, of apiary | 200
 r. 210(2) | Beekeeper failing to retain recording confirming registration of other person | 200
+[Division 4 amended: Gazette 27 Jun 2019 p. 2452.]
 ## Division 5 — Biosecurity and Agriculture Management (Quality Assurance and Accreditation) Regulations 2013
 Offences under Biosecurity and Agriculture Management (Quality Assurance and Accreditation) Regulations 2013 | Modified penalty $
 r. 15(3) | Failing to return accreditation document | 100
