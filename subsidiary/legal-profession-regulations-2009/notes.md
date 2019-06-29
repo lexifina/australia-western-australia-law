@@ -21,6 +21,7 @@ Legal Profession Amendment Regulations 2016 | 19 Jul 2016 p. 2959 | r. 1 and 2: 
 Reprint 2: The Legal Profession Regulations 2009 as at 3 Mar 2017 (includes amendments listed above)
 Legal Profession Amendment Regulations 2018 | 26 Oct 2018 p. 4247-51 | r. 1 and 2: 26 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2018 (see r. 2(b))
 Legal Profession Amendment Regulations 2019 | 21 May 2019 p. 1463-73 | r. 1 and 2: 21 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2019 (see r. 2(b))
+Legal Profession Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2479-83 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2019 (see r. 2(b))
 Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints At 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -29,7 +30,7 @@ Defined termProvision(s)
 2004 Rules113
 2008 Act113
 ALSWA97(1)
-amendment day124(1)
+amendment day124(1), 125(2)
 approved CPD arrangements12(1)
 associate44(1), 45(1), 50(3), 57(1)
 Australian law5(1)
@@ -46,13 +47,14 @@ employee5(1)
 employing authority12(1)
 employing entity97(1)
 entity3
-exempt practitioner83
+exempt practitioner83(1)
 existing notice of intention117(1)
 external administrator24(1)
 external intervener50(3)
+former regulation 97(1)(f)125(1)
 government agency5(1), 12(1)
-insurance year83
-Law Mutual Fund83
+insurance year83(1)
+Law Mutual Fund83(1)
 law practice53(1), 74(1)
 lay associate6(1)
 Legal Aid Commission 3
@@ -62,14 +64,15 @@ national insurance97(4)
 national law practice97(4)
 PCO CPD arrangements18A(1)
 PCO lawyer18A(1)
-PII arrangement83
+PII arrangement83(1)
 prescribed WA government lawyer14(5)
-professional indemnity insurance83
+professional indemnity insurance83(1)
 protected person23(7)
 QA provider12(1)
 relevant date79(3)
+relevant legal practice98(1), 99(1)
 relevant period120(1), 121
-renewal day83
+renewal day83(1)
 required experience7(1)
 required particulars41(5), 44(7), 45(6), 55(6), 57(5)
 sophisticated client61(1)
