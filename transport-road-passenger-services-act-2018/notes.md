@@ -2,13 +2,13 @@ Notes
 This is a compilation of the Transport (Road Passenger Services) Act 2018 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Transport (Road Passenger Services) Act 2018 | 26 of 2018 | 30 Oct 2018 | Pt. 1: 30 Oct 2018 (see s. 2(a)) Pt. 2, Pt. 3 (other than s. 27(1) and (2) and 28), Pt. 7 and 8, Pt. 9 Div. 1 (other than s. 230 and 236) and Div. 3, Pt. 10 and 11, Pt. 12 (other than Div. 3), Pt. 13, Pt 14 Div. 1 (other than s. 303) and Div. 2 (other than Subdiv. 1, 2, 3, 8 and 10 and s. 327(1)): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 27(1) and (2) and 28, Pt. 9 Div. 2 and Pt. 14 Div. 2 Subdiv. 8: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
+Transport (Road Passenger Services) Act 2018 | 26 of 2018 | 30 Oct 2018 | Pt. 1: 30 Oct 2018 (see s. 2(a)) Pt. 2, Pt. 3 (other than s. 27(1) and (2) and 28), Pt. 7 and 8, Pt. 9 Div. 1 (other than s. 230 and 236) and Div. 3, Pt. 10 and 11, Pt. 12 (other than Div. 3), Pt. 13, Pt 14 Div. 1 (other than s. 303) and Div. 2 (other than Subdiv. 1, 2, 3, 8 and 10 and s. 327(1)): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 27(1) and (2) and 28, Pt. 9 Div. 2 and Pt. 14 Div. 2 Subdiv. 8: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 230 and 236: 1 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Transport (Road Passenger Services) Amendment Act 2018 | 27 of 2018 | 30 Oct 2018 | s. 1 and 2: 30 Oct 2018 (see s. 2(a)); Act other than s. 1 and 2: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Transport (Road Passenger Services) Act 2018 Pt. 4-6, s. 230, 236, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1-3 and 10 and s. 327(1) | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 4-6, s. 230, 236, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1-3 and 10 and s. 327(1) had not come into operation. They read as follows:
+Transport (Road Passenger Services) Act 2018 Pt. 4-6, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1-3 and 10 and s. 327(1) | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 4-6, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1-3 and 10 and s. 327(1) had not come into operation. They read as follows:
 Part 4 — Regular passenger transport services
 Division 1 — Offences
 56.Provider of regular passenger transport service must be authorised
@@ -758,17 +758,6 @@ Subdivision 3 — Cancellation of authorisation on request
 (a) the owner of the vehicle; and
 (b) the holder of the passenger transport vehicle authorisation, if the holder is not the owner of the vehicle.
 (3) The cancellation of a passenger transport vehicle authorisation takes effect at the end of the relevant prescribed period specified in the notice.
-Part 9 — Voluntary buyback and adjustment assistance payment schemes and levy
-230.Requirement to grant buyback payment
-(1) The CEO must, by written notice, grant a buyback payment in relation to taxi plates if —
-(a) the applicant, or if a joint application, each applicant, is an eligible owner (buyback) of the taxi plates; and
-(b) no other buyback payment in relation to the taxi plates has been granted.
-(2) Any right of a person to ownership of taxi plates ceases to exist on the grant of the buyback payment in relation to the taxi plates.
-(3) If the right of a person to ownership of the taxi plates ceases to exist under this section, no compensation is payable by the State to any other person who has an interest in the taxi plates or the use of the taxi plates because the right of ownership of the taxi plates ceases to exist.
-236.Requirement to grant net loss payment
-The CEO must, by notice in writing, grant an application for a net loss payment in relation to taxi plates if —
-(a) the applicant, or if a joint application, each applicant, is an eligible former owner of the taxi plates; and
-(b) no other application for a net loss payment in relation to the taxi plates has been granted to the eligible former owner.
 Part 12 — Miscellaneous
 Division 3 — Review of Act
 291.Review of Act
