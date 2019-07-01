@@ -24,12 +24,12 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 222 | 25 of 2012 | 3
 Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above except those in the Commercial Arbitration Act 2012, Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
 Associations Incorporation Act 2015 s. 226 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Reprint 4: The Planning and Development Act 2005 as at 1 Apr 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
+Heritage Act 2018 s. 186 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Heritage Act 2018 s. 186 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 14 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 14 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Infrastructure Western Australia Act 2019 s. 76 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
@@ -190,56 +190,7 @@ On the date as at which this compilation was prepared, the Aquatic Resources Man
 Aquatic Resources Management Act 2016
 Table
 Planning and Development Act 2005 | Sch. 2 cl. 7(2)(e)
-On the date as at which this compilation was prepared, the Heritage Act 2018 s. 186 had not come into operation. It reads as follows:
-186.Planning and Development Act 2005 amended
-(1) This section amends the Planning and Development Act 2005.
-(2) In section 4(1):
-(a) in the definition of development paragraph (c) delete “Conservation Order made under section 59 of the Heritage of Western Australia Act 1990” and insert:
-protection order made under the Heritage Act 2018 Part 4 Division 1
-(b) in the definition of Heritage Council delete “under the Heritage of Western Australia Act 1990;” and insert:
-by the Heritage Act 2018;
-(3) In section 36(b):
-(a) delete “any Order made under section 59 of the Heritage of Western Australia Act 1990,” and insert:
-any protection order made under the Heritage Act 2018 Part 4 Division 1,
-(b) delete “section 60” and insert:
-section 62
-(4) In section 79 delete “the Register or on any inventory maintained under section 45 or 46 of the Heritage of Western Australia Act 1990” and insert:
-the register established and maintained under the Heritage Act 2018 section 35(1) or in any local heritage survey prepared under section 103(1) of that Act
-(5) In section 103(2)(d) delete “Heritage of Western Australia Act 1990” and insert:
-Heritage Act 2018
-(6) In section 112(4) delete “section 78 of the Heritage of Western Australia Act 1990.” and insert:
-the Heritage Act 2018 Part 5 Division 2.
-(7) In section 112(5) delete “Heritage of Western Australia Act 1990” and insert:
-Heritage Act 2018
-(8) In section 137(1) delete “to which section 78 of the Heritage of Western Australia Act 1990 applies.” and insert:
-included in a place of a kind mentioned in the Heritage Act 2018 section 72(1).
-(9) Delete section 137(2) and insert:
-(2) The Commission must not grant an application for its approval under section 135 or 136 in respect of land to which this section applies unless the requirements of the Heritage Act 2018 Part 5 Division 2 have been observed.
-(10) In section 137(3):
-(a) delete “section 78(2)(a) of the Heritage of Western Australia Act 1990” and insert:
-the Heritage Act 2018 section 76(3)
-(b) in paragraph (a) delete “section 78 of the Heritage of Western Australia Act 1990; or” and insert:
-the Heritage Act 2018 section 76(3); or
-(c) in paragraph (b) delete “section 78(2)(b) and (c) of the Heritage of Western Australia Act 1990.” and insert:
-the Heritage Act 2018 section 76(6).
-(11) Delete section 137(4).
-(12) Delete section 163 and insert:
-163.Application for development of heritage place
-An application for approval of development must, if the application is a proposal to which the Heritage Act 2018 section 73(1) applies, be made —
-(a) in the case of an application under a local planning scheme or local interim development order, to the responsible authority; and
-(b) in any other case, to the Commission.
-(13) In section 241(2):
-(a) delete “Heritage of Western Australia Act 1990” and insert:
-Heritage Act 2018
-(b) in paragraph (d) delete “Heritage of Western Australia Act 1990.” and insert:
-Heritage Act 2018.
-(14) In section 245(5)(b) delete “land or water to which an entry in the Register maintained under section 46 of the Heritage of Western Australia Act 1990 relates,” and insert:
-land included in a place of a kind mentioned in the Heritage Act 2018 section 72(1),
-(15) In section 246(3)(a) delete “Heritage of Western Australia Act 1990; or” and insert:
-Heritage Act 2018; or
-(16) Delete section 249(2)(c) and insert:
-(c) an order made under the Heritage Act 2018 Part 4 or Part 11 Division 4.
-(17) Delete section 250(2).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Strata Titles Amendment 2018 Pt. 3 Div. 14 had not come into operation. It reads as follows:
 Part 3 — Other Acts amended
 Division 14 — Planning and Development Act 2005 amended

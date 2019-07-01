@@ -55,6 +55,7 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 3 Div. 17 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 20 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Liquor Control Amendment Act 2018 (other than s. 17, 18, 36, 45, 53, 62(1) and (3)) | 9 of 2018 | 13 Jul 2018 | s. 1 and 2: 13 Jul 2018 (see s. 2(a)); s. 3, 4, 6, 7, 9, 11, 13-16, 19, 23, 24, 27-31, 33, 34, 37, 40-44, 47-52, 54, 55, 57-59, 61 and 64-70: 18 Aug 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2893); s. 5, 8, 10, 12, 20-22, 25, 26, 32, 35, 38, 39, 46, 56, 60, 62(2) and 63: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3779)
+Heritage Act 2018 s. 185 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
  | Short title | Number and year | Assent | Commencement
@@ -62,7 +63,6 @@ Provisions that have not come into operation
  | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Liquor Control Amendment Act 2018 s. 17, 18, 36, 45, 53, 62(1) and (3) | 9 of 2018 | 13 Jul 2018 | To be proclaimed (see s. 2(b))
-Heritage Act 2018 s. 185 | 22 of 2018 | 18 Sep 2018 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Footnote no longer applicable.
 Repealed by the Public Sector Management Act 1994.
@@ -270,11 +270,6 @@ Penalty for this subsection: a fine of $10 000.
 seizable quantity, for a kind of liquor, means the quantity representing the difference between the total quantity of that kind of liquor involved in the contravention and the quantity prescribed for that kind of liquor under section 109A(2).
 (3) In section 155(9) after “subsection” (2nd occurrence) insert:
 (5A),
-On the date as at which this compilation was prepared, the Heritage Act 2018 s. 185 had not come into operation. It reads as follows:
-185.Liquor Control Act 1988 amended
-(1) This section amends the Liquor Control Act 1988.
-(2) In section 77(5a)(a) delete “Register of Heritage Places compiled under the Heritage of Western Australia Act 1990; or” and insert:
-State Register of Heritage Places established and maintained under the Heritage Act 2018; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
