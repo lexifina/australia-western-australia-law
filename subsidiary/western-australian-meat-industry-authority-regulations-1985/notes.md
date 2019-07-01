@@ -45,44 +45,9 @@ Western Australian Meat Industry Authority Amendment Regulations 2017 | 27 Oct 2
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2859-62 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2018 | 13 Nov 2018 p. 4436-7 | r. 1 and 2: 13 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2018 (see r. 2(b))
 Reprint 5: The Western Australian Meat Industry Authority Regulations 1985 as at 18 Jan 2019 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Western Australian Meat Industry Authority Amendment Regulations 2019 r. 3-6 | 14 Jun 2019 p. 1881-3 | 1 Jul 2019 (see r. 2(b))
+Western Australian Meat Industry Authority Amendment Regulations 2019 | 14 Jun 2019 p. 1881-3 | r. 1 and 2: 14 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
+Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2474-7 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b)(i))
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
-On the date as at which this compilation was prepared, the Western Australian Meat Industry Authority Amendment Regulations 2019 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Western Australian Meat Industry Authority Regulations 1985.
-4.Regulation 3 amended
-In regulation 3(1) delete the definition of lamb and insert:
-lamb means a sheep that —
-(a)is under 12 months old; or
-(b)does not have any permanent incisor teeth in wear;
-5.Regulation 11 amended
-(1) Delete regulation 11(1) and insert:
-(1) The prescribed characteristics of a carcase that is to be branded as lamb are that the carcase is of a sheep that —
-(a) is under 12 months old; or
-(b) does not have any permanent incisor teeth in wear.
-(2) Delete regulation 11(5)(a) and insert:
-(a) that the carcase is of a sheep that —
-(i) is under 12 months old; or
-(ii) does not have any permanent incisor teeth in wear;
-and
-6.Regulation 13 amended
-(1) Delete regulation 13(1) and insert:
-(1) The prescribed characteristics of a carcase that is to be branded as hogget are that the carcase —
-(a) either —
-(i) is of a female sheep that has 1 but no more than 2 permanent incisor teeth in wear; or
-(ii) is of a castrate male sheep that —
-(I) has 1 but no more than 2 permanent incisor teeth in wear; and
-(II) shows no evidence of secondary sexual characteristics;
-and
-(b) is of fat class 2, 3 or 4 determined in accordance with subregulation (3)(b).
-(2) Delete regulation 13(3)(a) and insert:
-(a) by or under the supervision of an inspector, the carcase has been —
-(i) mouthed; and
-(ii) if it is the carcase of a castrate male sheep, inspected for evidence of secondary sexual characteristics;
-and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -111,4 +76,4 @@ permit holder25, 33N(1)
 sign25
 stand25
 stock agent3(1), 25
-throughput feeSch. 6
+throughput feeSch. 6 cl. 1
