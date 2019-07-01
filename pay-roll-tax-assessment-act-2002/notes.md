@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1a, 1M, 1MC. The table also contains information about any reprint.
+This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Act 2002 | 48 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see. s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -24,13 +24,18 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 27 | 26 of 2016 | 21 
 Pay-roll Tax Assessment Amendment (Debt and Deficit Remediation) Act 2017 | 20 of 2017 | 13 Dec 2017 | s. 1 and 2: 13 Dec 2017 (see s. 2(a)); Act other than s. 1 and 2: 14 Dec 2017 (see s. 2(b))
 Pay-roll Tax Assessment Amendment (Exemption for Trainees) Act 2018 | 7 of 2018 | 18 May 2018 | Act other than s. 1 and 2: 1 Dec 2017 (see s. 2(b)); s. 1 and 2: 18 May 2018 (see s. 2(a))
 Reprint 4: The Pay-roll Tax Assessment Act 2002 as at 16 Nov 2018 (includes amendments listed above)
+Pay-roll Tax Assessment Amendment Act 2019 | 10 of 2019 | 12 Jun 2019 | s. 1 and 2: 12 Jun 2019 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2019 (see s. 2(b))
 Revenue Laws Amendment Act 2019 Pt. 4 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(e))
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Pay-roll Tax Assessment Amendment Act 2019 s. 3-7 | 10 of 2019 | 12 Jun 2019 | 1 Jul 2019 (see s. 2(b))
+Pay-roll Tax Assessment Amendment (Thresholds) Act 2020 | 6 of 2020 | 6 Apr 2020 | Act other than s. 1 and 2: 1 Jul 2019 (see s. 2(b)); s. 1 and 2: 6 Apr 2020 (see s. 2(a))
+Other notes
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 5 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1M appearing after the provision number.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth) Pt. 5 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5.
 Renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Commonwealth).
@@ -41,53 +46,6 @@ The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) and 15(7) read as follo
 15.Section 29 amended and transitional provision
 ...
 (7) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
-On the date as at which this compilation was prepared, the Pay-roll Tax Assessment Amendment Act 2019 s. 3-7 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Pay-roll Tax Assessment Act 2002.
-4.Section 41D amended
-(1) In section 41D(1) delete the definitions of:
-group member
-initial employer
-nominal period
-(2) Delete section 41D(3) to (6) and insert:
-(3) An exemption under subsection (2) does not apply to wages paid or payable to or in relation to an employee under a registered training contract that is suspended under the VET Act for the period of the suspension.
-Note:The heading to amended section 41D is to read:
-Exempt wages: apprentices under training contracts
-5.Schedule 1 clause 15 amended
-(1) In Schedule 1 clause 15 delete the definitions of:
-apprentice
-existing training contract
-(2) In Schedule 1 clause 15 in the definition of commencement day delete “operation;” and insert:
-operation.
-Note:The heading to amended Schedule 1 clause 15 is to read:
-Term used: commencement day
-6.Schedule 1 clause 16 deleted
-Delete Schedule 1 clause 16.
-7.Schedule 1 Division 7 inserted
-At the end of Schedule 1 insert:
-Division 7 — Provisions for the Pay-roll Tax Assessment Amendment Act 2019
-18.Terms used
-In this Division —
-apprentice has the meaning given in the VET Act section 60A;
-commencement day means the day on which the Pay-roll Tax Assessment Amendment Act 2019 section 4 comes into operation;
-former section 41D means section 41D as in force immediately before commencement day;
-VET Act means the Vocational Education and Training Act 1996.
-19.Application of amendments made by Pay-roll Tax Assessment Amendment Act 2019
-The amendments made by the Pay-roll Tax Assessment Amendment Act 2019 apply in relation to wages paid or payable on or after commencement day.
-20.Exemption for wages paid or payable: training contracts lodged for registration before 1 December 2017
-(1) This clause applies to a training contract (the pre-1 December 2017 training contract) if —
-(a) in accordance with a requirement imposed under the VET Act section 60C(5), an apprentice under the training contract is referred to as a “trainee”; and
-(b) the training contract was lodged for registration under the VET Act section 60F(2) before 1 December 2017.
-(2) Despite the amendments made by the Pay-roll Tax Assessment Amendment Act 2019 section 4, wages paid or payable by an employer to or in relation to an employee are exempt from pay-roll tax if —
-(a) the wages are paid or payable for a period during which the employee is an apprentice under the pre-1 December 2017 training contract; and
-(b) the wages would have been exempt from pay-roll tax under former section 41D, as modified by Schedule 1 clause 16 (as that clause was in force immediately before commencement day).
-21.Exemption for wages paid or payable: training contracts lodged for registration between 1 December 2017 and 30 June 2019
-(1) This clause applies to a training contract (the pre-1 July 2019 training contract) if —
-(a) in accordance with a requirement imposed under the VET Act section 60C(5), an apprentice under the training contract is referred to as a “trainee”; and
-(b) the training contract was lodged for registration under the VET Act section 60F(2) during the period beginning on 1 December 2017 and ending immediately before commencement day.
-(2) Despite the amendments made by the Pay-roll Tax Assessment Amendment Act 2019 section 4, wages paid or payable by an employer to or in relation to an employee are exempt from pay-roll tax if —
-(a) the wages are paid or payable for a period during which the employee is an apprentice under the pre-1 July 2019 training contract; and
-(b) the wages would have been exempt from pay-roll tax under former section 41D.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -98,7 +56,7 @@ adoption leave41A(1)
 agentGl.
 aggregate interest35D(1)
 annual threshold amountGl.
-apprentice41D(1), Sch. 1 cl. 15
+apprentice41D(1), Sch. 1 cl. 18
 assessment amendmentsSch. 1 cl. 8(1)
 assessment yearGl.
 associated person35A(1)
@@ -108,14 +66,14 @@ Australian taxable wagesGl.
 businessGl.
 charitable body or organisationGl.
 class A or class B qualification41D(1)
-commencement daySch. 1 cl. 10 and 15
+commencement daySch. 1 cl. 10, 15 and 18
 Commonwealth income tax provisions9DD(1)
 companyGl.
 controlling interestGl.
 corporationGl.
 Corporations ActGl.
 corresponding lawGl.
-decision42B(1)(a)
+decision42B(1)
 defined benefit fundGl.
 defined superannuation benefitGl.
 designated group employerGl.
@@ -133,19 +91,20 @@ employment termination payment9EA(2)
 entity35A(1)
 exemptGl.
 exemptionSch. 1 cl. 10
-existing training contractSch. 1 cl. 15
 expected pay-roll tax liability28A(3), 29(1b)
 FBT yearGl.
 FBTA ActGl.
+first half-year portion23G(3)
+first return period portion23I(3)
+former section 41DSch. 1 cl. 18
 fringe benefitGl.
 groupGl.
-group member41D(1)
 GSTGl.
+half-yearGl.
 indirect interest35C(1)
 indirectly controlled corporation35C(3)
 individual superannuation guarantee shortfallGl.
 industrial associationGl.
-initial employer41D(1)
 instrument6D(1)
 interstate non-group employerGl.
 interstate taxable wagesGl.
@@ -158,7 +117,6 @@ motor vehicle allowanceGl.
 new employee41C(1) and (4)
 new provisionsSch. 1 cl. 10
 new section 9DASch. 1 cl. 8(1)
-nominal period41D(1)
 nominated deductionGl.
 non-group employerGl.
 non-profit organisationGl.
@@ -167,14 +125,16 @@ old section 9DASch. 1 cl. 8(1)
 optionGl.
 paidGl.
 parental leave41A(1)
-part-year10(3), 13(4), 23C(1)(b)
+part-year10(3), 13(4), 23C(1), 23G(1), 23H(1)
 payGl.
 payableGl.
 pay-roll taxGl.
 pay-roll tax ActGl.
 pay-roll tax rateGl.
-period or part-period11(1)
+period or part-period11(1), 23I(1)
 political partyGl.
+pre-1 December 2017 training contractSch. 1 cl. 20(1)
+pre-1 July 2019 training contractSch. 1 cl. 21(1)
 preliminary notice about an exemption under section 41Sch. 1 cl. 11(1)
 previously exempt charitable body or organisationSch. 1 cl. 10
 private company35A(1)
@@ -188,15 +148,23 @@ registered business addressGl.
 registered training contract41D(1)
 related body corporateGl.
 related person35A(1)
+relevant amount23L(1)
 relevant bodySch. 1 cl. 13(1), Gl.
 relevant day9DA(4), Sch. 1 cl. 8(1)
+relevant liability provisions23K(1)
+relevant part-year liability provisions23D(2)
+relevant return period liability provisions23D(3)
+relevant whole year liability provisions23D(1)
 remote locationGl.
 returnGl.
 return periodGl.
+return period portion23J(1)
+second half-year portion23G(3)
+second return period portion23I(3)
 shareGl.
 sliding scale periodGl.
 smaller groupGl.
-specified daySch. 1 cl. 11(1)(c)
+specified daySch. 1 cl. 11(1)
 specified exempt allowanceGl.
 specified taxable benefitGl.
 StateGl.
@@ -208,14 +176,15 @@ taxes42(2), 43(11), Gl.
 tax-reducing arrangementGl.
 termination payment9EA(2)
 TerritoryGl.
+threshold amountGl.
 training contract41D(1)
 trusteeGl.
 unused annual leave payment9EA(2)
 unused long service leave payment9EA(2)
 upper threshold amountGl.
 valueGl.
-vesting day9DB(2) and (3)
-VET Act41D(1)
+vesting day9DB(2), 9DB(3)
+VET Act41D(1), Sch. 1 cl. 18
 voting shareGl.
 WA fringe benefitsGl.
 WA taxable wages5(2), Gl.
