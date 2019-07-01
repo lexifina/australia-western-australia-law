@@ -27,6 +27,7 @@ Child Protection Regulations Amendment (Fees and Payments) Regulations 2017 Pt. 
 Working with Children (Criminal Record Checking) Amendment Regulations 2017 | 3 Oct 2017 p. 5036 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Oct 2017 (see r. 2(b))
 Reprint 4: The Working with Children (Criminal Record Checking) Regulations 2005 as at 19 Jan 2018 (includes amendments listed above)
 Child Protection Regulations Amendment (Fees) Regulations 2018 Pt. 3 | 22 Jun 2018 p. 2177-8 | 1 Jul 2018 (see r. 2(b))
+Child Protection Regulations Amendment (Fees and Payments) Regulations 2019 Pt. 4 | 28 Jun 2019 p. 2477-9 | 1 Jul 2019 (see r. 2(b))
 Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Community Services Act 1972, Community Services (Child Care) Regulations 1988 and Community Services (Outside School Hours Care) Regulations 2002 were repealed by the Children and Community Services Act 2004 s. 250.
 Formerly referred to the Children and Community Services (Child Care) Regulations 2006, the citation of which was changed to the Child Care Services (Child Care) Regulations 2006 by the Children and Community Services (Child Care) Amendment Regulations 2007 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).

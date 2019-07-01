@@ -20,6 +20,7 @@ Child Protection Regulations Amendment Regulations 2016 Pt. 2 | 24 Jun 2016 p. 2
 Reprint 3: The Adoption Regulations 1995 as at 15 Jul 2016 (includes amendments listed above)
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2017 Pt. 2 | 23 Jun 2017 p. 3174-5 | 1 Jul 2017 (see r. 2(b))
 Child Protection Regulations Amendment (Fees) Regulations 2018 Pt. 2 | 22 Jun 2018 p. 2177-8 | 1 Jul 2018 (see r. 2(b))
+Child Protection Regulations Amendment (Fees and Payments) Regulations 2019 Pt. 2 | 28 Jun 2019 p. 2477-9 | 1 Jul 2019 (see r. 2(b))
 Repealed by the Adoption Act 1994.
 Repealed by the Adoption Rules 1995.
 Defined terms
