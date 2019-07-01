@@ -96,53 +96,9 @@ Police Regulations Amendment (Captive Bolt Guns) Regulations 2016 Pt. 2 | 29 Nov
 Firearms Amendment Regulations 2017 | 3 Feb 2017 p. 1113-14 | r. 1 and 2: 3 Feb 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Feb 2017 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 27 Jun 2017 p. 3440-8 | 1 Jul 2017 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 26 Jun 2018 p. 2392-400 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 21 Jun 2019 p. 2141-50 | 1 Jul 2019 (see r. 2(b))
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
-On the date as at which this compilation was prepared, the Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 had not come into operation. They read as follows:
-Part 2 — Firearms Regulations 1974 amended
-3.Regulations amended
-This Part amends the Firearms Regulations 1974.
-4.Schedule 1A replaced
-Delete Schedule 1A and insert:
-Schedule 1A — Fees
-[r. 2]
-Item | Fee for | Fee $
-1. | Application for firearm licence (r. 3A, 3B) —
- | (a)by person without such a licence | 268
- | (b)by person renewing such a licence | 56
- | (c)by person with such a licence wanting licence for 1 or more additional firearms | 188
-2. | Application for firearm collector’s licence (r. 3A, 3B) —
- | (a)by person without such a licence | 346
- | (b)by person renewing such a licence | 62
- | (c)by person with such a licence wanting licence for 1 or more additional firearms | 199
-3. | Application for corporate licence (r. 3A, 3B) —
- | (a)by person without such a licence | 442
- | (b)by person renewing such a licence | 128
- | (c)by person with such a licence wanting licence for 1 or more additional firearms | 199
-4. | Application for dealer’s licence (r. 3A, 3B) —
- | (a)by person without such a licence | 455
- | (b)by person renewing such a licence | 118
-5. | Application for repairer’s licence (r. 3A, 3B) —
- | (a)by person without such a licence | 455
- | (b)by person renewing such a licence | 92
-6. | Application for manufacturer’s licence (r. 3A, 3B) —
- | (a)by person without such a licence | 455
- | (b)by person renewing such a licence | 92
-7. | Application for shooting gallery licence (r. 3A, 3B) —
- | (a)by person without such a licence | 317
- | (b)by person renewing such a licence | 97
-8. | Application for ammunition collector’s licence (r. 3A, 3B) —
- | (a)by person without such a licence | 317
- | (b)by person renewing such a licence | 64
-9. | Application for permit under s. 17 of the Act, per month or part of a month for which permit issued | 61
-10. | Extract of licence (r. 7A) | 20
-11. | Duplicate of licence (r. 8) | 34
-12. | Replacement for an extract of licence (r. 8) | 20
-13. | Police custody of firearm, per year or part of year (r. 11) | 162
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

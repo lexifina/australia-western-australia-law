@@ -48,38 +48,8 @@ Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10
 Police Regulations Amendment (Poisons) Regulations 2016 Pt. 4 | 17 Jan 2017 p. 412-17 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 27 Jun 2017 p. 3440-8 | 1 Jul 2017 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 26 Jun 2018 p. 2392-400 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 21 Jun 2019 p. 2141-50 | 1 Jul 2019 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 had not come into operation. It reads as follows:
-Part 5 — Security and Related Activities (Control) Regulations 1997 amended
-11.Regulations amended
-This Part amends the Security and Related Activities (Control) Regulations 1997.
-12.Schedule 4 replaced
-Delete Schedule 4 and insert:
-Schedule 4 — Fees
-[r. 54]
-Provision of Act or regulations Column 1 | Subject matter Column 2 | Fee $ Column 3
-Agent’s licences
-s. 46(1)(c) | Application for issue of agent’s licence — for 1 year or less for more than 1 year but not more than 3 years | 1 192 1 201
-s. 46(1)(c) | Application by licensee for additional agent’s licence (each licence) | 781
-s. 49(1)(c) | Application for renewal of agent’s licence — for 3 years (each licence) | 843
-s. 46(1)(c) | Application for issue of temporary licence under s. 42B | 1 192
-Other licences, endorsements and permits
-s. 46(1)(c) | Application for issue of licence (other than agent’s licence or temporary licence) — for 1 year or less for more than 1 year but not more than 3 years | 324 333
-s. 46(1)(c) | Application by licensee for additional licence (other than agent’s licence or temporary licence) (each licence) | 195
-s. 49(1)(c) | Application for renewal of licence (other than agent’s licence or temporary licence) — for 3 years or less (each licence) | 208
-r. 10(b) | Application for endorsement under s. 24 | 177
-r. 12 | Application for permit under s. 25 | 211
-r. 13(b) | Application for endorsement under s. 26 | 177
-s. 46(1)(c) | Application for issue of temporary licence under s. 42A | 324
-Miscellaneous
-s. 10(2) | Application to inspect register | 42
-s. 10(3) | Certified copy of register entry | 44
-s. 66 | Issue of duplicate licence or duplicate identity card | 31
-s. 94(4)(b) | Additional fee if fingerprints and palm prints are required under s. 48(1)(a) or (b)(i) | 111
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

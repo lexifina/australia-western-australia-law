@@ -39,55 +39,8 @@ Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 14 Jun 
 Reprint 5: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 18 Nov 2016 (includes amendments listed above)
 Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 27 Jun 2017 p. 3440-8 | 1 Jul 2017 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 26 Jun 2018 p. 2392-400 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 21 Jun 2019 p. 2141-50 | 1 Jul 2019 (see r. 2(b))
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Pawnbrokers and Second-hand Dealers Regulations 1996 amended
-5.Regulations amended
-This Part amends the Pawnbrokers and Second-hand Dealers Regulations 1996.
-6.Regulation 28 amended
-In regulation 28 delete the Table and insert:
-Table — Fees for application for licences
-Item | Licence | For period not exceeding 1 year $ | For period not exceeding 2 years but longer than 1 year $ | For period not exceeding 3 years but longer than 2 years $
-1. | Pawnbroker’s licence only
-(a) | 150 or more transactions in a year | 4 137 | 5 035 | 5 915
-(b) | 50-149 transactions in a year | 2 068 | 2 517 | 2 957
-(c) | 0-49 transactions in a year | 1 034 | 1 258 | 1 478
-2. | Second-hand dealer’s licence only (computer option)
-(a) | 150 or more transactions in a year | 4 137 | 5 035 | 5 915
-(b) | 50-149 transactions in a year | 2 068 | 2 517 | 2 957
-(c) | 0-49 transactions in a year | 1 034 | 1 258 | 1 478
-3. | Second-hand dealer’s licence only (facsimile option)
-(a) | 150 or more transactions in a year | 4 261 | 5 277 | 6 279
-(b) | 50-149 transactions in a year | 2 130 | 2 638 | 3 139
-(c) | 0-49 transactions in a year | 1 065 | 1 319 | 1 569
-4. | Pawnbroker’s licence and second-hand dealer’s licence
-(a) | 150 or more transactions in a year | 4 145 | 5 046 | 5 929
-(b) | 50-149 transactions in a year | 2 072 | 2 522 | 2 964
-(c) | 0-49 transactions in a year | 1 036 | 1 261 | 1 482
-7.Regulation 29 amended
-In regulation 29 delete the Table and insert:
-Table — Fees for renewal of licences
-Item | Licence | For period not exceeding 1 year $ | For period not exceeding 2 years but longer than 1 year $ | For period not exceeding 3 years but longer than 2 years $
-1. | Pawnbroker’s licence only
-(a) | 150 or more transactions in a year | 4 088 | 4 964 | 5 824
-(b) | 50-149 transactions in a year | 2 044 | 2 482 | 2 912
-(c) | 0-49 transactions in a year | 1 022 | 1 241 | 1 456
-2. | Second-hand dealer’s licence only (computer option)
-(a) | 150 or more transactions in a year | 4 088 | 4 964 | 5 824
-(b) | 50-149 transactions in a year | 2 044 | 2 482 | 2 912
-(c) | 0-49 transactions in a year | 1 022 | 1 241 | 1 456
-3. | Second-hand dealer’s licence only (facsimile option)
-(a) | 150 or more transactions in a year | 4 211 | 5 207 | 6 187
-(b) | 50-149 transactions in a year | 2 105 | 2 603 | 3 093
-(c) | 0-49 transactions in a year | 1 052 | 1 301 | 1 546
-4. | Pawnbroker’s licence and second-hand dealer’s licence
-(a) | 150 or more transactions in a year | 4 095 | 4 975 | 5 838
-(b) | 50-149 transactions in a year | 2 047 | 2 487 | 2 918
-(c) | 0-49 transactions in a year | 1 023 | 1 243 | 1 459
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
