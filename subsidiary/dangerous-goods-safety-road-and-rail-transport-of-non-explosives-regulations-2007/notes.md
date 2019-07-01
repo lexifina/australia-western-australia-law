@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6893-7056 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2008 | 30 Jun 2008 p. 3129-30 | r. 1 and 2: 30 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2008 | 23 Jan 2009 p. 157 | r. 1 and 2: 23 Jan 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2009 (see r. 2(b))
@@ -22,34 +22,13 @@ Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt.
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2017 | 11 Jul 2017 p. 3820-33 | r. 1 and 2: 11 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
-Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 (other than r. 10) | 31 Aug 2018 p. 3043-7 | r. 1 and 2: 31 Aug 2018 (see r. 2(a)); Regulations other than r. 1 , 2 and 10: 1 Sep 2018 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 r. 10 | 31 Aug 2018 p. 3043-7 | 1 Jul 2019 (see r. 2(b))
+Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 | 31 Aug 2018 p. 3043-7 | r. 1 and 2: 31 Aug 2018 (see r. 2(a)); Regulations other than r. 1 , 2 and 10: 1 Sep 2018 (see r. 2(c)); r. 10: 1 Jul 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 3 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+Other notes
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed, before the amendments came into operation, by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
-On the date as at which this compilation was prepared, the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2018 r. 10 had not come into operation. It reads as follows:
-10.Section 109A inserted
-After section 109 insert:
-109A.Further duties if dangerous goods transported in portable tank or by tank vehicle
-(1) A person must not consign dangerous goods for transport in a portable tank, or by a tank vehicle, if a sign, writing or other information affixed to the portable tank or tank vehicle is false or misleading in a material particular about the contents of the portable tank or tank vehicle.
-Penalty for this subregulation: a fine of $5 000.
-(2) A prime contractor must not transport dangerous goods in a portable tank, or by a tank vehicle, if the prime contractor knows, or ought reasonably to know, that a sign, writing or other information affixed to the portable tank or tank vehicle is false or misleading in a material particular about the contents of the portable tank or tank vehicle.
-Penalty for this subregulation: a fine of $5 000.
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 amended
-10.Regulations amended
-This Part amends the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007.
-11.Regulation 272 amended
-In regulation 272 in the Table:
-(a) in item 1 delete “280.00” and insert:
-294.00
-(b) in item 2(a) delete “22.50” and insert:
-23.50
-(c) in item 2(b) delete “141.00” and insert:
-148.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
