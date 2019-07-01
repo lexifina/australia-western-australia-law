@@ -26,20 +26,7 @@ Reprint 2: The Radiation Safety (Qualifications) Regulations 1980 as at 6 Feb 20
 Radiation Safety (Qualifications) Amendment Regulations 2015 | 19 May 2015 p. 1753-4 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 7 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 had not come into operation. It reads as follows:
-Part 10 — Radiation Safety (Qualifications) Regulations 1980 amended
-20.Regulations amended
-This Part amends the Radiation Safety (Qualifications) Regulations 1980.
-21.Schedule 2 amended
-In Schedule 2:
-(a) in item 1(c) delete “700.00” and insert:
-770.00
-(b) in item 2 delete “40.00” and insert:
-44.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

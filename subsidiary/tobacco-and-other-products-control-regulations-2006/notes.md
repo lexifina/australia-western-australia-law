@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Tobacco Products Control Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Tobacco Products Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Gazettal | Commencement
 Tobacco Products Control Regulations 2006 | 25 Jul 2006 p. 2797-808 | 31 Jul 2006 (see r. 2)
@@ -25,41 +25,11 @@ Health Regulations Amendment (Public Health) Regulations 2016 Pt. 34 | 10 Jan 20
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Reprint 3: The Tobacco Products Control Regulations 2006 as at 13 Oct 2017 (includes amendments listed above)
 Tobacco Products Control Amendment Regulations 2019(other than r. 16(1)) | 12 Mar 2019 p. 657-665 | r. 1 and 2: 12 Mar 2019 (see r. 2(a)); r. 3-15, 16(2)-(5) and 17: 18 Mar 2019 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Tobacco Products Control Amendment Regulations 2019r. 16(1). | 12 Mar 2019 p. 657-665 | 18 Sep 2020 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Tobacco Products Control Amendment Regulations 2019 r. 16(1) had not come into operation. It reads as follows:
-16.Schedule 4 amended
-(1) In Schedule 4 after the item for section 18 insert:
-s. 18A | 1 000
-On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 had not come into operation. It reads as follows:
-Part 11 — Tobacco Products Control Regulations 2006 amended
-22.Regulations amended
-This Part amends the Tobacco Products Control Regulations 2006.
-23.Regulation 25 amended
-(1) In regulation 25(1):
-(a) in paragraph (a) delete “$71.00” and insert:
-$72.00
-(b) in paragraph (b) delete “$71.00” and insert:
-$74.00
-(c) in paragraph (c) delete “$177.00” and insert:
-$180.00
-(2) In regulation 25(2):
-(a) in paragraph (a) delete “$212.00” and insert:
-$214.00
-(b) in paragraph (b) delete “$212.00” and insert:
-$215.00
-(c) in paragraph (c) delete “$530.00” and insert:
-$535.00
-24.Regulation 26 amended
-In regulation 26:
-(a) in paragraph (a) delete “$241.00” and insert:
-$245.00
-(b) in paragraph (c) delete “$600.00” and insert:
-$605.00
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Gazettal | Commencement
+Tobacco Products Control Amendment Regulations 2019 r. 16(1) | 12 Mar 2019 p. 657-665 | 18 Sep 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

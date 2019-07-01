@@ -14,25 +14,9 @@ Hospitals Regulations Amendment (Licensing and Conduct Fees) Regulations 2016 Pt
 Reprint 2: The Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987 as at 12 May 2017 (includes amendments listed above)
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Formerly referred to the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261.
 Repealed by the National Health and Medical Research Council Act 1992 s. 54 (No. 225 of 1992) of the Commonwealth.
-On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987 amended
-11.Regulations amended
-This Part amends the Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987.
-12.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Fees
-[r. 4 and 5]
-Item | Description | Fee ($)
-1. | Grant of licence (r. 4(1)) |  | 1 360
-2. | Renewal of licence (r. 4(3)) | Number of persons licensed to be accommodated — Fewer than 25 ……. 25-100 …………… 101-200 ………….. more than 201 …… | 1 350 1 400 1 625 2 225
-3. | Replacement licence (r. 4(6)) |  | 355
-4. | Approval of premises as a private hospital (r. 5) | Number of persons licensed to be accommodated — Fewer than 25 ……. 25-100 …………… 101-200 ………….. more than 201 …… | 7 600 8 750 11 750 14 750
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

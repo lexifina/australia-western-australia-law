@@ -61,82 +61,12 @@ Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 30 Jun 
 Reprint 4: The Radiation Safety (General) Regulations 1983 as at 4 Aug 2017 (includes amendments listed above)
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2018 | 16 Oct 2018 p. 4094 | r. 1 and 2: 16 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
 The Radiation Safety (General) Amendment Regulations (No. 2) 1999 r. 8(2) and (3) are transitional provisions that are of no further effect.
 The Radiation Safety (General) Amendment Regulations 2001 r. 4(3) reads as follows:
 (3) Until the council approves a dental ancillary qualification under regulation 38(1)(c) and (d) of the Radiation Safety (General) Regulations 1983 as amended by this regulation, all dental ancillary qualifications are taken to be approved dental ancillary qualifications for the purposes of that regulation.
-On the date as at which this compilation was prepared, the Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — Radiation Safety (General) Regulations 1983 amended
-17.Regulations amended
-This Part amends the Radiation Safety (General) Regulations 1983.
-18.Regulation 58 amended
-(1) In regulation 58(2)(a) delete “(1) or (1aa); or” and insert:
-(1), (1aa) or (1a); or
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 58(1) | item 1 of Part 1 of Schedule XV | Schedule XV Division 1 item 1
-r. 58(1aa) | item 1A of Part 1 of Schedule XV | Schedule XV Division 1 item 2
-r. 58(1a) | item 2 of Part 1 of Schedule XV | Schedule XV Division 1 item 3
-r. 58(2) | item 3 of Part 1 of Schedule XV | Schedule XV Division 1 item 4
-r. 58(3) | item 4 of Part 1 of Schedule XV | Schedule XV Division 1 item 5
-r. 58(4) | item 1 of Part 3 of Schedule XV | Schedule XV Division 3 item 1
-r. 58(5a) | Schedule XV, Part 1 (each occurrence) | Schedule XV Division 1
-r. 58(7) | Schedule XV, Part 2 item 1 | Schedule XV Division 2 item 1
-r. 58(7a) | item 1A of Part 2 of Schedule XV | Schedule XV Division 2 item 2
-r. 58(8) | Schedule XV, Part 2, item 2 | Schedule XV Division 2 item 3
-r. 58(9) | Schedule XV Part 2, item 3 | Schedule XV Division 2 item 4
-19.Schedule XV replaced
-Delete Schedule XV and insert:
-Schedule XV — Fees
-[r. 58]
-Division 1 — Registration and licences
- | $
- | Annual | Triennial
-1.Fee for registration or renewal of registration of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)), for the manufacture, use or storage of radioactive substances
-Maximum quantity:
-40 gigabecquerels | 200 | 400
-400 gigabecquerels | 400 | 800
-4 terabecquerels | 800 | 1 600
-Exceeding 4 terabecquerels | 1 250 | 2 500
-2.Fee for registration or renewal of registration of premises used solely for the mining and milling of radioactive ores (including mineral sands) | 200 | 400
-3.Fee for registration or renewal of registration of premises for the sale or service of radioactive substances, irradiating apparatus or electronic products | 200 | 400
-4.Fee for registration or renewal of registration of premises (other than premises referred to in items 1 to 3), irradiating apparatus or electronic products
-In the case of —
-(a)not more than 2 irradiating apparatus and/or electronic products | 200 | 400
-(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 400 | 800
-(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 800 | 1 600
-(d)more than 10 irradiating apparatus and/or electronic products | 1 250 | 2 500
-5.Licence fee
-In the case of —
-(a)irradiating apparatus and/or electronic products | 80 | 160
-(b)radioactive substances | 80 | 160
-Division 2 — Temporary permits
-Fee for temporary permits for periods not exceeding 3 months.
- | $
-1.In respect of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)) and radioactive substances
-Maximum quantity:
-40 gigabecquerels | 90
-400 gigabecquerels | 180
-4 terabecquerels | 360
-Exceeding 4 terabecquerels | 540
-2.In respect of premises used solely for the mining and milling of radioactive ores (including mineral sands) | 90
-3.In respect of premises (other than premises referred to in items 1 and 2), irradiating apparatus and/or electronic products
-In the case of —
-(a)not more than 2 irradiating apparatus and/or electronic products | 90
-(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 180
-(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 360
-(d)more than 10 irradiating apparatus and/or electronic products | 540
-4.For persons to operate, use, manufacture, store, transport, sell, possess, install, service, maintain, repair or otherwise deal with —
-(a)radioactive substances | 38
-(b)irradiating apparatus and/or electronic products | 38
-Division 3 — Records
-1.Fee for copy of records (per page) | 2
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
