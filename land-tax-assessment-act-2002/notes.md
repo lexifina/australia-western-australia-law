@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC, 1a, 6. The table also contains information about any reprint.
+This is a compilation of the Land Tax Assessment Act 2002 and includes amendments made by other written laws 1M, 1MC, 5. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -35,15 +35,16 @@ Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | 3 Dec 201
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Land Tax Assessment Amendment Act 2018 | 5 of 2018 | 26 Apr 2018 | Pt. 2: 1 Jul 2003 (see s. 2(a) and Gazette 27 Jun 2003 p. 2383); Act other than Pt. 2: 26 Apr 2018 (see s. 2(b))
 Reprint 5: The Land Tax Assessment Act 2002 as at 20 Jul 2018 (includes amendments listed above)
-Revenue Laws Amendment Act 2019 Pt. 3 Div. 2 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(e))
+Revenue Laws Amendment Act 2019 Pt. 3 Div. 2 and 3 | 12 of 2019 | 12 Jun 2019 | Pt. 3 Div. 2: 13 Jun 2019 (see s. 2(e)); Pt. 3 Div. 3: 1 Jul 2019 (see s. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Strata Titles Amendment Act 2018 Pt. 3 Div. 11 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Revenue Laws Amendment Act 2019 Pt. 3 Div. 4 | 12 of 2019 | 12 Jun 2019 | To be proclaimed (see s. 2(d))
+Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div. 11 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Revenue Laws Amendment Act 2019 Pt. 3 Div. 3 and 4 | 12 of 2019 | 12 Jun 2019 | Pt. 3 Div. 3: 1 Jul 2019 (see s. 2(c)); Pt. 3 Div. 4: To be proclaimed (see s. 2(d))
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any law to the Forests Department was to be read as a reference to the Department of Conservation and Land Management.
 Under the Public Sector Management Act 1994 the names of departments may be changed. The Department of Conservation and Land Management was renamed the Department of Environment and Conservation.
@@ -60,238 +61,132 @@ commencement day means the day on which this Part comes into operation.
 The Commissioner of State Revenue must make any reassessment necessary to give effect to the amendments effected by this Part.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33(4) is not included because the subsection it sought to amend had been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 11 had not come into operation. It reads as follows:
-Part 3 — Other Acts amended
-Division 11 — Land Tax Assessment Act 2002 amended
-152.Act amended
-This Division amends the Land Tax Assessment Act 2002.
-153.Section 43A amended
-Delete section 43A(1)(a) and insert:
-(a) the new lot is not a lot in a strata scheme as defined in the Strata Titles Act 1985 section 3(1); and
-154.Section 43B inserted
-At the end of Part 3 Division 5 insert:
-43B.Freehold reversion in parcel subdivided by leasehold scheme, exemption for
-(1) In this section —
-parcel has the same meaning as in the Strata Titles Act 1985 section 3(1).
-(2) Land is exempt for an assessment year if at midnight on 30 June in the previous financial year the land is —
-(a) freehold reversion in a parcel that has been subdivided under the Strata Titles Act 1985 by a leasehold scheme registered under that Act; or
-(b) freehold in possession in a parcel that has been subdivided, as referred to in clause 3(1)(d), by a leasehold scheme to be registered under the Strata Titles Act 1985.
-155.Glossary amended
-(1) In the Glossary clause 1 delete the definitions of:
-strata plan
-strata scheme
-strata title home unit
-survey-strata plan
-survey-strata scheme
-(2) In the Glossary clause 1 in the definition of home unit delete paragraph (a) and insert:
-(a)a lot as defined in the Strata Titles Act 1985 section 3(1); or
-(3) In the Glossary clause 1 in the definition of owner delete paragraph (b) and insert:
-(b)in relation to a lot as defined in the Strata Titles Act 1985 section 3(1), means the owner of the lot within the meaning of that Act; or
-(4) In the Glossary clause 2(1) in the definition of lot delete paragraph (a)(vii) and insert:
-(vii)a lot defined in a scheme plan or amendment of a scheme plan under the Strata Titles Act 1985 where the land the subject of the scheme plan is subdivided as referred to in clause 3(1)(d); or
-(5) In the Glossary delete clause 3(1)(d) and (e) and insert:
-(d) in the case of land the subject of a scheme plan or amendment of a scheme plan under the Strata Titles Act 1985 —
-(i) if the plan or amendment of the plan is required to be endorsed with the unconditional approval of the Western Australian Planning Commission of the subdivision under the Strata Titles Act 1985 section 15(4) or 17(3) — the plan or amendment of the plan is so endorsed; or
-(ii) if not — an occupancy permit or a building approval certificate is granted under the Building Act 2011 Part 4 Division 3, as required under the Strata Titles Act 1985 section 34(d)(i) or 35(1)(j)(i).
-On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 12 had not come into operation. It reads as follows:
-Part 14 — Other Acts amended
-Division 12 — Land Tax Assessment Act 2002 amended
-217.Act amended
-This Division amends the Land Tax Assessment Act 2002.
-218.Section 43A amended
-After section 43A(1)(a) insert:
-(aa) the new lot is not a lot in a community titles (building) scheme as defined in the Community Titles Act 2018 section 3(1); and
-219.Glossary amended
-(1) In the Glossary clause 1 in the definition of home unit before paragraph (a) insert:
-(aa)a lot as defined in the Community Titles Act 2018 section 3(1); or
-(2) In the Glossary clause 1 in the definition of owner after paragraph (a) insert:
-(aa)in relation to a lot as defined in the Community Titles Act 2018 section 3(1), means the owner of the lot within the meaning of that Act; or
-(3) In the Glossary clause 2(1) in the definition of lot after paragraph (a)(vi) insert:
-(via)a lot defined in a scheme plan or amendment of a scheme plan under the Community Titles Act 2018 where the land the subject of the scheme plan is subdivided as referred to in clause 3(1)(ca); or
-(4) In the Glossary clause 3(1)(a) delete “subdivision of the land” and insert:
-subdivision of the land (other than for a subdivision under the Community Titles Act 2018)
-(5) In the Glossary clause 3(1) after paragraph (c) insert:
-(ca) in the case of land the subject of a scheme plan or amendment of a scheme plan under the Community Titles Act 2018, the plan or amendment is approved by the Western Australian Planning Commission in accordance with section 18(1)(b)(ii) of that Act; or
-On the date as at which this compilation was prepared, the Revenue Laws Amendment Act 2019 Pt. 3 Div. 3 and 4 had not come into operation. They read as follows:
-Division 3 — Amendments commencing on 1 July 2019
-139.Part 3 Division 2 Subdivision 1 heading inserted
-At the beginning of Part 3 Division 2 insert:
-Subdivision 1 — Exemptions and rebates for private residential property
-140.Part 3 Division 2 Subdivision 2 inserted:
-At the end of Part 3 Division 2 insert:
-Subdivision 2 — Application of private residential exemptions to subdivided land
-28A.Terms used
-In this Subdivision —
-exemption period means —
-(a)in relation to section 24, 25 or 27 — an assessment year;
-(b)in relation to section 24A, 25A or 27A — a period of 2 consecutive assessment years;
-exemption provision means section 24, 24A, 25, 25A, 27 or 27A;
-new lot, in relation to a subdivision of land, means a lot that comes into existence as a result of the subdivision;
-parent lot, in relation to a subdivision of land, means a lot that ceases to be a lot for the purposes of this Act under the Glossary clause 2(2) as a result of the subdivision.
-28B.Application of certain private residential exemptions to property subdivided during exemption period
-(1) This section applies if —
-(a) land is subdivided during an exemption period for an exemption provision; and
-(b) because of the subdivision, there are 1 or more requirements (the unsatisfied requirements) of the exemption provision that —
-(i) are not satisfied in relation to private residential property that is a parent lot in relation to the subdivision; but
-(ii) would be satisfied if the private residential property the subject of the exemption provision were 1 or more of the new lots in relation to the subdivision.
-(2) For the purposes of the application of the exemption provision to private residential property that is a parent lot referred to in subsection (1)(b)(i) for the exemption period —
-(a) the unsatisfied requirements are taken to be satisfied; and
-(b) if an exemption applies to the parent lot because of paragraph (a), the exemption applies only to the part or parts of the parent lot that, after the subdivision, constitute the new lot or lots referred to in subsection (1)(b)(ii); and
-(c) if there is any area of the parent lot to which the exemption does not apply because of paragraph (b), the taxable value of the parent lot is to be determined under section 18A as if the area of each new lot referred to in subsection (1)(b)(ii) were an exempt area referred to in section 18A(2).
-(3) For the purposes of determining under subsection (1)(b)(ii) whether a relevant requirement would be satisfied in relation to a new lot —
-(a) a requirement that relates to the ownership of the private residential property at midnight on 30 June immediately before the exemption period is taken to be satisfied in relation to a new lot if each person who is an owner of that new lot after the subdivision (a new lot owner) was also an owner of the parent lot at that time; and
-(b) if, at that time, the new lot owners owned the parent lot jointly with 1 or more other persons — the new lot is taken to have been owned at that time by the new lot owners only.
-(4) A reference in subsection (3) to an owner of a new lot after a subdivision is to a person who is an owner of the new lot after the certificate of title for the new lot is registered under the Transfer of Land Act 1893.
-28C.Application of requirements relating to sale or disposal of subdivided property
-(1) For the purposes of the application of section 27 or 27A to private residential property, a requirement in section 27(1)(f) or 27A(1)(j) that relates to the property acquired first referred to in that section is taken to be satisfied if —
-(a) the property acquired first is subdivided during the exemption period for section 27 or 27A (whichever is relevant); and
-(b) the requirement is satisfied in relation to each of the new lots in relation to the subdivision.
-(2) Subsection (1) applies in relation to the requirement in section 27(1)(f) whether the property acquired first is property A or property B referred to in section 27.
-(3) Despite section 28B(2)(a), a requirement in section 27(1)(f) or 27A(1)(j) is not taken to be satisfied under that section unless subsection (1)(b) of this section applies.
-28D.Application of 2-year private residential exemptions if property subdivided during first year
-If private residential property that is a parent lot is exempt under section 24A, 25A or 27A (the relevant 2-year exemption provision) because of the application of section 28B(2), and the subdivision occurs in the first assessment year of the exemption period for the relevant 2-year exemption provision, the exemption applies for the second year of the exemption period to the private residential property that is each new lot referred to in section 28B(2)(b) rather than to the parent lot.
-28E.Ownership of land during period when land subdivided but certificates of title not issued
-(1) This section applies if —
-(a) a parent lot that is owned jointly by 2 or more persons (the joint owners) is subdivided; and
-(b) there is a period of time (the relevant period) between the subdivision occurring and a certificate of title for any new lot being registered under the Transfer of Land Act 1893; and
-(c) either —
-(i) after the certificate of title is registered, each new lot is owned by some, but not all, of the joint owners (the relevant owners); or
-(ii) the Commissioner is satisfied that after the certificate of title is registered, each new lot will be owned by some, but not all, of the joint owners (the relevant owners).
-(2) For the purposes of this Division, the Commissioner may treat each new lot as being owned during the relevant period by the relevant owners only rather than by all of the joint owners.
-141.Schedule 1 amended
-At the end of Schedule 1 Division 6 insert:
-21.Application of amendments relating to subdivision of land
-(1) Part 3 Division 2 Subdivision 2 (other than section 28E) applies in relation to exemption periods (as defined in section 28A) that begin on or after 1 July 2019.
-(2) Section 28E and the Glossary clause 2(2) apply in relation to assessment years that begin on or after 1 July 2019, whether the subdivision referred to in whichever of those provisions is relevant occurs before or after 1 July 2019.
-(3) Despite subclauses (1) and (2), Part 3 Division 2 Subdivision 2 and the Glossary clause 2(2) do not apply for the purposes of determining whether private residential property is exempt under section 24, 24A, 25, 25A or 27A (the relevant exemption provision) if the commencement date for the construction or refurbishment referred to in the relevant exemption provision is before 1 July 2019.
-142.Glossary clause 2 amended
-After the Glossary clause 2(1) insert:
-(2) Despite subclause (1), if —
-(a) land that constitutes a lot (the parent lot) is subdivided resulting in 2 or more new lots referred to in paragraph (a)(vii) or (c) of the definition of lot in subclause (1) coming into existence, the parent lot ceases to be a lot for the purposes of this Act when the new lots come into existence; or
-(b) land that constitutes 2 or more lots (the parent lots) is subdivided resulting in a single new lot referred to in paragraph (a)(vii) or (c) of the definition of lot in subclause (1) coming into existence, the parent lots cease to be lots for the purposes of this Act when the new lot comes into existence.
-(2A) Subclause (2) does not prevent land tax from being payable on a parent lot, or an exemption, concession or rebate from applying in relation to the parent lot, for the financial year in which the land is subdivided or any earlier financial year.
-(2B) Subclause (2) does not apply to a subdivision of land in circumstances prescribed by the regulations.
-Division 4 — Amendment commencing when Community Titles Act 2018 s. 219(3) commences
-143.Glossary clause 2 amended
-In the Glossary clause 2(2)(a) and (b) delete “paragraph (a)(vii)” and insert:
-paragraph (a)(via), (vii)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 2012 to 2014 assessment periodSch. 1 cl. 10
 aged care facility38A(1)
-agentGl. cl. 1
-aggregated taxable valueGl. cl. 1
-amended ActSch. 1 cl. 10 and 16
+agentGl.
+aggregated taxable valueGl.
+amended ActSch. 1 cl. 10, cl. 16
 amending ActSch. 1 cl. 6
-approvedGl. cl. 1
-assessmentGl. cl. 1
-assessment yearGl. cl. 1
-beneficiary23A(1)(b), 29, 30K
-building contractGl. cl. 1
+approvedGl.
+assessmentGl.
+assessment yearGl.
+beneficiary23A(1), 29, 30K, Sch. 1 cl. 20(2)
+building contractGl.
 change30F(1)
-clauseGl. cl. 1
-commencement Sch. 1 cl. 10 and 16
-commencement dateGl. cl. 1
-completion dateGl. cl. 1
-compliant trusteeSch. 1 cl. 9(1) and 20(1)
-conservation covenantGl. cl. 1
+clauseGl.
+commencementSch. 1 cl. 10, cl. 16
+commencement dateGl.
+completion dateGl.
+compliant trusteeSch. 1 cl. 9(1), cl. 20(1)
+conservation covenantGl.
 deceased30E
-decisionSch. 1 cl. 12(1) and 18(1)
-disabled beneficiaryGl. cl. 1
+decisionSch. 1 cl. 12(1), cl. 18(1)
+disabled beneficiaryGl.
 disabled person26A(1)
 discretionary trust29
 dwelling park land39A(1)
 dwelling park purposes39A(1)
 excluded purpose39A(1)
-exemptGl. cl. 1
+exemptGl.
 exempt area18A(2)
-exempt purposeGl. cl. 1
-exemption provision18(1), 18A(1)
-family corporation29, 30H(b)
+exempt purposeGl.
+exemption period28A
+exemption provision18(1), 18A(1), 28A
+family corporation29, 30H
 family member29
 family owner29, 30H
-family trust29, 30H(c)
-family unit trust scheme29, 30H(d)
+family trust29, 30H
+family unit trust scheme29, 30H
 former ActSch. 1 cl. 16
 former section 20Sch. 1 cl. 8(1)
 former section 30Sch. 1 cl. 7(1)
-home lotGl. cl. 1
-home unitGl. cl. 1
-improvement schemeGl. cl. 1
-improvementsGl. cl. 1
+home lotGl.
+home unitGl.
+improvement schemeGl.
+improvementsGl.
 individual30I(1)
-industrial associationGl. cl. 1
-joint ownersGl. cl. 1
-landGl. cl. 1
-Land Information AuthorityGl. cl. 1
-land taxGl. cl. 1
-land tax ActGl. cl. 1
-local planning schemeGl. cl. 1
-lotGl. cl. 1
-metropolitan regionGl. cl. 1 and 2
+industrial associationGl.
+joint owners28E(1), Gl.
+landGl.
+Land Information AuthorityGl.
+land taxGl.
+land tax ActGl.
+local planning schemeGl.
+lotGl.
+metropolitan regionGl.
 modified rural business land provisions Sch. 1 cl. 10
-new lot43A(1)
+new lot28A, 43A(1)
+new lot owner28B(3)
 new provisionsSch. 1 cl. 3
-non-profit associationGl. cl. 1
+non-profit associationGl.
 non-public authoritySch. 1 cl. 16
 non-rural land29
-non-strata home unitGl. cl. 1
+non-strata home unitGl.
 old lot43A(1)
-original assessment year38AC(8)(a)
-other lotsGl. cl. 1
-ownerGl. cl. 1
-owner-builderGl. cl. 1
-parcelGl. cl. 1
+original assessment year38AC(8)
+other lotsGl.
+ownerGl.
+owner-builderGl.
+parcelGl.
+parent lot28A, Gl.
+parent lotsGl.
 partnership29
-political partyGl. cl. 1
+political partyGl.
 preliminary notice about an exemption under section 37Sch. 1 cl. 4(1)
-previous assessmentSch. 1 cl. 10 and 16
+previous assessmentSch. 1 cl. 10, cl. 16
 previous assessment periodSch. 1 cl. 8(1)
+previous financial yearGl.
 previously exempt landSch. 1 cl. 3
-previous financial yearGl. cl. 6(5)(a)
 primary production29
 primary production business29
-primary residenceGl. cl. 1
-private residenceGl. cl. 1
-private residential propertyGl. cl. 1
-produce animals30A(1)(b)
-professional associationGl. cl. 1
-promote trade, industry or commerceGl. cl. 1
+primary residenceGl.
+private residenceGl.
+private residential propertyGl.
+produce animals30A(1)
+professional associationGl.
+promote trade, industry or commerceGl.
 property A27(1)
-property B27(1)(a)
+property B27(1)
 public charitable or benevolent institution37(1)
-public statutory authorityGl. cl. 1
-registeredGl. cl. 1
+public statutory authorityGl.
+registeredGl.
 related29
 related purpose39A(1)
-relevant bodyGl. cl. 1
+relevant 2-year exemption provision28D
+relevant bodyGl.
+relevant exemption provisionSch. 1 cl. 21(3)
+relevant owners28E(1)
+relevant period28E(1)
 relevant requirements18(1), 18A(1)
-reserved land32(5), 33(6), Gl. cl. 1
+reserved land32(5), 33(6), Gl.
 residence contract39(1)
 residential care38A(1)
 residential premises39(1)
-retirement village39(1), Gl. cl. 1
+retirement village39(1), Gl.
 retirement village scheme39(1)
 rural business land assessmentSch. 1 cl. 10
 rural land29
 shareholder30J
-sportGl. cl. 1
-sports associationGl. cl. 1
-strata planGl. cl. 1
-strata schemeGl. cl. 1
-strata title home unitGl. cl. 1
-subdividedGl. cl. 1
-subdividing ownerGl. cl. 1
-survey-strata planGl. cl. 1
-survey-strata schemeGl. cl. 1
-taxable authorityGl. cl. 1
-taxable landGl. cl. 1
-taxable valueGl. cl. 1
-taxes9(6), 31(6), Gl. cl. 1
+sportGl.
+sports associationGl.
+strata planGl.
+strata schemeGl.
+strata title home unitGl.
+subdividedGl.
+subdividing ownerGl.
+survey-strata planGl.
+survey-strata schemeGl.
+taxable authorityGl.
+taxable landGl.
+taxable valueGl.
+taxes9(6), 31(6), Gl.
 transitional periodSch. 1 cl. 7(1)
-trusteeGl. cl. 1
-unimproved valueGl. cl. 1
+trusteeGl.
+unimproved valueGl.
 unit holder30
-validation periodSch. 1 cl. 10 and 16
+unsatisfied requirements28B(1)
+validation periodSch. 1 cl. 10, cl. 16
 year A39A(5A)
