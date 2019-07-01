@@ -44,35 +44,9 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 9 | 3 Jun
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Administration) Regulations 2018 Pt. 3 | 2 Oct 2018 p. 3794-6 | 3 Oct 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Under the Consumer Affairs Act 1971 s. 4(3), references, however expressed, in any other Act or in any regulation, notice, proclamation, or statutory instrument of any kind made, published or in force under that or any other Act to the Commissioner for Consumer Protection are, unless the context requires otherwise, read and construed as references to the Commissioner for Fair Trading as defined by the Consumer Affairs Act 1971.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 151(5) provides that a reference to the Commissioner for Fair Trading is to have effect as if it had been amended to be a reference to the Commissioner as defined by the Consumer Affairs Act 1971.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 had not come into operation. It reads as follows:
-Part 10 — Employment Agents Regulations 1976 amended
-19.Regulations amended
-This Part amends the Employment Agents Regulations 1976.
-20.Regulation 10 amended
-(1) Delete regulation 10(1) and insert:
-(1) The fees set out in the Table are payable with respect to the matters set out opposite them in the Table.
-Table
- | Matter | Fee ($)
-1. | Application for grant of general licence for period not exceeding prescribed period | 1 114.00
-2. | Application for renewal of general licence for period not exceeding prescribed period | 606.30
-3. | Application for grant of restricted licence for period not exceeding prescribed period | 1 012.40
-4. | Application for renewal of restricted licence for period not exceeding prescribed period | 750.90
-5. | Application for renewal of general or restricted licence for period of 3 years | 788.00
-6. | Application for grant of interim licence | 36.35
-7. | Issue of duplicate licence | 29.50
-8. | Application for transfer of licence under section 19(6) of the Act | 79.50
-9. | Inspection of record under section 51 of the Act | 14.80
-10. | Inspection of Register | 11.80
-11. | Copy (certified or uncertified) of individual registration in Register — first page each subsequent page | 12.20 2.30
-12. | Copy (certified or uncertified) of all registrations in Register | 115.50
-(2) In regulation 10(2) delete “$312.90” and insert:
-$329.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

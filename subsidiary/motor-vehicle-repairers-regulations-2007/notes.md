@@ -25,57 +25,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 13 | 3 Ju
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 15 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 15 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations 2019 | 15 Mar 2019 p. 771-86 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 14 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 14 had not come into operation. It reads as follows:
-Part 14 — Motor Vehicle Repairers Regulations 2007 amended
-27.Regulations amended
-This Part amends the Motor Vehicle Repairers Regulations 2007.
-28.Regulation 7A amended
-(1) Delete regulation 7A(1) and insert:
-(1) For the purposes of the Act section 13(2)(a)(ii), the prescribed fee is, for an application under the Act section 15, 17 or 19, the sum of —
-(a) $243.00; and
-(b) the amount determined in accordance with subregulation (6) in respect of the application.
-(2) In regulation 7A(6) in the Table:
-(a) in item 1 delete “$723.05” and insert:
-$759.00
-(b) in item 2 delete “$867.85” and insert:
-$911.00
-(c) in item 3 delete “$1 012.15” and insert:
-$1 063.00
-(d) in item 4 delete “$1 157.45” and insert:
-$1 215.00
-(e) in item 5 delete “$1 340.85” and insert:
-$1 408.00
-29.Regulation 7C amended
-In regulation 7C delete “$28.00.” and insert:
-$29.50.
-30.Regulation 7F amended
-In regulation 7F(2) in the Table:
-(a) in item 1 delete “$736.55” and insert:
-$773.00
-(b) in item 2 delete “$883.85” and insert:
-$928.00
-(c) in item 3 delete “$1 031.15” and insert:
-$1 083.00
-(d) in item 4 delete “$1 178.45” and insert:
-$1 237.00
-31.Regulation 7 amended
-In regulation 7 delete “$85.30.” and insert:
-$89.50.
-32.Regulation 10 amended
-(1) In regulation 10(a) delete “$11.25;” and insert:
-$11.80;
-(2) In regulation 10(b) delete “$11.60 for the first page and $2.20” and insert:
-$12.20 for the first page and $2.30
-33.Regulation 11 amended
-In regulation 11 delete “$60.” and insert:
-$63.00.
-34.Regulation 12 amended
-In regulation 12(2)(a) and (b) delete “$120.00” and insert:
-$126.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

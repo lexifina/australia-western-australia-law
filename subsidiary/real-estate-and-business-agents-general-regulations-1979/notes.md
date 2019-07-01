@@ -84,37 +84,10 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 16 | 3 Ju
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 18 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations 2017 | 30 Jun 2017 p. 3553-4 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 18 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 16 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) and r. 5(2) are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 16 had not come into operation. It reads as follows:
-Part 16 — Real Estate and Business Agents (General) Regulations 1979 amended
-38.Regulations amended
-This Part amends the Real Estate and Business Agents (General) Regulations 1979.
-39.Regulation 4A amended
-In regulation 4A(1) in the definition of holding fee delete “item 11 of Schedule 1” and insert:
-Schedule 1 item 12
-40.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Fees
-[r. 4 and 4A]
-Item | Type of fee | Fee
-1. | Application for licence | $81.00
-2. | Grant of licence | $860.00
-3. | Grant of licence to firm | $1 125.00
-4. | Grant of licence to body corporate | $1 125.00
-5. | Renewal of triennial certificate | $711.00
-6. | Grant of certificate of registration | $218.00
-7. | Renewal of certificate of registration | $180.00
-8. | Inspection of a register | $11.80
-9. | Issue of duplicate licence, duplicate certificate of registration or duplicate triennial certificate | $29.50
-10. | Copy (certified or uncertified) or an extract of an individual registration — first page each subsequent page | $12.20 $2.30
-11. | Copy (certified or uncertified) or an extract of all registrations in a register | $121.00
-12. | For the purposes of section 30(2a) (the holding fee) | $258.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

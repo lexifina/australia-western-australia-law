@@ -45,31 +45,12 @@ Residential Tenancies Amendment Regulations 2017 | 30 Jun 2017 p. 3554-9 | r. 1 
 Residential Tenancies Amendment Regulations (No. 2) 2017 | 8 Dec 2017 p. 5843 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2018 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 19 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Family Violence) Regulations 2019 Pt. 2 | 9 Apr 2019 p. 1042-55 | 15 Apr 2019 (see r. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 17 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.
 The Residential Tenancies Act 1987 Sch. 1 cl. 7 was deleted by the Residential Tenancies Amendment Act 2011 s. 87(16).
 Now called the Consolidated Account.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 17 had not come into operation. It reads as follows:
-Part 17 — Residential Tenancies Regulations 1989 amended
-41.Regulations amended
-This Part amends the Residential Tenancies Regulations 1989.
-42.Schedule 3 amended
-In Schedule 3 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-it. 1(a)(i) | 19.70 | 20.50
-it. 1(a)(ii) | 68.25 | 71.50
-it. 2 | 18.20 | 19.10
-it. 4(a) | 0.60 | 0.65
-it. 4(b) | 4.00 | 4.20
-it. 5(a) | 3.00 | 3.20
-it. 5(b) | 0.70 | 0.75
-it. 6 | 3.00 | 3.20
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

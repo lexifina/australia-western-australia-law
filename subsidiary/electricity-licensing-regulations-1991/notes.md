@@ -52,9 +52,6 @@ Electricity (Licensing) Amendment Regulations (No. 3) 2018 | 7 Jun 2018 p. 1815-
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Electricity Amendment Regulations 2018 Pt. 3 | 2 Oct 2018 p. 3784-94 | 1 Jan 2019 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 2) 2018 | 8 Jan 2019 p. 11-17 | r. 1 and 2: 8 Jan 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
@@ -65,22 +62,6 @@ The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
 The Electricity (Licensing) Amendment Regulations 2018 were repealed by the Electricity (Licensing) Amendment Regulations (No. 3) 2018 regulation 10 before they came into operation, see Gazette 7 June 2018 p. 1824.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — Electricity (Licensing) Regulations 1991 amended
-17.Regulations amended
-This Part amends the Electricity (Licensing) Regulations 1991.
-18.Schedule 1 amended
-In Schedule 1:
-(a) in item 1(a) delete “72.45” and insert:
-76.00
-(b) in item 1(b) delete “92.40” and insert:
-97.00
-(c) in item 2(e) delete “255.15” and insert:
-260.00
-(d) in item 2(i) delete “148.05” and insert:
-155.00
-(e) in item 3(b) delete “173.00” and insert:
-182.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -41,51 +41,10 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations 2017 | 29 Aug 20
 Reprint 5: The Plumbers Licensing and Plumbing Standards Regulations 2000 as at 24 Nov 2017 (includes amendments listed above)
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 17 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2019 | 9 Apr 2019 p. 1055-60 | r. 1 and 2: 9 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 15 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 contains transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 15 had not come into operation. It reads as follows:
-Part 15 — Plumbers Licensing and Plumbing Standards Regulations 2000 amended
-35.Regulations amended
-This Part amends the Plumbers Licensing and Plumbing Standards Regulations 2000.
-36.Regulation 106 amended
-In regulation 106(3) delete “clause 1 item 10, 11, 12, 13 or 15A.” and insert:
-item 14, 15, 16, 17 or 20.
-37.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Fees
-[r. 3, 22, 45A, 45E, 45, 54, 73, 102 and 106]
-Item | Description of fee | Amount ($)
-1. | Application for plumbing contractor’s licence (regulation 15) | 63.50
-2. | Application for tradesperson’s licence or tradesperson’s licence (drainage plumbing) (regulation 15) | 28.00
-3. | Application for provisional tradesperson’s licence or provisional tradesperson’s licence (drainage plumbing) (regulation 15) | 24.00
-4. | Application for restricted plumbing permit (regulation 15) | 24.00
-5. | Issue of plumbing contractor’s licence (regulation 17) | 648.00
-6. | Issue of tradesperson’s licence or tradesperson’s licence (drainage plumbing) (regulation 17) | 240.00
-7. | Issue of provisional tradesperson’s licence or provisional tradesperson’s licence (drainage plumbing) (regulation 17) | 75.00
-8. | Issue of restricted plumbing permit (regulation 17) | 301.00
-9. | Renewal of plumbing contractor’s licence (regulation 19A) | 648.00
-10. | Renewal of tradesperson’s licence or tradesperson’s licence (drainage plumbing) (regulation 19A) | 240.00
-11. | Renewal of provisional tradesperson’s licence or provisional tradesperson’s licence (drainage plumbing) (regulation 19A) | 75.00
-12. | Renewal of restricted plumbing permit (regulation 19A) | 309.00
-13. | Issue of duplicate licence or permit (regulation 22) | 65.00
-14. | Combined notice of intention and certificate of compliance (regulation 41(1) and 42(1)) — 1 notice/certificate | 22.50
-15. | Combined notice of intention and certificate of compliance (regulation 41(1) and 42(1)) — booklet of 2 or more notices/certificates | 22.50 per notice/ certificate
-16. | Multi-entry certificate of compliance (regulation 44(1)) — 1 multi-entry certificate | 17.00
-17. | Multi-entry certificate of compliance (regulation 44(1)) — booklet of 2 or more multi-entry certificates | 16.00 per certificate
-18. | New installation fee for plumbing work involving 9 or less fixtures (regulation 45) | 69.25
-19. | New installation fee for plumbing work involving more than 9 fixtures (regulation 45) | 69.25 plus 11.40 for each fixture more than 9
-20. | Combined notice of intention and certificate of compliance to carry out work that includes performance solution (regulation 45A(1) and 45B(1)) — 1 notice/certificate | 23.45
-21. | Lodgment fee for notice of intention to carry out work that includes performance solution (regulation 45A(3)) | 795.60
-22. | Copy of a drainage plumbing diagram (regulation 45E) | 10.50
-23. | Application for declaration for non-application or modification of plumbing standards (regulation 54) | 795.60
-24. | Re-inspection fee per hour or part-hour (regulation 73) | 130.00
-25. | Copy of register (regulation 102(3)) | 61.80
-26. | Extract from register (regulation 102(4)) | 61.80
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

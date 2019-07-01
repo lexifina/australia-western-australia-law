@@ -16,21 +16,8 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 23 Ju
 Reprint 2: The Building Services (Complaint Resolution and Administration) Regulations 2011 as at 29 Mar 2018 (includes amendments listed above)
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 3 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Section 374 was deleted by the Building Act 2011 s. 153(2).
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Building Services (Complaint Resolution and Administration) Regulations 2011 amended
-9.Regulations amended
-This Part amends the Building Services (Complaint Resolution and Administration) Regulations 2011.
-10.Regulation 8 amended
-In regulation 8(2):
-(a) in paragraph (a) delete “$56.65;” and insert:
-$59.50;
-(b) in paragraph (b) delete “$113.25.” and insert:
-$119.00.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -56,9 +56,6 @@ Settlement Agents Amendment Regulations 2016 | 4 Oct 2016 p. 4235-6 | r. 1 and 2
 Reprint 7: The Settlement Agents Regulations 1982 as at 14 Oct 2016 (includes amendments listed above)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 20 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Amendment (Fees and Charges) Regulations 2018 Pt. 20 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 19 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
 Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1).
@@ -72,27 +69,6 @@ Despite the repeal effected by regulation 3, in relation to an application for a
 (ii) a Certificate IV in Conveyancing.
 [Regulation 4 amended: Gazette 21 Jan 2005 p. 258; 16 Jun 2006 p. 2122.]
 The Settlement Agents Amendment Regulations (No. 2) 2008 were published on 23 Dec 2008 p. 5469-70 and again on 30 Dec 2008 p. 5640-1. The publication of 30 Dec 2008 has no effect.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 19 had not come into operation. It reads as follows:
-Part 19 — Settlement Agents Regulations 1982 amended
-45.Regulations amended
-This Part amends the Settlement Agents Regulations 1982.
-46.Regulation 4A amended
-In regulation 4A(1) in the definition of holding fee delete “item 8 of Schedule 1” and insert:
-Schedule 1 item 9
-47.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Fees
-[r. 4 and 4A]
-Item | Type of fee | Fee
-1. | Grant of licence (including a triennial certificate) to a natural person | $860.00
-2. | Grant of licence (including a triennial certificate) to a firm | $1 125.00
-3. | Grant of licence (including a triennial certificate) to a body corporate | $1 125.00
-4. | Renewal of triennial certificate | $711.00
-5. | Inspection of register | $11.80
-6. | Issue of duplicate licence or duplicate triennial certificate | $29.50
-7. | Certificate as to an individual registration — first page each subsequent page | $12.20 $2.30
-8. | Certificate as to all registrations in register | $121.00
-9. | For the purposes of section 30(3a) (the holding fee) | $258.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
