@@ -24,6 +24,7 @@ Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 4 | 20 Jul 2018 
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 3 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
 Coroners Amendment Regulations 2019 | 1 Feb 2019 p. 225-6 | r. 1 and 2: 1 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 3 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

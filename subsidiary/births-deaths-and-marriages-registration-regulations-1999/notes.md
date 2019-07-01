@@ -13,6 +13,7 @@ Births, Deaths and Marriages Registration Amendment Regulations 2009 | 12 Jun 20
 Births, Deaths and Marriages Registration Amendment Regulations 2015 | 26 Jun 2015 p. 2254-5 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Births, Deaths and Marriages Registration Amendment Regulations 2016 | 24 Jun 2016 p. 2318-19 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Births, Deaths and Marriages Registration Amendment Regulations 2017 | 25 Aug 2017 p. 4567-8 | r. 1 and 2: 25 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2017 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

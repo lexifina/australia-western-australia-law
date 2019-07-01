@@ -74,6 +74,7 @@ Compilation table
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 Justice Regulations Amendment (Biodiversity Conservation) Regulations 2018 Pt. 3 | 14 Sep 2018 p. 3314-15 | 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Justice Regulations Amendment (Road Passenger Services) Regulations 2019 Pt. 3 | 12 Feb 2019 p. 265-6 | 13 Feb 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Agriculture and Food is read and construed as a reference to the Department of Primary Industries and Regional Development unless the contrary intention appears.
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Commerce is read and construed as a reference to the relevant successor. The “relevant successor” means:

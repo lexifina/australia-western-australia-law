@@ -35,6 +35,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 1
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 8 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 7 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 7 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 12 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.
 Defined terms

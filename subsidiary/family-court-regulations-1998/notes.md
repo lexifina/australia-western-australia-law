@@ -14,6 +14,7 @@ Family Court Amendment Regulations (No. 2) 2015 | 10 Jul 2015 p. 2779-83 | r. 1 
 Family Court Amendment Regulations (No. 3) 2015 | 18 Aug 2015 p. 3299-301 | r. 1 and 2: 18 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2015 (see r. 2(b))
 Reprint 3: The Family Court Regulations 1998 as at 15 Jan 2016 (includes amendments listed above)
 Family Court Amendment Regulations 2018 | 24 Aug 2018 p. 2971-2 | r. 1 and 2: 24 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Aug 2018 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Deleted by the Supreme Court Amendment Rules (No. 5) 2001.
 The Family Court Amendment Regulations 2015 were repealed before the provisions of those regulations that were to amend the Family Court Regulations 1998 came into operation. See the Family Court Amendment Repeal Regulations 2015 in Gazette 30 June 2015 p. 2340.
 Defined terms
