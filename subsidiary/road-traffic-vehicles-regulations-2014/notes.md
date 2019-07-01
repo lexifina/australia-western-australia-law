@@ -21,11 +21,8 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 M
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 6 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2019 | 29 Mar 2019 p. 962-72 | r. 1 and 2: 29 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Mar 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2019 Pt 3 | 17 May 2019 p. 1437-42 | 18 May 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 6 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
-Road Traffic (Vehicles) Amendment Regulations 2019 r. 3-4 | 18 Jun 2019 p. 2061 | 1 Jul 2019 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations 2019 | 18 Jun 2019 p. 2061 | r. 1 and 2: 18 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 Repealed by the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (Cwlth).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -46,55 +43,6 @@ For the purposes of section 18 of the Act, the specified day in relation to thes
 The Transport Regulations Amendment (Fees and Charges) Regulations 2019 r. 6 reads as follows:
 6.Specified day
 For the purposes of the Road Traffic (Vehicles) Act 2012 section 18, the specified day in relation to this Division is 1 July 2019.
-On the date at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Road Traffic (Vehicles) Regulations 2014 amended
-11.Regulations amended
-This Part amends the Road Traffic (Vehicles) Regulations 2014.
-12.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 44(4)(a) | $7.60 | $7.40
-r. 44(4)(b)(ii) | $24.00 | $25.05
-r. 48 | $4.10 | $3.60
-r. 87(2) Table | 116.00 96.50 192.50 140.40 276.70 230.55 135.20 104.90 | 114.05 93.55 186.55 134.45 260.70 193.80 129.25 98.95
-r. 88 Table | 123.10 101.80 206.55 149.70 144.05 111.00 | 121.55 99.15 200.55 143.75 138.10 105.05
-r. 89 Table | 117.00 97.25 194.50 141.75 136.45 105.75 | 115.15 94.35 188.55 135.80 130.50 99.80
-r. 90 Table | 116.15 96.60 192.80 140.60 135.40 105.05 | 114.20 93.65 186.85 134.65 129.45 99.10
-r. 91 Table | 126.05 104.05 212.45 153.60 147.75 113.55 | 124.65 101.50 206.50 147.65 141.80 107.60
-r. 92 Table | 116.95 97.20 194.35 141.65 136.35 105.70 | 115.05 94.30 188.40 135.70 130.40 99.75
-r. 92A Table | 116.00 96.50 192.50 140.40 135.20 104.90 | 114.05 93.55 186.55 134.45 129.25 98.95
-r. 93 Table | 124.35 102.75 209.05 151.35 145.60 112.05 | 122.80 100.15 203.10 145.40 139.65 106.10
-r. 93A Table | 117.25 97.45 194.95 142.05 136.75 105.95 | 115.35 94.55 189.00 136.10 130.80 100.00
-r. 94 Table | 117.35 97.50 195.15 142.15 136.85 106.05 | 115.45 94.60 189.20 136.20 130.90 100.10
-r. 95(1) Table | 104.90 111.00 105.75 105.05 113.55 105.70 104.90 112.05 105.95 106.05 | 98.95 105.05 99.80 99.10 107.60 99.75 98.95 106.10 100.00 100.10
-r. 98(1) | $12.40 | $12.90
-r. 100 | $16.30 | $15.60
-r. 101 | $4.55 | $3.95
-r. 107 | $26.85 | $27.70
-r. 112(a) | $26.85 | $27.70
-r. 112(b) | $17.70 | $16.75
-r. 112(d) | $33.50 | $36.90
-r. 112(g)(i) | $238.80 | $242.95
-r. 112(g)(ii) | $118.05 | $120.10
-r. 114(1) and (2) | $17.95 | $18.25
-r. 130(1)(a) | $10 540.80 | $10 725.25
-r. 130(1)(b) | $2 109.15 | $2 146.05
-r. 130(1)(c) | $1 049.50 | $1 067.85
-r. 130(1)(d) | $209.60 | $213.25
-r. 130(1)(e) | $2 109.15 | $2 146.05
-r. 130(1)(f) | $91.55 | $93.15
-r. 130(2) | $526.30 | $535.50
-r. 130(3)(a) and (b) | $21.60 | $21.95
-r. 134(1)(b) | $26.15 | $25.35
-r. 134(3) | $43.25 | $40.70
-r. 235(4) | $68.90 | $71.80
-r. 468(1) | $51.25 | $52.25
-On the date as at which this compilation was prepared, the Road Traffic (Vehicles) Amendment Regulations 2019 r. 3-4had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic (Vehicles) Regulations 2014.
-4.Regulation 25 deleted
-Delete regulation 25.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

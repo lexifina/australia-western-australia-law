@@ -18,20 +18,7 @@ Road Traffic (Administration) Amendment Regulations 2017 | 3 Oct 2017 p. 5054-5 
 Road Traffic (Administration) Amendment Regulations 2018 | 25 May 2018 p. 1648-9 | r. 1 and 2: 25 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 26 May 2018 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 5 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Transport Regulations Amendment (Information) Regulations 2019 Pt. 2 | 29 Mar 2019 p. 972-80 | 30 Mar 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 4 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
-On the date at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Road Traffic (Administration) Regulations 2014 amended
-7.Regulations amended
-This Part amends the Road Traffic (Administration) Regulations 2014.
-8.Regulation 35 amended
-In regulation 35(2) in the Table:
-(a) in the 1st row delete “18.50” and insert:
-17.40
-(b) in the 3rd row delete “19.60” and insert:
-18.75
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -51,30 +51,11 @@ W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2014 | 30
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2015 | 12 Jun 2015 p. 2031 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 8 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 9 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 9 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2002 r. 4 reads as follows:
 4.Saving
 If a registration certificate and identification plate in respect of a vessel has been obtained under regulation 10A(1)(c) of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 before the commencement of the W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2002, the registration continues to have effect under regulation 10A of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 from that commencement in relation to the vessel as if it were intended that the vessel would operate within 5 nautical miles off the mainland of the State.
-On the date at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 amended
-17.Regulations amended
-This Part amends the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983.
-18.Schedule 1 amended
-In Schedule 1 clause 2(1) in the Table:
-(a) in item 3 delete “$155.40” and insert:
-$160.00
-(b) in item 6(a) delete “$328.00/hour” and insert:
-$333.75/hour
-(c) in item 6(b) delete “$340.00” and insert:
-$345.95
-(d) in item 14 delete “$195.00/hour” and insert:
-$198.40/hour
-(e) in item 15 delete “$1.50/page” and insert:
-$1.55/page
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
