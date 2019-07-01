@@ -1,2 +1,3 @@
 ## Schedule 3 — Fees
-[Heading inserted: Gazette 25 Jun 2018 p. 2301.]
+[r. 26 and 34]
+[Heading inserted: Gazette 18 Jun 2019 p. 2042.]

@@ -19,20 +19,4 @@ Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2015 | 30 Ju
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 9 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 11 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 had not come into operation. It reads as follows:
-Part 10 — Petroleum (Submerged Lands) Registration Fees Regulations 1990 amended
-27.Regulations amended
-This Part amends the Petroleum (Submerged Lands) Registration Fees Regulations 1990.
-28.Regulation 3 amended
-(1) In regulation 3(1) and (2) delete $5 451.00.” and insert:
-$5 724.00.
-(2) In regulation 3(3) delete “$8 292.00.” and insert:
-$8 707.00.
-(3) In regulation 3(4) delete “$5 451.00.” and insert:
-$5 724.00.
-(4) In regulation 3(5) delete “$8 292.00.” and insert:
-$8 707.00.

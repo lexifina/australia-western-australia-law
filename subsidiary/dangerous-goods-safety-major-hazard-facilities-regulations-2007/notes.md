@@ -18,38 +18,8 @@ Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt.
 Reprint 2: The Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 as at 3 Mar 2017 (includes amendments listed above)
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 amended
-7.Regulations amended
-This Part amends the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007.
-8.Regulation 34 amended
-In regulation 34(7) delete “$39.00.” and insert:
-$41.00.
-9.Schedule 3 replaced
-Delete Schedule 3 and insert:
-Schedule 3 — Fees
-[r. 26 and 34]
-1.Fees for approval of safety reports (r. 26)
-The relevant fee to be paid under regulation 26 for an application for approval of a safety report for a major hazard facility is the fee in the Table relevant to the class of the facility.
-Table
-Class of facility under r. 33 | Fee ($)
-Class A | 125 000
-Class B | 100 000
-Class C | 100 000
-Class D | 20 000
-2.Annual fees for major hazard facilities (r. 34)
-The relevant annual fee to be paid under regulation 34 in respect of a major hazard facility is the fee in the Table relevant to the class of the facility.
-Table
-Class of facility under r. 33 | Fee ($)
-Class A | 125 000
-Class B | 100 000
-Class C | 100 000
-Class D | 20 000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -28,49 +28,8 @@ Petroleum (Submerged Lands) Amendment Regulations (No. 2) 2015 | 30 Jun 2015 p. 
 Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 8 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 12 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 12 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Commencement day was 16 December 2000 (see Gazette 15 Dec 2000 p. 7201).
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 had not come into operation. It reads as follows:
-Part 11 — Petroleum (Submerged Lands) Regulations 1990 amended
-29.Regulations amended
-This Part amends the Petroleum (Submerged Lands) Regulations 1990.
-30.Regulation 3 amended
-(1) In regulation 3(2) delete “$129.00” and insert:
-$135.00
-(2) In regulation 3(6) delete “$2 179.00.” and insert:
-$2 288.00.
-(3) In regulation 3(7) delete “$833.00.” and insert:
-$875.00.
-(4) In regulation 3(8) delete “$18 145.00.” and insert:
-$19 050.00.
-31.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Prescribed fees
-[r. 3(1)]
-Column 1 Item | Column 2 Provision of Act | Column 3 Amount of prescribed fee ($)
-1. | s. 21(1)(f) | 6 845.00
-2. | s. 24(1)(a) | 6 845.00
-3. | s. 30(2)(c) | 6 845.00
-4. | s. 38A(2)(e) | 6 845.00
-5. | s. 38CA(2)(d) | 6 845.00
-6. | s. 38F(2)(d) | 6 845.00
-7. | s. 41(1)(e) | 6 845.00
-8. | s. 48(1)(a) | 6 845.00
-9. | s. 51(2)(e) | 6 845.00
-10. | s. 54(2)(d) | 6 845.00
-11. | s. 60B(2)(d) | 6 845.00
-12. | s. 60J(2)(d) | 6 845.00
-13. | s. 64(1)(f) | 6 845.00
-14. | s. 71(2)(e) | 6 845.00
-15. | s. 79(2) | 135.00
-16. | s. 79(3)(b) | 135.00
-17. | s. 86(1) | 135.00
-18. | s. 87(3) | 135.00
-19. | s. 111(2)(d) | 6 845.00
-20. | s. 141 | 217.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

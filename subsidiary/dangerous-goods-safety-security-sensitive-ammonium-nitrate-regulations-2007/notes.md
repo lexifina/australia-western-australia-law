@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Dangerous Goods Safety (Security Risk Substances) Regulations 2007 | 31 Dec 2007 p. 6719-75 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Dangerous Goods Safety (Security Risk Substances) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2877-8 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Dangerous Goods Safety (Security Risk Substances) Amendment Regulations 2011 | 4 Oct 2011 p. 3949-52 | r. 1 and 2: 4 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2011 (see r. 2(b))
@@ -15,30 +15,11 @@ Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 4 | 3 Mar 2017
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Reprint 2: The Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 as at 16 Nov 2018 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 4 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+Other notes
 Now known as the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 amended
-12.Regulations amended
-This Part amends the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007.
-13.Regulation 46A amended
-In regulation 46A(4) delete “$39.00.” and insert:
-$41.00.
-14.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Annual fees
-[r. 3]
-Item | Annual fee | Fee ($)
-1. | Annual fee for a licence (r. 30(1)(c) and 46A) —
- | (a)SSAN import/export licence | 190.00
- | (b)SSAN manufacture licence | 356.00
- | (c)SSAN storage licence | 168.00
- | (d)SSAN transport licence | 179.00
- | (e)SSAN supply licence | 154.00
- | (f)SSAN fertiliser licence | 59.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -94,4 +75,3 @@ unauthorised person14(1)
 unexplained loss3
 unsupervised access3
 unsupervised access authorisation3
-By Authority: KEVIN J. McRAE, Government Printer

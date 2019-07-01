@@ -6,17 +6,7 @@ Petroleum and Geothermal Energy Safety Levies Regulations 2011 | 30 Dec 2011 p. 
 Petroleum and Geothermal Energy Safety Levies Amendment Regulations 2012 | 28 Sep 2012 p. 4655-8 | r. 1 and 2: 28 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2012 (see r. 2(b) and Gazette 28 Sep 2012 p. 4647)
 Petroleum and Geothermal Energy Safety Levies Amendment Regulations 2013 | 28 Jun 2013 p. 2829 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Petroleum and Geothermal Energy Safety Levies Amendment Regulations 2015 | 26 Jun 2015 p. 2260-1 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 15 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 15 had not come into operation. It reads as follows:
-Part 15 — Petroleum and Geothermal Energy Safety Levies Regulations 2011 amended
-40.Regulations amended
-This Part amends the Petroleum and Geothermal Energy Safety Levies Regulations 2011.
-41.Regulation 5 amended
-In regulation 5(2) and (3)(a) delete “R is $9 000;” and insert:
-Ris $8 500;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -11,33 +11,7 @@ Mining and Offshore Minerals Regulations Amendment (Fees and Rents) Regulations 
 Reprint 1: The Offshore Minerals Regulations 2010 as at 10 Feb 2017 (includes amendments listed above)
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Offshore Minerals Regulations 2010 amended
-22.Regulations amended
-This Part amends the Offshore Minerals Regulations 2010.
-23.Schedule 2 replaced
-Delete Schedule 2 and insert:
-Schedule 2 — Fees
-[r. 20]
-Item | Description | Fee ($)
-1. | Exploration licence — (a)standard block licence application (s. 56(1)) (b)tender block licence application (s. 78(1)) (c)renewal application (s. 106(1)) | 3 000.00 3 000.00 600.00
-2. | Retention licence — (a)licence application (s. 139(1)) (b)renewal application (s. 163(1)) | 3 000.00 600.00
-3. | Mining licence — (a)standard block licence application (s. 201(1)) (b)tender block licence application (s. 222(1)) (c)renewal application (s. 240(1)) | 3 000.00 3 000.00 600.00
-4. | Works licence — (a)licence application (s. 272(1)) (b)renewal application (s. 292(1)) | 3 000.00 600.00
-5. | Special purpose consent application (s. 319(1)) | 300.00
-6. | Inspection of register and documents (s. 332(1)) | 25.00
-7. | Registration of transfer (s. 338(1)(f)) | 63.00
-8. | Registration of other dealing (s. 339(1)(d)) | 156.00
-9. | Devolution of licence (s. 340(1)(d)) | 156.00
-10. | Caveat (s. 344) | 156.00
-11. | Certified copy of or extract from register (s. 357(4)) (per page) | 6.30
-12. | Certified copy of document (s. 358(1)) (per page) | 6.30
-13. | Certificate (s. 359(1)) | 63.00
-14. | Approval of transfer application (s. 363(6)) | 156.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

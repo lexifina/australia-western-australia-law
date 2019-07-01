@@ -1,46 +1,30 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
-Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6777-892 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2 and Pt. 5 Div. 1: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669); Pt. 5 Div. 1: 1 Mar 2009 (see r. 2(c) and Gazette 29 Feb 2008 p. 669)
-Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2192-3 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
-Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2872-3 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
-Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2010 | 31 Dec 2010 p. 6893-6 | r. 1 and 2: 31 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
-Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations 2012 | 16 Mar 2012 p. 1197-242 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
-Reprint 1: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 24 Aug 2012 (includes amendments listed above)
-DGS (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2012 | 19 Feb 2013 p. 990-1 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
-Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5517-65 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
-Reprint 2: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 25 Jul 2014 (includes amendments listed above)
-Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2262-3 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 7 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
-Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
-Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 5 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
-Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
-Dangerous Goods Safety Regulations Amendment Regulations 2018 Pt. 3 | 20 Mar 2018 p. 996-1005 | 21 Mar 2018 (see r. 2(b))
-Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Citation | Published | Commencement
+ | Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6777-892 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2 and Pt. 5 Div. 1: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669); Pt. 5 Div. 1: 1 Mar 2009 (see r. 2(c) and Gazette 29 Feb 2008 p. 669)
+ | Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2192-3 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+ | Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2872-3 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+ | Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2010 | 31 Dec 2010 p. 6893-6 | r. 1 and 2: 31 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
+ | Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations 2012 | 16 Mar 2012 p. 1197-242 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
+ | Reprint 1: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 24 Aug 2012 (includes amendments listed above)
+ | DGS (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2012 | 19 Feb 2013 p. 990-1 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
+ | Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5517-65 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
+ | Reprint 2: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 25 Jul 2014 (includes amendments listed above)
+ | Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2262-3 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+ | Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 7 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
+ | Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+ | Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 5 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
+ | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+ | Dangerous Goods Safety Regulations Amendment Regulations 2018 Pt. 3 | 20 Mar 2018 p. 996-1005 | 21 Mar 2018 (see r. 2(b))
+ | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
+ | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+ | Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 5 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
+ | Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+Other notes
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
 Repealed by the Dangerous Goods Safety (Goods in Ports) Repeal Regulations 2013.
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 amended
-15.Regulations amended
-This Part amends the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007.
-16.Regulation 44A amended
-In regulation 44A(4) delete “$39.00.” and insert:
-$41.00.
-17.Regulation 135I amended
-In regulation 135I(2)(e)(v) delete “$4 213.00.” and insert:
-$4 424.00.
-18.Schedule 5 amended
-In Schedule 5 clause 2 delete the Table and insert:
-Table
-Item | Maximum quantity of dangerous goods specified in the licence for the site | Fee ($)
-1. | Less than 50 000 kg or L | 223.00
-2. | 50 000 kg or L or more | 743.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

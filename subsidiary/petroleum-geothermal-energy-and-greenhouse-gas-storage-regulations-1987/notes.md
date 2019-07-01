@@ -30,49 +30,11 @@ Compilation table
  | Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 11 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 15 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 15 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 14 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 The Acts Amendment (Petroleum) Act 1990 (other than s. 32) came into operation 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Commencement day was 16 Dec 2000 (see Gazette 15 Dec 2000 p. 7201).
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Petroleum and Geothermal Energy Resources Regulations 1987; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 14 had not come into operation. It reads as follows:
-Part 14 — Petroleum and Geothermal Energy Resources Regulations 1987 amended
-37.Regulations amended
-This Part amends the Petroleum and Geothermal Energy Resources Regulations 1987.
-38.Regulation 3 amended
-(1) In regulation 3(2) delete “$129.00” and insert:
-$135.00
-(2) In regulation 3(6) delete “$833.00.” and insert:
-$875.00.
-(3) In regulation 3(7) delete “$18 145.00.” and insert:
-$19 050.00.
-39.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Prescribed fees
-[r. 3(1)]
-Column 1 Item | Column 2 Provision of Act | Column 3 Amount of prescribed fee ($)
-1. | s. 31(1)(f) | 6 845.00
-2. | s. 34(1)(a) | 6 845.00
-3. | s. 37A(2)(e) | 6 845.00
-4. | s. 40(2)(c) | 6 845.00
-5. | s. 43B(1)(f) | 6 845.00
-6. | s. 43F(3)(d) | 6 845.00
-7. | s. 48A(2)(e) | 6 845.00
-8. | s. 48CA(3)(d) | 6 845.00
-9. | s. 48F(2)(d) | 6 845.00
-10. | s. 51(1)(e) | 6 845.00
-11. | s. 58(1)(a) | 6 845.00
-12. | s. 61(2)(e) | 6 845.00
-13. | s. 64(2)(d) | 6 845.00
-14. | s. 73(2) | 135.00
-15. | s. 73(3)(b) | 135.00
-16. | s. 80(1) | 135.00
-17. | s. 81(3) | 135.00
-18. | s. 105(2)(d) | 6 845.00
-19. | s. 137(a) | 2 288.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
