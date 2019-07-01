@@ -93,11 +93,11 @@ Occupational Safety and Health Amendment Regulations 2017 | 14 Nov 2017 p. 5602-
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 16 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2018 | 19 Oct 2018 p. 4136-7 | r. 1 and 2: 19 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Oct 2018 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2019 | 10 May 2019 p. 1401 | r. 1 and 2: 10 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2019 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 3) 2019 | 21 Jun 2019 p. 2136-7 | r. 1 and 2: 21 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Occupational Safety and Health Amendment Regulations (No. 2) 2019 r. 3-4 | 18 Jun 2019 p. 2039 | Operative when the Transport (Road Passenger Services) Act 2018 Pt. 6 comes into operation (see r. 2(b))
-Occupational Safety and Health Amendment Regulations (No. 3) 2019 r. 3-4 | 21 Jun 2019 p. 2136-7 | 1 July 2019 (see r. 2(b))
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
@@ -110,28 +110,6 @@ These regulations amend the Occupational Safety and Health Regulations 1996.
 4.Regulation 3.130 amended
 In regulation 3.130 in the definition of commercial vehicle delete paragraph (a) and insert:
 (a)a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1); or
-On the date as at which this compilation was prepared, the Occupational Safety and Health Amendment Regulations (No. 3) 2019 r. 3-4had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Occupational Safety and Health Regulations 1996.
-4.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 6.1A it. 1 | $6 523.65 | $6 850.00
-Sch. 6.1A it. 2 | $4 243.05 | $4 455.00
-Sch. 6.1A it. 3 | $3 203.55 | $3 364.00
-Sch. 6.2 it. 1 | $393.75 | $413.00
-Sch. 6.2A it. 1 | $14 204.40 | $14 910.00
-Sch. 6.2A it. 2 | $833.70 | $875.00
-Sch. 6.2A it. 3 | $11 127.90 | $11 680.00
-Sch. 6.2A it. 4 | $771.75 | $810.00
-Sch. 6.4 it. 1 | $95.00 | $100.00
-Sch. 6.4 it. 2 | $74.55 | $78.50
-Sch. 6.4 it. 3 | $50.40 | $53.00
-Sch. 6.4 it. 4 | $63.00 | $66.00
-Sch. 6.4 it. 5 | $1 991.85 | $2 091.00
-Sch. 6.4 it. 6 | $326.55 | $343.00
-Sch. 6.4 it. 8 | $111.00 | $117.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
