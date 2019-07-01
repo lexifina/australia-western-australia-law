@@ -17,35 +17,7 @@ Health Services (Fees and Charges) Amendment Order (No. 5) 2018 | 12 Jun 2018 p.
 Health Services (Fees and Charges) Amendment Order (No.7) 2018 | 13 Nov 2018 p. 4432 | cl. 1 and 2: 13 Nov 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Dec 2018 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order 2019 | 26 Feb 2019 p. 439-40 | cl. 1 and 2: 26 Feb 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 27 Feb 2019 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 2) 2019 | 7 May 2019 p. 1351 | cl. 1 and 2: 7 May 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 8 May 2019 (see cl. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Health Services (Fees and Charges) Amendment Order (No. 3) 2019 cl. 3 and 4 | 7 Jun 2019 p. 1826-7 | 1 Jul 2019 (see cl. 2(b))
-On the date at which this compilation was prepared, the Health Services (Fees and Charges) Amendment Order (No. 3) 2019 cl. 3 and 4 had not come into operation. They read as follows:
-3.Order amended
-This order amends the Health Services (Fees and Charges) Order 2016.
-4.Schedule 1 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 Div. 1 it. 1(b)(i) | $649 | $661
-Sch. 1 Div. 1 it. 1(b)(ii) | $356 | $363
-Sch. 1 Div. 1 it. 1(e) | $2 778 | $2 887
-Sch. 1 Div. 1 it. 4(b) | $280 | $310
-Sch. 1 Div. 1 it. 6(b) | $294 | $300
-Sch. 1 Div. 1 it. 6(d) | $2 366 | $2 580
-Sch. 1 Div. 1 it. 7 | $38.45 | $39
-Sch. 1 Div. 2 it. 1 | $2 794 | $2 704
-Sch. 1 Div. 2 it. 2 | $2 157 | $2 087
-Sch. 1 Div. 2 it. 3 | $2 995 | $2 899
-Sch. 1 Div. 2 it. 4 | $294 | $300
-Sch. 1 Div. 2 it. 5 | $6 442 | $6 540
-Sch. 1 Div. 2 it. 6 | $3 852 | $3 911
-Sch. 1 Div. 2 it. 7 | $280 | $310
-Sch. 1 Div. 2 it. 9 | $280 | $310
-Sch. 1 Div. 2 it. 10(a) | $2 042 | $2 325
-Sch. 1 Div. 2 it. 10(b) | $2 835 | $3 229
-Sch. 1 Div. 2 it. 10(c) | $2 645 | $3 014
+Health Services (Fees and Charges) Amendment Order (No. 3) 2019 | 7 Jun 2019 p. 1826-7 | cl. 1 and 2: 7 Jun 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2019 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
