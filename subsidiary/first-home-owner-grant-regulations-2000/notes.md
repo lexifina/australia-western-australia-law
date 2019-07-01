@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the First Home Owner Grant Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the First Home Owner Grant Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Gazettal | Commencement
 First Home Owner Grant Regulations 2000 | 30 Jun 2000 p. 3433-7 | 1 Jul 2000 (see r. 2)
@@ -22,7 +22,8 @@ First Home Owner Grant Amendment Regulations (No. 2) 2015 | 11 Aug 2015 p. 3221-
 First Home Owner Grant Amendment Regulations (No. 3) 2015 | 11 Dec 2015 p. 4961 | r. 1 and 2: 11 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
 Reprint 3: The First Home Owner Grant Regulations 2000 as at 3 Mar 2017 (includes amendments listed above)
 First Home Owner Grant Amendment Regulations 2017 | 29 Dec 2017 p. 6083-6 | r. 1 and 2: 29 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2017 (see r. 2(b))
-Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
+Finance Regulations Amendment (Interest Rates) Regulations 2019 Pt. 2 | 28 Jun 2019 p. 2492-3 | 1 Jul 2019 (see r. 2(b))
+Other notes
 Repealed by the Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015 Sch. 1, Part 1.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
