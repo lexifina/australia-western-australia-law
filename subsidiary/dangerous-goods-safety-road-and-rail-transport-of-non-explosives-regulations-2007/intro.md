@@ -1,3 +1,1 @@
-Western Australia
-Dangerous Goods Safety Act 2004
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007
