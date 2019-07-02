@@ -2,13 +2,13 @@ Notes
 This is a compilation of the Transport (Road Passenger Services) Act 2018 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Transport (Road Passenger Services) Act 2018 | 26 of 2018 | 30 Oct 2018 | Pt. 1: 30 Oct 2018 (see s. 2(a)) Pt. 2, Pt. 3 (other than s. 27(1) and (2) and 28), Pt. 7 and 8, Pt. 9 Div. 1 (other than s. 230 and 236) and Div. 3, Pt. 10 and 11, Pt. 12 (other than Div. 3), Pt. 13, Pt 14 Div. 1 (other than s. 303) and Div. 2 (other than Subdiv. 1, 2, 3, 8 and 10 and s. 327(1)): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 27(1) and (2) and 28, Pt. 9 Div. 2 and Pt. 14 Div. 2 Subdiv. 8: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 230 and 236: 1 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
+Transport (Road Passenger Services) Act 2018 | 26 of 2018 | 30 Oct 2018 | Pt. 1: 30 Oct 2018 (see s. 2(a)) Pt. 2, Pt. 3 (other than s. 27(1) and (2) and 28), Pt. 7 and 8, Pt. 9 Div. 1 (other than s. 230 and 236) and Div. 3, Pt. 10 and 11, Pt. 12 (other than Div. 3), Pt. 13, Pt 14 Div. 1 (other than s. 303) and Div. 2 (other than Subdiv. 1, 2, 3, 8 and 10 and s. 327(1)): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 27(1) and (2) and 28, Pt. 9 Div. 2 and Pt. 14 Div. 2 Subdiv. 8: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 230 and 236: 1 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473); Pt. 4 (other than s. 56 and 57), Pt. 6, s. 303 and 327(1), Pt. 14 Div. 2 Subdiv. 1-3 and 10: 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Transport (Road Passenger Services) Amendment Act 2018 | 27 of 2018 | 30 Oct 2018 | s. 1 and 2: 30 Oct 2018 (see s. 2(a)); Act other than s. 1 and 2: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Transport (Road Passenger Services) Act 2018 Pt. 4-6, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1-3 and 10 and s. 327(1) | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 4-6, Pt. 12 Div. 3, s. 303, Pt. 14 Div. 2 Subdiv. 1-3 and 10 and s. 327(1) had not come into operation. They read as follows:
+Transport (Road Passenger Services) Act 2018 s. 56, 57, Pt. 5 and Pt. 12 Div. 3 | 26 of 2018 | 30 Oct 2018 | s. 56 and 57: 1 Aug 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473); Pt. 5 and Pt. 12 Div. 3: to be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 s. 56 and 57, Pt. 5 and Pt. 12 Div. 3 had not come into operation. They read as follows:
 Part 4 — Regular passenger transport services
 Division 1 — Offences
 56.Provider of regular passenger transport service must be authorised
@@ -24,229 +24,6 @@ A provider of a regular passenger transport service must comply with the conditi
 Penalty:
 (a)for an individual, a fine of $40 000;
 (b)for a body corporate, a fine of $200 000.
-58.Provider of regular passenger transport service must notify CEO if no longer providing service
-A provider of a regular passenger transport service must give written notice to the CEO as soon as practicable if the provider ceases to provide a regular passenger service on any route or routes or in any area or areas specified in the regular passenger transport service authorisation.
-Penalty:
-(a)for an individual, a fine of $5 000;
-(b)for a body corporate, a fine of $25 000.
-Division 2 — Authorisation
-59.Application for authorisation to provide regular passenger transport service
-(1) The following may apply for authorisation to provide a regular passenger transport service —
-(a) an individual;
-(b) 2 or more persons who intend to provide the service jointly under a partnership or other agreement;
-(c) a body corporate incorporated under a law of this or any other jurisdiction including —
-(i) the Corporations Act 2001 (Commonwealth); and
-(ii) the Associations Incorporation Act 2015; and
-(iii) the Co-operatives Act 2009;
-(d) any other prescribed entity.
-(2) An application for authorisation is to be made to the CEO.
-(3) An application must —
-(a) be in the approved form; and
-(b) contain the following information —
-(i) the route or routes on which or the area or areas in which it is intended that the service is to operate;
-(ii) an estimate of the number of vehicles to be used in providing the service;
-(iii) a description of the kinds of vehicles to be used in providing the service;
-(iv) an estimate of the maximum number of passengers to be carried by the vehicles proposed to be used;
-(v) the fares proposed to be charged;
-and
-(c) contain the information required by the CEO; and
-(d) comply with the requirements of the regulations; and
-(e) be accompanied by the prescribed application fee.
-(4) The CEO may, by written notice given to the applicant, require the applicant to provide further information relevant to the application that is specified in the notice within the time (being not less than 30 days) specified in the notice.
-60.Minister is decision-maker
-The Minister is to make the decision under this Part to grant or to refuse to grant a regular passenger transport service authorisation.
-61.Minister may delegate
-(1) The Minister may delegate to the CEO or any person employed in, or engaged for the purposes of, the Department any power or duty of the Minister under this Part.
-(2) The delegation must be in writing signed by the Minister.
-(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
-(4) A person exercising or performing a power or duty that has been delegated to the person under this section is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
-(5) Nothing in this section limits the ability of the Minister to perform a function through an officer or agent.
-62.Matters Minister may take into account in making decision
-(1) In making a decision as to whether to grant a regular passenger transport service authorisation, the Minister may take into account all or any of the following matters —
-(a) the necessity for the service proposed to be provided and the convenience that would be given to the public by the provision of the proposed service;
-(b) the existing service for the transport of passengers on the route or routes, or within the area or areas, proposed to be served, in relation to —
-(i) its present adequacy and possibilities for improvement to meet all reasonable public demands; and
-(ii) the effect on the existing service of the service proposed to be provided;
-(c) the condition of the roads to be included in the proposed route or routes or area or areas;
-(d) the qualifications and financial stability of the applicant;
-(e) the interests of persons requiring transport to be provided and of the community generally.
-(2) The Minister is not required to take into account any matter referred to in subsection (1) in making a decision in relation to a particular application for authorisation.
-63.Grant of authorisation
-The Minister may grant a regular passenger transport service authorisation if the Minister is satisfied that the applicant —
-(a) has complied with the requirements of section 59(3)(a) to (d) and provided the information required under section 59(4); and
-(b) complies with any prescribed criteria; and
-(c) has the capacity to provide the service; and
-(d) has paid the prescribed application fee under section 59(3)(e); and
-(e) has paid the relevant prescribed authorisation fee (if any) for the authorisation within the time for payment required by the CEO.
-64.Grant of temporary authorisation
-(1) The Minister may grant a regular passenger transport service authorisation without prior lodgment of a written application under section 59 if —
-(a) the application is for an authorisation for a particular purpose of limited duration; and
-(b) the Minister is satisfied that sufficient information has been made available to enable the Minister to do so.
-(2) An authorisation granted in accordance with this section —
-(a) takes effect when verbal notice is given to the applicant that the authorisation has been granted; and
-(b) is taken not to have taken effect if —
-(i) the written application complying with section 59 is not provided to the CEO within 14 days of the Minister’s decision; or
-(ii) the information in the written application differs in a material respect from the information provided to the Minister before the Minister’s decision.
-65.Refusal of authorisation
-(1) Without limiting section 63 or 64, the Minister may refuse to grant a regular passenger transport service authorisation if —
-(a) the Minister is satisfied that authorisation should not be granted on the basis of any matter to which the Minister has had regard under section 62(1); or
-(b) the Minister is satisfied that the applicant is not a fit and proper person to be authorised to provide a regular passenger transport service.
-(2) The Minister may have regard to any relevant matters in determining whether an applicant is a fit and proper person to be authorised to provide a regular passenger transport service.
-66.Conditions of authorisation
-A regular passenger transport service authorisation is granted subject to the following conditions —
-(a) any conditions imposed under this Act;
-(b) any conditions that the Minister thinks fit and specifies on the authorisation document or otherwise specifies in writing.
-67.Application for variation of conditions
-(1) The provider of an authorised regular passenger transport service may apply to the Minister for a variation of the conditions of the regular passenger transport service authorisation imposed by the Minister.
-(2) The application must —
-(a) be in the approved form; and
-(b) be accompanied by any documents or other information specified in the approved form; and
-(c) be accompanied by the prescribed application fee.
-68.Variation of conditions
-(1) The Minister may vary the conditions of a regular passenger transport service authorisation imposed by the Minister if the Minister is satisfied that the variation is appropriate in the circumstances.
-(2) A variation may be made on application under section 67 or on the Minister’s own initiative.
-(3) A variation —
-(a) must be in writing; and
-(b) may do any of the following —
-(i) vary existing conditions;
-(ii) remove existing conditions;
-(iii) add new conditions.
-69.Application for variation of approved routes and areas
-(1) The provider of an authorised regular passenger transport service may apply to the Minister to approve a variation to the route or routes or the area or areas approved under the authorisation.
-(2) The application must —
-(a) be in the approved form; and
-(b) be accompanied by any documents or other information specified in the approved form; and
-(c) be accompanied by the prescribed application fee.
-70.Variation of approved routes and areas
-(1) On an application under section 69, the Minister may approve a variation to the route or routes or area or areas approved under a regular passenger transport service authorisation if the Minister is satisfied that the variation is appropriate in the circumstances.
-(2) The Minister may, in accordance with the regulations, approve a temporary variation to the route or routes or area or areas approved under a regular passenger transport service authorisation if the Minister is satisfied that the variation is appropriate in the circumstances.
-(3) The Minister may take into account the matters specified in section 62(1) in deciding whether to approve a variation to a route or routes or area or areas under subsection (1) or (2).
-(4) A variation must be in writing.
-71.Notice of decision to refuse or vary
-(1) The Minister must give an applicant written notice of a decision under section 63, 64 or 65 to refuse to grant a regular passenger transport service authorisation.
-(2) The Minister must give the provider of an authorised regular passenger transport service written notice of a decision —
-(a) to refuse to grant an application under section 67 for the variation of the conditions of the regular passenger transport service authorisation; or
-(b) to vary the conditions of the regular passenger transport service authorisation under section 68.
-(3) The Minister must give the provider of an authorised regular passenger transport service written notice of a decision to refuse an application under section 69 or the regulations for the variation of the route or routes or area or areas approved under the regular passenger transport service authorisation.
-(4) In the case of a decision to vary the conditions of a regular passenger transport service authorisation on the Minister’s own initiative, the notice must state —
-(a) the reasons for the decision; and
-(b) that the person has a right to a review under Part 10.
-72.Authorisation document
-(1) If the Minister grants a regular passenger transport service authorisation, the CEO must issue an authorisation document to the provider of the service.
-(2) The authorisation document must —
-(a) be in the approved form; and
-(b) identify the provider of the regular passenger transport service; and
-(c) specify the authorisation number.
-73.Effect of authorisation
-(1) In this section —
-regular passenger transport vehicle means a vehicle that is authorised or otherwise permitted under this Act to be operated for use in providing a regular passenger transport service.
-(2) A regular passenger transport service authorisation authorises the holder of the authorisation to provide a regular passenger transport service using regular passenger transport vehicles on the route or routes or in the area or areas approved by the Minister and specified in the authorisation document.
-(3) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), a regular passenger transport service authorisation is declared not to be personal property for the purposes of that Act.
-74.Duration of authorisation
-(1) A regular passenger transport service authorisation is granted for the prescribed period.
-(2) A regular passenger transport service authorisation may be renewed in accordance with the regulations.
-(3) A regular passenger transport service authorisation remains in force until whichever of the following occurs first —
-(a) it expires;
-(b) it is cancelled.
-(4) A regular passenger transport service authorisation is not in force during any period for which it is suspended.
-Note for this subsection:
-See Division 3 for the suspension of a regular passenger transport service authorisation.
-75.Application for transfer of authorisation
-(1) A person or entity who is eligible under section 59(1) to apply for a regular passenger transport service authorisation may apply for approval of the transfer to the person or entity of a regular passenger transport service authorisation.
-(2) An application may only be made under subsection (1) if the provider of the authorised regular passenger transport service consents.
-(3) An application for approval of a transfer of authorisation is to be made to the CEO.
-(4) An application must —
-(a) be in the approved form; and
-(b) contain the information required by the CEO; and
-(c) comply with the requirements of the regulations; and
-(d) be accompanied by the prescribed application fee.
-(5) The CEO may, by written notice given to the applicant, require the applicant to provide further information relevant to the application that is specified in the notice within the time (being not less than 30 days) specified in the notice.
-76.Matters Minister may take into account in making decision
-(1) In making a decision as to whether to approve the transfer of a regular passenger transport service authorisation, the Minister may take into account the following matters —
-(a) the qualifications and financial stability of the applicant;
-(b) the interests of persons requiring transport to be provided and of the community generally.
-(2) The Minister is not required to take into account any matter referred to in subsection (1) in making a decision in relation to a particular application for approval.
-77.Grant of approval
-(1) The Minister may grant an approval for the transfer of a regular passenger transport service authorisation if the Minister is satisfied that the applicant —
-(a) has complied with the requirements of section 75(4)(a) to (c) and provided the information required under section 75(5); and
-(b) complies with any prescribed criteria; and
-(c) has the capacity to provide the service; and
-(d) has paid the prescribed application fee under section 75(4)(d).
-(2) The Minister must not approve a transfer of a regular passenger transport service authorisation if the application seeks a change to the route or routes or area or areas authorised under the authorisation.
-78.Refusal to approve transfer of authorisation
-(1) Without limiting section 77, the Minister may refuse to approve the transfer of a regular passenger transport service authorisation if —
-(a) the Minister is satisfied that approval should not be granted on the basis of any matter to which the Minister has had regard under section 76; or
-(b) the Minister is satisfied that the applicant is not a fit and proper person to be authorised to provide a regular passenger transport service.
-(2) The Minister may have regard to any relevant matters in determining whether an applicant for approval is a fit and proper person to be authorised to provide a regular passenger transport service.
-Division 3 — Suspension and cancellation
-Subdivision 1 — Suspension or cancellation by order
-79.Suspension or cancellation order
-(1) The Minister may make an order suspending or cancelling a regular passenger transport service authorisation if —
-(a) the Minister is no longer satisfied that the provider of the service meets the requirements for the grant of an authorisation in section 63(b) or (c) or for the transfer of an authorisation in section 77(1)(b) or (c), as the case requires; or
-(b) the Minister is no longer satisfied that the provider of the service is providing an effective regular passenger transport service on the route or routes or in the area or areas approved under the authorisation; or
-(c) the provider of the service has failed to comply with any requirements under this Act, including —
-(i) a condition of the authorisation; and
-(ii) any duty or obligation imposed on the provider under this Act;
-or
-(d) the authorisation was obtained by fraud or misrepresentation; or
-(e) the Minister is no longer satisfied that the provider of the service is a fit and proper person to be authorised to provide a regular passenger transport service.
-(2) A suspension order made under subsection (1)(a), (c) or (e) may include a requirement that the provider of the regular passenger transport service undertake remedial action.
-(3) The Minister may, by written notice given to the provider of the regular passenger transport service, vary or waive a requirement imposed under subsection (2).
-80.Order may be made even if authorisation suspended
-An order may be made under section 79(1) even if the regular passenger transport service authorisation is already suspended when the order is made.
-81.Show cause process
-(1) Unless section 82 applies, the Minister must not make an order under section 79(1) unless the Minister has first complied with this section.
-(2) The Minister must serve notice on the provider of the regular passenger transport service to show cause within 30 days why the regular passenger transport service authorisation should not be suspended or cancelled, as the case may be.
-(3) If the Minister is not satisfied at the end of the 30-day notice period, the order may be made under section 79(1).
-(4) The Minister may make an order suspending a regular passenger transport service authorisation within the 30-day notice period if the Minister considers that the suspension is necessary in the circumstances.
-82.Immediate suspension or cancellation
-The Minister may make an order under section 79(1) without complying with section 81 if the Minister has reason to believe that the regular passenger transport service has been or is being conducted in a manner that causes, or may cause, danger to the public.
-83.Notice of suspension order
-The CEO must give written notice of a suspension order under section 79(1) or 81(4) to the provider of the regular passenger transport service stating the following —
-(a) that the regular passenger transport service authorisation is suspended;
-(b) the day on which the period of suspension commences;
-(c) the grounds on which the order is made;
-(d) if the order is made under section 79(1), any remedial action that the provider is required to take under section 79(2);
-(e) if the order is made under section 79(1)(a), (c) or (e) or 81(4), that the provider has a right to a review under Part 10.
-84.Period of suspension
-(1) A regular passenger transport service authorisation subject to a suspension order under section 79(1) is suspended under the order for a period —
-(a) commencing on the day stated in the notice under section 83(b); and
-(b) ending on the first of the following to occur —
-(i) the day stated in a notice of revocation of the suspension order under section 85(4)(b);
-(ii) the day on which the authorisation is cancelled under this Act;
-(iii) the day on which the authorisation expires.
-(2) A regular passenger transport service authorisation subject to a suspension order under section 81(4) is suspended under the order for a period —
-(a) commencing on the day stated in the notice under section 83(b); and
-(b) ending on the first of the following to occur —
-(i) the day on which the authorisation is suspended or cancelled after the end of the 30-day period referred to in section 81;
-(ii) the day stated in a notice of revocation of the order under section 85(4)(b);
-(iii) the day on which the authorisation is otherwise cancelled under this Act;
-(iv) the day on which the authorisation expires.
-85.Revocation of suspension order
-(1) The Minister may at any time revoke a suspension order under section 79(1) or 81(4).
-(2) The Minister must revoke a suspension order made under section 81(4) as soon as practicable after the end of the 30-day notice period referred to in section 81 if the Minister decides not to make an order under section 79(1).
-(3) The Minister must revoke a suspension order made under section 79(1) as soon as practicable after the Minister becomes satisfied that —
-(a) if the order includes a requirement under section 79(2) that the provider of the regular passenger transport service undertake any remedial action — that action has been undertaken; and
-(b) the grounds for making the order no longer exist.
-(4) The Minister must give written notice of a revocation of a suspension order under this section to the provider of the regular passenger transport service stating the following —
-(a) that the suspension of the regular passenger transport service authorisation has been revoked;
-(b) the day on which the suspension of the regular passenger transport service authorisation under the order ends;
-(c) the reasons for the revocation.
-86.Notice of cancellation order
-(1) The Minister must give written notice of a cancellation order under section 79(1) to the provider of the regular passenger transport service stating the following —
-(a) that the regular passenger transport service authorisation is cancelled;
-(b) the day on which the cancellation takes effect;
-(c) the grounds on which the order is made;
-(d) if the order is made under section 79(1)(a), (c) or (e), that the provider has a right to a review under Part 10.
-(2) A regular passenger transport service authorisation subject to a cancellation order is cancelled on the day stated in the order.
-Subdivision 2 — Automatic suspension or cancellation
-87.Automatic suspension: joint authorisation
-If 2 or more persons jointly hold a regular passenger transport service authorisation and any one of them dies or ceases to jointly provide the service —
-(a) the authorisation is suspended by force of this section at the end of the period of 21 days after the death or cessation unless the CEO has been notified before the end of that period of the death or cessation; and
-(b) the authorisation may be suspended, cancelled or varied because of the death or cessation.
-Subdivision 3 — Cancellation on ceasing to provide service
-88.Cancellation on ceasing to provide service
-The Minister must cancel a regular passenger transport service authorisation if the holder of the authorisation notifies the Minister that the holder is no longer providing that service.
 Part 5 — Passenger transport drivers
 Division 1 — Interpretation
 89.Term used: disqualification offence
@@ -511,253 +288,6 @@ The CEO must give a person written notice of the cancellation of the person’s 
 Subdivision 3 — Automatic cancellation of authorisation
 119.Cancellation of authorisation: cancellation of driver’s licence
 A passenger transport driver authorisation held by a person is cancelled if the person’s driver’s licence issued under the Road Traffic (Authorisation to Drive) Act 2008 is cancelled.
-Part 6 — Passenger transport vehicles
-Division 1 — Interpretation
-120.Terms used
-In this Part —
-operate, in relation to a vehicle, includes make available for use in transporting passengers for hire or reward;
-owner, in relation to a vehicle, has the same meaning as it has in the Road Traffic (Administration) Act 2008 section 5 as if this Part were a road law referred to in that section.
-Division 2 — Offences
-121.Driving vehicle without valid vehicle authorisation
-(1) A person commits an offence if —
-(a) the person drives a vehicle for use in providing a passenger transport service; and
-(b) the vehicle is not authorised under this Part to be operated for use in providing that category of passenger transport service.
-Penalty for this subsection: a fine of $12 000.
-(2) A person does not commit an offence under subsection (1) if —
-(a) an interstate vehicle authorisation is in force in relation to the vehicle; and
-(b) the person complies with the conditions of that authorisation and with the regulations in driving the vehicle for use in providing the passenger transport service; and
-(c) the driving occurs within the relevant prescribed period for that authorisation.
-(3) A person does not commit an offence under subsection (1) if —
-(a) the vehicle is being driven in place of an authorised passenger transport vehicle while the authorised vehicle is being repaired and is not in operation; and
-(b) the vehicle licence for the vehicle under the Road Traffic (Vehicles) Act 2012 is in force or a vehicle licence is not required for the vehicle because of section 4(5) of that Act; and
-(c) the vehicle is driven within the period and in accordance with the requirements specified in the regulations.
-(4) It is a defence to a charge of an offence under subsection (1) to prove that the person charged took reasonable steps to ensure that the vehicle was authorised under this Act to be operated for use in providing the category of passenger transport service provided.
-(5) It is a defence to a charge of an offence under subsection (1) for a person to prove that —
-(a) the vehicle was not authorised under this Part to be operated for use in providing a passenger transport service because the vehicle licence for the vehicle was of no effect under the Road Traffic (Vehicles) Act 2012 section 16 because the owner was disqualified under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 19 or 43 from holding or obtaining a vehicle licence; and
-(b) the person did not know and could not reasonably be expected to have known of the circumstances referred to in paragraph (a).
-122.Operating vehicle without valid vehicle authorisation
-(1) A person commits an offence if —
-(a) the person operates a vehicle for use in providing a passenger transport service; and
-(b) the vehicle is not authorised under this Part to be operated for use in providing that category of passenger transport service.
-Penalty for this subsection:
-(a)for an individual, a fine of $12 000;
-(b)for a body corporate, a fine of $60 000.
-(2) A person commits an offence if —
-(a) the person —
-(i) causes or permits another person to operate a vehicle for use in providing a passenger transport service; or
-(ii) is the provider of an on-demand booking service in relation to the operation of the vehicle for use in providing a passenger transport service;
-and
-(b) the vehicle is not authorised under this Part to be operated for use in providing that category of passenger transport service.
-Penalty for this subsection:
-(a)for an individual, a fine of $12 000;
-(b)for a body corporate, a fine of $60 000.
-(3) A person does not commit an offence under subsection (1) or (2) if —
-(a) an interstate vehicle authorisation is in force in relation to the vehicle; and
-(b) the vehicle is operated in accordance with the conditions of that authorisation and with the regulations; and
-(c) the operation of the vehicle occurs within the relevant prescribed period for that authorisation.
-(4) A person does not commit an offence under subsection (1) or (2) if —
-(a) the vehicle is being operated to replace an authorised passenger transport vehicle while the authorised vehicle is being repaired and is not in operation; and
-(b) the vehicle licence for the vehicle under the Road Traffic (Vehicles) Act 2012 is in force or a vehicle licence is not required for the vehicle because of section 4(5) of that Act; and
-(c) the vehicle is operated within the period and in accordance with the requirements specified in the regulations.
-(5) It is a defence to a charge of an offence under subsection (1) or (2) to prove that the person charged took reasonable steps to ensure that the vehicle was authorised under this Act to be operated for use in providing the category of passenger transport service provided.
-(6) It is a defence to a charge of an offence under subsection (1) or (2) for a person to prove that —
-(a) the vehicle was not authorised under this Part to be operated for use in providing a passenger transport service because the vehicle licence for the vehicle was of no effect under the Road Traffic (Vehicles) Act 2012 section 16 because the owner was disqualified under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 19 or 43 from holding or obtaining a vehicle licence; and
-(b) the person did not know and could not reasonably be expected to have known of the circumstances referred to in paragraph (a).
-123.Person must comply with authorisation conditions
-A person must not operate an authorised passenger transport vehicle or allow the operation of the vehicle in contravention of the conditions of the passenger transport vehicle authorisation.
-Penalty:
-(a)for an individual, a fine of $12 000;
-(b)for a body corporate, a fine of $60 000.
-Division 3 — Authorisation
-124.Application for authorisation
-(1) The following may apply for a passenger transport vehicle authorisation for a vehicle —
-(a) the owner of the vehicle;
-(b) a person authorised by the owner of the vehicle to apply for authorisation of the vehicle.
-(2) An application for authorisation is to be made to the CEO.
-(3) An application must —
-(a) be in the approved form; and
-(b) contain the information required by the CEO; and
-(c) state the category or categories of passenger transport service for which the vehicle is to be operated; and
-(d) be accompanied by the prescribed application fee.
-(4) The CEO may, by written notice given to the applicant, require the applicant to provide further information relevant to the application that is specified in the notice within the time (being not less than 30 days) specified in the notice.
-125.Categories of passenger transport service
-The categories of passenger transport service for passenger transport vehicle authorisations are as follows —
-(a) on-demand rank or hail passenger transport service;
-(b) on-demand charter passenger transport service;
-(c) regular passenger transport service;
-(d) tourism passenger transport service;
-(e) prescribed passenger transport service.
-126.Requirements for authorisation of vehicle
-The CEO must not grant a passenger transport vehicle authorisation for a vehicle under this Division unless the vehicle meets the requirements specified in the regulations.
-127.Grant of authorisation
-The CEO may grant a passenger transport vehicle authorisation in relation to a vehicle if the CEO is satisfied that —
-(a) the applicant has complied with the requirements of section 124(3)(a) to (c) and provided the information required under section 124(4); and
-(b) the requirements of section 126 have been met; and
-(c) the applicant has paid the prescribed application fee under section 124(3)(d); and
-(d) the applicant has paid the relevant prescribed authorisation fee for the authorisation within the time for payment required by the CEO.
-128.Refusal of authorisation
-(1) The CEO must refuse to grant a passenger transport vehicle authorisation in relation to a vehicle if another person already holds an authorisation in relation to that vehicle.
-(2) Without limiting section 127, the CEO may refuse to grant a passenger transport vehicle authorisation in relation to a vehicle if the CEO is satisfied that the applicant is not a fit and proper person to hold the authorisation.
-(3) The CEO may have regard to any relevant matters in determining whether an applicant is a fit and proper person to hold the authorisation.
-129.Conditions of vehicle authorisation
-A passenger transport vehicle authorisation is granted subject to the following conditions —
-(a) any conditions imposed under this Act;
-(b) any conditions that the CEO thinks fit and specifies on the authorisation document or otherwise specifies in writing.
-130.Application for variation of conditions
-(1) The holder of a passenger transport vehicle authorisation may apply to the CEO for the variation of the conditions of the authorisation imposed by the CEO.
-(2) The application must —
-(a) be in the approved form; and
-(b) be accompanied by any documents or other information specified in the approved form; and
-(c) be accompanied by the prescribed application fee.
-131.Variation of conditions
-(1) The CEO may vary the conditions of a passenger transport vehicle authorisation imposed by the CEO if the CEO is satisfied that the variation is appropriate in the circumstances.
-(2) A variation may be made on application under section 130 or on the CEO’s own initiative.
-(3) A variation —
-(a) must be in writing; and
-(b) may do any of the following —
-(i) vary existing conditions;
-(ii) remove existing conditions;
-(iii) add new conditions.
-132.Application for variation of categories of passenger transport service
-(1) The holder of a passenger transport vehicle authorisation may apply to the CEO to vary the authorisation —
-(a) to add a category of passenger transport service in relation to the vehicle; or
-(b) to remove a category of passenger transport service in relation to the vehicle.
-(2) The application must —
-(a) be in the approved form; and
-(b) be accompanied by any documents or other information specified in the approved form; and
-(c) be accompanied by the prescribed application fee (if any).
-133.Variation of categories of passenger transport service
-(1) On an application under section 132, the CEO may vary the passenger transport vehicle authorisation to, as the case requires —
-(a) remove a category of passenger transport service in relation to the vehicle; or
-(b) add a category of passenger transport service in relation to the vehicle if the CEO is satisfied that —
-(i) the requirements of section 132(2) have been met; and
-(ii) the vehicle meets the requirements specified in the regulations.
-(2) A variation must be in writing.
-134.Notice of decision to refuse or vary
-(1) The CEO must give an applicant written notice of a decision under section 127 or 128(1) or (2) to refuse to grant a passenger transport vehicle authorisation.
-(2) The CEO must give the holder of passenger transport vehicle authorisation written notice of a decision —
-(a) to refuse to grant an application under section 130 for the variation of the conditions of the passenger transport vehicle authorisation; or
-(b) to vary the conditions of the passenger transport vehicle authorisation under section 131; or
-(c) to refuse to grant an application under section 132 to vary the passenger transport vehicle authorisation to add or remove a category of passenger transport service.
-(3) A notice may be given under this section in relation to 2 or more vehicles if the decision is made for the same reasons for each vehicle.
-(4) In the case of a relevant decision the notice must state —
-(a) the reasons for the decision; and
-(b) that the person has a right to a review under Part 10.
-(5) In subsection (4) —
-relevant decision means a decision —
-(a)to refuse to grant a passenger transport vehicle authorisation —
-(i)because the CEO is not satisfied as to a matter referred to in section 127(a) or (b); or
-(ii)under section 128(2);
-or
-(b)to impose conditions on a passenger transport vehicle authorisation under section 129(b); or
-(c)to vary the conditions of a passenger transport vehicle authorisation on the CEO’s own initiative; or
-(d)to refuse to grant an application to vary the conditions of a passenger transport vehicle authorisation; or
-(e)to refuse to grant an application to vary a passenger transport vehicle authorisation to add or remove a category of passenger transport service.
-135.Authorisation document
-(1) If the CEO grants a passenger transport vehicle authorisation under this Division, the CEO must issue an authorisation document to the holder of the authorisation.
-(2) The authorisation document must —
-(a) be in the approved form; and
-(b) identify the holder of the passenger transport vehicle authorisation; and
-(c) specify the authorisation number; and
-(d) identify the vehicle authorised; and
-(e) specify the category or categories of passenger transport service for which the vehicle is authorised to be operated.
-136.Effect of authorisation
-(1) A passenger transport vehicle authorisation that specifies that the vehicle can be operated for use in providing an on-demand rank or hail passenger transport service authorises the operation of the vehicle for use in providing that service anywhere in the State for the prescribed period.
-(2) A passenger transport vehicle authorisation that specifies that the vehicle can be operated for use in providing an on-demand charter passenger transport service authorises the operation of the vehicle for use in providing that service anywhere in the State for the prescribed period.
-(3) A passenger transport vehicle authorisation that specifies that the vehicle can be operated for use in providing a regular passenger transport service authorises the operation of the vehicle for use in providing that service anywhere in the State for the prescribed period.
-(4) A passenger transport vehicle authorisation that specifies that the vehicle can be operated for use in providing a tourism passenger transport service authorises the operation of the vehicle for use in providing that service anywhere in the State for the prescribed period.
-(5) A passenger transport vehicle authorisation that specifies that the vehicle can be operated for use in providing a prescribed passenger transport service authorises the operation of the vehicle for use in providing that service in accordance with the regulations for the prescribed period.
-137.Duration of authorisation
-(1) A passenger transport vehicle authorisation is granted for the prescribed period.
-(2) A passenger transport vehicle authorisation may be renewed in accordance with the regulations.
-(3) A passenger transport vehicle authorisation remains in force until whichever of the following occurs first —
-(a) it expires;
-(b) it is cancelled.
-(4) A passenger transport vehicle authorisation is not in force during any period for which it is suspended.
-Note for this subsection:
-See Division 4 for the suspension of a passenger transport vehicle authorisation.
-(5) A passenger transport vehicle authorisation is not in force in relation to a vehicle during any period that the vehicle licence for the vehicle under the Road Traffic (Vehicles) Act 2012 is not in force.
-138.Authorisation not transferable
-A passenger transport vehicle authorisation is not transferable.
-Division 4 — Suspension or cancellation
-Subdivision 1 — Suspension or cancellation by order
-139.Suspension or cancellation order
-(1) The CEO may make an order suspending or cancelling a passenger transport vehicle authorisation if —
-(a) the CEO is no longer satisfied that the vehicle meets the requirements for the grant of the authorisation in section 126; or
-(b) the holder of the authorisation has failed to comply with any requirements under this Act, including —
-(i) a condition of the authorisation; and
-(ii) any duty or obligation imposed on the holder under this Act;
-or
-(c) the authorisation was obtained by fraud or misrepresentation; or
-(d) the CEO is no longer satisfied that the holder of the authorisation is a fit and proper person to hold the authorisation.
-(2) A suspension order made under subsection (1)(b) or (d) may include a requirement that the holder of the passenger transport vehicle authorisation undertake remedial action.
-(3) The CEO may, by written notice given to the holder of the passenger transport vehicle authorisation, vary or waive a requirement imposed under subsection (2).
-(4) An order may be made in relation to 2 or more passenger transport vehicle authorisations on the same grounds.
-140.Order may be made even if authorisation suspended
-An order may be made under section 139(1) even if the passenger transport vehicle authorisation is already suspended when the order is made.
-141.Show cause process
-(1) Unless section 142 applies, the CEO must not make an order under section 139(1) unless the CEO has first complied with this section.
-(2) The CEO must serve notice on the holder of the passenger transport vehicle authorisation to show cause within 30 days why the passenger transport vehicle authorisation should not be suspended or cancelled, as the case may be.
-(3) If the CEO is not satisfied at the end of the 30-day notice period, the order may be made under section 139(1).
-(4) The CEO may make an order suspending a passenger transport vehicle authorisation within the 30-day notice period if the CEO considers that the suspension is necessary in the circumstances.
-142.Immediate suspension or cancellation
-The CEO may make an order under section 139(1) without complying with section 141 if the CEO has reason to believe that the passenger transport vehicle —
-(a) is in a condition that, if driven, is, or may be, a danger to the public; or
-(b) has been or is being operated in a manner that has caused, or may cause, danger to the public.
-143.Notice of suspension order
-The CEO must give written notice of a suspension order made under section 139(1) or 141(4) to the holder of the passenger transport vehicle authorisation stating the following —
-(a) that the passenger transport vehicle authorisation is suspended;
-(b) the day on which the period of suspension commences;
-(c) the grounds on which the order is made;
-(d) if the order is made under section 139(1), any remedial action that the holder is required to take under section 139(2);
-(e) if the order is made under section 139(1)(b) or (d) or 141(4), that the holder has a right to a review under Part 10.
-144.Period of suspension
-(1) A passenger transport vehicle authorisation subject to a suspension order under section 139(1) is suspended under the order for a period —
-(a) commencing on the day stated in the notice under section 143(b); and
-(b) ending on the first of the following to occur —
-(i) the day stated in a notice of revocation of the order under section 145(4)(b);
-(ii) the day on which the authorisation is cancelled under this Act;
-(iii) the day on which the authorisation expires.
-(2) A passenger transport vehicle authorisation subject to a suspension order under section 141(4) is suspended under the order for a period —
-(a) commencing on the day stated in the notice under section 143(b); and
-(b) ending on the first of the following to occur —
-(i) the day on which the authorisation is suspended or cancelled after the end of the 30-day period referred to in section 141;
-(ii) the day stated in a notice of revocation of the order under section 145(4)(b);
-(iii) the day on which the authorisation is otherwise cancelled under this Act;
-(iv) the day on which the authorisation expires.
-145.Revocation of suspension order
-(1) The CEO may at any time revoke a suspension order made under section 139(1) or 141(4).
-(2) The CEO must revoke a suspension order made under section 141(4) as soon as practicable after the end of the 30-day notice period referred to in section 141 if the CEO decides not to make an order under section 139(1).
-(3) The CEO must revoke a suspension order made under section 139(1)(b) or (d) as soon as practicable after the CEO becomes satisfied that —
-(a) if the order includes a requirement under section 139(2) that the holder of the passenger transport vehicle authorisation undertake any remedial action — that action has been undertaken; and
-(b) the grounds for making the order no longer exist.
-(4) The CEO must give written notice of a revocation of a suspension order under this section to the holder of the passenger transport vehicle authorisation stating the following —
-(a) that the suspension of the authorisation has been revoked;
-(b) the day on which the suspension of the authorisation under the order ends;
-(c) the reasons for the revocation.
-146.Notice of cancellation order
-(1) The CEO must give written notice of a cancellation order under section 139(1) to the holder of the passenger transport vehicle authorisation stating the following —
-(a) that the authorisation is cancelled;
-(b) the day on which the cancellation takes effect;
-(c) the grounds on which the order is made;
-(d) if the order is made under section 139(1)(b) or (d), that the holder has a right to a review under Part 10.
-(2) A passenger transport vehicle authorisation subject to a cancellation order is cancelled on the day stated in the order.
-Subdivision 2 — Automatic cancellation of authorisation
-147.Cancellation of authorisation: cancellation of vehicle licence
-A passenger transport vehicle authorisation is cancelled in relation to a vehicle if the vehicle licence is cancelled under the Road Traffic (Vehicles) Act 2012.
-148.Cancellation of authorisation: transfer of ownership of vehicle
-(1) This section applies if the ownership of an authorised passenger transport vehicle is transferred to a person other than the holder of the authorisation for the vehicle (the transferee).
-(2) The passenger transport vehicle authorisation for the vehicle is cancelled at the end of the prescribed period after the transfer unless the CEO is notified within that period that the transferee has consented to the holder of the authorisation for the vehicle continuing to be the holder of the authorisation.
-(3) The notice to the CEO must —
-(a) be in the approved form; and
-(b) contain the information required by the CEO.
-Subdivision 3 — Cancellation of authorisation on request
-149.Cancellation of authorisation on request
-(1) The CEO may cancel a passenger transport vehicle authorisation at the request of the owner of the vehicle or the authorisation holder.
-(2) The CEO must give written notice of the cancellation of an authorisation to —
-(a) the owner of the vehicle; and
-(b) the holder of the passenger transport vehicle authorisation, if the holder is not the owner of the vehicle.
-(3) The cancellation of a passenger transport vehicle authorisation takes effect at the end of the relevant prescribed period specified in the notice.
 Part 12 — Miscellaneous
 Division 3 — Review of Act
 291.Review of Act
@@ -768,125 +298,9 @@ Division 3 — Review of Act
 (c) the effectiveness of the operation of the Department in relation to this Act; and
 (d) any other matters that appear to the Minister to be relevant.
 (3) The Minister must prepare a report based on the review and, as soon as practicable after its preparation, cause the report to be laid before each House of Parliament.
-Part 14 — Repeals and consequential amendments
-303.Taxi Act 1994 repealed
-The Taxi Act 1994 is repealed.
-Division 2 — Consequential amendments
-Subdivision 1 — Constitution Acts Amendment Act 1899 amended
-305.Act amended
-This Subdivision amends the Constitution Acts Amendment Act 1899.
-306.Schedule V Part 3 amended
-In Schedule V Part 3 delete the item relating to the Taxi Industry Board.
-Subdivision 2 — The Criminal Code amended
-307.Act amended
-This Subdivision amends The Criminal Code.
-308.Section 297 amended
-Delete section 297(4)(c)(iii) and insert:
-(iii) a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
-309.Section 318 amended
-Delete section 318(1)(g)(iii) and insert:
-(iii) a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1);
-Subdivision 3 — Road Traffic Act 1974 amended
-310.Act amended
-This Subdivision amends the Road Traffic Act 1974.
-311.Section 64A amended
-In section 64A(5):
-(a) in paragraph (a) delete “carried for hire or reward; or” and insert:
-transported for hire or reward as defined in the Transport (Road Passenger Services) Act 2018 section 11 (except subsection (2)); or
-(b) delete paragraph (b);
-(c) delete paragraph (c) and insert:
-(c) if, at the relevant time, the vehicle is transporting passengers for hire or reward as defined in the Transport (Road Passenger Services) Act 2018 section 11 (except subsection (2)); or
-312.Section 79D amended
-(1) In section 79D(1) delete the definitions of:
-taxi
-taxi operator
-(2) In section 79D(1) insert in alphabetical order:
-passenger transport vehicle means a passenger transport vehicle for which a passenger transport vehicle authorisation has been issued under the Transport (Road Passenger Services) Act 2018 whether or not, at the relevant time, the vehicle is standing or plying for hire or transporting passengers for reward;
-provider of a passenger transport vehicle has the meaning given in the Transport (Road Passenger Services) Act 2018 section 4(1);
-(3) Delete section 79D(2)(h) and (i) and insert:
-(h) a senior police officer is satisfied that, at the time the offence for which the vehicle was impounded was committed —
-(i) the vehicle was a passenger transport vehicle; and
-(ii) the person who allegedly committed the offence (the alleged offender) was driving the passenger transport vehicle under an agreement between the alleged offender and the provider of the passenger transport vehicle, or an agent of the provider, under which the alleged offender pays the provider or agent in order to be allowed to drive the passenger transport vehicle for reward; and
-(iii) the provider of the passenger transport vehicle or agent who entered into the agreement with the alleged offender had complied with subsection (5); and
-(iv) the alleged offender was not a responsible person for the vehicle;
-or
-(i) a senior police officer is satisfied that, at the time the offence for which the vehicle was impounded was committed —
-(i) the vehicle was a passenger transport vehicle; and
-(ii) the person who allegedly committed the offence (the alleged offender) was an employee or contractor of the provider of the passenger transport vehicle; and
-(iii) the alleged offender was driving the vehicle with the consent of the provider of the vehicle; and
-(iv) the person who consented to the alleged offender driving the vehicle had complied with subsection (5A); and
-(v) the alleged offender was not a responsible person for the vehicle;
-or
-(4) In section 79D(4) delete “(2)(g)(iv) and (i)(iv),” and insert:
-(2)(g)(iv),
-(5) Delete section 79D(5) and insert:
-(5) For the purposes of subsection (2)(h)(iii), a provider of a passenger transport vehicle or agent who enters into an agreement with a driver of a passenger transport vehicle must —
-(a) ensure the driver holds a current passenger transport driver authorisation under the Transport (Road Passenger Services) Act 2018; and
-(b) ensure the driver has been instructed to obey the law when driving the vehicle.
-(5A) For the purposes of subsection (2)(i)(iv), a provider of a passenger transport vehicle or agent who consents to an employee or contractor driving the vehicle must —
-(a) ensure the driver holds a current passenger transport driver authorisation under the Transport (Road Passenger Services) Act 2018; and
-(b) ensure the driver has been instructed to obey the law when driving the vehicle.
-Subdivision 7 — State Administrative Tribunal Act 2004 amended
-327.Schedule 1 amended
-(1) In Schedule 1 delete:
-Taxi Act 1994
-Subdivision 10 — Transport Co-ordination Act 1966 amended
-334.Act amended
-This Subdivision amends the Transport Co-ordination Act 1966.
-335.Section 4 amended
-(1) In section 4(1) delete the definition of omnibus.
-(2) Delete section 4(3) and (4).
-336.Section 15D inserted
-After section 15C insert:
-15D.Stopping places
-(1) In this section —
-local government includes the Commissioner of Main Roads, in relation to any road in relation to which the Commissioner may exercise power under the Main Roads Act 1930;
-passenger transport vehicle means a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1).
-(2) The Minister may appoint stopping places to be used for passenger transport vehicles operated for hire or reward.
-(3) The Minister may cause to be erected at a stopping place appointed under subsection (2) —
-(a) any sign indicating and identifying the stopping place; and
-(b) shelters of any design or construction the Minister thinks fit.
-(4) Before a sign or shelter is erected under subsection (3), the Minister must cause the Director General to confer with the local government concerned on the matter.
-(5) If agreement cannot be reached on the location, size and type of sign or shelter, the matter is to be determined by —
-(a) the Minister; and
-(b) as the case requires, the Minister administering the Local Government Act 1995 or the Minister administering the Main Roads Act 1930.
-(6) A local government must, if so required by the Minister, appoint within its district any stands for passenger transport vehicles that are agreed on between the Minister and the local government.
-(7) If agreement is not reached under subsection (6), the matter must be resolved in the manner provided by subsection (5) for resolving matters in dispute.
-337.Section 17 amended
-(1) After section 17(2) insert:
-(2A) The Minister may impose conditions, restrictions and prohibitions on an authorisation granted to a tenderer under the Transport (Road Passenger Services) Act 2018 Part 4 Division 2 in addition to any other conditions that may be imposed under that Division.
-(2) In section 17(3):
-(a) after “licence” (first occurrence) insert:
-or authorisation
-(b) delete “this Act to cancel the licence” and insert:
-this Act or the Transport (Road Passenger Services) Act 2018 to cancel the licence or authorisation
-338.Section 19 amended
-(1) In section 19(1) after “subject to” insert:
-subsection (1A) and
-(2) After section 19(1) insert:
-(1A) This Part does not apply to a passenger transport vehicle as defined in the Transport (Road Passenger Services) Act 2018 section 4(1).
-339.Section 20 amended
-In section 20(2) delete “vehicle or omnibus,” and insert:
-vehicle,
-340.Section 21 amended
-Delete section 21(1)(a).
-341.Part III Division 2 deleted
-Delete Part III Division 2.
-342.Part IIIB deleted
-Delete Part IIIB.
-343.Section 55 deleted
-Delete section 55.
-344.Section 57 amended
-Delete section 57(7).
-345.Section 60 amended
-Delete section 60(2)(c), (d), (e) and (ea).
-346.Section 63 amended
-In section 63 delete “this Act.” and insert:
-this Act or the Transport (Road Passenger Services) Act 2018.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-‘F’ or ‘T’ endorsed driver’s licence292
 a community transport service8(1)
 a courtesy transport service9(1)
 a tourism passenger transport service7(1)
@@ -932,6 +346,7 @@ duty holder20
 eligible former owner226(1)
 eligible licensee258
 eligible owner (buyback)226(1)
+‘F’ or ‘T’ endorsed driver’s licence292
 floor payment 226(1)
 GST226(1)
 Hardship Fund226(1)
@@ -953,7 +368,7 @@ levy fare241
 medical practitioner4(1)
 MPT plates226(1)
 multi-purpose taxi226(1)
-net loss226(1), 227(1), 227(2), 227(3)
+net loss226(1), 227(1), (2) and (3)
 new disqualification period45(1)
 nominated vehicle295(4), 296(3)
 offence information150(1)
@@ -967,10 +382,11 @@ on-demand passenger transport service4(1), 5(1)
 on-demand rank or hail passenger transport service4(1)
 on-demand rank or hail vehicle authorisation292
 on-demand vehicle4(1)
+operate120
 order to produce186
 outstanding fees226(1)
 owned taxi plates295(1)
-owner295(1)
+owner120, 295(1)
 passenger4(1)
 passenger transport authorisation4(1)
 passenger transport authorisation information150(1)
@@ -980,7 +396,7 @@ passenger transport service4(1)
 passenger transport vehicle4(1)
 passenger transport vehicle authorisation4(1)
 peak period plates226(1)
-plate purchase amount226(1), 228(1), 228(2)
+plate purchase amount226(1), 228(1) and (2)
 prescribed4(1)
 prescribed passenger transport service4(1)
 primary service9(1)
@@ -999,10 +415,11 @@ provider of an on-demand vehicle4(1)
 rank or hail service4(1)
 regular passenger transport service4(1), 6(1)
 regular passenger transport service authorisation4(1)
+regular passenger transport vehicle73(1)
 relevant assessment period246(1), 250(2)
 relevant authority150(1)
 relevant date296(1)
-relevant decision36(4)
+relevant decision36(4), 134(5)
 relevant financial interest12(1)
 relevant journey241
 relevant licence258
@@ -1029,6 +446,7 @@ taxi plates226(1), 295(1)
 tourism passenger transport service4(1)
 traffic infringement notice information150(1)
 traffic record check4(1)
+transferee148(1)
 transport co-ordination CEO150(1)
 vehicle4(1)
 vehicle licence4(1)
