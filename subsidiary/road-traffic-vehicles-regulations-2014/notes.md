@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 | 27 May 2015 p. 1865-6 | 27 May 2015 (see note under r. 1)
 Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 | 27 May 2015 p. 1867-71 | 27 May 2015 (see note under r. 1)
@@ -23,8 +23,9 @@ Road Traffic (Vehicles) Amendment Regulations (No. 3) 2019 | 29 Mar 2019 p. 962-
 Transport Regulations Amendment (Fees and Charges) Regulations 2019 Pt 3 | 17 May 2019 p. 1437-42 | 18 May 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 6 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations 2019 | 18 Jun 2019 p. 2061 | r. 1 and 2: 18 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
+Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 2019 Pt. 3 | 26 Jun 2019 p. 2229-371 | 2 Jul 2019 (see r. 2(d) and Gazette 28 Jun 2019 p. 2473)
+Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
-Repealed by the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (Cwlth).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
 2.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2015.
@@ -78,6 +79,8 @@ Australian Border Force3
 Australian Border Force vehicle3
 Australian Design Rule (ADR)3
 Australian Standard (AS)3
+authorised on-demand rank or hail vehicle109
+authorised passenger transport vehicle109
 B-double3
 bicycle3
 brake light308(1)
@@ -88,7 +91,7 @@ bus3, 323
 car3
 car or bus3
 car-type vehicle359(1)
-centre line3
+centre line3, 3
 CEO exemption455
 CEO exemption reviewable decision478
 Certificate of Attendance454E(1)
@@ -202,6 +205,8 @@ obscuring device120(1)
 obscuring device action120(1)
 omnibus3, 380(1)
 on a road423(1)
+on-demand charter vehicle109
+on-demand rank or hail vehicle109
 operator3
 order190, 202
 ordinary plate109
@@ -209,6 +214,9 @@ over-mass3
 overseas vehicle103
 oversize3
 parking brake3
+passenger transport service109
+passenger transport vehicle109
+passenger transport vehicle authorisation109
 peak hours3
 permit43, 190, 202
 personal details50(1)

@@ -2,26 +2,7 @@
 ## Forms
 [Form 1 deleted: Gazette 27 May 2016 p. 1556.]
 [Form 2 deleted: Gazette 28 Jun 2016 p. 2688.]
-Western Australia
-TRANSPORT CO-ORDINATION ACT 1966
-TRANSPORT CO-ORDINATION REGULATIONS 1985
-Form 3
-OMNIBUS STATISTICAL RETURN AND STATEMENT OF GROSS EARNINGS
- | MONTH |  | YEAR
- | Name of Licensee |  |  |  | 20
-VEHICLE DESCRIPTION | ROUTE NO. | TRIPS | PASS. CARRIED | TOTAL SEATS AVAILABLE | KM TRAVELLED | GROSS REVENUE $ | REV. FOR ASSESS. OF LIC. FEES
-1. TOURS: HALF-DAY, FULL-DAY, EXTENDED, SAFARI
-2. REGULAR TIMETABLED SERVICES
-3. CHARTER TRIPS
-4. TRIPS UNDER TEMPORARY LICENCE/PERMITS
-qPlease place CROSS in BOX if receipt required | REVENUE FOR ASSESS. OF LICENCE FEES $ | RATE % | LICENCE FEES PAYABLE $
-AMOUNT OF GROSS EARNINGS FROM — | TOURS
-R.P.T.
-OTHER
-TOTAL
-I certify that the above information is true and correct in every particular.
-................................................20........................................................................
-DateSignature of Licensee
+[Form 3 deleted: Gazette 26 Jun 2019 p. 2240.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -284,19 +265,17 @@ PARTICULARS OF THE JOURNEY (OR JOURNEYS): — JOURNEY 2 From....................
 Period for which Permit/Temporary Licence required (if applicable)...................................................
 From...................................... a.m.............20........To...........................................a.m.............20........
 p.m.p.m.
-Goods (or Passengers*) — Each Item of Goods (or Name or Party*) to be specified | Weight or No. | Rate | Fee
+Goods — Each Item of Goods to be specified | Weight or No. | Rate | Fee
 ....................................................................................................... ....................................................................................................... ....................................................................................................... .............................................................................................................................................................................................................. ....................................................................................................... | ...................... ...................... ...................... ...................... ...................... ...................... | ......... ......... ......... ......... .................. | ......... ......... ......... ......... ......... .........
  | TOTAL FEES
-*Charge for use or hire of the vehicle for above transport — $............................................................
 _______________________________________________________________________________
 REASONS why existing transport services cannot be used: — ...........................................................
 .................................................................................................................................................................
 ..................................................................................................................................................................................................................................................................................................................................
-(*OMNIBUS APPLICATIONS ONLY)...............................................................................................
 FOR OFFICE USE ONLY | I HEREBY CERTIFY that the information set out hereon is true and correct in every particular, and that the vehicle proposed to be used is correctly under the Road Traffic (Vehicles) Act 2012. Date of Application...........................20...... Signature of Applicant................................ Occupation of Applicant............................. Address of Applicant..................................
 Rec. No......................... Amount.......................... Date...............................
 Permit No...................... Expires........................... .......................................
-[Form 13 amended: Gazette 28 Feb 2003 p. 683; 8 Jan 2015 p. 70.]
+[Form 13 amended: Gazette 28 Feb 2003 p. 683; 8 Jan 2015 p. 70; 26 Jun 2019 p. 2240.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -364,7 +343,7 @@ PERMIT FEE: $................ Receipt No........................ | ISSUED with t
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 17
-APPLICATION FOR TRANSFER OF LICENCE OTHER THAN AN OMNIBUS LICENCE
+APPLICATION FOR TRANSFER OF LICENCE
 For...........................................................................................................................
 (State whether “Commercial Goods vehicle” “Ferry” or “Aircraft” Licence.)
 Date..........................................
@@ -385,21 +364,8 @@ Signature of Transferor.........................................................
 Date.......................................
 Telephone No. ........................................
 * Delete whichever is not applicable.
-[Form 17 inserted: Gazette 29 Apr 1988 p. 1306; amended: Gazette 28 Feb 2003 p. 684.]
-Western Australia
-TRANSPORT CO-ORDINATION ACT 1966
-TRANSPORT CO-ORDINATION REGULATIONS 1985
-APPLICATION FOR TRANSFER OF AN OMNIBUS LICENCE
-Form 18
-S. 30
-To the DIRECTOR GENERAL:
-I (transferee).......................................................................................................... Occupation........................................................................................................... of (Address)........................................................................................................... hereby apply for the transfer to me of licence for omnibus [insert vehicle description]................................. held by (transferor) ........................................
-I certify that no monies or other consideration by way of premium, or otherwise has been paid, or is to be paid, for the transfer of this licence, as per section 30(2) of the Transport Co-ordination Act 1966.
-Signature of Transferee.............................................
-Date.......................................20............ Telephone No.........................................
-The omnibus in respect of which the abovementioned licence has been issued has been disposed of to (transferee)....................................................................... and I agree to the licence being transferred to him.
-Date..................................20........... Signature of Transferor.................................
-[Form 18 amended: Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2688.]
+[Form 17 inserted: Gazette 29 Apr 1988 p. 1306; amended: Gazette 28 Feb 2003 p. 684; 26 Jun 2019 p. 2241.]
+[Form 18 deleted: Gazette 26 Jun 2019 p. 2241.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 19
@@ -410,11 +376,11 @@ Application having been made by —
 (Transferee)..........................................................................................................
 (Occupation).........................................................................................................
 (Address)..............................................................................................................
-for the transfer to him of licence for omnibus [insert vehicle description] or Commercial Goods Vehicle/Aircraft/Ferry Licence No.........................issued to......................................................................
+for the transfer to the transferee of licence for Commercial Goods Vehicle/Aircraft/Ferry Licence No.........................issued to......................................................................
 (who has agreed to such transfer), the Licence is hereby transferred accordingly and henceforth the transferee shall be the licensee and, as such, shall comply in all respects with the terms and conditions of the licence.
 Issued with the authority of the Minister
 ...................................................Authorised Officer
-[Form 19 inserted: Gazette 29 Apr 1988 p. 1306; amended: Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2689.]
+[Form 19 inserted: Gazette 29 Apr 1988 p. 1306; amended: Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2689; 26 Jun 2019 p. 2241.]
 [Form 20 deleted: Gazette 30 Dec 2004 p. 6960.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966

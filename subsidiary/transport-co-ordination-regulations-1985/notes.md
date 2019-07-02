@@ -38,6 +38,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Reprint 5: The Transport Co-ordination Regulations 1985 as at 2 Nov 2018 (includes amendments listed above)
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 7 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
+Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 2019 Pt. 4 | 26 Jun 2019 p. 2229-371 | 2 Jul 2019 (see r. 2(d) and Gazette 28 Jun 2019 p. 2473)
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference to the clerk in Form 21, Schedule 2, was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The references to the court in Form 21, Schedule 2, were amended under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
