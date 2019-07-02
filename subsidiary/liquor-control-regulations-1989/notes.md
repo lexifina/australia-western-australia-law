@@ -145,6 +145,7 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Liquor Control (Ngurrawaana Restricted Area) Regulations 2018 Pt. 5 | 14 Sep 2018 p. 3317-19 | 15 Sep 2018 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 3) 2018 | 2 Oct 2018 p. 3798-802 | r. 1 and 2: 2 Oct 2018 (see r. 2(a)); Regulations other than r. 1, 2, 15(2) and (4): 3 Oct 2018 (see r. 2(c) and Gazette 2 Oct 2018 p. 3779); r. 15(2) and (4): 1 Jan 2019 (see r. 2(b))
 Liquor Control (Wakathuni Restricted Area) Regulations 2019 Pt. 5 | 14 Jun 2019 p. 1898-900 | 15 Jun 2019 (see r. 2(b))
+Liquor Control Amendment Regulations 2019 | 28 Jun 2019 p. 2491-2 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Commenced 1 July 2014.
