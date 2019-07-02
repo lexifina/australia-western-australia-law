@@ -53,7 +53,7 @@ Note: The authority conferred by this permit is of no effect at any time when a 
 Site that may be occupied
  | DEC REGION/DISTRICT _________________________ Forest Block _________________________ DEC Apiary Zone _________________________ | DEC Plan & Ref ________________ or COG Map Ref ________________ Nearest Road/Track ________________ | Land Tenure ________________________________ GPS Reading — Map Location Longitude__________________ Latitude__________________
  | Conditions to be followed |  |  | Authority to Issue Permit
- | DRA Permit Water Catchment Catchment Area Pastoral Lease Special Conditions Standard Apiary Site Conditions | ________________ ________________ ________________ ________________ ________________ ________________ |  | Apiary Batch Number ______ Commission______ Minister for the Environment or his Delegate’s Approval______
+ | DRA Permit Water Catchment Catchment Area Pastoral Lease Special Conditions Standard Apiary Site Conditions | ________________ ________________ ________________ ________________ ________________ ________________ |  | Apiary Batch Number______ Commission______ Minister for the Environment or his Delegate’s Approval______
  | Rental
  | per annum, subject to review ______ from time to time
  | Special Conditions
