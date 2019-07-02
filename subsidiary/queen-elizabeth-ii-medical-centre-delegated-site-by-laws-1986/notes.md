@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 | 24 Oct 1986 p. 3947-54 | 1 Nov 1986 (see bl. 2 and Gazette 24 Oct 1986 p. 3938)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 1988 | 9 Dec 1988 p. 4820-2 | 9 Dec 1988
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 1991 | 22 Feb 1991 p. 881-2 | 1 Mar 1991 (see bl. 2)
@@ -29,25 +29,13 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2017 | 30 J
 Reprint 3: The Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 as at 4 Aug 2017 (includes amendments listed above)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2018 | 8 Jun 2018 p. 1833-4 | bl. 1 and 2: 8 Jun 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2019 | 7 Jun 2019 p. 1825 | bl. 1 and 2: 7 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2019 (see bl. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2019 | 14 Jun 2019 p. 1900-1 | bl. 1 and 2: 14 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1 and 2: 2 Jul 2019 (see bl. 2(b) and Gazette 28 Jun 2019 p. 2473)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
 Health Services Act 2016 s. 307(j) assented to 26 May 2016 | To be proclaimed (see s. 2(b))
-Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2019 bl. 3-5 | 14 Jun 2019 p. 1900-1 | Operative on commencement of the Transport (Road Passenger Services) Act 2018 Pt. 6 (see bl. 2(b)(i))
+Other notes
 Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(j) had not come into operation. It reads as follows:
-307.By-laws and regulations repealed
-These by-laws and regulations are repealed:
-(j) Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986;
-On the date as at which this compilation was prepared, the Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2019 bl. 3-5 had not come into operation. They read as follows:
-3.By-laws amended
-These by-laws amend the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986.
-4.By-law 3 amended
-In by-law 3(1) insert in alphabetical order:
-on-demand rank or hail vehicle authorisation means a passenger transport vehicle authorisation (as defined in the Transport (Road Passenger Services) Act 2018 section 4(1)) that authorises the operation of the vehicle for use in providing an on-demand rank or hail passenger transport service (as defined in that section);
-5.By-law 20 amended
-Delete by-law 20(2)(f) and (g) and insert:
-(f) a vehicle in relation to which an on-demand rank or hail vehicle authorisation is in force.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -62,6 +50,7 @@ Hospital3(1)
 infringement notice27
 modified penalty27
 North Metropolitan Health Service3(1)
+on-demand rank or hail vehicle authorisation3(1)
 paid staff parking area26AB(1)
 parking facility3(1)
 parking permit3(1)
