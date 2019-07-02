@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Administrative Tribunal Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Administrative Tribunal Act 2004 | 54 of 2004 | 23 Nov 2004 | s. 1 and 2: 23 Nov 2004; Act other than s. 1 and 2: 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -33,32 +33,14 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 
 Travel Agents Amendment and Expiry Act 2014 s. 9 | 21 of 2014 | 29 Aug 2014 | 25 Jan 2017 (see s. 2(c) and Gazette 24 Jan 2017 p. 741)
 Reprint 4: The State Administrative Tribunal Act 2004 as at 4 Dec 2015 (includes amendments listed above except those in the Travel Agents Amendment and Expiry Act 2014)
 Statutes (Minor Amendments) Act 2017 s. 13 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
-Transport (Road Passenger Services) Act 2018 s. 327(2) | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Transport (Road Passenger Services) Act 2018 s. 327 | 26 of 2018 | 30 Oct 2018 | s. 327(2): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 327(1): 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 371 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Transport (Road Passenger Services) Act 2018 s. 327(1) | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
-82.State Administrative Tribunal Act 2004 amended
-(1) This section amends the State Administrative Tribunal Act 2004.
-(2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
+Other notes
 The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 371 had not come into operation. It reads as follows:
-371.State Administrative Tribunal Act 2004 amended
-(1) This section amends the State Administrative Tribunal Act 2004.
-(2) In Schedule 1 delete these items:
-Fish Resources Management Act 1994
-Pearling Act 1990
-(3) In Schedule 1 insert in alphabetical order:
-Aquatic Resources Management Act 2016
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 s. 327(1) had not come into operation. It reads as follows:
-327.Schedule 1 amended
-(1) In Schedule 1 delete:
-Taxi Act 1994
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

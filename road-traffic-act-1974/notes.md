@@ -162,13 +162,13 @@ Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 
 Reprint 14: The Road Traffic Act 1974 as at 1 Dec 2017 (includes amendments listed above)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
+Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
-Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -309,54 +309,11 @@ At the end of Part VIII insert:
 (2) Until the Road Traffic Legislation Amendment Act 2016 section 63 comes into operation, the definition of impounding offence (driver’s licence) paragraph (a) in section 78A, has effect as if it also referred to section 49(3)(ca).
 Footnote no longer applicable.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 had not come into operation. It reads as follows:
-Part 14 — Repeals and consequential amendments
-Division 2 — Consequential amendments
-Subdivision 3 — Road Traffic Act 1974 amended
-310.Act amended
-This Subdivision amends the Road Traffic Act 1974.
-311.Section 64A amended
-In section 64A(5):
-(a) in paragraph (a) delete “carried for hire or reward; or” and insert:
-transported for hire or reward as defined in the Transport (Road Passenger Services) Act 2018 section 11 (except subsection (2)); or
-(b) delete paragraph (b);
-(c) delete paragraph (c) and insert:
-(c) if, at the relevant time, the vehicle is transporting passengers for hire or reward as defined in the Transport (Road Passenger Services) Act 2018 section 11 (except subsection (2)); or
-312.Section 79D amended
-(1) In section 79D(1) delete the definitions of:
-taxi
-taxi operator
-(2) In section 79D(1) insert in alphabetical order:
-passenger transport vehicle means a passenger transport vehicle for which a passenger transport vehicle authorisation has been issued under the Transport (Road Passenger Services) Act 2018 whether or not, at the relevant time, the vehicle is standing or plying for hire or transporting passengers for reward;
-provider of a passenger transport vehicle has the meaning given in the Transport (Road Passenger Services) Act 2018 section 4(1);
-(3) Delete section 79D(2)(h) and (i) and insert:
-(h) a senior police officer is satisfied that, at the time the offence for which the vehicle was impounded was committed —
-(i) the vehicle was a passenger transport vehicle; and
-(ii) the person who allegedly committed the offence (the alleged offender) was driving the passenger transport vehicle under an agreement between the alleged offender and the provider of the passenger transport vehicle, or an agent of the provider, under which the alleged offender pays the provider or agent in order to be allowed to drive the passenger transport vehicle for reward; and
-(iii) the provider of the passenger transport vehicle or agent who entered into the agreement with the alleged offender had complied with subsection (5); and
-(iv) the alleged offender was not a responsible person for the vehicle;
-or
-(i) a senior police officer is satisfied that, at the time the offence for which the vehicle was impounded was committed —
-(i) the vehicle was a passenger transport vehicle; and
-(ii) the person who allegedly committed the offence (the alleged offender) was an employee or contractor of the provider of the passenger transport vehicle; and
-(iii) the alleged offender was driving the vehicle with the consent of the provider of the vehicle; and
-(iv) the person who consented to the alleged offender driving the vehicle had complied with subsection (5A); and
-(v) the alleged offender was not a responsible person for the vehicle;
-or
-(4) In section 79D(4) delete “(2)(g)(iv) and (i)(iv),” and insert:
-(2)(g)(iv),
-(5) Delete section 79D(5) and insert:
-(5) For the purposes of subsection (2)(h)(iii), a provider of a passenger transport vehicle or agent who enters into an agreement with a driver of a passenger transport vehicle must —
-(a) ensure the driver holds a current passenger transport driver authorisation under the Transport (Road Passenger Services) Act 2018; and
-(b) ensure the driver has been instructed to obey the law when driving the vehicle.
-(5A) For the purposes of subsection (2)(i)(iv), a provider of a passenger transport vehicle or agent who consents to an employee or contractor driving the vehicle must —
-(a) ensure the driver holds a current passenger transport driver authorisation under the Transport (Road Passenger Services) Act 2018; and
-(b) ensure the driver has been instructed to obey the law when driving the vehicle.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 above the speed limit49AAA
-alleged offence71C(1) (a) and (b)
+alleged offence71C(1), 71C(1)
 alleged offender71C(1)(a) and (b), 79BCA(1)(c), 79BCD(1)(a), 79D(2)(f)(ii), (g)(ii), (h)(ii) and (i)(ii) and 79D(6)(b)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
@@ -417,16 +374,18 @@ nurse practitioner65
 offence60B(1), 79BA(1)(a), 79BCA(1)(c), 79BCD(1)(a)
 offender71B(1), 80LA(1)
 order80G(1), 81A
+passenger transport vehicle79D(1)
 person66(7)(b)
 police officer71C(1)(a) and (b), 79BA(1)(a)
 post-impoundment expenses80I(1A)
 preliminary oral fluid test65
 preliminary test65
-prescribed authorisation49AB(1AA)
+prescribed authorisation —49AB(1AA)
 prescribed illicit drug65
 prescribed sample taker65
 previous offender79(1A), 79BC(1)(a)
 provide driving instruction49AAA
+provider of a passenger transport vehicle79D(1)
 reasonable expenses78A(1)
 reckless manner60(1)
 registered nurse65
@@ -451,10 +410,8 @@ surrender notice79(1A), 79BA(2), 80N, 80P(2)
 surrender period78A(1)
 surrender substitute vehicle notice79BCA(2)
 suspected use80N
-taxi79D(1)
-taxi operator79D(1)
 technologist70(7)
-time of sampling71(1)(c)
+time of sampling71(1)
 uncollected vehicle80J(1), 80M(1)
 undergoes65
 vehicle79BA(1)(a)
