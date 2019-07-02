@@ -38,6 +38,7 @@ Conservation and Land Management Amendment Regulations 2017 | 1 Sep 2017 p. 4649
 Conservation and Land Management Amendment Regulations (No. 2) 2018 | 28 Aug 2018 p. 2989-91 | r. 1 and 2: 28 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2018 (see r. 2(b))
 Conservation and Land Management Amendment Regulations 2018 | 14 Sep 2018 p. 3307-8 | r. 1 and 2: 14 Sep 2018 (see r. 2(a)); r. 3 and 7: 15 Sep 2018 (see r. 2(c)); r. 4-6: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Conservation and Land Management Amendment Regulations (No. 4) 2018 | 11 Dec 2018 p. 4701-3 | r. 1 and 2: 11 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b))
+Conservation and Land Management Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2487-8 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
@@ -97,6 +98,7 @@ naturally occurring feature31(4)
 non-indigenous animal2
 non-tour motor vehicle99(1)
 occupant99A(1)
+on-demand rank or hail vehicle authorisation99(1)
 permission123(1)
 permission holder123(1)
 personal flotation device50A(1)
