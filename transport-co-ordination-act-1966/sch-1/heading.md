@@ -2,9 +2,9 @@
 [s. 33(4)]
 [Heading amended: No. 19 of 2010 s. 4.]
 For the purposes of this Schedule a vehicle shall not be regarded as being owned by the producer of the goods being carried unless —
-(a) where the vehicle is owned by a natural person, that person is the producer of the goods being carried on the vehicle or is operating the vehicle for, or on behalf of, another person who is the producer of the goods being carried under a bona fide agreement or arrangement that relates to the production of the goods and not only to the transport thereof;
-(b) where the vehicle is owned by more than 1 person, those persons are bona fide the producers of the goods being carried;
-(c) where the vehicle is owned by a body corporate, the membership of the body corporate consists of natural persons who are bona fide the producers of the goods being carried,
+(a)where the vehicle is owned by a natural person, that person is the producer of the goods being carried on the vehicle or is operating the vehicle for, or on behalf of, another person who is the producer of the goods being carried under a bona fide agreement or arrangement that relates to the production of the goods and not only to the transport thereof;
+(b)where the vehicle is owned by more than 1 person, those persons are bona fide the producers of the goods being carried;
+(c)where the vehicle is owned by a body corporate, the membership of the body corporate consists of natural persons who are bona fide the producers of the goods being carried,
 and that person or one of those persons or one of the members of the body corporate, as the case requires, is the person to whom a licence in respect of the vehicle is granted under the Road Traffic (Vehicles) Act 2012.
 1.The carriage of produce of farms or forests or farming requisites or requisites for the production of timber between any farm or forest and the railway station or town nearest to the farm or forest and if the produce of a farm is grain or seed the carriage of that produce from the farm to the nearest bulk grain handling facility that is in the direction of the proposed destination of that produce and that is available for its receival.
 For the purposes of this item the term farm includes a sheep station or a cattle station.
@@ -15,10 +15,10 @@ For the purposes of this item the term farm includes a sheep station or a cattle
 6.The carriage of ore from mines and mining requisites within any one prescribed mining district.
 7.By the Crown or any local government for its own purposes other than the carriage of goods for hire or reward.
 8.The carriage of household furniture or personal effects of a householder or a member of his family, where the furniture or effects are being moved —
-(a) from residence to residence;
-(b) from storage to residence;
-(c) from residence to storage or sale;
-(d) from a vendor to the residence of the purchaser.
+(a)from residence to residence;
+(b)from storage to residence;
+(c)from residence to storage or sale;
+(d)from a vendor to the residence of the purchaser.
 9.The carriage by commercial travellers, of samples of goods for exhibition to prospective purchasers and not for sale.
 10.The carriage of livestock to or from agricultural shows or exhibitions.
 11.The carriage of milk or cream to the nearest factory.
