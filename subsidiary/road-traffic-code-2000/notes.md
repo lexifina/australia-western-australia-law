@@ -64,6 +64,7 @@ Road Traffic Code Amendment Regulations (No. 5) 2017 | 31 Oct 2017 p. 5464-5 | r
 Road Traffic Code Amendment Regulations (No. 6) 2017 | 31 Oct 2017 p. 5462-4 | r. 1 and 2: 31 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2017 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 8) 2017 | 5 Jan 2018 p. 9-10 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2018 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2018 | 15 May 2018 p. 1531-6 | r. 1 and 2: 15 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
+Road Traffic Code Amendment Regulations 2019 | 28 Jun 2019 p. 2488-9 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -182,7 +183,7 @@ no parking area3(1)
 no stopping area3(1)
 O’Connor Industrial Area138A(1)
 obstruction3(1)
-omnibus230
+on-demand rank or hail vehicle authorisation3(1)
 one-way carriageway3(1)
 operator 230A
 oversize3(1)
@@ -191,6 +192,7 @@ park3(1)
 parking area3(1)
 parking area for people with disabilities171(2)
 parking control sign3(1)
+passenger transport vehicle3(1)
 path3(1)
 pedestrian3(1), 203(6)
 pedestrian crossing3(1)
