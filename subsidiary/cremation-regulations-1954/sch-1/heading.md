@@ -1,4 +1,6 @@
-## Appendix “A”
+## Schedule 1 — Forms
+[r. 4(1), 5, 6(1), 7, 11, 12(a) and (b), 14(5), 18, 20 and 20A]
+[Heading inserted: Gazette 2 Jul 2019 p. 2645.]
 Form 1
 Western Australia
 Cremation Act 1929
