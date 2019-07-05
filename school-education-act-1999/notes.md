@@ -25,12 +25,14 @@ Compilation table
  | Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
  | Associations Incorporation Act 2015 s. 228 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
  | Reprint 4: The School Education Act 1999 as at 19 Feb 2016 (includes amendments listed above except the Associations Incorporation Act 2015)
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 25 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-School Boarding Facilities Legislation Amendment and Repeal Act 2016 Pt. 3 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
+ | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 25 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+ | School Boarding Facilities Legislation Amendment and Repeal Act 2016 Pt. 3 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
+Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 Pt. 3 (other than s. 14-22) | 14 of 2019 | 5 Jul 2019 | 5 Jul 2019 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
+Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 s. 14-22 | 14 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -46,6 +48,63 @@ The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s
 (2) When the meaning of “compulsory education period” changes by operation of section 6(b) of the School Education Act 1999 (inserted by subsection (1)), the change extends to the compulsory education period for a child which, but for the change, would have ended on 31 December 2005.
 The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s. 21 is a transitional provision of no further effect.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 s. 14-22 had not come into operation. They read as follows:
+14.Section 3 amended
+In section 3(1)(a) delete “education; and” and insert:
+education during the child’s compulsory education period; and
+15.Section 16 amended
+(1) Before section 16(1) insert:
+(1A) In this section —
+immunisation status has the meaning given in the Public Health Act 2016 section 141A.
+(2) Delete section 16(1)(f).
+(3) In section 16(2) delete “applicant.” and insert:
+applicant under subsection (1).
+(4) After section 16(2) insert:
+(3) A person who wishes to make an application for enrolment of a child at a school is to provide the immunisation status of the enrollee in accordance with the Public Health Act 2016 section 141B.
+16.Section 17 amended
+In section 17(1)(b) after “(c) or (g)” insert:
+or section 16(3)
+17.Section 23 amended
+(1) In section 23(1):
+(a) delete “must” and insert:
+must, for every year of the student’s compulsory education period,
+(b) in paragraph (a)(i) delete “he or she” and insert:
+the student
+(2) Delete section 23(2)(b) and insert:
+(b) section 27 (which relates to non-attendance for public health reasons); and
+18.Section 27 amended
+(1) Before section 27(1) insert:
+(1A) In this section —
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1).
+(1B) The principal of a school must comply with a direction given by the Chief Health Officer under regulations made for the purposes of the Public Health Act 2016 section 142(1)(d) to not permit a child to attend the school or participate in an educational programme of the school.
+(2) In section 27(2) delete “This section” and insert:
+Subsection (1)
+(3) Delete section 27(3A).
+Note:The heading to amended section 27 is to read:
+Non-attendance of student may be required on public health grounds
+19.Section 77 amended
+After section 77(a) insert:
+(aa) the enrolment would not contravene the Public Health Act 2016 section 141D; and
+20.Section 82 amended
+(1) After section 82(1) insert:
+(1A) However, this section does not apply to a child in the child’s pre-compulsory education period if the enrolment of the child would contravene the Public Health Act 2016 section 141D.
+(2) Delete section 82(2)(d) and insert:
+(d) any other criteria prescribed for the purposes of section 76(2), 77(b), 78(2)(b) or 79(1)(b), as the case requires, are satisfied,
+(3) In section 82(3):
+(a) delete “decides that —” and insert:
+decides under subsection (2) that —
+(b) delete paragraph (d) and insert:
+(d) any other criteria prescribed for the purposes of section 77(b), 78(2)(b) or 79(1)(b), as the case requires, are not satisfied in relation to the child,
+Note:The heading to amended section 82 is to read:
+Resolving question under s. 76, 77, 78 or 79
+21.Section 159 amended
+After section 159(1)(h) insert:
+(ha) the health and safety procedures at schools, including immunisation requirements for enrolment;
+22.Section 206 amended
+Delete section 206(2) and insert:
+(2) The enrolment of a child at a community kindergarten is to be in accordance with —
+(a) the Public Health Act 2016 section 141D; and
+(b) the regulations.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
