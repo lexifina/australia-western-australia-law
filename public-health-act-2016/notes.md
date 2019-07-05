@@ -6,10 +6,12 @@ Public Health Act 2016 | 18 of 2016 | 25 Jul 2016 | Pt. 1 (other than s. 3-5): 2
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 18 | 19 of 2016 | 25 Jul 2016 | 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 28 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 117 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 Pt. 2 (other than s. 4-12) | 14 of 2019 | 5 Jul 2019 | 5 Jul 2019 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1, and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
+Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 s. 4-12 | 14 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1 and Pt. 20 (s. 313-320) had not come into operation. They read as follows:
 7.Chief Health Officer may give directions to local governments
 (1) This section applies if the Chief Health Officer —
@@ -649,6 +651,159 @@ A requisition issued under the Health Act section 260 and in force immediately b
 (c) the Health (Notification of Stimulant Induced Psychosis) Regulations 2010;
 (d) the Health (Western Australian Cancer Register) Regulations 2011;
 (e) the Health (Western Australian Register of Developmental Anomalies) Regulations 2010.
+On the date as at which this compilation was prepared, the Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 s. 4-12 had not come into operation. They read as follows:
+4.Section 4 amended
+(1) In section 4(1) delete the definitions of:
+child care service
+school
+(2) In section 4(1) insert in alphabetical order:
+child care service —
+(a)means —
+(i)an education and care service as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
+(ii)a child care service as defined in the Child Care Services Act 2007 section 4;
+but
+(b)does not include a child care service prescribed for the purposes of this definition;
+community kindergarten means a kindergarten registered under the School Education Act 1999 Part 5;
+compulsory education period has the meaning given in the School Education Act 1999 section 6;
+school means a government school, or a non-government school, as defined in the School Education Act 1999 section 4;
+urgently notifiable infectious disease-related condition means a notifiable infectious disease-related condition declared under section 91 to be an urgently notifiable infectious disease-related condition;
+5.Section 91 amended
+(1) Delete section 91(1) and insert:
+(1) In this section —
+acute rheumatic fever means an illness caused by an autoimmune response to a bacterial infection with group A streptococcus (GAS);
+rheumatic heart disease means damage to the heart resulting from an episode, or more than one episode, of acute rheumatic fever.
+(1A) The regulations may —
+(a) declare a medical condition, other than a notifiable infectious disease, to be a notifiable infectious disease-related condition; or
+(b) declare a notifiable infectious disease-related condition to be an urgently notifiable infectious disease-related condition.
+(2) In section 91(2) after “disease-related condition” insert:
+or an urgently notifiable infectious disease-related condition
+(3) After section 91(2) insert:
+(3) The following medical conditions cannot be declared to be a notifiable infectious disease-related condition or an urgently notifiable infectious disease-related condition —
+(a) acute rheumatic fever;
+(b) rheumatic heart disease.
+6.Section 94 amended
+Delete section 94(4)(a) and insert:
+(a) as soon as is practicable, and in any event —
+(i) in the case of an urgently notifiable infectious disease or an urgently notifiable infectious disease-related condition, within 24 hours; or
+(ii) in the case of any other notifiable infectious disease or notifiable infectious disease-related condition, within 72 hours;
+and
+7.Section 135 amended
+Delete section 135(2)(b) and insert:
+(b) if the affected person or exposed person is believed to be attending, or to have attended, a school, community kindergarten, child care service, university or other educational institution, a teacher, lecturer, or other member of staff of the school, community kindergarten, child care service, university or educational institution;
+8.Part 9 Division 8 replaced
+Delete Part 9 Division 8 and insert:
+Division 8 — Immunisation status of children
+Subdivision 1 — Preliminary
+141A.Terms used
+In this Division —
+Australian Immunisation Register means the register called the Australian Immunisation Register kept under the Australian Immunisation Register Act 2015 (Commonwealth) section 8;
+child means a person who is under 18 years of age;
+current, in relation to an immunisation certificate for a child, means a certificate issued not more than the prescribed period before —
+(a)the most recent date of an application for enrolment of the child in a school, community kindergarten or child care service; or
+(b)the day on which the certificate is otherwise required to be provided under this Act;
+exempt child means a child who is in a class of children prescribed by the regulations for the purposes of this definition;
+immunisation certificate means —
+(a)an extract of an entry in the Australian Immunisation Register; or
+(b)a certificate issued by the Chief Health Officer under section 141C(1); or
+(c)a document declared to be an immunisation certificate under section 141C(4);
+immunisation status means the status of —
+(a)having been immunised against, or having acquired immunity by infection from, all or specified vaccine preventable notifiable infectious diseases; or
+(b)not having been immunised against, and not having acquired immunity by infection from, all or specified vaccine preventable notifiable infectious diseases;
+person in charge, of a school, community kindergarten or child care service, means the person who has responsibility for the day-to-day management and control of the school, community kindergarten or child care service;
+responsible person, in relation to a child, means —
+(a)a parent of the child; or
+(b)a guardian of the child; or
+(c)another person who has responsibility for the day-to-day care of the child.
+Subdivision 2 — Immunisation requirements for enrolment
+141B.Responsible person to give immunisation status to person in charge
+(1) This section applies to a child enrolling in, or enrolled in, a school, community kindergarten or child care service.
+(2) The responsible person for the child is required to give to the person in charge of the school, community kindergarten or child care service the immunisation status of the child as recorded on the current immunisation certificate for the child —
+(a) when the child is being enrolled in the school, community kindergarten or child care service; and
+(b) at such other time or times as are prescribed by the regulations.
+(3) For the purposes of ensuring compliance with subsection (2), the person in charge may require the responsible person for the child to produce the current immunisation certificate for the child.
+(4) The person in charge must take all reasonable steps to ensure that the responsible person for the child complies with subsection (2).
+Penalty for this subsection: a fine of $1 000.
+141C.Immunisation certificates issued or declared by Chief Health Officer
+(1) The Chief Health Officer may issue an immunisation certificate for a child for the purposes of section 141B if —
+(a) the Chief Health Officer is —
+(i) satisfied that a circumstance prescribed by the regulations is applicable to the child; or
+(ii) otherwise satisfied that a special circumstance is applicable to the child;
+and
+(b) the Chief Health Officer is satisfied that, but for that circumstance, the child’s immunisation status would be up-to-date.
+(2) An immunisation certificate issued under subsection (1) remains in force for the period specified in the certificate or, if no period is specified, for an indefinite period.
+(3) The responsible person for a child may apply to the State Administrative Tribunal for a review of a decision by the Chief Health Officer to refuse to issue an immunisation certificate for the child under subsection (1).
+(4) The Chief Health Officer may, by notice published in the Gazette, declare a document or a class of documents to be an immunisation certificate for the purposes of section 141B.
+141D.Immunisation or exemption a condition of enrolment
+(1) Unless a child meets a requirement of subsection (2), the person in charge of a school, community kindergarten or child care service must not permit the child to enrol in —
+(a) the school, before the child’s compulsory education period; or
+(b) the community kindergarten; or
+(c) the child care service.
+Penalty for this subsection: a fine of $10 000.
+(2) A child meets a requirement of this subsection if —
+(a) the immunisation certificate for the child states that the child’s immunisation status is up-to-date; or
+(b) the immunisation certificate for the child states that the Chief Health Officer is satisfied that, but for a circumstance mentioned in section 141C(1)(a), the child’s immunisation status would be up-to-date; or
+(c) the immunisation certificate for the child is a document, or a document belonging to a class of documents, declared to be an immunisation certificate under section 141C(4); or
+(d) the child is following a catch-up schedule prescribed by the regulations; or
+(e) the person in charge is satisfied that the child is an exempt child.
+Subdivision 3 — Regulations relating to immunisation status of children
+142.Regulations relating to immunisation status of children and control of disease
+(1) Without limiting section 304(1), regulations may —
+(a) require the person in charge of a school, community kindergarten or child care service, when directed to do so by the Chief Health Officer, to give a report to the Chief Health Officer in respect of information given to the person about the immunisation status of —
+(i) a child enrolled at the school, community kindergarten or child care service; or
+(ii) children enrolled at the school, community kindergarten or child care service;
+and
+(b) require the person in charge of a school, community kindergarten or child care service, when directed to do so by the Chief Health Officer either when giving a direction under regulations made under paragraph (a) or at a later time, to give to the Chief Health Officer further information necessary to assist in preventing, controlling or abating a public health risk that might foreseeably arise from a child or children not being immunised against a vaccine preventable notifiable infectious disease, including —
+(i) the names of, and other identifying information in relation to, the child or children; and
+(ii) the names and contact details of the responsible persons for the child or children;
+and
+(c) in the case of a child at a school, community kindergarten or child care service who has contracted, or is reasonably believed to have contracted, a vaccine preventable notifiable infectious disease, require the person in charge of the school, community kindergarten or child care service to give to the Chief Health Officer a report in respect of the child; and
+(d) require the person in charge of a school, community kindergarten or child care service, when directed to do so by the Chief Health Officer, to ensure that a child who has not been immunised against a vaccine preventable notifiable infectious disease specified by the Chief Health Officer is not permitted to attend, or participate in an educational programme of, the school, community kindergarten or child care service for the period specified by the Chief Health Officer; and
+(e) require the person in charge of a school, community kindergarten or child care service, when directed to do so by the Chief Health Officer, to close the whole, or a part, of the school, community kindergarten or child care service for the period specified by the Chief Health Officer to limit or prevent the spread of a vaccine preventable notifiable infectious disease.
+(2) Despite subsection (1)(a) and (b), the regulations may provide that the person required to provide the relevant report or information when directed to do so by the Chief Health Officer is —
+(a) the chief executive officer, as defined in the School Education Act 1999 section 229; or
+(b) if the relevant information is held in an information management system established and maintained by another person or body, that other person or body.
+Subdivision 4 — Reporting requirements
+142A.Annual report to include information about enrolments
+(1) In this section —
+enrolment means an enrolment of a child in —
+(a)a school, before the child’s compulsory education period; or
+(b)a community kindergarten; or
+(c)a child care service.
+(2) The accountable authority of the Department must include the following information in each annual report submitted under the Financial Management Act 2006 Part 5 —
+(a) the number of enrolments in the financial year to which the annual report relates that were of a child whose immunisation certificate did not state that the child’s immunisation status is up-to-date;
+(b) in relation to the enrolments referred to in paragraph (a), the number that were of a child who, by the end of the financial year to which the annual report relates —
+(i) has an immunisation certificate that states that the child’s immunisation status is up-to-date; or
+(ii) is following a catch-up schedule referred to in section 141D(2)(d).
+(3) The information included in an annual report under subsection (2) must not include any information that identifies, or is likely to identify, any child to whom the information relates.
+9.Section 240 amended
+In section 240(1)(d) delete “public health risk” and insert:
+public health risk, including a public health risk that might foreseeably arise from a child or children not having been immunised against a vaccine preventable notifiable infectious disease,
+10.Section 254 replaced
+Delete section 254 and insert:
+254.False or misleading information
+(1) A person must not give false or misleading information to —
+(a) an authorised officer who is carrying out a function under this Act; or
+(b) any person pursuant to a requirement under this Act to provide information or produce a record or other document to that person.
+Penalty for this subsection: a fine of $10 000.
+(2) For the purposes of subsection (1), a person gives false or misleading information if the person does one or more of the following —
+(a) states anything that the person knows is false or misleading in a material particular;
+(b) omits from a statement anything without which the statement is, to the person’s knowledge, misleading in a material particular;
+(c) gives or produces any record or other document that —
+(i) the person knows is false or misleading in a material particular; or
+(ii) omits anything without which the record or other document is, to the person’s knowledge, misleading in a material particular.
+11.Section 280 amended
+Delete section 280(b) and insert:
+(b) by a local government, by the chief executive officer of a local government or by an authorised officer authorised in writing by the local government; or
+(c) by an enforcement agency of a kind referred to in paragraph (c) of the definition of enforcement agency in section 4(1) or by an authorised officer authorised in writing by an enforcement agency of that kind.
+12.Section 306A inserted
+After section 306 insert:
+306A.Review of amendments made by Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019
+(1) In this section —
+relevant amendments means —
+(a)the amendments made to this Act by the Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 section 8; and
+(b)the amendments made to the School Education Act 1999 by the Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019.
+(2) The Minister must review the operation and effectiveness of the relevant amendments, and prepare a report based on the review, as soon as practicable after the 3rd anniversary of the day on which the Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 section 1 comes into operation.
+(3) The Minister must cause the report to be laid before each House of Parliament as soon as practicable after it is prepared, but not later than 12 months after the 3rd anniversary.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
