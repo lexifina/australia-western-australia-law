@@ -32,6 +32,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 5 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Local Government Legislation Amendment Act 2019 Pt. 4 Div. 5 | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 19.Power to amend regulations
 (1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
@@ -54,6 +55,32 @@ Division 5 — Dog Act 1976 amended
 This Division amends the Dog Act 1976.
 287.Section 52 amended
 In section 52(1) delete “the Health (Miscellaneous Provisions) Act 1911,”.
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2019 Pt. 4 Div. 5 had not come into operation. It reads as follows:
+Part 4 — Other Acts amended
+Division 5 — Dog Act 1976 amended
+105.Act amended
+This Division amends the Dog Act 1976.
+106.Section 3 amended
+In section 3(1) in the definition of authorised person delete paragraph (a) and insert:
+(a)a person appointed under the Local Government Act 1995 section 9.10(2) to be an authorised person for the purposes of this Act; or
+107.Section 11 amended
+After section 11(4) insert:
+(5) Subsection (3) does not apply to a person appointed under the Local Government Act 1995 section 9.10(2) to be an authorised person for the purposes of this Act.
+108.Section 11A inserted
+After section 11 insert:
+11A.Authorised persons
+The chief executive officer of a local government must, under the Local Government Act 1995 section 9.10(2), appoint persons to be authorised persons for the purposes of this Act.
+109.Section 29 amended
+Delete section 29(1).
+110.Part XI Division 1 heading amended
+In the heading to Part XI Division 1 delete “arising from certain amendments made by” and insert:
+for
+111.Part XI Division 2 inserted
+At the end of Part XI insert:
+Division 2 — Transitional provision for the Local Government Legislation Amendment Act 2019
+61.Authorised persons
+(1) This section applies to a person who, immediately before the day on which the Local Government Legislation Amendment Act 2019 section 109 comes into operation, was a person appointed under section 29(1).
+(2) The person is taken to be an authorised person appointed under the Local Government Act 1995 section 9.10(2) for the purposes of this Act on the terms and conditions that were applicable to the person’s appointment under section 29(1) immediately before the day referred to in subsection (1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
