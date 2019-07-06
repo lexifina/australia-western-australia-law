@@ -137,6 +137,7 @@ Building Act 2011 s. 151-156 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 9: The Local Government (Miscellaneous Provisions) Act 1960 as at 8 Jun 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Commercial Arbitration Act 2012 s. 45 it. 13 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
+Local Government Legislation Amendment Act 2019 Pt. 3 | 16 of 2019 | 5 Jul 2019 | 6 Jul 2019 (see s. 2(c))
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
 Marginal notes in the Local Government (Miscellaneous Provisions) Act 1960 referring to legislation of this State and of other jurisdictions have been omitted from this compilation.
