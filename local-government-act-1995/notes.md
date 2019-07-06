@@ -66,16 +66,18 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government Legislation Amendment Act 2016 Pt. 2 | 26 of 2016 | 21 Sep 2016 | Pt. 2 (other than s. 4, 6-9, 11 and 17): 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035); s. 4, 6-9, 11 and 17: 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
  | Local Government Amendment (Auditing) Act 2017 (other than s. 4(2) and 7(2)) | 5 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(b) and Gazette 27 Oct 2017 p. 5413)
  | Local Government Amendment (Suspension and Dismissal) Act 2018 | 31 of 2018 | 19 Nov 2018 | s. 1 and 2: 19 Nov 2018 (see s. 2(b)); Act other than s. 1 and 2: 20 Nov 2018 (see s. 2(b))
+ | Local Government Legislation Amendment Act 2019 Pt. 2 (other than s. 5, 13-17, 20, 22, 24, 25-44, 48-51, 57, 61, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | 6 Jul 2019 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2019 Pt. 2 (s. 5, 13-17, 20, 22, 24, 25-44, 48-51, 57, 61, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be read and construed as if that reference were a reference to the Land Administration Act 1997.
-There is no s. 4.31(1)(c) because this provision was amended and renumbered by the Standardisation of Formatting Act 2010 s. 51 Table item 42.
+Footnote no longer applicable.
 The Criminal Code s. 348 and 349 were deleted by the Defamation Act 2005 s. 47.
 The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) read as follows:
 Part VIA — Employee Superannuation
@@ -272,6 +274,429 @@ This Division amends the Local Government Act 1995.
 157.Section 1.4 amended
 In section 1.4 in the definition of owner after paragraph (a)(i) insert:
 (ia)the owner of a lot in a leasehold scheme as defined in the Strata Titles Act 1985 section 3(1); and
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2019 s. 5, 13 to 17, 20, 22, 24, 25 to 44, 48 to 51, 57, 61, 64 to 68, 74 had not come into operation. They read as follows:
+5.Sections 1.7 and 1.8 replaced
+Delete sections 1.7 and 1.8 and insert:
+1.7.Local public notice
+Where under this Act local public notice of a matter is required to be given, notice of the matter must be —
+(a) published on the official website of the local government concerned in accordance with the regulations; and
+(b) given in at least 3 of the ways prescribed for the purposes of this section.
+1.8.Statewide public notice
+Where under this Act Statewide public notice of a matter is required to be given, notice of the matter must be given in accordance with section 1.7(a) and (b) and the requirements prescribed for the purposes of this section.
+13.Section 4.39 amended
+Delete section 4.39(2) and insert:
+(2) Statewide public notice of the time and date of the close of enrolments must be given on or after the 70th day, but not later than on the 56th day, before election day by —
+(a) the Electoral Commissioner if the Electoral Commissioner is responsible for the conduct of the election; or
+(b) the CEO in any other case.
+14.Section 4.47 amended
+Delete section 4.47(1) and insert:
+(1) Statewide public notice calling for nominations of candidates for the election must be given on or after the 56th day, but not later than on the 45th day, before election day by —
+(a) the Electoral Commissioner if the Electoral Commissioner is responsible for the conduct of the election; or
+(b) the returning officer in any other case.
+15.Section 4.48 amended
+(1) In section 4.48(1):
+(a) in paragraph (c) delete “day.” and insert:
+day; and
+(b) after paragraph (c) insert:
+(d) the person has completed the course of induction prescribed for the purposes of this subsection.
+(2) Delete section 4.48(2) and insert:
+(2) If the election is to fill the office of elector mayor or president, a person can only be a candidate if —
+(a) the person was an elector of the district who, as at the close of enrolments and at the time of nomination, was qualified under section 2.19 to be elected as a member of the council; and
+(b) at the time of nomination, the person has completed the course of induction prescribed for the purposes of this subsection.
+16.Section 4.52 amended
+(1) In section 4.52(1) delete “exhibited to the public (with the details and profiles of any other candidates) on a notice board at the local government’s offices.” and insert:
+published (with the details and profiles of any other candidates) on the local government’s official website.
+(2) In section 4.52(2) delete “remain on exhibition —” and insert:
+be kept on the local government’s official website —
+Note:The heading to amended section 4.52 is to read:
+Candidates’ details and profiles to be published on website
+17.Section 4.64 amended
+(1) In section 4.64(1):
+(a) delete “the returning officer is to give”;
+(b) after “about the election” insert:
+must be given
+(2) After section 4.64(1) insert:
+(1A) The Statewide public notice must be given by —
+(a) the Electoral Commissioner if the Electoral Commissioner is responsible for the conduct of the election; or
+(b) the returning officer in any other case.
+20.Section 5.29 amended
+In section 5.29(2) delete “of publication of the notice under section 1.7(1)(a) and is to continue by way of exhibition under section 1.7(1)(b) and (c)” and insert:
+the notice is first given and is to continue in the prescribed way
+22.Sections 5.39A to 5.39C inserted
+After section 5.39 insert:
+5.39A.Model standards for CEO recruitment, performance and termination
+(1) Regulations must prescribe model standards for local governments in relation to the following —
+(a) the recruitment of CEOs;
+(b) the review of the performance of CEOs;
+(c) the termination of the employment of CEOs.
+(2) Regulations may amend the model standards.
+5.39B.Adoption of model standards
+(1) In this section —
+model standards means the model standards prescribed under section 5.39A(1).
+(2) Within 3 months after the day on which regulations prescribing the model standards come into operation, a local government must prepare and adopt* standards to be observed by the local government that incorporate the model standards.
+* Absolute majority required.
+(3) Within 3 months after the day on which regulations amending the model standards come into operation, the local government must amend* the adopted standards to incorporate the amendments made to the model standards.
+* Absolute majority required.
+(4) A local government may include in the adopted standards provisions that are in addition to the model standards, but any additional provisions are of no effect to the extent that they are inconsistent with the model standards.
+(5) The model standards are taken to be a local government’s adopted standards until the local government adopts standards under this section.
+(6) The CEO must publish an up-to-date version of the adopted standards on the local government’s official website.
+(7) Regulations may provide for —
+(a) the monitoring of compliance with adopted standards; and
+(b) the way in which contraventions of adopted standards are to be dealt with.
+5.39C.Policy for temporary employment or appointment of CEO
+(1) A local government must prepare and adopt* a policy that sets out the process to be followed by the local government in relation to the following —
+(a) the employment of a person in the position of CEO for a term not exceeding 1 year;
+(b) the appointment of an employee to act in the position of CEO for a term not exceeding 1 year.
+* Absolute majority required.
+(2) A local government may amend* the policy.
+* Absolute majority required.
+(3) When preparing the policy or an amendment to the policy, the local government must comply with any prescribed requirements relating to the form or content of a policy under this section.
+(4) The CEO must publish an up-to-date version of the policy on the local government’s official website.
+24.Section 5.50 amended
+(1) In section 5.50(1):
+(a) in paragraph (b) delete “amount,” and insert:
+amount.
+(b) delete “and cause local public notice to be given in relation to the policy.”.
+(2) After section 5.50(4) insert:
+(5) The CEO must publish the policy prepared under subsection (1) and adopted by the local government on the local government’s official website.
+25.Section 5.51A inserted
+At the end of Part 5 Division 4 insert:
+5.51A.Code of conduct for employees
+(1) The CEO must prepare and implement a code of conduct to be observed by employees of the local government.
+(2) The CEO may amend the code of conduct.
+(3) The CEO must publish an up-to-date version of the code of conduct on the local government’s official website.
+(4) Regulations may prescribe the content of, and other matters in relation to, codes of conduct under this section.
+(5) A code of conduct under this section is of no effect to the extent that it is inconsistent with regulations made for the purposes of subsection (4).
+26.Part 5 Division 6 heading amended
+In the heading to Part 5 Division 6 after “interests” insert:
+and gifts
+27.Part 5 Division 6 Subdivision 1A inserted
+At the beginning of Part 5 Division 6 insert:
+Subdivision 1A — Preliminary
+5.57.Terms used
+In this Division, unless the contrary intention appears —
+gift means —
+(a)a conferral of a financial benefit (including a disposition of property) made by 1 person in favour of another person unless adequate consideration in money or money’s worth passes from the person in whose favour the conferral is made to the person who makes the conferral; or
+(b)a travel contribution;
+travel includes accommodation incidental to a journey;
+travel contribution means a financial or other contribution made by 1 person to travel undertaken by another person.
+5.58.Provisions about gifts
+(1) For the purposes of this Division —
+(a) the amount of a gift comprising the conferral of a financial benefit is taken to be an amount equal to the value of the financial benefit at the time the gift was made; and
+(b) the amount of a gift comprising a travel contribution (other than a financial contribution) is taken to be an amount equal to the value of the contribution at the time the gift was made.
+(2) For the purposes of this Division, a gift made to a relevant person (as defined in section 5.59) by 2 or more related bodies corporate (as defined in the Corporations Act 2001 (Commonwealth) section 9) is taken to have been made by a single corporation.
+28.Section 5.59 amended
+(1) In section 5.59 insert in alphabetical order:
+interest relating to a gift means an interest that a relevant person has because of the operation of section 5.60 when read with section 5.62(1)(ea), (eb) or (ec);
+(2) In section 5.59 in the definition of relevant person delete “5.70 or 5.71” and insert:
+5.70, 5.71 or 5.71A
+29.Section 5.62 amended
+(1) In section 5.62(1):
+(a) in paragraph (ea)(i) and (ii) delete “a notifiable” and insert:
+an electoral
+(b) delete paragraph (eb) and insert:
+(eb) the relevant person is a council member and the person has given a gift to which this paragraph applies to the relevant person since the relevant person was last elected; or
+(ec) the relevant person is a CEO and the person has given a gift to which this paragraph applies to the relevant person since the relevant person was last employed (or appointed to act) in the position of CEO; or
+(2) After section 5.62(1) insert:
+(1A) Subsection (1)(eb) and (ec) apply to a gift if —
+(a) either —
+(i) the amount of the gift exceeds the amount prescribed for the purposes of this subsection; or
+(ii) the gift is 1 of 2 or more gifts made by 1 person to the relevant person at any time during a year and the sum of the amounts of those 2 or more gifts exceeds the amount prescribed for the purposes of this subsection;
+and
+(b) the gift is not an excluded gift under subsection (1B).
+(1B) A gift is an excluded gift —
+(a) if —
+(i) the gift is a ticket to, or otherwise relates to the relevant person’s attendance at, an event as defined in section 5.90A(1); and
+(ii) the local government approves, in accordance with the local government’s policy under section 5.90A, the relevant person’s attendance at the event;
+or
+(b) if the gift is in a class of gifts prescribed for the purposes of this subsection.
+(3) In section 5.62(2) in the definition of notifiable gift delete “notifiable” and insert:
+electoral
+30.Section 5.68 amended
+(1) After section 5.68(1) insert:
+(1A) Subsection (1) does not apply if —
+(a) the interest disclosed is an interest relating to a gift; and
+(b) either —
+(i) the amount of the gift exceeds the amount prescribed for the purposes of this subsection; or
+(ii) the gift is 1 of 2 or more gifts made by 1 person to the disclosing member at any time during a year and the sum of the amounts of those 2 or more gifts exceeds the amount prescribed for the purposes of this subsection.
+(2) In section 5.68(2) delete “together with the extent of any participation allowed by the council or committee.” and insert:
+together with —
+(a) the extent of any participation allowed by the council or committee; and
+(b) if the decision concerns an interest relating to a gift, the information prescribed for the purposes of this paragraph.
+31.Section 5.69 amended
+After section 5.69(4) insert:
+(5) A decision under this section must be recorded in the minutes of the meeting relating to the matter.
+32.Section 5.70 amended
+(1) At the end of section 5.70(2) insert:
+Penalty for this subsection: a fine of $10 000 or imprisonment for 2 years.
+(2) After section 5.70(2) insert:
+(2A) Subsection (2) applies to a CEO even if the advice or report is provided in accordance with a decision made under section 5.71B(2) or (6).
+(3) In section 5.70(3) delete the Penalty and insert:
+Penalty for this subsection: a fine of $10 000 or imprisonment for 2 years.
+33.Sections 5.71A and 5.71B inserted
+After section 5.71 insert:
+5.71A.CEOs to disclose interests relating to gifts in connection with advice or reports
+(1) A CEO who has an interest relating to a gift in a matter in respect of which the CEO proposes to provide advice or a report, directly or indirectly, to the council or a committee must disclose the nature of the interest in a written notice given to the council.
+Penalty for this subsection: a fine of $10 000 or imprisonment for 2 years.
+(2) A CEO who makes a disclosure under subsection (1) must not provide the advice or report unless the CEO is allowed to do so under section 5.71B(2) or (6).
+Penalty for this subsection: a fine of $10 000 or imprisonment for 2 years.
+(3) A CEO who has an interest relating to a gift in a matter in respect of which another employee is providing advice or a report directly to the council or a committee must disclose the nature of the interest when the advice or report is provided.
+Penalty for this subsection: a fine of $10 000 or imprisonment for 2 years.
+5.71B.Council or Minister may allow CEOs to provide advice or reports
+(1) In this section —
+relevant gift means the gift to which the interest disclosed under section 5.71A(1) relates.
+(2) The council may allow the CEO to provide the advice or report to which a disclosure under section 5.71A(1) relates if —
+(a) the amount of the relevant gift does not exceed the amount prescribed for the purposes of this section; and
+(b) the council decides that the nature of the interest disclosed is unlikely to influence the CEO in the provision of the advice or report.
+(3) A decision of the council under subsection (2) must be recorded in the minutes of the council meeting at which the decision is made.
+(4) The council may apply to the Minister to allow the CEO to provide the advice or report to which a disclosure under section 5.71A(1) relates if the amount of the relevant gift exceeds the amount prescribed for the purposes of this section.
+(5) An application under subsection (4) must include —
+(a) details of the nature of the interest disclosed; and
+(b) any other information required by the Minister for the purposes of the application.
+(6) On an application under subsection (4), the Minister may allow, on any condition determined by the Minister, the CEO to provide the advice or report if the Minister is of the opinion that it is in the interests of the electors or ratepayers to do so.
+(7) A decision of the Minister under subsection (6) must be recorded in the minutes of the council meeting at which the decision is considered.
+(8) For the purposes of subsections (2)(a) and (4), if the relevant gift is 1 of 2 or more gifts made by 1 person to the CEO at any time during a year, the amount of the relevant gift is the sum of the amounts of those 2 or more gifts.
+34.Section 5.72 amended
+In section 5.72 delete “5.70 or 5.71” and insert:
+5.70(2), 5.71 or 5.71A(1) or (3)
+35.Section 5.73 amended
+In section 5.73 delete “5.65 or 5.70” and insert:
+5.65, 5.70 or 5.71A(3)
+36.Section 5.74 amended
+In section 5.74(3):
+(a) delete “gifts or contributions to travel given,”;
+(b) delete “is to be treated as having been given,” and insert:
+are taken to have been
+37.Sections 5.82 and 5.83 deleted
+Delete sections 5.82 and 5.83.
+38.Part 5 Division 6 Subdivision 2A inserted
+After Part 5 Division 6 Subdivision 2 insert:
+Subdivision 2A — Disclosure of gifts
+5.87A.Council members to disclose gifts
+(1) A council member must disclose, in accordance with subsection (2) and section 5.87C, a gift received by the council member.
+Penalty for this subsection: a fine of $10 000 or imprisonment for 2 years.
+(2) The disclosure must be made in writing to the CEO.
+(3) A person does not commit an offence against subsection (1) if —
+(a) the amount of the gift does not exceed the amount prescribed for the purposes of this paragraph; or
+(b) the gift is not received by the person in their capacity as a council member.
+(4) For the purposes of subsection (3)(a), if the gift is 1 of 2 or more gifts made by 1 person to the council member at any time during a year, the amount of the gift is the sum of the amounts of those 2 or more gifts.
+(5) For the purposes of subsection (3)(b), the gift is not received by the person in their capacity as a council member if it is a gift that the person would have received even if the person were not a council member.
+5.87B.CEOs to disclose gifts
+(1) A CEO must disclose, in accordance with subsection (2) and section 5.87C, a gift received by the CEO.
+Penalty for this subsection: a fine of $10 000 or imprisonment for 2 years.
+(2) The disclosure must be made in writing to the mayor or president.
+(3) A person does not commit an offence against subsection (1) if —
+(a) the amount of the gift does not exceed the amount prescribed for the purposes of this paragraph; or
+(b) the gift is not received by the person in their capacity as the CEO.
+(4) For the purposes of subsection (3)(a), if the gift is 1 of 2 or more gifts made by 1 person to the CEO at any time during a year, the amount of the gift is the sum of the amounts of those 2 or more gifts.
+(5) For the purposes of subsection (3)(b), the gift is not received by the person in their capacity as the CEO if it is a gift that the person would have received even if the person were not the CEO.
+5.87C.Provisions about disclosure
+(1) This section applies to a disclosure under section 5.87A or 5.87B.
+(2) The disclosure must be made within 10 days after receipt of the gift.
+(3) The disclosure must include the following —
+(a) a description of the gift;
+(b) the name and address of the person who made the gift;
+(c) the date on which the gift was received;
+(d) the estimated value of the gift at the time it was made;
+(e) the nature of the relationship between the person who made the gift and the person who received the gift;
+(f) in the case of a travel contribution —
+(i) a description of the travel; and
+(ii) the date of the travel.
+39.Section 5.88 amended
+(1) In section 5.88(2)(b) delete “5.70 and 5.71,” and insert:
+5.70, 5.71 and 5.71A,
+(2) After section 5.88(2) insert:
+(2A) The CEO must publish an up-to-date version of the register on the local government’s official website.
+40.Section 5.89A amended
+(1) In section 5.89A(1) delete “gifts and contributions to travel.” and insert:
+gifts.
+(2) In section 5.89A(2) delete “5.82 and 5.83.” and insert:
+5.87A and 5.87B.
+(3) After section 5.89A(2) insert:
+(2A) The CEO must record a disclosure made under section 5.87A or 5.87B in the register within 10 days after the disclosure is made.
+(2B) If a gift disclosed under section 5.87A or 5.87B is an excluded gift under section 5.62(1B)(a), the CEO must record in the register —
+(a) the date of the approval referred to in section 5.62(1B)(a)(ii); and
+(b) the reasons for that approval; and
+(c) any prescribed information.
+(4) Delete section 5.89A(4).
+(5) In section 5.89A(5) after “publish” insert:
+an up-to-date version of
+(6) After section 5.89A(5) insert:
+(5A) The version of the register published under subsection (5) must not, in the case of a disclosure about a gift made by an individual, include the address disclosed under section 5.87C(3)(b) and must instead include the town or suburb mentioned in the address.
+(7) In section 5.89A(6) delete “5.82 or 5.83” and insert:
+5.87A or 5.87B
+(8) In section 5.89A(7) delete the passage that begins with “Disclosures made” and ends with “required under section 5.82 or 5.83” and insert:
+If records relating to a person are removed from the register under subsection (6), a copy of the records is, for a period of at least 5 years after the person ceases to be a person required under section 5.87A or 5.87B
+Note:The heading to amended section 5.89A is to read:
+Register of gifts
+41.Section 5.89B deleted
+Delete section 5.89B.
+42.Section 5.89 amended
+In section 5.89 delete “5.82 or 5.83” and insert:
+5.71A, 5.87A or 5.87B
+43.Section 5.90 amended
+(1) In section 5.90(1)(a) and (b) after “interests” insert:
+or register of gifts
+(2) In section 5.90(2) delete the definition of publish and insert:
+publish has the meaning that the term has in the law of tort (as modified by the Defamation Act 2005) relating to defamation.
+44.Part 5 Division 6A inserted
+After Part 5 Division 6 insert:
+Division 6A — Attendance at events
+5.90A.Policy for attendance at events
+(1) In this section —
+event includes the following —
+(a)a concert;
+(b)a conference;
+(c)a function;
+(d)a sporting event;
+(e)an occasion of a kind prescribed for the purposes of this definition.
+(2) A local government must prepare and adopt* a policy that deals with matters relating to the attendance of council members and the CEO at events, including —
+(a) the provision of tickets to events; and
+(b) payments in respect of attendance; and
+(c) approval of attendance by the local government and criteria for approval; and
+(d) any prescribed matter.
+* Absolute majority required.
+(3) A local government may amend* the policy.
+* Absolute majority required.
+(4) When preparing the policy or an amendment to the policy, the local government must comply with any prescribed requirements relating to the form or content of a policy under this section.
+(5) The CEO must publish an up-to-date version of the policy on the local government’s official website.
+48.Part 5 Division 9 heading amended
+In the heading to Part 5 Division 9 delete “of certain officials”.
+49.Section 5.102A amended
+(1) In section 5.102A delete the definition of rules of conduct.
+(2) In section 5.102A insert in alphabetical order:
+candidate means a candidate for election as a council member;
+model code means the model code of conduct prescribed for the purposes of section 5.103(1);
+rule of conduct means a provision of the model code that is specified in the model code to be a rule of conduct;
+50.Sections 5.103 and 5.104 replaced
+Delete sections 5.103 and 5.104 and insert:
+5.103.Model code of conduct for council members, committee members and candidates
+(1) Regulations must prescribe a model code of conduct for council members, committee members and candidates.
+(2) The model code of conduct must include —
+(a) general principles to guide behaviour; and
+(b) requirements relating to behaviour; and
+(c) provisions specified to be rules of conduct.
+(3) The model code of conduct may include provisions about how the following are to be dealt with —
+(a) alleged breaches of the requirements referred to in subsection (2)(b);
+(b) alleged breaches of the rules of conduct by committee members.
+(4) The model code of conduct cannot include a rule of conduct if contravention of the rule would, in addition to being a minor breach under section 5.105(1)(a), also be a serious breach under section 5.105(3).
+(5) Regulations may amend the model code of conduct.
+5.104.Adoption of model code of conduct
+(1) Within 3 months after the day on which regulations prescribing the model code come into operation, a local government must prepare and adopt* a code of conduct to be observed by council members, committee members and candidates that incorporates the model code.
+* Absolute majority required.
+(2) Within 3 months after the day on which regulations amending the model code come into operation, the local government must amend* the adopted code of conduct to incorporate the amendments made to the model code.
+* Absolute majority required.
+(3) A local government may include in the adopted code of conduct requirements in addition to the requirements referred to in section 5.103(2)(b), but any additional requirements —
+(a) can only be expressed to apply to council members or committee members; and
+(b) are of no effect to the extent that they are inconsistent with the model code.
+(4) A local government cannot include in the adopted code of conduct provisions in addition to the principles referred to in section 5.103(2)(a) or the rules of conduct.
+(5) The model code is taken to be a local government’s adopted code of conduct until the local government adopts a code of conduct.
+(6) An alleged breach of a local government’s adopted code of conduct by a candidate cannot be dealt with under this Division or the adopted code of conduct unless the candidate has been elected as a council member.
+(7) The CEO must publish an up-to-date version of a local government’s adopted code of conduct on the local government’s official website.
+51.Section 5.105 amended
+Delete section 5.105(1) and insert:
+(1) A council member commits a minor breach if the council member —
+(a) contravenes a rule of conduct; or
+(b) contravenes a local law under this Act, contravention of which the regulations specify to be a minor breach.
+(1A) Subsection (1) extends to the contravention of a rule of conduct that occurred when the council member was a candidate.
+(1B) Regulations cannot specify that contravention of a local law under this Act is a minor breach if contravention of the local law would, in addition to being a minor breach under subsection (1), also be a serious breach under subsection (3).
+57.Section 5.120 replaced
+Delete section 5.120 and insert:
+5.120.Complaints officer
+(1) The CEO may designate an employee of the local government to be its complaints officer.
+(2) If an employee is not designated under subsection (1), the CEO is the local government’s complaints officer.
+61.Part 5 Division 10 inserted
+At the end of Part 5 insert:
+Division 10 — Training and development
+5.126.Training for council members
+(1) Each council member must complete training in accordance with regulations.
+(2) Regulations may —
+(a) prescribe a course of training; and
+(b) prescribe the period within which training must be completed; and
+(c) prescribe circumstances in which a council member is exempt from the requirement in subsection (1); and
+(d) provide that contravention of subsection (1) is an offence and prescribe a fine not exceeding $5 000 for the offence.
+5.127.Report on training
+(1) A local government must prepare a report for each financial year on the training completed by council members in the financial year.
+(2) The CEO must publish the report on the local government’s official website within 1 month after the end of the financial year to which the report relates.
+5.128.Policy for continuing professional development
+(1) A local government must prepare and adopt* a policy in relation to the continuing professional development of council members.
+* Absolute majority required.
+(2) A local government may amend* the policy.
+* Absolute majority required.
+(3) When preparing the policy or an amendment to the policy, the local government must comply with any prescribed requirements relating to the form or content of a policy under this section.
+(4) The CEO must publish an up-to-date version of the policy on the local government’s official website.
+(5) A local government —
+(a) must review the policy after each ordinary election; and
+(b) may review the policy at any other time.
+64.Section 9.10 replaced
+Delete section 9.10 and insert:
+9.10.Appointment of authorised persons
+(1) In this section —
+law means any of the following —
+(a)this Act;
+(b)the Caravan Parks and Camping Grounds Act 1995;
+(c)the Cat Act 2011;
+(d)the Cemeteries Act 1986;
+(e)the Control of Vehicles (Off-road Areas) Act 1978;
+(f)the Dog Act 1976;
+(g)subsidiary legislation made under an Act referred to in any of paragraphs (a) to (f);
+(h)a written law prescribed for the purposes of this section;
+specified means specified in the instrument of appointment.
+(2) The CEO may, in writing, appoint persons or classes of persons to be authorised persons for the purposes of 1 or more specified laws or specified provisions of 1 or more specified laws.
+(3) An appointment under subsection (2) is subject to any specified conditions or limitations.
+(4) The CEO must give to each person appointed under subsection (2) an identity card that —
+(a) on the front of the card, sets out —
+(i) the name and official insignia of the local government; and
+(ii) the name of the person; and
+(iii) a recent photograph of the person;
+and
+(b) on the back of the card, specifies each law to which the person’s appointment relates.
+(5) A person appointed under subsection (2) (the authorised person) must —
+(a) carry their identity card at all times when performing functions under a specified law; and
+(b) produce their identity card for inspection when required to do so by a person in respect of whom the authorised person has performed or is about to perform a function under a specified law.
+(6) A person who, without reasonable excuse, fails to return their identity card to the CEO within 14 days after their appointment ceases to have effect commits an offence.
+65.Section 9.13 amended
+In section 9.13(1) in the definition of authorised person delete “by the local government” and insert:
+under section 9.10(2)
+66.Section 9.15 amended
+In section 9.15 in the definition of authorised person delete “section 9.10(1) by the local government” and insert:
+section 9.10(2)
+67.Section 9.25 amended
+Delete section 9.25(1) and insert:
+(1) Proceedings for an offence against a provision of this Act listed in the Table may be commenced at any time.
+Table
+s. 4.85(1) and (2) | s. 4.86
+s. 4.91(1) | s. 5.65(1)
+s. 5.67 | s. 5.69(4)
+s. 5.69A(4) | s. 5.70(2) and (3)
+s. 5.71 | s. 5.71A(1), (2) and (3)
+s. 5.75 | s. 5.76
+s. 5.78(1) | s. 5.87A(1)
+s. 5.87B(1) | s. 5.89
+s. 5.93
+68.Section 9.49A amended
+(1) Delete section 9.49A(3)(b) and insert:
+(b) the CEO,
+(2) In section 9.49A(4) delete “chief executive officer,” and insert:
+CEO,
+74.Schedule 9.3 amended
+(1) In Schedule 9.3 clause 1:
+(a) in the definition of former provisions delete “day;” and insert:
+day.
+(b) delete the definition of senior employee.
+(2) At the end of Schedule 9.3 insert:
+Division 5 — Provisions for the Local Government Legislation Amendment Act 2019
+55.Authorised persons
+(1) This clause applies to a person who, immediately before the day on which the Local Government Legislation Amendment Act 2019 section 64 comes into operation, was a person appointed under section 9.10(1) for the purposes of performing particular functions.
+(2) The person is taken to be an authorised person appointed under section 9.10(2) for the purposes of this Act on the terms and conditions that were applicable to the person’s appointment under section 9.10(1) immediately before the day referred to in subclause (1).
+(3) At the end of Schedule 9.3 Division 5 insert:
+56.Register of gifts
+(1) In this clause —
+commencement day means the day on which the Local Government Legislation Amendment Act 2019 section 40 comes into operation;
+former provisions means sections 5.82 and 5.83 as in force immediately before the day on which the Local Government Legislation Amendment Act 2019 section 37 comes into operation;
+former section 5.89A(7) means section 5.89A(7) as in force immediately before commencement day.
+(2) In addition to the record required by section 5.89A(2), the register of gifts kept under section 5.89A(1) must contain a record of disclosures made under the former provisions that were recorded in the register immediately before commencement day.
+(3) Former section 5.89A(7) continues to apply in relation to disclosures made under the former provisions that, immediately before commencement day, were being kept by the CEO and made available for public inspection under that subsection.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -328,6 +753,7 @@ continuing authoritySch. 9.3 cl. 1
 contravention that can lead to impounding3.38
 corporation5.74(1)
 council1.4
+council proceedings9.57A
 councillor1.4
 councillor mayor or president1.4
 court3.26(5)
@@ -413,6 +839,7 @@ long service benefit5.48(1)
 major land transaction3.59(1)
 major trading undertaking3.59(1)
 making3.12(8)
+matter9.57A
 meeting minutes9.37(2)
 member1.4, 5.59, Sch. 2.5 cl. 1, Sch. 5.1 cl. 1
 member of a parliament2.20(2)
