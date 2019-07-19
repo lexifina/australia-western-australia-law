@@ -57,9 +57,10 @@ Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2
 Misuse of Drugs Amendment (Search Powers) Act 2016 | 47 of 2016 | 28 Nov 2016 | s. 1 and 2: 28 Nov 2016 (see s. 2(a)); Act other than s. 1 and 2: 14 Jan 2017 (see s. 2(b) and Gazette 13 Jan 2017 p. 337)
 Misuse of Drugs Amendment (Methylamphetamine Offences) Act 2017 Pt. 2 | 3 of 2017 | 21 Aug 2017 | 18 Sep 2017 (see s. 2(b))
 Reprint 7: The Misuse of Drugs Act 1981 as at 1 Dec 2017 (includes amendments listed above)
-Misuse of Drugs (Amounts of Prohibited Drugs) Order 2018 published in Gazette 29 Aug 2018 p. 2995-3039 | cl. 1 and 2: 29 Aug 2018 (see cl. 2); Order other than cl. 1 and 2: 30 Aug 2018 (see cl. 2)
 Industrial Hemp Amendment Act 2018 Pt. 3 | 15 of 2018 | 28 Aug 2018 | 22 Sep 2018 (see s. 2(b) and Gazette 21 Sep 2018 p. 3533)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Misuse of Drugs (Amounts of Prohibited Drugs) Order 2018 published in Gazette 29 Aug 2018 p. 2995-3039 | cl. 1 and 2: 29 Aug 2018 (see cl. 2); Order other than cl. 1 and 2: 30 Aug 2018 (see cl. 2)
+Reprint 8: The Misuse of Drugs Act 1981 as at 19 Jul 2019 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
@@ -75,7 +76,7 @@ commencement day means the day on which this Part comes into operation.
 (1) In this section —
 former authorisation means an authorisation under the Misuse of Drugs Act 1981 section 31(1) as in force immediately before the day on which Part 9 comes into operation.
 (2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 16 — Misuse of Drugs Act 1981 amended
 311.Act amended
@@ -109,7 +110,7 @@ Defined terms
 Defined termProvision(s)
 adult3(1), 8B(1)
 Agvet Code of Western Australia8N(1)
-amending Act44(1)
+amending Act44(1)(a)
 analyst3(1)
 appropriate licence5B(1)
 appropriate permit5B(1)
@@ -131,7 +132,7 @@ child3(1)
 CIN45
 CIR8B(2)
 CIS8B(2)
-claimant27(1)
+claimant27(1)(b)
 commencement day42B(1), 45
 Commissioner3(1)
 confidential information27B(1)
@@ -143,7 +144,7 @@ declared criminal organisation32A(3)
 delivery business 20A
 destruction notice8T(1)
 display7B(1)
-drug detection area20A, 20B(2)
+drug detection area20A, 20B(2)(a)
 drug detection device20A
 drug detection dog20A
 drug of addiction3(1)
