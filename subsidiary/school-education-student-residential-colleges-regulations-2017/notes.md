@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 School Education (Student Residential Colleges) Regulations 2017 | 18 Sep 2017 p. 4845-75 | Pt. 1 (other than r. 3): 18 Sep 2017 (see r. 2(a)); r. 3 and Pts. 2-6: 19 Sep 2017 (see r. 2(b))
 Education and Training Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 31 Jul 2018 p. 2711-15 | 1 Jan 2019 (see r. 2(c))
+Education Regulations (Immunisation Requirements for Enrolment) Amendment Regulations 2019 Pt. 3 | 19 Jul 2019 p. 2844-6 | 22 Jul 2019 (see r. 2(b) and Gazette 19 Jul 2019 p. 2841)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

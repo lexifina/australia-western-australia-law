@@ -28,6 +28,7 @@ School Education Amendment Regulations 2016 | 17 Jan 2017 p. 417 | r. 1 and 2: 1
 Reprint 3: The School Education Regulations 2000 as at 1 Sep 2017 (includes amendments listed above)
 School Education Amendment Regulations 2017 | 22 Dec 2017 p. 5977-8 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
 School Education Amendment Regulations 2018 | 21 Dec 2018 p. 4852-3 | r. 1 and 2: 21 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b))
+Education Regulations (Immunisation Requirements for Enrolment) Amendment Regulations 2019 Pt. 2 | 19 Jul 2019 p. 2844-6 | 22 Jul 2019 (see r. 2(b) and Gazette 19 Jul 2019 p. 2841)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
