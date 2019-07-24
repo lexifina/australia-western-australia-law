@@ -297,13 +297,13 @@ Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 104 | 4 o
 Heritage Act 2018 s. 184 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 1 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Industrial Relations Amendment Act 2018 s. 67 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
+ | Infrastructure Western Australia Act 2019 s. 74 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Infrastructure Western Australia Act 2019 s. 74 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -407,13 +407,6 @@ On the date as at which this compilation was prepared, the Aquatic Resources Man
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete “Any advisory committee established or continued in existence under Part 4 of the Fish Resources Management Act 1994.” and insert:
 Any advisory committee established under the Aquatic Resources Management Act 2016 section 224(1).
-57-59Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Infrastructure Western Australia Act 2019 s. 74 had not come into operation. It reads as follows:
-Part 6 — Consequential amendments to other Acts
-74.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 before the item for the board of the Minerals Research Institute of Western Australia insert:
-The board of Infrastructure WA established under the Infrastructure Western Australia Act 2019.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

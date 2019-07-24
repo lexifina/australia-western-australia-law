@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Planning and Development Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077); s. 150 and Pt. 13 Div. 3: 1 Jul 2009 (see s. 2 and Gazette 19 Jun 2009 p. 2225)
@@ -25,46 +25,17 @@ Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amen
 Associations Incorporation Act 2015 s. 226 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Reprint 4: The Planning and Development Act 2005 as at 1 Apr 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
 Heritage Act 2018 s. 186 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Infrastructure Western Australia Act 2019 s. 76 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Strata Titles Amendment Act 2018 Pt. 3 Div. 14 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 14 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 14 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Infrastructure Western Australia Act 2019 s. 76 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
+Other notes
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
-On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
-149.Conditions on rural land (tied lots)
-(1) In this section —
-rural land means land zoned for agricultural or rural use under a local planning scheme.
-(2) Without limiting section 143, the Commission may approve a plan of subdivision in respect of rural land subject to conditions imposed under that section that require —
-(a) a restrictive covenant to be created and made binding under section 129BA of the Transfer of Land Act 1893 so that no dwelling may be constructed on a specified lot to be created by the subdivision; and
-(b) the lot to which the restrictive covenant is to apply (the tied lot) to be —
-(i) owned by a person who is the owner of another specified lot (the principal lot); and
-(ii) used for agricultural purposes together with the principal lot.
-(3) The applicant is to ensure that any diagram or plan of survey for a subdivision referred to in subsection (2) includes a notation that the approval of the Commission is subject to the conditions referred to in that subsection.
-(4) The Commission is to provide the Registrar of Titles with any further information requested by the Registrar of Titles, in the form, if any, specified in the request.
-(5) When the Registrar of Titles creates or registers a certificate of title under the Transfer of Land Act 1893 for a tied lot, the Registrar of Titles is to endorse or note —
-(a) the title of the tied lot to give a person searching the title to that land notice that it is a tied lot; and
-(b) the title of the principal lot to give a person searching the title to the land notice that there is a tied lot in relation to the principal lot.
-(6) The Registrar of Titles is not to register a transfer, conveyance, lease or mortgage of a tied lot or a principal lot unless —
-(a) the transfer, conveyance, lease or mortgage is endorsed with the approval of the Commission; or
-(b) the principal lot is transferred, conveyed, leased or mortgaged together with the tied lot in one and the same transaction.
-(7) A person who —
-(a) contravenes; or
-(b) directly or indirectly, enters into a transaction relating to land for the purpose of avoiding,
-a condition referred to in subsection (2) commits an offence.
-(8) In any proceedings for an offence under subsection (7), a certificate of the Minister certifying that the purpose of the transaction in question is to avoid a condition referred to in subsection (2) and set out in that certificate is prima facie evidence of that purpose.
-(9) Subsection (7) does not apply to a transaction approved by the Commission.
-(10) Regulations made for the purposes of this section may provide for —
-(a) the rights, powers and privileges given to, and duties imposed on, a specified person or authority where a condition referred to in subsection (2) is imposed;
-(b) the removal or modification of a restrictive covenant created pursuant to a condition referred to in subsection (2);
-(c) the circumstances in which the Commission will approve the substitution of a principal lot or a transfer, conveyance, lease or mortgage of a tied lot or a principal lot;
-(d) the procedure for the approval;
-(e) the certification of relevant facts in relation to the approval; and
-(f) any other matter necessary or convenient to be prescribed for giving effect to the purposes of this section.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960. Section 248 was repealed by the Local Government Act 1995 s. 9.70.
 Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now district of Karratha.
@@ -183,119 +154,6 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 377 had not come into operation. It reads as follows:
-377.Various references to Fish Resources Management Act 1994 amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Fish Resources Management Act 1994” and insert:
-Aquatic Resources Management Act 2016
-Table
-Planning and Development Act 2005 | Sch. 2 cl. 7(2)(e)
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Strata Titles Amendment 2018 Pt. 3 Div. 14 had not come into operation. It reads as follows:
-Part 3 — Other Acts amended
-Division 14 — Planning and Development Act 2005 amended
-160.Act amended
-This Division amends the Planning and Development Act 2005.
-161.Section 4 amended
-In section 4(1) in the definition of lot delete “in relation to a strata scheme, a lot in relation to a survey-strata scheme, or a lot shown as common property on a survey-strata plan, as those terms are defined in the Strata Titles Act 1985;” and insert:
-as defined in the Strata Titles Act 1985 section 3(1);
-162.Section 136 amended
-(1) Delete section 136(3A) and insert:
-(2D) Subsection (1) applies to land comprised of common property or a lot in a strata titles scheme and a reference in that subsection to a lot includes a reference to a lot in a strata titles scheme.
-(2E) However, subsection (1) does not apply to the sale of common property or part of a lot, an agreement to sell common property or part of a lot or the grant of an option of purchase of common property or part of a lot if the transaction is associated with a subdivision by registration of an amendment of a strata titles scheme.
-(2F) Words in subsections (2D) and (2E) have the meanings given in the Strata Titles Act 1985 section 3(1) (and references to those words in sections 139 and 140 are to be read accordingly).
-(2) In section 136(3) in the definition of licence to use or occupy delete “easement;” and insert:
-easement.
-(3) In section 136(3) delete the definition of lot.
-163.Section 148 deleted
-Delete section 148.
-164.Section 150 amended
-In section 150(3)(a) and (c) delete “plan lodged” and insert:
-scheme plan lodged
-165.Section 152 amended
-(1) In section 152(1) delete “plan under” and insert:
-scheme plan under
-(2) In section 152(2)(a) delete “plan lodged” and insert:
-scheme plan lodged
-(3) In section 152(3)(b) delete “plan” and insert:
-scheme plan
-166.Part 10 Division 5A inserted
-After section 164 insert:
-Division 5A — Integration of subdivision and development
-164A.Integration of subdivision and development
-(1) This section applies if, on an application for subdivision approval or development approval, the Commission or responsible authority forms the opinion that the integration of subdivision and development approvals or multiple subdivision or development approvals is necessary or desirable —
-(a) due to the size of the lots and potential impact on the amenity of the locality; or
-(b) for other reasons associated with the achievement of orderly and proper planning, and the preservation of the amenity, of the locality.
-(2) The main purposes of integrating subdivision and development approvals are —
-(a) to facilitate a cohesive approach to planning and development in circumstances where subdivision and development should only be undertaken in conjunction with each other; and
-(b) to ensure that, in those circumstances, appropriate conditions for both the subdivision and development of land are determined as early as is practicable.
-(3) If this section applies —
-(a) the Commission may, in order to achieve the necessary or desirable integration of subdivision and development approvals, refuse to determine an application for subdivision approval until other applications for subdivision or development approvals are made or are made and determined; and
-(b) the Commission may refuse to unconditionally endorse a diagram or plan of survey with a subdivision approval in order for the plan to be registered in the Register under the Transfer of Land Act 1893 unless satisfied that —
-(i) the diagram or plan of survey is an accurate depiction of the subdivision that has been prepared after completion of the works necessary for the subdivision and the construction or modification of the buildings necessary for the development, the approvals of which have been required to be integrated; and
-(ii) the subdivision and development has been undertaken consistently with the relevant approvals, including their conditions; and
-(iii) the requirements of the Building Act 2011 have been complied with for the development.
-(4) Regulations may be made —
-(a) requiring the Commission or a responsible authority to inform each other and share information about an application for subdivision approval or development approval; or
-(b) requiring an applicant to provide additional documents or information reasonably required to determine whether subdivision and development approvals should be integrated under this section and to give effect to any such integration; or
-(c) establishing processes for the concurrent or separate consideration of subdivision and development approvals to which this section applies and for the imposition of conditions of approvals to which this section applies; or
-(d) otherwise facilitating the integration of subdivision and development approvals.
-167.Section 165 amended
-Delete section 165(1)(b) and insert:
-(b) a strata titles scheme as defined in the Strata Titles Act 1985 section 3(1), registered, or lodged for registration, under that Act,
-168.Section 167 amended
-In section 167(1)(a) and (c) delete “plan lodged” and insert:
-scheme plan lodged
-169.Section 168 amended
-(1) In section 168(1), (3), (4)(a) and (8)(a) delete “plan lodged” and insert:
-scheme plan lodged
-(2) In section 168(9) delete “plan that” and insert:
-scheme plan that
-170.Schedule 2 amended
-In schedule 2 clause 4(4) and (5) delete “Part II” and insert:
-Part 3
-On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 14 had not come into operation. It reads as follows:
-Part 14 — Other Acts amended
-Division 14 — Planning and Development Act 2005 amended
-222.Act amended
-This Division amends the Planning and Development Act 2005.
-223.Section 136 amended
-After section 136(2) insert:
-(2A) Subsection (1) applies to land comprised of common property or a lot in a community titles scheme and a reference in that subsection to a lot includes a reference to a lot in a community titles scheme.
-(2B) However, subsection (1) does not apply to the sale of common property or part of a lot, an agreement to sell common property or part of a lot or the grant of an option of purchase of common property or part of a lot if the transaction is associated with a subdivision by registration of an amendment of a community titles scheme.
-(2C) Words in subsections (2A) and (2B) have the meanings given in the Community Titles Act 2018 section 3(1) (and references to those words in sections 139 and 140 are to be read accordingly).
-224.Section 148 deleted
-Delete section 148.
-225.Section 162 amended
-After section 162(2) insert:
-(3) While a community development statement is in force for a community scheme, within the meaning of the Community Titles Act 2018, any approval for development must be consistent with the community development statement.
-226.Part 10 Division 5A inserted
-After Part 10 Division 5 insert:
-Division 5A — Integration of subdivision and development
-164A.Integration of subdivision and development
-(1) This section applies if, on an application for subdivision approval or development approval, the Commission or responsible authority forms the opinion that the integration of subdivision and development approvals or multiple subdivision or development approvals is necessary or desirable —
-(a) due to the size of the lots and potential impact on the amenity of the locality; or
-(b) for other reasons associated with the achievement of orderly and proper planning, and the preservation of the amenity, of the locality.
-(2) The main purposes of integrating subdivision and development approvals are —
-(a) to facilitate a cohesive approach to planning and development in circumstances where subdivision and development should only be undertaken in conjunction with each other; and
-(b) to ensure that, in those circumstances, appropriate conditions for both the subdivision and development of land are determined as early as is practicable.
-(3) Without limitation, integration of subdivision and development approvals will generally be necessary or desirable in the context of a community scheme within the meaning of the Community Titles Act 2018.
-(4) If this section applies —
-(a) the Commission may, in order to achieve the necessary or desirable integration of subdivision and development approvals, refuse to determine an application for subdivision approval until other applications for subdivision or development approvals are made or are made and determined; and
-(b) the Commission may refuse to unconditionally endorse a diagram or plan of survey with a subdivision approval in order for the plan to be registered in the Register under the Transfer of Land Act 1893 unless satisfied that —
-(i) the diagram or plan of survey is an accurate depiction of the subdivision that has been prepared after completion of the works necessary for the subdivision and the construction or modification of the buildings necessary for the development, the approvals of which have been required to be integrated; and
-(ii) the subdivision and development has been undertaken consistently with the relevant approvals, including their conditions; and
-(iii) the requirements of the Building Act 2011 have been complied with for the development.
-(5) Regulations may be made —
-(a) requiring the Commission or a responsible authority to inform each other and share information about an application for subdivision approval or development approval; or
-(b) requiring an applicant to provide additional documents or information reasonably required to determine whether subdivision and development approvals should be integrated under this section and to give effect to any such integration; or
-(c) establishing processes for the concurrent or separate consideration of subdivision and development approvals to which this section applies and for the imposition of conditions of approvals to which this section applies; or
-(d) otherwise facilitating the integration of subdivision and development approvals.
-On the date as at which this compilation was prepared, the Infrastructure Western Australia Act 2019 s. 76 had not come into operation. It reads as follows:
-Part 6 — Consequential amendments to other Acts
-76.Planning and Development Act 2005 amended
-(1) This section amends the Planning and Development Act 2005.
-(2) Delete Schedule 2 clause 6.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
