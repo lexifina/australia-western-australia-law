@@ -50,6 +50,7 @@ Veterinary Surgeons Amendment Regulations 2015 | 2 Jun 2015 p. 1938-9 | r. 1 and
 Veterinary Surgeons Amendment Regulations (No. 2) 2015 | 12 Jan 2016 p. 43 | r. 1 and 2: 12 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jan 2016 (see r. 2(b))
 Agriculture and Food Regulations Amendment (Poisons) Regulations 2016 Pt. 6 | 17 Jan 2017 p. 404-6 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Veterinary Surgeons Amendment Regulations 2017 | 21 Jul 2017 p. 4019-20 | r. 1 and 2: 21 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2018 (see r. 2(b))
+Reprint 6: The Veterinary Surgeons Regulations 1979 as at 26 Jul 2019 (includes amendments listed above)
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
 Defined terms
