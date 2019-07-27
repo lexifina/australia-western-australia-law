@@ -289,6 +289,7 @@ Department of the Premier and Cabinet | Completed Royal Commissions
 Constitutional Centre
 Constitutional Centre of Western Australia Advisory Board
 European, North Asia and Middle East Offices
+Infrastructure WA
 Office of e-Government
 Office of Road Safety
 Office of the Premier
@@ -351,4 +352,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9.]
+[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956.]
