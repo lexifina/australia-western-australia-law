@@ -31,6 +31,7 @@ Building Amendment Regulations (No. 2) 2018 | 5 Oct 2018 p. 4013-16 | r. 1 and 2
 Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 2 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
 Building Amendment Regulations 2019 | 26 Mar 2019 p. 943-6 | r. 1 and 2: 26 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2019 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2019 | 2 Aug 2019 p. 2990-1 | r. 1 and 2: 2 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2019 (see r. 2(b))
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -62,6 +63,7 @@ Class3
 CodeMark certificate31J(1)
 commencement date 31HA(1)
 commencement day3, 31BA(8)
+Commissioner14A(1)
 CV33
 debris criteria 31HA(1)
 decision33(1)
@@ -90,6 +92,7 @@ owner10(2A), 55(1)
 performance requirement3
 performance solution3
 pergolaSch. 4 cl. 2
+permit authority14A(1)
 person responsible54A(1)
 person with a disability51(1)
 post-transfer period57(1A)
@@ -112,6 +115,7 @@ safety measures48A(1)
 section3
 sole-occupancy unit3
 specified employee70(1A)
+Statistician14A(1)
 swimming pool3
 Table41(2)
 townsite3
