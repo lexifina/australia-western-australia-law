@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Prisons Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prisons Act 1981 | 115 of 1981 | 14 Dec 1981 | 1 Aug 1982 (see s. 2 and Gazette 23 Jul 1982 p. 2841)
@@ -11,7 +11,7 @@ Acts Amendment (Corrective Services) Act 1987 Pt. II | 47 of 1987 | 3 Oct 1987 |
 Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
 Acts Amendment (Imprisonment and Parole) Act 1987 Pt. III | 129 of 1987 | 21 Jan 1988 | 15 Jun 1988 (see s. 2 and Gazette 20 May 1988 p. 1664)
 Prisons Amendment Act (No. 2) 1991 | 47 of 1991 | 17 Dec 1991 | Act other than s. 6: 17 Dec 1991 (see s. 2(1)); s. 6: 1 Apr 1992 (see s. 2(2) and Gazette 27 Mar 1992 p. 1341)
-Reprint of the Prisons Act 1981 as at 9 Jul 1982 (includes amendments listed above) (correction by Gazette 18 May 1993 p. 2465)
+Reprint of the Prisons Act 1981 as at 9 Jul 1992 (includes amendments listed above) (correction in Gazette 18 May 1993 p. 2465)
 Criminal Law Amendment Act (No. 2) 1992 s. 16(1) | 51 of 1992 | 9 Dec 1992 | 6 Jan 1993
 Acts Amendment (Ministry of Justice) Act 1993 Pt. 15 | 31 of 1993 | 15 Dec 1993 | 1 Jul 1993 (see s. 2)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
@@ -61,16 +61,19 @@ Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 5 | 17 of 2016 | 1
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Industrial Relations Amendment Act 2018 s. 71 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
-Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 9: The Prisons Act 1981 as at 9 Aug 2019 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
+Other notes
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
-Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
-Under the Public Sector Management Act 1994 departments can be established and named. The designation of the department known as the Department of Justice has been altered to the Department of the Attorney General and the Department of Corrective Services was established with effect from 5 Jan 2006.
+Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice. See Gazette 7 Sep 2001 p. 4994-6.
+Subsequently, the name of the Department of Justice was changed to the Department of the Attorney General, and the Deparment of Corrective Serices was established with effect from 5 Jan 2006. See Gazette 10 Jan 2006 p. 39.
+Subsequent to that, the Departments of the Attorney General and Corrective Serices were amalgamated and designated the Deparment of Justice. See Gazette 28 Jun 2017 p. 3503.
 Repealed by the Prisons Regulations 1982.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 includes savings and transitional provisions that are of no further effect.
 The Sentencing (Consequential Provisions) Act 1995 s. 111(1), (2) and (3) are transitional provisions that are of no further effect.
@@ -87,15 +90,6 @@ The Inspector of Custodial Services Act 2003 Sch. 2 cl. 6(5) reads as follows:
 (5) A person who, immediately before the commencement of this Act, was a person who had been appointed by the Governor, under the Prisons Act 1981 section 54, to be a visiting justice is to be regarded, on and from the commencement, as a person who is appointed by the Minister, under the Prisons Act 1981 section 54, as a visiting justice on the same terms and conditions as applied to the person’s appointment by the Governor.
 The amendments in the Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 11(3)-(6) are not included because the sections they sought to amend were deleted by the Inspector of Custodial Services Act 2003 s. 56(1) before the amendments came into operation.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 1 cl. 25 (amendment to s. 23) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(4).
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36(2) had not come into operation. It reads as follows:
-36.Prisons Act 1981
-(2) Section 16(6) is repealed and the following subsection is inserted instead —
-(6) Subsection (5) does not apply in respect of a prisoner —
-(a) who is serving a sentence that requires him or her to spend —
-(i) 20 years or more in custody before being eligible for parole; or
-(ii) his or her whole life in custody;
-or
-(b) whose release is to be determined by the Governor.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -113,7 +107,7 @@ Commission114(12)
 contract3(1)
 contract worker15A
 contractor3(1), 113(1)
-decision notice99, 102(3)
+decision notice99, 102(3)(b)
 Department3(1)
 District Court judge3(1)
 drugs search49A(1)
@@ -121,13 +115,13 @@ external facility23(1)
 Family Court judge3(1)
 former disciplinary provisions119(1)
 function15A
-gaolSch. 2
+gaolSch. 2 it. 14
 hearing officer74A(1)
 high-level security work3(1)
 independent prison visitor3(1)
 industrial commissioner99
 intervene15A
-jailSch. 2
+jailSch. 2 it. 14
 judge of the Supreme Court3(1)
 judicial body3(1)
 lock-up3(1)
@@ -143,7 +137,7 @@ penalty119(1)
 perform15A
 permit3(1)
 person67A(4)
-prison3(1), Sch. 2
+prison3(1), Sch. 2 it. 14
 prison dog49A(1)
 prison offence3(1)
 prison officer3(1), 96, 99, 114(12)
