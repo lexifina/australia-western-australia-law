@@ -23,8 +23,44 @@ Local Government (Administration) Amendment Regulations 2014 | 28 Feb 2014 p. 51
 Local Government (Administration) Amendment Regulations 2016 | 4 Mar 2016 p. 649-58 | r. 1 and 2: 4 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Mar 2016 (see r. 2(b))
 Local Government Regulations Amendment (Gifts) Regulations 2017 Pt. 2 | 20 Jan 2017 p. 648-50 | 21 Jan 2017 (see r. 2(b))
 Local Government Regulations Amendment (Recovery of Advance Payments) Regulations 2018 Pt. 2 | 14 Dec 2018 p. 4805-6 | 15 Dec 2018 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Local Government Regulations Amendment (Induction and Training) Regulations 2019 Pt. 3 | 9 Aug 2019 p. 3020-3 | 16 Sep 2019 (see r. 2(c) and Gazette 9 Aug 2019 p. 3019)
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared the Local Government Regulations Amendment (Induction and Training) Regulations 2019 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Local Government (Administration) Regulations 1996 amended
+6.Regulations amended
+This Part amends the Local Government (Administration) Regulations 1996.
+7.Part 10 heading inserted
+After regulation 34G insert:
+Part 10 — Training
+8.Regulations 35 to 39 replaced
+Delete regulations 35 to 39 and insert:
+35.Training for council members (Act s. 5.126(1))
+(1) A council member completes training for the purposes of section 5.126(1) if the council member passes the course of training specified in subregulation (2) within the period specified in subregulation (3).
+(2) The course of training is the course titled Council Member Essentials that —
+(a) consists of the following modules —
+(i) Understanding Local Government;
+(ii) Serving on Council;
+(iii) Meeting Procedures;
+(iv) Conflicts of Interest;
+(v) Understanding Financial Reports and Budgets;
+and
+(b) is provided by any of the following bodies —
+(i) North Metropolitan TAFE;
+(ii) South Metropolitan TAFE;
+(iii) WALGA.
+(3) The period within which the course of training must be passed is the period of 12 months beginning on the day on which the council member is elected.
+36.Exemption from Act s. 5.126(1) requirement
+(1) A council member is exempt from the requirement in section 5.126(1) if —
+(a) the council member passed either of the following courses within the period of 5 years ending immediately before the day on which the council member is elected —
+(i) the course of training specified in regulation 35(2);
+(ii) the course titled 52756WA — Diploma of Local Government (Elected Member);
+or
+(b) the council member passed the course titled LGASS00002 Elected Member Skill Set before 1 July 2019 and within the period of 5 years ending immediately before the day on which the council member is elected.
+(2) A person who is a council member on the day on which the Local Government Regulations Amendment (Induction and Training) Regulations 2019 regulation 8 comes into operation is exempt from the requirement in section 5.126(1) until the end of their term of office.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
