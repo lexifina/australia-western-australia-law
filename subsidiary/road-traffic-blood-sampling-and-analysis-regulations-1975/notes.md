@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 August 2019 of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Blood Sampling and Analysis) Regulations 1975 | 29 May 1975 p. 1537-42 | 1 Jun 1975
@@ -33,10 +33,11 @@ Road Safety Commission Regulations Amendment (Public Health) Regulations 2016 Pt
 Road Traffic Regulations Amendment Regulations 2017 Pt. 2 | 7 Feb 2017 p. 1171-7 | 10 Mar 2017 (see r. 2(b) and Gazette 7 Feb 2017 p. 1158-9)
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2017 | 27 Jun 2017 p. 3448-9 | r. 1 and 2: 27 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2017 (see r. 2(b))
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2019 | 8 Feb 2019 p. 247-9 | r. 1 and 2: 8 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2019 (see r. 2(b))
+Reprint 5: The Road Traffic (Blood Sampling and Analysis) Regulations 1975 as at 9 Aug 2019 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Form2
 subject2
 technologist2
-the sampling equipment4
+sampling equipment4
