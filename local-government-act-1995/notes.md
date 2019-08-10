@@ -66,13 +66,13 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government Legislation Amendment Act 2016 Pt. 2 | 26 of 2016 | 21 Sep 2016 | Pt. 2 (other than s. 4, 6-9, 11 and 17): 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035); s. 4, 6-9, 11 and 17: 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
  | Local Government Amendment (Auditing) Act 2017 (other than s. 4(2) and 7(2)) | 5 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(b) and Gazette 27 Oct 2017 p. 5413)
  | Local Government Amendment (Suspension and Dismissal) Act 2018 | 31 of 2018 | 19 Nov 2018 | s. 1 and 2: 19 Nov 2018 (see s. 2(b)); Act other than s. 1 and 2: 20 Nov 2018 (see s. 2(b))
- | Local Government Legislation Amendment Act 2019 Pt. 2 (other than s. 5, 13-17, 20, 22, 24, 25-44, 48-51, 57, 61, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | 6 Jul 2019 (see s. 2(c))
+ | Local Government Legislation Amendment Act 2019 Pt. 2 (other than s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 61, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | s. 3-4, 6-12, 18, 19, 21, 23, 45-47, 52-56, 58-60, 62, 63, 69-73: 6 Jul 2019 (see s. 2(c)); s. 15: 10 Aug 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Local Government Legislation Amendment Act 2019 Pt. 2 (s. 5, 13-17, 20, 22, 24, 25-44, 48-51, 57, 61, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2019 Pt. 2 (s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 61, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | s. 61: 16 Sep 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 64-68 & 74: to be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -274,7 +274,7 @@ This Division amends the Local Government Act 1995.
 157.Section 1.4 amended
 In section 1.4 in the definition of owner after paragraph (a)(i) insert:
 (ia)the owner of a lot in a leasehold scheme as defined in the Strata Titles Act 1985 section 3(1); and
-On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2019 s. 5, 13 to 17, 20, 22, 24, 25 to 44, 48 to 51, 57, 61, 64 to 68, 74 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Local Government Legislation Amendment Act 2019 s. 5, 13, 14, 16, 17, 20, 22, 24 to 44, 48 to 51, 57, 61, 64 to 68, 74 had not come into operation. They read as follows:
 5.Sections 1.7 and 1.8 replaced
 Delete sections 1.7 and 1.8 and insert:
 1.7.Local public notice
@@ -293,16 +293,6 @@ Delete section 4.47(1) and insert:
 (1) Statewide public notice calling for nominations of candidates for the election must be given on or after the 56th day, but not later than on the 45th day, before election day by —
 (a) the Electoral Commissioner if the Electoral Commissioner is responsible for the conduct of the election; or
 (b) the returning officer in any other case.
-15.Section 4.48 amended
-(1) In section 4.48(1):
-(a) in paragraph (c) delete “day.” and insert:
-day; and
-(b) after paragraph (c) insert:
-(d) the person has completed the course of induction prescribed for the purposes of this subsection.
-(2) Delete section 4.48(2) and insert:
-(2) If the election is to fill the office of elector mayor or president, a person can only be a candidate if —
-(a) the person was an elector of the district who, as at the close of enrolments and at the time of nomination, was qualified under section 2.19 to be elected as a member of the council; and
-(b) at the time of nomination, the person has completed the course of induction prescribed for the purposes of this subsection.
 16.Section 4.52 amended
 (1) In section 4.52(1) delete “exhibited to the public (with the details and profiles of any other candidates) on a notice board at the local government’s offices.” and insert:
 published (with the details and profiles of any other candidates) on the local government’s official website.
