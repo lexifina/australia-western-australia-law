@@ -25,6 +25,7 @@ Reprint 3: The Pay-roll Tax Assessment Regulations 2003 as at 4 May 2012 (includ
 Pay-roll Tax Assessment Amendment Regulations (No. 2) 2013 | 11 Oct 2013 p. 4624-5 | r. 1 and 2: 11 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2013 (see r. 2(b))
 Pay-roll Tax Assessment Amendment Regulations 2015 | 24 Feb 2015 p. 740-1 | r. 1 and 2: 24 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2015 (see r. 2(b))
 Pay-roll Tax Assessment Amendment Regulations (No. 2) 2016 | 24 Jun 2016 p. 2343-4 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
+Finance Regulations Amendment Regulations 2019 Pt. 3 | 13 Aug 2019 p. 3041-3 | 14 Aug 2019 (see r. 2(c))
 The Workplace Agreements Act 1993 expired 14 Sep 2003.
 At the time of this compilation the Commissioner of Workplace Agreements does not exist.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection is called the Department of Commerce.

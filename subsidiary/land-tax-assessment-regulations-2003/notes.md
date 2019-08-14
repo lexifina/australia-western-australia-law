@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Land Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Tax Assessment Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Land Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2409-14 | 1 Jul 2003 (see r. 2(1) and Gazette 27 Jun 2003 p. 2383)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 82 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Land Tax Assessment Amendment Regulations 2007 | 20 Mar 2007 p. 1049 | 20 Mar 2007
@@ -15,6 +15,12 @@ Land Tax Assessment Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3340 | r
 Land Tax Assessment Amendment Regulations 2015 | 18 Sep 2015 p. 3813-15 | r. 1 and 2: 18 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2015 (see r. 2(b))
 Reprint 2: The Land Tax Assessment Regulations 2003 as at 7 Apr 2017 (includes amendments listed above)
 Land Tax Assessment Amendment Regulations 2018 | 12 Jun 2018 p. 1898-9 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2018 (see r. 2(b))
+Finance Regulations Amendment Regulations 2019 Pt. 2 (other than r. 5) | 13 Aug 2019 p. 3041-3 | 14 Aug 2019 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Finance Regulations Amendment Regulations 2019 r. 5 | 13 Aug 2019 p. 3041-3 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Other notes
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. Regulations 1-4 and Pt. 3 Div. 3 of those regulations read as follows:
 1.Citation
