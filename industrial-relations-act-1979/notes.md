@@ -13,7 +13,7 @@ Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 Pt. II | 94 of
 Reprint of the Industrial Relations Act 1979 as at 12 May 1985 (includes amendments listed above)
 Industrial Relations Amendment Act 1985 | 42 of 1985 | 13 May 1985 | 13 May 1985 (see s. 2)
 Reprint of the Industrial Relations Act 1979 as at 9 Jun 1985 (does not include amendments in the Industrial Relations Amendment Act 1985)
-Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
+Acts Amendment (Financial Administration and Audit) Act 1985 s. 3ustr | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
 Judges’ Salaries and Pensions Amendment Act 1987 s. 8 | 82 of 1987 | 1 Dec 1987 | 1 Dec 1987 (see s. 2)
 The Rural and Industries Bank of Western Australia Act 1987 s. 38 | 83 of 1987 | 1 Dec 1987 | 1 Apr 1988 (see s. 2)
 Industrial Relations Amendment Act (No. 4) 1987 | 119 of 1987 | 31 Dec 1987 | s. 1 and 2: 31 Dec 1987; Act other than s. 1, 2 and 7(1): 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665); s. 7(1): 3 Nov 1992 (see s. 2 and Gazette 3 Nov 1992 p. 5389)
@@ -97,6 +97,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Police Amendment (Medical Retirement) Act 2019 Pt. 3 | 19 of 2019 | 15 Aug 2019 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Fisheries Management Act 1991 s. 4(1) (Cwlth).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 (Cwlth).
 Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see the Fair Work Act 2009 (Cwlth).
@@ -126,6 +127,13 @@ Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints ar
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2).
 The Labour Relations Legislation Amendment Act 2006 s. 22 contains transitional provisions.
+On the date as at which this compilation was prepared the Police Amendment (Medical Retirement) Act 2019 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Industrial Relations Act 1979 amended
+8.Act amended
+This Part amends the Industrial Relations Act 1979.
+9.Section 113 amended
+In section 113(1)(d)(i) after “33P” insert:
+or 33ZI
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
