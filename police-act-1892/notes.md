@@ -123,6 +123,10 @@ Standardisation of Formatting Act 2010 s. 42(3), 43(2), 44(3) and 51 | 19 of 201
 Police Amendment Act 2011 | 12 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see s. 2(a); Act other than s. 1 and 2: 13 Jan 2018 (see s. 2(b) and Gazette 12 Jan 2018 p. 115)
 Industrial Relations Amendment Act 2018 s. 70 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 14 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Police Amendment (Medical Retirement) Act 2019 Pt. 2 | 19 of 2019 | 15 Aug 2019 | To be proclaimed (see s. 2(b))
 Part IIIA commenced 1 Apr 2008.
 Now known as the Police Act 1892; short title changed (see note under s. 3).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973 s. 3.
@@ -146,6 +150,243 @@ repeal day means the day on which section 64 comes into operation.
 (1) In this section —
 repeal day means the day on which section 65 comes into operation.
 (2) If immediately before repeal day any property is subject to an embargo notice granted under the Police Act 1892 section 90B, whether the property was seized under Part V of that Act or under an Act that refers to that section, then on and after repeal day sections 90B and 90C of that Act apply to and in respect of the notice as if they had not been repealed.
+On the date as at which this compilation was prepared the Police Amendment (Medical Retirement) Act 2019 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Police Act 1892 amended
+3.Act amended
+This Part amends the Police Act 1892.
+4.Section 8 amended
+In section 8(1):
+(a) delete “disability,”;
+(b) delete “removal, disability or” and insert:
+removal or
+5.Section 33K amended
+In section 33K in the definition of removal action after paragraph (c) insert:
+(d)the cancellation of the appointment of a police auxiliary officer under section 38G(4);
+6.Part IIC inserted
+After section 33Z insert:
+Part IIC — Medical retirement
+Division 1 — Preliminary
+33ZA.Summary of Part
+This Part sets out a scheme under which members who are medically unfit can be retired specifically on medical grounds (rather than being removed under Part IIB).
+33ZB.Terms used
+In this Part —
+appellant, in relation to an appeal instituted under section 33ZI, means the person who institutes the appeal;
+Chief Commissioner has the same meaning as it has in the Industrial Relations Act 1979;
+disputed decision has the meaning given in section 33ZI(2);
+industrial Commissioner has the same meaning as commissioner has in the Industrial Relations Act 1979;
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+medically unfit, in relation to a member, means the member is unfit, on medical grounds (whether physical or mental or both), to perform the functions of the office to which the member is appointed under this Act;
+member means —
+(a)a commissioned officer;
+(b)a non-commissioned officer;
+(c)a constable;
+(d)an Aboriginal police liaison officer;
+(e)a police auxiliary officer;
+Police Commissioner means the Commissioner of Police;
+retire, in relation to a member, means retire from the office to which the member is appointed under this Act;
+retirement day, in relation to a member, means the day at the end of which the member’s retirement on medical grounds takes effect under section 33ZE(10)(b);
+Senior Commissioner has the same meaning as it has in the Industrial Relations Act 1979;
+WAIRC means The Western Australian Industrial Relations Commission continued and constituted under the Industrial Relations Act 1979.
+Division 2 — How members can be retired on medical grounds
+33ZC.Examination of member by medical board
+(1) Subsection (2) applies if the Police Commissioner reasonably suspects that a member is medically unfit.
+(2) The Police Commissioner may direct the member to submit to an examination by a medical board consisting of at least 3 medical practitioners.
+(3) The direction may also impose requirements on the member —
+(a) in relation to the conduct of the examination; or
+(b) otherwise for the purpose of facilitating the examination.
+(4) The direction must be given in writing.
+(5) The member commits an offence against the discipline of the Police Force if the member, without good and sufficient cause, fails to comply with the direction.
+(6) The medical board must give a report on the examination to the Police Commissioner.
+(7) Regulations under section 138A may (without limitation) make provision about medical boards, including (without limitation) provision about 1 or more of the following matters —
+(a) the appointment of medical practitioners, or of other persons in addition to medical practitioners, to them (including how, when or by whom appointments are to be made);
+(b) their governance and procedures;
+(c) their examinations of members;
+(d) their reports to the Police Commissioner;
+(e) the payment of their costs or costs otherwise associated with them (including remuneration and expenses of persons appointed to them).
+33ZD.Notice that Police Commissioner is of opinion that member is medically unfit
+(1) This section applies if —
+(a) the Police Commissioner receives a report from a medical board under section 33ZC(6); and
+(b) having taken into account the report, the Police Commissioner is of the opinion that the member is medically unfit.
+(2) The Police Commissioner may give written notice to the member stating that the Police Commissioner —
+(a) is of the opinion that the member is medically unfit; and
+(b) is in the process of deciding whether the member should be retired on medical grounds.
+(3) If notice is given, the member may, during the period referred to in subsection (4) —
+(a) make written submissions to the Police Commissioner; and
+(b) give the Police Commissioner any written report or other document.
+(4) The period is —
+(a) the period of 28 days after the day on which the notice is given; or
+(b) a longer period allowed by the Police Commissioner.
+33ZE.Power to retire member on medical grounds
+(1) After the period referred to in section 33ZD(4) has ended, the Police Commissioner must —
+(a) decide whether the member should be retired on medical grounds; and
+(b) give the member written notice of the decision.
+(2) The Police Commissioner must not decide that the member should be retired on medical grounds unless the Police Commissioner —
+(a) has taken into account everything received from the member under section 33ZD(3) during the period referred to in section 33ZD(4); and
+(b) is still of the opinion that the member is medically unfit.
+(3) Subsections (4) to (10) apply if the Police Commissioner decides that the member should be retired on medical grounds.
+(4) The notice under subsection (1)(b) must give the Police Commissioner’s reasons for the decision.
+(5) Except to the extent that regulations otherwise provide, the Police Commissioner must, within 7 days of giving the notice under subsection (1)(b), give the member a copy of any documents, and make available to the member for inspection any other materials, that were examined and taken into account by the Police Commissioner in making the decision.
+(6) If the member is a commissioned officer —
+(a) the Police Commissioner may recommend to the Minister that the Minister advise the Governor to retire the member on medical grounds; and
+(b) the Governor may, on the Minister’s advice given in accordance with the Police Commissioner’s recommendation, retire the member on medical grounds.
+(7) If the member is a non-commissioned officer or a constable, the Police Commissioner may, with the Minister’s approval, retire the member on medical grounds.
+(8) If the member is an Aboriginal police liaison officer or a police auxiliary officer, the Police Commissioner may retire the member on medical grounds.
+(9) A power of the Police Commissioner under subsection (6), (7) or (8) may be exercised when, or at any time after, the notice under subsection (1)(b) is given.
+(10) If the member is retired on medical grounds —
+(a) the Police Commissioner must give the member written notice that the member has been retired on medical grounds; and
+(b) the retirement takes effect, and the member ceases to hold the office to which the member is appointed under this Act accordingly, at the end of the day on which the member receives the Police Commissioner’s notice.
+(11) Subsections (4) to (10) cease to apply if the Police Commissioner’s decision that the member should be retired on medical grounds is revoked under section 33ZG(2).
+(12) Regulations under section 138A may (without limitation) make provision for determining when a member is taken to receive a notice for the purposes of subsection (10)(b).
+33ZF.Maintenance payment
+(1) This section applies if a member’s retirement on medical grounds has taken effect.
+(2) The member is entitled to receive a maintenance payment for the period of 28 days after the retirement day.
+(3) In exceptional circumstances, the Minister may direct that a maintenance payment be paid to the member for a further period of up to 6 months specified by the Minister starting when the period referred to in subsection (2) ends.
+(4) However, the further period ends (if it has not already ended) on the day on which any appeal instituted under section 33ZI is determined by the WAIRC.
+(5) A maintenance payment must be calculated on the basis of the member’s salary on the retirement day.
+33ZG.Revocation of decision that member should be retired
+(1) This section applies if the Police Commissioner decides under section 33ZE(1)(a) that a member should be retired on medical grounds.
+(2) At any time on or before the retirement day, the Police Commissioner may, by written notice to the Minister, revoke the Police Commissioner’s decision.
+(3) At any time after the retirement day, the Police Commissioner may, by notice in the Gazette, revoke the Police Commissioner’s decision.
+(4) A notice under subsection (3) requires the Minister’s approval if the member was a commissioned officer.
+(5) Subsection (3) applies even if an appeal has been instituted under section 33ZI.
+(6) Despite any other enactment, if the Police Commissioner’s decision is revoked under subsection (3), the member’s retirement is taken to be of no effect and to have never had any effect.
+(7) If the Police Commissioner’s decision is revoked under subsection (3), the member is not entitled to be paid the member’s salary for any period for which the member received a maintenance payment under section 33ZF.
+33ZH.Resignation of member who has been retired on medical grounds
+(1) A member may resign at any time during the period of 28 days after the retirement day, despite the member’s retirement on medical grounds having taken effect.
+(2) The resignation takes effect at the end of that period of 28 days.
+(3) However, the member cannot resign if an appeal has been instituted under section 33ZI.
+(4) Despite any other enactment, if the member resigns, the member’s retirement is taken to be of no effect and to have never had any effect.
+Division 3 — Appeal against decision that member should be retired on medical grounds
+33ZI.Appeal right
+(1) This section applies if a member’s retirement on medical grounds has taken effect.
+(2) The member may appeal to the WAIRC on the ground that the Police Commissioner’s decision under section 33ZE(1)(a) that the member should be retired on medical grounds (the disputed decision) was harsh, oppressive or unfair.
+(3) The member must institute the appeal by a notice to the Police Commissioner stating —
+(a) why the disputed decision was harsh, oppressive or unfair; and
+(b) the nature of the relief sought.
+(4) The appeal cannot be instituted —
+(a) later than 28 days after the retirement day; or
+(b) if the member has resigned under section 33ZH.
+(5) For the purposes of proceedings relating to the appeal, the WAIRC is to be constituted by not less than 3 industrial Commissioners, at least 1 of whom is the Chief Commissioner or the Senior Commissioner.
+(6) The parties to the appeal are the appellant and the Police Commissioner.
+(7) No other person may be a party to the appeal.
+33ZJ.Proceedings on appeal
+(1) On the hearing of the appeal, the WAIRC must proceed as follows —
+(a) first, it must consider the Police Commissioner’s reasons for making the disputed decision;
+(b) secondly, it must consider the case presented by the appellant as to why the disputed decision was harsh, oppressive or unfair;
+(c) thirdly, it must consider the case presented by the Police Commissioner in answer to the appellant’s case.
+(2) The appellant has at all times the burden of establishing that the disputed decision was harsh, oppressive or unfair.
+(3) Subsection (2) has effect despite any law or practice to the contrary.
+(4) Without limiting the matters to which the WAIRC is otherwise required or permitted to have regard in determining the appeal, it must have regard to —
+(a) the interests of the appellant; and
+(b) the public interest which is taken to include —
+(i) the importance of maintaining public confidence in members of the Police Force; and
+(ii) the special nature of the relationship between the Police Commissioner and members of the Police Force.
+33ZK.New evidence on appeal
+(1) In this section —
+new evidence means evidence other than evidence of —
+(a)any document or other material that was examined and taken into account by the Police Commissioner in making the disputed decision; or
+(b)the notice given under section 33ZD(2); or
+(c)a written submission, report or other document given to the Police Commissioner by the appellant under section 33ZD(3); or
+(d)the notice given under section 33ZE(1)(b) or (10)(a).
+(2) New evidence must not be tendered to the WAIRC during the hearing of the appeal unless the WAIRC grants leave under subsection (3) or (4).
+(3) The WAIRC may grant the Police Commissioner leave to tender new evidence if —
+(a) the appellant consents; or
+(b) the WAIRC is satisfied that it is in the interests of justice to grant leave.
+(4) The WAIRC may grant the appellant leave to tender new evidence if —
+(a) the Police Commissioner consents; or
+(b) the WAIRC is satisfied that —
+(i) the appellant is likely to be able to show that the Police Commissioner has acted upon wrong or mistaken information; or
+(ii) the new evidence might materially have affected the Police Commissioner’s decision that the member should be retired on medical grounds; or
+(iii) it is in the interests of justice to grant leave.
+(5) In the exercise of its discretion under subsection (4), the WAIRC must have regard to the following —
+(a) whether the appellant was aware of the substance of the new evidence before the end of the retirement day;
+(b) whether the new evidence was contained in a document to which the appellant had reasonable access before the end of the retirement day.
+(6) If the Police Commissioner is given leave to tender new evidence —
+(a) the WAIRC must give the appellant a reasonable opportunity to consider the new evidence; and
+(b) the appellant may tender new evidence without the leave of the WAIRC in response to the new evidence tendered by the Police Commissioner.
+(7) If the appellant is given leave to tender new evidence, the WAIRC must give the Police Commissioner a reasonable opportunity to consider the new evidence.
+(8) If, having considered any new evidence, the Police Commissioner revokes the disputed decision under section 33ZG(3) —
+(a) the Police Commissioner must give the WAIRC notice of the revocation; and
+(b) the hearing of the appeal is discontinued when the WAIRC receives the notice.
+(9) If the Police Commissioner does not give notice under subsection (8), the hearing of the appeal must continue but the Police Commissioner may —
+(a) reformulate the Police Commissioner’s reasons for making the disputed decision; and
+(b) tender new evidence without the leave of the WAIRC in response to the new evidence tendered by the appellant.
+(10) Reasons reformulated under subsection (9)(a) may differ from, or be additional to, the reasons given to the appellant under section 33ZE(4).
+(11) If the Police Commissioner reformulates reasons under subsection (9)(a) —
+(a) the Police Commissioner must give the WAIRC and the appellant written notice of the reasons before the resumption of the hearing of the appeal; and
+(b) the WAIRC must consider the reasons as if they had been reasons given to the appellant under section 33ZE(4).
+33ZL.Application of Industrial Relations Act 1979 to the appeal
+The provisions of the Industrial Relations Act 1979 listed in the Table to this section apply, subject to this Part, any necessary modifications, and any specific modifications set out in that Table, to and in relation to the appeal and the determination of the appeal.
+Table
+s. 26(1)(a) and (b)
+s. 26(3)
+s. 27(1)(b), (c), (d), (e), (f), (h), (ha), (hb), (l), (m), (n), (o) and (v) | An order under section 27(1)(o) may be made by any one of the industrial Commissioners constituting the WAIRC to hear the appeal.
+s. 27(1a)
+s. 28 | But only in relation to powers conferred by section 27 listed in this Table.
+s. 31(1) | Paragraphs (b) and (c) do not apply but the subsection is to be read as if it contained the following paragraphs — “(b)with the leave of the Commission, by an agent; or (c)by a legal practitioner. ”.
+s. 31(3)
+s. 31(5)
+s. 32 | Section 32(1) is to be read as if a reference to “Where an industrial matter has been referred to the Commission the Commission shall” were a reference to “If the Commission is dealing with an appeal instituted under the Police Act 1892 section 33ZI, the Commission may recommend that the parties to the appeal”.
+ | References to “the matter” and “an industrial matter” are to be read as if they were references to “the appeal”. For the purposes of subsections (2) and (3), Commission does not include an industrial Commissioner constituting the WAIRC to hear the appeal. Subsections (4), (6), (7) and (8) do not apply.
+s. 33 | A summons may not be issued under section 33(1)(a) to the Governor. A summons may be issued to the Police Commissioner or the Minister but only at the direction of an industrial Commissioner if that industrial Commissioner is satisfied that there are extraordinary grounds for doing so.
+ | A summons may not be issued to any other person except at the direction of an industrial Commissioner.
+s. 34 | A reference in subsection (1) to “an award, order or declaration” is to be read as if it were a reference to “an order”.
+ | A reference in subsection (4) to “no award, order, declaration, finding, or proceeding” is to be read as if it were a reference to “no decision, order, finding or proceeding”.
+s. 35
+s. 36
+s. 86 | But not in relation to costs and expenses other than expenses of witnesses.
+s. 90 | A reference in subsection (1) to “any decision of the Full Bench, the Commission on an application under section 49(11) or the Commission in Court Session” is to be read as if it were a reference to “a decision of the Commission under the Police Act 1892 section 33ZM”.
+33ZM.Decision by the WAIRC
+(1) This section applies if the WAIRC decides on the appeal that the disputed decision was harsh, oppressive or unfair.
+(2) Unless an order is made under subsection (3), the WAIRC may order that the appellant’s retirement on medical grounds is, and is to be taken to have always been, of no effect.
+(3) If, and only if, the WAIRC considers that it is impracticable for it to be taken that the appellant’s retirement on medical grounds is, and has always been, of no effect, the WAIRC may instead of making an order under subsection (2), subject to subsections (5) and (6), order the Police Commissioner to pay the appellant an amount of compensation for loss or injury caused by the retirement.
+(4) In considering whether it is impracticable for it to be taken that the appellant’s retirement is, and has always been, of no effect it is relevant to consider —
+(a) whether the position occupied by the appellant on the retirement day is vacant; and
+(b) whether there is another suitable vacant position.
+(5) In deciding the amount of compensation for the purpose of making an order under subsection (3), the WAIRC must have regard to —
+(a) the efforts, if any, of the Police Commissioner and the appellant to mitigate the loss suffered by the appellant as a result of the retirement; and
+(b) any maintenance payment received by the appellant under section 33ZF; and
+(c) any redress the appellant has obtained under another enactment where the evidence necessary to establish that redress is also the evidence necessary to establish on the appeal that the disputed decision was harsh, oppressive or unfair; and
+(d) any other matter that the WAIRC considers relevant.
+(6) The amount ordered to be paid under subsection (3) must not exceed 12 months’ remuneration as a member.
+(7) For the purpose of subsection (5), the WAIRC may calculate the amount on the basis of the average rate of remuneration as a member received by the appellant during any relevant period of service.
+(8) If the WAIRC makes an order under subsection (2), the appellant is not entitled to be paid the appellant’s remuneration as a member for any period the appellant received a maintenance payment under section 33ZF.
+(9) An order under this section may require that it be complied with within a specified time.
+33ZN.Restriction on publication
+(1) If the WAIRC is satisfied that it is in the public interest, it may direct that either or both of the following must not be published or must not be published except in the manner, and to the persons, the WAIRC specifies —
+(a) any evidence given before the WAIRC on the appeal;
+(b) the contents of any document produced to the WAIRC on the appeal.
+(2) A person must not make a publication in contravention of a direction given under this section.
+Penalty for this subsection: imprisonment for 12 months and a fine of $4 000.
+Division 4 — General
+33ZO.Failure to comply with procedure
+An act or omission of the Governor, the Minister or the Police Commissioner is not invalid, and must not be called into question, on the ground of a failure to comply with any procedure prescribed under Division 2, or under regulations relating to Division 2, if the failure is not substantive.
+33ZP.Transfer, standing down and leave of member
+(1) Nothing in this Part derogates from the Police Commissioner’s power to —
+(a) transfer a member; or
+(b) stand a member down from performing that member’s usual duties on full pay until the member is directed by the Police Commissioner to return to those duties; or
+(c) allocate duties to a member other than the member’s usual duties.
+(2) If the Police Commissioner stands down a member who is being dealt with under this Part, the Police Commissioner must review the decision to stand the member down every 60 days and advise the member in writing of the result of the review.
+(3) The Police Commissioner must not direct a member who is being dealt with under this Part to take leave during the period the member is being dealt with under this Part unless the leave is leave that has accrued during any period that the member is stood down from performing the member’s usual duties.
+33ZQ.Transitional provision
+(1) In this section —
+commencement day means the day on which the Police Amendment (Medical Retirement) Act 2019 section 6 comes into operation.
+(2) This section applies if the Police Commissioner —
+(a) gives a direction to a member under the Police Force Regulations 1979 regulation 1402 before the commencement day; but
+(b) as at the time immediately before the commencement day, has not yet decided whether to take removal action (as defined in section 33K) in relation to the member.
+(3) The matter is to be continued and completed under this Part instead of regulation 1402, Part IIB and, as the case may be, section 8, 38B(4) or 38G(4).
+(4) Without limiting subsection (3) —
+(a) the Police Commissioner’s direction under regulation 1402 is taken to be a direction under section 33ZC; and
+(b) any medical board constituted under regulation 1402 on the Police Commissioner’s direction is taken to be a medical board under section 33ZC and anything done by, or in relation to, the board under regulation 1402 is taken to have been done by, or in relation to, the board under this Part or any relevant regulations relating to this Part; and
+(c) anything else done in relation to the matter under regulation 1402, or under Part IIB or any other regulation relating to that Part, or under section 8, 38B(4) or 38G(4), is taken to have been done under this Part or any relevant regulations relating to this Part; and
+(d) this Part, and any regulations relating to this Part, apply with any necessary modifications.
+7.Section 138A amended
+After section 138A(4) insert:
+(5) Without limiting subsection (1), regulations may be made —
+(a) requiring and regulating the provision of documents or other material by the Commissioner of Police to a member who has been given a direction under section 33ZC;
+(b) prescribing the procedure to be followed in relation to a retirement on medical grounds under Part IIC;
+(c) prescribing restrictions, in relation to any period during which consideration is being given to a member’s retirement on medical grounds under Part IIC, on the exercise of any power of the Commissioner of Police or the Governor to suspend the member’s pay; and
+(d) prescribing the means of service of documents that are required to be served under Part IIC or regulations relating to that Part.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
