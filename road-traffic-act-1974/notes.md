@@ -169,6 +169,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
+Road Traffic Amendment (Blood Alcohol Content) Act 2019 Pt. 2 and 3 | 20 of 2019 | 15 Aug 2019 | 12 Sep 2019 (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -307,8 +308,39 @@ At the end of Part VIII insert:
 110.Transitional provisions for the Road Traffic Legislation Amendment Act 2016
 (1) Until the Road Traffic Legislation Amendment Act 2016 section 62(2) comes into operation, section 49(1) has effect as if paragraph (c) of the Penalty also referred to the application of subsection (3)(ca).
 (2) Until the Road Traffic Legislation Amendment Act 2016 section 63 comes into operation, the definition of impounding offence (driver’s licence) paragraph (a) in section 78A, has effect as if it also referred to section 49(3)(ca).
-Footnote no longer applicable.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared the Road Traffic Amendment (Blood Alcohol Content) Act 2019 Pt. 2 and 3 had not come into operation. They read as follows:
+Part 2 — Road Traffic Act 1974 amended
+3.Act amended
+This Part amends the Road Traffic Act 1974.
+4.Section 71 replaced
+Delete section 71 and insert:
+71.Evidence of blood alcohol content for offences against s. 62B, 63, 64, 64AA, 64A and 64AAA
+(1) In any proceeding for an offence against section 62B the instructor is, in the absence of proof to the contrary, taken to have a particular blood alcohol content at the time of the driving instruction if it is proved that the instructor had the blood alcohol content —
+(a) in the case where the sample was taken under section 66(8B), at any time within 12 hours after the time that the instructor was providing the instruction; or
+(b) in any other case, at any time within 4 hours after the time that the instructor was providing the instruction.
+(2) In any proceeding for an offence against section 63, 64, 64AA, 64A or 64AAA the person charged is, in the absence of proof to the contrary, taken to have a particular blood alcohol content at the time of the driving or attempted driving if it is proved that the person had the blood alcohol content —
+(a) in the case where the sample was taken under section 66(8B), at any time within 12 hours after the driving or attempted driving; or
+(b) in any other case, at any time within 4 hours after the driving or attempted driving.
+5.Section 110 inserted
+After section 109 insert:
+110.Savings provisions for the Road Traffic Amendment (Blood Alcohol Content) Act 2019
+(1) In this section —
+commencement day means the day on which the Road Traffic Amendment (Blood Alcohol Content) Act 2019 section 4 comes into operation;
+former Act means the Road Traffic Act 1974 as in force immediately before commencement day.
+(2) A person’s blood alcohol content must be calculated in accordance with the former Act if —
+(a) a sample of the person’s breath or blood was provided or taken for analysis under Part V Division 2 of the former Act; and
+(b) the sample is to be used for the calculation of the person’s blood alcohol content for the purposes of proceedings referred to in section 70(1) of the Act.
+Part 3 — Amendments to other Acts
+Division 1 — Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 amended
+6.Act amended
+This Division amends the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015.
+7.Section 9 deleted
+Delete section 9.
+Division 2 — Road Traffic Legislation Amendment Act 2016 amended
+8.Act amended
+This Division amends the Road Traffic Legislation Amendment Act 2016.
+9.Section 64 deleted
+Delete section 64.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
