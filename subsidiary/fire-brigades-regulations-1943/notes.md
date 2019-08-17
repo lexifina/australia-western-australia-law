@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 September 2013 of the Fire Brigades Regulations 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire Brigades Regulations 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fire Brigades Act Regulations | 4 Jun 1943 p. 552-76 | 17 Sep 1943
@@ -87,6 +87,7 @@ Fire Brigades Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5233-44 | r. 1
 Fire Brigades Amendment Regulations (No. 3) 2012 | 18 Jan 2013 p. 147 | r. 1 and 2: 18 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jan 2013 (see r. 2(b))
 Fire Brigades Amendment Regulations 2013 | 4 Jun 2013 p. 2137-9 | r. 1 and 2: 4 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jun 2013 (see r. 2(b))
 Reprint 5: The Fire Brigades Regulations 1943 as at 20 Sep 2013 (includes amendments listed above)
+Fire Brigades Amendment Regulations 2019 | 16 Aug 2019 p. 3065-76 | r. 1 and 2: 16 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Aug 2019 (see r. 2(b))
 Headings preceding groups of regulations were repealed by the Fire Brigades Amendment Regulations 1989. Regulation 2 of those regulations reads as follows:
 2.Headings deleted
 For the purposes of facilitating a reprint of the Fire Brigades Regulations 1943, those regulations are amended —
@@ -117,25 +118,39 @@ has been started but not completed, the former regulations continue in operation
 (2) The former regulations continue in operation to the extent necessary for an appeal under regulation 179 of those regulations against a penalty imposed as a result of an enquiry under regulation 177 that is continued and completed by the operation of subregulation (1).
 (3) In this regulation —
 former regulations means the Fire Brigades Regulations 1943, as in force immediately before the commencement of these regulations.
-The Fire Brigades Amendment Regulations (No. 2) 2012 r. 28 stated as follows: Delete the Schedule.
+The Fire Brigades Amendment Regulations (No. 2) 2012 r. 28 stated as follows:
+Delete the Schedule.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Appeal Board96
+appeal body138(1)
+appellable decision137G(1)
 Association158
+breach of discipline96
 brigade158
 commencement day134A(1)
+disciplinary action96
+disciplinary charge96
+disciplinary finding96
 district158
 employee96
 former brigade169(1)
+improvement action96
+inquiry96
 investigator177(2)
 member158, 159E(1)
 new brigade169(1)
+notice of appeal137H(1)
 occupier229(b)
 officer’s report177(1)
+operating account of the Department96
 operational staff96
 owner229(b)
 paid outside employment134A(1)
 person229(b)
 prescribed amount190(2)
 registered158
+serious offence141(1)
+targeted drug96
 weekly wages132(2)
