@@ -39,10 +39,7 @@ Conservation and Land Management Amendment Regulations (No. 2) 2018 | 28 Aug 201
 Conservation and Land Management Amendment Regulations 2018 | 14 Sep 2018 p. 3307-8 | r. 1 and 2: 14 Sep 2018 (see r. 2(a)); r. 3 and 7: 15 Sep 2018 (see r. 2(c)); r. 4-6: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Conservation and Land Management Amendment Regulations (No. 4) 2018 | 11 Dec 2018 p. 4701-3 | r. 1 and 2: 11 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2487-8 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Conservation and Land Management Amendment Regulations (No. 3) 2019 r. 3-6 | 2 Aug 2019 p. 2987-90 | 1 Sep 2019 (see r. 2(b))
+Conservation and Land Management Amendment Regulations (No. 3) 2019 | 2 Aug 2019 p. 2987-90 | r. 1 and 2: 2 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2019 (see r. 2(b))
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
@@ -51,73 +48,6 @@ The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads a
 Barrow Island Net Conservation Benefit Account means the account of that name established as an agency special purpose account under the Financial Management Act 2006 section 16 in accordance with the Conservation and Land Management Act 1984 section 69(1);
 Barrow Island Trust Account means the account referred to in the Conservation and Land Management Regulations 2002 Part 7A immediately before the commencement of regulation 3.
 (2) Any money standing to the credit of the Barrow Island Trust Account immediately before the commencement of regulation 3 is to be transferred to the Barrow Island Net Conservation Benefit Account.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Regulations (No. 3) 2019 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Conservation and Land Management Regulations 2002.
-4.Schedule 1 Division 2 amended
-After Schedule 1 Division 2 item 3 insert:
-3A. | For a 14 day pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 40.00
-3B. | For a 5 day pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 25.00
-5.Schedule 1 Divisions 6 and 7 replaced
-Delete Schedule 1 Divisions 6 and 7 and insert:
-Division 6 — Camping site fees
- |  | Fee for night $
-1. | Fee for site without facilities —
- | (a)for each person 16 years of age or over | 8.00
- | (b)for each person 16 years of age or over who holds a concession card | 6.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-2. | Fee for site with basic facilities such as toilets, picnic tables, barbeques or fire pits —
- | (a)for each person 16 years of age or over | 11.00
- | (b)for each person 16 years of age or over who holds a concession card | 7.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-3. | Fee for site with additional facilities such as ablutions, showers or shelters —
- | (a)for each person 16 years of age or over | 15.00
- | (b)for each person 16 years of age or over who holds a concession card | 9.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-4. | Fee for site in Windjana Gorge National Park, Purnululu National Park or King Leopold Ranges Conservation Park without facilities —
- | (a)for each person 16 years of age or over | 13.00
- | (b)for each person 16 years of age or over who holds a concession card | 10.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-5. | Fee for site in Windjana Gorge National Park, Purnululu National Park or King Leopold Ranges Conservation Park with facilities such as toilets, picnic tables, barbeques, ablutions, showers or shelters —
- | (a)for each person 16 years of age or over | 17.00
- | (b)for each person 16 years of age or over who holds a concession card | 12.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-6. | Fee for site in Dirk Hartog Island National Park —
- | (a)for each person 16 years of age or over | 20.00
- | (b)for each person 16 years of age or over who holds a concession card | 15.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-Division 7 — Cave entrance fees
- |  | $
-1. | Crystal Cave, Yanchep National Park —
- | (a)for each person 16 years of age or over | 16.00
- | (b)for each person of more than 5 and less than 16 years of age | 8.00
- | (c)for a family (2 adults and 2 children of more than 5 and less than 16 years of age) | 40.00
- | (d)for each person who holds a concession card | 12.00
-2. | Calgardup and Giants Caves, Leeuwin-Naturaliste National Park —
- | (a)for each person 16 years of age or over | 19.00
- | (b)for each person of more than 5 and less than 16 years of age | 9.50
- | (c)for a family (2 adults and 2 children of more than 5 and less than 16 years of age) | 47.50
- | (d)for each person who holds a concession card | 12.50
-6.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 Div. 1 it. 1 | 7.00 | 8.00
-Sch. 1 Div. 1 it. 2 | 13.00 | 15.00
-Sch. 1 Div. 1 it. 3 | 6.00 | 7.00
-Sch. 1 Div. 1 it. 4 | 6.00 | 7.00
-Sch. 1 Div. 1 it. 5 | 7.00 | 8.00
-Sch. 1 Div. 1 it. 6 | 2.00 | 2.50
-Sch. 1 Div. 2 it. 1 | 92.00 | 120.00
-Sch. 1 Div. 2 it. 2 | 58.00 | 75.00
-Sch. 1 Div. 2 it. 3 | 46.00 | 60.00
-Sch. 1 Div. 2 it. 4 | 23.00 | 25.00
-Sch. 1 Div. 2 it. 5 | 115.00 | 150.00
-Sch. 1 Div. 8 it. 1 | 6.00 | 6.50
-Sch. 1 Div. 9 it. 1 | 9.50 | 10.00
-Sch. 1 Div. 9 it. 2 | 9.50 | 10.00
-Sch. 1 Div. 11 it. 5(a) | 100.00 | 110.00
-Sch. 1 Div. 11 it. 5(b) | 50.00 | 55.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
