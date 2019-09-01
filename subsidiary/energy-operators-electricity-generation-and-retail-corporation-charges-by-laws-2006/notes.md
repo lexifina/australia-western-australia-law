@@ -26,16 +26,9 @@ Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amend
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2018 | 16 Feb 2018 p. 469-70 | bl. 1 and 2: 16 Feb 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 17 Feb 2018 (see bl. 2(b))
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2018 | 26 Jun 2018 p. 2371-9 | bl. 1 and 2: 26 Jun 2018 (see bl. 2); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2)
 Reprint 4: The Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 as at 28 Sep 2018 (includes amendments listed above)
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2019 bl. 1-4 and 6-7 | 21 Jun 2019 p. 2119-27 | bl. 1 and 2: 21 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1, 2 and 5: 1 Jul 2019 (see bl. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2019 bl. 5 | 21 Jun 2019 p. 2119-27 | 1 Sep 2019 (see bl. 2(b))
+Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2019 | 21 Jun 2019 p. 2119-27 | bl. 1 and 2: 21 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1, 2 and 5: 1 Jul 2019 (see bl. 2(c)); bl. 5: 1 Sep 2019 (see bl. 2(b))
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 The Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016, (row 5 of the table in by-law 5) was disallowed by the Legislative Council on 22 Nov 2016 (see Gazette 6 Dec 2016 p. 5492).
-On the date as at which this compilation was prepared, the Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2019 bl. 5 had not come into operation. It reads as follows:
-5.By-law 10 amended
-Delete by-law 10(2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -43,6 +36,8 @@ corporation3
 dwelling3
 half-hourly maximum demand3
 interest period12(1)
+life support customer3
+MSLA3
 off peak3
 on peak3
 permitted surcharge3
