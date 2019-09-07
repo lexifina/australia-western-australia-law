@@ -23,6 +23,7 @@ Electricity Industry Exemption Amendment Order (No. 2) 2018 | 26 Jun 2018 p. 236
 Electricity Industry Exemption Amendment Order (No. 4) 2018 | 26 Jun 2018 p. 2361 | cl. 1 and 2: 26 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 27 Jun 2018 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 5) 2018 | 29 Jun 2018 p. 2434-5 | cl. 1 and 2: 29 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Jun 2018 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2018 | 25 Sep 2018 p. 3557-9 | cl. 1 and 2: 25 Sep 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 23 Oct 2018 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order (No. 2) 2019 | 6 Sep 2019 p. 3196 | cl. 1 and 2: 6 Sep 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 7 Sep 2019 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -52,6 +53,7 @@ Kwinana site23(1), 24(1)
 Kwinana WTE Project24(1)
 life support equipment6A(1)
 Minjar Gold21(1)
+Mt Wongama communications facility27(1)
 non-residential property3A
 occupier6(1)
 PEP Agreement8(1)
@@ -67,3 +69,4 @@ South Hedland Power Station site22(1)
 supplier4A(1) and (2), 4B
 supply address6A(1)
 SWIS3A
+Woodside Energy27(1)
