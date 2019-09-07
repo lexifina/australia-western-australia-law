@@ -1,15 +1,19 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources (Hydraulic Fracturing) Regulations 2017. The following table contains information about those regulations.
+This is a compilation of the Petroleum and Geothermal Energy Resources (Hydraulic Fracturing) Regulations 2017 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum and Geothermal Energy Resources (Hydraulic Fracturing) Regulations 2017 | 8 Dec 2017 p. 5848-9 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2017 (see r. 2(b))
+Petroleum and Geothermal Energy Resources (Hydraulic Fracturing) Amendment Regulations 2019 | 6 Sep 2019 p. 3198-201 | r. 1 and 2: 6 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Dampier Peninsula hydraulic fracturing ban area3
+existing petroleum authority area3A(1)
 hydraulic fracturing3
 metropolitan region3
-moratorium area5(1)
-moratorium period5(1)
+moratorium area3
+moratorium period3
 Peel region3
 petroleum authority3
+public drinking water source area3
 South West region3
