@@ -14,4 +14,4 @@ Column 1 Item | Column 2 Common name of animal | Column 3 Scientific name of ani
 10 | Pig | Sus spp.
 11 | Poultry and any hybrids | Gallus gallus domesticus (domestic chickens); Meleagris gallopavo (turkeys); Anser anser (geese); Anas spp.; Cairina moschata (ducks); Numida meleagris (guinea fowls); Coturnix japonica (quails); Columba livia (pigeons); Syrmaticus spp.; Lophura spp.; Phasianus spp.; Chrysolophus spp.; Lophophorus spp. (pheasants and partridges)
 12 | Sheep | Ovis spp.
-[Schedule 1 amended in Gazette 27 Jun 2019 p. 2454.]
+[Schedule 1 amended: Gazette 27 Jun 2019 p. 2454.]
