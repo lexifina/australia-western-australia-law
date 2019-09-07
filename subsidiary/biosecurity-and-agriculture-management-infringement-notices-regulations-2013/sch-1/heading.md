@@ -61,13 +61,14 @@ r. 69(2) | Interfering with identification on organism of concern or potential c
 r. 70 | Outgoing owner failing to notify Director General and new owner | 200
 r. 75(4) | Failing to give notice of intention to import | 300
 r. 76 | Failing to give notice of intention to import under Commonwealth permit | 200
-r. 79(4) | Failing to have organism or carrier inspected in manner required by regulations | 400
-r. 80 | Removing organism or carrier from inspection point without authority or direction | 400
+r. 79(6) | Failing to comply with requirements relating to presentation of organism or carrier for inspection | 400
 r. 82(3) | Failing to comply with requirement of warning sign | 400
 r. 82(4) | Failing to keep conveyance stationary upon stopping in accordance with warning sign | 400
 r. 83 | Damaging or interfering with warning sign | 400
 r. 84 | Failing to keep conveyance stationary when required to stop by inspector | 400
 r. 85(2) | Failing to give copy of direction to person to whom control of thing is transferred | 400
+r. 86(7) | Failing to comply with direction about untended plants, bees or apiaries | 200
+r. 86A(1) | Failing to keep bees in hive of approved design | 200
 r. 87(1) | Storing hive without closing entrance | 200
 r. 87(4) | Failing to comply with notice about storing hive | 200
 r. 98 | Contravening condition on permit | 400
@@ -77,6 +78,7 @@ r. 115 | Contravening condition of quarantine facility approval | 400
 r. 119(9) | Failing to comply with requirement in closure notice | 400
 r. 123(1) | Altering quarantine facility without approval | 400
 r. 124 | Falsely holding out as person in whose name quarantine facility is approved | 400
+[Division 2 amended: Gazette 6 Sep 2019 p. 3195.]
 ## Division 3 — Biosecurity and Agriculture Management (Agriculture Standards) Regulations 2013
 Offences under Biosecurity and Agriculture Management (Agriculture Standards) Regulations 2013 | Modified penalty $
 r. 10(6) | Failing to comply with duty or obligation in residue quarantine notice | 2 000
