@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic Act 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic Act 1974 | 59 of 1974 | 3 Dec 1974 | s. 4: 3 Dec 1974 (see s. 2(2)); s. 6-10 and 12: 21 Feb 1975 (see s. 2(1) and Gazette 21 Feb 1975 p. 633); Act other than s. 4, 6-10 and 12: 1 Jun 1975 (see s. 2(1) and Gazette 29 May 1975 p. 1442)
@@ -153,23 +153,24 @@ Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 2 | 59 of 2012 (as amended 
 Reprint 12: The Road Traffic Act 1974 as at 22 Mar 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18), the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Road Traffic (Miscellaneous Amendments) Act 2012 s. 12)
 Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 35 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | Pt. 2 (other than s. 9): 4 Apr 2016 (see s. 2(1)(b) and Gazette 24 Mar 2016 p. 927); Pt. 3 Div. 1: 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 (other than s. 9) and Pt. 3 Div. 1 | 2 of 2015 (as amended by No. 20 of 2019 s. 7) | 25 Feb 2015 | Pt. 2 (other than s. 9): 4 Apr 2016 (see s. 2(1)(b) and Gazette 24 Mar 2016 p. 927); Pt. 3 Div. 1: 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
 Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Reprint 13: The Road Traffic Act 1974 as at 12 Jun 2015 (includes amendments listed above except those in the Medicines and Poisons Act 2014 and the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1, Div. 4 Subdiv. 1 (other than s. 64) | 25 of 2016 | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 1 Subdiv. 1, Div. 3 Subdiv. 1 (other than s. 46 and 53) and Div. 4 Subdiv. 1 (other than s. 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279); Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9)
+Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 1, Pt. 3 Div. 1 Subdiv. 1, Div. 2, Div. 3 Subdiv. 1, Div. 4 Subdiv. 1 (other than s. 64) | 25 of 2016 (as amended by No. 20 of 2019 s. 9) | 21 Sep 2016 | Pt. 1: 21 Sep 2016 (see s. 2(a)); Pt. 2: Div. 1: 22 Sep 2016 (see s. 2(b)); Pt. 3 Div. 1 Subdiv. 1, Div. 3 Subdiv. 1 (other than s. 46 and 53) and Div. 4 Subdiv. 1 (other than s. 64): 28 Nov 2016 (see s. 2(c) and Gazette 25 Nov 2016 p. 5279); Pt. 3 Div. 2, s. 46 and 53: 10 Mar 2017 (see s. 2(c) and Gazette 7 Feb 2017 p. 1158-9)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and (2) and Gazette 13 Jan 2017 p. 338)
 Reprint 14: The Road Traffic Act 1974 as at 1 Dec 2017 (includes amendments listed above)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
-Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Road Traffic Amendment (Blood Alcohol Content) Act 2019 | 20 of 2019 | 15 Aug 2019 | Pt. 1: 15 Aug 2019 (see s. 2(a)); Act other than Pt. 1: 12 Sep 2019 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Legislation Amendment Act 2016 s. 64 | 25 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(c))
-Road Traffic Amendment (Blood Alcohol Content) Act 2019 Pt. 2 and 3 | 20 of 2019 | 15 Aug 2019 | 12 Sep 2019 (see s. 2(b))
+Other notes
+Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+Footnote no longer applicable.
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -291,56 +292,10 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 The Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) had not come into operation when they were deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 36.
-The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 will not come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
+The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 had not come into operation when it was deleted by the Road Traffic Amendment (Blood Alcohol Content) Act 2019 s. 7.
 The Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 s. 5 and Pt. 3 Div. 3 will not come into operation (see. s. 57(1)).
 The Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 could not come into operation because the sections it sought to amend were deleted by the Road Traffic Legislation Amendment Act 2012 s. 8. Subsequently, the Taxi Drivers Licensing Act 2014 was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 21 — Road Traffic Act 1974 amended
-325.Act amended
-This Division amends the Road Traffic Act 1974.
-326.Section 70 amended
-In section 70(7) delete the definition of technologist and insert:
-technologist means a person approved, or belonging to a class of persons approved, by the Minister to prepare sampling equipment.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2016 s. 64 had not come into operation. It reads as follows:
-64.Section 110 inserted
-At the end of Part VIII insert:
-110.Transitional provisions for the Road Traffic Legislation Amendment Act 2016
-(1) Until the Road Traffic Legislation Amendment Act 2016 section 62(2) comes into operation, section 49(1) has effect as if paragraph (c) of the Penalty also referred to the application of subsection (3)(ca).
-(2) Until the Road Traffic Legislation Amendment Act 2016 section 63 comes into operation, the definition of impounding offence (driver’s licence) paragraph (a) in section 78A, has effect as if it also referred to section 49(3)(ca).
-On the date as at which this compilation was prepared the Road Traffic Amendment (Blood Alcohol Content) Act 2019 Pt. 2 and 3 had not come into operation. They read as follows:
-Part 2 — Road Traffic Act 1974 amended
-3.Act amended
-This Part amends the Road Traffic Act 1974.
-4.Section 71 replaced
-Delete section 71 and insert:
-71.Evidence of blood alcohol content for offences against s. 62B, 63, 64, 64AA, 64A and 64AAA
-(1) In any proceeding for an offence against section 62B the instructor is, in the absence of proof to the contrary, taken to have a particular blood alcohol content at the time of the driving instruction if it is proved that the instructor had the blood alcohol content —
-(a) in the case where the sample was taken under section 66(8B), at any time within 12 hours after the time that the instructor was providing the instruction; or
-(b) in any other case, at any time within 4 hours after the time that the instructor was providing the instruction.
-(2) In any proceeding for an offence against section 63, 64, 64AA, 64A or 64AAA the person charged is, in the absence of proof to the contrary, taken to have a particular blood alcohol content at the time of the driving or attempted driving if it is proved that the person had the blood alcohol content —
-(a) in the case where the sample was taken under section 66(8B), at any time within 12 hours after the driving or attempted driving; or
-(b) in any other case, at any time within 4 hours after the driving or attempted driving.
-5.Section 110 inserted
-After section 109 insert:
-110.Savings provisions for the Road Traffic Amendment (Blood Alcohol Content) Act 2019
-(1) In this section —
-commencement day means the day on which the Road Traffic Amendment (Blood Alcohol Content) Act 2019 section 4 comes into operation;
-former Act means the Road Traffic Act 1974 as in force immediately before commencement day.
-(2) A person’s blood alcohol content must be calculated in accordance with the former Act if —
-(a) a sample of the person’s breath or blood was provided or taken for analysis under Part V Division 2 of the former Act; and
-(b) the sample is to be used for the calculation of the person’s blood alcohol content for the purposes of proceedings referred to in section 70(1) of the Act.
-Part 3 — Amendments to other Acts
-Division 1 — Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 amended
-6.Act amended
-This Division amends the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015.
-7.Section 9 deleted
-Delete section 9.
-Division 2 — Road Traffic Legislation Amendment Act 2016 amended
-8.Act amended
-This Division amends the Road Traffic Legislation Amendment Act 2016.
-9.Section 64 deleted
-Delete section 64.
+The Road Traffic Legislation Amendment Act 2016 s. 64 had not come into operation when it was deleted by the Road Traffic Amendment (Blood Alcohol Content) Act 2019 s. 9.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -361,7 +316,7 @@ breath analysing equipment65
 business owner79D(2)(g)(i)
 cancellation provision62B(3), 64A(1A)
 circumstances of aggravation49AB(1)
-commencement day72(8), 72A(1), 109(1)
+commencement day72(8), 72A(1), 109(1), 110(1)
 Commissioner78A(1), 80G(1)
 conduct65
 confiscated motor cycle80V(1)
@@ -378,6 +333,7 @@ drugs analyst65
 event81A
 expenses80J(1)
 former109(1)
+former Act110(1)
 former owner80M(1)
 grievous bodily harm49AAA
 hired78A(1)
