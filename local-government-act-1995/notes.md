@@ -66,13 +66,13 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government Legislation Amendment Act 2016 Pt. 2 | 26 of 2016 | 21 Sep 2016 | Pt. 2 (other than s. 4, 6-9, 11 and 17): 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035); s. 4, 6-9, 11 and 17: 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
  | Local Government Amendment (Auditing) Act 2017 (other than s. 4(2) and 7(2)) | 5 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(b) and Gazette 27 Oct 2017 p. 5413)
  | Local Government Amendment (Suspension and Dismissal) Act 2018 | 31 of 2018 | 19 Nov 2018 | s. 1 and 2: 19 Nov 2018 (see s. 2(b)); Act other than s. 1 and 2: 20 Nov 2018 (see s. 2(b))
- | Local Government Legislation Amendment Act 2019 Pt. 2 (other than s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 61, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | s. 3-4, 6-12, 18, 19, 21, 23, 45-47, 52-56, 58-60, 62, 63, 69-73: 6 Jul 2019 (see s. 2(c)); s. 15: 10 Aug 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019)
+ | Local Government Legislation Amendment Act 2019 Pt. 2 (other than s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | s. 3-4, 6-12, 18, 19, 21, 23, 45-47, 52-56, 58-60, 62, 63, 69-73: 6 Jul 2019 (see s. 2(c)); s. 15: 10 Aug 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 61: 16 Sep 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Local Government Legislation Amendment Act 2019 Pt. 2 (s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 61, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | s. 61: 16 Sep 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 64-68 & 74: to be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2019 Pt. 2 (s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 64-68 and 74) | 16 of 2019 | 5 Jul 2019 | s. 5, 13, 14, 16, 17, 20, 22, 24-44, 48-51, 57, 64-68 & 74: to be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -595,29 +595,6 @@ Delete section 5.120 and insert:
 5.120.Complaints officer
 (1) The CEO may designate an employee of the local government to be its complaints officer.
 (2) If an employee is not designated under subsection (1), the CEO is the local government’s complaints officer.
-61.Part 5 Division 10 inserted
-At the end of Part 5 insert:
-Division 10 — Training and development
-5.126.Training for council members
-(1) Each council member must complete training in accordance with regulations.
-(2) Regulations may —
-(a) prescribe a course of training; and
-(b) prescribe the period within which training must be completed; and
-(c) prescribe circumstances in which a council member is exempt from the requirement in subsection (1); and
-(d) provide that contravention of subsection (1) is an offence and prescribe a fine not exceeding $5 000 for the offence.
-5.127.Report on training
-(1) A local government must prepare a report for each financial year on the training completed by council members in the financial year.
-(2) The CEO must publish the report on the local government’s official website within 1 month after the end of the financial year to which the report relates.
-5.128.Policy for continuing professional development
-(1) A local government must prepare and adopt* a policy in relation to the continuing professional development of council members.
-* Absolute majority required.
-(2) A local government may amend* the policy.
-* Absolute majority required.
-(3) When preparing the policy or an amendment to the policy, the local government must comply with any prescribed requirements relating to the form or content of a policy under this section.
-(4) The CEO must publish an up-to-date version of the policy on the local government’s official website.
-(5) A local government —
-(a) must review the policy after each ordinary election; and
-(b) may review the policy at any other time.
 64.Section 9.10 replaced
 Delete section 9.10 and insert:
 9.10.Appointment of authorised persons
