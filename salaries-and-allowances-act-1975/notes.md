@@ -1,5 +1,5 @@
 Notes
-This is a compilation the Salaries and Allowances Act 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Salaries and Allowances Act 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Salaries and Allowances Tribunal Act 1975 | 27 of 1975 | 16 May 1975 | Act other than s. 13: 16 May 1975 (see s. 2(1)); s. 13: 8 Aug 1975 (see s. 2(2) and Gazette 12 Aug 1975 p. 2951)
@@ -55,6 +55,11 @@ Universities Legislation Amendment Act 2016 Pt. 7 Div. 8 | 32 of 2016 | 19 Oct 2
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Salaries and Allowances Amendment (Debt and Deficit Remediation) Act 2018 | 1 of 2018 | 27 Feb 2018 | s. 1 and 2: 27 Feb 2018 (see s. 2(a)); Act other than s. 1 and 2: 28 Feb 2018 (see s. 2(b))
 Reprint 6: The Salaries and Allowances Act 1975 as at 24 Aug 2018 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+TAB (Disposal) Act 2019 s. 156 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Other notes
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
 6.Transitional provision
