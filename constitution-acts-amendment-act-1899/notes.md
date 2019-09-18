@@ -304,6 +304,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -407,6 +408,12 @@ On the date as at which this compilation was prepared, the Aquatic Resources Man
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete “Any advisory committee established or continued in existence under Part 4 of the Fish Resources Management Act 1994.” and insert:
 Any advisory committee established under the Aquatic Resources Management Act 2016 section 224(1).
+On the date as at which this compilation was prepared the TAB (Disposal) Act 2019 s. 146 had not come into operation. It reads as follows:
+146.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 in the item relating to the board of Racing and Wagering Western Australia:
+(a) delete “and Wagering”;
+(b) delete “and Wagering”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
