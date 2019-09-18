@@ -1,5 +1,5 @@
 Notes
-This is a compilation of The Western Australian Turf Club Act 1892 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the The Western Australian Turf Club Act 1892 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Western Australian Turf Club Act 1892 | 1892 (55 Vict. Private Act) | 18 Mar 1892 | 18 Mar 1892
@@ -14,6 +14,11 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Reprint 3: The Western Australian Turf Club Act 1892 as at 4 Jul 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 37 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+TAB (Disposal) Act 2019 s. 158 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by Government Railways Act 1904.
 This Act is to be read in conjunction with the Western Australian Turf Club (Property) Act 1944 (see s. 2 of that Act).
