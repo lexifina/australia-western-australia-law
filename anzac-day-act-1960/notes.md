@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Anzac Day Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Anzac Day Act 1960 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Anzac Day Act 1960 | 73 of 1960 (9 Eliz. II No. 73) | 12 Dec 1960 | 12 Dec 1960
@@ -26,6 +26,10 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Anzac Day Amendment Act 2016 | 4 of 2016 | 21 Mar 2016 | s. 1 and 2: 21 Mar 2016 (see s. 2(a)); Act other than s. 1 and 2: 23 Mar 2016 (see s. 2(b) and Gazette 22 Mar 2016 p. 859)
 Anzac Day Amendment Act (No. 2) 2016 | 5 of 2016 | 21 Mar 2016 | s. 1 and 2: 21 Mar 2016 (see s. 2(a)); Act other than s. 1 and 2: 23 Mar 2016 (see s. 2(b) and Gazette 22 Mar 2016 p. 859)
 Reprint 4: The Anzac Day Act 1960 as at 3 Feb 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+TAB (Disposal) Act 2019 s. 145 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,4 +46,3 @@ racing club3
 sport event3
 Trust3
 Trustee3
-By Authority: JOHN A. STRIJK, Government Printer
