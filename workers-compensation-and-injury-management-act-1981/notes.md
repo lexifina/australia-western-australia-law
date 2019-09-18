@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Workers’ Compensation and Injury Management Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Workers’ Compensation and Assistance Act 1981 | 86 of 1981 | 23 Nov 1981 | 3 May 1982 (see s. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -85,11 +85,14 @@ Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (s
  | Statutes (Repeals) Act 2016 Pt. 2 Div. 4 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
  | Reprint 12: The Workers’ Compensation and Injury Management Act 1981 as at 24 Nov 2017 (includes amendments listed above)
  | Workers’ Compensation and Injury Management Amendment Act 2018 | 8 of 2018 | 20 Jun 2018 | Pt. 1: 20 Jun 2018 (see s. 2(a)); Pt. 3: 21 Jun 2018 (see s. 2(b)); Act other than Pt. 1 and 3: 1 Jul 2018 (see s. 2(c) and Gazette 29 Jun 2018 p. 2433)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
+TAB (Disposal) Act 2019 s. 160 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Other notes
+Footnote no longer applicable.
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
 The effect of this section was removed by the Western Australian Marine Act 1982 s. 135, subject to the savings provisions in section 135(4) of that Act.
 Repealed by the Statute Stocktake Act 1999 (Cwlth).
@@ -427,30 +430,6 @@ an insurer who has issued to the employer a liability insurance policy other tha
 (3) In this section a reference to doing anything includes a reference to omitting to do that thing.
 15.Validity of terms, conditions and exclusions of insurance policies effected during the transitional period
 A term, condition or exclusion of an insurance policy obtained or kept current during the transitional period for the purposes of Part X which, if the policy were obtained immediately after the transitional period, would be valid, lawful and effective is taken to be valid, lawful and effective from the time when the policy was obtained or, if later, from the beginning of the transitional period.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
-74.Workers’ Compensation and Injury Management Act 1981 amended
-Section 201(2) of the Workers’ Compensation and Injury Management Act 1981 is amended by deleting “or the Superannuation and Family Benefits Act 1938”.
-[Section 74 amended: No. 42 of 2004 s. 174.]
-On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
-(2) In Schedule 1 clause 11(2) delete the definitions of:
-Amount A
-Amount D
-(3) In Schedule 1 clause 11(3)(a):
-(a) delete “Amount A” and insert:
-Amount B
-(b) delete “Amount D;” and insert:
-Amount Aa;
-(4) In Schedule 1 clause 11(3)(b):
-(a) delete “Amount Aa,” and insert:
-85% of Amount B,
-(b) delete “Amount D.” and insert:
-Amount Aa.
-(5) Delete Schedule 1 clause 11(5) and insert:
-(5) Subject to subclause (6), the references in the definition of Amount Aa to allowances are references to allowances averaged over the period of one year ending at the date of incapacity.
-(6) In Schedule 1 clause 11(6) delete “13 weeks mentioned in subclause (5),” and insert:
-one year mentioned in subclause (5), or if for part of that period the worker was not in the employment that the worker is in on the date of incapacity,
-(7) In Schedule 1 clause 11(7) delete “Amount D” and insert:
-Amount Aa
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -696,4 +675,3 @@ WorkCover WA5(1), 314(2)
 worker5(1), 8, 9, 10, 11A(2), 93AC, Sch. 1A cl. 1
 workers’ compensation cover170(7)
 working director10A(1)
-By Authority: KEVIN J. McRAE, Government Printer
