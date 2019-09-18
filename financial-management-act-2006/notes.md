@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Financial Management Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Financial Management Act 2006 | 76 of 2006 | 21 Dec 2006 | s. 1 and 2: 21 Dec 2006; Act other than s. 1 and 2: 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
@@ -38,16 +38,14 @@ School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 22 | 41 
 Financial Management (Statutory Authorities) Regulations 2017 published in Gazette 8 Sep 2017 p. 4698 | r. 1 and 2: 8 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Sep 2017 (see r. 2(b))
 Reprint 4: The Financial Management Act 2006 as at 6 Oct 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 315)
 Infrastructure Western Australia Act 2019 s. 75 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
+TAB (Disposal) Act 2019 s. 149 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Other notes
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 had not come into operation. It reads as follows:
-15.Financial Management Act 2006 amended
-(1) This section amends the Financial Management Act 2006.
-(2) In Schedule 1 delete the item relating to the Potato Marketing Corporation of Western Australia.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
