@@ -1,11 +1,16 @@
 Notes
-This is a compilation of the Criminal Organisations Control Act 2012 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Criminal Organisations Control Act 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Organisations Control Act 2012 | 49 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(a)); Act other than s. 1, 2, Pt. 8 and s. 176(5): 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891); Pt. 8: 2 Nov 2013 (see s. 2(c) and Gazette 1 Nov 2013 p. 4891)
 Criminal Investigation (Identifying People) Amendment Act 2013 s. 30 | 22 of 2013 | 12 Nov 2013 | 13 Nov 2013 (see s. 2(c))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Statutes (Minor Amendments) Act 2017 s. 6 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+TAB (Disposal) Act 2019 s. 147 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Other notes
 The Criminal Organisations Control Act 2012 s. 176(5) had not come into operation when it was deleted by the Statutes (Minor Amendments) Act 2017 s. 6(3).
 The amendment in the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 to Sch. 1A Pt. 1 it. 3 and Pt. 2 it. 3 is not included because the reference to the provision to be amended is unclear.
 Defined terms
