@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Racing Penalties (Appeals) Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Racing Penalties (Appeals) Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Racing Penalties (Appeals) Act 1990 | 46 of 1990 | 26 Nov 1990 | s. 1 and 2: 26 Nov 1990; Act other than s. 1 and 2: 15 Apr 1991 (see s. 2 and Gazette 12 Apr 1991 p. 1597)
@@ -24,7 +24,11 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Reprint 3: The Racing Penalties (Appeals) Act 1990 as at 24 Sep 2010 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Betting Tax Assessment Act 2018 Pt. 8 Div 2 Subdiv. 4 | 37 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
-Footnote no longer applicable.
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+TAB (Disposal) Act 2019 s. 154 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Other notes
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 19.Power to amend regulations
 (1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
