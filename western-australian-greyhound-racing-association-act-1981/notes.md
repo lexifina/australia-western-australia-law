@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Greyhound Racing Association Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Western Australian Greyhound Racing Association Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Greyhound Racing Association Act 1981 | 10 of 1981 | 22 May 1981 | 15 Jun 1981 (see s. 2 and Gazette 12 Jun 1981 p. 2048)
@@ -14,6 +14,11 @@ Reprint 2: The Western Australian Greyhound Racing Association Act 1981 as at 10
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 91 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+TAB (Disposal) Act 2019 s. 159 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Other notes
 The Western Australian Greyhound Racing Association Amendment Act 1998 s. 16(2), (3) and (4) read as follows:
 “
 (2) The body renamed as the Western Australian Greyhound Racing Authority by subsection (1) is the same body as the Western Australian Greyhound Racing Association previously established under section 5 of the principal Act.
