@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Parliamentary Commissioner Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Parliamentary Commissioner Act 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Parliamentary Commissioner Act 1971 | 64 of 1971 | 22 Dec 1971 | 12 May 1972 (see s. 2 and Gazette 12 May 1972 p. 1043)
@@ -117,11 +117,13 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 18 | 25 of 201
  | Declared Places (Mentally Impaired Accused) Act 2015 s. 87 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
  | Reprint 10: The Parliamentary Commissioner Act 1971 as at 4 Mar 2016 (includes amendments listed above)
  | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 26 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+TAB (Disposal) Act 2019 s. 151 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 The amendments in the R & I Holdings Act 1990 s. 22(3)(a)(i), the Caravan Parks and Camping Grounds Act 1995 Sch. 2 it. 5, the Vocational Education and Training Act 1996 Sch. 3 it. 28, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 10 and the Mental Health (Consequential Provisions) Act 1996 Pt. 14 are not included because the Schedule they sought to amend had been deleted before the amendments purported to come into operation.
@@ -141,23 +143,6 @@ records includes —
 (c) transfer to the CCC any records in the possession of the Parliamentary Commissioner immediately before the commencement of this Division that relate to an investigation referred to in section 14(1a) of the Parliamentary Commissioner Act 1971.
 (3) Records transferred under subsection (1) become the records of the CCC and may be dealt with accordingly.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-As at the date on which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-7.3Consequential provisions
-Schedule 2 has effect.
-Schedule 2 cl. 48 reads:
-48.Schedule 1 amended
-Schedule 1 to the Parliamentary Commissioner Act 1971 is amended by inserting in the appropriate alphabetical position the following —
-“
-The Native Title Commission established by the Native Title (State Provisions) Act 1999.
-”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-.............................................. | ................
-Parliamentary Commissioner Act 1971 | s. 10(2)
-.............................................. | ................
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
