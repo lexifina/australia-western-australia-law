@@ -21,6 +21,7 @@ Casino (Burswood Island) Agreement Amendment Act 2008 | 17 of 2008 | 16 Apr 2008
  | Casino (Burswood Island) Agreement Amendment Order 2015 (see Gazette 28 Jul 2015 p. 3084-8) | cl. 1 and 2: 28 Jul 2015 (see cl. 2(a)); Order other than cl. 1 and 2: 29 Jul 2015 (see cl. 2(b))
  | Reprint 3: The Casino (Burswood Island) Agreement Act 1985 as at 12 Aug 2016 (includes amendments listed above)
  | Casino (Burswood Island) Agreement Amendment Order 2017 (see Gazette 11 Jul 2017 p. 3834-8) | cl. 1 and 2: 11 Jul 2017 (see cl. 2(a)); Order other than cl. 1 and 2: 12 Jul 2017 (see cl. 2(b))
+ | TAB (Disposal) Act 2019 Pt. 7 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(c))
 The Liquor Licensing (Moratorium) Act 1983 expired on 31 December 1986.
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988 which is now known as the Liquor Control Act 1988.
 Lands and Surveys and Department of Land Administration plans and surveys are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
@@ -39,6 +40,7 @@ Commission11(1)
 Eighth Supplementary Agreement3
 Eleventh Supplementary Agreement3
 entrenched provisions10(3)
+Fifteenth Supplementary Agreement3
 Metropolitan Region Scheme7(4)
 Minister for Lands and Surveys8(5)
 probity approval notice11(1)

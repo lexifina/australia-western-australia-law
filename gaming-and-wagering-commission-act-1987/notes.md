@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gaming and Wagering Commission Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gaming Commission Act 1987 | 50 of 1987 | 8 Oct 1987 | s. 1 and 2: 8 Oct 1987; s. 3, Pt. II, V Div. 2 and s. 111, 112, 115-117: 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665); Act other than Pt. I, II, V Div. 2 and s. 111, 112 and 115-117: 2 May 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1291)
@@ -45,11 +45,13 @@ Associations Incorporation Act 2015 s. 217 | 30 of 2015 | 2 Nov 2015 | 1 Jul 201
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 2 | 37 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
 Gaming and Wagering Legislation Amendment Act 2018 Pt. 3 | 41 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193-4)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+TAB (Disposal) Act 2019 s. 89(2) and 93 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(1)(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 8 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Repealed by the Mental Health (Consequential Provisions) Act 1996.
+TAB (Disposal) Act 2019 s. 86-88, 89(1), 90-92 and 94-104 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
+Other notes
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) contains savings and transitional provisions.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 9 Div. 2 reads as follows:
@@ -61,14 +63,6 @@ Division 2 — Transitional and savings provisions
 (3) If, in a written law or in a document of any kind there is a reference to the Gaming Commission, that reference is, unless because of the context it would be inappropriate to do so, to be read and construed as if it had been amended to be a reference to the Gaming and Wagering Commission.
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 8 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 8 — Gaming and Wagering Commission Act 1987 amended
-292.Act amended
-This Division amends the Gaming and Wagering Commission Act 1987.
-293.Section 55 amended
-In section 55(3)(a) delete “Health (Miscellaneous Provisions) Act 1911,” and insert:
-Public Health Act 2016,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

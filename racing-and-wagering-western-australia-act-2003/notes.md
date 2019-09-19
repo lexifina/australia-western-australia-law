@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Racing and Wagering Western Australia Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Racing and Wagering Western Australia Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Racing and Wagering Western Australia Act 2003 | 36 of 2003 | 26 Jun 2003 | s. 1 and 2: 26 Jun 2003; Act other than s. 1 and 2: 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
@@ -19,6 +19,12 @@ Associations Incorporation Act 2015 s. 227 | 30 of 2015 | 2 Nov 2015 | 1 Jul 201
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div 5 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 2 and Div. 2 Subdiv. 3 | 37 of 2018 | 12 Dec 2018 | Pt. 8 Div. 1 Subdiv. 2: 1 Jan 2019 (see s. 2(c)); Pt. 8 Div. 2 Subdiv. 3: 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
 Reprint 3: The Racing and Wagering Western Australia Act 2003 as at 3 May 2019 (includes amendments listed above)
+TAB (Disposal) Act 2019 Pt. 9 Div. 1 and 2 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(1)(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+TAB (Disposal) Act 2019 Pt. 9 Div. 3 and 4 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
+Other notes
 The amendment in the State Superannuation Amendment Act 2007 s. 86 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment commenced.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -73,6 +79,7 @@ racecourse3(1)
 racing bets levy account107A(1)
 racing club3(1)
 racing industry3(1)
+Racing Infrastructure Fund3(1)
 racing year3(1)
 record3(1)
 remuneration21A(1), 21B(1)
@@ -96,6 +103,4 @@ totalisator ticket3(1)
 Treasurer3(1)
 trial3(1)
 wagering3(1)
-WAGRA3(1)
-WATA3(1)
-WATC3(1)
+wagering licensee3(1)
