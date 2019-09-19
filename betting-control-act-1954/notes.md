@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Betting Control Act 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Betting Control Act 1954 | 63 of 1954 (3 Eliz. II No. 63) | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
@@ -58,6 +58,13 @@ Statutes (Repeals) Act 2014 s. 8 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 
 Reprint 10: The Betting Control Act 1954 as at 29 Jul 2016 (includes amendments listed above)
 Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 1 and Div. 2 Subdiv. 1 | 37 of 2018 | 12 Dec 2018 | Pt. 8 Div. 1 Subdiv. 1: 1 Jan 2019 (see s. 2(c)) Pt. 8 Div 2 Subdiv. 1: 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
 Gaming and Wagering Legislation Amendment Act 2018 Pt. 2 | 41 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193-4)
+TAB (Disposal) Act 2019 s. 38, 39, 40(1), (4), (7), (9), (14) and (17), 42, 46-48, 52, 77(1) and 80 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(1)(c))
+Betting Control Amendment (Taxing) Act 2019 | 22 of 2019 | 18 Sep 2019 | s. 1 and 2: 18 Sep 2019 (see s. 2(a)); Act other than s. 1 and 2: 19 Sep 2019 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+TAB (Disposal) Act 2019 s. 40(2), (3), (5), (6), (8), (10)-(13), (15) and (16), 41, 43-45, 49-51, 53-76, 77(2), 78 and 79 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
+Other notes
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992 s. 72.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) and s. 7(2) are transitional provisions that are of no further effect.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
@@ -88,21 +95,21 @@ On and after the appointed day —
 (i) the assets, rights and liabilities referred to in paragraphs (a) and (b); and
 (ii) proceedings referred to in paragraph (d).
 107.Western Australian Betting Control Board Fund
-(1)On the appointed day, any funds standing to the credit of the Western Australian Betting Control Board Fund established under section 9 of the BC Act are —
+(1) On the appointed day, any funds standing to the credit of the Western Australian Betting Control Board Fund established under section 9 of the BC Act are —
 (a) in the case of moneys held by the Board in respect of payments of bookmakers’ betting levy made under section 15 of the BC Act in relation to betting of the kind referred to in sections 4A and 4B of the BC Act, to be credited to the Sports Wagering Account referred to in section 110A of the Gaming and Wagering Commission Act 1987; and
 (b) in the case of all other moneys, to be credited to the Gaming and Wagering Commission Account established under section 9 of the Gaming and Wagering Commission Act 1987,
 and the Western Australian Betting Control Board Fund is then to be closed.
-(2)If in an agreement, instrument or other document there is a reference to the Western Australian Betting Control Board Fund, that reference is, unless the context otherwise requires, to be read or to have effect on and after the appointed day as if it were a reference to the Gaming and Wagering Commission Account established under section 9 of the Gaming and Wagering Commission Act 1987.
+(2) If in an agreement, instrument or other document there is a reference to the Western Australian Betting Control Board Fund, that reference is, unless the context otherwise requires, to be read or to have effect on and after the appointed day as if it were a reference to the Gaming and Wagering Commission Account established under section 9 of the Gaming and Wagering Commission Act 1987.
 108.Exemption from State taxation
-(1)In this section —
+(1) In this section —
 State tax includes stamp duty chargeable under the Stamp Act 1921 and any other tax, duty, fee, levy or charge under a law of the State.
-(2)State tax is not payable in relation to —
+(2) State tax is not payable in relation to —
 (a) anything that occurs by the operation of this Division; or
 (b) anything done (including a transaction entered into or an instrument or document of any kind made, executed, lodged or given) under this Division, or to give effect to this Division, or for a purpose connected with or arising out of, giving effect to this Division.
-(3)The Treasurer or a person authorised by the Treasurer may, on request by the Commission, certify in writing that —
+(3) The Treasurer or a person authorised by the Treasurer may, on request by the Commission, certify in writing that —
 (a) a specified thing occurred by the operation of this Division; or
 (b) a specified thing was done under this Division, or to give effect to this Division, or for a purpose connected with or arising out of giving effect to this Division.
-(4)For all purposes and in all proceedings, a certificate under subsection (3) is conclusive evidence of the matters it certifies, except so far as the contrary is shown.
+(4) For all purposes and in all proceedings, a certificate under subsection (3) is conclusive evidence of the matters it certifies, except so far as the contrary is shown.
 109.Saving
 The operation of section 106 is not to be regarded —
 (a) as a breach of contract or confidence or otherwise as a civil wrong;
@@ -123,18 +130,18 @@ is to be taken to have been done or omitted by, to or in respect of the Commissi
 113.Immunity to continue
 Where the BCB had the benefit of any immunity in respect of an act, matter or thing done or omitted before the appointed day, that immunity continues in that respect for the benefit of the Commission.
 114.Agreements and instruments generally
-(1)This section applies to any agreement or instrument subsisting immediately before the appointed day that does not come within the provisions of section 106(c).
-(2)Any agreement or instrument to which this section applies —
+(1) This section applies to any agreement or instrument subsisting immediately before the appointed day that does not come within the provisions of section 106(c).
+(2) Any agreement or instrument to which this section applies —
 (a) to which the BCB was a party; or
 (b) which contains a reference to the BCB,
 has effect after the appointed day as if —
 (c) the Commission were substituted for the BCB as a party to the agreement or instrument; and
 (d) any reference in the agreement or instrument to the BCB were (unless the context otherwise requires) a reference to the Commission.
 115.BCB to perform necessary transitional functions
-(1)Despite the repeal of section 6 of the BC Act by section 79 of this Act, the BCB continues in existence for the purpose of —
+(1) Despite the repeal of section 6 of the BC Act by section 79 of this Act, the BCB continues in existence for the purpose of —
 (a) reporting as required by section 110; and
 (b) performing the functions described in section 106(g).
-(2)The accountable authority, as defined in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1)(a).
+(2) The accountable authority, as defined in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1)(a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -142,11 +149,14 @@ ADI4(1)
 approval4(1)
 approved area4(1)
 approved officer27E(1)
+arrangement4(1)
+associate4(1), 7(2), 10X(1)
 authorisation4(1)
 authorised officer4(1)
 authorised person20B(1), 27A(1)
 bet back14A(1)
 bets24(2)
+betting agency4(1)
 betting exchange4(1), 4AA
 betting material4(1)
 betting operator14A(1)
@@ -155,48 +165,80 @@ Commission4(1)
 Commission representative20(1)
 condition4(1)
 consideration4(1)
+consumer protection policy4(1), 10I
 contingency4(1)
 controlling interest4(1)
 designated sporting event4(1)
+direction10K(1)
+disciplinary action10K(1)
 domestic betting operator4(1)
 employee4(1)
+ending licence6(3)
+entering into10ZC(1)
 equipment4(1)
 event4(1)
+executive officer7(1)
 fixed odds bet4(1)
+former licensee10P(1)
+giving effect to10ZC(1)
+good repute4(1), 9(1)
 gross revenue14A(1)
+grounds10K(1)
 interstate offence11G(6), 24(2)
 interstate or offshore bet27A(1)
+key employee4(1), 8(1)
 licence4(1)
 licensed employee4(1)
 licensed manager4(1)
 machine4(1)
 metropolitan region4(1)
 money4(1)
+moneys10ZB(1)
+new licence6(3)
+new licensee10E(1)
 offshore betting operator4(1)
 permit4A(8)
 permitted event or contingency27A(1)
 permittee4(1)
 place4(1)
+position of authority4(1)
 possession4(1)
+preparatory action10D(1)
+prescribed4(1)
 prohibited event or contingency4(1)
+public interest4(1), 9(2)
 public place4(1)
 race4(1)
-race course4(1)
 race meeting4(1)
+racecourse4(1)
 racing bet14A(1)
 racing club4(1)
+racing industry arrangement4(1), 10H(1)
 record4(1)
 registered place4(1)
+relative7(1)
+relevant financial interest7(1)
+relevant power7(1)
 RWWA4(1)
 RWWA Act4(1)
+scheme10S(1)
+simulated race4(1)
+specified person10ZC(1)
+Sports Wagering Account10ZB(1)
 steward4(1)
 temporary licence12A(8)
+temporary licensee10O(1)
 ticket4(1)
-to bet4(1), 4(1)
+to bet4(1)
 total turnover13(1A), 17A(1A)
 totalisator4(1)
 totalisator agency4(1)
 totalisator ticket4(1)
 turnover13(1A), 14A(1), 17A(1A)
+unclaimed10ZB(1)
 unlawful betting28A(3)
 WA race field4(1)
+wagering business4(1)
+wagering licence4(1), 6(1)
+wagering licence agreement4(1), 10Q(1)
+wagering licensee4(1), 6(1)
