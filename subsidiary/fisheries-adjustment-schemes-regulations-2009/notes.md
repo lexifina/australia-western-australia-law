@@ -9,6 +9,7 @@ Fisheries Adjustment Schemes Amendment Regulations 2015 | 13 Jan 2015 p. 247-9 |
 Fisheries Adjustment Schemes Amendment Regulations 2016 | 22 Jan 2016 p. 197-8 | r. 1 and 2: 22 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2016 (see r. 2(b))
 Reprint 1: The Fisheries Adjustment Schemes Regulations 2009 as at 10 Mar 2017 (includes amendments listed above)
 Fisheries Adjustment Schemes Amendment Regulations 2017 | 5 Jan 2018 p. 3-4 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jan 2018 (see r. 2(b))
+Fisheries Adjustment Schemes Amendment Regulations 2019 | 20 Sep 2019 p. 3386-8 | r. 1 and 2: 20 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -23,6 +24,5 @@ managed fishery licence13
 Shark Bay Prawn Managed Fishery10
 Shark Bay Prawn Managed Fishery Notice10
 Shark Bay Prawn Managed Fishery Voluntary Scheme10
-Shark Bay Scallop Managed Fishery13
 Shark Bay Scallop Managed Fishery Notice13
 Shark Bay Scallop Managed Fishery Voluntary Scheme13
