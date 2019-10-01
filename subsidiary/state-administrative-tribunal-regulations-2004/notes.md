@@ -43,6 +43,7 @@ Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 6 
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 6 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations 2019 | 22 Mar 2019 p. 937 | r. 1 and 2: 22 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
+State Administrative Tribunal Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3499 | r. 1 and 2: 27 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2019 (see r. 2(b))
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
