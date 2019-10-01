@@ -17,6 +17,7 @@ Reprint 2: The Retirement Villages Regulations 1992 as at 3 Feb 2017 (includes a
 Retirement Villages Amendment Regulations (No 2) 2018 | 28 Sep 2018 p. 3719-20 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
 Retirement Villages Amendment Regulations 2019 | 22 Mar 2019 | r. 1 and 2: 22 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2019 (See r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 18 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Retirement Villages Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3497-8 | r. 1 and 2: 27 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
