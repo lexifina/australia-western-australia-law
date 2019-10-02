@@ -68,6 +68,7 @@ Police Force Amendment Regulations 2015 | 3 Mar 2015 p. 785-6 | r. 1 and 2: 3 Ma
 Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 221-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Police Force Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2863-4 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
 Police Force Amendment Regulations (No. 3) 2018 | 23 Nov 2018 p. 4552-3 | r. 1 and 2: 23 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Nov 2018 (see r. 2(b))
+Police Force Amendment Regulations 2019 | 1 Oct 2019 p. 3509-13 | r. 1 and 2: 1 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2019 (see r. 2(b))
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Police Force Regulations 1979; citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
@@ -76,11 +77,14 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act103
+ALSWA701
+ALSWA representative701
 APLO103
 approved103
 assistant commissioner103
 CEO (Health)103
 Certificate of Authority901A
+CNS person701
 commissioned officer103
 Commissioner103
 Commissioner’s uniform and appearance instruction103
@@ -105,6 +109,7 @@ officer103
 personal issue firearm404(1)
 physical performance evaluation103
 police auxiliary officer103
+police facility701
 Police Gazette103
 privilege6A01
 psychiatrist501
@@ -115,6 +120,7 @@ region1301
 Register801
 relevant award103
 relevant materials6A03(1)
+responsible officer701
 review officer6A01
 Seniority List801
 special area1107(1)
