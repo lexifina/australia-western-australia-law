@@ -21,6 +21,7 @@ Acipenser mikadoi | Sakhalin Sturgeon | Any area of the State
 Acipenser multiscutatus | Japanese Sturgeon | Any area of the State
 Acipenser naccarii | Adriatic Sturgeon | Any area of the State
 Acipenser nudiventris | Fringebarbel Sturgeon | Any area of the State
+Acipenser oxyrinchus |  | Any area of the State
 Acipenser oxyrinchus destotoi | Gulf Sturgeon | Any area of the State
 Acipenser oxyrinchus oxyrinchus | Atlantic Sturgeon | Any area of the State
 Acipenser persicus | Persian Sturgeon | Any area of the State
@@ -34,6 +35,7 @@ Alexandrium catenella | Toxic Dinoflagellate | Any area of the State except in t
 Alexandrium minutum | Toxic Dinoflagellate | Any area of the State
 Alexandrium monilatum | Toxic Dinoflagellate | Any area of the State
 Alexandrium tamarense | Toxic Dinoflagellate | Any area of the State
+Alfaro amazonus |  | Any area of the State
 Alfaro cultratus | Knife-edged Livebearer | Any area of the State
 Alfaro huberi |  | Any area of the State
 Allomogurnda nesolepis | Yellowbelly Gudgeon | Any area of the State
@@ -45,7 +47,7 @@ Ameiurus nebulosus | Brown Bullhead | Any area of the State
 Ameiurus platycephalus | Flat Bullhead | Any area of the State
 Ameiurus serracanthus | Spotted Bullhead | Any area of the State
 Amia calva | Bowfin | Any area of the State
-Amphibalanus eburneus (syn. Balanus eburneus | Ivory Barnacle | Any area of the State
+Amphibalanus eburneus (syn. Balanus eburneus) | Ivory Barnacle | Any area of the State
 Amphibalanus improvisus (syn. Balanus improvisus) | Bay Barnacle | Any area of the State
 Anabas cobojius | Gangetic Climbing Perch | Any area of the State
 Anabas testudineus | Climbing Perch | Any area of the State
@@ -57,6 +59,7 @@ Aristichthys noblis | Bighead Carp | Any area of the State
 Asterias amurensis | Northern Pacific Seastar | Any area of the State
 Astyanax aeneus | Banded Tetra | Any area of the State
 Astyanax fasciatus | Banded Astyanax | Any area of the State
+Astyanacinus moorii | Tetra | Any area of the State
 Bagrus ubangensis | Ubangi Shovelnose Catfish | Any area of the State
 Balanus glandula | Common Acorn Barnacle, White Buckshot Barnacle | Any area of the State
 Barbodes hexagonolepis | Copper Mahseer | Any area of the State
@@ -64,6 +67,9 @@ Belonesox belizanus | Pike Minnow, Pike Killifish | Any area of the State
 Beroe ovata |  | Any area of the State
 Blackfordia virginica |  | Any area of the State
 Bonnemaisonia hamifera | Bonnemaison’s Hook Weed, Pink Cotton Wool | Any area of the State
+Boulengerella cuvieri | Bicuda | Any area of the State
+Boulengerella lucius | Golden Pike-characin | Any area of the State
+Boulengerella xyrekes |  | Any area of the State
 Boulengerochromis microlepis | Giant Cichlid, Yellow-belly Cichlid | Any area of the State
 Brachidontes pharaonis | Variable Mussel | Any area of the State
 Callinectes sapidus | Chesapeake Blue Crab, Atlantic Blue Crab, Blue Crab | Any area of the State
@@ -93,6 +99,8 @@ Crassostrea ariakensis | Suminoe Oyster, Asian Oyster | Any area of the State
 Crassostrea virginica | American Oyster, Eastern Oyster | Any area of the State
 Crenicichla lepidota | Pike Cichlid | Any area of the State
 Crepidula fornicata | Slipper Limpet, Atlantic Slipper Snail | Any area of the State
+Ctenobrycon hauxwellianus |  | Any area of the State
+Ctenobrycon multiradiatus |  | Any area of the State
 Ctenopharyngodon idella | Grass Carp | Any area of the State
 Ctenopoma argentoventer | Silverbelly Ctenopoma | Any area of the State
 Ctenopoma kingsleyae | Tailspot Ctenopoma | Any area of the State
@@ -115,12 +123,37 @@ Dreissena polymorpha | European Zebra Mussel, Wandering Mussel | Any area of the
 Elassoma spp. (entire genus) | Pygmy Sunfish | Any area of the State
 Electrophorus electricus | Electric Eel | Any area of the State
 Eleotris amblyopsis | Large Scaled Spiny Cheek Sleeper | Any area of the State
+Eleotris andamensis |  | Any area of the State
+Eleotris annobonensis |  | Any area of the State
+Eleotris aquadulcis | Freshwater Gudgeon | Any area of the State
+Eleotris balia |  | Any area of the State
+Eleotris brachyurus |  | Any area of the State
+Eleotris daganensis |  | Any area of the State
+Eleotris fasciatus |  | Any area of the State
+Eleotris feai |  | Any area of the State
+Eleotris lutea | Lutea Sleeper | Any area of the State
+Eleotris macrocephala |  | Any area of the State
+Eleotris macrolepis |  | Any area of the State
+Eleotris mauritianus | Widehead Sleeper | Any area of the State
+Eleotris melanura |  | Any area of the State
+Eleotris oxycephala |  | Any area of the State
+Eleotris pellegrini |  | Any area of the State
+Eleotris perniger | Smallscaled Spinycheek Sleeper | Any area of the State
+Eleotris picta | Spotted Sleeper | Any area of the State
+Eleotris pisonis | Spinycheek Sleeper | Any area of the State
+Eleotris pseudacanthopomus |  | Any area of the State
 Eleotris sandwicensis | Sandwich Island Sleeper | Any area of the State
+Eleotris senegalensis |  | Any area of the State
+Eleotris soaresi |  | Any area of the State
+Eleotris tecta |  | Any area of the State
+Eleotris tubularis |  | Any area of the State
+Eleotris vittata |  | Any area of the State
+Eleotris vomerodentata |  | Any area of the State
 Ensis directus | Jack-knife Clam | Any area of the State
 Eriocheir sinensis | Chinese Mitten Crab | Any area of the State
 Eriocheir spp. | Mitten Crabs | Any area of the State
 Erpetoichthys calabaricus | Reedfish | Any area of the State
-Erythrinus spp. (entire genus) | Trahiras (Various) | Any area of the State
+Erythrinus spp. (entire genus) | Trahiras (various) | Any area of the State
 Esox spp. (entire genus) | Pikes (Freshwater) | Any area of the State
 Fucus evanescens | Brown Macroalga, Wrack | Any area of the State
 Gambusia spp. (entire genus) | Mosquito Fish | Any area of the State
@@ -136,18 +169,17 @@ Gymnodinium catenatum |  | Any area of the State
 Helicophagus leptorhynchus |  | Any area of the State
 Helicophagus waandersii |  | Any area of the State
 Hemichromis fasciatus | Banded Jewelfish | Any area of the State
-Hemigrapsus penicillatus [syn. Grapsus (Eriocheir) penicillatus)] | Hairy-clawed Shore Crab | Any area of the State
+Hemigrapsus penicillatus (syn. Grapsus (Eriocheir) penicillatus) | Hairy-clawed Shore Crab | Any area of the State
 Hemigrapsus sanguineus | Asian Shore Crab, Japanese Shore Crab | Any area of the State
 Hemigrapsus takanoi | Brush-clawed Shore Crab | Any area of the State
 Hepsetus odoe | African Pike | Any area of the State
 Heterandria bimaculata | Twospot Livebearer | Any area of the State
 Heteropneustes fossilis | Stinging Catfish | Any area of the State
 Himantura kittipongi |  | Any area of the State
-Himantura krempfi | Marbled Freshwater Whip Ray | Any area of the State
+Himantura krempfi | Marbled Freshwater Whipray | Any area of the State
 Himantura oxyrhyncha | Marbled Whipray | Any area of the State
-Hoplerythrinus spp. (entire genus) | Trahiras (Various) | Any area of the State
-Hoplias spp. (entire genus) | Trahiras (Various) | Any area of the State
-Huso huso | Beluga | Any area of the State
+Hoplerythrinus spp. (entire genus) | Trahiras (various) | Any area of the State
+Hoplias spp. (entire genus) | Trahiras (various) | Any area of the State
 Hydrocynus spp. (entire genus) | Tigerfish | Any area of the State
 Hydroides dianthus | Serpulid Tube Worm, Limy Tube Worm | Any area of the State
 Hypophthalmichthys molitrix | Silver Carp | Any area of the State
@@ -184,7 +216,6 @@ Mormyrops anguilloides | Cornish Jack, Bottlenose | Any area of the State
 Mya arenaria | Soft-shell Clam, Long-neck Clam, Steamer | Any area of the State
 Mytella charruana | Charru Mussel | Any area of the State
 Mytilopsis leucophaeata | Dark False Mussel, Conrad’s False Mussel | Any area of the State
-Mytilopsis sallei | Black-Striped Mussel | Any area of the State
 Mytilopsis spp. (entire genus) and Congeria spp. (entire genus) | Black-Striped Mussel | Any area of the State
 Neogobius melanostomus | Round Goby | Any area of the State
 Notropis spp. (entire genus) | Shiners | Any area of the State
@@ -218,7 +249,7 @@ Noturus stanauli | Pygmy Madtom | Any area of the State
 Noturus stigmosus | Northern Madtom | Any area of the State
 Noturus taylori | Caddo Madtom | Any area of the State
 Noturus trautmani | Scioto Madtom | Any area of the State
-Oreochromis spp. (entire genus) | Tilapia (Various) | Any area of the State
+Oreochromis spp. (entire genus) | Tilapia (various) | Any area of the State
 Oxydoras spp. (entire genus) | Ripsaw Catfish, Black Doras, Black Shielded Catfish | Any area of the State
 Oxyeleotris heterodon | Sentani Gudgeon | Any area of the State
 Oxyeleotris marmorata | Marble Goby | Any area of the State
@@ -227,15 +258,29 @@ Oxyeleotris urophthalmoides |  | Any area of the State
 Oxyeleotris urophthalmus |  | Any area of the State
 Pachygrapsus fakaravensis | Polynesian Grapsid Crab | Any area of the State
 Pangasianodon gigas | Mekong Giant Catfish | Any area of the State
+Pangasius bedado |  | Any area of the State
+Pangasius bocourti | Basa Fish | Any area of the State
 Pangasius conchophilus |  | Any area of the State
+Pangasius djambal |  | Any area of the State
 Pangasius elongatus |  | Any area of the State
+Pangasius humeralis |  | Any area of the State
+Pangasius kinabatanganensis |  | Any area of the State
 Pangasius krempfi |  | Any area of the State
 Pangasius kunyit |  | Any area of the State
 Pangasius larnaudii | Spot Pangasius | Any area of the State
+Pangasius lithostoma |  | Any area of the State
 Pangasius macronema |  | Any area of the State
+Pangasius mahakamensis |  | Any area of the State
+Pangasius mekongensis |  | Any area of the State
+Pangasius myanmar |  | Any area of the State
 Pangasius nasutus |  | Any area of the State
 Pangasius nieuwenhuisii |  | Any area of the State
 Pangasius pangasius | Yellowtailed Catfish | Any area of the State
+Pangasius polyuranodon |  | Any area of the State
+Pangasius rheophilus |  | Any area of the State
+Pangasius sabahensis |  | Any area of the State
+Pangasius sanitwongsei |  | Any area of the State
+Pangasius tubbi |  | Any area of the State
 Paratrygon aiereba | Discus Ray | Any area of the State
 Paravandelia oxyptera | Parasitic Catfish | Any area of the State
 Perna canaliculus | New Zealand Mussel, New Zealand Green-lipped Mussel, Greenshell Mussel, Kuku, Kutai | Any area of the State
@@ -255,7 +300,7 @@ Pseudodiaptomus marinus | Calanoid Copepod | Any area of the State
 Pseudo-nitzschia seriata | Pennate Diatom | Any area of the State
 Pseudoplatystoma fasciatum | Tiger Catfish | Any area of the State
 Pungitius pungitius | Ninespine Stickleback | Any area of the State
-Pygocentrus spp. (entire genus) | Piranha (Various) | Any area of the State
+Pygocentrus spp. (entire genus) | Piranha (various) | Any area of the State
 Pylodictis olivaris | Flathead Catfish | Any area of the State
 Rapana venosa (syn. R. thomasiana) | Asian Rapa Whelk, Veined Rapa Whelk | Any area of the State
 Rhithropanopeus harrisii | Harris Mud Crab, White-fingered Mud Crab, Zuiderzee Crab | Any area of the State
@@ -263,17 +308,35 @@ Rutilus rutilus | Roach | Any area of the State
 Sabella spallanzanii | European Fan Worm | Any area of the State except in the West Coast Region and the South Coast Region
 Sargassum muticum | Japweed, Wireweed, Strangle Weed | Any area of the State
 Sargochromis spp. (entire genus) | Pink, Slender, Greenwood’s, Mortimer’s, Cunene and Green Happy | Any area of the State
-Sarotherodon spp. (entire genus) | Tilapia (Various) | Any area of the State
+Sarotherodon spp. (entire genus) | Tilapia (various) | Any area of the State
+Schilbe angolensis |  | Any area of the State
+Schilbe banguelensis | Golden Barbel | Any area of the State
+Schilbe bocagii |  | Any area of the State
+Schilbe brevianalis |  | Any area of the State
+Schilbe congensis |  | Any area of the State
+Schilbe djemeri |  | Any area of the State
+Schilbe durinii |  | Any area of the State
+Schilbe grenfelli |  | Any area of the State
 Schilbe intermedius | Silver Catfish | Any area of the State
+Schilbe laticeps |  | Any area of the State
+Schilbe mandibularis |  | Any area of the State
 Schilbe marmoratus | Shoulderspot Catfish | Any area of the State
+Schilbe micropogon |  | Any area of the State
+Schilbe moebiusii |  | Any area of the State
+Schilbe multitaeniatus |  | Any area of the State
 Schilbe mystus | African Butter Catfish | Any area of the State
+Schilbe nyongensis |  | Any area of the State
+Schilbe tumbanus |  | Any area of the State
+Schilbe uranoscopus |  | Any area of the State
+Schilbe yangambianus | Yangambi Butterbarbel | Any area of the State
+Schilbe zairensis |  | Any area of the State
 Serranochromis spp. (entire genus) | Cichlids | Any area of the State
-Serrasalmus spp. (entire genus) | Piranha (Various) | Any area of the State
+Serrasalmus spp. (entire genus) | Piranha (various) | Any area of the State
 Siganus luridus | Dusky Spinefoot | Any area of the State
 Siganus rivulatus | Marbled Spinefoot, Rabbit Fish | Any area of the State
 Silurus spp. (entire genus) | European Catfish, Wels Catfish | Any area of the State
 Solidobalanus fallax | Warm-water Barnacle | Any area of the State
-Tilapia spp. (all except T. buttikoferi) | Tilapia (Various) | Any area of the State
+Tilapia spp. (all except T. buttikoferi) | Tilapia (various) | Any area of the State
 Tinca tinca | Tench | Any area of the State
 Tomeurus gracilis |  | Any area of the State
 Tor (entire genus) | River Carp, Deccan, High Backed, Jungha, Putitor, Thai Mahseer | Any area of the State
@@ -285,4 +348,4 @@ Undaria pinnatifida | Japanese Kelp, Wakame | Any area of the State
 Valencia hispanica | Valencia Toothcarp | Any area of the State
 Womersleyella setacea (syn. Polysiphonia setacea) | Red Polysiphonous Macroalga | Any area of the State
 Zacco platypus | Freshwater Minnow | Any area of the State
-[Schedule 5 inserted: Gazette 22 Oct 2014 p. 4088-115.]
+[Schedule 5 inserted: Gazette 22 Oct 2014 p. 4088-115; amended: Gazette 4 Oct 2019 p. 3566-87.]

@@ -197,6 +197,7 @@ Fisheries Regulations Amendment (Fees) Regulations 2017 Pt. 2 | 7 Jul 2017 p. 36
 Fish Resources Management Amendment Regulations (No. 2) 2017 | 1 Sep 2017 p. 4651-5 | r. 1 and 2: 1 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2017 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2017 | 27 Oct 2017 p. 5416 | r. 1 and 2: 27 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2017 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2379-82 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
+Fish Resources Management Amendment Regulations 2019 | 4 Oct 2019 p. 3527-611 | r. 1 and 2: 4 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2019 (see r. 2(b))
 Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -234,7 +235,7 @@ carrier boat119(1)
 carrier boat licence3(1)
 Central West Zone38(1)
 certificate of health144A(1)
-charter boat16E(1), 64L(1A)
+charter boat3(1)
 chlorine tarping110(2)
 closed season38G, 45(1)
 commercial fishing licence3(1)
@@ -260,18 +261,18 @@ disposable part16B(5)
 due date137(4)
 Easter Group Zone 38(1)
 eastern gulf land area3(1)
+exempt business64AA(1)
 farm lease144A(1)
 fillet3(1)
 finfish3(1), 16C, 65F(1A)
-fishing boat licence3(1)
-fishing net3(1)
-fishing season38D(1)
 fish processor’s licence3(1)
 fish trunk3(1)
+fishing boat licence3(1)
+fishing net3(1)
+fishing season38DB
 form3(1)
 former authorisation holder129A
 freshwater finfish65E
-freshwater fish44A(1)
 Freycinet Estuary3(1)
 Freycinet Estuary Management Zone16G
 full amount outstanding of the fee137(5)

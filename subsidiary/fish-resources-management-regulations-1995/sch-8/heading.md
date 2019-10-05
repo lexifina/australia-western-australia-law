@@ -4,7 +4,7 @@
 ## Part 1 — Length
 Column 1 | Column 2
 Name of fish | Method of determining length
-1.Cobbler (Estuary Catfish) and Freshwater Cobbler | By measuring in a direct line — (a)for partial length, from the base of the anterior edge of the caudo dorsal fin to the tip of the tail; and (b)for total length, from the point of the snout, excluding the barbels, to the tip of the tail.
+1.Cobbler, Estuary and Freshwater Cobbler | By measuring in a direct line — (a)for partial length, from the base of the anterior edge of the caudo dorsal fin to the tip of the tail; and (b)for total length, from the point of the snout, excluding the barbels, to the tip of the tail.
 2.Crab, Champagne Crab, Giant | By measuring from the inside of the frontal groove midway between the eyes on the anterior margin of the carapace along the mid-ventral line of the carapace to the posterior margin where it joins the abdomen.
 2a.Crab, Crystal | By measuring across the carapace at the widest point.
 2b.Crab, any other | By measuring from tip to tip of the posterior carapace spikes.
@@ -16,7 +16,7 @@ Name of fish | Method of determining length
 8.Abalone | By measuring the shell from edge to edge across the longest diameter.
 9.Trochus | By measuring the base from edge to edge across the longest diameter.
 10.Any other fish | By measuring from the point of the snout to the tip of the tail.
-[Part 1 amended: Gazette 15 Jan 1999 p. 113; 13 Nov 2007 p. 5694.]
+[Part 1 amended: Gazette 15 Jan 1999 p. 113; 13 Nov 2007 p. 5694; 4 Oct 2019 p. 3599.]
 ## Part 2 — Method of determining the volume of fish
 The volume of space which is filled by whole, undamaged fish without compressing those fish.
 ## Part 3 — Method of determining the length of fish trunks and fillets

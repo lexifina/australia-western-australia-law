@@ -42,11 +42,9 @@ Issued at: by: Signature:
 Election for Court
 To have this matter dealt with by a Court, complete the details on back of this form and send it to —
 Prosecutions Officer
-Department of Fisheries
-3rd Floor, The Atrium
-168 St George’s Terrace
-Locked Bag 39, Cloisters Square
-PERTH WA 6000
+Department of Primary Industries and Regional Development
+14 Capo D’Orlando Drive
+SOUTH FREMANTLE WA 6162
 A summons will then be issued to you.
 [Back of Form 3]
 I elect to have this matter heard by a Court.
@@ -57,7 +55,7 @@ Address ________________________________________________
 ______________________________Postcode __________
 Signature ________________________________________________
 Date _____/ _______/ _______
-[Form 3 amended: Gazette 10 Nov 2006 p. 4710-11.]
+[Form 3 amended: Gazette 10 Nov 2006 p. 4710-11; 4 Oct 2019 p. 3608.]
 Form 4
 [reg. 161]
 Fish Resources Management Act 1994
