@@ -22,6 +22,7 @@ Rights in Water and Irrigation Amendment Regulations 2014 | 16 Dec 2014 p. 4766 
 Water Legislation Amendment Regulations 2017 Pt. 2 | 15 Sep 2017 p. 4794-6 | 16 Sep 2017 (see r. 2(b))
 Rights in Water and Irrigation Amendment Regulations 2018 | 20 Feb 2018 p. 495-501 | r. 1 and 2: 20 Feb 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Feb 2018 (see r. 2(b))
 Rights in Water and Irrigation Amendment Regulations (No. 2) 2018 | 30 Oct 2018 p. 4336-45 | r. 1 and 2: 30 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Nov 2018 (see r. 2(b))
+Rights in Water and Irrigation Amendment Regulations 2019 | 8 Oct 2019 p. 3622-3 | r. 1 and 2: 8 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2019 (see r. 2(b))
 These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 37.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Disallowed 22 Nov 2007 see Gazette 27 Nov 2007 p. 5910.
