@@ -7,11 +7,14 @@ Terrorism (Preventative Detention) Amendment Act 2008 | 1 of 2008 | 5 Mar 2008 |
 Legal Profession Act 2008 s. 710 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 38 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Terrorism (Preventative Detention) Amendment Act 2016 | 23 of 2016 | 12 Sep 2016 | 12 Sep 2016 (see s. 2)
+Terrorism (Preventative Detention) Amendment Act 2019 | 23 of 2019 | 8 Oct 2019 | s. 1 and 2: 8 Oct 2019 (see s. 2(a)); Act other than s. 1 and 2: 9 Oct 2019 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+adviser46(7A)
 allegation of serious misconduct4(1)
 appropriate person48(14)
+approved religious or spiritual adviser4(1)
 ASIO Act4(1)
 authorised51(1), Sch. 1 cl. 4(1)
 basic searchSch. 2 cl. 1
@@ -19,6 +22,7 @@ childSch. 2 cl. 8(1)
 Commissioner4(1)
 corresponding law4(1)
 Corruption and Crime Commission4(1)
+criminal intelligence information45(15)
 dealt with32(4)
 Deputy Commissioner51(1)
 detainee38
@@ -51,6 +55,7 @@ Parliamentary Commissioner4(1)
 PDO38
 permitted detention period4(1), 13(2)
 person to whom section 9 applies9(1), 9(3)
+photograph4(1)
 place4(1)
 preservation order15(1)
 preventative detention order4(1)
