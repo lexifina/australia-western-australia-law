@@ -24,32 +24,30 @@ Local Government (Administration) Amendment Regulations 2016 | 4 Mar 2016 p. 649
 Local Government Regulations Amendment (Gifts) Regulations 2017 Pt. 2 | 20 Jan 2017 p. 648-50 | 21 Jan 2017 (see r. 2(b))
 Local Government Regulations Amendment (Recovery of Advance Payments) Regulations 2018 Pt. 2 | 14 Dec 2018 p. 4805-6 | 15 Dec 2018 (see r. 2(b))
 Local Government Regulations Amendment (Induction and Training) Regulations 2019 Pt. 3 | 9 Aug 2019 p. 3020-3 | 16 Sep 2019 (see r. 2(c) and Gazette 9 Aug 2019 p. 3019)
+Local Government Regulations Amendment (Gifts) Regulations 2019 Pt. 2 | 18 Oct 2019 p. 3679-84 | 19 Oct 2019 (see r. 2(b) and Gazette 18 Oct 2019 p. 3673)
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 activity involving a local government discretion34B(1)
-address34D
-assent day34D
 client or adviser20(1)
 code of conduct3(1)
-commencement day25(2), 26(2)
+commencement day28B(1)
 committee3(1)
 corporate business plan19BA
-designated employee34D
 disability14A(4)
 final annual remuneration19A(2)
+former Form 428B(1)
+former record of disclosures 28B(1)
 former regulation 19C19DB(1)
 former regulation 19D19DB(1)
-gift34B(1), 34D
+gift34B(1)
 interest34C(1)
 notifiable gift34B(1)
 person referred to in this regulation14B(4)
 plan for the future19DB(1)
-political party34D
 prohibited gift34B(1)
-relative34D
 relevant period34AE(1)
 relevant person3(1)
 Schedule3(1)
@@ -57,6 +55,3 @@ section3(1)
 strategic community plan19BA
 suitable place14A(4)
 townsite14A(4)
-transitional period34D
-travel34D
-travel contribution34D

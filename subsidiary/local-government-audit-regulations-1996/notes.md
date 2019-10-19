@@ -18,6 +18,7 @@ Local Government (Audit) Amendment Regulations (No. 2) 2013 | 21 Jun 2013 p. 244
 Local Government (Functions and General) Amendment Regulations 2015 Pt. 3 | 18 Sep 2015 p. 3804-13 | 1 Oct 2015 (see r. 2(b))
 Local Government Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 2 | 30 Dec 2016 p. 5969-70 | 31 Dec 2016 (see r. 2(b))
 Local Government Regulations Amendment (Auditing) Regulations 2018 Pt. 2 | 26 Jun 2018 p. 2384-9 | 27 Jun 2018 (see r. 2(c))
+Local Government Regulations Amendment (Gifts) Regulations 2019 Pt. 3 | 18 Oct 2019 p. 3679-84 | 19 Oct 2019 (see r. 2(b) and Gazette 18 Oct 2019 p. 3673)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
