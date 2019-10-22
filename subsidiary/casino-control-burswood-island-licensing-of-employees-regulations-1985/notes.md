@@ -41,6 +41,24 @@ Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulat
  | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
  | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 10 Nov 2017 p. 5579-94 | 1 Jan 2018 (see r. 2(b))
  | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 22 Oct 2019 p. 3721-2 | 1 Jan 2020 (see r. 2(b))
+On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 amended
+5.Regulations amended
+This Part amends the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985.
+6.Regulation 6 amended
+In regulation 6 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 6(1)(a) | $476 | $483
+r. 6(1)(b) | $297 | $301
+r. 6(1a)(a) | $131 | $132.50
+r. 6(1a)(b) | $131 | $132.50
+r. 6(2)(a) | $343 | $348
+r. 6(2)(c) | $54 | $54.50
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
