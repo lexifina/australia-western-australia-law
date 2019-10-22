@@ -74,6 +74,10 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Gaming and Wagering Commission Amendment Regulations 2018 | 2 Mar 2018 p. 672 | r. 1 and 2: 2 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Mar 2018 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations (No. 3) 2019 | 31 May 2019 p. 1717-21 | Pt. 1: 31 May 2019 (see r. 2(a)); Pt. 2 and 3: 1 Jun 2019 (see r. 2(b) and (c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 22 Oct 2019 p. 3722-4 | 1 Jan 2020 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Deleted by the Acts Amendment (Continuing Lotteries) Act 2000 s. 5.
@@ -81,6 +85,71 @@ The Gaming and Wagering Commission Amendment Regulations 2008 published in the G
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
 The amendments in the Gaming and Wagering Commission Amendment Regulations 2019 (as amended by the Gaming and Wagering Commission Amendment Regulations (No. 2) 2019) is not included because it was repealed by the Gaming and Wagering Commission Amendment Regulations (No. 3) 2019 r. 5 before the amendments purported to come into operation.
+On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Gaming and Wagering Commission Regulations 1988 amended
+9.Regulations amended
+This Part amends the Gaming and Wagering Commission Regulations 1988.
+10.Schedule 1 replaced
+Delete Schedule 1 and insert:
+Schedule 1 — Prescribed fees
+[r. 4]
+Item | Description | Fee $
+1. | Search of the register for an identified entry | 9.00
+2. | Copy of extract from register | 16.00
+3. | Application for a function permit for —
+ | (a)an item of gaming equipment (r. 18B(2)(a)) | 35.50
+ | (b)a class of gaming equipment (r. 18B(2)(b)) | 61.50
+4. | Application for a permit of a continuing nature for —
+ | (a)a video lottery terminal (r. 18AA(7)) | 35.50
+ | (b)an item of gaming equipment (r. 18B(2)(a)) | 66.50
+ | (c)a class of gaming equipment (r. 18B(2)(b)) | 118.50
+5. | Application for a function permit for —
+ | (a)bingo | 23.00
+ | (b)multiple bingo, for each premises | 23.00
+ | (c)simultaneous bingo, for each premises | 23.00
+ | (d)a standard lottery —
+ | (i)where the total retail value of prizes or prize money does not exceed $5 000 | 35.50
+ | (ii)otherwise | 77.00
+ | (da)a standard lottery of a kind generally known or described as a Calcutta | 77.00
+ | (e)a continuing lottery | 17.00
+ | (f)gaming (per day authorised) —
+ | (i)1-5 tables | 235.00
+ | (ii)6-10 tables | 395.50
+ | (iii)over 10 tables | 441.50
+ | (g)two-up —
+ | (i)by a country race club | 158.00
+ | (ii)otherwise | 235.00
+6. | Application for a permit of a continuing nature for —
+ | (a)bingo | 35.50
+ | (b)multiple bingo, for each premises | 35.50
+ | (c)simultaneous bingo, for each premises | 35.50
+ | (d)a standard lottery, where the total retail value of prizes or prize money is —
+ | (i)not more than $5 000 | 49.50
+ | (ii)more than $5 000 but not more than $50 000 | 118.50
+ | (iii)more than $50 000 but not more than $100 000 | 230.00
+ | (iv)more than $100 000 but not more than $200 000 | 476.00
+ | (v)more than $200 000 | 730.50
+ | (da)a standard lottery of a kind generally known or described as a Calcutta | 158.00
+ | (e)a continuing lottery | 28.00
+ | (f)gaming (per day authorised) —
+ | (i)1-5 tables | 189.50
+ | (ii)6-10 tables | 348.00
+ | (iii)over 10 tables | 435.00
+ | (g)two-up —
+ | (i)by a country race club, per day authorised | 125.50
+ | (ii)otherwise, per day authorised | 189.50
+7. | Application for approval of premises for —
+ | (a)a specific function | 23.00
+ | (b)functions from time to time | 77.00
+ | (c)a permit of a continuing nature | 77.00
+8. | Issue of a certificate under section 92 relating to —
+ | (a)multiple bingo | 158.00
+ | (b)simultaneous bingo | 158.00
+ | (c)assisting in the conduct of bingo, for hire or reward | 158.00
+9. | Issue of an approved operator’s certificate | 260.50
+10. | Issue of a certificate under section 88(5) | 342.00
+11. | Application to be a licensed supplier | 318.50
+12. | Approval to operate, or remove money from, gaming equipment | 28.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
