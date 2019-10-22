@@ -72,6 +72,35 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
 Betting Control Amendment Regulations 2019 | 25 Jan 2019 p. 199-202 | r. 1 and 2: 25 Jan 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2019 (see r. 2(b) and Gazette 25 Jan 2019 p. 193-4)
 Racing and Gaming Regulations Amendment Regulations 2019 Pt. 2 | 25 Jan 2019 p. 202-3 | 1 Feb 2019 (see r. 2(b) and Gazette 25 Jan 2019 p. 193)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 22 Oct 2019 p. 3720-1 | 1 Jan 2020 (see r. 2(b))
+At the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Betting Control Regulations 1978 amended
+3.Regulations amended
+This Part amends the Betting Control Regulations 1978.
+4.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 17(1)(aa) | $51 | $51.50
+r. 17(1)(ab) | $71 | $72.00
+r. 17(1)(ac) | $359 | $364.00
+r. 17(1)(ad) | $76 | $77.00
+r. 17(1)(a) | $725 | $735.50
+r. 17(1)(b) | $35 | $35.50
+r. 17(1)(ba) | $176 | $178.50
+r. 17(1)(bb) | $94 | $95.00
+r. 17(1)(c) | $171 | $173.50
+r. 17(1)(e) | $35 | $35.50
+r. 17(1)(f) | $693 | $703.00
+r. 17(2) and (3) | $112 | $113.50
+r. 17A(1)(a)(i) | $405 | $411.00
+r. 17A(1)(a)(ii) | $827 | $839.00
+r. 17A(1)(a)(iii) | $1 242 | $1 260.50
+r. 17B(1)(a)(ii) | $170 000 $51 | $171 667 $51.50
+r. 17B(1)(a)(iii) | $170 000 | $171 667
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
