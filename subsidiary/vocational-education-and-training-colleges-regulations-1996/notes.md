@@ -44,6 +44,7 @@ Vocational Education and Training (Colleges) Amendment Regulations 2017 | 3 Feb 
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2017 | 22 Dec 2017 p. 5995-6 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2018 | 12 Jun 2018 p. 1897-8 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2018 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2018 | 27 Nov 2018 p. 4583-4 | r. 1 and 2: 27 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2018 (see r. 2(b))
+Vocational Education and Training (Colleges) Amendment Regulations 2019 | 22 Oct 2019 p. 3729-33 | r. 1 and 2: 22 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2019 (see r. 2(b))
 Footnote no longer applicable.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Vocational Education and Training (Colleges) Regulations 1996; citation changed (see note under r. 1).
@@ -55,19 +56,25 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Admissions Manager5
+amending regulation15A(5)
 Australian resident15A(4)
 category3(1)
 Centrelink20(1)
+concessional or youth student12(1)
 concessional student3(1)
 concession-eligible course3(1)
 course3(1), 5
 course fee3(1)
+enrolled12(2)
 hours3(1)
 nominal hours3AA(1)
 payment period24A
 pro rata refund24A
 seal book31(1)
 secondary school aged person3(1)
+specified course12(1)
+unenrolled secondary school aged person12(1)
 unforeseen circumstances24A
 unit3(1)
 unit fee11(1)
+visa15A(4)

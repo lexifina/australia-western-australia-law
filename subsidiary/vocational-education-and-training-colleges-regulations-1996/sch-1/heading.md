@@ -11,7 +11,10 @@ Item | Fee for | Fee
  | (a)for a student who is not a concessional student .................................................. | 3.25
  | (b)for a concessional student ...................... | 0.97
 4. | Category 3 course —
- | (a)for a student who is not a concessional student ................................................. | 4.88
- | (b)for a concessional student ...................... | 1.47
-5. | Category 4 course — all students ................... | 0.21
-[Schedule 1 inserted: Gazette 23 Dec 2016 p. 5909; amended: Gazette 3 Feb 2017 p. 1117.]
+ | (a)for a student who is not a concessional student ..................... | 4.88
+ | (b)for a concessional student .................. | 1.47
+5. | Category 4 course — all students ................. | 0.21
+6. | Category 5 course —
+ | (a)for a student who is not a concessional student ......................... | 1.62
+ | (b)for a concessional student .................. | 0.48
+[Schedule 1 inserted: Gazette 23 Dec 2016 p. 5909; amended: Gazette 3 Feb 2017 p. 1117; 22 Oct 2019 p. 3733.]
