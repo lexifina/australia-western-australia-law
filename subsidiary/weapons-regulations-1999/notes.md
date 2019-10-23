@@ -20,6 +20,7 @@ Weapons Amendment Regulations (No. 2) 2011 | 16 Sep 2011 p. 3768-9 | r. 1 and 2:
 Weapons Amendment Regulations 2012 | 13 Mar 2012 p. 1037-9 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2012 (see r. 2(b))
 Reprint 3: The Weapons Regulations 1999 as at 22 Jun 2012 (includes amendments listed above)
 Police Regulations Amendment (Captive Bolt Guns) Regulations 2016 Pt. 3 | 29 Nov 2016 p. 5322-3 | 30 Nov 2016 (see r. 2(b))
+Weapons Amendment Regulations 2019 | 22 Oct 2019 p. 3718-19 | r. 1 and 2: 22 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2019 (see r. 2(b))
 Regulation 15 expired 30 June 2017 (see r. 15(8)). It reads as follows:
 15.Crossbows for occupational purposes, excepting people from Act s. 6(1)(a)-(c) in relation to
 (1) In this regulation —
@@ -50,24 +51,26 @@ Defined terms
 Defined termProvision(s)
 approved electric shock case3
 Archery Australia (Inc.) member14(1)
+aviation security inspector12A(1)
 baton3
 catapult3
-crossbow14(1), 15(1)
+crossbow14(1)
 discharge3
 dramatic production13(1)
 exempt arbalest14(1)
 exempt collector9(6)
 exempt event11(1)
-exempt person15(1)
 exempt production13(1)
 exemption notice13(1)
 extendable baton8(2)
 injure or disable3
+maritime security inspector12A(1)
 martial arts weapon3
 missile3
 participant11(1)
 possess11(1)
 relevant date9(6)
+Secretary12A(1)
 specified prohibited weapon9(6)
 specified weapon13(1)
 spray weapon3
