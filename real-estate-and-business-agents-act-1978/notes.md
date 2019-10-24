@@ -60,6 +60,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Strata Titles Amendment Act 2018 Pt. 3 Div. 17 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 17 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2019 Pt. 8 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -102,6 +103,239 @@ In section 131A in the definition of dwelling:
 (aa)a lot within the meaning of the Community Titles Act 2018; and
 (b) in paragraph (b) delete “paragraph (a),” and insert:
 paragraph (aa) or (a),
+On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 8 had not come into operation. It reads as follows:
+Part 8 — Real Estate and Business Agents Act 1978 amended
+38.Act amended
+This Part amends the Real Estate and Business Agents Act 1978.
+39.Section 4 amended
+(1) In section 4(1) delete the definition of agents code of conduct.
+(2) In section 4(1) insert in alphabetical order:
+code of conduct for agents means the code of conduct for agents prescribed and published under section 101(a);
+(3) In section 4(1) in the definition of code of conduct for sales representatives delete “101;” and insert:
+101(b);
+40.Section 26 amended
+(1) In section 26 delete “On” and insert:
+(1) On
+(2) At the end of section 26 insert:
+(2) For subsection (1), a person is taken not to be licensed or holding a current triennial certificate in respect of the licence if the person is required to surrender a licence and triennial certificate under section 34D(2) or (3).
+41.Section 27 amended
+In section 27(1):
+(a) delete “a person, not being a body corporate,” and insert:
+an individual
+(b) delete “that — ” and insert:
+that the individual —
+(c) in paragraphs (a) to (c) delete “he”.
+(d) in paragraph (c) delete “to him to enable him” and insert:
+to enable them
+(e) in paragraph (d) delete “he”.
+Note: The heading to amended section 27 is to read:
+Licensing of individuals
+42.Section 29 amended
+In section 29(b) delete “that”.
+43.Section 30 amended
+Delete section 30(3) and (4).
+44.Section 31 amended
+(1) In section 31(2)(a) delete “a person other than a body corporate; or” and insert:
+an individual; or
+(2) Delete section 31(3) and insert:
+(3) The Commissioner must not renew a licensee’s triennial certificate unless the Commissioner is satisfied of the matters in —
+(a) for an individual — section 27(1)(b), (c) and (d); or
+(b) for a firm — section 28(a), (b), (c) and (d); or
+(c) for a body corporate — section 29(a), (b), (c) and (d).
+Note:The heading to amended section 31 is to read:
+Licensee’s triennial certificate: grant and renewal
+45.Section 32 amended
+(1) In section 32(1):
+(a) delete “Where a” and insert:
+If a licensee’s
+(b) delete “expired, the renewal shall be deemed to take effect for the period of 3 years” and insert:
+expired or was surrendered, the renewal takes effect
+(c) delete “expired.” and insert:
+expired or was surrendered.
+(2) Delete section 32(2) and insert:
+(2) If a licensee’s triennial certificate is renewed more than 1 month but not more than 12 months after the day on which the triennial certificate expired or was surrendered, the renewal takes effect —
+(a) if the Commissioner is satisfied that there is reasonable cause for the renewal to take effect on and from the day after the day on which the triennial certificate expired or was surrendered — on that day; or
+(b) otherwise — on the day the renewal is granted.
+Note:The heading to amended section 32 is to read:
+Licensee’s triennial certificate: late renewal
+46.Section 33 amended
+(1) Delete section 33(1) and insert:
+(1) This section applies if —
+(a) a licensee’s triennial certificate expires or was surrendered; and
+(b) the licensee applies to renew the certificate more than 12 months after the day on which the triennial certificate expired or was surrendered.
+(2) In section 33(2) delete “The application shall” and insert:
+The application for renewal must
+(3) In section 33(4) delete “applicant shall” and insert:
+licensee must
+(4) In section 33(5) delete “applicant” and insert:
+licensee
+(5) After section 33(5) insert:
+(6) If the triennial certificate is renewed, the renewal takes effect on the day the renewal is granted.
+Note:The heading to amended section 33 is to read:
+Licensee’s triennial certificate: late renewal after 12 months
+47.Section 34 replaced
+Delete section 34 and insert:
+34.Conditions on licences and triennial certificates
+(1) It is a condition of every licence that the licensee must comply with the provisions of this Act and the code of conduct for agents.
+(2) It is a condition of every licence that the licensee must comply with any special condition to which the licensee’s licence or triennial certificate is subject under section 34AA.
+34AA.Imposing special conditions on licences or triennial certificates
+(1) In this section —
+licensee includes an applicant for a licence.
+(2) The Commissioner may, at any time, impose a special condition on a licence or triennial certificate.
+(3) Before imposing a special condition on a licence or triennial certificate, the Commissioner must —
+(a) give a licensee notice in writing setting out —
+(i) that the Commissioner proposes to impose the special condition; and
+(ii) the reasons for the proposed decision; and
+(iii) that the licensee may make submissions to the Commissioner in relation to the proposed decision within the time specified in the notice;
+and
+(b) consider any submissions received under paragraph (a)(iii).
+(4) After making a decision under subsection (2), the Commissioner must —
+(a) notify the licensee of the Commissioner’s decision; and
+(b) if the decision is to impose a special condition on the licence or triennial certificate, give the licensee notice in writing setting out —
+(i) the reasons for the decision; and
+(ii) that a person aggrieved by the Commissioner’s decision may apply to the State Administrative Tribunal for a review of the decision under section 23.
+34AB.Removing special conditions on licences or triennial certificates
+(1) The Commissioner may remove a special condition imposed on a licensee’s licence or triennial certificate —
+(a) at any time; or
+(b) on application by the licensee.
+(2) If a licensee makes an application under subsection (1)(b), the Commissioner must, before deciding not to remove the special condition on the licensee’s licence or triennial certificate —
+(a) give the licensee notice in writing setting out —
+(i) that the Commissioner proposes to make a decision not to remove the special condition; and
+(ii) the reasons for the proposed decision; and
+(iii) that the licensee may make submissions to the Commissioner in relation to the proposed decision within the time specified in the notice;
+and
+(b) consider any submissions received under paragraph (a)(iii).
+(3) After making a decision on an application by a licensee, the Commissioner must —
+(a) notify the licensee of the Commissioner’s decision; and
+(b) if the decision is to not remove the special condition, give the licensee notice in writing setting out —
+(i) the reasons for the decision; and
+(ii) that a person aggrieved by the Commissioner’s decision may apply to the State Administrative Tribunal for a review of the decision under section 23.
+48.Sections 34C and 34D inserted
+After section 34B insert:
+34C.Licensee may surrender licence and triennial certificate
+A licensee may surrender the licensee’s triennial certificate, or licence and triennial certificate held in respect of the licence, at any time.
+34D.Firm or body corporate must surrender licence and triennial certificate in certain circumstances
+(1) This section applies to a licensee that is a firm or body corporate if paragraph (c) or (d) of section 28 or 29 (as is relevant) ceases to apply in relation to the licensee.
+(2) The licensee must, within 5 days after the day on which the paragraph ceased to apply to the licensee, surrender the licensee’s licence and triennial certificate held in respect of the licence, unless the licensee is carrying on business under Schedule 1 clause 6.
+(3) If a licensee carries on business under Schedule 1 clause 6 then, at the end of the period referred to in that clause, the licensee must immediately surrender the licensee’s licence and triennial certificate unless the licensee satisfies section 28(c) and (d) or section 29(c) and (d) (as is relevant).
+49.Section 40B inserted
+After section 40A insert:
+40B.Licensee to comply with prescribed educational requirements
+A licensee must comply with the educational requirements prescribed by the regulations.
+Penalty: a fine of $5 000.
+50.Section 48 amended
+Delete section 48(4) and (5) and insert:
+(4) The Commissioner must not renew a sales representative’s certificate of registration unless the Commissioner is satisfied —
+(a) of the matters in section 47(1)(b) and (c); and
+(b) that the sales representative was employed by a licensee at the time of making the application or will be employed by a licensee upon the renewal of the certificate.
+51.Section 50 replaced
+Delete section 50 and insert:
+50.Conditions on certificates of registration
+(1) It is a condition of every certificate of registration that the registered sales representative must comply with the provisions of this Act and the code of conduct for sales representatives.
+(2) It is a condition of every certificate of registration that the registered sales representative must comply with any special condition to which the sales representative’s certificate of registration is subject under section 50AA.
+50AA.Imposing special conditions on certificates of registration
+(1) In this section —
+registered sales representative includes an applicant for a certificate of registration.
+(2) The Commissioner may, at any time, impose a special condition on a certificate of registration.
+(3) Before imposing a special condition on a certificate of registration, the Commissioner must —
+(a) give a registered sales representative notice in writing setting out —
+(i) that the Commissioner proposes to impose the special condition; and
+(ii) the reasons for the proposed decision; and
+(iii) that the registered sales representative may make submissions to the Commissioner in relation to the proposed decision within the time specified in the notice;
+and
+(b) consider any submissions received under paragraph (a)(iii).
+(4) Subsection (3) does not apply if the special condition to be imposed on the certificate of registration restricts the type of work that may be performed under the certificate because the sales representative does not have a particular qualification that the sales representative is required to have under section 47(2) to perform the work.
+(5) After making a decision under subsection (2), the Commissioner must —
+(a) notify the registered sales representative of the Commissioner’s decision; and
+(b) if the decision is to impose a special condition on the certificate of registration, give the registered sales representative notice in writing setting out —
+(i) the reasons for the decision; and
+(ii) that a person aggrieved by the Commissioner’s decision may apply to the State Administrative Tribunal for a review of the decision under section 23.
+50AB.Removing special conditions on certificates of registration
+(1) The Commissioner may remove a special condition imposed on a registered sales representative’s certificate of registration —
+(a) at any time; or
+(b) on application by the registered sales representative.
+(2) If a registered sales representative makes an application under subsection (1)(b), the Commissioner must, before deciding not to remove the special condition on the registered sales representative’s certificate of registration —
+(a) give the registered sales representative notice in writing setting out —
+(i) that the Commissioner proposes to make a decision not to remove the special condition; and
+(ii) the reasons for the proposed decision; and
+(iii) that the registered sales representative may make submissions to the Commissioner in relation to the proposed decision within the time specified in the notice;
+and
+(b) consider any submissions received under paragraph (a)(iii).
+(3) After making a decision on an application by a registered sales representative, the Commissioner must —
+(a) notify the registered sales representative of the Commissioner’s decision; and
+(b) if the decision is to not remove the special condition, give the registered sales representative notice in writing setting out —
+(i) the reasons for the decision; and
+(ii) that a person aggrieved by the Commissioner’s decision may apply to the State Administrative Tribunal for a review of the decision under section 23.
+52.Section 50C inserted
+After section 50B insert:
+50C.Sales representative to comply with prescribed educational requirements
+A sales representative must comply with the educational requirements prescribed by the regulations.
+Penalty: a fine of $5 000.
+53.Section 84 amended
+In section 84(1) delete the Penalty and insert:
+Penalty for this subsection:
+(a)in the case of an offence against section 68(4) or (5), a fine of $25 000, or 2 years’ imprisonment;
+(b)in the case of an offence against section 68B(1), a fine of $50 000;
+(c)in any other case, a fine of $25 000.
+54.Section 100A amended
+(1) Delete section 100A(4).
+(2) In section 100A(7) delete “subsection (4).” and insert:
+section 134A.
+55.Section 102 amended
+After section 102(6) insert:
+(7) Despite the surrender by a person of a licence or triennial certificate or a licensee ceasing to be licensed or to hold a triennial certificate —
+(a) an allegation under subsection (1)(a) in respect of an agent may be made to the State Administrative Tribunal not later than 12 months after the day on which the licence or certificate was surrendered or the licensee ceased to be licensed or ceased holding the certificate; and
+(b) the State Administrative Tribunal may exercise the powers conferred by section 103, other than the power to suspend or cancel the agent’s licence or certificate.
+56.Section 103 amended
+Delete section 103(2)(c)(iii) and insert:
+(iii) the code of conduct for agents;
+57.Section 116 amended
+Delete section 116(1) and (2A) and insert:
+(1) The Fidelity Account is to be held and applied to reimburse a person for the person’s pecuniary or property loss to the extent of the defalcation of —
+(a) a licensee during any period when the licensee was the holder of a current triennial certificate; or
+(b) a person who ceased to be licensed or to hold a triennial certificate, if —
+(i) the defalcation occurred during the period of 6 months immediately following the day on which the person ceased to be licensed or the holder of the triennial certificate; and
+(ii) the chief executive officer considers that it is just and reasonable in the circumstances of the claim.
+58.Section 131L amended
+(1) Before section 131L(1) insert:
+(1AA) In this section —
+settlement has the meaning given in the Settlement Agents Act 1981 section 3(1).
+(2) In section 131L(1):
+(a) after “date of” insert:
+settlement of
+(b) delete “prescribed form” and insert:
+approved form
+59.Section 134A amended
+(1) In section 134A(1) delete “in relation to an application under section 24, 33, 43, 48 or 49” and insert:
+to the Commissioner or the chief executive officer under this Act
+(2) In section 134A(2):
+(a) delete “in relation to an application referred to in subsection (1)” and insert:
+to the Commissioner or the chief executive officer
+(b) in paragraph (a) delete “in relation to an application”;
+(c) in paragraph (b) delete “made in relation to an application”;
+(d) in paragraph (c) delete “in relation to an application”.
+60.Section 136A amended
+In section 136A delete “licence or triennial certificate” and insert:
+licence, triennial certificate or certificate of registration
+61.Schedule 1 clause 1 amended
+(1) In Schedule 1 delete clause 1(b) and insert:
+(b) who has, within the period of 5 years immediately preceding the application —
+(i) held a licence, other than a licence held because the person was qualified only under paragraph (c) or (d), under this Act for at least 2 years; and
+(ii) acted in the State as, and carried out the functions of, an agent for a period of at least 2 years, whether on the person’s own behalf or on behalf of a firm or body corporate;
+or
+(ba) who has, within the period of 5 years immediately preceding the application —
+(i) held for a period of at least 2 years a licence or similar authority under an approved corresponding enactment of a State or Territory to act as an agent or the approved equivalent, other than under a licence or authority held under that enactment only because the person was qualified under an equivalent provision in the enactment to paragraph (c) or (d); and
+(ii) acted as, and carried out the functions of, an agent or the approved equivalent for a period of at least 2 years in the State or Territory in which the licence or authority was held, whether on the person’s own behalf or on behalf of a firm or body corporate;
+or
+62.Various penalties amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 26(1) | Penalty: $20 000. | Penalty for this subsection: a fine of $100 000.
+s. 39(3) | Penalty: $20 000. | Penalty for this subsection: a fine of $100 000.
+s. 44(1), (2) and (3) | Penalty: $3 000. | Penalty for this subsection: a fine of $25 000.
+s. 45(1), (2) and (3) | Penalty: $3 000. | Penalty for this subsection: a fine of $25 000.
+s. 46 | $2 000. | a fine of $20 000.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
