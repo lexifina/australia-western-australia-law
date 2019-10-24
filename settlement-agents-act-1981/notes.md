@@ -59,6 +59,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Strata Titles Amendment Act 2018 Pt. 3 Div. 21 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 21 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2019 Pt. 10 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -93,6 +94,163 @@ or the Community Titles Act 2018
 249.Schedule 2 clause 1 amended
 In Schedule 2 after clause 1(2)(c)(ii) insert:
 (iia) the Community Titles Act 2018; or
+On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 10 had not come into operation. It reads as follows:
+Part 10 — Settlement Agents Act 1981 amended
+72.Act amended
+This Part amends the Settlement Agents Act 1981.
+73.Section 4 amended
+In section 4(2) delete “section 34(2)(a) and (b),” and insert:
+section 34AA(3),
+74.Section 26 amended
+After section 26(2) insert:
+(3) For subsection (1), a person is taken not to be licensed or holding a current triennial certificate in respect of the licence if the person is required to surrender a licence and triennial certificate under section 34D(2) and (3).
+75.Section 27 amended
+In section 27(1):
+(a) delete “a person, not being a body corporate,” and insert:
+an individual
+(b) delete “that — ” and insert:
+that the individual —
+(c) in paragraphs (a) to (c) delete “he”.
+(d) in paragraph (c) delete “to him to enable him” and insert:
+to enable them
+(e) in paragraphs (d) and (e) delete “he”.
+Note: The heading to amended section 27 is to read:
+Licensing of individuals
+76.Section 30 amended
+Delete section 30(4) and (5).
+77.Section 31 amended
+(1) In section 31(2)(a) delete “a person other than a body corporate; or” and insert:
+an individual; or
+(2) Delete section 31(2A) and insert:
+(2A) The Commissioner must not renew a licensee’s triennial certificate unless the Commissioner is satisfied of the matters in —
+(a) for an individual — section 27(1)(b), (c), (d) and (e); or
+(b) for a firm — section 28(1)(a), (b), (c) and (d); or
+(c) for a body corporate — section 29(1)(a), (b), (c) and (d).
+(3) Delete section 31(3)(a) and insert:
+(a) if the licensee is an individual, the individual; or
+Note:The heading to amended section 31 is to read:
+Licensee’s triennial certificate: grant and renewal
+78.Section 32 amended
+(1) In section 32(1):
+(a) delete “Where a” and insert:
+If a licensee’s
+(b) delete “expired, the renewal shall be deemed to take effect for the period of 3 years” and insert:
+expired or was surrendered, the renewal takes effect
+(c) delete “expired.” and insert:
+expired or was surrendered.
+(2) Delete section 32(2) and insert:
+(2) If a licensee’s triennial certificate is renewed more than 1 month but not more than 12 months after the day on which the triennial certificate expired or was surrendered, the renewal takes effect —
+(a) if the Commissioner is satisfied that there is reasonable cause for the renewal to take effect on and from the day after the day on which the triennial certificate expired or was surrendered — on that day; or
+(b) otherwise — on the day the renewal is granted.
+Note:The heading to amended section 32 is to read:
+Licensee’s triennial certificate: late renewal
+79.Section 33 amended
+(1) Delete section 33(1) and insert:
+(1) This section applies if —
+(a) a licensee’s triennial certificate expires or was surrendered; and
+(b) the licensee applies to renew the certificate more than 12 months after the day on which the triennial certificate expired or was surrendered.
+(2) In section 33(2) delete “The application shall” and insert:
+The application for renewal must
+(3) In section 33(4) delete “applicant shall” and insert:
+licensee must
+(4) In section 33(5) delete “applicant” and insert:
+licensee
+(5) After section 33(5) insert:
+(6) If the triennial certificate is renewed, the renewal takes effect on the day the renewal is granted.
+Note:The heading to amended section 33 is to read:
+Licensee’s triennial certificate: late renewal after 12 months
+80.Section 34 replaced
+Delete section 34 and insert:
+34.Conditions on licences and triennial certificates
+(1) It is a condition of every licence that the licensee must comply with the provisions of this Act and the settlement agents’ code of conduct.
+(2) It is a condition of every licence that the licensee must comply with any special condition to which the licensee’s licence or triennial certificate is subject under section 34AA.
+34AA.Imposing special conditions on licences or triennial certificates
+(1) In this section —
+licensee includes an applicant for a licence.
+(2) The Commissioner may, at any time, impose a special condition on a licence or triennial certificate.
+(3) Without limiting subsection (2), the Commissioner may impose a condition that relates to —
+(a) the holding of a policy of indemnity insurance or fidelity insurance in a specified amount; or
+(b) the payment of fees under this Act or to contributions to the Account and may vary such prescribed fees or contributions.
+(4) Before imposing a special condition on a licence or triennial certificate, the Commissioner must —
+(a) give a licensee notice in writing setting out —
+(i) that the Commissioner proposes to impose the special condition; and
+(ii) the reasons for the proposed decision; and
+(iii) that the licensee may make submissions to the Commissioner in relation to the proposed decision within the time specified in the notice;
+and
+(b) consider any submissions received under paragraph (a)(iii).
+(5) After making a decision under subsection (2), the Commissioner must —
+(a) notify the licensee of the Commissioner’s decision; and
+(b) if the decision is to impose the special condition, give the licensee notice in writing setting out —
+(i) the reasons for the decision; and
+(ii) that a person aggrieved by the Commissioner’s decision may apply to the State Administrative Tribunal for a review of the decision under section 23.
+34AB.Removing special conditions on licences or triennial certificates
+(1) The Commissioner may remove a special condition imposed on a licensee’s licence or triennial certificate —
+(a) at any time; or
+(b) on application by the licensee.
+(2) If the licensee applies under subsection (1)(b), the Commissioner must, before deciding not to remove the special condition on the licensee’s licence or triennial certificate —
+(a) give the licensee notice in writing setting out —
+(i) that the Commissioner proposes to make a decision not to remove the special condition; and
+(ii) the reasons for the proposed decision; and
+(iii) that the licensee may make submissions to the Commissioner in relation to the proposed decision within the time specified in the notice;
+and
+(b) consider any submissions received under paragraph (a)(iii).
+(3) After making a decision on an application by a licensee, the Commissioner must —
+(a) notify the licensee of the Commissioner’s decision; and
+(b) if the decision is to not remove the special condition, give the licensee notice in writing setting out —
+(i) the reasons for the decision; and
+(ii) that a person aggrieved by the Commissioner’s decision may apply to the State Administrative Tribunal for a review of the decision under section 23.
+81.Sections 34C and 34D inserted
+After section 34B insert:
+34C.Licensee may surrender licence and triennial certificate
+A licensee may surrender the licensee’s triennial certificate, or licence and triennial certificate held in respect of the licence, at any time.
+34D.Firm or body corporate must surrender licence and triennial certificate in certain circumstances
+(1) This section applies to a licensee that is a firm or body corporate if paragraph (c) or (d) of section 28(1) or 29(1) (as is relevant) ceases to apply in relation to the licensee.
+(2) The licensee must, within 5 days after the day on which the paragraph ceased to apply to the licensee, surrender the licensee’s licence and triennial certificate held in respect of the licence, unless the licensee is carrying on business under Schedule 1 clause 10.
+(3) If a licensee carries on business under Schedule 1 clause 10 then, at the end of the period referred to in that clause, the licensee must immediately surrender the licensee’s licence and triennial certificate unless the licensee satisfies section 28(1)(c) and (d) or section 29(1)(c) and (d) (as is relevant).
+82.Section 41B inserted
+After section 41A insert:
+41B.Licensee to comply with prescribed educational requirements
+A licensee must comply with the educational requirements prescribed by the regulations.
+Penalty: a fine of $5 000.
+83.Section 65 amended
+In section 65(1) delete the Penalty and insert:
+Penalty for this subsection:
+(a)in the case of an offence against section 49(4) or (5), a fine of $25 000, or 2 years’ imprisonment;
+(b)in the case of an offence against section 49B(1), a fine of $50 000;
+(c)in any other case, a fine of $25 000.
+84.Section 81A amended
+(1) Delete section 81A(4).
+(2) In section 81A(7) delete “subsection (4).” and insert:
+section 111A.
+85.Section 83 amended
+(1) In section 83 delete “The” and insert:
+(1) The
+(2) At the end of section 83 insert:
+(2) Despite the surrender by a person of a licence or triennial certificate or a licensee ceasing to be licensed or to hold a triennial certificate —
+(a) an allegation under subsection (1) in respect of a person may be made to the State Administrative Tribunal not later than 12 months after the day on which the licence or certificate was surrendered or the licensee ceased to be licensed or ceased holding the certificate; and
+(b) the State Administrative Tribunal may exercise the powers conferred by section 84, other than the power to suspend or cancel the person’s licence or certificate.
+86.Section 93 amended
+Delete section 93(1) and (2A) and insert:
+(1) The Account is to be held and applied to reimburse a person for the person’s pecuniary or property loss to the extent of the defalcation of —
+(a) a licensee during any period when the licensee was the holder of a current triennial certificate; or
+(b) a person who ceased to be the holder of a licence or triennial certificate, if —
+(i) the defalcation occurred during the period of 6 months immediately following the day on which the person ceased to be licensed or the holder of the triennial certificate; and
+(ii) the chief executive officer considers that it is just and reasonable in the circumstances of the claim.
+87.Section 111A amended
+(1) In section 111A(1) delete “in relation to an application under section 24, 26A, 26B, 31 or 33” and insert:
+to the Commissioner or the chief executive officer under this Act
+(2) In section 111A(2):
+(a) delete “in relation to an application referred to in subsection (1)” and insert:
+to the Commissioner or the chief executive officer
+(b) in paragraph (a) delete “in relation to an application”;
+(c) in paragraph (b) delete “made in relation to an application”;
+(d) in paragraph (c) delete “in relation to an application”.
+88.Various penalties amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 26(1) | Penalty: $20 000. | Penalty for this subsection: a fine of $100 000.
+s. 40(3) | Penalty: $20 000. | Penalty for this subsection: a fine of $100 000.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
