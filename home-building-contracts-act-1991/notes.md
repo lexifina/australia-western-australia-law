@@ -30,6 +30,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 Pt. 14 Div. 10 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2019 Pt. 6 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
 The amendment in the Caravan Parks and Camping Grounds Act 1995 Sch. 2 it. 3 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 26(3).
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 59.References to Committee in other written laws
@@ -48,6 +49,34 @@ This Division amends the Home Building Contracts Act 1991.
 strata/community title dwelling means a building or part of a building, occupied or intended for occupation solely or mainly as a place of residence, that is erected on a lot within the meaning of the Community Titles Act 2018 or the Strata Titles Act 1985;
 (3) In section 3(1) in the definition of home building work delete “strata-titled dwelling” (each occurrence) and insert:
 strata/community title dwelling
+On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Home Building Contracts Act 1991 amended
+30.Act amended
+This Part amends the Home Building Contracts Act 1991.
+31.Section 25B amended
+After section 25B(4) insert:
+(4A) This Division does not apply to residential building work if —
+(a) a building permit under the Building Act 2011 is not required for the work; or
+(b) if a building permit is required for the work — the work is not, or is not part of, a prescribed building service under the Building Services (Registration) Act 2011 section 3.
+32.Section 25D amended
+(1) Before section 25D(1) insert:
+(1A) In this section —
+relevant circumstance, in relation to a builder, means —
+(a)if the builder is an individual — the builder —
+(i)has died; or
+(ii)after due search and enquiry, cannot be found in Australia;
+or
+(b)if the builder is not an individual — the builder ceased to exist; or
+(c)the builder is insolvent; or
+(d)if the builder is a building service contractor under the Building Services (Registration) Act 2011 — the builder’s registration as a building service contractor was cancelled or not renewed because the builder did not satisfy the financial requirements (if any) prescribed by the regulations under section 18(1)(b) of that Act.
+(2) In section 25D(1):
+(a) delete paragraph (a) and insert:
+(a) in the case of residential building work to be performed by a builder on behalf of another person, other than a developer, under a residential building work contract, it insures that person and that person’s successors in title against the following losses occurring because a relevant circumstance exists in relation to the builder —
+(i) loss of an amount paid by way of deposit under the residential building work contract, up to a limit of $20 000 or another prescribed limit;
+(ii) loss, other than indirect, incidental or consequential loss, resulting from non-completion of the residential building work;
+and
+(b) in paragraph (b) delete “by reason of the insolvency or death of the builder or by reason of the fact that, after due search and enquiry, the builder cannot be found; and” and insert:
+because a relevant circumstance exists in relation to the builder; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
