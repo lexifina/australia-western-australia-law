@@ -24,6 +24,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Consumer Protection Legislation Amendment Act 2019 Pt. 4 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 46 reads as follows:
@@ -66,6 +67,34 @@ Section 26 of the principal Act is amended —
 (b) by adding the following subsection —
 (2) Subsections (1) and (2) of section 45 of the Interpretation Act 1984 apply in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 The insertion of s. 12A by the Business Licensing Amendment Act 1995 s. 9 would conflict with an amendment in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 226.
+On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Debt Collectors Licensing Act 1964 amended
+21.Act amended
+This Part amends the Debt Collectors Licensing Act 1964.
+22.Section 14 amended
+(1) At the end of section 14(1) insert:
+Penalty for this subsection: a fine of $20 000.
+(2) In section 14(2) delete the Penalty and insert:
+Penalty for this subsection: a fine of $20 000.
+23.Section 17 amended
+(1) At the end of section 17(1) insert:
+Penalty for this subsection: a fine of $25 000.
+(2) Delete section 17(3).
+24.Section 22 deleted
+Delete section 22.
+25.Various provisions amended
+At the end of the provisions listed in the Table insert:
+Penalty for this subsection: a fine of $25 000.
+Table
+s. 6(2) | s. 16(1)
+s. 18(4)
+26.Various penalties amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 5(2) | Penalty: For an individual, $200. For a body corporate, $400. | Penalty for this subsection: a fine of $50 000.
+s. 15(5) | Penalty: $200. | Penalty for this subsection: a fine of $25 000.
+s. 26(1)(h) | $200 | $5 000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
