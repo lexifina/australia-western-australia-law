@@ -27,6 +27,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Consumer Protection Legislation Amendment Act 2019 Pt. 2 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Liquor Licensing Act 1988 s. 176.
 On the date as at which this compilation was prepared, the Business Licensing Amendment Act 1995 Pt. 2 had not come into operation. It reads as follows:
@@ -59,6 +60,32 @@ Section 37 of the principal Act is amended —
 (2) Subsections (1) and (2) of section 45 of the Interpretation Act 1984 apply in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 ”.
 ”.
+On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Auction Sales Act 1973 amended
+3.Act amended
+This Part amends the Auction Sales Act 1973.
+4.Section 28 amended
+(1) At the end of section 28(5) insert:
+Penalty for this subsection: a fine of $25 000.
+(2) Delete section 28(9).
+5.Section 35 amended
+Delete section 35(1) and (2).
+6.Various provisions amended
+At the end of the provisions listed in the Table insert:
+Penalty for this subsection: a fine of $25 000.
+Table
+s. 22(3) | s. 23(1)
+s. 24(1) | s. 26(1) and (2)
+s. 27(1) | s. 29(2)
+s. 31(1), (2), (3), (4), (6) and (7)
+7.Various penalties amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 6(6) | Penalty: $500. | Penalty for this subsection: a fine of $50 000.
+s. 25(1) | Penalty: $1 000 or imprisonment for 12 months. | Penalty for this subsection: a fine of $50 000 or imprisonment for 12 months.
+s. 30(2) | Penalty: $500. | Penalty for this subsection: a fine of $10 000.
+s. 30(5) | Penalty: A fine of not more than $1 000, or imprisonment for a term of not more than one year, or both such fine and imprisonment. | Penalty for this subsection: a fine of $50 000 or imprisonment for 12 months, or both.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
