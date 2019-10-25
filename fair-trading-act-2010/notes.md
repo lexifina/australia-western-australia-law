@@ -1,5 +1,5 @@
-Notes about the Fair Trading Act 2010
-This reprint is a compilation as at 22 June 2018 of the Fair Trading Act 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+Notes
+This is a compilation of the Fair Trading Act 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fair Trading Act 2010 | 57 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
@@ -14,11 +14,13 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 4 | 23 of 2014 | 9 Oct 20
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 12 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Statutes (Repeals) Act 2016 Pt. 4 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 Reprint 2: The Fair Trading Act 2010 as at 22 Jun 2018 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Fair Trading Amendment Act 2019 | 26 of 2019 | 24 Oct 2019 | 25 Oct 2019 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Consumer Protection Legislation Amendment Act 2019 Pt. 5 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The effect of s. 36(2) and (3) is altered by the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5, which read as follows:
 4.Operation of section 73(1) altered
@@ -27,12 +29,12 @@ Delete section 73(1)(c)(ii) and insert:
 5.Operation of section 170(1) altered
 Delete section 170(1)(c)(ii) and insert:
 (ii) between 6 pm and midnight.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
 83.Fair Trading Act 2010 amended
 (1) This section amends the Fair Trading Act 2010.
 (2) In Schedule 1 delete “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976”.
 [Section 83 amended: No. 58 of 2010 s. 192(7).]
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 had not come into operation. It reads as follows:
 Part 5 — Other Acts amended
 Division 7 — Fair Trading Act 2010 amended
 290.Act amended
@@ -41,6 +43,16 @@ This Division amends the Fair Trading Act 2010.
 (1) In Schedule 1 delete “Health (Miscellaneous Provisions) Act 1911”.
 (2) In Schedule 1 insert in alphabetical order:
 Public Health Act 2016
+On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Fair Trading Act 2010 amended
+27.Act amended
+This Part amends the Fair Trading Act 2010.
+28.Section 88E amended
+Before section 88E(1) insert:
+(1A) This section does not apply to the extent that the purpose of exercising a power under subsection (1) is in relation to a regulated activity carried on by a regulated person under the Charitable Collections Act 1946.
+29.Schedule 2 amended
+In Schedule 2 insert in alphabetical order:
+Charitable Collections Act 1946
 ## Note — Australian Consumer Law (WA) text
 [This note is not part of the Act. Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
 (a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 1 January 2013 (as modified by section 36 of the Act); and
