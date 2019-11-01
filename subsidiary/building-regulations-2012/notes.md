@@ -28,10 +28,12 @@ Building Regulations Amendment Regulations 2017 Pt. 2 | 8 Aug 2017 p. 4343-5 | 9
 Building Amendment Regulations (No. 3) 2017 | 22 Dec 2017 p. 5971-5 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1, 2, 5-8, 9(2), (3) and (5) and 11: 23 Dec 2017 (see r. 2(c)); r. 5-8, 9(2), (3) and (5) and 11: 23 Jan 2018 (see r. 2(b))
 Building Amendment Regulations 2018 | 9 Mar 2018 p. 799-800 | r. 1 and 2: 9 Mar 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Mar 2018 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2018 | 5 Oct 2018 p. 4013-16 | r. 1 and 2: 5 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Oct 2018 (see r. 2(b))
-Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 2 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
 Building Amendment Regulations 2019 | 26 Mar 2019 p. 943-6 | r. 1 and 2: 26 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2019 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 2 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2019 | 2 Aug 2019 p. 2990-1 | r. 1 and 2: 2 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2019 (see r. 2(b))
+Reprint 4: The Building Regulations 2012 as at 1 Nov 2019 (includes amendments listed above)
+The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
