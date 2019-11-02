@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Act 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | s. 1 and 2: 9 Dec 1988; Act other than s. 1 and 2: 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -54,17 +54,17 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Reprint 8: The Liquor Control Act 1988 as at 4 Mar 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
  | Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 3 Div. 17 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 20 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-Liquor Control Amendment Act 2018 (other than s. 17, 18, 36, 45, 53, 62(1) and (3)) | 9 of 2018 | 13 Jul 2018 | s. 1 and 2: 13 Jul 2018 (see s. 2(a)); s. 3, 4, 6, 7, 9, 11, 13-16, 19, 23, 24, 27-31, 33, 34, 37, 40-44, 47-52, 54, 55, 57-59, 61 and 64-70: 18 Aug 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2893); s. 5, 8, 10, 12, 20-22, 25, 26, 32, 35, 38, 39, 46, 56, 60, 62(2) and 63: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3779)
+Liquor Control Amendment Act 2018 (other than s. 36, 53, 62(1) and (3)) | 9 of 2018 | 13 Jul 2018 | s. 1 and 2: 13 Jul 2018 (see s. 2(a)); s. 3, 4, 6, 7, 9, 11, 13-16, 19, 23, 24, 27-31, 33, 34, 37, 40-44, 47-52, 54, 55, 57-59, 61 and 64-70: 18 Aug 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2893); s. 5, 8, 10, 12, 20-22, 25, 26, 32, 35, 38, 39, 46, 56, 60, 62(2) and 63: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3779); s. 17, 18 and 45: 2 Nov 2019 (see s. 2(b) and Gazette 1 Nov 2019 p. 3857)
 Heritage Act 2018 s. 185 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
  | Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Liquor Control Amendment Act 2018 s. 17, 18, 36, 45, 53, 62(1) and (3) | 9 of 2018 | 13 Jul 2018 | To be proclaimed (see s. 2(b))
+Liquor Control Amendment Act 2018 s. 36, 53, 62(1) and (3) | 9 of 2018 | 13 Jul 2018 | To be proclaimed (see s. 2(b))
+Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
-Footnote no longer applicable.
 Repealed by the Public Sector Management Act 1994.
 Rules of the Supreme Court 1971 Order 64 was deleted in Gazette 29 Apr 2005 p. 1793.
 The Liquor Licensing (Moratorium) Act 1983 expired on 30 June 1988 (see Liquor Licensing (Moratorium) Order 1987 in Gazette 24 Dec 1987 p. 4533).
@@ -72,204 +72,6 @@ Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
-32.Liquor Control Act 1988 amended
-(1) The amendment in this section is to the Liquor Control Act 1988.
-(2) After section 37(6) the following subsection is inserted —
-(7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Liquor Legislation Amendment Act 2015 s. 26 had not come into operation. It reads as follows:
-26.Part 7A inserted
-After section 172A insert:
-Part 7A — Alcohol Intervention
-Division 1 — Preliminary
-172B.Terms used
-(1) In this Part —
-AI authorised person, in section 172I or 172L, means a person appointed under section 172D to be an authorised person for the purposes of the section in which the term is used;
-alcohol intervention requirement means a notice referred to in section 172F;
-alcohol intervention session means an alcohol intervention session —
-(a)provided by a treatment provider approved under section 172J(2)(b); and
-(b)the content of which is approved under section 172J(2)(a);
-alleged offender means a young person who is suspected on reasonable grounds by a police officer of having committed a minor alcohol related offence;
-CEO (Health) means the chief executive officer of the department principally assisting the Minister responsible for the administration of the Health Legislation Administration Act 1984;
-minor alcohol related offence means an offence under —
-(a)section 110(4A), 110(5), 115(2), 115(5), 115(6), 115(7), 119(1), 119(2), 119(4), 119(5), 121(4)(c), 121(7), 121(7a), 122(3), 123, 126(2), 126(4) or 126(5);
-(b)section 121(3) in relation to a juvenile only;
-police officer does not include a person appointed by the Commissioner of Police as an AI authorised person under section 172D;
-responsible adult has the meaning given in the Young Offenders Act 1994 section 3;
-young person means —
-(a)a person who is a juvenile; or
-(b)in relation to the commission, or alleged commission, of a minor alcohol related offence, was a juvenile when the offence was committed, or allegedly committed.
-(2) In this Part the following abbreviations are used —
-AIR for alcohol intervention requirement;
-AIS for alcohol intervention session.
-172C.Operation of Young Offenders Act 1994 unaffected
-Nothing in this Part prevents a young person from being dealt with under the Young Offenders Act 1994 Part 5 in respect of a minor alcohol related offence.
-172D.Appointment of AI authorised persons
-The Commissioner of Police may, in writing, appoint persons or classes of persons to be AI authorised persons for the purposes of section 172I or 172L, or for the purposes of both of those sections.
-Division 2 — Alcohol intervention requirements
-172E.AIR may be given to alleged offender for minor alcohol related offence
-(1) Unless section 172G(1) applies, a police officer may give an alcohol intervention requirement to an alleged offender.
-(2) A police officer who suspects on reasonable grounds that —
-(a) an alleged offender has committed more than one minor alcohol related offence; and
-(b) the alleged offences have arisen out of the same incident,
-may give a single AIR in respect of all or some of the offences.
-(3) An AIR is to be given as soon as practicable, and in any event within 60 days, after an alleged offence is believed to have been committed.
-172F.Alcohol intervention requirement
-(1) An AIR is a notice in a form prescribed by the regulations —
-(a) containing a description of the alleged offence, or offences; and
-(b) informing the alleged offender that —
-(i) he or she may, in writing, elect to be prosecuted for the alleged offence, or offences, in a court, and informing the alleged offender how to make that election; and
-(ii) if he or she does not wish to be prosecuted for the alleged offence or offences in a court, the alleged offender may, within a period of 28 days after the giving of the AIR, complete an AIS;
-and
-(c) informing the alleged offender as to how the alleged offender may arrange to complete an AIS.
-(2) An alleged offender need only complete a single AIS for each AIR given to the alleged offender, even if the AIR is given in respect of more than one alleged offence.
-172G.Special requirements about AIRs
-(1) An AIR cannot be given in respect of an alleged offence (the new offence) if the alleged offender —
-(a) had been convicted of, or given an AIR in respect of, 2 or more minor alcohol related offences before the new offence was allegedly committed; and
-(b) at least 2 of those offences arose, or are alleged to have arisen, out of separate incidents.
-(2) A police officer who gives an alleged offender an AIR is to ensure that a responsible adult is given a copy of the AIR as soon as is reasonably practicable after the AIR is given to the alleged offender, unless —
-(a) after reasonable enquiry, neither the whereabouts nor the address of a responsible adult can be ascertained; or
-(b) in the circumstances it would be inappropriate to give a responsible adult a copy of the AIR.
-(3) An alleged offender who has been given 2 AIRs need only complete a single AIS in respect of the AIRs if both AIRs were given before the completion of the AIS.
-172H.Referral of young persons at risk to juvenile justice teams
-(1) In this section —
-young person at risk means an alleged offender —
-(a)to whom the police officer would have given an AIR, but for section 172G(1); or
-(b)who has been given an AIR and has not completed an AIS within 28 days or any further time allowed under section 172L, unless —
-(i)the AIR has been withdrawn under section 172I; or
-(ii)the alleged offender has elected to be prosecuted for the alleged offence in a court.
-(2) A police officer may refer a young person at risk to a juvenile justice team where appropriate under the Young Offenders Act 1994 in preference to charging the young person under this Act.
-172I.Withdrawal of AIR
-(1) An AI authorised person may withdraw an AIR by sending to the alleged offender a notice in a form prescribed by the regulations stating that the AIR has been withdrawn.
-(2) An AIR cannot be withdrawn if the alleged offender has completed an AIS in relation to the AIR.
-(3) An AIR that is withdrawn is taken not to have been given to an alleged offender for the purposes of section 172G(1).
-Division 3 — Alcohol intervention sessions
-172J.Alcohol intervention session
-(1) The purpose of an alcohol intervention session is to inform those who complete it about —
-(a) the adverse health and social consequences of alcohol use; and
-(b) the laws relating to the possession of alcohol; and
-(c) effective strategies to address alcohol using behaviour.
-(2) The CEO (Health) may, in writing, do any of the following —
-(a) having regard to subsection (1), approve the content of an alcohol intervention session;
-(b) approve treatment providers to provide alcohol intervention sessions;
-(c) give an approval under paragraph (b) subject to conditions to be obeyed by the treatment provider approved;
-(d) cancel or amend an approval given under paragraph (a) or (b).
-(3) For the purposes of this section, this Act is to be taken to be a relevant Act as referred to in the Health Legislation Administration Act 1984 section 9.
-172K.Benefit of completing AIS
-(1) If the alleged offender has completed an AIS in respect of an AIR within 28 days or such further time as is allowed under section 172L, the bringing of proceedings and the imposition of penalties are prevented to the same extent that they would be prevented if the alleged offender had been convicted by a court of, and punished for, the alleged offence.
-(2) Completion of an AIS is not to be regarded as an admission for the purposes of any proceedings, whether civil or criminal.
-172L.Extension of time to complete AIS
-(1) An AI authorised person may, in a particular case, extend the period of 28 days within which the alleged offender may complete an AIS.
-(2) The extension may be allowed whether or not the period of 28 days has elapsed.
-172M.Certificate of completion of AIS
-(1) A treatment provider approved to provide an AIS under section 172J(2)(b) is to —
-(a) give to a person who has completed an AIS a certificate of completion; and
-(b) send a copy of the certificate to the Commissioner of Police.
-(2) A certificate of completion is to be in a form prescribed by the regulations and is to set out —
-(a) the name and address of the person who has completed the AIS; and
-(b) the date of completion; and
-(c) the details of the AIR in respect of which the AIS was completed.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 12 — Liquor Control Act 1988 amended
-300.Act amended
-This Division amends the Liquor Control Act 1988.
-301.Section 39 amended
-In section 39(2)(a)(i) delete “Health (Miscellaneous Provisions) Act 1911; and” and insert:
-Public Health Act 2016; and
-302.Section 69 amended
-(1) In section 69(8)(a) delete “Health (Miscellaneous Provisions) Act 1911; or” and insert:
-Public Health Act 2016; or
-(2) In section 69(9A)(b) delete “Health (Miscellaneous Provisions) Act 1911.” and insert:
-Public Health Act 2016.
-303.Section 95 amended
-In section 95(4)(f)(iii) after “Health (Miscellaneous Provisions) Act 1911” insert:
-or the Public Health Act 2016
-On the date as at which this compilation was prepared, the Liquor Control Amendment Act 2018 s. 17, 18, 36, 45, 56, 62(1) and (3) had not come into operation. They read as follows:
-17.Section 36A amended
-In section 36A(2) delete “shall not approve” and insert:
-must not grant an application for
-18.Section 36B inserted
-After section 36A insert:
-36B.Restrictions on grant or removal of certain licences authorising sale of packaged liquor
-(1) In this section —
-local packaged liquor requirements, in relation to an application to which this section applies, means the requirements of consumers for packaged liquor in the locality in which the proposed licensed premises are, or are to be, situated;
-packaged liquor premises means premises to which a licence referred to in subsection (2) relates;
-prescribed area means the area prescribed for the purposes of this section;
-prescribed distance means the distance prescribed for the purposes of this section;
-proposed licensed premises, in relation to an application to which this section applies, means —
-(a)if the application is for the grant of a licence — the premises to which the application relates; or
-(b)if the application is for the removal of a licence — the premises to which the licence is sought to be removed;
-retail section —
-(a)in relation to packaged liquor premises — means the part or parts of the premises on which packaged liquor is displayed for the purposes of sale or sold; and
-(b)in relation to proposed licensed premises — means the part or parts of the premises on which packaged liquor is to be displayed for the purposes of sale or sold.
-(2) This section applies to an application for the grant or removal of any of the following licences —
-(a) a hotel licence without restriction;
-(b) a tavern licence;
-(c) a liquor store licence;
-(d) a special facility licence of a prescribed type.
-(3) The licensing authority must not hear or determine an application to which this section applies if —
-(a) packaged liquor premises are situated less than the prescribed distance from the proposed licensed premises; and
-(b) the area of the retail section of those packaged liquor premises exceeds the prescribed area; and
-(c) the area of the retail section of the proposed licensed premises exceeds the prescribed area.
-(4) The licensing authority must not grant an application to which this section applies unless satisfied that local packaged liquor requirements cannot reasonably be met by existing packaged liquor premises in the locality in which the proposed licensed premises are, or are to be, situated.
-(5) Regulations made for the purposes of the definition of prescribed distance in subsection (1) may prescribe different distances in relation to packaged liquor premises in different areas of the State.
-36.Section 65 amended
-Delete section 65(1) and insert:
-(1) Subject to subsection (3), a licence or permit that authorises the sale of packaged liquor or of liquor for consumption off the licensed premises is subject to the following conditions —
-(a) that the liquor sold —
-(i) must be consigned to the purchaser at, and delivered on or from, the licensed premises, unless the Director otherwise approves; and
-(ii) must be delivered in sealed containers; and
-(iii) must not, unless an extended trading permit or a special facility licence so authorises, be or be permitted to be consumed on or, except in the case of liquor sold under section 55, in the immediate proximity of the licensed premises;
-(b) that the prescribed requirements relating to sale and delivery must be complied with.
-(1A) A person who contravenes a condition referred to in subsection (1) commits an offence.
-Penalty for this subsection: a fine of $2 000.
-Note:The heading to amended section 65 is to read:
-Conditions relating to sale and delivery of packaged liquor or liquor for consumption off licensed premises
-45.Section 77A inserted
-At the end of Part 3 Division 7 insert:
-77A.Restrictions on alteration or redefinition of certain packaged liquor premises
-(1) In this section —
-packaged liquor premises has the meaning given in section 36B(1);
-prescribed area means the area prescribed for the purposes of this section;
-prescribed distance means the distance prescribed for the purposes of this section;
-retail section, in relation to packaged liquor premises, means the part or parts of the premises on which packaged liquor is displayed for the purposes of sale or sold.
-(2) Subsection (3) applies to packaged liquor premises if —
-(a) the premises are situated less than the prescribed distance from other packaged liquor premises; and
-(b) the area of the retail section of the other packaged liquor premises exceeds the prescribed area.
-(3) The licensing authority must not hear or determine an application made under section 77(4) in respect of packaged liquor premises to which this subsection applies —
-(a) if —
-(i) the area of the retail section of the premises does not exceed the prescribed area; and
-(ii) the proposed alteration or redefinition of the premises would increase the area of the retail section of the premises so that it exceeds the prescribed area;
-or
-(b) if —
-(i) the area of the retail section of the premises exceeds the prescribed area; and
-(ii) the proposed alteration or redefinition of the premises would increase the area of the retail section of the premises.
-(4) Regulations made for the purposes of the definition of prescribed distance in subsection (1) may prescribe different distances in relation to packaged liquor premises in different areas of the State.
-53.Section 109A inserted
-After section 109 insert:
-109A.Offence to carry liquor in excess of prescribed quantity in prescribed area of State
-(1) In this section —
-driver, in relation to a vehicle, means a person who has control over the steering, movement or propulsion of the vehicle;
-vehicle, without limiting the definition of that term in section 3(1), includes a trailer, semi-trailer or caravan attached to another vehicle.
-(2) A person who, in a prescribed area of the State, carries a kind of liquor in a quantity that exceeds the quantity prescribed for that kind of liquor commits an offence.
-Penalty for this subsection: a fine of $10 000.
-(3) For the purposes of subsection (2), if liquor is carried in or on a vehicle the driver of the vehicle is taken to be the person who carries the liquor.
-(4) It is a defence to a charge of an offence under subsection (2) to prove that the liquor was carried —
-(a) for the purpose of a sale that may lawfully be made; or
-(b) by a person of a prescribed class; or
-(c) in or on a vehicle of a prescribed class; or
-(d) in prescribed circumstances.
-(5) Regulations made for the purposes of subsection (2) may prescribe different quantities for different areas of the State.
-62.Section 155 amended
-(1) After section 155(5) insert:
-(5A) If a person is contravening section 109A(2) a member of the Police Force may, subject to subsection (5B), seize an opened or unopened container of liquor involved in the contravention.
-(5B) The total quantity of a kind of liquor in any containers seized under subsection (5A) must not exceed the seizable quantity for that kind of liquor.
-(5C) In subsection (5B) —
-seizable quantity, for a kind of liquor, means the quantity representing the difference between the total quantity of that kind of liquor involved in the contravention and the quantity prescribed for that kind of liquor under section 109A(2).
-(3) In section 155(9) after “subsection” (2nd occurrence) insert:
-(5A),
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -299,10 +101,10 @@ casino liquor licence3(1)
 cellar door permit3(1), 61A(1)
 chairperson3(1)
 Chief Health Officer3(1)
-club49(1), Sch. 2 cl. 1
+club49(1), Sch. 2 cl. 1, Sch. 2 cl. 1
 club licence3(1)
 club restricted licence3(1)
-commencement daySch. 1A cl. 1, Sch. 1B cl. 1, Sch. 1C cl. 2(1), 3(1)
+commencement daySch. 1A cl. 1, Sch. 1B cl. 1, Sch. 1C cl. 2(1), Sch. 1C cl. 3(1)
 Commission3(1)
 Commissioner of Police3(1)
 Committee of ManagementSch. 2 cl. 1
@@ -358,6 +160,7 @@ liquor merchant3(1)
 liquor restricted premises152N
 liquor restriction declaration152N
 liquor store licence3(1)
+local packaged liquor requirements36B(1)
 lodger3(1)
 manager3(1)
 manager’s approval102A
@@ -379,15 +182,19 @@ owner3(1)
 packaged liquor3(1), 59A(1)
 packaged liquor licence59A(1)
 packaged liquor outlet36A(1)
+packaged liquor premises36B(1), 77A(1)
 party to proceedings3(1)
 permit3(1), Sch. 1 cl. 1(1)
 permitted hours3(1)
 petrol station36A(1), 65A(1)
 premises3(1)
 prescribed3(1)
+prescribed area36B(1), 77A(1)
+prescribed distance 36B(1), 77A(1)
 producer129
 producer’s licence3(1)
 prohibition order152A
+proposed licensed premises36B(1)
 proprietary company3(1)
 protection order3(1), 87(1)
 public body37(1A)
@@ -409,6 +216,7 @@ repealed ActSch. 1 cl. 1(1)
 responsible person3(1)
 restaurant3(1)
 restaurant licence3(1)
+retail section36B(1), 77A(1)
 sample3(1)
 Secretary3(1)
 secure webpage115AC(1A)
