@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Dangerous Sexual Offenders Regulations 2018 | 2 Oct 2018 p. 3797 | r. 1 and 2: 2 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2018 (see r. 2(b))
 Dangerous Sexual Offenders Amendment Regulations 2019 | 15 Feb 2019 p. 283-301 | r. 1 and 2: 15 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Feb 2019 (see r. 2(b))
+Dangerous Sexual Offenders Amendment Regulations (No. 2) 2019 | 5 Nov 2019 p. 3898-901 | r. 1 and 2: 5 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
