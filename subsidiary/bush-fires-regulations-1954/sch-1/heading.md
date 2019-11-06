@@ -5,12 +5,12 @@ Western Australia
 Bush Fires Act 1954
 Regulation 15
 PERMIT TO SET FIRE TO THE BUSH
-Subject to the provisions of the Bush Fires Act 1954, and the regulations made thereunder and to the due observance and performance of the conditions endorsed on this permit including the provisions of section 18 of the said Act permission is hereby granted to Mr ......................., of ........................................., to set fire to the bush on locations ......................................................................... on the ............. day of ......................................... 20 .............
-Dated this ............. day of ................................... 20 .............
+Subject to the provisions of the Bush Fires Act 1954, and the regulations made thereunder and to the due observance and performance of the conditions endorsed on this permit including the provisions of section 18 of the said Act permission is hereby granted to Mr......................., of........................................., to set fire to the bush on locations......................................................................... on the............. day of......................................... 20.............
+Dated this............. day of................................... 20.............
 Note. — This permit is not valid during a declared prohibited burning time and is issued subject to the provisions of section 46 of the Bush Fires Act and may be revoked or suspended by a bush fire control officer if, in his opinion, the fire, if lit, would become a source of danger.
 A bush fire control officer is not compelled to inspect an area to be burnt before issuing a permit to burn. The onus lies on the person not only to comply with the provisions of the Bush Fires Act but also to ensure there is no danger of the fire escaping. The issue of this permit in no way affects that responsibility.
 Plan and any special conditions to be observed: —
-Signed .........................................,
+Signed.........................................,
 Bush Fire Control Officer.
 [Form 3 inserted: Gazette 10 Mar 1978 p. 709.]
 Form 4
@@ -18,10 +18,10 @@ Western Australia
 Bush Fires Act 1954
 Regulation 18
 APPLICATION FOR PERMIT TO BURN CLOVER DURING A PROHIBITED BURNING TIME
-I (a) ................................................... of (b) ........................................................... the owner (or occupier) of (c) ................................. location No. ........................, upon which subterranean clover is growing, hereby apply pursuant to section 24 of the Bush Fires Act 1954, for a permit to burn upon the said location a total area of ................................. hectares (not to exceed 30 hectares), shown on the annexed sketch upon the following day, namely: —
-.................................., 20 ............. ............. hectares
-.................................., 20 ............. ............. hectares
-.................................., 20 ............. ............. hectares
+I (a)................................................... of (b)........................................................... the owner (or occupier) of (c)................................. location No........................., upon which subterranean clover is growing, hereby apply pursuant to section 24 of the Bush Fires Act 1954, for a permit to burn upon the said location a total area of................................. hectares (not to exceed 30 hectares), shown on the annexed sketch upon the following day, namely: —
+.................................., 20............. ............. hectares
+.................................., 20............. ............. hectares
+.................................., 20............. ............. hectares
 such days being within a time of the year during which it has been declared, by notice published in the Government Gazette pursuant to section 17 of the said Act, to be unlawful to set fire to the bush within the district or part of the State named in the said notice within which the location aforesaid is situated.
 ...........................................
 Applicant.
@@ -32,7 +32,7 @@ Note. — This application must be lodged with the nearest authorised officer at
 (a) Name in full of applicant.(b) Address.(c) Name of location.
 (To be endorsed on Form 4.)
 STATUTORY DECLARATION
-I, .............................................................................................................................
+I,.............................................................................................................................
 [given name, address and occupation of person making the declaration]
 sincerely declare as follows —
 (1A)I am the applicant in this application.
@@ -54,12 +54,12 @@ Bush Fires Act 1954
 Regulation 19
 Permit No.................................
 PERMIT TO BURN CLOVER DURING PROHIBITED BURNING TIME
-I, (a) ............................................. of (b) ..................................................... a duly authorised officer within the meaning of the regulations made under and for the purposes of the Bush Fires Act 1954, having been satisfied that the provisions of section 24(b) of the said Act have been complied with hereby grant authority to (c) ..................................... of (d) ............................... the owner (or occupier) of (e) ............................. location No. ................ to burn upon the said location a total area shown on the annexed sketch of ..................... hectares of subterranean clover upon the following days, namely: —
-.................................., 20 ............. ............. hectares
-.................................., 20 ............. ............. hectares
-.................................., 20 ............. ............. hectares
+I, (a)............................................. of (b)..................................................... a duly authorised officer within the meaning of the regulations made under and for the purposes of the Bush Fires Act 1954, having been satisfied that the provisions of section 24(b) of the said Act have been complied with hereby grant authority to (c)..................................... of (d)............................... the owner (or occupier) of (e)............................. location No................. to burn upon the said location a total area shown on the annexed sketch of..................... hectares of subterranean clover upon the following days, namely: —
+.................................., 20............. ............. hectares
+.................................., 20............. ............. hectares
+.................................., 20............. ............. hectares
 subject however, to the provisions of the said Act and the regulations made thereunder and to the due observance and performance of the conditions endorsed on this permit.
-Given under my hand at ................................. this ............... day of ...................., 20 ........
+Given under my hand at................................. this............... day of...................., 20........
 .............................................
 Authorised Officer.
 (a) Name of authorised officer in full and occupation; (b) address; (c) name of permit holder; (d) address; (e) name of location.
@@ -69,10 +69,10 @@ Western Australia
 Bush Fires Act 1954
 Regulation 26
 APPLICATION FOR A PERMIT TO BURN THE REFUSE OF PLANTS DURING A PROHIBITED BURNING TIME
-I, (a) ............................................... of (b) ............................................................. the owner (or occupier) of (c) ........................................... location No. ............... hereby apply pursuant to the regulations made under the provisions of section 26 of the Bush Fires Act 1954, for a permit to burn upon the said location (d) ....................................... upon the following days, viz.: —
-.................................., 20 ............. ............. heaps
-.................................., 20 ............. ............. heaps
-.................................., 20 ............. ............. heaps
+I, (a)............................................... of (b)............................................................. the owner (or occupier) of (c)........................................... location No................ hereby apply pursuant to the regulations made under the provisions of section 26 of the Bush Fires Act 1954, for a permit to burn upon the said location (d)....................................... upon the following days, viz.: —
+.................................., 20............. ............. heaps
+.................................., 20............. ............. heaps
+.................................., 20............. ............. heaps
 such days being within a prohibited burning time declared for the district or part of the State within which the location is situated.
 ...........................................
 Applicant.
@@ -83,7 +83,7 @@ ________________________________________________________________
 (a) Name of applicant in full. (b) Address. (c) Name of location. (d) Description of the plants the refuse of which is to be burned.
 (To be endorsed on Form 6.)
 STATUTORY DECLARATION
-I, .............................................................................................................................
+I,.............................................................................................................................
 [given name, address and occupation of person making the declaration]
 sincerely declare as follows —
 (1A)I am the applicant in this application.
@@ -103,15 +103,15 @@ Form 7
 Western Australia
 Bush Fires Act 1954
 Regulation 27
-Permit No. ............................
+Permit No.............................
 PERMIT TO BURN THE REFUSE OF PLANTS DURING A PROHIBITED BURNING TIME
-I, (a) ................................................... of (b) ......................................................... The chief executive officer of the ......................................... or a duly authorised officer within the meaning of the regulations made under and for the purpose of the Bush Fires Act 1954, having been satisfied that the regulations made in this behalf have been complied with, hereby grant authority to (c) ............................. of (d) ....................................... the owner (or occupier) of (e) ............................. location No. ........ to burn upon the said location (f) ............................................. upon the following days, viz.: —
-.................................., 20 ............. ............. heaps
-.................................., 20 ............. ............. heaps
-.................................., 20 ............. ............. heaps
+I, (a)................................................... of (b)......................................................... The chief executive officer of the......................................... or a duly authorised officer within the meaning of the regulations made under and for the purpose of the Bush Fires Act 1954, having been satisfied that the regulations made in this behalf have been complied with, hereby grant authority to (c)............................. of (d)....................................... the owner (or occupier) of (e)............................. location No......... to burn upon the said location (f)............................................. upon the following days, viz.: —
+.................................., 20............. ............. heaps
+.................................., 20............. ............. heaps
+.................................., 20............. ............. heaps
 subject however, to the provisions of the said Act and the regulations made thereunder and to the due observance and performance of the conditions endorsed on this permit.
-Given under my hand at ............................................. this .................. day of ........................................, 20 ........
-Chief executive officer of the .......................................
+Given under my hand at............................................. this.................. day of........................................, 20........
+Chief executive officer of the.......................................
 or Authorised Officer.
 ________________________________________________________________
 (a) Name of chief executive officer or authorised officer, in full and occupation, (b) Address. (c) Name of permit holder. (d) Address. (e) Name of location. (f) Description of the plants the refuse of which is to be burned.
@@ -137,14 +137,14 @@ Western Australia
 Bush Fires Act 1954
 Regulation 33
 APPLICATION FOR A PERMIT TO BURN PROCLAIMED PLANTS DURING A PROHIBITED BURNING TIME
-I, (a) ................................................. of (b) ........................................................... the owner (or occupier of) (c) ......................................... location No. ................. upon which (d) ............................................... is growing, hereby apply pursuant to section 26 of the Bush Fires Act 1954, for a permit to burn upon the said location a total area of ................... hectares shown on the annexed sketch upon the following days, viz.: —
-.................................., 20 ............. ............. hectares
-.................................., 20 ............. ............. hectares
-.................................., 20 ............. ............. hectares
+I, (a)................................................. of (b)........................................................... the owner (or occupier of) (c)......................................... location No.................. upon which (d)............................................... is growing, hereby apply pursuant to section 26 of the Bush Fires Act 1954, for a permit to burn upon the said location a total area of................... hectares shown on the annexed sketch upon the following days, viz.: —
+.................................., 20............. ............. hectares
+.................................., 20............. ............. hectares
+.................................., 20............. ............. hectares
 such days being within a prohibited burning time declared for the district or part of the State named in the said notice within which the location is situated.
 .............................................
 Applicant.
-To .......................................
+To.......................................
 Note —
 (1)The statutory declaration endorsed on this form need only be completed if this is required by the authorised officer.
 (2)This application must be submitted to the authorised officer at least 7 days before the day burning is intended to be commenced, unless a shorter period is agreed with that officer.
@@ -152,7 +152,7 @@ ________________________________________________________________
 (a) Name in full of applicant. (b) Address. (c) Name of location. (d) Description of the proclaimed plant to be burned.
 (To be endorsed on Form 8.)
 STATUTORY DECLARATION
-I, .............................................................................................................................
+I,.............................................................................................................................
 [given name, address and occupation of person making the declaration]
 sincerely declare as follows —
 (1A)I am the applicant in this application.
@@ -172,15 +172,15 @@ Form 9
 Western Australia
 Bush Fires Act 1954
 Regulation 33
-Permit No. ..........................
+Permit No...........................
 PERMIT TO BURN PROCLAIMED PLANTS DURING A PROHIBITED BURNING TIME
-I, (a) ............................................. of (b) ..................................... chief executive officer of the ............................................. or a duly authorised officer within the meaning of the regulations made under and for the purposes of the Bush Fires Act 1954, having been satisfied that the provisions of section 26 of the said Act have been complied with hereby grant authority to (c) ....................................... of (d) ..................................................................................................., the owner (or occupier) of (e) ............................................... location No. ............................ to burn upon the said location a total area shown on the annexed sketch of ................................. hectares of (f) ................................................. upon the following days, viz.: —
+I, (a)............................................. of (b)..................................... chief executive officer of the............................................. or a duly authorised officer within the meaning of the regulations made under and for the purposes of the Bush Fires Act 1954, having been satisfied that the provisions of section 26 of the said Act have been complied with hereby grant authority to (c)....................................... of (d)..................................................................................................., the owner (or occupier) of (e)............................................... location No............................. to burn upon the said location a total area shown on the annexed sketch of................................. hectares of (f)................................................. upon the following days, viz.: —
 ..................................., 20........... ................. hectares
 ..................................., 20........... ................. hectares
 ..................................., 20........... ................. hectares
 subject, however, to the provisions of the said Act and the regulations made thereunder and to the due observance and performance of the conditions endorsed on this permit.
-Given under my hand at ............................. this ............... day of ......................................................, 20 ...............
-Chief executive officer of the ........................................................................... or
+Given under my hand at............................. this............... day of......................................................, 20...............
+Chief executive officer of the........................................................................... or
 another authorised officer.
 ________________________________________________________________
 (a) Name of chief executive officer or authorised officer in full and occupation. (b) Address. (c) Name of permit holder. (d) Address. (e) Name of location. (f) Description of proclaimed plant.
@@ -208,7 +208,7 @@ Form 10
 Western Australia
 Regulation 36A
 APPLICATION FOR A PERMIT TO BURN DECLARED PLANTS/THE REFUSE OF DECLARED PLANTS DURING A PROHIBITED BURNING TIME
-I, (a) ................................................... of (b) ......................................................... the owner (or occupier) of (c) ....................................... location No. ................... hereby apply for a permit to burn (d) .............................................../the refuse of (d) ................................................. to the extent specified hereunder on the days specified hereunder —
+I, (a)................................................... of (b)......................................................... the owner (or occupier) of (c)....................................... location No.................... hereby apply for a permit to burn (d).............................................../the refuse of (d)................................................. to the extent specified hereunder on the days specified hereunder —
 DayExtent of Burning Proposed
 ..............................., 20..........................................................................
 ..............................., 20..........................................................................
@@ -228,13 +228,13 @@ Bush Fires Act 1954
 Regulation 36A
 Permit No...........................
 PERMIT TO BURN DECLARED PLANTS/THE REFUSE OF DECLARED PLANTS DURING A PROHIBITED BURNING TIME
-I, (a) ....................................................... of (b) ..................................................... the chief executive officer of the ......................................... or a duly authorised officer within the meaning of the regulations made under and for the purposes of the Bush Fires Act 1954, hereby grant authority to (c) ..................................... of (d) ................................... the owner (or occupier) of (e) ................................. location No. ........ to burn (f) ..................................... / the refuse of (f) .............. ....................... on the said location to the extent specified hereunder on the days specified hereunder —
+I, (a)....................................................... of (b)..................................................... the chief executive officer of the......................................... or a duly authorised officer within the meaning of the regulations made under and for the purposes of the Bush Fires Act 1954, hereby grant authority to (c)..................................... of (d)................................... the owner (or occupier) of (e)................................. location No......... to burn (f)..................................... / the refuse of (f)..................................... on the said location to the extent specified hereunder on the days specified hereunder —
 DayExtent of Burning Proposed
 ..............................., 20..........................................................................
 ..............................., 20..........................................................................
 ..............................., 20..........................................................................
 subject however to the provisions of that Act and those regulations and to the due observance and performance of the requirements and directions endorsed on this permit.
-Given under my hand at ................... this ........... day of ....................., 20 .........
+Given under my hand at................... this........... day of....................., 20.........
 .......................................................
 Chief executive officer of the
 .......................................................
@@ -248,16 +248,16 @@ Western Australia
 Bush Fires Act 1954
 Regulation 41
 REGISTER OF BUSH FIRE BRIGADES
-Registration Date .............................
-Shire/Town/City of .......................................
+Registration Date.............................
+Shire/Town/City of.......................................
 ...................................................Bush Fire Brigade.
-Captain ...................................................
+Captain...................................................
 Lieutenants1. .....................................
 2. .....................................
 3. .....................................
 4. .....................................
 5. .....................................
-Secretary .............................................
-Signature ...................................................
+Secretary.............................................
+Signature...................................................
 Chief executive officer.
 [Form 12 inserted: Gazette 10 Mar 1978 p. 711; amended: Gazette 22 Dec 1998 p. 6859.]
