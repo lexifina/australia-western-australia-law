@@ -38,23 +38,52 @@ Reprint 6: The Bush Fires Regulations 1954 as at 6 Jul 2012 (includes amendments
 Bush Fires Amendment Regulations 2012 | 31 Oct 2012 p. 5251-2 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Bush Fires Amendment Regulations 2013 | 5 Feb 2013 p. 834-5 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
 Bush Fires Amendment Regulations 2014 | 8 Jan 2015 p. 109 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Bush Fires Amendment Regulations 2019 | 5 Nov 2019 p. 3879-98 | r. 1 and 2: 5 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2019 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this reprint do not form part of the written law (see Interpretation Act 1984 s. 32).
+The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this compilation do not form part of the written law (see Interpretation Act 1984 s. 32).
 Now known as the Bush Fires Regulations 1954; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+approved fire extinguisher24AA
+approved fire hose24AA
+approved pump24AA
 authorised officer16, 24
 bee smoker device39CA(1)
+bituminising equipment24AA
+blasting24AA
 bush fire officer45A(1), 45B(1)
-engine, vehicle, plant, equipment or machinery24A(1)
+CALM Act24AA
+CALM Act land24AA
+catering activity24AA
+catering site24AA
+current fire danger forecast24T(1)
+engine, vehicle, plant, equipment or machinery24AA
+essential service24AA
 Executive Body45(1)
+fire danger forecast24AA
+fire detection officer24J(1), 24U(1), 24ZG(1)
 fire extinguisher3
+fire fighting officers24U(3)
+fire fighting vehicle24AA
+fireworks activity24AA
+fireworks site24AA
+gas flaring24AA
+grading equipment24AA
+hot work24AA
 notifiable authority3
+off-road activity24AA
+off-road site24AA
 permit holder15B(1)
 prescribed period39CA(1)
-road24A(1)
+public authority24AA
+road24AA
+road site24AA
+road site fire fighting vehicles24ZE(3)
+road work24AA
 subject land3
 take control45A(1), 45B(1)
 unallocated Crown land45(1)
+urgent works24AA
 volunteer fire fighter40(1)
+work site24AA
