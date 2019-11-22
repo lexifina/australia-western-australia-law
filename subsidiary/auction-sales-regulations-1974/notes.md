@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Auction Sales Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation as at 22 November 2019 of the Auction Sales Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Auction Sales Act Regulations 1974 | 13 Sep 1974 p. 3426-38 | 13 Sep 1974
@@ -13,7 +13,7 @@ Auction Sales Amendment Regulations 1990 | 1 Aug 1990 p. 3658 | 1 Aug 1990
 Auction Sales Amendment Regulations 1991 | 13 Dec 1991 p. 6156 | 13 Dec 1991
 Auction Sales Amendment Regulations 1992 | 14 Aug 1992 p. 4016-17 | 14 Aug 1992
 Reprint of the Auction Sales Regulations 1974 as at 8 Sep 2000 (includes amendments listed above)
-Auction Sales Amendment Regulations 2013 | 5 Feb 2013 p. 832-3 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i)) and Gazette 5 Feb 2013 p. 823)
+Auction Sales Amendment Regulations 2013 | 5 Feb 2013 p. 832-3 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
 Auction Sales Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2661-2 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Auction Sales Amendment Regulations 2014 | 17 Jun 2014 p. 1956 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Reprint 2: The Auction Sales Regulations 1974 as at 7 Nov 2014 (includes amendments listed above)
@@ -23,6 +23,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Ju
 Licensing Provisions Regulations Amendment Regulations 2017 Pt. 2 | 27 Jun 2017 p. 3408-16 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Reprint 3: The Auction Sales Regulations 1974 as at 22 Nov 2019 (includes amendments listed above)
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
