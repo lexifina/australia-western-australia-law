@@ -3,12 +3,15 @@
 ## Division 1 — Calculating the total cost of entry
 [Heading amended: Gazette 4 Oct 2017 p. 5145.]
 The unit cost of entering a Monday Lotto or a Wednesday Lotto draw, is made up of a subscription of 55 cents per game and an agent’s component.
-The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
 where —
 GNo. of games entered in a draw;
+AAgent’s component of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple, being:
+Monday Lotto:0.1
+Wednesday Lotto:0.09
 WNo. of weeks the entry spans;
 TTotal agent’s component cost payable by the subscriber.
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
+[Division 1 amended: Gazette 12 Nov 2019 p. 4019.]
 ## Division 2 — System entries and game equivalents
 Monday and Wednesday Lotto
 System | No. of games per game board
@@ -29,7 +32,8 @@ System | No. of games per game board
 19 | 27 132
 20 | 38 760
 ## Division 3 — Summary of parameters within which Monday and Wednesday Lotto is conducted
-Unit cost for a Monday Lotto draw or a Wednesday Lotto draw | $0.55 (+ a 9% agent’s component)
+ | Unit cost for a Monday Lotto draw | $0.55 (+ a 10% agent’s component)
+ | Unit cost for a Wednesday Lotto draw | $0.55 (+ a 9% agent’s component)
 Prize fund — % of subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 33.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 27.0%)
@@ -49,4 +53,4 @@ Syndicate entries may be purchased (if available) | (see Part 2 Division 3)
 System entries per oral request | Up to 50
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
-[Division 3 amended: Gazette 4 Oct 2017 p. 5146.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5146; 12 Nov 2019 p. 4019.]
