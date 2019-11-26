@@ -2,13 +2,13 @@
 [r. 4, 73, 75 and 76]
 ## Division 1 — Calculating the total cost of entry
 The unit cost of entering the OZ Lotto draw is made up of a subscription of $1.20 cents per game and an agent’s component.
-The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
+The agent’s component is calculated as 10% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
 where —
 GNo. of games entered in a draw;
 WNo. of weeks the entry spans;
 TTotal agent’s component cost payable by the subscriber.
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
-[Division 1 amended: Gazette 4 Oct 2017 p. 5146.]
+[Division 1 amended: Gazette 4 Oct 2017 p. 5146; 12 Nov 2019 p. 4020.]
 ## Division 2 — System entries and game equivalents
 OZ Lotto
 System | No. of games per game board
@@ -28,7 +28,7 @@ System | No. of games per game board
 18 | 31 824
 19 | 50 388
 ## Division 3 — Summary of parameters within which OZ Lotto is conducted
-Unit cost for the OZ Lotto draw | $1.20 (+ a 9% agent’s component)
+Unit cost for the OZ Lotto draw | $1.20 (+ a 10% agent’s component)
 Prize fund — % subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 55.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 5.0%)
@@ -55,4 +55,4 @@ Syndicate entries may be purchased (if available) | (see Part 2 Division 3)
 System entries per oral request | Up to 50
 Prize payment period | 12 months
 Maximum aggregate entry cost | $100 000
-[Division 3 amended: Gazette 4 Oct 2017 p. 5147.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5147; 12 Nov 2019 p. 4020.]
