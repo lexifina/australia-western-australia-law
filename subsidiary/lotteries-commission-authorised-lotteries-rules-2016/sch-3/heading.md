@@ -7,7 +7,7 @@ where —
 GNo. of games entered in a draw;
 AAgent’s component of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple, being:
 Monday Lotto:0.1
-Wednesday Lotto:0.09
+Wednesday Lotto:0.1
 WNo. of weeks the entry spans;
 TTotal agent’s component cost payable by the subscriber.
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
@@ -33,7 +33,7 @@ System | No. of games per game board
 20 | 38 760
 ## Division 3 — Summary of parameters within which Monday and Wednesday Lotto is conducted
  | Unit cost for a Monday Lotto draw | $0.55 (+ a 10% agent’s component)
- | Unit cost for a Wednesday Lotto draw | $0.55 (+ a 9% agent’s component)
+ | Unit cost for a Wednesday Lotto draw | $0.55 (+ a 10% agent’s component)
 Prize fund — % of subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 33.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 27.0%)
