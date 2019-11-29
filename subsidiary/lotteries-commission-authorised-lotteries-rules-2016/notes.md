@@ -6,20 +6,7 @@ Lotteries Commission (Authorised Lotteries) Rules 2016 | 7 Oct 2016 p. 4405-527 
 Lotteries Commission (Authorised Lotteries) Amendment Rules 2017 | 4 Oct 2017 p. 5107-51 | r. 1 and 2: 4 Oct 2017 (see r. 2(a)); Rules other than r. 1 and 2: 5 Oct 2017 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) (Multiple Games) Amendment Rules 2018 | 9 Feb 2018 p. 405-6 | r. 1 and 2: 9 Feb 2018 (see r. 2(a)); Rules other than r. 1 and 2: 10 Feb 2018 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) (Powerball) Amendment Rules 2018 | 10 Apr 2018 p. 1249-53 | r. 1 and 2: 10 Apr 2018 (see r. 2(a)); Rules other than r. 1 and 2: 11 Apr 2018 (see r. 2(b))
-Lotteries Commission (Authorised Lotteries) Amendment Rules 2019 r. 1-7 | 12 Nov 2019 p. 4019-20 | r. 1-3: 12 Nov 2019 (see r. 2(a)); r. 6: immediately after the Powerball draw on 21 Nov 2019 (see r. 2(e)); r. 7: immediately after the Saturday Lotto draw on 23 Nov 2019 (see r. 2(f)) r. 4(1) and (3): immediately after the Monday Lotto draw on 25 Nov 2019 (see r. 2(b)); r. 5: immediately after the OZ Lotto draw on 26 Nov 2019 (see r. 2(d)); r. 4(2) and (4): immediately after the Wednesday Lotto draw on 27 Nov 2019 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Lotteries Commission (Authorised Lotteries) Amendment Rules 2019 r. 8 | 12 Nov 2019 p. 4019-20 | r. 8: immediately after the Set for Life draw on 29 Nov 2019 (see r. 2(g))
-On the date as at which this compilation was prepared, the Lotteries Commission (Authorised Lotteries) Amendment Rules 2019 r. 8 had not come into operation. It reads as follows:
-8.Schedule 7 amended
-(1) In Schedule 7 Division 1—
-(a) delete “9%” and insert—
-10%
-(b) delete “.09” and insert—
-0.1
-(2) In Schedule 7 Division 3 in the line beginning “Unit cost” delete “9%” and insert—
-10%
+Lotteries Commission (Authorised Lotteries) Amendment Rules 2019 | 12 Nov 2019 p. 4019-20 | r. 1-3: 12 Nov 2019 (see r. 2(a)); r. 6: immediately after the Powerball draw on 21 Nov 2019 (see r. 2(e)); r. 7: immediately after the Saturday Lotto draw on 23 Nov 2019 (see r. 2(f)) r. 4(1) and (3): immediately after the Monday Lotto draw on 25 Nov 2019 (see r. 2(b)); r. 5: immediately after the OZ Lotto draw on 26 Nov 2019 (see r. 2(d)); r. 4(2) and (4): immediately after the Wednesday Lotto draw on 27 Nov 2019 (see r. 2(c)) r. 8: immediately after the Set for Life draw on 29 Nov 2019 (see r. 2(g))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -5,13 +5,14 @@
 Unit cost
 The unit cost of entering a Set for Life draw is made up of a subscription of 55 cents per SET and an agent’s component.
 Agent’s Component
-The agent’s component is calculated as 9% of the total subscription amount for a particular 7 consecutive day entry, rounded* (where necessary) to the nearest 5 cent multiple.
+The agent’s component is calculated as 10% of the total subscription amount for a particular 7 consecutive day entry, rounded* (where necessary) to the nearest 5 cent multiple.
 where —
 GNo. of SETs entered in a draw;
 D7 consecutive days entered per SET;
 WNo. of weeks the entry spans;
 TTotal agent’s component cost payable by the subscriber.
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
+[Division 1 amended: Gazette 12 Nov 2019 p. 4020.]
 ## Division 2 — System entries and game equivalents
 Set for Life
 System | No. of SETs per SET board*
@@ -28,7 +29,7 @@ System | No. of SETs per SET board*
 16 | 12 870
 * Entries, including system entries, must be entered for a minimum of 7 consecutive days.
 ## Division 3 — Summary of parameters within which Set for Life is conducted
-Unit cost for a Set for Life draw | $0.55 (+ a 9% agent’s component)
+Unit cost for a Set for Life draw | $0.55 (+ a 10% agent’s component)
 Prize fund — % of subscriptions | 63.25%
 Prize pool — % of subscriptions | no less than 38.645% (up to 40.0%)
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (no less than 23.25%)
@@ -48,4 +49,4 @@ System entries per oral request | Up to 50
 QuickSET entries per oral request | 2 to 50
 Prize claim period | 12 months
 Maximum aggregate entry cost | $100 000
-[Division 3 amended: Gazette 4 Oct 2017 p. 5149.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5149; 12 Nov 2019 p. 4020.]
