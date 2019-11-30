@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Home Building Contracts Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Home Building Contracts Act 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Home Building Contracts Act 1991 | 61 of 1991 | 30 Dec 1991 | s. 1 and 2: 30 Dec 1991; Act other than s. 1 and 2: 4 Apr 1992 (see s. 2 and Gazette 3 Apr 1992 p. 1461)
@@ -26,11 +26,12 @@ Building Act 2011 s. 163 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 Statutes (Repeals and Minor Amendments) Act 2011 s. 22 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 4: The Home Building Contracts Act 1991 as at 25 May 2012 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 s. 217 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Consumer Protection Legislation Amendment Act 2019 Pt. 6 | 25 of 2019 | 24 Oct 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov. 2019 p. 4101)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Community Titles Act 2018 Pt. 14 Div. 10 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Consumer Protection Legislation Amendment Act 2019 Pt. 6 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 10 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Other notes
 The amendment in the Caravan Parks and Camping Grounds Act 1995 Sch. 2 it. 3 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 26(3).
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 59.References to Committee in other written laws
@@ -38,45 +39,6 @@ A reference in any written law to the Building Disputes Committee constituted un
 62.Review
 (1) The Minister is to carry out a review of the operation and effectiveness of the amendments made by this Act as soon as is practicable after the expiration of 3 years from the commencement of section 1 of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and, as soon as is practicable after the report is prepared, is to cause it to be laid before each House of Parliament.
-On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 10 had not come into operation. It reads as follows:
-Part 14 — Other Acts amended
-Division 10 — Home Building Contracts Act 1991 amended
-213.Act amended
-This Division amends the Home Building Contracts Act 1991.
-214.Section 3 amended
-(1) In section 3(1) delete the definition of strata-titled dwelling.
-(2) In section 3(1) insert in alphabetical order:
-strata/community title dwelling means a building or part of a building, occupied or intended for occupation solely or mainly as a place of residence, that is erected on a lot within the meaning of the Community Titles Act 2018 or the Strata Titles Act 1985;
-(3) In section 3(1) in the definition of home building work delete “strata-titled dwelling” (each occurrence) and insert:
-strata/community title dwelling
-On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Home Building Contracts Act 1991 amended
-30.Act amended
-This Part amends the Home Building Contracts Act 1991.
-31.Section 25B amended
-After section 25B(4) insert:
-(4A) This Division does not apply to residential building work if —
-(a) a building permit under the Building Act 2011 is not required for the work; or
-(b) if a building permit is required for the work — the work is not, or is not part of, a prescribed building service under the Building Services (Registration) Act 2011 section 3.
-32.Section 25D amended
-(1) Before section 25D(1) insert:
-(1A) In this section —
-relevant circumstance, in relation to a builder, means —
-(a)if the builder is an individual — the builder —
-(i)has died; or
-(ii)after due search and enquiry, cannot be found in Australia;
-or
-(b)if the builder is not an individual — the builder ceased to exist; or
-(c)the builder is insolvent; or
-(d)if the builder is a building service contractor under the Building Services (Registration) Act 2011 — the builder’s registration as a building service contractor was cancelled or not renewed because the builder did not satisfy the financial requirements (if any) prescribed by the regulations under section 18(1)(b) of that Act.
-(2) In section 25D(1):
-(a) delete paragraph (a) and insert:
-(a) in the case of residential building work to be performed by a builder on behalf of another person, other than a developer, under a residential building work contract, it insures that person and that person’s successors in title against the following losses occurring because a relevant circumstance exists in relation to the builder —
-(i) loss of an amount paid by way of deposit under the residential building work contract, up to a limit of $20 000 or another prescribed limit;
-(ii) loss, other than indirect, incidental or consequential loss, resulting from non-completion of the residential building work;
-and
-(b) in paragraph (b) delete “by reason of the insolvency or death of the builder or by reason of the fact that, after due search and enquiry, the builder cannot be found; and” and insert:
-because a relevant circumstance exists in relation to the builder; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -112,6 +74,7 @@ perform3(1)
 practical completion11(2)
 prescribed3(1)
 purchaser25L(1)
+relevant circumstance25D(1A)
 repealed Act3(1)
 rescind25A
 residential building work25A

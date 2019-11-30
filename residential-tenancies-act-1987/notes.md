@@ -36,12 +36,13 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 12 | 23 of 2014 | 9 Oct 2
 Reprint 6: The Residential Tenancies Act 1987 as at 6 Feb 2015 (includes amendments listed above)
 Residential Tenancies Amendment Act 2016 | 42 of 2016 | 1 Dec 2016 | s. 1 and 2: 1 Dec 2016 (see s. 2(a)); Act other than s. 1 and 2: 3 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551-2)
 Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 2 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
+Consumer Protection Legislation Amendment Act 2019 s. 67 | 25 of 2019 | 24 Oct 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4101)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Strata Titles Amendment Act 2018 Pt. 3 Div 18 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 18 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Consumer Protection Legislation Amendment Act 2019 Pt. 9 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2019 Pt. 9 (other than s. 67) | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -68,7 +69,7 @@ This Division amends the Residential Tenancies Act 1987.
 237.Section 48 amended
 Delete section 48(2) and insert:
 (2) It is a term of every residential tenancy agreement that contributions payable to a community corporation under the Community Titles Act 2018 or a strata company under the Strata Titles Act 1985 cannot be passed on to a tenant.
-On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 9 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 9 (other than s. 67) had not come into operation. It reads as follows:
 Part 9 — Residential Tenancies Act 1987 amended
 63.Act amended
 This Part amends the Residential Tenancies Act 1987.
@@ -95,39 +96,6 @@ mentioned in subsection (2)(a)
 66.Section 38 amended
 In section 38(1)(c) delete “premises.” and insert:
 premises or, where relevant, a common area or chattels in the common area.
-67.Section 47 amended
-(1) Before section 47(1) insert:
-(1A) In this section —
-disability means a disability —
-(a)which is attributable to an intellectual, psychiatric, cognitive, neurological, sensory, or physical impairment or a combination of those impairments; and
-(b)which is permanent or likely to be permanent; and
-(c)which may or may not be of a chronic or episodic nature; and
-(d)which results in a substantially reduced capacity of the person for communication, social interaction, learning or mobility.
-(2) In section 47(1) delete “subsection (4),” and insert:
-subsections (2A) and (4),
-(3) After section 47(2) insert:
-(2A) It is a term of every residential tenancy agreement that —
-(a) a tenant may affix either or both of the following items to a wall of premises the subject of the agreement for the purpose of ensuring the safety of a child or a person with a disability, but only with the lessor’s consent —
-(i) furniture;
-(ii) a thing to affix the furniture to the wall;
-and
-(b) the lessor may only refuse consent —
-(i) if affixing the item to the wall would disturb material containing asbestos; or
-(ii) if the premises are entered in the Register of Heritage Places compiled under the Heritage of Western Australia Act 1990 section 46; or
-(iii) if the premises is a lot in a scheme under the Strata Titles Act 1985, the by-laws for the scheme prohibit affixing the item to the wall of the premises; or
-(iv) for a prescribed reason;
-and
-(c) unless the lessor agrees otherwise in writing, the tenant must remove the item from the wall when the tenant vacates the premises and either —
-(i) restore the wall to its original condition; or
-(ii) compensate the lessor for any reasonable expenses incurred by the lessor in doing that restoration;
-and
-(d) the cost of affixing the item to the wall, removing it and restoring the wall to its original condition must be borne by the tenant; and
-(e) if the tenant causes damage to the premises when affixing or removing the item or restoring the wall to its original condition —
-(i) the tenant must notify the lessor in writing that damage has been caused to the premises; and
-(ii) the lessor may require the tenant to repair the damage and restore the premises to their original condition or compensate the lessor for the reasonable expenses incurred in doing the repair and restoration.
-(2B) The lessor is taken to have consented to affixing the furniture or thing to the wall of the premises under subsection (2A)(a) if, and only if —
-(a) the tenant has given the lessor a request, in a form approved by the Commissioner, seeking the lessor’s consent to affix the item to the wall; and
-(b) the lessor has not refused consent under subsection (2A)(b) within 14 days after the day on which the lessor receives the request.
 68.Section 49A amended
 (1) In section 49A(1) insert in alphabetical order:
 consumption, in relation to a public utility service, means consumption of the utility that is calculated by metered unit;
@@ -202,6 +170,7 @@ database82A
 database operator82A
 Department3
 DVO71AA
+disability47(1A)
 excluded tenant71AE(1)
 executive officer7A(3)
 existing agreement71H
