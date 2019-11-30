@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Industrial Relations Act 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industrial Arbitration Act 1979 | 114 of 1979 | 21 Dec 1979 | 1 Mar 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
@@ -52,7 +52,7 @@ Police Amendment Act 2003 s. 10 | 7 of 2003 | 27 Mar 2003 | 27 Aug 2003 (see s. 
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 12 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Acts Amendment (Equality of Status) Act 2003 Pt. 31 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Public Transport Authority Act 2003 s. 147 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
-Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 4 published by Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
+Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 4 published: Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 41 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 68 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 9: The Industrial Relations Act 1979 as at 18 Jun 2004 (includes amendments listed above)
@@ -95,24 +95,19 @@ Statutes (Repeals) Act 2016 Pt. 2 Div 3 and Pt. 3 Div. 2 | 50 of 2016 | 28 Nov 2
 Reprint 15: The Industrial Relations Act 1979 as at 3 Nov 2017 (includes amendments listed above)
 Industrial Relations Amendment Act 2018 Pt. 2 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Reprint 16: The Industrial Relations Act 1979 as at 30 Aug 2019 (includes amendments listed above)
-On the date as at which this consolidation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this consolidation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Police Amendment (Medical Retirement) Act 2019 Pt. 3 | 19 of 2019 | 15 Aug 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4133)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Police Amendment (Medical Retirement) Act 2019 Pt. 3 | 19 of 2019 | 15 Aug 2019 | To be proclaimed (see s. 2(b))
+Other notes
+Footnote no longer applicable.
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 (Cwlth). Now see the Fisheries Management Act 1991 s. 4(1) (Cwlth).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 (Cwlth).
 Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see the Fair Work Act 2009 (Cwlth).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this consolidation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-...................... | ........
-Industrial Relations Act 1979 | s. 20(8), (8a), (8b), (8c), (8d)
-Section 20(8c) and (8d) of this Act were deleted by the Industrial Relations Amendment Act 2018 s. 19(3).
+Footnote no longer applicable.
 Deleted by the Public Sector Reform Act 2010 s. 57.
 Now known as the Industrial Relations Act 1979; short title changed (see note under s. 1).
 The Industrial Relations Amendment Act 1990 s. 14 was deleted before it came into operation by the Industrial Legislation Amendment Act 1995 s. 35.
@@ -121,22 +116,15 @@ The Acts Amendment (Parliamentary, Electorate and Gubernatorial Staff) Act 1992 
 The Industrial Relations Amendment Act 1993 s. 15(2) is a transitional provision that is spent. Section 18 of that Act contains savings provisions relating to the Long Service Leave General Order.
 The Hospitals Amendment Act 1994 the Table to s. 18 it. 11 fourth paragraph was deleted before it came into operation by the Industrial Legislation Amendment and Repeal Act 1995 s. 36(4).
 The Industrial Legislation Amendment Act 1995 contains transitional and other provisions —
-(a) in Part 2 Div. 3, relating to the Government School Teachers Tribunal;
-(b) in s. 34, relating to the Promotions Appeal Board; and
-(c) in s. 42, relating to dismissals occurring before the commencement of that section.
+(a)in Part 2 Div. 3, relating to the Government School Teachers Tribunal;
+(b)in s. 34, relating to the Promotions Appeal Board; and
+(c)in s. 42, relating to dismissals occurring before the commencement of that section.
 The Industrial Relations Legislation Amendment and Repeal Act 1995 s. 12 and 13 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation.
 The Vocational Education and Training Act 1996 Sch. 2 had not come into operation when it was deleted by the Training Legislation Amendment and Repeal Act 2008 s. 48.
 Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints are numbered consecutively but are out by one number.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2).
 The Labour Relations Legislation Amendment Act 2006 s. 22 contains transitional provisions.
-On the date as at which this consolidation was prepared the Police Amendment (Medical Retirement) Act 2019 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Industrial Relations Act 1979 amended
-8.Act amended
-This Part amends the Industrial Relations Act 1979.
-9.Section 113 amended
-In section 113(1)(d)(i) after “33P” insert:
-or 33ZI
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
