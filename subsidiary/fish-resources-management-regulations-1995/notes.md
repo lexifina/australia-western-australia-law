@@ -1,7 +1,7 @@
 Notes
 This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
 Fish Resources Management Amendment Regulations 1995 | 22 Dec 1995 p. 6169 | 22 Dec 1995
 Fish Resources Management Amendment Regulations 1996 | 30 Aug 1996 p. 4318-21 | 30 Aug 1996
@@ -198,6 +198,7 @@ Fish Resources Management Amendment Regulations (No. 2) 2017 | 1 Sep 2017 p. 465
 Fish Resources Management Amendment Regulations (No. 3) 2017 | 27 Oct 2017 p. 5416 | r. 1 and 2: 27 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2017 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2379-82 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2019 | 4 Oct 2019 p. 3527-611 | r. 1 and 2: 4 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2019 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 3) 2019 | 29 Nov 2019 p. 4101-5 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b))
 Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -238,6 +239,7 @@ certificate of health144A(1)
 charter boat3(1)
 chlorine tarping110(2)
 closed season38G, 45(1)
+commencement point3(1)
 commercial fishing licence3(1)
 commercial fishing licence receipt123A(1)
 commercial premises64AA(1)
@@ -280,6 +282,7 @@ Gascoyne Region3(1)
 GDA152(1)
 gear identification float22A
 gear identification number3(1)
+Geographe Bay and Inland Waters3(1)
 ground64I(2)
 GRS80152(2)
 hatchery144A(1)
@@ -365,6 +368,7 @@ store22(5)
 structure87
 sunrise3(1)
 sunset3(1)
+Swan and Canning Rivers3(1)
 tail clip31(1)
 tail punch31(1)
 tarspotSch. 2
