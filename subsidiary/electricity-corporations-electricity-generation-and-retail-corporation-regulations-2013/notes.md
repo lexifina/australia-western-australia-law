@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Electricity Corporations (Electricity Generation and Retail Corporation) Regulations 2013 | 27 Dec 2013 p. 6487-523 | r. 1 and 2: 27 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b) and Gazette 27 Dec 2013 p. 6465)
 Electricity Corporations (Electricity Generation and Retail Corporation) Amendment Regulations 2014 | 3 Jun 2014 p. 1742 | r. 1 and 2: 3 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jun 2014 (see r. 2(b))
+Electricity Corporations (Electricity Generation and Retail Corporation) Amendment Regulations 2019 | 13 Dec 2019 p. 4229-30 | r. 1 and 2: 13 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
