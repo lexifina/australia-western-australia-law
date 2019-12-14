@@ -147,6 +147,7 @@ Liquor Control Amendment Regulations (No. 3) 2018 | 2 Oct 2018 p. 3798-802 | r. 
 Liquor Control (Wakathuni Restricted Area) Regulations 2019 Pt. 5 | 14 Jun 2019 p. 1898-900 | 15 Jun 2019 (see r. 2(b))
 Liquor Control Amendment Regulations 2019 | 28 Jun 2019 p. 2491-2 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Liquor Control Amendment Regulations (No. 2) 2019 | 1 Nov 2019 p. 3858-9 | r. 1 and 2: 1 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Nov 2019 (see r. 2(b) and Gazette 1 Nov 2019 p. 3857)
+Liquor Control (Jarlmadangah Burru Restricted Area) Regulations 2019 Pt. 5 | 13 Dec 2019 p. 4241-3 | 14 Dec 2019 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
