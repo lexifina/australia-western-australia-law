@@ -147,6 +147,7 @@ Mining Amendment Regulations (No. 3) 2018 | 18 Sep 2018 p. 3516-18 | r. 1 and 2:
 Reprint 12: The Mining Regulations 1981 as at 16 Nov 2018 (includes amendments listed above)
 Mining Amendment Regulations (No. 3) 2019 | 24 May 2019 p. 1493-4 | r. 1 and 2: 24 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mining Amendment Regulations 2019 | 13 Dec 2019 p. 4231-40 | r. 1 and 2: 13 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Dec 2019 (see r. 2(b))
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Mining Amendment Act 1993 s. 28 commenced 1 Jul 1994.
@@ -176,7 +177,7 @@ allowed period84B(1)
 Amount A86(2a)
 Amount B86(2a)
 another tenementSch. 3 cl. 7(5)
-application70BA(1), 70BB(1), 70BC(1), 70BD(1)
+application70A(1), 70BA(1), 70BB(1), 70BC(1), 70BD(1)
 approved surveyor116
 Australian Geodetic DatumSch. 3 cl. 1(1)
 beneficiation plant86AC(1)
@@ -294,5 +295,6 @@ sold85(1)
 summons125(1a)
 supply85AA(5)
 tenement116
+term2
 treatment facility86AA(11)
 working day2
