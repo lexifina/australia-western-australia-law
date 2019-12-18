@@ -1,33 +1,89 @@
 Notes
-This is a compilation of the Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019. The following table contains information about those regulations.
+This is a compilation of the Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 | 18 Apr 2019 p. 1177-205 | r. 1 and 2: 18 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Apr 2019 (see r. 2(b) and Gazette 18 Apr 2019 p. 1157)
+Waste Avoidance and Resource Recovery (Container Deposit Scheme) Amendment Regulations 2019 | 17 Dec 2019 4279-358 | r. 1 and 2: 17 Dec 2019 (see r. 2(a)) Regulations other than r. 1 and 2: 18 Dec 2019 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-alternative action29(4)
+alternative action3S(4), 3T(1), 29(4)
 annual report15(1)
+approved beverage product3(1A)
+approved recycler9(1)
+approved sampling plan4ZC
+approved scheme agreement template4M
+approved supply amounts calculation methodology4S
+bale3(1)
+beverage product class3F(2)
+bottle crushing machine3(1)
+bottle crushing machine operator4ZL(1)
+bottle crushing service business3(1)
+bulk claim arrangement4E(1)
+bulk quantity4E(1)
+business day3(1)
 business plan3(1)
 civil penalty33
 civil penalty order33
 civil penalty provision33
 collection network3(1)
+common transaction platform3(1), 9A
 container recovery rate3(1)
+contaminated container4C(1), 4G(1)
+contract bottler3E(1)
+contract counterparty3E(1)
+cordial3A(1)
+counterparty4M, 4V(1), 4W(1), 4ZA
 court33
+damaged container4C(1)
 direction21
+eligible container factor4ZH
+equivalent approval3F(1)
 executive officer3(1)
+export rebate protocol4X, 4Y(1)
+fermented milk product3A(1)
+first supplier agreement3E(2)
+flavoured milk3A(1), 3B(1)
+flavouring3A(1), 3B(1)
+growler3B(1)
+GS1 Standard3H(1)
+GTIN barcode3H(1)
+incoming Coordinator20, 32B(1)
 initial period16(1)
-Minimum Network Standards Code12(1)
+local government sharing protocol4ZM(1), 4ZN(1)
+milk3A(1)
+Minimum Network Standards12(1)
 minor beverage supplier3(1)
 monthly report17(1)
+outgoing Coordinator32B(1)
 performance target3(1)
 preliminary year10(1)
-proposed action29(1)
+processed disposal3C(1)
+proposed action3S(1), 3T(1), 29(1)
+proposed auditor4ZP(2)
 quarter16(1)
 quarterly report16(2)
+recovery amount payments4ZM(1)
+recovery amount protocol4ZC, 4ZH, 4ZI(1)
+refund declaration4E(3)
+registered health tonic3A(1)
+relevant approved scheme agreement template4Q(1)
+relevant beverage product3(1)
+relevant local government4ZM(2)
+relevant matter40(2)
+relevant recovery amount protocol4ZJ(2)
 Reporting Code3(1)
 requested action28(1)
+reverse vending machine3(1)
 scheme participant3(1)
-submission period25(2), 29(2), 30(4)
+sealable aluminium can3B(1)
+specified counterparty7A(1)
+spirituous liquor3B(2)
+submission period3S(3), 25(2), 29(2), 30(4), 40(2)
+third party operator4ZM(3)
+transition day41(1)
+transition out plan32A(1)
 website annual report18(1)
+whole container4C(1)
+wine3B(3)
+wine-based beverage3B(1)
