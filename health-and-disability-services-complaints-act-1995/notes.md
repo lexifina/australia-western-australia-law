@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health and Disability Services (Complaints) Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health and Disability Services (Complaints) Act 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Health Services (Conciliation and Review) Act 1995 | 75 of 1995 | 9 Jan 1996 | s. 1 and 2: 9 Jan 1996; Act other than s. 1 and 2, Pt. 3 and 4 and Sch. 1: 16 Aug 1996 (see s. 2 and Gazette 16 Aug 1996 p. 4007); Pt. 3 and 4 and Sch. 1: 16 Sep 1996 (see s. 2 and Gazette 16 Sep 1996 p. 4683)
@@ -37,10 +37,12 @@ Reprint 4: The Health and Disability Services (Complaints) Act 1995 as at 7 Jan 
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 13 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Health Services Act 2016 s. 292 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 112 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 4 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
+Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Health and Disability Services (Complaints) Act 1995; short title changed (see note under s. 1).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -52,14 +54,6 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. The relevant part of it reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-.............................................. | ................
-Health Services (Conciliation and Review) Act 1995 | Sch. 2, cl. 3
-.............................................. | ................
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
