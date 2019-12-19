@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Constitution Acts Amendment Act 1899 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
@@ -298,13 +298,16 @@ Heritage Act 2018 s. 184 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) an
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 1 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Industrial Relations Amendment Act 2018 s. 67 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
  | Infrastructure Western Australia Act 2019 s. 74 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
-Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+ | Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
+ | Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
+ | Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+ | TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+ | Voluntary Assisted Dying Act 2019 Pt. 12 Div. 1 | 27 of 2019 | 19 Dec 2019 | To be proclaimed (see s. 2(b))
+Other notes
+Footnote no longer applicable.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -388,32 +391,6 @@ The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as f
 by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-7.3Consequential amendments
-Schedule 2 has effect.
-Schedule 2 Div. 2 reads as follows:
-Division 2 — Constitution Acts Amendment Act 1899
-4.Schedule V amended
-Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amended by inserting after the item relating to the Western Australian Gas Disputes Arbitrator —
-“
-Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
-”.
-On the date as at which this compilation was prepared, the Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 had not come into operation. It reads as follows:
-14.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 delete the item relating to the Potato Marketing Corporation of Western Australia.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Aquatic Resources Management Act 2016 s. 364 had not come into operation. It reads as follows:
-364.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 delete “Any advisory committee established or continued in existence under Part 4 of the Fish Resources Management Act 1994.” and insert:
-Any advisory committee established under the Aquatic Resources Management Act 2016 section 224(1).
-On the date as at which this compilation was prepared the TAB (Disposal) Act 2019 s. 146 had not come into operation. It reads as follows:
-146.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 in the item relating to the board of Racing and Wagering Western Australia:
-(a) delete “and Wagering”;
-(b) delete “and Wagering”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
