@@ -1,44 +1,16 @@
 Notes
-This is a compilation of the Medicines and Poisons Act 2014 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Medicines and Poisons Act 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 (other than s. 14(2)) | 13 of 2014 | 2 Jul 2014 | s. 1 and 2: 2 Jul 2014 (see s. 2(a)); Act other than s. 1, 2 and 14(2): 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 20 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 23 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 14(2) | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 14 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 14(2) had not come into operation. It reads as follows:
-14.Offences relating to manufacture, supply, prescribing and possession of Schedule 4 and Schedule 8 poisons
-(2) A person authorised under an appropriate licence or a professional authority to supply a Schedule 4 or 8 poison (an authorised supplier) who supplies a Schedule 4 or 8 poison commits an offence unless —
-(a) the supply is to a person (the patient) and —
-(i) the poison had been prescribed for the patient by a prescriber; and
-(ii) the authorised supplier reasonably believes that the patient will use the poison in accordance with the instructions of the prescriber;
-or
-(b) the supply is to a person (the agent) and —
-(i) the authorised supplier supplies the poison to the agent for the purpose of it being supplied or administered to another person or to an animal (the patient); and
-(ii) the poison had been prescribed for the patient by a prescriber; and
-(iii) the authorised supplier reasonably believes that the poison will be supplied or administered to the patient in accordance with the instructions of the prescriber.
-Penalty: see section 115.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 14 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 14 — Medicines and Poisons Act 2014 amended
-306.Act amended
-This Division amends the Medicines and Poisons Act 2014.
-307.Section 16 amended
-(1) Before section 16(1) insert:
-(1A) In this section —
-Agvet Code of Western Australia has the meaning given in the Agricultural and Veterinary Chemicals (Western Australia) Act 1995 section 3;
-pesticide means an agricultural chemical product as defined in the Agvet Code of Western Australia.
-(2) Delete section 16(2)(b) and insert:
-(b) the Schedule 7 poison is a pesticide and —
-(i) the person is authorised under the Public Health Act 2016 to use or possess the poison; and
-(ii) the use or possession by the person is in accordance with that authorisation;
-or
-308.Section 155 deleted
-Delete section 155.
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 5 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
