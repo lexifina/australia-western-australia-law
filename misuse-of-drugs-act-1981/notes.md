@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Misuse of Drugs Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Act 1981 | 66 of 1981 | 23 Oct 1981 | 1 Sep 1982 (see s. 2 and Gazette 20 Aug 1982 p. 3250)
@@ -60,10 +60,12 @@ Reprint 7: The Misuse of Drugs Act 1981 as at 1 Dec 2017 (includes amendments li
 Industrial Hemp Amendment Act 2018 Pt. 3 | 15 of 2018 | 28 Aug 2018 | 22 Sep 2018 (see s. 2(b) and Gazette 21 Sep 2018 p. 3533)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2018 published in Gazette 29 Aug 2018 p. 2995-3039 | cl. 1 and 2: 29 Aug 2018 (see cl. 2); Order other than cl. 1 and 2: 30 Aug 2018 (see cl. 2)
 Reprint 8: The Misuse of Drugs Act 1981 as at 19 Jul 2019 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 6 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
+Other notes
 The Poisons Act 1964 was repealed by the Medicines and Poisons Act 2014 s. 137.
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
@@ -76,35 +78,6 @@ commencement day means the day on which this Part comes into operation.
 (1) In this section —
 former authorisation means an authorisation under the Misuse of Drugs Act 1981 section 31(1) as in force immediately before the day on which Part 9 comes into operation.
 (2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
-On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 16 — Misuse of Drugs Act 1981 amended
-311.Act amended
-This Division amends the Misuse of Drugs Act 1981.
-312.Section 3 amended
-In section 3(1) delete the definition of analyst and insert:
-analyst means a person who —
-(a)holds a science degree in, or to a major extent in, chemistry awarded by —
-(i)a university in Australia; or
-(ii)a prescribed university;
-and
-(b)has had not less than 2 years’ practical experience in the chemical analysis of drugs;
-313.Section 38D amended
-(1) Delete section 38D(1) and insert:
-(1) In this section —
-CEO (Health) has the meaning given to CEO by the Health Legislation Administration Act 1984 section 3;
-Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
-needle and syringe programme means a needle and syringe programme (as defined in the Public Health Act 2016 section 4(1)) approved under that Act.
-(2) After section 38D(2) insert:
-(3) In any proceedings under this Act, production of a certificate purporting to be signed by the Chief Health Officer and stating that on any date or during any period a specified needle and syringe programme was approved under the Public Health Act 2016 is, without proof of the signature of the Chief Health Officer, sufficient evidence of the facts stated in the certificate.
-Note:The heading to amended section 38D is to read:
-Evidence of contents of standard and approval
-314.Part VII Division 3 inserted
-After Part VII Division 2 insert:
-Division 3 — Provisions for Public Health (Consequential Provisions) Act 2016
-49.Transitional provision for registered analysts
-(1) Despite the replacement, by the Public Health (Consequential Provisions) Act 2016 section 312 (section 312), of the definition of analyst in section 3(1), any person who, immediately before section 312 comes into operation, is an approved analyst under a declaration made under section 3A continues to be an approved analyst under and subject to section 3A.
-(2) A thing done or omitted to be done under this Act by, to or in relation to an analyst (as defined in section 3(1) as in force immediately before section 312 comes into operation) has the same effect on and after the day on which section 312 comes into operation, to the extent that it has any force or significance on or after that day, as if the thing had been done or omitted by, to or in relation to an analyst as defined in section 3(1) after section 312 comes into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
