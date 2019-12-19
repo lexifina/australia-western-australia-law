@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Guardianship and Administration Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Guardianship and Administration Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Guardianship and Administration Act 1990 | 24 of 1990 | 7 Sep 1990 | s. 1 and 2: 7 Sep 1990; Act other than s. 1 and 2, Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2649); Pt. 4-7, s. 123, 124 and Sch. 2, 4 and 5: 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
@@ -39,54 +39,15 @@ Standardisation of Formatting Act 2010 s. 18 and 51 | 19 of 2010 | 28 Jun 2010 |
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 12 and 22 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 2 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 3 | 27 of 2019 | 19 Dec 2019 | To be proclaimed (see s. 2(b))
+Other notes
 Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12 have not come into operation.
-When inserted in Pt. 9B Div. 1, s. 110RA will read as follows:
-110RA.Registration of advance health directive
-An advance health directive may be registered in the register referred to in section 110ZAA.
-When inserted in Pt. 9B Div. 4, s. 110ZAA, 110ZAB and 110ZAC will read as follows:
-110ZAA.Register of advance health directives
-(1) A register of advance health directives must be established and maintained.
-(2) The regulations may provide for any matter that is necessary or convenient for the registration of advance health directives, including the following —
-(a) who must establish and maintain the register;
-(b) the form and manner in which the register must be established and maintained;
-(c) the contents of the register, including proof of the contents;
-(d) who may apply for registration;
-(e) the procedure for registration, including the alteration and removal of entries in the register;
-(f) who may have access to or obtain information from the register;
-(g) the review by the State Administrative Tribunal of decisions allowing, or refusing to allow, people to have access to or obtain information from the register;
-(h) the procedure for accessing or obtaining information from the register.
-(3) No fee or charge is payable in respect of any matter connected with the register or registration.
-110ZAB.Disclosure of information obtained from register
-(1) In this section —
-register means the register referred to in section 110ZAA.
-(2) A person who has access to the register must not disclose any information on the register unless the disclosure is authorised by subsection (4).
-Penalty: $5 000.
-(3) A person who obtains any information from the register must not disclose the information unless the disclosure is authorised by subsection (4).
-Penalty: $5 000.
-(4) For subsections (2) and (3), a disclosure is authorised if it is —
-(a) authorised by, or made for the purposes of, this Act; or
-(b) made with the consent of the maker of the advance health directive to which the information relates; or
-(c) made for a purpose, or in a circumstance, prescribed by the regulations; or
-(d) otherwise authorised or required by law.
-110ZAC.Regulations to facilitate national register
-(1) In this section —
-advance health directive means —
-(a)an advance health directive made under this Part; or
-(b)an instrument created under the law of another State or a Territory that corresponds sufficiently, in form and effect, to an advance health directive made under this Part, whether or not the instrument is recognised under section 110ZA(1).
-(2) The regulations may make provision to facilitate —
-(a) the establishment of a national register of advance health directives; and
-(b) if a national register is established — the registration of advance health directives on it.
-Section 12 reads as follows:
-12.Section 113 amended
-After section 113(1) the following subsection is inserted —
-(1a) Subsection (1) does not apply to information obtained from the register referred to in section 110ZAA, and section 110ZAB applies to that information instead.
+Footnotes no longer applicable.
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Guardianship and Administration Amendment Act 2000 s. 21 reads as follows:
 21.Transitional and validation
