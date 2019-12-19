@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Coroners Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Coroners Act 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Coroners Act 1996 | 2 of 1996 | 24 May 1996 | s. 1 and 2: 24 May 1996; Act other than s. 1 and 2: 7 Apr 1997 (see s. 2 and Gazette 18 Mar 1997 p. 1529)
@@ -27,14 +27,14 @@ Reprint 3: The Coroners Act 1996 as at 7 Nov 2014 (includes amendments listed ab
 Alcohol and Drug Authority Amendment Act 2015 s. 15 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 83 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Coroners Amendment Act 2018 | 23 of 2018 | 21 Sep 2018 | s. 1 and 2: 21 Sep 2018 (see s. 2(a)); Act other than s. 1 and 2: 22 Sep 2018 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 2 | 27 of 2019 | 19 Dec 2019 | To be proclaimed (see s 2(b))
+Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
-(2) Section 6(5) of the Coroners Act 1996 is repealed.
 The Coroners Amendment Act 2003 s. 14(2) and (3) read as follows:
 (2) Despite the amendment effected by subsection (1), the Coroners Act 1920 continues to apply to any inquest part heard under that Act immediately before the commencement of this provision.
 (3) In subsection (2) —
