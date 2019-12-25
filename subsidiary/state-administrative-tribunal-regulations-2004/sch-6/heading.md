@@ -11,6 +11,7 @@ Dog Regulations 2013 r. 13
 Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2019 Sch. 1 cl. 22(3)
 First Home Owner Grant Act 2000 s. 31(1)
 Pawnbrokers and Second-hand Dealers Act 1994 s. 68, 73(2) or 93(1)
+Public Health Act 2016 s. 109(1) or (2), 127(1), 141C(3), 163(2), 194(2), 207 or 265
 Residential Parks (Long-stay Tenants) Act 2006 s. 7(1)(b), 62(2), 63(1), 64(1), 65(1), 66(2), 67(2), 68(2), 69(2), 70(2), 71(1), 72(1), 73(1), 74, 75(1), 76(1), 77(1) or 82(1)
 Retirement Villages Act 1992 s. 9(3)(e) or (6), 44(1), 55(1), 56(1), 57A(2), 57(1), 58(1), 59(1), 62(1), 63(1), 64(1), 67(2), 68(1), 69(3), 70(1)(a), 75B(1), 75D(2), 75I(1) or 75(4)
 Retirement Villages Regulations 1992 r. 7(9)
@@ -18,4 +19,4 @@ Road Traffic (Administration) Regulations 2014 r. 32(1) or 33(2)
 Security and Related Activities (Control) Act 1996 s. 67(1), 67A(4) or 72(1)
 Strata Titles Act 1985 s. 16(1), 39A(4)(c)(ii) or (5), 47(2)(a), 64(1), 83(1), 85, 86, 87, 88, 89, 90, 91, 92, 93(1), 94(1), 95(1), 97(1), 98, 99(1), 99A(1), 100(1), 101, 102(1)(e), (f) or (g), 102(3), 103(1) or (2), 103A(1), 103B(1), 103C(1), 103D(1), 103E(1), 103F(1) or (4), 103G(1), 103H(1), 103I(1), 103J(1), 103K(1), 103L(1), 103M(1), 103N(1), 103O(1), 103P(1), 103Q(1), 103R(1), 114(4)(b), Sch. 3 cl. 12(10)(a) or 13A(5) or Sch. 4 cl. 2(7)(a)
 Working with Children (Criminal Record Checking) Act 2004 s. 26(2)
-[Schedule 6 inserted: Gazette 26 Jun 2007 p. 2993-4; amended: Gazette 13 Jun 2008 p. 2523; 27 Jun 2008 p. 3067; 6 Aug 2013 p. 3655; 8 Apr 2014 p. 921; 10 Feb 2015 p. 623; 30 Dec 2016 p. 5966; 13 Jan 2017 p. 351-2; 26 Jun 2018 p. 2383; 28 Sep 2018 p. 3579; 22 Mar 2019 p. 937; 27 Sep 2019 p. 3499.]
+[Schedule 6 inserted: Gazette 26 Jun 2007 p. 2993-4; amended: Gazette 13 Jun 2008 p. 2523; 27 Jun 2008 p. 3067; 6 Aug 2013 p. 3655; 8 Apr 2014 p. 921; 10 Feb 2015 p. 623; 30 Dec 2016 p. 5966; 13 Jan 2017 p. 351-2; 26 Jun 2018 p. 2383; 28 Sep 2018 p. 3579; 22 Mar 2019 p. 937; 27 Sep 2019 p. 3499; 24 Dec 2019 p. 4431.]

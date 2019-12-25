@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the State Administrative Tribunal Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 State Administrative Tribunal Regulations 2004 | 30 Dec 2004 p. 6747-848 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7129)
 State Administrative Tribunal Amendment Regulations 2005 | 9 Aug 2005 p. 3635-6 | 9 Aug 2005
 State Administrative Tribunal Amendment Regulations (No. 2) 2007 | 26 Jun 2007 p. 2979-96 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
@@ -44,6 +44,8 @@ Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 6 
 State Administrative Tribunal Amendment Regulations 2019 | 22 Mar 2019 p. 937 | r. 1 and 2: 22 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3499 | r. 1 and 2: 27 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2019 (see r. 2(b))
+State Administrative Tribunal Amendment Regulations (No. 3) 2019 | 24 Dec 2019 p. 4430-1 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Dec 2019 (see r. 2(b))
+Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
