@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Strata Titles General Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Strata Titles General Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Strata Titles General Regulations 1996 | 14 Mar 1996 p. 917-78 | 14 Apr 1996 (see r. 2 and Gazette 15 Mar 1996 p. 981)
 Strata Titles General Amendment Regulations 1996 | 28 Jun 1996 p. 3059-61 | 1 Jul 1996 (see r. 2)
 Strata Titles General (Amendment) Regulations 1997 | 17 Jan 1997 p. 451-512 | 20 Jan 1997 (see r. 2 and Gazette 17 Jan 1997 p. 405)
@@ -50,6 +50,11 @@ Lands Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 24 Jun 2
 Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3181-6 | 3 Jul 2017 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 15 Jun 2018 p. 1923-8 | 1 Jul 2018 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 21 May 2019 p. 1474-81 | 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Strata Titles (General) Regulations 2019 r. 173 | 31 Dec 2019 p. 4455-635 | Operative on commencement of the Strata Titles Amendment Act 2018 section 4 (see r. 2(b))
+Other notes
 Repealed by the Strata Titles Act 1985.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
