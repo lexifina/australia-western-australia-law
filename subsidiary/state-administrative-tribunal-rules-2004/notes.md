@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the State Administrative Tribunal Rules 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Administrative Tribunal Rules 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 State Administrative Tribunal Rules 2004 | 30 Dec 2004 p. 6849-89 | 1 Jan 2005 (see r. 2)
 State Administrative Tribunal Rules (Amendment No. 1) 2005 | 14 Oct 2005 p. 4568-70 | 17 Oct 2005 (see r. 2)
 State Administrative Tribunal Rules (Amendment No. 1) 2006 | 13 Apr 2006 p. 1556-8 | 13 Apr 2006
@@ -17,6 +17,11 @@ State Administrative Tribunal Amendment Rules 2014 | 6 Feb 2015 p. 567-72 | r. 1
 State Administrative Tribunal Amendment Rules 2016 | 12 Feb 2016 p. 384 | r. 1 and 2: 12 Feb 2016 (see r. 2(a)); Rules other than r. 1 and 2: 13 Feb 2016 (see r. 2(b))
 State Administrative Tribunal Amendment Rules (No. 2) 2016 | 17 May 2016 p. 1490-2 | r. 1 and 2: 17 May 2016 (see r. 2(a)); Rules other than r. 1 and 2: 18 May 2016 (see r. 2(b))
 State Administrative Tribunal Amendment Rules 2018 | 24 Apr 2018 p. 1351-2 | r. 1 and 2: 24 Apr 2017 (see r. 2(a)); Rules other than r. 1 and 2: 25 Apr 2018 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+State Administrative Tribunal Amendment Rules (No. 2) 2019 r. 3 and 4 | 31 Dec 2019 p. 4661 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Other notes
 Schedule deleted by the State Administrative Tribunal Amendment Regulations (No. 2) 2007 r. 8 (see Gazette 26 June 2007 p. 2979-96).
 Repealed by the Medical Practitioners Act 2008, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 Section 67(3b) deleted by the Security and Related Activities (Control) Amendment Act 2008 s. 46(4).
