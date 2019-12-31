@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Regulations 1947 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Electricity Act Regulations 1947 | 27 Jun 1947 p. 1156-94 | 27 Jun 1947
 Untitled regulations | 11 Jul 1947 p. 1262-4 | 11 Jul 1947
 Untitled regulations | 25 Mar 1948 p. 695-6 | 25 Mar 1948
@@ -67,6 +67,11 @@ Electricity (Network Safety) Regulations 2015 r. 44 | 5 Aug 2015 p. 3141-96 | 6 
 Electricity Amendment Regulations (No. 2) 2015 | 5 Jan 2016 p. 3 | r. 1 and 2: 5 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jan 2016 (see r. 2(b))
 Reprint 7: The Electricity Regulations 1947 as at 21 Oct 2016 (includes amendments listed above)
 Electricity Amendment Regulations 2018 Pt. 2 | 2 Oct 2018 p. 3784-94 | 1 Jan 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 3 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Other notes
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
