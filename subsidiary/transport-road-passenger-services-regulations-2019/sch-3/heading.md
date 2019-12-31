@@ -60,6 +60,8 @@ Offences under Transport (Road Passenger Services) Regulations 2019
 57. | r. 35ZS(3) | Failure to use payment terminal that results in lowest surcharge | $200
 58. | r. 35ZU(1) | Failure to make information about fares available to person booking vehicle | $900 | $3 000
 59. | r. 35ZU(4) | Failure to make information about fares available to CEO or authorised officer | $900 | $3 000
+60. | r. 35ZX(1) | Failure to include information in receipt | $900 | $3 000
+61. | r. 35ZX(2) | Failure of provider of associated booking service to include information in receipt | $900 | $3 000
 62. | r. 35ZY(1) | Failure to ensure vehicle fitted with fare calculation device | $900 | $3 000
 63. | r. 35ZY(2) | Failure to ensure, so far as is reasonably practicable, vehicle fitted with fare calculation device | $900 | $3 000
 64. | r. 35ZZA(1) | Failure to ensure that information displayed in vehicle | $900 | $3 000
@@ -83,4 +85,4 @@ Offences under Transport (Road Passenger Services) Act 2018
 81. | s. 211(1) | Compliance with improvement notice | $500 | $2 500
 82. | s. 211(2) | Driving vehicle when prohibited under improvement notice | $1 200 | $6 000
 83. | s. 213(3) | Unlawful removal of improvement notice sticker | $500
-[Schedule 3 inserted: Gazette 26 Jun 2019 p. 2355-66.]
+[Schedule 3 inserted: Gazette 26 Jun 2019 p. 2355-66; amended: Gazette 26 Jun 2019 p. 2368.]
