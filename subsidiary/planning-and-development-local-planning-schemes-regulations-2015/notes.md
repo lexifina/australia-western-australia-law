@@ -1,14 +1,18 @@
 Notes
-This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Regulations 2015 | 25 Aug 2015 p. 3401-595 | r. 1 and 2: 25 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Oct 2015 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations 2015 | 7 Dec 2015 p. 4883-90 | r. 1 and 2: 7 Dec 2015 (see r. 2(a)); r. 3 and 4: 8 Dec 2015 (see r. 2(b)); r. 5: 8 Dec 2015 (see r. 2(c) and Gazette 7 Dec 2015 p. 4881)
-Planning and Development (Local Planning Schemes) Amendment Regulations 2016 | 24 Jun 2016 p. 2338-9 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b)) and Gazette 24 Jun 2016 p. 2291)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Planning and Development (Local Planning Schemes) Amendment Regulations (No. 2) 2019 r. 3 and 4 | 31 Dec 2019 p. 4655-6 | Operative on commencement of the Strata Titles Amendment Act 2018 s. 4 (see r. 2(b))
+Other notes
+The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Sch. 2 cl. 78F(1)
 abattoirSch. 1 cl. 38
 absolute majoritySch. 2 cl. 81
 ActSch. 2 cl. 1
@@ -37,7 +41,7 @@ brewerySch. 1 cl. 38
 Building CodeSch. 2 cl. 1
 building envelopeSch. 1 cl. 37(1)
 building heightSch. 1 cl. 37(1)
-building permit
+building permitSch. 2 cl. 78F(1)
 building workSch. 2 cl. 78F(1)
 built heritage conservationSch. 2 cl. 1
 bulky goods showroomSch. 1 cl. 38
