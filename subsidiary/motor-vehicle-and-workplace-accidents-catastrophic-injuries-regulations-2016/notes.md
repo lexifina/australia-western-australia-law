@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Motor Vehicle (Catastrophic Injuries) Regulations 2016. The following table contains information about those regulations..
+This is a compilation of the Motor Vehicle (Catastrophic Injuries) Regulations 2016. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Motor Vehicle (Catastrophic Injuries) Regulations 2016 | 13 May 2016 p. 1441-85 | r. 1 and 2: 13 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2016 (see r. 2(b) and Gazette 13 May 2016 p. 1421)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Motor Vehicle (Catastrophic Injuries) Amendment Regulations 2019 r. 3 and 4 | 31 Dec 2019 p. 4651-2 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
