@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Retirement Villages Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Retirement Villages Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Retirement Villages Regulations 1992 | 10 Jul 1992 p. 3191-8 | 10 Jul 1992 (see r. 2 and Gazette 10 Jul 1992 p. 3185)
 Retirement Villages Amendment Regulations 1993 | 8 Jan 1993 p. 26-7 | 10 Jan 1993 (see r. 2)
 Retirement Villages Amendment Regulations 1998 | 30 Sep 1998 p. 5506-9 | 1 Oct 1998 (see r. 2)
@@ -18,6 +18,16 @@ Retirement Villages Amendment Regulations (No 2) 2018 | 28 Sep 2018 p. 3719-20 |
 Retirement Villages Amendment Regulations 2019 | 22 Mar 2019 | r. 1 and 2: 22 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2019 (See r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 18 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Retirement Villages Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3497-8 | r. 1 and 2: 27 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 5 | 31 Dec 2019 p. 4637-46 | Operative on commencement of the Strata Titles Amendment Act 2018 s. 4 (see r. 2(b))
+Other notes
+The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
+(2) Despite subregulation (1), if the owner of a retirement village is required, under section 13(2) of the Retirement Villages Act 1992, to give a statement containing information prescribed by regulation 4 of the Retirement Villages Regulations 1992, between 1 October 2003 and 31 December 2003 (inclusive), the owner satisfies the requirements of section 13(2) if either —
+(a) the form inserted by subregulation (1); or
+(b) the form it replaced,
+is completed and signed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
