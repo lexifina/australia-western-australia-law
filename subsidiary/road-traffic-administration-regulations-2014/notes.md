@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Road Traffic (Administration) Regulations 2014 | 23 Dec 2014 p. 4939-5009 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
 Road Traffic (Administration) Amendment Regulations (No. 3) 2015 | 12 Jun 2015 p. 2041-2 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2015 (see r. 2(b))
 Road Traffic (Administration) Amendment Regulations (No. 2) 2015 | 29 May 2015 p. 1884-5 | r. 1 and 2: 29 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
@@ -19,6 +19,7 @@ Road Traffic (Administration) Amendment Regulations 2018 | 25 May 2018 p. 1648-9
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 5 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Transport Regulations Amendment (Information) Regulations 2019 Pt. 2 | 29 Mar 2019 p. 972-80 | 30 Mar 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 4 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
+Road Traffic (Administration) Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4687 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
