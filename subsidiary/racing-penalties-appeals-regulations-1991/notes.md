@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Racing Penalties (Appeals) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Racing Penalties (Appeals) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Racing Penalties (Appeals) Regulations 1991 | 12 Apr 1991 p. 1662-3 | 15 Apr 1991 (see r. 2 and Gazette 12 Apr 1991 p. 1597)
 Racing Penalties (Appeals) Amendment Regulations 1994 | 16 Aug 1994 p. 4146-7 | 16 Aug 1994
 Racing Penalties (Appeals) Amendment Regulations 1995 | 28 Nov 1995 p. 5522 | 28 Nov 1995
@@ -13,7 +13,7 @@ Racing Penalties (Appeals) Amendment Regulations 2005 | 14 Oct 2005 p. 4566-7 | 
 Racing Penalties (Appeals) Amendment Regulations 2006 | 14 Nov 2006 p. 4735-6 | 1 Jan 2007 (see r. 2)
 Racing Penalties (Appeals) Amendment Regulations 2007 | 9 Oct 2007 p. 5358-9 | r. 1 and 2: 9 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2008 (see r. 2(b))
 Reprint 2: The Racing Penalties (Appeals) Regulations 1991 as at 14 Mar 2008 (includes amendments listed above)
- | Racing Penalties (Appeals) Amendment Regulations 2008 | 28 Oct 2008 p. 4734 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
+Racing Penalties (Appeals) Amendment Regulations 2008 | 28 Oct 2008 p. 4734 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Racing Penalties (Appeals) Amendment Regulations 2009 | 30 Oct 2009 p. 4319-20 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Racing Penalties (Appeals) Amendment Regulations 2010 | 19 Nov 2010 p. 5742-3 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 Racing Penalties (Appeals) Amendment Regulations 2011 | 4 Nov 2011 p. 4639-40 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
@@ -25,22 +25,7 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 | 28 Oct 2016 p. 4910-16 | 1 Jan 2017 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 8 | 10 Nov 2017 p. 5579-94 | 1 Jan 2018 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 22 Oct 2019 p. 3728-9 | 1 Jan 2020 (see r. 2(b))
+Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
+Other notes
 Under the Legal Profession Act 2008 s. 630(1), a reference to the Legal Practitioners Act 1893 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
-On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Racing Penalties (Appeals) Regulations 1991 amended
-16.Regulations amended
-This Part amends the Racing Penalties (Appeals) Regulations 1991.
-17.Regulation 4 amended
-In regulation 4 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 4(1)(a) | $156 | $158.00
-r. 4(1)(b) | $388 | $393.50
-r. 4(2)(a)(i) | $156 | $150.00
-r. 4(2)(a)(ii) | $388 | $250.00
-r. 4(2) | $76 | $50.00
