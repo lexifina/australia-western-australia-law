@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
 Water Services Coordination (Plumbers Licensing) Amendment Regulations 2001 | 20 Apr 2001 p. 2149-51 | 20 Apr 2001
 Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2001 | 31 Jul 2001 p. 3919-22 | 1 Aug 2001 (see r. 2)
@@ -42,98 +42,11 @@ Reprint 5: The Plumbers Licensing and Plumbing Standards Regulations 2000 as at 
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 17 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2019 | 9 Apr 2019 p. 1055-60 | r. 1 and 2: 9 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2019 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 15 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2019 r. 3-14 | 18 Oct 2019 p. 3674-8 | 1 Jan 2020 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2019 | 18 Oct 2019 p. 3674-8 | r. 1 and 2: 18 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 contains transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2019 r. 3-14 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Plumbers Licensing and Plumbing Standards Regulations 2000.
-4.Regulation 3 amended
-In regulation 3(1) in the definition of certificate of compliance paragraph (a) delete “42, 44” and insert:
-42
-5.Regulation 39 amended
-(1) In regulation 39(1) in the Penalty delete “subsection:” and insert:
-subregulation:
-(2) In regulation 39(2) in the Penalty delete “subsection:” and insert:
-subregulation:
-(3) In regulation 39(3) in the Penalty delete “subsection:” and insert:
-subregulation:
-(4) In regulation 39(4) in the Penalty delete “subsection:” and insert:
-subregulation:
-6.Part 5 heading replaced
-Delete the heading to Part 5 and insert:
-Part 5 — Notification, certification and records of plumbing work
-7.Regulation 44 replaced
-Delete regulation 44 and insert:
-44.Application of Division
-This Division does not apply in respect of minor plumbing work that includes a performance solution.
-44A.Records of minor plumbing work
-(1) A licensed plumbing contractor or permit holder must keep a record of minor plumbing work completed by or for the contractor or permit holder.
-Penalty for this subregulation: a fine of $5 000.
-(2) A licensed plumbing contractor or permit holder is not required to keep a record of minor plumbing work under subregulation (1) if —
-(a) the minor plumbing work is carried out for another licensed plumbing contractor or permit holder; and
-(b) that other licensed plumbing contractor or permit holder or another contractor or permit holder keeps, or ought to keep, a record of the work under subregulation (1).
-(3) A record required by subregulation (1) must be in the approved form.
-Penalty for this subregulation: a fine of $5 000.
-(4) A record required by subregulation (1) must be kept at the licensed plumbing contractor’s or permit holder’s principal place of business.
-Penalty for this subregulation: a fine of $5 000.
-(5) A person required by subregulation (1) to keep a record of minor plumbing work must keep the record until the expiry of the period within which a rectification notice may be given in respect of the work under regulation 71(2).
-Penalty for this subregulation: a fine of $5 000.
-(6) A person required by subregulation (1) to keep a record of minor plumbing work must produce the record for inspection upon being requested to do so by —
-(a) the Board; or
-(b) a plumbing compliance officer.
-Penalty for this subregulation: a fine of $5 000.
-(7) This regulation does not limit regulation 25B(1).
-8.Regulation 45A amended
-In regulation 45A(1) delete “an” and insert:
-a
-9.Regulation 46 amended
-In regulation 46 delete “given” and insert:
-given, or in a record kept,
-10.Regulation 71 amended
-Delete regulation 71(2) and insert:
-(2) A rectification notice cannot be given more than 6 years after —
-(a) unless paragraph (b) applies, the day on which —
-(i) for major plumbing work or plumbing work that includes a performance solution — a certificate of compliance for the plumbing work was given under regulation 42(1) or 45B(1), as the case requires; or
-(ii) for minor plumbing work that does not include a performance solution — the minor plumbing work was completed;
-or
-(b) if 1 or more previous rectification notices have been given in respect of the plumbing work — the day on which the most recent previous rectification notice in respect of the plumbing work was given.
-11.Regulation 75 amended
-In regulation 75(3) in the Table:
-(a) after “42(1),” insert:
-44A(1), (3), (4), (5) or (6),
-(b) delete “44(1), 104(3), 105” and insert:
-104(3), 105, 111(3)
-12.Regulation 106 amended
-(1) In regulation 106(1)(c) delete “requires.” and insert:
-requires (if any).
-(2) In regulation 106(2) delete “44(1), 45A(1) and 45B(1) —” and insert:
-45A(1), 45B(1) and 111(3) —
-(3) In regulation 106(3):
-(a) delete “44(1), 45A(1) and 45B(1)” and insert:
-45A(1), 45B(1) and 111(3)
-(b) delete “16, 17 or 20.” and insert:
-20, 27 or 28.
-13.Regulation 111 inserted
-At the end of Part 8 insert:
-111.Transitional provisions for Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2019
-(1) In this regulation —
-former regulation 44 means regulation 44 as in force immediately before 1 January 2020.
-(2) The amendments made by the Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2019 regulation 7 apply in relation to minor plumbing work completed on or after 1 January 2020.
-(3) If a certificate under former regulation 44 was not given before 1 January 2020 in relation to any minor plumbing work completed by or for a licensed plumbing contractor or permit holder in a month that ended before 1 January 2020, the contractor or permit holder must —
-(a) complete a certificate that complies with the requirements of former regulation 44 for all minor plumbing work completed by or for the contractor or permit holder in that month; and
-(b) give the certificate to the Board within 20 working days after 31 December 2019.
-Penalty for this subregulation: a fine of $2 000.
-(4) On application by a licensed plumbing contractor or permit holder, the Board must refund the fee paid under regulation 106(3) for any unused certificate obtained for the purpose of certifying minor plumbing work under former regulation 44 or this regulation.
-14.Schedule 1 amended
-(1) In Schedule 1 delete items 16 and 17.
-(2) In Schedule 1 after item 26 insert:
-27. | Multi-entry certificate of compliance (regulation 111(3)) — 1 multi-entry certificate | 17.00
-28. | Multi-entry certificate of compliance (regulation 111(3)) — booklet of 2 or more multi-entry certificates | 16.00 per certificate
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -174,6 +87,7 @@ existing pipes13A(4)
 expansion control valve13A(4)
 fitting3(1)
 fixture3(1), 45(4)
+former regulation 44111(1)
 Health Department37
 identification card3(1)
 inspection purposes67(2), 82

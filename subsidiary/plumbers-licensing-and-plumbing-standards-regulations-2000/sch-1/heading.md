@@ -17,8 +17,7 @@ Item | Description of fee | Amount ($)
 13. | Issue of duplicate licence or permit (regulation 22) | 65.00
 14. | Combined notice of intention and certificate of compliance (regulation 41(1) and 42(1)) — 1 notice/certificate | 22.50
 15. | Combined notice of intention and certificate of compliance (regulation 41(1) and 42(1)) — booklet of 2 or more notices/certificates | 22.50 per notice/ certificate
-16. | Multi-entry certificate of compliance (regulation 44(1)) — 1 multi-entry certificate | 17.00
-17. | Multi-entry certificate of compliance (regulation 44(1)) — booklet of 2 or more multi-entry certificates | 16.00 per certificate
+[16-17.deleted]
 18. | New installation fee for plumbing work involving 9 or less fixtures (regulation 45) | 69.25
 19. | New installation fee for plumbing work involving more than 9 fixtures (regulation 45) | 69.25 plus 11.40 for each fixture more than 9
 20. | Combined notice of intention and certificate of compliance to carry out work that includes performance solution (regulation 45A(1) and 45B(1)) — 1 notice/certificate | 23.45
@@ -28,4 +27,6 @@ Item | Description of fee | Amount ($)
 24. | Re-inspection fee per hour or part-hour (regulation 73) | 130.00
 25. | Copy of register (regulation 102(3)) | 61.80
 26. | Extract from register (regulation 102(4)) | 61.80
-[Schedule 1 inserted: Gazette 18 Jun 2019 p. 2107-9.]
+27. | Multi-entry certificate of compliance (regulation 111(3)) — 1 multi-entry certificate | 17.00
+28. | Multi-entry certificate of compliance (regulation 111(3)) — booklet of 2 or more multi-entry certificates | 16.00 per certificate
+[Schedule 1 inserted: Gazette 18 Jun 2019 p. 2107-9; amended: Gazette 18 Oct 2019 p. 3678.]
