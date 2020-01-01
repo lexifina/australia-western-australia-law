@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Supreme Court (Corporations) (WA) Rules 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Supreme Court (Corporations) (WA) Rules 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Supreme Court (Corporations) (WA) Rules 2004 | 21 May 2004 p. 1603-95 | 1 Jun 2004 (see r. 1.2)
 Supreme Court (Corporations) (WA) Amendment Rules 2004 | 6 Jul 2004 p. 2711-12 | 6 Jul 2004 (see r. 2)
 Supreme Court (Corporations) (WA) Amendment Rules 2007 | 13 Apr 2007 p. 1671-3 | 13 Apr 2007
@@ -13,6 +13,7 @@ Supreme Court (Corporations) (WA) Amendment Rules 2010 | 1 Apr 2010 p. 1279 | r.
 Supreme Court (Corporations) (WA) Amendment Rules 2012 | 21 Sep 2012 p. 4425-8 | r. 1 and 2: 21 Sep 2012 (see r. 2(a)); Rules other than r. 1 and 2: 22 Sep 2012 (see r. 2(b))
 Supreme Court (Corporations) (WA) Amendment Rules 2018 | 27 Feb 2018 p. 625-8 | r. 1 and 2: 27 Feb 2018 (see r. 2(a)); Rules other than r. 1 and 2: 1 Mar 2018 (see r. 2(b))
 Reprint 2: The Supreme Court (Corporations) (WA) Rules 2004 as at 22 Feb 2019 (includes amendments listed above)
+Supreme Court (Corporations) (WA) Amendment Rules 2019 | 31 Dec 2019 p. 4673-4 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
