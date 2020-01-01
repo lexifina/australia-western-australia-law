@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Magistrates Court (General) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (General) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Magistrates Court (General) Rules 2005 | 28 Apr 2005 p. 1605-49 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
 Magistrates Court (General) Amendment Rules 2005 | 8 Jul 2005 p. 3160 | 8 Jul 2005
 Magistrates Court (General) Amendment Rules 2007 | 24 Aug 2007 p. 4322-7 | r. 1-3: 24 Aug 2007 (see r. 2(a)); Rules other than r. 1-3: 25 Aug 2007 (see r. 2(b))
@@ -26,6 +26,7 @@ Magistrates Court (General) Amendment Rules (No. 3) 2014 | 8 Jan 2015 p. 161-7 |
 Magistrates Court (General) Amendment Rules 2015 | 18 Dec 2015 p. 5077 | r. 1 and 2: 18 Dec 2015 (see r. 2(a)); Rules other than r. 1 and 2: 19 Dec 2015 (see r. 2(b))
 Magistrates Court (General) Amendment Rules 2018 | 4 Dec 2018 p. 4629-30 | r. 1 and 2: 4 Dec 2018 (see r. 2(a)); Rules other than r. 1 and 2: 5 Dec 2018 (see r. 2(b))
 Magistrates Court (General) Amendment Rules 2019 | 26 Mar 2019 p. 946-7 | r. 1 and 2: 26 Mar 2019 (see r. 2(a)); Rules other than r. 1 and 2: 27 Mar 2019 (see r. 2(b))
+Magistrates Court (General) Amendment Rules (No. 2) 2019 | 31 Dec 2019 p. 4674-5 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -37,9 +38,9 @@ approved user3
 CEO50
 civil case28B(1)
 contempt29
-courts electronic system3
 CPA3
 defendant29
+ECMS3
 exhibit40A, 40B
 Form3
 lodge3
