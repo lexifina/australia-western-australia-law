@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Drivers Instructors Regulations 1964 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Motor Vehicle Drivers Instructors Regulations 1964 | 10 Mar 1964 p. 1025-9 | 10 Mar 1964
 Untitled regulations | 5 Apr 1965 p. 985 | 5 Apr 1965
 Untitled regulations | 5 Sep 1968 p. 2685 | 5 Sep 1968
@@ -69,6 +69,8 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 
 Motor Vehicle Drivers Instructors Amendment Regulations 2017 | 26 May 2017 p. 2634 | r. 1 and 2: 26 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 27 May 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 3 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 4 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
+Motor Vehicle Drivers Instructors Amendment Regulations 2019 | 31 Dec 2019 p. 4683-4 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Other notes
 These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 is a transitional provision that is of no further effect.
 The Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2001 r. 9 and Sch. 1 and 2 are transitional and saving provisions that are of no further effect.
