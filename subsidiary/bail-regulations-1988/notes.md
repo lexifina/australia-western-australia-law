@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Bail Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bail Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Bail Regulations 1988 | 30 Dec 1988 p. 5043-80 | 6 Feb 1982 (see r. 2 and Gazette 27 Jan 1989 p. 263)
 Bail Amendment Regulations 1991 | 22 Mar 1991 p. 1212-13 | 3 Apr 1991 (see r. 2 and Gazette 22 Mar 1991 p. 1209)
 Bail Amendment Regulations 1992 | 28 Feb 1992 p. 994 | 28 Feb 1992
@@ -22,11 +22,12 @@ Bail Amendment Regulations 2014 | 12 Sep 2014 p. 3281-9 | r. 1 and 2: 12 Sep 201
 Attorney General Regulations Amendment (Family Violence Restraining Orders) Regulations 2017 Pt. 2 | 27 Jun 2017 p. 3432-5 | 1 Jul 2017 (see r. 2(b))
 Reprint 3: The Bail Regulations 1988 as at 12 Jan 2018 (includes amendments listed above)
 Bail Amendment Regulations 2018 | 29 Jun 2018 p. 2436-7 | r. 1 and 2: 29 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2018 (see r. 2(b))
+Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 2 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 approved user3A
-courts electronic system3A
 Department3A
 departmental programme11(3)
+ECMS3A
 working day3A

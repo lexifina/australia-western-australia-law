@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Civil Judgments Enforcement Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Civil Judgments Enforcement Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Civil Judgments Enforcement Regulations 2005 | 28 Apr 2005 p. 1483-559 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7128)
 Civil Judgments Enforcement Amendment Regulations 2005 | 13 Dec 2005 p. 5984-5 | 13 Dec 2005
 Civil Judgments Enforcement Amendment Regulations 2006 | 23 Jun 2006 p. 2175-7 | 1 Jul 2006 (see r. 2)
@@ -33,6 +33,8 @@ Civil Judgments Enforcement Amendment Regulations 2018 | 8 May 2018 p. 1493 | r.
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 3 | 20 Jul 2018 p. 2621-30 | 21 Jul 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 3 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
+Other notes
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.
@@ -45,7 +47,7 @@ arrest warrant95A
 arrested person68, 96(1)
 business day3
 Centrelink107C(1)
-courts electronic system95A
+ECMS95A
 eligible entity104
 eligible entity fee104
 eligible individual104

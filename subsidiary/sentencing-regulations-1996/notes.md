@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Sentencing Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Sentencing Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Sentencing Regulations 1996 | 4 Oct 1996 p. 5281-96 | 4 Nov 1996 (see r. 2 and Gazette 25 Oct 1996 p. 5632)
 Sentencing Amendment Regulations 2000 Pt. 2 | 3 Mar 2000 p. 1013-15 | 3 Mar 2000
 Sentencing Amendment Regulations (No. 4) 2000 | 28 Jul 2000 p. 4012 | 28 Jul 2000
@@ -31,6 +31,10 @@ Sentencing Amendment Regulations (No. 2) 2017 | 29 Sep 2017 p. 4983-5 | r. 1 and
 Reprint 4: The Sentencing Regulations 1996 as at 21 Sep 2018 (includes amendments listed above)
 Sentencing Amendment Regulations (No. 2) 2018 | 30 Oct 2018 p. 4333-4 | r. 1 and 2: 30 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2018 (see r. 2(b))
 Sentencing Amendment Regulations 2018 | 28 Dec 2018 p. 4883-4 | r. 1 and 2: 28 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2018 (see r. 2(b) and Gazette 28 Dec 2018 p. 4879)
+Sentencing Amendment Regulations 2019 | 24 Dec 2019 p. 4421 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 6 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
+Other notes
+Footnote no longer required.
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
 The Credit (Administration) Act 1984 s. 37, 38, 39(4) and (6) were deleted by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 29.
 The following sections of The Criminal Code have been deleted:
@@ -60,7 +64,7 @@ Defined terms
 Defined termProvision(s)
 approved3(1)
 court officer3(1)
-courts electronic system14(1)
+ECMS14(1)
 lower court application5A(1)
 non-complying person8B(1)
 prosecutor4B(8), 10(8)

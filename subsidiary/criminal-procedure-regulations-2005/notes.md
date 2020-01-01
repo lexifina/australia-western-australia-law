@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Criminal Procedure Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Procedure Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Criminal Procedure Regulations 2005 | 28 Apr 2005 p. 1441-82 | 2 May 2005 (see r. 2)
 Criminal Procedure Amendment Regulations 2006 | 12 May 2006 p. 1784 | 31 May 2006 (see r. 2 and Gazette 30 May 2006 p. 1965)
 Criminal Procedure Amendment Regulations (No. 2) 2006 | 14 Jul 2006 p. 2567-9 | 14 Jul 2006
@@ -40,6 +40,8 @@ Justice Regulations Amendment (Biodiversity Conservation) Regulations 2018 Pt. 2
 Justice Regulations Amendment (Road Passenger Services) Regulations 2019 Pt. 2 | 12 Feb 2019 p. 265-6 | 13 Feb 2019 (see r. 2(b))
 Reprint 4: The Criminal Procedure Regulations 2005 as at 10 May 2019 (includes amendments listed above)
 Criminal Procedure Amendment Regulations (No. 2) 2019 | 23 Aug 2019 p. 3101-2 | r. 1 and 2: 23 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Aug 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 4 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
+Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
 Repealed by the Co-operatives Act 2009.
@@ -49,8 +51,8 @@ Defined terms
 Defined termProvision(s)
 approved user3(1)
 CEO3(1)
-courts electronic system3(1)
 CPA3(1)
+ECMS3(1)
 Form3(1)
 lodge3(1)
 remote communication9(1)
