@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
 Real Estate and Business Agents (General) Amendment Regulations 1980 | 26 Sep 1980 p. 3312 | 26 Sep 1980
 Real Estate and Business Agents (General) Amendment Regulations 1981 | 26 Jun 1981 p. 2293 | 26 Jun 1981
@@ -85,6 +85,8 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 18 | 23 J
 Real Estate and Business Agents (General) Amendment Regulations 2017 | 30 Jun 2017 p. 3553-4 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 18 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 16 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Consumer Protection Regulations Amendment Regulations 2019 Pt. 4 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) and r. 5(2) are transitional provisions that are of no further effect.
@@ -97,7 +99,6 @@ calendar year2
 CPD activity2
 CPD subject2
 CPP07 Property Services Training Package6A(2)
-dwelling2
 educational activity2
 holding fee4A(1)
 mandatory CPD activity2

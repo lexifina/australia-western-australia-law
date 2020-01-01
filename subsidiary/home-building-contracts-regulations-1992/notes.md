@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Home Building Contracts Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Home Building Contracts Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Home Building Contracts Regulations 1992 | 3 Apr 1992 p. 1465-8 | 4 Apr 1992 (see r. 2 and Gazette 3 Apr 1992 p. 1461)
 Home Building Contracts Amendment Regulations 1994 | 22 Mar 1994 p. 1253-96 | 22 Mar 1994
 Home Building Contracts Amendment Regulations 1996 | 8 Nov 1996 p. 6249-64 | 8 Nov 1996
@@ -21,3 +21,4 @@ Home Building Contracts Amendment Regulations 2011 | 26 Aug 2011 p. 3477-8 | r. 
 Home Building Contracts Amendment Regulations 2012 | 8 May 2012 p. 1888-91 | r. 1 and 2: 8 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2012 (see r. 2(b))
 Home Building Contracts Amendment Regulations 2013 | 12 Feb 2013 p. 920-1 | r. 1 and 2: 12 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2013 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 5 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
+Consumer Protection Regulations Amendment Regulations 2019 Pt. 3 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)

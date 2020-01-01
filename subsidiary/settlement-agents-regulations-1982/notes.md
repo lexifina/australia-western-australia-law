@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Settlement Agents Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Settlement Agents Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Settlement Agents Regulations 1982 | 19 Mar 1982 p. 886-7 | 19 Mar 1982
 Settlement Agents Amendment Regulations 1982 | 29 Oct 1982 p. 4323-4 | 29 Oct 1982
 Settlement Agents Amendment Regulations 1984 | 30 Mar 1984 p. 910 (erratum 6 Apr 1984 p. 998) | 30 Mar 1984
@@ -57,6 +57,12 @@ Reprint 7: The Settlement Agents Regulations 1982 as at 14 Oct 2016 (includes am
 Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 20 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
 Commerce and Industrial Relations Amendment (Fees and Charges) Regulations 2018 Pt. 20 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 19 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Consumer Protection Regulations Amendment Regulations 2019 Pt. 6 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 6 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Other notes
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
 Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1).
 These regulations were in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).

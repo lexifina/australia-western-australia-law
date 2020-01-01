@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Residential Tenancies Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Residential Tenancies Regulations 1989 | 9 Aug 1989 p. 2563-85 (erratum 18 Aug 1989 p. 2751) | 1 Oct 1989 (see r. 2 and Gazette 18 Aug 1989 p. 2748)
 Residential Tenancies Amendment Regulations 1989 | 15 Sep 1989 p. 3433 | 15 Sep 1989
 Residential Tenancies Amendment Regulations (No. 2) 1989 | 6 Oct 1989 p. 3766 | 6 Oct 1989
@@ -46,6 +46,12 @@ Residential Tenancies Amendment Regulations (No. 2) 2017 | 8 Dec 2017 p. 5843 | 
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 19 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Family Violence) Regulations 2019 Pt. 2 | 9 Apr 2019 p. 1042-55 | 15 Apr 2019 (see r. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 17 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Consumer Protection Regulations Amendment Regulations 2019 Pt. 5 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 4 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.

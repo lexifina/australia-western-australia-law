@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Charitable Collections Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Charitable Collections Regulations 1947 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Charitable Collections Regulations 1947 | 3 Apr 1947 p. 566-73 | 3 Apr 1947
 Untitled regulations | 2 Oct 1953 p. 2025 | 2 Oct 1953
 Decimal Currency Act 1965 assented to 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
@@ -20,6 +20,8 @@ Charitable Collections Amendment Regulations 2011 | 30 Jun 2011 p. 2647 | r. 1 a
 Reprint 3: The Charitable Collections Regulations 1947 as at 26 Apr 2013 (includes amendments listed above)
 Charitable Collections Amendment Regulations 2013 | 20 Aug 2013 p. 3824 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Charitable Collections Amendment Regulations 2017 | 10 Mar 2017 p. 1567 | r. 1 and 2: 10 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Mar 2017 (see r. 2(b))
+Consumer Protection Regulations Amendment Regulations 2019 Pt. 2 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
 The Charitable Collections Amendment Regulations 2000 r. 12 reads as follows:
 12.Savings and transition
@@ -34,5 +36,6 @@ branch organisation2
 charitable organisation2
 collection2
 collector2
+commencement day20(1)
 Commissioner2
 executive officers2
