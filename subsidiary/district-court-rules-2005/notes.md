@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the District Court Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the District Court Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 District Court Rules 2005 | 27 May 2005 p. 2335-92 | 30 May 2005 (see r. 2)
 District Court Amendment Rules 2005 | 23 Dec 2005 p. 6270-3 | 1 Jan 2006 (see r. 2)
 District Court Amendment Rules 2007 | 31 Jul 2007 p. 3807-22 | 31 Jul 2007
@@ -17,6 +17,8 @@ District Court Amendment Rules (No. 2) 2016 | 21 Jun 2016 p. 2201-2 | r. 1 and 2
 District Court Amendment Rules (No. 3) 2017 | 2 Feb 2018 p. 316-17 | r. 1 and 2: 2 Feb 2018 (see r. 2(a)); Rules other than r. 1 and 2: 3 Feb 2018 (see r. 2(b))
 District Court Amendment Rules 2018 | 16 Mar 2018 p. 918-21 | r. 1 and 2: 16 Mar 2018 (see r. 2(a)); Rules other than r. 1 and 2: 22 Mar 2018 (see r. 2(b))
 District Court Amendment Rules (No. 2) 2018 | 7 Sep 2018 p. 3183-91 | r. 1 and 2: 7 Sep 2018 (see r. 2(a)); Rules other than r. 1 and 2: 21 Sep 2018 (see r. 2(b))
+District Court Amendment Rules (No. 2) 2019 | 31 Dec 2019 p 4675-6 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Other notes
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a lawyer or legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
@@ -40,7 +42,7 @@ commencement73
 court record71F
 department3
 DPP65
-EDS3
+ECMS3
 enforcement order23
 expert medical evidence47B
 file3
