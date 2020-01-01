@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Valuers Licensing Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Valuers Licensing Act 1978 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Valuers Licensing Act 1978 | 55 of 1978 | 6 Sep 1978 | 1 Jul 1979 (see s. 2 and Gazette 22 Jun 1979 p. 1677)
@@ -23,42 +23,12 @@ Acts Amendment (Fair Trading) Act 2010 Pt. 3 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2
 Reprint 4: The Land Valuers Licensing Act 1978 as at 14 Oct 2011 (includes amendments listed above) (correction to reprint in Gazette 24 Aug 2012 p. 3959)
 Consumer Protection Legislation Amendment Act 2014 Pt. 5 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Licensing Provisions Amendment Act 2016 Pt. 4 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Consumer Protection Legislation Amendment Act 2019 Pt. 7 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2019 Pt. 7 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Other notes
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(b).
-On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Land Valuers Licensing Act 1978 amended
-33.Act amended
-This Part amends the Land Valuers Licensing Act 1978.
-34.Section 20 deleted
-Delete section 20.
-35.Section 22 amended
-Delete section 22(2)(a) and insert:
-(a) an application is made during the period that begins on the day on which the licence expired and ends on the day that is 28 days after the day on which the licence expired; and
-36.Section 33A inserted
-After section 33 insert:
-33A.Offence of giving false or misleading information
-(1) A person who gives false or misleading information to the Commissioner when required to give information to the Commissioner under this Act commits an offence.
-Penalty for this subsection: a fine of $20 000.
-(2) For the purposes of subsection (1), a person gives false or misleading information if the person does 1 or more of the following —
-(a) states anything that the person knows is false or misleading in a material particular;
-(b) omits anything from a statement without which the statement is, to the person’s knowledge, misleading in a material particular;
-(c) gives or produces any information that —
-(i) the person knows is false or misleading in a material particular; or
-(ii) omits anything without which the information is, to the person’s knowledge, misleading in a material particular.
-37.Various penalties amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-s. 23(1) | Penalty: $50 000. | Penalty for this subsection: a fine of $100 000.
-s. 24(1) | Penalty: $50 000. | Penalty for this subsection: a fine of $100 000.
-s. 25(3) | Penalty: $5 000. | Penalty for this subsection: a fine of $5 000.
-s. 29A(1) | Penalty: $2 000. | Penalty for this subsection: a fine of $2 000.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

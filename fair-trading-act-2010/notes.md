@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fair Trading Act 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fair Trading Act 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fair Trading Act 2010 | 57 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
@@ -14,51 +14,22 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 4 | 23 of 2014 | 9 Oct 20
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 12 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Statutes (Repeals) Act 2016 Pt. 4 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 Reprint 2: The Fair Trading Act 2010 as at 22 Jun 2018 (includes amendments listed above)
+Consumer Protection Legislation Amendment Act 2019 Pt. 5 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Fair Trading Amendment Act 2019 | 26 of 2019 | 24 Oct 2019 | 25 Oct 2019 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Consumer Protection Legislation Amendment Act 2019 Pt. 5 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
+Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-The effect of s. 36(2) and (3) is altered by the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5, which read as follows:
-4.Operation of section 73(1) altered
-Delete section 73(1)(c)(ii) and insert:
-(ii) between 6 pm and midnight.
-5.Operation of section 170(1) altered
-Delete section 170(1)(c)(ii) and insert:
-(ii) between 6 pm and midnight.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
-83.Fair Trading Act 2010 amended
-(1) This section amends the Fair Trading Act 2010.
-(2) In Schedule 1 delete “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976”.
-[Section 83 amended: No. 58 of 2010 s. 192(7).]
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 had not come into operation. It reads as follows:
-Part 5 — Other Acts amended
-Division 7 — Fair Trading Act 2010 amended
-290.Act amended
-This Division amends the Fair Trading Act 2010.
-291.Schedule 1 amended
-(1) In Schedule 1 delete “Health (Miscellaneous Provisions) Act 1911”.
-(2) In Schedule 1 insert in alphabetical order:
-Public Health Act 2016
-On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Fair Trading Act 2010 amended
-27.Act amended
-This Part amends the Fair Trading Act 2010.
-28.Section 88E amended
-Before section 88E(1) insert:
-(1A) This section does not apply to the extent that the purpose of exercising a power under subsection (1) is in relation to a regulated activity carried on by a regulated person under the Charitable Collections Act 1946.
-29.Schedule 2 amended
-In Schedule 2 insert in alphabetical order:
-Charitable Collections Act 1946
+Section 36 as altered by the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 no longer has effect in relation to the Australian Consumer Law (WA) Text.
 ## Note — Australian Consumer Law (WA) text
-[This note is not part of the Act. Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
-(a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 1 January 2013 (as modified by section 36 of the Act); and
+This note is not part of the Act. Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
+(a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 26 October 2018 (as modified by section 36 of the Act); and
 (b)the regulations made under section 139G the Cwth Act, as those regulations are in force from time to time.
 Regulations may also be made under section 116(3) of the Act that alter the operation of certain provisions of the Australian Consumer Law (WA).
-This note shows the version of the text of Schedule 2 to the Cwth Act, as in force on 1 January 2013 (as modified by section 36 of the Act and regulations made under section 116(3) of the Act) that, together with the regulations made under section 139G of the Cwth Act, applies as the Australian Consumer Law (WA).
+This note shows the version of the text of Schedule 2 to the Cwth Act, as in force on 26 October 2018 (as modified by section 36 of the Act and regulations made under section 116(3) of the Act) that, together with the regulations made under section 139G of the Cwth Act, applies as the Australian Consumer Law (WA).
 The text of the regulations made under section 139G of the Cwth Act is not reproduced. The regulations can be accessed at www.comlaw.gov.au.]
 ## Chapter 1 — Introduction
 ### 1. Application of this Schedule
@@ -80,6 +51,13 @@ affected person, in relation to goods, means:
 (b)a person who acquires the goods from the consumer (other than for the purpose of re-supply); or
 (c)a person who derives title to the goods through or under the consumer.
 agreement document: see section 78(2).
+annual turnover, of a body corporate during a 12-month period, means the sum of the values of all the supplies that the body corporate, and any body corporate related to the body corporate, have made, or are likely to make, during the 12-month period, other than:
+(a) supplies made from any of those bodies corporate to any other of those bodies corporate; or
+(b)supplies that are input taxed; or
+(c)supplies that are not for consideration (and are not taxable supplies under section 72-5 of the A New Tax System (Goods and Services Tax) Act 1999); or
+(d)supplies that are not made in connection with an enterprise that the body corporate carries on; or
+(e)supplies that are not connected with Australia.
+Expressions used in this definition that are also used in the A New Tax System (Goods and Services Tax) Act 1999 have the same meaning as in that Act.
 applicable industry code has the meaning given by section 51ACA(1) of the Competition and Consumer Act.
 application law has the same meaning as in section 140 of the Competition and Consumer Act.
 article includes a token, card or document.
@@ -130,6 +108,7 @@ document means any record of information, and includes:
 (b)anything on which there are marks, figures, symbols or perforations having a meaning for persons qualified to interpret them; and
 (c)anything from which sounds, images or writings can be reproduced with or without the aid of anything else; and
 (d)a map, plan, drawing or photograph.
+egg has the meaning given by subsection 137A(3).
 enforcement proceeding means:
 (a)a proceeding for an offence against Chapter 4; or
 (b)a proceeding instituted under Chapter 5 (other than under sections 237 and 239).
@@ -145,6 +124,8 @@ express warranty, in relation to goods, means an undertaking, assertion or repre
 financial product has the meaning given by section 12BAA of the Australian Securities and Investments Commission Act 2001.
 financial service has the meaning given by section 12BAB of the Australian Securities and Investments Commission Act 2001.
 free item includes a free service.
+free range egg has the meaning given by subsection 137A(4).
+gift card: see section 99A.
 goods includes:
 (a)ships, aircraft and other vehicles; and
 (b)animals, including fish; and
@@ -181,7 +162,6 @@ linked credit provider, in relation to a supplier of goods or services, means a 
 (b)to whom the supplier, by arrangement with the credit provider, regularly refers persons for the purpose of obtaining credit; or
 (c)whose forms of contract, forms of application or offers for credit are, by arrangement with the credit provider, made available to persons by the supplier; or
 (d)with whom the supplier has a contract, arrangement or understanding under which contracts, applications or offers for credit from the credit provider may be signed by persons at premises of the supplier.
-listed public company has the meaning given by section 995-1(1) the Income Tax Assessment Act 1997.
 loan contract means a contract under which a person in the course of a business carried on by that person provides or agrees to provide, whether on one or more occasions, credit to a consumer in one or more of the following ways:
 (a)by paying an amount to, or in accordance with the instructions of, the consumer;
 (b)by applying an amount in satisfaction or reduction of an amount owed to the person by the consumer;
@@ -191,7 +171,7 @@ loan contract means a contract under which a person in the course of a business 
 major failure: see sections 260 and 268.
 mandatory standard, in relation to goods, means a standard:
 (a)for the goods or anything relating to the goods; and
-(b)that, under a law of the Commonwealth, a State or a Territory, must be complied with when the goods are supplied by their manufacturer, being a law creating an offence or liability if there is such non-compliance,
+(b)that, under a law of the Commonwealth, a State or a Territory, must be complied with when the goods are supplied by their manufacturer, being a law creating an offence or liability if there is such non-compliance;
 but does not include a standard which may be complied with by meeting a higher standard.
 manufacturer: see section 7.
 market has the same meaning as in section 4E of the Competition and Consumer Act.
@@ -207,11 +187,12 @@ new participant: see section 45(2).
 non-linked credit contract: see section 287(5).
 non-party consumer means:
 (a)in relation to conduct referred to in section 239(1)(a)(i) — a person who is not, or has not been, a party to an enforcement proceeding in relation to the conduct; and
-(b)in relation to a term of a consumer contract referred to in section 239(1)(a)(ii) — a person who is not, or has not been, a party to an enforcement proceeding in relation to the term.
+(b)in relation to a term of a contract referred to in section 239(1)(a)(ii) — a person who is not, or has not been, a party to an enforcement proceeding in relation to the term.
 participant, in a pyramid scheme, means a person who participates in the scheme.
 participate, in a pyramid scheme: see section 44(3).
 participation payment: see section 45(1)(a).
 permanent ban: see sections 114(1) and (2).
+post-supply fee: see section 99D(2).
 premises means:
 (a)an area of land or any other place (whether or not it is enclosed or built on); or
 (b)a building or other structure; or
@@ -244,7 +225,7 @@ regulator:
 rejection period: see section 262(2).
 related, in relation to a body corporate: see section 6.
 related contract or instrument: see section 83(2).
-rely on, in relation to a term of a consumer contract, includes the following:
+rely on, in relation to a term of a consumer contract or small business contract, includes the following:
 (a)attempt to enforce the term;
 (b)attempt to exercise a right conferred, or purportedly conferred, by the term;
 (c)assert the existence of a right conferred, or purportedly conferred, by the term.
@@ -272,7 +253,9 @@ but does not include rights or benefits being the supply of goods or the perform
 share includes stock.
 ship has the meaning given by section 3(1) of the Admiralty Act 1988.
 single price: see section 48(7).
-substantially transformed, in relation to goods: see section 255(3).
+small business contract: see subsection 23(4).
+standard form contract has a meaning affected by section 27.
+substantially transformed, in relation to goods: see section 255(2).
 substantiation notice means a notice under section 219.
 substantiation notice compliance period: see section 221(2).
 supply, when used as a verb, includes:
@@ -297,11 +280,14 @@ transparent:
 (i)expressed in reasonably plain language; and
 (ii)legible; and
 (iii)presented clearly; and
-(b)in relation to a term of a consumer contract — see section 24(3).
-unfair, in relation to a term of a consumer contract: see section 24(1).
+(b)in relation to a term of a consumer contract or small business contract — see section 24(3).
+unfair, in relation to a term of a consumer contract or small business contract: see section 24(1).
 unsolicited consumer agreement: see section 69.
 unsolicited goods means goods sent to a person without any request made by the person or on his or her behalf.
-unsolicited services means services supplied to a person without any request made by the person or on his or her behalf.
+unsolicited services means:
+(a)services supplied to a person; or
+(b)services purported to have been supplied to a person which have not been supplied;
+without any request made by the person or on his or her behalf.
 upfront price: see section 26(2).
 warranty against defects: see section 102(3).
 (2)In this Schedule:
@@ -326,7 +312,9 @@ Acquiring goods as a consumer
 (b)the goods were of a kind ordinarily acquired for personal, domestic or household use or consumption; or
 (c)the goods consisted of a vehicle or trailer acquired for use principally in the transport of goods on public roads.
 (2)However, subsection (1) does not apply if the person acquired the goods, or held himself or herself out as acquiring the goods:
-(a)for the purpose of re-supply; or
+(a) for the following purpose:
+(i)for goods other than gift cards—for the purpose of re-supply;
+(ii)for gift cards—for the purpose of re-supply in trade or commerce; or
 (b)for the purpose of using them up or transforming them, in trade or commerce:
 (i)in the course of a process of production or manufacture; or
 (ii)in the course of repairing or treating other goods or fixtures on land.
@@ -504,7 +492,7 @@ Note:For rules relating to representations as to the country of origin of goods,
 (6)Without limiting subsection (5), each of the following is an information provider:
 (a)the holder of a licence granted under the Broadcasting Services Act 1992;
 (b)a person who is the provider of a broadcasting service under a class licence under that Act;
-(c)the holder of a licence continued in force by section 5(1) of the Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992;
+[(c)deleted.]
 (d)the Australian Broadcasting Corporation;
 (e)the Special Broadcasting Service Corporation.
 ## Part 2-2 — Unconscionable conduct
@@ -514,8 +502,8 @@ Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (2)This section does not apply to conduct that is prohibited by section 21.
 ### 21. Unconscionable conduct in connection with goods or services
 (1)A person must not, in trade or commerce, in connection with:
-(a)the supply or possible supply of goods or services to a person (other than a listed public company); or
-(b)the acquisition or possible acquisition of goods or services from a person (other than a listed public company);
+(a)the supply or possible supply of goods or services to a person; or
+(b)the acquisition or possible acquisition of goods or services from a person;
 engage in conduct that is, in all the circumstances, unconscionable.
 (2)This section does not apply to conduct that is engaged in only because the person engaging in the conduct:
 (a)institutes legal proceedings in relation to the supply or possible supply, or in relation to the acquisition or possible acquisition; or
@@ -572,8 +560,8 @@ and is not limited to consideration of the circumstances relating to formation o
 ### 22A. Presumptions relating to whether representations are misleading
 Section 4 applies for the purposes of sections 21 and 22 in the same way as it applies for the purposes of Division 1 of Part 3-1.
 ## Part 2-3 — Unfair contract terms
-### 23. Unfair terms of consumer contracts
-(1)A term of a consumer contract is void if:
+### 23. Unfair terms of consumer contracts and small business contracts
+(1)A term of a consumer contract or small business contract is void if:
 (a)the term is unfair; and
 (b)the contract is a standard form contract.
 (2)The contract continues to bind the parties if it is capable of operating without the unfair term.
@@ -581,12 +569,19 @@ Section 4 applies for the purposes of sections 21 and 22 in the same way as it a
 (a)a supply of goods or services; or
 (b)a sale or grant of an interest in land;
 to an individual whose acquisition of the goods, services or interest is wholly or predominantly for personal, domestic or household use or consumption.
+(4)A contract is a small business contract if:
+(a)the contract is for a supply of goods or services, or a sale or grant of an interest in land; and
+(b)at the time the contract is entered into, at least one party to the contract is a business that employs fewer than 20 persons; and
+(c)either of the following applies:
+(i)the upfront price payable under the contract does not exceed $300,000;
+(ii)the contract has a duration of more than 12 months and the upfront price payable under the contract does not exceed $1,000,000.
+(5)In counting the persons employed by a business for the purposes of paragraph (4)(b), a casual employee is not to be counted unless he or she is employed by the business on a regular and systematic basis.
 ### 24. Meaning of unfair
-(1)A term of a consumer contract is unfair if:
+(1)A term of a consumer contract or small business contract is unfair if:
 (a)it would cause a significant imbalance in the parties’ rights and obligations arising under the contract; and
 (b)it is not reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term; and
 (c)it would cause detriment (whether financial or otherwise) to a party if it were to be applied or relied on.
-(2)In determining whether a term of a consumer contract is unfair under subsection (1), a court may take into account such matters as it thinks relevant, but must take into account the following:
+(2)In determining whether a term of a contract is unfair under subsection (1), a court may take into account such matters as it thinks relevant, but must take into account the following:
 (a)the extent to which the term is transparent;
 (b)the contract as a whole.
 (3)A term is transparent if the term is:
@@ -594,9 +589,9 @@ to an individual whose acquisition of the goods, services or interest is wholly 
 (b)legible; and
 (c)presented clearly; and
 (d)readily available to any party affected by the term.
-(4)For the purposes of subsection (1)(b), a term of a consumer contract is presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
+(4)For the purposes of subsection (1)(b), a term of a contract is presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
 ### 25. Examples of unfair terms
-(1)Without limiting section 24, the following are examples of the kinds of terms of a consumer contract that may be unfair:
+Without limiting section 24, the following are examples of the kinds of terms of a consumer contract or small business contract that may be unfair:
 (a)a term that permits, or has the effect of permitting, one party (but not another party) to avoid or limit performance of the contract;
 (b)a term that permits, or has the effect of permitting, one party (but not another party) to terminate the contract;
 (c)a term that penalises, or has the effect of penalising, one party (but not another party) for a breach or termination of the contract;
@@ -611,16 +606,12 @@ to an individual whose acquisition of the goods, services or interest is wholly 
 (l)a term that limits, or has the effect of limiting, the evidence one party can adduce in proceedings relating to the contract;
 (m)a term that imposes, or has the effect of imposing, the evidential burden on one party in proceedings relating to the contract;
 (n)a term of a kind, or a term that has an effect of a kind, prescribed by the regulations.
-(2)Before the Governor-General makes a regulation for the purposes of subsection (1)(n) prescribing a kind of term, or a kind of effect that a term has, the Minister must take into consideration:
-(a)the detriment that a term of that kind would cause to consumers; and
-(b)the impact on business generally of prescribing that kind of term or effect; and
-(c)the public interest.
-### 26. Terms that define main subject matter of consumer contracts etc. are unaffected
-(1)Section 23 does not apply to a term of a consumer contract to the extent, but only to the extent, that the term:
+### 26. Terms that define main subject matter of consumer contracts or small business contracts etc. are unaffected
+(1)Section 23 does not apply to a term of a consumer contract or small business contract to the extent, but only to the extent, that the term:
 (a)defines the main subject matter of the contract; or
 (b)sets the upfront price payable under the contract; or
 (c)is a term required, or expressly permitted, by a law of the Commonwealth, a State or a Territory.
-(2)The upfront price payable under a consumer contract is the consideration that:
+(2)The upfront price payable under a contract is the consideration that:
 (a)is provided, or is to be provided, for the supply, sale or grant under the contract; and
 (b)is disclosed at or before the time the contract is entered into;
 but does not include any other consideration that is contingent on the occurrence or non-occurrence of a particular event.
@@ -640,6 +631,7 @@ but does not include any other consideration that is contingent on the occurrenc
 (c)a contract for the carriage of goods by ship.
 (2)Without limiting subsection (1)(c), the reference in that subsection to a contract for the carriage of goods by ship includes a reference to any contract covered by a sea carriage document within the meaning of the amended Hague Rules referred to in section 7(1) of the Carriage of Goods by Sea Act 1991.
 (3)This Part does not apply to a contract that is the constitution (within the meaning of section 9 of the Corporations Act 2001) of a company, managed investment scheme or other kind of body.
+(4)This Part does not apply to a small business contract to which a prescribed law of the Commonwealth, a State or a Territory applies.
 ## Chapter 3 — Specific protections
 ## Part 3-1 — Unfair practices
 ## Division 1 — False or misleading representations etc.
@@ -797,7 +789,7 @@ Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (2)A person must not, in trade or commerce, assert a right to payment from another person for unsolicited services unless the person has reasonable cause to believe that there is a right to the payment.
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (3)A person must not, in trade or commerce, send to another person an invoice or other document that:
-(a)states the amount of a payment, or sets out the charge, for supplying unsolicited goods or unsolicited services; and
+(a)states the amount of a payment, or sets out the charge, for unsolicited goods or unsolicited services; and
 (b)does not contain a warning statement that complies with the requirements set out in the regulations;
 unless the person has reasonable cause to believe that there is a right to the payment or charge.
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
@@ -822,9 +814,9 @@ Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (c)must state the address at which possession may be taken of the goods, if it is not the address of the person; and
 (d)must contain a statement to the effect that the goods are unsolicited goods.
 ### 42. Liability of recipient for unsolicited services
-If a person, in trade or commerce, supplies unsolicited services to another person, the other person:
+If a person, in trade or commerce, supplies, or purports to supply but does not supply, unsolicited services to another person, the other person:
 (a)is not liable to make any payment for the services; and
-(b)is not liable for loss or damage as a result of the supply of the services.
+(b)is not liable for loss or damage as a result of the supply or purported supply of the services.
 ### 43. Assertion of right to payment for unauthorised entries or advertisements
 (1)A person must not assert a right to payment from another person of a charge for placing, in a publication, an entry or advertisement relating to:
 (a)the other person; or
@@ -930,18 +922,24 @@ Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 the person must not make the representation referred to in subsection (1) unless the person also specifies that minimum amount.
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (4)Subsection (1) does not apply if the representation is made exclusively to a body corporate.
+(4A)Subsection (1) does not apply if:
+(a)the representation is in a class of representations prescribed by the regulations; and
+(b)the conditions (if any) prescribed by the regulations in relation to representations in that class have been complied with.
+Note:If the representation is in a class prescribed for paragraph (a) of this subsection and subsection (1) is complied with in relation to the representation, there is no need to also comply with any conditions prescribed for paragraph (b) of this subsection.
 (5)For the purposes of subsection (1), the person is taken not to have specified a single price for the goods or services in a prominent way unless the single price is at least as prominent as the most prominent of the parts of the consideration for the supply.
 (6)Subsection (5) does not apply in relation to services to be supplied under a contract if:
 (a)the contract provides for the supply of the services for the term of the contract; and
 (b)the contract provides for periodic payments for the services to be made during the term of the contract; and
 (c)if the contract also provides for the supply of goods — the goods are directly related to the supply of the services.
 (7)The single price is the minimum quantifiable consideration for the supply of the goods or services at the time of the representation, including each of the following amounts (if any) that is quantifiable at that time:
-(a)a charge of any description payable to the person making the representation by another person (other than a charge that is payable at the option of the other person);
+(a)a charge of any description payable to the person making the representation by another person unless:
+(i)the charge is payable at the option of the other person; and
+(ii)at or before the time of the representation, the other person has either deselected the charge or not expressly requested that the charge be applied;
 (b)the amount which reflects any tax, duty, fee, levy or charge imposed on the person making the representation in relation to the supply;
 (c)any amount paid or payable by the person making the representation in relation to the supply with respect to any tax, duty, fee, levy or charge if:
 (i)the amount is paid or payable under an agreement or arrangement made under a law of the Commonwealth, a State or a Territory; and
 (ii)the tax, duty, fee, levy or charge would have otherwise been payable by another person in relation to the supply.
-Example 1:A person advertises lounge suites for sale. Persons have the option of paying for fabric protection. The fabric protection charge does not form part of the single price because of the exception in paragraph (a).
+Example 1:An airline advertises a flight for sale. Persons have the option of paying for a carbon offset. If the carbon offset is preselected on the airline’s online booking system, the single price for the flight must include the carbon offset charge. This is because the person has not, at or before the time of the representation, deselected the charge on the online booking site. If the person deselects the optional carbon offset charge later in the online booking process, the single price does not need to include the carbon offset charge after the charge is deselected because of the exception provided by paragraphs (a)(i) and (ii).
 Example 2:The GST may be an example of an amount covered by paragraph (b).
 Example 3:The passenger movement charge imposed under the Passenger Movement Charge Act 1978 may be an example of an amount covered by paragraph (c). Under an arrangement under section 10 of the Passenger Movement Charge Collection Act 1978, airlines may pay an amount equal to the charge that would otherwise be payable by passengers departing Australia.
 ## Division 5 — Other unfair practices
@@ -1101,9 +1099,11 @@ If:
 (ii)is not to be determined in a manner agreed to by the consumer and supplier;
 there is a guarantee that the services will be supplied within a reasonable time.
 ### 63. Services to which this Subdivision does not apply
-This Subdivision does not apply to services that are, or are to be, supplied under:
+(1)This Subdivision does not apply to services that are, or are to be, supplied under:
 (a)a contract for or in relation to the transportation or storage of goods for the purposes of a business, trade, profession or occupation carried on or engaged in by the person for whom the goods are transported or stored; or
 (b)a contract of insurance.
+(2)To avoid doubt, subsection (1)(a) does not apply if the consignee of the goods is not carrying on or engaged in a business, trade, profession or occupation in relation to the goods.
+Note:This subsection was inserted as a response to the decision of the High Court of Australia in Wallis v Downard-Pickford (North Queensland) Pty Ltd [1994] HCA 17.
 ## Subdivision C — Guarantees not to be excluded etc. by contract
 ### 64. Guarantees not to be excluded etc. by contract
 (1)A term of a contract (including a term that is not set out in the contract but is incorporated in the contract by another term of the contract) is void to the extent that the term purports to exclude, restrict or modify, or has the effect of excluding, restricting or modifying:
@@ -1166,6 +1166,8 @@ whether or not they are the only negotiations that precede the making of the agr
 (d)the total price paid or payable by the consumer under the agreement:
 (i)is not ascertainable at the time the agreement is made; or
 (ii)if it is ascertainable at that time — is more than $100 or such other amount prescribed by the regulations.
+(1AA)To avoid doubt, a place mentioned in subsection (1)(b)(i) may be a public place, and need not be a place the dealer cannot enter without the consumer’s consent or invitation.
+Note:This subsection was inserted as a response to the decision of the Federal Court of Australia in Australian Competition and Consumer Commission v A.C.N. 099 814 749 Pty Ltd [2016] FCA 403.
 (1A)The consumer is not taken, for the purposes of subsection (1)(c), to have invited the dealer to come to that place, or to make a telephone call, merely because the consumer has:
 (a)given his or her name or contact details other than for the predominant purpose of entering into negotiations relating to the supply of the goods or services referred to in subsection (1)(c); or
 (b)contacted the dealer in connection with an unsuccessful attempt by the dealer to contact the consumer.
@@ -1190,18 +1192,13 @@ A negotiation, in relation to an agreement or a proposed agreement, includes any
 ### 73. Permitted hours for negotiating an unsolicited consumer agreement
 (1)A dealer must not call on a person for the purpose of negotiating an unsolicited consumer agreement, or for an incidental or related purpose:
 (a)at any time on a Sunday or a public holiday; or
-(b)on a Saturday:
-(i)between midnight and 9 am; or
-(ii)between 5 pm and midnight; or
-(c)on any other day:
-(i)between midnight and 9 am; or
-(ii)between 6 pm and midnight.
+(b)before 9 am on any other day; or
+(c)after 6 pm on any other day (or after 5 pm if the other day is a Saturday).
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (2)Subsection (1) does not apply if the dealer calls on the person in accordance with consent that:
 (a)was given by the person to the dealer or a person acting on the dealer’s behalf; and
 (b)was not given in the presence of the dealer or a person acting on the dealer’s behalf.
 Note:The Do Not Call Register Act 2006 may apply to a telephone call made for the purpose of negotiating an unsolicited consumer agreement.
-[Section 73 modified: No. 57 of 2010 s. 36(2); altered: the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4.]
 ### 74. Disclosing purpose and identity
 A dealer who calls on a person for the purpose of negotiating an unsolicited consumer agreement, or for an incidental or related purpose, must, as soon as practicable and in any event before starting to negotiate:
 (a)clearly advise the person that the dealer’s purpose is to seek the person’s agreement to a supply of the goods or services concerned; and
@@ -1284,18 +1281,14 @@ Note:A pecuniary penalty may be imposed for a contravention of this section.
 (a)despite affirmation of the agreement by the consumer; and
 (b)even though the agreement has been fully executed.
 (3)The period during which the consumer may terminate the agreement is whichever of the following periods is the longest:
-(a)if the agreement was not negotiated by telephone — the period of 10 business days starting at the start of the first business day after the day on which the agreement was made;
-(b)if the agreement was negotiated by telephone — the period of 10 business days starting at the start of the first business day after the day on which the consumer was given the agreement document relating to the agreement;
-(c)if one or more of the following were contravened in relation to the agreement:
-(i)section 73 (permitted hours for negotiating an unsolicited consumer agreement);
-(ii)section 74 (disclosing purpose and identity);
-(iii)section 75 (ceasing to negotiate on request);
-the period of 3 months starting at the start of the first day after the day on which the agreement was made or, if the agreement was negotiated by telephone, the agreement document was given;
-(d)if one or more of the following were contravened in relation to the agreement:
-(i)section 76 (informing consumer of termination period);
-(ii)a provision of Subdivision C (requirements for unsolicited consumer agreements);
-(iii)section 86 (prohibition on supplies for 10 business days);
-the period of 6 months starting at the start of the first day after the day on which the agreement was made or, if the agreement was negotiated by telephone, the agreement document was given;
+(a)if the agreement was not negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the agreement was made;
+(b)if the agreement was negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the consumer was given the agreement document relating to the agreement;
+(c)if one or more of sections 73 (permitted hours for negotiating an unsolicited consumer agreement), 74 (disclosing purpose and identity) and 75 (ceasing to negotiate on request) were contravened in relation to the agreement:
+(i)if the agreement was not negotiated by telephone—the period starting on the day on which the agreement was made and ending at the end of the period of 3 months starting on the day after the day on which the agreement was made; or
+(ii)if the agreement was negotiated by telephone—the period starting on the day on which the agreement was made and ending at the end of the period of 3 months starting on the day after the day on which the consumer was given the agreement document relating to the agreement;
+(d)if one or more of section 76 (informing consumer of termination period), a provision of Subdivision C (requirements for unsolicited consumer agreements) and section 86 (prohibition on supplies etc.) were contravened in relation to the agreement:
+(i)if the agreement was not negotiated by telephone—the period starting on the day on which the agreement was made and ending at the end of the period of 6 months starting on the day after the day on which the agreement was made; or
+(ii)if the agreement was negotiated by telephone—the period starting on the day on which the agreement was made and ending at the end of the period of 6 months starting on the day after the day on which the consumer was given the agreement document relating to the agreement;
 (e)such other period as the agreement provides.
 (4)If the notice under subsection (1) is written, it may be given:
 (a)by delivering it personally to the supplier; or
@@ -1329,28 +1322,28 @@ Note:A pecuniary penalty may be imposed for a contravention of this section.
 (a)the consumer gives notice to the supplier under subsection (1)(b); and
 (b)the supplier does not collect the goods within 30 days after the termination of the contract.
 (3)If:
-(a)the agreement is terminated in accordance with section 82 after the end of the period of 10 business days starting:
-(i)if the agreement was not negotiated by telephone — at the start of the first business day after the day on which the agreement was made; or
-(ii)if the agreement was negotiated by telephone — at the start of the first business day after the day on which the consumer was given the agreement document relating to the agreement; and
+(a)the agreement is terminated in accordance with section 82 after the end of:
+(i)if the agreement was not negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the agreement was made; or
+(ii)if the agreement was negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the consumer was given the agreement document relating to the agreement; and
 (b)the consumer returns the goods to the supplier, or the supplier collects the goods, under this section; and
 (c)the consumer has failed to take reasonable care of the goods;
 the consumer is liable to pay compensation to the supplier for the damage to, or depreciation in the value of, the goods.
 (4)The compensation is recoverable in a court of competent jurisdiction.
 (5)However, the consumer is not liable for any such damage or depreciation attributable to normal use of the goods or to circumstances beyond the consumer’s control.
 (6)If:
-(a)an unsolicited consumer agreement is terminated in accordance with section 82 after the end of the period of 10 business days starting:
-(i)if the agreement was not negotiated by telephone — at the start of the first business day after the day on which the agreement was made; or
-(ii)if the agreement was negotiated by telephone — at the start of the first business day after the day on which the consumer was given the agreement document relating to the agreement; and
+(a)an unsolicited consumer agreement is terminated in accordance with section 82 after the end of:
+(i)if the agreement was not negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the agreement was made; or
+(ii)if the agreement was negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the consumer was given the agreement document relating to the agreement; and
 (b)prior to the termination, but after the end of that period, a service was supplied under the agreement;
 the termination does not affect any liability of the consumer under the agreement to provide consideration for the service.
-### 86. Prohibition on supplies etc. for 10 business days
+### 86. Prohibition on supplies etc.
 (1)The supplier under an unsolicited consumer agreement must not:
 (a)supply to the consumer under the agreement the goods or services to be supplied under the agreement; or
 (b)accept any payment, or any other consideration, in connection with those goods or services; or
 (c)require any payment, or any other consideration, in connection with those goods or services;
-during the period of 10 business days starting:
-(d)if the agreement was not negotiated by telephone — at the start of the first business day after the day on which the agreement was made; or
-(e)if the agreement was negotiated by telephone — at the start of the first business day after the day on which the consumer was given the agreement document relating to the agreement.
+during:
+(d)if the agreement was not negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the agreement was made; or
+(e)if the agreement was negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the consumer was given the agreement document relating to the agreement.
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (2)If the supplier supplies goods to the consumer in contravention of this section, the consumer has the same rights in relation to the goods as if the goods were unsolicited goods.
 Note:Section 41 deals with unsolicited goods.
@@ -1405,39 +1398,93 @@ This Division (other than section 73) does not apply, or provisions of this Divi
 (c)the conduct of businesses of a kind specified in the regulations.
 ### 95. Application of this Division to certain conduct covered by the Corporations Act
 This Division does not apply in relation to conduct to which section 736, 992A or 992AA of the Corporations Act 2001 applies.
-Note:Section 736 of the Corporations Act 2001 prohibits hawking of securities. Section 992A of that Act prohibits hawking of certain financial products. Section 992AA of that Act prohibits hawking of managed investment products.
+Note:Section 736 of the Corporations Act 2001 prohibits hawking of securities. Section 992A of that Act prohibits hawking of certain financial products. Section 992AA of that Act prohibits hawking of interests in managed investment schemes (which for the purposes of that Act include interests in notified foreign passport funds).
 ## Division 3 — Lay-by agreements
 ### 96. Lay-by agreements must be in writing etc.
-(1)A supplier of consumer goods who is a party to a lay-by agreement must ensure that:
+(1)A supplier of goods who is a party to a lay-by agreement must ensure that:
 (a)the agreement is in writing; and
 (b)a copy of the agreement is given to the consumer to whom the goods are, or are to be, supplied.
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
-(2)A supplier of consumer goods who is a party to a lay-by agreement must ensure that the agreement is transparent.
-(3)A lay-by agreement is an agreement between a supplier of consumer goods and a consumer for the supply, in trade or commerce, of the consumer goods on terms (whether express or implied) which provide that:
+(2)A supplier of goods who is a party to a lay-by agreement must ensure that the agreement is transparent.
+(3)A lay-by agreement is an agreement between a supplier of goods and a consumer for the supply, in trade or commerce, of the goods on terms (whether express or implied) which provide that:
 (a)the goods will not be delivered to the consumer until the total price of the goods has been paid; and
 (b)the price of the goods is to be paid by:
 (i)3 or more instalments; or
 (ii)if the agreement specifies that it is a lay-by agreement — 2 or more instalments.
-(4)For the purposes of subsection (3)(b), any deposit paid by the consumer for the consumer goods is taken to be an instalment.
+(4)For the purposes of subsection (3)(b), any deposit paid by the consumer for the goods is taken to be an instalment.
 ### 97. Termination of lay-by agreements by consumers
-(1)A consumer who is party to a lay-by agreement may terminate the agreement at any time before the consumer goods to which the agreement relates are delivered to the consumer under the agreement.
-(2)A supplier of consumer goods who is a party to a lay-by agreement must ensure that the agreement does not require the consumer to pay a charge (a termination charge) for the termination of the agreement unless:
+(1)A consumer who is party to a lay-by agreement may terminate the agreement at any time before the goods to which the agreement relates are delivered to the consumer under the agreement.
+(2)A supplier of goods who is a party to a lay-by agreement must ensure that the agreement does not require the consumer to pay a charge (a termination charge) for the termination of the agreement unless:
 (a)the agreement is terminated by the consumer; and
 (b)the supplier has not breached the agreement.
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
-(3)A supplier of consumer goods who is a party to a lay-by agreement must ensure that, if the agreement provides that a termination charge is payable, the amount of the charge is not more than the supplier’s reasonable costs in relation to the agreement.
+(3)A supplier of goods who is a party to a lay-by agreement must ensure that, if the agreement provides that a termination charge is payable, the amount of the charge is not more than the supplier’s reasonable costs in relation to the agreement.
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 ### 98. Termination of lay-by agreements by suppliers
-A supplier of consumer goods who is a party to a lay-by agreement must not terminate the agreement unless:
+A supplier of goods who is a party to a lay-by agreement must not terminate the agreement unless:
 (a)the consumer who is a party to the agreement breached a term of the agreement; or
 (b)the supplier is no longer engaged in trade or commerce; or
-(c)the consumer goods to which the agreement relates are no longer available.
+(c)the goods to which the agreement relates are no longer available.
 Note:A pecuniary penalty may be imposed for a contravention of this section.
 ### 99. Effect of termination
 (1)If a lay-by agreement is terminated by a party to the agreement, the supplier must refund to the consumer all the amounts paid by the consumer under the agreement other than any termination charge that is payable under the agreement.
 Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (2)The supplier is entitled to recover any unpaid termination charge from the consumer as a debt if the amounts paid by the consumer under the lay-by agreement are not enough to cover the charge.
 (3)If a lay-by agreement is terminated by a party to the agreement, the supplier is not entitled to damages, or to enforce any other remedy, in relation to that termination except as provided for by this section.
+## Division 3A—Gift cards
+## Subdivision A—Introduction
+### 99A. Meaning of gift card
+A gift card is:
+(a)an article (whether in physical or electronic form) that:
+(i)is of a kind that is commonly known as a gift card or gift voucher; and
+(ii)is redeemable for goods or services; or
+(b)an article of a kind specified in regulations made for the purposes of this paragraph;
+but does not include an article of a kind specified in the regulations.
+## Subdivision B—Requirements relating to gift cards
+### 99B. Gift cards to be redeemable for at least 3 years
+(1)A person must not, in trade or commerce, supply a gift card to a consumer if the day that the gift card ceases to be redeemable is earlier than 3 years after the day of that supply.
+Note:A pecuniary penalty may be imposed for a contravention of this subsection.
+(2)If:
+(a)a gift card is, in trade or commerce, supplied to a consumer; and
+(b)the day that the gift card ceases to be redeemable is earlier than 3 years after the day of that supply;
+the day that the gift card ceases to be redeemable is taken to be 3 years after the day of that supply.
+(3)Subsection (2) does not affect a person’s liability for an alleged contravention of subsection (1) or section 191A.
+### 99C. When gift card ceases to be redeemable to appear prominently on gift card
+A person must not, in trade or commerce, supply a gift card to a consumer if one of the following does not appear prominently on the gift card:
+(a)the date the gift card ceases to be redeemable;
+(b)the month and year the gift card ceases to be redeemable;
+(c)the date the gift card is supplied and a statement that identifies the period during which the gift card is redeemable;
+(d)the month and year the gift card is supplied and a statement that identifies the period during which the gift card is redeemable;
+(e)the words “no expiry date” or words to that effect.
+Note:A pecuniary penalty may be imposed for a contravention of this section.
+### 99D.Terms and conditions not to allow post-supply fees
+(1)A person must not, in trade or commerce, supply a gift card to a consumer if the terms or conditions (however described) of the gift card allow or require the payment of a post-supply fee in relation to the gift card.
+Note:A pecuniary penalty may be imposed for a contravention of this subsection.
+(2)A post-supply fee is a fee or charge payable in relation to a gift card after it is supplied to a consumer, other than a fee or charge of a kind specified in the regulations.
+### 99E. Post-supply fees not to be demanded or received
+A person must not, in trade or commerce, demand or receive payment of a post-supply fee in relation to a gift card.
+Note:A pecuniary penalty may be imposed for a contravention of this subsection.
+### 99F. Certain terms and conditions of gift card void
+(1)A term or condition (however described) of a gift card is void if it has the effect of, or purports to have the effect of:
+(a)allowing or requiring the payment of a post-supply fee in relation to the gift card; or
+(b)reducing the period that the gift card ceases to be redeemable to a period that ends earlier than 3 years after the day the gift card is supplied to a consumer.
+(2)The supplier of a gift card must ensure that the terms or conditions (however described) of the gift card do not include, or purport to include, a term or condition that is, or would be, void because of subsection (1).
+Note:A pecuniary penalty may be imposed for a contravention of this subsection.
+(3)This section does not affect a person’s liability for an alleged contravention of:
+(a)section 99B(1); or
+(b)section 99C; or
+(c)section 99D(1); or
+(d)section 99E; or
+(e)section 191A; or
+(f)section 191B; or
+(g)section 191C; or
+(h)section 191D.
+## Subdivision C—Miscellaneous
+### 99G. Regulations may limit application of this Division
+The regulations may provide that some or all of the provisions of this Division do not apply to or in relation to:
+(a)gift cards of a kind prescribed by the regulations; or
+(b)persons of a kind prescribed by the regulations; or
+(c)gift cards supplied in circumstances prescribed by the regulations.
 ## Division 4 — Miscellaneous
 ### 100. Supplier must provide proof of transaction etc.
 (1)If:
@@ -1492,7 +1539,7 @@ Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (c)wholly or partly recompense the consumer;
 if the goods or services or part of them are defective, and includes any document by which such a representation is evidenced.
 ### 103. Repairers must comply with prescribed requirements
-(1)The regulations may prescribe requirements relating to the form and content of notices to be given relating to the repair of consumer goods.
+(1)The regulations may prescribe requirements relating to the form and content of notices to be given relating to the repair of goods supplied to a consumer.
 (2)A person (the repairer) must not, in trade or commerce, accept from another person goods that the other person acquired as a consumer if the repairer:
 (a)accepts the goods for the purpose of repairing them; and
 (b)does not give to the other person a notice that complies with the requirements prescribed for the purposes of subsection (1).
@@ -1893,6 +1940,11 @@ Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (iii)if the person making the disclosure is a member of the staff of an associate regulator—to the regulator or another associate regulator; or
 (d)the disclosure is required or authorised by or under law; or
 (e)the disclosure is reasonably necessary for the enforcement of the criminal law or of a law imposing a pecuniary penalty.
+(3)This section also does not apply if the disclosure is made by a member of the staff of the regulator, or an associate regulator, in the performance of his or her duties as such a member of staff, and is made because it is reasonably necessary to protect public safety, to:
+(a)any other agency within the meaning of the Freedom of Information Act 1982; or
+(b)the Director of Public Prosecutions; or
+(c)a State/Territory government body (within the meaning of section 155AAA of the Competition and Consumer Act); or
+(d)a foreign government body (within the meaning of the Competition and Consumer Act).
 ## Division 6 — Miscellaneous
 ### 133. Liability under a contract of insurance
 If:
@@ -1959,6 +2011,18 @@ Note:A pecuniary penalty may be imposed for a contravention of this subsection.
 (b)another person suffers loss or damage because, contrary to the information standard, he or she was not provided with particular information in relation to the services; and
 (c)the other person would not have suffered the loss or damage if the supplier had complied with the information standard;
 the other person is taken, for the purposes of this Schedule, to have suffered the loss or damage because of that supply.
+### 137A. Safe harbour for complying with information standards about free range eggs
+(1)Neither section 18 nor paragraph 29(1)(a) or 151(1)(a) applies to a person in relation to the labelling or displaying of eggs as free range eggs if, when doing so, the person is complying with all requirements:
+(a)specified in an information standard for eggs; and
+(b)relating to the labelling or displaying of free range eggs, including requirements about:
+(i)the use of the words “free range”; or
+(ii)representing that eggs are free range eggs.
+(2)If:
+(a)proceedings are brought against a person in respect of section 18 or paragraph 29(1)(a) or 151(1)(a); and
+(b)the person seeks to rely on subsection (1) of this section in the proceedings;
+the person bears an evidential burden in relation to the matters set out in that subsection.
+(3)An egg is an egg laid by a female domestic chicken (Gallus gallus domesticus).
+(4)Free range egg has the meaning given by the information standard mentioned in paragraph (1)(a).
 ## Part 3-5 — Liability of manufacturers for goods with safety defects
 ## Division 1 — Actions against manufacturers for goods with safety defects
 ### 138. Liability for loss or damage suffered by an injured individual
@@ -2075,15 +2139,18 @@ relating to goods or services; or
 (n)makes a false or misleading representation concerning a requirement to pay for a contractual right that:
 (i)is wholly or partly equivalent to any condition, warranty, guarantee, right or remedy (including a guarantee under Division 1 of Part 3-2); and
 (ii)a person has under a law of the Commonwealth, a State or a Territory (other than an unwritten law).
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 Note:For rules relating to representations as to the country of origin of goods, see Part 5-3.
 (2)For the purposes of applying subsection (1) in relation to a proceeding concerning a representation of a kind referred to in subsection (1)(e) or (f), the representation is taken to be misleading unless evidence is adduced to the contrary.
 (3)To avoid doubt, subsection (2) does not:
 (a)have the effect that, merely because such evidence to the contrary is adduced, the representation is not misleading; or
 (b)have the effect of placing on any person an onus of proving that the representation is not misleading.
 (4)Subsection (1) is an offence of strict liability.
+Penalty
+(5)An offence against subsection (1) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(6)An offence against subsection (1) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 152. False or misleading representations about sale etc. of land
 (1)A person commits an offence if the person, in trade or commerce, in connection with the sale or grant, or the possible sale or grant, of an interest in land or in connection with the promotion by any means of the sale or grant of an interest in land:
 (a)makes a false or misleading representation that the person making the representation has a sponsorship, approval or affiliation; or
@@ -2093,19 +2160,26 @@ Note:For rules relating to representations as to the country of origin of goods,
 (e)makes a false or misleading representation concerning the characteristics of the land; or
 (f)makes a false or misleading representation concerning the use to which the land is capable of being put or may lawfully be put; or
 (g)makes a false or misleading representation concerning the existence or availability of facilities associated with the land.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)Subsection (1) is an offence of strict liability.
+Penalty
+(2A)An offence against subsection (1) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(2B)An offence against subsection (1) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
+Other
 (3)This section does not affect the application of any other provision of this Part in relation to the supply or acquisition, or the possible supply or acquisition, of interests in land.
 ### 153. Misleading conduct relating to employment
 (1)A person commits an offence if the person, in relation to employment that is to be, or may be, offered by the person or by another person, engages in conduct that is liable to mislead persons seeking the employment as to:
 (a)the availability, nature, terms or conditions of the employment; or
 (b)any other matter relating to the employment.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)Subsection (1) is an offence of strict liability.
+Penalty
+(3)An offence against subsection (1) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(4)An offence against subsection (1) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 154. Offering rebates, gifts, prizes etc.
 (1)A person commits an offence if:
 (a)the person, in trade or commerce, offers any rebate, gift, prize or other free item; and
@@ -2115,9 +2189,6 @@ Penalty:
 (iii)the sale or grant, or the possible sale or grant, of an interest in land; or
 (iv)the promotion by any means of the sale or grant of an interest in land; and
 (c)the offer is made with the intention of not providing the rebate, gift, prize or other free item, or of not providing it as offered.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, offers any rebate, gift, prize or other free item; and
 (b)the offer is connected with:
@@ -2126,9 +2197,6 @@ Penalty:
 (iii)the sale or grant, or the possible sale or grant, of an interest in land; or
 (iv)the promotion by any means of the sale or grant of an interest in land; and
 (c)the person fails to provide the rebate, gift, prize or other free item, in accordance with the offer, within the time specified in the offer or (if no such time is specified) within a reasonable time after making the offer.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsection (2) does not apply if:
 (a)the person’s failure to provide the rebate, gift, prize or other free item in accordance with the offer was due to the act or omission of another person, or to some other cause beyond the person’s control; and
 (b)the person took reasonable precautions and exercised due diligence to avoid the failure.
@@ -2136,37 +2204,51 @@ Penalty:
 (a)the person offers to the other person a different rebate, gift, prize or other free item as a replacement; and
 (b)the other person agrees to receive the different rebate, gift, prize or other free item.
 (5)Strict liability applies to subsections (1)(b) and (2)(b).
+Penalty
+(5A)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(5B)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
+Other
 (6)This section does not affect the application of any other provision of this Part in relation to the supply or acquisition, or the possible supply or acquisition, of interests in land.
 ### 155. Misleading conduct as to the nature etc. of goods
 (1)A person commits an offence if the person, in trade or commerce, engages in conduct that is liable to mislead the public as to the nature, the manufacturing process, the characteristics, the suitability for their purpose or the quantity of any goods.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)Subsection (1) is an offence of strict liability.
+Penalty
+(3)An offence against subsection (1) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(4)An offence against subsection (1) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 156. Misleading conduct as to the nature etc. of services
 (1)A person commits an offence if the person, in trade or commerce, engages in conduct that is liable to mislead the public as to the nature, the characteristics, the suitability for their purpose or the quantity of any services.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)Subsection (1) is an offence of strict liability.
+Penalty
+(3)An offence against subsection (1) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(4)An offence against subsection (1) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 157. Bait advertising
 (1)A person commits an offence if:
 (a)the person, in trade or commerce, advertises goods or services for supply at a specified price; and
 (b)there are reasonable grounds for believing that the person will not be able to offer for supply those goods or services at that price for a period that is, and in quantities that are, reasonable, having regard to:
 (i)the nature of the market in which the person carries on business; and
 (ii)the nature of the advertisement.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, advertises goods or services for supply at a specified price; and
 (b)the person fails to offer such goods or services for supply at that price for a period that is, and in quantities that are, reasonable having regard to:
 (i)the nature of the market in which the person carries on business; and
 (ii)the nature of the advertisement.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsections (1) and (2) are offences of strict liability.
+Penalty
+(3A)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(3B)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
+Defence
 (4)In a prosecution of a person (the defendant) under subsection (2), for failing to offer goods or services to another person (the customer), it is a defence if:
 (a)the defendant proves that:
 (i)he or she offered to supply, or to procure a third person to supply, goods or services of the kind advertised to the customer within a reasonable time, in a reasonable quantity and at the advertised price; or
@@ -2176,34 +2258,22 @@ Penalty:
 (1)A person commits an offence if:
 (a)the person, in trade or commerce, accepts payment or other consideration for goods or services; and
 (b)at the time of the acceptance, the person intends not to supply the goods or services.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)Strict liability applies to subsection (1)(a).
 (3)A person commits an offence if:
 (a)the person, in trade or commerce, accepts payment or other consideration for goods or services; and
 (b)at the time of the acceptance, the person intends to supply goods or services materially different from the goods or services in respect of which the payment or other consideration is accepted.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (4)Strict liability applies to subsection (3)(a).
 (5)A person commits an offence if:
 (a)the person, in trade or commerce, accepts payment or other consideration for goods or services; and
 (b)at the time of the acceptance, the person was reckless as to whether he or she would be able to supply the goods or services:
 (i)within the period specified by or on behalf of the person at or before the time the payment or other consideration was accepted; or
 (ii)if no period is specified at or before that time — within a reasonable time.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (6)Strict liability applies to subsection (5)(a).
 (7)A person commits an offence if:
 (a)the person, in trade or commerce, accepts payment or other consideration for goods or services; and
 (b)the person fails to supply all the goods or services:
 (i)within the period specified by or on behalf of the person at or before the time the payment or other consideration was accepted; or
 (ii)if no period is specified at or before that time — within a reasonable time.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (8)Subsection (7) does not apply if:
 (a)the person’s failure to supply all the goods or services within the period, or within a reasonable time, was due to the act or omission of another person, or to some other cause beyond the person’s control; and
 (b)the person took reasonable precautions and exercised due diligence to avoid the failure.
@@ -2211,25 +2281,32 @@ Penalty:
 (a)the person offers to supply different goods or services as a replacement to the person (the customer) to whom the original supply was to be made; and
 (b)the customer agrees to receive the different goods or services.
 (10)Subsection (7) is an offence of strict liability.
+Penalty
+(10A)An offence against subsection (1), (3), (5) or (7) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(10B)An offence against subsection (1), (3), (5) or (7) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
+Other
 (11)Subsections (1), (3), (5) and (7) apply whether or not the payment or other consideration that the person accepted represents the whole or a part of the payment or other consideration for the supply of the goods or services.
 ### 159. Misleading representations about certain business activities
 (1)A person commits an offence if:
 (a)the person, in trade or commerce, makes a representation; and
 (b)the representation is false or misleading in a material particular; and
 (c)the representation concerns the profitability, risk or any other material aspect of any business activity that the person has represented as one that can be, or can be to a considerable extent, carried on at or from a person’s place of residence.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, makes a representation; and
 (b)the representation is false or misleading in a material particular; and
 (c)the representation concerns the profitability, risk or any other material aspect of any business activity:
 (i)that the person invites (whether by advertisement or otherwise) other persons to engage or participate in, or to offer or apply to engage or participate in; and
 (ii)that requires the performance of work by other persons, or the investment of money by other persons and the performance by them of work associated with the investment.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsections (1) and (2) are offences of strict liability.
+Penalty
+(4)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(5)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 160. Application of provisions of this Division to information providers
 (1)Sections 151, 152, 155, 156 and 159 do not apply to a publication of matter by an information provider if:
 (a)in any case — the information provider made the publication in the course of carrying on a business of providing information; or
@@ -2250,56 +2327,44 @@ Penalty:
 (b)either:
 (i)the person had issued the card; or
 (ii)the card was sent on behalf of the person who had issued the card.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)Subsection (1) does not apply if the person sends the card to the other person:
 (a)pursuant to a written request by the person who will be under a liability to the person who issued the card or article in respect of the use of the card or article; or
 (b)in renewal or replacement of, or in substitution for:
 (i)a card or article of the same kind previously sent to the other person pursuant to a written request by the person who was under a liability, to the person who issued the card previously so sent, in respect of the use of that card; or
 (ii)a card or article of the same kind previously sent to the other person and used for a purpose for which it was intended to be used.
 (3)A person commits an offence if the person takes any action that enables another person who has a credit card to use the card as a debit card.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (4)A person commits an offence if the person takes any action that enables another person who has a debit card to use the card as a credit card.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (5)Subsection (3) or (4) does not apply if the person takes the action in accordance with the other person’s written request.
 (6)Subsections (1), (3) and (4) are offences of strict liability.
+Penalty
+(7)An offence against subsection (1), (3) or (4) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(8)An offence against subsection (1), (3) or (4) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 162. Assertion of right to payment for unsolicited goods or services
 (1)A person commits an offence if the person, in trade or commerce, asserts a right to payment from another person for unsolicited goods.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if the person, in trade or commerce, asserts a right to payment from another person for unsolicited services.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)A person commits an offence if the person, in trade or commerce, sends to another person an invoice or other document that:
-(a)states the amount of a payment, or sets out the charge, for supplying unsolicited goods or unsolicited services; and
+(a)states the amount of a payment, or sets out the charge, for unsolicited goods or unsolicited services; and
 (b)does not contain a warning statement that complies with the requirements set out in the regulations made for the purposes of section 40(3)(b).
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (4)Subsection (1), (2) or (3) does not apply if the person proves that he or she had reasonable cause to believe that there was a right to the payment or charge.
 (5)Subsections (1), (2) and (3) are offences of strict liability.
+Penalty
+(6)An offence against subsection (1), (2) or (3) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(7)An offence against subsection (1), (2) or (3) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 163. Assertion of right to payment for unauthorised entries or advertisements
 (1)A person commits an offence if the person asserts a right to payment from another person of a charge for placing, in a publication, an entry or advertisement relating to:
 (a)the other person; or
 (b)the other person’s profession, business, trade or occupation.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if the person sends to another person an invoice or other document that:
 (a)states the amount of a payment, or sets out the charge, for placing, in a publication, an entry or advertisement relating to:
 (i)the other person; or
 (ii)the other person’s profession, business, trade or occupation; and
 (b)does not contain a warning statement that complies with the requirements set out in the regulations made for the purposes of section 43(2)(b).
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsections (1) and (2) do not apply if the person proves that he or she knew, or had reasonable cause to believe, that the other person authorised the placing of the entry or advertisement.
 (4)Subsections (1) and (2) do not apply to an entry or advertisement that is placed in a publication published by a person who is:
 (a)the publisher of a publication that has an audited circulation of 10,000 copies or more per week, as confirmed by the most recent audit of the publication by a body specified in the regulations made for the purposes of section 43(3)(a); or
@@ -2307,6 +2372,13 @@ Penalty:
 (c)the Commonwealth, a State or a Territory, or an authority of the Commonwealth, a State or a Territory; or
 (d)a person specified in regulations made for the purposes of section 43(3)(d).
 (5)Subsections (1) and (2) are offences of strict liability.
+Penalty
+(5A)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(5B)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
+Other
 (6)A person is not taken for the purposes of this section to have authorised the placing of the entry or advertisement, unless:
 (a)a document authorising the placing of the entry or advertisement has been signed by the person or by another person authorised by him or her; and
 (b)a copy of the document has been given to the person before the right to payment of a charge for the placing of the entry or advertisement is asserted; and
@@ -2317,14 +2389,14 @@ Penalty:
 ## Division 3 — Pyramid schemes
 ### 164. Participation in pyramid schemes
 (1)A person commits an offence if the person participates in a pyramid scheme.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if the person induces another person to participate in a pyramid scheme.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsections (1) and (2) are offences of strict liability.
+Penalty
+(4)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(5)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ## Division 4 — Pricing
 ### 165. Multiple pricing
 (1)A person commits an offence if:
@@ -2340,9 +2412,6 @@ Penalty:
 (a)the supply, or possible supply, to another person of goods or services of a kind ordinarily acquired for personal, domestic or household use or consumption; or
 (b)the promotion by any means of the supply to another person, or of the use by another person, of goods or services of a kind ordinarily acquired for personal, domestic or household use or consumption;
 makes a representation with respect to an amount that, if paid, would constitute a part of the consideration for the supply of the goods or services.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person is not required to include, in the single price for goods, a charge that is payable in relation to sending the goods from the supplier to the other person.
 (3)Subsection (1) does not apply if the person also:
 (a)specifies, in a prominent way and as a single figure, the single price for the goods or services; and
@@ -2357,6 +2426,12 @@ specifies that minimum amount.
 (b)the contract provides for periodic payments for the services to be made during the term of the contract; and
 (c)if the contract also provides for the supply of goods — the goods are directly related to the supply of the services.
 (7)Subsection (1) is an offence of strict liability.
+Penalty
+(8)An offence against subsection (1) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(9)An offence against subsection (1) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ## Division 5 — Other unfair practices
 ### 167. Referral selling
 (1)A person commits an offence if:
@@ -2364,10 +2439,13 @@ specifies that minimum amount.
 (i)giving the person the names of prospective customers; or
 (ii)otherwise assisting the person to supply goods or services to other consumers; and
 (b)the receipt of the rebate, commission or other benefit is contingent on an event occurring after that contract is made.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)Subsection (1) is an offence of strict liability.
+Penalty
+(3)An offence against subsection (1) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(4)An offence against subsection (1) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 168. Harassment and coercion
 (1)A person commits an offence if:
 (a)the person uses physical force, or undue harassment or coercion; and
@@ -2376,10 +2454,14 @@ Penalty:
 (ii)the payment for goods or services; or
 (iii)the sale or grant, or the possible sale or grant, of an interest in land; or
 (iv)the payment for an interest in land.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)Subsection (1) is an offence of strict liability.
+Penalty
+(2A)An offence against subsection (1) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(2B)An offence against subsection (1) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
+Other
 (3)Subsections (1)(b)(iii) and (iv) do not affect the application of any other provision of this Part in relation to the supply or acquisition, or the possible supply or acquisition, of interests in land.
 ## Part 4-2 — Offences relating to consumer transactions
 ## Division 1 — Consumer guarantees
@@ -2400,12 +2482,8 @@ Penalty:
 ### 170. Permitted hours for negotiating an unsolicited consumer agreement
 (1)A dealer commits an offence if the dealer calls on a person for the purpose of negotiating an unsolicited consumer agreement, or for an incidental or related purpose:
 (a)at any time on a Sunday or a public holiday; or
-(b)on a Saturday:
-(i)between midnight and 9 am; or
-(ii)between 5 pm and midnight; or
-(c)on any other day:
-(i)between midnight and 9 am; or
-(ii)between 6 pm and midnight.
+(b)before 9 am on any other day; or
+(c)after 6 pm on any other day (or after 5 pm if the other day is a Saturday).
 Penalty:
 (a)if the person is a body corporate — $50,000; or
 (b)if the person is not a body corporate — $10,000.
@@ -2413,7 +2491,6 @@ Penalty:
 (a)was given by the person to the dealer or a person acting on the dealer’s behalf; and
 (b)was not given in the presence of the dealer or a person acting on the dealer’s behalf.
 (3)Subsection (1) is an offence of strict liability.
-[Section 170 modified: No. 57 of 2010 s. 36(3); altered: the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 5.]
 ### 171. Disclosing purpose and identity
 (1)A dealer commits an offence if the dealer:
 (a)calls on a person for the purpose of negotiating an unsolicited consumer agreement, or for an incidental or related purpose; and
@@ -2535,15 +2612,15 @@ Penalty:
 (a)if the person is a body corporate — $50,000; or
 (b)if the person is not a body corporate — $10,000.
 (2)Subsection (1) is an offence of strict liability.
-### 179. Prohibition on supplies for 10 business days
+### 179. Prohibition on supplies etc.
 (1)The supplier under an unsolicited consumer agreement commits an offence if:
 (a)the supplier:
 (i)supplies to the consumer under the agreement the goods or services to be supplied under the agreement; or
 (ii)accepts any payment, or any other consideration, in connection with those goods or services; or
 (iii)requires any payment, or any other consideration, in connection with those goods or services; and
-(b)the supply, acceptance or requirement occurs during the period of 10 business days starting:
-(i)if the agreement was not negotiated by telephone — at the start of the first business day after the day on which the agreement was made; or
-(ii)if the agreement was negotiated by telephone — at the start of the first business day after the day on which the consumer was given the agreement document relating to the agreement.
+(b)the supply, acceptance or requirement occurs during:
+(i)if the agreement was not negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the agreement was made; or
+(ii)if the agreement was negotiated by telephone — the period starting on the day on which the agreement was made and ending at the end of the tenth business day after the day on which the consumer was given the agreement document relating to the agreement.
 Penalty:
 (a)if the person is a body corporate — $50,000; or
 (b)if the person is not a body corporate — $10,000.
@@ -2607,10 +2684,10 @@ This Division (other than section 170) does not apply, or provisions of this Div
 (c)the conduct of businesses of a kind specified in those regulations.
 ### 187. Application of this Division to certain conduct covered by the Corporations Act
 This Division does not apply in relation to conduct to which section 736, 992A or 992AA of the Corporations Act 2001 applies.
-Note:Section 736 of the Corporations Act 2001 prohibits hawking of securities. Section 992A of that Act prohibits hawking of certain financial products. Section 992AA of that Act prohibits hawking of managed investment products.
+Note:Section 736 of the Corporations Act 2001 prohibits hawking of securities. Section 992A of that Act prohibits hawking of certain financial products. Section 992AA of that Act prohibits hawking of interests in managed investment schemes (which for the purposes of that Act include interests in notified foreign passport funds).
 ## Division 3 — Lay-by agreements
 ### 188. Lay-by agreements must be in writing etc.
-(1)A supplier of consumer goods who is a party to a lay-by agreement commits an offence if:
+(1)A supplier of goods who is a party to a lay-by agreement commits an offence if:
 (a)the agreement is not in writing; or
 (b)a copy of the agreement is not given to the consumer to whom the goods are, or are to be, supplied.
 Penalty:
@@ -2618,14 +2695,14 @@ Penalty:
 (b)if the person is not a body corporate — $6,000.
 (2)Subsection (1) is an offence of strict liability.
 ### 189. Termination charges
-(1)A supplier of consumer goods who is a party to a lay-by agreement commits an offence if the agreement requires the consumer to pay a termination charge.
+(1)A supplier of goods who is a party to a lay-by agreement commits an offence if the agreement requires the consumer to pay a termination charge.
 Penalty:
 (a)if the person is a body corporate — $30,000; or
 (b)if the person is not a body corporate — $6,000.
 (2)Subsection (1) does not apply if the termination charge is payable only if:
 (a)the agreement is terminated by the consumer; and
 (b)the supplier has not breached the agreement.
-(3)A supplier of consumer goods who is a party to a lay-by agreement commits an offence if:
+(3)A supplier of goods who is a party to a lay-by agreement commits an offence if:
 (a)the agreement provides that a termination charge is payable; and
 (b)the amount of the charge is more than the supplier’s reasonable costs in relation to the agreement.
 Penalty:
@@ -2633,23 +2710,64 @@ Penalty:
 (b)if the person is not a body corporate — $6,000.
 (4)Subsections (1) and (3) are offences of strict liability.
 ### 190. Termination of lay-by agreements by suppliers
-(1)A supplier of consumer goods who is a party to a lay-by agreement commits an offence if the supplier terminates the agreement.
+(1)A supplier of goods who is a party to a lay-by agreement commits an offence if the supplier terminates the agreement.
 Penalty:
 (a)if the person is a body corporate — $30,000; or
 (b)if the person is not a body corporate — $6,000.
 (2)Subsection (1) does not apply if:
 (a)the consumer who is a party to the agreement breached a term of the agreement; or
 (b)the supplier is no longer engaged in trade or commerce; or
-(c)the consumer goods to which the agreement relates are no longer available.
+(c)the goods to which the agreement relates are no longer available.
 (3)Subsection (1) is an offence of strict liability.
 ### 191. Refund of amounts
-(1)A supplier of consumer goods who is a party to a lay-by agreement commits an offence if:
+(1)A supplier of goods who is a party to a lay-by agreement commits an offence if:
 (a)the agreement is terminated by a party to the agreement; and
 (b)the supplier fails to refund to the consumer all the amounts paid by the consumer under the agreement (other than any termination charge that is payable under the agreement).
 Penalty:
 (a)if the person is a body corporate — $30,000; or
 (b)if the person is not a body corporate — $6,000.
 (2)Subsection (1) is an offence of strict liability.
+## Division 3A—Gift cards
+### 191A. Gift cards to be redeemable for at least 3 years
+(1)A person commits an offence if:
+(a)the person, in trade or commerce, supplies a gift card to a consumer; and
+(b)the day the gift card ceases to be redeemable is earlier than 3 years after the day of that supply.
+Penalty:
+(a)if the person is a body corporate—$30,000; or
+(b)if the person is not a body corporate—$6,000.
+(2)Subsection (1) is an offence of strict liability.
+### 191B. When gift card ceases to be redeemable to appear prominently on gift card
+(1)A person commits an offence if:
+(a)the person, in trade or commerce, supplies a gift card to a consumer; and
+(b)one of the following does not appear prominently on the gift card:
+(i)the date the gift card ceases to be redeemable;
+(ii)the month and year the gift card ceases to be redeemable;
+(iii)the date the gift card is supplied and a statement that identifies the period during which the gift card is redeemable;
+(iv)the month and year the gift card is supplied and a statement that identifies the period during which the gift card is redeemable;
+(v)the words “no expiry date” or words to that effect.
+Penalty:
+(a)if the person is a body corporate—$30,000; or
+(b)if the person is not a body corporate—$6,000.
+(2)Subsection (1) is an offence of strict liability.
+### 191C. Terms and conditions not to allow post-supply fees
+(1)A person commits an offence if:
+(a)the person, in trade or commerce, supplies a gift card to a consumer; and
+(b)the terms or conditions (however described) of the gift card allow or require the payment of a post-supply fee in relation to the gift card.
+Penalty:
+(a)if the person is a body corporate—$30,000; or
+(b)if the person is not a body corporate—$6,000.
+(2)An offence against subsection (1) is an offence of strict liability.
+### 191D. Post-supply fees not to be demanded or received
+(1)A person commits an offence if the person, in trade or commerce, demands or receives payment of a post-supply fee in relation to a gift card.
+Penalty:
+(a)if the person is a body corporate—$30,000; or
+(b)if the person is not a body corporate—$6,000.
+(2)An offence against subsection (1) is an offence of strict liability.
+### 191E. Regulations may limit the application of this Division
+The regulations may provide that some or all of the provisions of this Division do not apply to or in relation to:
+(a)gift cards of a kind prescribed by the regulations; or
+(b)persons of a kind prescribed by the regulations; or
+(c)gift cards supplied in circumstances prescribed by the regulations.
 ## Division 4 — Miscellaneous
 ### 192. Prescribed requirements for warranties against defects
 (1)A person commits an offence if the person, in connection with the supply, in trade or commerce, of goods or services to a consumer:
@@ -2675,49 +2793,43 @@ Penalty:
 (a)the person, in trade or commerce, supplies consumer goods of a particular kind; and
 (b)a safety standard for consumer goods of that kind is in force; and
 (c)those goods do not comply with the standard.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, offers for supply (other than for export) consumer goods of a particular kind; and
 (b)a safety standard for consumer goods of that kind is in force; and
 (c)those goods do not comply with the standard.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)A person commits an offence if:
 (a)the person, in or for the purposes of trade or commerce, manufactures, possesses or has control of consumer goods of a particular kind; and
 (b)a safety standard for consumer goods of that kind is in force; and
 (c)those goods do not comply with the standard.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (4)Subsection (3) does not apply if the person does not manufacture, possess or control the goods for the purpose of supplying the goods (other than for export).
 (5)A person commits an offence if:
 (a)the person, in trade or commerce, exports consumer goods of a particular kind; and
 (b)a safety standard for consumer goods of that kind is in force; and
 (c)those goods do not comply with the standard.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (6)Subsection (5) does not apply if the Commonwealth Minister has, by written notice given to the person, approved the export of the goods under section 106(5).
 (7)Subsections (1), (2), (3) and (5) are offences of strict liability.
+Penalty
+(8)An offence against subsection (1), (2), (3) or (5) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(9)An offence against subsection (1), (2), (3) or (5) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 195. Supplying etc. product related services that do not comply with safety standards
 (1)A person commits an offence if:
 (a)the person, in trade or commerce, supplies product related services of a particular kind; and
 (b)a safety standard for services of that kind is in force; and
 (c)those services do not comply with the standard.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, offers for supply product related services of a particular kind; and
 (b)a safety standard for services of that kind is in force; and
 (c)those services do not comply with the standard.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsections (1) and (2) are offences of strict liability.
+Penalty
+(4)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(5)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 196. Requirement to nominate a safety standard
 (1)A person commits an offence if the person refuses or fails to comply with a request given to the person under section 108.
 Penalty:
@@ -2731,64 +2843,58 @@ Penalty:
 (b)either:
 (i)an interim ban on goods of that kind is in force in the place where the supply occurs; or
 (ii)a permanent ban on goods of that kind is in force.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, offers for supply (other than for export) consumer goods of a particular kind; and
 (b)the supply would be prohibited by subsection (1).
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)A person commits an offence if:
 (a)the person, in or for the purposes of trade or commerce, manufactures, possesses or has control of consumer goods of a particular kind; and
 (b)supply of the goods would be prohibited by subsection (1).
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (4)Subsection (3) does not apply if the person does not manufacture, possess or control the goods for the purpose of supplying the goods (other than for export).
 (5)A person commits an offence if:
 (a)the person exports consumer goods of a particular kind; and
 (b)supply of the goods would be prohibited by subsection (1).
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (6)Subsection (5) does not apply if the Commonwealth Minister has, by written notice given to the person, approved the export of the goods under section 118(5).
 (7)Subsections (1), (2), (3) and (5) are offences of strict liability.
+Penalty
+(8)An offence against subsection (1), (2), (3) or (5) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(9)An offence against subsection (1), (2), (3) or (5) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 198. Supplying etc. product related services covered by a ban
 (1)A person commits an offence if:
 (a)the person, in trade or commerce, supplies product related services of a particular kind; and
 (b)either:
 (i)an interim ban on services of that kind is in force in the place where the supply occurs; or
 (ii)a permanent ban on services of that kind is in force.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, offers for supply product related services of a particular kind; and
 (b)the supply would be prohibited by subsection (1).
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsections (1) and (2) are offences of strict liability.
+Penalty
+(4)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(5)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ## Division 3 — Recall of consumer goods
 ### 199. Compliance with recall orders
 (1)A person commits an offence if:
 (a)a recall notice for consumer goods is in force; and
 (b)the notice requires the person (other than the regulator) to do one or more things; and
 (c)the person refuses or fails to comply with the notice.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)a recall notice for consumer goods is in force; and
 (b)the person, in trade or commerce:
 (i)if the notice identifies a defect in, or a dangerous characteristic of, the consumer goods — supplies consumer goods of the kind to which the notice relates which contain that defect or have that characteristic; or
 (ii)in any other case — supplies consumer goods of the kind to which the notice relates.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsections (1) and (2) are offences of strict liability.
+Penalty
+(4)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(5)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 200. Notification by persons who supply consumer goods outside Australia if there is compulsory recall
 (1)A person commits an offence if:
 (a)the person is required by section 125(4) to give a copy of a notice to a responsible Minister; and
@@ -2826,23 +2932,14 @@ Penalty:
 (a)the person, in trade or commerce, supplies goods of a particular kind; and
 (b)an information standard for goods of that kind is in force; and
 (c)the person has not complied with the standard in relation to the goods.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, offers for supply goods of a particular kind; and
 (b)an information standard for goods of that kind is in force; and
 (c)the person has not complied with the standard in relation to the goods.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)A person commits an offence if:
 (a)the person, in or for the purposes of trade or commerce, manufactures, possesses or has control of goods of a particular kind; and
 (b)an information standard for goods of that kind is in force; and
 (c)the person has not complied with the standard in relation to the goods.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (4)Subsection (3) does not apply if the person does not manufacture, possess or control the goods for the purpose of supplying the goods.
 (5)Subsection (1), (2) or (3) does not apply to goods that are intended to be used outside Australia.
 (6)Unless the contrary is established, it is presumed, for the purposes of this section, that goods are intended to be used outside Australia if either of the following is applied to the goods:
@@ -2852,22 +2949,28 @@ Penalty:
 (a)woven in, impressed on, worked into or annexed or affixed to the goods; or
 (b)applied to a covering, label, reel or thing in or with which the goods are supplied.
 (8)Subsections (1), (2) and (3) are offences of strict liability.
+Penalty
+(9)An offence against subsection (1), (2) or (3) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(10)An offence against subsection (1), (2) or (3) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ### 204. Supplying etc. services that do not comply with information standards
 (1)A person commits an offence if:
 (a)the person, in trade or commerce, supplies services of a particular kind; and
 (b)an information standard for services of that kind is in force; and
 (c)the person has not complied with the standard in relation to the services.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (2)A person commits an offence if:
 (a)the person, in trade or commerce, offers for supply services of a particular kind; and
 (b)an information standard for services of that kind is in force; and
 (c)the person has not complied with the standard in relation to the services.
-Penalty:
-(a)if the person is a body corporate — $1,100,000; or
-(b)if the person is not a body corporate — $220,000.
 (3)Subsections (1) and (2) are offences of strict liability.
+Penalty
+(4)An offence against subsection (1) or (2) committed by a body corporate is punishable on conviction by a fine of not more than the greater of the following:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the commission of the offence—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the body corporate committed, or began committing, the offence.
+(5)An offence against subsection (1) or (2) committed by a person other than a body corporate is punishable on conviction by a fine of not more than $500,000.
 ## Part 4-5 — Offences relating to substantiation notices
 ### 205. Compliance with substantiation notices
 (1)A person commits an offence if the person:
@@ -2907,7 +3010,7 @@ Penalty:
 (b)the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
 (2)However, subsection (1) does not apply in relation to the act or default of another person who was, at the time when the contravention occurred:
 (a)an employee or agent of the defendant; or
-(b)if the defendant is a body corporate — a director, employee or agent of the defendant.
+(b)if the defendant is a body corporate—a director, employee or agent of the defendant.
 (3)If a defence provided by subsection (1) involves an allegation that a contravention was due to the act or default of another person, the defendant is not entitled to rely on that defence unless:
 (a)the court gives leave; or
 (b)the defendant has, not later than 7 days before the day on which the hearing of the proceeding commences, served on the person who instituted the proceeding a written notice giving such information as the defendant then had that would identify or assist in identifying the other person.
@@ -3069,6 +3172,7 @@ the regulator may issue to the public a written notice containing a warning that
 (iii)section 66(2) (which is about display notices);
 (iv)a provision (other than section 85) of Division 2 of Part 3-2 (which is about unsolicited consumer agreements);
 (v)a provision (other than section 96(2)) of Division 3 of Part 3-2 (which is about lay-by agreements);
+(va)section 99B(1), 99C, 99D(1), 99E or 99F(2) (which are about gift cards);
 (vi)section 100(1) or (3) or 101(3) or (4) (which are about proof of transactions and itemised bills);
 (vii)section 102(2) or 103(2) (which are about prescribed requirements for warranties and repairers);
 (viii)section 106(1), (2), (3) or (5), 107(1) or (2), 118(1), (2), (3) or (5), 119(1) or (2), 125(4), 127(1) or (2), 128(2) or (6), 131(1) or 132(1) (which are about safety of consumer goods and product related services);
@@ -3087,21 +3191,26 @@ the court may order the person to pay to the Commonwealth, State or Territory, a
 (3)The pecuniary penalty payable under subsection (1) is not to exceed the amount worked out using the following table:
 Amount of pecuniary penalty
 Item | For each act or omission to which this section applies that relates to... | the pecuniary penalty is not to exceed...
-1 | a provision of Part 2-2 | (a)if the person is a body corporate — $1.1 million; or (b)if the person is not a body corporate — $220,000.
-2 | a provision of Part 3-1 (other than section 47(1)) | (a)if the person is a body corporate — $1.1 million; or (b)if the person is not a body corporate — $220,000.
+1 | a provision of Part 2-2 | (a)if the person is a body corporate — the greater of the amounts mentioned in subsection (3A); or (b)if the person is not a body corporate — $500,000.
+2 | a provision of Part 3-1 (other than section 47(1)) | (a)if the person is a body corporate — the greater of the amounts mentioned in subsection (3A); or (b)if the person is not a body corporate — $500,000.
 3 | section 47(1) | (a)if the person is a body corporate — $5,000; or (b)if the person is not a body corporate — $1,000.
 4 | section 66(2) | (a)if the person is a body corporate — $50,000; or (b)if the person is not a body corporate — $10,000.
 5 | a provision of Division 2 of Part 3-2 (other than section 85) | (a)if the person is a body corporate — $50,000; or (b)if the person is not a body corporate — $10,000.
 6 | a provision of Division 3 of Part 3-2 (other than section 96(2)) | (a)if the person is a body corporate — $30,000; or (b)if the person is not a body corporate — $6,000.
+6A | section 99B(1), 99C, 99D(1), 99E or 99F(2) | (a) if the person is a body corporate—$30,000; or (b) if the person is not a body corporate—$6,000.
 7 | section 100(1) or (3) or 101(3) or (4) | (a)if the person is a body corporate — $15,000; or (b)if the person is not a body corporate — $3,000.
 8 | section 102(2) or 103(2) | (a)if the person is a body corporate — $50,000; or (b)if the person is not a body corporate — $10,000.
-9 | section 106(1), (2), (3) or (5), 107(1) or (2), 118(1), (2), (3) or (5) or 119(1) or (2) | (a)if the person is a body corporate — $1.1 million; or (b)if the person is not a body corporate — $220,000.
+9 | section 106(1), (2), (3) or (5), 107(1) or (2), 118(1), (2), (3) or (5) or 119(1) or (2) | (a)if the person is a body corporate — the greater of the amounts mentioned in subsection (3A); or (b)if the person is not a body corporate — $500,000.
 10 | section 125(4) | (a)if the person is a body corporate — $16,500; or (b)if the person is not a body corporate — $3,300.
-11 | section 127(1) or (2) | (a)if the person is a body corporate — $1.1 million; or (b)if the person is not a body corporate — $220,000.
+11 | section 127(1) or (2) | (a)if the person is a body corporate — the greater of the amounts mentioned in subsection (3A); or (b)if the person is not a body corporate — $500,000.
 12 | section 128(2) or (6), 131(1) or 132(1) | (a)if the person is a body corporate — $16,500; or (b)if the person is not a body corporate — $3,300.
-13 | section 136(1), (2) or (3) or 137(1) or (2) | (a)if the person is a body corporate — $1.1 million; or (b)if the person is not a body corporate — $220,000.
+13 | section 136(1), (2) or (3) or 137(1) or (2) | (a)if the person is a body corporate — the greater of the amounts mentioned in subsection (3A); or (b)if the person is not a body corporate — $500,000.
 14 | section 221(1) | (a)if the person is a body corporate — $16,500; or (b)if the person is not a body corporate — $3,300.
 15 | section 222(1) | (a)if the person is a body corporate — $27,500; or (b)if the person is not a body corporate — $5,500.
+(3A)For the purposes of items 1, 2, 9, 11 and 13 of the table in subsection (3), the amounts are as follows:
+(a)$10,000,000;
+(b)if the court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the act or omission—3 times the value of that benefit;
+(c)if the court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the 12-month period ending at the end of the month in which the act or omission occurred or started to occur.
 (4)If conduct constitutes a contravention of 2 or more provisions referred to in subsection (1)(a):
 (a)a proceeding may be instituted under this Schedule against a person in relation to the contravention of any one or more of the provisions; but
 (b)a person is not liable to more than one pecuniary penalty under this section in respect of the same conduct.
@@ -3154,7 +3263,7 @@ Penalty: $2,750.
 (e)being in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by a person of such a provision; or
 (f)conspiring with others to contravene such a provision.
 (2)The court may grant the injunction on application by the regulator or any other person.
-(3)Subsection (1) applies in relation to conduct constituted by applying or relying on, or purporting to apply or rely on, a term of a consumer contract that has been declared under section 250 to be an unfair term as if the conduct were a contravention of a provision of Chapter 2.
+(3)Subsection (1) applies in relation to conduct constituted by applying or relying on, or purporting to apply or rely on, a term of a contract that has been declared under section 250 to be an unfair term as if the conduct were a contravention of a provision of Chapter 2.
 (4)The power of the court to grant an injunction under subsection (1) restraining a person from engaging in conduct may be exercised:
 (a)whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of a kind referred to in that subsection; and
 (b)whether or not the person has previously engaged in conduct of that kind; and
@@ -3195,7 +3304,7 @@ the claimant may recover the amount of the loss or damage by action against that
 (1)A court may:
 (a)on application of a person (the injured person) who has suffered, or is likely to suffer, loss or damage because of the conduct of another person that:
 (i)was engaged in a contravention of a provision of Chapter 2, 3 or 4; or
-(ii)constitutes applying or relying on, or purporting to apply or rely on, a term of a consumer contract that has been declared under section 250 to be an unfair term; or
+(ii)constitutes applying or relying on, or purporting to apply or rely on, a term of a contract that has been declared under section 250 to be an unfair term; or
 (b)on the application of the regulator made on behalf of one or more such injured persons;
 make such order or orders as the court thinks appropriate against the person who engaged in the conduct, or a person involved in that conduct.
 Note 1:For applications for an order or orders under this subsection, see section 242.
@@ -3209,7 +3318,7 @@ Note 2:The orders that the court may make include all or any of the orders set o
 ### 238. Compensation orders etc. arising out of other proceedings
 (1)If a court finds, in a proceeding instituted under a provision of Chapter 4 or this Chapter (other than this section), that a person (the injured person) who is a party to the proceeding has suffered, or is likely to suffer, loss or damage because of the conduct of another person that:
 (a)was engaged in a contravention of a provision of Chapter 2, 3 or 4; or
-(b)constitutes applying or relying on, or purporting to apply or rely on, a term of a consumer contract that has been declared under section 250 to be an unfair term;
+(b)constitutes applying or relying on, or purporting to apply or rely on, a term of a contract that has been declared under section 250 to be an unfair term;
 the court may make such order or orders as it thinks appropriate against the person who engaged in the conduct, or a person involved in that conduct.
 Note:The orders that the court may make include all or any of the orders set out in section 243.
 (2)The order must be an order that the court considers will:
@@ -3220,7 +3329,7 @@ Note:The orders that the court may make include all or any of the orders set out
 (1)If:
 (a)a person:
 (i)engaged in conduct (the contravening conduct) in contravention of a provision of Chapter 2, Part 3-1, Division 2, 3 or 4 of Part 3-2 or Chapter 4; or
-(ii)is a party to a consumer contract who is advantaged by a term (the declared term) of the contract in relation to which a court has made a declaration under section 250; and
+(ii)is a party to a contract who is advantaged by a term (the declared term) of the contract in relation to which a court has made a declaration under section 250; and
 (b)the contravening conduct or declared term caused, or is likely to cause, a class of persons to suffer loss or damage; and
 (c)the class includes persons who are non-party consumers in relation to the contravening conduct or declared term;
 a court may, on the application of the regulator, make such order or orders (other than an award of damages) as the court thinks appropriate against a person referred to in subsection (2) of this section.
@@ -3252,7 +3361,7 @@ Note 2:The orders that the court may make include all or any of the orders set o
 no claim, action or demand may be made or taken against the person by the non-party consumer in relation to that loss or damage.
 ## Subdivision C — Miscellaneous
 ### 242. Applications for orders
-(1)An application may be made under section 237(1) or 239(1) even if an enforcement proceeding in relation to the conduct, or the term of a consumer contract, referred to in that subsection has not been instituted.
+(1)An application may be made under section 237(1) or 239(1) even if an enforcement proceeding in relation to the conduct, or the term of a contract, referred to in that subsection has not been instituted.
 (2)The regulator must not make an application under section 237(1)(b) on behalf of one or more persons unless those persons have consented in writing to the making of the application.
 ### 243. Kinds of orders that may be made
 Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following:
@@ -3283,6 +3392,10 @@ Subdivisions A and B of this Division do not limit the generality of Division 2 
 (b)constitutes an involvement in a contravention of such a provision.
 (2)The court may make the following orders in relation to the person who has engaged in the conduct:
 (a)an order directing the person to perform a service that is specified in the order, and that relates to the conduct, for the benefit of the community or a section of the community;
+(aa)an order requiring the person, at the person’s expense, to engage:
+(i)another person specified in the order; or
+(ii)another person in a class of persons specified in the order;
+to perform a service that is specified in the order and that relates to the conduct, for the benefit of the community or a section of the community;
 (b)an order for the purpose of ensuring that the person does not engage in the conduct, similar conduct, or related conduct, during the period of the order (which must not be longer than 3 years) including:
 (i)an order directing the person to establish a compliance program for employees or other persons involved in the person’s business, being a program designed to ensure their awareness of the responsibilities and obligations in relation to such conduct; and
 (ii)an order directing the person to establish an education and training program for employees or other persons involved in the person’s business, being a program designed to ensure their awareness of the responsibilities and obligations in relation to such conduct; and
@@ -3292,6 +3405,7 @@ Subdivisions A and B of this Division do not limit the generality of Division 2 
 Note:The following are examples of orders that the court may make under subsection (2)(a):
 (a)an order requiring a person who has made false representations to make available a training video which explains advertising obligations under this Schedule;
 (b)an order requiring a person who has engaged in misleading or deceptive conduct in relation to a product to carry out a community awareness program to address the needs of consumers when purchasing the product.
+(2A)An order under subsection (2)(aa) is not enforceable against a person mentioned in subsections (2)(aa)(i) and (ii).
 (3)This section does not limit a court’s powers under any other provision of this Schedule.
 ### 247. Adverse publicity orders
 (1)A court may, on application of the regulator, make an adverse publicity order in relation to a person who:
@@ -3332,10 +3446,16 @@ on the ground that the answer or information, production of the document or othe
 (b)to produce a document or any other thing; or
 (c)to do any other act;
 on the ground that the answer or information, production of the document or other thing, or doing that other act, as the case may be, might tend to expose the person to a penalty (including forfeiture) by way of an order under section 248.
-### 250. Declarations relating to consumer contracts
-(1)A court may, on the application of a party to a consumer contract or on the application of the regulator, declare that a term of such a contract is an unfair term.
-(2)Subsection (1) does not apply unless the consumer contract is a standard form contract.
-(3)Subsection (1) does not limit any other power of the court to make declarations.
+### 250. Declarations relating to consumer contracts and small business contracts
+(1)The Court may declare that a term of a consumer contract is an unfair term, on application by:
+(a)a party to the contract; or
+(b)the regulator.
+(2)The Court may declare that a term of a small business contract is an unfair term, on application by:
+(a)a party to the contract, if the party was a business of the kind referred to in paragraph 23(4)(b) at the time the contract was entered into; or
+(b)the regulator.
+(3)Subsections (1) and (2) do not apply unless the contract is a standard form contract.
+(4)Subsections (1) and (2) do not apply if Part 2-3 does not apply to the contract.
+(5)Subsections (1) and (2) do not limit any other power of the court to make declarations.
 ## Division 6 — Defences
 ### 251. Publication of advertisement in the ordinary course of business
 (1)This section applies to a proceeding under this Part in relation to a contravention of a provision of Part 2-1 or 2-2 or Chapter 3 if the contravention was committed by the publication of an advertisement.
@@ -3378,52 +3498,25 @@ This Part provides that certain country of origin representations made about goo
 (1)A person does not contravene section 18, 29(1)(a) or (k) or 151(1)(a) or (k) only by making a representation of a kind referred to in an item in the first column of this table, if the requirements of the corresponding item in the second column are met.
 Country of origin representations
 Item | Representation | Requirements to be met
-1 | A representation as to the country of origin of goods | (a)the goods have been substantially transformed in that country; and (b)50% or more of the total cost of producing or manufacturing the goods as worked out under section 256 is attributable to production or manufacturing processes that occurred in that country; and (c)the representation is not a representation to which item 2 or 3 of this table applies.
-2 | A representation that goods are the produce of a particular country | (a)the country was the country of origin of each significant ingredient or significant component of the goods; and (b)all, or virtually all, processes involved in the production or manufacture happened in that country.
-3 | A representation as to the country of origin of goods by means of a logo specified in the regulations | (a)the goods have been substantially transformed in the country represented by the logo as the country of origin of the goods; and (b)the prescribed percentage of the cost of producing or manufacturing the goods as worked out under section 256 is attributable to production or manufacturing processes that happened in that country.
-4 | A representation that goods were grown in a particular country | (a)the country is the country that could, but for subsection (2), be represented, in accordance with this Part, as the country of origin of the goods, or the country of which the goods are the produce; and (b)each significant ingredient or significant component of the goods was grown in that country; and (c)all, or virtually all, processes involved in the production or manufacture happened in that country.
-5 | A representation that ingredients or components of goods were grown in a particular country | (a)the country is the country that could, but for subsection (2), be represented, in accordance with this Part, as the country of origin of the goods, or the country of which the goods are the produce; and (b)each ingredient or component that is claimed to be grown in that country was grown only in that country; and (c)each ingredient or component that is claimed to be grown in that country was processed only in that country; and (d)50% or more of the total weight of the goods is comprised of ingredients or components that were grown and processed only in that country.
-Note:The regulations may prescribe rules for determining the percentage of the total costs of production or manufacture of goods attributable to production or manufacturing processes that occurred in a particular country, see section 257.
-(2)Despite subsection (1), this section does not apply to a representation of a kind referred to in item 4 or 5 in the first column of the table in that subsection if the representation is made together with another representation of a kind referred to in item 1 or 2 in that first column.
-(3)Goods are substantially transformed in a country if they undergo a fundamental change in that country in form, appearance or nature such that the goods existing after the change are new and different goods from those existing before the change.
-(4)Without limiting subsection (3), the regulations:
-(a)may prescribe changes (whether in relation to particular classes of goods or otherwise) that are not fundamental changes for the purposes of that subsection; and
-(b)may include examples (in relation to particular classes of goods or otherwise) of changes which are fundamental changes for the purposes of that subsection.
+1 | A representation that goods were grown in a particular country | (a)each significant ingredient or significant component of the goods was grown in that country; and (b)all, or virtually all, processes involved in the production or manufacture of the goods happened in that country.
+2 | A representation that goods are the produce of a particular country | (a)the country was the country of origin of each significant ingredient or significant component of the goods; and (b)all, or virtually all, processes involved in the production or manufacture of the goods happened in that country.
+3 | A representation that goods were made or manufactured in, or otherwise originate in, a particular country | (a)the goods were last substantially transformed in that country; and (b)the representation is not a representation to which item 1 or 2 of this table applies.
+4 | A representation in the form of a mark specified in an information standard relating to country of origin labelling of goods | the requirements under the information standard relating to the use of that mark.
+(2)Goods were substantially transformed in a country if:
+(a)the goods met, in relation to that country, the requirements of item 1 or 2 in the second column of the table in subsection (1); or
+(b)as a result of one or more processes undertaken in that country, the goods are fundamentally different in identity, nature or essential character from all of their ingredients or components that were imported into that country.
+(3)Without limiting subsection (2), the regulations:
+(a)may prescribe (in relation to particular classes of goods or otherwise) processes or combinations of processes that, for the purposes of that subsection, do not have the result described in subsection (2)(b); and
+(b)may include examples (in relation to particular classes of goods or otherwise) of processes or combinations of processes that, for the purposes of that subsection, have the result described in subsection (2)(b).
 (5)Item 2 of the table in subsection (1) applies to a representation that goods are the produce of a particular country whether the representation uses the words “product of”, “produce of” or any other grammatical variation of the word “produce”.
-(6)The regulations made for the purposes of item 3 of the table in subsection (1) may, in relation to a specified logo, prescribe a percentage in the range of 51% to 100% as the percentage applicable to goods for the purposes of paragraph (b) in the second column of that item.
 (7)Goods, or ingredients or components of goods, are grown in a country if they:
 (a)are materially increased in size or materially altered in substance in that country by natural development; or
 (b)germinated or otherwise arose in, or issued in, that country; or
 (c)are harvested, extracted or otherwise derived from an organism that has been materially increased in size, or materially altered in substance, in that country by natural development.
-(8)For the purposes of items 4 and 5 in the table in subsection (1) in relation to particular goods:
-(a)packaging materials are not treated as ingredients or components of the goods; and
-(b)disregard the weight of packaging materials in working out the weight of the goods.
-(9)For the purposes of items 4 and 5 in the table in subsection (1) in relation to an ingredient or component that has been dried or concentrated by the evaporation of water, and to which water has been added to return the water content of the ingredient or component to no more than its natural level:
-(a)the weight of the water so added is included in the weight of the ingredient or component; and
-(b)the water so added is treated as having the same origin as the ingredient or component, regardless of its actual origin.
-### 256. Cost of producing or manufacturing goods
-(1)The cost of producing or manufacturing goods is worked out, for the purposes of section 255, by adding up the following amounts:
-(a)the amount of expenditure on materials in respect of the goods;
-(b)the amount of expenditure on labour in respect of the goods;
-(c)the amount of expenditure on overheads in respect of the goods;
-each worked out in accordance with this table:
-Cost of producing or manufacturing goods
-Item | This amount of expenditure: | is worked out as follows:
-1 | Expenditure on materials in respect of the goods | The cost of materials used in the production or manufacture of the goods: (a)that is incurred by the manufacturer of the goods; and (b)that has not been prescribed by regulations made for the purposes of subsection (2)(a).
-2 | Expenditure on labour in respect of the goods | The sum of each labour cost: (a)that is incurred by the manufacturer of the goods; and (b)that relates to the production or manufacture of the goods; and (c)that can reasonably be allocated to the production or manufacture of the goods; and (d)that has not been prescribed by regulations made for the purposes of subsection (2)(b).
-3 | Expenditure on overheads in respect of the goods | The sum of each overhead cost: (a)that is incurred by the manufacturer of the goods; and (b)that relates to the production or manufacture of the goods; and (c)that can reasonably be allocated to the production or manufacture of the goods; and (d)that has not been prescribed by regulations made for the purposes of subsection (2)(c).
-(2)The regulations may, for the purposes of subsection (1), prescribe that:
-(a)the cost of a particular material, or a part of such a cost; or
-(b)a particular labour cost, or a part of a labour cost; or
-(c)a particular overhead cost, or a part of an overhead cost;
-is not allowable in respect of goods, or classes of goods.
-(3)The regulations may, for the purposes of subsection (1), prescribe the manner of working out:
-(a)the cost of a material, or part of the cost; or
-(b)a labour cost, or part of the cost; or
-(c)an overhead cost, or part of the cost.
-### 257. Rules for determining the percentage of costs of production or manufacture attributable to a country
-(1)Subject to subsection (2), the regulations may prescribe rules for determining, for the purposes of section 255, the percentage of the total cost of production or manufacture of goods attributable to production or manufacturing processes that occurred in a particular country.
-(2)Rules prescribed under subsection (1) must not discriminate (whether favourably or unfavourably) between countries or classes of countries.
+(8)For the purposes of item 1 of the table in subsection (1) in relation to particular goods, packaging materials are not treated as ingredients or components of the goods.
+(9)For the purposes of item 1 of the table in subsection (1) in relation to an ingredient or component, water added to the ingredient or component is treated as having the same origin as the ingredient or component, regardless of its actual origin if:
+(a)the ingredient or component has been dried or concentrated by the evaporation of water; and
+(b)the added water returns the water content of the ingredient or component to no more than its natural level.
 ### 258. Proceedings relating to false, misleading or deceptive conduct or representations
 If:
 (a)proceedings are brought against a person in respect of section 18, 29(1)(a) or (k) or 151(1)(a) or (k); and
@@ -3766,11 +3859,49 @@ the following amounts may be recovered in the joint liability proceedings (to th
 (iii)prior negotiations or arrangements in relation to the acquisition of the goods were conducted or made with the consumer by or on behalf of the supplier; and
 (iv)the credit provider did not take physical possession of the goods before they were delivered to the consumer; or
 (b)the supply of services to the consumer by a person in relation to whom the credit provider is not a linked credit provider.
-Notes about the Australian Consumer Law (WA) text
-This note shows the version of the text of Schedule 2 to the Cwth Act, as in force on 1 January 2013, as modified by section 36 of the Act and the regulations made under section 116(3) of the Act referred to in the following table. The text of the regulations made under section 139G of the Cwth Act is not reproduced. The regulations can be accessed at www.comlaw.gov.au.
-Compilation table
-Citation | Commencement
-Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 as published in Gazette 17 Apr 2014 | 18 Apr 2014 (see r. 2(b))
+## Chapter 6—Application and transitional provisions
+## Part 1—Application and transitional provisions relating to the Consumer Credit Legislation Amendment (Enhancements) Act 2012
+### 288. Application of amendments relating to lay-by agreements
+The amendments made by items 1 to 8 and 10 to 15 of Schedule 7 to the Consumer Credit Legislation Amendment (Enhancements) Act 2012 apply to lay-by agreements entered into on or after the commencement of those items.
+### 289. Application of amendment relating to repairs
+The amendment made by item 9 of Schedule 7 to the Consumer Credit Legislation Amendment (Enhancements) Act 2012 applies to notices to be given in relation to the repair of goods accepted on or after the commencement of that item.
+### 290. Saving of regulations relating to repairs
+Despite the amendment made to subsection 103(1) of Schedule 2 to the Competition and Consumer Act 2010 by item 9 of Schedule 7 to the Consumer Credit Legislation Amendment (Enhancements) Act 2012, regulations that:
+(a)were made for the purposes of that subsection; and
+(b)were in force immediately before the commencement of that item;
+continue in force (and may be dealt with) as if they were made for the purposes of that subsection as amended by that item.
+## Part 1A—Application provision relating to the Treasury Legislation Amendment (Small Business and Unfair Contract Terms) Act 2015
+### 290A. Application
+(1)The amendments made by Schedule 1 to the Treasury Legislation Amendment (Small Business and Unfair Contract Terms) Act 2015 apply in relation to a contract entered into on or after the commencement of that Schedule.
+(2)The amendments do not apply to a contract entered into before the commencement of that Schedule. However:
+(a)if the contract is renewed on or after that commencement—the amendments apply to the contract as renewed, on and from the day (the renewal day) on which the renewal takes effect, in relation to conduct that occurs on or after the renewal day; or
+(b)if a term of the contract is varied on or after that commencement and paragraph (a) has not already applied in relation to the contract—the amendments apply to the term as varied, on and from the day (the variation day) on which the variation takes effect, in relation to conduct that occurs on and after the variation day.
+(3)If paragraph (2)(b) of this section applies to a term of a contract, subsection 23(2) and section 27 apply to the contract.
+(4)Despite paragraphs (2)(a) and (b) and subsection (3) of this section, the amendments do not apply to a contract, or a term of a contract, to the extent that the operation of the amendments would result in an acquisition of property (within the meaning of paragraph 51(xxxi) of the Constitution) from a person otherwise than on just terms (within the meaning of that paragraph of the Constitution).
+## Part 2—Application and transitional provisions relating to the Competition and Consumer Amendment (Competition Policy Review) Act 2017
+### 291. Application of amendments relating to confidentiality of notices
+The amendment made by Part 4 of Schedule 14 to the Competition and Consumer Amendment (Competition Policy Review) Act 2017 applies in relation to disclosures made on or after the commencement of that Part that relate to notices given on or after the commencement of that Part.
+### 292. Application of amendments relating to prohibition on supplies
+The amendments made by Part 6 of Schedule 14 to the Competition and Consumer Amendment (Competition Policy Review) Act 2017 apply in relation to unsolicited consumer agreements made on or after the commencement of that Part.
+## Part 3—Application provision relating to the Treasury Laws Amendment (2018 Measures No. 3) Act 2018
+### 295. Application of amendments
+The amendments made by Schedule 1 to the Treasury Laws Amendment (2018 Measures No. 3) Act 2018 apply in relation to acts or omissions that occur on or after the commencement of that Schedule.
+## Part 4—Application provisions relating to the Treasury Laws Amendment (Australian Consumer Law Review) Act 2018
+### 296. Application—listed public companies
+The amendments made by items 4 and 5 of Schedule 2 to the Treasury Laws Amendment (Australian Consumer Law Review) Act 2018 apply in relation to acts or omissions on or after the day that Schedule commences.
+### 297. Application—unsolicited supplies
+The amendments made by Schedule 3 to the Treasury Laws Amendment (Australian Consumer Law Review) Act 2018 apply in relation to acts or omissions on or after the day that Schedule commences.
+### 298. Application—unsolicited consumer agreements
+The amendment made by Schedule 4 to the Treasury Laws Amendment (Australian Consumer Law Review) Act 2018 applies in relation to acts or omissions that relate to agreements entered into on or after the day that Schedule commences.
+### 299. Application—single price
+The amendments made by Schedule 5 to the Treasury Laws Amendment (Australian Consumer Law Review) Act 2018 apply in relation to acts or omissions on or after the day that is 12 months after the day that Schedule commences.
+### 300. Application—non-punitive orders
+The amendments made by Schedule 8 to the Treasury Laws Amendment (Australian Consumer Law Review) Act 2018 apply in relation to orders relating to acts or omissions on or after the day that Schedule commences.
+### 301. Application—guarantees relating to the supply of services
+The amendments made by Schedule 9 to the Treasury Laws Amendment (Australian Consumer Law Review) Act 2018 apply in relation to services supplied under a contract entered into on or after the day that Schedule commences.
+## Part 5—Application and transitional provisions relating to the Treasury Laws Amendment (Gift Cards) Act 2018
+### 302. Application of amendments relating to gift cards
+The amendments made by Schedule 1 to the Treasury Laws Amendment (Gift Cards) Act 2018 apply to gift cards supplied on or after 1 November 2019.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

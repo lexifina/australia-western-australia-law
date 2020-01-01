@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Residential Tenancies Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -36,13 +36,13 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 12 | 23 of 2014 | 9 Oct 2
 Reprint 6: The Residential Tenancies Act 1987 as at 6 Feb 2015 (includes amendments listed above)
 Residential Tenancies Amendment Act 2016 | 42 of 2016 | 1 Dec 2016 | s. 1 and 2: 1 Dec 2016 (see s. 2(a)); Act other than s. 1 and 2: 3 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551-2)
 Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 2 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
-Consumer Protection Legislation Amendment Act 2019 s. 67 | 25 of 2019 | 24 Oct 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4101)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Consumer Protection Legislation Amendment Act 2019 Pt. 9 | 25 of 2019 | 24 Oct 2019 | s. 67: 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4101); Pt. 9 other than s. 67: 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div 18 | 30 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div 18 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 18 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Consumer Protection Legislation Amendment Act 2019 Pt. 9 (other than s. 67) | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
+Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -51,104 +51,6 @@ The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
 The Real Estate Legislation Amendment Act 1995 s. 46 and 52 were purported to be proclaimed on 1 January 1997 in Gazette 25 June 1996 p. 2902, but the proclamation was revoked before it came into force — see Gazette 6 September 1996 p. 4405.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Strata Titles Amendment Act 2018 Pt. 3 Div. 18 had not come into operation. It reads as follows:
-Part 3 — Other Acts amended
-Division 18 — Residential Tenancies Act 1987 amended
-181.Act amended
-This Division amends the Residential Tenancies Act 1987.
-182.Section 5 amended
-After section 5(1) insert:
-(1A) This Act does not apply to a residential tenancy agreement that is a strata lease, within the meaning of the Strata Titles Act 1985.
-Note for this subsection:
-This subsection does not affect the application of this Act to a residential tenancy agreement that is a sublease of a strata lease.
-On the date as at which this compilation was prepared, the Community Titles Act 2018 Pt. 14 Div. 18 had not come into operation. It reads as follows:
-Part 14 — Other Acts amended
-Division 18 — Residential Tenancies Act 1987 amended
-236.Act amended
-This Division amends the Residential Tenancies Act 1987.
-237.Section 48 amended
-Delete section 48(2) and insert:
-(2) It is a term of every residential tenancy agreement that contributions payable to a community corporation under the Community Titles Act 2018 or a strata company under the Strata Titles Act 1985 cannot be passed on to a tenant.
-On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 9 (other than s. 67) had not come into operation. It reads as follows:
-Part 9 — Residential Tenancies Act 1987 amended
-63.Act amended
-This Part amends the Residential Tenancies Act 1987.
-64.Section 3 amended
-In section 3 insert in alphabetical order:
-common area —
-(a)means an area accessible to, or provided for the common use of, tenants; and
-(b)includes common property (as defined in the Strata Titles Act 1985 section 3) of a strata scheme or survey strata scheme;
-65.Section 22 amended
-(1) Delete section 22(2) and insert:
-(2) A party to any proceedings may be represented or assisted by an agent in the presentation of the party’s case if —
-(a) the agent is authorised by the party to do so and is —
-(i) the property manager of the premises the subject of the proceedings; or
-(ii) employed or engaged by a non-profit association or similar body to act as an advocate for tenants or lessors in proceedings;
-or
-(b) the court makes an order under subsection (3C).
-(2) In section 22(3A) after “authorisation” insert:
-mentioned in subsection (2)(a)
-(3) After section 22(3A) insert:
-(3B) Without limiting how an agent representing or assisting a party under subsection (2)(a) may represent or assist the party, the agent may initiate proceedings on behalf of the party.
-(3C) The court may order that a party to proceedings may be represented or assisted by an agent in the presentation of the party’s case if the court hearing the proceeding is satisfied that —
-(a) the party is unable to appear personally or conduct the proceedings on the party’s own behalf; and
-(b) another party to the proceedings will not be disadvantaged by the party being represented by, or assisted by, the agent.
-66.Section 38 amended
-In section 38(1)(c) delete “premises.” and insert:
-premises or, where relevant, a common area or chattels in the common area.
-68.Section 49A amended
-(1) In section 49A(1) insert in alphabetical order:
-consumption, in relation to a public utility service, means consumption of the utility that is calculated by metered unit;
-strata company has the meaning given in the Strata Titles Act 1985 section 3(1).
-(2) In section 49A(1) in the definition of public utility services delete “3(1).” and insert:
-3(1);
-(3) Delete section 49A(2) and insert:
-(2) It is a term of every residential tenancy agreement that subsections (3) to (5) are terms of the agreement if —
-(a) a public utility service is provided in relation to the premises the subject of the agreement; and
-(b) the public utility service is provided under a contract between the provider of the public utility service and the lessor or a strata company.
-(3) The tenant must pay a charge for the provision of the service only if —
-(a) the charge is for the tenant’s consumption of the utility at the premises; and
-(b) either —
-(i) the tenant’s consumption of the utility is separately metered; or
-(ii) although consumption at the premises is not separately metered, the charge is calculated in accordance with a method previously agreed to in writing by the lessor and the tenant;
-and
-(c) the lessor gives the tenant a written notice under subsection (4) within 30 days after the lessor receives an invoice for the public utility service.
-(4) The notice must be in writing and set out the full details of the account for the charge, including —
-(a) the total charge for the tenant’s consumption of the utility; and
-(b) if consumption at the premises is metered —
-(i) the meter readings; and
-(ii) the charge per metered unit;
-and
-(c) if consumption at the premises is not metered — the charge calculated by the method agreed to under subsection (3)(b)(ii); and
-(d) the amount of GST payable in respect of the provision of the service to the premises.
-(5) However, despite subsection (3)(c), if the tenancy ends within 30 days after the lessor receives an invoice for the public utility service, or the lessor receives the invoice after the tenancy has ended, the lessor —
-(a) is not required to give the written notice under subsection (4) within 30 days after the lessor receives the invoice; and
-(b) may give the notice to the tenant (or former tenant) as soon as practicable after the lessor receives the notice and locates the tenant.
-69.Section 73 amended
-In section 73(1) delete “permit, serious damage to the premises or injury to the lessor or the property manager of the premises or any person in occupation of or permitted on adjacent premises.” and insert:
-permit —
-(a) serious damage to the premises or, where relevant, a common area or chattels in the common area; or
-(b) injury to —
-(i) the lessor; or
-(ii) the property manager of the premises; or
-(iii) any person in occupation of or permitted on adjacent premises.
-70.Section 82B amended
-(1) In section 82B delete “This” and insert:
-(1) This
-(2) After section 82B(1) insert:
-(2) This Part applies to a database operator, regardless of whether the database operator is inside or outside of the State, if the database operator operates a residential tenancy database containing personal information —
-(a) about a person who resides in the State; or
-(b) relating to, or arising from, the occupation of residential premises under a residential tenancy agreement within the State.
-71.Part 8 inserted
-After section 97 insert:
-Part 8 — Transitional provision relating to the Consumer Protection Legislation Amendment Act 2019
-98.Application of s. 49A to residential tenancy agreements and utility charges
-(1) In this section —
-commencement day means the day on which the Consumer Protection Legislation Amendment Act 2019 section 68 comes into operation;
-public utility services has the meaning given in the Land Administration Act 1997 section 3(1).
-(2) Subject to subsections (3) and (4), section 49A, as in force on and after commencement day, applies to a residential tenancy agreement (to the extent relevant) even though it was entered into before commencement day.
-(3) If a tenant is provided with full details of an account for a charge for a public utility service and the charge was not paid in full before commencement day, section 49A, as in force immediately before commencement day continues to apply to the payment of the charge.
-(4) If, before commencement day, a lessor or strata company received a notice of account in relation to a public utility service and the lessor or strata company has not given the tenant full details of the account for the charge, the 30 day requirement in section 49A(3)(c) does not apply.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -159,18 +61,20 @@ applicant82C(1), 82D(1)
 authorised agentSch. 1 cl. 1
 authorised financial institution92
 authorised person88A(1)
-bond 3
+bond3
 bond administrator3
-commencement day91(1), 92, 97(1)
+commencement day91(1), 92, 97(1), 98(1)
 Commissioner3
+common area3
 competent court3
+consumption49A(1)
 co-tenant71AD(1)
 criteria71A
 database82A
 database operator82A
 Department3
-DVO71AA
 disability47(1A)
+DVO71AA
 excluded tenant71AE(1)
 executive officer7A(3)
 existing agreement71H
@@ -210,7 +114,7 @@ prescribed period43(1)
 proceedings22(1A)
 property manager3
 protected tenant71AE(1)
-public utility services49A(1)
+public utility services49A(1), 98(1)
 reasonable grounds3
 reasonable time46(1)
 rent3
@@ -224,6 +128,7 @@ social housing premises3, 71A
 social housing provider3, 71A
 social housing tenancy agreement3, 71A
 specified date81A(1)
+strata company49A(1)
 suitable repairer43(1)
 tenancy3
 tenancy period3

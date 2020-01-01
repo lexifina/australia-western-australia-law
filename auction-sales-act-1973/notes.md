@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Auction Sales Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Auction Sales Act 1973 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Auction Sales Act 1973 | 73 of 1973 | 6 Dec 1973 | Act other than s. 3, 6-23, 26-28, 30, 31 and 33: 14 Dec 1973 (see s. 2 and Gazette 14 Dec 1973 p. 4528); s. 3, 6-23, 26-28, 30, 31 and 33: 13 Sep 1974; (see s. 2 and Gazette 13 Sep 1974 p. 3421)
@@ -23,69 +23,13 @@ Reprint 4: The Auction Sales Act 1973 as at 18 May 2007 (includes amendments lis
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 77 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 1 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Licensing Provisions Amendment Act 2016 Pt. 2 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 27 Jun 2017 p. 3407)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Consumer Protection Legislation Amendment Act 2019 Pt. 2 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
-Consumer Protection Legislation Amendment Act 2019 Pt. 2 | 25 of 2019 | 24 Oct 2019 | To be proclaimed (see s. 2(b))
+Other notes
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
-Repealed by the Liquor Licensing Act 1988 s. 176.
-On the date as at which this compilation was prepared, the Business Licensing Amendment Act 1995 Pt. 2 had not come into operation. It reads as follows:
-“
-Part 2 — Auction Sales Act 1973
-3.Principal Act
-In this Part the Auction Sales Act 1973 is referred to as the principal Act.
-4.Section 19 amended
-Section 19 of the principal Act is amended —
-(a) by repealing subsection (1) and substituting the following subsections —
-“
-(1) On granting a general or restricted licence, the magistrate shall fix the period, during which, subject to this Act, the licence is to have effect.
-(1a) The period fixed under subsection (1) shall be a period that is —
-(a) not less than 12 months; and
-(b) not more than the prescribed period.
-(1b) A general licence or a restricted licence may be renewed from time to time for the prescribed period.
-(1c) In subsections (1a) and (1b) —
-“prescribed period” means a period of not less than 12 months prescribed by the regulations.
-”;
-and
-(b) in subsection (3) by inserting after “that licence expired,” the following —
-“
-and any amount prescribed by way of penalty for a late application is paid,
-”.
-5.Section 37 amended
-Section 37 of the principal Act is amended —
-(a) by inserting after the section designation “37.” the subsection designation “(1)”; and
-(b) by adding the following subsection —
-“
-(2) Subsections (1) and (2) of section 45 of the Interpretation Act 1984 apply in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
-”.
-”.
-On the date as at which this compilation was prepared the Consumer Protection Legislation Amendment Act 2019 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Auction Sales Act 1973 amended
-3.Act amended
-This Part amends the Auction Sales Act 1973.
-4.Section 28 amended
-(1) At the end of section 28(5) insert:
-Penalty for this subsection: a fine of $25 000.
-(2) Delete section 28(9).
-5.Section 35 amended
-Delete section 35(1) and (2).
-6.Various provisions amended
-At the end of the provisions listed in the Table insert:
-Penalty for this subsection: a fine of $25 000.
-Table
-s. 22(3) | s. 23(1)
-s. 24(1) | s. 26(1) and (2)
-s. 27(1) | s. 29(2)
-s. 31(1), (2), (3), (4), (6) and (7)
-7.Various penalties amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-s. 6(6) | Penalty: $500. | Penalty for this subsection: a fine of $50 000.
-s. 25(1) | Penalty: $1 000 or imprisonment for 12 months. | Penalty for this subsection: a fine of $50 000 or imprisonment for 12 months.
-s. 30(2) | Penalty: $500. | Penalty for this subsection: a fine of $10 000.
-s. 30(5) | Penalty: A fine of not more than $1 000, or imprisonment for a term of not more than one year, or both such fine and imprisonment. | Penalty for this subsection: a fine of $50 000 or imprisonment for 12 months, or both.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
