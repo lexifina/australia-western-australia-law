@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
 Road Traffic Code Amendment Regulations (No. 4) 2000 | 1 Dec 2000 p. 6751-7 | 1 Dec 2000 (see r. 2 and Gazette 4 Aug 2000 p. 4229)
 Road Traffic Code Amendment Regulations (No. 5) 2000 | 1 Dec 2000 p. 6758 | 1 Jun 2001 (see r. 2)
@@ -65,6 +65,8 @@ Road Traffic Code Amendment Regulations (No. 6) 2017 | 31 Oct 2017 p. 5462-4 | r
 Road Traffic Code Amendment Regulations (No. 8) 2017 | 5 Jan 2018 p. 9-10 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2018 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2018 | 15 May 2018 p. 1531-6 | r. 1 and 2: 15 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2019 | 28 Jun 2019 p. 2488-9 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
+Road Traffic Code Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4686 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
