@@ -29,4 +29,4 @@
 11. | Fee for preparing and executing a transfer of land sold | $230.00
 12. | Fee for attending a court in connection with interpleader proceedings, for each half hour or part of a half hour | $32.90
 13. | If the Sheriff or a delegate of the Sheriff is necessarily put to extra trouble and expense in connection with executing an enforcement warrant or is required to do anything not provided for in this Division, the Sheriff may set an amount or an additional amount (as the case may be) and that amount is prescribed as an enforcement fee. If under this item the Sheriff sets an amount for travelling expenses, the amount is not to exceed the rate per kilometre, 1 way, that is prescribed as a travelling fee for the service of documents in the Magistrates Court (Fees) Regulations 2005.
-[Division 2 inserted: Gazette 28 Jun 2019 p. 2593-4.]
+[Division 3 inserted: Gazette 28 Jun 2019 p. 2593-4.]
