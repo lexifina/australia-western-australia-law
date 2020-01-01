@@ -43,7 +43,7 @@ Road Traffic Act 1974 s. 90
 Rottnest Island Authority Act 1987 s. 32
 School Curriculum and Standards Authority Act 1997 Sch. 1 cl. 16(1)
 School Education Act 1999 s. 15, 35, 120(2), 240(3), 242(1)
-Street Collections (Regulation) Act 1940 s. 8
+Street Collections (Regulation) Act 1940 s. 3(1), 6
 Sunday Entertainments Act 1979 s. 3(1)
 Swan River Trust Act 1988 s. 64(6)
 Transport Co-ordination Act 1966 s. 49(3)
