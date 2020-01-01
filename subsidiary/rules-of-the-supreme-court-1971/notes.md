@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
 Untitled rules | 17 Dec 1971 p. 5266 | 14 Feb 1972 (see r. 1)
 Untitled rules | 7 Jun 1972 p. 1703 | 7 Jun 1972
@@ -145,6 +145,8 @@ Supreme Court Amendment Rules (No. 3) 2017 | 1 Dec 2017 p. 5732-3 | r. 1 and 2: 
 Supreme Court Amendment Rules 2018 | 27 Feb 2018 p. 551-624 | r. 1 and 2: 27 Feb 2018 (see r. 2(a)); Rules other than r. 1 and 2: 1 Mar 2018 (see r. 2(b))
 Supreme Court Amendment Rules (No. 2) 2018 | 29 Jun 2018 p. 2437-8 | r. 1 and 2: 29 Jun 2018 (see r. 2(a)); Rules other than r. 1 and 2: 30 Jun 2018 (see r. 2(b))
 Supreme Court Amendment Rules (No. 3) 2018 | 28 Aug 2018 p. 2991-2 | r. 1 and 2: 28 Aug 2018 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2018 (see r. 2(b) and Gazette 17 Aug 2018 p. 2894)
+Supreme Court Amendment Rules (No. 3) 2019 | 31 Dec 2019 p. 4677-8 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -215,6 +217,7 @@ descriptionO. 26A r. 1
 diplomatic agentO. 1 r. 4(1)
 Director GeneralO. 81C r. 1
 documentO. 26 r. 1A, O. 26A r. 1
+ECMSO. 1 r. 4(1)
 Electoral CommissionerO. 65C r. 1
 enforcementO. 81B r. 1(1)
 enforcement orderO. 4A r. 1
