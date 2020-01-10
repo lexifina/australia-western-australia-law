@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Health Services (Health Service Providers) Order 2016 and includes the amendments made by the other written laws referred to in the following table..
+This is a compilation of the Health Services (Health Service Providers) Order 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Health Services (Health Service Providers) Order 2016 | 17 Jun 2016 p. 2133-60 | 18 Jun 2016 (see cl. 2)
 Health Services (Health Service Providers) Amendment Order 2018 | 11 May 2018 p. 1504 | cl. 1 and 2: 11 May 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 12 May 2018 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order (No. 3) 2018 | 11 May 2018 p. 1505-6 | cl. 1 and 2: 11 May 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2018 (see cl. 2(b))
@@ -10,6 +10,10 @@ Health Services (Health Service Providers) Amendment Order (No. 5) 2018 | 14 Aug
 Health Services (Health Service Providers) Amendment Order (No. 6) 2018 | 19 Oct 2018 p. 4135 | cl. 1 and 2: 19 Oct 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 20 Oct 2018 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order (No. 7) 2018 | 30 Nov 2018 p. 4596 | cl. 1 and 2: 30 Nov 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Dec 2018 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order 2019 | 15 Jan 2019 p. 57 | cl. 1 and 2: 15 Jan 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 16 Jan 2019 (see cl. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Health Services (Health Service Providers) Amendment Order 2020 cl. 3 and 4 | SL 2020/1 10 Jan 2020 | 20 Jan 2020 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
