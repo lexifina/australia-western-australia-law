@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Public Sector Management (General) Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Sector Management (General) Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Public Sector Management (General) Regulations 1994 | 16 Sep 1994 p. 4798-803 | 1 Oct 1994 (see r. 2 and Gazette 30 Sep 1994 p. 4948)
 Public Sector Management (General) Amendment Regulations 1994 | 9 Dec 1994 p. 6714-15 | 9 Dec 1994
 Public Sector Management (General) Amendment Regulations 1995 | 18 Aug 1995 p. 3774-5 | 18 Aug 1995
@@ -24,13 +24,11 @@ Reprint 3: The Public Sector Management (General) Regulations 1994 as at 3 Jun 2
 Public Sector Management (General) Amendment Regulations 2012 | 24 Jan 2012 p. 555-6 | r. 1 and 2: 24 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2012 (see r. 2(b))
 Public Sector Management (General) Amendment Regulations (No. 2) 2012 | 5 Jun 2012 p. 2363-6 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2012 (see r. 2(b))
 Public Sector Management (General) Amendment Regulations 2014 | 19 Aug 2014 p. 2996 | r. 1 and 2: 19 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Aug 2014 (see r. 2(b))
+Public Sector Management (General) Amendment Regulations 2020 | SL 2020/2 24 Jan 2020 | r. 1 and 2: 24 Jan 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2020 (see r. 2(b))
+Other notes
 The Government Employees’ Housing Act 1964 s.15 was deleted by the Machinery of Government(Miscellaneous Amendments) Act 2006 s. 300.
 Repealed by the Country Housing Act 1998 s. 47.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
-Repealed by the School Education Act 1999 s. 246.
-Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Training was to be read and construed as a reference to the Department of Education and Training. Under the Alteration of Statutory Designation (DET) Order 2009 a reference in any law to the Department of Education and Training is to be read and construed as a reference to the Department of Education or to the Department of Training and Workforce Development, unless the contrary intention appears.
-Repealed by the Vocational Education and Training Act 1996 s. 70.
-Now known as Pilbara TAFE. See Gazette 26 Nov 2004 p. 5316 concerning the amalgamation of Eastern Pilbara College of TAFE [formerly Hedland College of TAFE (which continued under the name Eastern Pilbara College of TAFE (see Gazette 29 Oct 1999 p. 5925-7)) which amalgamated Pundulmurra College (see Gazette 19 Dec 1997 p. 7372)] and West Pilbara College of TAFE (formerly Karratha College of TAFE) and the college, as so amalgamated, is continued and renamed Pilbara TAFE (see Gazette 17 Dec 2002 p. 5925).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
