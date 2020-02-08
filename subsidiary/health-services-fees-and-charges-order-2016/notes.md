@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Health Services (Fees and Charges) Order 2016 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Health Services (Fees and Charges) Order 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Health Services (Fees and Charges) Order 2016 | 1 Jul 2016 p. 2775-811 | 1 Jul 2016 (see cl. 2 and Gazette 24 Jun 2016 p. 2291)
 Health Services (Fees and Charges) Amendment Order 2016 | 21 Oct 2016 p. 4783 | cl. 1 and 2: 21 Oct 2016 (see cl. 2(a)); Order other than cl. 1 and 2: 22 Oct 2016 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 2) 2017 | 3 Feb 2017 p. 1112-13 | cl. 1 and 2: 3 Feb 2017 (see cl. 2(a)); Order other than cl. 1 and 2: 4 Feb 2017 (see cl. 2(b))
@@ -19,6 +19,7 @@ Health Services (Fees and Charges) Amendment Order 2019 | 26 Feb 2019 p. 439-40 
 Health Services (Fees and Charges) Amendment Order (No. 2) 2019 | 7 May 2019 p. 1351 | cl. 1 and 2: 7 May 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 8 May 2019 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 3) 2019 | 7 Jun 2019 p. 1826-7 | cl. 1 and 2: 7 Jun 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2019 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 5) 2019 | 27 Sep 2019 p. 3419 | cl. 1 and 2: 27 Sep 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 28 Sep 2019 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order 2020 | SL 2020/5 7 Feb 2020 | cl. 1 and 2: 7 Feb 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 8 Feb 2020 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
