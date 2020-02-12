@@ -1,7 +1,7 @@
 ## Schedule 2 — Modified penalties
 [r. 33]
 Item | Regulation | Description of offence | Modified penalty ($)
-1. | 5(1) | Entering a zoological park except through an entrance gate provided without permission | 60
+1. | 5(1) | Entering a zoological park except through an entrance gate provided without permission | 200
 2. | 5(3) | Entering a zoological park without an entry ticket without permission | 60
 3. | 5(4) | Failing to produce on demand to a park management officer a ticket for entry to the zoological park | 60
 4. | 5(5) | Entering or remaining in a zoological park when the park is closed to the public without permission | 60
@@ -20,21 +20,22 @@ Item | Regulation | Description of offence | Modified penalty ($)
 17. | 10(6) | Parking in a designated parking area without paying a fixed charge or displaying a parking ticket | 60
 18. | 10(7) | Failing to display a parking ticket so that it can be read by a person | 60
 19. | 11(3) | Failing to comply with a traffic sign or signal or direction | 60
-20. | 12(b) | Placing an object in an enclosure without permission | 60
-21. | 12(c) | Feeding an animal without permission | 60
-22. | 13(a) | Entering an enclosure without permission | 60
-23. | 13(b) | Interfering with a lock of an enclosure without permission | 60
-24. | 13(c) | Interfering with a gate etc. of an enclosure without permission | 60
-25. | 13(d) | Entering an enclosed space etc. without permission | 60
-26. | 13(e) | Walking etc. on a plant bed without permission | 60
-27. | 13(f) | Entering a building etc. set aside for certain purposes without permission | 60
+19A. | 12(a) | Touching, molesting, shouting at or disturbing an animal | 200
+20. | 12(b) | Placing an object in an enclosure without permission | 200
+21. | 12(c) | Feeding an animal without permission | 200
+22. | 13(a) | Entering an enclosure without permission | 200
+23. | 13(b) | Interfering with a lock of an enclosure without permission | 200
+24. | 13(c) | Interfering with a gate etc. of an enclosure without permission | 200
+[25, 26.Deleted.]
+27. | 13(f) | Entering a building etc. set aside for certain purposes without permission | 200
 28. | 14(a) | Damaging a plant | 60
 29. | 14(b) | Removing or damaging a stake or label | 60
 30. | 14(c) | Attaching a rope etc. to a plant | 60
-31. | 15(a) | Damaging grounds | 60
-32. | 15(b) | Climbing on or over a fence | 60
-33. | 15(c) | Interfering with a water area | 60
-34. | 15(d) | Expectorate on part of a zoological park | 60
+31. | 15(1)(a) | Damaging grounds | 60
+[32.Deleted.]
+33. | 15(1)(c) | Interfering with a water area | 60
+34. | 15(1)(d) | Expectorate on part of a zoological park | 60
+34A. | 15(2) | Climbing on or over a fence | 200
 35. | 17(1) | Taking or allowing an animal or bird to enter a zoological park without permission | 200
 36. | 17(2) | Abandoning or releasing an animal or bird in a zoological park without permission | 200
 37. | 18(1)(a) | Taking certain prohibited things into a zoological park without permission | 60
@@ -56,3 +57,4 @@ Item | Regulation | Description of offence | Modified penalty ($)
 53. | 30(c) | Engage in public speaking without permission | 200
 54. | 31(1) | Failing to hand lost or abandoned property to a park management officer | 100
 55. | 36 | Removing a notice attached to, or left in or on, a vehicle | 60
+[Schedule 2 amended: SL 2020/6 r. 12.]
