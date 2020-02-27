@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Railway (METRONET) Act 2018. The following table contains information about that Act.
+This is a compilation of the Railway (METRONET) Act 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Railway (METRONET) Act 2018 | 34 of 2018 | 19 Nov 2018 | 19 Nov 2018
+Railway (METRONET) Amendment Act 2020 | 1 of 2020 | 27 Feb 2020 | 27 Feb 2020 (see s. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
