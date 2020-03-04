@@ -33,6 +33,7 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 2 | 2
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2019 | 2 Aug 2019 p. 2990-1 | r. 1 and 2: 2 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2019 (see r. 2(b))
 Reprint 4: The Building Regulations 2012 as at 1 Nov 2019 (includes amendments listed above)
+Building Amendment Regulations 2020 | SL 2020/11 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b) and SL 2020/12 r. 7)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
