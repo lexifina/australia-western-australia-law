@@ -75,6 +75,7 @@ Gaming and Wagering Commission Amendment Regulations 2018 | 2 Mar 2018 p. 672 | 
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations (No. 3) 2019 | 31 May 2019 p. 1717-21 | Pt. 1: 31 May 2019 (see r. 2(a)); Pt. 2 and 3: 1 Jun 2019 (see r. 2(b) and (c))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
+Gaming and Wagering Commission Amendment Regulations 2020 | SL 2020/10 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -86,13 +87,14 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 amusement parlour18B(7)
+approved electronic bingo equipment23(1A)
 cruise ship18C(1)
 donor organization30A(3)
 gambling advertisement43(1)
 gambling operator43(1)
 lottery terms and conditions36A(2)
 prize23A(2)
-prize goodsSch. 4 cl. 7(2), cl. 8(2)
+prize goodsSch. 4 cl. 7(2) and 8(2)
 publish43(1)
 rents18(2)
 second person43(7)
