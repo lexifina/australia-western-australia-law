@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Caravan Parks and Camping Grounds Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Caravan Parks and Camping Grounds Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
- | Citation | Gazettal | Commencement
+ | Citation | Published | Commencement
  | Caravan Parks and Camping Grounds Regulations 1997 | 20 Jun 1997 p. 2871-946 | 1 Jul 1997 (see r. 2)
  | Caravan Parks and Camping Grounds Amendment Regulations 1999 | 16 Jul 1999 p. 3202-4 | 16 Jul 1999
  | Caravan Parks and Camping Grounds Amendment Regulations 2000 | 25 Aug 2000 p. 4911-21 | 25 Aug 2000
@@ -14,7 +14,8 @@ Compilation table
  | Caravan Parks and Camping Grounds Amendment Regulations 2015 | 10 Apr 2015 p. 1255-6 | Pt. 1: 10 Apr 2015 (see r. 2(a)); Pt. 2 and 3: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
  | Reprint 2: The Caravan Parks and Camping Grounds Regulations 1997 as at 26 Jun 2015 (includes amendments listed above)
 Caravan Parks and Camping Grounds Amendment Regulations 2016 | 10 Jan 2017 p. 177 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
-Repealed by the Building Services (Registration) Act 2011 s. 107
+Caravan Parks and Camping Grounds Amendment Regulations 2020 | SL 2020/12 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b))
+Other notes
 Under the Alteration of Statutory Designations Order (No. 4) 2013 a reference in any law to the Department of Local Government is to be read and construed, unless the context otherwise requires, as a reference to the Department of Local Government and Communities.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960.
 The Caravan Parks and Camping Grounds Amendment Regulations 2000 r. 22 reads as follows:
@@ -30,6 +31,8 @@ AS/NZS3
 AS/NZS 3500.2.2Sch. 7 cl. 45
 assemble3
 assistance dog3
+attachment40A
+builder3
 Building Code3
 camp8A
 caravan site3
@@ -45,10 +48,12 @@ equivalent provision of these regulationsSch. 9 cl. 1
 existing facilitySch. 9 cl. 1
 facility road3
 flexible annexe3
+flexible attachment40A
 form3
 former legislationSch. 9 cl. 1
 laundry facility3
 long stay site3
+manufactured home40A
 nature based park3
 number plate3
 on-site caravan3
@@ -61,7 +66,9 @@ person who constructs a park home32(5)
 person who constructs an annexe36(6)
 potable waterSch. 7 cl. 38
 professional engineer3
+purported approval40A
 rigid annexe3
+rigid attachment40A
 road4(2)
 road side rest area11(3)
 service3
