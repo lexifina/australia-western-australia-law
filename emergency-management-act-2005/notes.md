@@ -9,6 +9,11 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 6 | 22 of 2012 | 
 Medicines and Poisons Act 2014 s. 184 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Reprint 1: The Emergency Management Act 2005 as at 14 Jul 2017 (includes amendments listed above)
+Emergency Management Amendment (COVID-19 Response) Act 2020 s. 5, 7, 11 and 12(1) and (2) | 11 of 2020 | 3 Apr 2020 | 16 Mar 2020 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Emergency Management Amendment (COVID-19 Response) Act 2020 Act other than s. 5, 7, 11 and 12(1) and (2) | 11 of 2020 | 3 Apr 2020 | s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 5, 7, 10, 11 and 12(1) and (2): 4 Apr 2020 (see s. 2(d)); s. 10: 4 Apr 2021 (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
