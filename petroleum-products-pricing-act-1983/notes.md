@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum Products Pricing Act 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum Products Pricing Act 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Prevention of Excessive Prices Act 1983 | 1 of 1983 | 25 Mar 1983 | 25 Mar 1983 (see s. 2 and Gazette 25 Mar 1983 p. 1059)
@@ -22,6 +22,8 @@ Compilation table
 Acts Amendment (Bankruptcy) Act 2009 s. 66 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 40 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Consumer Protection Legislation Amendment Act 2014 Pt. 9 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Petroleum Products Pricing Amendment Act 2020 | 4 of 2020 | 24 Mar 2020 | s. 1 and 2: 24 Mar 2020 (see s. 2(a)); Act other than s. 1 and 2: 25 Mar 2020 (see s. 2(b))
+Other notes
 Now known as the Petroleum Products Pricing Act 1983; short title changed (see note under s. 1).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -73,6 +75,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 authorised person31A
+business22H(1)
 Commissioner3(1)
 committee3(1)
 consumer representative8(7)
@@ -86,8 +89,9 @@ Department3(1)
 dispensing equipment3(1)
 documents3(1)
 executive officer5(3)
+exempt sale22H(1), (2) and (3)
 franchise agreement3(1)
-kind of motor fuel22A(1), 22H
+kind of motor fuel22A(1), 22H(1)
 landed cost3(1)
 LPG3(1)
 motor fuel3(1)
@@ -107,7 +111,7 @@ relevant price22A(1)
 relevant supply22E(1)
 section3(1)
 services3(1)
-standard retail price22H
+standard retail price22H(1)
 subsection3(1)
 supplier22A(1)
 terminal22A(1)
