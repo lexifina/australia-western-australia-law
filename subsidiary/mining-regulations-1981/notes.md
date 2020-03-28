@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
 Mining Amendment Regulations 1982 | 6 Aug 1982 p. 3099 | 6 Aug 1982
 Mining Amendment Regulations (No. 2) 1982 | 12 Nov 1982 p. 4490-1 (erratum 19 Nov 1982 p. 4578) | 10 Dec 1982 (see r. 2)
@@ -148,11 +148,12 @@ Reprint 12: The Mining Regulations 1981 as at 16 Nov 2018 (includes amendments l
 Mining Amendment Regulations (No. 3) 2019 | 24 May 2019 p. 1493-4 | r. 1 and 2: 24 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Mining Amendment Regulations 2019 | 13 Dec 2019 p. 4231-40 | r. 1 and 2: 13 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Dec 2019 (see r. 2(b))
+Mining Amendment Regulations (No. 3) 2020 | SL 2020/25 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2020 (see r. 2(b))
+Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Mining Amendment Act 1993 s. 28 commenced 1 Jul 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Mining Act 1978.
 The Acts Amendment (Australian Datum) Act 2000 s. 5 commenced 16 Dec 2000.
 The Mining Amendment Regulations (No. 6) 2001 r. 13 reads as follows:
 13.Saving
