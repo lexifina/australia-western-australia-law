@@ -1,7 +1,7 @@
 Notes
-This reprint is a compilation as at 7 March 2014 of the Emergency Management Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Emergency Management Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Emergency Management Regulations 2006 | 21 Apr 2006 p. 1582-4 | 21 Apr 2006
 Emergency Management Amendment Regulations 2006 | 12 Jan 2007 p. 50-2 | 12 Jan 2007
 Emergency Management Amendment Regulations 2008 | 18 Mar 2008 p. 866-7 | r. 1 and 2: 18 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2008 (see r. 2(b))
@@ -19,15 +19,23 @@ Emergency Management Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5253-4 
 Emergency Management Amendment Regulations (No. 3) 2012 | 29 Jan 2013 p. 329-32 | r. 1 and 2: 29 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2013 (see r. 2(b))
 Emergency Management Amendment Regulations 2013 | 15 Oct 2013 p. 4673-4 | r. 1 and 2: 15 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Oct 2013 (see r. 2(b))
 Reprint 3: The Emergency Management Regulations 2006 as at 7 Mar 2014 (includes amendments listed above)
-Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife.
-Under the Alteration of Statutory Designations Order (No. 5) 2013 a reference in any law to the Department of Child Protection is to be read and construed as a reference to the Department of Child Protection and Family Support.
+Emergency Management Amendment Regulations 2020 | SL 2020/24 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Agriculture Director General19(1)
+Communities Department1A
 corridor land14
+Environment Department1A
+explosive substance14
 FES Commissioner17(1)
+FES Department1A
+firearm14
+Health Department1A
+hostile act14, 14A(1)
 Public Transport Authority20(1)
 railway infrastructure14
-ship14
-waters of the State23A(1)
+State waters14
+Transport Department1A
+vessel14
+weapon14
