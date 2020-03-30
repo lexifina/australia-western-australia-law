@@ -37,6 +37,7 @@ Reprint 6: The Residential Tenancies Act 1987 as at 6 Feb 2015 (includes amendme
 Residential Tenancies Amendment Act 2016 | 42 of 2016 | 1 Dec 2016 | s. 1 and 2: 1 Dec 2016 (see s. 2(a)); Act other than s. 1 and 2: 3 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551-2)
 Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 2 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
 Consumer Protection Legislation Amendment Act 2019 Pt. 9 | 25 of 2019 | 24 Oct 2019 | s. 67: 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4101); Pt. 9 other than s. 67: 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Residential Tenancies (COVID-19 Response) Act 2020 Pt. 8 | 18 of 2020 | 23 Apr 2020 | 30 Mar 2020 (see s. 2(d))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
