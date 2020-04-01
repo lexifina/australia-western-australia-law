@@ -8,6 +8,7 @@ Liquor Commission Amendment Rules 2011 | 21 Jun 2011 p. 2251-2 | r. 1 and 2: 21 
 Liquor Commission Amendment Rules 2014 | 18 Nov 2014 p. 4327-8 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Rules other than r. 1 and 2: 19 Nov 2014 (see r. 2(b))
 Reprint 1: The Liquor Commission Rules 2007 as at 10 Mar 2017 (includes amendments listed above)
 Liquor Commission Amendment Rules 2019 | 10 Sep 2019 p. 3225-6 | r. 1 and 2: 10 Sep 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Liquor Commission Amendment Rules 2020 | SL 2020/29 31 Mar 2020 | r. 1 and 2: 31 Mar 2020 (see r. 2(a)); Rules other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
