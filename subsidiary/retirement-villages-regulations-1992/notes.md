@@ -18,10 +18,11 @@ Retirement Villages Amendment Regulations (No 2) 2018 | 28 Sep 2018 p. 3719-20 |
 Retirement Villages Amendment Regulations 2019 | 22 Mar 2019 | r. 1 and 2: 22 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2019 (See r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 18 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Retirement Villages Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3497-8 | r. 1 and 2: 27 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2019 (see r. 2(b))
+Retirement Villages Amendment Regulations 2020 | SL 2020/22 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 5 | 31 Dec 2019 p. 4637-46 | Operative on commencement of the Strata Titles Amendment Act 2018 s. 4 (see r. 2(b))
+Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 5 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Other notes
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
 (2) Despite subregulation (1), if the owner of a retirement village is required, under section 13(2) of the Retirement Villages Act 1992, to give a statement containing information prescribed by regulation 4 of the Retirement Villages Regulations 1992, between 1 October 2003 and 31 December 2003 (inclusive), the owner satisfies the requirements of section 13(2) if either —
