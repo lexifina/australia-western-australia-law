@@ -16,6 +16,7 @@ Credit Act 1984
 Credit (Administration) Act 1984
 Debt Collectors Licensing Act 1964
 Electricity Act 1945
+Emergency Management Act 2005
 Employment Agents Act 1976
 Energy Coordination Act 1994
 Energy Safety Act 2006
@@ -40,4 +41,4 @@ Tobacco Products Control Act 2006
 Transport (Road Passenger Services) Act 2018
 Water Services Act 2012
 Western Australian Meat Industry Authority Act 1976
-[Schedule 1A inserted: Gazette 14 Jul 2006 p. 2568-9; amended: Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724; 27 Oct 2011 p. 4552; 23 Mar 2012 p. 1369; 30 Aug 2013 p. 4101; 3 Sep 2013 p. 4148; 24 Jun 2016 p. 2317; 30 Dec 2016 p. 5965; 10 Jan 2017 p. 174; 24 Jan 2017 p. 745; 4 Aug 2017 p. 4314; 14 Sep 2018 p. 3314; 12 Feb 2019 p. 265.]
+[Schedule 1A inserted: Gazette 14 Jul 2006 p. 2568-9; amended: Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724; 27 Oct 2011 p. 4552; 23 Mar 2012 p. 1369; 30 Aug 2013 p. 4101; 3 Sep 2013 p. 4148; 24 Jun 2016 p. 2317; 30 Dec 2016 p. 5965; 10 Jan 2017 p. 174; 24 Jan 2017 p. 745; 4 Aug 2017 p. 4314; 14 Sep 2018 p. 3314; 12 Feb 2019 p. 265; SL 2020/32 r. 4.]
