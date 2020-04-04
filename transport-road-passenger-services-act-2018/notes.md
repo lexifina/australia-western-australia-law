@@ -4,6 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Transport (Road Passenger Services) Act 2018 | 26 of 2018 | 30 Oct 2018 | Pt. 1: 30 Oct 2018 (see s. 2(a)) Pt. 2, Pt. 3 (other than s. 27(1) and (2) and 28), Pt. 7 and 8, Pt. 9 Div. 1 (other than s. 230 and 236) and Div. 3, Pt. 10 and 11, Pt. 12 (other than Div. 3), Pt. 13, Pt 14 Div. 1 (other than s. 303) and Div. 2 (other than Subdiv. 1, 2, 3, 8 and 10 and s. 327(1)): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 27(1) and (2) and 28, Pt. 9 Div. 2 and Pt. 14 Div. 2 Subdiv. 8: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 230 and 236: 1 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473); Pt. 4 (other than s. 56 and 57), Pt. 6, s. 303 and 327(1), Pt. 14 Div. 2 Subdiv. 1-3 and 10: 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473); s. 56 and 57: 1 Aug 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Transport (Road Passenger Services) Amendment Act 2018 | 27 of 2018 | 30 Oct 2018 | s. 1 and 2: 30 Oct 2018 (see s. 2(a)); Act other than s. 1 and 2: 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
+Transport (Road Passenger Services) Amendment (COVID-19 Response and Regional Assistance) Act 2020 | 10 of 2020 | 3 Apr 2020 | s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1 and 2: 4 Apr 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -43,6 +44,7 @@ conventional taxi plates226(1)
 conviction4(1)
 court199
 courtesy transport service4(1)
+COVID-19 relief payment257A, 257B(1)
 criminal record check4(1)
 Department4(1)
 disclose150(1), 293(1)
@@ -54,8 +56,10 @@ driver’s licence information150(1)
 driving authorisation4(1)
 duty holder20
 eligible former owner226(1)
+eligible industry participant257A
 eligible licensee258
 eligible owner (buyback)226(1)
+eligible taxi-car operator261A
 ‘F’ or ‘T’ endorsed driver’s licence292
 floor payment 226(1)
 GST226(1)
@@ -131,8 +135,9 @@ relevant authority150(1)
 relevant date296(1)
 relevant decision36(4), 134(5)
 relevant financial interest12(1)
+relevant industry participant257A
 relevant journey241
-relevant licence258
+relevant licence258, 261A
 relevant person150(1), 167, 195(4), 197(4)
 relevant position12(1)
 relevant power12(1)
@@ -153,6 +158,7 @@ subsidiary legislation266(1)
 taking a booking4(1)
 taxi226(1)
 taxi plates226(1), 295(1)
+taxi-car operator261A
 tourism passenger transport service4(1)
 traffic infringement notice information150(1)
 traffic record check4(1)
