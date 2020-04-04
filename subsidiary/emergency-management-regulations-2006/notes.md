@@ -20,6 +20,7 @@ Emergency Management Amendment Regulations (No. 3) 2012 | 29 Jan 2013 p. 329-32 
 Emergency Management Amendment Regulations 2013 | 15 Oct 2013 p. 4673-4 | r. 1 and 2: 15 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Oct 2013 (see r. 2(b))
 Reprint 3: The Emergency Management Regulations 2006 as at 7 Mar 2014 (includes amendments listed above)
 Emergency Management Amendment Regulations 2020 | SL 2020/24 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2020 (see r. 2(b))
+Emergency Management Amendment Regulations (No. 2) 2020 | SL 2020/31 3 Apr 2020 | r. 1 and 2: 3 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
