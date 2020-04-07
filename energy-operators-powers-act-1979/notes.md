@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Operators (Powers) Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Energy Operators (Powers) Act 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Energy Commission Act 1979 | 111 of 1979 | 21 Dec 1979 | 1 Feb 1980 (see s. 2 and Gazette 1 Feb 1980 p. 284)
@@ -45,6 +45,8 @@ Reprint 5: The Energy Operators (Powers) Act 1979 as at 4 Apr 2008 (includes ame
 Water Services Legislation Amendment and Repeal Act 2012 s. 210 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Electricity Corporations Amendment Act 2013 s. 41 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 6: The Energy Operators (Powers) Act 1979 as at 14 Jun 2019 (includes amendments listed above)
+Electricity Industry Amendment Act 2020 s. 31 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
+Other notes
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
 The Energy Operators (Powers) Act 1979 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 3 it. 9, which reads as follows:
@@ -292,7 +294,7 @@ distribution works4(1)
 electricity corporation4(1)
 energy4(1)
 energy operator4(1)
-generating works4(1)
+generating works4(1), 45(4A)
 government department4(1)
 inspector4(1)
 land4(1), 36

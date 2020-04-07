@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Corporations Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Corporations Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Corporations Act 2005 | 18 of 2005 | 13 Oct 2005 | Pt. 1, s. 141, 142, 144-152, 153(1) and 179: 13 Oct 2005 (see s. 2(1)); Pt. 2-8, s. 143, 153(2)-(4), 154-178, 180-192, Sch. 1-4 and Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153); Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
@@ -16,6 +16,8 @@ Electricity Corporations Amendment Act 2015 | 16 of 2015 | 25 Jun 2015 | s. 1 an
 Associations Incorporation Act 2015 s. 216 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Reprint 3: The Electricity Corporations Act 2005 as at 7 Jun 2019 (includes amendments listed above)
+Electricity Industry Amendment Act 2020 s. 30 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
+Other notes
 Deleted by the Public Sector Reform Act 2010 s. 57.
 Deleted by the Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 r. 5 and 6.
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
