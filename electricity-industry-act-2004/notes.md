@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 29 March 2018 of the Electricity Industry Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Industry Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Industry Act 2004 | 5 of 2004 | 23 Apr 2004 | s. 1 and 2: 23 Apr 2004; s. 3, Pt. 4 (other than s. 65), Pt. 9 and 10: 23 Jun 2004 (see s. 2 and Gazette 22 Jun 2004 p. 2161); Pt. 8: 1 Jul 2004 (see s. 2 and Gazette 22 Jun 2004 p. 2161); Pt. 2, 3, 5 and 6, s. 65, Sch. 1 and Sch. 3 Div. 1: 31 Dec 2004 (see s. 2 and Gazette 12 Nov 2004 p. 5017); Pt. 7, Sch. 2 and Sch. 3 Div. 2: 25 Jun 2005 (see s. 2 and Gazette 24 Jun 2005 p. 2751)
@@ -16,101 +16,135 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Electricity Corporations Amendment Act 2013 s. 39 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 3: The Electricity Industry Act 2004 as at 29 Mar 2018 (includes amendments listed above)
+Electricity Industry Amendment Act 2020 Pt. 2 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
+Other notes
 The Electricity Corporation Act 1994 was renamed as the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 Sch. 5 cl. 9.
 The Electricity Corporations Act 2005 Sch. 5 cl. 11 came into operation on 1 Apr 2006, see Gazette 31 Mar 2006 p. 1153.
 The National Gas Access (WA) Act 2009 s. 59(1) came into operation on 1 Jan 2010, see Gazette 31 Dec 2009 p. 5327.
 The Gas Pipelines Access (Western Australia) Act 1998 was renamed as the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26.
-Part 8 Div. 4 (r. 119-120) expired at the expiration of the period of 3 years from 1 Jul 2004 (see s. 120 of this Act as at 1 Jul 2004).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-access103
+access3(1)
 access agreement103
 access arrangement39A(1), 103
 appropriate amendment53(3), 64(3)
 approved policy60
 approved scheme90
-arbitrator3
-arrangement127(1)
-associate115(6)
-Authority3
-Board3
-civil monetary penalty126(1)
-Code103, 107(1), 129B, 130(1)
+arbitrator3(1)
+arrangement120ZF(1), 127(1)
+associate115(6), 120S(1)
+Authority3(1)
+Board3(1)
+civil monetary liability120ZA(1), 126(1)
+Code3(1), 107(1)
 code matter39(2c)
 code of conduct78
 commencement day46(1)
 committee78
-Competition Principles Agreement103
+Competition Principles Agreement3(1)
 confer121(1)
 connect57
-cooling-off period48(1)(b)
+contestable annual volume129L
+contestable proportion129L
+contestable supply129L
+cooling-off period48(1)
 Coordinator60
 corporation54A(1), 60
-customer3, 47, 78, 90
+costs129L
+covered network3(1)
+covered Pilbara network3(1)
+customer3(1), 47, 78, 90
 customer contract90
-daily amount118(3), 124(6)
+daily amount118(3), 120V(3), 124(6)
 designated area67
-distribution licence3
-distribution system3
+distribution licence3(1)
+distribution system3(1)
 efficient cost of supply129B
-electricity3
-electricity corporation3
-Electricity Generation and Retail Corporation3
+electricity3(1)
+electricity corporation3(1)
+Electricity Generation and Retail Corporation3(1)
+electricity infrastructure3(1)
 electricity marketing agent78, 90
-Electricity Networks Corporation3
+electricity network3(1)
+Electricity Networks Corporation3(1)
 electricity ombudsman90, 92(1)
+entity120ZA(1)
 existing operator46(2)
 extension and expansion policy60
 gas pipelines access provisions130(1)
-generating works3
-generation licence3
-integrated regional licence3
-issue129(1)
+generating works3(1)
+generation costs129L
+generation licence3(1)
+historical generation costs129L
+integrated regional licence3(1)
+interconnected Pilbara network120
+interconnected Pilbara system120
+issue120ZH(1), 129(1)
 last resort supply plan67
-licence3, 60
-licence area3
-licensee3, 45(5), 71(1), 90
+licence3(1), 60
+licence area3(1)
+licensee3(1), 45(5), 71(1), 90
 market121(1), 122(1)
 market governance participant126(1)
 market rules121(1), 123(1), 134(1)
 marketing78
 matter134(1)
-network infrastructure facilities103
+NBU129L
+network infrastructure facilities3(1)
 network service provider103
 network user103
 non-standard contract47
-officer126(1)
-operate3
-participant121(2)
+officer120ZA(1), 126(1)
+operate3(1)
+participant120ZA(1), 121(2)
 period of exclusivity26(3)
+Pilbara access agreement120
+Pilbara electricity objective119(2), 120
+Pilbara ISO120, 120W(1)
+Pilbara network3(1)
+Pilbara network service provider120
+Pilbara network user120
+Pilbara Networks Access Code3(1), 120G(1)
+Pilbara networks participant120
+Pilbara networks rules3(1), 120K(1)
+Pilbara region3(1)
 premises57
+preparing entity120ZA(1)
+prescribed customer129L
 prescribed form of contract54A(1)
 prescribed period61(1)
 prescribed provision45(1)
 public authority40(1)
-Regional Power Corporation3
+Regional Power Corporation3(1)
 regulated retail tariffs129B
 relevant contract54A(1)
 relevant corporation45(5)
 relevant day39A(1), 54A(1)
 relevant interest40(1)
-retail licence3, 67
+retail licence3(1), 67
 retail licensee47
 RPC standards39A(1)
-service standards39A(1), 129D(4)
-services103
-South West interconnected system3
+service standards39A(1), 129D(4), 129N(5)
+services3(1)
+South West interconnected system3(1)
+stand-alone power system3(1)
 standard form contract47
-subsidiary3
+storage activity3(1)
+storage works3(1)
+subsidiary3(1)
 supplier of last resort67, 69(1)
-supply3
+supply3(1)
 system60
 system management participant126(1)
-tariff customersSch. 1 cl. 1(e)
+tariff customersSch. 1 cl. 1
 Tariff Equalisation Account129B
 tariff equalisation contribution129B
-transmission licence3
-transmission system3
-user129B, 129F(5)
+temporary access contribution129L
+Temporary Access Contribution Account129L
+termination date129L
+total annual volume129L
+transmission licence3(1)
+transmission system3(1)
+user129B, 129F(5), 129L
 Western Power Corporation46(1)
