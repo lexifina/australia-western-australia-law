@@ -39,11 +39,13 @@ Standardisation of Formatting Act 2010 s. 18 and 51 | 19 of 2010 | 28 Jun 2010 |
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 12 and 22 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 2 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
+Guardianship and Administration Amendment (Medical Research) Act 2020 (other than s. 13 and 15) | 14 of 2020 | 6 Apr 2020 | s. 1 and 2: 6 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 13 and 15: 7 Apr 2020 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
-Voluntary Assisted Dying Act 2019 Pt. 12 Div. 3 | 27 of 2019 | 19 Dec 2019 | To be proclaimed (see s. 2(b))
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 3 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
+Guardianship and Administration Amendment (Medical Research) Act 2020 s. 13 and 15 | 14 of 2020 | 6 Apr 2020 | 7 Apr 2024 (see s. 2(b))
 Other notes
 Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
@@ -108,6 +110,7 @@ Deputy President3(1)
 designated country67(5)
 determination3(1)
 donee102
+electroconvulsive therapy3(1)
 enduring guardian3(1)
 enduring power of attorney102
 enduring power of guardianship3(1)
@@ -116,25 +119,43 @@ foreign administrator83B(4)
 Full Tribunal3(1)
 guardian3(1)
 guardianship order3(1)
+Health Minister110ZO
 health professional110ZH
+HREC110ZO
+independent medical practitioner110ZO
+lead researcher110ZO
 legal practitioner3(1)
 life sustaining measure3(1)
+medical practitioner110ZO
+medical research3(1), 3AA(1), 3AA(2), 3AA(3)
 member3(1)
 mental disability3(1)
+National Statement110ZO
 nearest relative3(1)
 palliative care3(1)
 party3(1)
 patient110ZC, 110ZH
+personal information3(1)
+placebo3(1)
 prescribed daySch. 5 cl. 7(1)
 President3(1)
-procedure for the sterilisation56
+procedure for the sterilisation56, 110ZT(1)
 Public Advocate3(1)
 Public Trustee3(1)
 relevant finding67(5)
 relevant official83C(4)
+report request110ZZA(3)
 represented person3(1), 56
+research candidate3(1)
+research decision3(1)
+research decision-maker3(1), 110ZP(1)
+researcher110ZO
+review application110ZO
+reviewed decision110ZO
 substitute enduring guardian3(1)
+take research action110ZX(1)
 take treatment action110ZK(1)
 treatment3(1)
 treatment decision3(1)
+urgent medical research decision110ZO
 urgent treatment110ZH
