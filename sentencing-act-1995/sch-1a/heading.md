@@ -157,7 +157,7 @@
  | s. 33(2) | Conspiring with another to commit a simple offence under section 5(1) or 6(2) or 7(2)
  | s. 33(3) | Inciting another to commit, or becoming an accessory after the fact to, a simple offence under section 5(1) or 6(2) or 7(2)
 7. | Restraining Orders Act 1997
- | s. 61(1), (2) and (2a) | Breach of restraining order or police order
+ | s. 61(1), (1A), (2) and (2a) | Breach of restraining order or police order
 8. | Road Traffic Act 1974
  | s. 59A | Dangerous driving causing bodily harm — if the offender is not liable to imprisonment for 7 years
 9. | Weapons Act 1999
@@ -165,4 +165,4 @@
  | s. 7(1) and (2) | Offences relating to controlled weapons
  | s. 8A(2) and (3) | Selling or supplying controlled weapons to children
  | s. 8(1) | Carrying or possessing article as weapon
-[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5).]
+[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13.]
