@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Petroleum Products Pricing Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum Products Pricing Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Petroleum Products Pricing Regulations 2000 | 29 Dec 2000 p. 7981-5 | 1 Jan 2001 (see r. 2)
 Petroleum Products Pricing Amendment Regulations 2001 | 11 Jul 2001 p. 3457-62 | 12 Jul 2001 (see r. 2)
 Petroleum Products Pricing Amendment Regulations (No. 2) 2001 | 23 Aug 2001 p. 4378-81 | 24 Aug 2001 (see r. 2 and Gazette 23 Aug 2001 p. 4377)
@@ -23,7 +23,9 @@ Petroleum Products Pricing Amendment Regulations 2017 | 17 Oct 2017 p. 5335-7 | 
 Petroleum Products Pricing Amendment Regulations (No. 2) 2017 | 22 Dec 2017 p. 5976-7 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
 Petroleum Products Pricing Amendment Regulations 2018 | 1 May 2018 p. 1432 | r. 1 and 2: 1 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2018 (see r. 2(b))
 Petroleum Products Pricing Amendment Regulations (No. 2) 2018 | 27 Nov 2018 p. 4575 | r. 1 and 2: 27 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2018 (see r. 2(b))
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection was called the Department of Commerce.
+Petroleum Products Pricing Amendment Regulations 2020 | SL 2020/33 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
+Petroleum Products Pricing Amendment Regulations (No. 2) 2020 | SL 2020/34 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
+Other notes
 The Petroleum Products Pricing Amendment Regulations 2001 r. 8 reads as follows:
 8.Defence during transitional period
 (1) It is a defence to a charge of an offence against regulation 6(1) of the Petroleum Products Pricing Regulations 2000 that was alleged to have been committed during the transitional period to prove that the person charged did not have any sign or other thing that the person would have needed to be able to comply with regulation 6 of those regulations despite the person having taken all reasonable steps to ensure that everything needed was available.
@@ -50,5 +52,4 @@ kinds offered6(2)
 Perth metropolitan region2AA
 regular unleaded petrol6(7)
 retail sale2A
-standard retail sale6(7)
 townsite2AA
