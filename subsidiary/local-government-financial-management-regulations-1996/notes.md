@@ -1,7 +1,7 @@
 Notes
-This compilation of the Local Government (Financial Management) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government (Financial Management) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Local Government (Financial Management) Regulations 1996 | 24 Jun 1996 p. 2681-750 | 1 Jul 1996 (see r. 2)
 Local Government (Financial Management) Amendment Regulations 1996 | 28 Jun 1996 p. 3169-70 | 1 Jul 1996 (see r. 3)
 Local Government (Financial Management) Amendment Regulations (No. 2) 1996 | 30 Aug 1996 p. 4330-1 | 30 Aug 1996
@@ -24,6 +24,7 @@ Local Government (Financial Management) Amendment Regulations 2013 | 21 Jun 2013
 Local Government (Financial Management) Amendment Regulations 2017 | 12 May 2017 p. 2469 | r. 1 and 2: 12 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 13 May 2017 (see r. 2(b))
 Local Government Regulations Amendment (Auditing) Regulations 2018 Pt. 3 | 26 Jun 2018 p. 2384-9 | Pt. 3 (other than r. 13 and 14): 27 Jun 2018 (see r. 2(c)); r. 13 and 14: 1 Jul 2018 (see r. 2(b))
 Local Government Regulations Amendment (Recovery of Advance Payments) Regulations 2018 Pt. 3 | 14 Dec 2018 p. 4805-6 | 15 Dec 2018 (see r. 2(b))
+Local Government Regulations Amendment Regulations 2020 Pt. 2 | SL 2020/35 9 Apr 2020 | 10 Apr 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -54,7 +55,7 @@ depreciable assets50(2)
 depreciated replacement cost of assets50(2)
 depreciation50(2)
 due date19B(1)
-existing loan20(2)
+existing loan20(1)
 fair value17A(1)
 foreign currency19C(1)
 Form3(1)
@@ -64,12 +65,12 @@ interim minimum payment3(1)
 interim notice62(1)
 interim rate3(1)
 liabilities associated with restricted assets50(2)
-major variation20(2)
+major variation20(1)
 material variance3(1)
 nature or type classification3(1)
 net current assets3(1)
 net operating expense50(2)
-new loan20(2)
+new loan20(1)
 non-current asset3(1)
 NPV50(2)
 old law79(1)
@@ -85,11 +86,12 @@ principal and interest50(2)
 program3(1)
 rate3(1)
 rate setting statement3(1)
-re-finance20(2)
+re-finance20(1)
 relevant district52A(1)
 required capital expenditure50(2)
 restricted asset3(1)
 section3(1)
+state of emergency declaration3(1)
 the due date71(1)
 total assets3(1)
 unpaid rate66(5)
