@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Surveillance Devices Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Surveillance Devices Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Surveillance Devices Regulations 1999 | 18 Nov 1999 p. 5767-86 | 22 Nov 1999 (see r. 2 and Gazette 22 Nov 1999 p. 5843)
 Surveillance Devices Amendment Regulations 1999 | 8 Feb 2000 p. 457-60 | 8 Feb 2000
 Australian Crime Commission (Western Australia) Act 2004 s. 73 assented to 8 Dec 2004 | 1 Feb 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -19,6 +19,7 @@ Reprint 2: The Surveillance Devices Regulations 1999 as at 10 Sep 2010 (includes
  | Surveillance Devices Amendment Regulations (No. 3) 2016 | 23 Dec 2016 p. 5905-6 | r. 1 and 2: 23 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2016 (see r. 2(b))
  | Surveillance Devices Amendment Regulations 2017 | 18 Aug 2017 p. 4448 | r. 1 and 2: 18 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2017 (see r. 2(b))
  | Reprint 3: The Surveillance Devices Regulations 1999 as at 13 Jul 2018 (includes amendments listed above)
+ | Surveillance Devices Amendment Regulations 2020 | SL 2020/36 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
