@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Magistrates Court (Civil Proceedings) Rules 2005 | 28 Apr 2005 p. 1651-709 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
 Magistrates Court (Civil Proceedings) Amendment Rules 2007 | 24 Aug 2007 p. 4328-32 | r. 1 and 2: 24 Aug 2007 (see r. 2(a)); Rules other than r. 1 and 2: 25 Aug 2007 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2008 | 3 Jun 2008 p. 2123-38 | r. 1 and 2: 3 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2008 (see r. 2(b))
@@ -28,6 +28,7 @@ Magistrates Court Rules Amendment Rules 2017 Pt. 2 | 21 Jul 2017 p. 4024-7 | 22 
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2017 | 24 Nov 2017 p. 5674-5 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Rules other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2018 Pt. 2 | 18 Sep 2018 p. 3515-16 | 19 Sep 2018 (see r. 2(b))
 Magistrates Court Rules Amendment (Inactive Cases) Rules 2019 Pt. 2 | 5 Apr 2019 p. 1012-16 | 6 Apr 2019 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules 2020 | SL 2020/37 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Rules other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
