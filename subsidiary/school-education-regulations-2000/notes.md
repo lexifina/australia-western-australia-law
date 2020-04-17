@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the School Education Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the School Education Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 School Education Regulations 2000 | 29 Dec 2000 p. 7795-900 | 1 Jan 2001 (see r. 2)
@@ -29,11 +29,7 @@ Reprint 3: The School Education Regulations 2000 as at 1 Sep 2017 (includes amen
 School Education Amendment Regulations 2017 | 22 Dec 2017 p. 5977-8 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b))
 School Education Amendment Regulations 2018 | 21 Dec 2018 p. 4852-3 | r. 1 and 2: 21 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b))
 Education Regulations (Immunisation Requirements for Enrolment) Amendment Regulations 2019 Pt. 2 | 19 Jul 2019 p. 2844-6 | 22 Jul 2019 (see r. 2(b) and Gazette 19 Jul 2019 p. 2841)
-School Education Amendment Regulations 2020 | SL 2020/15 17 Mar 2020 | r. 1 and 2: 17 Mar 2020 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 18 Mar 2020 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-School Education Amendment Regulations 2020 r. 4 | SL 2020/15 17 Mar 2020 | 18 Apr 2020 (see r. 2(b))
+School Education Amendment Regulations 2020 | SL 2020/15 17 Mar 2020 | r. 1 and 2: 17 Mar 2020 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 18 Mar 2020 (see r. 2(c)); r. 4: 17 Apr 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -71,6 +67,7 @@ link school3(1)
 member of staff3(1)
 minimum period137(1)
 non-complying student36(1)
+non-compulsory education129(1)
 non-system school130(1)
 option11A
 order70(1)
@@ -81,6 +78,7 @@ participation value11D(1)
 person responsible for a student3(2)
 policy direction3(1)
 pre-primary programme3(1)
+primary education129(1)
 primary programme3(1)
 principal108(5)
 prohibition order3(1)
@@ -94,6 +92,7 @@ school planning proposal130(1)
 school premises3(1)
 school system130(1)
 school’s premises3(1)
+secondary education129(1)
 secondary programme3(1)
 section3(1)
 security coordinator3(1)
