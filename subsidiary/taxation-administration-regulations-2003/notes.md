@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC. The table also contains information about any reprint.
+This is a compilation of the Taxation Administration Regulations 2003 and includes amendments made by other written laws 1M, 1MC. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Taxation Administration Regulations 2003 | 27 Jun 2003 p. 2419-22 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
 Taxation Administration Amendment Regulations 2004 | 7 May 2004 p. 1413 | 7 May 2004
 Taxation Administration Amendment Regulations (No. 2) 2004 | 13 Aug 2004 p. 3253 | 1 Sep 2004 (see r. 2)
@@ -36,6 +36,8 @@ Taxation Administration Amendment Regulations 2019 | 12 Feb 2019 p. 271-2 | r. 1
 Taxation Administration Amendment Regulations (No. 2) 2019 | 26 Feb 2019 p. 459-60 | r. 1 and 2: 26 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2019 (see r. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Finance Regulations Amendment (Interest Rates) Regulations 2019 Pt. 3 | 28 Jun 2019 p. 2492-3 | 1 Jul 2019 (see r. 2(b))
 Finance Regulations Amendment Regulations 2019 Pt. 4 | 13 Aug 2019 p. 3041-3 | 14 Aug 2019 (see r. 2(c))
+Taxation Administration Amendment Regulations 2020 | SL 2020/40 17 Apr 2020 | r. 1 and 2: 17 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2020 (see r. 2(b))
+Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number.
 Defined terms
@@ -43,15 +45,24 @@ Defined terms
 Defined termProvision(s)
 ACNC Commissioner13H(1)
 administrative authority13I(1)
+applicable subregulation14AA(2)
 CEO (Landgate)13C(1)
 CEO (petroleum)13B(1)
 chief executive officer13G(1)
+Commissioner Fair Trading14A(1)
 corresponding law13E(1)
+Corruption and Crime Commission13K(1)
+Corruption and Crime Commissioner13K(1)
 duty5A(3), 13C(1)
 employer13G(1)
+functions14A(1)
+Legal Practice Board14A(1)
+legal practitioner14A(1)
 online arrangement5A(3)
 Pastoral Lands Board13(1)
 pastoral lessee13(1)
+relevant recipient14A(1)
 settlement agent14A(1)
 STR arrangement14A(1)
 wages13G(1)
+WorkCover WA13J(1)
