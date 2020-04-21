@@ -3,11 +3,11 @@ This is a compilation of the Local Government Act 1995 and includes amendments m
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1995 | 74 of 1995 | 9 Jan 1996 | 1 Jul 1996 (see s. 1.2)
-Local Government Act (Schedule 3.1) Amendment Regulations 1996 published in Gazette 24 Jun 1996 p. 2861-2 | 1 Jul 1996 (see r. 2)
+Local Government Act (Schedule 3.1) Amendment Regulations 1996 published: Gazette 24 Jun 1996 p. 2861-2 | 1 Jul 1996 (see r. 2)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Local Government Act (Schedule 3.1) Amendment Regulations (No. 2) 1996 published in Gazette 25 Oct 1996 p. 5647 | 25 Oct 1996
+Local Government Act (Schedule 3.1) Amendment Regulations (No. 2) 1996 published: Gazette 25 Oct 1996 p. 5647 | 25 Oct 1996
 Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
-Local Government Act (Schedule 3.1) Amendment Regulations 1997 published in Gazette 29 Apr 1997 p. 2144 | 29 Apr 1997
+Local Government Act (Schedule 3.1) Amendment Regulations 1997 published: Gazette 29 Apr 1997 p. 2144 | 29 Apr 1997
 Statutes (Repeals and Minor Amendments) Act 1997 s. 81 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Local Government Amendment Act 1998 | 1 of 1998 | 26 Mar 1998 | Act other than s. 21: 26 Mar 1998 (see s. 2(1)); s. 21: 1 Jul 1998 (see s. 2(2))
 Local Government Amendment Act (No. 2) 1998 | 64 of 1998 | 12 Jan 1999 | 12 Jan 1999 (see s. 2)
@@ -23,12 +23,12 @@ Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 14 | 20 of 2003 | 2
 Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 7 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
 Acts Amendment (Equality of Status) Act 2003 Pt. 38 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 79 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Reprint 2: The Local Government Act 1995 as at 2 Apr 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction in Gazette 1 Oct 2004 p. 4283)
+Reprint 2: The Local Government Act 1995 as at 2 Apr 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction: Gazette 1 Oct 2004 p. 4283)
 Workers’ Compensation Reform Act 2004 s. 165 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Local Government Amendment Act 2004 18-23 | 49 of 2004 (as amended by No. 8 of 2009 s. 88; No. 17 of 2009 s. 48) | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 76 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 11 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 11 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction: Gazette 7 Jan 2005 p. 53))
  | Reprint 3: The Local Government Act 1995 as at 5 Aug 2005 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001)
  | Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 14 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
@@ -55,7 +55,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
  | Local Government Amendment Act 2012 Pt. 2 | 2 of 2012 | 4 Apr 2012 | Pt. 2 other than s. 13-18: 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 14-18: 1 Jul 2013 (see s. 2(b) and Gazette 8 Feb 2013 p. 863)
  | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
- | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516, Local Government Amendment Act 2012 s. 14-18 (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317) and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29)
+ | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516, Local Government Amendment Act 2012 s. 14-18 (correction: Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317) and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29)
  | Commercial Arbitration Act 2012 s. 45 it. 12 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
  | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 35 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
  | Associations Incorporation Act 2015 s. 223 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
@@ -67,12 +67,14 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government Amendment (Auditing) Act 2017 (other than s. 4(2) and 7(2)) | 5 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(b) and Gazette 27 Oct 2017 p. 5413)
  | Local Government Amendment (Suspension and Dismissal) Act 2018 | 31 of 2018 | 19 Nov 2018 | s. 1 and 2: 19 Nov 2018 (see s. 2(b)); Act other than s. 1 and 2: 20 Nov 2018 (see s. 2(b))
  | Local Government Legislation Amendment Act 2019 Pt. 2 (other than s. 5, 13, 14, 16, 17, 20, 22, 24, 25, 39(2), 48-51, 57, 64-66, 68, and 74(1) and (2)) | 16 of 2019 | 5 Jul 2019 | s. 3-4, 6-12, 18, 19, 21, 23, 45-47, 52-56, 58-60, 62, 63, 69-73: 6 Jul 2019 (see s. 2(c)); s. 15: 10 Aug 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 61: 16 Sep 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 26 to 38, 39(1), 40 to 44, 67 and 74(3): 19 Oct 2019 (see s. 2(b) and Gazette 18 Oct 2019 p. 3673)
+ | Local Government Amendment (COVID-19 Response) Act 2020 (other than s. 5) | 17 of 2020 | 20 Apr 2020 | s. 1 and 2: 20 Apr 2020 (see s. 2(a)); Act other than s. 1, 2 and 5: 21 Apr 2020 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Local Government Legislation Amendment Act 2019 Pt. 2 (s. 5, 13, 14, 16, 17, 20, 22, 24, 25, 39(2), 48-51, 57, 64-66, 68 and 74(1) and (2)) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
+Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 Apr 2020 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -81,7 +83,7 @@ The short title of the Local Government Act 1960 was amended to the Local Govern
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be read and construed as if that reference were a reference to the Land Administration Act 1997.
 Footnote no longer applicable.
 The Criminal Code s. 348 and 349 were deleted by the Defamation Act 2005 s. 47.
-The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) read as follows:
+The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published: Gazette 26 May 2006 p. 1877-8) read as follows:
 Part VIA — Employee Superannuation
 170A.Interpretation
 (1) In this Part —
@@ -321,6 +323,7 @@ council proceedings9.57A
 councillor1.4
 councillor mayor or president1.4
 court3.26(5)
+COVID emergency declaration10.1
 Crown lands1.4
 Crown lease1.4
 Crown lessee1.4
