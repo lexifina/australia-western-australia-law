@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Lotteries Commission Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Lotteries Commission Act 1990 | 16 of 1990 | 31 Jul 1990 | s. 1 and 2: 31 Jul 1990; Act other than s. 1 and 2: 1 Jan 1991 (see s. 2 and Gazette 28 Dec 1990 p. 6369)
@@ -25,6 +25,8 @@ Lotteries Commission Amendment Act 2012 | 21 of 2012 | 29 Aug 2012 | s. 1 and 2:
 National Health Funding Pool Act 2012 Pt. 8 Div. 2 | 44 of 2012 | 29 Aug 2012 | 28 Aug 2013 (see s. 2(b) and Gazette 27 Aug 2013 p. 4015)
 Reprint 3: The Lotteries Commission Act 1990 as at 2 Nov 2012 (includes amendments listed above except those in the National Health Funding Pool Act 2012)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 21 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Lotteries Commission Amendment (COVID-19 Response) Act 2020 | 15 of 2020 | 20 Apr 2020 | s. 1 and 2: 20 Apr 2020 (see s. 2(a)); Act other than s. 1 and 2: 21 Apr 2020 (see s. 2(b))
+Other notes
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Now known as the Gaming and Wagering Commission Act 1987.
 The Lotteries Commission Amendment Act 1994 s. 4(2) reads as follows:
@@ -34,15 +36,20 @@ Defined terms
 Defined termProvision(s)
 approved purpose19
 chairperson3(1)
+closure day16A(1)
 commencementSch. 2 cl. 1
 Commission3(1)
 conduct3(1)
 designated authority3(1)
+distributable balance24A(1)
 document26(5)
 eligible organization19
+emergency circumstances3B(1)
+emergency period3B(1)
 entry form3(1)
 fixed prize game22(1a)
 game of lotto3(1)
+grant administration services6(1A)
 information26(5)
 instant lottery3(1)
 lottery3(1)
@@ -53,6 +60,7 @@ parliamentary purposes26(5)
 permit3(1)
 prize fund22(1a)
 prize liability22(1a)
+public authority24A(1)
 soccer football pool3(1)
 sports lottery3(1)
 subscription3(1)
