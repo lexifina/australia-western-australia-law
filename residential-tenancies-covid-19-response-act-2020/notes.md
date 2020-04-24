@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Residential Tenancies (COVID-19 Response) Act 2020. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Residential Tenancies (COVID-19 Response) Act 2020 Act other than s. 1, 2, 14(3)(b) and (4)-(7), 26, 27(3)(b) and (4)-(7), 44 and Pt. 4 Div. 3-5 | 18 of 2020 | 23 Apr 2020 | 30 Mar 2020 (see s. 2(d))
+Residential Tenancies (COVID-19 Response) Act 2020 (other than s. 14(3)(b) and (4)-(7), 27(3)(b) and (4)-(7) and Pt. 4 Div. 3-5) | 18 of 2020 | 23 Apr 2020 | Act other than s. 1, 2, 14(3)(b) and (4)-(7), 26, 27(3)(b) and (4)-(7), 44 and Pt. 4 Div. 3-5: 30 Mar 2020 (see s. 2(d)); s. 1 and 2: 23 Apr 2020 (see s. 2(a)); s. 26 and 44: 24 Apr 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Residential Tenancies (COVID-19 Response) Act 2020 s. 1, 2, 14(3)(b) and (4)-(7), 26, 27(3)(b) and (4)-(7), 44 and Pt. 4 Div. 3-5 | 18 of 2020 | 23 Apr 2020 | s. 1 and 2: 23 Apr 2020 (see s. 2(a)); s. 26 and 44: 24 Apr 2020 (see s. 2(b)); s. 14(3)(b) and (4)-(7), 27(3)(b) and (4)-(7) and Pt. 4 Div. 3-5: to be proclaimed (see s. 2(c))
+Residential Tenancies (COVID-19 Response) Act 2020 s. 14(3)(b) and (4)-(7), 27(3)(b) and (4)-(7) and Pt. 4 Div. 3-5 | 18 of 2020 | 23 Apr 2020 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -31,11 +31,14 @@ owner3(1)
 party45
 pre-assent emergency period67
 publication day76(1)
+relevant application49(1)
 relevant dispute45, 46(1) and (2)
+relevant relief49(1)
 remedial notice19(3), 32(3)
 remedial period19(1), 32(1)
 rent default notice14(1), 27(1)
 rent repayment agreement14(1), 19(1), 27(1), 32(1)
+representative58(2)
 resident3(1)
 residential tenancy agreement3(1)
 specified76(1)
