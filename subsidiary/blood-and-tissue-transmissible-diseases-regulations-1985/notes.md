@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Blood and Tissue (Transmissible Diseases) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Blood and Tissue (Transmissible Diseases) Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Blood and Tissue (Transmissible Diseases) Regulations 1985 | 8 Feb 1985 p. 517-19 | 8 Feb 1985
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 1986 | 12 Sep 1986 p. 3350 | 12 Sep 1986
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 1988 | 13 May 1988 p. 1596-7 | 13 May 1988
@@ -17,6 +17,8 @@ Blood and Tissue (Transmissible Diseases) Amendment Regulations 2016 | 11 Mar 20
 Blood and Tissue (Transmissible Diseases) Amendment Regulations (No. 2) 2016 | 9 Sep 2016 p. 3885 | r. 1 and 2: 9 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2016 (see r. 2(b))
 Health Regulations Amendment (Public Health Consequential Amendments) Regulations 2017 Pt. 2 | 19 Sep 2017 p. 4883-5 | 20 Sep 2017 (see r. 2(b) and Gazette 19 Sep 2017 p. 4880)
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 2018 | 14 Sep 2018 p. 3309-10 | r. 1 and 2: 14 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Sep 2018 (see r. 2(b))
+Blood and Tissue (Transmissible Diseases) Amendment Regulations 2020 | SL 2020/47 24 Apr 2020 | r. 1 and 2: 24 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2020 (see r. 2(b))
+Other notes
 Made under the Health (Miscellaneous Provisions) Act 1911; these regulations continue in force, after the Public Health Act 2016 s. 321 came into operation, as if these regulations were made under the Public Health Act 2016 s. 304.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
