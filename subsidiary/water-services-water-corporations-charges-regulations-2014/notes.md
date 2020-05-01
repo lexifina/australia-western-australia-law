@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Services (Water Corporations Charges) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Water Services (Water Corporations Charges) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Water Services (Water Corporations Charges) Regulations 2014 | 25 Jun 2014 p. 2155-298 | r. 1 and 2: 25 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
@@ -14,9 +14,6 @@ Water Services (Water Corporations Charges) Amendment Regulations 2017 | 4 Aug 2
 Water Legislation Amendment Regulations 2017 Pt. 4 | 15 Sep 2017 p. 4794-6 | 16 Sep 2017 (see r. 2(b))
 Water Services Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 22 Jun 2018 p. 2211-95 | 1 Jul 2018 (see r. 2(b))
 Water Services Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 14 Jun 2019 p. 1929-2010 | 1 Jul 2019 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Water Regulations Amendment (Strata Titles) Regulations 2019 Pt. 3 | 31 Dec 2019 p. 4663-5 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Other notes
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.
@@ -69,6 +66,7 @@ non-profit private organisation16(1)
 non-residential lot6, 11
 nursing home16(1)
 old provision55(1)
+park home16(1)
 permitted surcharge15A(1), 20(1)
 product evaluationSch. 7 cl. 13
 public land16(1)

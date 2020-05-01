@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Services Regulations 2013 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Water Services Regulations 2013 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Water Services Regulations 2013 | 14 Nov 2013 p. 5103-204 | Regulations other than r. 30: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027); r. 30: 1 Jul 2014 (see r. 2(a) and Gazette 14 Nov 2013 p. 5028)
@@ -14,9 +14,6 @@ Reprint 1: The Water Services Regulations 2013 as at 28 Jul 2017 (includes amend
 Water Legislation Amendment Regulations 2017 Pt. 5 | 15 Sep 2017 p. 4794-6 | 16 Sep 2017 (see r. 2(b))
 Water Services Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 22 Jun 2018 p. 2211-95 | 1 Jul 2018 (see r. 2(b))
 Water Services Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 14 Jun 2019 p. 1929-2010 | 1 Jul 2019 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Water Regulations Amendment (Strata Titles) Regulations 2019 Pt. 2 | 31 Dec 2019 p. 4663-5 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Other notes
 The Water Boards Act 1904 was repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 201.
