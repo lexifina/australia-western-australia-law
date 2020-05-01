@@ -28,31 +28,18 @@
 [Part B inserted: Gazette 23 May 1997 p. 2421-2; amended: Gazette 15 Jun 2004 p. 2026; 22 Dec 2006 p. 5808; 14 Nov 2013 p. 5067.]
 ## Part C — Documents for registration or lodgement
 1.Under or for the purposes of the Strata Titles Act 1985 the following documents, subject to the condition that a licensee shall not draft a resolution of a strata company under or for the purposes of that Act —
-(a)these documents for the purposes of these provisions of that Act:
+(a)documents in the forms approved under the following provisions of that Act:
 Provision | Description of document
-ss. 4-5B | Application for registration of a strata plan or a survey-strata plan
-s. 69C | Vendor’s notice to purchaser of notifiable variation;
-(b)these forms in Schedule 3 to the Strata Titles General Regulations 1996:
-Form | Description of form
-10 | Certificate of Strata Company Consenting to Conversion of Common Property
-11 | Certificate of Consent by Strata Company to Amended Schedule of Unit Entitlement
-12 | Certificate of Strata Company Authorising Application to State Administrative Tribunal
-13 | Certificate of Strata Company Authorising Acceptance of Transfer or Lease
-14 | Certificate of Resolution and Consents to Transfer or Lease, Easement or Restrictive Covenant
-15 | Notification of Resolution of Termination of Scheme
-16 | Notice of Change of Address for Service of Notices
-17 | Notice of Change of Name of Scheme and Change of Address for Service of Notices
-19 | Notice of Resolution to Vary, Remove or Add a Restriction
-20 | Application for Re-subdivision by Strata Company
-21 | Notice of Amendment, Repeal or Addition of By-law
-22 | Disposition on Subdivision
-23 | Disposition on Re-subdivision
-24 | Application to Western Australian Planning Commission for Approval to Strata Plan
-28 | Disclosure Statement
-30 | Notice of Resolution of Merger of Buildings
-39 | Disposition on Merger of Land or Conversion to a Survey-Strata Scheme
-40 | Notice of Objection to Change of Fencing Provisions
-41 | Notice of Termination of Insurance Order.
+s. 15(5)(a) | Application for approval of a strata plan or an amendment of a strata plan to give effect to a subdivision of land by a strata scheme
+s. 29(2) | Scheme notice or amendment of a scheme notice
+s. 35(5) | Notice of resolution for amendment of a scheme plan
+s. 44(5) | Scheme by-laws
+s. 56(2) | Application for registration of a strata titles scheme or amendment of a strata titles scheme and accompanying documents in approved forms
+s. 193(1) | Notice of expiry of a leasehold scheme or application for termination of a strata titles scheme and accompanying documents in approved forms
+Sch. 2A cl. 21G(1) | Notice of resolution under Schedule 2A clause 21F of that Act
+Sch. 2A cl. 21S(1) | Notice of resolution under Schedule 2A clause 21Q of that Act
+Sch. 2A cl. 31D(1) | Notice of resolution under Schedule 2A clause 31C of that Act
+(b)a disposition statement under section 222 of that Act in the form approved under the Strata Titles (General) Regulations 2019.
 2.Under or for the purposes of the Transfer of Land Act 1893 —
 (a)these documents under these provisions of that Act for the purposes described:
 Provision | Description of document and purpose
@@ -81,4 +68,4 @@ s. 240A | Application to change an address;
 (iii)no dealing that is adverse to, or that derogates from, the caveator’s claim is lodged or is to be lodged after the withdrawal and before the transfer to the caveator or the caveator’s nominee;
 (c)an application to amend the Register as to the name of a registered proprietor;
 (d)a withdrawal of memorial under the Water Services Act 2012 section 128 for a memorial lodged by a water corporation (as defined in that Act) in relation to the payment of an infrastructure contribution under section 128(2)(b) of that Act.
-[Part C inserted: Gazette 23 May 1997 p. 2422-4; amended: Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8.]
+[Part C inserted: Gazette 23 May 1997 p. 2422-4; amended: Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8; 31 Dec 2019 p. 4645-6.]

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Retirement Villages Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Retirement Villages Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Retirement Villages Regulations 1992 | 10 Jul 1992 p. 3191-8 | 10 Jul 1992 (see r. 2 and Gazette 10 Jul 1992 p. 3185)
@@ -19,9 +19,6 @@ Retirement Villages Amendment Regulations 2019 | 22 Mar 2019 | r. 1 and 2: 22 Ma
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 18 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Retirement Villages Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3497-8 | r. 1 and 2: 27 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2019 (see r. 2(b))
 Retirement Villages Amendment Regulations 2020 | SL 2020/22 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 5 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Other notes
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:

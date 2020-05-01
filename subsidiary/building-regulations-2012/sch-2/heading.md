@@ -20,13 +20,13 @@ Item | Application | Fee
 2. | Application for an occupancy permit for an incomplete building (s. 47) | $105.00
 3. | Application for modification of an occupancy permit for additional use of a building on a temporary basis (s. 48) | $105.00
 4. | Application for a replacement occupancy permit for permanent change of the building’s use or classification (s. 49) | $105.00
-5. | Application for an occupancy permit or building approval certificate for registration of strata scheme or plan of re-subdivision (s. 50(1) or (2)) | $11.60 for each strata unit covered by the application, but not less than $115.00
+[5. | deleted]
 6. | Application for an occupancy permit for a building in respect of which unauthorised work has been done (s. 51(2)) | 0.18% of the estimated value of the unauthorised work as determined by the relevant permit authority, but not less than $105.00
 7. | Application for a building approval certificate for a building or an incidental structure in respect of which unauthorised work has been done (s. 51(3)) | 0.38% of the estimated value of the unauthorised work as determined by the relevant permit authority, but not less than $105.00
 8. | Application to replace an occupancy permit for an existing building (s. 52(1)) | $105.00
 9. | Application for a building approval certificate for an existing building or an incidental structure where unauthorised work has not been done (s. 52(2)) | $105.00
 10. | Application to extend the time during which an occupancy permit or building approval certificate has effect (s. 65(3)(a)) | $105.00
-[Division 2 inserted: Gazette 23 Jun 2017 p. 3223-5; amended: Gazette 18 Jun 2019 p. 2084.]
+[Division 2 inserted: Gazette 23 Jun 2017 p. 3223-5; amended: Gazette 18 Jun 2019 p. 2084; 31 Dec 2019 p. 4640.]
 ## Division 3 — Other applications
 [Heading inserted: Gazette 23 Jun 2017 p. 3225.]
 Item | Application | Fee
