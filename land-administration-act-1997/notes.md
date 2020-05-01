@@ -53,6 +53,7 @@ Conservation and Land Management Amendment Act 2015 s. 76 | 28 of 2015 | 19 Oct 
 Land Administration (South West Native Title Settlement) Act 2016 Pt. 6 | 10 of 2016 | 16 May 2016 | 6 Jun 2016 (see s. 2(b) and Gazette 27 May 2016 p. 1548)
 Biodiversity Conservation Act 2016 s. 318(1) and (2)(a) | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Reprint 7: The Land Administration Act 1997 as at 6 Oct 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 318)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 9 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -60,7 +61,6 @@ Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 |
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Biodiversity Conservation Act 2016 s. 318(2)(b) | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-Strata Titles Amendment Act 2018 Pt. 3 Div. 9 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Other notes
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation.
 The Land Administration Amendment Act 2000 s. 8(6), (7) and (8) read as follows:
@@ -210,7 +210,7 @@ Crown land interest holder275A(1)
 Crown lease3(1)
 date of taking151(1)
 dealing3(1)
-deemed application143(6)(c)
+deemed application143(6)
 Department3(1), 202(4)
 designate151(1)
 designated151(1)
@@ -234,9 +234,10 @@ inundated land3(1)
 land3(1)
 land administration expertise3(1)
 land district3(1)
-landholder87(3)(c)
 land reservedSch. 3 cl. 1
+landholder87(3)
 lease3(1)
+leasehold scheme3(1)
 licence3(1)
 location3(1)
 lot3(1)
@@ -260,7 +261,8 @@ notice of intention151(1)
 NTA151(1)
 occupier151(1)
 order3(1)
-original portion176(1)(a)
+original portion176(1)
+owner of a leasehold scheme72
 pastoral lease3(1), 101(1)
 pastoral lessee3(1)
 pastoral purposes93
@@ -298,13 +300,15 @@ repealed Act3(1)
 repealed legislationSch. 2 cl. 30(2)
 reservation3(1)
 reserve3(1)
+resolution without dissent72
 respondent35(1)
 responsible personSch. 2 cl. 45(1)
 return date113(1)
 road3(1)
 scheme3(1)
+scheme by-laws72
 second Act200(2)
-small portion176(1)(b)
+small portion176(1)
 soil conservation notice93
 special Act151(1)
 specified purpose144(4)
@@ -312,6 +316,8 @@ specified use75(1)
 State instrumentality3(1)
 status order3(1), Sch. 2 cl. 1(2)
 stock3(1), 108(6), 111(7), 113(4)
+strata company72
+strata lease72
 structure267(1)
 subject Crown land63
 subject land16(7), 52(1)
@@ -319,7 +325,7 @@ subsidiary certificate of Crown land title3(1)
 survey mark268(3)
 take151(1)
 taken151(1)
-taker87(3)(c)
+taker87(3)
 taking151(1)
 taking order151(1)
 TLA3(1)

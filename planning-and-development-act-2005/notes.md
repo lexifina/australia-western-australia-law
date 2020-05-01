@@ -26,12 +26,12 @@ Associations Incorporation Act 2015 s. 226 | 30 of 2015 | 2 Nov 2015 | 1 Jul 201
 Reprint 4: The Planning and Development Act 2005 as at 1 Apr 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
 Heritage Act 2018 s. 186 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Infrastructure Western Australia Act 2019 s. 76 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 14 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Strata Titles Amendment Act 2018 Pt. 3 Div. 14 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 14 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Land Administration Act 1997.

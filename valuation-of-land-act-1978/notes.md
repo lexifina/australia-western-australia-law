@@ -51,11 +51,11 @@ Land Legislation Amendment Act 2015 Pt. 6 | 11 of 2015 | 29 Apr 2015 | 30 Jun 20
 Land Legislation Amendment (Taxing) Act 2015 Pt. 5 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Valuation of Land Amendment Act 2015 | 14 of 2015 | 15 May 2015 | s. 1 and 2: 15 May 2015 (see s. 2(a)); Act other than s. 1 and 2: 30 Jun 2015 (see s. 2(b)(i))
 Reprint 7: The Valuation of Land Act 1978 as at 8 Jan 2016 (includes amendments listed above)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 24 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div 24 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Community Titles Act 2018 Pt. 14 Div. 24 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 24 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.

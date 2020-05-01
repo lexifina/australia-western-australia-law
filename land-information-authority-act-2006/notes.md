@@ -7,11 +7,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 94 | 77 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Land Legislation Amendment Act 2015 Pt. 2 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Reprint 1: The Land Information Authority Act 2006 as at 4 Sep 2015 (includes amendments listed above)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 10 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div. 10 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Community Titles Act 2018 Pt. 14 Div. 11 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 11 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms

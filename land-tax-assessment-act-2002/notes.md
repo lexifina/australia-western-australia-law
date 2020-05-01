@@ -35,11 +35,11 @@ Biodiversity Conservation Act 2016 s. 319 | 24 of 2016 | 21 Sep 2016 | 3 Dec 201
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
 Land Tax Assessment Amendment Act 2018 | 5 of 2018 | 26 Apr 2018 | Pt. 2: 1 Jul 2003 (see s. 2(a) and Gazette 27 Jun 2003 p. 2383); Act other than Pt. 2: 26 Apr 2018 (see s. 2(b))
 Reprint 5: The Land Tax Assessment Act 2002 as at 20 Jul 2018 (includes amendments listed above)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 11 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Revenue Laws Amendment Act 2019 Pt. 3 Div. 2 and 3 | 12 of 2019 | 12 Jun 2019 | Pt. 3 Div. 2: 13 Jun 2019 (see s. 2(e)); Pt. 3 Div. 3: 1 Jul 2019 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div. 11 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Revenue Laws Amendment Act 2019 Pt. 3 Div. 4 | 12 of 2019 | 12 Jun 2019 | To be proclaimed (see s. 2(d))
 Other notes
@@ -68,7 +68,7 @@ Defined termProvision(s)
 aged care facility38A(1)
 agentGl.
 aggregated taxable valueGl.
-amended ActSch. 1 cl. 10, cl. 16
+amended ActSch. 1 cl. 10 and 16
 amending ActSch. 1 cl. 6
 approvedGl.
 assessmentGl.
@@ -77,13 +77,13 @@ beneficiary23A(1), 29, 30K, Sch. 1 cl. 20(2)
 building contractGl.
 change30F(1)
 clauseGl.
-commencementSch. 1 cl. 10, cl. 16
+commencementSch. 1 cl. 10 and 16
 commencement dateGl.
 completion dateGl.
-compliant trusteeSch. 1 cl. 9(1), cl. 20(1)
+compliant trusteeSch. 1 cl. 9(1), Sch. 1 cl. 20(1)
 conservation covenantGl.
 deceased30E
-decisionSch. 1 cl. 12(1), cl. 18(1)
+decisionSch. 1 cl. 12(1) and 18(1)
 disabled beneficiaryGl.
 disabled person26A(1)
 discretionary trust29
@@ -115,7 +115,7 @@ Land Information AuthorityGl.
 land taxGl.
 land tax ActGl.
 local planning schemeGl.
-lotGl.
+lotGl., Gl.
 metropolitan regionGl.
 modified rural business land provisions Sch. 1 cl. 10
 new lot28A, 43A(1)
@@ -130,13 +130,13 @@ original assessment year38AC(8)
 other lotsGl.
 ownerGl.
 owner-builderGl.
-parcelGl.
+parcel43B(1), Gl.
 parent lot28A, Gl.
 parent lotsGl.
 partnership29
 political partyGl.
 preliminary notice about an exemption under section 37Sch. 1 cl. 4(1)
-previous assessmentSch. 1 cl. 10, cl. 16
+previous assessmentSch. 1 cl. 10 and 16
 previous assessment periodSch. 1 cl. 8(1)
 previous financial yearGl.
 previously exempt landSch. 1 cl. 3
@@ -172,13 +172,8 @@ rural land29
 shareholder30J
 sportGl.
 sports associationGl.
-strata planGl.
-strata schemeGl.
-strata title home unitGl.
 subdividedGl.
 subdividing ownerGl.
-survey-strata planGl.
-survey-strata schemeGl.
 taxable authorityGl.
 taxable landGl.
 taxable valueGl.
@@ -188,5 +183,5 @@ trusteeGl.
 unimproved valueGl.
 unit holder30
 unsatisfied requirements28B(1)
-validation periodSch. 1 cl. 10, cl. 16
+validation periodSch. 1 cl. 10 and 16
 year A39A(5A)

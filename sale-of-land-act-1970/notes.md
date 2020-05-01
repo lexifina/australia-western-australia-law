@@ -22,10 +22,10 @@ Land Information Authority Act 2006 s. 157 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Legal Profession Act 2008 s. 702 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 36 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Sale of Land Amendment Act 2016 | 38 of 2016 | 22 Nov 2016 | s. 1 and 2: 22 Nov 2016 (see s. 2(a)); Act other than s. 1 and 2: 3 Apr 2017 (see s. 2(b) and Gazette 3 Feb 2017 p. 1107-8)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 20 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
- | Strata Titles Amendment Act 2018 Pt. 3 Div. 20 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 20 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Real Estate and Business Agents Act 1978.

@@ -31,13 +31,13 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Acts Amendment (Fair Trading) Act 2010 s. 194 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 5: The Credit (Administration) Act 1984 as at 17 Jun 2011 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 12 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Strata Titles Amendment Act 2018 Pt. 3 Div. 3 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div 3 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Community Titles Act 2018 Pt. 14 Div. 3 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 3 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
-Repealed by the Strata Titles Act 1985.
+Footnote no longer required.
 I.e. 1 Jul 2010 (see Credit (Commonwealth Powers) Act 2010 s. 2(b) and Gazette 30 Jun 2010 p. 3187).
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 (Commonwealth).
 Repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004.

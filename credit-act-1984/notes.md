@@ -27,13 +27,12 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 4 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div 4 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Community Titles Act 2018 Pt. 14 Div. 4 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 4 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
-Repealed by the Strata Titles Act 1985.
 Repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010.
 The Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 was part of a legislative exercise in which the regulation of credit and certain other transactions was referred to the Commonwealth. As part of that exercise the National Consumer Credit Protection Act 2009 (Cwlth), which contains the National Credit Code, was adopted in WA on 1 July 2010.
 Now see the Broadcasting Services Act 1992 of the Commonwealth.

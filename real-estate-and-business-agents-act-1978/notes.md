@@ -55,11 +55,11 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 25 | 47 of 2011 | 25 Oct 201
 Reprint 7: The Real Estate and Business Agents Act 1978 as at 18 Nov 2011 (includes amendments listed above)
 Consumer Protection Legislation Amendment Act 2014 Pt. 10 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Licensing Provisions Amendment Act 2016 Pt. 7 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 17 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Consumer Protection Legislation Amendment Act 2019 Pt. 8 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div. 17 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 17 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Other notes
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).

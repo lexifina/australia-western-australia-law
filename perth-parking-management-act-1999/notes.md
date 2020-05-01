@@ -11,11 +11,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 124 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 2: The Perth Parking Management Act 1999 as at 15 Aug 2014 (includes amendments listed above)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 13 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div. 13 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Community Titles Act 2018 Pt. 14 Div. 13 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 13 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 21(2) and (3) read as follows:
 (2) The balance of the Perth Parking Licensing Account as it was before this section came into operation is to be the opening balance of the account of that name established under the Perth Parking Management Act 1999 section 23(1) as amended by subsection (1).
