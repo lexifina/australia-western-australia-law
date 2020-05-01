@@ -1,12 +1,9 @@
 Notes
-This is a compilation of the Motor Vehicle (Catastrophic Injuries) Regulations 2016. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Motor Vehicle (Catastrophic Injuries) Regulations 2016. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Motor Vehicle (Catastrophic Injuries) Regulations 2016 | 13 May 2016 p. 1441-85 | r. 1 and 2: 13 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2016 (see r. 2(b) and Gazette 13 May 2016 p. 1421)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Motor Vehicle (Catastrophic Injuries) Amendment Regulations 2019 r. 3 and 4 | 31 Dec 2019 p. 4651-2 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Motor Vehicle (Catastrophic Injuries) Amendment Regulations 2019 | 31 Dec 2019 p. 4651-2 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -24,6 +21,8 @@ functional independence assessment18(1)
 Glasgow Coma Scale3
 health professional51(1)
 injured person3
+leasehold schemeSch. 1 cl. 7(1)
+leasehold scheme ownerSch. 1 cl. 7(1)
 medical decision3
 medical expert54(3)
 non-medical decision3
@@ -41,6 +40,8 @@ second review panel3, 41(3)
 service provider23(1)
 Snellen Scale3
 specified25(1)
+strata companySch. 1 cl. 7(1)
+strata titles schemeSch. 1 cl. 7(1)
 travel costs64(1)
 treatment, care and support requirement25(1)
 WeeFIM®3
