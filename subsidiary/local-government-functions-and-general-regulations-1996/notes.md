@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Functions and General) Regulations 1996 | 24 Jun 1996 p. 2771-97 | 1 Jul 1996 (see r. 2)
@@ -24,11 +24,8 @@ Reprint 3: The Local Government (Functions and General) Regulations 1996 as at 1
 Local Government (Functions and General) Amendment Regulations 2015 Pt. 2 | 18 Sep 2015 p. 3804-13 | 1 Oct 2015 (see r. 2(b))
 Local Government Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 3 | 30 Dec 2016 p. 5969-70 | 31 Dec 2016 (see r. 2(b))
 Local Government (Functions and General) Amendment Regulations 2017 | 8 Dec 2017 p. 5844-5 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2017 (see r. 2(b))
+Local Government (Functions and General) Amendment Regulations 2019 | 31 Dec 2019 p. 4649 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Local Government Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/35 9 Apr 2020 | 10 Apr 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Local Government (Functions and General) Amendment Regulations 2019 r. 3 and 4 | 31 Dec 2019 p. 4649 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Other notes
 The Local Government Act 1995 came into operation on 1 July 1996.
 The Local Government (Functions and General) Amendment Regulations 2001 r. 11 is a transitional provision that is of no further effect.
