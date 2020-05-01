@@ -4,11 +4,11 @@ Compilation table
 Citation | Published | Commencement
 Transport (Road Passenger Services) Regulations 2019 | 26 Feb 2019 p. 461-533 | Regulations other than Pt. 4 Div. 7 and Pt. 7 Div. 2: 28 Feb 2019 (see r. 2(b) and Gazette 26 Feb 2019 p. 449-50); Pt. 4 Div. 7 and Pt. 7 Div. 2: 1 Apr 2019 (see r. 2(a) and Gazette 26 Feb 2019 p. 449-50)
 Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 2019 Pt. 5 (other than Div. 4) | 26 Jun 2019 p. 2229-371 | Pt. 5 Div. 1 and 2: 2 Jul 2019 (see r. 2(d) and Gazette 28 Jun 2019 p. 2473); Pt. 5 Div. 3: 31 Dec 2019 (see r. 2(b))
+Transport Regulations (Road Passenger Services) Amendment Regulations 2020 | SL 2020/4 4 Feb 2020 | r. 1 and 2: 4 Feb 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 2019 Pt. 5 Div. 4 | 26 Jun 2019 p. 2229-371 | 2 Jul 2020 (see r. 2(c))
-Transport Regulations (Road Passenger Services) Amendment Regulations 2020 r. 3 and 4 | SL 2020/4 4 Feb 2020 | 1 May 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
