@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
  | State Administrative Tribunal Regulations 2004 | 30 Dec 2004 p. 6747-848 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -46,10 +46,7 @@ Citation | Published | Commencement
  | State Administrative Tribunal Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3499 | r. 1 and 2: 27 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2019 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations (No. 3) 2019 | 24 Dec 2019 p. 4430-1 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Dec 2019 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations 2020 | SL 2020/23 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-State Administrative Tribunal Amendment Regulations (No. 4) 2019 r. 3-13 | 31 Dec 2019 p. 4657-60 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+ | State Administrative Tribunal Amendment Regulations (No. 4) 2019 | 31 Dec 2019 p. 4657-60 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
