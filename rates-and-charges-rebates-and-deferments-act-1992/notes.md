@@ -35,13 +35,13 @@ Rates and Charges (Rebates and Deferments) Amendment Act 2013 | 4 of 2013 | 29 J
 Reprint 4: The Rates and Charges (Rebates and Deferments) Act 1992 as at 4 Oct 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 s. 226(2), (3), (5) and (6) and the Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(3) and (4))
 Revenue Laws Amendment Act 2015 Pt. 3 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 16 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 226(4) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 19 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Strata Titles Amendment Act 2018 Pt. 3 Div. 16 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Community Titles Act 2018 Pt. 14 Div. 16 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 16 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.

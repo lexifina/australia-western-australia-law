@@ -58,15 +58,15 @@ Reprint 8: The Environmental Protection Act 1986 as at 17 May 2013 (includes ame
 Environmental Protection Amendment (Validation) Act 2014 | 27 of 2014 | 27 Nov 2014 | 27 Nov 2014 (see s. 2)
 Biodiversity Conservation Act 2016 s. 314 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Reprint 9: The Environmental Protection Act 1986 as at 4 May 2018 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 314)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 6 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Strata Titles Amendment Act 2018 Pt. 3 Div 6 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 8 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Other notes
-Deleted by the Building Act 2011 s. 174(6).
+Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Deleted by the Water Resources Legislation Amendment Act 2007 s. 101(1).
@@ -269,7 +269,7 @@ significant proposal37B(1)
 SLC Act51D(1)
 soil conservation notice51D(1)
 specified6(10), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6), Sch. 2
-strategic proposal37B(1), 37B(2), 39B(3)
+strategic proposal37B(1), (2) and (3)
 subdivision3(2a)
 subsidiary51R(7), 55(3), 58(4)
 The Wilderness Society v Minister for Environment134(1)

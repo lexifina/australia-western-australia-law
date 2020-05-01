@@ -49,11 +49,11 @@ Reprint 7: The Strata Titles Act 1985 as at 24 May 2013 (includes amendments lis
 Land Legislation Amendment Act 2015 Pt. 4 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Land Legislation Amendment (Taxing) Act 2015 Pt. 3 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Heritage Act 2018 s. 187 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
+Strata Titles Amendment Act 2018 Pt. 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Strata Titles Amendment Act 2018 Pt. 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
@@ -133,35 +133,144 @@ on the commencement day the application is to be taken to be an application by a
 (c) any person who was given notice under the ST Act section 105(6) (as in force immediately before the commencement day) of the time and place for the determination of the appeal; and
 (d) any person who, by the order, is required to do or to refrain from doing a specified act.
 The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.
-The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of section 131A is postponed until the end of 31 December 2024.
+The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of former section 131A is postponed until the end of 31 December 2024.
+Below is a list of the provisions of the Strata Titles Act 1985 that were renumbered and relocated by the Strata Titles Amendment Act 2018. This table is intended as a general guide only.
+Finding chart for relocated provisions
+Former section or clause number | New section or clause number | Location of new section or clause
+s. 3A | cl. 3A | Schedule 2A Part 2
+s. 3AB | cl. 3AB | Schedule 2A Part 2
+s. 7 | s. 87 | Part 7 Division 2
+s. 7B | s. 89 | Part 7 Division 2
+s. 12A | cl. 12A | Schedule 2A Part 3
+s. 21A | cl. 21A | Schedule 2A Part 4 Division 1 Subdivision 1
+s. 21B | cl. 21B | Schedule 2A Part 4 Division 1 Subdivision 1
+s. 21C | cl. 21C | Schedule 2A Part 4 Division 1 Subdivision 1
+s. 21D | cl. 21D | Schedule 2A Part 4 Division 1 Subdivision 1
+s. 21E | cl. 21E | Schedule 2A Part 4 Division 1 Subdivision 2
+s. 21F | cl. 21F | Schedule 2A Part 4 Division 1 Subdivision 2
+s. 21G | cl. 21G | Schedule 2A Part 4 Division 1 Subdivision 2
+s. 21H | cl. 21H | Schedule 2A Part 4 Division 1 Subdivision 2
+s. 21I | cl. 21I | Schedule 2A Part 4 Division 1 Subdivision 2
+s. 21J | cl. 21J | Schedule 2A Part 4 Division 1 Subdivision 2
+s. 21P | cl. 21P | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21Q | cl. 21Q | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21R | cl. 21R | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21S | cl. 21S | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21T | cl. 21T | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21U | cl. 21U | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21V | cl. 21V | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21W | cl. 21W | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21X | cl. 21X | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21Y | cl. 21Y | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 21Z | cl. 21Z | Schedule 2A Part 4 Division 1 Subdivision 3
+s. 24 |  | Part 3 Division 2
+s. 26 | s. 28 | Part 3 Division 4
+s. 28 | s. 166 | Part 11 Division 1
+s. 29 | s. 167 | Part 11 Division 2
+s. 29A | s. 168 | Part 11 Division 2
+s. 29B | s. 169 | Part 11 Division 2
+s. 29C | s. 196 | Part 12 Division 7
+s. 31A | cl. 31A | Schedule 2A Part 4 Division 2
+s. 31B | cl. 31B | Schedule 2A Part 4 Division 2
+s. 31C | cl. 31C | Schedule 2A Part 4 Division 2
+s. 31D | cl. 31D | Schedule 2A Part 4 Division 2
+s. 31E | cl. 31E | Schedule 2A Part 4 Division 2
+s. 31F | cl. 31F | Schedule 2A Part 4 Division 2
+s. 31G | cl. 31G | Schedule 2A Part 4 Division 2
+s. 31H | cl. 31H | Schedule 2A Part 4 Division 2
+s. 31I | cl. 31I | Schedule 2A Part 4 Division 2
+s. 31J | cl. 31J | Schedule 2A Part 4 Division 2
+s. 31K | cl. 31K | Schedule 2A Part 4 Division 2
+s. 33 | s. 103 | Part 8 Division 1 Subdivision 4
+s. 34 | s. 139 | Part 8 Division 5
+s. 35 | s. 91 | Part 8 Division 1 Subdivision 1
+s. 35A | s. 105 | Part 8 Division 1 Subdivision 5
+s. 36 | s. 100 | Part 8 Division 1 Subdivision 3
+s. 37 | s. 116 | Part 8 Division 1 Subdivision 7
+s. 38 | s. 94 | Part 8 Division 1 Subdivision 1
+s. 39A | s. 115 | Part 8 Division 1 Subdivision 7
+s. 44 | s. 135 | Part 8 Division 4
+s. 45 | s. 136 | Part 8 Division 4
+s. 53A | cl. 53A | Schedule 2A Part 5
+s. 53B | cl. 53B | Schedule 2A Part 5
+s. 53C | cl. 53C | Schedule 2A Part 5
+s. 53D | cl. 53D | Schedule 2A Part 5
+s. 53E | cl. 53E | Schedule 2A Part 5
+s. 57 | s. 84 | Part 7 Division 1
+s. 60 | s. 67 | Part 5 Division 4
+s. 61 | s. 68 | Part 5 Division 4
+s. 62 | s. 69 | Part 5 Division 4
+s. 62A | s. 70 | Part 5 Division 4
+s. 63 | s. 71 | Part 5 Division 4
+s. 64 | s. 72 | Part 5 Division 4
+s. 65 | s. 73 | Part 5 Division 4
+s. 65A | s. 74 | Part 5 Division 4
+s. 66 | s. 75 | Part 5 Division 4
+s. 67 | s. 76 | Part 5 Division 4
+s. 122 | s. 211 | Part 14
+s. 122A | s. 212 | Part 14
+s. 123 | s. 213 | Part 14
+s. 123B | s. 214 | Part 14
+s. 124 | s. 170 | Part 11 Division 3
+s. 126 | s. 217 | Part 14
+s. 129B | s. 219 | Part 14
+s. 129C | s. 220 | Part 14
+s. 129D | s. 221 | Part 14
+s. 130 | s. 224 | Part 14
+s. 131A | s. 225 | Part 14
+s. 131B | s. 226 | Part 14
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-acquiring authority29B(4)
+2, 3, 4 or 5-lot scheme3(1)
+acquiring authority169(4)
+address for service3(1)
+ADI3(1)
+administrative fund3(1), 100(1)
 administrator3(1)
-allowed period7B(2)
-amendments133
-application26(1), 27(1), 136(1)
+allowed period89(2)
+amending ActSch. 5 cl. 1
+amendment3(1), 3(1)
 appointed daySch. 3 cl. 1(1)
+approved form3(1)
+assistance animal3(1)
+associate3(1)
+Australian legal practitioner3(1)
 Authority3(1)
 base lines3(1)
-building3(1), 53
-camping ground122A(3)
-caravan park122A(3)
-change-over day21K
-commencement day21K, 133
-Commission3(1)
-Commissioner of Titles129A(5), 129B(6)
-common property3(1)
+building3(1)
+camping ground212(3)
+capital value3(1)
+caravan park212(3)
+chairperson3(1), 3(1)
+commencement daySch. 5 cl. 1
+Commissioner of Titles3(1)
+common property3(1), 10(1), (2) and (3)
+common property (utility and sustainability infrastructure) easement3(1)
 companySch. 3 cl. 1(1)
-contract68
+conduct by-laws3(1)
+contract3(1)
+contract of mortgage insurance84(1)
+contributions3(1)
 council3(1)
-date of the contract70(8)
-disposition statement8B(2), 21V(2), 31H(2)
-dominant lot5D(2)
-existing small strata scheme21A
+cubic space3(1)
+date of the contract163(4)
+designated function140(4)
+designated interest3(1)
+designated strata company100(7)
+development3(1)
+disability3(1)
+disposition statement3(1), 222, Sch. 2A cl. 21V(2) and 31H(2)
+electronic address3(1)
+encumbrance3(1)
+exclusive use by-laws3(1)
+Exclusive use by-laws43(1)
+existing small strata schemeSch. 2A cl. 21A
+expiry day3(1)
+financial year3(1)
+first mortgagee3(1)
 floor3(1)
-floor area3(1)
+floor area of a cubic space 3(1)
 floor plan3(1)
 former ActSch. 3 cl. 1(1)
 former by-lawSch. 3 cl. 1(1)
@@ -170,65 +279,143 @@ former lotSch. 3 cl. 1(1)
 former parcelSch. 3 cl. 1(1)
 former proprietorSch. 3 cl. 1(1)
 former strata schemeSch. 3 cl. 1(1)
-interim order82(1)
+freehold scheme3(1), 8(2)
+fundamental covenant or condition3(1), 52(1)
+governance by-laws3(1)
+independent advocate178A(1)
+infrastructure3(1)
+infrastructure contract3(1), 64(1)
+infrastructure owner3(1), 64(3)
+insurable asset3(1)
+interim development order3(1)
+interim order201(1)
+item registered or recorded3(1)
+judicial member3(1)
+key document3(1)
 land3(1)
+lease3(1)
+leasehold by-laws3(1)
+Leasehold by-laws40(1)
+leasehold scheme3(1), 8(3)
+legally qualified member3(1)
 licensed surveyor3(1)
 licensed valuer3(1)
 local government3(1)
-location plan3(1)
-lot3(1), 3(1), 3B(8), 36B(2), 103D(5)
-management contract or arrangement50A(5)
-Minister for Lands29C(3)
+local planning scheme3(1)
+location plan for a strata scheme3(1)
+lotSch. 2A cl. 2
+lot in a strata scheme3(1)
+lot in a survey-strata scheme3(1)
+member3(1)
+Minister for Lands196(3)
+monetary order3(1)
 mortgage3(1)
+mortgagee3(1)
+notifiable variation3(1)
 occupier3(1)
+officer3(1)
+on common property3(1)
 open space3(1)
-order104(3)
-original proprietor3(1), 68
+order to act3(1)
+ordinary resolution3(1), 123(7)
+original proprietor3(1)
+owner3(1)
+owner of a lotSch. 2A cl. 53A
+owner of the leasehold scheme8(3)
 parcel3(1)
-permitted boundary deviation3(1)
-person concerned3(1)
+permitted boundary deviationSch. 2A cl. 3
+planning (scheme by-laws) condition3(1)
+planning approval3(1)
+Planning Commission3(1)
 plot ratio3(1)
 post-1985 companySch. 4 cl. 1
-prescribed3(1)
-proprietor3(1), 53A
-proprietor in default103B(1)
-proxy50A(1)
-purchaser68
-real estate agent70(8)
+prescribed period27(7), 28(8)
+present3(1)
+President3(1)
+proper interest in information about a strata titles scheme107(2)
+proponent3(1), 173
+proxy125(2)
+real estate agent163(4)
+redefining plan169(1)
 Register3(1)
-registered interest15(5)
-Registrar of Titles3(1), 129C(6)
-replacement value53
-resolution without dissent3(1)
-re-subdivision3(1)
-retired person6A(3)
-scheme3(1), 53A, 131A(2)
-servient lot5D(2)
-settlement69D(6)
-settlement agent70(8)
-single tier strata scheme3(1)
-site value14(2a)
-sketch plan21T(1)
-special resolution3(1)
-strata company3(1), 53A, 54(1)
+registered lease3(1)
+registered mortgage3(1)
+Registrar of Titles3(1)
+replacement value3(1)
+reserve fund3(1), 100(2)
+resolution without dissent3(1), 123(2), 123(3)
+restricted use condition3(1), 32(2)
+schedule of unit entitlements3(1)
+schemeSch. 2A cl. 53A
+scheme building3(1)
+scheme by-laws3(1)
+scheme developer3(1)
+scheme dispute3(1)
+scheme disputes197(1) and (3)
+scheme document3(1)
+scheme documents12(1)
+scheme function3(1)
+scheme notice3(1)
+scheme participant3(1)
+scheme participants197(2)
+scheme plan3(1)
+settlement agent163(4)
+settlement date3(1)
+short form easement or restrictive covenant3(1), 33(1)
+show cause notice151(3)
+single tier strata schemeSch. 2A cl. 3
+site value3(1)
+sketch planSch. 2A cl. 21T(1)
+special common property3(1), 43(1)
+special lot3(1)
+special lots43(1)
+special resolution3(1), 123(4), (5) and (6)
+staged subdivision by-laws3(1)
+Staged subdivision by-laws42(1)
+statutory easement3(1)
+strata company3(1), Sch. 2A cl. 53A
+strata lease3(1)
+strata leasehold estate3(1)
+strata management contract3(1), 144(1)
+strata manager3(1), 143(1), Sch. 5 cl. 13(1)
 strata plan3(1)
-strata scheme3(1)
-strata/survey-strata plan3(1)
-structural cubic space3(1)
-structure7(6), 7A(4)
+strata scheme3(1), 9(3)
+strata title3(1), 13(1)
+strata titles scheme3(1)
+structural alteration of a lot86
+structural cubic space3(1), Sch. 2A cl. 2
+structure86
+subdivided11(1)
+subdivision3(1), 11(2)
 survey-strata plan3(1)
-survey-strata scheme3(1)
+survey-strata scheme3(1), 9(3)
+sustainability infrastructure3(1)
 take3(1)
 taken3(1)
 taking3(1)
-taking order29C(3)
+taking order196(3)
+temporary common property3(1)
 termination daySch. 3 cl. 12(2)
-transition period123A(2), 123C(2), Sch. 4 cl. 1
-two-lot scheme3(1)
-unanimous resolution3(1)
-unit entitlement3(1)
-vacant lot7(6)
-value14(2a), 15(5), 16(7), 103H(4)
-vendor68
+termination infrastructure report3(1), 179(2)
+termination proposal3(1), 174(1)
+termination resolution3(1)
+termination valuation report3(1), 179(3)
+Transfer of Land Act requirements3(1)
+transition periodSch. 4 cl. 1
+Tribunal3(1)
+type 1 notifiable variation3(1)
+type 1 subdivision3(1)
+type 2 notifiable variation3(1)
+type 2 subdivision3(1)
+type 3 subdivision3(1)
+type 4 subdivision3(1)
+unanimous resolution3(1), 123(1)
+unit entitlement3(1), 37(1)
+utility conduit3(1)
+utility infrastructure3(1)
+utility service3(1)
+utility service easement3(1), 63(1)
+vacant lot3(1)
+volunteer strata manager3(1)
 wall3(1)
-working days69D(6)
+working day3(1)

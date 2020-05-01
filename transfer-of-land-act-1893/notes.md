@@ -79,14 +79,13 @@ Electronic Conveyancing Act 2014 Pt. 9 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (s
 Land Legislation Amendment Act 2015 Pt. 5 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Land Legislation Amendment (Taxing) Act 2015 Pt. 4 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Reprint 11: The Transfer of Land Act 1893 as at 8 Jan 2016 (includes amendments listed above)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 23 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
-Strata Titles Amendment Act 2018 Pt. 3 Div 23 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 23 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Other notes
-Footnote no longer required.
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -224,7 +223,6 @@ signature4(1)
 single dwelling covenant129C(1d)
 stamped81U(3)
 statutory declaration188(2)
-strata/survey-strata plan4(1)
 subscriber4(1)
 symbol4(1)
 transitional period81K

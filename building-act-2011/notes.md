@@ -7,11 +7,11 @@ Building Amendment Act 2012 | 37 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (
 Reprint 1: The Building Act 2011 as at 7 Jun 2013 (includes amendments listed above)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 2 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Heritage Act 2018 s. 183 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 1 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div. 1 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Community Titles Act 2018 Pt. 14 Div 1 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 1 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The provisions in this Act repealing the Building Regulations 1989 and the Local Government (Prohibition on Dealings in Land) Regulations 1973 have been omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -109,6 +109,7 @@ responsible person31
 road76(3)
 specialist3
 specified39(1), 83, 92, 112(1), 138(2)
+strata lease3
 substantial dividing fence75
 survey3
 technical certificate3

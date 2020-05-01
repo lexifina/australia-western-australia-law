@@ -5,11 +5,11 @@ Short title | Number and year | Assent | Commencement
 Water Services Act 2012 | 24 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1, 2, 68 and Pt. 4 Div. 4: 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027); s. 68 and Pt. 4 Div. 4: 1 Jan 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Reprint 1: The Water Services Act 2012 as at 17 Jan 2014
 Public Health (Consequential Provisions) Act 2016 s 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 25 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 27 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Strata Titles Amendment Act 2018 Pt. 3 Div 25 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 25 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Other notes
 The short title of the Fire and Emergency Services Authority of Western Australia Act 1998 was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5.
@@ -18,7 +18,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 activity of a person85(2)
-agent197(1), 197(3)
+agent197(1) and (3)
 alternative water service charge128(1)
 analysis202(1)
 approved analyst202(1)
@@ -59,8 +59,8 @@ drainage assets3(1), 108
 drainage service3(1)
 drainage works of a licensee71(1)
 dwelling3(1)
-employee198(1), 198(3)
-employer198(1), 198(3)
+employee198(1) and (3)
+employer198(1) and (3)
 employing authority212(8), 213(8)
 engaging in conduct199(1)
 exempt works132(1)
@@ -104,7 +104,7 @@ place3(1)
 Planning Minister3(1)
 prescribed3(1)
 prescribed fee3(1)
-principal197(1), 197(3), 199(6)
+principal197(1) and (3), 199(6)
 privileged214(1)
 property100(1)
 property connection3(1), 71(1)

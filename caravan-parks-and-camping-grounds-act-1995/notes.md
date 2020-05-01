@@ -15,10 +15,10 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 26 | 8 of 2009 | 21 
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Caravan Parks and Camping Grounds Act 1995 as at 15 Apr 2016 (includes amendments listed above)
+Strata Titles Amendment Act 2018 Pt. 3 Div. 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Strata Titles Amendment Act 2018 Pt. 3 Div 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Local Government Legislation Amendment Act 2019 Pt. 4 Div. 1 | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1985 s. 7(4)(e).

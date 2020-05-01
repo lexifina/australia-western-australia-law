@@ -1,4 +1,6 @@
 Western Australia
 Strata Titles Act 1985
-An Act to facilitate the horizontal and vertical subdivision of land and the disposition of titles thereto, to provide for incidental and connected purposes and to repeal the Strata Titles Act 1966.
-[Long title amended: No. 58 of 1995 s. 4.]
+An Act —
+·to provide for the subdivision of land by strata titles schemes, the creation of strata titles and the governance and operation of strata titles schemes; and
+·for related purposes.
+[Long title inserted: No. 30 of 2018 s. 5.]
