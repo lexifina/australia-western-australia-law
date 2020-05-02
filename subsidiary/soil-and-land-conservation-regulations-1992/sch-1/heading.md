@@ -1,10 +1,6 @@
 ## Schedule 1
-[Reg. 3]
-SOIL AND LAND CONSERVATION ACT 1945
-SOIL AND LAND CONSERVATION REGULATIONS 1992
-CERTIFICATE OF AUTHORITY
-This is to certify that...........................................................................................................................................................................................................................................................is authorised, generally, under section 21 of the Soil and Land Conservation Act 1945 to enter on any land, in relation to the power conferred by the Act, and make such surveys, place such marks and carry out such investigations thereon as he may deem necessary.
-....................................................................................
-Specimen signature Minister for Agriculture
-of holder
-Date..................................
+[r. 3]
+[Heading inserted: SL 2020/51 r. 4.]
+SOIL AND LAND CONSERVATION ACT 1945 SOIL AND LAND CONSERVATION REGULATIONS 1992 AUTHORITY CARD ................................................... [name of officer or employee] is authorised under section 21 of the Soil and Land Conservation Act 1945 to enter on any land in the exercise of a power under the Act and to make surveys, place marks and carry out investigations.
+ | [Photograph of authorised person] | ............................................... Signature (authorised person) ............................................... Signature (chief executive officer) ............................................... Date
+[Schedule 1 inserted: SL 2020/51 r. 4.]
