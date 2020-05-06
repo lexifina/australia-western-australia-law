@@ -11,5 +11,5 @@ Multiweek options | Up to 10 weeks
 Advance sales (maximum) | 10 weeks
 Games per entry (minimum) (may depend on the coupon used) | 1
 Games per entry (maximum) (may depend on the coupon used) | 50
-Prize payout period | 12 months
-[Schedule 9 amended: Gazette 4 Oct 2017 p. 5150.]
+Prize payout period | see rule 3 the definition of payout period
+[Schedule 9 amended: Gazette 4 Oct 2017 p. 5150; SL 2020/52 r. 6.]

@@ -29,7 +29,7 @@ Advance play (maximum) (if available) | 6 draws
 Games per playslip (minimum) | 1 game for 7 consecutive draws
 Games per playslip (maximum) | 15
 Games per oral request (if available) | 1 to 50
-Prize claim period | 12 months
+Prize claim period | see rule 3 the definition of payout period
 Maximum aggregate entry cost | $100 000
-[Division 3 amended: Gazette 4 Oct 2017 p. 5149; 12 Nov 2019 p. 4020; 3 Mar 2020 p. 477-8.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5149; 12 Nov 2019 p. 4020; 3 Mar 2020 p. 477-8; SL 2020/52 r. 6.]
 [Schedule 8 deleted: Gazette 3 Mar 2020 p. 478.]

@@ -53,6 +53,6 @@ Entries per playslip (maximum) | 18 (subject to maximum aggregate entry cost)
 Games per oral request (if available) | 1 to 50
 Syndicate entries may be purchased (if available) | (see Part 2 Division 3)
 System entries per oral request | Up to 50
-Prize payment period | 12 months
+Prize payment period | see rule 3 the definition of payout period
 Maximum aggregate entry cost | $100 000
-[Division 3 amended: Gazette 4 Oct 2017 p. 5147; 12 Nov 2019 p. 4020.]
+[Division 3 amended: Gazette 4 Oct 2017 p. 5147; 12 Nov 2019 p. 4020; SL 2020/52 r. 6.]

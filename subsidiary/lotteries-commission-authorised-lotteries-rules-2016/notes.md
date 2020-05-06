@@ -8,6 +8,7 @@ Lotteries Commission (Authorised Lotteries) (Multiple Games) Amendment Rules 201
 Lotteries Commission (Authorised Lotteries) (Powerball) Amendment Rules 2018 | 10 Apr 2018 p. 1249-53 | r. 1 and 2: 10 Apr 2018 (see r. 2(a)); Rules other than r. 1 and 2: 11 Apr 2018 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) Amendment Rules 2019 | 12 Nov 2019 p. 4019-20 | r. 1-3: 12 Nov 2019 (see r. 2(a)); r. 6: immediately after the Powerball draw on 21 Nov 2019 (see r. 2(e)); r. 7: immediately after the Saturday Lotto draw on 23 Nov 2019 (see r. 2(f)) r. 4(1) and (3): immediately after the Monday Lotto draw on 25 Nov 2019 (see r. 2(b)); r. 5: immediately after the OZ Lotto draw on 26 Nov 2019 (see r. 2(d)); r. 4(2) and (4): immediately after the Wednesday Lotto draw on 27 Nov 2019 (see r. 2(c)) r. 8: immediately after the Set for Life draw on 29 Nov 2019 (see r. 2(g))
 Lotteries Commission (Authorised Lotteries) (Set for Life) Amendment Rules 2020 | 3 Mar 2020 p. 473-8 | r. 1-3: 3 Mar 2020 (see r. 2(a)); Rules other than r. 1-3: immediately after the Set For Life draw on 16 Mar 2020 (see r. 2(b))
+Lotteries Commission Rules Amendment (COVID-19 Response) Rules 2020 Pt. 2 | SL 2020/52 5 May 2020 | 6 May 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
