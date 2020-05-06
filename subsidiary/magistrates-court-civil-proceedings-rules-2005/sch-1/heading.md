@@ -51,17 +51,17 @@ Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home: mobile:
-Grounds for application | Give details of the respondent’s behaviour.
+Grounds for application | Set out details of the evidence in support of your application.
 Family orders [If yes, see the Details of family order Annexure] | Are there any current family orders relating to the respondent’s rights in relation to children who may be affected by a restraining order? | r Yes r No r Unknown
 Are there any current Family Court proceedings in which such orders are being sought? | r Yes r No r Unknown
 Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
 Does the respondent have access to a firearm at work? | r Yes r No r Unknown
+Police incident [Reference number to be inserted, if applicable]
 First hearing | Do you want the respondent to be present at the first hearing? | r Yes r No
-Applicant [Not essential if applicant is a police officer] | Signature: | Date:
+Applicant [Not essential if lodged by means of the ECMS or if applicant is a police officer] | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
-Signature of registrar:
-Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ __ __ at _______ am/pm at ________________________ I notified the applicant of the hearing date. Signature ofregistrar:
-[Form 1 inserted: Gazette 20 Jun 2017 p. 2995.]
+Approved user to certify applicant’s declaration [If applicable] | I [Insert name of approved user] certify that I have read out to the applicant the information the applicant provided to me that forms the evidence in support of this application, and the applicant has declared that the information is true.
+[Form 1 inserted: Gazette 20 Jun 2017 p. 2995; amended: SL 2020/54 r. 9.]
 Form 2 — Family violence restraining order
 Part A — Family violence restraining order
  | Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Family violence restraining order |  | Number:
@@ -161,7 +161,7 @@ Date of service: | Time of service:
 Person served [Person who is bound by the order] | Name:
 Date of birth:
 Signature: …………………………………................... (If possible to obtain)
-Certificate | I certify that on the day and at the time and place set out above — rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 Part 6 Division 2. In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 16 years to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
+Certificate | I certify that on the day and at the time and place set out above — rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 section 60(2)(a). In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 16 years to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
 Signature: | Date:
 Form 2 — Family violence restraining order
 Part F — Details of family order
@@ -181,7 +181,7 @@ Current proceedings for family order | Court: | Family Court matter no.:
 Terms of family order being sought which relate to the respondent’s rights in relation to children:
 Are these terms of the order being opposed?r Yesr Nor Unknown
 Applicant | Signature: | Date:
-[Form 2 inserted: Gazette 20 Jun 2017 p. 2996-3004; amended: Gazette 24 Nov 2017 p. 5674.]
+[Form 2 inserted: Gazette 20 Jun 2017 p. 2996-3004; amended: Gazette 24 Nov 2017 p. 5674; SL 2020/54 r. 10.]
 Form 3 — Conduct agreement order
 Part A — Conduct agreement order
  | Restraining Orders Act 1997 s. 10H and 43 Conduct agreement order |  | Number:
@@ -301,15 +301,15 @@ Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home: mobile:
-Grounds for application | Give details of the respondent’s behaviour.
+Grounds for application | Set out details of the evidence in support of your application.
 Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
 Does the respondent have access to a firearm at work? | r Yes r No r Unknown
+Police incident [Reference number to be inserted, if applicable]
 First hearing | Do you want the respondent to be present at the first hearing? | r Yes r No
-Applicant [Not essential if applicant is a police officer] | Signature: | Date:
+Applicant [Not essential if lodged by means of the ECMS or if applicant is a police officer] | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
-Signature of registrar:
-Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ at _______ am/pm at _______________________________ I notified the applicant of the hearing date. Signature of registrar:
-[Form 5 inserted: Gazette 20 Jun 2017 p. 3013.]
+Approved user to certify applicant’s declaration [If applicable] | I [Insert name of approved user] certify that I have read out to the applicant the information the applicant provided to me that forms the evidence in support of this application, and the applicant has declared that the information is true.
+[Form 5 inserted: Gazette 20 Jun 2017 p. 3013; amended: SL 2020/54 r. 11.]
 Form 6 — Violence restraining order
 Part A — Violence restraining order
 Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Violence restraining order |  | Number:
