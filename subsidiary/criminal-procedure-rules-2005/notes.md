@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Criminal Procedure Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Procedure Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Criminal Procedure Rules 2005 | 29 Apr 2005 p. 1885-964 | 2 May 2005 (see r. 2)
 Criminal Prodecure Amendment Rules 2006 | 15 Sep 2006 p. 3683-4 | 15 Sep 2006
 Criminal Procedure Amendment Rules 2009 | 13 Oct 2009 p. 4034-5 | r. 1 and 2: 13 Oct 2009 (see r. 2(a)); Rules other than r. 1 and 2: 14 Oct 2009 (see r. 2(b))
@@ -15,6 +15,8 @@ Criminal Procedure Amendment Rules (No. 2) 2013 | 19 Nov 2013 p. 5295-6 | r. 1 a
 Criminal Procedure Amendment Rules 2014 | 19 Dec 2014 p. 4843-5 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
 Criminal Procedure Amendment Rules 2018 | 16 Nov 2018 p. 4524-5 | r. 1 and 2: 16 Nov 2018 (see r. 2(a)); Rules other than r. 1 and 2: 17 Nov 2018 (see r. 2(b))
 Criminal Procedure Amendment Rules 2019 | 15 Nov 2019 p. 4031-2 | r. 1 and 2: 15 Nov 2019 (see r. 2(a)); Rules other than r. 1 and 2: 16 Nov 2019 (see r. 2(b))
+Criminal Procedure Amendment Rules 2020 | SL 2020/53 8 May 2020 | r. 1 and 2: 8 May 2020 (see r. 2(a)); Rules other than r. 1 and 2: 9 May 2020 (see r. 2(b))
+Other notes
 The Parole Board was replaced by the Prisoners Review Board. See Parole and Sentencing Legislation Amendment Act 2006.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
