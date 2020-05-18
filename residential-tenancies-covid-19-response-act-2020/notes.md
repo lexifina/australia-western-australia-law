@@ -1,12 +1,8 @@
 Notes
-This is a compilation of the Residential Tenancies (COVID-19 Response) Act 2020. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Residential Tenancies (COVID-19 Response) Act 2020. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Residential Tenancies (COVID-19 Response) Act 2020 (other than s. 14(3)(b) and (4)-(7), 27(3)(b) and (4)-(7) and Pt. 4 Div. 3-5) | 18 of 2020 | 23 Apr 2020 | Act other than s. 1, 2, 14(3)(b) and (4)-(7), 26, 27(3)(b) and (4)-(7), 44 and Pt. 4 Div. 3-5: 30 Mar 2020 (see s. 2(d)); s. 1 and 2: 23 Apr 2020 (see s. 2(a)); s. 26 and 44: 24 Apr 2020 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Residential Tenancies (COVID-19 Response) Act 2020 s. 14(3)(b) and (4)-(7), 27(3)(b) and (4)-(7) and Pt. 4 Div. 3-5 | 18 of 2020 | 23 Apr 2020 | To be proclaimed (see s. 2(c))
+Residential Tenancies (COVID-19 Response) Act 2020 | 18 of 2020 | 23 Apr 2020 | Act other than s. 1, 2, 14(3)(b) and (4)-(7), 26, 44 and Pt. 4 Div. 3, 4 and 5: 30 Mar 2020 (see s. 2(d)); s. 1 and 2: 23 Apr 2020 (see s. 2(a)); s. 26 and 44: 24 Apr 2020 (see s. 2(b)); s. 14(3)(b) and (4) to (7), 27(3)(b) and (4) to (7) and Pt. 4 Div. 3, 4 and 5: 18 May 2020 (see s. 2(c) and SL 2020/56 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -32,7 +28,7 @@ party45
 pre-assent emergency period67
 publication day76(1)
 relevant application49(1)
-relevant dispute45, 46(1) and (2)
+relevant dispute45, 46(1), 46(2)
 relevant relief49(1)
 remedial notice19(3), 32(3)
 remedial period19(1), 32(1)
