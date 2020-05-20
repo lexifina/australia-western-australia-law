@@ -21,11 +21,14 @@ Health Services (Fees and Charges) Amendment Order (No. 3) 2019 | 7 Jun 2019 p. 
 Health Services (Fees and Charges) Amendment Order (No. 5) 2019 | 27 Sep 2019 p. 3419 | cl. 1 and 2: 27 Sep 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 28 Sep 2019 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order 2020 | SL 2020/5 7 Feb 2020 | cl. 1 and 2: 7 Feb 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 8 Feb 2020 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 2) 2020 | SL 2020/19 24 Mar 2020 | cl. 1 and 2: 24 Mar 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 25 Mar 2020 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order (No. 3) 2020 | SL 2020/58 19 May 2020 | cl. 1 and 2: 19 May 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 20 May 2020 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+adult chargeable patient9(1)
 Benefits Schedule3(1)
 chargeable patient9(1)
+child chargeable patient9(1)
 compensable day patient3(1)
 compensable in-patient3(1)
 compensable out-patient3(1)
