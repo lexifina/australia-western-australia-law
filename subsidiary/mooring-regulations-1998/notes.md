@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Mooring Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Mooring Regulations 1998 | 11 Dec 1998 p. 6659-78 | 11 Dec 1998
 Mooring Amendment Regulations 2001 | 27 Jul 2001 p. 3801 | 1 Aug 2001 (see r. 2)
 Mooring Amendment Regulations 2002 | 14 Jun 2002 p. 2319-20 | 1 Jul 2002 (see r. 2)
@@ -28,6 +28,12 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 3 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 3 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/60 22 May 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
+Footnote no longer applicable.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
