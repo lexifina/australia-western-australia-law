@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Land Administration Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Administration Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Land Administration Regulations 1998 | 27 Mar 1998 p. 1741-61 | 30 Mar 1998 (see r. 2 and Gazette 27 Mar 1998 p. 1765)
 Land Administration Amendment Regulations 1998 | 20 Nov 1998 p. 6267-8 | 20 Nov 1998
 Land Administration Amendment Regulations 2000 | 16 Jun 2000 p. 2943-5 | 16 Jun 2000
@@ -38,6 +38,11 @@ Land Administration Amendment Regulations (No. 2) 2017 | 27 Jun 2017 p. 3435-6 |
 Land Administration Amendment Regulations 2018 | 22 Jun 2018 p. 2181-2 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Land Administration Amendment Regulations 2019 | 18 Jun 2019 p. 2056-7 | r. 1 and 2: 18 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Land Administration Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2484-5 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Land Regulations Amendment (Geocentric Datum) Regulations 2020 Pt. 2 | SL 2020/64 22 May 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
 Defined terms
