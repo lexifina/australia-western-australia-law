@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Restraining Orders Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Restraining Orders Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Restraining Orders Regulations 1997 | 12 Sep 1997 p. 5079-146 (correction 16 Sep 1997 p. 5235) | 15 Sep 1997 (see r. 2 and Gazette 12 Sep 1997 p. 5149)
 Restraining Orders Amendment Regulations 1998 | 27 Mar 1998 p. 1714 | 27 Mar 1998
 Restraining Orders Amendment Regulations (No. 2) 2001 | 8 Jan 2002 p. 32-3 | 8 Jan 2002
@@ -14,11 +14,15 @@ Restraining Orders Amendment Regulations 2012 | 4 May 2012 p. 1847-60 | r. 1 and
 Reprint 3: The Restraining Orders Regulations 1997 as at 6 Jul 2012 (includes amendments listed above)
 Restraining Orders Amendment Regulations 2017 | 7 Feb 2017 p. 1164-8 | r. 1 and 2: 7 Feb 2017 (see r. 2(a)); r. 17: 8 Feb 2017 (see r. 2(b)); r. 3-16, 18 and 19: 1 Jul 2017 (see r. 2(c) and Gazette 7 Feb 2017 p. 1157)
 Restraining Orders Amendment Regulations (No. 2) 2017 | 24 Nov 2017 p. 5678-9 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b) and Gazette 24 Nov 2017 p. 5671)
+Restraining Orders Amendment Regulations 2020 | SL 2020/63 22 May 2020 | r. 1 and 2: 22 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 23 May 2020 (see r. 2(b))
+Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 form2A
+latest attempt9B(2)
 proceedings under the Act2A
 restrained person2A
+senior officer9B(1)
