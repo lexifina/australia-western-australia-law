@@ -40,7 +40,10 @@ As mentioned above, the Act does not in general apply to a cost plus contract. H
 The builder is required to take out home indemnity insurance in relation to a cost plus contract to cover you and any subsequent owner against financial loss where an order made against the builder is not enforceable due to the insolvency, death or disappearance of the builder.
 Provisions that are not allowed
 The builder cannot include in a contract a requirement for you to make a payment other than —
-(a)a deposit before the work begins of no more than 6.5% of the contract price; and
+(a)a deposit before the work begins of —
+(i)if the Home Building Contracts Regulations 1992 regulation 3A applies to the contract — no more than 20% of the contract price; or
+(ii)otherwise — no more than 6.5% of the contract price;
+and
 (b)progress payments after the work begins for work done or goods supplied.
 If any such provision is included you may terminate the contract — see later in this notice under “Termination of contract”.
 The builder may also be prosecuted and fined for demanding, or receiving, any payment after the work begins other than a progress payment as set out in (b) above.
@@ -98,5 +101,5 @@ There are monetary limits on orders that can be made under that Act. The limits 
 3.Procedure
 Before you make a complaint to the Building Commissioner about a contract that falls within this Act, written notice that you propose to make a complaint must be given to the other party together with a description of the remedy that you propose to seek and the evidence on which you propose to rely. You must provide a copy of that notice to the Building Commissioner at the time of making a complaint.
 Advice on how to make a complaint to the Building Commissioner and related matters may be obtained from Building Commission staff or from the Building Commission’s website at www.buildingcommission.wa.gov.au.
-[Schedule 1 inserted: Gazette 2 Sep 2003 p. 3924-30; amended: Gazette 29 Jun 2007 p. 3191-2; 8 May 2012 p. 1888-91; 12 Feb 2013 p. 921.]
+[Schedule 1 inserted: Gazette 2 Sep 2003 p. 3924-30; amended: Gazette 29 Jun 2007 p. 3191-2; 8 May 2012 p. 1888-91; 12 Feb 2013 p. 921; SL 2020/66 r. 5.]
 [Schedules 2-8 deleted: Gazette 2 Sep 2003 p. 3930.]

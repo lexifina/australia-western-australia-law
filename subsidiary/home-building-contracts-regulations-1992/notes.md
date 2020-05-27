@@ -22,3 +22,9 @@ Home Building Contracts Amendment Regulations 2012 | 8 May 2012 p. 1888-91 | r. 
 Home Building Contracts Amendment Regulations 2013 | 12 Feb 2013 p. 920-1 | r. 1 and 2: 12 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2013 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 5 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 3 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Home Building Contracts Amendment Regulations 2020 | SL 2020/66 26 May 2020 | r. 1 and 2: 26 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 27 May 2020 (see r. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+cabinetry work3A(1)
+off-site work3A(1)
