@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Building and Construction Industry Training Fund and Levy Collection Act 1990 | 76 of 1990 | 20 Dec 1990 | s. 1 and 2: 20 Dec 1990; Act other than s. 1 and 2: 1 Jul 1991 (see s. 2 and Gazette 28 Jun 1991 p. 3101)
@@ -19,6 +19,8 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Building and Construction Industry Training Fund and Levy Collection Amendment Act 2010 | 47 of 2010 | 12 Nov 2010 | s. 1 and 2: 12 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2010 (see s. 2(b))
 Reprint 3: The Building and Construction Industry Training Fund and Levy Collection Act 1990 as at 4 Mar 2011 (includes amendments listed above)
 Building Act 2011 s. 159 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
+Building and Construction Industry Training Fund and Levy Collection Amendment Act 2020 | 23 of 2020 | 27 May 2020 | s. 1 and 2: 27 May 2020 (see s. 2(a)); Act other than s. 1 and 2: 28 May 2020 (see s. 2(b))
+Other notes
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 (Cwlth).
 Repealed by the Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 (Cwlth). Now see Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cwlth).
 This Act shall be read as one with the Building and Construction Industry Training Levy Act 1990 (see s. 3 of that Act).
@@ -39,6 +41,8 @@ industry8(1)
 levy3(1)
 member3(1)
 operational plan8(1)
+payment period21A(3)
+penalty period24(1)
 permit3(1)
 project owner3(1)
 regulation 621(5)
