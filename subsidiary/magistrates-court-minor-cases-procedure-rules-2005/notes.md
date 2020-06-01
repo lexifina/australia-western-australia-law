@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Magistrates Court (Minor Cases Procedure) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (Minor Cases Procedure) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Magistrates Court (Minor Cases Procedure) Rules 2005 | 28 Apr 2005 p. 1711-48 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2005 | 10 Jun 2005 p. 2565-6 | 10 Jun 2005
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2007 | 24 Aug 2007 p. 4333-4 | r. 1 and 2: 24 Aug 2007 (see r. 2(a)); Rules other than r. 1 and 2: 25 Aug 2007 (see r. 2(b))
@@ -18,20 +18,24 @@ Reprint 2: The Magistrates Court (Minor Cases Procedure) Rules 2005 as at 12 May
 Magistrates Court Rules Amendment Rules 2017 Pt. 3 | 21 Jul 2017 p. 4024-7 | 22 Jul 2017 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2018 Pt. 3 | 18 Sep 2018 p. 3515-16 | 19 Sep 2018 (see r. 2(b))
 Magistrates Court Rules Amendment (Inactive Cases) Rules 2019 Pt. 3 | 5 Apr 2019 p. 1012-16 | 6 Apr 2019 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2020 Pt. 3 | SL 2020/67 28 May 2020 | 1 Jun 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act4
 administrative staff member4
 agent4
+amended Rules82
 application4
 approved form4
 child69
+commencement day82
 counterclaim4
 default judgment4
 defendant4
 departmental officer4
 enforcement officer4
+former Rules82
 inactive case45A
 lodge4
 order4
@@ -45,4 +49,5 @@ serve4
 serve personally4
 third party4
 third party claim4
+transitional case82
 working day4
