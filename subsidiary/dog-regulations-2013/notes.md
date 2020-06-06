@@ -9,6 +9,7 @@ Dog Amendment Regulations 2017 | 24 Jan 2017 p. 746 | r. 1 and 2: 24 Jan 2017 (s
 Reprint 1: The Dog Regulations 2013 as at 1 Sep 2017 (includes amendments listed above)
 Local Government Regulations Amendment (Cat and Dog) Regulations 2018 Pt. 3 | 23 Mar 2018 p. 1025-8 | 24 Mar 2018 (see r. 2(b))
 Dog Amendment Regulations 2020 | SL 2020/9 25 Feb 2020 | r. 1 and 2: 25 Feb 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2020 (see r. 2(b))
+Dog Amendment Regulations (No. 2) 2020 | SL 2020/70 5 Jun 2020 | r. 1 and 2: 5 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
