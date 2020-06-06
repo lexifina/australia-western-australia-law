@@ -11,6 +11,7 @@ Cat Amendment Regulations 2016 | 11 Mar 2016 p. 686-8 | r. 1 and 2: 11 Mar 2016 
 Local Government Regulations Amendment (Cat and Dog) Regulations 2018 Pt. 2 | 23 Mar 2018 p. 1025-8 | 24 Mar 2018 (see r. 2(b))
 Cat Amendment Regulations (No. 2) 2020 | SL 2020/8 25 Feb 2020 | r. 1 and 2: 25 Feb 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2020 (see r. 2(b))
 Cat Amendment Regulations 2020 | SL 2020/17 20 Mar 2020 | r. 1 and 2: 20 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2020 (see r. 2(b))
+Cat Amendment Regulations (No. 3) 2020 | SL 2020/69 5 Jun 2020 | r. 1 and 2: 5 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
