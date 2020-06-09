@@ -1,32 +1,37 @@
 Notes
-This is a compilation of the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
-Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 | 31 Mar 2006 p. 1225-46 | 1 Apr 2006 (see bl. 2)
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2006 | 1 Dec 2006 p. 5349-50 | 1 Dec 2006
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2007 | 26 Jun 2007 p. 3013-17 | bl. 1 and 2: 26 Jun 2007 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2007 (see bl. 2(b))
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2009 | 30 Mar 2009 p. 967-95 | bl. 1 and 2: 30 Mar 2009 (see bl. 2(a)); bl. 3 and Pt. 2: 1 Apr 2009 (see bl. 2(b)); Pt. 3: 1 Jul 2009 (see bl. 2(c))
-Reprint 1: The Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 as at 18 Sep 2009 (includes amendments listed above)
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2010 | 26 Mar 2010 p. 1135-42 | Pt. 1: 26 Mar 2010 (see bl. 2(a)); Pt. 2: 1 Apr 2010 (see bl. 2(b)); Pt. 3: 1 Jul 2010 (see bl. 2(c))
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2011 | 24 Jun 2011 p. 2499-503 | bl. 1 and 2: 24 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
-Reprint 2: The Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 as at 27 Apr 2012 (includes amendments listed above)
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2012 | 29 Jun 2012 p. 2913-26 | bl. 1 and 2: 29 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2012 (see bl. 2(b))
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (No. 2) 2012 | 21 Sep 2012 p. 4424 | bl. 1 and 2: 21 Sep 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Oct 2012 (see bl. 2(b))
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2013 | 14 Jun 2013 p. 2217-22 | bl. 1 and 2: 14 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
-Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (No. 2) 2013 | 30 Aug 2013 p. 4097-100 | bl. 1 and 2: 30 Aug 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2013 (see bl. 2(b))
-Electricity Corporations (Consequential Amendments) Regulations 2013 r. 12 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
-Reprint 3: The Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 as at 14 Mar 2014 (includes amendments listed above)
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2014 | 27 Jun 2014 p. 2313-19 | bl. 1 and 2: 27 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2014 | 22 Aug 2014 p. 3024-32 | bl. 1 and 2: 22 Aug 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2014 (see bl. 2(b))
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2015 | 26 Jun 2015 p. 2239-46 | bl. 1 and 2: 26 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016 | 28 Jun 2016 p. 2623-5 | bl. 1 and 2: 28 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b))
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2016 | 31 Aug 2016 p. 3701-5 | bl. 1 and 2: 31 Aug 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2016 (see bl. 2(b))
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2017 | 27 Jun 2017 p. 3424-31 | bl. 1 and 2: 27 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b))
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2017 | 30 Jun 2017 p. 3564-6 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b)(i) and Gazette 27 Jun 2017 p. 3424)
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2018 | 16 Feb 2018 p. 469-70 | bl. 1 and 2: 16 Feb 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 17 Feb 2018 (see bl. 2(b))
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2018 | 26 Jun 2018 p. 2371-9 | bl. 1 and 2: 26 Jun 2018 (see bl. 2); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2)
-Reprint 4: The Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 as at 28 Sep 2018 (includes amendments listed above)
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2019 | 21 Jun 2019 p. 2119-27 | bl. 1 and 2: 21 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1, 2 and 5: 1 Jul 2019 (see bl. 2(c)); bl. 5: 1 Sep 2019 (see bl. 2(b))
+Citation | Published | Commencement
+ | Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 | 31 Mar 2006 p. 1225-46 | 1 Apr 2006 (see bl. 2)
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2006 | 1 Dec 2006 p. 5349-50 | 1 Dec 2006
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2007 | 26 Jun 2007 p. 3013-17 | bl. 1 and 2: 26 Jun 2007 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2007 (see bl. 2(b))
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2009 | 30 Mar 2009 p. 967-95 | bl. 1 and 2: 30 Mar 2009 (see bl. 2(a)); bl. 3 and Pt. 2: 1 Apr 2009 (see bl. 2(b)); Pt. 3: 1 Jul 2009 (see bl. 2(c))
+ | Reprint 1: The Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 as at 18 Sep 2009 (includes amendments listed above)
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2010 | 26 Mar 2010 p. 1135-42 | Pt. 1: 26 Mar 2010 (see bl. 2(a)); Pt. 2: 1 Apr 2010 (see bl. 2(b)); Pt. 3: 1 Jul 2010 (see bl. 2(c))
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2011 | 24 Jun 2011 p. 2499-503 | bl. 1 and 2: 24 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
+ | Reprint 2: The Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 as at 27 Apr 2012 (includes amendments listed above)
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2012 | 29 Jun 2012 p. 2913-26 | bl. 1 and 2: 29 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2012 (see bl. 2(b))
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (No. 2) 2012 | 21 Sep 2012 p. 4424 | bl. 1 and 2: 21 Sep 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Oct 2012 (see bl. 2(b))
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2013 | 14 Jun 2013 p. 2217-22 | bl. 1 and 2: 14 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
+ | Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (No. 2) 2013 | 30 Aug 2013 p. 4097-100 | bl. 1 and 2: 30 Aug 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2013 (see bl. 2(b))
+ | Electricity Corporations (Consequential Amendments) Regulations 2013 r. 12 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+ | Reprint 3: The Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 as at 14 Mar 2014 (includes amendments listed above)
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2014 | 27 Jun 2014 p. 2313-19 | bl. 1 and 2: 27 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2014 | 22 Aug 2014 p. 3024-32 | bl. 1 and 2: 22 Aug 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2014 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2015 | 26 Jun 2015 p. 2239-46 | bl. 1 and 2: 26 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016 | 28 Jun 2016 p. 2623-5 | bl. 1 and 2: 28 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2016 | 31 Aug 2016 p. 3701-5 | bl. 1 and 2: 31 Aug 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2016 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2017 | 27 Jun 2017 p. 3424-31 | bl. 1 and 2: 27 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2017 | 30 Jun 2017 p. 3564-6 | bl. 1 and 2: 30 Jun 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2017 (see bl. 2(b)(i) and Gazette 27 Jun 2017 p. 3424)
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2018 | 16 Feb 2018 p. 469-70 | bl. 1 and 2: 16 Feb 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 17 Feb 2018 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2018 | 26 Jun 2018 p. 2371-9 | bl. 1 and 2: 26 Jun 2018 (see bl. 2); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2)
+ | Reprint 4: The Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 as at 28 Sep 2018 (includes amendments listed above)
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2019 | 21 Jun 2019 p. 2119-27 | bl. 1 and 2: 21 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1, 2 and 5: 1 Jul 2019 (see bl. 2(c)); bl. 5: 1 Sep 2019 (see bl. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2020 bl. 3-5 | SL 2020/79 9 Jun 2020 | 1 Jul 2020 (see bl. 2(b))
+Other notes
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 The Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016, (row 5 of the table in by-law 5) was disallowed by the Legislative Council on 22 Nov 2016 (see Gazette 6 Dec 2016 p. 5492).
 Defined terms
