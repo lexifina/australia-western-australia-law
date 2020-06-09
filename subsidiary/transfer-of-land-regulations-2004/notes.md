@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Transfer of Land Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Transfer of Land Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Transfer of Land Regulations 2004 | 2 Sep 2004 p. 3829-46 | 6 Sep 2004 (see r. 2)
 Transfer of Land Amendment Regulations 2005 | 27 May 2005 p. 2293-5 | 27 May 2005
 Transfer of Land Amendment Regulations (No. 3) 2005 | 24 Jun 2005 p. 2761-4 | 4 Jul 2005 (see r. 2)
@@ -32,6 +32,11 @@ Transfer of Land Amendment Regulations 2017 | 24 Nov 2017 p. 5679-82 | r. 1 and 
 Reprint 5: The Transfer of Land Regulations 2004 as at 19 Jan 2018 (includes amendments listed above)
  | Lands Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 15 Jun 2018 p. 1923-8 | 1 Jul 2018 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 21 May 2019 p. 1474-81 | 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lands Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/76 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
