@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Valuation of Land Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Valuation of Land Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Valuation of Land Regulations 1979 | 6 Apr 1979 p. 928 | 1 Jul 1979 (see Gazette 11 May 1979 p. 1211)
 Valuation of Land Amendment Regulations 1982 | 29 Jan 1982 p. 294 | 1 Apr 1982 (see r. 2)
 Valuation of Land Amendment Regulations 1984 | 29 Jun 1984 p. 1756 | 1 Jul 1984 (see r. 2)
@@ -44,6 +44,10 @@ Lands Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 24 Jun 2
 Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 23 Jun 2017 p. 3181-6 | 3 Jul 2017 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 15 Jun 2018 p. 1923-8 | 1 Jul 2018 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 21 May 2019 p. 1474-81 | 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lands Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5 | SL 2020/76 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
