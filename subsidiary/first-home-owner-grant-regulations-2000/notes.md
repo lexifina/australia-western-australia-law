@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the First Home Owner Grant Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the First Home Owner Grant Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 First Home Owner Grant Regulations 2000 | 30 Jun 2000 p. 3433-7 | 1 Jul 2000 (see r. 2)
 First Home Owner Grant Amendment Regulations 2001 | 24 Jul 2001 p. 3732 | 24 Jul 2001
 First Home Owner Grant Amendment Regulations 2002 | 22 Oct 2002 p. 5255-6 | 22 Oct 2002
@@ -23,6 +23,10 @@ First Home Owner Grant Amendment Regulations (No. 3) 2015 | 11 Dec 2015 p. 4961 
 Reprint 3: The First Home Owner Grant Regulations 2000 as at 3 Mar 2017 (includes amendments listed above)
 First Home Owner Grant Amendment Regulations 2017 | 29 Dec 2017 p. 6083-6 | r. 1 and 2: 29 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2017 (see r. 2(b))
 Finance Regulations Amendment (Interest Rates) Regulations 2019 Pt. 2 | 28 Jun 2019 p. 2492-3 | 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Finance Regulations Amendment (Interest Rates) Regulations 2020 Pt. 2 | SL 2020/71 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Other notes
 Repealed by the Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015 Sch. 1, Part 1.
 Defined terms
