@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Road Traffic (Authorisation to Drive) Regulations 2014 | 23 Dec 2014 p. 5011-101 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2015 | 27 May 2015 p. 1873-5 | r. 1 and 2: 27 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2015 | 26 Jun 2015 p. 2275 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
@@ -19,6 +19,10 @@ Road Traffic (Authorisation to Drive) Amendment Regulations 2018 | 19 Oct 2018 p
 Transport Regulations Amendment (Information) Regulations 2019 Pt. 3 | 29 Mar 2019 p. 972-80 | 30 Mar 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 5 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 2019 Pt. 2 | 26 Jun 2019 p. 2229-371 | 2 Jul 2019 (see r. 2(d) and Gazette 28 Jun 2019 p. 2473)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 3 | SL 2020/74 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
