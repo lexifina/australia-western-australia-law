@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Environmental Protection (Controlled Waste) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection (Controlled Waste) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Environmental Protection (Controlled Waste) Regulations 2004 | 1 Jul 2004 p. 2627-73 | 1 Jul 2004
 Environmental Protection (Controlled Waste) Amendment Regulations 2007 | 13 Apr 2007 p. 1669-71 | 16 Apr 2007 (see r. 2)
 Waste Avoidance and Resource Recovery Regulations 2008 r. 23 | 20 Jun 2008 p. 2665-84 | 1 Jul 2008 (see r. 2(b))
@@ -10,6 +10,7 @@ Environmental Protection (Controlled Waste) Amendment Regulations (No. 2) 2013 |
 Environmental Protection (Controlled Waste) Amendment Regulations 2014 | 1 Aug 2014 p. 2787-821 | r. 1 and 2: 1 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2014 (see r. 2(b))
 Reprint 1: The Environmental Protection (Controlled Waste) Regulations 2004 as at 3 Oct 2014 (includes amendments listed above)
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 4 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Environmental Protection (Controlled Waste) Amendment Regulations 2020 | SL 2020/72 9 Jun 2020 | r. 1 and 2: 9 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
