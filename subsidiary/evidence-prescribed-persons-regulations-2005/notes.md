@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Evidence (Prescribed Persons) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Evidence (Prescribed Persons) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Evidence (Prescribed Persons) Regulations 2005 | 6 May 2005 p. 2024-5 | 18 Jun 2005 (see r. 2 and Gazette 17 Jun 2005 p. 2658)
 Evidence (Prescribed Persons) Amendment Regulations 2005 | 12 Jul 2005 p. 3240-1 | 15 Jul 2005 (see r. 2)
 Evidence (Prescribed Persons) Amendment Regulations 2010 | 9 Apr 2010 p. 1345-7 | r. 1 and 2: 9 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2010 (see r. 2(b))
@@ -12,6 +12,7 @@ Evidence (Prescribed Persons) Amendment Regulations 2015 | 5 Jun 2015 p. 1972-3 
 Evidence (Prescribed Persons) Amendment Regulations 2016 | 24 Jun 2016 p. 2319-20 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Evidence (Prescribed Persons) Amendment Regulations 2018 | 19 Jun 2018 p. 2077 | r. 1 and 2: 19 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Evidence (Prescribed Persons) Amendment Regulations 2019 | 15 Mar 2019 p. 793-4 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
+Evidence (Prescribed Persons) Amendment Regulations 2020 | SL 2020/77 9 Jun 2020 | r. 1 and 2: 9 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
