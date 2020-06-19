@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Cross-border Justice Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Cross-border Justice Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cross-border Justice Act 2008 | 7 of 2008 | 31 Mar 2008 | s. 1 and 2: 31 Mar 2008 (see s. 2(a)); Act other than s. 1, 2, 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991); s. 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
@@ -9,6 +9,10 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 16 | 8 of 2012 | 21 May 2
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 9 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Reprint 1: The Cross-border Justice Act 2008 as at 1 Dec 2015 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 3 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
