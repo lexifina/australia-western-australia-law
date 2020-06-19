@@ -114,6 +114,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 TAB (Disposal) Act 2019 s. 152 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Procurement Act 2020 | 24 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
