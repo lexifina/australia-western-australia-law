@@ -43,6 +43,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 15 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 TAB (Disposal) Act 2019 s. 149 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Procurement Act 2020 Pt. 10 Div. 3 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Other notes
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
