@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Supply Commission Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Supply Commission Act 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Supply Commission Act 1991 | 5 of 1991 | 6 Jun 1991 | s. 1 and 2: 6 Jun 1991; Act other than s. 1 and 2: 20 Sep 1991 (see s. 2 and Gazette 20 Sep 1991 p. 4855)
@@ -15,6 +15,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 20
 State Supply Commission Amendment Act 2008 | 15 of 2008 | 14 Apr 2008 | s. 1 and 2: 14 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 26 May 2008 (see s. 2(b) and Gazette 23 May 2008 p. 1987)
 Reprint 2: The State Supply Commission Act 1991 as at 11 Jul 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Procurement Act 2020 s. 41 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(b))
+Other notes
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The State Supply Commission Amendment Act (No. 2) 1994 s. 7(2) and (3) are transitional provisions that are of no further effect.
 Defined terms
