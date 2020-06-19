@@ -7,6 +7,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 37-39, 95, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 1 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
