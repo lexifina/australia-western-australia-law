@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Pawnbrokers and Second-hand Dealers Regulations 1996 | 29 Mar 1996 p. 1557-76 | 1 Apr 1996 (see r. 2)
 Pawnbrokers and Second-hand Dealers Amendment Regulations 1996 | 24 Jan 1997 p. 565 | 24 Jan 1997
 Pawnbrokers and Second-hand Dealers Amendment Regulations 1997 | 10 Jun 1997 p. 2668-9 | 1 Jul 1997 (see r. 2)
@@ -40,6 +40,11 @@ Reprint 5: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 18 Nov
 Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 27 Jun 2017 p. 3440-8 | 1 Jul 2017 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 26 Jun 2018 p. 2392-400 | 1 Jul 2018 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 21 Jun 2019 p. 2141-50 | 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Police Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/82 19 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
