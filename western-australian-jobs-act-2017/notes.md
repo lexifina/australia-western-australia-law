@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Western Australian Jobs Act 2017. The following table contains information about that Act.
+This is a compilation of the Western Australian Jobs Act 2017. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Jobs Act 2017 | 18 of 2017 | 13 Dec 2017 | s. 1 and 2: 13 Dec 2017 (see s. 2(a)); Act other than s. 1 and 2: 1 Oct 2018 (see s. 2(b) and Gazette 25 Sep 2018 p. 3555)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Procurement Act 2020 Pt. 10 Div. 7 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
