@@ -8,6 +8,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+Procurement Act 2020 Pt. 10 Div. 4 | 24 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
