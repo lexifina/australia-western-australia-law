@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Security and Related Activities (Control) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Security and Related Activities (Control) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Security and Related Activities (Control) Regulations 1997 | 27 Mar 1997 p. 1651-90 | 1 Apr 1997 (see r. 2 and Gazette 27 Mar 1997 p. 1693)
 Security and Related Activities (Control) Amendment Regulations (No. 2) 1998 | 12 Jun 1998 p. 3201-3 | 1 Jul 1998 (see r. 2)
 Security and Related Activities (Control) Amendment Regulations 1999 | 30 Jun 1999 p. 2865 | 1 Jul 1999 (see r. 2)
@@ -49,6 +49,11 @@ Police Regulations Amendment (Poisons) Regulations 2016 Pt. 4 | 17 Jan 2017 p. 4
 Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 27 Jun 2017 p. 3440-8 | 1 Jul 2017 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 26 Jun 2018 p. 2392-400 | 1 Jul 2018 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 21 Jun 2019 p. 2141-50 | 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Police Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5 | SL 2020/82 19 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
