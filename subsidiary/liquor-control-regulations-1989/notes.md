@@ -149,6 +149,7 @@ Liquor Control Amendment Regulations 2019 | 28 Jun 2019 p. 2491-2 | r. 1 and 2: 
 Liquor Control Amendment Regulations (No. 2) 2019 | 1 Nov 2019 p. 3858-9 | r. 1 and 2: 1 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Nov 2019 (see r. 2(b) and Gazette 1 Nov 2019 p. 3857)
 Liquor Control (Jarlmadangah Burru Restricted Area) Regulations 2019 Pt. 5 | 13 Dec 2019 p. 4241-3 | 14 Dec 2019 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
+Liquor Control (Parnpajinya Restricted Area) Regulations 2020 Pt. 5 | SL 2020/81 19 Jun 2020 | 20 Jun 2020 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
