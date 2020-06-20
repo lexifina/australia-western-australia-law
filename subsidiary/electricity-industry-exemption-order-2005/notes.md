@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Electricity Industry Exemption Order 2005 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Electricity Industry Exemption Order 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Electricity Industry Exemption Order 2005 | 9 Dec 2005 p. 5878-84 | 1 Jan 2006 (see cl. 2)
 Electricity Industry Exemption Amendment Order 2006 | 31 Mar 2006 p. 1158-9 | 1 Apr 2006 (see cl. 2)
 Electricity Industry Exemption Amendment Order (No. 2) 2006 | 27 Jun 2006 p. 2285-7 | 1 Jul 2006 (see cl. 2)
@@ -24,6 +24,7 @@ Electricity Industry Exemption Amendment Order (No. 4) 2018 | 26 Jun 2018 p. 236
 Electricity Industry Exemption Amendment Order (No. 5) 2018 | 29 Jun 2018 p. 2434-5 | cl. 1 and 2: 29 Jun 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Jun 2018 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2018 | 25 Sep 2018 p. 3557-9 | cl. 1 and 2: 25 Sep 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 23 Oct 2018 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 2) 2019 | 6 Sep 2019 p. 3196 | cl. 1 and 2: 6 Sep 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 7 Sep 2019 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order 2020 | SL 2020/83 19 Jun 2020 | cl. 1 and 2: 19 Jun 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 20 Jun 2020 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -59,6 +60,8 @@ occupier6(1)
 PEP Agreement8(1)
 Perth Airport25(1)
 Perth Airport Pty Ltd25(1)
+Pilbara Energy Company28(1)
+Pilbara Energy Connection28(1)
 Power Rental Op Co Australia22(1)
 property3A
 registered property6A(1)
@@ -66,7 +69,7 @@ relevant agreement10(1)
 residential property3A
 retailer6A(1)
 South Hedland Power Station site22(1)
-supplier4A(1) and (2), 4B
+supplier4A(1), 4A(2), 4B
 supply address6A(1)
 SWIS3A
 Woodside Energy27(1)
