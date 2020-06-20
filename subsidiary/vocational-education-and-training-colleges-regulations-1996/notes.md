@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Vocational Education and Training (Colleges) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Vocational Education and Training (Colleges) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Vocational Education and Training Regulations 1996 | 27 Dec 1996 p. 7167-84 | 1 Jan 1997 (see r. 2 and Gazette 12 Nov 1996 p. 6301)
 Vocational Education and Training Amendment Regulations 1997 | 7 Nov 1997 p. 6149-51 | 7 Nov 1997
 Vocational Education and Training Amendment Regulations (No. 2) 1997 | 7 Nov 1997 p. 6152 | 1 Jan 1997 (see r. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -45,6 +45,8 @@ Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2017 
 Vocational Education and Training (Colleges) Amendment Regulations 2018 | 12 Jun 2018 p. 1897-8 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2018 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2018 | 27 Nov 2018 p. 4583-4 | r. 1 and 2: 27 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2018 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2019 | 22 Oct 2019 p. 3729-33 | r. 1 and 2: 22 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2019 (see r. 2(b))
+Vocational Education and Training (Colleges) Amendment Regulations 2020 | SL 2020/84 19 Jun 2020 | r. 1 and 2: 19 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jun 2020 (see r. 2(b))
+Other notes
 Footnote no longer applicable.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Vocational Education and Training (Colleges) Regulations 1996; citation changed (see note under r. 1).
@@ -55,6 +57,7 @@ The Vocational Education and Training Amendment Regulations 2005 r. 6(3) reads a
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+2020 instrument32(1)
 Admissions Manager5
 amending regulation15A(5)
 Australian resident15A(4)
