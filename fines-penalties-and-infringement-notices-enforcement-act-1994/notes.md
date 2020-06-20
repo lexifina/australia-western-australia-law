@@ -36,10 +36,12 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 12 
 Electricity Corporations Amendment Act 2013 s. 43 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 15 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Reprint 6: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 24 May 2019 (includes amendments listed above)
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 2 Div. 1 and 2, s. 87 and 103 | 25 of 2020 | 19 Jun 2020 | Pt. 2 Div. 1 and 2, s. 87 and 103: 20 Jun 2020 (see s. 2(1)(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 2 (s. 9-86, 88-102, 104 & 105) | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c) and (d))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -62,8 +64,9 @@ aggregate amount owed56A
 aggregate unpaid infringement amount11
 alleged offence11
 alleged offender11
+amending Act109A(1)
 amending provision53(4), 53(8a)
-amount outstanding61(1)(b)
+amount outstanding61(1)
 amount owed40, 56A
 applicant101(1), 101AA(2), 101A(1)
 CCO28(1), 28(2)
@@ -78,10 +81,11 @@ community corrections officer28(1)
 court28(1)
 court officer28(1)
 debtor63(1)
-Department of Corrective Services 3(1)
+Department of Corrective Services3(1)
 Director General3(1)
 dishonoured payment3(1)
-disposed of101AA(1), 101B(6)
+disposed of101AA(1)
+disposed of 101B(6)
 driver’s licence3(1)
 due date18(3), 27C(1), 42(3), 55C(1)
 dwelling63(1)
@@ -90,6 +94,8 @@ Electricity Generation and Retail Corporation3(1)
 enforcement action68B(1)
 enforcement fees11, 28(1), 56A, 63(1)
 fine28(1), 56A, 59
+first commencement day115
+former Act115
 give3(1)
 infringement notice11, 26(4)
 interest70(1)
@@ -101,6 +107,7 @@ offender28(1), 108A(1)
 outstanding order to pay or elect11, 56A
 outstanding registered fine56A, 56B
 paid3(1)
+period of concurrent imprisonment115
 period served53(7)
 personal property63(1)
 place63(1)
@@ -116,16 +123,20 @@ registered11, 28(1), 96(7)
 Registrar3(1)
 Registrar’s website56A
 Registry3(1)
-relevant amount10B(1)
+relevant amount10B(1), 119(3)
 relevant details56A, 56C
-required hours50(1)(a)
+relevant fines117(1)
+relevant warrants117(1)
+required hours50(1)
 road law3(1)
 saleable interest63(1), 71(1), 88(1)
+second commencement day115
+section 78 notice119(1)
 serve3(1)
 Sheriff3(1)
 specified period53(7)
 time to pay order28(1)
-transitional period113(1)
+transitional period113(1), 115
 unpaid infringement amount11
 vehicle63(1)
 vehicle licence3(1)
