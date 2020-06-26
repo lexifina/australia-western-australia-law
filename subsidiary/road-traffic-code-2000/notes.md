@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -66,6 +66,10 @@ Road Traffic Code Amendment Regulations (No. 8) 2017 | 5 Jan 2018 p. 9-10 | r. 1
 Road Traffic Code Amendment Regulations 2018 | 15 May 2018 p. 1531-6 | r. 1 and 2: 15 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2019 | 28 Jun 2019 p. 2488-9 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Road Traffic Code Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4686 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Traffic Code Amendment Regulations 2020 r. 3 and 4 | SL 2020/87 26 Jun 2020 | 1 Sep 2020 (see r. 2(b))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
