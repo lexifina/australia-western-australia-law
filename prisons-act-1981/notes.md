@@ -62,11 +62,12 @@ Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 2
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Industrial Relations Amendment Act 2018 s. 71 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Reprint 9: The Prisons Act 1981 as at 9 Aug 2019 (includes amendments listed above)
+Prisons Amendment Act 2020 (other than s. 4(1), 12, 19 and 23(1)) | 20 of 2020 | 21 May 2020 | s. 1 and 2: 21 May 2020 (see s. 2(a)); Act other than s. 1, 2, 4(1), 12, 19 and 23(1): 27 Jun 2020 (see s. 2(b) and SL 2020/92 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Prisons Amendment Act 2020 s. 3-23 | 20 of 2020 | 21 May 2020 | To be proclaimed (see s. 2(b))
+Prisons Amendment Act 2020 s. 4(1), 12, 19 and 23(1) | 20 of 2020 | 21 May 2020 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
@@ -108,7 +109,7 @@ Commission114(12)
 contract3(1)
 contract worker15A
 contractor3(1), 113(1)
-decision notice99, 102(3)(b)
+decision notice99, 102(3)
 Department3(1)
 District Court judge3(1)
 drugs search49A(1)
@@ -116,13 +117,13 @@ external facility23(1)
 Family Court judge3(1)
 former disciplinary provisions119(1)
 function15A
-gaolSch. 2 it. 14
+gaolSch. 2
 hearing officer74A(1)
 high-level security work3(1)
 independent prison visitor3(1)
 industrial commissioner99
 intervene15A
-jailSch. 2 it. 14
+jailSch. 2
 judge of the Supreme Court3(1)
 judicial body3(1)
 lock-up3(1)
@@ -138,7 +139,7 @@ penalty119(1)
 perform15A
 permit3(1)
 person67A(4)
-prison3(1), Sch. 2 it. 14
+prison3(1), Sch. 2
 prison dog49A(1)
 prison offence3(1)
 prison officer3(1), 96, 99, 114(12)
@@ -164,7 +165,6 @@ subcontractor3(1)
 submission period102(2)
 suitability to continue as a prison officer99
 superintendent3(1)
-this Act6(6)
 victim113B(1)
 video link74A(1)
 violent personal offence113B(1)
