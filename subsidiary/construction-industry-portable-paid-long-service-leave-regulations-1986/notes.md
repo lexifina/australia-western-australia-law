@@ -42,6 +42,7 @@ Construction Industry Portable Paid Long Service Leave Amendment Regulations 201
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2017 | 8 Dec 2017 p. 5841 | r. 1 and 2: 8 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2018 (see r. 2(b))
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2018 | 9 Nov 2018 p. 4411 | r. 1 and 2: 9 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b))
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2019 | 13 Dec 2019 p. 4230-1 | r. 1 and 2: 13 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Construction Industry Portable Paid Long Service Leave Amendment Regulations 2020 | SL 2020/107 30 Jun 2020 | r. 1 and 2: 30 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
