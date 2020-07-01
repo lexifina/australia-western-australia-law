@@ -9,3 +9,4 @@ MR | A motor vehicle of class LR or C or a moped
 HR | A motor vehicle of class MR, LR or C or a moped
 HC | A motor vehicle of class HR, MR, LR or C or a moped
 MC | A motor vehicle of class HC, HR, MR, LR or C or a moped
+[Schedule 3 deleted: SL 2020/91 r. 11.]
