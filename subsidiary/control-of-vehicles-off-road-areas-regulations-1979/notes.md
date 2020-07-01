@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Control of Vehicles (Off-road Areas) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Control of Vehicles (Off-road Areas) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Control of Vehicles (Off-road Areas) Regulations 1979 | 5 Oct 1979 pp.3127-41 | 5 Oct 1979
@@ -14,12 +14,8 @@ Control of Vehicles (Off-road Areas) Amendment Regulations 2014 | 8 Jan 2015 p. 
 Control of Vehicles (Off-road Areas) Amendment Regulations 2015 | 18 Sep 2015 p. 3801-3 | r. 1 and 2: 18 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2015 (see r. 2(b))
  | Control of Vehicles (Off-road Areas) Amendment Regulations 2018 | 15 Jun 2018 p. 1928-9 | r. 1 and 2: 15 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
  | Control of Vehicles (Off-road Areas) Amendment Regulations 2019 | 10 May 2019 p. 1403-4 | r. 1 and 2: 10 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Control of Vehicles (Off-road Areas) Amendment Regulations 2020 r. 3-5 | SL 2020/41 17 Apr 2020 | 1 Jul 2020 (see r. 2(b))
+ | Control of Vehicles (Off-road Areas) Amendment Regulations 2020 | SL 2020/41 17 Apr 2020 | r. 1 and 2: 17 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Other notes
-Footnote no longer applicable.
 Under the Alteration of Statutory Designations Order 1984, references to the Department of Public Health are to be read as references to the Health Department.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
