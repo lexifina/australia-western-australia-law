@@ -1,9 +1,0 @@
-### 35ZZC. Conduct of drivers while driving vehicle to transport passengers for hire or reward
-(1) A driver of a passenger transport vehicle must behave in an orderly manner at all times while driving the vehicle for the purpose of transporting passengers for hire or reward.
-Penalty for this subregulation: a fine of $6 000.
-Note for this subregulation:
-Under section 11(2) of the Act, driving a vehicle for the purpose of transporting passengers for hire or reward includes using the vehicle for standing or plying or touting for hire for that purpose.
-(2) Without limiting subregulation (1), a driver does not behave in an orderly manner if the driver —
-(a) uses insulting, offensive or threatening language; or
-(b) behaves in an insulting, offensive or threatening manner.
-[Regulation 35ZZC inserted: Gazette 26 Jun 2019 p. 2321.]
