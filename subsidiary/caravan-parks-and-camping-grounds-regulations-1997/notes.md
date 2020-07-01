@@ -15,6 +15,7 @@ Compilation table
  | Reprint 2: The Caravan Parks and Camping Grounds Regulations 1997 as at 26 Jun 2015 (includes amendments listed above)
 Caravan Parks and Camping Grounds Amendment Regulations 2016 | 10 Jan 2017 p. 177 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Caravan Parks and Camping Grounds Amendment Regulations 2020 | SL 2020/12 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b))
+Local Government Regulations Amendment (Payment Method) Regulations 2020 Pt. 2 | SL 2020/99 30 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Other notes
 Under the Alteration of Statutory Designations Order (No. 4) 2013 a reference in any law to the Department of Local Government is to be read and construed, unless the context otherwise requires, as a reference to the Department of Local Government and Communities.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960.
