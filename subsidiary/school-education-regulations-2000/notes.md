@@ -30,6 +30,7 @@ School Education Amendment Regulations 2017 | 22 Dec 2017 p. 5977-8 | r. 1 and 2
 School Education Amendment Regulations 2018 | 21 Dec 2018 p. 4852-3 | r. 1 and 2: 21 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b))
 Education Regulations (Immunisation Requirements for Enrolment) Amendment Regulations 2019 Pt. 2 | 19 Jul 2019 p. 2844-6 | 22 Jul 2019 (see r. 2(b) and Gazette 19 Jul 2019 p. 2841)
 School Education Amendment Regulations 2020 | SL 2020/15 17 Mar 2020 | r. 1 and 2: 17 Mar 2020 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 18 Mar 2020 (see r. 2(c)); r. 4: 17 Apr 2020 (see r. 2(b))
+School Education Amendment Regulations (No. 2) 2020 | SL 2020/101 30 Jun 2020 | r. 1 and 2: 30 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -58,7 +59,7 @@ enrolled child148A(1)
 existing school133(2)
 extra cost optional component58, 142(1)
 first charges payment year3(1)
-governing body3(1), 3(1)
+governing body3(1)
 independent minor3(1), 147(1)
 kindergarten132
 kindergarten programme3(1)
