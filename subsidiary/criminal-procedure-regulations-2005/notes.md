@@ -42,6 +42,7 @@ Reprint 4: The Criminal Procedure Regulations 2005 as at 10 May 2019 (includes a
 Criminal Procedure Amendment Regulations (No. 2) 2019 | 23 Aug 2019 p. 3101-2 | r. 1 and 2: 23 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Aug 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 4 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
 Justice Regulations Amendment (Emergency Management) Regulations 2020 Pt. 2 | SL 2020/32 3 Apr 2020 | 4 Apr 2020 (see r. 2(b))
+Criminal Procedure Amendment Regulations 2020 | SL 2020/100 30 Jun 2020 | r. 1 and 2: 30 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
