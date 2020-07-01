@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Administration Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Land Administration Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Land Administration Regulations 1998 | 27 Mar 1998 p. 1741-61 | 30 Mar 1998 (see r. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -38,9 +38,6 @@ Land Administration Amendment Regulations (No. 2) 2017 | 27 Jun 2017 p. 3435-6 |
 Land Administration Amendment Regulations 2018 | 22 Jun 2018 p. 2181-2 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Land Administration Amendment Regulations 2019 | 18 Jun 2019 p. 2056-7 | r. 1 and 2: 18 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Land Administration Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2484-5 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Land Regulations Amendment (Geocentric Datum) Regulations 2020 Pt. 2 | SL 2020/64 22 May 2020 | 1 Jul 2020 (see r. 2(b))
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
@@ -49,11 +46,12 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 2014 determined rent15(2)
+2017 Determination17A(1)
 2019 determined rent15(1)
-AGD17A(1)
 authorised survey18
 Crown land transaction3A(3)
 departmental surveyor18
+Geocentric Datum of Australia 202017A(1)
 Jolimont land17E(1)
 marine navigational aid3(1)
 member24
