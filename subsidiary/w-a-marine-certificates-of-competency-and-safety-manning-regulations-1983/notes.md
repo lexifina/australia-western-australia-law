@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
  | Citation | Published | Commencement
  | W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 | 1 Jul 1983 p. 2209-40 | 1 Jul 1983 (see r. 2)
@@ -54,9 +54,6 @@ W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulation
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2018 | 6 Apr 2018 p. 1212-15 | r. 1 and 2: 6 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Apr 2018 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 7 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 8 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 5 | SL 2020/74 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Other notes
 Repealed by the Pearling Act 1990.
