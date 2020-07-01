@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -149,6 +149,12 @@ Mining Amendment Regulations (No. 3) 2019 | 24 May 2019 p. 1493-4 | r. 1 and 2: 
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Mining Amendment Regulations 2019 | 13 Dec 2019 p. 4231-40 | r. 1 and 2: 13 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Dec 2019 (see r. 2(b))
 Mining Amendment Regulations (No. 3) 2020 | SL 2020/25 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2020 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Mining Amendment (COVID-19 Response) Regulations 2020 (other than r. 4(3), 6 and 7(2)) | SL 2020/108 30 Jun 2020 | r. 1 and 2: 30 Jun 2020 (see r. 2(a)); Regulations other than r. 1, 2, 4(3), 6 and 7(2): 1 Jul 2020 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Mining Amendment (COVID-19 Response) Regulations 2020 r. 4(3), 6 and 7(2) | SL 2020/108 30 Jun 2020 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
