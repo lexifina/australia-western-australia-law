@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Offshore Minerals Regulations 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Offshore Minerals Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Offshore Minerals Regulations 2010 | 17 Dec 2010 p. 6379-96 | r. 1 and 2: 17 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b) and Gazette 17 Dec 2010 p. 6350)
 Offshore Minerals Amendment Regulations 2012 | 22 Jun 2012 p. 2795-6 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Offshore Minerals Amendment Regulations 2013 | 26 Jul 2013 p. 3355-6 | r. 1 and 2: 26 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2013 (see r. 2(b))
@@ -12,6 +12,7 @@ Reprint 1: The Offshore Minerals Regulations 2010 as at 10 Feb 2017 (includes am
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 9 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Registration Fees Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) Registration Fees Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Petroleum (Submerged Lands) Registration Fees Regulations 1990 | 28 Sep 1990 p. 5108-9 | 1 Oct 1990 (see r. 2 and Gazette 28 Sep 1990 p. 5099)
 Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2002 | 28 Jun 2002 p. 3094-5 | 1 Jul 2002 (see r. 2)
 Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2003 | 28 Feb 2003 p. 675-6 | 28 Feb 2003
@@ -20,3 +20,4 @@ Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt.
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 11 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 10 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))

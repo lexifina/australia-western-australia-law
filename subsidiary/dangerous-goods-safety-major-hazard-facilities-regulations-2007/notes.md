@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 | 31 Dec 2007 p. 7057-100 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2194-5 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2010 | 22 Jun 2010 p. 2782-3 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2010 (see r. 2(b))
@@ -19,6 +19,8 @@ Reprint 2: The Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

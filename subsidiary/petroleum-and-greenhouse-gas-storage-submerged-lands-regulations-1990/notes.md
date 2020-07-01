@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Petroleum (Submerged Lands) Regulations 1990 | 28 Sep 1990 p. 5105-8 | 1 Oct 1990 (see r. 2 and Gazette 28 Sep 1990 p. 5099)
 Petroleum (Submerged Lands) Amendment Regulations 1993 | 24 Dec 1993 p. 6832 (correction 31 Dec 1993 p. 6876) | 24 Dec 1993
 Petroleum (Submerged Lands) Amendment Regulations 1994 | 20 May 1994 p. 2125-6 | 20 May 1994
@@ -29,6 +29,8 @@ Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt.
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 12 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 12 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 11 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
 Commencement day was 16 December 2000 (see Gazette 15 Dec 2000 p. 7201).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
