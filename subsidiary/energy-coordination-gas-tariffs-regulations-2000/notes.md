@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Coordination (Gas Tariffs) Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Energy Coordination (Gas Tariffs) Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Energy Coordination (Gas Tariffs) Regulations 2000 | 28 Jun 2000 p. 3300-12 | 2 Jul 2000 (see r. 2 and Gazette 28 Jun 2000 p. 3285)
@@ -13,10 +13,7 @@ Energy Coordination (Gas Tariffs) Amendment Regulations (No. 2) 2012 | 1 May 201
 Energy Coordination (Gas Tariffs) Amendment Regulations 2012 | 24 Jul 2012 p. 3392-3 | r. 1 and 2: 24 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2012 (see r. 2(b))
 Energy Coordination (Gas Tariffs) Amendment Regulations 2013 | 17 May 2013 p. 1979-80 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2013 (see r. 2(b))
 Reprint 2: The Energy Coordination (Gas Tariffs) Regulations 2000 as at 4 Apr 2014 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Energy Coordination (Gas Tariffs) Amendment Regulations 2020 r. 3-4 | SL 2020/80 12 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Energy Coordination (Gas Tariffs) Amendment Regulations 2020 | SL 2020/80 12 Jun 2020 | r. 1 and 2: 12 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
