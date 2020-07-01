@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Radiation Safety (Qualifications) Regulations 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Radiation Safety (Qualifications) Regulations 1980 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Radiation Safety (Qualifications) Regulations 1980 | 6 Jun 1980 p. 1669-71 | 6 Jun 1980
 Radiation Safety (Qualifications) Amendment Regulations 1984 | 19 Apr 1984 p. 1108 | 19 Apr 1984
 Radiation Safety (Qualifications) Amendment Regulations 1988 | 24 Jun 1988 p. 2008 | 24 Jun 1988
@@ -27,6 +27,7 @@ Radiation Safety (Qualifications) Amendment Regulations 2015 | 19 May 2015 p. 17
 Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 7 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 7 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

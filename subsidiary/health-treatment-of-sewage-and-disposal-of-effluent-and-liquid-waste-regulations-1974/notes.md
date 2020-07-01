@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Bacteriolytic Treatment of Sewage and Disposal of Effluent and Liquid Waste Regulations | 3 Sep 1974 p. 3303-40 (erratum 13 Sep 1974 p. 3440) | 3 Sep 1974
 Untitled regulations | 21 Apr 1978 p. 1218-20 | 21 Apr 1978
 Bacteriolytic Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations 1981 | 18 Dec 1981 p. 5192 | 18 Dec 1981
@@ -49,6 +49,8 @@ Health Regulations Amendment (Public Health) Regulations 2016 Pt. 24 | 10 Jan 20
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 5 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 references in any law to the Health Department shall be read as references to the Department of Health.

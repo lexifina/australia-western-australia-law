@@ -26,6 +26,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 30 Jun
 Reprint 3: The Tobacco Products Control Regulations 2006 as at 13 Oct 2017 (includes amendments listed above)
 Tobacco Products Control Amendment Regulations 2019(other than r. 16(1)) | 12 Mar 2019 p. 657-665 | r. 1 and 2: 12 Mar 2019 (see r. 2(a)); r. 3-15, 16(2)-(5) and 17: 18 Mar 2019 (see r. 2(c))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 8 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Gazettal | Commencement

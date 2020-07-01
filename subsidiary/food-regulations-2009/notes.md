@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Food Regulations 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Food Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Food Regulations 2009 | 23 Oct 2009 p. 4095-142 | r. 1 and 2: 23 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2009 (see r. 2(b) and Gazette 23 Oct 2009 p. 4157)
 Food Amendment Regulations 2011 | 20 Sep 2011 p. 3799 | r. 1 and 2: 20 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2011 (see r. 2(b))
 Food Amendment Regulations 2012 | 20 Apr 2012 p. 1696-8 | r. 1 and 2: 20 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Apr 2012 (see r. 2(b))
@@ -19,6 +19,8 @@ Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 30 Jun 
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Reprint 2: The Food Regulations 2009 as at 3 Aug 2018 (includes amendments listed above)
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
 The Food Act 2008 s. 147(14) commenced 24 Oct 2009.
 Deleted by the Food Act 2008 s. 147(11).
 Defined terms

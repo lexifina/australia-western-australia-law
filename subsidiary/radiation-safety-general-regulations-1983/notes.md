@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Radiation Safety (General) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Radiation Safety (General) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Radiation Safety (General) Regulations 1983 | 21 Feb 1983 p. 555-636 | 21 Aug 1983 (see r. 2)
 Health Legislation Amendment Regulations 1984 r. 4 | 29 Jun 1984 p. 1780-4 | 1 Jul 1984 (see r. 2)
 Radiation Safety (General) Amendment Regulations 1986 | 10 Oct 1986 p. 3844-6 | 10 Oct 1986
@@ -62,6 +62,9 @@ Reprint 4: The Radiation Safety (General) Regulations 1983 as at 4 Aug 2017 (inc
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2018 | 16 Oct 2018 p. 4094 | r. 1 and 2: 16 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2018 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 6 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Other notes
+Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
 The Radiation Safety (General) Amendment Regulations (No. 2) 1999 r. 8(2) and (3) are transitional provisions that are of no further effect.
