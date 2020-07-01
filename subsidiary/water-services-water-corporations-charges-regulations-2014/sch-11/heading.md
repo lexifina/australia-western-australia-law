@@ -1,6 +1,6 @@
 ## Schedule 11 — Class of town or area: previous consumption year
 [Sch. 3 it. 23]
-[Heading inserted: Gazette 14 Jun 2019 p. 1995.]
+[Heading inserted: SL 2020/95 r. 10.]
 Town/area | Residential classification | Non-residential classification
 Albany | 4 | 11
 Allanooka Farmlands | 2 | 1
@@ -44,7 +44,7 @@ Capel | 2 | 6
 Carnamah | 5 | 15
 Carnarvon | 5 | 15
 Caron | 5 | 15
-Cervantes | 5 | 12
+Cervantes | 5 | 13
 Collie | 2 | 6
 Collie Farmlands | 1 | 1
 Condingup | 5 | 15
@@ -57,7 +57,7 @@ Cowaramup | 5 | 15
 Cranbrook | 5 | 15
 Cuballing | 5 | 15
 Cue | 5 | 15
-Cunderdin | 5 | 12
+Cunderdin | 5 | 13
 Dalwallinu | 5 | 15
 Dalyellup | 3 | 4
 Dandaragan | 5 | 15
@@ -73,13 +73,13 @@ Doodlakine | 5 | 15
 Dowerin | 5 | 15
 Dudinin/Harrismith/Jitarning | 5 | 15
 Dumbleyung | 5 | 15
-Dunsborough/Yallingup | 4 | 10
+Dunsborough/Yallingup | 4 | 11
 Dwellingup | 5 | 15
 Eneabba | 5 | 15
 Eradu | 5 | 15
 Esperance | 3 | 10
 Exmouth | 4 | 12
-Fitzroy Crossing | 3 | 6
+Fitzroy Crossing | 3 | 7
 Frankland | 5 | 15
 Gabbadah | 5 | 15
 Gascoyne Junction | 5 | 15
@@ -94,7 +94,7 @@ Greenbushes | 5 | 15
 Greenhead | 5 | 15
 Guilderton | 4 | 13
 Halls Creek | 5 | 15
-Hamel/Waroona | 4 | 9
+Hamel/Waroona | 4 | 10
 Harvey/Wokalup | 3 | 10
 Highbury/Piesseville | 5 | 15
 Hines Hill | 5 | 15
@@ -102,11 +102,11 @@ Hopetoun | 5 | 15
 Horrocks | 5 | 15
 Hyden | 5 | 15
 Jerramungup | 5 | 15
-Jurien Bay | 3 | 8
+Jurien Bay | 3 | 9
 Kalannie | 5 | 15
 Kalbarri | 3 | 7
 Kalgoorlie/Boulder | 5 | 15
-Kambalda | 5 | 14
+Kambalda | 5 | 15
 Karakin | 5 | 15
 Karlgarin | 5 | 15
 Karratha | 3 | 8
@@ -165,10 +165,10 @@ Narrogin Farmlands | 3 | 9
 New Norcia | 5 | 15
 Newdegate | 5 | 15
 Newman | 2 | 6
-Nilgen | 5 | 13
+Nilgen | 5 | 14
 Norseman | 5 | 15
 North Dandalup | 4 | 12
-Northam | 5 | 12
+Northam | 5 | 13
 Northam Farmlands | 3 | 9
 Northampton | 5 | 15
 Northcliffe | 5 | 15
@@ -189,10 +189,10 @@ Pinjarra | 2 | 2
 Pithara | 5 | 15
 Point Samson | 4 | 10
 Popanyinning | 5 | 15
-Porongurup | 5 | 10
+Porongurup | 5 | 11
 Port Hedland | 2 | 5
 Preston Beach | 5 | 15
-Prevelly | 5 | 12
+Prevelly | 5 | 13
 Quairading | 5 | 15
 Quinninup | 5 | 15
 Ravensthorpe | 5 | 15
@@ -230,9 +230,9 @@ Wundowie | 2 | 1
 Wyalkatchem | 5 | 15
 Wyndham | 5 | 15
 Yalgoo | 5 | 15
-Yarloop/Wagerup | 5 | 12
+Yarloop/Wagerup | 5 | 13
 Yealering | 5 | 15
 Yerecoin | 5 | 15
 York | 5 | 15
 Yuna | 5 | 15
-[Schedule 11 inserted: Gazette 14 Jun 2019 p. 1995-2005.]
+[Schedule 11 inserted: SL 2020/95 r. 10.]
