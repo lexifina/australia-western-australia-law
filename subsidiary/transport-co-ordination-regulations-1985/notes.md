@@ -40,9 +40,6 @@ Reprint 5: The Transport Co-ordination Regulations 1985 as at 2 Nov 2018 (includ
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 7 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 2019 Pt. 4 | 26 Jun 2019 p. 2229-371 | 2 Jul 2019 (see r. 2(d) and Gazette 28 Jun 2019 p. 2473)
 Transport Co-ordination Amendment Regulations 2019 | 31 Dec 2019 p. 4684-5 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 6 | SL 2020/60 22 May 2020 | 1 Jul 2020 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference to the clerk in Form 21, Schedule 2, was amended under the Reprints Act 1984 s. 7(5)(a).
