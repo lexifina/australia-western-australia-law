@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
  | Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 | 31 Mar 2006 p. 1279-97 | 1 Apr 2006 (see bl. 2)
@@ -23,10 +23,7 @@ Citation | Published | Commencement
  | Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws (No. 3) 2017 | 22 Dec 2017 p. 5978-83 | bl. 1 and 2: 22 Dec 2017 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2018 (see bl. 2(b))
  | Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2018 | 26 Jun 2018 p. 2361-71 | bl. 1 and 2: 26 Jun 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2(b))
  | Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2019 | 21 Jun 2019 p. 2127-36 | bl. 1 and 2: 21 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2019 (see bl. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2020 bl. 3-4 | SL 2020/78 9 Jun 2020 | 1 Jul 2020 (see bl. 2(b))
+ | Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2020 | SL 2020/78 9 Jun 2020 | bl. 1 and 2: 9 Jun 2020 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2020 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
