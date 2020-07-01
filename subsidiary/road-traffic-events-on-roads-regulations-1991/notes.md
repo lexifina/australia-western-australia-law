@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Road Traffic (Events on Roads) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Events on Roads) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Road Traffic (Events on Roads) Regulations 1991 | 1 Feb 1991 p. 549-54 | 1 Feb 1991 (see r. 2 and Gazette 1 Feb 1991 p. 511)
 Road Traffic (Events on Roads) Amendment Regulations 1991 | 22 Feb 1991 p. 909-11 | 22 Feb 1991
 Road Traffic (Events on Roads) Amendment Regulations 1997 | 23 Dec 1997 p. 7440 | 1 Jan 1998 (see r. 2 and Gazette 23 Dec 1997 p. 7400)
@@ -22,3 +22,4 @@ Road Traffic (Events on Roads) Amendment Regulations 2015 | 2 Jun 2015 p. 1946 |
 Road Traffic (Events on Roads) Amendment Regulations 2016 | 27 May 2016 p. 1557 | r. 1 and 2: 27 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Road Traffic (Events on Roads) Amendment Regulations 2018 | 26 Jun 2018 p. 2391 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Road Traffic (Events on Roads) Amendment Regulations 2019 | 21 Jun 2019 p. 2151 | r. 1 and 2: 21 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
+Road Traffic (Events on Roads) Amendment Regulations 2020 | SL 2020/85 23 Jun 2020 | r. 1 and 2: 23 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
