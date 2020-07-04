@@ -30,14 +30,20 @@ Middleweight | over 70.00 kg | not exceeding 80.00 kg
 Heavy weight | over 80.00 kg | not exceeding 90.00 kg
 Super heavyweight | over 90.00 kg | (no upper limit)
 ## Division 3 — Mixed martial arts
-[Heading inserted: Gazette 22 Feb 2013 p. 1026.]
+[Heading inserted: SL 2020/111 r. 7.]
 Division (Class) | Minimum weight | Maximum weight
-Flyweight | (no lower limit) | not exceeding 56.69 kg
-Bantamweight | over 56.69 kg | not exceeding 61.23 kg
-Featherweight | Over 61.23 kg | not exceeding 65.77 kg
-Lightweight | Over 65.77 kg | not exceeding 70.30 kg
-Welterweight | Over 70.30 kg | not exceeding 77.11 kg
-Middleweight | Over 77.11 kg | not exceeding 79.83 kg
-Cruiserweight | Over 79.83 kg | not exceeding 90.7 kg
-Heavyweight | Over 90.7 kg | (no upper limit)
-[Division 3 inserted: Gazette 22 Feb 2013 p. 1026.]
+Strawweight | (no lower limit) | not exceeding 52.16 kg
+Flyweight | over 52.16 kg | not exceeding 56.70 kg
+Bantamweight | over 56.70 kg | not exceeding 61.23 kg
+Featherweight | over 61.23 kg | not exceeding 65.77 kg
+Lightweight | over 65.77 kg | not exceeding 70.31 kg
+Super Lightweight | over 70.31 kg | not exceeding 74.84 kg
+Welterweight | over 74.84 kg | not exceeding 77.11 kg
+Super Welterweight | over 77.11 kg | not exceeding 79.38 kg
+Middleweight | over 79.38 kg | not exceeding 83.91 kg
+Super Middleweight | over 83.91 kg | not exceeding 88.45 kg
+Light Heavyweight | over 88.45 kg | not exceeding 92.99 kg
+Cruiserweight | over 92.99 kg | not exceeding 102.06 kg
+Heavyweight | over 102.06 kg | not exceeding 120.20 kg
+Super Heavyweight | over 120.20 kg | (no upper limit)
+[Division 3 inserted: SL 2020/111 r. 7.]
