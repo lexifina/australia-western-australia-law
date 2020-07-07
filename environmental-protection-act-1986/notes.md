@@ -65,6 +65,7 @@ Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 8 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Planning and Development Amendment Act 2020 Pt. 6 Div. 2 and Pt. 7 Div. 2 | 26 of 2020 | 7 Jul 2020 | To be proclaimed (see s 2(1)(b))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
