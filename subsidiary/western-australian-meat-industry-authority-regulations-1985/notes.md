@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Western Australian Meat Industry Authority Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Western Australian Meat Industry Authority Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Western Australian Meat Industry Authority Regulations 1985 | 7 Jun 1985 p. 1978-90 (erratum 14 Jun 1985 p. 2172) | 7 Jun 1985 (see r. 2)
 Western Australian Meat Industry Authority Amendment Regulations 1985 | 23 Aug 1985 p. 3038 | 23 Aug 1985
 Western Australian Meat Industry Authority Amendment Regulations 1986 | 23 May 1986 p. 1740-1 | 23 May 1986
@@ -47,6 +47,8 @@ Western Australian Meat Industry Authority Amendment Regulations 2018 | 13 Nov 2
 Reprint 5: The Western Australian Meat Industry Authority Regulations 1985 as at 18 Jan 2019 (includes amendments listed above)
 Western Australian Meat Industry Authority Amendment Regulations 2019 | 14 Jun 2019 p. 1881-3 | r. 1 and 2: 14 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2474-7 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b)(i))
+Western Australian Meat Industry Authority Amendment Regulations 2020 | SL 2020/113 7 Jul 2020 | r. 1 and 2: 7 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Jul 2020 (see r. 2(b))
+Other notes
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
