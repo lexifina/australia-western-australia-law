@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection Regulations 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Environmental Protection Regulations 1987 | 20 Feb 1987 p. 444-9 | 20 Feb 1987 (see r. 2 and Gazette 20 Feb 1987 p. 440)
 Environmental Protection Amendment Regulations 1988 | 14 Jun 1988 p. 1945-6 (as amended 24 Jun 1988 p. 2006) | 1 Aug 1988 (see r. 2)
 Environmental Protection Amendment Regulations 1989 | 5 May 1989 p. 1379 | 5 May 1989
@@ -77,6 +77,8 @@ Environmental Protection Amendment Regulations (No. 2) 2018 | 12 Jun 2018 p. 188
 Environmental Protection (Plastic Bags) Regulations 2018 Pt. 3 | 12 Jun 2018 p. 1890-1 | Pt. 3 (other than r. 7(2)): 1 Jul 2018 (see r. 2(c)); r. 7(2): 1 Jan 2019 (see r. 2(b))
 Environmental Protection (Solid Fuel Heater and Firewood) Regulations 2018 Pt. 5 Div. 2 | 31 Aug 2018 p. 3093-107 | 1 Sep 2018 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 3) 2018 | 16 Oct 2018 p. 4093 | r. 1 and 2: 16 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2018 (see r. 2(b))
+Environmental Protection Amendment Regulations (No. 2) 2020 | SL 2020/114 7 Jul 2020 | r. 1 and 2: 7 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Jul 2020 (see r. 2(b))
+Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
 Proclaimed 1 July 1988 by Gazette 26 June 1998 p. 3369.
