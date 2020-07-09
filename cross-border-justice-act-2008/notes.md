@@ -13,6 +13,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 3 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 2 | 27 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
