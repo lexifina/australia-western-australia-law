@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Sexual Offenders Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Sexual Offenders Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Dangerous Sexual Offenders Act 2006 | 1 of 2006 | 30 Mar 2006 | s. 1 and 2: 30 Mar 2006; Act other than s. 1 and 2: 13 May 2006 (see s. 2 and Gazette 12 May 2006 p. 1781)
@@ -12,6 +12,10 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 10 | 25 of 201
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 2 | 17 of 2016 | 11 Jul 2016 | 10 Sep 2016 (see s. 2(b) and Gazette 9 Sep 2016 p. 3871)
 Reprint 2: The Dangerous Sexual Offenders Act 2006 as at 20 Jan 2017 (includes amendments listed above)
 Dangerous Sexual Offenders Legislation Amendment Act 2017 Pt. 3 | 21 of 2017 | 13 Dec 2017 | 29 Mar 2018 (see s. 2(b) and Gazette 16 Mar 2018 p. 916-17)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+High Risk Serious Offenders Act 2020 s. 123 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
