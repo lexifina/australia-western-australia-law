@@ -168,6 +168,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 2 | 27 of 2020 | 9 Jul 2020 | s. 3 and 39: 12 Oct 2020 (see s. 2(1)(b) and SL 2020/148 cl. 2); Pt. 2 (other than s. 3 and 39): to be proclaimed (see s. 2(1)(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Footnote no longer applicable.
