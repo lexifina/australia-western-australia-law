@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Authorisation to Drive) Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Authorisation to Drive) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Authorisation to Drive) Act 2008 | 40 of 2008 | 15 Aug 2008 | s. 1 and 2: 15 Aug 2008 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -12,6 +12,11 @@ Reprint 1: The Road Traffic (Authorisation to Drive) Act 2008 as at 3 Jul 2015 (
 Road Traffic Legislation Amendment Act 2016 s. 20 | 25 of 2016 | 21 Sep 2016 | 22 Sep 2016 (see s. 2(b))
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 3 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 3 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
+Other notes
 The Road Traffic Amendment Act (No. 2) 2007 s. 27 commenced 1 Dec 2010.
 The Road Traffic Legislation Amendment Act 2012 Pt. 3 (s. 15-18) commenced 1 Aug 2012; Pt. 3 other than s. 15-18 commenced 27 Apr 2015.
 The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
