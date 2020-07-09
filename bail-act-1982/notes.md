@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bail Act 1982 | 86 of 1982 | 18 Nov 1982 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -67,6 +67,11 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Dangerous Sexual Offenders Legislation Amendment Act 2017 Pt. 2 | 21 of 2017 | 13 Dec 2017 | 29 Mar 2018 (see s. 2(b) and Gazette 16 Mar 2018 p. 916-17)
 Bail Amendment (Persons Linked to Terrorism) Act 2019 | 15 of 2019 | 5 Jul 2019 | s. 1 and 2: 5 Jul 2019 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2020 (see 2(b) and Gazette 15 Nov 2019 p. 4029)
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 4 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+High Risk Serious Offenders Act 2020 s. 117 | 29 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Family Violence Legislation Reform Act 2020 Pt. 5 | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
