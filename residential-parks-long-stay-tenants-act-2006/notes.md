@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Parks (Long-stay Tenants) Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Residential Parks (Long-stay Tenants) Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Parks (Long-stay Tenants) Act 2006 | 32 of 2006 | 4 Jul 2006 | s. 1 and 2: 4 Jul 2006; Act other than s. 1 and 2: 3 Aug 2007 (see s. 2 and Gazette 1 Aug 2007 p. 3835)
@@ -10,6 +10,11 @@ Reprint 1: The Residential Parks (Long-stay Tenants) Act 2006 as at 6 Sep 2013 (
 Water Services Legislation Amendment and Repeal Act 2012 s. 227 | 25 of 2012 | 3 Sep 2012 | 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Consumer Protection Legislation Amendment Act 2014 Pt. 11 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 3 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
+Residential Parks (Long- stay Tenants) Amendment Act 2020 s. 3 and 80 | 28 of 2020 | 9 Jul 2020 | 10 Jul 2020 (see s. 2(1)(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 2 (other than s. 3 and 80) | 28 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
