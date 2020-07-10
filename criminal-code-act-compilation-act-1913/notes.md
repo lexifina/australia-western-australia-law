@@ -189,11 +189,13 @@ Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 | 28 of 2018 | 2 Nov 201
 Criminal Law Amendment (Intimate Images) Act 2019Pt. 2 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
 Criminal Code Amendment (Child Marriage) Act 2020 | 2 of 2020 | 27 Feb 2020 | s. 1 and 2: 27 Feb 2020 (see s. 2(a)); Act other than s.1 and 2: 28 Feb 2020 (see s. 2(b))
 Criminal Code Amendment (COVID-19 Response) Act 2020 | 8 of 2020 | 3 Apr 2020 | s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 5(3): 4 Apr 2020 (see s. 2(c))
+Family Violence Legislation Reform Act 2020 s. 12 | 30 of 2020 | 9 Jul 2020 | 10 Jul 2020 (see s. 2(1)(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (COVID-19 Response) Act 2020 s. 4(2) and 5(3) | 8 of 2020 | 3 Apr 2020 | 4 Apr 2021 (see s. 2(b))
+Family Violence Legislation Reform Act 2020 Pt. 2 (other than s. 12) | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
