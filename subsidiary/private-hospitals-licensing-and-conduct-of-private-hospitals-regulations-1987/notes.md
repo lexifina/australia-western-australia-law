@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Private Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987 | 23 Jan 1987 p. 185-6 | 23 Jan 1987 (see r. 2 and Gazette 23 Jan 1987 p. 179)
 Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 1997 | 7 Nov 1997 p. 6132-3 | 13 Nov 1997 (see r. 2)
 Reprint 1: The Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987 as at 13 Feb 2004 (includes amendments listed above)
@@ -15,8 +15,11 @@ Reprint 2: The Hospitals (Licensing and Conduct of Private Hospitals) Regulation
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 2020 | SL 2020/115 10 Jul 2020 | r. 1 and 2: 10 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2020 (see r. 2(b))
+Other notes
 Formerly referred to the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261.
 Repealed by the National Health and Medical Research Council Act 1992 s. 54 (No. 225 of 1992) of the Commonwealth.
+Now known as the Private Hospitals (Licensing and Conduct of Private Hospitals) Regulations 1987; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
