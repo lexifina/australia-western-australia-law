@@ -8,5 +8,4 @@ Form 29 | WESTERN AUSTRALIA Mining Act 1978 (r. 105)
 OFFICIAL USE
 Received at ................................am/pm on .................................. 20..... with fee of $ ............................................................................................
 .................................................................... Mining Registrar
-Note 1:This declaration may be made before a person who is an authorised witness for a statutory declaration under the Oaths, Affidavits and Statutory Declarations Act 2005 section 12(6).
 [Form 29 inserted: Gazette 13 Dec 2019 p. 4240.]
