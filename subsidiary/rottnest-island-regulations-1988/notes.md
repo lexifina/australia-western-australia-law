@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rottnest Island Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Rottnest Island Regulations 1988 | 30 May 1988 p. 1825-46 | 30 May 1988 (see r. 2 and Gazette 30 May 1988 p. 1823)
 Rottnest Island Amendment Regulations 1990 | 9 Nov 1990 p. 5589-91 | 9 Nov 1990
 Rottnest Island Amendment Regulations 1991 | 14 Jun 1991 p. 2914-15 | 14 Jun 1991
@@ -51,6 +51,8 @@ Reprint 6: The Rottnest Island Regulations 1988 as at 12 Jan 2018 (includes amen
 Rottnest Island Amendment Regulations 2018 | 22 Jun 2018 p. 2182-3 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 2) 2018 | 21 Dec 2018 p. 4854-6 | r. 1 and 2: 21 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2018 (see r. 2(b))
 Rottnest Island Amendment Regulations 2019 | 9 Aug 2019 p. 3026-7 | r. 1 and 2: 9 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2019 (see r. 2(b))
+Rottnest Island Amendment Regulations 2020 | SL 2020/118 17 Jul 2020 | r. 1 and 2: 17 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2020 (see r. 2(b))
+Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
