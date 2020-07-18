@@ -151,6 +151,8 @@ Mining Amendment Regulations 2019 | 13 Dec 2019 p. 4231-40 | r. 1 and 2: 13 Dec 
 Mining Amendment Regulations (No. 3) 2020 | SL 2020/25 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2020 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Mining Amendment (COVID-19 Response) Regulations 2020 (other than r. 4(3), 6 and 7(2)) | SL 2020/108 30 Jun 2020 | r. 1 and 2: 30 Jun 2020 (see r. 2(a)); Regulations other than r. 1, 2, 4(3), 6 and 7(2): 1 Jul 2020 (see r. 2(c))
+Mining Amendment Regulations (No. 4) 2020 | SL 2020/117 17 Jul 2020 | r. 1 and 2: 17 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2020 (see r. 2(b))
+Mining Amendment Regulations (No. 2) 2020 | SL 2020/119 17 Jul 2020 | r. 1 and 2: 17 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2020 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
