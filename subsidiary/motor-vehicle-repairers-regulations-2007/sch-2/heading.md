@@ -47,7 +47,7 @@ Training package | Qualification
 11. | Electrical work | AUR99 | Code: AUR30199 Title: Certificate III in Automotive (Electrical)
  |  | AUR05 | Code: AUR30305 Title: Certificate III in Automotive Electrical Technology or Code: AUR30308 Title: Certificate III in Automotive Electrical Technology
  |  | AUR12 | Code: AUR30312 Title: Certificate III in Automotive Electrical Technology
- |  | AUR | Code: AUR30316 Title: Certificate III in Automotive Electrical Technology or Code: AUR32518 Title: Certificate III in Automotive Underbody Technology
+ |  | AUR | Code: AUR30316 Title: Certificate III in Automotive Electrical Technology
 12. | Engine reconditioning work | AUR99 | Code: AUR30799 Title: Certificate III in Automotive (Mechanical — Engine Reconditioning)
  |  | AUR05 | Code: AUR30605 Title: Certificate III in Automotive Specialist Specialisation: Engine Reconditioning
  |  | AUR12 | Code: AUR31312 Title: Certificate III in Automotive Engine Reconditioning or Code: AUR31512 Title: Certificate III in Automotive Diesel Engine Technology
@@ -75,7 +75,7 @@ Training package | Qualification
 18. | Light vehicle work | AUR99 | Code: AUR31099 Title: Certificate III in Automotive (Mechanical — Light Vehicle)
  |  | AUR05 | Code: AUR30405 Title: Certificate III in Automotive Mechanical Technology Specialisation: Light Vehicle
  |  | AUR12 | Code: AUR30612 Title: Certificate III in Light Vehicle Mechanical Technology
- |  | AUR | Code: AUR30616 Title: Certificate III in Light Vehicle Mechanical Technology or Code: AUR32518 Title: Certificate III in Automotive Underbody Technology
+ |  | AUR | Code: AUR30616 Title: Certificate III in Light Vehicle Mechanical Technology
 19. | Mechanical accessory fitting work | AUR99 | Code: AUR22499 Title: Certificate II in Automotive (Vehicle Body — Accessory Fitting “Mechanical”)
  |  | AUR05 | Code: AUR20205 Title: Certificate II in Automotive Aftermarket Manufacturing Specialisation: Accessory Fitting
 20. | Motor cycle servicing work | AUR99 | Code: AUR21799 Title: Certificate II in Automotive (Mechanical — Vehicle Servicing)
@@ -118,4 +118,4 @@ Training package | Qualification
  |  | AUR05 | Code: AUR20705 Title: Certificate II in Automotive Mechanical Specialisation: Underbody
  |  | AUR12 | Code: AUR21212 Title: Certificate II in Automotive Underbody Technology
  |  | AUR | Code: AUR21216 Title: Certificate II in Automotive Underbody Technology or Code: AUR32516 Title: Certificate III in Automotive Underbody Technology or Code: AUR32518 Title: Certificate III in Automotive Underbody Technology
-[Schedule 2 inserted: Gazette 15 Mar 2019 p. 773-86.]
+[Schedule 2 inserted: Gazette 15 Mar 2019 p. 773-86; amended: SL 2020/121 r. 4.]

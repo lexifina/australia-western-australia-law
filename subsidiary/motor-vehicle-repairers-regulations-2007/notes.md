@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Motor Vehicle Repairers Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Repairers Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Motor Vehicle Repairers Regulations 2007 | 9 Feb 2007 p. 391-426 | 19 Mar 2007 (see r. 2 and Gazette 9 Feb 2007 p. 451)
 Motor Vehicle Repairers Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2554-5 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations 2008 | 24 Jun 2008 p. 2801-33 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b) and Gazette 24 Jun 2008 p. 2885)
@@ -26,6 +26,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 15 | 23 J
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 15 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations 2019 | 15 Mar 2019 p. 771-86 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 14 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Motor Vehicle Repairers Amendment Regulations 2020 | SL 2020/121 21 Jul 2020 | r. 1 and 2: 21 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
