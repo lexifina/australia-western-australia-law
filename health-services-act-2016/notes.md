@@ -4,11 +4,11 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 | 11 of 2016 | 26 May 2016 | s. 1 and 2: 26 May 2016 (see s. 2(a)); s. 6, 7, 32, 238, 244 and 245: 15 Jun 2016 (see s. 2(b) and Gazette 14 Jun 2016 p. 1819); Act other than s. 1, 2, 6, 7, 32, 238, 244, 245, 301(2), (3), (6) and (7) and 307(j): 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 17 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Procurement Act 2020 Pt. 10 Div. 4 | 24 of 2020 | 19 Jun 2020 | 22 Jul 2020 (see s. 2(b) and SL 2020/122)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
-Procurement Act 2020 Pt. 10 Div. 4 | 24 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -126,7 +126,7 @@ PSM Act6
 public authority6
 public health service6, 7(3)
 public health service facility6
-public hospital6
+public hospital6, 8(6)
 publication day205(1), 256(1)
 qualified person99(1)
 reasonably suspects211(1)
