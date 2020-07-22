@@ -21,8 +21,8 @@ Reprint 3: The Charitable Collections Regulations 1947 as at 26 Apr 2013 (includ
 Charitable Collections Amendment Regulations 2013 | 20 Aug 2013 p. 3824 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Charitable Collections Amendment Regulations 2017 | 10 Mar 2017 p. 1567 | r. 1 and 2: 10 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Mar 2017 (see r. 2(b))
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 2 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Charitable Collections Amendment Regulations 2020 | SL 2020/120 21 Jul 2020 | r. 1 and 2: 21 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2020 (see r. 2(b))
 Other notes
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
 The Charitable Collections Amendment Regulations 2000 r. 12 reads as follows:
 12.Savings and transition
 (1) A licence that was in force immediately before the commencement of these regulations, and any terms or conditions to which the licence was subject immediately before that commencement, are not taken to be affected by the amendments that are effected by these regulations.
@@ -30,6 +30,7 @@ The Charitable Collections Amendment Regulations 2000 r. 12 reads as follows:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+ABN3(1)
 Act2
 approved2
 branch organisation2
@@ -39,3 +40,4 @@ collector2
 commencement day20(1)
 Commissioner2
 executive officers2
+registered charity3(1)
