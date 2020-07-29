@@ -13,6 +13,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 
 Transport Regulations Amendment (Information) Regulations 2019 Pt. 4 | 29 Mar 2019 p. 972-80 | 30 Mar 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 10 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 6 | SL 2020/74 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Transport Regulations Amendment (Document Replacement) Regulations 2020 Pt. 3 | SL 2020/123 28 Jul 2020 | 29 Jul 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
