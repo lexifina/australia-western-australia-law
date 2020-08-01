@@ -132,6 +132,7 @@ Jetties Amendment Regulations 2018 | 20 Mar 2018 p. 994-6 | r. 1 and 2: 20 Mar 2
 Jetties Amendment Regulations (No. 2) 2018 | 25 May 2018 p. 1669-709 | r. 1 and 2: 25 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2019 | 31 May 2019 p. 1755-94 | r. 1 and 2: 31 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2020 | SL 2020/96 26 Jun 2020 | r. 1 and 2: 26 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
+Jetties Amendment Regulations 2020 | SL 2020/128 31 Jul 2020 | r. 1 and 2: 31 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2020 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
@@ -150,21 +151,45 @@ the requirement to pay any applicable dues or charges prescribed in Schedule 1.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+amended licence fee105J, 105K(5)
+annual licence fee105J, 105K(6)
+authorised period67DD
+Berth 167DD
+Berth 1 permit67DD
+Berth 267DD
+Berth 367DD
+Burswood Jetty3(1)
+business105J
+business licence105J
+commercial passenger vessel67DD
 commercial vessel3(1)
 day3(2)
 Department3(1)
 enhanced facilitiesSch. 1 cl. 32(1)
+exclusive operator67DD, 67DF(2)
 fishing vessel3(1)
-jetty3(1)
+fuel pipeline105J
+fuel pipeline licence105J
+item 167DD
+item 267DD
+item 367DD
+jetty3(1), 105J
+licence105J
+local government public licence105J
 master3(1)
+new licence fee105J, 105K(3)
 officer3(1)
 owner3(1)
 premises3(1)
+private licence105J
 public jetty3(1)
+ramp105J
 recreational vessel3(1)
+relevant vessel67DI(1)
+replacement licence fee105J, 105K(4)
 short term3(2)
 swing mooring fee3(1)
 tourism vessel3(1)
 unit3(5)
-vessel3(1)
+vessel3(1), 105J
 week3(2)
