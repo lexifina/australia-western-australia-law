@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Magistrates Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (Fees) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Magistrates Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1573-603 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
 Magistrates Court (Fees) Amendment Regulations 2006 | 23 Jun 2006 p. 2178-81 | 1 Jul 2006 (see r. 2)
 Magistrates Court (Fees) Amendment Regulations 2007 | 26 Jun 2007 p. 3033-5 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
@@ -36,7 +36,8 @@ Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 6 | 20 Jul 2018 
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 5 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 5 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
-The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 8 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
+Other notes
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

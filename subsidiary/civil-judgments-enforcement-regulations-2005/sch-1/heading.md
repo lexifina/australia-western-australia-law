@@ -1,14 +1,14 @@
 ## Schedule 1 — Court fees
 [r. 105]
-[Heading inserted: Gazette 28 Jun 2019 p. 2563.]
+[Heading inserted: SL 2020/124 r. 6.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
 1. | For an application or request under the Act —
- | (a)a judgment not exceeding $10 000 | 118.50 | 178.00 | 35.50
- | (b)all other judgments | 192.00 | 288.00 | 57.50
+ | (a)a judgment not exceeding $10 000 | 130.50 | 196.00 | 39.10
+ | (b)all other judgments | 211.00 | 317.00 | 63.50
  | Notes for this item: 1.The fee is payable only once on the first application or request by a judgment creditor or other person entitled to the benefit of the judgment.
  | 2.No fee is payable in relation to interpleader proceedings.
  | 3.No fee is payable for registering a judgment or order of a court or tribunal of the State for the purpose of enforcing the judgment or order.
  | 4.No fee is payable for an application or request brought by a person other than a judgment creditor or other person entitled to the benefit of the judgment.
  | 5.The fee payable on an application relating to an order made in the exercise of the jurisdiction referred to in the Residential Tenancies Act 1987 section 12A is the fee payable on an application in relation to a judgment not exceeding $10 000.
-2. | Registering a judgment in a court under the Service and Execution of Process Act 1992 (Commonwealth) section 105(1) | 100.50 | 133.00 | 30.10
-[Schedule 1 inserted: Gazette 28 Jun 2019 p. 2563-4.]
+2. | Registering a judgment in a court under the Service and Execution of Process Act 1992 (Commonwealth) section 105(1) | 110.50 | 146.50 | 33.10
+[Schedule 1 inserted: SL 2020/124 r. 6.]

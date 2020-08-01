@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Children’s Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Children’s Court (Fees) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Children’s Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1415-33 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7128)
 Children’s Court (Fees) Amendment Regulations 2005 | 30 Aug 2005 p. 4054 | 30 Aug 2005
 Children’s Court (Fees) Amendment Regulations 2006 | 23 Jun 2006 p. 2181-3 | 1 Jul 2006 (see r. 2)
@@ -29,6 +29,7 @@ Reprint 3: The Children’s Court (Fees) Regulations 2005 as at 28 Sep 2018 (inc
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 2 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 2 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

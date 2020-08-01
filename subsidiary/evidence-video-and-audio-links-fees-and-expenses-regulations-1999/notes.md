@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 | 7 Dec 1999 p. 5995-6 | 7 Dec 1999
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2003 | 30 Dec 2003 p. 5718 | 1 Jan 2004 (see r. 2)
 Reprint 1: The Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 as at 6 Aug 2004 (includes amendments listed above)
@@ -23,3 +23,4 @@ Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 6 | 14 Jun 20
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 7 Jul 2017 p. 3721-98 | 8 Jul 2017 (see r. 2(b)(ii))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2 018 Pt. 6 | 15 Jun 2018 p. 1963-2049 | 1 Jul 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 6 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))

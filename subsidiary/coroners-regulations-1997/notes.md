@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Coroners Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Coroners Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Coroners Regulations 1997 | 18 Mar 1997 p. 1551-74 | 7 Apr 1997 (see r. 2 and Gazette 18 Mar 1997 p. 1529)
 Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 10 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see r. 2 and Gazette 30 Jun 2003 p. 2579)
 Reprint 1: The Coroners Regulations 1997 as at 16 Jan 2004 (includes amendments listed above)
@@ -25,6 +25,7 @@ Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 3 
 Coroners Amendment Regulations 2019 | 1 Feb 2019 p. 225-6 | r. 1 and 2: 1 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 3 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

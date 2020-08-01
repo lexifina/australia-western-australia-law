@@ -1,32 +1,32 @@
 ## Schedule 2 — Enforcement fees
 [r. 9]
-[Heading inserted: Gazette 28 Jun 2019 p. 2592.]
+[Heading inserted: SL 2020/124 r. 14.]
 ## Division 1 — Enforcement fees for Part 3 of the Act
-[Heading inserted: Gazette 28 Jun 2019 p. 2592.]
-1. | Fee for issuing a final demand (To be imposed when the final demand is issued.) | $21.90
-2. | Fee for preparing an enforcement certificate in relation to an infringement notice, for each infringement notice (To be imposed when the infringement notice is registered.) | $18.65
-3. | Fee for registering an infringement notice with the Registry (To be imposed when the notice is registered.) | $70.00
-4. | Fee for issuing a notice of intention to enforce (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $46.20
-5. | Fee for issuing an enforcement warrant (To be imposed when the warrant is issued.) | $218.00
-[Division 1 inserted: Gazette 28 Jun 2019 p. 2592.]
+[Heading inserted: SL 2020/124 r. 14.]
+1. | Fee for issuing a final demand (To be imposed when the final demand is issued.) | $24.10
+2. | Fee for preparing an enforcement certificate in relation to an infringement notice, for each infringement notice (To be imposed when the infringement notice is registered.) | $20.50
+3. | Fee for registering an infringement notice with the Registry (To be imposed when the notice is registered.) | $77.00
+4. | Fee for issuing a notice of intention to enforce (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $51.00
+5. | Fee for issuing an enforcement warrant (To be imposed when the warrant is issued.) | $240.00
+[Division 1 inserted: SL 2020/124 r. 14.]
 ## Division 2 — Enforcement fees for Part 4 of the Act
-[Heading inserted: Gazette 28 Jun 2019 p. 2593.]
-1. | Fee for issuing a notice of intention to enforce (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $46.20
-2. | Fee for issuing an enforcement warrant (To be imposed when the warrant is issued.) | $218.00
-[Division 2 inserted: Gazette 28 Jun 2019 p. 2593.]
+[Heading inserted: SL 2020/124 r. 14.]
+1. | Fee for issuing a notice of intention to enforce (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $51.00
+2. | Fee for issuing an enforcement warrant (To be imposed when the warrant is issued.) | $240.00
+[Division 2 inserted: SL 2020/124 r. 14.]
 ## Division 3 — Enforcement fees for Part 7 of the Act
-[Heading inserted: Gazette 28 Jun 2019 p. 2593.]
-1. | Fee for attending the Magistrates Court in connection with proceedings to examine a person under section 69, for each hour or part of an hour | $96.50
+[Heading inserted: SL 2020/124 r. 14.]
+1. | Fee for attending the Magistrates Court in connection with proceedings to examine a person under section 69, for each hour or part of an hour | $106.00
 2. | The actual amounts disbursed in connection with seizing, moving, storing, securing, protecting and insuring property (including amounts disbursed for the keeping of animals) are prescribed as enforcement fees.
-3. | Fee for inspecting personal property under seizure | $65.00
-4. | Fee for lodging a memorial under section 89 | $70.00
-5. | Fee for lodging a withdrawal of memorial under section 90 | $46.20
+3. | Fee for inspecting personal property under seizure | $71.50
+4. | Fee for lodging a memorial under section 89 | $77.00
+5. | Fee for lodging a withdrawal of memorial under section 90 | $51.00
 6. | The actual amounts disbursed for the purpose of valuing any personal property or land, or for searches of titles and other records, are prescribed as enforcement fees.
 7. | The actual amounts disbursed for advertising, and otherwise in connection with the arranging of, any intended sale of personal property or land are prescribed as enforcement fees.
-8. | Fee for arranging a sale of personal property or land, including preparing advertisements and conditions of sale, but excluding disbursements, not exceeding | $230.00
+8. | Fee for arranging a sale of personal property or land, including preparing advertisements and conditions of sale, but excluding disbursements, not exceeding | $253.00
 9. | The actual amounts disbursed in connection with a sale of personal property or land (including settlement costs) are prescribed as enforcement fees.
-10. | Fee for attending a sale of personal property or land | $103.50
-11. | Fee for preparing and executing a transfer of land sold | $230.00
-12. | Fee for attending a court in connection with interpleader proceedings, for each half hour or part of a half hour | $32.90
+10. | Fee for attending a sale of personal property or land | $114.00
+11. | Fee for preparing and executing a transfer of land sold | $253.00
+12. | Fee for attending a court in connection with interpleader proceedings, for each half hour or part of a half hour | $36.20
 13. | If the Sheriff or a delegate of the Sheriff is necessarily put to extra trouble and expense in connection with executing an enforcement warrant or is required to do anything not provided for in this Division, the Sheriff may set an amount or an additional amount (as the case may be) and that amount is prescribed as an enforcement fee. If under this item the Sheriff sets an amount for travelling expenses, the amount is not to exceed the rate per kilometre, 1 way, that is prescribed as a travelling fee for the service of documents in the Magistrates Court (Fees) Regulations 2005.
-[Division 3 inserted: Gazette 28 Jun 2019 p. 2593-4.]
+[Division 3 inserted: SL 2020/124 r. 14.]

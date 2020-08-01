@@ -47,6 +47,7 @@ Citation | Published | Commencement
  | State Administrative Tribunal Amendment Regulations (No. 3) 2019 | 24 Dec 2019 p. 4430-1 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Dec 2019 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations 2020 | SL 2020/23 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations (No. 4) 2019 | 31 Dec 2019 p. 4657-60 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+ | Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 9 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see s. 2(b))
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.

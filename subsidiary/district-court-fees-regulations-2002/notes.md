@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the District Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the District Court (Fees) Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 District Court (Fees) Regulations 2002 | 27 Dec 2001 p. 6617-43 | 1 Jan 2002 (see r. 2)
 Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 11 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see r. 2 and Gazette 30 Jun 2003 p. 2579)
 District Court (Fees) Amendment Regulations 2003 | 30 Dec 2003 p. 5702-9 | 1 Jan 2004 (see r. 2)
@@ -35,9 +35,9 @@ Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 5 | 20 Jul 2018 
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 4 | 7 Dec 2018 p. 4667-74 | 18 Dec 2018 (see r. 2(b)(i))
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 4 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
+Other notes
 Repealed by the District Court Rules 2005.
-Repealed by the Co-operatives Act 2009.
-Repealed by the Commercial Arbitration Act 2012.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:
 13.Transitional: recognised reporting services
 A recognised reporting service approved by the Attorney General immediately before the date on which these regulations commenced is taken to have been approved as a person entitled to receive searchable information on that date.
