@@ -189,13 +189,13 @@ Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 | 28 of 2018 | 2 Nov 201
 Criminal Law Amendment (Intimate Images) Act 2019Pt. 2 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
 Criminal Code Amendment (Child Marriage) Act 2020 | 2 of 2020 | 27 Feb 2020 | s. 1 and 2: 27 Feb 2020 (see s. 2(a)); Act other than s.1 and 2: 28 Feb 2020 (see s. 2(b))
 Criminal Code Amendment (COVID-19 Response) Act 2020 | 8 of 2020 | 3 Apr 2020 | s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 5(3): 4 Apr 2020 (see s. 2(c))
-Family Violence Legislation Reform Act 2020 s. 12 | 30 of 2020 | 9 Jul 2020 | 10 Jul 2020 (see s. 2(1)(b))
+Family Violence Legislation Reform Act 2020 Pt. 2 (other than s. 5 and 6) | 30 of 2020 | 9 Jul 2020 | s. 12: 10 Jul 2020 (see s. 2(1)(b)); s. 3, 4, 7-11: 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(i))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (COVID-19 Response) Act 2020 s. 4(2) and 5(3) | 8 of 2020 | 3 Apr 2020 | 4 Apr 2021 (see s. 2(b))
-Family Violence Legislation Reform Act 2020 Pt. 2 (other than s. 12) | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Family Violence Legislation Reform Act 2020 s. 5 and 6 | 30 of 2020 | 9 Jul 2020 | 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -232,10 +232,10 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accessory after the fact10
-accused5(1)(b), 10G(2), 10H(2)
+accused5(1), 10G(2), 10H(2)
 adult offender1(1)
-advice given546(12)
-agent546(1)
+advice given546
+agent546
 aggravated home burglary1(1)
 aid148(1)
 aircraft1(1)
@@ -256,13 +256,13 @@ bribe1(1)
 bulletproof clothing557I(1)
 carnal connection6
 carnal knowledge6
-charge5(1)(b)
+charge5(1)
 child1(1), 217A, 306(1), 320(1), 321(1), 322(1), 331A, 557K(1)
 child care centre557K(1)
 child exploitation material217A
 child pornography217A
 child sex offender557K(1)
-circumstances of aggravation221(1), 319(1), 338D(1), 391, 400(1)
+circumstances of aggravation221(1), 319(1), 338D(1), 391, 400(1), 444(1A)
 circumstances of racial aggravation1(1), 80I
 clerk1(1)
 COC Act221C(1)
@@ -276,16 +276,16 @@ computer system440A(1)
 conducting a business331C(1)
 consent221BA, 221BB(1), 319(2)
 consort557J(1), 557K(1)
-contract546(7)
+contract546
 conveyance1(1), 284(1), 390A(1)
-court5(1)(b)
+court5(1)
 court of summary jurisdiction1(1)
 CP Act720
 criminal organisation221C(1), 221D(1)
 criminal responsibility1(1)
 criminally responsible1(1)
 current offence401B(1), 401(4)
-damage1(1)
+damage1(1), 1(1)
 dangerous goods294A(3)
 dangerous thing305(1)
 de facto child329(1)
@@ -294,7 +294,7 @@ deceptive material99(1)
 declared criminal organisation221C(1)
 declared drug trafficker557J(1)
 defamatory345(7)
-depicted person221BD(2)(a)
+depicted person221BD(2)
 destroy1(1)
 detriment97(1)
 digital signature489
@@ -317,7 +317,7 @@ engaged in a private act221BA
 explosive substance1(1), 455, 557(2)
 family relationship221(2)
 female genital mutilation306(1)
-first relevant conviction401A(1)(a)(i) and (b)(iii)(I)
+first relevant conviction401A(1), 401A(1)
 forge1(1)
 government contractor81(1)
 grievous bodily harm1(1)
@@ -332,7 +332,7 @@ identification information489
 identification material489, 494(1)
 identity offence494(1)
 impair305A(1)
-in relation to his principal’s affairs or business546(11)
+in relation to his principal’s affairs or business546
 incapable person331A
 incites1(1)
 indecent act319(1)
@@ -363,14 +363,14 @@ mental impairment1(1)
 money1(1)
 mortgaged goods389
 motor vehicle1(1)
-new conviction401A(4)(b)
+new conviction401A(4)
 night1(1)
 night-time1(1)
 obstruct172(1)
 obtains1(1)
 occupant244(1), 254(2)
 offence2, 244(6), 563A(3), 563B(5)
-offence A10B(1) and (2)
+offence A10B(1), 10B(2)
 offensive material204A(1)
 official information81(1)
 organise75B(1)
@@ -380,7 +380,7 @@ password440A(1)
 periodical343A(2)
 person1(1)
 person employed in the Public Service1(1)
-person having business relations with the principal546(10)
+person having business relations with the principal546
 person in authority70A(1)
 picture204B(1), 217A
 place244(6), 254(1), 400(1)
@@ -390,10 +390,10 @@ prescribed amount68D(1)
 prescribed circumstances297(8), 318(5)
 prescribed offence321A(1)
 prescribed place68B(1)
-principal546(2)
-principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1), 553(1), 558(1)(a) and (b), 562(1)
+principal546
+principal offence10D, 10E, 10F, 10G(1), 10G(2), 10H(1), 10H(2), 552(1), 553(1), 558(1), 558(1), 562(1)
 print98(1), 99(1)
-prior relevant convictions401A(4)(a)
+prior relevant convictions401A(4)
 prison145(1)
 proceeds563A(3)
 prohibited conduct187(1)
@@ -420,20 +420,20 @@ review date740B(1)
 reward96(1)
 riot62
 riotously assembled62
-second relevant conviction401A(1)(a)(ii) and (b)(II)
+second relevant conviction401A(1), 401A(1)
 seditious enterprise46
 seditious intention44
 seditious words46
 seditious writing46
 sentence completion date401A(5)
-sentencing court401A(4)(d)
+sentencing court401A(4)
 serious disease1(1)
 servant1(1)
 set305(1)
 sexual act321A(1)
 sexual service331A
 ship1(1)
-solicit any valuable consideration546(9)
+solicit any valuable consideration546
 special property371(2)
 steal371
 summarily1(1)
@@ -445,19 +445,19 @@ to indecently record319(1)
 to sexually penetrate319(1)
 transaction563A(3)
 trespass70A(1)
-trustee546(3)
+trustee546
 unamended CodeSch. 1 cl. 2(1)
 unauthorised disclosure81(1)
 unlawful assembly62
 use390A(1), 440A(1)
 used in connection with an offence563B(5)
 utter1(1)
-valuable consideration546(4), (5) and (6)
-valuable consideration solicited546(9)
+valuable consideration546, 546, 546
+valuable consideration solicited546
 valuable security1(1)
 vehicle1(1), 75A(2)
 vessel1(1)
-victim204B(1), 331D(1)(a) and (2)(a), 345(1), 494(1)
+victim204B(1), 331D(1), 331D(2), 345(1), 494(1)
 voice print489
 volatile substance206(1)
 wilfully destroy or damage443

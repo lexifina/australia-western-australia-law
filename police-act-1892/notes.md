@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Police Act 1892 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Police Act 1892 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Police Act 1892 | 1892 (55 Vict. No. 27) | 18 Mar 1892 | 1 Apr 1892 (see s. 142)
@@ -123,10 +123,7 @@ Standardisation of Formatting Act 2010 s. 42(3), 43(2), 44(3) and 51 | 19 of 201
 Police Amendment Act 2011 | 12 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see s. 2(a); Act other than s. 1 and 2: 13 Jan 2018 (see s. 2(b) and Gazette 12 Jan 2018 p. 115)
 Industrial Relations Amendment Act 2018 s. 70 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Police Amendment (Medical Retirement) Act 2019 Pt. 2 | 19 of 2019 | 15 Aug 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4133)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Family Violence Legislation Reform Act 2020 Pt. 7 | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Family Violence Legislation Reform Act 2020 Pt. 7 | 30 of 2020 | 9 Jul 2020 | 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(v))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 14 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Footnote no longer applicable.
@@ -169,8 +166,10 @@ Commission33ZL
 Commissioner33A, 34, 38A, 38F
 contract39A
 Department39A, 39E, 138AA(1)
+designated person135(1)
 disputed decision33ZB, 33ZI(2)
 event39E
+family violence135(1)
 government-sponsored event39E
 industrial Commissioner33K, 33ZB
 major event39E, 39F
