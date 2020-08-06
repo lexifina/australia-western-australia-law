@@ -83,7 +83,7 @@ Sentencing Legislation Amendment Act 2016 Pt. 3 Div. 1 and Pt. 4 (other than Div
 Statutes (Minor Amendments) Act 2017 s. 12 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Reprint 10: The Sentencing Act 1995 as at 8 Dec 2017 (includes amendments listed above)
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 2 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
-Family Violence Legislation Reform Act 2020 s. 31 | 30 of 2020 | 9 Jul 2020 | 10 Jul 2020 (see s. 2(1)(b))
+Family Violence Legislation Reform Act 2020 Pt. 3 (other than s. 13 to 30) | 30 of 2020 | 9 Jul 2020 | s. 31: 10 Jul 2020 (see s. 2(1)(b)); Pt. 3 (other than s. 13 to 31): 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(ii))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -91,8 +91,8 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
  | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
  | Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 8 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
- | High Risk Serious Offenders Act 2020 s. 120 and 121 | 29 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
- | Family Violence Legislation Reform Act 2020 Pt. 3 (other than s. 31) | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+ | High Risk Serious Offenders Act 2020 s. 120 and 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+ | Family Violence Legislation Reform Act 2020 s. 13 to 30 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(i))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
