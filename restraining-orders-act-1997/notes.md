@@ -30,11 +30,12 @@ Domestic Violence Orders (National Recognition) Act 2017 Pt. 7 | 10 of 2017 | 8 
 Reprint 5: The Restraining Orders Act 1997 as at 12 Jan 2018 (includes amendments listed above)
 Criminal Law Amendment (Intimate Images) Act 2019Pt. 3 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 5 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
+Family Violence Legislation Reform Act 2020 Pt. 6 (other than s. 52, 55, 56, 58, 59, 63, 64, 72, 76, 77 and 82) | 30 of 2020 | 9 Jul 2020 | 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(iv))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Family Violence Legislation Reform Act 2020 Pt. 6 | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Family Violence Legislation Reform Act 2020 s. 52, 55, 56, 58, 59, 63, 64, 72, 76, 77 and 82 | 30 of 2020 | 9 Jul 2020 | s. 77: 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i)); s. 52, 55, 56, 58, 59, 63, 64, 72, 76 and 82: 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iii))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 18 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
@@ -87,7 +88,6 @@ fix a hearing3(1)
 foreign restraining order3(1)
 FVRO3(2)
 imagined personal relationship3(1)
-inform the court66(1)
 interested party70A(1)
 interim order3(1)
 interstate order74
@@ -107,18 +107,19 @@ police order3(1)
 prepare and serve3(1)
 prescribed form3(1)
 prescribed information70A(1)
-previous offences61A(2)
+previous relevant offences61A(2)
 prisoner16A(1)
 proceeding10I
 proceedings under this Act3(1)
 property3(1)
 protected person61B(1)
 Public Advocate3(1)
+qualifying relevant offence61A(2)
 registered3(1)
 registered order74
 registrar3(1), 74
 related4(2)
-relevant offence61A(2)
+relevant offence61A(1)
 remote communication62D(8)
 representation44A(3), 53E(4)
 respondent3(1), 31A, 43A(1)
