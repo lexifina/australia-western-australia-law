@@ -1,11 +1,66 @@
 Notes
-This is a compilation of the Iron Ore Processing (Mineralogy Pty. Ltd.) Agreement Act 2002 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Iron Ore Processing (Mineralogy Pty. Ltd.) Agreement Act 2002 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Iron Ore Processing (Mineralogy Pty. Ltd.) Agreement Act 2002 | 26 of 2002 | 24 Sep 2002 | 24 Sep 2002 (see s. 2)
 Iron Ore Processing (Mineralogy Pty. Ltd.) Agreement Amendment Act 2008 | 48 of 2008 | 10 Dec 2008 | s. 1 and 2: 10 Dec 2008 (see s. 2(a)); Act other than s. 1 and 2: 11 Dec 2008 (see s. 2(b))
+Iron Ore Processing (Mineralogy Pty. Ltd.) Agreement Amendment Act 2020 | 32 of 2020 | 13 Aug 2020 | 13 Aug 2020 (see s. 2)
+Other notes
+The Iron Ore Processing (Mineralogy Pty. Ltd.) Agreement Amendment Bill 2020 was introduced into the Legislative Assembly on 11 August 2020.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+adjudicator7(1)
+Agreement7(1)
+amending Act7(1)
+applicable provision26(1)
+arbitration agreement7(1)
+arrangement7(1)
+Balmoral South Iron Ore Project7(1)
+civil wrong7(1)
+commencement7(1)
+Commonwealth16(1), 24(1)
+Commonwealth agent16(1), 24(1)
+Commonwealth authority16(1), 24(1)
+conduct7(1)
+connected with7(1), (2) and (3)
+disputed matter7(1)
+document7(1)
+first Balmoral South proposal7(1)
+indemnify7(1)
+indemnity16(1), 24(1)
+International Minerals7(1)
+introduction time7(1)
+legal costs7(1)
+liability7(1)
+loss7(1), 14(1), 22(1)
+matter A7(2)
+matter B7(2)
+Mineralogy7(1)
+Mr Palmer7(1)
+non-WA liability7(1)
+non-WA proceedings7(1)
+non-WA right14(1), 22(1)
+Part 3 subsidiary legislation7(1)
+person A14(3), 22(3)
+pre-agreement State conduct7(1)
+proceedings7(1)
+Project Proponents7(1)
+protected matter7(1)
+protected proceedings14(1), 15(1), 22(1), 23(1)
+relevant arbitration7(1)
+relevant arbitration arrangement7(1)
+relevant mediation arrangement7(1)
+relevant person14(1) and (2), 15(1), 22(1) and (2), 23(1)
+relevant time18(2)
+relevant transferee14(1) and (3), 22(1), 22(3)
+respondent28(1)
+right14(1), 15(1), 22(1), 23(1)
+second Balmoral South proposal7(1)
+State7(1), 14(1), 15(1), 22(1), 23(1)
+State agent7(1)
+State authority7(1)
+terminated arbitration arrangement26(1)
 the Agreement3
+transfer14(1), 22(1)
 variation agreement3
