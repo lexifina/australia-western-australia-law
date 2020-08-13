@@ -1,5 +1,6 @@
 ## Schedule 2 — Variation agreement
-[s. 3]
+[s. 3 and 7]
+[Heading amended: No. 32 of 2020 s. 9.]
 2008
 THE HONOURABLE COLIN JAMES BARNETT
 PREMIER OF THE STATE OF WESTERN AUSTRALIA
