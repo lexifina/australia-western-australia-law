@@ -78,6 +78,7 @@ Environmental Protection (Plastic Bags) Regulations 2018 Pt. 3 | 12 Jun 2018 p. 
 Environmental Protection (Solid Fuel Heater and Firewood) Regulations 2018 Pt. 5 Div. 2 | 31 Aug 2018 p. 3093-107 | 1 Sep 2018 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 3) 2018 | 16 Oct 2018 p. 4093 | r. 1 and 2: 16 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2018 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 2) 2020 | SL 2020/114 7 Jul 2020 | r. 1 and 2: 7 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Jul 2020 (see r. 2(b))
+Environmental Protection Amendment Regulations 2020 | SL 2020/134 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
@@ -90,6 +91,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 actual discharge5H(2)
+aggregation pointSch. 1
 approved21(1)
 approved monitoring equipment17
 approved site11(1)
@@ -106,8 +108,10 @@ exempt matter2B(1)
 exemption period21(1)
 existing landfill26(8)
 existing licensee21(1)
+existing petroleum authority area2C(1)
 Fund21(1)
 head office2AA
+hydraulic fracturing2C(1)
 Landfill Waste Classification and Waste Definitions 19962AA
 length16(4)
 levy21(1)
@@ -122,7 +126,10 @@ minute2B(1)
 organotin anti-fouling paint16(4)
 Part 2 waste5D(6)
 payer5N
+petroleum activity2C(1)
+PGER Environment Regulations2C(1)
 quarterly survey26(4)
+refund pointSch. 1
 return period21(1)
 semi-enclosed water body16(4)
 specified31(3)
