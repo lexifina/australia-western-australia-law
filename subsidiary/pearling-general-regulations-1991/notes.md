@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Pearling (General) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pearling (General) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Pearling (General) Regulations 1991 | 27 Dec 1990 p. 6335-66 (erratum 11 Jan 1991 p. 47-8) | 1 Jan 1991 (see r. 2 and Gazette 21 Dec 1990 p. 6199)
 Pearling (General) Amendment Regulations 1991 | 26 Apr 1991 p. 1864 | 26 Apr 1991
 Pearling (General) Amendment Regulations 1992 | 30 Jun 1992 p. 2873-4 | 1 Jul 1992 (see r. 2)
@@ -24,6 +24,7 @@ Pearling (General) Amendment Regulations (No. 2) 2011 | 29 Apr 2011 p. 1523 | r.
 Reprint 3: The Pearling (General) Regulations 1991 as at 26 Aug 2011 (includes amendments listed above)
 Pearling (General) Amendment Regulations 2013 | 24 Sep 2013 p. 4386-7 | r. 1 and 2: 24 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2013 (see r. 2(b))
 Fisheries Regulations Amendment (Fees) Regulations 2017 Pt. 3 | 7 Jul 2017 p. 3695-7 | 8 Jul 2017 (see r. 2(b))
+Pearling (General) Amendment Regulations 2020 | SL 2020/129 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
