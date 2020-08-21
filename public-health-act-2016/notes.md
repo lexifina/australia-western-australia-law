@@ -11,6 +11,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1, and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
+Public Health Amendment (COVID-19 Response) Act 2020 s. 3-16 | 33 of 2020 | 21 Aug 2020 | To be proclaimed (see s. 2(1)(b) and (2))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
