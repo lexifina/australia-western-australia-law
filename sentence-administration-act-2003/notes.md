@@ -22,11 +22,11 @@ Sentence Administration Amendment Act 2018 | 2 of 2018 | 23 Mar 2018 | s. 1 and 
 Reprint 3: The Sentence Administration Act 2003 as at 1 Jun 2018 (includes amendments listed above)
 Sentence Administration Amendment (Multiple Murderers) Act 2018 | 42 of 2018 | 12 Dec 2018 | s. 1 and 2: 12 Dec 2018 (see s. 2(a)); Act other than s. 1 and 2: 13 Dec 2018 (see s. 2(b))
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 3 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
+High Risk Serious Offenders Act 2020 Pt. 9 Div. 4 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 7 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
-High Risk Serious Offenders Act 2020 Pt. 9 Div. 4 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Family Violence Legislation Reform Act 2020 Pt. 4 | 30 of 2020 | 9 Jul 2020 | Pt. 4 (other than s. 37): 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(ii)); s. 37: to be proclaimed (see s. 2(1)(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -83,6 +83,7 @@ CEO4(2)
 combined report12B(1)
 commencement123
 commencement day129(1)
+community4(2)
 community corrections activities4(2)
 community corrections centre4(2)
 community corrections officer4(2)
@@ -95,10 +96,12 @@ departmental staff4(2)
 designated prisoner14B
 early release order4(2)
 first relevant offence14B
-first report12B(1)
+first report12B(1), 12B(1)
 fixed term7(1)
 former Division129(1)
 former transitional provisions123
+further offence74K(1)
+further term74K(1)
 Governor’s pleasure detainee4(2)
 homicide offence66A
 homicide related offence66A
@@ -136,8 +139,8 @@ reviewable decision115A(1)
 RRO4(3)
 Schedule 3 prisoner4(2)
 sentence4(2)
-serious offence4(2)
-serious violent offence74A
+serious offence4(2), 74A
+serious offender under restriction74A
 service provider97B(1)
 supervised offender4(2), 74E(1)
 T69(6)

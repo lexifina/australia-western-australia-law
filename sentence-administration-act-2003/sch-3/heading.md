@@ -27,3 +27,4 @@ Item No. | Description of prisoner | First report due | Subsequent reports due
 14. | A person subject to a direction or sentence under The Criminal Code section 661 or 662 (repealed by the Sentencing (Consequential Provisions) Act 1995 section 26) | For section 661 — 2 years after the day on which the detention began For section 662 — one year after the day on which the detention began | Every year after that
 15. | A person in, or regarded as being in, strict or safe custody by virtue of an order under The Criminal Code section 282 (repealed by the Criminal Law Amendment (Homicide) Act 2008 section 10) | One year after the day on which the detention began | Every year after that
 [Division 2 inserted: No. 45 of 2016 s. 15.]
+[Schedule 4 deleted: No. 29 of 2020 s. 116.]

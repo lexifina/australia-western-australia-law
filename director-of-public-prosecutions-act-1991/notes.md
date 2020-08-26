@@ -20,11 +20,11 @@ Legal Profession Act 2008 s. 659 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Acts Amendment (Bankruptcy) Act 2009 s. 31 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 3: The Director of Public Prosecutions Act 1991 as at 4 Nov 2011 (includes amendments listed above)
+High Risk Serious Offenders Act 2020 s. 118 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 39(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-High Risk Serious Offenders Act 2020 s. 118 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 12(3) reads as follows:
