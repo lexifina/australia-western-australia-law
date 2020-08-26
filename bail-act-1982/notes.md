@@ -68,10 +68,10 @@ Dangerous Sexual Offenders Legislation Amendment Act 2017 Pt. 2 | 21 of 2017 | 1
 Bail Amendment (Persons Linked to Terrorism) Act 2019 | 15 of 2019 | 5 Jul 2019 | s. 1 and 2: 5 Jul 2019 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2020 (see 2(b) and Gazette 15 Nov 2019 p. 4029)
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 4 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
 Family Violence Legislation Reform Act 2020 Pt. 5 (but only s. 38, 42, 44, 45 and 49) | 30 of 2020 | 9 Jul 2020 | 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(iii))
+High Risk Serious Offenders Act 2020 s. 117 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-High Risk Serious Offenders Act 2020 s. 117 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Family Violence Legislation Reform Act 2020 Pt. 5 (other than s. 38, 42, 44, 45 and 49) | 30 of 2020 | 9 Jul 2020 | s. 50: 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i)); s. 39-41, 43 and 46-48: 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iii))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.

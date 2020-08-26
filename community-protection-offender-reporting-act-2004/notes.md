@@ -15,106 +15,109 @@ Community Protection (Offender Reporting) Amendment Act (No. 2) 2012 Pt. 2 (s. 3
 Reprint 2: The Community Protection (Offender Reporting) Act 2004 as at 5 Dec 2014 (includes amendments listed above)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 10 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 3 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
+High Risk Serious Offenders Act 2020 Pt. 9 Div. 1 and s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 (as amended by No. 29 of 2008 s. 25(4)) | 8 Dec 2004 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-High Risk Serious Offenders Act 2020 Pt. 9 Div. 1 and s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 5 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. This reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+animosity towards85L(1)
+application110A(1)
 approved place3
 authorised person3
+authorised police officer85
+change of name application80A
 child3
+child protection order85
 Class 1 offence3
 Class 2 offence3
 Class 3 offence3
 commencement day3
 Commissioner3
 community order3
+computer94C(1)
+conduct85
 corresponding Act3
 corresponding offender reporting order3
+corresponding protection order85
 corresponding registrar3
 corresponding reportable offence3
 corresponding reportable offender3
 court3, 14, 68(1), 85
+court record17(4), 86(4)
+Department of Corrective Services85G(1)
 detainee3
 disability3
+display85M(1)
+distribute85M(1)
 existing controlled reportable offender3
 existing licensee3
+existing order90(4)
+family order107(1)
 finding of guilt3
 foreign jurisdiction3
 foreign witness protection law3
+generally resides94C(1)
 government custody3
+harassment85L(1)
+HRO supervision order85A
+identified offender85L(1)
+identifying information85I(1), 85M(1)
+in person5(2)
+information85K(1)
+interim protection order85
+Internet carriage service26(1a)
+Internet service provider26(1a)
+interstate Registrar80A
+law enforcement agency81(3)
+locality85A
+management110A(1)
 mentally impaired accused3
+new order90(4)
 New South Wales Act3
 New South Wales reportable offender3
 offender reporting order3
 parole3
+past offender19(1), 20A(1)
 past offender reporting order3
 personal details3, 85F(1)
 personal information3
+photograph85G(1)
+prescribed offence85G(1)
 prisoner3
 protection order3, 85
 public authority3
+public place85L(1)
+publish85A, 85M(1)
+recognised foreign reporting period49(1)
 Register3
+registrar14, 85
+Registration Act80A
+Registration Act Register80F(1)
+relevant authority54(1)
+relevant day115A(1), 115B(1)
+relevant offence115A(1), 115B(1)
+reportable information84(1)
 reportable offence3
 reportable offender3
 reporting obligations3
+reporting order14
 reporting period3
+respondent14, 85
+restraining order107(1)
+senior police officer94C(1)
 sentence3
+serious sexual offence85A
+specified113(1)
+specified person85J(1)
 strict government custody3
 supervising authority3
-young reportable offender3
-in person5(2)
-registrar14, 85
-reporting order14
-respondent14, 85
-court record17(4), 86(4)
-past offender19(1), 20A(1)
-Internet carriage service26(1a)
-Internet service provider26(1a)
-recognised foreign reporting period49(1)
-relevant authority54(1)
-witness protection program74
-change of name application80A
-interstate Registrar80A
-Registration Act80A
 WA Registrar80A
-Registration Act Register80F(1)
-law enforcement agency81(3)
-reportable information84(1)
-DSO supervision order85A
-locality85A
-publish85A, 85M(1)
-Department of Corrective Services85G(1)
-photograph85G(1)
-prescribed offence85G(1)
-identifying information85I(1), 85M(1)
-specified person85J(1)
-information85K(1)
-animosity towards85L(1)
-harassment85L(1)
-identified offender85L(1)
-public place85L(1)
-display85M(1)
-distribute85M(1)
-authorised police officer85
-child protection order85
-conduct85
-corresponding protection order85
-interim protection order85
-new order90(4)
-existing order90(4)
-computer94C(1)
-generally resides94C(1)
-senior police officer94C(1)
-family order107(1)
-restraining order107(1)
-application110A(1)
-management110A(1)
-specified113(1)
+witness protection program74
+young reportable offender3
