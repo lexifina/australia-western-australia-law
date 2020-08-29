@@ -31,10 +31,11 @@ Magistrates Court Rules Amendment (Inactive Cases) Rules 2019 Pt. 2 | 5 Apr 2019
 Magistrates Court (Civil Proceedings) Amendment Rules 2020 | SL 2020/37 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Rules other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2020 | SL 2020/54 5 May 2020 | r. 1 and 2: 5 May 2020 (see r. 2(a)); Rules other than r. 1, 2 and 10(b): 6 May 2020 (see r. 2(c)); r. 10(b): 23 May 2020 (see r. 2(b) and SL 2020/63)
 Magistrates Court Rules Amendment Rules 2020 Pt. 2 | SL 2020/67 28 May 2020 | 1 Jun 2020 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2020 | SL 2020/141 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); Rules other than r. 1 and 2: 29 Aug 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Act4, 131B(1), 133AAA
+Act4, 131B(1), 131CAA, 133AAA
 administrative staff member99A
 amended Rules139
 applicant133AAD(1)
@@ -44,6 +45,7 @@ approved user4
 child116
 claimant65(1), 94A
 commencement day139
+conference131CAB(1)
 conferring Act123
 counterclaim4
 default judgment4
@@ -73,7 +75,7 @@ represented person116
 requesting party38(2)
 respondent131B(3)
 response4
-section131B(1), 133AAA
+section131B(1), 131CAA, 133AAA
 serve4
 serve personally4
 status conference4
