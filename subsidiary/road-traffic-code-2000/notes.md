@@ -66,10 +66,7 @@ Road Traffic Code Amendment Regulations (No. 8) 2017 | 5 Jan 2018 p. 9-10 | r. 1
 Road Traffic Code Amendment Regulations 2018 | 15 May 2018 p. 1531-6 | r. 1 and 2: 15 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2018 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2019 | 28 Jun 2019 p. 2488-9 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Road Traffic Code Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4686 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Road Traffic Code Amendment Regulations 2020 r. 3 and 4 | SL 2020/87 26 Jun 2020 | 1 Sep 2020 (see r. 2(b))
+Road Traffic Code Amendment Regulations 2020 | SL 2020/87 26 Jun 2020 | r. 1 and 2: 26 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2020 (see r. 2(b))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
@@ -92,6 +89,7 @@ appropriate vehicle230B(2)
 arrester bed91A(1)
 articulated vehicle3(1)
 AS/NZS:1754-1995230
+audio call265(1)
 authorised body3(1)
 authorised person3(1)
 average speed detection system18A(1)
@@ -216,6 +214,7 @@ public bus3(1), 59(2)
 rear fog light3(1)
 relevant time230
 required time141(2)
+restricted area265(1A)
 rider3(1)
 right lane26(3), 113(1)
 right turn signal91(1)
@@ -272,7 +271,7 @@ turn line3(1)
 turning lane3(1)
 turning left34(1)
 turning left from the continuing road into the terminating road56(7)
-turning right34(2), 34(3)
+turning right34(2) and (3)
 turning right from the continuing road into the terminating road56(7)
 two-up driver230
 two-way carriageway3(1)
@@ -280,7 +279,7 @@ U turn3(1)
 unattended141(2), 163(2)
 unrestrained235A(1)
 use265(1)
-vehicle3(1), 110(2), 110(3)
+vehicle3(1), 110(2) and (3)
 Vehicle Standards3(1)
 weekend3(1)
 wheeled recreational device3(1)
