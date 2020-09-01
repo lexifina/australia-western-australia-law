@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Children and Community Services Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Children and Community Services Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Children and Community Services Regulations 2006 | 18 Jan 2006 p. 353-72 | 1 Mar 2006 (see r. 2 and Gazette 14 Feb 2006 p. 695)
 Children and Community Services Amendment Regulations 2006 | 1 Mar 2006 p. 927-9 | 1 Mar 2006
 Children and Community Services Amendment Regulations (No. 2) 2006 | 18 Aug 2006 p. 3367-8 | 18 Aug 2006
@@ -25,6 +25,8 @@ Reprint 3: The Children and Community Services Regulations 2006 as at 2 Sep 2016
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2017 Pt. 3 | 23 Jun 2017 p. 3174-5 | 1 Jul 2017 (see r. 2(b))
 Children and Community Services Amendment Regulations 2018 | 22 Jun 2018 p. 2178-80 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2019 Pt. 3 | 28 Jun 2019 p. 2477-9 | 1 Jul 2019 (see r. 2(b))
+Children and Community Services Amendment Regulations 2020 | SL 2020/142 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2020 (see r. 2(b))
+Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
 Defined terms
