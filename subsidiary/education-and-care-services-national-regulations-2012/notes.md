@@ -1,20 +1,25 @@
 Notes
-This is a compilation of the Education and Care Services National Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Education and Care Services National Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
- | Education and Care Services National Regulations 2012 | 25 Jul 2012 p. 3417-660 | r. 1 and 3: 25 Jul 2012 (see r. 3(a)); Regulations other than r. 1 and 3: 1 Aug 2012 (see r. 3(b) and Gazette 25 Jul 2012 p. 3411)
- | Education and Care Services National Amendment Regulations 2012 | 5 Mar 2013 p. 1107-9 | r. 1 and 2: 5 Mar 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2013 (see r. 2(b))
- | Education and Care Services National Amendment Regulations 2013 | 13 Dec 2013 p. 6151-70 | r. 1 and 2: 13 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2013 (see r. 2(b))
- | Education and Care Services National Amendment Regulations 2014 | 6 Jun 2014 p. 1787-8 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jun 2014 (see r. 2(b))
- | Reprint 1: The Education and Care Services National Regulations 2012 as at 19 Sep 2014 (includes amendments listed above)
- | Education and Care Services National Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4401-11 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2014 (see r. 2(b))
- | Education and Care Services National Amendment Regulations 2015 | 26 Jun 2015 p. 2272 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
- | Education and Care Services National Amendment Regulations (No. 2) 2015 | 3 Jul 2015 p. 2667-8 | r. 1 and 2: 3 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2015 (see r. 2(b))
- | Education and Care Services National Amendment Regulations 2017 | 3 Nov 2017 p. 5481-5 | r. 1 and 2: 3 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2017 (see r. 2(b))
- | Education and Care Services National Amendment Regulations 2018 | 23 Jan 2018 p. 247-58 | 1 Feb 2018 (see r. 2(b)(i))
- | Education and Care Services National Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2358-9 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
- | Education and Care Services National Amendment Regulations (No. 3) 2018 | 28 Sep 2018 p. 3601-58 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
- | Education and Care Services National Amendment Regulations 2019 | 24 Dec 2019 p. 4422-8 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2 and 16(2), (3) and (4): 31 Dec 2019 (see r. 2(c)); r. 16(2), (3) and (4): 1 Jul 2020 (see r. 2(b))
+Education and Care Services National Regulations 2012 | 25 Jul 2012 p. 3417-660 | r. 1 and 3: 25 Jul 2012 (see r. 3(a)); Regulations other than r. 1 and 3: 1 Aug 2012 (see r. 3(b) and Gazette 25 Jul 2012 p. 3411)
+Education and Care Services National Amendment Regulations 2012 | 5 Mar 2013 p. 1107-9 | r. 1 and 2: 5 Mar 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2013 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2013 | 13 Dec 2013 p. 6151-70 | r. 1 and 2: 13 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2013 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2014 | 6 Jun 2014 p. 1787-8 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jun 2014 (see r. 2(b))
+Reprint 1: The Education and Care Services National Regulations 2012 as at 19 Sep 2014 (includes amendments listed above)
+Education and Care Services National Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4401-11 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2014 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2015 | 26 Jun 2015 p. 2272 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
+Education and Care Services National Amendment Regulations (No. 2) 2015 | 3 Jul 2015 p. 2667-8 | r. 1 and 2: 3 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2015 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2017 | 3 Nov 2017 p. 5481-5 | r. 1 and 2: 3 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2017 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2018 | 23 Jan 2018 p. 247-58 | 1 Feb 2018 (see r. 2(b)(i))
+Education and Care Services National Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2358-9 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
+Education and Care Services National Amendment Regulations (No. 3) 2018 | 28 Sep 2018 p. 3601-58 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2019 | 24 Dec 2019 p. 4422-8 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2 and 16(2), (3) and (4): 31 Dec 2019 (see r. 2(c)); r. 16(2), (3) and (4): 1 Jul 2020 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2020 (other than r. 4, 6-9 and 11) | SL 2020/143 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); r. 3, 5 and 10: 1 Sep 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Education and Care Services National Amendment Regulations 2020 r. 4, 6-9 and 11 | SL 2020/143 28 Aug 2020 | 1 Oct 2020 (see r. 2(c))
 Other notes
 The short title of this Act was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
 Defined terms

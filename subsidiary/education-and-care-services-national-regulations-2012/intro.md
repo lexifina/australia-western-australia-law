@@ -1,5 +1,3 @@
-Western Australia
-Education and Care Services National Law (Western Australia)
 Education and Care Services National Regulations 2012
 ## Chapter 1 — Preliminary
 Guide to Chapter 1.
