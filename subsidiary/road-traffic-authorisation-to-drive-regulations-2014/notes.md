@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Authorisation to Drive) Regulations 2014 | 23 Dec 2014 p. 5011-101 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -22,6 +22,10 @@ Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 20
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 3 | SL 2020/74 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Road Passenger Services) Regulations 2020 Pt. 3 | SL 2020/91 24 Jun 2020 | 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2)
 Transport Regulations Amendment (Document Replacement) Regulations 2020 Pt. 2 | SL 2020/123 28 Jul 2020 | 29 Jul 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Traffic Regulations Amendment (Radar Detectors) Regulations 2020 Pt. 3 | SL 2020/150 1 Sep 2020 | 12 Oct 2020 (see r. 2(b) and SL 2020/148 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
