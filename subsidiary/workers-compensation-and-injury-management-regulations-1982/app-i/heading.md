@@ -786,17 +786,17 @@ ______________________________________________________________________
 Form 15A
 [r. 12(4)]
 Workers’ Compensation and Injury Management Act 1981
-NOTICE OF MEMORANDUM HAVING BEEN RECEIVED
+NOTICE OF MEMORANDUM OF AGREEMENT HAVING BEEN RECEIVED
 Ref.
 TAKE NOTICE
-1.That a Memorandum, copy of which is hereto annexed, has been sent to me for registration. The Memorandum appears to affect you.
+1.That a Memorandum of Agreement has been sent to me for registration. The Memorandum appears to affect you.
 2.I therefore request you to inform me within 7 days from this date whether you admit the genuineness of the Memorandum, or whether you dispute it, and if so, in what particulars, or object to its being recorded, and if so, on what ground.
 3.If the Memorandum is recorded it is enforceable as an award or order.
 4.If you have any doubts as to the effect of the agreement, or your rights to compensation generally you should contact me immediately.
 Dated this................ day of........................................ 20...............
 ...............................................................
 Director
-[Form 15A inserted: Gazette 18 Feb 1994 p. 663; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
+[Form 15A inserted: Gazette 18 Feb 1994 p. 663; amended: Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825; SL 2020/149 r. 9(1).]
 Form 15B
 [r. 12(5)]
 Workers’ Compensation and Injury Management Act 1981
@@ -835,15 +835,15 @@ Which occurred by:
 *a disease contracted by a worker in the course of his/her employment at or away from his/her place of employment and to which the employment was a contributing factor and contributed to a significant degree;
 *the recurrence, aggravation, or acceleration of any pre-existing disease where the employment was a contributing factor to that recurrence, aggravation, or acceleration and contributed to a significant degree; or
 *a disabling loss of function to which Part III Division 4 applies.
-2.When the disability occurred —
+2.When the injury occurred —
 (a)the worker was years of age.Date of Birth
 (b)the worker was employed by the employer as a
 (c)his or her weekly earnings were
-3.The nature of the disability was:
+3.The nature of the injury was:
 and now is:
 and it occurred in the following circumstances —
 4.The worker has received from the employer prior to the date of this Agreement:
-(a)weekly payments in respect of that disability totalling $
+(a)weekly payments in respect of that injury totalling $
 (b)expenses payable under the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clauses 9, 10, 17, 18, 18A and 19
 Totalling$
 =========
@@ -868,13 +868,11 @@ TOTAL LUMP SUM$
 =========
 6.The employer warrants that to the date of this Agreement it has paid all compensation due to the worker and all expenses in respect of the matters contained in the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clauses 9, 10, 17, 18, 18A and 19 (which includes medical and travelling) and, to the extent that these have not been paid, undertakes to pay them.
 7.The worker warrants that he/she is not aware of any expenses due but unpaid in respect of the matters contained in the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clauses 9, 10, 17, 18, 18A and 19.
-8.The worker hereby releases and forever discharges the employer from all claims and demands which the worker now has or, but for the execution of this agreement, could or might have had against the employer under the Act in any respect to the disability to the worker referred to in this Agreement.
+8.The worker hereby releases and forever discharges the employer from all claims and demands which the worker now has or, but for the execution of this agreement, could or might have had against the employer under the Act in any respect to the injury to the worker referred to in this Agreement.
 SIGNED by the worker:
-in the presence of:
 SIGNED by or on behalf of the employer:
-in the presence of-
 *Delete if not applicable.
-[Form 15C inserted: Gazette 15 Oct 1999 p. 4907-10; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929-31; 18 Nov 2011 p. 4825.]
+[Form 15C inserted: Gazette 15 Oct 1999 p. 4907-10; amended: Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929-31; 18 Nov 2011 p. 4825; SL 2020/149 r. 9(2).]
 Form 15D
 [r. 12(3a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1849,20 +1847,14 @@ Extension sought
 2.Specify date until which extension sought.
 Signature of worker | ________________________________ | Date | / /
 How to lodge this form
-1.This form should be lodged with:
- | Director WorkCover WA Perth, WA
-2.WHEN LODGING THIS FORM ALSO PROVIDE ANYTHING ELSE THAT REGULATION 23 REQUIRES YOU TO PROVIDE.
+1.This form should be lodged in accordance with regulation 57.
+2.WHEN LODGING THIS FORM ALSO LODGE ANYTHING ELSE THAT REGULATION 23 REQUIRES YOU TO LODGE.
 Extension given or refused
 The termination day
  | is extended to |  | / /
  | is not extended. | o
 Signature of Director |  | Date | / /
-Copies of extension sent to
-worker |  | Date | / /
- | (signature of person sending copy)
-employer |  | Date | / /
- | (signature of person sending copy)
-[Form 35 inserted: Gazette 28 Oct 2005 p. 4951-3; amended: Gazette 18 Nov 2011 p. 4825.]
+[Form 35 inserted: Gazette 28 Oct 2005 p. 4951-3; amended: Gazette 18 Nov 2011 p. 4825; SL 2020/149 r. 9(3).]
 Form 36
 [r. 25]
 Workers’ Compensation and Injury Management Act 1981
