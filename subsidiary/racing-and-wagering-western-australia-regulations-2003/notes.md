@@ -34,6 +34,7 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
 Racing and Gaming Regulations Amendment Regulations 2019 Pt. 3 | 25 Jan 2019 p. 202-3 | 1 Feb 2019 (see r. 2(b) and Gazette 25 Jan 2019 p. 193)
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
+Racing and Wagering Western Australia Amendment Regulations 2020 | SL 2020/152 4 Sep 2020 | r. 1 and 2: 4 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2020 (see r. 2(b))
 Other notes
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 5.Transitional provision
