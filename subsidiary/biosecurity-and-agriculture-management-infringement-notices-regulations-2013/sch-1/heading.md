@@ -180,3 +180,8 @@ Offences under Biosecurity and Agriculture Management (Quality Assurance and Acc
 r. 15(3) | Failing to return accreditation document | 100
 r. 17 | Contravening accreditation condition | 200
 r. 18(1) | Giving assurance certificate without authority | 400
+## Division 6 — Biosecurity and Agriculture Management (Agricultural Chemical Record Keeping) Regulations 2020
+[Heading inserted: SL 2020/130 r. 7.]
+Offence under Biosecurity and Agriculture Management (Agricultural Chemical Record Keeping) Regulations 2020 | Modified penalty $
+r. 4(1) | Failing to ensure record of use of agricultural chemical product is made no later than 7 days after the use and to keep record for 2 years | 400
+[Division 6 inserted: SL 2020/130 r. 7.]
