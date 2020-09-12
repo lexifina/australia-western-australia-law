@@ -7,11 +7,11 @@ Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 18 | 19 of 2016 | 2
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 28 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 117 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 Pt. 2 | 14 of 2019 | 5 Jul 2019 | s. 3: 5 Jul 2019 (see s. 2(a)); s. 4-12: 22 Jul 2019 (see s. 2(b) and Gazette 19 Jul 2019 p. 2841)
+Public Health Amendment (COVID-19 Response) Act 2020 | 33 of 2020 | 21 Aug 2020 | s. 1 and 2: 21 Aug 2020 (see s. 2(1)(a)); Act other than s. 1 and 2: 12 Sep 2020 (see s. 2(1)(b) and SL 2020/153 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1, and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
-Public Health Amendment (COVID-19 Response) Act 2020 s. 3-16 | 33 of 2020 | 21 Aug 2020 | To be proclaimed (see s. 2(1)(b) and (2))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -25,12 +25,12 @@ appropriate enforcement agency4(1)
 approved form4(1)
 Australian Immunisation Register141A
 authorisation154(1), 176(1), 181(1), 198(1)
-authorised officer4(1) and (2)
+authorised officer4(1), 4(2)
 CEO4(1)
 certificate of registration4(1)
 certificate requirement31(1)
 Chief Health Officer4(1)
-child99, 115, 132, 141A, 155, 177
+child99, 115, 132, 141A, 155, 177, 202G
 child care service4(1)
 class A26(1)
 code305(1)
@@ -69,10 +69,15 @@ exemption266
 exemption-holder266
 exposed person132
 general public health duty4(1)
+guardian202G
 guidelines299(1)
 harm4(1)
 Health Act307(1)
 health professional174(1)
+hotel 202G
+hotel-quarantined person202G
+IDEC declaration4(1), 202A(1)
+IDEC-directed person160(4), 187(4)
 identity card31(1)
 immunisation certificate141A
 immunisation status141A
@@ -99,6 +104,7 @@ nurse4(1)
 nurse practitioner4(1)
 officer4(1), 282(1), 299(1)
 order92(1), 129(1)
+parent202G
 person A26(1)
 person in charge141A
 personal details4(1)
@@ -117,6 +123,7 @@ public health risk4(1)
 public health risk activity4(1)
 public health state of emergency4(1)
 public health state of emergency declaration4(1)
+quarantine direction4(1)
 reasonably suspects239
 record244(1)
 relative99, 115, 132, 155, 177
