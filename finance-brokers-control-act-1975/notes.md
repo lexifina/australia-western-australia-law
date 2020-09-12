@@ -31,6 +31,7 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
  | Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 22 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
  | Reprint 5: The Finance Brokers Control Act 1975 as at 7 Aug 2015 (includes amendments listed above)
+ | COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 98 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

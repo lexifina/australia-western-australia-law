@@ -5,6 +5,7 @@
 (a) the form of statements;
 (b) information to be included in the statements; and
 (c) reports to be annexed to the statements.
+1A.Providing for notices, reports, approvals or other documents to be given, sent or served under this Act by electronic communication (as defined in the Electronic Transactions Act 2011 section 5(1)) and providing for the proof of that giving, sending or service.
 2.The fees to apply under this Act including, without limiting sections 43 and 45 of the Interpretation Act 1984, the following —
 (a) the time at which, or the periods for or during which, fees are to be paid;
 (b) the structure of fees;
@@ -17,6 +18,7 @@
 4.The procedure for applying to the committee to make a decision as to responsibility for remediation, including the information that may be required by the committee, responsibility for the cost of supplying any information and the carrying out of any investigations to provide information.
 5.Procedures regarding access to the database and records under sections 19 and 21.
 6.Prescribing procedures in respect of appeals under Part 8 Division 2.
+[Division 1 amended: No. 34 of 2020 s. 63.]
 ## Division 2 — Auditors and audits
 7.Conferring duties on auditors.
 8.A scheme for the accreditation of auditors and, without limiting the generality of that scheme —

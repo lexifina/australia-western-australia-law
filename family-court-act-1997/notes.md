@@ -26,6 +26,7 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 7 | 46 of 2009 | 3 Dec 2009 
 Family Court Amendment (Family Violence and Other Measures) Act 2013 | 13 of 2013 | 4 Oct 2013 | Pt. 1: 4 Oct 2013 (see s. 2(a)); Act other than Pt. 1: 5 Oct 2013 (see s. 2(b))
 Reprint 4: The Family Court Act 1997 as at 14 Mar 2014 (includes amendments listed above)
 Child Support (Commonwealth Powers) Act 2019 Pt. 3 | 7 of 2019 | 15 May 2019 | 15 May 2019 (see s. 2)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 59 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

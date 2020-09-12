@@ -80,11 +80,12 @@ Land Legislation Amendment Act 2015 Pt. 5 | 11 of 2015 | 29 Apr 2015 | 30 Jun 20
 Land Legislation Amendment (Taxing) Act 2015 Pt. 4 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Reprint 11: The Transfer of Land Act 1893 as at 8 Jan 2016 (includes amendments listed above)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 23 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 102 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
-Community Titles Act 2018 Pt. 14 Div. 23 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 23 | 32 of 2018 | 19 Nov 2018 | Pt. 14 Div. 23 (other than s. 253): 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2); s. 253: to be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.

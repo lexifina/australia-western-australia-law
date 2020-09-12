@@ -41,6 +41,7 @@ Short title | Number and year | Assent | Commencement
  | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 35 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
  | Consumer Protection Legislation Amendment Act 2014 Pt. 7 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
  | Licensing Provisions Amendment Act 2016 Pt. 6 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 27 Jun 2017 p. 3407)
+ | COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 100 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

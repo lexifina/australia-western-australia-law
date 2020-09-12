@@ -23,6 +23,7 @@ Reprint 3: The Sentence Administration Act 2003 as at 1 Jun 2018 (includes amend
 Sentence Administration Amendment (Multiple Murderers) Act 2018 | 42 of 2018 | 12 Dec 2018 | s. 1 and 2: 12 Dec 2018 (see s. 2(a)); Act other than s. 1 and 2: 13 Dec 2018 (see s. 2(b))
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 3 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
 High Risk Serious Offenders Act 2020 Pt. 9 Div. 4 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 61 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

@@ -24,6 +24,7 @@ Reprint 4: The Land Valuers Licensing Act 1978 as at 14 Oct 2011 (includes amend
 Consumer Protection Legislation Amendment Act 2014 Pt. 5 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Licensing Provisions Amendment Act 2016 Pt. 4 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
 Consumer Protection Legislation Amendment Act 2019 Pt. 7 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 99 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Other notes
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.

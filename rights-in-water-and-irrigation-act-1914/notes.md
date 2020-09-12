@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rights in Water and Irrigation Act 1914 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rights in Water and Irrigation Act 1914 | 19 of 1914 (5 Geo. V No. 19) | 22 Sep 1914 | 22 Sep 1914
@@ -59,6 +59,9 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 201
 Commercial Arbitration Act 2012 s. 45 it. 18 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(1) and Gazette 6 Aug 2013 p. 3677)
 Reprint 9: The Rights in Water and Irrigation Act 1914 as at 9 Nov 2012 (includes amendments listed above except those in the Commercial Arbitration Act 2012)
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 5 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 3 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Other notes
+Footnote no longer applicable.
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
 Repealed by the Water Resources Legislation Amendment Act 2007.

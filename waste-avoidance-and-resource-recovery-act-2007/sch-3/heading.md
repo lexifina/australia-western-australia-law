@@ -3,10 +3,12 @@
 ## Division 1 — General
 1.Providing for the form and content of any notice.
 2.Providing for the keeping, inspection and production of reports, records, returns, registers and other information.
+2A.Without limiting item 1 or 2, providing for notices, directions or other documents to be given, sent or served under this Act by electronic communication (as defined in the Electronic Transactions Act 2011 section 5(1)) and providing for the proof of that giving, sending or service.
 3.Providing for the imposition of fees and charges.
 4.Providing for the recovery of expenses incurred by the CEO or a local government.
 5.Prescribing offences under the regulations and penalties for the commission of those offences not exceeding $10 000, with or without a daily penalty of not more than $1 000.
 6.Providing for review by the State Administrative Tribunal of decisions made under the regulations.
+[Division 1 amended: No. 34 of 2020 s. 76.]
 ## Division 2 — Waste collection and facilities
 7.Regulating the operation of waste facilities, and the treatment, storage, processing, recycling or disposal of waste at waste facilities.
 8.Regulating the use of receptacles for waste.

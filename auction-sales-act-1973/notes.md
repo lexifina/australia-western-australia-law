@@ -24,6 +24,7 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 1 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Licensing Provisions Amendment Act 2016 Pt. 2 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 27 Jun 2017 p. 3407)
 Consumer Protection Legislation Amendment Act 2019 Pt. 2 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 95 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
