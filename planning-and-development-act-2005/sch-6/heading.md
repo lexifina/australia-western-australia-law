@@ -5,7 +5,7 @@ Item | Purpose
 2. | Civic and cultural amenity
 3. | Commonwealth Government
 4. | Cultural heritage conservation
-5. | Highways and important regional roads
+5. | Highways, important regional roads and other roads that are necessary because of highways or important regional roads
 6. | Hospitals
 7. | Parks and recreation areas
 8. | Port installations
@@ -20,3 +20,5 @@ Item | Purpose
 17. | Water catchments
 18. | Water services, including sewerage and drainage
 19. | Waterways
+20. | Public transport
+[Schedule 6 amended: No. 26 of 2020 s. 103.]
