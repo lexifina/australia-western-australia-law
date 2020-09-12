@@ -27,11 +27,12 @@ Reprint 3: The Coroners Act 1996 as at 7 Nov 2014 (includes amendments listed ab
 Alcohol and Drug Authority Amendment Act 2015 s. 15 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 83 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Coroners Amendment Act 2018 | 23 of 2018 | 21 Sep 2018 | s. 1 and 2: 21 Sep 2018 (see s. 2(a)); Act other than s. 1 and 2: 22 Sep 2018 (see s. 2(b))
+COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 54 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Voluntary Assisted Dying Act 2019 Pt. 12 Div. 2 | 27 of 2019 | 19 Dec 2019 | To be proclaimed (see s 2(b))
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 2 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s 2(b) and SL 2021/83 cl. 2)
 Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.

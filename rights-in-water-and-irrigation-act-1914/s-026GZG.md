@@ -12,10 +12,10 @@ and
 (b) the effect of subsection (4) and the period and the address or addresses referred to in that subsection.
 (4) Written submissions on the need for action to be taken under subsection (1) may be made by any body or person —
 (a) within the period determined by the Minister, which must be not less than 2 months after the day on which the notice under subsection (3) is published in the newspaper; and
-(b) by delivering or posting them, so that they are received within that period at an address designated by the Minister.
+(b) by giving them to the Minister, in a manner designated by the Minister, and so that they are received within that period.
 (4a) The Minister must advise the Water Resources Council of the Minister’s decision, and reasons, as to whether action needs to be taken in respect of a plan under subsection (1).
 (5) The Minister may —
 (a) correct any clerical mistake, error or inaccuracy in, or accidental omission from, a plan; or
 (b) replace any factual information set out in a plan if the information has become out of date.
 (6) Notice of any such correction or replacement must be published in the Gazette for public information.
-[Section 26GZG inserted: No. 49 of 2000 s. 44; amended: No. 38 of 2007 s. 67 and 101(1).]
+[Section 26GZG inserted: No. 49 of 2000 s. 44; amended: No. 38 of 2007 s. 67 and 101(1); No. 34 of 2020 s. 69.]

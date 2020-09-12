@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Agencies (Powers) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Agencies (Powers) Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Authority Act 1984 | 3 of 1984 | 18 May 1984 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
@@ -41,10 +41,10 @@ Building Act 2011 s. 175 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 6 | 25 of 2012 | 3 Sep 2012 | Pt. 6(other than s. 77(1), 82(1) and 83-85): 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028): s. 77(1), 82(1) and 83-85: 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 5: The Water Agencies (Powers) Act 1984 as at 17 Jan 2014 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 s. 77(1), 82(1) and 83-85 )
-Footnote no longer appliciable.
+COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 5 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Other notes
 Repealed by the Water Resources Legislation Amendment Act 2007 s. 189.
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Footnote no longer appliciable.
 The Acts Amendment (Water Authority Rates and Charges) Act 1987 s. 4 reads as follows:
 4.Application of Part
 The amendments effected by this part are of no effect in relation to the Land Drainage Act 1925 or the doing of anything under or for the purposes of that Act and the principal Act applies in relation thereto as if this Part had not been enacted.
@@ -55,9 +55,6 @@ The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1
 (b) in the case of rules, as if they were by-laws made under the principal Act as amended by this Act.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 20(2) reads as follows:
 (2) Any by-laws made or deemed to be made under section 34(1) of the principal Act as in force immediately before the commencement of this section are to continue in operation and have effect for all purposes as if made under that subsection as amended by this section.
-The Acts Amendment (Annual Valuations and Land Tax) Act 1993 s. 3 reads as follows:
-3.Application
-The amendments made by this Part have effect in relation to a rate or tax for any period commencing on or after 1 July 1993 but do not have any effect in relation to a rate or tax for any period commencing before that date.
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 s. 9 reads as follows:
 9.Application
 (1) The amendments made by section 10 apply only in relation to a charge in respect of a lot created through a subdivisional plan or diagram approved by the Western Australian Planning Commission after 30 June 1996.

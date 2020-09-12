@@ -112,6 +112,7 @@ Statutes (Minor Amendments) Act 2017 s. 9 | 6 of 2017 | 12 Sep 2017 | 13 Sep 201
 Reprint 17: The Evidence Act 1906 as at 22 Jun 2018 (includes amendments listed above)
 Family Violence Legislation Reform Act 2020 s. 95 | 30 of 2020 | 9 Jul 2020 | 10 Jul 2020 (see s. 2(1)(b))
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 4 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

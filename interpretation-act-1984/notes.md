@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Interpretation Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Interpretation Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Interpretation Act 1984 | 12 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2)
@@ -51,6 +51,8 @@ Public Sector Reform Act 2010 s. 78 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 7: The Interpretation Act 1984 as at 21 Jan 2011 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 27 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 19 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 5 Subdiv. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Other notes
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
 (1) Where an Act is not to come into operation immediately on the passing thereof, and confers power or will, upon its coming into operation, amend another Act so as to confer power under the other Act as so amended, to make any appointment, to hold any election, to make, grant or issue any instrument that is to say any proclamation, Order in Council, order, warrant, scheme, letters patent, rules, regulations, or by-laws, to give notices, to prescribe forms, or to do any other thing for the purposes of the Act, the power that is or will be conferred may, unless the Act otherwise provides, be exercised at any time after the passing of the first-mentioned Act but the exercise of the power does not confer a right or impose an obligation upon a person before the coming into operation of the first-mentioned Act except in so far as is necessary or expedient for the purpose of making the first-mentioned Act fully effective upon its coming into operation or the other Act fully effective when so amended.

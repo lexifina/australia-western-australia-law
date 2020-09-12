@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Administration Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Administration Act 1903 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Administration Act 1903 | 13 of 1903 (3 Edw. VII No. 13) | 31 Dec 1903 | 1 Jan 1904 (see s. 1)
@@ -34,7 +34,7 @@ Administration Act Amendment Act 1964 | 57 of 1964 (13 Eliz. II No. 57) | 30 Nov
 Administration Act Amendment Act 1965 | 78 of 1965 | 7 Dec 1965 | 7 Dec 1965
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Administration Act Amendment Act 1966 | 68 of 1966 | 12 Dec 1966 | 12 Dec 1966
-Rules (3rd Schedule) Revoked by Gazette 11 Sep 1967 p. 2249-64 | 11 Sep 1967
+Rules (3rd Schedule) Revoked: Gazette 11 Sep 1967 p. 2249-64 | 11 Sep 1967
 Reprint of the Administration Act 1903 approved 11 Sep 1967 in Volume 21 of Reprinted Acts (includes amendments listed above except Rules (3rd Schedule))
 Administration Act Amendment Act 1969 | 2 of 1969 | 21 Apr 1969 | 21 Apr 1969
 Acts Amendment (Commissioner of State Taxation) Act 1970 Pt. XII | 21 of 1970 | 8 May 1970 | 1 Jul 1970 (see s. 2 and Gazette 26 Jun 1970 p. 1831)
@@ -74,13 +74,14 @@ Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
  | Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 14 | 48 of 2011 | 25 Oct 2011 | 16 Jan 2013 (see s. 2(b) and Gazette 15 Jan 2013 p. 79)
  | Reprint 12: The Administration Act 1903 as at 15 Apr 2016 (includes amendments listed above)
  | Statutes (Minor Amendments) Act 2017 s. 3 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
+ | COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 53 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Other notes
 Repealed by section 2 of this Act.
 Part IV (Curator of Intestate Estates) as originally enacted, was repealed by the Curator of Intestate Estates Act 1918 (No. 9 of 1918). The Curator of Intestate Estates continued under the Curator of Intestate Estates Act 1918 and, on 1 July 1942, became the Public Trustee (see the Public Trustee Act 1941 s. 3).
 This Part was originally enacted as Part II of the Administration Act (Estate and Succession Duties) Amendment Act 1934 (No. 28 of 1934). It was inserted as Part VI in the 1934 reprint of this Act (see the Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 77) and renumbered as Part V in the 1943 reprint.
 The Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 3 provides that —
 3.This Act shall apply in the case of any person dying after its commencement, but the provisions of Part VI of the principal Act as hereby repealed shall apply to any person dying before the commencement of this Act.
 This amount is now declared to be $50 000; see proclamation in Gazette 6 February 2009 p. 243.
-In this compilation the numbering of Parts, sections, Divisions etc. effected in the 1934 reprint, the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in those reprints.
 The Administration Act Amendment Act 1970 s. 2(2) is a transitional provision that is of no further effect.
 The Metric Conversion Act 1972 Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Death Duty Assessment Act 1973 s. 3(2), (3), (4) and (5) are transitional provisions that are of no further effect.

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Employment Agents Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Employment Agents Act 1976 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Employment Agents Act 1976 | 10 of 1976 | 27 May 1976 | 1 Nov 1976 (see s. 2 and Gazette 24 Sep 1976 p. 3493)
@@ -19,6 +19,8 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 51 | 8 of 2009 | 21 
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 2 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Consumer Protection Legislation Amendment Act 2014 Pt. 3 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Reprint 3: The Employment Agents Act 1976 as at 5 Feb 2016 (includes amendments listed above)
+COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 97 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Other notes
 On the date as at which this reprint was prepared the department principally assisting the Minister in the administration of the Consumer Affairs Act 1971 was the Department of Commerce.
 The Business Licensing Amendment Act 1995 s. 15 is a transitional provision that is of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 17 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
