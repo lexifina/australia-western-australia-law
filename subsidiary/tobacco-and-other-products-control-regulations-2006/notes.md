@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Tobacco Products Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Tobacco Products Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Gazettal | Commencement
 Tobacco Products Control Regulations 2006 | 25 Jul 2006 p. 2797-808 | 31 Jul 2006 (see r. 2)
@@ -24,13 +24,9 @@ Tobacco Products Control Amendment Regulations (No. 3) 2016 | 26 Jul 2016 p. 315
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 34 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Reprint 3: The Tobacco Products Control Regulations 2006 as at 13 Oct 2017 (includes amendments listed above)
-Tobacco Products Control Amendment Regulations 2019(other than r. 16(1)) | 12 Mar 2019 p. 657-665 | r. 1 and 2: 12 Mar 2019 (see r. 2(a)); r. 3-15, 16(2)-(5) and 17: 18 Mar 2019 (see r. 2(c))
+Tobacco Products Control Amendment Regulations 2019 | 12 Mar 2019 p. 657-665 | r. 1 and 2: 12 Mar 2019 (see r. 2(a)); r. 3-15, 16(2)-(5) and 17: 18 Mar 2019 (see r. 2(c)); r. 16(1): 18 Sep 2020 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 8 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Gazettal | Commencement
-Tobacco Products Control Amendment Regulations 2019 r. 16(1) | 12 Mar 2019 p. 657-665 | 18 Sep 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
