@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Tobacco Products Control Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Tobacco Products Control Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Tobacco Products Control Act 2006 | 5 of 2006 | 12 Apr 2006 | s. 1 and 2: 12 Apr 2006; Act other than s. 1-2, 16-25, 26(2), (3) and (4), Pt. 4 and s. 103(2), 105 and 113(3): 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701); s. 19-25, 26(2), (3) and (4), Pt. 4, s. 103(2), 105 and 113(3): 28 Feb 2007 (see s. 2 and Gazette 28 Feb 2007 p. 677); s. 16-18: 31 May 2007 (see s. 2 and Gazette 28 Feb 2007 p. 677)
@@ -15,11 +15,7 @@ Tobacco Products Control Amendment Act 2009 | 22 of 2009 | 22 Sep 2009 | s. 1 an
  | Medicines and Poisons Act 2014 s. 189 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
  | Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 3 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 27 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Tobacco Products Control Amendment Act 2018 (other than s. 4) | 21 of 2018 | 18 Sep 2018 | s. 1 and 2: 18 Sep 2018 (see s. 2(a)); Act other than s. 1, 2 and 4: 18 Mar 2019 (see s. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Tobacco Products Control Amendment Act 2018 s. 4 | 21 of 2018 | 18 Sep 2018 | 18 Sep 2020 (see s. 2(b))
+Tobacco Products Control Amendment Act 2018 | 21 of 2018 | 18 Sep 2018 | s. 1 and 2: 18 Sep 2018 (see s. 2(a)); Act other than s. 1, 2 and 4: 18 Mar 2019 (see s. 2(c)); s. 4: 18 Sep 2020 (see s. 2(b))
 Other notes
 The provision in this Act repealing the Tobacco Control Act 1990 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
