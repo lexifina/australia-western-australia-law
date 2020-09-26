@@ -97,6 +97,7 @@ Occupational Safety and Health Amendment Regulations (No. 2) 2019 | 18 Jun 2019 
 Occupational Safety and Health Amendment Regulations (No. 3) 2019 | 21 Jun 2019 p. 2136-7 | r. 1 and 2: 21 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Occupational Safety and Health Amendment (COVID-19 Response) Regulations 2020 | SL 2020/105 29 Jun 2020 | Repealed by SL 2020/106 r. 3 prior to commencement
 Occupational Safety and Health Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/106 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+Occupational Safety and Health Amendment Regulations 2020 | SL 2020/182 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2020 (see r. 2(b))
 Other notes
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
@@ -254,8 +255,8 @@ instructor4.44(8)
 interlocked4.1
 introductory course2.2(2)
 isocyanate5.72
-L C,peak3.45
 LAeq,8h3.45
+L C,peak3.45
 laser4.1
 laser product4.1
 lead material5.53
