@@ -16,6 +16,7 @@ Water Services Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 |
 Water Services Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 14 Jun 2019 p. 1929-2010 | 1 Jul 2019 (see r. 2(b))
 Water Regulations Amendment (Strata Titles) Regulations 2019 Pt. 3 | 31 Dec 2019 p. 4663-5 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Water Services Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/95 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Water Services (Water Corporations Charges) Amendment Regulations 2020 | SL 2020/177 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2020 (see r. 2(b))
 Other notes
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.
 The Water Agencies (Charges) By-laws 1987 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) on 1 Jul 2014.
