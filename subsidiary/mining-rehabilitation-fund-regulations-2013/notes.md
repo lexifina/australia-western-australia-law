@@ -1,9 +1,10 @@
 Notes
-This is a compilation of the Mining Rehabilitation Fund Regulations 2013 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Mining Rehabilitation Fund Regulations 2013 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Mining Rehabilitation Fund Regulations 2013 | 21 Jun 2013 p. 2423-42 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b) and Gazette 21 Jun 2013 p. 2445)
 Mining Rehabilitation Fund Amendment Regulations 2014 | 24 Apr 2014 p. 1148-51 | r. 1 and 2: 24 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2014 (see r. 2(b))
+Mining Rehabilitation Fund Amendment Regulations 2020 | SL 2020/170 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

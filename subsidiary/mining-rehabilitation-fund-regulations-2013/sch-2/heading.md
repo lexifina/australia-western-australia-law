@@ -16,14 +16,14 @@ Office
 Signature
 Modified penalty | $________
 TAKE NOTICE | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty to the Approved Officer within 28 days after the date of this notice.
- | If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
+ | If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold.
  | If you need more time to pay the modified penalty, you should contact the Approved Officer at the address below. Paying the modified penalty will not be regarded as an admission for the purposes of any civil or criminal court case.
  | If you want this matter to be dealt with by prosecution in court, sign and date here: __________________________________ / /20 and post this notice to the Approved Officer at the address below within 28 days after the date of this notice.
 How to pay | By post | Tick the relevant box below and post this notice to: Approved Officer — Mining Rehabilitation Fund Act 2012 [Insert address]
  | rI want to pay the modified penalty. A cheque or money order (payable to ‘Approved Officer — Mining Rehabilitation Fund Act 2012’) for the modified penalty is enclosed.
  | rI want to pay the modified penalty by credit card. Please debit my credit card account. [Insert details for credit card payment]
 In person | Pay the cashier at: [Insert address]
-[Form 1 inserted: Gazette 24 Apr 2014 p. 1149-50.]
+[Form 1 inserted: Gazette 24 Apr 2014 p. 1149-50; amended: SL 2020/170 r. 4.]
 Form 2 — Withdrawal of infringement notice
 Mining Rehabilitation Fund Act 2012 WITHDRAWAL OF INFRINGEMENT NOTICE | Withdrawal no.
 Alleged offender | Name
