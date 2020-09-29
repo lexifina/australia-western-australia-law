@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Rights in Water and Irrigation Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rights in Water and Irrigation Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Rights in Water and Irrigation Regulations 2000 | 10 Jan 2001 p. 165-210 | 10 Jan 2001 (see r. 2 and Gazette 10 Jan 2001 p. 163)
 Rights in Water and Irrigation Amendment Regulations 2002 | 14 Jun 2002 p. 2835-7 | 14 Jun 2002
 Rights in Water and Irrigation Amendment Regulations (No. 2) 2002 | 17 Dec 2002 p. 5911-18 | 17 Dec 2002
@@ -23,6 +23,8 @@ Water Legislation Amendment Regulations 2017 Pt. 2 | 15 Sep 2017 p. 4794-6 | 16 
 Rights in Water and Irrigation Amendment Regulations 2018 | 20 Feb 2018 p. 495-501 | r. 1 and 2: 20 Feb 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Feb 2018 (see r. 2(b))
 Rights in Water and Irrigation Amendment Regulations (No. 2) 2018 | 30 Oct 2018 p. 4336-45 | r. 1 and 2: 30 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Nov 2018 (see r. 2(b))
 Rights in Water and Irrigation Amendment Regulations 2019 | 8 Oct 2019 p. 3622-3 | r. 1 and 2: 8 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2019 (see r. 2(b))
+Water Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/173 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Other notes
 These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 37.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Disallowed 22 Nov 2007 see Gazette 27 Nov 2007 p. 5910.

@@ -29,7 +29,7 @@ Modified penalty | $
 Penalty | Individual | $ | You do not have to pay this amount. This is the maximum fine that can be imposed if you are prosecuted in a court and convicted of this offence.
 Body corporate | $
 TAKE NOTICE | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty to an Approved Officer within 28 days after the date of this notice.
- | If you do not pay the modified penalty within the 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
+ | If you do not pay the modified penalty within the 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold.
  | If you need more time to pay the modified penalty, you should contact the Approved Officer at the address below. Paying the modified penalty will not be regarded as an admission for the purposes of any civil or criminal court case.
  | If you want this matter to be dealt with by prosecution in court, sign and date here: __________________________________ / /20 and post this notice to the Approved Officer at the address below within 28 days after the date of this notice.
  | If you consider that you have good reason to have this notice withdrawn, you can write to the Approved Officer at the address below requesting that this notice be withdrawn and setting out why you consider that this notice should be withdrawn. Your letter must be received not later than 28 days after the date of this notice.
@@ -42,7 +42,7 @@ Notes to Form —
 1.The details should say what the alleged offender has done that is considered to be a contravention of the law.
 2.Delete this option if not applicable.
 3.Include here, when applicable, details of how a payment may be made electronically.
-[Form 1 amended: Gazette 13 Dec 2016 p. 5688.]
+[Form 1 amended: Gazette 13 Dec 2016 p. 5688; SL 2020/173 r. 8.]
 Form 2 — Withdrawal of infringement notice
 Water Services Act 2012 Water Services Regulations 2013 WITHDRAWAL OF INFRINGEMENT NOTICE | Infringement notice no.
 Alleged offender | Name
