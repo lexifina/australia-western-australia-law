@@ -1,11 +1,12 @@
 Notes
-This reprint is a compilation as at 23 January 2015 of the Motor Vehicle Dealers (Infringements) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Dealers (Infringements) Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
-Motor Vehicle Dealers (Infringements) Regulations 2002 | 13 Aug 2002 p. 4152-5 | 1 Sep 2002 (see r. 2 and Gazette 13 Aug 2002 p. 4151)
-Motor Vehicle Dealers (Infringements) Amendment Regulations 2002 | 28 Jan 2003 p. 267 | 28 Jan 2003
-Motor Vehicle Dealers (Infringements) Amendment Regulations 2006 | 12 Jan 2007 p. 48-9 | 12 Jan 2007
-Motor Vehicle Dealers (Infringements) Amendment Regulations 2011 | 30 Jun 2011 p. 2663-4 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
-Motor Vehicle Dealers (Infringements) Amendment Regulations 2013 | 20 Aug 2013 p. 3837 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
-Motor Vehicle Dealers (Infringements) Amendment Regulations 2014 | 18 Nov 2014 p. 4319 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
-Reprint 1: The Motor Vehicle Dealers (Infringements) Regulations 2002 as at 23 Jan 2015 (includes amendments listed above)
+Citation | Published | Commencement
+ | Motor Vehicle Dealers (Infringements) Regulations 2002 | 13 Aug 2002 p. 4152-5 | 1 Sep 2002 (see r. 2 and Gazette 13 Aug 2002 p. 4151)
+ | Motor Vehicle Dealers (Infringements) Amendment Regulations 2002 | 28 Jan 2003 p. 267 | 28 Jan 2003
+ | Motor Vehicle Dealers (Infringements) Amendment Regulations 2006 | 12 Jan 2007 p. 48-9 | 12 Jan 2007
+ | Motor Vehicle Dealers (Infringements) Amendment Regulations 2011 | 30 Jun 2011 p. 2663-4 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+ | Motor Vehicle Dealers (Infringements) Amendment Regulations 2013 | 20 Aug 2013 p. 3837 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+ | Motor Vehicle Dealers (Infringements) Amendment Regulations 2014 | 18 Nov 2014 p. 4319 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
+ | Reprint 1: The Motor Vehicle Dealers (Infringements) Regulations 2002 as at 23 Jan 2015 (includes amendments listed above)
+ | Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 20 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))

@@ -1,50 +1,52 @@
 Notes
-This is a compilation of the Employment Agents Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Employment Agents Regulations 1976 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
-Employment Agents Regulations 1976 | 10 Sep 1976 p. 3386-93 | 1 Nov 1976 (see Gazette 24 Sep 1976 p. 3493)
-Untitled regulations | 30 Dec 1977 p. 4765 | 30 Dec 1977
-Employment Agents Amendment Regulations 1980 | 26 Sep 1980 p. 3356 | 1 Nov 1980 (see r. 2)
-Employment Agents Amendment Regulations 1981 | 23 Oct 1981 p. 4428 | 1 Dec 1981 (see r. 2)
-Employment Agents Amendment Regulations 1983 | 4 Nov 1983 p. 4467 | 1 Dec 1983 (see r. 2)
-Employment Agents Amendment Regulations 1986 | 30 May 1986 p. 1815-16 | 1 Jul 1986 (see r. 2)
-Employment Agents Amendment Regulations 1987 | 4 Sep 1987 p. 3517 | 4 Sep 1987
-Employment Agents Amendment Regulations 1988 | 22 Jul 1988 p. 2520 | 22 Jul 1988
-Employment Agents Amendment Regulations 1989 | 30 Jun 1989 p. 1969-70 | 1 Jul 1989 (see r. 2)
-Employment Agents Amendment Regulations 1990 | 1 Aug 1990 p. 3655 | 1 Aug 1990
-Employment Agents Amendment Regulations 1991 | 13 Dec 1991 p. 6164-5 | 13 Dec 1991
-Employment Agents Amendment Regulations 1992 | 14 Aug 1992 p. 4019-20 | 14 Aug 1992
-Employment Agents Amendment Regulations 1993 | 30 Nov 1993 p. 6412-13 | 30 Nov 1993
-Employment Agents Amendment Regulations 1995 | 29 Dec 1995 p. 6347-8 | 1 Jan 1996 (see r. 2)
-Employment Agents Amendment Regulations 1996 | 12 Mar 1996 p. 893-4 | 12 Mar 1996
-Reprint of the Employment Agents Regulations 1976 as at 30 Sep 1997 (includes amendments listed above)
-Employment Agents Amendment Regulations 2002 | 28 Jun 2002 p. 3054-5 | 1 Jul 2002 (see r. 2)
-Employment Agents Amendment Regulations 2003 | 27 Jun 2003 p. 2548-9 | 1 Jul 2003 (see r. 2)
-Reprint 2: The Employment Agents Regulations 1976 as at 6 Feb 2004 (includes amendments listed above)
-Employment Agents Amendment Regulations 2004 | 29 Jun 2004 p. 2512-13 | 1 Jul 2004 (see r. 2)
-Employment Agents Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6918-20 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
-Employment Agents Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2271-2 | 1 Jul 2006 (see r. 2)
-Employment Agents Amendment Regulations 2006 | 22 Sep 2006 p. 4108-11 | 22 Sep 2006 (see r. 2(a))
-Reprint 3: The Employment Agents Regulations 1976 as at 20 Oct 2006 (includes amendments listed above)
-Employment Agents Amendment Regulations 2007 | 20 Apr 2007 p. 1739-40 | 20 Apr 2007
-Employment Agents Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 2772-3 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
-Employment Agents Amendment Regulations 2008 | 17 Jun 2008 p. 2550-1 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
-Employment Agents Amendment Regulations 2009 | 23 Jun 2009 p. 2439-41 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
-Reprint 4: The Employment Agents Regulations 1976 as at 21 Aug 2009 (includes amendments listed above)
-Employment Agents Amendment Regulations 2010 | 25 Jun 2010 p. 2845-7 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
-Employment Agents Amendment Regulations 2011 | 22 Jun 2011 p. 2347-9 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
-Employment Agents Amendment Regulations 2012 | 15 Jun 2012 p. 2587-8 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-Employment Agents Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2679-80 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
-Employment Agents Amendment Regulations 2013 | 20 Aug 2013 p. 3830 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
-Reprint 5: The Employment Agents Regulations 1976 as at 2 May 2014 (includes amendments listed above)
-Employment Agents Amendment Regulations 2014 | 17 Jun 2014 p. 1965-6 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-Employment Agents Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4317 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
-Employment Agents Amendment Regulations 2015 | 23 Jun 2015 p. 2173-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 9 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
-Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
-Commerce and Industrial Relations Regulations Amendment (Administration) Regulations 2018 Pt. 3 | 2 Oct 2018 p. 3794-6 | 3 Oct 2018 (see r. 2(b))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Citation | Published | Commencement
+ | Employment Agents Regulations 1976 | 10 Sep 1976 p. 3386-93 | 1 Nov 1976 (see Gazette 24 Sep 1976 p. 3493)
+ | Untitled regulations | 30 Dec 1977 p. 4765 | 30 Dec 1977
+ | Employment Agents Amendment Regulations 1980 | 26 Sep 1980 p. 3356 | 1 Nov 1980 (see r. 2)
+ | Employment Agents Amendment Regulations 1981 | 23 Oct 1981 p. 4428 | 1 Dec 1981 (see r. 2)
+ | Employment Agents Amendment Regulations 1983 | 4 Nov 1983 p. 4467 | 1 Dec 1983 (see r. 2)
+ | Employment Agents Amendment Regulations 1986 | 30 May 1986 p. 1815-16 | 1 Jul 1986 (see r. 2)
+ | Employment Agents Amendment Regulations 1987 | 4 Sep 1987 p. 3517 | 4 Sep 1987
+ | Employment Agents Amendment Regulations 1988 | 22 Jul 1988 p. 2520 | 22 Jul 1988
+ | Employment Agents Amendment Regulations 1989 | 30 Jun 1989 p. 1969-70 | 1 Jul 1989 (see r. 2)
+ | Employment Agents Amendment Regulations 1990 | 1 Aug 1990 p. 3655 | 1 Aug 1990
+ | Employment Agents Amendment Regulations 1991 | 13 Dec 1991 p. 6164-5 | 13 Dec 1991
+ | Employment Agents Amendment Regulations 1992 | 14 Aug 1992 p. 4019-20 | 14 Aug 1992
+ | Employment Agents Amendment Regulations 1993 | 30 Nov 1993 p. 6412-13 | 30 Nov 1993
+ | Employment Agents Amendment Regulations 1995 | 29 Dec 1995 p. 6347-8 | 1 Jan 1996 (see r. 2)
+ | Employment Agents Amendment Regulations 1996 | 12 Mar 1996 p. 893-4 | 12 Mar 1996
+ | Reprint of the Employment Agents Regulations 1976 as at 30 Sep 1997 (includes amendments listed above)
+ | Employment Agents Amendment Regulations 2002 | 28 Jun 2002 p. 3054-5 | 1 Jul 2002 (see r. 2)
+ | Employment Agents Amendment Regulations 2003 | 27 Jun 2003 p. 2548-9 | 1 Jul 2003 (see r. 2)
+ | Reprint 2: The Employment Agents Regulations 1976 as at 6 Feb 2004 (includes amendments listed above)
+ | Employment Agents Amendment Regulations 2004 | 29 Jun 2004 p. 2512-13 | 1 Jul 2004 (see r. 2)
+ | Employment Agents Amendment Regulations (No. 2) 2004 | 30 Dec 2004 p. 6918-20 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Employment Agents Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2271-2 | 1 Jul 2006 (see r. 2)
+ | Employment Agents Amendment Regulations 2006 | 22 Sep 2006 p. 4108-11 | 22 Sep 2006 (see r. 2(a))
+ | Reprint 3: The Employment Agents Regulations 1976 as at 20 Oct 2006 (includes amendments listed above)
+ | Employment Agents Amendment Regulations 2007 | 20 Apr 2007 p. 1739-40 | 20 Apr 2007
+ | Employment Agents Amendment Regulations (No. 2) 2007 | 15 Jun 2007 p. 2772-3 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+ | Employment Agents Amendment Regulations 2008 | 17 Jun 2008 p. 2550-1 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+ | Employment Agents Amendment Regulations 2009 | 23 Jun 2009 p. 2439-41 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+ | Reprint 4: The Employment Agents Regulations 1976 as at 21 Aug 2009 (includes amendments listed above)
+ | Employment Agents Amendment Regulations 2010 | 25 Jun 2010 p. 2845-7 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+ | Employment Agents Amendment Regulations 2011 | 22 Jun 2011 p. 2347-9 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+ | Employment Agents Amendment Regulations 2012 | 15 Jun 2012 p. 2587-8 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+ | Employment Agents Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2679-80 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+ | Employment Agents Amendment Regulations 2013 | 20 Aug 2013 p. 3830 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+ | Reprint 5: The Employment Agents Regulations 1976 as at 2 May 2014 (includes amendments listed above)
+ | Employment Agents Amendment Regulations 2014 | 17 Jun 2014 p. 1965-6 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+ | Employment Agents Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4317 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
+ | Employment Agents Amendment Regulations 2015 | 23 Jun 2015 p. 2173-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+ | Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 9 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+ | Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 11 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
+ | Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 10 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
+ | Commerce and Industrial Relations Regulations Amendment (Administration) Regulations 2018 Pt. 3 | 2 Oct 2018 p. 3794-6 | 3 Oct 2018 (see r. 2(b))
+ | Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+ | Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 12 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Other notes
 Under the Consumer Affairs Act 1971 s. 4(3), references, however expressed, in any other Act or in any regulation, notice, proclamation, or statutory instrument of any kind made, published or in force under that or any other Act to the Commissioner for Consumer Protection are, unless the context requires otherwise, read and construed as references to the Commissioner for Fair Trading as defined by the Consumer Affairs Act 1971.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 151(5) provides that a reference to the Commissioner for Fair Trading is to have effect as if it had been amended to be a reference to the Commissioner as defined by the Consumer Affairs Act 1971.
 Defined terms

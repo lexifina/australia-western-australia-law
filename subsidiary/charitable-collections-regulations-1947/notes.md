@@ -22,6 +22,7 @@ Charitable Collections Amendment Regulations 2013 | 20 Aug 2013 p. 3824 | r. 1 a
 Charitable Collections Amendment Regulations 2017 | 10 Mar 2017 p. 1567 | r. 1 and 2: 10 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Mar 2017 (see r. 2(b))
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 2 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Charitable Collections Amendment Regulations 2020 | SL 2020/120 21 Jul 2020 | r. 1 and 2: 21 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2020 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 7 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 The Charitable Collections Amendment Regulations 2000 r. 12 reads as follows:
 12.Savings and transition

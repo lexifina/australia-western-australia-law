@@ -48,6 +48,7 @@ Commerce Regulations Amendment (Family Violence) Regulations 2019 Pt. 2 | 9 Apr 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 17 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 5 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 4 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 24 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.

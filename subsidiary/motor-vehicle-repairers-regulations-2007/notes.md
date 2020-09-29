@@ -27,6 +27,7 @@ Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regul
 Motor Vehicle Repairers Amendment Regulations 2019 | 15 Mar 2019 p. 771-86 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 14 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations 2020 | SL 2020/121 21 Jul 2020 | r. 1 and 2: 21 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2020 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 21 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

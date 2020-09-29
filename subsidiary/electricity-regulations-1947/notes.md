@@ -68,6 +68,7 @@ Electricity Amendment Regulations (No. 2) 2015 | 5 Jan 2016 p. 3 | r. 1 and 2: 5
 Reprint 7: The Electricity Regulations 1947 as at 21 Oct 2016 (includes amendments listed above)
 Electricity Amendment Regulations 2018 Pt. 2 | 2 Oct 2018 p. 3784-94 | 1 Jan 2019 (see r. 2(b))
 Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 3 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 11 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.

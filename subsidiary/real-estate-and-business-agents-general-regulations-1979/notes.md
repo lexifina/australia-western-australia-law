@@ -86,6 +86,7 @@ Real Estate and Business Agents (General) Amendment Regulations 2017 | 30 Jun 20
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 18 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 16 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 4 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 23 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.

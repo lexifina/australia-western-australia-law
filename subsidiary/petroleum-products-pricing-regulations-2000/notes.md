@@ -25,6 +25,7 @@ Petroleum Products Pricing Amendment Regulations 2018 | 1 May 2018 p. 1432 | r. 
 Petroleum Products Pricing Amendment Regulations (No. 2) 2018 | 27 Nov 2018 p. 4575 | r. 1 and 2: 27 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2018 (see r. 2(b))
 Petroleum Products Pricing Amendment Regulations 2020 | SL 2020/33 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
 Petroleum Products Pricing Amendment Regulations (No. 2) 2020 | SL 2020/34 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 22 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 The Petroleum Products Pricing Amendment Regulations 2001 r. 8 reads as follows:
 8.Defence during transitional period

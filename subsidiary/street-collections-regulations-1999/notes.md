@@ -9,6 +9,7 @@ Reprint 1: The Street Collections Regulations 1999 as at 2 Feb 2007 (includes am
 Street Collections Amendment Regulations 2013 | 20 Aug 2013 p. 3842 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Commerce and Industrial Relations Regulations Amendment (Administration) Regulations 2018 Pt. 4 | 2 Oct 2018 p. 3794-6 | 3 Oct 2018 (see r. 2(b))
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 7 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 26 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 As at the time of this compilation the person designated as the Commissioner for the purposes of the Act is known as the Commissioner for Consumer Protection (see Gazette 18 August 2006 p. 3372).
 Defined terms

@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Building Services (Complaint Resolution and Administration) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Building Services (Complaint Resolution and Administration) Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Building Services (Complaint Resolution and Administration) Regulations 2011 | 26 Aug 2011 p. 3453-71 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Pt. 3 Div. 1 and 3: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475); r. 3, 4, Pt. 2 (other than r. 7(a)) and Pt. 4: 29 Aug 2011 (see r. 2(d) and Gazette 26 Aug 2011 p. 3475); r. 7(a) and Pt. 3 Div. 2: 2 Apr 2012 (see r. 2(c) and Gazette 13 Mar 2012 p. 1033)
 Building Services (Complaint Resolution and Administration) Amendment Regulations 2012 | 12 Mar 2012 p. 985-7 | r. 1 and 2: 12 Mar 2012 (see r. 2(a)); r. 3 and 4: 13 Mar 2012 (see r. 2(b)); Regulations other than r. 1-4: 2 Apr 2012 (see r. 2(c) and Gazette 13 Mar 2012 p. 1033)
 Building Services (Complaint Resolution and Administration) Amendment Regulations (No. 3) 2012 | 14 Aug 2012 p. 3827-8 | r. 1 and 2: 14 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2012 (see r. 2(b))
@@ -17,6 +17,8 @@ Reprint 2: The Building Services (Complaint Resolution and Administration) Regul
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 4 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 3 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Other notes
 Section 374 was deleted by the Building Act 2011 s. 153(2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

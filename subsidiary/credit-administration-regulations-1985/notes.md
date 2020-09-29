@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Credit (Administration) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Credit (Administration) Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Credit (Administration) Regulations 1985 | 22 Feb 1985 p. 699-700 (erratum 3 May 1985 p. 1586) | 1 Mar 1985 (see r. 2)
 Credit (Administration) Amendment Regulations 1985 | 31 May 1985 p. 1903 | 31 May 1985
 Credit (Administration) Amendment Regulations (No. 2) 1985 | 21 Jun 1985 p. 2260 | 21 Jun 1985
@@ -24,6 +24,7 @@ Credit (Administration) Amendment Regulations 2007 | 15 Jun 2007 p. 2770-1 | r. 
 Credit (Administration) Amendment Regulations 2008 | 17 Jun 2008 p. 2548 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Credit (Administration) Amendment Regulations 2010 | 30 Jun 2010 p. 3177-9 | 1 Jul 2010 (see r. 2(a)(ii), (b)(ii) and Gazette 30 Jun 2010 p. 3187)
 Credit (Administration) Amendment Regulations 2013 | 20 Aug 2013 p. 3827 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 9 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
