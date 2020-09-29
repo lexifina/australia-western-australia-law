@@ -66,8 +66,8 @@ Authorised person who issued this notice | Name:
 Signature:
 Date:
 Notes
-WHAT YOU MUST DO | 1.You may dispose of this matter within 28 days after the service of this notice by paying the modified penalty. OR 2.Elect to have this matter dealt with before a COURT. Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
-[Form 3 amended: Gazette 20 Aug 2013 p. 3851; SL 2020/99 r. 4.]
+WHAT YOU MUST DO | 1.You may dispose of this matter within 28 days after the service of this notice by paying the modified penalty. OR 2.Elect to have this matter dealt with before a COURT. Should you not pursue one of the above options within the time specified above, additional administrative charges may be incurred and enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold.
+[Form 3 amended: Gazette 20 Aug 2013 p. 3851; SL 2020/99 r. 4; SL 2020/169 r. 4.]
 Form 4. Withdrawal of Infringement Notice
 Caravan Parks and Camping Grounds Act 1995, sec. 23(7) WITHDRAWAL OF INFRINGEMENT NOTICE
 Local government | Name of local government:
