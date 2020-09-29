@@ -67,6 +67,10 @@ Road Traffic Code Amendment Regulations 2018 | 15 May 2018 p. 1531-6 | r. 1 and 
 Road Traffic Code Amendment Regulations 2019 | 28 Jun 2019 p. 2488-9 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Road Traffic Code Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4686 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2020 | SL 2020/87 26 Jun 2020 | r. 1 and 2: 26 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Traffic Code Amendment Regulations (No. 2) 2020 r. 3-28 | SL 2020/184 29 Sep 2020 | 20 Nov 2020 (see r. 2(b))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
@@ -125,7 +129,7 @@ continuing road3(1)
 continuous dividing line176(12)
 dangerous goods184(4)
 default speed limit3(1)
-de-restriction sig3(1)
+de-restriction sign3(1)
 dipped3(1)
 dipping device3(1)
 disability parking permit3(1)
@@ -180,7 +184,6 @@ motor cycle3(1), 130(5), 246A(1), 246B(1)
 motor vehicle3(1)
 motorised scooter3(1)
 motorised wheelchair3(1)
-n3(1)
 nature strip3(1)
 no bicycles road marking3(1)
 no parking area3(1)
