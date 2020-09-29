@@ -64,7 +64,7 @@ the payment is made in full (part payments will not be accepted); and
 the payment is made to [insert details].
 Cheques and money orders must be made payable to [insert details].
 PART DYOUR OPTIONS — FURTHER DETAILS
-IMPORTANT INFORMATION: If, on or before .............................., you have not either paid the modified penalty or elected to have the alleged offence determined in court, then this infringement notice will, unless the notice is withdrawn on the basis of information provided by you in Part E, be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If any information provided by you in Part E does not lead to the withdrawal of this notice, you will be notified by mail.
+IMPORTANT INFORMATION: If, on or before .............................., you have not either paid the modified penalty or elected to have the alleged offence determined in court, then this infringement notice may be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold. If any information provided by you in Part E does not lead to the withdrawal of this notice, you will be notified by mail.
 PART EELECTING TO GO TO COURT
 I elect to have the offence alleged in Part A heard and determined in court. I understand that I will receive a summons in due course.
 Signature: |  | Date:
@@ -93,6 +93,7 @@ As the person, or an authorised officer of the company, referred to above, I dec
 Dealer organisation code:
 Signature: |  | Date:
 Mail this completed form to [insert details].
+[Form 2 amended: SL 2020/172 r. 4.]
 Form 3
 INFRINGEMENT NOTICE TO BE SERVED ON RESPONSIBLE PERSON BY LEAVING ON VEHICLE
 Road Traffic (Administration) Act 2008 section 79 and Part 5 Division 2
@@ -132,13 +133,14 @@ No. and street: |  | Suburb: |  | Postcode:
 Phone no.: |  | Position:
 Signature: |  | Date:
 PART EYOUR OPTIONS — FURTHER DETAILS
-IMPORTANT INFORMATION: If, on or before .............................., (1) you have not paid the modified penalty or (2) you have not informed [specify officer] that you were not the driver or person in charge of the vehicle at the time of the alleged offence and supplied the information required for Part D or (3) you have not elected to have the alleged offence determined in court, you will be presumed to be the driver or person in charge of the vehicle at the time of the alleged offence and this infringement notice will, unless the notice is withdrawn on the basis of information provided by you in Part F, be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If any information provided by you in Part F does not lead to the withdrawal of this notice, you will be notified by mail.
+IMPORTANT INFORMATION: If, on or before .............................., (1) you have not paid the modified penalty or (2) you have not informed [specify officer] that you were not the driver or person in charge of the vehicle at the time of the alleged offence and supplied the information required for Part D or (3) you have not elected to have the alleged offence determined in court, you will be presumed to be the driver or person in charge of the vehicle at the time of the alleged offence and this infringement notice may be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold. If any information provided by you in Part F does not lead to the withdrawal of this notice, you will be notified by mail.
 PART FELECTING TO GO TO COURT
 I elect to have the offence alleged in Part A heard and determined in court. I understand that I will receive a summons in due course.
 Signature: |  | Date:
 If the address for that summons differs from that printed on the front page of this notice enter the new address below.
 Address: |  | Suburb: |  | Postcode:
 Mail this completed form to [insert details].
+[Form 3 amended: SL 2020/172 r. 5.]
 Form 4
 INFRINGEMENT NOTICE TO BE SERVED ON RESPONSIBLE PERSON IF IDENTITY OF ALLEGED OFFENDER NOT KNOWN
 Road Traffic (Administration) Act 2008 section 79 and Part 5 Division 3
@@ -185,13 +187,14 @@ If you do not know and cannot reasonably ascertain the name and address of the d
 A statutory declaration must be made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005. It must be signed before an authorised witness. An example statutory declaration is available at [www.Police website].
 Making a false statutory declaration is an offence for which you may be imprisoned for 5 years.
 PART EYOUR OPTIONS — FURTHER DETAILS
-IMPORTANT INFORMATION: If, on or before .............................., (1) you have not paid the modified penalty or (2) you have not informed [specify officer] that you were not the driver or person in charge of the vehicle at the time of the alleged offence and supplied the information required for Part D or (3) you have not elected to have the alleged offence determined in court, you will be presumed to be the driver or person in charge of the vehicle at the time of the alleged offences and this infringement notice will, unless the notice is withdrawn on the basis of information provided by you in Part F, be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If any information provided by you in Part F does not lead to the withdrawal of this notice, you will be notified by mail.
+IMPORTANT INFORMATION: If, on or before .............................., (1) you have not paid the modified penalty or (2) you have not informed [specify officer] that you were not the driver or person in charge of the vehicle at the time of the alleged offence and supplied the information required for Part D or (3) you have not elected to have the alleged offence determined in court, you will be presumed to be the driver or person in charge of the vehicle at the time of the alleged offences and this infringement notice may be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold. If any information provided by you in Part F does not lead to the withdrawal of this notice, you will be notified by mail.
 PART FELECTING TO GO TO COURT
 I elect to have the offence alleged in Part A heard and determined in court. I understand that I will receive a summons in due course.
 Signature: |  | Date:
 If the address for that summons differs from that printed on the front page of this notice enter the new address below.
 Address: |  | Suburb: |  | Postcode:
 Unless delivering this form with a statutory declaration personally to the officer in charge of the police station, mail or personally deliver this completed form to [insert details].
+[Form 4 amended: SL 2020/172 r. 5.]
 Form 5
  | REQUEST TO RESPONSIBLE PERSON FOR INFORMATION ABOUT ALLEGED OFFENDER
  | Road Traffic (Administration) Act 2008 section 79 and Part 5 Division 4
@@ -248,8 +251,9 @@ Amount due:
 Signature |  | Date
  | PAYMENT will only be accepted if — the payment is received on or before .............................. (no extensions will be given); and the payment is made in full (part payments will not be accepted); and the payment is made to [insert details]. Cheques and money orders must be made payable to [insert details].
 PART EYOUR OPTIONS — FURTHER DETAILS
-IMPORTANT INFORMATION: If, on or before .............................., you have not either paid the modified penalty or elected to have the alleged offence determined in court, then this infringement notice will, unless the notice is withdrawn on the basis of information provided by you in Part C, be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If any information provided by you in Part C does not lead to the withdrawal of this notice, you will be notified by mail.
+IMPORTANT INFORMATION: If, on or before .............................., you have not either paid the modified penalty or elected to have the alleged offence determined in court, then this infringement notice may be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold. If any information provided by you in Part C does not lead to the withdrawal of this notice, you will be notified by mail.
 Unless delivering this form with a statutory declaration personally to the officer in charge of a police station, mail or personally deliver this completed form to [insert details].
+[Form 5 amended: SL 2020/172 r. 6.]
 Form 6
 WITHDRAWAL OF INFRINGEMENT NOTICE
 Road Traffic (Administration) Act 2008 section 83(2)

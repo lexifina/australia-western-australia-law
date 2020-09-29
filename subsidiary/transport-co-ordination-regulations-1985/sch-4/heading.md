@@ -33,7 +33,7 @@ Modified penalty $ ..................................
 Signature of authorised person
 Take notice that —
 If you do not wish to be prosecuted for the alleged offence in a court, the amount of money specified above as the modified penalty for the offence may be paid to an authorised person (specified below), within 28 days after the notice is given.
-If that amount is not paid within 28 days, additional administrative charges may be incurred and action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
+If that amount is not paid within 28 days, additional administrative charges may be incurred and action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold.
 Payment may be made —
 [The authorised persons to whom payment may be made are to be specified here.]
 Payments will not be accepted at any Department of Transport office.
@@ -51,7 +51,7 @@ Card Number qqqqqqqqqqqqqqqq
 Amount ................................................................................................
 Cardholder Name ................................................................................
 Signature ........................................... Expiry Date ............./..............
-[Form 1 inserted: Gazette 5 Aug 2016 p. 3313-15.]
+[Form 1 inserted: Gazette 5 Aug 2016 p. 3313-15; amended: SL 2020/172 r. 8.]
 FORM 2
 Transport Co-ordination Act 1966 section 58A
 Transport Co-ordination Regulations 1985 regulation 13(3)

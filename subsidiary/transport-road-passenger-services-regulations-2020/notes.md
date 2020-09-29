@@ -3,6 +3,7 @@ This is a compilation of the Transport (Road Passenger Services) Regulations 202
 Compilation table
 Citation | Published | Commencement
 Transport (Road Passenger Services) Regulations 2020 Pt. 1-7, Pt. 8 (other than r. 110), Pt. 9-15, Sch. 1-5, Sch. 6 (other than it. 34 and 35) and Sch. 7 | SL 2020/90 24 Jun 2020 | Pt. 1: 24 Jun 2020 (see r. 2(a)); Pt. 2-7, Pt. 8 (other than r. 110), Pt. 9-15, Sch. 1-5, Sch. 6 (other than it. 34 and 35) and Sch. 7: 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2)
+Transport Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/172 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement

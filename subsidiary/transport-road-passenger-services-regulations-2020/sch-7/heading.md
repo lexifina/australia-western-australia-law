@@ -14,12 +14,13 @@ Office
 Signature
 Modified penalty | $________
 TAKE NOTICE | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty to the Approved Officer within 28 days after the date of this notice.
- | If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
+ | If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold.
  | If you want this matter to be dealt with by prosecution in court, sign and date here: __________________________________ / /20 and post this notice to the Approved Officer at the address below within 28 days after the date of this notice.
 How to pay | In person | [Insert details for paying in person]
 By post | [Insert details for paying by post]
 Online | [Insert details for paying online]
 By telephone | [Insert details for paying by telephone]
+[Form 1 amended: SL 2020/172 r. 10.]
 Form 2 — Withdrawal of infringement notice
 Transport (Road Passenger Services) Act 2018 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name
