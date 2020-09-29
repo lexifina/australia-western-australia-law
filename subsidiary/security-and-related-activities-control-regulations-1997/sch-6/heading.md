@@ -20,7 +20,7 @@ Penalty | $ [ ]
 Notice to alleged offender | It is alleged that you have committed the above offence.
 If you do not want to be prosecuted in court for the alleged offence, pay the modified penalty within 28 days after the date of this notice. See below for how and where to pay the modified penalty.
 Paying the modified penalty will not be regarded as an admission for the purposes of any civil or criminal court case.
-If you do not pay the modified penalty within 28 days, you may be prosecuted in court for the alleged offence or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
+If you do not pay the modified penalty within 28 days, you may be prosecuted in court for the alleged offence or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold.
 If you need more time to pay the modified penalty, you should contact the designated person at the address below.
 If you want this matter to be dealt with by prosecution in court, sign and date here: __________________________________ / /20 and post this notice to the designated person at the address below within 28 days after the date of this notice.
 If you are prosecuted in a court for the alleged offence, and convicted, you will be liable to a penalty and costs.
@@ -29,7 +29,7 @@ How to pay the modified penalty | In person | [Details for paying in person]
  | By post | Post this notice, with a cheque or money order made payable to [payee], to: Western Australia Police 303 Sevenoaks Street Cannington WA 6107 or Locked Bag 9, East Perth WA 6892 Do not send cash in the mail.
  | Online | [Details for online payments]
  | By telephone | [Details for telephone payments]
-[Form 1 inserted: Gazette 29 Jul 2016 p. 3254-6.]
+[Form 1 inserted: Gazette 29 Jul 2016 p. 3254-6; amended: SL 2020/171 r. 4.]
 Form 2 — Withdrawal of infringement notice
 Security and Related Activities (Control) Act 1996 Security and Related Activities (Control) Regulations 1997 Withdrawal of infringement notice
 Alleged offender | Name:Surname
