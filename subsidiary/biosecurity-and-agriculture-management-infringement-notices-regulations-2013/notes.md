@@ -7,3 +7,4 @@ Biosecurity and Agriculture Management (Infringement Notices) Amendment Regulati
 Biosecurity and Agriculture Management Regulations Amendment Regulations (No. 2) 2019 Pt. 3 | 27 Jun 2019 p. 2407-54 | 28 Jun 2019 (see r. 2(b))
 Biosecurity and Agriculture Management Regulations Amendment Regulations 2019 Pt. 3 | 6 Sep 2019 p. 3195 | 7 Sep 2019 (see r. 2(b))
 Biosecurity and Agriculture Management (Agricultural Chemical Record Keeping) Regulations 2020 Pt. 3 | SL 2020/130 14 Aug 2020 | 11 Sep 2020 (see r. 2(b))
+Agriculture and Food Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/160 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))

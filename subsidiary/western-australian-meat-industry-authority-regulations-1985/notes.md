@@ -48,6 +48,7 @@ Reprint 5: The Western Australian Meat Industry Authority Regulations 1985 as at
 Western Australian Meat Industry Authority Amendment Regulations 2019 | 14 Jun 2019 p. 1881-3 | r. 1 and 2: 14 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2474-7 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b)(i))
 Western Australian Meat Industry Authority Amendment Regulations 2020 | SL 2020/113 7 Jul 2020 | r. 1 and 2: 7 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Jul 2020 (see r. 2(b))
+Agriculture and Food Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/160 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
