@@ -82,10 +82,10 @@ If you do not pay the modified penalty, a complaint may be issued against you fo
 OR
 The modified penalty may be recovered by the Fines Enforcement Registry, in which case —
 (a)additional administrative charges may be incurred;
-(b)some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold; and
+(b)some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold; and
 (c)you will be given an opportunity to elect to have a complaint for the alleged offence dealt with by a COURT.
 PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
-[Form 3 inserted: Gazette 11 Dec 1998 p. 6610-11; amended: Gazette 20 Aug 2013 p. 3857; 21 Aug 2015 p. 3336.]
+[Form 3 inserted: Gazette 11 Dec 1998 p. 6610-11; amended: Gazette 20 Aug 2013 p. 3857; 21 Aug 2015 p. 3336; SL 2020/166 r. 8.]
 Form 4
 Environmental Protection Act 1986 (Section 99N)
 Withdrawal of infringement notice

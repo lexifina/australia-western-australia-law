@@ -79,6 +79,7 @@ Environmental Protection (Solid Fuel Heater and Firewood) Regulations 2018 Pt. 5
 Environmental Protection Amendment Regulations (No. 3) 2018 | 16 Oct 2018 p. 4093 | r. 1 and 2: 16 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2018 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 2) 2020 | SL 2020/114 7 Jul 2020 | r. 1 and 2: 7 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Jul 2020 (see r. 2(b))
 Environmental Protection Amendment Regulations 2020 | SL 2020/134 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
+Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.

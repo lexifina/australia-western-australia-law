@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Swan and Canning Rivers Management Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Swan and Canning Rivers Management Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Swan and Canning Rivers Management Regulations 2007 | 25 Sep 2007 p. 4787-831 | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
 Swan and Canning Rivers Management Amendment Regulations 2012 | 28 Aug 2012 p. 4132-40 | r. 1 and 2: 28 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2012 (see r. 2(b))
 Reprint 1: The Swan and Canning Rivers Management Regulations 2007 as at 23 Nov 2012 (includes amendments listed above)
@@ -9,6 +9,8 @@ Swan and Canning Rivers Management Amendment Regulations 2013 | 20 Aug 2013 p. 3
 Swan and Canning Rivers Management Amendment Regulations 2014 | 27 Jun 2014 p. 2327-8 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2014 (see r. 2(b))
 Swan and Canning Rivers Management Amendment Regulations 2015 | 19 Jun 2015 p. 2097-101 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Swan and Canning Rivers Management Amendment Regulations 2016 | 4 Mar 2016 p. 625-6 | r. 1 and 2: 4 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Mar 2016 (see r. 2(b))
+Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Other notes
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 The regulation in these regulations repealing the Swan River Trust Regulations 1989 was omitted under the Reprints Act 1984 s. 7(4)(f).
 Defined terms

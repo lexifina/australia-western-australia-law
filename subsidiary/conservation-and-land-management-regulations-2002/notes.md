@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Conservation and Land Management Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Conservation and Land Management Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Conservation and Land Management Regulations 2002 | 3 May 2002 p. 2233-308 | 3 May 2002
 Conservation and Land Management Amendment Regulations 2002 | 4 Oct 2002 p. 5065-6 | 4 Oct 2002
 Conservation and Land Management Amendment Regulations 2004 | 4 May 2004 p. 1383 | 4 May 2004
@@ -40,6 +40,8 @@ Conservation and Land Management Amendment Regulations 2018 | 14 Sep 2018 p. 330
 Conservation and Land Management Amendment Regulations (No. 4) 2018 | 11 Dec 2018 p. 4701-3 | r. 1 and 2: 11 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2487-8 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Conservation and Land Management Amendment Regulations (No. 3) 2019 | 2 Aug 2019 p. 2987-90 | r. 1 and 2: 2 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2019 (see r. 2(b))
+Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Other notes
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:

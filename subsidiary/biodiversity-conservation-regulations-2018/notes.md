@@ -1,10 +1,11 @@
 Notes
-This is a compilation of the Biodiversity Conservation Regulations 2018 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Biodiversity Conservation Regulations 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Biodiversity Conservation Regulations 2018 | 14 Sep 2018 p. 3337-505 | Pt. 1 (other than r. 3 to 7): 14 Sep 2018 (see r. 2(a)) r. 3-7, Pt. 2-13 and Sch. 1-11: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Biodiversity Conservation Amendment Regulations 2018 | 17 Sep 2018 p. 3507-8 | r. 1 and 2: 17 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Biodiversity Conservation Amendment Regulations (No. 2) 2018 | 21 Dec 2018 p. 4846-7 | r. 1 and 2: 21 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305 and 3349)
+Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
