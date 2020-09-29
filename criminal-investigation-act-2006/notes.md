@@ -24,13 +24,13 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Reprint 3: The Criminal Investigation Act 2006 as at 4 Sep 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014)
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 5 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 108 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 2 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 56 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 2 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 1 | 27 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(b))
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 1 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms

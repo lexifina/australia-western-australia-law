@@ -36,12 +36,11 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 12 
 Electricity Corporations Amendment Act 2013 s. 43 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 15 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Reprint 6: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 24 May 2019 (includes amendments listed above)
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 2 Div. 1 and 2, s. 87 and 103 | 25 of 2020 | 19 Jun 2020 | Pt. 2 Div. 1 and 2, s. 87 and 103: 20 Jun 2020 (see s. 2(1)(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 2 Div. 1-3 and s. 103 | 25 of 2020 | 19 Jun 2020 | Pt. 2 Div. 1 and 2, s. 87 and 103: 20 Jun 2020 (see s. 2(1)(b)); s. 9-86, 88 and 89: 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 2 (s. 9-86, 88-102, 104 & 105) | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c) and (d))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 s. 90-102, 104 and 105 | 25 of 2020 | 19 Jun 2020 | 30 Sep 2020 (see s. 2(1)(d) and SL 2020/159 cl. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -56,94 +55,136 @@ offender means —
 of the Fines, Penalties and Infringement Notices Enforcement Act 1994.
 (2) An agreement entered into, or purportedly entered into, by or on behalf of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 (3) An agreement entered into, or purportedly entered into, by a delegate of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation when it was deleted by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 s. 107.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 affected vehicle95I(1)
 aggregate amount owed56A
-aggregate unpaid infringement amount11
 alleged offence11
-alleged offender11
+alleged offender11, 100
 amending Act109A(1)
-amending provision53(4), 53(8a)
 amount outstanding61(1)
-amount owed40, 56A
+amount owed28(1), 56A
 applicant101(1), 101AA(2), 101A(1)
-CCO28(1), 28(2)
+approved form3(1)
+arresting officer52ZC(1)
+audio link28(1)
+authorised police officer28(1)
+bank63(1)
+bank account garnishee order63(1), 95M(2)
+CCO28(1)
 CEO (corrections)3(1)
+CEO (fines enforcement)3(1)
 child3(1)
 claimant93(1)
 commencement111(1), 112(1), 113(1)
 commencement date32(5)
+Commissioner of Police3(1)
 community corrections activities28(1)
 community corrections centre28(1)
 community corrections officer28(1)
+contractor100
 court28(1)
+court custody centre28(1)
 court officer28(1)
+Court Security and Custodial Services Act 199928(1)
+daily expiation amount52B
 debtor63(1)
-Department of Corrective Services3(1)
+detainee28(1)
+detention centre28(1)
 Director General3(1)
 dishonoured payment3(1)
 disposed of101AA(1)
 disposed of 101B(6)
 driver’s licence3(1)
-due date18(3), 27C(1), 42(3), 55C(1)
+due date18(3), 42(3)
 dwelling63(1)
+earnings63(1)
 election11
-Electricity Generation and Retail Corporation3(1)
+electricity corporation3(1)
+enforceable registered fine28(1)
 enforcement action68B(1)
 enforcement fees11, 28(1), 56A, 63(1)
+enforcement instrument28(1)
+enforcement warrant11, 28(1)
 fine28(1), 56A, 59
+fine enforcement (WDO) order28(1)
+fine expiation order28(1)
 first commencement day115
 former Act115
+garnishee order63(1), 95M(2)
+garnishee order on earnings63(1), 95M(2)
 give3(1)
+hardship3(1)
 infringement notice11, 26(4)
 interest70(1)
-licence suspension order101D(1A)
+issue day52H(1)
+licence suspension order11, 28(1), 101D(1A)
 mobile home63(1)
 modified penalty11, 56A
+multiple payments garnishee order63(1), 95V(2)
 number plate3(1)
-offender28(1), 108A(1)
-outstanding order to pay or elect11, 56A
+offender28(1), 100, 108A(1)
+ongoing fine expiation order28(1), 52I(1)
+order to attend for work and development28(1)
+outstanding order to pay or elect56A, 56AA
 outstanding registered fine56A, 56B
+owner63(1)
 paid3(1)
+pay period95P(1)
 period of concurrent imprisonment115
 period served53(7)
+person in court custody28(1)
 personal property63(1)
 place63(1)
+police facility28(1)
 prescribed enactment11
 principal enactment11
+prison28(1)
+prisoner28(1)
 proceeds96(1)
-prosecuting authority11, 39(2)
+prosecuting authority11, 32B(2)
 prosecuting officer11
-public authority70(1)
+protected bank account amount63(1)
+protected earnings amount63(1)
+public authority70(1), 100
 reciprocating court59
 reciprocating State or Territory59
 registered11, 28(1), 96(7)
 Registrar3(1)
-Registrar’s website56A
+Registrar’s website3(1)
 Registry3(1)
 relevant amount10B(1), 119(3)
 relevant details56A, 56C
-relevant fines117(1)
+relevant fines52N(1), 117(1)
+relevant information100
+relevant payer63(1), 95O(1)
 relevant warrants117(1)
+remote area3(1)
+requesting officer100A(1)
 required hours50(1)
+research100
+responsible officer28(1), 52ZC(2)
 road law3(1)
 saleable interest63(1), 71(1), 88(1)
 second commencement day115
 section 78 notice119(1)
 serve3(1)
 Sheriff3(1)
+single payment garnishee order63(1), 95V(2)
 specified period53(7)
-time to pay order28(1)
+time to pay order11, 28(1)
 transitional period113(1), 115
 unpaid infringement amount11
 vehicle63(1)
 vehicle licence3(1)
-vehicle licensing law63(1)
+video link28(1)
 warning notice63(1)
 warrant63(1)
 warrant amount53(6), 53(7)
-WDO28(2)
-work and development order28(1)
+warrant of commitment28(1)
+warrant of commitment inquiry28(1), 52M(1)
+warrant of commitment inquiry process28(1), 52M(2)
+work and development order (WDO)3(1)
 young person10B(1)
