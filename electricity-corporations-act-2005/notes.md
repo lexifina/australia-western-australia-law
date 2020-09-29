@@ -17,10 +17,7 @@ Associations Incorporation Act 2015 s. 216 | 30 of 2015 | 2 Nov 2015 | 1 Jul 201
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 2 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Reprint 3: The Electricity Corporations Act 2005 as at 7 Jun 2019 (includes amendments listed above)
 Electricity Industry Amendment Act 2020 s. 30 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 4 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 4 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Other notes
 Deleted by the Public Sector Reform Act 2010 s. 57.
 Deleted by the Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 r. 5 and 6.

@@ -17,10 +17,10 @@ Road Traffic Legislation Amendment Act 2016 Pt. 2 Div. 2 and Pt. 3 Div. 3 Subdiv
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Reprint 2: The Road Traffic (Administration) Act 2008 as at 14 Dec 2018 (includes amendments listed above)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 5 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 5 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
 Family Violence Legislation Reform Act 2020 Pt. 8 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

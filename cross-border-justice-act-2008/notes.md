@@ -9,11 +9,11 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 16 | 8 of 2012 | 21 May 2
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 9 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Reprint 1: The Cross-border Justice Act 2008 as at 1 Dec 2015 (includes amendments listed above)
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 3 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 3 | 25 of 2020 | 19 Jun 2020 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 2 | 27 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(b))
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 2 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
