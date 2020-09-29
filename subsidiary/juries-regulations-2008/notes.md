@@ -8,6 +8,7 @@ Juries Amendment Regulations (No. 2) 2011 | 27 Oct 2011 p. 4552-6 | r. 1 and 2: 
 Reprint 1: The Juries Regulations 2008 as at 16 Mar 2012 (includes amendments listed above)
 Juries Amendment Regulations 2013 | 20 Aug 2013 p. 3858-9 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Juries Amendment Regulations 2020 | SL 2020/27 31 Mar 2020 | r. 1 and 2: 31 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
+Attorney General Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/162 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
