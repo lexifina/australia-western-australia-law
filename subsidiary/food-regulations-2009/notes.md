@@ -20,6 +20,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 25 May 
 Reprint 2: The Food Regulations 2009 as at 3 Aug 2018 (includes amendments listed above)
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Health Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/168 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Other notes
 The Food Act 2008 s. 147(14) commenced 24 Oct 2009.
 Deleted by the Food Act 2008 s. 147(11).

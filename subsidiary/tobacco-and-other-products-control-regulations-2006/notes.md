@@ -1,7 +1,7 @@
 Notes
 This is a compilation of the Tobacco Products Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Tobacco Products Control Regulations 2006 | 25 Jul 2006 p. 2797-808 | 31 Jul 2006 (see r. 2)
 Tobacco Products Control Amendment Regulations 2007 | 28 Feb 2007 p. 641-75 | 28 Feb 2007 (see r. 2)
 Tobacco Products Control Amendment Regulations 2010 | 20 Aug 2010 p. 4069-70 | r. 1 and 2: 20 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b))
@@ -27,6 +27,7 @@ Reprint 3: The Tobacco Products Control Regulations 2006 as at 13 Oct 2017 (incl
 Tobacco Products Control Amendment Regulations 2019 | 12 Mar 2019 p. 657-665 | r. 1 and 2: 12 Mar 2019 (see r. 2(a)); r. 3-15, 16(2)-(5) and 17: 18 Mar 2019 (see r. 2(c)); r. 16(1): 18 Sep 2020 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 8 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Health Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/168 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

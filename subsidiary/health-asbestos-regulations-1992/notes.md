@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Health (Asbestos) Regulations 1992 and includes the amendments made by the written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Asbestos) Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Health (Asbestos) Regulations 1992 | 22 May 1992 p. 2129-34 | 22 May 1992
 Health (Asbestos) Amendment Regulations 1994 | 28 Jun 1994 p. 3016-20 | 28 Jun 1994
 Health (Asbestos) Amendment Regulations 1997 | 11 Apr 1997 p. 1834 | 11 Apr 1997
@@ -13,6 +13,7 @@ Health (Asbestos) Amendment Regulations 2006 | 15 Dec 2006 p. 5622 | 15 Dec 2006
 Health (Asbestos) Amendment Regulations 2016 | 10 Jan 2017 p. 199-211 | r. 1 and 2: 10 Jan 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 10 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Health (Asbestos) Amendment Regulations 2017 | 19 Sep 2017 p. 4882 | r. 1 and 2: 19 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2017 (see r. 2(b))
+Health Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/168 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -1,13 +1,14 @@
 Notes
-This is a compilation of the Health Services (Conduct and Traffic) Regulations 2016 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Health Services (Conduct and Traffic) Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Health Services (Conduct and Traffic) Regulations 2016 | 24 Jun 2016 p. 2369-406 | 1 July 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291)
 Health Services (Conduct and Traffic) Amendment Regulations 2016 | 29 Nov 2016 p. 5319-22 | r. 1 and 2: 29 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2016 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Health Services (Conduct and Traffic) Amendment Regulations 2018 | 12 Jun 2018 p. 1892-3 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2018 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+Health Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/168 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
