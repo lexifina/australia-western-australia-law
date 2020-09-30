@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Public Transport Authority Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Transport Authority Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Public Transport Authority Regulations 2003 | 27 Jun 2003 p. 2465-97 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2384)
 Public Transport Authority Amendment Regulations 2003 | 12 Dec 2003 p. 5040-1 | 12 Dec 2003
 Public Transport Authority Amendment Regulations 2005 | 11 Feb 2005 p. 696-9 | 11 Feb 2005
@@ -16,19 +16,28 @@ Public Transport Authority Amendment Regulations 2014 | 13 Jun 2014 p. 1901-2 | 
 Public Transport Authority Amendment Regulations 2016 | 23 Dec 2016 p. 5912 | r. 1 and 2: 23 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2016 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2018 | 6 Jul 2018 p. 2549-50 | r. 1 and 2: 6 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2018 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2019 | 19 Feb 2019 p. 335 | r. 1 and 2: 19 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2019 (see r. 2(b))
+Public Transport Authority Amendment Regulations 2020 | SL 2020/183 29 Sep 2020 | r. 1 and 2: 29 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2020 (see r. 2(b))
+Other notes
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006 s. 126.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 ACROD permit24
 Act3
+appropriate ticket6A(1)
+closed area6A(1)
 conveyance3
 counter flow direction33A
 designated3
 driver3, 24
+e-cigarette11(1A)
+electronic ticket3
 facility3
 goods28(2)
+journey3
+liquor12(1A)
 master3
+paper ticket3
 park24
 parking24
 parking space24
@@ -37,8 +46,10 @@ peak flow direction33A
 peak time33A
 secured parking facility24
 sign3
+smoke11(1A)
 stand24
 standing24
 ticket3
 ticket vending machine24
+tobacco product11(1A)
 working day33A
