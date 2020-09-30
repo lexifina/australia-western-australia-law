@@ -10,11 +10,11 @@ Reprint 1: The Residential Parks (Long-stay Tenants) Act 2006 as at 6 Sep 2013 (
 Water Services Legislation Amendment and Repeal Act 2012 s. 227 | 25 of 2012 | 3 Sep 2012 | 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Consumer Protection Legislation Amendment Act 2014 Pt. 11 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 3 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
-Residential Parks (Long- stay Tenants) Amendment Act 2020 s. 3 and 80 | 28 of 2020 | 9 Jul 2020 | 10 Jul 2020 (see s. 2(1)(b))
+Residential Parks (Long- stay Tenants) Amendment Act 2020 s. 3, 6, 80-83 and 86 | 28 of 2020 | 9 Jul 2020 | s. 3 and 80: 10 Jul 2020 (see s. 2(1)(b)); s. 6, 81-83 and 86: 30 Sep 2020 (see s. 2(1)(c) and SL 2020/174 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 2 (other than s. 3 and 80) | 28 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 2 (other than s. 3, 6, 80-83 and 86) | 28 of 2020 | 9 Jul 2020 | 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -23,10 +23,13 @@ ADIGl.
 ADI accountGl.
 agreed premisesGl.
 agreementGl.
+application period98(1)
 auditor93(8)
 authorised financial institutionGl.
 bond administratorGl.
+caravan98(1)
 caravan parkGl.
+commencement day98(1)
 CommissionerGl.
 co-tenant45B(1)
 default noticeGl.
