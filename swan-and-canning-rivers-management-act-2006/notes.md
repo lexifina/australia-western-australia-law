@@ -4,7 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Swan and Canning Rivers Management Act 2006 | 51 of 2006 | 6 Oct 2006 | s. 1 and 2: 6 Oct 2006; Act other than s. 1 and 2: 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 165 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Swan and Canning Rivers Management Regulations 2007 r. 45 published in Gazette 25 Sep 2007 p. 4787-831 (as amended in Gazette 27 Jun 2014 p. 2328; 4 Mar 2016 p. 625-6) | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
+Swan and Canning Rivers Management Regulations 2007 r. 45 published in Gazette 25 Sep 2007 p. 4787-831 | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
 Reprint 1: The Swan and Canning Rivers Management Act 2006 as at 6 Mar 2009 (includes amendments listed above except those in Gazette 27 Jun 2014 p. 2328)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
@@ -15,11 +15,14 @@ Reprint 2: The Swan and Canning Rivers Management Act 2006 as at 15 Jun 2012 (in
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 15 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Commercial Arbitration Act 2012 s. 45 it. 20 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 233 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Swan and Canning Rivers Management Regulations 2007 r. 45 published in Gazette 27 Jun 2014 p. 2328 | 28 Jun 2014 (see Gazette 27 June 2014 p. 2327)
 Swan and Canning Rivers Management Amendment Act 2015 Pt. 2 | 6 of 2015 | 9 Mar 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 19 Jun 2015 p. 2095)
+Swan and Canning Rivers Management Regulations 2007 r. 45, 46 and 47 published in Gazette 4 Mar 2016 p. 625-6 | 5 Mar 2016 (see Gazette 4 Mar 2016 p. 625)
 Conservation and Land Management Amendment Act 2015 s. 78 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Reprint 3: The Swan and Canning Rivers Management Act 2006 as at 14 Oct 2016 (includes amendments listed above except those in the Public Health (Consequential Provisions) Act 2016)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 22 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Swan and Canning Rivers Management Regulations 2007 r. 47(3) inserted by SL 2020/186 r. 4 | 30 Sep 2020 (see SL 2020/186 r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
