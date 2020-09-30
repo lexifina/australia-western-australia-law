@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -80,13 +80,9 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 5 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
 Justice Regulations Amendment (Emergency Management) Regulations 2020 Pt. 3 | SL 2020/32 3 Apr 2020 | 4 Apr 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 7 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2020 (other than r. 10 and 16) | SL 2020/167 25 Sep 2020 | r. 1 & 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1, 2, 10 & 16: 29 Sep 2020 (see r. 2(c) and SL 2020/159 cl. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2020 r. 10 & 16 | SL 2020/167 25 Sep 2020 | 30 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2020 | SL 2020/167 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1, 2, 10 and 16: 29 Sep 2020 (see r. 2(c) and SL 2020/159 cl. 2(a)); r. 10 and 16: 30 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(b))
 Other notes
-Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Formerly referred to as the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Agriculture and Food is read and construed as a reference to the Department of Primary Industries and Regional Development unless the contrary intention appears.
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Commerce is read and construed as a reference to the relevant successor. The “relevant successor” means:
 (a)the Department of Jobs, Tourism, Science and Innovation if the reference to be read and construed relates to a function, office or other matter that on 1 Jul 2017 became a function of, office in or other matter relating to that department; or
