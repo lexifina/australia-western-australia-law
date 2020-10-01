@@ -12,6 +12,8 @@
  | s. 292 | Disabling in order to commit indictable offence
  | s. 294 | Acts intended to cause grievous bodily harm or to resist or prevent arrest
  | s. 297 | Grievous bodily harm
+ | s. 298 | Suffocation and strangulation
+ | s. 300 | Persistent family violence
  | s. 301 | Wounding and similar acts
  | s. 304(2) | Acts or omissions, with intent to harm, causing bodily harm or danger
  | s. 317 | Assault occasioning bodily harm
@@ -50,10 +52,11 @@
  | s. 33(1)(a) | Attempting to commit an offence under section 6(1) or 7(1)
  | s. 33(2)(a) | Conspiracy to commit an offence under s. 6(1) or 7(1)
 2b. | Restraining Orders Act 1997
- | s. 61(1) | Breach of a violence restraining order
+ | s. 61(1) | Breach of a family violence restraining order
+ | s. 61(1A) | Breach of a violence restraining order
  | s. 61(2a) | Breach of a police order
  | s. 86(2) | Breach of a Part VII order under the Justices Act 1902 — (a)that under section 86 of the Restraining Orders Act 1997 is taken to be a misconduct restraining order under that Act; and (b)that shows on the face of the order that the causing or threatening of personal injury by the accused was a ground for the making of the order.
 3. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury, etc.
  | s. 59A | Dangerous driving causing bodily harm
-[Schedule 2 inserted: No. 45 of 1993 s. 11; amended: No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11; No. 49 of 2012 s. 172.]
+[Schedule 2 inserted: No. 45 of 1993 s. 11; amended: No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11; No. 49 of 2012 s. 172; No. 30 of 2020 s. 50.]
