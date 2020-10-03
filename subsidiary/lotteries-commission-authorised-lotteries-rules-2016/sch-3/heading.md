@@ -32,8 +32,8 @@ System | No. of games per game board
 19 | 27 132
 20 | 38 760
 ## Division 3 — Summary of parameters within which Monday and Wednesday Lotto is conducted
- | Unit cost for a Monday Lotto draw | $0.55 (+ a 10% agent’s component)
- | Unit cost for a Wednesday Lotto draw | $0.55 (+ a 10% agent’s component)
+Unit cost for a Monday Lotto draw | $0.55 (+ a 10% agent’s component)
+Unit cost for a Wednesday Lotto draw | $0.55 (+ a 10% agent’s component)
 Prize fund — % of subscriptions | 60.0%
 Prize pool — % of subscriptions | no less than 33.0%
 Prize reserve fund — % of subscriptions | balance of prize fund after prize pool (up to 27.0%)
