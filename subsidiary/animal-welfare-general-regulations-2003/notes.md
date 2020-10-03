@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Animal Welfare (General) Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Animal Welfare (General) Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Animal Welfare (General) Regulations 2003 | 4 Apr 2003 p. 1077-96 | 4 Apr 2003 (see r. 2 and Gazette 4 Apr 2003 p. 1023)
 Animal Welfare (General) Amendment Regulations 2004 | 30 Dec 2004 p. 7010 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Animal Welfare (General) Amendment Regulations 2006 | 23 Jun 2006 p. 2192-3 | 23 Jun 2006
@@ -12,9 +12,15 @@ Reprint 1: The Animal Welfare (General) Regulations 2003 as at 21 Jul 2008 (incl
 Animal Welfare (General) Amendment Regulations (No. 2) 2010 | 16 Feb 2010 p. 644-5 | r. 1 and 2: 16 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Feb 2010 (see r. 2(b))
 Animal Welfare (General) Amendment Regulations 2010 | 16 Mar 2010 p. 977-8 | r. 1 and 2: 16 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Mar 2010 (see r. 2(b))
 Animal Welfare (General) Amendment Regulations 2013 | 5 Feb 2013 p. 826-7 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
+Animal Welfare (General) Amendment Regulations 2020 | SL 2020/161 2 Oct 2020 | r. 1 and 2: 2 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2020 (see r. 2(b)(i) and (c) and SL 2020/159 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 BAM Act5(1)
 BAM Act list5(1)
+depot7(1)
+saleyard7(1)
+supervised person7(4)
+supervisor7(4)
 tail docking14(1)
+transport process7(1)

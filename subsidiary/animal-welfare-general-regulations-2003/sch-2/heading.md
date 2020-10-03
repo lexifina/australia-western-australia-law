@@ -33,6 +33,47 @@ I authorise ..................................................., an inspector, t
 Signed ..................................................... (Justice of the Peace)
 Dated .....................................................
 [Form 1 amended: Gazette 20 Jun 2008 p. 2719; 18 Jul 2008 p. 3330.]
+Form 1A — Infringement notice
+[r. 9B(1)]
+Animal Welfare Act 2002 Infringement Notice | Infringement notice no.
+Alleged offender | Name
+Address
+Alleged offence | Date or period
+Place
+Written law contravened
+Details of offence
+Date | Date of notice
+Inspector | Name
+Office
+Signature
+Modified penalty | $________
+TAKE NOTICE | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty to the Authorised Person within 28 days after the date of this notice.
+ | If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Authorised Person at the address below. Paying the modified penalty is not regarded as an admission for the purposes of any civil or criminal proceedings.
+ | If you want this matter to be dealt with by prosecution in court, sign and date here: __________________________________ / /20 and post this notice to the Authorised Person at the address below within 28 days after the date of this notice.
+How to pay | In person | [Insert details for paying in person]
+By post | [Insert details for paying by post]
+Online | [Insert details for paying online]
+By telephone | [Insert details for paying by telephone]
+[Form 1A inserted: SL 2020/161 r. 8; amended: SL 2020/161 r. 9.]
+Form 1B — Withdrawal of infringement notice
+[r. 9B(2)]
+Animal Welfare Act 2002 Withdrawal of infringement notice | Withdrawal no.
+Alleged offender | Name
+Address
+Details of infringement notice | Infringement notice no.
+Date of issue
+Date or period
+Place
+Written law contravened
+Details of offence
+Authorised person withdrawing notice | Name
+Office
+Signature
+Date | Date of withdrawal
+Withdrawal of infringement notice [*Delete whichever is not applicable] | The above infringement notice issued against you for the above alleged offence has been withdrawn. If you have already paid the modified penalty for the alleged offence, you are entitled to a refund. 1.Your refund is enclosed. or
+ | 2.If you have paid the modified penalty but a refund is not enclosed, you may claim your refund by signing and dating this notice and posting it to: Authorised Person — Animal Welfare Act 2002 [Insert address]
+Your signature |  | Date
+[Form 1B inserted: SL 2020/161 r. 8.]
 Form 2
 [r. 10]
 Animal Welfare Act 2002

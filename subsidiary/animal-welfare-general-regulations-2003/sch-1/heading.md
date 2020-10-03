@@ -1,54 +1,61 @@
-## Schedule 1 — Codes of practice
-[r. 6]
-Codes of practice
-1. | Australian Rules of Racing
- | Last consolidated and published 3 February 2003 by the Australian Racing Board
-2. | Buffalo — Code of practice for farmed buffalo in Western Australia
- | First published by the Department in March 2003
-[3, 4.deleted]
-5. | Cattle Transportation — Code of practice for the transportation of cattle in Western Australia
- | First published by the Department in March 2003
-6. | Circuses — Code of practice for the conduct of circuses in Western Australia
- | First published by the Department in March 2003
-7. | Deer — Code of practice for farming deer in Western Australia
- | First published by the Department in March 2003
-[8.deleted]
-9. | Exhibited Animals — Code of practice for exhibited animals in Western Australia
- | First published by the Department in March 2003
-10. | Feral Animals — Code of practice for the capture and marketing of feral animals in Western Australia
- | First published by the Department in March 2003
-11. | Goats — Code of practice for goats in Western Australia
- | First published by the Department in March 2003
-12. | Horse Transportation — Code of practice for the transportation of horses in Western Australia
- | First published by the Department in March 2003
-12A. | Model Code of Practice for the Welfare of Animals: Cattle (2nd Edition)
- | First published by the Primary Industries Ministerial Council in 2004
-12B. | Model Code of Practice for the Welfare of Animals: Husbandry of Captive-Bred Emus (2nd Edition)
- | First published by the Primary Industries Ministerial Council in 2006
-12C. | Model Code of Practice for the Welfare of Animals: Land Transport of Poultry (2nd Edition)
- | First published by the Primary Industries Ministerial Council in 2006
-12DA. | Model Code of Practice for the Welfare of Animals: Livestock at Slaughtering Establishments
- | First published in 2001 (paperback) and 2002 (on-line) by CSIRO publishing, acting on behalf of the Agriculture and Resource Management Council of Australia and New Zealand.
-12D. | Model Code of Practice for the Welfare of Animals: The Camel (2nd Edition)
- | First published by the Primary Industries Ministerial Council in 2006
-13. | Model Code of Practice for the Welfare of Animals: Pigs (3rd Edition) First published by the Primary Industries Ministerial Council in 2008
-14. | Pig Transportation — Code of practice for the transportation of pigs in Western Australia
- | First published by the Department in March 2003
-15. | Pigeons — Code of practice for pigeon keeping and racing in Western Australia
- | First published by the Department in March 2003
-16. | Poultry — Code of practice for poultry in Western Australia
- | First published by the Department in March 2003
-[17.deleted]
-18. | Rabbits — Code of practice for keeping rabbits in Western Australia
- | First published by the Department in March 2003
-19. | Rodeos — Code of practice for the conduct of rodeos in Western Australia
- | First published by the Department in March 2003
-20. | Rules of Harness Racing 1999
- | Made under the Western Australian Trotting Association Act 1946 and published in the Gazette
-21. | Saleyards — Code of practice for animals at saleyards in Western Australia
- | First published by the Department in March 2003
-22. | Sheep — Code of practice for sheep in Western Australia
- | First published by the Department in March 2003
-23. | Sheep Transportation — Code of practice for the transportation of sheep in Western Australia
- | First published by the Department in March 2003
-[Schedule 1 amended: Gazette 23 Jun 2006 p. 2193; 12 Jun 2007 p. 2720-1; 20 Jun 2008 p. 2719; 16 Feb 2010 p. 645.]
+## Schedule 1 — Prescribed offences and modified penalties
+[r. 9A]
+Table
+Item | Offence under the Animal Welfare (Transport, Saleyards and Depots) (Cattle and Sheep) Regulations 2020 | Modified penalty
+1. | r. 17(3) | $750
+2. | r. 18(1) | $750
+3. | r. 18(3) | $750
+4. | r. 19(1) | $750
+5. | r. 19(2) | $750
+6. | r. 19(3) | $750
+7. | r. 20, but only in relation to an offence committed in circumstances referred to in paragraphs (a), (b), (c) or (e) | $750
+8. | r. 21(1) | $500
+9. | r. 22(3) | $750
+10. | r. 23(1) | $750
+11. | r. 23(3) | $750
+12. | r. 24(1) | $500
+13. | r. 24(3) | $500
+14. | r. 24(4) | $500
+15. | r. 25(1) | $500
+16. | r. 25(2) | $500
+17. | r. 26(2) | $500
+18. | r. 28 | $500
+19. | r. 29(1) | $500
+20. | r. 30(1) | $500
+21. | r. 30(2) | $500
+22. | r. 31(1) | $500
+23. | r. 32(1) | $750
+24. | r. 32(2) | $750
+25. | r. 33(1) | $750
+26. | r. 33(2) | $750
+27. | r. 35(1) | $750
+28. | r. 39 | $500
+29. | r. 40(2) | $750
+30. | r. 40(3) | $750
+31. | r. 43(2) | $750
+32. | r. 44 | $750
+33. | r. 45 | $750
+34. | r. 46(2) | $750
+35. | r. 47(2) | $750
+36. | r. 49 | $500
+37. | r. 50(1) | $500
+38. | r. 50(3) | $500
+39. | r. 50(4) | $500
+40. | r. 51(1) | $500
+41. | r. 51(2) | $500
+42. | r. 52(2) | $500
+43. | r. 54(2) | $500
+44. | r. 55(1) | $500
+45. | r. 56(4) | $750
+46. | r. 56(5) | $750
+47. | r. 58(2) | $750
+48. | r. 58(3) | $750
+49. | r. 63(1) | $750
+50. | r. 63(3) | $750
+51. | r. 64(1) | $500
+52. | r. 64(2) | $750
+53. | r. 65(1) | $500
+54. | r. 65(3) | $500
+55. | r. 67(2) | $500
+56. | r. 68(1) | $750
+[Schedule 1 inserted: SL 2020/161 r. 7.]
