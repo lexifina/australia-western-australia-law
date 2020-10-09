@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Sector Management (General) Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Public Sector Management (General) Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Public Sector Management (General) Regulations 1994 | 16 Sep 1994 p. 4798-803 | 1 Oct 1994 (see r. 2 and Gazette 30 Sep 1994 p. 4948)
@@ -25,6 +25,10 @@ Public Sector Management (General) Amendment Regulations 2012 | 24 Jan 2012 p. 5
 Public Sector Management (General) Amendment Regulations (No. 2) 2012 | 5 Jun 2012 p. 2363-6 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2012 (see r. 2(b))
 Public Sector Management (General) Amendment Regulations 2014 | 19 Aug 2014 p. 2996 | r. 1 and 2: 19 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Aug 2014 (see r. 2(b))
 Public Sector Management (General) Amendment Regulations 2020 | SL 2020/2 24 Jan 2020 | r. 1 and 2: 24 Jan 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Public Sector Management (General) Amendment Regulations (No. 2) 2020 r. 3 and 4 | SL 2020/189 9 Oct 2020 | 30 Nov 2020 (see r. 2(b))
 Other notes
 The Government Employees’ Housing Act 1964 s.15 was deleted by the Machinery of Government(Miscellaneous Amendments) Act 2006 s. 300.
 Repealed by the Country Housing Act 1998 s. 47.
