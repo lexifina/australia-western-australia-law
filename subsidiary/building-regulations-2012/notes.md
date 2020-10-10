@@ -38,6 +38,7 @@ Building Amendment Regulations 2020 | SL 2020/11 3 Mar 2020 | r. 1 and 2: 3 Mar 
 Building Amendment Regulations (No. 2) 2020 | SL 2020/28 31 Mar 2020 | r. 1 and 2: 31 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
 Building Amendment Regulations (No. 3) 2020 | SL 2020/46 24 Apr 2020 | r. 1 and 2: 24 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2020 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Building Amendment Regulations (No. 5) 2020 | SL 2020/192 9 Oct 2020 | r. 1 and 2: 9 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2020 (see r. 2(b))
 Other notes
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
