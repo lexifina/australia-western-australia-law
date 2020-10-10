@@ -1,11 +1,12 @@
 Notes about National Gas Access (WA) Act 2009
-This is a compilation of the National Gas Access (WA) Act 2009 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the National Gas Access (WA) Act 2009 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 National Gas Access (WA) Act 2009 | 16 of 2009 | 1 Sep 2009 | s. 1 and 2: 1 Sep 2009 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Petroleum and Energy Legislation Amendment Act 2010 s. 184 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) Gazette 24 May 2011 p. 1892)
 National Gas Access (WA) (Act Amendment) Regulations 2017 published in Gazette 22 Dec 2017 p. 5985-6 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b) and Gazette 22 Dec 2017 p. 5984)
 National Gas Access (WA) (Act Amendment) Regulations 2019 published in Gazette 5 Apr 2019 p. 1009-10 | r. 1 and 2: 5 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2019 (see r. 2(b) and Gazette 5 Apr 2019 p. 1007)
+National Gas Access (WA) (Act Amendment) Regulations 2020 (SL 2020/194) | r. 1 and 2: 9 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2020 (see r. 2(b) and SL 2020/195 cl. 2(b))
 ## Note — Western Australian National Gas Access Law text
 [This note is not part of the Act. It shows the text that, under section 7(1), applies as the National Gas Access (Western Australia) Law.]
 ## Chapter 1 — Preliminary
@@ -3195,7 +3196,7 @@ Section 74 and Schedule 1 to this Law specify the subject matter for Rules.
 (a)an AEMC initiated Rule is a non-controversial Rule; or
 (b)a request for a Rule is a request for a non-controversial Rule; or
 (c)a request for a Rule is a request for an urgent Rule,
-the AEMC may make the relevant Rule in accordance with this Part (except sections 307 to 310) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 6 weeks from the date of publication of the notice under section 303.
+the AEMC may make the relevant Rule in accordance with this Part (except sections 307 to 310) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 8 weeks from the date of publication of the notice under section 303.
 (2)Before making a Rule as set out in subsection (1), the AEMC must include in a notice under section 303 a statement to the effect that the AEMC may make the relevant Rule if the AEMC does not receive a written request, and reasons, not to do so from any person or body within 2 weeks of publication of that notice.
 (3)The AEMC must not make a Rule in accordance with this section if, following publication of a notice under section 303 containing a statement to the effect set out in subsection (2)—
 (a)the AEMC receives a written request not to do so; and
@@ -3204,6 +3205,7 @@ the AEMC may make the relevant Rule in accordance with this Part (except section
 (a)make a decision to that effect; and
 (b)give the person or body its reasons, in writing, for that decision without delay.
 (5)If the AEMC is of the opinion that the reasons given by a person or body in a written request for it not to make the non-controversial Rule or urgent Rule, are not misconceived or lacking in substance, the AEMC must publish a notice to the effect that it will make the relevant Rule in accordance with this Part (other than this section).
+[Section 304 amended: see SA Act No. 12 of 2018 s. 26 and WA SL 2020/195 cl. 3.]
 ### 305. “Fast track” Rules where previous public consultation by gas market regulatory body or an AEMC review
 (1)This section applies if—
 (a)a gas market regulatory body has—
@@ -4622,6 +4624,13 @@ old scheme classification and scheme participant determination means—
 (a)a classification and determination under section 10(5)(a) of the old access law; or
 (b)a determination under section 10(5)(b) of the old access law; or
 (c)a classification and determination under section 11(3) of the old access law.
+## Part 15—Transitional provision related to AEMC rule making powers
+[Heading inserted: see SA Act No. 12 of 2018 s. 29 and WA SL 2020/195 cl. 3.]
+### 90. AEMC rule making powers
+The amendment to section 304 of this Law by section 26 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
+(a)a Rule on a request under section 295(1) of this Law received by the AEMC before the commencement of this clause; or
+(b)an AEMC initiated Rule (within the meaning of section 290 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.
+[Clause 90 inserted: see SA Act No. 12 of 2018 s. 29 and WA SL 2020/195 cl. 3.]
 ## Part 17—Transitional provisions for rate of return instrument
 [Heading inserted: see SA Act No. 33 of 2018 s. 21 and WA Gazette 5 Apr 2019 p. 1007.]
 ### 95. Definitions
@@ -4672,6 +4681,7 @@ National Gas (South Australia) Act 2008 Schedule (as modified by the National Ga
 National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009 s. 6 | SA Act No. 30 of 2009 | In SA: 1 Jul 2009 (see SA Gazette 25 Jun 2008 p. 3000) In WA: 1 Jan 2010 (see WA Gazette 18 Dec 2009 p. 5167-8)
 Statutes Amendment (National Electricity and Gas Laws — Limited Merits Review) Act 2013 Pt. 3 | SA Act No. 79 of 2013 | In SA: 19 Dec 2013 (see SA Gazette 19 Dec 2013 p. 4927) In WA: 15 Mar 2014 (see WA Gazette 14 Mar 2014 p. 632)
 National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017 | SA Act No. 23 of 2017 | In SA: 1 Aug 2017 (see SA Gazette 1 Aug 2017 p. 3037) In WA: 23 Dec 2017 (see WA Gazette 22 Dec 2017 p. 5984)
+Statutes Amendment (National Energy Laws) (Rules) Act 2018 | SA Act No. 12 of 2018 | In SA: 20 Sep 2018 (see SA Gazette 20 Sep 2018 p. 3500) In WA: 10 Oct 2020 (see SL 2020/195 cl. 2(b))
 Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018 Pt. 3 | SA Act No. 33 of 2018 | In SA: 13 Dec 2018 (see SA Gazette 13 Dec 2018 p. 4272) In WA: 6 Apr 2019 (see WA Gazette 5 Apr 2019 p. 1007)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined.
