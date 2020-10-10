@@ -1,16 +1,17 @@
 Notes
-This is a compilation of the Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 | 18 Apr 2019 p. 1177-205 | r. 1 and 2: 18 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Apr 2019 (see r. 2(b) and Gazette 18 Apr 2019 p. 1157)
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Amendment Regulations 2019 | 17 Dec 2019 4279-358 | r. 1 and 2: 17 Dec 2019 (see r. 2(a)) Regulations other than r. 1 and 2: 18 Dec 2019 (see r. 2(b))
+Waste Avoidance and Resource Recovery (Container Deposit Scheme) Amendment Regulations 2020 | SL 2020/191 9 Oct 2020 | r. 1 and 2: 9 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-alternative action3S(4), 3T(1), 29(4)
+alternative action3S(4), 3S(4), 3T(1), 29(4)
 annual report15(1)
 approved beverage product3(1A)
-approved recycler9(1)
+approved recycler9(1), 20(1)
 approved sampling plan4ZC
 approved scheme agreement template4M
 approved supply amounts calculation methodology4S
@@ -48,13 +49,12 @@ flavouring3A(1), 3B(1)
 growler3B(1)
 GS1 Standard3H(1)
 GTIN barcode3H(1)
-incoming Coordinator20, 32B(1)
+incoming Coordinator20(2), 32B(1)
 initial period16(1)
 local government sharing protocol4ZM(1), 4ZN(1)
 milk3A(1)
 Minimum Network Standards12(1)
 minor beverage supplier3(1)
-monthly report17(1)
 outgoing Coordinator32B(1)
 performance target3(1)
 preliminary year10(1)
@@ -78,8 +78,10 @@ reverse vending machine3(1)
 scheme participant3(1)
 sealable aluminium can3B(1)
 specified counterparty7A(1)
+specified period17(1)
 spirituous liquor3B(2)
 submission period3S(3), 25(2), 29(2), 30(4), 40(2)
+subsidiary3(1)
 third party operator4ZM(3)
 transition day41(1)
 transition out plan32A(1)
