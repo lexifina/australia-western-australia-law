@@ -21,6 +21,7 @@ Citation | Published | Commencement
  | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
  | Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 5 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
  | Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+ | Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 6 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see r. 2(c))
 Other notes
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
@@ -43,7 +44,7 @@ capacity4
 class4
 class label4
 combustible liquid4
-commencement daySch. 6 cl. 1, cl. 6 and cl. 10
+commencement daySch. 6 cl. 1, Sch. 6 cl. 6, Sch. 6 cl. 10
 compatible4
 consignor134
 consumer container4
@@ -134,8 +135,8 @@ storage area25(1A)
 storage locationSch. 3 cl. 1
 storage or handling system4
 submission date40(2), 103(2)
-subsidiary risk4
-subsidiary risk label4
+subsidiary hazard4
+subsidiary hazard label4
 sufficient evidence135M(1)
 supplier16
 threshold amountSch. 6 cl. 12(2)

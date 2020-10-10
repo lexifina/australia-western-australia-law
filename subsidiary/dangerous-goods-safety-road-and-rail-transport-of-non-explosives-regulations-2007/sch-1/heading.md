@@ -53,6 +53,8 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 47. | Regulation 160(3) | 200 | —
 48. | Regulation 161(1) | 200 | —
 49. | Regulation 161(2) | 200 | —
+49A. | Regulation 162A | 200 | 1 000
+49B. | Regulation 162B | 300 | 1 500
 50. | Regulation 163 | 600 | 3 000
 51. | Regulation 164(1) | 600 | 3 000
 52. | Regulation 165(1) | 200 | —
@@ -63,6 +65,10 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 57. | Regulation 172 | 600 | —
 58. | Regulation 173 | 600 | —
 59. | Regulation 174 | 600 | —
+59A. | Regulation 174A | 200 | 1 000
+59B. | Regulation 174B | 600 | 3 000
+59C. | Regulation 174C | 600 | 3 000
+59D. | Regulation 174D | 600 | 3 000
 60. | Regulation 177(2) | 600 | 3 000
 61. | Regulation 177(3) | 600 | 3 000
 62. | Regulation 178(4) | 300 | 1 500
@@ -81,4 +87,4 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 74. | Regulation 257(1) | 600 | 3 000
 75. | Regulation 258(1) | 600 | 3 000
 76. | Regulation 259(2) | 200 | 1 000
-[Schedule 1 amended: Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701; 11 Jul 2017 p. 3833; 31 Aug 2018 p. 3047.]
+[Schedule 1 amended: Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701; 11 Jul 2017 p. 3833; 31 Aug 2018 p. 3047; SL 2020/193 r. 27.]

@@ -1,13 +1,14 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (General) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (General) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Dangerous Goods Safety (General) Regulations 2007 | 31 Dec 2007 p. 7143-60 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Dangerous Goods Safety (General) Amendment Regulations 2010 | 22 Jun 2010 p. 2780-2 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2010 (see r. 2(b))
 Dangerous Goods Safety (General) Amendment Regulations 2012 | 16 Mar 2012 p. 1257-9 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 3 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 3 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
 Reprint 1: The Dangerous Goods Safety (General) Regulations 2007 as at 7 Apr 2017 (includes amendments listed above)
+Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 2 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

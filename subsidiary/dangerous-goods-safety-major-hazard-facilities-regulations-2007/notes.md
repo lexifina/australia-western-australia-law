@@ -20,6 +20,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see r. 2(c))
 Other notes
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
 Defined terms
@@ -58,12 +59,12 @@ place4
 relevant date17(1)
 relevant time4
 risk assessment4
-risk control measures23(2)(c), Sch. 4 cl. 5(1)
+risk control measures23(2), Sch. 4 cl. 5(1)
 safety management system4
 safety report4
 Schedule 1 substance4
 site licence34(1)
-subsidiary riskSch. 1 cl. 2
+subsidiary hazardSch. 1 cl. 2
 Table 110(1)
 Table 210(1)
 threshold quantity9(1)

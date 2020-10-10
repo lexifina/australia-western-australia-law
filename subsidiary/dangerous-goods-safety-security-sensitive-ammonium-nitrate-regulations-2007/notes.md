@@ -18,6 +18,7 @@ Reprint 2: The Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regu
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 4 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 5 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see s. 2(c))
 Other notes
 Now known as the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007; citation changed (see note under r. 1).
 Defined terms
