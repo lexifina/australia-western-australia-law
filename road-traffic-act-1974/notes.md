@@ -164,11 +164,12 @@ Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 o
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Road Traffic Amendment (Blood Alcohol Content) Act 2019 | 20 of 2019 | 15 Aug 2019 | Pt. 1: 15 Aug 2019 (see s. 2(a)); Act other than Pt. 1: 12 Sep 2019 (see s. 2(b))
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 s. 3 and 39 | 27 of 2020 | 9 Jul 2020 | 12 Oct 2020 (see s. 2(1)(b) and SL 2020/148 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 2 | 27 of 2020 | 9 Jul 2020 | s. 3 and 39: 12 Oct 2020 (see s. 2(1)(b) and SL 2020/148 cl. 2); Pt. 2 (other than s. 3 and 39): to be proclaimed (see s. 2(1)(b))
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 2 (other than s. 3 and 39) | 27 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Footnote no longer applicable.
@@ -302,7 +303,7 @@ Defined terms
 Defined termProvision(s)
 above the speed limit49AAA
 alleged offence71C(1), 71C(1)
-alleged offender71C(1)(a) and (b), 79BCA(1)(c), 79BCD(1)(a), 79D(2)(f)(ii), (g)(ii), (h)(ii) and (i)(ii) and 79D(6)(b)
+alleged offender71C(1), 79BCA(1), 79BCD(1), 79D(2) and (6)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
 amendment Act109(1)
@@ -314,7 +315,7 @@ authorised drug tester65
 authorised person65
 blood alcohol content65
 breath analysing equipment65
-business owner79D(2)(g)(i)
+business owner79D(2)
 cancellation provision62B(3), 64A(1A)
 circumstances of aggravation49AB(1)
 commencement day72(8), 72A(1), 109(1), 110(1)
@@ -326,7 +327,8 @@ confiscation zone49AAA
 day of the offence78A(1)
 dentist65
 disqualification notice71C(2)
-driver49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1) and (4), 59(1), 59A(1), 59BA(1), 79BC(1)(a)
+driver49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1), and (4), 59(1), 59A(1),
+59BA(1), 79BC(1)
 driver assessment65
 drug65
 drug testing65
@@ -346,35 +348,35 @@ impounding offence (driving)78A(1)
 impounding or confiscation order78A(1)
 impounding order78A(1)
 impounding period78A(1)
-impounding provision79BA(1)(b)(i) and (ii), 79BCA(5)(b), 79BCD(5)(b)
-initially impounded vehicle79BCA(1)(a)
+impounding provision79BA(1), 79BCA(5), 79BCD(5)
+initially impounded vehicle79BCA(1)
 instructor49AAA
 interest78A(1)
 item80J(1), 80M(1), 80V(1)
 learner driver49AAA
 lent78A(1)
-material time71(1)
 medical practitioner65
 Minister72(3A)
 motor cycle49AAA
 necessity permit49A(5)
 notice to surrender79BCC(1)
 nurse practitioner65
-offence60B(1), 79BA(1)(a), 79BCA(1)(c), 79BCD(1)(a)
+offence60B(1), 79BA(1), 79BCA(1), 79BCD(1)
 offender71B(1), 80LA(1)
 order80G(1), 81A
 passenger transport vehicle79D(1)
-person66(7)(b)
-police officer71C(1)(a) and (b), 79BA(1)(a)
+person66(7)
+police officer71C(1), 79BA(1)
 post-impoundment expenses80I(1A)
 preliminary oral fluid test65
 preliminary test65
 prescribed authorisation —49AB(1AA)
 prescribed illicit drug65
 prescribed sample taker65
-previous offender79(1A), 79BC(1)(a)
+previous offender79(1A), 79BC(1)
 provide driving instruction49AAA
 provider of a passenger transport vehicle79D(1)
+radar detector81G(1)
 reasonable expenses78A(1)
 reckless manner60(1)
 registered nurse65
@@ -400,11 +402,10 @@ surrender period78A(1)
 surrender substitute vehicle notice79BCA(2)
 suspected use80N
 technologist70(7)
-time of sampling71(1)
 uncollected vehicle80J(1), 80M(1)
 undergoes65
-vehicle79BA(1)(a)
-vehicle A79BCD(1)(a)
+vehicle79BA(1)
+vehicle A79BCD(1)
 vehicle referred to in section 80GA78A(1)
 vehicle service provider79D(1)
 victim54(2) and (6)
