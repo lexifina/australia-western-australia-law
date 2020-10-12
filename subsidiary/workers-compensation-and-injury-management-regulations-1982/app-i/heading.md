@@ -1769,20 +1769,8 @@ Degree of permanent whole of person impairment
 %
 The Director has, under section 93L of the Act, recorded an agreement or assessment as to the worker’s degree of permanent whole of person impairment, and the Record Number is:
 Record Number
-Termination day
-1.Did a dispute resolution authority, acting under section 58(1) or (2) of the Act, determine the question of liability to make the weekly payments claimed?
- | Yes | o | If so, answer question 2.
- | No | o | If not, skip question 2.
-2.Was the question determined more than 3 months after the day on which compensation by way of weekly payments was claimed?
- | Yes | o | If so, on which date?
- | No | o
-3.Was the worker first notified that liability is accepted in respect of the weekly payments claimed more than 3 months after the day on which compensation by way of weekly payments was claimed?
- | Yes | o | If so, on which date?
- | No | o
-4.Has the termination day been extended under section 93M(4) of the Act?
- | Yes | o | If so, to which date?
- | No | o
-WARNING An election cannot be withdrawn after the Director registers it and a subsequent election cannot be made in respect of the same injury or injuries (see section 93L(6) of the Act). Registration of an election may affect your entitlement to statutory compensation under the Workers’ Compensation and Injury Management Act 1981.
+WARNING
+An election cannot be withdrawn after the Director registers it and a subsequent election cannot be made in respect of the same injury or injuries (see section 93L(6) of the Act). Registration of an election may affect your entitlement to statutory compensation under the Workers’ Compensation and Injury Management Act 1981.
 You should seek appropriate independent advice before lodging this form.
 Advice of consequences of election
 I have been properly advised of the consequences of making this election.
@@ -1795,95 +1783,8 @@ worker |  | Date | / /
  | (signature of person sending copy)
 employer |  | Date | / /
  | (signature of person sending copy)
-[Form 34 inserted: Gazette 28 Oct 2005 p. 4948-50.]
-Form 35
-[r. 23]
-Workers’ Compensation and Injury Management Act 1981
-APPLICATION TO EXTEND TERMINATION DAY
-[for extension under section 93M(4) of the Act]
-Worker’s details
-Surname |  | Other names
-Date of birth |  | Sex |  | Occupation
-Address
-Postcode
-Telephone no. |  | WorkCover claim number (WCCN)
- |  | (if not known, insurer can provide WCCN)
-Employer’s details
-Name
-Address
-Postcode
-Telephone no. |  | WorkCover number (WCN)
-Contact person
-Title |  | Telephone no.
-Insurer’s details
-Name
-Address
-Postcode
-Contact person |  | Telephone no.
-Injury details
-Description of injury
-Date injury occurred
-Date the claim for compensation by way of weekly payments was made on employer |  | Claim number given by insurer (if known)
-Termination day
-1.Did a dispute resolution authority, acting under section 58(1) or (2) of the Act, determine the question of liability to make the weekly payments claimed?
- | Yes | o | If so, answer question 2.
- | No | o | If not, skip question 2.
-2.Was the question determined more than 3 months after the day on which compensation by way of weekly payments was claimed?
- | Yes | o | If so, on which date?
- | No | o
-3.Was the worker first notified that liability is accepted in respect of the weekly payments claimed more than 3 months after the day on which compensation by way of weekly payments was claimed?
- | Yes | o | If so, on which date?
- | No | o
-4.Has the termination day been extended under section 93M(4) of the Act?
- | Yes | o | If so, to which date?
- | No | o
-Extension sought
-1.This application is for the termination day to be extended in the circumstances described in —
- | o | section 93M(4)(a) of Act | (worker’s condition has not stabilised)
- | o | section 93M(4)(b) of Act | (employer failed to comply with section 93O of Act)
- | o | section 93M(4)(c) of Act | (more time required to give documents to worker)
- | o | section 93M(4)(d)(i) of Act | (assessment requested but documents not available within specified time — not special evaluation)
- | o | section 93M(4)(d)(ii) of Act | (assessment requested but documents not available within specified time — special evaluation)
-2.Specify date until which extension sought.
-Signature of worker | ________________________________ | Date | / /
-How to lodge this form
-1.This form should be lodged in accordance with regulation 57.
-2.WHEN LODGING THIS FORM ALSO LODGE ANYTHING ELSE THAT REGULATION 23 REQUIRES YOU TO LODGE.
-Extension given or refused
-The termination day
- | is extended to |  | / /
- | is not extended. | o
-Signature of Director |  | Date | / /
-[Form 35 inserted: Gazette 28 Oct 2005 p. 4951-3; amended: Gazette 18 Nov 2011 p. 4825; SL 2020/149 r. 9(3).]
-Form 36
-[r. 25]
-Workers’ Compensation and Injury Management Act 1981
-NOTICE TO WORKER ABOUT TERMINATION DAY FOR ELECTION
-[under section 93O of the Act]
-Date on which notice given (insert date)
-(Insert name of worker)
-(Insert address of worker)
-WorkCover claim number (WCCN) (insert number)
-Date of injury (insert date)
-Date when claim for compensation made on employer: (insert date)
-IMPORTANT INFORMATION
-Section 93O of the Workers’ Compensation and Injury Management Act 1981 entitles you to notice of certain things that may affect the damages you could recover in court.
-If your cause of action arises on or after 14 November 2005, a court will not be able to award damages for your injury if you do not elect under section 93K of the Act to retain the right to seek damages and have the election registered by WorkCover’s Director.
-On the other hand, registering your election may affect your entitlement to statutory compensation. You should seek advice on whether or not to make an election.
-One rule about electing is that, if you claim compensation by way of weekly payments because of your injury, you cannot elect after the termination day (there are exceptions to this rule for AIDS and specified industrial diseases).
-Your termination day for this injury is.............. (specify date), which is about 6 months away.
-You may be able to apply for the termination day to be extended but an extension can only be given in limited circumstances (see section 93M(4) and (8) of the Act).
-Also, before you can elect, an agreement (between you and your employer) or assessment (by an approved medical specialist you select — see the register kept by the Director) about the level of your degree of permanent whole of person impairment has to be made and recorded by the Director. The level agreed or assessed has to be 15% or more.
-If you request an assessment, the approved medical specialist can reasonably be expected to take 6 weeks from when you make the request to give you the documents about the outcome of the assessment. In some cases 7 weeks is relevant (see section 93M(4)(d)(ii) of the Act). You need to allow for this time.
-This notice is a standard document and is not meant to be relied on instead of obtaining appropriate advice.
-Employer’s details
-Name
-Address
-Postcode
-Telephone no. |  | WorkCover number (WCN)
-Contact person
-Title |  | Telephone no.
-[Form 36 inserted: Gazette 28 Oct 2005 p. 4953-4; amended: Gazette 18 Nov 2011 p. 4825.]
+[Form 34 inserted: Gazette 28 Oct 2005 p. 4948-50; amended: SL 2020/188 r. 17(1).]
+[Forms 35 and 36 deleted: SL 2020/188 r. 17(2).]
 Form 37
 [r. 47(4)(a)]
 Workers’ Compensation and Injury Management Act 1981
