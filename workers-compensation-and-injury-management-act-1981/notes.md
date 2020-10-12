@@ -85,14 +85,13 @@ Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (s
  | Statutes (Repeals) Act 2016 Pt. 2 Div. 4 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
  | Reprint 12: The Workers’ Compensation and Injury Management Act 1981 as at 24 Nov 2017 (includes amendments listed above)
  | Workers’ Compensation and Injury Management Amendment Act 2018 | 8 of 2018 | 20 Jun 2018 | Pt. 1: 20 Jun 2018 (see s. 2(a)); Pt. 3: 21 Jun 2018 (see s. 2(b)); Act other than Pt. 1 and 3: 1 Jul 2018 (see s. 2(c) and Gazette 29 Jun 2018 p. 2433)
- | Workers’ Compensation and Injury Management Amendment (COVID-19 Response) Act 2020 s. 1-3 and 16 | 31 of 2020 | 18 Aug 2020 | s. 1 and 2: 18 Aug 2020 (see s. 2(1)(a)); s. 3 and 16: 19 Aug 2020 (see s. 2(1)(b))
+ | Workers’ Compensation and Injury Management Amendment (COVID-19 Response) Act 2020 | 31 of 2020 | 18 Aug 2020 | s. 1 and 2: 18 Aug 2020 (see s. 2(1)(a)); s. 3 and 16: 19 Aug 2020 (see s. 2(1)(b)); Act other than s. 1-3 and 16: 12 Oct 2020 (see s. 2(1)(c) and SL 2020/187 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 160 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Workers’ Compensation and Injury Management Amendment (COVID-19 Response) Act 2020 s. 4-15 and 17-18 | 31 of 2020 | 18 Aug 2020 | To be proclaimed (see s. 2(1)(c) and (2))
 Other notes
 Footnote no longer applicable.
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
@@ -436,7 +435,9 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 additional medical examination66A(1)
-adjacent areaSch. 6 cl. 2(1), (2), (3) & (4)
+adjacent areaSch. 6 cl. 2(1), (2), (3) and (4)
+adjustable amount5A(1A)
+adjustment methodology5A(3)
 agent261
 agent service261
 aggregated amountSch. 1A cl. 11(1)
@@ -449,7 +450,7 @@ amendment day24(1), 31A(1)
 Amount A93F(8), 93K(12), Sch. 1 cl. 11(2)
 Amount AaSch. 1 cl. 11(2)
 Amount BSch. 1 cl. 11(2)
-Amount CSch. 1 cl. 11(2)
+Amount C5A(1A), Sch. 1 cl. 11(2)
 Amount DSch. 1 cl. 11(2)
 Amount ESch. 1 cl. 11(2)
 another State93AF(2)
@@ -476,11 +477,11 @@ child’s allowance72J(1), Sch. 1A cl. 5
 childrenSch. 1A cl. 2(2)
 chiropractor5(1)
 claim72C
-claim for compensation by way of weekly payments93M(2)
+claim for compensation by way of weekly payments93N(1A)
 claimant72C
 clause5(1), 72C
 code155
-commencement day93EA(4), 93EB(4), Sch. 8 cl. 1 & 9
+commencement day93EA(4), 93EB(4), 93T(1), Sch. 8 cl. 1 and 9
 CommissionerSch. 8 cl. 1
 company5(1), 10A(1), 175AA(1)
 compensable injury 159
@@ -493,7 +494,7 @@ conciliation rules5(1), 293A(1)
 Conciliation Service5(1)
 continental shelfSch. 6 cl. 1
 contract of insurance5(1)
-contractor175(1) & (6)
+contractor175(1), 175(6)
 Contribution Act93F(4), 93K(8)
 corporate body10A(1)
 costs261
@@ -526,7 +527,7 @@ dispute176(1), 182E(1), Sch. 8 cl. 1
 dispute resolution authority5(1)
 District Court5(1)
 Division5(1)
-document111A(4)
+document111A(4), 314A(1)
 DRDSch. 8 cl. 1
 DRD recordsSch. 8 cl. 4(1)
 DRD RulesSch. 8 cl. 1
@@ -542,7 +543,8 @@ event93H(2), 158(2), Sch. 1 cl. 18C(4)
 FES employment49A
 firefighting employment49A
 former Board316
-former provisionsSch. 8 cl. 1 & 9
+former provisionsSch. 8 cl. 1 and 9
+former Subdivision93T(1)
 former Supplementary Board316
 full amount31D(1)
 funeral expensesSch. 1A cl. 9(1)
@@ -574,7 +576,7 @@ licensed facility11A(1)
 licensed jockey11A(1)
 licensed trainer11A(1)
 loss of25
-LPI5(1), 93F(8)
+LPI93F(8)
 LSESch. 1A cl. 4
 lump sum entitlementSch. 1A cl. 4
 March CPI5A(2)
@@ -591,7 +593,7 @@ new information 217A(1)
 new Supplementary Board316
 noise induced hearing loss5(1)
 non-FES employment49A
-normal evaluation93M(5), 93N(6), 146C(3)
+normal evaluation93N(6), 146C(3)
 notifiable person182(2)
 notification day93EC
 order72L(1)
@@ -609,8 +611,10 @@ Petroleum ActSch. 6 cl. 1
 physiotherapist5(1)
 place of residence19(3)
 prescribed175E
-prescribed amount5(1), Sch. 1 cl. 18A(1d)
+prescribed amount5(1), 5A(1A), Sch. 1 cl. 18A(1d)
 prescribed Commonwealth award or agreement83(2A)
+prescribed disease49F(1)
+prescribed employment49F(1)
 prescribed family memberSch. 1A cl. 2(3)
 prescribed workplaceSch. 7 cl. 1
 primary power212
@@ -619,7 +623,7 @@ proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
 prohibited drug31F(1), 93Q(8)
 prohibited person182S(4), 195(4A)
 qualifying period49A
-reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA) & 18D(1A)
+reasonable expenses referred to in clause 17(1) Sch. 1 cl. 18A(1AA), 18D(1A)
 redemption amountSch. 5 cl. 1(1)
 registered agent5(1)
 registered club11A(1)
@@ -647,7 +651,7 @@ secondary condition146
 self-insurer5(1)
 settlement72K(1)
 ship5(1)
-special evaluation93M(5), 146C(4), 146E(2)
+special evaluation146C(4), 146E(2)
 specialised retraining assessment panel5(1)
 specialised retraining program5(1)
 specialist5(1)
@@ -661,7 +665,7 @@ subsequent proceeding182ZM(1)
 substantial interruption19(3)
 substantive law93AE
 supplementary amountSch. 5 cl. 1(1)
-termination day93E(1), 93L(1)
+termination day93E(1)
 territorial seaSch. 6 cl. 1
 treating medical practitioner155
 tributer5(1)
@@ -669,7 +673,7 @@ Trust Account5(1)
 trust moneys72K(1)
 vocational rehabilitation5(1)
 W175AA(1)
-weekly earningsSch. 1 cl. 11(1) & 14
+weekly earningsSch. 1 cl. 11(1) and 14
 weekly paymentsSch. 5 cl. 3(2)
 weekly payments of compensation5(1)
 WorkCover Guides5(1)
