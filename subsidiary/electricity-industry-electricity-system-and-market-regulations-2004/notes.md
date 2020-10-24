@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | Regulations other than r. 4(3)(b): 30 Sep 2004; r. 4(3)(b): 1 Oct 2004 (see r. 4(3) and the Wholesale Electricity Market Rules published in Gazette 5 Oct 2004 r. 1.8.2 and 1.9.7)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2005 | 16 Aug 2005 p. 3825-62 | 16 Aug 2005 (see r. 2)
 Electricity Corporations (Consequential Amendments) Regulations 2006 Pt. 3 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
@@ -25,6 +25,8 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2017 |
 Reprint 3: The Electricity Industry (Wholesale Electricity Market) Regulations 2004 as at 14 Jul 2017 (includes amendments listed above)
 Energy Regulations Amendment (Independent Market Operator) Regulations 2018 Pt. 2 | 27 Jul 2018 p. 2687-9 | 28 Jul 2018 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2019 | 20 Sep 2019 p. 3384-5 | r. 1 and 2: 20 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2019 (see r. 2(b))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2020 | SL 2020/202 23 Oct 2020 | r. 1 and 2: 23 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2020 (see r. 2(b))
+Other notes
 Now known as the Competition and Consumer Act 2010 (Cwlth). The short title was changed by the Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 Sch. 5 cl. 2 (Cwlth).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Energy Arbitration and Review Act 1998.
@@ -41,6 +43,7 @@ Board function49(1)
 civil penalty22
 civil penalty provision22
 civil penalty provisions30(1)
+Coordinator3
 IMO3
 impose requirements3
 market2
