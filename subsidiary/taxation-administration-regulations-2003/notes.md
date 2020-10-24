@@ -39,6 +39,7 @@ Finance Regulations Amendment Regulations 2019 Pt. 4 | 13 Aug 2019 p. 3041-3 | 1
 Taxation Administration Amendment Regulations 2020 | SL 2020/40 17 Apr 2020 | r. 1 and 2: 17 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2020 (see r. 2(b))
 Taxation Administration Amendment Regulations (No. 3) 2020 | SL 2020/48 24 Apr 2020 | r. 1 and 2: 24 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2020 (see r. 2(b))
 Finance Regulations Amendment (Interest Rates) Regulations 2020 Pt. 3 | SL 2020/71 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Finance Regulations Amendment Regulations 2020 Pt. 5 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number.
@@ -48,6 +49,7 @@ Defined termProvision(s)
 ACNC Commissioner13H(1)
 administrative authority13I(1)
 applicable subregulation14AA(2)
+Australian Building and Construction Commissioner13M(1)
 CEO (Landgate)13C(1)
 CEO (petroleum)13B(1)
 chief executive officer13G(1)
@@ -64,6 +66,7 @@ legal practitioner14A(1)
 online arrangement5A(3)
 Pastoral Lands Board13(1)
 pastoral lessee13(1)
+prescribed purpose13M(1)
 public sector agency13L(1)
 relevant recipient14A(1)
 settlement agent14A(1)

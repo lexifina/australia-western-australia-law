@@ -24,6 +24,7 @@ Reprint 3: The First Home Owner Grant Regulations 2000 as at 3 Mar 2017 (include
 First Home Owner Grant Amendment Regulations 2017 | 29 Dec 2017 p. 6083-6 | r. 1 and 2: 29 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2017 (see r. 2(b))
 Finance Regulations Amendment (Interest Rates) Regulations 2019 Pt. 2 | 28 Jun 2019 p. 2492-3 | 1 Jul 2019 (see r. 2(b))
 Finance Regulations Amendment (Interest Rates) Regulations 2020 Pt. 2 | SL 2020/71 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Finance Regulations Amendment Regulations 2020 Pt. 4 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
 Other notes
 Repealed by the Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015 Sch. 1, Part 1.
 Defined terms

@@ -13,6 +13,7 @@ Duties Amendment Regulations (No. 2) 2013 | 20 Sep 2013 p. 4363-4 | r. 1 and 2: 
 Duties Amendment Regulations 2016 | 24 May 2016 p. 1536 | r. 1 and 2: 24 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2016 (see r. 2(b))
 Duties Amendment Regulations 2018 | 22 Jun 2018 p. 2193-5 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Duties Amendment Regulations 2019 Pt. 1 and 2 | 8 Oct 2019 p. 3617-21 | Pt. 1: 8 Oct 2019 (see r. 2(a)); Regulations other than Pt. 1 and 3: 9 Oct 2019 (see r. 2(c))
+Finance Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -21,17 +22,18 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Agriculture Minister7(1)
-demerged entity2A(3), 2A(4)
+demerged entity2A(3) and (4)
 entity2A(1)
 entity A2A(2)
 farming land7(1)
 hybrid demerger2A(4)
 listed entity2A(1)
 listed entity demerger2A(3)
-listed entity security holder2A(3), 2A(4)
+listed entity security holder2A(3) and (4)
 lot4B(1)
 new profit à prendre4B(2)
 old profit à prendre4B(2)
+production-based agistment4AA(1)
 security2A(1)
 timber sharefarming profit à prendre4A(1), 4B(1)
 tractor7(1)
