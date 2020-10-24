@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Government Railways (Parking Stations) By-law 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Government Railways (Parking Stations) By-law 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 By-law No. 80 — Government Railways Parking Station By-law | 9 May 1997 p. 2304-13 | 9 May 1997
 Government Railways Amendment and Repeal By-laws 2003 bl. 4 | 12 Dec 2003 p. 5041-7 | 12 Dec 2003
 Reprint 1: The Government Railways (Parking Stations) By-law 1997 as at 9 Jul 2004 (includes amendments listed above)
@@ -10,6 +10,8 @@ Government Railways (Parking Stations) Amendment By-law 2013 | 5 Nov 2013 p. 494
 Government Railways (Parking Stations) Amendment By-law 2014 | 13 Jun 2014 p. 1899-900 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); By-law other than r. 1 and 2: 14 Jun 2014 (see r. 2(b))
 Government Railways (Parking Stations) Amendment By-law (No. 2) 2014 | 8 Jan 2015 p. 143-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); By-law other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Government Railways (Parking Stations) Amendment By law 2016 | 23 Dec 2016 p. 5910-11 | r. 1 and 2: 23 Dec 2016 (see r. 2(a)); By-law other than r. 1 and 2: 24 Dec 2016 (see r. 2(b))
+Government Railways (Parking Stations) Amendment By-law 2020 | SL 2020/208 23 Oct 2020 | r. 1 and 2: 23 Oct 2020 (see r. 2(a)); By-law other than r. 1 and 2: 24 Oct 2020 (see r. 2(b))
+Other notes
 Now known as the Government Railways (Parking Stations) By-law 1997; citation changed (see note under r. 1A).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -21,8 +23,9 @@ designated1(1)
 driver1(1)
 goods10(2)
 motor cycle1(1)
+motor cycle space1(1)
 motorised scooter1(1)
-owner1(1)
+paid parking machine1(1)
 paid parking station1(1)
 park1(1)
 parking1(1)
