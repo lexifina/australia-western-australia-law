@@ -98,6 +98,7 @@ Occupational Safety and Health Amendment Regulations (No. 3) 2019 | 21 Jun 2019 
 Occupational Safety and Health Amendment (COVID-19 Response) Regulations 2020 | SL 2020/105 29 Jun 2020 | Repealed by SL 2020/106 r. 3 prior to commencement
 Occupational Safety and Health Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/106 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Occupational Safety and Health Amendment Regulations 2020 | SL 2020/182 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2020 (see r. 2(b))
+Occupational Safety and Health Amendment (COVID-19 Response) Regulations (No. 2) 2020 | SL 2020/198 27 Oct 2020 | r. 1 and 2: 27 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2020 (see r. 2(b))
 Other notes
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
@@ -157,7 +158,7 @@ class 33.114
 classified plant7.1
 client3.137
 commencement7.1
-commencement day7.9(1)
+commencement day2.14A(1), 7.9(1)
 commercial vehicle3.130
 commercial vehicle driver3.130
 commissioning4.1
@@ -186,6 +187,8 @@ demolition1.3, 3.114
 demolition licence5.1(1)
 derrick craneSch. 6.3 cl. 6
 design verifier4.1
+designated fee2.14A(1)
+designated period1.3
 designated plant7.1
 designer3.137
 direct fired process heaterSch. 6.3 cl. 10
@@ -319,6 +322,7 @@ qualification or statement of attainment6.1(1)
 reciprocating steam engineSch. 6.3 cl. 10
 recognised construction induction training course3.135
 record5.1(1)
+reduced fee2.14A(1)
 registered training organisation1.3
 registration6.18
 regulation 1.15 penalty1.3
