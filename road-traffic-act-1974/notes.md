@@ -164,12 +164,12 @@ Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 o
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Road Traffic Amendment (Blood Alcohol Content) Act 2019 | 20 of 2019 | 15 Aug 2019 | Pt. 1: 15 Aug 2019 (see s. 2(a)); Act other than Pt. 1: 12 Sep 2019 (see s. 2(b))
-Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 s. 3 and 39 | 27 of 2020 | 9 Jul 2020 | 12 Oct 2020 (see s. 2(1)(b) and SL 2020/148 cl. 2)
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 s. 3, 24, 26 and 39 | 27 of 2020 | 9 Jul 2020 | s. 3 and 39: 12 Oct 2020 (see s. 2(1)(b) and SL 2020/148 cl. 2); s. 24 and 26: 28 Oct 2020 (see s. 2(1)(b) and SL 2020/199 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 2 (other than s. 3 and 39) | 27 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(b))
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 2 (other than s. 3, 24, 26 and 39) | 27 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Footnote no longer applicable.
