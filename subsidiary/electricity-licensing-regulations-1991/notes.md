@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
 Electricity (Licensing) Amendment Regulations 1992 | 24 Apr 1992 p. 1728-9 (corrigendum 1 May 1992 p. 1863) | 1 May 1992 (see r. 2)
 Electricity (Licensing) Amendment Regulations 1994 | 27 May 1994 p. 2243-4 | 27 May 1994
@@ -53,6 +53,8 @@ Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regul
 Electricity Amendment Regulations 2018 Pt. 3 | 2 Oct 2018 p. 3784-94 | 1 Jan 2019 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 2) 2018 | 8 Jan 2019 p. 11-17 | r. 1 and 2: 8 Jan 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2019 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 8 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
@@ -72,7 +74,7 @@ AS/NZS3(1)
 Australian/New Zealand Wiring Rules3(1)
 Board3(1)
 Chairman3(1)
-commencement day49(2B), 67(1)
+commencement day49(2B), 64A(1), 67(1)
 competent person54A(1)
 construction project52BB(1)
 consumers mains51(3)
@@ -82,6 +84,8 @@ copy3(1)
 de-energised3(1)
 default procedure52BB(1)
 department13(5)
+designated fee64A(1)
+designated period3(1)
 electrical accident63(1)
 electrical appliance3(1)
 electrical contractor3(1)
@@ -128,6 +132,7 @@ prescribed policy of insurance3(1)
 pressure3(1)
 private generating plant3(1), 4AA(1)
 professionally qualified engineer19(1A)
+reduced fee64A(1)
 Regional Power Corporation3(1)
 relevant licence45A(1)
 relevant network operator3(1)

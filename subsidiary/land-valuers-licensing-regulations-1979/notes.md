@@ -47,6 +47,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 13 | 23 J
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 12 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 12 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 18 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 11 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Other notes
 The Curtin University of Technology Act 1966 s. 5 established the Western Australian Institute of Technology as the Curtin University of Technology from 1 January 1987.
 The commencement date of 1 Jul 1989 that was specified was before the date of gazettal.
@@ -54,5 +55,9 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act2
+commencement day4AA(1)
 Commissioner2
+designated fee4AA(1)
+designated period2
+reduced fee4AA(1)
 section2

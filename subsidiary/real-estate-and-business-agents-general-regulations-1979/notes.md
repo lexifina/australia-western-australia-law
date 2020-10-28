@@ -87,6 +87,7 @@ Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regul
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 16 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 4 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 23 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 16 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.
@@ -97,15 +98,19 @@ Defined termProvision(s)
 authorised financial institution6C
 business6E(2)
 calendar year2
+commencement day4AAA(1)
 CPD activity2
 CPD subject2
 CPP07 Property Services Training Package6A(2)
+designated fee4AAA(1)
+designated period2
 educational activity2
 holding fee4A(1)
 mandatory CPD activity2
 mandatory CPD subject2
 point value2
 record2
+reduced fee4AAA(1)
 register2
 registered training provider2
 regulated person2

@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Co-operatives Regulations 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Co-operatives Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Co-operatives Regulations 2010 | 13 Aug 2010 p. 3765-970 | r. 1 and 2: 13 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b) and Gazette 13 Aug 2010 p. 3975)
 Co-operatives Amendment Regulations 2011 | 22 Jun 2011 p. 2351-6 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Co-operatives Amendment Regulations (No. 2) 2012 | 22 Jun 2012 p. 2777-8 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2012 (see r. 2(b))
@@ -14,21 +14,24 @@ Co-operatives Amendment Regulations 2017 | 4 Aug 2017 p. 4307-8 | r. 1 and 2: 4 
 Reprint 1: The Co-operatives Regulations 2010 as at 6 Oct 2017 (includes amendments listed above)
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 6 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 active memberSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
 auditorSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
 CCUSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
+commencement day44(1)
 deficiencySch. 2 cl. 10(1) and 12(1), Sch. 3 cl. 10(1) and 12(1)
+designated fee44(1)
 directorSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
 explanatorySch. 7 cl. 1
 financial institution accountSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
 financial yearSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
-giverSch. 2 cl. 19(1) and 31(1), Sch. 3 cl. 19(1) and 31(1)
+giverSch. 1 cl. 22(1), Sch. 2 cl. 19(1) and 31(1), Sch. 3 cl. 19(1) and 31(1)
 internal creditorSch. 7 cl. 1
 judicial officer41(1)
-limited dividendSch. 3 cl. 72(2)(c)
+limited dividendSch. 3 cl. 72(2)
 memberSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
 parent entity18C(1)
 receiverSch. 1 cl. 22(1), Sch. 2 cl. 19(1) and 31(1), Sch. 3 cl. 19(1) and 31(1)

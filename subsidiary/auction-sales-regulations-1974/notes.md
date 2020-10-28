@@ -1,7 +1,7 @@
 Notes
-This is a compilation as at 22 November 2019 of the Auction Sales Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Auction Sales Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Auction Sales Act Regulations 1974 | 13 Sep 1974 p. 3426-38 | 13 Sep 1974
 Untitled regulations | 22 Nov 1974 p. 5101 | 22 Nov 1974
 Untitled regulations | 6 Oct 1978 p. 3633-4 | 6 Oct 1978
@@ -24,6 +24,8 @@ Licensing Provisions Regulations Amendment Regulations 2017 Pt. 2 | 27 Jun 2017 
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Reprint 3: The Auction Sales Regulations 1974 as at 22 Nov 2019 (includes amendments listed above)
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 3 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -32,5 +34,9 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act1(2)
+commencement day3A(1)
+designated fee3A(1)
+designated period1A
+reduced fee3A(1)
 surrendered licence8C(1)
 transition period8B(1)

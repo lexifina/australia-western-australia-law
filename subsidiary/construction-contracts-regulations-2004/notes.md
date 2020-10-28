@@ -12,9 +12,11 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 23 Ju
 Reprint 1: The Construction Contracts Regulations 2004 as at 14 Jul 2017 (includes amendments listed above)
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Construction Contracts Amendment Regulations 2020 | SL 2020/16 20 Mar 2020 | r. 1 and 2: 20 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2020 (see r. 2(b))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 5 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 ABN3
 ACN3
+commencement day10A(1)
 contact details3

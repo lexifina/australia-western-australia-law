@@ -2,31 +2,32 @@ Notes
 This is a compilation of the Building Services (Registration) Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
- | Building Services (Registration) Regulations 2011 | 26 Aug 2011 p. 3411-52 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
- | Building Services (Registration) Amendment Regulations 2011 | 31 Jan 2012 p. 591-601 | r. 1 and 2: 31 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2012 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations 2012 | 12 Mar 2012 p. 989-1011 | r. 1 and 2: 12 Mar 2012 (see r. 2(a)); r. 3 and Pt. 2: 13 Mar 2012 (see r. 2(b)); Pt. 3: 2 Apr 2012 (see r. 2(c) and Gazette 13 Mar 2012 p. 1033)
- | Building Services (Registration) Amendment Regulations (No. 3) 2012 | 15 Jun 2012 p. 2617-20 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations (No. 4) 2012 | 6 Nov 2012 p. 5293-4 | r. 1 and 2: 6 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2012 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations (No. 5) 2012 | 18 Dec 2012 p. 6585-9 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations (No. 6) 2012 | 22 Jan 2013 p. 211 | r. 1 and 2: 22 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2013 (see r. 2(b))
- | Reprint 1: The Building Services (Registration) Regulations 2011 as at 5 Apr 2013 (includes amendments listed above)
- | Building Services (Registration) Amendment Regulations (No. 3) 2013 | 27 Jun 2013 p. 2665-9 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5029 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
- | Building Services (Registration) Amendment Regulations (No. 4) 2013 | 31 Dec 2013 p. 6535-9 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
- | Building Services (Registration) Amendment Regulations 2014 | 17 Jun 2014 p. 1959-61 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4841-2 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
- | Reprint 2: The Building Services (Registration) Regulations 2011 as at 8 May 2015 (includes amendments listed above)
- | Building Services (Registration) Amendment Regulations 2015 | 23 Jun 2015 p. 2165-7 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
- | Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations 2017 | 31 Mar 2017 p. 1941-2 | r. 1 and 2: 31 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2017 (see r. 2(b))
- | Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
- | Building Regulations Amendment Regulations 2017 Pt. 3 | 8 Aug 2017 p. 4343-5 | 9 Aug 2017 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations (No. 2) 2017 | 5 Jan 2018 p. 4-8 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2018 (see r. 2(b))
- | Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
- | Building Services (Registration) Amendment Regulations 2018 | 21 Sep 2018 p. 3534-7 | r. 1 and 2: 21 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2018 (see r. 2(b))
- | Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 4 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
- | Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
- | Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Building Services (Registration) Regulations 2011 | 26 Aug 2011 p. 3411-52 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
+Building Services (Registration) Amendment Regulations 2011 | 31 Jan 2012 p. 591-601 | r. 1 and 2: 31 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2012 (see r. 2(b))
+Building Services (Registration) Amendment Regulations 2012 | 12 Mar 2012 p. 989-1011 | r. 1 and 2: 12 Mar 2012 (see r. 2(a)); r. 3 and Pt. 2: 13 Mar 2012 (see r. 2(b)); Pt. 3: 2 Apr 2012 (see r. 2(c) and Gazette 13 Mar 2012 p. 1033)
+Building Services (Registration) Amendment Regulations (No. 3) 2012 | 15 Jun 2012 p. 2617-20 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Building Services (Registration) Amendment Regulations (No. 4) 2012 | 6 Nov 2012 p. 5293-4 | r. 1 and 2: 6 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2012 (see r. 2(b))
+Building Services (Registration) Amendment Regulations (No. 5) 2012 | 18 Dec 2012 p. 6585-9 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
+Building Services (Registration) Amendment Regulations (No. 6) 2012 | 22 Jan 2013 p. 211 | r. 1 and 2: 22 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2013 (see r. 2(b))
+Reprint 1: The Building Services (Registration) Regulations 2011 as at 5 Apr 2013 (includes amendments listed above)
+Building Services (Registration) Amendment Regulations (No. 3) 2013 | 27 Jun 2013 p. 2665-9 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Building Services (Registration) Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5029 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
+Building Services (Registration) Amendment Regulations (No. 4) 2013 | 31 Dec 2013 p. 6535-9 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
+Building Services (Registration) Amendment Regulations 2014 | 17 Jun 2014 p. 1959-61 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Building Services (Registration) Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4841-2 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
+Reprint 2: The Building Services (Registration) Regulations 2011 as at 8 May 2015 (includes amendments listed above)
+Building Services (Registration) Amendment Regulations 2015 | 23 Jun 2015 p. 2165-7 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+Building Services (Registration) Amendment Regulations 2017 | 31 Mar 2017 p. 1941-2 | r. 1 and 2: 31 Mar 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2017 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3213-52 | 1 Jul 2017 (see r. 2(b))
+Building Regulations Amendment Regulations 2017 Pt. 3 | 8 Aug 2017 p. 4343-5 | 9 Aug 2017 (see r. 2(b))
+Building Services (Registration) Amendment Regulations (No. 2) 2017 | 5 Jan 2018 p. 4-8 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2018 (see r. 2(b))
+Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
+Building Services (Registration) Amendment Regulations 2018 | 21 Sep 2018 p. 3534-7 | r. 1 and 2: 21 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2018 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 4 | 26 Apr 2019 p. 1209-22 | 27 Apr 2019 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 4 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Other notes
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
@@ -50,8 +51,10 @@ certificate of building compliance3
 certificate of construction compliance3
 certificate of design compliance3
 Class 10 building22
-commencement day37, 43
+commencement day9A(1), 37, 43
 compliance certificate3
+designated fee9A(1)
+designated period3
 detached house22
 eligible person16(4), 28D(2A) and (3A), 31(4)
 farm building12
@@ -66,6 +69,7 @@ painting contractor28(1), Sch. 5 cl. 1
 painting work28(1)
 previously registered16(4)
 principal builder3
+reduced fee9A(1)
 relevant componentsSch. 2 cl. 1
 repeal day47
 repealed Act37, 43

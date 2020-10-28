@@ -1,6 +1,6 @@
 ## Schedule 1 — Forms
-[r. 3]
-[Heading inserted: Gazette 22 Sep 2006 p. 4110.]
+[r. 2]
+[Heading inserted: Gazette 22 Sep 2006 p. 4110; amended: SL 2020/196 r. 29.]
 Form 1
 Employment Agents Act 1976
 APPLICATION FOR A GENERAL LICENCE

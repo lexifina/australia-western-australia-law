@@ -60,6 +60,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 19 | 18 J
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 6 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 6 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 25 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 17 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Other notes
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
 Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1).
@@ -77,11 +78,15 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 approved educational activity2
+commencement day4AA(1)
 core professional development subject2
+designated fee4AA(1)
+designated period2
 holding fee4A(1)
 points2
 public training provider6(3)
 record2
+reduced fee4AA(1)
 register2
 registered training provider6(3)
 relevant bank accepted bills rate6D(2)

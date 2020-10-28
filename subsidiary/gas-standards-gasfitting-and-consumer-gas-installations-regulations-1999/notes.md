@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 | 30 Jul 1999 p. 3499-539 | 30 Jul 1999 (see r. 2)
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2000 | 2 May 2000 p. 2114 | 2 May 2000
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 | 19 Dec 2000 p. 7275-82 | 19 Dec 2000 (see r. 2)
@@ -38,6 +38,8 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 11 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2018 | 2 Oct 2018 p. 3783-4 | r. 1 and 2: 2 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 10 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Other notes
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -57,8 +59,11 @@ caravan3(1)
 certificate of competency3(1)
 child care centreSch. 6 cl. 604A(1)
 Class I permit 3(1)
+commencement day16A(1)
 commercial42B(1)
 commission17
+designated fee16A(1)
+designated period3(1)
 domestic42B(1)
 employer16(3)
 fitting3(1)
@@ -82,6 +87,7 @@ notice of defects17
 permit3(1)
 prescribed pressureSch. 6 cl. 101
 pressure raising device3(1)
+reduced fee16A(1)
 registered gas fitter3(1)
 regulator3(1)
 repealed regulations43(2)

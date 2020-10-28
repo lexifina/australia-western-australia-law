@@ -8,6 +8,7 @@ Associations Incorporation Amendment Regulations (No. 2) 2017 | 8 Dec 2017 p. 58
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 2 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -22,11 +23,12 @@ Australian law20(1)
 booksSch. 2 cl. 1
 by-lawsSch. 2 cl. 1
 chairperson Sch. 2 cl. 1
-commencement day19(1)
+commencement day16A(1), 19(1)
 CommissionerSch. 2 cl. 1
 committeeSch. 2 cl. 1
-committee meetingSch. 2 cl. 1, Sch. 2 cl. 40(1)
-committee memberSch. 2 cl. 1, Sch. 2 cl. 40(1)
+committee meetingSch. 2 cl. 1 and 40(1)
+committee memberSch. 2 cl. 1 and 40(1)
+designated fee16A(1)
 due dateSch. 2 cl. 12(3)
 existing incorporated association19(1)
 financial recordsSch. 2 cl. 1
@@ -35,7 +37,7 @@ financial statementsSch. 2 cl. 1
 financial yearSch. 2 cl. 1
 general meetingSch. 2 cl. 1
 grievance procedureSch. 2 cl. 17
-memberSch. 2 cl. 1, Sch. 2 cl. 14
+memberSch. 2 cl. 1 and 14
 non-delegable dutySch. 2 cl. 49(1)
 ordinary committee memberSch. 2 cl. 1
 ordinary memberSch. 2 cl. 1
