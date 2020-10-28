@@ -19,6 +19,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 4 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 5 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see s. 2(c))
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 4 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Other notes
 Now known as the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007; citation changed (see note under r. 1).
 Defined terms
@@ -32,6 +33,7 @@ amend40(1)
 annual fee3
 approved form3
 authorised person31(1)
+commencement day52(1)
 commercial laboratory3
 educational institution3
 existing licence35(1A), 41(1)
@@ -65,10 +67,10 @@ secure nominee3
 security clearance3
 security sensitive ammonium nitrate3
 shotfiring licence3
-site31(3)(a)
+site31(3)
 SSAN3
 store3
-submission date43(2)(e)
+submission date43(2)
 supervised3
 supervised access3
 supply3

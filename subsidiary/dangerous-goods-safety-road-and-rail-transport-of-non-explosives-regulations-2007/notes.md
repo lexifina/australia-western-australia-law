@@ -27,6 +27,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 3 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 4 (other than r. 10(2)) | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see r. 2(c))
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 3 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -42,7 +43,7 @@ ADG Code4
 ADR approved4
 aggregate quantity4
 another participating jurisdiction4
-appropriately marked4, 106(1), 106(2), (3), (4) and (5)
+appropriately marked4, 106(1), (2), (3), (4) and (5)
 appropriately placarded4, 111(2)
 approval4, 193, 207
 approved packaging4
@@ -61,7 +62,7 @@ cargo transport unit4
 classification code110(1)
 code8(1)
 combination4
-commencement day273, 286, 289, 291(1)
+commencement day272AA(1), 273, 286, 289, 291(1)
 Competent Authorities Panel4
 compliance plate4
 complying MPU13A(1)
@@ -82,7 +83,9 @@ Dangerous Goods List4
 dangerous goods vehicle licence4
 deal with186(1)
 demountable tank4
+designated fee272AA(1)
 designated goods12(1)
+designated period272(1)
 determination4
 disposed vehicle237(2)
 driver licence4
@@ -151,6 +154,7 @@ rail operator4, 44
 receptacle4
 recognised testing facilities57
 recognised testing facility4
+reduced fee272AA(1)
 register25
 registered4
 relevant change200(1), 201(1)

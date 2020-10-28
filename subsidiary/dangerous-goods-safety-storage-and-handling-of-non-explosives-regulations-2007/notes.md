@@ -22,6 +22,7 @@ Citation | Published | Commencement
  | Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 5 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
  | Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
  | Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 6 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see r. 2(c))
+ | Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 5 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Other notes
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
@@ -30,7 +31,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 ADG Code4
-ADG compliant135D(1), 135D(2)
+ADG compliant135D(1) and (2)
 agreed FES emergency response guide76B(1)
 alleged135M(1)
 amend29(1), 92(1)
@@ -44,7 +45,7 @@ capacity4
 class4
 class label4
 combustible liquid4
-commencement daySch. 6 cl. 1, Sch. 6 cl. 6, Sch. 6 cl. 10
+commencement day44B(1), Sch. 6 cl. 1, 6 and 10
 compatible4
 consignor134
 consumer container4
@@ -87,7 +88,7 @@ hot work135O(1)
 IBC4
 ignition source4
 IMDG Code4
-IMDG compliant135D(1), 135D(3)
+IMDG compliant135D(1) and (3)
 importer4, 16
 kg or LSch. 1, Sch. 5 cl. 1(2)
 label4

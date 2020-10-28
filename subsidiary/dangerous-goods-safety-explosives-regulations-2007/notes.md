@@ -29,6 +29,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 2 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 2 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -72,12 +73,15 @@ CBD107(1)
 class 1.4 explosive77A(1)
 classification code3
 close proximity firework136
+commencement day197A(1)
 Commissioner19(1)
 complying magazine91(1)
 constituent3
 corresponding law182A
 crackerSch. 2 cl. 2(1)
 cracker chain144(1), Sch. 2 cl. 2(1)
+designated fee197A(1)
+designated period3
 destroy3
 development181(1)
 district3
@@ -156,6 +160,7 @@ provisional licence160(1)
 qualified officer165(1)
 rail95(1)
 rail wagon95(1)
+reduced fee197A(1)
 relevant licence143(1), 182A
 relevant offence156(1)
 relevant person19(1)
@@ -209,3 +214,4 @@ unsupervised access authorisation3
 UNTC3
 use3
 vessel111A(2)
+waived fee197A(1)

@@ -41,6 +41,7 @@ Mines Safety and Inspection Amendment Regulations 2015 | 5 Jun 2015 p. 1973-4 | 
 Mines and Petroleum Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 213-20 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 6 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 6 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Other notes
 Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
 The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as follows:
@@ -97,7 +98,7 @@ Class II winding engine driver’s certificate1.3
 classified plant6.1
 Code of Signals1.3
 collective effective dose16.1
-commencement day1.3
+commencement day1.3, 2.33A(1)
 commissioning6.1
 committed effective dose16.1
 confidential information3.38(1)
