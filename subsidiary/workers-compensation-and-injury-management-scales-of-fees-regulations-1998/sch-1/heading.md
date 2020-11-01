@@ -9,145 +9,145 @@ CONSULTATIONS
 Surgery Consultation
 in hours
 Content based
-Minor or Specific Service (Level A or B) | $78.90
-Extended Service (Level C) | $144.10
-Comprehensive Service (Level D) | $221.35
+Minor or Specific Service (Level A or B) | $80.35
+Extended Service (Level C) | $146.75
+Comprehensive Service (Level D) | $225.40
 Time based
-up to 5 minutes | $47.05
-more than 5 minutes to 15 minutes | $61.30
-more than 15 minutes to 30 minutes | $118.35
-more than 30 minutes to 45 minutes | $179.05
-more than 45 minutes to 60 minutes | $242.60
+up to 5 minutes | $47.90
+more than 5 minutes to 15 minutes | $62.40
+more than 15 minutes to 30 minutes | $120.50
+more than 30 minutes to 45 minutes | $182.35
+more than 45 minutes to 60 minutes | $247.05
 Surgery Consultations
 out of hours
 For attendances between the hours of 6 p.m. and 8 a.m. on a weekday or between 12 noon on Saturday and 8 a.m. on the following Monday and Public Holiday.
 Content based
-Minor Service (Level A) | $59.20
-Specific Service (Level B) | $118.35
-Extended Service (Level C) | $215.45
-Comprehensive Service (Level D) | $333.60
+Minor Service (Level A) | $60.30
+Specific Service (Level B) | $120.50
+Extended Service (Level C) | $219.40
+Comprehensive Service (Level D) | $339.70
 Time based
-up to 5 minutes | $93.75
-more than 5 minutes to 15 minutes | $101.70
-more than 15 minutes to 30 minutes | $157.55
-more than 30 minutes | $215.45
+up to 5 minutes | $95.45
+more than 5 minutes to 15 minutes | $103.55
+more than 15 minutes to 30 minutes | $160.45
+more than 30 minutes | $219.40
 VISITS
 Consultations at a place other than the Consulting Rooms
 in hours
-Minor Service (Level A) | $98.70
-Specific Service (Level B) | $134.90
-Extended Service (Level C) | $200.15
-Comprehensive Service (Level D) | $278.95
+Minor Service (Level A) | $100.50
+Specific Service (Level B) | $137.35
+Extended Service (Level C) | $203.80
+Comprehensive Service (Level D) | $284.05
 out of hours
-Minor Service (Level A) | $118.35
-Specific Service (Level B) | 176.00
-Extended Service (Level C) | $269.95
-Comprehensive Service (Level D) | $394.30
+Minor Service (Level A) | $120.50
+Specific Service (Level B) | $179.20
+Extended Service (Level C) | $274.90
+Comprehensive Service (Level D) | $401.50
 TELEPHONE CONSULTATIONS
 Time based
-up to 5 minutes | $26.25
-more than 5 minutes to 15 minutes | $33.00
-more than 15 minutes to 30 minutes | $69.00
-more than 30 minutes | $103.40
+up to 5 minutes | $26.75
+more than 5 minutes to 15 minutes | $33.60
+more than 15 minutes to 30 minutes | $70.25
+more than 30 minutes | $105.30
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
-per hour | $296.65
+per hour | $302.10
 TRAVELLING FEES
-Rate per kilometre | $5.35
+Rate per kilometre | $5.45
 PHYSICIANS, OCCUPATIONAL & REHABILITATION PHYSICIANS
 PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $299.50
-subsequent attendances | $149.75
+first attendance | $305.00
+subsequent attendances | $152.50
 VISITS
 Professional attendance at a place other than consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $358.50
-subsequent attendances | $206.80
+first attendance | $365.05
+subsequent attendances | $210.60
 REHABILITATION PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $299.50
-subsequent attendances | $149.75
+first attendance | $305.00
+subsequent attendances | $152.50
 VISITS
 Professional attendance at a place other than consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $358.50
-subsequent attendances | $206.80
+first attendance | $365.05
+subsequent attendances | $210.60
 OCCUPATIONAL PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $304.35
-subsequent attendances | $149.75
+first attendance | $309.90
+subsequent attendances | $152.50
 VISITS
 Professional attendance at a place other than consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $358.50
-subsequent attendances | $206.80
+first attendance | $365.05
+subsequent attendances | $210.60
 TELEPHONE CONSULTATIONS
 Time based
-up to 5 minutes | $39.35
-more than 5 minutes to 15 minutes | $48.40
-more than 15 minutes to 30 minutes | $101.25
-more than 30 minutes | $152.90
+up to 5 minutes | $40.05
+more than 5 minutes to 15 minutes | $49.30
+more than 15 minutes to 30 minutes | $103.10
+more than 30 minutes | $155.70
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
-per hour | $439.80
+per hour | $447.85
 TRAVELLING FEES
-Rate per kilometre | $5.35
+Rate per kilometre | $5.45
 CONSULTANT PSYCHIATRISTS
 CONSULTATIONS
 Professional attendance at consulting rooms or a hospital and issue of certificate (if required) et al Time based
-up to 15 minutes | $87.85
-more than 15 minutes to 30 minutes | $175.20
-more than 30 minutes to 45 minutes | $262.45
-more than 45 minutes to 60 minutes | $351.15
-more than 60 minutes to 75 minutes | $397.35
-more than 75 minutes | $443.50
+up to 15 minutes | $89.45
+more than 15 minutes to 30 minutes | $178.40
+more than 30 minutes to 45 minutes | $267.25
+more than 45 minutes to 60 minutes | $357.60
+more than 60 minutes to 75 minutes | $404.60
+more than 75 minutes | $451.60
 VISITS
 Professional attendance at a place other than consulting rooms or a hospital and issue of certificate (if required) et al Time based
-up to 15 minutes | $144.20
-more than 15 minutes to 30 minutes | $232.85
-more than 30 minutes to 45 minutes | $317.75
-more than 45 minutes to 75 minutes | $406.50
-more than 75 minutes | $489.90
+up to 15 minutes | $146.85
+more than 15 minutes to 30 minutes | $237.10
+more than 30 minutes to 45 minutes | $323.55
+more than 45 minutes to 75 minutes | $413.95
+more than 75 minutes | $498.85
 TELEPHONE CONSULTATIONS
 Time based
-up to 45 minutes | $116.60
-more than 45 minutes | $254.35
+up to 45 minutes | $118.75
+more than 45 minutes | $259.00
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
-per hour | $439.80
+per hour | $447.85
 TRAVELLING FEES
-Rate per kilometre | $5.35
+Rate per kilometre | $5.45
 SPECIALISTS
 SURGEONS
 CONSULTATIONS
 Professional attendance at consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $170.25
-subsequent attendances | $88.80
+first attendance | $173.35
+subsequent attendances | $90.45
 VISITS
 Professional attendance at a place other than consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $229.35
-subsequent attendances | $146.30
+first attendance | $233.55
+subsequent attendances | $149.00
 DERMATOLOGISTS
 CONSULTATIONS
 Professional attendance at consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $170.25
-subsequent attendances | $88.80
+first attendance | $173.35
+subsequent attendances | $90.45
 VISITS
 Professional attendance at a place other than consulting rooms or a hospital and issue of certificate (if required) et al
-first attendance | $229.05
-subsequent attendances | $146.00
+first attendance | $233.25
+subsequent attendances | $148.65
 TELEPHONE CONSULTATIONS
 Time based
-up to 5 minutes | $39.35
-more than 5 minutes to 15 minutes | $48.40
-more than 15 minutes to 30 minutes | $101.25
-more than 30 minutes | $152.90
+up to 5 minutes | $40.05
+more than 5 minutes to 15 minutes | $49.30
+more than 15 minutes to 30 minutes | $103.10
+more than 30 minutes | $155.70
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
-per hour | $439.80
+per hour | $447.85
 TRAVELLING FEES
-Rate per kilometre | $5.35
+Rate per kilometre | $5.45
 ANAESTHETISTS
 All anaesthesia fees are calculated by multiplying the units for the consultation, attendance, procedure or service by the $ value per unit allocated by this Schedule.
 $ VALUE PER UNIT
-$ value per unit | $88.55
+$ value per unit | $90.15
 CONSULTATIONS AND ATTENDANCES | Units
 Anaesthetist Consultation
 — an attendance of 15 minutes or less duration | 2
@@ -609,490 +609,517 @@ Skin testing for allergy to anaesthetic agents | no | yes | 4
 Assistance in the administration of an anaesthetic | yes | yes | 5
 Note — Unlisted services
 For an unlisted service, the number of units is to be determined by reference to the nearest listed anaesthetic procedure.
-[Part 1 inserted: Gazette 16 Oct 2015 p. 4077-111; amended: Gazette 21 Oct 2016 p. 4822-6; 6 Oct 2017 p. 5204-8; 19 Oct 2018 p. 4162-5; 22 Oct 2019 p. 3734-6.]
-## Part 2 — Medical procedures
-[Heading inserted: Gazette 21 Oct 2016 p. 4826.]
+[Part 1 inserted: Gazette 16 Oct 2015 p. 4077-111; amended: Gazette 21 Oct 2016 p. 4822-6; 6 Oct 2017 p. 5204-8; 19 Oct 2018 p. 4162-5; 22 Oct 2019 p. 3734-6; SL 2020/203 r. 6.]
+Part 2 — Medical procedures
+[Heading inserted: SL 2020/203 r. 7.]
 Type of procedure | Fee
 GENERAL
-Localised burns | $65.75
-Localised burns, including dressing of, under general anaesthetic | $186.95
-Extensive burns | $113.50
-Extensive burns, including dressing of, under general anaesthetic | $395.80
-Dressing of wounds, under general anaesthetic | $186.95
-Acupuncture, including consultation | $87.25
+Localised burns | $66.95
+Localised burns, including dressing of, under general anaesthetic | $190.35
+Extensive burns | $115.60
+Extensive burns, including dressing of, under general anaesthetic | $403.05
+Dressing of wounds, under general anaesthetic | $190.35
+Acupuncture, including consultation | $88.85
 DISLOCATIONS
 closed reduction means non-operative reduction of the dislocation, and included percutaneous fixation and/or external splintage by cast or splint.
 open reduction means treatment by either closed reduction and intra-medullary fixation or treatment by operative exposure of the dislocation including internal or external fixation.
 other means treatment by any other method and includes the use of external splintage.
 [Where injuries are associated with a compound (open) wound, an additional fee of 50% of the fee listed is to apply.]
-Elbow, by closed reduction | $352.65
-Elbow, by open reduction | $467.75
-Interphalangeal joint, by closed reduction | $151.20
-Interphalangeal joint, by open reduction | $201.50
-Mandible, by closed reduction | $126.05
-Clavicle, by closed reduction | $149.50
-Clavicle, by open reduction | $302.25
-Shoulder, not requiring general anaesthetic | $168.15
-Shoulder, by open reduction, with general anaesthetic | $602.90
-Shoulder, other, with general anaesthetic | $298.50
-Metacarpophalangeal joint, by closed reduction | $201.50
-Metacarpophalangeal joint, by open reduction | $269.95
-Patella, by closed reduction | $226.55
-Patella, by open reduction | $302.25
-Radioulnar joint, by closed reduction | $352.65
-Radioulnar joint, by open reduction | $467.75
-Toe, by closed reduction | $126.05
-Toe, by open reduction | $167.35
+Elbow, by closed reduction | $359.10
+Elbow, by open reduction | $476.30
+Interphalangeal joint, by closed reduction | $153.95
+Interphalangeal joint, by open reduction | $205.20
+Mandible, by closed reduction | $128.35
+Clavicle, by closed reduction | $152.25
+Clavicle, by open reduction | $307.80
+Shoulder, not requiring general anaesthetic | $171.25
+Shoulder, by open reduction, with general anaesthetic | $613.95
+Shoulder, other, with general anaesthetic | $303.95
+Metacarpophalangeal joint, by closed reduction | $205.20
+Metacarpophalangeal joint, by open reduction | $274.90
+Patella, by closed reduction | $230.70
+Patella, by open reduction | $307.80
+Radioulnar joint, by closed reduction | $359.10
+Radioulnar joint, by open reduction | $476.30
+Toe, by closed reduction | $128.35
+Toe, by open reduction | $170.40
 REMOVAL OF FOREIGN BODIES
-as independent procedure | $54.85
-Superficial | $244.65
-deep tissue or muscle | $683.80
-ear, other than by syringing | $176.30
-nose, other than by simple probing | $176.30
-cornea or sclera, embedded | $180.00
+as independent procedure | $55.85
+superficial | $249.15
+deep tissue or muscle | $696.30
+ear, other than by syringing | $179.55
+nose, other than by simple probing | $179.55
+cornea or sclera, embedded | $183.30
 FRACTURES
 closed reduction means non-operative reduction of the fracture and included percutaneous fixation and/or external splintage by cast or splint.
 open reduction means treatment by either closed reduction and intra-medullary fixation or treatment by operative exposure of the fracture including internal or external fixation.
 other means treatment by any other method and includes the use of external splintage.
 [Where injuries are associated with a compound (open) wound, an additional fee of 50% of the fee listed is to apply.]
 Metacarpal
-Carpal Scaphoid, by open reduction | $1 007.50
-Carpal Scaphoid, other | $449.70
-Carpus (excluding Scaphoid), by open reduction | $629.65
-Carpus (excluding Scaphoid), other | $251.95
+Carpal Scaphoid, by open reduction | $1 025.95
+Carpal Scaphoid, other | $457.95
+Carpus (excluding Scaphoid), by open reduction | $641.15
+Carpus (excluding Scaphoid), other | $256.55
 Radius
-by closed management | $503.60
-by open management | $1 007.50
+by closed management | $512.80
+by open management | $1 025.95
 Radius or Ulnar, distal end, (Colies’, Smith’s or Barton’s)
-by closed reduction | $755.65
-Ribs (1 or more), each attendance | $115.20
+by closed reduction | $769.50
+Ribs (1 or more), each attendance | $117.30
 Tibia, plateau of, medial or lateral
-by closed reduction | $908.60
-by open reduction | $1 205.40
+by closed reduction | $925.25
+by open reduction | $1 227.45
 Tibia, plateau of, medial and lateral
-by closed reduction | $1 511.25
-by open reduction | $2 024.05
+by closed reduction | $1 538.90
+by open reduction | $2 061.10
 SUTURES
-face or neck, less than 7 cm, superficial | $180.00
-face or neck, less than 7 cm, deep | $273.55
-face or neck, more than 7 cm, superficial | $273.55
-face or neck, more than 7 cm, deep | $467.75
-except face or neck, less than 7 cm, superficial | $136.75
-except face or neck, less than 7 cm, deep | $205.15
-except face or neck, more than 7 cm, superficial | $205.15
-except face or neck, more than 7 cm, deep | $449.70
+face or neck, less than 7 cm, superficial | $183.30
+face or neck, less than 7 cm, deep | $278.55
+face or neck, more than 7 cm, superficial | $278.55
+face or neck, more than 7 cm, deep | $476.30
+except face or neck, less than 7 cm, superficial | $139.25
+except face or neck, less than 7 cm, deep | $208.90
+except face or neck, more than 7 cm, superficial | $208.90
+except face or neck, more than 7 cm, deep | $457.95
 AMPUTATIONS
-Hand, midcarpal or transmetacarpal | $683.80
-Hand, forearm or through arm | $791.65
-At shoulder | $1 340.20
-Interscapulothoracic | $2 662.60
-One digit of foot | $359.75
-Two digits of one foot | $539.85
-Three digits of one foot | $728.65
-Four digits of one foot | $908.60
-Five digits of one foot | $1 088.50
-Toe including metatarsal or part of metatarsal — each toe | $424.80
-Foot, at ankle | $791.65
-Foot, midtarsal or transmetatarsal | $683.80
-Through thigh, at knee or below knee | $1 169.55
-At hip | $1 646.05
+Hand, midcarpal or transmetacarpal | $696.30
+Hand, forearm or through arm | $806.15
+At shoulder | $1 364.75
+Interscapulothoracic | $2 711.35
+One digit of foot | $366.35
+Two digits of one foot | $549.75
+Three digits of one foot | $742.00
+Four digits of one foot | $925.25
+Five digits of one foot | $1 108.40
+Toe including metatarsal or part of metatarsal — each toe | $432.55
+Foot, at ankle | $806.15
+Foot, midtarsal or transmetatarsal | $696.30
+Through thigh, at knee or below knee | $1 190.95
+At hip | $1 676.15
 ASSISTANCE AT OPERATIONS The fee for assistance at any operation (or series or combination of operations) is to be related to the fee listed for the operation (or series or combination of operations) itself.
-The fee is 20% of the total fee or the minimum sum of $226.55, whichever is greater.
-USE OF PRIVATE THEATRES A theatre fee of $136.75 will be paid to practitioners for the use of their private theatre, but this fee may only be charged if the patient would otherwise have been sent to hospital.
-[Part 2 inserted: Gazette 21 Oct 2016 p. 4826-30; amended: Gazette 6 Oct 2017 p. 5208-11; 19 Oct 2018 p. 4166-8; 22 Oct 2019 p. 3737-8.]
+The fee is 20% of the total fee or the minimum sum of $230.70, whichever is greater.
+USE OF PRIVATE THEATRES A theatre fee of $139.25 will be paid to practitioners for the use of their private theatre, but this fee may only be charged if the patient would otherwise have been sent to hospital.
+[Part 2 inserted: SL 2020/203 r. 7.]
 ## Part 3 — Diagnostic Imaging Services
-[Heading inserted: Gazette 22 Oct 2019 p. 3739.]
+[Heading inserted: SL 2020/203 r. 7.]
 ULTRASOUND
-MBS item number | Fee ($)
-55028 | 220.40
-55029 | 76.40
-55030 | 220.40
-55031 | 76.40
-55032 | 220.40
-55033 | 76.40
-55036 | 224.70
-55037 | 76.40
-55038 | 220.40
-55039 | 76.40
-55048 | 220.40
-55049 | 76.40
-55054 | 220.40
-55070 | 198.40
-55073 | 68.75
-55076 | 220.40
-55079 | 76.40
-55084 | 198.40
-55085 | 68.75
-55113 | 465.80
-55114 | 465.80
-55115 | 465.80
-55116 | 518.05
-55117 | 518.05
-55118 | 556.35
-55130 | 343.40
-55135 | 714.15
-55238 | 342.35
-55244 | 342.35
-55246 | 342.35
-55248 | 342.35
-55252 | 342.35
-55274 | 342.35
-55276 | 342.35
-55278 | 342.35
-55280 | 342.35
-55282 | 342.35
-55284 | 342.35
-55292 | 342.35
-55294 | 342.35
-55296 | 224.35
-55600 | 220.40
-55603 | 220.40
-55700 | 121.10
-55703 | 70.75
-55704 | 141.40
-55705 | 70.75
-55706 | 201.95
-55707 | 141.40
-55708 | 70.75
-55709 | 76.75
-55712 | 232.30
-55715 | 80.80
-55718 | 201.95
-55721 | 232.30
-55723 | 76.75
-55725 | 80.80
-55729 | 55.05
-55736 | 256.45
-55739 | 115.05
-55759 | 303.00
-55762 | 121.10
-55764 | 323.15
-55766 | 131.20
-55768 | 303.00
-55770 | 121.10
-55772 | 323.15
-55774 | 131.20
-55800 | 220.40
-55802 | 76.40
-55804 | 220.40
-55806 | 76.40
-55808 | 220.40
-55810 | 76.40
-55812 | 220.40
-55814 | 76.40
-55816 | 220.40
-55818 | 76.40
-55820 | 220.40
-55822 | 76.40
-55824 | 220.40
-55826 | 76.40
-55828 | 220.40
-55830 | 76.40
-55832 | 220.40
-55834 | 76.40
-55836 | 220.40
-55838 | 76.40
-55840 | 220.40
-55842 | 76.40
-55844 | 176.40
-55846 | 76.40
-55848 | 220.40
-55850 | 308.65
-55852 | 220.40
-55854 | 76.40
+MBS item number | Fee $
+55028 | 224.45
+55029 | 77.80
+55030 | 224.45
+55031 | 77.80
+55032 | 224.45
+55033 | 77.80
+55036 | 228.80
+55037 | 77.80
+55038 | 224.45
+55039 | 77.80
+55048 | 224.45
+55049 | 77.80
+55054 | 224.45
+55070 | 202.05
+55073 | 70.00
+55076 | 224.45
+55079 | 77.80
+55084 | 202.05
+55085 | 70.00
+55113 | 474.30
+55114 | 474.30
+55115 | 474.30
+55116 | 527.55
+55117 | 527.55
+55118 | 566.55
+55130 | 349.70
+55135 | 727.20
+55238 | 348.60
+55244 | 348.60
+55246 | 348.60
+55248 | 348.60
+55252 | 348.60
+55274 | 348.60
+55276 | 348.60
+55278 | 348.60
+55280 | 348.60
+55282 | 348.60
+55284 | 348.60
+55292 | 348.60
+55294 | 348.60
+55296 | 228.45
+55600 | 224.45
+55603 | 224.45
+55700 | 123.30
+55703 | 72.05
+55704 | 144.00
+55705 | 72.05
+55706 | 205.65
+55707 | 144.00
+55708 | 72.05
+55709 | 78.15
+55712 | 236.55
+55715 | 82.30
+55718 | 205.65
+55721 | 236.55
+55723 | 78.15
+55725 | 82.30
+55729 | 56.05
+55736 | 261.15
+55739 | 117.15
+55759 | 308.55
+55762 | 123.30
+55764 | 329.05
+55766 | 133.60
+55768 | 308.55
+55770 | 123.30
+55772 | 329.05
+55774 | 133.60
+55812 | 224.45
+55814 | 77.80
+55844 | 179.65
+55846 | 77.80
+55848 | 224.45
+55850 | 314.30
+55852 | 224.45
+55854 | 77.80
 COMPUTED TOMOGRAPHY — EXAMINATION AND REPORT
-MBS item number | Fee ($)
-56001 | 361.75
-56007 | 463.70
-56010 | 467.55
-56013 | 463.70
-56016 | 537.90
-56022 | 417.35
-56028 | 624.80
-56030 | 417.35
-56036 | 624.80
-56041 | 183.25
-56047 | 234.05
-56050 | 237.85
-56053 | 237.85
-56056 | 288.20
-56062 | 209.80
-56068 | 312.35
-56070 | 209.80
-56076 | 312.35
-56101 | 426.75
-56107 | 630.80
-56141 | 216.00
-56147 | 318.30
-56219 | 605.15
-56220 | 445.20
-56221 | 445.20
-56223 | 445.20
-56224 | 651.80
-56225 | 651.80
-56226 | 651.80
-56227 | 227.15
-56228 | 227.15
-56229 | 227.15
-56230 | 329.15
-56231 | 329.15
-56232 | 329.15
-56233 | 445.20
-56234 | 651.80
-56235 | 227.10
-56236 | 329.15
-56237 | 445.20
-56238 | 651.80
-56239 | 227.10
-56240 | 329.15
-56259 | 305.60
-56301 | 547.20
-56307 | 741.80
-56341 | 277.25
-56347 | 374.65
-56401 | 463.70
-56407 | 667.75
-56409 | 463.70
-56412 | 667.75
-56441 | 235.10
-56447 | 336.60
-56449 | 235.10
-56452 | 336.60
-56501 | 714.15
-56507 | 890.30
-56541 | 358.20
-56547 | 452.15
-56619 | 408.05
-56625 | 620.70
-56659 | 207.95
-56665 | 310.60
-56801 | 865.50
-56807 | 1 038.85
-56841 | 432.75
-56847 | 526.55
-57001 | 865.65
-57007 | 1 053.15
-57041 | 432.85
-57047 | 526.60
-57201 | 287.85
-57247 | 143.75
-57341 | 871.85
-57345 | 448.20
-57350 | 946.00
-57351 | 946.00
-57355 | 490.00
-57356 | 490.00
+MBS item number | Fee $
+56001 | 368.35
+56007 | 472.20
+56010 | 476.10
+56013 | 472.20
+56016 | 547.75
+56022 | 425.00
+56028 | 636.25
+56030 | 425.00
+56036 | 636.25
+56101 | 434.55
+56107 | 642.35
+56219 | 616.20
+56220 | 453.35
+56221 | 453.35
+56223 | 453.35
+56224 | 663.75
+56225 | 663.75
+56226 | 663.75
+56233 | 453.35
+56234 | 663.75
+56235 | 231.25
+56236 | 335.15
+56237 | 453.35
+56238 | 663.75
+56239 | 231.25
+56240 | 335.15
+56259 | 311.20
+56301 | 557.20
+56307 | 755.35
+56341 | 282.30
+56347 | 381.50
+56401 | 472.20
+56407 | 679.95
+56409 | 472.20
+56412 | 679.95
+56441 | 239.40
+56447 | 342.75
+56449 | 239.40
+56452 | 342.75
+56501 | 727.20
+56507 | 906.60
+56541 | 364.75
+56547 | 460.40
+56659 | 211.75
+56665 | 316.30
+56801 | 881.35
+56807 | 1 057.85
+56841 | 440.65
+56847 | 536.20
+57001 | 881.50
+57007 | 1 072.40
+57041 | 440.75
+57047 | 536.25
+57201 | 293.10
+57247 | 146.40
+57341 | 887.80
+57345 | 456.40
+57351 | 963.30
+57355 | 498.95
+57356 | 498.95
 DIAGNOSTIC RADIOLOGY
-MBS item number | Fee ($)
-57506 | 63.65
-57509 | 85.15
-57512 | 86.80
-57515 | 115.60
-57518 | 69.50
-57521 | 92.95
-57524 | 105.90
-57527 | 140.90
-57700 | 86.80
-57703 | 115.60
-57706 | 69.50
-57709 | 92.95
-57712 | 101.00
-57715 | 130.55
-57721 | 212.55
-57901 | 138.10
-57902 | 138.10
-57903 | 101.25
-57906 | 138.10
-57909 | 138.10
-57912 | 101.00
-57915 | 101.00
-57918 | 101.00
-57921 | 101.00
-57924 | 101.00
-57927 | 106.20
-57930 | 70.50
-57933 | 167.60
-57939 | 138.10
-57942 | 106.20
-57945 | 92.95
-57960 | 101.65
-57963 | 101.65
-57966 | 101.65
-57969 | 101.65
-58100 | 143.75
-58103 | 118.05
-58106 | 164.90
-58108 | 284.65
-58109 | 100.75
-58112 | 208.35
-58115 | 284.65
-58300 | 85.95
-58306 | 191.35
-58500 | 75.70
-58503 | 101.00
-58506 | 130.35
-58509 | 85.15
-58521 | 92.95
-58524 | 121.05
-58527 | 148.60
-58700 | 98.80
-58706 | 338.20
-58715 | 324.65
-58718 | 270.30
-58721 | 296.20
-58900 | 76.40
-58903 | 101.90
-58909 | 192.60
-58912 | 236.20
-58915 | 169.05
-58916 | 296.65
-58921 | 289.75
-58927 | 163.75
-58933 | 440.50
-58936 | 419.80
-58939 | 298.35
-59103 | 45.70
-59300 | 191.80
-59303 | 115.50
-59306 | 214.90
-59309 | 429.55
-59312 | 186.40
-59314 | 112.40
-59318 | 100.80
-59700 | 206.80
-59703 | 162.65
-59712 | 243.60
-59715 | 307.55
-59718 | 288.45
-59724 | 485.15
-59733 | 230.75
-59739 | 158.15
-59751 | 298.10
-59754 | 469.85
-59760 | 246.65
-59763 | 286.90
-59903 | 245.40
-59912 | 653.80
-59925 | 776.35
-59970 | 360.60
-59971 | 122.80
-59972 | 326.75
-59973 | 388.20
-59974 | 180.30
-60000 | 1 208.25
-60003 | 1 771.90
-60006 | 2 519.40
-60009 | 2 948.35
-60012 | 1 208.25
-60015 | 1 771.90
-60018 | 2 519.40
-60021 | 2 948.35
-60024 | 1 208.25
-60027 | 1 771.90
-60030 | 2 519.40
-60033 | 2 948.35
-60036 | 1 208.25
-60039 | 1 771.90
-60042 | 2 519.40
-60045 | 2 948.35
-60048 | 1 208.25
-60051 | 1 771.90
-60054 | 2 519.40
-60057 | 2 948.35
-60060 | 1 208.25
-60063 | 1 771.90
-60066 | 2 519.40
-60069 | 2 948.35
-60072 | 103.20
-60075 | 205.90
-60078 | 308.85
-60100 | 130.35
-60500 | 92.95
-60503 | 63.65
-60506 | 136.65
-60509 | 211.80
-60918 | 101.00
-60927 | 81.55
-61109 | 554.60
+MBS item number | Fee $
+57506 | 64.80
+57509 | 86.70
+57512 | 88.40
+57515 | 117.70
+57518 | 70.75
+57521 | 94.65
+57524 | 107.85
+57527 | 143.50
+57700 | 88.40
+57703 | 117.70
+57706 | 70.75
+57709 | 94.65
+57712 | 102.85
+57715 | 132.95
+57721 | 216.45
+57901 | 140.65
+57902 | 140.65
+57915 | 102.85
+57918 | 102.85
+57921 | 102.85
+57924 | 102.85
+57927 | 108.15
+57930 | 71.80
+57933 | 170.65
+57939 | 140.65
+57942 | 108.15
+57945 | 94.65
+57960 | 103.50
+57963 | 103.50
+57966 | 103.50
+57969 | 103.50
+58100 | 146.40
+58103 | 120.20
+58106 | 167.90
+58108 | 289.85
+58109 | 102.60
+58112 | 212.15
+58115 | 289.85
+58300 | 87.50
+58306 | 194.85
+58500 | 77.10
+58503 | 102.85
+58506 | 132.75
+58509 | 86.70
+58521 | 94.65
+58524 | 123.25
+58527 | 151.30
+58700 | 100.60
+58706 | 344.40
+58715 | 330.60
+58718 | 275.25
+58721 | 301.60
+58900 | 77.80
+58903 | 103.75
+58909 | 196.10
+58912 | 240.50
+58915 | 172.15
+58916 | 302.10
+58921 | 295.05
+58927 | 166.75
+58933 | 448.55
+58936 | 427.50
+58939 | 303.80
+59103 | 46.55
+59300 | 195.30
+59303 | 117.60
+59312 | 189.80
+59314 | 114.45
+59318 | 102.65
+59700 | 210.60
+59703 | 165.65
+59712 | 248.05
+59715 | 313.20
+59718 | 293.75
+59724 | 494.05
+59733 | 234.95
+59739 | 161.05
+59751 | 303.55
+59754 | 478.45
+59763 | 292.15
+59903 | 249.90
+59912 | 665.75
+59925 | 790.55
+59970 | 367.20
+59971 | 125.05
+59972 | 332.75
+59973 | 395.30
+59974 | 183.60
+60000 | 1 230.35
+60003 | 1 804.35
+60006 | 2 565.50
+60009 | 3 002.30
+60012 | 1 230.35
+60015 | 1 804.35
+60018 | 2 565.50
+60021 | 3 002.30
+60024 | 1 230.35
+60027 | 1 804.35
+60030 | 2 565.50
+60033 | 3 002.30
+60036 | 1 230.35
+60039 | 1 804.35
+60042 | 2 565.50
+60045 | 3 002.30
+60048 | 1 230.35
+60051 | 1 804.35
+60054 | 2 565.50
+60057 | 3 002.30
+60060 | 1 230.35
+60063 | 1 804.35
+60066 | 2 565.50
+60069 | 3 002.30
+60072 | 105.10
+60075 | 209.65
+60078 | 314.50
+60500 | 94.65
+60503 | 64.80
+60506 | 139.15
+60509 | 215.70
+60918 | 102.85
+60927 | 83.05
+61109 | 564.75
 NUCLEAR MEDICINE IMAGING
-MBS item number | Fee ($)
-61302 | 740.65
-61303 | 932.70
-61306 | 1 170.95
-61307 | 1 377.65
-61310 | 606.00
-61313 | 500.60
-61314 | 692.95
-61316 | 628.95
-61317 | 812.40
-61320 | 377.60
-61328 | 375.65
-61340 | 417.45
-61348 | 731.60
-61352 | 427.85
-61353 | 637.80
-61356 | 648.10
-61360 | 665.55
-61361 | 761.35
-61364 | 820.05
-61368 | 368.20
-61369 | 3 325.90
-61372 | 368.20
-61373 | 808.00
-61376 | 236.55
-61381 | 947.60
-61383 | 1 031.05
-61384 | 1 134.70
-61386 | 548.70
-61387 | 710.80
-61389 | 611.40
-61390 | 676.45
-61393 | 999.05
-61397 | 407.25
-61401 | 267.85
-61402 | 998.35
-61405 | 570.85
-61409 | 1 441.35
-61413 | 372.80
-61417 | 196.10
-61421 | 791.70
-61425 | 991.15
-61426 | 915.40
-61429 | 895.90
-61430 | 1 088.15
-61433 | 820.05
-61434 | 1 015.40
-61437 | 895.65
-61438 | 1 110.40
-61441 | 808.00
-61442 | 1 241.40
-61445 | 473.20
-61446 | 550.45
-61449 | 752.70
-61450 | 655.90
-61453 | 849.25
-61454 | 574.30
-61457 | 776.25
-61458 | 654.85
-61461 | 870.80
-61462 | 215.00
-61469 | 574.30
-61473 | 289.30
-61480 | 638.35
-61484 | 1 453.45
-61485 | 1 648.70
-61495 | 368.20
-61499 | 417.45
-61650 | 1 449.75
+MBS item number | Fee $
+61302 | 754.20
+61303 | 949.75
+61306 | 1 192.40
+61307 | 1 402.85
+61310 | 617.10
+61313 | 509.75
+61314 | 705.65
+61328 | 382.50
+61340 | 425.10
+61348 | 745.00
+61353 | 649.45
+61356 | 659.95
+61360 | 677.75
+61361 | 775.30
+61364 | 835.05
+61368 | 374.95
+61369 | 3 386.75
+61372 | 374.95
+61373 | 822.80
+61376 | 240.90
+61381 | 964.95
+61383 | 1 049.90
+61384 | 1 155.45
+61386 | 558.75
+61387 | 723.80
+61389 | 622.60
+61390 | 688.85
+61393 | 1 017.35
+61397 | 414.70
+61402 | 1 016.60
+61409 | 1 467.75
+61413 | 379.60
+61421 | 806.20
+61425 | 1 009.30
+61426 | 932.15
+61429 | 912.30
+61430 | 1 108.05
+61433 | 835.05
+61434 | 1 034.00
+61438 | 1 130.70
+61441 | 822.80
+61442 | 1 264.10
+61445 | 481.85
+61446 | 560.50
+61449 | 766.45
+61450 | 667.90
+61453 | 864.80
+61454 | 584.80
+61457 | 790.45
+61461 | 886.75
+61462 | 218.95
+61469 | 584.80
+61473 | 294.60
+61480 | 650.05
+61485 | 1 678.85
+61495 | 374.95
+61499 | 425.10
+61650 | 1 476.30
 MAGNETIC RESONANCE IMAGING
-MBS item number | Fee ($)
-63000-63200 | 1 074.45
-63201 | 1 611.65
-63202 | 1 074.45
-63203 | 1 074.45
-63204 | 1 611.65
-63219-63243 | 1 611.65
-63271-63473 | 1 074.45
-63491-63494 | 122.85
-63497 | 368.75
-[Part 3 inserted: Gazette 22 Oct 2019 p. 3739-49.]
+MBS item number | Fee $
+63000—63200 | 1 094.10
+63201 | 1 641.15
+63202—63203 | 1 094.10
+63204 | 1 641.15
+63219—63243 | 1 641.15
+63271—63473 | 1 094.10
+63491—63494 | 125.10
+63497 | 375.50
+[Part 3 inserted: SL 2020/203 r. 7.]
+Schedule 2 — Scale of fees: physiotherapists
+[r. 3]
+[Heading inserted: SL 2020/203 r. 8.]
+## Part 1 — General
+[Heading inserted: SL 2020/203 r. 8.]
+Service Code | Service
+PA001 | Initial Consultation A consultation with the physiotherapist including the following elements — | Set Fee $89.45
+ | Subjective assessment — of the following points as required: Major symptoms and lifestyle dysfunction; current history and treatment; past history and treatment; pain, 24-hour behaviour, aggravating and relieving factors; general health, medication, risk factors.
+ | Objective assessment — of the following points as required: Movement — active, passive, resisted, repeated; muscle tone, spasm, weakness; accessory movements, passive intervertebral movements etc. Appropriate procedures/tests as indicated.
+ | Appropriate initial management, treatment or advice — based on assessment findings that could include the following as required: Provisional diagnosis; goals of treatment; treatment plan. Discussion with the patient regarding working hypothesis and treatment goals and expected outcomes; initial treatment and response; advice regarding home care including any exercise program to be followed.
+ | Documentation of consultation — as required that could include: The assessment findings, physiotherapy intervention(s), evaluation of intervention(s), plan for future treatment and results of other relevant tests and warnings (if applicable).
+ | Includes: •Individual services provided in rooms, home or hospital; hydrotherapy treatment; extended treatments; and services provided outside of normal business hours.
+ | •Courtesy communication by the physiotherapist with the medical practitioner such as acknowledgment of referral.
+ | •The physiotherapist’s notes of the consultation.
+ | Does not include: •Oral or written communication by the physiotherapist with a medical specialist, medical practitioner, employer, insurer or vocational rehabilitation provider (other than a courtesy communication with the medical practitioner). Oral communication has a specific item number in this Table (PK001).
+ | •The physiotherapist’s involvement in case conferences. This service has a specific item number in this Table (PQ001).
+PB001 | Standard Consultation Consultation for one body area or condition including the following elements — | Set Fee $71.85
+ | •subjective re-assessment; •objective re-assessment; •appropriate management, intervention or advice; •documentation of consultation.
+ | Includes: •Individual services provided in rooms, home or hospital; hydrotherapy treatment; extended treatments; and services provided outside of normal business hours.
+ | •Courtesy communication by the physiotherapist such as brief oral or written communication with the medical practitioner.
+ | Does not include: •Oral or written communication by the physiotherapist with a medical specialist, medical practitioner, employer, insurer or vocational rehabilitation provider (other than a courtesy communication with the medical practitioner). Oral communication has a specific item number in this Table (PK001).
+ | •The physiotherapist’s involvement in case conferences. This service has a specific item number in this Table (PQ001).
+PC001 | Two distinct areas of treatment per visit Same description as PB001 except relates to the treatment/management of 2 distinct areas/conditions. | Set Fee $90.80
+PG001 | Group Consultation — per person Includes non-individualised services provided to more than one individual whether — •in rooms, home or hospital; | Cost per participant $22.15
+ | •hydrotherapy treatment;
+ | •extended treatments;
+ | •services provided outside of normal business hours.
+PE001 | Worksite Visit — prior approval from insurer required Prior to a worksite evaluation, consideration of details such as relevance to injury; intended outcomes; likely duration and reporting requirements should be made and discussed with the insurer with a suggested maximum duration of 2 hours. Does not include reports or travel. | Hourly rate** $203.90
+PR001 | Progress/Standard Report A report relating to a specific worker that is provided to a medical specialist, medical practitioner, employer, insurer or vocational rehabilitation provider that contains (where applicable) — •a summary of assessment findings; | Set Fee $89.45
+ | •treatment/management services provided and results obtained;
+ | •recommendations for further treatment/management;
+ | •functional and objective improvements;
+ | •perceived treatment duration required;
+ | •return to work recommendation;
+ | •perceived barriers to return to work;
+ | •questionnaire results and implications.
+ | A maximum combined total of 3 reports or Treatment Management Plans (PR003) permitted without prior approval from insurer. Additional reports require prior approval from insurer.
+ | Does not include: •Courtesy communication by the physiotherapist such as brief oral or written communication with the medical practitioner.
+PR002 | Comprehensive Report As above for progress/standard report and contains information relating to more detailed assessments and interventions performed. | Hourly rate** $203.90
+ | The specific requirements for a comprehensive report must be discussed with the insurer prior to approval with a suggested maximum duration of 2 hours.
+PR003 | Treatment Management Plan Provision of a completed Treatment Management Plan that must contain — | Set Fee $89.45
+ | •clinical assessment of injured worker and results of any investigation;
+ | •injured worker’s current work status and level of incapacity;
+ | •proposed management plan including — 1.the proposed work and functional goals and estimated timeframe in weeks;
+ | 2.description and number of proposed treatment methods;
+ | 3.the number of weeks during which treatment is to be conducted;
+ | 4.the injured worker’s expected fitness for work at the end of the management plan;
+ | 5.other comments or recommendations (including barriers to recovery where relevant).
+ | A maximum combined total of 3 Treatment Management Plans or reports (PR001) permitted without prior approval from insurer. Additional Treatment Management Plans require prior approval from insurer.
+PT001 | Travel Travel when the most appropriate management of the patient requires the provider to travel away from their normal practice. The insurer must provide pre-approval for travel in excess of 1 hour. | Hourly rate** $163.25
+ | If services are provided to more than one worker before leaving a venue, the fee for the journey is to be apportioned equally between workers.
+PQ001 | Case Conferences Face-to-face or telephone communication involving the physiotherapist with one or more of the following — | $20.45 per 6 minute block
+ | •doctor, employer, insurer/claims manager, rehabilitation providers and worker.
+ | The aim of the case conference is to plan, implement, manage or review treatment options and/or rehabilitation plan.
+PK001 | Communication Any required oral communication by the physiotherapist with a medical specialist, medical practitioner, employer, insurer or vocational rehabilitation provider (other than a courtesy communication with the medical practitioner) relating to the treatment or rehabilitation of a specific worker. | $20.45 per 6 minute block
+ | The physiotherapist must keep a written record of the details of the communication, including its date, time and duration.
+ | Maximum duration per communication is 30 minutes.
+ | Maximum cumulative duration of communications per claim is 1 hour. When the maximum cumulative duration has been reached, prior approval from insurer for a minimum of 5 blocks of 6 minutes is required.
+PS001 | Specific Physiotherapy Assessment — prior approval from insurer required Includes specific types of assessments not classified elsewhere in these scales required by the insurer which physiotherapists may undertake (e.g. diagnostic ultrasound imaging, Functional Capacity Assessments (FCAs), seating and wheelchair assessments). | Hourly rate** $203.90
+PW001 | Specific Physiotherapy Intervention — prior approval from insurer required Includes treatments not classified elsewhere in these scales required by the insurer which physiotherapists may undertake (e.g. treatment of severe multiple area trauma, burns, neurologically injured patients and patients with severe spinal injuries, ergonomic corrections of workplace, specialised real-time ultrasound imaging, short consultations). | Hourly rate** $203.90 per hour to a maximum of 2 hours**
+Note for this Part:
+**Denotes that where the service provided is a fraction of 1 hour, the amount chargeable is to be calculated as that fraction of the maximum amount.
+[Part 1 inserted: SL 2020/203 r. 8.]
+## Part 2 — Exercise-based programs
+[Heading inserted: SL 2020/203 r. 8.]
+ | Type of service | Fee
+EXE20 | Initial Consultation/Assessment Insurer approval must be obtained prior to undertaking the service. Review of current medical and vocational status. | $203.90 per hour to a maximum of 2 hours**
+ | Communication/liaison with relevant parties.
+ | Physiological assessment/testing.
+ | Screening questionnaires relating to worker’s level of function.
+ | Program design based on above.
+ | Exercise facility/equipment coordination (pool or gym based).
+ | Provider to patient ratio must be 1:1 for the duration of the consultation.
+EXE21 | Subsequent Exercise Consultation/Assessment Includes — •program implementation — prescription and provision of exercises (land or pool based); •program monitoring; •post program screening questionnaire relating to worker’s level of function; •psychosocial reassessment; •communication/liaison with relevant parties. | $203.90 per hour to a maximum of 1 hour**
+EXE02 | Initial report Includes — •initial assessment report outlining results (self-reported and objective), recommendations and exercise rehabilitation plan; | $203.90 per hour to a maximum of 1 hour**
+ | •current status as per medical certification and proposed outcome status;
+ | •detailed cost plan outlining proposed outcome, services required and proposed costs for insurer approval.
+EXE03 | Subsequent reports Progress report to be provided at the request of the referrer. | $203.90 per hour to a maximum of 30 minutes**
+EXE04 | Final report Comprehensive report to be provided at the end of the service delivery detailing — •physiological testing results pre and post program; •worker attendance/program compliance. | $203.90 per hour to a maximum of 30 minutes**
+EXE05 | Gym membership/Entry fees Includes direct cost of membership (pool or gym). Prior approval from insurer required. | Market rates
+EXE06 | Travel Travel when the most appropriate management of the patient requires the provider to travel away from their normal practice. The insurer must provide pre-approval for travel in excess of 1 hour. If services are provided to more than one worker before leaving a venue, the fee for the journey is to be apportioned equally between workers. | $163.25 per hour**
+EXE08 | Communication Any requested or required oral communication with relevant parties (treating medical practitioners, employers and insurers) relating to the treatment of a specific worker. Excludes courtesy communication such as acknowledgment of referral and brief updates to the medical practitioner. Maximum time allowable per communication of 30 minutes. | $20.45 per 6 minute block
+EXE09 | Attendance at Medical Case Conferences Insurer approval must be obtained prior to undertaking the service. | $203.90 per hour**
+Note for this Part:
+**Denotes that where the service provided is a fraction of 1 hour, the amount chargeable is to be calculated as that fraction of the maximum amount.
+[Part 2 inserted: SL 2020/203 r. 8.]
