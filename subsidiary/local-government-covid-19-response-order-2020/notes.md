@@ -1,8 +1,9 @@
 Notes
-This is the Local Government (COVID-19 Response) Order 2020. For provisions that have come into operation see the compilation table.
+This is a compilation of the Local Government (COVID-19 Response) Order 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (COVID-19 Response) Order 2020 | SL 2020/57 8 May 2020 | 8 May 2020 (see cl. 2)
+Local Government (COVID-19 Response) Amendment Order 2020 | SL 2020/211 3 Nov 2020 | cl. 1 and 2: 3 Nov 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 4 Nov 2020 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
