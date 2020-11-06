@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Local Government (Employee Superannuation) Regulations 2016. The following table contains information about those regulations.
+This is a compilation of the Local Government (Employee Superannuation) Regulations 2016. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Local Government (Employee Superannuation) Regulations 2016 | 25 Oct 2016 p. 4871-4 | r. 1 and 2: 25 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Oct 2016 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Local Government (Employee Superannuation) Amendment Regulations 2020 r. 3 and 4 | SL 2020/217 6 Nov 2020 | 3 Dec 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
