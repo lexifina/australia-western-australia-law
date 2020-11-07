@@ -27,6 +27,7 @@ Local Government (Functions and General) Amendment Regulations 2017 | 8 Dec 2017
 Local Government (Functions and General) Amendment Regulations 2019 | 31 Dec 2019 p. 4649 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Local Government Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/35 9 Apr 2020 | 10 Apr 2020 (see r. 2(b))
 Local Government (Functions and General) Amendment Regulations 2020 | SL 2020/55 8 May 2020 | r. 1 and 2: 8 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2020 (see r. 2(b))
+Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 8 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Other notes
 The Local Government Act 1995 came into operation on 1 July 1996.
 The Local Government (Functions and General) Amendment Regulations 2001 r. 11 is a transitional provision that is of no further effect.

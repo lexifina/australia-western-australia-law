@@ -1,12 +1,7 @@
 ## Schedule 1 — Forms
-List of Forms
-FormHeading | Regulation
-1.Application for Grant or Renewal of Licence | 43
-2.Licence | 46
-3.Infringement Notice | 63
-4.Withdrawal of Infringement Notice | 64
-5. Identity Card | 68
-[Regs. 41 and 42.]
+[List of Forms deleted: SL 2020/213 r. 5(1).]
+[r. 43, 46, 63, 64 and 68]
+[Heading amended: SL 2020/213 r. 5(2).]
 Form 1. Application for Grant or Renewal of Licence
 Caravan Parks and Camping Grounds Act 1995, sec. 7(1)(a) APPLICATION FOR GRANT OR RENEWAL OF LICENCE
 To | Local government:
@@ -84,6 +79,6 @@ Date:
 Form 5. Identity Card
 WESTERN AUSTRALIA Caravan Parks & Camping Grounds Act 1995 IDENTITY CARD AUTHORISED PERSON
  | [Photograph of authorised person] | This is to certify that ................................................ [name of person] .............................................. is an authorised person under section 17(1)(b) of the Caravan Parks and Camping Grounds Act 1995.
-............................................................................................................................... SignatureDate Issued by the chief executive officer of the Department of Local Government* or ......................... *[name of the local government].
-* Delete whichever is not applicable.
+............................................................................................................................... SignatureDate Issued by the chief executive officer of the Department of Local Government, Sport and Cultural Industries.
+[Form 5 amended: SL 2020/213 r. 5(3).]
 [Form 6 deleted: Gazette 30 Dec 2004 p. 7011.]

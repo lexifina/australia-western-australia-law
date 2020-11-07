@@ -15,6 +15,7 @@ Control of Vehicles (Off-road Areas) Amendment Regulations 2015 | 18 Sep 2015 p.
  | Control of Vehicles (Off-road Areas) Amendment Regulations 2018 | 15 Jun 2018 p. 1928-9 | r. 1 and 2: 15 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
  | Control of Vehicles (Off-road Areas) Amendment Regulations 2019 | 10 May 2019 p. 1403-4 | r. 1 and 2: 10 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
  | Control of Vehicles (Off-road Areas) Amendment Regulations 2020 | SL 2020/41 17 Apr 2020 | r. 1 and 2: 17 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
+ | Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 3 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Other notes
 Under the Alteration of Statutory Designations Order 1984, references to the Department of Public Health are to be read as references to the Health Department.
 Defined terms

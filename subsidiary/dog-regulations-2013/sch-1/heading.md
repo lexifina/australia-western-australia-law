@@ -1,24 +1,15 @@
 ## Schedule 1 — Forms
 Form 1
 [r. 14]
-Dog Act 1976 s. 11(3)
-Certificate of authorisation
-(1) __________________________________________________________
-This is to certify that (2) _________________________________________
-has been appointed by the (1) _____________________________________
-to exercise the powers of a (3) _____________________________________
-and has been authorised for the purposes of the Dog Act 1976, to (4) ______
-____________________________________________________________
-in accordance with the provisions of that Act.
-Signed ______________________________ CEO of the local government.
-Signature of person authorised ___________________________________
-Dated _____________________________
-Valid until __________________________
+[Heading inserted: SL 2020/213 r. 13.]
+Dog Act 1976 s. 11(3) Certificate of authorisation (1) ______________________________________________________
+ | [Photograph of authorised person] | This is to certify that (2) ............................................... has been appointed by the (1)....................................... ........................................ to exercise the powers of a registration officer in accordance with the provisions of the Dog Act 1976.
+Signed ................................................................... CEO of the (1)....................................
+..................................................... ...................................... Signature of authorised person Date
 Insert:
 (1)name of local government;
-(2)name of person authorised;
-(3)name of office, e.g. “registration officer”, “dog management facility operator”, “ranger”.
-(4)brief description of duties, e.g. “register dogs”, “impound dogs”, “seize, detain and dispose of dogs”.
+(2)name of authorised person.
+[Form 1 inserted: SL 2020/213 r. 13.]
 Form 2
 [r. 15]
 Dog Act 1976 s. 12A(3) and 29(5a)
