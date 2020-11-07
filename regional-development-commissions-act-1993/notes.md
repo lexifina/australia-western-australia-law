@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Regional Development Commissions Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Regional Development Commissions Act 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Regional Development Commissions Act 1993 | 53 of 1993 | 22 Dec 1993 | 8 Apr 1994 (see s. 2 and Gazette 8 Apr 1994 p. 1462)
@@ -17,7 +17,8 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 5 | 28 o
 Reprint 2: The Regional Development Commissions Act 1993 as at 15 Sep 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Footnote no longer applicable.
+Regional Development Commissions (Act Amendment) Regulations 2020 SL 2020/216 | r. 1 and 2: 6 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2020 (see r. 2(b))
+Other notes
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Regional Development Commissions Amendment Act 2003 s. 4(2) reads as follows:
 “
@@ -35,10 +36,10 @@ committee3(1)
 Council3(1)
 Director3(1)
 document26(4)
-existing bodySch. 3 cl. 1(1), Sch. 3 cl. 1(2), Sch. 3 cl. 1(3), Sch. 3 cl. 1(4), Sch. 3 cl. 1(5)
+existing bodySch. 3 cl. 1(1), (2), (3), (4) and (5)
 information26(4)
 land38
 Minister3(2), 3(3), 32(2)
-new bodySch. 3 cl. 1(1), Sch. 3 cl. 1(2), Sch. 3 cl. 1(3), Sch. 3 cl. 1(4), Sch. 3 cl. 1(5)
+new bodySch. 3 cl. 1(1), (2), (3), (4) and (5)
 region3(1)
 repealed Act3(1)
