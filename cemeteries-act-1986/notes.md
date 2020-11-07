@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Cemeteries Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Cemeteries Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cemeteries Act 1986 | 102 of 1986 | 12 Dec 1986 | s. 1 and 2: 12 Dec 1986; Act other than s. 1 and 2: 1 Jul 1987 (see s. 2 and Gazette 12 Jun 1987 p. 2319)
@@ -19,10 +19,7 @@ Acts Amendment (Bankruptcy) Act 2009 s. 14 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Cemeteries Act 1986 as at 6 May 2016 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2019 Pt. 4 Div. 3 | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2019 Pt. 4 Div. 3 | 16 of 2019 | 5 Jul 2019 | 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
 Other notes
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 8 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
