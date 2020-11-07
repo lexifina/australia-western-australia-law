@@ -1,12 +1,13 @@
 Notes
-This is a compilation of the Medicines and Poisons Regulations 2016 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Medicines and Poisons Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Medicines and Poisons Regulations 2016 | 17 Jan 2017 p. 443-586 | 30 Jan 2017 (see r. 2 and Gazette 17 Jan 2017 p. 403)
 Health Regulations Amendment Regulations 2018 Pt. 3 | 13 Nov 2018 p. 4428-31 | 1 Dec 2018 (see r. 2(b))
 Medicines and Poisons Amendment Regulations 2019 | 15 Mar 2019 p. 786-92 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Medicines and Poisons Amendment Regulations (No. 2) 2019 | 19 Nov 2019 p. 4051-2 | r. 1 and 2: 19 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2019 (see r. 2(b))
+Medicines and Poisons Amendment Regulations 2020 | SL 2020/214 6 Nov 2020 | r. 1 and 2: 6 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -113,7 +114,7 @@ relevant premises95(1)
 remote clinic37
 repealed Act149
 repealed regulations149
-repeat form24(1), 24(2)
+repeat form24(1) and (2)
 residential care chart3(1)
 residential care facility3(1)
 responsible person76(1)
