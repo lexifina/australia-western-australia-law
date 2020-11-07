@@ -28,11 +28,11 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 47 | 8 of 2009 | 21 
 Dog Amendment Act 2013 Pt. 2 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b) and Gazette 31 Oct 2013 p. 4829)
 Reprint 6: The Dog Act 1976 as at 4 Jul 2014 (includes amendments listed above)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 11 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Local Government Legislation Amendment Act 2019 Pt. 4 Div. 5 | 16 of 2019 | 5 Jul 2019 | 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 5 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Local Government Legislation Amendment Act 2019 Pt. 4 Div. 5 | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 148 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Other notes
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Caravan Parks and Camping Grounds Act 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Caravan Parks and Camping Grounds Act 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Caravan Parks and Camping Grounds Act 1995 | 34 of 1995 | 29 Sep 1995 | s. 1 and 2: 29 Sep 1995; Act other than s. 1, 2, 34(1) and (2) and Sch. 2 it. 3: 1 Jul 1997 (see s. 2 and Gazette 20 Jun 1997 p. 2805); s. 34(1) and (2) and Sch. 2 it. 3 deleted by No. 8 of 2009 s. 26
@@ -16,10 +16,7 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Caravan Parks and Camping Grounds Act 1995 as at 15 Apr 2016 (includes amendments listed above)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Local Government Legislation Amendment Act 2019 Pt. 4 Div. 1 | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2019 Pt. 4 Div. 1 | 16 of 2019 | 5 Jul 2019 | 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1985 s. 7(4)(e).
 Appointed day for the purpose of section 6(1): 1 October 1997, see Gazette 20 Jun 1997 p. 2853.
