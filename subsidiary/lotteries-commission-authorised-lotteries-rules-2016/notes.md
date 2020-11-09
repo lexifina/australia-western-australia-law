@@ -10,6 +10,7 @@ Lotteries Commission (Authorised Lotteries) Amendment Rules 2019 | 12 Nov 2019 p
 Lotteries Commission (Authorised Lotteries) (Set for Life) Amendment Rules 2020 | 3 Mar 2020 p. 473-8 | r. 1-3: 3 Mar 2020 (see r. 2(a)); Rules other than r. 1-3: immediately after the Set For Life draw on 16 Mar 2020 (see r. 2(b))
 Lotteries Commission Rules Amendment (COVID-19 Response) Rules 2020 Pt. 2 | SL 2020/52 5 May 2020 | 6 May 2020 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) (Saturday Lotto) Amendment Rules 2020 | 8 Sep 2020 p. 2851-2 | r. 1-3: 8 Sep 2020 (see r. 2(a)); r. 4-9: immediately after the Saturday Lotto draw on 3 Oct 2020 (see r. 2(b))
+Lotteries Commission (Authorised Lotteries) Amendment Rules 2020 | 6 Nov 2020 p. 4156-61 | r. 1 and 2: 6 Nov 2020 (see r. 2(a)); Rules other than r. 1 and 2: 9 Nov 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -17,30 +18,36 @@ advance play option3
 agent3
 agent’s component63(1), 73, 86, 99, 110
 authorised financial institution account3
+authorised provider3
+Autoplay8(2)
 barrel A86
 barrel A selection86
 barrel B86
 Cash 33
+Category A member3
+Category B member3
 digital entry3
 draw73, 110
 entry37, 52, 63(1), 73, 86, 99, 110, 137
 game52, 63(1), 73, 86, 99, 110, 137
 game board3, 86
-Lotterywest App3, 39(1)
+Lotterywest App3
+Lotterywest member3
+Lotterywest membership3
 Lotterywest membership card3
 Lotterywest membership number3
-lotto3, 63(2) and (3)
+lotto3, 63(2), 63(3)
 Lotto Bloc3
-lotto draw3, 63(2) and (3)
+lotto draw3, 63(2), 63(3)
+membership account3
 Monday and Wednesday Lotto Rules3
 Monday Lotto3
 OZ Lotto3
 payout period3
-Play Online3, 39(1)
+Play Online3
 Play Online profile3
 play type52
 player3, 37
-player’s account37
 playslip3
 Powerball3
 Powerball draw86
@@ -50,12 +57,11 @@ Powerball selection86
 Powerpik86
 prize37
 prize fund63(1), 73, 86, 99, 110, 137
-prize pool63(1), (2) and (3), 73, 86, 99, 110, 137
+prize pool63(1), 63(2), 63(3), 73, 86, 99, 110, 137
 prize reserve fund63(1), 73, 86, 99, 110, 137
 promotional coupon3
 publish3
 receipted ticket3
-registration37
 Saturday Lotto3
 selected digits137
 selected number3, 52
@@ -64,7 +70,7 @@ selling period3
 Set for Life3
 subscriber3, 3
 Super663
-supplementary number63(2) and (3), 73, 99, 110
+supplementary number63(2), 63(3), 73, 99, 110
 syndicate sales (subscription) adjustment26(1)
 system entry3
 total prize pool73, 86, 99, 137
@@ -73,4 +79,4 @@ validation period63(1), 73, 86, 99, 110, 137
 wager3
 Wednesday Lotto3
 winning digits137
-winning number63(2) and (3), 73, 86, 99, 110
+winning number63(2), 63(3), 73, 86, 99, 110
