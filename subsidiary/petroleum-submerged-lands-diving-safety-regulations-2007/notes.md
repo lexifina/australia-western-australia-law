@@ -1,10 +1,14 @@
 Notes
-This reprint is a compilation as at 21 November 2014 of the Petroleum (Submerged Lands) (Diving Safety) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) (Diving Safety) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Petroleum (Submerged Lands) (Diving Safety) Regulations 2007 | 27 Mar 2007 p. 1313-49 | 28 Mar 2007 (see r. 2 and Gazette 27 Mar 2007 p. 1405)
 Petroleum (Submerged Lands) (Diving Safety) Amendment Regulations 2011 | 30 Dec 2011 p. 5539-43 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b) and Gazette 30 Dec 2011 p. 5537)
 Reprint 1: The Petroleum (Submerged Lands) (Diving Safety) Regulations 2007 as at 21 Nov 2014 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Work Health and Safety Act 2020 s. 348(1) assented to 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
