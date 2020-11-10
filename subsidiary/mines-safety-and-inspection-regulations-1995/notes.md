@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mines Safety and Inspection Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Mines Safety and Inspection Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Mines Safety and Inspection Regulations 1995 | 8 Dec 1995 p. 5629-932 | 9 Dec 1995 (see r. 1.2 and Gazette 8 Dec 1995 p. 5935)
@@ -42,6 +42,10 @@ Mines and Petroleum Regulations Amendment (Public Health) Regulations 2016 Pt. 2
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 6 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 6 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Work Health and Safety Act 2020 Pt. 15 Div. 2 Subdiv. 2 assented to 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
 The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as follows:
