@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Occupational Safety and Health Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Occupational Safety and Health Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Occupational Health, Safety and Welfare Act 1984 | 101 of 1984 | 19 Dec 1984 | s. 1 and 2: 19 Dec 1984; Act other than s. 1 and 2; 4 Apr 1985 (see s. 2 and Gazette 4 Apr 1985 p. 1241)
@@ -37,6 +37,11 @@ Reprint 7: The Occupational Safety and Health Act 1984 as at 7 Jan 2011 (include
 Industrial Legislation Amendment Act 2011 Pt. 7 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 4 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Occupational Safety and Health Amendment Act 2018 | 16 of 2018 | 7 Sep 2018 | s. 1 and 2: 7 Sep 2018 (see s. 2(a)); Act other than s. 1 and 2: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3780)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Work Health and Safety Act 2020 s. 278 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Other notes
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
