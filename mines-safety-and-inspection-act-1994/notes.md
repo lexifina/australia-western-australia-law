@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mines Safety and Inspection Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mines Safety and Inspection Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mines Safety and Inspection Act 1994 | 62 of 1994 | 7 Nov 1994 | s. 1 and 2: 7 Nov 1994; Act other than s. 1 and 2: 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
@@ -16,7 +16,7 @@ Mines Safety and Inspection Amendment Act 2002 | 16 of 2002 | 8 Jul 2002 | 5 Aug
 Statutes (Repeals and Minor Amendments) Act 2003 s. 83 and 87(7) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
 Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115 | 51 of 2004 | 12 Nov 2004 | 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000)
-Mines Safety and Inspection Amendment Act 2004 -10 | 68 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1 and 2: 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000 and Gazette 11 Feb 2005 p. 695)
+Mines Safety and Inspection Amendment Act 2004-9 | 68 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1 and 2: 4 Apr 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999-6000 and Gazette 11 Feb 2005 p. 695)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Mines Safety and Inspection Act 1994 as at 10 Jun 2005 (includes amendments listed above except those in the Dangerous Goods Safety Act 2004)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
@@ -34,6 +34,12 @@ Mines Safety and Inspection Amendment Act 2014 Pt. 2 | 33 of 2014 | 3 Dec 2014 |
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 Reprint 6: The Mines Safety and Inspection Act 1994 as at 22 Jan 2016 (includes amendments listed above)
 Mines Safety and Inspection Amendment Act 2018 | 17 of 2018 | 7 Sep 2018 | s. 1 and 2: 7 Sep 2018 (see s. 2(a)); Act other than s. 1 and 2: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3780)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Work Health and Safety Act 2020 Pt. 15 Div. 2 Subdiv. 1 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Safety Levies Amendment Act 2020 Pt. 2 | 37 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(b) and SL 2022/18 cl. 2)
+Other notes
 The Industrial Relations Act 1988 (Commonwealth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
