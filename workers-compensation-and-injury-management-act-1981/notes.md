@@ -92,6 +92,7 @@ Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 160 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 8 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
