@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources (Management of Safety) Regulations 2010 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Petroleum and Geothermal Energy Resources (Management of Safety) Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Petroleum and Geothermal Energy Resources (Management of Safety) Regulations 2010 | 14 May 2010 p. 1883-920 | r. 1 and 2: 14 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2010 (see r. 2(b) and Gazette 14 May 2010 p. 2015)
 Mines and Petroleum Regulations Amendment (Public Health) Regulations 2016 Pt. 5 | 10 Jan 2017 p. 213-20 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Work Health and Safety Act 2020 s. 345(1) assented to 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
