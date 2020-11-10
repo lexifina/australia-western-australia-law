@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Submerged Lands) Act 1982 | 33 of 1982 | 27 May 1982 | 14 Feb 1983 (see s. 2(1))
@@ -36,6 +36,12 @@ Petroleum (Submerged Lands) Amendment Act 2011 | 57 of 2011 | 30 Nov 2011 | s. 1
 Statutes (Repeals and Minor Amendments) Act 2014 s. 7 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Petroleum Legislation Amendment Act 2017 Pt. 3 | 7 of 2017 | 14 Sep 2017 | 15 Nov 2017 (see s. 2(b) and Gazette 14 Nov 2017 p. 5597)
 Reprint 5: The Petroleum (Submerged Lands) Act 1982 as at 29 Jun 2018 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Work Health and Safety Act 2020 Pt. 15 Div. 3 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Other notes
+Footnote no longer applicable.
 Repealed by the Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011 Sch 4 Part 1 (Cwlth).
 The title of the Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003 (Cwlth) was changed to the Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003 (Cwlth) by the Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 1) Act 2011 (Cwlth) Sch. 1 it. 2.
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
