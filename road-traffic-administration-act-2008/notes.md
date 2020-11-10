@@ -22,6 +22,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2020 Pt. 8 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
+Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 3 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
