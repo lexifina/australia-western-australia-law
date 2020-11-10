@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Occupational Safety and Health Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Occupational Safety and Health Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -99,6 +99,10 @@ Occupational Safety and Health Amendment (COVID-19 Response) Regulations 2020 | 
 Occupational Safety and Health Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/106 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Occupational Safety and Health Amendment Regulations 2020 | SL 2020/182 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2020 (see r. 2(b))
 Occupational Safety and Health Amendment (COVID-19 Response) Regulations (No. 2) 2020 | SL 2020/198 27 Oct 2020 | r. 1 and 2: 27 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Work Health and Safety Act 2020 s. 279 assented to 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
 Other notes
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
