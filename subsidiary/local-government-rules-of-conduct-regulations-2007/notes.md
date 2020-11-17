@@ -7,6 +7,8 @@ Local Government (Rules of Conduct) Amendment Regulations 2016 | 4 Mar 2016 p. 6
 Local Government Regulations Amendment (Gifts) Regulations 2017 Pt. 3 | 20 Jan 2017 p. 648-50 | 21 Jan 2017 (see r. 2(b))
 Local Government Regulations Amendment (Gifts) Regulations 2019 Pt. 4 | 18 Oct 2019 p. 3679-84 | 19 Oct 2019 (see r. 2(b) and Gazette 18 Oct 2019 p. 3673)
 Local Government (Rules of Conduct) Amendment Regulations 2020 | SL 2020/133 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
+Other notes
+Disallowed on 11 Nov 2020 see Gazette 17 Nov 2020 p. 4250.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
