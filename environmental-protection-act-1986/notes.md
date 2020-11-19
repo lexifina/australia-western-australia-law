@@ -65,12 +65,14 @@ Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 8 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Planning and Development Amendment Act 2020 Pt. 6 Div. 2 and Pt. 7 Div. 2 | 26 of 2020 | 7 Jul 2020 | To be proclaimed (see s 2(1)(b))
+Planning and Development Amendment Act 2020 Pt. 6 Div. 2 and Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | To be proclaimed (see s 2(1)(b))
+Environmental Protection Amendment Act 2020 Pt. 2 | 40 of 2020 | 19 Nov 2020 | s. 4(6): on the later of either the day on which the Planning and Development Amendment Act 2020 s. 64 comes into operation or immediately after s. 4(2) comes into operation (see s. 2(1)(b)); s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); Pt. 2 other than s. 4(6) and 59: to be proclaimed (see s. 2(1)(e))
+Environmental Protection Amendment Act (No. 2) 2020 s. 4 and 5 | 41 of 2020 | 19 Nov 2020 | s. 4: immediately after the Environmental Protection Amendment Act 2020 s. 32 comes into operation (see s. 2(1)(b)); s. 5: immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
-Deleted by the Water Resources Legislation Amendment Act 2007 s. 101(1).
+Footnote no longer applicable.
 Deleted by the Acts Amendment and Repeal (Environmental Protection) Act 1986 s. 32.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The Environmental Protection Amendment Act 1993 s. 5(2), (3) and (4) are transitional provisions that are of no further effect.
