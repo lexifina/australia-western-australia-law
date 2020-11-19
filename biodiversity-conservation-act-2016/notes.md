@@ -8,6 +8,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Biodiversity Conservation Act 2016 | 24 of 2016 | 21 Sep 2016 | Pt. 9 and s. 318(2)(b): to be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 Pt. 19 Div. 1 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Environmental Protection Amendment Act 2020 s. 113 | 40 of 2020 | 19 Nov 2020 | To be proclaimed (see s. 2(1)(e))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
