@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -67,10 +67,7 @@ Road Traffic Code Amendment Regulations 2018 | 15 May 2018 p. 1531-6 | r. 1 and 
 Road Traffic Code Amendment Regulations 2019 | 28 Jun 2019 p. 2488-9 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2019 (see r. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Road Traffic Code Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4686 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2020 | SL 2020/87 26 Jun 2020 | r. 1 and 2: 26 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Road Traffic Code Amendment Regulations (No. 2) 2020 r. 3-28 | SL 2020/184 29 Sep 2020 | 20 Nov 2020 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 2) 2020 | SL 2020/184 29 Sep 2020 | r. 1 and 2: 29 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2020 (see r. 2(b))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
@@ -85,6 +82,7 @@ Defined termProvision(s)
 “end trucks and buses low gear” sign90(3)
 “heavy vehicle speed zone” sign3(1)
 “trucks and buses low gear” sign90(3)
+“when blank” sign11A(1)
 agricultural implement289(3)
 agricultural machine289(3)
 alcohol ignition interlock device3(1)
@@ -127,6 +125,7 @@ combination3(1)
 commercial operator230A
 continuing road3(1)
 continuous dividing line176(12)
+corresponding illuminated speed sign11A(1)
 dangerous goods184(4)
 default speed limit3(1)
 de-restriction sign3(1)
@@ -138,6 +137,7 @@ dividing strip3(1)
 edge line3(1)
 electric personal transporter3(1)
 electric personal transporter use area3(1)
+emergency stopping bay3(1)
 emergency stopping lane3(1)
 emergency vehicle3(1)
 emergency worker283(2)
@@ -193,6 +193,7 @@ obstruction3(1)
 on-demand rank or hail vehicle authorisation3(1)
 one-way carriageway3(1)
 operator 230A
+overhead controlled lane3(1)
 oversize3(1)
 painted island3(1)
 park3(1)
@@ -215,6 +216,7 @@ prohibited road138A(1)
 protective helmet209A(1), 222(1), 223A(1), 223(3), 230A, 244(1)
 public bus3(1), 59(2)
 rear fog light3(1)
+red X lane3(1)
 relevant time230
 required time141(2)
 restricted area265(1A)
@@ -274,7 +276,7 @@ turn line3(1)
 turning lane3(1)
 turning left34(1)
 turning left from the continuing road into the terminating road56(7)
-turning right34(2) and (3)
+turning right34(2), 34(3)
 turning right from the continuing road into the terminating road56(7)
 two-up driver230
 two-way carriageway3(1)
@@ -282,7 +284,8 @@ U turn3(1)
 unattended141(2), 163(2)
 unrestrained235A(1)
 use265(1)
-vehicle3(1), 110(2) and (3)
+variable illuminated speed limit sign3(1)
+vehicle3(1), 110(2), 110(3)
 Vehicle Standards3(1)
 weekend3(1)
 wheeled recreational device3(1)
