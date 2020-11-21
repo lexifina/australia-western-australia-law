@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Fisheries Adjustment Schemes Regulations 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fisheries Adjustment Schemes Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Fisheries Adjustment Schemes Regulations 2009 | 8 Dec 2009 p. 4992-3 | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2009 (see r. 2(b))
 Fisheries Adjustment Schemes Amendment Regulations 2010 | 12 Feb 2010 p. 589-90 | r. 1 and 2: 12 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2010 (see r. 2(b))
 Fisheries Adjustment Schemes Amendment Regulations 2011 | 5 Jul 2011 p. 2823-5 | r. 1 and 2: 5 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2011 (see r. 2(b))
@@ -10,16 +10,14 @@ Fisheries Adjustment Schemes Amendment Regulations 2016 | 22 Jan 2016 p. 197-8 |
 Reprint 1: The Fisheries Adjustment Schemes Regulations 2009 as at 10 Mar 2017 (includes amendments listed above)
 Fisheries Adjustment Schemes Amendment Regulations 2017 | 5 Jan 2018 p. 3-4 | r. 1 and 2: 5 Jan 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jan 2018 (see r. 2(b))
 Fisheries Adjustment Schemes Amendment Regulations 2019 | 20 Sep 2019 p. 3386-8 | r. 1 and 2: 20 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2019 (see r. 2(b))
+Fisheries Adjustment Schemes Amendment Regulations 2020 | SL 2020/226 20 Nov 2020 | r. 1 and 2: 20 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Abrolhos Islands Fishery3
 Abrolhos Islands Notice3
 Abrolhos Islands Voluntary Scheme3
-authorisation3, 7, 10
-Exmouth Gulf Fishery7
-Exmouth Gulf Notice7
-Exmouth Gulf Voluntary Scheme7
+authorisation3, 10
 managed fishery licence13
 Shark Bay Prawn Managed Fishery10
 Shark Bay Prawn Managed Fishery Notice10
