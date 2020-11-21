@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Forest Management Regulations 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Forest Management Regulations 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Forest Management Regulations 1993 | 9 Feb 1993 p. 1119-201 | 9 Feb 1993
 Forest Management Amendment Regulations 1995 | 28 Apr 1995 p. 1459-60 | 28 Apr 1995
 Forest Management Amendment Regulations (No. 2) 1995 | 23 Jan 1996 p. 272 | 23 Jan 1996
@@ -18,9 +18,8 @@ Forest Management Amendment Regulations (No. 2) 2006 | 22 Dec 2006 p. 5804 | 1 J
 Forest Management Amendment Regulations (No. 2) 2010 | 3 Sep 2010 p. 4273-7 | r. 1 and 2: 3 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2010 (see r. 2(b))
 Reprint 2: Forest Management Regulations 1993 as at 25 Mar 2011 (includes amendments listed above)
 Forest Management Amendment Regulations 2012 | 7 Dec 2012 p. 5975-7 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
-Regulation 153 has been omitted under the Reprints Act 1984 s. 7(4)(f).
-The Forest Regulations 1957 are repealed by r. 153(1) of these regulations. Regulation 153(1) has been omitted under the Reprints Act 1984 s. 7(4)(f).
-The Forest Diseases Regulations 1975 are repealed by r. 153(2) of these regulations. Regulation 153(2) has been omitted under the Reprints Act 1984 s. 7(4)(f).
+Forest Management Amendment Regulations 2020 | SL 2020/224 20 Nov 2020 | r. 1 and 2: 20 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2020 (see r. 2(b) and SL 2020/225 r. 2(b))
+Other notes
 The Conservation and Land Management Regulations 2002 r. 114 repealed some of these regulations and s. 116 reads as follows:
 116.Saving
 (1) Nothing in this regulation is to be construed so as to limit the operation of the Interpretation Act 1984.
@@ -34,47 +33,21 @@ former provision means a provision repealed by regulation 114 or 115.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-bush landing2
 buyer2
-certificate of registration4
-commencement day143(1)
-contract56(1)
 contract of sale2
 contract to harvest and deliver2
 contractor2
 coupe2
 Crown land2
-diameter tapeSch. 1 cl. 2
 district2
 fell2
-feller’s identification code2
 forest produce licence2
-log delivery note2
-log scannerSch. 1 cl. 1
-Log Volume TableSch. 1 cl. 3
 logging plan2
-manager2
 marking out93
-owner2, 2
-owner’s identification code2
-payment day143(1)
 permit2
-private land2
-product type2
 public firewood area98(1)
-public land2
-receival record2
-registration4
-repealed Act2
-repealed regulations2
-sawmill2
-sawmill permit143(1)
-scanner computerSch. 1 cl. 1
 sell101(2)
-softwood2
 South-west Division93
 State forest2
-timber harvesting2
 tree2
-working day2
 written authorisation104

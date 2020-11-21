@@ -13,3 +13,4 @@ applies to:Wheatbelt and South Coast Regions of the Department.
 Royalty:$7.92 per tonne.
 [Schedule 3 amended: Gazette 3 Sep 2010 p. 4276.]
 [Schedule 4 deleted: Gazette 29 March 1996 p. 1511.]
+[Schedules 5 and 6 deleted: SL 2020/224 r. 12.]
