@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Private Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 1997 | 7 Nov 1997 p. 6119-27 | 13 Nov 1997 (see r. 2)
 Reprint 1: The Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 1997 as at 2 Apr 2004
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2006 | 15 Dec 2006 p. 5626-7 | 15 Dec 2006
@@ -17,16 +17,25 @@ Hospitals Regulations Amendment (Licensing and Conduct Fees) Regulations 2016 Pt
 Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 30 Jun 2017 p. 3568-74 | 1 Jul 2017 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
+Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2020 | SL 2020/223 20 Nov 2020 | r. 1 and 2: 20 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2020 (see r. 2(b))
+Other notes
 Formerly referred to the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261.
+Now known as the Private Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 1997; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+alternative supervisory arrangement8A(2)
 basic pension14(2)
+carer8A(1)
 Chief Psychiatrist3
+close family member8A(1)
+clothing and toiletries exemption12A(1)
+food exemption10A(1)
 hostel3
 licence3
 licence holder4
 medical practitioner11(1)
 National Health and Medical Research Council10(2)
+personal support person8A(1)
 resident3
 supervisor3
