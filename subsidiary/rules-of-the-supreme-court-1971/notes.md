@@ -146,6 +146,7 @@ Supreme Court Amendment Rules 2018 | 27 Feb 2018 p. 551-624 | r. 1 and 2: 27 Feb
 Supreme Court Amendment Rules (No. 2) 2018 | 29 Jun 2018 p. 2437-8 | r. 1 and 2: 29 Jun 2018 (see r. 2(a)); Rules other than r. 1 and 2: 30 Jun 2018 (see r. 2(b))
 Supreme Court Amendment Rules (No. 3) 2018 | 28 Aug 2018 p. 2991-2 | r. 1 and 2: 28 Aug 2018 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2018 (see r. 2(b) and Gazette 17 Aug 2018 p. 2894)
 Supreme Court Amendment Rules (No. 3) 2019 | 31 Dec 2019 p. 4677-8 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Supreme Court Amendment Rules (No. 5) 2020 | SL 2020/228 27 Nov 2020 | r. 1 and 2: 27 Nov 2020 (see r. 2(a)); Rules other than r. 1 and 2: 28 Nov 2020 (see r. 2(b))
 Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
