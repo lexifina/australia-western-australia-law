@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Pawnbrokers and Second-hand Dealers Regulations 1996 | 29 Mar 1996 p. 1557-76 | 1 Apr 1996 (see r. 2)
@@ -41,23 +41,22 @@ Police Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 3 | 27 Jun 
 Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 26 Jun 2018 p. 2392-400 | 1 Jul 2018 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 21 Jun 2019 p. 2141-50 | 1 Jul 2019 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/82 19 Jun 2020 | 1 Jul 2020 (see r. 2(b))
-Pawnbrokers and Second-hand Dealers Amendment Regulations 2020 r. 1-4 | SL 2020/147 1 Sep 2020 | r. 1 and 2: 1 Sep 2020 (see r. 2(a)); r. 3 and 4: 2 Sep 2020 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Pawnbrokers and Second-hand Dealers Amendment Regulations 2020 r. 5-10 | SL 2020/147 1 Sep 2020 | 1 Dec 2020 (see r. 2(b));
+Pawnbrokers and Second-hand Dealers Amendment Regulations 2020 | SL 2020/147 1 Sep 2020 | r. 1 and 2: 1 Sep 2020 (see r. 2(a)); r. 3 and 4: 2 Sep 2020 (see r. 2(c)); r. 5-10: 1 Dec 2020 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+commencement day33(1)
+current licence period33(1)
 financial body3
 new sale5(2)
 public authority3
 public utility3
-retailer5(3)
+relevant day33(1)
 retail shop5(3)
+retailer5(3)
 section3
 telephone utility3
 traded goods5(2)
-transaction card13A(1)(b)
+transaction card13A(1)
