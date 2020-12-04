@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -27,6 +27,10 @@ Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 20
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2020 | SL 2020/73 9 Jun 2020 | r. 1 and 2: 9 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2020 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 4 | SL 2020/74 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Road Passenger Services) Regulations 2020 Pt. 4 | SL 2020/91 24 Jun 2020 | 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Road Traffic) Regulations (No. 2) 2020 Pt. 3 | SL 2020/231 4 Dec 2020 | 14 Dec 2020 (see r. 2(b) and SL 2020/229 cl. 2)
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
