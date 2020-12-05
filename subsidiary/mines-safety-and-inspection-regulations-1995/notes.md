@@ -42,6 +42,7 @@ Mines and Petroleum Regulations Amendment (Public Health) Regulations 2016 Pt. 2
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 6 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 6 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Mines Safety and Inspection Amendment Regulations 2020 | SL 2020/239 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
