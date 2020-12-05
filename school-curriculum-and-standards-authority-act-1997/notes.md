@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the School Curriculum and Standards Authority Act 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the School Curriculum and Standards Authority Act 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Curriculum Council Act 1997 | 17 of 1997 | 8 Jul 1997 | s. 1 and 2: 8 Jul 1997; Act other than s. 1 and 2: 1 Aug 1997 (see s. 2 and Gazette 25 Jul 1997 p. 3907)
@@ -8,7 +8,7 @@ Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 20
 Labour Relations Reform Act 2002 s. 27 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2(1) and Gazette 6 Sep 2002 p. 4487)
 Reprint 1: The Curriculum Council Act 1997 as at 11 Apr 2003 (includes amendments listed above)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 53 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
+Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published: Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 3 | 22 of 2005 | 18 Nov 2005 | 1 Jan 2006 (see s. 2(3))
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 41 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Curriculum Council Act 1997 as at 13 Apr 2007 (includes amendments listed above)
@@ -20,11 +20,7 @@ Curriculum Council Amendment Act 2011 Pt. 2 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2
 Reprint 3: The School Curriculum and Standards Authority Act 1997 as at 27 Apr 2012 (includes amendments listed above)
 School Education Amendment Act 2012 Pt. 3 | 46 of 2012 | 29 Nov 2012 | 1 Jan 2013 (see s. 2(b))
 School Education Amendment Act 2014 Pt. 3 | 28 of 2014 | 27 Nov 2014 | 2 Feb 2015 (see s. 2(c) and Gazette 16 Jan 2015 p. 311)
-School Curriculum and Standards Authority Amendment Act 2017 s. 1-6 | 17 of 2017 | 13 Dec 2017 | s. 1 and 2: 13 Dec 2017 (see s. 2(a)); Act other than s. 1, 2, 7 and 8: 21 Apr 2018 (see s. 2(b) and Gazette 20 Apr 2018 p. 1313)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-School Curriculum and Standards Authority Amendment Act 2017 s. 7 and 8 | 17 of 2017 | 13 Dec 2017 | To be proclaimed (see s. 2(b))
+School Curriculum and Standards Authority Amendment Act 2017 | 17 of 2017 | 13 Dec 2017 | s. 1 and 2: 13 Dec 2017 (see s. 2(a)); Act other than s. 1, 2, 7 and 8: 21 Apr 2018 (see s. 2(b) and Gazette 20 Apr 2018 p. 1313); s. 7 and 8: 5 Dec 2020 (see s. 2(b) and SL 2020/232 cl. 2)
 Other notes
 Now known as the School Curriculum and Standards Authority Act 1997; short title changed (see note under s. 1).
 Defined terms
@@ -67,9 +63,11 @@ member of staff3
 Minister19A(1)
 overseas student19B(1)
 parent19J(1A)
+personal information32B(1)
 principal19A(1)
 provider19A(1), 19A(2)
 relevant governing body12(1)
+relevant information32B(1)
 relevant officials50(1)
 research involving students3
 right37
