@@ -17,6 +17,7 @@ Water Services Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 |
 Water Regulations Amendment (Strata Titles) Regulations 2019 Pt. 2 | 31 Dec 2019 p. 4663-5 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Water Services Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/95 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Water Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/173 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Water Services Amendment Regulations 2020 | SL 2020/240 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Other notes
 The Water Boards Act 1904 was repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 201.
 The Country Town Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
@@ -50,6 +51,7 @@ dewatering3(1)
 earlier plan80H(2)
 emergency purposes 3(1)
 evening period76
+family violence3(1)
 farmland3(1), 27
 fire service connection3(1)
 former approved plan97
