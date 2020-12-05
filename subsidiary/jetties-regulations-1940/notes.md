@@ -133,6 +133,7 @@ Jetties Amendment Regulations (No. 2) 2018 | 25 May 2018 p. 1669-709 | r. 1 and 
 Jetties Amendment Regulations (No. 2) 2019 | 31 May 2019 p. 1755-94 | r. 1 and 2: 31 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2020 | SL 2020/96 26 Jun 2020 | r. 1 and 2: 26 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Jetties Amendment Regulations 2020 | SL 2020/128 31 Jul 2020 | r. 1 and 2: 31 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2020 (see r. 2(b))
+Jetties Amendment Regulations (No. 4) 2020 | SL 2020/238 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
