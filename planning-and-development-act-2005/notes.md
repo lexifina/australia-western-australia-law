@@ -33,8 +33,9 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Community Titles Act 2018 Pt. 14 Div. 14 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Planning and Development Amendment Act 2020 Pt. 3, Pt. 6 Div. 1, Pt. 7 Div. 1, Pt. 9, Pt. 12 Div. 1 and Pt. 14 | 26 of 2020 | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
+Community Titles Act 2018 Pt. 14 Div. 14 | 32 of 2018 | 19 Nov 2018 | Pt. 14 Div. 14 (other than s. 224-226): 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2); s. 224-226: to be proclaimed (see s. 2(b))
+Planning and Development Amendment Act 2020 Pt. 3, Pt. 6 Div. 1, Pt. 7 Div. 1, Pt. 9, Pt. 12 Div. 1 and Pt. 14 | 26 of 2020 (as amended by Act No. 45 of 2020 Pt. 10 Div. 10) | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
+Swan Valley Planning Act 2020 Pt. 9 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2)
 Other notes
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
