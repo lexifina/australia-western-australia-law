@@ -41,6 +41,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 343(2) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 s. 374 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Swan Valley Planning Act 2020 Pt. 10 Div. 18 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 Repealed by the Interpretation Act 1984.
 Repealed by the Mining Act 1978.
