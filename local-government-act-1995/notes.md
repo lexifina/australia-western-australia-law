@@ -76,6 +76,7 @@ Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 
 Local Government Legislation Amendment Act 2019 Pt. 2 (s. 22, 25, 39(2) and 48-51) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 Apr 2020 | To be proclaimed (see s. 2(b))
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 6 | 36 of 2020 | 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
+Swan Valley Planning Act 2020 Pt. 10 Div. 7 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(e))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
