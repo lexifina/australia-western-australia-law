@@ -27,7 +27,8 @@ Ports Legislation Amendment Act 2019 Pt. 4 Div. 1 and 2 | 2 of 2019 | 26 Feb 201
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Ports Legislation Amendment Act 2019 Pt. 4 Div. 3 | 2 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(c) and (e))
+Ports Legislation Amendment Act 2019 Pt. 4 Div. 3 | 2 of 2019 | 26 Feb 2019 | 1 Jul 2021 (see s. 2(c) and (e) and SL 2021/50 cl. 2)
+Swan Valley Planning Act 2020 Pt. 10 Div. 8 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(e))
 Other notes
 The Marine and Harbours Amendment Act 1994 s. 6(2) reads as follows:
 (2) A lease which was granted or purportedly granted under section 12 of the principal Act before the commencement of this section —
