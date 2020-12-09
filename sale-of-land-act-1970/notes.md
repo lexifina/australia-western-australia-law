@@ -26,7 +26,8 @@ Strata Titles Amendment Act 2018 Pt. 3 Div. 20 | 30 of 2018 | 19 Nov 2018 | 1 Ma
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Community Titles Act 2018 Pt. 14 Div. 20 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 20 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Swan Valley Planning Act 2020 Pt. 10 Div. 12 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(e))
 Other notes
 Repealed by the Real Estate and Business Agents Act 1978.
 Defined terms
