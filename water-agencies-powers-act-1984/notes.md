@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Agencies (Powers) Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Water Agencies (Powers) Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Authority Act 1984 | 3 of 1984 | 18 May 1984 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
@@ -42,6 +42,10 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 201
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 6 | 25 of 2012 | 3 Sep 2012 | Pt. 6(other than s. 77(1), 82(1) and 83-85): 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028): s. 77(1), 82(1) and 83-85: 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 5: The Water Agencies (Powers) Act 1984 as at 17 Jan 2014 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 s. 77(1), 82(1) and 83-85 )
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 5 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Swan Valley Planning Act 2020 Pt. 10 Div. 16 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 Repealed by the Water Resources Legislation Amendment Act 2007 s. 189.
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
