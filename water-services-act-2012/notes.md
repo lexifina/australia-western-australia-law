@@ -11,7 +11,8 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 27 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Community Titles Act 2018 Pt. 14 Div. 25 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 25 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Swan Valley Planning Act 2020 Pt. 10 Div. 17 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(e))
 Other notes
 The short title of the Fire and Emergency Services Authority of Western Australia Act 1998 was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5.
 The Fire and Emergency Services Authority (FESA) was abolished by the Fire and Emergency Services Legislation Amendment Act 2012 s. 43.
