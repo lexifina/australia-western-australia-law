@@ -6,4 +6,3 @@ An Act to authorise, as part of the METRONET plan, the construction of —
 ·a railway from Bayswater to Ellenbrook (known as the Morley Ellenbrook Line),
 and for related purposes.
 [Long title amended: No. 1 of 2020 s. 4.]
-The Parliament of Western Australia enacts as follows:
