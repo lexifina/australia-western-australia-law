@@ -1,9 +1,9 @@
 Notes
-This is a compilation of the Magistrates Court Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Magistrates Court Act 2004 | 47 of 2004 | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7127)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction: Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 8 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
@@ -21,6 +21,8 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 13 
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Reprint 3: The Magistrates Court Act 2004 as at 2 Oct 2015 (includes amendments listed above)
 Courts Legislation Amendment Act 2018 Pt. 3 | 29 of 2018 | 2 Nov 2018 | 3 Nov 2018 (see s. 2(b))
+Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 5 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
+Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 13 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
 The Courts Legislation Amendment and Repeal Act 2004 Part 22 contains transitional provisions about enforcing judgments given before the Civil Judgments Enforcement Act 2004 commenced, including judgment of Local Courts.

@@ -135,7 +135,7 @@ Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 2 | 46 of
 Courts Legislation Amendment and Repeal Act 2004 Pt. 9 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Law Amendment (Simple Offences) Act 2004 Pt. 2 (s. 3-39) | 70 of 2004 (as amended by No. 24 of 2005 s. 63; No. 2 of 2008 s. 76(2)) | 8 Dec 2004 | Pt. 2 other than s. 37 and 39: 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Code Amendment (Racial Vilification) Act 2004 | 80 of 2004 (as amended by No. 2 of 2008 s. 6(2), 7(2) and 8(2)) | 8 Dec 2004 | 8 Dec 2004 (see s. 2)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(7)) | 16 Dec 2004 | Pt. 5, s. 80 (Sch. 2 cl. 36 (the amendments to s. 17, 711 and 716)) and s. 82: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction by Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(7)) | 16 Dec 2004 | Pt. 5, s. 80 (Sch. 2 cl. 36 (the amendments to s. 17, 711 and 716)) and s. 82: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction: Gazette 7 Jan 2005 p. 53))
 Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (includes amendments listed above)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 11 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Defamation Act 2005 s. 47 | 44 of 2005 | 19 Dec 2005 | 1 Jan 2006 (see s. 2)
@@ -191,6 +191,7 @@ Criminal Code Amendment (Child Marriage) Act 2020 | 2 of 2020 | 27 Feb 2020 | s.
 Criminal Code Amendment (COVID-19 Response) Act 2020 | 8 of 2020 | 3 Apr 2020 | s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 5(3): 4 Apr 2020 (see s. 2(c))
 Family Violence Legislation Reform Act 2020 Pt. 2 | 30 of 2020 | 9 Jul 2020 | s. 12: 10 Jul 2020 (see s. 2(1)(b)); s. 3, 4 and 7-11: 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(i)); s. 5 and 6: 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2020 Pt. 2 | 39 of 2020 | 19 Nov 2020 | 20 Nov 2020 (see s. 2(b))
+Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 2 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -241,6 +242,7 @@ aggravated home burglary1(1)
 aid148(1)
 aircraft1(1)
 Alternative offence10B
+amended10K
 amendment ActSch. 1 cl. 1
 animal370
 animosity towards76
@@ -395,7 +397,8 @@ prescribed circumstances297(8), 318(5)
 prescribed offence299(1), 321A(1)
 prescribed place68B(1)
 principal546
-principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1), 553(1), 558(1), 562(1)
+principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2),
+552(1), 553(1), 558(1), 562(1)
 print98(1), 99(1)
 prior relevant convictions401A(4)
 prison145(1)
@@ -415,8 +418,10 @@ receives1(1)
 record1(1)
 registered brand1(1)
 registered mark1(1)
+relevant birthday10M(1)
 relevant conviction401A(1)
-relevant period99(1)
+relevant law10L(1)
+relevant period10L(1), 10M(1), 99(1)
 repeat offender401B(1)
 responsible adult75B(1)
 restricted-access computer system440A(1)
@@ -435,6 +440,7 @@ serious disease1(1)
 servant1(1)
 set305(1)
 sexual act321A(1)
+sexual offence10K
 sexual service331A
 ship1(1)
 solicit any valuable consideration546
@@ -461,7 +467,7 @@ valuable consideration solicited546
 valuable security1(1)
 vehicle1(1), 75A(2)
 vessel1(1)
-victim204B(1), 331D(1) and (2), 345(1), 494(1)
+victim10M(1), 10N(1), 204B(1), 331D(1) and (2), 345(1), 494(1)
 voice print489
 volatile substance206(1)
 wilfully destroy or damage443
