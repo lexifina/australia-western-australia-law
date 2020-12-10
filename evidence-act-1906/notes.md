@@ -85,7 +85,7 @@ Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 3 and 4 |
 Courts Legislation Amendment and Repeal Act 2004 Pt. 11 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Misuse of Drugs Amendment Act 2004 s. 9(2) | 62 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 10 Dec 2004 p. 5965)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 19(3) and 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 8, s. 80, 82 and 85 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 8, s. 80, 82 and 85 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction: Gazette 7 Jan 2005 p. 53))
 Reprint 13: The Evidence Act 1906 as at 1 Jul 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 12 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
@@ -113,6 +113,7 @@ Reprint 17: The Evidence Act 1906 as at 22 Jun 2018 (includes amendments listed 
 Family Violence Legislation Reform Act 2020 Pt. 10 | 30 of 2020 | 9 Jul 2020 | s. 95:10 Jul 2020 (see s. 2(1)(b)); Pt. 10 (other than s. 95): 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(ii))
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 4 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 4 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
