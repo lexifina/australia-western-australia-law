@@ -18,11 +18,11 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 
 Reprint 2: The Road Traffic (Administration) Act 2008 as at 14 Dec 2018 (includes amendments listed above)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 5 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
+Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 3 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2020 Pt. 8 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
-Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 3 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -37,8 +37,8 @@ Australian driver licensing authority4
 Australian police officer4
 authorised person47(1), 59(1), 117(1), 117B(1)
 authorised purpose14(1)
-authorised to drive a vehicle29(3)(a)
-authorised to run the engine of a vehicle29(3)(b)
+authorised to drive a vehicle29(3)
+authorised to run the engine of a vehicle29(3)
 average speed detection system117B(1)
 axle4
 axle group4
@@ -61,7 +61,7 @@ demerit points register4
 detection points117B(1)
 director119(1), 137(1)
 disclose4
-Disq7(a)
+Disq7
 distance measuring equipment117(1)
 district4
 drive4
@@ -103,10 +103,11 @@ light140(1)
 light vehicle4
 load4
 loadmeter113(1)
-Max7(a)
+Max7
 MDLR compliance purposes4, 28
+MDLR embargo notice71(5)
 MDLR offence4, 28
-Min7(a)
+Min7
 Minister117(1), 117B(1)
 modified penalty104(1)
 motor vehicle4
@@ -125,17 +126,17 @@ personal details32(1)
 photographic evidence90
 power assisted pedal cycle4
 predominantly for residential purposes51(2)
-premises4, 54(1), 55(1)
+premises4, 54(1), 55(1), 61A(1), 61B(1)
 prescribed area40(1), 47(1)
 prescribed person14(1)
-present offence107(a)
+present offence107
 provide driving instruction28
-PU7(a)
+PU7
 public authority4
 public place28
 public safety4, 28
 qualified to drive a vehicle or to run its engine29(1)
-reasonable excuse56(5), 57(5), 58(6)
+reasonable excuse56(5), 57(5), 58(6), 61C(5), 61D(4), 61E(4)
 records4
 relevant authorisation12(1)
 relevant authority13A(1)
@@ -150,6 +151,10 @@ road safety purpose15(1)
 road transport4
 RT Act147
 RT(A) Act166
+RTA Part 6A embargo notice71(5A)
+RTA Part 6A compliance purposes4, 28
+RTA Part 6A documentation28
+RTA Part 6A offence28
 run28
 shortest practicable distance117B(1)
 speed measuring and recording equipment117(1)
