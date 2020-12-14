@@ -8,7 +8,7 @@ Applicant’s details | Full name of police officer/ transport investigation war
 Rank/Office held |  | Number assigned for official purposes to applicant
 Station/squad
 Suspected offence(s)
-Warrant | This warrant authorises you to enter the premises described below using the powers in the Road Traffic (Administration) Act 2008 s. 55 including those in s. 53(5) and 54(8). This warrant must be executed in accordance with s. 66 of that Act.
+Warrant | This warrant authorises you to enter the premises described below using the powers in the Road Traffic (Administration) Act 2008 [s. 55 including those in s. 53(5) and 54(8)] / [s. 61B including those in s. 55 that apply under s. 61B(6)]. This warrant must be executed in accordance with s. 66 of that Act.
 Premises to be entered
 Execution period | This warrant must be executed within days after the date it is issued.
 Issuing details | Name of JP
@@ -21,5 +21,7 @@ Officer in charge of execution | Full name of police officer/ transport investig
 Rank/Office held |  | Number assigned for official purposes to officer in charge of execution
 Station/squad
 Notes —
-1.State the address or geographical location of the premises as defined in the Act s. 55(1) to be entered.
+1A.Delete as appropriate.
+1.State the address or geographical location of the premises as defined in the Act s. 55(1) or 61B(1) (as relevant) to be entered.
 2.This period must not exceed 30 days (see the Act s. 65(2)(d)).
+[Schedule 1 amended: SL 2020/231 r. 12.]
