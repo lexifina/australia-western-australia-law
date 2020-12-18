@@ -1,11 +1,15 @@
 Notes
-This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Regulations 2015 | 25 Aug 2015 p. 3401-595 | r. 1 and 2: 25 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Oct 2015 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations 2015 | 7 Dec 2015 p. 4883-90 | r. 1 and 2: 7 Dec 2015 (see r. 2(a)); r. 3 and 4: 8 Dec 2015 (see r. 2(b)); r. 5: 8 Dec 2015 (see r. 2(c) and Gazette 7 Dec 2015 p. 4881)
 Planning and Development (Local Planning Schemes) Amendment Regulations 2020 | SL 2020/30 3 Apr 2020 | r. 1 and 2: 3 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2020 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4655-6 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Planning Regulations Amendment Regulations 2020 Pt. 2 | SL 2020/252 18 Dec 2020 | Pt. 2 Div. 1 and 2: 15 Feb 2021 (see r. 2(c)); Pt. 2 Div. 3: 1 Jul 2021 (see r. 2(b))
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
@@ -54,7 +58,8 @@ cinema/theatreSch. 1 cl. 38
 civic useSch. 1 cl. 38
 clause10(3), 10(5)
 club premisesSch. 1 cl. 38
-commencement day77, Sch. 1 cl. 37(1), Sch. 2 cl. 28(2) and 44(2), Sch. 2 cl. 57(2) and 78G(1)
+commencement day77, Sch. 1 cl. 37(1), Sch. 2 cl. 28(2) and 44(2),
+Sch. 2 cl. 57(2) and 78G(1)
 commercial vehicleSch. 1 cl. 37(1)
 commercial vehicle parkingSch. 1 cl. 38
 committeeSch. 2 cl. 81
