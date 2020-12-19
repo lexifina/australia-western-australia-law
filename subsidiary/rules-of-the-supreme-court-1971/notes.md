@@ -147,6 +147,7 @@ Supreme Court Amendment Rules (No. 2) 2018 | 29 Jun 2018 p. 2437-8 | r. 1 and 2:
 Supreme Court Amendment Rules (No. 3) 2018 | 28 Aug 2018 p. 2991-2 | r. 1 and 2: 28 Aug 2018 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2018 (see r. 2(b) and Gazette 17 Aug 2018 p. 2894)
 Supreme Court Amendment Rules (No. 3) 2019 | 31 Dec 2019 p. 4677-8 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Supreme Court Amendment Rules (No. 5) 2020 | SL 2020/228 27 Nov 2020 | r. 1 and 2: 27 Nov 2020 (see r. 2(a)); Rules other than r. 1 and 2: 28 Nov 2020 (see r. 2(b))
+Supreme Court Amendment Rules (No. 2) 2020 | SL 2020/242 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Rules other than r. 1 and 2: 19 Dec 2020 (see r. 2(b))
 Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
@@ -162,7 +163,7 @@ Defined terms
 Defined termProvision(s)
 AO. 4A r. 2(2)(n)
 AccountantO. 1 r. 4(1)
-ActO. 1 r. 4(1), O. 38A r. 1(a), O. 39 r. 1(a), O. 39A r. 1(1), O. 44A r. 1(a), O. 46 r. 1, O. 70 r. 1, O. 75 r. 1, O. 76 r. 1, O. 80A r. 1, O. 81B r. 1(1), O. 81E r. 1, O. 81F r. 1(1), O. 81G r. 1(1), O. 81H r. 1, O. 85 r. 1(1)
+ActO. 1 r. 4(1), O. 38A r. 1(a), O. 39 r. 1(a), O. 39A r. 1(1), O. 44A r. 1(a), O. 46 r. 1, O. 75 r. 1, O. 76 r. 1, O. 80A r. 1, O. 81B r. 1(1), O. 81E r. 1, O. 81F r. 1(1), O. 81G r. 1(1), O. 81H r. 1, O. 85 r. 1(1)
 action for personal injuriesO. 36A r. 1
 additional authorityO. 11A r. 1
 addresseeO. 36B r. 1(1)
@@ -235,6 +236,7 @@ form O. 1 r. 4(1)
 forwarding authorityO. 11A r. 1
 freezing noticeO. 81FA r. 1
 freezing orderO. 52A r. 1 and 2(1), O. 81FA r. 1
+GAA ActO. 70 r. 1
 geographical addressO. 1 r. 4(1)
 grantO. 75 r. 1
 Hague ConventionO. 11A r. 1
