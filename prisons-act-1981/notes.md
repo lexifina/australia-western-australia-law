@@ -11,7 +11,7 @@ Acts Amendment (Corrective Services) Act 1987 Pt. II | 47 of 1987 | 3 Oct 1987 |
 Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
 Acts Amendment (Imprisonment and Parole) Act 1987 Pt. III | 129 of 1987 | 21 Jan 1988 | 15 Jun 1988 (see s. 2 and Gazette 20 May 1988 p. 1664)
 Prisons Amendment Act (No. 2) 1991 | 47 of 1991 | 17 Dec 1991 | Act other than s. 6: 17 Dec 1991 (see s. 2(1)); s. 6: 1 Apr 1992 (see s. 2(2) and Gazette 27 Mar 1992 p. 1341)
-Reprint of the Prisons Act 1981 as at 9 Jul 1992 (includes amendments listed above) (correction in Gazette 18 May 1993 p. 2465)
+Reprint of the Prisons Act 1981 as at 9 Jul 1992 (includes amendments listed above) (correction: Gazette 18 May 1993 p. 2465)
 Criminal Law Amendment Act (No. 2) 1992 s. 16(1) | 51 of 1992 | 9 Dec 1992 | 6 Jan 1993
 Acts Amendment (Ministry of Justice) Act 1993 Pt. 15 | 31 of 1993 | 15 Dec 1993 | 1 Jul 1993 (see s. 2)
 Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
@@ -38,7 +38,7 @@ Reprint 4: The Prisons Act 1981 as at 20 Aug 2004 (includes amendments listed ab
 Sentencing Legislation Amendment Act 2004 s. 16 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(4)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(4)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction: Gazette 7 Jan 2005 p. 53))
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Reprint 5: The Prisons Act 1981 as at 21 Jul 2006 (includes amendments listed above except those in the Prisons Amendment Act 2003 s. 5, 6 and 8)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
@@ -62,13 +62,12 @@ Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 2
 Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 Pt. 3 Div. 6 | 49 of 2016 | 29 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1157)
 Industrial Relations Amendment Act 2018 s. 71 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Reprint 9: The Prisons Act 1981 as at 9 Aug 2019 (includes amendments listed above)
-Prisons Amendment Act 2020 (other than s. 4(1), 12, 19 and 23(1)) | 20 of 2020 | 21 May 2020 | s. 1 and 2: 21 May 2020 (see s. 2(a)); Act other than s. 1, 2, 4(1), 12, 19 and 23(1): 27 Jun 2020 (see s. 2(b) and SL 2020/92 cl. 2)
+Prisons Amendment Act 2020 | 20 of 2020 | 21 May 2020 | s. 1 and 2: 21 May 2020 (see s. 2(a)); Act other than s. 1, 2, 4(1), 12, 19 and 23(1): 27 Jun 2020 (see s. 2(b) and SL 2020/92 cl. 2); s. 4(1), 12, 19 and 23(1): 21 Dec 2020 (see s. 2(b) and SL 2020/243 cl. 2)
 High Risk Serious Offenders Act 2020 s. 119 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Prisons Amendment Act 2020 s. 4(1), 12, 19 and 23(1) | 20 of 2020 | 21 May 2020 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
@@ -100,6 +99,7 @@ absence permit3(1), 83(2)
 administrator15A
 appeal99
 appellant99
+bodily fluid3(1)
 cessation declaration114(5)
 Chief Commissioner99
 chief executive officer3(1)
@@ -123,6 +123,7 @@ hearing officer74A(1)
 high-level security work3(1)
 independent prison visitor3(1)
 industrial commissioner99
+infectious disease3(1)
 intervene15A
 jailSch. 2
 judge of the Supreme Court3(1)
@@ -166,6 +167,7 @@ subcontractor3(1)
 submission period102(2)
 suitability to continue as a prison officer99
 superintendent3(1)
+transfer of bodily fluid3(1)
 victim113B(1)
 video link74A(1)
 violent personal offence113B(1)
