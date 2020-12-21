@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Prisons Regulations 1982 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Prisons Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Prisons Regulations 1982 | 23 Jul 1982 p. 2905-29 | 1 Aug 1982 (see r. 1 and Gazette 23 Jul 1982 p. 2841)
 Prisons Amendment Regulations 1982 | 24 Dec 1982 p. 4906-7 | 24 Dec 1982 (see r. 3)
 Prisons Amendment Regulations 1983 | 22 Apr 1983 p. 1250 | 22 Apr 1983
@@ -44,8 +44,9 @@ Prisons Amendment Regulations 2015 | 21 Aug 2015 p. 3317-24 | r. 1 and 2: 21 Aug
 Corrective Services Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 3 | 30 Dec 2016 p. 5967-8 | 31 Dec 2016 (see r. 2(b))
 Corrective Services Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 185-9 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Corrective Services Regulations Amendment Regulations 2018 Pt. 3 | 13 Nov 2018 p. 4433-5 | 1 Dec 2018 (see r. 2(b))
+Prisons Amendment Regulations 2020 | SL 2020/251 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2020 (see r. 2(b) and SL 2020/243 cl. 2)
+Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, these Regulations must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 17 as if these Regulations had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-Footnote no longer applicable.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
 The Inspector of Custodial Services Act 2003 s. 56(2) reads as follows:
 “
@@ -54,6 +55,7 @@ The Inspector of Custodial Services Act 2003 s. 56(2) reads as follows:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+affected prison officer29A
 aggravated alcohol offence26
 aggravated drug offence26
 allocated81A
@@ -79,6 +81,7 @@ prison dog81A
 prison officer30
 privilege30
 property49(2)
+qualified person29A
 relevant material30
 removal action30
 review officer30
@@ -87,3 +90,4 @@ suitability to continue as a prison officer30
 summary of investigation30
 supervision2(1)
 sweat patch26
+test authorisation notice29A, 29F(2)
