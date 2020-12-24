@@ -10,6 +10,7 @@ Metropolitan Redevelopment Authority Amendment Regulations 2017 | 7 Feb 2017 p. 
 Metropolitan Redevelopment Authority Amendment Regulations (No. 2) 2017 | 4 Aug 2017 p. 4315 | r. 1 and 2: 4 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2017 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2019 | 31 May 2019 p. 1715-16 | r. 1 and 2: 31 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2019 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2020 | SL 2020/14 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b))
+Metropolitan Redevelopment Authority Amendment Regulations (No. 2) 2020 | SL 2020/250 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -29,6 +30,7 @@ R-Codes3
 Register of Heritage Places3
 relevant plan10(1), 11(1), 13(1), 14A(1)
 relevant plans12(1)
+removal day14B(1)
 section3
 site17(1)
 statement18(1)
