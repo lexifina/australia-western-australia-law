@@ -25,4 +25,3 @@ Dated .............. | .........................................................
 Dated .............. | ...................................................................... Signature of transferee
 * Strike out words not applicable.
 [Schedule 7A inserted: Gazette 2 Dec 2016 p. 5445-8.]
-[Schedule 8 deleted: Gazette 2 Dec 2016 p. 5448.]
