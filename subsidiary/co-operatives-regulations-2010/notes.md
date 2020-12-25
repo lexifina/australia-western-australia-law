@@ -15,6 +15,7 @@ Reprint 1: The Co-operatives Regulations 2010 as at 6 Oct 2017 (includes amendme
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 6 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Co-operatives Amendment Regulations 2020 | SL 2020/256 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Dec 2020 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
