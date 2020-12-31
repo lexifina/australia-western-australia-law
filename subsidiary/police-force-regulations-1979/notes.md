@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Police Force Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Police Force Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Police Regulations 1979 | 20 Dec 1978 p. 4731-62 | 1 Jan 1979
 Untitled regulations | 16 Feb 1979 p. 425 | 16 Feb 1979
 Untitled regulations | 7 Sep 1979 p. 2716-19 | 7 Sep 1979
@@ -70,7 +70,11 @@ Police Force Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2863-4 | r. 1 a
 Police Force Amendment Regulations (No. 3) 2018 | 23 Nov 2018 p. 4552-3 | r. 1 and 2: 23 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Nov 2018 (see r. 2(b))
 Police Force Amendment Regulations 2019 | 1 Oct 2019 p. 3509-13 | r. 1 and 2: 1 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2019 (see r. 2(b))
 Police Force Amendment Regulations (No. 3) 2019 | 29 Nov 2019 p. 4149 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b) and Gazette 29 Nov 2019 p. 4133)
-Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Police Force Amendment Regulations (No. 2) 2020 r. 3 and 4 | SL 2020/263 31 Dec 2020 | 26 Feb 2021 (see r. 2(b) and SL 2020/254 cl. 2)
+Other notes
 Now known as the Police Force Regulations 1979; citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
 The Police Force Amendment Regulations (No. 2) 1998 r. 13 is a transitional provision that is of no further effect.
