@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bail Act 1982 | 86 of 1982 | 18 Nov 1982 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -67,13 +67,9 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Dangerous Sexual Offenders Legislation Amendment Act 2017 Pt. 2 | 21 of 2017 | 13 Dec 2017 | 29 Mar 2018 (see s. 2(b) and Gazette 16 Mar 2018 p. 916-17)
 Bail Amendment (Persons Linked to Terrorism) Act 2019 | 15 of 2019 | 5 Jul 2019 | s. 1 and 2: 5 Jul 2019 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2020 (see 2(b) and Gazette 15 Nov 2019 p. 4029)
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 4 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
-Family Violence Legislation Reform Act 2020 Pt. 5 (but only s. 38, 42, 44, 45, 49 and 50) | 30 of 2020 | 9 Jul 2020 | s. 38, 42, 44, 45 and 49: 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(iii)); s. 50: 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i))
 High Risk Serious Offenders Act 2020 s. 117 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+Family Violence Legislation Reform Act 2020 Pt. 5 | 30 of 2020 | 9 Jul 2020 | s. 38, 42, 44, 45 and 49: 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(iii)); s. 50: 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i)); s. 39-41, 43 and 46-48: 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iii))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Family Violence Legislation Reform Act 2020 s. 39-41, 43 and 46-48 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iii))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 1 modifies section 43A of the Act. The modified section is identified by the superscript 2M appearing after the section number. The modification ceases on 31 December 2021 unless postponed under section 37(3) and 52 of that Act.
@@ -120,10 +116,14 @@ community corrections officer3(1)
 confirmed control order3(1)
 court3(1)
 court custody centre3(1)
+designated family relationship3(1)
 Director of Public Prosecutions3(1)
 early release order3(1)
+family relationship3(1)
+family violence offence3(1)
 home detention condition3(1)
 interim control order3(1)
+intimate personal relationship3(1A)
 judge7B(1), Sch. 1 cl. 1(1)
 judge of appeal3(1)
 judicial officer3(1)
@@ -145,8 +145,9 @@ relevant papers27(2)
 relevant personSch. 1 cl. 3B(3)
 reportable information66D(2)
 responsible personSch. 1 cl. 2(1)
-section 40A offenceSch. 1 cl. 3D(1)
+section 80 offenceSch. 1 cl. 3D(1)
 sensitive information66D(1)
+serial family violence offender3(1)
 serious offence3(1), 6A(1)
 statute66(3)
 summary court6A(1)

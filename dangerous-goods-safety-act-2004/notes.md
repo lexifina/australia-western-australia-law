@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Dangerous Goods Safety Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 | 7 of 2004 | 10 Jun 2004 | s. 1 and 2: 10 Jun 2004; Act other than s. 1 and 2: 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
@@ -9,9 +9,6 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Reprint 1: The Dangerous Goods Safety Act 2004 as at 5 Jun 2009 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 4 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2020 Pt. 9 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
 Other notes
 The provisions in this Act repealing these written laws have been omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -21,7 +18,7 @@ Defined terms
 Defined termProvision(s)
 aggravated circumstances17(1)
 application 43(1)
-approvalSch. 1 cl. 8(1)
+approval68A(1), Sch. 1 cl. 8(1)
 approved3(1)
 approved auditor46(1)
 approved code of practice62(1)
@@ -47,6 +44,7 @@ enforcement purposes33
 engaging in conduct60(1)
 entry warrant33
 exemption3(1), 23(1)
+explosive68A(1)
 give3(1)
 government agency51(1)
 handle3(1)

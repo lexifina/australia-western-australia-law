@@ -24,11 +24,12 @@ Sentence Administration Amendment (Multiple Murderers) Act 2018 | 42 of 2018 | 1
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 3 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 7 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 High Risk Serious Offenders Act 2020 Pt. 9 Div. 4 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+Family Violence Legislation Reform Act 2020 Pt. 4 (other than s. 37) | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(ii))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 61 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Family Violence Legislation Reform Act 2020 Pt. 4 | 30 of 2020 | 9 Jul 2020 | Pt. 4 (other than s. 37): 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(ii)); s. 37: to be proclaimed (see s. 2(1)(c))
+Family Violence Legislation Reform Act 2020 s. 37 | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
@@ -70,6 +71,7 @@ section 103 means the Sentence Administration Act 2003 section 103.
 (2) The person holding office as the judicial member of the Parole Board immediately before the commencement is to hold office as the chairperson of the Prisoners Review Board for the remainder of the period for which the person was appointed as the judicial member.
 (3) Immediately before the commencement the office of any person, other than the judicial member, who is then a member of, acting member of, or deputy of a member of, the Parole Board becomes vacant.
 (4) Subsection (3) does not prevent a person mentioned in that subsection from being nominated, being appointed, or holding office, as a member of the Prisoners Review Board.
+TheFamily Violence Legislation Reform Act 2020 s. 37 will not come into operation as the Schedule it sought to amend has been deleted by the High Risk Serious Offenders Act 2020 s. 116.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -94,10 +96,12 @@ conditional suspended imprisonment4(2)
 contractor97B(1)
 CSI4(3)
 departmental staff4(2)
+designated family relationship4(2)
 designated prisoner14B
 early release order4(2)
+family violence offence4(2)
 first relevant offence14B
-first report12B(1), 12B(1)
+first report12B(1)
 fixed term7(1)
 former Division129(1)
 former transitional provisions123
@@ -107,6 +111,7 @@ Governor’s pleasure detainee4(2)
 homicide offence66A
 homicide related offence66A
 honorary CCO4(2)
+intimate personal relationship4(2A)
 memberSch. 1 cl. 1
 minimum hours requirement78(1)
 monitoring equipment118(1)
@@ -140,6 +145,7 @@ reviewable decision115A(1)
 RRO4(3)
 Schedule 3 prisoner4(2)
 sentence4(2)
+serial family violence offender4(2)
 serious offence4(2), 74A
 serious offender under restriction74A
 service provider97B(1)

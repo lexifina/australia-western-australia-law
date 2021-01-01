@@ -84,15 +84,14 @@ Statutes (Minor Amendments) Act 2017 s. 12 | 6 of 2017 | 12 Sep 2017 | 13 Sep 20
 Reprint 10: The Sentencing Act 1995 as at 8 Dec 2017 (includes amendments listed above)
 Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 2 | 13 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 8 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
-Family Violence Legislation Reform Act 2020 Pt. 3 (other than s. 13 to 30) | 30 of 2020 | 9 Jul 2020 | s. 31: 10 Jul 2020 (see s. 2(1)(b)); Pt. 3 (other than s. 13 to 31): 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(ii))
 High Risk Serious Offenders Act 2020 s. 120 and 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+Family Violence Legislation Reform Act 2020 Pt. 3 | 30 of 2020 | 9 Jul 2020 | s. 31: 10 Jul 2020 (see s. 2(1)(b)); Pt. 3 (other than s. 13 to 31): 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(ii)); s. 13 to 30: 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(i))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
  | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
- | Family Violence Legislation Reform Act 2020 s. 13 to 30 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(i))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Par 4 Division 4 Subdivision 1 modifies sections 14, 14B and 34 of the Act. The modified sections are identified by the superscript 2M appearing after the section numbers. The modification ceases on 31 December 2021 unless postponed under sections 46(3) and 52 of that Act.
@@ -224,6 +223,7 @@ Defined terms
 Defined termProvision(s)
 ammunition106(5)
 approved electronic monitoring device4(1)
+approved expert124D
 award115(2)
 bail4(1)
 breach4(1)
@@ -250,16 +250,19 @@ CSI4(2)
 CSI requirement84G
 declared criminal organisation9A(1)
 derived property8(6)
+designated family relationship4(1)
 disqualification order4(1)
 DPP4(2)
 driver’s licence105(5)
 early release order76(4), 81(4)
-electronic monitoring requirement76A(2), 84CA(2)
+electronic monitoring requirement33HA(2), 67A(2), 76A(2), 84CA(2)
 excluded offence33A(1)
+explosive4(1)
 family relationship97A(1)
 family victim23A
+family violence offence4(1)
 fine57(1)
-firearm106(5)
+firearm106(5), 124D
 firearms offence106(5)
 fixed term9AA(1), 85(1)
 full sentence37A(1)
@@ -267,6 +270,7 @@ head sentence9AA(1)
 imprisonable offence33A(1)
 indefinite imprisonment85(1)
 intensive supervision order4(1)
+intimate personal relationship4(1A)
 ISO4(2)
 joint offenders55(3)
 mandatory minimum sentence85(1)
@@ -287,7 +291,7 @@ pending charge31
 period of imprisonment59(7)
 personal harm23A
 prescribed4(1)
-prescribed offence85(1)
+prescribed offence85(1), 124D
 prescribed term85(1)
 pre-sentence order4(1)
 primary victim23A
@@ -307,6 +311,7 @@ requiring care23A
 sentence37(5), 37A(5)
 sentencing150A(1)
 sentencing day33B(1)
+serial family violence offender4(1)
 speciality court4(1), 84N(2)
 specified33H(15), 75(15), 84C(15)
 specified place33H(2), 75(2), 84C(2)

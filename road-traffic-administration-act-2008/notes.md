@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Administration) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 | 39 of 2008 | 15 Aug 2008 | s. 1 and 2: 15 Aug 2008 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -18,11 +18,8 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 31 | 26 of 2016 | 21 
 Reprint 2: The Road Traffic (Administration) Act 2008 as at 14 Dec 2018 (includes amendments listed above)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 5 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
-Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 3 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2020 Pt. 8 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
+Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 3 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -48,7 +45,7 @@ business address4
 carriageway117B(1)
 CEO4
 certificate126(1)
-co-driver4, 28, 38
+co-driver4, 28, 28, 38
 commencement day147, 166
 Commissioner140(1)
 compensation order123
@@ -70,10 +67,14 @@ driver’s licence4
 driver’s licence document36(3)
 driver’s licence information4
 driver’s licence register4
+DVO4
 engaging in conduct119(1)
 entitled person70(1)
 equipment4
 extract4
+Family Court injunction4
+family violence4
+family violence evidentiary document4
 fit to drive a vehicle or to run its engine29(2)
 GCM4
 Government road132(1)
@@ -141,7 +142,7 @@ records4
 relevant authorisation12(1)
 relevant authority13A(1)
 remote communication62
-residential purposes51(1)
+residential purposes51(1), 51(1)
 responsible person4, 34(1)
 road4
 road authority123
