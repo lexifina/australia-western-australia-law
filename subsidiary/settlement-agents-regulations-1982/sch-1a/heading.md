@@ -1,6 +1,6 @@
 ## Schedule 1A — Professional development subjects
-[r. 4B]
-[Heading inserted: Gazette 28 Dec 2007 p. 6411.]
+[r. 2]
+[Heading inserted: Gazette 28 Dec 2007 p. 6411; amended: SL 2020/259 r. 9.]
 1.Joint Form of General Conditions
 2.Conflicts of interest and disclosures
 3.Reconciliation of trust accounts

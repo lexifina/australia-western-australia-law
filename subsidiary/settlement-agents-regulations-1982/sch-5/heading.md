@@ -21,4 +21,8 @@ s. 42(1)(a) | $400
 s. 42(1)(b) | $400
 s. 42(2)(a) | $400
 s. 42(2)(b) | $400
-[Schedule 5 inserted: Gazette 23 Dec 2008 p. 5470.]
+## Part 3 — Other offence
+[Heading inserted: SL 2020/259 r. 10.]
+Provision of the Settlement Agents Act 1981 | Modified Penalty
+s. 41B | $1 000
+[Schedule 5 inserted: Gazette 23 Dec 2008 p. 5470; amended: SL 2020/259 r. 10.]
