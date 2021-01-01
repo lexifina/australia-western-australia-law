@@ -2,23 +2,24 @@
 [r. 14]
 [Heading inserted: Gazette 28 Aug 2009 p. 3351.]
 Offences under Real Estate and Business Agents Act 1978 | Modified penalty
-s. 35 | Failing to notify Commissioner of ceasing or commencing business | $400
 s. 36(1) | Failing to have registered office in the State | $200
 s. 37(1) | Failing to register a branch office | $200
 s. 37(2) | Failing to have qualified manager at branch office | $200
-s. 37(3) | Branch manager acting for more than one licensee or as an agent on own account | $400
+s. 40B | Licensee failing to comply with educational requirements | $1 000
 s. 40(1)(a) | Carrying on business under a name not endorsed on triennial certificate | $200
 s. 40(1)(b) | Failing to include surname and initials of licensee on all business correspondence | $200
 s. 40(3) | Failing to notify Commissioner of alteration of business name | $200
-s. 41(1)(a) | Failing to display official details at registered office | $400
-s. 41(1)(b) | Failing to display official details at branch office | $400
-s. 41(2)(a) | Failing to display official details on all correspondence and documents from registered office | $400
-s. 41(2)(b) | Failing to display official details on all correspondence and documents from branch office | $400
-s. 51(1) | Failing to notify Commissioner of commencing or ceasing employment, or to act, as a sales representative | $400
-s. 70(1) | Failing to cause audit of trust account | $600
-s. 70(3) | Failing to deliver audit report to the Commissioner | $600
-s. 70(8) | Failing to deliver a termination audit report | $600
-s. 86 | Failing to lodge a statutory declaration in relation to the audit of trust accounts | $200
+s. 50C | Sales representative failing to comply with educational requirements | $1 000
+s. 84(1) | Failing to cause audit of trust account under section 70(1) | $2 000
+s. 84(1) | Failing to deliver audit report to the Commissioner under section 70(3) | $2 000
+s. 84(1) | Failing to deliver a termination audit report under section 70(8) | $600
+s. 142 | Failing to notify Commissioner of commencing or ceasing business under section 35 | $400
+s. 142 | Branch manager acting for more than one licensee or as an agent on own account under section 37(3) | $400
+s. 142 | Failing to display official details at registered office under section 41(1)(a) | $400
+s. 142 | Failing to display official details at branch office under section 41(1)(b) | $400
+s. 142 | Failing to display official details on all correspondence and documents from registered office under section 41(2)(a) | $400
+s. 142 | Failing to display official details on all correspondence and documents from branch office under section 41(2)(b) | $400
+s. 142 | Failing to notify Commissioner of commencing or ceasing employment, or acting, as a sales representative under section 51(1) | $400
 Offence under Real Estate and Business Agents (General) Regulations 1979 | Modified penalty
-r. 8 | Failing to notify Commissioner of change in particulars | $20
-[Schedule 3 inserted: Gazette 28 Aug 2009 p. 3351-2; amended: Gazette 30 Jun 2011 p. 2670; 23 Oct 2012 p. 5055.]
+r. 8 | Failing to notify Commissioner of change in particulars | $200
+[Schedule 3 inserted: Gazette 28 Aug 2009 p. 3351-2; amended: Gazette 30 Jun 2011 p. 2670; 23 Oct 2012 p. 5055; SL 2020/257 r. 12.]
