@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Working with Children (Criminal Record Checking) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Working with Children (Criminal Record Checking) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Working with Children (Criminal Record Checking) Regulations 2005 | 21 Dec 2005 p. 6189-214 | 1 Jan 2006 (see r. 2 and Gazette 30 Dec 2005 p. 6875)
 Working with Children (Criminal Record Checking) Amendment Regulations 2006 | 28 Feb 2006 p. 907-12 | 1 Mar 2006 (see r. 2 and Gazette 14 Feb 2006 p. 695)
 Working with Children (Criminal Record Checking) Amendment Regulations (No. 2) 2006 | 1 Mar 2006 p. 940 | 2 Mar 2006 (see r. 2)
@@ -28,6 +28,8 @@ Working with Children (Criminal Record Checking) Amendment Regulations 2017 | 3 
 Reprint 4: The Working with Children (Criminal Record Checking) Regulations 2005 as at 19 Jan 2018 (includes amendments listed above)
 Child Protection Regulations Amendment (Fees) Regulations 2018 Pt. 3 | 22 Jun 2018 p. 2177-8 | 1 Jul 2018 (see r. 2(b))
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2019 Pt. 4 | 28 Jun 2019 p. 2477-9 | 1 Jul 2019 (see r. 2(b))
+Working with Children (Criminal Record Checking) Amendment Regulations 2021 | SL 2021/11 29 Jan 2021 | r. 1 and 2: 29 Jan 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2021 (see r. 2(b))
+Other notes
 Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Community Services Act 1972, Community Services (Child Care) Regulations 1988 and Community Services (Outside School Hours Care) Regulations 2002 were repealed by the Children and Community Services Act 2004 s. 250.
 Formerly referred to the Children and Community Services (Child Care) Regulations 2006, the citation of which was changed to the Child Care Services (Child Care) Regulations 2006 by the Children and Community Services (Child Care) Amendment Regulations 2007 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
