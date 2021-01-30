@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Bush Fires Regulations 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bush Fires Regulations 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Bush Fires Act 1954 Regulations | 14 Oct 1955 p. 2575-97 | 14 Oct 1955
 Untitled regulations | 21 Jan 1957 p. 88 | 21 Jan 1957
 Reprint of the Bush Fires Act 1954 Regulations dated 29 Oct 1957 in Gazette 8 Nov 1957 p. 3323-48 (includes amendments listed above)
@@ -39,6 +39,8 @@ Bush Fires Amendment Regulations 2012 | 31 Oct 2012 p. 5251-2 | r. 1 and 2: 31 O
 Bush Fires Amendment Regulations 2013 | 5 Feb 2013 p. 834-5 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
 Bush Fires Amendment Regulations 2014 | 8 Jan 2015 p. 109 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Bush Fires Amendment Regulations 2019 | 5 Nov 2019 p. 3879-98 | r. 1 and 2: 5 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2019 (see r. 2(b))
+Bush Fires Amendment Regulations 2021 | SL 2021/10 29 Jan 2021 | r. 1 and 2: 29 Jan 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2021 (see r. 2(b))
+Other notes
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this compilation do not form part of the written law (see Interpretation Act 1984 s. 32).
 Now known as the Bush Fires Regulations 1954; citation changed (see note under r. 1).
@@ -48,6 +50,8 @@ Defined termProvision(s)
 approved fire extinguisher24AA
 approved fire hose24AA
 approved pump24AA
+approved storage tank24ZQ(1)
+assistance operation24DA(1)
 authorised officer16, 24
 bee smoker device39CA(1)
 bituminising equipment24AA
@@ -57,31 +61,33 @@ CALM Act24AA
 CALM Act land24AA
 catering activity24AA
 catering site24AA
-current fire danger forecast24T(1)
 engine, vehicle, plant, equipment or machinery24AA
 essential service24AA
 Executive Body45(1)
 fire danger forecast24AA
-fire detection officer24J(1), 24U(1), 24ZG(1)
+fire detection officer24J(1), 24ZG(1)
 fire extinguisher3
-fire fighting officers24U(3)
 fire fighting vehicle24AA
-fireworks activity24AA
-fireworks site24AA
 gas flaring24AA
 grading equipment24AA
 hot work24AA
+incident24DA(1)
 notifiable authority3
 off-road activity24AA
 off-road site24AA
 permit holder15B(1)
 prescribed period39CA(1)
+private road24AA
 public authority24AA
+rail grinding24AA
+rescue operation24DA(1)
 road24AA
 road site24AA
 road site fire fighting vehicles24ZE(3)
 road work24AA
+search and rescue operation24DA(1)
 subject land3
+suitable spark arrester24AA
 take control45A(1), 45B(1)
 unallocated Crown land45(1)
 urgent works24AA
