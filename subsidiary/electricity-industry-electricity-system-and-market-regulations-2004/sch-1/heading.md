@@ -2,6 +2,7 @@
 [r. 4A, 30, 31 and 33]
 [Heading inserted: Gazette 5 Jun 2012 p. 2354; amended: Gazette 24 Feb 2015 p. 738.]
 Provision | Category | Maximum civil penalty amounts
+cl. 1.41.2 | A | first contravention: $10 000 subsequent contraventions: $20 000
 cl. 2.13.13 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
 cl. 2.13.13A | C | first contravention: $50 000 subsequent contraventions: $100 000
 cl. 2.13.14(a) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
@@ -31,6 +32,13 @@ cl. 2.38.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subs
 cl. 2.41.2 | B | first contravention: $25 000 subsequent contraventions: $50 000
 cl. 2.42.4 | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $15 000
 cl. 2.44.4 | C | first contravention: $30 000 subsequent contraventions: $60 000
+cl. 3A.1.1 | A | first contravention: $10 000 subsequent contraventions: $20 000
+cl. 3A.5.7 | A | first contravention: $10 000 subsequent contraventions: $20 000
+cl. 3A.6.1 | A | first contravention: $10 000 subsequent contraventions: $20 000
+cl. 3A.8.1 | A | first contravention: $10 000 subsequent contraventions: $20 000
+cl. 3A.8.5(a) | A | first contravention: $10 000 subsequent contraventions: $20 000
+cl. 3A.10.1(a) | A | first contravention: $10 000 subsequent contraventions: $20 000
+cl. 3A.13.3 | A | first contravention: $10 000 subsequent contraventions: $20 000
 cl. 3.4.6 | C | first contravention: $45 000 subsequent contraventions: $90 000
 cl. 3.4.8 | C | first contravention: $40 000 subsequent contraventions: $80 000
 cl. 3.5.8 | C | first contravention: $50 000 subsequent contraventions: $100 000
@@ -111,4 +119,4 @@ cl. 9.23.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subs
 cl. 9.24.7 | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $10 000
 cl. 10.1.2 | B | first contravention: $25 000 subsequent contraventions: $50 000
 cl. 10.2.4 | B | first contravention: $25 000 subsequent contraventions: $50 000
-[Schedule 1 inserted: Gazette 5 Jun 2012 p. 2354-60; amended: Gazette 24 Feb 2015 p. 738.]
+[Schedule 1 inserted: Gazette 5 Jun 2012 p. 2354-60; amended: Gazette 24 Feb 2015 p. 738; SL 2021/2 r. 11.]
