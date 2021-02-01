@@ -23,12 +23,12 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 9 | 11 of 2012
 Education and Care Services National Law (WA) Amendment Act 2018 Pt. 4 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
 Historical Homosexual Convictions Expungement Act 2018 Pt. 5 | 20 of 2018 | 18 Sep 2018 | 15 Oct 2018 (see s. 2(b) and Gazette 12 Oct 2018 p. 4059)
 Criminal Law Amendment (Intimate Images) Act 2019Pt. 4 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
+National Disability Insurance Scheme (Worker Screening) Act 2020 Pt. 7 Div. 2 | 48 of 2020 | 9 Dec 2020 | 1 Feb 2021 (see s. 2(1)(b) and SL 2021/4 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-National Disability Insurance Scheme (Worker Screening) Act 2020 Pt. 7 Div. 2 | 48 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -38,6 +38,7 @@ assessment notice4
 authorised person34(1)
 cancelled assessment notice32A
 CEO4
+CEO (Justice)4
 charge4
 child4
 child care service4
@@ -58,6 +59,7 @@ continuing volunteer58(1)
 conviction4
 correct notice20(1)
 corresponding authority37(1)
+corresponding law4
 criminal record4
 criminal record check4
 criminal records agency34(1)
@@ -67,8 +69,10 @@ education provider4
 educational institution for children4
 employee16(1)
 employer9B(5), 9(1), 16(1), 22(1), 41(1), 43(1)
+external government agency39A(1)
 first notice20(2)
 interim negative notice4
+law39A(1)
 managerial officer5(1)
 negative notice4
 new employee60(4)
@@ -77,6 +81,7 @@ non-conviction charge4
 officer of the Department4
 parent4
 pending charge4
+prescribed report37A(1)
 proposed employer32A
 public authority38(1)
 public sector employee45(2)
