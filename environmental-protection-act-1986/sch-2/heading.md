@@ -2,18 +2,21 @@
 [s. 123(2)]
 [Heading amended: No. 19 of 2010 s. 4.]
 1.In this Schedule —
+fee includes charge;
 specified means specified in regulations made under section 123.
 2.The fees to apply under this Act, including, without limiting sections 43, 45 and 45A of the Interpretation Act 1984, the following —
-(a)the time at which, or the periods for or during which, fees are to be paid;
+(a)subject to this Act, the time at which, or the periods for or during which, fees are to be paid;
 (b)the structure of fees;
 (c)the basis on which a fee is to be calculated;
+(ca)when a fee submitted in respect of an application made under this Act is taken to have been received for the purposes of this Act;
 (d)interest on unpaid fees;
-(e)penalties for late payment or underpayment of fees;
+(e)penalties for, and other consequences of, failure to pay fees, late payment of fees or underpayment of fees;
 (f)recovery of fees;
 (g)refunding of fees.
 2A.Without limiting item 2, in the case of a works approval or licence under Part V or a licence, permit, approval or exemption under the regulations (an authorisation) —
 (a)prescribing fees that are payable before or when the authorisation is granted, issued or given and fees that are payable at prescribed intervals or in prescribed circumstances during the currency of the authorisation;
-(b)providing for the authorisation to cease to have effect if a fee is not paid in accordance with the regulations.
+(b)providing for the authorisation to cease to have effect if a fee is not paid in accordance with the regulations;
+(c)prescribing fees that are payable before or when the authorisation is amended, transferred or surrendered.
 3.The taking of measurements and analysis of substances and things for the purposes of this Act.
 4.The conduct and methods of testing the extent and effects of an emission, the equipment to be used for the purpose of that testing, and the persons who are authorised to use that equipment.
 5.The matters that may be set out in a certificate or report relating to —
@@ -30,7 +33,7 @@ and the evidential status and probative value of those matters.
 11.Prescribing ambient standards and emission standards and specifying the maximum permissible concentrations of any matter that may be present in or discharged into the environment.
 12.Prescribing noise emission standards for different kinds of premises and equipment.
 13.The times within which specified noise emission levels may be exceeded or shall not be exceeded.
-14.Prohibiting or regulating the emission or transmission of noise, odour or electromagnetic radiation from premises, whether or not those premises are prescribed premises or a public place.
+14.Prohibiting or regulating the emission or transmission of noise, odour or electromagnetic radiation from premises or a place.
 15.Prohibiting or regulating the emission or transmission of noise, odour or electromagnetic radiation in public places.
 16.Requiring the means to be used for the prevention, and for counteracting the effect, of pollution or environmental harm in relation to any area, premises, act or thing, including the laying down of minimum requirements.
 17.Prohibiting or regulating any conduct, operation or activity that is capable of causing pollution or environmental harm.
@@ -63,7 +66,10 @@ and the evidential status and probative value of those matters.
 34.Prescribing administrative procedures for the purposes referred to in section 122(1)(a).
 35.Prescribing procedures in respect of appeals under Part VII.
 35A.Requiring things to be done or information to be provided under this Act in a prescribed manner or prescribed form.
-36.The keeping, inspection and production of records and registers under this Act.
+35B.Providing for notices, orders or other documents to be given, sent or served under this Act by electronic communication (as defined in the Electronic Transactions Act 2011 section 5(1)) and providing for the proof of that giving, sending or service.
+36.Without limiting section 122B, the keeping, inspection and production of records and registers under this Act.
 36A.The keeping and production of returns and other information by a licensee in relation to the receipt of waste.
-37.Creating offences under the regulations and penalties for the commission thereof not exceeding $5 000.
-[Schedule 2 amended: No. 14 of 1998 s. 19, 21 and 36; No. 54 of 2003 s. 26, 67, 86, 89, 96 and 138; No. 36 of 2007 s. 100.]
+36B.Establishing or recognising a scheme or system for the accreditation of persons as environmental practitioners for purposes related to this Act.
+36C.Specifying timelines for steps in processes contained in Part V.
+37.Creating offences under the regulations and penalties for the commission thereof not exceeding $20 000.
+[Schedule 2 amended: No. 14 of 1998 s. 19, 21 and 36; No. 54 of 2003 s. 26, 67, 86, 89, 96 and 138; No. 36 of 2007 s. 100; No. 40 of 2020 s. 108(1)-(6) and (8)-(11).]
