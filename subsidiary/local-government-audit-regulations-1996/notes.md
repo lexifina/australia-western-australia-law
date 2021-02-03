@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Local Government (Audit) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government (Audit) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Local Government (Audit) Regulations 1996 | 24 Jun 1996 p. 2827-32 | 1 Jul 1996 (see r. 2)
 Local Government (Audit) Amendment Regulations 1999 | 23 Apr 1999 p. 1722-5 | 23 Apr 1999
 Corporations (Consequential Amendments) Regulations 2001 Pt. 8 | 28 Sep 2001 p. 5353-8 | 15 Jul 2001 (see r. 2 and Cwlth Gazette 13 Jul 2001 No. S285)
@@ -19,6 +19,8 @@ Local Government (Functions and General) Amendment Regulations 2015 Pt. 3 | 18 S
 Local Government Regulations Amendment (Associations Incorporation) Regulations 2016 Pt. 2 | 30 Dec 2016 p. 5969-70 | 31 Dec 2016 (see r. 2(b))
 Local Government Regulations Amendment (Auditing) Regulations 2018 Pt. 2 | 26 Jun 2018 p. 2384-9 | 27 Jun 2018 (see r. 2(c))
 Local Government Regulations Amendment (Gifts) Regulations 2019 Pt. 3 | 18 Oct 2019 p. 3679-84 | 19 Oct 2019 (see r. 2(b) and Gazette 18 Oct 2019 p. 3673)
+Local Government (Model Code of Conduct) Regulations 2021 r. 6 | SL 2021/15 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
+Local Government Amendment (Employee Code of Conduct) Regulations 2021 Pt. 3 | SL 2021/16 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
