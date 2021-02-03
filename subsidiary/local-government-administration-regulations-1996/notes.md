@@ -27,44 +27,64 @@ Local Government Regulations Amendment (Induction and Training) Regulations 2019
 Local Government Regulations Amendment (Gifts) Regulations 2019 Pt. 2 | 18 Oct 2019 p. 3679-84 | 19 Oct 2019 (see r. 2(b) and Gazette 18 Oct 2019 p. 3673)
 Local Government (Administration) Amendment Regulations 2020 | SL 2020/20 25 Mar 2020 | r. 1 and 2: 25 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Mar 2020 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 5 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
+Local Government (Administration) Amendment Regulations 2021 | SL 2021/14 2 Feb 2021 | r. 1 and 2: 2 Feb 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
+Local Government (Model Code of Conduct) Regulations 2021 r. 5 | SL 2021/15 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
+Local Government Amendment (Employee Code of Conduct) Regulations 2021 Pt. 2 | SL 2021/16 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Other notes
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-activity involving a local government discretion34B(1)
+ActSch. 2 cl. 2(1)
+activity involving a local government discretion19AA
+additional performance criteriaSch. 2 cl. 2(1)
+adopted standards18FB(1), 18FC(1)
 annual return29C(1)
+applicantSch. 2 cl. 2(1)
+associated person19AA
 client or adviser20(1)
-code of conduct3(1)
-commencement day28B(1)
+code of conduct3(1), 19AA
+commencement day28B(1), Sch. 2 cl. 13(1)
 committee3(1)
+contract of employmentSch. 2 cl. 2(1)
+contractual performance criteriaSch. 2 cl. 2(1)
 corporate business plan19BA
 disability14A(4)
 electronic meeting14E(1)
-employee34B(1)
 final annual remuneration19A(2)
 former Form 428B(1)
 former record of disclosures 28B(1)
 former regulation 19C19DB(1)
 former regulation 19D19DB(1)
-gift34B(1)
-interest34C(1)
+gift19AA
+incumbent CEOSch. 2 cl. 13(2)
+independent personSch. 2 cl. 8(1)
+interest19AA
+job description formSch. 2 cl. 2(1)
+local governmentSch. 2 cl. 2(1)
+local government employee19AA, 19AB(1), 19AC(1)
+local law as to conduct34D(1)
 meeting14C(1), 14D(1)
 meeting details12(1)
-notifiable gift34B(1)
+negotiated contractSch. 2 cl. 12(1)
 oversight entity29C(1)
+performance issuesSch. 2 cl. 22(2)
 person referred to in this regulation14B(4)
 plan for the future19DB(1)
 primary return29C(1)
-prohibited gift34B(1)
+prohibited gift19AA
 public health emergency3(1)
 relevant period34AE(1)
 relevant person3(1)
 remuneration19B(1)
+resources of the local government19AE(1)
 Schedule3(1)
 section3(1)
+selection criteriaSch. 2 cl. 2(1)
+selection panelSch. 2 cl. 2(1)
 state of emergency3(1)
 strategic community plan19BA
 suitable place14A(4)
+threshold amount19AA
 townsite14A(4)
