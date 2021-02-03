@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Family Court Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Family Court Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Family Court Regulations 1998 | 25 Sep 1998 p. 5303-9 | 26 Sep 1998 (see r. 2 and Gazette 25 Sep 1998 p. 5295)
 Family Court Amendment Regulations 2002 | 29 Nov 2002 p. 5663-5 | 1 Dec 2002 (see r. 3 and Gazette 29 Nov 2002 p. 5651)
 Family Court Amendment Regulations 2006 | 14 Jul 2006 p. 2560-3 | 15 Jul 2006 (see r. 2 and Gazette 14 Jul 2006 p. 2559)
@@ -10,13 +10,14 @@ Family Court Amendment Regulations (No. 2) 2010 | 9 Nov 2010 p. 5628-9 | r. 1 an
 Family Court Amendment Regulations 2011 | 13 May 2011 p. 1737-47 | r. 1 and 2: 13 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2011 (see r. 2(b))
 Reprint 2: The Family Court Regulations 1998 as at 2 Mar 2012 (includes amendments listed above)
 Family Court Amendment Regulations 2012 | 14 Dec 2012 p. 6235-51 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
+Family Court Amendment Regulations 2015 | 30 Jun 2015 p. 2337-9 | Repealed by the Family Court Amendment Repeal Regulations 2015 r. 3 prior to commencement (see Gazette 30 Jun 2015 p. 2340)
+Family Court Amendment Repeal Regulations 2015 | 30 Jun 2015 p. 2340 | 30 Jun 2015 (see r. 2 and Gazette 30 Jun 2015 p. 2337)
 Family Court Amendment Regulations (No. 2) 2015 | 10 Jul 2015 p. 2779-83 | r. 1 and 2: 10 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jul 2015 (see r. 2(b)(ii) and Cwlth Select Legislative Instrument No. 114 registered on 12 Jul 2015)
 Family Court Amendment Regulations (No. 3) 2015 | 18 Aug 2015 p. 3299-301 | r. 1 and 2: 18 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2015 (see r. 2(b))
 Reprint 3: The Family Court Regulations 1998 as at 15 Jan 2016 (includes amendments listed above)
 Family Court Amendment Regulations 2018 | 24 Aug 2018 p. 2971-2 | r. 1 and 2: 24 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Aug 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
-Deleted by the Supreme Court Amendment Rules (No. 5) 2001.
-The Family Court Amendment Regulations 2015 were repealed before the provisions of those regulations that were to amend the Family Court Regulations 1998 came into operation. See the Family Court Amendment Repeal Regulations 2015 in Gazette 30 June 2015 p. 2340.
+Family Court Amendment Regulations 2021 | SL 2021/19 2 Feb 2021 | r. 1 and 2: 2 Feb 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Feb 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -30,6 +31,7 @@ CPI number21I(1)
 current fees24(1)
 earlier CPI number21I(4)
 eligible financial or parenting proceedings18
+equivalent action6(1)
 Family Law Regulations3(1)
 Family Law Rules3(1)
 fee21I(4)
