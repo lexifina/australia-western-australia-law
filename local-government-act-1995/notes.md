@@ -67,16 +67,16 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government Amendment (Auditing) Act 2017 (other than s. 4(2) and 7(2)) | 5 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(b) and Gazette 27 Oct 2017 p. 5413)
  | Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
  | Local Government Amendment (Suspension and Dismissal) Act 2018 | 31 of 2018 | 19 Nov 2018 | s. 1 and 2: 19 Nov 2018 (see s. 2(b)); Act other than s. 1 and 2: 20 Nov 2018 (see s. 2(b))
- | Local Government Legislation Amendment Act 2019 Pt. 2 (other than s. 22, 25, 39(2) and 48-51) | 16 of 2019 | 5 Jul 2019 | s. 3-4, 6-12, 18, 19, 21, 23, 45-47, 52-56, 58-60, 62, 63, 69-73: 6 Jul 2019 (see s. 2(c)); s. 15: 10 Aug 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 61: 16 Sep 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 26 to 38, 39(1), 40 to 44, 67 and 74(3): 19 Oct 2019 (see s. 2(b) and Gazette 18 Oct 2019 p. 3673); s. 5, 13, 14, 16, 17, 20, 24, 57, 64-66, 68 and 74(1) and (2): 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
+ | Local Government Legislation Amendment Act 2019 Pt. 2 (other than s. 39(2)) | 16 of 2019 | 5 Jul 2019 | s. 3-4, 6-12, 18, 19, 21, 23, 45-47, 52-56, 58-60, 62, 63, 69-73: 6 Jul 2019 (see s. 2(c)); s. 15: 10 Aug 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 61: 16 Sep 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 26 to 38, 39(1), 40 to 44, 67 and 74(3): 19 Oct 2019 (see s. 2(b) and Gazette 18 Oct 2019 p. 3673); s. 5, 13, 14, 16, 17, 20, 24, 57, 64-66, 68 and 74(1) and (2): 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2); s. 22, 25 and 48-51: 3 Feb 2021 (see s. 2(b) and SL 2021/13 cl. 2)
  | Local Government Amendment (COVID-19 Response) Act 2020 (other than s. 5) | 17 of 2020 | 20 Apr 2020 | s. 1 and 2: 20 Apr 2020 (see s. 2(a)); Act other than s. 1, 2 and 5: 21 Apr 2020 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
-Local Government Legislation Amendment Act 2019 Pt. 2 (s. 22, 25, 39(2) and 48-51) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
+Local Government Legislation Amendment Act 2019 s. 39(2) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 Apr 2020 | To be proclaimed (see s. 2(b))
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 6 | 36 of 2020 | 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
-Swan Valley Planning Act 2020 Pt. 10 Div. 7 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(e))
+Swan Valley Planning Act 2020 Pt. 10 Div. 7 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
@@ -269,7 +269,6 @@ The description at the beginning of Part 7 is to be altered by:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-75% majority1.4
 abandoned vehicle wreck3.40A(5)
 absent vote4.67(a)
 absolute majority1.4
@@ -295,9 +294,9 @@ arrangement5.49(1)
 audit7.1
 audit committee7.1
 audit contract7.1, Sch. 9.3 cl. 49
+audit report7.1
 auditor1.4
 Auditor General Act7.1
-audit report7.1
 authorisation9.2
 authorised employee9.31
 authorised land officer9.69(1)
@@ -306,13 +305,14 @@ Authority9.69(1)
 breach5.102A
 budget deficiency6.1
 campaign period5.123(3)
+candidate5.102A
 candidate A4.81(4), Sch. 2.3 cl. 12(4)
 candidate B 4.81(4), Sch. 2.3 cl. 12(4)
 CEO1.4
 certified copy9.31
 close of enrolments4.39(1)
 close of nominations4.49(a)
-commencement day7.1, 56(1), Sch. 9.3 cl. 1 and 49
+commencement day7.1, 56(1), Sch. 9.3 cl. 1, 49 and 56(1)
 commissioner1.4
 committee5.1
 committee meeting5.98(7)
@@ -371,6 +371,7 @@ entitled person6.67(3)
 establishment agreement3.61(2)(b)
 event5.90A(1)
 existing rollSch. 9.3 cl. 12(1)
+extension order8.15F(3)
 extent5.59
 extraordinary election1.4, 4.8(3)
 extraordinary vacancySch. 2.3 cl. 1 and 6
@@ -378,10 +379,10 @@ financial audit7.1
 financial year1.4
 former districtSch. 9.3 cl. 1
 former municipalitySch. 9.3 cl. 1
-former provisions2.22(3), 56(1), Sch. 9.3 cl. 1
+former provisions2.22(3), Sch. 9.3 cl. 1 and 56(1)
 former sectionSch. 9.3 cl. 38(1)
-former section 5.89A(7)56(1)
 former section 3003.53(1)
+former section 5.89A(7)Sch. 9.3 cl. 56(1)
 former valuationSch. 6.1 cl. 1(2)
 FY17/18 auditSch. 9.3 cl. 51(1)
 FY19/20 auditSch. 9.3 cl. 52(1)
@@ -421,6 +422,8 @@ member of a parliament2.20(2)
 metropolitan area1.4
 minimum payment6.1
 minor breach5.102A
+model code 5.102A
+model standards5.39B(1)
 municipal fund1.4
 new ordinary election day provisionsSch. 9.3 cl. 14A(1)
 new valuationSch. 6.1 cl. 1(2)
@@ -448,7 +451,6 @@ participants3.61(1)
 party5.102A
 performance audit7.1
 person having an interest3.51(1)
-political party5.83(4)
 polling place4.1
 postal election4.61(1)
 power of sale6.68(1)
@@ -473,28 +475,27 @@ rate9.40(3)
 rate record6.25
 recurrent breach5.102A
 regional local government1.4
-regional subsidiary1.4
 regional purpose3.62(2)
+regional subsidiary1.4
 registered company auditor7.1
 regulations7.1
 reinstatement8.15D
 relative5.74(1)
 relevant district2.45(2)
 relevant gift5.71B(1)
-relevant officialSch. 2.1 cl. 12(1)
 relevant interest6.29(1)
+relevant officialSch. 2.1 cl. 12(1)
 relevant period4.88(4)
 relevant person5.59, 5.74(1)
 return5.74(1)
 return period5.74(1)
 reviewSch. 2.2 cl. 1
 reward4.85(4)
-rules of conduct5.102A
+rule of conduct5.102A
 serious breach5.102A
 serious local government offence2.22(3)
 service charge6.1, 6.42, 6.54, 6.63
 show cause notice8.15B(1)
-Special majority required1.10
 specified3.38, 9.10(1), Sch. 9.3 cl. 54(1)
 specified area rate6.1
 standSch. 9.1 cl. 1(1)
