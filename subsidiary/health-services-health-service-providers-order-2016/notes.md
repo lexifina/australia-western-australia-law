@@ -12,6 +12,7 @@ Health Services (Health Service Providers) Amendment Order (No. 7) 2018 | 30 Nov
 Health Services (Health Service Providers) Amendment Order 2019 | 15 Jan 2019 p. 57 | cl. 1 and 2: 15 Jan 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 16 Jan 2019 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order 2020 | SL 2020/1 10 Jan 2020 | cl. 1 and 2: 10 Jan 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 20 Jan 2020 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order (No. 3) 2020 | SL 2020/94 26 Jun 2020 | cl. 1 and 2: 26 Jun 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2020 (see cl. 2(b))
+Health Services (Health Service Providers) Amendment Order 2021 | SL 2021/22 12 Feb 2021 | cl. 1 and 2: 12 Feb 2021 (see cl. 2(a)); Order other than cl. 1 and 2: 13 Feb 2021 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
