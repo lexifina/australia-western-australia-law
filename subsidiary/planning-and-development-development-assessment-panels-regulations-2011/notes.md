@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Planning and Development (Development Assessment Panels) Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Planning and Development (Development Assessment Panels) Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Planning and Development (Development Assessment Panels) Regulations 2011 | 24 Mar 2011 p. 1039-90 | r. 1 and 2: 24 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2011 (see r. 2(b) and Gazette 24 Mar 2011 p. 1035)
@@ -9,13 +9,11 @@ Planning and Development (Development Assessment Panels) Amendment Regulations 2
 Planning and Development (Development Assessment Panels) Amendment Regulations 2016 | 16 Dec 2016 p. 5709-21 | r. 1 and 2: 16 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2017 (see r. 2(b))
 Planning and Development (Development Assessment Panels) Amendment Regulations 2017 | 30 Jun 2017 p. 3592-3 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Planning and Development (Development Assessment Panels) Amendment Regulations 2018 | 26 Jun 2018 p. 2389-90 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Planning Regulations Amendment Regulations 2020 Pt. 4 | SL 2020/252 18 Dec 2020 | 15 Feb 2021 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+accepted for assessment3(3)
 administrative officer3(1)
 alternate member3(1)
 applicant3(1)
@@ -33,6 +31,7 @@ Director General3(1)
 document52(1)
 dwelling3(2)
 employed in the department49(1)
+excluded day or period12(4B)
 excluded development application3(1)
 gift46(1)
 grouped dwelling3(2)
@@ -50,7 +49,10 @@ presiding member3(1)
 prohibited gift46(1)
 public service officer49(1)
 R-Codes3(1)
+relevant administrative officer11(1)
 relevant local government25(2)
+relevant planning instrument11(1)
 single house3(2)
 specialist member3(1)
+substantially commenced16A(1)
 warehouse3(1)

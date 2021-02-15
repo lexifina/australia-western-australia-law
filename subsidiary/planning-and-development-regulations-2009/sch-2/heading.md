@@ -13,6 +13,7 @@ Item | Planning service | Maximum fee
 3. | Determining a development application for an extractive industry where the development has not commenced or been carried out | $739
 4. | Determining a development application for an extractive industry where the development has commenced or been carried out | The fee in item 3 plus, by way of penalty, twice that fee
 5A. | Determining an application to amend or cancel development approval | $295
+5B. | Determining an application for advice made under the Planning and Development (Local Planning Schemes) Regulations 2015 Sch. 2 cl. 61A (as that clause applies as part of the local planning scheme) | $295
 5. | Providing a subdivision clearance for —
  | (a)not more than 5 lots | $73 per lot
  | (b)more than 5 lots but not more than 195 lots | $73 per lot for the first 5 lots and then $35 per lot
@@ -26,4 +27,4 @@ Item | Planning service | Maximum fee
 12. | Providing a zoning certificate | $73
 13. | Replying to a property settlement questionnaire | $73
 14. | Providing written planning advice | $73
-[Schedule 2 inserted: Gazette 21 May 2013 p. 2012-13; amended: Gazette 25 Aug 2015 p. 3382.]
+[Schedule 2 inserted: Gazette 21 May 2013 p. 2012-13; amended: Gazette 25 Aug 2015 p. 3382; SL 2020/252 r. 86.]

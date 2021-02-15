@@ -1,6 +1,6 @@
-## Schedule 4 — Form of estimate of fees for services for structure plans, activity centre plans and local development plans
+## Schedule 4 — Form of estimate of fees for services for structure plans and local development plans
 [r. 48(4)]
-[Heading amended: Gazette 25 Aug 2015 p. 3382.]
+[Heading amended: Gazette 25 Aug 2015 p. 3382; SL 2020/252 r. 87.]
 Task | Estimated hours
  | Head of planning | Senior Planner | Planning Officer | Other staff e.g. environmental health officer | Secretary/ administrative officer
 1.Preliminaries:
@@ -35,6 +35,6 @@ Total salary costs b/f (sum of amounts in previous row) | $
 +Special costs | $
 = Estimated total fee | $
 Notes to Form —
-1.This form is based on the provisions for the adoption and amendment of structure plans, activity centre plans and local development plans set out in the Planning and Development (Local Planning Scheme) Regulations 2015. Item 5 should not be included for local development plans as these are not referred to the Commission.
-2.If readvertising of a proposed structure plan, activity centre plan or local development plan or a proposed amendment to one of those plans is required, the hours needed to arrange the readvertising and review the submissions and the direct costs incurred in readvertising the plan or the amendment are to be included in items 3, 4 and 5.
-[Schedule 4 amended: Gazette 25 Aug 2015 p. 3382-3.]
+1.This form is based on the provisions for the adoption and amendment of structure plans and local development plans set out in the Planning and Development (Local Planning Scheme) Regulations 2015. Item 5 should not be included for local development plans as these are not referred to the Commission.
+2.If readvertising of a proposed structure plan or local development plan or a proposed amendment to one of those plans is required, the hours needed to arrange the readvertising and review the submissions and the direct costs incurred in readvertising the plan or the amendment are to be included in items 3, 4 and 5.
+[Schedule 4 amended: Gazette 25 Aug 2015 p. 3382-3; SL 2020/252 r. 88.]
