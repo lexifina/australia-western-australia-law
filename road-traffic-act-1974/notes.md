@@ -164,13 +164,13 @@ Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 120 | 4 o
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 2 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 3 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Road Traffic Amendment (Blood Alcohol Content) Act 2019 | 20 of 2019 | 15 Aug 2019 | Pt. 1: 15 Aug 2019 (see s. 2(a)); Act other than Pt. 1: 12 Sep 2019 (see s. 2(b))
-Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 s. 3, 24, 26 and 39 | 27 of 2020 | 9 Jul 2020 | s. 3 and 39: 12 Oct 2020 (see s. 2(1)(b) and SL 2020/148 cl. 2); s. 24 and 26: 28 Oct 2020 (see s. 2(1)(b) and SL 2020/199 cl. 2)
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 s. 3, 24, 26, 29(10), 33 and 39 | 27 of 2020 | 9 Jul 2020 | s. 3 and 39: 12 Oct 2020 (see s. 2(1)(b) and SL 2020/148 cl. 2); s. 24 and 26: 28 Oct 2020 (see s. 2(1)(b) and SL 2020/199 cl. 2); s. 29(10) and 33: 26 Feb 2021 (see s. 2(1)(b) and SL 2020/254 cl. 2)
 Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 2 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 2 (other than s. 3, 24, 26 and 39) | 27 of 2020 | 9 Jul 2020 | s. 29(10) and 33: 26 Feb 2021 (see s. 2(1)(b) and SL 2020/254 cl. 2); Pt. 2 (other than s. 3, 24, 26, 29(10), 33 and 39): to be proclaimed (see s. 2(1)(b))
+Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 2 (other than s. 3, 24, 26, 29(10), 33 and 39) | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(a)-(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Footnote no longer applicable.
@@ -304,7 +304,7 @@ Defined terms
 Defined termProvision(s)
 above the speed limit49AAA
 alleged offence71C(1), 71C(1)
-alleged offender71C(1), 79BCA(1), 79BCD(1), 79D(2) and (6)
+alleged offender 71C(1), 79BCA(1), 79BCD(1), 79D(2) and (6)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
 amendment Act109(1)
@@ -313,22 +313,27 @@ approved78A(1)
 approved device65
 approved expert70(7)
 authorised drug tester65
+authorised enforcement action91, 93
 authorised person65
 blood alcohol content65
 breath analysing equipment65
+business day91
 business owner79D(2)
 cancellation provision62B(3), 64A(1A)
 circumstances of aggravation49AB(1)
-commencement day72(8), 72A(1), 109(1), 110(1)
+commencement day72(8), 72A(1), 91, 109(1), 110(1)
 Commissioner78A(1), 80G(1)
 conduct65
 confiscated motor cycle80V(1)
 confiscated vehicle80J(1)
 confiscation zone49AAA
+consent91, 92(1)
+controller91
 day of the offence78A(1)
+debtor105C(4)
 dentist65
 disqualification notice71C(2)
-driver49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1), and (4), 59(1), 59A(1),
+driver49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1) and (4), 59(1), 59A(1),
 59BA(1), 79BC(1)
 driver assessment65
 drug65
@@ -356,6 +361,9 @@ interest78A(1)
 item80J(1), 80M(1), 80V(1)
 learner driver49AAA
 lent78A(1)
+load91
+maximum storage charges amount105A(1)
+maximum towing charges amount105(1)
 medical practitioner65
 Minister72(3A)
 motor cycle49AAA
@@ -364,7 +372,11 @@ notice to surrender79BCC(1)
 nurse practitioner65
 offence60B(1), 79BA(1), 79BCA(1), 79BCD(1)
 offender71B(1), 80LA(1)
+on-site release charge91, 100(2)
 order80G(1), 81A
+parked91
+parking agreement91
+parking facility91
 passenger transport vehicle79D(1)
 person66(7)
 police officer71C(1), 79BA(1)
@@ -375,19 +387,26 @@ prescribed authorisation —49AB(1AA)
 prescribed illicit drug65
 prescribed sample taker65
 previous offender79(1A), 79BC(1)
+prohibition notice71BA(1)
+provide a prohibited service105H(1)
 provide driving instruction49AAA
 provider of a passenger transport vehicle79D(1)
+public entity91
 radar detector81G(1)
 reasonable expenses78A(1)
 reckless manner60(1)
 registered nurse65
 relevant offence49(7)
+relevant person91
+relevant premises97(1), 100(1)
 requirement67(1), 67AA(1), 67AB(1), 68A(1)
 road81A
 road rage circumstances78A(1)
 road rage offence78A(1)
 sample71A(1)
 school zone49AAA
+security interest91
+security power91
 self-testing breath analysing equipment65
 selling expenses80LA(2)
 senior police officer78A(1)
@@ -395,6 +414,8 @@ serious bodily harm66(8A)
 service79D(1)
 shorter impounding period79BC(2) and (3)
 speed limit49AAA
+storage charges91
+storage yard91
 subject71A(1)
 substitute vehicle79BCA(4), 79B(3A)
 surrender alternative vehicle notice79BCD(2)
@@ -403,6 +424,12 @@ surrender period78A(1)
 surrender substitute vehicle notice79BCA(2)
 suspected use80N
 technologist70(7)
+tow91
+tow truck91
+tow truck driver91
+towing arrangement91, 94(1)
+towing charges91
+towing service provider91, 94(1)
 uncollected vehicle80J(1), 80M(1)
 undergoes65
 vehicle79BA(1)
