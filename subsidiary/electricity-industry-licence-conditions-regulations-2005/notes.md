@@ -9,6 +9,7 @@ Electricity Corporations (Consequential Amendments) Regulations 2006 r. 74 | 31 
 Reprint 1: The Electricity Industry (Licence Conditions) Regulations 2005 as at 4 Nov 2011 (includes amendments listed above )
 Electricity Industry (Licence Conditions) Amendment Regulations 2017 | 13 Jun 2017 p. 2882-3 | r. 1 and 2: 13 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2): 14 Jun 2017 (see r. 2(b))
 Electricity Industry (Licence Conditions) Amendment Regulations 2020 | SL 2020/146 1 Sep 2020 | r. 1 and 2: 1 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2020 (see r. 2(b))
+Electricity Industry (Licence Conditions) Amendment Regulations 2021 | SL 2021/27 26 Feb 2021 | r. 1 and 2: 26 Feb 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Feb 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
