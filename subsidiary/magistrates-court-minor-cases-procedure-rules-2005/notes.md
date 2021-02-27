@@ -19,6 +19,7 @@ Magistrates Court Rules Amendment Rules 2017 Pt. 3 | 21 Jul 2017 p. 4024-7 | 22 
 Magistrates Court Rules Amendment Rules 2018 Pt. 3 | 18 Sep 2018 p. 3515-16 | 19 Sep 2018 (see r. 2(b))
 Magistrates Court Rules Amendment (Inactive Cases) Rules 2019 Pt. 3 | 5 Apr 2019 p. 1012-16 | 6 Apr 2019 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2020 Pt. 3 | SL 2020/67 28 May 2020 | 1 Jun 2020 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2021 Pt. 4 | SL 2021/25 26 Feb 2021 | 27 Feb 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -34,6 +35,8 @@ counterclaim4
 default judgment4
 defendant4
 departmental officer4
+ECMS4
+ECMS exempt4
 enforcement officer4
 former Rules82
 inactive case45A

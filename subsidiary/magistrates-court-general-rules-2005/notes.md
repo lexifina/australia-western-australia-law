@@ -27,6 +27,7 @@ Magistrates Court (General) Amendment Rules 2015 | 18 Dec 2015 p. 5077 | r. 1 an
 Magistrates Court (General) Amendment Rules 2018 | 4 Dec 2018 p. 4629-30 | r. 1 and 2: 4 Dec 2018 (see r. 2(a)); Rules other than r. 1 and 2: 5 Dec 2018 (see r. 2(b))
 Magistrates Court (General) Amendment Rules 2019 | 26 Mar 2019 p. 946-7 | r. 1 and 2: 26 Mar 2019 (see r. 2(a)); Rules other than r. 1 and 2: 27 Mar 2019 (see r. 2(b))
 Magistrates Court (General) Amendment Rules (No. 2) 2019 | 31 Dec 2019 p. 4674-5 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2021 Pt. 3 | SL 2021/25 26 Feb 2021 | 27 Feb 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -41,6 +42,8 @@ contempt29
 CPA3
 defendant29
 ECMS3
+ECMS exempt3
+electronic notification13C(2)
 exhibit40A, 40B
 Form3
 lodge3

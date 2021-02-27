@@ -32,6 +32,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules 2020 | SL 2020/37 9 Apr 20
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2020 | SL 2020/54 5 May 2020 | r. 1 and 2: 5 May 2020 (see r. 2(a)); Rules other than r. 1, 2 and 10(b): 6 May 2020 (see r. 2(c)); r. 10(b): 23 May 2020 (see r. 2(b) and SL 2020/63)
 Magistrates Court Rules Amendment Rules 2020 Pt. 2 | SL 2020/67 28 May 2020 | 1 Jun 2020 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2020 | SL 2020/141 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); Rules other than r. 1 and 2: 29 Aug 2020 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2021 Pt. 2 | SL 2021/25 26 Feb 2021 | 27 Feb 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,9 +43,11 @@ applicant133AAD(1)
 application4, 123
 approved form4
 approved user4
+audio link123
 child116
 claimant65(1), 94A
 commencement day139
+Commissioner of Police130D(1)
 conference131CAB(1)
 conferring Act123
 counterclaim4
@@ -53,12 +56,16 @@ defendant4, 65(1)
 departmental officer99A
 determined value87
 ECMS4
+ECMS exempt95
 enforcement officer4
+Fines Enforcement Registrar123
 first party66
 former Rules139
 hearing details131CA(4)
 inactive case95A
 lodge4
+lodge a document95
+offender123
 order4
 originating claim4
 other party133AAD(5)
@@ -86,5 +93,7 @@ third party claim4
 transitional case139
 trial date4
 unsuccessful party4
+video link123
 warehouseman133AAA
+warrant of commitment inquiry123
 working day4
