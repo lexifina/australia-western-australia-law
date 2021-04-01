@@ -45,11 +45,12 @@ Citation | Published | Commencement
  | Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3499 | r. 1 and 2: 27 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2019 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations (No. 3) 2019 | 24 Dec 2019 p. 4430-1 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Dec 2019 (see r. 2(b))
- | State Administrative Tribunal Amendment Regulations 2020 | SL 2020/23 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations (No. 4) 2019 | 31 Dec 2019 p. 4657-60 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+ | State Administrative Tribunal Amendment Regulations 2020 | SL 2020/23 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
  | Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 9 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations (No. 2) 2020 | SL 2020/136 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
  | State Administrative Tribunal Amendment Regulations (No. 3) 2020 | SL 2020/158 21 Sep 2020 | r. 1 and 2: 21 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2020 (see r. 2(b))
+ | State Administrative Tribunal Amendment Regulations 2021 | SL 2021/31 26 Mar 2021 | r. 1 and 2: 26 Mar 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2021 (see r. 2(b))
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
