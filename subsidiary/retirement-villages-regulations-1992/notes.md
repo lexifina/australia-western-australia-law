@@ -21,6 +21,7 @@ Retirement Villages Amendment Regulations (No. 2) 2019 | 27 Sep 2019 p. 3497-8 |
 Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 5 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Retirement Villages Amendment Regulations 2020 | SL 2020/22 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
 Retirement Villages Amendment Regulations (No. 2) 2020 | SL 2020/157 21 Sep 2020 | r. 1 and 2: 21 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2020 (see r. 2(b))
+Retirement Villages Amendment Regulations 2021 | SL 2021/32 26 Mar 2021 | r. 1 and 2: 26 Mar 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2021 (see r. 2(b))
 Other notes
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
 (2) Despite subregulation (1), if the owner of a retirement village is required, under section 13(2) of the Retirement Villages Act 1992, to give a statement containing information prescribed by regulation 4 of the Retirement Villages Regulations 1992, between 1 October 2003 and 31 December 2003 (inclusive), the owner satisfies the requirements of section 13(2) if either —
