@@ -28,6 +28,7 @@ Road Traffic (Vehicles) Amendment Regulations (No. 3) 2020 | SL 2020/73 9 Jun 20
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 4 | SL 2020/74 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Road Passenger Services) Regulations 2020 Pt. 4 | SL 2020/91 24 Jun 2020 | 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2)
 Transport Regulations Amendment (Road Traffic) Regulations (No. 2) 2020 Pt. 3 | SL 2020/231 4 Dec 2020 | 14 Dec 2020 (see r. 2(b) and SL 2020/229 cl. 2)
+Road Traffic (Vehicles) Amendment Regulations (No. 4) 2021 | SL 2021/37 9 Apr 2021 | r. 1 and 2: 9 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2021 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -54,14 +55,14 @@ For the purposes of the Road Traffic (Vehicles) Act 2012 section 18, the specifi
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-50 mm kingpin367
+50 mm kingpin366(5)
 75 mm kingpin367
 90 mm kingpin367
 access approval202
 accredited212
 adopted standard226
 ADR226
-affected person470(1), 479(1)
+affected person470(1), 479
 agricultural combination3
 agricultural implement3
 agricultural machine 3
@@ -69,16 +70,17 @@ agricultural special purpose vehicle52(1)
 agricultural vehicle3
 AI exemption502(1)
 air brake226
-air storage tank3
 Airservices Australia3
 Airservices Australia vehicle3
+air storage tank3
 alcohol interlock235(1)
 amend454N(1)
 animal drawn vehicle390
 application103, 455
-approved454A
+approved454(6)
 approved air suspension system161
 approved material259(1)
+approved motoring organisation84A(1)
 articulated bus3
 articulated vehicle418(1)
 assessor146
@@ -91,8 +93,8 @@ authorised passenger transport vehicle109
 B-double3
 bicycle3
 brake light308(1)
-braking system226
-British Standard226
+braking system225
+British Standard225
 built-up area449(1)
 bus3, 323
 car3
@@ -106,16 +108,17 @@ certificate of inspection3
 certified to ADR 83/00357A
 character3
 class 1 vehicle190
-class 2 vehicle203(2)
+class 2 vehicle203(1)
 class 3 vehicle190
+classic vehicle84A(1)
 clearance light432(1)
 combination3, 166(1)
 commencement day454ZC(1), 484
-Commission357(1)
+Commission356(1)
 compliance plate3
 compliance time152(1)
 complying bus161
-compressed air reserve334(1A)
+compressed air reserve334
 condensate drain valve334(1A)
 connector366(5)
 consulting officer481
@@ -133,6 +136,7 @@ departmental exemption505(1)
 derivative of a car235(1)
 diesel engine3
 direction indicator light312(1), 313(1)
+discount period84(1)
 dog trailer3
 drawbar3
 driver’s licence454A
@@ -142,11 +146,12 @@ emission control system356(1)
 engine identification number3
 escort vehicle3
 exempt vehicle327(4)
-expiry day454O(1)
+expiry day454N(1)
 farm52(1)
 farmer52(1)
 farming business52(1)
 fifth wheel coupling3
+financial member84A(1)
 former provision502(2), 504(2), 505(2), 506(3)
 former regulation 60506(1)
 former section 25(1)503(1)
@@ -165,8 +170,8 @@ heavy vehicle pilot licence454A
 high-beam3
 holder138
 HVNL224(1)
-ID prevention state120(1)
 identifier3
+ID prevention state120(1)
 imitation plate109
 Immigration and Border Protection worker3
 improvement notice481
@@ -181,9 +186,9 @@ left3, 237
 licence103
 licence holder3
 lighting equipment426(1)
-load capacity414(1)
-Load Restraint Guide187(1)
+load capacity413(1)
 loaded mass3
+Load Restraint Guide187
 load-sharing suspension system3
 low-beam3
 luminous transmittance260(1)
@@ -198,16 +203,17 @@ moped3
 motor carrier86
 motor cycle3
 motor home3
+motoring event84A(1)
+motorised wheelchair3
 motor tricycle3
 motor vehicle3, 167(1), 168(1), 244(1)
-motorised wheelchair3
 mudguard3
 name plate109
 national standard226
 nearer side of the vehicle3
 new owner51(1)
 notifiable146
-number274(1)
+number273(1)
 obscuring device120(1)
 obscuring device action120(1)
 omnibus3, 380(1)
@@ -225,8 +231,8 @@ passenger transport service109
 passenger transport vehicle109
 passenger transport vehicle authorisation109
 peak hours3
-permit43, 190, 202
-personal details50(1)
+permit43, 189, 202
+personal details48(1)
 personalised plates109
 personally imported vehicle241(1)
 pig trailer3
@@ -236,7 +242,7 @@ point of articulation3
 pole-type trailer3, 390
 Police Service employee453(2)
 prime mover3
-proposed action454Q(1), 466(2)
+proposed action454P(1), 466(2)
 provisional licence454A
 radial ply tyre266(1)
 read120(1)
@@ -244,14 +250,15 @@ rear fog light226, 315(1A)
 rear glazing260(1)
 rear marking plate328(1)
 rear overhang3
+reduced charge84A(1)
 reflective plate109
 region86
 registered training provider454E(1)
 renewal application454A
-renewal period30(1)
+renewal period30
 repair146
 repairable write-off3
-retractable axle164(1)
+retractable axle164
 reviewable decision478
 right3, 237
 road202
@@ -274,30 +281,30 @@ spring brake334(1A)
 Statement of Attainment454E(1)
 statutory write-off3
 stock52(1)
-street rod vehicle226
+street rod vehicle3
 submission date454Q(2)
 Table38(1)
 Technical Guide150(3)
 third edition ADR226
 total loss146
 tow423(1)
-tow coupling overhang379(1)
-tow truck3
+tow coupling overhang378(1)
 towed vehicle423(1)
 towing vehicle423(1)
+tow truck3
 trade plate109
 trailer3, 167(1), 168(1)
 trailer derivative38(1)
-transitional pilot454ZC(1)
+transitional pilot454ZC
 transparent material259(1)
 transport enforcement vehicle226
 turntable3
-unloaded mass3
+unloaded mass2
 used423(1)
 vacuum brakes226
 vacuum reserve334(1A)
 vacuum storage tank3
-vehicle165(1), 167(1), 179(2), 180(1), 181(1), 236(1), 238(1)
+vehicle165(1), 167, 179(2), 180(1), 180(1), 236(1), 238(1)
 vehicle examiner12, 20(1)
 vehicle identification number (VIN)3
 vehicle licensing reviewable decision478
