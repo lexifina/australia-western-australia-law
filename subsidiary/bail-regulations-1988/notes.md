@@ -24,6 +24,7 @@ Reprint 3: The Bail Regulations 1988 as at 12 Jan 2018 (includes amendments list
 Bail Amendment Regulations 2018 | 29 Jun 2018 p. 2436-7 | r. 1 and 2: 29 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 2 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
 Bail Amendment Regulations 2020 | SL 2020/235 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
+Attorney General Regulations Amendment (Forms) Regulations 2021 Pt. 2 | SL 2021/38 9 Apr 2021 | 10 Apr 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
