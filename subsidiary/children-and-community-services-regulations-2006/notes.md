@@ -27,6 +27,7 @@ Children and Community Services Amendment Regulations 2018 | 22 Jun 2018 p. 2178
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2019 Pt. 3 | 28 Jun 2019 p. 2477-9 | 1 Jul 2019 (see r. 2(b))
 Children and Community Services Amendment Regulations 2020 | SL 2020/142 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2020 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 2) 2020 | SL 2020/237 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
+Children and Community Services Amendment Regulations 2021 | SL 2021/36 9 Apr 2021 | r. 1 and 2: 9 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2021 (see r. 2(b))
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
@@ -34,13 +35,13 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 audio link9
-bodily sample16A
-care plan5(2)
+bodily sample15
+care plan5(1)
 commencement day24
-donor16A
+donor14(2)
 guardian16A
 HLA16A
-incident7
+incident6
 medical practitioner16A
 NATA16A
 nominated reporter16A
@@ -52,8 +53,8 @@ report16A, 16
 represented person16A
 responsible person16A
 sample16A
-sampler16A
+sampler15
 section3
-seized article8(1)
-testing16A
+seized article8
+testing15
 video link9
