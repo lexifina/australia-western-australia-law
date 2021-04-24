@@ -153,6 +153,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt
 Mining Amendment (COVID-19 Response) Regulations 2020 (other than r. 4(3), 6 and 7(2)) | SL 2020/108 30 Jun 2020 | r. 1 and 2: 30 Jun 2020 (see r. 2(a)); Regulations other than r. 1, 2, 4(3), 6 and 7(2): 1 Jul 2020 (see r. 2(c))
 Mining Amendment Regulations (No. 4) 2020 | SL 2020/117 17 Jul 2020 | r. 1 and 2: 17 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2020 (see r. 2(b))
 Mining Amendment Regulations (No. 2) 2020 | SL 2020/119 17 Jul 2020 | r. 1 and 2: 17 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2020 (see r. 2(b))
+Mining Amendment Regulations (No. 2) 2021 | SL 2021/43 23 Apr 2021 | r. 1 and 2: 23 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Apr 2021 (see r. 2(b) and SL 2021/44 r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -207,9 +208,9 @@ Director116, 120P
 Director Operations, Resource and Environmental Compliance Division2
 document59A(1)
 Dry Freight Wire86AD(1)
+environmental officer2
 environment information96CA(1)
 environment report96CA(1)
-environmental officer2
 Executive Director, Resource and Environmental Compliance Division2
 existing amount86(2d)
 existing exploration licence2, Sch. 3 cl. 1(1)
@@ -255,6 +256,7 @@ net input tax credit85AA(4)
 nickel by-product85(1)
 numberSch. 3 cl. 1(1)
 objection137(1)
+officer137(1)
 operations report96(1)
 other tenementSch. 3 cl. 7(5)
 party137(1)
