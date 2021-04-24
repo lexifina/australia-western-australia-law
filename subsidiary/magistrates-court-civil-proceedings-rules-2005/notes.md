@@ -33,6 +33,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2020 | SL 2020/54 
 Magistrates Court Rules Amendment Rules 2020 Pt. 2 | SL 2020/67 28 May 2020 | 1 Jun 2020 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2020 | SL 2020/141 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); Rules other than r. 1 and 2: 29 Aug 2020 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2021 Pt. 2 | SL 2021/25 26 Feb 2021 | 27 Feb 2021 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2021 | SL 2021/45 23 Apr 2021 | r. 1 and 2: 23 Apr 2021 (see r. 2(a)); Rules other than r. 1 and 2: 24 Apr 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -61,7 +62,7 @@ enforcement officer4
 Fines Enforcement Registrar123
 first party66
 former Rules139
-hearing details131CA(4)
+hearing details131CA(5)
 inactive case95A
 lodge4
 lodge a document95
