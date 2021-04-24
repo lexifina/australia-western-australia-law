@@ -1,15 +1,15 @@
 ### Form 32Security
-Form 32 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 126 Reg. 112)
- | SECURITY
- | By this security the subscriber is for himself, his executors and administrators or in the case of a subscriber being a corporation for its successors and assigns pursuant to the Mining Act 1978 bound to the Minister in the State of Western Australia in the sum of
-(a)Amount of security | (a)
- | subject only to this condition that, if
-(b)Full name and residential or business address (see Note 1) of applicant or holder | (b)
- | shall comply with the conditions to which
-(c)Insert details of type number and Mineral Field for the mining tenement or application therefor | (c)
- | is, or will from time to time be subject, and with the provisions of the Mining Act 1978 and regulations thereunder then this security shall be thereby discharged.
- | DATED at this day of 20
-(d)Signature of applicant/ holder (e)Signature, full name and address of witness | Applicant or Holder in the presence of Witness signs here signs here (d) (e)
+ | Form 32 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 126 Reg. 112)
+ |  | SECURITY
+ |  | By this security the subscriber is for himself, his executors and administrators or in the case of a subscriber being a corporation for its successors and assigns pursuant to the Mining Act 1978 bound to the Minister in the State of Western Australia in the sum of
+ | (a)Amount of security | (a)
+ |  | subject only to this condition that, if
+ | (b)Full name and residential or business address (see Note 1) of applicant or holder | (b)
+ |  | shall comply with the conditions to which
+ | (c)Insert details of type number and Mineral Field for the mining tenement or application therefor | (c)
+ |  | is, or will from time to time be subject, and with the provisions of the Mining Act 1978 and regulations thereunder then this security shall be thereby discharged.
+ |  | DATED at this day of 20
+ | (d)Signature of applicant/ holder (e)Signature, full name and address of witness | Applicant or Holder in the presence of Witness signs here signs here (d) (e)
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20
 .................................................................... Mining Registrar

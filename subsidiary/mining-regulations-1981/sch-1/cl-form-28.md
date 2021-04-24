@@ -1,12 +1,12 @@
 ### Form 28Devolution
-Form 28 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 102)
- | DEVOLUTIONNo.
-(a)Type (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement (or application therefor) and interest (a)(b) (c)(d)
-(e)Document from which title derived | (e)
-(f)Full name and address of executor or administrator | (f)
-*Copy of document to be attached | hereby applies to be registered as the holder of the above mentioned interest and *attached hereto is a copy of the document referred to in (e) above DATED this day of 20
-(g)Signature of executor or administrator | (g) ...............................................................................................................
-LODGING PARTY (h)Full name and address (for return of documents) | (h)
+ | Form 28 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 102)
+ |  | DEVOLUTIONNo.
+ | (a)Type (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement (or application therefor) and interest (a)(b) (c)(d)
+ | (e)Document from which title derived | (e)
+ | (f)Full name and address of executor or administrator | (f)
+ | *Copy of document to be attached | hereby applies to be registered as the holder of the above mentioned interest and *attached hereto is a copy of the document referred to in (e) above DATED this day of 20
+ | (g)Signature of executor or administrator | (g) ...............................................................................................................
+ | LODGING PARTY (h)Full name and address (for return of documents) | (h)
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ............................................................................................
 .................................................................... Mining Registrar

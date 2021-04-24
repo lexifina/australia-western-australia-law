@@ -1,12 +1,12 @@
 ### Form 24Caveat
-Form 24 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 122A Reg. 76)
- | CAVEATNo.
-(a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
-(d)Specify “the whole” or the number of shares being caveated (e)Full name of holder of shares being caveated | Interest being caveated (d) (e)
-(f)Full name and address of caveator | Caveator (f)
-(g)Specify the grounds on which the claim is made. (See Note 1) *See Note 2 (h)Address within the State for service of notices | THE CAVEATOR claims an interest as specified in the abovementioned mining tenement BY VIRTUE OF (g) and whilst this caveat remains in force FORBIDS the registration of any transfer or other instrument affecting such tenement or interest* and appoints (h) as the place at which notices and proceedings relating to this caveat may be served DATED this day of 20
-(i)Signature of caveator (j)If agent, full name and address required (k)Signature of witness (full name and address required) | Caveator or agent signs here Signed (i)....................................................................................................... Signed (agent) (j)............................................................................................ Full name....................................................................................................... Address.......................................................................................................... Witness signs here in the presence of (k)..................................................................................... Full name...................................................................................................... Address.........................................................................................................
-(l)Full name and address (for return of documents) | (l)
+ | Form 24 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 122A Reg. 76)
+ |  | CAVEATNo.
+ | (a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (a)(b) (c)
+ | (d)Specify “the whole” or the number of shares being caveated (e)Full name of holder of shares being caveated | Interest being caveated (d) (e)
+ | (f)Full name and address of caveator | Caveator (f)
+ | (g)Specify the grounds on which the claim is made. (See Note 1) *See Note 2 (h)Address within the State for service of notices | THE CAVEATOR claims an interest as specified in the abovementioned mining tenement BY VIRTUE OF (g) and whilst this caveat remains in force FORBIDS the registration of any transfer or other instrument affecting such tenement or interest* and appoints (h) as the place at which notices and proceedings relating to this caveat may be served DATED this day of 20
+ | (i)Signature of caveator (j)If agent, full name and address required (k)Signature of witness (full name and address required) | Caveator or agent signs here Signed (i)....................................................................................................... Signed (agent) (j)............................................................................................ Full name....................................................................................................... Address.......................................................................................................... Witness signs here in the presence of (k)..................................................................................... Full name...................................................................................................... Address.........................................................................................................
+ | (l)Full name and address (for return of documents) | (l)
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
 .................................................................... Mining Registrar
