@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -39,10 +39,7 @@ Building Amendment Regulations (No. 2) 2020 | SL 2020/28 31 Mar 2020 | r. 1 and 
 Building Amendment Regulations (No. 3) 2020 | SL 2020/46 24 Apr 2020 | r. 1 and 2: 24 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2020 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Building Amendment Regulations (No. 5) 2020 | SL 2020/192 9 Oct 2020 | r. 1 and 2: 9 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Building Amendment Regulations 2021 r. 3-12 | SL 2021/42 13 Apr 2021 | 1 May 2021 (see r. 2(b))
+Building Amendment Regulations 2021 | SL 2021/42 13 Apr 2021 | r. 1 and 2: 13 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2021 (see r. 2(b))
 Other notes
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -68,14 +65,15 @@ Building Code3
 Building Code pool barrier requirements3
 building product31J(1)
 building site3
+bushfire attack level (BAL)3
 bush fire performance requirement3
 bush fire prone area3
-bushfire attack level (BAL)3
+bush fire standard31BA(1A)
 business day3
 Class3
 CodeMark certificate31J(1)
 commencement date 31HA(1)
-commencement day3, 31BA(8)
+commencement day3, 31HB(1)
 Commissioner14A(1)
 CV33
 debris criteria 31HA(1)
@@ -95,8 +93,7 @@ fire resistance performance requirement3
 former provisions3
 GSTSch. 1 cl. 1
 Heritage Act3
-licensed surveyor39(1)
-local planning scheme3, 31BA(8)
+local planning scheme3, 31HB(1)
 managed reserve10(1A)
 management body10(1A)
 new owner57(1)
@@ -113,7 +110,7 @@ pre-May 2016 private swimming pool 3
 prior owner57(1)
 private swimming pool3
 public place44A
-relevant building31BA(1A)
+relevant building31BA(1A), 31D
 relevant building standards48A(1)
 relevant componentsSch. 1 cl. 1
 relevant day60(1)
@@ -129,6 +126,7 @@ section3
 sole-occupancy unit3
 specified employee70(1A)
 Statistician14A(1)
+strata leasehold estate10(1A)
 swimming pool3
 Table41(2)
 townsite3
