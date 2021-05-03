@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -148,9 +148,6 @@ Supreme Court Amendment Rules (No. 3) 2018 | 28 Aug 2018 p. 2991-2 | r. 1 and 2:
 Supreme Court Amendment Rules (No. 3) 2019 | 31 Dec 2019 p. 4677-8 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Supreme Court Amendment Rules (No. 5) 2020 | SL 2020/228 27 Nov 2020 | r. 1 and 2: 27 Nov 2020 (see r. 2(a)); Rules other than r. 1 and 2: 28 Nov 2020 (see r. 2(b))
 Supreme Court Amendment Rules (No. 2) 2020 | SL 2020/242 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Rules other than r. 1 and 2: 19 Dec 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Supreme Court Rules Amendment (Court of Appeal) Rules 2021 Pt. 3 | SL 2021/34 30 Mar 2021 | 3 May 2021 (see r. 2(b))
 Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).

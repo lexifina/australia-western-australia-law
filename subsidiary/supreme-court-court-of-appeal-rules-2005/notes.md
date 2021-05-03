@@ -1,13 +1,10 @@
 Notes
-This is a compilation of the Supreme Court (Court of Appeal) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Supreme Court (Court of Appeal) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Supreme Court (Court of Appeal) Rules 2005 | 29 Apr 2005 p. 1803-75 | 2 May 2005 (see r. 2)
 Supreme Court Rules Amendment Rules 2017 Pt. 3 | 16 Aug 2017 p. 4391-427 | 30 Aug 2017 (see r. 2(c))
 Supreme Court (Court of Appeal) Amendment Rules 2017 | 22 Aug 2017 p. 4517-44 | r. 1 and 2: 22 Aug 2017 (see r. 2(a)); Rules other than r. 1 and 2: 5 Sep 2017 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Supreme Court Rules Amendment (Court of Appeal) Rules 2021 Pt. 2 | SL 2021/34 30 Mar 2021 | 3 May 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
