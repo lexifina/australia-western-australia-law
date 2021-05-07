@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Port Authorities Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Port Authorities Regulations 2001 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Gazettal | Commencement
 Port Authorities Regulations 2001 | 18 May 2001 p. 2417-545 | 1 Jun 2001 (see r. 2)
@@ -54,6 +54,10 @@ Port Authorities Amendment Regulations 2014 | 8 Jan 2015 p. 61-3 | r. 1 and 2: 8
 Transport Regulations Amendment (Vessel Pilotage) Regulations 2016 Pt. 2 | 16 Sep 2016 p. 3943-5 | Pt. 2 (other than r. 4(2)): 17 Sep 2016 (see r. 2(c)); r. 4(2): 17 Sep 2017 (see r. 2(b))
 Port Authorities Amendment Regulations 2017 | 3 Oct 2017 p. 5037-48 | r. 1 and 2: 3 Oct 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Oct 2017 (see r. 2(b))
 Transport Regulations Amendment (Pilotage) Regulations 2018 Pt. 2 | 11 May 2018 p. 1511-12 | 12 May 2018 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Port Authorities Amendment Regulations 2021 r. 3-33 | SL 2021/52 7 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -72,8 +76,8 @@ boating safety exclusion zoneSch. 1 cl. 38(1)
 cargo vessel22
 channelSch. 1 cl. 106(4)
 collector of port charges3
-commercial vesselSch. 1 cl. 5D, Sch. 1 cl. 11(3), Sch. 1 cl. 36
-dangerous goodsSch. 1 cl. 8(4), Sch. 1 cl. 70(4)
+commercial vesselSch. 1 cl. 5D, Sch. 1 cl. 11(3) and 36
+dangerous goodsSch. 1 cl. 8(4) and 70(4)
 departmentSch. 1 cl. 66
 designated by notices or signs69
 details of cargo60(2)
@@ -84,9 +88,9 @@ excavation licenceSch. 1 cl. 94
 excavation work97(3), Sch. 1 cl. 94
 exempt master22
 exempt vessel22
-explosivesSch. 1 cl. 8(4), Sch. 1 cl. 70(4)
+explosivesSch. 1 cl. 8(4) and 70(4)
 first vessel40(1)
-fishing vesselSch. 1 cl. 2, Sch. 1 cl. 5D, Sch. 1 cl. 36
+fishing vesselSch. 1 cl. 2, 5D and 36
 Geraldton HarbourSch. 1 cl. 106(4)
 in charge of a vesselSch. 1 cl. 73
 Inner HarbourSch. 1 cl. 66
@@ -95,17 +99,17 @@ Iron Ore (Hamersley Range) AgreementSch. 1 cl. 36
 launching place93(1)
 length overall3
 Marine Act3
-mooringSch. 1 cl. 5J, Sch. 1 cl. 13, Sch. 1 cl. 49
-mooring buoySch. 1 cl. 5P(1), Sch. 1 cl. 19(1), Sch. 1 cl. 55(1)
-mooring handbookSch. 1 cl. 5J, Sch. 1 cl. 49
-mooring ownerSch. 1 cl. 5J, Sch. 1 cl. 13, Sch. 1 cl. 49
-motor boat98(2), Sch. 1 cl. 101(2), Sch. 1 cl. 105(2)
+mooringSch. 1 cl. 5J, 13 and 49
+mooring buoySch. 1 cl. 5P(1), 19(1) and 55(1)
+mooring handbookSch. 1 cl. 5J and 49
+mooring ownerSch. 1 cl. 5J and 13 and 49
+motor boat98(2), Sch. 1 cl. 101(2) and 105(2)
 motor vehicle3
 Navigation Act3
 no-parking area100
 normal working hours22
 no-stopping area100
-obstructionSch. 1 cl. 27(1), Sch. 1 cl. 92(1)
+obstructionSch. 1 cl. 27(1) and 92(1)
 offence79(6)
 offender115(1)
 Outer HarbourSch. 1 cl. 66
@@ -121,14 +125,14 @@ port authority3
 port services70(2)
 prescribed condition52(5)
 private vessel3
-prohibited anchorage areaSch. 1 cl. 5I(1), Sch. 1 cl. 48(4)
+prohibited anchorage areaSch. 1 cl. 5I(1) and 48(4)
 property of a port authority3
 property of the port authority3
-restricted areaSch. 1 cl. 5ZA(1), Sch. 1 cl. 110(2)
-service provider’s licenceSch. 1 cl. 2, Sch. 1 cl. 5T, Sch. 1 cl. 23, Sch. 1 cl. 31, Sch. 1 cl. 59, Sch. 1 cl. 64AA, Sch. 1 cl. 94, Sch. 1 cl. 102A, Sch. 1 cl. 107A
-small vesselSch. 1 cl. 68(4), Sch. 1 cl. 106(1)
+restricted areaSch. 1 cl. 5ZA(1) and 110(2)
+service provider’s licenceSch. 1 cl. 2, 5T and 23, Sch. 1 cl. 31, 59 and 64AA, Sch. 1 cl. 94, 102A and 107A
+small vesselSch. 1 cl. 68(4) and 106(1)
 traffic sign100
 unclaimed goods66(1)
 vehicle3
-water ski98(2), Sch. 1 cl. 101(2), Sch. 1 cl. 105(2)
+water ski98(2), Sch. 1 cl. 101(2) and 105(2)
 water ski areaSch. 1 cl. 106(4)
