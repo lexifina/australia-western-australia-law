@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Cremation Regulations 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Cremation Regulations 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Cremation Regulations 1954 | 20 Aug 1954 p. 1441-9 | 6 Sep 1954 (see r. 2)
 Untitled regulations | 17 Dec 1954 p. 2252 | 17 Dec 1954
 Reprint of the Cremation Regulations 1954 in Gazette 15 Sep 1959 p. 2339-50 (includes amendments listed above)
@@ -33,6 +33,8 @@ Cremation Amendment Regulations 2017 | 7 Mar 2017 p. 1525-6 | r. 1 and 2: 7 Mar 
 Health Regulations Amendment (Public Health Consequential Amendments) Regulations 2017 Pt. 3 | 19 Sep 2017 p. 4883-5 | 20 Sep 2017 (see r. 2(b) and Gazette 19 Sep 2017 p. 4880)
 Cremation Amendment Regulations 2018 | 6 Apr 2018 p. 1211-12 | r. 1 and 2: 6 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Apr 2018 (see r. 2(b))
 Cremation Amendment Regulations 2019 | 2 Jul 2019 p. 2645-7 | r. 1 and 2: 2 Jul 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2019 (see r. 2(b))
+Cremation Amendment Regulations 2021 | SL 2021/46 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2021 (see r. 2(b))
+Other notes
 Repealed by the Cemeteries Act 1986.
 Repealed by the Associations Incorporation Act 1987.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
