@@ -26,6 +26,7 @@ Transport Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | 
 Road Traffic Regulations Amendment (Radar Detectors) Regulations 2020 Pt. 2 | SL 2020/150 1 Sep 2020 | 12 Oct 2020 (see r. 2(b) and SL 2020/148 cl. 2)
 Transport Regulations Amendment (Road Traffic) Regulations (No. 2) 2020 Pt. 2 | SL 2020/231 4 Dec 2020 | 14 Dec 2020 (see r. 2(b) and SL 2020/229 cl. 2)
 Road Traffic (Administration) Amendment Regulations (No. 2) 2020 | SL 2020/262 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2021 (see r. 2(b) and SL 2020/254 cl. 2)
+Road Traffic (Administration) Amendment Regulations 2021 | SL 2021/53 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2021 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
