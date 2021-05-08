@@ -62,6 +62,7 @@ State Superannuation Amendment Regulations (No. 2) 2016 | 10 Jan 2017 p. 147-57 
 State Superannuation Amendment Regulations 2018 | 12 Oct 2018 p. 4060-4 | r. 1 and 2: 12 Oct 2018 (see r. 2(a)); Regulations other r. 1, 2 and 12-16: 13 Oct 2018 (see r. 2(c)); r. 12-16: 1 Nov 2018 (see r. 2(b))
 State Superannuation Amendment Regulations 2019 | 8 Nov 2019 p. 4004-6 | r. 1 and 2: 8 Nov 2019 (see r. 2(a)); Regulations other r. 1 and 2: 9 Nov 2019 (see r. 2(b))
 State Superannuation Amendment Regulations 2020 | SL 2020/135 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
+State Superannuation Amendment Regulations 2021 | SL 2021/49 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2021 (see r. 2(b))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
@@ -104,6 +105,7 @@ Australian Financial Complaints Authority3(1)
 average contribution rate12, 13(1)
 average Part 6 contribution rateSch. 2 cl. 17
 benefit47(5)
+binding death benefit nomination48(1A), 80(1A), 121(1A), 194(3), 196U(3), 219(1A)
 casual worker12
 charge percentage3(1)
 close of nominations225
@@ -124,8 +126,8 @@ continuing MemberSch. 3 cl. 1(1)
 continuing West State Super MemberSch. 3 cl. 1(1)
 contribution day12
 contribution period3(1)
-contributions tax3(1)
 contributions-split transfer3(1)
+contributions tax3(1)
 contributor64A(1), 94(3), 95(1)
 contributory membership period12, 14(1), Sch. 3 cl. 5
 covered GESB Super Member111A
@@ -133,10 +135,10 @@ covered risk benefits Member69G
 covert allowance12
 CPI rate3(1)
 currentSch. 3 cl. 1(1)
-death benefit48(4), 80(4), 121(4)
+death benefit48(1), 80(1), 121(1), 194(2), 196U(2), 219(1)
 default plan69A, 105, 183, 196J, 211
 deferred contributions option35(2)
-dependant80(4), 121(4), 219(4)
+dependant3(1)
 disablement benefit49(5), 81(5)
 discounted benefit47A(8)
 discretion noticeSch. 2 cl. 27(4)
@@ -148,7 +150,6 @@ earning rate3(1)
 earnings76A, 79AA(4), 117, 122(7)
 eligible Gold State worker12, 15(1)
 eligible risk benefits Member69G
-eligible rollover fund3(1)
 eligible statutory GESB Super Member83(1)
 eligible statutory WSS Member50(1)
 employee12A
@@ -166,10 +167,10 @@ former member3(1)
 former MemberSch. 3 cl. 55(2)
 former temporary resident3(1)
 gainfully employed50(1), 83(1)
-GESB Super (Retirement Access) Member3(1)
-GESB Super (Retirement Access) Scheme3(1)
 GESB Super account83(1)
 GESB Super Member3(1)
+GESB Super (Retirement Access) Member3(1)
+GESB Super (Retirement Access) Scheme3(1)
 GESB Super Scheme3(1)
 GESB withdrawal benefit83(1)
 Gold State Super Member3(1)
@@ -180,6 +181,7 @@ industrial commissionerSch. 2 cl. 17
 investment powers246B(4)
 Kiwisaver scheme83(1)
 life expectancy196P(4)
+limited binding death benefit nomination246C(1)
 lost member3(1)
 lost member account3(1)
 magistrateSch. 2 cl. 17
@@ -202,17 +204,18 @@ parliamentarian3(1)
 Part 1 MemberSch. 2 cl. 1(1)
 Part 2 MemberSch. 2 cl. 7
 Part 6 MemberSch. 2 cl. 17
-part payment80B(1)
 partial and permanent disablement3(1)
 partner3(1), 65BA, 97
 partner GESB Super Member83(1)
 partner WSS Member50(1)
+part payment80B(1)
 payment split219A(2)
 pension day171, 196A
 Pension Scheme3(1)
 Pension Scheme Member3(1)
 pension total171
 permanent incapacity71(1)
+permitted nominee3(1)
 personalised investment plan69A, 105, 183, 196J, 211
 phased retirement benefit3(1)
 police officerSch. 2 cl. 17
@@ -243,13 +246,13 @@ resignation daySch. 3 cl. 29(3)
 restricted non-preserved benefit3(1)
 retirement access account201
 retirement income account171
+Retirement Income (Lump Sum) Member194(1)
 Retirement Income Member3(1)
 Retirement Income Scheme3(1)
 retrenched19(2)
 retrenched transfereeSch. 2 cl. 1(1)
 returning officer225
 reversionary pensioner171
-S&FB Act3(1)
 salary or wages3(1)
 salary sacrifice agreement3(1)
 scheme entitlement amount44D(4)
@@ -257,6 +260,7 @@ section 4B contribution12A
 section 4C contribution12A
 selection day12, 69E(2), 109(2), 215(2)
 severe financial hardship47A(8), 79A(7), 123(7)
+S&FB Act3(1)
 SGA Act3(1)
 significant event224A(2)
 SIS Act3(1)
@@ -283,6 +287,7 @@ temporarily incapacitated72(1), 116(1)
 term12G(1)
 term allocated pension196A
 term allocated pension account196A
+Term Allocated Pension (Lump Sum) Member196U(1)
 Term Allocated Pension Member3(1)
 Term Allocated Pension Scheme3(1)
 total and permanent disablement12
