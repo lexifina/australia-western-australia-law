@@ -9,6 +9,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Transport (Road Passenger Services) Regulations 2020 r. 110 and Sch. 6 it. 34 and 35 | SL 2020/90 24 Jun 2020 | 1 Jul 2021 (see r. 2(b))
+Transport Regulations Amendment (Road Traffic) Regulations 2021 Pt. 3 | SL 2021/59 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
