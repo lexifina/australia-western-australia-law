@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Road Traffic (Urine Sampling and Analysis) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Urine Sampling and Analysis) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Road Traffic (Urine Sampling and Analysis) Regulations 1983 | 25 Feb 1983 p. 651-3 | 1 Mar 1983 (see r. 2)
 Road Traffic (Urine Sampling and Analysis) Amendment Regulations 1984 | 29 Jun 1984 p. 1795 | 1 Jul 1984 (see r. 2)
 Road Traffic (Urine Sampling and Analysis) Amendment Regulations 1987 | 18 Dec 1987 p. 4458-9 | 18 Dec 1987
@@ -17,6 +17,10 @@ Road Traffic (Urine Sampling and Analysis) Amendment Regulations 2014 | 4 Nov 20
 Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 9 | 23 Dec 2014 p. 4913-38 | 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Road Safety Commission Regulations Amendment (Public Health) Regulations 2016 Pt. 3 | 10 Jan 2017 p. 225-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Road Traffic Regulations Amendment Regulations 2017 Pt. 4 | 7 Feb 2017 p. 1171-7 | 10 Mar 2017 (see r. 2(b) and Gazette 7 Feb 2017 p. 1158-9)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Safety Regulations Amendment and Repeal Regulations 2021 Pt. 5 | SL 2021/58 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
