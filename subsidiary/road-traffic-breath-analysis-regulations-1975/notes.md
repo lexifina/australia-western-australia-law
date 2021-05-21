@@ -1,19 +1,23 @@
 Notes
-This is a compilation of the Road Traffic (Breath Analysis) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Breath Analysis) Regulations 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
-Road Traffic (Breath Analysis) Regulations 1975 | 29 May 1975 p. 1543-6 | 1 Jun 1975
-Untitled regulations | 5 May 1978 p. 1391 | 5 May 1978
-Untitled regulations | 15 Feb 1980 p. 466 | 15 Feb 1980
-Reprint of the Road Traffic (Breath Analysis) Regulations 1975 authorised 25 Jun 1981 (see Gazette 1 Jul 1981 p. 2535-41) (includes amendments listed above)
-Road Traffic (Breath Analysis) Amendment Regulations 1983 | 25 Feb 1983 p. 650 | 25 Feb 1983
-Road Traffic (Breath Analysis) Amendment Regulations 1987 | 24 Dec 1987 p. 4562-4 | 24 Dec 1987 (see r. 2 and Gazette 24 Dec 1987 p. 4561)
-Road Traffic Amendment Regulations 1991 Pt. 3 | 9 Aug 1991 p. 4232 | 9 Aug 1991 (see r. 2 and Gazette 9 Aug 1991 p. 4101)
-Reprint 2: The Road Traffic (Breath Analysis) Regulations 1975 as at 9 Jan 2004 (includes amendments listed above)
-Road Traffic Legislation Amendment Regulations 2008 Pt. 3 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
-Road Traffic (Breath Analysis) Amendment Regulations 2014 | 28 Jan 2014 p. 182-3 | r. 1 and 2: 28 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jan 2014 (see r. 2(b))
-Road Traffic (Breath Analysis) Amendment Regulations 2016 | 15 Nov 2016 p. 5060-1 | r. 1 and 2: 15 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2016 (see r. 2(b))
-Road Traffic (Breath Analysis) Amendment Regulations 2017 | 1 Dec 2017 p. 5734-5 | r. 1 and 2: 1 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2017 (see r. 2(b))
+Citation | Published | Commencement
+ | Road Traffic (Breath Analysis) Regulations 1975 | 29 May 1975 p. 1543-6 | 1 Jun 1975
+ | Untitled regulations | 5 May 1978 p. 1391 | 5 May 1978
+ | Untitled regulations | 15 Feb 1980 p. 466 | 15 Feb 1980
+ | Reprint of the Road Traffic (Breath Analysis) Regulations 1975 authorised 25 Jun 1981 (see Gazette 1 Jul 1981 p. 2535-41) (includes amendments listed above)
+ | Road Traffic (Breath Analysis) Amendment Regulations 1983 | 25 Feb 1983 p. 650 | 25 Feb 1983
+ | Road Traffic (Breath Analysis) Amendment Regulations 1987 | 24 Dec 1987 p. 4562-4 | 24 Dec 1987 (see r. 2 and Gazette 24 Dec 1987 p. 4561)
+ | Road Traffic Amendment Regulations 1991 Pt. 3 | 9 Aug 1991 p. 4232 | 9 Aug 1991 (see r. 2 and Gazette 9 Aug 1991 p. 4101)
+ | Reprint 2: The Road Traffic (Breath Analysis) Regulations 1975 as at 9 Jan 2004 (includes amendments listed above)
+ | Road Traffic Legislation Amendment Regulations 2008 Pt. 3 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
+ | Road Traffic (Breath Analysis) Amendment Regulations 2014 | 28 Jan 2014 p. 182-3 | r. 1 and 2: 28 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jan 2014 (see r. 2(b))
+ | Road Traffic (Breath Analysis) Amendment Regulations 2016 | 15 Nov 2016 p. 5060-1 | r. 1 and 2: 15 Nov 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2016 (see r. 2(b))
+ | Road Traffic (Breath Analysis) Amendment Regulations 2017 | 1 Dec 2017 p. 5734-5 | r. 1 and 2: 1 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2017 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Safety Regulations Amendment and Repeal Regulations 2021 Pt. 3 | SL 2021/58 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
