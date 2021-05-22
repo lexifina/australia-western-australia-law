@@ -288,6 +288,7 @@ Perth Market (Disposal) Act 2015 s. 54 | 40 of 2015 | 8 Dec 2015 | 31 Mar 2016 (
 Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
 Health Services Act 2016 s. 288 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 8 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | 22 May 2021 (see s. 2(d) and SL 2021/60 cl. 2)
 Biodiversity Conservation Act 2016 s. 313 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 21 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
 Statutes (Repeals) Act 2016 Pt. 2 Div. 2 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
@@ -303,7 +304,6 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Marketing of Potatoes Amendment and Repeal Act 2016 s. 14 | 22 of 2016 | 12 Sep 2016 | To be proclaimed (see s. 2(d))
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 1 | 27 of 2019 | 19 Dec 2019 | To be proclaimed (see s. 2(b))
