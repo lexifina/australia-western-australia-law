@@ -18,6 +18,7 @@ Reprint 2: The Freedom of Information Regulations 1993 as at 12 Jul 2013 (includ
 Freedom of Information Amendment Regulations (No. 2) 2013 | 24 Sep 2013 p. 4388-9 | r. 1 and 2: 24 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2013 (see r. 2(b))
 Freedom of Information Amendment Regulations 2019 | 26 Jul 2019 p. 2955-6 | r. 1 and 2: 26 Jul 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jul 2019 (see r. 2(b)(ii))
 Freedom of Information Amendment Regulations 2021 | SL 2021/9 29 Jan 2021 | r. 1 and 2: 29 Jan 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2021 (see r. 2(b))
+Freedom of Information Amendment Regulations (No. 2) 2021 | SL 2021/61 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2021 (see r. 2(b) and SL 2021/60 cl. 2)
 Other notes
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the Department for Child Protection has been altered to the Department for Child Protection and Family Support.

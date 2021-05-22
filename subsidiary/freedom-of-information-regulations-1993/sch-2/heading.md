@@ -127,7 +127,6 @@ Pilbara Zone Control Authority
 Pingaring Land Conservation District Committee
 Pingelly Land Conservation District Committee
 Pithara - Dalwallinu Land Conservation District Committee
-Potato Marketing Corporation of Western Australia
 Quairading Land Conservation District Committee
 Quairading Soil Conservation District Advisory Committee
 Ravensthorpe Land Conservation District Committee
@@ -188,9 +187,9 @@ Motor Vehicle Industry Board
 Plumbers Licensing Board
 Retail Shops Advisory Committee
 WorkSafe
-Department of Corrective Services | Prison Officers Appeal Tribunal
-Department of Culture and the Arts | Art Gallery Board of Western Australia
-Art Gallery Foundation
+Prison Officers Appeal Tribunal
+Department of Corrective Services | Art Gallery Board of Western Australia
+Department of Culture and the Arts | Art Gallery Foundation
 Art Gallery of Western Australia
 ArtsWA Peer Assessment Panel – Designer Fashion
 ArtsWA Peer Assessment Panels – Arts Development
@@ -211,25 +210,25 @@ Swan Bells Foundation
 Western Australian Museum
 Western Australian Museum Board
 Western Australian Museum Foundation
-Department of Education | Country High School Hostels Authority
-Trustees of Public Education Endowment
-Department of Education Services | Aboriginal Education and Training Council
-Non-Government Schools Planning Advisory Committee
+Country High School Hostels Authority
+Department of Education | Trustees of Public Education Endowment
+Aboriginal Education and Training Council
+Department of Education Services | Non-Government Schools Planning Advisory Committee
 Rural and Remote Education Advisory Council
 Teacher Registration Board of Western Australia
 Training Accreditation Council
 Western Australian Higher Education Council
-Department of Environment Regulation | Cockburn Sound Management Council
-Contaminated Sites Committee
+Cockburn Sound Management Council
+Department of Environment Regulation | Contaminated Sites Committee
 Keep Australia Beautiful Council
 Waste Authority
-Department of Fisheries | Abrolhos Islands Management Advisory Committee
-Aquaculture Development Council
+Abrolhos Islands Management Advisory Committee
+Department of Fisheries | Aquaculture Development Council
 Pearling Industry Advisory Committee
 Recreational Fishing Advisory Committee
 Rock Lobster Industry Advisory Committee
-Department of Health | Aged Care Advisory Panel
-Anaesthetic Morality Committee
+Aged Care Advisory Panel
+Department of Health | Anaesthetic Morality Committee
 Fluoridation of Public Water Supplies Advisory Committee
 Food Advisory Committee
 Local Health Authorities Analytical Committee
@@ -237,8 +236,8 @@ Maternal Mortality Committee
 Perinatal and Infant Mortality Committee
 Pesticides Advisory Committee
 Western Australian Reproductive Technology Foundation
-Department of Housing and Works | Aboriginal Housing and Infrastructure Council
-Architects Board of Western Australia
+Aboriginal Housing and Infrastructure Council
+Department of Housing and Works | Architects Board of Western Australia
 Building and Construction Advisory Council
 Building Regulations Advisory Committee
 Country Housing Authority
@@ -247,34 +246,34 @@ Municipal Building Surveyors Qualifications Committee
 Public Housing Review Panel
 Regional Appeals Committee
 Western Australian Building Management Authority
-Department of Indigenous Affairs | Aboriginal Cultural Material Committee
-Aboriginal Lands Trust
-Department of Industry and Resources | Centre of Excellence State Funding Advisory Committee
-Coal Miners Accident Relief Fund Trust
+Aboriginal Cultural Material Committee
+Department of Indigenous Affairs | Aboriginal Lands Trust
+Centre of Excellence State Funding Advisory Committee
+Department of Industry and Resources | Coal Miners Accident Relief Fund Trust
 Coal Miners Welfare Board
 Miners Phthisis Board
 Office of Science, Technology and Innovation
 Oil and Gas Industry Advisory Council
 Western Australian Manufacturing Industry Council
-Department of Local Government and Regional Development | Caravan Parks and Camping Grounds Advisory Committee
-Control of Vehicles (Off-road Areas) Act Advisory Committee
+Caravan Parks and Camping Grounds Advisory Committee
+Department of Local Government and Regional Development | Control of Vehicles (Off-road Areas) Act Advisory Committee
 Local Government Advisory Board
 Regional Development Council
 Rural, Remote and Regional Women’s Network
 WA Local Government Grants Commission
 WA Telecentre Advisory Board
 Western Australian Local Government Grants Commission
-Department of Parks and Wildlife | Conservation Commission of Western Australia
-Marine Parks and Reserves Authority
+Conservation Commission of Western Australia
+Department of Parks and Wildlife | Marine Parks and Reserves Authority
 Marine Parks and Reserves Scientific Advisory Committee
 Swan River Trust
-Department of Racing, Gaming and Liquor | Gaming and Wagering Commission of Western Australia
-Gaming Community Trust
+Gaming and Wagering Commission of Western Australia
+Department of Racing, Gaming and Liquor | Gaming Community Trust
 Problem Gambling Support Services Committee
 Racing Penalties Appeal Tribunal
-Department of Sport & Recreation | Premier’s Physical Activity Taskforce
-Department of the Attorney General | Appeals Costs Board
-Chief Assessor and Assessors under the Criminal Injuries Compensation Act 1985
+Premier’s Physical Activity Taskforce
+Department of Sport & Recreation | Appeals Costs Board
+Department of the Attorney General | Chief Assessor and Assessors under the Criminal Injuries Compensation Act 1985
 Children’s Court of Western Australia
 Coroner’s Court of Western Australia
 Family Court of Western Australia
@@ -285,8 +284,8 @@ Mentally Impaired Accused Review Board
 Professional Standards Council
 Supreme Court of Western Australia
 The District Court of Western Australia
-Department of the Premier and Cabinet | Completed Royal Commissions
-Constitutional Centre
+Completed Royal Commissions
+Department of the Premier and Cabinet | Constitutional Centre
 Constitutional Centre of Western Australia Advisory Board
 European, North Asia and Middle East Offices
 Infrastructure WA
@@ -294,12 +293,12 @@ Office of e-Government
 Office of Road Safety
 Office of the Premier
 State Law Publisher
-Department of Training and Workforce Development | Division of Industrial Training
-State Training Board
-Department of Treasury and Finance | Anzac Day Trust
-Office of Shared Services
-Department of Water | Avon Waterways Committee
-Broome Groundwater Advisory Committee
+Division of Industrial Training
+Department of Training and Workforce Development | State Training Board
+Anzac Day Trust
+Department of Treasury and Finance | Office of Shared Services
+Avon Waterways Committee
+Department of Water | Broome Groundwater Advisory Committee
 Canning – Wungong – Southern River Irrigation Advisory Committee
 Carnarvon Water Allocation Advisory Committee
 Cockburn Sound Management Council
@@ -322,17 +321,17 @@ Warren Salinity Catchment Recovery Team
 Warren Water Management Area Advisory Committee
 Water Resource Allocation Committee
 Whicher Water Resource Management Group
-Disability Services Commission | Advisory Council for Disability Services
-Minister for the Environment | Appeals Convenor for the Environmental Protection Act 1986
-Office of the Environmental Protection Authority | Environmental Protection Authority
-Office of Energy | Aboriginal and Remote Communities Power Supply Steering Committee
-Advisory Committee for Wind-up of the Perth International Centre for the Application of Solar Energy
+Advisory Council for Disability Services
+Disability Services Commission | Appeals Convenor for the Environmental Protection Act 1986
+Minister for the Environment | Environmental Protection Authority
+Office of the Environmental Protection Authority | Aboriginal and Remote Communities Power Supply Steering Committee
+Office of Energy | Advisory Committee for Wind-up of the Perth International Centre for the Application of Solar Energy
 Ministerial Advisory Committee on Electricity Supply
 Perth International Centre for Application of Solar Energy
 State Underground Power Steering Committee
-Public Transport Authority of Western Australia | Railway Appeal Board
-Western Australia Industrial Relations Commission | Board of Reference (Construction Industry Portable Paid Long Service Leave Act 1985)
-Board of Reference (Industrial Relations Act 1979)
+Railway Appeal Board
+Public Transport Authority of Western Australia | Board of Reference (Construction Industry Portable Paid Long Service Leave Act 1985)
+Western Australia Industrial Relations Commission | Board of Reference (Industrial Relations Act 1979)
 Board of Reference (Long Service Leave Act 1958)
 Department of the Registrar, Western Australian Industrial Relations Commission
 Industrial Magistrates Court
@@ -342,14 +341,15 @@ Public Service Arbitrator
 Railways Classification Board
 Special Board of Reference (Long Service Leave Standard Provisions)
 WA Industrial Appeal Court
-Western Australia Police | Community Safety and Crime Prevention Council
-Police Appeal Board
+Community Safety and Crime Prevention Council
+Western Australia Police | Police Appeal Board
 Western Australian Police Historical Society
-Western Australian Land Information Authority (Landgate) | Geographic Names Committee
-Land Board
+Geographic Names Committee
+Western Australian Land Information Authority (Landgate) | Land Board
 Land Surveyors Development Board
 Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
-WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956.]
+Dispute Resolution Directorate
+WorkCover Western Australia Authority (Workcover WA)
+[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4.]
