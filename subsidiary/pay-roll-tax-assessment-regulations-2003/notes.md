@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Pay-roll Tax Assessment Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Pay-roll Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2341-80 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -26,10 +26,7 @@ Pay-roll Tax Assessment Amendment Regulations (No. 2) 2013 | 11 Oct 2013 p. 4624
 Pay-roll Tax Assessment Amendment Regulations 2015 | 24 Feb 2015 p. 740-1 | r. 1 and 2: 24 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2015 (see r. 2(b))
 Pay-roll Tax Assessment Amendment Regulations (No. 2) 2016 | 24 Jun 2016 p. 2343-4 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Finance Regulations Amendment Regulations 2019 Pt. 3 | 13 Aug 2019 p. 3041-3 | 14 Aug 2019 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Pay-roll Tax Assessment Amendment Regulations 2020 r. 3 and 4 | SL 2020/247 18 Dec 2020 | 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
+Pay-roll Tax Assessment Amendment Regulations 2020 | SL 2020/247 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
 Other notes
 The Workplace Agreements Act 1993 expired 14 Sep 2003.
 At the time of this compilation the Commissioner of Workplace Agreements does not exist.
