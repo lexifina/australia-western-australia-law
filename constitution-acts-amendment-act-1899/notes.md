@@ -299,6 +299,7 @@ Heritage Act 2018 s. 184 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) an
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 1 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Industrial Relations Amendment Act 2018 s. 67 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Infrastructure Western Australia Act 2019 s. 74 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
+Procurement Act 2020 Pt. 10 Div. 1 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 2 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
@@ -306,8 +307,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Voluntary Assisted Dying Act 2019 Pt. 12 Div. 1 | 27 of 2019 | 19 Dec 2019 | To be proclaimed (see s. 2(b))
-Procurement Act 2020 Pt. 10 Div. 1 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 1 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 2 | 36 of 2020 | 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Footnote no longer applicable.

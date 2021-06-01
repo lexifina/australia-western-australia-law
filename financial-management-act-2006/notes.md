@@ -39,11 +39,11 @@ School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 22 | 41 
 Financial Management (Statutory Authorities) Regulations 2017 published in Gazette 8 Sep 2017 p. 4698 | r. 1 and 2: 8 Sep 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Sep 2017 (see r. 2(b))
 Reprint 4: The Financial Management Act 2006 as at 6 Oct 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 315)
 Infrastructure Western Australia Act 2019 s. 75 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
+Procurement Act 2020 Pt. 10 Div. 3 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 149 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Procurement Act 2020 Pt. 10 Div. 3 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Other notes
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.

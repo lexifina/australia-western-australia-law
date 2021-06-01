@@ -14,11 +14,11 @@ Reprint 2: The Vocational Education and Training Act 1996 as at 7 Aug 2009 (incl
 Acts Amendment (Bankruptcy) Act 2009 s. 88 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Procurement Act 2020 Pt. 10 Div. 6 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
-Procurement Act 2020 Pt. 10 Div. 6 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Other notes
 Pt. 7 (s. 58-62) and Sch. 2 of this Act had not come into operation when they were deleted by the Training Legislation Amendment and Repeal Act 2008 s. 39 and 48.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
