@@ -1,9 +1,14 @@
 Notes
-This is a compilation of the Procurement Regulations 2020. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Procurement Regulations 2020. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
-Procurement Regulations 2020 r. 1 and 2 | SL 2020/249 18 Dec 2020 | 18 Dec 2020 (see r. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Procurement Regulations 2020 r. 3 and 4 | SL 2020/249 18 Dec 2020 | 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
+Procurement Regulations 2020 | SL 2020/249 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+existing common use arrangement4(1)
+former Act4(1)
+public authority4(1)
+State Supply Commission4(1)
+supply4(1)
+transition day4(1)
