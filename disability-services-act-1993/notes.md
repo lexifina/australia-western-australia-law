@@ -29,11 +29,11 @@ Disability Services Amendment Act 2012 | 40 of 2012 | 22 Nov 2012 | s. 1 and 2: 
 Reprint 4: The Disability Services Act 1993 as at 2 Aug 2013 (includes amendments listed above)
 Disability Services Amendment Act 2014 | 10 of 2014 | 24 Jun 2014 | s. 1 and 2: 24 Jun 2014 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2014 (see s. 2(b)(i))
 Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 2 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
+Procurement Act 2020 Pt. 10 Div. 2 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Procurement Act 2020 Pt. 10 Div. 2 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Disability Services Act 1993 Sch. 6 Pt. 2 reads as follows:
@@ -97,11 +97,10 @@ member of the staff30
 metropolitan region3
 National Disability Insurance Scheme26E
 NDIS Act26E
-parliamentary purposes21(5)
 participant26E
-person’s representative41(1)
 personnel3
-plan, in relation to a participant,26I(1)
+person’s representative41(1)
+plan26I(1)
 public authority3
 relevant information41(1)
 relevant record41(1)
@@ -111,6 +110,5 @@ resident service30
 respondent30
 service developer3
 service provider3, 30
-supply policies26A
 support26I(1)
 trial26E

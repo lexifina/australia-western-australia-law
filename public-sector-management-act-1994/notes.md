@@ -109,12 +109,12 @@ School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 23 | 41 
 Reprint 12: The Public Sector Management Act 1994 as at 12 Jan 2018 (includes amendments listed above)
 Public Sector Management (Act Amendment) Regulations 2018 published in Gazette 29 May 2018 p. 1736 | r. 1 and 2: 29 May 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2018 (see r. 2(b) and Gazette 18 Sep 2018 p. 3520)
 Infrastructure Western Australia Act 2019 s. 77 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
+Procurement Act 2020 Pt. 10 Div. 5 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 TAB (Disposal) Act 2019 s. 152 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Procurement Act 2020 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Work Health and Safety Act 2020 Pt 15 Div. 4 Subdiv. 7 | 36 of 2020 | 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
