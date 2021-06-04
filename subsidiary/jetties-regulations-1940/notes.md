@@ -138,6 +138,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Transport Regulations Amendment (Ports) Regulations 2021 Pt. 2 | SL 2021/51 7 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
+Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
