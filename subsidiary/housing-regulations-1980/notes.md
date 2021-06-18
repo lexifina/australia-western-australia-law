@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Housing Regulations 1980 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Housing Regulations 1980 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Housing Regulations 1980 | 24 Dec 1980 p. 4361-3 | 1 Jan 1981 (see r. 2 and Gazette 24 Dec 1980 p. 4349)
@@ -21,6 +21,10 @@ Housing Amendment Regulations (No. 2) 2016 | 30 Dec 2016 p. 5968 | r. 1 and 2: 3
 Housing Amendment Regulations 2017 | 1 Aug 2017 p. 4112-13 | r. 1 and 2: 1 Aug 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2017 (see r. 2(b))
 Housing Amendment Regulations 2018 | 12 Jun 2018 p. 1896-7 | r. 1 and 2: 12 Jun 1018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Housing Amendment Regulations 2019 | 31 Dec 2019 p. 4647-8 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Housing Amendment Regulations 2021 | SL 2021/73 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Other notes
 Repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998.
 Defined terms
