@@ -109,6 +109,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Transport Regulations Amendment (Ports) Regulations 2021 Pt. 3 | SL 2021/51 7 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
+Transport Regulations Amendment (Fees and Charges) Regulations (No 2) 2021 Pt. 6 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Other notes
 Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).
 The Shipping and Pilotage Amendment Act 2006 s. 10 commenced on 4 June 2010.
