@@ -27,6 +27,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Transport Regulations Amendment (Road Traffic) Regulations 2021 Pt. 2 | SL 2021/59 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2)
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 4 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
