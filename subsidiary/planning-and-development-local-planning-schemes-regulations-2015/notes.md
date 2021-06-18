@@ -11,6 +11,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Planning Regulations Amendment Regulations 2020 Pt. 2 Div. 3 | SL 2020/252 18 Dec 2020 | 1 Jul 2021 (see r. 2(b))
+Planning and Development (Local Planning Schemes) Amendment Regulations 2021 | SL 2021/77 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
