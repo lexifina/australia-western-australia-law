@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Registration of Deeds Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Registration of Deeds Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Registration of Deeds Regulations 2004 | 2 Sep 2004 p. 3822-3 | 6 Sep 2004 (see r. 2)
@@ -20,6 +20,10 @@ Lands Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 2 | 23 Jun 2
 Lands Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 15 Jun 2018 p. 1923-8 | 1 Jul 2018 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 21 May 2019 p. 1474-81 | 1 Jul 2019 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/76 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lands Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/88 18 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
