@@ -58,6 +58,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Port Authorities Amendment Regulations 2021 r. 3-33 | SL 2021/52 7 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
+Port Authorities Amendment Regulations (No. 2) 2021 r. 3 and 4 | SL 2021/82 18 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/52 r. 2(b) and SL 2021/50 cl. 2)
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
