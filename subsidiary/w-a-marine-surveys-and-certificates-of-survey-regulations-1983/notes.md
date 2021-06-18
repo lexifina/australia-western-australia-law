@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
- | Citation | Gazettal | Commencement
+ | Citation | Published | Commencement
  | W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 | 1 Jul 1983 p. 2195-208 | 1 Jul 1983 (see r. 2)
  | W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 1983 | 5 Aug 1983 p. 2839-40 | 5 Aug 1983
  | W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 1985 | 30 Aug 1985 p. 3081-2 | 2 Sep 1985 (see r. 2)
@@ -52,6 +52,11 @@ W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2015 | 12
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 8 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 9 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 9 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No 2) 2021 Pt. 10 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
+Other notes
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2002 r. 4 reads as follows:
 4.Saving
