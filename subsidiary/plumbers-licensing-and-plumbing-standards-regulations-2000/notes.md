@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -45,6 +45,11 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 15 | 18 J
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2019 | 18 Oct 2019 p. 3674-8 | r. 1 and 2: 18 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2020 | SL 2020/132 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 15 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2021 | SL 2021/89 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2021 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 4 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
@@ -128,6 +133,7 @@ Plumbing Code3(1)
 plumbing compliance officer3(1)
 plumbing contractor’s licence3(1)
 plumbing standards3(1), 48(1)
+pre-apprentice3(1)
 prescribed offence74
 previous contractor45B(4)
 previous contractor or permit holder42(5)
@@ -160,11 +166,11 @@ statement of attainmentSch. 3 cl. 1
 statement of competencySch. 3 cl. 1
 subdivided land45DA(1), 55
 temperature/pressure relief valve13A(4)
-trade waste3(1)
-Trades Recognition AustraliaSch. 3 cl. 5(1)
 tradesperson3(1)
 tradesperson’s licence3(1)
 tradesperson’s licence (drainage plumbing)3(1)
+Trades Recognition AustraliaSch. 3 cl. 5(1)
+trade waste3(1)
 waived fee109A(1)
 waste3(1)
 wastewater3(1)
