@@ -44,9 +44,10 @@ Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 6 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations 2020 | SL 2020/239 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Work Health and Safety Act 2020 Pt. 15 Div. 2 Subdiv. 2 assented to 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 7 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
 The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as follows:
