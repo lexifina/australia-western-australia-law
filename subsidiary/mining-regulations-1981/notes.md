@@ -158,6 +158,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Mining Amendment (COVID-19 Response) Regulations 2020 r. 4(3), 6 and 7(2) | SL 2020/108 30 Jun 2020 | 1 Jul 2021 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 8 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
