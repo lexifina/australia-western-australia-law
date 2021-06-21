@@ -26,6 +26,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 7 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
+Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 19 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
 (2) Despite subregulation (1), if the owner of a retirement village is required, under section 13(2) of the Retirement Villages Act 1992, to give a statement containing information prescribed by regulation 4 of the Retirement Villages Regulations 1992, between 1 October 2003 and 31 December 2003 (inclusive), the owner satisfies the requirements of section 13(2) if either —
