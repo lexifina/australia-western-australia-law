@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Repairers Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Motor Vehicle Repairers Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Motor Vehicle Repairers Regulations 2007 | 9 Feb 2007 p. 391-426 | 19 Mar 2007 (see r. 2 and Gazette 9 Feb 2007 p. 451)
@@ -29,6 +29,10 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 14 | 18 J
 Motor Vehicle Repairers Amendment Regulations 2020 | SL 2020/121 21 Jul 2020 | r. 1 and 2: 21 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2020 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 21 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 14 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 16 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
