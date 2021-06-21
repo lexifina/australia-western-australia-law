@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources Regulations 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Petroleum and Geothermal Energy Resources Regulations 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Petroleum Regulations 1987 | 23 Oct 1987 p. 3971-2 | 23 Oct 1987
@@ -32,6 +32,10 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 15 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 14 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 7 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 11 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Acts Amendment (Petroleum) Act 1990 (other than s. 32) came into operation 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Commencement day was 16 Dec 2000 (see Gazette 15 Dec 2000 p. 7201).
