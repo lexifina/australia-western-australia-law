@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Dangerous Goods Safety (Security Risk Substances) Regulations 2007 | 31 Dec 2007 p. 6719-75 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -20,6 +20,10 @@ Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 P
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 5 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see s. 2(c))
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 4 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Now known as the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007; citation changed (see note under r. 1).
 Defined terms
