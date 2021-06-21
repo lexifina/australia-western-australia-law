@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Auction Sales Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Auction Sales Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Auction Sales Act Regulations 1974 | 13 Sep 1974 p. 3426-38 | 13 Sep 1974
@@ -25,6 +25,10 @@ Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regul
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Reprint 3: The Auction Sales Regulations 1974 as at 22 Nov 2019 (includes amendments listed above)
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 3 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
