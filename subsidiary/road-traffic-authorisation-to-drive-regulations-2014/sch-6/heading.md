@@ -9,4 +9,4 @@ HR | A car licence that is not provisional | 2 years
 HC | A car licence that is not provisional AND | 3 years
  | A licence that is not provisional and authorises a person to drive a motor vehicle of class MR or HR | one year
 MC | A licence that authorises a person to drive a motor vehicle of class HR or HC | one year
-[Schedule 6 amended: Gazette 19 Oct 2018 p. 4142-3
+[Schedule 6 amended: Gazette 19 Oct 2018 p. 4142-3.]
