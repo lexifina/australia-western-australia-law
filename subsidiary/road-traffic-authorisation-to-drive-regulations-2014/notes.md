@@ -23,6 +23,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 
 Transport Regulations Amendment (Road Passenger Services) Regulations 2020 Pt. 3 | SL 2020/91 24 Jun 2020 | 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2)
 Transport Regulations Amendment (Document Replacement) Regulations 2020 Pt. 2 | SL 2020/123 28 Jul 2020 | 29 Jul 2020 (see r. 2(b))
 Road Traffic Regulations Amendment (Radar Detectors) Regulations 2020 Pt. 3 | SL 2020/150 1 Sep 2020 | 12 Oct 2020 (see r. 2(b) and SL 2020/148 cl. 2)
+Road Traffic Regulations Amendment Regulations 2021 Pt. 2 | SL 2021/93 22 Jun 2021 | 23 Jun 2021 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement

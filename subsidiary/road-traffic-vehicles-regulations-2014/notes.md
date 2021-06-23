@@ -30,10 +30,12 @@ Transport Regulations Amendment (Road Passenger Services) Regulations 2020 Pt. 4
 Transport Regulations Amendment (Road Traffic) Regulations (No. 2) 2020 Pt. 3 | SL 2020/231 4 Dec 2020 | 14 Dec 2020 (see r. 2(b) and SL 2020/229 cl. 2)
 Road Traffic (Vehicles) Amendment Regulations (No. 4) 2021 | SL 2021/37 9 Apr 2021 | r. 1 and 2: 9 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2021 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 6) 2021 | SL 2021/64 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2021 (see r. 2(b))
+Road Traffic Regulations Amendment Regulations 2021 Pt. 3 | SL 2021/93 22 Jun 2021 | 23 Jun 2021 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 5 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
+Road Traffic (Vehicles) Amendment Regulations (No. 7) 2021 r. 3-16 | SL 2021/81 22 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:

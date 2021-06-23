@@ -2,7 +2,7 @@
 [r. 17(1)]
 Column 1 | Column 2
 Class | Motor vehicle description
-R (but see r. 17(2) and (3) | A motor cycle that is not a moped or learner approved motor cycle and has — (a)a power to weight ratio that exceeds 150 kW/t; or (b)an engine capacity that exceeds 660 cc
+R (but see r. 17(2), (2A) and (3)) | A motor cycle that is not a moped or learner approved motor cycle and has — (a)a power to weight ratio that exceeds 150 kW/t; or (b)an engine capacity that exceeds 660 cm3
 C | A motor vehicle of class C
 LR | A motor vehicle of class LR
 MR | A motor vehicle of class MR except a prime mover
@@ -11,3 +11,4 @@ HC | A prime mover that — (a)has at least 3 axles and a GVM of more than 15 t;
 MC | A prime mover that — (a)has at least 3 axles and a GVM of more than 15 t; and (b)is attached to one semi-trailer and one trailer each of which has at least 2 axles, an unladen mass exceeding 4 500 kg, a GVM of 16 t or more and a length of at least 10 m
  | OR A prime mover that — (a)has at least 3 axles and a GVM of more than 15 t; and
  | (b)is attached to 2 semi-trailers each of which has at least 2 axles, an unladen mass exceeding 4 500 kg, a GVM of 16 t or more; and (c)together with the semi-trailers has a length of at least 22 m OR A motor vehicle of class HR that — (a)has at least 3 axles and a GVM of more than 15 t; and (b)is attached to 2 trailers each of which has at least 2 axles, an unladen mass exceeding 4 500 kg, a GVM of 16 t or more and a length of at least 7 m
+[Schedule 5 amended: SL 2021/93 r. 7.]
