@@ -1,12 +1,16 @@
 Notes
-This is a compilation of the Construction Contracts Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Construction Contracts Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
- | Short title | Number and year | Assent | Commencement
- | Construction Contracts Act 2004 | 16 of 2004 | 8 Jul 2004 | s. 1 and 2: 8 Jul 2004; Act other than s. 1 and 2: 1 Jan 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999)
- | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 38 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
- | Building Services (Complaint Resolution and Administration) Act 2011 s. 128 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
- | Reprint 1: The Construction Contracts Act 2004 as at 12 Aug 2016 (includes amendments listed above)
+Short title | Number and year | Assent | Commencement
+Construction Contracts Act 2004 | 16 of 2004 | 8 Jul 2004 | s. 1 and 2: 8 Jul 2004; Act other than s. 1 and 2: 1 Jan 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 38 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Building Services (Complaint Resolution and Administration) Act 2011 s. 128 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
+Reprint 1: The Construction Contracts Act 2004 as at 12 Aug 2016 (includes amendments listed above)
 Construction Contracts Amendment Act 2016 | 55 of 2016 | 29 Nov 2016 | s. 1 and 2: 29 Nov 2016 (see s. 2(a)); Act other than s. 1, 2, 7 and 20: 15 Dec 2016 (see s. 2(b)); s. 7 and 20: 3 Apr 2017 (see s. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Building and Construction Industry (Security of Payment) Act 2021 Pt. 7 Div. 3 | 4 of 2021 | 25 Jun 2021 | 1 Aug 2022 (see s. 2(c) and SL 2022/78 cl. 2(2)(a)(vii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -18,16 +22,16 @@ Building Commissioner3
 business day3
 civil works4(1)
 construction contract3
-construction work3, 4(2), 4(4)
+construction work3, 4(2) and (4)
 contract sumSch. 1 cl. 5(3)
-contractor3, 3
+contractor3
 costs of an adjudication3
 court of competent jurisdiction43(1)
 determination3
 insolventSch. 1 cl. 10(1)
 obligations3
 party3, 3
-payment claim3, Sch. 1 cl. 5(1), Sch. 1 cl. 6
+payment claim3, Sch. 1 cl. 5(1) and 6
 payment dispute3
 prescribed appointor3
 prescribed time31(1)
