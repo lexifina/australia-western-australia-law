@@ -1,9 +1,9 @@
 Notes
-This is a compilation of the Corruption, Crime and Misconduct Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Corruption, Crime and Misconduct Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Short title | Number and year | Assent | Commencement
+ | Short title | Number and year | Assent | Commencement
 Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
-Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 2 | 78 of 2003 | 22 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 2,, | 78 of 2003 | 22 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Reprint 1: The Corruption and Crime Commission Act 2003 as at 5 Jan 2004 (includes amendments listed above)
 Criminal Code Amendment Act 2004 s. 24 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -35,7 +35,10 @@ Reprint 6: The Corruption, Crime and Misconduct Act 2003 as at 31 Jul 2015 (incl
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 11 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 105 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 Pt. 2 | 10 of 2018 | 13 Jul 2018 | 1 Sep 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2894)
-Reprint 7: The Corruption, Crime and Misconduct Act 2003 as at 24 May 2019 (includes amendments listed above)
+ | Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 2,, | 78 of 2003 | 22 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+ | Reprint 7: The Corruption, Crime and Misconduct Act 2003 as at 24 May 2019 (includes amendments listed above)
+Corruption, Crime and Misconduct Amendment Act 2021 | 7 of 2021 | 25 Jun 2021 | s. 1 and 2: 25 Jun 2021 (see s. 2(a)); Act other than s. 1 and 2: 26 Jun 2021 (see s. 2(b))
+Other notes
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Corruption, Crime and Misconduct Act 2003; short title changed (see note under s. 1).
