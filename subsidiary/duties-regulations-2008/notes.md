@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Duties Regulations 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Duties Regulations 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Duties Regulations 2008 | 20 Jun 2008 p. 2751-61 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
@@ -12,12 +12,17 @@ Reprint 1: The Duties Regulations 2008 as at 24 Feb 2012 (includes amendments li
 Duties Amendment Regulations (No. 2) 2013 | 20 Sep 2013 p. 4363-4 | r. 1 and 2: 20 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2013 (see r. 2(b))
 Duties Amendment Regulations 2016 | 24 May 2016 p. 1536 | r. 1 and 2: 24 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2016 (see r. 2(b))
 Duties Amendment Regulations 2018 | 22 Jun 2018 p. 2193-5 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
-Duties Amendment Regulations 2019 Pt. 1 and 2 | 8 Oct 2019 p. 3617-21 | Pt. 1: 8 Oct 2019 (see r. 2(a)); Regulations other than Pt. 1 and 3: 9 Oct 2019 (see r. 2(c))
+Duties Amendment Regulations 2019 | 8 Oct 2019 p. 3617-21 | Pt. 1: 8 Oct 2019 (see r. 2(a)); Regulations other than Pt. 1 and 3: 9 Oct 2019 (see r. 2(c)); Pt. 3: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Finance Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Duties Amendment Regulations 2019 Pt. 3 | 8 Oct 2019 p. 3621 | Operative on commencement of Community Titles Act 2018 s. 11 (see r. 2(b))
+Other notes
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1M appearing after the provision number.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth) Pt. 2 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
