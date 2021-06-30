@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Property Law Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Property Law Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Property Law Act 1969 | 32 of 1969 | 19 May 1969 | 1 Aug 1969 (see s. 2 and Gazette 27 Jun 1969 p. 1873)
@@ -27,9 +27,6 @@ Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2
 Standardisation of Formatting Act 2010 s. 26 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 15 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 Pt. 14 Div. 15 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 Repealed by the Interpretation Act 1984.

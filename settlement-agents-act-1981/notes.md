@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Settlement Agents Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Settlement Agents Act 1981 | 33 of 1981 | 26 May 1981 | 1 Jul 1981 (see s. 2 and Gazette 26 Jun 1981 p. 2285)
@@ -55,11 +55,8 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 14 | 23 of 2014 | 9 Oct 2
 Reprint 7: The Settlement Agents Act 1981 as at 13 Mar 2015 (includes amendments listed above)
 Licensing Provisions Amendment Act 2016 Pt. 8 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 21 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Consumer Protection Legislation Amendment Act 2019 Pt. 10 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 Pt. 14 Div. 21 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Consumer Protection Legislation Amendment Act 2019 Pt. 10 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Other notes
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:

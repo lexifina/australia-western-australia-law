@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Credit (Administration) Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Credit (Administration) Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Credit (Administration) Act 1984 | 100 of 1984 | 19 Dec 1984 | s. 1 and 2: 19 Dec 1984; Act other than s. 1, 2 and 6-8: 1 Mar 1985 (see s. 2 and Gazette 22 Feb 1985 p. 657); s. 6-8: 30 Apr 1985 (see s. 2 and Gazette 19 Apr 1985 p. 1381)
@@ -32,9 +32,6 @@ Acts Amendment (Fair Trading) Act 2010 s. 194 | 58 of 2010 | 8 Dec 2010 | 1 Jan 
 Reprint 5: The Credit (Administration) Act 1984 as at 17 Jun 2011 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 12 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 3 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 Pt. 14 Div. 3 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 Footnote no longer required.

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes amendments made by other written laws. For provisions that have come into operation and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes amendments made by other written laws. For provisions that have come into operation and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Commercial Tenancy (Retail Shops) Agreements Act 1985 | 43 of 1985 | 13 May 1985 | s. 1 and 2: 13 May 1985; Act other than s. 1 and 2: 1 Sep 1985 (see s. 2 and Gazette 30 Aug 1985 p. 3065)
@@ -24,9 +24,6 @@ Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 | 59 of 2011 | 1
 Reprint 4: The Commercial Tenancy (Retail Shops) Agreements as at 18 Jan 2013 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 14 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Consumer Protection Legislation Amendment Act 2014 Pt. 2 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 Pt. 14 Div. 2 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
@@ -88,8 +85,8 @@ head lease13(2)
 incoming tenant6(5), 6A(5)
 industry code15A
 key-money3(1)
-land tax12(3)
 landlord3(1)
+land tax12(3)
 lease3(1)
 lettable area3(1)
 management fees3(1)
@@ -115,7 +112,6 @@ Small Business Commissioner3(1)
 specified15F(7), 16D(7)
 specified business3(1)
 standard trading hours12(3)
-strata titles levy12(3)
 tenant3(1)
 total lettable area12(3)
 Tribunal3(1)

@@ -6,13 +6,13 @@ Water Services Act 2012 | 24 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see 
 Reprint 1: The Water Services Act 2012 as at 17 Jan 2014
 Public Health (Consequential Provisions) Act 2016 s 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 25 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 25 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 6 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 27 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Community Titles Act 2018 Pt. 14 Div. 25 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
-Swan Valley Planning Act 2020 Pt. 10 Div. 17 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(e))
+Swan Valley Planning Act 2020 Pt. 10 Div. 17 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 The short title of the Fire and Emergency Services Authority of Western Australia Act 1998 was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5.
 The Fire and Emergency Services Authority (FESA) was abolished by the Fire and Emergency Services Legislation Amendment Act 2012 s. 43.

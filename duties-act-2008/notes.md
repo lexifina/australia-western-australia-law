@@ -29,14 +29,22 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 12 | 26 of 2016 | 21 
 Duties Amendment (Additional Duty for Foreign Persons) Act 2018 | 24 of 2018 | 17 Oct 2018 | s. 1 and 2: 17 Oct 2018 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2019 (see s. 2(b))
 Revenue Law Amendment Act 2019 Pt. 2 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b)(i))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1M appearing after the provision number.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth) Pt. 2 Div. 1.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 The Mining Act 1904 was repealed by the Mining Act 1978.
-This section is deemed to have come into operation on 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 s. 2(b) and Pt. 2 Div. 1 and 2).
+This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
 The Duties Act 2008 Sch. 3 Div. 2 was repealed by the Revenue Laws Amendment Act 2008 s. 4.
 The Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 was deleted by the Duties Legislation Amendment Act 2013 s. 5. The amendments made by the Revenue Laws Amendment Act 2010 Pt. 3 Div. 1 have no effect for the same reason.
