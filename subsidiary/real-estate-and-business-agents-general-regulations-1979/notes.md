@@ -90,10 +90,10 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 23 | 
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 16 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations 2020 | SL 2020/209 30 Oct 2020 | r. 1 and 2: 30 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2020 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2020 | SL 2020/257 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
+Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 5 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 5 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 18 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.

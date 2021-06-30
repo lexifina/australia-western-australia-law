@@ -19,4 +19,5 @@
 16.Office of State Revenue rulings and practices
 17.Landgate practices and procedures
 18.Legislative change affecting conveyancing
-[Schedule 1A inserted: Gazette 28 Dec 2007 p. 6411.]
+19.Community title settlements
+[Schedule 1A inserted: Gazette 28 Dec 2007 p. 6411; amended: SL 2021/71 r. 24.]

@@ -46,10 +46,10 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2019 | 1
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2020 | SL 2020/132 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 15 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2021 | SL 2021/89 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2021 (see r. 2(b))
+Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 4 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 4 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 17 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).

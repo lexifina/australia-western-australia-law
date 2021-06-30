@@ -22,10 +22,10 @@ Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 5 | 31 Dec 2
 Retirement Villages Amendment Regulations 2020 | SL 2020/22 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
 Retirement Villages Amendment Regulations (No. 2) 2020 | SL 2020/157 21 Sep 2020 | r. 1 and 2: 21 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2020 (see r. 2(b))
 Retirement Villages Amendment Regulations 2021 | SL 2021/32 26 Mar 2021 | r. 1 and 2: 26 Mar 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2021 (see r. 2(b))
+Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 7 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 7 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 19 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
@@ -41,12 +41,14 @@ alteration7G(1)
 application fee12(1)
 arrange4A
 associated person7D(1)
+belongs6(3)
 close associate7I(1)
 Code4A
 commencement day9(1), 11(1), 13(1)
 communal amenity4A
 communal service4A
-Corporations Act 20014A
+community corporation6(3)
+community titles scheme6(3)
 essential service7H(1)
 evidence of death9(1)
 exit fee4A
@@ -64,10 +66,14 @@ professional body11(1)
 recurrent charges9(2)
 related body corporate4A
 reserve fund4A
+scheme by-laws6(3)
+scheme plan6(3)
 security interest11(1)
 short-term residence contract4A
 short-term section 13 statement13(1)
 special resolution11(1)
 specified4A
+tier 2 scheme6(3)
+tier 3 scheme6(3)
 transitional period13(1)
 urgent repair7H(1)

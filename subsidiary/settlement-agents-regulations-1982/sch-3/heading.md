@@ -4,7 +4,8 @@
 ## Part A — Offer and acceptance
 1.“Contract for Sale of Land by Offer and Acceptance” (1994 revision) incorporating the “1994 Joint Form of General Conditions for the Sale of Land”, as adopted jointly by the Law Society of Western Australia (Inc) and the Real Estate Institute of Western Australia (Inc) and approved by the Settlement Agents Association (Inc) and the Associated Settlement Agents of Western Australia (Inc).
 2.“Contract for Sale of Strata Title Property by Offer and Acceptance” incorporating the “1994 Joint Form of General Conditions for the Sale of Land”, as adopted jointly by the Law Society of Western Australia (Inc) and the Real Estate Institute of Western Australia (Inc) and approved by the Settlement Agents Association (Inc) and the Associated Settlement Agents of Western Australia (Inc).
-[Part A inserted: Gazette 23 May 1997 p. 2421.]
+3.“Contract for Sale of Community Title Property by Offer and Acceptance” incorporating the “1994 Joint Form of General Conditions for the Sale of Land”, as adopted jointly by the Law Society of Western Australia (Inc) and the Real Estate Institute of Western Australia (Inc) and approved by the Settlement Agents Association (Inc) and the Associated Settlement Agents of Western Australia (Inc).
+[Part A inserted: Gazette 23 May 1997 p. 2421; amended: SL 2021/71 r. 25.]
 ## Part B — Requisitions on title
 1.Is the certificate or certificates of title to the land the subject of any dealing or dealings under the Transfer of Land Act 1893? If so, please provide true copies of all documents lodged under the Transfer of Land Act 1893 relating to such dealing or dealings.
 2.Is the vendor aware of any circumstances which could give rise to a claim to an interest in the land, or any parts of it, by virtue of adverse possession? If so, please provide details.
@@ -21,7 +22,8 @@
 (ga)Public Works Act 1902;
 (h)Retirement Villages Act 1992;
 (i)Soil and Land Conservation Act 1945;
-(j)Strata Titles Act 1985?
+(j)Strata Titles Act 1985;
+(k)Community Titles Act 2018?
 6.Is anybody in occupation of the land under any or any alleged lease or licence? If so, please provide precise details of the terms of any such lease or licence or alleged lease or licence and provide copies of any agreements in respect thereof.
 7. Are there any claims by any third parties to a mining lease or licence under the Mining Act 1978? If so, please provide precise details of the terms of any claim.
 8. The vendor is to list all applications, transfers, instruments, statutory declarations, discharges of mortgages, withdrawals of caveats or other documents to be tendered at settlement in order for the purchaser to become registered as the proprietor of the freehold of the land without any encumbrances on the title to it.
@@ -68,4 +70,23 @@ s. 240A | Application to change an address;
 (iii)no dealing that is adverse to, or that derogates from, the caveator’s claim is lodged or is to be lodged after the withdrawal and before the transfer to the caveator or the caveator’s nominee;
 (c)an application to amend the Register as to the name of a registered proprietor;
 (d)a withdrawal of memorial under the Water Services Act 2012 section 128 for a memorial lodged by a water corporation (as defined in that Act) in relation to the payment of an infrastructure contribution under section 128(2)(b) of that Act.
-[Part C inserted: Gazette 23 May 1997 p. 2422-4; amended: Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8; 31 Dec 2019 p. 4645-6.]
+3.Under or for the purposes of the Community Titles Act 2018 the following documents, subject to the condition that a licensee shall not draft a resolution of a community corporation under or for the purposes of that Act —
+(a)documents in the forms approved under the following provisions of that Act:
+Provision | Description of document and purpose
+s. 35(2) | Scheme notice, or an amendment of a scheme notice, for a community titles scheme
+s. 40(5) | Notice of a proposed resolution for an amendment of a scheme plan
+s. 43(6) | Scheme by-laws
+s. 50(2) | Application for registration of a community titles scheme or an amendment of a community titles scheme and accompanying documents in approved forms
+s. 141(6) | Notice to Registrar of Titles from tier 1 corporation of receipt of outline of a termination proposal
+s. 145(5) | Notice to Registrar of Titles from tier 1 corporation of receipt of a full proposal
+s. 149(10)(a) | Notice to Registrar of Titles from tier 1 corporation that a termination resolution is passed
+s. 150(7) | Notice to Registrar of Titles from tier 1 corporation of application to the State Administrative Tribunal
+s. 150(24)(a) | Notice to Registrar of Titles of State Administrative Tribunal decision
+s. 153(5) | Application by proponent for termination of a community titles scheme and accompanying documents in approved forms
+s. 156(3) | Notice to Registrar of Titles from tier 1 corporation of withdrawal of a termination proposal
+s. 157(2)(a) | Notice to Registrar of Titles from tier 1 corporation that the termination proposal cannot proceed further
+s. 161(1) | Application for termination of each community titles scheme in a community scheme by person who owns all lots in the community scheme
+s. 178 | Application for registration of the termination or amendment of a community titles scheme to give effect to compulsory acquisition
+(b)a disposition statement under section 185 of that Act in the form approved under the Community Titles Regulations 2021;
+(c)an application to register or record the most recent consolidated version of a community development statement that incorporates an approved amendment of the community development statement in the form approved under the Community Titles Regulations 2021 regulation 18(3)(b).
+[Part C inserted: Gazette 23 May 1997 p. 2422-4; amended: Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8; 31 Dec 2019 p. 4645-6; SL 2021/71 r. 25.]

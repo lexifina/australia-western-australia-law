@@ -72,7 +72,11 @@ Where the premises are not separately metered to measure the consumption of a sp
 ·Water: [insert method of calculation]
 ·Other (please specify): [insert method of calculation]
 STRATA TITLES SCHEME BY-LAWS
-Strata titles scheme by-laws ARE/ARE NOT* (* delete as appropriate) applicable to the residential premises. A copy of the by-laws are attached: Yes o/No o
+Strata titles scheme by-laws ARE/ARE NOT* (* delete as appropriate) applicable to the residential premises. A copy of the by-laws is attached: Yes o/No o
+SCHEME BY-LAWS FOR A COMMUNITY TITLES SCHEME
+belongs, community titles scheme, scheme by-laws, tier 2 scheme and tier 3 scheme have the meanings given in the Community Titles Act 2018 section 3(1).
+Scheme by-laws for a community titles scheme ARE/ARE NOT* (* delete as appropriate) applicable to the residential premises. A copy of the scheme by-laws is attached. Yes o/No o
+If scheme by-laws for a community titles scheme are applicable to the residential premises, and the premises is in a tier 2 scheme or a tier 3 scheme, the scheme by-laws to be attached must include the scheme by-laws for a community titles scheme to which that tier 2 scheme or tier 3 scheme belongs.
 Pets
 The pets listed below may be kept at the premises: ..............................................
 Right of tenant to assign or sub-let
@@ -109,7 +113,10 @@ RENT
 7.A tenancy agreement cannot contain a provision for a penalty, damages or extra payment if the tenant fails to keep to the agreement or breaches any law. If an agreement allows a reduced rent or a rebate, refund or other benefit if the tenant does not breach the agreement, the tenant is entitled to the reduction, rebate, refund or other benefit in any event.
 8.Warning: it is an offence for a tenant to fail or refuse to pay any rent due under a residential tenancy agreement with the intention that the amount of such rent be recovered by the lessor from the tenant’s security bond.
 PAYMENT OF COUNCIL RATES, LAND TAX, WATER AND OTHER CHARGES
-9.The lessor must pay all rates, taxes or charges imposed in respect of the premises under the Local Government Act 1995, the Land Tax Act 2002 or any written law under which a rate, tax or charge is imposed for water supply or sewerage services under the Water Agencies (Powers) Act 1984 (other than a charge for water consumed). The lessor is responsible for any contribution levied under the Strata Titles Act 1985 and any contribution levied on an owner under the Strata Titles Act 1985.
+9.The lessor must pay all rates, taxes or charges imposed in respect of the premises under the Local Government Act 1995, the Land Tax Act 2002 or any written law under which a rate, tax or charge is imposed for water supply or sewerage services under the Water Agencies (Powers) Act 1984 (other than a charge for water consumed).
+9A.The lessor is responsible for any of the following contributions in respect of the premises:
+9A.1contributions (as defined in the Strata Titles Act 1985 section 3(1)) imposed on the owner of the premises under the Strata Titles Act 1985 section 100;
+9A.2contributions (as defined in the Community Titles Act 2018 section 3(1)) determined by a community corporation as the amount it requires from the owner of the premises (as a member of the community corporation) under the Community Titles Act 2018 section 88.
 PUBLIC UTILITY SERVICES
 10.Public utility services has the meaning given in the Land Administration Act 1997 and refers to services such as gas, electricity and water.
 11.If the premises are not separately metered to measure the tenant’s consumption of a public utility service at the premises and the tenant is expected to pay for his or her consumption of the public utility service, the lessor and tenant must agree in writing an alternative method of calculating the charge to be paid by the tenant for the consumption of that public utility service.
@@ -204,7 +211,7 @@ ALTERATIONS AND ADDITIONS TO THE PREMISES
 33B.1the cost of making the prescribed alterations must be borne by the tenant; and
 33B.2the tenant must give written notice to the lessor of the tenant’s intention to make the prescribed alterations; and
 33B.3work on the prescribed alterations must be undertaken by a qualified tradesperson, a copy of whose invoice the tenant must provide to the lessor within 14 days of the alterations being completed; and
-33B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata titles scheme by-laws; and
+33B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata titles scheme by-laws or scheme by-laws for a community titles scheme; and
 33B.5the tenant must restore the premises to their original condition at the end of the residential tenancy agreement if the lessor requires the tenant to do so and, where restoration work has been undertaken by a tradesperson, must provide to the lessor a copy of that tradesperson’s invoice within 14 days of that work having been performed.
 LOCKS AND SECURITY DEVICES
 34.The prescribed means of securing the premises are specified in the Residential Tenancies Regulations 1989. In every tenancy:
@@ -296,7 +303,7 @@ SIGNED BY THE TENANT
 ............................................. [Signature of tenant]
 Date: ...................................
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
-[Form 1AA inserted: Gazette 3 May 2013 p. 1757-76; amended: Gazette 21 Aug 2015 p. 3313-14; 30 Jun 2017 p. 3556-7; 9 Apr 2019 p. 1045-6; 31 Dec 2019 p. 4642.]
+[Form 1AA inserted: Gazette 3 May 2013 p. 1757-76; amended: Gazette 21 Aug 2015 p. 3313-14; 30 Jun 2017 p. 3556-7; 9 Apr 2019 p. 1045-6; 31 Dec 2019 p. 4642; SL 2021/71 r. 15.]
 FORM 1AB
 Residential Tenancies Act 1987
 Section 27A
@@ -364,7 +371,11 @@ Where the premises are not separately metered to measure the consumption of a sp
 ·Gas: [insert method of calculation]
 ·Water: [insert method of calculation]
 STRATA TITLES SCHEME BY-LAWS
-Strata titles scheme by-laws ARE/ARE NOT* (* delete as appropriate) applicable to the residential premises. A copy of the by-laws are attached. Yes o/No o
+Strata titles scheme by-laws ARE/ARE NOT* (* delete as appropriate) applicable to the residential premises. A copy of the by-laws is attached. Yes o/No o
+SCHEME BY-LAWS FOR A COMMUNITY TITLES SCHEME
+belongs, community titles scheme, scheme by-laws, tier 2 scheme and tier 3 scheme have the meanings given in the Community Titles Act 2018 section 3(1).
+Scheme by-laws for a community titles scheme ARE/ARE NOT* (* delete as appropriate) applicable to the residential premises. A copy of the scheme by-laws is attached. Yes o/No o
+If scheme by-laws for a community titles scheme are applicable to the residential premises, and the premises is in a tier 2 scheme or a tier 3 scheme, the scheme by-laws to be attached must include the scheme by-laws for a community titles scheme to which that tier 2 scheme or tier 3 scheme belongs.
 Pets
 The pets listed below may be kept at the premises: ..............................................
 Right of tenant to assign or sub-let
@@ -410,7 +421,10 @@ RENT
 9.A tenancy agreement cannot contain a provision for a penalty, damages or extra payment if the tenant fails to keep the agreement or breaches any law. If an agreement allows a reduced rent or a rebate, a refund or other benefit if the tenant does not breach the agreement, the tenant is entitled to the reduction, rebate, refund or other benefit in any event.
 10.Warning: It is an offence for a tenant to fail or refuse to pay any rent due under a residential tenancy agreement with the intention that the amount of such rent be recovered by the lessor from the tenant’s security bond.
 PAYMENT OF COUNCIL RATES, LAND TAX, WATER AND OTHER CHARGES
-11.The lessor must pay all rates, taxes or charges imposed in respect of the premises under the Local Government Act 1995, the Land Tax Act 2002 or any written law under which a rate, tax or charge is imposed for water supply or sewerage services under the Water Agencies (Powers) Act 1984 (other than a charge for water consumed). The lessor is responsible for any contribution levied under the Strata Titles Act 1985 and any contribution levied on an owner under the Strata Titles Act 1985.
+11.The lessor must pay all rates, taxes or charges imposed in respect of the premises under the Local Government Act 1995, the Land Tax Act 2002 or any written law under which a rate, tax or charge is imposed for water supply or sewerage services under the Water Agencies (Powers) Act 1984 (other than a charge for water consumed).
+11A.The lessor is responsible for any of the following contributions in respect of the premises:
+11A.1contributions (as defined in the Strata Titles Act 1985 section 3(1)) imposed on the owner of the premises under the Strata Titles Act 1985 section 100;
+11A.2contributions (as defined in the Community Titles Act 2018 section 3(1)) determined by a community corporation as the amount it requires from the owner of the premises (as a member of the community corporation) under the Community Titles Act 2018 section 88.
 PUBLIC UTILITY SERVICES
 12.Public utility services has the meaning given in the Land Administration Act 1997 and refers to services such as gas, electricity and water.
 13.If the premises are not separately metered to measure the tenant’s consumption of a public utility service at the premises and the tenant is expected to pay for his or her consumption of the public utility service, the lessor and tenant must agree in writing an alternative method of calculating the charge to be paid by the tenant for the consumption of that public utility service.
@@ -506,7 +520,7 @@ ALTERATIONS AND ADDITIONS TO THE PREMISES
 35B.1the cost of making the prescribed alterations must be borne by the tenant; and
 35B.2the tenant must give written notice to the lessor of the tenant’s intention to make the prescribed alterations; and
 35B.3work on the prescribed alterations must be undertaken by a qualified tradesperson, a copy of whose invoice the tenant must provide to the lessor within 14 days of the alterations being completed; and
-35B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata titles scheme by-laws; and
+35B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata titles scheme by-laws or scheme by-laws for a community titles scheme; and
 35B.5the tenant must restore the premises to their original condition at the end of the residential tenancy agreement if the lessor requires the tenant to do so and, where restoration work has been undertaken by a tradesperson, must provide to the lessor a copy of that tradesperson’s invoice within 14 days of that work having been performed.
 LOCKS AND SECURITY DEVICES
 36.The prescribed means of securing the premises are specified in the Residential Tenancies Regulations 1989. In every tenancy:
@@ -601,7 +615,7 @@ SIGNED BY THE TENANT
 ............................................. [Signature of tenant]
 Date: ...................................
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit <www.commerce.wa.gov.au/ConsumerProtection>.
-[Form 1AB inserted: Gazette 3 May 2013 p. 1776-96; amended: Gazette 21 Aug 2015 p. 3314-15; 30 Jun 2017 p. 3557-8; 9 Apr 2019 p. 1046-8; 31 Dec 2019 p. 4642-3.]
+[Form 1AB inserted: Gazette 3 May 2013 p. 1776-96; amended: Gazette 21 Aug 2015 p. 3314-15; 30 Jun 2017 p. 3557-8; 9 Apr 2019 p. 1046-8; 31 Dec 2019 p. 4642-3; SL 2021/71 r. 16.]
 FORM 1AC
 Residential Tenancies Act 1987
 Section 27B
@@ -713,7 +727,10 @@ RENT
 6.A tenancy agreement cannot contain a provision for a penalty, damages or extra payment if the tenant fails to keep to the agreement or breaches any law. If an agreement allows a reduced rent or a rebate, a refund or other benefit if the tenant does not breach the agreement, the tenant is entitled to the reduction, rebate, refund or other benefit in any event.
 7.Warning: it is an offence for a tenant to fail or refuse to pay any rent due under a residential tenancy agreement with the intention that the amount of such rent be recovered by the lessor from the tenant’s security bond.
 PAYMENT OF COUNCIL RATES, LAND TAX, WATER AND OTHER CHARGES
-8.The lessor must pay all rates, taxes or charges imposed in respect of the premises under the Local Government Act 1995, the Land Tax Act 2002 or any written law under which a rate, tax or charge is imposed for water supply or sewerage services under the Water Agencies (Powers) Act 1984 (other than a charge for water consumed). The lessor is responsible for any contribution levied under the Strata Titles Act 1985 and any contribution levied on an owner under the Strata Titles Act 1985.
+8.The lessor must pay all rates, taxes or charges imposed in respect of the premises under the Local Government Act 1995, the Land Tax Act 2002 or any written law under which a rate, tax or charge is imposed for water supply or sewerage services under the Water Agencies (Powers) Act 1984 (other than a charge for water consumed).
+8A.The lessor is responsible for any of the following contributions in respect of the premises:
+8A.1contributions (as defined in the Strata Titles Act 1985 section 3(1)) imposed on the owner of the premises under the Strata Titles Act 1985 section 100;
+8A.2contributions (as defined in the Community Titles Act 2018 section 3(1)) determined by a community corporation as the amount it requires from the owner of the premises (as a member of the community corporation) under the Community Titles Act 2018 section 88.
 PUBLIC UTILITY SERVICES
 9.Public utility services has the meaning given in the Land Administration Act 1997 and refers to services such as gas, electricity and water.
 10.If the premises are not separately metered to measure the tenant’s consumption of a public utility service at the premises and the tenant is expected to pay for his or her consumption of the public utility service, the lessor and tenant must agree in writing an alternative method of calculating the charge to be paid by the tenant for the consumption of that public utility service.
@@ -808,7 +825,7 @@ ALTERATIONS AND ADDITIONS TO THE PREMISES
 32B.1the cost of making the prescribed alterations must be borne by the tenant; and
 32B.2the tenant must give written notice to the lessor of the tenant’s intention to make the prescribed alterations; and
 32B.3work on the prescribed alterations must be undertaken by a qualified tradesperson, a copy of whose invoice the tenant must provide to the lessor within 14 days of the alterations being completed; and
-32B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata titles scheme by-laws; and
+32B.4the prescribed alterations must be effected having regard to the age and character of the property and any applicable strata titles scheme by-laws or scheme by-laws for a community titles scheme; and
 32B.5the tenant must restore the premises to their original condition at the end of the residential tenancy agreement if the lessor requires the tenant to do so and, where restoration work has been undertaken by a tradesperson, must provide to the lessor a copy of that tradesperson’s invoice within 14 days of that work having been performed.
 LOCKS AND SECURITY DEVICES
 33.The prescribed means of securing the premises are specified in the Residential Tenancies Regulations 1989. In every tenancy:
@@ -883,7 +900,7 @@ If a dispute cannot be resolved
 52.2requiring a party to the agreement to perform a certain action under the agreement; and
 52.3order the payment of any amount owing under the agreement; and
 52.4order the payment of compensation for loss or injury.
-[Form 1AD inserted: Gazette 3 May 2013 p. 1801-17; amended: Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16; 30 Jun 2017 p. 3558-9; 9 Apr 2019 p. 1048-50; 31 Dec 2019 p. 4643.]
+[Form 1AD inserted: Gazette 3 May 2013 p. 1801-17; amended: Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16; 30 Jun 2017 p. 3558-9; 9 Apr 2019 p. 1048-50; 31 Dec 2019 p. 4643; SL 2021/71 r. 17.]
 FORM 1
 Residential Tenancies Act 1987
 Section 27C(6)

@@ -1,14 +1,12 @@
 Notes
-This is a compilation of the Fair Trading (Retirement Villages Interim Code) Regulations 2021. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Fair Trading (Retirement Villages Interim Code) Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Fair Trading (Retirement Villages Interim Code) Regulations 2021 | SL 2021/33 26 Mar 2021 | r. 1 and 2: 26 Mar 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 3 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Other notes
 These regulations expire at the end of 30 Sep 2021 (see r. 4).
+Boxed and shaded paragraph amended: SL 2021/71 Pt. 3 notes 1 and 2.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
