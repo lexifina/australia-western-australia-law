@@ -18,10 +18,10 @@ Water Regulations Amendment (Strata Titles) Regulations 2019 Pt. 2 | 31 Dec 2019
 Water Services Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/95 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Water Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/173 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Water Services Amendment Regulations 2020 | SL 2020/240 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
+Water Regulations Amendment (Community Titles) Regulations 2021 Pt. 2 | SL 2021/79 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Water Regulations Amendment (Community Titles) Regulations 2021 Pt. 2 | SL 2021/79 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Water Services Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/80 18 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Water Boards Act 1904 was repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 201.
@@ -47,6 +47,10 @@ Busselton Water Corporation3(1)
 centre-line46(4)
 centre-plane46(4)
 commencement day90, 97
+community corporation3(1)
+community titles (building) scheme3(1)
+community titles (land) scheme3(1)
+community titles scheme3(1)
 concession period30(3)
 consumer80B
 consumption year80B
@@ -77,6 +81,8 @@ licensed plumbing contractor3(1)
 litter41(1)
 lodging fee83(1)
 lot28B
+lot in a strata scheme3(1)
+lot in a survey strata-scheme3(1)
 means of supplying water56
 meter24(1A), 25(1A)
 metropolitan area3(1)
@@ -115,15 +121,14 @@ take40A(1)
 unallocated Crown land27
 unit3(1), 23(1)
 unmanaged reserve27
-vacant lot28B
 vehicle31
 water corporation licensee3(1)
+watercourse5(9)
 water efficiency management plan80B
 water supply connection3(1)
 water supply service (fire)3(1)
 water supply works of a licensee31
 water use restrictions76
-watercourse5(9)
 week76
 withdrawal fee83(1)
 working day3(1)
