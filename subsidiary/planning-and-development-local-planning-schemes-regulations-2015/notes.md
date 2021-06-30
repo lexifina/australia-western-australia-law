@@ -7,11 +7,11 @@ Planning and Development (Local Planning Schemes) Amendment Regulations 2015 | 7
 Planning and Development (Local Planning Schemes) Amendment Regulations 2020 | SL 2020/30 3 Apr 2020 | r. 1 and 2: 3 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2020 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4655-6 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Planning Regulations Amendment Regulations 2020 Pt. 2 (other than Div. 3) | SL 2020/252 18 Dec 2020 | 15 Feb 2021 (see r. 2(c))
+Planning and Development (Local Planning Schemes) Amendment Regulations 2021 | SL 2021/77 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Planning Regulations Amendment Regulations 2020 Pt. 2 Div. 3 | SL 2020/252 18 Dec 2020 | 1 Jul 2021 (see r. 2(b))
-Planning and Development (Local Planning Schemes) Amendment Regulations 2021 | SL 2021/77 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
