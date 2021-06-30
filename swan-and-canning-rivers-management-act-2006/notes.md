@@ -23,13 +23,13 @@ Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2
 Reprint 3: The Swan and Canning Rivers Management Act 2006 as at 14 Oct 2016 (includes amendments listed above except those in the Public Health (Consequential Provisions) Act 2016)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 22 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Swan and Canning Rivers Management Regulations 2007 r. 47(3) inserted by SL 2020/186 r. 4 | 30 Sep 2020 (see SL 2020/186 r. 2(b))
+Community Titles Act 2018 Pt. 14 Div. 22 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 24 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 s. 372 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Community Titles Act 2018 Pt. 14 Div. 22 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
-Swan Valley Planning Act 2020 Pt. 10 Div. 15 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(e))
+Swan Valley Planning Act 2020 Pt. 10 Div. 15 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Home Building Contracts Act 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Home Building Contracts Act 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Home Building Contracts Act 1991 | 61 of 1991 | 30 Dec 1991 | s. 1 and 2: 30 Dec 1991; Act other than s. 1 and 2: 4 Apr 1992 (see s. 2 and Gazette 3 Apr 1992 p. 1461)
@@ -26,11 +26,8 @@ Building Act 2011 s. 163 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 Statutes (Repeals and Minor Amendments) Act 2011 s. 22 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 4: The Home Building Contracts Act 1991 as at 25 May 2012 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 s. 217 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Consumer Protection Legislation Amendment Act 2019 Pt. 6 | 25 of 2019 | 24 Oct 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov. 2019 p. 4101)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 Pt. 14 Div. 10 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Consumer Protection Legislation Amendment Act 2019 Pt. 6 | 25 of 2019 | 24 Oct 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov. 2019 p. 4101)
 Other notes
 The amendment in the Caravan Parks and Camping Grounds Act 1995 Sch. 2 it. 3 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 26(3).
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
@@ -65,7 +62,7 @@ dwelling3(1)
 home building work3(1)
 home building work contract3(1)
 insolvency25A
-insurance25B(5)
+insurance25B.(5)
 minimum amount25A
 officer30(2)
 owner3(1)
@@ -83,5 +80,5 @@ rise-and-fall clause13(3)
 sale contract25A
 settlement25A
 specified period25J(1), 25K(1)
-strata-titled dwelling3(1)
+strata/community title dwelling3(1)
 working days3(1)

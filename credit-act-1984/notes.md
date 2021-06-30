@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Credit Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Credit Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | s. 1 and 2: 27 Dec 1984; Act other than s. 1, 2 and 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867); s. 91(3) deleted by No. 8 of 2009 s. 44(2)
@@ -28,9 +28,6 @@ Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed abo
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 4 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 Pt. 14 Div. 4 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 Repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010.
@@ -59,8 +56,8 @@ billing cycle5(1)
 body corporate5(1)
 cash5(1)
 cash price5(1), 13(5)
-civil penalty85B(8)
-commencement day19A(1)
+civil penalty85B.(8)
+commencement day19A.(1)
 commercial broadcasting station121(8)
 commercial television station121(8)
 commercial vehicle5(1)
@@ -74,9 +71,9 @@ contract of guarantee139(1)
 credit5(1)
 credit charge5(1)
 credit contract5(1)
+creditor48(2)
 credit provider5(1)
 credit sale contract5(1)
-creditor48(2)
 cross-claim5(1)
 daily percentage rate5(1)
 debtor5(1)
@@ -91,8 +88,8 @@ discharge5(1)
 enforcement expense5(1)
 estimated credit charge5(1)
 exempt credit provider5(1)
-farm machinery5(1)
 farming undertaking5(1)
+farm machinery5(1)
 goods5(1)
 guarantee5(1)
 guarantor5(1)
@@ -128,6 +125,6 @@ supplier5(1)
 supply5(1)
 tied continuing credit contract5(1)
 tied loan contract5(1)
-trade or tie agreement5(1)
 trade-in allowance5(1)
+trade or tie agreement5(1)
 Tribunal5(1)

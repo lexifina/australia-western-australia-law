@@ -27,16 +27,25 @@ Reprint 4: The Planning and Development Act 2005 as at 1 Apr 2016 (includes amen
 Heritage Act 2018 s. 186 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Infrastructure Western Australia Act 2019 s. 76 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 14 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 14 (other than s. 224-226) | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Planning and Development Amendment Act 2020 Pt. 2, 4, 5, 8, 10, 11, 13 and 15-17 | 26 of 2020 | 7 Jul 2020 | Pt. 2 and 17: 8 Jul 2020 (see s. 2(1)(c)); Pt. 4, 5, 8, 10, 11, 13, 15 and 16: 12 Sep 2020 (see s. 2(1)(b) and SL 2020/155 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Community Titles Act 2018 Pt. 14 Div. 14 | 32 of 2018 | 19 Nov 2018 | Pt. 14 Div. 14 (other than s. 224-226): 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2); s. 224-226: to be proclaimed (see s. 2(b))
+Community Titles Act 2018 s. 224-226 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Planning and Development Amendment Act 2020 Pt. 3, Pt. 6 Div. 1, Pt. 7 Div. 1, Pt. 9, Pt. 12 Div. 1 and Pt. 14 | 26 of 2020 (as amended by Act No. 45 of 2020 Pt. 10 Div. 10) | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
-Swan Valley Planning Act 2020 Pt. 9 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2)
+Swan Valley Planning Act 2020 Pt. 9 | 45 of 2020 | 9 Dec 2020 | Pt. 9 (other than s. 62): 1 Aug 2021 (see s. 2(1)(d)(i) and (e) and SL 2021/124 cl. 2); s. 62: immediately after the Planning and Development Amendment Act 2020 s. 65 comes into operation (see s. 2(1)(b)(ii))
 Other notes
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 4 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1M appearing after the provision number.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth) Pt. 4 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960. Section 248 was repealed by the Local Government Act 1995 s. 9.70.

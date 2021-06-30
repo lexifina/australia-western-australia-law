@@ -28,12 +28,12 @@ Building Act 2011 s. 171 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 Retirement Villages Amendment Act 2012 (other than s. 4(4)) | 36 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1, 2 and 4(4): 1 Apr 2014 (see s. 2(b) and Gazette 21 Mar 2014 p. 721)
 Reprint 4: The Retirement Villages Act 1992 as at 5 Jul 2013 (includes amendments listed above except those in the Retirement Villages Amendment Act 2012)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 19 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 19 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Retirement Villages Amendment Act 2012 s. 4(4) | 36 of 2012 | 5 Nov 2012 | To be proclaimed (see s. 2(b))
-Community Titles Act 2018 Pt. 14 Div. 19 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 45 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.

@@ -14,7 +14,7 @@ Revenue Laws Amendment (Assessment) Act 2001 Pt. 3 | 3 of 2001 | 26 Jun 2001 | 1
 Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 Pt. 4 | 42 of 2002 | 11 Dec 2002 | 1 Jan 2003 (see s. 2 and Gazette 30 Dec 2002 p. 6635)
 Acts Amendment (Equality of Status) Act 2003 Pt. 50 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Children and Community Services Act 2004 Sch. 2 cl. 22 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction: Gazette 7 Jan 2005 p. 53))
 Rates and Charges (Rebates and Deferments) Amendment Act 2005 | 9 of 2005 | 7 Jul 2005 | s. 4(2), 11, 14(1) and (2) and 15: 1 Jul 2005 (see s. 2(3)); Act other than s. 4(2), 11, 14(1) and (2) and 15: 7 Jul 2005 (see s. 2(1))
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2(1))
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 8 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
@@ -36,12 +36,12 @@ Reprint 4: The Rates and Charges (Rebates and Deferments) Act 1992 as at 4 Oct 2
 Revenue Laws Amendment Act 2015 Pt. 3 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 16 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 16 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 226(4) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 19 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Community Titles Act 2018 Pt. 14 Div. 16 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.

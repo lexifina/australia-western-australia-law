@@ -36,6 +36,7 @@ Compilation table
  | Reprint 6: The Residential Tenancies Act 1987 as at 6 Feb 2015 (includes amendments listed above)
  | Residential Tenancies Amendment Act 2016 | 42 of 2016 | 1 Dec 2016 | s. 1 and 2: 1 Dec 2016 (see s. 2(a)); Act other than s. 1 and 2: 3 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551-2)
  | Strata Titles Amendment Act 2018 Pt. 3 Div. 18 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+ | Community Titles Act 2018 Pt. 14 Div. 18 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
  | Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 2 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
  | Consumer Protection Legislation Amendment Act 2019 Pt. 9 | 25 of 2019 | 24 Oct 2019 | s. 67: 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4101); Pt. 9 other than s. 67: 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
  | Residential Tenancies (COVID-19 Response) Act 2020 Pt. 8 | 18 of 2020 | 23 Apr 2020 | 30 Mar 2020 (see s. 2(d))
@@ -43,8 +44,7 @@ Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 3 (other than s. 8
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Community Titles Act 2018 Pt. 14 Div. 18 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
-Residential Parks (Long- stay Tenants) Amendment Act 2020 s. 89 | 28 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Residential Parks (Long- stay Tenants) Amendment Act 2020 s. 89 | 28 of 2020 | 9 Jul 2020 | 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Tax Assessment Act 2002 and includes amendments made by other written laws 1M, 1MC, 5. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Land Tax Assessment Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -36,16 +36,21 @@ Universities Legislation Amendment Act 2016 Pt. 7 Div. 5 | 32 of 2016 | 19 Oct 2
 Land Tax Assessment Amendment Act 2018 | 5 of 2018 | 26 Apr 2018 | Pt. 2: 1 Jul 2003 (see s. 2(a) and Gazette 27 Jun 2003 p. 2383); Act other than Pt. 2: 26 Apr 2018 (see s. 2(b))
 Reprint 5: The Land Tax Assessment Act 2002 as at 20 Jul 2018 (includes amendments listed above)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 11 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Revenue Laws Amendment Act 2019 Pt. 3 Div. 2 and 3 | 12 of 2019 | 12 Jun 2019 | Pt. 3 Div. 2: 13 Jun 2019 (see s. 2(e)); Pt. 3 Div. 3: 1 Jul 2019 (see s. 2(c))
+Revenue Laws Amendment Act 2019 Pt. 3 Div. 2-4 | 12 of 2019 | 12 Jun 2019 | Pt. 3 Div. 2: 13 Jun 2019 (see s. 2(e)); Pt. 3 Div. 3: 1 Jul 2019 (see s. 2(c)); Pt. 3 Div. 4: 30 Jun 2021 (see s. 2(d)(ii) and SL 2021/69 cl. 2)
+Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
-Revenue Laws Amendment Act 2019 Pt. 3 Div. 4 | 12 of 2019 | 12 Jun 2019 | To be proclaimed (see s. 2(d))
-Swan Valley Planning Act 2020 Pt. 10 Div. 6 | 45 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(e))
+Swan Valley Planning Act 2020 Pt. 10 Div. 6 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 3 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1M appearing after the provision number.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth) Pt. 3 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any law to the Forests Department was to be read as a reference to the Department of Conservation and Land Management.
 Under the Public Sector Management Act 1994 the names of departments may be changed. The Department of Conservation and Land Management was renamed the Department of Environment and Conservation.
