@@ -83,8 +83,14 @@ s. 62A | Causing excessive noise, smoke
 s. 63 | Driving under the influence of alcohol etc.
 s. 64 | Driving with blood alcohol content of or above 0.08
 s. 64AA | Driving with blood alcohol content of or above 0.05
+s. 64B(1) | Driving with blood alcohol content of or above 0.05 with prescribed illicit drug in oral fluid or blood
+s. 64B(3) | Driving with blood alcohol content of or above 0.08 with prescribed illicit drug in oral fluid or blood
+s. 67AD(2) | Failure to comply with drug test requirement for persons with blood alcohol content of or above 0.05
+s. 67AD(4) | Failure to comply with drug test requirement for persons with blood alcohol content of or above 0.08
+s. 67AD(6) | Failure to comply with drug test requirement for persons with blood alcohol content of or above 0.15
 Weapons Act 1999
 Provision | Description of offence
 s. 6 | Prohibited weapons
 s. 7 | Controlled weapons
 s. 8 | Other articles carried or possessed as weapons
+[Schedule 1 amended: SL 2021/56 r. 7.]
