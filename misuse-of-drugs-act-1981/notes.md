@@ -60,11 +60,11 @@ Reprint 7: The Misuse of Drugs Act 1981 as at 1 Dec 2017 (includes amendments li
 Industrial Hemp Amendment Act 2018 Pt. 3 | 15 of 2018 | 28 Aug 2018 | 22 Sep 2018 (see s. 2(b) and Gazette 21 Sep 2018 p. 3533)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2018 published in Gazette 29 Aug 2018 p. 2995-3039 | cl. 1 and 2: 29 Aug 2018 (see cl. 2); Order other than cl. 1 and 2: 30 Aug 2018 (see cl. 2)
 Reprint 8: The Misuse of Drugs Act 1981 as at 19 Jul 2019 (includes amendments listed above)
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 6 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Voluntary Assisted Dying Act 2019 Pt. 12 Div. 6 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Other notes
 The Poisons Act 1964 was repealed by the Medicines and Poisons Act 2014 s. 137.
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
