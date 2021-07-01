@@ -39,12 +39,12 @@ Standardisation of Formatting Act 2010 s. 18 and 51 | 19 of 2010 | 28 Jun 2010 |
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 12 and 22 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 2 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
+Voluntary Assisted Dying Act 2019 Pt. 12 Div. 3 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Guardianship and Administration Amendment (Medical Research) Act 2020 (other than s. 13 and 15) | 14 of 2020 | 6 Apr 2020 | s. 1 and 2: 6 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 13 and 15: 7 Apr 2020 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
-Voluntary Assisted Dying Act 2019 Pt. 12 Div. 3 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Guardianship and Administration Amendment (Medical Research) Act 2020 s. 13 and 15 | 14 of 2020 | 6 Apr 2020 | 7 Apr 2024 (see s. 2(b))
 Other notes
 Footnotes no longer applicable.
