@@ -1,25 +1,6 @@
 ## Schedule 3 — Fees and charges
 [Heading inserted: Gazette 4 Jun 2010 p. 2460.]
-## Division 1 — Pilotage at Wyndham
-[r. 15]
-[Heading inserted: Gazette 24 Jun 2005 p. 2775.]
-1.The charges for pilotage of vessels between Nicholls Point and berth at the Port of Wyndham are —
-Gross registered tonnage of vessel | Charges for both inward and outward pilotage
-Up to 1 499 | $8 770.39
-1 500 — 3 000 | $8 975.17
-3 001 — 5 000 | $9 962.60
-5 001 — 10 000 | $11 016.20
-10 001 — 20 000 | $13 218.92
-20 001 — 30 000 | $14 779.74
-Exceeding 30 000 | $16 181.23
-2.The charges for pilotage of vessels within the Port of Wyndham are —
-(a)for pilotage of vessel being removed from a place in the port to another place in the port not being a removal to or to near the pilot boarding ground | $856.33
-(b)for pilotage of vessel from a berth within the port to a place within that port at or near the pilot boarding ground or vice versa | 50% of the applicable inward and outward pilotage charge
-(c)where a pilot boat and crew are used in connection with a removal referred to in paragraph (a) a further charge, being launch hire —
-(i)during normal hours | $488.79/hour
-(ii)during overtime hours | $700.49/hour
-(d)for pilotage at the Port of Wyndham where a radio watch is required out of hours | an amount equal to the cost of the pilotage service
-[Division 1 inserted: Gazette 24 Jun 2005 p. 2775-6; amended: Gazette 23 Jun 2006 p. 2210; 12 Jun 2007 p. 2724-5; 1 Jul 2008 p. 3158-9; 23 Jun 2009 p. 2484-5; 30 Jun 2010 p. 3170; 21 Jun 2011 p. 2231; 15 Jun 2012 p. 2522; 28 Jun 2013 p. 2778; 27 Jun 2014 p. 2354; 12 Jun 2015 p. 2030; 27 May 2016 p. 1554; 26 May 2017 p. 2645; 25 May 2018 p. 1646; 17 May 2019 p. 1441-2; SL 2020/60 r. 10.]
+[Division 1 deleted: SL 2021/51 r. 15.]
 ## Division 2 — Conservancy dues
 [r. 18]
 [Heading inserted: Gazette 24 Jun 2005 p. 2776.]

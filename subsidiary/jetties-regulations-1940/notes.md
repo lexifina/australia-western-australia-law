@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
@@ -134,9 +134,6 @@ Jetties Amendment Regulations (No. 2) 2019 | 31 May 2019 p. 1755-94 | r. 1 and 2
 Jetties Amendment Regulations (No. 2) 2020 | SL 2020/96 26 Jun 2020 | r. 1 and 2: 26 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Jetties Amendment Regulations 2020 | SL 2020/128 31 Jul 2020 | r. 1 and 2: 31 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2020 (see r. 2(b))
 Jetties Amendment Regulations (No. 4) 2020 | SL 2020/238 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Ports) Regulations 2021 Pt. 2 | SL 2021/51 7 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Other notes
@@ -171,7 +168,7 @@ commercial passenger vessel67DD
 commercial vessel3(1)
 day3(2)
 Department3(1)
-enhanced facilitiesSch. 1 cl. 32(1)
+enhanced facilitiesSch. 1 cl. 31(1)
 exclusive operator67DD, 67DF(2)
 fishing vessel3(1)
 fuel pipeline105J
