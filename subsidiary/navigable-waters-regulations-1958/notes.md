@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -148,9 +148,6 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 25 M
 Navigable Waters Amendment Regulations 2018 | 14 Sep 2018 p. 3315-16 | r. 1 and 2: 14 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Transport Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 17 May 2019 p. 1437-42 | 1 Jul 2019 (r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/60 22 May 2020 | 1 Jul 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Other notes
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
