@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | Regulations other than r. 4(3)(b): 30 Sep 2004; r. 4(3)(b): 1 Oct 2004 (see r. 4(3) and the Wholesale Electricity Market Rules published in Gazette 5 Oct 2004 r. 1.8.2 and 1.9.7)
@@ -26,11 +26,7 @@ Reprint 3: The Electricity Industry (Wholesale Electricity Market) Regulations 2
 Energy Regulations Amendment (Independent Market Operator) Regulations 2018 Pt. 2 | 27 Jul 2018 p. 2687-9 | 28 Jul 2018 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2019 | 20 Sep 2019 p. 3384-5 | r. 1 and 2: 20 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2019 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2020 | SL 2020/202 23 Oct 2020 | r. 1 and 2: 23 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2020 (see r. 2(b))
-Energy Regulations Amendment Regulations 2021 Pt. 2 (other than Div. 3) | SL 2021/2 15 Jan 2021 | Pt. 2 Div. 1: 16 Jan 2021 (see r. 2(b)); Pt. 2 Div. 2: 8 am on 1 Feb 2021 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Energy Regulations Amendment Regulations 2021 Pt. 2 Div. 3 | SL 2021/2 15 Jan 2021 | 1 Jul 2021 (see r. 2(e))
+Energy Regulations Amendment Regulations 2021 Pt. 2 | SL 2021/2 15 Jan 2021 | Pt. 2 Div. 1: 16 Jan 2021 (see r. 2(b)); Pt. 2 Div. 2: 8 am on 1 Feb 2021 (see r. 2(c)); Pt. 2 Div. 3: 1 Jul 2021 (see r. 2(e))
 Other notes
 Now known as the Competition and Consumer Act 2010 (Cwlth). The short title was changed by the Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 Sch. 5 cl. 2 (Cwlth).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -59,7 +55,7 @@ market rules5, 6(1)
 market website3
 new rules4(1)
 operator3
-person17A(1) and (2)
+person17A(1), 17A(2)
 person required to pay40(1AA)
 procedural decision41(1), 48
 protected information54(1)
@@ -71,6 +67,5 @@ Rule Change Panel function17C(1)
 short term trading, balancing and reserve capacity18A(1)
 specified3
 SWIS3
-System Management3, 13(2)
 top-up and spill rules4(1)
 under3
