@@ -100,11 +100,11 @@ Occupational Safety and Health Amendment (COVID-19 Response) Repeal Regulations 
 Occupational Safety and Health Amendment Regulations 2020 | SL 2020/182 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2020 (see r. 2(b))
 Occupational Safety and Health Amendment (COVID-19 Response) Regulations (No. 2) 2020 | SL 2020/198 27 Oct 2020 | r. 1 and 2: 27 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2020 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2021 | SL 2021/3 15 Jan 2021 | r. 1 and 2: 15 Jan 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Apr 2021 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No 2) 2021 | SL 2021/84 21 Jun 2021 | r. 1 and 2: 21 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
-Work Health and Safety Act 2020 s. 279 assented to 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
-Occupational Safety and Health Amendment Regulations (No 2) 2021 r. 3-7 | SL 2021/84 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Work Health and Safety Act 2020 s. 279 assented to 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Other notes
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
@@ -126,19 +126,19 @@ appointed medical practitioner5.1(1)
 approved1.3
 article5.1(1)
 AS1.3
-AS/NZS1.3
 asbestos1.3, 5.1(1)
+asbestos-containing material3.126(1), 5.42(1)
 asbestos demolition site3.126(1)
 asbestos dust5.42(1)
 asbestos removalist licence 5.53A(1)
 asbestos work5.42(1)
 asbestos work area5.42(1)
-asbestos-containing material3.126(1), 5.42(1)
+AS/NZS1.3
 assessment instrument6.20(1)
 assessor6.1(1)
 atmospheric monitoring5.53
-audiogram7.41(1)
-authorised person4.37A(b)
+audiogram7.4(1)
+authorised person4.37A(2)
 award2.2(11)
 barricade3.66
 biological monitoring5.1(1), 5.53
@@ -164,7 +164,7 @@ class 33.114
 classified plant7.1
 client3.137
 commencement7.1
-commencement day2.14A(1), 7.9(1)
+commencement day7.9(1)
 commercial vehicle3.130
 commercial vehicle driver3.130
 commissioning4.1
@@ -190,13 +190,11 @@ danger tag1.3
 danger zone3.64(1)
 de-energised3.58(1)
 demolition1.3, 3.114
-demolition licence5.1(1)
+demolition licence5.53A(1)
 derrick craneSch. 6.3 cl. 6
-design verifier4.1
-designated fee2.14A(1)
-designated period1.3
 designated plant7.1
 designer3.137
+design verifier4.1
 direct fired process heaterSch. 6.3 cl. 10
 documentary evidence of forklift competency7.9(1)
 dogger4.54(1)
@@ -218,12 +216,12 @@ escalator4.1
 exhaust system1.3
 existing assessor7.20(1)
 existing assessor of forklift competency7.21(1)
-expiry date5.45F(2), 6.11(2), 6.27(2)(a)
+expiry date5.45F(2), 6.11(2), 6.27(2)
 explosive powered tool4.1
 exposure standard5.1(1)
 exposure standard for noise3.45
 fall injury prevention system3.48
-filter3.37(l)
+filter3.37
 finalised5.42(2), 6.1(2), 7.9(2)
 fired heater4.1
 first aid3.12(1)
@@ -241,15 +239,15 @@ GHS5.1(1)
 GHS classified hazardous substance5.1(1)
 GVM3.130
 hand-held equipment3.60(2)
-hazard classSch. 5.1 Div. 2
+hazard classSch. 5.1
 hazardous substance5.1(1)
 Hazardous Substances Information System5.1(1)
 health surveillance5.1(1), 5.53
+high-risk construction work3.137
 high risk work6.1(1), 7.9(1)
 high risk work (interstate) licence6.1(1), 7.9(1)
-high risk work (WA) licence6.1(1), 7.9(1)
 high risk work licence1.3, 6.1(1)
-high-risk construction work3.137
+high risk work (WA) licence6.1(1), 7.9(1)
 hoarding1.3, 3.66
 hoist1.3, 4.1
 holder6.1(3)
@@ -265,9 +263,9 @@ interlocked4.1
 introductory course2.2(2)
 isocyanate5.72
 LAeq,8h3.45
-L C,peak3.45
 laser4.1
 laser product4.1
+L C,peak3.45
 lead material5.53
 lead process5.53
 lead-risk job5.53
@@ -286,7 +284,7 @@ mobile crane4.1, Sch. 6.3 cl. 6
 monitoring5.1(1)
 motor vehicle3.130
 MSDS5.1(1)
-nail gun4.1
+nail gun3.143(6)
 National Code 5.1(1)
 national standard7.9(1)
 network operator3.58(1)
@@ -297,15 +295,16 @@ non-slewing mobile craneSch. 6.3 cl. 6
 notice of satisfactory assessment6.1(1), 7.9(1)
 ongoing surveillance5.24(1)
 operator protective devices4.1
+or5.1(1)
 order-picking forklift truckSch. 6.3 cl. 8
 other facility3.20(1)
 out-of-service tag4.1
 overhead power line3.64(1)
 oxygen deficient atmosphere3.37
 passenger4.44(7)
-person having control of a workplace1.3
-person having control of access to a workplace1.3
 personal hearing protectors3.45
+person having control of access to a workplace1.3
+person having control of a workplace1.3
 personnel and materials hoistSch. 6.3 cl. 6
 platform1.3
 polyhydroxy compound5.72
@@ -328,7 +327,6 @@ qualification or statement of attainment6.1(1)
 reciprocating steam engineSch. 6.3 cl. 10
 recognised construction induction training course3.135
 record5.1(1)
-reduced fee2.14A(1)
 registered training organisation1.3
 registration6.18
 regulation 1.15 penalty1.3
@@ -340,7 +338,7 @@ RepairsSch. 5.2
 repealed regulations7.1
 representative2.2(2), 2.3(2)
 resin5.72
-responsible person3.88, 4.54(1)
+responsible person3.88H, 4.54(1)
 responsible person at a workplace3.130
 restricted licence5.42(1)
 retailer5.1(1)
@@ -349,9 +347,9 @@ rigging workSch. 6.3 cl. 4
 risk phrase5.1(1)
 roof3.44A
 roof space3.59B(1)
+safety phrase5.1(1)
 Safe Work Australia5.1(1)
 safe work method statement3.137
-safety phrase5.1(1)
 sanitary facilities3.20(1)
 scaffold1.3, 3.66
 scaffolding equipment3.66
@@ -363,14 +361,13 @@ self-contained breathing apparatus3.37
 self-erecting tower craneSch. 6.3 cl. 6
 service apparatus3.59B(1)
 slewing mobile craneSch. 6.3 cl. 6
-smoke3. 44A
+smoke3.44A
 spray painting3.99
 spray painting process3.99
 spur scaffold3.66, Sch. 6.3 cl. 2
 substance5.1(1)
 supplied air respirator1.3, 3.37
 supplier5.1(1)
-supply authority3.58
 suspended scaffold3.66, Sch. 6.3 cl. 1
 tilt-up work3.88(1)
 tobacco product3.44A
@@ -378,12 +375,12 @@ tower crane4.1, Sch. 6.3 cl. 6
 toxic atmosphere3.37, 3.40(1)
 toxic paint3.99
 tractor4.1
-transition period7.9(1)
 transitional course2.2(2)
+transition period7.9(1)
 turbineSch. 6.3 cl. 10
-type I ingredient5.1(1), Sch. 5.1 Div. 1 and 2
-type II ingredient5.1(1), Sch. 5.1 Div. 1 and 2
-type III ingredient5.1(1), Sch. 5.1 Div. 1 and 2
+type III ingredient5.1(1), Sch. 5.1
+type II ingredient5.1(1), Sch. 5.1
+type I ingredient5.1(1), Sch. 5.1
 unrestricted licence5.42(1)
 use4.1, 5.1(1), 6.3(1), Sch. 6.3 cl. 1
 vehicle hoist4.1
@@ -394,7 +391,7 @@ warehouse operator5.1(1)
 welding1.3, 3.94
 wet abrasive blasting1.3, 3.102
 work box4.1
-work that the person was authorised to do7.9(1)
-work time3.130
 worker6.2(3)
 workplace3.60(2)
+work that the person was authorised to do7.9(1)
+work time3.130
