@@ -1,3 +1,3 @@
 ## Schedule 5 — Drainage charges for the Water Corporation
-[r. 47]
-[Heading inserted: SL 2020/95 r. 9.]
+[r. 24 and 47]
+[Heading inserted: SL 2021/80 r. 8.]

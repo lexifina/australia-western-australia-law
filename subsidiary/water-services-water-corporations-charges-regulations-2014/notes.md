@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Services (Water Corporations Charges) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Water Services (Water Corporations Charges) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Water Services (Water Corporations Charges) Regulations 2014 | 25 Jun 2014 p. 2155-298 | r. 1 and 2: 25 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
@@ -18,9 +18,6 @@ Water Regulations Amendment (Strata Titles) Regulations 2019 Pt. 3 | 31 Dec 2019
 Water Services Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/95 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Water Services (Water Corporations Charges) Amendment Regulations 2020 | SL 2020/177 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2020 (see r. 2(b))
 Water Regulations Amendment (Community Titles) Regulations 2021 Pt. 3 | SL 2021/79 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Water Services Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/80 18 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.

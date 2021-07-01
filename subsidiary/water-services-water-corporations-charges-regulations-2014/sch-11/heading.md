@@ -1,6 +1,6 @@
 ## Schedule 11 — Class of town or area: previous consumption year
 [Sch. 3 it. 23]
-[Heading inserted: SL 2020/95 r. 10.]
+[Heading inserted: SL 2021/80 r. 9.]
 Town/area | Residential classification | Non-residential classification
 Albany | 4 | 11
 Allanooka Farmlands | 2 | 1
@@ -235,4 +235,4 @@ Yealering | 5 | 15
 Yerecoin | 5 | 15
 York | 5 | 15
 Yuna | 5 | 15
-[Schedule 11 inserted: SL 2020/95 r. 10.]
+[Schedule 11 inserted: SL 2021/80 r. 9.]
