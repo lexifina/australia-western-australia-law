@@ -1,17 +1,13 @@
 Notes
-This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Regulations 2015 | 25 Aug 2015 p. 3401-595 | r. 1 and 2: 25 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Oct 2015 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations 2015 | 7 Dec 2015 p. 4883-90 | r. 1 and 2: 7 Dec 2015 (see r. 2(a)); r. 3 and 4: 8 Dec 2015 (see r. 2(b)); r. 5: 8 Dec 2015 (see r. 2(c) and Gazette 7 Dec 2015 p. 4881)
 Planning and Development (Local Planning Schemes) Amendment Regulations 2020 | SL 2020/30 3 Apr 2020 | r. 1 and 2: 3 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2020 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4655-6 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
-Planning Regulations Amendment Regulations 2020 Pt. 2 (other than Div. 3) | SL 2020/252 18 Dec 2020 | 15 Feb 2021 (see r. 2(c))
+Planning Regulations Amendment Regulations 2020 Pt. 2 | SL 2020/252 18 Dec 2020 | Pt. 2 (other than Div. 3): 15 Feb 2021 (see r. 2(c)); Pt. 2 Div. 3: 1 Jul 2021 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations 2021 | SL 2021/77 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Planning Regulations Amendment Regulations 2020 Pt. 2 Div. 3 | SL 2020/252 18 Dec 2020 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
@@ -25,15 +21,16 @@ additional site and development requirementsSch. 1 cl. 34(1)
 advertisementSch. 2 cl. 1
 affected land74(1)
 affected personSch. 2 cl. 76(1)
-agriculture — extensiveSch. 1 cl. 38
-agriculture — intensiveSch. 1 cl. 38
+agriculture - extensiveSch. 1 cl. 38
+agriculture - intensiveSch. 1 cl. 38
 amended deemed provisionsSch. 2 cl. 89
 amended regulations82(1)
 amenitySch. 2 cl. 1
 amusement parlourSch. 1 cl. 38
 ancillary dwellingSch. 2 cl. 1
 animal establishmentSch. 1 cl. 38
-animal husbandry — intensiveSch. 1 cl. 38
+animal husbandry - intensiveSch. 1 cl. 38
+applicable minimum on-site parking requirementSch. 2 cl. 77A
 applicationSch. 2 cl. 78F(2)
 art gallerySch. 1 cl. 38
 AS 3959Sch. 2 cl. 78A
@@ -52,9 +49,10 @@ built heritage conservationSch. 2 cl. 1
 bulky goods showroomSch. 1 cl. 38
 bushfire attack level assessment Sch. 2 cl. 78A
 cabinSch. 1 cl. 37(1)
-car parkSch. 1 cl. 38
 caravan parkSch. 1 cl. 38
 caretaker’s dwellingSch. 1 cl. 38
+car parkSch. 1 cl. 38
+cessation daySch. 2 cl. 77O(3)
 chaletSch. 1 cl. 37(1)
 child care premisesSch. 1 cl. 38
 cinema/theatreSch. 1 cl. 38
@@ -66,9 +64,9 @@ class X useSch. 2 cl. 1
 clause10(3), 10(5)
 club premisesSch. 1 cl. 38
 commencement day77, 82(1), Sch. 2 cl. 78G(1) and 89
+commercial, centre or mixed use zoneSch. 2 cl. 1
 commercial vehicleSch. 1 cl. 37(1)
 commercial vehicle parkingSch. 1 cl. 38
-commercial, centre or mixed use zoneSch. 2 cl. 1
 committeeSch. 2 cl. 81
 community purposeSch. 1 cl. 38
 complex amendment34
@@ -103,6 +101,7 @@ family day careSch. 1 cl. 38
 fast food outlet/lunch barSch. 1 cl. 38
 floor areaSch. 1 cl. 37(1)
 former deemed provisionsSch. 2 cl. 89
+former planSch. 2 cl. 77O(1)
 former regulations82(1)
 former SchemeSch. 2 cl. 13A(1)
 freeway service centreSch. 1 cl. 38
@@ -128,12 +127,13 @@ hotelSch. 1 cl. 38
 in a bushfire prone areaSch. 2 cl. 78C
 incidental useSch. 2 cl. 1
 industrySch. 1 cl. 38
-industry — extractiveSch. 1 cl. 38
-industry — lightSch. 1 cl. 38
-industry — primary productionSch. 1 cl. 38
+industry - extractiveSch. 1 cl. 38
+industry - lightSch. 1 cl. 38
+industry - primary productionSch. 1 cl. 38
+interim parking provisionsSch. 2 cl. 77G(4)
 light industry zoneSch. 2 cl. 1
-liquor store — largeSch. 1 cl. 38
-liquor store — smallSch. 1 cl. 38
+liquor store - largeSch. 1 cl. 38
+liquor store - smallSch. 1 cl. 38
 local development planSch. 2 cl. 46
 local governmentSch. 2 cl. 1
 local government CEOSch. 2 cl. 1
@@ -146,12 +146,13 @@ marketSch. 1 cl. 38
 medical centreSch. 1 cl. 38
 method of calculation74(1)
 mineralsSch. 1 cl. 37(1)
+minimum on-site parking requirementSch. 2 cl. 77A
 mining operationsSch. 1 cl. 38
 Minister for HeritageSch. 2 cl. 1
 motelSch. 1 cl. 38
+motor vehicle, boat or caravan salesSch. 1 cl. 38
 motor vehicle repairSch. 1 cl. 38
 motor vehicle washSch. 1 cl. 38
-motor vehicle, boat or caravan salesSch. 1 cl. 38
 multiple dwellingSch. 2 cl. 1
 natural ground levelSch. 2 cl. 1
 net lettable areaSch. 2 cl. 1
@@ -161,7 +162,10 @@ non-conforming useSch. 2 cl. 1
 officeSch. 1 cl. 38
 ownerSch. 2 cl. 1
 park home parkSch. 1 cl. 38
-Part10(3) and (5)
+parking space shortfallSch. 2 cl. 77A and 77C
+Part10(3), 10(5)
+payment in lieu of parking conditionSch. 2 cl. 77A
+payment in lieu of parking planSch. 2 cl. 77A and 77J(1)
 Peel Region Scheme areaSch. 2 cl. 1
 placeSch. 2 cl. 7
 place of worshipSch. 1 cl. 38
@@ -177,11 +181,13 @@ properly maintainedSch. 2 cl. 13(1)
 publication requirements76B(1), Sch. 2 cl. 88(1)
 R-CodesSch. 2 cl. 1
 reception centreSch. 1 cl. 38
-recreation — privateSch. 1 cl. 38
+recreation - privateSch. 1 cl. 38
 refund amountSch. 2 cl. 1
 refund pointSch. 2 cl. 1
 region planning schemeSch. 2 cl. 1
 relevant advertising process82(1), Sch. 2 cl. 91(1)
+relevant payerSch. 2 cl. 77I(4) and 77O(1)
+relevant payment in lieu of parking planSch. 2 cl. 77A
 relevant planning instrument82(3), Sch. 2 cl. 91(3)
 repealed regulations77
 reserveSch. 2 cl. 1
@@ -191,8 +197,8 @@ restaurant/cafeSch. 1 cl. 38
 restricted premisesSch. 1 cl. 38
 retailSch. 1 cl. 37(1)
 reverse vending machineSch. 2 cl. 1
-review expenses74(1)
 reviewable determinationSch. 2 cl. 76(1)
+review expenses74(1)
 road houseSch. 1 cl. 38
 rural home businessSch. 1 cl. 38
 rural pursuit/hobby farmSch. 1 cl. 38
@@ -201,8 +207,11 @@ Scheme areaSch. 2 cl. 1
 Scheme commencement daySch. 1 cl. 37(1)
 scheme map3
 scheme text), thisSch. 1 cl. 7(1)
-service stationSch. 1 cl. 38
 serviced apartmentSch. 1 cl. 38
+service stationSch. 1 cl. 38
+shared parking arrangementSch. 2 cl. 77Q(1)
+shared parking arrangement conditionSch. 2 cl. 77A
+shared siteSch. 2 cl. 77Q(1)
 shopSch. 1 cl. 38
 short-term accommodationSch. 1 cl. 37(1)
 single houseSch. 2 cl. 1
@@ -222,9 +231,9 @@ this Scheme10(3), 10(5)
 tourist developmentSch. 1 cl. 38
 trade displaySch. 1 cl. 38
 trade suppliesSch. 1 cl. 38
-transition periodSch. 2 cl. 78G(1)
 transitional development siteSch. 2 cl. 78G(1)
 transitional permitSch. 2 cl. 78F(2)
+transition periodSch. 2 cl. 78G(1)
 transport depotSch. 1 cl. 38
 tree farmSch. 1 cl. 38
 value74(1)
