@@ -37,7 +37,7 @@
 8K. | Schedule 1 clause 5W(2): unloading goods on to wharf, or placing goods on wharf, otherwise than where directed by harbour master | $200.00
 8L. | Schedule 1 clause 5W(3): unloading goods on to wharf, or placing goods on wharf, in a manner that obstructs or interferes with, or is likely to obstruct or interfere with, a mooring point, hose connection or electrical fixture | $200.00
 8M. | Schedule 1 clause 5X(2): failing to report incident resulting in damage to port facility, vessel, navigational aid, etc. | $200.00
- | Port of Ashburton and Port of Dampier
+ | Port of Ashburton, Port of Dampier and Port of Varanus Island
 9. | Schedule 1 clause 38(2): vessel entering boating safety exclusion zone | $200.00
 10. | Schedule 1 clause 39(2): failing to produce on demand certificate of tonnage and certificate of registry etc. | $200.00
 11. | Schedule 1 clause 41(1): operating propeller of a vessel moored to a wharf | $200.00
@@ -50,7 +50,7 @@
 17A. | Schedule 1 clause 53(5): failing to comply with direction to cause removal of mooring within 14 days after revocation of authorisation to install or use the mooring | $500.00
 18. | Schedule 1 clause 62(1): unauthorised placing of goods on port facility, port land, etc. | $200.00
 19. | Schedule 1 clause 62(2): unloading goods on to wharf, or placing goods on wharf, otherwise than where directed by harbour master | $200.00
-20. | Schedule 1 clause 62(3): unloading goods on to wharf, or placing goods on wharf, less than 1 m from mooring point, hose connection, etc. | $200.00
+20. | Schedule 1 clause 62(3): unloading goods on to wharf, or placing goods on wharf, in a manner that obstructs or interferes with, or is likely to obstruct or interfere with, a mooring point, hose connection or electrical fixture | $200.00
 21. | Schedule 1 clause 63(2): failing to report incident resulting in damage to port facility, vessel, navigational aid, etc. | $200.00
  | Port of Esperance
 22. | Schedule 1 clause 64B: unauthorised berthing of fishing vessel at main wharf berth 1, 2 or 3 | $200.00
@@ -59,4 +59,4 @@
  | Port of Fremantle
 25. | Schedule 1 clause 100: unauthorised swimming in waters of port outside designated area | $200.00
 26. | Schedule 1 clause 101(1): unauthorised use of motor boats, or water skiing, in Inner Harbour | $200.00
-[Schedule 3 amended: Gazette 31 Jan 2003 p. 298-9; 10 Dec 2004 p. 5916; 28 Jun 2013 p. 2766; 20 Jun 2014 p. 2035;3 Oct 2017 p. 5047-8.]
+[Schedule 3 amended: Gazette 31 Jan 2003 p. 298-9; 10 Dec 2004 p. 5916; 28 Jun 2013 p. 2766; 20 Jun 2014 p. 2035;3 Oct 2017 p. 5047-8; SL 2021/52 r. 33.]

@@ -6,5 +6,5 @@ restricted area means the areas shaded in red on the map bearing the logo of the
 (b) fish in the restricted area.
 Penalty for this subclause: a fine of $5 000.
 [Clause 5ZA inserted: Gazette 3 Oct 2017 p. 5045.]
-## Division 2 — Port of Broome
-[Heading inserted: Gazette 20 Jun 2014 p. 2032.]
+## Division 2 — Port of Broome, Port of Derby, Port of Wyndham and Port of Yampi Sound
+[Heading inserted: Gazette 20 Jun 2014 p. 2032; amended: SL 2021/52 r. 11.]
