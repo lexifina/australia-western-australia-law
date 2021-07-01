@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
@@ -91,9 +91,6 @@ Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 
 Real Estate and Business Agents (General) Amendment Regulations 2020 | SL 2020/209 30 Oct 2020 | r. 1 and 2: 30 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2020 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2020 | SL 2020/257 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 5 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 18 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
@@ -108,18 +105,15 @@ approved CPD activity2(1)
 authorised financial institution6C
 business6E(2)
 calendar year2(1)
-commencement day4AAA(1), 16(1)
+commencement day16(1)
 continuing professional development2(1)
 CPD subject2(1)
-designated fee4AAA(1)
-designated period2(1)
 educational activity2(1)
 former regulation 4AA16(1)
 holding fee4A(1)
 mandatory CPD activity2(1)
 point value2(1)
 record2(1)
-reduced fee4AAA(1)
 register2(1)
 registered training provider2(1)
 regulated person2(1)

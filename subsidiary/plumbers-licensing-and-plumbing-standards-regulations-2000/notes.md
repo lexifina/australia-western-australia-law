@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -47,9 +47,6 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations 2020 | SL 2020/1
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 15 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2021 | SL 2021/89 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2021 (see r. 2(b))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 4 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 17 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
@@ -77,7 +74,6 @@ business document25A(2)
 CertificateSch. 3 cl. 1
 certificate of compliance3(1)
 chairperson3(1)
-commencement day109A(1)
 common property55
 compliance purposes82
 compression union13A(4)
@@ -85,8 +81,6 @@ connection point55
 dangerous situation3(1)
 declaration54(1)
 deputy chairperson3(1)
-designated fee109A(1)
-designated period3(1)
 disciplinary complaint3(1)
 disciplinary matter3(1)
 drainage plumbing3(1)
@@ -145,7 +139,6 @@ provisional tradesperson’s licence (drainage plumbing)3(1)
 qualifying plumbing courses37
 rear driveway58(1)
 rear lot58(1)
-reduced fee109A(1)
 register3(1)
 registered training providerSch. 3 cl. 1
 re-issue a licence or permit20A(1A)
@@ -172,7 +165,6 @@ tradesperson’s licence3(1)
 tradesperson’s licence (drainage plumbing)3(1)
 Trades Recognition AustraliaSch. 3 cl. 5(1)
 trade waste3(1)
-waived fee109A(1)
 waste3(1)
 wastewater3(1)
 water heater3(1)

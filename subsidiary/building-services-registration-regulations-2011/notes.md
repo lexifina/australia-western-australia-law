@@ -28,9 +28,6 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 4 | 2
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 4 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
@@ -55,12 +52,10 @@ certificate of building compliance3
 certificate of construction compliance3
 certificate of design compliance3
 Class 10 building22
-commencement day9A(1), 37, 43
+commencement day37, 43
 compliance certificate3
-designated fee9A(1)
-designated period3
 detached house22
-eligible person16(4), 28D(2A) and (3A), 31(4)
+eligible person16(4), 28D(2A), 28D(3A), 31(4)
 farm building12
 former board37, 43
 former registrar37, 43
@@ -73,7 +68,6 @@ painting contractor28(1), Sch. 5 cl. 1
 painting work28(1)
 previously registered16(4)
 principal builder3
-reduced fee9A(1)
 relevant componentsSch. 2 cl. 1
 repeal day47
 repealed Act37, 43

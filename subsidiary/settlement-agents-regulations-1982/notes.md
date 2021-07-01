@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Settlement Agents Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Settlement Agents Regulations 1982 | 19 Mar 1982 p. 886-7 | 19 Mar 1982
@@ -63,9 +63,6 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 25 | 
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 17 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Settlement Agents Amendment Regulations 2020 | SL 2020/259 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 8 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 20 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
@@ -85,10 +82,8 @@ Defined terms
 Defined termProvision(s)
 applicant4C(1)
 approved educational activity2
-commencement day4AA(1), 18(1)
+commencement day18(1)
 core professional development subject2
-designated fee4AA(1)
-designated period2
 educational activity2
 former regulation 4C18(1)
 holding fee4A(1)
@@ -96,7 +91,6 @@ point value2
 professional development subject2
 public training provider6(3)
 record2
-reduced fee4AA(1)
 register2
 registered training provider6(3)
 relevant bank accepted bills rate6D(2)

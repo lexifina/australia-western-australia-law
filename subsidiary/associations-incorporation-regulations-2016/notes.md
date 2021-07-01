@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Associations Incorporation Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Associations Incorporation Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Associations Incorporation Regulations 2016 | 24 Jun 2016 p. 2407-77 | 1 July 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291-2)
@@ -9,9 +9,6 @@ Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regul
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 2 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

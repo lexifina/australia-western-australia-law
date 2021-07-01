@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Dealers (Licensing) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Motor Vehicle Dealers (Licensing) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Motor Vehicle Dealers (Licensing) Regulations 1974 | 29 Mar 1974 p. 1103-21 | 5 Apr 1974 (see Gazette 5 Apr 1974 p. 1180)
@@ -54,15 +54,8 @@ Licensing Provisions Regulations Amendment Regulations 2017 Pt. 4 | 27 Jun 2017 
 Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 14 | 25 Jun 2018 p. 2325-53 | 1 Jul 2018 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 13 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 13 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 15 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-commencement day7AA(1)
-designated fee7AA(1)
-designated period2
-reduced fee7AA(1)
 related company9(1)

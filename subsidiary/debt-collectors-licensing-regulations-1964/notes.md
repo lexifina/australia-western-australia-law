@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Debt Collectors Licensing Regulations 1964 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Debt Collectors Licensing Regulations 1964 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Debt Collectors Licensing Regulations 1964 | 14 Apr 1965 p. 1031-7 | 1 May 1965 (see Gazette 15 Apr 1965 p. 1041)
@@ -41,9 +41,6 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 18 Ju
 Debt Collectors Licensing Amendment Regulations 2019 | 25 Jun 2019 p. 2191-2 | r. 1 and 2: 25 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jun 2019 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 10 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 7 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 9 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Under the Consumer Affairs Act 1971 s. 4(3), references, however expressed, in any other Act or in any regulation, notice, proclamation, or statutory instrument of any kind made, published or in force under that or any other Act to the Commissioner for Consumer Protection are, unless the context requires otherwise, read and construed as references to the Commissioner for Fair Trading as defined by the Consumer Affairs Act 1971.
@@ -52,9 +49,5 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act1(2)
-commencement day4A(1)
-designated fee4A(1)
-designated period4(1A)
-reduced fee4A(1)
 surrendered licence9A(1)
 transition period6A(1)
