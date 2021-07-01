@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Blood Sampling and Analysis) Regulations 1975 | 29 May 1975 p. 1537-42 | 1 Jun 1975
@@ -34,9 +34,6 @@ Road Traffic Regulations Amendment Regulations 2017 Pt. 2 | 7 Feb 2017 p. 1171-7
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2017 | 27 Jun 2017 p. 3448-9 | r. 1 and 2: 27 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2017 (see r. 2(b))
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2019 | 8 Feb 2019 p. 247-9 | r. 1 and 2: 8 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2019 (see r. 2(b))
 Reprint 5: The Road Traffic (Blood Sampling and Analysis) Regulations 1975 as at 9 Aug 2019 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Road Safety Regulations Amendment and Repeal Regulations 2021 Pt. 2 | SL 2021/58 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

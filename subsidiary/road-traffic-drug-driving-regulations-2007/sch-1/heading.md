@@ -5,7 +5,6 @@ WESTERN AUSTRALIA
 ROAD TRAFFIC ACT 1974
 Road Traffic (Drug Driving) Regulations 2007 r. 10(1)
 Road Traffic (Blood Sampling and Analysis) Regulations 1975 r. 10(2)
-Road Traffic (Urine Sampling and Analysis) Regulations 1983 r. 11(2)
 CERTIFICATE OF DRUGS ANALYST
 Laboratory reference no. ............................
 Police reference no. ....................................
@@ -30,7 +29,7 @@ Certified on ............................................... at ................
 ...................................................................................................
 Address of drugs analystSignature of drugs analyst
 * Please delete inapplicable alternative.
-[Form 1 amended: Gazette 9 Oct 2009 p. 3998-9; 6 Mar 2015 p. 818.]
+[Form 1 amended: Gazette 9 Oct 2009 p. 3998-9; 6 Mar 2015 p. 818; SL 2021/58 r. 15.]
 Form 2
 (r. 10(2))
 WESTERN AUSTRALIA
