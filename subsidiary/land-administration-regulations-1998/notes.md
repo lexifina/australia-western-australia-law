@@ -39,6 +39,7 @@ Land Administration Amendment Regulations 2018 | 22 Jun 2018 p. 2181-2 | r. 1 an
 Land Administration Amendment Regulations 2019 | 18 Jun 2019 p. 2056-7 | r. 1 and 2: 18 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Land Administration Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2484-5 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Land Regulations Amendment (Geocentric Datum) Regulations 2020 Pt. 2 | SL 2020/64 22 May 2020 | 1 Jul 2020 (see r. 2(b))
+Land Administration Amendment Regulations 2021 | SL 2021/103 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
