@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health (Notifications by Midwives) Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Health (Notifications by Midwives) Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Health (Notifications by Midwives) Regulations 1994 | 28 Jan 1994 p. 283-5 | 28 Jan 1994
@@ -13,7 +13,4 @@ Health Regulations Amendment (Public Health) Regulations 2016 Pt. 17 | 10 Jan 20
 Health (Notifications by Midwives) Amendment Regulations 2017 | 16 May 2017 p. 2489-91 | r. 1 and 2: 16 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Reprint 2: The Health (Notifications by Midwives) Regulations 1994 as at 22 Sep 2017 (includes amendments listed above)
 Health (Notifications by Midwives) Amendment Regulations 2019 | 14 Jun 2019 p. 1894-6 | r. 1 and 2: 14 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Health (Notifications by Midwives) Amendment Regulations 2021 r. 3 and 4 | SL 2021/62 21 May 2021 | 1 Jul 2021 (see r. 2(b))
+Health (Notifications by Midwives) Amendment Regulations 2021 | SL 2021/62 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
