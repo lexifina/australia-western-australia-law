@@ -43,11 +43,11 @@ Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 P
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 6 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations 2020 | SL 2020/239 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Work Health and Safety Act 2020 Pt. 15 Div. 2 Subdiv. 2 assented to 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 7 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Work Health and Safety Act 2020 Pt. 15 Div. 2 Subdiv. 2 assented to 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Other notes
 Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
 The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as follows:
@@ -77,13 +77,13 @@ appointed member2.7
 approved7.1, 16.1
 approved person3.23
 AS1.3
-AS/NZS1.3
 asbestos removal work9.1
+AS/NZS1.3
 atmospheric contaminant9.1
 Australian Design Rule1.3
 authorised limit16.1
 authorised person5.31(4), 8.21(6)
-automotive diesel fuel10.47(1)
+automotive diesel fuel10.47.(1)
 best practicable technology16.1
 biological monitoring3.23
 Board2.7, 3.43
@@ -99,12 +99,12 @@ butt8.1
 cable5.1
 certificate1.3, 15.1
 charge8.1
-Class I winding engine driver’s certificate1.3
-Class II winding engine driver’s certificate1.3
 classified plant6.1
+Class II winding engine driver’s certificate1.3
+Class I winding engine driver’s certificate1.3
 Code of Signals1.3
 collective effective dose16.1
-commencement day1.3, 2.33A(1)
+commencement day1.3
 commissioning6.1
 committed effective dose16.1
 confidential information3.38(1)
@@ -115,23 +115,23 @@ contamination level16.1
 controlled area16.1
 controller15.1
 crane6.1
-danger tag6.1
 dangerous goods1.3
+danger tag6.1
 dB(A)7.1
 dB(lin)7.1
 demolition blasting8.56(1)
-Department of Occupational Safety and Health.1.3
+Department of Occupational Safety and Health1.3
 deputy’s certificate1.3
-designated employee16.1
+designated employee16.1.
 designer6.1
 detonator8.1
 diesel engine10.47(1)
 diesel unit10.47(1)
 district inspector1.3
-dose16.1
-dose constraint16.1
-dose limit16.1
-dredge14.1
+dose16.1.
+dose constraint16.1.
+dose limit16.1.
+dredge14.1.
 dust plan9.1
 earth moving machinery4.15(1)
 effective dose16.1
@@ -150,7 +150,7 @@ equivalent dose16.1
 erector6.1
 escape route10.10(1)
 exemption1.3
-exhaust treatment device10.47(1) and (2)
+exhaust treatment device10.47(1)
 existing mine1.3
 exposure16.1
 exposure standard9.1
@@ -167,7 +167,7 @@ FOPS10.46(1)
 gantry crane6.1
 gas cylinder6.1
 guard6.1
-Guidance Note on the Membrane Filter Method for Estimating Airborne Asbestos Fibres9.12
+Guidance Note on the Membrane Filter Method for Estimating Airborne Asbestos Fibres9.1
 hazardous area5.1
 hazardous substance1.3
 Health Department1.3
@@ -179,7 +179,7 @@ high voltage operators5.18(1)
 hoist6.1
 hot material8.54(1)
 importer6.1
-in-cab signalling15.1
+in-cab signalling15.1.
 industrial lift truck6.1
 industrial robot6.1
 inhalable dust9.1
@@ -194,11 +194,11 @@ laser6.1
 laser product6.1
 licensed surveyor1.3
 lift6.1
-locomotive15.1
+locomotive15.1.
 low voltage5.1
 magazine1.3
 main line15.1
-manager3.16(1)(a)
+manager3.16A(1)
 manufacturer6.1
 mast climbing work platform6.1
 material safety data sheet7.20
@@ -212,23 +212,23 @@ moveable apparatus5.1
 MSDS7.20
 National Code of Practice for the Preparation of Material Safety Data Sheets7.20
 National Model Regulations for the Control of Workplace Hazardous Substances1.3
-new shift10.30(b)
+new shift10.30.
 night1.3
 NOHSC1.3
 noise exposure7.1
 noise level7.1
 noise officer7.10(2)
 noise report7.1
-non-designated employee16.1
+non-designated employee16.1.
 notice2.4A(1)
-notice of registration10.47(1)
+notice of registration10.47.(1)
 notification3.10
 occupational disease3.23
-opacity measurement10.47(1)
-opacity meter10.47(1)
-operating rules15.1
+opacity measurement10.47.(1)
+opacity meter10.47.(1)
+operating rules15.1.
 operator protective devices6.1
-order15.1
+order15.1.
 out-of-service tag6.1
 package depot9.1
 peak9.1
@@ -242,55 +242,55 @@ pressure equipment6.1
 pressure piping6.1
 pressure vessel6.1
 primer8.1
-quarry manager3.16QA(1)(c)
+quarry manager3.16A(1)
 quarry manager’s certificate1.3
-radiation management plan16.1
-radiation safety officer16.1
-radioactive waste16.1
+radiation management plan16.1.
+radiation safety officer16.1.
+radioactive waste16.1.
 Radiological Council1.3
-rail haulage plan10.36
-railway vehicle15.1
+rail haulage plan10.36.
+railway vehicle15.1.
 reeling cable5.1
 register7.20
-register number10.47(1)
-registration number10.47(1)
+register number10.47.(1)
+registration number10.47.(1)
 relevant procedure8.53
 repair6.1
 repealed regulations1.3
 respirable dust9.1
 responsible person1.3
 restricted quarry manager’s certificate1.3
-restricted release zone16.1
-scaffold61
+restricted release zone16.1.
+scaffold6.1
 scaffolding equipment6.1
-sealed ionising radiation source16.1
+sealed ionising radiation source16.1.
 self contained self rescuer4.23
 senior inspector1.3
 short term exposure limit9.1
 socket8.1
 specified1.3
 specified occupational exposure work3.23
-specified period16.20(2)
+specified period16.20.(2)
 STEL9.1
-supervised area16.1
+supervised area16.1.
 surface mining operation1.3
 to charge8.1
 tower crane6.1
-trackless unit10.36
+trackless unit10.36.
 trailing cable5.1
-train15.1
+train15.1.
 transitional course2.6(1)
 TWA concentration9.1
-underground manager3.16A(1)(b)
+underground manager3.16A(1)
 underground supervisor’s certificate1.3
 use9.32A(12)
 vehicle hoist6.1
 ventilation log book9.1
 ventilation officer9.1
-vertical or sub-vertical openings10.35(2)
-waste management system16.1
-winding engine log book11.1
-winding rope log book11.1
+vertical or sub-vertical openings10.35.(2)
+waste management system16.1.
+winding engine log book11.1.
+winding rope log book11.1.
 work box6.1
 working day3.17
 working shift3.17

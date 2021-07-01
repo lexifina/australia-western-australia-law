@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Dangerous Goods Safety (Explosives) Regulations 2007 | 31 Dec 2007 p. 6541-717 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -30,9 +30,6 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 2 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 2 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -66,8 +63,8 @@ Baldivis facility185
 BE initiator77(1)
 berth111A(2)
 black powder3
-blast plan122
 blasting explosive3
+blast plan122
 bulk AN-based explosive3
 candleSch. 2 cl. 2(1)
 Category 1 load95(1)
@@ -77,15 +74,12 @@ CBD107(1)
 class 1.4 explosive77A(1)
 classification code3
 close proximity firework136
-commencement day197A(1)
 Commissioner19(1)
 complying magazine91(1)
 constituent3
 corresponding law182A
 crackerSch. 2 cl. 2(1)
 cracker chain144(1), Sch. 2 cl. 2(1)
-designated fee197A(1)
-designated period3
 destroy3
 development181(1)
 district3
@@ -164,7 +158,6 @@ provisional licence160(1)
 qualified officer165(1)
 rail95(1)
 rail wagon95(1)
-reduced fee197A(1)
 relevant licence143(1), 182A
 relevant offence156(1)
 relevant person19(1)
@@ -175,9 +168,9 @@ required planSch. 10 cl. 1
 responsible person36(1)
 road3
 road vehicle95(1)
-Safe Work Australia3
 safely74(1)
 safety data sheet3
+Safe Work Australia3
 saluteSch. 2 cl. 2(1)
 SDS3
 secure3
@@ -190,7 +183,7 @@ security sensitive ammonium nitrate3
 SEF185
 sell3
 shotfirer129(1), 133(1), 134(3)
-site149(1), 161(2), 161(4)
+site149(1), 161(2) and (4)
 sky rocketSch. 2 cl. 2(1)
 special berth (explosives)111A(2)
 SSAN3
@@ -208,14 +201,13 @@ trading licence3
 train95(1)
 type A facility185
 type B facility185
-UN Number104(2B)
 unauthorised explosive26
 unauthorised person52(1)
 unexplained loss3
+UN Number104(2B)
 unrestricted firework3
 unsupervised access3
 unsupervised access authorisation3
 UNTC3
 use3
 vessel111A(2)
-waived fee197A(1)

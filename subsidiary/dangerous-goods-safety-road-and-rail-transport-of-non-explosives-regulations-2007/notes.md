@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6893-7056 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -28,9 +28,6 @@ Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 P
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 4 | SL 2020/193 9 Oct 2020 | Pt. 4 (other than r. 10(2)): 10 Oct 2020 (see r. 2(c)); r. 10(2): 1 Jan 2021 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 3 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
@@ -43,7 +40,7 @@ ADG Code4
 ADR approved4
 aggregate quantity4
 another participating jurisdiction4
-appropriately marked4, 106(1), (2), (3), (4) and (5)
+appropriately marked4, 106(1), 106(2), 106(3), 106(4), 106(5)
 appropriately placarded4, 111(2)
 approval4, 193, 207
 approved packaging4
@@ -62,7 +59,7 @@ cargo transport unit4
 classification code110(1)
 code8(1)
 combination4
-commencement day272AA(1), 273, 286, 289, 291(1)
+commencement day273, 286, 289, 291(1)
 Competent Authorities Panel4
 compliance plate4
 complying MPU13A(1)
@@ -83,9 +80,7 @@ Dangerous Goods List4
 dangerous goods vehicle licence4
 deal with186(1)
 demountable tank4
-designated fee272AA(1)
 designated goods12(1)
-designated period272(1)
 determination4
 disposed vehicle237(2)
 driver licence4
@@ -107,7 +102,7 @@ ICAO approved4
 ICAO Technical Instructions4
 IMDG Code4
 IMO approved4
-incompatible4, 32(1) and (2)
+incompatible4, 32(1), 32(2)
 inner packaging4
 intermediate bulk container4, 34(1)
 journey4
@@ -154,7 +149,6 @@ rail operator4, 44
 receptacle4
 recognised testing facilities57
 recognised testing facility4
-reduced fee272AA(1)
 register25
 registered4
 relevant change200(1), 201(1)
@@ -172,9 +166,9 @@ structural equipment4
 Subsidiary Hazard4, 30
 subsidiary legislation8(1)
 tank4, 36(1)
+tank A146(1A)
 tank A147(1A), 148(2)
 tank vehicle4
-tank A146(1A)
 telephone advisory service179(1)
 trailer4
 train4

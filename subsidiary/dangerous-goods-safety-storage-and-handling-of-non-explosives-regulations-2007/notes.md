@@ -1,31 +1,28 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
- | Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6777-892 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2 and Pt. 5 Div. 1: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669); Pt. 5 Div. 1: 1 Mar 2009 (see r. 2(c) and Gazette 29 Feb 2008 p. 669)
- | Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2192-3 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
- | Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2872-3 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
- | Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2010 | 31 Dec 2010 p. 6893-6 | r. 1 and 2: 31 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
- | Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations 2012 | 16 Mar 2012 p. 1197-242 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
- | Reprint 1: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 24 Aug 2012 (includes amendments listed above)
- | DGS (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2012 | 19 Feb 2013 p. 990-1 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
- | Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5517-65 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
- | Reprint 2: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 25 Jul 2014 (includes amendments listed above)
- | Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2262-3 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
- | Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 7 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
- | Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
- | Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 5 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
- | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
- | Dangerous Goods Safety Regulations Amendment Regulations 2018 Pt. 3 | 20 Mar 2018 p. 996-1005 | 21 Mar 2018 (see r. 2(b))
- | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
- | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
- | Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 5 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
- | Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
- | Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 6 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see r. 2(c))
- | Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 5 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
+Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6777-892 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2 and Pt. 5 Div. 1: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669); Pt. 5 Div. 1: 1 Mar 2009 (see r. 2(c) and Gazette 29 Feb 2008 p. 669)
+Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2009 | 16 Jun 2009 p. 2192-3 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2872-3 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2010 | 31 Dec 2010 p. 6893-6 | r. 1 and 2: 31 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
+Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations 2012 | 16 Mar 2012 p. 1197-242 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
+Reprint 1: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 24 Aug 2012 (includes amendments listed above)
+DGS (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2012 | 19 Feb 2013 p. 990-1 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
+Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5517-65 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
+Reprint 2: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 25 Jul 2014 (includes amendments listed above)
+Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2262-3 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 7 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2017 Pt. 5 | 3 Mar 2017 p. 1474-82 | 4 Mar 2017 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2018 Pt. 3 | 20 Mar 2018 p. 996-1005 | 21 Mar 2018 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 Pt. 5 | SL 2020/103 29 Jun 2020 | Repealed by SL 2020/104 r. 3 prior to commencement
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
+Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 6 | SL 2020/193 9 Oct 2020 | 10 Oct 2020 (see r. 2(c))
+Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 5 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
@@ -49,7 +46,7 @@ capacity4
 class4
 class label4
 combustible liquid4
-commencement day44B(1), Sch. 6 cl. 1, 6 and 10
+commencement daySch. 6 cl. 1, 6 and 10
 compatible4
 consignor134
 consumer container4
@@ -113,8 +110,8 @@ operate4
 operator4, 134
 packaged dangerous goods4
 packing group4
-petrol station4
 petroleum product4
+petrol station4
 pipework4
 plant4
 port134
@@ -130,8 +127,8 @@ repealed regulationsSch. 6 cl. 1
 risk assessment4
 risk control measures4
 rural dangerous goods location4
-Safe Work Australia4
 safety data sheet4
+Safe Work Australia4
 SDS4
 small quantity dangerous goods location4
 special berth (non-explosives)134
@@ -145,7 +142,7 @@ subsidiary hazard label4
 sufficient evidence135M(1)
 supplier16
 threshold amountSch. 6 cl. 12(2)
-UN Number4
 underground storage or handling system4
+UN Number4
 UNTC4
 vessel134

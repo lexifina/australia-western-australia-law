@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum Pipelines Regulations 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Petroleum Pipelines Regulations 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
  | Petroleum Pipelines Regulations 1970 | 30 Jul 1970 p. 2242-52 | 30 Jul 1970
@@ -29,10 +29,7 @@ Citation | Published | Commencement
  | Reprint 3: The Petroleum Pipelines Regulations 1970 as at 13 Jul 2018 (includes amendments listed above)
  | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 16 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
  | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 9 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 13 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+ | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 13 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The day fixed under the Acts Amendment (Petroleum) Act 1990 s. 2(1) was 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Defined terms

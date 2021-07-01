@@ -1,14 +1,14 @@
 ## Third Schedule — Fees
 [r. 4]
-[Heading inserted: SL 2020/93 r. 21.]
+[Heading inserted: SL 2021/85 r. 32.]
 Item | Purpose | Provision of Act | Fee ($)
-1. | Application for licence | s. 8(l)(j) | 7 190.00
-2. | Application for variation of licence | s. 15(2)(d) | 7 190.00
+1. | Application for licence | s. 8(l)(j) | 7 550.00
+2. | Application for variation of licence | s. 15(2)(d) | 7 550.00
 3. | Registration of memorandum of transfer and name of transferee | s. 44(9) | 142.00
 4. | Registration as licensee on devolution by operation of law | s. 45(2) | 142.00
 5. | Application by company licensee for registration of change of name | s. 45(3) | 142.00
 6. | Entry on memorial of registration of approval of dealing | s. 47(12) | 142.00
 7. | Inspection of register | s. 52(1) | 142.00
-8. | Copies of or extracts from the register or of or from an instrument certified by Minister | s. 53(2) | 142.00
+8. | Copies of or extracts from the register or of or from an instrument certified by Minister | s. 53(2) | 149.00 per page
 9. | Certificate by Minister as to entry, matter or things under the Act | s. 53(3) | 142.00
-[Third Schedule inserted: SL 2020/93 r. 21.]
+[Third Schedule inserted: SL 2021/85 r. 32.]

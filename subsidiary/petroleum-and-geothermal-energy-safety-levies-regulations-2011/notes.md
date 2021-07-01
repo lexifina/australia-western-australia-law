@@ -7,11 +7,11 @@ Petroleum and Geothermal Energy Safety Levies Amendment Regulations 2012 | 28 Se
 Petroleum and Geothermal Energy Safety Levies Amendment Regulations 2013 | 28 Jun 2013 p. 2829 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Petroleum and Geothermal Energy Safety Levies Amendment Regulations 2015 | 26 Jun 2015 p. 2260-1 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 15 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 12 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Work Health and Safety Act 2020 s. 346 assented to 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
-Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 12 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Work Health and Safety Act 2020 s. 346 assented to 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

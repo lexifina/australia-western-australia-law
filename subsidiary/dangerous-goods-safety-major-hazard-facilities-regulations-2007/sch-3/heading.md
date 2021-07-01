@@ -1,3 +1,3 @@
 ## Schedule 3 — Fees
-[r. 26 and 34]
-[Heading inserted: SL 2020/93 r. 4.]
+[r. 26, 33 and 34]
+[Heading inserted: SL 2021/85 r. 8.]
