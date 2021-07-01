@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Administration) Regulations 2014 | 23 Dec 2014 p. 4939-5009 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -21,17 +21,13 @@ Transport Regulations Amendment (Information) Regulations 2019 Pt. 2 | 29 Mar 20
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 4 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Road Traffic (Administration) Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4687 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 2 | SL 2020/74 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
-Transport Regulations Amendment (Road Passenger Services) Regulations 2020 Pt. 2 (other than r. 5) | SL 2020/91 24 Jun 2020 | 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2)
+Transport Regulations Amendment (Road Passenger Services) Regulations 2020 Pt. 2 | SL 2020/91 24 Jun 2020 | Pt. 2 (other than r. 5): 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2); r. 5: 1 Jul 2021 (see r. 2(b))
 Transport Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/172 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Road Traffic Regulations Amendment (Radar Detectors) Regulations 2020 Pt. 2 | SL 2020/150 1 Sep 2020 | 12 Oct 2020 (see r. 2(b) and SL 2020/148 cl. 2)
 Transport Regulations Amendment (Road Traffic) Regulations (No. 2) 2020 Pt. 2 | SL 2020/231 4 Dec 2020 | 14 Dec 2020 (see r. 2(b) and SL 2020/229 cl. 2)
 Road Traffic (Administration) Amendment Regulations (No. 2) 2020 | SL 2020/262 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2021 (see r. 2(b) and SL 2020/254 cl. 2)
 Road Traffic (Administration) Amendment Regulations 2021 | SL 2021/53 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Transport Regulations Amendment (Road Passenger Services) Regulations 2020 r. 5 | SL 2020/91 24 Jun 2020 | 1 Jul 2021 (see r. 2(b))
-Road Traffic (Administration) Amendment Regulations (No. 2) 2021 r. 3 and 4 | SL 2021/55 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2)
+Road Traffic (Administration) Amendment Regulations (No. 2) 2021 | SL 2021/55 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 3 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
