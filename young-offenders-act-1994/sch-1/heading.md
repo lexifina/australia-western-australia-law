@@ -58,8 +58,12 @@ s. 64AC | Driving with prescribed illicit drug in oral fluid or blood
 s. 64 | Driving with 0.08g/100ml blood alcohol content
 s. 64AA | Driving with 0.05g/100ml blood alcohol content
 s. 64A | Driving with 0.02g/100ml blood alcohol content
+s. 64B | Driving with blood alcohol content of or above 0.05g/100ml with prescribed illicit drug in oral fluid or blood
+s. 64C | Certain persons driving with any blood alcohol content with prescribed illicit drug in oral fluid or blood
 s. 67 | Failure to comply with s. 66 requirement to provide sample, allow sample to be taken or to accompany police officer
 s. 67AA | Failing to undergo a driver assessment, allow taking of a blood sample or provide a urine sample
 s. 67AB | Failing to provide a sample of oral fluid or allow taking of a blood sample
+s. 67AC | Failure to comply with drug test requirement for certain persons with any blood alcohol content
+s. 67AD | Failure to comply with drug test requirement for persons with blood alcohol content of or above 0.05g/100ml
 s. 67A | Failure to comply with other requirements made under s. 66 to 66E
-[Schedule 1 amended: No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4); No. 25 of 2016 s. 21(2); No. 51 of 2016 s. 56.]
+[Schedule 1 amended: No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4); No. 25 of 2016 s. 21(2); No. 51 of 2016 s. 56; No. 27 of 2020 s. 52.]
