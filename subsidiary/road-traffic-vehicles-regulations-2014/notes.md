@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -30,12 +30,9 @@ Transport Regulations Amendment (Road Passenger Services) Regulations 2020 Pt. 4
 Transport Regulations Amendment (Road Traffic) Regulations (No. 2) 2020 Pt. 3 | SL 2020/231 4 Dec 2020 | 14 Dec 2020 (see r. 2(b) and SL 2020/229 cl. 2)
 Road Traffic (Vehicles) Amendment Regulations (No. 4) 2021 | SL 2021/37 9 Apr 2021 | r. 1 and 2: 9 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2021 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 6) 2021 | SL 2021/64 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2021 (see r. 2(b))
-Road Traffic Regulations Amendment Regulations 2021 Pt. 3 | SL 2021/93 22 Jun 2021 | 23 Jun 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 5 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
-Road Traffic (Vehicles) Amendment Regulations (No. 7) 2021 r. 3-16 | SL 2021/81 22 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Road Traffic Regulations Amendment Regulations 2021 Pt. 3 | SL 2021/93 22 Jun 2021 | 23 Jun 2021 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 7) 2021 | SL 2021/81 22 Jun 2021 | r. 1 and 2: 22 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -65,14 +62,13 @@ For the purposes of the Road Traffic (Vehicles) Act 2012 section 18, the specifi
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-50 mm kingpin366(5)
+50 mm kingpin367
 75 mm kingpin367
 90 mm kingpin367
 access approval202
 accredited212
 adopted standard226
-ADR226
-affected person470(1), 479
+affected person470(1), 479(1)
 agricultural combination3
 agricultural implement3
 agricultural machine 3
@@ -87,7 +83,7 @@ alcohol interlock235(1)
 amend454N(1)
 animal drawn vehicle390
 application103, 455
-approved454(6)
+approved454A
 approved air suspension system161
 approved material259(1)
 approved motoring organisation84A(1)
@@ -97,14 +93,15 @@ assessor146
 Australian Border Force3
 Australian Border Force vehicle3
 Australian Design Rule (ADR)3
+Australian Design Rules (ADR)226
 Australian Standard (AS)3
 authorised on-demand rank or hail vehicle109
 authorised passenger transport vehicle109
 B-double3
 bicycle3
 brake light308(1)
-braking system225
-British Standard225
+braking system226
+British Standard226
 built-up area449(1)
 bus3, 323
 car3
@@ -118,17 +115,17 @@ certificate of inspection3
 certified to ADR 83/00357A
 character3
 class 1 vehicle190
-class 2 vehicle203(1)
+class 2 vehicle203(2)
 class 3 vehicle190
 classic vehicle84A(1)
 clearance light432(1)
 combination3, 166(1)
 commencement day454ZC(1), 484
-Commission356(1)
+Commission357(1)
 compliance plate3
 compliance time152(1)
 complying bus161
-compressed air reserve334
+compressed air reserve334(1A)
 condensate drain valve334(1A)
 connector366(5)
 consulting officer481
@@ -146,7 +143,7 @@ departmental exemption505(1)
 derivative of a car235(1)
 diesel engine3
 direction indicator light312(1), 313(1)
-discount period84(1)
+discount period84A(1)
 dog trailer3
 drawbar3
 driver’s licence454A
@@ -156,7 +153,7 @@ emission control system356(1)
 engine identification number3
 escort vehicle3
 exempt vehicle327(4)
-expiry day454N(1)
+expiry day454O(1)
 farm52(1)
 farmer52(1)
 farming business52(1)
@@ -196,9 +193,9 @@ left3, 237
 licence103
 licence holder3
 lighting equipment426(1)
-load capacity413(1)
+load capacity414(1)
 loaded mass3
-Load Restraint Guide187
+Load Restraint Guide187(1)
 load-sharing suspension system3
 low-beam3
 luminous transmittance260(1)
@@ -219,11 +216,10 @@ motor tricycle3
 motor vehicle3, 167(1), 168(1), 244(1)
 mudguard3
 name plate109
-national standard226
 nearer side of the vehicle3
 new owner51(1)
 notifiable146
-number273(1)
+number274(1)
 obscuring device120(1)
 obscuring device action120(1)
 omnibus3, 380(1)
@@ -241,8 +237,8 @@ passenger transport service109
 passenger transport vehicle109
 passenger transport vehicle authorisation109
 peak hours3
-permit43, 189, 202
-personal details48(1)
+permit43, 190, 202
+personal details50(1)
 personalised plates109
 personally imported vehicle241(1)
 pig trailer3
@@ -252,9 +248,10 @@ point of articulation3
 pole-type trailer3, 390
 Police Service employee453(2)
 prime mover3
-proposed action454P(1), 466(2)
+proposed action454Q(1), 466(2)
 provisional licence454A
 radial ply tyre266(1)
+RAV3
 read120(1)
 rear fog light226, 315(1A)
 rear glazing260(1)
@@ -265,10 +262,10 @@ reflective plate109
 region86
 registered training provider454E(1)
 renewal application454A
-renewal period30
+renewal period30(1)
 repair146
 repairable write-off3
-retractable axle164
+retractable axle164(1)
 reviewable decision478
 right3, 237
 road202
@@ -298,23 +295,23 @@ Technical Guide150(3)
 third edition ADR226
 total loss146
 tow423(1)
-tow coupling overhang378(1)
+tow coupling overhang379(1)
 towed vehicle423(1)
 towing vehicle423(1)
 tow truck3
 trade plate109
 trailer3, 167(1), 168(1)
 trailer derivative38(1)
-transitional pilot454ZC
+transitional pilot454ZC(1)
 transparent material259(1)
 transport enforcement vehicle226
 turntable3
-unloaded mass2
+unloaded mass3
 used423(1)
 vacuum brakes226
 vacuum reserve334(1A)
 vacuum storage tank3
-vehicle165(1), 167, 179(2), 180(1), 180(1), 236(1), 238(1)
+vehicle165(1), 167(1), 179(2), 180(1), 181(1), 236(1), 238(1)
 vehicle examiner12, 20(1)
 vehicle identification number (VIN)3
 vehicle licensing reviewable decision478
