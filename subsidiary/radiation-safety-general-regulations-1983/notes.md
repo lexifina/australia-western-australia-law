@@ -63,6 +63,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 9 | 25 May 
 Radiation Safety (General) Amendment Regulations 2018 | 16 Oct 2018 p. 4094 | r. 1 and 2: 16 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2018 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 6 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/108 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.

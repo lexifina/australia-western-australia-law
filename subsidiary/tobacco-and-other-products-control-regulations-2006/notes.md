@@ -28,6 +28,7 @@ Tobacco Products Control Amendment Regulations 2019 | 12 Mar 2019 p. 657-665 | r
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 8 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Health Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/168 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Health Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 8 | SL 2021/108 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
