@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Community Protection (Offender Reporting) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Community Protection (Offender Reporting) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
  | Community Protection (Offender Reporting) Regulations 2004 | 31 Dec 2004 p. 7025-39 | 1 Feb 2005 (see r. 2)
@@ -24,11 +24,7 @@ Citation | Published | Commencement
  | Police Service Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 221-4 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
  | Community Protection (Offender Reporting) Amendment Regulations 2017 | 13 Jan 2017 p. 359-60 | r. 1 and 2: 13 Jan 2017 (see r. 2(a)); Regulations other than r. 1, 2 and 4(2): 14 Jan 2017 (see r. 2(c)); r. 4(2): 2 Feb 2017 (see r. 2(b) and s. 2(2) of 2016/021 (Vic))
  | Community Protection (Offender Reporting) Amendment Regulations 2018 | 13 Nov 2018 p. 4432-3 | r. 1 and 2: 13 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2018 (see r. 2(b))
- | Community Protection (Offender Reporting) Amendment Regulations 2021 (other than r. 4, 5(2) and (3), 6 and 7) | SL 2021/57 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); r. 3 and 5(1): 22 May 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Community Protection (Offender Reporting) Amendment Regulations 2021 r. 4, 5(2) and (3), 6 and 7) | SL 2021/57 21 May 2021 | 1 Jul 2021 (see r. 2(c) and SL 2021/54 cl. 2(c))
+ | Community Protection (Offender Reporting) Amendment Regulations 2021 | SL 2021/57 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); r. 3 and 5(1): 22 May 2021 (see r. 2(b)); r. 4, 5(2) and (3), 6 and 7: 1 Jul 2021 (see r. 2(c) and SL 2021/54 cl. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -56,5 +52,4 @@ release order7(3)
 relevant court3
 resident7(5)
 sample26F(1)
-self-testing breath analysing equipment3
 urine sampling equipment3, 26F(1)
