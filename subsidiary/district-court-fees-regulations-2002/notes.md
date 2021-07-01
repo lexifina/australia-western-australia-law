@@ -36,6 +36,7 @@ Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 4 
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 4 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Repealed by the District Court Rules 2005.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:

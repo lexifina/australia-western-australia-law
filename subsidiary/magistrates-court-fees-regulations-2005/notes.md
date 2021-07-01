@@ -37,6 +37,7 @@ Attorney General Regulations Amendment (Transcript Fees) Regulations 2018 Pt. 5 
 Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 5 | 12 Mar 2019 p. 666-9 | 13 Mar 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 8 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 9 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms

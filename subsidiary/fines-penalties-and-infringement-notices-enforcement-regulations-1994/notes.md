@@ -81,6 +81,7 @@ Attorney General Regulations Amendment (Case Management System) Regulations 2019
 Justice Regulations Amendment (Emergency Management) Regulations 2020 Pt. 3 | SL 2020/32 3 Apr 2020 | 4 Apr 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 7 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2020 | SL 2020/167 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1, 2, 10 and 16: 29 Sep 2020 (see r. 2(c) and SL 2020/159 cl. 2(a)); r. 10 and 16: 30 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 8 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Formerly referred to as the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Agriculture and Food is read and construed as a reference to the Department of Primary Industries and Regional Development unless the contrary intention appears.

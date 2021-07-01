@@ -35,6 +35,7 @@ Justice Regulations Amendment (Fee Relief) Regulations 2018 Pt. 3 | 20 Jul 2018 
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 3 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.
