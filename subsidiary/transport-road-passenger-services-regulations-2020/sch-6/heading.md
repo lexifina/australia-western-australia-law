@@ -35,7 +35,8 @@ Offences under the Transport (Road Passenger Services) Regulations 2020
 31. | r. 108(2) | Failure to ensure, so far as is reasonably practicable, on-demand rank or hail vehicle fitted with camera surveillance unit | $1 800 | $6 000
 32. | r. 109(2) | Failure to fit signs to passenger transport vehicle | $900 | $3 000
 33. | r. 109(3) | Failure to ensure, so far as is reasonably practicable, that signs fitted to passenger transport vehicle | $900 | $3 000
-[34, 35. Have not come into operation.]
+34. | r. 110(1) | Failure to provide and operate system for copies of recordings taken by camera surveillance unit | $900 | $3 000
+35. | r. 110(2) | Failure to ensure, so far as is reasonably practicable, that system for copies of recordings taken by camera surveillance unit provided and operated | $900 | $3 000
 36. | r. 111(1) | Failure to protect recording taken by camera surveillance unit or copy | $1 800 | $6 000
 37. | r. 111(2) | Failure to ensure, so far as is reasonably practicable, recording taken by camera surveillance unit or copy protected | $1 800 | $6 000
 38. | r. 112(3) | Failure to produce copy of recording to authorised officer | $900 | $3 000
