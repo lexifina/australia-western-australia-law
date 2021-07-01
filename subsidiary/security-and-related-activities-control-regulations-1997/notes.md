@@ -51,6 +51,7 @@ Police Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 5 | 26 Jun 
 Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 21 Jun 2019 p. 2141-50 | 1 Jul 2019 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5 | SL 2020/82 19 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations 2020 | SL 2020/171 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/106 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms

@@ -100,6 +100,7 @@ Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 21 Jun 
 Police Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/82 19 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Firearms Amendment Regulations 2020 | SL 2020/140 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2020 (see r. 2(b))
 Police Regulations Amendment (Procurement) Regulations 2020 Pt. 2 | SL 2020/248 18 Dec 2020 | 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
+Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/106 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.

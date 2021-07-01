@@ -43,6 +43,7 @@ Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 21 Jun 
 Police Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/82 19 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2020 | SL 2020/147 1 Sep 2020 | r. 1 and 2: 1 Sep 2020 (see r. 2(a)); r. 3 and 4: 2 Sep 2020 (see r. 2(c)); r. 5-10: 1 Dec 2020 (see r. 2(b))
 Police Regulations Amendment (Procurement) Regulations 2020 Pt. 3 | SL 2020/248 18 Dec 2020 | 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
+Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/106 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
