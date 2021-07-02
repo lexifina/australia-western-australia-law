@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Fire and Emergency Services Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire and Emergency Services Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Fire and Emergency Services Authority of Western Australia Regulations 1998 | 22 Dec 1998 p. 6843-4 | 1 Jan 1999 (see r. 2 and Gazette 22 Dec 1998 p. 6833)
 Fire and Emergency Services Authority of Western Australia Amendment Regulations (No. 2) 2003 | 16 May 2003 p. 1697-701 | 16 May 2003
 Fire and Emergency Services Authority of Western Australia Amendment Regulations (No. 3) 2003 | 13 Jun 2003 p. 2117 | 13 Jun 2003
@@ -19,6 +19,11 @@ Fire and Emergency Services Amendment Regulations 2017 | 8 Sep 2017 p. 4695-6 | 
 Fire and Emergency Services Amendment Regulations (No. 2) 2017 | 15 Sep 2017 p. 4792-4 | 16 Sep 2017 (see r. 2 and Gazette 15 Sep 2017 p. 4791)
 Reprint 3: The Fire and Emergency Services Regulations 1998 as at 23 Feb 2018 (includes amendments listed above)
 Fire and Emergency Services Amendment Regulations 2018 | 22 Jun 2018 p. 2180-1 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Fire and Emergency Services Amendment Regulations 2021 r. 3 and 4 | SL 2021/114 2 Jul 2021 | 1 Aug 2021 (see r. 2(b))
+Other notes
 Formerly referred to the Fire and Emergency Services Authority of Western Australia Act 1998, the short title of which was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Mining Act 1978.
 Now known as the Fire and Emergency Services Regulations 1998; citation changed (see note under r. 1).
