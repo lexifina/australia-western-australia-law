@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Regulations 2003 and includes amendments made by other written laws 1M, 1MC. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Taxation Administration Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Taxation Administration Regulations 2003 | 27 Jun 2003 p. 2419-22 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -40,9 +40,16 @@ Taxation Administration Amendment Regulations 2020 | SL 2020/40 17 Apr 2020 | r.
 Taxation Administration Amendment Regulations (No. 3) 2020 | SL 2020/48 24 Apr 2020 | r. 1 and 2: 24 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2020 (see r. 2(b))
 Finance Regulations Amendment (Interest Rates) Regulations 2020 Pt. 3 | SL 2020/71 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Finance Regulations Amendment Regulations 2020 Pt. 5 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
+Taxation Administration Amendment Regulations 2021 | SL 2021/116 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
 Other notes
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number.
-1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number.
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1M appearing after the provision number.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth) Pt. 7 Div. 2.
+If a modification is to:
+·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
+·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -50,10 +57,12 @@ ACNC Commissioner13H(1)
 administrative authority13I(1)
 applicable subregulation14AA(2)
 Australian Building and Construction Commissioner13M(1)
+Building Commissioner13N(1)
 CEO (Landgate)13C(1)
 CEO (petroleum)13B(1)
 chief executive officer13G(1)
 Commissioner Fair Trading14A(1)
+Commissioner for Consumer Protection13O(1)
 corresponding law13E(1)
 Corruption and Crime Commission13K(1)
 Corruption and Crime Commissioner13K(1)
@@ -61,16 +70,16 @@ COVID-19 relief measure13L(1)
 duty5A(3), 13C(1)
 employer13G(1)
 functions14A(1)
+industrial inspector13P(1)
 Legal Practice Board14A(1)
 legal practitioner14A(1)
 online arrangement5A(3)
 Pastoral Lands Board13(1)
 pastoral lessee13(1)
-prescribed purpose13M(1)
 public sector agency13L(1)
 relevant recipient14A(1)
 settlement agent14A(1)
 STR arrangement14A(1)
-tax information13L(1)
+tax information2B
 wages13G(1)
 WorkCover WA13J(1)
