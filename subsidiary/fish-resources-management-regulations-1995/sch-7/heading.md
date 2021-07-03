@@ -90,7 +90,7 @@ Rays | Superorder Batoidea
 Redbait | Emmelichthys nitidus
 Redfish, Bight (Nannygai, Red Snapper) | Centroberyx gerrardi
 Redfish, Yelloweye | Centroberyx australis
-Rockcod | Family Epinephelidae
+Rockcod | Families Epinephelidae and Serranidae
 Rockcod, Blackspotted | Epinephelus malabaricus
 Rockcod, Chinaman (Charlie Court) | Epinephelus rivulatus
 Rockcod, Goldspotted (Estuary Cod) | Epinephelus coioides
@@ -160,7 +160,7 @@ Whiting, Yellowfin | Sillago schomburgkii
 Wrasse | Subfamily Labrinae
 Wrasse, Humphead Maori | Cheilinus undulatus
 Yellowtail Kingfish | Seriola lalandi
-[Division 1 inserted: Gazette 4 Oct 2019 p. 3588-95.]
+[Division 1 inserted: Gazette 4 Oct 2019 p. 3588-95; amended: SL 2021/118 r. 26.]
 ## Division 2 — Freshwater fish
 [Heading inserted: Gazette 4 Oct 2019 p. 3595.]
 Common name | Scientific name

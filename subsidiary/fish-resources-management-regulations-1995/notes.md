@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -199,7 +199,8 @@ Fish Resources Management Amendment Regulations (No. 3) 2017 | 27 Oct 2017 p. 54
 Fish Resources Management Amendment Regulations (No. 2) 2018 | 26 Jun 2018 p. 2379-82 | r. 1 and 2: 26 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2019 | 4 Oct 2019 p. 3527-611 | r. 1 and 2: 4 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2019 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2019 | 29 Nov 2019 p. 4101-5 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b))
-Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
+Fish Resources Management Amendment Regulations 2021 | SL 2021/118 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
+Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 (Sch. 1 cl. 68) to the Fisheries Research and Development Account. This reference was changed under the Reprints Act 1984 s. 7(3)(h).
@@ -226,7 +227,6 @@ authorisation129A
 automatic location communicator55A
 bag limit3(1)
 bait band55E
-bait fish64OE(4)
 batch144A(1)
 boat124B(1), 128IA
 bona fide64I(2)
@@ -250,11 +250,11 @@ current entitlement118A(2)
 current identification sticker128MA(1A)
 Dampier Archipelago waters64OB(3)
 day124B(1)
-day trip16E(1), 22(5)
+day trip3(1)
 dB(A)104(4)
 deep sea crab38A
-demersal finfish65A(1), 65B(1)
-demersal scalefish45(1), 64OAA(1)
+demersal finfish3(1)
+demersal scalefish45(1)
 destroy144A(1)
 disease3(1), 144A(1)
 diseased144A(2)
@@ -264,19 +264,19 @@ due date137(4)
 Easter Group Zone 38(1)
 eastern gulf land area3(1)
 exempt business64AA(1)
+extended fishing tour3(1)
 farm lease144A(1)
 fillet3(1)
-finfish3(1), 16C, 65F(1A)
-fish processor’s licence3(1)
-fish trunk3(1)
+finfish3(1), 65F(1A)
 fishing boat licence3(1)
 fishing net3(1)
 fishing season38DB
+fish processor’s licence3(1)
+fish trunk3(1)
 form3(1)
 former authorisation holder129A
 freshwater finfish65E
 Freycinet Estuary3(1)
-Freycinet Estuary Management Zone16G
 full amount outstanding of the fee137(5)
 Gascoyne Region3(1)
 GDA152(1)
@@ -295,7 +295,7 @@ jet ski3(1)
 jetty72
 Kalbarri Blue Holes waters3(1)
 Lancelin Island Lagoon3(1)
-large pelagic finfish65C(1)
+large pelagic finfish3(1)
 length144A(1)
 licence holder55A
 licensed boat72
@@ -309,7 +309,7 @@ marron drop net3(1), 38G
 marron pole snare3(1), 38G
 marron scoop net3(1), 38G
 marron trophy waters3(1)
-May — October64OD(4)
+May - October64OD(4)
 metropolitan waters3(1)
 mollusc3(1)
 Montebello Islands Marine ParkSch. 5
@@ -320,11 +320,11 @@ Ningaloo Marine Park3(1)
 non-possession period38O(3)
 notice55B(1A)
 notional bag limit162(2)
-November — April64OD(4)
+November - April64OD(4)
 one day3(1)
 operator72
 ornamental fish69A(1)
-package22(5), 61(3a)
+package21A(1), 61(3a)
 pearl oyster farm144A(1)
 Pelsaert Group Zone38(1)
 Pilbara and Kimberley Region3(1)
@@ -363,8 +363,7 @@ single-sided fillet3(1)
 South Coast Region3(1)
 spat144A(1)
 spat collector144A(1)
-specified size14A
-store22(5)
+store21A(1)
 structure87
 sunrise3(1)
 sunset3(1)
