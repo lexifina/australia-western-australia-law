@@ -29,7 +29,7 @@ AND
 Date:
 .............................................................
 Signature of plaintiff or plaintiff’s legal practitioner
-This application will be heard by ........................................................................... at [address of Court] at ...................*a.m./*p.m. on ................... .
+This application will be heard by a *judge/*master at the time, on the date and in the place specified in the attached listing notification.
 B.NOTICE TO DEFENDANT(S) (IF ANY)
 TO: [name and address of each defendant (if any)].
 If you or your legal practitioner do not appear before the Court at the time shown above, the application may be dealt with, and an order made, in your absence. As soon after that time as the business of the Court will allow, any of the following may happen —
@@ -49,10 +49,8 @@ C.APPLICATION FOR WINDING-UP ON GROUND OF INSOLVENCY
 Note 1:In an application for winding-up in insolvency on the ground that the company has failed to comply with a statutory demand, the applicant should consider completing Part C of Form 2 as shown in Note 1 to these rules.
 Note 2:An example of the affidavit in support of an application for winding-up in insolvency for failure to comply with a statutory demand is shown in Note 2 to these rules.
 D.FILING
-Date of filing: [date of filing to be entered by Principal Registrar]
-.............................................
-Principal Registrar
 This originating process is filed by [name] for the plaintiff.
+Date of filing:
 E.SERVICE
 The plaintiff’s address for service is [address of plaintiff’s legal practitioner or of plaintiff].
 *It is not intended to serve a copy of this originating process on any person.
@@ -62,7 +60,7 @@ OR
 [Complete the following section if the time for service has been abridged.]
 The time by which a copy of this originating process is to be served has been abridged by order made by [name of judge or other Court officer] on [date] to [time and date].
 * Omit if not applicable
-[Form 2 amended: Gazette 13 Feb 2009 p. 308.]
+[Form 2 amended: Gazette 13 Feb 2009 p. 308; SL 2021/121 r. 33(1).]
 Form 3
 [rules 2.2, 15A.4, 15A.8 and 15A.9]
 Interlocutory process
@@ -77,7 +75,7 @@ AND
 Date:
 ......................................................
 Signature of applicant making this application or applicant’s legal practitioner
-This application will be heard by ......................................................at [address of Court] at ..........................*a.m./*p.m. on ...........................
+This application will be heard by a *judge/*master at the time, on the date and in the place specified in the attached listing notification.
 B.NOTICE TO RESPONDENT(S) (IF ANY)
 TO: [name and address of each respondent to this interlocutory process (if any). If applicable, also state the respondent’s address for service.]
 If you or your legal practitioner do not appear before the Court at the time shown above, the application may be dealt with, and an order made, in your absence.
@@ -94,7 +92,7 @@ OR
 [Complete the following section if the time for service has been abridged.]
 The time by which a copy of this interlocutory process is to be served has been abridged by order made by [name of judge or other Court officer] on [date] to [time and date].
 * Omit if not applicable
-[Form 3 amended: Gazette 13 Apr 2007 p. 1673; 13 Feb 2009 p. 308.]
+[Form 3 amended: Gazette 13 Apr 2007 p. 1673; 13 Feb 2009 p. 308; SL 2021/121 r. 33(2).]
 Form 4
 [rule 2.9]
 Notice of appearance
@@ -165,25 +163,26 @@ swears or affirms affidavit
 * Omit if not applicable
 Note:The form of the opening words and the jurat of this affidavit may be changed to conform to the form of affidavit used in a particular State or Territory — see rule 2.6.
 Form 8
-[rules 5.5 and 6.1]
+[rules 5.5, 6.1 and 7.2]
+[Heading amended: SL 2021/121 r. 33(3)(a)).]
 Consent of liquidator/provisional liquidator
 [Title]
-I, [name], of [address], an official liquidator, consent to be appointed by the Court and to act as the *liquidator/*provisional liquidator of [name of company].
+I, [name], of [address], a registered liquidator, consent to be appointed by the Court and to act as the *liquidator/*provisional liquidator of [name of company].
 I am not aware of any conflict of interest or duty that would make it improper for me to act as *liquidator/*provisional liquidator of the company.
 EITHER
 I am not aware of any relevant relationship mentioned in section 60(2) of the Corporations Act 2001 of the Commonwealth.
 OR
 I have, or have had within the preceding 24 months, the following relevant relationships mentioned in section 60(2) of the Corporations Act 2001 of the Commonwealth.
 [Set out all relevant relationships.]
-The hourly rates currently charged in respect of work done as *liquidator/*provisional liquidator by me, and by my partners and employees who may perform work in this administration, are set out below or in the Schedule which is attached to this Consent. I acknowledge that my appointment by the Court does not constitute an express or implied approval by the Court of these hourly rates.
-Note:The requirement to disclose hourly rates should not be taken to imply that remuneration on an hourly basis is the most desirable or appropriate arrangement in every case. The Corporations Act acknowledges that another method of calculating remuneration may be appropriate (see, for example, s. 473(2) and (3)).
+The time-cost rates currently charged in respect of work done as *liquidator/*provisional liquidator by me, and by my partners and employees who may perform work in this administration, are set out below or in the Schedule which is attached to this Consent. I acknowledge that my appointment by the Court does not constitute an express or implied approval by the Court of these time-cost rates.
+Note:The remuneration that an external administrator is entitled to receive for necessary work properly performed by the external administrator in relation to the external administration of a company is regulated by the Insolvency Practice Schedule Division 60.
 Date:
 ........................................................
-Signature of official liquidator
+Signature of registered liquidator
 * Omit if not applicable
 Schedule
-[description of hourly rate(s)]
-[Form 8 amended: Gazette 12 Aug 2008 p. 3545-6.]
+[description of time-cost rate(s)]
+[Form 8 amended: Gazette 12 Aug 2008 p. 3545-6; SL 2021/121 r. 33(3).]
 Form 9
 [rule 5.6]
 Notice of application for winding-up order
@@ -283,7 +282,8 @@ The liquidator’s address for service is [address].
 Signature of liquidator
 [Form 15 amended: Gazette 13 Feb 2009 p. 312.]
 Form 16
-[rules 9.1, 9.2, 9.3, 9.4 and 9.5]
+[rules 9.1, 9.2, 9.3 and 9.5]
+[Heading amended: SL 2021/121 r. 33(4).]
 Notice of intention to apply for remuneration
 IN THE MATTER OF [company name]
 ABN or ACN: [ABN or ACN of company to which proceeding relates]
@@ -291,27 +291,28 @@ TO: [name and address of person to whom notice is given]
 TAKE NOTICE that, not less than 21 days after this notice is served on you, I, [name and address], the *receiver/*administrator/*liquidator/*provisional liquidator/*special manager of the above company, intend to apply to the Court to determine my remuneration.
 If you object to my application, you must, within 21 days after being served with this notice, serve on me a notice of objection stating the grounds of objection to the remuneration claimed.
 Date:
-............................................
+.................................................................................
 Signature of *receiver/*administrator/*liquidator/
 *provisional liquidator/*special manager
 * Omit if not applicable
-[Form 16 amended: Gazette 13 Feb 2009 p. 312.]
+[Form 16 amended: Gazette 13 Feb 2009 p. 312; SL 2021/121 r. 33(4).]
 Form 16A
-[rules 9.2A, 9.4A]
+[rule 9.2A]
+[Heading amended: SL 2021/121 r. 33(5)(a).]
 Notice of intention to apply for review of remuneration
 IN THE MATTER OF [company name]
 ACN or ABN: [ACN or ABN of company to which proceeding relates]
 TO: [name and address of person to whom notice is given]
-TAKE NOTICE that, not less than 21 days after this notice is served on you, I, [name and address of proposed plaintiff or applicant], the *[*administrator/*liquidator of the above company,] intend to apply to the Court to review *the remuneration of/*my remuneration as the *administrator/*liquidator of the company.
+TAKE NOTICE that, not less than 21 days after this notice is served on you, I, [name and address of proposed plaintiff or applicant], the *[*external administrator/*liquidator of the above company,] intend to apply to the Court to review *the remuneration of/*my remuneration as the *external administrator/*liquidator of the company.
 The amount of the remuneration that has been determined or fixed is [state the amount]. The remuneration was determined or fixed by [state who determined or fixed the remuneration] on [state the date when the remuneration was determined or fixed].
 I intend to apply for an order to *confirm/*increase/*reduce the remuneration.
 [Set out the grounds upon which an order or orders will be sought. If an order to increase or reduce the remuneration is sought, set out the amount by which the remuneration is sought to be increased or reduced.]
-If you wish to appear at the hearing of the application, in order to raise any issues before the Court, you must, within 21 days after being served with this notice, serve on me a notice under rule *9.2A(4)/*9.4A(4) of the Supreme Court (Corporations) (WA) Rules 2004, stating your intention to appear at the hearing and setting out the issues that you seek to raise before the Court.
+If you wish to appear at the hearing of the application, in order to raise any issues before the Court, you must, within 21 days after being served with this notice, serve on me a notice under rule rule 9.2A(4) of the Supreme Court (Corporations) (WA) Rules 2004, stating your intention to appear at the hearing and setting out the issues that you seek to raise before the Court.
 Date:
-...............................................................
+.....................................................................
 Signature of proposed plaintiff or applicant
 * Omit if not applicable
-[Form 16A inserted: Gazette 12 Aug 2008 p. 3546.]
+[Form 16A inserted: Gazette 12 Aug 2008 p. 3546; amended: SL 2021/121 r. 33(5).]
 Form 17
 [rule 11.3]
 Summons for examination
@@ -319,9 +320,8 @@ Summons for examination
 A.DETAILS OF SUMMONS
 TO: [name and address of person to be examined]
 You are summoned under *section 596A/*section 596B of the Corporations Act to:
-(a)attend before ..................................................................at [address of Court] at ..................*a.m./*p.m. on ....................................., and from day to day until excused by the Court, to be examined on oath or affirmation about the examinable affairs of [name of corporation]; and
+(a)attend before a *judge/*master at the time, on the date and in the place specified in the attached listing notification, and from day to day until excused by the Court, to be examined on oath or affirmation about the examinable affairs of [name of corporation]; and
 (b)*to produce at the examination the following books [specify books — include in a schedule if necessary].
-Date:
 ..................................
 Principal Registrar
 B.NOTICE TO PERSON TO BE EXAMINED
@@ -329,6 +329,7 @@ The Court may order that the questions put to you and the answers given by you a
 If you do not attend the examination in accordance with this summons, without reasonable cause, you may be arrested and imprisoned without further notice.
 This summons is issued at the request of [name] whose address for service is [address of person’s legal practitioner or person].
 * Omit if not applicable
+[Form 17 amended: SL 2021/121 r. 33(6).]
 Form 17A
 [Corporations Act 2001 (Cth) s. 486B and
 Supreme Court (Corporations) (WA) Rules 2004 r. 11A.1]
@@ -360,29 +361,29 @@ Form 18
 Summons for appearance in relation to registration of transfer of interests
 [Title]
 TO: [name and address]
-You are required to appear before the .................................. at [address of Court] at ............................*a.m./*p.m. on ....................................... and show cause why the document(s) specified in the Schedule should not be *delivered up/*produced at the office of [name of company] at [address of company] within [period as ordered], as required by the attached notice.
+You are required to appear before a *judge/*master at the time, on the date and in the place specified in the attached listing notification and show cause why the document(s) specified in the Schedule should not be *delivered up/*produced at the office of [name of company] at [address of company] within [period as ordered], as required by the attached notice.
 The address for service of the person applying for this summons is [address of person’s legal practitioner or of person].
-Date:
 .........................................
 Principal Registrar
 * Omit if not applicable
 Schedule
 [description of document(s)]
+[Form 18 amended: SL 2021/121 r. 33(7).]
 Form 19
 [rule 15A.5]
 Consent to act as designated person
 [Title]
-I, [name], of [address], an official liquidator, consent to be appointed by the Court and to act as the person designated by the Court under *article 19/*article 21 of the Model Law to *administer/*realise/*distribute the assets of [name of company].
+I, [name], of [address], a registered liquidator, consent to be appointed by the Court and to act as the person designated by the Court under *article 19/*article 21 of the Model Law to *administer/*realise/*distribute the assets of [name of company].
 I am not aware of any conflict of interest or duty that would make it improper for me to act as the person designated by the Court.
-The hourly rates currently charged in respect of work done as the person designated by the Court by me, and by my partners and employees who may perform work in this administration, are set out below or in the Schedule which is attached to this Consent.
-I acknowledge that my appointment by the Court does not constitute an express or implied approval by the Court of these hourly rates.
+The time-cost rates currently charged in respect of work done as the person designated by the Court by me, and by my partners and employees who may perform work in this administration, are set out below or in the Schedule which is attached to this Consent.
+I acknowledge that my appointment by the Court does not constitute an express or implied approval by the Court of these time-cost rates.
 Date:
-.................................................
-Signature of official liquidator
+......................................................
+Signature of registered liquidator
 *Omit if not applicable
 Schedule
-[description of hourly rate(s)]
-[Form 19 inserted: Gazette 13 Feb 2009 p. 309; amended: Gazette 1 Apr 2010 p. 1279.]
+[description of time-cost rate(s)]
+[Form 19 inserted: Gazette 13 Feb 2009 p. 309; amended: Gazette 1 Apr 2010 p. 1279; SL 2021/121 r. 33(8).]
 Form 20
 [rule 15A.6]
 Notice of filing of application for recognition of foreign proceeding
