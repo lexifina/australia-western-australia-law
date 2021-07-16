@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 State Administrative Tribunal Regulations 2004 | 30 Dec 2004 p. 6747-848 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -53,6 +53,10 @@ State Administrative Tribunal Amendment Regulations (No. 3) 2020 | SL 2020/158 2
 State Administrative Tribunal Amendment Regulations 2021 | SL 2021/31 26 Mar 2021 | r. 1 and 2: 26 Mar 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 10 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 3) 2021 | SL 2021/102 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b) and SL 2021/83 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Attorney General Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt. 3 | SL 2021/127 16 Jul 2021 | 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
