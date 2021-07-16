@@ -172,8 +172,8 @@ Yalgoo Land Conservation District Committee
 Yallingup Land Conservation District Committee
 Yilgarn Land Conservation District Committee
 York Land Conservation District Committee
-Department of Consumer and Employment Protection | Board of Examiners (Coal Mining)
-Board of Examiners (Mine Managers and Underground Supervisors)
+Board of Examiners (Coal Mining)
+Department of Consumer and Employment Protection | Board of Examiners (Mine Managers and Underground Supervisors)
 Board of Examiners (Quarry Managers)
 Charitable Collections Advisory Committee
 Coal Industry Tribunal of Western Australia
