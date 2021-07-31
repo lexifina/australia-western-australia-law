@@ -28,6 +28,7 @@ Child Protection Regulations Amendment (Fees and Payments) Regulations 2019 Pt. 
 Children and Community Services Amendment Regulations 2020 | SL 2020/142 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2020 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 2) 2020 | SL 2020/237 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Children and Community Services Amendment Regulations 2021 | SL 2021/36 9 Apr 2021 | r. 1 and 2: 9 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2021 (see r. 2(b))
+Children and Community Services Amendment Regulations (No. 2) 2021 | SL 2021/139 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2021 (see r. 2(b))
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
