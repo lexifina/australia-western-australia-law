@@ -45,6 +45,8 @@ Justice Regulations Amendment (Emergency Management) Regulations 2020 Pt. 2 | SL
 Criminal Procedure Amendment Regulations 2020 | SL 2020/100 30 Jun 2020 | r. 1 and 2: 30 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Attorney General Regulations Amendment (High Risk Serious Offenders) Regulations 2020 Pt. 2 | SL 2020/236 4 Dec 2020 | 5 Dec 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Forms) Regulations 2021 Pt. 3 | SL 2021/38 9 Apr 2021 | 10 Apr 2021 (see r. 2(b))
+Attorney General Regulations Amendment (Shipping and Pilotage) Regulations 2021 Pt. 2 | SL 2021/135 30 Jul 2021 | 31 Jul 2021 (see r. 2(b))
+Attorney General Regulations Amendment (Sunday Entertainments) Regulations 2021 Pt. 2 | SL 2021/136 30 Jul 2021 | 31 Jul 2021 (see r. 2(b))
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
