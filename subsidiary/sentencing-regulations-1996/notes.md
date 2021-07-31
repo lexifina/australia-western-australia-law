@@ -34,6 +34,7 @@ Sentencing Amendment Regulations 2018 | 28 Dec 2018 p. 4883-4 | r. 1 and 2: 28 D
 Sentencing Amendment Regulations 2019 | 24 Dec 2019 p. 4421 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 6 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/162 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Attorney General Regulations Amendment (Sunday Entertainments) Regulations 2021 Pt. 4 | SL 2021/136 30 Jul 2021 | 31 Jul 2021 (see r. 2(b))
 Other notes
 Footnote no longer required.
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
