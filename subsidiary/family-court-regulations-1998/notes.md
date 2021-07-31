@@ -18,6 +18,7 @@ Reprint 3: The Family Court Regulations 1998 as at 15 Jan 2016 (includes amendme
 Family Court Amendment Regulations 2018 | 24 Aug 2018 p. 2971-2 | r. 1 and 2: 24 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Aug 2018 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Family Court Amendment Regulations 2021 | SL 2021/19 2 Feb 2021 | r. 1 and 2: 2 Feb 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Feb 2021 (see r. 2(b))
+Family Court Amendment Regulations (No. 2) 2021 | SL 2021/137 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -27,25 +28,19 @@ commencement day22(1), 24(1)
 conciliation conference18
 conciliation conference fee18
 court3(1)
-CPI number21I(1)
 current fees24(1)
-earlier CPI number21I(4)
 eligible financial or parenting proceedings18
 equivalent action6(1)
 Family Law Regulations3(1)
 Family Law Rules3(1)
-fee21I(4)
 filing fee18
 formal orders21H(8)
 hearing fee18
 holder21A(2)
 interim order application18
-latest CPI number21I(4)
 liable person18
-March quarter21I(1)
 old regulations23(1)
 refund period24(1)
 relevant court18
-relevant period21I(1)
 section3(1)
 setting down fee18
