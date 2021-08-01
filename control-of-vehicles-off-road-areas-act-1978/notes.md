@@ -41,12 +41,12 @@ Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 29 | 28 of 2010 | 1
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Reprint 5: The Control of Vehicles (Off-road Areas) Act 1978 as at 7 Sep 2012 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10)
 Local Government Legislation Amendment Act 2019 Pt. 4 Div. 4 | 16 of 2019 | 5 Jul 2019 | 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
+Swan Valley Planning Act 2020 Pt. 10 Div. 1 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7 and No. 8 of 2012 s. 65) | 12 Dec 1978 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 365 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Swan Valley Planning Act 2020 Pt. 10 Div. 1 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).

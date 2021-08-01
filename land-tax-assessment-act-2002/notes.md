@@ -38,9 +38,6 @@ Reprint 5: The Land Tax Assessment Act 2002 as at 20 Jul 2018 (includes amendmen
 Strata Titles Amendment Act 2018 Pt. 3 Div. 11 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Revenue Laws Amendment Act 2019 Pt. 3 Div. 2-4 | 12 of 2019 | 12 Jun 2019 | Pt. 3 Div. 2: 13 Jun 2019 (see s. 2(e)); Pt. 3 Div. 3: 1 Jul 2019 (see s. 2(c)); Pt. 3 Div. 4: 30 Jun 2021 (see s. 2(d)(ii) and SL 2021/69 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Swan Valley Planning Act 2020 Pt. 10 Div. 6 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 3 Div. 2.
@@ -72,35 +69,35 @@ Defined terms
 Defined termProvision(s)
 2012 to 2014 assessment periodSch. 1 cl. 10
 aged care facility38A(1)
-agentGl.
-aggregated taxable valueGl.
+agentGl. cl. 1
+aggregated taxable valueGl. cl. 1
 amended ActSch. 1 cl. 10 and 16
 amending ActSch. 1 cl. 6
-approvedGl.
-assessmentGl.
-assessment yearGl.
+approvedGl. cl. 1
+assessmentGl. cl. 1
+assessment yearGl. cl. 1
 beneficiary23A(1), 29, 30K, Sch. 1 cl. 20(2)
-building contractGl.
+building contractGl. cl. 1
 change30F(1)
-clauseGl.
+clauseGl. cl. 1
 commencementSch. 1 cl. 10 and 16
-commencement dateGl.
-completion dateGl.
-compliant trusteeSch. 1 cl. 9(1), Sch. 1 cl. 20(1)
-conservation covenantGl.
+commencement dateGl. cl. 1
+completion dateGl. cl. 1
+compliant trusteeSch. 1 cl. 9(1) and 20(1)
+conservation covenantGl. cl. 1
 deceased30E
 decisionSch. 1 cl. 12(1) and 18(1)
-disabled beneficiaryGl.
+disabled beneficiaryGl. cl. 1
 disabled person26A(1)
 discretionary trust29
 dwelling park land39A(1)
 dwelling park purposes39A(1)
 excluded purpose39A(1)
-exemptGl.
+exemptGl. cl. 1
 exempt area18A(2)
-exempt purposeGl.
 exemption period28A
 exemption provision18(1), 18A(1), 28A
+exempt purposeGl. cl. 1
 family corporation29, 30H
 family member29
 family owner29, 30H
@@ -109,84 +106,85 @@ family unit trust scheme29, 30H
 former ActSch. 1 cl. 16
 former section 20Sch. 1 cl. 8(1)
 former section 30Sch. 1 cl. 7(1)
-home lotGl.
-home unitGl.
-improvement schemeGl.
-improvementsGl.
+home lotGl. cl. 2(4)
+home unitGl. cl. 1
+improvementsGl. cl. 1
+improvement schemeGl. cl. 1
 individual30I(1)
-industrial associationGl.
-joint owners28E(1), Gl.
-landGl.
-Land Information AuthorityGl.
-land taxGl.
-land tax ActGl.
-local planning schemeGl.
-lotGl., Gl.
-metropolitan regionGl.
+industrial associationGl. cl. 1
+joint owners28E(1), Gl. cl. 1
+landGl. cl. 1
+Land Information AuthorityGl. cl. 1
+land taxGl. cl. 1
+land tax ActGl. cl. 1
+local planning schemeGl. cl. 1
+lotGl. cl. 1 and 2(1)
+metropolitan regionGl. cl. 1
 modified rural business land provisions Sch. 1 cl. 10
 new lot28A, 43A(1)
 new lot owner28B(3)
 new provisionsSch. 1 cl. 3
-non-profit associationGl.
+non-profit associationGl. cl. 1
 non-public authoritySch. 1 cl. 16
 non-rural land29
-non-strata home unitGl.
+non-strata home unitGl. cl. 1
 old lot43A(1)
 original assessment year38AC(8)
-other lotsGl.
-ownerGl.
-owner-builderGl.
-parcel43B(1), Gl.
-parent lot28A, Gl.
-parent lotsGl.
+other lotsGl. cl. 2(4)
+ownerGl. cl. 1
+owner-builderGl. cl. 1
+parcel43B(1), Gl. cl. 1
+parent lot28A, Gl. cl. 2(2)
+parent lotsGl. cl. 2(2)
 partnership29
-political partyGl.
+political partyGl. cl. 1
 preliminary notice about an exemption under section 37Sch. 1 cl. 4(1)
 previous assessmentSch. 1 cl. 10 and 16
 previous assessment periodSch. 1 cl. 8(1)
-previous financial yearGl.
+previous financial yearGl. cl. 6(5)
 previously exempt landSch. 1 cl. 3
 primary production29
 primary production business29
-primary residenceGl.
-private residenceGl.
-private residential propertyGl.
+primary residenceGl. cl. 1
+private residenceGl. cl. 1
+private residential propertyGl. cl. 1
 produce animals30A(1)
-professional associationGl.
-promote trade, industry or commerceGl.
+professional associationGl. cl. 1
+promote trade, industry or commerceGl. cl. 1
 property A27(1)
 property B27(1)
 public charitable or benevolent institution37(1)
-public statutory authorityGl.
-registeredGl.
+public statutory authorityGl. cl. 1
+registeredGl. cl. 1
 related29
 related purpose39A(1)
 relevant 2-year exemption provision28D
-relevant bodyGl.
+relevant bodyGl. cl. 1
 relevant exemption provisionSch. 1 cl. 21(3)
 relevant owners28E(1)
 relevant period28E(1)
 relevant requirements18(1), 18A(1)
-reserved land32(5), 33(6), Gl.
+reserved land32(5), 33(6), Gl. cl. 1
 residence contract39(1)
 residential care38A(1)
 residential premises39(1)
-retirement village39(1), Gl.
+retirement village39(1), Gl. cl. 1
 retirement village scheme39(1)
 rural business land assessmentSch. 1 cl. 10
 rural land29
 shareholder30J
-sportGl.
-sports associationGl.
-subdividedGl.
-subdividing ownerGl.
-taxable authorityGl.
-taxable landGl.
-taxable valueGl.
-taxes9(6), 31(6), Gl.
+sportGl. cl. 1
+sports associationGl. cl. 1
+subdividedGl. cl. 1
+subdividing ownerGl. cl. 1
+Swan Valley Planning SchemeGl. cl. 1
+taxable authorityGl. cl. 1
+taxable landGl. cl. 1
+taxable valueGl. cl. 1
+taxes9(6), 31(6), Gl. cl. 1
 transitional periodSch. 1 cl. 7(1)
-trusteeGl.
-unimproved valueGl.
+trusteeGl. cl. 1
+unimproved valueGl. cl. 1
 unit holder30
 unsatisfied requirements28B(1)
 validation periodSch. 1 cl. 10 and 16

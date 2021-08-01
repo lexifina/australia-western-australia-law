@@ -15,5 +15,6 @@ Mining Act 1978
 Petroleum and Geothermal Energy Resources Act 1967
 Planning and Development Act 2005
 Rights in Water and Irrigation Act 1914
+Swan Valley Planning Act 2020
 Water Services Act 2012
-[Schedule inserted: No. 42 of 1982 s. 43; amended: No. 46 of 1994 s. 40; No. 14 of 1996 s. 4; No. 31 of 1997 s. 141; No. 38 of 2005 s. 15; No. 35 of 2007 s. 105; No. 24 of 2007 s. 80; No. 24 of 2011 s. 173; No. 25 of 2012 s. 229; No. 24 of 2016 s. 320.]
+[Schedule inserted: No. 42 of 1982 s. 43; amended: No. 46 of 1994 s. 40; No. 14 of 1996 s. 4; No. 31 of 1997 s. 141; No. 38 of 2005 s. 15; No. 35 of 2007 s. 105; No. 24 of 2007 s. 80; No. 24 of 2011 s. 173; No. 25 of 2012 s. 229; No. 24 of 2016 s. 320; No. 45 of 2020 s. 128.]

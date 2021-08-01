@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Soil and Land Conservation Act 1945 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Soil and Land Conservation Act 1945 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Soil Conservation Act 1945 | 15 of 1945 (9 and 10 Geo. VI No. 15) | 9 Jan 1946 | 1 Jul 1946 (see s. 1 and Gazette 28 Jun 1946 p. 789)
@@ -58,9 +58,6 @@ Building Act 2011 s. 173 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 Water Services Legislation Amendment and Repeal Act 2012 s. 229 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 9: The Soil and Land Conservation Act 1945 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 Biodiversity Conservation Act 2016 s. 320 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Swan Valley Planning Act 2020 Pt. 10 Div. 13 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.

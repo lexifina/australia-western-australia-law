@@ -50,11 +50,11 @@ Land Legislation Amendment Act 2015 Pt. 4 | 11 of 2015 | 29 Apr 2015 | 30 Jun 20
 Land Legislation Amendment (Taxing) Act 2015 Pt. 3 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Heritage Act 2018 s. 187 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Strata Titles Amendment Act 2018 Pt. 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+Swan Valley Planning Act 2020 Pt. 10 Div. 14 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Swan Valley Planning Act 2020 Pt. 10 Div. 14 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:

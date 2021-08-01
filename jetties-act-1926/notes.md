@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jetties Act 1926 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Jetties Act 1926 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Jetties Act 1926 | 45 of 1926 (17 Geo. V No. 45) | 23 Dec 1926 | 23 Dec 1926
@@ -27,9 +27,6 @@ Reprint 3: The Jetties Act 1926 as at 8 Jun 2007 (includes amendments listed abo
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 81 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Ports Legislation Amendment Act 2019 Pt. 2 | 2 of 2019 | 26 Feb 2019 | 27 Feb 2019 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Swan Valley Planning Act 2020 Pt. 10 Div. 5 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.

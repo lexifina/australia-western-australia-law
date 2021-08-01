@@ -24,12 +24,12 @@ Reprint 3: The Swan and Canning Rivers Management Act 2006 as at 14 Oct 2016 (in
 Strata Titles Amendment Act 2018 Pt. 3 Div. 22 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Swan and Canning Rivers Management Regulations 2007 r. 47(3) inserted by SL 2020/186 r. 4 | 30 Sep 2020 (see SL 2020/186 r. 2(b))
 Community Titles Act 2018 Pt. 14 Div. 22 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Swan Valley Planning Act 2020 Pt. 10 Div. 15 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 24 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 s. 372 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Swan Valley Planning Act 2020 Pt. 10 Div. 15 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -91,8 +91,8 @@ place104
 prescribed3(1)
 prescribed offence122
 private land28(1)
-public authority3(1)
 publication day148(1)
+public authority3(1)
 register94(1)
 Registrar94(1)
 relevant Minister55(3), 61(1)
@@ -103,21 +103,20 @@ remote communication112(1)
 responsible authority94(1), 96(1)
 responsible person118(2)
 right138
+Riverpark3(1)
+Riverpark shoreline3(1), 12(1)
 river protection notice3(1)
 river protection strategy3(1)
 River reserve3(1)
 River reserve lessee3(1)
-Riverpark3(1)
-Riverpark shoreline3(1), 12(1)
 Schedule 5 authority3(1)
-Schedule 5 Minister6(5)(a) and (b)
+Schedule 5 Minister6(5)
 scheme94(1), 96(1)
 specified148(1)
 staff28D(1)
 State tax145(1)
 strategic document3(1)
 Swan Valley67
-Swan Valley Planning Committee67
 this Part138
 transitional matter148(1)
 Trust3(1)
