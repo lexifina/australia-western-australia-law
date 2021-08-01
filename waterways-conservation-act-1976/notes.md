@@ -36,12 +36,12 @@ Water Resources Legislation Amendment Act 2007 Pt. 8 | 38 of 2007 | 21 Dec 2007 
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 39 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Reprint 4: The Waterways Conservation Act 1976 as at 18 Jul 2014 (includes amendments listed above)
 Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 28 (other than s. 343(2)) | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 28 (other than s. 343(2)): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
+Swan Valley Planning Act 2020 Pt. 10 Div. 18 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 343(2) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 s. 374 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Swan Valley Planning Act 2020 Pt. 10 Div. 18 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Other notes
 Repealed by the Interpretation Act 1984.
 Repealed by the Mining Act 1978.

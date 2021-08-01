@@ -62,6 +62,7 @@ Strata Titles Amendment Act 2018 Pt. 3 Div. 6 | 30 of 2018 | 19 Nov 2018 | 1 May
 Community Titles Act 2018 Pt. 14 Div. 8 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Environmental Protection Amendment Act 2020 s. 3, 5-8, 10, 13, 14, 24, 32, 35, 36, 37(1), 58, 73-76, 80-82, 93, 94, 96, 99, 101, 106(4)-(6), 107, 108(1)-(6) and (8)-(11), 110(4)-(6) and 111 | 40 of 2020 | 19 Nov 2020 | 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2)
 Environmental Protection Amendment Act (No. 2) 2020 s. 4 | 41 of 2020 | 19 Nov 2020 | 3 Feb 2021 (see s. 2(1)(b) and SL 2021/12 cl. 2)
+Swan Valley Planning Act 2020 Pt. 10 Div. 3 (other than s. 103) | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -70,7 +71,7 @@ Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be 
 Planning and Development Amendment Act 2020 Pt. 6 Div. 2 and Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | To be proclaimed (see s 2(1)(b))
 Environmental Protection Amendment Act 2020 s. 4, 9, 11, 12, 15-23, 25-31, 33, 34, 37(2), 38-57, 59-72, 77-79, 83-92, 95, 97, 98, 100, 102-105, 106(1)-(3), 108(7), 109, 110(1)-(3) and 112 | 40 of 2020 | 19 Nov 2020 | s. 4(6): on the later of either the day on which the Planning and Development Amendment Act 2020 s. 64 comes into operation or immediately after s. 4(2) comes into operation (see s. 2(1)(b)); s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s. 4(1)-(5) and (7)-(10), 9, 11, 12, 15-23, 25-31, 33, 34, 37(2), 38-57, 60-72, 77-79, 83-92, 95, 97, 98, 100, 102-105, 106(1)-(3), 108(7), 109, 110(1)-(3) and 112: to be proclaimed (see s. 2(1)(e))
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
-Swan Valley Planning Act 2020 Pt. 10 Div. 3 | 45 of 2020 | 9 Dec 2020 | Pt. 10 Div. 3 (other than s. 103): 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2); s. 103: immediately after the Planning and Development Amendment Act 2020 s. 56 comes into operation (see s. 2(1)(c)(ii))
+Swan Valley Planning Act 2020 s. 103 | 45 of 2020 | 9 Dec 2020 | Immediately after the Planning and Development Amendment Act 2020 s. 56 comes into operation (see s. 2(1)(c)(ii))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
