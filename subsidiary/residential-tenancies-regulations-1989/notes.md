@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Residential Tenancies Regulations 1989 | 9 Aug 1989 p. 2563-85 (erratum 18 Aug 1989 p. 2751) | 1 Oct 1989 (see r. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -50,9 +50,6 @@ Consumer Protection Regulations Amendment Regulations 2019 Pt. 5 | 24 Dec 2019 p
 Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 4 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 24 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 6 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt. 3 | SL 2021/130 16 Jul 2021 | 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
@@ -64,8 +61,10 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 AS 5039-200812B(1)
+belongsSch. 4
 bond holder15(7)
 commencement day5A(1A)
+community titles schemeSch. 4
 deadlock12B(1)
 financially disadvantaged personSch. 3
 Foyer Oxford7D(1)
@@ -78,7 +77,10 @@ Register of Heritage Places7A(1)
 relevant bank accepted bills rate14(1)
 retirement village3(2)
 rural land7A(1)
+scheme by-lawsSch. 4
 security bond15(7)
 specified power5(2), 5D(2)
 St Thomas More College5AAA(1)
+tier 2 schemeSch. 4
+tier 3 schemeSch. 4
 Unclaimed Security Bond Account15(7)
