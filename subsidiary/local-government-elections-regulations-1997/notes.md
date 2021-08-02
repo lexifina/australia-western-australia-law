@@ -19,8 +19,8 @@ Reprint 3: The Local Government (Elections) Regulations 1997 as at 4 Apr 2014 (i
 Local Government (Elections) Amendment Regulations 2019 | 18 Jan 2019 p. 111 | r. 1 and 2: 18 Jan 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jan 2019 (see r. 2(b))
 Local Government Regulations Amendment (Induction and Training) Regulations 2019 Pt. 2 | 9 Aug 2019 p. 3020-3 | 10 Aug 2019 (see r. 2(b) and Gazette 9 Aug 2019 p. 3019)
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 6 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
+Local Government (Elections) Amendment Regulations 2021 | SL 2021/141 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2021 (see r. 2(b))
 Other notes
-The Criminal Code s. 348 and 349 were deleted by the Defamation Act 2005 s. 47.
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 3.Application
 These amendments to the principal regulations apply to elections that are to take place on or after 1 May 1999.
