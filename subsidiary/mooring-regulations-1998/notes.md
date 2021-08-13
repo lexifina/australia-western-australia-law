@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Mooring Regulations 1998 | 11 Dec 1998 p. 6659-78 | 11 Dec 1998
@@ -30,6 +30,10 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 3 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/60 22 May 2020 | 1 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Mooring Management) Regulations 2021 Pt. 2 | SL 2021/147 13 Aug 2021 | 28 Sep 2021 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
