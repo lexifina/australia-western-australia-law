@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Marine (Infringements) Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Western Australian Marine (Infringements) Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
  | Western Australian Marine (Infringements) Regulations 1985 | 4 Oct 1985 p. 3866-70 | 4 Jan 1986 (see r. 2)
@@ -29,6 +29,10 @@ Citation | Published | Commencement
  | Reprint 3: The Western Australian Marine (Infringements) Regulations 1985 as at 6 Dec 2013 (includes amendments listed above)
  | Transport Regulations Amendment (Lifejackets) Regulations 2017 Pt. 3 | 3 Mar 2017 p. 1484-91 | 4 Mar 2017 (see r. 2(b))
  | Transport Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/172 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Mooring Management) Regulations 2021 Pt. 4 | SL 2021/147 13 Aug 2021 | 28 Sep 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
