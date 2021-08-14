@@ -13,6 +13,7 @@ Animal Welfare (General) Amendment Regulations (No. 2) 2010 | 16 Feb 2010 p. 644
 Animal Welfare (General) Amendment Regulations 2010 | 16 Mar 2010 p. 977-8 | r. 1 and 2: 16 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Mar 2010 (see r. 2(b))
 Animal Welfare (General) Amendment Regulations 2013 | 5 Feb 2013 p. 826-7 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Animal Welfare (General) Amendment Regulations 2020 | SL 2020/161 2 Oct 2020 | r. 1 and 2: 2 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2020 (see r. 2(b)(i) and (c) and SL 2020/159 cl. 2(a))
+Animal Welfare (General) Amendment Regulations 2021 | SL 2021/146 13 Aug 2021 | r. 1 and 2: 13 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
