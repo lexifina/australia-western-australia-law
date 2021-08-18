@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 June 2013 of the Agricultural Produce Commission Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agricultural Produce Commission Act 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Horticultural Produce Commission Act 1988 | 75 of 1988 | 23 Dec 1988 | s. 1 and 2: 23 Dec 1988; Act other than s. 1 and 2: 1 Sep 1989 (see s. 2 and Gazette 1 Sep 1989 p. 3017)
@@ -18,8 +18,10 @@ Acts Amendment (Bankruptcy) Act 2009 s. 7 | 18 of 2009 | 16 Sep 2009 | 17 Sep 20
 Standardisation of Formatting Act 2010 s. 7 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Agricultural Produce Commission Act 1988 as at 14 Jun 2013 (includes amendments listed above)
-The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 3 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+Agricultural Produce Commission Amendment Act 2021 | 11 of 2021 | 17 Aug 2021 | s. 1 and 2: 17 Aug 2021 (see s. 2(a)); Act other than s. 1 and 2: 18 Aug 2021 (see s. 2(b))
+Other notes
+The provision in this Act amending these Acts was deleted by the Agricultural Produce Commission Amendment Act 2021 s. 31.
+The amendments in the Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 3 are not included in this compilation as that provision was repealed before it came into operation by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Agricultural Produce Commission Act 1988; short title changed (see note under s. 1).
 The Horticultural Produce Commission Amendment Act 2000 s. 32 and 34 read as follows:
 32.Validation
@@ -37,12 +39,21 @@ Defined terms
 Defined termProvision(s)
 agricultural industry3(1)
 agricultural produce3(1)
+authorised officer3(1)
+charge 19C
 Commission3(1)
+compliance purposes19C
 document6B(4)
 information6B(4)
 member3(1)
+officer or employee24(1)
 orchard12A(5)
 parliamentary purposes6B(4)
+pastoral lease3(1)
+prescribed person13(1A)
 producer19A(1)
-producers’ committee3(1)
+producers’ committee2(1)
+record19C, 19G(1)
+relevant person19C
+relevant record19C
 specified area12A(5)
