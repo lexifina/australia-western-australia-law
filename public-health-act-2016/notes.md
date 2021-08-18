@@ -8,6 +8,7 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 28 | 26 of 2016 | 21 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 117 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 Pt. 2 | 14 of 2019 | 5 Jul 2019 | s. 3: 5 Jul 2019 (see s. 2(a)); s. 4-12: 22 Jul 2019 (see s. 2(b) and Gazette 19 Jul 2019 p. 2841)
 Public Health Amendment (COVID-19 Response) Act 2020 | 33 of 2020 | 21 Aug 2020 | s. 1 and 2: 21 Aug 2020 (see s. 2(1)(a)); Act other than s. 1 and 2: 12 Sep 2020 (see s. 2(1)(b) and SL 2020/153 cl. 2)
+Public Health Amendment (Safe Access Zones) Act 2021 | 9 of 2021 | 17 Aug 2021 | s. 1 and 2: 17 Aug 2021 (see s. 2(a)); Act other tha s. 1 and 2: 18 Aug 2021 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -25,7 +26,7 @@ appropriate enforcement agency4(1)
 approved form4(1)
 Australian Immunisation Register141A
 authorisation154(1), 176(1), 181(1), 198(1)
-authorised officer4(1), 4(2)
+authorised officer4(1) and (2)
 CEO4(1)
 certificate of registration4(1)
 certificate requirement31(1)
@@ -53,6 +54,7 @@ designated officer299(1)
 designation23
 direction198(1)
 disability115, 155, 177
+distribute202O
 emergency area4(1)
 emergency management4(1)
 emergency management purposes177
@@ -106,10 +108,11 @@ officer4(1), 282(1), 299(1)
 order92(1), 129(1)
 parent202G
 person A26(1)
-person in charge141A
 personal details4(1)
+person in charge141A
 poison197(1)
 premises4(1)
+premises at which abortions are provided202O
 prescribed condition of health4(1)
 production requirement31(1)
 protected person99, 115
@@ -123,9 +126,11 @@ public health risk4(1)
 public health risk activity4(1)
 public health state of emergency4(1)
 public health state of emergency declaration4(1)
+publish202O
 quarantine direction4(1)
 reasonably suspects239
 record244(1)
+recording202O
 relative99, 115, 132, 155, 177
 relevant amendments306A(1)
 relevant counselling99
@@ -141,6 +146,7 @@ responsible pathologist93
 responsible person99, 115, 141A, 155, 177
 reviewable decisions163(1), 194(1)
 rheumatic heart disease91(1)
+safe access zone202O
 sample4(1)
 school4(1)
 senior next of kin4(1)
