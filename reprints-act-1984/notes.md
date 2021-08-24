@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Reprints Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Reprints Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Reprints Act 1984 | 13 of 1984 | 31 May 1984 | 1 Feb 1985 (see s. 2 and Gazette 11 Jan 1985 p. 175)
@@ -12,6 +12,11 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 102 | 74 of 2003 | 15 Dec 20
 Reprint 2: The Reprints Act 1984 as at 19 Mar 2004 (includes amendments listed above)
 Interpretation and Reprints Amendment Act 2010 Pt. 3 | 31 of 2010 | 25 Aug 2010 | 26 Aug 2010 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legislation Act 2021 s. 45 | 13 of 2021 | 24 Aug 2021 | 1 Jul 2023 (see s. 2(b) and SL 2023/58 cl. 2)
+Other notes
 The positions of Senior Parliamentary Counsel and Senior Assistant Parliamentary Counsel have been authorised under section 5(3).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 reads as follows:
 “
