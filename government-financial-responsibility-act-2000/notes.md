@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Government Financial Responsibility Act 2000 and includes the amendment made by the other written law referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Government Financial Responsibility Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Financial Responsibility Act 2000 | 26 of 2000 | 5 Jul 2000 | 5 Jul 2000 (see s. 2)
@@ -7,6 +7,10 @@ Financial Administration Legislation Amendment Act 2005 Pt. 3 | 5 of 2005 | 27 J
 Reprint 1: The Government Financial Responsibility Act 2000 as at 25 Jan 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Financial Legislation Amendment Act 2021 Pt. 3 | 12 of 2021 | 24 Aug 2021 | 21 Sep 2021 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
