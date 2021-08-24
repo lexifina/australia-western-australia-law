@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Interpretation Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Interpretation Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Interpretation Act 1984 | 12 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2)
@@ -52,6 +52,10 @@ Reprint 7: The Interpretation Act 1984 as at 21 Jan 2011 (includes amendments li
 Statutes (Repeals and Minor Amendments) Act 2014 s. 27 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 19 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 5 Subdiv. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legislation Act 2021 Pt. 6 Div. 1 | 13 of 2021 | 24 Aug 2021 | To be proclaimed (see s. 2(b))
 Other notes
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
