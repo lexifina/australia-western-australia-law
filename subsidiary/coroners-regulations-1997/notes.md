@@ -27,11 +27,14 @@ Attorney General Regulations Amendment (Transcript Fees) Regulations 2019 Pt. 3 
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Coroners Amendment Regulations 2021 | SL 2021/150 27 Aug 2021 | r. 1 and 2: 27 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 approved form3A
+authorised user3A
 Centrelink23B(1)
+ECMS3A
 eligible individual3A
 eligible individual fee3A
 fee3A
