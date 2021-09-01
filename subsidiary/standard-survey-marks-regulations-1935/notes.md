@@ -4,6 +4,7 @@ Compilation table
 Citation | Published | Commencement
 Standard Survey Marks Regulations | 1 Feb 1935 p. 200-1 | 1 Feb 1935
 Standard Survey Marks Amendment Regulations 2006 | 29 Dec 2006 p. 5911-12 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
+Lands Regulations Amendment (Surveys) Regulations 2021 Pt. 2 | SL 2021/151 31 Aug 2021 | 1 Sep 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

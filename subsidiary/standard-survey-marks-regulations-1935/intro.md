@@ -1,6 +1,6 @@
 Western Australia
 STANDARD SURVEY MARKS ACT 1924
-Standard Survey Marks Regulations
+Standard Survey Marks Regulations 1935
 Department of Lands and Surveys,
 Perth, 30th January 1935.
 4109/94

@@ -34,6 +34,7 @@ Reprint 5: The Transfer of Land Regulations 2004 as at 19 Jan 2018 (includes ame
  | Lands Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 21 May 2019 p. 1474-81 | 1 Jul 2019 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/76 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/88 18 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+ | Lands Regulations Amendment (Surveys) Regulations 2021 Pt. 4 | SL 2021/151 31 Aug 2021 | 1 Sep 2021 (see r. 2(b))
 Other notes
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
 Defined terms
