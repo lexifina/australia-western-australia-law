@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Licensed Surveyors (Transfer of Land Act 1893) Regulations 1961 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any previous reprints.
+This is a compilation of the Licensed Surveyors (Transfer of Land Act 1893) Regulations 1961 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Untitled | 28 Nov 1961 p. 3289-95 | 1 Jan 1962
  | 27 Aug 1969 p. 2475 | 27 Aug 1969
  | 16 Jun 1970 p. 1667 | 16 Jun 1970
@@ -15,10 +15,13 @@ Licensed Surveyors Amendment Regulations 1997 Pt. 4 | 4 Apr 1997 p. 1757-67 | 5 
 Licensed Surveyors (Transfer of Land Act 1893) Amendment Regulations 2000 | 5 Sep 2000 p. 5061-3 | 5 Sep 2000
 Reprint of the Licensed Surveyors (Transfer of Land Act 1893) Regulations 1961 as at 15 Feb 2002 (includes amendments listed above)
 Licensed Surveyors (Transfer of Land Act 1893) Amendment Regulations 2006 | 29 Dec 2006 p. 5900-3 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
-Now known as the Licensed Surveyors (Transfer of Land Act 1893) Regulations 1961; citation inserted (see note under r. 1).
+Licensed Surveyors (Transfer of Land Act 1893) Amendment Regulations 2021 | SL 2021/153 31 Aug 2021 | r. 1 and 2: 31 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2021 (see r. 2(b))
+Other notes
+Now known as the Licensed Surveyors (Transfer of Land Act 1893) Regulations 1961 (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+field record1A
 general regulation1A
 general regulations1A
 gone51(4)
