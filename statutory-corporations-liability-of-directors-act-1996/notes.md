@@ -43,8 +43,9 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 157 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Arts and Culture Trust Act 2021 s. 78 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Other notes
-The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this compilation was prepared, would repeal that Part.
+The State Government Insurance Corporation ceased to exist on 1 July 2012.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 The amendment in the State Superannuation Amendment Act 2007 s. 87 is not included because that section was repealed by the State Superannuation Amendment Act 2011 s. 4 before it came into operation.
