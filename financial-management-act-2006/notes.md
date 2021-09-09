@@ -45,6 +45,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 149 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Financial Legislation Amendment Act 2021 Pt. 2 | 12 of 2021 | 24 Aug 2021 | 21 Sep 2021 (see s. 2(b))
+Arts and Culture Trust Act 2021 s. 75 | 15 of 2021 | 9 Sep 2021 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
