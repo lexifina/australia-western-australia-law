@@ -11,6 +11,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 50, 51, 53, 54, 56, 57, 59(a), 60(2), 63, 64, 66-68 & 71-75 | 43 of 2000 (as amended by 65 of 2003 s. 106, 42 of 2004 s. 174 and 11 of 2016 s. 304) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Arts and Culture Trust Act 2021 s. 77 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Other notes
 The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 The amendment in s. 75 to the Workplace Agreements Act 1993 will not be included because the Schedule it sought to amend was deleted by the Labour Relations Reform Act 2002 s. 72 prior to commencement.
