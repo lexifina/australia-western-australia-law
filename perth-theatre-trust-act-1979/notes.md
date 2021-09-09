@@ -27,6 +27,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation(Transitional and Consequential Provisions) Act 2000 s. 57 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Arts and Culture Trust Act 2021 s. 73(1) | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Other notes
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to “chief executive officer”. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. This reference was changed under the Reprints Act 1984 s. 7(3)(g).
