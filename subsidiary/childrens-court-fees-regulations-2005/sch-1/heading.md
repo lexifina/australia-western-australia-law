@@ -44,8 +44,8 @@ Item | Matter | Column A Fee for individual $ | Column B Fee for eligible indivi
  | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until the person is conveyed to a court or a custodial place | 46.20 | 46.20
  | Notes for this item: 1.The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
  | 2.The fee under paragraph (a) includes the costs of — (a)receiving and printing the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
-3. | On filing an application for an extraordinary licence under the Road Traffic (Authorisation to Drive) Act 2008 section 27 | 263.00 | 79.00
-[Division 2 inserted: SL 2021/101 r. 6.]
+3. | On filing an application for an extraordinary licence under the Road Traffic (Authorisation to Drive) Act 2008 section 27 | 255.00 | 76.50
+[Division 2 inserted: SL 2021/101 r. 6; amended: SL 2021/155 r. 4.]
 ## Division 3 — Criminal Jurisdiction
 [Heading inserted: SL 2021/101 r. 6.]
 Item | Matter | Column A Fee for individual $ | Column B Fee for eligible individual $

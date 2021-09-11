@@ -3,7 +3,7 @@
 [Heading inserted: SL 2021/101 r. 12.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
 1. | On filing any originating process by which a cause, matter or other proceeding in the Court is commenced, other than proceedings of the kind referred to in item 2, 3, 4, 5 or 9 | 1 094.00 | 2 132.00 | 100.00
-2. | On filing an application for an extraordinary licence under the Road Traffic (Authorisation to Drive) Act 2008 section 27 | 263.00 | N/A | 79.00
+2. | On filing an application for an extraordinary licence under the Road Traffic (Authorisation to Drive) Act 2008 section 27 | 255.00 | N/A | 76.50
 3. | On filing an application for an order made under the Spent Convictions Act 1988 section 6(1) | 159.50 | N/A | 47.90
 4. | On filing —
  | (a)a counterclaim | 1 094.00 | 2 132.00 | 100.00
@@ -66,4 +66,4 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (b)For the provision of a copy of a transcript, or part of a transcript, where the transcript or part has already been provided to the person requesting the copy —
  | (i)electronic format | 26.70 per copy | 26.70 per copy | 8.00 per copy
  | (ii)paper copy | 2.65 per page | 2.65 per page | 0.80 per page
-[Schedule 1 inserted: SL 2021/101 r. 12.]
+[Schedule 1 inserted: SL 2021/101 r. 12; amended: SL 2021/155 r. 6.]
