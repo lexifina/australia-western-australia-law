@@ -149,6 +149,7 @@ Navigable Waters Amendment Regulations 2018 | 14 Sep 2018 p. 3315-16 | r. 1 and 
 Transport Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 17 May 2019 p. 1437-42 | 1 Jul 2019 (r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020/60 22 May 2020 | 1 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
+Navigable Waters Amendment Regulations 2021 | SL 2021/161 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2021 (see r. 2(b))
 Other notes
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
