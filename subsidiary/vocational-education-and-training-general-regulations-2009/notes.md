@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Vocational Education and Training (General) Regulations 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Vocational Education and Training (General) Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Vocational Education and Training (General) Regulations 2009 | 22 May 2009 p. 1731-97 | r. 1 and 2: 22 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b) and No. 44 of 2008 s. 2(2))
 Vocational Education and Training (General) Amendment Regulations 2011 | 25 Oct 2011 p. 4508-11 | r. 1 and 2: 25 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Oct 2011 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations (No. 2) 2011 | 25 Oct 2011 p. 4511-12 | r. 1 and 2: 25 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
@@ -17,6 +17,8 @@ Vocational Education and Training (General) Amendment Regulations (No. 2) 2015 |
 Vocational Education and Training (General) Amendment Regulations 2016 | 27 Jan 2016 p. 222-4 | r. 1 and 2: 27 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jan 2016 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2017 | 29 Dec 2017 p. 6080-3 | r. 1 and 2: 29 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2018 (see r. 2(b))
 Reprint 2: The Vocational Education and Training (General) Regulations 2009 as at 16 Nov 2018 (includes amendments listed above)
+Vocational Education and Training (General) Amendment Regulations 2021 | SL 2021/156 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2021 (see r. 2(b))
+Other notes
 Repealed by the Vocational Education and Training (Commonwealth Powers) Act 2010 Sch. 1 (NSW).
 Repealed by the Training and Skills Development Act 2016 (NT).
 Repealed by the Further Education and Training Act 2014 (Qld).
@@ -74,4 +76,3 @@ WA3
 WA accredited course7(1)
 WA registered provider7(1)
 working day3
-By Authority: KEVIN J. McRAE, Government Printer
