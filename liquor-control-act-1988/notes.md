@@ -54,7 +54,7 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Reprint 8: The Liquor Control Act 1988 as at 4 Mar 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
  | Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 3 Div. 17 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 20 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-Liquor Control Amendment Act 2018 (other than s. 36, 53, 62(1) and (3)) | 9 of 2018 | 13 Jul 2018 | s. 1 and 2: 13 Jul 2018 (see s. 2(a)); s. 3, 4, 6, 7, 9, 11, 13-16, 19, 23, 24, 27-31, 33, 34, 37, 40-44, 47-52, 54, 55, 57-59, 61 and 64-70: 18 Aug 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2893); s. 5, 8, 10, 12, 20-22, 25, 26, 32, 35, 38, 39, 46, 56, 60, 62(2) and 63: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3779); s. 17, 18 and 45: 2 Nov 2019 (see s. 2(b) and Gazette 1 Nov 2019 p. 3857)
+Liquor Control Amendment Act 2018 (other than s. 36) | 9 of 2018 | 13 Jul 2018 | s. 1 and 2: 13 Jul 2018 (see s. 2(a)); s. 3, 4, 6, 7, 9, 11, 13-16, 19, 23, 24, 27-31, 33, 34, 37, 40-44, 47-52, 54, 55, 57-59, 61 and 64-70: 18 Aug 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2893); s. 5, 8, 10, 12, 20-22, 25, 26, 32, 35, 38, 39, 46, 56, 60, 62(2) and 63: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3779); s. 17, 18 and 45: 2 Nov 2019 (see s. 2(b) and Gazette 1 Nov 2019 p. 3857) s. 53 and 62(1) and (3): 18 Sep 2021 (see s. 2(b) and SL 2021/162 cl. 2)
 Heritage Act 2018 s. 185 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
@@ -62,7 +62,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Liquor Control Amendment Act 2018 s. 36, 53, 62(1) and (3) | 9 of 2018 | 13 Jul 2018 | To be proclaimed (see s. 2(b))
+Liquor Control Amendment Act 2018 s. 36 | 9 of 2018 | 13 Jul 2018 | 1 Feb 2022 (see s. 2(b) and SL 2021/198 cl. 2)
 Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
@@ -101,10 +101,10 @@ casino liquor licence3(1)
 cellar door permit3(1), 61A(1)
 chairperson3(1)
 Chief Health Officer3(1)
-club49(1), Sch. 2 cl. 1, Sch. 2 cl. 1
+club49(1), Sch. 2 cl. 1
 club licence3(1)
 club restricted licence3(1)
-commencement daySch. 1A cl. 1, Sch. 1B cl. 1, Sch. 1C cl. 2(1), Sch. 1C cl. 3(1)
+commencement daySch. 1A cl. 1, Sch. 1B cl. 1, Sch. 1C cl. 2(1) and 3(1)
 Commission3(1)
 Commissioner of Police3(1)
 Committee of ManagementSch. 2 cl. 1
@@ -124,6 +124,7 @@ director3(1)
 Director3(1)
 Director of Liquor Licensing3(1)
 disqualified3(1)
+driver109A(1)
 drunk3(1), 3A(1)
 employed152A
 employee3(7), 95(1A), 165(4)
@@ -190,7 +191,8 @@ petrol station36A(1), 65A(1)
 premises3(1)
 prescribed3(1)
 prescribed area36B(1), 77A(1)
-prescribed distance 36B(1), 77A(1)
+prescribed distance 36B(1)
+prescribed distance77A(1)
 producer129
 producer’s licence3(1)
 prohibition order152A
@@ -220,6 +222,7 @@ retail section36B(1), 77A(1)
 sample3(1)
 Secretary3(1)
 secure webpage115AC(1A)
+seizable quantity155(5C)
 sell3(1)
 seller109(4A)
 serious and organised crime152A
@@ -246,7 +249,7 @@ transitional regulationsSch. 1A cl. 10(1)
 transitioned approvalSch. 1B cl. 3(1)
 Tribunal25A(1)
 trustee3(1)
-vehicle3(1)
+vehicle3(1), 109A(1)
 visitor48(2B)
 wholesaler129
 wholesaler’s licence3(1)
