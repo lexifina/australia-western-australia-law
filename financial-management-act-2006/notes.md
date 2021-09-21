@@ -40,11 +40,11 @@ Financial Management (Statutory Authorities) Regulations 2017 published in Gazet
 Reprint 4: The Financial Management Act 2006 as at 6 Oct 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 315)
 Infrastructure Western Australia Act 2019 s. 75 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
 Procurement Act 2020 Pt. 10 Div. 3 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
+Financial Legislation Amendment Act 2021 Pt. 2 | 12 of 2021 | 24 Aug 2021 | 21 Sep 2021 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 149 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Financial Legislation Amendment Act 2021 Pt. 2 | 12 of 2021 | 24 Aug 2021 | 21 Sep 2021 (see s. 2(b))
 Arts and Culture Trust Act 2021 s. 75 | 15 of 2021 | 9 Sep 2021 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
@@ -58,18 +58,24 @@ accounts3
 affiliated body60(1)
 agency3
 agency special purpose account3
-annual estimates40(1)
+annual estimates3
 Appropriation Act3
 Australian Accounting Standards Board62(3)
 authorised person51(1)
 bank3
+commencement day27A(1)
 Consolidated Account3
 current year24(1)
 delegate77(3)
 department3
 determination23(1)
+draft annual estimates3, 40(1)
+draft resource agreement3, 42(1)
+election year24(1A)
 estimates3
+expense limit3, 42(2)
 final report66
+former section 2727A(1)
 general purpose25(1)
 investment38(1)
 Joint Standing Committee on Audit3
@@ -100,6 +106,7 @@ relevant accountable authority36(1)
 relevant amounts48(1)
 relevant authority47
 relevant commitment26(1)
+relevant payment27A(1)
 relevant person36(1)
 relevant service21(3)
 reporting officer66
@@ -110,6 +117,7 @@ specified60(3)
 statutory authority3
 statutory authority money3
 sub-department3
+submission date3
 subsidiary body60(1)
 Treasurer3
 Treasurer’s instructions3
