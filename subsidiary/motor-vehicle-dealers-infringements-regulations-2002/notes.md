@@ -10,3 +10,4 @@ Citation | Published | Commencement
  | Motor Vehicle Dealers (Infringements) Amendment Regulations 2014 | 18 Nov 2014 p. 4319 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
  | Reprint 1: The Motor Vehicle Dealers (Infringements) Regulations 2002 as at 23 Jan 2015 (includes amendments listed above)
  | Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 20 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+ | Commerce Regulations Amendment (Motor Vehicle Dealers and Repairers) Regulations 2021 Pt. 2 | SL 2021/164 24 Sep 2021 | 25 Sep 2021 (see r. 2(c))

@@ -26,13 +26,13 @@ TERMS AND CONDITIONS
 8.DEALER’S RESPONSIBILITY
 8.1The Dealer will not be liable for any loss or damage which may occur to the Vehicle while on Consignment except for:
 (a)any theft, loss or damage which may arise out of any negligent act or omission on the part of the Dealer or any person acting on behalf of the Dealer; or
-(b)any breach of the Fair Trading Act 2010 or Trade Practices Act 1974, the liability and remedies for which cannot be excluded by agreement.
+(b)any breach of the Fair Trading Act 2010 or Competition and Consumer Act 2010 (Cwlth), the liability and remedies for which cannot be excluded by agreement.
 9.WARRANTY CLAIMS
-9.1The Dealer will be responsible to pay for warranty claims which arise about the quality or fitness of the Vehicle in accordance with the Dealer’s statutory responsibility under the Motor Vehicle Dealers Act 1973, Fair Trading Act 2010 or the Trade Practices Act 1974.
+9.1The Dealer will be responsible to pay for warranty claims which arise about the quality or fitness of the Vehicle in accordance with the Dealer’s statutory responsibility under the Motor Vehicle Dealers Act 1973, Fair Trading Act 2010 or the Competition and Consumer Act 2010 (Cwlth).
 9.2The Dealer can not claim from the Owner any costs arising for such repairs, either directly, or by way of deduction from the Total Net Proceeds retained in a Trust Account.
 10.OWNERSHIP AND ENCUMBERANCES
-10.1The Owner declares that the Owner has the right to sell the Vehicle. The Owner will provide the Dealer with a certificate from the Register of Encumbered Vehicles within two (2) business days after signing this Contract.
-10.2If a registered security interest is recorded pursuant to the Chattel Securities Act 1987 on the Vehicle, the interest must be discharged prior to the Sale of the Vehicle.
+10.1The Owner declares that the Owner has the right to sell the Vehicle. The Owner will provide the Dealer with a certificate from the Personal Property Securities Register within two (2) business days after signing this Contract.
+10.2If a registered security interest is recorded pursuant to the Personal Property Securities Act 2009 (Cwlth) on the Vehicle, the interest must be discharged prior to the Sale of the Vehicle.
 10.3The Owner will give the Dealer all licence and registration documents, owner’s manual and service records (if any) relating to the Vehicle within two (2) days after signing this Contract.
 11.ENDING THE AGREEMENT
 11.1This Contract can be terminated by either the Dealer or the Owner by giving twenty-four (24) hours Written Notice to the other at any time prior to the sale of the Vehicle.
@@ -44,4 +44,4 @@ TERMS AND CONDITIONS
 13.NOTICE
 13.1Any Notice required by this Contract may be given by direct communication, telephone, electronically, fax or post to the addresses and numbers included in this Contract.
 13.2If sent by post, a Notice will be considered to have been received, unless the contrary is shown, at the time when the Notice would have been delivered in the ordinary course of the post.
-[Schedule 4, formerly Fourth Schedule, inserted: Gazette 13 Aug 2002 p. 4167-9; amended: Gazette 30 Jun 2011 p. 2660.]
+[Schedule 4, formerly Fourth Schedule, inserted: Gazette 13 Aug 2002 p. 4167-9; amended: Gazette 30 Jun 2011 p. 2660; SL 2021/164 r. 21.]

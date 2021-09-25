@@ -55,6 +55,7 @@ Commerce and Industrial Relations Regulations Amendment (Fees and Charges) Regul
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 13 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 13 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 15 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Commerce Regulations Amendment (Motor Vehicle Dealers and Repairers) Regulations 2021 Pt. 3 | SL 2021/164 24 Sep 2021 | 25 Sep 2021 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
