@@ -78,128 +78,128 @@ Fee | $
 (ii)the majority of the marron are sold to persons who hold an aquaculture licence or a fish processor’s licence; and (iii)no more than 100 kg of marron in total is sold to persons who do not hold an aquaculture licence or a fish processor’s licence during the period for which the licence remains in force | No fee
 3.Managed fishery licence fees
 (1)Abalone Managed Fishery, the sum obtained by multiplying the total kg of entitlement conferred by the licence (but excluding any entitlement transferred to or from the licence under section 141 of the Act) by the fee for each kg, as follows —
-(a)for greenlip abalone, per kg | 10.60
-(b)for brownlip abalone, per kg | 10.60
-(c)for Roe’s abalone, per kg | 1.07
-(2)Abrolhos Islands and Mid West Trawl Managed Fishery, per licence | 32 085.70
-(3)Broome Prawn Managed Fishery, per licence | 5.48
-(4)Cockburn Sound (Crab) Managed Fishery, per pot | 3.19
-(5)Cockburn Sound (Fish Net) Managed Fishery, per licence | 4 367.53
+(a)for greenlip abalone, per kg | 6.56
+(b)for brownlip abalone, per kg | 6.56
+(c)for Roe’s abalone, per kg | 1.14
+(2)Abrolhos Islands and Mid West Trawl Managed Fishery, per licence | 34 993.96
+(3)Broome Prawn Managed Fishery, per licence | 0.29
+(4)Cockburn Sound (Crab) Managed Fishery, per pot | 0.00
+(5)Cockburn Sound (Fish Net) Managed Fishery, per licence | 3 256.59
 (6)Cockburn Sound (Line and Pot) Managed Fishery —
-(a)per licence | 69.81
-(b)per unit of entitlement conferred by the licence | 1.60
+(a)per licence | 112.55
+(b)per unit of entitlement conferred by the licence | 1.92
 (7)Cockburn Sound (Mussel) Managed Fishery, per licence | 122.00
-(8)Exmouth Gulf Prawn Managed Fishery, per licence | 44 697.00
+(8)Exmouth Gulf Prawn Managed Fishery, per licence | 38 728.44
 (9)Gascoyne Demersal Scalefish Managed Fishery —
-(a)per class A unit of entitlement | 11.86
-(b)per class B unit of entitlement | 9.16
-(10)Kimberley Crab Managed Fishery, per unit of entitlement conferred by the licence | 8.40
-(11)Kimberley Gillnet and Barramundi Managed Fishery, per licence | 9 139.64
+(a)per class A unit of entitlement | 5.40
+(b)per class B unit of entitlement | 10.89
+(10)Kimberley Crab Managed Fishery, per unit of entitlement conferred by the licence | 7.31
+(11)Kimberley Gillnet and Barramundi Managed Fishery, per licence | 9 659.82
 (12)Kimberley Prawn Managed Fishery —
-(a)per Class 1 licence | 1 503.95
-(b)per Class 2 licence | 1 503.95
+(a)per Class 1 licence | 1 377.52
+(b)per Class 2 licence | 1 377.52
 (c)per Class 3 licence | 0.00
 (13)Mackerel Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
-(a)per class 1A unit of entitlement | 22.66
-(b)per class 1B unit of entitlement | 0.03
-(c)per class 2A unit of entitlement | 12.67
-(d)per class 2B unit of entitlement | 2.23
-(e)per class 3A unit of entitlement | 6.67
-(f)per class 3B unit of entitlement | 2.13
+(a)per class 1A unit of entitlement | 23.82
+(b)per class 1B unit of entitlement | 0.05
+(c)per class 2A unit of entitlement | 13.97
+(d)per class 2B unit of entitlement | 2.36
+(e)per class 3A unit of entitlement | 5.85
+(f)per class 3B unit of entitlement | 2.37
 (14)Marine Aquarium Fish Managed Fishery —
 (a)per licence | 1 509.00
 (b)per class C unit of entitlement | 0.29
 (c)per class G unit of entitlement | 0.07
 (d)per class L unit of entitlement | 0.03
 (e)per class S unit of entitlement | 0.13
-(15)Nickol Bay Prawn Managed Fishery, per licence | 6 006.77
-(16)Northern Demersal Scalefish Fishery —
-(a)per Area 1 licence | 52.55
-(b)for an Area 2 licence, per unit of entitlement, in zone A | 44.61
-(c)for an Area 2 licence, per unit of entitlement, in zone B | 256.39
-(d)for an Area 2 licence, per unit of entitlement, in zone C | 2.45
+(15)Nickol Bay Prawn Managed Fishery, per licence | 8 922.90
+(16)Northern Demersal Scalefish Managed Fishery —
+(a)per Area 1 licence | 50.20
+(b)for an Area 2 licence, per zone A unit of entitlement | 51.83
+(c)for an Area 2 licence, per zone B unit of entitlement | 305.56
+(d)for an Area 2 licence, per zone C unit of entitlement | 0.51
 (17)Octopus Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
-(a)per class 1 unit of entitlement | 0.77
-(b)per class 2 unit of entitlement | 2.99
-(c)per class 3 unit of entitlement | 0.19
+(a)per class 1 unit of entitlement | 2.10
+(b)per class 2 unit of entitlement | 3.72
+(c)per class 3 unit of entitlement | 0.51
 (18)Onslow Prawn Managed Fishery —
-(a)per class A licence | 579.45
-(b)per class B licence | 9.91
-(c)per class C licence | 9.91
-(d)per class D licence | 9.91
-(19)Pilbara Crab Managed Fishery, per unit of entitlement conferred by the licence | 11.20
-(20)Pilbara Fish Trawl Managed Fishery, per fish trawl unit of entitlement conferred by the licence | 16.41
-(21)Pilbara Trap Managed Fishery, per trap unit of entitlement conferred by the licence | 37.14
-(22)Shark Bay Beach Seine and Mesh Net Managed Fishery, per licence | 4 429.77
-(23)Shark Bay Crab Managed Fishery, per unit of entitlement conferred by the licence | 3.38
-(24)Shark Bay Prawn Managed Fishery, per unit of entitlement conferred by the licence | 1 009.58
+(a)per class A licence | 512.10
+(b)per class B licence | 8.75
+(c)per class C licence | 8.75
+(d)per class D licence | 8.75
+(19)Pilbara Crab Managed Fishery, per unit of entitlement conferred by the licence | 6.69
+(20)Pilbara Fish Trawl Managed Fishery, per fish trawl unit of entitlement conferred by the licence | 21.11
+(21)Pilbara Trap Managed Fishery, per trap unit of entitlement conferred by the licence | 43.50
+(22)Shark Bay Beach Seine and Mesh Net Managed Fishery, per licence | 4 006.05
+(23)Shark Bay Crab Managed Fishery, per unit of entitlement conferred by the licence | 5.01
+(24)Shark Bay Prawn Managed Fishery, per unit of entitlement conferred by the licence | 731.96
 (25)Shark Bay Scallop Managed Fishery —
-(a)per class A licence | 31 076.66
-(b)per class B licence | 8 139.13
+(a)per class A licence | 24 567.85
+(b)per class B licence | 6 434.44
 (26)South Coast Crustacean Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
-(a)per zone 1 unit of entitlement | 502.61
-(b)per zone 2 unit of entitlement | 79.62
-(c)per zone 3 unit of entitlement | 183.26
-(d)per zone 4 unit of entitlement | 79.62
-(27)South Coast Estuarine Managed Fishery, per licence | 2 691.22
+(a)per zone 1 unit of entitlement | 431.49
+(b)per zone 2 unit of entitlement | 73.10
+(c)per zone 3 unit of entitlement | 161.65
+(d)per zone 4 unit of entitlement | 77.75
+(27)South Coast Estuarine Managed Fishery, per licence | 2 506.00
 (28)South Coast Purse Seine Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
-(a)per zone 1 unit of entitlement | 152.13
-(b)per zone 2 unit of entitlement | 0.01
-(c)per zone 3 unit of entitlement | 96.34
-(d)per zone 4 unit of entitlement | 147.95
-(29)South Coast Salmon Managed Fishery, per licence | 90.21
+(a)per zone 1 unit of entitlement | 124.99
+(b)per zone 2 unit of entitlement | 0.24
+(c)per zone 3 unit of entitlement | 104.47
+(d)per zone 4 unit of entitlement | 146.40
+(29)South Coast Salmon Managed Fishery, per licence | 197.95
 (30)Southern Demersal Gillnet and Demersal Longline Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
-(a)per zone 1 unit of entitlement | 4.05
-(b)per zone 2 unit of entitlement | 11.97
-(c)per zone 3 unit of entitlement | 4.05
-(31)South West Coast Salmon Managed Fishery, per licence | 891.27
+(a)per zone 1 unit of entitlement | 5.63
+(b)per zone 2 unit of entitlement | 10.70
+(c)per zone 3 unit of entitlement | 5.63
+(31)South West Coast Salmon Managed Fishery, per licence | 903.40
 (32)South West Trawl Managed Fishery —
-(a)per zone A licence | 1 021.49
+(a)per zone A licence | 1 527.53
 (b)per zone B licence | 10.00
 (33)Specimen Shell Managed Fishery, per licence | 1 030.00
-(34)Warnbro Sound (Crab) Managed Fishery, per licence | 3 215.82
-(35)West Coast (Beach Bait Fish Net) Managed Fishery, per licence | 301.62
+(34)Warnbro Sound (Crab) Managed Fishery, per licence | 1 090.24
+(35)West Coast (Beach Bait Fish Net) Managed Fishery, per licence | 260.40
 (36)West Coast Deep Sea Crustacean Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
-(a)per class A unit of entitlement | 46.09
-(b)per class B unit of entitlement | 1.57
-(c)per class C unit of entitlement | 0.00
-(37)West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery, per unit of entitlement conferred by the licence | 2.20
+(a)per class A unit of entitlement | 55.47
+(b)per class B unit of entitlement | 2.52
+(c)per class C unit of entitlement | 6.45
+(37)West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery, per unit of entitlement conferred by the licence | 1.54
 (38)West Coast Demersal Scalefish Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
-(a)for the Kalbarri Area, per unit of entitlement | 4.30
-(b)for the Mid-West Area, per unit of entitlement | 1.97
-(c)for the South-West Area, per unit of entitlement | 4.40
+(a)for the Kalbarri Area, per unit of entitlement | 4.22
+(b)for the Mid-West Area, per unit of entitlement | 2.24
+(c)for the South-West Area, per unit of entitlement | 5.40
 (39)West Coast Estuarine Managed Fishery —
-(a)per Area 1 licence | 1 084.95
-(b)per Area 2 licence | 4 023.14
-(c)per Area 3 licence | 2 883.45
-(40)West Coast Purse Seine Managed Fishery, per licence | 1 588.69
+(a)per Area 1 licence | 3 920.71
+(b)per Area 2 licence | 4 405.52
+(c)per Area 3 licence | 2 482.95
+(40)West Coast Purse Seine Managed Fishery, per licence | 1 112.72
 (41)West Coast Rock Lobster Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
 (a)per zone A unit of entitlement | 23.05
 (b)per zone B unit of entitlement | 32.83
 (c)per zone C unit of entitlement | 33.15
- | [4.deleted]
- | 5.Fishing tour operator’s licence (r. 128J(1)) —
- | (a)if the nominated maximum number of passengers participating in a fishing tour conducted under the licence is —
- | (i)5 passengers or fewer | 1 200.00
- | (ii)between 6 and 10 passengers | 1 700.00
- | (iii)between 11 and 15 passengers | 2 200.00
- | (iv)between 16 and 20 passengers | 2 700.00
- | (v)between 21 and 25 passengers | 3 200.00
- | (vi)26 passengers or more | 3 700.00
- | (b)in addition to the fee determined under item 5(a), if the licence authorises the conduct of a fishing tour in more than one zone, for each additional zone | 700.00
- | (c)in addition to the fee determined under item 5(a), if the licence is varied to increase the aggregate maximum surveyed passenger carrying capacity of all of the boats that may be used to conduct a fishing tour under the licence | The amount that is the difference between the fee for the licence before the variation and the fee determined under item 5(a) for the licence as varied
- | 6A.Restricted fishing tour operator’s licence (r. 128J(2)) —
- | (a)for all restricted fishing tour operator’s licences | 500.00
- | (b)in addition to the fee specified in item 6A(a), if the licence authorises the conduct of a fishing tour in more than one zone, for each additional zone | 500.00
- | 6.Fishing boat licence Types of boat —
- | (1)a boat 6.5 m or longer | 315.00
- | (2)a boat shorter than 6.5 m | 85.00
- | [7.deleted]
- | 8.Recreational fishing licence (r. 124) —
- | (a)fishing for rock lobster | 50.00
- | (b)fishing for marron | 50.00
- | (c)fishing for abalone | 50.00
- | (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 50.00
- | (e)fishing by means of a fishing net | 50.00
- | 9.Recreational (boat) fishing licence (r. 124C) | 40.00
-[Part 3 inserted: Gazette 9 Jun 2009 p. 1915-20; amended: Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200; 4 Nov 2014 p. 4203; 30 Jun 2015 p. 2332; 30 Sep 2015 p. 3919-23; 8 Jan 2016 p. 22; 4 Oct 2016 p. 4237; 7 Oct 2016 p. 4376-9; 7 Jul 2017 p. 3697; 1 Sep 2017 p. 4652-5; 26 Jun 2018 p. 2380-2; 4 Oct 2019 p. 3541-7.]
+[4.deleted]
+5.Fishing tour operator’s licence (r. 128J(1)) —
+(a)if the nominated maximum number of passengers participating in a fishing tour conducted under the licence is —
+(i)5 passengers or fewer | 1 200.00
+(ii)between 6 and 10 passengers | 1 700.00
+(iii)between 11 and 15 passengers | 2 200.00
+(iv)between 16 and 20 passengers | 2 700.00
+(v)between 21 and 25 passengers | 3 200.00
+(vi)26 passengers or more | 3 700.00
+(b)in addition to the fee determined under item 5(a), if the licence authorises the conduct of a fishing tour in more than one zone, for each additional zone | 700.00
+(c)in addition to the fee determined under item 5(a), if the licence is varied to increase the aggregate maximum surveyed passenger carrying capacity of all of the boats that may be used to conduct a fishing tour under the licence | The amount that is the difference between the fee for the licence before the variation and the fee determined under item 5(a) for the licence as varied
+6A.Restricted fishing tour operator’s licence (r. 128J(2)) —
+(a)for all restricted fishing tour operator’s licences | 500.00
+(b)in addition to the fee specified in item 6A(a), if the licence authorises the conduct of a fishing tour in more than one zone, for each additional zone | 500.00
+6.Fishing boat licence Types of boat —
+(1)a boat 6.5 m or longer | 315.00
+(2)a boat shorter than 6.5 m | 85.00
+[7.deleted]
+8.Recreational fishing licence (r. 124) —
+(a)fishing for rock lobster | 50.00
+(b)fishing for marron | 50.00
+(c)fishing for abalone | 50.00
+(d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 50.00
+(e)fishing by means of a fishing net | 50.00
+9.Recreational (boat) fishing licence (r. 124C) | 40.00
+[Part 3 inserted: Gazette 9 Jun 2009 p. 1915-20; amended: Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200; 4 Nov 2014 p. 4203; 30 Jun 2015 p. 2332; 30 Sep 2015 p. 3919-23; 8 Jan 2016 p. 22; 4 Oct 2016 p. 4237; 7 Oct 2016 p. 4376-9; 7 Jul 2017 p. 3697; 1 Sep 2017 p. 4652-5; 26 Jun 2018 p. 2380-2; 4 Oct 2019 p. 3541-7; SL 2021/166 r. 4.]
