@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mooring Regulations 1998 | 11 Dec 1998 p. 6659-78 | 11 Dec 1998
@@ -30,30 +30,65 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 3 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/60 22 May 2020 | 1 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Mooring Management) Regulations 2021 Pt. 2 | SL 2021/147 13 Aug 2021 | 28 Sep 2021 (see r. 2(b))
 Other notes
-Footnote no longer applicable.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Act2
 additional vessel2
+amending regulations33
+applicant7J(1)
 approved2
+authorisation7E(1)
+body corporate licensee21(2A)
+CEO2
 certificate of registration2
-Director General2
+commencement day33
+commercial general mooring site2
+commercial resources mooring site2
+courtesy mooring site2
+current mooring licence33
+current registration period33
+damage7J(4)
+Division 2 mooring control area7(1)
+emergency mooring site2
+excluded area33
+identification sticker6(4)
+inspector31(1)
 length2
 licensed vessel2
+maximum vessel length2
+MCA Regulations33
 mooring2
 mooring control area2
+mooring inspection report20(1)
+mooring inspector20(1)
 mooring licence2
 mooring licensee2
-overall length2
+mooring site2, 7(1)
+new regulations33
+next anniversary33
+nominated29(1)
+old regulations33
+owner28(1A), 29(1)
+permissible vessel length7A
+pleasure vessel2
 previous licensee21(1)
+recreational mooring site2
 register2
-registered mooring site2
-tender6(4)
+registered mooring site2, 33
+registered owner33
+registration period33
+relevant mooring site9(2)
+rental mooring site2
+rental period7F(1), 7J(1)
+shared-use mooring7D(1)
+shared-use recreational mooring site2
+sold vessel7C(7)
+specified mooring site7F(1)
+substituted vessel7C(8)
+tender2
 waiting list2

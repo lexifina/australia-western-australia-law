@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Shipping and Pilotage (Mooring Control Areas) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Shipping and Pilotage (Mooring Control Areas) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Shipping and Pilotage (Mooring Control Areas) Regulations 1983 | 28 Nov 1983 p. 4709-14 | 28 Nov 1983 (see r. 2 and Gazette 28 Nov 1983 p. 4707)
@@ -9,9 +9,6 @@ Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 1998 | 11 De
 Reprint 1: The Shipping and Pilotage (Mooring Control Areas) Regulations 1983 as at 8 Aug 2003 (includes amendments listed above)
 Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 2011 | 11 Feb 2011 p. 482-3 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
 Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 2012 | 14 Feb 2012 p. 669-70 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Mooring Management) Regulations 2021 Pt. 3 | SL 2021/147 13 Aug 2021 | 28 Sep 2021 (see r. 2(b))
 Other notes
 Repealed by the Interpretation Act 1984.
