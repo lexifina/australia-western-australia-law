@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Disability Services Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Disability Services Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Disability Services Regulations 2004 | 14 Dec 2004 p. 6002-6 | 15 Dec 2004 (see r. 2 and Gazette 14 Dec 2004 p. 5999)
@@ -16,11 +16,7 @@ Disability Services Amendment Regulations (No. 4) 2016 | 30 Dec 2016 p. 5970-2 |
 Reprint 2: The Disability Services Regulations 2004 as at 10 Feb 2017 (includes amendments listed above)
 Disability Services Amendment Regulations 2017 | 16 Jun 2017 p. 2931-3 | r. 1 and 2: 16 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Disability Services Amendment Regulations (No. 2) 2017 | 30 Jun 2017 p. 3559-60 | r. 1 and 2: 30 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
-Disability Services Amendment Regulations 2021 (other than r. 5 and 6) | SL 2021/165 24 Sep 2021 | r. 1 and 2: 24 Sep 2021 (see r. 2(a)); Regulations other than r. 1, 2, 5 and 6: 25 Sep 2021 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Disability Services Amendment Regulations 2021 r. 5 and 6 | SL 2021/165 24 Sep 2021 | 1 Oct 2021 (see r. 2(b))
+Disability Services Amendment Regulations 2021 | SL 2021/165 24 Sep 2021 | r. 1 and 2: 24 Sep 2021 (see r. 2(a)); Regulations other than r. 1, 2, 5 and 6: 25 Sep 2021 (see r. 2(c)); r. 5 and 6: 1 Oct 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

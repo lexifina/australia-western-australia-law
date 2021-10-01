@@ -8,3 +8,4 @@
 6.People with disability have the same opportunities as other people to participate in any public consultation by a public authority.
 7.People with disability have the same opportunities as other people to obtain and maintain employment with a public authority.
 [Schedule 3 amended: Gazette 11 Jun 2013 p. 2164-5.]
+[Schedule 4 deleted: SL 2021/165 r. 6.]
