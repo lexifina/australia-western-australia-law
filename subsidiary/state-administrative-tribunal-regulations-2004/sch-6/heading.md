@@ -9,7 +9,7 @@ Community Titles Act 2018 s. 40(2), 42(2), 48(1)(b) or (3)(a), (b), (c) or (d), 
 Credit Act 1984 s. 21(2), 24(1) or (11), 28, 32(1) or (2), 37(8), 47(1), 62(3), 74(5), 76(3), 81(1)(d), 85(1), 85A(1), 85B(3), 86(1), 86A(1), 93(3), 95(1), 97, 102(4), 104(3), 106(2)(b) or (3), 107(8), 110(1), 111(1), 112(1)(a), 114(2)(b) or (7), 115(1) or (6), 116(7), 118, 139(4) or (6), 146(1) or 152
 Dog Act 1976 s. 16A(3), 17(1), 26(5), 27(7), 33F(6)(a) or (b), 33G(4)(a) or (b), 33H(5)(a) or (b), 33I(1)(a), (b), (c) or (d) or 40(4)
 Dog Regulations 2013 r. 13
-Fair Trading (Retirement Villages Interim Code) Regulations 2021 Sch. 1 cl. 22(3)
+Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2021 Sch. 1 cl. 22(3)
 First Home Owner Grant Act 2000 s. 31(1)
 Pawnbrokers and Second-hand Dealers Act 1994 s. 68, 73(2) or 93(1)
 Public Health Act 2016 s. 109(1) or (2), 127(1), 141C(3), 163(2), 194(2), 207 or 265
@@ -20,4 +20,4 @@ Road Traffic (Administration) Regulations 2014 r. 32(1) or 33(2)
 Security and Related Activities (Control) Act 1996 s. 67(1), 67A(4) or 72(1)
 Strata Titles Act 1985 s. 35(2), 38(3) or (5), 42(7), 47(1)(b) or (3)(a), (b), (c) or (d), 54(1), 85(1), 90(1), 97(3), 99(2), 115(5), 140(3), 174(2)(c), 178(2)(b), 197(4), 198(1) or 207(1) or Sch. 2A cl. 4(2)(a) or (b) or 53E(4)(b)
 Working with Children (Criminal Record Checking) Act 2004 s. 26(2)
-[Schedule 6 inserted: Gazette 26 Jun 2007 p. 2993-4; amended: Gazette 13 Jun 2008 p. 2523; 27 Jun 2008 p. 3067; 6 Aug 2013 p. 3655; 8 Apr 2014 p. 921; 10 Feb 2015 p. 623; 30 Dec 2016 p. 5966; 13 Jan 2017 p. 351-2; 26 Jun 2018 p. 2383; 28 Sep 2018 p. 3579; 22 Mar 2019 p. 937; 27 Sep 2019 p. 3499; 24 Dec 2019 p. 4431; SL 2020/23 r. 4; 31 Dec 2019 p. 4659; SL 2020/158 r. 4; SL 2021/31 r. 4; SL 2021/138 r. 7.]
+[Schedule 6 inserted: Gazette 26 Jun 2007 p. 2993-4; amended: Gazette 13 Jun 2008 p. 2523; 27 Jun 2008 p. 3067; 6 Aug 2013 p. 3655; 8 Apr 2014 p. 921; 10 Feb 2015 p. 623; 30 Dec 2016 p. 5966; 13 Jan 2017 p. 351-2; 26 Jun 2018 p. 2383; 28 Sep 2018 p. 3579; 22 Mar 2019 p. 937; 27 Sep 2019 p. 3499; 24 Dec 2019 p. 4431; SL 2020/23 r. 4; 31 Dec 2019 p. 4659; SL 2020/158 r. 4; SL 2021/31 r. 4; SL 2021/138 r. 7; SL 2021/157 r. 4.]
