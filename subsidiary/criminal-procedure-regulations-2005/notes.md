@@ -49,6 +49,7 @@ Attorney General Regulations Amendment (Shipping and Pilotage) Regulations 2021 
 Attorney General Regulations Amendment (Sunday Entertainments) Regulations 2021 Pt. 2 | SL 2021/136 30 Jul 2021 | 31 Jul 2021 (see r. 2(b))
 Criminal Procedure Amendment Regulations 2021 | SL 2021/149 27 Aug 2021 | r. 1 and 2: 27 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2021 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 2) 2021 | SL 2021/154 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2021 (see r. 2(b))
+Attorney General Regulations Amendment (Residential Parks) Regulations 2021 Pt. 2 | SL 2021/174 8 Oct 2021 | 9 Oct 2021 (see r. 2(b))
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
