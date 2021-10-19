@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Children and Community Services Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Children and Community Services Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987); Sch. 2 cl. 25 deleted by No. 8 of 2009 s. 32(4)
@@ -30,6 +30,10 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 102 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Reprint 5: The Children and Community Services Act 2004 as at 22 Mar 2019 (includes amendments listed above)
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Children and Community Services Amendment Act 2021 s. 3-76 | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(b) and (c))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
