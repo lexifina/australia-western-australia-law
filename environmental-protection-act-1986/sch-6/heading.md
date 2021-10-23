@@ -1,7 +1,7 @@
 ## Schedule 6 — Clearing for which a clearing permit is not required
 [Heading inserted: No. 54 of 2003 s. 104.]
 [s. 51C]
-1.Clearing that is done in order to give effect to a requirement to clear under a written law.
+1.Clearing that is done in order to give effect to a requirement to clear under a prescribed enactment.
 2.Clearing that is done —
 (a) in the implementation of a proposal in accordance with an implementation agreement or decision; or
 (b) in the case of a proposal that —
@@ -19,7 +19,7 @@ in the implementation of the proposal in accordance with a subdivision approval,
 (viii) a licence, permit, approval or exemption granted, issued or given under the regulations;
 or
 (d) in the exercise of any power conferred under this Act.
-3.Clearing by the Department, within the meaning of the Conservation and Land Management Act 1984, in the performance of its function under section 33(1)(a) of that Act of managing land, but, in the case of land referred to in section 33(1)(a)(i), only if the management is carried out in accordance with section 33(3).
+3.Clearing in the performance of functions that the CEO, as defined in the Conservation and Land Management Act 1984 section 3, has under section 33(1)(a) or (aa) of that Act.
 4.Clearing consisting of the taking of flora —
 (a) as authorised by a licence under the Biodiversity Conservation Act 2016; or
 (b) as authorised by an authorisation under the Biodiversity Conservation Act 2016 section 40; or
@@ -50,4 +50,4 @@ of the Bush Fires Act 1954.
 14.Clearing of aquatic vegetation that occurs under the authority of a licence or permit within the meaning of the Fish Resources Management Act 1994.
 15.Clearing that is done by the owner or occupier of land to comply with a notice given under the Local Government Act 1995 section 3.25(1) in respect of something prescribed in Schedule 3.1 Division 1 item 5A, 8 or 9 of that Act.
 16.Clearing that is done by a local government under the Local Government Act 1995 section 3.26 if the person who is given a notice mentioned in item 15 fails to comply with it.
-[Schedule 6 inserted: No. 54 of 2003 s. 116; amended: No. 38 of 2005 s. 15; No. 25 of 2009 s. 20; No. 22 of 2012 s. 123; No. 24 of 2016 s. 314(5); No. 40 of 2020 s. 110(4)-(6).]
+[Schedule 6 inserted: No. 54 of 2003 s. 116; amended: No. 38 of 2005 s. 15; No. 25 of 2009 s. 20; No. 22 of 2012 s. 123; No. 24 of 2016 s. 314(5); No. 40 of 2020 s. 110(1), (3) and (4)-(6).]

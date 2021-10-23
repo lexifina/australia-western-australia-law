@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bush Fires Act 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Bush Fires Act 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bush Fires Act 1954 | 53 of 1954 (3 Eliz. II No. 53) | 23 Dec 1954 | 29 Apr 1955 (see s. 3 and Gazette 29 Apr 1955 p. 749)
@@ -60,10 +60,7 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 17 | 17 of 2014 | 2 Jul 2014
 Bush Fires Amendment Act 2016 | 27 of 2016 | 21 Sep 2016 | s. 1 and 2: 21 Sep 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3552)
 Biodiversity Conservation Act 2016 s. 312 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 2 | 28 of 2016 | 21 Sep 2016 | 16 Sep 2017 (see s. 2(b) and Gazette 15 Sep 2017 p. 4791)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Environmental Protection Amendment Act 2020 s. 114 | 40 of 2020 | 19 Nov 2020 | To be proclaimed (see s. 2(1)(e))
+Environmental Protection Amendment Act 2020 s. 114 | 40 of 2020 | 19 Nov 2020 | 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
 Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).

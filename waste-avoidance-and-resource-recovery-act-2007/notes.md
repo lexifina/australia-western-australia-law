@@ -11,12 +11,11 @@ Reprint 1: The Waste Avoidance and Resource Recovery Act 2007 as at 16 Sep 2016 
 Waste Avoidance and Resource Recovery Amendment (Container Deposit) Act 2019 | 5 of 2019 | 20 Mar 2019 | s. 1 and 2: 20 Mar 2019 (see s. 2(a)); Act other than s. 1 and 2: 19 Apr 2019 (see s. 2(b) and Gazette 18 Apr 2019 p. 1157)
 Waste Avoidance and Resource Recovery Amendment (Container Deposit) Act (No. 2) 2019 | 6 of 2019 | 20 Mar 2019 | s. 1 and 2: 20 Mar 2019 (see s. 2(a)); Act other than s. 1 and 2: 19 Apr 2019 (see s. 2(b) and Gazette 18 Apr 2019 p. 1157)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 4 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
-Environmental Protection Amendment Act 2020 s. 118(1) and (3) | 40 of 2020 | 19 Nov 2020 | 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2)
+Environmental Protection Amendment Act 2020 s. 118 | 40 of 2020 | 19 Nov 2020 | s. 118(1) and (3): 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2); s. 118(2): 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and 3 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Environmental Protection Amendment Act 2020 s. 118(2) | 40 of 2020 | 19 Nov 2020 | To be proclaimed (see s. 2(1)(e))
 Other notes
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund

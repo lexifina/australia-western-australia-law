@@ -82,13 +82,13 @@ Alumina Refinery (Mitchell Plateau) Agreement (Termination) Act 2015 Pt. 3 | 31 
 Mining (Transitional Provisions) (Anomalies Prevention) Order 2016 published in Gazette 22 Jul 2016 p. 3134 | 22 Jul 2016 (see cl. 2)
 Licensing Provisions Amendment Act 2016 Pt. 5 | 44 of 2016 | 1 Dec 2016 | 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1158)
 Reprint 9: The Mining Act 1978 as at 10 Feb 2017 (includes amendments listed above)
+Environmental Protection Amendment Act 2020 s. 116 | 40 of 2020 | 19 Nov 2020 | 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 369 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Environmental Protection Amendment Act 2020 s. 116 | 40 of 2020 | 19 Nov 2020 | To be proclaimed (see s. 2(1)(e))
 Other notes
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
