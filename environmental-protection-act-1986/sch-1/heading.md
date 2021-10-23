@@ -8,8 +8,9 @@
 Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — individual | Daily penalty
 1 | 6(7) | $250 000 | $50 000
-2 | 47(1) or (4) | $125 000 | $25 000
-3 | 48(6) | $162 500 | $32 500
+2 | 47(1) | $125 000 | $25 000
+2A | 47(5) | $500 000 | $100 000
+3 | 48(9) | $162 500 | $32 500
 4 | 49(2) | $500 000 or 5 years imprisonment or both | $100 000
 5 | 49(3) | $250 000 or 3 years imprisonment or both | $50 000
 6 | 49(4) | $125 000 | $25 000
@@ -23,14 +24,15 @@ Item | Section | Penalty — individual | Daily penalty
 10 | 69(5) | $162 500 | $32 500
 11 | 71(5) | $250 000 | $50 000
 12 | 73A(6) | $250 000 | $50 000
-[Division 1 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(1), 66(1) and (2) and 115(1).]
+[Division 1 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(1), 66(1) and (2) and 115(1); No. 40 of 2020 s. 102.]
 ## Division 2 — Bodies corporate
 [Heading inserted: No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — body corporate | Daily penalty
 1 | 6(7) | $500 000 | $100 000
-2 | 47(1) or (4) | $250 000 | $50 000
-3 | 48(6) | $325 000 | $65 000
+2 | 47(1) | $250 000 | $50 000
+2A | 47(5) | $1 000 000 | $200 000
+3 | 48(9) | $325 000 | $65 000
 4 | 49(2) | $1 000 000 | $200 000
 5 | 49(3) | $500 000 | $100 000
 6 | 49(4) | $250 000 | $50 000
@@ -44,7 +46,7 @@ Item | Section | Penalty — body corporate | Daily penalty
 10 | 69(5) | $325 000 | $65 000
 11 | 71(5) | $500 000 | $100 000
 12 | 73A(6) | $500 000 | $100 000
-[Division 2 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(1), 66(3) and (4) and 115(2).]
+[Division 2 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(1), 66(3) and (4) and 115(2); No. 40 of 2020 s. 103.]
 ## Part 2 — Tier 2 offences and penalties
 [Heading inserted: No. 14 of 1988 s. 18.]
 ## Division 1 — Individuals
@@ -109,8 +111,8 @@ Item | Section | Penalty — body corporate | Daily penalty
 [Heading inserted: No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — individual or body corporate | Daily penalty
-1 | 47(3) | $50 000 | Nil
-2 | 51 | $25 000 | $5 000
+1 | 47(4) | $50 000 | Nil
+[2deleted]
 3 | 62A(2) | $25 000 | $5 000
 4 | 67 | $10 000 | Nil
 5 | 72(1) | $50 000 | $10 000
@@ -131,7 +133,7 @@ Item | Section | Penalty — individual or body corporate | Daily penalty
 20 | 96(3) | $10 000 | $2 000
 21 | 112 | $100 000 | Nil
 22 | 120 | $100 000 | Nil
-[Division 3 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 85(6); No. 40 of 2020 s. 106(4)-(6).]
+[Division 3 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 85(6); No. 40 of 2020 s. 106(1), (2) and (4)-(6).]
 ## Part 3 — Tier 3 offences and penalties
 [Heading inserted: No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
