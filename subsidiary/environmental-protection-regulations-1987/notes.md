@@ -80,6 +80,7 @@ Environmental Protection Amendment Regulations (No. 3) 2018 | 16 Oct 2018 p. 409
 Environmental Protection Amendment Regulations (No. 2) 2020 | SL 2020/114 7 Jul 2020 | r. 1 and 2: 7 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Jul 2020 (see r. 2(b))
 Environmental Protection Amendment Regulations 2020 | SL 2020/134 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
 Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Environmental Protection Regulations Amendment (Publication and Confidentiality) Regulations 2021 Pt. 3 | SL 2021/178 22 Oct 2021 | 23 Oct 2021 (see r. 2(c) and SL 2021/176 cl. 2)
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
@@ -91,6 +92,7 @@ The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Aboriginal site3D(1)
 actual discharge5H(2)
 aggregation pointSch. 1
 approved21(1)
@@ -102,11 +104,14 @@ best practice criteria4(1)
 category4(1)
 clean fill premises2AA
 commencement day21(1)
+confidential material3B(1)
+department3D(1)
 development site16A
 development work16A
+documentation3A
 enclosed water body16(4)
-exempt matter2B(1)
 exemption period21(1)
+exempt matter2B(1)
 existing landfill26(8)
 existing licensee21(1)
 existing petroleum authority area2C(1)
@@ -124,19 +129,27 @@ licensee21(1), 24(1), 28(1)
 lot16A
 metropolitan region21(1)
 minute2B(1)
+native species3D(1)
 organotin anti-fouling paint16(4)
 Part 2 waste5D(6)
 payer5N
 petroleum activity2C(1)
 PGER Environment Regulations2C(1)
+priority list3D(1)
+publish3A
 quarterly survey26(4)
+record2B(1)
 refund pointSch. 1
+relevant documentation3B(2)
 return period21(1)
 semi-enclosed water body16(4)
+species3D(1)
 specified31(3)
 specified monitoring programme17
 storage11(1)
+submit3A
 surveyor26(8)
+threatened species3D(1)
 tyre11(1)
 Tyre Landfill Exclusion Zone11(1)
 tyre retailer11(1)
