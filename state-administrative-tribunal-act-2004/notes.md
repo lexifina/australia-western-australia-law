@@ -39,6 +39,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 371 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Veterinary Practice Act 2021 s. 236 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
 Other notes
 The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
 Defined terms
@@ -103,4 +104,3 @@ vexatiously3(1)
 vocational Act3(1)
 vocational regulatory body3(1)
 witness3(1)
-By Authority: JOHN A. STRIJK, Government Printer
