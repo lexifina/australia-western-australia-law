@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Veterinary Surgeons Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Veterinary Surgeons Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Veterinary Surgeons Act Regulations 1979 | 21 Dec 1979 p. 3992-4010 | 21 Dec 1979 (see Gazette 21 Dec 1979 p. 3909)
 Untitled regulations | 29 Aug 1980 p. 3097 | 29 Aug 1980
 Veterinary Surgeons Amendment Regulations 1980 | 12 Dec 1980 p. 4279 | 12 Dec 1980
@@ -51,6 +51,11 @@ Veterinary Surgeons Amendment Regulations (No. 2) 2015 | 12 Jan 2016 p. 43 | r. 
 Agriculture and Food Regulations Amendment (Poisons) Regulations 2016 Pt. 6 | 17 Jan 2017 p. 404-6 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Veterinary Surgeons Amendment Regulations 2017 | 21 Jul 2017 p. 4019-20 | r. 1 and 2: 21 Jul 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2018 (see r. 2(b))
 Reprint 6: The Veterinary Surgeons Regulations 1979 as at 26 Jul 2019 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Veterinary Practice Act 2021 s. 201(2) assented to 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Other notes
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
 Defined terms
