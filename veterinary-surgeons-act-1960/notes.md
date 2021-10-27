@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Veterinary Surgeons Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Veterinary Surgeons Act 1960 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Veterinary Surgeons Act 1960 | 64 of 1960 (9 Eliz II No. 64) | 2 Dec 1960 | 12 Jan 1962 (see s. 1(2) and Gazette 12 Jan 1962 p. 103)
@@ -20,6 +20,11 @@ Acts Amendment (Bankruptcy) Act 2009 s. 87 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 49 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Reprint 4: The Veterinary Surgeons Act 1960 as at 10 Dec 2010 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Veterinary Practice Act 2021 s. 201(1) | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Other notes
 The provision of this Act repealing those Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Now known as Manager, Animal Industry Protection, Animal Protection Program.
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
