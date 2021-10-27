@@ -34,6 +34,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 5 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 TAB (Disposal) Act 2019 s. 148 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Veterinary Practice Act 2021 s. 230 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
 Other notes
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 19.Power to amend regulations
