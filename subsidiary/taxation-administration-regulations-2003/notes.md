@@ -41,6 +41,7 @@ Taxation Administration Amendment Regulations (No. 3) 2020 | SL 2020/48 24 Apr 2
 Finance Regulations Amendment (Interest Rates) Regulations 2020 Pt. 3 | SL 2020/71 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Finance Regulations Amendment Regulations 2020 Pt. 5 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
 Taxation Administration Amendment Regulations 2021 | SL 2021/116 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
+Taxation Administration Amendment Regulations (No. 2) 2021 | SL 2021/183 5 Nov 2021 | 5 Nov 2021 (see r. 2 and SL 2021/187 r. 2(a))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 2.
 If a modification is to:
@@ -67,6 +68,7 @@ corresponding law13E(1)
 Corruption and Crime Commission13K(1)
 Corruption and Crime Commissioner13K(1)
 COVID-19 relief measure13L(1)
+Department CEO13Q(1)
 duty5A(3), 13C(1)
 employer13G(1)
 functions14A(1)
@@ -78,8 +80,10 @@ Pastoral Lands Board13(1)
 pastoral lessee13(1)
 public sector agency13L(1)
 relevant recipient14A(1)
+senior officer13Q(1)
 settlement agent14A(1)
 STR arrangement14A(1)
+supplier13Q(1)
 tax information2B
 wages13G(1)
 WorkCover WA13J(1)
