@@ -70,6 +70,7 @@ Road Traffic Code Amendment Regulations 2020 | SL 2020/87 26 Jun 2020 | r. 1 and
 Road Traffic Code Amendment Regulations (No. 2) 2020 | SL 2020/184 29 Sep 2020 | r. 1 and 2: 29 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2020 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 3) 2020 | SL 2020/253 24 Dec 2020 (as amended by SL 2021/30 r. 4) | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Mar 2021 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 2) 2021 | SL 2021/87 22 Jun 2021 | r. 1 and 2: 22 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2021 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 3) 2021 | SL 2021/184 5 Nov 2021 | r. 1 and 2: 5 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2021 (see r. 2(b))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
