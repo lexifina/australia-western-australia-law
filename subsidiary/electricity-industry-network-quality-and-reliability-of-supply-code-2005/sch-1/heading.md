@@ -6,7 +6,7 @@ complaint means a complaint that a provision of —
 (b)an instrument made under section 14(3),
 has not been, or is not being, complied with;
 customer premises means premises on which electrical installations are connected to a transmission or distribution system for the purpose of receiving supply;
-isolated system means a system for the transmission and distribution of electricity that is not connected to the North West interconnected system or the South West interconnected system;
+isolated system means a system for the transmission and distribution of electricity that is not connected to the North West interconnected system or the South West interconnected system and is not a stand-alone power system that is part of a covered network;
 North West interconnected system means the interconnected transmission and distribution systems, generating works and associated works —
 (a)located in the Pilbara region of the State; and
 (b)into which electricity is supplied by one or more of the electricity generation plants at Dampier, Port Hedland and Cape Lambert,
@@ -18,7 +18,9 @@ as expanded or altered from time to time.
 but in preparing a report under section 27(1)(a) a transmitter or distributor is to set out the information mentioned in items 7 and 11, so far as it relates to the operations of the transmitter or distributor, for the whole of the discrete area described in paragraph (c) and also for each of the following areas separately —
 (d) the area served by the North West interconnected system;
 (e) each area of the State served by an isolated system.
-[3.deleted]
+3.In addition to the matters described in item 2, a transmitter or distributor, in preparing a report under s27(1)(a) is to set out the information specified in items 7 and 11, so far as it relates to the operations of the transmitter or distributor for all—
+(a) stand-alone power systems that form part of the transmitter or distributor’s covered network; and
+(b) other stand-alone power systems provided by the transmitter or distributor.
 4.In respect of each failure by the transmitter or distributor to comply with a provision of this Code or an instrument under section 14(3) (as identified by monitoring records or under section 24 or following a complaint) —
 (a) the total number of breaches of each provision; and
 (b) the remedial action taken in each case.
@@ -41,4 +43,4 @@ and in the case of interruptions referred to in paragraph (a), the number of int
 (a) the year to which the report relates; and
 (b) the 3 years referred to in item 12.
 [14-15.deleted]
-[Schedule 1 amended: Gazette 2 May 2017 p. 2291.]
+[Schedule 1 amended: Gazette 2 May 2017 p. 2291; Gazette 5 Nov 2021 p. 4970.]
