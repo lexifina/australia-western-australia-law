@@ -48,6 +48,8 @@
 4.Botanic Gardens and Parks Authority established under the Botanic Gardens and Parks Authority Act 1998
 [5. deleted]
 6.Building and Construction Industry Training Board established under the Building and Construction Industry Training Fund and Levy Collection Act 1990
+6AA.Bunbury Water Corporation established under the Water Corporations Act 1995
+6AB.Busselton Water Corporation established under the Water Corporations Act 1995
 6a.Chemistry Centre (WA) established by the Chemistry Centre (WA) Act 2007
 7.Commissioner of Main Roads appointed under the Main Roads Act 1930
 [8. deleted]
@@ -88,7 +90,7 @@
 49.The National Trust of Australia (W.A.) established and incorporated under the National Trust of Australia (W.A.) Act 1964
 50.The Western Australian Mint continued under the Gold Corporation Act 1987
 [51-53. deleted]
-54.Water Corporation established under the Water Corporation Act 1995
+54.Water Corporation established under the Water Corporations Act 1995
 [55, 56. deleted]
 57.Western Australian Coastal Shipping Commission established under the Western Australian Coastal Shipping Commission Act 1965
 [58. deleted]
@@ -103,4 +105,4 @@
 [67. deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) continued by the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended: Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; Act No. 43 of 2006 s. 7; Gazette 13 Apr 2007 p. 1610; Act No. 10 of 2007 s. 43; No. 28 of 2008 s. 16; Gazette 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; 8 Nov 2019 p. 4006.]
+[Division 2 amended: Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; Act No. 43 of 2006 s. 7; Gazette 13 Apr 2007 p. 1610; Act No. 10 of 2007 s. 43; No. 28 of 2008 s. 16; Gazette 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; 8 Nov 2019 p. 4006; SL 2021/181 r. 5.]
