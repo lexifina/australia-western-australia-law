@@ -30,6 +30,7 @@ Reprint 3: The Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 a
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2018 | 8 Jun 2018 p. 1833-4 | bl. 1 and 2: 8 Jun 2018 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2018 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2019 | 7 Jun 2019 p. 1825 | bl. 1 and 2: 7 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2019 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2019 | 14 Jun 2019 p. 1900-1 | bl. 1 and 2: 14 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1 and 2: 2 Jul 2019 (see bl. 2(b) and Gazette 28 Jun 2019 p. 2473)
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2021 | SL 2021/179 5 Nov 2021 | bl. 1 and 2: 5 Nov 2021 (see bl. 2(a)); By-laws other than bl. 1 and 2: 6 Nov 2021 (see bl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
