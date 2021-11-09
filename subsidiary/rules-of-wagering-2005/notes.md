@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Rules of Wagering 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rules of Wagering 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Rules of Wagering 2005 | 28 Jan 2005 p. 401-79 | 30 Jan 2005 (see r. 2)
 Rules of Wagering Amendment Rules 2005 | 30 Aug 2005 p. 4055 | 30 Aug 2005
 Rules of Wagering Amendment Rules 2006 | 7 Apr 2006 p. 1489-90 | 7 Apr 2006
@@ -18,45 +18,56 @@ Rules of Wagering Amendment Rules 2014 | 16 Dec 2014 p. 4764 | r. 1 and 2: 16 De
 Rules of Wagering Amendment Rules 2016 | 22 Mar 2016 p. 836-9 | r. 1 and 2: 22 Mar 2016 (see r. 2(a)); Rules other than r. 1 and 2: 23 Mar 2016 (see r. 2(b))
 Rules of Wagering Amendment Rules 2017 | 11 Aug 2017 p. 4354-5 | r. 1 and 2: 11 Aug 2017 (see r. 2(a)); Rules other than r. 1 and 2: 12 Aug 2017 (see r. 2(b))
 Rules of Wagering Amendment Rules 2019 | 15 Mar 2019 p. 797-801 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Rules other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
+Rules of Wagering Amendment Rules 2021 | SL 2021/188 8 Nov 2021 | r. 1 and 2: 8 Nov 2021 (see r. 2(a)); Rules other than r. 1 and 2: 9 Nov 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 agency manual63
 agency settlement63
-all-up3(1)
 approved event3(1)
 Australian totalisator3(1)
+before noms wager62A
 bet3(2)
 bet back3(1)
 betting exchange3(1)
 bookmaker3(1)
 bookmaker’s manager3(1)
+box (trap) number3(1)
 cash3(1)
 Commission3(1)
 concession wager3(1)
 controlling authority3(1)
+dead heat62S(1)
 depositor3(1)
 dividend3(1)
 domestic betting operator44(1A)
-doubles3(1)
+doubles wager3(1)
 draw28(2)
+each way wager3(1)
+error62U(1)
+final field62A
 fixed odds wager3(1)
 flat commission method16(2)
 Flexi Bet3(1)
 footo24
+futures wager62A
 game pool25(2)
 internet wagering3(1)
+in the run wager62A
 investor3(1)
-late scratched runner56(1)
+judge3(1)
+late scratched runner56(1), 62A
 losing wagers method16(2)
 middle dividend3(1)
-multiple double3(1)
+mistaken acceptance62U(1)
+multiple doubles wager3(1)
+multi wager3(1)
 no race3(1)
 novelty wager3(1)
 novelty wagers17(1)
 objection3(1)
-odds49(1), 56(1)
-odds portion49(1)
+odds49(1), 56(1), 62A
+odds portion49(1), 62A
 official result3(1)
 on-course totalisator3(1)
 on-course totalisator manager3(1)
@@ -64,7 +75,6 @@ participant3(1)
 percentage56(1)
 place wager3(1)
 play or pay3(1)
-play or pay wager56(1)
 prescribed commission3(1)
 pricing information body3(1)
 principal37(2A)
@@ -72,8 +82,9 @@ PubTAB agreement63
 race3(1)
 relevant novelty wager18A
 relevant period63
+rules of racing3(1)
 runner3(1)
-runs28(2)
+runs28(2), 28(2)
 RWWA3(1)
 RWWA Act3(1)
 RWWA Regulations3(1)
@@ -82,6 +93,7 @@ sporting event3(1)
 sports tipping wager24
 stake3(1)
 starting price guarantee wager 3(1)
+starting price wager3(1)
 successful numbers17(2)
 sum percentage56(1)
 ticket3(1)
@@ -96,7 +108,7 @@ unit3(1)
 wager3(2), 56(1)
 wagering account3(1)
 walk-over3(1)
-win wager3(1)
 winning combinations18(2)
 winning relevant novelty wager combination18A
 winning wager25(2)
+win wager3(1)
