@@ -10,6 +10,7 @@ Reprint 1: The Electricity Industry (Network Quality and Reliability of Supply) 
 Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2017 | 2 May 2017 p. 2287-91 | s. 1 and 2: 2 May 2017 (see s. 2(a)); Code other than s. 1, 2 and 8-14: 3 May 2017 (see s. 2(c)); s. 8-14: 1 Jul 2017 (see s. 2(b))
 Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2018 | 25 Sep 2018 p. 3568-9 | 1 Oct 2018 (see s. 2)
 Electricity Industry (Network Quality and Reliability of Supply) Code Amendments 2021 | 5 Nov 2021 p. 4968-70 | 6 Nov 2021 (see s. 2)
+Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2021 | 12 Nov 2021 p. 5091 | 13 Nov 2021 (see s. 2)
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Defined terms
