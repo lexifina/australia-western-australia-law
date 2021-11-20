@@ -73,10 +73,11 @@ Citation | Published | Commencement
  | Betting Control Amendment Regulations 2019 | 25 Jan 2019 p. 199-202 | r. 1 and 2: 25 Jan 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2019 (see r. 2(b) and Gazette 25 Jan 2019 p. 193-4)
  | Racing and Gaming Regulations Amendment Regulations 2019 Pt. 2 | 25 Jan 2019 p. 202-3 | 1 Feb 2019 (see r. 2(b) and Gazette 25 Jan 2019 p. 193)
  | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
+ | Betting Control Amendment Regulations 2021 | SL 2021/193 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-all up betAppx.
+all up betApp. cl. 1(1)
 another jurisdiction98
 approval98
 approved event3(1)
@@ -86,39 +87,57 @@ Australian Greyhound Racing Rules78(1)
 Australian Rules of Harness Racing78(1)
 Australian Rules of Racing78(1)
 authorisation98
-barrierAppx.
-betAppx.
+barrierApp. cl. 1(1)
+betApp. cl. 4A(1)
 bet back3(1)
 betting98
-betting sheetAppx.
+betting account3(1)
+betting sheetApp. cl. 1(1)
 cash3(1)
+combined win/place bet105B(1)
 commencement day102(1)
-committeeAppx.
+committeeApp. cl. 1(1)
 concession bet3(1)
 country3(1)
-doubleAppx.
+doubleApp. cl. 1(1)
 each way bet3(1)
 Flexi Bet3(1)
+fraudulent behaviour105C(1)
 grandstand enclosure3(1)
+greyhound race3(1)
+harness race3(1)
 host club91(1)
 internet betting3(1)
-late scratched runnerAppx.
+late scratched runnerApp. cl. 4A(1)
 leger3(1)
 local on-course totalisator78(1)
-multiple doubleAppx.
-objectionAppx.
-oddsAppx.
+multiple doubleApp. cl. 10(2)
+objectionApp. cl. 1(1)
+oddsApp. cl. 4A(1)
 on-course totalisator78(1)
-play or payAppx.
-percentageAppx.
+percentageApp. cl. 4A(1)
+place bet3(1)
+place component105B(1)
+play or payApp. cl. 1(1)
 prescribed information104(1), 107(1)
+racing year3(1)
 relevant person98
 rules of racing3(1)
 rules of wagering3(1)
 runner3(1)
-Scale of Deduction TableAppx.
+Scale of Deduction TableApp. cl. 1(1)
+scheduled starting time3(1)
 sporting event3(1)
-sum percentageAppx.
+sum percentageApp. cl. 4A(1)
+thoroughbred race3(1)
 totalisator63(1A)
-trebleAppx.
-walk-overAppx.
+trebleApp. cl. 1(1)
+type 1 thoroughbred race105B(1)
+type 2 thoroughbred race105B(1)
+type 3 thoroughbred race105B(1)
+WAGRA greyhound race105A(1)
+walk-overApp. cl. 1(1)
+WATA harness race105A(1)
+Western Australian Greyhound Racing Association3(1)
+Western Australian Trotting Association3(1)
+win bet3(1)
