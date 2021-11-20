@@ -1,27 +1,40 @@
 ## Schedule 1 — Prescribed awards and classifications of work
 [r. 2 and 3]
-[Heading inserted: Gazette 10 Jul 2012 p. 3058.]
+[Heading inserted: SL 2021/191 r. 7.]
 ## Division 1 — Awards under the Fair Work Act 2009 (Commonwealth) and awards given continuing effect under the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Commonwealth)
-[Heading inserted: SL 2020/144 r. 4(1).]
+[Heading inserted: SL 2021/191 r. 7.]
 Item | Prescribed awards | Exceptions, conditions and limitations
-1. | Australian Workers’ Union Asphalt and Bitumen Industry (WA) Award 1988
-2. | Australian Workers’ Union Construction and Maintenance (Consolidated) Award 1987
-3. | Australian Workers’ Union Construction and Maintenance Award 1989
-4. | Australian Workers’ Union Construction, Maintenance and Services (WA Government) Award, 1984 | Limited to temporary employees in receipt of an industry allowance under the award
-5. | Australian Workers’ Union Geomembrane and Geotextile Installation Award 1989
-6. | Bitumen Spraying Services Award 1985
-7. | Drilling and Exploration Industry (AWU) Award 1998
-8. | Mobile Crane Hiring Award 1990
-9. | National Building and Construction Industry Award 1990
-10. | Plumbing Industry (Qld and WA) Award 1979
-11. | Professional Divers’ Award 1988
-12. | Transport Workers Spraypave Pty Ltd Award 1990
-13. | Sprinkler Pipe Fitters’ Award 1975
-14. | Western Australian Civil Contracting Award 1998
-15. | Telecommunications Services Award 2010 | Limited to employees in the classification structure B.1.3 Technical Stream in Schedule B of the award
-[Division 1 inserted: Gazette 10 Jul 2012 p. 3058-9; amended: SL 2020/144 r. 4(2).]
+1. | Aluminium Industry Award 2020
+2. | Asphalt Industry Award 2020
+3. | Australian Workers’ Union Asphalt and Bitumen Industry (WA) Award 1988
+4. | Australian Workers’ Union Construction and Maintenance Award 1989
+5. | Australian Workers’ Union Construction and Maintenance (Consolidated) Award 1987
+6. | Australian Workers’ Union Construction, Maintenance and Services (W.A. Government) Award 1984 | Limited to temporary employees in receipt of an industry allowance under the award
+7. | AWU Geomembrane and Geotextile Installation Award 1989
+8. | Bitumen Spraying Services Award 1985
+9. | Building and Construction General On-site Award 2020
+10. | Dredging Industry Award 2020
+11. | Drilling and Exploration Industry (AWU) Award 1998
+12. | Electrical, Electronic and Communications Contracting Award 2020
+13. | Gardening and Landscaping Services Award 2020
+14. | Joinery and Building Trades Award 2020
+15. | Manufacturing and Associated Industries and Occupations Award 2020
+16. | Mining Industry Award 2020
+17. | Mobile Crane Hiring Award 1990
+18. | Mobile Crane Hiring Award 2020
+19. | National Building and Construction Industry Award 1990
+20. | Pest Control Industry Award 2020
+21. | Plumbing and Fire Sprinklers Contracting Award 2020
+22. | Plumbing Industry (Qld and W.A.) Award 1979
+23. | Professional Divers’ Award 1988
+24. | Professional Diving Industry (Industrial) Award 2020
+25. | Sprinkler Pipe Fitters’ Award 1975
+26. | Telecommunications Services Award 2020 | Limited to employees in the classification structure A.1.3 Technical Stream in Schedule A of the award
+27. | Transport Workers Spraypave Pty Ltd Award 1990
+28. | Western Australian Civil Contracting Award 1998
+[Division 1 inserted: SL 2021/191 r. 7.]
 ## Division 2 — Awards under the Industrial Relations Act 1979
-[Heading inserted: Gazette 10 Jul 2012 p. 3059.]
+[Heading inserted: SL 2021/191 r. 7.]
 Item | Prescribed awards | Exceptions, conditions and limitations
 1. | Air Conditioning and Refrigeration Industry (Construction and Servicing) Award No. 10 of 1979
 2. | Building Trades Award 1968
@@ -38,11 +51,10 @@ Item | Prescribed awards | Exceptions, conditions and limitations
 13. | Gate, Fence and Frames Manufacturing Award
 14. | Industrial Spraypainting and Sandblasting Award 1991
 15. | Lift Industry (Electrical and Metal Trades) Award 1973
-16. | Materials Testing Employees’ Award, 1984
-17. | Mechanical and Electrical Contractors (North West Shelf Project Platform) Award 1986
-18. | Metal Trades (General) Award
-19. | Pest Control Industry Award
-20. | Radio and Television Employees’ Award
-21. | Sheet Metal Workers’ Award No. 10 of 1973
-22. | Thermal Insulation Contracting Industry Award
-[Division 2 inserted: Gazette 10 Jul 2012 p. 3059-60.]
+16. | Mechanical and Electrical Contractors (North West Shelf Project Platform) Award 1986
+17. | Metal Trades (General) Award
+18. | Pest Control Industry Award
+19. | Radio and Television Employees’ Award
+20. | Sheet Metal Workers’ Award No. 10 of 1973
+21. | Thermal Insulation Contracting Industry Award
+[Division 2 inserted: SL 2021/191 r. 7.]
