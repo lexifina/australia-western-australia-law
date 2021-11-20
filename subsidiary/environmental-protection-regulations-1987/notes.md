@@ -81,6 +81,7 @@ Environmental Protection Amendment Regulations (No. 2) 2020 | SL 2020/114 7 Jul 
 Environmental Protection Amendment Regulations 2020 | SL 2020/134 14 Aug 2020 | r. 1 and 2: 14 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2020 (see r. 2(b))
 Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Environmental Protection Regulations Amendment (Publication and Confidentiality) Regulations 2021 Pt. 3 | SL 2021/178 22 Oct 2021 | 23 Oct 2021 (see r. 2(c) and SL 2021/176 cl. 2)
+Environmental Protection Amendment Regulations (No. 2) 2021 | SL 2021/190 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
@@ -127,6 +128,9 @@ licensed landfill21(1)
 licensed premises11(1)
 licensee21(1), 24(1), 28(1)
 lot16A
+mercury5P
+mercury-added product5P
+mercury compound5P
 metropolitan region21(1)
 minute2B(1)
 native species3D(1)
@@ -136,6 +140,7 @@ payer5N
 petroleum activity2C(1)
 PGER Environment Regulations2C(1)
 priority list3D(1)
+prohibited manufacturing process5P
 publish3A
 quarterly survey26(4)
 record2B(1)
