@@ -26,6 +26,7 @@ Community Protection (Offender Reporting) Amendment Regulations 2017 | 13 Jan 20
 Community Protection (Offender Reporting) Amendment Regulations 2018 | 13 Nov 2018 p. 4432-3 | r. 1 and 2: 13 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2018 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations 2021 | SL 2021/57 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); r. 3 and 5(1): 22 May 2021 (see r. 2(b)); r. 4, 5(2) and (3), 6 and 7: 1 Jul 2021 (see r. 2(c) and SL 2021/54 cl. 2(c))
 Community Protection (Offender Reporting) Amendment Regulations (No. 2) 2021 | SL 2021/125 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2021 (see r. 2(b))
+Community Protection (Offender Reporting) Amendment Regulations (No. 3) 2021 | SL 2021/192 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
