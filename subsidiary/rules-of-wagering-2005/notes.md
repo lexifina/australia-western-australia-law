@@ -19,6 +19,7 @@ Rules of Wagering Amendment Rules 2016 | 22 Mar 2016 p. 836-9 | r. 1 and 2: 22 M
 Rules of Wagering Amendment Rules 2017 | 11 Aug 2017 p. 4354-5 | r. 1 and 2: 11 Aug 2017 (see r. 2(a)); Rules other than r. 1 and 2: 12 Aug 2017 (see r. 2(b))
 Rules of Wagering Amendment Rules 2019 | 15 Mar 2019 p. 797-801 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Rules other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
 Rules of Wagering Amendment Rules 2021 | SL 2021/188 8 Nov 2021 | r. 1 and 2: 8 Nov 2021 (see r. 2(a)); Rules other than r. 1 and 2: 9 Nov 2021 (see r. 2(b))
+Rules of Wagering Amendment Rules (No. 2) 2021 | 19 Nov 2021 p. 5144 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
