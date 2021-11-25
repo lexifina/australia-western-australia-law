@@ -103,14 +103,15 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 11 | 17 of 2014 | 2 Jul 2014
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Electoral Amendment Act 2016 | 14 of 2016 | 11 Jul 2016 | s. 1 and 2: 11 Jul 2016 (see s. (2)(a)); Act other than s. 1 and 2: 17 Aug 2016 (see s. 2(b) and Gazette 16 Aug 2016 p. 3469)
 Reprint 17: The Electoral Act 1907 as at 9 Dec 2016 (includes amendments listed above)
+Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 4 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Other notes
-Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Part 2. Now see the Australian Citizenship Act 2007 (Cwlth).
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
-The Metropolitan Region Town Planning Scheme Act 1959 was repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
+Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 (Cwlth) Sch. 1 Pt. 2. Now see the Australian Citizenship Act 2007 (Cwlth).
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also the uncommenced provisions table.
+Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
 In this consolidation the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -137,10 +138,13 @@ commencement means the coming into operation of this section.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+above the line4(1), 128(1)
 absent voter4(1)
 absolute majority of votes144(3)
-advertise75(4)
+advertise75(1)
 agent175
+amending provisions215
+application for continued registration217(1)
 application name62J(1)
 approved form4(1)
 approved procedures99C
@@ -153,10 +157,11 @@ authorised witness4(1)
 automated146I(6)
 available day71(1)
 average district enrolment16A, 16G(1)
-ballotSch. 2 cl. 2
-ballot paper156D(14), Sch. 1 cl. 2(1)
-ballot paper regulations213(3)
+ballotSch. 2
+ballot paper156D(14), Sch. 1
+ballot paper packet146G(1)
 ballot papers99B(1)
+below the line4(1), 128(1)
 Breach or neglect of official duty180
 bribery182
 broadcast175
@@ -166,15 +171,17 @@ certain document211A(1)
 chief executive officer, prisons59(1)
 christian name4(1)
 claim43(1)
-commencement day43(1)
-Commission website4(1)
+commencement day43(1), 215
 Commissioners16A
+Commission website4(1)
 Commonwealth elector43(1)
 conjoint election4(1)
 consenting candidate156D(1)
 constitution4(1)
-continuing candidateSch. 1 cl. 2(1)
+continuing candidateSch. 1
 Council4(1)
+Council ballot paper4(1)
+Council election4(1)
 CPI175LC(3)
 Deputy Electoral Commissioner4(1)
 disposition of property175
@@ -182,6 +189,7 @@ district4(1)
 division175
 document149B
 donor175R(1)
+DRO146H(1)
 early ballot paper4(1)
 early vote4(1)
 election4(1), 175LA(1), 175Q(6)
@@ -197,38 +205,38 @@ eligible elector91(1), 99C
 eligible political party62C(1)
 eligible vote175LA(1)
 enrolment information4(1)
-enrolment officer42(1)(c)
+enrolment officer42(1)
 entity175
 excluded day71(1)
-existing party62J(1)
+existing party62J(1), 215
 expiry year4(1)
 financial controller175
 first district or sub-district31AB(4)
+former provisions215
 general election4(1), 175
 general polling place4(1), 100(3)
 gift175
 Government Statistician16A
 group4(1)
+group claim80(1)
 hour of nomination4(1)
-in order43(1)
 independent auditor99F(1)
 infringement notice155AB
+in order43(1)
 input tax credit175LG(2)
 issuing officer90(2)
 journal175
 Land Information Authority16A
 large district allowance16G(4)
-member62C(1)
 mentally impaired accused59(1)
-metropolitan area of Perth16H(2)
-modified penalty156(6)(c)(iii) and (13A)(b)
+modified penalty156(6), 156(13A)
 name113C(10)
 new address31AB(3)
 non-participating candidate156D(14)
 officer4(1)
 official agent4(1)
 official paper4(1)
-original election156A
+original election156A.
 parent body62C(4)
 parliamentary party25A(6), 62C(1)
 party agents register175F(1)
@@ -240,14 +248,14 @@ permitted purpose25D(2)
 person with judicial experience16A
 political gift199A(2)
 political party4(1)
+polling day69
 polling place4(1), 193(2)
-polling day69(b)
-preference mark146E(7)
+preferenced group146EC(1)
 prepared155AB
 prescribed information25A(1a)
-prescribed manner140(3), 146E(2)
+prescribed manner140(3), 146E(9)
 President4(1)
-previous electoral distribution16L(1)
+previous electoral distribution215
 previously elected member156D(14)
 principal officer175
 prison4(1)
@@ -256,20 +264,17 @@ property175
 public agency175
 public body name62J(1)
 publish191A(4)
-qualified person156A
+qualified person156A.
 recipient175R(1)
 referendum4(1)
-region4(1)
-register of political parties62C(1)
 registered political party4(1), 62C(1)
+register of political parties62C(1), 215
 registrar, MIARB59(1)
-related political party62C(1)
 relevant citizenship law4(1)
 relevant day16A
-relevant election175O(2) and (4)
+relevant election175O(2), 175Q(4)
 relevant number4(1)
-relevant period191A(4)
-required deposit81(2)
+relevant period88(1A), 191A(4)
 required information59(1)
 response date155AB
 returning officer4(1)
@@ -282,14 +287,13 @@ specified156AA(3)
 specified amount175
 State party62C(4)
 sub-district4(1)
-surplus votesSch. 1 cl. 4
+surplus votesSch. 1
 technology assisted voting99C
-tied candidates144(2), 145(3), Sch. 1 cl. 17
+tied candidates144(2), 145(3), Sch. 1
 transmitted211A(1)
 undue influence184
-vacancy156A
-valid and sufficient reason156(16)(a)
+vacancy156A.
+valid and sufficient reason156(16)
 vote record4(1), 99E(1)
-voting ticket4(1)
-voting ticket square4(1)
+whole of State electorate4(1), 16C(1)
 writ4(1)
