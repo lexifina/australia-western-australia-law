@@ -302,6 +302,7 @@ Infrastructure Western Australia Act 2019 s. 74 | 13 of 2019 | 24 Jun 2019 | 24 
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 1 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Procurement Act 2020 Pt. 10 Div. 1 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 2 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 3 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -325,7 +326,7 @@ Under the Environmental Protection Act 1986 Sch. 3 it. 20, a reference to the Co
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Relevant provisions amended by the Soil and Land Conservation Amendment Act 1988. Committees are now land conservation district committees.
-Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee.
+Under the Environmental Protection Act 1986 Sch. 3 it. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee unless the context is such that it would be incorrect or inappropriate.
 The Authority continued in existence under the Environmental Protection Act 1986 s. 7(1).
 The Hairdressers Registration Act 1946 expired on 13 Mar 2012 (see Gazette 13 Mar 2012 p. 1041).
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
