@@ -9,8 +9,8 @@
  | (b)for private in-patients —
  | (i)in single bed wards (if taken at patient’s request) | $686 per day
  | (ii)in other wards | $374 per day
- | (c)for nursing home type patients | $63.05 per day
- | (d)for nursing home type private patients | $201.15 per day
+ | (c)for nursing home type patients | $64.05 per day
+ | (d)for nursing home type private patients | $202.15 per day
  | (e)for ineligible in-patients | $2 983 per day
  | (f)for eligible veteran in-patients | no charge
 2. | Home modifications service and supply or loan as appropriate, of such aids and appliances, orthotics and prostheses, oxygen, gas and equipment, wigs, surgical implants or devices as are approved by the Department CEO (including repair and replacement) | no charge
@@ -39,7 +39,7 @@
 ## Subdivision 5 — Other services
 [Heading inserted: SL 2021/134 cl. 4.]
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $41 per day
-[Division 1 inserted: SL 2021/134 cl. 4.]
+[Division 1 inserted: SL 2021/134 cl. 4; amended: SL 2021/194 cl. 4.]
 ## Division 2 — Compensable patients
 [Heading inserted: SL 2021/134 cl. 4.]
 ## Subdivision 1 — Compensable in-patients
@@ -78,7 +78,7 @@ Table
 Item | Charge
 1. | The MBS amount for the service if the service is provided to — (a)a private in-patient; or (b)a compensable in-patient; or (c)a nursing home type private patient; or (d)an ineligible in-patient; or (e)a compensable day patient; or (f)an ineligible day patient; or (g)a compensable out-patient; or (h)an ineligible out-patient; or (i)a private same day patient; or (j)a compensable same day patient; or (k)an ineligible same day patient.
 2. | If the service is provided to a private pathology out-patient — 85% of the MBS amount for the service.
-[Div. 5 deleted: SL 2020/58 cl. 7.]
+[Division 5 deleted: SL 2020/58 cl. 7.]
 ## Division 6 — Surgically implanted prostheses
 1.In the Table —
 listed amount, in relation to a surgically implanted prosthesis, means the amount specified for that prosthesis in the Prostheses List in the column under the heading “Minimum Benefit”;
