@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013 | 5 Feb 2013 p. 593-761 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Biosecurity and Agriculture Management Regulations Amendment Regulations (No. 2) 2019 Pt. 2 | 27 Jun 2019 p. 2407-54 | 28 Jun 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Amendment Regulations 2021 (other than r. 1 and 2) | SL 2021/204 3 Dec 2021 | 1 Jan 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
