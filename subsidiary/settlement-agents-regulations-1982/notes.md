@@ -64,6 +64,7 @@ Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 
 Settlement Agents Amendment Regulations 2020 | SL 2020/259 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 8 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 20 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Settlement Agents Amendment Regulations 2021 | SL 2021/202 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
 Other notes
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
 Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1).
@@ -89,10 +90,9 @@ former regulation 4C18(1)
 holding fee4A(1)
 point value2
 professional development subject2
-public training provider6(3)
+public training provider6(1)
 record2
 register2
-registered training provider6(3)
+registered training provider6(1)
 relevant bank accepted bills rate6D(2)
-unit6(3)
 working day2
