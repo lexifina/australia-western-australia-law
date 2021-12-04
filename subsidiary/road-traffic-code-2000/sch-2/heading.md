@@ -39,7 +39,7 @@ No right turn sign (Variable illuminated message sign) (illuminated circle and s
 No stopping sign (for a length of carriageway) (circle, slash and arrow in red) (regs 3, 138) | No stopping sign (for an area) (circle and slash in red) (regs 3, 138)
 No trucks sign (circle and slash in red) (reg 86) | No turns sign (reg 71)
 No U turn sign (Standard sign) (circle and slash in red) (regs 30, 31) | No U turn sign (Variable illuminated message sign) (illuminated circle and slash in red) (regs 30, 31)
-No wheeled recreational devices, scooters or toys sign (circle and slash in red) (reg 206) | No wheeled recreational devices, scooters or toys sign (circles and slashes in red) (reg 206)
+No wheeled devices sign (circle and slash in red) (regs 206, 218A) | No wheeled devices sign (circles and slashes in red) (regs 206, 218A)
 One-way sign (reg 80) | One way sign (reg 80)
 Park in bays only sign (reg 179) | Pedestrian crossing sign (background in yellow) (regs 3, 63)
 Pedestrians may cross diagonally sign (pedestrian symbol in green) (regs 196, 199) | People with disabilities parking sign (background to symbol in blue) (reg 171)
@@ -59,4 +59,4 @@ Trucks and buses low gear sign (reg 90) | Trucks must enter sign (reg 87)
 Trucks use left lane sign (reg 137) | Truck zone sign (arrow and background to words in red) (regs 3, 152)
 Two-way sign (regs 80, 118) | U turn permitted sign (regs 31, 72)
 Works zone sign (arrow and background to words in red) (regs 3, 153)
-[Schedule 2 amended: Gazette 13 Jul 2001 p. 3474-5; 11 Jan 2002 p. 52; 29 Dec 2006 p. 5924; 8 Feb 2008 p. 320; 13 Nov 2009 p. 4609-12; SL 2020/184 r. 26.]
+[Schedule 2 amended: Gazette 13 Jul 2001 p. 3474-5; 11 Jan 2002 p. 52; 29 Dec 2006 p. 5924; 8 Feb 2008 p. 320; 13 Nov 2009 p. 4609-12; SL 2020/184 r. 26; SL 2021/200 r. 81.]
