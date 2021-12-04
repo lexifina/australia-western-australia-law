@@ -33,6 +33,8 @@ Road Traffic (Vehicles) Amendment Regulations (No. 6) 2021 | SL 2021/64 21 May 2
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 5 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
 Road Traffic Regulations Amendment Regulations 2021 Pt. 3 | SL 2021/93 22 Jun 2021 | 23 Jun 2021 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 7) 2021 | SL 2021/81 22 Jun 2021 | r. 1 and 2: 22 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
+Transport Regulations Amendment (Electric Rideable Devices) Regulations 2021 Pt. 3 | SL 2021/199 3 Dec 2021 | 4 Dec 2021 (see r. 2(b) and SL 2021/200 r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations 2021 | SL 2021/206 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -147,6 +149,8 @@ discount period84A(1)
 dog trailer3
 drawbar3
 driver’s licence454A
+electric rideable device3
+eligible vehicle109
 emergency brake226
 emergency vehicle226
 emission control system356(1)
@@ -211,6 +215,7 @@ motor carrier86
 motor cycle3
 motor home3
 motoring event84A(1)
+motorised scooter3
 motorised wheelchair3
 motor tricycle3
 motor vehicle3, 167(1), 168(1), 244(1)
@@ -265,6 +270,7 @@ renewal application454A
 renewal period30(1)
 repair146
 repairable write-off3
+reserved plate109
 retractable axle164(1)
 reviewable decision478
 right3, 237

@@ -26,6 +26,7 @@ Road Traffic Regulations Amendment (Radar Detectors) Regulations 2020 Pt. 3 | SL
 Transport Regulations Amendment (Road Traffic) Regulations 2021 Pt. 2 | SL 2021/59 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 4 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
 Road Traffic Regulations Amendment Regulations 2021 Pt. 2 | SL 2021/93 22 Jun 2021 | 23 Jun 2021 (see r. 2(b))
+Transport Regulations Amendment (Electric Rideable Devices) Regulations 2021 Pt. 2 | SL 2021/199 3 Dec 2021 | 4 Dec 2021 (see r. 2(b) and SL 2021/200 r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,8 +43,7 @@ authorised43(3)
 axle3
 car hazard perception testSch. 9
 car licence3
-CEO (Mental Health Commission)69J(1)
-child care service11(4)
+CEO (Mental Health Commission)69I(1)
 commencement day82
 current licence75(1)
 Defence Force family member card3
@@ -55,6 +55,7 @@ driving impairment of the person64(1)
 driving test27(1)
 electric personal transporter3
 electric personal transporter use area3
+electric rideable device3
 employment10(1)
 excess period served68(7)
 expiry day38(1)
@@ -68,35 +69,35 @@ inspection period69K
 instructor47(1)
 interlock contract69A
 interlock-restricted driver69A
-L plates49(1)
 learner47(1), 49(4)
 learner approved motor cycle3
 low loader dollySch. 4 cl. 4(2)
+L plates49(1)
 moped3
-moped licence3
+moped licence2
 motor carrier3
 motor cycle3
 motor cycle hazard perception testSch. 9
+motorised scooter3
 motorised wheelchair3
 new driver’s licence applicant3
 novice driver3
-novice driver (type 1A)3
-on-demand rank or hail vehicle12(4)
+novice driver (type 1A)2
 parental responsibility22(1)
 personal details40(1)
 practical driving assessmentSch. 9
 prescribed offence53A(1)
 present offence53B
 prime mover3
-public holiday67(1)
-relevant driving authorisation4(1), 12(1)
+public holiday67
+relevant driving authorisation4(1)
 relevant vehicle69K
 removed68(1)
 restricted driving period69A
 restricted motor cycle licence3
 reviewable decision70, 90(1)
-RT Act s. 10393(1)
 RTA3
+RT Act s. 10393(1)
 scheme commencement day3
 schooling10(1)
 section3
@@ -105,6 +106,5 @@ specified period32(1)
 theory testSch. 9
 trailer3
 transition day93(1)
-transitioned licence92(1)
 trigger69A
 working day27(1)
