@@ -7,6 +7,7 @@ Education and Training Regulations Amendment (Fees and Charges) Regulations 2018
 Education Regulations (Immunisation Requirements for Enrolment) Amendment Regulations 2019 Pt. 3 | 19 Jul 2019 p. 2844-6 | 22 Jul 2019 (see r. 2(b) and Gazette 19 Jul 2019 p. 2841)
 School Education (Student Residential Colleges) Amendment Regulations 2019 | 8 Nov 2019 p. 4003 | r. 1 and 2: 8 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Nov 2019 (see r. 2(b))
 School Education (Student Residential Colleges) Amendment Regulations 2020 | SL 2020/7 21 Feb 2020 | r. 1 and 2: 21 Feb 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Feb 2020 (see r. 2(b))
+School Education (Student Residential Colleges) Amendment Regulations 2021 | SL 2021/197 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
