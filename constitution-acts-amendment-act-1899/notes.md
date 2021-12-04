@@ -303,6 +303,7 @@ Voluntary Assisted Dying Act 2019 Pt. 12 Div. 1 | 27 of 2019 | 19 Dec 2019 | 1 J
 Procurement Act 2020 Pt. 10 Div. 1 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 2 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 3 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
+Industry and Technology Development Amendment Act 2021 Pt. 3 | 24 of 2021 | 3 Dec 2021 | 4 Dec 2021 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

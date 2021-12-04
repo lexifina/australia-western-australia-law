@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industry and Technology Development Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Industry and Technology Development Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industry and Technology Development Act 1998 | 13 of 1998 | 20 May 1998 | 1 Jul 1998 (see s. 2 and Gazette 26 Jun 1998 p. 3369)
@@ -7,25 +7,22 @@ Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 20
 Reprint 1: The Industry and Technology Development Act 1998 as at 5 Dec 2003 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Industry and Technology Development Amendment Act 2021 Pt. 2 | 24 of 2021 | 3 Dec 2021 | 4 Dec 2021 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Account4
 acquire7(4)
-appointed member4
-chairperson4
 commencement daySch. 2 cl. 1
-committee4
-Council4
 department4
 dispose7(4)
 financial support4
 function4
+government trading enterprise4
 guidelines4
 industry4
 Industry ActSch. 2 cl. 1
 Inventions ActSch. 2 cl. 1
-member4
 repealed Act4
 technology4
 technology park4
