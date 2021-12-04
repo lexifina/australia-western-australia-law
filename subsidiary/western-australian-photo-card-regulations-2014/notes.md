@@ -15,6 +15,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2020 Pt. 6 | SL 2020/74 9 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Document Replacement) Regulations 2020 Pt. 3 | SL 2020/123 28 Jul 2020 | 29 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No 2) 2021 Pt. 11 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
+Transport Regulations Amendment (Digital Identity Exchange) Regulations 2021 Pt. 3 | SL 2021/203 3 Dec 2021 | 4 Dec 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -23,8 +24,12 @@ applicant4(1), 5(1)
 APS employee10(1)
 Chief of Defence10(2)
 current photo card3
+Department of the Premier and Cabinet10A(1)
+digital identity exchange10A(1)
 LG CEO10(2)
 other card6(5)
 PA CEO10(2)
+relevant information10A(1)
+relying chief executive officer10A(1)
 replaced card6(4)
 section3
