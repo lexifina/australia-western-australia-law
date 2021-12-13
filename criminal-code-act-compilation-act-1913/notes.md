@@ -199,6 +199,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (COVID-19 Response) Act 2020 s. 4(2) and 5(3) | 8 of 2020 (as amended by No. 39 of 2020 Pt. 3, No. 1 of 2021 Pt. 3 and No. 21 of 2021 Pt. 3) | 3 Apr 2020 | 4 Jul 2022 (see s. 2(b))
+Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 Pt. 6 Div. 2 | 25 of 2021 | 13 Dec 2021 | Pt. 6 Div. 2 (other than s. 67): to be proclaimed (see s. 2(b)); s. 67: on the day after the period of 3 years beginning on the day fixed under s. 2(b) (see s. 2(c))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
