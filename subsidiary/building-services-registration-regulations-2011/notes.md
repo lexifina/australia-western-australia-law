@@ -30,6 +30,7 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | S
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 4 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Building Services (Registration) Amendment Regulations (No. 2) 2021 | SL 2021/170 8 Oct 2021 | r. 1 and 2: 8 Oct 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2021 (see r. 2(b))
+Building Services (Registration) Amendment Regulations (No. 3) 2021 | SL 2021/213 17 Dec 2021 | r. 1 and 2: 17 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2021 (see r. 2(b))
 Other notes
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
@@ -56,13 +57,14 @@ Class 10 building22
 commencement day37, 43
 compliance certificate3
 detached house22
-eligible person16(4), 28D(2A) and (3A), 31(4)
+eligible person16(4), 28D(2A), 28D(3A), 31(4)
 exempt shed13(1)
 farm building12
 former board37, 43
 former registrar37, 43
 GSTSch. 2 cl. 1
 insolvent3
+National Register3
 owner-builder3
 owner-builder authorisation37
 painter work3, 28(1)
