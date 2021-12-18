@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Biosecurity and Agriculture Management (Aerial Application) Regulations 2018. The following table contains information about those regulations.
+This is a compilation of the Biosecurity and Agriculture Management (Aerial Application) Regulations 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Biosecurity and Agriculture Management (Aerial Application) Regulations 2018 | 28 Dec 2018 p. 4880-3 | r. 1 and 2: 28 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2018 (see r. 2(b) and Gazette 28 Dec 2018 p. 4879)
+Biosecurity and Agriculture Management (Aerial Application) Amendment Regulations 2021 | SL 2021/216 17 Dec 2021 | r. 1 and 2: 17 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
