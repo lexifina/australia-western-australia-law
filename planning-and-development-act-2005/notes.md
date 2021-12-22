@@ -38,6 +38,7 @@ Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be 
 Community Titles Act 2018 s. 224-226 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Planning and Development Amendment Act 2020 Pt. 3, Pt. 6 Div. 1, Pt. 7 Div. 1, Pt. 9, Pt. 12 Div. 1 and Pt. 14 | 26 of 2020 (as amended by Act No. 45 of 2020 Pt. 10 Div. 10) | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
 Swan Valley Planning Act 2020 s. 62 | 45 of 2020 | 9 Dec 2020 | Immediately after the Planning and Development Amendment Act 2020 s. 65 comes into operation (see s. 2(1)(b)(ii))
+Aboriginal Cultural Heritage Act 2021 s. 350 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 4 Div. 2.
 If a modification is to:
