@@ -1,4 +1,3 @@
-Western Australia
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013
 An Act —
 ·to provide for the use of electronic technology in relation to court proceedings and certain other proceedings, and the record of court proceedings and certain other proceedings; and
