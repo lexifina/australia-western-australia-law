@@ -6,4 +6,5 @@ Work Health and Safety Act 2020 Pt. 1 (other than Div. 2-5) and Pt. 14 (other th
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Work Health and Safety Act 2020 Pt. 1 Div. 2-5, Pt. 2-13, Pt. 14 Div. 1-3 and Pt. 15 and 16 and Sch. 1 and 2 | 36 of 2020 | 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
+Work Health and Safety Act 2020 Pt. 1 Div. 2-5, Pt. 2-13, Pt. 14 Div. 1-3 and Pt. 15 and 16 and Sch. 1 and 2 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Industrial Relations Legislation Amendment Act 2021 Pt. 7 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b) and (2))
