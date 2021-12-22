@@ -10,6 +10,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 37-39, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Industrial Relations Legislation Amendment Act 2021 Pt. 3 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b))
 Other notes
 The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation when it was deleted by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 s. 107.
 Defined terms
