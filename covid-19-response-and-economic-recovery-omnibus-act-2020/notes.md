@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the COVID-19 Response and Economic Recovery Omnibus Act 2020. For provisions that have come into operation see the compilation table.
+This is a compilation of the COVID-19 Response and Economic Recovery Omnibus Act 2020. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 COVID-19 Response and Economic Recovery Omnibus Act 2020 | 34 of 2020 | 11 Sep 2020 | Pt. 1: 11 Sep 2020 (see s. 2(a)); Act other than Pt. 1: 12 Sep 2020 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Aboriginal Cultural Heritage Act 2021 s. 347 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
 Other notes
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Postponement Proclamation 2021 (SL 2021/196) provides that the cessation of Pt. 2 Div. 1 Subdiv. 2, Pt. 2 Div. 2 Subdiv. 1, Pt. 2 Div. 3 Subdiv. 1, Pt. 2 Div. 4 and sections 37(1), 44(1) and 46(1) is postponed until the end of 31 December 2022.
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Postponement Proclamation 2021 (SL 2021/196) provides that the end of the operative periods for sections 29 and 30 is postponed until the end of 31 December 2022.
