@@ -9,6 +9,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Veterinary Practice Act 2021 s. 228 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Dog Amendment (Stop Puppy Farming) Act 2021 Pt. 3 | 29 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
