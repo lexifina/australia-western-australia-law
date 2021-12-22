@@ -310,9 +310,10 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 2 | 36 of 2020 | 10 Nov 2020 | To be proclaimed (see s. 2(1)(c))
+Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 2 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Arts and Culture Trust Act 2021 s. 74 | 15 of 2021 | 9 Sep 2021 | To be proclaimed (see s. 2(b))
 Veterinary Practice Act 2021 s. 229 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Aboriginal Cultural Heritage Act 2021 s. 344 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
 Other notes
 Footnote no longer applicable.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
