@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Long Service Leave Act 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Long Service Leave Act 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Long Service Leave Act 1958 | 44 of 1958 (7 Eliz. II No. 44) | 12 Dec 1958 | 24 Dec 1958 (see s. 2 and Gazette 24 Dec 1958 p. 3371)
@@ -20,6 +20,11 @@ Reprint 4: The Long Service Leave Act 1958 as at 1 Sep 2006 (includes amendments
 Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2003 | 10 Jun 2009 (see s. 2(2))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Industrial Relations Legislation Amendment Act 2021 Pt. 4 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b))
+Other notes
 Repealed by the Statute Law Revision Act 1950 of the Commonwealth.
 Repealed by the Defence Legislation Amendment Act 1992 of the Commonwealth.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1988 of the Commonwealth.
