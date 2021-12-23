@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Aboriginal Cultural Heritage Act 2021. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Aboriginal Cultural Heritage Act 2021 Pt. 1 | 27 of 2021 | 22 Dec 2021 | 22 Dec 2021 (see s. 2(a))
+Aboriginal Cultural Heritage Act 2021 Pt. 1 and Pt. 15 (other than Div. 3) | 27 of 2021 | 22 Dec 2021 | Pt. 1: 22 Dec 2021 (see s. 2(a)); Pt. 15 (other than Div. 3): 23 Dec 2021 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Aboriginal Cultural Heritage Act 2021 Pt. 2-16 | 27 of 2021 | 22 Dec 2021 | Pt. 15 (other than Div. 3): 23 Dec 2021 (see s. 2(b)); Pt. 2-14, Pt. 15 Div. 3 and Pt. 16: to be proclaimed (see s. 2(c), (d) and (e))
+Aboriginal Cultural Heritage Act 2021 Pt. 2-14, Pt. 15 Div. 3 and Pt. 16 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(c), (d) and (e))
 Aboriginal Cultural Heritage Amendment Act 2021 s. 4 | 28 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
