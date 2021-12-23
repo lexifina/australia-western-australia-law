@@ -29,12 +29,14 @@ Dog Amendment Act 2013 Pt. 2 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b
 Reprint 6: The Dog Act 1976 as at 4 Jul 2014 (includes amendments listed above)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 11 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Local Government Legislation Amendment Act 2019 Pt. 4 Div. 5 | 16 of 2019 | 5 Jul 2019 | 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
+Dog Amendment (Stop Puppy Farming) Act 2021 Pt. 2 (other than Div. 3-5) | 29 of 2021 | 22 Dec 2021 | 23 Dec 2021 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 5 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 TAB (Disposal) Act 2019 s. 148 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Veterinary Practice Act 2021 s. 230 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Dog Amendment (Stop Puppy Farming) Act 2021 Pt. 2 Div. 3-5 | 29 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(c), (d) and (e))
 Other notes
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 19.Power to amend regulations
