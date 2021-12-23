@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Aboriginal Heritage Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Aboriginal Heritage Act 1972 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Aboriginal Heritage Act 1972 | 53 of 1972 | 2 Oct 1972 | 15 Dec 1972 (see s. 2 and Gazette 15 Dec 1972 p. 4681)
@@ -22,6 +22,12 @@ Petroleum Amendment Act 2007 s. 89 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Reprint 4: The Aboriginal Heritage Act 1972 as at 7 Mar 2008 (includes amendments listed above)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 3 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Water Services Legislation Amendment and Repeal Act 2012 s. 203 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Aboriginal Cultural Heritage Act 2021 Pt. 15 (other than Div. 3) | 27 of 2021 | 22 Dec 2021 | 23 Dec 2021 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Aboriginal Cultural Heritage Act 2021 s. 310 and Pt. 15 Div. 3 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(c), (d) and (e))
+Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Aboriginal Heritage Amendment Act 1995 s. 19(2), (3) and (4) read as follows:
 “
@@ -40,13 +46,16 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Aboriginal4
+Aboriginal cultural heritage18(6A)
 Aboriginal cultural material4
 Aboriginal site4
 Committee4
 Department4
 Director4
+located18(6A)
 Minister for Lands66(1)
 Museum4
+new information about Aboriginal cultural heritage18(6A)
 person of Aboriginal descent4
 proceedings under this Act4
 protected area4
@@ -55,3 +64,5 @@ temporarily protected area4
 the owner of any land18(1)
 the Trustees4
 traditional custodian4
+transitional period18(6A)
+transition day4
