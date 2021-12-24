@@ -21,6 +21,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Education and Care Services National Amendment Regulations (No. 2) 2021 (r. 9 and 10) | SL 2021/140 30 Jul 2021 | 30 Dec 2021 (see r. 2(d))
+Education and Care Services National Amendment Regulations (No. 3) 2021 | SL 2021/220 24 Dec 2021 | 1 Jan 2022 (see r. 2(b))
 Other notes
 The short title of this Act was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
 Defined terms
