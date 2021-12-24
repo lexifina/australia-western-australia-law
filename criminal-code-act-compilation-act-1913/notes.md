@@ -194,12 +194,13 @@ COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2
 Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 2 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2021 Pt. 2 | 1 of 2021 | 2 Jun 2021 | 3 Jun 2021 (see s. 2(b))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act (No. 2) 2021 Pt. 2 | 21 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
+Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 Pt. 6 Div. 2 (other than s. 67) | 25 of 2021 | 13 Dec 2021 | 24 Dec 2021 (see s. 2(b) and SL 2021/219 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (COVID-19 Response) Act 2020 s. 4(2) and 5(3) | 8 of 2020 (as amended by No. 39 of 2020 Pt. 3, No. 1 of 2021 Pt. 3 and No. 21 of 2021 Pt. 3) | 3 Apr 2020 | 4 Jul 2022 (see s. 2(b))
-Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 Pt. 6 Div. 2 | 25 of 2021 | 13 Dec 2021 | Pt. 6 Div. 2 (other than s. 67): to be proclaimed (see s. 2(b)); s. 67: on the day after the period of 3 years beginning on the day fixed under s. 2(b) (see s. 2(c))
+Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -235,7 +236,7 @@ The Criminal Investigation (Consequential Provisions) Act 2006 s. 29 is a transi
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accessory after the fact10
+accessory after the fact10.
 accused5(1), 10G(2), 10H(2)
 act of family violence299(4)
 adult offender1(1)
@@ -272,6 +273,7 @@ circumstances of aggravation221(1), 319(1), 338D(1), 391, 400(1), 444(1A)
 circumstances of racial aggravation1(1), 80I
 clerk1(1)
 COC Act221C(1)
+Code(2)
 commencementSch. 1 cl. 1
 commencement day400(1)
 Commissioner557I(1)
@@ -281,24 +283,23 @@ computer generated image204B(1)
 computer system440A(1)
 conducting a business331C(1)
 consent221BA, 221BB(1), 319(2)
-consort557J(1), 557K(1)
+consort557K(1)
 contract546
 conveyance1(1), 284(1), 390A(1)
 court5(1)
 court of summary jurisdiction1(1)
 CP Act720
+criminally responsible1(1)
 criminal organisation221C(1), 221D(1)
 criminal responsibility1(1)
-criminally responsible1(1)
 current offence401B(1), 401(4)
 damage1(1), 1(1)
 dangerous goods294A(3)
 dangerous thing305(1)
-de facto child329(1)
 deals with319(1), 563B(5)
 deceptive material99(1)
 declared criminal organisation221C(1)
-declared drug trafficker557J(1)
+de facto child329(1)
 defamatory345(7)
 depicted person221BD(2)
 designated family relationship299(1)
@@ -324,7 +325,7 @@ engaged in a private act221BA
 explosive substance1(1), 455, 557(2)
 family relationship221(2)
 female genital mutilation306(1)
-first relevant conviction401A(1)
+first relevant conviction401A(1), 401A(1)
 forge1(1)
 government contractor81(1)
 grievous bodily harm1(1)
@@ -339,7 +340,6 @@ identification information489
 identification material489, 494(1)
 identity offence494(1)
 impair305A(1)
-in relation to his principal’s affairs or business546
 incapable person331A
 incites1(1)
 indecent act319(1)
@@ -347,6 +347,7 @@ indecent matter204B(1)
 indictable offence221C(1)
 indictment1(1)
 information81(1)
+in relation to his principal’s affairs or business546
 intimate image221BA
 intimate image offence221BE(1)
 intimate personal relationship299(2)
@@ -400,8 +401,7 @@ prescribed circumstances297(8), 318(5)
 prescribed offence299(1), 321A(1)
 prescribed place68B(1)
 principal546
-principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2),
-552(1), 553(1), 558(1), 562(1)
+principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1), 553(1), 558(1), 562(1)
 print98(1), 99(1)
 prior relevant convictions401A(4)
 prison145(1)
@@ -457,6 +457,7 @@ threat332(4), 338
 to indecently record319(1)
 to sexually penetrate319(1)
 transaction563A(3)
+transitional periodSch. 1 cl. 4(1)
 trespass70A(1)
 trustee546
 unamended CodeSch. 1 cl. 2(1)

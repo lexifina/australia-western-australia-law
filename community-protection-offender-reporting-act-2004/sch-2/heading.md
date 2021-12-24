@@ -20,8 +20,9 @@ s. 331C | Conducting business involving sexual servitude (if the person against 
 s. 331D | Deceptive recruiting for commercial sexual services (if the person against whom the offence is committed is a child)
 s. 332 | Kidnapping (if the person against whom the offence is committed is a child who is neither a de facto child nor lineal relative, as defined in The Criminal Code section 329(1), of the offender)
 s. 343 | Child stealing (if the child against whom the offence is committed is neither a de facto child nor lineal relative, as defined in The Criminal Code section 329(1), of the offender)
-s. 557K(4) | Child sex offender habitually consorting with another child sex offender
 s. 557K(6) | Child sex offender being in or near a place where children are regularly present
+Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021
+s. 17(1) | Unlawful consorting (if the offender has a conviction for a child sex offence (as defined in the Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 section 7) and has consorted with another person who has a conviction for a child sex offence in the course of committing the offence)
 Prostitution Act 2000
 s. 16 | Causing, permitting or seeking to induce child to act as prostitute
 s. 17 | Obtaining payment for prostitution by a child
@@ -37,5 +38,5 @@ s. 50DA | Benefiting from offence against Part IIIA
 s. 50DB | Encouraging offence against Part IIIA
 Customs Act 1901 of the Commonwealth
 s. 233BAB | Special offences relating to tier 2 goods (if the offence involves items of child pornography or of child abuse material)
-[Schedule 2 amended: No. 27 of 2008 s. 12; No. 21 of 2010 s. 13; No. 54 of 2012 s. 38.]
+[Schedule 2 amended: No. 27 of 2008 s. 12; No. 21 of 2010 s. 13; No. 54 of 2012 s. 38; No. 25 of 2021 s. 64.]
 [Schedule 3 has not come into operation.]
