@@ -16,11 +16,10 @@ Education and Care Services National Amendment Regulations (No. 2) 2018 | 26 Jun
 Education and Care Services National Amendment Regulations (No. 3) 2018 | 28 Sep 2018 p. 3601-58 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2019 | 24 Dec 2019 p. 4422-8 | r. 1 and 2: 24 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2 and 16(2), (3) and (4): 31 Dec 2019 (see r. 2(c)); r. 16(2), (3) and (4): 1 Jul 2020 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2020 | SL 2020/143 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); r. 3, 5 and 10: 1 Sep 2020 (see r. 2(b)); r. 4, 6-9 and 11: 1 Oct 2020 (see r. 2(c))
-Education and Care Services National Amendment Regulations (No. 2) 2021 (other than r. 9 and 10) | SL 2021/140 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); r. 3, 8 and 11: 30 Jul 2021 (see r. 2(b)); r. 4-7: 1 Oct 2021 (see r. 2(c));
+Education and Care Services National Amendment Regulations (No. 2) 2021 | SL 2021/140 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); r. 3, 8 and 11: 30 Jul 2021 (see r. 2(b)); r. 4-7: 1 Oct 2021 (see r. 2(c)); r. 9 and 10: 30 Dec 2021 (see r. 2(d))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Education and Care Services National Amendment Regulations (No. 2) 2021 (r. 9 and 10) | SL 2021/140 30 Jul 2021 | 30 Dec 2021 (see r. 2(d))
 Education and Care Services National Amendment Regulations (No. 3) 2021 | SL 2021/220 24 Dec 2021 | 1 Jan 2022 (see r. 2(b))
 Other notes
 The short title of this Act was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
