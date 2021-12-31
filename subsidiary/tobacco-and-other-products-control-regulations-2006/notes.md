@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Tobacco Products Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Tobacco Products Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Tobacco Products Control Regulations 2006 | 25 Jul 2006 p. 2797-808 | 31 Jul 2006 (see r. 2)
@@ -29,10 +29,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 11 | 14 Jun
 Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 8 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Health Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/168 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Health Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 8 | SL 2021/108 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Tobacco Products Control Amendment Regulations 2021 r. 3 and 4 | SL 2021/212 17 Dec 2021 | 31 Dec 2021 (see r. 2(b))
+Tobacco Products Control Amendment Regulations 2021 | SL 2021/212 17 Dec 2021 | r. 1 and 2: 17 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2021 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
