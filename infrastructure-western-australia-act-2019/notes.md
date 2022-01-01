@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Infrastructure Western Australia Act 2019. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Infrastructure Western Australia Act 2019 | 13 of 2019 | 24 Jun 2019 | Pt. 1: 24 Jun 2019 (see s. 2(a)); Act other than Pt. 1, s. 8(1)(b) and Pt. 3 Div. 2 and 3: 24 Jul 2019 (see s. 2(c))
+Infrastructure Western Australia Act 2019 (other than Pt. 3 Div. 2) | 13 of 2019 | 24 Jun 2019 | Pt. 1: 24 Jun 2019 (see s. 2(a)); Act other than Pt. 1, s. 8(1)(b) and Pt. 3 Div. 2 and 3: 24 Jul 2019 (see s. 2(c)); s. 8(1)(b) and Pt. 3 Div. 3: 1 Jan 2022 (see s. 2(b) and SL 2021/145 cl. 2(a);
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Infrastructure Western Australia Act 2019 s. 8(1)(b) and Pt. 3 Div. 2 and 3 | 13 of 2019 | 24 Jun 2019 | s. 8(1)(b) and Pt. 3 Div. 3: 1 Jan 2022 (see s. 2(b) and SL 2021/145 cl. 2(a)); Pt. 3 Div. 2: 1 Jan 2023 (see s. 2(b) and SL 2021/145 cl. 2(b))
+Infrastructure Western Australia Act 2019 Pt. 3 Div. 2 | 13 of 2019 | 24 Jun 2019 | 1 Jan 2023 (see s. 2(b) and SL 2021/145 cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,6 +26,7 @@ government trading enterprise3
 information61(1)
 infrastructure3
 Infrastructure Australia3
+investment decision19(3)
 major infrastructure proposal3
 misconduct3
 private sensitive information67(1)
