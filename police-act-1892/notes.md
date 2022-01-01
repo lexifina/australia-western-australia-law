@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Police Act 1892 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Police Act 1892 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Police Act 1892 | 1892 (55 Vict. No. 27) | 18 Mar 1892 | 1 Apr 1892 (see s. 142)
@@ -124,10 +124,7 @@ Police Amendment Act 2011 | 12 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (se
 Industrial Relations Amendment Act 2018 s. 70 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Police Amendment (Medical Retirement) Act 2019 Pt. 2 | 19 of 2019 | 15 Aug 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4133)
 Family Violence Legislation Reform Act 2020 Pt. 7 | 30 of 2020 | 9 Jul 2020 | 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(v))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Police Amendment (Compensation Scheme) Act 2021 Pt. 2 | 26 of 2021 | 13 Dec 2021 | To be proclaimed (see s. 2(b))
+Police Amendment (Compensation Scheme) Act 2021 Pt. 2 | 26 of 2021 | 13 Dec 2021 | 1 Jan 2022 (see s. 2(b) and SL 2021/222 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 14 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Footnote no longer applicable.
@@ -158,8 +155,11 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Account39A
+AIDS33ZY(1)
 APLO38A
 appellant33K, 33ZB
+approved medical specialist33ZS(1)
+assessor33ZZ(1) and (5)
 Board33A
 Chairman33A
 charitable organisation39E
@@ -168,33 +168,52 @@ close relative138(5)
 commencement day33Z(1), 33ZQ(1), 39N(1)
 Commission33ZL
 Commissioner33A, 34, 38A, 38F
+compensable medical condition33ZS(1)
 contract39A
+degree of permanent impairment33ZW(1)
 Department39A, 39E, 138AA(1)
 designated person135(1)
+disease33ZS(1)
 disputed decision33ZB, 33ZI(2)
+entitlement day33ZS(1)
+entitlement financial year33ZS(1)
 event39E
 family violence135(1)
 government-sponsored event39E
-industrial Commissioner33K, 33ZB
+industrial Commissioner33K, 33ZB, 33ZZA(1)
+IR Act33ZS(1)
+IR regulations33ZS(1)
+lodgment period33ZZB(2) and (5)
+loss of hearing33ZX(1)
 major event39E, 39F
-medical practitioner33ZB
+medical condition33ZS(1)
+medically retired member33ZS(1)
 medically unfit33ZB
-member33A, 33K, 33ZB
+medical practitioner33ZB
+member33A, 33K, 33ZB, 33ZS(1)
 member of the Police Force136(1)
+member’s prescribed amount33ZV(2)
 new evidence33R(11), 33ZK(1)
+noise induced hearing loss33ZX(1)
 police auxiliary officer38F
 police clothing16(1)
-Police Commissioner33ZB
+Police Commissioner33ZB, 33ZS(1)
 police officer34, 38A, 38F
 police property39A
 police services39E
+prescribed amount33ZS(1) and (2)
+qualifies for compensation33ZZ(1) and (7)
 removal action33K
 removal from office33K
 retire33ZB
-retirement day33ZB
+retirement day33ZB, 33ZS(1)
 Senior Commissioner33K, 33ZB
 special constable34
 the claimant138(1)
-the defendant138(1), 138(1)
+the defendant138(1)
 Treasury39A
-WAIRC33K, 33ZB
+Tribunal33ZS(1), 33ZZA(2)
+vocational rehabilitation amount33ZV(4)
+WAIRC33K, 33ZB, 33ZZA(1)
+WC&IM Act33ZS(1)
+WorkCover Guides33ZS(1)
