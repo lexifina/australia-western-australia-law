@@ -1,1 +1,1 @@
-Environmental Protection (Plastic Bags) Regulations 2018
+Environmental Protection (Prohibited Plastics) Regulations 2018

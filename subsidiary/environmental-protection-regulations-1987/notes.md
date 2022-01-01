@@ -82,14 +82,15 @@ Environmental Protection Amendment Regulations 2020 | SL 2020/134 14 Aug 2020 | 
 Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Environmental Protection Regulations Amendment (Publication and Confidentiality) Regulations 2021 Pt. 3 | SL 2021/178 22 Oct 2021 | 23 Oct 2021 (see r. 2(c) and SL 2021/176 cl. 2)
 Environmental Protection Amendment Regulations (No. 2) 2021 | SL 2021/190 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
+Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2021 Pt. 2 Div. 2 | SL 2021/215 17 Dec 2021 | 1 Jan 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2021 Pt. 2 Div. 2 and Pt. 3 Div. 2 | SL 2021/215 17 Dec 2021 | Pt. 2 Div. 2: 1 Jan 2022 (see r. 2(b)); Pt. 3 Div. 2: 1 Jul 2022 (see r. 2(c))
+Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2021 Pt. 3 Div. 2 | SL 2021/215 17 Dec 2021 | 1 Jul 2022 (see r. 2(c))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
-Proclaimed 1 July 1988 by Gazette 26 June 1998 p. 3369.
+Proclaimed 1 July 1998 by Gazette 26 June 1998 p. 3369.
 At the time of this compilation section 110H of the Act provides for the establishment of an account called the Waste Management and Recycling Account.
 Expired 30 June 2012.
 The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
