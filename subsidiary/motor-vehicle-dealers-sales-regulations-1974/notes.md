@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Dealers (Sales) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Motor Vehicle Dealers (Sales) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Motor Vehicle Dealers (Sales) Regulations 1974 | 14 Jun 1974 p. 1926-36 | 12 Aug 1974
@@ -28,11 +28,7 @@ Motor Vehicle Dealers (Sales) Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p
 Motor Vehicle Dealers (Sales) Amendment Regulations 2014 | 8 Jan 2015 p. 89 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Motor Vehicle Dealers (Sales) Amendment Regulations 2015 | 30 Jun 2015 p. 2330-1 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Licensing Provisions Regulations Amendment Regulations 2017 Pt. 5 | 27 Jun 2017 p. 3408-16 | 1 Jul 2017 (see r. 2(b))
-Commerce Regulations Amendment (Motor Vehicle Dealers and Repairers) Regulations 2021 Pt. 4 (other than r. 22) | SL 2021/164 24 Sep 2021 | 25 Sep 2021 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Commerce Regulations Amendment (Motor Vehicle Dealers and Repairers) Regulations 2021 r. 22 | SL 2021/164 24 Sep 2021 | 1 Jan 2022 (see r. 2(b))
+Commerce Regulations Amendment (Motor Vehicle Dealers and Repairers) Regulations 2021 Pt. 4 | SL 2021/164 24 Sep 2021 | Pt. 4 (other than r. 22): 25 Sep 2021 (see r. 2(c)); r. 22: 1 Jan 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
