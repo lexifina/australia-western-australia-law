@@ -8,6 +8,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 14 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 13 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 8 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Royalty Information) Regulations 2022 Pt. 3 | SL 2022/1 14 Jan 2022 | 15 Jan 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -18,6 +19,9 @@ approved well management plan4
 basic information81
 commencement day99
 daily well activity report72(1)
+Department of Finance94A(1)
+Department of Finance worker94A(1)
+Director General of Finance94A(1)
 disclosable information81
 discovery assessment report36(1)
 documentary information81
@@ -41,6 +45,7 @@ licence40
 licence area40
 major change50(1)
 mining sample81
+Minister for Finance94A(1)
 monthly production report79(1)
 non-exclusive data81
 open information about a survey81
@@ -51,6 +56,7 @@ permitted period61(1)
 processed survey data77(1)
 produced formation material4
 requirement4
+royalties activities94A(1)
 seismic extracted data grid81
 significant event62(1)
 survey4
@@ -64,8 +70,8 @@ title holder4
 transitional period99
 treatment material4
 underground formation4
-week of survey75(1)
 weekly survey report75(1)
+week of survey75(1)
 well activity4
 well completion data74(1)
 well completion report74(1)

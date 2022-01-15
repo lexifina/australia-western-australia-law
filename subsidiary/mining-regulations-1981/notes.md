@@ -155,6 +155,7 @@ Mining Amendment Regulations (No. 4) 2020 | SL 2020/117 17 Jul 2020 | r. 1 and 2
 Mining Amendment Regulations (No. 2) 2020 | SL 2020/119 17 Jul 2020 | r. 1 and 2: 17 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2020 (see r. 2(b))
 Mining Amendment Regulations (No. 2) 2021 | SL 2021/43 23 Apr 2021 | r. 1 and 2: 23 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Apr 2021 (see r. 2(b) and SL 2021/44 r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 8 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Royalty Information) Regulations 2022 Pt. 2 | SL 2022/1 14 Jan 2022 | 15 Jan 2022 (see r. 2(b))
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -200,8 +201,11 @@ date of application2
 date of issue4A
 decreasing adjustment85AA(5)
 deliverer86AA(11)
+Department of Finance96CB(1)
+Department of Finance worker96CB(1)
 determination137(1)
 Director116, 120P
+Director General of Finance96CB(1)
 Director Operations, Resource and Environmental Compliance Division2
 document59A(1)
 Dry Freight Wire86AD(1)
@@ -248,6 +252,7 @@ mining lease96CA(1)
 mining survey116
 mining tenement86AA(11)
 mining tenement document59B(1)
+Minister for Finance96CB(1)
 net GST85AA(5)
 net input tax credit85AA(4)
 nickel by-product85(1)
@@ -284,9 +289,11 @@ release96(1), 96CA(1)
 release date23(2)
 relevant depth101A(1)
 relevant exploration licence4A
+relevant information96CB(1)
 relevant operations report58A(1)
 relevant period86(2a), 96CA(1)
 reversion licence63A(1)
+royalties activities96CB(1)
 royalty ore86AD(4)
 royalty return2
 royalty value85(1)
