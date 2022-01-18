@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Services (Water Corporations Charges) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Water Services (Water Corporations Charges) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Water Services (Water Corporations Charges) Regulations 2014 | 25 Jun 2014 p. 2155-298 | r. 1 and 2: 25 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
@@ -21,6 +21,10 @@ Water Regulations Amendment (Community Titles) Regulations 2021 Pt. 3 | SL 2021/
 Water Services Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/80 18 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Water Services (Water Corporations Charges) Amendment Regulations 2021 | SL 2021/128 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Water Services (Water Corporations Charges) Amendment Regulations (No. 2) 2021 | SL 2021/144 13 Aug 2021 | r. 1 and 2: 13 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2021 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Water Services (Water Corporations Charges) Amendment Regulations 2022 r. 3 and 4 | SL 2022/2 18 Jan 2022 | Operative on commencement of Arts and Culture Trust Act 2021 s. 73(1) (see r. 2(b))
 Other notes
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.
 The Water Agencies (Charges) By-laws 1987 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) on 1 Jul 2014.
