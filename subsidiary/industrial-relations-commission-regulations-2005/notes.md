@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Industrial Relations Commission Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Industrial Relations Commission Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Industrial Relations Commission Regulations 2005 | 12 Aug 2005 p. 3685-812 | 1 Sep 2005 (see r. 2)
 Industrial Relations Commission Amendment Regulations 2006 | 28 Apr 2006 p. 1650-6 | 28 Apr 2006
 Industrial Relations Commission Amendment Regulations 2007 | 27 Mar 2007 p. 1405-6 | 28 Mar 2007 (see r. 2 and Gazette 27 Mar 2007 p. 1405)
@@ -28,6 +28,8 @@ Industrial Relations Commission Amendment Regulations (No. 3) 2018 | 19 Dec 2018
 Industrial Relations Commission Amendment Regulations 2019 | 5 Mar 2019 p. 585-641 | r. 1 and 2: 5 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2019 (see r. 2(b))
 Reprint 4: The Industrial Relations Commission Regulations 2005 as at 19 Jul 2019 (includes amendments listed above)
 Industrial Relations Commission Amendment Regulations (No. 2) 2019 | 29 Nov 2019 p. 4143-7 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b) and Gazette 29 Nov 2019 p. 4133)
+Industrial Relations Commission Amendment Regulations (No. 2) 2022 | SL 2022/6 21 Jan 2022 | r. 1 and 2: 21 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2022 (see r. 2(b))
+Other notes
 Although the commencement date of 1 Jul 2008 was specified in the Industrial Relations Commission Amendment Regulations (No. 2) 2008, because of the Interpretation Act 1984 s. 25(3) those regulations came into operation on 1 Aug 2008 when the Owner-Drivers (Contracts and Disputes) Act 2007 Sch. 3 cl. 1 came into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -42,6 +44,7 @@ Board102A(1), 105, 109
 chief executive officer89A, 89H
 Commission3
 Commissioner of Police89, 94A
+conciliation document94M(6)
 custodial officer89H
 decision65(3)
 discovery20(1)
@@ -56,7 +59,7 @@ inspection20(1)
 interested person86(1)
 lodged electronically3
 member of a constituent authority120(8)
-modified form99(1), 99E(1)
+modified form94N(1), 99(1), 99E(1)
 notice to admit23(1)
 person to be joined18(1)
 police officer89, 94A
@@ -67,7 +70,8 @@ Registrar3
 removal action89A, 89H, 89
 reviewable decision102A(1)
 salaried position109
+service direction94M(6)
 substantive proceedings18(1)
-Tribunal95(1), 99A
+Tribunal94H, 95(1), 99A
 warrant63(1)
 writing3
