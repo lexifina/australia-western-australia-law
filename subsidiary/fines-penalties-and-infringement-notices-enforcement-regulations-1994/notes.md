@@ -85,6 +85,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 8
 Attorney General Regulations Amendment (Shipping and Pilotage) Regulations 2021 Pt. 3 | SL 2021/135 30 Jul 2021 | 31 Jul 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Sunday Entertainments) Regulations 2021 Pt. 3 | SL 2021/136 30 Jul 2021 | 31 Jul 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Residential Parks) Regulations 2021 Pt. 3 | SL 2021/174 8 Oct 2021 | 9 Oct 2021 (see r. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2022 | SL 2022/7 28 Jan 2022 | r. 1 and 2: 28 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jan 2022 (see r. 2(b))
 Other notes
 Formerly referred to as the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996, the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
