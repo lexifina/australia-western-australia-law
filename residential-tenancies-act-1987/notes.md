@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Residential Tenancies Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -40,11 +40,7 @@ Compilation table
  | Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 2 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
  | Consumer Protection Legislation Amendment Act 2019 Pt. 9 | 25 of 2019 | 24 Oct 2019 | s. 67: 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4101); Pt. 9 other than s. 67: 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
  | Residential Tenancies (COVID-19 Response) Act 2020 Pt. 8 | 18 of 2020 | 23 Apr 2020 | 30 Mar 2020 (see s. 2(d))
-Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 3 (other than s. 89) | 28 of 2020 | 9 Jul 2020 | 10 Jul 2020 (see s. 2(1)(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Residential Parks (Long- stay Tenants) Amendment Act 2020 s. 89 | 28 of 2020 | 9 Jul 2020 | 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
+Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 3 | 28 of 2020 | 9 Jul 2020 | s. 88: 10 Jul 2020 (see s. 2(1)(b)); s. 89: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
