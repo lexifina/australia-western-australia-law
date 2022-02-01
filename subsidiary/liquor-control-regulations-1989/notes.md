@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Liquor Control Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -153,9 +153,6 @@ Liquor Control (Parnpajinya Restricted Area) Regulations 2020 Pt. 5 | SL 2020/81
 Liquor Control (Kadjina Restricted Area) Regulations 2020 Pt. 5 | SL 2020/218 6 Nov 2020 | 7 Nov 2020 (see r. 2(b))
 Liquor Control Amendment Regulations 2021 | SL 2021/94 22 Jun 2021 | r. 1 and 2: 22 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2021 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 3) 2021 | SL 2021/163 17 Sep 2021 | r. 1 and 2: 17 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Sep 2021 (see r. 2(b) and SL 2021/162 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Liquor Control Amendment Regulations (No. 2) 2021 | SL 2021/207 3 Dec 2021 | 1 Feb 2022 (see r. 2 and SL 2021/198 cl. 2)
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -204,6 +201,7 @@ judge8G(1)
 liqueur chocolate4AE(1)
 liquor competition8G(1)
 liquor producer8D(1)
+liquor restricted premises3A(1)
 live entertainment8A(1)
 manager’s approval3A(1)
 maximum number of patrons3A(1)
@@ -223,13 +221,14 @@ producers’ association8D(1)
 purchase5(2)
 qualifying intra-State voyage8(3)
 qualifying person8(3)
-relevant body corporate5B(2), (3) and (4)
+relevant body corporate5B(2), 5B(3), 5B(4)
 relevant lot11(1)
 relevant premises11(1)
 renewal application14ADD(1)
-resident8(1) and (2)
+resident8(1), 8(2)
 residential care8(2)
 responsible adult8A(1), 8F(1)
+restricted area3A(1)
 restricted material8A(1)
 retail sale4A(2)
 retirement village8(2)
