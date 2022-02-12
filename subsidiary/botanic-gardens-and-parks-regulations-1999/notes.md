@@ -1,10 +1,11 @@
 Notes
-This is a compilation of the Botanic Gardens and Parks Regulations 1999 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Botanic Gardens and Parks Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Botanic Gardens and Parks Regulations 1999 | 30 Jun 1999 p. 2881-903 | 1 Jul 1999 (see r. 2 and Gazette 30 Jun 1999 p. 2879)
 Botanic Gardens and Parks Amendment Regulations 2014 | 8 Jan 2015 p. 77-9 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Botanic Gardens and Parks Amendment Regulations 2016 | 9 Sep 2016 p. 3872-82 | r. 1 and 2: 9 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2016 (see r. 2(b))
+Botanic Gardens and Parks Amendment Regulations 2022 | 11 Feb 2022 SL 2022/13 | r. 1 and 2: 11 Feb 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
