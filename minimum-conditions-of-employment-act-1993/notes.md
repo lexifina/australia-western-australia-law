@@ -25,10 +25,11 @@ Short title | Number and year | Assent | Commencement
  | Western Australia Day (Renaming) Act 2012 Pt. 2 Div. 2 | 3 of 2012 | 10 Apr 2012 | 11 Apr 2012 (see s. 2(b))
  | Reprint 5: The Minimum Conditions of Employment Act 1993 as at 6 Jul 2012 (includes amendments listed above)
  | Statutes (Repeals) Act 2016 Pt. 3 Div. 3 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
+ | Industrial Relations Legislation Amendment Act 2021 Pt. 5 (other than s. 100-119 and 121) | 30 of 2021 | 22 Dec 2021 | 12 Feb 2022 (see s. 2(1)(b) and SL 2022/10 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Industrial Relations Legislation Amendment Act 2021 Pt. 5 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b))
+Industrial Relations Legislation Amendment Act 2021 s. 100-119 and 121 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b))
 Other notes
 Expired 14 September 2003.
 Deleted by the Industrial Relations Amendment Act 1993 s. 18(1)(c).
