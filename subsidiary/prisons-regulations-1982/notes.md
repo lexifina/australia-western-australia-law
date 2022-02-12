@@ -45,6 +45,7 @@ Corrective Services Regulations Amendment (Associations Incorporation) Regulatio
 Corrective Services Regulations Amendment (Public Health) Regulations 2016 Pt. 2 | 10 Jan 2017 p. 185-9 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Corrective Services Regulations Amendment Regulations 2018 Pt. 3 | 13 Nov 2018 p. 4433-5 | 1 Dec 2018 (see r. 2(b))
 Prisons Amendment Regulations 2020 | SL 2020/251 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2020 (see r. 2(b) and SL 2020/243 cl. 2)
+Prisons Amendment Regulations 2022 | SL 2022/12 11 Feb 2022 | r. 1 and 2: 11 Feb 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2022 (see r. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, these Regulations must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 17 as if these Regulations had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
