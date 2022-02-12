@@ -51,6 +51,7 @@ Criminal Procedure Amendment Regulations 2021 | SL 2021/149 27 Aug 2021 | r. 1 a
 Criminal Procedure Amendment Regulations (No. 2) 2021 | SL 2021/154 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Residential Parks) Regulations 2021 Pt. 2 | SL 2021/174 8 Oct 2021 | 9 Oct 2021 (see r. 2(b))
 Criminal Procedure Amendment Regulations 2022 | SL 2022/8 28 Jan 2022 | r. 1 and 2: 28 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jan 2022 (see r. 2(b))
+Attorney General Regulations Amendment (Security of Payment) Regulations 2022 Pt. 2 | SL 2022/14 11 Feb 2022 | 12 Feb 2022 (see r. 2(b))
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
