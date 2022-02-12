@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public and Bank Holidays Act 1972 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Public and Bank Holidays Act 1972 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public and Bank Holidays Act 1972 | 63 of 1972 | 31 Oct 1972 | 22 Jun 1973 (see s. 2 and Gazette 22 Jun 1973 p. 2367)
@@ -17,7 +17,4 @@ Reprint 2: The Public and Bank Holidays Act 1972 as at 18 Apr 2008 (includes ame
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 103 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Western Australia Day (Renaming) Act 2012 Pt. 2 Div. 1 | 3 of 2012 | 10 Apr 2012 | 11 Apr 2012 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Industrial Relations Legislation Amendment Act 2021 Pt. 6 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b))
+Industrial Relations Legislation Amendment Act 2021 Pt. 6 | 30 of 2021 | 22 Dec 2021 | 12 Feb 2022 (see s. 2(1)(b) and SL 2022/10 cl. 2)
