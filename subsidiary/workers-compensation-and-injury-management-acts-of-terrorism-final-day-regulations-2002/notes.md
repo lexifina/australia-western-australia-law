@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management (Acts of Terrorism) (Final Day) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Workers’ Compensation and Injury Management (Acts of Terrorism) (Final Day) Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Workers’ Compensation and Rehabilitation (Acts of Terrorism) (Final Day) Regulations 2002 | 3 Dec 2002 p. 5714 | 3 Dec 2002
 Workers’ Compensation and Rehabilitation (Acts of Terrorism) (Final Day) Amendment Regulations 2003 | 12 Sep 2003 p. 4082-3 | 12 Sep 2003
 Workers’ Compensation and Rehabilitation (Acts of Terrorism) (Final Day) Amendment Regulations 2005 | 25 Nov 2005 p. 5691 | 25 Nov 2005
@@ -11,5 +11,7 @@ Workers’ Compensation and Injury Management (Acts of Terrorism) (Final Day) Am
 Workers’ Compensation and Injury Management (Acts of Terrorism) (Final Day) Amendment Regulations 2013 | 17 Jan 2014 p. 56 | r. 1 and 2: 17 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jan 2014 (see r. 2(b))
 Workers’ Compensation and Injury Management (Acts of Terrorism) (Final Day) Amendment Regulations 2016 | 14 Oct 2016 p. 4643-4 | r. 1 and 2: 14 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Oct 2016 (see r. 2(b))
 Workers’ Compensation and Injury Management (Acts of Terrorism) (Final Day) Amendment Regulations 2019 | 22 Feb 2019 p. 394 | r. 1 and 2: 22 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Feb 2019 (see r. 2(b))
+Workers' Compensation and Injury Management (Acts of Terrorism) (Final Day) Amendment Regulations 2022 | SL 2022/11 11 Feb 2022 | r. 1 and 2: 11 Feb 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2022 (see r. 2(b))
+Other notes
 Formerly referred to the Workers’ Compensation and Rehabilitation (Acts of Terrorism) Act 2001 the short title of which was changed to the Workers’ Compensation and Injury Management (Acts of Terrorism) Act 2001 by the Workers’ Compensation Reform Act 2004 s. 171(2).
 Now known as the Workers’ Compensation and Injury Management (Acts of Terrorism) (Final Day) Regulations 2002; citation changed (see note under r. 1).
