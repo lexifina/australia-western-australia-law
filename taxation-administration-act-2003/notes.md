@@ -32,6 +32,7 @@ Reprint 5: The Taxation Administration Act 2003 as at 22 Apr 2016 (includes amen
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 8 | 26 of 2018 | 30 Oct 2018 | 1 Apr 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 4 | 37 of 2018 | 12 Dec 2018 | 1 Jan 2019 (see s. 2(c))
 Taxation Administration Amendment Act 2019 Pt. 2 | 11 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b))
+Finance Legislation Amendment (Emergency Relief) Act 2022 Pt. 2 | 1 of 2022 | 21 Feb 2022 | 22 Feb 2022 (see s. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 1.
 If a modification is to:
@@ -68,84 +69,91 @@ The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-addressGl.
+addressGl. cl. 1
+affected return135E(1)
+affected tax135E(1)
 amending Bill129(1)
-appointed representativeGl.
-approvedGl.
-assessmentGl.
-assessment noticeGl.
+appointed representativeGl. cl. 1
+approvedGl. cl. 1
+assessmentGl. cl. 1
+assessment noticeGl. cl. 1
 before129(2)
-beneficial body determinationGl.
-chargeGl.
-commencement day136(1), 137(1)
-CommissionerGl.
-completeGl.
+beneficial body determinationGl. cl. 1
+chargeGl. cl. 1
+commencement day135F(1), 137(1), 138(1)
+CommissionerGl. cl. 1
+Commissioner’s websiteGl. cl. 1 completeGl. cl. 1
 compromise agreement20A(1)
-compromise assessmentGl.
-corresponding CommissionerGl.
+compromise assessmentGl. cl. 1
+corresponding CommissionerGl. cl. 1
 costs of valuation24(7)
-dateGl.
-decisionGl.
+dateGl. cl. 1
+decisionGl. cl. 1
 determination notice129(1)
-directly reviewable decisionGl.
+directly reviewable decisionGl. cl. 1
 dishonoured76A(3)
-documentGl.
-due dateGl.
-endorseGl.
-garnishee65(1), Gl.
-groupGl.
-identity cardGl.
-instrument82(1), Gl.
-interim assessment16A(1), Gl.
-investigation purposesGl.
-investigatorGl.
+documentGl. cl. 1
+due dateGl. cl. 1
+eligible person135E(1)
+emergency declaration135A
+emergency period135A(6)
+endorseGl. cl. 1
+garnishee65(1), Gl. cl. 1
+groupGl. cl. 1
+identity cardGl. cl. 1
+instrument82(1), Gl. cl. 1
+interim assessment16A(1), Gl. cl. 1
+investigation purposesGl. cl. 1
+investigatorGl. cl. 1
 land76A(1)
 landholder77A(1)
 landholder duty77A(1)
 linked entity77A(1)
 lodge76A(1)
 mining tenement76A(1)
-objectionGl.
-official assessmentGl.
-official documentGl.
-original assessmentGl.
+objectionGl. cl. 1
+official assessmentGl. cl. 1
+official documentGl. cl. 1
+original assessmentGl. cl. 1
 original notice132(3)
-OSR websiteGl.
-penalty taxGl.
-personGl.
-premisesGl.
-previous assessmentGl.
-primary liabilityGl.
-qualified valuerGl.
+penalty taxGl. cl. 1
+personGl. cl. 1
+premisesGl. cl. 1
+previous assessmentGl. cl. 1
+primary liabilityGl. cl. 1
+qualified valuerGl. cl. 1
 real property76A(1)
-reassessmentGl.
+reassessmentGl. cl. 1
 reassessment period39(3), 43(4A), 54A(3)
-recognised jurisdictionGl.
-recognised revenue lawGl.
-recordGl.
+recognised jurisdictionGl. cl. 1
+recognised revenue lawGl. cl. 1
+recordGl. cl. 1
 register76A(1)
 Registrar82(1)
-Registrar of TitlesGl.
+Registrar of TitlesGl. cl. 1
+relevant emergency declaration135A(3)
 relevant land Act76A(1)
-relevant materialGl.
+relevant materialGl. cl. 1
 remaining transfer duty77A(2A)
-responsible partyGl.
-review proceedingsGl.
-self-assessmentGl.
-special tax return arrangementGl.
-StateGl.
+responsible partyGl. cl. 1
+review proceedingsGl. cl. 1
+self-assessmentGl. cl. 1
+special tax return arrangementGl. cl. 1
+StateGl. cl. 1
 statutory administrator of a taxpayer’s assets64(3)
-taxGl.
-tax liabilityGl.
-tax payment arrangementGl.
-tax recordGl.
-tax threshold129(1)
-taxation Act129(1), Gl.
+taxGl. cl. 1
+taxation Act129(1), Gl. cl. 1
 taxation matter7(3)
-taxpayerGl.
+tax liabilityGl. cl. 1
+taxpayerGl. cl. 1
+tax payment arrangementGl. cl. 1
+tax recordGl. cl. 1
+tax relief declaration135A(2), Gl. cl. 1
+tax relief measure135(1), Gl. cl. 1
+tax threshold129(1)
 TLA land76A(1)
 transaction record77A(1)
 transfer duty77A(1)
 transfer duty interim assessment77A(1)
 unaffected amount133(2)
-vehicleGl.
+vehicleGl. cl. 1
