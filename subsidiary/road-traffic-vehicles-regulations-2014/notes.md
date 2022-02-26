@@ -35,6 +35,7 @@ Road Traffic Regulations Amendment Regulations 2021 Pt. 3 | SL 2021/93 22 Jun 20
 Road Traffic (Vehicles) Amendment Regulations (No. 7) 2021 | SL 2021/81 22 Jun 2021 | r. 1 and 2: 22 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Transport Regulations Amendment (Electric Rideable Devices) Regulations 2021 Pt. 3 | SL 2021/199 3 Dec 2021 | 4 Dec 2021 (see r. 2(b) and SL 2021/200 r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations 2021 | SL 2021/206 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations 2022 | SL 2022/16 25 Feb 2022 | r. 1 and 2: 25 Feb 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2022 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -224,6 +225,7 @@ name plate109
 nearer side of the vehicle3
 new owner51(1)
 notifiable146
+NSW WOHVR158A(2)
 number274(1)
 obscuring device120(1)
 obscuring device action120(1)
@@ -266,6 +268,7 @@ reduced charge84A(1)
 reflective plate109
 region86
 registered training provider454E(1)
+relevant information158A(1)
 renewal application454A
 renewal period30(1)
 repair146
