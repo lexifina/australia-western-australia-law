@@ -57,6 +57,11 @@ Date of offence:
 Offence details:
 Family orders [If yes, see the Details of family order Annexure] | Are there any current family orders relating to the respondent’s rights in relation to children who may be affected by a restraining order? | r Yes r No r Unknown
 Are there any current Family Court proceedings in which such orders are being sought? | r Yes r No r Unknown
+Information relating to children | Is the person seeking to be protected a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
+If yes, has this application been made with the written consent of a person who, under the relevant child welfare law, has responsibility for the control or care of the child? | r Yes r No r Unknown
+Is the respondent a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
+Is the respondent under 16 years of age? | r Yes r No r Unknown
+If the respondent is under 16 years of age, is the person seeking to be protected any of the following: Ÿa parent or guardian of the respondent; Ÿa person responsible for the day to day care of the respondent; Ÿa person with whom the respondent habitually resides? | r Yes r No
 Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
 Does the respondent have access to a firearm at work? | r Yes r No r Unknown
 Explosives | Does the respondent have explosives or an explosives licence? | r Yes r No r Unknown
@@ -67,7 +72,7 @@ Conference | Do you agree to the listing of a conference?* *[Applies only if con
 Applicant [Not essential if lodged by means of the ECMS or if applicant is a police officer] | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
 Approved user to certify applicant’s declaration [If applicable] | I [Insert name of approved user] certify that I have read out to the applicant the information the applicant provided to me that forms the evidence in support of this application, and the applicant has declared that the information is true.
-[Form 1 inserted: SL 2020/141 r. 10.]
+[Form 1 inserted: SL 2020/141 r. 10; amended: SL 2022/15 r. 4(1).]
 Form 2 — Family violence restraining order
 Part A — Family violence restraining order
  | Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Family violence restraining order |  | Number:
@@ -315,6 +320,11 @@ Date of offence:
 Offence details:
 Family orders [If yes, see the Details of family order Annexure] | Are there any current family orders relating to the respondent’s rights in relation to children who may be affected by a restraining order? | r Yes r No r Unknown
 Are there any current Family Court proceedings in which such orders are being sought? | r Yes r No r Unknown
+Information relating to children | Is the person seeking to be protected a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
+If yes, has this application been made with the written consent of a person who, under the relevant child welfare law, has responsibility for the control or care of the child? | r Yes r No r Unknown
+Is the respondent a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
+Is the respondent under 16 years of age? | r Yes r No r Unknown
+If the respondent is under 16 years of age, is the person seeking to be protected any of the following: Ÿa parent or guardian of the respondent; Ÿa person responsible for the day to day care of the respondent; Ÿa person with whom the respondent habitually resides? | r Yes r No
 Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
 Does the respondent have access to a firearm at work? | r Yes r No r Unknown
 Explosives | Does the respondent have explosives or an explosives licence? | r Yes r No r Unknown
@@ -324,7 +334,7 @@ First hearing | Do you want the respondent to be present at the first hearing? |
 Applicant [Not essential if lodged by means of the ECMS or if applicant is a police officer] | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
 Approved user to certify applicant’s declaration [If applicable] | I [Insert name of approved user] certify that I have read out to the applicant the information the applicant provided to me that forms the evidence in support of this application, and the applicant has declared that the information is true.
-[Form 5 inserted: SL 2020/141 r. 14.]
+[Form 5 inserted: SL 2020/141 r. 14; amended: SL 2022/15 r. 4(1).]
 Form 6 — Violence restraining order
 Part A — Violence restraining order
 Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Violence restraining order |  | Number:
@@ -442,33 +452,36 @@ A violence restraining order has been made to protect you under the Restraining 
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
 [Form 7 inserted: Gazette 20 Jun 2017 p. 3022-4; amended: Gazette 24 Nov 2017 p. 5675; SL 2020/141 r. 16 and 23.]
 Form 8 — Application for misconduct restraining order
-Restraining Orders Act 1997 s. 38(2) Misconduct restraining order Application |  | Number:
-Jurisdiction:
-Location:
-Applicant [If not the person seeking to be protected] | Family name: | Date of birth:
-Other names:
-Address:street: suburb:postcode:
-Phone nos.:work:home: mobile:
-Person seeking to be protected | Family name: | Date of birth:
-Other names:
-Address:street:
-suburb:postcode:
-Phone nos.:work:home: mobile:
-Respondent [Fill in as many details as you can] | Family name: | Date of birth:
-Other names:
-Homestreet: address:suburb:postcode:
-Workstreet: address:suburb:postcode:
-Phone nos.:work:home: mobile:
-Grounds for application | Give details of the respondent’s behaviour.
-Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
-Does the respondent have access to a firearm at work? | r Yes r No r Unknown
-Explosives | Does the respondent have explosives or an explosives licence? r Yesr Nor Unknown
-Does the respondent have access to explosives at work? r Yesr Nor Unknown
-Applicant | Signature: | Date:
-Hearing [To be filled in by the court] | Court: | Date: | Time:
-Registrar:
-Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ at _______ am/pm at _____________________ I notified the applicant of the hearing date. Registrar:
-[Form 8 inserted: Gazette 20 Jun 2017 p. 3025; amended: SL 2020/141 r. 17.]
+ | Restraining Orders Act 1997 s. 38(2) Misconduct restraining order Application |  | Number:
+ | Jurisdiction:
+ | Location:
+ | Applicant [If not the person seeking to be protected] | Family name: | Date of birth:
+ | Other names:
+ | Address:street: suburb:postcode:
+ | Phone nos.:work:home: mobile:
+ | Person seeking to be protected | Family name: | Date of birth:
+ | Other names:
+ | Address:street:
+ | suburb:postcode:
+ | Phone nos.:work:home: mobile:
+ | Respondent [Fill in as many details as you can] | Family name: | Date of birth:
+ | Other names:
+ | Homestreet: address:suburb:postcode:
+ | Workstreet: address:suburb:postcode:
+ | Phone nos.:work:home: mobile:
+ | Grounds for application | Give details of the respondent’s behaviour.
+Information relating to children | Is the person seeking to be protected a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
+If yes, has this application been made with the written consent of a person who, under the relevant child welfare law, has responsibility for the control or care of the child? | r Yes r No r Unknown
+Is the respondent a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
+ | Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
+ | Does the respondent have access to a firearm at work? | r Yes r No r Unknown
+ | Explosives | Does the respondent have explosives or an explosives licence? r Yesr Nor Unknown
+ | Does the respondent have access to explosives at work? r Yesr Nor Unknown
+ | Applicant | Signature: | Date:
+ | Hearing [To be filled in by the court] | Court: | Date: | Time:
+ | Registrar:
+ | Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ at _______ am/pm at _____________________ I notified the applicant of the hearing date. Registrar:
+[Form 8 inserted: Gazette 20 Jun 2017 p. 3025; amended: SL 2020/141 r. 17; SL 2022/15 r. 4(2).]
 Form 9 — Misconduct restraining order
 Part A — Misconduct restraining order
 Restraining Orders Act 1997 s. 43, 49 and 63 Misconduct restraining order |  | Number:
@@ -644,6 +657,11 @@ The respondentr isr is not present r isr is not being detained by a police offic
 Family orders | Are there any current family orders relating to the respondent’s rights in relation to children who may be affected by a restraining order? r Yesr Nor Unknown
 Are there any current Family Court proceedings in which such orders are being sought? r Yesr Nor Unknown
 Details of family order or proceedings
+Information relating to children | Is the person seeking to be protected a child who is under the control or in the care of a person under a child welfare law? r Yesr Nor Unknown
+If yes, has this application been made with the written consent of a person who, under the relevant child welfare law, has responsibility for the control or care of the child? r Yesr Nor Unknown
+Is the respondent a child who is under the control or in the care of a person under a child welfare law? r Yesr Nor Unknown
+Is the respondent under 16 years of age? r Yesr Nor Unknown
+If the respondent is under 16 years of age, is the person seeking to be protected any of the following: Ÿa parent or guardian of the respondent; Ÿa person responsible for the day to day care of the respondent; Ÿa person with whom the respondent habitually resides? | r Yes r No
 Conference [FVRO only] | Does the applicant/respondent agree to the listing of a conference?* *[Applies only if conferences are available at this court.] | r Yes r No
 Firearms | Does the respondent have a firearm or a firearms licence? r Yesr Nor Unknown
 Does the respondent have access to a firearm at work? r Yesr Nor Unknown
@@ -656,7 +674,7 @@ Magistrate | Name:
 Court where Magistrate is based:
 Magistrate’s location when hearing application:
 Signature: | Date: | Time:
-[Form 11 inserted: Gazette 20 Jun 2017 p. 3039-40; amended: SL 2020/141 r. 19.]
+[Form 11 inserted: Gazette 20 Jun 2017 p. 3039-40; amended: SL 2020/141 r. 19; SL 2022/15 r. 4(3).]
 Form 12 — Application to vary or cancel a restraining order
 Part A — Application to vary or cancel a restraining order
 Restraining Orders Act 1997 s. 45 Restraining order Application to vary or cancel |  | Number:
