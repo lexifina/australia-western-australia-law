@@ -48,6 +48,7 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 1 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 3 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
+Courts Legislation Amendment (Magistrates) Act 2022 Pt. 2 | 2 of 2022 | 28 Feb 2022 | 1 Mar 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -61,11 +62,15 @@ Defined terms
 Defined termProvision(s)
 adult19C(1)
 CEO (young offenders)3(1)
+Chief Magistrate3(1)
 child3(1)
-Court3(1)
+Children’s Court functions11(1), 54(1)
+commencement day54(2)
+Court2(1)
 court record51A(1)
 decision30(3)
 detention21(1)
+dually appointed magistrate11(1), 54(1)
 health department officer36AA(2)
 judge3(1)
 judgment39A(1)

@@ -22,6 +22,7 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Reprint 3: The Magistrates Court Act 2004 as at 2 Oct 2015 (includes amendments listed above)
 Courts Legislation Amendment Act 2018 Pt. 3 | 29 of 2018 | 2 Nov 2018 | 3 Nov 2018 (see s. 2(b))
 Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 5 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
+Courts Legislation Amendment (Magistrates) Act 2022 Pt. 3 | 2 of 2022 | 28 Feb 2022 | 1 Mar 2022 (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 13 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
@@ -33,6 +34,7 @@ acting magistrateSch. 1 cl. 9(1)
 Attorney GeneralSch. 1 cl. 1
 case3
 Chief Magistrate3
+commencement daySch. 1 cl. 12(7)
 contempt16(1)
 Court3
 Court officer3
@@ -40,6 +42,7 @@ courtroom3
 deal with3
 document3, 17(1)
 electronic recording33(1)
+first officeSch. 1 cl. 12(7)
 JP3
 legal experienceSch. 1 cl. 2(1)
 legal practitionerSch. 1 cl. 1
