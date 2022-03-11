@@ -1,10 +1,14 @@
 Notes
-This is a compilation of the Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 | 18 Apr 2019 p. 1177-205 | r. 1 and 2: 18 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Apr 2019 (see r. 2(b) and Gazette 18 Apr 2019 p. 1157)
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Amendment Regulations 2019 | 17 Dec 2019 4279-358 | r. 1 and 2: 17 Dec 2019 (see r. 2(a)) Regulations other than r. 1 and 2: 18 Dec 2019 (see r. 2(b))
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Amendment Regulations 2020 | SL 2020/191 9 Oct 2020 | r. 1 and 2: 9 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Environment Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/25 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
