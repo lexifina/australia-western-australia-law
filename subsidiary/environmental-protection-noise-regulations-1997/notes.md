@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Environmental Protection (Noise) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection (Noise) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Environmental Protection (Noise) Regulations 1997 | 31 Oct 1997 p. 6035-74 | 31 Oct 1997
 Environmental Protection (Miscellaneous Amendments) Regulations 1998 Pt. 5 | 11 Dec 1998 p. 6597-614 | 8 Jan 1999 (see r. 2)
 Environmental Protection (Noise) Amendment Regulations 2000 | 7 Nov 2000 p. 6143-4 | 7 Nov 2000
@@ -10,6 +10,10 @@ Environmental Protection (Noise) Amendment Regulations 2013 | 5 Dec 2013 p. 5641
 Environmental Protection (Noise) Amendment Regulations 2014 | 16 May 2014 p. 1539 | r. 1 and 2: 16 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2 17 May 2014 (see r. 2(b))
 Reprint 2: The Environmental Protection (Noise) Regulations 1997 as at 19 May 2014 (includes amendments listed above)
 Environment Regulations Amendment (Public Health) Regulations 2016 Pt. 6 | 10 Jan 2017 p. 191-7 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Environment Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/25 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
