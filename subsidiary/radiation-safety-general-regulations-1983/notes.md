@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Radiation Safety (General) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Radiation Safety (General) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Radiation Safety (General) Regulations 1983 | 21 Feb 1983 p. 555-636 | 21 Aug 1983 (see r. 2)
@@ -64,6 +64,10 @@ Radiation Safety (General) Amendment Regulations 2018 | 16 Oct 2018 p. 4094 | r.
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 6 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/108 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Radiation Safety (General) Amendment Regulations 2022 r. 3 and 4 | SL 2022/33 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
