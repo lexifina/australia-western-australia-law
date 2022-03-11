@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Procedure Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Criminal Procedure Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Criminal Procedure Regulations 2005 | 28 Apr 2005 p. 1441-82 | 2 May 2005 (see r. 2)
@@ -52,6 +52,10 @@ Criminal Procedure Amendment Regulations (No. 2) 2021 | SL 2021/154 10 Sep 2021 
 Attorney General Regulations Amendment (Residential Parks) Regulations 2021 Pt. 2 | SL 2021/174 8 Oct 2021 | 9 Oct 2021 (see r. 2(b))
 Criminal Procedure Amendment Regulations 2022 | SL 2022/8 28 Jan 2022 | r. 1 and 2: 28 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jan 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Security of Payment) Regulations 2022 Pt. 2 | SL 2022/14 11 Feb 2022 | 12 Feb 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Attorney General Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/27 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
