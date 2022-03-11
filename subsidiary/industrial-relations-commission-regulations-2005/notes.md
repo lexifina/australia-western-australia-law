@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industrial Relations Commission Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Industrial Relations Commission Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Industrial Relations Commission Regulations 2005 | 12 Aug 2005 p. 3685-812 | 1 Sep 2005 (see r. 2)
@@ -29,6 +29,10 @@ Industrial Relations Commission Amendment Regulations 2019 | 5 Mar 2019 p. 585-6
 Reprint 4: The Industrial Relations Commission Regulations 2005 as at 19 Jul 2019 (includes amendments listed above)
 Industrial Relations Commission Amendment Regulations (No. 2) 2019 | 29 Nov 2019 p. 4143-7 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b) and Gazette 29 Nov 2019 p. 4133)
 Industrial Relations Commission Amendment Regulations (No. 2) 2022 | SL 2022/6 21 Jan 2022 | r. 1 and 2: 21 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Industrial Relations Commission Amendment Regulations 2022 r. 3-12 | SL 2022/19 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Other notes
 Although the commencement date of 1 Jul 2008 was specified in the Industrial Relations Commission Amendment Regulations (No. 2) 2008, because of the Interpretation Act 1984 s. 25(3) those regulations came into operation on 1 Aug 2008 when the Owner-Drivers (Contracts and Disputes) Act 2007 Sch. 3 cl. 1 came into operation.
 Defined terms
