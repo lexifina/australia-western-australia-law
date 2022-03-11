@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Salaries and Allowances Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Salaries and Allowances Regulations 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Salaries and Allowances Tribunal Act Regulations 1975 | 8 Aug 1975 p. 2862-3 | 8 Aug 1975
 Untitled regulations | 26 Jan 1979 p. 260 | 26 Jan 1979
 Untitled regulations | 8 Feb 1980 p. 386 | 8 Feb 1980
@@ -38,6 +38,11 @@ Salaries and Allowances Amendment Regulations (No. 2) 2014 | 12 Dec 2014 p. 4738
 Salaries and Allowances Amendment Regulations 2015 | 29 Dec 2015 p. 5181 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Salaries and Allowances Amendment Regulations 2018 | 6 Jul 2018 p. 2538-42 | r. 1 and 2: 6 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2018 (see r. 2(b))
 Salaries and Allowances Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2864-5 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Salaries and Allowances Amendment Regulations 2022 r. 3 and 4 | SL 2022/22 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 Repealed by the Financial Legislation Amendment and Repeal Act 2006.
 Formerly referred to the Health Services (Conciliation and Review) Act 1995 the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
