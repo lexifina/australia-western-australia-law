@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Legal Profession Regulations 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Legal Profession Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Legal Profession Regulations 2009 | 27 Feb 2009 p. 545-653 | r. 1 and 2: 27 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2009 (see r. 2(b) and Gazette 27 Feb 2009 p. 511)
 Legal Profession Amendment Regulations 2009 | 27 Feb 2009 p. 655-7 | r. 1 and 2: 27 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2009 (see r. 2(b) and Gazette 27 Feb 2009 p. 555 and 511)
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 4 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
@@ -22,6 +22,11 @@ Reprint 2: The Legal Profession Regulations 2009 as at 3 Mar 2017 (includes amen
 Legal Profession Amendment Regulations 2018 | 26 Oct 2018 p. 4247-51 | r. 1 and 2: 26 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2018 (see r. 2(b))
 Legal Profession Amendment Regulations 2019 | 21 May 2019 p. 1463-73 | r. 1 and 2: 21 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2019 (see r. 2(b))
 Legal Profession Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2479-83 | r. 1 and 2: 28 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Attorney General Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 4 | SL 2022/27 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Other notes
 Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints At 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
