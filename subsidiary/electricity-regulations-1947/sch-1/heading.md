@@ -57,7 +57,6 @@ r. 52B(2) | Failing to keep copy of electrical safety certificate for electrical
 r. 52B(4C) | Failing to ensure that records of electrical installing work comply with paragraph (a) | $500 | $2 000
 r. 52B(4C) | Failing to ensure that records of electrical installing work are kept as required by paragraph (b) | $100 | $400
 r. 53(2) & 65 | Employing, engaging or instructing unlicensed person to carry out electrical work for which licence required | $1 000 | $4 000
-r. 53(3) & 65 | Employing, engaging or instructing electrical worker in training to carry out electrical work without electrician’s training licence | $1 000 | $4 000
 r. 54(1) | Unauthorised person signing notice of completion | $750 | $3 000
 r. 54(2) | Unauthorised person signing record of work carried out | $750 | $3 000
 r. 57(1) & 65 | Failing to maintain or keep record of employed licence holder | $200 | $800
@@ -85,4 +84,4 @@ r. 41(2) | Failure by network operator to inform Director and give details |  | 
 r. 41(3) | Failure by person who is to become network operator to inform Director and give details |  | $5 000
 r. 41(4) | Failure by person who is to cease to be network operator to inform Director and give details |  | $5 000
 r. 41(5) | Failure by network operator to give notice of change in name or contact details |  | $5 000
-[Schedule 1 inserted: Gazette 31 Dec 2010 p. 6888-92; amended: Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6; 2 Oct 2018 p. 3792.]
+[Schedule 1 inserted: Gazette 31 Dec 2010 p. 6888-92; amended: Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6; 2 Oct 2018 p. 3792; SL 2022/36 r. 19.]

@@ -70,9 +70,10 @@ Electricity Amendment Regulations 2018 Pt. 2 | 2 Oct 2018 p. 3784-94 | 1 Jan 201
 Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 3 | 31 Dec 2019 p. 4637-46 | 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 11 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 2 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
+Energy Regulations Amendment (Electricity Licensing) Regulations 2022 Pt. 3 | SL 2022/36 15 Mar 2022 | 16 Mar 2022 (see r. 2(b))
 Other notes
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
-The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
+Footnote no longer applicable.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
 Regulations 180 and 278 disallowed on 24 Sep 1947, see Gazette 5 Dec 1947 p. 2209.
 Regulations 113, 117-19, 123, 124, 129-32, 138, 139 and 142 disallowed on 14 Oct 1947, see Gazette 5 Dec 1947 p. 2209.
@@ -103,7 +104,7 @@ final subcircuit12A(1)
 fuse241(1)
 inspection plan242(1A)
 network241(2)
-network operator241(1), 241(3)
+network operator241(1) and (3)
 neutral conductor2
 new owner12
 notice of completion242(1A)
