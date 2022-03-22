@@ -18,6 +18,7 @@ Short title | Number and year | Assent | Commencement
  | Small Business and Retail Shop Legislation Amendment Act 2011 Pt. 2 | 20 of 2011 | 11 Jul 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
  | Reprint 2: The Small Business Development Corporation Act 1983 as at 11 May 2012 (includes amendments listed above)
  | Small Business Development Corporation Amendment Act 2020 | 12 of 2020 | 6 Apr 2020 | s. 1 and 2: 6 Apr 2020 (see s. 2(a)); Act other than s. 1 and 2: 7 Apr 2020 (see s. 2(b))
+ | Small Business Development Corporation Amendment (COVID-19 Response) Act 2022 | 4 of 2022 | 21 Mar 2022 | s. 1 and 2: 21 Mar 2022 (see s. 2(a)); Act other than s. 1 and 2: 22 Mar 2022 (see s. 2(b))
 Other notes
 Reference altered under the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 s. 88(3).
 Under the Interpretation Act 1984 s. 16, a reference to the Industrial Arbitration Act 1979 may be read as a reference to the Industrial Relations Act 1979. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
