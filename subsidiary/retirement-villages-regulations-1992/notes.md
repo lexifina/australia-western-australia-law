@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Retirement Villages Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Retirement Villages Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Retirement Villages Regulations 1992 | 10 Jul 1992 p. 3191-8 | 10 Jul 1992 (see r. 2 and Gazette 10 Jul 1992 p. 3185)
@@ -25,6 +25,10 @@ Retirement Villages Amendment Regulations 2021 | SL 2021/32 26 Mar 2021 | r. 1 a
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 7 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 19 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Retirement Villages Amendment Regulations (No. 2) 2021 | SL 2021/158 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2021 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Retirement Villages Amendment Regulations 2022 r. 3-6 | SL 2022/41 25 Mar 2022 | 1 Apr 2022 (see r. 2(b))
 Other notes
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
 (2) Despite subregulation (1), if the owner of a retirement village is required, under section 13(2) of the Retirement Villages Act 1992, to give a statement containing information prescribed by regulation 4 of the Retirement Villages Regulations 1992, between 1 October 2003 and 31 December 2003 (inclusive), the owner satisfies the requirements of section 13(2) if either —
