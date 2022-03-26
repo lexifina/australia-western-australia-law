@@ -6,6 +6,7 @@ Biodiversity Conservation Regulations 2018 | 14 Sep 2018 p. 3337-505 | Pt. 1 (ot
 Biodiversity Conservation Amendment Regulations 2018 | 17 Sep 2018 p. 3507-8 | r. 1 and 2: 17 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Biodiversity Conservation Amendment Regulations (No. 2) 2018 | 21 Dec 2018 p. 4846-7 | r. 1 and 2: 21 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305 and 3349)
 Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Biodiversity Conservation Amendment Regulations 2022 | SL 2022/43 25 Mar 2022 | r. 1 and 2: 25 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Mar 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -37,7 +38,7 @@ corresponding licence168
 dangerous fauna3
 deal in3
 designated Act3
-designated activity101(1)
+designated activity100(1)
 designated offence76(1)
 disqualifying event76(1)
 dive119(1)
@@ -52,7 +53,7 @@ fauna taking licence168
 fauna transfer authority42(1)
 feed3
 first vessel115(1), 115(2)
-flora60(1), 61(1), 62(1), 63(1), 64(1), 65(1), 66(1)
+flora60(1), 61(1), 62(1), 63, 64(1), 65(1), 66(1)
 invertebrate fauna3
 kangaroo3
 killer whale3
@@ -74,8 +75,8 @@ reviewable decision89(1)
 sandalwood68(1), 69(1), 70(1)
 sandalwood order168
 sandalwood tracking form3, 133(1)
-sea turtle3
 seal3
+sea turtle3
 second vessel115(2)
 separation distance109(1)
 sign3
