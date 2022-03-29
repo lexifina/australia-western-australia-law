@@ -7,6 +7,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Veterinary Practice Act 2021 Pt. 2-17 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 14 | 7 of 2022 | 29 Mar 2022 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
