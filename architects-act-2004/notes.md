@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Architects Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Architects Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Architects Act 2004 | 75 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1 and 2: 16 Nov 2005 (see s. 2 and Gazette 15 Nov 2005 p. 5597)
@@ -7,6 +7,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 21 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 1: The Architects Act 2004 as at 6 May 2016 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 1 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Mutual Recognition (Western Australia) Act 2010 expired on 28 Feb 2021 (see s. 6(3) of that Act). The Mutual Recognition (Western Australia) Act 2020 (Act No. 44 of 2020) commenced on 1 Mar 2021 and adopts the Mutual Recognition Act 1992 (Commonwealth) (see s. 4 of that Act).
