@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Real Estate and Business Agents Act 1978 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Real Estate and Business Agents Act 1978 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Real Estate and Business Agents Act 1978 | 72 of 1978 | 20 Oct 1978 | Act other than s. 5, 54, 55, 57-100, 102-131 and 135: 1 Sep 1979 (see s. 2(1) and Gazette 31 Aug 1979 p. 2601); s. 5: 1 Dec 1979 (see s. 2(2) and Gazette 31 Aug 1979 p. 2615); s. 54, 55, 57-100, 102-131 and 135: 1 Dec 1979 (see s. 2(1) and Gazette 31 Aug 1979 p. 2601)
@@ -59,6 +59,10 @@ Strata Titles Amendment Act 2018 Pt. 3 Div. 17 | 30 of 2018 | 19 Nov 2018 | 1 Ma
 Community Titles Act 2018 Pt. 14 Div. 17 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Consumer Protection Legislation Amendment Act 2019 Pt. 8 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 101 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 11 | 7 of 2022 | 29 Mar 2022 | To be proclaimed (see s. 2(b))
 Other notes
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
