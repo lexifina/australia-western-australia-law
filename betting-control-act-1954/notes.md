@@ -64,6 +64,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 40(2), (3), (5), (6), (8), (10)-(13), (15) and (16), 41, 43-45, 49-51, 53-76, 77(2), 78 and 79 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 2 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Other notes
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992 s. 72.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) and s. 7(2) are transitional provisions that are of no further effect.
