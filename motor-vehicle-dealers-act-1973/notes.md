@@ -45,7 +45,8 @@ Short title | Number and year | Assent | Commencement
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
- | Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
+Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 9 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Other notes
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
