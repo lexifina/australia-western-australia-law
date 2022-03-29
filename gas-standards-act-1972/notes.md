@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2008 of the Gas Standards Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Standards Act 1972 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gas Standards Act 1972 | 15 of 1972 | 26 May 1972 | 21 Jul 1972 (see s. 2 and Gazette 21 Jul 1972 p. 2645)
@@ -19,6 +19,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 4 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 Petroleum Amendment Act 2007 s. 95 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 4: The Gas Standards Act 1972 as at 4 Jul 2008 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 7 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Other notes
 The provision in this Act repealing that Act has been omitted from this reprint under the Reprints Act 1984 s. 7(4)(f).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent that it amends this Act, was amended by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(a).
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 21 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -46,4 +51,3 @@ supply4
 Type A gas appliance4
 Type B gas appliance4
 undertaker4
-By Authority: JOHN A. STRIJK, Government Printer
