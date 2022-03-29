@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Food Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Food Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Food Act 2008 | 43 of 2008 | 8 Jul 2008 | s. 1 and 2: 8 Jul 2008 (see s. 2(1)(a)); s. 3-7, Pt. 2-7 and 9-14: 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157); Pt. 8 Div. 1 and 3: 23 Apr 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157); Pt. 8 Div. 2: 23 Oct 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
@@ -8,6 +8,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Health Services Act 2016 s. 290 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 14 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Reprint 1: The Food Act 2008 as at 14 Jul 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 6 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
