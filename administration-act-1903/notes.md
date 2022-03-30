@@ -75,6 +75,7 @@ Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
  | Reprint 12: The Administration Act 1903 as at 15 Apr 2016 (includes amendments listed above)
  | Statutes (Minor Amendments) Act 2017 s. 3 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
  | COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 53 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+ | Administration Amendment Act 2022 | 5 of 2022 | 29 Mar 2022 | s. 1 and 2: 29 Mar 2022 (see s. 2(a)); Act other than s. 1 and 2: 30 Mar 2022 (see s. 2(b))
 Other notes
 Repealed by section 2 of this Act.
 Part IV (Curator of Intestate Estates) as originally enacted, was repealed by the Curator of Intestate Estates Act 1918 (No. 9 of 1918). The Curator of Intestate Estates continued under the Curator of Intestate Estates Act 1918 and, on 1 July 1942, became the Public Trustee (see the Public Trustee Act 1941 s. 3).
@@ -85,6 +86,11 @@ This amount is now declared to be $50 000; see proclamation in Gazette 6 Februar
 The Administration Act Amendment Act 1970 s. 2(2) is a transitional provision that is of no further effect.
 The Metric Conversion Act 1972 Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Death Duty Assessment Act 1973 s. 3(2), (3), (4) and (5) are transitional provisions that are of no further effect.
+Under s. 14A of the Act, the Minister makes the following orders declaring, for each specified item, the sum that is to apply for that item.
+Table of published orders
+Name | Published in Gazette
+Administration (Intestacy Legacy Amounts) Order 2023 | 1 Aug 2023 p. 2691-2
+Administration (Intestacy Legacy Amounts) Order 2025 | 4 Jul 2025 p. 1114
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -93,13 +99,16 @@ administration3
 administrator3
 Court3
 deceased17A(1)
+declared sum14(1A)
 election periodFourth Sch. cl. 6(1)
 exemplification of probate3
-household chattels14(2)(a)
+household chattels14(2)
 insolvent3
-interestFourth Sch. cl. 1(1)(b)
+interestFourth Sch. cl. 1(1)
 intestate14(1), 15(6)
 intestate property14(1), 15(6)
+order14(1A)
+original sum14A(1)
 personal estate3
 prescribed3
 Principal Registrar3
@@ -108,5 +117,11 @@ Public Trustee3
 real estate3
 registrar3
 relevant property14(2b) and (3a)
-Table14(1)
+relevant sums14B(1)
+specified item14(1A), 14A(1)
+Table14(1A)
 will3
+© State of Western Australia 2022.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2022.
+By Authority: GEOFF O. LAWN, Government Printer
