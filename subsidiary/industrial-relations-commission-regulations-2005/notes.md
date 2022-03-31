@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industrial Relations Commission Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Industrial Relations Commission Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Industrial Relations Commission Regulations 2005 | 12 Aug 2005 p. 3685-812 | 1 Sep 2005 (see r. 2)
@@ -29,10 +29,7 @@ Industrial Relations Commission Amendment Regulations 2019 | 5 Mar 2019 p. 585-6
 Reprint 4: The Industrial Relations Commission Regulations 2005 as at 19 Jul 2019 (includes amendments listed above)
 Industrial Relations Commission Amendment Regulations (No. 2) 2019 | 29 Nov 2019 p. 4143-7 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b) and Gazette 29 Nov 2019 p. 4133)
 Industrial Relations Commission Amendment Regulations (No. 2) 2022 | SL 2022/6 21 Jan 2022 | r. 1 and 2: 21 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Industrial Relations Commission Amendment Regulations 2022 r. 3-12 | SL 2022/19 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Industrial Relations Commission Amendment Regulations 2022 | SL 2022/19 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Other notes
 Although the commencement date of 1 Jul 2008 was specified in the Industrial Relations Commission Amendment Regulations (No. 2) 2008, because of the Interpretation Act 1984 s. 25(3) those regulations came into operation on 1 Aug 2008 when the Owner-Drivers (Contracts and Disputes) Act 2007 Sch. 3 cl. 1 came into operation.
 Defined terms
@@ -48,11 +45,11 @@ Board102A(1), 105, 109
 chief executive officer89A, 89H
 Commission3
 Commissioner of Police89, 94A
-conciliation document94M(6)
+conciliation document29(1), 94M(6), 98(6), 99D(10)
 custodial officer89H
 decision65(3)
 discovery20(1)
-document20(1)
+document19(1)
 electronic document3
 employer105
 employing authority63A(1)
@@ -65,8 +62,8 @@ lodged electronically3
 member of a constituent authority120(8)
 modified form94N(1), 99(1), 99E(1)
 notice to admit23(1)
-person to be joined18(1)
-police officer89, 94A
+person to be joined18
+police officer89N(2), 94A
 prison officer89A
 Public Transport Authority109
 railway officer109
@@ -74,8 +71,8 @@ Registrar3
 removal action89A, 89H, 89
 reviewable decision102A(1)
 salaried position109
-service direction94M(6)
+service direction29(1), 94M(6), 98(6), 99D(10)
 substantive proceedings18(1)
-Tribunal94H, 95(1), 99A
-warrant63(1)
+Tribunal94H, 95, 99A
+warrant63A(1)
 writing3
