@@ -172,21 +172,6 @@ Yalgoo Land Conservation District Committee
 Yallingup Land Conservation District Committee
 Yilgarn Land Conservation District Committee
 York Land Conservation District Committee
-Department of Consumer and Employment Protection | Board of Examiners (Coal Mining)
-Board of Examiners (Mine Managers and Underground Supervisors)
-Board of Examiners (Quarry Managers)
-Charitable Collections Advisory Committee
-Coal Industry Tribunal of Western Australia
-Commission for Occupational Safety and Health
-Consumer Products Safety Committee
-Electrical Licensing Board
-Land Valuers Licensing Board
-Mines Survey Board
-Mining Industry Advisory Committee
-Motor Vehicle Industry Board
-Plumbers Licensing Board
-Retail Shops Advisory Committee
-WorkSafe
 Department of Corrective Services | Prison Officers Appeal Tribunal
 Department of Culture and the Arts | Art Gallery Board of Western Australia
 Art Gallery Foundation
@@ -228,7 +213,7 @@ Pearling Industry Advisory Committee
 Recreational Fishing Advisory Committee
 Rock Lobster Industry Advisory Committee
 Department of Health | Aged Care Advisory Panel
-Anaesthetic Morality Committee
+Anaesthetic Mortality Committee
 Fluoridation of Public Water Supplies Advisory Committee
 Food Advisory Committee
 Local Health Authorities Analytical Committee
@@ -263,6 +248,16 @@ Rural, Remote and Regional Women’s Network
 WA Local Government Grants Commission
 WA Telecentre Advisory Board
 Western Australian Local Government Grants Commission
+Department of Mines, Industry Regulation and Safety | Charitable Collections Advisory Committee
+Coal Industry Tribunal of Western Australia
+Consumer Products Safety Committee
+Electrical Licensing Board
+Land Valuers Licensing Board
+Mines and Petroleum Advisory Committee
+Motor Vehicle Industry Board
+Plumbers Licensing Board
+Retail Shops Advisory Committee
+Work Health and Safety Commission
 Department of Parks and Wildlife | Conservation Commission of Western Australia
 Marine Parks and Reserves Authority
 Marine Parks and Reserves Scientific Advisory Committee
@@ -292,7 +287,6 @@ Infrastructure WA
 Office of e-Government
 Office of Road Safety
 Office of the Premier
-State Law Publisher
 Department of Training and Workforce Development | Division of Industrial Training
 State Training Board
 Department of Treasury and Finance | Anzac Day Trust
@@ -330,17 +324,17 @@ Ministerial Advisory Committee on Electricity Supply
 Perth International Centre for Application of Solar Energy
 State Underground Power Steering Committee
 Public Transport Authority of Western Australia | Railway Appeal Board
-Western Australia Industrial Relations Commission | Board of Reference (Construction Industry Portable Paid Long Service Leave Act 1985)
+Western Australian Industrial Relations Commission | Board of Reference (Construction Industry Portable Paid Long Service Leave Act 1985)
 Board of Reference (Industrial Relations Act 1979)
 Board of Reference (Long Service Leave Act 1958)
 Department of the Registrar, Western Australian Industrial Relations Commission
 Industrial Magistrates Court
-Occupational Safety and Health Tribunal
 Public Service Appeal Board
 Public Service Arbitrator
 Railways Classification Board
 Special Board of Reference (Long Service Leave Standard Provisions)
 WA Industrial Appeal Court
+ | Work Health and Safety Tribunal
 Western Australia Police | Community Safety and Crime Prevention Council
 Police Appeal Board
 Western Australian Police Historical Society
@@ -351,4 +345,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4; SL 2021/127 r. 4.]
+[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4; SL 2021/127 r. 4; SL 2022/27 r. 6.]
