@@ -1,0 +1,11 @@
+## Schedule 24 — Information to be included in notification of reportable incidents
+[r. 675V]
+1Mine
+1.1The name of the mine operator of the mine. 1.2The location of the mine.
+2Person ill or injured
+2.1The following details of a person who has suffered an illness or injury in a reportable incident — (a)the person’s name, gender and date of birth; (b)the business or undertaking the person was engaged in, including the name of the business or undertaking; (c)whether the person is a worker at the mine; (d)if the person is a worker at the mine — (i)the worker’s occupation; and (ii)the worker’s usual start and finish time; and (iii)the worker’s start and finish time on the day on which the reportable incident occurred; and (iv)the nature of the worker’s engagement; (e)if the person is not a worker at the mine and is a visitor at the mine when the reportable incident occurred — that the person was a visitor; (f)if the person is not a worker or visitor at the mine — the industry in which the person’s business or undertaking is primarily conducted.
+3Reportable incident
+3.1The following details about the reportable incident — (a)the date and time when the incident occurred; (b)if a person has an illness as a result of the incident — the date when the illness was first reported to the mine operator; (c)a description of the incident, including — (i)what each affected person was doing before the incident; and (ii)a description of all substances (including hazardous chemicals), plant and processes involved in the incident; (d)the classification under the 3rd edition revision 1 of the document entitled “Type of Occurrence Classification System” published in 2008 by the Australian Safety and Compensation Council (and under that document as remade from time to time) of — (i)the mechanism of the incident; and (ii)the agency of the injury; and (iii)the nature and bodily location of the injury.
+4Consequences of reportable incident
+4.1Whether the reportable incident results in — (a)the worker being unable to work for 1 or more days; or (b)the worker carrying out limited work; or (c)the worker receiving medical treatment.
+4.2Whether the reportable incident is likely to, or could, result in — (a)the death of a person; or (b)a permanent incapacity of a person; or (c)a matter specified in item 4.1.
