@@ -96,12 +96,12 @@ Reprint 15: The Industrial Relations Act 1979 as at 3 Nov 2017 (includes amendme
 Industrial Relations Amendment Act 2018 Pt. 2 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Reprint 16: The Industrial Relations Act 1979 as at 30 Aug 2019 (includes amendments listed above)
 Police Amendment (Medical Retirement) Act 2019 Pt. 3 | 19 of 2019 | 15 Aug 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4133)
+Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 5 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Police Amendment (Compensation Scheme) Act 2021 Pt. 3 | 26 of 2021 | 13 Dec 2021 | 1 Jan 2022 (see s. 2(b) and SL 2021/222 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 5 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Industrial Relations Legislation Amendment Act 2021 Pt. 2 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b) and (2))
 Other notes
 Footnote no longer applicable.

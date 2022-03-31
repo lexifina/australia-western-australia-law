@@ -142,11 +142,11 @@ Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
  | Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-15 and Div. 16 (s. 272, 274 and 276) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880); Pt. 4 Div. 15 and s. 276: 12 Jan 2019 (see s. 2(1)(c) and Gazette 11 Jan 2019 p. 23)
  | Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above except those listed in the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 15 and s. 276)
  | Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+ | Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11 and Div. 16 (s. 249-271, 273 and 275) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
