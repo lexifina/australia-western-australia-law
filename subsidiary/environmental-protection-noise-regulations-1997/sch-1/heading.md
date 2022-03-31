@@ -24,7 +24,7 @@ Part B — Commercial premises
 3. Premises in or from which meals or food are sold to the public.
 4. Filling stations within the meaning of the Retail Trading Hours Act 1987 but not including premises where motor body works are carried out.
 5. Indoor premises used for public amusement — theatres, cinemas, dance halls, skating rinks, gymnasiums or otherwise for games or for the recreation or entertainment requirements of the public; public swimming pools.
-6. Premises used principally to provide entertainment or amusement by the use of mechanical amusement structures within the meaning of the Occupational Safety and Health Regulations 1996.
+6. Premises used principally to provide entertainment or amusement by the use of mechanical amusement structures.
 7. Taverns, hotels, club premises and reception lodges which do not provide accommodation for the public.
 8. Health centres — premises used for medical, maternal or x-ray centres, district clinics, physiotherapy, pathology, radiology, paramedical and other ancillary services and which do not provide in-patient services.
 9. Hospitals having accommodation for 150 or more in-patients.
@@ -34,7 +34,7 @@ Part B — Commercial premises
 13. Grounds, administrative premises, and premises or parts of premises used for the personal comfort, convenience or enjoyment of leisure of employees, or persons otherwise engaged in the conduct of commerce, where those premises are attached to or form part of premises referred to in this Part.
 14.Premises used for the purpose of providing communications.
 15. Caretaker’s and like residential premises attached to or forming part of premises referred to in this Part.
-[Part B amended: Gazette 5 Dec 2013 p. 5715.]
+[Part B amended: Gazette 5 Dec 2013 p. 5715; SL 2022/25 r. 7.]
 Part C — Noise sensitive premises
 [Heading inserted: Gazette 5 Dec 2013 p. 5715.]
 1. Premises occupied solely or mainly for residential or accommodation purposes.
