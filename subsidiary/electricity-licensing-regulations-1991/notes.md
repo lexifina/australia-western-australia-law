@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -56,9 +56,6 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 18 Ju
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 8 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 10 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Energy Regulations Amendment (Electricity Licensing) Regulations 2022 Pt. 2 | SL 2022/36 15 Mar 2022 | 16 Mar 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/26 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
@@ -83,7 +80,7 @@ Board3(1)
 casual vacancy8(4)
 chairperson3(1)
 commencement day49(2B), 67(1)
-competent person54(1)
+competent person54A(1)
 construction project52BB(1)
 consumers mains51(3)
 contact details3(1)
@@ -93,7 +90,7 @@ de-energised3(1)
 default procedure52BB(1)
 department3(1)
 electrical accident63(1)
-electrical appliance3(1)
+electrical appliance2(1)
 electrical contractor3(1)
 electrical contractor’s licence3(1)
 electrical equipment3(1)
@@ -115,7 +112,7 @@ former apprentice50AB
 holder of a licence46(1a), 47(1aa)
 in-house electrical installing work3(1)
 in-house electrical installing work licence3(1)
-labour hire arrangement50AA(1)
+labour hire arrangement50AA(1) and (1A)
 legal practitioner3(1)
 licence3(1)
 licensed electrical worker3(1)
@@ -123,11 +120,11 @@ live3(1)
 main switchboard3(1)
 maintenance work3(1)
 major network operator3(1)
-mine3(1)
+mine 3(1)
 modified procedure52BB(1)
 network3(1)
 nominee3(1)
-notice of completion52(1)
+notice of completion52A(1)
 notifiable work3(1), 52BB(2)
 notifiable work of an electrical contractor52BB(1)
 permit3(1)

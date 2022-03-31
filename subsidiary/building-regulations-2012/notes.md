@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -42,9 +42,6 @@ Building Amendment Regulations (No. 5) 2020 | SL 2020/192 9 Oct 2020 | r. 1 and 
 Building Amendment Regulations 2021 | SL 2021/42 13 Apr 2021 | r. 1 and 2: 13 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2021 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Commerce Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt. 2 | SL 2021/130 16 Jul 2021 | 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/26 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Other notes
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
@@ -80,7 +77,6 @@ Class3
 CodeMark certificate31J(1)
 commencement date 31HA(1)
 commencement day3, 31HB(1)
-Commissioner14A(1)
 CV33
 debris criteria 31HA(1)
 decision33(1)
@@ -140,4 +136,5 @@ transfer day55(1)
 transitional bush fire application31
 unit55(1)
 work54A(1)
+WorkSafe Commissioner14A(1)
 young child48

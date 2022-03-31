@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -48,9 +48,6 @@ Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 3) 2021 | SL 2021/89 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2021 (see r. 2(b))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 4 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 17 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 4 | SL 2022/26 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
