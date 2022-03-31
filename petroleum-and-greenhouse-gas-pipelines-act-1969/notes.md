@@ -32,11 +32,11 @@ Petroleum and Energy Legislation Amendment Act 2010 Pt. 4 | 42 of 2010 | 28 Oct 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 4 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 and 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2014 s. 9 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Work Health and Safety Act 2020 Pt. 15 Div. 3 Subdiv. 3 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Work Health and Safety Act 2020 Pt. 15 Div. 3 Subdiv. 3 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Other notes
 Footnote no longer required.
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
@@ -112,64 +112,29 @@ The amendments in the Petroleum and Energy Legislation Amendment Act 2010 s. 182
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accidentSch. 1 cl. 3
-actual supplierSch. 1 cl. 11(2)
 amending Act14(4)
 approved4(1)
-Australian Standard66BB(4)
 Australian/New Zealand Standard66BB(4)
+Australian Standard66BB(4)
 CEO66BB(4)
 charge47(15)
-contractSch. 1 cl. 3
-contractorSch. 1 cl. 3 and 6
-dangerous occurrenceSch. 1 cl. 3
 debenture47(15)
-designated work groupSch. 1 cl. 3
-employeeSch. 1 cl. 3
-employerSch. 1 cl. 3
-equipment supplierSch. 1 cl. 13(1)
-group memberSch. 1 cl. 3
-improvement noticeSch. 1 cl. 3
-inspectionSch. 1 cl. 3
 inspector4(1)
 land19(3)
 licence4(1)
 licence area4(1)
-licensee4(1), Sch. 1 cl. 3
-licensee’s representativeSch. 1 cl. 3 and 4(1)
-listed OSH law4(1)
-member of the workforceSch. 1 cl. 3
+licensee4(1)
 Minister for Lands4(1)
-ostensible supplierSch. 1 cl. 11(2)
-other protected person4(1)
-ownSch. 1 cl. 3
 owned4(1)
 owner4(1)
 partly cancelled4(1)
 petroleum4(1)
 pipeline4(1)
 pipeline operation4(1)
-plantSch. 1 cl. 3
-premisesSch. 1 cl. 3
-prescribed occupational safety and health laws5AA(2)
 Principal Registrar59(2)
-prohibition noticeSch. 1 cl. 3
 public authority4(1)
 register4(1)
 registered holder4(1)
-registered organisationSch. 1 cl. 3
-regulated business premisesSch. 1 cl. 3
-regulationsSch. 1 cl. 3
-relevant personSch. 1 cl. 6
 relinquished area4(1)
-responsible personSch. 1 cl. 36(2) and 60(1)
-reviewing authoritySch. 1 cl. 21(5) and 64(10)
-supervisorSch. 1 cl. 42(1)
-this ScheduleSch. 1 cl. 81(4)
-TribunalSch. 1 cl. 3
 Under Secretary59(2)
 wholly cancelled4(1)
-workSch. 1 cl. 3
-work group employerSch. 1 cl. 3
-workforce representativeSch. 1 cl. 3
-workplaceSch. 1 cl. 3

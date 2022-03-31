@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Submerged Lands) Act 1982 | 33 of 1982 | 27 May 1982 | 14 Feb 1983 (see s. 2(1))
@@ -36,9 +36,6 @@ Petroleum (Submerged Lands) Amendment Act 2011 | 57 of 2011 | 30 Nov 2011 | s. 1
 Statutes (Repeals and Minor Amendments) Act 2014 s. 7 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Petroleum Legislation Amendment Act 2017 Pt. 3 | 7 of 2017 | 14 Sep 2017 | 15 Nov 2017 (see s. 2(b) and Gazette 14 Nov 2017 p. 5597)
 Reprint 5: The Petroleum (Submerged Lands) Act 1982 as at 29 Jun 2018 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Work Health and Safety Act 2020 Pt. 15 Div. 3 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Other notes
 Footnote no longer applicable.
@@ -46,16 +43,8 @@ Repealed by the Offshore Petroleum and Greenhouse Gas Storage Amendment (Nationa
 The title of the Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003 (Cwlth) was changed to the Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003 (Cwlth) by the Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 1) Act 2011 (Cwlth) Sch. 1 it. 2.
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
-Schedule 3 Division 2 clause 6 expired on 1 Jan 2013. It reads as follows:
-6.Interpretation of references to Safety Authority in regulations
-(1) This clause applies to these regulations —
-(a) the Petroleum (Submerged Lands) (Diving Safety) Regulations 2007;
-(b) the Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 2007;
-(c) the Petroleum (Submerged Lands) (Occupational Safety and Health) Regulations 2007;
-(d) the Petroleum (Submerged Lands) (Pipelines) Regulations 2007.
-(2) On and from the commencement of the Petroleum (Submerged Lands) Amendment Act 2011 section 12, a reference in the regulations to which this clause applies to the Safety Authority is to be taken, unless the context otherwise requires, to be a reference to the Minister.
-(3) This clause expires 12 months after the commencement referred to in subclause (2).
-Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
+Footnote no longer applicable.
+Footnote no longer applicable.
 The amendment in the Petroleum Safety Act 1999 s. 92 was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before the amendment purported to come into operation.
 The Acts Amendment (Petroleum) Act 1990 s. 191(2) (as amended by the Acts Amendment (Petroleum) Act 1994 s. 3) reads as follows:
 (2) Notwithstanding anything in the principal Act —
@@ -175,8 +164,7 @@ Defined terms
 Defined termProvision(s)
 access authority4(1)
 access authority area9(1)
-accidentSch. 5 cl. 3
-actual supplierSch. 5 cl. 12(2)
+accommodation premises4A(1)
 adjacent area4(1), 5(2A), 60K(2)
 amending Act153(3), Sch. 3 cl. 1
 applicable document152A
@@ -185,9 +173,8 @@ application for a secondary licence4(1)
 apportionment provision9(8A) and (8E)
 approved4(1)
 area to which the surrender relates104(5)
-associated offshore placeSch. 5 cl. 3
-Australian Standard137A(4)
 Australian/New Zealand Standard137A(4)
+Australian Standard137A(4)
 authorisation124A(3)
 block4(1)
 boundary-change permit4(1)
@@ -206,22 +193,16 @@ Commonwealth permit4(1)
 Commonwealth title103A(1)
 construct4(1)
 construction4(1)
-contractSch. 5 cl. 3
-contractorSch. 5 cl. 3
 corresponding law4(1)
 court137(2)
-dangerous occurrenceSch. 5 cl. 3
 dealing59(10)
 debenture81(16)
 declaration37(1A)
-designated work groupSch. 5 cl. 3
 document4(1)
 documentary information152A
-employeeSch. 5 cl. 3
-employerSch. 5 cl. 3
-equipment supplierSch. 5 cl. 14(1)
+exclusion zone119(1)
 explore for petroleum19(2)
-facility4(1), Sch. 5 cl. 3 and 4(9)
+facility4(1), 4A(2)
 federal duty145A(3)
 first area6A(3)
 fixed-term WA licence103A(1)
@@ -230,13 +211,10 @@ good oil-field practice4(1)
 good processing and transport practice4(1)
 granted4(1)
 graticular section4(1)
-group memberSch. 5 cl. 3
-improvement noticeSch. 5 cl. 3
 infrastructure facilities4(1), 6B(1)
 infrastructure licence4(1)
 infrastructure licence area4(1)
 infrastructure licensee4(1)
-inspectionSch. 5 cl. 3
 inspector4(1)
 Joint Authority4(1), 9(1A)
 lease4(1)
@@ -245,25 +223,21 @@ lessee4(1)
 licence4(1)
 licence area4(1)
 licensee4(1)
-listed OSH law4(1)
 location4(1)
 marine reserve18A(2)
-member of the workforceSch. 5 cl. 3
 Minister of another jurisdiction152A
 native title holders124A(3)
 natural resources4(1)
 officer15(1)
 offshore area4(1)
-offshore petroleum operation4(1)
+offshore petroleum operation4(1), 4A(3), (4) and (5)
+offshore petroleum site4A(1)
 operations area98(1)
 operative day153(5)
-operator98(1), Sch. 5 cl. 3
-operator’s representativeSch. 5 cl. 3 and 5(1)
+operator98(1)
 original licence51(1)
-ostensible supplierSch. 5 cl. 12(2)
-other area9(7A) and (8E)(a)
+other area9(7A), (8A) and (8E)
 other licence area9(6)
-ownSch. 5 cl. 3
 partly cancelled4(1)
 partly determined4(1)
 permit4(1)
@@ -275,55 +249,42 @@ petroleum mining sample152A
 petroleum pool4(1)
 petroleum title103A(1), 112(13)
 pipeline4(1)
+pipeline licence4(1)
 pipeline licensee4(1)
 pipeline operator under the Commonwealth Act or a corresponding law64(5), 65(13)
-place4(1)
-plantSch. 5 cl. 3
-premisesSch. 5 cl. 3
-prescribed occupational safety and health laws15A(3)
+place4(1), 4A(1)
+plant4A(1)
 primary entitlement4(1)
 primary licence4(1)
-prohibition noticeSch. 5 cl. 3
-proposed facilitySch. 5 cl. 3
 proposed infrastructure licence60D(1)
 pumping station4(1)
-recoverySch. 5 cl. 3
 register4(1)
 registered holder4(1)
-registered organisationSch. 5 cl. 3
 Registration Fees Act4(1)
-regulated business premisesSch. 5 cl. 3
-regulations4(1), Sch. 5 cl. 3
+regulations4(1)
 relevant area27A(2), 31(7), 38CD(2), 46(7), 51A(2), 103A(2)
 relevant licence54(4) and (5)
-relevant personSch. 5 cl. 7
-relevant petroleum title103A(5), 103A(6)
-relevant section 17 blocks27A(5)(b) and (6)(b), 38CD(2)(d), 51A(2)(d)
-relevant time 27A(3)(b) and (4)(b), 38CD(3)(b) and(4)(b), 51A(3)(b) and (4)(b), 103A(3)(b) and (4)(b)
+relevant petroleum title103A(5) and (6)
+relevant section 17 blocks27A(5) and (6), 38CD(2), 51A(2)
+relevant time27A(3) and (4), 38CD(3) and (4), 51A(3) and (4), 103A(3) and (4)
 relinquished area4(1)
-responsible personSch. 5 cl. 37(2) and 61(1)
-reviewing authoritySch. 5 cl. 22(5) and 65(10)
 royalty period4(1)
 royalty value4(1)
-safety zone119(1)
 scheduled area4(1)
 second area6A(5)
 secondary licence4(1)
 secondary line4(1)
 section 17 block27A(1), 37(1A), 38CD(1), 51A(1), 103A(1)
 special prospecting authority4(1)
-structure124B(2)
-supervisorSch. 5 cl. 43(1)
+structure4A(1), 124B(2)
 tank station4(1)
 terminal station4(1)
 territorial sea4(1)
 this Act106(1), 126(4)
 this Part106(1)
-this ScheduleSch. 5 cl. 82(4)
 title74J, 138A(5)
 transitional matter153(1)
 transitional regulations153(1)
-TribunalSch. 5 cl. 3
 unit development59(1)
 unused area38CA(1)
 valve station4(1)
@@ -332,7 +293,4 @@ water line4(1)
 well4(1)
 wholly cancelled4(1)
 wholly determined4(1)
-workSch. 5 cl. 3
-work group employerSch. 5 cl. 3
-workforce representativeSch. 5 cl. 3
-workplaceSch. 5 cl. 3
+worker4A(1)

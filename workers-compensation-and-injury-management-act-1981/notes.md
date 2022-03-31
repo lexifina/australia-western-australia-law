@@ -86,13 +86,13 @@ Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (s
  | Reprint 12: The Workers’ Compensation and Injury Management Act 1981 as at 24 Nov 2017 (includes amendments listed above)
  | Workers’ Compensation and Injury Management Amendment Act 2018 | 8 of 2018 | 20 Jun 2018 | Pt. 1: 20 Jun 2018 (see s. 2(a)); Pt. 3: 21 Jun 2018 (see s. 2(b)); Act other than Pt. 1 and 3: 1 Jul 2018 (see s. 2(c) and Gazette 29 Jun 2018 p. 2433)
  | Workers’ Compensation and Injury Management Amendment (COVID-19 Response) Act 2020 | 31 of 2020 | 18 Aug 2020 | s. 1 and 2: 18 Aug 2020 (see s. 2(1)(a)); s. 3 and 16: 19 Aug 2020 (see s. 2(1)(b)); Act other than s. 1-3 and 16: 12 Oct 2020 (see s. 2(1)(c) and SL 2020/187 cl. 2)
+ | Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 8 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 160 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 8 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
@@ -133,7 +133,7 @@ The Workers’ Compensation and Assistance Amendment Act 1990 s. 50 and 51 read 
 50.Transitional
 (1) The amendments effected by this Act that relate to rehabilitation do not apply in respect of a disability that occurred before the commencement of section 35 of this Act, and the principal Act shall apply in respect of any such disability as if the amendments effected by this Act that relate to rehabilitation had not been enacted.
 (2) Without limiting subsection (1), the amendments effected by sections 8, 9 and 19 of this Act do not apply in respect of a claim that was made before the commencement of section 8 of this Act, and the principal Act shall apply in respect of any such claim as if the amendments effected by sections 8, 9 and 19 of this Act had not been enacted.
-51.Transitional and Schedule 5
+51.Transitional — Schedule 5
 (1) In this section the amended Schedule means Schedule 5 to the principal Act as amended by section 49 of this Act.
 (2) Where there is under the amended Schedule —
 (a) liability to pay compensation or to pay for the provision of other benefits, or both; and

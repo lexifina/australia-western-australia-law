@@ -302,6 +302,7 @@ Infrastructure Western Australia Act 2019 s. 74 | 13 of 2019 | 24 Jun 2019 | 24 
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 1 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Procurement Act 2020 Pt. 10 Div. 1 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 2 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 2 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 3 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Industry and Technology Development Amendment Act 2021 Pt. 3 | 24 of 2021 | 3 Dec 2021 | 4 Dec 2021 (see s. 2(b))
 Uncommenced provisions table
@@ -310,7 +311,6 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 2 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Arts and Culture Trust Act 2021 s. 74 | 15 of 2021 | 9 Sep 2021 | To be proclaimed (see s. 2(b))
 Veterinary Practice Act 2021 s. 229 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
 Aboriginal Cultural Heritage Act 2021 s. 344 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
@@ -338,7 +338,7 @@ Subject to sections 44 and 45, at the beginning of the commencement day, the for
 39.References to former Board or Registrar
 If in a written law or other document or instrument there is a reference to the former Board or the former Registrar, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Repealed by the Legislative Review and Advisory Committee Repeal Act 1987.
-Relevant provisions deleted by the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115. Board replaced by Mining Industry Advisory Committee established under the Occupational Safety and Health Act 1984 s. 14A.
+Footnote no longer applicable.
 Repealed by the Minerals and Energy Research Act 1987.
 The Motor Vehicle Industry Board was abolished on 1 Jul 2011. The Motor Vehicle Dealers Act 1973 s. 58 and 59 read as follows:
 58.Former Board abolished
