@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mines Safety and Inspection Levy Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mines Safety and Inspection Levy Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mines Safety and Inspection Levy Regulations 2010 | 23 Apr 2010 p. 1545-77 | r. 1 and 2: 23 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Apr 2010 (see r. 2(b))
@@ -14,15 +14,14 @@ Reprint 1: The Mines Safety and Inspection Levy Regulations 2010 as at 14 Mar 20
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 23 Jun 2017 p. 3279-309 | 1 Jul 2017 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 25 Jun 2018 p. 2297-324 | 1 Jul 2018 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Mines Safety and Inspection Levy Amendment Regulations 2022 r. 3-10 | SL 2022/20 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Mines Safety and Inspection Levy Amendment Regulations 2022 | SL 2022/20 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+amendment day3A(1)
 assessment3(1)
 assessment officer3(1)
+association30C(1)
 authorised person3(1)
 CEO3(1)
 departmental officer3(1)
@@ -33,7 +32,7 @@ investigation purposes37(1)
 its port3(1)
 levy3(1)
 notice3(1)
-number of assessed hours3(1)
+number of assessed hours3
 original assessment14(1)
 place37(1)
 port authority3(1)
