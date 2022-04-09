@@ -31,6 +31,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/60 22 May 2020 | 1 Jul 2020 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Mooring Management) Regulations 2021 Pt. 2 | SL 2021/147 13 Aug 2021 | 28 Sep 2021 (see r. 2(b))
+Transport Regulations Amendment (Waiver and Refund) Regulations 2022 Pt. 3 | SL 2022/47 8 Apr 2022 | 9 Apr 2022 (see r. 2(b))
 Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -39,10 +40,12 @@ Defined terms
 Defined termProvision(s)
 Act2
 additional vessel2
+amending instrument39(2)
 amending regulations33
 applicant7J(1)
 approved2
 authorisation7E(1)
+authorised fee officer37
 body corporate licensee21(2A)
 CEO2
 certificate of registration2
@@ -56,6 +59,7 @@ damage7J(4)
 Division 2 mooring control area7(1)
 emergency mooring site2
 excluded area33
+fee37
 identification sticker6(4)
 inspector31(1)
 length2
@@ -79,7 +83,7 @@ pleasure vessel2
 previous licensee21(1)
 recreational mooring site2
 register2
-registered mooring site2, 33
+registered mooring site2, 32
 registered owner33
 registration period33
 relevant mooring site9(2)
@@ -92,3 +96,4 @@ specified mooring site7F(1)
 substituted vessel7C(8)
 tender2
 waiting list2
+written instrument37

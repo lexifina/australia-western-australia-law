@@ -136,10 +136,11 @@ Jetties Amendment Regulations 2020 | SL 2020/128 31 Jul 2020 | r. 1 and 2: 31 Ju
 Jetties Amendment Regulations (No. 4) 2020 | SL 2020/238 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Transport Regulations Amendment (Ports) Regulations 2021 Pt. 2 | SL 2021/51 7 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
+Transport Regulations Amendment (Waiver and Refund) Regulations 2022 Pt. 2 | SL 2022/47 8 April 2022 | 9 April 2022 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
-The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
+The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the department in the Public Service designated as “Police Department” is to be read and construed as a reference to the department designated as “Police Service”.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Explosives and Dangerous Goods Act 1961, which was repealed by the Dangerous Goods Safety Act 2004.
@@ -155,7 +156,9 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 amended licence fee105J, 105K(5)
+amending instrument111(2)
 annual licence fee105J, 105K(6)
+authorised fee officer109
 authorised period67DD
 Berth 167DD
 Berth 1 permit67DD
@@ -170,6 +173,7 @@ day3(2)
 Department3(1)
 enhanced facilitiesSch. 1 cl. 31(1)
 exclusive operator67DD, 67DF(2)
+fee109
 fishing vessel3(1)
 fuel pipeline105J
 fuel pipeline licence105J
@@ -196,3 +200,4 @@ tourism vessel3(1)
 unit3(5)
 vessel3(1), 105J
 week3(2)
+written instrument109
