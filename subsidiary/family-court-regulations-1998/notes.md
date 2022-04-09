@@ -19,6 +19,7 @@ Family Court Amendment Regulations 2018 | 24 Aug 2018 p. 2971-2 | r. 1 and 2: 24
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Family Court Amendment Regulations 2021 | SL 2021/19 2 Feb 2021 | r. 1 and 2: 2 Feb 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Feb 2021 (see r. 2(b))
 Family Court Amendment Regulations (No. 2) 2021 | SL 2021/137 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2021 (see r. 2(b))
+Family Court Amendment Regulations 2022 | SL 2022/45 8 Apr 2022 | r. 1 and 2: 8 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Apr 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -32,7 +33,6 @@ current fees24(1)
 eligible financial or parenting proceedings18
 equivalent action6(1)
 Family Law Regulations3(1)
-Family Law Rules3(1)
 filing fee18
 formal orders21H(8)
 hearing fee18
