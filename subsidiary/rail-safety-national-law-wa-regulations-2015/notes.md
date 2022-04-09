@@ -10,6 +10,7 @@ Rail Safety National Law (WA) Amendment Regulations 2019 | 28 Jun 2019 p. 2486-7
 Rail Safety National Law (WA) Amendment Regulations 2020 | SL 2020/75 9 Jun 2020 | r. 1 and 2: 9 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Rail Safety National Law (WA) Amendment Regulations 2021 | SL 2021/91 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Transport Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/23 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Transport Regulations Amendment (Rail Safety National Law) Regulations 2022 Pt. 3 | SL 2022/46 8 Apr 2022 | 9 Apr 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
