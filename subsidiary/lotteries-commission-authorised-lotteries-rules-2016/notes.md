@@ -16,6 +16,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Lotteries Commission (OZ Lotto) Amendment Rules 2022 r. 3-9 | 5 Apr 2022 p. 2482-3 | Operative immediately after the OZ Lotto draw on 10 May 2022 (see r. 2(b))
+Lotteries Commission (Super66 and Removal of Self-serve Kiosks) Amendment Rules 2022 r. 3-13 | 12 Apr 2022 p. 2728-9 | Operative immediately after the Super66 draw on 14 May 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
