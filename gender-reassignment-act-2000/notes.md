@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gender Reassignment Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gender Reassignment Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gender Reassignment Act 2000 | 2 of 2000 | 12 Apr 2000 | s. 1 and 2: 12 Apr 2000; Act other than s. 1 and 2: 19 Dec 2001 (see s. 2 and Gazette 18 Dec 2001 p. 6489)
@@ -14,6 +14,11 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 21 | 35 of 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 2: The Gender Reassignment Act 2000 as at 6 Dec 2013 (includes amendments listed above)
 Gender Reassignment Amendment Act 2019 | 1 of 2019 | 19 Feb 2019 | s. 1 and 2: 19 Feb 2019 (see s. 2(a)); Act other than s. 1 and 2: 19 Mar 2019 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined terms
