@@ -42,6 +42,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 13 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
 Repealed by the Statute Stocktake Act 1999 s. 3 (Cwlth) (No. 118 of 1999).
