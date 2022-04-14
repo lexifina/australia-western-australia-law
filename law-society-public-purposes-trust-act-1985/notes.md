@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Law Society Public Purposes Trust Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Law Society Public Purposes Trust Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Law Society Public Purposes Trust Act 1985 | 60 of 1985 | 28 Oct 1985 | 25 Nov 1985
@@ -9,6 +9,11 @@ Reprint 1: The Law Society Public Purposes Trust Act 1985 as at 6 Feb 2004 (incl
 Legal Profession Act 2008 s. 673 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Associations Incorporation Act 2015 s. 220 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 260(b) | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 Footnote no longer applicable.
 Section 5 expired 30 June 1994. It reads as follows:
 “
@@ -26,7 +31,7 @@ but in all other respects upon the trusts declared by the Trust Deed.
 (3) In this section, Accounting Period, Allocations Committee and Trust Deed have the meanings respectively ascribed to those terms in the Trust Deed.
 (4) This section expires on 30 June 1994.
 [Section 5 inserted: No. 86 of 1990 s. 5.]
-”.
+”
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
