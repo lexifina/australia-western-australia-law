@@ -26,7 +26,8 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
-Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 3 | 7 of 2022 | 29 Mar 2022 | To be proclaimed (see s. 2(b))
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 3 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.
