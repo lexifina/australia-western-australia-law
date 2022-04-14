@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Juries Act 1957 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Juries Act 1957 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Juries Act 1957 | 50 of 1957 (6 Eliz. II No. 50) | 9 Dec 1957 | 1 Jul 1960 (see s. 1(2) and Gazette 6 Mar 1959 p. 539)
@@ -70,6 +70,10 @@ Statutes (Minor Amendments) Act 2017 s. 11 | 6 of 2017 | 12 Sep 2017 | 13 Sep 20
 Industrial Relations Amendment Act 2018 s. 69 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Reprint 8: The Juries Act 1957 as at 10 May 2019 (includes amendments listed above)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 60 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 11 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Criminal Code s. 282 and 679 have been deleted.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
