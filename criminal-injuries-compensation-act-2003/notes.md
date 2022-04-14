@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Injuries Compensation Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Injuries Compensation Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Injuries Compensation Act 2003 | 77 of 2003 | 15 Dec 2003 | s. 1 and 2: 15 Dec 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
@@ -18,8 +18,13 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Criminal Investigation (Covert Powers) Act 2012 Pt. 8 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 6 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Reprint 3: The Criminal Injuries Compensation Act 2003 as at 29 Nov 2013 (includes amendments listed above)
- | Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 3 | 3 of 2018 | 19 Apr 2018 | 1 Jul 2018 (see s. 2(b) and Gazette 29 Jun 2018 p. 2434)
- | National Redress Scheme for Institutional Child Sexual Abuse (Commonwealth Powers) Act 2018 Pt. 7 | 36 of 2018 | 5 Dec 2018 | 5 Dec 2018 (see s. 2)
+Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 3 | 3 of 2018 | 19 Apr 2018 | 1 Jul 2018 (see s. 2(b) and Gazette 29 Jun 2018 p. 2434)
+National Redress Scheme for Institutional Child Sexual Abuse (Commonwealth Powers) Act 2018 Pt. 7 | 36 of 2018 | 5 Dec 2018 | 5 Dec 2018 (see s. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004.
