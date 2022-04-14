@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Official Prosecutions (Accused’s Costs) Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Official Prosecutions (Accused’s Costs) Act 1973 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Official Prosecutions (Defendants’ Costs) Act 1973 | 46 of 1973 | 6 Nov 1973 | 25 Jan 1974 (see s. 2 and Gazette 25 Jan 1974 p. 179)
@@ -20,6 +20,11 @@ Reprint 3: The Official Prosecutions (Accused’s Costs) Act 1973as at 3 Feb 200
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Criminal Law and Evidence Amendment Act 2008 s. 67 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Legal Profession Act 2008 s. 686 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 Now known as the Official Prosecutions (Accused’s Costs) Act 1973; short title changed (see note under s. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
