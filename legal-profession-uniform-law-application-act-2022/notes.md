@@ -1,0 +1,51 @@
+Notes
+This is a compilation of the Legal Profession Uniform Law Application Act 2022. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+Compilation table
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 Pt. 1 | 9 of 2022 | 14 Apr 2022 | 14 Apr 2022 (see s. 2(a))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 Pt. 2-17 | 9 of 2022 | 14 Apr 2022 | s. 359(2): commencement dependent on the day the Industrial Relations Legislation Amendment Act 2021 s. 69 comes into operation (see s. 2(b)); Act other than Pt. 1 and s. 359(2): to be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application (Levy) Act 2022 s. 3 and 4 | 10 of 2022 | 14 Apr 2022 | Immediately after the Legal Profession Uniform Law Application Act 2022 s. 245 comes into operation (see s. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+accountant3(1)
+amend3(1)
+amending Act3(1)
+Board3(1)
+Board member3(1)
+community representative3(1)
+contentious business3(1)
+costs determination3(1)
+department3(1)
+elected Board member3(1)
+Guarantee Fund3(1)
+judicial officer3(1)
+law library3(1)
+Law Mutual Fund3(1)
+Law Society3(1)
+Legal Aid Commission3(1)
+Legal Contribution Trust3(1)
+Legal Costs Committee3(1)
+legal member3(1)
+Legal Profession Uniform Framework3(1)
+Legal Profession Uniform Law (WA)3(1)
+Legal Services and Complaints Committee3(1)
+Legal Services and Complaints Officer3(1)
+local approved form3(1)
+local legal practitioner3(1)
+non-contentious business3(1)
+old Act3(1)
+PII management committee3(1)
+PII scheme3(1)
+Principal Registrar3(1)
+registered company auditor3(1)
+statutory body3(1)
+trust account arrangement3(1)
+Trust Interest Account3(1)
+Uniform Regulations3(1)
+Uniform Rules3(1)
+Uniform Rules (WA)3(1)
+Western Australian Bar Association3(1)
