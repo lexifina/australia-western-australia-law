@@ -1,3 +1,4 @@
 Western Australia
 Animal Resources Authority Act 1981
-An Act to establish and incorporate an Authority to supply laboratory animals for teaching, research, and diagnostic purposes, and for incidental and other purposes.
+An Act to provide for the winding up of the Animal Resources Authority and related matters.
+[Long title inserted: No. 12 of 2022 s. 4.]
