@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Registration of Deeds Act 1856 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Registration of Deeds Act 1856 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Untitled Act | 1856 (19 Vict. No. 14) | 14 Jun 1856 | 14 Jun 1856
@@ -17,6 +17,11 @@ Legal Profession Act 2008 s. 697 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 3: The Registration of Deeds Act 1856 as at 7 Nov 2014 (includes amendments listed above)
 Land Legislation Amendment Act 2015 Pt. 3 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Land Legislation Amendment (Taxing) Act 2015 Pt. 2 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 17 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 Now known as the Registration of Deeds Act 1856; short title inserted and amended (see note under s. 25).
 The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of section 22AA is postponed until the end of 31 December 2024.
 Defined terms
