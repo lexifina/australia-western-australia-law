@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mental Health Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Mental Health Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mental Health Act 2014 | 24 of 2014 | 3 Nov 2014 | s. 1 and 2: 3 Nov 2014 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
@@ -9,6 +9,10 @@ Reprint 1: The Mental Health Act 2014 as at 15 Apr 2016 (includes amendments lis
 Health Services Act 2016 s. 296 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 24 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 114 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 2 modifies sections 48 and 79 of the Act. The modified sections are identified by the superscript 1M appearing after the section number. The modifications have effect while the Mental Health Infection Control Directions, or any replacement directions, have effect.
 Defined terms
