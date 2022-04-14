@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Co-operatives Act 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Co-operatives Act 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 | 24 of 2009 | 22 Oct 2009 | s. 1 and 2: 23 Oct 2009 (see s. 2(a)); Act other than s. 1, 2, 490, 491, Pt. 20 Div. 1 and 3: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); Pt. 20 Div. 1: 16 May 2011 (see s. 2(d) and Gazette 24 Jun 2011 p. 2516); s. 490 and 491 and Pt. 20 Div. 3: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
@@ -10,6 +10,10 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Co-operatives Amendment Act 2016 | 7 of 2016 | 14 Apr 2016 | s. 1 and 2: 14 Apr 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2017 (see s. 2(b) and Gazette 2 Dec 2016 p. 5381)
 Reprint 1: The Co-operatives Act 2009 as at 4 Aug 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
