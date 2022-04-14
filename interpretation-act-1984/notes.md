@@ -56,6 +56,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Legislation Act 2021 Pt. 6 Div. 1 | 13 of 2021 | 24 Aug 2021 | To be proclaimed (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 10 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
