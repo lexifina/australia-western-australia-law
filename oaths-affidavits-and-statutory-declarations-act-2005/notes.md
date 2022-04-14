@@ -20,6 +20,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Veterinary Practice Act 2021 s. 233 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 3 modifies section 9 of the Act. The modified section is identified by the superscript 1M appearing after the section number. The modification ceases on 31 December 2021 unless postponed under section 44(3) and 52 of that Act.
 Defined terms
