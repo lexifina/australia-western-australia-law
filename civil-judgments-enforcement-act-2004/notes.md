@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Civil Judgments Enforcement Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Civil Judgments Enforcement Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Judgments Enforcement Act 2004 | 28 of 2004 | 14 Oct 2004 | s. 1 and 2: 14 Oct 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -15,6 +15,11 @@ Reprint 2: The Civil Judgments Enforcement Act 2004 as at 24 May 2013 (includes 
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 3 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 7 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Courts Legislation Amendment Act 2018 Pt. 2 | 29 of 2018 | 2 Nov 2018 | 3 Nov 2018 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 3 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 The correct short title of this Commonwealth Act is the Child Support (Assessment) Act 1989.
 The Workmen’s Wages Act 1898 was repealed by the Statutes (Repeals and Minor Amendments) Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
