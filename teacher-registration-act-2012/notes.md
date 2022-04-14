@@ -6,7 +6,8 @@ Teacher Registration Act 2012 | 16 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 13 | 7 of 2022 | 29 Mar 2022 | To be proclaimed (see s. 2(b))
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 13 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Teacher Registration Act 2012 s. 166 will not come into operation because the Act it purported to amend was repealed by the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) as at 1 Jul 2012.
 Defined terms
