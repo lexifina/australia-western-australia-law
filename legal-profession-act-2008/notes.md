@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Legal Profession Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Legal Profession Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 | 21 of 2008 | 27 May 2008 | Pt. 1: 27 May 2008 (see s. 2(a)); Act other than Pt. 1: 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
@@ -12,6 +12,10 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 15 | 17 of 2014 | 2 Jul 2014
 Legal Profession Amendment (Levy) Act 2016 | 12 of 2016 | 29 Jun 2016 | s. 1 and 2: 29 Jun 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2016 (see s. 2(b) and Gazette 30 Jun 2016 p. 2739)
 Legal Profession Amendment Act 2016 | 13 of 2016 | 29 Jun 2016 | s. 1 and 2: 29 Jun 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2016 (see s. 2(b) and Gazette 30 Jun 2016 p. 2739)
 Reprint 2: The Legal Profession Act 2008 as at 14 Jun 2019 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 260(a) | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
