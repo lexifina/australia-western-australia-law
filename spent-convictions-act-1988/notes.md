@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Spent Convictions Act 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Spent Convictions Act 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Spent Convictions Act 1988 | 55 of 1988 | 8 Dec 1988 | s. 1 and 2: 8 Dec 1988; Act other than s. 1 and 2: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644)
@@ -61,6 +61,10 @@ Short title | Number and year | Assent | Commencement
  | School Boarding Facilities Legislation Amendment and Repeal Act 2016 s. 24 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
  | Education and Care Services National Law (WA) Amendment Act 2018 Pt. 3 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
  | National Disability Insurance Scheme (Worker Screening) Act 2020 Pt. 7 Div. 1 | 48 of 2020 | 9 Dec 2020 | 1 Feb 2021 (see s. 2(1)(b) and SL 2021/4 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 19 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
