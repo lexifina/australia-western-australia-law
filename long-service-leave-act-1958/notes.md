@@ -24,6 +24,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Industrial Relations Legislation Amendment Act 2021 Pt. 4 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Repealed by the Statute Law Revision Act 1950 of the Commonwealth.
 Repealed by the Defence Legislation Amendment Act 1992 of the Commonwealth.
