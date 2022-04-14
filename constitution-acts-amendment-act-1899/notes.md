@@ -314,6 +314,8 @@ TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (se
 Arts and Culture Trust Act 2021 s. 74 | 15 of 2021 | 9 Sep 2021 | To be proclaimed (see s. 2(b))
 Veterinary Practice Act 2021 s. 229 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
 Aboriginal Cultural Heritage Act 2021 s. 344 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Animal Resources Authority Amendment and Repeal Act 2022 s. 15 | 12 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Footnote no longer applicable.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
