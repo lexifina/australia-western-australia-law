@@ -33,7 +33,8 @@ High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Children and Community Services Amendment Act 2021 s. 3-76 | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(b) and (c))
+Children and Community Services Amendment Act 2021 s. 3-76 | 18 of 2021 | 19 Oct 2021 | s. 3-14, 16-31, 33-38, 41-51, 55-76: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2); s. 15, 32, 39, 40 & 52-54: to be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 2 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
