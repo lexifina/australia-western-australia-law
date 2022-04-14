@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Security and Related Activities (Control) Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Security and Related Activities (Control) Act 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Security and Related Activities (Control) Act 1996 | 27 of 1996 | 22 Jul 1996 | s. 1 and 2: 22 Jul 1996; Act other than s. 1 and 2: 1 Apr 1997 (see s. 2 and Gazette 27 Mar 1997 p. 1693)
@@ -13,6 +13,11 @@ Security and Related Activities (Control) Amendment Act 2008 Pt. 2 | 4 of 2008 |
 Legal Profession Act 2008 s. 703 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 2: The Security and Related Activities (Control) Act 1996 as at 19 Mar 2010 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 47 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 62 reads as follows:
