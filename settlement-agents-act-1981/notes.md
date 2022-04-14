@@ -60,7 +60,8 @@ Consumer Protection Legislation Amendment Act 2019 Pt. 10 | 25 of 2019 | 24 Oct 
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 12 | 7 of 2022 | 29 Mar 2022 | To be proclaimed (see s. 2(b))
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 12 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
