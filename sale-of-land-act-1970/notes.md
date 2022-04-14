@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sale of Land Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Sale of Land Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sale of Land Act 1970 | 119 of 1970 | 10 Dec 1970 | 1 Feb 1971 (see s. 2 and Gazette 22 Jan 1971 p. 149)
@@ -25,6 +25,10 @@ Sale of Land Amendment Act 2016 | 38 of 2016 | 22 Nov 2016 | s. 1 and 2: 22 Nov 
 Strata Titles Amendment Act 2018 Pt. 3 Div. 20 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 20 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 12 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Repealed by the Real Estate and Business Agents Act 1978.
 Defined terms
