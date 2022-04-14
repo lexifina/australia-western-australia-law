@@ -55,6 +55,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 21 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Footnote no longer applicable.
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
