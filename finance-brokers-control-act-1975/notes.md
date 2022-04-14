@@ -36,6 +36,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 5 Div. 1 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The appointed day is 1 August 1977 (see Gazette 17 June 1977 p. 1834).
 The referral day is 1 July 2010 (see Gazette 30 Jun 2010 p. 3187).
