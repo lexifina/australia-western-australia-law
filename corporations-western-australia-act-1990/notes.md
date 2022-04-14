@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 May 2009 of the Corporations (Western Australia) Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Corporations (Western Australia) Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Corporations (Western Australia) Act 1990 | 105 of 1990 | 2 Jan 1991 | 1 Jan 1991 (see s. 2)
@@ -20,6 +20,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 37(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 On 15 July 2001, the Corporations Act 1989 (Commonwealth) was superseded by the Corporations Act 2001 (Commonwealth).
 Now see Australian Securities and Investments Commission Act 2001 (Commonwealth).
