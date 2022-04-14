@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jurisdiction of Courts (Cross-vesting) Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Jurisdiction of Courts (Cross-vesting) Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Jurisdiction of Courts (Cross-vesting) Act 1987 | 68 of 1987 | 22 Nov 1987 | s. 1: 22 Nov 1987; Act other than s. 1: 1 Jul 1988 (see s. 1(2) and Gazette 24 Jun 1988 p. 1995)
@@ -9,9 +9,14 @@ Acts Amendment (Federal Courts and Tribunals) Act 2001 Pt. 6 | 32 of 2001 | 21 D
 Reprint of the Jurisdiction of Courts (Cross-vesting) Act 1987 as at 8 Feb 2002 (includes amendments listed above)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Legal Profession Act 2008 s. 670 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
- | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 82 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
- | Reprint 2: The Jurisdiction of Courts (Cross-vesting) Act 1987 as at 24 Jul 2009 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 82 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Reprint 2: The Jurisdiction of Courts (Cross-vesting) Act 1987 as at 24 Jul 2009 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 50 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 The Federal Courts (State Jurisdiction) Act 1999 s. 21 had not come into operation when it was deleted by the Acts Amendment (Federal Courts and Tribunals) Act 2001 s. 16.
 The Jurisdiction of Courts (Cross-vesting) Amendment Act 1994 s. 7 reads as follows:
 7.Application
