@@ -33,6 +33,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Family Legislation Amendment Act 2006 Pt. 4 | 35 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Superannuation and Family Benefits Act 1938was repealed by the State Superannuation Act 2000 s. 39. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
