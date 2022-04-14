@@ -103,6 +103,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Industrial Relations Legislation Amendment Act 2021 Pt. 2 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b) and (2))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 9 and s. 424 | 9 of 2022 | 14 Apr 2022 | s. 359(2): commencement dependent on the day the Industrial Relations Legislation Amendment Act 2021 s. 69 comes into operation (see s. 2(b)); Pt. 17 Div. 9 (other than s. 359(2)) and 424: to be proclaimed (see s. 2(b) and (c))
 Other notes
 Footnote no longer applicable.
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 (Cwlth). Now see the Fisheries Management Act 1991 s. 4(1) (Cwlth).
