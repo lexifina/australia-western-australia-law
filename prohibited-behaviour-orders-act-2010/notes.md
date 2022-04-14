@@ -11,6 +11,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 106 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 15 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
