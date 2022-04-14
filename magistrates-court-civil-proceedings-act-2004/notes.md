@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (Civil Proceedings) Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (Civil Proceedings) Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Magistrates Court (Civil Proceedings) Act 2004 | 48 of 2004 | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -12,6 +12,11 @@ Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 | 60 of 2011 | 14 Dec 2011
 Reprint 1: The Magistrates Court (Civil Proceedings) Act 2004 as at 13 Apr 2012 (includes amendments listed above except those in the Residential Tenancies Amendment Act 2011)
 Courts Legislation Amendment Act 2012 Pt. 3 | 43 of 2012 | 22 Nov 2012 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 323)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 22 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Other notes
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 Defined terms
