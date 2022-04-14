@@ -46,8 +46,9 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
 Guardianship and Administration Amendment (Medical Research) Act 2020 s. 13 and 15 | 14 of 2020 | 6 Apr 2020 | 7 Apr 2024 (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
-Footnotes no longer applicable.
+1-3Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
 Footnotes no longer applicable.
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
