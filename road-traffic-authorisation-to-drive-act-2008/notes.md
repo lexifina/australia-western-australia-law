@@ -13,6 +13,7 @@ Road Traffic Legislation Amendment Act 2016 s. 20 | 25 of 2016 | 21 Sep 2016 | 2
 Road Traffic Amendment (Driving Offences) Act 2018 Pt. 3 | 19 of 2018 | 7 Sep 2018 | 17 Nov 2018 (see s. 2(b) and Gazette 16 Nov 2018 p. 4523)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 3 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
+Transport Legislation Amendment (Identity Matching Services) Act 2022 Pt. 3 | 8 of 2022 | 14 Apr 2022 | 15 Apr 2022 (see s. 2(b))
 Other notes
 The Road Traffic Amendment Act (No. 2) 2007 s. 27 commenced 1 Dec 2010.
 The Road Traffic Legislation Amendment Act 2012 Pt. 3 (s. 15-18) commenced 1 Aug 2012; Pt. 3 other than s. 15-18 commenced 27 Apr 2015.
@@ -25,11 +26,12 @@ alcohol offence5A(1)
 amending Act64
 another jurisdiction’s driving authorisation13(1), 43(2)
 application25
-ASIO Act11B
-ASIO official11B
+ASIO Act11E(1)
+ASIO official11E(1)
 Australian driver licence3(1)
 Australian driver licensing authority3(1)
-CEO (road passenger services)11B
+authorised purpose11C(1)
+CEO (road passenger services)11G(1)
 commencement day64
 current demerit points40(1)
 dealt with: infringement notice40(1)
@@ -39,22 +41,26 @@ demerit point offence40(1)
 demerit point offence in WA40(1)
 demerit point registry jurisdiction40(1)
 demerit points register40(1)
-destroyed9(1), 11A(1)
-Director-General of Security11B
+Department11J(1)
+Director-General of Security11E(1)
 disqualification period54(1)
 disqualified28(1)
 driver licence14(1)
 driver’s licence3(1)
 driver’s licence held: a person19
+Entity11J(1)
 excessive demerit points notice40(1)
 excessive demerit points (novice driver) notice40(1)
 external licensing authority3(1)
 extraordinary licence3(1)
+Face Matching Services11J(1)
 foreign law15(1)
 former demerit point registry jurisdiction58(1)
 grant 3(1)
+identifying information11B(1)
 infringement notice40(1)
-law enforcement official11B
+intergovernmental agreement11B(1)
+law enforcement official11E(1)
 learner’s permit3(1)
 national demerit point offence40(1)
 national demerit point offence schedule40(1)
@@ -62,10 +68,11 @@ new licensing jurisdiction57
 novice driver40(1)
 novice driver (type 1)40(1)
 novice driver (type 2)40(1)
-photograph9(1), 11A(1), 11B
-police official11B
+police official11E(1)
 post-commencement demerit points50(1)
+prescribed person11C(1)
 provisional licence3(1)
+related Act3(1)
 review date64A(1)
 RT Act64
 section 51 election40(1)
