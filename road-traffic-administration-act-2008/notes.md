@@ -20,11 +20,12 @@ Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 4 | 26 of 201
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 5 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Family Violence Legislation Reform Act 2020 Pt. 8 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
 Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 3 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
+Transport Legislation Amendment (Identity Matching Services) Act 2022 Pt. 2 | 8 of 2022 | 14 Apr 2022 | 15 Apr 2022 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 administrative action18(1)
-administrative authority18(1)
+administrative authority17(1)
 alleged offender83(1)
 amending Act147
 approved117G(3)
@@ -45,7 +46,7 @@ business address4
 carriageway117B(1)
 CEO4
 certificate126(1)
-co-driver4, 28, 28, 38
+co-driver4, 28, 38
 commencement day147, 166
 Commissioner140(1)
 compensation order123
@@ -55,13 +56,13 @@ corresponding4
 corresponding authority4
 demerit points information4
 demerit points register4
-detection points117B(1)
+detection points117A(1)
 director119(1), 137(1)
 disclose4
 Disq7
 distance measuring equipment117(1)
-district4
-drive4
+district3(2)
+drive3(2)
 driver4, 28, 38
 driver’s licence4
 driver’s licence document36(3)
@@ -77,7 +78,7 @@ family violence4
 family violence evidentiary document4
 fit to drive a vehicle or to run its engine29(2)
 GCM4
-Government road132(1)
+Government road132
 GVM4
 heavy traffic132(1)
 heavy vehicle4
@@ -105,7 +106,7 @@ light vehicle4
 load4
 loadmeter113(1)
 Max7
-MDLR compliance purposes4, 28
+MDLR compliance purposes3(2), 27(2)
 MDLR embargo notice71(5)
 MDLR offence4, 28
 Min7
@@ -114,7 +115,7 @@ modified penalty104(1)
 motor vehicle4
 number plate36(3)
 occupier4
-offence81(1)
+offence80(1)
 offence information12(1)
 office holder116(1)
 optional plates information4
@@ -124,6 +125,7 @@ passenger4
 period for complying90, 97
 permit information4
 personal details32(1)
+photograph4
 photographic evidence90
 power assisted pedal cycle4
 predominantly for residential purposes51(2)
@@ -137,27 +139,28 @@ public authority4
 public place28
 public safety4, 28
 qualified to drive a vehicle or to run its engine29(1)
-reasonable excuse56(5), 57(5), 58(6), 61C(5), 61D(4), 61E(4)
+reasonable excuse56(5), 57(5), 58(6), 61C(5), 61D(3), 61E(4)
 records4
 relevant authorisation12(1)
 relevant authority13A(1)
 remote communication62
-residential purposes51(1), 51(1)
+residential purposes51(1)
 responsible person4, 34(1)
-road4
+road3(2)
 road authority123
 road infrastructure4, 123
-road law4, 17(2), 110(1A)
+road law3(2), 17(2), 110(1A)
 road safety purpose15(1)
 road transport4
-RT Act147
 RT(A) Act166
-RTA Part 6A embargo notice71(5A)
+RT Act147
 RTA Part 6A compliance purposes4, 28
 RTA Part 6A documentation28
+RTA Part 6A embargo notice71(5A)
 RTA Part 6A offence28
 run28
 shortest practicable distance117B(1)
+signature4
 speed measuring and recording equipment117(1)
 speed measuring equipment117(1), 169(1)
 state of mind119(1)
