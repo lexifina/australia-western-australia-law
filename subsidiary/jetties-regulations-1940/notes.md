@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
@@ -137,6 +137,10 @@ Jetties Amendment Regulations (No. 4) 2020 | SL 2020/238 4 Dec 2020 | r. 1 and 2
 Transport Regulations Amendment (Ports) Regulations 2021 Pt. 2 | SL 2021/51 7 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Waiver and Refund) Regulations 2022 Pt. 2 | SL 2022/47 8 April 2022 | 9 April 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Jetties Amendment Regulations (No. 2) 2022 r. 3-15 | SL 2022/48 22 Apr 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
