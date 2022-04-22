@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Redevelopment Authority Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Metropolitan Redevelopment Authority Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Metropolitan Redevelopment Authority Regulations 2011 | 30 Dec 2011 p. 5475-514 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2011 (see r. 2(b) and Gazette 30 Dec 2011 p. 5573)
@@ -11,6 +11,10 @@ Metropolitan Redevelopment Authority Amendment Regulations (No. 2) 2017 | 4 Aug 
 Metropolitan Redevelopment Authority Amendment Regulations 2019 | 31 May 2019 p. 1715-16 | r. 1 and 2: 31 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2019 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2020 | SL 2020/14 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations (No. 2) 2020 | SL 2020/250 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Metropolitan Redevelopment Authority Amendment Regulations 2022 r. 3-6 | SL 2022/52 22 Apr 2022 | 6 May 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
