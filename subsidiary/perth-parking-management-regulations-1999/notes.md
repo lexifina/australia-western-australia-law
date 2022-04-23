@@ -34,12 +34,13 @@ Perth Parking Management Amendment Regulations 2016 | 13 May 2016 p. 1428 | r. 1
 Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 26 May 2017 p. 2639-45 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 2 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
-Other notes
-Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
+Perth Parking Management Amendment Regulations 2022 | SL 2022/51 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Apr 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act3
 carriageway3
 fire brigade3
-vehicle of a disabled person3
+private road3
+road3
+vehicle of a disabled person2
