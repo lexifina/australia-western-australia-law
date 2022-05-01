@@ -30,10 +30,11 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 102 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Reprint 5: The Children and Community Services Act 2004 as at 22 Mar 2019 (includes amendments listed above)
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+Children and Community Services Amendment Act 2021 (other than s. 15, 32, 39, 40 and 52-54) | 18 of 2021 | 19 Oct 2021 | s. 1 and 2: 19 Oct 2021 (see s. 2(a)); Act other than s. 1, 2, 15, 32, 39, 40 and 52-54: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Children and Community Services Amendment Act 2021 s. 3-76 | 18 of 2021 | 19 Oct 2021 | s. 3-14, 16-31, 33-38, 41-51, 55-76: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2); s. 15, 32, 39, 40 & 52-54: to be proclaimed (see s. 2(c))
+Children and Community Services Amendment Act 2021 s. 15, 32, 39, 40 and 52-54 | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 2 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -42,6 +43,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Aboriginal child3
+Aboriginal or Torres Strait Islander representative organisation3
 Aboriginal person3
 adult3
 advisory body27(1)
@@ -56,37 +58,41 @@ assistance22(4A)
 authorisationSch. 1 cl. 1
 authorised CEO131A
 authorised entity28A
-authorised officer3, 195(1)
+authorised officer3
 authorised officer (Child Protection)Sch. 1 cl. 29
 authorised officer (Education)Sch. 1 cl. 29
 authorised person112
+authorised purpose241A
 boarding facility124A
 boarding supervisor124A
 body piercing104A(1)
-care plan10(4), 88I(1), 89(1), 91
-care plan review panel91
+care plan3, 89(2)
 care planning decision91
+care plan review panel91
 carer3
 CEO3, 28A
 CEO (Corrective Services)24A(1), 131A
 CEO (Education)131A, Sch. 1 cl. 29
+change of name application63(2)
 child3, 42, 74, 79(1), 84(1), 105(1), 124F(1), 126(1), 131, 150(1), 240(1)
 child care services3
 child protection order157(1)
 child protection proceeding157(1)
-child welfare law157(1)
 Children’s Court157(1)
+child welfare law157(1)
 commencementSch. 1 cl. 28(1)
 commencement day124A, Sch. 1 cl. 1 and 29
 Commissioner242A(1)
 Commissioner of Police124D(1)
 Commonwealth agency23(1)
+community3
 condition51(1), 64(1)
 consent127(1)
 continuation order88E(1)
 corrective services officer131A
 corresponding authority23(1)
 Court3
+cultural support plan3, 89A
 delivery work188
 Department3
 departmental parenting agreementSch. 1 cl. 29
@@ -99,12 +105,14 @@ education officer131A
 emotional abuse28(1)
 employ188
 engage in conduct101(2)
+entry warrant241A, 241L(1)
 existing appealSch. 1 cl. 1
 existing orderSch. 1 cl. 1
 existing proceedingsSch. 1 cl. 1
 exposed3
 extended orderSch. 1 cl. 1
 facility125A(1)
+family3
 family business188
 family violence3
 firearm112
@@ -114,27 +122,29 @@ harm3, 28(1), 101(2)
 home order157(1)
 identified person237(2)
 identifying information124A, 240(1)
+industrial inspector3
 in need of protection3, 28(2)
-in the CEO’s care3, 30
-industrial inspector188
 interested person23(1)
 interim order3, 157(1)
 interim order (secure care)3
 interstate law157(1)
 interstate officer157(1)
 intervention action32(2)
+in the CEO’s care3, 30
 intoxicant112
 investigable death242A(1)
 judge3
 leave124H(1)
+leaving care plan3, 89B
 legal practitioner148(1)
-magistrate3
+magistrate3, 241A
 midwife124A
 Ministerial Body17, Sch. 1 cl. 27(1)
 neglect28(1)
 negotiated placement agreement3
 non-government provider23(1), 28A
 notice193(1), 194A(1)
+notification day69B(2)
 notifier240(1)
 nurse124A
 officer3, 37(1), 41(1), 87(1), 88J(1)
@@ -142,7 +152,7 @@ officer in charge40(1)
 official131A
 old order237(1)
 order124H(1)
-parent3, 42, 88, 91, 131, 157(1)
+parent3
 parentage testing order136A
 parentage testing procedure136A
 parental responsibility3
@@ -153,16 +163,14 @@ party3
 party to the initial proceedings42
 personal material97(1)
 place3
-place of residence105(1)
 placement arrangement3
+place of residence105(1)
 pre-hearing conference3
 prescribed authority28A
 prescribed period104(1)
 prescribed report24A(1)
 prohibited article112
-proposal143(1)
 proposed interstate order158(1), 167(1)
-proposed special guardian61(1)
 protected child88A
 protection application3
 protection order3
@@ -172,21 +180,23 @@ protection order (time-limited)3
 protection order (until 18)3
 protection proceedings3
 provide care104(1)
-provisional care plan10(4), 39(1), 88I(1)
-provisional protection and care3
+provisional care plan3, 39(2)
 provisionally protected child88A
+provisional protection and care3
 PSR ActSch. 1 cl. 29
 PSR Act parenting agreementSch. 1 cl. 29
+publication day88B(3)
 public authority3
-publication day88B(3)(a)
 publish237(1)
+record241A
 registrar of the Court157(1)
-relative3
-relevant behaviour131D(a)
+relevant behaviour131D
 relevant information23(1), 28A
-relevant modification94(2)(b)
+relevant modification94(2)
+relevant officer22(4AC)
 relevant person73(1)
-remote communication120(1)
+relevant record241A
+remote communication3
 repealed ActSch. 1 cl. 1
 report124A, 138
 reporter124A
@@ -197,7 +207,7 @@ responsible parenting agreement3, 131C
 responsible person131A
 section 18(1)Sch. 1 cl. 27(1)
 secure care arrangement3, 88C(1)
-secure care decision88G(1)
+secure care decision3, 88G(1)
 secure care facility3
 secure care period88F(1), 134A(2)
 seized117(1)
@@ -205,14 +215,14 @@ sending State157(1)
 service provider3
 sexual abuse124A
 social services3
-special guardian42
+special guardian3
 specifiedSch. 1 cl. 25(5)
 State157(1)
 teacher124A
 Torres Strait Islander3
 Torres Strait Islander child3
 transferred order181(1)
-Tribunal decision94(2)(b)
+Tribunal decision94(2)
 variation134(2A)
 warrant (access)121(1)
 warrant (apprehension)122(1)
