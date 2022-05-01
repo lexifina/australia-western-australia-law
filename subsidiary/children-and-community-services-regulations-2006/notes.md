@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Children and Community Services Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Children and Community Services Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Children and Community Services Regulations 2006 | 18 Jan 2006 p. 353-72 | 1 Mar 2006 (see r. 2 and Gazette 14 Feb 2006 p. 695)
@@ -29,24 +29,24 @@ Children and Community Services Amendment Regulations 2020 | SL 2020/142 28 Aug 
 Children and Community Services Amendment Regulations (No. 2) 2020 | SL 2020/237 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Children and Community Services Amendment Regulations 2021 | SL 2021/36 9 Apr 2021 | r. 1 and 2: 9 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2021 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 2) 2021 | SL 2021/139 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Children and Community Services Amendment Regulations 2022 r. 3-10 | SL 2022/49 22 Apr 2022 | 1 May 2022 (see r. 2(b))
+Children and Community Services Amendment Regulations 2022 | SL 2022/49 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2022 (see r. 2(b))
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Aboriginal or Torres Strait Islander organisation23(1)
 audio link9
-bodily sample15
-care plan5(1)
+bodily sample16A
+care plan5(2)
 commencement day24
-donor14(2)
+donor16A
 guardian16A
 HLA16A
-incident6
+incident7
+interim carer4A(1)
+interim placement arrangement4A(2)
 medical practitioner16A
 NATA16A
 nominated reporter16A
@@ -58,8 +58,8 @@ report16A, 16
 represented person16A
 responsible person16A
 sample16A
-sampler15
+sampler16A
 section3
-seized article8
-testing15
+seized article8(1)
+testing16A
 video link9
