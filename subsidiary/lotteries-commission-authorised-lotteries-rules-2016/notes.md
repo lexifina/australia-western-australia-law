@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Lotteries Commission (Authorised Lotteries) Rules 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Lotteries Commission (Authorised Lotteries) Rules 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Lotteries Commission (Authorised Lotteries) Rules 2016 | 7 Oct 2016 p. 4405-527 | r. 1 and 2: 7 Oct 2016 (see r. 2(a)); Rules other than r. 1 and 2: 8 Oct 2016 (see r. 2(b))
@@ -13,16 +13,13 @@ Lotteries Commission (Authorised Lotteries) (Saturday Lotto) Amendment Rules 202
 Lotteries Commission (Authorised Lotteries) Amendment Rules 2020 | 6 Nov 2020 p. 4156-61 | r. 1 and 2: 6 Nov 2020 (see r. 2(a)); Rules other than r. 1 and 2: 9 Nov 2020 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) Amendment (Saturday Lotto) Rules 2021 | 23 Jul 2021 p. 3154 | r. 1-3: 23 Jul 2021 (see r. 2(a)); Rules other than r. 1-3: 24 Jul 2021 (see r. 2(b))
 Lotteries Commission (OZ Lotto) Amendment Rules 2022 | 5 Apr 2022 p. 2482-3 | r. 1 and 2: 5 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: operative immediately after the OZ Lotto draw on 10 May 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Lotteries Commission (Super66 and Removal of Self-serve Kiosks) Amendment Rules 2022 r. 3-13 | 12 Apr 2022 p. 2728-9 | Operative immediately after the Super66 draw on 14 May 2022 (see r. 2(b))
+Lotteries Commission (Super66 and Removal of Self-serve Kiosks) Amendment Rules 2022 | 12 Apr 2022 p. 2728-9 | r. 1 and 2: 12 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: operative immediately after the Super66 draw on 14 May 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 advance play option3
 agent3
-agent’s component63(1), 73, 86, 99, 110
+agent’s component63(1), 73, 86, 98(2), 110
 authorised financial institution account3
 authorised provider3
 Autoplay8(2)
@@ -42,19 +39,19 @@ Lotterywest member3
 Lotterywest membership3
 Lotterywest membership card3
 Lotterywest membership number3
-lotto3, 63(2), 63(3)
+lotto3, 63(2) and (3)
 Lotto Bloc3
-lotto draw3, 63(2), 63(3)
+lotto draw3, 63(2) and (3)
 membership account3
 Monday and Wednesday Lotto Rules3
 Monday Lotto3
 OZ Lotto3
 payout period3
+player3, 37
 Play Online3
 Play Online profile3
-play type52
-player3, 37
 playslip3
+play type52
 Powerball3
 Powerball draw86
 Powerball number86
@@ -63,20 +60,19 @@ Powerball selection86
 Powerpik86
 prize37
 prize fund63(1), 73, 86, 99, 110, 137
-prize pool63(1), 63(2), 63(3), 73, 86, 99, 110, 137
-prize reserve fund63(1), 73, 86, 99, 110, 137
+prize pool63(1), (2) and (3), 73, 86, 99, 110, 137
+prize reserve fund63(1), 73, 86, 98(2), 110, 137
 promotional coupon3
 publish3
 receipted ticket3
 Saturday Lotto3
 selected digits137
 selected number3, 52
-self-serve kiosk3
 selling period3
 Set for Life3
 subscriber3, 3
 Super663
-supplementary number63(2), 63(3), 73, 99, 110
+supplementary number63(2) and (3), 73, 99, 110
 syndicate sales (subscription) adjustment26(1)
 system entry3
 total prize pool73, 86, 99, 137
@@ -85,4 +81,4 @@ validation period63(1), 73, 86, 99, 110, 137
 wager3
 Wednesday Lotto3
 winning digits137
-winning number63(2), 63(3), 73, 86, 99, 110
+winning number63(2) and (3), 73, 86, 99, 110
