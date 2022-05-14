@@ -36,6 +36,7 @@ Magistrates Court Rules Amendment Rules 2021 Pt. 2 | SL 2021/25 26 Feb 2021 | 27
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2021 | SL 2021/45 23 Apr 2021 | r. 1 and 2: 23 Apr 2021 (see r. 2(a)); Rules other than r. 1 and 2: 24 Apr 2021 (see r. 2(b))
 Magistrates Court Rules Amendment Rules (No. 2) 2021 Pt. 2 | SL 2021/133 23 Jul 2021 | 24 Jul 2021 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2022 | SL 2022/15 25 Feb 2022 | r. 1 and 2: 25 Feb 2022 (see r. 2(a)); Rules other than r. 1 and 2: 26 Feb 2022 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2022 Pt. 2 | SL 2022/54 13 May 2022 | 14 May 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

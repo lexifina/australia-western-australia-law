@@ -20,6 +20,7 @@ Magistrates Court Rules Amendment Rules 2018 Pt. 3 | 18 Sep 2018 p. 3515-16 | 19
 Magistrates Court Rules Amendment (Inactive Cases) Rules 2019 Pt. 3 | 5 Apr 2019 p. 1012-16 | 6 Apr 2019 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2020 Pt. 3 | SL 2020/67 28 May 2020 | 1 Jun 2020 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2021 Pt. 4 | SL 2021/25 26 Feb 2021 | 27 Feb 2021 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2022 Pt. 4 | SL 2022/54 13 May 2022 | 14 May 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -30,7 +31,7 @@ amended Rules82
 application4
 approved form4
 child69
-commencement day82
+commencement day82, 87(1)
 counterclaim4
 default judgment4
 defendant4
