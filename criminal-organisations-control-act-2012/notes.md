@@ -10,6 +10,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 147 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Firearms Amendment Act 2022 Pt. 3 Div. 2 | 13 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Criminal Organisations Control Act 2012 s. 176(5) had not come into operation when it was deleted by the Statutes (Minor Amendments) Act 2017 s. 6(3).
 The amendment in the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 to Sch. 1A Pt. 1 it. 3 and Pt. 2 it. 3 is not included because the reference to the provision to be amended is unclear.
