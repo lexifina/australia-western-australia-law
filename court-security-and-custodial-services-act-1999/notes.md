@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Court Security and Custodial Services Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Court Security and Custodial Services Act 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Court Security and Custodial Services Act 1999 | 46 of 1999 | 8 Dec 1999 | s. 1 and 2: 8 Dec 1999; Act other than s. 1, 2 and Pt. 5: 18 Dec 1999 (see s. 2(1) and Gazette 17 Dec 1999 p. 6175); Pt. 5: 18 Jun 2000 (see s. 2(2) and Gazette 16 Jun 2000 p. 2939)
@@ -27,6 +27,11 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Declared Places (Mentally Impaired Accused) Act 2015 s. 85 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 4: The Court Security and Custodial Services Act 1999 as at 14 Aug 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 106 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Firearms Amendment Act 2022 s. 83 | 13 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(c))
+Other notes
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
