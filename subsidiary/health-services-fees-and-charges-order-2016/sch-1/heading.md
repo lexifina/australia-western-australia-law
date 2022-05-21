@@ -9,7 +9,7 @@
  | (b)for private in-patients —
  | (i)in single bed wards (if taken at patient’s request) | $686 per day
  | (ii)in other wards | $374 per day
- | (c)for nursing home type patients | $64.05 per day
+ | (c)for nursing home type patients | $65.40 per day
  | (d)for nursing home type private patients | $202.15 per day
  | (e)for ineligible in-patients | $2 983 per day
  | (f)for eligible veteran in-patients | no charge
@@ -39,7 +39,7 @@
 ## Subdivision 5 — Other services
 [Heading inserted: SL 2021/134 cl. 4.]
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $41 per day
-[Division 1 inserted: SL 2021/134 cl. 4; amended: SL 2021/194 cl. 4; SL 2022/9 cl. 4.]
+[Division 1 inserted: SL 2021/134 cl. 4; amended: SL 2021/194 cl. 4; SL 2022/9 cl. 4; SL 2022/55 cl. 4.]
 ## Division 2 — Compensable patients
 [Heading inserted: SL 2021/134 cl. 4.]
 ## Subdivision 1 — Compensable in-patients
