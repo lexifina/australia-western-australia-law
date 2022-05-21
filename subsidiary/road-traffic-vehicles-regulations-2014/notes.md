@@ -37,6 +37,7 @@ Transport Regulations Amendment (Electric Rideable Devices) Regulations 2021 Pt.
 Road Traffic (Vehicles) Amendment Regulations 2021 | SL 2021/206 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations 2022 | SL 2022/16 25 Feb 2022 | r. 1 and 2: 25 Feb 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2022 (see r. 2(b))
 Transport Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/23 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Road Traffic (Vehicles) Amendment Regulations (No. 3) 2022 | SL 2022/57 20 May 2022 | r. 1 and 2: 20 May 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2022 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -63,6 +64,9 @@ For the purposes of the Road Traffic (Vehicles) Act 2012 section 18, the specifi
 The Road Traffic (Vehicles) Amendment Regulations (No. 6) 2021 r. 4 reads as follows:
 4.Specified day
 For the purposes of the Road Traffic (Vehicles) Act 2012 section 18, the specified day in relation to these regulations is 1 July 2021.
+The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2022 r. 4 reads as follows:
+4.Specified day
+For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2022.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
