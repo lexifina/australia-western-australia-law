@@ -30,10 +30,12 @@ Duties Amendment (Additional Duty for Foreign Persons) Act 2018 | 24 of 2018 | 1
 Revenue Law Amendment Act 2019 Pt. 2 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b)(i))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Duties Amendment Act 2022 (other than Pt. 3) | 16 of 2022 | 27 May 2022 | Pt. 4: deemed to have come into operation on 13 Jun 2019 (see s. 2(c)); Pt. 1: 27 May 2022 (see s. 2(a)); Act other than Pt. 1, 3 and 4: 28 May 2022 (see s. 2(d))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Duties Amendment Act 2022 Pt. 3 | 16 of 2022 | 27 May 2022 | 1 Jul 2022 (see s. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
@@ -44,7 +46,7 @@ If a modification is to:
 ·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
 ·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 The Mining Act 1904 was repealed by the Mining Act 1978.
-This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
+This section is deemed to have come into operation on 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 s. 2(b) and Pt. 2 Div. 1 and 2).
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
 The Duties Act 2008 Sch. 3 Div. 2 was repealed by the Revenue Laws Amendment Act 2008 s. 4.
 The Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 was deleted by the Duties Legislation Amendment Act 2013 s. 5. The amendments made by the Revenue Laws Amendment Act 2010 Pt. 3 Div. 1 have no effect for the same reason.
@@ -68,6 +70,7 @@ aggregated transaction147F(3)
 agreement by instalments33(1)
 amended provisionsSch. 3 cl. 37
 amended section 244ASch. 3 cl. 50(1)
+appropriate reassessment officer244B(3)
 approved superannuation fund122(2)
 associate205A(1), 205B(1) and (2)
 associated acquisition259(6)
@@ -83,8 +86,8 @@ C49(1)
 call option44(1), 177(1), 197A(1)
 cancelled transaction107(1)
 cap amount77(2A)
-car or bus244A(1)
 caravan228
+car or bus244A(1)
 caveat278(1)
 CEO228
 charitable organisation228
@@ -93,7 +96,7 @@ child128(1)
 chosen entity125(2)
 circuit layout right79
 commencementSch. 3 cl. 37
-commencement day Sch. 3 cl. 46(1)
+commencement daySch. 3 cl. 46(1) and 55(1)
 Commissioner113A(1)
 commodities79
 Commonwealth Act121
@@ -111,22 +114,22 @@ construction147A(1)
 contingent consideration32(1)
 continuing proprietor or proprietors45(1), 178(3)
 contract of insurance206, 208
-controlling entity264(1), 264(1)
+controlling entity264(1)
 corporate consolidation259(1)
 corporate trustee3
 corporation3
 Corporations Act3
 corresponding State law228
 court3
+dealer228
+decision96B(1)
+declaration of trust9
+deemed transaction78A(3), 120B(3)
 de facto partner of 2 years9
 de facto partners of 2 years9, 244A(1)
 de facto relationship62(2), 128(1)
 de facto relationship instrument128(1)
 de facto relationship property128(1)
-dealer228
-decision96B(1)
-declaration of trust9
-deemed transaction78A(3), 120B(3)
 dependant127(1)
 dependent transaction274(1)
 deposit141(1)
@@ -146,9 +149,9 @@ dutiable transactions11(2)
 dutiable value9, 205F(1), 231
 duties Act3
 duty3, 9, 148(1), 206, 228
-duty endorsed3, 272(1) and (2), 272(3)
+duty endorsed3, 272(1), (2) and (3)
 dwelling205A(1)
-earlier acquisition189(4), 189(6)
+earlier acquisition189(4) and (6)
 earlier instrumentSch. 3 cl. 10(1)
 electronic conveyancing instrument22A, 273A(1)
 eligible rollover fund121
@@ -159,9 +162,9 @@ entitlement value194(4)
 entity9, 102(3), 148(1), 257(1)
 exempt body3
 exempt family farm transaction99(1)
-exempt transaction9
 exemption257(1)
 exemption application262(1)
+exempt transaction9
 exploration amount9
 family257(1)
 Family Court Act9
@@ -181,7 +184,8 @@ first dutiable transaction35, 47, 51
 first home owner concessional rate141(1)
 first home owner concessional transaction141(1)
 first transaction104
-fixed infrastructure3, 91A(1)
+fixed infrastructure3
+fixed infrastructure 91A(1)
 fixed infrastructure access right3, 91A(1), (2) and (4)
 fixed infrastructure activity91D(1)
 fixed infrastructure control right3, 91A(1) and (4)
@@ -233,6 +237,7 @@ land3, 3A(1), (2) and (5), 147F(1) and (3), 148(1), Sch. 3 cl. 48(2), (3) and (4
 land asset148(1), 205ZE(2)
 landholder91A(1), 148(1)
 landholder duty3
+lease3
 legal personal representative127(1)
 licence228, 230(2) and (3)
 life insurance206
@@ -259,21 +264,21 @@ mining tenement fixture36A(1), 149A(1)
 mining tenement land asset149A(3)
 mining tenement valuation provision91I(1)
 motor cycle244A(1)
-motor vehicle228
 motorised wheelchair244A(1)
+motor vehicle228
 new dutiable property9, 17(1) and (2)
 new record273(3)
 new residential property205F(1), 205I(1) and (2)
 new trustee119(1)
 new vehicle228
 nominal duty3
-notifiable event257(1), 264(2) and (3)
+notifiable event257(1), 263(2), 264(3)
 notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
 offshore risk insurance206
 old partnership77(4)
 old public unit trust119(1)
-option property44(1)
 optional feature231
+option property44(1)
 order3
 original dutiable property123(2)
 original equipment239(2)
@@ -320,6 +325,7 @@ prospective right91E(1), 91F(1), 91I(1)
 public authority3
 public float3, 257(1)
 purchase price231
+purchaser244B(1)
 put option44(1), 177(1), 197A(1)
 registered insurer206
 registered scheme3
@@ -333,7 +339,7 @@ relevant acquisition Sch. 3 cl. 37
 relevant activity91A(1)
 relevant body3
 relevant consolidation transaction257(1), 259(2), (3), (4) and (5)
-relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
+relevant entity126(1), 155(4), 156A(1), 264(1), 266A(1)
 relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
 relevant land assets167(1), 168(1)
@@ -341,7 +347,7 @@ relevant licence277(1)
 relevant partnership property78(1), 78A(1)
 relevant period29(3), 147F(2) and (4), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
-relevant reconstruction transaction257(1), 260(1), 260(2), (2A), (3), (4) and (5)
+relevant reconstruction transaction257(1), 260(1), (2), (2A), (3), (4) and (5)
 relevant reconstruction transaction property266B(2)
 relevant residential property205ZM(1)
 relevant transaction257(1)
@@ -358,7 +364,7 @@ residential land147A(1), 147D
 residential landholder205ZD(1)
 residential park site3
 residential partnership acquisition205F(1)
-residential property3, 205E(1), 205E(2), 205E(3)
+residential property3, 205E(1), (2) and (3)
 residential trust acquisition205F(1)
 residential trust surrender205F(1)
 responsible entity119(1)
@@ -374,19 +380,21 @@ section 270 decision269(1)
 security257(1)
 security holder259(4)
 security interest3
+seller244B(1)
 separate transactions147F(3)
 share3, 63
 significant interest161
 simultaneous put and call option9, 177(1)
 single acquisition205ZK(2)
 special dutiable property9, 18
-special residential property205F(1)
 specialised equipment231
 specialised vehicle231
+special residential property205F(1)
 splitting agreement128(1)
 Stamp Act referenceSch. 3 cl. 28(1)
 stamp dutySch. 3 cl. 5(3)
 step-child6(1)
+strata lease3
 subdivision conditional agreement9
 subsale transaction107(1)
 subsequent transaction104
@@ -401,8 +409,8 @@ surplus property113A(1), 148(1)
 surplus receiving body113A(1)
 surrender9
 taker in default9
-tax avoidance scheme268(2)
 Taxation Administration Act3
+tax avoidance scheme268(2)
 taxpayer147A(1)
 terminated on relevant grounds9
 terms contract141(1)
@@ -413,20 +421,20 @@ transaction record3
 transfer9
 transfer duty3
 transfer duty statement3
-transfer property78(1)
 transferee99(1), 141(1)
 transferor99(1), 118(1), 122(2), 173(1)
+transfer property78(1)
 transfers42(8)
-triggering acquisition266B(2)
+triggering acquisition266A(2)
 triggering acquisition property266B(2)
 trust acquisition9
 trust surrender9
 unencumbered value9, 36(1), 148(1)
 unlisted corporation63
 vehicle228, 230(1)
-vehicle licence duty3
 vehicle A239(1)
 vehicle B239(1)
+vehicle licence duty3
 Vehicles Act228
 voting power205C(1)
 Western Australian business9, 79
