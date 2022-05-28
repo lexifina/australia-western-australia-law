@@ -195,11 +195,12 @@ Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 2 | 47 of 2020 | 9 Dec 202
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2021 Pt. 2 | 1 of 2021 | 2 Jun 2021 | 3 Jun 2021 (see s. 2(b))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act (No. 2) 2021 Pt. 2 | 21 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 Pt. 6 Div. 2 (other than s. 67) | 25 of 2021 | 13 Dec 2021 | 24 Dec 2021 (see s. 2(b) and SL 2021/219 cl. 2)
+COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2022 Pt. 2 | 15 of 2022 | 27 May 2022 | 28 May 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Criminal Code Amendment (COVID-19 Response) Act 2020 s. 4(2) and 5(3) | 8 of 2020 (as amended by No. 39 of 2020 Pt. 3, No. 1 of 2021 Pt. 3 and No. 21 of 2021 Pt. 3) | 3 Apr 2020 | 4 Jul 2022 (see s. 2(b))
+Criminal Code Amendment (COVID-19 Response) Act 2020 s. 4(2) and 5(3) | 8 of 2020 (as amended by No. 39 of 2020 Pt. 3, No. 1 of 2021 Pt. 3, No. 21 of 2021 Pt. 3 and No. 15 of 2022 Pt. 3) | 3 Apr 2020 | 4 Jan 2023 (see s. 2(b))
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
 Firearms Amendment Act 2022 Pt. 3 Div. 1 | 13 of 2022 | 18 May 2022 | 15 Jun 2022 (see s. 2(b))
 Other notes
