@@ -86,15 +86,17 @@ Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2021 Pt. 3 Div. 2 | SL 2021/215 17 Dec 2021 | 1 Jul 2022 (see r. 2(c))
+Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2022 Pt. 3 Div. 2 | SL 2022/64 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Environmental Protection Amendment Regulations 2022 r. 3-7 | SL 2022/68 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
-Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
+Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
 Proclaimed 1 July 1998 by Gazette 26 June 1998 p. 3369.
 At the time of this compilation section 110H of the Act provides for the establishment of an account called the Waste Management and Recycling Account.
 Expired 30 June 2012.
 The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
 The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000 r. 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted by Gazette 19 December 2000 p. 7284.
+The Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2021 Pt. 3 Div. 2 (SL 2021/215) was deleted before it could come into operation (see the Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2022 r. 5 (SL 2022/64)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
