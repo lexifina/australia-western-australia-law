@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Firearms Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Firearms Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Firearms Regulations 1974 | 29 Mar 1974 p. 1056-76 | 1 Jul 1974 (see r. 1 and Gazette 29 Mar 1974 p. 1027)
@@ -102,6 +102,10 @@ Firearms Amendment Regulations 2020 | SL 2020/140 28 Aug 2020 | r. 1 and 2: 28 A
 Police Regulations Amendment (Procurement) Regulations 2020 Pt. 2 | SL 2020/248 18 Dec 2020 | 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/106 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Firearms Amendment Regulations 2022 | SL 2022/40 25 Mar 2022 | r. 1 and 2: 25 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Mar 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/65 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
