@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Perth Parking Management Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Perth Parking Management Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Perth Parking Management Regulations 1999 | 16 Jul 1999 p. 3227-34 | 16 Jul 1999 (see r. 2 and Gazette 16 Jul 1999 p. 3183)
@@ -35,6 +35,10 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 4 | 26 M
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 25 May 2018 p. 1640-7 | 1 Jul 2018 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 2 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
 Perth Parking Management Amendment Regulations 2022 | SL 2022/51 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Apr 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 2 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
