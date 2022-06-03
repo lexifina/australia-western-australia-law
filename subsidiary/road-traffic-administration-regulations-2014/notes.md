@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Administration) Regulations 2014 | 23 Dec 2014 p. 4939-5009 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -30,6 +30,10 @@ Road Traffic (Administration) Amendment Regulations 2021 | SL 2021/53 7 May 2021
 Road Traffic (Administration) Amendment Regulations (No. 2) 2021 | SL 2021/55 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 3 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
 Transport Regulations Amendment (Digital Identity Exchange) Regulations 2021 Pt. 2 | SL 2021/203 3 Dec 2021 | 4 Dec 2021 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 3 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
