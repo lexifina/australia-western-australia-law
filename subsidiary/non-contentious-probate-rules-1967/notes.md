@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Non-contentious Probate Rules 1967 and includes the amendments made by the other written laws referred to in the following table. This table also contains information about any previous reprint.
+This is a compilation of the Non-contentious Probate Rules 1967 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+ | Citation | Published | Commencement
 Non-contentious Probate Rules 1967 | 11 Sep 1967 p. 2249-64 | 12 Oct 1967 (see r. 1)
 Untitled rules | 18 Dec 1970 p. 3815 | 1 Jan 1971 (see r. 1)
 Untitled rules | 20 Oct 1972 p. 4159-62 | 1 Nov 1972 (see r. 1)
@@ -26,6 +26,10 @@ Reprinted as at 9 Jun 2000
 Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 28 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see r. 2 and Gazette 30 Jun 2003 p. 2579)
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 8 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Non-contentious Probate Amendment Rules 2009 | 27 Nov 2009 p. 4786-9 | r. 1 and 2: 27 Nov 2009 (see r. 2(a)); Rules other than r. 1 and 2: 28 Nov 2009 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 3 | SL 2022/74 14 Jun 2022 | Operative on commencement of Legal Profession Uniform Law Application Act 2022 s. 6 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
