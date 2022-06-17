@@ -24,7 +24,8 @@ Water Services (Water Corporations Charges) Amendment Regulations (No. 2) 2021 |
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Water Services (Water Corporations Charges) Amendment Regulations 2022 r. 3 and 4 | SL 2022/2 18 Jan 2022 | Operative on commencement of Arts and Culture Trust Act 2021 s. 73(1) (see r. 2(b))
+Water Services (Water Corporations Charges) Amendment Regulations 2022 r. 3 and 4 | SL 2022/2 18 Jan 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/77 cl. 2)
+Water Services Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/82 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.
 The Water Agencies (Charges) By-laws 1987 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) on 1 Jul 2014.
