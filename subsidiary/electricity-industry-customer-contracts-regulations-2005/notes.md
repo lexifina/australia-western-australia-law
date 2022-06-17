@@ -1,11 +1,15 @@
 Notes
-This is a compilation of the Electricity Industry (Customer Contracts) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Electricity Industry (Customer Contracts) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Electricity Industry (Customer Contracts) Regulations 2005 | 23 Dec 2005 p. 6256-66 | 1 Jan 2006 (see r. 2)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 72 | 31 Mar 2006 p. 1299-57 | 1 Apr 2006 (see r. 2)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 8 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Electricity Industry (Customer Contracts) Amendment Regulations 2016 | 20 Sep 2016 p. 3966 | r. 1 and 2: 20 Sep 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2016 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Electricity Industry (Customer Contracts) Amendment Regulations 2022 r. 3-20 | SL 2022/103 17 Jun 2022 | 1 Jan 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
