@@ -21,10 +21,11 @@ Freedom of Information Amendment Regulations 2021 | SL 2021/9 29 Jan 2021 | r. 1
 Freedom of Information Amendment Regulations (No. 2) 2021 | SL 2021/61 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2021 (see r. 2(b) and SL 2021/60 cl. 2)
 Attorney General Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt. 2 | SL 2021/127 16 Jul 2021 | 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Attorney General Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/27 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Attorney General Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/97 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Freedom of Information Amendment Regulations 2022 r. 3 and 4 | SL 2022/5 18 Jan 2022 | Operative on commencement of Arts and Culture Trust Act 2021 s. 73(1) (see r. 2(b))
+Freedom of Information Amendment Regulations 2022 r. 3 and 4 | SL 2022/5 18 Jan 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/77 cl. 2)
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the Department for Child Protection has been altered to the Department for Child Protection and Family Support.
 Under the Alteration of Statutory Designations Order (No. 4) 2013 a reference in any law to the Department for Communities is to be read and construed as a reference to the Department of Local Government and Communities unless the context of the reference requires otherwise.

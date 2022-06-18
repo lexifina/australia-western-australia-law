@@ -58,6 +58,7 @@ State Administrative Tribunal Amendment Regulations (No. 2) 2021 | SL 2021/138 3
 State Administrative Tribunal Amendment Regulations (No. 4) 2021 | SL 2021/157 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2021 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 5) 2021 | SL 2021/201 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jan 2022 (see r. 2(b) and SL 2021/195 cl. 2)
 State Administrative Tribunal Amendment Regulations 2022 | SL 2022/39 25 Mar 2022 | r. 1 and 2: 25 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2022 (see r. 2(b))
+Attorney General Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 3 | SL 2022/97 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.

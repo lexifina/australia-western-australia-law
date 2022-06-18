@@ -147,7 +147,7 @@ Trayning Land Conservation District Committee
 Tunney Land Conservation District Committee
 Upper Gascoyne Land Conservation Committee
 Vasse - Wonnerup Land Conservation District Committee
-Veterinary Surgeons Board
+Veterinary Practice Board of Western Australia
 Waddi Forest Land Conservation District Committee
 Wagin Land Conservation District Committee
 Walpole - Tingledale Land Conservation District Committee
@@ -334,7 +334,7 @@ Public Service Arbitrator
 Railways Classification Board
 Special Board of Reference (Long Service Leave Standard Provisions)
 WA Industrial Appeal Court
- | Work Health and Safety Tribunal
+Work Health and Safety Tribunal
 Western Australia Police | Community Safety and Crime Prevention Council
 Police Appeal Board
 Western Australian Police Historical Society
@@ -345,4 +345,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4; SL 2021/127 r. 4; SL 2022/27 r. 6.]
+[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4; SL 2021/127 r. 4; SL 2022/27 r. 6; SL 2022/97 r. 4.]
