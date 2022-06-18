@@ -1,12 +1,14 @@
 Notes
-This is a compilation of the Veterinary Chemical Control Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Veterinary Chemical Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Veterinary Chemical Control and Animal Feeding Stuffs Regulations 2006 | 8 Dec 2006 p. 5433-84 | 8 Dec 2006
 Veterinary Chemical Control and Animal Feeding Stuffs Amendment Regulations 2011 | 30 Aug 2011 p. 3504-6 | r. 1 and 2: 30 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2011 (see r. 2(b))
 Veterinary Chemical Control and Animal Feeding Stuffs Amendment Regulations 2013 | 5 Feb 2013 p. 829-31 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Reprint 1: The Veterinary Chemical Control Regulations 2006 as at 12 Jul 2013 (includes amendments listed above)
 Agriculture and Food Regulations Amendment (Poisons) Regulations 2016 Pt. 5 | 17 Jan 2017 p. 404-6 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
+Agriculture and Food Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 7 | SL 2022/98 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Other notes
 Now known as the Veterinary Chemical Control Regulations 2006; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

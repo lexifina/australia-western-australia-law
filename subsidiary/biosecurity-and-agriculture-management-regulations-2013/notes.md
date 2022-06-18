@@ -11,6 +11,7 @@ Biosecurity and Agriculture Management Regulations Amendment Regulations (No. 2)
 Biosecurity and Agriculture Management Regulations Amendment Regulations 2019 Pt. 2 | 6 Sep 2019 p. 3185-95 | 7 Sep 2019 (see r. 2(b))
 Biosecurity and Agriculture Management Regulations Amendment (Industry Funding Schemes) Regulations 2020 Pt. 5 | SL 2020/255 24 Dec 2020 | 25 Dec 2020 (see r. 2(b))
 Biosecurity and Agriculture Management Amendment Regulations 2021 | SL 2021/129 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
+Agriculture and Food Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 6 | SL 2022/98 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -4,6 +4,7 @@ Compilation table
 Citation | Published | Commencement
 Animal Welfare (Transport, Saleyards and Depots) (Cattle and Sheep) Regulations 2020 | SL 2020/185 2 Oct 2020 | Pt. 1: 2 Oct 2020 (see r. 2(a)); Regulations other than Pt. 1: 3 Oct 2020 (see r. 2(b))
 Animal Welfare (Transport, Saleyards and Depots) (Cattle and Sheep) Amendment Regulations 2020 | SL 2020/234 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
+Agriculture and Food Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 4 | SL 2022/98 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
