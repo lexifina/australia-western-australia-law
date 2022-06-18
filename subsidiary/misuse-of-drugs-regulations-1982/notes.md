@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Misuse of Drugs Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Misuse of Drugs Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Misuse of Drugs Regulations 1982 | 13 Aug 1982 p. 3113-19 | 1 Sep 1982 (see r. 2 and Gazette 20 Aug 1982 p. 3250)
 Misuse of Drugs Amendment Regulations 1991 | 9 Aug 1991 p. 4231 | 9 Aug 1991
 Misuse of Drugs Amendment Regulations 1996 | 2 Jul 1996 p. 3196-203 | 16 Aug 1996 (see r. 2 and Gazette 16 Aug 1996 p. 4007)
@@ -28,6 +28,8 @@ Misuse of Drugs Amendment Regulations 2015 | 5 Jan 2016 p. 4-7 | r. 1 and 2: 5 J
 Police Regulations Amendment (Poisons) Regulations 2016 Pt. 2 | 17 Jan 2017 p. 412-17 | 30 Jan 2017 (see r. 2(b) and Gazette 17 Jan 2017 p. 403)
 Reprint 4: The Misuse of Drugs Regulations 1982 as at 17 Feb 2017 (includes amendments listed above)
 Misuse of Drugs Amendment Regulations 2019 | 28 May 2019 p. 1703 | r. 1 and 2: 28 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2019 (see r. 2(b))
+Misuse of Drugs Amendment Regulations 2022 | SL 2022/92 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Other notes
 The Drugs Act 1908 of South Australia was repealed on 1 Jul 2011 by the Controlled Substances Act 1984 of South Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Conservation and Land Managementis to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 Defined terms
