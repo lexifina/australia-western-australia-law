@@ -64,5 +64,5 @@ It may be unsuitable for a co-operative to be called Hypothetical Co-operative L
 (d)Licensed Surveyors Act 1909;
 (e)Pharmacy Act 2010;
 (f)Police Act 1892;
-(g)Veterinary Surgeons Act 1960.
-[Schedule 6 amended: Gazette 22 Jun 2012 p. 2778; 27 Nov 2012 p. 5733.]
+(g)Veterinary Practice Act 2021.
+[Schedule 6 amended: Gazette 22 Jun 2012 p. 2778; 27 Nov 2012 p. 5733; SL 2022/96 r. 6.]

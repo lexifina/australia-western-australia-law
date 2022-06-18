@@ -53,4 +53,5 @@
 (d)the Legal Profession Act 2008;
 (e)the Pharmacy Act 2010;
 (f)the Police Act 1892;
-(g)the Veterinary Surgeons Act 1960.
+(g)the Veterinary Practice Act 2021.
+[Schedule 1 amended: SL 2022/96 r. 4.]

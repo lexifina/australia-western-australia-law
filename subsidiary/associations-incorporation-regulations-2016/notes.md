@@ -10,6 +10,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 2 | 18 Ju
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 2 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Commerce Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/96 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
