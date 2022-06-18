@@ -32,7 +32,7 @@ places in or upon which declared pests are, or are suspected to be, present.
 23.The use and management of land in respect of which a residue management notice is in force, and the sale or other disposal of land in respect of which a residue management notice is in force and in respect of which a land document is registered under section 101(4).
 24.The supply, purchase, handling, movement and treatment of agricultural products produced on, or derived from animals or plants produced on, land in respect of which a residue management notice is in force.
 25.The use, management, supply, purchase, handling, movement and treatment of agricultural products, animal feeds, fertilisers and other things that are, or are reasonably suspected to be, contaminated.
-26.The duties and obligations of veterinary surgeons and other persons in relation to —
+26.The duties and obligations of veterinarians and other persons in relation to —
 (a) the use of chemical products; and
 (b) the identification, handling, keeping, supply, purchase, transport and use of animals, agricultural products or animal feed treated, or not treated, with a chemical product; and
 (c) the keeping of records and provision of information in relation to that identification, handling, keeping, supply, purchase, transport or use.
@@ -82,3 +82,4 @@ places in or upon which declared pests are, or are suspected to be, present.
 (i) in any circumstances in which the offence is committed; or
 (ii) if the offence is committed in circumstances prescribed in the regulations.
 54.The imposition of fines not exceeding $20 000 for offences under the regulations, with or without a fine for each separate and further offence committed under the Interpretation Act 1984 section 71 of not more than $500.
+[Schedule 1 amended: No. 19 of 2021 s. 227(7).]

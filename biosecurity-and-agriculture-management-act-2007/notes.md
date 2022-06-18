@@ -16,12 +16,12 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 1 | 26 of 2016 | 21 S
 Genetically Modified Crops Free Areas Repeal Act 2016 Pt. 3 | 34 of 2016 | 27 Oct 2016 | 28 Oct 2016 (see s. 2(b))
 Reprint 2: The Biosecurity and Agriculture Management Act 2007 as at 17 Nov 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 311)
 Taxation Administration Amendment Act 2019 Pt. 3 | 11 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b))
+Veterinary Practice Act 2021 s. 227 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 278(2) and 279(2) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 Pt. 19 Div. 2 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Veterinary Practice Act 2021 s. 227 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Mining Act 1978.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -125,7 +125,7 @@ pensioner concession card136(1)
 permitted organism6
 pest control notice6
 pest exclusion notice6
-pest keeping notice6
+pest keeping notice5
 pest plant193(1)
 place6, 42(1)
 plant6
@@ -166,6 +166,6 @@ treat6
 unimproved value6
 unlisted organism6, 14
 vehicle6
+veterinarian6
 veterinary chemical product6
-veterinary surgeon6
 wildlife officer6

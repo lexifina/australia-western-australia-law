@@ -86,13 +86,13 @@ Family Violence Legislation Reform (COVID-19 Response) Act 2020 Pt. 2 | 13 of 20
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 8 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 High Risk Serious Offenders Act 2020 s. 120 and 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Family Violence Legislation Reform Act 2020 Pt. 3 | 30 of 2020 | 9 Jul 2020 | s. 31: 10 Jul 2020 (see s. 2(1)(b)); Pt. 3 (other than s. 13 to 31): 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(ii)); s. 13 to 30: 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(i))
+Veterinary Practice Act 2021 s. 235 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
  | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
- | Veterinary Practice Act 2021 s. 235 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
  | Aboriginal Cultural Heritage Act 2021 s. 352 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
  | Firearms Amendment Act 2022 s. 85 | 13 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(c))
 Other notes

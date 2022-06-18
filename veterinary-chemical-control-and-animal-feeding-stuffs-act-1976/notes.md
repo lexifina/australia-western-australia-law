@@ -29,12 +29,12 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 | 35 of 
 Medicines and Poisons Act 2014 s. 190 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 25 (other than s. 334) | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 25 (other than s. 334): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
 Reprint 3: The Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 as at 1 Jun 2018 (includes amendments listed above)
+Veterinary Practice Act 2021 s. 237 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
  | Short title | Number and year | Assent | Commencement
  | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 82 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Public Health (Consequential Provisions) Act 2016 s. 334 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Veterinary Practice Act 2021 s. 237 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
 Other notes
 Now known as the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976; short title changed (see note under s. 1).
 The Acts Amendment (Chemistry Centre (WA)) Act 1990 s. 13 reads as follows:
@@ -71,7 +71,7 @@ manufactured stock food5(1)
 package5(1)
 packaging5(1)
 pesticide5(1)
-pharmaceutical chemist65(c)
+pharmaceutical chemist65
 premises5(1)
 preparation5(1)
 preparation for sale5(1)
@@ -90,6 +90,6 @@ sub-standard animal feeding stuff14(1)
 supplement5(1)
 tissue5(1)
 treated36AA
+veterinarian5(1)
 veterinary chemical product5(1)
-veterinary surgeon5(1)
 wholesale5(1)
