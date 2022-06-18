@@ -13,11 +13,11 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 Biodiversity Conservation Act 2016 s. 310 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Animal Welfare Amendment Act 2018 | 35 of 2018 | 28 Nov 2018 | s. 1 and 2: 28 Nov 2018 (see s. 2(a)); Act other than s. 1 and 2: 29 Nov 2018 (see s. 2(b))
 Reprint 2: The Animal Welfare Act 2002 as at 22 Feb 2019 (includes amendments listed above)
+Veterinary Practice Act 2021 s. 226 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 362 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Veterinary Practice Act 2021 s. 226 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 5 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -60,4 +60,5 @@ scientific use code5(1)
 staff5(1)
 stock26(2)
 vehicle5(1)
-veterinary surgeon5(1)
+veterinarian5(1)
+veterinary medicine48(4A)

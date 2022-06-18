@@ -303,6 +303,7 @@ Voluntary Assisted Dying Act 2019 Pt. 12 Div. 1 | 27 of 2019 | 19 Dec 2019 | 1 J
 Procurement Act 2020 Pt. 10 Div. 1 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 2 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 2 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Veterinary Practice Act 2021 s. 229 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 3 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Industry and Technology Development Amendment Act 2021 Pt. 3 | 24 of 2021 | 3 Dec 2021 | 4 Dec 2021 (see s. 2(b))
 Uncommenced provisions table
@@ -311,8 +312,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Arts and Culture Trust Act 2021 s. 74 | 15 of 2021 | 9 Sep 2021 | To be proclaimed (see s. 2(b))
-Veterinary Practice Act 2021 s. 229 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Arts and Culture Trust Act 2021 s. 74 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Aboriginal Cultural Heritage Act 2021 s. 344 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Animal Resources Authority Amendment and Repeal Act 2022 s. 15 | 12 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(1)(c))

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Retail Trading Hours Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Retail Trading Hours Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Retail Trading Hours Act 1987 | 123 of 1987 | 31 Dec 1987 | s. 1 and 2: 31 Dec 1987; Act other than s. 1 and 2: 1 Sep 1988 (see s. 2 and Gazette 12 Aug 1988 p. 2695)
@@ -28,10 +28,7 @@ Retail Trading Hours Amendment Act 2012 | 13 of 2012 | 3 Jul 2012 | s. 1 and 2: 
 Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 1 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Reprint 4: The Retail Trading Hours Act 1987 as at 7 Aug 2015 (includes amendments listed above)
 Retail Trading Hours Amendment Act 2016 Pt. 2 | 35 of 2016 | 16 Nov 2016 | 14 Dec 2016 (see s. 2(b) and Gazette 13 Dec 2016 p. 5619)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Veterinary Practice Act 2021 s. 234 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Veterinary Practice Act 2021 s. 234 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Other notes
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:

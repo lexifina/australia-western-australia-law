@@ -6,12 +6,12 @@ Medicines and Poisons Act 2014 (other than s. 14(2)) | 13 of 2014 | 2 Jul 2014 |
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 20 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 23 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 5 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
+Veterinary Practice Act 2021 s. 232 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 14(2) | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 14 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Veterinary Practice Act 2021 s. 232 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -105,5 +105,5 @@ supply3, 8(1)
 transitional matter146(2)
 vehicle93
 vending machine24(1)
-veterinary surgeon3
+veterinarian3
 voluntary assisted dying substance3

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Exotic Diseases of Animals Act 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Exotic Diseases of Animals Act 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Exotic Diseases of Animals Act 1993 | 33 of 1993 | 16 Dec 1993 | s. 1 and 2: 16 Dec 1993; Act other than s. 1 and 2: 4 Feb 1994 (see s. 2 and Gazette 4 Feb 1994 p. 339)
@@ -11,10 +11,7 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 61 | 77 of 2006 |
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 88 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 55 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 2: The Exotic Diseases of Animals Act 1993 as at 20 Sep 2013 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Veterinary Practice Act 2021 s. 231 | 19 of 2021 | 27 Oct 2021 | To be proclaimed (see s. 2(b))
+Veterinary Practice Act 2021 s. 231 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Other notes
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
