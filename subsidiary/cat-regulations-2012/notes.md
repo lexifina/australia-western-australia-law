@@ -14,6 +14,7 @@ Cat Amendment Regulations 2020 | SL 2020/17 20 Mar 2020 | r. 1 and 2: 20 Mar 202
 Cat Amendment Regulations (No. 3) 2020 | SL 2020/69 5 Jun 2020 | r. 1 and 2: 5 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2020 (see r. 2(b))
 Local Government Regulations Amendment (Payment Method) Regulations 2020 Pt. 3 | SL 2020/99 30 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Local Government Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/169 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Local Government Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/94 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
