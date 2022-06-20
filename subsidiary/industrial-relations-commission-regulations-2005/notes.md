@@ -30,6 +30,7 @@ Reprint 4: The Industrial Relations Commission Regulations 2005 as at 19 Jul 201
 Industrial Relations Commission Amendment Regulations (No. 2) 2019 | 29 Nov 2019 p. 4143-7 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b) and Gazette 29 Nov 2019 p. 4133)
 Industrial Relations Commission Amendment Regulations (No. 2) 2022 | SL 2022/6 21 Jan 2022 | r. 1 and 2: 21 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2022 (see r. 2(b))
 Industrial Relations Commission Amendment Regulations 2022 | SL 2022/19 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Industrial Relations Commission Amendment Regulations (No. 3) 2022 | SL 2022/75 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jun 2022 (see r. 2(b))
 Other notes
 Although the commencement date of 1 Jul 2008 was specified in the Industrial Relations Commission Amendment Regulations (No. 2) 2008, because of the Interpretation Act 1984 s. 25(3) those regulations came into operation on 1 Aug 2008 when the Owner-Drivers (Contracts and Disputes) Act 2007 Sch. 3 cl. 1 came into operation.
 Defined terms
@@ -39,7 +40,6 @@ appeal against removal action89A, 89H, 89
 appeal against retirement on medical grounds94A
 appellant89A, 89H, 89, 94A
 applicant99A
-approved form3
 Arbitrator105
 Board102A(1), 105, 109
 chief executive officer89A, 89H
@@ -49,21 +49,19 @@ conciliation document29(1), 94M(6), 98(6), 99D(10)
 custodial officer89H
 decision65(3)
 discovery20(1)
-document19(1)
+document20(1)
 electronic document3
 employer105
 employing authority63A(1)
 expert’s report45(1)
-Form3
 government officer105
 inspection20(1)
 interested person86(1)
 lodged electronically3
 member of a constituent authority120(8)
-modified form94N(1), 99(1), 99E(1)
 notice to admit23(1)
-person to be joined18
-police officer89N(2), 94A
+person to be joined18(1)
+police officer89, 94A
 prison officer89A
 Public Transport Authority109
 railway officer109
@@ -71,8 +69,9 @@ Registrar3
 removal action89A, 89H, 89
 reviewable decision102A(1)
 salaried position109
+section 72A application73(1)
 service direction29(1), 94M(6), 98(6), 99D(10)
 substantive proceedings18(1)
 Tribunal94H, 95, 99A
-warrant63A(1)
+warrant63(1)
 writing3
