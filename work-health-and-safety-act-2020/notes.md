@@ -1,12 +1,11 @@
 Notes
-This is a compilation of the Work Health and Safety Act 2020. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Work Health and Safety Act 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Work Health and Safety Act 2020 | 36 of 2020 | 10 Nov 2020 | Pt. 1 (other than Div. 2-5): 10 Nov 2020 (see s. 2(1)(a)); Pt. 14 (other than Div. 1-3): 11 Nov 2020 (see s. 2(1)(b)); Act other than Pt. 1 Div. 1 and Pt. 14 Div. 4: 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Industrial Relations Legislation Amendment Act 2021 Pt. 7 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b) and (2))
+Industrial Relations Legislation Amendment Act 2021 Pt. 7 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and (2) and SL 2022/79 cl. 2)
+Other notes
+The Industrial Relations Legislation Amendment Act 2021 Pt. 7 Div. 1 Subdiv. 2 was deleted when s. 5(2) of that Act came into operation (see Pt. 7 Div. 2 and SL 2022/18 cl. 2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

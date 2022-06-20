@@ -11,7 +11,7 @@
 (f)Boards of Reference.
 3.All directions and orders which alter the qualifications for membership of any organisation the area in respect of which the organisation is registered, or the name of the organisation.
 4.A list of organisations registered under the Act and the registered offices of those organisations.
-5.Notification of the appointment of any person as chairman or member of a Board of Reference.
+5.Notification of the appointment of any person as chairperson or member of a Board of Reference.
 6.Any matter which is prescribed or which is directed by the Court or the Chief Commissioner to be published or which the Registrar may consider should be published.
-[Schedule 1 amended: No. 94 of 1984 s. 66; No. 15 of 1993 s. 30; No. 79 of 1995 s. 42; No. 20 of 2002 s. 113(5) and 190(10); No. 39 of 2018 s. 65.]
+[Schedule 1 amended: No. 94 of 1984 s. 66; No. 15 of 1993 s. 30; No. 79 of 1995 s. 42; No. 20 of 2002 s. 113(5) and 190(10); No. 39 of 2018 s. 65; No. 30 of 2021 s. 77(1).]
 [Schedule 2 deleted: No. 20 of 2002 s. 194(7).]

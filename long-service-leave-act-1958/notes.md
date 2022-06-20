@@ -20,18 +20,14 @@ Reprint 4: The Long Service Leave Act 1958 as at 1 Sep 2006 (includes amendments
 Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2003 | 10 Jun 2009 (see s. 2(2))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Industrial Relations Legislation Amendment Act 2021 Pt. 4 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and SL 2022/79 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Industrial Relations Legislation Amendment Act 2021 Pt. 4 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
-Repealed by the Statute Law Revision Act 1950 of the Commonwealth.
-Repealed by the Defence Legislation Amendment Act 1992 of the Commonwealth.
-Repealed by the Industrial Relations (Consequential Provisions) Act 1988 of the Commonwealth.
 The Industrial Relations Legislation Amendment and Repeal Act 1995 Pt. 8 Div. 2 are savings and transitional provisions that are of no further effect.
 The Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 3 reads as follows:
-“
 Division 3 — Repeal of the LSL General Order
 63.Meaning of terms used in this Division
 In this Division —
@@ -55,21 +51,33 @@ The LSL General Order is repealed.
 (4) A provision of the Long Service Leave Act 1958 corresponds to a provision of the LSL General Order if the provisions deal with substantially the same matter.
 (5) In this section —
 commencement means the coming into operation of the Labour Relations Legislation Amendment Act 2006 Part 7 Division 2.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 apprentice4(1)
 award4(1)
+award, agreement or enactment4A(1)
 business4(1)
-commencement day8(10)
+commencement day8(10), 40
+connection between the old employer and the new employer7D, 7G(1), (2), (3) and (4)
+continuous employment4(1), 6(1), (2), (3), (4), (5), (6) and (7)
 employee4(1)
 employer4(1)
+employer-employee agreement4(1)
+employment records7I(1)
+entitlement4A(1)
+former section40
 industrial agreement4(1)
 industrial inspector4(1)
 industrial magistrate’s court4(1)
-ordinary pay4(1)
-the transmittee6(4)
-the transmittor6(4)
-transmission6(5)
-transmitted6(5)
+IR Act4(1)
+MCE Act4(1)
+new employer7D, 7E
+old employer7D, 7E
+ordinary pay4(1), 7(1) and (4), 7A, 7B, 7C(1)
+related body corporate4(1)
+separate LSL entitlement4A(2) and (3)
+transfer of business7D, 7E
+transferring employee7D, 7F
+transferring work7D, 7E
+WA LSL4A(1)
