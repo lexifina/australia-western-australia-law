@@ -98,11 +98,11 @@ Reprint 16: The Industrial Relations Act 1979 as at 30 Aug 2019 (includes amendm
 Police Amendment (Medical Retirement) Act 2019 Pt. 3 | 19 of 2019 | 15 Aug 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4133)
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 5 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Police Amendment (Compensation Scheme) Act 2021 Pt. 3 | 26 of 2021 | 13 Dec 2021 | 1 Jan 2022 (see s. 2(b) and SL 2021/222 cl. 2)
+Industrial Relations Legislation Amendment Act 2021 Pt. 2 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and (2) and SL 2022/79 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Industrial Relations Legislation Amendment Act 2021 Pt. 2 | 30 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(1)(b) and (2))
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 9 and s. 424 | 9 of 2022 | 14 Apr 2022 | s. 359(2): commencement dependent on the day the Industrial Relations Legislation Amendment Act 2021 s. 69 comes into operation (see s. 2(b)); Pt. 17 Div. 9 (other than s. 359(2)) and 424: to be proclaimed (see s. 2(b) and (c))
 Other notes
 Footnote no longer applicable.
@@ -129,61 +129,71 @@ Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints ar
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2).
 The Labour Relations Legislation Amendment Act 2006 s. 22 contains transitional provisions.
+The Industrial Relations Legislation Amendment Act 2021 s. 7(4), 24(1) and 75(2) were deleted when s. 5(2) of that Act came into operation. See s. 7(5), 24(2) and 75(3) of that Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 adopting provision71A(2)
-affected person23B(1)(a)
+affected person23B(1)
 alteration7(1)
+alternative remedy51Q(1)
 amended ActSch. 6 cl. 1
 amending ActSch. 6 cl. 1
-applicable order48A(3)
+applicable order48A.(3)
 applicant97WR
 application103(3)
 apprentice7(1)
+approved form7(1)
 arbitration functions32A(1)
 Arbitrator80C(1), Sch. 3 cl. 1
 arbitrator97WH
 area and scope provisions29A(1a)
 association7(1)
 Association80C(1)
-auditor65(a)
+auditor65
 authorised representative49G
 award7(1), 46(5), 97U(1), 97UG(7)
-bargaining agent51O(1), 97U(1)
-bargaining in good faith42B(2), 51S(2)
+bargaining agent97U(1)
+bargaining in good faith42B(2)
 Board80C(1), 80M(1)
-Branch71(1)
 breach103(3)
+bullied51BF, 51BI(1)
+bullying or sexual harassment7(2)
+business premises98(3)
 calling7(1)
 cancellation agreement97U(1)
-canvasser7(1)
 CEO7(1)
 Chamber7(1)
 Chief Commissioner7(1)
 Chief Magistrate81B(6)
+civil infringement notice84B, 84C(2)
+civil infringement notice penalty84B, 84C(2)
 civil penalty provision7(1)
-collective agreement51O(2)(a)
 collegiate electoral system52
-commencement16(2E)
-commencement day20(8b), Sch. 6 cl. 1
+commencement day20(8b), 117(1), Sch. 6 cl. 1
 Commission7(1), 16(1), 22A, 42C(6), 49(1), 50(1), 51C(1), 97VW, Sch. 6 cl. 5(1)
-Commission in Court Session7(1)
 commissioner7(1)
-Commonwealth Act7(1)
+Commission in Court Session7(1)
 comparable award97VR
 complainant96L(2)
+compliance notice84O, 84Q(1)
 complying superannuation fund or scheme48B(1)
 conciliation functions32A(1)
+conduct of a sexual nature51BI(4)
 constituent authority7(1)
-conveyance98(6)
+contravene83(1A)
+contravention83EA(1), 84AA(1), 84K, 84O
 corporation96H(3)
 corresponding authority80ZI(3)
-counterpart Federal body71(1), 71A(1)
+corresponding provision of this Act80BF(1)
+counterpart federal body52, 52A(2) and (3)
 Court7(1)
+damaging action97
 day of execution97UY(6)
 decision7(1), 84(1)
 declaration7(1)
+declared employee80B
+declared employer80B
 Department7(1)
 departmental officer7(1)
 deputy registrar7(1)
@@ -191,23 +201,34 @@ designated deputy registrar95(3)
 direct voting system52
 discriminatory action96E(4)
 dispute97WH
+disqualified person112A(3B)
 EEA7(1), 97WB(2)
 EEA dispute provisions97U(1)
 employed99C(1)
-employee7(1), 51O(2)(a), 97U(2), 97U(3)
+employee7(1), 97, 97U(2) and (3)
 employees36A(1)
-employer7(1), 51O(2)(b), 80C(1), 97U(2), 97U(3)
+employer7(1), 80C(1), 97, 97U(2) and (3)
 employer-employee agreement7(1)
 employing authority80C(1)
-employment51O(2)(c)
 employment claim23B(1)
+employment law98(3)
 employment record7(1)
 employment services for persons with disabilities97U(1)
+enforceable undertaking84K
 enterprise72A(1)
+enterprise award7(1)
 enterprise order7(1), 42I(1)
+entitlement provision7(1)
+equal remuneration7(1)
+equal remuneration order7(1), 51O(2)
+exercise of a power51BL(1)
 existing employee97U(1)
 exposure draft97WA(1)
-Fair Work Commission7(1), 80ZF
+federal award80B
+federal counterpart80BG(1)
+federal industrial authority80B
+federal industrial instrument80B
+federal organisation7(1)
 final decision35(1A)
 final offer arbitration7(1)
 finance official74(1)
@@ -215,72 +236,92 @@ finding7(1)
 first agreement41(8)
 formerSch. 6 cl. 1
 former ActSch. 6 cl. 5(1)
-former acting PresidentSch. 6 cl. 1 and 2(1)
+former acting PresidentSch. 6 cl. 1, Sch. 6 cl. 2(1)
+former section117(1)
 former section 73 summonsSch. 6 cl. 8(1)
 Full Bench7(1)
+FW Act7(1)
+FW Commission7(1)
+FW (Registered Organisations) Act7(1)
+FW (Transitional) Act7(1)
 general jurisdiction81CA(1), 81CB(1)
+General Manager80BE(1)
 Government Financial Projections Statement26(2B)
 government officer80C(1)
 group training organisation7(1)
 guardianship order97WS(4)
+habitation premises49K(1)
 head of branch80M(1)
 industrial action7(1)
 industrial agreement7(1)
 Industrial Gazette7(1)
-industrial inspector7(1)
-industrial instrument29AA(5), 49D(4)
+industrial inspector7(1), 84P
+industrial instrument7(1), 29AA(5)
+industrial location98(3)
 industrial magistrate’s court7(1)
 industrial matter7(1), 22A
 industry7(1)
-initiating party40C, 51O(1), 51R(1)
-instrument to which this section applies83(2), 98(6)
+initiating party40C
+instrument-governed employee with a disability50A(1AA)
+instrument to which this section applies98(6)
+involved in83(2A), 83E(1B)
+involved person83EA(6)
 irregularity7(1)
 judge7(1)
 judgment81CB(1), 88(1)
 labour hire agency7(1)
 legal practitioner7(1)
 limited guardian97WS(4)
+LSL Act7(1)
 matterSch. 6 cl. 1
 MCE Act7(1)
 medical practitioner72B(1), 97WR
 member80M(1)
 mental disability97WR
 Mines and Metals Association7(1)
-negotiating party40C, 51O(1)
+national fair work legislation80B
+negotiating party40C
 new award36A(1)
 new employee97U(1)
+new State instrument80B, 80BB(2)
 no-disadvantage test97U(1)
-nominal expiry date42(8), 51O(2)(e)
+nominal expiry date42(8)
+nominated person84B
 occupier49L(2)
 office7(1)
 officer7(1)
 officer of the Commission7(1)
 officer of the Court7(1)
+old federal instrument80B, 80BB(1)
 one-tier collegiate electoral system52
-organisation7(1), 51O(1), 72A(1), 72B(2)(a), 80H(6), 96A
+organisation7(1), 72A(1), 72B(2), 80H(6), 96A
 organisation of employees96A
 original dispute97WK(1)
 original term56A(4)
 party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(3)
 peak industrial body97VZ(3)
+person51BF
 person with a mental disability97WR
 plenary guardian97WS(4)
 postal ballot52
 post-secondary education institution7(1)
 premises7(1)
-prescribed period40C, 42A(1)
 prescribed amount29AA(5)
+prescribed period40C, 42A(1)
 presiding commissioner7(1)
 presiding judge7(1)
-principal7(6)
+principal7(6), 83EA(6)
 principal executive officer7(1)
+private sector award7(1)
 proceedings49(4)
+produce7(1)
 proposed representative97WR, 97WV(3), 97XM(3)
 prosecution jurisdiction81CA(1)
 protected information97WB(1)
 Public Advocate97WR
 public authority7(1)
 public hospital7(1)
+public sector award7(1)
 public sector decision26(2B)
 public sector entity26(2B)
 Public Sector Wages Policy Statement 26(2B)
@@ -288,40 +329,62 @@ public service arbitrator80H(7)
 public service officer7(1)
 Public Transport Authority80M(1)
 published in the required manner7(1)
+qualified commissioner81B(2A)
 railway officer80M(1)
+recipient84B, 84V(1)
 record7(1)
+record-related civil penalty provision7(1)
 Registrar7(1), 96(1)
 Registrar’s Department7(1)
 Registrar’s Department officer7(1)
 registration7(1)
 regulations97U(1)
+relevant contraventions83EA(4)
+relevant day80A(2), 80B
 relevant employee49G
 relevant industrial authority97U(1)
 relevant order97VR
 relevant organisation80H(5)
 relevant person49E(4)
+remuneration-related action51R(1)
 repealed Act7(1)
+repealed Workplace Act80B
 representative7(1), 97X, 97XO
 represented person7(1), 97X, 97XO
 respondent77(1)
-revocation order97WR, 97XG(b)(ii), 97XI(1)
+revocation order97WR, 97XG, 97XI(1)
+rules52A(1)
 salaried position80M(1)
 secondary office7(1)
 section 97UM signatory97U(1)
 Senior Commissioner7(1)
+serious contravention7(1), 83EA(2)
+sexually harassed51BF, 51BI(3)
 specified51A(3)
-State organisation71(1), 71A(1)
+statement of principles51O(1)
+State organisation52
 State rules71A(2)
 State Wage order50A(1)
+stop bullying or sexual harassment application51BF, 51BJ(1)
+stop bullying or sexual harassment order51BF, 51BM(1)
 sub-head of branch80M(1)
 subscription7(1)
-supported wage provisions97U(1)
-Supported Wage System97U(1)
+supported wage industrial instrument provision7(1)
+Supported Wage System7(1)
+SWIIP7(1)
+SWS7(1)
 teacher80C(1)
-third party23B(1)
+terms80B
+third party23B(1), 97C(1)
 threats48B(5)
+transitioned private sector award117(1)
 transport Minister80M(1)
 Union80M(1)
 vary7(1)
+volunteer51BF
+volunteer association51BG(3)
 WA Branch of the AMA72B(1)
+wage assessment tool7(1)
+WA Police51BF
 Westrail Enterprise Bargaining Agreement80R(2b)
+worker7(2), 51BF, 51BH(1) and (3)
