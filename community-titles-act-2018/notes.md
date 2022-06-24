@@ -10,6 +10,7 @@ Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 s. 224-226 and 253 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Planning and Development Amendment Act 2020 Pt. 12 Div. 2 | 26 of 2020 | 7 Jul 2020 | To be proclaimed (see s 2(1)(b))
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 6 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Transfer of Land Amendment Act 2022 Pt. 3 Div. 1 | 21 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
 Other notes
 The Community Titles Act 2018 (Postponement of Expiry) Proclamation 2019 published in Gazette 5 Nov 2019 p. 3877-8 provides that the expiry of section 188 is postponed until the end of 31 December 2024.
 Defined terms
