@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Forest Products Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Forest Products Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Forest Products Act 2000 | 34 of 2000 | 10 Oct 2000 | s. 1 and 2: 10 Oct 2000; Act other than s. 1 and 2: 16 Nov 2000 (see s. 2 and Gazette 15 Nov 2000 p. 6275)
@@ -18,6 +18,11 @@ Reprint 2: The Forest Products Act 2000 as at 13 Nov 2009 (includes amendments l
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Conservation and Land Management Amendment Act 2015 s. 75 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Biodiversity Conservation Act 2016 s. 317 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Forest Products Amendment Act 2022 | 20 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
+Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
