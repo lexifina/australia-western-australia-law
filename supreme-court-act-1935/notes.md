@@ -95,6 +95,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Criminal Appeals Amendment Act 2022 Pt. 3 Div. 4 | 18 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
