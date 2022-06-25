@@ -59,8 +59,8 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 229 | 25 of 2012 | 3
 Reprint 9: The Soil and Land Conservation Act 1945 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 Biodiversity Conservation Act 2016 s. 320 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Swan Valley Planning Act 2020 Pt. 10 Div. 13 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
+Soil and Land Conservation Amendment Act 2022 Pt. 2 | 19 of 2022 | 24 Jun 2022 | 25 Jun 2022 (see s. 2(b))
 Other notes
-Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.
 Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
@@ -73,6 +73,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 agreement to reserve30B(2)
+appointed Council member4
 appropriate officer4
 chief executive officer4
 code of practice4A(1)
@@ -83,19 +84,20 @@ Council4
 covenant or agreement30A
 Crown land26(6)
 Crown lands4
+Department4
 district4
 district committee4
-document41D(4)
 eutrophication4
 financial year4
-information41D(4)
+former Council49
+interested member11B(1)
 land conservation district4
 land degradation4
+misconduct9D(4)
 notice4A(1)
 notice of assessment25B(5)
 occupier4
 owner4
-parliamentary purposes41D(4)
 plantation4A(1)
 private land26(6)
 producer organizations23(1)
@@ -106,14 +108,14 @@ Registrar of Titles4
 regulation4A(1)
 relevant land registration officer4
 salinity4
-service charge4
+service charge3
 soil conservation4
 soil conservation notice31
 soil conservation rates25B(1)
 soil conservation reserve4
 specified48(5)
 specified service25AA(1)
+transition day49
 Treasurer4
 tree4A(1)
-Trust4
-Trust Account4
+unable to act4
