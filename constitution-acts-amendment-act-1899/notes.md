@@ -306,6 +306,7 @@ Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 2 | 36 of 2020 | 10 Nov 20
 Veterinary Practice Act 2021 s. 229 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 3 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Industry and Technology Development Amendment Act 2021 Pt. 3 | 24 of 2021 | 3 Dec 2021 | 4 Dec 2021 (see s. 2(b))
+Soil and Land Conservation Amendment Act 2022 s. 20 | 19 of 2022 | 24 Jun 2022 | 25 Jun 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
