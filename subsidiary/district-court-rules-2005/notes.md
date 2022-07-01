@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the District Court Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the District Court Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 District Court Rules 2005 | 27 May 2005 p. 2335-92 | 30 May 2005 (see r. 2)
@@ -20,27 +20,20 @@ District Court Amendment Rules (No. 2) 2018 | 7 Sep 2018 p. 3183-91 | r. 1 and 2
 District Court Amendment Rules (No. 2) 2019 | 31 Dec 2019 p 4675-6 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 District Court Amendment Rules 2020 | SL 2020/18 24 Mar 2020 | r. 1 and 2: 24 Mar 2020 (see r. 2(a)); Rules other than r. 1 and 2: 25 Mar 2020 (see r. 2(b))
 District Court Amendment Rules 2021 | SL 2021/208 10 Dec 2021 | r. 1 and 2: 10 Dec 2021 (see r. 2(a)); Rules other than r. 1 and 2: 11 Dec 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-District Court Amendment Rules 2022 r. 3-6 | SL 2022/108 24 Jun 2022 | Operative on commencement of Legal Profession Uniform Law Application Act 2022 s. 6 (see r. 2(b))
+District Court Amendment Rules 2022 | SL 2022/108 24 Jun 2022 | r. 1 and 2: 24 Jun 2022 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Other notes
-The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
-Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
-Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a lawyer or legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
 Repealed by r. 72 which has been omitted under the Reprints Act 1984 s. 7(4)(f).
-The Legal Profession Act 2008 s. 310 establishes a Legal Costs Committee. See also note 2.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-A45E(4)
+A45E(4B)
 Act62, 65, 71A(1)
 address for service3
 appealable decision49
 appearance31(1)
 application65
 audio link3
-B45E(4)
+B45E(4B)
 case3
 case management direction23
 claimant65
@@ -60,7 +53,6 @@ former rules73
 former security for costs provision61A(1)
 health professional3
 Inactive Cases List43A
-lawyer3
 lay registrar3
 legally qualified registrar3
 mediator23
@@ -72,7 +64,7 @@ primary court49
 primary court case52(1)
 record3
 registered user3
-registry3
+registry2
 relevant registry3
 report45E(1)
 respondent65, 71B(3)
