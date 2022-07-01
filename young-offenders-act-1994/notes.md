@@ -60,14 +60,14 @@ Reprint 7: The Young Offenders Act 1994 as at 1 Jun 2018 (includes amendments li
 Industrial Relations Amendment Act 2018 s. 72 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
 Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 4 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 23 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 23 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
-Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 3 | 14 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(b))
+Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 3 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).

@@ -52,11 +52,11 @@ Reprint 7: The Interpretation Act 1984 as at 21 Jan 2011 (includes amendments li
 Statutes (Repeals and Minor Amendments) Act 2014 s. 27 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 19 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 5 Subdiv. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 10 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Legislation Act 2021 Pt. 6 Div. 1 | 13 of 2021 | 24 Aug 2021 | To be proclaimed (see s. 2(b))
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 10 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legislation Act 2021 Pt. 6 Div. 1 | 13 of 2021 | 24 Aug 2021 | 1 Jul 2023 (see s. 2(b) and SL 2023/58 cl. 2)
 Other notes
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
@@ -121,9 +121,9 @@ Corporations Regulations5
 Court of Appeal5
 court of summary jurisdiction5
 Crown5
+death5
 de facto partner5
 de facto relationship5
-death5
 definition5
 District Court5
 District Court judge5
@@ -155,6 +155,8 @@ justice of the peace5
 King5
 land5
 law of the State13(1)
+lawyer5
+legal practitioner5
 licence45A(4)
 local government5
 local government district5, 13CA(1)
@@ -162,7 +164,7 @@ local law5
 magistrate5
 Magistrates Court5
 may56(1)
-Minister5
+Minister4
 Minister for Public Sector Management5
 month5, 62(1)
 oath5
@@ -179,16 +181,16 @@ police officer5
 power5
 prescribed5
 proclamation5
+publication5
 public half-holiday5
 public holiday5
 Public Sector Commissioner5
 Public Service5
 public service holiday5
 public service officer5
-publication5
 Queen5
 regional local government5
-regional subsidiary5
+regional subsidiary4
 regulation5
 regulations42(8)
 repeal5
@@ -208,7 +210,7 @@ State Administrative Tribunal5
 statutory declaration5
 subsidiary legislation5
 summary conviction5
-summary conviction penalty5
+summary conviction penalty4
 Supreme Court5
 swear5
 Territory5

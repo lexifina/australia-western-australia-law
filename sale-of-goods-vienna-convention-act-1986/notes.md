@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sale of Goods (Vienna Convention) Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Sale of Goods (Vienna Convention) Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
 Sale of Goods (Vienna Convention) Act 1986 | 88 of 1986 | 10 Dec 1986 | s. 1 and 2: 10 Dec 1986; Act other than s. 1 and 2: 1 Apr 1989 (see s. 2 and Gazette 24 Jun 1988 p. 1995)
@@ -7,12 +7,8 @@ Reprint of the Sale of Goods (Vienna Convention) Act 1986 as at 2 Aug 2002
 Legal Profession Act 2008 s. 701 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 2: The Sale of Goods (Vienna Convention) Act 1986 as at 8 May 2015 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 18 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 18 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Convention3
-legal practitioner7(2)

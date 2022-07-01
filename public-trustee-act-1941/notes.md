@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Trustee Act 1941 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Public Trustee Act 1941 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Trustee Act 1941 | 26 of 1941 (5 Geo. VI No. 26) | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
@@ -47,10 +47,7 @@ Reprint 6: The Public Trustee Act 1941 as at 10 Oct 2008 (includes amendments li
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 4 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 21 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 16 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 16 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 Footnote no longer required.
 Repealed in the First Schedule to this Act.
@@ -80,7 +77,6 @@ a grant of administration2
 a grant of letters of administration2
 administration2
 appointed day1(2)
-certificated practitioner2
 client2
 Common Account2
 Court2

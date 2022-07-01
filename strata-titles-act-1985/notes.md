@@ -51,12 +51,12 @@ Land Legislation Amendment (Taxing) Act 2015 Pt. 3 | 12 of 2015 | 29 Apr 2015 | 
 Heritage Act 2018 s. 187 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Strata Titles Amendment Act 2018 Pt. 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 14 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 21 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 21 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
-Transfer of Land Amendment Act 2022 Pt. 3 Div. 7 | 21 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
+Transfer of Land Amendment Act 2022 Pt. 3 Div. 7 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
@@ -238,7 +238,6 @@ appointed daySch. 3 cl. 1(1)
 approved form3(1)
 assistance animal3(1)
 associate3(1)
-Australian legal practitioner3(1)
 Authority3(1)
 base lines3(1)
 building3(1)
@@ -248,7 +247,7 @@ caravan park212(3)
 chairperson3(1), 3(1)
 commencement daySch. 5 cl. 1
 Commissioner of Titles3(1)
-common property3(1), 10(1), (2) and (3)
+common property3(1), 10(1), 10(2), 10(3)
 common property (utility and sustainability infrastructure) easement3(1)
 companySch. 3 cl. 1(1)
 conduct by-laws3(1)
@@ -309,7 +308,7 @@ location plan for a strata scheme3(1)
 lotSch. 2A cl. 2
 lot in a strata scheme3(1)
 lot in a survey-strata scheme3(1)
-member3(1)
+member3(1), 3(1)
 Minister for Lands196(3)
 monetary order3(1)
 mortgage3(1)
@@ -327,9 +326,9 @@ owner of a lotSch. 2A cl. 53A
 owner of the leasehold scheme8(3)
 parcel3(1)
 permitted boundary deviationSch. 2A cl. 3
-planning (scheme by-laws) condition3(1)
 planning approval3(1)
 Planning Commission3(1)
+planning (scheme by-laws) condition3(1)
 plot ratio3(1)
 post-1985 companySch. 4 cl. 1
 prescribed period27(7), 28(8)
@@ -346,7 +345,7 @@ registered mortgage3(1)
 Registrar of Titles3(1)
 replacement value3(1)
 reserve fund3(1), 100(2)
-resolution without dissent3(1), 123(2), 123(3)
+resolution without dissent3(1), 123(2) and (3)
 restricted use condition3(1), 32(2)
 schedule of unit entitlements3(1)
 schemeSch. 2A cl. 53A

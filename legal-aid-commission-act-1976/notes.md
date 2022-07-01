@@ -38,11 +38,11 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Acts Amendment (Fair Trading) Act 2010 s. 197 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Associations Incorporation Act 2015 s. 221 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Reprint 6: The Legal Aid Commission Act 1976 as at 20 Jan 2017 (includes amendments listed above)
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 13 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 13 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
 Repealed by the Statute Stocktake Act 1999 s. 3 (Cwlth) (No. 118 of 1999).
@@ -60,7 +60,6 @@ appointed day4(1)
 approved14(1b)
 assisted person4(1)
 Attorney General4(1)
-Australian lawyer4(1)
 Australian Legal Aid Office69
 authorised person68A
 CEO37(3b)
@@ -75,7 +74,7 @@ court64(6)
 decision46
 Department37(3b)
 Director4(1)
-disclose64(2b) and (2c)
+disclose64(2b), 64(2c)
 disclosure64(2b)
 Fund4(1)
 law practice4(1)
@@ -89,8 +88,7 @@ Legal Assistance Fund71(1)
 legal costs44A(10)
 legal experience4(1)
 Legal Practice Board4(1)
-legal practitioner4(1)
-member4(1)
+member2(1)
 officer of the Commission4(1)
 order for costs4(1)
 person affected46

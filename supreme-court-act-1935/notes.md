@@ -90,12 +90,12 @@ Reprint 9: The Supreme Court Act 1935 as at 6 Jan 2012 (includes amendments list
 Commercial Arbitration Act 2012 s. 45 it. 19 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pts. 3 Div. 20 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Courts Legislation Amendment Act 2018 Pt. 4 | 29 of 2018 | 2 Nov 2018 | 3 Nov 2018 (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
-Criminal Appeals Amendment Act 2022 Pt. 3 Div. 4 | 18 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
+Criminal Appeals Amendment Act 2022 Pt. 3 Div. 4 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
@@ -217,9 +217,7 @@ issue of fact4(1)
 judge of appeal4(1)
 judgment4(1)
 jurisdiction4(1)
-lawyer4(1)
 legal experience4(2)
-legal practitioner4(1)
 lower court17(1)
 master4(1)
 matrimonial cause4(1)

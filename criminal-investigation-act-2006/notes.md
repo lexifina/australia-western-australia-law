@@ -27,11 +27,11 @@ Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 108 | 4 o
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 2 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 1 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 56 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms
@@ -88,7 +88,6 @@ intimate forensic procedure73
 investigating officer49(3), 147(7)
 involved person73, 83(1), 84(1)
 judicial officer13(1)
-legal practitioner 3(1)
 midwife73
 mobile home3(1)
 non-intimate forensic procedure73

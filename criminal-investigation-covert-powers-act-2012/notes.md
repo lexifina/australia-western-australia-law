@@ -5,11 +5,11 @@ Short title | Number and year | Assent | Commencement
 Criminal Investigation (Covert Powers) Act 2012 | 55 of 2012 | 3 Dec 2012 | s. 1 and 2: 3 Dec 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Reprint 1: The Criminal Investigation (Covert Powers) Act 2012 as at 15 Dec 2017 (includes amendments listed above)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 4 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -69,7 +69,6 @@ law enforcement agency3
 law enforcement officer 3
 law enforcement operation3
 law enforcement participant5
-lawyer80
 local controlled operation5, 7
 Minister3
 non-government issuing agency44

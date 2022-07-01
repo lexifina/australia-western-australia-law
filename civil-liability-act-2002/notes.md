@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Civil Liability Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Civil Liability Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Liability Act 2002 | 35 of 2002 | 20 Nov 2002 | s. 1 and 2: 20 Nov 2002; Act other than s. 1 and 2: 1 Jan 2003 (see s. 2 and Gazette 17 Dec 2002 p. 5905)
@@ -32,10 +32,7 @@ Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 1 | 8 of 2016 | 14 Apr
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 8 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 2 | 3 of 2018 | 19 Apr 2018 | 1 Jul 2018 (see s. 2(b) and Gazette 29 Jun 2018 p. 2434)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 103 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 4 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 4 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -83,12 +80,11 @@ insurer19(8)
 interim participant13A(1)
 intoxicated5L(4)
 law practice15L(1), 16
-legal practitioner16
 lifetime participant13A(1)
 loss of earnings11(2)
 LPI4(2)
-medical qualifications5AB
 medically qualified good samaritan5AB
+medical qualifications5AB
 mental harm5Q
 misconduct21(3)
 MV(CI) Act13A(1)
@@ -96,11 +92,11 @@ non-pecuniary loss9(4)
 obvious risk5E, 5M
 office holder15B(1), 15D(1)
 other person5AKA(1)
+personal injury3
+personal injury damages3
 person attending19(11)
 person having contact19(11)
 person obtaining information19(11)
-personal injury3
-personal injury damages3
 plaintiff5H(1), 5I(1), 5O(1), 5S(1)
 policy decision5U
 potential claimant16

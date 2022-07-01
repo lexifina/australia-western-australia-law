@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Corruption, Crime and Misconduct Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Corruption, Crime and Misconduct Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
 Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -38,10 +38,7 @@ Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Ac
  | Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 2 | 78 of 2003 | 22 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
  | Reprint 7: The Corruption, Crime and Misconduct Act 2003 as at 24 May 2019 (includes amendments listed above)
 Corruption, Crime and Misconduct Amendment Act 2021 | 7 of 2021 | 25 Jun 2021 | s. 1 and 2: 25 Jun 2021 (see s. 2(a)); Act other than s. 1 and 2: 26 Jun 2021 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -192,9 +189,7 @@ interested person67(1)
 investigation3(1), 45
 issuing agency102
 juvenile81(2)
-lawyer3(1)
 legal experience190(1)
-legal practitioner3(1)
 medical practitioner54(1)
 minor misconduct3(1)
 minor misconduct function45B(1)

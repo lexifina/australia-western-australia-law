@@ -32,11 +32,11 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
  | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 22 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
  | Reprint 5: The Finance Brokers Control Act 1975 as at 7 Aug 2015 (includes amendments listed above)
  | COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 98 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+ | Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 5 Div. 1 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The appointed day is 1 August 1977 (see Gazette 17 June 1977 p. 1834).
 The referral day is 1 July 2010 (see Gazette 30 Jun 2010 p. 3187).

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle (Third Party Insurance) Act 1943 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Motor Vehicle (Third Party Insurance) Act 1943 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle (Third Party Insurance) Act 1943 | 32 of 1943 (7 Geo. VI No. 27) | 12 Nov 1943 | 1 Jul 1944 (see s. 1 and Gazette 12 May 1944 p. 375)
@@ -67,10 +67,7 @@ Reprint 12: The Motor Vehicle (Third Party Insurance) Act 1943 as at 24 Apr 2009
 Standardisation of Formatting Act 2010 s. 23 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 34 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 3 | 8 of 2016 | 14 Apr 2016 | 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this compilation are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette

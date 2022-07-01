@@ -56,13 +56,13 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 20 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Liquor Control Amendment Act 2018 | 9 of 2018 | 13 Jul 2018 | s. 1 and 2: 13 Jul 2018 (see s. 2(a)); s. 3, 4, 6, 7, 9, 11, 13-16, 19, 23, 24, 27-31, 33, 34, 37, 40-44, 47-52, 54, 55, 57-59, 61 and 64-70: 18 Aug 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2893); s. 5, 8, 10, 12, 20-22, 25, 26, 32, 35, 38, 39, 46, 56, 60, 62(2) and 63: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3779); s. 17, 18 and 45: 2 Nov 2019 (see s. 2(b) and Gazette 1 Nov 2019 p. 3857); s. 53 and 62(1) and (3): 18 Sep 2021 (see s. 2(b) and SL 2021/162 cl. 2); s. 36: 1 Feb 2022 (see s. 2(b) and SL 2021/198 cl. 2)
 Heritage Act 2018 s. 185 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
- | Short title | Number and year | Assent | Commencement
- | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
- | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Short title | Number and year | Assent | Commencement
+Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
@@ -144,7 +144,6 @@ inspector3(1)
 interstate supplier59A(1)
 juvenile3(1)
 kind3(1)
-lawyer3(1)
 LeagueSch. 2 cl. 1
 lease3(1)
 lessee3(1)

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Arbitration and Review Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Energy Arbitration and Review Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gas Pipelines Access (Western Australia) Act 1998 | 65 of 1998 | 15 Jan 1999 | s. 1 and 2: 15 Jan 1999; Act other than s. 1, 2 and Sch. 3 Div. 2 Subdiv. 3 and Div. 7 Subdiv. 3: 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441); Sch. 3 Div. 2 Subdiv. 3 and Div. 7 Subdiv. 3: 1 Jan 2000 (see s. 2(1))
@@ -28,10 +28,7 @@ Gas Services Information Act 2012 Pt. 3 | 5 of 2012 | 10 Apr 2012 | 30 Jun 2012 
 Commercial Arbitration Act 2012 s. 45 it. 7 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Electricity Corporations Amendment Act 2013 s. 40 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 4: The Energy Arbitration and Review Act 1998 as at 19 Aug 2016 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 8 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 8 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The amendment in the Federal Courts (State Jurisdiction) Act 1999 s. 10(3) is not included because s. 20 which it sought to amend had been deleted before the amendment purported to come into operation.
@@ -96,5 +93,4 @@ Board49
 Commissioner63(11)
 Coordinator of Energy63(11)
 electricity corporation80(5)
-legal practitioner49
 misbehaviour67(2)
