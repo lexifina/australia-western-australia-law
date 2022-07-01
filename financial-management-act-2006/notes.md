@@ -41,12 +41,12 @@ Reprint 4: The Financial Management Act 2006 as at 6 Oct 2017 (includes amendmen
 Infrastructure Western Australia Act 2019 s. 75 | 13 of 2019 | 24 Jun 2019 | 24 Jul 2019 (see s. 2(c))
 Procurement Act 2020 Pt. 10 Div. 3 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Financial Legislation Amendment Act 2021 Pt. 2 | 12 of 2021 | 24 Aug 2021 | 21 Sep 2021 (see s. 2(b))
+Arts and Culture Trust Act 2021 s. 75 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Soil and Land Conservation Amendment Act 2022 s. 21 | 19 of 2022 | 24 Jun 2022 | 25 Jun 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 149 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Arts and Culture Trust Act 2021 s. 75 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Animal Resources Authority Amendment and Repeal Act 2022 s. 16 | 12 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.

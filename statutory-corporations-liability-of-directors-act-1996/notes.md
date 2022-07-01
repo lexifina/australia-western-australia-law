@@ -39,11 +39,11 @@ Perth Market (Disposal) Act 2015 s. 56 | 40 of 2015 | 8 Dec 2015 | 31 Mar 2016 (
 Marketing of Potatoes Amendment and Repeal Act 2016 s. 16 | 22 of 2016 | 12 Sep 2016 | 22 May 2021 (see s. 2(d) and SL 2021/60 cl. 2)
 Reprint 6: The Statutory Corporations (Liability of Directors) Act 1996 as at 23 Sep 2016 (includes amendments listed above except those in the Marketing of Potatoes Amendment and Repeal Act 2016 s. 16)
 Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2018 published in Gazette 27 Jul 2018 p. 2690 | r. 1 and 2: 27 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jul 2018 (see r. 2(b))
+Arts and Culture Trust Act 2021 s. 78 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 157 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Arts and Culture Trust Act 2021 s. 78 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Other notes
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
