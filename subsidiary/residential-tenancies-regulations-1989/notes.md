@@ -51,10 +51,11 @@ Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 4 | 31 Dec 2
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 24 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 6 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Commerce Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt. 3 | SL 2021/130 16 Jul 2021 | 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
+Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 6 | SL 2022/115 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
-Repealed by the Legal Profession Act 2008.
+Footnote no longer applicable.
 The Residential Tenancies Act 1987 Sch. 1 cl. 7 was deleted by the Residential Tenancies Amendment Act 2011 s. 87(16).
 Now called the Consolidated Account.
 Defined terms

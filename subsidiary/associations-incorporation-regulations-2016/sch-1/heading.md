@@ -50,8 +50,8 @@
 (a)the Architects Act 2004;
 (b)the Co-operatives Act 2009;
 (c)the Health Practitioner Regulation National Law (Western Australia);
-(d)the Legal Profession Act 2008;
+(d) the Legal Profession Uniform Law (WA);
 (e)the Pharmacy Act 2010;
 (f)the Police Act 1892;
 (g)the Veterinary Practice Act 2021.
-[Schedule 1 amended: SL 2022/96 r. 4.]
+[Schedule 1 amended: SL 2022/96 r. 4; SL 2022/115 r. 4.]

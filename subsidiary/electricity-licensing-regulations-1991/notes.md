@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -57,10 +57,8 @@ Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 10 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Energy Regulations Amendment (Electricity Licensing) Regulations 2022 Pt. 2 | SL 2022/36 15 Mar 2022 | 16 Mar 2022 (see r. 2(b))
 Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/26 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 8 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
+Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 4 | SL 2022/115 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
@@ -117,7 +115,6 @@ holder of a licence46(1a), 47(1aa)
 in-house electrical installing work3(1)
 in-house electrical installing work licence3(1)
 labour hire arrangement50AA(1) and (1A)
-legal practitioner3(1)
 licence3(1)
 licensed electrical worker3(1)
 live3(1)
