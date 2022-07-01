@@ -6,7 +6,7 @@ Person summonsed | Name:
 Address:
 Postcode:
 Phone No. (h):(w):
-Proceedings are being held under section 13A(11) of the Gas Standards Act 1972 in relation to your certificate of competency, permit or authorisation. You are required to attend the proceedings.
+Proceedings are being held before the Director under the Gas Standards Act 1972 section 13A(12) in relation to you as the current or former holder of a certificate of competency, permit or authorisation. You are required to attend the proceedings.
 Proceedings | Place:
 Address:
 Date:Time:
@@ -14,13 +14,13 @@ Reason for proceedings | The proceedings are being held because:
 Person issuing summons | Name:
 Office:
 Signature:Date:
-[Form 1 inserted: Gazette 21 Apr 2006 p. 1577.]
+[Form 1 inserted: Gazette 21 Apr 2006 p. 1577; amended: SL 2022/121 r. 11(1).]
  | Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999, reg. 9(3) Summons to give evidence at proceedings | Form 2
  | Person summonsed | Name:
  | Address:
  | Postcode:
  | Phone No. (h):(w):
- | Proceedings are being held under section 13A(11) of the Gas Standards Act 1972 in relation to a person’s certificate of competency, permit or authorisation. You are required to attend the proceedings to give evidence and to produce the documents listed below.
+ | Proceedings are being held before the Director under the Gas Standards Act 1972 section 13A(12) in relation to the current or former holder of a certificate of competency, permit or authorisation. You are required to attend the proceedings to give evidence and to produce the documents listed below.
  | Proceedings | Place:
  | Address:
  | Date:Time:
@@ -30,4 +30,4 @@ Documents to be produced (if any)
 Person issuing summons | Name:
 Office:
 Signature:Date:
-[Form 2 inserted: Gazette 21 Apr 2006 p. 1578.]
+[Form 2 inserted: Gazette 21 Apr 2006 p. 1578; amended: SL 2022/121 r. 11(2).]
