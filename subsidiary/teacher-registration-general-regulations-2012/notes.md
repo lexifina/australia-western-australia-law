@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Teacher Registration (General) Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Teacher Registration (General) Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Teacher Registration (General) Regulations 2012 | 16 Nov 2012 p. 5571-609 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2012 (see r. 2(b) and Gazette 16 Nov 2012 p. 5637)
@@ -13,10 +13,8 @@ Reprint 1: The Teacher Registration (General) Regulations 2012 as at 7 Aug 2015 
 Teacher Registration Regulations (Fees) Amendment Regulations 2016 Pt. 2 | 14 Jun 2016 p. 1823-5 | 1 Jul 2016 (see r. 2(b))
 Education and Training Regulations Amendment (Fees) Regulations 2017 Pt. 4 | 27 Jun 2017 p. 3416-19 | 1 Jul 2017 (see r. 2(b))
 Education and Training Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 2 | 31 Jul 2018 p. 2711-15 | 1 Aug 2018 (see r. 2(b)(ii))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Education and Training Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/61 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Teacher Registration (General) Amendment Regulations 2022 | SL 2022/125 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Other notes
 The Mutual Recognition (Western Australia) Act 2010 expired on 28 Feb 2021 (see s. 6(3) of that Act). The Mutual Recognition (Western Australia) Act 2020 (Act No. 44 of 2020) commenced on 1 Mar 2021 and adopts the Mutual Recognition Act 1992 (Commonwealth) (see s. 4 of that Act).
 Defined terms
@@ -26,6 +24,7 @@ Aboriginal person11(7)
 ACARA3
 account23(1)
 Australian university12(1)
+automatic deemed registration21A(1)
 centre-based service21B(1)
 child care service21B(1)
 College29
@@ -36,7 +35,7 @@ expiry day15(2)(a)
 first year30(2)
 meeting23(1)
 mutual recognition principle3
-nominated supervisor 21B(1)
+nominated supervisor21B(1)
 overseas university12(1)
 prescribed person21B(1)
 professional learning activities3
@@ -45,7 +44,7 @@ registration card3
 relevant information19(1)
 relief teacher23(1)
 school3
-supervising officer 21B(1)
+supervising officer21B(1)
 Torres Strait Islander11(7)
 Trans-Tasman mutual recognition principle3
 WACOT Act29
