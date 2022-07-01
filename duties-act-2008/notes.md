@@ -30,12 +30,11 @@ Duties Amendment (Additional Duty for Foreign Persons) Act 2018 | 24 of 2018 | 1
 Revenue Law Amendment Act 2019 Pt. 2 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b)(i))
 Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
-Duties Amendment Act 2022 (other than Pt. 3) | 16 of 2022 | 27 May 2022 | Pt. 4: deemed to have come into operation on 13 Jun 2019 (see s. 2(c)); Pt. 1: 27 May 2022 (see s. 2(a)); Act other than Pt. 1, 3 and 4: 28 May 2022 (see s. 2(d))
+Duties Amendment Act 2022 | 16 of 2022 | 27 May 2022 | Pt. 4: deemed to have come into operation on 13 Jun 2019 (see s. 2(c)); Pt. 1: 27 May 2022 (see s. 2(a)); Act other than Pt. 1, 3 and 4: 28 May 2022 (see s. 2(d)); Pt. 3: 1 Jul 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Duties Amendment Act 2022 Pt. 3 | 16 of 2022 | 27 May 2022 | 1 Jul 2022 (see s. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
@@ -66,7 +65,6 @@ administration order139A(1)
 administrator139A(1)
 affected entity259(1)
 aggregated group interest163(2), 205ZH(3)
-aggregated transaction147F(3)
 agreement by instalments33(1)
 amended provisionsSch. 3 cl. 37
 amended section 244ASch. 3 cl. 50(1)
@@ -107,10 +105,9 @@ complying approved deposit fund121
 complying superannuation fund121
 concessional first home owner141(1)
 concessional rate9
-concessional transaction147C(1), 147(1), Sch. 3 cl. 11A(1)
+concessional transaction147(1)
 conditional agreement9
 consideration3, 9, 135(3)
-construction147A(1)
 contingent consideration32(1)
 continuing proprietor or proprietors45(1), 178(3)
 contract of insurance206, 208
@@ -155,7 +152,6 @@ earlier acquisition189(4) and (6)
 earlier instrumentSch. 3 cl. 10(1)
 electronic conveyancing instrument22A, 273A(1)
 eligible rollover fund121
-eligible transaction147A(1), 147B
 endorsed transaction118(1)
 entitled3
 entitlement value194(4)
@@ -205,6 +201,7 @@ foreign transfer duty3
 foreign transfer duty endorsed205F(1), (2) and (3)
 foreign trust205A(1), 205D(1)
 foreign trustee205A(1)
+former Chapter 2 Part 6 Division 4ASch. 3 cl. 59(1)
 franchise arrangement79
 franchisee79
 franchisor79
@@ -233,7 +230,7 @@ interstate duty206
 intervening transactions42(8)
 issue of title conditional agreement9
 issuing law91A(1)
-land3, 3A(1), (2) and (5), 147F(1) and (3), 148(1), Sch. 3 cl. 48(2), (3) and (4)
+land3, 3A(1), (2) and (5), 148(1), Sch. 3 cl. 48(2), (3) and (4)
 land asset148(1), 205ZE(2)
 landholder91A(1), 148(1)
 landholder duty3
@@ -272,7 +269,7 @@ new residential property205F(1), 205I(1) and (2)
 new trustee119(1)
 new vehicle228
 nominal duty3
-notifiable event257(1), 263(2), 264(3)
+notifiable event257(1), 264(2) and (3)
 notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
 offshore risk insurance206
 old partnership77(4)
@@ -339,13 +336,13 @@ relevant acquisition Sch. 3 cl. 37
 relevant activity91A(1)
 relevant body3
 relevant consolidation transaction257(1), 259(2), (3), (4) and (5)
-relevant entity126(1), 155(4), 156A(1), 264(1), 266A(1)
+relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
 relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
 relevant land assets167(1), 168(1)
 relevant licence277(1)
 relevant partnership property78(1), 78A(1)
-relevant period29(3), 147F(2) and (4), 193(1), 194(6), 201(2), Sch. 3 cl. 33
+relevant period29(3), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
 relevant reconstruction transaction257(1), 260(1), (2), (2A), (3), (4) and (5)
 relevant reconstruction transaction property266B(2)
@@ -359,8 +356,7 @@ replacement transaction107(1)
 representative206
 represented person139A(2)
 required duty273(1)
-residence96, 147A(1)
-residential land147A(1), 147D
+residence96
 residential landholder205ZD(1)
 residential park site3
 residential partnership acquisition205F(1)
@@ -381,7 +377,6 @@ security257(1)
 security holder259(4)
 security interest3
 seller244B(1)
-separate transactions147F(3)
 share3, 63
 significant interest161
 simultaneous put and call option9, 177(1)
@@ -400,7 +395,7 @@ subsale transaction107(1)
 subsequent transaction104
 subsequent transfer118(1), 120A(2), 120B(1)
 subsidiary257(1)
-substituted transferee141(3), 147A(3)
+substituted transferee141(3)
 superannuation agreement128(1)
 superannuation fund121, 125(1), 128(1)
 superannuation interest128(1)
@@ -411,7 +406,6 @@ surrender9
 taker in default9
 Taxation Administration Act3
 tax avoidance scheme268(2)
-taxpayer147A(1)
 terminated on relevant grounds9
 terms contract141(1)
 trailer228
@@ -425,7 +419,7 @@ transferee99(1), 141(1)
 transferor99(1), 118(1), 122(2), 173(1)
 transfer property78(1)
 transfers42(8)
-triggering acquisition266A(2)
+triggering acquisition266B(2)
 triggering acquisition property266B(2)
 trust acquisition9
 trust surrender9
