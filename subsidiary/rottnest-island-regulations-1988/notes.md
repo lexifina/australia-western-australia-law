@@ -53,6 +53,7 @@ Rottnest Island Amendment Regulations (No. 2) 2018 | 21 Dec 2018 p. 4854-6 | r. 
 Rottnest Island Amendment Regulations 2019 | 9 Aug 2019 p. 3026-7 | r. 1 and 2: 9 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2019 (see r. 2(b))
 Rottnest Island Amendment Regulations 2020 | SL 2020/118 17 Jul 2020 | r. 1 and 2: 17 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2020 (see r. 2(b))
 Rottnest Island Amendment Regulations 2021 | SL 2021/107 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
+Rottnest Island Amendment Regulations 2022 | SL 2022/124 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
