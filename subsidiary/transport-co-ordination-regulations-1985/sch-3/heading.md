@@ -30,4 +30,4 @@
 27.Ravensthorpe
 28.Shark Bay
 29.Wiluna
-[Schedule 3 inserted: Gazette 31 Dec 2019 p. 4685.
+[Schedule 3 inserted: Gazette 31 Dec 2019 p. 4685.]
