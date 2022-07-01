@@ -1,1 +1,1 @@
-Environmental Protection (Prohibited Plastics) Regulations 2018
+Environmental Protection (Prohibited Plastics and Balloons) Regulations 2018

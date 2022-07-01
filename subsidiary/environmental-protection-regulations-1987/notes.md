@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Environmental Protection Regulations 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Environmental Protection Regulations 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Environmental Protection Regulations 1987 | 20 Feb 1987 p. 444-9 | 20 Feb 1987 (see r. 2 and Gazette 20 Feb 1987 p. 440)
@@ -83,11 +83,8 @@ Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 
 Environmental Protection Regulations Amendment (Publication and Confidentiality) Regulations 2021 Pt. 3 | SL 2021/178 22 Oct 2021 | 23 Oct 2021 (see r. 2(c) and SL 2021/176 cl. 2)
 Environmental Protection Amendment Regulations (No. 2) 2021 | SL 2021/190 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2021 Pt. 2 Div. 2 | SL 2021/215 17 Dec 2021 | 1 Jan 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2022 Pt. 3 Div. 2 | SL 2022/64 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
-Environmental Protection Amendment Regulations 2022 r. 3-7 | SL 2022/68 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Environmental Protection Amendment Regulations 2022 | SL 2022/68 3 Jun 2022 | r. 1 and 2: 3 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
