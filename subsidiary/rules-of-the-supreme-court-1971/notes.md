@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -151,10 +151,7 @@ Supreme Court Amendment Rules (No. 2) 2020 | SL 2020/242 18 Dec 2020 | r. 1 and 
 Supreme Court Rules Amendment (Court of Appeal) Rules 2021 Pt. 3 | SL 2021/34 30 Mar 2021 | 3 May 2021 (see r. 2(b))
 Supreme Court Amendment Rules (No. 2) 2021 | SL 2021/65 1 Jun 2021 | r. 1 and 2: 1 Jun 2021 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Supreme Court Amendment Rules 2022 | SL 2022/53 6 May 2022 | r. 1 and 2: 6 May 2022 (see r. 2(a)); Rules other than r. 1 and 2: 20 May 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/74 14 Jun 2022 | Operative on commencement of Legal Profession Uniform Law Application Act 2022 s. 6 (see r. 2(b))
+Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -179,13 +176,14 @@ another courtO. 52A r. 1
 any relevant scaleO. 66 r. 11(1)
 appealO. 65 r. 1
 appeal noticeO. 65 r. 1
-applicantO. 11A r. 1, O. 52A r. 1, O. 52B r. 1
+applicantO. 11A r. 1, O. 52A r. 1, O. 52B r. 1, O. 75A r. 1
 application O. 56 r. 1(1)
 approved mediatorO. 4A r. 1
 arbitration lawO. 81D r. 1
 arbitratorO. 81D r. 1
 Australian diplomatic or consular agentO. 1 r. 4(1)
 BO. 4A r. 2(2)(n)
+BoardO. 75A r. 1
 caseO. 1 r. 4(1), O. 4A r. 1
 case management directionO. 4A r. 1
 case management registrarO. 1 r. 4(1)
@@ -274,6 +272,7 @@ mortgagorO. 10 r. 1(2)
 non-partyO. 26A r. 3(2) and 5(1)
 objectO. 4A r. 2(2)(n)
 objectionO. 81FA r. 1
+objectorO. 75A r. 2C
 officerO. 1 r. 4(1)
 official channelO. 11 r. 1
 originating summonsO. 1 r. 4(1)
@@ -284,7 +283,6 @@ place of renditionO. 81B r. 1(1)
 plaintiffO. 25 r. 4
 possessionO. 26A r. 1
 potential partyO. 26A r. 3(1) and 4(1)
-practitionerO. 1 r. 4(1)
 premisesO. 52B r. 1
 prescribed feeO. 1 r. 4(1)
 prescribed rateO. 51 r. 7(3)

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Supreme Court (Court of Appeal) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Supreme Court (Court of Appeal) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Supreme Court (Court of Appeal) Rules 2005 | 29 Apr 2005 p. 1803-75 | 2 May 2005 (see r. 2)
@@ -7,10 +7,7 @@ Supreme Court Rules Amendment Rules 2017 Pt. 3 | 16 Aug 2017 p. 4391-427 | 30 Au
 Supreme Court (Court of Appeal) Amendment Rules 2017 | 22 Aug 2017 p. 4517-44 | r. 1 and 2: 22 Aug 2017 (see r. 2(a)); Rules other than r. 1 and 2: 5 Sep 2017 (see r. 2(b))
 Supreme Court Rules Amendment (Court of Appeal) Rules 2021 Pt. 2 | SL 2021/34 30 Mar 2021 | 3 May 2021 (see r. 2(b))
 Supreme Court (Court of Appeal) Amendment Rules 2022 | SL 2022/60 20 May 2022 | r. 1 and 2: 20 May 2022 (see r. 2(a)); Rules other than r. 1 and 2: 3 Jun 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 5 | SL 2022/74 14 Jun 2022 | Operative on commencement of Legal Profession Uniform Law Application Act 2022 s. 6 (see r. 2(b))
+Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 5 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -33,7 +30,6 @@ file3(1)
 Form3(1)
 interim order3(1)
 interlocutory civil appeal3(1)
-lawyer3(1)
 legal issue67(1)
 party3(1)
 primary court3(1)
