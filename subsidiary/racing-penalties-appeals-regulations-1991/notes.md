@@ -26,6 +26,4 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 8 | 10 Nov 2017 p. 5579-94 | 1 Jan 2018 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
-Other notes
-Under the Legal Profession Act 2008 s. 630(1), a reference to the Legal Practitioners Act 1893 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
-Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
+Racing Penalties (Appeals) Amendment Regulations 2022 | SL 2022/119 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
