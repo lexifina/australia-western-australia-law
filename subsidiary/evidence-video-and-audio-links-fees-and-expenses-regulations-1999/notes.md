@@ -25,3 +25,4 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2 018 Pt. 
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 28 Jun 2019 p. 2553-642 | 1 Jul 2019 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 6 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 7 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 8 | SL 2022/111 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))

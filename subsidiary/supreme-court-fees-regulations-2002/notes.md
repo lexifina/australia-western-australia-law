@@ -39,6 +39,8 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 1
 Reprint 4: The Supreme Court (Fees) Regulations 2002 as at 9 Nov 2019 (includes amendments listed above)
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 10 | SL 2020/124 31 Jul 2020 | 1 Aug 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 11 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 12 | SL 2022/111 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Attorney General Regulations Amendment (Legal Profession) Regulations 2022 Pt. 6 | SL 2022/114 30 Jun 2022 | 1 Jul 2022 (see r. 2(c) and SL 2022/111 r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
