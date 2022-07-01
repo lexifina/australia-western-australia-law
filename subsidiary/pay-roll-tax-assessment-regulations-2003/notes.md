@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Pay-roll Tax Assessment Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Pay-roll Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2341-80 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -28,9 +28,6 @@ Pay-roll Tax Assessment Amendment Regulations (No. 2) 2016 | 24 Jun 2016 p. 2343
 Finance Regulations Amendment Regulations 2019 Pt. 3 | 13 Aug 2019 p. 3041-3 | 14 Aug 2019 (see r. 2(c))
 Pay-roll Tax Assessment Amendment Regulations 2020 | SL 2020/247 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
 Pay-roll Tax Assessment Amendment Regulations 2021 | SL 2021/115 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Finance Regulations Amendment Regulations 2022 Pt. 3 | SL 2022/91 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 5 Div. 3.
