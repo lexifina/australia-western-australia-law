@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
  | Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 | 31 Mar 2006 p. 1225-46 | 1 Apr 2006 (see bl. 2)
@@ -29,10 +29,7 @@ Citation | Published | Commencement
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2019 | 21 Jun 2019 p. 2119-27 | bl. 1 and 2: 21 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1, 2 and 5: 1 Jul 2019 (see bl. 2(c)); bl. 5: 1 Sep 2019 (see bl. 2(b))
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2020 | SL 2020/79 9 Jun 2020 | bl. 1 and 2: 9 Jun 2020 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2020 (see bl. 2(b))
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2021 | SL 2021/98 22 Jun 2021 | bl. 1 and 2: 22 Jun 2021 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2021 (see bl. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2022 bl. 3-5 | SL 2022/70 3 Jun 2022 | 1 Jul 2022 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2022 | SL 2022/70 3 Jun 2022 | bl. 1 and 2: 3 Jun 2022 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2022 (see bl. 2(b))
 Other notes
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 The Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016, (row 5 of the table in by-law 5) was disallowed by the Legislative Council on 22 Nov 2016 (see Gazette 6 Dec 2016 p. 5492).
