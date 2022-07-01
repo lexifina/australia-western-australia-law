@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
@@ -137,13 +137,10 @@ Jetties Amendment Regulations (No. 4) 2020 | SL 2020/238 4 Dec 2020 | r. 1 and 2
 Transport Regulations Amendment (Ports) Regulations 2021 Pt. 2 | SL 2021/51 7 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Waiver and Refund) Regulations 2022 Pt. 2 | SL 2022/47 8 April 2022 | 9 April 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Jetties Amendment Regulations (No. 2) 2022 r. 3-15 | SL 2022/48 22 Apr 2022 | 1 Jul 2022 (see r. 2(b))
+Jetties Amendment Regulations (No. 2) 2022 | SL 2022/48 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
-The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
+Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the department in the Public Service designated as “Police Department” is to be read and construed as a reference to the department designated as “Police Service”.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -175,7 +172,7 @@ commercial passenger vessel67DD
 commercial vessel3(1)
 day3(2)
 Department3(1)
-enhanced facilitiesSch. 1 cl. 31(1)
+enhanced facilitiesSch. 1 cl. 30(1)
 exclusive operator67DD, 67DF(2)
 fee109
 fishing vessel3(1)
