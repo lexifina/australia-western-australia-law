@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Children and Community Services Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Children and Community Services Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Children and Community Services Regulations 2006 | 18 Jan 2006 p. 353-72 | 1 Mar 2006 (see r. 2 and Gazette 14 Feb 2006 p. 695)
@@ -30,9 +30,6 @@ Children and Community Services Amendment Regulations (No. 2) 2020 | SL 2020/237
 Children and Community Services Amendment Regulations 2021 | SL 2021/36 9 Apr 2021 | r. 1 and 2: 9 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2021 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 2) 2021 | SL 2021/139 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2021 (see r. 2(b))
 Children and Community Services Amendment Regulations 2022 | SL 2022/49 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2022 Pt. 3 | SL 2022/87 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
