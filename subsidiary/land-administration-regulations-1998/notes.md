@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Administration Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Land Administration Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Land Administration Regulations 1998 | 27 Mar 1998 p. 1741-61 | 30 Mar 1998 (see r. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -41,10 +41,7 @@ Land Administration Amendment Regulations (No. 2) 2019 | 28 Jun 2019 p. 2484-5 |
 Land Regulations Amendment (Geocentric Datum) Regulations 2020 Pt. 2 | SL 2020/64 22 May 2020 | 1 Jul 2020 (see r. 2(b))
 Land Administration Amendment Regulations 2021 | SL 2021/103 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Land Administration Amendment Regulations (No. 2) 2021 | SL 2021/189 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Land Administration Amendment Regulations 2022 r. 3 and 4 | SL 2022/90 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Land Administration Amendment Regulations 2022 | SL 2022/90 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
