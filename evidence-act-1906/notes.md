@@ -114,12 +114,12 @@ Family Violence Legislation Reform Act 2020 Pt. 10 | 30 of 2020 | 9 Jul 2020 | s
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 4 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 4 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Legislation Act 2021 Pt. 6 Div. 2 | 13 of 2021 | 24 Aug 2021 | To be proclaimed (see s. 2(b))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 11 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:

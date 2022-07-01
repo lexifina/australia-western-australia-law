@@ -22,7 +22,7 @@ Item | Formal description | Informal description
 18. | A member of the National Insurance Brokers Association of Australia (ACN 006 093 849). | Insurance broker
 19. | A Justice of the Peace. | Justice of the Peace
 19A. | A person who is a member of the Authority’s staff within the meaning given to that term by the Land Information Authority Act 2006 section 3. | Landgate officer
-20. | An Australian lawyer within the meaning of that term in the Legal Profession Act 2008 section 3. | Lawyer
+20. | A lawyer. | Lawyer
 21. | The chief executive officer or deputy chief executive officer of a local government. | Local government CEO or deputy CEO
 22. | A member of the council of a local government within the meaning of the Local Government Act 1995. | Local government councillor
 23. | A member of the Australasian Institute of Chartered Loss Adjusters (ACN 074 804 167). | Loss adjuster
@@ -49,4 +49,4 @@ Item | Formal description | Informal description
 42. | A person registered under the Teacher Registration Act 2012. | Registered teacher
 43. | A member, registrar or clerk, or the chief executive officer, of any tribunal of the State or the Commonwealth. | Tribunal officer
 44. | A veterinarian as defined in the Veterinary Practice Act 2021 section 3. | Veterinarian
-[Schedule 2 amended: Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; 17 Apr 2014 p. 1076; amended: No. 21 of 2008 s. 684(5); No. 22 of 2008 Sch. 3 cl. 39; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165; No. 32 of 2016 s. 188; No. 4 of 2018 s. 115; No. 19 of 2021 s. 233(2).]
+[Schedule 2 amended: Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; 17 Apr 2014 p. 1076; amended: No. 21 of 2008 s. 684(5); No. 22 of 2008 Sch. 3 cl. 39; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165; No. 32 of 2016 s. 188; No. 4 of 2018 s. 115; No. 19 of 2021 s. 233(2); No. 9 of 2022 s. 424.]

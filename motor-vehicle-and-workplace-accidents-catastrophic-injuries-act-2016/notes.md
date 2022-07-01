@@ -1,19 +1,17 @@
 Notes
-This is a compilation of the Motor Vehicle (Catastrophic Injuries) Act 2016. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Motor Vehicle (Catastrophic Injuries) Act 2016. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle (Catastrophic Injuries) Act 2016 | 8 of 2016 | 14 Apr 2016 | s. 1 and 2: 14 Apr 2016 (see s. 2(a)); Act other than s. 1, 2 and 5: 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421); s. 5: 1 Jul 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 appropriate person21(1)
 assessed treatment, care and support needs3(1)
-catastrophic injuries support scheme (CISS)3(1)
+catastrophic injuries support scheme3(1)
 catastrophic injury3(1)
+CISS3(1)
 code35(1)
 Commission3(1)
 Commission officer32(1)

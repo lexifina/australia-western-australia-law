@@ -28,12 +28,12 @@ Reprint 4: The Family Court Act 1997 as at 14 Mar 2014 (includes amendments list
 Child Support (Commonwealth Powers) Act 2019 Pt. 3 | 7 of 2019 | 15 May 2019 | 15 May 2019 (see s. 2)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 59 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Family Court Amendment Act 2021 | 16 of 2021 | 9 Sep 2021 | s. 1 and 2: 9 Sep 2021 (see s. 2(a)); Act other than s. 1 and 2: 10 Sep 2021 (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Family Legislation Amendment Act 2006 Pt. 4 | 35 of 2006 | 4 Jul 2006 | To be proclaimed (see s. 2)
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Superannuation and Family Benefits Act 1938was repealed by the State Superannuation Act 2000 s. 39. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
@@ -192,8 +192,6 @@ arbitration5(1), 56(1)
 arbitrator5(1)
 arresting person5(1)
 audio link5(1)
-Australian lawyer11(3a)
-Australian legal practitioner5(1)
 birth5(1)
 captain5(1)
 carer98A(1)

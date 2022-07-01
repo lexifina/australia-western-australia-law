@@ -16,11 +16,11 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 42 | 74 of 2003 | 15 Dec 200
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Legal Profession Act 2008 s. 653 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 2: The Corporations (Western Australia) Act 1990 as at 8 May 2009 (includes amendments listed above)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 37(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 On 15 July 2001, the Corporations Act 1989 (Commonwealth) was superseded by the Corporations Act 2001 (Commonwealth).
 Now see Australian Securities and Investments Commission Act 2001 (Commonwealth).

@@ -15,11 +15,11 @@ Solicitor-General Amendment Act 2006 s. 4-11 | 29 of 2006 | 30 Jun 2006 | 18 Jul
 Reprint 2: The Solicitor-General Act 1969 as at 18 Jan 2008 (includes amendments listed above)
 Legal Profession Act 2008 s. 705 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 82 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 64 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The amendment to s. 4 in the Financial Legislation Amendment and Repeal Act 2006 s. 4 is not included because the section it sought to amend was replaced by the Solicitor-General Amendment Act 2006 s. 6.
@@ -28,9 +28,8 @@ Defined terms
 Defined termProvision(s)
 amended Act14(1)
 Attorney General2(1)
-Australian lawyer3(3)
 current Solicitor-General14(1)
 former Act14(1)
 legal experience3(3)
 remuneration4(1)
-Solicitor-General2(1), 2(2)
+Solicitor-General2(1) and (2)

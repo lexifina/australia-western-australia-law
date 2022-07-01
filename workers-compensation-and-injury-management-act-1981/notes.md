@@ -87,13 +87,13 @@ Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (s
  | Workers’ Compensation and Injury Management Amendment Act 2018 | 8 of 2018 | 20 Jun 2018 | Pt. 1: 20 Jun 2018 (see s. 2(a)); Pt. 3: 21 Jun 2018 (see s. 2(b)); Act other than Pt. 1 and 3: 1 Jul 2018 (see s. 2(c) and Gazette 29 Jun 2018 p. 2433)
  | Workers’ Compensation and Injury Management Amendment (COVID-19 Response) Act 2020 | 31 of 2020 | 18 Aug 2020 | s. 1 and 2: 18 Aug 2020 (see s. 2(1)(a)); s. 3 and 16: 19 Aug 2020 (see s. 2(1)(b)); Act other than s. 1-3 and 16: 12 Oct 2020 (see s. 2(1)(c) and SL 2020/187 cl. 2)
  | Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 8 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+ | Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 22 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 160 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 22 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Footnote no longer applicable.
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
@@ -469,21 +469,22 @@ Arbitration Service5(1)
 arbitrator5(1)
 audiometric testSch. 7 cl. 1
 auditor175B(2)
+Australian practising certificate5B(1)
 authorised officer175E
 bonus or allowanceSch. 1 cl. 11(2)
 certificate of outcome182ZE
 Chairman of WorkCover WA5(1)
 chief executive officer5(1)
 childSch. 1A cl. 2(2)
-child’s allowance72J(1), Sch. 1A cl. 5
 childrenSch. 1A cl. 2(2)
+child’s allowance72J(1), Sch. 1A cl. 5
 chiropractor5(1)
 claim72C
-claim for compensation by way of weekly payments93N(1A)
 claimant72C
+claim for compensation by way of weekly payments93N(1A)
 clause5(1), 72C
 code155
-commencement day93EA(4), 93EB(4), 93T(1), Sch. 8 cl. 1 and 9
+commencement day5B(1), 93EA(4), 93EB(4), 93T(1), Sch. 8 cl. 1 and 9
 CommissionerSch. 8 cl. 1
 company5(1), 10A(1), 175AA(1)
 compensable injury 159
@@ -496,9 +497,10 @@ conciliation rules5(1), 293A(1)
 Conciliation Service5(1)
 continental shelfSch. 6 cl. 1
 contract of insurance5(1)
-contractor175(1), 175(6)
+contractor175(1) and (6)
 Contribution Act93F(4), 93K(8)
 corporate body10A(1)
+corresponding law5B(1)
 costs261
 costs determination261
 costs of a proceeding261
@@ -506,17 +508,17 @@ court23A, 182ZH(1)
 Crown14(1)
 damages72K(1), 93A, 159
 date of injury49A
-de facto partnerSch. 5 cl. 1(1)
 decision5(1)
-decision of a specialised retraining assessment panel146V(9)
 decision of an approved medical specialist146J(2)
 decision of an approved medical specialist panel146O(7)
+decision of a specialised retraining assessment panel146V(9)
 deemed worker159
+de facto partnerSch. 5 cl. 1(1)
 defendant92, 93(1)
 degree of disability93E(1)
 degree of impairment146
 degree of permanent impairment31B
-degree of permanent whole of person impairment 93H(1), 158(1), Sch. 1 cl. 18C(3)
+degree of permanent whole of person impairment93H(1), 158(1), Sch. 1 cl. 18C(3)
 dentist5(1)
 dependant5(1), 72I(1), 72J(1), Sch. 1A cl. 3
 designation182C(1), 182ZR(1)
@@ -556,7 +558,6 @@ hazardous firefighting employment49A
 hearing259(1)
 HIV31F(1), 93Q(8)
 impairment31G(1)
-in respect of the injury or injuries93P(3)
 incorporated insurance office161(1)
 industrial agreement5(1)
 industrial award5(1)
@@ -565,6 +566,7 @@ information111A(4), 182R(1)
 injury5(1), 93AC, 180(1), Sch. 1A cl. 1
 injury management5(1)
 injury management system155
+in respect of the injury or injuries93P(3)
 inspector5(1)
 insurable damages159
 Insurance Commission of Western Australia 5(1)
@@ -620,12 +622,12 @@ prescribed employment49F(1)
 prescribed family memberSch. 1A cl. 2(3)
 prescribed workplaceSch. 7 cl. 1
 primary power212
-principal175(1), 175(6)
+principal175(1) and (6)
 proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
 prohibited drug31F(1), 93Q(8)
-prohibited person182S(4), 195(4A)
+prohibited person5(1), 5B(2)
 qualifying period49A
-reasonable expenses referred to in clause 17(1) Sch. 1 cl. 18A(1AA), 18D(1A)
+reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA) and 18D(1A)
 redemption amountSch. 5 cl. 1(1)
 registered agent5(1)
 registered club11A(1)
@@ -667,6 +669,7 @@ subsequent proceeding182ZM(1)
 substantial interruption19(3)
 substantive law93AE
 supplementary amountSch. 5 cl. 1(1)
+Supreme Court roll5B(1)
 termination day93E(1)
 territorial seaSch. 6 cl. 1
 treating medical practitioner155

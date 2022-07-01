@@ -17,12 +17,12 @@ Reprint 2: The Fair Trading Act 2010 as at 22 Jun 2018 (includes amendments list
 Consumer Protection Legislation Amendment Act 2019 Pt. 5 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Fair Trading Amendment Act 2019 | 26 of 2019 | 24 Oct 2019 | 25 Oct 2019 (see s. 2(b))
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 3 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Section 36 as altered by the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 no longer has effect in relation to the Australian Consumer Law (WA) Text.

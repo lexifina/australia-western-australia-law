@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Wills Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Wills Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Wills Act 1970 | 12 of 1970 | 29 Apr 1970 | 1 Jul 1970 (see s. 2 and Gazette 5 Jun 1970 p. 1521)
@@ -17,10 +17,7 @@ Reprint 4: The Wills Act 1970 as at 3 Jul 2009 (includes amendments listed above
 Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 17 | 48 of 2011 | 25 Oct 2011 | 16 Jan 2013 (see s. 2(b) and Gazette 15 Jan 2013 p. 79)
 Wills Amendment (International Wills) Act 2012 | 47 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(1)(a)); Act other than s. 1 and 2: 11 Mar 2015 (see s. 2(1)(b) and Gazette 10 Mar 2015 p. 845)
 Reprint 5: The Wills Act 1970 as at 10 Jul 2015 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 The Acts Amendment (Equality of Status) Act 2003 s. 211(2) reads as follows:
 (2) The repeal effected by subsection (1) applies to and in respect of the will of any person dying on or after the date of the commencement of this section, whether the will was made or executed before, on or after that date but does not apply to the will of a person who died before that date.
@@ -30,7 +27,6 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 apparent10(1)
-Australian legal practitioner32A
 Convention32A
 country4
 Court39(1), 49

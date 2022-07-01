@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Terrorism (Preventative Detention) Act 2006 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Terrorism (Preventative Detention) Act 2006 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Terrorism (Preventative Detention) Act 2006 | 42 of 2006 | 22 Sep 2006 | 22 Sep 2006 (see s. 2)
@@ -8,10 +8,7 @@ Legal Profession Act 2008 s. 710 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 38 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Terrorism (Preventative Detention) Amendment Act 2016 | 23 of 2016 | 12 Sep 2016 | 12 Sep 2016 (see s. 2)
 Terrorism (Preventative Detention) Amendment Act 2019 | 23 of 2019 | 8 Oct 2019 | s. 1 and 2: 8 Oct 2019 (see s. 2(a)); Act other than s. 1 and 2: 9 Oct 2019 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -47,7 +44,7 @@ institution4(1)
 interpreter46(6)
 issuing authority4(1)
 judge4(1)
-lawyer4(1), 46(2)
+lawyer46(2)
 lock-up4(1)
 monitor46(9)
 monitoring order44(7)
@@ -58,7 +55,7 @@ parent/guardian46(4)
 Parliamentary Commissioner4(1)
 PDO38
 permitted detention period4(1), 13(2)
-person to whom section 9 applies9(1), 9(3)
+person to whom section 9 applies9(1) and (3)
 photograph4(1)
 place4(1)
 preservation order15(1)
@@ -72,7 +69,7 @@ qualified person48(1)
 quarter54(1)
 reasonably suspects4(1), 5
 remote communication12(1), 22(1)
-responsible personSch. 2 cl. 8(1), Sch. 2 cl. 8(1)
+responsible personSch. 2 cl. 8(1)
 review proceedings22(1)
 searcherSch. 2 cl. 7(1)
 seizable item4(1)

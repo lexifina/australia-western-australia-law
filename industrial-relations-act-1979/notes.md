@@ -99,16 +99,16 @@ Police Amendment (Medical Retirement) Act 2019 Pt. 3 | 19 of 2019 | 15 Aug 2019 
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 5 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Police Amendment (Compensation Scheme) Act 2021 Pt. 3 | 26 of 2021 | 13 Dec 2021 | 1 Jan 2022 (see s. 2(b) and SL 2021/222 cl. 2)
 Industrial Relations Legislation Amendment Act 2021 Pt. 2 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and (2) and SL 2022/79 cl. 2)
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 9 and s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(b)(i) and (c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 9 and s. 424 | 9 of 2022 | 14 Apr 2022 | s. 359(2): commencement dependent on the day the Industrial Relations Legislation Amendment Act 2021 s. 69 comes into operation (see s. 2(b)); Pt. 17 Div. 9 (other than s. 359(2)) and 424: to be proclaimed (see s. 2(b) and (c))
 Other notes
 Footnote no longer applicable.
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 (Cwlth). Now see the Fisheries Management Act 1991 s. 4(1) (Cwlth).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 (Cwlth).
-Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see the Fair Work Act 2009 (Cwlth).
+Footnote no longer applicable.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Footnote no longer applicable.
@@ -130,6 +130,7 @@ The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repe
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2).
 The Labour Relations Legislation Amendment Act 2006 s. 22 contains transitional provisions.
 The Industrial Relations Legislation Amendment Act 2021 s. 7(4), 24(1) and 75(2) were deleted when s. 5(2) of that Act came into operation. See s. 7(5), 24(2) and 75(3) of that Act.
+The Legal Profession Uniform Law Application Act 2022 the Table to s. 424 it. 22 amendment to s. 51Q(4) will not come into operation because the section it sought to amend was replaced by the Industrial Relations Legislation Amendment Act 2021 s. 31.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -150,9 +151,9 @@ arbitrator97WH
 area and scope provisions29A(1a)
 association7(1)
 Association80C(1)
-auditor65
+auditor64D
 authorised representative49G
-award7(1), 46(5), 97U(1), 97UG(7)
+award7(1), 44(5), 97U(1), 97UG(7)
 bargaining agent97U(1)
 bargaining in good faith42B(2)
 Board80C(1), 80M(1)
@@ -171,7 +172,7 @@ civil infringement notice penalty84B, 84C(2)
 civil penalty provision7(1)
 collegiate electoral system52
 commencement day20(8b), 117(1), Sch. 6 cl. 1
-Commission7(1), 16(1), 22A, 42C(6), 49(1), 50(1), 51C(1), 97VW, Sch. 6 cl. 5(1)
+Commission7(1), 16(1), 22A, 42C(6), 49(1), 50(1), 51C, 97VW, Sch. 6 cl. 5(1)
 commissioner7(1)
 Commission in Court Session7(1)
 comparable award97VR
@@ -180,9 +181,9 @@ compliance notice84O, 84Q(1)
 complying superannuation fund or scheme48B(1)
 conciliation functions32A(1)
 conduct of a sexual nature51BI(4)
-constituent authority7(1)
+constituent authority7
 contravene83(1A)
-contravention83EA(1), 84AA(1), 84K, 84O
+contravention83EA, 84AA(1), 84K, 84O
 corporation96H(3)
 corresponding authority80ZI(3)
 corresponding provision of this Act80BF(1)
@@ -234,9 +235,10 @@ final offer arbitration7(1)
 finance official74(1)
 finding7(1)
 first agreement41(8)
+foreign roll112A(3B)
 formerSch. 6 cl. 1
 former ActSch. 6 cl. 5(1)
-former acting PresidentSch. 6 cl. 1, Sch. 6 cl. 2(1)
+former acting PresidentSch. 6 cl. 2(1)
 former section117(1)
 former section 73 summonsSch. 6 cl. 8(1)
 Full Bench7(1)
@@ -270,7 +272,6 @@ irregularity7(1)
 judge7(1)
 judgment81CB(1), 88(1)
 labour hire agency7(1)
-legal practitioner7(1)
 limited guardian97WS(4)
 LSL Act7(1)
 matterSch. 6 cl. 1
@@ -290,7 +291,7 @@ nominated person84B
 occupier49L(2)
 office7(1)
 officer7(1)
-officer of the Commission7(1)
+officer of the Commission6(1)
 officer of the Court7(1)
 old federal instrument80B, 80BB(1)
 one-tier collegiate electoral system52
@@ -298,7 +299,7 @@ organisation7(1), 72A(1), 72B(2), 80H(6), 96A
 organisation of employees96A
 original dispute97WK(1)
 original term56A(4)
-party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(3)
+party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(2)
 peak industrial body97VZ(3)
 person51BF
 person with a mental disability97WR
@@ -336,7 +337,7 @@ record7(1)
 record-related civil penalty provision7(1)
 Registrar7(1), 96(1)
 Registrar’s Department7(1)
-Registrar’s Department officer7(1)
+Registrar’s Department officer6(1)
 registration7(1)
 regulations97U(1)
 relevant contraventions83EA(4)
@@ -354,7 +355,7 @@ represented person7(1), 97X, 97XO
 respondent77(1)
 revocation order97WR, 97XG, 97XI(1)
 rules52A(1)
-salaried position80M(1)
+salaried position80L(1)
 secondary office7(1)
 section 97UM signatory97U(1)
 Senior Commissioner7(1)
@@ -383,7 +384,7 @@ Union80M(1)
 vary7(1)
 volunteer51BF
 volunteer association51BG(3)
-WA Branch of the AMA72B(1)
+WA Branch of the AMA72A(1)
 wage assessment tool7(1)
 WA Police51BF
 Westrail Enterprise Bargaining Agreement80R(2b)

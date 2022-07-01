@@ -16,18 +16,17 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 95 | 77 of 2006 |
 Legal Profession Act 2008 s. 672 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 2: The Law Reform Commission Act 1972 as at 7 Sep 2012 (includes amendments listed above)
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 12 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 53 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 12 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Australian legal practitioner6(3)
 Chairman3
 Commission3
 member3

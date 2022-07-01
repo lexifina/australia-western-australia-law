@@ -1,13 +1,10 @@
 Notes
-This is a compilation of the Australian Crime Commission (Western Australia) Act 2004 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Australian Crime Commission (Western Australia) Act 2004 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Australian Crime Commission (Western Australia) Act 2004 | 74 of 2004 | 8 Dec 2004 | 1 Feb 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Legal Profession Act 2008 s. 640 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -30,7 +27,6 @@ function3(1), 3(5)
 incidental offence3(4)
 intelligence operation3(1)
 issuing officer3(1)
-legal practitioner 3(1)
 member of the staff of the ACC44(4)
 NCA (State Provisions) Act54
 NCA investigation54

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Long Service Leave Act 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Long Service Leave Act 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Long Service Leave Act 1958 | 44 of 1958 (7 Eliz. II No. 44) | 12 Dec 1958 | 24 Dec 1958 (see s. 2 and Gazette 24 Dec 1958 p. 3371)
@@ -21,10 +21,7 @@ Legal Profession Act 2008 s. 676 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2003 | 10 Jun 2009 (see s. 2(2))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Industrial Relations Legislation Amendment Act 2021 Pt. 4 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and SL 2022/79 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 The Industrial Relations Legislation Amendment and Repeal Act 1995 Pt. 8 Div. 2 are savings and transitional provisions that are of no further effect.
 The Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 3 reads as follows:

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Suitors’ Fund Act 1964 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Suitors’ Fund Act 1964 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Suitors’ Fund Act 1964 | 43 of 1964 (13 Eliz. II No. 43) | 19 Nov 1964 | s. 1-7: 1 Jan 1965 (see s. 2 and Gazette 24 Dec 1964 p. 4093); balance: 2 Aug 1965 (see s. 2 and Gazette 16 Jul 1965 p. 2059)
@@ -33,10 +33,7 @@ Legal Profession Act 2008 s. 708 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 4: The Suitors’ Fund Act 1964 as at 25 Jun 2010 (includes amendments listed above)
 Suitors’ Fund Amendment Act 2019 | 8 of 2019 | 15 May 2019 | s. 1-3 and 6: 15 May 2019 (see s. 2(a)); s. 4 and 5: 1 Jan 2021 (see s. 2(b) and SL 2020/260 cl. 2)
 Suitors’ Fund Amendment (Levy) Act 2019 | 9 of 2019 | 15 May 2019 | s. 1 and 2: 15 May 2019 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2021 (see s. 2(b) and SL 2020/260 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 Proclaimed 1 Jan 1978, see s. 2 and Gazette 23 Dec 1977, p. 4671.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.

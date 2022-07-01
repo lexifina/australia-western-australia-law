@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Witness Protection (Western Australia) Act 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Witness Protection (Western Australia) Act 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Witness Protection (Western Australia) Act 1996 | 11 of 1996 | 28 Jun 1996 | s. 1 and 2: 28 Jun 1996; Act other than s. 1 and 2: 7 Dec 1996 (see s. 2 and Gazette 6 Dec 1996 p. 6699)
@@ -14,10 +14,7 @@ Short title | Number and year | Assent | Commencement
  | Reprint 2: The Witness Protection (Western Australia) Act 1996 as at 8 Aug 2008 (includes amendments listed above)
  | Criminal Investigation (Covert Powers) Act 2012 Pt. 11 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
  | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+ | Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
@@ -37,7 +34,6 @@ Corruption and Crime Commission3(1)
 court3(1), 33, 34A(1)
 court proceedings33
 designated position3(1)
-lawyer33
 new identity order19
 non-disclosure certificate33
 officer of the Corruption and Crime Commission3(1)

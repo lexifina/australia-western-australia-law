@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Registration of Deeds Act 1856 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Registration of Deeds Act 1856 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Untitled Act | 1856 (19 Vict. No. 14) | 14 Jun 1856 | 14 Jun 1856
@@ -17,15 +17,17 @@ Legal Profession Act 2008 s. 697 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 3: The Registration of Deeds Act 1856 as at 7 Nov 2014 (includes amendments listed above)
 Land Legislation Amendment Act 2015 Pt. 3 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Land Legislation Amendment (Taxing) Act 2015 Pt. 2 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 17 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 17 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 Now known as the Registration of Deeds Act 1856; short title inserted and amended (see note under s. 25).
 The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of section 22AA is postponed until the end of 31 December 2024.
+The Land Legislation (Postponement of Expiry) Proclamation 2024 cl. 3 (SL 2024/43) provides that the expiry of section 22AA is postponed until the end of 31 December 2029.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Authority2
 commencement22(2)
+© State of Western Australia 2022.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2022.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Injuries Compensation Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Criminal Injuries Compensation Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Injuries Compensation Act 2003 | 77 of 2003 | 15 Dec 2003 | s. 1 and 2: 15 Dec 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
@@ -20,10 +20,7 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 6 |
 Reprint 3: The Criminal Injuries Compensation Act 2003 as at 29 Nov 2013 (includes amendments listed above)
 Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 3 | 3 of 2018 | 19 Apr 2018 | 1 Jul 2018 (see s. 2(b) and Gazette 29 Jun 2018 p. 2434)
 National Redress Scheme for Institutional Child Sexual Abuse (Commonwealth Powers) Act 2018 Pt. 7 | 36 of 2018 | 5 Dec 2018 | 5 Dec 2018 (see s. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995.
@@ -42,7 +39,6 @@ alleged offence3
 applicant3
 application51(1)
 assessor3
-Australian lawyerSch. 1 cl. 1(2)
 award40(1)
 CEO3
 charged offence14(1)
@@ -57,7 +53,6 @@ health professional3
 injury3
 interested person3
 legal experienceSch. 1 cl. 1(2)
-legal practitioner3
 loss3, 6(2), 6(3)
 motor vehicle37(1)
 offence3

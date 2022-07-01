@@ -49,11 +49,11 @@ Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 
 Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 3 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
 Courts Legislation Amendment (Magistrates) Act 2022 Pt. 2 | 2 of 2022 | 28 Feb 2022 | 1 Mar 2022 (see s. 2(b))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 13 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
@@ -76,7 +76,6 @@ health department officer36AA(2)
 judge3(1)
 judgment39A(1)
 legal experience3(2)
-legal practitioner3(1)
 magistrate3(1)
 prescribed officer33(1)
 President3(1)
