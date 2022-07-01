@@ -6,7 +6,8 @@
 3.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b) if the order specifies that in relation to that worker the Government is a Division 1 Employer
 3a.The Government of Western Australia in relation to a worker who is a parliamentarian
 4.Agent General appointed under the Agent General Act 1895
-[5-7. deleted]
+5.Arts and Culture Trust established under the Arts and Culture Trust Act 2021
+[6, 7. deleted]
 8.Colleges established or continued under the Vocational Education and Training Act 1996
 9.Commissioner for Children and Young People established under the Commissioner for Children and Young People Act 2006
 10.Commissioner for Equal Opportunity appointed under the Equal Opportunity Act 1984
@@ -24,7 +25,7 @@
 19.Law Reform Commission of Western Australia established under the Law Reform Commission Act 1972
 20A.Minerals Research Institute of Western Australia established under the Minerals Research Institute of Western Australia Act 2013
 20.Parliamentary Commissioner for Administrative Investigations appointed under the Parliamentary Commissioner Act 1971
-21.Perth Theatre Trust established by the Perth Theatre Trust Act 1979
+[21. deleted]
 22.President of the Legislative Council, Speaker of the Legislative Assembly, President of the Legislative Council and Speaker of the Legislative Assembly acting jointly under the Parliamentary and Electorate Staff (Employment) Act 1992
 23A.Public Sector Commissioner appointed under the Public Sector Management Act 1994
 23B.Regional Development Commissions established by the Regional Development Commissions Act 1993
@@ -39,7 +40,7 @@
 29A.Western Australian Health Promotion Foundation mentioned in the Western Australian Health Promotion Foundation Act 2016 section 5.
 30.Western Australian Land Information Authority established by the Land Information Authority Act 2006
 31.Western Australian Planning Commission established by the Planning and Development Act 2005
-[Division 1 amended: Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; Act No. 75 of 2003 s. 56(1); Gazette 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; Act No. 10 of 2007 s. 43; Gazette 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; 10 Jun 2014 p. 1806; 26 Jun 2015 p. 2273; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; 8 Nov 2019 p. 4006; SL 2021/132 r. 10.]
+[Division 1 amended: Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; Act No. 75 of 2003 s. 56(1); Gazette 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; Act No. 10 of 2007 s. 43; Gazette 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; 10 Jun 2014 p. 1806; 26 Jun 2015 p. 2273; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; 8 Nov 2019 p. 4006; SL 2021/132 r. 10; SL 2022/4 r. 4.]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b) unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 [2A. deleted]

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Superannuation Regulations 2001 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the State Superannuation Regulations 2001 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 State Superannuation Regulations 2001 | 16 Feb 2001 p. 921-1074 | 17 Feb 2001 (see r. 2 and Gazette 16 Feb 2001 p. 903)
@@ -65,10 +65,7 @@ State Superannuation Amendment Regulations 2020 | SL 2020/135 14 Aug 2020 | r. 1
 State Superannuation Amendment Regulations 2021 | SL 2021/49 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2021 (see r. 2(b))
 State Superannuation Amendment Regulations (No 2) 2021 | SL 2021/132 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2021 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2021 | SL 2021/181 5 Nov 2021 | r. 1 and 2: 5 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-State Superannuation Amendment Regulations 2022 r. 3 and 4 | SL 2022/4 18 Jan 2022 | Operative on commencement of Arts and Culture Trust Act 2021 s. 73(1) (see r. 2(b))
+State Superannuation Amendment Regulations 2022 | SL 2022/4 18 Jan 2022 | r. 1 and 2: 18 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/77 cl. 2)
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
