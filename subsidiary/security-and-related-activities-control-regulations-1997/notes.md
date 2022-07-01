@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Security and Related Activities (Control) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Security and Related Activities (Control) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Security and Related Activities (Control) Regulations 1997 | 27 Mar 1997 p. 1651-90 | 1 Apr 1997 (see r. 2 and Gazette 27 Mar 1997 p. 1693)
@@ -52,9 +52,6 @@ Police Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 21 Jun 
 Police Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5 | SL 2020/82 19 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations 2020 | SL 2020/171 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/106 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/65 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
