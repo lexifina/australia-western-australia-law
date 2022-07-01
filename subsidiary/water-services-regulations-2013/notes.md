@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Services Regulations 2013 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Water Services Regulations 2013 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Water Services Regulations 2013 | 14 Nov 2013 p. 5103-204 | Regulations other than r. 30: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027); r. 30: 1 Jul 2014 (see r. 2(a) and Gazette 14 Nov 2013 p. 5028)
@@ -20,9 +20,6 @@ Water Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2
 Water Services Amendment Regulations 2020 | SL 2020/240 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Water Regulations Amendment (Community Titles) Regulations 2021 Pt. 2 | SL 2021/79 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Water Services Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/80 18 Jun 2021 | 1 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Water Services Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/82 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 The Water Boards Act 1904 was repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 201.
@@ -83,7 +80,7 @@ litter41(1)
 lodging fee83(1)
 lot28B
 lot in a strata scheme3(1)
-lot in a survey strata-scheme3(1)
+lot in a survey-strata scheme3(1)
 means of supplying water56
 meter24(1A), 25(1A)
 metropolitan area3(1)

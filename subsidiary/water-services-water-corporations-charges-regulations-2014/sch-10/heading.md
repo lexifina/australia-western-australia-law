@@ -44,7 +44,7 @@ Capel | 2 | 6
 Carnamah | 5 | 15
 Carnarvon | 5 | 15
 Caron | 5 | 15
-Cervantes | 5 | 14
+Cervantes | 5 | 15
 Collie | 2 | 6
 Collie Farmlands | 1 | 1
 Condingup | 5 | 15
@@ -57,7 +57,7 @@ Cowaramup | 5 | 15
 Cranbrook | 5 | 15
 Cuballing | 5 | 15
 Cue | 5 | 15
-Cunderdin | 5 | 14
+Cunderdin | 5 | 15
 Dalwallinu | 5 | 15
 Dalyellup | 3 | 4
 Dandaragan | 5 | 15
@@ -189,7 +189,7 @@ Pinjarra | 2 | 2
 Pithara | 5 | 15
 Point Samson | 4 | 10
 Popanyinning | 5 | 15
-Porongurup | 5 | 12
+Porongurup | 5 | 13
 Port Hedland | 2 | 5
 Preston Beach | 5 | 15
 Prevelly | 5 | 14
@@ -230,9 +230,9 @@ Wundowie | 2 | 1
 Wyalkatchem | 5 | 15
 Wyndham | 5 | 15
 Yalgoo | 5 | 15
-Yarloop/Wagerup | 5 | 14
+Yarloop/Wagerup | 5 | 15
 Yealering | 5 | 15
 Yerecoin | 5 | 15
 York | 5 | 15
 Yuna | 5 | 15
-[Schedule 10 inserted: SL 2021/80 r. 9.]
+[Schedule 10 inserted: SL 2021/80 r. 9; amended: SL 2022/82 r. 21.]

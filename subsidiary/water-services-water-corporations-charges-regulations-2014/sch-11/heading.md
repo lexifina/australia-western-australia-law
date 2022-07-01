@@ -44,7 +44,7 @@ Capel | 2 | 6
 Carnamah | 5 | 15
 Carnarvon | 5 | 15
 Caron | 5 | 15
-Cervantes | 5 | 13
+Cervantes | 5 | 14
 Collie | 2 | 6
 Collie Farmlands | 1 | 1
 Condingup | 5 | 15
@@ -57,7 +57,7 @@ Cowaramup | 5 | 15
 Cranbrook | 5 | 15
 Cuballing | 5 | 15
 Cue | 5 | 15
-Cunderdin | 5 | 13
+Cunderdin | 5 | 14
 Dalwallinu | 5 | 15
 Dalyellup | 3 | 4
 Dandaragan | 5 | 15
@@ -73,13 +73,13 @@ Doodlakine | 5 | 15
 Dowerin | 5 | 15
 Dudinin/Harrismith/Jitarning | 5 | 15
 Dumbleyung | 5 | 15
-Dunsborough/Yallingup | 4 | 11
+Dunsborough/Yallingup | 4 | 12
 Dwellingup | 5 | 15
 Eneabba | 5 | 15
 Eradu | 5 | 15
 Esperance | 3 | 10
 Exmouth | 4 | 12
-Fitzroy Crossing | 3 | 7
+Fitzroy Crossing | 3 | 8
 Frankland | 5 | 15
 Gabbadah | 5 | 15
 Gascoyne Junction | 5 | 15
@@ -94,7 +94,7 @@ Greenbushes | 5 | 15
 Greenhead | 5 | 15
 Guilderton | 4 | 13
 Halls Creek | 5 | 15
-Hamel/Waroona | 4 | 10
+Hamel/Waroona | 4 | 11
 Harvey/Wokalup | 3 | 10
 Highbury/Piesseville | 5 | 15
 Hines Hill | 5 | 15
@@ -165,10 +165,10 @@ Narrogin Farmlands | 3 | 9
 New Norcia | 5 | 15
 Newdegate | 5 | 15
 Newman | 2 | 6
-Nilgen | 5 | 14
+Nilgen | 5 | 15
 Norseman | 5 | 15
 North Dandalup | 4 | 12
-Northam | 5 | 13
+Northam | 5 | 14
 Northam Farmlands | 3 | 9
 Northampton | 5 | 15
 Northcliffe | 5 | 15
@@ -189,10 +189,10 @@ Pinjarra | 2 | 2
 Pithara | 5 | 15
 Point Samson | 4 | 10
 Popanyinning | 5 | 15
-Porongurup | 5 | 11
+Porongurup | 5 | 12
 Port Hedland | 2 | 5
 Preston Beach | 5 | 15
-Prevelly | 5 | 13
+Prevelly | 5 | 14
 Quairading | 5 | 15
 Quinninup | 5 | 15
 Ravensthorpe | 5 | 15
@@ -230,9 +230,9 @@ Wundowie | 2 | 1
 Wyalkatchem | 5 | 15
 Wyndham | 5 | 15
 Yalgoo | 5 | 15
-Yarloop/Wagerup | 5 | 13
+Yarloop/Wagerup | 5 | 14
 Yealering | 5 | 15
 Yerecoin | 5 | 15
 York | 5 | 15
 Yuna | 5 | 15
-[Schedule 11 inserted: SL 2021/80 r. 9.]
+[Schedule 11 inserted: SL 2021/80 r. 9; amended: SL 2022/82 r. 22.]
