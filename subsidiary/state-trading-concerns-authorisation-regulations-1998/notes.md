@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Trading Concerns (Authorisation) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the State Trading Concerns (Authorisation) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 State Trading Concerns (Authorization) Regulations 1998 | 17 Apr 1998 p. 2105 | 17 Apr 1998
@@ -60,10 +60,8 @@ State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2015 | 15 S
 State Trading Concerns (Authorisation) Amendment Regulations 2016 | 24 Jun 2016 p. 2345 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 State Trading Concerns (Authorisation) Amendment Regulations 2018 | 31 Aug 2018 p. 3048 | r. 1 and 2: 31 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2018 (see r. 2(b))
 Reprint 6: The State Trading Concerns (Authorisation) Regulations 1998 as at 18 Oct 2019 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-State Trading Concerns (Authorisation) Amendment Regulations 2022 r. 3 and 4 | SL 2022/3 18 Jan 2022 | Operative on commencement of Arts and Culture Trust Act 2021 s. 73(1) (see r. 2(b))
+State Trading Concerns (Authorisation) Amendment Regulations 2022 | SL 2022/3 18 Jan 2022 | r. 1 and 2: 18 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/77 cl. 2)
+Other notes
 Footnote no longer required.
 Under the Alteration of Statutory Designations Order 2017 cl. 6, a reference in any law to the Department for Planning and Infrastructure is to be read and construed as a reference to the relevant successor unless the context of the reference requires otherwise. In cl. 6 —
 relevant successor means —
