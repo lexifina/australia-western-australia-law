@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Rules 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the State Administrative Tribunal Rules 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 State Administrative Tribunal Rules 2004 | 30 Dec 2004 p. 6849-89 | 1 Jan 2005 (see r. 2)
@@ -19,10 +19,7 @@ State Administrative Tribunal Amendment Rules (No. 2) 2016 | 17 May 2016 p. 1490
 State Administrative Tribunal Amendment Rules 2018 | 24 Apr 2018 p. 1351-2 | r. 1 and 2: 24 Apr 2017 (see r. 2(a)); Rules other than r. 1 and 2: 25 Apr 2018 (see r. 2(b))
 State Administrative Tribunal Amendment Rules (No. 2) 2019 | 31 Dec 2019 p. 4661 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 State Administrative Tribunal Amendment Rules 2021 | SL 2021/123 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Rules other than r. 1 and 2: 17 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-State Administrative Tribunal Amendment Rules (No. 2) 2022 r. 3 and 4 | SL 2022/73 10 Jun 2022 | Operative on commencement of Legal Profession Uniform Law Application Act 2022 s. 6 (see r. 2(b))
+State Administrative Tribunal Amendment Rules (No. 2) 2022 | SL 2022/73 10 Jun 2022 | r. 1 and 2: 10 Jun 2022 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2022 (see r. 2(b)) and SL 2022/113 cl. 2)
 Other notes
 Schedule deleted by the State Administrative Tribunal Amendment Regulations (No. 2) 2007 r. 8 (see Gazette 26 June 2007 p. 2979-96).
 Repealed by the Medical Practitioners Act 2008, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
