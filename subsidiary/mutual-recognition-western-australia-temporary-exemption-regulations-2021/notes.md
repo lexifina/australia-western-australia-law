@@ -1,9 +1,7 @@
 Notes
-This is a compilation of the Mutual Recognition (Western Australia) (Temporary Exemption) Regulations 2021. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mutual Recognition (Western Australia) (Temporary Exemption) Regulations 2021. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
-Mutual Recognition (Western Australia) (Temporary Exemption) Regulations 2021 r. 1 and 2 | SL 2021/211 17 Dec 2021 | 17 Dec 2021 (see r. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Mutual Recognition (Western Australia) (Temporary Exemption) Regulations 2021 r. 3 and 4 | SL 2021/211 17 Dec 2021 | 1 July 2022 (see r. 2(b))
+Mutual Recognition (Western Australia) (Temporary Exemption) Regulations 2021 | SL 2021/211 17 Dec 2021 | r. 1 and 2: 17 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
+Other notes
+These regulations are repealed on 1 Jul 2023 (see r. 4).
