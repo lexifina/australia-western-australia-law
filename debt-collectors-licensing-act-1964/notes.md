@@ -22,12 +22,12 @@ Reprint 4: The Debt Collectors Licensing Act 1964 as at 23 Sep 2011 (includes am
 Licensing Provisions Amendment Act 2016 Pt. 3 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 27 Jun 2017 p. 3407)
 Consumer Protection Legislation Amendment Act 2019 Pt. 4 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 96 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 3 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
-Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 3 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.

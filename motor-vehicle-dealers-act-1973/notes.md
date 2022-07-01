@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Dealers Act 1973 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Motor Vehicle Dealers Act 1973 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Motor Vehicle Dealers Act 1973 | 101 of 1973 | 28 Dec 1973 | s. 1-3 and 5-13: 15 Feb 1974 (see s. 2 and Gazette 15 Feb 1974 p. 375); s. 14-24, 30, 50 and 56: 5 Apr 1974 (see s. 2 and Gazette 5 Apr 1974 p. 1180); s. 4, 25-29, 31-39, 41-49 and 51-55: 12 Aug 1974 (see s. 2 and Gazette 9 Aug 1974 p. 2935)
@@ -42,11 +42,7 @@ Short title | Number and year | Assent | Commencement
  | Consumer Protection Legislation Amendment Act 2014 Pt. 7 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
  | Licensing Provisions Amendment Act 2016 Pt. 6 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 27 Jun 2017 p. 3407)
  | COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 100 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
-Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 9 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+ | Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 9 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Other notes
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
@@ -112,6 +108,7 @@ The persons who were members of the Motor Vehicle Dealers Licensing Board immedi
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
 The amendments in the Acts Amendment (Fair Trading) Act 2010 s. 177 will not come into operation (see s. 2(b)(i)).
+The Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 were repealed by the Statutes (Repeals and Minor Amendments) Act 2025 s. 29.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -180,9 +177,13 @@ trade owner5(1)
 trade-in32D(2)
 transitional matter65(2)
 trust account32A
-vehicle5(2), 5(3), 34C(1)
+vehicle5(2) and (3), 34C(1)
 yard manager5(1), 27(1a)
 yard manager’s licence5(1)
 year32A
 year of first registration5(1)
 year of manufacture5(1)
+© State of Western Australia 2022.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2022.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -1,3 +1,7 @@
 Western Australia
 Mutual Recognition (Western Australia) Act 2020
-An Act to continue the adoption of the Mutual Recognition Act 1992 of the Parliament of the Commonwealth (and any amendments made to it before the enactment of this Act) which provides for the recognition within each State and Territory of the Commonwealth of regulatory standards adopted elsewhere in Australia regarding goods and occupations, and for related purposes.
+An Act —
+·to adopt the Mutual Recognition Act 1992 (Commonwealth) as originally enacted and any amendments made to it before this Act receives the Royal Assent, for the purposes of section 51(xxxvii) of the Constitution of the Commonwealth; and
+·to adopt the amendments made to the Mutual Recognition Act 1992 (Commonwealth) by the Mutual Recognition Amendment Act 2021 (Commonwealth), for the purposes of section 51(xxxvii) of the Constitution of the Commonwealth; and
+·for related purposes.
+[Long title inserted: No. 7 of 2022 s. 4.]
