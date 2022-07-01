@@ -42,6 +42,7 @@ Finance Regulations Amendment (Interest Rates) Regulations 2020 Pt. 3 | SL 2020/
 Finance Regulations Amendment Regulations 2020 Pt. 5 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
 Taxation Administration Amendment Regulations 2021 | SL 2021/116 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
 Taxation Administration Amendment Regulations (No. 2) 2021 | SL 2021/183 5 Nov 2021 | 5 Nov 2021 (see r. 2 and SL 2021/187 r. 2(a))
+Taxation Administration Amendment Regulations 2022 | SL 2022/120 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 2.
 If a modification is to:
