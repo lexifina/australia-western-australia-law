@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 | 31 Mar 2006 p. 1279-97 | 1 Apr 2006 (see bl. 2)
@@ -25,10 +25,7 @@ Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2018 |
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2019 | 21 Jun 2019 p. 2127-36 | bl. 1 and 2: 21 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2019 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2020 | SL 2020/78 9 Jun 2020 | bl. 1 and 2: 9 Jun 2020 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2020 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2021 | SL 2021/110 29 Jun 2021 | bl. 1 and 2: 29 Jun 2021 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2021 (see bl. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2022 bl. 3-8 | SL 2022/71 3 Jun 2022 | 1 Jul 2022 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2022 | SL 2022/71 3 Jun 2022 | bl. 1 and 2: 3 Jun 2022 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2022 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -36,11 +33,12 @@ corporation3
 dwelling3
 Esperance networkSch. 1 cl. 7(1)
 exceeds the applicable peak allowanceSch. 1 cl. 7(2)
+government consumer4(1A)
 interest period12(1)
 MyPower non-residential tariffSch. 1 cl. 9(1)
 MyPower residential tariffSch. 1 cl. 8(1)
 MyPower tariffSch. 1 cl. 7(1)
-North West interconnected system4(1A), 4(2A)
+North West interconnected system4(1A)
 original tariffSch. 1 cl. 8(5) and 9(5)
 peak daySch. 1 cl. 7(1)
 peak periodSch. 1 cl. 7(1)
@@ -53,5 +51,4 @@ relevant period8(1)
 residential tariff3
 South West interconnected system4(1A)
 Tariff3
-transfer daySch. 1 cl. 8(5) and 9(5)
 unit3

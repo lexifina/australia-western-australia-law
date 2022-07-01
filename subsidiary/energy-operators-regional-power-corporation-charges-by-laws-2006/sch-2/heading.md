@@ -1,32 +1,31 @@
 ## Schedule 2 — Unmetered supply
 [bl. 4(2) and (3)]
-[Heading inserted: SL 2021/110 bl. 4.]
+[Heading inserted: SL 2022/71 bl. 6.]
 ## Division 1 — Street lighting
-[Heading inserted: SL 2021/110 bl. 4.]
+[Heading inserted: SL 2022/71 bl. 6.]
 Item | Wattage | Type | Midnight Switch-off (Obsolescent) Cents per day | 1.15 am Switch-off Cents per day | Dawn Switch-off Cents per day
 Street lighting on current offer and for existing services
-Z.01 | 50 | Mercury vapour | 52.3309 | 53.3574 | 57.1840
-Z.02 | 80 | Mercury vapour | 57.4380 | 58.6768 | 63.7010
-Z.03 | 125 | Mercury vapour | 65.0872 | 67.1003 | 74.5895
-Z.07 | 250 | Mercury vapour | 77.1635 | 80.8587 | 94.7710
-Z.10 | 400 | Mercury vapour | 88.6104 | 92.4422 | 121.0433
-Z.13 | 150 | High pressure sodium | 64.9462 | 67.1108 | 76.7520
-Z.15 | 250 | High pressure sodium | 79.4121 | 83.4075 | 98.6586
-Z.18 | per kW | Auxiliary lighting in public places | Not applicable | Not applicable | 287.6071
-Z.59 | 66 | LED | 53.4347 | 54.4842 | 57.7749
-Z.60 | 132 | LED | 65.1331 | 67.7871 | 79.2499
-Z.61 | 198 | LED | 67.2581 | 70.7088 | 85.6240
-Z.62 | 25 | LED | 50.9732 | 51.4304 | 52.4750
-Z.63 | 120 | LED | 60.7436 | 62.3703 | 69.6843
-Z.64 | 180 | LED | 67.1248 | 70.5419 | 85.3138
-Z.65 | 18 | LED | 50.0429 | 50.2888 | 50.5532
-Z.66 | 20 | LED | 50.1958 | 50.4765 | 50.8691
-Z.67 | 53 | LED | 52.9493 | 53.8845 | 56.7402
-Z.68 | 80 | LED | 54.0119 | 55.1973 | 59.0054
-Z.69 | 160 | LED | 62.4601 | 64.4886 | 73.4250
+Z.01 | 50 | Mercury vapour | 55.4184 | 56.5055 | 60.5579
+Z.02 | 80 | Mercury vapour | 60.8268 | 62.1387 | 67.4594
+Z.03 | 125 | Mercury vapour | 68.9273 | 71.0592 | 78.9903
+Z.07 | 250 | Mercury vapour | 81.7161 | 85.6294 | 100.3625
+Z.10 | 400 | Mercury vapour | 93.8384 | 97.8963 | 128.1849
+Z.13 | 150 | High pressure sodium | 68.7780 | 71.0703 | 81.2804
+Z.15 | 250 | High pressure sodium | 84.0974 | 88.3285 | 104.4795
+Z.18 | per kW | Auxiliary lighting in public places | Not applicable | Not applicable | 304.5760
+Z.59 | 66 | LED | 56.5873 | 57.6988 | 61.1836
+Z.60 | 132 | LED | 68.9760 | 71.7865 | 83.9256
+Z.61 | 198 | LED | 71.2263 | 74.8806 | 90.6758
+Z.62 | 25 | LED | 53.9806 | 54.4648 | 55.5710
+Z.63 | 120 | LED | 64.3275 | 66.0501 | 73.7957
+Z.64 | 180 | LED | 71.0852 | 74.7039 | 90.3473
+Z.65 | 18 | LED | 52.9954 | 53.2558 | 53.5358
+Z.66 | 20 | LED | 53.1574 | 53.4546 | 53.8704
+Z.67 | 53 | LED | 56.0733 | 57.0637 | 60.0879
+Z.68 | 80 | LED | 57.1986 | 58.4539 | 62.4867
+Z.69 | 160 | LED | 66.1452 | 68.2934 | 77.7571
 Street lighting for existing services only
-Z.52 | 100 | Incandescent | 38.8491 | 40.3054 | 44.3728
-Z.56 | 40 | Fluorescent | 50.8809 | 51.5795 | 54.1664
-[Division 1 inserted: SL 2021/110 bl. 4.]
+Z.52 | 100 | Incandescent | 41.1412 | 42.6834 | 46.9908
+Z.56 | 40 | Fluorescent | 53.8829 | 54.6227 | 57.3622
 ## Division 2 — Miscellaneous
-[Heading inserted: SL 2021/110 bl. 4.]
+[Heading inserted: SL 2022/71 bl. 6.]
