@@ -19,12 +19,9 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 4 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 Petroleum Amendment Act 2007 s. 95 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 4: The Gas Standards Act 1972 as at 4 Jul 2008 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 7 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Other notes
-The provision in this Act repealing that Act has been omitted from this reprint under the Reprints Act 1984 s. 7(4)(f).
+The provision in this Act repealing that Act has been omitted from this consolidation under the Reprints Act 1984 s. 7(4)(f).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent that it amends this Act, was amended by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(a).
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 21 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -35,16 +32,19 @@ approved plan13K(1)
 commercial information4
 consumer4
 Director4
+former holder13AA(1)
 gas4
 gas appliance4
-gas installation4
 gasfitters13J(1)
 gasfitting work13I(1)
+gas installation4
 holder13A(12)
 inspector4
+interstate authority13AA(1)
 person aggrieved13B(2)
 pipeline licensee4
 Plan13J(1)
+registration13AA(1)
 reviewable decision13B(2)
 specified13A(3)
 supply4

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Repairers Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Motor Vehicle Repairers Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003; Pt. 1 (other than s. 1, 2, 3(4) and 4), Pt. 3, Pt. 4, s. 65 and 69, Pt. 7, s. 89 and 90, Pt. 10 (other than s. 108 and 109), Pt. 11 and Sch. 3 cl. 2 and 3: 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451); s. 4, Pt. 2 and 5, Pt. 6 (other than s. 65 and 69), Pt. 8 (other than s. 85(3)(b)), Pt 9 (other than s. 89 and 90), s. 108 and 109, Sch. 1 and 2 and Sch. 3 cl. 1: 1 Jul 2008 (see s. 2 and Gazette 24 Jun 2008 p. 2885)
@@ -12,9 +12,6 @@ Reprint 1: The Motor Vehicle Repairers Act 2003 as at 8 Feb 2008 (includes amend
 Reprint 2: The Motor Vehicle Repairers Act 2003 as at 3 Oct 2008 (includes amendments listed above except the Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b))
 Acts Amendment (Fair Trading) Act 2010 Pt. 5 | 58 of 2010 | 8 Dec 2010 | s. 54: 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); Pt. 5 (other than s. 54): 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Consumer Protection Legislation Amendment Act 2014 Pt. 8 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 10 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Other notes
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
@@ -34,7 +31,7 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-Sections 3(4) & 85(3)(b) of this Act had not come into operation when they were deleted by the Acts Amendment (Fair Trading) Act 2010 s. 53(4) and 72(b).
+Sections 3(4) and 85(3)(b) of this Act had not come into operation when they were deleted by the Acts Amendment (Fair Trading) Act 2010 s. 53(4) and 72(b).
 The amendment in the Acts Amendment (Fair Trading) Act 2010 s. 178 will not come into operation (see s. 2(b)(i)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

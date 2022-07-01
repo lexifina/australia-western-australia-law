@@ -1,13 +1,10 @@
 Notes
-This is a compilation of the Teacher Registration Act 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Teacher Registration Act 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Teacher Registration Act 2012 | 16 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (see s. 2(a)); Act other than s. 1, 2, 132 and 166: 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637); s. 132: 3 Aug 2016 (see s. 2(b) and Gazette 2 Aug 2016 p. 3293)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 13 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 The Teacher Registration Act 2012 s. 166 will not come into operation because the Act it purported to amend was repealed by the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) as at 1 Jul 2012.
 Defined terms
@@ -48,7 +45,6 @@ information94(1)
 inquiry3
 insolvent96(3)
 interim disciplinary order3
-lawyer3
 liability135
 medical practitioner3
 nominee3, 17
@@ -57,13 +53,14 @@ principal3
 professional standards3
 publish116
 register3
+registered teacher3
 register information (professional)37(1)
 register information (public)37(1)
-registered teacher3
 registration 3
 reviewable decision124(2)
 right135
 school135
+serious offence3
 sexual offence46
 sexual offence involving a child3, 46
 specified149(5)

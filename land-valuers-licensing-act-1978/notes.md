@@ -25,11 +25,8 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 5 | 23 of 2014 | 9 Oct 20
 Licensing Provisions Amendment Act 2016 Pt. 4 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 30 Jun 2017 p. 3551)
 Consumer Protection Legislation Amendment Act 2019 Pt. 7 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 99 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 8 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
-Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(c))
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113)
 Other notes
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.
@@ -47,8 +44,6 @@ department4
 former Board37
 former Registrar37
 land4
-lawyer4
-legal practitioner4
 liability37
 licence4
 licensed valuer4

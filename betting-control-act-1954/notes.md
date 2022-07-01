@@ -60,11 +60,11 @@ Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 1 and Div. 2 Subdiv. 1 | 37
 Gaming and Wagering Legislation Amendment Act 2018 Pt. 2 | 41 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193-4)
 TAB (Disposal) Act 2019 s. 38, 39, 40(1), (4), (7), (9), (14) and (17), 42, 46-48, 52, 77(1) and 80 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(1)(c))
 Betting Control Amendment (Taxing) Act 2019 | 22 of 2019 | 18 Sep 2019 | s. 1 and 2: 18 Sep 2019 (see s. 2(a)); Act other than s. 1 and 2: 19 Sep 2019 (see s. 2(b))
+Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 2 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 40(2), (3), (5), (6), (8), (10)-(13), (15) and (16), 41, 43-45, 49-51, 53-76, 77(2), 78 and 79 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
-Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 2 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Other notes
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992 s. 72.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) and s. 7(2) are transitional provisions that are of no further effect.

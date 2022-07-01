@@ -1,12 +1,10 @@
 Notes
-This is a compilation of the Veterinary Practice Act 2021. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Veterinary Practice Act 2021. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Veterinary Practice Act 2021 | 19 of 2021 | 27 Oct 2021 | Pt. 1: 27 Oct 2021 (see s. 2(a)); Act other than Pt. 1: 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 14 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -29,7 +27,6 @@ complainant3, 81(4)
 complaint3
 condition3
 corresponding law3
-corresponding specialty21
 criminal record check115(1)
 director3
 disciplinary action3
@@ -51,7 +48,6 @@ interstate regulatory authority3
 interstate veterinarian3
 investigation3
 investigative purposes3, 112
-legal practitioner3
 liabilities202
 medical practitioner3
 member182
@@ -100,5 +96,4 @@ veterinary premises3
 veterinary qualifications65(1)
 veterinary specialist3
 veterinary supervisor3
-WA specialty21
 WA veterinarian3
