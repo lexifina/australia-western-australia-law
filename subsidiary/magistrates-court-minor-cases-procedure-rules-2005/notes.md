@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (Minor Cases Procedure) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Magistrates Court (Minor Cases Procedure) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Magistrates Court (Minor Cases Procedure) Rules 2005 | 28 Apr 2005 p. 1711-48 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -21,10 +21,7 @@ Magistrates Court Rules Amendment (Inactive Cases) Rules 2019 Pt. 3 | 5 Apr 2019
 Magistrates Court Rules Amendment Rules 2020 Pt. 3 | SL 2020/67 28 May 2020 | 1 Jun 2020 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2021 Pt. 4 | SL 2021/25 26 Feb 2021 | 27 Feb 2021 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2022 Pt. 4 | SL 2022/54 13 May 2022 | 14 May 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Magistrates Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/106 24 Jun 2022 | Operative on commencement of Legal Profession Uniform Law Application Act 2022 s. 6 (see r. 2(b))
+Magistrates Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/106 24 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
