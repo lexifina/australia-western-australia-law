@@ -5,11 +5,11 @@
  |  | V
  | (b)Full name and address of respondent | Respondent (b)
  |  | To the Warden ....................................................................................Mineral Field and to the Respondent Notice is given of an appeal against the final judgment/ determination/decision of the Warden’s Court at on theday of, 20 in respect to — on the grounds that —
- |  | Signed.......................................................................................... Signature of Appellant or Appellant’s lawyer
+ |  | Signed.......................................................................................... Signature of Appellant or Appellant’s legal practitioner
  | (c)Address for service | (c)................................................................................................ ...............................................................................................
  |  | Tel .......................................... | Fax ..............................................
  | Email ..................................... | Ref (if any) .................................
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20
 .................................................................... Mining Registrar
-[Form 42 amended: Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5454-5.]
+[Form 42 amended: Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5454-5; SL 2022/118 r. 7.]

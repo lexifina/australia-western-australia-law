@@ -8,8 +8,8 @@ Tenement No. .............. | INTERLOCUTORY APPLICATION In the Warden’s Court 
  | (b)
 (c)Name of party making the application | (c) I / WE ..............................................................................................................................................................................................................................................................................................................................
 (d)State order sought | (d) (see Note 1)
-(e)Signature of applicant/lawyer/ authorised representative (see Notes 3 and 4) | (e)
-(f)Applicant/lawyer address for service | (f)
+(e)Signature of applicant/legal practitioner/ authorised representative (see Notes 3 and 4) | (e)
+(f)Applicant/legal practitioner address for service | (f)
  | Tel .............................................. | Fax ..........................................
 Email .......................................... | Ref (if any) .............................
 (g)Address of party/parties to whom this application is addressed (see Note 2) | (g) ................................................................................................. .................................................................................................
@@ -22,4 +22,4 @@ NOTES:1.This application is to be supported by affidavit outlining the reasons t
 2.This application must be served on the other party/parties and an affidavit as proof of service must be lodged.
 3.If this form is signed by a person who is an employee of the applicant, the person must state the person’s full name and the position in which the person is employed.
 4.If this form is signed by an agent of the applicant, the agent must state the agent’s full name.
-[Form 36A inserted: Gazette 9 Mar 2007 p. 911-12; amended: Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5452-4; SL 2020/119 r. 15.]
+[Form 36A inserted: Gazette 9 Mar 2007 p. 911-12; amended: Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5452-4; SL 2020/119 r. 15; SL 2022/118 r. 7.]

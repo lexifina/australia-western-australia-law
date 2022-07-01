@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -156,10 +156,8 @@ Mining Amendment Regulations (No. 2) 2020 | SL 2020/119 17 Jul 2020 | r. 1 and 2
 Mining Amendment Regulations (No. 2) 2021 | SL 2021/43 23 Apr 2021 | r. 1 and 2: 23 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Apr 2021 (see r. 2(b) and SL 2021/44 r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 8 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Royalty Information) Regulations 2022 Pt. 2 | SL 2022/1 14 Jan 2022 | 15 Jan 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 7 | SL 2022/58 20 May 2022 | 1 Jul 2022 (see r. 2(b))
+Mining Amendment Regulations 2022 | SL 2022/118 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -241,10 +239,9 @@ input tax credit85AA(5)
 inspector120F(5)
 invoice86AA(11)
 issuing officer4A
-JLSch. 4 cl. 1
+JLPSch. 4 cl. 1
 JORC Code89C(1)
-junior lawyerSch. 4 cl. 1
-lawyer2
+junior legal practitionerSch. 4 cl. 1
 lease application63A(1)
 licensed surveyor116
 licensee statement4A
@@ -306,10 +303,10 @@ SCSch. 4 cl. 1
 section2
 senior counselSch. 4 cl. 1
 senior inspector120F(5)
-senior lawyerSch. 4 cl. 1
+senior legal practitionerSch. 4 cl. 1
 shipment date85(1)
 shipping costs85(1), 86AD(1)
-SLSch. 4 cl. 1
+SLPSch. 4 cl. 1
 sold85(1)
 summons125(1a)
 supply85AA(5)
