@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Employment Agents Regulations 1976 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Employment Agents Regulations 1976 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Employment Agents Regulations 1976 | 10 Sep 1976 p. 3386-93 | 1 Nov 1976 (see Gazette 24 Sep 1976 p. 3493)
@@ -48,9 +48,6 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 18 J
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 12 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 9 | SL 2020/196 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 11 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 9 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 Under the Consumer Affairs Act 1971 s. 4(3), references, however expressed, in any other Act or in any regulation, notice, proclamation, or statutory instrument of any kind made, published or in force under that or any other Act to the Commissioner for Consumer Protection are, unless the context requires otherwise, read and construed as references to the Commissioner for Fair Trading as defined by the Consumer Affairs Act 1971.

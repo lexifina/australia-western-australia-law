@@ -31,10 +31,10 @@ Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Building Services (Registration) Amendment Regulations (No. 2) 2021 | SL 2021/170 8 Oct 2021 | r. 1 and 2: 8 Oct 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2021 (see r. 2(b))
 Building Services (Registration) Amendment Regulations (No. 3) 2021 | SL 2021/213 17 Dec 2021 | r. 1 and 2: 17 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2021 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Building Services (Registration) Amendment Regulations 2022 r. 3-6 | SL 2022/101 17 Jun 2022 | 1 Feb 2023 (see r. 2(b))
 Other notes
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
