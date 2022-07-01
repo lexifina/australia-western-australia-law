@@ -1,5 +1,6 @@
 ## Schedule 1 — Quantities of dangerous goods
-[r. 68, 69(1) and 78(1)]
+[r. 4, 68(1) and (2), 70(2) and (3)]
+[Heading amended: SL 2022/58 r. 12.]
 1.For the purposes of the Table below, the placarding quantity or manifest quantity is equal to the total of the quantities determined in accordance with regulation 12.
 2.In the Table below —
 kg or L means, where this combination of letters immediately follows numbers, the combined total of —

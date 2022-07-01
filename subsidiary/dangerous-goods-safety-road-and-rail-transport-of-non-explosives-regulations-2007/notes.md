@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6893-7056 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -30,9 +30,6 @@ Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 4 | SL 2020/19
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 3 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/24 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/58 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Other notes
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
