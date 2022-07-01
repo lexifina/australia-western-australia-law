@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Dangerous Goods Safety (Explosives) Regulations 2007 | 31 Dec 2007 p. 6541-717 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -31,10 +31,8 @@ Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations 2020 P
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Repeal Regulations 2020 | SL 2020/104 29 Jun 2020 | 29 Jun 2020 (see r. 2)
 Mines and Petroleum Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 2 | SL 2020/197 27 Oct 2020 | 28 Oct 2020 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/58 20 May 2022 | 1 Jul 2022 (see r. 2(b))
+Dangerous Goods Safety (Explosives) Amendment Regulations 2022 | SL 2022/122 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -98,7 +96,6 @@ explosive3, 44(1), 161(2A)
 explosives facility33
 explosives facility licence33
 explosives factory33
-explosives management plan194(1)
 explosives site33
 export56
 fee3
@@ -129,7 +126,7 @@ Kalgoorlie facility185
 level 1 fine3
 level 2 fine3
 level 3 fine3
-licence3, 156(1), 194(1), Sch. 10 cl. 1
+licence3, 156(1), Sch. 10 cl. 1
 magazine185
 manufacture3
 medical practitioner3
@@ -162,7 +159,7 @@ provisional licence160(1)
 qualified officer165(1)
 rail95(1)
 rail wagon95(1)
-relevant licence143(1), 182A
+relevant licence143(1), 182A, 194(1)
 relevant offence156(1)
 relevant person19(1)
 renewal application156(1)
