@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Industry (Network Quality and Reliability of Supply) Code 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Electricity Industry (Network Quality and Reliability of Supply) Code 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Electricity Industry (Network Quality and Reliability of Supply) Code 2005 | 13 Dec 2005 p. 6051-69 | 1 Jan 2006 (see s. 2)
@@ -11,9 +11,6 @@ Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 
 Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2018 | 25 Sep 2018 p. 3568-9 | 1 Oct 2018 (see s. 2)
 Electricity Industry (Network Quality and Reliability of Supply) Code Amendments 2021 | 5 Nov 2021 p. 4968-70 | 6 Nov 2021 (see s. 2)
 Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2021 | 12 Nov 2021 p. 5091 | 13 Nov 2021 (see s. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Electricity Industry (Network Quality and Reliability of Supply) Amendment Code 2022 | 1 Apr 2022 p. 2457 | 1 Jul 2022 (see cl. 2)
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
