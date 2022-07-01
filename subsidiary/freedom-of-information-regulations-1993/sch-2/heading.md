@@ -176,6 +176,8 @@ Department of Corrective Services | Prison Officers Appeal Tribunal
 Department of Culture and the Arts | Art Gallery Board of Western Australia
 Art Gallery Foundation
 Art Gallery of Western Australia
+Arts and Culture Trust
+Arts and Culture Trust Board
 ArtsWA Peer Assessment Panel – Designer Fashion
 ArtsWA Peer Assessment Panels – Arts Development
 ArtsWA Peer Assessment Panels – Contemporary Music
@@ -183,8 +185,6 @@ ArtsWA Peer Assessment Panels – Indigenous Arts
 ArtsWA Peer Assessment Panels – Young People and the Arts
 Community Cultural and Arts Facilities Fund Assessment Panel
 Library Board of Western Australia
-Perth Theatre Trust
-Perth Theatre Trust Board
 Screen West
 Screen West Board
 State Library of Western Australia
@@ -345,4 +345,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4; SL 2021/127 r. 4; SL 2022/27 r. 6; SL 2022/97 r. 4.]
+[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4; SL 2021/127 r. 4; SL 2022/5 r. 4; SL 2022/27 r. 6; SL 2022/97 r. 4.]
