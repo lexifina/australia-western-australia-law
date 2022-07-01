@@ -1,12 +1,8 @@
 Notes
-This is a compilation of the Gas Marketing Code of Conduct 2022. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Gas Marketing Code of Conduct 2022. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
-Gas Marketing Code of Conduct 2022 Pt. 1 | SL 2022/109 28 Jun 2022 | 28 Jun 2022 (see cl. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Gas Marketing Code of Conduct 2022 (other than Pt. 1) | SL 2022/109 28 Jun 2022 | 1 Jul 2022 (see cl. 2(b))
+Gas Marketing Code of Conduct 2022 | SL 2022/109 | Pt. 1: 28 Jun 2022 (see cl. 2(a)); Code other than Pt. 1: 1 Jul 2022 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
