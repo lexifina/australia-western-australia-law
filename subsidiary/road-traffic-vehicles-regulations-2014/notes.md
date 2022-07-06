@@ -39,6 +39,7 @@ Road Traffic (Vehicles) Amendment Regulations 2022 | SL 2022/16 25 Feb 2022 | r.
 Transport Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/23 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2022 | SL 2022/57 20 May 2022 | r. 1 and 2: 20 May 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 5 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 5) 2022 | SL 2022/130 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -77,6 +78,7 @@ Defined termProvision(s)
 access approval202
 accredited212
 adopted standard226
+ADR3, 226
 affected person470(1), 479(1)
 agricultural combination3
 agricultural implement3
@@ -98,12 +100,13 @@ approved material259(1)
 approved motoring organisation84A(1)
 articulated bus3
 articulated vehicle418(1)
+AS3
 assessor146
 Australian Border Force3
 Australian Border Force vehicle3
-Australian Design Rule (ADR)3
-Australian Design Rules (ADR)226
-Australian Standard (AS)3
+Australian Design Rule3
+Australian Design Rules226
+Australian Standard3
 authorised on-demand rank or hail vehicle109
 authorised passenger transport vehicle109
 B-double3
@@ -179,8 +182,9 @@ glazing260(1)
 goods vehicle3
 goods vehicle derivative38(1)
 governor cut-out pressure334(1A)
-gross trailer mass (GTM)3
+gross trailer mass3
 ground clearance178(1)
+GTM3
 heavy trailer12
 heavy vehicle12
 heavy vehicle 436
@@ -211,7 +215,7 @@ load-sharing suspension system3
 low-beam3
 luminous transmittance260(1)
 Main Roads WA website209(1)
-mass rating for charging (MRC)3
+mass rating for charging3
 MDL reviewable decision478
 medical impairment454W(1)
 medical practitioner454A
@@ -226,6 +230,7 @@ motorised scooter3
 motorised wheelchair3
 motor tricycle3
 motor vehicle3, 167(1), 168(1), 244(1)
+MRC3
 mudguard3
 name plate109
 nearer side of the vehicle3
@@ -328,11 +333,13 @@ vacuum reserve334(1A)
 vacuum storage tank3
 vehicle165(1), 167(1), 179(2), 180(1), 181(1), 236(1), 238(1)
 vehicle examiner12, 20(1)
-vehicle identification number (VIN)3
+vehicle identification number3
 vehicle licensing reviewable decision478
 vehicle standard regulation460
+VIN3
+WOVR3
 wrecker146
 written-off146
 written-off vehicle notice157(1)
-Written-Off Vehicle Register (WOVR)3
+Written-Off Vehicle Register3
 yellow3
