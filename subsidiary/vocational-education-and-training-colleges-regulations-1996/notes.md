@@ -51,6 +51,7 @@ Vocational Education and Training (Colleges) Amendment Regulations (No. 3) 2020 
 Vocational Education and Training (Colleges) Amendment Regulations (No. 4) 2020 | SL 2020/200 23 Oct 2020 | r. 1 and 2: 23 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2020 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2021 | SL 2021/143 13 Aug 2021 | r. 1 and 2: 13 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2021 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2021 | SL 2021/168 24 Sep 2021 | r. 1 and 2: 24 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2021 (see r. 2(b))
+Vocational Education and Training (Colleges) Amendment Regulations 2022 | SL 2022/132 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
@@ -58,7 +59,7 @@ Now known as the Vocational Education and Training (Colleges) Regulations 1996; 
 The Vocational Education and Training Amendment Regulations 1997 r. 4 and 5 were disallowed on 21 May 1998 (see Gazette 9 Jun 1998 p. 3098).
 The Vocational Education and Training Amendment Regulations 2005 r. 6(3) reads as follows:
 6.Regulation 15A amended and savings
-(3) A determination issued under regulation 15A that is in force immediately before these regulations commence and specifies a tuition fee for a course for a student, continues in force after these regulations commence and the fee so specified is to be taken to be the course fee specified for that course for that student.
+(3)A determination issued under regulation 15A that is in force immediately before these regulations commence and specifies a tuition fee for a course for a student, continues in force after these regulations commence and the fee so specified is to be taken to be the course fee specified for that course for that student.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
