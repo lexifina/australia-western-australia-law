@@ -18,6 +18,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 7 | 30 Jun 
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 7 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2020 | SL 2020/223 20 Nov 2020 | r. 1 and 2: 20 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2020 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 8 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Other notes
 Formerly referred to the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261.
 Now known as the Private Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 1997; citation changed (see note under r. 1).

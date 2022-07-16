@@ -29,6 +29,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 10 | 30 Jun
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 10 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 7 | SL 2020/97 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 7 | SL 2021/108 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 10 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

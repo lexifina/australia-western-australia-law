@@ -66,6 +66,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 6 | SL 2020
 Health Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/108 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2022 | SL 2022/33 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Health Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 3 | SL 2022/93 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 9 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.

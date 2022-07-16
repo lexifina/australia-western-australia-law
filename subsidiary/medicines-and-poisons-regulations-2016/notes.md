@@ -9,6 +9,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 14 Jun 
 Medicines and Poisons Amendment Regulations (No. 2) 2019 | 19 Nov 2019 p. 4051-2 | r. 1 and 2: 19 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2019 (see r. 2(b))
 Medicines and Poisons Amendment Regulations 2020 | SL 2020/214 6 Nov 2020 | r. 1 and 2: 6 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2020 (see r. 2(b))
 Health Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/93 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 6 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

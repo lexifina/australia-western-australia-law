@@ -16,6 +16,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2017 Pt. 6 | 30 Jun 
 Health Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 May 2018 p. 1632-9 | 1 Jul 2018 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 6 | 14 Jun 2019 p. 1883-94 | 1 Jul 2019 (see r. 2(b))
 Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 2020 | SL 2020/115 10 Jul 2020 | r. 1 and 2: 10 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2020 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 7 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Other notes
 Formerly referred to the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261.
 Repealed by the National Health and Medical Research Council Act 1992 s. 54 (No. 225 of 1992) of the Commonwealth.

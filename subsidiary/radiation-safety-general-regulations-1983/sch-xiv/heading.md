@@ -32,3 +32,54 @@ from a position outside the controlled area referred to in item 4.
 23.All persons having access to the controlled area referred to in item 4 shall be authorised to do so by or on behalf of the person in whose name the premises concerned are registered.
 24.Persons operating or using the laser system are to undergo eye examinations in accordance with section 10.11 of the laser safety standard.
 [Schedule XIV amended: Gazette 10 Oct 1986 p. 3846; 15 Oct 1996 p. 5452; 17 Aug 2010 p. 4048; 20 Sep 2016 p. 3968; 7 Mar 2017 p. 1527.]
+## Schedule 15 — Fees
+[r. 58]
+[Heading inserted: SL 2022/136 r. 21.]
+## Division 1 — Registration and licences
+[Heading inserted: SL 2022/136 r. 21.]
+ | $
+ | Annual | Triennial
+1.Fee for registration or renewal of registration of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)), for the manufacture, use or storage of radioactive substances (r. 58(1))
+Maximum quantity:
+40 gigabecquerels | 240 | 480
+400 gigabecquerels | 480 | 960
+4 terabecquerels | 960 | 1 920
+Exceeding 4 terabecquerels | 1 500 | 3 000
+2.Fee for registration or renewal of registration of premises used solely for the mining and milling of radioactive ores (including mineral sands) (r. 58(1aa)) | 240 | 480
+3.Fee for registration or renewal of registration of premises for the sale or service of radioactive substances, irradiating apparatus or electronic products (r. 58(1a)) | 240 | 480
+4.Fee for registration or renewal of registration of premises (other than premises referred to in items 1 to 3), irradiating apparatus or electronic products (r. 58(2))
+In the case of —
+(a)not more than 2 irradiating apparatus and/or electronic products | 240 | 480
+(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 480 | 960
+(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 960 | 1 920
+(d)more than 10 irradiating apparatus and/or electronic products | 1 500 | 3 000
+5.Licence fee (r. 58(3))
+In the case of —
+(a)irradiating apparatus and/or electronic products | 95 | 190
+(b)radioactive substances | 95 | 190
+[Division 1 inserted: SL 2022/136 r. 21.]
+## Division 2 — Temporary permits
+[Heading inserted: SL 2022/136 r. 21.]
+Fee for temporary permits for periods not exceeding 3 months.
+ | $
+1.In respect of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)) and radioactive substances (r. 58(7))
+Maximum quantity:
+40 gigabecquerels | 110
+400 gigabecquerels | 220
+4 terabecquerels | 440
+Exceeding 4 terabecquerels | 650
+2.In respect of premises used solely for the mining and milling of radioactive ores (including mineral sands) (r. 58(7a)) | 110
+3.In respect of premises (other than premises referred to in items 1 and 2), irradiating apparatus and/or electronic products (r. 58(8))
+In the case of —
+(a)not more than 2 irradiating apparatus and/or electronic products | 110
+(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 220
+(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 440
+(d)more than 10 irradiating apparatus and/or electronic products | 650
+4.For persons to operate, use, manufacture, store, transport, sell, possess, install, service, maintain, repair or otherwise deal with (r. 58(9)) —
+(a)radioactive substances | 45
+(b)irradiating apparatus and/or electronic products | 45
+[Division 2 inserted: SL 2022/136 r. 21.]
+## Division 3 — Records
+[Heading inserted: SL 2022/136 r. 21.]
+1.Fee for copy of records (per page) (r. 58(4)) | 2
+[Division 3 inserted: SL 2022/136 r. 21.]

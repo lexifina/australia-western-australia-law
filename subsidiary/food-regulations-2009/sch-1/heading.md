@@ -2,7 +2,7 @@
 [r. 41]
  | Local government | Fee per animal ($)
 Pigs | Bovines (70 kg & under) and other animals | Bovines (over 70 kg)
-1. | Bunbury................................ | 2.10 | 0.50 | 2.80
+1. | Bunbury................................ | 2.00 | 0.45 | 2.70
 2. | Canning ............................... | — | 1.38 | —
 3. | Coolgardie ........................... | 9.90 | 3.85 | —
 4. | Corrigin ............................... | 5.88 | 1.65 | 9.00
@@ -15,4 +15,4 @@ Pigs | Bovines (70 kg & under) and other animals | Bovines (over 70 kg)
 11. | Tammin ............................... | — | 1.00 | —
 12. | Wyndham/East Kimberley .. | — | 0.55 | 4.40
 13. | Waroona .............................. | 1.38 | 0.85 | —
-[Schedule 1 amended: Gazette 20 Sep 2011 p. 3799; 20 Mar 2015 p. 906; 28 Jul 2015 p. 3083; SL 2021/40 r. 4.]
+[Schedule 1 amended: Gazette 20 Sep 2011 p. 3799; 20 Mar 2015 p. 906; 28 Jul 2015 p. 3083; SL 2021/40 r. 4; SL 2022/136 r. 4.]
