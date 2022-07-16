@@ -1,6 +1,6 @@
 ## Schedule 1 — Scale of Deduction Table
 [r. 56, 62Q, 62T]
-1.For the purposes of rule 56(4), the stewards may declare a deduction in accordance with this Scale of Deduction Table. For the purposes of rules 62Q(2) and 62T(1)(b), RWWA will apply a deduction in accordance with this Scale of Deduction Table. Calculations will be made in respect of win, place, each way, concession, doubles, multiple doubles, insurance (2 places), insurance (3 places), quinella and favout wagers. Rate % of deduction (cent in $) from the dividend payable in respect of the wager. (Note: For the purpose of this Table, the win component of an each way wager is to be taken as win wager and the place component a place wager).
+1.For the purposes of rule 56(4), the stewards may declare a deduction in accordance with this Scale of Deduction Table. For the purposes of rules 62Q(2) and 62T(1)(b), RWWA will apply a deduction in accordance with this Scale of Deduction Table. Calculations will be made in respect of win, place, each way, concession, doubles, multiple doubles, insurance (2 places), insurance (3 places), same race multi, quinella and favout wagers. Rate % of deduction (cent in $) from the dividend payable in respect of the wager. (Note: For the purpose of this Table, the win component of an each way wager is to be taken as win wager and the place component a place wager).
 2.Generally, the deduction is applied to the face value of a bet made prior to the time it became known that a runner was a late scratched runner.
 3.In relation to concession, doubles, insurance (2 places) and insurance (3 places) wagers, the deduction is applied only in respect of a runner that finishes first.
 3A.In relation to multi wagers —
@@ -8,7 +8,8 @@
 (b)deductions may apply to more than one leg.
 3B.In relation to quinella wagers, the deduction is applied in respect of the successful combination.
 3C.In relation to favout wagers, the deduction is applied in respect of the successful wager.
-4.In relation to all successful win, place, each way, concession, insurance (2 places), insurance (3 places), quinella, favout and multiple doubles wagers, investors must be paid the dividend payable in respect of the wager, less —
+3DIn relation to same race multi wagers, the deduction is applied to the total same race multi price.
+4.In relation to all successful win, place, each way, concession, insurance (2 places), insurance (3 places), same race multi, quinella, favout and multiple doubles wagers, investors must be paid the dividend payable in respect of the wager, less —
 (a)the number of cents in the dollar deduction applicable on the scale of deductions in the Scale of Deduction Table for the dividends of the runner at the time of its withdrawal; or
 (b)a deduction of any lesser amount as determined by —
 (i)in relation to the conduct of wagering by RWWA — RWWA; or
@@ -111,4 +112,4 @@ Dividend of withdrawn runner (for wager of $1) $ | Win, doubles, multiple double
 31.00 | 0.03 | 0.03 | 0.04 | 0.03 | 0.06
 41.00 | 0.02 | 0.03 | 0.03 | 0.02 | 0.04
 51.00 | 0.02 | 0.02 | 0.02 | 002 | 0.04
-[Schedule 1 amended: Gazette 4 Jan 2013 p. 18-19; SL 2021/188 r. 12.]
+[Schedule 1 amended: Gazette 4 Jan 2013 p. 18-19; SL 2021/188 r. 12; Gazette 15 Jul 2022 p. 4177-8.]

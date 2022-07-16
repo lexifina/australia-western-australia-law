@@ -30,4 +30,8 @@ Item | Wager | Contingency
 25. | Top half versus bottom half | RWWA offers odds against the winner of a particular thoroughbred race or harness race coming from the top half or the bottom half of the race field according to the runner number order. If the race field contains an odd number of runners, the top half is allocated the extra runner.
 26. | Top x | RWWA offers odds against a runner or participant finishing within the placings specified by RWWA. (For example, in a top 2 wager, the runner or participant must finish 1st or 2nd; in a top 5 wager, the runner or participant must finish 1st, 2nd, 3rd, 4th or 5th).
 27. | Total winning saddlecloth numbers | RWWA offers odds against the collective total of the official winning saddlecloth or rug numbers for each race of a particular race meeting or series of races nominated by RWWA. The winning saddlecloth or rug numbers from each applicable race are added together to determine the total winning number.
-[Schedule 2 inserted: SL 2021/188 r. 13.]
+28. | Number of winners | RWWA offers odds against the number of winning rides/drives a nominated jockey/driver will amass at a race meeting or series of races or the number of winning runners that will be trained by a nominated trainer at a race meeting or series of races.
+29. | Jockey premiership | RWWA offers odds against the jockey to win the premiership, as awarded by the relevant Principal Racing Authority, in a nominated country, state, territory or jurisdiction.
+30. | Driver premiership | RWWA offers odds against the driver to win the premiership, as awarded by the relevant Principal Racing Authority, in a nominated country, state, territory or jurisdiction.
+31. | Trainer premiership | RWWA offers odds against the trainer to win the premiership, as awarded by the relevant Principal Racing Authority, in a nominated country, state, territory or jurisdiction.
+[Schedule 2 inserted: SL 2021/188 r. 13; amended: Gazette 15 Jul 2022 p. 4178.]
