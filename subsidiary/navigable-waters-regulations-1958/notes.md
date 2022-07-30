@@ -151,6 +151,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Navigable Waters Amendment Regulations 2021 | SL 2021/161 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2021 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/56 20 May 2022 | 1 Jul 2022 (see r. 2(b))
+Navigable Waters Amendment Regulations 2022 | SL 2022/137 29 Jul 2022 | r. 1 and 2: 29 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jul 2022 (see r. 2(b))
 Other notes
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
@@ -165,14 +166,16 @@ AS46(2)
 AS/NZS46(2)
 authorised person2
 CEO47(1)
+commencement day45AC(1)
 department2
 diving2
 Emergency Position Indicating Radio Beacon46(2)
 examiner47(1)
 foreign pleasure vessel45BAA(1)
 foreign skipper’s ticket47(1)
+former Regulations45AD(1)
 freestyle driving50A(4)
-higher qualification47C(7)
+higher qualification47C(6)
 hull identification number45A(2)
 inspector2
 ISO46(2)
@@ -180,7 +183,7 @@ jetty21
 learner47B(2)
 Level 100 lifejacket46(2)
 Level 150 lifejacket46(2)
-Level 275 lifejacket46(2)
+Level 275 lifejacket46(1)
 Level 50 lifejacket46(2)
 Level 50S lifejacket46(2)
 motor boat2
@@ -201,16 +204,16 @@ recreational paddle craft46(2)
 recreational skipper’s ticket47(1)
 registered interstate pleasure vessel45A(2)
 registered vessel45A(2)
-registrable vessel45A(2)
-RST vessel47(1)
+registrable vessel45A
+RST vessel46(1)
 sailboard46(2)
 sailboard riding46(2)
-shore51D(1B), 52BAD(1)
+shore51D(1B), 52BAC(1)
 SOLAS lifejacket 46(2)
 speed boat2
 surfing50A(4)
 tender45A(2)
-territorial sea2
+territorial sea1
 trick water ski-ing46(2)
 vessel18A(1), 19(1), 21
 water skier46(2)
