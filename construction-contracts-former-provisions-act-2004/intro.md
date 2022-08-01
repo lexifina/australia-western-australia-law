@@ -1,5 +1,5 @@
 Western Australia
-Construction Contracts Act 2004
+Construction Contracts (Former Provisions) Act 2004
 An Act —
 •to prohibit or modify certain provisions in construction contracts;
 •to imply provisions in construction contracts about certain matters if there are no written provisions about the matters in the contracts;
