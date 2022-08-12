@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Gaming Commission Regulations 1988 | 29 Apr 1988 p. 1295-304 | 2 May 1988 (see r. 2)
@@ -76,13 +76,17 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Gaming and Wagering Commission Amendment Regulations (No. 3) 2019 | 31 May 2019 p. 1717-21 | Pt. 1: 31 May 2019 (see r. 2(a)); Pt. 2 and 3: 1 Jun 2019 (see r. 2(b) and (c))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2020 | SL 2020/10 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 were repealed by Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
-The amendments in the Gaming and Wagering Commission Amendment Regulations 2019 (as amended by the Gaming and Wagering Commission Amendment Regulations (No. 2) 2019) is not included because it was repealed by the Gaming and Wagering Commission Amendment Regulations (No. 3) 2019 r. 5 before the amendments purported to come into operation.
+The amendments in the Gaming and Wagering Commission Amendment Regulations 2019 (as amended by the Gaming and Wagering Commission Amendment Regulations (No. 2) 2019) are not included because it was repealed by the Gaming and Wagering Commission Amendment Regulations (No. 3) 2019 r. 5 before the amendments purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
