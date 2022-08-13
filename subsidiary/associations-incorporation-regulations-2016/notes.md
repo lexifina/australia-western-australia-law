@@ -13,6 +13,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/96 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 2 | SL 2022/115 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
+Associations Incorporation Amendment Regulations 2022 | SL 2022/142 12 Aug 2022 | r. 1 and 2: 12 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
