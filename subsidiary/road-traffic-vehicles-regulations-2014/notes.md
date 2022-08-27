@@ -40,6 +40,7 @@ Transport Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2022 | SL 2022/57 20 May 2022 | r. 1 and 2: 20 May 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 5 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 5) 2022 | SL 2022/130 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 4) 2022 | SL 2022/149 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -69,6 +70,9 @@ For the purposes of the Road Traffic (Vehicles) Act 2012 section 18, the specifi
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2022 r. 4 reads as follows:
 4.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2022.
+The Road Traffic (Vehicles) Amendment Regulations (No. 4) 2022 r. 4 reads as follows:
+4.Specified day
+For the purposes of section 18 of the Act, the specified day in relation to regulations 8 and 9 is 27 September 2022.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -104,8 +108,7 @@ AS3
 assessor146
 Australian Border Force3
 Australian Border Force vehicle3
-Australian Design Rule3
-Australian Design Rules226
+Australian Design Rule3, 226
 Australian Standard3
 authorised on-demand rank or hail vehicle109
 authorised passenger transport vehicle109
@@ -154,6 +157,7 @@ defect notice3
 departmental exemption505(1)
 derivative of a car235(1)
 diesel engine3
+direct debit agreement31A(1)
 direction indicator light312(1), 313(1)
 discount period84A(1)
 dog trailer3
@@ -281,6 +285,7 @@ region86
 registered training provider454E(1)
 relevant information158A(1)
 renewal application454A
+renewal charge31A(1)
 renewal period30(1)
 repair146
 repairable write-off3
