@@ -33,6 +33,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Fees) Regulations 2021 Pt. 2 | SL 2021/155 10 Sep 2021 | 11 Sep 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/111 30 June 2022 | 1 Jul 2022 (see r. 2(b))
+Attorney General Regulations Amendment (Fee Waiver) Regulations 2022 Pt. 2 | SL 2022/145 26 Aug 2022 | 27 Aug 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

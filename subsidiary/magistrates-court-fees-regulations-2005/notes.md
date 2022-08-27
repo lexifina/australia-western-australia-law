@@ -41,6 +41,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 9
 Magistrates Court (Fees) Amendment Regulations 2021 | SL 2021/119 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 10 | SL 2022/111 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Legal Profession) Regulations 2022 Pt. 4 | SL 2022/114 30 Jun 2022 | 1 Jul 2022 (see r. 2(d) and SL 2022/113 cl. 2)
+Attorney General Regulations Amendment (Fee Waiver) Regulations 2022 Pt. 3 | SL 2022/145 26 Aug 2022 | 27 Aug 2022 (see r. 2(b))
 Other notes
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms
