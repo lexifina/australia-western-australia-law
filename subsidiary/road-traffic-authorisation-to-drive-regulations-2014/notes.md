@@ -28,6 +28,8 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 
 Road Traffic Regulations Amendment Regulations 2021 Pt. 2 | SL 2021/93 22 Jun 2021 | 23 Jun 2021 (see r. 2(b))
 Transport Regulations Amendment (Electric Rideable Devices) Regulations 2021 Pt. 2 | SL 2021/199 3 Dec 2021 | 4 Dec 2021 (see r. 2(b) and SL 2021/200 r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 4 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Road Traffic (Authorisation to Drive) Amendment Regulations 2022 | SL 2022/147 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
+Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2022 | SL 2022/148 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -44,12 +46,13 @@ authorised43(3)
 axle3
 car hazard perception testSch. 9
 car licence3
-CEO (Mental Health Commission)69I(1)
+CEO (Mental Health Commission)69J(1)
 commencement day82
 current licence75(1)
 Defence Force family member card3
 Defence Force member card3
 Department3
+Department’s website3
 disqualified3
 driver licence14(1)
 driving impairment of the person64(1)
@@ -57,14 +60,17 @@ driving test27(1)
 electric personal transporter3
 electric personal transporter use area3
 electric rideable device3
+emergency declaration60B(1)
 employment10(1)
 excess period served68(7)
 expiry day38(1)
+external Territory3
 foreign driving authorisation3, 60(1)
 foreign law60(2)
 former regulations82
 grant by way of renewal3
 hazard perception testSch. 9
+heavy vehicle extended recognition period60A(1)
 holiday period65(1)
 inspection period69K
 instructor47(1)
@@ -75,22 +81,24 @@ learner approved motor cycle3
 low loader dollySch. 4 cl. 4(2)
 L plates49(1)
 moped3
-moped licence2
+moped licence3
 motor carrier3
 motor cycle3
 motor cycle hazard perception testSch. 9
 motorised scooter3
 motorised wheelchair3
 new driver’s licence applicant3
+notice of recognition60B(5)
 novice driver3
-novice driver (type 1A)2
+novice driver (type 1A)3
+other jurisdictions’ driving authorisations60B(2)
 parental responsibility22(1)
 personal details40(1)
 practical driving assessmentSch. 9
 prescribed offence53A(1)
 present offence53B
 prime mover3
-public holiday67
+public holiday67(1)
 relevant driving authorisation4(1)
 relevant vehicle69K
 removed68(1)
