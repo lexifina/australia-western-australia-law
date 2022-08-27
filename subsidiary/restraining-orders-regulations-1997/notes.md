@@ -16,9 +16,9 @@ Restraining Orders Amendment Regulations 2017 | 7 Feb 2017 p. 1164-8 | r. 1 and 
 Restraining Orders Amendment Regulations (No. 2) 2017 | 24 Nov 2017 p. 5678-9 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b) and Gazette 24 Nov 2017 p. 5671)
 Restraining Orders Amendment Regulations 2020 | SL 2020/63 22 May 2020 | r. 1 and 2: 22 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 23 May 2020 (see r. 2(b))
 Restraining Orders Amendment Regulations (No. 2) 2020 | SL 2020/258 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
+Restraining Orders Amendment Regulations 2022 | SL 2022/146 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
-Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
