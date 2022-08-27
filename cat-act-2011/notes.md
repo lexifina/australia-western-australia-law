@@ -6,10 +6,11 @@ Cat Act 2011 | 55 of 2011 | 9 Nov 2011 | s. 1 and 2: 9 Nov 2011 (see s. 2(a)); A
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 7 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Local Government Legislation Amendment Act 2019 Pt. 4 Div. 2 | 16 of 2019 | 5 Jul 2019 | 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
 Veterinary Practice Act 2021 s. 228 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
+Dog Amendment (Stop Puppy Farming) Act 2021 Pt. 3 (but only s. 49 and 62) | 29 of 2021 | 22 Dec 2021 | 27 Aug 2022 (see s. 2(e) and SL 2022/150 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Dog Amendment (Stop Puppy Farming) Act 2021 Pt. 3 | 29 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
+Dog Amendment (Stop Puppy Farming) Act 2021 s. 50-61 | 29 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -17,7 +18,10 @@ approved cat breeder3(1)
 authorised person3(1)
 cat3(1)
 cat management facility3(1)
+centralised registration system88(1)
+commencement day88(1)
 conditions45(5)
+Department CEO88(1)
 local government61
 microchip3(1)
 microchip database3(1)
