@@ -63,6 +63,7 @@ Compilation table
 Conservation and Land Management Amendment Act 2015 Pt. 2 | 28 of 2015 | 19 Oct 2015 | s. 3, 50, 52, 55 to 58, 60 and 61: 12 Dec 2015 (see s. 2(b) and Gazette 11 Dec 2015 p. 4953); s. 4-49, 51, 53, 54, 59 and 62-71: 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Biodiversity Conservation Act 2016 Pt. 17 Div. 1 | 24 of 2016 | 21 Sep 2016 | Pt. 17 Div. 1 (other than s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309): 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382); s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309: 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Reprint 9: The Conservation and Land Management Act 1984 as at 6 Jan 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309)
+Conservation and Land Management Amendment Act 2022 | 27 of 2022 | 31 Aug 2022 | s. 1 and 2: 31 Aug 2022 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -289,7 +290,7 @@ joint responsible body3
 land3, 17(8), 53, 98(2)
 Land Administration Minister3
 land to which this Act applies3
-land to which this Part applies102(1)
+land to which this Part applies102(1), 102(1A)
 lease13E(1)
 licence13E(1), 87(1)
 managed land103A(1)
@@ -301,12 +302,12 @@ marine park3
 marine reserve3
 member3
 mining tenement96(5), 130A(2)
-Minister (Water Resources)3
 Minister for Fisheries3
 Minister for Forest Products3
 Minister for Indigenous Affairs3
-Minister for Planning8D
 Minister for Mines3
+Minister for Planning8D
+Minister (Water Resources)3
 national park3
 National Parks Authority145
 nature reserve3
@@ -338,13 +339,14 @@ public land81
 public road3
 public water catchment area3
 ranger3
-recreation area13B(1A)
 recreational fishing3
+recreation area13B(1A)
 regional3
 relevant act103A(1)
 relevant offence124(7)
 relevant official166(1)
 relevant property166(1)
+relevant provision8C(1)
 relevant water utility53
 renewal13E(1)
 repealed Act145
