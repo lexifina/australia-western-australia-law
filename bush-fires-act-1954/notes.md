@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bush Fires Act 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Bush Fires Act 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bush Fires Act 1954 | 53 of 1954 (3 Eliz. II No. 53) | 23 Dec 1954 | 29 Apr 1955 (see s. 3 and Gazette 29 Apr 1955 p. 749)
@@ -61,17 +61,14 @@ Bush Fires Amendment Act 2016 | 27 of 2016 | 21 Sep 2016 | s. 1 and 2: 21 Sep 20
 Biodiversity Conservation Act 2016 s. 312 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 2 | 28 of 2016 | 21 Sep 2016 | 16 Sep 2017 (see s. 2(b) and Gazette 15 Sep 2017 p. 4791)
 Environmental Protection Amendment Act 2020 s. 114 | 40 of 2020 | 19 Nov 2020 | 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Bush Fires Amendment Act 2022 s. 3-7 | 26 of 2022 | 19 Aug 2022 | To be proclaimed (see s. 2(b))
+Bush Fires Amendment Act 2022 | 26 of 2022 | 19 Aug 2022 | s. 1 and 2: 19 Aug 2022 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2022 (see s. 2(b) and SL 2022/152 cl. 2)
 Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
 The Bush Fires Amendment Act 1992 s. 6(2) reads as follows:
 (2) Where, immediately before the commencement of this Act, a delegation was in force under section 9(1)(a) or (c) of the principal Act, the delegation shall, on and after that commencement, be deemed to be a delegation to the Chief Executive Officer under section 9(1)(a) of the principal Act as in force after that commencement, and may be varied or revoked accordingly.
-The Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 11(2) is a transitional provision that is of no further effect.
+Footnote no longer required.
 The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) are transitional provisions that are of no further effect.
 The Standardisation of Formatting Act 2010 s. 52(4) in relation to amendments to the Bush Fires Act 1954 s. 21(1), (2) and (3), s. 39(2), s. 45 and s. 47, the amendment to s. 44(3) to delete “(3)(a) Where” and insert “(3) Where” and the amendments to s. 64 to delete “s. 21(2),” and insert “s. 21(2A) and (2B), had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(5)-(8).
 Defined terms
@@ -124,3 +121,7 @@ rubbish tip24C
 specified24C
 total fire ban21
 volunteer fire fighter35A
+© State of Western Australia Error! Unknown document property name..
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia Error! Unknown document property name..
+By Authority: GEOFF O. LAWN, Government Printer
