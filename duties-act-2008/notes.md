@@ -31,10 +31,12 @@ Revenue Law Amendment Act 2019 Pt. 2 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (s
 Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Duties Amendment Act 2022 | 16 of 2022 | 27 May 2022 | Pt. 4: deemed to have come into operation on 13 Jun 2019 (see s. 2(c)); Pt. 1: 27 May 2022 (see s. 2(a)); Act other than Pt. 1, 3 and 4: 28 May 2022 (see s. 2(d)); Pt. 3: 1 Jul 2022 (see s. 2(b))
+Family Court Amendment Act 2022 Pt. 4 (other than Div. 3) | 28 of 2022 | 31 Aug 2022 | 1 Sep 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Family Court Amendment Act 2022 Pt. 4 Div. 3 | 28 of 2022 | 31 Aug 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
@@ -377,7 +379,7 @@ security257(1)
 security holder259(4)
 security interest3
 seller244B(1)
-share3, 63
+share3
 significant interest161
 simultaneous put and call option9, 177(1)
 single acquisition205ZK(2)
@@ -398,7 +400,6 @@ subsidiary257(1)
 substituted transferee141(3)
 superannuation agreement128(1)
 superannuation fund121, 125(1), 128(1)
-superannuation interest128(1)
 supply3
 surplus property113A(1), 148(1)
 surplus receiving body113A(1)
