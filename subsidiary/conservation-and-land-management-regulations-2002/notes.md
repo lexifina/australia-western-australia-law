@@ -42,6 +42,7 @@ Conservation and Land Management Amendment Regulations (No. 2) 2019 | 28 Jun 201
 Conservation and Land Management Amendment Regulations (No. 3) 2019 | 2 Aug 2019 p. 2987-90 | r. 1 and 2: 2 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2019 (see r. 2(b))
 Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Conservation and Land Management Amendment Regulations (No. 2) 2022 | SL 2022/143 12 Aug 2022 | r. 1 and 2: 12 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2022 (see r. 2(b))
+Conservation and Land Management Amendment Regulations (No. 3) 2022 | SL 2022/154 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2022 (see r. 2(b))
 Other notes
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Biodiversity, Conservation and Attractions unless the context of the reference requires otherwise.
