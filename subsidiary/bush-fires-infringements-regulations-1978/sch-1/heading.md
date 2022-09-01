@@ -10,7 +10,7 @@ $
 4 | Section 22(3)(b) | Failure to prepare a fire break in accordance with section 22(3)(b) before setting fire to bush on land adjoining exempt land | 250
 5 | Section 24B(3)(a) | Failure to produce permit to burn | 100
 6 | Section 24B(3)(b) | Failure or refusal to identify person who issued permit to burn | 100
-6A | Section 24D | Burning garden refuse when fire danger is extreme or very high | 250
+6A | Section 24D | Burning garden refuse when fire danger is extreme or high | 250
 6B | Section 24E | Burning garden refuse at rubbish tip contrary to notice | 1 000
 6C | Section 24F | Burning garden refuse during limited burning times | 250
 6D | Section 24G | Burning garden refuse contrary to Ministerial or local government prohibition or restriction | 250
@@ -68,4 +68,4 @@ $
 49B | Regulation 39E(3) | Failure to comply with the directions of a bush fire control officer | 250
 50 | Regulation 43(1) | Failure to give prescribed notification to local government regarding the occurrence of a bush fire | 100
 51 | Regulation 44(a) | Failure by owner or occupier of land to give prescribed notice of intention to exercise powers conferred by section 34 of the Act | 250
-[First Schedule inserted: Gazette 23 November 1990 pp.5779-82; amended: Gazette 22 December 1998 pp.6856 and 6860; 23 November 1999 p.5851; 18 July 2000 p.3863; 10 January 2003 p. 34-35; 18 Sep 2018 p. 3512.]
+[First Schedule inserted: Gazette 23 November 1990 pp.5779-82; amended: Gazette 22 December 1998 pp.6856 and 6860; 23 November 1999 p.5851; 18 July 2000 p.3863; 10 January 2003 p. 34-35; 18 Sep 2018 p. 3512; SL 2022/153 r. 4.]
