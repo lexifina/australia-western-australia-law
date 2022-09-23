@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -203,6 +203,10 @@ Fish Resources Management Amendment Regulations 2021 | SL 2021/118 2 Jul 2021 | 
 Fish Resources Management Amendment Regulations (No. 2) 2021 | SL 2021/166 24 Sep 2021 | r. 1 and 2: 24 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2021 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2022 | SL 2022/128 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2022 | SL 2022/134 15 Jul 2022 | r. 1 and 2: 15 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Fish Resources Management Amendment Regulations (No. 3) 2022 r. 3 and 4 | SL 2022/160 23 Sep 2022 | 1 Oct 2022 (see r. 2(b))
 Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
