@@ -31,12 +31,11 @@ Revenue Law Amendment Act 2019 Pt. 2 | 12 of 2019 | 12 Jun 2019 | 13 Jun 2019 (s
 Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Duties Amendment Act 2022 | 16 of 2022 | 27 May 2022 | Pt. 4: deemed to have come into operation on 13 Jun 2019 (see s. 2(c)); Pt. 1: 27 May 2022 (see s. 2(a)); Act other than Pt. 1, 3 and 4: 28 May 2022 (see s. 2(d)); Pt. 3: 1 Jul 2022 (see s. 2(b))
-Family Court Amendment Act 2022 Pt. 4 (other than Div. 3) | 28 of 2022 | 31 Aug 2022 | 1 Sep 2022 (see s. 2(b))
+Family Court Amendment Act 2022 Pt. 4 | 28 of 2022 | 31 Aug 2022 | Pt. 4 (other than Div. 3): 1 Sep 2022 (see s. 2(b)); Pt. 4 Div. 3: 28 Sep 2022 (see s. 2(c) and SL 2022/159 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Family Court Amendment Act 2022 Pt. 4 Div. 3 | 28 of 2022 | 31 Aug 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
@@ -91,7 +90,7 @@ car or bus244A(1)
 caveat278(1)
 CEO228
 charitable organisation228
-chattel3
+chattel3. 1M, 1MC
 child128(1)
 chosen entity125(2)
 circuit layout right79
@@ -109,34 +108,37 @@ concessional first home owner141(1)
 concessional rate9
 concessional transaction147(1)
 conditional agreement9
-consideration3, 9, 135(3)
+consideration3. 1M, 1MC, 9, 135(3)
 contingent consideration32(1)
 continuing proprietor or proprietors45(1), 178(3)
 contract of insurance206, 208
 controlling entity264(1)
 corporate consolidation259(1)
-corporate trustee3
-corporation3
-Corporations Act3
+corporate trustee3. 1M, 1MC
+corporation3. 1M, 1MC
+Corporations Act3. 1M, 1MC
 corresponding State law228
-court3
+court3. 1M, 1MC
 dealer228
 decision96B(1)
 declaration of trust9
 deemed transaction78A(3), 120B(3)
+de facto flag lifting agreement128(1)
 de facto partner of 2 years9
 de facto partners of 2 years9, 244A(1)
 de facto relationship62(2), 128(1)
 de facto relationship instrument128(1)
 de facto relationship property128(1)
+de facto splitting agreement128(1)
+de facto superannuation agreement128(1)
 dependant127(1)
 dependent transaction274(1)
 deposit141(1)
-derivative mining right3
+derivative mining right3. 1M, 1MC
 digitally sign22A, 273A(1)
-direct interest154A(3)
-director3
-discretionary trust3
+direct interest154(3)
+director3. 1M, 1MC
+discretionary trust3. 1M, 1MC
 disposition9, 63
 distributed value194(4)
 distribution139(1)
@@ -155,7 +157,7 @@ earlier instrumentSch. 3 cl. 10(1)
 electronic conveyancing instrument22A, 273A(1)
 eligible rollover fund121
 endorsed transaction118(1)
-entitled3
+entitled3,
 entitlement value194(4)
 entity9, 102(3), 148(1), 257(1)
 exempt body3
@@ -198,7 +200,7 @@ foreign individual205A(1)
 foreign landholder acquisition205ZD(1), 205ZH(1)
 foreign landholder duty3
 foreign person205A(1)
-foreign tax268(1)
+foreign tax267(1)
 foreign transfer duty3
 foreign transfer duty endorsed205F(1), (2) and (3)
 foreign trust205A(1), 205D(1)
@@ -256,7 +258,7 @@ majority shareholder3
 managed investment scheme9
 matrimonial instrument128(1)
 matrimonial property128(1)
-merging corporations12(4) and (5), 160A(2) and (3)
+merging corporations12(4), 12(5), 160A(2), 160A(3)
 mining tenement3
 mining tenement conditional agreement9
 mining tenement fixture36A(1), 149A(1)
@@ -265,12 +267,12 @@ mining tenement valuation provision91I(1)
 motor cycle244A(1)
 motorised wheelchair244A(1)
 motor vehicle228
-new dutiable property9, 17(1) and (2)
+new dutiable property9, 17(1), 17(2)
 new record273(3)
 new residential property205F(1), 205I(1) and (2)
 new trustee119(1)
 new vehicle228
-nominal duty3
+nominal duty2
 notifiable event257(1), 264(2) and (3)
 notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
 offshore risk insurance206
@@ -321,7 +323,7 @@ property122(3), 266B(1), 266C(1)
 proprietor45(2)
 proprietor of a business178(1)
 prospective right91E(1), 91F(1), 91I(1)
-public authority3
+public authority3. 1M, 1MC
 public float3, 257(1)
 purchase price231
 purchaser244B(1)
@@ -337,7 +339,7 @@ relevant acquisition148(1), 163(1), 266B(1), 266C(1), Sch. 3 cl. 1(1)
 relevant acquisition Sch. 3 cl. 37
 relevant activity91A(1)
 relevant body3
-relevant consolidation transaction257(1), 259(2), (3), (4) and (5)
+relevant consolidation transaction257(1), 259(2), (3), (4), (5)
 relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
 relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
@@ -379,7 +381,7 @@ security257(1)
 security holder259(4)
 security interest3
 seller244B(1)
-share3
+share3, 63
 significant interest161
 simultaneous put and call option9, 177(1)
 single acquisition205ZK(2)
@@ -406,7 +408,7 @@ surplus receiving body113A(1)
 surrender9
 taker in default9
 Taxation Administration Act3
-tax avoidance scheme268(2)
+tax avoidance scheme267(2)
 terminated on relevant grounds9
 terms contract141(1)
 trailer228
