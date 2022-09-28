@@ -18,7 +18,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 7 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2(2) and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Family Court Act 1997 as at 14 Apr 2006 (includes amendments listed above)
-Family Legislation Amendment Act 2006 Pt. 2 and 3 8-10 | 35 of 2006 | 4 Jul 2006 | Pt. 2: 14 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559); Pt. 3: 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
+Family Legislation Amendment Act 2006 Pt. 2 and 3 8-11 | 35 of 2006 | 4 Jul 2006 | Pt. 2: 14 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559); Pt. 3: 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Reprint 3: The Family Court Act 1997 as at 20 Oct 2006 (includes amendments listed above)
 Legal Profession Act 2008 s. 663 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Surrogacy Act 2008 Pt. 4 Div. 3 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
@@ -29,12 +29,11 @@ Child Support (Commonwealth Powers) Act 2019 Pt. 3 | 7 of 2019 | 15 May 2019 | 1
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 59 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Family Court Amendment Act 2021 | 16 of 2021 | 9 Sep 2021 | s. 1 and 2: 9 Sep 2021 (see s. 2(a)); Act other than s. 1 and 2: 10 Sep 2021 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Family Court Amendment Act 2022 Pt. 2 | 28 of 2022 | 31 Aug 2022 | 28 Sep 2022 (see s. 2(c) and SL 2022/159 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Family Legislation Amendment Act 2006 Pt. 4 | 35 of 2006 (as amended by No. 28 of 2022 Pt. 3) | 4 Jul 2006 | To be proclaimed (see s. 2)
-Family Court Amendment Act 2022 Pt. 2 | 28 of 2022 | 31 Aug 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The Superannuation and Family Benefits Act 1938was repealed by the State Superannuation Act 2000 s. 39. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
@@ -176,6 +175,7 @@ commencement means the day on which this Division comes into operation.
 (2) The amendments effected by this Division —
 (a) apply to orders made after commencement; and
 (b) do not apply to orders made before commencement.
+The Family Legislation Amendment Act 2006 Pt. 4 will not come into operation because it was deleted by the Family Court Amendment Act 2022 s. 34.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -188,11 +188,13 @@ alleged contravention5(1)
 alleged offender5(1), 99(1)
 applicant117(1), 205J(1), 205M(1), 205O(7)
 application for a confiscation declaration5(1)
-application period205ZB(1)
 arbitration5(1), 56(1)
 arbitrator5(1)
 arresting person5(1)
 audio link5(1)
+bankrupt5(1)
+Bankruptcy Act5(1)
+bankruptcy trustee5(1)
 birth5(1)
 captain5(1)
 carer98A(1)
@@ -211,8 +213,8 @@ Child Support (Registration and Collection) Act5(1)
 child welfare law5(1)
 child welfare officer5(1)
 child welfare provisions5(1)
-commencementSch. 2 cl. 11(1), Sch. 2 cl. 12(1)
-commencement day219AJ(1), Sch. 2 cl. 1
+commencementSch. 2 cl. 11(1) and 12(1)
+commencement day219AJ(1), Sch. 2 cl. 1 and 13(1)
 Commissioner of Police5(1)
 Commonwealth or State instrumentality238(3)
 communication49(7), 53(8)
@@ -221,12 +223,15 @@ confiscation declaration5(1)
 contravene an order233A
 contravened an order5(1)
 Court5(1)
-court5(1), 43(1), 43(1), 43A(1), 103(1), 104(1), 161(5), 191(3), 230(1), 243(9)
+court5(1), 43(1), 43A(1), 103(1), 104(1), 161(5), 191(3), 230(1), 243(9)
 courtroom219AE(7)
 creditor205ZV(6)
 criminal confiscation order5(1)
 current contravention205K, 205N(1), 205SA(1)
 dealt with205ZM
+debtor party205ZCA(6), 205ZG(16)
+debtor subject to a personal insolvency agreement5(1), 7B
+declaration time205ZPB(7)
 decree209A
 delegated power33(1)
 department5(1)
@@ -281,7 +286,7 @@ member of the family5(1)
 metropolitan region5(1)
 offence232(1)
 official147(8)
-old ActSch. 2 cl. 11(1), Sch. 2 cl. 12(1)
+old ActSch. 2 cl. 11(1) and 12(1)
 order5(1)
 order under this Act223, 233A
 order under this Act affecting children5(1)
@@ -298,6 +303,7 @@ Part 5A proceedings5(1)
 Part 5 Order5(1)
 pending5(1)
 periodic provisions81(4)
+personal insolvency agreement5(1)
 plan79(1), 82(1)
 post-separation parenting program5(1)
 prescribed form159(1A), 162A(1)
@@ -308,7 +314,8 @@ proceedings5(1)
 proceedings for a parenting order91(4), 95A(3)
 professional50(1), 54(1), 62(1)
 professional ethics5(1)
-property205T, 205ZLD(2), 220A(5)
+property5(1), 205ZLD(2), 220A(5)
+property settlement proceedings5(1)
 protected person236(1)
 purported order132A(1)
 reasonable excuse for contravening5(1)
@@ -322,12 +329,14 @@ relevant property or financial arbitration5(1)
 remote person219AG
 repealed ActSch. 2 cl. 1
 representation202J(5)
-respondent117(1), 205E(2), 205E(4), 205E(5), 205E(6), 205E(7), 205I, 205K, 205O(7), 225(2), 236(1)
+respondent117(1), 205E(2), (4), (5), (6) and (7), 205I, 205K, 205O(7),
+225(2), 236(1)
 revocation agreement79(2)
 second person6
 section 65M arbitration5(1)
 Sentencing Act205SC(1), 229(1)
 specified day219AJ(1)
+standard application period205ZB(1)
 State child order5(1)
 State entity5(1)
 State information order5(1)
@@ -336,5 +345,7 @@ subsequent order128(8)
 termination agreement205ZU(1)
 third party205ZLB
 Torres Strait Islander child5(1)
+trustee5(1)
+vested bankruptcy property5(1)
 video link5(1)
 witness party219AK(1), 219AL(1)
