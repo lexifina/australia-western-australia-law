@@ -46,6 +46,7 @@ Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2
 Betting Tax Assessment Act 2018 Pt. 8 Div. 2 Subdiv. 2 | 37 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
 Gaming and Wagering Legislation Amendment Act 2018 Pt. 3 | 41 of 2018 | 12 Dec 2018 | 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193-4)
 TAB (Disposal) Act 2019 s. 89(2) and 93 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(1)(c))
+Casino Legislation Amendment (Burswood Casino) Act 2022 Pt. 3 | 32 of 2022 | 28 Sep 2022 | 29 Sep 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

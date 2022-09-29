@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 December 2011 of the Casino Control Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Casino Control Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Casino Control Act 1984 | 34 of 1984 | 20 Jun 1984 | 1 Jul 1984 (see s. 2 and Gazette 29 Jun 1984 p. 1754)
@@ -24,6 +24,8 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 20 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 4: The Casino Control Act 1984 as at 16 Dec 2011 (includes amendments listed above)
+Casino Legislation Amendment (Burswood Casino) Act 2022 Pt. 2 | 32 of 2022 | 28 Sep 2022 | 29 Sep 2022 (see s. 2(b))
+Other notes
 The Acts Amendment and Validation (Casino Control) Act 1985 s. 44 reads as follows:
 44.Validation
 Notwithstanding that the Minister to whom the administration of the principal Act was during the period —
@@ -35,10 +37,15 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 administrator3(1)
+agent21ZF(3)
 applicant21(1), 26A(1)
 authorised game3(1)
 authorised person27A(5), 29F
 books3(1)
+Burswood Casino21H(1)
+Burswood Casino licensee21H(1)
+Burswood Island Agreement21H(1)
+business day21ZE(4)
 casino3(1)
 casino complex3(1)
 casino complex agreement3(1)
@@ -46,6 +53,7 @@ casino employee3(1)
 casino gaming licence3(1)
 casino key employee3(1)
 casino licensee3(1)
+CEO21H(1)
 Chief Casino Officer3(1)
 close associate18(1)
 Commission3(1)
@@ -55,17 +63,26 @@ conduct3(2)
 contract29A
 contract notice29B(1)
 controlled contract29A
+Department21H(1)
 dispose of21F(8)
+final report of the Perth Casino Royal Commission21H(1)
 game3(1)
 gaming3(2)
 gaming equipment3(2)
 gaming operations3(1)
 government inspector3(1)
+ID card21ZH(1)
+Independent Monitor21H(1)
 instruments of gaming3(2)
 junket25A(3)
 licensed casino3(1)
 machine3(2)
+management and operation of a casino24(1AA)
+management and operation of the Burswood Casino21H(1)
+member of the Independent Monitor’s staff21H(1)
+monitor21U(5)
 mortgagee3(1)
+Perth Casino Royal Commission21H(1)
 possession3(2)
 preliminary requirements21(6)
 proposed assignee21F(6)
@@ -74,10 +91,15 @@ public company3(1)
 public interest3(1)
 receiver21F(8)
 relevant financial interest18(2)
+relevant information21S(1)
+relevant person21H(1)
 relevant position18(2)
 relevant power18(2)
+relevant record21S(1)
+remediation period21H(1)
+remediation plan21H(1)
 special circumstances29B(6)
-specified21(6), 37(3)
+specified21(6), 21H(1), 37(3)
 specified person21E(7)
 token3(2)
 unclaimed winnings15(1), 15(6)
