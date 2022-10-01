@@ -106,8 +106,8 @@ Trout, Brown and Rainbow
 [r. 65F]
 [Heading inserted: Gazette 4 Oct 2019 p. 3561.]
 Fish | Species bag limit for one day
-Herring, Australian (Herring) | 12
-[Division 5 inserted: Gazette 4 Oct 2019 p. 3561.]
+Herring, Australian (Herring) | 20
+[Division 5 inserted: Gazette 4 Oct 2019 p. 3561; amended: SL 2022/160 r. 4.]
 ## Division 6 — Bag limits — crustaceans
 [r. 65G]
 [Heading inserted: Gazette 4 Oct 2019 p. 3561.]
