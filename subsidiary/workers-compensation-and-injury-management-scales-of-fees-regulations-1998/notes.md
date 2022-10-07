@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Workers’ Compensation and Rehabilitation (Scales of Fees) Regulations 1998 | 13 Oct 1998 p. 5709-25 | 13 Oct 1998
@@ -46,6 +46,10 @@ Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulat
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2019 | 22 Oct 2019 p. 3733-52 | r. 1 and 2: 22 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2019 (see r. 2(b))
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2020 | SL 2020/203 23 Oct 2020 | r. 1 and 2: 23 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2020 (see r. 2(b))
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2021 | SL 2021/169 8 Oct 2021 | r. 1 and 2: 8 Oct 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2021 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2022 r. 3-6 | SL 2022/164 7 Oct 2022 | 1 Nov 2022 (see r. 2(b))
 Other notes
 The amendments in the Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulations (No. 3) 2004 published by Gazette 4 Jan 2005 p. 6-14 have no effect because of an error in the reference to the principal regulations to be amended.
 Now known as the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998; citation changed (see note under r. 1).
