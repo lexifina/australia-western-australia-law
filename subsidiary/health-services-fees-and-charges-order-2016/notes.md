@@ -30,6 +30,7 @@ Health Services (Fees and Charges) Amendment Order (No. 5) 2021 | SL 2021/194 26
 Health Services (Fees and Charges) Amendment Order 2022 | SL 2022/9 11 Feb 2022 | cl. 1 and 2: 11 Feb 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 12 Feb 2022 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 2) 2022 | SL 2022/55 20 May 2022 | cl. 1 and 2: 20 May 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 21 May 2022 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 3) 2022 | SL 2022/110 28 Jun 2022 | cl. 1 and 2: 28 Jun 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2022 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order (No. 4) 2022 | SL 2022/166 18 Oct 2022 | cl. 1 and 2: 18 Oct 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 19 Oct 2022 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

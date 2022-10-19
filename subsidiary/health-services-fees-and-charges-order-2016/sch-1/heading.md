@@ -9,8 +9,8 @@
  | (b)for private in-patients —
  | (i)in single bed wards (if taken at patient’s request) | $698 per day
  | (ii)in other wards | $393 per day
- | (c)for nursing home type patients | $65.40 per day
- | (d)for nursing home type private patients | $202.15 per day
+ | (c)for nursing home type patients | $68.05 per day
+ | (d)for nursing home type private patients | $210.30 per day
  | (e)for ineligible in-patients | $2 869 per day
  | (f)for eligible veteran in-patients | no charge
 2. | Home modifications service and supply or loan as appropriate, of such aids and appliances, orthotics and prostheses, oxygen, gas and equipment, wigs, surgical implants or devices as are approved by the Department CEO (including repair and replacement) | no charge
@@ -39,7 +39,7 @@
 ## Subdivision 5 — Other services
 [Heading inserted: SL 2021/134 cl. 4.]
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $42 per day
-[Division 1 inserted: SL 2021/134 cl. 4; amended: SL 2021/194 cl. 4; SL 2022/9 cl. 4; SL 2022/55 cl. 4; SL 2022/110 r. 4.]
+[Division 1 inserted: SL 2021/134 cl. 4; amended: SL 2021/194 cl. 4; SL 2022/9 cl. 4; SL 2022/55 cl. 4; SL 2022/110 r. 4; SL 2022/166 cl. 4.]
 ## Division 2 — Compensable patients
 [Heading inserted: SL 2021/134 cl. 4.]
 ## Subdivision 1 — Compensable in-patients
@@ -54,13 +54,13 @@
 [Heading inserted: SL 2021/134 cl. 4.]
 7. | For radiological service — for each item of service | $351
 8. | For medicines, subject to item 9, for each item — (a)at a participating hospital for an item on the PBS list (b)at a participating hospital for an item not on the PBS list (c)at a hospital that is not a participating hospital | PBS price up to a maximum of $42.50 $34 $34
-9. | For each other individual service (with any medicines supplied at the time of the initial service being treated as included in that service) | $339
+9. | For each other individual service (with any medicines supplied at the time of the initial service being treated as included in that service) | $351
 ## Subdivision 3 — Compensable same day patients
 [Heading inserted: SL 2021/134 cl. 4.]
 10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 610 per day
  | (b)for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $3 597 per day
  | (c)for any other patient | $3 369 per day
-[Division 2 inserted: SL 2021/134 cl. 4; amended: SL 2022/9 cl. 4; SL 2022/110 r. 4.]
+[Division 2 inserted: SL 2021/134 cl. 4; amended: SL 2022/9 cl. 4; SL 2022/110 r. 4; SL 2022/166 cl. 4.]
 ## Division 3 — Magnetic resonance imaging
 Charges for magnetic resonance imaging services
 Item | Service | Charge (per study)
