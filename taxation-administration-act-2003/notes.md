@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Taxation Administration Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of non-reviewable decision in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137); s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59: 2 Mar 2009 (see s. 2 and Gazette 24 Feb 2009 p. 385)
@@ -34,7 +34,10 @@ Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 4 | 37 of 2018 | 12 Dec 201
 Taxation Administration Amendment Act 2019 Pt. 2 | 11 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b))
 Finance Legislation Amendment (Emergency Relief) Act 2022 Pt. 2 | 1 of 2022 | 21 Feb 2022 | 22 Feb 2022 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
-Other notes
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 6 and Pt. 3 Div. 4 | 33 of 2022 | 21 Oct 2022 | To be proclaimed (see s. 2(b) and (c))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 1.
 If a modification is to:
 ·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
