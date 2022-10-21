@@ -14,6 +14,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Emergency Management Amendment (COVID-19 Response) Act 2020 s. 10 | 11 of 2020 (as amended by No. 39 of 2020 Pt. 4, No. 1 of 2021 Pt. 4, No. 21 of 2021 Pt. 4 and No. 15 of 2022 Pt. 4) | 3 Apr 2020 | 4 Jan 2023 (see s. 2(c))
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 1 and Div. 2 Subdiv. 1 and Pt. 3 Div. 1 | 33 of 2022 | 21 Oct 2022 | To be proclaimed (see s. 2(b) and (c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
