@@ -31,6 +31,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 5 | 21 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 2 and Pt. 3 Div. 2 | 33 of 2022 | 21 Oct 2022 | To be proclaimed (see s. 2(b) and (c))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 20 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
