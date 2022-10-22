@@ -1,31 +1,30 @@
 Notes
-This Act was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-This is a compilation of the Superannuation and Family Benefits Act 1938 and includes the amendments made by the other written laws referred to in the following table .
+This is a compilation of the Superannuation and Family Benefits Act 1938 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Superannuation and Family Benefits Act 1938 | 34 of 1938 | 31 Jan 1939 | 1 Mar 1939 (except where otherwise provided) (see s. 2 and Gazette 24 Feb 1939 p. 319)
 Superannuation and Family Benefits Act Amendment Act 1939 | 43 of 1939 | 20 Dec 1939 | 1 Mar 1939 (see s. 2)
-Amending proclamation | 14 Dec 1945 p. 1168-9 | Superannuation Fortnight No. 172 ending on 1 Feb 1976
+Amending proclamation published in Gazette 14 Dec 1945 p. 1168-9 | Superannuation Fortnight No. 172 ending on 1 Feb 1976
 Superannuation and Family Benefits Act Amendment Act 1945 | 55 of 1945 | 30 Jan 1946 | S. 2(1)(b), 8(1), 13(1): deemed operative 20 Dec 1939 (see subsection (2) of each of those sections); s. 3(1), 9(1), 10(1), 11(1), 14(1), 16(1): 1 Mar 1946 (see s. 1 and Gazette 22 Feb 1946 p. 179); balance: 30 Jan 1946
 Superannuation and Family Benefits Act Amendment Act 1947 | 65 of 1947 | 10 Jan 1948 | 31 Jan 1948 (see s. 2 and Gazette 30 Jan 1948 p. 207)
-Superannuation and Family Benefits Act Amendment Act 1950 | 39 of 1950 | 18 Dec 1950 | 13 Jan 1951 (see s. 2 and Gazette 12 Jan 1951 p.41)
-Acts Amendment (Superannuation and Pensions) Act 1951, s. 2 | 25 of 1951 | 12 Dec 1951 | 12 Dec 1951
+Superannuation and Family Benefits Act Amendment Act 1950 | 39 of 1950 | 18 Dec 1950 | 13 Jan 1951 (see s. 2 and Gazette 12 Jan 1951 p. 41)
+Acts Amendment (Superannuation and Pensions) Act 1951 s. 2 | 25 of 1951 | 12 Dec 1951 | 12 Dec 1951
 Superannuation and Family Benefits Act Amendment Act 1955 | 36 of 1955 | 28 Nov 1955 | 9 Dec 1955 (see s. 1(1) and Gazette 9 Dec 1955 p. 2961)
-Acts Amendment (Superannuation and Pensions) Act 1957, s. 2 | 55 of 1957 | 6 Dec 1957 | 1 Jan 1958 (see s. 1(2))
-Acts Amendment (Superannuation and Pensions) Act 1958, s. 2 | 19 of 1958 | 22 Oct 1958 | 22 Oct 1958
-Acts Amendment (Superannuation and Pensions) Act 1960, s. 3 | 61 of 1960 | 2 Dec 1960 | 1 Jan 1961 (see s. 2)
+Acts Amendment (Superannuation and Pensions) Act 1957 s. 2 | 55 of 1957 | 6 Dec 1957 | 1 Jan 1958 (see s. 1(2))
+Acts Amendment (Superannuation and Pensions) Act 1958 s. 2 | 19 of 1958 | 22 Oct 1958 | 22 Oct 1958
+Acts Amendment (Superannuation and Pensions) Act 1960 s. 3 | 61 of 1960 | 2 Dec 1960 | 1 Jan 1961 (see s. 2)
 Superannuation and Family Benefits Act Amendment Act 1961 | 50 of 1961 | 23 Nov 1961 | 23 Nov 1961
 Superannuation and Family Benefits Act Amendment Act 1962 | 19 of 1962 | 1 Oct 1962 | 1 Oct 1962
-Acts Amendment (Superannuation and Pensions) Act 1962, Part 1 | 65 of 1962 | 30 Nov 1962 | 29 Dec 1962 (see s. 2)
+Acts Amendment (Superannuation and Pensions) Act 1962 Pt. 1 | 65 of 1962 | 30 Nov 1962 | 29 Dec 1962 (see s. 2)
 Superannuation and Family Benefits Act Amendment Act 1963 | 43 of 1963 | 3 Dec 1963 | 3 Dec 1963
 Superannuation and Family Benefits Act Amendment Act 1964 | 21 of 1964 | 15 Oct 1964 | 15 Oct 1964
 Superannuation and Family Benefits Act Amendment Act (No. 2) 1964 | 101 of 1964 | 23 Dec 1964 | 23 Dec 1964
 Superannuation and Family Benefits Act Amendment Act 1965 | 106 of 1965 | 17 Dec 1965 | 14 Feb 1966 (see s. 2)
-Acts Amendment (Superannuation and Pensions) Act 1967, Part 1 | 78 of 1967 | 11 Dec 1967 | 29 Dec 1967 (see s. 2 and Gazette 29 Dec 1967 p. 3607)
+Acts Amendment (Superannuation and Pensions) Act 1967 Pt. 1 | 78 of 1967 | 11 Dec 1967 | 29 Dec 1967 (see s. 2 and Gazette 29 Dec 1967 p. 3607)
 Superannuation and Family Benefits Act Amendment Act 1968 | 13 of 1968 | 8 Oct 1968 | 8 Oct 1968
-Acts Amendment (Superannuation) Act 1969, Part 1 | 27 of 1969 | 16 May 1969 | s. 8: 28 Dec 1967 (see s. 2(2)); balance: 16 May 1969
+Acts Amendment (Superannuation) Act 1969 Pt. 1 | 27 of 1969 | 16 May 1969 | s. 8: 28 Dec 1967 (see s. 2(2)); balance: 16 May 1969
 Superannuation and Family Benefits Act Amendment Act 1970 | 22 of 1970 | 8 May 1970 | 1 Jan 1970 (see s. 2)
-Acts Amendment (Superannuation and Pensions) Act 1970, Part 1 | 108 of 1970 | 8 Dec 1970 | 1 Jan 1971 (see s. 2(1))
+Acts Amendment (Superannuation and Pensions) Act 1970 Pt. 1 | 108 of 1970 | 8 Dec 1970 | 1 Jan 1971 (see s. 2(1))
 Superannuation and Family Benefits Act Amendment Act 1973 | 16 of 1973 | 30 May 1973 | 1 Jul 1973 (see s. 2)
 Superannuation and Family Benefits Act Amendment Act (No. 2) 1973 | 75 of 1973 | 17 Dec 1973 | Sections 7, 11: 1 Jan 1974 (see s. 2(2)); sections 3, 10, 12, 13, 14(a), 17, 18, 19, 20, 23, 24, 26: 11 Jan 1974 (see s. 2(3)); balance: 17 Dec 1973 (see s. 2(1))
 Superannuation and Family Benefits Act Amendment Act 1974 | 47 of 1974 | 26 Nov 1974 | Act, except s. 5: 18 Apr 1975 (see s. 2 and Gazette 18 Apr 1975 p. 1145); s. 5: 23 May 1975 (see s. 2 and Gazette 23 May 1975 p. 1393)
@@ -39,38 +38,41 @@ Superannuation and Family Benefits Amendment Act 1985 | 78 of 1985 | 20 Nov 1985
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2)
 Superannuation and Family Benefits Amendment Act 1986 | 57 of 1986 | 26 Nov 1986 | 26 Nov 1986 (see s. 2)
 Superannuation and Family Benefits Amendment Act 1987 | 17 of 1987 | 25 Jun 1987 | 1 Jul 1987 (see s. 2)
-Guardianship and Administration Act 1990, s. 123 | 24 of 1990 | 7 Sep 1990 | 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
-Financial Administration Legislation Amendment Act 1993, s. 11 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see s. 2(1))
+Guardianship and Administration Act 1990 s. 123 | 24 of 1990 | 7 Sep 1990 | 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
+Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | Deemed operative 1 Jul 1993 (see s. 2(1))
 Superannuation Legislation Amendment Act 1993 | 8 of 1993 | 28 Sep 1993 | Sections 50(c), 52, 59, 60(b) and 63: deemed operative 1 Jul 1992 (see s. 2(2)); balance: 28 Sep 1993
-R & I Bank Amendment Act 1994, s. 13 | 6 of 1994 | 11 Apr 1994 | S. 13 proclaimed 26 Apr 1994 (see s. 2(2) and Gazette 26 Apr 1994 p. 1743)
-Acts Amendment (Public Sector Management) Act 1994, s. 16 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Statutes (Repeals and Minor Amendments) Act 1994, s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
-Energy Corporations (Transitional and Consequential Provisions) Act 1994, s. 109 | 89 of 1994 | 15 Dec 1994 | 1 Jan 1995 (see s. 2(2) and Gazette 23 Dec 1994 p. 7069)
-Hospitals Amendment Act 1994, s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see s. 2 and Gazette 3 Feb 1995 p. 333)
-Bank of Western Australia Act 1995, s. 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2(3) and Gazette 29 Nov 1995 p. 5529)
-Government Employees Superannuation Amendment Act (No.2) 1995, s. 25 | 60 of 1995 | 21 Dec 1995 | 30 Dec 1995 (see s. 2 and Gazette 29 Dec 1995 p. 6287)
-Government Employees Superannuation Legislation Amendment Act 1995, s. 5 | 62 of 1995 | 9 Jan 1996 | 9 Jan 1996 (see s. 2)
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995, s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
-Local Government (Consequential Amendments) Act 1996, s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Financial Legislation Amendment Act 1996, s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Statutes (Repeals and Minor Amendments) Act 1997, s. 117 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2)
-Port Authority (Consequential Provisions) Act 1999, s. 25 | 5 of 1999 | 13 Apr 1999 | 13 Apr 1999 (see s. 2(1))
-Gas Corporation (Business Disposal) Act 1999, s. 108 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
+R & I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | S. 13 proclaimed 26 Apr 1994 (see s. 2(2) and Gazette 26 Apr 1994 p. 1743)
+Acts Amendment (Public Sector Management) Act 1994 s. 16 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
+Energy Corporations (Transitional and Consequential Provisions) Act 1994 s. 109 | 89 of 1994 | 15 Dec 1994 | 1 Jan 1995 (see s. 2(2) and Gazette 23 Dec 1994 p. 7069)
+Hospitals Amendment Act 1994 s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see s. 2 and Gazette 3 Feb 1995 p. 333)
+Bank of Western Australia Act 1995 s. 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2(3) and Gazette 29 Nov 1995 p. 5529)
+Government Employees Superannuation Amendment Act (No.2) 1995 s. 25 | 60 of 1995 | 21 Dec 1995 | 30 Dec 1995 (see s. 2 and Gazette 29 Dec 1995 p. 6287)
+Government Employees Superannuation Legislation Amendment Act 1995 s. 5 | 62 of 1995 | 9 Jan 1996 | 9 Jan 1996 (see s. 2)
+Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+Statutes (Repeals and Minor Amendments) Act 1997 s. 117 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2)
+Port Authority (Consequential Provisions) Act 1999 s. 25 | 5 of 1999 | 13 Apr 1999 | 13 Apr 1999 (see s. 2(1))
+Gas Corporation (Business Disposal) Act 1999 s. 108 | 58 of 1999 | 24 Dec 1999 | 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 State Superannuation Act 2000 s. 39 | 42 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2 and Gazette 16 Feb 2001 p. 903)
-State Superannuation Regulations 2001 | 16 Feb 2001 p. 923-1074 | 17 Feb 2001 (see regulation 2 and Gazette 16 Feb 2001 p. 903)
-State Superannuation Amendment Regulations 2001 | 29 Jun 2001 p. 3077-107 | 1 Jul 2001 (see regulation 2)
-State Superannuation Amendment Regulations (No. 2) 2002, r. 29 | 28 Jun 2002 p. 3007-28 | 1 Jul 2002 (see regulation 2)
-State Superannuation Amendment Regulations (No. 3) 2002 r. 7 | 28 Jun 2002 p. 3029-33 | 21 Sep 2002 (see r. 2 and Gazette 20 Sep 2002 p. 4693)
-State Superannuation Amendment Regulations (No. 4) 2003 r. 3 | 30 Dec 2003 p. 5726 | 30 Dec 2003
-State Superannuation Amendment Regulations 2004 r.13 | 25 Jun 2004 p. 2228-33 | 25 Jun 2004
-State Superannuation Amendment Regulations 2006 Pt. 4 | 26 May 2006 p. 1915-33 | 26 May 2006
+State Superannuation Regulations 2001 published in Gazette 16 Feb 2001 p. 923-1074 | 17 Feb 2001 (see regulation 2 and Gazette 16 Feb 2001 p. 903)
+State Superannuation Amendment Regulations 2001 published in Gazette 29 Jun 2001 p. 3077-107 | 1 Jul 2001 (see regulation 2)
+State Superannuation Amendment Regulations (No. 2) 2002 r. 29 published in Gazette 28 Jun 2002 p. 3007-28 | 1 Jul 2002 (see regulation 2)
+State Superannuation Amendment Regulations (No. 3) 2002 r. 7 published in Gazette 28 Jun 2002 p. 3029-33 | 21 Sep 2002 (see r. 2 and Gazette 20 Sep 2002 p. 4693)
+State Superannuation Amendment Regulations (No. 4) 2003 r. 3 published in Gazette 30 Dec 2003 p. 5726 | 30 Dec 2003
+State Superannuation Amendment Regulations 2004 r. 13 published in Gazette 25 Jun 2004 p. 2228-33 | 25 Jun 2004
+State Superannuation Amendment Regulations 2006 Pt. 4 published in Gazette 26 May 2006 p. 1915-33 | 26 May 2006
 Financial Legislation Amendment and Repeal Act 2006 s. 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-State Superannuation Amendment Regulations 2007 Pt. 3 | 13 Apr 2007 p. 1577-613 | 13 Apr 2007 (see r. 2)
+State Superannuation Amendment Regulations 2007 Pt. 3 published in Gazette 13 Apr 2007 p. 1577-613 | 13 Apr 2007 (see r. 2)
 State Superannuation Amendment Regulations 2008 Pt. 3 published in Gazette 18 Jan 2008 p. 149-56 | 19 Jan 2008 (see r. 2(b))
 Police Amendment Act 2008 s. 20 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 10 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-N.B.The Superannuation and Family Benefits Act 1938 is affected by section 15 of the District Court of Western Australia Act 1969 (No. 84 of 1969).
+State Superannuation Amendment Regulations (No. 2) 2022 Pt. 3 (SL 2022/173) | 22 Oct 2022 (see r. 2(b))
+Other notes
+NB:The Superannuation and Family Benefits Act 1938 is affected by section 15 of the District Court of Western Australia Act 1969 (No. 84 of 1969).
+This Act was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Repealed by the Miscellaneous Repeals Act 1991 (No. 10 of 1991).
 Reference amended under section 7(5)(a) of the Reprints Act 1984 to give effect to section 5(2) of the Water Authority Act 1984 (No. 3 of 1984).
 Footnote no longer applicable.
