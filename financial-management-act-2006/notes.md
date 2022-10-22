@@ -43,6 +43,7 @@ Procurement Act 2020 Pt. 10 Div. 3 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see 
 Financial Legislation Amendment Act 2021 Pt. 2 | 12 of 2021 | 24 Aug 2021 | 21 Sep 2021 (see s. 2(b))
 Arts and Culture Trust Act 2021 s. 75 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Soil and Land Conservation Amendment Act 2022 s. 21 | 19 of 2022 | 24 Jun 2022 | 25 Jun 2022 (see s. 2(b))
+Financial Management (Statutory Authorities) Regulations 2022 (SL 2022/169) | r. 1 and 2: 21 Oct 2022 (see r. 2(b)); Regulations other than r. 1 and 2: 22 Oct 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
