@@ -19,6 +19,7 @@ Forest Management Amendment Regulations (No. 2) 2010 | 3 Sep 2010 p. 4273-7 | r.
 Reprint 2: Forest Management Regulations 1993 as at 25 Mar 2011 (includes amendments listed above)
 Forest Management Amendment Regulations 2012 | 7 Dec 2012 p. 5975-7 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Forest Management Amendment Regulations 2020 | SL 2020/224 20 Nov 2020 | r. 1 and 2: 20 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2020 (see r. 2(b) and SL 2020/225 r. 2(b))
+Environment Regulations Amendment Regulations 2022 Pt. 3 | SL 2022/170 21 Oct 2022 | 22 Oct 2022 (see r. 2(b))
 Other notes
 The Conservation and Land Management Regulations 2002 r. 114 repealed some of these regulations and s. 116 reads as follows:
 116.Saving

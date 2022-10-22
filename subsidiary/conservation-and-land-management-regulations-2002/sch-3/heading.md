@@ -41,24 +41,4 @@ It is proposed to commence court proceedings against you for the alleged offence
 Chief Executive Officer,
 Department of Biodiversity, Conservation and Attractions
 [Form 2 amended: Gazette 29 Sep 2006 p. 4333; 14 Sep 2018 p. 3308.]
-Form 3 — Apiary permit
-Regulation 98D(1)
-CONSERVATION AND LAND MANAGEMENT REGULATIONS 2002
-APIARY PERMIT
-Permit No. ____________
-I____________________________________________________________ Reg Brand____________ of_________________________________________________________________________________
-is authorised, subject to the Conservation and Land Management Regulations 2002 —
-a) to occupy the land described below for the purpose of operating an apiary; and b) to remove honey, bees-wax and pollen from that land
-In accordance with the terms and conditions and any limitations set out below, and not otherwise.
-Note: The authority conferred by this permit is of no effect at any time when a term, condition or limitation of the permit is not being complied with.
-Site that may be occupied
- | DEC REGION/DISTRICT _________________________ Forest Block _________________________ DEC Apiary Zone _________________________ | DEC Plan & Ref ________________ or COG Map Ref ________________ Nearest Road/Track ________________ | Land Tenure ________________________________ GPS Reading — Map Location Longitude__________________ Latitude__________________
- | Conditions to be followed |  |  | Authority to Issue Permit
- | DRA Permit Water Catchment Catchment Area Pastoral Lease Special Conditions Standard Apiary Site Conditions | ________________ ________________ ________________ ________________ ________________ ________________ |  | Apiary Batch Number______ Commission______ Minister for the Environment or his Delegate’s Approval______
- | Rental
- | per annum, subject to review ______ from time to time
- | Special Conditions
- | Period during which site may be occupied
- | First day of Period: _______________________ | Last day of Period: _______________________
-This permit is not valid without the signature of the Director General or his delegate. __________________________________________________________________________ DIRECTOR GENERALDate DEPARTMENT OF BIODIVERSITY, CONSERVATION AND ATTRACTIONS
-[Form 3 inserted: Gazette 3 Sep 2010 p. 4284; amended: Gazette 6 May 2016 p. 1382; 14 Sep 2018 p. 3308.]
+[Form 3 deleted: SL 2022/170 r. 6.]
