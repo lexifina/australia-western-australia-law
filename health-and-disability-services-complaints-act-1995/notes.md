@@ -42,6 +42,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Health and Disability Services (Complaints) Amendment Act 2022 s. 3-43 | 35 of 2022 | 28 Oct 2022 | To be proclaimed (see s. 2(b))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Health and Disability Services (Complaints) Act 1995; short title changed (see note under s. 1).
