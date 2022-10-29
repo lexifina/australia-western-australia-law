@@ -8,10 +8,12 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 13 and 27 | 47 of 2011 | 25 
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 37 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 30 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Reprint 1: The Owner-Drivers (Contracts and Disputes) Act 2007 as at 4 Aug 2017 (includes amendments listed above)
+Owner-Drivers (Contracts and Disputes) Amendment Act 2022 s. 1, 2 and 12 | 36 of 2022 | 28 Oct 2022 | s. 1 and 2: 28 Oct 2022 (see s. 2(a)); s. 12: 29 Oct 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
+Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 | 7 of 2007 | 6 Jun 2007 | 1 Jun 2023 (see s. 2 and SL 2023/27 cl. 2)
+Owner-Drivers (Contracts and Disputes) Amendment Act 2022 s. 3-11 and 13-32 | 36 of 2022 | 28 Oct 2022 | s. 17 and 18: immediately after the Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 come into operation (see s. 2(c)); s. 3-11, 13-16 and 19-32: 1 Jun 2023 (see s. 2(d) and SL 2023/28 cl. 2)
 Other notes
 Now known as the Competition and Consumer Act 2010 (Cwlth). The short title was changed by the Trade Practices Amendment (Australian Consumer Law) Act (No. 2) (2010) (Cwlth) Sch. 5 cl. 2.
 Defined terms
