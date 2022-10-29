@@ -18,6 +18,7 @@ Consumer Protection Legislation Amendment Act 2019 Pt. 5 | 25 of 2019 | 24 Oct 2
 Fair Trading Amendment Act 2019 | 26 of 2019 | 24 Oct 2019 | 25 Oct 2019 (see s. 2(b))
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 3 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Fair Trading Amendment Act 2022 | 34 of 2022 | 28 Oct 2022 | s. 1 and 2: 28 Oct 2022 (see s. 2(a)); Act other than s. 1 and 2: 29 Oct 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -25,14 +26,16 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-Section 36 as altered by the Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 no longer has effect in relation to the Australian Consumer Law (WA) Text.
 ## Note — Australian Consumer Law (WA) text
 This note is not part of the Act. Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
-(a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 26 October 2018 (as modified by section 36 of the Act); and
-(b)the regulations made under section 139G the Cwth Act, as those regulations are in force from time to time.
+(a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 1 June 2021 and as amended by each provision that —
+(i) is in an amending law that has effect for the purposes of section 19 of the Act under section 19B; and
+(ii) has come into operation for the purposes of section 19 of the Act under section 19C;
+and
+(b)the regulations made under section 139G of the Cwth Act, as those regulations are in force from time to time, subject to section 19(1A) of the Act.
 Regulations may also be made under section 116(3) of the Act that alter the operation of certain provisions of the Australian Consumer Law (WA).
-This note shows the version of the text of Schedule 2 to the Cwth Act, as in force on 26 October 2018 (as modified by section 36 of the Act and regulations made under section 116(3) of the Act) that, together with the regulations made under section 139G of the Cwth Act, applies as the Australian Consumer Law (WA).
-The text of the regulations made under section 139G of the Cwth Act is not reproduced. The regulations can be accessed at www.comlaw.gov.au.]
+This note shows the version of the text of Schedule 2 to the Cwth Act, as in force on 1 June 2021 that, together with the regulations made under section 139G of the Cwth Act, applies as the Australian Consumer Law (WA).
+The text of the regulations made under section 139G of the Cwth Act is not reproduced. The regulations can be accessed at <https://www.legislation.gov.au>.
 ## Chapter 1 — Introduction
 ### 1. Application of this Schedule
 This Schedule applies to the extent provided by:
@@ -3506,7 +3509,8 @@ Item | Representation | Requirements to be met
 4 | A representation in the form of a mark specified in an information standard relating to country of origin labelling of goods | the requirements under the information standard relating to the use of that mark.
 (2)Goods were substantially transformed in a country if:
 (a)the goods met, in relation to that country, the requirements of item 1 or 2 in the second column of the table in subsection (1); or
-(b)as a result of one or more processes undertaken in that country, the goods are fundamentally different in identity, nature or essential character from all of their ingredients or components that were imported into that country.
+(b)as a result of one or more processes undertaken in that country, the goods are fundamentally different in identity, nature or essential character from all of their ingredients or components that were imported into that country; or
+(c)the goods underwent in that country one or more processes prescribed by the regulations.
 (3)Without limiting subsection (2), the regulations:
 (a)may prescribe (in relation to particular classes of goods or otherwise) processes or combinations of processes that, for the purposes of that subsection, do not have the result described in subsection (2)(b); and
 (b)may include examples (in relation to particular classes of goods or otherwise) of processes or combinations of processes that, for the purposes of that subsection, have the result described in subsection (2)(b).
@@ -3544,7 +3548,7 @@ the person bears an evidential burden in relation to the matters set out in the 
 (6)To avoid doubt, subsection (4) applies in addition to subsections (2) and (3).
 (7)The consumer may take action under this section whether or not the goods are in their original packaging.
 ### 260. When a failure to comply with a guarantee is a major failure
-A failure to comply with a guarantee referred to in section 259(1)(b) that applies to a supply of goods is a major failure if:
+(1)A failure to comply with a guarantee referred to in section 259(1)(b) that applies to a supply of goods is a major failure if:
 (a)the goods would not have been acquired by a reasonable consumer fully acquainted with the nature and extent of the failure; or
 (b)the goods depart in one or more significant respects:
 (i)if they were supplied by description — from that description; or
@@ -3555,6 +3559,11 @@ A failure to comply with a guarantee referred to in section 259(1)(b) that appli
 (ii)a person by whom any prior negotiations or arrangements in relation to the acquisition of the goods were conducted or made;
 and they cannot, easily and within a reasonable time, be remedied to make them fit for such a purpose; or
 (e)the goods are not of acceptable quality because they are unsafe.
+(2)A failure to comply with a guarantee referred to in section 259(1)(b) that applies to a supply of goods is also a major failure if:
+(a)the failure is one of 2 or more failures to comply with a guarantee referred to in section 259(1)(b) that apply to the supply; and
+(b)the goods would not have been acquired by a reasonable consumer fully acquainted with the nature and extent of those failures, taken as a whole.
+Note:The multiple failures do not need to relate to the same guarantee.
+(3)Subsection (2) applies regardless of whether the consumer has taken action under section 259 in relation to any of the failures.
 ### 261. How suppliers may remedy a failure to comply with a guarantee
 If, under section 259(2)(a), a consumer requires a supplier of goods to remedy a failure to comply with a guarantee referred to in section 259(1)(b), the supplier may comply with the requirement:
 (a)if the failure relates to title — by curing any defect in title; or
@@ -3629,7 +3638,7 @@ If a consumer acquires goods from a supplier and gives them to another person as
 (4)The consumer may, by action against the supplier, recover damages for any loss or damage suffered by the consumer because of the failure to comply with the guarantee if it was reasonably foreseeable that the consumer would suffer such loss or damage as a result of such a failure.
 (5)To avoid doubt, subsection (4) applies in addition to subsections (2) and (3).
 ### 268. When a failure to comply with a guarantee is a major failure
-A failure to comply with a guarantee referred to in section 267(1)(b) that applies to a supply of services is a major failure if:
+(1)A failure to comply with a guarantee referred to in section 267(1)(b) that applies to a supply of services is a major failure if:
 (a)the services would not have been acquired by a reasonable consumer fully acquainted with the nature and extent of the failure; or
 (b)the services are substantially unfit for a purpose for which services of the same kind are commonly supplied and they cannot, easily and within a reasonable time, be remedied to make them fit for such a purpose; or
 (c)both of the following apply:
@@ -3639,6 +3648,11 @@ A failure to comply with a guarantee referred to in section 267(1)(b) that appli
 (i)the services, and any product resulting from the services, are not of such a nature, or quality, state or condition, that they might reasonably be expected to achieve a result desired by the consumer that was made known to the supplier;
 (ii)the services, and any of those products, cannot, easily and within a reasonable time, be remedied to achieve such a result; or
 (e)the supply of the services creates an unsafe situation.
+(2)A failure to comply with a guarantee referred to in section 267(1)(b) that applies to a supply of services is also a major failure if:
+(a)the failure is one of 2 or more failures to comply with a guarantee referred to in section 267(1)(b) that apply to the supply; and
+(b)the services would not have been acquired by a reasonable consumer fully acquainted with the nature and extent of those failures, taken as a whole.
+Note:The multiple failures do not need to relate to the same guarantee.
+(3)Subsection (2) applies regardless of whether the consumer has taken action under section 267 in relation to any of the failures.
 ### 269. Termination of contracts for the supply of services
 (1)This section applies if, under section 267, a consumer terminates a contract for the supply of services.
 (2)The termination takes effect:
@@ -3904,25 +3918,35 @@ The amendments made by Schedule 9 to the Treasury Laws Amendment (Australian Con
 ## Part 5—Application and transitional provisions relating to the Treasury Laws Amendment (Gift Cards) Act 2018
 ### 302. Application of amendments relating to gift cards
 The amendments made by Schedule 1 to the Treasury Laws Amendment (Gift Cards) Act 2018 apply to gift cards supplied on or after 1 November 2019.
+## Part 6—Application and transitional provisions relating to the Treasury Laws Amendment (2020 Measures No. 6) Act 2020
+### 303. Application of amendments relating to multiple non major consumer guarantee failures
+(1)The amendments made by Part 1 of Schedule 4 to the Treasury Laws Amendment (2020 Measures No. 6) Act 2020 apply in relation to goods supplied under a contract entered into on or after the day that that Part commences.
+(2)The amendments made by Part 1 of Schedule 4 to the Treasury Laws Amendment (2020 Measures No. 6) Act 2020 apply in relation to a services supplied under a contract entered into on or after the day that that Part commences.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 access information75(1)
 acquire6
+amend17(1)
+amending law17(1)
+amending provision19C(1)
 application law17(1)
 applied regulation15(2A)
 assistant67(1)
 Australian Consumer Law17(1)
-Australian Consumer Law (WA)6, 17(1)
 Australian Consumer Law text17(1)
+Australian Consumer Law (WA)6, 17(1)
 authorisation88A
 authorised person63
 business6
 code of practice43
+commencement day19D
 Commissioner6
 consumer6, 7(1)
 consumer affairs authority62(1)
 Department6
+disallowance period19B(1)
+disallowance resolution19B(1)
 disposal6
 document6
 executive officer55(1)
@@ -3935,14 +3959,16 @@ investigator 63
 judicial member83(5)
 jurisdiction17(1)
 law17(1)
-liability114(1)(b), 115(1)
+liability114(1), 115(1)
 modifications17(1)
 motor vehicle63
+notice period19B(1)
 other jurisdiction27
+parliamentary committee19E(1)
 participating jurisdiction17(1), 27
 person A95(4), 99(2)
-person B95(4)
 personal information112(1)
+person B95(4)
 President83(5)
 principal111(1) and (2)
 provision6
@@ -3951,7 +3977,7 @@ registration Act88A
 regulated activity88A
 regulated person88A, 112(1)
 regulator22
-renewal day38(2)(a)
+renewal day38(2)
 respondent106(4)
 re-supply6
 services6, 8(1)
@@ -3964,4 +3990,4 @@ Territory17(1)
 this jurisdiction17(1)
 trade or commerce6
 transitional matter117(2)
-variation day38(2)(b)
+variation day38(2)
