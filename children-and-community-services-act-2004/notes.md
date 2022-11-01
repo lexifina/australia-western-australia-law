@@ -30,12 +30,12 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 102 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Reprint 5: The Children and Community Services Act 2004 as at 22 Mar 2019 (includes amendments listed above)
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
-Children and Community Services Amendment Act 2021 (other than s. 15, 32, 39, 40 and 52-54) | 18 of 2021 | 19 Oct 2021 | s. 1 and 2: 19 Oct 2021 (see s. 2(a)); Act other than s. 1, 2, 15, 32, 39, 40 and 52-54: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2)
+Children and Community Services Amendment Act 2021 (other than s. 15, 32, 39, 40, 52(1), (2), (4)-(7), (10)-(16) and (20) and 53(2)-(4) and (6)-(9)) | 18 of 2021 | 19 Oct 2021 | s. 1 and 2: 19 Oct 2021 (see s. 2(a)); Act other than s. 1, 2, 15, 32, 39, 40 and 52-54: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2) s. 52(3), (8), (9) and (17)-(19), 53(1), (5), (10) and (11) and 54: 1 Nov 2022 (see s. 2(c) and SL 2022/167 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 2 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Children and Community Services Amendment Act 2021 s. 15, 32, 39, 40 and 52-54 | 18 of 2021 | 19 Oct 2021 | s. 52(3), (8), (9) and (17) to (19), 53(1), (5), (10) and (11) and 54: 1 Nov 2022 (see s. 2(c) and SL 2022/167 cl. 2); s. 15, 32, 39, 40 , 52(1), (2), (4) to (7), (10) to (16) and (20), 53(2) to (4) and (6) to (9): to be proclaimed (see s. 2(c))
+Children and Community Services Amendment Act 2021 s. 15, 32, 39, 40, 52(1), (2), (4)-(7), (10)-(16) and (20) and 53(2)-(4) and (6)-(9) | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
 Firearms Amendment Act 2022 s. 82 | 13 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(c))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -137,10 +137,10 @@ investigable death242A(1)
 judge3
 leave124H(1)
 leaving care plan3, 89B
-legal practitioner148(1)
 magistrate3, 241A
 midwife124A
 Ministerial Body17, Sch. 1 cl. 27(1)
+minister of religion124A
 neglect28(1)
 negotiated placement agreement3
 non-government provider23(1), 28A
@@ -197,6 +197,7 @@ relevant modification94(2)
 relevant officer22(4AC)
 relevant person73(1)
 relevant record241A
+religious confession124BA(1)
 remote communication3
 repealed ActSch. 1 cl. 1
 report124A, 138
@@ -218,6 +219,7 @@ sexual abuse124A
 social services3
 special guardian3
 specifiedSch. 1 cl. 25(5)
+specified person124B(1)
 State157(1)
 teacher124A
 Torres Strait Islander3
