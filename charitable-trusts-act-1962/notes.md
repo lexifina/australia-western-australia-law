@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Charitable Trusts Act 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Charitable Trusts Act 1962 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Charitable Trusts Act 1962 | 82 of 1962 (11 Eliz. II No. 82) | 6 Dec 1962 | 6 Dec 1962
@@ -12,6 +12,10 @@ Reprint of the Charitable Trusts Act 1962 as at 17 May 2002 (includes amendments
 Charitable Trusts Amendment Act 2011 | 9 of 2011 | 2 May 2011 | 2 May 2011 (see s. 2)
 Reprint 3: The Charitable Trusts Act 1962 as at 26 Aug 2011 (includes amendments listed above)
 Health Services Act 2016 s. 287 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Charitable Trusts Act 2022 s. 56 | 38 of 2022 | 1 Nov 2022 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
