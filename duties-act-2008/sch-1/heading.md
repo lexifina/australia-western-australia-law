@@ -14,5 +14,5 @@ s. 11(1)(g) | Surrender of special dutiable property | When the surrender takes 
  |  |  | in the case of a surrender referred to in section 18(g), (ga), (gb) or (gc), the person that paid the consideration for the surrender
 s. 11(1)(h) | A trust acquisition or trust surrender | When the interest in the trust is acquired or surrendered | Person that is the trustee of the discretionary trust
 s. 11(1)(i) | A partnership acquisition | The earlier of the following — (a)when the partnership interest is acquired; or (b)if the acquisition is evidenced by an instrument, when the instrument is executed | Person that acquires the partnership interest
-s. 11(1)(j) | A farm-in agreement | When the agreement is made | Person referred to in section 13(1)(b)
-[Schedule 1 amended: No. 12 of 2019 s. 130.]
+s. 11(1)(j) | A concessional farm-in transaction | When the concessional farm-in transaction is made | The farmee
+[Schedule 1 amended: No. 12 of 2019 s. 130; No. 37 of 2022 s. 13.]
