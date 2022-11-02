@@ -32,6 +32,7 @@ Strata Titles Amendment Act 2018 Pt. 3 Div. 5 | 30 of 2018 | 19 Nov 2018 | 1 May
 Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Duties Amendment Act 2022 | 16 of 2022 | 27 May 2022 | Pt. 4: deemed to have come into operation on 13 Jun 2019 (see s. 2(c)); Pt. 1: 27 May 2022 (see s. 2(a)); Act other than Pt. 1, 3 and 4: 28 May 2022 (see s. 2(d)); Pt. 3: 1 Jul 2022 (see s. 2(b))
 Family Court Amendment Act 2022 Pt. 4 | 28 of 2022 | 31 Aug 2022 | Pt. 4 (other than Div. 3): 1 Sep 2022 (see s. 2(b)); Pt. 4 Div. 3: 28 Sep 2022 (see s. 2(c) and SL 2022/159 cl. 2)
+Duties Amendment (Farm-in Agreements) Act 2022 | 37 of 2022 | 1 Nov 2022 | s. 1 and 2: 1 Nov 2022 (see 2(a)); Act other than s. 1 and 2: 2 Nov 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -61,14 +62,21 @@ acquirer163(1), 171(2), 175, 205ZH(1)
 acquiring person167(1), 168(1), 205ZM(1)
 acquisition165
 acquisition statement199
+actual section 13 farm-in agreementSch. 3 cl. 60(1)
+additional agreementSch. 3 cl. 65(1)
+additional farm-in transaction91S(1)
 additional insurance210(2)
 administration order139A(1)
 administrator139A(1)
+affected derivative mining rightSch. 3 cl. 74(6)
 affected entity259(1)
+affected mining tenementSch. 3 cl. 73(3) and 74(5)
 aggregated group interest163(2), 205ZH(3)
 agreement by instalments33(1)
 amended provisionsSch. 3 cl. 37
 amended section 244ASch. 3 cl. 50(1)
+amending ActSch. 3 cl. 60(1)
+amendment daySch. 3 cl. 60(1)
 appropriate reassessment officer244B(3)
 approved superannuation fund122(2)
 associate205A(1), 205B(1) and (2)
@@ -90,7 +98,7 @@ car or bus244A(1)
 caveat278(1)
 CEO228
 charitable organisation228
-chattel3. 1M, 1MC
+chattel3
 child128(1)
 chosen entity125(2)
 circuit layout right79
@@ -102,26 +110,29 @@ Commonwealth Act121
 company A12(3), 160A(1)
 company B12(3), 160A(1)
 company C12(4), 160A(2)
+completed91Q(2), Sch. 3 cl. 71(4)
 complying approved deposit fund121
 complying superannuation fund121
+concessional farm-in transaction9, 91K(1), 91L(3) and (4)
 concessional first home owner141(1)
 concessional rate9
 concessional transaction147(1)
 conditional agreement9
-consideration3. 1M, 1MC, 9, 135(3)
+consideration3, 9, 91R(1), Sch. 3 cl. 71(1)
 contingent consideration32(1)
 continuing proprietor or proprietors45(1), 178(3)
 contract of insurance206, 208
 controlling entity264(1)
 corporate consolidation259(1)
-corporate trustee3. 1M, 1MC
-corporation3. 1M, 1MC
-Corporations Act3. 1M, 1MC
+corporate trustee3
+corporation3
+Corporations Act3
 corresponding State law228
-court3. 1M, 1MC
+court3
 dealer228
 decision96B(1)
 declaration of trust9
+deemed section 13 farm-in agreementSch. 3 cl. 60(1)
 deemed transaction78A(3), 120B(3)
 de facto flag lifting agreement128(1)
 de facto partner of 2 years9
@@ -134,11 +145,11 @@ de facto superannuation agreement128(1)
 dependant127(1)
 dependent transaction274(1)
 deposit141(1)
-derivative mining right3. 1M, 1MC
+derivative mining right3, Sch. 3 cl. 71(1) and 74(1)
 digitally sign22A, 273A(1)
-direct interest154(3)
-director3. 1M, 1MC
-discretionary trust3. 1M, 1MC
+direct interest154A(3)
+director3
+discretionary trust3
 disposition9, 63
 distributed value194(4)
 distribution139(1)
@@ -157,7 +168,7 @@ earlier instrumentSch. 3 cl. 10(1)
 electronic conveyancing instrument22A, 273A(1)
 eligible rollover fund121
 endorsed transaction118(1)
-entitled3,
+entitled3
 entitlement value194(4)
 entity9, 102(3), 148(1), 257(1)
 exempt body3
@@ -165,15 +176,22 @@ exempt family farm transaction99(1)
 exemption257(1)
 exemption application262(1)
 exempt transaction9
-exploration amount9
+existing agreementSch. 3 cl. 65(1)
+exploration91K(1), Sch. 3 cl. 64(5)
+exploration amount91K(1), 91N(5)
+exploration licence91K(1)
+exploration requirement9, 91K(1), 91N(1)
 family257(1)
 Family Court Act9
 Family Law Act128(1)
 family member99(1)
-farm-in agreement9
+farmee9, 91K(1), 91L(1)
+farm-in agreement91K(1), 91L(1)
 farming land99(1)
 farming land conditional agreement9
 farming property99(1)
+farm-in transaction91K(1), 91M(1) and (2)
+farmor91K(1), 91L(1)
 FHOG Act141(1)
 financial services licensee206
 first acquisition174(1)
@@ -183,6 +201,7 @@ first concessional transaction141(1), 142(2)
 first dutiable transaction35, 47, 51
 first home owner concessional rate141(1)
 first home owner concessional transaction141(1)
+first pre-amendment periodSch. 3 cl. 60(1)
 first transaction104
 fixed infrastructure3
 fixed infrastructure 91A(1)
@@ -250,6 +269,7 @@ local government3
 lodge3
 lot96
 lower entity154A(1)
+madeSch. 3 cl. 61(1)
 main acquisition195B(1) and (3), 204G(1), 204H(1), 205ZKA(1)
 main entities156A(1)
 main entity154A(1), 156(1), 195B(1) and (3), 204A(1), 204G(1), 205ZKA(1)
@@ -258,7 +278,9 @@ majority shareholder3
 managed investment scheme9
 matrimonial instrument128(1)
 matrimonial property128(1)
-merging corporations12(4), 12(5), 160A(2), 160A(3)
+merging corporations12(4) and (5), 160A(2) and (3)
+minerals91K(1)
+mining91K(1)
 mining tenement3
 mining tenement conditional agreement9
 mining tenement fixture36A(1), 149A(1)
@@ -267,12 +289,16 @@ mining tenement valuation provision91I(1)
 motor cycle244A(1)
 motorised wheelchair244A(1)
 motor vehicle228
-new dutiable property9, 17(1), 17(2)
+new dutiable property9, 17(1) and (2)
+new mining tenement91M(8), Sch. 3 cl. 74(2)
 new record273(3)
 new residential property205F(1), 205I(1) and (2)
 new trustee119(1)
 new vehicle228
-nominal duty2
+nominal duty3
+non-prospecting dutiable transaction91U(4) and (5)
+non-prospecting interest91U(1)
+non-prospecting mining tenement91U(1)
 notifiable event257(1), 264(2) and (3)
 notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
 offshore risk insurance206
@@ -314,7 +340,9 @@ pre-section 270 decision request269(1)
 pre-transaction decision request261(1)
 previous administration agreementSch. 3 cl. 49(1)
 previous assessmentSch. 3 cl. 52(1)
+previous mining tenement91M(8), Sch. 3 cl. 74(2)
 previous right91F(1), 91G(1)
+primary farmor91K(1)
 primary production3, 101A(1)
 produce animals101A(1)
 professional association3
@@ -322,9 +350,12 @@ promote trade, industry or commerce3
 property122(3), 266B(1), 266C(1)
 proprietor45(2)
 proprietor of a business178(1)
+prospecting farm-in transaction91U(1)
+prospecting licence91K(1)
 prospective right91E(1), 91F(1), 91I(1)
-public authority3. 1M, 1MC
+public authority3
 public float3, 257(1)
+purchase agreement91K(1), 91M(9)
 purchase price231
 purchaser244B(1)
 put option44(1), 177(1), 197A(1)
@@ -339,23 +370,31 @@ relevant acquisition148(1), 163(1), 266B(1), 266C(1), Sch. 3 cl. 1(1)
 relevant acquisition Sch. 3 cl. 37
 relevant activity91A(1)
 relevant body3
-relevant consolidation transaction257(1), 259(2), (3), (4), (5)
+relevant consideration91O(3)
+relevant consolidation transaction257(1), 259(2), (3), (4) and (5)
+relevant derivative mining right91K(1), 91M(1)
 relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
 relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
 relevant land assets167(1), 168(1)
 relevant licence277(1)
+relevant mining tenement91K(1), 91M(1)
 relevant partnership property78(1), 78A(1)
 relevant period29(3), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
+relevant provisionSch. 3 cl. 61(1)
 relevant reconstruction transaction257(1), 260(1), (2), (2A), (3), (4) and (5)
 relevant reconstruction transaction property266B(2)
 relevant residential property205ZM(1)
+relevant time91T(6), 91U(7)
 relevant transaction257(1)
 relevant transfer125(1)
 relevant vehicle licence transferSch. 3 cl. 50(1)
 relinquishing person167(1), 168(1), 205ZM(1)
 relocatable home3
+replacement derivative mining right91K(1), 91M(7), Sch. 3 cl. 74(1)
+replacement dutiable transaction91R(3)
+replacement mining tenement91K(1), 91M(6), Sch. 3 cl. 73(1) and 74(1)
 replacement transaction107(1)
 representative206
 represented person139A(2)
@@ -376,7 +415,14 @@ right9
 scheme267(1)
 scheme property9
 second dutiable transaction35, 47, 51
+second pre-amendment periodSch. 3 cl. 60(1)
+section 13Sch. 3 cl. 60(1)
+section 135Sch. 3 cl. 70(1)
+section 13 exploration amountSch. 3 cl. 60(1)
+section 13 exploration requirementSch. 3 cl. 60(1)
+section 13 farm-in agreementSch. 3 cl. 60(1)
 section 270 decision269(1)
+section 42(15)Sch. 3 cl. 60(1)
 security257(1)
 security holder259(4)
 security interest3
@@ -418,7 +464,7 @@ transaction record3
 transfer9
 transfer duty3
 transfer duty statement3
-transferee99(1), 141(1)
+transferee91K(1), 99(1), 141(1)
 transferor99(1), 118(1), 122(2), 173(1)
 transfer property78(1)
 transfers42(8)
@@ -428,6 +474,7 @@ trust acquisition9
 trust surrender9
 unencumbered value9, 36(1), 148(1)
 unlisted corporation63
+vary91K(1)
 vehicle228, 230(1)
 vehicle A239(1)
 vehicle B239(1)
