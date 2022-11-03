@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Functions and General) Regulations 1996 | 24 Jun 1996 p. 2771-97 | 1 Jul 1996 (see r. 2)
@@ -29,6 +29,11 @@ Local Government Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/35 9 Apr
 Local Government (Functions and General) Amendment Regulations 2020 | SL 2020/55 8 May 2020 | r. 1 and 2: 8 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2020 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 8 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Local Government (Functions and General) Amendment Regulations 2021 | SL 2021/75 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
+Local Government Regulations Amendment Regulations 2022 Pt. 4 (other than Div. 3) | SL 2022/177 2 Nov 2022 | 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Local Government Regulations Amendment Regulations 2022 Pt. 4 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Other notes
 The Local Government Act 1995 came into operation on 1 July 1996.
 The Local Government (Functions and General) Amendment Regulations 2001 r. 11 is a transitional provision that is of no further effect.
@@ -37,14 +42,15 @@ Defined terms
 Defined termProvision(s)
 application24AH(1)
 contracts12(1)
+COVID-19 declaration11(1A)
 former draft model by-law38(4)
 former section6(4)
-joint venture10(2)
-joint venturer10(2)
+joint venture9(2)
+joint venturer9(2)
 land that will lose its access4(3)
 major regional centre7(1)
 minor variation20(3)
-original contract11(2)
+original contract11
 panel of pre-qualified suppliers24AA
 pre-qualified supplier24AA
 public place29(2)

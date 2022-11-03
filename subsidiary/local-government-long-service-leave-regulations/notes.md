@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Long Service Leave) Regulations and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Local Government (Long Service Leave) Regulations and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Long Service Leave) Regulations | 16 Dec 1977 p. 4655-60 | 16 Dec 1977
@@ -10,6 +10,11 @@ Local Government (Long Service Leave) Amendment Regulations (No. 2) 1986 | 26 Se
 Local Government (Long Service Leave) Amendment Regulations 1994 | 22 Jul 1994 p. 3762-3 | 22 Jul 1994
 Reprint of the Local Government (Long Service Leave) Regulations as at 15 Jun 2001 (includes amendments listed above)
 Local Government Regulations Amendment Regulations 2020 Pt. 4 | SL 2020/35 9 Apr 2020 | 10 Apr 2020 (see r. 2(b))
+Local Government Regulations Amendment Regulations 2022 Pt. 5 (other than Div. 3) | SL 2022/177 2 Nov 2022 | 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Local Government Regulations Amendment Regulations 2022 Pt. 5 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Other notes
 Repealed by the Industrial Arbitration Act 1979 which is now known as the Industrial Relations Act 1979.
 Defined terms
