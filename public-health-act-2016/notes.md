@@ -9,11 +9,12 @@ Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 117 | 4 o
 Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 Pt. 2 | 14 of 2019 | 5 Jul 2019 | s. 3: 5 Jul 2019 (see s. 2(a)); s. 4-12: 22 Jul 2019 (see s. 2(b) and Gazette 19 Jul 2019 p. 2841)
 Public Health Amendment (COVID-19 Response) Act 2020 | 33 of 2020 | 21 Aug 2020 | s. 1 and 2: 21 Aug 2020 (see s. 2(1)(a)); Act other than s. 1 and 2: 12 Sep 2020 (see s. 2(1)(b) and SL 2020/153 cl. 2)
 Public Health Amendment (Safe Access Zones) Act 2021 | 9 of 2021 | 17 Aug 2021 | s. 1 and 2: 17 Aug 2021 (see s. 2(a)); Act other tha s. 1 and 2: 18 Aug 2021 (see s. 2(b))
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 5 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1, and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
-Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 5 and Pt. 3 Div. 3 | 33 of 2022 | 21 Oct 2022 | To be proclaimed (see s. 2(b) and (c))
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 3 Div. 3 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2024 (see s. 2(c) and SL 2022/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -27,11 +27,12 @@ Strata Titles Amendment Act 2018 Pt. 3 Div. 7 | 30 of 2018 | 19 Nov 2018 | 1 May
 Community Titles Act 2018 Pt. 14 Div. 9 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Finance Legislation Amendment (Emergency Relief) Act 2022 Pt. 3 | 1 of 2022 | 21 Feb 2022 | 22 Feb 2022 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 2 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Transfer of Land Amendment Act 2022 Pt. 3 Div. 5 | 21 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
-Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 2 and Pt. 3 Div. 2 | 33 of 2022 | 21 Oct 2022 | To be proclaimed (see s. 2(b) and (c))
+Transfer of Land Amendment Act 2022 Pt. 3 Div. 5 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 3 Div. 2 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2024 (see s. 2(c) and SL 2022/175 cl. 2)
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 20 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.

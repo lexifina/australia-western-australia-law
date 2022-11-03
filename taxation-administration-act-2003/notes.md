@@ -34,10 +34,12 @@ Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 4 | 37 of 2018 | 12 Dec 201
 Taxation Administration Amendment Act 2019 Pt. 2 | 11 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b))
 Finance Legislation Amendment (Emergency Relief) Act 2022 Pt. 2 | 1 of 2022 | 21 Feb 2022 | 22 Feb 2022 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 6 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 6 and Pt. 3 Div. 4 | 33 of 2022 | 21 Oct 2022 | To be proclaimed (see s. 2(b) and (c))
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 3 Div. 4 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2024 (see s. 2 (c) and SL 2022/175 cl. 2)
+Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 1.
 If a modification is to:
 ·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
@@ -47,7 +49,7 @@ If a modification is to:
 ·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
 ·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
 The Revenue Laws Amendment Act 2012 s. 42(4) was deemed to have come into operation on 1 Jul 2009, see s. 2(d) of that Act).
-The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 cannot be included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
+The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 cannot be included because the paragraph it sought to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
 The Business Tax Review (Assessment) Act (No. 2) 2003 s. 100(3) reads as follows:
 100.Taxation Administration Act 2003 amended and transitional
 (3) The amendment effected by this section does not apply in relation to a policy of insurance of the kind described in that section 114(3)(f) if the period for which the insurance is effected commenced on or before 29 June 2004.
@@ -86,7 +88,8 @@ beneficial body determinationGl. cl. 1
 chargeGl. cl. 1
 commencement day135F(1), 137(1), 138(1)
 CommissionerGl. cl. 1
-Commissioner’s websiteGl. cl. 1 completeGl. cl. 1
+Commissioner’s websiteGl. cl. 1
+completeGl. cl. 1
 compromise agreement20A(1)
 compromise assessmentGl. cl. 1
 corresponding CommissionerGl. cl. 1
