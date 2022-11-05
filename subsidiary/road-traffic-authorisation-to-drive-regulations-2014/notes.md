@@ -31,6 +31,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 
 Road Traffic (Authorisation to Drive) Amendment Regulations 2022 | SL 2022/147 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2022 | SL 2022/148 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2022 (other than Pt. 3) | SL 2022/179 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Transport Regulations Amendment (Fee Waiver and Refund) Regulations 2022 Pt. 2 | SL 2022/181 4 Nov 2022 | 5 Nov 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement

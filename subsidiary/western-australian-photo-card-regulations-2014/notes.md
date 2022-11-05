@@ -17,6 +17,7 @@ Transport Regulations Amendment (Document Replacement) Regulations 2020 Pt. 3 | 
 Transport Regulations Amendment (Fees and Charges) Regulations (No 2) 2021 Pt. 11 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
 Transport Regulations Amendment (Digital Identity Exchange) Regulations 2021 Pt. 3 | SL 2021/203 3 Dec 2021 | 4 Dec 2021 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 11 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Transport Regulations Amendment (Fee Waiver and Refund) Regulations 2022 Pt. 3 | SL 2022/181 4 Nov 2022 | 5 Nov 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,6 +27,7 @@ APS employee10(1)
 Chief of Defence10(2)
 current photo card3
 Department of the Premier and Cabinet10A(1)
+Department’s website3
 digital identity exchange10A(1)
 LG CEO10(2)
 other card6(5)
