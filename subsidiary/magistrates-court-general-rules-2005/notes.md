@@ -31,6 +31,7 @@ Magistrates Court Rules Amendment Rules 2021 Pt. 3 | SL 2021/25 26 Feb 2021 | 27
 Magistrates Court Rules Amendment Rules (No. 2) 2021 Pt. 3 | SL 2021/133 23 Jul 2021 | 24 Jul 2021 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2022 Pt. 3 | SL 2022/54 13 May 2022 | 14 May 2022 (see r. 2(b))
 Magistrates Court Rules Amendment (Legal Profession) Rules 2022 Pt. 3 | SL 2022/106 24 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
+Magistrates Court (General) Amendment Rules 2022 | SL 2022/180 4 Nov 2022 | r. 1 and 2: 4 Nov 2022 (see r. 2(a)); Rules other than r. 1 and 2: 5 Nov 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

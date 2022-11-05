@@ -4,9 +4,9 @@
 Suburb (A-L) | Registry | Suburb (M-Z) | Registry
 Alexander Heights | Joondalup | Maddington | Armadale
 Alfred Cove | Fremantle | Madeley | Joondalup
-Alkimos | Joondalup | Madora | Mandurah
+Alkimos | Joondalup | Madora Bay | Mandurah
 Anketell | Rockingham | Mahogany Creek | Midland
-Applecross | Perth | Maida Vale | Midland
+Applecross | Perth | Maida Vale | Armadale
 Araluen | Armadale | Malaga | Midland
 Ardross | Perth | Malmalling | Midland
 Armadale | Armadale | Mandogalup | Rockingham
@@ -16,190 +16,187 @@ Ashendon | Armadale | Marangaroo | Joondalup
 Ashfield | Midland | Mardella | Armadale
 Attadale | Fremantle | Mariginiup | Joondalup
 Atwell | Fremantle | Marmion | Joondalup
-Aubin Grove | Armadale | Marsurup | Mandurah
-Aveley | Midland | Martin | Armadale
-Bailup | Midland | Maylands | Perth
-Balcatta | Perth | Meadow Springs | Mandurah
-Baldivis | Rockingham | Medina | Rockingham
-Balga | Perth | Melaleuca | Joondalup
-Ballajura | Midland | Melville | Fremantle
-Banjup | Rockingham | Menora | Perth
-Banksia | Mandurah | Merriwa | Joondalup
-Banksia Grove | Joondalup | Middle Swan | Midland
-Barragup | Mandurah | Midland | Midland
-Baskerville | Midland | Midvale | Midland
-Bassendean | Midland | Millendon | Midland
-Bateman | Fremantle | Mindarie | Joondalup
-Bayswater | Perth | Mirrabooka | Perth
-Beaconsfield | Fremantle | Morley | Perth
-Beckenham | Perth | Mosman Park | Perth
-Bedford | Perth | Mount Helena | Midland
-Bedfordale | Armadale | Mt Claremont | Perth
-Beechboro | Midland | Mt Hawthorn | Perth
-Beechina | Midland | Mt Lawley | Perth
-Beeliar | Fremantle | Mt Nasura | Armadale
-Beldon | Joondalup | Mt Pleasant | Perth
-Belhus | Midland | Mt Richon | Armadale
-Bellevue | Midland | Mullaloo | Joondalup
-Belmont | Perth | Mundaring | Midland
-Bentley | Perth | Mundijong | Armadale
-Bertram | Rockingham | Munster | Fremantle
-Bibra Lake | Fremantle | Murdoch | Fremantle
-Bickley | Midland | Myaree | Fremantle
-Bicton | Fremantle | Myora | Mandurah
-Booragoon | Fremantle | Nanbeelup | Mandurah
-Bouvard | Mandurah | Naval Base | Rockingham
-Boya | Midland | Nedlands | Perth
-Brabham | Midland | Neerabup | Joondalup
-Brentwood | Fremantle | Newburn | Midland
-Brigadoon | Midland | Nirimba | Mandurah
-Brookdale | Armadale | Nollamara | Perth
-Bull Creek | Fremantle | Noranda | Perth
-Bullsbrook | Midland | North Beach | Perth
-Burns Beach | Joondalup | North Coogee | Fremantle
-Burrendah | Fremantle | North Dandalup | Mandurah
-Burswood | Perth | North Fremantle | Fremantle
-Butler | Joondalup | North Lake | Fremantle
-Byford | Armadale | North Perth | Perth
-Calista | Rockingham | North Shore | Joondalup
-Camillo (formerly Westfield) | Armadale | North Yunderup | Mandurah
-Canning Mills | Armadale | Northbridge | Perth
-Canning Vale | Armadale | Nowergup | Joondalup
-Cannington | Perth | O’Connor | Fremantle
-Carabooda | Joondalup | Oakford | Armadale
-Cardup | Armadale | Oakley | Mandurah
-Carilla | Midland | Ocean Reef | Joondalup
-Carine | Perth | Oldbury | Armadale
-Carlisle | Perth | Orange Grove | Armadale
-Carmel | Midland | Orelia | Rockingham
-Carramar | Joondalup | Osborne Park | Perth
-Casuarina | Rockingham | Padbury | Joondalup
-Caversham | Midland | Palmyra | Fremantle
-Challenger | Rockingham | Parkerville | Midland
-Champion Lakes | Armadale | Parkwood | Fremantle
-Chidlow | Midland | Parmelia | Rockingham
-Chittering | Midland | Paulls Valley | Midland
-Churchlands | Perth | Pearsall | Joondalup
-City Beach | Perth | Peel Estate | Rockingham
-Claremont | Perth | Peppermint Grove | Fremantle
-Clarkson | Joondalup | Peron | Rockingham
-Cloverdale | Perth | Perth Airport | Perth
-Como | Perth | Perth City | Perth
-Connolly | Joondalup | Piara Waters | Armadale
-Coodanup | Mandurah | Pickering Brook | Midland
-Coogee | Fremantle | Piesse Brook | Midland
-Coolbellup | Fremantle | Pinjar | Joondalup
-Coolbinia | Perth | Pinjarra | Mandurah
-Cooloongup | Rockingham | Point Gray | Mandurah
-Cottesloe | Perth | Port Kennedy | Rockingham
-Craigie | Joondalup | Postans | Rockingham
-Crawley | Perth | Pyrton | Midland
-Cullacabardee | Midland | Queens Park | Perth
-Currambine | Joondalup | Quinns Rock | Joondalup
-Daglish | Perth | Ravenswood | Mandurah
-Dalkeith | Perth | Red Hill | Midland
-Darch | Joondalup | Redcliffe | Perth
-Darling Downs | Armadale | Reservoir | Midland
-Darlington | Midland | Ridgewood | Joondalup
-Davis Park | Fremantle | Ridley Park | Mandurah
-Dawesville | Mandurah | Riverton | Perth
-Dayton | Midland | Rivervale | Perth
-Dianella | Perth | Rockingham | Rockingham
-Doubleview | Perth | Roleystone | Armadale
-Dudley Park | Mandurah | Rottnest Island | Fremantle
-Duncraig | Joondalup | Rossmoyne | Perth
-Dwellingup | Mandurah | Safety Bay | Rockingham
-East Cannington | Perth | Sale | Mandurah
-East Fremantle | Fremantle | Salter Point | Perth
-East Perth | Perth | Samson | Fremantle
-East Rockingham | Rockingham | San Remo | Mandurah
-East Victoria Park | Perth | Sawyers Valley | Midland
-Eden Hill | Midland | Scarborough | Perth
-Edgewater | Joondalup | Seaforth | Armadale
-Eglinton | Joondalup | Secret Harbour | Rockingham
-Ellenbrook | Midland | Serpentine | Armadale
-Ellis | Fremantle | Seville Grove | Armadale
-Embleton | Perth | Shelley | Perth
-Erskine | Mandurah | Shenton Park | Perth
-Fairbridge | Mandurah | Shoalwater | Rockingham
-Ferndale | Perth | Silver Sands | Mandurah
-Floreat | Perth | Sinagra | Joondalup
-Forrestdale | Armadale | Singleton | Mandurah
-Forrestfield | Midland | Sorrento | Joondalup
-Fremantle | Fremantle | South Beach | Fremantle
-Furnissdale | Mandurah | South Coogee | Fremantle
-Gidgegannup | Midland | South Fremantle | Fremantle
-Girrawheen | Joondalup | South Guildford | Midland
-Glen Forrest | Midland | South Lake | Fremantle
-Glendalough | Perth | South Perth | Perth
-Gleneagle | Armadale | South Yunderup | Mandurah
-Glengarry | Joondalup | Southern River | Armadale
-Gnangara | Joondalup | Southwell | Fremantle
-Golden Bay | Mandurah | Spearwood | Fremantle
-Golden Bay | Rockingham | St Andrews | Joondalup
-Gooseberry Hill | Midland | St James | Perth
-Gorrie | Midland | Stakehill | Mandurah
-Gosnells | Armadale | Stirling | Perth
-Graylands | Perth | Stoneville | Midland
-Greenfields | Mandurah | Stratton | Midland
-Greenmount | Midland | Subiaco | Perth
-Greenwood | Joondalup | Success | Fremantle
-Guildford | Midland | Swan View | Midland
-Gwelup | Perth | Swanbourne | Perth
-Hacketts Gully | Midland | Tamala Park | Joondalup
-Halls Head | Mandurah | Tapping | Joondalup
-Hamersley | Perth | The Lakes | Midland
-Hamilton Hill | Fremantle | The Spectacles | Rockingham
-Hammond Park | Fremantle | The Vines | Midland
-Harrisdale | Armadale | Thompson Lake | Fremantle
-Haynes | Armadale | Thornlie | Armadale
-Hazelmere | Midland | Trigg | Perth
-Heathridge | Joondalup | Tuart Hill | Perth
-Helena Valley | Midland | Two Rocks | Joondalup
-Henderson | Fremantle | Upper Swan | Midland
-Henley Brook | Midland | Victoria Park | Perth
-Herdsman | Perth | Viveash | Midland
-Herne Hill | Midland | Waikiki | Rockingham
-High Wycombe | Midland | Walliston | Midland
-Highgate | Perth | Wandi | Rockingham
-Hilbert | Armadale | Wangara | Joondalup
-Hillarys | Joondalup | Wannanup | Mandurah
-Hillman | Rockingham | Wanneroo | Joondalup
-Hilton | Fremantle | Warnbro | Rockingham
-Hocking | Joondalup | Warwick | Joondalup
-Hope Valley | Rockingham | Waterford | Perth
-Hopeland | Rockingham | Watermans Bay | Perth
-Hovea | Midland | Wattle Grove | Midland
-Huntingdale | Armadale | Wattleup | Fremantle
-Iluka | Joondalup | Wellard | Rockingham
-Inglewood | Perth | Welshpool | Perth
-Innaloo | Perth | Wembley | Perth
-Jandabup | Joondalup | Wembley Downs | Perth
-Jandakot | Fremantle | West Leederville | Perth
-Jane Brook | Midland | West Perth | Perth
-Jarrahdale | Armadale | West Pinjarra | Mandurah
-Jindalee | Joondalup | West Swan | Midland
-Jolimont | Perth | Westfield | Armadale
-Joondalup | Joondalup | Westminster | Perth
-Joondanna | Perth | Wexcombe | Midland
-Kalamunda | Midland | Whitby | Armadale
-Kallaroo | Joondalup | White Gum Valley | Fremantle
-Karawara | Perth | Whiteman | Midland
-Kardinya | Fremantle | Whitfords | Joondalup
-Karnup | Rockingham | Whittaker | Mandurah
-Karragullen | Armadale | Willagee | Fremantle
-Karrakatta | Perth | Willetton | Perth
-Karrakup | Armadale | Wilson | Perth
-Karrinyup | Perth | Winthrop | Fremantle
-Kelmscott | Armadale | Woodbridge | Midland
-Kensington | Perth | Woodlands | Perth
-Kenwick | Perth | Woodman Point | Fremantle
-Kewdale | Perth | Woodvale | Joondalup
-Keysbrook | Armadale | Wooroloo | Midland
-Kiara | Midland | Wungong | Armadale
-Kings Park | Perth | Yanchep | Joondalup
-Kingsley | Joondalup | Yangebup | Fremantle
-Kinross | Joondalup | Yokine | Perth
+Aubin Grove | Armadale | Martin | Armadale
+Aveley | Midland | Maylands | Perth
+Bailup | Midland | Meadow Springs | Mandurah
+Balcatta | Perth | Medina | Rockingham
+Baldivis | Rockingham | Melaleuca | Joondalup
+Balga | Perth | Melville | Fremantle
+Ballajura | Midland | Menora | Perth
+Banjup | Rockingham | Merriwa | Joondalup
+Banksia | Mandurah | Middle Swan | Midland
+Banksia Grove | Joondalup | Midland | Midland
+Barragup | Mandurah | Midvale | Midland
+Baskerville | Midland | Millendon | Midland
+Bassendean | Midland | Mindarie | Joondalup
+Bateman | Fremantle | Mirrabooka | Perth
+Bayswater | Perth | Morley | Perth
+Beaconsfield | Fremantle | Mosman Park | Perth
+Beckenham | Armadale | Mount Claremont | Perth
+Bedford | Perth | Mount Hawthorn | Perth
+Bedfordale | Armadale | Mount Helena | Midland
+Beechboro | Midland | Mount Lawley | Perth
+Beechina | Midland | Mount Nasura | Armadale
+Beeliar | Fremantle | Mount Pleasant | Perth
+Beldon | Joondalup | Mount Richon | Armadale
+Belhus | Midland | Mullaloo | Joondalup
+Bellevue | Midland | Mundaring | Midland
+Belmont | Perth | Mundijong | Armadale
+Bentley | Armadale | Munster | Fremantle
+Bertram | Rockingham | Murdoch | Fremantle
+Bibra Lake | Fremantle | Myara | Mandurah
+Bickley | Armadale | Myaree | Fremantle
+Bicton | Fremantle | Nambeelup | Mandurah
+Booragoon | Fremantle | Naval Base | Rockingham
+Bouvard | Mandurah | Nedlands | Perth
+Boya | Midland | Neerabup | Joondalup
+Brabham | Midland | Nirimba | Mandurah
+Brentwood | Fremantle | Nollamara | Perth
+Brigadoon | Midland | Noranda | Perth
+Brookdale | Armadale | North Beach | Perth
+Bull Creek | Fremantle | North Coogee | Fremantle
+Bullsbrook | Midland | North Dandalup | Mandurah
+Burns Beach | Joondalup | North Fremantle | Fremantle
+Burrendah | Fremantle | North Lake | Fremantle
+Burswood | Perth | North Perth | Perth
+Butler | Joondalup | North Yunderup | Mandurah
+Byford | Armadale | Northbridge | Perth
+Calista | Rockingham | Nowergup | Joondalup
+Camillo | Armadale | O’Connor | Fremantle
+Canning Mills | Armadale | Oakford | Armadale
+Canning Vale | Armadale | Oakley | Mandurah
+Cannington | Armadale | Ocean Reef | Joondalup
+Carabooda | Joondalup | Oldbury | Armadale
+Cardup | Armadale | Orange Grove | Armadale
+Carine | Perth | Orelia | Rockingham
+Carlisle | Perth | Osborne Park | Perth
+Carmel | Armadale | Padbury | Joondalup
+Carramar | Joondalup | Palmyra | Fremantle
+Casuarina | Rockingham | Parkerville | Midland
+Caversham | Midland | Parkwood | Armadale
+Challenger | Rockingham | Parmelia | Rockingham
+Champion Lakes | Armadale | Paulls Valley | Armadale
+Chidlow | Midland | Pearsall | Joondalup
+Chittering | Midland | Peppermint Grove | Fremantle
+Churchlands | Perth | Peron | Rockingham
+City Beach | Perth | Perth | Perth
+Claremont | Perth | Perth Airport | Perth
+Clarkson | Joondalup | Piara Waters | Armadale
+Cloverdale | Perth | Pickering Brook | Armadale
+Como | Perth | Piesse Brook | Armadale
+Connolly | Joondalup | Pinjar | Joondalup
+Coodanup | Mandurah | Pinjarra | Mandurah
+Coogee | Fremantle | Point Grey | Mandurah
+Coolbellup | Fremantle | Port Kennedy | Rockingham
+Coolbinia | Perth | Postans | Rockingham
+Cooloongup | Rockingham | Pyrton | Midland
+Cottesloe | Perth | Queens Park | Armadale
+Craigie | Joondalup | Quinns Rocks | Joondalup
+Crawley | Perth | Ravenswood | Mandurah
+Cullacabardee | Midland | Red Hill | Midland
+Currambine | Joondalup | Redcliffe | Perth
+Daglish | Perth | Reservoir | Armadale
+Dalkeith | Perth | Ridgewood | Joondalup
+Darch | Joondalup | Riverton | Armadale
+Darling Downs | Armadale | Rivervale | Perth
+Darlington | Midland | Rockingham | Rockingham
+Davis Park | Fremantle | Roleystone | Armadale
+Dawesville | Mandurah | Rossmoyne | Armadale
+Dayton | Midland | Rottnest Island | Fremantle
+Dianella | Perth | Safety Bay | Rockingham
+Doubleview | Perth | Salter Point | Perth
+Dudley Park | Mandurah | Samson | Fremantle
+Duncraig | Joondalup | San Remo | Mandurah
+Dwellingup | Mandurah | Sawyers Valley | Midland
+East Cannington | Armadale | Scarborough | Perth
+East Fremantle | Fremantle | Secret Harbour | Rockingham
+East Perth | Perth | Serpentine | Armadale
+East Rockingham | Rockingham | Seville Grove | Armadale
+East Victoria Park | Perth | Shelley | Armadale
+Eden Hill | Midland | Shenton Park | Perth
+Edgewater | Joondalup | Shoalwater | Rockingham
+Eglinton | Joondalup | Silver Sands | Mandurah
+Ellenbrook | Midland | Sinagra | Joondalup
+Ellis | Fremantle | Singleton | Mandurah
+Embleton | Perth | Sorrento | Joondalup
+Erskine | Mandurah | South Fremantle | Fremantle
+Fairbridge | Mandurah | South Guildford | Midland
+Ferndale | Armadale | South Lake | Fremantle
+Floreat | Perth | South Perth | Perth
+Forrestdale | Armadale | South Yunderup | Mandurah
+Forrestfield | Armadale | Southern River | Armadale
+Fremantle | Fremantle | Spearwood | Fremantle
+Furnissdale | Mandurah | Stake Hill | Mandurah
+Gidgegannup | Midland | Stirling | Perth
+Girrawheen | Joondalup | St James | Armadale
+Glen Forrest | Midland | Stoneville | Midland
+Glendalough | Perth | Stratton | Midland
+Gleneagle | Armadale | Subiaco | Perth
+Glengarry | Joondalup | Success | Fremantle
+Gnangara | Joondalup | Swan View | Midland
+Golden Bay | Mandurah | Swanbourne | Perth
+Gooseberry Hill | Armadale | Tamala Park | Joondalup
+Gorrie | Midland | Tapping | Joondalup
+Gosnells | Armadale | The Lakes | Midland
+Greenfields | Mandurah | The Spectacles | Rockingham
+Greenmount | Midland | The Vines | Midland
+Greenwood | Joondalup | Thornlie | Armadale
+Guildford | Midland | Treeby | Fremantle
+Gwelup | Perth | Trigg | Perth
+Hacketts Gully | Armadale | Tuart Hill | Perth
+Halls Head | Mandurah | Two Rocks | Joondalup
+Hamersley | Perth | Upper Swan | Midland
+Hamilton Hill | Fremantle | Victoria Park | Perth
+Hammond Park | Fremantle | Viveash | Midland
+Harrisdale | Armadale | Waikiki | Rockingham
+Haynes | Armadale | Walliston | Armadale
+Hazelmere | Midland | Wandi | Rockingham
+Heathridge | Joondalup | Wangara | Joondalup
+Helena Valley | Midland | Wannanup | Mandurah
+Henderson | Fremantle | Wanneroo | Joondalup
+Henley Brook | Midland | Warnbro | Rockingham
+Herdsman | Perth | Warwick | Joondalup
+Herne Hill | Midland | Waterford | Perth
+High Wycombe | Armadale | Watermans Bay | Perth
+Highgate | Perth | Wattle Grove | Armadale
+Hilbert | Armadale | Wattleup | Fremantle
+Hillarys | Joondalup | Wellard | Rockingham
+Hillman | Rockingham | Welshpool | Perth
+Hilton | Fremantle | Wembley | Perth
+Hocking | Joondalup | Wembley Downs | Perth
+Hope Valley | Rockingham | West Leederville | Perth
+Hopeland | Rockingham | West Perth | Perth
+Hovea | Midland | West Pinjarra | Mandurah
+Huntingdale | Armadale | West Swan | Midland
+Iluka | Joondalup | Westminster | Perth
+Inglewood | Perth | Whitby | Armadale
+Innaloo | Perth | White Gum Valley | Fremantle
+Jandabup | Joondalup | Whiteman | Midland
+Jandakot | Fremantle | Whittaker | Mandurah
+Jane Brook | Midland | Willagee | Fremantle
+Jarrahdale | Armadale | Willetton | Armadale
+Jindalee | Joondalup | Wilson | Armadale
+Jolimont | Perth | Winthrop | Fremantle
+Joondalup | Joondalup | Woodbridge | Midland
+Joondanna | Perth | Woodlands | Perth
+Kalamunda | Armadale | Woodvale | Joondalup
+Kallaroo | Joondalup | Wooroloo | Midland
+Karawara | Perth | Wungong | Armadale
+Kardinya | Fremantle | Yanchep | Joondalup
+Karnup | Rockingham | Yangebup | Fremantle
+Karragullen | Armadale | Yokine | Perth
+Karrakatta | Perth
+Karrakup | Armadale
+Karrinyup | Perth
+Kelmscott | Armadale
+Kensington | Perth
+Kenwick | Armadale
+Kewdale | Perth
+Keysbrook | Armadale
+Kiara | Midland
+Kings Park | Perth
+Kingsley | Joondalup
+Kinross | Joondalup
 Koondoola | Joondalup
 Koongamia | Midland
 Kwinana | Rockingham
@@ -207,14 +204,14 @@ Kwinana Beach | Rockingham
 Kwinana Town Centre | Rockingham
 Lakelands | Mandurah
 Landsdale | Joondalup
-Langford | Fremantle
+Langford | Armadale
 Lathlain | Perth
 Leda | Rockingham
 Leederville | Perth
 Leeming | Fremantle
-Leighton | Fremantle
-Lesmurdie | Midland
+Lesley | Armadale
+Lesmurdie | Armadale
 Lexia | Midland
 Lockridge | Midland
-Lynwood | Fremantle
-[Schedule 1 inserted: Gazette 11 Mar 2014 p. 576-82.]
+Lynwood | Armadale
+[Schedule 1 inserted: Gazette 11 Mar 2014 p. 576-82; amended: SL 2022/180 r. 10.]
