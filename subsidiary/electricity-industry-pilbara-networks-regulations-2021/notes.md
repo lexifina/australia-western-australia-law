@@ -1,16 +1,21 @@
 Notes
-This is a compilation of the Electricity Industry (Pilbara Networks) Regulations 2021. For provisions that have come into operation see the compilation table.
+This is a compilation of the Electricity Industry (Pilbara Networks) Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Electricity Industry (Pilbara Networks) Regulations 2021 | SL 2021/95 18 Jun 2021 | Pt. 1: 18 Jun 2021 (see r. 2(a)); Regulations other than Pt. 1: 19 Jun 2021 (see r. 2(b))
+Electricity Industry (Pilbara Networks) Amendment Regulations 2022 | SL 2022/183 4 Nov 2022 | r. 1 and 2: 4 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 act or omission28
 amend3
 amending rules3
+arrangement16A(1)
+authorised person16A(1)
 cap29(4), 30(4)
+commencement day16A(1)
 Coordinator3
+done16A(1)
 empowered person17(1)
 high-voltage connection3
 high-voltage contract20
@@ -23,10 +28,13 @@ payer23(1)
 payment obligation23(1)
 personal injury20
 Pilbara offence34(1)
+registered controller16A(1)
+registered NSP16A(1)
 related body corporate20
 relevant act or omission29(3), 30(3)
 relevant contract24(1)
 relevant entity24(1), 29(3), 30(3)
+relevant event16A(2)
 sophisticated party20
 system management function20
 under23(1)
