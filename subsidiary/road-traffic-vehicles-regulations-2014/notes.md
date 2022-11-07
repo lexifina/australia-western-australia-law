@@ -41,10 +41,11 @@ Road Traffic (Vehicles) Amendment Regulations (No. 3) 2022 | SL 2022/57 20 May 2
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 5 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 5) 2022 | SL 2022/130 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 4) 2022 | SL 2022/149 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 r. 1-3, 5, 13(4) and 15-20 | SL 2022/174 21 Oct 2022 | r. 1 and 2: 21 Oct 2022 (see r. 2(a)); r. 3, 5, 13(4) and 15-20: 7 Nov 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 r. 3-20 | SL 2022/174 21 Oct 2022 | r. 3, 5, 13(4) and 15-20: 7 Nov 2022 (see r. 2(b)); Regulations other than r. 1-3, 5, 13(4) and 15-20: 7 Nov 2023 (see r. 2(c))
+Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 (other than r. 1-3, 5, 13(4) and 15-20) | SL 2022/174 21 Oct 2022 | 7 Nov 2023 (see r. 2(c))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
