@@ -31,6 +31,7 @@ Local Government (Administration) Amendment Regulations 2021 | SL 2021/14 2 Feb 
 Local Government (Model Code of Conduct) Regulations 2021 r. 5 | SL 2021/15 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Local Government Amendment (Employee Code of Conduct) Regulations 2021 Pt. 2 | SL 2021/16 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Local Government Regulations Amendment Regulations 2022 Pt. 2 (other than Div. 3) | SL 2022/177 2 Nov 2022 | 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Local Government (Administration) Amendment Regulations 2022 | SL 2022/185 8 Nov 2022 | r. 1 and 2: 8 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Nov 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -48,6 +49,8 @@ adopted standards18FB(1), 18FC(1)
 annual return29C(1)
 applicantSch. 2 cl. 2(1)
 associated person19AA
+Band 3 or 4 council or committee14E(1)
+Band 3 or 4 local government14E(1)
 client or adviser20(1)
 code of conduct3(1), 19AA
 commencement day28B(1), Sch. 2 cl. 13(1)
@@ -55,7 +58,6 @@ committee3(1)
 contract of employmentSch. 2 cl. 2(1)
 contractual performance criteriaSch. 2 cl. 2(1)
 corporate business plan19BA
-disability14A(4)
 electronic meeting14E(1)
 final annual remuneration19A(2)
 former Form 428B(1)
@@ -70,17 +72,18 @@ job description formSch. 2 cl. 2(1)
 local governmentSch. 2 cl. 2(1)
 local government employee19AA, 19AB(1), 19AC(1)
 local law as to conduct34D(1)
-meeting14C(1), 14D(1)
+meeting14C(1), 14CA(1), 14D(1)
 meeting details12(1)
+natural disaster14C(1)
 negotiated contractSch. 2 cl. 12(1)
 oversight entity29C(1)
 performance issuesSch. 2 cl. 22(2)
-person referred to in this regulation14B(4)
 plan for the future19DB(1)
 primary return29C(1)
 prohibited gift19AA
+proposed meeting14C(3), 14D(2A)
 public health emergency3(1)
-relevant period34AE(1)
+relevant period14C(1), 14D(1), 34AE(1)
 relevant person3(1)
 remuneration19B(1)
 resources of the local government19AE(1)
@@ -90,6 +93,4 @@ selection criteriaSch. 2 cl. 2(1)
 selection panelSch. 2 cl. 2(1)
 state of emergency3(1)
 strategic community plan19BA
-suitable place14A(4)
 threshold amount19AA
-townsite14A(4)
