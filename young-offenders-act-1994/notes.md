@@ -61,13 +61,13 @@ Industrial Relations Amendment Act 2018 s. 72 | 39 of 2018 | 12 Dec 2018 | 19 De
 Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 4 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 23 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 3 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 3 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -104,86 +104,103 @@ principal Act means the Young Offenders Act 1994.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Aboriginal community3
+Aboriginal community3(1)
 appeal11CA
 appellant11CA
 appropriate person23B(3)
 approved35
-attendance conditions3
+attendance conditions3(1)
 authorised person169A(7)
-Board131
-body sample3
+Board16B(1), 16C(1), 131, 142A(1), 150B
+body sample3(1)
+category 1 offender3(1)
+category 2 offender3(1)
 CEO (child welfare)15A(2)
+chairperson3(1)
 Chief Commissioner11CA
-chief executive officer3
+chief executive officer3(1)
 commencement day11CV(1)
-community work conditions3
+Commissioner of Police report3(1)
+Commonwealth Criminal Code3(1)
+community work conditions3(1)
 community work order63
-conditional release order3
+conditional release order3(1)
+confirmed control order3(1)
 contractor16(1)
 Coordinator35
 council17A
-court3
+court3(1), 16D(1)
 current offence124(1)
-custodial officer3
-decision notice11CA, 11CD(3)(b)
+current sentence3(1)
+custodial officer3(1)
+decision notice11CA, 11CD(3)
 defaulter65A(1)
-Department3
-detainee3, 188(1)
-detention3
-detention centre3
+Department3(1)
+detainee3(1), 188(1)
+detention3(1)
+detention centre3(1)
 detention order63
-earliest release day3
-exempt responsible adult3
+disclosure requirement16D(1)
+earliest release day3(1)
+exempt responsible adult3(1)
 fine63
 first sentence123(1)
 former provisions234(1), 235(1)
-general principles of juvenile justice3
-imprisonment3
-independent young person3
+general principles of juvenile justice3(1)
+imprisonment3(1)
+independent young person3(1)
 industrial commissioner11CA
 infringement notice25(3)
-intensive youth supervision order3
-lawyer37A(1)
-lock-up3
+intensive youth supervision order3(1)
+interim control order3(1)
+lock-up3(1)
 maintenance payment11CA, 11CE(1)
 maintenance period11CA, 11CE(1)
 medical officer179(1)
 medical treatment179(1)
 monitor17A
 new evidence11CA
-notice to attend court3
-offender50(1), 50A(1), 50B(1)
-original offence83(2)(c)
+notice to attend court3(1)
+notifiable information165A(3)
+offender50(1), 50A(1), 50B(1), 150F(1)
+offender with links to terrorism3(1)
+original offence83(2)
 party32(3)
+prohibited act3(2)
+protected information165A(1)
 public authority16(1)
-registrar of the court3
+registrar of the court3(1)
+release considerations150A
 relevant day127(1)
 relevant information16(1)
 removal action11CA
 removal decision11CA
-remove3
+remove3(1)
 research16(1)
-responsible adult3, 58(1)
-Schedule 1 offence3
-Schedule 2 offence3
+responsible adult3(1), 58(1)
+Schedule 1 offence3(1)
+Schedule 2 offence3(1)
 second sentence123(1)
 Secretary131
-sentence 1124(1)(a)
-sentence 2124(1)(b)
+sensitive information165A(1)
+sentence 1124(1)
+sentence 2124(1)
 sentencing court129(1)
 serious offence124(3)
-special order3
+special order3(1)
 submission period11CD(2)
 suitability to continue as a custodial officer11CA
-superintendent3
+superintendent3(1)
 supervise17A
-supervised release order3
-supervision conditions3
+supervised release order3(1)
+supervision conditions3(1)
+terrorism offence3(1)
+terrorist act3(1)
+terrorist intelligence information3(1)
 victim31(1), 133(3)
 WAIRC11CA
 welfare agency15A(2)
-work3
+work3(1)
 written reasons120(3)
-young person3
-youth community based order3
+young person3(1)
+youth community based order3(1)

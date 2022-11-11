@@ -26,11 +26,11 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 D
 High Risk Serious Offenders Act 2020 Pt. 9 Div. 4 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Family Violence Legislation Reform Act 2020 Pt. 4 (other than s. 37) | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(ii))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 61 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 2 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2020 s. 37 | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
-Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 2 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
@@ -76,17 +76,23 @@ TheFamily Violence Legislation Reform Act 2020 s. 37 will not come into operatio
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+additional release considerations66F
 approved electronic monitoring device4(2)
 authorised person108(1)
-Board4(2)
+Board4(2), 12C, 66E, 67A(1), 119A(1), 119B(1)
 breach74A
 cancelled PSSO74A, 74K(1)
+category 1 prisoner4(2)
+category 2 prisoner4(2)
 CCO4(3)
 centre75, 83
 CEO4(2)
+chairperson4(2)
 combined report12B(1)
 commencement123
 commencement day129(1)
+Commissioner of Police report4(2)
+Commonwealth Criminal Code4(2)
 community4(2)
 community corrections activities4(2)
 community corrections centre4(2)
@@ -94,11 +100,15 @@ community corrections officer4(2)
 community corrections order75, 83
 community order4(2)
 conditional suspended imprisonment4(2)
+confirmed control order4(2)
 contractor97B(1)
+court119C(1)
 CSI4(3)
+current sentence4(2)
 departmental staff4(2)
 designated family relationship4(2)
 designated prisoner14B
+disclosure requirement119C(1)
 early release order4(2)
 family violence offence4(2)
 first relevant offence14B
@@ -112,29 +122,34 @@ Governor’s pleasure detainee4(2)
 homicide offence66A
 homicide related offence66A
 honorary CCO4(2)
+interim control order4(2)
 intimate personal relationship4(2A)
 memberSch. 1 cl. 1
 minimum hours requirement78(1)
 monitoring equipment118(1)
 non-parole period7(1)
 notice84(3)
+notifiable information112A(3)
 offender76(1), 78(1), 83
 parole order4(2)
 parole order (unsupervised)4(2)
 post-sentence supervision order4(2)
 pre-1996 prisoner123
 prescribed prisoner23(1)
-prisoner4(2), 11A(1), 13(1), 14(1), 19, 25(1), 74A
+prisoner4(2), 11A(1), 13(1), 14(1), 19, 25(1), 66J, 74A
 prisoner management report11A(2)
+prisoner with links to terrorism4(2)
+prohibited act4(2C)
+protected information112A(1)
 PSSO4(3)
 PSSO considerations74A
 PSSO period74A, 74E(2)
 public authority97B(1)
 re-entry release order4(2)
 release4(2)
-release action66A
+release action66A, 66D, 112A(1)
 release considerations4(2), 5A
-release decision66A
+release decision66A, 66D, 112A(1)
 relevant information97B(1)
 relevant offence14B
 relevant prisoner66A
@@ -145,6 +160,7 @@ re-socialisation programme4(2)
 reviewable decision115A(1)
 RRO4(3)
 Schedule 3 prisoner4(2)
+sensitive information112A(1)
 sentence4(2)
 serial family violence offender4(2)
 serious offence4(2), 74A
@@ -152,6 +168,9 @@ serious offender under restriction74A
 service provider97B(1)
 supervised offender4(2), 74E(1)
 T69(6)
+terrorism offence4(2)
+terrorist act4(2)
+terrorist intelligence information4(2)
 transitional period123
 victim4(2), 5D(1)
 victim’s submission4(2), 5C(1)

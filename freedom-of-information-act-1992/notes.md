@@ -52,12 +52,12 @@ Declared Places (Mentally Impaired Accused) Act 2015 s. 86 | 4 of 2015 | 3 Mar 2
 Reprint 7: The Freedom of Information Act 1992 as at 11 Nov 2016 (includes amendments listed above)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 16 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 High Risk Serious Offenders Act 2020 Pt. 9 Div. 3 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 5 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 5 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Health and Disability Services (Complaints) Amendment Act 2022 s. 44 | 35 of 2022 | 28 Oct 2022 | To be proclaimed (see s. 2(b))
 Charitable Trusts Act 2022 s. 58 | 38 of 2022 | 1 Nov 2022 | To be proclaimed (see s. 2(b))
 Other notes
