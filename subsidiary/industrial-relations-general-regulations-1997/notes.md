@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industrial Relations (General) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Industrial Relations (General) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Industrial Relations (General) Regulations 1997 | 30 Sep 1997 p. 5440-1 | 17 Oct 1997 (see r. 2 and Gazette 30 Sep 1997 p. 5415)
@@ -9,6 +9,10 @@ Reprint 1: The Industrial Relations (General) Regulations 1997 as at 10 Sep 2004
 Industrial Relations (General) Amendment Regulations 2009 | 31 Jul 2009 p. 3026 | r. 1 and 2: 31 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2009 (see r. 2(b))
 Industrial Relations (General) Amendment Regulations 2014 | 27 Jun 2014 p. 2332 | 1 Jul 2014 (see r. 2 and Gazette 27 Jun 2014 p. 2301)
 Industrial Relations Regulations (Consequential Amendments) Regulations 2022 Pt. 3 | SL 2022/100 17 Jun 2022 | 20 Jun 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Industrial Relations (General) Amendment Regulations 2022 r. 3-5 | SL 2022/196 18 Nov 2022 | 1 Jan 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
