@@ -17,6 +17,7 @@ Restraining Orders Amendment Regulations (No. 2) 2017 | 24 Nov 2017 p. 5678-9 | 
 Restraining Orders Amendment Regulations 2020 | SL 2020/63 22 May 2020 | r. 1 and 2: 22 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 23 May 2020 (see r. 2(b))
 Restraining Orders Amendment Regulations (No. 2) 2020 | SL 2020/258 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
 Restraining Orders Amendment Regulations 2022 | SL 2022/146 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
+Attorney General Regulations Amendment (Firearms) Regulations 2022 Pt. 3 | SL 2022/189 18 Nov 2022 | 19 Nov 2022 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
