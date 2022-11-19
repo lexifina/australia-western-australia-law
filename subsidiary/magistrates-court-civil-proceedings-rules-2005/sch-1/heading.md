@@ -41,16 +41,19 @@ Applicant [If not the person seeking to be protected] | Family name: | Date of b
 Other names:
 Address:street: suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Person seeking to be protected (victim of offence if s. 13A applies) | Family name: | Date of birth:
 Other names:
 Address:street:
 suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Respondent [Fill in as many details as you can] (Offender if s. 13A applies) | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Grounds for application | Set out details of the evidence in support of your application.
 Offence details (if s. 13A applies) | This is to be completed where the respondent has been convicted of an offence referred to in section 63(4AA)(a) or 63A(1A).
 Date of offence:
@@ -62,8 +65,8 @@ If yes, has this application been made with the written consent of a person who,
 Is the respondent a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
 Is the respondent under 16 years of age? | r Yes r No r Unknown
 If the respondent is under 16 years of age, is the person seeking to be protected any of the following: Ÿa parent or guardian of the respondent; Ÿa person responsible for the day to day care of the respondent; Ÿa person with whom the respondent habitually resides? | r Yes r No
-Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
-Does the respondent have access to a firearm at work? | r Yes r No r Unknown
+Firearms | Does the respondent have a firearm item or firearms authorisation? | r Yes r No r Unknown
+Does the respondent have access to a firearm item at work? | r Yes r No r Unknown
 Explosives | Does the respondent have explosives or an explosives licence? | r Yes r No r Unknown
 Does the respondent have access to explosives at work? | r Yes r No r Unknown
 Police incident [Reference number to be inserted, if applicable]
@@ -72,27 +75,28 @@ Conference | Do you agree to the listing of a conference?* *[Applies only if con
 Applicant [Not essential if lodged by means of the ECMS or if applicant is a police officer] | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
 Approved user to certify applicant’s declaration [If applicable] | I [Insert name of approved user] certify that I have read out to the applicant the information the applicant provided to me that forms the evidence in support of this application, and the applicant has declared that the information is true.
-[Form 1 inserted: SL 2020/141 r. 10; amended: SL 2022/15 r. 4(1).]
+[Form 1 inserted: SL 2020/141 r. 10; amended: SL 2022/15 r. 4(1); SL 2022/188 r. 4(1).]
 Form 2 — Family violence restraining order
 Part A — Family violence restraining order
- | Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Family violence restraining order |  | Number:
- | Jurisdiction:
- | Location:
- | Person who is bound by this order | Family name: | Date of birth:
- | Other names:
- | Homestreet: address:suburb:postcode:
- | Workstreet: address:suburb:postcode:
- | Phone nos.:work:home: mobile:
- | Applicant for the order [If not the person to be protected] | Family name: | Date of birth:
- | Other names:
- | Person protected | Family name: | Date of birth:
- | Other names:
- | Type of order | The order isr for 72 hours or lessr an interim orderr a final order
- | Terms of this order
- | Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful:
+Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Family violence restraining order |  | Number:
+Jurisdiction:
+Location:
+Person who is bound by this order | Family name: | Date of birth:
+Other names:
+Homestreet: address:suburb:postcode:
+Workstreet: address:suburb:postcode:
+Phone nos.:work:home: mobile:
+Email:
+Applicant for the order [If not the person to be protected] | Family name: | Date of birth:
+Other names:
+Person protected | Family name: | Date of birth:
+Other names:
+Type of order | The order isr for 72 hours or lessr an interim orderr a final order
+Terms of this order
+Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful:
 THIS IS A NATIONALLY RECOGNISED ORDER
- | Order made | Date order made: | Time order made:
- | Registrar |  | Date:
+Order made | Date order made: | Time order made:
+Registrar |  | Date:
 Form 2 — Family violence restraining order
 Part B — Information to be on the copy of order given to the person who is bound by the order
 IMPORTANT INFORMATION FOR PERSON BOUND BY THIS ORDER
@@ -126,11 +130,12 @@ Order | Restraining order no.: | Court of issue:
 Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
+Email:
 Do you agree to the listing of a conference?*r Yesr No *[Applies only if conferences are available at your court.]
 Will you be represented by a legal practitioner at a conference or the final order hearing? r Yesr No
 If yes:legal practitioner’s name: legal practitioner’s firm:
 How many witnesses (including yourself) do you intend to call? _________________
-Does this interim order prevent you from — •going to where you normally live?r Yesr No •having contact with your children?r Yesr No •going to where you work or otherwise prevent you from doing your job?r Yesr No •being in possession of a firearm which is essential for your job?r Yesr No •being in possession of explosives which are essential for your job?r Yesr No
+Does this interim order prevent you from — •going to where you normally live?r Yesr No •having contact with your children?r Yesr No •going to where you work or otherwise prevent you from doing your job?r Yesr No •being in possession of a firearm item which is essential for your job?r Yesr No •being in possession of explosives which are essential for your job?r Yesr No
 Signature: | Date:
 OR
 Consent
@@ -138,6 +143,7 @@ Order | Restraining order no.: | Court of issue:
 Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
+Email:
 I do not object to a final order being made on the same terms as this interim order. I understand that I will then not need to attend a final order hearing and that this interim order will automatically become a final order which will stay in force for — (a)the period specified in the order; or (b)if no period is specified and I am not a child, for 2 years from the date on which this order was served on me; or (c)if no period is specified and I am a child, for 6 months from the date on which this order was served on me. If I was in prison at the time this order was served on me, the order will stay in force (while I am in prison and on release) for the period specified in the order. If the duration of the order is not specified, the order will stay in force for 2 years from the date on which I am released from prison.
 Signature: | Date:
 Form 2 — Family violence restraining order
@@ -194,7 +200,7 @@ Current proceedings for family order | Court: | Family Court matter no.:
 Terms of family order being sought which relate to the respondent’s rights in relation to children:
 Are these terms of the order being opposed?r Yesr Nor Unknown
 Applicant | Signature: | Date:
-[Form 2 inserted: Gazette 20 Jun 2017 p. 2996-3004; amended: Gazette 24 Nov 2017 p. 5674; SL 2020/54 r. 10; SL 2020/141 r. 11, 23 and 24; SL 2022/106 r. 4.]
+[Form 2 inserted: Gazette 20 Jun 2017 p. 2996-3004; amended: Gazette 24 Nov 2017 p. 5674; SL 2020/54 r. 10; SL 2020/141 r. 11, 23 and 24; SL 2022/106 r. 4; SL 2022/188 r. 4(2).]
 Form 3 — Conduct agreement order
 Part A — Conduct agreement order
  | Restraining Orders Act 1997 s. 10H and 43 Conduct agreement order |  | Number:
@@ -304,16 +310,19 @@ Applicant [If not the person seeking to be protected] | Family name: | Date of b
 Other names:
 Address:street: suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Person seeking to be protected (victim of offence if s. 13A applies) | Family name: | Date of birth:
 Other names:
 Address:street:
 suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Respondent [Fill in as many details as you can] (Offender if s. 13A applies) | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Grounds for application | Set out details of the evidence in support of your application.
 Offence details (if s. 13A applies) | This is to be completed where the respondent has been convicted of an offence referred to in section 63(4AA)(a) or 63A(1A).
 Date of offence:
@@ -325,8 +334,8 @@ If yes, has this application been made with the written consent of a person who,
 Is the respondent a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
 Is the respondent under 16 years of age? | r Yes r No r Unknown
 If the respondent is under 16 years of age, is the person seeking to be protected any of the following: Ÿa parent or guardian of the respondent; Ÿa person responsible for the day to day care of the respondent; Ÿa person with whom the respondent habitually resides? | r Yes r No
-Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
-Does the respondent have access to a firearm at work? | r Yes r No r Unknown
+Firearms | Does the respondent have a firearm item or firearms authorisation? | r Yes r No r Unknown
+Does the respondent have access to a firearm item at work? | r Yes r No r Unknown
 Explosives | Does the respondent have explosives or an explosives licence? | r Yes r No r Unknown
 Does the respondent have access to explosives at work? | r Yes r No r Unknown
 Police incident [Reference number to be inserted, if applicable]
@@ -334,26 +343,27 @@ First hearing | Do you want the respondent to be present at the first hearing? |
 Applicant [Not essential if lodged by means of the ECMS or if applicant is a police officer] | Signature: | Date:
 Hearing [To be filled in by the court] | Court: | Date: | Time:
 Approved user to certify applicant’s declaration [If applicable] | I [Insert name of approved user] certify that I have read out to the applicant the information the applicant provided to me that forms the evidence in support of this application, and the applicant has declared that the information is true.
-[Form 5 inserted: SL 2020/141 r. 14; amended: SL 2022/15 r. 4(1).]
+[Form 5 inserted: SL 2020/141 r. 14; amended: SL 2022/15 r. 4(1); SL 2022/188 r. 4(3).]
 Form 6 — Violence restraining order
 Part A — Violence restraining order
-Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Violence restraining order |  | Number:
-Jurisdiction:
-Location:
+ | Restraining Orders Act 1997 s. 29, 32, 43, 49 and 63 Violence restraining order |  | Number:
+ | Jurisdiction:
+ | Location:
 Person who is bound by this order | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home: mobile:
-Applicant for the order [If not the person to be protected] | Family name: | Date of birth:
-Other names:
-Person protected | Family name: | Date of birth:
-Other names:
-Type of order | The order isr for 72 hours or lessr an interim orderr a final order
-Terms of this order
-Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful —
-Order made | Date order made: | Time order made:
-Registrar |  | Date:
+Email
+ | Applicant for the order [If not the person to be protected] | Family name: | Date of birth:
+ | Other names:
+ | Person protected | Family name: | Date of birth:
+ | Other names:
+ | Type of order | The order isr for 72 hours or lessr an interim orderr a final order
+ | Terms of this order
+ | Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful —
+ | Order made | Date order made: | Time order made:
+ | Registrar |  | Date:
 Form 6 — Violence restraining order
 Part B — Information to be on the copy of order given to the person who is bound by the order
 IMPORTANT INFORMATION FOR PERSON BOUND BY THIS ORDER
@@ -380,10 +390,11 @@ Order | Restraining order no.: | Court of issue:
 Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
+Email:
 Will you be represented by a legal practitioner at the final order hearing?r Yesr No
 If yes:legal practitioner’s name: legal practitioner’s firm:
 How many witnesses (including yourself) do you intend to call? _________________
-Does this interim order prevent you from — •going to where you normally live?r Yesr No •going to where you work or otherwise prevent you from doing your job?r Yesr No •being in possession of a firearm which is essential for your job?r Yesr No •being in possession of explosives which are essential for your job?r Yesr No
+Does this interim order prevent you from — •going to where you normally live?r Yesr No •going to where you work or otherwise prevent you from doing your job?r Yesr No •being in possession of a firearm item which is essential for your job?r Yesr No •being in possession of explosives which are essential for your job?r Yesr No
 Signature: | Date:
 OR
 Consent
@@ -391,6 +402,7 @@ Order | Restraining order no.: | Court of issue:
 Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
+Email:
 I do not object to a final order being made on the same terms as this interim order. I understand that I will then not need to attend a final order hearing and that this interim order will automatically become a final order which will stay in force for the period specified in the order or — (a)if no period is specified and I am not a child, for 2 years from the date on which this interim order was served on me; or (b)if no period is specified and I am a child, for 6 months from the date on which this interim order was served on me. If I was in prison at the time this order was served on me, the order will stay in force (while I am in prison and on release) for the period specified in the order. If the duration of the order is not specified, the order will stay in force for 2 years from the date on which I am released from prison.
 Signature: | Date:
 Form 6 — Violence restraining order
@@ -421,7 +433,7 @@ Date of birth:
 Signature: …………………………………................... (If possible to obtain)
 Certificate | I certify that on the day and at the time and place set out above: rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 Part 6 Division 2. In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 18 years to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
 Signature: | Date:
-[Form 6 inserted: Gazette 20 Jun 2017 p. 3014-21; amended: Gazette 24 Nov 2017 p. 5675; SL 2020/141 r. 15, 23 and 24; SL 2022/106 r. 4.]
+[Form 6 inserted: Gazette 20 Jun 2017 p. 3014-21; amended: Gazette 24 Nov 2017 p. 5675; SL 2020/141 r. 15, 23 and 24; SL 2022/106 r. 4; SL 2022/188 r. 4(4).]
 Form 7 — Section 63A violence restraining order
 Part A — Section 63A violence restraining order
 Restraining Orders Act 1997 s. 63A Section 63A violence restraining order |  | Number:
@@ -452,36 +464,39 @@ A violence restraining order has been made to protect you under the Restraining 
 THIS ORDER COMES INTO FORCE IMMEDIATELY IF THE PERSON WHO IS BOUND BY THE ORDER WAS PRESENT IN COURT WHEN IT WAS MADE
 [Form 7 inserted: Gazette 20 Jun 2017 p. 3022-4; amended: Gazette 24 Nov 2017 p. 5675; SL 2020/141 r. 16 and 23.]
 Form 8 — Application for misconduct restraining order
- | Restraining Orders Act 1997 s. 38(2) Misconduct restraining order Application |  | Number:
- | Jurisdiction:
- | Location:
- | Applicant [If not the person seeking to be protected] | Family name: | Date of birth:
- | Other names:
- | Address:street: suburb:postcode:
- | Phone nos.:work:home: mobile:
- | Person seeking to be protected | Family name: | Date of birth:
- | Other names:
- | Address:street:
- | suburb:postcode:
- | Phone nos.:work:home: mobile:
- | Respondent [Fill in as many details as you can] | Family name: | Date of birth:
- | Other names:
- | Homestreet: address:suburb:postcode:
- | Workstreet: address:suburb:postcode:
- | Phone nos.:work:home: mobile:
- | Grounds for application | Give details of the respondent’s behaviour.
+Restraining Orders Act 1997 s. 38(2) Misconduct restraining order Application |  | Number:
+Jurisdiction:
+Location:
+Applicant [If not the person seeking to be protected] | Family name: | Date of birth:
+Other names:
+Address:street: suburb:postcode:
+Phone nos.:work:home: mobile:
+Email:
+Person seeking to be protected | Family name: | Date of birth:
+Other names:
+Address:street:
+suburb:postcode:
+Phone nos.:work:home: mobile:
+Email:
+Respondent [Fill in as many details as you can] | Family name: | Date of birth:
+Other names:
+Homestreet: address:suburb:postcode:
+Workstreet: address:suburb:postcode:
+Phone nos.:work:home: mobile:
+Email:
+Grounds for application | Give details of the respondent’s behaviour.
 Information relating to children | Is the person seeking to be protected a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
 If yes, has this application been made with the written consent of a person who, under the relevant child welfare law, has responsibility for the control or care of the child? | r Yes r No r Unknown
 Is the respondent a child who is under the control or in the care of a person under a child welfare law? | r Yes r No r Unknown
- | Firearms | Does the respondent have a firearm or firearms licence? | r Yes r No r Unknown
- | Does the respondent have access to a firearm at work? | r Yes r No r Unknown
- | Explosives | Does the respondent have explosives or an explosives licence? r Yesr Nor Unknown
- | Does the respondent have access to explosives at work? r Yesr Nor Unknown
- | Applicant | Signature: | Date:
- | Hearing [To be filled in by the court] | Court: | Date: | Time:
- | Registrar:
- | Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ at _______ am/pm at _____________________ I notified the applicant of the hearing date. Registrar:
-[Form 8 inserted: Gazette 20 Jun 2017 p. 3025; amended: SL 2020/141 r. 17; SL 2022/15 r. 4(2).]
+Firearms | Does the respondent have a firearm item or firearms authorisation? | r Yes r No r Unknown
+Does the respondent have access to a firearm item at work? | r Yes r No r Unknown
+Explosives | Does the respondent have explosives or an explosives licence? r Yesr Nor Unknown
+Does the respondent have access to explosives at work? r Yesr Nor Unknown
+Applicant | Signature: | Date:
+Hearing [To be filled in by the court] | Court: | Date: | Time:
+Registrar:
+Notification [To be filled in by the court] | I certify that on __ __/__ __/__ __ at _______ am/pm at _____________________ I notified the applicant of the hearing date. Registrar:
+[Form 8 inserted: Gazette 20 Jun 2017 p. 3025; amended: SL 2020/141 r. 17; SL 2022/15 r. 4(2); SL 2022/188 r. 4(5).]
 Form 9 — Misconduct restraining order
 Part A — Misconduct restraining order
 Restraining Orders Act 1997 s. 43, 49 and 63 Misconduct restraining order |  | Number:
@@ -540,6 +555,7 @@ Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Protected person | Family name: | Date of birth:
 Other names:
 Type of order | The order isr a Family Violence Restraining Order r a Violence Restraining Order r for 72 hours or less r an interim order
@@ -560,6 +576,7 @@ Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Person protected | Family name: | Date of birth:
 Other names:
 Type of order | The order isr a Family Violence Restraining Order r a Violence Restraining Order r for 72 hours or less r an interim order
@@ -591,10 +608,11 @@ Order | Restraining order no.: | Court of issue:
 Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
+Email:
 Will you be represented by a legal practitioner at the final order hearing?r Yesr No
 If yes:legal practitioner’s name: legal practitioner’s firm:
 How many witnesses (including yourself) do you intend to call? _________________
-Does this interim order prevent you from — •going to where you normally live?r Yesr No •having contact with your children?r Yesr No •going to where you work or otherwise prevent you from doing your job?r Yesr No •being in possession of a firearm which is essential for your job?r Yesr No •being in possession of explosives which are essential for your job?r Yesr No
+Does this interim order prevent you from — •going to where you normally live?r Yesr No •having contact with your children?r Yesr No •going to where you work or otherwise prevent you from doing your job?r Yesr No •being in possession of a firearm item which is essential for your job?r Yesr No •being in possession of explosives which are essential for your job?r Yesr No
 Signature: | Date:
 OR
 Consent
@@ -602,6 +620,7 @@ Order | Restraining order no.: | Court of issue:
 Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
+Email:
 I do not object to a final order being made on the same terms as this interim order. I understand that I will then not need to attend a final order hearing and that this interim order will automatically become a final order which will stay in force for — (a)the period specified in the order; or (b)if no period is specified and I am not a child, for 2 years from the date on which this order was served on me; or (c)if no period is specified and I am a child, for 6 months from the date on which this order was served on me. If the order is a family violence restraining order and I am in prison when the court receives this form, the order will stay in force while I am in prison and for a further 3 months from the date on which I am released from prison (or shorter if specified in the order).
 Signature: | Date:
 Form 10 — Telephone order
@@ -629,30 +648,33 @@ Date of birth:
 Signature: …………………………………................... (If possible to obtain)
 Certificate | I certify that on the day and at the time and place set out above — rI personally served this order on the person who is bound by the order rI orally served this order on the person who is bound by this order rI posted this order to the person who is bound by this order rI took the steps directed by the court to effect substituted service of this order on the person who is bound by this order in accordance with the Restraining Orders Act 1997 Part 6 Division 2. In the case of oral service, I also certify that I — •gave the person who is bound by this order the information required by the Restraining Orders Act 1997 section 55(5) and that the person appeared to understand what was said; or •arranged for someone else over the age of 18 years to give the information to the person in accordance with the Restraining Orders Act 1997 section 55(5A).
 Signature: | Date:
-[Form 10 inserted: Gazette 20 Jun 2017 p. 3030-8; amended: Gazette 24 Nov 2017 p. 5675; SL 2020/141 r. 18 and 23; SL 2022/106 r. 4.]
+[Form 10 inserted: Gazette 20 Jun 2017 p. 3030-8; amended: Gazette 24 Nov 2017 p. 5675; SL 2020/141 r. 18 and 23; SL 2022/106 r. 4; SL 2022/188 r. 4(6).]
 Form 11 — Restraining order record of telephone application
 Restraining Orders Act 1997 s. 21(4) Restraining order Record of telephone application |  | Number:
 Jurisdiction:
 Location:
-Authorised person | Name:
-Rank and number/identification:
-Contact phone no.: | Date of application:
-Type of order sought | r Family violence restraining order r Violence restraining order
-Reason for applying by telephone | Ir amr am not satisfied that the matter is sufficiently urgent to justify a telephone application.
+ | Authorised person | Name:
+ | Rank and number/identification:
+ | Contact phone no.: | Date of application:
+ | Type of order sought | r Family violence restraining order r Violence restraining order
+ | Reason for applying by telephone | Ir amr am not satisfied that the matter is sufficiently urgent to justify a telephone application.
 Applicant [If not the person seeking to be protected] | The applicant is: rperson seeking to be protected rparent or guardian of a child who is seeking to be protected ra child welfare officer on behalf of a child who is seeking to be protected rauthorised person rlegal guardian of the person who is seeking to be protected
 Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Person seeking to be protected | Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Respondent | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.: work:home: mobile:
+Email:
 The respondentr isr is not present r isr is not being detained by a police officer
 Family orders | Are there any current family orders relating to the respondent’s rights in relation to children who may be affected by a restraining order? r Yesr Nor Unknown
 Are there any current Family Court proceedings in which such orders are being sought? r Yesr Nor Unknown
@@ -663,8 +685,8 @@ Is the respondent a child who is under the control or in the care of a person un
 Is the respondent under 16 years of age? r Yesr Nor Unknown
 If the respondent is under 16 years of age, is the person seeking to be protected any of the following: Ÿa parent or guardian of the respondent; Ÿa person responsible for the day to day care of the respondent; Ÿa person with whom the respondent habitually resides? | r Yes r No
 Conference [FVRO only] | Does the applicant/respondent agree to the listing of a conference?* *[Applies only if conferences are available at this court.] | r Yes r No
-Firearms | Does the respondent have a firearm or a firearms licence? r Yesr Nor Unknown
-Does the respondent have access to a firearm at work? r Yesr Nor Unknown
+Firearms | Does the respondent have a firearm item or a firearms authorisation? r Yesr Nor Unknown
+Does the respondent have access to a firearm item at work? r Yesr Nor Unknown
 Explosives | Does the respondent have explosives or an explosives licence? r Yesr Nor Unknown
 Does the respondent have access to explosives at work? r Yesr Nor Unknown
 Witnesses and summary of evidence | Applicant: Respondent: Authorised person: Other people:
@@ -674,7 +696,7 @@ Magistrate | Name:
 Court where Magistrate is based:
 Magistrate’s location when hearing application:
 Signature: | Date: | Time:
-[Form 11 inserted: Gazette 20 Jun 2017 p. 3039-40; amended: SL 2020/141 r. 19; SL 2022/15 r. 4(3).]
+[Form 11 inserted: Gazette 20 Jun 2017 p. 3039-40; amended: SL 2020/141 r. 19; SL 2022/15 r. 4(3); SL 2022/188 r. 4(7).]
 Form 12 — Application to vary or cancel a restraining order
 Part A — Application to vary or cancel a restraining order
 Restraining Orders Act 1997 s. 45 Restraining order Application to vary or cancel |  | Number:
@@ -754,35 +776,37 @@ Signature: | Date:
 Please return this proof of service copy of the summons to the court before the hearing date, even if you have been unable to serve it.
 [Form 13 inserted: Gazette 20 Jun 2017 p. 3044-6.]
 Form 14 — Restraining order made during other proceedings — record of proceedings
-Restraining Orders Act 1997 s. 63 Restraining order made during other proceedings Record of proceedings |  | Proceedings in which order made:
-Jurisdiction:
-Location:
-Application | Type of order: rFamily Violence Restraining Order rViolence Restraining Order Order made: rby court of its own motion ron an application or request by Charges to which order relates: ______________________________________________
+ | Restraining Orders Act 1997 s. 63 Restraining order made during other proceedings Record of proceedings |  | Proceedings in which order made:
+ | Jurisdiction:
+ | Location:
+ | Application | Type of order: rFamily Violence Restraining Order rViolence Restraining Order Order made: rby court of its own motion ron an application or request by Charges to which order relates: ______________________________________________
 Person protected by the order | Family name: | Date of birth:
 Other names:
 Address:street: suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Role in proceeding in which restraining order was made: rapplicant/prosecutor rvictim rrespondent/accused rother witness rother ____________________________________
 Person who is bound by the restraining order | Family name: | Date of birth:
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address: suburb:postcode:
 Phone nos.:work:home: mobile:
+Email:
 Role in proceeding in which restraining order was made: rrespondent/accused rother witness rother _____________________________________
-Grounds on which order applied for or considered | For FVROs:rconviction for a violent personal offence listed in section 63(4AA) rfamily member wants to be protected by FVRO For VROs: [specify grounds]
-Family orders | Are there any current family orders relating to the person who is bound by the restraining order’s rights in relation to children who may be affected by a restraining order?r Yesr No
-Are there any current Family Court proceedings in which such orders are being sought? r Yesr No
-Details of family order or proceedings:
-Firearms | Does the person who is bound by the restraining order have a firearm or a firearms licence? r Yesr No
-Does the person who is bound by the restraining order have access to a firearm at work? r Yesr No
-Explosives | Does the person who is bound by the restraining order have explosives or an explosives licence? r Yes r No
-Does the person who is bound by the restraining order have access to explosives at work? r Yes r No
-Witness and summary of evidence | Person protected by the restraining order: Person who is bound by the restraining order: Other people:
-Other notes
-Terms of the order
-Order made | Date order made: | Time order made:
-Registrar | Signature: | Date:
-[Form 14 inserted: Gazette 20 Jun 2017 p. 3047-8; amended: SL 2020/141 r. 21.]
+ | Grounds on which order applied for or considered | For FVROs:rconviction for a violent personal offence listed in section 63(4AA) rfamily member wants to be protected by FVRO For VROs: [specify grounds]
+ | Family orders | Are there any current family orders relating to the person who is bound by the restraining order’s rights in relation to children who may be affected by a restraining order?r Yesr No
+ | Are there any current Family Court proceedings in which such orders are being sought? r Yesr No
+ | Details of family order or proceedings:
+ | Firearms | Does the person who is bound by the restraining order have a firearm item or a firearms authorisation? r Yesr No
+ | Does the person who is bound by the restraining order have access to a firearm item at work? r Yesr No
+ | Explosives | Does the person who is bound by the restraining order have explosives or an explosives licence? r Yes r No
+ | Does the person who is bound by the restraining order have access to explosives at work? r Yes r No
+ | Witness and summary of evidence | Person protected by the restraining order: Person who is bound by the restraining order: Other people:
+ | Other notes
+ | Terms of the order
+ | Order made | Date order made: | Time order made:
+ | Registrar | Signature: | Date:
+[Form 14 inserted: Gazette 20 Jun 2017 p. 3047-8; amended: SL 2020/141 r. 21; SL 2022/188 r. 4(8).]
 Form 15 — Application to register an interstate restraining order
 Part A — Application to register an interstate restraining order
 Restraining Orders Act 1997 s. 75 Interstate restraining order Application to register |  | Number:
@@ -827,27 +851,28 @@ The restraining order described above and made in your court has been registered
 [Form 15 inserted: Gazette 20 Jun 2017 p. 3049-50.]
 Form 16 — Restraining order — summons
 Part A — Restraining order — summons
-Restraining Orders Act 1997 s. 26(3) and 39 Restraining order Summons |  | Number:
-Jurisdiction:
-Location:
-An application has been made for a restraining order against you. The details of the application are set out below. You are required to attend a court hearing on this matter at the place and time set out below.
+ | Restraining Orders Act 1997 s. 26(3) and 39 Restraining order Summons |  | Number:
+ | Jurisdiction:
+ | Location:
+ | An application has been made for a restraining order against you. The details of the application are set out below. You are required to attend a court hearing on this matter at the place and time set out below.
 Respondent | Family name: | Date of birth
 Other names:
 Homestreet: address:suburb:postcode:
 Workstreet: address:suburb:postcode:
 Phone nos.:work:home: mobile:
-Person seeking to be protected | Family name: | Date of birth
-Other names:
-Applicant [If not the person seeking to be protected] | The applicant is:rperson seeking to be protected rparent or guardian of a child who is seeking to be protected ra police officer rthe legal guardian of a person seeking to be protected
-Family name:
-Other names:
-Type of order | The application is for:r Family Violence Restraining Order r Violence Restraining Order r Misconduct Restraining Order
-Grounds for application
-Hearing | Court: | Date: | Time:
-Registrar:
+Email:
+ | Person seeking to be protected | Family name: | Date of birth
+ | Other names:
+ | Applicant [If not the person seeking to be protected] | The applicant is:rperson seeking to be protected rparent or guardian of a child who is seeking to be protected ra police officer rthe legal guardian of a person seeking to be protected
+ | Family name:
+ | Other names:
+ | Type of order | The application is for:r Family Violence Restraining Order r Violence Restraining Order r Misconduct Restraining Order
+ | Grounds for application
+ | Hearing | Court: | Date: | Time:
+ | Registrar:
 If you do not attend the court hearing a restraining order may be made against you in your absence.
 A restraining order may prohibit you from going to certain places (such as the home of the person seeking to be protected) and place other restrictions on where you may go and what you may do.
-A restraining order may also prohibit you from being in possession of a firearm, a firearms licence, explosives or an explosives licence.
+A restraining order may also prohibit you from being in possession of a firearm item, a firearms authorisation, explosives or an explosives licence.
 Form 16 — Restraining order — summons
 Part B — Information to be on the proof of service copy
 Certificate of service
@@ -870,7 +895,7 @@ Steps taken to attempt service:
 I was unable to serve this summons because: rthe person to be summonsed does not appear to live or work at the addresses given and cannot be found elsewhere rthe person to be summonsed appears to be deliberately avoiding being served with this summons rother [give details]
 Signature: | Date:
 Please return this proof of service copy of the summons to the court before the hearing date, even if you have been unable to serve it.
-[Form 16 inserted: Gazette 20 Jun 2017 p. 3051-3; amended: SL 2020/141 r. 22.]
+[Form 16 inserted: Gazette 20 Jun 2017 p. 3051-3; amended: SL 2020/141 r. 22; SL 2022/188 r. 4(9).]
 Form 17 — Application to have final order under section 32(2) of the Act set aside
 Restraining Orders Act 1997 s. 32(5) Application to set aside final order under the Restraining Orders Act 1997 section 32(2) |  | Number:
 Jurisdiction:
