@@ -3,11 +3,11 @@ Form 1
 Western Australia
 Electoral Act 1907 (s. 22)
 FORM OF ELECTORAL ROLL
-Roll of electors for the .............................................................................. District and that part of the ..................................................................................... Region in that District.
+Roll of electors for the .............................................................................. District.
 SurnameChristian orResidenceOccupation*Sex*
 given names
 [* This column may be omitted when rolls are printed under section 24 of the Act, made available under section 25 of the Act or supplied under section 112 of the Act or when information on rolls or other information relating to electors is provided or made available under section 25B or 25C of the Act.]
-[Form 1 amended: Gazette 8 Nov 1996 p. 6269; 20 Oct 2000 p. 5929; 11 May 2007 p. 1997.]
+[Form 1 amended: Gazette 8 Nov 1996 p. 6269; 20 Oct 2000 p. 5929; 11 May 2007 p. 1997; SL 2022/195 r. 19(1).]
 Form 2
 Western Australia
 Electoral Act 1907 (s. 42)
@@ -40,17 +40,17 @@ or
 o Australian passport | Number
 or
 o Have a person who is on the Commonwealth electoral roll confirm your identity below ▼
-14 | YOUR DECLARATION ŸI am eligible to enrol for Western Australian elections. ŸI declare that all the information I have given on this form is true and complete. | 15 | DECLARATION ŸI am on the Commonwealth electoral roll. ŸI confirm the identity of the applicant. ŸI saw the applicant mark this form.* * Only applies if the applicant has made a mark because he or she is unable to sign his or her name.
+14 | YOUR DECLARATION ŸI am eligible to enrol for Western Australian elections. ŸI declare that all the information I have given on this form is true and complete. | 15 | DECLARATION ŸI am on the Commonwealth electoral roll. ŸI confirm the identity of the applicant. ŸI saw the applicant mark this form.* * Only applies if the applicant has made a mark because the applicant is unable to sign their name.
 Signature or mark of applicant |  | Signature of person confirming your identity
 / / | / /
-The declaration at question 15 must be completed if the applicant has made a mark because he or she is unable to sign his or her name. |  | Name and address of person confirming your identity
-[Form 2 inserted: Gazette 4 Dec 2012 p. 5912-13.]
+The declaration at question 15 must be completed if the applicant has made a mark because the applicant is unable to sign their name. |  | Name and address of person confirming your identity
+[Form 2 inserted: Gazette 4 Dec 2012 p. 5912-13; amended: SL 2022/195 r. 19(2).]
 Form 3
 Western Australia
 Electoral Act 1907 (s. 44A(3)(a))
 NOTICE OF REJECTION OF CLAIM
 To ........................................................................................... :
-I wish to advise that your claim dated .................................... to have your name placed on the roll for the State Electoral District of .................................. and the related part of the .......................................................... Region does not comply with section 44 of the Electoral Act 1907 for the following reasons:
+I wish to advise that your claim dated .................................... to have your name placed on the roll for the .................................... District does not comply with section 44 of the Electoral Act 1907 for the following reasons:
 .................................................................................................................................
 .................................................................................................................................
 .................................................................................................................................
@@ -59,7 +59,7 @@ Therefore, your claim is rejected.
 ENROLMENT OFFICER
 ......................................................................
 Date
-[Form 3 inserted: Gazette 10 Nov 2000 p. 6170-1.]
+[Form 3 inserted: Gazette 10 Nov 2000 p. 6170-1; amended: SL 2022/195 r. 19(3).]
 Form 4
 Western Australia
 Electoral Act 1907 (reg. 22)
@@ -170,8 +170,8 @@ Please do not show my address on the electoral roll
 9 | I ALSO REQUEST THAT MY NAME BE OMITTED WHEN THE ROLL IS MADE AVAILABLE UNDER SECTION 25 OR 25B OF THE ACT (Tick the box if required) | o
 10 0 | I ALSO APPLY TO BE REGISTERED AS A GENERAL EARLY VOTER UNDER SECTION 93 OF THE ACT (Tick the box if required) | o
  | ..................................................................... Signature or mark of applicant (Not required if applicant makes the declaration below. Please ensure that the declaration is made before this application is sent to the Electoral Commissioner)
-Statutory declaration as to risk I solemnly and sincerely declare that the risk referred to in 8 above is as follows: .......................................................................................................................................................... .......................................................................................................................................................... .......................................................................................................................................................... .......................................................................................................................................................... And I make this declaration by virtue of section 106 of the Evidence Act 1906. ......................................................................... Signature of declarant Declared at .................................................................................................... this .......................... day of .............................................................................................................before me ............................................................................ Commissioner for Declarations Justice of the Peace Police Officer or other person authorised by the Declarations and Attestations Act 1913
-[Form 10 amended: Gazette 10 Nov 2000 p. 6176-7; 11 May 2007 p. 1998.]
+Statutory declaration as to risk I [name, address and occupation of person making the declaration] sincerely declare that the risk referred to in 8 above is as follows: ..................................................................................................................................................... ..................................................................................................................................................... ..................................................................................................................................................... ..................................................................................................................................................... This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular. This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at [place] on [date] by — [Signature of person making the declaration] in the presence of — [Signature of authorised witness] [Name of authorised witness and qualification as such a witness] For a list of people who are authorised to witness statutory declarations, see the Oaths, Affidavits and Statutory Declarations Act 2005 Schedule 2.
+[Form 10 amended: Gazette 10 Nov 2000 p. 6176-7; 11 May 2007 p. 1998; SL 2022/195 r. 19(4).]
 Form 11
 Western Australia
 Electoral Act 1907 (s. 56)
@@ -220,9 +220,9 @@ Form 17
 Western Australia
 Electoral Act 1907 (s. 64(3) and 69)
 WRIT
-Writ for elections in all the electoral regions to elect members of the Legislative Council
+Writ for an election in the whole of State electorate to elect members of the Legislative Council
 To the Electoral Commissioner:
-I direct you to proceed with elections in all the electoral regions to elect 6 members of the Legislative Council for each of the electoral regions known, respectively, as the Agricultural Region, the East Metropolitan Region, the Mining and Pastoral Region, the North Metropolitan Region, the South Metropolitan Region and the South West Region.
+I direct you to proceed with an election in the whole of State electorate to elect 37 members of the Legislative Council.
 I fix the following days for the purposes of each of those elections:
 Last day for the nomination of candidates:
 ............... day, .......................................................... 20..........
@@ -234,17 +234,17 @@ Dated .......................................... 20 ............................
 Governor
 (Reverse)
 Certificate
-I certify that the results of the elections held under this writ were as follows:
-Electoral regionElected candidatesDate of declaration
-.................................................................................................................
-........................................
-........................................
-........................................
-........................................
-[continue for each region]
+I certify that the result of the election held under this writ was as follows:
+Elected candidatesDate of declaration
+..............................................................................
+.......................................
+.......................................
+.......................................
+.......................................
+.......................................
 Dated ........................................ 20 .............................................................
 Electoral Commissioner
-[Form 17 inserted: Gazette 20 Oct 2000 p. 5931-2; amended: Gazette 21 Nov 2008 p. 4922; 4 Dec 2012 p. 5913.]
+[Form 17 inserted: Gazette 20 Oct 2000 p. 5931-2; amended: Gazette 21 Nov 2008 p. 4922; 4 Dec 2012 p. 5913; SL 2022/195 r. 19(5).]
 Form 18
 Western Australia
 Electoral Act 1907 (s. 67(1) and 69)
@@ -321,9 +321,9 @@ Form 21
 Western Australia
 Electoral Act 1907 (s. 156E and 69)
 WRIT
-Writ for an election in an electoral region to elect a member of the Legislative Council to fill a vacancy
+Writ for an election in the whole of State electorate to elect a member of the Legislative Council to fill a vacancy
 To the Electoral Commissioner:
-I direct you to proceed with an election in the ........................................ electoral region to elect a member of the Legislative Council for that region.
+I direct you to proceed with an election in the whole of State electorate to elect a member of the Legislative Council.
 I fix the following days for the purposes of that election:
 Last day for the nomination of candidates:
 ............... day, .......................................................... 20..........
@@ -340,7 +340,7 @@ Elected candidateDate of declaration
 ........................................................................
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
-[Form 21 inserted: Gazette 20 Oct 2000 p. 5936-7.]
+[Form 21 inserted: Gazette 20 Oct 2000 p. 5936-7; amended: SL 2022/195 r. 19(6).]
 Form 22
 Western Australia
 Electoral Act 1907 (s. 88(2) and 69)
@@ -370,9 +370,9 @@ Form 23
 Western Australia
 Electoral Act 1907 (s. 88(2) and 69)
 WRIT
-Writ for a new election in an electoral region when an election is deemed to have wholly failed under section 88(2)
+Writ for a new election in the whole of State electorate when an election is deemed to have wholly failed under section 88(2)
 To the Electoral Commissioner:
-I direct that, in place of the election fixed for ................................... 20..........., you proceed with a new election in the ............................................... electoral region to elect ........ member(s) of the Legislative Council for that region.
+I direct that, in place of the election fixed for ................................... 20..........., you proceed with a new election in the whole of State electorate to elect a member of the Legislative Council.
 I fix the following days for the purposes of that election:
 Last day for the nomination of candidates:
 ............... day, .......................................................... 20..........
@@ -385,11 +385,11 @@ Governor
 (Reverse)
 Certificate
 I certify that the result of the election held under this writ was as follows:
-Elected candidate(s)Date of declaration
-........................................................................ [continue as required]
+Elected candidateDate of declaration
+........................................................................
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
-[Form 23 inserted: Gazette 20 Oct 2000 p. 5939-40.]
+[Form 23 inserted: Gazette 20 Oct 2000 p. 5939-40; amended: SL 2022/195 r. 19(7).]
 Form 23A
 Western Australia
 Electoral Act 1907 (s. 89(1) and 69)
@@ -419,9 +419,9 @@ Form 23B
 Western Australia
 Electoral Act 1907 (s. 89(1) and 69)
 WRIT
-Writ for a supplementary election in an electoral region when an election is deemed to have wholly failed under section 89(1)
+Writ for a supplementary election in the whole of State electorate when an election is deemed to have wholly failed under section 89(1)
 To the Electoral Commissioner:
-I direct that, because of the failure of the election fixed for ................................... 20..........., you proceed with a supplementary election in the ............................................... electoral region to elect ........ member(s) of the Legislative Council for that region.
+I direct that, because of the failure of the election fixed for ................................... 20..........., you proceed with a supplementary election in the whole of State electorate to elect ........ member(s) of the Legislative Council.
 I fix the following days for the purposes of that election:
 Last day for the nomination of candidates:
 ............... day, .......................................................... 20..........
@@ -438,14 +438,14 @@ Elected candidate(s)Date of declaration
 ........................................................................ [continue as required]
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
-[Form 23B inserted: Gazette 20 Oct 2000 p. 5941-2.]
+[Form 23B inserted: Gazette 20 Oct 2000 p. 5941-2; amended: SL 2022/195 r. 19(8).]
 Form 23C
 Western Australia
 Electoral Act 1907 (s. 89(2) and 69)
 WRIT
-Writ for a supplementary election in an electoral region when an election is deemed to have partially failed under section 89(2)
+Writ for a supplementary election in the whole of State electorate when an election is deemed to have partially failed under section 89(2)
 To the Electoral Commissioner:
-I direct that, because of the partial failure of the election held on .................................. 20..........., you proceed with a supplementary election in the ............................................... electoral region to elect ........ member(s) of the Legislative Council for that region.
+I direct that, because of the partial failure of the election held on .................................. 20..........., you proceed with a supplementary election in the whole of State electorate to elect ........ member(s) of the Legislative Council.
 I fix the following days for the purposes of that election:
 Last day for the nomination of candidates:
 ............... day, .......................................................... 20..........
@@ -462,7 +462,7 @@ Elected candidate(s)Date of declaration
 ........................................................................ [continue as required]
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
-[Form 23C inserted: Gazette 20 Oct 2000 p. 5943-4.]
+[Form 23C inserted: Gazette 20 Oct 2000 p. 5943-4; amended: SL 2022/195 r. 19(9).]
 Form 23D
 Western Australia
 Electoral Act 1907 (s. 172(1)(c) and 69)
@@ -492,9 +492,9 @@ Form 23E
 Western Australia
 Electoral Act 1907 (s. 172(1)(c) and 69)
 WRIT
-Writ for a new election in an electoral region when an election has been declared absolutely void
+Writ for a new election in the whole of State electorate when an election has been declared absolutely void
 To the Electoral Commissioner:
-I direct that, because of the election held on .................................. 20..........., being declared absolutely void, you proceed with a new election in the ............................................... electoral region to elect ........ member(s) of the Legislative Council for that region.
+I direct that, because of the election held on .................................. 20..........., being declared absolutely void, you proceed with a new election in the whole of State electorate to elect ........ member(s) of the Legislative Council.
 I fix the following days for the purposes of that election:
 Last day for the nomination of candidates:
 ............... day, .......................................................... 20..........
@@ -511,7 +511,7 @@ Elected candidate(s)Date of declaration
 ........................................................................ [continue as required]
 Dated ...................................... 20 ..............................................................
 Electoral Commissioner
-[Form 23E inserted: Gazette 20 Oct 2000 p. 5946-7.]
+[Form 23E inserted: Gazette 20 Oct 2000 p. 5946-7; amended: SL 2022/195 r. 19(10).]
 Form 23F
 Western Australia
 Electoral Act 1907 (s. 67(4))
@@ -532,14 +532,12 @@ Form 25
 Western Australia
 Electoral Act 1907 (s. 87A(2))
 RETURNING OFFICER’S RECEIPT FOR NOMINATION AND DEPOSIT
-I acknowledge receipt of a deposit of $250 cash/bank or other financial institution cheque payable to the Electoral Commissioner* and a nomination paper in respect of ..................................................................................................
+I acknowledge receipt of a deposit of $...... cash/bank or other financial institution cheque payable to the Electoral Commissioner/electronic funds transfer*and a nomination paper in respect of ..................................................................................................
 (name of candidate)
 ...................................................................................................................
 DateReturning officer
-........................................................
-District or Region
 * Strike out whichever is not applicable
-[Form 25 amended: Gazette 8 Nov 1996 p. 6269; 20 Nov 1998 p. 6265.]
+[Form 25 amended: Gazette 8 Nov 1996 p. 6269; 20 Nov 1998 p. 6265; SL 2022/195 r. 19(11).]
 Form 26
 Western Australia
 Electoral Act 1907 (s. 90)
@@ -620,7 +618,7 @@ Please use BLOCK LETTERS when completing this form.
 ELECTOR to complete. Family name:Given name: Address as enrolled: Date of birth:Former family name: To the Electoral Commissioner, I declare that: ŸI enrolled to vote before the close of the roll for this election; and ŸI have not already voted at this election. Elector to sign: ....................................
 Presiding Officer/Assistant Presiding Officer/Poll Clerk to complete. Polling place at which vote claimed: Presiding officer to sign:Date:
 [Form 31 inserted: Gazette 11 May 2007 p. 1999; amended: Gazette 4 Dec 2012 p. 5914.]
-Form 32 Western Australia Electoral Act 1907 (s. 150) STATISTICAL RETURN .............................................(District (or Region)) ...........................................(Date of election) | Total Votes |  |  |  |  | I certify that this return is correct. ................................................... Signature of Returning Officer [This return may be made in a written or electronic form.] ................................................... Date [This return may be made in a written or electronic form.]
+Form 32 Western Australia Electoral Act 1907 (s. 150) STATISTICAL RETURN .............................................(District (or Whole of State electorate)) ...........................................(Date of election) | Total Votes |  |  |  |  | I certify that this return is correct. ................................................... Signature of Returning Officer [This return may be made in a written or electronic form.] ................................................... Date [This return may be made in a written or electronic form.]
 Ballot papers rejected as informal
 Total Valid Votes
 Details of count of valid votes | Candidate
@@ -629,6 +627,7 @@ Candidate
 Candidate
 Candidate
 Polling Places | Remote areas | Special Institutions and hospitals | Total: Ordinary Votes Postal Votes Absent Votes Provisional Votes | Total
+[Form 32 amended: SL 2022/195 r. 19(12).]
 Form 33
 Western Australia
 Electoral Act 1907 (s. 156(6))
@@ -660,10 +659,10 @@ SECTION 2
 Penalty: [insert penalty amount] Response date: [insert date] If you did not vote and you wish to finalise this matter, please pay the penalty in one of the following ways by the response date.
 Payment with Australia Post | [insert information about payment]
 Payment by BPAY | [insert information about payment]
-Payment by mail | Using the reply paid envelope provided, return this notice with a cheque or money order made payable to the Western Australian Electoral Commission. Do not send cash in the mail.
-Payment in person | Cash or cheque payments can be made at the Western Australian Electoral Commission [insert address].
+Payment by mail | [insert information about payment]
+Payment in person | [insert information about payment]
 Payment of the penalty will end this matter. However, if you pay by cheque or credit card and that payment is dishonoured, you will be treated as if you had not paid the penalty.
-[Form 33 inserted: Gazette 4 Dec 2012 p. 5914-17.]
+[Form 33 inserted: Gazette 4 Dec 2012 p. 5914-17; amended: SL 2022/195 r. 19(13).]
 Form 34
 Western Australia
 Electoral Act 1907 (s. 156(13A))
@@ -686,19 +685,19 @@ If you do not pay the modified penalty on or before the response date, you may b
 You may pay the modified penalty in one of the following ways —
 Payment with Australia Post | [insert information about payment]
 Payment by BPAY | [insert information about payment]
-Payment by mail | Using the reply paid envelope provided, return this notice with a cheque or money order made payable to the Western Australian Electoral Commission. Do not send cash in the mail.
-Payment in person | Cash or cheque payments can be made at the Western Australian Electoral Commission [insert address].
+Payment by mail | [insert information about payment]
+Payment in person | [insert information about payment]
 Payment of the modified penalty will end this matter. However, if you pay by cheque or credit card and that payment is dishonoured, you will be treated as if you had not paid the modified penalty.
 If you are unable to respond to this notice because you are away from home or physically incapacitated, you may direct another person who has personal knowledge of the facts to respond to this notice on your behalf.
 Thank you for your cooperation.
 Electoral CommissionerDate: [insert date]
-[Form 34 inserted: Gazette 4 Dec 2012 p. 5917-18.]
+[Form 34 inserted: Gazette 4 Dec 2012 p. 5917-18; amended: SL 2022/195 r. 19(13).]
 Form 35
 Western Australia
 Electoral Act 1907 (s. 156C(1)(a))
 NOTIFICATION OF A VACANCY IN THE
 LEGISLATIVE COUNCIL
-Take notice that a vacancy in the Legislative Council has occurred for the seat in the..................................Region to which the Hon...............................had most recently been elected.
+Take notice that a vacancy in the Legislative Council has occurred for the seat to which the Hon ............................... had most recently been elected.
 This notice is published under section 156C(1)(a) because —
 1. I have been informed of the vacancy by His/Her Excellency the Governor; and
 2. I am satisfied that it is practicable to fill the vacancy under sections 156C and 156D of the Electoral Act 1907.
@@ -706,13 +705,13 @@ This notice is published under section 156C(1)(a) because —
 Date Electoral Commissioner
 .................................................................
 Address
-[Form 35 inserted: Gazette 6 Dec 1996 p. 6723.]
+[Form 35 inserted: Gazette 6 Dec 1996 p. 6723; amended: SL 2022/195 r. 19(14).]
 Form 36
 Western Australia
 Electoral Act 1907 (s. 156C(5))
 NOMINATION TO FILL A VACANCY IN THE LEGISLATIVE COUNCIL UNDER SECTION 156C
 To the Electoral Commissioner
-I, the undersigned, being a qualified person as defined in section 156A of the Electoral Act 1907, by this notice consent to act as a member of the Legislative Council in the ............................................... Region referred to in your notice of .............................................................
+I, the undersigned, being a qualified person as defined in section 156A of the Electoral Act 1907, by this notice nominate as a candidate for the vacancy in the Legislative Council referred to in your notice of ...................................................
 Surname .................................................................................................................
 Given names ..........................................................................................................
 Residence ...............................................................................................................
@@ -724,7 +723,7 @@ Signature of witness who Signature of Candidate
 must be an elector
 .....................................................................
 Date
-[Form 36 inserted: Gazette 6 Dec 1996 p. 6724.]
+[Form 36 inserted: Gazette 6 Dec 1996 p. 6724; amended: SL 2022/195 r. 19(15).]
 Form 37
 Western Australia
 Electoral Act 1907 (s. 113(4)(a))

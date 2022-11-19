@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Electoral Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electoral Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Electoral Regulations 1996 | 10 Oct 1996 p. 5321-91 | 10 Oct 1996
 Electoral Amendment Regulations 1996 | 8 Nov 1996 p. 6267-77 | 9 Nov 1996 (see r. 2 and Gazette 8 Nov 1996 p. 6265)
 Electoral Amendment Regulations (No. 2) 1996 | 6 Dec 1996 p. 6723-4 | 6 Dec 1996
@@ -17,17 +17,19 @@ Electoral Amendment Regulations 2008 | 21 Nov 2008 p. 4922 | r. 1 and 2: 21 Nov 
 Electoral Amendment Regulations 2012 | 4 Dec 2012 p. 5910-18 | r. 1 and 2: 4 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2012 (see r. 2(b) and Gazette 4 Dec 2012 p. 5907)
 Reprint 3: The Electoral Regulations 1996 as at 11 Jan 2013 (includes amendments listed above)
 Electoral Amendment Regulations 2016 | 16 Aug 2016 p. 3470 | r. 1 and 2: 16 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Aug 2016 (see r. 2(b))
+Electoral Amendment Regulations 2022 | SL 2022/195 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
+Other notes
 The Evidence Act 1906 s. 106 was deleted by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
-Repealed by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 3.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 authorised person2
 ballot paper envelope2
-election28(1)
+commencement day31(1)
 election period28(1)
 issuing officer2
 member28(1)
 prescribed body28(1)
-public employee28(1)
+public employee28
 record2
+relevant person22A(1)
