@@ -71,6 +71,7 @@ Police Force Amendment Regulations (No. 3) 2018 | 23 Nov 2018 p. 4552-3 | r. 1 a
 Police Force Amendment Regulations 2019 | 1 Oct 2019 p. 3509-13 | r. 1 and 2: 1 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2019 (see r. 2(b))
 Police Force Amendment Regulations (No. 3) 2019 | 29 Nov 2019 p. 4149 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b) and Gazette 29 Nov 2019 p. 4133)
 Police Force Amendment Regulations (No. 2) 2020 | SL 2020/263 31 Dec 2020 | r. 1 and 2: 31 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2021 (see r. 2(b) and SL 2020/254 cl. 2)
+Police Force Amendment Regulations 2022 | SL 2022/187 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Other notes
 Now known as the Police Force Regulations 1979; citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
@@ -96,6 +97,7 @@ Department103
 deputy commissioner103
 distance rate1107(1)
 family1107(1), 1304(4)
+firearm item103
 Force103
 incapacitated1301
 incapacity1301
@@ -108,7 +110,7 @@ metropolitan area103
 non-commissioned officer103
 notice6A01
 officer103
-personal issue firearm404(1)
+personal issue firearm item404(1)
 physical performance evaluation103
 police auxiliary officer103
 police facility701
@@ -126,5 +128,5 @@ responsible officer701
 review officer6A01
 Seniority List801
 special area1107(1)
-station firearm404(1)
+station firearm item404(1)
 uniform103
