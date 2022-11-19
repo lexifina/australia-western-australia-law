@@ -46,6 +46,8 @@ Corrective Services Regulations Amendment (Public Health) Regulations 2016 Pt. 2
 Corrective Services Regulations Amendment Regulations 2018 Pt. 3 | 13 Nov 2018 p. 4433-5 | 1 Dec 2018 (see r. 2(b))
 Prisons Amendment Regulations 2020 | SL 2020/251 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2020 (see r. 2(b) and SL 2020/243 cl. 2)
 Prisons Amendment Regulations 2022 | SL 2022/12 11 Feb 2022 | r. 1 and 2: 11 Feb 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2022 (see r. 2(b))
+Corrective Services Regulations Amendment (Firearms) Regulations 2022 Pt. 2 | SL 2022/19118 Nov 2022 | 19 Nov 2022 (see r. 2(b))
+Prisons Amendment Regulations (No. 2) 2022 | SL 2022/19718 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, these Regulations must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 17 as if these Regulations had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
@@ -70,6 +72,7 @@ contract worker2(1)
 corresponding law54M
 dog handler81A
 external facility54M
+firearm item24(1A)
 inspection list30
 interstate absence permit54M
 interstate escort54M
@@ -77,12 +80,13 @@ interstate prisoner54M
 non-contact visit2(1)
 notice30
 organisation2(1)
-participating State or Territory54M
+participating State or Territory54L(2)
 prison dog81A
 prison officer30
 privilege30
 property49(2)
 qualified person29A
+receiving officer24(3)
 relevant material30
 removal action30
 review officer30
