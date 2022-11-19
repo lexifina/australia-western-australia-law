@@ -44,6 +44,7 @@ Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 
 Conservation and Land Management Amendment Regulations (No. 2) 2022 | SL 2022/143 12 Aug 2022 | r. 1 and 2: 12 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2022 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 3) 2022 | SL 2022/154 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2022 (see r. 2(b))
 Environment Regulations Amendment Regulations 2022 Pt. 2 | SL 2022/170 21 Oct 2022 | 22 Oct 2022 (see r. 2(b))
+Conservation and Land Management Amendment Regulations (No. 4) 2022 | SL 2022/193 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Other notes
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Biodiversity, Conservation and Attractions unless the context of the reference requires otherwise.
@@ -61,12 +62,15 @@ Aboriginal site2
 abseiling area2
 aircraft2
 aircraft landing area99A(1)
+ammunition2
 apiarist98G(1)
 apiary authority98A
 apiary licence98A
-apiary permit98A
+apiary permit98AX(2)
 apiary site98A
 authorised officer2
+Barrow Island Net Conservation Benefit AccountSch. 4 (2)
+Barrow Island Trust AccountSch. 4 (2)
 beach64(7)
 bicycle2
 bicycle path51A(4)
@@ -86,6 +90,7 @@ current inspection report98AI(1)
 designated area2
 dog area2
 fauna8(3)
+firearm2
 firewood71(4)
 fish121(1)
 fishing activity9(2)
@@ -98,6 +103,7 @@ licensed mooring98AI(1)
 litter24(2)
 local departmental office98G(1)
 loss98AH(1)
+major firearm part2
 mooring2
 mooring licence area98AI(1)
 naturally occurring feature31(4)
@@ -130,7 +136,7 @@ services2
 sign2
 soil35A(2)
 South-west zone98A
-specified56(6), 61B(1), 98AC(1)
+specified56(6), 61B, 98AC(1)
 State forest resolution124(1)
 structure34(2)
 take2

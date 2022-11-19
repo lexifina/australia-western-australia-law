@@ -17,7 +17,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 1. | 8(1) | Taking flora or fauna | 200
 2. | 9(1) | Fishing in restricted area | 100
 3. | 10 | Feeding fauna | 100
-4. | 12(1) | Failing to stow firearm or ammunition | 200
+4. | 12(1) | Failing to stow firearm, major firearm part or ammunition | 200
 5. | 12(2) | Possession in restricted or classified area of unstowed spear, speargun or gidgie | 200
 6. | 12(3) | Possession of restricted device | 200
 6a. | 12(3a) | Unauthorised use of firearm, spear gun etc. | 200
@@ -139,7 +139,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 76. | 108 | Unlawfully taking still or motion pictures | 50
 77. | 109 | Failing to produce licence etc. | 200
 78. | 110 | Giving false or misleading information | 200
-[Division 2 amended: Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052; 19 Sep 2014 p. 3333-4 and 3336-7; 24 Mar 2015 p. 1043-4; 10 Nov 2015 p. 4606; 11 Dec 2018 p. 4702.]
+[Division 2 amended: Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052; 19 Sep 2014 p. 3333-4 and 3336-7; 24 Mar 2015 p. 1043-4; 10 Nov 2015 p. 4606; 11 Dec 2018 p. 4702; SL 2022/193 r. 6.]
 ## Division 3 — Offences under Forest Management Regulations 1993
 [Heading inserted: Gazette 7 Dec 2012 p. 5972.]
  | Column 1 | Column 2 | Column 3
