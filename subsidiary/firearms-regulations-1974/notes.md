@@ -103,6 +103,7 @@ Police Regulations Amendment (Procurement) Regulations 2020 Pt. 2 | SL 2020/248 
 Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/106 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Firearms Amendment Regulations 2022 | SL 2022/40 25 Mar 2022 | r. 1 and 2: 25 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Mar 2022 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/65 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Firearms Amendment Regulations (No. 2) 2022 | SL 2022/190 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Other notes
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
@@ -110,7 +111,6 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act2(1)
-application3BA(1)
 approvedSch. 3 cl. 12(7B)
 authorised person25A(1)
 barrel lengthSch. 3 cl. 12(7B)
@@ -120,15 +120,15 @@ close associate6C(2)
 current firearm serviceability certificate2(1)
 faceSch. 4 cl. 1(6)
 fee2(1)
+firearm item2(1)
+firearm part18(1A)
 firearm serviceability certificate25A(1)
 firearms safety test2(1)
 Form2(1)
 licence20(1)
 locking pointSch. 4 cl. 4(8)
-major firearm part18(1a)
 pastoral leaseSch. 3 cl. 12(7B)
 prescribed person6F(1)
-previous licence3BA(2)(b)
 relevant financial interest6C(1)
 relevant position6C(1)
 relevant power6C(1)
