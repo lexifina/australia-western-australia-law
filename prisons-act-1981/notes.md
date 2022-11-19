@@ -64,11 +64,11 @@ Industrial Relations Amendment Act 2018 s. 71 | 39 of 2018 | 12 Dec 2018 | 19 De
 Reprint 9: The Prisons Act 1981 as at 9 Aug 2019 (includes amendments listed above)
 Prisons Amendment Act 2020 | 20 of 2020 | 21 May 2020 | s. 1 and 2: 21 May 2020 (see s. 2(a)); Act other than s. 1, 2, 4(1), 12, 19 and 23(1): 27 Jun 2020 (see s. 2(b) and SL 2020/92 cl. 2); s. 4(1), 12, 19 and 23(1): 21 Dec 2020 (see s. 2(b) and SL 2020/243 cl. 2)
 High Risk Serious Offenders Act 2020 s. 119 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
+Firearms Amendment Act 2022 s. 84 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Firearms Amendment Act 2022 s. 84 | 13 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).

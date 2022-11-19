@@ -8,11 +8,11 @@ Criminal Organisations Control Act 2012 s. 180 | 49 of 2012 | 29 Nov 2012 | 2 No
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 16 (other than s. 106) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Reprint 1: The Prohibited Behaviour Orders Act 2010 as at 22 Sep 2017 (includes amendments listed above)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 15 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Firearms Amendment Act 2022 Pt. 3 Div. 3 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 106 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Firearms Amendment Act 2022 Pt. 3 Div. 3 | 13 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -27,8 +27,8 @@ community based sentence12(1)
 constrained person3(1)
 conviction8(1)
 Department34(1)
-firearm3(1)
-firearm licence3(1)
+firearm item3(1)
+firearms authorisation3(1)
 hearing notice3(1)
 party3(1)
 PBO3(1)

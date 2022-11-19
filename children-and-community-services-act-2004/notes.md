@@ -32,11 +32,11 @@ Reprint 5: The Children and Community Services Act 2004 as at 22 Mar 2019 (inclu
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Children and Community Services Amendment Act 2021 (other than s. 15, 32, 39, 40, 52(1), (2), (4)-(7), (10)-(16) and (20) and 53(2)-(4) and (6)-(9)) | 18 of 2021 | 19 Oct 2021 | s. 1 and 2: 19 Oct 2021 (see s. 2(a)); Act other than s. 1, 2, 15, 32, 39, 40 and 52-54: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2) s. 52(3), (8), (9) and (17)-(19), 53(1), (5), (10) and (11) and 54: 1 Nov 2022 (see s. 2(c) and SL 2022/167 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 2 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Firearms Amendment Act 2022 s. 82 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Children and Community Services Amendment Act 2021 s. 15, 32, 39, 40, 52(1), (2), (4)-(7), (10)-(16) and (20) and 53(2)-(4) and (6)-(9) | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
-Firearms Amendment Act 2022 s. 82 | 13 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(c))
+Children and Community Services Amendment Act 2021 s. 15, 32, 39, 40, 52(1), (2), (4)-(7), (10)-(16) and (20) and 53(2)-(4) and (6)-(9) | 18 of 2021 | 19 Oct 2021 | s. 52(1), (4), (10), (11) and (13) and 53(2), (3) and (6): 1 Nov 2023 (see s. 2(c) and SL 2023/153 cl. 2); s. 15, 32, 39, 40, 52(2), (5)-(7), (12), (14)-(16) and (20) and 53(4) and (7)-(9): to be proclaimed (see s. 2(c))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
@@ -116,7 +116,7 @@ facility125A(1)
 family3
 family business188
 family violence3
-firearm112
+firearm article112
 first listing date3
 guidelines80(1)
 harm3, 28(1), 101(2)

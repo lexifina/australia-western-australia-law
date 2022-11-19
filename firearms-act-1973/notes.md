@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Firearms Act 1973 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Firearms Act 1973 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Firearms Act 1973 | 36 of 1973 | 18 Oct 1973 | 1 Jul 1974 (see s. 2 and Gazette 29 Mar 1974 p. 1027)
@@ -44,11 +44,7 @@ Agriculture and Related Resources Protection Amendment Act 2010 s. 69 | 46 of 20
 Reprint 6: The Firearms Act 1973 as at 13 Feb 2015 (includes amendments listed above)
 Biodiversity Conservation Act 2016 s. 316 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-Firearms Amendment Act 2022 s. 42(8) | 13 of 2022 | 18 May 2022 | 15 Jun 2022 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Firearms Amendment Act 2022 Pt. 2 (other than s. 42(8)) | 13 of 2022 | 18 May 2022 | To be proclaimed (see s. 2(c))
+Firearms Amendment Act 2022 Pt. 2 | 13 of 2022 | 18 May 2022 | s. 42(8): 15 Jun 2022 (see s. 2(b)); Pt. 2 (other than s. 42(8)): 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Other notes
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
@@ -72,33 +68,62 @@ ammunition4
 antique mechanism firearm8(2)
 approved4, 8(2)
 approved organisation23BA(5)
+approved person33A(3)
 approved shooting club23BA(5)
 authority17B(8)
 carry4
+circumstances of aggravation23AA(1)
+clause 5 matter22(3), 22AA(1)
+commencement day36(1)
+commercial premises29K(1)
 Commissioner4
 Corporate Licence17B(8)
+corresponding firearms prohibition order29O(1)
 deal4
 dealer4
 decision22(1)
 Department4
 department17B(8)
+disseminates23AJ(2)
 Extract of Licence4
 family member8(2)
 firearm4, 24(9), 25(1)
+firearms activity23AF(1)
+firearms precursor4, 23AF(1)
+firearms prohibition order4, 29A(1)
+firearms technology4, 23AG(1)
+FPO decision22(1)
 handgun4
 health professional23B(3)
-holder4
+holder4, 16D(1)
+major firearm part4, 16B(1), 16E(1)
 medical practitioner4
 missile4
-officer21B(3), 23BA(5)
+officer21A(3), 23BA(5)
 paintball4
 paintball gun4
 paintball pellets4
-possession4
+participates23AF(3)
+place4
+possession4, 4A, 23AH(2)
+prescribed4
+prohibited firearm4
+prohibited firearm accessory4
+prohibited person4
 provider30(5)
 receiver30(5)
 registered nurse23B(3)
+relevant major firearm part16B(2), 16E(2)
+relevant storage device23AH(2)
+relevant thing29J(3)
+residence29K(1)
+responsible person33A(3)
 section4
-silencer17B(8)
+section 24 material22(1)
+sound suppressor4
 student of arms15(4)
+Supreme Court proceeding22AA(1)
+surrendered thing33B(1)
+thing relevant to an offence4
+vehicle4
 violence restraining order11(4), 27A(2)

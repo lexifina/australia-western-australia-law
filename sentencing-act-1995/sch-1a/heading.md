@@ -89,10 +89,11 @@
  | s. 102 | Offence for controlled person to get funds to, from or for declared criminal organisation
  | s. 106 | Recruiting members for declared criminal organisation
 5. | Firearms Act 1973
- | s. 6(3) | Indictable offence of contravention of regulation prohibiting acquisition etc. of potentially dangerous firearm, silencer etc.
- | s. 19(1) | Obtaining, disposing of etc. firearm or ammunition when not holder of licence or permit
- | s. 19(4) | Repairing or manufacturing firearm or ammunition otherwise than in accordance with licence
- | s. 23(3) and (5) | Indictable offences relating to firearms
+ | s. 6(3) | Contravention of regulation made under s. 6(1)
+ | s. 19(1) | Obtaining, disposing of etc. firearm, major firearm part or ammunition when not holder of a licence or permit
+ | s. 23(3), (5) and (9A) | Offences relating to firearms and major firearm parts
+ | s. 23AC(1) | Unauthorised manufacture of firearms and other things
+ | s. 23AD | Unauthorised repair of firearms and other things
 6. | Misuse of Drugs Act 1981
  | s. 6(1) | Indictable offences concerned with prohibited drugs
  | s. 7(1) | Indictable offences concerned with prohibited plants
@@ -104,7 +105,7 @@
 7. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury etc.
  | s. 59A | Dangerous driving causing bodily harm — if the offender is liable to imprisonment for 7 years
-[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39.]
+[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39; No. 13 of 2022 s. 85(2).]
 ## Part 2 — Relevant simple offences
 [Heading inserted: No. 49 of 2012 s. 181(4).]
  | Enactment | Description of offence
@@ -137,7 +138,7 @@
  | s. 21(2) | Breach of or failure to observe restriction, limitation or condition of licence, permit or approval
  | s. 22A(2) and (3) | Offences relating to possession and production of Extract of Licence
  | s. 22C(1) | Offences relating to Extract of Licence, licences, permits etc.
- | s. 23(1), (2), (6), (7), (8), (9), (9a), (10), (10a) and (11) | General offences
+ | s. 23(1), (2), (6), (7), (8), (9), (10), (10a) and (11) | General offences
  | s. 24(6) | Failing to cooperate with police officer in exercise of powers relating to firearms etc.
  | s. 30(4) | Offences relating to obtaining or disposing of ammunition
  | s. 30A(1), (2) and (3) | Offences relating to sale and disposal of firearms
@@ -165,4 +166,4 @@
  | s. 7(1) and (2) | Offences relating to controlled weapons
  | s. 8A(2) and (3) | Selling or supplying controlled weapons to children
  | s. 8(1) | Carrying or possessing article as weapon
-[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13.]
+[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13; No. 13 of 2022 s. 85(3).]
