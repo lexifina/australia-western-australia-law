@@ -17,6 +17,7 @@ Public Transport Authority Amendment Regulations 2016 | 23 Dec 2016 p. 5912 | r.
 Public Transport Authority Amendment Regulations 2018 | 6 Jul 2018 p. 2549-50 | r. 1 and 2: 6 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2018 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2019 | 19 Feb 2019 p. 335 | r. 1 and 2: 19 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2019 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2020 | SL 2020/183 29 Sep 2020 | r. 1 and 2: 29 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2020 (see r. 2(b))
+Public Transport Authority Amendment Regulations (No. 2) 2022 | SL 2022/192 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Other notes
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006 s. 126.
 Defined terms
