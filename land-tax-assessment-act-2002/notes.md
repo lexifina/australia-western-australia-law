@@ -39,6 +39,7 @@ Strata Titles Amendment Act 2018 Pt. 3 Div. 11 | 30 of 2018 | 19 Nov 2018 | 1 Ma
 Revenue Laws Amendment Act 2019 Pt. 3 Div. 2-4 | 12 of 2019 | 12 Jun 2019 | Pt. 3 Div. 2: 13 Jun 2019 (see s. 2(e)); Pt. 3 Div. 3: 1 Jul 2019 (see s. 2(c)); Pt. 3 Div. 4: 30 Jun 2021 (see s. 2(d)(ii) and SL 2021/69 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 6 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
+Land Tax Assessment Amendment Act 2022 | 42 of 2022 | 21 Nov 2022 | Pt. 2: deemed to have come into operation on 1 Jul 2020 (see s. 2(b)); Pt. 1: 21 Nov 2022 (see s. 2(a)); Act other than Pt. 1 and 2: 22 Nov 2022 (see s. 2(c))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 3 Div. 2.
 If a modification is to:
@@ -68,7 +69,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 2012 to 2014 assessment periodSch. 1 cl. 10
-aged care facility38A(1)
+aged care facility26B(1), 38A(1)
 agentGl. cl. 1
 aggregated taxable valueGl. cl. 1
 amended ActSch. 1 cl. 10 and 16
@@ -78,10 +79,15 @@ assessmentGl. cl. 1
 assessment yearGl. cl. 1
 beneficiary23A(1), 29, 30K, Sch. 1 cl. 20(2)
 building contractGl. cl. 1
-change30F(1)
+camp39A
+caravan39A
+caravan or camp site39A
+care commencement date26B(1)
 clauseGl. cl. 1
 commencementSch. 1 cl. 10 and 16
 commencement dateGl. cl. 1
+commencement daySch. 1 cl. 24(1)
+commencement yearSch. 1 cl. 24(1)
 completion dateGl. cl. 1
 compliant trusteeSch. 1 cl. 9(1) and 20(1)
 conservation covenantGl. cl. 1
@@ -90,9 +96,9 @@ decisionSch. 1 cl. 12(1) and 18(1)
 disabled beneficiaryGl. cl. 1
 disabled person26A(1)
 discretionary trust29
-dwelling park land39A(1)
-dwelling park purposes39A(1)
-excluded purpose39A(1)
+dwelling or residential park39A, Sch. 1 cl. 23(1)
+dwelling park39A
+excluded land39A
 exemptGl. cl. 1
 exempt area18A(2)
 exemption period28A
@@ -106,6 +112,7 @@ family unit trust scheme29, 30H
 former ActSch. 1 cl. 16
 former section 20Sch. 1 cl. 8(1)
 former section 30Sch. 1 cl. 7(1)
+full-time care26B(2)
 home lotGl. cl. 2(4)
 home unitGl. cl. 1
 improvementsGl. cl. 1
@@ -118,24 +125,32 @@ Land Information AuthorityGl. cl. 1
 land taxGl. cl. 1
 land tax ActGl. cl. 1
 local planning schemeGl. cl. 1
+long-stay site39A
 lotGl. cl. 1 and 2(1)
 metropolitan regionGl. cl. 1
 modified rural business land provisions Sch. 1 cl. 10
+new exemption percentageSch. 1 cl. 23(1)
 new lot28A, 43A(1)
 new lot owner28B(3)
 new provisionsSch. 1 cl. 3
 non-profit associationGl. cl. 1
 non-public authoritySch. 1 cl. 16
 non-rural land29
-non-strata home unitGl. cl. 1
+non-strata home unitGl. cl. 1. 1M, 1MC
+old exemption percentageSch. 1 cl. 23(1)
 old lot43A(1)
+old Part 3 Division 4ASch. 1 cl. 23(1)
+operate39A
 original assessment year38AC(8)
 other lotsGl. cl. 2(4)
 ownerGl. cl. 1
 owner-builderGl. cl. 1
+owner-occupied home site39A
+P%15A(3)
 parcel43B(1), Gl. cl. 1
 parent lot28A, Gl. cl. 2(2)
 parent lotsGl. cl. 2(2)
+park site39A
 partnership29
 political partyGl. cl. 1
 preliminary notice about an exemption under section 37Sch. 1 cl. 4(1)
@@ -157,22 +172,27 @@ public charitable or benevolent institution37(1)
 public statutory authorityGl. cl. 1
 registeredGl. cl. 1
 related29
-related purpose39A(1)
 relevant 2-year exemption provision28D
 relevant bodyGl. cl. 1
+relevant event or circumstance20A(3)
 relevant exemption provisionSch. 1 cl. 21(3)
+relevant financial years15A(2)
 relevant owners28E(1)
 relevant period28E(1)
 relevant requirements18(1), 18A(1)
+relevant year20A(1), Sch. 1 cl. 23(1)
+relocatable home39A
 reserved land32(5), 33(6), Gl. cl. 1
 residence contract39(1)
 residential care38A(1)
+residential park39A
 residential premises39(1)
 retirement village39(1), Gl. cl. 1
 retirement village scheme39(1)
 rural business land assessmentSch. 1 cl. 10
 rural land29
 shareholder30J
+short-stay site39A
 sportGl. cl. 1
 sports associationGl. cl. 1
 subdividedGl. cl. 1
@@ -187,5 +207,6 @@ trusteeGl. cl. 1
 unimproved valueGl. cl. 1
 unit holder30
 unsatisfied requirements28B(1)
-validation periodSch. 1 cl. 10 and 16
-year A39A(5A)
+validation periodSch. 1 cl. 10, Sch. 1 cl. 16
+X%15A(3A), 39B(2)
+Y%15A(3A)
