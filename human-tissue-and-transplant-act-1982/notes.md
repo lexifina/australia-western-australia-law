@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Human Tissue and Transplant Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Human Tissue and Transplant Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Human Tissue and Transplant Act 1982 | 116 of 1982 | 8 Dec 1982 | 1 Mar 1983 (see s. 2)
@@ -18,28 +18,41 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 28 | 35 of 
 Health Services Act 2016 s. 294 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 s. 102 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Reprint 3: The Human Tissue and Transplant Act 1982 as at 19 May 2017 (includes amendments listed above)
-The provisions in this Act repealing these Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
-The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
+Human Tissue and Transplant Amendment Act 2022 Pt. 2 Div. 1 and 2 | 41 of 2022 | 21 Nov 2022 | 22 Nov 2022 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Human Tissue and Transplant Amendment Act 2022 Pt. 2 Div. 3 | 41 of 2022 | 21 Nov 2022 | 19 Feb 2024 (see s. 2(c) and SL 2024/11 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-authorised person24(4)
 blood3(1)
 blood transfusion21(4)
 Chief Health Officer 3(1)
 child3(1), 21(4)
+code37(1)
 coroner3(1)
 designated officer3(1)
 Division3(1)
 hospital3(2)
+human egg3(1)
+human embryo3(1)
 human embryonic stem cell line30A
+human sperm3(1)
 medical practitioner3(1)
 next of kin3(1)
 non-regenerative tissue3(1)
+permitted practitioner24(1)
+permitted purpose or use24(1)
 regenerative tissue3(1)
 reportable death3(1)
 section3(1)
 senior available next of kin3(1)
 subsection3(1)
+subsidiary legislation37(1)
 therapeutic use30A
 tissue3(1), 32(2)
+© State of Western Australia 2022.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2022.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health Legislation Administration Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health Legislation Administration Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Legislation Administration Act 1984 | 27 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2 and Gazette 15 Jun 1984 p. 1629)
@@ -9,15 +9,17 @@ Hospitals Amendment Act 1994 s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see
 Mental Health (Consequential Provisions) Act 1996 Pt. 9 | 69 of 1996 | 13 Nov 1996 | 13 Nov 1997 (see s. 2)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 69 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Reprint of the Health Legislation Administration Act 1984 as at 11 Jan 2002 (includes amendments listed above)
- | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
- | Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 81 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
- | Medical Practitioners Act 2008 Sch. 3 cl. 24 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
- | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 23 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
- | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
- | Reprint 2: The Health Legislation Administration Act 1984 as at 18 Mar 2011 (includes amendments listed above)
- | Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 14 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
- | Health Services Act 2016 s. 293 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
- | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 15 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 81 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Medical Practitioners Act 2008 Sch. 3 cl. 24 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 23 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Reprint 2: The Health Legislation Administration Act 1984 as at 18 Mar 2011 (includes amendments listed above)
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 14 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
+Health Services Act 2016 s. 293 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 15 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
+Human Tissue and Transplant Amendment Act 2022 s. 34 | 41 of 2022 | 21 Nov 2022 | 22 Nov 2022 (see s. 2(b))
+Other notes
 Formerly referred to the Industrial Arbitration Act 1979, the short title of which was changed to the Industrial Relations Act 1979 by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984. The reference was amended under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.
 The Mental Health (Consequential Provisions) Act 1996 s. 38(2) is a transitional provision of no further effect.

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Anatomy Act 1930 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Anatomy Act 1930 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Anatomy Act 1930 | 23 of 1930 (21 Geo. V No. 23) | 19 Dec 1930 | 19 Dec 1930
@@ -23,7 +23,8 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 3 | 35 of 2
 Reprint 4: The Anatomy Act 1930 as at 7 Sep 2012 (includes amendments listed above)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 1 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 3 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
-Repealed by the Human Tissue and Transplant Act 1982.
+Human Tissue and Transplant Amendment Act 2022 s. 33 | 41 of 2022 | 21 Nov 2022 | 22 Nov 2022 (see s. 2(b))
+Other notes
 The Limitation Act 1935 s. 48A(2) reads as follows:
 (2) The provisions of any Act which enact that in an action to which section 47A of this Act applies,
 (a) the action is to be commenced within a particular time; or
