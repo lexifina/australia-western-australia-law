@@ -1,5 +1,6 @@
-## The Second Schedule
-Fees
+## Schedule 2 — Fees
+[r. 15]
+[Heading amended: SL 2022/201 r. 16(1).]
  | $
 On filing petition ............................................................................ | 1.00
 On application for leave to withdraw petition ................................ | 0.30
@@ -11,4 +12,4 @@ On any interlocutory order .....................................................
 For sealing any copy of a document as an office copy, per folio ... | 0.02
 For making any copy of a document, and sealing same as an office copy, per folio ..................................................................... | 0.05
 For every summons for the attendance of a witness ....................... | 0.05
-[The Second Schedule amended: Act No. 113 of 1965 s. 8(1)]
+[Schedule 2, formerly The Second Schedule, amended: Act No. 113 of 1965 s. 8(1); SL 2022/201 r. 16.]
