@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Auditor General Act 2006 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Auditor General Act 2006 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Auditor General Act 2006 | 75 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Public Sector Reform Act 2010 s. 72 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Auditor General Amendment Act 2022 s. 3-9 | 43 of 2022 | 29 Nov 2022 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
