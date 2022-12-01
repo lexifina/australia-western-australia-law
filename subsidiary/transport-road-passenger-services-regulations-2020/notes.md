@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport (Road Passenger Services) Regulations 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Transport (Road Passenger Services) Regulations 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Transport (Road Passenger Services) Regulations 2020 | SL 2020/90 24 Jun 2020 | Pt. 1: 24 Jun 2020 (see r. 2(a)); Pt. 2-7, Pt. 8 (other than r. 110), Pt. 9-15, Sch. 1-5, Sch. 6 (other than it. 34 and 35) and Sch. 7: 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2); r. 110 and Sch. 6 it. 34 and 35: 1 Jul 2021 (see r. 2(b))
@@ -11,10 +11,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 
 Transport Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 4 | SL 2022/23 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 8 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Transport (Road Passenger Services) Amendment Regulations 2022 | SL 2022/131 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Transport (Road Passenger Services) Amendment Regulations (No. 2) 2022 r. 3-5 | SL 2022/198 18 Nov 2022 | 1 Dec 2022 (see r. 2(b))
+Transport (Road Passenger Services) Amendment Regulations (No. 2) 2022 | SL 2022/198 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -24,13 +21,13 @@ Defined termProvision(s)
 agreement period156(2)
 approved identification card3
 approved person3
-approved provider (family violence exception)28(1)
+approved provider (family violence exception)27(1)
 approved special events provider152
 AS/NZS3
 assessment period152
 assistance animal137(1)
 associated journey58(1)
-associated relevant journey152
+associated relevant journey151
 Australian Design Rules3
 authorised on-demand rank or hail vehicle3
 authorised provider76
@@ -62,9 +59,10 @@ GST3
 interstate driver authorisation document3
 interstate vehicle authorisation document3
 interstate vehicle licence3
+large vehicle3
 last approved medical report3
 last criminal record check3
-local offenceSch. 2 cl. 1(5), Sch. 3 cl. 1(5)
+local offenceSch. 2 cl. 1(5), Sch. 3 cl. 1(4)
 metered fare152
 metered fare amount152
 metropolitan region3
