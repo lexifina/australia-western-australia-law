@@ -4,7 +4,7 @@ Home Building Contracts Act 1991
 NOTICE FOR THE HOME OWNER
 This notice
 A builder must give a copy of this notice to you, as the owner, before you sign a contract for home building work that is covered by the Home Building Contracts Act 1991.
-This notice explains relevant provisions of that Act as required by section 4(2). The Act itself should be referred to for the exact text. A copy of the Act can be obtained from the State Law Publisher (check the White Pages for the current address).
+This notice explains relevant provisions of that Act as required by section 4(2). The Act itself should be referred to for the exact text. A copy of the Act can be accessed electronically at <https://www.legislation.wa.gov.au>.
 Who are “owners” and “builders”?
 In this notice “owner” means the person for whom the home building work is to be done and “builder” means the person who, in the course of business, is to do the work or arrange for it to be done.
 What the Act covers
@@ -20,7 +20,7 @@ Home indemnity insurance is also compulsory for associated work if that work is 
 Before commencing work or demanding any payment (including a deposit) from you, the builder must take out home indemnity insurance and give you a certificate confirming the existence of the insurance cover.
 There may be periods when a builder is exempt from the requirement to take out home indemnity insurance. During, and in some circumstances after, one of these periods a builder must give you a notice in a prescribed form.
 Home indemnity insurance will protect you and any successive owners against financial loss due to the insolvency, death or disappearance of the builder that results in —
-(a)loss of deposit (up to a limit of $20 000);
+(a)loss of deposit (up to a limit of $40 000);
 (b)the non-completion of the building work; or
 (c)the failure to rectify faulty or unsatisfactory building work.
 Home indemnity insurance generally does not cover an owner for any money paid in advance other than a deposit. In any event it is a breach of the Act for a builder to request and receive such a payment — see later in this notice under “Provisions that are not allowed”.
@@ -101,5 +101,5 @@ There are monetary limits on orders that can be made under that Act. The limits 
 3.Procedure
 Before you make a complaint to the Building Commissioner about a contract that falls within this Act, written notice that you propose to make a complaint must be given to the other party together with a description of the remedy that you propose to seek and the evidence on which you propose to rely. You must provide a copy of that notice to the Building Commissioner at the time of making a complaint.
 Advice on how to make a complaint to the Building Commissioner and related matters may be obtained from Building Commission staff or from the Building Commission’s website at www.buildingcommission.wa.gov.au.
-[Schedule 1 inserted: Gazette 2 Sep 2003 p. 3924-30; amended: Gazette 29 Jun 2007 p. 3191-2; 8 May 2012 p. 1888-91; 12 Feb 2013 p. 921; SL 2020/66 r. 5.]
+[Schedule 1 inserted: Gazette 2 Sep 2003 p. 3924-30; amended: Gazette 29 Jun 2007 p. 3191-2; 8 May 2012 p. 1888-91; 12 Feb 2013 p. 921; SL 2020/66 r. 5; SL 2022/172 r. 5.]
 [Schedules 2-8 deleted: Gazette 2 Sep 2003 p. 3930.]
