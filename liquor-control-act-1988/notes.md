@@ -63,6 +63,7 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 2 | 44 of 2022 | 1 Dec 2022 | To be proclaimed (see s. 2(b))
 Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
