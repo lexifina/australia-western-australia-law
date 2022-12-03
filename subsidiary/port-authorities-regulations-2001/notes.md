@@ -1,7 +1,7 @@
 Notes
 This is a compilation of the Port Authorities Regulations 2001 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Port Authorities Regulations 2001 | 18 May 2001 p. 2417-545 | 1 Jun 2001 (see r. 2)
 Port Authorities Amendment Regulations 2002 | 22 Mar 2002 p. 1655 | 22 Mar 2002
 Port Authorities Amendment Regulations 2003 | 31 Jan 2003 p. 293-9 | 31 Jan 2003
@@ -56,10 +56,11 @@ Port Authorities Amendment Regulations 2017 | 3 Oct 2017 p. 5037-48 | r. 1 and 2
 Transport Regulations Amendment (Pilotage) Regulations 2018 Pt. 2 | 11 May 2018 p. 1511-12 | 12 May 2018 (see r. 2(b))
 Port Authorities Amendment Regulations 2021 | SL 2021/52 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
 Port Authorities Amendment Regulations (No. 2) 2021 | SL 2021/82 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b), SL 2021/52 r. 2(b) and SL 2021/50 cl. 2)
+Port Authorities Amendment Regulations 2022 | SL 2022/205 2 Dec 2022 | r. 1 and 2: 2 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2022 (see r. 2(b))
+Other notes
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Dangerous Goods Safety Act 2004.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
