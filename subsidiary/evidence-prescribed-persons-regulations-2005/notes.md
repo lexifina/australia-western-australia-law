@@ -13,7 +13,8 @@ Evidence (Prescribed Persons) Amendment Regulations 2016 | 24 Jun 2016 p. 2319-2
 Evidence (Prescribed Persons) Amendment Regulations 2018 | 19 Jun 2018 p. 2077 | r. 1 and 2: 19 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Evidence (Prescribed Persons) Amendment Regulations 2019 | 15 Mar 2019 p. 793-4 | r. 1 and 2: 15 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Mar 2019 (see r. 2(b))
 Evidence (Prescribed Persons) Amendment Regulations 2020 | SL 2020/77 9 Jun 2020 | r. 1 and 2: 9 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2020 (see r. 2(b))
+Evidence (Prescribed Persons) Amendment Regulations 2022 | SL 2022/204 2 Dec 2022 | r. 1 and 2: 2 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2022 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-PathWest Laboratory Medicine WA4(1)
+PathWest Laboratory Medicine WA3
