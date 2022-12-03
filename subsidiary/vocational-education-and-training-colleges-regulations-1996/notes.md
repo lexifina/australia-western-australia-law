@@ -52,6 +52,7 @@ Vocational Education and Training (Colleges) Amendment Regulations (No. 4) 2020 
 Vocational Education and Training (Colleges) Amendment Regulations 2021 | SL 2021/143 13 Aug 2021 | r. 1 and 2: 13 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2021 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2021 | SL 2021/168 24 Sep 2021 | r. 1 and 2: 24 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2021 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2022 | SL 2022/132 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
+Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2022 | SL 2022/203 2 Dec 2022 | r. 1 and 2: 2 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2022 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
@@ -65,9 +66,8 @@ Defined terms
 Defined termProvision(s)
 2020 instrument32(1)
 Admissions Manager5
-amending regulation15A(5)
 amendment day4A(3)
-Australian resident15A(4)
+Australian resident15A(1A)
 category3(1)
 Centrelink20(1)
 concessional or youth student3(1)
@@ -77,6 +77,7 @@ course3(1)
 course fee3(1)
 enrolled12(2)
 existing worker trainee3(1)
+final year secondary school student12(1)
 hours3(1)
 nominal hours3AA(1)
 payment period24A
@@ -88,4 +89,3 @@ unenrolled secondary school aged person12(1)
 unforeseen circumstances24A
 unit3(1)
 unit fee11(1)
-visa15A(4)
