@@ -7,6 +7,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 National Disability Insurance Scheme (Worker Screening) Act 2020 (s. 23) | 48 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(b))
+Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 1 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
