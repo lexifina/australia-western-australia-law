@@ -1,10 +1,14 @@
 Notes
-This is a compilation of the Education and Care Services National Law (WA) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Education and Care Services National Law (WA) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Education and Care Services National Law (WA) Act 2012 | 11 of 2012 | 20 Jun 2012 | s. 1 and 2: 20 Jun 2012 (see s. 2(a)); Act other than s. 1, 2, Pt. 4 Div. 3, Schedule (s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), s. 172(d), 266-268 and 270(1)(d) and (2)-(4)): 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411); Pt. 4 Div. 3: 1 Jan 2013 (see s. 2(b)(ii) and Gazette 14 Dec 2012 p. 6195); Schedule (s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), s. 172(d), 266-268 and 270(1)(d) and (2)-(4): 1 May 2013 (see s. 2(c) and Gazette 1 May 2013 p. 1697)
 Education and Care Services National Law (WA) Amendment Act 2018 Pt. 2 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
 Reprint 1: The Education and Care Services National Law (WA) Act 2012 as at 18 Jan 2019 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
 Other notes
 See the Education and Care Services National Law (Transitional) Regulations 2012 published in Gazette 25 Jul 2012 p. 3413-15 made under the Education and Care Services National Law (WA) Act 2012 section 19.
 Defined terms
