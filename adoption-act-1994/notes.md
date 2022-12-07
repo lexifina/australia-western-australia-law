@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Adoption Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Adoption Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Adoption Act 1994 | 9 of 1994 | 15 Apr 1994 | s. 1 and 2: 15 Apr 1994; Act other than s. 1 and 2: 1 Jan 1995 (see s. 2 and Gazette 25 Nov 1994 p. 5905)
@@ -33,6 +33,10 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 18 | 47 of 2011 | 25 Oct 201
 Adoption Amendment Act 2012 | 15 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (see s. 2(a)); Act other than s. 1 and 2: 3 Dec 2012 (see s. 2(b) and Gazette 30 Nov 2012 p. 5773)
 Reprint 5: The Adoption Act 1994 as at 1 Mar 2013 (includes amendments listed above)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
 Other notes
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
 Section 16A(2) was deleted by the Adoption Amendment Act 2012 s. 10.
