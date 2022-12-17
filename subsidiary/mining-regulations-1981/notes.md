@@ -158,6 +158,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt
 Mines and Petroleum Regulations Amendment (Royalty Information) Regulations 2022 Pt. 2 | SL 2022/1 14 Jan 2022 | 15 Jan 2022 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 7 | SL 2022/58 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Mining Amendment Regulations 2022 | SL 2022/118 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
+Mining Amendment Regulations (No. 2) 2022 | SL 2022/210 16 Dec 2022 | r. 1 and 2: 16 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2022 (see r. 2(b))
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -208,7 +209,6 @@ Department of Finance worker96CB(1)
 determination137(1)
 Director116, 120P
 Director General of Finance96CB(1)
-Director Operations, Resource and Environmental Compliance Division2
 document59A(1)
 Dry Freight Wire86AD(1)
 environmental officer2
@@ -222,6 +222,8 @@ file2
 first body corporate85(1)
 Form2
 GDA89A(2)
+GM Mine Closure and Environmental Services2
+GM Mining Environmental Compliance2
 gold bearing material86AA(11)
 gold metal86AA(11)
 gold royalty project86AA(11)
@@ -292,7 +294,7 @@ relevant depth101A(1)
 relevant exploration licence4A
 relevant information96CB(1)
 relevant operations report58A(1)
-relevant period86(2a), 96CA(1)
+relevant period86(2a), 86(2a), 96CA(1)
 reversion licence63A(1)
 royalties activities96CB(1)
 royalty ore86AD(4)
