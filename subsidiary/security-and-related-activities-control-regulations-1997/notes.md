@@ -53,6 +53,7 @@ Police Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5 | SL 2020
 Security and Related Activities (Control) Amendment Regulations 2020 | SL 2020/171 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/106 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/65 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Security and Related Activities (Control) Amendment Regulations 2022 | SL 2022/211 16 Dec 2022 | r. 1 and 2: 16 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2022 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
@@ -65,6 +66,7 @@ approved training course3(1)
 AS3(2)
 blood sampling equipment44
 business3(1)
+business activitySch. 1 cl. 1A
 chief executive officer44
 commencement daySch. 1 cl. 11A(2)
 crowd control activities3(1)
