@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Work Health and Safety (Mines) Regulations 2022. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Work Health and Safety (Mines) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Work Health and Safety (Mines) Regulations 2022 (other than r. 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2)) | SL 2022/32 11 Mar 2022 | 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2)
+Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/214 23 Dec 2022 | 24 Dec 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -79,7 +80,7 @@ Class 1 demolition work5, 142B(1)
 class 1 engineSch. 26 cl. 13(1)
 Class 2 demolition licence5
 Class 2 demolition work5, 142C(1)
-class 2 engineSch. 26 cl. 13(1)
+class 2 engineSch. 26 cl. 12(1)
 Class A asbestos removal licence5
 Class A asbestos removal work5
 Class B asbestos removal licence5
@@ -93,7 +94,7 @@ commencement notice726(1)
 compatible357(2A)
 competency certificate747(1)
 competent assessor617(2)
-competent person5, 235(1B)
+competent person5, 235(1A)
 compliance day732(1)
 concrete panel5, 306A(1)
 concrete placing boom5
@@ -101,7 +102,7 @@ confined space5
 confined space entry permit5
 construction project5, 292
 construction site5
-construction work5, 289(1), (2) and (3)
+construction work5, 289(1), 289(2), 289(3)
 consumer product5
 container5
 contaminant5
@@ -141,7 +142,7 @@ eligible person676(1)
 emergency454(1A), 455(1A)
 emergency service organisation5
 emergency service worker5
-enclosed workplace5, 50A, 50B(1), (2), (3) and (6)
+enclosed workplace5, 50A, 50B(1) (2), (3) and (6)
 energised5
 engineering control5
 entry5
@@ -180,7 +181,7 @@ general diving work5
 genuine research5
 geotechnical structure5
 GHS5
-harness221(1A)
+harness221
 hazard category5
 hazard class5
 hazardous area5
@@ -245,7 +246,7 @@ manufacturer5
 map coordinates675TA(1)
 mast climbing work platform5
 materials hoist5
-medical examination notice5, 55A, 55B(1)
+medical examination notice5, 55E, 55F(1)
 medical treatment5
 member698A
 membrane filter method5
@@ -309,6 +310,8 @@ principal mining hazard608A, 612(1) and (2)
 product identifier5
 production area663(1)
 prohibited carcinogen5
+psychosocial hazard5, 55A
+psychosocial risk5, 55B
 purging71(1A)
 quantity5
 quarry5
@@ -325,7 +328,7 @@ registered manager705
 registered medical practitioner5
 registered training organisation5
 registrable plant716(1), 718(1)
-relevant activitySch. 27 cl. 1(1), 2(1), 3(1), 4(1), 5(1) and 6(1)
+relevant activitySch. 27 cl. 1(1), 2(1), 3(1), 4(1), 5(1), 6(1)
 relevant competence committee5
 relevant competencies171(1A)
 relevant diving experience172(1A), 173(1A)
@@ -435,4 +438,5 @@ winding engine driver5
 winding system5
 work box5
 worker monitoring plan641I(1)
+workers’ accommodation55D(1A)
 work positioning system5
