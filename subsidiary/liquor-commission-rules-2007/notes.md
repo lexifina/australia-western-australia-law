@@ -9,6 +9,7 @@ Liquor Commission Amendment Rules 2014 | 18 Nov 2014 p. 4327-8 | r. 1 and 2: 18 
 Reprint 1: The Liquor Commission Rules 2007 as at 10 Mar 2017 (includes amendments listed above)
 Liquor Commission Amendment Rules 2019 | 10 Sep 2019 p. 3225-6 | r. 1 and 2: 10 Sep 2019 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
 Liquor Commission Amendment Rules 2020 | SL 2020/29 31 Mar 2020 | r. 1 and 2: 31 Mar 2020 (see r. 2(a)); Rules other than r. 1 and 2: 1 Apr 2020 (see r. 2(b))
+Liquor Commission Amendment Rules (No. 2) 2022 | SL 2022/218 23 Dec 2022 | r. 1 and 2: 23 Dec 2022 (see r. 2(a)); Rules other than r. 1 and 2: 24 Dec 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -19,8 +20,10 @@ Defined termProvision(s)
 authority8A(2)
 commencement day16(3)
 document3
+interested person5(1A)
 lodge3
 party3
 proceedings3
 record3
 repealed rules16(3)
+reviewable decision5(1A)
