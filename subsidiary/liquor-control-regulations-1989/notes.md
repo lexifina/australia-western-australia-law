@@ -154,10 +154,12 @@ Liquor Control (Kadjina Restricted Area) Regulations 2020 Pt. 5 | SL 2020/218 6 
 Liquor Control Amendment Regulations 2021 | SL 2021/94 22 Jun 2021 | r. 1 and 2: 22 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2021 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 3) 2021 | SL 2021/163 17 Sep 2021 | r. 1 and 2: 17 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Sep 2021 (see r. 2(b) and SL 2021/162 cl. 2)
 Liquor Control Amendment Regulations (No. 2) 2021 | SL 2021/207 3 Dec 2021 | 1 Feb 2022 (see r. 2 and SL 2021/198 cl. 2)
+Liquor Control Amendment Regulations 2022 (other than Pt. 3) | SL 2022/217 23 Dec 2022 | Pt. 1: 23 Dec 2022 (see r. 2(a)); Pt. 2: 24 Dec 2022 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 6 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
+Liquor Control Amendment Regulations 2022 Pt. 3 | SL 2022/217 23 Dec 2022 | Immediately after the Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 r. 13 comes into operation (see r. 2(c))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
@@ -185,6 +187,7 @@ approved viticulture course9A(10e)
 attendee8B(2)
 Australian learner driver permit18A(1)
 authorised arrangement8E(1)
+Authority28(1)
 bar11(1)
 caterer9A(14A)
 commencement day14ADG(1)
@@ -195,6 +198,7 @@ cruise ship8(3)
 current26(1ab)
 current negative determination8A(3)
 current WA photo card18A(1)
+Deposited Plan28(1)
 entertainment8A(1)
 farmers’ market8D(1)
 function8F(1)
@@ -225,7 +229,7 @@ producers’ association8D(1)
 purchase5(2)
 qualifying intra-State voyage8(3)
 qualifying person8(3)
-relevant body corporate5B(2), 5B(3), 5B(4)
+relevant body corporate5B(2), (3) and (4)
 relevant lot11(1)
 relevant premises11(1)
 renewal application14ADD(1)

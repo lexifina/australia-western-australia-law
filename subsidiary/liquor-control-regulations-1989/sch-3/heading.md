@@ -50,6 +50,7 @@ Item | Description | Fee $
 20. | Application under section 62(6) to vary any plans or specifications the subject of a condition | 289.00
 21. | Application for approval of agreement or arrangement | 242.50
 22. | Application under section 115AD for review of decision to give notice | 253.50
+22A. | Application under section 152NH(2) for review of decision to make or vary short-term exclusion order | 253.50
 23. | Application under section 119A for approval to conduct non-liquor business on licensed premises | 230.00
 24. | Application under section 152W(3), other than by an occupier of premises, for a liquor restriction declaration in relation to the premises | 276.00
 25. | Application under section 126A for approval of entertainment for juveniles on licensed premises | 66.50
@@ -69,4 +70,4 @@ Item | Description | Fee $
  | (a)1 to 10 postcodes | 41.50
  | (b)more than 10 postcodes | 91.00
 39. | For each person who is a party to an application under the Act and in relation to whom a background check is sought from the Police Service | 154.00
-[Schedule 3 inserted: Gazette 22 Oct 2019 p. 3725-8.]
+[Schedule 3 inserted: Gazette 22 Oct 2019 p. 3725-8; amended: SL 2022/217 r. 7.]
