@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Appeals Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Criminal Appeals Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Appeals Act 2004 | 60 of 2004 | 23 Nov 2004 | s. 1 and 2: 23 Nov 2004; Act other than s. 1 and 2: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -11,10 +11,7 @@ Acts Amendment (Justice) Act 2008 Pt. 6 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 
  | Criminal Appeals Amendment (Double Jeopardy) Act 2012 Pt. 2 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
  | Reprint 2: The Criminal Appeals Act 2004 as at 12 Apr 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13)
  | Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 5 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Criminal Appeals Amendment Act 2022 Pt. 2 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
+ | Criminal Appeals Amendment Act 2022 Pt. 2 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -25,28 +22,28 @@ appeal court36
 appellant4(2)
 authorised officer46A(1)
 charge A46A(1), 46B(1)
-concluded4(2)
+concluded4(1)
 Court of Appeal Registrar4(2)
 court of summary jurisdiction4(2)
 decision6
 factual finding32(2)
 investigate46C(1)
-law enforcement officer46C(1)
+law enforcement officer46C
 leave application46A(1)
 lower court36
 new charge46A(1), 46E(1)
 offence A30(5), 32(2), 46A(1)
-offence B30(5), 32(6) and (7)
 offence A46B(1)
-offender22
+offence B30(5), 30(5), 32(6), 32(7)
+offender22, 35C
 relevant offence46C(1)
-rules of court4(2)
+rules of court4(1)
 section 27 finding32(2)
 sentence A41(2), 49
 sentence B49
 serious offence46A(1)
 superior court4(2), 47(1)
-Supreme Court4(2), 6
+Supreme Court4(2), 5(3)
 trial A46A(1), 46B(1)
-trial court22
+trial court21(4)
 video link43(1)

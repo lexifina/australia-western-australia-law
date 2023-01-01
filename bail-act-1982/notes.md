@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bail Act 1982 | 86 of 1982 | 18 Nov 1982 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -71,9 +71,6 @@ High Risk Serious Offenders Act 2020 s. 117 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2
 Family Violence Legislation Reform Act 2020 Pt. 5 | 30 of 2020 | 9 Jul 2020 | s. 38, 42, 44, 45 and 49: 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(iii)); s. 50: 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i)); s. 39-41, 43 and 46-48: 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iii))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Bail Amendment Act 2022 | 29 of 2022 | 3 Sep 2022 | s. 1 and 2: 3 Sep 2022 (see s. 2(a)); s. 9 and 10: 4 Sep 2022 (see s. 2(b)); s. 3-8: 1 Oct 2022 (see s. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Criminal Appeals Amendment Act 2022 Pt. 3 Div. 1 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -97,7 +94,7 @@ Defined terms
 Defined termProvision(s)
 accountable authority66D(1)
 accused3(1), 6(1), 6A(1)
-adjournment 3
+adjournment3
 amendment31A(1)
 appeal3(1)
 appropriate judicial officer3(1)
