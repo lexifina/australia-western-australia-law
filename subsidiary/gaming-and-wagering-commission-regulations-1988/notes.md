@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Gaming Commission Regulations 1988 | 29 Apr 1988 p. 1295-304 | 2 May 1988 (see r. 2)
@@ -76,9 +76,6 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Gaming and Wagering Commission Amendment Regulations (No. 3) 2019 | 31 May 2019 p. 1717-21 | Pt. 1: 31 May 2019 (see r. 2(a)); Pt. 2 and 3: 1 Jun 2019 (see r. 2(b) and (c))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2020 | SL 2020/10 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).

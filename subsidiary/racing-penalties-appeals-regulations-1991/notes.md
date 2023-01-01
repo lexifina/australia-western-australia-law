@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Racing Penalties (Appeals) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Racing Penalties (Appeals) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Racing Penalties (Appeals) Regulations 1991 | 12 Apr 1991 p. 1662-3 | 15 Apr 1991 (see r. 2 and Gazette 12 Apr 1991 p. 1597)
@@ -27,7 +27,4 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 8 | 7 Sep 2018 p. 3192-200 | 1 Jan 2019 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 8 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
 Racing Penalties (Appeals) Amendment Regulations 2022 | SL 2022/119 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 8 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
