@@ -117,13 +117,14 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 18 | 25 of 201
  | Declared Places (Mentally Impaired Accused) Act 2015 s. 87 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
  | Reprint 10: The Parliamentary Commissioner Act 1971 as at 4 Mar 2016 (includes amendments listed above)
  | Local Government Legislation Amendment Act 2016 Pt. 3 Div. 26 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+ | Parliamentary Commissioner Amendment (Reportable Conduct) Act 2022 (other than Pt. 2 Div. 2) | 25 of 2022 | 19 Aug 2022 | Pt. 1: 19 Aug 2022 (see s. 2(a)); Pt. 2 Div. 1: 1 Jan 2023 (see s. 2(c) and SL 2022/206 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 TAB (Disposal) Act 2019 s. 151 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Parliamentary Commissioner Amendment (Reportable Conduct) Act 2022 (other than Pt. 1) | 25 of 2022 | 19 Aug 2022 | Act other than Pt. 1 and Pt. 2 Div. 2: 1 Jan 2023 (see s. 2(c) and SL 2022/206 cl. 2); Pt. 2 Div. 2: 1 Jan 2024 (see s. 2(b) and SL 2022/206 cl. 2)
+Parliamentary Commissioner Amendment (Reportable Conduct) Act 2022 Pt. 2 Div. 2 | 25 of 2022 | 19 Aug 2022 | 1 Jan 2024 (see s. 2(b) and SL 2022/206 cl. 2)
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
@@ -151,28 +152,54 @@ Acting Commissioner4
 appropriate authority4
 authority4
 body4A(2)
-CCS Act19A(1)
+CCS Act4
+child19C
+commencement day19C
 Commissioner4
+Commissioner of Police4
+conduct19G(3)
 contractor4
+conviction19H(2), (3) and (5)
 Corruption and Crime Commission4
 department4
 Deputy Commissioner4
 Director of Public Prosecutions4
+employee19C, 19D(1)
 employing authority9(5)
 energy ombudsman scheme34(7)
 established4A(3)
 governing body34(7)
+head4, 19E(1), (2) and (3)
 Inspector of Custodial Services4
 investigable death19A(1)
+investigation19C
+investigation information19B(5), 19C
+investigator4
 officer of the Commissioner4
 officer of the Corruption and Crime Commission4
 officer of the Parliamentary Inspector of the Corruption and Crime Commission4
 Parliamentary Inspector of the Corruption and Crime Commission4
 person aggrieved4
+physical assault19C
 principal officer4
 public service officer4
+publish19ZJ(1)
+Registrar19ZI(1)
 relevant authorities17A(4)
+relevant court19ZI(1)
+relevant employee19T(4)
+relevant entity4
+relevant investigation19ZG(1)
+religious body4
+reportable allegation4, 19F(1) and (2)
+reportable conduct4, 19G(2)
+Reportable conduct19G(1)
+reportable conduct information22C(1)
+reportable conduct scheme4
+reportable conviction4, 19H(1)
 responsible Minister4
+sexual misconduct19C
+sexual offence19C
 staff4
 subcontractor4
 tribunal4
