@@ -188,7 +188,7 @@ Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 2 | 26 of 201
 Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 | 28 of 2018 | 2 Nov 2018 | 1 Jan 2019 (see s. 2(b) and Gazette 21 Dec 2018 p. 4845)
 Criminal Law Amendment (Intimate Images) Act 2019Pt. 2 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
 Criminal Code Amendment (Child Marriage) Act 2020 | 2 of 2020 | 27 Feb 2020 | s. 1 and 2: 27 Feb 2020 (see s. 2(a)); Act other than s.1 and 2: 28 Feb 2020 (see s. 2(b))
-Criminal Code Amendment (COVID-19 Response) Act 2020 | 8 of 2020 | 3 Apr 2020 | s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 5(3): 4 Apr 2020 (see s. 2(c))
+Criminal Code Amendment (COVID-19 Response) Act 2020 | 8 of 2020 (as amended by No. 39 of 2020 s. 7, No. 1 of 2021 s. 7, No. 21 of 2021 s. 7 and No. 15 of 2022 s. 7) | 3 Apr 2020 | s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 5(3): 4 Apr 2020 (see s. 2(c)); s. 4(2) and 5(3): 4 Jan 2023 (see s. 2(b))
 Family Violence Legislation Reform Act 2020 Pt. 2 | 30 of 2020 | 9 Jul 2020 | s. 12: 10 Jul 2020 (see s. 2(1)(b)); s. 3, 4 and 7-11: 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(i)); s. 5 and 6: 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2020 Pt. 2 | 39 of 2020 | 19 Nov 2020 | 20 Nov 2020 (see s. 2(b))
 Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 2 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
@@ -201,7 +201,6 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Criminal Code Amendment (COVID-19 Response) Act 2020 s. 4(2) and 5(3) | 8 of 2020 (as amended by No. 39 of 2020 Pt. 3, No. 1 of 2021 Pt. 3, No. 21 of 2021 Pt. 3 and No. 15 of 2022 Pt. 3) | 3 Apr 2020 | 4 Jan 2023 (see s. 2(b))
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
 Other notes
 Footnote no longer applicable.
@@ -327,7 +326,7 @@ engaged in a private act221BA
 explosive substance1(1), 455, 557(2)
 family relationship221(2)
 female genital mutilation306(1)
-first relevant conviction401A(1), 401A(1)
+first relevant conviction401A(1)
 forge1(1)
 government contractor81(1)
 grievous bodily harm1(1)
