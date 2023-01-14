@@ -104,6 +104,7 @@ Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021
 Firearms Amendment Regulations 2022 | SL 2022/40 25 Mar 2022 | r. 1 and 2: 25 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Mar 2022 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/65 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Firearms Amendment Regulations (No. 2) 2022 | SL 2022/190 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
+Firearms Amendment Regulations 2023 | SL 2023/1 13 Jan 2023 | r. 1 and 2: 13 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2023 (see r. 2(b))
 Other notes
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
