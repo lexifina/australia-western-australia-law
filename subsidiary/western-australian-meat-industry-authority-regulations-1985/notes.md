@@ -51,6 +51,7 @@ Western Australian Meat Industry Authority Amendment Regulations 2020 | SL 2020/
 Agriculture and Food Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/160 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Western Australian Meat Industry Authority Amendment Regulations 2021 | SL 2021/171 8 Oct 2021 | r. 1 and 2: 8 Oct 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2021 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2022 | SL 2022/21 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Western Australian Meat Industry Authority Amendment Regulations 2023 | SL 2023/4 27 Jan 2023 | r. 1 and 2: 27 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jan 2023 (see r. 2(b))
 Other notes
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
