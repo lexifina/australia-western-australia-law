@@ -5,6 +5,8 @@ Citation | Published | Commencement
 Health Practitioner Regulation National Law Regulation 2018 | 26 Oct 2018 p. 4269-308 | s. 41: 26 Oct 2018 (see r. 2(2)(a)); Regulation other than s. 41: 1 Dec 2018 (see r. 2(1))
 Health Practitioner Regulation National Law Amendment (Miscellaneous) Regulation 2019 | 17 Dec 2019 p. 4359-64 | 18 Dec 2019 (see r. 2(a))
 Health Practitioner Regulation National Law Amendment (Professional Indemnity Insurance) Regulation 2021 | 13 Dec 2021 p. 5487-90 | 14 Dec 2021 (see r. 2(a))
+Health Practitioner Regulation National Law Amendment Regulation 2022 | 2 Feb 2023 p. 111-17 | 3 Feb 2023 (see r. 2a))
+Health Practitioner Regulation National Law Amendment (Paramedicine Qualification) Regulation 2022 | 2 Feb 2023 p. 119-23 | 3 Feb 2023 (see r. 2a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
