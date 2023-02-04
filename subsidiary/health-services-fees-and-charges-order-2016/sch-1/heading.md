@@ -24,11 +24,11 @@
  | (b)for ineligible out-patients — for each individual service rendered | $351
 5. | Medicines, for each item —
  | (a)for holders of an entitlement card | no charge
- | (b)for other people who are — (i)veterans who hold a Gold Card or a White Card; or (ii)pensioners; or (iii)concessional beneficiaries | $6.80
+ | (b)for other people who are — (i)veterans who hold a Gold Card or a White Card; or (ii)pensioners; or (iii)concessional beneficiaries | $7.30
  | (c)for all other people (other than ineligible out-patients) —
- | (i)at a participating hospital for an item on the PBS list | PBS price up to a maximum of $42.50
- | (ii)at a participating hospital for an item not on the PBS list | $34
- | (iii)at a hospital that is not a participating hospital | $34
+ | (i)at a participating hospital for an item on the PBS list | PBS price up to a maximum of $30
+ | (ii)at a participating hospital for an item not on the PBS list | $24
+ | (iii)at a hospital that is not a participating hospital | $24
 ## Subdivision 4 — Same day patients
 [Heading inserted: SL 2021/134 cl. 4.]
 6. | Same day health service, other than a service subject to a charge set out in this Schedule and associated with the provision of such service —
@@ -39,7 +39,7 @@
 ## Subdivision 5 — Other services
 [Heading inserted: SL 2021/134 cl. 4.]
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $42 per day
-[Division 1 inserted: SL 2021/134 cl. 4; amended: SL 2021/194 cl. 4; SL 2022/9 cl. 4; SL 2022/55 cl. 4; SL 2022/110 r. 4; SL 2022/166 cl. 4.]
+[Division 1 inserted: SL 2021/134 cl. 4; amended: SL 2021/194 cl. 4; SL 2022/9 cl. 4; SL 2022/55 cl. 4; SL 2022/110 r. 4; SL 2022/166 cl. 4; SL 2023/6 cl. 4.]
 ## Division 2 — Compensable patients
 [Heading inserted: SL 2021/134 cl. 4.]
 ## Subdivision 1 — Compensable in-patients
@@ -53,14 +53,14 @@
 ## Subdivision 2 — Compensable out-patients
 [Heading inserted: SL 2021/134 cl. 4.]
 7. | For radiological service — for each item of service | $351
-8. | For medicines, subject to item 9, for each item — (a)at a participating hospital for an item on the PBS list (b)at a participating hospital for an item not on the PBS list (c)at a hospital that is not a participating hospital | PBS price up to a maximum of $42.50 $34 $34
+8. | For medicines, subject to item 9, for each item — (a)at a participating hospital for an item on the PBS list (b)at a participating hospital for an item not on the PBS list (c)at a hospital that is not a participating hospital | PBS price up to a maximum of $30 $24 $24
 9. | For each other individual service (with any medicines supplied at the time of the initial service being treated as included in that service) | $351
 ## Subdivision 3 — Compensable same day patients
 [Heading inserted: SL 2021/134 cl. 4.]
 10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 610 per day
  | (b)for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $3 597 per day
  | (c)for any other patient | $3 369 per day
-[Division 2 inserted: SL 2021/134 cl. 4; amended: SL 2022/9 cl. 4; SL 2022/110 r. 4; SL 2022/166 cl. 4.]
+[Division 2 inserted: SL 2021/134 cl. 4; amended: SL 2022/9 cl. 4; SL 2022/110 r. 4; SL 2022/166 cl. 4; SL 2023/6 cl. 4.]
 ## Division 3 — Magnetic resonance imaging
 Charges for magnetic resonance imaging services
 Item | Service | Charge (per study)
