@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Gas Standards (Gas Supply and System Safety) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Standards (Gas Supply and System Safety) Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Gas Standards (Gas Supply and System Safety) Regulations 2000 | 4 Jul 2000 p. 3475-540 | 1 Aug 2000 (see r. 2)
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2000 | 5 Sep 2000 p. 5053 | 5 Sep 2000
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2001 | 3 Aug 2001 p. 3969 | 3 Aug 2001
@@ -13,6 +13,7 @@ Gas Standards (Gas Supply and System Safety) Amendment Regulations 2010 Pt. 2 | 
 Reprint 2: The Gas Standards (Gas Supply and System Safety) Regulations 2000 as at 4 May 2012 (includes amendments listed above)
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2016 | 11 Oct 2016 p. 4532-6 | r. 1 and 2: 11 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2016 (see r. 2(b))
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2018 | 2 Oct 2018 p. 3782-3 | r. 1 and 2: 2 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2018 (see r. 2(b))
+Gas Standards (Gas Supply and System Safety) Amendment Regulations 2023 | SL 2023/7 10 Feb 2023 | r. 1 and 2: 10 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Feb 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -21,12 +22,14 @@ application for review65
 approved plan17A
 AS3(1)
 AS/NZS3(1)
-auditing period38(3), 61(3)
+auditing period37(3), 61(3)
 badged capacity3(1)
+business day3(1)
 commencement14
-contractor23(1)
-corporation17A
+contractor22(1)
+corporation17(2)
 cubic metre3(1)
+decommissioned distribution system component3(1), 25(1)
 determined heating value17A
 determined safety case57(1)
 distribution system3(1)
@@ -34,21 +37,21 @@ emergency17A
 employee3(1), 23(1)
 existing operator17D(1)
 flow weighted average higher heating value17A
-former distribution system24(1)
 FWAHHV17A
 gas day17A
 gas incident42, Sch. 3 cl. 1
-gas operations17D(1)
+gas operations17C(1)
 gas plant3(1)
 HHV zone17A
 higher heating value3(1)
 implementation day3(1)
 implementation period17A
-implementation plan31(1)
+implementation plan31
+inoperative distribution system3(1), 25(1)
 ISO3(1)
 leanest supplied higher heating value17A
 lower heating value3(1)
-LPG3(1)
+LPG3
 LSHHV17A
 m33(1)
 major activity22(1)
@@ -68,7 +71,7 @@ prescribed activity3(1), 60(1)
 prescribed pressure4(1)
 private property42
 quarter3(1)
-relevant day17D(1)
+relevant day17C(1)
 retail market scheme17A
 review panel65
 safety case3(1)
@@ -79,4 +82,5 @@ simulated natural gas4(1)
 specified40(6), 63(6)
 sub-network17A
 tempered LPG4(1)
+transferee26A(2)
 utilised3(1)
