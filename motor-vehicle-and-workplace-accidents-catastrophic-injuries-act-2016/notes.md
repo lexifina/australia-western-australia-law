@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Motor Vehicle (Catastrophic Injuries) Act 2016. For provisions that have come into operation see the compilation table.
+This is a compilation of the Motor Vehicle (Catastrophic Injuries) Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle (Catastrophic Injuries) Act 2016 | 8 of 2016 | 14 Apr 2016 | s. 1 and 2: 14 Apr 2016 (see s. 2(a)); Act other than s. 1, 2 and 5: 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421); s. 5: 1 Jul 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Health Services Amendment Act 2023 Pt. 4 | 1 of 2023 | 22 Feb 2023 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
