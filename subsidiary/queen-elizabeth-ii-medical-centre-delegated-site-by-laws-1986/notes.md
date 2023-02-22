@@ -33,9 +33,10 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2019 | 14 J
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2021 | SL 2021/179 5 Nov 2021 | bl. 1 and 2: 5 Nov 2021 (see bl. 2(a)); By-laws other than bl. 1 and 2: 6 Nov 2021 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2022 | SL 2022/140 5 Aug 2022 | bl. 1 and 2: 5 Aug 2022 (see bl. 2(a)); By-laws other than bl. 1 and 2: 6 Aug 2022 (see bl. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
 Health Services Act 2016 s. 307(j) assented to 26 May 2016 | To be proclaimed (see s. 2(b))
+Queen Elizabeth II Medical Centre Act 1966 s. 22 (as amended by Act No. 2023/1 s. 97) | To be proclaimed (see s. 2(b))
 Other notes
 Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
