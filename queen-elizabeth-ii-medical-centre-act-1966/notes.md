@@ -27,11 +27,11 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 43 | 35 of 
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Queen Elizabeth II Medical Centre Amendment Act 2013 | 6 of 2013 | 19 Aug 2013 | s. 1 and 2: 19 Aug 2013 (see s. 2(a)); Act other than s. 1 and 2: 20 Aug 2013 (see s. 2(b))
 Reprint 5: The Queen Elizabeth II Medical Centre Act 1966 as at 13 Dec 2013 (includes amendments listed above)
-Health Services Act 2016 s. 301(1), (4) and (5) | 11 of 2016 | 26 May 2016 | s. 301(1), (4) and (5): 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Health Services Act 2016 s. 301(1), (4) and (5) | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Health Services Act 2016 s. 301(2), (3), (6) and (7) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+Health Services Amendment Act 2023 Pt. 5 | 1 of 2023 | 22 Feb 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Queen Elizabeth II Medical Centre Amendment Act 1985 s. 9 reads as follows:
 9.Validation
@@ -70,6 +70,7 @@ MHSB means the Metropolitan Health Service Board formed by the Hospitals and Hea
 Minister means the Minister in whom the management of a teaching hospital is vested under section 7 of the Hospitals and Health Services Act 1927;
 principal Act means the Queen Elizabeth II Medical Centre Act 1966;
 teaching hospital means a hospital to which section 16(1) of the principal Act applies.
+The Health Services Act 2016 s. 301(2), (3), (6) and (7) had not come into operation when those provisions were deleted by the Health Services Amendment Act 2023 s. 85.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
