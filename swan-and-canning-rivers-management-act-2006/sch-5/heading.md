@@ -40,7 +40,8 @@
 7.The Forest Products Commission established under the Forest Products Act 2000.
 8.A local government or commissioner appointed under the Local Government Act 1995 to administer that local government.
 9.The Commissioner of Main Roads appointed under the Main Roads Act 1930.
-[10.deleted]
+10.The National Trust of Australia (W.A.) established under the National Trust of Australia (W.A.) Act 1964.
+10A.The Commissioner of Police appointed under the Police Act 1892.
 11.The Public Transport Authority of Western Australia established under the Public Transport Authority Act 2003.
 12.The Commissioner for Soil Conservation appointed under the Soil and Land Conservation Act 1945.
 [13.deleted]
@@ -50,4 +51,4 @@
 17.The holder of a licence under the Electricity Industry Act 2004.
 18.The holder of a distribution licence under the Energy Coordination Act 1994.
 19.Any decision-making authority as defined in the Environmental Protection Act 1986 section 3.
-[Schedule 5 amended: No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233; No. 6 of 2015 s. 49; No. 28 of 2015 s. 78; No. 19 of 2016 s. 101; No. 32 of 2018 s. 251.]
+[Schedule 5 amended: No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233; No. 6 of 2015 s. 49; No. 28 of 2015 s. 78; No. 19 of 2016 s. 101; No. 32 of 2018 s. 251; Gazette 25 Sep 2007 p. 4787-831 (as amended: SL 2023/14 r. 10).]
