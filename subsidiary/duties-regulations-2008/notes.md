@@ -14,6 +14,7 @@ Duties Amendment Regulations 2016 | 24 May 2016 p. 1536 | r. 1 and 2: 24 May 201
 Duties Amendment Regulations 2018 | 22 Jun 2018 p. 2193-5 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Duties Amendment Regulations 2019 | 8 Oct 2019 p. 3617-21 | Pt. 1: 8 Oct 2019 (see r. 2(a)); Regulations other than Pt. 1 and 3: 9 Oct 2019 (see r. 2(c)); Pt. 3: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Finance Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
+Duties Amendment Regulations 2023 | SL 2023/12 24 Feb 2023 | r. 1 and 2: 24 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2023 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 2.
 If a modification is to:
@@ -27,11 +28,15 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Agriculture Minister7(1)
+asset-backed securitisation arrangement4(1A)
 demerged entity2A(3) and (4)
 entity2A(1)
 entity A2A(2)
 farming land7(1)
-hybrid demerger2A(4)
+financial asset4(1A)
+fixed infrastructure4(1A)
+fixed to land financial asset4(1A)
+hybrid demerger2(4)
 listed entity2A(1)
 listed entity demerger2A(3)
 listed entity security holder2A(3) and (4)
@@ -39,6 +44,7 @@ lot4B(1)
 new profit à prendre4B(2)
 old profit à prendre4B(2)
 production-based agistment4AA(1)
+retirement village licence4AAA(1)
 security2A(1)
 timber sharefarming profit à prendre4A(1), 4B(1)
 tractor7(1)
