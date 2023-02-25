@@ -12,6 +12,7 @@ Swan and Canning Rivers Management Amendment Regulations 2016 | 4 Mar 2016 p. 62
 Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Swan and Canning Rivers Management Amendment Regulations 2020 | SL 2020/186 29 Sep 2020 | r. 1 and 2: 29 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2020 (see r. 2(b))
 Swan and Canning Rivers Management Amendment Regulations 2021 | SL 2021/131 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
+Swan and Canning Rivers Management Amendment Regulations 2023 | SL 2023/14 24 Feb 2023 | r. 1 and 2: 24 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2023 (see r. 2(b))
 Other notes
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 The regulation in these regulations repealing the Swan River Trust Regulations 1989 was omitted under the Reprints Act 1984 s. 7(4)(f).
