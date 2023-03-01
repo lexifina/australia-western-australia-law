@@ -9,6 +9,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
+Teacher Registration Amendment Act 2023 s. 3-89 | 3 of 2023 | 1 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Teacher Registration Act 2012 s. 166 will not come into operation because the Act it purported to amend was repealed by the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) as at 1 Jul 2012.
 Defined terms
