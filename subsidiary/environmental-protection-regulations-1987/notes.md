@@ -85,6 +85,7 @@ Environmental Protection Amendment Regulations (No. 2) 2021 | SL 2021/190 19 Nov
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2021 Pt. 2 Div. 2 | SL 2021/215 17 Dec 2021 | 1 Jan 2022 (see r. 2(b))
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2022 Pt. 3 Div. 2 | SL 2022/64 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Environmental Protection Amendment Regulations 2022 | SL 2022/68 3 Jun 2022 | r. 1 and 2: 3 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
+Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2023 Pt. 3 | SL 2023/13 24 Feb 2023 | 1 Mar 2023 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
