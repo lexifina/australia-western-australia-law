@@ -17,6 +17,7 @@ Criminal Procedure Amendment Rules 2018 | 16 Nov 2018 p. 4524-5 | r. 1 and 2: 16
 Criminal Procedure Amendment Rules 2019 | 15 Nov 2019 p. 4031-2 | r. 1 and 2: 15 Nov 2019 (see r. 2(a)); Rules other than r. 1 and 2: 16 Nov 2019 (see r. 2(b))
 Criminal Procedure Amendment Rules 2020 | SL 2020/53 8 May 2020 | r. 1 and 2: 8 May 2020 (see r. 2(a)); Rules other than r. 1 and 2: 9 May 2020 (see r. 2(b))
 Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 2 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
+Criminal Procedure Amendment Rules 2023 | SL 2023/20 14 Mar 2023 | r. 1 and 2: 14 Mar 2023 (see r. 2(a)); Rules other than r. 1 and 2: 15 Mar 2023 (see r. 2(b))
 Other notes
 The Parole Board was replaced by the Prisoners Review Board. See the Parole and Sentencing Legislation Amendment Act 2006.
 Defined terms
@@ -43,6 +44,7 @@ panel or pool57(1)
 primary court58(1)
 primary court case66(1)
 primary court’s transcript58(1)
+produce electronically39(1A)
 provisional decision63(2)
 registrar3(1)
 section52, 76
