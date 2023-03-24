@@ -88,7 +88,8 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Community Titles Act 2018 s. 253 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Transfer of Land Amendment Act 2022 Pt. 2 | 21 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
+Transfer of Land Amendment Act 2022 Pt. 2 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 12 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
