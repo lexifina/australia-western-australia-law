@@ -92,6 +92,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 369 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Mining Amendment Act 2022 (other than s. 1 and 2) | 31 of 2022 | 28 Sep 2022 | To be proclaimed (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 8 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
