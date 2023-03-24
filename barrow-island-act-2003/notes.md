@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Barrow Island Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Barrow Island Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Barrow Island Act 2003 | 61 of 2003 | 20 Nov 2003 | Act other than s. 12: 20 Nov 2003 (see s. 2)
@@ -8,6 +8,11 @@ Petroleum Amendment Act 2007 s. 90 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Barrow Island Amendment Act 2013 | 24 of 2013 | 18 Dec 2013 | s. 1 and 2: 18 Dec 2013 (see s. 2(a)); Act other than s. 1 and 2: 19 Dec 2013 (see s. 2(b))
 Barrow Island Amendment Act 2015 | 13 of 2015 | 8 May 2015 | s. 5: 20 Nov 2003 (see s. 2(b)); s. 1 and 2: 8 May 2015 (see s. 2(a)); Act other than s. 1, 2 and 5: 9 May 2015 (see s. 2(c))
 Reprint 1: The Barrow Island Act 2003 as at 15 Jul 2016 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 1 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
+Other notes
 Section 12 of this Act had not come into operation when it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 48(3).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
