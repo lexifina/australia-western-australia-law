@@ -73,6 +73,7 @@ Environmental Protection Amendment Act 2020 s 4(2), (4), (6) and (10), 34, 42, 5
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
 Swan Valley Planning Act 2020 s. 103 | 45 of 2020 | 9 Dec 2020 | Immediately after the Planning and Development Amendment Act 2020 s. 56 comes into operation (see s. 2(1)(c)(ii))
 Aboriginal Cultural Heritage Act 2021 s. 348 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 4 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
