@@ -1,10 +1,14 @@
 Notes
-This is a compilation of the Mining Rehabilitation Fund Act 2012 and includes the amendments made by the other written laws referred to in the following table
+This is a compilation of the Mining Rehabilitation Fund Act 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mining Rehabilitation Fund Act 2012 | 33 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2013 (see s. 2(b) and Gazette 21 Jun 2013 p. 2445)
 Mining Rehabilitation Fund Amendment Act 2012 | 34 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2013 (see s. 2(b) and Gazette 21 Jun 2013 p. 2445)
 Mining Legislation Amendment Act 2014 Pt. 3 | 4 of 2014 | 22 Apr 2014 | 30 Jun 2014 (see s. 2(b) and Gazette 17 Jun 2014 p. 1953)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 9 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
