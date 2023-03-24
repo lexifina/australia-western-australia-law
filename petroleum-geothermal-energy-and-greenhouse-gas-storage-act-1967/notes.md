@@ -47,6 +47,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 10 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Petroleum Act 1936 was repealed by this Act, s. 3.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
