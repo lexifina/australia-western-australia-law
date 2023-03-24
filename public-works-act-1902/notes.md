@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Works Act 1902 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Works Act 1902 | 1902 (2 Edw. VII No. 47) | 20 Dec 1902 | 20 Dec 1902
@@ -64,7 +64,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 140 | 77
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 5 | 36 of 2007 | 21 Dec 2007 | 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33)
 Water Resources Legislation Amendment Act 2007 s. 198 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 10: The Public Works Act 1902 as at 16 May 2008 (includes amendments listed above)
- | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 43(3), 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Building Act 2011 s. 170 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -72,6 +72,11 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 225 | 25 of 2012 | 3
 Reprint 11: The Public Works Act 1902 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 Electricity Corporations Amendment Act 2013 s. 45 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Health Services Act 2016 s. 300 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Land and Public Works Legislation Amendment Act 2023 Pt. 3 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
+Other notes
 Repealed by the Roads Act 1911, which was repealed by the Road Districts Act 1919, which was repealed by the Local Government Act 1960, which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).
 Short title subsequently amended twice (see note under s. 1). Now again known as the Public Works Act 1902.
