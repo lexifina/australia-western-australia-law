@@ -61,6 +61,7 @@ Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 |
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Biodiversity Conservation Act 2016 s. 318(2)(b) | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 2 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation.
 The Land Administration Amendment Act 2000 s. 8(6), (7) and (8) read as follows:
