@@ -37,6 +37,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 3 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
