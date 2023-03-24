@@ -40,6 +40,10 @@ Revenue Laws Amendment Act 2019 Pt. 3 Div. 2-4 | 12 of 2019 | 12 Jun 2019 | Pt. 
 Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 6 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Land Tax Assessment Amendment Act 2022 | 42 of 2022 | 21 Nov 2022 | Pt. 2: deemed to have come into operation on 1 Jul 2020 (see s. 2(b)); Pt. 1: 21 Nov 2022 (see s. 2(a)); Act other than Pt. 1 and 2: 22 Nov 2022 (see s. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 7 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 3 Div. 2.
 If a modification is to:
