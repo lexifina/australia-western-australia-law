@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Land Administration (South West Native Title Settlement) Act 2016. The following table contains information about that Act.
+This is a compilation of the Land Administration (South West Native Title Settlement) Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Administration (South West Native Title Settlement) Act 2016 | 10 of 2016 | 16 May 2016 | s. 1 and 2: 16 May 2016 (see s. 2(a)); Act other than s. 1 and 2: 6 Jun 2016 (see s. 2(b) and Gazette 27 May 2016 p. 1548)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 6 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
