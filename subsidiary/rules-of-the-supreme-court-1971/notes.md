@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -152,10 +152,7 @@ Supreme Court Rules Amendment (Court of Appeal) Rules 2021 Pt. 3 | SL 2021/34 30
 Supreme Court Amendment Rules (No. 2) 2021 | SL 2021/65 1 Jun 2021 | r. 1 and 2: 1 Jun 2021 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Supreme Court Amendment Rules 2022 | SL 2022/53 6 May 2022 | r. 1 and 2: 6 May 2022 (see r. 2(a)); Rules other than r. 1 and 2: 20 May 2022 (see r. 2(b))
 Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Supreme Court Amendment Rules 2023 r. 3-10 | SL 2023/16 10 Mar 2023 | Operative on commencement of the Civil Procedure (Representative Proceedings) Act 2022 s. 35 (see r. 2(b))
+Supreme Court Amendment Rules 2023 | SL 2023/16 10 Mar 2023 | r. 1 and 2: 10 Mar 2023 (see r. 2(a)); Rules other than r. 1 and 2: 25 Mar 2023 (see r. 2(b) and SL 2023/21 cl. 2)
 Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -188,7 +185,7 @@ arbitratorO. 81D r. 1
 Australian diplomatic or consular agentO. 1 r. 4(1)
 BO. 4A r. 2(2)(n)
 BoardO. 75A r. 1
-caseO. 1 r. 4(1), O. 4A r. 1
+caseO. 1 r. 4(1), O. 4A r. 1, O. 9A r. 1
 case management directionO. 4A r. 1
 case management registrarO. 1 r. 4(1)
 case managerO. 1 r. 4(1), O. 4A r. 1
@@ -247,6 +244,7 @@ freezing orderO. 52A r. 1 and 2(1), O. 81FA r. 1
 GAA ActO. 70 r. 1
 geographical addressO. 1 r. 4(1)
 grantO. 75 r. 1
+group memberO. 18A r. 1
 Hague ConventionO. 11A r. 1
 independent solicitorsO. 52B r. 6(1)
 initiating processO. 11A r. 1
@@ -305,6 +303,9 @@ recordO. 52B r. 5(1)
 registrarO. 1 r. 4(1)
 RegistryO. 73 r. 1(3), O. 75 r. 1
 remedy O. 56 r. 1(1)
+representative partyO. 18A r. 1
+representative proceedingO. 18A r. 1
+Representative Proceedings ListO. 18A r. 3(1)
 represented personO. 70 r. 1
 request for service abroadO. 11A r. 1
 request for service in this jurisdictionO. 11A r. 1
