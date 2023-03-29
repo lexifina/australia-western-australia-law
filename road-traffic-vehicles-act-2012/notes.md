@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic (Vehicles) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Vehicles) Act 2012 | 7 of 2012 | 21 May 2012 | s. 1 and 2: 21 May 2012 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -9,6 +9,10 @@ Road Traffic Legislation Amendment Act 2015 Pt. 5 | 10 of 2015 | 1 Apr 2015 | 2 
 Reprint 1: The Road Traffic (Vehicles) Act 2012 as at 12 Jun 2015 (includes amendments listed above)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 6 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 6 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Road Traffic (Vehicles) Amendment (Offensive Advertising) Act 2023 s. 3-9 | 6 of 2023 | 29 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Road Traffic Legislation Amendment Act 2012 Pt. 2 commenced on 12 Dec 2012.
 The Road Traffic (Licensing) Regulations 1975 were repealed by the Road Traffic (Repeals and Amendment) Regulations 2014 as at 27 Apr 2015 (see Gazette 23 Dec 2014 p. 4914).
@@ -78,7 +82,7 @@ packer3(1)
 partner109(1)
 passenger3(1)
 permit13(1), 32, 38
-person 1110(2), 110(4), 117
+person 1110(2) and (4), 117
 person connected28
 prohibition order3(1)
 public agency105(1)
