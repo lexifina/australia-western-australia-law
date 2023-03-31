@@ -2,21 +2,22 @@ Notes
 This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
-Work Health and Safety (General) Regulations 2022 (other than regulations 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2)) | SL 2022/31 11 Mar 2022 | 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2)
+Work Health and Safety (General) Regulations 2022 (other than r. 58) | SL 2022/31 11 Mar 2022 | Regulations other than r. 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 49(2), (3) and (4), 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c))
 Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/214 23 Dec 2022 | 24 Dec 2022 (see r. 2(b))
+Work Health and Safety Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Work Health and Safety (General) Regulations 2022 r. 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2) | SL 2022/31 11 Mar 2022 | r. 49(2), (3) and (4), 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c)); r. 58: 31 Mar 2024 (see r. 2(b))
-Work Health and Safety Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
+Work Health and Safety (General) Regulations 2022 r. 58 | SL 2022/31 11 Mar 2022 | 31 Mar 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+8-hour time-weighted average49(4)
 abrasive blasting5
 accredited assessor5
 ACD5
 ACM5
-ADG Code4
+ADG Code5
 administrative control5
 agricultural or veterinary chemicalSch. 9 cl. 10(2)
 Agvet Code5
@@ -38,7 +39,7 @@ asbestos removal licence5
 asbestos removal work5
 asbestos waste5
 AS/NZS 1576 Parts 1 to 6225(1A)
-AS/NZS 2815170(1A)
+AS/NZS 2815171(1A)
 assistance48(1A)
 at a workplace184C
 authorised RTO318A
@@ -48,7 +49,7 @@ blood lead level monitoring5
 boiler5
 boom-type elevating work platform5
 bridge crane5
-building153
+building153(1)
 building maintenance equipment5
 building maintenance unit5
 capacity5
@@ -62,7 +63,7 @@ Class 1 demolition licence5
 Class 1 demolition work5, 142B(1)
 Class 2 demolition licence5
 Class 2 demolition work5, 142C(1)
-Class A asbestos removal licence4
+Class A asbestos removal licence5
 Class A asbestos removal work5
 Class B asbestos removal licence5
 Class B asbestos removal work5
@@ -90,8 +91,8 @@ controlled184A(2), 446(4)
 control measure5
 conveyor5
 correct classification5
-correctly classifiedSch. 8 cl. 1(1), Sch. 9 (2), Sch. 9 cl. 1(3)
-correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2), and 10(1)
+correctly classifiedSch. 9 cl. 1(1), (2) and (3)
+correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2) and 10(1)
 correctly packedSch. 9 cl. 2(1) and (2)
 crane5
 current certificate of medical fitness5
@@ -118,7 +119,7 @@ eligible person676(1)
 emergency454(1A), 455(1A)
 emergency service organisation5
 emergency service worker5
-enclosed workplace5, 50A, 50B(1) (2), (3) and (6)
+enclosed workplace5, 50A, 50B(1), (2), (3) and (6)
 energised5
 engineering control5
 entry5
@@ -128,16 +129,16 @@ excavation work5
 exposure standard5
 exposure standard for noise5, 56(1)
 external review5, 683(1)
-fall arrest system4
+fall arrest system5
 fall prevention device79(1A)
-fault4
+fault5
 female of reproductive capacity5
 first supplied339(1A), 344(1A)
 fitness criteria5
 flammable gas5
 flammable or combustible substances53(1A)
-forklift truck4
-former class721(1)
+forklift truck5
+former class721(2)
 friable asbestos5
 gantry crane5
 gas cylinder5
@@ -152,7 +153,7 @@ harness221(1A)
 hazard category5
 hazard class5
 hazardous area5
-hazardous atmosphere50I(1A)
+hazardous atmosphere51(1A)
 hazardous chemical5
 hazardous manual task5
 hazard pictogram5
@@ -165,7 +166,7 @@ high risk diving work5
 high risk work5
 high risk work licence5
 historical purpose or activity216(1A)
-hoist4
+hoist5
 ignition source5
 importer5
 incidental diving work5
@@ -173,6 +174,7 @@ independent5
 industrial lift truck5
 industrial robot5
 inflatable device (continuously blown)5
+inhalable49(4)
 in situ asbestos5
 internal review5, 678(1) and (2)
 in transit5
@@ -217,7 +219,7 @@ operator protective device5
 order-picking forklift truck5
 OSH HRWL721(1)
 OSHR705
-OSHR licence719(1)
+OSHR licence720(1)
 passenger ropeway5
 personal protective equipment5
 person conducting a business or undertaking7
@@ -242,7 +244,7 @@ product identifier5
 prohibited carcinogen5
 psychosocial hazard5, 55A
 psychosocial risk5, 55B
-purging70(1A)
+purging71(1A)
 qualified118(2A), 134(1A)
 quantity5
 reach stacker5
@@ -256,12 +258,13 @@ relevant fee5
 relevant worker76(1A), 80(1A)
 remote or isolated work48(1A)
 research chemical5
+respirable49(4)
 respirable asbestos fibre5
 respiratory protective equipment184A(3)
 responsible person184C, 306I
 restricted carcinogen5
 retailer5
-reviewable decisions676
+reviewable decisions676(1)
 rigging work5
 roll-over protective structure216(1A)
 roof5, 50A
@@ -291,7 +294,7 @@ substance5
 supplier5
 supply8
 suspended scaffold5
-technical name4
+technical name5
 temporary work platform5
 theatrical performance5
 tilt-up work5, 306A(1)
