@@ -8,6 +8,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aboriginal Cultural Heritage Act 2021 Pt. 2 Div. 3, Pt. 3-5, s. 101, Pt. 6 Div. 2-6, Pt. 7-12, Pt. 13 Div. 1, s. 283-286, Pt. 13 Div. 3 Subdiv. 2, s. 300-307 and 309, Pt. 14 Div. 1 and Div. 2 Subdiv. 2-5, Pt. 15 Div. 3 and Pt. 16 | 27 of 2021 | 22 Dec 2021 | Pt. 2 Div. 3, Pt. 3-5, s. 101, Pt. 6 Div. 2-6, Pt. 7-12, Pt. 13 Div. 1, s. 283-286, Pt. 13 Div. 3 Subdiv. 2, s. 300-307 and 309, Pt. 14 Div. 2 Subdiv. 2-5, Pt. 15 Div. 3 and Pt. 16: to be proclaimed (see s. 2 (e)); Pt. 14 Div. 1 (other than s. 310 and 311): on the day on which Pt. 15 Div. 3 comes into operation (see s. 2(c)); s. 310 and 311: 6 months after Pt. 15 Div. 3 comes into operation (see s. 2(d))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 1 | 9 of 2023 | 4 Apr 2023 | Immediately after the Aboriginal Cultural Heritage Act 2021 s. 263-265 come into operation (see s. 2(b)(ii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
