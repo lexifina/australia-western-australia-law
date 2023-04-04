@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Aquatic Resources Management Act 2016. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Aquatic Resources Management Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 1 (s. 1-5 and 8), Pt. 2, Pt. 3 (s. 12, 14(1) and (4), 15-21, 23-27 and 32-40) and Pt. 16 (s. 253-257) | 53 of 2016 | 29 Nov 2016 | Pt. 1 (s. 1 and 2): 29 Nov 2016 (see s. 2(a)); Pt. 1 (s. 3-5 and 8), Pt. 2, Pt. 3 (s. 12, 14(1) and (4), 15-21, 23-27 and 32-40) and Pt. 16 (s. 253-257): 2 May 2018 (see s. 2(b) and Gazette 1 May 2018 p. 1431)
@@ -9,6 +9,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 1 (s. 6 and 7), Pt. 3 (s. 13 and 14(2) and (3), 22, 28-31 and 41-50), Pt. 4-15, Pt. 16 (s. 258-266) and Pt. 17-19 | 53 of 2016 (as amended by No. 8 of 2017 s. 8; No. 14 of 2021 (other than s. 4-8 and 16)) | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Aquatic Resources Legislation Amendment Act 2016 Pt. 2 | 40 of 2016 | 29 Nov 2016 | Operative on commencement of the Aquatic Resources Management Act 2016 s. 263 (see s. 2(b))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 5 | 9 of 2023 | 4 Apr 2023 | Immediately after the Aquatic Resources Management Act 2016 s. 191 and 192 come into operation (see s. 2(c)(ii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
