@@ -65,6 +65,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 40(2), (3), (5), (6), (8), (10)-(13), (15) and (16), 41, 43-45, 49-51, 53-76, 77(2), 78 and 79 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 8 | 9 of 2023 | 4 Apr 2023 | Pt. 3 Div. 8 (other than s. 27): 5 Apr 2023 (see s. 2(j)); s. 27: operative on commencement of the TAB (Disposal) Act 2019 s. 70 (see s. 2(d)(ii))
 Other notes
 Repealed by the Acts Amendment and Repeal (Betting) Act 1992 s. 72.
 The Betting Control Amendment Act 1998 s. 5(2) and (3) and s. 7(2) are transitional provisions that are of no further effect.
