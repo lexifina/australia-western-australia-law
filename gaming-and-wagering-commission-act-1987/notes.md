@@ -52,6 +52,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 8 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 TAB (Disposal) Act 2019 s. 86-88, 89(1), 90-92 and 94-104 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 30 | 9 of 2023 | 4 Apr 2023 | Pt. 3 Div. 30 (other than s. 80): 5 Apr 2023 (see s. 2(j)); s. 80: Operative on commencement of the TAB (Disposal) Act 2019 s. 99 (see s. 2(h)(ii))
 Other notes
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) contains savings and transitional provisions.
