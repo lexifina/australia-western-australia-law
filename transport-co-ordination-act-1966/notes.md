@@ -75,6 +75,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 51 | 8 of 2012 | 21 May 2
 Statutes (Repeals and Minor Amendments) Act 2014 s. 42 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Licensing Provisions Amendment Act 2016 Pt. 9 | 44 of 2016 | 1 Dec 2016 | 8 Feb 2017 (see s. 2(b) and Gazette 7 Feb 2017 p. 1158)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 10 | 26 of 2018 | 30 Oct 2018 | 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 60 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 Footnote no longer applicable.
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.

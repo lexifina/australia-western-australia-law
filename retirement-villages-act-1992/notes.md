@@ -29,6 +29,7 @@ Retirement Villages Amendment Act 2012 (other than s. 4(4)) | 36 of 2012 | 5 Nov
 Reprint 4: The Retirement Villages Act 1992 as at 5 Jul 2013 (includes amendments listed above except those in the Retirement Villages Amendment Act 2012)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 19 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 19 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 54 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

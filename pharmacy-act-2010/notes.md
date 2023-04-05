@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pharmacy Act 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pharmacy Act 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pharmacy Act 2010 | 32 of 2010 | 26 Aug 2010 | s. 1 and 2: 26 Aug 2010 (see s. 2(a)); Act other than s. 1 and 2: 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
@@ -7,6 +7,8 @@ Medicines and Poisons Act 2014 s. 186 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (s
 Associations Incorporation Act 2015 s. 225 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Health Services Act 2016 s. 299 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Reprint 1: The Pharmacy Act 2010 as at 22 Sep 2017 (includes amendments listed above)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 47 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Other notes
 The provisions in this Act amending other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

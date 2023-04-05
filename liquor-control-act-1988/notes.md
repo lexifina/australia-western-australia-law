@@ -58,6 +58,7 @@ Liquor Control Amendment Act 2018 | 9 of 2018 | 13 Jul 2018 | s. 1 and 2: 13 Jul
 Heritage Act 2018 s. 185 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 2 | 44 of 2022 | 1 Dec 2022 | 24 Dec 2022 (see s. 2(b) and SL 2022/216 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 36 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

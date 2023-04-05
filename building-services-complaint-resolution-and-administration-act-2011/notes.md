@@ -6,6 +6,7 @@ Building Services (Complaint Resolution and Administration) Act 2011 | 16 of 201
 Water Services Legislation Amendment and Repeal Act 2012 s. 205 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 1: The Building Services (Complaint Resolution and Administration) Act 2011 as at 5 Aug 2016 (includes amendments listed above)
 Building and Construction Industry (Security of Payment) Act 2021 Pt. 7 Div. 1 | 4 of 2021 | 25 Jun 2021 | Pt. 7 Div. 1 (other than s. 123 and 124): 1 Aug 2022 (see s. 2(c) and SL 2022/78 cl. 2(2)(a)(vii)); s. 123 and 124: 1 Feb 2023 (see s. 2(c) and SL 2022/78 cl. 2(2)(b)(iii))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 12 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 Repealed by the Building Services (Registration) Act 2011.
 Defined terms

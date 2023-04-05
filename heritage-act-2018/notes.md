@@ -4,10 +4,11 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Heritage Act 2018 | 22 of 2018 | 18 Sep 2018 | Pt. 1 (other than s. 3-10): 18 Sep 2018 (see s. 2(a)); Act other than the heading to Pt. 1 and s. 1 and 2: 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Swan Valley Planning Act 2020 Pt. 10 Div. 4 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 33 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Aboriginal Cultural Heritage Act 2021 s. 349 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
+Aboriginal Cultural Heritage Act 2021 s. 349 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -51,7 +52,6 @@ modification order85
 new Council167
 new register167
 occupier4
-officer143(1)
 owner4, 6
 place4, 7(1)
 planning instrument85

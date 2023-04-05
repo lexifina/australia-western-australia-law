@@ -10,6 +10,7 @@ Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 Pt. 2
 Public Health Amendment (COVID-19 Response) Act 2020 | 33 of 2020 | 21 Aug 2020 | s. 1 and 2: 21 Aug 2020 (see s. 2(1)(a)); Act other than s. 1 and 2: 12 Sep 2020 (see s. 2(1)(b) and SL 2020/153 cl. 2)
 Public Health Amendment (Safe Access Zones) Act 2021 | 9 of 2021 | 17 Aug 2021 | s. 1 and 2: 17 Aug 2021 (see s. 2(a)); Act other tha s. 1 and 2: 18 Aug 2021 (see s. 2(b))
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 5 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 51 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -46,6 +47,8 @@ confidential information302(1)
 contact person132
 corresponding law129(1)
 corresponding provision40(1)
+COVID-19 declaration4(1)
+COVID-19 management4(1)
 Crown266
 Crown authority266
 current141A
@@ -106,7 +109,7 @@ notifiable infectious disease4(1)
 notifiable infectious disease-related condition4(1)
 nurse4(1)
 nurse practitioner4(1)
-officer4(1), 282(1), 299(1)
+officer299(1)
 order92(1), 129(1)
 parent202G
 person A26(1)

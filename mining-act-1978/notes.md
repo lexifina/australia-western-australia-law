@@ -85,6 +85,7 @@ Reprint 9: The Mining Act 1978 as at 10 Feb 2017 (includes amendments listed abo
 Environmental Protection Amendment Act 2020 s. 116 | 40 of 2020 | 19 Nov 2020 | 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Mining Amendment Act (No. 2) 2022 | 39 of 2022 | 1 Nov 2022 | s. 1 and 2: 1 Nov 2022 (see 2(a)); Act other than s. 1 and 2: 2 Nov 2022 (see s. 2(b))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 41 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

@@ -1,9 +1,10 @@
 Notes
-This is a compilation of the Protection of Information (Entry Registration Information Relating to COVID-19 and Other Infectious Diseases) Act 2021. For provisions that have come into operation see the compilation table.
+This is a compilation of the Protection of Information (Entry Registration Information Relating to COVID-19 and Other Infectious Diseases) Act 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Protection of Information (Entry Registration Information Relating to COVID-19 and Other Infectious Diseases) Act 2021 | 3 of 2020 | 21 Jun 2021 | s. 1 and 2: 21 Jun 2021 (see s. 2(a)); Act other than s. 1 and 2: 22 Jun 2021 (see s. 2(b))
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 4 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 50 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -19,7 +20,6 @@ extended period8(3)
 Health Department3
 infectious disease emergency3
 initial storage period3, 8(1)
-officer9(1)
 prescribed3
 records contractor3
 relevant information3

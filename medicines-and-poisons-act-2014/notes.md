@@ -7,6 +7,7 @@ Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 20 | 19 of 2016 | 2
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 23 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 5 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Veterinary Practice Act 2021 s. 232 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 39 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

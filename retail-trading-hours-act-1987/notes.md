@@ -29,6 +29,7 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 1 | 23 of 2014 | 
 Reprint 4: The Retail Trading Hours Act 1987 as at 7 Aug 2015 (includes amendments listed above)
 Retail Trading Hours Amendment Act 2016 Pt. 2 | 35 of 2016 | 16 Nov 2016 | 14 Dec 2016 (see s. 2(b) and Gazette 13 Dec 2016 p. 5619)
 Veterinary Practice Act 2021 s. 234 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 53 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:

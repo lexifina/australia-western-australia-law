@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 August 2011 of the Hope Valley-Wattleup Redevelopment Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Hope Valley-Wattleup Redevelopment Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Hope Valley-Wattleup Redevelopment Act 2000 | 77 of 2000 | 7 Dec 2000 | s. 1 and 2: 7 Dec 2000; s. 3(2): 7 Dec 2000 (see s. 2(3)); Act other than s. 1, 2 and 3(2): 1 Jan 2001 (see s. 2(1) and Gazette 29 Dec 2000 p. 7904)
@@ -12,6 +12,8 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 84 | 77 of 2006 |
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 32 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Hope Valley-Wattleup Redevelopment Amendment Act 2011 | 8 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see s. 2(a)); Act other than s. 1 and 2: 3 May 2011 (see s. 2(b))
 Reprint 2: The Hope Valley-Wattleup Redevelopment Act 2000 as at 5 Aug 2011 (includes amendments listed above)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 35 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Other notes
 The day fixed by proclamation under s. 2(1) was1 Jan 2001 (Gazette 29 Dec 2000 p. 7904)
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -25,15 +27,13 @@ commencement of this Act3(1)
 Commission3(1)
 development3(1), 34(4)
 environmental condition32(1)
-EP Act3(1)
 EPA3(1)
+EP Act3(1)
 master plan3(1)
 Metropolitan Region Scheme3(1)
 Minister for the Environment3(1)
-officer30(2)
 planning schemes23(3)
 public authority3(1)
 rateable land34(4)
 redevelopment area3(1)
 street8(4)
-By Authority: JOHN A. STRIJK, Government Printer

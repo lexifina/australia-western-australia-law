@@ -12,6 +12,7 @@ Reprint 1: The Contaminated Sites Act 2003 as at 9 Feb 2007 (includes amendments
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Environmental Protection Amendment Act 2020 s. 115 | 40 of 2020 | 19 Nov 2020 | 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 15 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

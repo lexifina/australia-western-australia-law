@@ -28,6 +28,7 @@ Reprint 4: The Home Building Contracts Act 1991 as at 25 May 2012 (includes amen
 Water Services Legislation Amendment and Repeal Act 2012 s. 217 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Community Titles Act 2018 Pt. 14 Div. 10 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Consumer Protection Legislation Amendment Act 2019 Pt. 6 | 25 of 2019 | 24 Oct 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov. 2019 p. 4101)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 34 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 The amendment in the Caravan Parks and Camping Grounds Act 1995 Sch. 2 it. 3 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 26(3).
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
@@ -64,7 +65,6 @@ home building work contract3(1)
 insolvency25A
 insurance25B.(5)
 minimum amount25A
-officer30(2)
 owner3(1)
 owner-builder25A
 perform3(1)

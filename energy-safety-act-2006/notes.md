@@ -1,9 +1,10 @@
 Notes
-This is a compilation of the Energy Safety Act 2006 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Energy Safety Act 2006 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Energy Safety Act 2006 | 24 of 2006 | 21 Jun 2006 | 28 Jun 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2349)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 23 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -25,12 +25,10 @@ Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 1 | 6 of 2012 | 10 Apr 
 Licensing Provisions Amendment Act 2016 Pt. 2 | 44 of 2016 | 1 Dec 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 27 Jun 2017 p. 3407)
 Consumer Protection Legislation Amendment Act 2019 Pt. 2 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 95 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 7 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
+The Business Licensing Amendment Act 1995 Pt. 2 was deleted by the Statutes (Repeals and Minor Amendments) Act 2025 s. 14 before it purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -56,3 +54,7 @@ sell by way of auction4
 sheep4
 stated25(5)
 stock30(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

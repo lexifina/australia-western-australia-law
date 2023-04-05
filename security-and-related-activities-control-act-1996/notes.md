@@ -14,6 +14,7 @@ Legal Profession Act 2008 s. 703 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 2: The Security and Related Activities (Control) Act 1996 as at 19 Mar 2010 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 56 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 47 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.

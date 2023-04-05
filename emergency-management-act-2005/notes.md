@@ -11,6 +11,7 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 13 | 26 of 2016 | 21 
 Reprint 1: The Emergency Management Act 2005 as at 14 Jul 2017 (includes amendments listed above)
 Emergency Management Amendment (COVID-19 Response) Act 2020 | 11 of 2020 (as amended by No. 39 of 2020 Pt. 4, No. 1 of 2021 Pt. 4, No. 21 of 2021 Pt. 4, No. 15 of 2022 Pt. 4 and No. 33 of 2022 Pt. 2 Div. 2 Subdiv. 1) | 3 Apr 2020 | s. 5, 7, 11 and 12(1) and (2): 16 Mar 2020 (see s. 2(b)); s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 5, 7, 10, 11 and 12(1) and (2): 4 Apr 2020 (see s. 2(d))
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 1 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 20 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -56,7 +57,7 @@ local emergency management committee3
 local government district3
 motor vehicle100(6)
 occupier3
-officer76(1), 77S(1), 98(1)
+officer76(1), 77S(1)
 official100(6)
 organisation94(1)
 owner3

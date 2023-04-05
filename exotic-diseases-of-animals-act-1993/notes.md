@@ -12,6 +12,7 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 55 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 2: The Exotic Diseases of Animals Act 1993 as at 20 Sep 2013 (includes amendments listed above)
 Veterinary Practice Act 2021 s. 231 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 25 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
@@ -54,7 +55,7 @@ inspector4(1)
 land4(1)
 local newspaper4(1)
 local quarantine order4(1), 19(1)
-officer4(1), 58(4)
+officer4(1)
 order for restraint4(1), 27(1)
 order for seizure4(1), 27(1)
 owner4(1)

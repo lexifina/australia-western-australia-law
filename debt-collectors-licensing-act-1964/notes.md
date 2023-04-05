@@ -24,10 +24,7 @@ Consumer Protection Legislation Amendment Act 2019 Pt. 4 | 25 of 2019 | 24 Oct 2
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 96 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 3 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 19 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.
@@ -42,7 +39,7 @@ DCL Act means the Debt Collectors Licensing Act 1964.
 (b) a notice given to the Clerk under the DCL Act section 15(4); or
 (c) a fidelity bond or approved security lodged under the DCL Act section 20(1),
 as soon as possible after the commencement day, the Clerk is to send those records or documents to the Commissioner.
-The insertion of s. 12A by the Business Licensing Amendment Act 1995 s. 9 would conflict with an amendment in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 226.
+The Business Licensing Amendment Act 1995 Pt. 3 was deleted by the Statutes (Repeals and Minor Amendments) Act 2025 s. 14 before it purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -56,3 +53,7 @@ money received for or on behalf of any person3
 to pay into a trust account3
 trust account3
 trust money3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

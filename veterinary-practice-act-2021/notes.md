@@ -1,10 +1,11 @@
 Notes
-This is a compilation of the Veterinary Practice Act 2021. For provisions that have come into operation see the compilation table.
+This is a compilation of the Veterinary Practice Act 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Veterinary Practice Act 2021 | 19 of 2021 | 27 Oct 2021 | Pt. 1: 27 Oct 2021 (see s. 2(a)); Act other than Pt. 1: 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 14 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 64 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
