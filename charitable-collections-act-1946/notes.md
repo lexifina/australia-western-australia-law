@@ -18,6 +18,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 28 | 8 of 2009 | 21 
 Reprint 4: The Charitable Collections Act 1946 as at 4 Sep 2009 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Consumer Protection Legislation Amendment Act 2019 Pt. 3 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 14 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 Repealed by section 3 of this Act.
 Defined terms

@@ -14,6 +14,7 @@ Biodiversity Conservation Act 2016 s. 310 | 24 of 2016 | 21 Sep 2016 | 1 Jan 201
 Animal Welfare Amendment Act 2018 | 35 of 2018 | 28 Nov 2018 | s. 1 and 2: 28 Nov 2018 (see s. 2(a)); Act other than s. 1 and 2: 29 Nov 2018 (see s. 2(b))
 Reprint 2: The Animal Welfare Act 2002 as at 22 Feb 2019 (includes amendments listed above)
 Veterinary Practice Act 2021 s. 226 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 3 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

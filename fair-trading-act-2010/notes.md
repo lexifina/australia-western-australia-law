@@ -19,6 +19,7 @@ Fair Trading Amendment Act 2019 | 26 of 2019 | 24 Oct 2019 | 25 Oct 2019 (see s.
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 3 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Fair Trading Amendment Act 2022 | 34 of 2022 | 28 Oct 2022 | s. 1 and 2: 28 Oct 2022 (see s. 2(a)); Act other than s. 1 and 2: 29 Oct 2022 (see s. 2(b))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 26 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

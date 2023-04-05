@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 29 August 2014 of the Gas Corporation (Business Disposal) Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Corporation (Business Disposal) Act 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gas Corporation (Business Disposal) Act 1999 | 58 of 1999 | 24 Dec 1999 | Act other than Pt. 6 Div. 2-5: 24 Dec 1999 (see s. 2(1)); Pt. 6 Div. 4: 1 Jan 2000 (see s. 2(7)); Pt. 6 Div. 2: 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545); Pt. 6 Div. 3: 16 Dec 2000 (see s. 2(5) and Gazette 15 Dec 2000 p. 7201)
@@ -10,6 +10,8 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 72 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 2: The Gas Corporation (Business Disposal) Act 1999 as at 29 Aug 2014 (includes amendments listed above)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 31 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Other notes
 Repealed by s. 93 of this Act (omitted under the Reprints Act 1984 s. 7(4)(f)).
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
 Formerly referred to the Energy Corporations (Powers) Act 1979, the short title of which was changed to the Energy Operators (Powers) Act 1979 by the Gas Corporation (Business Disposal) Act 1999 s. 78. The reference was amended under the Reprints Act 1984 s. 7(3)(gb).
@@ -32,7 +34,6 @@ distribution area38(4)
 Electricity Corporation16(3)
 entitled3
 liability14, 31(3)
-officer13(2)
 relevant day25(3)
 relevant official20(3)
 relevant property20(3)

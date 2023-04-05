@@ -88,6 +88,7 @@ Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (s
  | Workers’ Compensation and Injury Management Amendment (COVID-19 Response) Act 2020 | 31 of 2020 | 18 Aug 2020 | s. 1 and 2: 18 Aug 2020 (see s. 2(1)(a)); s. 3 and 16: 19 Aug 2020 (see s. 2(1)(b)); Act other than s. 1-3 and 16: 12 Oct 2020 (see s. 2(1)(c) and SL 2020/187 cl. 2)
  | Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 8 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
  | Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 22 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+ | Directors’ Liability Reform Act 2023 Pt. 3 Div. 69 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

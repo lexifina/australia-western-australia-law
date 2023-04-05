@@ -21,6 +21,7 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 3 | 23 of 2014 | 9 Oct 20
 Reprint 3: The Employment Agents Act 1976 as at 5 Feb 2016 (includes amendments listed above)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 97 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 5 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 21 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 The Business Licensing Amendment Act 1995 s. 15 is a transitional provision that is of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 17 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).

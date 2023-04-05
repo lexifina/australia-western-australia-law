@@ -45,6 +45,7 @@ Reprint 6: The Firearms Act 1973 as at 13 Feb 2015 (includes amendments listed a
 Biodiversity Conservation Act 2016 s. 316 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Firearms Amendment Act 2022 Pt. 2 | 13 of 2022 | 18 May 2022 | s. 42(8): 15 Jun 2022 (see s. 2(b)); Pt. 2 (other than s. 42(8)): 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 27 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(g)(i) and (j))
 Other notes
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
@@ -99,7 +100,7 @@ holder4, 16D(1)
 major firearm part4, 16B(1), 16E(1)
 medical practitioner4
 missile4
-officer21A(3), 23BA(5)
+officer23BA(5)
 paintball4
 paintball gun4
 paintball pellets4
@@ -114,6 +115,8 @@ provider30(5)
 receiver30(5)
 registered nurse23B(3)
 relevant major firearm part16B(2), 16E(2)
+relevant offence21C(1)
+relevant provision21C(1)
 relevant storage device23AH(2)
 relevant thing29J(3)
 residence29K(1)

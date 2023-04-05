@@ -9,10 +9,11 @@ Road Traffic Legislation Amendment Act 2015 Pt. 5 | 10 of 2015 | 1 Apr 2015 | 2 
 Reprint 1: The Road Traffic (Vehicles) Act 2012 as at 12 Jun 2015 (includes amendments listed above)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 6 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 6 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 55 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Road Traffic (Vehicles) Amendment (Offensive Advertising) Act 2023 s. 3-9 | 6 of 2023 | 29 Mar 2023 | To be proclaimed (see s. 2(b))
+Road Traffic (Vehicles) Amendment (Offensive Advertising) Act 2023 s. 3-9 | 6 of 2023 | 29 Mar 2023 | 1 November 2023 (see s. 2(b) and SL 2023/154 cl. 2)
 Other notes
 The Road Traffic Legislation Amendment Act 2012 Pt. 2 commenced on 12 Dec 2012.
 The Road Traffic (Licensing) Regulations 1975 were repealed by the Road Traffic (Repeals and Amendment) Regulations 2014 as at 27 Apr 2015 (see Gazette 23 Dec 2014 p. 4914).
@@ -51,9 +52,9 @@ goods3(1)
 GVM3(1)
 heavy vehicle3(1)
 improvement notice77
-in the State94
 information provider91(2)
 inspection station70
+in the State94
 involved person3(1)
 journey documentation3(1)
 label15(a), 27(g)
@@ -62,9 +63,9 @@ light vehicle3(1)
 load3(1)
 loader3(1)
 loading requirement3(1)
+mass, dimension or loading requirement3(1)
 mass or dimension requirement3(1)
 mass requirement3(1)
-mass, dimension or loading requirement3(1)
 MDLR offence109(1), 110(1)
 MDLR offence by driver124(1)
 MDLR offence by vehicle licence holder125(1)
@@ -72,7 +73,6 @@ minor risk breach3(1)
 night3(1)
 number plate3(1)
 number plates13(2)
-officer108(1)
 omnibus130(1)
 optional number plates136(1)(a)
 order32, 38

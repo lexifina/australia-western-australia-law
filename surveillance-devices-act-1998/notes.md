@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Surveillance Devices Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Surveillance Devices Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Surveillance Devices Act 1998 | 56 of 1998 | 11 Jan 1999 | 22 Nov 1999 (see s. 2 and Gazette 22 Nov 1999 p. 5843)
@@ -12,9 +12,11 @@ Misuse of Drugs Amendment Act 2004 s. 9(3) | 62 of 2004 | 24 Nov 2004 | 1 Jan 20
 Australian Crime Commission (Western Australia) Act 2004 s. 72 | 74 of 2004 | 8 Dec 2004 | 1 Feb 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Royal Commissions (Powers) Amendment Act 2006 Pt. 3 | 30 of 2006 | 4 Jul 2006 | 16 Sep 2006 (see s. 2 and Gazette 15 Sep 2006 p. 3683)
 Reprint 2: The Surveillance Devices Act 1998 as at 8 Dec 2006 (includes amendments listed above)
- | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 122 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
- | Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 11 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
- | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 122 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 11 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 57 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Section 4B expired on 16 Apr 2004 (see Royal Commission (Police) Act 2002 s. 3(3) and Gazette 16 Apr 2004 p. 1214).

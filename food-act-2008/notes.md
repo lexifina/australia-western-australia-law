@@ -9,6 +9,7 @@ Health Services Act 2016 s. 290 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 14 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Reprint 1: The Food Act 2008 as at 14 Jul 2017 (includes amendments listed above)
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 6 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 29 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -48,8 +49,6 @@ label8
 law enforcement authority142(3)
 member of staff8
 national guidelines120(3)
-offence128(1)
-officer128(1)
 package8
 premises8
 prescribed6(1), 126(1)

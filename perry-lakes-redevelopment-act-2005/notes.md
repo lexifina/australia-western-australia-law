@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Perry Lakes Redevelopment Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Perry Lakes Redevelopment Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Perry Lakes Redevelopment Act 2005 | 43 of 2005 (as amended by this Act s. 53) | 19 Dec 2005 | Act other than Pt. 3 and s. 53: 19 Dec 2005 (see s. 2(1)); Pt. 3: 3 Feb 2006 (see s. 2(2) and 4(1) and Gazette 3 Feb 2006 p. 607); s. 53: 9 Apr 2006 (see s. 2(3) and Gazette 21 Mar 2006 p. 1077)
@@ -8,6 +8,8 @@ Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2
 Reprint 1: The Perry Lakes Redevelopment Act 2005 as at 17 Oct 2008 (includes amendments listed above)
 Perry Lakes Redevelopment Amendment Act 2010 | 53 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s. 2(a)); Act other than s. 1 and 2: 9 Dec 2010 (see s. 2(b))
 Building Act 2011 s. 167 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 46 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Other notes
 The department principally assisting in the administration of the Transfer of Land Act 1893 became, in January 2007, a statutory authority. Certificates, plans and diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -25,15 +27,14 @@ completion day3(1)
 development3(1)
 development approval3(1)
 district3(1)
-Environment Minister3(1)
 environmental condition39(1)
-EP Act3(1)
+Environment Minister3(1)
 EPA3(1)
+EP Act3(1)
 Housing Minister36(1)
 interest3(1)
 local planning scheme3(1)
 Metropolitan Region Scheme3(1)
-officer50(1)
 Perry Lakes land3(1)
 Planning Minister3(1)
 planning scheme14(1)

@@ -23,10 +23,11 @@ Reprint 4: The Aboriginal Heritage Act 1972 as at 7 Mar 2008 (includes amendment
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 3 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Water Services Legislation Amendment and Repeal Act 2012 s. 203 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Aboriginal Cultural Heritage Act 2021 Pt. 15 (other than Div. 3) | 27 of 2021 | 22 Dec 2021 | 23 Dec 2021 (see s. 2(b))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 2 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Aboriginal Cultural Heritage Act 2021 s. 310 and Pt. 15 Div. 3 | 27 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(c), (d) and (e))
+Aboriginal Cultural Heritage Act 2021 s. 310 and Pt. 15 Div. 3 | 27 of 2021 | 22 Dec 2021 | Pt. 15 Div. 3: 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b)); s. 310: 1 Jan 2024 (see s. 2(d))
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Aboriginal Heritage Amendment Act 1995 s. 19(2), (3) and (4) read as follows:

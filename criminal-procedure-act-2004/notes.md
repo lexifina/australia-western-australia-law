@@ -25,6 +25,7 @@ COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 3 | 34 of 20
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 4 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Criminal Appeals Amendment Act 2022 Pt. 3 Div. 2 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 17 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 10 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 4 Subdivison 2 modifies section 77 of the Act. The modified section is identified by the superscript 2M appearing after the section number. The modification ceases to have effect when section 46(1) of that Act ceases to have effect.
@@ -90,8 +91,7 @@ makerSch. 3 cl. 4(3)(a) and (4)(a)
 named personSch. 2 cl. 2(2), 3(2)and 4(2)
 new court date75(4)(a)
 new time75(4)(a)
-offence3(1), 180(1)
-officer180(1)
+offence3(1)
 party3(1)
 payment order185(1)
 police prosecutor35(1)

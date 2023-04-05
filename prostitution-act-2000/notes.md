@@ -23,6 +23,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 42 | 35 of 
 Criminal Investigation (Covert Powers) Act 2012 Pt. 10 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Reprint 2: The Prostitution Act 2000 as at 13 Sep 2013 (includes amendments listed above)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 116 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 49 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -43,7 +44,7 @@ Defined terms
 Defined termProvision(s)
 act as a prostitute3
 act of prostitution3
-administrative head57(4), 57(4), 57(4)
+administrative head57(4)
 child3
 client3
 client4
@@ -53,7 +54,6 @@ conveyance22(1)
 document3
 family order48(2)
 juvenile justice team22(1)
-managerial officer59(2)
 medical practitioner29(7)
 offence22(1)
 offender5(4), 6(3)

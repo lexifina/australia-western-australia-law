@@ -12,6 +12,7 @@ Waste Avoidance and Resource Recovery Amendment (Container Deposit) Act 2019 | 5
 Waste Avoidance and Resource Recovery Amendment (Container Deposit) Act (No. 2) 2019 | 6 of 2019 | 20 Mar 2019 | s. 1 and 2: 20 Mar 2019 (see s. 2(a)); Act other than s. 1 and 2: 19 Apr 2019 (see s. 2(b) and Gazette 18 Apr 2019 p. 1157)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 4 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Environmental Protection Amendment Act 2020 s. 118 | 40 of 2020 | 19 Nov 2020 | s. 118(1) and (3): 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2); s. 118(2): 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 65 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

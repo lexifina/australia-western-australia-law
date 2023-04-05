@@ -26,6 +26,7 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Anzac Day Amendment Act 2016 | 4 of 2016 | 21 Mar 2016 | s. 1 and 2: 21 Mar 2016 (see s. 2(a)); Act other than s. 1 and 2: 23 Mar 2016 (see s. 2(b) and Gazette 22 Mar 2016 p. 859)
 Anzac Day Amendment Act (No. 2) 2016 | 5 of 2016 | 21 Mar 2016 | s. 1 and 2: 21 Mar 2016 (see s. 2(a)); Act other than s. 1 and 2: 23 Mar 2016 (see s. 2(b) and Gazette 22 Mar 2016 p. 859)
 Reprint 4: The Anzac Day Act 1960 as at 3 Feb 2017 (includes amendments listed above)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 4 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

@@ -10,6 +10,7 @@ Reprint 1: The Dangerous Goods Safety Act 2004 as at 5 Jun 2009 (includes amendm
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 4 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Family Violence Legislation Reform Act 2020 Pt. 9 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 18 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 The provisions in this Act repealing these written laws have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -55,7 +56,6 @@ licence11(1)
 mobile home33
 national scheme23(1)
 notice54(1)
-officer61(1)
 official32(1)
 place33
 record3(1)

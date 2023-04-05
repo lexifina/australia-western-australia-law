@@ -17,6 +17,7 @@ Genetically Modified Crops Free Areas Repeal Act 2016 Pt. 3 | 34 of 2016 | 27 Oc
 Reprint 2: The Biosecurity and Agriculture Management Act 2007 as at 17 Nov 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 311)
 Taxation Administration Amendment Act 2019 Pt. 3 | 11 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b))
 Veterinary Practice Act 2021 s. 227 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 10 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -112,7 +113,7 @@ mobile home63
 Modified Penalties Revenue Account6
 notified person84(2)
 occupier6
-officer110(1), 184(1)
+officer184(1)
 official187(1)
 operating account129
 operational work42(1)
@@ -125,7 +126,7 @@ pensioner concession card136(1)
 permitted organism6
 pest control notice6
 pest exclusion notice6
-pest keeping notice5
+pest keeping notice6
 pest plant193(1)
 place6, 42(1)
 plant6

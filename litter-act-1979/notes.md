@@ -43,6 +43,7 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 8 | 22 of 
 Litter Amendment Act 2012 | 30 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1 and 2: 21 Nov 2012 (see s. 2(b) and Gazette 20 Nov 2012 p. 5685)
 Reprint 6: The Litter Act 1979 as at 20 Mar 2015 (includes amendments listed above)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 2 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 37 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

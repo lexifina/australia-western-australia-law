@@ -3,6 +3,7 @@ This is a compilation of the Criminal Law (Unlawful Consorting and Prohibited In
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 (other than s. 67) | 25 of 2021 | 13 Dec 2021 | Pt. 1: 13 Dec 2021 (see s. 2(a)); Act other than Pt. 1 and s. 67: 24 Dec 2021 (see s. 2(b) and SL 2021/219 cl. 2)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 16 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -36,7 +37,6 @@ investigative purposes47
 member21
 named offender6, 10
 named person21, 37
-officer25(1)
 organisation-related activity23(1)
 owner21
 Parliamentary Commissioner3

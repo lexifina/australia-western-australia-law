@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pawnbrokers and Second-hand Dealers Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pawnbrokers and Second-hand Dealers Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pawnbrokers and Second-hand Dealers Act 1994 | 88 of 1994 | 5 Jan 1995 | s. 1 and 2: 5 Jan 1995; Act other than s. 1 and 2: 1 Apr 1996 (see s. 2 and Gazette 29 Mar 1996 p. 1495)
@@ -15,6 +15,8 @@ Pawnbrokers and Second-hand Dealers Amendment Act 2006 | 46 of 2006 | 4 Oct 2006
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Pawnbrokers and Second-hand Dealers Act 1994 as at 15 Jun 2007 (includes amendments listed above)
 Acts Amendment (Justice) Act 2008 s. 130 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 44 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Other notes
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 59 reads as follows:

@@ -46,6 +46,7 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 210 | 25 of 2012 | 3
 Electricity Corporations Amendment Act 2013 s. 41 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 6: The Energy Operators (Powers) Act 1979 as at 14 Jun 2019 (includes amendments listed above)
 Electricity Industry Amendment Act 2020 s. 31 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 22 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Other notes
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
