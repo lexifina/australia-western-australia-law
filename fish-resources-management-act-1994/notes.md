@@ -39,6 +39,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 24 | 8 of 2012 | 21 May 2
 Conservation and Land Management Amendment Act 2015 s. 73 | 28 of 2015 | 2 Nov 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Reprint 5: The Fish Resources Management Act 1994 as at 4 Mar 2016 (includes amendments listed above except those in the Conservation and Land Management Amendment Act 2015 and the Associations Incorporation Act 2015)
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 28 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2032 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -161,7 +162,6 @@ master4(1)
 MEMP4(1), 92A(1)
 noxious fish4(1)
 noxious substance4(1)
-officer204(3)
 one day50(1)
 organism177B
 original area97B(1)
