@@ -188,7 +188,6 @@ Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 2 | 26 of 201
 Court Jurisdiction Legislation Amendment Act 2018 Pt. 3 | 28 of 2018 | 2 Nov 2018 | 1 Jan 2019 (see s. 2(b) and Gazette 21 Dec 2018 p. 4845)
 Criminal Law Amendment (Intimate Images) Act 2019Pt. 2 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
 Criminal Code Amendment (Child Marriage) Act 2020 | 2 of 2020 | 27 Feb 2020 | s. 1 and 2: 27 Feb 2020 (see s. 2(a)); Act other than s.1 and 2: 28 Feb 2020 (see s. 2(b))
-Short title | Number and year | Assent | Commencement
 Criminal Code Amendment (COVID-19 Response) Act 2020 | 8 of 2020 (as amended by No. 39 of 2020 s. 7, No. 1 of 2021 s. 7, No. 21 of 2021 s. 7 and No. 15 of 2022 s. 7) | 3 Apr 2020 | s. 1 and 2: 3 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 5(3): 4 Apr 2020 (see s. 2(c)); s. 4(2) and 5(3): 4 Jan 2023 (see s. 2(b))
 Family Violence Legislation Reform Act 2020 Pt. 2 | 30 of 2020 | 9 Jul 2020 | s. 12: 10 Jul 2020 (see s. 2(1)(b)); s. 3, 4 and 7-11: 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(i)); s. 5 and 6: 1 Oct 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(b)(i))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2020 Pt. 2 | 39 of 2020 | 19 Nov 2020 | 20 Nov 2020 (see s. 2(b))
@@ -198,13 +197,13 @@ COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act (
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 Pt. 6 Div. 2 (other than s. 67) | 25 of 2021 | 13 Dec 2021 | 24 Dec 2021 (see s. 2(b) and SL 2021/219 cl. 2)
 Firearms Amendment Act 2022 Pt. 3 Div. 1 | 13 of 2022 | 18 May 2022 | 15 Jun 2022 (see s. 2(b))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2022 Pt. 2 | 15 of 2022 | 27 May 2022 | 28 May 2022 (see s. 2(b))
+Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 3 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 2 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
-Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 3 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -240,7 +239,8 @@ The Criminal Investigation (Consequential Provisions) Act 2006 s. 29 is a transi
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accessory after the fact10.
+abattoir70A(1)
+accessory after the fact10
 accused5(1), 10G(2), 10H(2)
 act of family violence299(4)
 adult offender1(1)
@@ -253,7 +253,10 @@ Alternative offence10B
 amended10K
 amendment ActSch. 1 cl. 1
 animal370
-animosity towards76
+animal source food production70A(1)
+animal source food production facility70A(1)
+animal source food production place70A(1)
+animosity towards75
 anything266(1)
 applies force222
 assault1(1), 222
@@ -273,7 +276,7 @@ child care centre557K(1)
 child exploitation material217A
 child pornography217A
 child sex offender557K(1)
-circumstances of aggravation221(1), 319(1), 338D(1), 391, 400(1), 444(1A)
+circumstances of aggravation70A(1), 221(1), 319(1), 338D(1), 391, 400(1), 444(1A)
 circumstances of racial aggravation1(1), 80I
 clerk1(1)
 COC Act221C(1)
@@ -293,11 +296,11 @@ conveyance1(1), 284(1), 390A(1)
 court5(1)
 court of summary jurisdiction1(1)
 CP Act720
-criminally responsible1(1)
+criminally responsible1
 criminal organisation221C(1), 221D(1)
 criminal responsibility1(1)
 current offence401B(1), 401(4)
-damage1(1)
+damage1(1), 1(1)
 dangerous goods294A(3)
 dangerous thing305(1)
 deals with319(1), 563B(5)
@@ -327,6 +330,7 @@ electronic communication204B(1), 489
 enclosed land70B(1)
 engaged in a private act221BA
 explosive substance1(1), 455, 557(2)
+family member70A(1)
 family relationship221(2)
 female genital mutilation306(1)
 first relevant conviction401A(1)
@@ -350,10 +354,12 @@ indecent act319(1)
 indecent matter204B(1)
 indictable offence221C(1)
 indictment1(1)
+indigenous person70A(1)
 information81(1)
 in relation to his principal’s affairs or business546
+interfere with70A(1)
 intimate image221BA
-intimate image offence221BE(1)
+intimate image offence221BD(1)
 intimate personal relationship299(2)
 intimidate338D(1)
 intoxicant206(1)
@@ -361,6 +367,7 @@ intoxicating substance305A(1)
 judicial proceeding120
 juvenile offender1(1)
 kill270
+knackery70A(1)
 law enforcement agency221A(4), 221BA
 lawful excuse68B(1), 68C(1), 68D(1)
 liable1(1)
@@ -471,7 +478,7 @@ unlawful assembly62
 use390A(1), 440A(1)
 used in connection with an offence563B(5)
 utter1(1)
-valuable consideration546, 546, 546
+valuable consideration546
 valuable consideration solicited546
 valuable security1(1)
 vehicle1(1), 75A(2)
