@@ -6,8 +6,9 @@ Liquor Control (Looma Restricted Area) Regulations 2011 | 27 May 2011 p. 1929-31
 Liquor Control (Looma Restricted Area) Amendment Regulations 2014 | 23 May 2014 p. 1635-6 | r. 1 and 2: 23 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 24 May 2014 (see r. 2(b))
 Liquor Control (Looma Restricted Area) Amendment Regulations 2017 | 12 May 2017 p. 2470 | r. 1 and 2: 12 May 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 13 May 2017 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2020 Pt. 4 | SL 2020/62 22 May 2020 | 23 May 2020 (see r. 2(b))
+Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2023 Pt. 4 | SL 2023/26 6 Apr 2023 | 7 Apr 2023 (see r. 2(b))
 Other notes
-These regulations expire at the close of 28 May 2023 (see r. 9).
+These regulations expire at the close of 28 May 2024 (see r. 9).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -9,8 +9,9 @@ Liquor Control (Wangkatjungka Restricted Area) Amendment Regulations 2013 | 19 A
 Liquor Control (Wangkatjungka Restricted Area) Amendment Regulations 2016 | 4 Mar 2016 p. 629 | r. 1 and 2: 4 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Mar 2016 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2019 Pt. 3 | 22 Mar 2019 p. 859-60 | 23 Mar 2019 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2022 Pt. 3 | SL 2022/38 25 Mar 2022 | 26 Mar 2022 (see r. 2(b))
+Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2023 Pt. 6 | SL 2023/26 6 Apr 2023 | 7 Apr 2023 (see r. 2(b))
 Other notes
-These regulations expire 22 Apr 2023 (see r. 9).
+These regulations expire 22 Apr 2024 (see r. 9).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

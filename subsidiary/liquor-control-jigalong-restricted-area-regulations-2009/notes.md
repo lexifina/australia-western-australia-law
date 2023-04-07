@@ -7,8 +7,9 @@ Liquor Control (Jigalong Restricted Area) Amendment Regulations 2011 | 29 Apr 20
 Liquor Control (Jigalong Restricted Area) Amendment Regulations 2014 | 4 Apr 2014 p. 884 | r. 1 and 2: 4 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2014 (see r. 2(b))
 Liquor Control (Jigalong Restricted Area) Amendment Regulations 2017 | 21 Apr 2017 p. 2181 | r. 1 and 2: 21 Apr 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2017 (see r. 2(b))
 Liquor Control (Jigalong Restricted Area) Amendment Regulations 2020 | SL 2020/42 24 Apr 2020 | r. 1 and 2: 24 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2020 (see r. 2(b))
+Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2023 Pt. 3 | SL 2023/26 6 Apr 2023 | 7 Apr 2023 (see r. 2(b))
 Other notes
-These regulations expire at the close of 1 May 2023 (see r. 9).
+These regulations expire at the close of 1 May 2024 (see r. 9).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
