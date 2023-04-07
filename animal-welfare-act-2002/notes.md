@@ -14,12 +14,12 @@ Biodiversity Conservation Act 2016 s. 310 | 24 of 2016 | 21 Sep 2016 | 1 Jan 201
 Animal Welfare Amendment Act 2018 | 35 of 2018 | 28 Nov 2018 | s. 1 and 2: 28 Nov 2018 (see s. 2(a)); Act other than s. 1 and 2: 29 Nov 2018 (see s. 2(b))
 Reprint 2: The Animal Welfare Act 2002 as at 22 Feb 2019 (includes amendments listed above)
 Veterinary Practice Act 2021 s. 226 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
+Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 2 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 3 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 362 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 2 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 5 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -27,25 +27,31 @@ References in the Act to the Director General were replaced by references to the
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+abattoir36A
 Agriculture WA5(1)
 animal5(1)
 animal ethics committee5(1)
+animal source food production36A
+animal source food production facility36A
 authorised person63
 Biodiversity Conservation Department5(1)
 caused93(7)
 CEO5(1)
 code of practice5(1), 94(3)
 Department5(1)
+designated inspector5(1)
 fauna5(1)
 field site14(2)
 Fisheries Western Australia5(1)
 general inspector5(1)
 harm5(1)
 inspector5(1)
+intensive production36A
+intensive production place36A
+knackery36A
 lawfully taken5(1)
 licence5(1)
 non-residential place5(1)
-officer80(3)
 owner44(11)
 person in charge5(1)
 pest24(2)
