@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the National Disability Insurance Scheme (Worker Screening) Act 2020. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the National Disability Insurance Scheme (Worker Screening) Act 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 National Disability Insurance Scheme (Worker Screening) Act 2020 (other than s. 23) | 48 of 2020 | 9 Dec 2020 | Pt. 1: 9 Dec 2020 (see s. 2(1)(a)); Pt. 2 (other than s. 23), Pt. 3-7 and Sch. 1 and 2: 1 Feb 2021 (see s. 2(1)(b) and SL 2021/4 cl. 2)
@@ -8,6 +8,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 National Disability Insurance Scheme (Worker Screening) Act 2020 (s. 23) | 48 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(b))
 Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 1 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 21 and s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
