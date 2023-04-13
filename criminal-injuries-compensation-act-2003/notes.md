@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Injuries Compensation Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Criminal Injuries Compensation Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Injuries Compensation Act 2003 | 77 of 2003 | 15 Dec 2003 | s. 1 and 2: 15 Dec 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
@@ -21,6 +21,10 @@ Reprint 3: The Criminal Injuries Compensation Act 2003 as at 29 Nov 2013 (includ
 Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 3 | 3 of 2018 | 19 Apr 2018 | 1 Jul 2018 (see s. 2(b) and Gazette 29 Jun 2018 p. 2434)
 National Redress Scheme for Institutional Child Sexual Abuse (Commonwealth Powers) Act 2018 Pt. 7 | 36 of 2018 | 5 Dec 2018 | 5 Dec 2018 (see s. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 7 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Other notes
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995.
@@ -68,3 +72,7 @@ satisfied3
 specified64(1)
 victim3, 20(1)
 witness63(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
