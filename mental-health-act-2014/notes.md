@@ -14,6 +14,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Health Services Amendment Act 2023 Pt. 3 | 1 of 2023 | 22 Feb 2023 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 20 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,7 +27,7 @@ Agency4
 application379, 493
 apprehension and return order98(1)
 approved form4, 160
-approved product information,304(2)
+approved product information304(2)
 authorised hospital4
 authorised mental health practitioner4
 authorised person161
