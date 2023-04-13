@@ -11,6 +11,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 37-39, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 s. 409 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Other notes
 The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation when it was deleted by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 s. 107.
 Defined terms
@@ -23,3 +24,7 @@ lodge5
 person5
 seal5
 writing5
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
