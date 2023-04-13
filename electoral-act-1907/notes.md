@@ -108,6 +108,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 13 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 (Cwlth) Sch. 1 Pt. 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also the uncommenced provisions table.
