@@ -66,6 +66,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 2 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 s. 409 and 411 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
