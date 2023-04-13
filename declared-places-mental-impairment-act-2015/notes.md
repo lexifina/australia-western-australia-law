@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Declared Places (Mentally Impaired Accused) Act 2015 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Declared Places (Mentally Impaired Accused) Act 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Declared Places (Mentally Impaired Accused) Act 2015 | 4 of 2015 | 3 Mar 2015 | s. 1 and 2: 3 Mar 2015 (see s. 2(a)); Act other than s. 1 and 2: 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 109 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 11 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -46,3 +50,7 @@ subcontractor3
 treatment17(1)
 treatment decision17(1)
 work15(1), 25, 54(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
