@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the High Risk Serious Offenders Act 2020. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the High Risk Serious Offenders Act 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 High Risk Serious Offenders Act 2020 (other than Sch. 1 Div. 2 Subdiv. 1 it. 1) | 29 of 2020 | 9 Jul 2020 | Pt. 1: 9 Jul 2020 (see s. 2(1)(a)); s. 91: 10 Jul 2020 (see s. 2(1)(b)); Pt. 2-7, Pt. 8 (other than s. 91), Pt. 9 and 10 and Sch. 1 (other than Sch. 1 Div. 2 Subdiv. 1 it. 1): 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
@@ -7,6 +7,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 High Risk Serious Offenders Act 2020 Sch. 1 Div. 2 Subdiv. 1 it. 1 | 29 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 17 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
