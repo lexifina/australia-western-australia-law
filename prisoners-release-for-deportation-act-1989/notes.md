@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisoners (Release for Deportation) Act 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Prisoners (Release for Deportation) Act 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prisoners (Release for Deportation) Act 1989 | 15 of 1989 | 16 Nov 1989 | 6 Dec 1991 (see s. 2 and Gazette 6 Dec 1991 p. 6067)
@@ -9,6 +9,10 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 60 | 10 of 1998 | 30
 Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) | 50 of 2003 | 9 Jul 2003 | 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
 Reprint 1: The Prisoners (Release for Deportation) Act 1989 as at 3 Oct 2003 (includes amendments listed above)
 Parole and Sentencing Legislation Amendment Act 2006 s. 93 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 23 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -18,3 +22,7 @@ prison3(1)
 prisoner3(1)
 Prisoners Review Board3(1)
 safe custody3(3)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
