@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Victims of Crime Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Victims of Crime Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Victims of Crime Act 1994 | 81 of 1994 | 23 Dec 1994 | 20 Jan 1995
@@ -11,6 +11,10 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 12 | 65 of 2006 | 8 De
 Acts Amendment (Justice) Act 2008 Pt. 25 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 2: The Victims of Crime Act 1994 as at 28 Oct 2011 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Criminal Law (Mental Impairment) Act 2023 s. 411 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
