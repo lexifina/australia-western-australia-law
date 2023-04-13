@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fines, Penalties and Infringement Notices Enforcement Act 1994 | 93 of 1994 | 23 Dec 1994 | s. 1 and 2: 23 Dec 1994; Act other than s. 1, 2 and 29(2): 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211); s. 29(2): 11 Jan 1995 (see s. 2(2))
@@ -38,6 +38,10 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 15 | 26 of 2016 | 21 
 Reprint 6: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 24 May 2019 (includes amendments listed above)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 2 | 25 of 2020 | 19 Jun 2020 | Pt. 2 Div. 1 and 2, s. 87 and 103: 20 Jun 2020 (see s. 2(1)(b)); s. 9-86, 88 and 89: 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a)); s. 90-102, 104 and 105: 30 Sep 2020 (see s. 2(1)(d) and SL 2020/159 cl. 2(b))
 Criminal Appeals Amendment Act 2022 Pt. 3 Div. 3 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 15 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
