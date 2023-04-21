@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Electricity Industry (Pilbara Networks) Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Electricity Industry (Pilbara Networks) Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Electricity Industry (Pilbara Networks) Regulations 2021 | SL 2021/95 18 Jun 2021 | Pt. 1: 18 Jun 2021 (see r. 2(a)); Regulations other than Pt. 1: 19 Jun 2021 (see r. 2(b))
 Electricity Industry (Pilbara Networks) Amendment Regulations 2022 | SL 2022/183 4 Nov 2022 | r. 1 and 2: 4 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Energy Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/32 21 Apr 2023 | At 8 am on 1 Oct 2023 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
