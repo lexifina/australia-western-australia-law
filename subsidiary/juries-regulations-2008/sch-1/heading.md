@@ -6,8 +6,8 @@ Juries Act 1957
 To
 You are hereby summoned to attend at the Jury Assembly Room on the day of 20 at a.m. to serve as a juror at the Criminal Sittings of the Supreme Court and of the District Court and there to attend from day to day until you shall be discharged.
 Dated theday of 20 .
-Sheriff.
-[Form 1 inserted: Gazette 30 Jun 2011 p. 2618.]
+Summoning Officer (name)
+[Form 1 inserted: Gazette 30 Jun 2011 p. 2618; amended: SL 2023/33 r. 6.]
 Form 2 — Jury Pool Precept
 Juries Act 1957
 TO THE JURY POOL SUPERVISOR.
