@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Lotteries Commission (Authorised Lotteries) Rules 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Lotteries Commission (Authorised Lotteries) Rules 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Lotteries Commission (Authorised Lotteries) Rules 2016 | 7 Oct 2016 p. 4405-527 | r. 1 and 2: 7 Oct 2016 (see r. 2(a)); Rules other than r. 1 and 2: 8 Oct 2016 (see r. 2(b))
@@ -12,8 +12,12 @@ Lotteries Commission Rules Amendment (COVID-19 Response) Rules 2020 Pt. 2 | SL 2
 Lotteries Commission (Authorised Lotteries) (Saturday Lotto) Amendment Rules 2020 | 8 Sep 2020 p. 2851-2 | r. 1-3: 8 Sep 2020 (see r. 2(a)); r. 4-9: immediately after the Saturday Lotto draw on 3 Oct 2020 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) Amendment Rules 2020 | 6 Nov 2020 p. 4156-61 | r. 1 and 2: 6 Nov 2020 (see r. 2(a)); Rules other than r. 1 and 2: 9 Nov 2020 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) Amendment (Saturday Lotto) Rules 2021 | 23 Jul 2021 p. 3154 | r. 1-3: 23 Jul 2021 (see r. 2(a)); Rules other than r. 1-3: 24 Jul 2021 (see r. 2(b))
-Lotteries Commission (OZ Lotto) Amendment Rules 2022 | 5 Apr 2022 p. 2482-3 | r. 1 and 2: 5 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: operative immediately after the OZ Lotto draw on 10 May 2022 (see r. 2(b))
-Lotteries Commission (Super66 and Removal of Self-serve Kiosks) Amendment Rules 2022 | 12 Apr 2022 p. 2728-9 | r. 1 and 2: 12 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: operative immediately after the Super66 draw on 14 May 2022 (see r. 2(b))
+Lotteries Commission (OZ Lotto) Amendment Rules 2022 | 5 Apr 2022 p. 2482-3 | r. 1 and 2: 5 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: immediately after the OZ Lotto draw on 10 May 2022 (see r. 2(b))
+Lotteries Commission (Super66 and Removal of Self-serve Kiosks) Amendment Rules 2022 | 12 Apr 2022 p. 2728-9 | r. 1 and 2: 12 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: immediately after the Super66 draw on 14 May 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lotteries Commission (Authorised Lotteries) (Powerball) Amendment Rules 2023 (other than r. 1 and 2) | 28 Apr 2023 p. 867 | Operative immediately after the Powerball draw on 18 May 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
