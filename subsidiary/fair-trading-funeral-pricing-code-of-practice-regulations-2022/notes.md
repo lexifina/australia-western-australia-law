@@ -1,9 +1,15 @@
 Notes
-This is a compilation of the Fair Trading (Funeral Pricing Code of Practice) Regulations 2022. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Fair Trading (Funeral Pricing Code of Practice) Regulations 2022. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
-Fair Trading (Funeral Pricing Code of Practice) Regulations 2022 r. 1 and 2 | SL 2022/184 8 Nov 2022 | 8 Nov 2022 (see r. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Fair Trading (Funeral Pricing Code of Practice) Regulations 2022 (other than r. 1 and 2) | SL 2022/184 8 Nov 2022 | 1 May 2023 (see r. 2(b))
+Fair Trading (Funeral Pricing Code of Practice) Regulations 2022 | SL 2022/184 8 Nov 2022 | r. 1 and 2: 8 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2023 (see r. 2(b))
+Other notes
+These regulations expire on 1 May 2026 (see r. 4).
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+basic packageSch. 1 cl. 2(1)
+business daySch. 1 cl. 1
+funeral director3(1), Sch. 1 cl. 1
+funeral informationSch. 1 cl. 2(1)
+Prepaid Funerals Code of PracticeSch. 1 cl. 1
