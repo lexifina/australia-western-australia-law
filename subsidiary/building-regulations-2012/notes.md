@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -43,10 +43,7 @@ Building Amendment Regulations 2021 | SL 2021/42 13 Apr 2021 | r. 1 and 2: 13 Ap
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Commerce Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt. 2 | SL 2021/130 16 Jul 2021 | 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/26 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Building Amendment Regulations (No. 2) 2022 r. 3-15 | SL 2022/162 23 Sep 2022 | 1 May 2023 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2022 | SL 2022/162 23 Sep 2022 | r. 1 and 2: 23 Sep 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2023 (see r. 2(b))
 Other notes
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -68,7 +65,7 @@ AS 1926.148
 AS 39593
 assessment method3
 builder work3
-Building Code3
+Building Code3, 3A(1)
 Building Code pool barrier requirements3
 building product31J(1)
 building site3
@@ -77,12 +74,12 @@ bush fire performance requirement3
 bush fire prone area3
 bush fire standard31BA(1A)
 business day3
+C1V33
 Class3
 CodeMark certificate31J(1)
-commencement date 31HA(1)
+commencement date31HA(1)
 commencement day3, 31HB(1)
-CV33
-debris criteria 31HA(1)
+debris criteria31HA(1)
 decision33(1)
 declaration of intended demolition55(1)
 dwelling55(1)
@@ -91,7 +88,7 @@ EPSch. 3 cl. 1
 estimated value3
 excluded building work31BA(1A)
 exempt remedial work31HA(1)
-existing building or incidental structure 31HA(1)
+existing building or incidental structure31HA(1)
 expiry day23(1), 40(1)
 external wall31HA(1)
 FES Commissioner3
@@ -123,7 +120,7 @@ relevant day60(1)
 relevant edition of the Building Code3
 remedial work31HA(1)
 renovation, alteration, extension, improvement or repair31BA(1A)
-repeal day54(1)
+repeal day54
 repealed provisions54(1)
 residential tenancy agreement55(1)
 road10(1A), 44A
@@ -133,6 +130,7 @@ sole-occupancy unit3
 specified employee70(1A)
 Statistician14A(1)
 strata leasehold estate10(1A)
+Swan Valley Planning Scheme3
 swimming pool3
 Table41(2)
 townsite3
