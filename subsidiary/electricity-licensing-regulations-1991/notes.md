@@ -64,6 +64,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Electricity (Licensing) Amendment Regulations 2023 r. 4(2) | SL 2023/30 6 Apr 2023 | 1 Aug 2023 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
