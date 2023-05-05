@@ -56,6 +56,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2022 (other than Pt. 1-3) | SL 2022/163 23 Sep 2022 | 1 May 2024 (see r. 2(d))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 15 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
