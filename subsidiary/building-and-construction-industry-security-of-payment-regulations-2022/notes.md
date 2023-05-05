@@ -7,6 +7,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Building and Construction Industry (Security of Payment) Regulations 2022 r. 10 | SL 2022/85 17 Jun 2022 | 1 Feb 2024 (see r. 2(a))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
