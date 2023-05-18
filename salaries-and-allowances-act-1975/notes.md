@@ -60,6 +60,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 156 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Local Government Amendment Act 2023 Pt. 3 Div. 3 | 11 of 2023 | 18 May 2023 | To be proclaimed (see s. 2(d)
 Other notes
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
