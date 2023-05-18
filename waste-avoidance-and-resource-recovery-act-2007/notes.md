@@ -17,6 +17,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and 3 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Local Government Amendment Act 2023 Pt. 3 Div. 4 | 11 of 2023 | 18 May 2023 | To be proclaimed (see s. 2(d))
 Other notes
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
