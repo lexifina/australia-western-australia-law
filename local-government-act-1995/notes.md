@@ -73,13 +73,15 @@ Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 6 | 36 of 2020 | 10 Nov 20
 Swan Valley Planning Act 2020 Pt. 10 Div. 7 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 s. 95 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 3 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
+Local Government Amendment Act 2023 Pt. 2 (but only s. 3, 60, 86, 87 and 89) | 11 of 2023 | 18 May 2023 | 19 May 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 | 1 Sep 2017 | To be proclaimed (see s. 2(c))
+Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 (as amended by No. 11 of 2023 s. 103) | 1 Sep 2017 | To be proclaimed (see s. 2(1)(c))
 Local Government Legislation Amendment Act 2019 s. 39(2) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 Apr 2020 | To be proclaimed (see s. 2(b))
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 6 | 21 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
+Local Government Amendment Act 2023 s. 4-59, 61-85 and 88-98 | 11 of 2023 | 18 May 2023 | To be proclaimed (see s. 2(d))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
@@ -272,6 +274,7 @@ The description at the beginning of Part 7 is to be altered by:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+2023 amendment ActSch. 9.3 cl. 57
 abandoned vehicle wreck3.40A(5)
 absent vote4.67(a)
 absolute majority1.4
@@ -288,6 +291,7 @@ agreement7.8, 7.13(1)
 alleged offender3.38
 amending ActSch. 9.3 cl. 14A(1), 42 and 45
 amending provisionSch. 9.3 cl. 44
+amendment daySch. 9.3 cl. 58(1), 59(1) and 61(1)
 amount misapplied8.35(3)
 an authorised person8.3(6)(a) and (b)
 annual budget6.1
@@ -352,8 +356,8 @@ district1.4
 districtsSch. 2.1 cl. 8(1)
 disused materialSch. 3.1 Div. 1
 early vote4.67(b)
-election4.1, 4.36(2), Sch. 2.3 cl. 10
-election day4.1
+election4.1, 4.36(2), Sch. 2.3 cl. 10, Sch. 9.3 cl. 59(1)
+election day4.1 Sch. 9.3 cl. 59(1)
 election notice4.1, 4.64(2)
 election year1.4
 elector1.4
@@ -369,10 +373,12 @@ elector mayor or president1.4
 electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)(a)
 electors5.26
 eligible body5.49(1)
+emergency9.63A(1)
 employee1.4, 5.48(1), 5.70(1), 7.10(2)
 entitled person6.67(3)
 establishment agreement3.61(2)(b)
 event5.90A(1)
+excluded provision9.63A(1)
 existing rollSch. 9.3 cl. 12(1)
 extension order8.15F(3)
 extent5.59
@@ -441,6 +447,7 @@ official plan9.48(2)
 officially certified9.48(2)
 on which the order is based8.15D
 ordinary election1.4, 4.4(2)
+ordinary election daySch. 9.3 cl. 59(1)
 ordinary elections day1.4
 original order8.15G(1)
 original valuationsSch. 6.1 cl. 2(2)
@@ -499,7 +506,7 @@ serious breach5.102A
 serious local government offence2.22(3)
 service charge6.1, 6.42, 6.54, 6.63
 show cause notice8.15B(1)
-specified3.38, 9.10(1), Sch. 9.3 cl. 54(1)
+specified3.38, 9.10(1), Sch. 9.3 cl. 54(1) and 62(1)
 specified area rate6.1
 standSch. 9.1 cl. 1(1)
 standards panel5.102A
@@ -515,7 +522,9 @@ this Act4.1
 this Part4.1
 thoroughfare1.4
 trading undertaking3.59(1)
-transitional matterSch. 9.3 cl. 54(1)
+transitional matterSch. 9.3 cl. 54(1) and 62(1)
+transitional orderSch. 9.3 cl. 59(2)
+transitional timeSch. 9.3 cl. 58(1)
 travel5.57, 5.83(4)
 travel contribution5.57
 trust fund6.1
