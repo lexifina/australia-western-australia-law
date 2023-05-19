@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
@@ -138,6 +138,10 @@ Transport Regulations Amendment (Ports) Regulations 2021 Pt. 2 | SL 2021/51 7 Ma
 Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Waiver and Refund) Regulations 2022 Pt. 2 | SL 2022/47 8 April 2022 | 9 April 2022 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2022 | SL 2022/48 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 2 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Footnote no longer applicable.
