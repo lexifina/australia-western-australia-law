@@ -9,6 +9,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Work Health and Safety (General) Regulations 2022 r. 58 | SL 2022/31 11 Mar 2022 | 31 Mar 2024 (see r. 2(b))
+Work Health and Safety (General) (Fees) Amendment Regulations 2023 r. 3 and 4 | SL 2023/42 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
