@@ -30,6 +30,7 @@ Local Government (Functions and General) Amendment Regulations 2020 | SL 2020/55
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 8 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Local Government (Functions and General) Amendment Regulations 2021 | SL 2021/75 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Local Government Regulations Amendment Regulations 2022 Pt. 4 (other than Div. 3) | SL 2022/177 2 Nov 2022 | 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Local Government (Functions and General) Amendment Regulations 2023 | SL 2023/47 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 20 May 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -50,7 +51,7 @@ joint venturer9(2)
 land that will lose its access4(3)
 major regional centre7(1)
 minor variation20(3)
-original contract11
+original contract11(2)
 panel of pre-qualified suppliers24AA
 pre-qualified supplier24AA
 public place29(2)
