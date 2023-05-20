@@ -62,6 +62,7 @@ Misuse of Drugs (Amounts of Prohibited Drugs) Order 2018 published in Gazette 29
 Reprint 8: The Misuse of Drugs Act 1981 as at 19 Jul 2019 (includes amendments listed above)
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 6 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 42 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Misuse of Drugs (Amounts of Prohibited Drugs) Order 2023 (SL 2023/48) | cl. 1 and 2: 19 May 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 20 May 2023 (see cl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
