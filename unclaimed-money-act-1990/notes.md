@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Unclaimed Money Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Unclaimed Money Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Unclaimed Money Act 1990 | 31 of 1990 | 9 Oct 1990 | 12 Apr 1991 (see s. 2 and Gazette 12 Apr 1991 p. 1597)
@@ -24,9 +24,9 @@ Reprint 2: The Unclaimed Money Act 1990 as at 9 Mar 2007 (includes amendments li
 Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 4 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2 and Gazette 24 Jun 2008 p. 2885)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 11 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Aboriginal Affairs Planning Authority Amendment Act 2012 Pt. 3 | 38 of 2012 | 22 Nov 2012 | 7 Aug 2013 (see s. 2(b) and Gazette 6 Aug 2013 p. 3647)
+Major Events Act 2023 s. 113 | 12 of 2023 | 22 May 2023 | 23 May 2023 (see s. 2(b))
+Other notes
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
-The Companies (Western Australia) Code and the Companies (Acquisition of Shares) (Western Australia) Code were superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
-Footnote no longer applicable.
 The former Consolidated Fund became the Consolidated Account.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

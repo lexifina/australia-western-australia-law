@@ -143,6 +143,7 @@ Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
  | Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above except those listed in the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 15 and s. 276)
  | Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
  | Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+ | Major Events Act 2023 s. 110 | 12 of 2023 | 22 May 2023 | 23 May 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -227,7 +228,7 @@ Defined termProvision(s)
 Agvet Code of Western Australia3(1)
 analyst3(1)
 Analytical Committee3(1), 247AA
-apparatus for the treatment of sewage3(1), 100(4)
+apparatus for the treatment of sewage3(1), 100(4)(a)
 authorised officer3(1) and (2A)
 authorised person173
 cellar3(1)
@@ -258,6 +259,8 @@ informed consent334(5)
 investigator340A, 340AA, 340BA
 land3(1)
 lodging-house3(1)
+major event175A(1)
+major event area175A(1)
 meat3(1)
 medical practitioner3(1)
 member246B(9), 247AA, 340A, 340AA, 340BA
@@ -273,7 +276,7 @@ occupier3(1), 145(3)
 offensive3(1)
 offensive matter3(1)
 offensive trade186(1)
-owner3(1), 100(4)
+owner3(1), 100(4)(a)
 person in default116(e)
 pesticide3(1)
 Pesticides Advisory Committee246
@@ -310,5 +313,5 @@ underground room3(1)
 venereal disease3(1)
 vessel3(1)
 WALGA247AA
-water supply129
+Water supply129
 writing3(1)
