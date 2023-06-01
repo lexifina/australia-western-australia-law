@@ -1,5 +1,6 @@
 ## Appendix 1 — Information to be given to owner-driver
-[s. 7(2)(b)]
+[cl. 7(2)(b)]
+[Heading amended: SL 2023/29 r. 14(1).]
 Owner-Drivers (Contracts and Disputes) Act 2007
 Western Australian Owner-Drivers
 Information Form
@@ -7,7 +8,7 @@ It is a requirement of the Owner-Driver Contracts Code of Conduct 2010 (“the C
 Where an owner-driver advises the hirer that they already have current copies of the documents, the hirer is not required to provide additional copies.
 In some circumstances, it might not be reasonably practical for the hirer to provide the documents before entering into a contract with the owner-driver. In those cases, the hirer should advise the owner-driver where the documents can be obtained.
 The Act and Code of Conduct
-The Owner-Drivers (Contracts and Disputes) Act 2007 (“the Act”), but for sections 35 and 36, came into effect on or before 1st August 2008. The Code of Conduct has been made under the Act. The Code of Conduct complements the provisions in the Act.
+The Code of Conduct has been made under the Owner-Drivers (Contracts and Disputes) Act 2007 (“the Act”) Part 4. The Code of Conduct complements the provisions in the Act.
 The Act and Code of Conduct regulate owner-driver contracts and dealings between owner-drivers and hirers. The Act and Code of Conduct apply to an owner-driver who is engaged:
 ·under an owner-driver contract that is entered into in Western Australia or is subject to the law of Western Australia; or
 ·to transport goods wholly within Western Australia; or
@@ -34,7 +35,7 @@ Where:
 listed public company has the same meaning as it has in the Income Tax Assessment Act 1997 of the Commonwealth; and
 officer, of a body corporate, has the same meaning as it has in the Corporations Act 2001 of the Commonwealth.
 Rights and Obligations
-The Act and Code of Conduct introduce a number of new legal requirements that affect the rights and obligations of owner-drivers and hirers in relation to owner-driver contracts and the negotiation of those contracts. It is recommended that those affected seek independent legal and financial advice about the requirements.
+The Act and Code of Conduct impose legal requirements that affect the rights and obligations of owner-drivers and hirers in relation to owner-driver contracts and the negotiation of those contracts. It is recommended that those affected seek independent legal and financial advice about the requirements.
 A party to an owner-driver contract cannot give away or bargain away any of the rights or obligations that the Act or Code of Conduct gives or imposes on them.
 An owner-driver contract or any other kind of agreement cannot:
 ·Provide that all or any of the Act or Code of Conduct does not apply, or applies in a different way.
@@ -56,6 +57,20 @@ Where an owner-driver contract does not have a written provision about the time 
 Within 14 days after receiving a payment claim, the party receiving the claim must —
 ·pay the whole amount of the claim; or
 ·where part of the claim is in dispute, pay the part of the claim not in dispute.
+Minimum notice period
+Where an owner-driver contract contains a provision that purports to allow a party to terminate the contract by giving notice of less than the minimum notice period, the Act provides that the provision has no effect.
+The notice period is the period beginning on the day on which one party gives the other party written notice of termination of the contract and ending on the day on which the termination of the contract is to take effect.
+The minimum notice period is 90 days. However, the minimum notice period of 90 days does not apply where the aggregate term of the original contract and any consecutive series of successive contracts between the same parties that contain substantially similar terms and conditions is less than 90 days. In that case the minimum notice period is 7 days.
+Where an owner-driver contract does not have a valid provision about the notice period, the Act implies the following terms into the contract.
+A party may terminate the contract by giving the other party written notice of the termination that states the day on which notice is given and the day on which the termination of the contract is to take effect. The notice has no effect if the notice period is less than the minimum notice period unless one of the following applies:
+⦁The contract is terminated due to —
+⦁a material breach of the contract; or
+⦁the serious and wilful misconduct of the owner-driver; or
+⦁exceptional circumstances beyond the control of the terminating party that were not reasonably foreseeable at the time of entering into the contract.
+⦁The hirer terminates the contract immediately by paying the owner-driver the total amount that would be payable under the contract in respect of the minimum notice period, less 25%.
+⦁The hirer terminates the contract and gives a period of notice that is less than the minimum notice period and pays the owner-driver both —
+⦁the amount payable for work performed by the owner-driver during the notice period; and
+⦁the amount that would be payable under the contract in respect of the balance of the minimum notice period, less 25%.
 ‘If paid/when paid’ Banned
 The Act bans use of ‘If paid/when paid’ conditions in owner-driver contracts. If an owner-driver contract includes such a condition, that condition will have no effect.
 Penalty Cannot be Imposed
@@ -82,8 +97,25 @@ The Act prohibits hirers and owner-drivers from engaging in unconscionable condu
 ·Any use of undue influence, pressure or unfair tactics.
 ·Whether all relevant information was provided.
 ·Whether the parties acted in good faith and were willing to negotiate (rather than having a ‘take it or leave it’ approach).
+⦁Whether any term of the owner-driver contract is an unfair term, including the following —
+⦁whether the term causes a significant imbalance in the parties’ rights and obligations arising under the contract;
+⦁whether the term is reasonably necessary in order to protect the legitimate interests of a party;
+⦁whether the term would cause significant detriment (financial or otherwise) to a party if it were to be applied or relied on;
+⦁whether the term provides for the payment by the hirer to the owner-driver of the guideline rate.
 The matters listed in the Act are not exhaustive and the Tribunal will consider all the circumstances of a case when determining whether a hirer or owner-driver has engaged in unconscionable conduct. Where an owner-driver, group of owner-drivers or hirer is represented by a negotiating agent, the prohibition against unconscionable conduct will also apply to the negotiating agent.
 If an owner-driver or hirer believes that someone has engaged in unconscionable conduct towards them and has not been able to resolve the situation, they can refer the matter to the Tribunal.
+Misleading or Deceptive Conduct Banned
+The Act prohibits hirers and owner-drivers from engaging in conduct that is misleading or deceptive, or is likely to mislead or deceive, during the negotiation of owner-driver contracts.
+Discrimination Banned
+The Act prohibits a hirer from causing detriment to an owner-driver for the reasons set out in the Act. The reasons include:
+⦁The owner-driver has claimed, or proposes to claim, a benefit or exercised, or proposes to exercise, a power or right that the owner-driver or a person associated with the owner-driver is entitled to claim or exercise under the Act or the Code of Conduct.
+⦁The owner-driver has brought, or proposes to bring, or has otherwise participated in, a proceeding under the Act.
+⦁The owner-driver has informed, or proposes to inform, any person of an alleged contravention of this Act, the Code of Conduct or an order of the Tribunal under the Act.
+⦁The owner-driver has participated, or proposes to participate, in joint negotiations relating to owner-driver contracts or the engagement of an owner-driver.
+⦁The owner-driver has raised, or proposes to raise, issues of health and safety in relation to the performance of services under an owner-driver contract.
+⦁The owner-driver has sought, or proposes to seek, to —
+⦁negotiate a proposed owner-driver contract; or
+⦁renegotiate an existing owner-driver contract.
 Disclaimer: This information has been prepared as a guide only. None of the information in this form is intended to constitute advice, whether legal, financial or professional. Before you act on the information in this form, you should first get specific independent advice about your particular circumstances. You should not act solely on the basis of the information in this form.
 This form provides a brief overview of some of the changes affecting rights and obligations. For further details and a range of other information for owner-drivers go to the Department of Transport’s website.
-[Appendix 1 amended: Gazette 2 Oct 2018 p. 3803-4.]
+[Appendix 1 amended: Gazette 2 Oct 2018 p. 3803-4; SL 2023/29 r. 14(2)-(6).]
