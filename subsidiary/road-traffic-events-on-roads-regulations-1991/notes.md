@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Events on Roads) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic (Events on Roads) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Events on Roads) Regulations 1991 | 1 Feb 1991 p. 549-54 | 1 Feb 1991 (see r. 2 and Gazette 1 Feb 1991 p. 511)
@@ -25,3 +25,7 @@ Road Traffic (Events on Roads) Amendment Regulations 2019 | 21 Jun 2019 p. 2151 
 Road Traffic (Events on Roads) Amendment Regulations 2020 | SL 2020/85 23 Jun 2020 | r. 1 and 2: 23 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
 Road Traffic (Events on Roads) Amendment Regulations 2021 | SL 2021/109 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Road Traffic (Events on Roads) Amendment Regulations 2022 | SL 2022/165 7 Oct 2022 | r. 1 and 2: 7 Oct 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Oct 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Traffic (Events on Roads) Amendment Regulations 2023 r. 3 and 4 | SL 2023/59 2 Jun 2023 | 1 Jul 2023 (see r. 2(b))
