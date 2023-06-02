@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rottnest Island Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Rottnest Island Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Rottnest Island Regulations 1988 | 30 May 1988 p. 1825-46 | 30 May 1988 (see r. 2 and Gazette 30 May 1988 p. 1823)
@@ -54,6 +54,10 @@ Rottnest Island Amendment Regulations 2019 | 9 Aug 2019 p. 3026-7 | r. 1 and 2: 
 Rottnest Island Amendment Regulations 2020 | SL 2020/118 17 Jul 2020 | r. 1 and 2: 17 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2020 (see r. 2(b))
 Rottnest Island Amendment Regulations 2021 | SL 2021/107 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Rottnest Island Amendment Regulations 2022 | SL 2022/124 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Rottnest Island Amendment Regulations 2023 r. 3-5 | SL 2023/60 2 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
