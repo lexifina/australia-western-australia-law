@@ -19,6 +19,7 @@ Mental Health Amendment Regulations 2021 | SL 2021/180 5 Nov 2021 | r. 1 and 2: 
 Mental Health Amendment Regulations 2022 | SL 2022/200 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Mental Health Amendment Regulations (No. 2) 2022 | SL 2022/215 23 Dec 2022 | r. 1 and 2: 23 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2022 (see r. 2(b))
 Mental Health Amendment Regulations 2023 | SL 2023/23 24 Mar 2023 | r. 1 and 2: 24 Mar 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2023 (see r. 2(b))
+Mental Health Amendment Regulations (No. 2) 2023 | SL 2023/56 2 Jun 2023 | r. 1 and 2: 2 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jun 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
