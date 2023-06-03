@@ -13,14 +13,15 @@ Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 
 Swan and Canning Rivers Management Amendment Regulations 2020 | SL 2020/186 29 Sep 2020 | r. 1 and 2: 29 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2020 (see r. 2(b))
 Swan and Canning Rivers Management Amendment Regulations 2021 | SL 2021/131 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Swan and Canning Rivers Management Amendment Regulations 2023 | SL 2023/14 24 Feb 2023 | r. 1 and 2: 24 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2023 (see r. 2(b))
+Swan and Canning Rivers Management Amendment Regulations (No. 2) 2023 | SL 2023/63 2 Jun 2023 | r. 1 and 2: 2 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jun 2023 (see r. 2(b) and SL 2023/62 cl. 2)
 Other notes
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 The regulation in these regulations repealing the Swan River Trust Regulations 1989 was omitted under the Reprints Act 1984 s. 7(4)(f).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-aircraft16A(1)
-aircraft activity16A(1)
+aircraft2
+aircraft activity2
 commercial purpose2
 commercial use2
 commercial vessel24(1)
@@ -28,6 +29,7 @@ Department courtesy mooring24(1)
 emergency works, acts or activities11(1)
 exhibit2
 fire hazard reduction15(1)
+interim suspension notice35(2)
 in writing27(1)
 leaseholder2
 length24(1)
@@ -39,6 +41,7 @@ park10(1)
 permit2
 permitted launching place22(1)
 private property2
+proposed action34(1)
 public place2
 repairs to or maintenance of10(1)
 section2

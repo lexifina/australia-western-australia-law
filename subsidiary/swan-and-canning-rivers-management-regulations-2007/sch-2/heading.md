@@ -4,91 +4,65 @@ Form 1
 Swan and Canning Rivers Management Act 2006
 Section 72
 APPLICATION FOR APPROVAL OF DEVELOPMENT
-1.Applicant — the applicant is required to sign the form at item 8
-The applicant is the person with whom the Chief Executive Officer will correspond, unless an authorised agent has been appointed to act on behalf of the applicant, in which case correspondence will be sent direct to the agent.
-Name of Applicant
-Name of Company (if applicable)
+1. Applicant details
+The applicant is the person with whom the department, on behalf of the Chief Executive Officer, will correspond, unless an authorised agent has been appointed to act on behalf of the applicant, in which case correspondence will be sent direct to the agent.
+Name
+Position (if applicable)
+Organisation (if applicable)
 Contact person
 Postal address
 Town/Suburb |  | State |  | Postcode
-Telephone | Work |  | Home |  | Mobile
-Facsimile
+Telephone | Work |  | Mobile
 Email
-2.Landowner(s) — landowners are required to sign the form at item 8
-All owner(s) of the land must sign this application. Where land is owned by the Crown, or has a management order granted to a local government or other agency, this application must be signed by the relevant landowner as required under section 72(5)(a) of the Act. If there are more than 2 landowners, please provide the additional information on a separate page.
-Details of 1st landowner
-Full name
-Company/agency (if applicable)
-Position & ACN/ABN (if applicable) | Position |  | ACN/ABN No.
+I give authority for an agent (as identified at item No. 3) to act on my behalf during the assessment of the application. If ‘YES’, please provide Agent’s details at item No. 3. | £ YES | £ NO
+Applicant signature |  | Date
+2. Landowner details
+All owner(s) of the land must sign this application. Where land is owned by the Crown, or has a management order granted to a local government or other agency, this application must be signed by the relevant landowner or management body as required under section 72(5)(a) of the Act. If there are more than 2 landowners, please provide the additional information and signature(s) on a separate page.
+Details of first landowner
+Name
+Position (if applicable)
+Organisation (if applicable)
+Contact person
 Postal address
-Town/Suburb |  | State |  | Postcode
-Details of 2nd landowner (if applicable)
-Full name
-Company/agency (if applicable)
-Position & ACN/ABN (if applicable) | Position |  | ACN/ABN No.
+Town/suburb |  | State |  | Postcode
+I consent to this application being made.
+First landowner signature |  | Date
+Details of second landowner (if applicable)
+Name
+Position (if applicable)
+Organisation (if applicable)
+Contact person
 Postal address
-Town/Suburb |  | State |  | Postcode
-3.Appointment of an authorised agent — authorised agent is required to sign the form at item 8
-Where the applicant has appointed an authorised agent to act on their behalf, the authorised agent must attach the written authority to this application.
-Have you appointed an authorised agent to act on your behalf?YES
-NO
+Town/suburb |  | State |  | Postcode
+I consent to this application being made.
+Second landowner signature |  | Date
+3. Authorised agent details (if applicable)
+The applicant must sign the form and tick the authorisation under item No. 1 to provide authority for an appointed authorised agent to act on their behalf.
 Details of authorised agent
-Full name
+Name
+Position (if applicable)
 Company/agency (if applicable)
-Position in company/agency (if applicable)
-ACN/ABN (if applicable) /Telephone | ACN/ABN: | Work |  | Mobile
+ACN/ABN (if applicable)
 Postal address
-Town/Suburb |  | State |  | Postcode
-4.Certificate(s) of title information
-Certificate of Title | Volume |  | Folio
-Diagram/Plan/ Deposit Plan No.
-Lot No. and location of subject lot | Lot No. (whole/part)
+Town/suburb |  | State |  | Postcode
+Telephone | Work |  | Mobile
+Email
+Authorised agent signature |  | Date
+4. Location of proposed development
+Certificate of title information | Volume |  | Folio
+Diagram/plan/deposit plan no.
+Lot No.(s)
 Location
-Reserve No. (if applicable)
-Street No. and name
-Town/Suburb
+Reserve No.(s) (if applicable)
+Street No.(s) and name
+Town/suburb
 Nearest road intersection
-5.River reserve lease (Swan and Canning Rivers Management Act 2006 section 29)
-If you intend to apply for a lease in relation to this proposed development, you will need to complete a separate form – Application for a River reserve lease – and lodge it concurrently with this application. Note: River reserve leases will not be granted for developments requiring approval under section 70 of the Act – to which the proposed lease relates – unless that approval has been granted.
-Does the development require a River reserve lease?YES
-NO
-If the development requires a River reserve lease, please tick the appropriate box below.
-New lease
-Renewal of a lease
-Modification of an existing lease (i.e. change in area or purpose etc.)
-6.River reserve licence (Swan and Canning Rivers Management Act 2006 section 32)
-If you intend to apply for a licence in relation to this proposed development, you will need to complete a separate form – Application for a River reserve licence – and lodge it concurrently with this application, e.g. charter vessel operation, kayak, canoe tours, etc. Refer to the Licence Application Guidelines on how to apply for a River reserve licence.
-Does the proposed development involve an activity in the River reserve that will require a River reserve licence? | YES
-NO
-If the development requires a River reserve licence, please tick the appropriate box below.
-New licence
-Renewal of a licence
-Modification of an existing licence (i.e. change in area, purpose, etc.)
-7.Details of proposed development
+5. Details of proposed development
 Please provide a written description of the proposed development (refer to the Development Application Guidelines for further details on what information to include in this section).
 Estimated cost of development | $
-Current use of land | Please describe below what the land is currently used for. _______________________________________________ _______________________________________________ _______________________________________________
-Proposed development | Please provide a detailed written description below of the proposed use and development. If there is insufficient space, please provide the required information as an attachment to this application form. _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________
-8.Signatures
-Signed by applicant
-Applicant signature
-Date
-Print name and position (if signing on behalf of a company or agency) | Name
-Position
-Signed by landowner/s (if the landowner is not the applicant)
-I consent to this application being made.
-Landowner signature
-Landowner signature
-Date
-Print name and position (if signing on behalf of a company or agency) | Name
-Position
-Signed by authorised agent (if you are acting for the applicant)
-I have attached a copy of the written authorisation for me to act on behalf of the applicant to this application.
-Authorised agent signature
-Date
-Print name and position (if signing on behalf of a company or agency) | Name
-Position
-[Form 1 amended: Gazette 19 Jun 2015 p. 2099.]
+Current use of land | Please describe below how the land is currently used.
+Proposed development | Please provide a summary of the proposed use and development. Additional detail should be provided as an attachment to this application form.
+[Form 1 inserted: SL 2023/63 r. 10.]
 Form 2
 Swan and Canning Rivers Management Act 2006
 Section 89(4)

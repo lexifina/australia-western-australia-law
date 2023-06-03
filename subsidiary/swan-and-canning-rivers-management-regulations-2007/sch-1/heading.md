@@ -9,7 +9,7 @@ r. 13(2) | Placing or removing temporary structure without permit | $200
 r. 14A(2) | Leaseholder undertaking works without permit | $200
 r. 14(2) | Schedule 5 authority undertaking works without permit | $200
 r. 15(2) | Undertaking fire hazard reduction without permit | $200
-r. 16A | Undertaking aircraft activity without licence or permit | $200
+r. 16A | Undertaking aircraft activity without permit | $200
 r. 16B | Undertaking maintenance dredging without permit | $200
 r. 16C | Undertaking scientific studies without permit | $200
 r. 17(1) | Undertaking activity for commercial purpose without permit | $200
@@ -27,4 +27,4 @@ r. 25(2) | Littering Riverpark | $200
 r. 25(3) | Breaking glass, metal or earthenware in Riverpark | $200
 r. 26(2) | Organising or holding spectator event in River reserve without permit | $200
 r. 31(3) | Contravening condition or restriction imposed on permit | $200
-[Schedule 1 amended: Gazette 28 Aug 2012 p. 4139-40; 19 Jun 2015 p. 2099; SL 2023/14 r. 11.]
+[Schedule 1 amended: Gazette 28 Aug 2012 p. 4139-40; 19 Jun 2015 p. 2099; SL 2023/14 r. 11; SL 2023/63 r. 9.]
