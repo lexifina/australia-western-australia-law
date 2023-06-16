@@ -109,6 +109,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Firearms Amendment Regulations (No. 2) 2023 r. 3-7 | SL 2023/46 19 May 2023 | 1 Jul 2023 (see r. 2(b))
+Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/74 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
