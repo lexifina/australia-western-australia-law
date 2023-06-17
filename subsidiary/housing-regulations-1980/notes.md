@@ -23,6 +23,7 @@ Housing Amendment Regulations 2018 | 12 Jun 2018 p. 1896-7 | r. 1 and 2: 12 Jun 
 Housing Amendment Regulations 2019 | 31 Dec 2019 p. 4647-8 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Housing Amendment Regulations 2021 | SL 2021/73 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Housing Amendment Regulations 2022 | SL 2022/151 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
+Housing Amendment Regulations 2023 | SL 2023/73 16 Jun 2023 | r. 1 and 2: 16 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2023 (see r. 2(b))
 Other notes
 Repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998.
 Defined terms
