@@ -56,6 +56,7 @@ Attorney General Regulations Amendment (Work Health and Safety) Regulations 2022
 Criminal Procedure Amendment Regulations (No. 2) 2022 | SL 2022/126 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 3) 2022 | SL 2022/127 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Electronic Processes) Regulations 2023 Pt. 3 | SL 2023/19 14 Mar 2023 | 15 Mar 2023 (see r. 2(b))
+Justice Regulations Amendment (Major Events) Regulations 2023 Pt. 2 | SL 2023/69 16 Jun 2023 | 17 Jun 2023 (see r. 2(b))
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
