@@ -20,8 +20,13 @@ Education and Care Services National Amendment Regulations (No. 2) 2021 | SL 202
 Education and Care Services National Amendment Regulations (No. 3) 2021 | SL 2021/220 24 Dec 2021 | r. 1 and 2: 24 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2022 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2022 | SL 2022/139 29 Jul 2022 | r. 1 and 2: 29 Jul 2022 (see r. 2(a)); r. 3 and 4: 1 Sep 2022 (see r. 2(b)); Regulations other than r. 1-4: 1 Mar 2023 (see r. 2(c))
 Education and Care Services National Amendment Regulations 2023 | SL 2023/15 24 Feb 2023 | r. 1 and 2: 24 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2023 (see r. 2(b))
+Education and Care Services National Amendment Regulations (No. 3) 2023 (other than Pt. 3) | SL 2023/71 16 Jun 2023 | Pt. 1: 16 Jun 2023 (see r. 2(a)); Pt. 2: 17 Jun 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Education and Care Services National Amendment Regulations (No. 3) 2023 Pt. 3 | SL 2023/71 16 Jun 2023 | 1 Jul 2023 (see r. 2(c))
 Other notes
-The short title of this Act was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
+The short title of the Administrative Decisions Tribunal Act 1997 was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -36,7 +41,7 @@ approved number of places4(1)
 ARIA+ score239A(5)
 authorised emergency contact4(1)
 Authorised nominee160(3)
-bankruptcy declaration4(1)
+bankruptcy declaration4
 building law4(1)
 building permit4(1)
 building practitioner4(1)
@@ -44,7 +49,7 @@ centre-based service4(1)
 certificate of final inspection4(1)
 child over preschool age4(1)
 child preschool age or under4(1)
-commencement day395(1)
+commencement day232, 395(1)
 criminal history record check4(1)
 criminal history statement4(1)
 diagnosed as at risk of anaphylaxis4(1)
@@ -54,18 +59,22 @@ early childhood teacher4(1)
 educational program4(1), 73(1)
 emergency4(1), 123(1A)
 excursion4(1)
-family assistance law4(1)
+extra-large service232
+family assistance law3(1)
 family day care educator assistant4(1)
 financial declaration4(1)
 hazardous water feature373B
 in attendance4(1), 11
-index number235(3)
+indexation factor232
+index number233(1)
 infectious disease4(1)
 initial entity216
 kindergarten programme368
+large service232
 medication4(1)
+medium service232
 monetary order384(2)
-most recent March year235(3)
+most recent March year233(1)
 occupancy permit4(1)
 overseas criminal history statement4(1)
 parenting order160(4)
@@ -78,20 +87,20 @@ pre-primary programme368
 preschool368
 preschool program4(1)
 prescribed regulation256(3), 257(5)
-previous March year235(3)
+previous March year233(1)
 previous service statement4(1)
 provided by a school368
 public office214
 qualified educator370(3)
-quarter235(3)
+quarter233(1)
 recognised estray provisions216
 registered medical practitioner4(1)
 regular outing4(1)
 regular transportation4(1)
 relevant administrative tribunal210
 relevant day399(3)
+relevant financial year236C(2), 236D(4), 236E(3), 236F(2), 236G(2), 236H, 236I, 236J, 236K(3), 236L(3), 236M(1) and (2), 236O(2), 236P
 relevant regulation242(3)
-relevant year235(2)
 remote area239A(5)
 renovate4(1)
 responsible person4(1)
@@ -100,6 +109,7 @@ scheme commencement day4(1)
 school368
 secondary programme368
 serious incident4(1), 12
+small service232
 soil assessment4(1)
 State collecting institution216
 suitably qualified person4(1)
