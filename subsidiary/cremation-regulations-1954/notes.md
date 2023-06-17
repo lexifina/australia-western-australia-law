@@ -34,6 +34,7 @@ Health Regulations Amendment (Public Health Consequential Amendments) Regulation
 Cremation Amendment Regulations 2018 | 6 Apr 2018 p. 1211-12 | r. 1 and 2: 6 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Apr 2018 (see r. 2(b))
 Cremation Amendment Regulations 2019 | 2 Jul 2019 p. 2645-7 | r. 1 and 2: 2 Jul 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2019 (see r. 2(b))
 Cremation Amendment Regulations 2021 | SL 2021/46 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2021 (see r. 2(b))
+Cremation Amendment Regulations 2023 | SL 2023/68 16 Jun 2023 | r. 1 and 2: 16 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2023 (see r. 2(b))
 Other notes
 Repealed by the Cemeteries Act 1986.
 Repealed by the Associations Incorporation Act 1987.

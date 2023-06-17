@@ -4,6 +4,6 @@
 1. | For a licence to use and conduct a crematorium | $15.00
 2. | For a certificate of the Chief Health Officer to validate and give effect to a licence (including inspections) | $5.00
 3. | For a permit to cremate —
- | (a)given between 9 am and 5 pm Monday to Friday, or between 9 am and noon Saturday, excluding public holidays | $72.60
- | (b)given at any other time | $118.80
-[Schedule 2 inserted: Gazette 2 Jul 2019 p. 2645-6; amended: SL 2021/46 r. 4.]
+ | (a)given between 9 am and 5 pm Monday to Friday, or between 9 am and noon Saturday, excluding public holidays | $75.90
+ | (b)given at any other time | $125.40
+[Schedule 2 inserted: Gazette 2 Jul 2019 p. 2645-6; amended: SL 2021/46 r. 4; SL 2023/68 r. 4.]
