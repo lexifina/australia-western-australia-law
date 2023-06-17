@@ -18,8 +18,7 @@ Public Transport Authority Amendment Regulations 2018 | 6 Jul 2018 p. 2549-50 | 
 Public Transport Authority Amendment Regulations 2019 | 19 Feb 2019 p. 335 | r. 1 and 2: 19 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2019 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2020 | SL 2020/183 29 Sep 2020 | r. 1 and 2: 29 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2020 (see r. 2(b))
 Public Transport Authority Amendment Regulations (No. 2) 2022 | SL 2022/192 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
-Other notes
-Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006 s. 126.
+Public Transport Authority Amendment Regulations 2023 | SL 2023/75 16 Jun 2023 | r. 1 and 2: 16 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -43,6 +42,8 @@ park24
 parking24
 parking space24
 passenger capacity41(2)
+payment application3
+payment device3
 peak flow direction33A
 peak time33A
 secured parking facility24
