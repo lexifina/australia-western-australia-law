@@ -29,10 +29,11 @@ Electricity Industry Exemption Amendment Order (No. 2) 2020 | SL 2020/180 25 Sep
 Electricity Industry Exemption Amendment Order 2021 | SL 2021/67 4 Jun 2021 | cl. 1 and 2: 4 Jun 2021 (see cl. 2(a)); Order other than cl. 1 and 2: 5 Jun 2021 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2022 | SL 2022/44 25 Mar 2022 | cl. 1 and 2: 25 Mar 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 26 Mar 2022 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 2) 2022 | SL 2022/171 21 Oct 2022 | cl. 1 and 2: 21 Oct 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 22 Oct 2022 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order 2023 | SL 2023/80 20 Jun 2023 | cl. 1 and 2: 20 Jun 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 21 Jun 2023 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Aboriginal community7(1)
+Aboriginal community3A
 Aboriginal community premises7(1)
 appropriately qualified medical practitioner6A(1)
 Blair Fox20(1)
@@ -40,40 +41,35 @@ code provision11(1)
 commencement day6A(1)
 connection point3(1)
 contact details6A(1)
-CSBP22(1)
+CSBP23(1)
 DBNGP corridor12(1)
 DBNGP Transmission12(1)
 Eastern Metropolitan Regional Council25(1)
 electricity reticulation system6(1)
 electric vehicle19(1)
-EMR Golden Grove21(1)
 Eucla15(1)
 exempt supplier6(1), 6A(1)
 FMG entity30(1)
 Fremantle Port Authority14(1)
-generation capacity24(1)
 Hazelmere25(1)
 internet network26(1)
 Karakin Wind Farm20(1)
-Kwinana site23(1), 24(1)
-Kwinana WTE Project24(1)
+Kwinana site23(1)
 life support equipment6A(1)
-Minjar Gold21(1)
 Mt Wongama communications facility27(1)
 non-residential property3A
 occupier6(1)
 PEP Agreement8(1)
-Perth Airport25
+Perth Airport25(1)
 Perth Airport Pty Ltd25(1)
 Pilbara Energy Company28(1)
 Pilbara Energy Connection3A
-Power Rental Op Co Australia22(1)
 property3A
 registered property6A(1)
+relevant Aboriginal community premises7A(1)
 relevant agreement10(1)
 residential property3A
 retailer6A(1)
-South Hedland Power Station site22(1)
 supplier4A(1) and (2), 4B
 supply address6A(1)
 SWIS3A

@@ -3,3 +3,4 @@
 [Heading inserted: Gazette 9 Oct 2009 p. 3994.]
 EDL NGD (WA) — HV Cabling Route
 [Schedule 1 inserted: Gazette 9 Oct 2009 p. 3994.]
+[Schedule 2 deleted: SL 2023/80 cl. 11.]
