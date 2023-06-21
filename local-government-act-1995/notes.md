@@ -73,7 +73,7 @@ Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 6 | 36 of 2020 | 10 Nov 20
 Swan Valley Planning Act 2020 Pt. 10 Div. 7 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 s. 95 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 3 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
-Local Government Amendment Act 2023 Pt. 2 (but only s. 3, 60, 86, 87 and 89) | 11 of 2023 | 18 May 2023 | 19 May 2023 (see s. 2(b))
+Local Government Amendment Act 2023 Pt. 2 (but only s. 3, 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24, 60, 86, 87, 89 and 99) | 11 of 2023 | 18 May 2023 | s. 3, 60, 86, 87 and 99: 19 May 2023 (see s. 2(b)); s. 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24 and 89: 21 Jun 2023 (see s. 2(d) and SL 2023/77 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -81,7 +81,7 @@ Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 (as 
 Local Government Legislation Amendment Act 2019 s. 39(2) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 Apr 2020 | To be proclaimed (see s. 2(b))
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 6 | 21 of 2022 | 24 Jun 2022 | To be proclaimed (see s. 2(b))
-Local Government Amendment Act 2023 s. 4-59, 61-85 and 88-98 | 11 of 2023 | 18 May 2023 | To be proclaimed (see s. 2(d))
+Local Government Amendment Act 2023 s. 4, 5(1) and (3), 6, 12, 17, 18, 19(4), 20-23, 25-59, 61-85, 88 and 90-98 | 11 of 2023 | 18 May 2023 | To be proclaimed (see s. 2(d))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
@@ -287,7 +287,7 @@ Advisory Board1.4
 affected electorsSch. 2.1 cl. 1, Sch. 2.2 cl. 1
 affected local governmentSch. 2.1 cl. 1
 affected person9.2
-agreement7.8, 7.13(1)
+agreement7.13(1)(a)
 alleged offender3.38
 amending ActSch. 9.3 cl. 14A(1), 42 and 45
 amending provisionSch. 9.3 cl. 44
@@ -301,9 +301,9 @@ arrangement5.49(1)
 audit7.1
 audit committee7.1
 audit contract7.1, Sch. 9.3 cl. 49
-audit report7.1
 auditor1.4
 Auditor General Act7.1
+audit report7.1
 authorisation9.2
 authorised employee9.31
 authorised land officer9.69(1)
@@ -311,15 +311,15 @@ authorised person8.1, 8.35(3), 9.10(5), 9.13(1), 9.15
 Authority9.69(1)
 breach5.102A
 budget deficiency6.1
-campaign period5.123(3)
 candidate5.102A
 candidate A4.81(4), Sch. 2.3 cl. 12(4)
-candidate B 4.81(4), Sch. 2.3 cl. 12(4)
+candidate B4.81(4), Sch. 2.3 cl. 12(4)
 CEO1.4
 certified copy9.31
+change order2.18A(1)
 close of enrolments4.39(1)
 close of nominations4.49(a)
-commencement day7.1, 56(1), Sch. 9.3 cl. 1, 49 and 56(1)
+commencement day7.1, Sch. 9.3 cl. 1, 49 and 56(1)
 commissioner1.4
 committee5.1
 committee meeting5.98(7)
@@ -329,9 +329,9 @@ continuing authoritySch. 9.3 cl. 1
 contravention that can lead to impounding3.38
 corporation5.74(1)
 council1.4
-council proceedings9.57A
 councillor1.4
 councillor mayor or president1.4
+council proceedings9.57A(1)
 court3.26(5)
 COVID emergency declaration10.1
 Crown lands1.4
@@ -356,8 +356,8 @@ district1.4
 districtsSch. 2.1 cl. 8(1)
 disused materialSch. 3.1 Div. 1
 early vote4.67(b)
-election4.1, 4.36(2), Sch. 2.3 cl. 10, Sch. 9.3 cl. 59(1)
-election day4.1 Sch. 9.3 cl. 59(1)
+election2.16A, 4.1, 4.36(2), Sch. 2.3 cl. 10, Sch. 9.3 cl. 59(1)
+election day2.16A, 4.1, Sch. 9.3 cl. 59(1)
 election notice4.1, 4.64(2)
 election year1.4
 elector1.4
@@ -369,8 +369,8 @@ electoral material4.87(3)
 electoral officer4.1
 electoral requirements1.4, 4.1
 electoral roll4.1
-elector mayor or president1.4
 electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)(a)
+elector mayor or president1.4
 electors5.26
 eligible body5.49(1)
 emergency9.63A(1)
@@ -397,9 +397,10 @@ FY17/18 auditSch. 9.3 cl. 51(1)
 FY19/20 auditSch. 9.3 cl. 52(1)
 general funds6.21(4)
 general rate6.1
-gift5.57, 5.82(4)
+gift5.57
 goods3.38
 Government agreement6.25
+Government Statistician2.16B(8)
 gross rental value6.25
 inaugural election1.4, 4.2(2)
 income5.80(4)
@@ -407,7 +408,7 @@ indictable penalty2.22(3)
 inquiry8.1
 Inquiry Panel1.4
 interest5.79(3), 5.84(2)
-interest relating to a gift5.57
+interest relating to a gift5.59
 interim valuation6.25
 invalidity complaint4.80(2), Sch. 2.3 cl. 11(2)
 judicial proceedings9.69(1)
@@ -424,7 +425,7 @@ long service benefit5.48(1)
 major land transaction3.59(1)
 major trading undertaking3.59(1)
 making3.12(8)
-matter9.57A
+matter9.57A(1)
 meeting minutes9.37(2)
 member1.4, 5.59, Sch. 2.5 cl. 1, Sch. 5.1 cl. 1
 member of a parliament2.20(2)
@@ -436,18 +437,18 @@ model standards5.39B(1)
 municipal fund1.4
 new ordinary election day provisionsSch. 9.3 cl. 14A(1)
 new valuationSch. 6.1 cl. 1(2)
-nomination place4.47(2)(b)
+nomination place4.47(2)
 non-perishable goods3.38
 noticeSch. 2.1 cl. 1, Sch. 9.3 cl. 51(3)
 notice recipient3.26(2)
 occupier1.4
 offence2.22(3)
 officeSch. 2.3 cl. 1 and 6
-official plan9.48(2)
 officially certified9.48(2)
+official plan9.48(2)
 on which the order is based8.15D
 ordinary election1.4, 4.4(2)
-ordinary election daySch. 9.3 cl. 59(1)
+ordinary election day2.16A, Sch. 9.3 cl. 59(1)
 ordinary elections day1.4
 original order8.15G(1)
 original valuationsSch. 6.1 cl. 2(2)
@@ -462,6 +463,7 @@ party5.102A
 performance audit7.1
 person having an interest3.51(1)
 polling place4.1
+population2.16A
 postal election4.61(1)
 power of sale6.68(1)
 power to borrow6.20(2)
@@ -473,7 +475,7 @@ primary return5.74(1)
 primary standards panel5.102A, 5.122(1)
 print4.87(3), 4.88(4)
 private landSch. 9.1 cl. 7(1)
-private thoroughfareSch. 3.1 Div. 3, Sch. 9.1 cl. 7(1)
+private thoroughfareSch. 3.1 Div. 1, Sch. 9.1 cl. 7(1)
 proceedings9.29(1)
 property3.58(1)
 proposalSch. 2.1 cl. 1
@@ -486,13 +488,13 @@ rate record6.25
 recurrent breach5.102A
 regional local government1.4
 regional purpose3.62(2)
-regional subsidiary1.4
+regional subsidiary1.4, 3.69(1)
 registered company auditor7.1
 regulations7.1
 reinstatement8.15D
 relative5.74(1)
 relevant district2.45(2)
-relevant gift5.71B(1)
+relevant gift 5.71B(1)
 relevant interest6.29(1)
 relevant officialSch. 2.1 cl. 12(1)
 relevant period4.88(4)
@@ -525,7 +527,7 @@ trading undertaking3.59(1)
 transitional matterSch. 9.3 cl. 54(1) and 62(1)
 transitional orderSch. 9.3 cl. 59(2)
 transitional timeSch. 9.3 cl. 58(1)
-travel5.57, 5.83(4)
+travel5.57
 travel contribution5.57
 trust fund6.1
 unimproved value6.25
