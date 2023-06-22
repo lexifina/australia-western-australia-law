@@ -33,6 +33,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 2 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Now known as the Western Australian Mint Act 1970, which is repealed by this Act.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
