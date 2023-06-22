@@ -31,6 +31,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 10 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Public Sector Management Act 1994 s. 99 deleted by the Public Sector Reform Act 2010 s. 57.
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
