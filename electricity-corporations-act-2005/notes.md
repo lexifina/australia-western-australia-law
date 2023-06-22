@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Corporations Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Electricity Corporations Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Corporations Act 2005 | 18 of 2005 | 13 Oct 2005 | Pt. 1, s. 141, 142, 144-152, 153(1) and 179: 13 Oct 2005 (see s. 2(1)); Pt. 2-8, s. 143, 153(2)-(4), 154-178, 180-192, Sch. 1-4 and Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153); Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
@@ -19,6 +19,10 @@ Reprint 3: The Electricity Corporations Act 2005 as at 7 Jun 2019 (includes amen
 Electricity Industry Amendment Act 2020 s. 30 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 4 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Swan Valley Planning Act 2020 Pt. 10 Div. 2 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Government Trading Enterprises Act 2023 Pt. 12 Div. 1 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Deleted by the Public Sector Reform Act 2010 s. 57.
 Deleted by the Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 r. 5 and 6.
