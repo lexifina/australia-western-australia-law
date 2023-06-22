@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Treasury Corporation Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Western Australian Treasury Corporation Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Treasury Corporation Act 1986 | 16 of 1986 | 25 Jul 1986 | 1 Jul 1986 (see s. 2)
@@ -9,7 +9,7 @@ Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 A
 Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Western Australian Treasury Corporation Amendment Act 1998 s. 1-25 4-6 | 25 of 1998 | 30 Jun 1998 | s. 1 and 2: 30 Jun 1998; Act other than s. 1 and 2: 10 Nov 1998 (see s. 2 and Gazette 10 Nov 1998 p. 6149)
+Western Australian Treasury Corporation Amendment Act 1998 s. 1-25 3-5 | 25 of 1998 | 30 Jun 1998 | s. 1 and 2: 30 Jun 1998; Act other than s. 1 and 2: 10 Nov 1998 (see s. 2 and Gazette 10 Nov 1998 p. 6149)
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 111 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 47 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Reprint of the Western Australian Treasury Corporation Act 1986 as at 5 Jan 2001 (includes amendments listed above)
@@ -23,12 +23,17 @@ Reprint 2: The Western Australian Treasury Corporation Act 1986 as at 2 Sep 2005
 Housing Societies Repeal Act 2005 s. 31 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 11 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 16 and Sch. 1 cl. 186 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
- | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 138 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
- | Reprint 3: The Western Australian Treasury Corporation Act 1986 as at 7 May 2010 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 31)
- | Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 518: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
- | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
- | Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
- | Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 8 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 138 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Reprint 3: The Western Australian Treasury Corporation Act 1986 as at 7 May 2010 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 31)
+Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 518: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 8 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Government Trading Enterprises Act 2023 Pt. 12 Div. 11 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
+Other notes
 The Western Australian Treasury Corporation Amendment Act 1992 s. 7(4) reads as follows:
 (4) Any agreement or arrangement entered into, or transaction effected, before the commencement of this section which would have been lawful and valid had —
 (a) section 10(2)(fa) and (fb) of the principal Act as inserted by subsection (1); and
