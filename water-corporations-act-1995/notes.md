@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Corporations Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Corporations Act 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Corporation Act 1995 | 70 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -29,6 +29,11 @@ Water Services Legislation Amendment and Repeal Act 2012 Pt. 7 | 25 of 2012 | 3 
 Reprint 4: The Water Corporations Act 1995 as at 7 Feb 2014 (includes amendments listed above)
 Associations Incorporation Act 2015 s. 231 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 6 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Government Trading Enterprises Act 2023 Pt. 12 Div. 9 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
+Other notes
 Now known as the Plumbers Licensing Act 1995.
 Now known as the Water Corporations Act 1995; short title changed (see note under s. 1).
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 4 is a validation provision.
