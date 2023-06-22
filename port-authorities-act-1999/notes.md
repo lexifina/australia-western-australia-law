@@ -30,6 +30,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Ports Legislation Amendment Act 2019 s. 50(1) and (2)(a)-(c) and (e) | 2 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(e))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 5 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
