@@ -24,6 +24,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 Pt. 9 Div. 3 and 4 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 6 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The amendment in the State Superannuation Amendment Act 2007 s. 86 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment commenced.
 Defined terms
