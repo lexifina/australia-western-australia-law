@@ -8,6 +8,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Aboriginal Cultural Heritage Amendment Regulations (No. 2) 2023 r. 3-7 | SL 2023/41 19 May 2023 | 1 Jul 2023 (see r. 2(b))
+Aboriginal Cultural Heritage Amendment Regulations (No. 3) 2023 r. 3-5 | SL 2023/82 23 Jun 2023 | Immediately after the Aboriginal Cultural Heritage Amendment Regulations (No. 2) 2023 r. 6 comes into operation (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
