@@ -62,6 +62,7 @@ Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 4 | 
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 23 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 3 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
+Young Offenders Amendment Act 2023 | 15 of 2023 | 26 Jun 2023 | s. 1 and 2: 26 Jun 2023 (see s. 2(a)); Act other than s. 1 and 2: 27 Jun 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -120,7 +121,7 @@ CEO (child welfare)15A(2)
 chairperson3(1)
 Chief Commissioner11CA
 chief executive officer3(1)
-commencement day11CV(1)
+commencement day11CV(1), 235A
 Commissioner of Police report3(1)
 Commonwealth Criminal Code3(1)
 community work conditions3(1)
