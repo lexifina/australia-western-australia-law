@@ -63,10 +63,12 @@ Reprint 8: The Misuse of Drugs Act 1981 as at 19 Jul 2019 (includes amendments l
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 6 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 42 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2023 (SL 2023/48) | cl. 1 and 2: 19 May 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 20 May 2023 (see cl. 2(b))
+Misuse of Drugs Amendment Act 2023 Pt. 2 | 16 of 2023 | 26 Jun 2023 | 27 Jun 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Misuse of Drugs Amendment Act 2023 Pt. 3 | 16 of 2023 | 26 Jun 2023 | 27 Jun 2028 (see s. 2(c))
 Other notes
 The Poisons Act 1964 was repealed by the Medicines and Poisons Act 2014 s. 137.
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
@@ -85,7 +87,7 @@ Defined terms
 Defined termProvision(s)
 adult3(1), 8B(1)
 Agvet Code of Western Australia8N(1)
-amending Act44(1)(a)
+amending Act44(1)
 analyst3(1)
 appropriate licence5B(1)
 appropriate permit5B(1)
@@ -93,41 +95,48 @@ approved analyst3(1)
 approved botanist3(1)
 approved person21
 Australia Post20A
+authorised officer20M, 20R(1)
 authorised person8B(1)
 authorised prescription3(1)
+Border Search Area3(1), 20N(1)
 botanist3(1)
+BSA3(1), 20N(1)
+BSA authorisation20R(1)
 cannabis3(1)
 cannabis intervention requirement8B(1)
 cannabis intervention session8B(1)
 cannabis resin3(1)
 category 1 item3(1), 12
-category 2 item3(1), 12
+category 2 item3(1), 11
 CEO (Health)8B(1), 38D(1)
 child3(1)
 CIN45
 CIR8B(2)
 CIS8B(2)
-claimant27(1)(b)
+claimant27(1)
 commencement day42B(1), 45
 Commissioner3(1)
 confidential information27B(1)
 consigned article20A
 consume8N(1)
-controlled precursor20A
-dangerous substance3(1)
+controlled precursor3(1)
+Corruption and Crime Commission20M
+dangerous substance2(1)
 declared criminal organisation32A(3)
 delivery business 20A
+Department20Z(1)
 destruction notice8T(1)
 display7B(1)
-drug detection area20A, 20B(2)(a)
-drug detection device20A
-drug detection dog20A
+drug detection area20A, 20B(2)
+drug detection device3(1)
+drug detection dog3(1)
 drug of addiction3(1)
 drug paraphernalia7B(1)
 external serious drug offence32A(3)
 heroin3(1)
 industrial hemp3(1)
 industrial hemp seed3(1)
+issuing officer20R(1)
 manufacture8N(1)
 medical practitioner3(1)
 member32A(3)
@@ -135,32 +144,34 @@ methylamphetamine3(1)
 metropolitan region20A
 minor cannabis related offence8B(1)
 new offence8E(4), 8G(1)
+officer20Z(1)
 opium3(1)
 owner5(2)
 police officer8B(1)
-preliminary drug detection test20A
+preliminary drug detection test3(1)
 premises20I(1)
 premises search authorisation20A
-principal offence33(1), (2) and (3)
+principal offence33(1), (2), (3)
 processed industrial hemp3(1)
 professional authority5B(1)
 prohibited drug3(1)
 prohibited plant3(1)
 psychoactive effect8N(1)
 psychoactive substance8N(1)
+public place20M
 recipient12
 relevant drug offence32A(3)
 relevant thing27(6)
 repeal daySch. IX cl. 1(1)
 responsible adult8B(1)
 sample3(1)
-search20G(1)
+search20G(1), 20U(1)
 search warrant21
 seized property28(1)
 senior police officer20A
-serious drug offence32A(3)
+serious drug offence32(3)
 simple offence3(1)
-specified27A(7)
+specified27A.(7)
 specified drug3(1)
 substance8N(1), 12
 sufficient samples27(6)
