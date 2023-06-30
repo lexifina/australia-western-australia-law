@@ -35,6 +35,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Local Government Regulations Amendment Regulations 2022 Pt. 4 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
+Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 5 | SL 2023/102 30 Jun 2023 | 1 Jul 2024 (see r. 2(c))
 Other notes
 The Local Government Act 1995 came into operation on 1 July 1996.
 The Local Government (Functions and General) Amendment Regulations 2001 r. 11 is a transitional provision that is of no further effect.
