@@ -16,21 +16,32 @@ Compilation table
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Reprint 2: The Animal Resources Authority Act 1981 as at 14 Sep 2012 (includes amendments listed above)
 Universities Legislation Amendment Act 2016 Pt. 7 Div. 2 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
-Animal Resources Authority Amendment and Repeal Act 2022 Pt. 2 (other than s. 6 and 12) | 12 of 2022 | 14 Apr 2022 | 14 Apr 2022 (see s. 2(1)(a))
+Animal Resources Authority Amendment and Repeal Act 2022 Pt. 2 | 12 of 2022 | 14 Apr 2022 | s. 3-5, 7-Pt. 2 (other than s. 6 and 12): 14 Apr 2022 (see s. 2(1)(a)); s. 6 and 12: 30 Jun 2023 (see s. 2(1)(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 30 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Animal Resources Authority Amendment and Repeal Act 2022 s. 6 and 12 and Pt. 3 Div. 1 | 12 of 2022 | 14 Apr 2022 | s. 6 and 12: 30 Jun 2023 (see s. 2(1)(b)); Pt. 3 Div. 1: to be proclaimed (see s. 2(1)(c))
+Animal Resources Authority Amendment and Repeal Act 2022 Pt. 3 Div. 1 | 12 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(1)(c))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Account28
+assets28
 Authority3
 financial year3
+former Authority28
 laboratory animal3
+liabilities28
+new employer30(1)
+Public Sector28
+relevant act28
+rights28
 section3
+staff member28
+State tax28
 subsection3
+subsisting28
 transition day3
