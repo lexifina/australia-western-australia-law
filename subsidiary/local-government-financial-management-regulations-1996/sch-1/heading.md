@@ -15,12 +15,12 @@ Transport | Streets, roads, bridges, depots — Construction (not capitalised) �
 Economic services | Rural services Tourism and area promotion Building control Saleyards and markets Plant nursery Other economic services
 Other property and services | Private works Public works overheads Plant operation Salaries and wages Unclassified Town Planning Schemes
 [Part 1 amended: Gazette 20 Jun 1997 p. 2844.]
-## Part 2 — Nature or type classifications
-[Heading inserted: Gazette 20 Jun 2008 p. 2727.]
+## Part 2 — Nature classifications
+[Heading inserted: Gazette 20 Jun 2008 p. 2727; amended: SL 2023/106 r. 28.]
 Revenue
 Rates
-Operating grants, subsidies and contributions
-Non-operating grants, subsidies and contributions
+Capital grants, subsidies and contributions
+Grants, subsidies and contributions (other than capital grants, subsidies and contributions)
 Profit on asset disposals
 Fees and charges
 Service charges
@@ -32,7 +32,7 @@ Material and contracts
 Utility charges (electricity, gas, water etc.)
 Depreciation on non-current assets
 Loss on asset disposal
-Interest expenses
+Finance costs
 Insurance expenses
 Other expenditure
-[Part 2 inserted: Gazette 20 Jun 2008 p. 2727-8.]
+[Part 2 inserted: Gazette 20 Jun 2008 p. 2727-8; amended: SL 2023/106 r. 29.]
