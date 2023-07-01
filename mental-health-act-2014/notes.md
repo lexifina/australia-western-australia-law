@@ -10,11 +10,11 @@ Health Services Act 2016 s. 296 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 24 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 114 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Health Services Amendment Act 2023 Pt. 3 | 1 of 2023 | 22 Feb 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/103 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Health Services Amendment Act 2023 Pt. 3 | 1 of 2023 | 22 Feb 2023 | To be proclaimed (see s. 2(b))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 20 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 20 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -216,3 +216,7 @@ voluntary inpatient4
 voluntary patient4
 witness379
 youth advocate350(2)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
