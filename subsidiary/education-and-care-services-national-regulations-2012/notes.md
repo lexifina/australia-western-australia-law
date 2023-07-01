@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Education and Care Services National Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Education and Care Services National Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Education and Care Services National Regulations 2012 | 25 Jul 2012 p. 3417-660 | r. 1 and 3: 25 Jul 2012 (see r. 3(a)); Regulations other than r. 1 and 3: 1 Aug 2012 (see r. 3(b) and Gazette 25 Jul 2012 p. 3411)
@@ -20,11 +20,8 @@ Education and Care Services National Amendment Regulations (No. 2) 2021 | SL 202
 Education and Care Services National Amendment Regulations (No. 3) 2021 | SL 2021/220 24 Dec 2021 | r. 1 and 2: 24 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2022 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2022 | SL 2022/139 29 Jul 2022 | r. 1 and 2: 29 Jul 2022 (see r. 2(a)); r. 3 and 4: 1 Sep 2022 (see r. 2(b)); Regulations other than r. 1-4: 1 Mar 2023 (see r. 2(c))
 Education and Care Services National Amendment Regulations 2023 | SL 2023/15 24 Feb 2023 | r. 1 and 2: 24 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2023 (see r. 2(b))
-Education and Care Services National Amendment Regulations (No. 3) 2023 (other than Pt. 3) | SL 2023/71 16 Jun 2023 | Pt. 1: 16 Jun 2023 (see r. 2(a)); Pt. 2: 17 Jun 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Education and Care Services National Amendment Regulations (No. 3) 2023 Pt. 3 | SL 2023/71 16 Jun 2023 | 1 Jul 2023 (see r. 2(c))
+Education and Care Services National Amendment Regulations (No. 3) 2023 | SL 2023/71 16 Jun 2023 | Pt. 1: 16 Jun 2023 (see r. 2(a)); Pt. 2: 17 Jun 2023 (see r. 2(b)); Pt. 3: 1 Jul 2023 (see r. 2(c))
+Education and Care Services National Amendment Regulations (No. 2) 2023 | SL 2023/105 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Other notes
 The short title of the Administrative Decisions Tribunal Act 1997 was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
 Defined terms
@@ -35,13 +32,17 @@ approved anaphylaxis management training136(5)
 approved certificate III level education and care qualification4(1)
 approved diploma level education and care qualification4(1)
 approved early childhood teaching qualification4(1)
+approved education and care qualification126A(1A), 135(1A)
+approved educator qualification369(1)
 approved emergency asthma management training136(5)
 approved first aid qualification136(5)
+approved first educator qualification369(1)
 approved number of places4(1)
+approved qualification369(1)
 ARIA+ score239A(5)
 authorised emergency contact4(1)
 Authorised nominee160(3)
-bankruptcy declaration4
+bankruptcy declaration4(1)
 building law4(1)
 building permit4(1)
 building practitioner4(1)
@@ -60,9 +61,10 @@ educational program4(1), 73(1)
 emergency4(1), 123(1A)
 excursion4(1)
 extra-large service232
-family assistance law3(1)
+family assistance law4(1)
 family day care educator assistant4(1)
 financial declaration4(1)
+first qualified educator369(1)
 hazardous water feature373B
 in attendance4(1), 11
 indexation factor232
@@ -91,7 +93,7 @@ previous March year233(1)
 previous service statement4(1)
 provided by a school368
 public office214
-qualified educator370(3)
+qualified educator369(1)
 quarter233(1)
 recognised estray provisions216
 registered medical practitioner4(1)
@@ -99,7 +101,7 @@ regular outing4(1)
 regular transportation4(1)
 relevant administrative tribunal210
 relevant day399(3)
-relevant financial year236C(2), 236D(4), 236E(3), 236F(2), 236G(2), 236H, 236I, 236J, 236K(3), 236L(3), 236M(1) and (2), 236O(2), 236P
+relevant financial year236C(2), 236D(4), 236E(3), 236F(2), 236G(2), 236H, 236I, 236J, 236K(3), 236L(3), 236M(1), 236M(2), 236O(2), 236P
 relevant regulation242(3)
 remote area239A(5)
 renovate4(1)
@@ -117,8 +119,12 @@ the Law4(1)
 very remote area239A(5)
 virtual inspection373E(4)
 water hazard safety inspection373B, 373E(1)
-water hazard safety inspection report373B, 373E(1)
+water hazard safety inspection report373B, 373E
 working directly with children4(1), 13
 working with children check number4(1)
-working with vulnerable people check4(1)
-working with vulnerable people registration4(1)
+working with vulnerable people check2(1)
+working with vulnerable people registration3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
