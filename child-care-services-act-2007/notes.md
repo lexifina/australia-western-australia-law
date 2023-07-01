@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Child Care Services Act 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Child Care Services Act 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Child Care Services Act 2007 | 19 of 2007 | 3 Jul 2007 | s. 1 and 2: 3 Jul 2007 (see s. 2(a)); Act other than s. 1 and 2: 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
@@ -10,10 +10,7 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 1 | 11 of 2012
 Reprint 2: The Child Care Services Act 2007 as at 8 Apr 2016 (includes amendments listed above)
 Associations Incorporation Act 2015 s. 212 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 5 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
+Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Section 65 was omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -86,3 +83,7 @@ suspension notice3
 transitional matter61(2), 62E(2)
 usual occupant3
 wellbeing3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

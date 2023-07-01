@@ -5,11 +5,11 @@ Short title | Number and year | Assent | Commencement
 Teacher Registration Act 2012 | 16 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (see s. 2(a)); Act other than s. 1, 2, 132 and 166: 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637); s. 132: 3 Aug 2016 (see s. 2(b) and Gazette 2 Aug 2016 p. 3293)
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 13 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
-Teacher Registration Amendment Act 2023 s. 3-89 | 3 of 2023 | 1 Mar 2023 | To be proclaimed (see s. 2(b))
+Teacher Registration Amendment Act 2023 s. 3-89 | 3 of 2023 | 1 Mar 2023 | 19 Dec 2023 (see s. 2(b) and SL 2023/195 cl. 2)
 Other notes
 The Teacher Registration Act 2012 s. 166 will not come into operation because the Act it purported to amend was repealed by the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) as at 1 Jul 2012.
 Defined terms
@@ -74,3 +74,7 @@ teach3
 teacher46
 transitional matter149(2)
 WACOT Act135
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

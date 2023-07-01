@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Working with Children (Criminal Record Checking) Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Working with Children (Screening) Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Working with Children (Criminal Record Checking) Act 2004 | 65 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1, 2 and 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875); s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
@@ -24,24 +24,35 @@ Education and Care Services National Law (WA) Amendment Act 2018 Pt. 4 | 18 of 2
 Historical Homosexual Convictions Expungement Act 2018 Pt. 5 | 20 of 2018 | 18 Sep 2018 | 15 Oct 2018 (see s. 2(b) and Gazette 12 Oct 2018 p. 4059)
 Criminal Law Amendment (Intimate Images) Act 2019Pt. 4 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
 National Disability Insurance Scheme (Worker Screening) Act 2020 Pt. 7 Div. 2 | 48 of 2020 | 9 Dec 2020 | 1 Feb 2021 (see s. 2(1)(b) and SL 2021/4 cl. 2)
+Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 2 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 2 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 28 and s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Other notes
+1.Now known as the Working with Children (Screening) Act 2004; short title changed (see note under s. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+2022 Amendment Act62
+ACC34G(1)
 another jurisdiction4
 approved4
 assessment notice4
-authorised person34(1)
+authorised entity34F(1)
+authorised officer4
+authorised purpose34J
 cancelled assessment notice32A
 CEO4
+CEO (Children and Community Services)34H(1)
+CEO (Education)34A(1)
+CEO (Health)34A(1)
 CEO (Justice)4
+CEO (NDIS)34E(1)
 charge4
+chief executive officer45A(1)
 child4
 child care service4
 child-related business4
@@ -50,8 +61,10 @@ child-related work4, 6(1)
 Class 1 offence4, 7(1)
 Class 2 offence4, 7(2)
 Class 3 offence4
-commencement day56
+commencement day56, 62
 Commissioner4
+conduct review authority4
+conduct review finding or outcome4
 contact4
 contact with a child6(2)
 continuing employee60(4)
@@ -60,36 +73,68 @@ continuing operator57(3)
 continuing volunteer58(1)
 conviction4
 correct notice20(1)
-corresponding authority37(1)
+corresponding authority4
 corresponding law4
 criminal record4
 criminal record check4
-criminal records agency34(1)
+criminal records agency4
 defined period26(1)
-Department4, 38(1)
-education provider4
+Department4
+designated authority17(1A)
+designated change33A(2)
+designated conduct review authority17A(1)
+designated information17(1A)
+document45D(1)
+DPP34(1)
 educational institution for children4
+education provider4
 employee16(1)
-employer9B(5), 9(1), 16(1), 22(1), 41(1), 43(1)
-external government agency39A(1)
+employer9B(5), 16(1), 22(1), 41(1), 43(1)
+entry warrant34J, 34V(1)
+external government agency4
 first notice20(2)
+former classification provisions62
+give45D(1)
+government agency4
 interim negative notice4
+interstate screening agency34E(1)
+investigation34J
+justice authority34ZA(1)
 law39A(1)
 managerial officer5(1)
 negative notice4
+new classification provisions62
 new employee60(4)
 new operator57(3)
 non-conviction charge4
 officer of the Department4
+outcome4
 parent4
 pending charge4
-prescribed report37A(1)
+pre-commencement assessment application62
+pre-commencement cancellation application62
+prescribed authority34H(1)
+prescribed entity34Z(1)
+prescribed report34C(1)
 proposed employer32A
-public authority38(1)
+public authority4
 public sector employee45(2)
-regulated person42(1)
+record34J
+related authority17C(1)
 relative4
+relevant authority45A(1)
+relevant conduct4
 relevant day60A
-specified4, 61(4)
+relevant information34A(1)
+relevant processes66(1)
+relevant purpose34I(1)
+relevant record34J
+specified4, 61(4), 76(1)
 student4
+transitional matter76(1)
 work4
+WWC purpose4
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
