@@ -11,6 +11,7 @@ Medicines and Poisons Amendment Regulations 2020 | SL 2020/214 6 Nov 2020 | r. 1
 Health Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/93 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 6 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Medicines and Poisons Amendment Regulations 2023 | SL 2023/3 27 Jan 2023 | r. 1 and 2: 27 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2023 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -140,3 +141,7 @@ system identifier18(1), 147(1)
 unauthorised person22(1)
 vessel37
 veterinary nurse37
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

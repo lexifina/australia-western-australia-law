@@ -7,5 +7,5 @@
  | (c)fee for examination in both (a) and (b) | 770.00
  | (d)fee for examination in part or parts of (a) or (b) or both (a) and (b) | 385.00
 2. | Where the examination is conducted for the Council and is in a subject or subjects in a syllabus other than the syllabus referred to in item 1 —
- | fee for each subject | 55.00
-[Schedule 2 inserted: Gazette 28 Jun 1996 p. 3020-1; amended: Gazette 14 Sep 1999 p. 4529-30; 30 Jun 2000 p. 3414; 30 Dec 2014 p. 5504; 19 May 2015 p. 1753-4; 17 Jun 2016 p. 2104-5; 30 Jun 2017 p. 3573; 14 Jun 2019 p. 1893; SL 2020/97 r. 14; SL 2021/108 r. 14; SL 2022/136 r. 23.]
+ | fee for each subject | 60.00
+[Schedule 2 inserted: Gazette 28 Jun 1996 p. 3020-1; amended: Gazette 14 Sep 1999 p. 4529-30; 30 Jun 2000 p. 3414; 30 Dec 2014 p. 5504; 19 May 2015 p. 1753-4; 17 Jun 2016 p. 2104-5; 30 Jun 2017 p. 3573; 14 Jun 2019 p. 1893; SL 2020/97 r. 14; SL 2021/108 r. 14; SL 2022/136 r. 23; SL 2023/96 r. 21.]
