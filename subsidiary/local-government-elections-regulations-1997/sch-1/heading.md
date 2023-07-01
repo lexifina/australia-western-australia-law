@@ -20,12 +20,12 @@ Form | Heading | Section or regulation
 16 | Provisional Voter’s Declaration | regs. 46 and 62
 17 | Application for Absent Vote | reg. 54
 18 | Appointment of Scrutineer (Original — front and back, duplicate — front and back) | reg. 69
-19 | Results of Election | s. 4.77
+[19deleted]
 20 | Report to Minister | s. 4.79
 21 | Referendum Ballot Paper | s. 4.99
 22 | Referendum Absent Vote Ballot Paper (front & back) | s. 4.99
 23 | Results of Referendum | s. 4.99
-[List of Forms amended: Gazette 25 Jan 2001 p. 588.]
+[List of Forms amended: Gazette 25 Jan 2001 p. 588; SL 2023/102 r. 49.]
 Form 1. Declaration by Electoral Officer
 Local Government (Elections) Regulations 1997, reg. 7 DECLARATION BY ELECTORAL OFFICER
 Electoral Officer | Full name:
@@ -161,13 +161,14 @@ Back of Form 8
 2Who is an elector | You are an elector of the district if you are eligible to be included on the electoral roll for that district. However it is not sufficient if you are only eligible to be on the roll as the nominee of a body corporate which owns or occupies property in the district. You need not be an elector in the ward in which you nominate.
 3Disqualification | You are disqualified for membership of a council if you: ·are a member of the Legislative Assembly, the Legislative Council, the House of Representatives or the Senate (or have been elected as such a member but have not yet taken office); or ·are a member of the council of another local government; or ·are an insolvent under administration; or ·are in prison serving a sentence for a crime; or ·have been convicted of a serious local government offence within the last 5 years (unless the court waived the disqualification); or ·have been convicted of an offence for which the indictable penalty was or included — (i)imprisonment for life; or (ii)imprisonment for more than 5 years; or ·are subject to a court order disqualifying you from being a member of a council because you have misapplied local government funds or property.
 4Eligibility to nominate as a councillor | You are not eligible to nominate as a councillor if you are: ·a member of the council (unless your term of office expires on election day); or ·a candidate in another election for the office of councillor.
-5Course of induction | The course of induction is the course titled Local Government Candidate Induction (if completed on or after 31 May 2021 but before 2 August 2021) or the course titled Induction for prospective candidates that is available on the Department’s official website. The reference number is the number that is emailed to you on completion of the course.
+5Course of induction | The course of induction is the course titled Local Government Candidate Induction that is available on the Department's official website after 30 June 2023. The reference number is the number that is emailed to you on completion of the course.
 Where to send your nomination | When you have completed and signed this form, send it to the Returning Officer for the district. You may send your nomination by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. If you send it by fax or electronically you should check that it has been received.
-Closing date for nominations | Your nomination must be received by the Returning Officer before 4 p.m. on the 37th day before election day. If you send your nomination electronically it is taken to be received at the time the Returning Officer prints it out.
-Candidate’s profile | Your nomination must be accompanied by a candidate’s profile of not more than 800 characters and spaces plus your name, address and contact numbers. The profile must be confined to information about you. It may include a recent passport size photo of your head or head and shoulders. The profile must be (or if it is sent electronically, be capable of being) printed on a single A4 page.
-Deposit | When you make your nomination you must pay a deposit of $80. You may send this with your nomination form or deliver it to the Returning Officer at any time before the closing date for nominations. You may pay your deposit in cash or by cheque, bank draft or postal order. If you make appropriate arrangements with the Returning Officer you may be able to pay your deposit by electronic transfer or other means.
+Closing date for nominations | Your nomination must be received by the Returning Officer before 4 p.m. on the 44th day before election day. If you send your nomination electronically it is taken to be received at the time the Returning Officer prints it out.
+Candidate’s profile | Your nomination must be accompanied by a candidate’s profile of not more than 1 000 characters and spaces plus your name, address and contact numbers. The profile must be confined to information about you. It may include a recent passport size photo of your head or head and shoulders. The profile must be (or if it is sent electronically, be capable of being) printed on a single A4 page.
+Additional information | Your nomination may, in addition to the candidate’s profile, be accompanied by a written statement containing information that you consider to be relevant to your candidature. The written statement must contain no more than 2 000 characters and spaces. The written statement is for publication on the local government’s official website.
+Deposit | When you make your nomination you must pay a deposit of $100. You may send this with your nomination form or deliver it to the Returning Officer at any time before the closing date for nominations. You may pay your deposit in cash or by cheque, bank draft or postal order. If you make appropriate arrangements with the Returning Officer you may be able to pay your deposit by electronic transfer or other means.
 Withdrawing your nomination | You may withdraw your nomination by giving written notice to the Returning Officer before the closing date for nominations. You may send your withdrawal by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. A withdrawal may be lodged by your agent if it is accompanied by a written authorisation, signed by you, permitting the agent to lodge the withdrawal.
-[Form 8 amended: Gazette 21 Jan 2005 p. 266 and 268; 18 Mar 2005 p. 976; 21 Dec 2012 p. 6643; 18 Jan 2019 p. 111; 9 Aug 2019 p. 3021; SL 2021/141 r. 6.]
+[Form 8 amended: Gazette 21 Jan 2005 p. 266 and 268; 18 Mar 2005 p. 976; 21 Dec 2012 p. 6643; 18 Jan 2019 p. 111; 9 Aug 2019 p. 3021; SL 2021/141 r. 6; SL 2023/102 r. 50.]
 Form 9.Nomination by agent
 Local Government Act 1995, s. 4.49(a) NOMINATION FOR ELECTION BY AGENT See back for notes on how to make a nomination
 Agent | Full name:
@@ -199,14 +200,15 @@ Back of Form 9
 2Who is an elector | The nominee is an elector of the district if he or she is eligible to be included on the electoral roll for that district. However it is not sufficient if he or she is only eligible to be on the roll as the nominee of a body corporate which owns or occupies property in the district. The nominee need not be an elector in the ward in which he or she is nominated.
 3Disqualification | The nominee is disqualified for membership of a council if he or she: ·is a member of the Legislative Assembly, the Legislative Council, the House of Representatives or the Senate (or has been elected as such a member but has not yet taken office); or ·is a member of the council of another local government; or ·is an insolvent under administration; or ·is in prison serving a sentence for a crime; or ·has been convicted of a serious local government offence within the last 5 years (unless the court waived the disqualification); or ·has been convicted of an offence for which the indictable penalty was or included — (i)imprisonment for life; or (ii)imprisonment for more than 5 years; or ·is subject to a court order disqualifying him or her from being a member of a council because he or she has misapplied local government funds or property.
 4Eligibility to nominate as a councillor | The nominee is not eligible to be nominated as a councillor if he or she is: ·a member of the council (unless his or her term of office expires on election day); or ·a candidate in another election for the office of councillor.
-5Course of induction | The course of induction is the course titled Local Government Candidate Induction (if completed on or after 31 May 2021 but before 2 August 2021) or the course titled Induction for prospective candidates that is available on the Department’s official website. The reference number is the number that is emailed to the nominee on completion of the course.
+5Course of induction | The course of induction is the course titled Local Government Candidate Induction that is available on the Department's official website after 30 June 2023. The reference number is the number that is emailed to the nominee on completion of the course.
 6Authorisation | You must give to the Returning Officer written evidence that the nominee has authorised you to make the nomination. The nominee may fill in and sign this box or you may send a written authorisation, signed by the nominee, to the Returning Officer with your nomination form or at any time before the closing date for nominations.
 Where to send your nomination | When you have completed and signed this form, send it to the Returning Officer for the district. You may send your nomination by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. If you send it by fax or electronically you should check that it has been received.
-Closing date for nominations | Your nomination must be received by the Returning Officer before 4 p.m. on the 37th day before election day. If you send your nomination electronically it is taken to be received at the time the Returning Officer prints it out.
-Candidate’s profile | Your nomination must be accompanied by a candidate’s profile of not more than 800 characters and spaces plus the nominees name, address and contact numbers. The profile must be confined to information about the candidate. It may include a recent passport size photo of the candidate’s head or head and shoulders. The profile must be (or if it is sent electronically, be capable of being) printed on a single A4 page.
-Deposit | When you make your nomination you must pay a deposit of $80. You may send this with your nomination form or deliver it to the Returning Officer at any time before the closing date for nominations. You may pay your deposit in cash or by cheque, bank draft or postal order. If you make appropriate arrangements with the Returning Officer you may be able to pay your deposit by electronic transfer or other means.
+Closing date for nominations | Your nomination must be received by the Returning Officer before 4 p.m. on the 44th day before election day. If you send your nomination electronically it is taken to be received at the time the Returning Officer prints it out.
+Candidate’s profile | Your nomination must be accompanied by a candidate’s profile of not more than 1 000 characters and spaces plus the nominees name, address and contact numbers. The profile must be confined to information about the candidate. It may include a recent passport size photo of the candidate’s head or head and shoulders. The profile must be (or if it is sent electronically, be capable of being) printed on a single A4 page.
+Additional information | Your nomination may, in addition to the candidate’s profile, be accompanied by a written statement containing information that the candidate considers to be relevant to their candidature. The written statement must contain no more than 2 000 characters and spaces. The written statement is for publication on the local government’s official website.
+Deposit | When you make your nomination you must pay a deposit of $100. You may send this with your nomination form or deliver it to the Returning Officer at any time before the closing date for nominations. You may pay your deposit in cash or by cheque, bank draft or postal order. If you make appropriate arrangements with the Returning Officer you may be able to pay your deposit by electronic transfer or other means.
 Withdrawing your nomination | You may withdraw your nomination by giving written notice to the Returning Officer before the closing date for nominations. You may send your withdrawal by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures.
-[Form 9 amended: Gazette 21 Jan 2005 p. 267 and 268; 18 Mar 2005 p. 977; 21 Dec 2012 p. 6644; 18 Jan 2019 p. 111; 9 Aug 2019 p. 3021-2; SL 2021/141 r. 7.]
+[Form 9 amended: Gazette 21 Jan 2005 p. 267 and 268; 18 Mar 2005 p. 977; 21 Dec 2012 p. 6644; 18 Jan 2019 p. 111; 9 Aug 2019 p. 3021-2; SL 2021/141 r. 7; SL 2023/102 r. 51.]
 Local Government Act 1995
 Local Government (Elections) Regulations 1997
 [s. 4.59]
@@ -226,7 +228,7 @@ Details of person on whose behalf the gift is made (if other than the person mak
 Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Details of the gift (value of which is $200 or more, or which is one of 2 or more gifts with a total value of $200 or more)
+Details of the gift (value of which is $300 or more, or which is one of 2 or more gifts with a total value of $300 or more)
 Date gift promised, received or made . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Value of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Description of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -238,14 +240,14 @@ Candidates only — IF YOU ARE UNABLE TO PROVIDE THE INFORMATION REQUIRED BY THI
 Person making disclosure to complete and sign the declaration below
 I . . . . . . . . . . . . . . . . . . . . . . . . . declare that all information and details provided are true and correct, and no known, relevant information is omitted.
 Signature . . . . . . . . . . . . . . . . . . . . . . . . Date . . . . . . . . . . . . . . . . . . . . . . . . .
-[Form 9A inserted: Gazette 14 Aug 2009 p. 3219-20.]
+[Form 9A inserted: Gazette 14 Aug 2009 p. 3219-20; amended: SL 2023/102 r. 52.]
 Form 10.Ballot Paper
 BALLOT PAPER
 Election of __________________________
 Local government district:
 Ward:
 Election date:
-How to vote Place a tick R in the box next to the candidate you want to elect. Do not make any other marks on the ballot paper.
+How to vote Write the number 1 in the square next to the name of the candidate who you want to vote for.
 Candidates
 ____________________________o
 ____________________________o
@@ -264,15 +266,15 @@ Fill in name of the ward, or if there is no ward delete this box.
 4Election date
 Fill in the election date.
 5How to vote
-This ‘How to Vote’ note is for an election for a mayor, president or one councillor. If the election is for 2 or more councillors replace it with the following note:
-How to vote Place a tick R in the box next to each of the candidates you want to elect. You may choose up to _________ 7 candidates. If you choose more than ________ your vote will be invalid. Do not make any other marks on the ballot paper.
+This ‘How to Vote’ note is for an election with only 2 candidates. If there are 3 or more candidates, replace it with the following note:
+How to vote Write the number 1 in the square next to the name of the candidate who is your first choice. If you want to, you may show more choices by writing consecutive numbers in the squares next to the names of other candidates in the order of your choice, starting with the number 2 up to [INSERT NUMBER OF CANDIDATES]. You do not need to write a number in all the squares.
 6Candidates
 Insert the names of the candidates in the order determined under section 4.56(a) of the Act. Add more lines if necessary and delete any unused lines.
 All names must be in the same size text.
 If 2 names are confusingly similar add such descriptions or additions as are necessary to distinguish them from each other.
 7Number of councillors
 If the election is for more than one councillor insert the number of councillors to be elected.
-[Form 10 inserted: Gazette 28 Aug 2009 p. 3362-3.]
+[Form 10 inserted: Gazette 28 Aug 2009 p. 3362-3; amended: SL 2023/102 r. 53.]
 Form 11.Absent Vote Ballot Paper
 ABSENT VOTE BALLOT PAPER See back for notes on how to vote
 Election of rMayor rPresident rCouncillor(s)
@@ -293,8 +295,8 @@ How to make an absent vote
 3Ward | Fill in the name of the ward in respect of which you are voting. If you are voting in respect of a local government district which is not divided into wards, leave this box blank.
 4Election date | Fill in the official election date — not the day you are filling in this form.
 5Candidates | Fill in the names of the candidates. Write one name on each line. You may fill in the candidates’ names in any order.
-Cast your vote | If the election is for a mayor or president or only one councillor place a tick R in the box next to the candidate you want to elect. If the election is for 2 or more councillors place a tick R in the box next to each of the candidates you want to elect. You may choose up to the number of candidates as there are councillors to be elected. If you choose any more, your vote will be invalid. For example — if the election is for 3 councillors you may tick the boxes for 1, 2 or 3 candidates but if you tick 4 boxes your vote will be invalid. Do not make any other marks on the ballot paper.
-[Form 11 inserted: Gazette 28 Aug 2009 p. 3364.]
+Cast your vote | Election that has only 2 candidates Write the number 1 in the square next to the name of the candidate who you want to vote for. Election that has 3 or more candidates Write the number 1 in the square next to the name of the candidate who is your first choice. If you want to, you may show more choices by writing consecutive numbers in the squares next to the names of other candidates in the order of your choice, starting with the number 2 up to the number equal to the total number of candidates. You do not need to write a number in all the squares.
+[Form 11 inserted: Gazette 28 Aug 2009 p. 3364; amended: SL 2023/102 r. 54.]
 Form 12.Application for Postal Voting Papers
 Local Government (Elections) Regulations 1997, reg 37 APPLICATION FOR POSTAL VOTING PAPERS See back for notes on how to complete this form
 Applicant | Full name:
@@ -311,20 +313,20 @@ Back of Form 12
 1Property | If you are eligible to vote in respect of more than one property you must give the address of each property. Add additional pages if necessary.
 2Electorate | If you are an elector in more than one electorate you must give the details of each electorate for which you wish to receive postal voting papers.
 3Election | You may make your application at any time but if you want to vote by post at a particular election you must make your application before 4 p.m. on the 4th day before that election.
-Where to send your form | When you have completed and signed this form, send it to — ·if you are making your application within 36 days of an election, the Returning Officer for the district; or ·if you are making your application at any other time, the Chief Executive Officer of your local government. You may send it by post , by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. If you send it by fax or electronically you should check that it has been received.
-Postal votes at future elections | If you have ticked the box indicating that you wish to vote by post at all elections your name will be included on the postal voters register until you cease to be an elector or you ask for your name to be removed from the register. The Returning Officer will automatically send you postal voting papers every time there is an election in your electorate. If at any time you no longer wish to vote by post you should write to the Chief Executive Officer of your local government (or, if it is within 36 days of an election, the Returning Officer) and he or she will remove your name from the register. You may send your letter by post, by fax or by other electronic means.
-[Form 12 amended: Gazette 21 Jan 2005 p. 268.]
+Where to send your form | When you have completed and signed this form, send it to — ·if you are making your application within 43 days of an election, the Returning Officer for the district; or ·if you are making your application at any other time, the Chief Executive Officer of your local government. You may send it by post , by fax or by other electronic means so long as it is capable of being printed in its entirety, including signatures. If you send it by fax or electronically you should check that it has been received.
+Postal votes at future elections | If you have ticked the box indicating that you wish to vote by post at all elections your name will be included on the postal voters register until you cease to be an elector or you ask for your name to be removed from the register. The Returning Officer will automatically send you postal voting papers every time there is an election in your electorate. If at any time you no longer wish to vote by post you should write to the Chief Executive Officer of your local government (or, if it is within 43 days of an election, the Returning Officer) and he or she will remove your name from the register. You may send your letter by post, by fax or by other electronic means.
+[Form 12 amended: Gazette 21 Jan 2005 p. 268; SL 2023/102 r. 55.]
 Form 13.Postal Voting Instructions
 (a)Mayoral/Presidential or Ward Election
 Local Government (Elections) Regulations 1997, r. 43(1)(a) POSTAL VOTING INSTRUCTIONS
 Election package | This is your Postal Voting Election Package. It contains: ·profiles of each of the candidates in your electorate; ·a ballot paper; ·an elector’s certificate; and ·a ballot paper envelope; ·a postage pre-paid envelope addressed to the Returning Officer. If any of these papers are missing from your package please contact the Returning Officer for your district.
-How to vote | ¶Decide which candidate(s) you want to elect and mark your choice on the ballot paper. The instructions on the ballot paper tell you how to do this. ·Put your completed ballot paper into the ballot paper envelope and seal that envelope. ¸Fill in and sign the elector’s certificate. ¹Put the ballot paper envelope and the elector’s certificate into the envelope addressed to the Returning Officer and seal that envelope. ºPost that envelope to the Returning Officer or deliver it to an electoral officer at: ·the offices of the local government during office hours before election day; or ·a polling place between 8 a.m. and 6 p.m. on election day. If you post your vote the Returning Officer must receive it before 6 p.m. on election day. Make sure you post it in plenty of time.
+How to vote | ŒIf only 2 candidates are named on the ballot paper, decide which candidate you want to vote for and mark your choice on the ballot paper. The instructions on the ballot paper tell you how to do this. If 3 or more candidates are named on the ballot paper, decide which candidate is your first choice and whether you want to show more choices. Then mark your choice or choices on the ballot paper. The instructions on the ballot paper tell you how to do this. ·Put your completed ballot paper into the ballot paper envelope and seal that envelope. ¸Fill in and sign the elector’s certificate. ¹Put the ballot paper envelope and the elector’s certificate into the envelope addressed to the Returning Officer and seal that envelope. ºPost that envelope to the Returning Officer or deliver it to an electoral officer at: ·the offices of the local government during office hours before election day; or ·a polling place between 8 a.m. and 6 p.m. on election day. If you post your vote the Returning Officer must receive it before 6 p.m. on election day. Make sure you post it in plenty of time.
 Any questions | If you have any questions about your Postal Voting Election Package or about how to lodge your vote, contact the Returning Officer for your district. Returning Officer Name: Address: Phone No.: Fax No.: Email address:
 Form 13.Postal Voting Instructions
 (b)Simultaneous Mayoral/Presidential and Ward Elections
 Local Government (Elections) Regulations 1997, r. 43(1)(a) POSTAL VOTING INSTRUCTIONS
 Election package | This is your Postal Voting Election Package. It contains: ·for the election of the mayor: ·profiles of each of the candidates; and ·a mayoral ballot paper; ·for the election of councillors: ·profiles of each of the candidates; and ·a councillors ballot paper; ·an elector’s certificate; ·a ballot paper envelope; ·a postage pre-paid envelope addressed to the Returning Officer. If any of these papers are missing from your package please contact the Returning Officer for your district.
-How to vote | ¶Decide which candidate you want to elect as mayor and mark your choice on the mayoral ballot paper. The instructions on the ballot paper tell you how to do this. ·Decide which candidate(s) you want to elect as councillor(s) and mark your choice on the councillors ballot paper. The instructions on the ballot paper tell you how to do this. ¸Put both your completed ballot papers into the ballot paper envelope and seal that envelope. ¹Fill in and sign the elector’s certificate. ºPut the ballot paper envelope and the elector’s certificate into the envelope addressed to the Returning Officer and seal that envelope. zPost or deliver that envelope to the Returning Officer or deliver it to an electoral officer at: ·the offices of the local government during office hours before election day; or ·a polling place between 8 a.m. and 6 p.m. on election day. If you post your vote the Returning Officer must receive it before 6 p.m. on election day. Make sure you post it in plenty of time.
+How to vote | ŒMayoral election If only 2 candidates are named on the mayoral ballot paper, decide which candidate you want to vote for and mark your choice on the mayoral ballot paper. The instructions on the mayoral ballot paper tell you how to do this. If 3 or more candidates are named on the mayoral ballot paper, decide which candidate is your first choice and whether you want to show more choices. Then mark your choice or choices on the mayoral ballot paper. The instructions on the mayoral ballot paper tell you how to do this. Councillors election If only 2 candidates are named on the councillors ballot paper, decide which candidate you want to vote for and mark your choice on the councillors ballot paper. The instructions on the councillors ballot paper tell you how to do this. If 3 or more candidates are named on the councillors ballot paper, decide which candidate is your first choice and whether you want to show more choices. Then mark your choice or choices on the councillors ballot paper. The instructions on the councillors ballot paper tell you how to do this. ¸Put both your completed ballot papers into the ballot paper envelope and seal that envelope. ¹Fill in and sign the elector’s certificate. ºPut the ballot paper envelope and the elector’s certificate into the envelope addressed to the Returning Officer and seal that envelope. zPost or deliver that envelope to the Returning Officer or deliver it to an electoral officer at: ·the offices of the local government during office hours before election day; or ·a polling place between 8 a.m. and 6 p.m. on election day. If you post your vote the Returning Officer must receive it before 6 p.m. on election day. Make sure you post it in plenty of time.
 Any questions | If you have any questions about your Postal Voting Election Package or about how to lodge your vote, contact the Returning Officer for your district. Returning Officer Name: Address: Phone No.: Fax No.: Email address:
 Notes to Form 13
 Notes to Returning Officer when preparing postal voting instructions
@@ -337,7 +339,7 @@ If the ballot paper envelope is also the postage pre-paid envelope addressed to 
 “·a combined ballot paper envelope and postage pre-paid envelope addressed to the Returning Officer with an elector’s certificate attached.”.
 1bHow to vote (Form 13(a))
 If the ballot paper envelope is also the postage pre-paid envelope addressed to the Returning Officer and incorporates the elector’s certificate, delete these “How to vote” instructions and insert instead —
-How to vote | ÊDecide which candidate(s) you want to elect and mark your choice on the ballot paper. The instructions with the ballot paper tell you how to do this.
+How to vote | ŒIf only 2 candidates are named on the ballot paper, decide which candidate you want to vote for and mark your choice on the ballot paper. The instructions on the ballot paper tell you how to do this. If 3 or more candidates are named on the ballot paper, decide which candidate is your first choice and whether you want to show more choices. Then mark your choice or choices on the ballot paper. The instructions on the ballot paper tell you how to do this.
  | ËPut your completed ballot paper into the envelope provided and seal the envelope.
  | ÌFill in and sign the elector’s certificate.
  | ÍPost the envelope to the Returning Officer, or deliver it to an electoral officer at: ·the offices of the local government during office hours before election day; or ·a polling place between 8 a.m. and 6 p.m. on election day. If you post your vote the Returning Officer must receive it before 6 p.m. on election day. Make sure you post it in plenty of time.
@@ -349,14 +351,14 @@ If the elector’s certificate is:
 Insert the name and contact details of the Returning Officer or, where the Electoral Commissioner has been declared responsible for the conduct of an election, such other contact details as are appropriate.
 3aHow to vote (Form 13(b))
 If the ballot paper envelope is also the postage pre-paid envelope addressed to the Returning Officer and incorporates the elector’s certificate, delete these “How to vote” instructions and insert instead —
-How to vote | ÊDecide which candidate you want to elect as mayor and mark your choice on the mayoral ballot paper. The instructions with the ballot paper tell you how to do this.
- | ËDecide which candidate(s) you want to elect as councillor(s) and mark your choice on the councillors ballot paper. The instructions with the ballot paper tell you how to do this.
+How to vote | ŒMayoral election If only 2 candidates are named on the mayoral ballot paper, decide which candidate you want to vote for and mark your choice on the mayoral ballot paper. The instructions on the mayoral ballot paper tell you how to do this. If 3 or more candidates are named on the mayoral ballot paper, decide which candidate is your first choice and whether you want to show more choices. Then mark your choice or choices on the mayoral ballot paper. The instructions on the mayoral ballot paper tell you how to do this.
+ | Councillors election If only 2 candidates are named on the councillors ballot paper, decide which candidate you want to vote for and mark your choice on the councillors ballot paper. The instructions on the councillors ballot paper tell you how to do this. If 3 or more candidates are named on the councillors ballot paper, decide which candidate is your first choice and whether you want to show more choices. Then mark your choice or choices on the councillors ballot paper. The instructions on the councillors ballot paper tell you how to do this.
  | ÌPut your completed ballot papers into the envelope provided and seal the envelope.
  | ÍFill in and sign the elector’s certificate.
  | ÎPost that envelope to the Returning Officer, or deliver it to an electoral officer at: ·the offices of the local government during office hours before election day; or ·a polling place between 8 a.m. and 6 p.m. on election day. If you post your vote the Returning Officer must receive it before 6 p.m. on election day. Make sure you post it in plenty of time.
 4Mayor/President
 For an election in a Shire replace “mayor” with “president” and “mayoral” with “presidential”.
-[Form 13 inserted: Gazette 28 Aug 2009 p. 3365-7.]
+[Form 13 inserted: Gazette 28 Aug 2009 p. 3365-7; amended: SL 2023/102 r. 56.]
 Form 14.Elector’s Certificate
 Local Government (Elections) Regulations 1997, reg 43(1)(e) Elector’s Certificate
 Declaration [Making a false declaration is an offence] | I am the elector to whom a package containing the accompanying ballot paper envelope was addressed. I declare that the accompanying ballot paper envelope contains my ballot paper(s) and that I am the person enrolled as: Surname: Other names: Address (as enrolled, or claimed to be enrolled):
@@ -478,33 +480,7 @@ What you may do | As a scrutineer you may: ·attend at a polling place mentioned
 What you must do | As a scrutineer you must: ·wear identification of your appointment as a scrutineer; and ·have your copy of the Appointment of Scrutineer form with you at all times and produce it when requested to do so by the Presiding Officer at a polling place; and ·comply with all directions given by the Returning Officer and all reasonable requests made by any other electoral officer.
 What you must not do | As a scrutineer you must not: ·enter a polling place if another scrutineer appointed by the same candidate is already there (unless one of you is just to cast your vote); ·take part in the conduct of the election; ·while in or within 6 metres of a polling place: ·canvass for votes; ·solicit the vote of an elector; ·induce an elector to vote for a particular candidate; ·induce an elector not to vote at the election; ·record the name of a person who attends a polling place to vote or record any information given by a person to an electoral officer in order to receive a ballot paper.
 [Form 18 amended: Gazette 22 Dec 1998 p. 6878; 25 Jan 2001 p. 590-1; 21 Jan 2005 p. 268; 3 Aug 2007 p. 4002 and 4006; 28 Aug 2009 p. 3368.]
-Form 19.Results of Election
-Local Government Act 1995, s. 4.77 RESULTS OF ELECTION FOR ______________________________________
-Results | These are the results of the local government election held on ______________.
-Mayor/President | Candidate | Number of votes
-_________________________________ _________________________________ _________________________________ _________________________________ _________________________________ _________________________________ | ______________ ______________ ______________ ______________ ______________ ______________
-Therefore ______________________________________________ is elected as mayor/ president of _________________________ until ______________________
-__________ Ward | Candidate | Number of votes
-________________________________ ________________________________ ________________________________ ________________________________ ________________________________ ________________________________ | ________________ ________________ ________________ ________________ ________________ ________________
-Therefore the following people are elected as councillors for the ________________ ward. Each councillor will hold office until the date set out next to his or her name.
-Name ______________________________________________ ______________________________________________ ______________________________________________ | Expiry of term ________________ ________________ ________________
-Returning officer | Full name:
-Signature: | Date:
-Notes to Form 19
-Notes to Returning Officer when preparing results
-1District
-Insert the name of the local government district.
-2Mayor or President
-Delete “Mayor” or “President” as appropriate.
-If the election did not include the election of the mayor or president, delete this box.
-3Elected unopposed or appointed
-If a person was elected unopposed under section 4.55 of the Act insert “elected unopposed” in this column.
-If a person was appointed by the council of the local government under section 4.57(3) of the Act insert “appointed by council” in this column.
-4Ward
-Repeat this box for each ward in the district in which there was an election and insert the name of the ward.
-If there were no councillor elections, delete this box.
-If the district is not divided into wards but councillors were elected for the district, change the title of this box to “Councillors” and delete the word “ward” in the last line.
-[Form 19 inserted: Gazette 28 Aug 2009 p. 3368-9.]
+[Form 19 deleted: SL 2023/102 r. 57.]
 Form 20.Report to Minister
 REPORT TO MINISTER Local Government Act 1995, s. 4.79(2) Local Government (Elections) Regulations 1997, r. 81
 Part 1 — General information
@@ -513,11 +489,11 @@ District and date
 District (and ward, if applicable) where election held: Election date:
 Vacancies
 Number of vacancies:
-Vacancies unfilled: (i.e. vacancies for which no nominations were received at the close of nominations):
+Vacancies unfilled: (i.e., vacancies for which no nominations were received at the close of nominations):
 Type of election
-Voting in person: Postal: | r r (Tick one box)
+Voting in person: Postal: | * * [Tick one box]
 Position/s
-Mayor/ president/ councillor* * Delete whichever is inapplicable.
+Mayor / president / councillor* * Delete whichever is inapplicable.
 Number of persons on rolls
 Number of persons on owners and occupiers roll
 Number of persons on residents roll
@@ -538,22 +514,24 @@ Work out using number of accepted elector certificates retained.
 Work out using number of Form 16s accepted by an electoral officer.
 Total number of eligible electors who attempted to vote by the close of poll.
 Part 3 — Number of late arriving postal packages
-Number of late arriving postal packages:
-Include voting packages arriving up to one week after the close of poll. Assume the voting papers include a ballot paper for this election.
+Number of late arriving postal packages
+Include voting packages arriving up to 1 week after the close of poll. Assume the voting papers include a ballot paper for this election.
 Part 4 — Details of candidates and votes
-Surname | Other names | Gender | Previous member (yes/no) | Votes received
-Insert the total number of votes received by each candidate.
+Surname | Other names | Gender | Previous member (yes / no) | First-preference votes received
+Insert the total number of first-preference votes received by each candidate.
 Insert “unopposed” if the candidate was elected unopposed under section 4.55 of the Local Government Act 1995.
 Insert “appointed” if the candidate was appointed under section 4.57(3) of the Local Government Act 1995.
+Distribution of preferences
+A distribution of preferences was not required A distribution of preferences was required and is attached | * * [Tick one box]
 Part 5 — Ballot papers counted
 Ballot papers | Number
 Number of valid ballot papers counted
 Number of informal ballot papers counted
 Part 6 — Candidate/s elected
-Surname | Other names | Year term expires | Type of vacancy (Ordinary/extraordinary/other)
+Surname | Other names | Year term expires | Type of vacancy (Ordinary / extraordinary / other)
 Returning officer | Full name:
 Signature: | Date:
-[Form 20 inserted: Gazette 28 Aug 2009 p. 3369-71.]
+[Form 20 inserted: SL 2023/102 r. 58.]
 Form 21.Referendum Ballot Paper
 REFERENDUM BALLOT PAPER
 Local government district:

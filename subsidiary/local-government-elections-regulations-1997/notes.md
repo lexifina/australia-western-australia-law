@@ -20,6 +20,7 @@ Local Government (Elections) Amendment Regulations 2019 | 18 Jan 2019 p. 111 | r
 Local Government Regulations Amendment (Induction and Training) Regulations 2019 Pt. 2 | 9 Aug 2019 p. 3020-3 | 10 Aug 2019 (see r. 2(b) and Gazette 9 Aug 2019 p. 3019)
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 6 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Local Government (Elections) Amendment Regulations 2021 | SL 2021/141 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2021 (see r. 2(b))
+Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 4 | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
 Other notes
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 3.Application
@@ -27,33 +28,52 @@ These amendments to the principal regulations apply to elections that are to tak
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+2023 amendment Act92A
+2023 amendment regulations92A
 address30A(1)
-clause80A(1)
-clause 577A(1)
+amendment day92D(1)
+authorised person22AA(1)
 commencement day30C(3)
 contact number3
 councillor election3
 declaration envelope54(3)
 destroy82(5)
 donor30A(1)
+election92B(1)
+election day92B(1)
 election package3
 election papers3
 elector67(1)
-electronic counting place75C(2)
+electronic counting place3, 75C(1A)
 electronic counting system3
 enrolment details40(3)
+first-preference vote3
 form3
 gift30A(1)
+original extension87I(2)
 owners and occupiers register3
 polling day73(2)
 postal voters register3, 40(1)
+pre-21 October election92B(1)
+pre-existing vacancy92D(1)
+preference vote3
 principal office election3
 publish30I(2)
 reasons30F(3)
+recipient22AA(1)
+relevant candidates75G(2), 75H(2), 75I(2), 75J(2), 75K(2), 75L(2), 75M(2), 75N(2), 75O(2), 75P(2), 75Q(2), 75R(2), 75S(2), 75T(2)
+relevant period22AA(1), (8) and (9), 87G(1), 87H(1), 87I(1)
 RO3
 section3
 secure paper destruction company82(5)
-tied candidates77A(1)
-tied councillors80A(1)
+steps for drawing lots75E(1)
+supplied copy22AA(1)
+vacancy day87A(2)
+votes3
 voting paper45(7)
 Western Australian Electoral Commission3
+working day22AA(1), 87B(2)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

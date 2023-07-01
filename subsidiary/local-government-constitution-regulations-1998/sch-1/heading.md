@@ -80,7 +80,7 @@ An “elector” is one of the following —
 ·an owner of rateable property (e.g. an absentee land owner or an owner of business premises, vacant land or other non-residential property);
 ·an occupier of rateable property (e.g. tenant of business premises or other non-residential property).
 An “affected elector” is an elector whose eligibility as an elector comes from residence, or ownership or occupation of property, in the area directly affected by the submission.
-Form 4.Proposal to change the method of filling the office of mayor or president [r. 11]
+Form 4.Proposal to change the method of filling the office of mayor or president [r. 10AD]
 Local Government Act 1995
 Local Government (Constitution) Regulations 1998
 Proposal to change the method of filling the office of mayor or president
@@ -109,6 +109,7 @@ An elector is one of the following —
 ·a resident owner or occupier enrolled to vote at State elections;
 ·an owner of rateable property (e.g. an absentee land owner or an owner of business premises, vacant land or other non-residential property);
 ·an occupier of rateable property (e.g. tenant of business premises or other non-residential property).
+[Form 4 amended: SL 2023/102 r. 21.]
 [Forms 5 and 6 deleted: Gazette 20 Jan 2006 p. 381.]
 Form 7.Declaration by elected member of council[r. 13(1)(c)]
 Local Government Act 1995

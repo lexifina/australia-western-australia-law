@@ -32,10 +32,13 @@ Local Government (Model Code of Conduct) Regulations 2021 r. 5 | SL 2021/15 2 Fe
 Local Government Amendment (Employee Code of Conduct) Regulations 2021 Pt. 2 | SL 2021/16 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Local Government Regulations Amendment Regulations 2022 Pt. 2 (other than Div. 3) | SL 2022/177 2 Nov 2022 | 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
 Local Government (Administration) Amendment Regulations 2022 | SL 2022/185 8 Nov 2022 | r. 1 and 2: 8 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Nov 2022 (see r. 2(b))
+Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 2 (other than r. 7) | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
+Local Government Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/106 30 Jun 2023 | 1 Jul 2023 (see r. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Local Government Regulations Amendment Regulations 2022 Pt. 2 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
+Local Government Regulations Amendment Regulations (No. 2) 2023 r. 7 | SL 2023/102 30 Jun 2023 | 1 Jan 2024 (see r. 2(b))
 Other notes
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
@@ -49,8 +52,7 @@ adopted standards18FB(1), 18FC(1)
 annual return29C(1)
 applicantSch. 2 cl. 2(1)
 associated person19AA
-Band 3 or 4 council or committee14E(1)
-Band 3 or 4 local government14E(1)
+class 3 or 4 council or committee14E(1)
 client or adviser20(1)
 code of conduct3(1), 19AA
 commencement day28B(1), Sch. 2 cl. 13(1)
@@ -65,6 +67,7 @@ former record of disclosures 28B(1)
 former regulation 19C19DB(1)
 former regulation 19D19DB(1)
 gift19AA
+income statement19BB(1)
 incumbent CEOSch. 2 cl. 13(2)
 independent personSch. 2 cl. 8(1)
 interest19AA
@@ -72,9 +75,12 @@ job description formSch. 2 cl. 2(1)
 local governmentSch. 2 cl. 2(1)
 local government employee19AA, 19AB(1), 19AC(1)
 local law as to conduct34D(1)
+major land transaction19BC(1)
+major trading undertaking19BB(1)
 meeting14C(1), 14CA(1), 14D(1)
 meeting details12(1)
 natural disaster14C(1)
+nature classification19BC(1)
 negotiated contractSch. 2 cl. 12(1)
 oversight entity29C(1)
 performance issuesSch. 2 cl. 22(2)
@@ -86,11 +92,19 @@ public health emergency3(1)
 relevant period14C(1), 14D(1), 34AE(1)
 relevant person3(1)
 remuneration19B(1)
+renew19BE(1)
+replace19BE(1)
 resources of the local government19AE(1)
 Schedule3(1)
 section3(1)
 selection criteriaSch. 2 cl. 2(1)
 selection panelSch. 2 cl. 2(1)
+statement of financial position19BB(1)
 state of emergency3(1)
 strategic community plan19BA
 threshold amount19AA
+trading undertaking19BB(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

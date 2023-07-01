@@ -10,13 +10,28 @@ Local Government (Constitution) Amendment Regulations 2007 | 21 Aug 2007 p. 4183
 Local Government (Constitution) Amendment Regulations 2009 | 28 Aug 2009 p. 3371-72 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2009 (see r. 2(b) and Gazette 28 Aug 2009 p. 3347)
 Local Government (Constitution) Amendment Regulations 2014 | 12 Dec 2014 p. 4733-7 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Local Government (Model Code of Conduct) Regulations 2021 r. 7 | SL 2021/15 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
+Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 3 | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-authorised person13(5)
+amendment day10AC(1), 10AF(1), 14A(1)
+authorised person12(5)
+class 1 local government2A
+class 2 local government2A
+class 3 local government2A
+class 3 or 4 district10AA
+class 4 local government2A
 commencement5(1), 6(1), 7(1)
-election10A
+election10AF(4)
+first-preference vote10A
 Form2
 former provisions14(2)
+next election10AC(1)
+next election day10AC(1)
 records of the election10A
+relevant local government10AF(1)
 section2
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

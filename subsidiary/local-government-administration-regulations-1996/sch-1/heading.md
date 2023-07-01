@@ -5,7 +5,7 @@ Local Government Act 1995
 Local Government (Administration) Regulations 1996
 REQUEST FOR A SPECIAL MEETING OF ELECTORS
 TO: The (1) Mayor/President of (2) ..........................................................................
-1.Under section 5.28 of the Local Government Act 1995, the electors of (3) ........................................... whose names, addresses and signatures are set out in the attached list and who comprise (1) 100 electors/5% of the number of electors request that a special meeting of the electors of the district be held.
+1.Under section 5.28 of the Local Government Act 1995, the electors of (3) ........................................... whose names, addresses and signatures are set out in the attached list and who comprise (1) 300 electors/5% of the number of electors request that a special meeting of the electors of the district be held.
 2. The details of the matter to be discussed at the special meeting are —
 ......................................................................................................................
 ......................................................................................................................
@@ -31,6 +31,7 @@ Full name of elector* | Address which entitles you to vote in the elections of t
 ·a resident owner or occupier enrolled to vote at State elections;
 ·an owner of rateable property (e.g. an absentee land owner or an owner of business premises, vacant land or other non-residential property);
 ·an occupier of rateable property (e.g. a tenant of business premises or other non-residential property).
+[Form 1 amended: SL 2023/102 r. 8.]
 Form 2
 [reg. 22]
 Local Government Act 1995
