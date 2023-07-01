@@ -27,11 +27,11 @@ Public Sector Reform Act 2010 s. 88 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 201
 Reprint 3: The Western Australian Land Authority Act 1992 as at 10 Dec 2010 (includes amendments listed above)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 34 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 7 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 10 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Government Trading Enterprises Act 2023 Pt. 12 Div. 10 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Public Sector Management Act 1994 s. 99 deleted by the Public Sector Reform Act 2010 s. 57.
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
@@ -76,57 +76,31 @@ The amendment in the State Superannuation Amendment Act 2007 s. 88 is not includ
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-account31(1)
-accounting standardSch. 3A cl. 1(2)
 acquire4(1)
-administrative policy requirement23E(1)
-alternate director4(1)
 Authority4(1)
-board4(1)
 business arrangement17(5)
-chairperson4(1)
-chief executive officer4(1)
 commencement daySch. 4 cl. 1
-committee4(1)
-community service obligation25A(3)
-companySch. 3A cl. 1(2)
-Corporations Act4(1)
 Crown land4(1)
 develop4(1)
-director4(1)
 dispose of4(1)
-document25(4)
-executive officer4(1)
-financial recordsSch. 3A cl. 1(2)
-financial yearSch. 3A cl. 1(1)
 former bodySch. 4 cl. 1
 function4(1)
+GTE Act4(1)
 industrial purposes4(1)
-information25(4)
-interest rate35A(2)
 Joondalup Centre16(2)
 land4(1)
 liabilities51(11)
 liabilitySch. 4 cl. 1
 management4(1)
-member of staff4(1)
 members of staff13A(3), 14B(4)
 Ministers51(11)
-near relativeSch. 1 cl. 1(1)
-new owner23B(1)
-notifiable interest8B(3)
-officerSch. 1A cl. 2(1)
 participate17(5)
 person17(5)
-prescribed daySch. 3A cl. 31(1)
 property51(11), Sch. 4 cl. 1
 public authority4(1)
-public service officer8A(2)
-regulationsSch. 3A cl. 1(1)
-repealed ActSch. 4 cl. 7(1), Sch. 4 cl. 9(1)
-subsidiary4(1)
-summary conviction penaltySch. 1A cl. 2(1), Sch. 3A cl. 30(3)
-third party23B(1)
-transaction17C
-Treasurer4(1)
-WADC51(9), 51(11)
+repealed ActSch. 4 cl. 7(1) and 9(1)
+WADC51(9) and (11)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

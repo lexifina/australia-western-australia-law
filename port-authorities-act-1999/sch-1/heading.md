@@ -11,3 +11,4 @@ Column 1 Item | Column 2 Name of port authority | Column 3 Port or ports
 7 | Pilbara Ports Authority | Port of Ashburton Port of Dampier Port of Port Hedland Port of Varanus Island
 8 | Kimberley Ports Authority | Port of Broome Port of Derby Port of Wyndham Port of Yampi Sound
 [Schedule 1 inserted: No. 9 of 2014 s. 30; amended: No. 9 of 2014 s. 31; No. 2 of 2019 s. 50(2)(d) and (3).]
+[Schedules 2-5 deleted: No. 13 of 2023 s. 243.]

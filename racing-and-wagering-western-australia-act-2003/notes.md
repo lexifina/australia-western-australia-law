@@ -20,11 +20,11 @@ Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2
 Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 2 and Div. 2 Subdiv. 3 | 37 of 2018 | 12 Dec 2018 | Pt. 8 Div. 1 Subdiv. 2: 1 Jan 2019 (see s. 2(c)); Pt. 8 Div. 2 Subdiv. 3: 1 Feb 2019 (see s. 2(b) and Gazette 25 Jan 2019 p. 193)
 Reprint 3: The Racing and Wagering Western Australia Act 2003 as at 3 May 2019 (includes amendments listed above)
 TAB (Disposal) Act 2019 Pt. 9 Div. 1 and 2 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(1)(c))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 6 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 Pt. 9 Div. 3 and 4 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
-Government Trading Enterprises Act 2023 Pt. 12 Div. 6 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The amendment in the State Superannuation Amendment Act 2007 s. 86 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment commenced.
 Defined terms
@@ -105,3 +105,7 @@ Treasurer3(1)
 trial3(1)
 wagering3(1)
 wagering licensee3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

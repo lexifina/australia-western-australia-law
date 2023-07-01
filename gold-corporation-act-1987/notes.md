@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gold Corporation Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Gold Corporation Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Gold Banking Corporation Act 1987 | 99 of 1987 | 18 Dec 1987 | s. 1 and 2: 18 Dec 1987; Sch. 3 cl. 1(1): 1 Jul 1987 (see Sch. 3 cl. 1(2)); Act other than s. 1 and 2 and Sch. 3 cl. 1(1): 30 Jun 1988 (see s. 2 and Gazette 30 Jun 1988 p. 2133)
@@ -29,11 +29,11 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 10 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 3 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 32 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 2 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Government Trading Enterprises Act 2023 Pt. 12 Div. 2 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Now known as the Western Australian Mint Act 1970, which is repealed by this Act.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
@@ -107,3 +107,7 @@ to produce74(6)
 Treasurer3(1)
 Treasury3(1)
 unestablished personSch. 2 cl. 1
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

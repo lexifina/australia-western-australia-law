@@ -1,12 +1,9 @@
 Notes
-This is a compilation of the Pilbara Port Assets (Disposal) Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Pilbara Port Assets (Disposal) Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pilbara Port Assets (Disposal) Act 2016 | 52 of 2016 | 13 Dec 2016 | 14 Dec 2016 (see s. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Government Trading Enterprises Act 2023 Pt. 12 Div. 4 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 4 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -69,3 +66,7 @@ transfer order3, 20(1)
 transfer time3
 transferee3, 20(1)
 transferor3, 20(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

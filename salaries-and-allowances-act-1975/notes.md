@@ -56,12 +56,12 @@ Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2
 Salaries and Allowances Amendment (Debt and Deficit Remediation) Act 2018 | 1 of 2018 | 27 Feb 2018 | s. 1 and 2: 27 Feb 2018 (see s. 2(a)); Act other than s. 1 and 2: 28 Feb 2018 (see s. 2(b))
 Reprint 6: The Salaries and Allowances Act 1975 as at 24 Aug 2018 (includes amendments listed above)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 s. 96 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 7 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 156 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Local Government Amendment Act 2023 Pt. 3 Div. 3 | 11 of 2023 | 18 May 2023 | To be proclaimed (see s. 2(d))
-Government Trading Enterprises Act 2023 Pt. 12 Div. 7 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
+Local Government Amendment Act 2023 Pt. 3 Div. 3 | 11 of 2023 | 18 May 2023 | 1 Jan 2024 (see s. 2(d) and SL 2023/92 cl. 2(b))
 Other notes
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
@@ -77,13 +77,15 @@ Defined termProvision(s)
 Chairman4(1)
 classification framework10D(1)
 commencement day10B
+director7D(1)
 elected council member7B(1)
 entity10F(1)
 executive officer7C(1), 10F(1)
 former office entitlement6C(1)
 fresh election6(5b)
-Government entity7C(1), 10F(3)
+Government entity7BA, 10F(3)
 Government Financial Projections Statement10A(1)
+GTE4(1)
 holding public office6C(1)
 member4(1)
 Minister of the Crown4(1)
@@ -92,3 +94,7 @@ remuneration4(1)
 Schedule 1 offence6C(1)
 section4(1)
 Tribunal4(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
