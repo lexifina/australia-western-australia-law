@@ -62,10 +62,10 @@ Short title | Number and year | Assent | Commencement
  | Education and Care Services National Law (WA) Amendment Act 2018 Pt. 3 | 18 of 2018 | 7 Sep 2018 | 1 Oct 2018 (see s. 2(b)(i))
  | National Disability Insurance Scheme (Worker Screening) Act 2020 Pt. 7 Div. 1 | 48 of 2020 | 9 Dec 2020 | 1 Feb 2021 (see s. 2(1)(b) and SL 2021/4 cl. 2)
  | Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 19 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+ | Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 2 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 2 | 47 of 2022 | 7 Dec 2022 | To be proclaimed (see s. 2(b))
 Criminal Law (Mental Impairment) Act 2023 s. 409 and 411 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -98,3 +98,7 @@ official criminal record28(1A)
 principal17(1)
 serious conviction9
 spent conviction3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
