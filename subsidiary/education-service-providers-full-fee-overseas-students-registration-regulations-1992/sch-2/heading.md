@@ -1,5 +1,6 @@
 ## Schedule 2
-[Reg. 5]
+[r. 5]
+[Heading amended: SL 2023/67 r. 5.]
 ## Exempted education service providers
 Aquinas College | Manning
 Aranmore Catholic College | Leederville

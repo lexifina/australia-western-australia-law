@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the School Curriculum and Standards Authority Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the School Curriculum and Standards Authority Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Curriculum Council Regulations 2005 | 23 Dec 2005 p. 6250-3 | 1 Jan 2006 (see r. 2)
@@ -14,9 +14,6 @@ School Curriculum and Standards Authority Amendment Regulations 2014 | 26 Aug 20
 School Curriculum and Standards Authority Amendment Regulations 2017 | 24 Nov 2017 p. 5672-3 | r. 1 and 2: 24 Nov 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2017 (see r. 2(b))
 School Curriculum and Standards Authority Amendment Regulations 2020 | SL 2020/233 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b) and SL 2020/232 cl. 2)
 Education and Training Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/61 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Education Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/67 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Pt. 2 (Cwlth). Now see the Australian Citizenship Act 2007 (Cwlth).
@@ -47,3 +44,7 @@ stage13
 student, apprentice or trainee6(1)
 supervisor13, 21(1)
 unique reference number13
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
