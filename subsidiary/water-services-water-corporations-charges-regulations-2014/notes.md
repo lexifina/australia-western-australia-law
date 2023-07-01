@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Services (Water Corporations Charges) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Water Services (Water Corporations Charges) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Water Services (Water Corporations Charges) Regulations 2014 | 25 Jun 2014 p. 2155-298 | r. 1 and 2: 25 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
@@ -23,9 +23,6 @@ Water Services (Water Corporations Charges) Amendment Regulations 2021 | SL 2021
 Water Services (Water Corporations Charges) Amendment Regulations (No. 2) 2021 | SL 2021/144 13 Aug 2021 | r. 1 and 2: 13 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2021 (see r. 2(b))
 Water Services (Water Corporations Charges) Amendment Regulations 2022 | SL 2022/2 18 Jan 2022 | r. 1 and 2: 18 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/77 cl. 2)
 Water Services Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/82 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Water Services Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/66 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.
@@ -35,18 +32,19 @@ The Metropolitan Water Authority Act 1982 is now known as the Metropolitan Arter
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+additional analysisSch. 7 cl. 11(1)
 aged home16(1)
 alienated land16(1)
 approved meter23(1)
-B.O.D.Sch. 4 cl. 30(1)
+B.O.D.Sch. 4 cl. 32(1)
 boundary volume16(1)
 caravan bay16(1)
 central business districts16(1)
 change of circumstances16(1)
 charge period3(1)
 charitable purposes16(1)
-c/kgSch. 4 cl. 30(1)
-c/kLSch. 4 cl. 30(1)
+c/kgSch. 4 cl. 32(1)
+c/kLSch. 4 cl. 32(1)
 combined charge42(1)
 commercial standpipe36A(1)
 Commonwealth seniors health card3(1)
@@ -54,7 +52,6 @@ community titles scheme16(1)
 concessional land16(1)
 concession card holder16(1)
 consumption year6, 11, 16(1)
-cost of samplingSch. 7 cl. 13(1)
 desalinated water16(1)
 development47(4)
 discharge factor16(1)
@@ -83,7 +80,7 @@ nursing home16(1)
 old provision55(1)
 park home16(1)
 permitted surcharge15A(1), 20(1)
-product evaluationSch. 7 cl. 13(1)
+product evaluationSch. 7 cl. 12(1)
 public land16(1)
 RBA Standard No. 3 of 201615A(1), 20(1)
 registered pensioner3(1)
@@ -97,8 +94,6 @@ scheme plan16(1)
 semi-rural residential property16(1)
 sewerage area16(1)
 sewerage charge16(1)
-shared grease arrestorSch. 4 cl. 8(1)
-single capital infrastructure charge16(1)
 special meter reading16(1)
 strata-titled caravan bay16(1)
 strata titles scheme16(1)
@@ -106,3 +101,7 @@ trade waste charge19(1)
 vacant land3(1)
 water deficiency declaration36A(1)
 water supply charge16(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
