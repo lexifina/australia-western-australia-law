@@ -11,9 +11,9 @@
  |  | DATED this day of 20 .
 (i)Signature of transferor (j)Signature of transferee (k)Signature of witness (include full name and address for witness to transferee) | TRANSFERORS sign here Signed (i) in the presence of (k) (name and address) Signed (i) in the presence of (k) (name and address) Signed (i) in the presence of (k) (name and address) | TRANSFEREES sign here Signed (j) in the presence of (k) (name and address) Signed (j) in the presence of (k) (name and address) Signed (j) in the presence of (k) (name and address)
  | LODGING PARTY (l)Full name and address (for return of documents) | (l)
- | OFFICIAL USE
- | Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
- | .................................................................... Mining Registrar
+OFFICIAL USE
+Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
+.................................................................... Mining Registrar
 Notes: 1. Where the stamp duty shown on the transfer is not in respect of the full amount of the consideration stated then the documents indicating the full stamp duty must accompany the transfer.
 2. If a mortgage is registered with the Department and will continue after the transfer, insert the required details.
 If no mortgage, or a mortgage is to be discharged prior to or on the transfer, insert “nil”.
