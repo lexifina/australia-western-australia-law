@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 | 30 Jul 1999 p. 3499-539 | 30 Jul 1999 (see r. 2)
@@ -42,9 +42,6 @@ Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 12 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 10 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Mutual Recognition) Regulations 2022 Pt. 3 | SL 2022/121 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 10 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
@@ -104,3 +101,7 @@ supervising gas fitter3(1)
 technical review panel31A
 Type B appliance3(1)
 valve3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Architects Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Architects Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Architects Regulations 2005 | 15 Nov 2005 p. 5608-19 | 16 Nov 2005 (see r. 2 and Gazette 15 Nov 2005 p. 5597)
@@ -13,9 +13,6 @@ Architects Amendment Regulations 2021 | SL 2021/7 29 Jan 2021 | r. 1 and 2: 29 J
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Mutual Recognition) Regulations 2022 Pt. 2 | SL 2022/121 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -27,3 +24,7 @@ renewal year16C(4)
 return day3
 section3
 vote11(2)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

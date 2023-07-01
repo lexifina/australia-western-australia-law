@@ -52,11 +52,11 @@ Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 4 |
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 15 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 5 | SL 2022/115 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2022 Pt. 1-3 | SL 2022/163 23 Sep 2022 | Pt. 1: 23 Sep 2022 (see r. 2(a); Pt. 2: 1 Oct 2022 (see r. 2(b)); Pt. 3 1 May 2023 (see r. 2(c))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 15 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2022 (other than Pt. 1-3) | SL 2022/163 23 Sep 2022 | 1 May 2024 (see r. 2(d))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 15 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
@@ -183,3 +183,7 @@ water services works of a water services provider3(1)
 water supply plumbing3(1)
 water supply plumbing work3(1)
 working day3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

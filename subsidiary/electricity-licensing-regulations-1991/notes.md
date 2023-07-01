@@ -60,11 +60,11 @@ Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 |
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 8 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 4 | SL 2022/115 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Electricity (Licensing) Amendment Regulations 2023 (other than r. 4(2)) | SL 2023/30 6 Apr 2023 | r. 1 and 2: 6 Apr 2023 (see r. 2(a)); Regulations other than r. 1, 2 and 4(2): 7 Apr 2023 (see r. 2(c))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Electricity (Licensing) Amendment Regulations 2023 r. 4(2) | SL 2023/30 6 Apr 2023 | 1 Aug 2023 (see r. 2(b))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
@@ -154,3 +154,7 @@ supervising electrical worker49C(1), 50(3)
 temporary builders supply52B(4A)
 transportable structure3(1)
 working days3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
