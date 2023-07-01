@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Administration Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Land Administration Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Land Administration Regulations 1998 | 27 Mar 1998 p. 1741-61 | 30 Mar 1998 (see r. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -42,10 +42,7 @@ Land Regulations Amendment (Geocentric Datum) Regulations 2020 Pt. 2 | SL 2020/6
 Land Administration Amendment Regulations 2021 | SL 2021/103 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Land Administration Amendment Regulations (No. 2) 2021 | SL 2021/189 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Land Administration Amendment Regulations 2022 | SL 2022/90 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Land Administration Amendment Regulations 2023 r. 3 and 4 | SL 2023/61 2 Jun 2023 | 1 Jul 2023 (see r. 2(b))
+Land Administration Amendment Regulations 2023 | SL 2023/61 2 Jun 2023 | r. 1 and 2: 2 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
@@ -73,3 +70,7 @@ survey18
 survey mark3(1)
 surveyor at fault20(2)
 telecommunications network3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
