@@ -32,13 +32,14 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 201
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2019 | 14 Jun 2019 p. 1900-1 | bl. 1 and 2: 14 Jun 2019 (see bl. 2(a)); By-laws other than bl. 1 and 2: 2 Jul 2019 (see bl. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2021 | SL 2021/179 5 Nov 2021 | bl. 1 and 2: 5 Nov 2021 (see bl. 2(a)); By-laws other than bl. 1 and 2: 6 Nov 2021 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2022 | SL 2022/140 5 Aug 2022 | bl. 1 and 2: 5 Aug 2022 (see bl. 2(a)); By-laws other than bl. 1 and 2: 6 Aug 2022 (see bl. 2(b))
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2023 | SL 2023/83 30 Jun 2023 | bl. 1 and 2: 30 Jun 2023 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2023 (see bl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
-Health Services Act 2016 s. 307(j) assented to 26 May 2016 | To be proclaimed (see s. 2(b))
 Queen Elizabeth II Medical Centre Act 1966 s. 22 (as amended by Act No. 2023/1 s. 97) | To be proclaimed (see s. 2(b))
 Other notes
 Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+The Health Services Act 2016 s. 307(j) had not come into operation when it was deleted by the Health Services Amendment Act 2023 s. 85.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -73,3 +74,7 @@ ticket3(1)
 ticket parking area26AA(1)
 ticket vending machine3(1)
 vehicle3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
