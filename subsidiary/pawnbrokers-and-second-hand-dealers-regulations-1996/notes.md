@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Pawnbrokers and Second-hand Dealers Regulations 1996 | 29 Mar 1996 p. 1557-76 | 1 Apr 1996 (see r. 2)
@@ -45,9 +45,6 @@ Pawnbrokers and Second-hand Dealers Amendment Regulations 2020 | SL 2020/147 1 S
 Police Regulations Amendment (Procurement) Regulations 2020 Pt. 3 | SL 2020/248 18 Dec 2020 | 1 Jun 2021 (see r. 2(b) and SL 2020/244 cl. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/106 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/65 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/74 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -67,3 +64,7 @@ State agency3
 telephone utility3
 traded goods5(2)
 transaction card13A(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

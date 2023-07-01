@@ -1,10 +1,10 @@
 ## Schedule 1 — Fees
 [r. 4(1)]
-[Heading inserted: SL 2022/65 r. 9.]
+[Heading inserted: SL 2023/74 r. 9.]
  | Purpose | Fee
 1. | Copy of traffic infringement notice record | $31.60
-2. | Escorts and guards — each person provided per hour and part of an hour for high risk escorts carried out by TRG | $151.30
-3. | Authorised copy of a photograph | $11.20
+2. | Escorts and guards — each person provided per hour and part of an hour for high risk escorts carried out by TRG | $158.00
+3. | Authorised copy of a photograph | $11.55
 4. | National criminal history record check —
  | (a)issued to a volunteer organisation | $17.00
  | (b)issued to a public sector body | $34.50
@@ -16,4 +16,4 @@
 8. | Replacement of prosecution documents —
  | (a)a statement of the material facts of a charge, which has already been served (per hour or part of an hour) | $98.00
  | (b)additional copy of documents already disclosed (per hour or part of an hour) | $98.00
-[Schedule 1 inserted: SL 2022/65 r. 9.]
+[Schedule 1 inserted: SL 2023/74 r. 9.]
