@@ -14,3 +14,8 @@ Health (Notifications by Midwives) Amendment Regulations 2017 | 16 May 2017 p. 2
 Reprint 2: The Health (Notifications by Midwives) Regulations 1994 as at 22 Sep 2017 (includes amendments listed above)
 Health (Notifications by Midwives) Amendment Regulations 2019 | 14 Jun 2019 p. 1894-6 | r. 1 and 2: 14 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Health (Notifications by Midwives) Amendment Regulations 2021 | SL 2021/62 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
+Health (Notifications by Midwives) Amendment Regulations 2023 | SL 2023/104 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
