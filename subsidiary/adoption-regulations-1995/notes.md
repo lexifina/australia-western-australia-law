@@ -22,6 +22,7 @@ Child Protection Regulations Amendment (Fees and Payments) Regulations 2017 Pt. 
 Child Protection Regulations Amendment (Fees) Regulations 2018 Pt. 2 | 22 Jun 2018 p. 2177-8 | 1 Jul 2018 (see r. 2(b))
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2019 Pt. 2 | 28 Jun 2019 p. 2477-9 | 1 Jul 2019 (see r. 2(b))
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2022 Pt. 2 | SL 2022/87 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Child Protection Regulations Amendment (Fees and Payments) Regulations 2023 Pt. 2 | SL 2023/93 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 Repealed by the Adoption Act 1994.
 Repealed by the Adoption Rules 1995.
@@ -40,3 +41,7 @@ overseas jurisdiction86A
 principal officer5, 23A
 service59
 the Act3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
