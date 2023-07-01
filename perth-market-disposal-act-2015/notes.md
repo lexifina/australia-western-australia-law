@@ -1,12 +1,9 @@
 Notes
-This is a compilation of the Perth Market (Disposal) Act 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Perth Market (Disposal) Act 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Perth Market (Disposal) Act 2015 | 40 of 2015 | 8 Dec 2015 | Act other than Pt. 6 Div. 2 and Pt. 7: 8 Dec 2015 (see s. 2(1)); Pt. 6 Div. 2 and Pt. 7: 31 Mar 2016 ( see s. 2(2) and Gazette 31 Mar 2016 p. 969)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Government Trading Enterprises Act 2023 Pt. 12 Div. 3 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 3 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -50,3 +47,7 @@ transfer time3
 transferee3, 21(2)
 transferor3, 21(2)
 transitional matter52(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

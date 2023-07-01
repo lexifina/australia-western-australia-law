@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Corporations Act 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Water Corporations Act 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Corporation Act 1995 | 70 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -29,10 +29,7 @@ Water Services Legislation Amendment and Repeal Act 2012 Pt. 7 | 25 of 2012 | 3 
 Reprint 4: The Water Corporations Act 1995 as at 7 Feb 2014 (includes amendments listed above)
 Associations Incorporation Act 2015 s. 231 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 6 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Government Trading Enterprises Act 2023 Pt. 12 Div. 9 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 9 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Other notes
 Now known as the Plumbers Licensing Act 1995.
 Now known as the Water Corporations Act 1995; short title changed (see note under s. 1).
@@ -42,64 +39,40 @@ The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain tra
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accounting standardSch. 3 cl. 1(2)
 amended ActSch. 5 cl. 1
 arrangement36(2)
 bankSch. 5 cl. 17(1)
-board3(1)
 Bunbury Water BoardSch. 5 cl. 1
 Bunbury Water Corporation3(1)
 business arrangement29(5)
 Busselton Water BoardSch. 5 cl. 1
 Busselton Water Corporation3(1)
-chief executive officer3(1)
 commencement daySch. 5 cl. 1
-community service obligations52(4)
-companySch. 3 cl. 1(2)
 corporation3(1), Sch. 5 cl. 1
-Corporations Act3(1)
-debt paper80(4)
-director3(1), Sch. 1 cl. 1
-document68(5)
-executive officer3(1)
-financial recordsSch. 3 cl. 1(2)
-financial yearSch. 3 cl. 1(1)
 former BoardSch. 5 cl. 1
 former licenceSch. 5 cl. 6(1)
-former member of staff23(1)
 former water authority92(1)
 function3(1)
-information68(5)
-interest rate82(2)
-latest draft plan46(2)
-latest draft statement55(2)
+GTE Act3(1)
 management16(2)
-member of staff3(1), 23(1)
 members of staff 19(3), 24(4)
 new provisionSch. 5 cl. 20(2)
-notifiable interestSch. 2 cl. 12(1A)
 old provisionSch. 5 cl. 20(2)
-operating area7(3A)
+operating area7(1)
 order92(1)
 participate29(5)
-paySch. 2 cl. 15(6)
-prescribed daySch. 3 cl. 35(1)
 PSM ActSch. 5 cl. 8(1)
-public service officer11(2)
-regional water corporation7(3A)
-regulationsSch. 3 cl. 1(1)
-relativeSch. 2 cl. 14(3)
+regional water corporation7(1)
 relevant corporationSch. 5 cl. 1
 relevant official92(1)
 repealed ActSch. 5 cl. 1
-second party38(1)
 specified7A(3)
-subsidiary3(1)
 surplus water27(7)
-third party38(1)
-transaction32(5)
-Treasurer3(1)
 wastewater27(7)
 Water Corporation3(1)
 water service3(1)
 Water Services Act3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

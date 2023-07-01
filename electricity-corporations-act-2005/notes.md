@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Corporations Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Electricity Corporations Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Corporations Act 2005 | 18 of 2005 | 13 Oct 2005 | Pt. 1, s. 141, 142, 144-152, 153(1) and 179: 13 Oct 2005 (see s. 2(1)); Pt. 2-8, s. 143, 153(2)-(4), 154-178, 180-192, Sch. 1-4 and Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153); Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
@@ -19,13 +19,9 @@ Reprint 3: The Electricity Corporations Act 2005 as at 7 Jun 2019 (includes amen
 Electricity Industry Amendment Act 2020 s. 30 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 4 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Swan Valley Planning Act 2020 Pt. 10 Div. 2 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Government Trading Enterprises Act 2023 Pt. 12 Div. 1 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 1 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Other notes
 Deleted by the Public Sector Reform Act 2010 s. 57.
-Deleted by the Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 r. 5 and 6.
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
 The amendment in the State Superannuation Amendment Act 2007 s. 81 is not included because it was deleted by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
@@ -33,7 +29,6 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 1994 Act142(1)
-accounting standardSch. 4 cl. 1(2)
 acquire34(1)
 agreement218(1)
 amending Act194
@@ -41,29 +36,18 @@ ancillary services34(1)
 annual reporting provisions210(1), 211(1)
 approved instrument39(1)
 area of operations52(1)
-arrangement75(3)(a)
+arrangement75(3)
 asset142(1), 194
-bank121(2)
-board3(1)
 business arrangement59(1)
-chief executive officer3(1)
 commencement day142(1)
-community service obligations99(1)
-companySch. 4 cl. 1(2)
 continuing corporation194
 corporation3(1), 35, 41, 50, 60(1), 80, 114(1)
 corporation or corporations previously concerned161(1), 164(2)
-Corporations Act3(1)
 customer54(1)
 daily amount39(4), 63A(4)
-debt paper127(1)
-declared matters53(2)(a)
-director3(1), Sch. 1 cl. 1
-disposal order67(2)
-dispose of67(1)
+declared matters53(2)
 distribution licence54(1)
 dividend function214(1)
-document116(1)
 Economic Regulation Authority3(1)
 EGRC194
 electricity3(1)
@@ -72,25 +56,18 @@ Electricity Generation and Retail Corporation3(1)
 Electricity Networks Corporation3(1)
 electricity transmission system60(1)
 energy efficient technologies34(1)
-executive officer3(1)
-financial recordsSch. 4 cl. 1(2)
-financial yearSch. 4 cl. 1(1)
 former name218(1)
 function3(1)
 gas3(1)
 Gas Corporation assignee175(1)
 Government agreement152(1), 194
-information116(1)
+GTE Act3(1)
 instrument187(1)
 integrated regional licence54(1)
-interest rate129(2)
 last financial year210(6), 211(2)
 last quarter210(4)
-latest draft plan93(1)
-latest draft statement102(1)
 liability142(1), 192(3), 194, 219(1)
 management21(2)
-member of staff3(1)
 members of staff26(1), 31(1)
 merger194
 merger provisions194
@@ -98,48 +75,37 @@ merger time194
 merging corporation194
 new corporation142(1)
 new name218(1)
-non-executive director3(1)
-notifiable interestSch. 2 cl. 12(1)
-original guarantee174(2)(a)
+original guarantee174(2)
 participate59(1)
-paySch. 2 cl. 15(6)
 prescribed contract80
 prescribed customer54(1)
-prescribed daySch. 4 cl. 32(1)
 principal Act142(1)
-public service officer12(1)
 quarter210(1)
 records142(1)
 Regional Power Corporation3(1)
-regulationsSch. 4 cl. 1(1)
-relativeSch. 2 cl. 14(1)
 relevant act216(1)
 relevant new corporation187(1)
 relevant officials178(1), 205(1)
 relevant person219(1)
-remuneration15A(1), 15B(1)
 renewable sources34(1)
 right142(1), 194
-second party77(1)
 segregation arrangements62(1), 63A(1)
 services54(1)
-significant asset67(1)
-solvent127B(1)
 South West interconnected system3(1)
 specified39(1), 54(6), 63A(1), 80, 114(1)
 specified day164(2), 166(1)
 State tax177(1), 204(1)
-subsidiary3(1)
 tariff customer181(1)
 telecommunication services34(1)
 terms and conditions39(1)
-third party77(1)
-transaction68(1)
 transfer order142(1)
 transitional regulations194, 221(1)
-Treasurer3(1)
 Treasury officer137(1)
 unallocated asset or liability53(1)
 Western Power Corporation142(1)
 wholesale arrangements38(1), 39(1)
-wholesale products38(1)(b), 39(1)
+wholesale products38(1), 39(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

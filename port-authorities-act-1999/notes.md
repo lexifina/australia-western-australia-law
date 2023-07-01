@@ -26,11 +26,11 @@ Reprint 3: The Port Authorities Act 1999 as at 7 Sep 2012 (includes amendments l
 Ports Legislation Amendment Act 2014 | 9 of 2014 | 20 May 2014 | Heading to Pt. 2, s. 3, 4(3), 5(1), 7(1), 10, 28(1), 29, 30, 32 and 35: 21 May 2014 (see s. 2(1)(b)); s. 4(1) and (2), 6, 7(2), 8, 9, 11-27 and 33: 31 May 2014 (see s. 2(1)(c) and Gazette 30 May 2014 p. 1680): s. 4(4), 5(2), 28(2), 31(2)-(4), 34 and 36: 1 July 2014 (see s. 2(1)(c) and (2) and Gazette 20 Jun 2014 p. 2023); s. 31(1): 1 Oct 2014 (see s. 2(1)(c) and Gazette 19 Sep 2014 p. 3329)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 4 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Ports Legislation Amendment Act 2019 Pt. 6 (other than s. 50(1) and (2)(a)-(c) and (e)) | 2 of 2019 | 26 Feb 2019 | Pt. 6 (other than s. 50): 27 Feb 2019 (see s. 2(b)); s. 50(2)(d) and (3): 1 Jul 2021 (see s. 2(e) and SL 2021/50 cl. 2)
+Government Trading Enterprises Act 2023 Pt. 12 Div. 5 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Ports Legislation Amendment Act 2019 s. 50(1) and (2)(a)-(c) and (e) | 2 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(e))
-Government Trading Enterprises Act 2023 Pt. 12 Div. 5 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
@@ -40,68 +40,51 @@ The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain vali
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-account79(1)
-accounting standardSch. 5 cl. 1(2)
-affecting provisionsSch. 8 cl. 45, 52(1)
+affecting provisionsSch. 8 cl. 45 and 52(1)
 agreementSch. 8 cl. 1
 Agreements MinisterSch. 8 cl. 53(1)
-amending ActSch. 8 cl. 1, 52(1)
-approved34A(1), 95(1)
+amending ActSch. 8 cl. 1 and 52(1)
+approved95(1)
 area24(3)
-assetSch. 8 cl. 1, 52(1)
+assetSch. 8 cl. 1 and 52(1)
 asset of the StateSch. 8 cl. 52(1)
 authorisationSch. 8 cl. 75(1)
 authorised officer114A(2)
 authorised person123
-board3(1)
 business arrangement35(9)
-CEO3(1)
 channel3(1)
 commencementSch. 8 cl. 44(1)
-companySch. 5 cl. 1(2)
-CompanySch. 6 cl. 1
-conditionSch. 8 cl. 64(1), 65(1)
+CompanySch. 6 cl. 1.2
+conditionSch. 8 cl. 64(1) and 65(1)
 consultation committee14A(1)
 continued licenceSch. 8 cl. 66(1)
-continuing authoritySch. 8 cl. 2, 23
+continuing authoritySch. 8 cl. 2 and 23
 control3(1)
-controlled areaSch. 8 cl. 64(1), 65(1)
+controlled areaSch. 8 cl. 64(1) and 65(1)
 converted licenceSch. 8 cl. 66(1)
-Corporations Act3(1)
 Crown land3(1)
 damage3(1)
-Dampier Solar Salt Industry AgreementSch. 6 cl. 1
+Dampier Solar Salt Industry AgreementSch. 6 cl. 1.2
 dangerous thing3(1)
-debt paper85(4)
 deputy harbour masterSch. 8 cl. 63(1)
-director3(1)
-dividend functionSch. 8 cl. 14(1), 35(1)
-document75(5)
+dividend functionSch. 8 cl. 14(1) and 35(1)
 eligible person102(1)
-executive officer3(1)
 existing certificateSch. 8 cl. 65(2)
 existing jettySch. 8 cl. 66(1)
 existing S&P Act portSch. 8 cl. 52(1)
-financial recordsSch. 5 cl. 1(2)
-financial yearSch. 5 cl. 1(1)
-former directorsSch. 8 cl. 13(1), 34(1)
-former nameSch. 8 cl. 11(1), 20(1), 32(1), 41(1)
+former directorsSch. 8 cl. 13(1) and 34(1)
+former nameSch. 8 cl. 11(1), 20(1), 32(1) and 41(1)
 goods3(1)
-Government34A(1)
-Government agreementSch. 8 cl. 1, 52(1), Sch. 9 cl. 1
+Government agreementSch. 8 cl. 1 and 52(1), Sch. 9 cl. 1
+GTE Act3(1)
 harbour master3(1), Sch. 8 cl. 63(1)
-hedging arrangement 87(3)
-information75(5)
-interest rate87(3)
-Iron Ore (Hamersley Range) AgreementSch. 6 cl. 1
+Iron Ore (Hamersley Range) AgreementSch. 6 cl. 1.2
 jetty3(1), Sch. 8 cl. 66(1)
 jetty licenceSch. 8 cl. 66(1)
-Joint VenturersSch. 6 cl. 1
+Joint VenturersSch. 6 cl. 1.2
 KPASch. 8 cl. 37
-last financial yearSch. 8 cl. 13(5), 34(5)
-latest draft plan54(2)
-latest draft statement63(2)
-liabilitySch. 8 cl. 1, 52(1)
+last financial yearSch. 8 cl. 13(5) and 34(5)
+liabilitySch. 8 cl. 1 and 52(1)
 liability of the StateSch. 8 cl. 52(1)
 licenceSch. 8 cl. 64(2)
 licenseeSch. 8 cl. 66(1)
@@ -110,27 +93,23 @@ Marine ActSch. 8 cl. 52(1)
 marine safety plan114(1)
 maritime structure3(1)
 master3(1)
-member of staff3(1)
 members of staff19(3), 21(4)
-mergerSch. 8 cl. 2, 23
-merger timeSch. 8 cl. 2, 23
-merging authoritySch. 8 cl. 2, 23
+mergerSch. 8 cl. 2 and 23
+merger timeSch. 8 cl. 2 and 23
+merging authoritySch. 8 cl. 2 and 23
 mooring3(1)
 movement3(1)
 MWPASch. 8 cl. 16
 navigational aid3(1)
-new boardSch. 8 cl. 2, 16, 23, 37, 45
-new nameSch. 8 cl. 11(1), 20(1), 32(1), 41(1)
-new owner46(1)
-North West Gas Development (Woodside) AgreementSch. 6 cl. 1
-notifiable interest12(3)
-officerSch. 3 cl. 2(1)
+new boardSch. 8 cl. 2, 16, 23, 37 and 45
+new nameSch. 8 cl. 11(1), 20(1), 32(1) and 41(1)
+North West Gas Development (Woodside) AgreementSch. 6 cl. 1.2
 owner3(1), 105(1)
 participate35(9)
-port3(1), Sch. 6 cl. 2, Sch. 8 cl. 53(1)
+port3(1), Sch. 6 cl. 2.8, Sch. 8 cl. 53(1)
 port activities3(1), 35(9)
 port additionSch. 9 cl. 1
-port authority3(1), 38(1), 123, Sch. 8 cl. 16, 37, 53(1)
+port authority3(1), 38(1), 123, Sch. 8 cl. 16, 37 and 53(1)
 port charges3(1), 115(1)
 port facilities3(1)
 port land3(1)
@@ -142,49 +121,44 @@ port transferSch. 8 cl. 52(1)
 port works3(1), 35(9)
 potential supplier3(1)
 PPASch. 8 cl. 23
-prescribed daySch. 5 cl. 34(1)
 prescribed thing113(1A)
-Public Bank Account79(1)
-public service officer11(2)
-regulationsSch. 5 cl. 1(1)
-relevant actSch. 8 cl. 10(1), 31(1)
+relevant actSch. 8 cl. 10(1) and 31(1)
 relevant officialSch. 8 cl. 52(1)
 relevant officialsSch. 8 cl. 45
-remuneration15A(1), 15B(1)
-renamingSch. 8 cl. 16, 37
-renaming timeSch. 8 cl. 16, 37
+renamingSch. 8 cl. 16 and 37
+renaming timeSch. 8 cl. 16 and 37
 renewSch. 8 cl. 52(1)
-reporting boardSch. 8 cl. 34(1)
 reporting board,Sch. 8 cl. 13(1)
-reporting provisionsSch. 8 cl. 13(1), 34(1)
+reporting boardSch. 8 cl. 34(1)
+reporting provisionsSch. 8 cl. 13(1) and 34(1)
 requirement under this ActSch. 8 cl. 52(1)
-rightSch. 8 cl. 1, 52(1)
-S&P Act certificateSch. 8 cl. 65(1)
-Salt CompanySch. 6 cl. 1
+rightSch. 8 cl. 1 and 52(1)
+Salt CompanySch. 6 cl. 1.2
 sell27(3)
 SPASch. 8 cl. 2
-State taxSch. 8 cl. 45, 68(1)
-subsidiary3(1)
-subsistingSch. 8 cl. 11(1), 32(1)
-third party46(1)
+S&P Act certificateSch. 8 cl. 65(1)
+State taxSch. 8 cl. 45 and 68(1)
+subsistingSch. 8 cl. 11(1) and 32(1)
 this SubdivisionSch. 8 cl. 53(2)
-transaction42
 transferSch. 8 cl. 52(1)
 transfer provisionSch. 8 cl. 52(1)
-transfer timeSch. 8 cl. 52(1)
 transferred assetsSch. 8 cl. 60(1)
 transferred liabilitiesSch. 8 cl. 60(1)
+transfer timeSch. 8 cl. 52(1)
 transitional approvalSch. 8 cl. 64(2)
 transitional certificateSch. 8 cl. 65(2)
 transitional orderSch. 8 cl. 52(1)
-transitional regulationsSch. 8 cl. 2, 15(1), 16, 22(1), 23, cl. 36(1), 37, 43(1),45, 52(1), 69(1)
+transitional regulationsSch. 8 cl. 2, 15(1), 16, 22(1), 23, 36(1), 37, 43(1), 45,
+52(1) and 69(1)
 Transport CEOSch. 8 cl. 52(1)
 Transport DepartmentSch. 8 cl. 52(1)
 Transport MinisterSch. 8 cl. 52(1)
-Treasurer3(1)
-Treasury Corporation87(3)
 unassigned portSch. 9 cl. 1
 under compulsory pilotage95(1)
 vessel3(1)
 vested3(1)
 vested land3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

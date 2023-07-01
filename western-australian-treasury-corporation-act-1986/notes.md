@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Treasury Corporation Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Western Australian Treasury Corporation Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Treasury Corporation Act 1986 | 16 of 1986 | 25 Jul 1986 | 1 Jul 1986 (see s. 2)
@@ -29,10 +29,7 @@ Co-operatives Act 2009 s. 511 and 518 | 24 of 2009 | 22 Oct 2009 | s. 511: 1 Sep
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 8 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Government Trading Enterprises Act 2023 Pt. 12 Div. 11 | 13 of 2023 | 22 Jun 2023 | To be proclaimed (see s. 2(b))
+Government Trading Enterprises Act 2023 Pt. 12 Div. 11 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Other notes
 The Western Australian Treasury Corporation Amendment Act 1992 s. 7(4) reads as follows:
 (4) Any agreement or arrangement entered into, or transaction effected, before the commencement of this section which would have been lawful and valid had —
@@ -110,3 +107,7 @@ the Corporation3(1)
 the repealed Act3(1)
 Treasury3(1)
 Under Treasurer3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
