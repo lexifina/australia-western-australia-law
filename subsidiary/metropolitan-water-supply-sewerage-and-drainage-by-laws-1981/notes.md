@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 | 22 Jan 1981 p. 165-384 (corrigendum 30 Jan 1981 p. 488) | 1 Mar 1981 (see bl. 1.0)
@@ -85,10 +85,7 @@ Water Agencies Amendment By-laws 2013 Pt. 6 | 19 Jun 2013 p. 2333-46 | 1 Jul 201
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2013 | 14 Nov 2013 p. 5053-7 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2016 | 7 Jun 2016 p. 1782-7 | bl. 1 and 2: 7 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 8 Jun 2016 (see bl. 2(b))
 Water By-laws Amendment (Public Health) By-laws 2016 Pt. 3 | 10 Jan 2017 p. 233-5 | 24 Jan 2017 (see bl. 2(b) and Gazette 10 Jan 2017 p. 165)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2023 bl. 3-7 | SL 2023/54 19 May 2023 | 1 Jul 2023 (see bl. 2(b))
+Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2023 | SL 2023/54 19 May 2023 | bl. 1 and 2: 19 May 2023 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2023 (see bl. 2(b))
 Other notes
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
@@ -102,47 +99,51 @@ Nothing in these by-laws affects the application after 1 July 2008 of a by-law i
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Aboriginal customary purpose1
-Act1
-automotive business premises5
-bore1
-bulk liquid storage tank system5
-CALM Act land4
-CALM Act Minister4
-Corporation1
-Dangerous Goods Storage Regulations1
-designated camping site1
-diameter1
-domestic sewage1
-elevated storage tank system5
-establish5
-feeder1
-ground1
-ground storage tank system5
-hand-held tool4
-high-water mark1
-industrial waste1
-liquid waste1
-Noongar1
-observation well1
-owner5
-people1
-pesticides1
-petroleum product1
-plans5
-priority 1 source protection area5
-priority 2 source protection area5
-priority 3 source protection area5
-production well1
-registered Aboriginal site1
-size1
-South West Settlement Area1
-special provision catchment area1
-take4
-tank5
-underground storage or handling system1
-underground water1
-unpolluted water5
-wellhead5
-wellhead protection zone4, 5
-works1
+Aboriginal customary purpose1.1
+Act1.1
+automotive business premises5.6
+bore1.1
+bulk liquid storage tank system5.6
+CALM Act land4.11
+CALM Act Minister4.11
+Corporation1.1
+Dangerous Goods Storage Regulations1.1
+designated camping site1.1
+diameter1.1
+domestic sewage1.1
+elevated storage tank system5.6
+establish5.6
+feeder1.1
+ground1.1
+ground storage tank system5.6
+hand-held tool4.12
+high-water mark1.1
+industrial waste1.1
+liquid waste1.1
+Noongar1.1
+observation well1.1
+owner5.6
+people1.1
+pesticides1.1
+petroleum product1.1
+plans5.6
+priority 1 source protection area5.6
+priority 2 source protection area5.6
+priority 3 source protection area5.6
+production well1.1
+registered Aboriginal place1.1
+size1.1
+South West Settlement Area1.1
+special provision catchment area1.1
+take4.12
+tank5.6
+underground storage or handling system1.1
+underground water1.1
+unpolluted water5.6
+wellhead5.6
+wellhead protection zone4.11, 5.6
+works1.1
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
