@@ -32,11 +32,11 @@ Road Traffic (Authorisation to Drive) Amendment Regulations 2022 | SL 2022/147 2
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2022 | SL 2022/148 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2022 (other than Pt. 3) | SL 2022/179 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
 Transport Regulations Amendment (Fee Waiver and Refund) Regulations 2022 Pt. 2 | SL 2022/181 4 Nov 2022 | 5 Nov 2022 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2022 Pt. 3 | SL 2022/179 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
-Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -124,3 +124,7 @@ trailer3
 transition day93(1)
 trigger69A
 working day27(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

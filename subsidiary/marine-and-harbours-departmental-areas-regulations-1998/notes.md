@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Marine and Harbours (Departmental Areas) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Marine and Harbours (Departmental Areas) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
  | Marine and Harbours (Departmental Areas) Regulations 1998 | 17 Jul 1998 p. 3800-3 | 17 Jul 1998
@@ -11,10 +11,7 @@ Citation | Published | Commencement
  | Transport Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 2 | SL 2020/60 22 May 2020 | 1 Jul 2020 (see r. 2(b))
  | Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/68 4 Jun 2021 | 1 Jul 2021 (see r. 2(b), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
  | Transport Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/56 20 May 2022 | 1 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
+ | Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,3 +23,7 @@ jetty2(1)
 non-motorized vehicle2(1)
 park2(1)
 vehicle2(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -152,9 +152,6 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 2
 Navigable Waters Amendment Regulations 2021 | SL 2021/161 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2021 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/56 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Navigable Waters Amendment Regulations 2022 | SL 2022/137 29 Jul 2022 | r. 1 and 2: 29 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Other notes
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
@@ -223,3 +220,7 @@ vessel18A(1), 19(1), 21
 water skier46(2)
 water ski-ing46(2)
 wave jumping50A(4)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
