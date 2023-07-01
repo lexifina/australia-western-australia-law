@@ -22,12 +22,12 @@ Petroleum Amendment Act 2007 s. 89 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Reprint 4: The Aboriginal Heritage Act 1972 as at 7 Mar 2008 (includes amendments listed above)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 3 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Water Services Legislation Amendment and Repeal Act 2012 s. 203 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Aboriginal Cultural Heritage Act 2021 Pt. 15 (other than Div. 3) | 27 of 2021 | 22 Dec 2021 | 23 Dec 2021 (see s. 2(b))
+Aboriginal Cultural Heritage Act 2021 Pt. 15 | 27 of 2021 | 22 Dec 2021 | Pt. 15 (other than Div. 3): 23 Dec 2021 (see s. 2(b)); Pt. 15 Div. 3: 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 2 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Aboriginal Cultural Heritage Act 2021 s. 310 and Pt. 15 Div. 3 | 27 of 2021 | 22 Dec 2021 | Pt. 15 Div. 3: 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b)); s. 310: 1 Jan 2024 (see s. 2(d))
+Aboriginal Cultural Heritage Act 2021 s. 310 | 27 of 2021 | 22 Dec 2021 | 1 Jan 2024 (see s. 2(d))
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Aboriginal Heritage Amendment Act 1995 s. 19(2), (3) and (4) read as follows:
@@ -42,7 +42,7 @@ The Aboriginal Heritage Amendment Act 1995 s. 51(2) and (3) read as follows:
 (3) On the commencement of the Aboriginal Heritage Amendment Act 1995 the Trustees (as the accountable authority within the meaning in the Financial Administration and Audit Act 1985) are to report in respect of the Aboriginal Material Preservation Fund, as opened and kept under Part VIII of the principal Act prior to its amendment by this Act, as required by section 66 of that Act, for the period from the preceding 1 July to the time of the commencement, and Division 14 of Part II of the Financial Administration and Audit Act 1985 applies as if that period were a full financial year.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 1 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 1 had not come into operation when it was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -67,3 +67,7 @@ the Trustees4
 traditional custodian4
 transitional period18(6A)
 transition day4
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

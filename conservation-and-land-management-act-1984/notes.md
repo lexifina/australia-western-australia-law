@@ -63,12 +63,12 @@ Compilation table
 Conservation and Land Management Amendment Act 2015 Pt. 2 | 28 of 2015 | 19 Oct 2015 | s. 3, 50, 52, 55 to 58, 60 and 61: 12 Dec 2015 (see s. 2(b) and Gazette 11 Dec 2015 p. 4953); s. 4-49, 51, 53, 54, 59 and 62-71: 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 Biodiversity Conservation Act 2016 Pt. 17 Div. 1 | 24 of 2016 | 21 Sep 2016 | Pt. 17 Div. 1 (other than s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309): 3 Dec 2016 (see s. 2(b) and Gazette 2 Dec 2016 p. 5382); s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309: 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Reprint 9: The Conservation and Land Management Act 1984 as at 6 Jan 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309)
+Aboriginal Cultural Heritage Act 2021 s. 343 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Conservation and Land Management Amendment Act 2022 | 27 of 2022 | 31 Aug 2022 | s. 1 and 2: 31 Aug 2022 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2022 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 3 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Aboriginal Cultural Heritage Act 2021 s. 343 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 2 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
@@ -220,6 +220,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Aboriginal3
+Aboriginal cultural heritage59(3A)
 Aboriginal customary purpose103A(1)
 Aboriginal person3
 agency23(1)
@@ -294,6 +295,7 @@ land to which this Act applies3
 land to which this Part applies102(1), 102(1A)
 lease13E(1)
 licence13E(1), 87(1)
+located59(3A)
 managed land103A(1)
 management plan3
 Marine Authority157
@@ -363,7 +365,7 @@ special purpose area13B(1A)
 staff25(4)
 State forest3
 State forests128(2)
-take33(7A), 101A, 103A(1), 103A(1)
+take33(7A), 101A, 103A(1)
 timber3
 timber reserve3
 transitional matter168(1)
@@ -377,3 +379,7 @@ vested7(1A), 8AA(1)
 Western Australian waters13(8)
 Western Australian Wildlife Authority145
 wildlife officer3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
