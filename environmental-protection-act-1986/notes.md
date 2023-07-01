@@ -63,17 +63,17 @@ Community Titles Act 2018 Pt. 14 Div. 8 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021
 Environmental Protection Amendment Act 2020 Pt. 2 (other than s 4(2), (4), (6) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112) | 40 of 2020 | 19 Nov 2020 | s. 3, 5-8, 10, 13, 14, 24, 32, 35, 36, 37(1), 58, 73-76, 80-82, 93, 94, 96, 99, 101, 106(4)-(6), 107, 108(1)-(6) and (8)-(11), 110(4)-(6) and 111: 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2); s. 4(1), (3), (5) and (7)-(9), 9, 11, 12, 15-23, 25-31, 33, 37(2), 38-41, 43-57, 61, 62, 64, 69, 70, 77-79, 84, 85, 88(2), 89-91, 95, 97, 100, 102, 103, 106(1) and (2), 109 and 110(1) and (3): 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
 Environmental Protection Amendment Act (No. 2) 2020 s. 4 | 41 of 2020 | 19 Nov 2020 | 3 Feb 2021 (see s. 2(1)(b) and SL 2021/12 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 3 (other than s. 103) | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
+Aboriginal Cultural Heritage Act 2021 s. 348 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 24 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Planning and Development Amendment Act 2020 Pt. 6 Div. 2 and Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | To be proclaimed (see s 2(1)(b))
+Planning and Development Amendment Act 2020 Pt. 6 Div. 2 and Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | Pt. 6 Div. 2: 1 Aug 2023 (see s. 2(1)(b) and SL 2023/107 cl. 2); Pt. 7 Div. 2: to be proclaimed (see s 2(1)(b))
 Environmental Protection Amendment Act 2020 s 4(2), (4), (6) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 4(6): on the later of either the day on which the Planning and Development Amendment Act 2020 s. 64 comes into operation or immediately after s. 4(2) comes into operation (see s. 2(1)(b)); s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
 Swan Valley Planning Act 2020 s. 103 | 45 of 2020 | 9 Dec 2020 | Immediately after the Planning and Development Amendment Act 2020 s. 56 comes into operation (see s. 2(1)(c)(ii))
-Aboriginal Cultural Heritage Act 2021 s. 348 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 4 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
@@ -128,6 +128,7 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
+The Planning and Development Amendment Act 2020 s. 71 will not come into operation because the definition it sought to amend was deleted by the Environmental Protection Amendment Act 2020 s. 55(1)(b).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -365,3 +366,7 @@ waters3(1)
 Western Australian Planning Commission3(1)
 wetland70(1), Sch. 5 cl. 2
 works approval3(1), 133F(1), 133I(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

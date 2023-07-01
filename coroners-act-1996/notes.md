@@ -29,12 +29,12 @@ Declared Places (Mentally Impaired Accused) Act 2015 s. 83 | 4 of 2015 | 3 Mar 2
 Coroners Amendment Act 2018 | 23 of 2018 | 21 Sep 2018 | s. 1 and 2: 21 Sep 2018 (see s. 2(a)); Act other than s. 1 and 2: 22 Sep 2018 (see s. 2(b))
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 2 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s 2(b) and SL 2021/83 cl. 2)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 54 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
+Aboriginal Cultural Heritage Act 2021 s. 346 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Aboriginal Cultural Heritage Act 2021 s. 346 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 4 and s. 410 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -50,6 +50,8 @@ The Courts Legislation Amendment and Repeal Act 2004 s. 75(2) reads as follows:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Aboriginal ancestral remains19B(1)
+Aboriginal Cultural Heritage Council19B(1)
 agency3
 body having jurisdiction over a person carrying on a trade or profession50(2)
 coroner3
@@ -73,3 +75,7 @@ senior next of kin3, 37(5), 59(2)
 State Coroner3
 tissue3
 Western Australian death3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

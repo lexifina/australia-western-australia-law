@@ -307,6 +307,7 @@ Arts and Culture Trust Act 2021 s. 74 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (se
 Veterinary Practice Act 2021 s. 229 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 3 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Industry and Technology Development Amendment Act 2021 Pt. 3 | 24 of 2021 | 3 Dec 2021 | 4 Dec 2021 (see s. 2(b))
+Aboriginal Cultural Heritage Act 2021 s. 344 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113)
 Soil and Land Conservation Amendment Act 2022 s. 20 | 19 of 2022 | 24 Jun 2022 | 25 Jun 2022 (see s. 2(b))
 Uncommenced provisions table
@@ -315,7 +316,6 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Aboriginal Cultural Heritage Act 2021 s. 344 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Animal Resources Authority Amendment and Repeal Act 2022 s. 15 | 12 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(1)(c))
 Other notes
 Footnote no longer applicable.
@@ -418,3 +418,7 @@ offence32(2)
 Person3
 remote communication45A(1)
 Treasurer3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
