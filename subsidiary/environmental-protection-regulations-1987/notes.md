@@ -86,9 +86,6 @@ Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2022 Pt. 3 Div. 2 | SL 2022/64 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Environmental Protection Amendment Regulations 2022 | SL 2022/68 3 Jun 2022 | r. 1 and 2: 3 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2023 Pt. 3 | SL 2023/13 24 Feb 2023 | 1 Mar 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 2023 Pt. 4 | SL 2023/50 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
@@ -102,7 +99,7 @@ The Environmental Protection Regulations Amendment (Prohibited Plastics and Ball
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Aboriginal site3D(1)
+Aboriginal place3D(1)
 actual discharge5H(2)
 aggregation pointSch. 1
 approved21(1)
@@ -168,3 +165,7 @@ tyre11(1)
 Tyre Landfill Exclusion Zone11(1)
 tyre retailer11(1)
 vessel16(4)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

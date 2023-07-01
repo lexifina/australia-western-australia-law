@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Conservation and Land Management Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Conservation and Land Management Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Conservation and Land Management Regulations 2002 | 3 May 2002 p. 2233-308 | 3 May 2002
@@ -45,13 +45,9 @@ Conservation and Land Management Amendment Regulations (No. 2) 2022 | SL 2022/14
 Conservation and Land Management Amendment Regulations (No. 3) 2022 | SL 2022/154 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2022 (see r. 2(b))
 Environment Regulations Amendment Regulations 2022 Pt. 2 | SL 2022/170 21 Oct 2022 | 22 Oct 2022 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 4) 2022 | SL 2022/193 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 2023 Pt. 2 | SL 2023/50 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
-Under the Alteration of Statutory Designations Order 2017 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Biodiversity, Conservation and Attractions unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
 4.Transitional provision for Barrow Island Trust Account
 (1) In this regulation —
@@ -61,8 +57,8 @@ Barrow Island Trust Account means the account referred to in the Conservation an
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Aboriginal artefact2
-Aboriginal site2
+Aboriginal object2
+Aboriginal place2
 abseiling area2
 aircraft2
 aircraft landing area99A(1)
@@ -70,11 +66,9 @@ ammunition2
 apiarist98G(1)
 apiary authority98A
 apiary licence98A
-apiary permit98AX(2)
+apiary permit98A
 apiary site98A
 authorised officer2
-Barrow Island Net Conservation Benefit AccountSch. 4 (2)
-Barrow Island Trust AccountSch. 4 (2)
 beach64(7)
 bicycle2
 bicycle path51A(4)
@@ -140,7 +134,7 @@ services2
 sign2
 soil35A(2)
 South-west zone98A
-specified56(6), 61B, 98AC(1)
+specified56(6), 61B(1), 98AC(1)
 State forest resolution124(1)
 structure34(2)
 take2
@@ -157,3 +151,7 @@ vessel storage facility65A(1)
 visitor area114
 waste21(5)
 wearing50A(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
