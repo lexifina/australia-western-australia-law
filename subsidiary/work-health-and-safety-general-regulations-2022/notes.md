@@ -5,11 +5,11 @@ Citation | Published | Commencement
 Work Health and Safety (General) Regulations 2022 (other than r. 58) | SL 2022/31 11 Mar 2022 | Regulations other than r. 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 49(2), (3) and (4), 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c))
 Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/214 23 Dec 2022 | 24 Dec 2022 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
+Work Health and Safety (General) (Fees) Amendment Regulations 2023 | SL 2023/42 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Work Health and Safety (General) Regulations 2022 r. 58 | SL 2022/31 11 Mar 2022 | 31 Mar 2024 (see r. 2(b))
-Work Health and Safety (General) (Fees) Amendment Regulations 2023 r. 3 and 4 | SL 2023/42 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -319,3 +319,7 @@ work box5
 workers’ accommodation55D(1A)
 work positioning system5
 work time184C
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
