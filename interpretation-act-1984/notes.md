@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Interpretation Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Interpretation Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Interpretation Act 1984 | 12 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2)
@@ -52,11 +52,8 @@ Reprint 7: The Interpretation Act 1984 as at 21 Jan 2011 (includes amendments li
 Statutes (Repeals and Minor Amendments) Act 2014 s. 27 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 19 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 5 Subdiv. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
-Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 10 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Legislation Act 2021 Pt. 6 Div. 1 | 13 of 2021 | 24 Aug 2021 | 1 Jul 2023 (see s. 2(b) and SL 2023/58 cl. 2)
+Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 10 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Other notes
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
@@ -164,7 +161,7 @@ local law5
 magistrate5
 Magistrates Court5
 may56(1)
-Minister4
+Minister5
 Minister for Public Sector Management5
 month5, 62(1)
 oath5
@@ -190,7 +187,7 @@ public service holiday5
 public service officer5
 Queen5
 regional local government5
-regional subsidiary4
+regional subsidiary5
 regulation5
 regulations42(8)
 repeal5
@@ -210,7 +207,7 @@ State Administrative Tribunal5
 statutory declaration5
 subsidiary legislation5
 summary conviction5
-summary conviction penalty4
+summary conviction penalty5
 Supreme Court5
 swear5
 Territory5
@@ -220,8 +217,13 @@ this State5
 under5
 United Kingdom5
 Valuer-General5
+WA legislation website5
 will5
 words5
 writing5
 written law5
 year5
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
