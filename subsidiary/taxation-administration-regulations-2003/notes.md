@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Taxation Administration Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Taxation Administration Regulations 2003 | 27 Jun 2003 p. 2419-22 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -43,9 +43,6 @@ Finance Regulations Amendment Regulations 2020 Pt. 5 | SL 2020/206 23 Oct 2020 |
 Taxation Administration Amendment Regulations 2021 | SL 2021/116 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
 Taxation Administration Amendment Regulations (No. 2) 2021 | SL 2021/183 5 Nov 2021 | 5 Nov 2021 (see r. 2 and SL 2021/187 r. 2(a))
 Taxation Administration Amendment Regulations 2022 | SL 2022/120 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Finance Regulations Amendment (Interest Rates) Regulations 2023 Pt. 3 | SL 2023/70 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 2.
@@ -92,3 +89,7 @@ supplier13Q(1)
 tax information2B
 wages13G(1)
 WorkCover WA13J(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
