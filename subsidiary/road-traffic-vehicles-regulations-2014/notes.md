@@ -43,11 +43,11 @@ Road Traffic (Vehicles) Amendment Regulations (No. 5) 2022 | SL 2022/130 5 Jul 2
 Road Traffic (Vehicles) Amendment Regulations (No. 4) 2022 | SL 2022/149 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 r. 1-3, 5, 13(4) and 15-20 | SL 2022/174 21 Oct 2022 | r. 1 and 2: 21 Oct 2022 (see r. 2(a)); r. 3, 5, 13(4) and 15-20: 7 Nov 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/45 19 May 2023 | 20 May 2023 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 3 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 (other than r. 1-3, 5, 13(4) and 15-20) | SL 2022/174 21 Oct 2022 | 7 Nov 2023 (see r. 2(c))
-Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 3 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -358,3 +358,7 @@ written-off146
 written-off vehicle notice157(1)
 Written-Off Vehicle Register3
 yellow3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
