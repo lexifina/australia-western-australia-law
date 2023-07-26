@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Settlement Agents Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Settlement Agents Regulations 1982 | 19 Mar 1982 p. 886-7 | 19 Mar 1982
@@ -67,6 +67,10 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 20 | SL 2
 Settlement Agents Amendment Regulations 2021 | SL 2021/202 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 17 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 17 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Transfer of Land) Regulations 2023 Pt. 3 | SL 2023/116 26 Jul 2023 | 7 Aug 2023 (see r. 2(b))
 Other notes
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
 Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1).
