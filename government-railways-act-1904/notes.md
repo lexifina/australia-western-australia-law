@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Government Railways Act 1904 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Government Railways Act 1904 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Railways Act 1904 | 23 of 1904 (3 Edw. VII No. 38) | 16 Jan 1904 | 16 Jan 1904
@@ -77,10 +77,7 @@ Metropolitan Redevelopment Authority Act 2011 s. 139 | 45 of 2011 | 12 Oct 2011 
 Reprint 9: The Government Railways Act 1904 as at 4 May 2012 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 25 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Government Railways Amendment Act 2022 s. 3-7 | 40 of 2022 | 21 Nov 2022 | To be proclaimed (see s. 2(b))
+Government Railways Amendment Act 2022 | 40 of 2022 | 21 Nov 2022 | s. 1 and 2: 21 Nov 2022 (see s. 2(a)); Act other than s. 1 and 2: 27 Jul 2023 (see s. 2(b) and SL 2023/118 cl. 2)
 Other notes
 Office of Titles plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 62 is not included because the subsection it sought to amend had been replaced by the Public Transport Authority Act 2003 s. 137(1) before the amendment purported to come into operation.
@@ -205,3 +202,7 @@ railway land2AA(2)
 road2
 specified award employee73(4)
 Subiaco redevelopment area63A(5)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
