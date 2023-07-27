@@ -38,11 +38,11 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 13 | 25 of 201
 Health Services Act 2016 s. 292 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 112 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 4 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
+Health and Disability Services (Complaints) Amendment Act 2022 s. 3-43 | 35 of 2022 | 28 Oct 2022 | 27 Jul 2023 (see s. 2(b) and SL 2023/112 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health and Disability Services (Complaints) Amendment Act 2022 s. 3-43 | 35 of 2022 | 28 Oct 2022 | To be proclaimed (see s. 2(b))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Health and Disability Services (Complaints) Act 1995; short title changed (see note under s. 1).
@@ -59,24 +59,44 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 carer3(1)
+code of conduct3(1)
+Commissioner of Police71A(1)
 conciliator3(1)
+corresponding law52Q(1)
+criminal record71A(1)
 Director3(1)
+Director-initiated investigation3(1), 44A
 document12(5)
 excluded service3(1)
 functions of the Director11(4)
+health care worker3(1)
 Health Department3(1)
 health service3(1)
 industrial tribunal3(1)
 information12(5)
+interim prohibition order3(1), 52B(2)
+interstate interim prohibition order52Q(1)
+interstate order52Q(1)
+interstate prohibition order52Q(1)
 manager25(2)
 member of the staff 3(1)
 misbehaviourSch. 2 cl. 5(2)
 Office3(1)
+Office’s website3(1)
 person’s representative67(2)
+prohibition order3(1), 52H(2)
+protected information68A(1)
 provide3(1)
 provider3(1)
+public health warning statement3(1)
 public provider3(1)
 registered provider3(1)
 registration board3(1)
 relative20(4)
+relevant decision71A(1)
+relevant entity68A(1)
 user3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
