@@ -4,12 +4,12 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 (other than s. 224-226 and 253) | 32 of 2018 | 19 Nov 2018 | s. 1 and 2: 19 Nov 2018 (see s. 2(a)); Pt. 13 (but only s. 188 and 189): 6 Nov 2019 (see s 2(b) and Gazette 5 Nov 2019 p. 3877); Act other than s. 1, 2, 188, 189, 224, 225, 226 and 253: 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Community Titles Amendment (Consistency of Charging) Act 2018 | 33 of 2018 | 19 Nov 2018 | 6 Nov 2019 (see s. 2(b) and Gazette 5 Nov 2019 p. 3877)
+Planning and Development Amendment Act 2020 Pt. 12 Div. 2 | 26 of 2020 | 7 Jul 2020 | 1 Aug 2023 (see s 2(1)(b) and SL 2023/107 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 6 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Community Titles Act 2018 s. 224-226 and 253 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Planning and Development Amendment Act 2020 Pt. 12 Div. 2 | 26 of 2020 | 7 Jul 2020 | 1 Aug 2023 (see s 2(1)(b) and SL 2023/107 cl. 2)
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 1 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Other notes
 The Community Titles Act 2018 (Postponement of Expiry) Proclamation 2019 published in Gazette 5 Nov 2019 p. 3877-8 provides that the expiry of section 188 is postponed until the end of 31 December 2024.
@@ -164,3 +164,7 @@ utility service easement3(1)
 volunteer scheme manager3(1)
 wall3(1)
 working day 3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
