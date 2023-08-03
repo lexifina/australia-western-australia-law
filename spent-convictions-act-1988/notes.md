@@ -63,6 +63,7 @@ Short title | Number and year | Assent | Commencement
  | National Disability Insurance Scheme (Worker Screening) Act 2020 Pt. 7 Div. 1 | 48 of 2020 | 9 Dec 2020 | 1 Feb 2021 (see s. 2(1)(b) and SL 2021/4 cl. 2)
  | Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 19 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
  | Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 2 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
+ | Spent Convictions (Act Amendment) Regulations 2023 (SL 2023/121) | r. 1 and 2: 2 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
