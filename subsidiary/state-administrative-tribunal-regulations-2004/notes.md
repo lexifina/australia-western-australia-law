@@ -62,6 +62,7 @@ Attorney General Regulations Amendment (Veterinary Practice) Regulations 2022 Pt
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 11 | SL 2022/111 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Legal Profession) Regulations 2022 Pt. 5 | SL 2022/114 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/111 r. 2(b))
 State Administrative Tribunal Amendment Regulations 2023 | SL 2023/49 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.

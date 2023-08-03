@@ -34,6 +34,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3
 Attorney General Regulations Amendment (Fees) Regulations 2021 Pt. 2 | SL 2021/155 10 Sep 2021 | 11 Sep 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/111 30 June 2022 | 1 Jul 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Fee Waiver) Regulations 2022 Pt. 2 | SL 2022/145 26 Aug 2022 | 27 Aug 2022 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -47,3 +48,7 @@ eligible individual fee3
 enforcement officer3
 prosecution notice3
 respondent6(2)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -1,40 +1,40 @@
 ## Schedule 1 — Fees
 [r. 4]
-[Heading inserted: SL 2022/111 r. 27.]
+[Heading inserted: SL 2023/120 r. 41.]
 ## Division 1 — General Division fees
-[Heading inserted: SL 2022/111 r. 27.]
+[Heading inserted: SL 2023/120 r. 41.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | On filing — (a)any originating process by which a cause, matter or other proceeding in the Court is commenced, other than proceedings of the kind referred to in item 2, 3 or 7 | 1 676.00 | 3 265.00 | 100.00
- | (b)a notice of appeal (whether in draft form or not) | 1 676.00 | 3 265.00 | 100.00
-2. | On filing — (a)a counterclaim | 1 676.00 | 3 265.00 | 100.00
- | (b)a third party notice or a notice under the Rules O. 19 r. 8 | 1 676.00 | 3 265.00 | 100.00
- | (c)an application — (i)to extend a period of time fixed by law, including an application to extend time before proceedings are commenced | 559.00 | 1 094.00 | 100.00
- | (ii)to limit a period of time within which proceedings may be taken | 559.00 | 1 094.00 | 100.00
- | (iii)for leave to serve a writ or notice of a writ out of jurisdiction | 559.00 | 1 094.00 | 100.00
- | (iv)to swear to the death of a person | 559.00 | 1 094.00 | 100.00
- | (v)for leave to appeal | 559.00 | 1 094.00 | 100.00
- | (vi)for leave to issue a subpoena under the Commercial Arbitration Act 2012 | 559.00 | 1 094.00 | 100.00
- | (vii)in a pending cause or matter in admiralty whether by summons or motion, other than an application by the Marshal | 559.00 | 1 094.00 | 100.00
- | (d)any other application for which no fee has been provided in this Division | 559.00 | 1 094.00 | 100.00
+1. | On filing — (a)an originating process by which a cause, matter or other proceeding in the Court is commenced, other than proceedings of the kind referred to in item 2, 3 or 7 | 1 730.00 | 3 371.00 | 100.00
+ | (b)a notice of appeal (whether in draft form or not) | 1 730.00 | 3 371.00 | 100.00
+2. | On filing — (a)a counterclaim | 1 730.00 | 3 371.00 | 100.00
+ | (b)a third party notice or a notice under the Rules O. 19 r. 8 | 1 730.00 | 3 371.00 | 100.00
+ | (c)an application — (i)to extend a period of time fixed by law, including an application to extend time before proceedings are commenced | 577.00 | 1 130.00 | 100.00
+ | (ii)to limit a period of time within which proceedings may be taken | 577.00 | 1 130.00 | 100.00
+ | (iii)for leave to serve a writ or notice of a writ out of jurisdiction | 577.00 | 1 130.00 | 100.00
+ | (iv)to swear to the death of a person | 577.00 | 1 130.00 | 100.00
+ | (v)for leave to appeal | 577.00 | 1 130.00 | 100.00
+ | (vi)for leave to issue a subpoena under the Commercial Arbitration Act 2012 | 577.00 | 1 130.00 | 100.00
+ | (vii)in a pending cause or matter in admiralty whether by summons or motion, other than an application by the Marshal | 577.00 | 1 130.00 | 100.00
+ | (d)another application for which no fee has been provided in this Division | 577.00 | 1 130.00 | 100.00
  | Note for this item: The fee in paragraph (c)(vi) is payable only once on the first application in an arbitration.
-3. | Commencing an appeal to which the Rules O. 60A r. 4 applies | 1 117.00 | 2 186.00 | 100.00
-4. | Entry for hearing a cause or matter or notice of an appointment to hear an originating summons | 1 676.00 | 3 265.00 | 100.00
-5. | Allocation of hearing date | 1 122.00 for each day allocated | 2 912.00 for each day allocated | 100.00
+3. | Commencing an appeal to which the Rules O. 60A r. 4 applies | 1 153.00 | 2 257.00 | 100.00
+4. | Entry for hearing a cause or matter or notice of an appointment to hear an originating summons | 1 730.00 | 3 371.00 | 100.00
+5. | Allocation of hearing date | 1 158.00 for each day allocated | 3 007.00 for each day allocated | 100.00
  | Note for this item: See regulation 9.
-6. | Daily hearing fee before a Court constituted by a master or 1 or more judges | 1 122.00 | 2 912.00 | Nil
+6. | Daily hearing fee before a Court constituted by a master or 1 or more judges | 1 158.00 | 3 007.00 | Nil
  | Notes for this item: 1.No fee is payable if the proceedings are of an interlocutory nature.
- | 2.The fee is to be paid in respect of any number of hearing days (or part days) greater than the number of hearing days for which a fee has been paid under item 5.
+ | 2.The fee is to be paid in respect of the number of hearing days (or part days) greater than the number of hearing days for which a fee has been paid under item 5.
  | 3.If the Court allocates a half-day or less for the continuation of the hearing, a fee equal to half the prescribed amount is payable for that period.
  | 4.The daily fee becomes payable on a day-to-day basis and is payable before the daily reconvening of the hearing.
-7. | (a)On filing before a judge, master or registrar in chambers — (i)an interlocutory application or summons returnable | 394.00 | 765.00 | 100.00
- | (ii)an application for assessment of damages | 394.00 | 765.00 | 100.00
- | (iii)an application for summary judgment | 394.00 | 765.00 | 100.00
+7. | (a)On filing before a judge, master or registrar in chambers — (i)an interlocutory application or summons returnable | 407.00 | 790.00 | 100.00
+ | (ii)an application for assessment of damages | 407.00 | 790.00 | 100.00
+ | (iii)an application for summary judgment | 407.00 | 790.00 | 100.00
  | (b)On an appointment before a judge, master or registrar —
- | (i)on a reference for inquiry and report | 394.00 | 765.00 | 100.00
- | (ii)to pass accounts | 394.00 | 765.00 | 100.00
- | (iii)to settle the index of a transcript for use upon the hearing of an appeal | 394.00 | 765.00 | 100.00
- | (iv)on a reference to a registrar in admiralty proceedings | 394.00 | 765.00 | 100.00
- | (c)On an appointment before a judge, master or registrar for mediation | 394.00 | 765.00 | Nil
+ | (i)on a reference for inquiry and report | 407.00 | 790.00 | 100.00
+ | (ii)to pass accounts | 407.00 | 790.00 | 100.00
+ | (iii)to settle the index of a transcript for use upon the hearing of an appeal | 407.00 | 790.00 | 100.00
+ | (iv)on a reference to a registrar in admiralty proceedings | 407.00 | 790.00 | 100.00
+ | (c)On an appointment before a judge, master or registrar for mediation | 407.00 | 790.00 | Nil
  | Notes for this item: 1.If the registrar is assisted by 1 or more assessors, the daily fee is payable for each assessor if the registrar considers that to be reasonable.
  | 2.The fee payable to an assessor becomes payable on a day-to-day basis as the reference proceeds and is payable in the first instance by the claimant.
  | 3.The fee includes the first day of the hearing of the application or summons and includes any adjournment of the hearing.
@@ -42,81 +42,83 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
 8. | If the hearing of a matter to which item 7 applies is listed for more than 1 day and proceeds for more than the number of days listed, the fee prescribed in item 7 is payable for each additional day or part of a day of a hearing.
  | Note for this item: The daily fee becomes payable on a day-to-day basis and is payable before the daily reconvening of the hearing.
 9. | On filing a bill of costs for taxation in a cause or matter or under the Commercial Arbitration Act 2012, or on filing an application for a costs assessment under the Legal Profession Uniform Law (WA) —
- | (a)lodgment fee | 545.00 | 1 055.00 | 100.00
- | (b)on the setting of an appointment to tax a bill of costs — an additional fee at the rate of | 2.50% | 2.50% | 0.00%
+ | (a)lodgment fee | 563.00 | 1 089.00 | 100.00
+ | (b)on the setting of an appointment to tax a bill of costs — an additional fee at the rate of | 2.50% | 2.50%
  | Notes for this item: 1.The % rate is to be applied to the amount at which the bill is drawn.
  | 2.The taxing officer must allow against the person chargeable with the costs as taxed, taxing fees at the rate prescribed in paragraph (b) of the amount found due on taxation.
  | 3.If the parties agree on the bill of costs in a cause or matter or under the Legal Profession Uniform Law (WA) or the Commercial Arbitration Act 2012 and the appointment is cancelled, the following percentage of the fee paid is to be refunded — (a)if the appointment is cancelled less than 3 days before the day of the appointment — nil; (b)if the appointment is cancelled 3 days or more and less than 10 days before the day of the appointment — 50%; (c)if the appointment is cancelled 10 days or more before the day of the appointment — 80%.
-9A. | On filing an application under the Legal Profession Uniform Law (WA) section 205(1) for a review of a costs assessment, where the review is by a judge | 545.00 | 1 055.00 | 100.00
-10. | For searching any proceeding or record other than a search made by or on behalf of a party to the proceeding —
- | (a)if the search is made by a recognised service approved by the Attorney General | 2.50 | 2.50 | 2.50
- | (b)otherwise | 56.50 | 56.50 | 16.95
-11. | (a)On an application for the production of records or documents that are required to be produced to any court, tribunal, arbitrator or umpire | 83.00 | 83.00 | 24.90
- | (b)If an officer is required to attend at any court or place out of the Supreme Court building, the officer’s reasonable expenses and, in addition, for each hour or part of an hour when the officer is necessarily absent from the officer’s office | 111.50 | 111.50 | 33.40
-12. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required, for each page or part of a page | 2.35 | 2.35 | 0.70
- | (b)For a copy of reasons for judgment — (i)for each copy issued to a person not a party to the proceedings and for each copy in excess of 1 copy issued to a party to the proceedings | 19.70 | 19.70 | 5.90
- | (ii)for each copy consisting of 10 or more pages an additional fee per page of | 2.50 | 2.50 | 0.75
- | (c)For certifying under seal that a document is a true copy — an additional fee of | 27.20 | 27.20 | 8.15
- | (d)For a certificate under the hand of a registrar | 40.00 | 40.00 | 12.00
- | (e)For sealing a warrant of arrest release, commission for the appraisement or sale of property or for the appraisement or sale in admiralty proceedings | 111.00 | 111.00 | 33.30
-13. | (a)For the provision of a transcript, or part of a transcript —
- | (i)provided within 1 day after the day on which the fee is paid | 26.10 plus 10.75 per page | 26.10 plus 21.50 per page | 7.85 plus 3.25 per page
- | (ii)provided within 2 days after the day on which the fee is paid | 26.10 plus 9.90 per page | 26.10 plus 19.70 per page | 7.85 plus 2.95 per page
- | (iii)provided within 4 days after the day on which the fee is paid | 26.10 plus 9.30 per page | 26.10 plus 18.80 per page | 7.85 plus 2.80 per page
- | (iv)provided within 7 days after the day on which the fee is paid | 26.10 plus 9.00 per page | 26.10 plus 17.85 per page | 7.85 plus 2.70 per page
- | (v)provided within 14 days after the day on which the fee is paid | 26.10 plus 7.60 per page | 26.10 plus 15.25 per page | 7.85 plus 2.30 per page
- | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 26.10 plus 11.45 per page | 26.10 plus 22.90 per page | 7.85 plus 3.45 per page
- | (b)For the provision of a copy of a transcript, or part of a transcript, if the transcript or part has already been provided to the person requesting the copy —
- | (i)electronic format | 27.20 per copy | 27.20 per copy | 8.15 per copy
- | (ii)paper copy | 2.70 per page | 2.70 per page | 0.80 per page
-14. | On filing an application for admission by the Supreme Court | 449.00 | N/A | N/A
-15. | On commencing an appeal under the Rules O. 75A r. 2B for —
+10. | On filing an application under the Legal Profession Uniform Law (WA) section 205(1) for a review of a costs assessment, where the review is by a judge | 563.00 | 1 089.00 | 100.00
+11. | For searching a proceeding or record (other than a search made by or on behalf of a party to the proceeding) —
+ | (a)if the search is made by a recognised service approved by the Attorney General | 2.60 | 2.60 | 2.60
+ | (b)otherwise | 58.50 | 58.50 | 17.55
+12. | (a)On an application to produce records or documents that are required to be produced to a court, tribunal, arbitrator or umpire | 85.50 | 85.50 | 25.60
+ | (b)If an officer is required to attend at a court or place out of the Supreme Court building — (i)the officer’s reasonable expenses (ii)in addition, for each hour or part of an hour the officer is necessarily absent from the officer’s office | 115.00 | 115.00 | 34.50
+13. | (a)For a copy of a document or an exhibit, including marking as an office copy if required, for each page or part of a page | 2.45 | 2.45 | 0.75
+ | (b)For a copy of reasons for judgment — (i)for each copy issued to a person who is not a party to the proceedings | 20.30 | 20.30 | 6.10
+ | (ii)for each copy in excess of 1 copy issued to a party to the proceedings | 20.30 | 20.30 | 6.10
+ | (iii)for each copy consisting of 10 or more pages an additional fee per page | 2.60 | 2.60 | 0.80
+ | (c)For certifying under seal that a document is a true copy — an additional fee | 28.10 | 28.10 | 8.45
+ | (d)For a certificate under the hand of a registrar | 41.30 | 41.30 | 12.40
+ | (e)For sealing a warrant of arrest release, commission for the appraisement or sale of property or for the appraisement or sale in admiralty proceedings | 114.50 | 114.50 | 34.40
+14. | (a)For providing a transcript, or part of a transcript —
+ | (i)provided within 1 day after the day on which the fee is paid | 26.90 plus 11.10 per page | 26.90 plus 22.20 per page | 8.05 plus 3.35 per page
+ | (ii)provided within 2 days after the day on which the fee is paid | 26.90 plus 10.20 per page | 26.90 plus 20.30 per page | 8.05 plus 3.05 per page
+ | (iii)provided within 4 days after the day on which the fee is paid | 26.90 plus 9.60 per page | 26.90 plus 19.40 per page | 8.05 plus 2.90 per page
+ | (iv)provided within 7 days after the day on which the fee is paid | 26.90 plus 9.30 per page | 26.90 plus 18.45 per page | 8.05 plus 2.80 per page
+ | (v)provided within 14 days after the day on which the fee is paid | 26.90 plus 7.85 per page | 26.90 plus 15.75 per page | 8.05 plus 2.35 per page
+ | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 26.90 plus 11.80 per page | 26.90 plus 23.60 per page | 8.05 plus 3.55 per page
+ | (b)For providing a copy of a transcript, or part of a transcript, if the transcript or part has been provided to the person requesting the copy —
+ | (i)electronic format | 28.10 per copy | 28.10 per copy | 8.45 per copy
+ | (ii)paper copy | 2.80 per page | 2.80 per page | 0.85 per page
+15. | On filing an application for admission by the Supreme Court | 464.00 | N/A | N/A
+16. | On commencing an appeal under the Rules O. 75A r. 2B for —
  | (a)an appeal under the Legal Profession Uniform Law (WA) section 26(1) against a refusal of the Legal Practice Board to issue a compliance certificate | 1 117.00 | N/A | 100.00
  | (b)an appeal under the Legal Profession Uniform Law (WA) section 26(2) against a revocation by the Legal Practice Board of a compliance certificate | 1 117.00 | N/A | 100.00
  | (c)an appeal under the Legal Profession Uniform Law (WA) section 27 against a refusal of the Legal Practice Board to make a declaration of early assessment of suitability | 1 117.00 | N/A | 100.00
-16. | On commencing an appeal under the Legal Profession Uniform Law (WA) section 247 against a decision of the Legal Contribution Trust on a claim | 1 117.00 | 2 186.00 | 100.00
-17. | On commencing an appeal under the Legal Profession Uniform Law (WA) section 248 against a failure of the Legal Contribution Trust to determine a claim | 1 117.00 | 2 186.00 | 100.00
-[Division 1 inserted: SL 2022/111 r. 27; amended SL 2022/114 r. 14.]
+17. | On commencing an appeal under the Legal Profession Uniform Law (WA) section 247 against a decision of the Legal Contribution Trust on a claim | 1 117.00 | 2 186.00 | 100.00
+18. | On commencing an appeal under the Legal Profession Uniform Law (WA) section 248 against a failure of the Legal Contribution Trust to determine a claim | 1 117.00 | 2 186.00 | 100.00
+[Division 1 inserted: SL 2023/120 r. 41.]
 ## Division 2 — Court of Appeal fees
-[Heading inserted: SL 2022/111 r. 27.]
+[Heading inserted: SL 2023/120 r. 41.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
-1. | On filing an appeal notice | 279.00 | 725.00 | 83.50
+1. | On filing an appeal notice | 288.00 | 749.00 | 86.50
 2. | On filing —
- | (a)appellant’s case | 4 211.00 | 10 945.00 | 100.00
- | (b)respondent’s case | 4 211.00 | 10 945.00 | 100.00
-3. | On filing an application to transfer an appeal from the District Court to the Court of Appeal under the Magistrates Court (Civil Proceedings) Act 2004 s. 41 | 559.00 | 1 094.00 | 100.00
-4. | (a)On filing an application in an appeal for an interim order or to amend or cancel an interim order | 394.00 | 765.00 | 100.00
- | (b)On an appointment before a judge or registrar to settle the appeal book index | 394.00 | 765.00 | 100.00
- | (c)On an appointment before a registrar for mediation | 394.00 | 765.00 | Nil
- | Notes for this item: 1.The fee includes the first day of the hearing of the matter and any adjournment of the matter.
+ | (a)appellant’s case | 4 348.00 | 11 301.00 | 100.00
+ | (b)respondent’s case | 4 348.00 | 11 301.00 | 100.00
+3. | On filing an application to transfer an appeal from the District Court to the Court of Appeal under the Magistrates Court (Civil Proceedings) Act 2004 s. 41 | 577.00 | 1 130.00 | 100.00
+4. | (a)On filing an application in an appeal for an interim order or to amend or cancel an interim order | 407.00 | 790.00 | 100.00
+ | (b)On an appointment before a judge or registrar to settle the appeal book index | 407.00 | 790.00 | 100.00
+ | (c)On an appointment before a registrar for mediation | 407.00 | 790.00 | Nil
+ | Notes for this item: 1.The fee includes the first day of the hearing of the matter and an adjournment of the matter.
  | 2.If the hearing of a matter is listed for more than 1 day and proceeds for more than the number of days listed, the fee prescribed by this item is payable for each additional day or part of a day of a hearing.
  | 3.A fee payable in the circumstances referred to in note 2 is payable on a day-to-day basis before the daily reconvening of the hearing.
-5. | Setting down fee | 1 406.00 | 2 731.00 | 100.00
+5. | Setting down fee | 1 452.00 | 2 820.00 | 100.00
  | Notes for this item: 1.The fee is payable when the appeal book is filed.
  | 2.The fee includes the fee for the first day of hearing.
-6. | Allocation of hearing date | 1 122.00 for each day estimated | 2 912.00 for each day estimated | Nil
+6. | Allocation of hearing date | 1 158.00 for each day allocated | 3 007.00 for each day allocated | Nil
  | Note for this item: The fee is payable on the number of days in excess of the first hearing day estimated for the hearing by the Court of Appeal Registrar.
-7. | Daily hearing fee | 1 122.00 | 2 912.00 | Nil
+7. | Daily hearing fee | 1 158.00 | 3 007.00 | Nil
  | Notes for this item: 1.The fee is not payable in relation to an application for, or to amend or cancel, an interim order.
- | 2.The fee is payable for each additional day or part of a day that a hearing proceeds beyond the number of days for which a fee has been paid.
+ | 2.The fee is payable for each additional day or part of a day that a hearing proceeds beyond the number of days for which a fee has been paid under item 6.
  | 3.If the Court allocates a half-day or less for the continuation of the hearing, a fee equal to half the prescribed amount is payable for that period.
  | 4.The daily hearing fee is payable on a day-to-day basis and is payable before the daily reconvening of the hearing.
-8. | For searching any proceeding or record other than a search made by or on behalf of a party to an appeal —
- | (a)if the search is made by a recognised service approved by the Attorney General | 2.30 | 2.30 | 2.30
- | (b)otherwise | 56.50 | 56.50 | 16.95
-9. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required — for each page or part thereof | 2.35 | 2.35 | 0.70
- | (b)For a copy of reasons for judgment — (i)for each copy issued to a person not a party to the appeal and for each copy in excess of 1 copy issued to a party to the appeal | 19.75 | 19.75 | 5.90
- | (ii)for each copy consisting of more than 10 pages an additional fee per page of | 2.50 | 2.50 | 0.75
- | (c)For certifying under seal that a document is a true copy — an additional fee of | 27.20 | 27.20 | 8.15
- | (d)For a certificate under the hand of a registrar | 53.50 | 53.50 | 16.05
-10. | (a)For the provision of a transcript, or part of a transcript —
- | (i)provided within 1 day after the day on which the fee is paid | 26.10 plus 10.75 per page | 26.10 plus 21.50 per page | 7.85 plus 3.25 per page
- | (ii)provided within 2 days after the day on which the fee is paid | 26.10 plus 9.90 per page | 26.10 plus 19.70 per page | 7.85 plus 2.95 per page
- | (iii)provided within 4 days after the day on which the fee is paid | 26.10 plus 9.30 per page | 26.10 plus 18.80 per page | 7.85 plus 2.80 per page
- | (iv)provided within 7 days after the day on which the fee is paid | 26.10 plus 9.00 per page | 26.10 plus 17.85 per page | 7.85 plus 2.70 per page
- | (v)provided within 14 days after the day on which the fee is paid | 26.10 plus 7.60 per page | 26.10 plus 15.25 per page | 7.85 plus 2.30 per page
- | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 26.10 plus 11.45 per page | 26.10 plus 22.90 per page | 7.85 plus 3.45 per page
- | (b)For the provision of a copy of a transcript, or part of a transcript, if the transcript or part has already been provided to the person requesting the copy —
- | (i)electronic format | 27.20 per copy | 27.20 per copy | 8.15 per copy
- | (ii)paper copy | 2.70 per page | 2.70 per page | 0.80 per page
-[Division 2 inserted: SL 2022/111 r. 27.]
+8. | For searching a proceeding or record (other than a search made by or on behalf of a party to an appeal) —
+ | (a)if the search is made by a recognised service approved by the Attorney General | 2.35 | 2.35 | 2.35
+ | (b)otherwise | 58.50 | 58.50 | 17.55
+9. | (a)For a copy of a document or an exhibit, including marking as an office copy if required — for each page or part of a page | 2.45 | 2.45 | 0.75
+ | (b)For a copy of reasons for judgment — (i)for each copy issued to a person who is not a party to the appeal | 20.40 | 20.40 | 6.10
+ | (ii)for each copy in excess of 1 copy issued to a party to the appeal | 20.40 | 20.40 | 6.10
+ | (iii)for each copy consisting of more than 10 pages an additional fee per page | 2.60 | 2.60 | 0.80
+ | (c)For certifying under seal that a document is a true copy — an additional fee | 27.20 | 27.20 | 8.15
+ | (d)For a certificate under the hand of a registrar | 55.00 | 55.00 | 16.50
+10. | (a)For providing a transcript, or part of a transcript —
+ | (i)provided within 1 day after the day on which the fee is paid | 26.90 plus 11.10 per page | 26.90 plus 22.20 per page | 8.05 plus 3.35 per page
+ | (ii)provided within 2 days after the day on which the fee is paid | 26.90 plus 10.20 per page | 26.90 plus 20.30 per page | 8.05 plus 3.05 per page
+ | (iii)provided within 4 days after the day on which the fee is paid | 26.90 plus 9.60 per page | 26.90 plus 19.40 per page | 8.05 plus 2.90 per page
+ | (iv)provided within 7 days after the day on which the fee is paid | 26.90 plus 9.30 per page | 26.90 plus 18.45 per page | 8.05 plus 2.80 per page
+ | (v)provided within 14 days after the day on which the fee is paid | 26.90 plus 7.85 per page | 26.90 plus 15.75 per page | 8.05 plus 2.35 per page
+ | (vi)provided on a running basis (i.e. periodically throughout or following the day of the proceedings) | 26.90 plus 11.80 per page | 26.90 plus 23.60 per page | 8.05 plus 3.55 per page
+ | (b)For providing a copy of a transcript, or part of a transcript, if the transcript or part has been provided to the person requesting the copy —
+ | (i)electronic format | 28.10 per copy | 28.10 per copy | 8.45 per copy
+ | (ii)paper copy | 2.80 per page | 2.80 per page | 0.85 per page
+[Division 2 inserted: SL 2023/120 r. 41.]

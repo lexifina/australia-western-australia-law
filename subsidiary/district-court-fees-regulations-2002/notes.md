@@ -39,6 +39,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 5
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 6 | SL 2021/101 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Fees) Regulations 2021 Pt. 3 | SL 2021/155 10 Sep 2021 | 11 Sep 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 7 | SL 2022/111 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Other notes
 Repealed by the District Court Rules 2005.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:
@@ -57,9 +58,15 @@ eligible individual fee3
 entity3
 fee9(1)
 individual3
+listing order9(5A)
+metropolitan region3
 non-profit association3
 person3
 Rules3
 searchable information11A(1)
 small business3
 subsidiary3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
