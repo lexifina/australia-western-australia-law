@@ -30,4 +30,3 @@ Teacher Registration Act 2012 s. 21(2), 26(4), 53(1)(e), 61(1)(a) or 80(1)(c)
 Valuation of Land Act 1978 s. 33(2) or 35(2)
 Voluntary Assisted Dying Act 2019 s. 84(1)
 [Schedule 7 inserted: Gazette 26 Jun 2007 p. 2994-5; amended: Gazette 22 Jul 2011 p. 3018; 6 Aug 2013 p. 3655-6; 14 Nov 2013 p. 5069; 29 Dec 2015 p. 5180; 13 Jan 2017 p. 352; 31 Dec 2019 p. 4660; SL 2020/136 r. 4; SL 2021/102 r. 7.]
-[Schedules 8-19 deleted: Gazette 26 Jun 2007 p. 2987.]
