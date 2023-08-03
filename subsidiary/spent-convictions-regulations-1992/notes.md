@@ -16,3 +16,13 @@ Spent Convictions Amendment Regulations 2014 | 12 Dec 2014 p. 4719-20 | r. 1 and
 Spent Convictions Amendment Regulations 2015 | 10 Feb 2015 p. 621 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Reprint 3: The Spent Convictions Regulations 1992 as at 4 Sep 2015 (includes amendments listed above)
 Spent Convictions Amendment Regulations 2021 | SL 2021/6 29 Jan 2021 | r. 1 and 2: 29 Jan 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2021 (see r. 2(b) and SL 2021/4 cl. 2)
+Spent Convictions Amendment Regulations 2023 | SL 2023/122 2 Aug 2023 | r. 1 and 2: 2 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2023 (see r. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+amendment day7(1)
+conviction7(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
