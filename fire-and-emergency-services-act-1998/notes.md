@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fire and Emergency Services Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Fire and Emergency Services Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Authority of Western Australia Act 1998 | 41 of 1998 | 4 Nov 1998 | s. 1 and 2: 4 Nov 1998; Act other than s. 1 and 2: 1 Jan 1999 (see s. 2 and Gazette 22 Dec 1998 p. 6833)
@@ -19,9 +19,6 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 2 (s. 3-44) | 22 
 Reprint 3: The Fire and Emergency Services Act 1998 as at 7 Dec 2012 (includes amendments as listed above)
 Fire and Emergency Services Amendment Act 2015 | 20 of 2015 | 26 Aug 2015 | s. 1 and 2: 26 Aug 2015 (see s. 2(a)); Act other than s. 1 and 2: 27 Aug 2015 (see s. 2(b))
 Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 3 | 28 of 2016 | 21 Sep 2016 | 16 Sep 2017 (see s. 2(b) and Gazette 15 Sep 2017 p. 4791)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 4 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Other notes
 Repealed by the Mining Act 1978.
@@ -132,3 +129,7 @@ volunteer advisory committee25(1)
 volunteer service36ZN(1)
 volunteer unit36ZM
 WC&IM Act36ZM
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

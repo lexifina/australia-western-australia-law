@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Escheat (Procedure) Act 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Escheat (Procedure) Act 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Escheat (Procedure) Act 1940 | 45 of 1940 | 30 Dec 1940 | 30 Dec 1940
@@ -8,9 +8,6 @@ Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 No
 Reprint 1: The Escheat (Procedure) Act 1940 as at 21 Mar 2003 (includes amendments listed above)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 91, 97 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 3 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Other notes
 The provision in this Act repealing these Ordinances has been omitted under s. 7(4)(f) of the Reprints Act 1984.
@@ -26,3 +23,7 @@ Defined termProvision(s)
 Court2
 Escheated property2
 Order of escheat2
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
