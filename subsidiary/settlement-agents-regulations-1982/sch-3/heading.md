@@ -45,12 +45,9 @@ Sch. 2A cl. 31D(1) | Notice of resolution under Schedule 2A clause 31C of that A
 2.Under or for the purposes of the Transfer of Land Act 1893 —
 (a)these documents under these provisions of that Act for the purposes described:
 Provision | Description of document and purpose
-s. 48B | Request in relation to the issue of duplicate certificate of title
 s. 59 | Application to remove notation as to legal disability
 s. 71 | Application for a consolidated certificate of title
 s. 71A | Application for a certificate of title for the balance of land in a certificate of title
-s. 74B | Application for a new duplicate certificate of title
-s. 75 | Application for a replacement duplicate certificate of title
 s. 82 | Transfer
 s. 84 | Transfer
 s. 129BB | Application for discharge or modification of restrictive covenant
@@ -89,4 +86,4 @@ s. 161(1) | Application for termination of each community titles scheme in a com
 s. 178 | Application for registration of the termination or amendment of a community titles scheme to give effect to compulsory acquisition
 (b)a disposition statement under section 185 of that Act in the form approved under the Community Titles Regulations 2021;
 (c)an application to register or record the most recent consolidated version of a community development statement that incorporates an approved amendment of the community development statement in the form approved under the Community Titles Regulations 2021 regulation 18(3)(b).
-[Part C inserted: Gazette 23 May 1997 p. 2422-4; amended: Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8; 31 Dec 2019 p. 4645-6; SL 2021/71 r. 25.]
+[Part C inserted: Gazette 23 May 1997 p. 2422-4; amended: Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8; 31 Dec 2019 p. 4645-6; SL 2021/71 r. 25; SL 2023/116 r. 7.]

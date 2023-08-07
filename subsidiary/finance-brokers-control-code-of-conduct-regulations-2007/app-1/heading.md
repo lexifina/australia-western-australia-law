@@ -35,7 +35,7 @@ Management agreement Required/Not Required | ......…..……………………
 Property Security Information
 Security required | ......…………………………………………
 Description of Mortgaged Property | ......….……………………………………...
-Refer Attachment 4 for current true copy of Duplicate Certificate of Title (Clause 12.2).
+Refer Attachment 4 for current true copy of Certificate of Title (Clause 12.2).
 Purchase Price of Property (where relevant) $ | …………………………………………
 Priority of Mortgage (i.e. first, second mortgage) and details of all prior encumbrances | …..……………………………………..
 Ratio of loan to valuation of mortgaged property calculated on an “as is valuation” | …..……………………………………..
@@ -70,3 +70,4 @@ Signature of Finance Broker
 ………………………………………... ………………………………………..
 (Address)
 ………………………………………... (Date)
+[Form 1 amended: SL 2023/116 r. 5.]
