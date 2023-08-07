@@ -7,7 +7,7 @@
 (c) the Country Areas Water Supply Act 1947 section 12BA, 12BB or 12EA.
 2A.Registration or revocation of an environmental protection notice under the Environmental Protection Act 1986 section 66.
 2.In respect of the transfer of loans for housing to financial institutions participating in the Home Buyers Guarantee Scheme of the State from other financial institutions, fees for the registration of a mortgage or the discharge of a mortgage, photocopy of a certificate of title, search of a deposited plan, plan, diagram or other document and photocopying or check search.
-3.In respect of the lodging by a person of or the use by a third party of a duplicate certificate of title or lease for a purpose referred to in item 1 or 2.
+3.In respect of the lodging by a person of or the use by a third party of a duplicate lease for a purpose referred to in item 1 or 2.
 4.To amend the address of the registered proprietor on the certificate of title.
 5.An application for the issue of a Crown land title or qualified Crown land title for Crown land and an endorsement on that title of details of —
 (a)the creation of a reserve under the Conservation and Land Management Act 1984 section 8, 10 or 13;
@@ -19,7 +19,7 @@
 6.Creation and registration of a certificate of title by the Registrar under regulation 4 (if different from the applicant’s request) or regulation 5.
 7.Lodgments by or on behalf of the Registrar.
 8.Lodgment of a dealing, deposited plan or other document by or on behalf of the Minister for Lands (other than such a lodgment by the Minister on behalf of another person).
-9.An application for the issue of a duplicate certificate of title where a duplicate certificate of title was not issued on the registration of the certificate of title.
+[9.deleted]
 10.An application for information not to be inspected as part of the names index.
-[Schedule 2 amended: Gazette 25 Jun 2007 p. 2978; 20 Jun 2008 p. 2717; 13 Apr 2012 p. 1659; 26 Jul 2013 p. 3349; 23 Jun 2017 p. 3185.]
+[Schedule 2 amended: Gazette 25 Jun 2007 p. 2978; 20 Jun 2008 p. 2717; 13 Apr 2012 p. 1659; 26 Jul 2013 p. 3349; 23 Jun 2017 p. 3185; SL 2023/117 r. 13.]
 [Schedule 3 deleted: Gazette 19 Jun 2009 p. 2241.]

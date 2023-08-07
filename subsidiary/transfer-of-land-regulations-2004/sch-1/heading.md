@@ -38,15 +38,15 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
  | (a)general fee | $328.00
  | (b)for each lot (including any lot shown on an inset on the plan) other than a lot vesting in the Crown under the Planning and Development Act 2005 section 152 | $86.00
 4. | Of a replacement plan | $328.00
-5. | Of a duplicate certificate of title or lease for the registration or recording of a dealing lodged by a third party —
- | (a)for the first certificate of title or lease | $101.50
- | (b)for each subsequent certificate of title or lease | $7.25
+5. | Of a duplicate lease for the registration or recording of a dealing lodged by a third party —
+ | (a)for the first lease | $101.50
+ | (b)for each subsequent lease | $7.25
 6. | Of a memorandum within the meaning of section 54(1) of the Act — section 54(2) of the Act | $203.00
 7. | Of a form for the notification of a factor affecting the use or enjoyment of land — section 70A(1) of the Act | $203.00
 8. | Of an instrument for a restrictive covenant created under section 129BA of the Act — section 129BA(2)(b) of the Act | $203.00
 9. | Of an instrument for an easement created under Part IVA of the Act — section 136C(4) of the Act | $203.00
 10. | Of an instrument for a restrictive covenant created under Part IVA of the Act — section 136D(3) of the Act | $203.00
-[Division 2 inserted: Gazette 21 May 2019 p. 1477; amended: SL 2020/76 r. 8; SL 2021/88 r. 10(4); SL 2022/62 r. 11; SL 2023/44 r. 10.]
+[Division 2 inserted: Gazette 21 May 2019 p. 1477; amended: SL 2020/76 r. 8; SL 2021/88 r. 10(4); SL 2022/62 r. 11; SL 2023/44 r. 10; SL 2023/117 r. 12(1).]
 ## Division 3 — Withdrawals
 [Heading inserted: Gazette 21 May 2019 p. 1478.]
 1. | Of a caveat, order of the Supreme Court, the District Court or a Magistrates Court, a memorial under the Taxation Administration Act 2003 Part 6 Division 2 or a memorial under the Land Tax Assessment Act 1976 section 46 that was registered before that Act was repealed, or any other Act or Commonwealth Act (unless exempted from payment under that Act) | $203.00
@@ -63,9 +63,9 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 3. | For a new certificate of title in any other case | $203.00
 4. | To amend certificates of title of other owners affected by section 170 of the Act — for each certificate of title affected | $203.00
 5. | To serve a section 138A caveator with notice under section 138B of the Act | $379.70
-6. | For each replacement edition of a duplicate certificate of title where a duplicate certificate of title was issued on the registration of the certificate of title | $203.00
+[6.deleted]
 7. | An application in respect of any matter not specifically provided for in this Division | $203.00
-[Division 4 inserted: Gazette 21 May 2019 p. 1478; amended: SL 2020/76 r. 8; SL 2021/88 r. 10(4); SL 2022/62 r. 11; SL 2023/44 r. 10.]
+[Division 4 inserted: Gazette 21 May 2019 p. 1478; amended: SL 2020/76 r. 8; SL 2021/88 r. 10(4); SL 2022/62 r. 11; SL 2023/44 r. 10; SL 2023/117 r. 12(2).]
 ## Division 5 — Certificates
 [Heading inserted: Gazette 21 May 2019 p. 1478.]
 1. | For the issue of a certificate of title, either on request or where necessary in connection with an application or process (except where this service is included in another fee) | $203.00
@@ -106,7 +106,7 @@ Note:The fee specified in item 17 includes taking a hard copy of screen print.
 2. | For —
  | (a)a map or a colouring of a map on a copy of a certificate of title, Crown lease, deposited plan or other document; or
  | (b)drafting of a deposited plan or other document; or (c)the provision of consultancy services relating to project planning and project conveyancing | fee as assessed by the Registrar, not exceeding actual cost
-3. | For dispensing with the production of a duplicate certificate of title or other instrument | $176.70
+3. | For dispensing with the production of an instrument | $176.70
 4. | Supply of statement of grounds | $176.70
 5. | Order for stay of registration under section 148 of the Act | $176.70
 6. | For requisitions raised on —
@@ -119,4 +119,4 @@ Note:The fee specified in item 17 includes taking a hard copy of screen print.
 11. | Providing a replica of a certificate of title, plan or document registered in the State | actual cost
 12. | For rejection of a document under section 192(1) of the Act | 100% of the registration, recording, lodgment or application fee paid or payable on the document
 13. | For registrations and recordings under Division 1, lodgments under Division 2 and applications under Division 4 — involving more than 20 certificates or leases — each certificate or lease in excess of 20 | $7.25
-[Division 7 inserted: Gazette 21 May 2019 p. 1480-81; amended: SL 2020/76 r. 8; SL 2021/88 r. 10(3) and (4); SL 2022/62 r. 11; SL 2023/44 r. 10.]
+[Division 7 inserted: Gazette 21 May 2019 p. 1480-81; amended: SL 2020/76 r. 8; SL 2021/88 r. 10(3) and (4); SL 2022/62 r. 11; SL 2023/44 r. 10; SL 2023/117 r. 12(3).]
