@@ -52,11 +52,11 @@ Heritage Act 2018 s. 187 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) an
 Strata Titles Amendment Act 2018 Pt. 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 14 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 21 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Transfer of Land Amendment Act 2022 Pt. 3 Div. 7 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Transfer of Land Amendment Act 2022 Pt. 3 Div. 7 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
@@ -136,7 +136,8 @@ on the commencement day the application is to be taken to be an application by a
 (c) any person who was given notice under the ST Act section 105(6) (as in force immediately before the commencement day) of the time and place for the determination of the appeal; and
 (d) any person who, by the order, is required to do or to refrain from doing a specified act.
 The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.
-The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of former section 131A is postponed until the end of 31 December 2024.
+The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of former section 131A (renumbered as section 225) is postponed until the end of 31 December 2024.
+The Land Legislation (Postponement of Expiry) Proclamation 2024 cl. 4 (SL 2024/43) provides that the expiry of section 225 is postponed until the end of 31 December 2029.
 Below is a list of the provisions of the Strata Titles Act 1985 that were renumbered and relocated by the Strata Titles Amendment Act 2018. This table is intended as a general guide only.
 Finding chart for relocated provisions
 Former section or clause number | New section or clause number | Location of new section or clause
@@ -421,3 +422,7 @@ vacant lot3(1)
 volunteer strata manager3(1)
 wall3(1)
 working day3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

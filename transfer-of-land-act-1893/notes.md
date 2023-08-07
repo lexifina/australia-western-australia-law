@@ -83,12 +83,12 @@ Strata Titles Amendment Act 2018 Pt. 3 Div. 23 | 30 of 2018 | 19 Nov 2018 | 1 Ma
 Community Titles Act 2018 Pt. 14 Div. 23 (other than s. 253) | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 102 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Transfer of Land Amendment Act 2022 Pt. 2 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Community Titles Act 2018 s. 253 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Transfer of Land Amendment Act 2022 Pt. 2 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 12 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
@@ -127,7 +127,6 @@ The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gaz
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-address240(2)
 affected land104A
 agreement104M
 agreement land104M
@@ -137,7 +136,7 @@ annuity4(1)
 approved form4(1), 81K
 Australian consular officer145(4)
 authorised land officer4(1)
-Authority4(1)
+Authority4
 burdened land104A
 carbon covenant4(1)
 carbon covenant form4(1)
@@ -147,9 +146,10 @@ certificate of Crown land title4(1)
 charge4(1)
 charging instrument105(3)
 commencement181(1a)
+commencement day248(1), 249(1)
 Commissioner81K
 conveyancing transaction4(1)
-counterpart4(1) and (1b)
+counterpart4(1), 4(1b)
 Crown land4(1)
 Crown land lease4(1)
 Crown lease4(1)
@@ -172,13 +172,12 @@ geothermal energy resources3(3)
 grant4(1)
 grantor4(1)
 graphic4(1)
-incoming mortgagee48B(5A)
 inspector of plans and surveys163(2)
 instrument4(1)
 interest4(1)
 judge4(1)
 land4(1)
-lodge181A(1), 181(1AA), 182A(1AA), 192A(1), 192B(1), 192D(1), 232A(1), 238A(1)
+lodge181A(1), 181(1AA), 182A(1AA), 192A(1), 192B(1), 192D(1), 238A(1)
 lodged133(1)
 lot129C(1d)
 management body4(1)
@@ -191,14 +190,14 @@ ministerial order4(1)
 mortgage127A(1)
 mortgagee127A(1)
 mortgage money126(1E)
+notice to be served249(2) and (3)
 notification details240A(1)
 paper title4(1)
 participation rules4(1)
 person4(1)
 plan136A
 plantation interest4(1)
-prescribed amount192(2), 238B(4)
-produce232A(1)
+prescribed amount192(1), 238B(4)
 profit à prendre4(1)
 property (seizure and sale) order133(1)
 proprietor4(1)
@@ -224,7 +223,7 @@ sheriff’s dealing133(1)
 short form4(3)
 sign4(1)
 signature4(1)
-single dwelling covenant129C(1d)
+single dwelling covenant129C(1c)
 stamped81U(3)
 statutory declaration188(2)
 subscriber4(1)
@@ -233,3 +232,7 @@ transitional period81K
 transmission4(1)
 tree plantation agreement4(1)
 working day182B(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
