@@ -156,6 +156,7 @@ Liquor Control Amendment Regulations (No. 3) 2021 | SL 2021/163 17 Sep 2021 | r.
 Liquor Control Amendment Regulations (No. 2) 2021 | SL 2021/207 3 Dec 2021 | 1 Feb 2022 (see r. 2 and SL 2021/198 cl. 2)
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 6 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
 Liquor Control Amendment Regulations 2022 | SL 2022/217 23 Dec 2022 | Pt. 1: 23 Dec 2022 (see r. 2(a)); Pt. 2: 24 Dec 2022 (see r. 2(b)); Pt. 3: 1 Jan 2023 (see r. 2(c) and SL 2022/144 r. 2(b))
+Liquor Control Amendment Regulations 2023 | SL 2023/125 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
@@ -256,3 +257,7 @@ wholesaler3A(1)
 wine produced by a producer21A(3)
 worker9A(3)
 works canteen9A(3)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
