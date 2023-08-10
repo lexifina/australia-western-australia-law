@@ -1,14 +1,11 @@
 Notes
-This is a compilation of the Mining Rehabilitation Fund Act 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mining Rehabilitation Fund Act 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mining Rehabilitation Fund Act 2012 | 33 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2013 (see s. 2(b) and Gazette 21 Jun 2013 p. 2445)
 Mining Rehabilitation Fund Amendment Act 2012 | 34 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2013 (see s. 2(b) and Gazette 21 Jun 2013 p. 2445)
 Mining Legislation Amendment Act 2014 Pt. 3 | 4 of 2014 | 22 Apr 2014 | 30 Jun 2014 (see s. 2(b) and Gazette 17 Jun 2014 p. 1953)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 9 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 9 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,3 +39,7 @@ reassessment notice3, 19(1)
 record3
 rehabilitation work10(1)
 relevant determination22(3)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

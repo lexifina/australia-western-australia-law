@@ -84,12 +84,12 @@ Community Titles Act 2018 Pt. 14 Div. 23 (other than s. 253) | 32 of 2018 | 19 N
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 102 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Transfer of Land Amendment Act 2022 Pt. 2 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 12 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Community Titles Act 2018 s. 253 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 12 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
@@ -124,6 +124,7 @@ commencement means the day on which section 1 of this Act comes into operation.
 (3) Subsection (2) does not affect or prejudice the application of the Interpretation Act 1984 but a right, obligation or liability of, or in respect of, the assurance fund subsisting immediately before commencement becomes, on commencement, a right, obligation or liability of, or in respect of, the State in accordance with Part XI or XII of the principal Act, as the case requires.
 The amendment in the Financial Legislation Amendment and Repeal Act 2006 s. 4 to s. 190 is not included because s. 190 had been replaced by the Land Information Authority Act 2006 s. 115.
 The Land Legislation (Postponement of Expiry) Proclamation 2018 published by Gazette 21 Dec 2018 p. 4845-6 provides that the expiry of section 182AA is postponed until the end of 31 December 2024.
+The Land Legislation (Postponement of Expiry) Proclamation 2024 cl. 5 (SL 2024/43) provides that the expiry of section 182AA is postponed until the end of 31 December 2029.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -65,11 +65,11 @@ Biodiversity Conservation Act 2016 Pt. 17 Div. 1 | 24 of 2016 | 21 Sep 2016 | Pt
 Reprint 9: The Conservation and Land Management Act 1984 as at 6 Jan 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 291(b), 292(2) to (4), 293 to 297, 299, 301, 302 and 304 to 309)
 Aboriginal Cultural Heritage Act 2021 s. 343 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Conservation and Land Management Amendment Act 2022 | 27 of 2022 | 31 Aug 2022 | s. 1 and 2: 31 Aug 2022 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2022 (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 2 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 3 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 2 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
@@ -260,6 +260,7 @@ Department3
 designated park or reserve138(3)
 Director23(1)
 disease area81
+diversification lease3
 document25(4)
 drilling reservation13E(1)
 eligible land8A(1), 8C(1), 8D
@@ -323,6 +324,7 @@ occupier33(7A)
 owner34B(8), 81, 114AA(1)
 park3
 Part VIII Division 1 authorisation103(2c)
+pastoral lease3
 pastoral region108C(3)
 pearling activity3
 permit13E(1), 87(1)

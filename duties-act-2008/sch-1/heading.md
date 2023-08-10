@@ -10,9 +10,10 @@ s. 11(1)(e) | Foreclosure of mortgage | When the foreclosure order is made | Mor
 s. 11(1)(f) | Acquisition of new dutiable property | The earlier of the following — (a)when the property is acquired; or | Person that acquires the property
  |  | (b)if an instrument evidences the acquisition, when the instrument is executed
 s. 11(1)(g) | Surrender of special dutiable property | When the surrender takes place | Person to whom the interest is surrendered; or
+ |  |  | in the case of a surrender referred to in section 18(caa), the person to whom the new lease is, or is to be, granted in accordance with the agreement, arrangement or understanding; or
  |  |  | in the case of a surrender referred to in section 18(f), the person to whom the mining tenement is granted in accordance with the agreement; or
  |  |  | in the case of a surrender referred to in section 18(g), (ga), (gb) or (gc), the person that paid the consideration for the surrender
 s. 11(1)(h) | A trust acquisition or trust surrender | When the interest in the trust is acquired or surrendered | Person that is the trustee of the discretionary trust
 s. 11(1)(i) | A partnership acquisition | The earlier of the following — (a)when the partnership interest is acquired; or (b)if the acquisition is evidenced by an instrument, when the instrument is executed | Person that acquires the partnership interest
 s. 11(1)(j) | A concessional farm-in transaction | When the concessional farm-in transaction is made | The farmee
-[Schedule 1 amended: No. 12 of 2019 s. 130; No. 37 of 2022 s. 13.]
+[Schedule 1 amended: No. 12 of 2019 s. 130; No. 37 of 2022 s. 13; No. 4 of 2023 s. 119.]

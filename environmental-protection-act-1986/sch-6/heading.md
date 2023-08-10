@@ -43,11 +43,11 @@ of the Bush Fires Act 1954.
 10B.Clearing that is done by the occupier of land, or an energy operator, under the Energy Operators (Powers) Act 1979 section 54.
 11.Clearing that is done under section 34(a), (c) or (h) of the Fire Brigades Act 1942.
 12.Clearing that is done for fire prevention or control purposes or other fire management works on Crown land, within the meaning of the Land Administration Act 1997, by the FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3.
-13.Clearing caused by the grazing of stock on land under a pastoral lease within the meaning of the Land Administration Act 1997 as long as that grazing is not in breach of —
+13.Clearing caused by the grazing of stock on land under a pastoral lease or diversification lease within the meaning of the Land Administration Act 1997 as long as that grazing is not in breach of —
 (a) that Act; or
-(b) the pastoral lease; or
-(c) any relevant condition set or determination made by the Pastoral Board under Part 7 of that Act.
+(b) the pastoral lease or diversification lease; or
+(c) in the case of a pastoral lease — any relevant condition set, determination made or direction given by the Pastoral Lands Board under Part 7 of that Act.
 14.Clearing of aquatic vegetation that occurs under the authority of a licence or permit within the meaning of the Fish Resources Management Act 1994.
 15.Clearing that is done by the owner or occupier of land to comply with a notice given under the Local Government Act 1995 section 3.25(1) in respect of something prescribed in Schedule 3.1 Division 1 item 5A, 8 or 9 of that Act.
 16.Clearing that is done by a local government under the Local Government Act 1995 section 3.26 if the person who is given a notice mentioned in item 15 fails to comply with it.
-[Schedule 6 inserted: No. 54 of 2003 s. 116; amended: No. 38 of 2005 s. 15; No. 25 of 2009 s. 20; No. 22 of 2012 s. 123; No. 24 of 2016 s. 314(5); No. 40 of 2020 s. 110(1), (3) and (4)-(6).]
+[Schedule 6 inserted: No. 54 of 2003 s. 116; amended: No. 38 of 2005 s. 15; No. 25 of 2009 s. 20; No. 22 of 2012 s. 123; No. 24 of 2016 s. 314(5); No. 40 of 2020 s. 110(1), (3) and (4)-(6); No. 4 of 2023 s. 121.]
