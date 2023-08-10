@@ -46,6 +46,7 @@ Conservation and Land Management Amendment Regulations (No. 3) 2022 | SL 2022/15
 Environment Regulations Amendment Regulations 2022 Pt. 2 | SL 2022/170 21 Oct 2022 | 22 Oct 2022 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 4) 2022 | SL 2022/193 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 2023 Pt. 2 | SL 2023/50 19 May 2023 | 1 Jul 2023 (see r. 2(b))
+Conservation and Land Management Amendment Regulations (No. 2) 2023 | SL 2023/130 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
 Other notes
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
