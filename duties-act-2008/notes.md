@@ -33,11 +33,11 @@ Community Titles Act 2018 Pt. 14 Div. 6 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021
 Duties Amendment Act 2022 | 16 of 2022 | 27 May 2022 | Pt. 4: deemed to have come into operation on 13 Jun 2019 (see s. 2(c)); Pt. 1: 27 May 2022 (see s. 2(a)); Act other than Pt. 1, 3 and 4: 28 May 2022 (see s. 2(d)); Pt. 3: 1 Jul 2022 (see s. 2(b))
 Family Court Amendment Act 2022 Pt. 4 | 28 of 2022 | 31 Aug 2022 | Pt. 4 (other than Div. 3): 1 Sep 2022 (see s. 2(b)); Pt. 4 Div. 3: 28 Sep 2022 (see s. 2(c) and SL 2022/159 cl. 2)
 Duties Amendment (Farm-in Agreements) Act 2022 | 37 of 2022 | 1 Nov 2022 | s. 1 and 2: 1 Nov 2022 (see 2(a)); Act other than s. 1 and 2: 2 Nov 2022 (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 3 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 3 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
@@ -71,7 +71,7 @@ administration order139A(1)
 administrator139A(1)
 affected derivative mining rightSch. 3 cl. 74(6)
 affected entity259(1)
-affected mining tenementSch. 3 cl. 73(3) and 74(5)
+affected mining tenementSch. 3 cl. 73(3), Sch. 3 cl. 74(5)
 aggregated group interest163(2), 205ZH(3)
 agreement by instalments33(1)
 amended provisionsSch. 3 cl. 37
@@ -80,7 +80,7 @@ amending ActSch. 3 cl. 60(1)
 amendment daySch. 3 cl. 60(1)
 appropriate reassessment officer244B(3)
 approved superannuation fund122(2)
-associate205A(1), 205B(1) and (2)
+associate205A(1), 205B(1), 205B(2)
 associated acquisition259(6)
 authorised trustee corporation63
 B44(2), 257(2)
@@ -104,7 +104,7 @@ child128(1)
 chosen entity125(2)
 circuit layout right79
 commencementSch. 3 cl. 37
-commencement daySch. 3 cl. 46(1) and 55(1)
+commencement daySch. 3 cl. 46(1), Sch. 3 cl. 55(1)
 Commissioner113A(1)
 commodities79
 Commonwealth Act121
@@ -114,7 +114,7 @@ company C12(4), 160A(2)
 completed91Q(2), Sch. 3 cl. 71(4)
 complying approved deposit fund121
 complying superannuation fund121
-concessional farm-in transaction9, 91K(1), 91L(3) and (4)
+concessional farm-in transaction9, 91K(1), 91L(3), 91L(4)
 concessional first home owner141(1)
 concessional rate9
 concessional transaction147(1)
@@ -123,7 +123,7 @@ consideration3, 9, 91R(1), Sch. 3 cl. 71(1)
 contingent consideration32(1)
 continuing proprietor or proprietors45(1), 178(3)
 contract of insurance206, 208
-controlling entity264(1)
+controlling entity264(1), 264(1)
 corporate consolidation259(1)
 corporate trustee3
 corporation3
@@ -146,14 +146,16 @@ de facto superannuation agreement128(1)
 dependant127(1)
 dependent transaction274(1)
 deposit141(1)
-derivative mining right3, Sch. 3 cl. 71(1) and 74(1)
+derivative mining right3, Sch. 3 cl. 71(1), Sch. 3 cl. 74(1)
 digitally sign22A, 273A(1)
 direct interest154A(3)
 director3
 discretionary trust3
 disposition9, 63
-distributed value194(4)
+distributed value194(4), 194(4)
 distribution139(1)
+diversification lease3
+diversification lessee3
 dormant corporation42(6)
 duplicate3
 dutiable property3, 15, 70
@@ -162,15 +164,15 @@ dutiable transactions11(2)
 dutiable value9, 205F(1), 231
 duties Act3
 duty3, 9, 148(1), 206, 228
-duty endorsed3, 272(1), (2) and (3)
+duty endorsed3, 272(1), 272(2), 272(3)
 dwelling205A(1)
-earlier acquisition189(4) and (6)
+earlier acquisition189(4), 189(6)
 earlier instrumentSch. 3 cl. 10(1)
 electronic conveyancing instrument22A, 273A(1)
 eligible rollover fund121
 endorsed transaction118(1)
 entitled3
-entitlement value194(4)
+entitlement value194(4), 194(4)
 entity9, 102(3), 148(1), 257(1)
 exempt body3
 exempt family farm transaction99(1)
@@ -191,7 +193,7 @@ farm-in agreement91K(1), 91L(1)
 farming land99(1)
 farming land conditional agreement9
 farming property99(1)
-farm-in transaction91K(1), 91M(1) and (2)
+farm-in transaction91K(1), 91M(1), 91M(2)
 farmor91K(1), 91L(1)
 FHOG Act141(1)
 financial services licensee206
@@ -206,13 +208,13 @@ first pre-amendment periodSch. 3 cl. 60(1)
 first transaction104
 fixed infrastructure3
 fixed infrastructure 91A(1)
-fixed infrastructure access right3, 91A(1), (2) and (4)
+fixed infrastructure access right3, 91A(1), 91A(2), 91A(4)
 fixed infrastructure activity91D(1)
-fixed infrastructure control right3, 91A(1) and (4)
-fixed infrastructure statutory licence3, 91A(1) and (4)
+fixed infrastructure control right3, 91A(1), 91A(4)
+fixed infrastructure statutory licence3, 91A(1), 91A(4)
 fixed infrastructure transaction91C(1)
 flag lifting agreement128(1)
-foreign acquirer205ZD(1), 205ZE(2), 205ZT
+foreign acquirer205ZD(1), 205ZE(2), 205ZE(2), 205ZT
 foreign corporation205A(1), 205C(2)
 foreign dutiable transaction3, 205H(1)
 foreign dutiable transactions205H(2)
@@ -222,7 +224,7 @@ foreign landholder duty3
 foreign person205A(1)
 foreign tax267(1)
 foreign transfer duty3
-foreign transfer duty endorsed205F(1), (2) and (3)
+foreign transfer duty endorsed205F(1), 205F(2), 205F(3)
 foreign trust205A(1), 205D(1)
 foreign trustee205A(1)
 former Chapter 2 Part 6 Division 4ASch. 3 cl. 59(1)
@@ -233,7 +235,7 @@ further concessional transaction141(1)
 further interest148(1)
 general conditional agreement9
 general insurance206
-General insurance209(1) and (2)
+General insurance209(1), 209(2)
 general insurer206, 214
 general rate3
 goods vehicle244A(1)
@@ -254,13 +256,13 @@ interstate duty206
 intervening transactions42(8)
 issue of title conditional agreement9
 issuing law91A(1)
-land3, 3A(1), (2) and (5), 148(1), Sch. 3 cl. 48(2), (3) and (4)
+land3, 3A(1), 3A(2), 3A(5), 148(1), Sch. 3 cl. 48(2), Sch. 3 cl. 48(2), Sch. 3 cl. 48(3), Sch. 3 cl. 48(4)
 land asset148(1), 205ZE(2)
 landholder91A(1), 148(1)
 landholder duty3
 lease3
 legal personal representative127(1)
-licence228, 230(2) and (3)
+licence228, 230(2), 230(3)
 life insurance206
 linked entity91A(1), 148(1), 156(2)
 listed corporation148(1)
@@ -271,15 +273,15 @@ lodge3
 lot96
 lower entity154A(1)
 madeSch. 3 cl. 61(1)
-main acquisition195B(1) and (3), 204G(1), 204H(1), 205ZKA(1)
+main acquisition195B(1), 195B(3), 204G(1), 204H(1), 205ZKA(1)
 main entities156A(1)
-main entity154A(1), 156(1), 195B(1) and (3), 204A(1), 204G(1), 205ZKA(1)
+main entity154A(1), 156(1), 195B(1), 195B(3), 204A(1), 204G(1), 205ZKA(1)
 major holder264(1)
 majority shareholder3
 managed investment scheme9
 matrimonial instrument128(1)
 matrimonial property128(1)
-merging corporations12(4) and (5), 160A(2) and (3)
+merging corporations12(4), 12(5), 160A(2), 160A(3)
 minerals91K(1)
 mining91K(1)
 mining tenement3
@@ -290,19 +292,21 @@ mining tenement valuation provision91I(1)
 motor cycle244A(1)
 motorised wheelchair244A(1)
 motor vehicle228
-new dutiable property9, 17(1) and (2)
+new dutiable property9, 17(1), 17(2)
+new lease18
 new mining tenement91M(8), Sch. 3 cl. 74(2)
 new record273(3)
-new residential property205F(1), 205I(1) and (2)
+new residential property205F(1), 205I(1), 205I(2)
 new trustee119(1)
 new vehicle228
 nominal duty3
-non-prospecting dutiable transaction91U(4) and (5)
+non-prospecting dutiable transaction91U(4), 91U(5)
 non-prospecting interest91U(1)
 non-prospecting mining tenement91U(1)
-notifiable event257(1), 264(2) and (3)
-notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
+notifiable event257(1), 264(2), 264(3)
+notional transfer167(1), 167(5), 168(1), 168(5), 205ZM(1), 205ZM(4)
 offshore risk insurance206
+old lease18
 old partnership77(4)
 old public unit trust119(1)
 optional feature231
@@ -372,9 +376,9 @@ relevant acquisition Sch. 3 cl. 37
 relevant activity91A(1)
 relevant body3
 relevant consideration91O(3)
-relevant consolidation transaction257(1), 259(2), (3), (4) and (5)
+relevant consolidation transaction257(1), 259(2), 259(3), 259(4), 259(5)
 relevant derivative mining right91K(1), 91M(1)
-relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
+relevant entity126(1), 155(4), 156A(1), 156A(1), 264A(1), 266A(1)
 relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
 relevant land assets167(1), 168(1)
@@ -384,7 +388,7 @@ relevant partnership property78(1), 78A(1)
 relevant period29(3), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
 relevant provisionSch. 3 cl. 61(1)
-relevant reconstruction transaction257(1), 260(1), (2), (2A), (3), (4) and (5)
+relevant reconstruction transaction257(1), 260(1), 260(2), 260(2A), 260(3), 260(4), 260(5)
 relevant reconstruction transaction property266B(2)
 relevant residential property205ZM(1)
 relevant time91T(6), 91U(7)
@@ -395,16 +399,16 @@ relinquishing person167(1), 168(1), 205ZM(1)
 relocatable home3
 replacement derivative mining right91K(1), 91M(7), Sch. 3 cl. 74(1)
 replacement dutiable transaction91R(3)
-replacement mining tenement91K(1), 91M(6), Sch. 3 cl. 73(1) and 74(1)
+replacement mining tenement91K(1), 91M(6), Sch. 3 cl. 73(1), Sch. 3 cl. 74(1)
 replacement transaction107(1)
 representative206
-represented person139A(2)
+represented person139A(2), 139A(2)
 required duty273(1)
 residence96
 residential landholder205ZD(1)
 residential park site3
 residential partnership acquisition205F(1)
-residential property3, 205E(1), (2) and (3)
+residential property3, 205E(1), 205E(2), 205E(3)
 residential trust acquisition205F(1)
 residential trust surrender205F(1)
 responsible entity119(1)
@@ -460,7 +464,7 @@ terminated on relevant grounds9
 terms contract141(1)
 trailer228
 transaction3, Sch. 3 cl. 46(1)
-transaction group257(1)
+transaction group257(1), 257(1)
 transaction record3
 transfer9
 transfer duty3
@@ -485,3 +489,7 @@ voting power205C(1)
 Western Australian business9, 79
 Western Australian business asset9, 79
 wound up3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

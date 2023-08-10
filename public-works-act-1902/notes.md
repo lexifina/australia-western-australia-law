@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Works Act 1902 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Public Works Act 1902 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table..
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Works Act 1902 | 1902 (2 Edw. VII No. 47) | 20 Dec 1902 | 20 Dec 1902
@@ -72,10 +72,7 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 225 | 25 of 2012 | 3
 Reprint 11: The Public Works Act 1902 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 Electricity Corporations Amendment Act 2013 s. 45 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Health Services Act 2016 s. 300 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Land and Public Works Legislation Amendment Act 2023 Pt. 3 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 3 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Other notes
 Repealed by the Roads Act 1911, which was repealed by the Road Districts Act 1919, which was repealed by the Local Government Act 1960, which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).
@@ -103,16 +100,15 @@ Crown land2
 ferry91(1)
 ford91(1)
 Government work2
+hospital2
 judge2
 local authority2
-local work2
 Minister2, 2
 public authority113(1)
 public reserve2
 Public Transport Authority2
 public work2
 railway2, 95
-Registrar2
 relevant person113A
 river2
 road2, 84
@@ -121,4 +117,7 @@ surveyor2
 testing work83A(1)
 waste112(1)
 waste management operation112(1)
-work2
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

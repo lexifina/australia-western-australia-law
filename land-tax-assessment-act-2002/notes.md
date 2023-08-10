@@ -40,11 +40,8 @@ Revenue Laws Amendment Act 2019 Pt. 3 Div. 2-4 | 12 of 2019 | 12 Jun 2019 | Pt. 
 Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 6 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Land Tax Assessment Amendment Act 2022 | 42 of 2022 | 21 Nov 2022 | Pt. 2: deemed to have come into operation on 1 Jul 2020 (see s. 2(b)); Pt. 1: 21 Nov 2022 (see s. 2(a)); Act other than Pt. 1 and 2: 22 Nov 2022 (see s. 2(c))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 7 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Land Tax Assessment (Build-to-Rent) Amendment Act 2024 | 22 of 2024 | 15 May 2024 | Act other than s. 1 and 2: deemed to have come into operation on 1 Jul 2023 (see s. 2(b)(ii)); s. 1 and 2: 15 May 2024 (see s. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 7 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 3 Div. 2.
 If a modification is to:
@@ -102,6 +99,8 @@ decisionSch. 1 cl. 12(1) and 18(1)
 disabled beneficiaryGl. cl. 1
 disabled person26A(1)
 discretionary trust29
+diversification leaseGl. cl. 1
+diversification lesseeGl. cl. 1
 dwelling or residential park39A, Sch. 1 cl. 23(1)
 dwelling park39A
 excluded land39A, 39E
@@ -113,7 +112,7 @@ exempt expansion build-to-rent development39E
 exemption percentage39E
 exemption period28A
 exemption provision18(1), 18A(1), 28A
-exempt purposeGl. cl. 1
+exempt purposeGl. 1
 family corporation29, 30H
 family member29
 family owner29, 30H
@@ -124,7 +123,7 @@ former section 20Sch. 1 cl. 8(1)
 former section 30Sch. 1 cl. 7(1)
 full-time care26B(2)
 home lotGl. cl. 2(4)
-home unitGl. cl. 1
+home unitGl. 1
 improvementsGl. cl. 1
 improvement schemeGl. cl. 1
 individual30I(1)
@@ -138,6 +137,7 @@ local planning schemeGl. cl. 1
 long-stay site39A
 lotGl. cl. 1 and 2(1)
 metropolitan regionGl. cl. 1
+mining tenementGl. cl. 1
 modified rural business land provisions Sch. 1 cl. 10
 new exemption percentageSch. 1 cl. 23(1)
 new lot28A, 43A(1)
@@ -146,14 +146,14 @@ new provisionsSch. 1 cl. 3
 non-profit associationGl. cl. 1
 non-public authoritySch. 1 cl. 16
 non-rural land29
-non-strata home unitGl. cl. 1. 1M, 1MC
+non-strata home unitGl. cl. 1
 old exemption percentageSch. 1 cl. 23(1)
 old lot43A(1)
 old Part 3 Division 4ASch. 1 cl. 23(1)
 operate39A
 original assessment year38AC(8)
 other lotsGl. cl. 2(4)
-ownerGl. cl. 1
+ownerGl. 1
 owner-builderGl. cl. 1
 owner-occupied home site39A
 P%15A(3)
@@ -177,7 +177,7 @@ produce animals30A(1)
 professional associationGl. cl. 1
 promote trade, industry or commerceGl. cl. 1
 property A27(1)
-property B27(1)
+property B26B(1)
 public charitable or benevolent institution37(1)
 public statutory authorityGl. cl. 1
 registeredGl. cl. 1
@@ -187,7 +187,7 @@ relevant bodyGl. cl. 1
 relevant event or circumstance20A(3)
 relevant exemption provisionSch. 1 cl. 21(3)
 relevant financial years15A(2), 15B(1)
-relevant owners28E(1)
+relevant owners28E(1), 28E(1)
 relevant period28E(1)
 relevant requirements18(1), 18A(1)
 relevant year20A(1), Sch. 1 cl. 23(1)
@@ -197,20 +197,20 @@ residence contract39(1)
 residential care38A(1)
 residential park39A
 residential premises39(1)
-residential tenancy agreement 39E
+residential tenancy agreement39E
 retirement village39(1), Gl. cl. 1
 retirement village scheme39(1)
 rural business land assessmentSch. 1 cl. 10
 rural land29
 shareholder30J
 short-stay site39A
-social housing premises 39E
+social housing premises39E
 sportGl. cl. 1
 sports associationGl. cl. 1
-strata lot 39E
+strata lot39E
 subdividedGl. cl. 1
 subdividing ownerGl. cl. 1
-substantial renovation 39E
+substantial renovation39F(2)
 Swan Valley Planning SchemeGl. cl. 1
 taxable authorityGl. cl. 1
 taxable landGl. cl. 1
@@ -221,7 +221,7 @@ trusteeGl. cl. 1
 unimproved valueGl. cl. 1
 unit holder30
 unsatisfied requirements28B(1)
-validation periodSch. 1 cl. 10, Sch. 1 cl. 16
+validation periodSch. 1 cl. 10 and 16
 X%15A(3A), 39B(2)
 Y%15A(3A)
 © State of Western Australia 2023.

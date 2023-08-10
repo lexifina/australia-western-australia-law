@@ -43,11 +43,11 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 8 | 17 of 2014 | 2 Jul 2014 
 Reprint 8: The Petroleum and Geothermal Energy Resources Act 1967 as at 15 Jan 2016 (includes amendments listed above)
 Petroleum Legislation Amendment Act 2017 Pt. 2 | 7 of 2017 | 14 Sep 2017 | 15 Nov 2017 (see s. 2(b) and Gazette 14 Nov 2017 p. 5597)
 Work Health and Safety Act 2020 Pt. 15 Div. 3 Subdiv. 1 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 10 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 10 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Petroleum Act 1936 was repealed by this Act, s. 3.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
@@ -166,12 +166,13 @@ Commonwealth licence5(1)
 Commonwealth permit5(1)
 Commonwealth title97A(1)
 compensable lessee21(1)
-construct5(1)
+construct3(1)
 construction5(1)
-court126(2)
+court125(2)
 Crown land5(1)
-dealing69(10)
+dealing68(10)
 debenture75(15)
+diversification lease5(1)
 document5(1)
 documentary information150A
 drilling reservation5(1)
@@ -200,12 +201,12 @@ geothermal resources area5(1)
 geothermal retention lease5(1)
 geothermal special prospecting authority5(1)
 geothermal title69A(1), 106(13)
-good oil-field practice5(1)
+good oil-field practice3(1)
 granted5(1)
 graticular section5(1)
 holder91B(1)
 holder of a drilling reservation5(1)
-inshore area6A(1)
+inshore area6A
 inspector5(1)
 Joint Authority7B(7), 69(1A)
 lease5(1)
@@ -229,7 +230,8 @@ original licence61(1)
 original permit37A(1)
 other area7B(8) and (12)
 partly cancelled5(1)
-partly determined5(1)
+partly determined5
+pastoral lease5(1)
 permit5(1)
 permit application32(1A)
 permit area5(1)
@@ -268,7 +270,7 @@ royalty period5(1)
 royalty value5(1)
 second affected area6A(5)
 secondary licence5(1)
-section 27 block37B(1), 47(1A), 48CD(1), 61A(1), 97A(1)
+section 27 block37B(1), 47(1A), 48CD(1), 61A, 97A(1)
 special prospecting authority5(1)
 State26
 structure5(1)
@@ -284,3 +286,7 @@ water113(2)
 well5(1)
 wholly cancelled5(1)
 wholly determined5(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

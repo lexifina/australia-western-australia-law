@@ -65,6 +65,7 @@ Environmental Protection Amendment Act 2020 Pt. 2 (other than s. 4(2), (4), (6) 
 Environmental Protection Amendment Act (No. 2) 2020 s. 4 | 41 of 2020 | 19 Nov 2020 | 3 Feb 2021 (see s. 2(1)(b) and SL 2021/12 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 3 | 45 of 2020 | 9 Dec 2020 | Pt. 10 Div. 3 (other than s. 103): 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2); s. 103: 1 Aug 2023 (see s. 2(1)(c)(ii) and SL 2023/107 cl. 2)
 Aboriginal Cultural Heritage Act 2021 s. 348 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 4 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 24 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
@@ -74,7 +75,6 @@ Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be 
 Planning and Development Amendment Act 2020 Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
 Environmental Protection Amendment Act 2020 s. 4(2), (4), (6) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 4(6): on the later of either the day on which the Planning and Development Amendment Act 2020 s. 64 comes into operation or immediately after s. 4(2) comes into operation (see s. 2(1)(b)); s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
-Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 4 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
