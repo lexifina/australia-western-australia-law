@@ -43,6 +43,7 @@ Land Administration Amendment Regulations 2021 | SL 2021/103 29 Jun 2021 | r. 1 
 Land Administration Amendment Regulations (No. 2) 2021 | SL 2021/189 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Land Administration Amendment Regulations 2022 | SL 2022/90 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Land Administration Amendment Regulations 2023 | SL 2023/61 2 Jun 2023 | r. 1 and 2: 2 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
+Land Administration Amendment Regulations (No. 2) 2023 | SL 2023/128 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
