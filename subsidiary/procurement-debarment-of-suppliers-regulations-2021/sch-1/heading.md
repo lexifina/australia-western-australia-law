@@ -15,6 +15,7 @@ Item | Category of conduct | Description of conduct
 12. | False or misleading representations and unconscionable conduct | Australian Consumer Law — contraventions under sections 18, 20, 21, 32, and offences under section 151 Corporations Act — offences under section 1041E and contraventions under section 1041H
 13. | Unfair trade practices (cartel provisions) | Competition and Consumer Act 2010 (Commonwealth) — offences under sections 45AF, 45AG, 79 and contraventions under sections 45AJ, 45AK
 14. | Creditor-defeating dispositions | Corporations Act — offences or contraventions under sections 588GAB(1), 588GAB(2), 588GAC(1), 588GAC(2)
+14A. | Non-compliance with security of payments legislation | Building and Construction Industry (Security of Payment) Act 2021 — offences under section 65
 15. | Insider trading | Corporations Act — offences or contraventions under section 1043A
 16. | Lobbying | Foreign Influence Transparency Scheme Act 2018 (Commonwealth) — offences under sections 57, 57A(1), 57A(2), 60, 61
 17. | Human trafficking | Commonwealth Criminal Code — offences under sections 270.3, 270.5, 270.6A, 270.7, 271.2 to 271.7, 271.7B to 271.7G
@@ -28,3 +29,4 @@ Item | Category of conduct | Description of conduct
 25. | Attempting, conspiring, inciting, aiding, abetting, counselling or procuring offences | An offence of attempting, or of conspiracy or incitement, to commit an offence described in this Schedule or an offence of aiding, abetting, counselling or procuring the commission of any such offence.
 26. | Similar conduct in other jurisdictions | An offence or contravention under a law of another State, of a Territory or of another country that would, in the opinion of the Department CEO, have been an offence or contravention described in this Schedule if the conduct had occurred in Western Australia.
 27. | Similar conduct under repealed legislation | Offences or contraventions under repealed enactments that are substantially the same as the offences or contraventions described in this Schedule.
+[Schedule 1 amended: 2023/133 r. 4.]
