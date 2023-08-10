@@ -5,6 +5,7 @@ Citation | Published | Commencement
 Work Health and Safety (Mines) Regulations 2022 (other than r. 58) | SL 2022/32 11 Mar 2022 | Regulations other than r. 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c))
 Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/214 23 Dec 2022 | 24 Dec 2022 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
+Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 3 | SL 2023/134 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -114,7 +115,7 @@ conveyor5
 correct classification5
 correctly classifiedSch. 9 cl. 1(1), (2) and (3)
 correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2) and 10(1)
-correctly packedSch. 9 cl. 2(1) and 2(2)
+correctly packedSch. 9 cl. 2(1) and (2)
 crane5
 current certificate of medical fitness5
 danger zone166A(1)
@@ -180,6 +181,7 @@ general construction induction training card5, 318(1)
 general construction induction training certification5
 general diving work5
 genuine research5
+Geocentric Datum of Australia 2020675TA(1)
 geotechnical structure5
 GHS5
 harness221(1A)
@@ -329,7 +331,7 @@ registered manager705
 registered medical practitioner5
 registered training organisation5
 registrable plant716(1), 718(1)
-relevant activitySch. 27 cl. 1(1), 2(1), 3(1), 4(1), 5(1) and 6(1)
+relevant activitySch. 27 cl. 1(1), 2(1), 3(1), 4(1) and 5(1)
 relevant competence committee5
 relevant competencies171(1A)
 relevant diving experience172(1A), 173(1A)
@@ -441,3 +443,7 @@ work box5
 worker monitoring plan641I(1)
 workers’ accommodation55D(1A)
 work positioning system5
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

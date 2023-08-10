@@ -6,6 +6,7 @@ Work Health and Safety (General) Regulations 2022 (other than r. 58) | SL 2022/3
 Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/214 23 Dec 2022 | 24 Dec 2022 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
 Work Health and Safety (General) (Fees) Amendment Regulations 2023 | SL 2023/42 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
+Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 2 | SL 2023/134 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
