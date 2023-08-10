@@ -108,6 +108,7 @@ Firearms Amendment Regulations 2023 | SL 2023/1 13 Jan 2023 | r. 1 and 2: 13 Jan
 Firearms Amendment Regulations (No. 2) 2023 | SL 2023/46 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/74 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Firearms Amendment Regulations (No. 4) 2023 | SL 2023/91 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
+Firearms Amendment Regulations (No. 3) 2023 | SL 2023/129 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
 Other notes
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
@@ -115,13 +116,14 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act2(1)
-approvedSch. 3 cl. 12(7B)
+approvedSch. 3 cl. 12(7)
 authorised person25A(1)
-barrel lengthSch. 3 cl. 12(7B)
+barrel lengthSch. 3 cl. 12(7)
 calibre2(1)
 category2(1)
 close associate6C(2)
 current firearm serviceability certificate2(1)
+diversification leaseSch. 3 cl. 12(7)
 faceSch. 4 cl. 1(6)
 fee2(1)
 firearm item2(1)
@@ -131,7 +133,7 @@ firearms safety test2(1)
 Form2(1)
 licence20(1)
 locking pointSch. 4 cl. 4(8)
-pastoral leaseSch. 3 cl. 12(7B)
+pastoral leaseSch. 3 cl. 12(7)
 prescribed person6F(1)
 relevant financial interest6C(1)
 relevant position6C(1)
