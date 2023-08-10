@@ -94,6 +94,7 @@ Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 5 | SL 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 18 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 16 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 16 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
+Commerce Regulations Amendment (Property Licensing) Regulations 2023 Pt. 3 | SL 2023/131 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
 Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.

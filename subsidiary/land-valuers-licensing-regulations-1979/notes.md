@@ -51,8 +51,8 @@ Commerce Regulations Amendment (COVID-19 Response) Regulations (No. 2) 2020 Pt. 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 13 | SL 2021/86 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 11 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
+Commerce Regulations Amendment (Property Licensing) Regulations 2023 Pt. 2 | SL 2023/131 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
 Other notes
-The Curtin University of Technology Act 1966 s. 5 established the Western Australian Institute of Technology as the Curtin University of Technology from 1 January 1987.
 The commencement date of 1 Jul 1989 that was specified was before the date of gazettal.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
