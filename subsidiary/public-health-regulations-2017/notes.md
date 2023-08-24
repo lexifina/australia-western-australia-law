@@ -9,6 +9,7 @@ Public Health Amendment Regulations 2020 | SL 2020/154 11 Sep 2020 | r. 1 and 2:
 Public Health Amendment Regulations 2021 | SL 2021/47 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2021 (see r. 2(b))
 Public Health Amendment Regulations (No. 2) 2021 | SL 2021/122 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b))
 Public Health Amendment Regulations 2023 | SL 2023/38 5 May 2023 | r. 1 and 2: 5 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2023 (see r. 2(b))
+Public Health Amendment Regulations (No. 3) 2023 | SL 2023/136 23 Aug 2023 | r. 1 and 2: 23 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Aug 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -20,3 +21,7 @@ recognised immunisation provider10A(1)
 relevant person10A(1)
 scheduled vaccinations10AC(1)
 Veterans’ Affairs Department10AB(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
