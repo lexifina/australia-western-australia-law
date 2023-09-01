@@ -26,7 +26,7 @@ and
 (5) Unless subregulation (6) applies, the owner of a recreational paddle craft that proceeds more than 2 nautical miles from the mainland, or more than 400 m from an island situated more than 2 nautical miles from the mainland, must ensure that the recreational paddle craft is equipped with an Emergency Position Indicating Radio Beacon or personal locator beacon.
 (6) The owner of a recreational paddle craft that proceeds more than 5 nautical miles from the mainland, or more than one nautical mile from an island situated more than 5 nautical miles from the mainland, must ensure that the recreational paddle craft is equipped with —
 (a) an Emergency Position Indicating Radio Beacon or personal locator beacon; and
-(b) a marine transceiver approved by the Spectrum Management Authority of the Commonwealth; and
+(b) a marine transceiver; and
 (c) not fewer than 2 parachute distress rockets; and
 (d) not fewer than —
 (i) 2 hand held orange smoke signals; or
@@ -40,4 +40,4 @@ and
 (a) maintain the equipment in a serviceable condition; and
 (b) produce the equipment to an officer of the department on demand.
 (11) A person who contravenes subregulation (3), (4), (5), (6) or (10) commits an offence.
-[Regulation 52BAD inserted: Gazette 25 Jul 2014 p. 2587-8; amended: Gazette 3 Mar 2017 p. 1489-90.]
+[Regulation 52BAD inserted: Gazette 25 Jul 2014 p. 2587-8; amended: Gazette 3 Mar 2017 p. 1489-90; SL 2023/135 r. 32.]

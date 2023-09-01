@@ -11,7 +11,7 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 2 | 14A(b) | Navigating vessel so as to obstruct, impede or interfere with other vessel | 160
 3 | 14B | Permitting person to expose portion of body to risk of injury beyond hull limits of vessel | 60
 4 | 15(1) | Motor boat towing more than one vessel through or under bridge | 60
-5 | 19(2) | Navigating vessel less than 3.75 m long more than 5 nautical miles from nearest point at low water mark on mainland shore | 100
+[5deleted]
 6 | 19A | Vessel exceeding speed of 10 knots between sunset and sunrise —
  |  | (a)by not more than 10 knots | 160
  |  | (b)by more than 10 knots | 200
@@ -36,20 +36,17 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 21 | 45E(1)(b) | Failing to notify Department of sale or disposal of registered vessel within 7 days | 60
 22 | 45E(2)(a) | Failing to apply for transfer of registration within 15 days of acquisition of registered vessel | 120
 23 | 45E(3) | Failing to notify Department of loss of registered vessel within 15 days | 60
-23A | 47AA(3) | Person between 10 and 16 driving an RST vessel unless under supervision (before 1 April 2007) | 200
-23B | 47AB(3) | Person between 10 and 14 driving an RST vessel unless under supervision (between 1 April 2007 and 1 April 2008) | 200
-23C | 47AB(4) | Person between 14 and 16 driving an RST vessel unless — (a)driving at not more than 8 knots and during the day time; or (b)under supervision (between 1 April 2007 and 1 April 2008) | 200
-23D | 47AB(5) | Person between 16 and 25 driving an RST vessel unless holding a recreational skipper’s ticket or under supervision (between 1 April 2007 and 1 April 2008) | 200
-23E | 47A(3) | Person between 10 and 14 driving an RST vessel unless under supervision (on and after 1 April 2008) | 200
-23F | 47A(4) | Person between 14 and 16 driving an RST vessel unless — (a)holding a recreational skipper’s ticket and driving at not more than 8 knots and during the day time; or (b)under supervision (on and after 1 April 2008) | 200
-23G | 47A(5) | Person over 16 driving an RST vessel unless holding a recreational skipper’s ticket or under supervision (on and after 1 April 2008) | 200
-23H | 47AA(4) 47AB(6) 47A(6) | Owner allowing RST vessel to be driven in contravention of regulation 47AA, 47AB or 47A | 200
+[23A-23Ddeleted]
+23E | 47A(3) | Person between 10 and 14 driving an RST vessel unless under supervision | 200
+23F | 47A(4) | Person between 14 and 16 driving an RST vessel unless — (a)holding a recreational skipper’s ticket and driving at not more than 8 knots and during the daytime; or (b)under supervision | 200
+23G | 47A(5) | Person over 16 driving an RST vessel unless holding a recreational skipper’s ticket or under supervision | 200
+23H | 47A(6) | Owner allowing RST vessel to be driven in contravention of regulation 47A | 200
 23I | 47H | Failing to produce recreational skipper’s ticket on request | 200
 23J | 47I | Holder of recreational skipper’s ticket failing to notify change of details | 120
 24 | 48(a)(i) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing in water with a depth of less than 3 m | 160
 24A | 48(a)(ii) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 50 m of a river bank or low water mark | 160
 24B | 48(b) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing in or through mooring area | 160
-24C | 48(c) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 15 m of a vessel under weigh | 160
+24C | 48(c) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 15 m of a vessel underway | 160
 24D | 48(d)(i) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 50 m of a moored vessel | 160
 24E | 48(d)(iii) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 50 m of a person in the water | 200
 24F | 48(d)(iv) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing within 50 m of a jetty or wharf | 160
@@ -69,22 +66,26 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 37 | 49M(a) or (b) | Using navigable waters for purpose of slalom course or ski-jump —
  |  | (a)without prior written permission of Department | 100
  |  | (b)without required marker buoys and pennants | 60
-38 | 50 | Driving motor boat towing water skier between sundown and 8am on Swan River or between sundown and 9am on Canning River | 200
+38 | 50(1) | Driving motor boat towing water skier between sunset and 8 am on Swan River or between sunset and 9 am on Canning River | 200
 38A | 50A(2) | Freestyle driving, surfing or wave jumping in a prohibited area | 200
 38B | 50A(3) | Freestyle driving, surfing or wave jumping within — (a)30 m of another personal watercraft; or (b)50 m of any other vessel or person | 200
-38C | 50B | Failing to wear an appropriate lifejacket while on a personal watercraft | 200
+38C | 50B(3) and (4) (as read with (8)) | Person over 12 years failing to wear appropriate lifejacket | 200
+38D | 50B(5) (as read with (8)) | Person over 12 years required to wear appropriate lifejacket failing to produce the lifejacket they are wearing to officer of Department on demand | 160
+38E | 50B(6) (as read with (9)) | Master or person in charge of a vessel failing to ensure that an appropriate lifejacket is worn by a person on the vessel | 200
+38F | 50B(7) (as read with (9)) | Master or person in charge of a vessel failing to produce to officer of Department on demand a lifejacket being worn by a person on board who is under 12 and required to wear an appropriate lifejacket | 160
 39 | 51 | Using motor boat not fitted with efficient silencer approved by Department | 160
 40 | 51A | Causing or permitting motor boat to emit smoke or vapour causing danger, nuisance or annoyance . | 160
-40A | 51D | Failing to fit a bilge pump | 160
-41 | 52 | Failing to equip vessel with approved fire extinguisher | 160
-42 | 52A | Failing to equip vessel with required number of lifejackets whilst being navigated outside protected waters | 200
-43 | 52B | Failing to equip vessel with required number of distress signals whilst being navigated outside protected waters | 160
-43A | 52BAA | Failing to equip vessel with an approved and licensed marine transceiver | 200
-43B | 52BAB | Failing to equip vessel with an approved Electronic Position Indicating Radio Beacon | 200
+[40A, 41deleted]
+42 | 52A(2) | Failing to equip registrable vessel being navigated with required number of lifejackets | 200
+42A | 52A(3) | Failing to equip non-registrable vessel being navigated outside protected waters and more than 400 m from any shore with required number of lifejackets | 200
+43 | 52B | Failing to equip vessel being navigated outside protected waters and more than 400 m from any shore with required number of distress signals | 160
+43A | 52BAA | Failing to equip vessel being navigated more than 4 nautical miles from any shore with a marine transceiver | 200
+43B | 52BAB | Failing to equip vessel being navigated outside protected waters and more than 400 m from any shore with — (a)an Electronic Position-Indicating Radio Beacon; or (b)a personal locator beacon attached to a person on board the vessel | 200
 44 | 52BA(1)(a) | Failing to maintain items of safety equipment of vessel in serviceable condition | 160
 45 | 52BA(1)(b) | Failing to have safety equipment of vessel readily accessible to all persons on board | 160
 46 | 52BA(3) | Failing to produce items of safety equipment to officer of Department on demand | 160
-47 | 52C | Vessel not carrying efficient anchor and line whilst outside protected waters | 160
+46A | 52BB | Failing to maintain lifejacket worn on personal watercraft in serviceable condition | 200
+[47deleted]
 48 | 52G | Failing to display navigation lights on small motor boat as required | 200
 Item | Western Australian Marine Act Section | Description of offence | Modified penalty $
 49 | 13(1)(a) | Uncertificated person acting in a position of command on a commercial vessel | 300
@@ -142,4 +143,4 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 95 | 3.12.1 | Failing to notify the CEO of repairs or alterations to hire and drive vessel | 50
 96 | 3.13.2 | Failing to report an accident involving hire and drive vessel | 50
 97 | 4.2.2 | Overloading a hire and drive vessel | 100
-[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38.]
+[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39.]
