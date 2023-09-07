@@ -7,9 +7,14 @@ Liquor Control (Nicholson Block Restricted Area) Amendment Regulations 2013 | 13
 Liquor Control Regulations Amendment (Restricted Area) Regulations 2016 Pt. 4 | 9 Sep 2016 p. 3887-8 | 10 Sep 2016 (see r. 2(b))
 Liquor Control (Nicholson Block Restricted Area) Amendment Regulations 2019 | 6 Sep 2019 p. 3202-3 | r. 1 and 2: 6 Sep 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2019 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 3) 2022 Pt. 3 | SL 2022/158 9 Sep 2022 | 10 Sep 2022 (see r. 2(b))
+Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 4) 2023 Pt. 3 | SL 2023/140 6 Sep 2023 | 7 Sep 2023 (see r. 2(b))
 Other notes
-These regulations expire at the close of 18 September 2023 (see r. 9).
+These regulations expire at the close of 18 September 2028 (see r. 9).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Nicholson Block Aboriginal Community3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
