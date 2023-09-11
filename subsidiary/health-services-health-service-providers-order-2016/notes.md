@@ -14,6 +14,7 @@ Health Services (Health Service Providers) Amendment Order 2020 | SL 2020/1 10 J
 Health Services (Health Service Providers) Amendment Order (No. 3) 2020 | SL 2020/94 26 Jun 2020 | cl. 1 and 2: 26 Jun 2020 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2020 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order 2021 | SL 2021/22 12 Feb 2021 | cl. 1 and 2: 12 Feb 2021 (see cl. 2(a)); Order other than cl. 1 and 2: 13 Feb 2021 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order (No. 3) 2021 | SL 2021/97 18 Jun 2021 | cl. 1 and 2: 18 Jun 2021 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2021 (see cl. 2(b) and SL 2021/83 cl. 2)
+Health Services (Health Service Providers) Amendment Order (No. 2) 2023 | SL 2023/143 7 Sep 2023 | cl. 1 and 2: 7 Sep 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Sep 2023 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -23,3 +24,7 @@ metropolitan area3
 public health service facility3
 SA23
 Statistical Geography Standard3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
