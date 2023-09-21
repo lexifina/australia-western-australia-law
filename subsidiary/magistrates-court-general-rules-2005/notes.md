@@ -32,6 +32,7 @@ Magistrates Court Rules Amendment Rules (No. 2) 2021 Pt. 3 | SL 2021/133 23 Jul 
 Magistrates Court Rules Amendment Rules 2022 Pt. 3 | SL 2022/54 13 May 2022 | 14 May 2022 (see r. 2(b))
 Magistrates Court Rules Amendment (Legal Profession) Rules 2022 Pt. 3 | SL 2022/106 24 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Magistrates Court (General) Amendment Rules 2022 | SL 2022/180 4 Nov 2022 | r. 1 and 2: 4 Nov 2022 (see r. 2(a)); Rules other than r. 1 and 2: 5 Nov 2022 (see r. 2(b))
+Magistrates Court Rules Amendment Rules 2023 Pt. 3 | SL 2023/148 20 Sep 2023 | 21 Sep 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,6 +43,7 @@ approved recipient41A(1)
 approved user3
 CEO50
 civil case28B(1)
+civil litigation information38A
 contempt29
 CPA3
 defendant29
@@ -60,9 +62,13 @@ record15
 registrar15, 25(1)
 registry3
 relevant record40A
-RT (AD) Act50
 RTA50
+RT (AD) Act50
 searchable information41A(1)
 substituted prosecution notice45A(1)
 transcript40A, 40B
 working day3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
