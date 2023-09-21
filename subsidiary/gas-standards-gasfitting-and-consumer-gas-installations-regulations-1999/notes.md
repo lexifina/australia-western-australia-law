@@ -43,13 +43,14 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 12 | SL 2
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 10 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Mutual Recognition) Regulations 2022 Pt. 3 | SL 2022/121 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 10 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
+Commerce Regulations Amendment (Gas Standards) Regulations 2023 Pt. 2 | SL 2023/147 20 Sep 2023 | 21 Sep 2023 (see r. 2(b))
 Other notes
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 apparatus3(1)
-appeal31A
+appeal30(3)
 appellant31A
 appliance3(1)
 approved3(1), Sch. 6 cl. 101
@@ -58,19 +59,19 @@ AS/NZS3(1)
 authorisation3(1)
 bathroomSch. 6 cl. 504(4)
 bayonet fittingSch. 6 cl. 504(4)
-bedroomSch. 6 cl. 101
+bedroomSch. 5 cl. 101
 caravan3(1)
 certificate of competency3(1)
 child care centreSch. 6 cl. 604A(1)
-Class I permit 3(1)
-commercial42B(1)
+Class3(1)
+commercial42A(1)
 commission17
 domestic42B(1)
-employer16(3)
+employer16(3), 16C(1)
 fitting3(1)
 fitting line3(1)
 fitting line regulatorSch. 6 cl. 406(2)
-flame safeguard systemSch. 6 cl. 101
+flame safeguard systemSch. 6
 flue3(1)
 flue gas3(1)
 flue terminal3(1)
@@ -81,23 +82,24 @@ LPG3(1)
 master meter3(1)
 maximum hourly input rate3(1)
 meter3(1)
-mobile engine3(1)
+mobile engine2(1)
 natural gas3(1)
 notice of completion3(1)
 notice of defects17
 permit3(1)
-prescribed pressureSch. 6 cl. 101
+prescribed pressureSch. 6
 pressure raising device3(1)
 registered gas fitter3(1)
 regulator3(1)
+relevant gasfitting work16A(1)
 repealed regulations43(2)
 schoolSch. 6 cl. 604A(1)
 service apparatus37(2)
 service information23(4)
 servicing3(1)
-specified16(3)
+specified15A(3)
 supervised gas fitter3(1)
-supervising gas fitter3(1)
+supervisee16A(1)
 technical review panel31A
 Type B appliance3(1)
 valve3(1)

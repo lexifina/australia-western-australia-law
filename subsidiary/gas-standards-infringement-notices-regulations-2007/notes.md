@@ -8,3 +8,8 @@ Citation | Published | Commencement
  | Gas Standards (Infringement Notices) Amendment Regulations 2013 | 20 Aug 2013 p. 3834 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
  | Reprint 1: The Gas Standards (Infringement Notices) Regulations 2007 as at 21 Mar 2014 (includes amendments listed above)
  | Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 16 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+ | Commerce Regulations Amendment (Gas Standards) Regulations 2023 Pt. 3 | SL 2023/147 20 Sep 2023 | 21 Sep 2023 (see r. 2(b))
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
