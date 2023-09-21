@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -44,6 +44,11 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5 | SL 20
 Commerce Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt. 2 | SL 2021/130 16 Jul 2021 | 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/26 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Building Amendment Regulations (No. 2) 2022 | SL 2022/162 23 Sep 2022 | r. 1 and 2: 23 Sep 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2023 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2023 (other than r. 4(2), 5 and 6) | SL 2023/146 20 Sep 2023 | r. 1 and 2: 20 Sep 2023 (see r. 2(a)); r. 4(1): 21 Sep 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Building Amendment Regulations (No. 2) 2023 r. 4(2), 5 and 6 | SL 2023/146 20 Sep 2023 | 1 Oct 2023 (see r. 2(c))
 Other notes
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -140,3 +145,7 @@ unit55(1)
 work54A(1)
 WorkSafe Commissioner14A(1)
 young child48
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
