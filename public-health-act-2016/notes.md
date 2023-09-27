@@ -16,6 +16,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1, and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 3 Div. 3 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2024 (see s. 2(c) and SL 2022/175 cl. 2)
+Abortion Legislation Reform Act 2023 Pt. 3 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -172,3 +173,7 @@ vessel4(1)
 welfare services188(1)
 working day4(1)
 World Health Organization299(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
