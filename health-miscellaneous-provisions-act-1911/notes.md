@@ -148,6 +148,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11 and Div. 16 (s. 249-271, 273 and 275) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
@@ -315,3 +316,7 @@ vessel3(1)
 WALGA247AA
 Water supply129
 writing3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
