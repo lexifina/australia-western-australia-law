@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Licensed Surveyors (Licensing and Registration) Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Licensed Surveyors (Licensing and Registration) Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Licensed Surveyors Registration Regulations 1990 | 23 Feb 1990 p. 1208-14 | 1 Mar 1990 (see r. 2)
@@ -13,10 +13,7 @@ Licensed Surveyors (Licensing and Registration) Amendment Regulations 2009 | 1 S
 Licensed Surveyors (Licensing and Registration) Amendment Regulations 2014 | 15 Jul 2014 p. 2465-7 | r. 1 and 2: 15 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2014 (see r. 2(b))
 Reprint 2: The Licensed Surveyors (Licensing and Registration) Regulations 1990 as at 14 Nov 2014 (includes amendments listed above)
 Licensed Surveyors (Licensing and Registration) Amendment Regulations 2017 | 23 Jun 2017 p. 3179-80 | r. 1 and 2: 23 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Licensed Surveyors (Licensing and Registration) Amendment Regulations 2023 r. 3 and 4 | SL 2023/149 22 Sep 2023 | 1 Oct 2023 (see r. 2(b))
+Licensed Surveyors (Licensing and Registration) Amendment Regulations 2023 | SL 2023/149 22 Sep 2023 | r. 1 and 2: 22 Sep 2023 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Oct 2023 (see r. 2(b))
 Other notes
 Published in the Government Gazette 31 October 1952 at p. 2647-55.
 Now 1 Midland Square, Midland 6056.
