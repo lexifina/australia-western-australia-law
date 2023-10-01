@@ -1,122 +1,154 @@
 ## Schedule 1 — Civil penalty provisions and amounts
 [r. 4A, 30, 31 and 33]
-[Heading inserted: Gazette 5 Jun 2012 p. 2354; amended: Gazette 24 Feb 2015 p. 738.]
+[Heading inserted: SL 2023/32 r. 19.]
 Provision | Category | Maximum civil penalty amounts
-cl. 1.41.2 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 2.13.13 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-cl. 2.13.13A | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 2.13.14(a) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-cl. 2.13.25 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-cl. 2.16.6(b) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-cl. 2.27.6 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 2.27.12 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 2.27.14 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 2.29.6 | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $15 000
-cl. 2.29.7 | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $15 000
-cl. 2.29.8 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-cl. 2.30C.4 | B | first contravention: $15 000 subsequent contraventions: $30 000
-cl. 2.31.9 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 2.32.4(a) | C | first contravention: $45 000 plus a daily amount of $10 000 subsequent contraventions: $90 000 plus a daily amount of $15 000
-cl. 2.34.2 | B | first contravention: $15 000 subsequent contraventions: $30 000
-cl. 2.34.3 | B | first contravention: $15 000 subsequent contraventions: $30 000
-cl. 2.34.6 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-cl. 2.35.1 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 2.35.2 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 2.35.3 | A | first contravention: $5 000 subsequent contraventions: $10 000
-cl. 2.36.3 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 2.36.4 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 2.37.8(a) | B | first contravention: $15 000 subsequent contraventions: $30 000
-cl. 2.38.1 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-cl. 2.38.2 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 2.38.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 2.41.2 | B | first contravention: $25 000 subsequent contraventions: $50 000
-cl. 2.42.4 | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $15 000
-cl. 2.44.4 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 3A.1.1 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 3A.5.7 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 3A.6.1 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 3A.8.1 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 3A.8.5(a) | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 3A.10.1(a) | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 3A.13.3 | A | first contravention: $10 000 subsequent contraventions: $20 000
-cl. 3.4.6 | C | first contravention: $45 000 subsequent contraventions: $90 000
-cl. 3.4.8 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 3.5.8 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 3.5.10 | C | first contravention: $45 000 subsequent contraventions: $90 000
-cl. 3.6.5 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 3.6.6B | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 3.8.2(c) | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 3.11.7A | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 3.16.4 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 3.16.7 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 3.16.8A | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 3.17.5 | C | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
-cl. 3.17.6 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 3.18.7 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 3.18.8 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 3.18.9 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 3.18.13(d)(i) | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $15 000
-cl. 3.19.1 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 3.19.8 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 3.20.2 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 3.21.4 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 3.21A.2 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 3.21A.6 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 3.21A.12 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 3.21A.13(a) | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 3.21B.1 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 3.21B.2 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 4.5.4 | C | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
-cl. 4.10.2 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 4.13.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 4.13.4 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 4.22.5(b) | B | first contravention: $25 000 subsequent contraventions: $50 000
-cl. 4.27.5 | B | first contravention: $20 000 plus a daily amount of $5 000 subsequent contraventions: $40 000 plus a daily amount of $5 000
-cl. 6.5.1A | B | first contravention: $20 000 subsequent contraventions: $40 000
-cl. 6.6.3 | C | first contravention: $100 000 subsequent contraventions: $100 000
-cl. 6.7.3 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 6.7.4 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 6.19.9 | B | first contravention: $25 000 subsequent contraventions: $50 000
-cl. 7.5.5 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7.6A.2(g) | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7.6A.3(c) | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7.6A.5(e) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-cl. 7.6A.6 | B | first contravention: $25 000 subsequent contraventions: $50 000
-cl. 7.7.6(b)(i) | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7.7.6A | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7.9.1 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7.9.3 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7.9.5 | C | first contravention: $45 000 subsequent contraventions: $90 000
-cl. 7.9.7 | C | first contravention: $45 000 subsequent contraventions: $90 000
-cl. 7.9.9 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7.9.10 | C | first contravention: $45 000 subsequent contraventions: $90 000
-cl. 7.9.12(a) | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7.10.1 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7.10.3 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7.10.3A | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 7.10.6 | C | first contravention: $35 000 subsequent contraventions: $70 000
-cl. 7.10.6A(a) | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7.11.7 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 7.11.9 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 7A.2.8 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7A.2.9 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7A.2.13 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7A.2.17 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7B.2.10 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7B.2.11 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7B.2.15 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 8.1.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 8.3.1 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 8.3.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 8.3.5 | B | first contravention: $25 000 subsequent contraventions: $50 000
-cl. 8.4.1 | B | first contravention: $25 000 subsequent contraventions: $50 000
-cl. 8.5.2 | B | first contravention: $20 000 subsequent contraventions: $40 000
-cl. 8.8 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 9.1.2(e) | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 9.3.2 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 9.22.5 | B | first contravention: $20 000 plus a daily amount of $5 000 subsequent contraventions: $40 000 plus a daily amount of $5 000
-cl. 9.23.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
-cl. 9.24.7 | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $10 000
-cl. 10.1.2 | B | first contravention: $25 000 subsequent contraventions: $50 000
-cl. 10.2.4 | B | first contravention: $25 000 subsequent contraventions: $50 000
-[Schedule 1 inserted: Gazette 5 Jun 2012 p. 2354-60; amended: Gazette 24 Feb 2015 p. 738; SL 2021/2 r. 11.]
+cl. 1.49.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 1.49.2 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 1.49.4 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 1.49.5 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.13.5 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 2.13.23 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.13.30 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.13.31 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.13.32(a) | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.13.41 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.16.6(b) | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.16A.2 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.16C.3 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 2.16C.5 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.26C.2T | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 2.27.6 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 2.27.12 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 2.27.14 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 2.27A.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.29.3 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.29.4A | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.29.6 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.31.9 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.32.4(a) | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.32.9 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.34.2 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.34.2A | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.34.3 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.34.12B | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.34.13 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.34A.8 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.35.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.35.2 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.35.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.36.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.36.4 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 2.37.8(a) | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.38.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.38.2 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.38.3 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.41.2 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.42.4 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 2.44.4 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.4.6(a) | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.4.8 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.5.8 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.5.10 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.6.5 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.6.6 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 3.6.9 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.7.13 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.7.14 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.7.23 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.7.24 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.8.2(c) | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 3.11B.8(a) | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.15A.21 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.15A.38 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 3.15A.39 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.16.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.16.5 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.17.8 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.18B.6 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.18B.7 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.18D.7 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.18D.8 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.18E.14 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.18E.16 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.20.2 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.20.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.20.4 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.21.2(a) | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.21A.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 3.21A.12 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 3.21A.20 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.21A.24 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3.21A.25 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.1.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.4.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.5.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.5.7 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 3A.6.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 3A.8.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.8.5(a) | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.9.6 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.10.1(a) | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.10.2 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.11.9 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.11.10 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.11.15 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.11.18 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.13.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 3A.14.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 4.5.4 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 4.13.3 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 4.13.4 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 4.26.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 4.26.1J | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 4.27.5 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 4.4A.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 4.5B.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 4.12.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 6.6.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 6.7.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 6.7.4 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.4.2(c) | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.4.2B | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 7.4.4 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 7.4.6 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.4.8 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 7.4.26 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.4.27 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.4.29 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.4.55 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 7.4A.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 7.4A.5 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 7.4A.6 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 7.4A.7 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 7.4A.8 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 7.6.13 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.6.20 | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 7.6.31 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 7.9.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.9.6 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.9.8 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.9.9 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.9.10 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.10.1 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.10.1A | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.10.3 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.10.7 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.10.8 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 7.11.7 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+cl. 8.1.3 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 8.3.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+Provision | Category | Maximum civil penalty amounts
+cl. 8.3.3 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 8.3.5 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 8.4.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 8.5.2 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 8.8.1 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 9.1.3(e) | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 9.3.2 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 9.18.5 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 9.18.6 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 9.19.3 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 9.20.2B | A | first contravention: $10 000 plus a daily amount of $5 000 subsequent contraventions: $20 000 plus a daily amount of $5 000
+cl. 10.1.2 | B | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $75 000 plus a daily amount of $10 000
+cl. 10.2.4 | C | first contravention: $100 000 plus a daily amount of $20 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
+[Schedule 1 inserted: SL 2023/32 r. 19.]
