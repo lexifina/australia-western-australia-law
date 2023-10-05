@@ -10,6 +10,7 @@ Public Health Amendment Regulations 2021 | SL 2021/47 7 May 2021 | r. 1 and 2: 7
 Public Health Amendment Regulations (No. 2) 2021 | SL 2021/122 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b))
 Public Health Amendment Regulations 2023 | SL 2023/38 5 May 2023 | r. 1 and 2: 5 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2023 (see r. 2(b))
 Public Health Amendment Regulations (No. 3) 2023 | SL 2023/136 23 Aug 2023 | r. 1 and 2: 23 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Aug 2023 (see r. 2(b))
+Public Health Amendment Regulations (No. 4) 2023 | SL 2023/151 4 Oct 2023 | r. 1 and 2: 4 Oct 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
