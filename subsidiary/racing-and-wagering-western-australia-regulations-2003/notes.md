@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Racing and Wagering Western Australia Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Racing and Wagering Western Australia Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Racing and Wagering Western Australia Regulations 2003 | 29 Jul 2003 p. 3273-91 | 1 Aug 2003 (see r. 2 and Gazette 29 Jul 2003 p. 3259)
@@ -36,6 +36,10 @@ Racing and Gaming Regulations Amendment Regulations 2019 Pt. 3 | 25 Jan 2019 p. 
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 7 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations 2020 | SL 2020/152 4 Sep 2020 | r. 1 and 2: 4 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2020 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 7 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
 Other notes
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 5.Transitional provision
@@ -73,3 +77,7 @@ ticket3(1)
 unit3(1)
 wagering account3(1)
 warning off notice72(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
