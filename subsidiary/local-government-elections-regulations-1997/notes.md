@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Elections) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Local Government (Elections) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Elections) Regulations 1997 | 14 Feb 1997 p. 905-1008 | 14 Feb 1997
@@ -21,6 +21,11 @@ Local Government Regulations Amendment (Induction and Training) Regulations 2019
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 6 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Local Government (Elections) Amendment Regulations 2021 | SL 2021/141 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2021 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 4 | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
+Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 4 Div. 1 | SL 2023/158 18 Oct 2023 | 19 Oct 2023 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 4 Div. 2 | SL 2023/158 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
 Other notes
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 3.Application

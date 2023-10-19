@@ -34,11 +34,13 @@ Local Government Regulations Amendment Regulations 2022 Pt. 2 (other than Div. 3
 Local Government (Administration) Amendment Regulations 2022 | SL 2022/185 8 Nov 2022 | r. 1 and 2: 8 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Nov 2022 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 2 (other than r. 7) | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
 Local Government Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/106 30 Jun 2023 | 1 Jul 2023 (see r. 2(c))
+Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 2 Div. 1 | SL 2023/158 18 Oct 2023 | 19 Oct 2023 (see r. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Local Government Regulations Amendment Regulations 2022 Pt. 2 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Local Government Regulations Amendment Regulations (No. 2) 2023 r. 7 | SL 2023/102 30 Jun 2023 | 1 Jan 2024 (see r. 2(b))
+Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 2 Div. 2 | SL 2023/158 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
 Other notes
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
@@ -52,21 +54,24 @@ adopted standards18FB(1), 18FC(1)
 annual return29C(1)
 applicantSch. 2 cl. 2(1)
 associated person19AA
+broadcast technology14G(1)
 class 3 or 4 council or committee14E(1)
 client or adviser20(1)
+closed proceedings14G(1)
 code of conduct3(1), 19AA
 commencement day28B(1), Sch. 2 cl. 13(1)
 committee3(1)
 contract of employmentSch. 2 cl. 2(1)
 contractual performance criteriaSch. 2 cl. 2(1)
 corporate business plan19BA
-electronic meeting14E(1)
+electronic meeting14E(1), 14G(1)
 final annual remuneration19A(2)
 former Form 428B(1)
 former record of disclosures 28B(1)
 former regulation 19C19DB(1)
 former regulation 19D19DB(1)
 gift19AA
+improvised recording14G(1), 14I(4)
 income statement19BB(1)
 incumbent CEOSch. 2 cl. 13(2)
 independent personSch. 2 cl. 8(1)
@@ -78,6 +83,7 @@ local law as to conduct34D(1)
 major land transaction19BC(1)
 major trading undertaking19BB(1)
 meeting14C(1), 14CA(1), 14D(1)
+meeting day14G(1)
 meeting details12(1)
 natural disaster14C(1)
 nature classification19BC(1)
@@ -89,6 +95,9 @@ primary return29C(1)
 prohibited gift19AA
 proposed meeting14C(3), 14D(2A)
 public health emergency3(1)
+publicly available14G(1), (2), (3)
+recording14G(1)
+recording technology14G(1)
 relevant period14C(1), 14D(1), 34AE(1)
 relevant person3(1)
 remuneration19B(1)
@@ -104,6 +113,7 @@ state of emergency3(1)
 strategic community plan19BA
 threshold amount19AA
 trading undertaking19BB(1)
+usual meeting place14G(1)
 © State of Western Australia 2023.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2023.
