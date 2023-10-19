@@ -74,14 +74,14 @@ Swan Valley Planning Act 2020 Pt. 10 Div. 7 | 45 of 2020 | 9 Dec 2020 | 1 Aug 20
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 s. 95 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 6 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 3 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
-Local Government Amendment Act 2023 Pt. 2 (other than s. 17, 22, 23, 29, 30, 31(1), 32, 40(3), 41, 55, 58, 59, 61-70, 72-75, 76(1), 77(1) and (2) and 78-85) | 11 of 2023 | 18 May 2023 | s. 3, 60, 86, 87 and 99: 19 May 2023 (see s. 2(b)); s. 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24 and 89: 21 Jun 2023 (see s. 2(d) and SL 2023/77 cl. 2); s. 4, 5(1) and (3), 6, 12, 18, 19(4), 20, 21, 25 to 28, 31(2) and (3), 33 to 39, 40(1) and (2), 42 to 54, 56, 57, 71, 76(2), 77(3), 88 and 90 to 98: 1 Jul 2023 (see s. 2(d) and SL 2023/92 cl. 2(a))
+Local Government Amendment Act 2023 Pt. 2 (other than s. 17, 22, 23, 29, 30, 31(1), 32, 40(3), 41, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 79(2), 80, 81 and 83-85) | 11 of 2023 | 18 May 2023 | s. 3, 60, 86, 87 and 99: 19 May 2023 (see s. 2(b)); s. 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24 and 89: 21 Jun 2023 (see s. 2(d) and SL 2023/77 cl. 2); s. 4, 5(1) and (3), 6, 12, 18, 19(4), 20, 21, 25 to 28, 31(2) and (3), 33 to 39, 40(1) and (2), 42 to 54, 56, 57, 71, 76(2), 77(3), 88 and 90 to 98: 1 Jul 2023 (see s. 2(d) and SL 2023/92 cl. 2(a)); s. 58, 66, 70, 79(1) and 82: 19 Oct 2023 (see s. 2(d) and SL 2023/157 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 (as amended by No. 11 of 2023 s. 103) | 1 Sep 2017 | To be proclaimed (see s. 2(1)(c))
 Local Government Legislation Amendment Act 2019 s. 39(2) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 Apr 2020 | To be proclaimed (see s. 2(b))
-Local Government Amendment Act 2023 s. 17, 22, 23, 29, 30, 31(1), 32, 40(3), 41, 55, 58, 59, 61-70, 72-75, 76(1), 77(1) and (2) and 78-85 | 11 of 2023 | 18 May 2023 | s. 79(2) and 80: 1 Jan 2024 (see s. 2(d) and SL 2023/92 cl. 2(b)); s. 23: 1 Jul 2024 (see s. 2(d) and SL 2023/92 cl. 2(c)); s. 17, 22, 29, 30, 31(1), 32, 40(3), 41, 55, 58, 59, 61-70, 72-75, 76(1), 77(1) and (2), 78, 79(1) and 81-85: to be proclaimed (see s. 2(d))
+Local Government Amendment Act 2023 s. 17, 22, 23, 29, 30, 31(1), 32, 40(3), 41, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 79(2), 80, 81 and 83-85 | 11 of 2023 | 18 May 2023 | s. 79(2) and 80: 1 Jan 2024 (see s. 2(d) and SL 2023/92 cl. 2(b)); s. 17, 29, 30, 31(1), 32, 40(3) and 41: 1 Jan 2024 (see s. 2(d) and SL 2023/157 cl. 2(b)); s. 23: 1 Jul 2024 (see s. 2(d) and SL 2023/92 cl. 2(c)); s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85: to be proclaimed (see s. 2(d));
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
@@ -289,9 +289,9 @@ affected local governmentSch. 2.1 cl. 1
 affected person9.2
 agreement7.13(1)
 alleged offender3.38
-amending ActSch. 9.3 cl. 14A(1), 42 and 45
+amending ActSch. 9.3 cl. 14A(1), 42, 45
 amending provisionSch. 9.3 cl. 44
-amendment daySch. 9.3 cl. 58(1), 59(1) and 61(1)
+amendment daySch. 9.3 cl. 58(1), 59(1), 61(1)
 amount misapplied8.35(3)
 an authorised person8.3(6)
 annual budget6.1
@@ -312,7 +312,7 @@ Authority9.69(1)
 ballot paperSch. 4.1 cl. 7
 breach5.102A
 budget deficiency6.1
-candidate5.102A, Sch. 4.1A cl. 5(2) and 11(2)
+candidate5.102A, Sch. 4.1A cl. 5(2), 11(2)
 candidate A4.81(4), Sch. 2.3 cl. 12(4)
 candidate B4.81(4), Sch. 2.3 cl. 12(4)
 caretaker period1.4, 1.4A(1)
@@ -321,7 +321,7 @@ certified copy9.31
 change order2.18A(1)
 close of enrolments4.39(1)
 close of nominations4.49
-commencement day7.1, Sch. 9.3 cl. 1, 49 and 56(1)
+commencement day7.1, Sch. 9.3 cl. 1, 49, 56(1)
 commissioner1.4
 committee5.1
 committee meeting5.98(7)
@@ -335,6 +335,7 @@ corporation5.74(1)
 council1.4
 councillor1.4
 councillor mayor or president1.4
+council meeting5.23A(1)
 council proceedings9.57A(1)
 court3.26(5)
 COVID emergency declaration10.1
@@ -359,8 +360,9 @@ district1.4
 districtsSch. 2.1 cl. 8(1)
 disused materialSch. 3.1
 early vote4.67
-elected candidateSch. 4.1 cl. 9(1) and 10(1)
-election2.16A, 4.1, 4.36(2), Sch. 2.3 cl. 10, Sch. 4.1A cl. 8(2) and 11(2), Sch. 9.3 cl. 59(1)
+elected candidateSch. 4.1 cl. 9(1), 10(1)
+election2.16A, 4.1, 4.36(2), Sch. 2.3 cl. 10,
+Sch. 4.1A cl. 8(2), 11(2), Sch. 9.3 cl. 59(1)
 election day2.16A, 4.1, Sch. 4.1B cl. 1(2), Sch. 9.3 cl. 59(1)
 election notice4.1, 4.64(2)
 election year1.4
@@ -376,9 +378,10 @@ electoral roll4.1
 electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)
 elector mayor or president1.4
 electors5.26
+electronic broadcasting5.23A(1)
 eligible body5.49(1)
 emergency9.63A(1)
-employee1.4, 5.48(1), 5.70(1), 7.10(2)
+employee1.4, 5.48(1), 5.70(1), (2)
 enrolment information4.46A(1)
 entitled person6.67(3)
 establishment agreement3.61(2)
@@ -389,16 +392,17 @@ existing rollSch. 9.3 cl. 12(1)
 extension order8.15F(3)
 extent5.59
 extraordinary election1.4, 4.8(3)
-extraordinary vacancySch. 2.3 cl. 1 and 6
+extraordinary vacancySch. 2.3 cl. 1, 6
 financial audit7.1
 financial year1.4
 first-preference ballot paperSch. 4.1 cl. 7
-first-preference vote4.73(6), Sch. 4.1A cl. 5(2), Sch. 4.1B cl. 3(4), Sch. 4.1 cl. 1, Sch. 4.2
+first-preference vote4.73(6), Sch. 4.1A cl. 5(2),
+Sch. 4.1B cl. 3(4), Sch. 4.1 cl. 1, Sch. 4.2
 first unelected candidateSch. 4.1A cl. 11(2), Sch. 4.1B cl. 5(1)
 former districtSch. 9.3 cl. 1
 former memberSch. 4.1A cl. 1, Sch. 4.1B cl. 1(1)
 former municipalitySch. 9.3 cl. 1
-former provisions2.22(3), Sch. 9.3 cl. 1 and 56(1)
+former provisions2.22(3), Sch. 9.3 cl. 1, 56(1)
 former sectionSch. 9.3 cl. 38(1)
 former section 3003.53(1)
 former section 5.89A(7)Sch. 9.3 cl. 56(1)
@@ -456,7 +460,7 @@ noticeSch. 2.1 cl. 1, Sch. 9.3 cl. 51(3)
 notice recipient3.26(2)
 occupier1.4
 offence2.22(3)
-officeSch. 2.3 cl. 1 and 6
+officeSch. 2.3 cl. 1, 6
 officially certified9.48(2)
 official plan9.48(2)
 one office electionSch. 4.1 cl. 1
@@ -507,6 +511,7 @@ qualified person7.1
 quotaSch. 4.1 cl. 7
 rate9.40(3)
 rate record6.25
+recording5.23A(1)
 recurrent breach5.102A
 regional local government1.4
 regional purpose3.62(2)
@@ -528,13 +533,13 @@ return period5.74(1)
 reviewSch. 2.2 cl. 1
 reward4.85(4)
 rule of conduct5.102A
-second placed candidateSch. 4.1A cl. 5(2) and 8(2), Sch. 4.1B cl. 4(1)
+second placed candidateSch. 4.1A cl. 5(2), 8(2), Sch. 4.1B cl. 4(1)
 second unelected candidateSch. 4.1A cl. 11(2)
 serious breach5.102A
 serious local government offence2.22(3)
 service charge6.1, 6.42, 6.54, 6.63
 show cause notice8.15B(1)
-specified3.38, 9.10(1), Sch. 9.3 cl. 54(1) and 62(1)
+specified3.38, 9.10(1), Sch. 9.3 cl. 54(1), 62(1)
 specified area rate6.1
 standSch. 9.1 cl. 1(1)
 standards panel5.102A
@@ -550,15 +555,15 @@ surplus votesSch. 4.1 cl. 7
 suspended order5.117(2)
 termination dateSch. 9.3 cl. 51(3)
 the authorised person8.3(6)
-third placed candidateSch. 4.1A cl. 5(2) and 8(2)
+third placed candidateSch. 4.1A cl. 5(2), 8(2)
 this Act4.1
 this Part4.1
 thoroughfare1.4
 tied candidatesSch. 4.1 cl. 16(1)
 trading undertaking3.59(1)
 transferred ballot paperSch. 4.1 cl. 7
-transfer valueSch. 4.1 cl. 7, 9(3), 10(3) and 11(3) and (4)
-transitional matterSch. 9.3 cl. 54(1) and 62(1)
+transfer valueSch. 4.1 cl. 7, 9(3), 10(3), 11(3), 11(4)
+transitional matterSch. 9.3 cl. 54(1), 62(1)
 transitional orderSch. 9.3 cl. 59(2)
 transitional timeSch. 9.3 cl. 58(1)
 travel5.57
@@ -569,7 +574,7 @@ unimproved value6.25
 unsightlySch. 3.1
 unsuccessful candidateSch. 4.1A cl. 4(1)
 use4.46A(1)
-vacancy daySch. 4.1A cl. 1 and 2(1)
+vacancy daySch. 4.1A cl. 1, 2(1)
 vacant land6.25
 value5.62(2)
 vehicle3.38
