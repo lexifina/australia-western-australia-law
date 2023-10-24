@@ -48,9 +48,10 @@ Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulat
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2021 | SL 2021/169 8 Oct 2021 | r. 1 and 2: 8 Oct 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2021 (see r. 2(b))
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2022 | SL 2022/164 7 Oct 2022 | r. 1 and 2: 7 Oct 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2022 (see r. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+To view the text of the uncommenced provisions see Subsidiary legislation as made and Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2023 r. 3-6 | SL 2023/155 18 Oct 2023 | 1 Nov 2023 (see r. 2(b))
+Workers Compensation and Injury Management Act 2023 s. 621 assented to 24 Oct 2023 | To be proclaimed (see s. 2(d))
 Other notes
 The amendments in the Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulations (No. 3) 2004 published by Gazette 4 Jan 2005 p. 6-14 have no effect because of an error in the reference to the principal regulations to be amended.
 Now known as the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998; citation changed (see note under r. 1).
