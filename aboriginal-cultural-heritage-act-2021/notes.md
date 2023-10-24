@@ -9,6 +9,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aboriginal Cultural Heritage Act 2021 s. 310 and 311 | 27 of 2021 | 22 Dec 2021 | 1 Jan 2024 (see s. 2(d))
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 3(1) | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
