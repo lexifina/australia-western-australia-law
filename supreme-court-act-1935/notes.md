@@ -96,6 +96,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 7 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
@@ -242,3 +243,7 @@ rules of court4(1)
 statute4(1)
 suit4(1)
 vessel26(5)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
