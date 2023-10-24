@@ -93,8 +93,9 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
+Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 (as amended by No. 21 of 2023 Pt. 15 Div. 3 Subdiv. 19) | 31 Aug 2011 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 160 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Workers Compensation and Injury Management Act 2023 s. 615 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
@@ -434,6 +435,7 @@ an insurer who has issued to the employer a liability insurance policy other tha
 (3) In this section a reference to doing anything includes a reference to omitting to do that thing.
 15.Validity of terms, conditions and exclusions of insurance policies effected during the transitional period
 A term, condition or exclusion of an insurance policy obtained or kept current during the transitional period for the purposes of Part X which, if the policy were obtained immediately after the transitional period, would be valid, lawful and effective is taken to be valid, lawful and effective from the time when the policy was obtained or, if later, from the beginning of the transitional period.
+The Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) will be deleted by the Workers’ Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 19 when it comes into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -687,3 +689,7 @@ WorkCover WA5(1), 314(2)
 worker5(1), 8, 9, 10, 11A(2), 93AC, Sch. 1A cl. 1
 workers’ compensation cover170(7)
 working director10A(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
