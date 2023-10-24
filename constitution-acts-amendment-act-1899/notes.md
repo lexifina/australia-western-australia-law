@@ -317,6 +317,8 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Animal Resources Authority Amendment and Repeal Act 2022 s. 15 | 12 of 2022 | 14 Apr 2022 | To be proclaimed (see s. 2(1)(c))
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 25 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 1 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
