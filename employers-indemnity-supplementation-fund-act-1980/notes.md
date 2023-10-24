@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Employers’ Indemnity Supplementation Fund Act 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Employers’ Indemnity Supplementation Fund Act 1980 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Workers’ Compensation Supplementation Fund Act 1980 | 80 of 1980 | 5 Dec 1980 | 8 May 1981 (see s. 2 and Gazette 8 May 1981 p. 1402)
@@ -22,6 +22,11 @@ Workers’ Compensation Reform Act 2004 s. 159 and 174 | 42 of 2004 | 9 Nov 2004
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Employers’ Indemnity Supplementation Fund Act 1980 as at 16 Nov 2007 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Workers Compensation and Injury Management Act 2023 s. 618 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Other notes
 Now known as the Employers’ Indemnity Supplementation Fund Act 1980; short title changed (see note under s. 1).
 The Employers’ Indemnity Supplementation Fund Amendment Act 1993 s. 5(2) and 15 read as follows:
 “
@@ -51,3 +56,7 @@ the moneys advanced7(3)
 the moneys available7(3)
 Treasurer3
 WorkCover WA3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
