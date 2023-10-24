@@ -27,12 +27,15 @@ Ports Legislation Amendment Act 2019 Pt 8 | 2 of 2019 | 26 Feb 2019 | 27 Feb 201
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Western Australian Marine Amendment Act 1987 s. 4-6 | 15 of 1987 | 25 Jun 1987 | To be proclaimed (see s. 2)
-Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 | 35 of 1990 | 9 Oct 1990 | To be proclaimed (see s. 2)
+Western Australian Marine Amendment Act 1987 s. 4-6 | 15 of 1987 (as amended by No. 24 of 2023 Pt. 10 Div. 9) | 25 Jun 1987 | To be proclaimed (see s. 2)
+Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 | 35 of 1990 (as amended by No. 24 of 2023 Pt. 10 Div. 10) | 9 Oct 1990 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 376 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 9 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 s. 3(2) (Cwlth).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The Western Australian Marine Amendment Act 1987 will be repealed by the Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 9 when it comes into operation.
+The Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 will be deleted by the Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 10 when it comes into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -112,3 +115,7 @@ vessel3(1)
 vessel record book47(2)
 wages3(1)
 waters66(5), 71(5)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
