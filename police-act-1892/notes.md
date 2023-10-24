@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Police Act 1892 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Police Act 1892 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Police Act 1892 | 1892 (55 Vict. No. 27) | 18 Mar 1892 | 1 Apr 1892 (see s. 142)
@@ -125,6 +125,10 @@ Industrial Relations Amendment Act 2018 s. 70 | 39 of 2018 | 12 Dec 2018 | 19 De
 Police Amendment (Medical Retirement) Act 2019 Pt. 2 | 19 of 2019 | 15 Aug 2019 | 30 Nov 2019 (see s. 2(b) and Gazette 29 Nov 2019 p. 4133)
 Family Violence Legislation Reform Act 2020 Pt. 7 | 30 of 2020 | 9 Jul 2020 | 6 Aug 2020 (see s. 2(1)(c) and SL 2020/125 cl. 2(a)(v))
 Police Amendment (Compensation Scheme) Act 2021 Pt. 2 | 26 of 2021 | 13 Dec 2021 | 1 Jan 2022 (see s. 2(b) and SL 2021/222 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 13 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 14 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Footnote no longer applicable.
@@ -217,3 +221,7 @@ vocational rehabilitation amount33ZV(4)
 WAIRC33K, 33ZB, 33ZZA(1)
 WC&IM Act33ZS(1)
 WorkCover Guides33ZS(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
