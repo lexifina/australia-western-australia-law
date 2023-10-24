@@ -32,6 +32,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2020 s. 37 | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 27 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
@@ -178,3 +179,7 @@ victim’s submission4(2), 5C(1)
 violent personal offence5D(1)
 WDO4(3)
 work and development order4(2)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
