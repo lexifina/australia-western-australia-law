@@ -35,6 +35,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 25 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 5 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 The Life Insurance Act 1945 was repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 s. 5.
 The State Government Insurance Office Act 1938 was repealed by the Insurance Commission of Western Australia Act 1986 s. 46(1).
@@ -93,3 +94,7 @@ surplus18(5)
 Third Party Insurance ActSch. 4 cl. 1
 Treasurer3
 WC&IM Act44
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
