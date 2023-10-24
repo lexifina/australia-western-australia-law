@@ -43,6 +43,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 343(2) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 s. 374 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 8 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Interpretation Act 1984.
 Repealed by the Mining Act 1978.
@@ -210,3 +211,7 @@ standard3(1)
 waste3(1)
 waters3(1)
 working plan3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
