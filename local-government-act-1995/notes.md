@@ -82,6 +82,7 @@ Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 (as 
 Local Government Legislation Amendment Act 2019 s. 39(2) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 Apr 2020 | To be proclaimed (see s. 2(b))
 Local Government Amendment Act 2023 s. 17, 22, 23, 29, 30, 31(1), 32, 40(3), 41, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 79(2), 80, 81 and 83-85 | 11 of 2023 | 18 May 2023 | s. 79(2) and 80: 1 Jan 2024 (see s. 2(d) and SL 2023/92 cl. 2(b)); s. 17, 29, 30, 31(1), 32, 40(3) and 41: 1 Jan 2024 (see s. 2(d) and SL 2023/157 cl. 2(b)); s. 23: 1 Jul 2024 (see s. 2(d) and SL 2023/92 cl. 2(c)); s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85: to be proclaimed (see s. 2(d));
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 10 | 21 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(d))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
