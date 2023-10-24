@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fire and Emergency Services Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Fire and Emergency Services Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Authority of Western Australia Act 1998 | 41 of 1998 | 4 Nov 1998 | s. 1 and 2: 4 Nov 1998; Act other than s. 1 and 2: 1 Jan 1999 (see s. 2 and Gazette 22 Dec 1998 p. 6833)
@@ -20,6 +20,10 @@ Reprint 3: The Fire and Emergency Services Act 1998 as at 7 Dec 2012 (includes a
 Fire and Emergency Services Amendment Act 2015 | 20 of 2015 | 26 Aug 2015 | s. 1 and 2: 26 Aug 2015 (see s. 2(a)); Act other than s. 1 and 2: 27 Aug 2015 (see s. 2(b))
 Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 3 | 28 of 2016 | 21 Sep 2016 | 16 Sep 2017 (see s. 2(b) and Gazette 15 Sep 2017 p. 4791)
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 4 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 3 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Repealed by the Mining Act 1978.
 Now known as the Fire and Emergency Services Act 1998; short title changed (see note under s. 1).
