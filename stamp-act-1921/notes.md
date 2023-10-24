@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 6-10. The table also contains information about any reprint.
+This is a compilation of the Stamp Act 1921 and includes amendments made by other written laws 6-10. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Stamp Act 1921 | 10 of 1922 (12 Geo. V No. 44) | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
@@ -174,6 +174,11 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 119 | 8 of 2009 | 21
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Revenue Laws Amendment Act 2012 Pt. 7 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 32 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 6 Div. 1.
 If a modification is to:
 ·replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number;
@@ -182,6 +187,7 @@ If a modification is to:
 If a modification is to:
 ·replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number;
 ·amend a numbered provision, the amended provision is identified by the superscript 1MC appearing after the provision number.
+Footnote no longer applicable.
 Repealed by the Mining Act 1978.
 Section 75AH has a retrospective commencement date effective from 1 Jul 2004; see the Revenue Laws Amendment Act 2006 s. 2(3).
 Section 76 has a retrospective commencement date effective from 6 Feb 2008; see the Revenue Laws Amendment Act 2008 s. 2(1)(d).
@@ -297,8 +303,8 @@ the acquisition of that interest is to be regarded for the purposes of subsectio
 the statement may be lodged at any time before the end of the period of 3 months after the day on which this Act receives the Royal Assent.
 ”.
 Between 16 May 2002 and 30 June 2002, the amendments in Part 4 of the Stamp Amendment (Budget) Act 2002 operated in relation to policies of insurance issued under the Motor Vehicle (Third Party Insurance) Act 1943 that —
-(a) were effected or renewed on or after 16 May 2002 but before 1 July 2002; and
-(b) are valid for a period commencing on or after 1 July 2002.
+(a)were effected or renewed on or after 16 May 2002 but before 1 July 2002; and
+(b)are valid for a period commencing on or after 1 July 2002.
 See section 2(4) of the Stamp Amendment (Budget) Act 2002.
 The Stamp Amendment (Budget) Act 2002 s. 5 and 9 read as follows:
 “
@@ -874,3 +880,7 @@ vehicle75J(1), 76B(1)
 vehicle A76D(6)
 vehicle B76D(6)
 WA company4(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
