@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Workers’ Compensation and Injury Management Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Workers’ Compensation and Assistance Regulations 1982 | 8 Apr 1982 p. 1229-50 (corrigendum 23 Apr 1982 p. 1384) | 3 May 1982 (see r. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -81,6 +81,10 @@ Workers’ Compensation and Injury Management Amendment Regulations 2021 | SL 20
 Workers’ Compensation and Injury Management Amendment Regulations 2023 | SL 2023/37 5 May 2023 | r. 1 and 2: 5 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 6 May 2023 (see r. 2(b))
 Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2023 | SL 2023/113 26 Jul 2023 | r. 1 and 2: 26 Jul 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jul 2023 (see r. 2(b))
 Workers’ Compensation and Injury Management Amendment Regulations (No. 3) 2023 | SL 2023/123 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)) Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Workers Compensation and Injury Management Act 2023 s. 620 assented to 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5 and then to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Workers’ Compensation and Injury Management Amendment Act 2011 s. 77 as at 1 Dec 2011 (see Gazette 8 Nov 2011 p. 4673).
