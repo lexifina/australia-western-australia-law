@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 January 2012 of the Pollution of Waters by Oil and Noxious Substances Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Pollution of Waters by Oil and Noxious Substances Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pollution of Waters by Oil and Noxious Substances Act 1987 | 14 of 1987 | 29 Jun 1987 | s. 1 and 2: 29 Jun 1987; Act other than s. 1 and 2: 1 Jul 1993 (see s. 2 and Gazette 29 Jun 1993 p. 3163)
@@ -12,7 +12,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 2: The Pollution of Waters by Oil and Noxious Substances Act 1987 as at 6 Jan 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared the amendments to the Western Australian Marine Act 1982 which are to be effected by the Western Australian Marine Amendment Act 1987 s. 6 had not come into operation. The relevant part of s. 6 reads:
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 5 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
+Other notes
+On the date as at which this compilation was prepared the amendments to the Western Australian Marine Act 1982 which are to be effected by the Western Australian Marine Amendment Act 1987 s. 6 had not come into operation. The relevant part of s. 6 reads:
 6.Divisions 6 and 7 of Part IV inserted
 After Division 5 of Part IV of the principal Act, the following Divisions are inserted —
 “
@@ -61,6 +66,10 @@ Tonnage Measurement Convention3(1)
 trading ship3(1)
 transfer apparatus28(1a)
 transfer operation9(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
 [1] * Reference is made to the Recommendation on International Performance Specifications for Oily-Water Separating Equipment and Oil Content Meters adopted by the Organization by Resolution A.233(VII).
 [2] **Reference is made to “Clean Seas Guide for Oil Tankers”, published by the International Chamber of Shipping and the Oil Companies International Marine Forum.
 [3] * Reference is made to the Recommendation on International Performance Specifications for Oily-Water Separating Equipment and Oil Content Meters adopted by the Organization by Resolution A.233(VII).
