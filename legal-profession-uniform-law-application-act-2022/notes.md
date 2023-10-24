@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Legal Profession Uniform Law Application Act 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Legal Profession Uniform Law Application Act 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Legal Profession Uniform Law Application Act 2022 | 9 of 2022 | 14 Apr 2022 | Pt. 1: 14 Apr 2022 (see s. 2(a)); Act other than Pt. 1: 1 Jul 2022 (see s. 2(b)(i) and (c) and SL 2022/113 cl. 2)
 Legal Profession Uniform Law Application (Levy) Act 2022 | 10 of 2022 | 14 Apr 2022 | s. 1 and 2: 14 Apr 2022 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2022 (see s. 2(b) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 8 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -156,3 +160,7 @@ vary209(1), 239
 Western Australian Bar Association3(1)
 Western Australian Barristers’ Rules119(1)
 working day262
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
