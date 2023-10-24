@@ -48,6 +48,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7 and No. 8 of 2012 s. 65) | 12 Dec 1978 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 365 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 26 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Other notes
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
