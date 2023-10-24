@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Marine and Harbours Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Marine and Harbours Act 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Marine and Harbours Act 1981 | 21 of 1981 | 26 May 1981 | 1 Mar 1982 (see s. 2 and Gazette 5 Feb 1982 p. 410)
@@ -25,6 +25,10 @@ Reprint 3: The Marine and Harbours Act 1981 as at 14 Mar 2008 (includes amendmen
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 32 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Ports Legislation Amendment Act 2019 Pt. 4 | 2 of 2019 | 26 Feb 2019 | Pt. 4 (other than Div. 3): 27 Feb 2019 (see s. 2(b)); Pt. 4 Div. 3: 1 Jul 2021 (see s. 2(c) and (e) and SL 2021/50 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 8 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 2 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
 Other notes
 The Marine and Harbours Amendment Act 1994 s. 6(2) reads as follows:
 (2) A lease which was granted or purportedly granted under section 12 of the principal Act before the commencement of this section —
@@ -50,3 +54,7 @@ Port Authority3
 port works5(2)
 services5A(1), 6A(3)
 specified19(4)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
