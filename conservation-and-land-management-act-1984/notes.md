@@ -70,6 +70,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 3 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 24 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Other notes
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
