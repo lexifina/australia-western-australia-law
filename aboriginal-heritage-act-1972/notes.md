@@ -24,10 +24,12 @@ Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 3 | 8 of 2010 | 
 Water Services Legislation Amendment and Repeal Act 2012 s. 203 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Aboriginal Cultural Heritage Act 2021 Pt. 15 | 27 of 2021 | 22 Dec 2021 | Pt. 15 (other than Div. 3): 23 Dec 2021 (see s. 2(b)); Pt. 15 Div. 3: 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 2 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 Pt. 3 Div. 1 | 23 of 2023 | 24 Oct 2023 | 25 Oct 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aboriginal Cultural Heritage Act 2021 s. 310 | 27 of 2021 | 22 Dec 2021 | 1 Jan 2024 (see s. 2(d))
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 Pt. 3 Div. 2 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Aboriginal Heritage Amendment Act 1995 s. 19(2), (3) and (4) read as follows:
@@ -46,10 +48,13 @@ The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 1 had not come i
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+2021 Act69
+2023 amendment Act69
 Aboriginal4
 Aboriginal cultural heritage18(6A)
 Aboriginal cultural material4
 Aboriginal site4
+assent day71(1)
 Committee4
 Department4
 Director4
@@ -60,12 +65,16 @@ new information about Aboriginal cultural heritage18(6A)
 person of Aboriginal descent4
 proceedings under this Act4
 protected area4
+publication day71(1)
 Registrar4
+specified71(1)
 temporarily protected area4
 the owner of any land18(1)
 the Trustees4
 traditional custodian4
+transitional matter71(1)
 transitional period18(6A)
+transitional regulations69, 71(2)
 transition day4
 © State of Western Australia 2023.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
