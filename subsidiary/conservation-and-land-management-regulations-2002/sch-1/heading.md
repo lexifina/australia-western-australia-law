@@ -2,31 +2,31 @@
 [r. 49, 83, 92, 97, 98C, 98K, 99, 99A, 99C, 100, 100A, 101, 102, 102A and 103]
 [Heading amended: Gazette 29 Sep 2006 p. 4326; 3 Sep 2010 p. 4283; 3 Dec 2010 p. 6051; 1 Sep 2017 p. 4650.]
 ## Division 1 — Daily entrance fees where an entrance fee is charged
-[Heading inserted: Gazette 27 Sep 2013 p. 4525.]
+[Heading inserted: SL 2023/141 r. 7.]
  |  | $
-1. | *Daily entrance fee for non-tour motor vehicle that is a motorcycle | 8.00
-2. | *Daily entrance fee for non-tour motor vehicle that is not a motorcycle (unless item 5 applies) | 15.00
-3. | *Daily entrance for each occupant (6 years of age or older) of tour vehicle (unless entry is to Yanchep National Park or Nambung National Park, or item 6 applies) | 7.00
-4. | Daily entrance for each occupant (6 years of age or older) of tour vehicle — Yanchep National Park, Nambung National Park | 7.00
-5. | *Daily entrance concession fee for non-tour motor vehicle if the driver holds a concession card | 8.00
-6. | *Daily entrance concession fee for occupant of tour vehicle if the occupant holds a concession card (except where tour vehicle is operating for profit) | 2.50
+1. | *Daily entrance fee for non-tour motor vehicle that is a motorcycle | 10.00
+2. | *Daily entrance fee for non-tour motor vehicle that is not a motorcycle (unless item 5 applies) | 17.00
+3. | *Daily entrance for each occupant (6 years of age or older) of tour vehicle (unless entry is to Yanchep National Park or Nambung National Park, or item 6 applies) | 8.00
+4. | Daily entrance for each occupant (6 years of age or older) of tour vehicle — Yanchep National Park, Nambung National Park | 8.00
+5. | *Daily entrance concession fee for non-tour motor vehicle if the driver holds a concession card | 10.00
+6. | *Daily entrance concession fee for occupant of tour vehicle if the occupant holds a concession card (except where tour vehicle is operating for profit) | 3.50
 [* Payment of a daily entrance fee under this item entitles the visitor on that day to enter any other area of CALM land for which an entrance fee is charged under the same item.]
-[Division 1 inserted: Gazette 27 Sep 2013 p. 4525-6; amended: Gazette 1 Sep 2017 p. 4650; 2 Aug 2019 p. 2989-90.]
+[Division 1 inserted: SL 2023/141 r. 7.]
 ## Division 2 — Fees for passes providing extended entrance to CALM land
-[Heading inserted: Gazette 27 Sep 2013 p. 4526.]
+[Heading inserted: SL 2023/141 r. 7.]
  |  | $
-1. | For an annual pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 120.00
-2. | For an annual concession pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 75.00
+1. | For an annual pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 130.00
+2. | For an annual concession pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 80.00
  | Conditions on entry: the driver holds a concession card
-3. | For a 4 week pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 60.00
-3A. | For a 14 day pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 40.00
-3B. | For a 5 day pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 25.00
-4. | For an annual local pass for a non-tour vehicle with up to 12 occupants for any one national park or reserve or for any one of the following groups of national parks, conservation parks and reserves — (a)Walyunga, Avon Valley and John Forrest (b)Gloucester, Warren, Beedelup, Greater Beedelup, Shannon and D’Entrecasteaux (c)Torndirrup, West Cape Howe, Two Peoples Bay, Stirling Range, Porongurup and Fitzgerald River (d)Stokes, Cape Le Grand, Cape Arid and Fitzgerald River
- | (e)Karijini and Millstream-Chichester (f)Mirima, Purnululu and Mitchell River (g)Windjana, King Leopold Ranges and Tunnel Creek (h)Nambung and Lesueur
- | (i)Lane Poole and Serpentine | 25.00
-5. | For an annual pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged, except the Monkey Mia Conservation Park, and an annual subscription to the magazine “Landscope” | 150.00
-6. | For a pass for one group entering the Yanchep National Park in one or more non-tour motor vehicles for the purposes of a wedding or other function | 115.00
-[Division 2 inserted: Gazette 27 Sep 2013 p. 4526-7; amended: Gazette 19 Sep 2014 p. 3333; 4 Apr 2016 p. 1011-12; 1 Sep 2017 p. 4650; 2 Aug 2019 p. 2990.]
+3. | For a 4-week pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 70.00
+4. | For a 14-day pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 50.00
+5. | For a 5-day pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 30.00
+6. | For an annual local pass for a non-tour vehicle with up to 12 occupants for any 1 national park or reserve or for any 1 of the following groups of national parks, conservation parks and reserves — (a)Walyunga, Avon Valley and John Forrest (b)Gloucester, Warren, Greater Beedelup, Shannon and D’Entrecasteaux (c)Torndirrup, West Cape Howe, Two Peoples Bay, Stirling Range, Porongurup and Fitzgerald River (d)Stokes, Cape Le Grand, Cape Arid and Fitzgerald River
+ | (e)Karijini and Millstream Chichester (f)Wolfe Creek Meteorite Crater, Mirima, Purnululu and Mitchell River (g)Bandilngan (Windjana Gorge), Unnamed Conservation Park (Reserve No. 46235) and Dimalurru (Tunnel Creek) (h)Nambung and Lesueur
+ | (i)Lane Poole and Serpentine | 30.00
+7. | For an annual pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged, except the Monkey Mia Conservation Park, and an annual subscription to the magazine “Landscope” | 160.00
+8. | For a pass for 1 group entering the Yanchep National Park in 1 or more non-tour motor vehicles for the purposes of a wedding or other function | 115.00
+[Division 2 inserted: SL 2023/141 r. 7.]
 ## Division 3 — Daily entrance fees for Tree Top Walk
 [Heading inserted: Gazette 5 Jul 2016 p. 2815.]
  |  | $
@@ -35,8 +35,8 @@
 3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 52.50
 4. | For holder of a concession card | 15.50
 [Division 3 inserted: Gazette 5 Jul 2016 p. 2815.]
-## Division 4 — Fees for Geikie Gorge National Park Boat Trip
-[Heading inserted: Gazette 28 Aug 2018 p. 2989.]
+## Division 4 — Fees for Danggu (Geikie Gorge) National Park Boat Trip
+[Heading inserted: SL 2023/141 r. 8.]
  |  | $
 1. | For person 16 years of age and over | 50.00
 2. | For person of more than 5 and less than 16 years of age | 14.00
@@ -50,33 +50,33 @@
 2. | Annual pass for family | 60.00
 [Division 5 inserted: Gazette 5 Jul 2016 p. 2816.]
 ## Division 6 — Camping site fees
-[Heading inserted: Gazette 2 Aug 2019 p. 2988.]
+[Heading inserted: SL 2023/141 r. 9.]
  |  | Fee for night $
 1. | Fee for site without facilities —
- | (a)for each person 16 years of age or over | 8.00
- | (b)for each person 16 years of age or over who holds a concession card | 6.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-2. | Fee for site with basic facilities such as toilets, picnic tables, barbeques or fire pits —
- | (a)for each person 16 years of age or over | 11.00
+ | (a)for each person 16 years of age or over | 10.00
  | (b)for each person 16 years of age or over who holds a concession card | 7.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-3. | Fee for site with additional facilities such as ablutions, showers or shelters —
+ | (c)for each person of more than 5 and less than 16 years of age | 5.00
+2. | Fee for site with basic facilities such as toilets, picnic tables, barbeques or fire pits —
  | (a)for each person 16 years of age or over | 15.00
- | (b)for each person 16 years of age or over who holds a concession card | 9.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-4. | Fee for site in Windjana Gorge National Park, Purnululu National Park or King Leopold Ranges Conservation Park without facilities —
- | (a)for each person 16 years of age or over | 13.00
  | (b)for each person 16 years of age or over who holds a concession card | 10.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
-5. | Fee for site in Windjana Gorge National Park, Purnululu National Park or King Leopold Ranges Conservation Park with facilities such as toilets, picnic tables, barbeques, ablutions, showers or shelters —
- | (a)for each person 16 years of age or over | 17.00
- | (b)for each person 16 years of age or over who holds a concession card | 12.00
- | (c)for each person of more than 5 and less than 16 years of age | 3.00
+ | (c)for each person of more than 5 and less than 16 years of age | 5.00
+3. | Fee for site with additional facilities such as ablutions, showers or shelters —
+ | (a)for each person 16 years of age or over | 20.00
+ | (b)for each person 16 years of age or over who holds a concession card | 15.00
+ | (c)for each person of more than 5 and less than 16 years of age | 5.00
+4. | Fee for site in Bandilngan (Windjana Gorge) National Park, Wolfe Creek Meteorite Crater National Park, Purnululu National Park or Unnamed Conservation Park (Reserve No. 46235) without facilities —
+ | (a)for each person 16 years of age or over | 15.00
+ | (b)for each person 16 years of age or over who holds a concession card | 12.50
+ | (c)for each person of more than 5 and less than 16 years of age | 4.50
+5. | Fee for site in Bandilngan (Windjana Gorge) National Park, Wolfe Creek Meteorite Crater National Park, Purnululu National Park or Unnamed Conservation Park (Reserve No. 46235) with facilities such as toilets, picnic tables, barbeques, ablutions, showers or shelters —
+ | (a)for each person 16 years of age or over | 20.00
+ | (b)for each person 16 years of age or over who holds a concession card | 15.00
+ | (c)for each person of more than 5 and less than 16 years of age | 5.50
 6. | Fee for site in Dirk Hartog Island National Park —
  | (a)for each person 16 years of age or over | 20.00
  | (b)for each person 16 years of age or over who holds a concession card | 15.00
  | (c)for each person of more than 5 and less than 16 years of age | 3.00
-[Division 6 inserted: Gazette 2 Aug 2019 p. 2988-9.]
+[Division 6 inserted: SL 2023/141 r. 9.]
 ## Division 7 — Cave entrance fees
 [Heading inserted: Gazette 2 Aug 2019 p. 2989.]
  |  | $
@@ -126,8 +126,8 @@
 2. | Application to transfer apiary authority | 14.00
 3. | Application to vary apiary licence to change the site to which it relates — (a)where new site is in the South-west zone (fee per 5 new sites) (b)where new site is outside the South-west zone (fee per 5 new sites) | 116.00 58.00
 4. | Application for grant of apiary permit where permit is sought to replace a permit held by the applicant for a different site which will be surrendered if the application is granted — (a)where new site is in the South-west zone (fee per 5 new sites) (b)where new site is outside the South-west zone (fee per 5 new sites) | 110.00 55.00
-5. | Apiary site fee — (a)where site is in the South-west zone (b)where site is outside the South-west zone | 110.00 55.00
-[Division 11 inserted: Gazette 28 Aug 2018 p. 2990-1; amended: Gazette 2 Aug 2019 p. 2990.]
+5. | Apiary site fee — (a)where site is in the South-west zone (b)where site is outside the South-west zone | 130.0065.00
+[Division 11 inserted: Gazette 28 Aug 2018 p. 2990-1; amended: Gazette 2 Aug 2019 p. 2990; SL 2023/141 r. 10.]
 ## Division 12 — Landing fees for aircraft
 [Heading inserted: Gazette 3 Dec 2010 p. 6052.]
 1. | Daily landing fee for each occupant of an aircraft landing on an aircraft landing area | 11.00
