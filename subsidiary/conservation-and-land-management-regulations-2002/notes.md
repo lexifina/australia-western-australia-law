@@ -48,7 +48,10 @@ Conservation and Land Management Amendment Regulations (No. 4) 2022 | SL 2022/19
 Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 2023 Pt. 2 | SL 2023/50 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2023 | SL 2023/130 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
 Conservation and Land Management Amendment Regulations (No. 3) 2023 | SL 2023/141 6 Sep 2023 | r. 1 and 2: 6 Sep 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2023 (see r. 2(b))
-Other notes
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 2 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
 4.Transitional provision for Barrow Island Trust Account
