@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Vehicles) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Vehicles) Act 2012 | 7 of 2012 | 21 May 2012 | s. 1 and 2: 21 May 2012 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -9,11 +9,8 @@ Road Traffic Legislation Amendment Act 2015 Pt. 5 | 10 of 2015 | 1 Apr 2015 | 2 
 Reprint 1: The Road Traffic (Vehicles) Act 2012 as at 12 Jun 2015 (includes amendments listed above)
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 6 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 6 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
+Road Traffic (Vehicles) Amendment (Offensive Advertising) Act 2023 | 6 of 2023 | 29 Mar 2023 | s. 1 and 2: 29 Mar 2023 (see s. 2(a)); Act other than s. 1 and 2: 1 November 2023 (see s. 2(b) and SL 2023/154 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 55 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Road Traffic (Vehicles) Amendment (Offensive Advertising) Act 2023 s. 3-9 | 6 of 2023 | 29 Mar 2023 | 1 November 2023 (see s. 2(b) and SL 2023/154 cl. 2)
 Other notes
 The Road Traffic Legislation Amendment Act 2012 Pt. 2 commenced on 12 Dec 2012.
 The Road Traffic (Licensing) Regulations 1975 were repealed by the Road Traffic (Repeals and Amendment) Regulations 2014 as at 27 Apr 2015 (see Gazette 23 Dec 2014 p. 4914).
@@ -22,6 +19,8 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 access approval38
+Ad Standards19A(1)
+advertising code19A(1)
 amending Act139
 approved officer77
 associate117
@@ -57,8 +56,9 @@ inspection station70
 in the State94
 involved person3(1)
 journey documentation3(1)
-label15(a), 27(g)
+label15, 27
 licence8(1), 20
+licence warning notice3(1), 19A(3)
 light vehicle3(1)
 load3(1)
 loader3(1)
@@ -74,7 +74,7 @@ night3(1)
 number plate3(1)
 number plates13(2)
 omnibus130(1)
-optional number plates136(1)(a)
+optional number plates136(1)
 order32, 38
 overseas vehicle20
 packaging3(1)
@@ -82,7 +82,7 @@ packer3(1)
 partner109(1)
 passenger3(1)
 permit13(1), 32, 38
-person 1110(2) and (4), 117
+person 1110(2), (4), 117
 person connected28
 prohibition order3(1)
 public agency105(1)
@@ -105,3 +105,7 @@ vehicle32
 vehicle examiner70
 warden77
 warning requirement51
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
