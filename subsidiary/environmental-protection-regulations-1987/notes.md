@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Environmental Protection Regulations 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Environmental Protection Regulations 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Environmental Protection Regulations 1987 | 20 Feb 1987 p. 444-9 | 20 Feb 1987 (see r. 2 and Gazette 20 Feb 1987 p. 440)
@@ -88,6 +88,10 @@ Environmental Protection Amendment Regulations 2022 | SL 2022/68 3 Jun 2022 | r.
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2023 Pt. 3 | SL 2023/13 24 Feb 2023 | 1 Mar 2023 (see r. 2(b))
 Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 2023 Pt. 4 | SL 2023/50 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 2) 2023 | SL 2023/142 6 Sep 2023 | r. 1 and 2: 6 Sep 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 4 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
