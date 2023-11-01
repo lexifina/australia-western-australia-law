@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Environmental Protection (Clearing of Native Vegetation) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Environmental Protection (Clearing of Native Vegetation) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Environmental Protection (Clearing of Native Vegetation) Regulations 2004 | 30 Jun 2004 p. 2587-623 | 8 Jul 2004 (see r. 2 and Gazette 30 Jun 2004 p. 2581)
@@ -20,6 +20,10 @@ Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (
 Environmental Protection (Clearing of Native Vegetation) Amendment Regulations 2019 | 3 May 2019 p. 1307-9 | r. 1 and 2: 3 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Environmental Protection Regulations Amendment (Publication and Confidentiality) Regulations 2021 Pt. 2 | SL 2021/178 22 Oct 2021 | 23 Oct 2021 (see r. 2(b) and SL 2021/176 cl. 2)
 Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 2023 Pt. 3 | SL 2023/50 19 May 2023 | 1 Jul 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 3 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 Other notes
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 4. See s. 8 of that Act in relation to the repeal of the Swan River Trust Act 1988.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
