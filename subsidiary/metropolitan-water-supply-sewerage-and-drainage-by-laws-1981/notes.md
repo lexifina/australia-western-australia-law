@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 | 22 Jan 1981 p. 165-384 (corrigendum 30 Jan 1981 p. 488) | 1 Mar 1981 (see bl. 1.0)
@@ -86,6 +86,10 @@ Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2013 | 14 Nov
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2016 | 7 Jun 2016 p. 1782-7 | bl. 1 and 2: 7 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 8 Jun 2016 (see bl. 2(b))
 Water By-laws Amendment (Public Health) By-laws 2016 Pt. 3 | 10 Jan 2017 p. 233-5 | 24 Jan 2017 (see bl. 2(b) and Gazette 10 Jan 2017 p. 165)
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2023 | SL 2023/54 19 May 2023 | bl. 1 and 2: 19 May 2023 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2023 (see bl. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2023 bl. 3-7 | SL 2023/176 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 Other notes
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
