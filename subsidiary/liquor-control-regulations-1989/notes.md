@@ -158,6 +158,7 @@ Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 
 Liquor Control Amendment Regulations 2022 | SL 2022/217 23 Dec 2022 | Pt. 1: 23 Dec 2022 (see r. 2(a)); Pt. 2: 24 Dec 2022 (see r. 2(b)); Pt. 3: 1 Jan 2023 (see r. 2(c) and SL 2022/144 r. 2(b))
 Liquor Control Amendment Regulations 2023 | SL 2023/125 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b))
 Liquor Control (Joy Springs Restricted Area) Regulations 2023 Pt. 5 | SL 2023/159 18 Oct 2023 | 19 Oct 2023 (see r. 2(b))
+Liquor Control (Mingullatharndo Restricted Area) Regulations 2023 Pt. 5 | SL 2023/174 1 Nov 2023 | 2 Nov 2023 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
