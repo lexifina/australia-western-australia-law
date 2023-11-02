@@ -19,6 +19,7 @@ Transport Regulations Amendment (Digital Identity Exchange) Regulations 2021 Pt.
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 11 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fee Waiver and Refund) Regulations 2022 Pt. 3 | SL 2022/181 4 Nov 2022 | 5 Nov 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 14 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
+Transport Regulations Amendment (Identity Matching Services) Regulations 2023 Pt. 4 | SL 2023/166 1 Nov 2023 | 2 Nov 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
