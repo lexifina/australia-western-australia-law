@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Lotteries Commission (Authorised Lotteries) Rules 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Lotteries Commission (Authorised Lotteries) Rules 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Lotteries Commission (Authorised Lotteries) Rules 2016 | 7 Oct 2016 p. 4405-527 | r. 1 and 2: 7 Oct 2016 (see r. 2(a)); Rules other than r. 1 and 2: 8 Oct 2016 (see r. 2(b))
@@ -15,6 +15,10 @@ Lotteries Commission (Authorised Lotteries) Amendment (Saturday Lotto) Rules 202
 Lotteries Commission (OZ Lotto) Amendment Rules 2022 | 5 Apr 2022 p. 2482-3 | r. 1 and 2: 5 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: immediately after the OZ Lotto draw on 10 May 2022 (see r. 2(b))
 Lotteries Commission (Super66 and Removal of Self-serve Kiosks) Amendment Rules 2022 | 12 Apr 2022 p. 2728-9 | r. 1 and 2: 12 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: immediately after the Super66 draw on 14 May 2022 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) (Powerball) Amendment Rules 2023 | 28 Apr 2023 p. 867 | r. 1 and 2: 28 Apr 2023 (see r. 2(a)); Rules other than r. 1 and 2: immediately after the Powerball draw on 18 May 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lotteries Commission (Authorised Lotteries) (Commission) Amendment Rules 2023 r. 4-8 | 3 Nov 2023 p. 3607-8 | r. 6: 6:01pm on 23 Nov 2023 (see r. 2(e)); r. 7: 6:01pm on 25 Nov 2023 (see r. 2(f)); r. 4(1) and (2): 6:01pm on 27 Nov 2023 (see r. 2(b)); r. 5: 6:01pm on 28 Nov 2023 (see r. 2(d)); r. 4(3) and (4): 6:01pm on 29 Nov 2023 (see r. 2(c)); r: 8: 6:01pm on 30 Nov 2023 (see r. 2(g))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -83,3 +87,7 @@ wager3
 Wednesday Lotto3
 winning digits137
 winning number63(2) and (3), 73, 86, 99, 110
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
