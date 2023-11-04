@@ -8,6 +8,7 @@ Biodiversity Conservation Amendment Regulations (No. 2) 2018 | 21 Dec 2018 p. 48
 Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/166 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Biodiversity Conservation Amendment Regulations 2022 | SL 2022/43 25 Mar 2022 | r. 1 and 2: 25 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Mar 2022 (see r. 2(b))
 Biodiversity Conservation Amendment Regulations (No. 2) 2022 | SL 2022/95 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Biodiversity Conservation Amendment Regulations 2023 | SL 2023/165 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -94,3 +95,7 @@ whale3
 whale shark3
 wildlife licence168
 Zoological Parks Authority45(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
