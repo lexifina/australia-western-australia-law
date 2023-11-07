@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -41,13 +41,9 @@ Road Traffic (Vehicles) Amendment Regulations (No. 3) 2022 | SL 2022/57 20 May 2
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 5 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 5) 2022 | SL 2022/130 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 4) 2022 | SL 2022/149 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
-Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 r. 1-3, 5, 13(4) and 15-20 | SL 2022/174 21 Oct 2022 | r. 1 and 2: 21 Oct 2022 (see r. 2(a)); r. 3, 5, 13(4) and 15-20: 7 Nov 2022 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 | SL 2022/174 21 Oct 2022 | r. 1 and 2: 21 Oct 2022 (see r. 2(a)); r. 3, 5, 13(4) and 15-20: 7 Nov 2022 (see r. 2(b)); Regulations other than r. 1-3, 5, 13(4) and 15-20: 7 Nov 2023 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/45 19 May 2023 | 20 May 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 3 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 (other than r. 1-3, 5, 13(4) and 15-20) | SL 2022/174 21 Oct 2022 | 7 Nov 2023 (see r. 2(c))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -91,6 +87,7 @@ Defined termProvision(s)
 90 mm kingpin367
 access approval202
 accredited212
+address409(1A)
 adopted standard226
 ADR3, 226
 affected person470(1), 479(1)
@@ -211,8 +208,9 @@ ID prevention state120(1)
 imitation plate109
 Immigration and Border Protection worker3
 improvement notice481
-improvement notice reviewable decision481
+improvement notice reviewable decision480(5)
 independent brake336(1)
+initial examination86
 inspection station3
 insurer146
 jinker119(5)
@@ -221,6 +219,7 @@ least favoured chamber347(1)
 left3, 237
 licence103
 licence holder3
+lifting apparatus414(1A)
 lighting equipment426(1)
 load capacity414(1)
 loaded mass3
@@ -261,6 +260,7 @@ on-demand rank or hail vehicle109
 operator3
 order190, 202
 ordinary plate109
+other examination86
 over-mass3
 overseas vehicle103
 oversize3
@@ -306,7 +306,7 @@ right3, 237
 road202
 road tank vehicle226
 road train3, 367
-school bus226
+school bus86, 226
 seasonal heavy vehicle licence3
 second edition ADR226
 section3
@@ -328,13 +328,14 @@ submission date454Q(2)
 Table38(1)
 Technical Guide150(3)
 third edition ADR226
+tilt tray tow truck407A
 total loss146
-tow423(1)
+tow3, 423(1)
 tow coupling overhang379(1)
 towed vehicle423(1)
 towing vehicle423(1)
 tow truck3
-trade plate109
+trade plate108
 trailer3, 167(1), 168(1)
 trailer derivative38(1)
 transitional pilot454ZC(1)
@@ -343,7 +344,7 @@ transport enforcement vehicle226
 turntable3
 unloaded mass3
 used423(1)
-vacuum brakes226
+vacuum brakes225
 vacuum reserve334(1A)
 vacuum storage tank3
 vehicle165(1), 167(1), 179(2), 180(1), 181(1), 236(1), 238(1)
@@ -351,9 +352,9 @@ vehicle examiner12, 20(1)
 vehicle identification number3
 vehicle licensing reviewable decision478
 vehicle standard regulation460
-VIN3
+VIN2
 WOVR3
-wrecker146
+wrecker142(6)
 written-off146
 written-off vehicle notice157(1)
 Written-Off Vehicle Register3
