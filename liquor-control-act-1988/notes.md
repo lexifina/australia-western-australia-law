@@ -65,6 +65,7 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 | 25 of 2023 | 10 Nov 2023 | Pt. 2 (other than Div. 3): to be proclaimed (see s. 2(b)); Pt. 2 Div. 3: operative on the day that is 2 years after s. 15 comes into operation (see s. 2(c))
 Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
@@ -294,3 +295,7 @@ wholesaler’s licence3(1)
 wine3(1)
 wine producing region61A(1)
 working day152NZR(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
