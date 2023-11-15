@@ -11,11 +11,11 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 230(1) and (2) | 25 
 Electricity Corporations Amendment Act 2013 s. 46 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 33 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Aboriginal Cultural Heritage Act 2021 s. 353 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 34 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 230(3) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
-Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 34 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

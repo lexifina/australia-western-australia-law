@@ -31,13 +31,13 @@ Voluntary Assisted Dying Act 2019 Pt. 12 Div. 2 | 27 of 2019 | 19 Dec 2019 | 1 J
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 54 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Aboriginal Cultural Heritage Act 2021 s. 346 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 27 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 4 and s. 410 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
-Abortion Legislation Reform Act 2023 Pt. 4 Div. 2 | 20 of 2023 | 27 Sep 2023 | To be proclaimed (see s. 2(b))
-Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 27 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
+Abortion Legislation Reform Act 2023 Pt. 4 Div. 2 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Other notes
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -52,8 +52,6 @@ The Courts Legislation Amendment and Repeal Act 2004 s. 75(2) reads as follows:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Aboriginal ancestral remains19B(1)
-Aboriginal Cultural Heritage Council19B(1)
 agency3
 body having jurisdiction over a person carrying on a trade or profession50(2)
 coroner3
