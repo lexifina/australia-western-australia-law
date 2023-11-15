@@ -1,7 +1,7 @@
 ## Schedule
 Form 1
 ABORIGINAL HERITAGE ACT 1972
-[s. 50 and reg. 12]
+[s. 50 and r. 11(2)]
 HONORARY WARDEN
 Name ......................................................................................................................
 of (Address) ...........................................................................................................
@@ -12,13 +12,14 @@ The validity of this certificate expires on ....................................
 (Photo) | [Seal of Minister]
 .............................................................
 Signature of warden
+[Form 1 inserted: Gazette 30 Jun 1995 p. 2786; amended: SL 2023/173 r. 16(1).]
 Form 2
 ABORIGINAL HERITAGE ACT 1972
-[reg. 12(b)]
+[r. 12]
 TO WHOM IT MAY CONCERN
 This is to certify that ..............................................................................................
 ................................................................................................................................
-is an officer of the Aboriginal Affairs Department of Western Australia, and that he/she is empowered to administer the Aboriginal Heritage Act 1972, and the regulations made under that Act.
+is an officer of the [name of Department] and that they are empowered to administer the Aboriginal Heritage Act 1972, and the regulations made under that Act.
 ............................................. Chief Executive Officer ................................................. Registrar of Aboriginal Sites ........................................ Date | (Photo)
 Officer’s signature ............................................
-[Schedule inserted: Gazette 30 Jun 1995 p. 2786.]
+[Form 2 inserted: Gazette 30 Jun 1995 p. 2786; amended: SL 2023/173 r. 16(2).]
