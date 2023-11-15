@@ -66,11 +66,11 @@ Reprint 9: The Conservation and Land Management Act 1984 as at 6 Jan 2017 (inclu
 Aboriginal Cultural Heritage Act 2021 s. 343 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Conservation and Land Management Amendment Act 2022 | 27 of 2022 | 31 Aug 2022 | s. 1 and 2: 31 Aug 2022 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2022 (see s. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 2 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 24 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 3 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 24 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Other notes
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.

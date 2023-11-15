@@ -24,12 +24,11 @@ Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 3 | 8 of 2010 | 
 Water Services Legislation Amendment and Repeal Act 2012 s. 203 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Aboriginal Cultural Heritage Act 2021 Pt. 15 | 27 of 2021 | 22 Dec 2021 | Pt. 15 (other than Div. 3): 23 Dec 2021 (see s. 2(b)); Pt. 15 Div. 3: 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 2 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
-Aboriginal Heritage Legislation Amendment and Repeal Act 2023 Pt. 3 Div. 1 | 23 of 2023 | 24 Oct 2023 | 25 Oct 2023 (see s. 2(b))
+Aboriginal Heritage Legislation Amendment and Repeal Act 2023 Pt. 3 | 23 of 2023 | 24 Oct 2023 | Pt. 3 (other than Div. 2): 25 Oct 2023 (see s. 2(b)); Pt. 3 Div. 2: 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aboriginal Cultural Heritage Act 2021 s. 310 | 27 of 2021 | 22 Dec 2021 | 1 Jan 2024 (see s. 2(d))
-Aboriginal Heritage Legislation Amendment and Repeal Act 2023 Pt. 3 Div. 2 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Aboriginal Heritage Amendment Act 1995 s. 19(2), (3) and (4) read as follows:
@@ -51,31 +50,62 @@ Defined termProvision(s)
 2021 Act69
 2023 amendment Act69
 Aboriginal4
-Aboriginal cultural heritage18(6A)
+Aboriginal ancestral remains82(1)
 Aboriginal cultural material4
 Aboriginal site4
+ACH Account87(1)
+ACH Compensation Fund87(1)
+ACH Council69
+ACH management plan77(1)
+ACH permit76(1)
+approved determination of native title18(1AA)
 assent day71(1)
+claim area18(1AA)
 Committee4
 Department4
-Director4
-located18(6A)
+determination area18(1AA)
+fee67A(1)
+historical protected area order73(1)
+ILUA18(1AA)
+Marandoo Act area78(1)
+Marandoo Reduced Area dataset78(1)
 Minister for Lands66(1)
 Museum4
-new information about Aboriginal cultural heritage18(6A)
+National Native Title Register18(1AA)
+native title18(1AA)
+Native Title Act18(1AA)
+native title party18(1AA)
+native title rights and interests18(1AA)
+new information about an Aboriginal site18(1AA)
+owner18A(1), 18B(1), 78(1)
+party18A(1)
 person of Aboriginal descent4
 proceedings under this Act4
 protected area4
+protected area order73(1)
 publication day71(1)
+regional corporation18(1AA)
+registered claim18(1AA)
+registered native title body corporate18(1AA)
+registered native title claim18(1AA)
+registered native title claimant18(1AA)
+Register of Native Title Claims18(1AA)
 Registrar4
+relevant determination18(1AA)
+repeal day69
+secret or sacred object83(1)
+settlement ILUA18(1AA)
 specified71(1)
+specified land78(1)
+specified purpose78(1)
+spent protected area order73(1)
+subcommittee31(2)
 temporarily protected area4
 the owner of any land18(1)
 the Trustees4
 traditional custodian4
 transitional matter71(1)
-transitional period18(6A)
 transitional regulations69, 71(2)
-transition day4
 © State of Western Australia 2023.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2023.
