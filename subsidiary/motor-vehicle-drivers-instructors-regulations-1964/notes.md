@@ -70,6 +70,7 @@ Motor Vehicle Drivers Instructors Amendment Regulations 2017 | 26 May 2017 p. 26
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2017 Pt. 3 | 23 Jun 2017 p. 3253-78 | 1 Jul 2017 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 4 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations 2019 | 31 Dec 2019 p. 4683-4 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2020 (see r. 2(b))
+Motor Vehicle Drivers Instructors Amendment Regulations 2023 | SL 2023/181 15 Nov 2023 | r. 1 and 2: 15 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2023 (see r. 2(b))
 Other notes
 These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 is a transitional provision that is of no further effect.
@@ -87,3 +88,7 @@ motor vehicle2
 relevant authority2
 semi-trailer2
 trailer2
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer

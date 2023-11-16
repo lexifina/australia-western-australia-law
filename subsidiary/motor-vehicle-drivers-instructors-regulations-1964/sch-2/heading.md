@@ -12,7 +12,7 @@
 10.ETAS (WA) Pty Ltd
 11.Shawsett Training Pty Ltd
 12.Transport Training Centre (SA) Incorporated
-13.Chiholm College of TAFE (NSW), established under the Technical and Further Education Commission Act 1990 of New South Wales
+13.Chisholm College of TAFE (NSW), established under the Technical and Further Education Commission Act 1990 of New South Wales
 14.Wodonga College of TAFE (Vic), established under the Vocational Education and Training Act 1990 of Victoria
 15.Transport Industries Skills Centre Incorporated (ACT)
 16.Petya Pty Ltd trading as Drive Safe Australia WA
@@ -21,4 +21,7 @@
 19.R F Maling and S M Maling trading as ACT Training
 20.Aegis Training Services Pty Ltd trading as Aegis Training Services
 21.Richards Mining Services Pty Ltd
-[Schedule 2 inserted: Gazette 30 Jan 2001 p. 619-20; amended: Gazette 11 Mar 2003 p. 751; 18 Aug 2006 p. 3371; 9 Nov 2010 p. 5633; 8 Feb 2013 p. 869; 4 Nov 2014 p. 4207; 5 Apr 2016 p. 1030; 26 May 2017 p. 2634; 31 Dec 2019 p. 4684.]
+22.Shift Training Pty. Ltd. (ACN 168 567 280)
+23.Academy of Road Safety Pty Ltd (ACN 165 345 853)
+24.121 Training Pty Ltd (ACN 142 831 203)
+[Schedule 2 inserted: Gazette 30 Jan 2001 p. 619-20; amended: Gazette 11 Mar 2003 p. 751; 18 Aug 2006 p. 3371; 9 Nov 2010 p. 5633; 8 Feb 2013 p. 869; 4 Nov 2014 p. 4207; 5 Apr 2016 p. 1030; 26 May 2017 p. 2634; 31 Dec 2019 p. 4684; SL 2023/181 r. 4.]
