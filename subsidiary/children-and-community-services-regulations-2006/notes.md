@@ -36,6 +36,7 @@ Children and Community Services Amendment Regulations 2023 | SL 2023/52 19 May 2
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2023 Pt. 3 | SL 2023/93 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 2) 2023 | SL 2023/110 14 Jul 2023 | r. 1 and 2: 14 Jul 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jul 2023 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 3) 2023 | SL 2023/172 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
+Children and Community Services Amendment Regulations (No. 4) 2023 | SL 2023/179 15 Nov 2023 | r. 1 and 2: 15 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2023 (see r. 2(b))
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
