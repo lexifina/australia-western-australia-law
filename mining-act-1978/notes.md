@@ -84,16 +84,17 @@ Licensing Provisions Amendment Act 2016 Pt. 5 | 44 of 2016 | 1 Dec 2016 | 8 Feb 
 Reprint 9: The Mining Act 1978 as at 10 Feb 2017 (includes amendments listed above)
 Environmental Protection Amendment Act 2020 s. 116 | 40 of 2020 | 19 Nov 2020 | 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
-Mining Amendment Act (No. 2) 2022 | 39 of 2022 | 1 Nov 2022 | s. 1 and 2: 1 Nov 2022 (see 2(a)); Act other than s. 1 and 2: 2 Nov 2022 (see s. 2(b))
+Mining Amendment Act (No. 2) 2022 | 39 of 2022 | 1 Nov 2022 | s. 1 and 2: 1 Nov 2022 (see s. 2(a)); Act other than s. 1 and 2: 2 Nov 2022 (see s. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 8 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 41 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Mining Amendment Act 2023 | 27 of 2023 | 17 Nov 2023 | s. 1 and 2: 17 Nov 2023 (see s. 2(a)); Act other than s. 1 and 2: 18 Nov 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 369 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Mining Amendment Act 2022 (other than s. 1 and 2) | 31 of 2022 | 28 Sep 2022 | To be proclaimed (see s. 2(b))
+Mining Amendment Act 2022 (s. 3-41) | 31 of 2022 | 28 Sep 2022 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
@@ -104,7 +105,7 @@ The Mining Amendment Act 1981 s. 3 reads as follows:
 (3) A miner’s right issued under the Mining Act 1904 before 8 December 1978 shall be deemed to have been valid and in force until the date of expiry expressed thereon.
 (4) Subsection (3) of this section shall not be construed so as to derogate in any way from the effect of the Mining Act Amendment Clause 1978 as set out in Clause 3 of the Second Schedule to the Mining Act 1978.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
-At the time of this reprint, the department is called the Department of Mines and Petroleum.
+At the time of this compilation, the department is called the Department of Mines, Industry Regulation and Safety.
 The Mining Legislation Amendment and Validation Act 2008 Pt. 2 Div. 2 and Pt. 3 read as follows:
 Division 2 — Validation and pending applications
 6.Validation of extension of term of certain exploration licences
@@ -288,7 +289,7 @@ applicant105A(2)
 application for exemption102(1)
 approved surveyor162(2)
 audit amount115B(1)
-audit statement115A(1)
+audit statement115B(1)
 authorisation118A(1)
 authorised officer103A
 available land40A
@@ -314,12 +315,12 @@ designated area57A(5)
 designated tenement contact (DTC)8(1)
 Director General of Mines8(1)
 Director, Geological Survey8(1)
-diversification lease8
-end day64(1)
+diversification lease8(1)
+end day65(1)
 existing applicationSecond Sch. cl. 18(1)
 expenditure115B(1)
 expenditure amount115B(1)
-conditions8(1)
+expenditure conditions8(1)
 exploration licence69A(1)
 extension application45(1b)
 fisheries Minister24A(9)
@@ -331,10 +332,10 @@ grant125A(3)
 granted land65(4c)
 graticular sections56C(1)
 ground disturbing equipment8(1)
-guidelines70N(1), 115A(1)
+guidelines70O(1), 115A(1)
 identified mineral resource8(1)
 JORC Code74(7)
-judgment139(1)
+judgment140(1)
 LAA Minister8(1)
 land8(1), 21(2A)
 land under cultivation8(1)
@@ -363,16 +364,17 @@ mining8(1), 123(2a)
 mining operations8(1)
 mining plant114(1)
 mining product8(1)
-mining proposal70N(1)
+mining proposal70O(1)
 mining registrar8(1)
 mining tenement8(1)
 mining tenement document162(3A)
 native title holders125A(3)
-new mining tenementSecond Sch. cl. 10(1) and 10(3)
+new mining tenementSecond Sch. cl. 10(1) and (3)
 occupier8(1)
+offsets project8(1)
 offshore area9A(2)
 oil shale8(1)
-old mining tenementSecond Sch. cl. 10(1) and 10(3)
+old mining tenementSecond Sch. cl. 10(1) and (3)
 old mining tenementsSecond Sch. cl. 10(1)
 operations report115A(1), 115B(1)
 owner8(1)
@@ -381,8 +383,7 @@ pastoral lease8(1)
 permit40G(1)
 permit land40G(1)
 prescribed day19(2d)
-prescribed official8(1)
-prescribed official30(8)
+prescribed official8(1), 30(8)
 prescribed period114(1)
 prescribed provision17(1)
 primary tenement56A(1), 70(1), 70A, 85B(1)
