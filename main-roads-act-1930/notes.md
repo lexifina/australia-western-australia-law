@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Main Roads Act 1930 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Main Roads Act 1930 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Main Roads Act 1930 | 5 of 1930 (21 Geo. V No. 5) | 19 Nov 1930 | 1 Dec 1930 (see s. 1 and Gazette 28 Nov 1930 p. 2564)
@@ -52,10 +52,7 @@ Short title | Number and year | Assent | Commencement
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Reprint 7: The Main Roads Act 1930 as at 2 Dec 2011 (includes amendments listed above)
  | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 31 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Main Roads Amendment Act 2023 s. 3-44 | 26 of 2023 | 17 Nov 2023 | To be proclaimed (see s. 2(b))
+ | Main Roads Amendment Act 2023 | 26 of 2023 | 17 Nov 2023 | s. 1 and 2: 17 Nov 2023 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2023 (see s. 2(b) and SL 2023/183 cl. 2)
 Other notes
 Proclamation published in Gazette 28 November 1930 p. 2564.
 The Main Roads Amendment Act 1984 s. 5 is a validation provision.
@@ -65,25 +62,48 @@ The Limitation Act 1935 s. 48A and the Second Schedule were inserted by No. 73 o
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Commissioner6
-construct6
+acquire18E(1)
+adjoining works6
+agreement6
+authorised officer36(1)
+business arrangement6
+carry out6
+COA road section6, 28AA
+Commissioner4
 control of access6
 declared road6
+designated place37(1)
+designated purpose29(1A)
+dispose of18E(1)
 district6
 document19C(4)
+enter6
+environmental offset works6
 financial year6
+heavy vehicle6
 highway6
 information19C(4)
+intellectual property22(1)
 interest6
 land6
+local government6
 main road6
+main roads works6
+memberFirst Sch. cl. 1
 motor traffic pass6
+oversize6
+participate in18E(1)
 proclaimed area6
+property18E(1)
 relevant authority28(1)
-road6
-road construction6
-secondary road6
-work18B(4)
+relevant local government27A(1)
+research body18E(1)
+road6, 27A(1)
+road section28AA
+road service centre6
+road works4
+secondary road4
+works6, 18B(1)
 year6
 © State of Western Australia 2023.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
