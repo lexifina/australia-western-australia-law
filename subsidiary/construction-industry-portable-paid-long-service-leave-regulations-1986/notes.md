@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Construction Industry Portable Paid Long Service Leave Regulations 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Construction Industry Portable Paid Long Service Leave Regulations 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Construction Industry Portable Paid Long Service Leave Regulations 1986 | 19 Dec 1986 p. 4924-5 | 19 Dec 1986
@@ -46,7 +46,16 @@ Construction Industry Portable Paid Long Service Leave Amendment Regulations 202
 Construction Industry Portable Paid Long Service Leave Amendment Regulations (No. 2) 2020 | SL 2020/144 28 Aug 2020 | r. 1 and 2: 28 Aug 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2020 (see r. 2(b))
 Construction Industry Portable Paid Long Service Leave Amendment Regulations (No. 3) 2020 | SL 2020/227 20 Nov 2020 | r. 1 and 2: 20 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2021 | SL 2021/191 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1, 2 and 6: 20 Nov 2021 (see r. 2(c)); r. 6: 1 Jan 2022 (see r. 2(b))
+Construction Industry Portable Paid Long Service Leave Amendment Regulations 2023 (other than r. 7) | SL 2023/187 29 Nov 2023 | r. 1 and 2: 29 Nov 2023 (see r. 2(a)); Regulations other than r. 1, 2 and 7: 30 Nov 2023 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Construction Industry Portable Paid Long Service Leave Amendment Regulations 2023 r. 7 | SL 2023/187 29 Nov 2023 | 1 Jan 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 temporary employee3(3)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
