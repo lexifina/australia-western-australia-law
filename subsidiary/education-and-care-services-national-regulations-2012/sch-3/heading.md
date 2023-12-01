@@ -10,14 +10,18 @@ Regulation 77(1) | Health, hygiene and safe food practices
 Regulation 78(1) | Food and beverages
 Regulation 79(1) | Service providing food and beverages
 Regulation 80(1) | Weekly menu
-Regulation 81(1) | Sleep and rest
 Regulation 82(1) | Tobacco, drug and alcohol-free environment
 Regulation 83(1) | Nominated supervisors, staff members and volunteers not to be affected by alcohol or drugs
-Regulation 84 | Awareness of child protection law
+Regulation 84(1) | Awareness of child protection law
+Regulation 84A(1) | Reasonable steps to ensure that the needs for sleep and rest of children are met
+Regulation 84C(1) | Risk assessment for the purposes of preparing sleep and rest policies and procedures
+Regulation 84D(1) | Prohibition of bassinets
 Regulation 89(1) | First aid kits
 Regulation 91 | Medical conditions policy to be provided to parents
-Regulation 97(2), (3), (4) | Emergency and evacuation procedures
+Regulation 97(2), (2A), (3), (4) | Emergency and evacuation procedures
 Regulation 98 | Telephone or other communication equipment
+Regulation 102AAC(1) | Risk assessment for the purposes of preparing safe arrival of children policies and procedures
+Regulation 102B(1) | Transport risk assessment must be conducted before service transports child
 Regulation 103(1) | Premises, furniture and equipment to be safe, clean and in good repair
 Regulation 104(1) | Fencing
 Regulation 105 | Furniture, materials and equipment
@@ -48,3 +52,4 @@ Regulation 172(1)(b) | Notification of change to policies or procedures affectin
 Regulation 177(2), (3) | Prescribed enrolment and other documents to be kept by approved provider
 Regulation 183 | Storage of records and other documents
 Regulation 185 | Law and regulations to be available
+[Schedule 3 amended: SL 2023/186 r. 44.]
