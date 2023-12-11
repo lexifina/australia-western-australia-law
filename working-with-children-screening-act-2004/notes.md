@@ -31,6 +31,7 @@ Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 28 and s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Western Australian Marine Amendment Act 2023 s. 38 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
 Other notes
 1.Now known as the Working with Children (Screening) Act 2004; short title changed (see note under s. 1).
 Defined terms
