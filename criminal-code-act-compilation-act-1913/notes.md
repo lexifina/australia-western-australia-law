@@ -206,6 +206,7 @@ Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclai
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
 Abortion Legislation Reform Act 2023 Pt. 2 | 20 of 2023 | 27 Sep 2023 | To be proclaimed (see s. 2(b))
+Western Australian Marine Amendment Act 2023 s. 30 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
