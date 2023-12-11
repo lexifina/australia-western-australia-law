@@ -73,9 +73,10 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Planning and Development Amendment Act 2020 Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
-Environmental Protection Amendment Act 2020 s. 4(2), (4), (6) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 4(6): on the later of either the day on which the Planning and Development Amendment Act 2020 s. 64 comes into operation or immediately after s. 4(2) comes into operation (see s. 2(1)(b)); s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
+Planning and Development Amendment Act 2020 Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | 1 Mar 2024 (see s. 2(1)(b) and SL 2024/16 cl. 2)
+Environmental Protection Amendment Act 2020 s. 4(2), (4), (6) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 4(6): comes into operation immediately after s. 4(2) comes into operation (see s. 2(1)(b)); s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
+Planning and Development Amendment Act 2023 Pt. 5 Div. 2 | 34 of 2023 | 11 Dec 2023 | 1 Mar 2024 (see s. 2(d))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
