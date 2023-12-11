@@ -31,6 +31,7 @@ Western Australian Marine Amendment Act 1987 s. 4-6 | 15 of 1987 (as amended by 
 Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 | 35 of 1990 (as amended by No. 24 of 2023 Pt. 10 Div. 10) | 9 Oct 1990 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 376 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 9 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
+Western Australian Marine Amendment Act 2023 Pt. 2 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
 Other notes
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 s. 3(2) (Cwlth).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
