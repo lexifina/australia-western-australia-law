@@ -27,6 +27,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law (Mental Impairment) Act 2023 s. 235 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Western Australian Marine Amendment Act 2023 s. 33 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 9 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Now known as the Criminal Law (Mentally Impaired Accused) Act 1996; short title changed (see note under s. 1).
@@ -52,3 +53,7 @@ Schedule 1 offence3
 statutory penalty3
 trial8
 victim33(6)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
