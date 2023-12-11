@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 August 2014 of the Referendums Act 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Referendums Act 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Referendums Act 1983 | 83 of 1983 | 22 Dec 1983 | 22 Dec 1983
@@ -12,6 +12,11 @@ Electoral Amendment Act 2000 s. 25, 49 and 54 | 36 of 2000 | 10 Oct 2000 | s. 25
 Sentencing Legislation Amendment and Repeal Act 2003 s. 89 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 109 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 2: The Referendums Act 1983 as at 15 Aug 2014 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 5 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
+Other notes
 The Electoral Act 1907 s. 103 was deleted by the Electoral Amendment Act 2000 s. 75.
 The Electoral Act 1907 s. 118 was deleted by the Electoral Legislation Amendment Act 2006 s. 31.
 Defined terms
@@ -30,3 +35,7 @@ referendum2(1)
 referendum as to a Bill2(1)
 referendum notice48(1)
 returning officer2(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
