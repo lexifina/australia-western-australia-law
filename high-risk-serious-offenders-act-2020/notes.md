@@ -8,6 +8,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 High Risk Serious Offenders Act 2020 Sch. 1 Div. 2 Subdiv. 1 it. 1 | 29 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 17 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Western Australian Marine Amendment Act 2023 s. 35 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -71,3 +72,7 @@ under a custodial sentence3
 victim3
 victim submission3
 video link86(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
