@@ -6,7 +6,8 @@ Criminal Law (Mental Impairment) Act 2023 Pt. 1 | 10 of 2023 | 13 Apr 2023 | 13 
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Criminal Law (Mental Impairment) Act 2023 (other than Pt. 1) | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 (other than Pt. 1) | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Western Australian Marine Amendment Act 2023 s. 32 | 31 of 2023 | 11 Dec 2023 | 1 Sep 2024 (see s. 2(b)(ii) and SL 2024/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -86,3 +87,7 @@ unfit accused9(1)
 victim9(1)
 video link9(1)
 working day9(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
