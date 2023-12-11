@@ -9,6 +9,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 National Disability Insurance Scheme (Worker Screening) Act 2020 (s. 23) | 48 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(b))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 21 and s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Western Australian Marine Amendment Act 2023 s. 36 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
