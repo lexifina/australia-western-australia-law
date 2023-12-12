@@ -40,15 +40,15 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Statutes (Repeals and Minor Amendments) Act 2014 s. 12 and 22 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 2 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 3 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
-Guardianship and Administration Amendment (Medical Research) Act 2020 (other than s. 13 and 15) | 14 of 2020 | 6 Apr 2020 | s. 1 and 2: 6 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 13 and 15: 7 Apr 2020 (see s. 2(c))
+Guardianship and Administration Amendment (Medical Research) Act 2020 | 14 of 2020 (as amended by No. 32 of 2023 Pt. 3) | 6 Apr 2020 | s. 1 and 2: 6 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 13 and 15: 7 Apr 2020 (see s. 2(c))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Guardianship and Administration Amendment (Medical Research) Act 2023 Pt. 2 | 32 of 2023 | 11 Dec 2023 | 12 Dec 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
-Guardianship and Administration Amendment (Medical Research) Act 2020 s. 13 and 15 | 14 of 2020 | 6 Apr 2020 | 7 Apr 2024 (see s. 2(b))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 16 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
-Abortion Legislation Reform Act 2023 Pt. 4 Div. 5 | 20 of 2023 | 27 Sep 2023 | To be proclaimed (see s. 2(b))
+Abortion Legislation Reform Act 2023 Pt. 4 Div. 5 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Other notes
 1-3Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
@@ -97,6 +97,7 @@ The Acts Amendment (Consent to Medical Treatment) Act 2008 s. 14 reads as follow
 14.Review of the Guardianship and Administration Act 1990
 (1) The Minister administering the Guardianship and Administration Act 1990 is to carry out a review of the operation and effectiveness of the provisions of the Guardianship and Administration Act 1990 and the relevant sections of The Criminal Code as soon as practicable after the expiration of 3 years from the commencement of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and cause the report to be laid before each House of Parliament within 4 years after the commencement of this Act.
+The Guardianship and Administration Amendment (Medical Research) Act 2020 s. 13 and 15 were deleted before they came into operation by the Guardianship and Administration Amendment (Medical Research) Act 2023 s. 7 and 8.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -144,6 +145,7 @@ President3(1)
 procedure for the sterilisation56, 110ZT(1)
 Public Advocate3(1)
 Public Trustee3(1)
+registered health practitioner110ZO
 relevant finding67(5)
 relevant official83C(4)
 report request110ZZA(3)
