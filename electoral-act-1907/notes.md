@@ -104,11 +104,13 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 | 25 of 201
 Electoral Amendment Act 2016 | 14 of 2016 | 11 Jul 2016 | s. 1 and 2: 11 Jul 2016 (see s. (2)(a)); Act other than s. 1 and 2: 17 Aug 2016 (see s. 2(b) and Gazette 16 Aug 2016 p. 3469)
 Reprint 17: The Electoral Act 1907 as at 9 Dec 2016 (includes amendments listed above)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 4 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
+Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 2 (other than s. 4-175 and 180-182) | 30 of 2023 | 11 Dec 2023 | 12 Dec 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 13 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Electoral Amendment (Finance and Other Matters) Act 2023 s. 4-175 and 180-182 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
 Other notes
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 (Cwlth) Sch. 1 Pt. 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also the uncommenced provisions table.
@@ -144,7 +146,9 @@ absent voter4(1)
 absolute majority of votes144(3)
 advertise75(1)
 agent175
+amended Part 6 Division 2A218
 amending provisions215
+amount change day218
 application for continued registration217(1)
 application name62J(1)
 approved form4(1)
@@ -172,7 +176,7 @@ certain document211A(1)
 chief executive officer, prisons59(1)
 christian name4(1)
 claim43(1)
-commencement day43(1), 215
+commencement day43(1), 215, 218
 Commissioners16A
 Commission website4(1)
 Commonwealth elector43(1)
@@ -193,6 +197,7 @@ donor175R(1)
 DRO146H(1)
 early ballot paper4(1)
 early vote4(1)
+elected non-party member220(1)
 election4(1), 175LA(1), 175Q(6)
 election period62C(1), 175
 election year4(1)
@@ -220,8 +225,10 @@ gift175
 Government Statistician16A
 group4(1)
 group claim80(1)
+higher reimbursement amount218
 hour of nomination4(1)
 independent auditor99F(1)
+independent candidate218
 infringement notice155AB
 in order43(1)
 input tax credit175LG(2)
@@ -229,8 +236,9 @@ issuing officer90(2)
 journal175
 Land Information Authority16A
 large district allowance16G(4)
+lodgment period218
 mentally impaired accused59(1)
-modified penalty156(6), 156(13A)
+modified penalty156(6) and (13A)
 name113C(10)
 new address31AB(3)
 non-participating candidate156D(14)
@@ -251,6 +259,9 @@ political gift199A(2)
 political party4(1)
 polling day69
 polling place4(1), 193(2)
+post-change election218
+pre-commencement elected non-party member220(1)
+pre-commencement registered party218
 preferenced group146EC(1)
 prepared155AB
 prescribed information25A(1a)
@@ -273,7 +284,8 @@ register of political parties62C(1), 215
 registrar, MIARB59(1)
 relevant citizenship law4(1)
 relevant day16A
-relevant election175O(2), 175Q(4)
+relevant election175O(2), 175Q(4), 221(1)
+relevant member220(2)
 relevant number4(1)
 relevant period88(1A), 191A(4)
 required information59(1)
@@ -298,3 +310,7 @@ valid and sufficient reason156(16)
 vote record4(1), 99E(1)
 whole of State electorate4(1), 16C(1)
 writ4(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
