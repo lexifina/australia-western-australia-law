@@ -4,6 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 1 (s. 1-5 and 8), Pt. 2, Pt. 3 (s. 12, 14(1) and (4), 15-21, 23-27 and 32-40) and Pt. 16 (s. 253-257) | 53 of 2016 | 29 Nov 2016 | Pt. 1 (s. 1 and 2): 29 Nov 2016 (see s. 2(a)); Pt. 1 (s. 3-5 and 8), Pt. 2, Pt. 3 (s. 12, 14(1) and (4), 15-21, 23-27 and 32-40) and Pt. 16 (s. 253-257): 2 May 2018 (see s. 2(b) and Gazette 1 May 2018 p. 1431)
 Aquatic Resources Management Amendment Act 2021 s. 4-8 and 16 | 14 of 2021 | 24 Aug 2021 | 25 Aug 2021 (see s. 2(b))
+Planning and Development Amendment Act 2023 Pt. 8 Div. 3 | 34 of 2023 | 11 Dec 2023 | 12 Dec 2023 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -108,3 +109,7 @@ vary3(1)
 vehicle3(1)
 WA waters3(1)
 waters3(1)
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
