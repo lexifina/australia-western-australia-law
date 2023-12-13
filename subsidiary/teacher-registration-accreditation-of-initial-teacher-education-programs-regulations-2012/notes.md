@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Teacher Registration (Accreditation of Initial Teacher Education Programmes) Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Teacher Registration (Accreditation of Initial Teacher Education Programmes) Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Teacher Registration (Accreditation of Initial Teacher Education Programmes) Regulations 2012 | 16 Nov 2012 p. 5611-33 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2012 (see r. 2(b) and Gazette 16 Nov 2012 p. 5637)
@@ -9,6 +9,10 @@ Education and Training Regulations Amendment (Fees) Regulations 2017 Pt. 3 | 27 
 Education and Training Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 3 | 31 Jul 2018 p. 2711-15 | 1 Aug 2018 (see r. 2(b)(ii))
 Education and Training Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/61 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Education Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/67 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Teacher Registration Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/194 13 Dec 2023 | 19 Dec 2023 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
