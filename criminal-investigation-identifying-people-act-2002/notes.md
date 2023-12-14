@@ -28,11 +28,12 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 6 | 17 of 2014 | 2 Jul 2014 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 107 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 58 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 3 | 44 of 2022 | 1 Dec 2022 | 24 Dec 2022 (see s. 2(b) and SL 2022/216 cl. 2)
+Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 3 (other than s. 34) | 25 of 2023 | 10 Nov 2023 | 14 Dec 2023 (see s. 2(b) and SL 2023/191 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 8 and s. 409 and 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
-Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 3 | 25 of 2023 | 10 Nov 2023 | Pt. 3 (other than s. 34): to be proclaimed (see s. 2(b)); s. 34: operative on the day that is 2 years after s. 15 comes into operation (see s. 2(c))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 8 and s. 409 and 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 34 | 25 of 2023 | 10 Nov 2023 | 14 Dec 2025 (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms

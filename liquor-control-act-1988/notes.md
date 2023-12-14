@@ -59,13 +59,14 @@ Heritage Act 2018 s. 185 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) an
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 2 | 44 of 2022 | 1 Dec 2022 | 24 Dec 2022 (see s. 2(b) and SL 2022/216 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 36 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 (other than Div. 3) | 25 of 2023 | 10 Nov 2023 | 14 Dec 2023 (see s. 2(b) and SL 2023/191 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 | 25 of 2023 | 10 Nov 2023 | Pt. 2 (other than Div. 3): to be proclaimed (see s. 2(b)); Pt. 2 Div. 3: operative on the day that is 2 years after s. 15 comes into operation (see s. 2(c))
+Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 Div. 3 | 25 of 2023 | 10 Nov 2023 | 14 Dec 2025 (see s. 2(c))
 Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
@@ -80,6 +81,8 @@ Defined terms
 Defined termProvision(s)
 3 unrelated adults117(2b)
 ActSch. 1 cl. 1(1)
+alcohol-related infringement notice152Y
+alcohol-related offence152Y
 alleged offence167(1)
 alleged offender167(1)
 applicable day65A(1)
@@ -87,6 +90,7 @@ applicant152N, Sch. 1B cl. 4(1)
 application152W(1), Sch. 1 cl. 1(1)
 appointed daySch. 1 cl. 1(1)
 approved form167(1)
+approved form of identification152ZF(1)
 approved manager102A, Sch. 1B cl. 1
 approved restricted manager3(1)
 approved unrestricted manager3(1)
@@ -94,6 +98,11 @@ assessment3(1)
 AssociationSch. 2 cl. 1
 authorised officer3(1)
 authorised person3(1)
+banned drinker3(1), 152YA(1)
+banned drinker area3(1)
+banned drinker order3(1), 152YB(1)
+banned drinkers register3(1), 152Y
+barring notice3(1), 115AA(2)
 beer3(1)
 buyer109(4A)
 casino3(1)
@@ -106,7 +115,7 @@ chairperson3(1)
 changed precinct details152NZO(2)
 change to a protected entertainment precinct152NZO(1)
 Chief Health Officer3(1)
-club49(1), Sch. 2 cl. 1
+club49(1), Sch. 2 cl. 1, Sch. 2 cl. 1
 club licence3(1)
 club restricted licence3(1)
 commencement daySch. 1A cl. 1, Sch. 1B cl. 1, Sch. 1C cl. 2(1) and 3(1), Sch. 1D cl. 1
@@ -139,12 +148,13 @@ drunk3(1), 3A(1)
 electronic means152NZP
 employed152A
 employee3(7), 95(1A), 165(4)
-excluded offender152NC, 152NZJ(2)
+excluded offender152NC, 152NZJ.(2)
 exclusion order152NC
-exclusion period152NC, 152NZJ(4)
+exclusion period152NC, 152NZJ.(4)
 extended exclusion order152NC, Sch. 1D cl. 1
 extended exclusion order respondent152NC
 extended trading permit3(1)
+first police BDO152Y, 152YD(1)
 former ActSch. 1A cl. 1
 function3(1)
 Gaming and Wagering Commission3(1)
@@ -156,6 +166,7 @@ host club48(5)
 hotel licence3(1)
 hotel restricted licence3(1)
 identification notice37B(1)
+ID system152Y, 152ZI(1)
 infringement notice167(1)
 inspector3(1)
 interested person25(1A)
@@ -182,7 +193,8 @@ local packaged liquor requirements36B(1)
 lodger3(1)
 manager3(1)
 manager’s approval102A
-meal3(1)
+meal2(1)
+medical practitioner152YQ(1)
 member3(1)
 member of the family125(3)
 metropolitan area3(1)
@@ -193,12 +205,12 @@ new ActSch. 1A cl. 1
 new exclusion order152NZH(3)
 nightclub licence3(1)
 non-liquor business on licensed premises119A(1)
-notice115AD(1)
 occasional licence3(1)
 occupier152N
 officer164(2)
 old licence Sch. 1C cl. 2(1)
 old section 35BSch. 1B cl. 1
+original order152YJ(5), 152YW(6)
 owner3(1)
 packaged liquor3(1), 59A(1)
 packaged liquor licence59A(1)
@@ -208,9 +220,10 @@ Parliamentary Commissioner152NZV(1)
 party to proceedings3(1)
 permit3(1), Sch. 1 cl. 1(1)
 permitted hours3(1)
-personal details152NZM(1)
+personal details152NZM(1), 152YI(1)
 personal particulars115AC(1A), 152K(1A), 152NZC(1), 152NZT(1)
 petrol station36A(1), 65A(1)
+police FVRO152Y
 premises3(1)
 prescribed3(1)
 prescribed area36B(1), 77A(1)
@@ -228,16 +241,18 @@ public authority3(1)
 public body37(1A)
 public event110(4B)
 public place152NC
-purchaser110(6A)
+purchaser110(6A), 152ZF(2)
 reception3(1)
 reception area3(1)
+recipient152ZG(1)
 record3(1)
 Register103AA(1)
+registered152Y
 regulated premises3(1)
 related body corporate3(1)
 relative3(1)
 relevant liquor57(1)
-relevant material152NZJ(1)
+relevant material152NZJ.(1)
 relevant matters69(8b)
 relevant period57(1), 93(1a)
 relevant person152A
@@ -248,36 +263,42 @@ repealed ActSch. 1 cl. 1(1)
 responsible person3(1)
 restaurant3(1)
 restaurant licence3(1)
-restriction order152NZF(1)
+restriction order152NZF
 retail section36B(1), 77A(1)
 reviewable decision25(1A)
 sample3(1)
+second police BDO152Y, 152YD(2)
 Secretary3(1)
 secure webpage115AC(1A), 152K(1A), 152NZC(1), 152NZT(1)
 seizable quantity155(5C)
+self-imposed152Y, 152YM(3)
 sell3(1)
 seller109(4A)
+senior officer152Y
 serious and organised crime152A
 ship3(1)
 short-term exclusion order152NC, Sch. 1D cl. 1
 small bar licence3(1)
 small restaurant licenceSch. 1C cl. 3(1)
 social welfare service152NZK(1)
+social worker152YQ(1)
 special event notice126E(1)
 special facility licence3(1)
 specified31(8), 40(3), 53(2), 59(6), 60(9), 99(5), 115AA(1), 126E(1), 172(12)
 specified exception152NZI(1)
-specified offence152NZJ(1), Sch. 1D cl. 1
+specified offence152NZJ.(1), Sch. 1D cl. 1
 spirits3(1)
 sports arena110(4B)
 State Branch HeadquartersSch. 2 cl. 1
 State ExecutiveSch. 2 cl. 1
 subject person152NC
 submission72A(1)
+subsequent police BDO152Y, 152YD(3)
 subsidy3(1)
 substance3(1)
 superintendent152NZQ(1)
 supplier59A(2)
+taken into alcohol-related protective custody152Y
 tavern licence3(1)
 tavern restricted licence3(1)
 the required day62(4)
@@ -287,7 +308,7 @@ transitional regulationsSch. 1A cl. 10(1)
 transitioned approvalSch. 1B cl. 3(1)
 Tribunal25A(1)
 trustee3(1)
-undertaking permitted travel152NZK(2)
+undertaking permitted travel152NZK(1)
 vehicle3(1), 109A(1)
 visitor48(2B)
 wholesaler129
