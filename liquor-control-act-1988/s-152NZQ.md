@@ -12,7 +12,7 @@ superintendent has the meaning given in the Prisons Act 1981 section 3(1).
 (i) hand the document to the named juvenile in person; or
 (ii) if the named juvenile refuses to accept the document — leave it near the named juvenile and orally draw the named juvenile’s attention to it;
 or
-(b) in any other case — a member of the Police Force must —
+(b) in any other case — a police officer must —
 (i) hand the document to the named juvenile in person; or
 (ii) if the named juvenile refuses to accept the document — leave it near the named juvenile and orally draw the named juvenile’s attention to it.
 (4) To serve a document on a person (the named person) in accordance with this subsection, another person must —
@@ -31,4 +31,4 @@ or
 (5) The regulations may make provision for or in relation to the following —
 (a) the manner in which consent under subsection (4)(b)(i), (c) or (d) may or must be given;
 (b) circumstances in which consent under subsection (4)(b)(i), (c) or (d) is taken not to be given.
-[Section 152NZQ inserted: No. 44 of 2022 s. 16.]
+[Section 152NZQ inserted: No. 44 of 2022 s. 16; amended: No. 25 of 2023 s. 21(1).]
