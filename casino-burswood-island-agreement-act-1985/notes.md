@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Casino (Burswood Island) Agreement Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Casino (Burswood Island) Agreement Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Casino (Burswood Island) Agreement Act 1985 | 9 of 1985 | 25 Mar 1985 | 25 Mar 1985 (see s. 2)
@@ -22,6 +22,9 @@ Casino (Burswood Island) Agreement Amendment Act 2008 | 17 of 2008 | 16 Apr 2008
  | Reprint 3: The Casino (Burswood Island) Agreement Act 1985 as at 12 Aug 2016 (includes amendments listed above)
  | Casino (Burswood Island) Agreement Amendment Order 2017 (see Gazette 11 Jul 2017 p. 3834-8) | cl. 1 and 2: 11 Jul 2017 (see cl. 2(a)); Order other than cl. 1 and 2: 12 Jul 2017 (see cl. 2(b))
  | TAB (Disposal) Act 2019 Pt. 7 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(c))
+ | Casino (Burswood Island) Agreement Amendment Order 2023 (SL 2023/192) | cl. 1 and 2: 13 Dec 2023 (see cl. 2(a)) Order other than cl. 1 and 2: 14 Dec 2023 (see cl. 2(b))
+Other notes
+Footnote no longer applicable.
 The Liquor Licensing (Moratorium) Act 1983 expired on 31 December 1986.
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988 which is now known as the Liquor Control Act 1988.
 Lands and Surveys and Department of Land Administration plans and surveys are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
@@ -53,3 +56,7 @@ street8(5)
 Supplementary Agreement3
 Surveyor General8(5)
 Twelfth Supplementary Agreement3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
