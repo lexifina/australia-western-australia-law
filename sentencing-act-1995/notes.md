@@ -91,6 +91,7 @@ Aboriginal Cultural Heritage Act 2021 s. 352 | 27 of 2021 | 22 Dec 2021 | 1 Jul 
 Firearms Amendment Act 2022 s. 85 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 4 | 44 of 2022 | 1 Dec 2022 | 24 Dec 2022 (see s. 2(b) and SL 2022/216 cl. 2)
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 33 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 6 | 24 of 2023 | 24 Oct 2023 | 16 Dec 2023 (see s. 2(b) and SL 2023/190 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -98,7 +99,6 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
  | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
  | Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 16 | 21 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(d))
- | Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 6 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
  | Western Australian Marine Amendment Act 2023 s. 37 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -269,7 +269,7 @@ explosive4(1)
 family relationship97A(1)
 family victim23A
 family violence offence4(1)
-fine57(1)
+fine56(1)
 firearm106(5), 124D
 firearms offence106(5)
 fixed term9AA(1), 85(1)
