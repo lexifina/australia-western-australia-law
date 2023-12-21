@@ -88,4 +88,4 @@ Steering Gear — Testing and Drills
 (d)In addition to the routine checks and tests prescribed in paragraphs (a) and (b) of this Regulation, emergency steering drills shall take place at least once every three months in order to practise emergency steering procedures. These drills shall include direct control from within the steering gear compartment, the communications procedure with the navigating bridge and, where applicable, the operation of alternative power supplies.
 (e)The Administration may waive the requirement to carry out the checks and tests prescribed in paragraphs (a) and (b) of this Regulation for ships which regularly ply on voyages of short duration. Such ships shall carry out these checks and tests at least once every week.
 (f)The date upon which the checks and tests prescribed in paragraphs (a) and (b) of this Regulation are carried out and the date and details of emergency steering drills carried out under paragraph (d) of this Regulation, shall be recorded in the log book as may be prescribed by the Administration.
-[Schedule 6 omitted under the Reprints Act 1984 s. 7(4)(g).]
+[Schedule 6 deleted: No. 24 of 2023 s. 100.]

@@ -4,11 +4,11 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Personal Property Securities (Commonwealth Laws) Act 2011 | 41 of 2011 | 4 Oct 2011 | Pt. 1: 4 Oct 2011 (see s. 2(1)(a)); Act other than s. 1, 2, 8(2) and (3) and 16: 5 Oct 2011 (see s. 2(1)(b)); s. 16: 30 Jan 2012 (see s. 2(1)(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 3 | 24 of 2023 | 24 Oct 2023 | 21 Dec 2023 (see s. 2(b) and SL. 2023/203 cl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Personal Property Securities (Commonwealth Laws) Act 2011 s. 8(2) and (3) | 41 of 2011 | 4 Oct 2011 | s. 8(2) and (3): to be proclaimed (see s. 2(1)(d) and 2(2))
-Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 3 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -92,11 +92,11 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pts. 3 Div. 20
 Courts Legislation Amendment Act 2018 Pt. 4 | 29 of 2018 | 2 Nov 2018 | 3 Nov 2018 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Criminal Appeals Amendment Act 2022 Pt. 3 Div. 4 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 7 | 24 of 2023 | 24 Oct 2023 | 21 Dec 2023 (see s. 2(b) and SL 2023/203 cl. (2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 7 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
