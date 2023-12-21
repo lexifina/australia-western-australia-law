@@ -66,4 +66,24 @@ s. 67AB | Failing to provide a sample of oral fluid or allow taking of a blood s
 s. 67AC | Failure to comply with drug test requirement for certain persons with any blood alcohol content
 s. 67AD | Failure to comply with drug test requirement for persons with blood alcohol content of or above 0.05g/100ml
 s. 67A | Failure to comply with other requirements made under s. 66 to 66E
-[Schedule 1 amended: No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4); No. 25 of 2016 s. 21(2); No. 51 of 2016 s. 56; No. 27 of 2020 s. 52.]
+4.Western Australian Marine Act 1982
+s. 75BD(1) | Reckless navigation of vessel
+s. 75BE(1) | Dangerous navigation of vessel
+s. 75BF | Careless navigation of vessel
+s. 75C(1) | Navigation or attempted operation of vessel while under influence of alcohol or drugs
+s. 75CA(1) | Navigation or attempted operation of vessel while under influence of alcohol and drugs
+s. 75CD(1) | Navigation or attempted operation of vessel while impaired by drug
+s. 75D(1) | Navigation or attempted operation of vessel while BAC is 0.05 or above
+s. 75DA(1) | Navigation or attempted operation of vessel while BAC is 0.08 or above
+s. 75DB(1) | Navigation of vessel while prescribed illicit drug present in body
+s. 75DC(1) | Navigation of vessel while BAC is 0.05 or above and prescribed illicit drug is present in body
+s. 75DD(1) | Navigation of vessel while BAC is 0.08 or above and prescribed illicit drug is present in body
+s. 75H(1) | Failure to comply with requirement relating to preliminary breath test, preliminary oral fluid test or boarding or moving vessel
+s. 75HB(1) | Failure to comply with requirement relating to breath analysis, blood sample or stop vessel or navigate to specified place
+s. 75HC(1) | Failure to comply with requirement relating to incident occasioning death, grievous bodily harm or bodily harm
+s. 75HD(1) | Failure to comply with requirement relating to oral fluid sample for drug testing or blood sample for analysis
+s. 75HE(1) | Failure to comply with requirements relating to assessment of drug impairment
+s. 75HG(1) | Failure to comply with drug testing requirement when BAC of 0.05 or above
+s. 75HH(1) | Failure to comply with drug testing requirement when BAC of 0.08 or above
+s. 75HI(1) | Failure to comply with drug testing requirement when BAC of 0.15 or above
+[Schedule 1 amended: No. 82 of 1994 s. 13(6); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 44; No. 62 of 2004 s. 9(4); No. 6 of 2007 s. 23; No. 39 of 2007 s. 42; No. 29 of 2008 s. 41(4); No. 25 of 2016 s. 21(2); No. 51 of 2016 s. 56; No. 27 of 2020 s. 52; No. 31 of 2023 s. 39(2).]

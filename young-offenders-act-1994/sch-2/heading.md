@@ -56,4 +56,13 @@ s. 54 | Driver in incident occasioning bodily harm to stop, ensure assistance an
 s. 59 | Dangerous driving causing death or grievous bodily harm
 s. 59A | Dangerous driving causing bodily harm
 s. 59BA(1) | Careless driving causing death, grievous bodily harm or bodily harm
-[Schedule 2 amended: No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5); No. 49 of 2012 s. 182; No. 25 of 2016 s. 21(3) and 29.]
+4.Western Australian Marine Act 1982
+s. 64A(2) | Failure of master to comply with render assistance duties in relation to marine incident occasioning death, grievous bodily harm or bodily harm
+s. 75B(1) | Navigation of vessel occasioning death while under influence of alcohol, a drug or alcohol and a drug
+s. 75B(2) | Dangerous navigation of vessel occasioning death
+s. 75BA(1) | Navigation of vessel occasioning grievous bodily harm while under influence of alcohol, a drug or alcohol and a drug
+s. 75BA(2) | Dangerous navigation of vessel occasioning grievous bodily harm
+s. 75BB(1) | Navigation of vessel occasioning bodily harm while under influence of alcohol, a drug or alcohol and a drug
+s. 75BB(3) | Dangerous navigation of vessel occasioning bodily harm
+s. 75BC(1) | Careless navigation of vessel occasioning death, grievous bodily harm or bodily harm
+[Schedule 2 amended: No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5); No. 49 of 2012 s. 182; No. 25 of 2016 s. 21(3) and 29; No. 31 of 2023 s. 39(3).]

@@ -25,13 +25,13 @@ Historical Homosexual Convictions Expungement Act 2018 Pt. 5 | 20 of 2018 | 18 S
 Criminal Law Amendment (Intimate Images) Act 2019Pt. 4 | 4 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041)
 National Disability Insurance Scheme (Worker Screening) Act 2020 Pt. 7 Div. 2 | 48 of 2020 | 9 Dec 2020 | 1 Feb 2021 (see s. 2(1)(b) and SL 2021/4 cl. 2)
 Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 2 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
+Western Australian Marine Amendment Act 2023 s. 38 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 28 and s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
-Western Australian Marine Amendment Act 2023 s. 38 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 28 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Other notes
 1.Now known as the Working with Children (Screening) Act 2004; short title changed (see note under s. 1).
 Defined terms

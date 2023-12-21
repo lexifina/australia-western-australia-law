@@ -54,6 +54,14 @@ Item | Provision | Description of offence
 ## Subdivision 5 — Offence under the Road Traffic Act 1974
 Item | Provision | Description of offence
 1. | s. 59 | Dangerous driving causing death or grievous bodily harm
+## Subdivision 6 — Offences under Western Australian Marine Act 1982
+[Heading inserted: No. 31 of 2023 s. 35(2).]
+Item | Provision | Description of offence
+1. | s. 75B(1) | Navigation of vessel occasioning death while under influence of alcohol, a drug or alcohol and a drug
+2. | s. 75B(2) | Dangerous navigation of vessel occasioning death
+3. | s. 75BA(1) | Navigation of vessel occasioning grievous bodily harm while under influence of alcohol, a drug or alcohol and a drug
+4. | s. 75BA(2) | Dangerous navigation of vessel occasioning grievous bodily harm
+[Division 1 amended: No. 31 of 2023 s. 35(2).]
 ## Division 2 — Offences that are serious offences if committed in specified circumstances
 ## Subdivision 1 — Offence under The Criminal Code
 Item | Provision | Description | Circumstances in which a serious offence

@@ -14,8 +14,8 @@ s. 221BD(2) | Distribution of intimate image | The image is of a child
 s. 279 | Murder | The victim is a person other than a child
 s. 280 | Manslaughter
 s. 281 | Unlawful assault causing death
-s. 284(3)(c) | Culpable driving (not of motor vehicle) causing death
-s. 284(3)(d) | Culpable driving (not of motor vehicle) causing grievous bodily harm
+s. 284(3)(c) | Culpable driving (not of motor vehicle or vessel) causing death
+s. 284(3)(d) | Culpable driving (not of motor vehicle or vessel) causing grievous bodily harm
 s. 288 | Procuring, counselling or aiding another to commit suicide
 s. 290 | Preventing birth of live child
 s. 292 | Disabling in order to commit indictable offence
@@ -61,4 +61,7 @@ repealed s. 19B(2) | Selling, or offering to sell, ice pipe to child
 Road Traffic Act 1974
 s. 59 | Dangerous driving causing death
 s. 59 | Dangerous driving causing grievous bodily harm
-[Schedule 2 inserted: No. 47 of 2022 s. 45.]
+Western Australian Marine Act 1982
+s. 75B(1) and (2) | Dangerous navigation of vessel occasioning death
+s. 75BA(1) and (2) | Dangerous navigation of vessel occasioning grievous bodily harm
+[Schedule 2 inserted: No. 47 of 2022 s. 45; amended: No. 31 of 2023 s. 38(2) and (3).]

@@ -14,8 +14,8 @@ s. 262 | Failing to provide necessaries of life in breach of duty | The victim i
 s. 263 | Duty of head of family
 s. 280 | Manslaughter
 s. 281 | Unlawful assault causing death
-s. 284(3)(c) | Culpable driving (not of motor vehicle) causing death | The offence causes death but without intent to cause death
-s. 284(3)(d) | Culpable driving (not of a motor vehicle) causing grievous bodily harm | The offence causes grievous bodily harm but without intent to cause harm to a child or a vulnerable person
+s. 284(3)(c) | Culpable driving (not of motor vehicle or vessel) causing death | The offence causes death but without intent to cause death
+s. 284(3)(d) | Culpable driving (not of a motor vehicle or vessel) causing grievous bodily harm | The offence causes grievous bodily harm but without intent to cause harm to a child or a vulnerable person
 s. 288 | Procuring, counselling or aiding another to commit suicide
 s. 290 | Preventing birth of live child
 s. 292 | Disabling in order to commit indictable offence
@@ -72,3 +72,9 @@ s. 17 | Sale or supply of category 2 item | The sale or supply was to a child or
 Road Traffic Act 1974
 s. 59 | Dangerous driving causing death | The offence causes death but without intent to do so
 s. 59 | Dangerous driving causing grievous bodily harm | The offence causes grievous bodily harm but without intent to cause grievous bodily harm to a child or a vulnerable person
+Western Australian Marine Act 1982
+s. 75B(1) | Navigation of vessel occasioning death while under influence of alcohol, a drug or alcohol and a drug | The offence causes death but without intent to do so
+s. 75B(2) | Dangerous navigation of vessel occasioning death | The offence causes death but without intent to do so
+s. 75BA(1) | Navigation of vessel occasioning grievous bodily harm while under influence of alcohol, a drug or alcohol and a drug | The offence causes grievous bodily harm but without intent to cause grievous bodily harm to a child or a vulnerable person
+s. 75BA(2) | Dangerous navigation of vessel occasioning grievous bodily harm | The offence causes grievous bodily harm but without intent to cause grievous bodily harm to a child or a vulnerable person
+[Schedule 2 amended: No. 31 of 2023 s. 36(4) and (5).]
