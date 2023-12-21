@@ -67,6 +67,7 @@ State Superannuation Amendment Regulations (No 2) 2021 | SL 2021/132 16 Jul 2021
 State Superannuation Amendment Regulations (No. 3) 2021 | SL 2021/181 5 Nov 2021 | r. 1 and 2: 5 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2021 (see r. 2(b))
 State Superannuation Amendment Regulations 2022 | SL 2022/4 18 Jan 2022 | r. 1 and 2: 18 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/77 cl. 2)
 State Superannuation Amendment Regulations (No. 2) 2022 Pt. 2 | SL 2022/173 21 Oct 2022 | 22 Oct 2022 (see r. 2(b))
+State Superannuation Amendment Regulations (No. 2) 2023 | SL 2023/205 20 Dec 2023 | r. 1 and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b)
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
@@ -108,7 +109,6 @@ assessment notice49A(6), 81A(6)
 Australian Financial Complaints Authority3(1)
 average contribution rate12, 13(1)
 average Part 6 contribution rateSch. 2 cl. 17
-benefit47(5)
 binding death benefit nomination48(1A), 80(1A), 121(1A), 194(3), 196U(3), 219(1A)
 casual worker12
 charge percentage3(1)
@@ -139,7 +139,7 @@ covered risk benefits Member69G
 covert allowance12
 CPI rate3(1)
 currentSch. 3 cl. 1(1)
-death benefit48(1), 80(1), 121(1), 194(2), 196U(2), 219(1)
+death benefit48(1), 49B(1), 80(1), 81B(1), 121(1), 126A(1), 194(2), 196AE(1), 196U(2), 219(1), 219AE(1)
 default plan69A, 105, 183, 196J, 211
 deferred contributions option35(2)
 dependant3(1)
@@ -150,6 +150,7 @@ Division 1 Employer3(1)
 Division 2 Employer3(1)
 document251(5)
 DPPSch. 2 cl. 10
+earlier determination47A(5A), 79A(6), 123(5A)
 earning rate3(1)
 earnings76A, 79AA(4), 117, 122(7)
 eligible Gold State worker12, 15(1)
@@ -227,6 +228,7 @@ post-1987 part-time transfereeSch. 2 cl. 1(1)
 prescribed scheme3(1)
 preservation age3(1)
 preserved3(1)
+pre-set minimum3(1), 246D(2)
 previous lawSch. 2 cl. 7
 primary Member195, 196V(1)
 protected amount50(1)
@@ -243,7 +245,7 @@ regulated superannuation fund3(1)
 release authority3(1)
 relevant amount96(4)
 relevant MemberSch. 3 cl. 29(3)
-relevant regulationsSch. 2 cl. 13, Sch. 2 cl. 15
+relevant regulationsSch. 2 cl. 13, 15
 remuneration17A(1)
 reporting period220
 resignation daySch. 3 cl. 29(3)
@@ -303,7 +305,7 @@ transferred contributor for limited benefitsSch. 2 cl. 5(1)
 transferred serviceSch. 2 cl. 1(1)
 unclaimed money3(1)
 UnionsWA225
-UniversitySch. 2 cl. 6(2), Sch. 2 cl. 15
+UniversitySch. 2 cl. 6(2), 15
 University staff memberSch. 2 cl. 15
 unpaid leave12
 unrecognised unpaid leave12
@@ -320,3 +322,7 @@ West State Super Scheme3(1)
 withheld amount49A(6), 81A(6)
 worker3(1)
 WSS withdrawal benefit50(1), Sch. 3 cl. 2
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
