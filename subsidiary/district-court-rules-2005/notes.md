@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the District Court Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the District Court Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 District Court Rules 2005 | 27 May 2005 p. 2335-92 | 30 May 2005 (see r. 2)
@@ -21,6 +21,10 @@ District Court Amendment Rules (No. 2) 2019 | 31 Dec 2019 p 4675-6 | r. 1 and 2:
 District Court Amendment Rules 2020 | SL 2020/18 24 Mar 2020 | r. 1 and 2: 24 Mar 2020 (see r. 2(a)); Rules other than r. 1 and 2: 25 Mar 2020 (see r. 2(b))
 District Court Amendment Rules 2021 | SL 2021/208 10 Dec 2021 | r. 1 and 2: 10 Dec 2021 (see r. 2(a)); Rules other than r. 1 and 2: 11 Dec 2021 (see r. 2(b))
 District Court Amendment Rules 2022 | SL 2022/108 24 Jun 2022 | r. 1 and 2: 24 Jun 2022 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+District Court Amendment Rules 2023 r. 3-21 | SL 2023/209 21 Dec 2023 | 15 Jan 2024 (see r. 2(b))
 Other notes
 Repealed by r. 72 which has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Defined terms
@@ -81,3 +85,7 @@ video link3
 WCIMASch. 1 cl. 8A
 WCIMA appeal49
 working day3
+© State of Western Australia 2023.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2023.
+By Authority: GEOFF O. LAWN, Government Printer
