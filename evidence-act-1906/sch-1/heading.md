@@ -87,7 +87,23 @@ s. 59A | Dangerous driving causing bodily harm
 s. 60 | Reckless driving
 s. 61 | Dangerous driving
 [Part 2 inserted: No. 48 of 1991 s. 10.]
-[Part 3 deleted: No. 70 of 2004 s. 82.]
+## Part 3 — Offences under the Western Australian Marine Act 1982
+[Heading inserted: No. 31 of 2023 s. 34(2).]
+Provision | Description of offence
+s. 64A(2) | Failure of master to comply with render assistance duties in relation to marine incident occasioning death, grievous bodily harm or bodily harm
+s. 64A(3) | Failure of master to comply with duties in relation to marine incident
+s. 64B(3A) | Failure of master or owner to give report in relation to certain marine incidents occasioning death, grievous bodily harm or bodily harm
+s. 64B(3C) | Failure of master or owner to give report in relation to certain marine incidents
+s. 64D(4) | Failure of responsible person to give information in relation to marine incident
+s. 75B(1) | Navigation of vessel occasioning death while under influence of alcohol, a drug or alcohol and a drug
+s. 75B(2) | Dangerous navigation of vessel occasioning death
+s. 75BA(1) | Navigation of vessel occasioning grievous bodily harm while under influence of alcohol, a drug or alcohol and a drug
+s. 75BA(2) | Dangerous navigation of vessel occasioning grievous bodily harm
+s. 75BB(1) | Navigation of vessel occasioning bodily harm while under influence of alcohol, a drug or alcohol and a drug
+s. 75BB(3) | Dangerous navigation of vessel occasioning bodily harm
+s. 75BD(1) | Reckless navigation of vessel
+s. 75BD(2) | Reckless navigation of vessel in circumstance of aggravation
+[Part 3 inserted: No. 31 of 2023 s. 34(2).]
 ## Part 4 — Offences under the Children and Community Services Act 2004
 [Heading inserted: No. 34 of 2004 s. 251.]
 Provision | Description of offence

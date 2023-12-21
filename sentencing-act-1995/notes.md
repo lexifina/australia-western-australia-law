@@ -92,6 +92,7 @@ Firearms Amendment Act 2022 s. 85 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see 
 Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 4 | 44 of 2022 | 1 Dec 2022 | 24 Dec 2022 (see s. 2(b) and SL 2022/216 cl. 2)
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 33 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 6 | 24 of 2023 | 24 Oct 2023 | 16 Dec 2023 (see s. 2(b) and SL 2023/190 cl. 2)
+Western Australian Marine Amendment Act 2023 s. 37 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -99,7 +100,6 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127
  | Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
  | Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
  | Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 16 | 21 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(d))
- | Western Australian Marine Amendment Act 2023 s. 37 | 31 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 4 Subdivision 1 modifies sections 14, 14B and 34 of the Act. The modified sections are identified by the superscript 2M appearing after the section numbers. The modification ceases on 31 December 2021 unless postponed under sections 46(3) and 52 of that Act.
@@ -269,7 +269,7 @@ explosive4(1)
 family relationship97A(1)
 family victim23A
 family violence offence4(1)
-fine56(1)
+fine57(1)
 firearm106(5), 124D
 firearms offence106(5)
 fixed term9AA(1), 85(1)
@@ -283,7 +283,6 @@ ISO4(2)
 joint offenders55(3)
 mandatory minimum sentence85(1)
 marine offence107(5)
-marine qualification107(5)
 member of the primary victim’s immediate family23A
 motor vehicle105(5)
 motor vehicle offence105(5)
@@ -334,6 +333,7 @@ vessel107(5)
 victim9AA(1), 13, 23A, 97A(1), 116, 120(1)
 victim impact statement23A
 video link14A(4)
+WA marine qualification107(5)
 WDO57A(4)
 written reasons4(1), 80(5A)
 © State of Western Australia 2023.

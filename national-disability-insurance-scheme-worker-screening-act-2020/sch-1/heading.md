@@ -15,8 +15,8 @@ s. 219 | Distributing child exploitation material | The offence does not fall wi
 s. 220 | Possession of child exploitation material | The offence does not fall within the ambit of section 6(4)
 s. 279 | Murder
 s. 283 | Attempt to unlawfully kill
-s. 284(3)(c) | Culpable driving (not of a motor vehicle) causing death | The offence is committed with intent to cause death
-s. 284(3)(d) | Culpable driving (not of a motor vehicle) causing grievous bodily harm | The offence is committed with intent to cause grievous bodily harm to a child or a vulnerable person
+s. 284(3)(c) | Culpable driving (not of a motor vehicle or vessel) causing death | The offence is committed with intent to cause death
+s. 284(3)(d) | Culpable driving (not of a motor vehicle or vessel) causing grievous bodily harm | The offence is committed with intent to cause grievous bodily harm to a child or a vulnerable person
 s. 293 | Stupefying in order to commit indictable offence | The victim is a child or a vulnerable person
 s. 294 | Act intended to cause grievous bodily harm or prevent arrest | The victim is a child or a vulnerable person
 s. 305 | Setting dangerous thing | The intended victim is a child or a vulnerable person
@@ -60,3 +60,9 @@ s. 18 | Agreement for prostitution of a child
 Road Traffic Act 1974
 s. 59 | Dangerous driving causing death | The offence is committed with intent to cause death
 s. 59 | Dangerous driving causing grievous bodily harm | The offence is committed with intent to cause grievous bodily harm to a child or a vulnerable person
+Western Australian Marine Act 1982
+s. 75B(1) | Navigation of vessel occasioning death while under influence of alcohol, a drug or alcohol and a drug | The offence is committed with intent to cause death
+s. 75B(2) | Dangerous navigation of vessel occasioning death | The offence is committed with intent to cause death
+s. 75BA(1) | Navigation of vessel occasioning grievous bodily harm while under influence of alcohol, a drug or alcohol and a drug | The offence is committed with intent to cause grievous bodily harm to a child or a vulnerable person
+s. 75BA(2) | Dangerous navigation of vessel occasioning grievous bodily harm | The offence is committed with intent to cause grievous bodily harm to a child or a vulnerable person
+[Schedule 1 amended: No. 31 of 2023 s. 36(2) and (3).]
