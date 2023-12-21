@@ -53,6 +53,7 @@ Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 6 | SL 20
 Commerce Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt. 3 | SL 2021/130 16 Jul 2021 | 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 6 | SL 2022/115 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Residential Tenancies Amendment Regulations 2023 | SL 2023/126 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
+Residential Tenancies Amendment Regulations (No. 2) 2023 | SL 2023/206 20 Dec 2023 | r. 1 and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b))
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
@@ -74,7 +75,6 @@ Housing Authority3A
 housing management agreement3A
 person of Aboriginal descent5AD(1)
 premises5AD(2)
-Register of Heritage Places7A(1)
 relevant bank accepted bills rate14(1)
 retirement village3(2)
 rural land7A(1)
