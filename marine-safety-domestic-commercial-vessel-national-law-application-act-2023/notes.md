@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 1-8 and Pt. 10 (other than Div. 1-5 and 7-10) | 24 of 2023 | 24 Oct 2023 | Pt. 1: 24 Oct 2023 (see s. 2(a)); Pt. 2-8 and Pt. 10 (other than Div. 1-5 and 7-10): 16 Dec 2023 (see s. 2(b) and SL 2023/190 cl. 2)
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 1-8, Pt. 9 (other than s. 39(1), 44, 46, 54, 56, 69, 70, 72-74, 76, 78-80, 85, 86, 90 and 95) and Pt. 10 | 24 of 2023 | 24 Oct 2023 | Pt. 1: 24 Oct 2023 (see s. 2(a)); Pt. 2-8 and Pt. 10 (other than Div. 1-5 and 7-10): 16 Dec 2023 (see s. 2(b) and SL 2023/190 cl. 2); Pt. 9 (s. 36-38, 39(2)-(7), 40-43, 45, 47-53, 55, 57-68, 71, 75, 77, 81-84, 87-89, 91-94 and 96-100) and Pt. 10 Div. 1-5 and 7-10: 21 Dec 2023 (see s. 2(b) and SL 2023/203 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 9 and Pt. 10 Div. 1-5 and 7-10 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
+Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 s. 39(1), 44, 46, 54, 56, 69, 70, 72-74, 76, 78-80, 85, 86, 90 and 95 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
