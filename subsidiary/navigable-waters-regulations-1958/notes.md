@@ -154,6 +154,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2
 Navigable Waters Amendment Regulations 2022 | SL 2022/137 29 Jul 2022 | r. 1 and 2: 29 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2023 Pt. 2 | SL 2023/135 9 Aug 2023 | 1 Sep 2023 (see r. 2(b))
+Navigable Waters Amendment Regulations 2023 | SL 2023/204 20 Dec 2023 | r. 1and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b))
 Other notes
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
