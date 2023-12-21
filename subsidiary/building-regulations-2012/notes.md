@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -45,8 +45,12 @@ Commerce Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt
 Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/26 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Building Amendment Regulations (No. 2) 2022 | SL 2022/162 23 Sep 2022 | r. 1 and 2: 23 Sep 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2023 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2023 | SL 2023/146 20 Sep 2023 | r. 1 and 2: 20 Sep 2023 (see r. 2(a)); r. 4(1): 21 Sep 2023 (see r. 2(b)); Regulations other than r. 1, 2 and 4(1): 1 Oct 2023 (see r. 2(c))
+Building Amendment Regulations 2023 (other than Pt. 3) | SL 2023/208 20 Dec 2023 | Pt. 1: 20 Dec 2023 (see r. 2(a)); Pt. 2: 21 Dec 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Building Amendment Regulations 2023 Pt. 3 | SL 2023/208 20 Dec 2023 | 20 Jun 2024 (see r. 2(c))
 Other notes
-The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -63,6 +67,7 @@ approved door48
 architectural feature44A
 AS3
 AS 1926.148
+AS 1926.1-20123
 AS 39593
 assessment method3
 builder work3
@@ -115,6 +120,7 @@ pre-May 2016 private swimming pool 3
 prior owner57(1)
 private swimming pool3
 public place44A
+regulation 5A54(1)
 relevant building31BA(1A), 31D
 relevant building standards48A(1)
 relevant componentsSch. 1 cl. 1
@@ -123,19 +129,19 @@ relevant edition of the Building Code3
 remedial work31HA(1)
 renovation, alteration, extension, improvement or repair31BA(1A)
 repeal day54(1)
-repealed provisions54(1)
 residential tenancy agreement55(1)
 road10(1A), 44A
 safety measures48A(1)
 section3
 sole-occupancy unit3
 specified employee70(1A)
+specified Part 8 provisions4A(1)
 Statistician14A(1)
 strata leasehold estate10(1A)
 Swan Valley Planning Scheme3
 swimming pool3
 Table41(2)
-townsite3
+townsite2
 transfer day55(1)
 transitional bush fire application31
 unit55(1)
