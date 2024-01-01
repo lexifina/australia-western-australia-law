@@ -74,15 +74,15 @@ Swan Valley Planning Act 2020 Pt. 10 Div. 7 | 45 of 2020 | 9 Dec 2020 | 1 Aug 20
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 s. 95 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 6 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 3 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
-Local Government Amendment Act 2023 Pt. 2 (other than s. 17, 22, 23, 29, 30, 31(1), 32, 40(3), 41, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 79(2), 80, 81 and 83-85) | 11 of 2023 | 18 May 2023 | s. 3, 60, 86, 87 and 99: 19 May 2023 (see s. 2(b)); s. 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24 and 89: 21 Jun 2023 (see s. 2(d) and SL 2023/77 cl. 2); s. 4, 5(1) and (3), 6, 12, 18, 19(4), 20, 21, 25 to 28, 31(2) and (3), 33 to 39, 40(1) and (2), 42 to 54, 56, 57, 71, 76(2), 77(3), 88 and 90 to 98: 1 Jul 2023 (see s. 2(d) and SL 2023/92 cl. 2(a)); s. 58, 66, 70, 79(1) and 82: 19 Oct 2023 (see s. 2(d) and SL 2023/157 cl. 2(a))
+Local Government Amendment Act 2023 Pt. 2 (other than s. 22, 23, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85) | 11 of 2023 | 18 May 2023 | s. 3, 60, 86, 87 and 99: 19 May 2023 (see s. 2(b)); s. 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24 and 89: 21 Jun 2023 (see s. 2(d) and SL 2023/77 cl. 2); s. 4, 5(1) and (3), 6, 12, 18, 19(4), 20, 21, 25 to 28, 31(2) and (3), 33 to 39, 40(1) and (2), 42 to 54, 56, 57, 71, 76(2), 77(3), 88 and 90 to 98: 1 Jul 2023 (see s. 2(d) and SL 2023/92 cl. 2(a)); s. 58, 66, 70, 79(1) and 82: 19 Oct 2023 (see s. 2(d) and SL 2023/157 cl. 2(a)); s. 17, 29, 30, 31(1), 32, 40(3), 41, 79(2) and 80: 1 Jan 2024 (see s. 2(d), SL 2023/92 cl. 2(b) and SL 2023/157 cl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2) and 7(2) | 5 of 2017 (as amended by No. 11 of 2023 s. 103) | 1 Sep 2017 | To be proclaimed (see s. 2(1)(c))
 Local Government Legislation Amendment Act 2019 s. 39(2) | 16 of 2019 | 5 Jul 2019 | To be proclaimed (see s. 2(b))
 Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 Apr 2020 | To be proclaimed (see s. 2(b))
-Local Government Amendment Act 2023 s. 17, 22, 23, 29, 30, 31(1), 32, 40(3), 41, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 79(2), 80, 81 and 83-85 | 11 of 2023 | 18 May 2023 | s. 79(2) and 80: 1 Jan 2024 (see s. 2(d) and SL 2023/92 cl. 2(b)); s. 17, 29, 30, 31(1), 32, 40(3) and 41: 1 Jan 2024 (see s. 2(d) and SL 2023/157 cl. 2(b)); s. 23: 1 Jul 2024 (see s. 2(d) and SL 2023/92 cl. 2(c)); s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85: to be proclaimed (see s. 2(d));
-Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 10 | 21 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(d))
+Local Government Amendment Act 2023 s. 22, 23, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85 | 11 of 2023 | 18 May 2023 | s. 23: 1 Jul 2024 (see s. 2(d) and SL 2023/92 cl. 2(c)); s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85: to be proclaimed (see s. 2(d));
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 10 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 4 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
@@ -327,6 +327,7 @@ commencement day7.1, Sch. 9.3 cl. 1, 49, 56(1)
 commissioner1.4
 committee5.1
 committee meeting5.98(7)
+committee member5.100(1)
 complaints officer5.102A
 concurrent electionSch. 4.1B cl. 1(1)
 conditions5.44(5)
@@ -350,7 +351,7 @@ decision5.125(2), 9.2
 Department1.4
 Departmental CEO1.4
 designated employee5.74(1), Sch. 9.3 cl. 1
-determined5.98(1A)
+determined5.98(1A), 5.100(1)
 detriment4.85(4)
 differential general rate6.1
 dispose3.58(1), 3.59(1)
@@ -460,7 +461,7 @@ nomination place4.47(2)
 non-perishable goods3.38
 noticeSch. 2.1 cl. 1, Sch. 9.3 cl. 51(3)
 notice recipient3.26(2)
-occupier1.4
+occupier1.4, 2.19(2B)
 offence2.22(3)
 officeSch. 2.3 cl. 1, 6
 officially certified9.48(2)
@@ -530,6 +531,7 @@ relevant interest6.29(1)
 relevant officialSch. 2.1 cl. 12(1)
 relevant period4.88(4)
 relevant person5.59, 5.74(1)
+relevant rateable property4.32(3D)
 return5.74(1)
 return period5.74(1)
 reviewSch. 2.2 cl. 1
@@ -589,7 +591,7 @@ ward1.4
 WCIM Act5.49(1)
 WorkCover WA5.49(1)
 working daySch. 4.1A cl. 1
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
