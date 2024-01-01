@@ -2,7 +2,7 @@
 List of Forms
 Form | Heading | Section or regulation
 1 | Declaration by Electoral Officer | reg. 7(1)
-2 | Enrolment Eligibility Claim incorporating Notice of Nomination of co-owners or co-occupiers (if required by CEO) (front & back) | s. 4.32(2)
+[2deleted]
 3 | Notice of Acceptance of Enrolment Eligibility Claim | s. 4.32(6)
 4 | Notice of Rejection of Enrolment Eligibility Claim | s. 4.32(6)
 5 | Appeal to Electoral Commissioner Rejection of Enrolment Eligibility Claim (front & back) | s. 4.32(8)
@@ -20,12 +20,12 @@ Form | Heading | Section or regulation
 16 | Provisional Voter’s Declaration | regs. 46 and 62
 17 | Application for Absent Vote | reg. 54
 18 | Appointment of Scrutineer (Original — front and back, duplicate — front and back) | reg. 69
-[19deleted]
+19 | Results of Election | s. 4.77
 20 | Report to Minister | s. 4.79
 21 | Referendum Ballot Paper | s. 4.99
 22 | Referendum Absent Vote Ballot Paper (front & back) | s. 4.99
 23 | Results of Referendum | s. 4.99
-[List of Forms amended: Gazette 25 Jan 2001 p. 588; SL 2023/102 r. 49.]
+[List of Forms amended: Gazette 25 Jan 2001 p. 588; SL 2023/102 r. 49; SL 2023/158 r. 36.]
 Form 1. Declaration by Electoral Officer
 Local Government (Elections) Regulations 1997, reg. 7 DECLARATION BY ELECTORAL OFFICER
 Electoral Officer | Full name:
@@ -40,39 +40,7 @@ Signature: | Date:
 Notes
 Declaration | The declaration must be signed before: ·a Justice of the Peace; or ·a person authorised under the Oaths, Affidavits and Statutory Declarations Act 2005 to take statutory declarations; or ·a more senior electoral officer.
 [Form 1 amended: Gazette 3 Aug 2007 p. 4006.]
-Form 2.Enrolment Eligibility Claim incorporating Notice of Nomination of co-owners or co-occupiers (if required by CEO)
-Local Government Act 1995, s. 4.32(2) ENROLMENT ELIGIBILITY CLAIM See back for notes on when and how to complete this form
-Person making claim | Family name:
-Other names: | Date of birth:
-Postal address | No.: | Street name:
-Suburb: | Postcode:
-Phone numbers(H):(W):(M):
-Fax number:Email:
-Rateable property on which claim is based | No.: | Street name:
-Suburb: | Postcode:
-Lot/Location No.:
-Electorate | Local government district:
-Ward:
-Entitlement to be enrolled [Tick one box] | I am:ron the State or Commonwealth electoral roll in respect of a residence outside the electorate. My address shown on that rolls is: orrnot on the State or Commonwealth electoral roll but I am qualified as an elector under clause 12 of Schedule 9.3 of the Local Government Act 1995.
-Details of ownership or occupation [Tick one box] [* Delete whichever does not apply] For occupiers only [Tick one box] | In relation to the rateable property described above I am: rthe sole owner/occupier* of that property or rone of 2 co-owners/occupiers* of that property or rone of 3 or more co-owners/occupiers* of that property and I have been nominated by all or a majority of those owners/occupiers* for the purposes of being an elector or rthe nominee of a body corporate that owns/occupies* that property I (or the body corporate that nominated me): r do or r do not have a right, under a lease, tenancy agreement or other legal instrument, to be in a continuous occupation of the property for at least the next 3 months.
-Claim and Declaration [Making a false declaration is an offence] | I claim eligibility to have my name included on any owners and occupiers roll prepared for an election in the electorate. I declare that all of the details set out above are true and correct.
-Signature: | Date:
-Local Government Act 1995, s. 4.31(2) NOTICE OF NOMINATION OF CO-OWNERS OR CO-OCCUPIERS
-Signature: | Date:
-Note : if under regulation 11(1a) of the Local Government (Elections) Regulations 1997 the CEO requires the written notice of a nomination under section 4.31(1E), (1F) or (1G) of the Act to be incorporated into Form 2, the notice is to be inserted at this part of Form 2 in such form as the CEO requires and signed in accordance with regulation 11(2) of those regulations.
-Back of Form 2
-1When to use this form | You may make a claim for eligibility using this form at any time. However if you want to be on the roll for a particular election you must give your claim form to the local government more than 50 days before the election date.
-2Who should use this form | You should fill in this form if you: ·own or occupy rateable property in a district or ward but are not on the residents roll in that district or ward; or ·qualify under clause 12 of Schedule 9.3 to the Local Government Act 1995, and want to be able to vote at local government elections for that district.
-3Who is an occupier | To qualify as an occupier you must have a right, under a lease, tenancy agreement or other legal instrument, to be in continuous occupation of the property for at least the next 3 months. When the Chief Executive Officer of the local government is considering your claim, he or she may ask you for a copy of your lease or tenancy agreement to support your claim. You do not need to provide a copy unless asked.
-4Silent address | If having your address on the register or on the roll would put your safety, or that of your family, at risk you may ask the Chief Executive Officer not to show your address on the register or on the roll. To do this you must give to the Chief Executive Officer a statutory declaration setting out the reasons why you do not want your address shown on the register or on the roll.
-5Rateable property | If you own or occupy more than one property in the electorate, give details of them all. Add additional pages if necessary.
-6Which ward | If the property in respect of which this claim is made is partly in one ward and partly in another you may choose which of those wards you want your claim to apply to. If you leave this box blank the Chief Executive Officer of the local government will decide which ward the claim is to apply to. In this form the ward, or if no ward is applicable the district, is referred to as “the electorate”.
-7Qualification under clause 12 | To qualify under clause 12 of Schedule 9.3 to the Local Government Act 1995 you must: ·own or occupy rateable property in the electorate; and ·have been on the last electoral roll prepared under the Local Government Act 1960 for that electorate; and ·have owned or occupied rateable property in the electorate continuously since that roll was prepared.
-8Nominations | A nomination must be made in writing and be signed by all or a majority of the owners or occupiers of the property (or if the owner or occupier is a body corporate, be signed by an officer of the body corporate) in accordance with the Local Government (Elections) Regulations 1997. If you are a nominee you must give the nomination to the local government with this form unless the CEO requires the written notice of the nomination to be incorporated into this form. If a body corporate or group of people owns or occupies more than one property in a district, a nomination applies to all of those properties.
-Duration of enrolment of occupiers | If you are an occupier and your enrolment eligibility claim is accepted it will expire in accordance with section 4.33 of the Local Government Act 1995 (this will usually be 6 months after the holding of the second ordinary election after your claim was accepted). If you wish to continue to qualify as an elector after that, you will need to make another enrolment eligibility claim.
-Confidentiality | Your date of birth, phone and fax numbers and email address supplied in this form will be kept confidential and will be used only by the local government and the Western Australian Electoral Commission for the purpose of preparing local government electoral rolls.
-Where to send your form | When you have completed and signed this form, send it to the Chief Executive Officer of your local government. You may send it by post, by fax or by other electronic means so long as it is capable of being printed in its entirety, including a signature. If you send it by fax or electronically you should check that it has been received.
-[Form 2 amended: Gazette 25 Jan 2001 p. 588-9; 21 Jan 2005 p. 268; 18 Mar 2005 p. 976; 21 Dec 2012 p. 6643.]
+[Form 2 deleted: SL 2023/158 r. 37.]
 Form 3.Notice of Acceptance of Enrolment Eligibility Claim
 Local Government Act 1995, s. 4.32(6) NOTICE OF ACCEPTANCE OF ENROLMENT ELIGIBILITY CLAIM
 Claimant | Name:
@@ -480,7 +448,91 @@ What you may do | As a scrutineer you may: ·attend at a polling place mentioned
 What you must do | As a scrutineer you must: ·wear identification of your appointment as a scrutineer; and ·have your copy of the Appointment of Scrutineer form with you at all times and produce it when requested to do so by the Presiding Officer at a polling place; and ·comply with all directions given by the Returning Officer and all reasonable requests made by any other electoral officer.
 What you must not do | As a scrutineer you must not: ·enter a polling place if another scrutineer appointed by the same candidate is already there (unless one of you is just to cast your vote); ·take part in the conduct of the election; ·while in or within 6 metres of a polling place: ·canvass for votes; ·solicit the vote of an elector; ·induce an elector to vote for a particular candidate; ·induce an elector not to vote at the election; ·record the name of a person who attends a polling place to vote or record any information given by a person to an electoral officer in order to receive a ballot paper.
 [Form 18 amended: Gazette 22 Dec 1998 p. 6878; 25 Jan 2001 p. 590-1; 21 Jan 2005 p. 268; 3 Aug 2007 p. 4002 and 4006; 28 Aug 2009 p. 3368.]
-[Form 19 deleted: SL 2023/102 r. 57.]
+Form 19.Results of Election
+Local Government Act 1995, s. 4.77
+RESULTS OF ELECTION FOR _______________
+Date of election: __________
+MAYOR / PRESIDENT
+Absolute majority: _____
+Candidate | First-preference votes | Votes at last count
+Name of first candidate to backfill: _______________
+Name of second candidate to backfill: _______________
+_______________ is elected as the Mayor / President of _______________ until __________. A document detailing the distribution of preference votes is available on the official website of the local government.
+___________________ WARD
+Absolute majority / Quota: _____
+Candidate | First-preference votes | Votes at last count
+Name of first candidate to backfill: _______________
+Name of second candidate to backfill: _______________
+The following people are elected as councillors for the ____________ Ward. Each councillor will hold office until the date set out next to the councillor’s name. A document detailing the distribution of preference votes is available on the official website of the local government.
+Name | Expiry of term
+FILLING OFFICE OF COUNCILLOR WHO IS ELECTED MAYOR / PRESIDENT
+__________________ is elected as the Mayor / President and is a councillor on the council whose office becomes vacant under section 2.32(f) of the Act. ________________________ is elected as a councillor of the ____________ Ward until __________ in accordance with Schedule 4.1B of the Act.
+Returning Officer | Full name:
+Signature: | Date:
+Notes to Form 19
+Notes to Returning Officer when preparing results
+1District
+Insert the name of the local government district.
+2Date of election
+Insert the date of the election.
+3Mayor or President
+Delete “Mayor” or “President” as appropriate.
+Delete the box if the election did not include the election of the Mayor or President.
+4Absolute majority
+(1)Include the absolute majority to elect the successful candidate.
+(2)The absolute majority will be, as the case requires:
+(a)the number of first-preference votes that the successful candidate required in order to exceed 50% of the total number of first-preference votes for all candidates (Schedule 4.1 clauses 2(1) and 4(2) of the Act); or
+(b)the number of votes that the successful candidate required in order to exceed 50% of the total number of votes for all candidates on the last count (Schedule 4.1 clause 5(3) of the Act).
+5Candidate
+List the name of each candidate.
+6First-preference votes
+Insert the number of first-preference votes for each candidate.
+If a person was elected unopposed under section 4.55 or 4.57(2) of the Act, insert “elected unopposed” in this column.
+If a person was appointed by the council of the local government under section 4.57(3) of the Act, insert “appointed by council” in this column.
+7Votes at last count
+(1)Delete this column if:
+(a)it is an election of two or more councillors (not a one office election); or
+(b)an absolute majority was reached in the count of the first-preference votes; or
+(c)a person was elected unopposed under section 4.55 or 4.57(2) of the Act; or
+(d)a person was appointed by the council of the local government under section 4.57(3) of the Act.
+(2)For a candidate who was in the last count – insert the number of votes that the candidate had on the last count.
+(3)For a candidate who was excluded prior to the last count — insert the word “excluded”.
+8Backfilling
+(1)The “first candidate to backfill” is referred to as the following in the Act:
+(a)unsuccessful candidate (see the definition at Schedule 4.1A clause 4(1) of the Act) – for a one office election with two candidates ascertained under Schedule 4.1 clause 2 of the Act;
+(b)second placed candidate (see the definitions at Schedule 4.1A clauses 5(2) and 8(2) of the Act) – for a one office election with three or more candidates ascertained under Schedule 4.1 clause 4 or 5 of the Act (see also the requirement at Schedule 4.1A clause 19(1) and (2) of the Act);
+(c)first unelected candidate (see the definition at Schedule 4.1A clause 11(2) of the Act) – for an election of two or more councillors ascertained under Schedule 4.1 Division 3 of the Act (see also the requirement at Schedule 4.1A clause 19(3) of the Act).
+(2)The “second candidate to backfill” is referred to as the following in the Act:
+(a)third placed candidate (see the definitions at Schedule 4.1A clauses 5(2) and 8(2) of the Act) – for a one office election with three or more candidates ascertained under Schedule 4.1 clause 4 or 5 of the Act (see also the requirement at Schedule 4.1A clause 19(1) and (2) of the Act);
+(b)second unelected candidate (see the definition at Schedule 4.1A clause 11(2) of the Act) – for an election of two or more councillors ascertained under Schedule 4.1 Division 3 of the Act (see also the requirement at Schedule 4.1A clause 19(3) of the Act).
+(3)Insert the relevant candidate’s name, or if there is no relevant candidate, insert “no candidate”.
+9Name of Mayor or President
+Insert the name of the person who is elected as Mayor or President.
+10Expiry of term
+Insert the relevant election day on which the term of office expires.
+11Ward
+Repeat this box for each ward in the district in which there was an election and insert the name of the ward.
+If there were no councillor elections, delete this box.
+If the district is not divided into wards and councillors were elected for the district, change the title of this box to “Councillors” and delete the word “Ward”.
+12Absolute majority or quota
+(1)Delete “Absolute majority” or “Quota” as appropriate.
+(2)For one office elections, include the absolute majority to elect the successful candidate.
+(3)The absolute majority will be, as the case requires:
+(a)the number of first-preference votes that the successful candidate required in order to exceed 50% of the total number of first-preference votes for all candidates (Schedule 4.1 clauses 2(1) and 4(2) of the Act); or
+(b)the number of votes that the successful candidate required in order to exceed 50% of the total number of votes for all candidates on the last count (Schedule 4.1 clause 5(3) of the Act).
+(4)For elections of two or more councillors, include the quota as determined under Schedule 4.1 clause 8 of the Act.
+13Name of ward
+Insert the name of the relevant ward of the district.
+If the district is not divided into wards, insert the word “District” and delete the word “Ward”.
+14Distribution of preference votes
+See the requirement at regulation 80(9A) of the Local Government (Elections) Regulations 1997.
+Delete the sentence if not applicable.
+15Names of councillors
+Insert the names of the councillors in the order in which the councillors were elected, starting with the councillor who was elected first.
+16Filling office of councillor who is elected Mayor or President
+Insert the name of the candidate who is elected to the former member’s vacant office in accordance with Schedule 4.1B of the Act.
+Delete the box if not applicable.
+[Form 19 inserted: SL 2023/158 r. 38.]
 Form 20.Report to Minister
 REPORT TO MINISTER Local Government Act 1995, s. 4.79(2) Local Government (Elections) Regulations 1997, r. 81
 Part 1 — General information
