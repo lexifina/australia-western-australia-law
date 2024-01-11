@@ -53,6 +53,7 @@ Vocational Education and Training (Colleges) Amendment Regulations 2021 | SL 202
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2021 | SL 2021/168 24 Sep 2021 | r. 1 and 2: 24 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2021 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2022 | SL 2022/132 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2022 | SL 2022/203 2 Dec 2022 | r. 1 and 2: 2 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2022 (see r. 2(b))
+Vocational Education and Training (Colleges) Amendment Regulations 2024 | SL 2024/1 10 Jan 2024 | r. 1 and 2: 10 Jan 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2024 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
@@ -89,3 +90,7 @@ unenrolled secondary school aged person12(1)
 unforeseen circumstances24A
 unit3(1)
 unit fee11(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
