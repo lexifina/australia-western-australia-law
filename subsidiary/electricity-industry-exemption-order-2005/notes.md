@@ -30,13 +30,16 @@ Electricity Industry Exemption Amendment Order 2021 | SL 2021/67 4 Jun 2021 | cl
 Electricity Industry Exemption Amendment Order 2022 | SL 2022/44 25 Mar 2022 | cl. 1 and 2: 25 Mar 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 26 Mar 2022 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 2) 2022 | SL 2022/171 21 Oct 2022 | cl. 1 and 2: 21 Oct 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 22 Oct 2022 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2023 | SL 2023/80 20 Jun 2023 | cl. 1 and 2: 20 Jun 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 21 Jun 2023 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order 2024 | SL 2024/3 10 Jan 2024 | cl. 1 and 2: 10 Jan 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Jan 2024 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Aboriginal community3A
 Aboriginal community premises7(1)
 appropriately qualified medical practitioner6A(1)
+Beros Road property20(1)
 Blair Fox20(1)
+Chatfield Clarke Road property20(1)
 code provision11(1)
 commencement day6A(1)
 connection point3(1)
@@ -44,6 +47,7 @@ contact details6A(1)
 CSBP23(1)
 DBNGP corridor12(1)
 DBNGP Transmission12(1)
+Deposited Plan3A
 Eastern Metropolitan Regional Council25(1)
 electricity reticulation system6(1)
 electric vehicle19(1)
@@ -69,8 +73,12 @@ registered property6A(1)
 relevant Aboriginal community premises7A(1)
 relevant agreement10(1)
 residential property3A
-retailer6A(1)
+retailer6(1)
 supplier4A(1) and (2), 4B
 supply address6A(1)
 SWIS3A
 Woodside Energy27(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
