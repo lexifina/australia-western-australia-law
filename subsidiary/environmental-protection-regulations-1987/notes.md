@@ -89,6 +89,7 @@ Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons
 Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 2023 Pt. 4 | SL 2023/50 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 2) 2023 | SL 2023/142 6 Sep 2023 | r. 1 and 2: 6 Sep 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2023 (see r. 2(b))
 Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 4 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
+Environmental Protection Amendment Regulations 2024 | SL 2024/4 24 Jan 2024 | r. 1 and 2: 24 Jan 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2024 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
@@ -106,15 +107,20 @@ actual discharge5H(2)
 aggregation pointSch. 1
 approved21(1)
 approved monitoring equipment17
+approved redevelopment scheme33A
 approved site11(1)
 baseline report26(1)
 baseline survey26(1)
 best practice criteria4(1)
+building envelope33C(1)
 category4(1)
 clean fill premises2AA
 commencement day21(1)
 confidential material3B(1)
+cultural place33C(1)
 department3D(1)
+design requirement33C(1)
+development requirement33C(1)
 development site16A
 development work16A
 documentation3A
@@ -128,13 +134,14 @@ Fund21(1)
 head office2AA
 hydraulic fracturing2C(1)
 Landfill Waste Classification and Waste Definitions 19962AA
+land use category33C(1)
 length16(4)
 levy21(1)
 licence4(1)
 licence period4(1)
 licensed landfill21(1)
 licensed premises11(1)
-licensee21(1), 24(1), 28(1)
+licensee21(1), 24(1), 27(1)
 lot16A
 mercury5P
 mercury-added product5P
@@ -142,6 +149,7 @@ mercury compound5P
 metropolitan region21(1)
 minute2B(1)
 native species3D(1)
+native vegetation33C(1)
 organotin anti-fouling paint16(4)
 Part 2 waste5D(6)
 payer5N
@@ -151,8 +159,10 @@ priority list3D(1)
 prohibited manufacturing process5P
 publish3A
 quarterly survey26(4)
+R-Codes33C(1)
 record2B(1)
 refund pointSch. 1
+regional road33B(1)
 relevant documentation3B(2)
 return period21(1)
 semi-enclosed water body16(4)
@@ -167,7 +177,7 @@ tyre11(1)
 Tyre Landfill Exclusion Zone11(1)
 tyre retailer11(1)
 vessel16(4)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
