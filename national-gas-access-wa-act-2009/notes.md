@@ -7,6 +7,7 @@ Petroleum and Energy Legislation Amendment Act 2010 s. 184 | 42 of 2010 | 28 Oct
 National Gas Access (WA) (Act Amendment) Regulations 2017 published in Gazette 22 Dec 2017 p. 5985-6 | r. 1 and 2: 22 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2017 (see r. 2(b) and Gazette 22 Dec 2017 p. 5984)
 National Gas Access (WA) (Act Amendment) Regulations 2019 published in Gazette 5 Apr 2019 p. 1009-10 | r. 1 and 2: 5 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2019 (see r. 2(b) and Gazette 5 Apr 2019 p. 1007)
 National Gas Access (WA) (Act Amendment) Regulations 2020 (SL 2020/194) | r. 1 and 2: 9 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2020 (see r. 2(b) and SL 2020/195 cl. 2(b))
+ | National Gas Access (WA) (Act Amendment) Regulations (No. 2) 2024 (SL 2024/5) | r. 1 and 2: 24 Jan 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2024 (see r. 2(b) and Gazette 24 Jan 2024 p. 91-2)
 ## Note — Western Australian National Gas Access Law text
 [This note is not part of the Act. It shows the text that, under section 7(1), applies as the National Gas Access (Western Australia) Law.]
 ## Chapter 1 — Preliminary
@@ -478,7 +479,17 @@ The Ministers of the participating jurisdictions are—
 ## Part 3 — National gas objective and principles
 ## Division 1 — National gas objective
 ### 23. National gas objective
-The objective of this Law is to promote efficient investment in, and efficient operation and use of, natural gas services for the long term interests of consumers of natural gas with respect to price, quality, safety, reliability and security of supply of natural gas.
+The objective of this Law is to promote efficient investment in, and efficient operation and use of, natural gas services for the long term interests of consumers of natural gas with respect to—
+(a)price, quality, safety, reliability and security of supply of natural gas; and
+(b)the achievement of targets set by a participating jurisdiction—
+(i)for reducing Australia’s greenhouse gas emissions; or
+(ii)that are likely to contribute to reducing Australia’s greenhouse gas emissions.
+Note—
+The AEMC must publish targets in a targets statement: see section 72A.
+[Section 23 amended: see SA Act No. 26 of 2023 s. 14.]
+### 23A. Regulations may prescribe matters for national gas objective
+Without limiting the National Gas Access (WA) Act 2009 Part 3, the Regulations may make provision about a matter relating to the achievement of targets mentioned in section 23(b) of this Law.
+[Section 23A inserted: see SA Act No. 26 of 2023 s. 15; WA Act Sch. 1 cl. 5A.]
 ## Division 2 — Revenue and pricing principles
 ### 24. Revenue and pricing principles
 (1)The revenue and pricing principles are the principles set out in subsections (2) to (7).
@@ -1090,6 +1101,15 @@ Note—
 See also Chapter 10 Part 2 Division 2.
 ### 72. AEMC must have regard to national gas objective
 In performing or exercising any function or power under this Law, the Regulations or the Rules, the AEMC must have regard to the national gas objective.
+### 72A. Targets statement for greenhouse gas emissions targets
+(1)The AEMC must prepare and maintain a document (the targets statement) stating the targets set by a participating jurisdiction mentioned in section 23(b).
+(2)If the MCE or a Minister of a participating jurisdiction gives a written direction to the AEMC to include a target in, or remove a target from, the targets statement, the AEMC must comply with the direction.
+(3)A Minister may give a written direction under subsection (2) only in relation to a target set by the Minister’s participating jurisdiction.
+(4)The AEMC must publish on its website—
+(a)the targets statement; and
+(b)each direction given under subsection (2).
+(5)In having regard to the national gas objective under this Law, the Regulations or the Rules with respect to the matters mentioned in section 23(b), a person or body must consider, as a minimum, the targets stated in the targets statement.
+[Section 72A inserted: see SA Act No. 26 of 2023 s. 16.]
 ### 73. AEMC must have regard to MCE statements of policy principles in relation to Rule making and reviews
 The AEMC must have regard to any relevant MCE statement of policy principles—
 (a)in making a Rule; or
@@ -3123,6 +3143,27 @@ South Australian Minister means the Minister in right of the Crown of South Aust
 (8)In this section—
 Pipelines Access/Arbitration amendments means the amendments made to this Law by the National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017.
 [Section 294F inserted: see SA Act No. 23 of 2017 s. 8 and WA Gazette 22 Dec 2017 p. 5984.]
+### 294FC. South Australian Minister to make initial Rules relating to national gas objective
+(1)The South Australian Minister may, within 9 months after the commencement of the National Gas (South Australia) Law (South Australia) section 294FC —
+(a)make Rules for or with respect to any matter or thing necessary or expedient to implement the amended objective; and
+(b)make Rules for or with respect to any other subject contemplated by, or necessary or expedient for implementing, the amended objective; and
+(c)make Rules that revoke or amend a Rule as a consequence of —
+(i)the enactment of the Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023 (South Australia); or
+(ii)the amendment of this Law by virtue of the National Gas Access (WA) Adoption of Amendments Order (No. 2) 2024 clause 3 (the adopting clause).
+(2)Rules in the nature of a derogation may be made under subsection (1) even though there may not have been a request for a derogation.
+(3)Section 74(3) applies to the making of Rules under subsection (1) as if the Rules being made under subsection (1) were Rules being made by the AEMC.
+(4)As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a)publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b)make the Rules publicly available.
+(5)The notice referred to in subsection (4)(a) must state—
+(a)the date on which the Rules commence operation; or
+(b)if different Rules will commence operation on different dates, those dates.
+(6)The Rules made under subsection (1) may only be made on the recommendation of the MCE.
+(7)If the South Australian Minister makes Rules under subsection (1), the Minister cannot make another Rule under that subsection.
+(8)In this section—
+amended objective means the national gas objective as in force on the coming into operation of the adopting clause;
+South Australian Minister means the Minister in right of the Crown of South Australia administering the National Gas (South Australia) Act 2008 (South Australia) Part 2.
+[Section 294FC inserted: see SA Act 26 of 2023 s. 17 and WA Gazette 24 Jan 2024 p. 91-2; WA Act Sch. 1 cl. 13A.]
 ## Part 3 — Procedure for the making of a Rule by the AEMC
 ### 295. Initiation of making of a Rule
 (1)The AEMC may make a Rule at the request of any person or the MCE.
@@ -4264,7 +4305,7 @@ transitioned access arrangement means—
 (c)a current access arrangement incorporating revisions approved, or approved and made, in accordance with clause 29.
 Note—
 The Regulations or the Rules may also contain provisions of an application, savings or transitional nature.
-[Clause 1 modified: WA Act Sch. 1 cl. 18.]
+[Clause 1 modified: WA Act Sch. 1 cl. 18(1).]
 ### 2. Schedule subject to jurisdictional transitional arrangements in jurisdictional legislation
 (1)This Schedule, and any Regulations or Rules of a savings and transitional nature, apply in this jurisdiction except to the extent provided by or under an Act of this jurisdiction (including an Act that applies this Law and the Regulations as a law of this jurisdiction).
 (2)In this clause—
@@ -4568,7 +4609,7 @@ AER breach investigation means an investigation conducted and completed by the A
 (3)Despite anything to the contrary in clause 2 or the repeal of the old access law and Gas Code, Part 5 of the old access law applies to a proceeding under this clause as if—
 (a)a reference in that Part to a relevant Regulator or the ACCC were a reference to the AER; and
 (b)regulation 5 of, and Schedule 2 to, the Gas Pipelines Access (Western Australia) Regulations 2000 were not repealed.
-[Clause 45 modified: WA Act Sch. 1 cl. 18.]
+[Clause 45 modified: WA Act Sch. 1 cl. 18(2).]
 ## Part 9 — Associate contracts
 ### 46. Pending associate contract approvals that are approved after commencement day
 (1)This clause applies if on the commencement day—
@@ -4627,10 +4668,10 @@ old scheme classification and scheme participant determination means—
 ## Part 15—Transitional provision related to AEMC rule making powers
 [Heading inserted: see SA Act No. 12 of 2018 s. 29 and WA SL 2020/195 cl. 3.]
 ### 90. AEMC rule making powers
-The amendment to section 304 of this Law by section 26 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
-(a)a Rule on a request under section 295(1) of this Law received by the AEMC before the commencement of this clause; or
-(b)an AEMC initiated Rule (within the meaning of section 290 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.
-[Clause 90 inserted: see SA Act No. 12 of 2018 s. 29 and WA SL 2020/195 cl. 3.]
+The amendment to section 304 of this Law by virtue of the National Gas Access (WA) Adoption of Amendments Order 2020 clause 3 (the adopting clause) does not apply to the making of—
+(a)a Rule on a request under section 295(1) of this Law received by the AEMC before the coming into operation of the adopting clause; or
+(b)an AEMC initiated Rule (within the meaning of section 290 of this Law) in respect of which the AEMC has, before the coming into operation of the adopting clause, published notice of its intention to make.
+[Clause 90 inserted: see SA Act No. 12 of 2018 s. 29 and WA SL 2020/195 cl. 3; modified: WA Act Sch. 1 cl. 18(2A).]
 ## Part 17—Transitional provisions for rate of return instrument
 [Heading inserted: see SA Act No. 33 of 2018 s. 21 and WA Gazette 5 Apr 2019 p. 1007.]
 ### 95. Definitions
@@ -4673,6 +4714,67 @@ stakeholders means—
 (3)In this clause—
 amended Law means this Law as amended and modified by virtue of the National Gas Access (WA) Adoption of Amendments Order 2019 and the National Gas Access (WA) (Act Amendment) Regulations 2019.
 [Clause 98 inserted: see SA Act No. 33 of 2018 s. 21 and WA Gazette 5 Apr 2019 p. 1007; modified: WA Act Sch. 1 cl. 18(6).]
+## Part 20—Transitional provisions related to national gas objective amendments
+[Heading inserted: see SA Act No. 26 of 2023 s. 18 and WA Gazette 24 Jan 2024 p. 91-2.]
+### 133. Definitions
+In this Part—
+adopting clause means the National Gas Access (WA) Adoption of Amendments Order (No. 2) 2024 clause 3;
+amended objective means the national gas objective as in force on the coming into operation of the adopting clause;
+government or regulatory entity means the AEMC, AEMO, the AER, the Energy Security Board, the MCE or another government entity;
+start day—see clause 134(2)(a).
+[Section 133 inserted: see SA Act No. 26 of 2023 s. 18 and WA Gazette 24 Jan 2024 p. 91-2; WA Act Sch. 1 cl. 18(7)-(9).]
+### 134. When amended objective takes effect for particular matters
+(1)This clause applies in relation to a thing required or permitted to be done under this Law by a person or body, other than the AEMC, if, in doing the thing, the person or body is required to consider or apply the national gas objective including, for example, by—
+(a)having regard to the national gas objective; or
+(b)doing the thing in a manner that will or is likely to contribute to the achievement of the national gas objective.
+(2)Despite the coming into operation of the adopting clause —
+(a)the national gas objective as in force before the adopting clause came into operation continues to apply for the doing of the thing until the day (the start day) that is 2 months after the coming into operation of the adopting clause; and
+(b)the amended objective applies in relation to the doing of the thing from the start day.
+(3)However, if the thing required or permitted to be done relates to a relevant access arrangement—
+(a)on the coming into operation of the adopting clause the amended objective applies to the doing of the thing; and
+(b)clause 135(3) does not apply in relation to the doing of the thing.
+(4)Subclauses (1) and (2) are subject to clause 135.
+(5)In this clause—
+relevant access arrangement means an access arrangement under the Rules proposed to commence on 1 January 2025 for—
+(a)the Mid-West and South-West Gas Distribution System comprised of the scheme distribution pipeline in Western Australia and defined in gas distribution licence 8 (as amended) issued under the Energy Coordination Act 1994 of Western Australia, including any extension to or expansion of the capacity of that pipeline; or
+(b)the Goldfields Gas Pipeline comprised of the transmission pipeline between Yarraloola and Kalgoorlie in Western Australia and defined in Pipeline Licence 24 (as amended) issued under the Petroleum Pipelines Act 1969 of Western Australia, including an extension to or expansion of the capacity of, that pipeline.
+[Section 134 inserted: see SA Act No. 26 of 2023 s. 18 and WA Gazette 24 Jan 2024 p. 91-2; WA Act Sch. 1 cl. 18(10).]
+### 135. Application of national gas objective to particular matters in progress on start day
+(1)This clause applies if—
+(a)before the start day, a person or body had started, or was required or permitted to start, doing a thing; and
+(b)on the start day—
+(i)the person or body has not finished doing the thing; or
+(ii)the period within which the thing is required or permitted to be done has not ended; and
+(c)in doing the thing the person or body is required to consider or apply the national gas objective by, for example—
+(i)having regard to the national gas objective; or
+(ii)doing the thing in a manner that will or is likely to contribute to the achievement of the national gas objective.
+(2)The national gas objective as in force before the coming into operation of the adopting clause, and as continued in effect under clause 134 until the start day, continues to apply in relation to the doing of the thing.
+(3)However, a government or regulatory entity may decide to consider or apply the amended objective in relation to the doing of the thing.
+(4)For subclause (1), a matter relating to an access arrangement is taken not to have been started, or required or permitted to have been started, before the start day if, on the start day, the access arrangement proposal for the access arrangement has not been submitted for the AER’s approval under Rule 46 of the Rules.
+[Section 135 inserted: see SA Act No. 26 of 2023 s. 18 and WA Gazette 24 Jan 2024 p. 91-2; WA Act Sch. 1 cl. 18(11).]
+### 136. Administrative guidance for decisions under clause 135(3)
+(1)If a government or regulatory entity, other than the AER, proposes to exercise a discretion under clause 135(3), the entity must use its best endeavours to ensure that within 45 days after the coming into operation of the adopting clause, it issues administrative guidance about the matters the entity is likely to have regard to in deciding whether to consider or apply the amended objective in doing a thing.
+(2)The AER must, within 45 days after the coming into operation of the adopting clause, issue administrative guidance about the matters the AER is likely to have regard to in deciding whether to consider or apply the amended objective in doing a thing.
+(3)A failure to comply with this section does not prevent a government or regulatory entity from exercising a discretion under clause 135(3).
+[Section 136 inserted: see SA Act No. 26 of 2023 s. 18 and WA Gazette 24 Jan 2024 p. 91-2; WA Act Sch. 1 cl. 18(12).]
+### 137. Administrative guidance about value of greenhouse gas emissions
+(1)This clause applies if—
+(a)administrative guidance is issued by a government or regulatory entity about considering or applying the amended objective; and
+(b)the guidance includes the value, or a method of working out the value, of greenhouse gas emissions or greenhouse gas emissions reduction; and
+(c)the guidance is consistent with any MCE statement.
+(2)The value or method stated in the administrative guidance must be complied with by the government or regulatory entity in considering or applying the amended objective.
+(3)This clause applies until a Regulation or Rule takes effect for the matter described in subclause (1).
+(4)In this clause—
+MCE statement means a statement issued by the MCE that states the value, or a method of or guidance for working out the value, of greenhouse gas emissions or greenhouse gas emissions reduction, that is to be used by a government or regulatory entity in considering or applying the amended objective until a Regulation or Rule mentioned in subclause (3) takes effect.
+[Section 137 inserted: see SA Act No. 26 of 2023 s. 18 and WA Gazette 24 Jan 2024 p. 91-2.]
+### 138. Validation of things done in relation to Rules before commencement
+(1)This clause applies if, before the coming into operation of the adopting clause —
+(a)the MCE or a Minister of a participating jurisdiction had requested a Rule under section 295(1) in relation to the national gas objective as if the amended objective were in force; and
+(b)the AEMC had done a thing under Chapter 9, other than sections 313 to 315, in relation to the request.
+(2)On the coming into operation of the adopting clause —
+(a)the thing is taken to have been validly done under Chapter 9; and
+(b)the AEMC is taken to have satisfied a requirement under the Law to apply the national gas objective in relation to the thing.
+[Section 138 inserted: see SA Act No. 26 of 2023 s. 18 and WA Gazette 24 Jan 2024 p. 91-2; WA Act Sch. 1 cl. 18(13).]
 Notes about the Western Australian National Gas Access Law text
 Compilation table
 The Western Australian National Gas Access Law text is the text that results from modifying the National Gas Law, as set out in the Schedule to the National Gas (South Australia) Act 2008 (South Australia) for the time being in force (the SA Schedule), as shown in the National Gas Access (WA) Act 2009 Schedule 1 (WA Schedule 1) and to reflect that, because of the National Gas Access (WA) Act 2009 s. 7A, amendments to the SA Schedule only affect the Western Australian National Gas Access Law text to the extent that they are declared under that section to be relevant to that text.
@@ -4683,6 +4785,7 @@ Statutes Amendment (National Electricity and Gas Laws — Limited Merits Review)
 National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017 | SA Act No. 23 of 2017 | In SA: 1 Aug 2017 (see SA Gazette 1 Aug 2017 p. 3037) In WA: 23 Dec 2017 (see WA Gazette 22 Dec 2017 p. 5984)
 Statutes Amendment (National Energy Laws) (Rules) Act 2018 | SA Act No. 12 of 2018 | In SA: 20 Sep 2018 (see SA Gazette 20 Sep 2018 p. 3500) In WA: 10 Oct 2020 (see SL 2020/195 cl. 2(b))
 Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018 Pt. 3 | SA Act No. 33 of 2018 | In SA: 13 Dec 2018 (see SA Gazette 13 Dec 2018 p. 4272) In WA: 6 Apr 2019 (see WA Gazette 5 Apr 2019 p. 1007)
+Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023 | SA Act No. 26 of 2023 | In SA: 21 Sep 2023 (see s. 2) In WA: 25 Jan 2024 (see WA Gazette 24 Jan 2024 p. 91-2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined.
 Unless otherwise indicated references are to provisions in the Note.
@@ -4722,6 +4825,8 @@ affected or interested person or body244, 250
 affidavitSch. 2 cl. 10
 amendSch. 2 cl. 10
 amended LawSch. 3 cl. 98
+amended objective294FC, Sch. 3 cl. 133
+amending ActSch. 3 cl. 133
 applicable access arrangement2
 applicable access arrangement decision2
 applicant244
@@ -4787,9 +4892,9 @@ designated MinisterAct 9(1)
 designated pipeline2
 designated reviewable regulatory decision2
 developable capacity2
-dispute hearing178
+dispute hearing178, 216A
 dispute resolution bodyAct 9(1), Note 2
-distribution pipeline2
+distribution pipeline2, 216A
 documentSch. 2 cl. 10
 draft Rule determination2
 eligible expert30H
@@ -4821,6 +4926,7 @@ gas other than natural gasAct 6A(3)
 Gas Pipelines Access LawAct 11(4)
 GazetteSch. 2 cl. 10
 general regulatory information order2
+government or regulatory entitySch. 3 cl. 133
 GMCo290
 greenfields pipeline incentive2
 greenfields pipeline project149
@@ -4848,6 +4954,7 @@ materially preferable designated NGO decision244, 259
 matters of a transitional natureAct 11(4)
 MCE2
 MCE directed review2
+MCE statementSch. 3 cl. 137
 MCE statement of policy principles2
 minimum ring fencing requirement2
 Minister of a participating jurisdiction2
@@ -4881,7 +4988,7 @@ nominated disputes208, 209(2)
 non scheme pipeline user2
 non-controversial Rule290
 non-finalised access disputeSch. 3 cl. 42
-non-scheme pipeline216A
+non-scheme pipeline83A, 216A
 notified compliance date143(4)
 numberSch. 2 cl. 10
 oathSch. 2 cl. 10
@@ -4935,7 +5042,7 @@ processable gas2
 producer2
 propertySch. 2 cl. 10
 proposed Rule290
-prospective user2
+prospective user2, 216A
 provisionSch. 2 cl. 10
 publish290
 queuing requirements2
@@ -4957,10 +5064,11 @@ regulatory period244
 regulatory scheme decision maker332(3)
 related business137
 related provider43
+relevant access arrangementSch. 3 cl. 134
 relevant appeals bodySch. 3 cl. 1
 relevant decision maker330
 relevant decision or documentSch. 2 cl. 31
-relevant exclusivity right188(2), 321(2)
+relevant exclusivity right188(2), 216N, 321(2)
 relevant Minister2
 relevant national provisionsAct 19(3)
 relevant notice42(1), Sch. 2 cl. 31, 33
@@ -5000,15 +5108,17 @@ small/medium user or consumer intervener244
 South Australian ActAct 3(1)
 South Australian Minister294CA
 spare capacity2
-specified dispute termination circumstance186(3)
+specified dispute termination circumstance186(3), 216O
 stakeholdersSch. 3 cl. 95
 standard period260(1)
+start datSch. 3 cl. 133
 statutory declarationSch. 2 cl. 10
 statutory instrumentSch. 2 cl. 10, 21, 51
 storage provider2
 subsequent service provider215(2)
 supply2
 swearSch. 2 cl. 10
+target statement72A
 tariff2
 tender approval decision2
 Territory2
@@ -5020,7 +5130,7 @@ this jurisdictionAct 9(1)
 this lawAct 9(1)
 transitional periodAct 20(2)
 transitioned access arrangementSch. 3 cl. 1
-transmission pipeline2
+transmission pipeline2, 216A
 Tribunal2
 underlying National Gas LawAct Sch. 1 cl. 1(2)
 urgent Rule290
@@ -5033,3 +5143,7 @@ WA arbitratorAct 9(1), Note 2
 Western Australian National Gas Access Law textAct 7(2)
 wordSch. 2 cl. 10
 writingSch. 2 cl. 10
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
