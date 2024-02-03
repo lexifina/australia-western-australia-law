@@ -37,6 +37,7 @@ Health Services (Fees and Charges) Amendment Order (No. 3) 2023 | SL 2023/55 23 
 Health Services (Fees and Charges) Amendment Order (No. 5) 2023 | SL 2023/86 30 Jun 2023 | cl. 1 and 2: 30 Jun 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2023 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 4) 2023 | SL 2023/87 30 Jun 2023 | cl. 1 and 2: 30 Jun 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2023 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 6) 2023 | SL 2023/178 8 Nov 2023 | cl. 1 and 2: 8 Nov 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 9 Nov 2023 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order 2024 | SL 2024/7 2 Feb 2024 | cl. 1 and 2: 2 Feb 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 3 Feb 2024 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -100,7 +101,7 @@ same day patient3(1)
 surgically implanted prosthesis 3(1)
 veteran3(1)
 White Card3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
