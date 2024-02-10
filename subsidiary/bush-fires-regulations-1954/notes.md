@@ -41,6 +41,7 @@ Bush Fires Amendment Regulations 2014 | 8 Jan 2015 p. 109 | r. 1 and 2: 8 Jan 20
 Bush Fires Amendment Regulations 2019 | 5 Nov 2019 p. 3879-98 | r. 1 and 2: 5 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2019 (see r. 2(b))
 Bush Fires Amendment Regulations 2021 | SL 2021/10 29 Jan 2021 | r. 1 and 2: 29 Jan 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2021 (see r. 2(b))
 Bush Fires Regulations Amendment Regulations 2022 Pt. 3 | SL 2022/153 26 Aug 2022 | 1 Sep 2022 (see r. 2(b))
+Bush Fires Amendment Regulations 2024 | SL 2024/9 9 Feb 2024 | r. 1 and 2: 9 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Feb 2024 (see r. 2(b))
 Other notes
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this compilation do not form part of the written law (see Interpretation Act 1984 s. 32).
@@ -66,7 +67,7 @@ engine, vehicle, plant, equipment or machinery24AA
 essential service24AA
 Executive Body45(1)
 fire danger forecast24AA
-fire detection officer24J(1), 24ZG(1)
+fire detection officer24J(1)
 fire extinguisher3
 fire fighting vehicle24AA
 gas flaring24AA
@@ -84,7 +85,6 @@ rail grinding24AA
 rescue operation24DA(1)
 road24AA
 road site24AA
-road site fire fighting vehicles24ZE(3)
 road work24AA
 search and rescue operation24DA(1)
 subject land3
@@ -94,3 +94,7 @@ unallocated Crown land45(1)
 urgent works24AA
 volunteer fire fighter40(1)
 work site24AA
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
