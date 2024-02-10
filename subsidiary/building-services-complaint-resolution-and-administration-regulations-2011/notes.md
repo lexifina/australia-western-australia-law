@@ -19,6 +19,7 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 3 | 2
 Commerce Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 5 | 18 Jun 2019 p. 2077-115 | 1 Jul 2019 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
+Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 3 | SL 2024/12 9 Feb 2024 | 10 Feb 2024 (see r. 2(d))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -54,3 +55,7 @@ repealed Act23, 27(1)
 repealed Act builder5A(1)
 unauthorised work5A(1)
 value12(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
