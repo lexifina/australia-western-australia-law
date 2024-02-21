@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Redevelopment Authority Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Metropolitan Redevelopment Authority Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Metropolitan Redevelopment Authority Regulations 2011 | 30 Dec 2011 p. 5475-514 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2011 (see r. 2(b) and Gazette 30 Dec 2011 p. 5573)
@@ -13,6 +13,10 @@ Metropolitan Redevelopment Authority Amendment Regulations 2020 | SL 2020/14 3 M
 Metropolitan Redevelopment Authority Amendment Regulations (No. 2) 2020 | SL 2020/250 18 Dec 2020 | r. 1 and 2: 18 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2020 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2022 | SL 2022/52 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 May 2022 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2023 | SL 2023/114 26 Jul 2023 | r. 1 and 2: 26 Jul 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Aug 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lands Regulations Amendment Regulations 2024 Pt. 2 | SL 2024/18 21 Feb 2024 | 1 Mar 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,7 +46,7 @@ statement18(1)
 structure plan28
 subdivision works3
 utility services3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
