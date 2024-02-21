@@ -13,6 +13,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 Pt. 3 | SL 2022/178 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
+Planning and Development (Local Planning Schemes) Amendment Regulations 2024 (other than r. 1 and 2) | SL 2024/25 21 Feb 2024 | 1 Mar 2024 (see r. 2(b))
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
@@ -255,3 +256,7 @@ winerySch. 1 cl. 38
 workforce accommodationSch. 1 cl. 38
 worksSch. 2 cl. 1
 zoneSch. 2 cl. 1
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
