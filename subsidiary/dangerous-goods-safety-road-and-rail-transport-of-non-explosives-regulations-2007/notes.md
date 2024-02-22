@@ -32,6 +32,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt
 Mines and Petroleum Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/24 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/58 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/36 5 May 2023 | 1 Jul 2023 (see r. 2(b))
+Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2024 | SL 2024/22 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Feb 2024 (see r. 2(b))
 Other notes
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed, before the amendments came into operation, by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
@@ -41,9 +42,9 @@ Defined termProvision(s)
 Act4
 ADG Code4
 ADR approved4
-aggregate quantity4
+aggregate quantity3
 another participating jurisdiction4
-appropriately marked4, 106(1), 106(2), 106(3), 106(4), 106(5)
+appropriately marked4, 106(1), (2), (3), (4) and (5)
 appropriately placarded4, 111(2)
 approval4, 193, 207
 approved packaging4
@@ -52,8 +53,9 @@ approved tank4
 approved test4
 approved training course4
 article4
+Austroads213
 authorised body4
-bulk container4, 33(1)
+bulk container4, 33(1) and (2)
 bulk transfer139
 business transfer237(1)
 CAP4
@@ -77,7 +79,7 @@ corresponding determination4
 corresponding exemption4
 corresponding law4
 corresponding provision276(1), 278(1), 280(1), 282(1)
-dangerous goods4, 28(1)
+dangerous goods4, 27(1)
 dangerous goods driver licence4
 Dangerous Goods List4
 dangerous goods vehicle licence4
@@ -105,25 +107,28 @@ ICAO approved4
 ICAO Technical Instructions4
 IMDG Code4
 IMO approved4
-incompatible4, 32(1), 32(2)
+incompatible4, 32(1) and (2)
 inner packaging4
 intermediate bulk container4, 34(1)
+intermediate packaging4
 journey4
 large packaging4
 licence241, 250
 licensed vehicle237(1)
-licensee241, 250
+licensee240, 250
 licensing authority213
 load4
 loader4, 42
 loads4, 42
 MEGC4, 35
+Ministerial Council4
 mobile processing unit (MPU)13A(1)
 model subordinate instrument4
 multi-element gas container4
 multimodal4
 multiple-element gas container35
 NATA4
+National Transport Commission4
 nominally empty storage vessels120A
 other packaging68
 outer packaging4
@@ -144,11 +149,13 @@ pressure drums4
 previous regulation 221(c)287(1)
 prime contractor4, 43
 prime mover4
-proposed action211(1), 254(1), 261(1)
+proposed action210(1), 254(1), 261(1)
 provisional licence4
 rail4
 rail authority4
 rail operator4, 44
+rail tank wagon4
+rail wagon4
 receptacle4
 recognised testing facilities57
 recognised testing facility4
@@ -156,13 +163,14 @@ register25
 registered4
 relevant change200(1), 201(1)
 relevant provision263(1), 264(1), 265(1), 266(1), 275(1), 277(1), 279(1), 281(1)
+relevant road tank vehicle215(1)
 repealed Act273
 repealed regulations273
 required emergency information156
 RID approved4
 rigid vehicle4
 road4
-road tank vehicle215(1)
+road tank vehicle4
 service equipment4
 specified goods110(1)
 structural equipment4
@@ -175,16 +183,15 @@ tank vehicle4
 telephone advisory service179(1)
 trailer4
 train4
-Transport and Infrastructure Council4
 transport documentation4
-tubes4
+tube4
 UN approved4
 UN Class4, 29
 UN Division4
 UN Division29
 unit of rolling stock4
 vehicle4, 229
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

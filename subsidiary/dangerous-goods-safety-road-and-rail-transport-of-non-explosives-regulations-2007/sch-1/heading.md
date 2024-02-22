@@ -9,6 +9,7 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 3. | Regulation 54 | 600 | 3 000
 4. | Regulation 61 | 600 | 3 000
 5. | Regulation 69(1) | 600 | 3 000
+5A. | Regulation 69(2) | 600 | 3 000
 6. | Regulation 69(3) | 600 | 3 000
 7. | Regulation 70 | 600 | 3 000
 8. | Regulation 71(1) | 600 | 3 000
@@ -87,4 +88,4 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 74. | Regulation 257(1) | 600 | 3 000
 75. | Regulation 258(1) | 600 | 3 000
 76. | Regulation 259(2) | 200 | 1 000
-[Schedule 1 amended: Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701; 11 Jul 2017 p. 3833; 31 Aug 2018 p. 3047; SL 2020/193 r. 27.]
+[Schedule 1 amended: Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701; 11 Jul 2017 p. 3833; 31 Aug 2018 p. 3047; SL 2020/193 r. 27; SL 2024/22 r. 13.]
