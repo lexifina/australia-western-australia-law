@@ -7,8 +7,9 @@ Liquor Control (Yakanarra Restricted Area) Amendment Regulations 2012 | 27 Apr 2
 Liquor Control (Yakanarra Restricted Area) Amendment Regulations 2015 | 24 Mar 2015 p. 1046-7 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2015 (see r. 2(b))
 Liquor Control (Yakanarra Restricted Area) Amendment Regulations 2018 | 17 Apr 2018 p. 1305 | r. 1 and 2: 17 Apr 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2018 (see r. 2(b))
 Liquor Control (Yakanarra Restricted Area) Amendment Regulations 2021 | SL 2021/41 9 Apr 2021 | r. 1 and 2: 9 Apr 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2021 (see r. 2(b))
+Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2024 Pt. 4 | SL 2024/13 21 Feb 2024 | 22 Feb 2024 (see r. 2(b))
 Other notes
-These regulations expire at the close of 30 Apr 2024 (see r. 9).
+These regulations expire at the close of 30 April 2034 (see r. 9).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
