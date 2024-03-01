@@ -60,23 +60,22 @@ Biodiversity Conservation Act 2016 s. 314 | 24 of 2016 | 21 Sep 2016 | 1 Jan 201
 Reprint 9: The Environmental Protection Act 1986 as at 4 May 2018 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 314)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 6 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 8 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
-Planning and Development Amendment Act 2020 Pt. 6 Div. 2 | 26 of 2020 | 7 Jul 2020 | 1 Aug 2023 (see s. 2(1)(b) and SL 2023/107 cl. 2)
-Environmental Protection Amendment Act 2020 Pt. 2 (other than s. 4(2), (4), (6) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112) | 40 of 2020 | 19 Nov 2020 | s. 3, 5-8, 10, 13, 14, 24, 32, 35, 36, 37(1), 58, 73-76, 80-82, 93, 94, 96, 99, 101, 106(4)-(6), 107, 108(1)-(6) and (8)-(11), 110(4)-(6) and 111: 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2); s. 4(1), (3), (5) and (7)-(9), 9, 11, 12, 15-23, 25-31, 33, 37(2), 38-41, 43-57, 61, 62, 64, 69, 70, 77-79, 84, 85, 88(2), 89-91, 95, 97, 100, 102, 103, 106(1) and (2), 109 and 110(1) and (3): 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
+Planning and Development Amendment Act 2020 Pt. 6 Div. 2 and Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | Pt. 6 Div. 2: 1 Aug 2023 (see s. 2(1)(b) and SL 2023/107 cl. 2); Pt. 7 Div. 2: 1 Mar 2024 (see s. 2(1)(b) and SL 2024/16 cl. 2)
+Environmental Protection Amendment Act 2020 Pt. 2 (other than s. 4(2), (4) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112) | 40 of 2020 | 19 Nov 2020 | s. 3, 5-8, 10, 13, 14, 24, 32, 35, 36, 37(1), 58, 73-76, 80-82, 93, 94, 96, 99, 101, 106(4)-(6), 107, 108(1)-(6) and (8)-(11), 110(4)-(6) and 111: 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2); s. 4(1), (3), (5) and (7)-(9), 9, 11, 12, 15-23, 25-31, 33, 37(2), 38-41, 43-57, 61, 62, 64, 69, 70, 77-79, 84, 85, 88(2), 89-91, 95, 97, 100, 102, 103, 106(1) and (2), 109 and 110(1) and (3): 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2); s. 4(6): 1 Mar 2024 (see s. 2(1)(b)(i))
 Environmental Protection Amendment Act (No. 2) 2020 s. 4 | 41 of 2020 | 19 Nov 2020 | 3 Feb 2021 (see s. 2(1)(b) and SL 2021/12 cl. 2)
 Swan Valley Planning Act 2020 Pt. 10 Div. 3 | 45 of 2020 | 9 Dec 2020 | Pt. 10 Div. 3 (other than s. 103): 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2); s. 103: 1 Aug 2023 (see s. 2(1)(c)(ii) and SL 2023/107 cl. 2)
 Aboriginal Cultural Heritage Act 2021 s. 348 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 4 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 24 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 28 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
+Planning and Development Amendment Act 2023 Pt. 5 Div. 2 | 34 of 2023 | 11 Dec 2023 | 1 Mar 2024 (see s. 2(d))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Planning and Development Amendment Act 2020 Pt. 7 Div. 2 | 26 of 2020 (as amended by No. 40 of 2020 s. 117) | 7 Jul 2020 | 1 Mar 2024 (see s. 2(1)(b) and SL 2024/16 cl. 2)
-Environmental Protection Amendment Act 2020 s. 4(2), (4), (6) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 4(6): comes into operation immediately after s. 4(2) comes into operation (see s. 2(1)(b)); s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
+Environmental Protection Amendment Act 2020 s. 4(2), (4) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
-Planning and Development Amendment Act 2023 Pt. 5 Div. 2 | 34 of 2023 | 11 Dec 2023 | 1 Mar 2024 (see s. 2(d))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -131,6 +130,7 @@ The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follow
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
 The Planning and Development Amendment Act 2020 s. 71 will not come into operation because the definition it sought to amend was deleted by the Environmental Protection Amendment Act 2020 s. 55(1)(b).
+The Environmental Protection Amendment Act 2020 the 2nd and 4th rows in the Table to s. 112 will not come into operation because they were deleted by the Environmental Protection Amendment Act 2020 s. 2(3) and (4).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -154,7 +154,7 @@ assessment report44(1)
 authorisation50D(1), 68A(1), 86A, Sch. 2
 authorised person3(1)
 Authority3(1)
-Authority member3
+Authority member3(1)
 beneficial use3(1)
 bilateral agreement124A
 bilateral matter124A
@@ -171,7 +171,7 @@ clearing matter51O(1)
 clearing permit3(1)
 clearing principles51A
 closure notice3(1), 68A(2)
-commencement133B(1), 133D(1), 133E, 133M(2), (3), (5), (7), 133N(1)
+commencement133C(1), 133D(1), 133E, 133M(2), (3), (5) and (7), 133N(1)
 commencement condition47A(2)
 Commissioner51D(1)
 committee of inquiry3(1)
@@ -212,7 +212,7 @@ emission3(1)
 environment3(1)
 environmental harm3(1), 3A(2)
 environmentally sensitive area51A
-environmental monitoring programme2(1)
+environmental monitoring programme3(1)
 environmental protection covenant3(1)
 environmental protection notice3(1), 65(1)
 environmental undertaking3(1)
@@ -238,11 +238,11 @@ image116B(1)
 image data source116B(1)
 implementation agreement or decision44A
 implementation conditions3(1), 44A, 48EA
-implementation issue44(3), 48EA
+implementation issue44A, 48EA
 improper conduct51S(1)
 improvement scheme3(1)
 industrial plant3(1)
-infringement notice offence99G
+infringement notice offence99H
 inspector3(1)
 interest51N(1)
 involvement in a contravention51S(1)
@@ -279,6 +279,7 @@ pending appeal133K(1), 133L(1)
 period of public review3(1)
 person3(1)
 place49A(1)
+planning code3(1)
 planning instrument3(1)
 plantation3(1)
 pollution3(1), 3A(1)
@@ -297,7 +298,7 @@ proposal of a prescribed class37B(1)
 proposal under an assessed scheme3(1)
 proposed action51M(2)
 proposed amendment51KB(1)
-proposed change133M(3), (5)
+proposed change133M(3) and (5)
 protection3(1)
 publication day133O(1)
 public authority3(1)
@@ -310,7 +311,7 @@ referral133M(1)
 referred proposal3(1)
 referrer51DA(2)
 region planning scheme3(1)
-Registrar of Deeds and Transfers2(1)
+Registrar of Deeds and Transfers3(1)
 Registrar of Titles3(1)
 regulations3(1), 133B(1)
 relevant ActSch. 4
@@ -330,19 +331,21 @@ road3(1)
 scheme3(1), 48EA
 scheme Act3(1)
 section 38E declaration45B(1)
-section 39133M(6)
+section 39133M(7)
 sell3(1)
 separate proposals45D(1)
-serious environmental harm3(1), 3A(1)
+serious environmental harm3(1), 3A(2)
 significant amendment3(1)
 significant proposal37B(1)
 SLC Act51A
 soil conservation notice51A
-specified6(10), 45A(2), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6), 133O(1), Sch. 2
+specified6(10), 45A(2), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6),
+133O(1), Sch. 2
 specified decision133L(1)
 State entity124A
+State planning policy3(1)
 strategic assessment38E(1)
-strategic proposal37B(1), (2)
+strategic proposal37B(1) and (2)
 subdivision3(2a)
 subject land45A(2)
 submit122B(1)
@@ -359,7 +362,7 @@ transitional matter133O(1)
 unlawful clearing70(1)
 unreasonable emission49(1)
 unreasonable noise3(1)
-validated thing135(4)
+validated thing136(4)
 vegetation conservation notice3(1), 70(2)
 vehicle3(1)
 vessel3(1)
@@ -369,7 +372,7 @@ waters3(1)
 Western Australian Planning Commission3(1)
 wetland70(1), Sch. 5 cl. 1
 works approval3(1), 133F(1), 133I(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
