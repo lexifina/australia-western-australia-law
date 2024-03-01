@@ -9,11 +9,11 @@ Planning and Development (Local Planning Schemes) Amendment Regulations (No. 2) 
 Planning Regulations Amendment Regulations 2020 Pt. 2 | SL 2020/252 18 Dec 2020 | Pt. 2 (other than Div. 3): 15 Feb 2021 (see r. 2(c)); Pt. 2 Div. 3: 1 Jul 2021 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations 2021 | SL 2021/77 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 (other than Pt. 3) | SL 2022/178 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Planning and Development (Local Planning Schemes) Amendment Regulations 2024 | SL 2024/25 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 Pt. 3 | SL 2022/178 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
-Planning and Development (Local Planning Schemes) Amendment Regulations 2024 (other than r. 1 and 2) | SL 2024/25 21 Feb 2024 | 1 Mar 2024 (see r. 2(b))
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
@@ -96,7 +96,7 @@ Department3
 Department of Main RoadsSch. 1 cl. 14(1)
 developerSch. 2 cl. 78D(1)
 development approvalSch. 2 cl. 78A
-development contribution plan3, Sch. 2 cl. 1
+development contribution plan2, Sch. 2 cl. 1
 development siteSch. 2 cl. 78A
 document76A(1), 76B(1), Sch. 2 cl. 87(1) and 88(1)
 drop-off refund pointSch. 2 cl. 1
@@ -106,6 +106,7 @@ exhibition centreSch. 1 cl. 38
 family day careSch. 1 cl. 38
 fast food outlet/lunch barSch. 1 cl. 38
 floor areaSch. 1 cl. 37(1)
+former Act83
 former deemed provisionsSch. 2 cl. 89
 former planSch. 2 cl. 77O(1)
 former regulations82(1)
@@ -131,7 +132,7 @@ home storeSch. 1 cl. 38
 hospitalSch. 1 cl. 38
 hotelSch. 1 cl. 38
 in a bushfire prone areaSch. 2 cl. 78C
-incidental useSch. 2 cl. 1
+incidental useSch. 2
 industrySch. 1 cl. 38
 industry - extractiveSch. 1 cl. 38
 industry - lightSch. 1 cl. 38
@@ -143,7 +144,6 @@ liquor store - smallSch. 1 cl. 38
 local development planSch. 2 cl. 46
 local governmentSch. 2 cl. 1
 local government CEOSch. 2 cl. 1
-local planning scheme documents3
 local planning strategySch. 2 cl. 1
 maintenance and repair worksSch. 2 cl. 1
 marinaSch. 1 cl. 38
@@ -233,7 +233,7 @@ submission period25(1), 41(1), 50(1)
 substantially commencedSch. 2 cl. 1
 tavernSch. 1 cl. 38
 telecommunications infrastructureSch. 1 cl. 38
-this Scheme10(3), 10(5)
+this Scheme10(3) and (5)
 tourist developmentSch. 1 cl. 38
 trade displaySch. 1 cl. 38
 trade suppliesSch. 1 cl. 38
