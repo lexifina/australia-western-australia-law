@@ -1,13 +1,10 @@
-## Schedule 2 — Fees for DAP members
+## Schedule 2 — Fees for local government DAP members
 [r. 30 and 31]
-[Heading inserted: Gazette 16 Dec 2016 p. 5716.]
-1. | Fee for presiding member per meeting to determine development applications | $700
-2. | Fee for any other member per meeting to determine development applications | $425
-3. | Fee per meeting for presiding member to determine applications to amend or cancel determination | $200
-4. | Fee per meeting for any other member to determine applications to amend or cancel determination | $100
-5. | Fee for presiding member attending proceeding in State Administrative Tribunal | $700
-6. | Fee for any other member attending proceeding in State Administrative Tribunal | $425
-7. | Fee for training for DAP members | $400
-8. | Fee for re-training for DAP members | $200
-9. | Fee for presiding member to determine dispute as to compliance with notice | $200
-[Schedule 2 inserted: Gazette 16 Dec 2016 p. 5716-17.]
+[Heading inserted: SL 2024/27 r. 47.]
+1. | Fee for local government DAP member for attendance at a meeting | $425
+2. | Fee for local government DAP member for attendance at a meeting for the sole purpose of determining an application to amend or cancel a development approval | $100
+3. | Fee for a local government DAP member attending proceedings in the State Administrative Tribunal | $425
+4. | Fee for training for local government DAP members | $400
+5. | Fee for re-training for local government DAP members | $200
+[Schedule 2 inserted: SL 2024/27 r. 47.]
+[Schedule 3 deleted: SL 2024/27 r. 47.]

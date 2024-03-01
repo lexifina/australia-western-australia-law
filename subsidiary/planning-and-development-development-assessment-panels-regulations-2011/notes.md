@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Planning and Development (Development Assessment Panels) Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Planning and Development (Development Assessment Panels) Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Planning and Development (Development Assessment Panels) Regulations 2011 | 24 Mar 2011 p. 1039-90 | r. 1 and 2: 24 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2011 (see r. 2(b) and Gazette 24 Mar 2011 p. 1035)
@@ -14,20 +14,23 @@ Planning and Development (Development Assessment Panels) Amendment Regulations (
 Planning and Development (Development Assessment Panels) Amendment Regulations 2021 | SL 2021/126 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Planning and Development (Development Assessment Panels) Amendment Regulations (No. 2) 2022 | SL 2022/89 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Planning and Development (Development Assessment Panels) Amendment Regulations (No. 2) 2023 | SL 2023/72 16 Jun 2023 | r. 1 and 2: 16 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Planning and Development (Development Assessment Panels) Amendment Regulations 2024 (other than r. 1 and 2) | SL 2024/27 21 Feb 2024 | 1 Mar 2024 (see r. 2(b))
+Planning and Development (Development Assessment Panels) Amendment Regulations 2024 | SL 2024/27 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accepted for assessment3(3)
-administrative officer3(1)
-alternate member3(1)
+accepted for assessment3(1) and (3)
+accreditation body3(1)
+accredited3(1)
 applicant3(1)
 application17A(1)
+approved form3(1)
+area of jurisdiction8(3)
 carport3(2)
+commencement day57(1)
+community housing3(1)
+community housing provider3(1)
 DAP application3(1)
+DAP executive director3(1)
 DAP member3(1)
 DAP website3(1), 51
 decision-maker18(1)
@@ -39,15 +42,19 @@ Director General3(1)
 document52(1)
 dwelling3(2)
 employed in the department49(1)
+entity50(2)
 excluded day or period12(4B)
 excluded development application3(1)
 gift46(1)
 grouped dwelling3(2)
 incidental development3(2)
 information52(1)
-local government member3(1)
-local government register3(1)
+JDAP57(1)
+LDAP57(1)
+local government DAP member3(1)
+local government register57(1)
 member3(1)
+member’s district46(1)
 multiple dwelling3(2)
 notifiable gift46(1)
 outbuilding3(2)
@@ -56,14 +63,16 @@ planning instrument3(1)
 presiding member3(1)
 prohibited gift46(1)
 public service officer49(1)
-R-Codes3(1)
-relevant administrative officer11(1)
-relevant local government25(2)
-relevant planning instrument11(1)
+R-codes3(1)
+registered community housing provider3(1)
+regular specialist DAP member3(1)
+relevant DAP17(1A)
+relevant local government23(2)
+relevant planning instrument3(1)
+sessional specialist DAP member3(1)
 single house3(2)
-specialist member3(1)
+specialist DAP member3(1)
 substantially commenced16A(1)
-warehouse3(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.
