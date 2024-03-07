@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Operators (Powers) Act 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Energy Operators (Powers) Act 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Energy Commission Act 1979 | 111 of 1979 | 21 Dec 1979 | 1 Feb 1980 (see s. 2 and Gazette 1 Feb 1980 p. 284)
@@ -47,6 +47,10 @@ Electricity Corporations Amendment Act 2013 s. 41 | 25 of 2013 | 18 Dec 2013 | 1
 Reprint 6: The Energy Operators (Powers) Act 1979 as at 14 Jun 2019 (includes amendments listed above)
 Electricity Industry Amendment Act 2020 s. 31 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 22 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 5 and Pt. 3 Div. 4 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
@@ -315,3 +319,7 @@ terms60(1)
 transfer event43(1aa)
 undertaking4(1)
 works4(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
