@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Industry Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Electricity Industry Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Industry Act 2004 | 5 of 2004 | 23 Apr 2004 | s. 1 and 2: 23 Apr 2004; s. 3, Pt. 4 (other than s. 65), Pt. 9 and 10: 23 Jun 2004 (see s. 2 and Gazette 22 Jun 2004 p. 2161); Pt. 8: 1 Jul 2004 (see s. 2 and Gazette 22 Jun 2004 p. 2161); Pt. 2, 3, 5 and 6, s. 65, Sch. 1 and Sch. 3 Div. 1: 31 Dec 2004 (see s. 2 and Gazette 12 Nov 2004 p. 5017); Pt. 7, Sch. 2 and Sch. 3 Div. 2: 25 Jun 2005 (see s. 2 and Gazette 24 Jun 2005 p. 2751)
@@ -17,6 +17,10 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Electricity Corporations Amendment Act 2013 s. 39 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 3: The Electricity Industry Act 2004 as at 29 Mar 2018 (includes amendments listed above)
 Electricity Industry Amendment Act 2020 Pt. 2 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 1 and Pt. 3 Div. 1 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Electricity Corporation Act 1994 was renamed as the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 Sch. 5 cl. 9.
 The Electricity Corporations Act 2005 Sch. 5 cl. 11 came into operation on 1 Apr 2006, see Gazette 31 Mar 2006 p. 1153.
@@ -148,3 +152,7 @@ transmission licence3(1)
 transmission system3(1)
 user129B, 129F(5), 129L
 Western Power Corporation46(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
