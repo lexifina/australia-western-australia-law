@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Transmission and Distribution Systems (Access) Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Transmission and Distribution Systems (Access) Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Corporation Act 1994 | 86 of 1994 | 15 Dec 1994 | Act other than s. 90, 91 and 93: 1 Jan 1995 (see s. 2(1) and Gazette 23 Dec 1994 p. 7069); s. 90 and 93: 1 Jan 1997 (see s. 2(2) and Gazette 31 Dec 1996 p. 7255); s. 91: 1 Jul 1997 (see s. 2(2) and Gazette 1 Jul 1997 p. 3249)
@@ -25,6 +25,12 @@ Electricity Legislation Amendment Act 2004 Pt. 2 Div. 2 | 33 of 2004 | 20 Oct 20
 Electricity Corporations Act 2005 Sch. 5 cl. 7-22 | 18 of 2005 (as amended by No. 8 of 2009 s. 50(3)(b)) | 13 Oct 2005 | Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153) Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
 Reprint 3: The Electricity Transmission and Distribution Systems (Access) Act 1994 as at 4 Aug 2006 (includes amendments listed above)
 Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 published in Gazette 26 Jun 2007 p. 3018-21 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 4 and Pt. 3 Div. 3 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
+Other notes
+Footnote no longer required.
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 Pt. 3 (as amended by the Electricity Corporations Act 2005 s. 139) reads as follows:
 “
 Part 3 — Transitional provisions for succession from Commission to New Corporations
@@ -271,8 +277,6 @@ effect, unless the contract expressly provides that the provision applies despit
 (2) The Electricity Transmission and Distribution Systems (Access) Act 1994 Schedule 6 clause 2(4) continues to have effect under subregulation (1) as if it were amended by deleting “effect.” and inserting instead —
 “
 effect, unless the contract expressly provides that the provision applies despite any inconsistency with the essential terms and conditions.
-”.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -289,3 +293,7 @@ regulations89(1)
 relevant provision95A(5)
 specified95A(5)
 user89(2)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
