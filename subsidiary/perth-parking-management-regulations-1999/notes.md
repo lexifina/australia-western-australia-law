@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Perth Parking Management Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Perth Parking Management Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Perth Parking Management Regulations 1999 | 16 Jul 1999 p. 3227-34 | 16 Jul 1999 (see r. 2 and Gazette 16 Jul 1999 p. 3183)
@@ -37,6 +37,10 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 
 Perth Parking Management Amendment Regulations 2022 | SL 2022/51 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Apr 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 2 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Perth Parking Management Act 2024 s. 159 assented to 7 Mar 2024 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -46,7 +50,7 @@ fire brigade3
 private road3
 road3
 vehicle of a disabled person2
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
