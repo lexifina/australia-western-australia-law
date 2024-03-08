@@ -57,6 +57,7 @@ Criminal Procedure Amendment Regulations (No. 2) 2022 | SL 2022/126 5 Jul 2022 |
 Criminal Procedure Amendment Regulations (No. 3) 2022 | SL 2022/127 5 Jul 2022 | r. 1 and 2: 5 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Electronic Processes) Regulations 2023 Pt. 3 | SL 2023/19 14 Mar 2023 | 15 Mar 2023 (see r. 2(b))
 Justice Regulations Amendment (Major Events) Regulations 2023 Pt. 2 | SL 2023/69 16 Jun 2023 | 17 Jun 2023 (see r. 2(b))
+Attorney General Regulations Amendment (Workers Compensation) Regulations (No. 2) 2024 Pt. 2 | SL 2024/29 7 Mar 2024 | 8 Mar 2024 (see r. 2(b))
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
@@ -75,3 +76,7 @@ produce electronically26(1A)
 remote communication9(1)
 specified document13B(1)
 trial date21
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -91,6 +91,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 9
 Justice Regulations Amendment (Major Events) Regulations 2023 Pt. 3 | SL 2023/69 16 Jun 2023 | 17 Jun 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 9 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2023 | SL 2023/180 15 Nov 2023 | r. 1 and 2: 15 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2023 (see r. 2(b))
+Attorney General Regulations Amendment (Workers Compensation) Regulations (No. 2) 2024 Pt. 3 | SL 2024/29 7 Mar 2024 | 8 Mar 2024 (see r. 2(b))
 Other notes
 Formerly referred to as the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996, the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -107,7 +108,7 @@ metropolitan region2A
 section2A
 warrant11B(1)
 WPI8AA(3), 8AC(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
