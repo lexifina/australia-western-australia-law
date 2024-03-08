@@ -13,7 +13,7 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (iii)for leave to serve a writ or notice of a writ out of jurisdiction | 433.00 | 748.00 | 100.00
  | (d)an application for leave to appeal | Nil | Nil | Nil
  | (e)another application for which no fee has been provided in this Schedule | 433.00 | 748.00 | 100.00
-5. | On filing — (a)an appeal notice | 653.00 | 1 689.00 | 100.00
+5. | On filing an appeal notice — (a)for a directions hearing and the first half day allocated for the hearing of the appeal | 653.00 | 1 689.00 | 100.00
  | (b)for each additional half day allocated for the hearing of the appeal | 506.00 | 1 315.00 | 100.00
  | Notes for this item: 1.The fee in paragraph (a) includes a directions hearing and the first half day allocated by the Court for the hearing of the appeal.
  | 2.The fee in paragraph (b) is payable for each half day, allocated by the Court for the hearing of the appeal, that is additional to the first half day of hearing.
@@ -21,11 +21,11 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
 6. | Entry of a cause or matter for hearing (including the assessment of damages in an action for personal injury) or entry of notice of an appointment to hear an originating summons | 1 152.00 | 2 246.00 | 100.00
  | Note for this item: This item does not apply to entering an appeal for hearing.
 7. | Allocation of hearing date, for each day allocated | 1 011.00 | 2 633.00 | 100.00
- | Notes for this item: 1.See regulation 10.
+ | Notes for this item: 1.See regulation 9.
  | 2.This item does not apply to the allocation of a hearing date for an appeal.
-8. | Daily hearing fee before a court constituted by a judge | 1 011.00 | 2 633.00 | 100.00
+8. | Daily hearing fee before a court constituted by a judge, for each hearing day in addition to any hearing day for which a fee has been paid under item 5(b) or 7 | 1 011.00 | 2 633.00 | 100.00
  | Notes for this item: 1.No fee is payable if the proceedings are of an interlocutory nature only.
- | 2.The fee to be charged is to be paid in respect of the number of hearing days or half days greater than the number of hearing days for which a fee has been paid under item 5 or 7.
+ | 2.If the Court allows more than 1 day for the continuation of the hearing and the hearing proceeds for more than that number of days, the fee is payable for each additional day or part day of the hearing.
  | 3.If the Court only allocates a half day or less for the continuation of the hearing then a fee equal to half the prescribed amount is payable for that period.
  | 4.The daily fee becomes payable on a day-to-day basis and is payable prior to the daily reconvening of the hearing.
 9. | On filing, before a judge or registrar in chambers —
@@ -34,7 +34,7 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (c)an application for summary judgment | 288.00 | 564.00 | 86.50
  | Notes for this item: 1.The fee includes the first day of hearing of the application, summons or motion and includes an adjournment of the hearing.
  | 2.The fee is payable in respect of an application exercising liberty to apply to relist.
-10. | If the hearing of a matter to which item 8 applies is listed for more than 1 day and proceeds for more than the number of days listed, the fee prescribed in item 8 is payable for each additional day or part day of hearing
+10. | If the hearing of a matter to which item 9 applies is listed for more than 1 day and proceeds for more than the number of days listed, the fee prescribed in item 9 is payable for each additional day or part day of hearing
  | Note for this item: The daily fee becomes payable on a day-to-day basis and is payable prior to the daily reconvening of the hearing.
 11. | On an appointment to tax a bill of costs in a cause or matter or under the Commercial Arbitration Act 2012 —
  | (a)lodgment fee | 288.00 | 564.00 | 86.50
@@ -67,4 +67,4 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (b)For providing a copy of a transcript, or part of a transcript, if the transcript or part has been provided to the person requesting the copy —
  | (i)electronic format | 28.10 per copy | 28.10 per copy | 8.45 per copy
  | (ii)paper copy | 2.80 per page | 2.80 per page | 0.85 per page
-[Schedule 1 inserted: SL 2023/120 r. 18.]
+[Schedule 1 inserted: SL 2023/120 r. 18; amended: SL 2024/32 r. 8.]
