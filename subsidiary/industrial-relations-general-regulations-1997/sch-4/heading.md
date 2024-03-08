@@ -77,8 +77,8 @@ Shire of York
 ## Division 2 — Regional local government employers
 [Heading inserted: SL 2022/100 r. 55.]
 Table
-Bunbury Harvey Regional Council | Eastern Metropolitan Regional Council
-Mindarie Regional Council | Murchison Regional Vermin Council
-Resource Recovery Group | Rivers Regional Council
-Tamala Park Regional Council | Western Metropolitan Regional Council
-[Division 2 inserted: SL 2022/100 r. 55.]
+Bunbury Harvey Regional Council | Catalina Regional Council
+Eastern Metropolitan Regional Council | Mindarie Regional Council
+Murchison Regional Vermin Council | Resource Recovery Group
+Rivers Regional Council | Western Metropolitan Regional Council
+[Division 2 inserted: SL 2022/100 r. 55; amended: SL 2024/31 r. 4.]
