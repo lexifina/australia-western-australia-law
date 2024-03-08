@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Perth Parking Management Act 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Perth Parking Management Act 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Perth Parking Management Act 1999 | 14 of 1999 | 19 May 1999 | s. 1 and 2: 19 May 1999; Act other than s. 1 and 2: 16 Jul 1999 (see s. 2 and Gazette 16 Jul 1999 p. 3183)
@@ -13,6 +13,11 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Reprint 2: The Perth Parking Management Act 1999 as at 15 Aug 2014 (includes amendments listed above)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 13 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 13 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Perth Parking Management Act 2024 Pt. 12 | 2 of 2024 | 7 Mar 2024 | 8 Mar 2024 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Perth Parking Management Act 2024 s. 157 | 2 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(c))
 Other notes
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 21(2) and (3) read as follows:
 (2) The balance of the Perth Parking Licensing Account as it was before this section came into operation is to be the opening balance of the account of that name established under the Perth Parking Management Act 1999 section 23(1) as amended by subsection (1).
@@ -22,8 +27,10 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 CEO4
+commencement day27(1)
 common property4
 community titles scheme4
+fundable project23(1A)
 infringement notice4
 inspector4
 licensee4
@@ -38,3 +45,7 @@ Perth Parking Policy4
 power assisted pedal cycle4
 strata titles scheme4
 vehicle4
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
