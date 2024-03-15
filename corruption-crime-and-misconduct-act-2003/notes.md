@@ -39,6 +39,7 @@ Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Ac
  | Reprint 7: The Corruption, Crime and Misconduct Act 2003 as at 24 May 2019 (includes amendments listed above)
 Corruption, Crime and Misconduct Amendment Act 2021 | 7 of 2021 | 25 Jun 2021 | s. 1 and 2: 25 Jun 2021 (see s. 2(a)); Act other than s. 1 and 2: 26 Jun 2021 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Corruption, Crime and Misconduct Amendment Act 2024 Pt. 2 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -148,6 +149,7 @@ Defined terms
 Defined termProvision(s)
 A-CC3(1)
 allegation3(1), 220(1)
+amending Act229
 ancillary activity132(1)
 appropriate authority3(1)
 appropriate entry105(6)
@@ -158,13 +160,13 @@ authorised person101(1), 148(8), 161(1)
 authority63, 119
 bipartisan support3(1)
 cancel108(3)
-capacity development function21AB(1)
+capacity development function21AA(1)
 chief officer102
 civilian participant119
 Commission3(1)
-Commission lawyer152(1)
 Commissioner3(1)
 Commissioner of Police3(1)
+Commission lawyer152(1)
 contractor3(1)
 controlled activity63, 119
 controlled operation63, 119
@@ -172,6 +174,7 @@ conveyance53(6)
 court114(1), 134(1), 152(1), 153(1), 208(1), 209(1)
 criminal activity63
 criminal benefit3(1)
+Deputy Commissioner3(1)
 Director of Public Prosecutions3(1)
 disciplinary action3(1)
 disciplinary offence3(1)
@@ -180,9 +183,10 @@ employee of the Police Department3(1)
 examination3(1), 162(1A)
 exceptional powers45
 exceptional powers finding45, 46(2)
-formal authority119, 121(2)(a)
-formal variation of an authority124(3)(a)
-former judgeSch. 2 cl. 4(6)
+formal authority119, 121(2)
+formal variation of an authority124(3)
+former Act229
+former judgeSch. 2 cl. 4(6), Sch. 2A cl. 4(4)
 fortification67(1)
 heavily fortified67(1)
 holder of a judicial office27(6)
@@ -202,6 +206,7 @@ misconduct matter42(1)
 nominating committee3(1)
 notation167(1)
 notice or summons167(1)
+notification day9C(3)
 notifying authority3(1)
 officer102
 officer of the Commission3(1)
@@ -211,7 +216,7 @@ officer participant119
 officers196(1)
 official219(1)
 official information152(1), 208(1)
-official matter99(1), 167(1)
+official matter98(1), 167(1)
 organised crime3(1)
 organised crime examination3(1)
 organised crime summons3(1)
@@ -237,8 +242,9 @@ register102
 registered nurse54(1)
 Registrar102
 related controlled activity132(1)
+relevant advertising230(1)
 relevant material101(1)
-relevant person152(1), 208(1)
+relevant person152(1), 208(1), 231(1)
 restricted matter151(1), 167(1)
 reviewable police action3(1)
 Schedule 1 offence3(1)
@@ -249,11 +255,16 @@ Standing Committee3(1)
 State Records Commission3(1)
 subcontractor3(1)
 submission67(1)
-submission period67(1), 69(2)(b)
+submission period67(1), 69(2)
+transition day229
 unexplained wealth3(1)
 unexplained wealth functions21AD(1)
 unexplained wealth requirement144(1A)
-urgent authority119, 121(2)(b)
-urgent variation of an authority124(3)(b)
+urgent authority119, 121(2)
+urgent variation of an authority124(3)
 warrant101(1)
 witness3(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -9,6 +9,7 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 38 | 35 of 20
 Terrorism (Preventative Detention) Amendment Act 2016 | 23 of 2016 | 12 Sep 2016 | 12 Sep 2016 (see s. 2)
 Terrorism (Preventative Detention) Amendment Act 2019 | 23 of 2019 | 8 Oct 2019 | s. 1 and 2: 8 Oct 2019 (see s. 2(a)); Act other than s. 1 and 2: 9 Oct 2019 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 5 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -77,3 +78,7 @@ senior police officer4(1)
 strip searchSch. 2 cl. 1
 subject17(1), 18(1), 22(2)
 terrorist act4(1), 6(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

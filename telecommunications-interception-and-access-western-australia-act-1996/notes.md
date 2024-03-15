@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Telecommunications (Interception and Access) Western Australia Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Telecommunications (Interception and Access) Western Australia Act 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Telecommunications (Interception) Western Australia Act 1996 | 44 of 1996 | 16 Oct 1996 | s. 1 and 2: 16 Oct 1996; Act other than s. 1 and 2: 25 Dec 1996 (see s. 2 and Gazette 24 Dec 1996 p. 7099)
@@ -12,6 +12,8 @@ Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 2 | 2
 Reprint 2: The Telecommunications (Interception and Access) Western Australia Act 1996 as at 6 Jan 2012 (includes amendments listed above)
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 12 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 4 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
+Other notes
 See Royal Commission (Police) Act 2002 s. 3(3) and Gazette 16 Apr 2004 p. 1214.
 Now known as the Telecommunications (Interception and Access) Western Australia Act 1996; short title changed (see note under s. 1).
 Defined terms
@@ -33,3 +35,7 @@ Police Force3(1)
 principal inspector3(1)
 responsible Minister3(1)
 warrant3(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

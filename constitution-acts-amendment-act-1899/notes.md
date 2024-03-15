@@ -312,6 +312,7 @@ Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 20
 Soil and Land Conservation Amendment Act 2022 s. 20 | 19 of 2022 | 24 Jun 2022 | 25 Jun 2022 (see s. 2(b))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 25 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 1 | 24 of 2023 | 24 Oct 2023 | 21 Dec 2023 (see s. 2(b) and SL 2023/203 cl. 2(b))
+Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 1 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -420,7 +421,7 @@ offence32(2)
 Person3
 remote communication45A(1)
 Treasurer3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
