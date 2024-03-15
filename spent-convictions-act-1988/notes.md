@@ -64,6 +64,7 @@ Short title | Number and year | Assent | Commencement
  | Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 19 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
  | Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 2 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
  | Spent Convictions (Act Amendment) Regulations 2023 (SL 2023/121) | r. 1 and 2: 2 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2023 (see r. 2(b))
+ | Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 3 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -99,7 +100,7 @@ official criminal record28(1A)
 principal17(1)
 serious conviction9
 spent conviction3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

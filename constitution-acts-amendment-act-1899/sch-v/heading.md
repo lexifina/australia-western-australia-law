@@ -30,7 +30,7 @@ Agent General appointed under the Agent General Act 1895.
 Chief executive officer of an agency within the meaning of the Public Sector Management Act 1994.
 Clerk of the Legislative Assembly.
 Clerk of the Legislative Council.
-Commissioner appointed under the Corruption, Crime and Misconduct Act 2003.
+Commissioner and Deputy Commissioner appointed under the Corruption, Crime and Misconduct Act 2003.
 Commissioner for Children and Young People appointed under the Commissioner for Children and Young People Act 2006.
 Commissioner of Police appointed under the Police Act 1892.
 Director of Public Prosecutions and Deputy Director of Public Prosecutions appointed under the Director of Public Prosecutions Act 1991.
@@ -46,7 +46,7 @@ An office —
 (a)referred to in the Salaries and Allowances Act 1975 section 6(1)(d) or (e); or
 (b)held by a person specified in column 2 of Schedule 2 to that Act for a Government entity as defined in section 7C(1) of that Act, whether or not the person is an executive officer as defined in that subsection.
 Solicitor-General appointed under the Solicitor-General Act 1969.
-[Division 2 inserted: No. 32 of 1994 s. 9(a); amended: No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 Sch. 2 cl. 6(1); No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 Sch. 1 cl. 30; No. 33 of 2010 s. 55; No. 39 of 2010 s. 73; No. 35 of 2014 s. 39; No. 46 of 2016 s. 11.]
+[Division 2 inserted: No. 32 of 1994 s. 9(a); amended: No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 Sch. 2 cl. 6(1); No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 Sch. 1 cl. 30; No. 33 of 2010 s. 55; No. 39 of 2010 s. 73; No. 35 of 2014 s. 39; No. 46 of 2016 s. 11; No. 5 of 2024 s. 28.]
 [Division 3 deleted: No. 32 of 1994 s. 9(a).]
 ## Part 2 — Offices or places vacated on election
 [Heading inserted: No. 19 of 2010 s. 14(5).]

@@ -7,6 +7,7 @@ Criminal Investigation (Identifying People) Amendment Act 2013 s. 30 | 22 of 201
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Statutes (Minor Amendments) Act 2017 s. 6 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Firearms Amendment Act 2022 Pt. 3 Div. 2 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
+Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 2 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -91,3 +92,7 @@ serious violence offence3(1)
 victim177(2)
 weapon3(1)
 working day3(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
