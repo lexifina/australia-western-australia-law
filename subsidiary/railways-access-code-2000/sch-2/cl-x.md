@@ -1,4 +1,3 @@
 ### Terms used
-1.In item 4 of this Schedule —
-gross tonnage of a train means the total of the weights of the rolling stock of the train and of the freight carried;
-tonnage of freight carried means the gross tonnage of the train less the weight of the rolling stock.
+1.In this Schedule —
+gross tonne kilometres of freight, of a train, means the weight of the freight carried on the train multiplied by the distance travelled by the train in kilometres.
