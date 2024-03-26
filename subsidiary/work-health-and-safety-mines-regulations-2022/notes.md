@@ -1,15 +1,23 @@
 Notes
-This is a compilation of the Work Health and Safety (Mines) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Work Health and Safety (Mines) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Work Health and Safety (Mines) Regulations 2022 (other than r. 58) | SL 2022/32 11 Mar 2022 | Regulations other than r. 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c))
 Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/214 23 Dec 2022 | 24 Dec 2022 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 3 | SL 2023/134 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
+Work Health and Safety (Mines) Regulations 2022 with editorial changes as at 26 Mar 2024
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Work Health and Safety (Mines) Regulations 2022 r. 58 | SL 2022/32 11 Mar 2022 | 31 Mar 2024 (see r. 2(b))
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 698N(c) | s. 26(1) | 26 Mar 2024
+Other notes
+Formerly known as Australian Petroleum Production and Exploration Association Limited.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -443,7 +451,7 @@ work box5
 worker monitoring plan641I(1)
 workers’ accommodation55D(1A)
 work positioning system5
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
