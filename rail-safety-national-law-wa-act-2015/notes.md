@@ -1,10 +1,14 @@
 Notes
-This is a compilation of the Rail Safety National Law (WA) Act 2015 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Rail Safety National Law (WA) Act 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rail Safety National Law (WA) Act 2015 | 21 of 2015 | 17 Sep 2015 | s. 1 and 2: 17 Sep 2015 (see s. 2(a); Act other than s. 1 and 2: 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 Health Services Act 2016 s. 302 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 119 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Rail Safety National Law Application Act 2024 s. 48(1) | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -221,3 +225,7 @@ work shift9(1)
 work shift location9(1)
 writingSch. 2 cl. 12(1)
 yearSch. 2 cl. 12(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
