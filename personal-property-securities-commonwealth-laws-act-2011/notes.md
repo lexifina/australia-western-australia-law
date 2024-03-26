@@ -9,6 +9,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Personal Property Securities (Commonwealth Laws) Act 2011 s. 8(2) and (3) | 41 of 2011 | 4 Oct 2011 | s. 8(2) and (3): to be proclaimed (see s. 2(1)(d) and 2(2))
+Rail Safety National Law Application Act 2024 s. 58 | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -54,7 +55,7 @@ transitional matter19(1)
 transitional regulations19(1)
 water right3
 writing5(4)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
