@@ -199,6 +199,7 @@ Firearms Amendment Act 2022 Pt. 3 Div. 1 | 13 of 2022 | 18 May 2022 | 15 Jun 202
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2022 Pt. 2 | 15 of 2022 | 27 May 2022 | 28 May 2022 (see s. 2(b))
 Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 3 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 2 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Abortion Legislation Reform Act 2023 Pt. 2 | 20 of 2023 | 27 Sep 2023 | 27 March 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 30 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
@@ -206,7 +207,6 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
-Abortion Legislation Reform Act 2023 Pt. 2 | 20 of 2023 | 27 Sep 2023 | 27 March 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -259,7 +259,7 @@ animal370
 animal source food production70A(1)
 animal source food production facility70A(1)
 animal source food production place70A(1)
-animosity towards75
+animosity towards76
 anything266(1)
 applies force222
 assault1(1), 222
@@ -299,7 +299,7 @@ conveyance1(1), 284(1), 390A(1)
 court5(1)
 court of summary jurisdiction1(1)
 CP Act720
-criminally responsible1
+criminally responsible1(1)
 criminal organisation221C(1), 221D(1)
 criminal responsibility1(1)
 current offence401B(1), 401(4)
@@ -362,7 +362,7 @@ information81(1)
 in relation to his principal’s affairs or business546
 interfere with70A(1)
 intimate image221BA
-intimate image offence221BD(1)
+intimate image offence221BE(1)
 intimate personal relationship299(2)
 intimidate338D(1)
 intoxicant206(1)
@@ -378,7 +378,6 @@ licensed premises75A(4)
 lineal relative329(1)
 material204A(1), 217A
 media activity purposes221BD(1)
-medical practitioner199(4)
 member76
 member of the crew1(1)
 mental illness1(1)
@@ -416,7 +415,7 @@ prescribed circumstances297(8), 318(5)
 prescribed offence299(1), 321A(1)
 prescribed place68B(1)
 principal546
-principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1), 553(1), 558(1), 562(1)
+principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1),553(1), 558(1), 562(1)
 print98(1), 99(1)
 prior relevant convictions401A(4)
 prison145(1)
@@ -425,7 +424,7 @@ prohibited conduct187(1)
 property1(1), 371(7), 414
 provider305A(3)
 provocation245
-public officer1(1), 84
+public officer(1), 84
 public place1(1)
 public servant81(1)
 publish76, 98(1), 99(1), 345(7)
@@ -492,7 +491,7 @@ volatile substance206(1)
 wilfully destroy or damage443
 writing397
 written or pictorial material76
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

@@ -14,7 +14,6 @@ s. 144 | Forcibly freeing certain offenders from custody
 s. 186 | Occupier or owner permitting a young person to be on premises for unlawful carnal knowledge
 s. 191 | Procuration
 s. 192(1), (3) and (4) | Procuring unlawful carnal knowledge of a person by threats, intimidation or drugs
-s. 199 | Abortion
 s. 279 | Murder
 s. 280 | Manslaughter
 s. 281 | Unlawful assault causing death
@@ -75,7 +74,7 @@ s. 455 | Attempting to cause explosion likely to do serious damage to property
 s. 456 | Attempts to damage or obstruct mines
 s. 457 | Interfering with marine signals
 s. 458 | Interfering with navigation works
-[Part 1 inserted: No. 48 of 1991 s. 10; amended: No. 14 of 1992 s. 15(2); No. 82 of 1994 s. 13(4)(a); No. 69 of 1996 s. 31; No. 15 of 1998 s. 6(1); No. 23 of 2001 s. 10(3); No. 3 of 2002 s. 41(3); No. 4 of 2004 s. 24, 26 and 61(6); No. 2 of 2008 s. 55; No. 29 of 2008 s. 33.]
+[Part 1 inserted: No. 48 of 1991 s. 10; amended: No. 14 of 1992 s. 15(2); No. 82 of 1994 s. 13(4)(a); No. 69 of 1996 s. 31; No. 15 of 1998 s. 6(1); No. 23 of 2001 s. 10(3); No. 3 of 2002 s. 41(3); No. 4 of 2004 s. 24, 26 and 61(6); No. 2 of 2008 s. 55; No. 29 of 2008 s. 33; No. 20 of 2023 s. 22(1).]
 ## Part 2 — Offences under the Road Traffic Act 1974
 [Heading inserted: No. 48 of 1991 s. 10.]
 Provision | Description of offence
@@ -119,4 +118,3 @@ s. 33(1) | Attempting to commit an indictable offence under section 6(1) or 7(1)
 s. 33(2) | Conspiring with another to commit an indictable offence under section 6(1) or 7(1)
 s. 33(3) | Inciting another to commit, or becoming an accessory after the fact to, a crime under section 6(1) or 7(1)
 [Part 5 inserted: No. 48 of 1991 s. 10; amended: No. 62 of 2004 s. 9(2).]
-[The Third Schedule deleted: No. 70 of 1988 s. 44.]

@@ -11,15 +11,16 @@ Public Health Amendment (COVID-19 Response) Act 2020 | 33 of 2020 | 21 Aug 2020 
 Public Health Amendment (Safe Access Zones) Act 2021 | 9 of 2021 | 17 Aug 2021 | s. 1 and 2: 17 Aug 2021 (see s. 2(a)); Act other tha s. 1 and 2: 18 Aug 2021 (see s. 2(b))
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 5 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 51 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Abortion Legislation Reform Act 2023 Pt. 3 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1, and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
+Public Health Act 2016 s. 7 and 8, Pt. 5-8, 10, 14, Pt. 18 Div. 3, Pt. 19 Div. 1, and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | Pt. 5, 8 and 14, Pt. 18 Div. 3 and Pt. 19 Div. 1 (but only s. 294): 4 Jun 2024 (see s. 2(c) and SL 2024/65 cl. 2); s. 7 and 8, Pt. 6, 7 and 10, s. 295 and 296 and Pt. 20 (s. 313-320): to be proclaimed (see s. 2(c))
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 3 Div. 3 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2024 (see s. 2(c) and SL 2022/175 cl. 2)
-Abortion Legislation Reform Act 2023 Pt. 3 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+abortion drug202MA
 activity licence4(1)
 acute rheumatic fever91(1)
 Advisory Panel143
@@ -30,7 +31,7 @@ appropriate enforcement agency4(1)
 approved form4(1)
 Australian Immunisation Register141A
 authorisation154(1), 176(1), 181(1), 198(1)
-authorised officer4(1) and (2)
+authorised officer4(1), 4(2)
 CEO4(1)
 certificate of registration4(1)
 certificate requirement31(1)
@@ -39,7 +40,7 @@ child99, 115, 132, 141A, 155, 177, 202G
 child care service4(1)
 class A26(1)
 code305(1)
-commencement day311(1)
+commencement day311(1), 323
 Commissioner of Police4(1)
 community kindergarten4(1)
 compliance plan266
@@ -58,8 +59,10 @@ departmental officer4(1)
 designate23, 299(1)
 designated officer299(1)
 designation23
+directing practitioner202MF
 direction198(1)
 disability115, 155, 177
+dispense202MA
 distribute202O
 emergency area4(1)
 emergency management4(1)
@@ -77,11 +80,14 @@ exemption266
 exemption-holder266
 exposed person132
 general public health duty4(1)
-guardian202G
+guardian202G, 202MM(1)
 guidelines299(1)
 harm4(1)
 Health Act307(1)
+health profession4(1)
 health professional174(1)
+health service202MA
+health service provider202MA
 hotel 202G
 hotel-quarantined person202G
 IDEC declaration4(1), 202A(1)
@@ -102,6 +108,7 @@ judicial officer4(1)
 material public health risk4(1)
 medical examination4(1)
 medical practitioner4(1)
+medicine202MA
 midwife4(1)
 Minister266
 needle and syringe programme4(1)
@@ -113,13 +120,24 @@ nurse practitioner4(1)
 officer299(1)
 order92(1), 129(1)
 parent202G
+patient202MI(1), 202MM(2)
+perform an abortion202MA
+performs an abortion202MB(1)
+person202MA
 person A26(1)
 personal details4(1)
 person in charge141A
+pharmacist202MA
 poison197(1)
 premises4(1)
 premises at which abortions are provided202O
+prescribe202MA
 prescribed condition of health4(1)
+prescribing practitioner202MA, 202MD(1)
+prescription202MA
+primary clinical supervisor202MA
+primary practitioner202ME(1)
+private hospital service provider202MA
 production requirement31(1)
 protected person99, 115
 public authority4(1)
@@ -137,14 +155,18 @@ quarantine direction4(1)
 reasonably suspects239
 record244(1)
 recording202O
+refusing practitioner202MI(1)
+registered health practitioner202MA
 relative99, 115, 132, 155, 177
 relevant amendments306A(1)
 relevant counselling99
+relevant health profession202MA
 relevant information188(1), 299(1)
 relevant officer286(1)
-relevant person100(1), 106(3), 124(3), 158(1), 185(1)
+relevant person100(1), 106(3), 124(3), 158(1), 185(1), 202MA
 relevant to an offence244(1)
 remote communication4(1)
+requesting person202MH(2)
 required information132
 residual term311(1)
 responsible Minister274(3)
@@ -160,11 +182,16 @@ senior police officer4(1)
 serious public health incident power4(1)
 serious public health risk4(1)
 specified23, 322(1)
-specified information298(1)
+specified information297A(1)
+student4(1), 202MA
+student register202MA
 subsidiary legislation305(1)
+supervising person202MJ(1)
+supply202MA
 test order4(1)
 thing244(1)
 transitional matter322(1)
+unqualified person202MN(2), (3), (4), (5), (6), (7), (8)
 urgently notifiable infectious disease4(1)
 urgently notifiable infectious disease-related condition4(1)
 vaccine preventable notifiable infectious disease4(1)
@@ -173,7 +200,7 @@ vessel4(1)
 welfare services188(1)
 working day4(1)
 World Health Organization299(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

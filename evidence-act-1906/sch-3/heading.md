@@ -1,11 +1,9 @@
-## The Fifth Schedule
-[Section 61]
+## The Fourth Schedule
+[Section 57]
 Column 1 | Column 2
-Name of officer, department, body or board | Names of certifying officers
-The Governor | The Governor or his Private Secretary
-The Governor in Executive Council | The Clerk of the Executive Council
-The Legislative Council or Legislative Assembly | The Clerk or Clerk Assistant
-Any department of the Public Service | The chief executive officer of that department
-Any body, whether incorporated or not, that is established for a public purpose by a written law | The chief executive officer, the chief employee, the chairman or the secretary (whichever is relevant) of the body
-The Police Force | The Commissioner of Police
-[The Fifth Schedule amended: No. 8 of 1925 s. 2; No. 6 of 2003 s. 85(2); No. 28 of 2006 s. 37.]
+Name of department or officer | Names of certifying officers
+The Commissioners of the Treasury | Any Commissioner, Secretary, or Assistant Secretary of the Treasury
+The Commissioners for executing the office of Lord High Admiral | Any of the Commissioners for executing the office of Lord High Admiral or either of the Secretaries to the said Commissioners
+Secretaries of State | Any Secretary or Under Secretary of State
+Committee of Privy Council for Trade | Any member of the Committee of Privy Council for Trade, or any Secretary or Assistant Secretary of the said Committee
+The Poor Law Board | Any Commissioner of the Poor Law Board, or any Secretary or Assistant Secretary of the said board.

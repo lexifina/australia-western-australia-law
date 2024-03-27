@@ -1,24 +1,11 @@
-## The Sixth Schedule
-[Heading inserted: No. 16 of 1956.]
-[s. 47(1a)]
-Western Australia
-Evidence Act 1906
-(In the (a) ..............................................................................................................)
-(b) ...........................................................................................................................
-IN THE MATTER of (c) by ........................
-......................................................... against ................................................
-......................................................................................................................
-I .............................................. of ................................................................
-..................................................................................., a fingerprint expert attached to the (d) ........................................................................................
-make oath and say as follows —
-1.I have examined the fingerprint card, now produced and shown to me marked “A”. The fingerprints on the card are identical with those on a fingerprint card, portion of the records of the (d) ........... ............................................................ being the fingerprints of one ............................................................ alias ..................................... .............................................................
-2.According to those records, which I believe to be accurate, the said ............................................ has been convicted of the offences set out below, namely —
-(Here insert description of offences, the courts in which the convictions took place and the dates of the convictions.)
-3.From an examination of those records I believe that the person referred to as having been convicted, in the document(s) now shown to me and marked respectively “B” (“C”, “D”, etc.), is identical with the person whose fingerprints are on the card marked “A”.
-Sworn at .................................................... this ................................................. day of ................................................... 20 .
-Before me
-......................................................................................................................
-A person having authority to take affidavits in
-......................................................................................................................
-((a) Designation of court) ((b) Parties) ((c) Description of legal proceedings, e.g. “an action”, “a prosecution notice”, “an indictment”) ((d) Designation of department)
-[The Sixth Schedule inserted: No. 16 of 1956; amended: No. 84 of 2004 s. 80.]
+## The Fifth Schedule
+[Section 61]
+Column 1 | Column 2
+Name of officer, department, body or board | Names of certifying officers
+The Governor | The Governor or his Private Secretary
+The Governor in Executive Council | The Clerk of the Executive Council
+The Legislative Council or Legislative Assembly | The Clerk or Clerk Assistant
+Any department of the Public Service | The chief executive officer of that department
+Any body, whether incorporated or not, that is established for a public purpose by a written law | The chief executive officer, the chief employee, the chairman or the secretary (whichever is relevant) of the body
+The Police Force | The Commissioner of Police
+[The Fifth Schedule amended: No. 8 of 1925 s. 2; No. 6 of 2003 s. 85(2); No. 28 of 2006 s. 37.]
