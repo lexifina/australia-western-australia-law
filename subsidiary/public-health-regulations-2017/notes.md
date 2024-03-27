@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Health Regulations 2017 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Public Health Regulations 2017 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Public Health Regulations 2017 | 19 Sep 2017 p. 4909-29 | Pt. 1: 19 Sep 2017 (see r. 2(a)); Pt. 2-6: 20 Sep 2017 (see r. 2(b) and Gazette 19 Sep 2017 p. 4879)
@@ -11,14 +11,12 @@ Public Health Amendment Regulations (No. 2) 2021 | SL 2021/122 16 Jul 2021 | r. 
 Public Health Amendment Regulations 2023 | SL 2023/38 5 May 2023 | r. 1 and 2: 5 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2023 (see r. 2(b))
 Public Health Amendment Regulations (No. 3) 2023 | SL 2023/136 23 Aug 2023 | r. 1 and 2: 23 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Aug 2023 (see r. 2(b))
 Public Health Amendment Regulations (No. 4) 2023 | SL 2023/151 4 Oct 2023 | r. 1 and 2: 4 Oct 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Health Regulations Amendment (Abortion Legislation Reform) Regulations 2024 Pt. 4 | SL 2024/20 21 Feb 2024 | 27 Mar 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Australian Immunisation Handbook10A(1)
+endorsed midwife13C(1)
 government school10A(1)
 HIV infection notification form6(5)
 National Health and Medical Research Council10A(1)

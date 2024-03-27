@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health and Disability Services (Complaints) Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Health and Disability Services (Complaints) Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Health Services (Conciliation and Review) Regulations 2010 | 21 May 2010 p. 2159-73 | r. 1 and 2: 21 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2010 (see r. 2(b))
@@ -8,9 +8,6 @@ Reprint 1: The Health and Disability Services (Complaints) Regulations 2010 as a
 Health and Disability Services (Complaints) Amendment Regulations 2015 | 29 Dec 2015 p. 5172-3 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Health Services (Consequential Amendments) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2311-15 | 1 Jul 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291)
 Health and Disability Services (Complaints) Amendment Regulations 2023 | SL 2023/115 26 Jul 2023 | r. 1 and 2: 26 Jul 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jul 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Health Regulations Amendment (Abortion Legislation Reform) Regulations 2024 Pt. 2 | SL 2024/20 21 Feb 2024 | 27 Mar 2024 (see r. 2(b))
 Other notes
 Now known as the Health and Disability Services (Complaints) Regulations 2010; citation changed (see note under r. 1).

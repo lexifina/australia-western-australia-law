@@ -32,7 +32,7 @@ Item | Provision | Description of offence
 12. | s. 190 | Being involved with prostitution
 13. | s. 191 | Procuring person to be prostitute etc.
 14. | s. 192 | Procuring person to have unlawful carnal knowledge by threat, fraud or administering drug
-15. | s. 199 | Abortion
+[15.deleted]
 16. | s. 204A | Showing offensive material to child under 16
 17. | s. 204B | Using electronic communication to procure, or expose to indecent matter, child under 16
 18. | s. 206 | Supplying intoxicant to person likely to abuse them
@@ -102,7 +102,7 @@ Item | Provision | Description of offence
 82. | s. 401 | Burglary
 83. | s. 407 | Person found armed etc. with intent to commit crime
 84. | s. 409 | Fraud
-[Division 3 inserted: SL 2023/115 r. 7.]
+[Division 3 inserted: SL 2023/115 r. 7; amended: SL 2024/20 r. 4.]
 ## Division 4 — Offences under Human Reproductive Technology Act 1991
 [Heading inserted: SL 2023/115 r. 7.]
 Item | Provision | Description of offence
@@ -132,6 +132,11 @@ Item | Provision | Description of offence
 3. | s. 17 | Obtaining payment for prostitution by child
 4. | s. 18 | Agreement for prostitution by child
 [Division 7 inserted: SL 2023/115 r. 7.]
+## Division 7A — Offences under Public Health Act 2016
+[Heading inserted: SL 2024/20 r. 5.]
+Item | Provision | Description of offence
+1. | s. 202MN | Performance of abortion by unqualified person
+[Division 7A inserted: SL 2024/20 r. 5.]
 ## Division 8 — Offences under Restraining Orders Act 1997
 [Heading inserted: SL 2023/115 r. 7.]
 Item | Provision | Description of offence
