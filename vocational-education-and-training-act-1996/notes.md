@@ -15,10 +15,12 @@ Acts Amendment (Bankruptcy) Act 2009 s. 88 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Procurement Act 2020 Pt. 10 Div. 6 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
+Vocational Education and Training Amendment Act 2024 (other than s. 6) | 8 of 2024 | 26 Mar 2024 | s. 1 and 2: 26 Mar 2024 (see s. 2(a)); s. 3-5 and 7: 27 Mar 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
+Vocational Education and Training Amendment Act 2024 s. 6 | 8 of 2024 | 26 Mar 2024 | To be proclaimed (see s. 2(c))
 Other notes
 Pt. 7 (s. 58-62) and Sch. 2 of this Act had not come into operation when they were deleted by the Training Legislation Amendment and Repeal Act 2008 s. 39 and 48.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
@@ -48,6 +50,7 @@ chief executive5(1)
 class60A
 closing day57A(1)
 college5(1)
+commencement daySch. 2 cl. 2(1)
 corporation7B(1), 7(1)
 corresponding law5(1)
 Council5(1)
@@ -69,9 +72,13 @@ school5(1)
 State Training Plan5(1)
 State training system5(1)
 training contract60A
-training market5(2)
+training market4(2)
 training provider5(1)
 university5(1)
 VET course5(1)
 VET inspector5(1)
 vocational education and training5(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
