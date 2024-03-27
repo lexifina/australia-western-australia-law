@@ -41,6 +41,7 @@ Community Titles Act 2018 Pt. 14 Div. 12 | 32 of 2018 | 19 Nov 2018 | 30 Jun 202
 Swan Valley Planning Act 2020 Pt. 10 Div. 6 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Land Tax Assessment Amendment Act 2022 | 42 of 2022 | 21 Nov 2022 | Pt. 2: deemed to have come into operation on 1 Jul 2020 (see s. 2(b)); Pt. 1: 21 Nov 2022 (see s. 2(a)); Act other than Pt. 1 and 2: 22 Nov 2022 (see s. 2(c))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 7 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
+Land Tax Assessment Amendment (Residential Construction Exemptions) Act 2024 | 9 of 2024 | 26 Mar 2024 | s. 1 and 2: 26 Mar 2024 (see s. 2(a)); Act other than s. 1 and 2: 27 Mar 2024 (see s. 2(b))
 Land Tax Assessment (Build-to-Rent) Amendment Act 2024 | 22 of 2024 | 15 May 2024 | Act other than s. 1 and 2: deemed to have come into operation on 1 Jul 2023 (see s. 2(b)(ii)); s. 1 and 2: 15 May 2024 (see s. 2(a))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 3 Div. 2.
@@ -91,7 +92,9 @@ commencement dateGl. cl. 1
 commencement daySch. 1 cl. 24(1)
 commencement yearSch. 1 cl. 24(1)
 community title lot39E
+completion28H(1), 28I(1)
 completion dateGl. cl. 1
+completion year28F(1), 28G(1)
 compliant trusteeSch. 1 cl. 9(1) and 20(1)
 conservation covenantGl. cl. 1
 deceased30E
@@ -103,6 +106,7 @@ diversification leaseGl. cl. 1
 diversification lesseeGl. cl. 1
 dwelling or residential park39A, Sch. 1 cl. 23(1)
 dwelling park39A
+exceptional circumstances28H(1), 28I(1)
 excluded land39A, 39E
 exemptGl. cl. 1
 exempt area18A(2)
@@ -112,7 +116,7 @@ exempt expansion build-to-rent development39E
 exemption percentage39E
 exemption period28A
 exemption provision18(1), 18A(1), 28A
-exempt purposeGl. 1
+exempt purposeGl. cl. 1
 family corporation29, 30H
 family member29
 family owner29, 30H
@@ -123,7 +127,7 @@ former section 20Sch. 1 cl. 8(1)
 former section 30Sch. 1 cl. 7(1)
 full-time care26B(2)
 home lotGl. cl. 2(4)
-home unitGl. 1
+home unitGl. cl. 1
 improvementsGl. cl. 1
 improvement schemeGl. cl. 1
 individual30I(1)
@@ -153,7 +157,7 @@ old Part 3 Division 4ASch. 1 cl. 23(1)
 operate39A
 original assessment year38AC(8)
 other lotsGl. cl. 2(4)
-ownerGl. 1
+ownerGl. cl. 1
 owner-builderGl. cl. 1
 owner-occupied home site39A
 P%15A(3)
@@ -171,23 +175,22 @@ previously exempt landSch. 1 cl. 3
 primary production29
 primary production business29
 primary residenceGl. cl. 1
-private residenceGl. cl. 1
+private residence28G(1), Gl. cl. 1
 private residential propertyGl. cl. 1
 produce animals30A(1)
 professional associationGl. cl. 1
 promote trade, industry or commerceGl. cl. 1
 property A27(1)
-property B26B(1)
+property B27(1)
 public charitable or benevolent institution37(1)
 public statutory authorityGl. cl. 1
 registeredGl. cl. 1
 related29
-relevant 2-year exemption provision28D
 relevant bodyGl. cl. 1
 relevant event or circumstance20A(3)
-relevant exemption provisionSch. 1 cl. 21(3)
+relevant exemption provision28D, Sch. 1 cl. 21(3)
 relevant financial years15A(2), 15B(1)
-relevant owners28E(1), 28E(1)
+relevant owners28E(1)
 relevant period28E(1)
 relevant requirements18(1), 18A(1)
 relevant year20A(1), Sch. 1 cl. 23(1)
@@ -197,20 +200,20 @@ residence contract39(1)
 residential care38A(1)
 residential park39A
 residential premises39(1)
-residential tenancy agreement39E
+residential tenancy agreement 39E
 retirement village39(1), Gl. cl. 1
 retirement village scheme39(1)
 rural business land assessmentSch. 1 cl. 10
 rural land29
 shareholder30J
 short-stay site39A
-social housing premises39E
+social housing premises 39E
 sportGl. cl. 1
 sports associationGl. cl. 1
-strata lot39E
+strata lot 39E
 subdividedGl. cl. 1
 subdividing ownerGl. cl. 1
-substantial renovation39F(2)
+substantial renovation 39F(2)
 Swan Valley Planning SchemeGl. cl. 1
 taxable authorityGl. cl. 1
 taxable landGl. cl. 1
@@ -224,7 +227,7 @@ unsatisfied requirements28B(1)
 validation periodSch. 1 cl. 10 and 16
 X%15A(3A), 39B(2)
 Y%15A(3A)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
