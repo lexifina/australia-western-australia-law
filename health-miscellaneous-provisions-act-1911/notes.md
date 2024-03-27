@@ -144,11 +144,11 @@ Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
  | Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
  | Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
  | Major Events Act 2023 s. 110 | 12 of 2023 | 22 May 2023 | 23 May 2023 (see s. 2(b))
+ | Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11 and Div. 16 (s. 249-271, 273 and 275) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
@@ -230,8 +230,9 @@ Agvet Code of Western Australia3(1)
 analyst3(1)
 Analytical Committee3(1), 247AA
 apparatus for the treatment of sewage3(1), 100(4)(a)
-authorised officer3(1) and (2A)
+authorised officer3(1), (2A)
 authorised person173
+birth331
 cellar3(1)
 CEO3(1)
 certificate of approval173
@@ -256,7 +257,6 @@ food3(1)
 HIV infection3(1)
 house3(1)
 infectious disease3(1)
-informed consent334(5)
 investigator340A, 340AA, 340BA
 land3(1)
 lodging-house3(1)
@@ -270,6 +270,7 @@ midwife3(1)
 milk3(1)
 Minister3(1)
 municipal fund3(1)
+neonatal death331
 newspaper3(1)
 nurse3(1)
 nurse practitioner3(1)
@@ -278,7 +279,8 @@ offensive3(1)
 offensive matter3(1)
 offensive trade186(1)
 owner3(1), 100(4)(a)
-person in default116(e)
+perform an abortion331
+person in default116
 pesticide3(1)
 Pesticides Advisory Committee246
 piggery3(1)
@@ -306,6 +308,7 @@ section 13179(7)
 sell3(1)
 sewage3(1)
 sewer3(1)
+still-birth331
 street3(1)
 therapeutic use3(1)
 this Act3(1)
@@ -316,7 +319,7 @@ vessel3(1)
 WALGA247AA
 Water supply129
 writing3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
