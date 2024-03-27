@@ -27,6 +27,7 @@ High Risk Serious Offenders Act 2020 Pt. 9 Div. 4 | 29 of 2020 | 9 Jul 2020 | 26
 Family Violence Legislation Reform Act 2020 Pt. 4 (other than s. 37) | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(ii))
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 61 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 2 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
+Sentence Administration Amendment (Monitoring Equipment) Act 2024 | 6 of 2024 | 26 Mar 2024 | s. 1 and 2: 26 Mar 2024 (see s. 2(a)); Act other than s. 1 and 2: 27 Mar 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -179,7 +180,7 @@ victim’s submission4(2), 5C(1)
 violent personal offence5D(1)
 WDO4(3)
 work and development order4(2)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
