@@ -1,16 +1,12 @@
 Notes
-This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
-Work Health and Safety (General) Regulations 2022 (other than r. 58) | SL 2022/31 11 Mar 2022 | Regulations other than r. 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 49(2), (3) and (4), 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c))
+Work Health and Safety (General) Regulations 2022 | SL 2022/31 11 Mar 2022 | Regulations other than r. 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 49(2), (3) and (4), 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c)); r. 58: 31 Mar 2024 (see r. 2(b))
 Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/214 23 Dec 2022 | 24 Dec 2022 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
 Work Health and Safety (General) (Fees) Amendment Regulations 2023 | SL 2023/42 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 2 | SL 2023/134 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Work Health and Safety (General) Regulations 2022 r. 58 | SL 2022/31 11 Mar 2022 | 31 Mar 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -44,6 +40,7 @@ AS/NZS 1576 Parts 1 to 6225(1A)
 AS/NZS 2815171(1A)
 assistance48(1A)
 at a workplace184C
+audiometric testing58(1A)
 authorised RTO318A
 biological monitoring5
 blood lead level5
@@ -78,7 +75,7 @@ commercial vehicle184C
 commercial vehicle driver184C
 compatible357(2A)
 competency assessment5
-competent person5, 235(1B), 241(1A), 252(1A)
+competent person5, 235(1B), 240(1A), 252(1A)
 concrete panel5, 306A(1)
 concrete placing boom5
 confined space5
@@ -94,12 +91,12 @@ control measure5
 conveyor5
 correct classification5
 correctly classifiedSch. 9 cl. 1(1), (2) and (3)
-correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2) and 10(1)
+correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2),7(2), 8(2), 9(2) and 10(1)
 correctly packedSch. 9 cl. 2(1) and (2)
 crane5
 current certificate of medical fitness5
-current class721(3)
-danger zone166A(1)
+current class721(2)
+danger zone166A
 de-energised5
 demolition licence5
 demolition or refurbishment447(1A)
@@ -206,7 +203,7 @@ medical examination notice5, 55E, 55F(1)
 membrane filter method5
 mixture5
 mobile crane5
-motor vehicle184C
+motor vehicle184B
 moving82(3)
 musculoskeletal disorder5
 NATA5
@@ -269,7 +266,7 @@ retailer5
 reviewable decisions676(1)
 rigging work5
 roll-over protective structure216(1A)
-roof5, 50A
+roof5, 50(3)
 roof space153(1)
 RTO5
 safe oxygen level5
@@ -320,7 +317,7 @@ work box5
 workers’ accommodation55D(1A)
 work positioning system5
 work time184C
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
