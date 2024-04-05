@@ -7,9 +7,18 @@ Guardianship and Administration Amendment Regulations 2009 | 15 Sep 2009 p. 3583
 Guardianship and Administration Amendment Regulations (No. 2) 2009 | 18 Dec 2009 p. 5168-9 | r. 1 and 2: 18 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2010 (see r. 2(b) and Gazette 8 Jan 2010 p. 9)
 Reprint 1: The Guardianship and Administration Regulations 2005 as at 5 Mar 2010 (includes amendments listed above)
 Guardianship and Administration Amendment Regulations 2022 | SL 2022/102 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Aug 2022 (see r. 2(b))
+Guardianship and Administration Amendment Regulations 2024 | SL 2024/42 4 Apr 2024 | r. 1 and 2: 4 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Agency8A(1)
+CEO8A(1)
 commencement day9(1)
+Commission8A(1)
+Commissioner8A(1)
 former regulations9(1)
 transitional period9(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
