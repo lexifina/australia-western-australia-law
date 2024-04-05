@@ -64,6 +64,7 @@ Attorney General Regulations Amendment (Legal Profession) Regulations 2022 Pt. 5
 State Administrative Tribunal Amendment Regulations 2023 | SL 2023/49 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 2) 2023 | SL 2023/169 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
+State Administrative Tribunal Amendment Regulations 2024 | SL 2024/39 4 Apr 2024 | r. 1 and 2: 4 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2024 (see r. 2(b))
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
@@ -102,7 +103,7 @@ RWI Act61(1)
 ST Act63(1)
 time for making an application28(3)
 transfer day42
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
