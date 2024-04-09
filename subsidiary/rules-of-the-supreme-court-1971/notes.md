@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -153,10 +153,7 @@ Supreme Court Amendment Rules (No. 2) 2021 | SL 2021/65 1 Jun 2021 | r. 1 and 2:
 Supreme Court Amendment Rules 2022 | SL 2022/53 6 May 2022 | r. 1 and 2: 6 May 2022 (see r. 2(a)); Rules other than r. 1 and 2: 20 May 2022 (see r. 2(b))
 Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Supreme Court Amendment Rules 2023 | SL 2023/16 10 Mar 2023 | r. 1 and 2: 10 Mar 2023 (see r. 2(a)); Rules other than r. 1 and 2: 25 Mar 2023 (see r. 2(b) and SL 2023/21 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Supreme Court Amendment Rules 2024 r. 3-18 | SL 2024/38 26 Mar 2024 | 9 Apr 2024 (see r. 2(b))
+Supreme Court Amendment Rules 2024 | SL 2024/38 26 Mar 2024 | r. 1 and 2: 26 Mar 2024 (see r. 2(a)); Rules other than r. 1 and 2: 9 Apr 2024 (see r. 2(b))
 Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -214,7 +211,7 @@ confiscable property declarationO. 81FA r. 1
 Confiscation Act 2000O. 81FA r. 1
 consular agentO. 1 r. 4(1)
 contemnorO. 55 r. 1
-Convention countryO. 11A r. 1
+Convention countryO. 1 r. 4(1)
 costsO. 1 r. 4(1)
 CourtO. 1 r. 4(2)
 Court expertO. 40 r. 1
@@ -249,7 +246,7 @@ GAA ActO. 70 r. 1
 geographical addressO. 1 r. 4(1)
 grantO. 75 r. 1
 group memberO. 18A r. 1
-Hague ConventionO. 11A r. 1
+Hague ConventionO. 1 r. 4(1)
 independent solicitorsO. 52B r. 6(1)
 initiating processO. 11A r. 1
 inspectionO. 26 r. 1A
@@ -272,19 +269,17 @@ medical evidenceO. 36A r. 1
 medical reportO. 36A r. 1
 monitoring orderO. 81FA r. 1
 monthO. 3 r. 1
-mortgageO. 10 r. 1(2), O. 62A r. 1(2) and (3)
-mortgageeO. 10 r. 1(2)
-mortgagorO. 10 r. 1(2)
+mortgageO. 62A r. 1(2) and (3)
 non-partyO. 26A r. 3(2) and 5(1)
 objectO. 4A r. 2(2)(n)
 objectionO. 81FA r. 1
 objectorO. 75A r. 2C
 officerO. 1 r. 4(1)
 official channelO. 11 r. 1
+originating processO. 10 r. 1
 originating summonsO. 1 r. 4(1)
 partyO. 28 r. 1(6)
 person under disabilityO. 66 r. 24(1), O. 70 r. 1
-personal property situate within the jurisdictionO. 10 r. 1(2)
 place of renditionO. 81B r. 1(1)
 plaintiffO. 25 r. 4
 possessionO. 26A r. 1
