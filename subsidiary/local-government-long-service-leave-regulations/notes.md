@@ -15,6 +15,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Local Government Regulations Amendment Regulations 2022 Pt. 5 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
+Local Government (Long Service Leave) Regulations 2024 r. 27 | SL 2024/51 17 Apr 2024 | 1 Sep 2024 (see r. 2(b))
 Other notes
 Repealed by the Industrial Arbitration Act 1979 which is now known as the Industrial Relations Act 1979.
 Defined terms
@@ -34,3 +35,7 @@ Registrar2
 superseded long service benefits scheme2
 the Board2
 worker2
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
