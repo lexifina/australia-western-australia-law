@@ -46,6 +46,7 @@ Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 |
 Building Amendment Regulations (No. 2) 2022 | SL 2022/162 23 Sep 2022 | r. 1 and 2: 23 Sep 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2023 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2023 | SL 2023/146 20 Sep 2023 | r. 1 and 2: 20 Sep 2023 (see r. 2(a)); r. 4(1): 21 Sep 2023 (see r. 2(b)); Regulations other than r. 1, 2 and 4(1): 1 Oct 2023 (see r. 2(c))
 Building Amendment Regulations 2023 (other than Pt. 3) | SL 2023/208 20 Dec 2023 | Pt. 1: 20 Dec 2023 (see r. 2(a)); Pt. 2: 21 Dec 2023 (see r. 2(b))
+Building Amendment Regulations 2024 | SL 2024/49 17 Apr 2024 | r. 1 and 2: 17 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -102,7 +103,7 @@ FES Commissioner3
 fire resistance performance requirement3
 former provisions3
 GSTSch. 1 cl. 1
-Heritage Act3
+heritage works permit3
 local planning scheme3, 31HB(1)
 managed reserve10(1A)
 management body10(1A)
@@ -119,6 +120,7 @@ post-transfer period57(1A)
 pre-May 2016 private swimming pool 3
 prior owner57(1)
 private swimming pool3
+protection order3
 public place44A
 regulation 5A54(1)
 relevant building31BA(1A), 31D
@@ -128,6 +130,8 @@ relevant day60(1)
 relevant edition of the Building Code3
 remedial work31HA(1)
 renovation, alteration, extension, improvement or repair31BA(1A)
+repair notice3
+repair order3
 repeal day54(1)
 residential tenancy agreement55(1)
 road10(1A), 44A
@@ -141,14 +145,14 @@ strata leasehold estate10(1A)
 Swan Valley Planning Scheme3
 swimming pool3
 Table41(2)
-townsite2
+townsite3
 transfer day55(1)
 transitional bush fire application31
 unit55(1)
 work54A(1)
 WorkSafe Commissioner14A(1)
 young child48
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
