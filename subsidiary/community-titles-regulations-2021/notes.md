@@ -8,6 +8,7 @@ Lands Regulations Amendment (Legal Profession) Regulations 2022 Pt. 2 | SL 2022/
 Lands Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/44 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Community Titles Amendment Regulations 2023 | SL 2023/51 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Community Titles Amendment Regulations (No. 2) 2023 | SL 2023/171 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
+Lands Regulations (Community and Strata Titles) Amendment Regulations 2024 Pt. 2 | SL 2024/50 17 Apr 2024 | 18 Apr 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -106,7 +107,7 @@ voting notice126(1)
 voting right restriction104(1)
 vulnerable person3, 136(1)
 works46(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

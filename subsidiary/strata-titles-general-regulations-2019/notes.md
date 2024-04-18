@@ -10,10 +10,12 @@ Lands Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/
 Lands Regulations Amendment (Legal Profession) Regulations 2022 Pt. 3 | SL 2022/116 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Lands Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/44 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Lands Regulations Amendment Regulations 2024 Pt. 3 | SL 2024/18 21 Feb 2024 | 1 Mar 2024 (see r. 2(b))
+Lands Regulations (Community and Strata Titles) Amendment Regulations 2024 Pt. 3 | SL 2024/50 17 Apr 2024 | 18 Apr 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 2018 amending Act172
+4-year and 6-month transitional period172
 4-year transitional period172
 5-year transitional period172
 6-month grace period172
@@ -44,7 +46,7 @@ grantor22
 GST3
 independent vote counter107
 interested person16(1)
-key role90, 96(1)
+key role89, 96(1)
 lease60(1)
 leasehold schemeSch. 3 cl. 2
 lesseeSch. 3 cl. 2
@@ -85,7 +87,7 @@ Survey Regulations3
 termination proposal process107
 TribunalSch. 2 cl. 1(2)
 Tribunal confirmation stage107
-trust107
+trust106(3)
 trust account101(1)
 unanimous owner-initiated termination proposal107, 153(1)
 unanimous support107, 153(2)
