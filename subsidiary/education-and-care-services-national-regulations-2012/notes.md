@@ -23,6 +23,7 @@ Education and Care Services National Amendment Regulations 2023 | SL 2023/15 24 
 Education and Care Services National Amendment Regulations (No. 3) 2023 | SL 2023/71 16 Jun 2023 | Pt. 1: 16 Jun 2023 (see r. 2(a)); Pt. 2: 17 Jun 2023 (see r. 2(b)); Pt. 3: 1 Jul 2023 (see r. 2(c))
 Education and Care Services National Amendment Regulations (No. 2) 2023 | SL 2023/105 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Education and Care Services National Amendment Regulations (No. 4) 2023 (other than r. 23 and 26) | SL 2023/186 29 Nov 2023 | r. 1 and 2: 29 Nov 2023 (see r. 2(a)); Regulations other than r. 1, 2, 23, 26 and 41: 1 Dec 2023 (see r. 2(d)); r. 41: 2 Feb 2024 (see r. 2(c))
+Education and Care Services National Amendment Regulations 2024 | SL 2024/48 17 Apr 2024 | r. 1 and 2: 17 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -61,7 +62,7 @@ criminal history statement4(1)
 diagnosed as at risk of anaphylaxis4(1)
 disciplinary proceedings statement4(1)
 early childhood service162
-early childhood teacher4(1)
+early childhood teacher3(1)
 educational program4(1), 73(1)
 education or early childhood service102AA
 emergency4(1), 123(1A)
@@ -109,7 +110,8 @@ regular outing4(1)
 regular transportation4(1)
 relevant administrative tribunal210
 relevant day399(3)
-relevant financial year236C(2), 236D(4), 236E(3), 236F(2), 236G(2), 236H, 236I, 236J, 236K(3), 236L(3), 236M(1), 236M(2), 236O(2), 236P
+relevant financial year236C(4), 236D(6), 236E(5), 236F(2),
+236G(4), 236H, 236I, 236J, 236K(3), 236L(5), 236M(1), (2), 236O(4), 236P
 relevant regulation242(3)
 remote area239A(5)
 renovate4(1)
@@ -127,7 +129,7 @@ suitably qualified person4(1)
 the Law4(1)
 very remote area239A(5)
 virtual inspection373E(4)
-water hazard safety inspection373B, 373E(1)
+water hazard safety inspection373B, 373DA(1)
 water hazard safety inspection report373B, 373E(1)
 working directly with children4(1), 13
 working with children check number4(1)
