@@ -1,16 +1,20 @@
 Notes
-This is a compilation of the Residential Parks (Long-stay Tenants) Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Residential Parks (Long-stay Tenants) Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Short title | Number and year |  | Assent | Commencement
-Residential Parks (Long-stay Tenants) Act 2006 | 32 of 2006 |  | 4 Jul 2006 | s. 1 and 2: 4 Jul 2006; Act other than s. 1 and 2: 3 Aug 2007 (see s. 2 and Gazette 1 Aug 2007 p. 3835)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 |  | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 |  | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Residential Tenancies Amendment Act 2011 Pt. 5 Div. 5 | 60 of 2011 |  | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
- | Reprint 1: The Residential Parks (Long-stay Tenants) Act 2006 as at 6 Sep 2013 (includes amendments listed above)
-Water Services Legislation Amendment and Repeal Act 2012 s. 227 |  | 25 of 2012 | 3 Sep 2012 | 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Consumer Protection Legislation Amendment Act 2014 Pt. 11 |  | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
-Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 3 |  | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
-Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 2 |  | 28 of 2020 | 9 Jul 2020 | s. 3 and 80: 10 Jul 2020 (see s. 2(1)(b)); s. 6, 81-83 and 86: 30 Sep 2020 (see s. 2(1)(c) and SL 2020/174 cl. 2); s. 4, 5, 7-79, 84 and 85: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
+Short title | Number and year | Assent | Commencement
+Residential Parks (Long-stay Tenants) Act 2006 | 32 of 2006 | 4 Jul 2006 | s. 1 and 2: 4 Jul 2006; Act other than s. 1 and 2: 3 Aug 2007 (see s. 2 and Gazette 1 Aug 2007 p. 3835)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 5 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
+Reprint 1: The Residential Parks (Long-stay Tenants) Act 2006 as at 6 Sep 2013 (includes amendments listed above)
+Water Services Legislation Amendment and Repeal Act 2012 s. 227 | 25 of 2012 | 3 Sep 2012 | 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Consumer Protection Legislation Amendment Act 2014 Pt. 11 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 3 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
+Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 2 | 28 of 2020 | 9 Jul 2020 | s. 3 and 80: 10 Jul 2020 (see s. 2(1)(b)); s. 6, 81-83 and 86: 30 Sep 2020 (see s. 2(1)(c) and SL 2020/174 cl. 2); s. 4, 5, 7-79, 84 and 85: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Residential Tenancies Amendment Act 2024 Pt. 3 | 11 of 2024 | 22 Apr 2024 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -114,3 +118,7 @@ transitional regulations116(1)
 urgent repairs32M(1)
 voluntary sharing arrangement3
 working day3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
