@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Residential Tenancies Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -42,6 +42,10 @@ Consumer Protection Legislation Amendment Act 2019 Pt. 9 | 25 of 2019 | 24 Oct 2
 Residential Tenancies (COVID-19 Response) Act 2020 Pt. 8 | 18 of 2020 | 23 Apr 2020 | 30 Mar 2020 (see s. 2(d))
 Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 3 | 28 of 2020 | 9 Jul 2020 | s. 88: 10 Jul 2020 (see s. 2(1)(b)); s. 89: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Residential Tenancies Amendment Act 2024 Pt. 2 | 11 of 2024 | 22 Apr 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
@@ -137,3 +141,7 @@ tenant compensation order59D(1)
 tenant’s document80A(1)
 terminating tenant71AC(1)
 urgent repairs43(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
