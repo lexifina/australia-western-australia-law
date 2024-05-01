@@ -30,13 +30,13 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 102 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Reprint 5: The Children and Community Services Act 2004 as at 22 Mar 2019 (includes amendments listed above)
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
-Children and Community Services Amendment Act 2021 (other than s. 15, 32, 39, 40, 52(2), (5)-(7), (12), (14)-(16) and (20) and 53(4) and (7)-(9)) | 18 of 2021 | 19 Oct 2021 | s. 1 and 2: 19 Oct 2021 (see s. 2(a)); Act other than s. 1, 2, 15, 32, 39, 40 and 52-54: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2); s. 52(3), (8), (9) and (17)-(19), 53(1), (5), (10) and (11) and 54: 1 Nov 2022 (see s. 2(c) and SL 2022/167 cl. 2); s. 52(1), (4), (10), (11) and (13) and 53(2), (3) and (6): 1 Nov 2023 (see s. 2(c) and SL 2023/153 cl. 2)
+Children and Community Services Amendment Act 2021 (other than s. 15, 32, 39, 40, 52(2), (7), (12), (16) and (20) and 53(4) and (9)) | 18 of 2021 | 19 Oct 2021 | s. 1 and 2: 19 Oct 2021 (see s. 2(a)); Act other than s. 1, 2, 15, 32, 39, 40 and 52-54: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2); s. 52(3), (8), (9) and (17)-(19), 53(1), (5), (10) and (11) and 54: 1 Nov 2022 (see s. 2(c) and SL 2022/167 cl. 2); s. 52(1), (4), (10), (11) and (13) and 53(2), (3) and (6): 1 Nov 2023 (see s. 2(c) and SL 2023/153 cl. 2); s. 52(5), (6), (14) and (15) and 53(7) and (8): 1 May 2024 (see s. 2(c) and SL 2024/45 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 2 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Firearms Amendment Act 2022 s. 82 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Children and Community Services Amendment Act 2021 s. 15, 32, 39, 40, 52(2), (5)-(7), (12), (14)-(16) and (20) and 53(4) and (7)-(9) | 18 of 2021 | 19 Oct 2021 | s. 52(5), (6), (14) and (15) and 53(7) and (8): 1 May 2024 (see s. 2(c) and SL 2024/45 cl. 2); s. 15, 32, 39, 40, 52(2), (7), (12), (16) and (20) and 53(4) and (9): to be proclaimed (see s. 2(c))
+Children and Community Services Amendment Act 2021 s. 15, 32, 39, 40, 52(2), (7), (12), (16) and (20) and 53(4) and (9) | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
@@ -75,14 +75,15 @@ CEO3, 28A
 CEO (Corrective Services)24A(1), 131A
 CEO (Education)131A, Sch. 1 cl. 29
 change of name application63(2)
-child3, 42, 74, 79(1), 84(1), 105(1), 124F(1), 126(1), 131, 150(1), 240(1)
+child3, 42, 74, 79(1), 84(1), 105(1), 124F(1),
+126(1), 131, 150(1), 240(1)
 child care services3
 child protection order157(1)
 child protection proceeding157(1)
 Children’s Court157(1)
 child welfare law157(1)
 commencementSch. 1 cl. 28(1)
-commencement day124A, Sch. 1 cl. 1, 29
+commencement day124A, Sch. 1 cl. 1 and 29
 Commissioner242A(1)
 Commissioner of Police124D(1)
 Commonwealth agency23(1)
@@ -189,6 +190,7 @@ provisionally protected child88A
 provisional protection and care3
 PSR ActSch. 1 cl. 29
 PSR Act parenting agreementSch. 1 cl. 29
+psychologist124A
 publication day88B(3)
 public authority3
 publish237(1)
@@ -210,6 +212,7 @@ requesting CEO28B(2)
 residential facility3
 responsible parenting agreement3, 131C
 responsible person131A
+school counsellor124A
 section 18(1)Sch. 1 cl. 27(1)
 secure care arrangement3, 88C(1)
 secure care decision3, 88G(1)
@@ -237,7 +240,7 @@ weapon112
 wellbeing3
 working day3, 157(1)
 young child104(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
