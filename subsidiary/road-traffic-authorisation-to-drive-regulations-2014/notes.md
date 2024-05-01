@@ -38,6 +38,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2022 Pt. 3 | SL 2022/179 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
+Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -125,7 +126,7 @@ trailer3
 transition day93(1)
 trigger69A
 working day27(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
