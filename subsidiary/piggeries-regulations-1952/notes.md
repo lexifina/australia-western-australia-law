@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Piggeries Regulations 1952 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Piggeries Regulations 1952 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Piggeries Regulations 1952 | 31 Dec 1952 p. 2993 | 31 Dec 1952
 Reprint of the Piggeries Regulations 1952 as at 10 Oct 1988 in Gazette 4 Nov 1988 p. 4329-36 (includes amendments up to 10 Jun 1988)
 Piggeries Amendment Regulations (No. 2) 1988 | 28 Oct 1988 p. 4283 | 28 Oct 1988
@@ -21,9 +21,17 @@ Piggeries Amendment Regulations 1998 | 27 Nov 1998 p. 6342 | 27 Nov 1998
 Reprint of the Piggeries Regulations 1952 as at 6 Aug 1999 (includes amendments listed above)
 Health Regulations Amendment (Public Health) Regulations 2016 Pt. 29 | 10 Jan 2017 p. 237-308 | 24 Jan 2017 (see r. 2(b) and Gazette 10 Jan 2017 p. 165)
 Reprint 3: The Piggeries Regulations 1952 as at 21 Jul 2017 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Health Regulations Repeal Regulations (No. 2) 2024 r. 3(d) | SL 2024/66 1 May 2024 | 4 Jun 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act2
 Piggery2
 Townsite2
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
