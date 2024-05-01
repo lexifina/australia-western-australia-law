@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Shipping and Pilotage (Ports and Harbours) Regulations 1966 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Shipping and Pilotage (Ports and Harbours) Regulations 1966 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Gazettal | Commencement
 Ports and Harbours Regulations | 3 Feb 1966 p. 277-92 | 3 Feb 1966
@@ -109,6 +109,10 @@ Transport Regulations Amendment (Ports) Regulations 2021 Pt. 3 | SL 2021/51 7 Ma
 Transport Regulations Amendment (Fees and Charges) Regulations (No 2) 2021 Pt. 6 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(b) and (c), SL 2021/51 r. 2(b) and SL 2021/50 cl. 2)
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 6 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 9 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2024 Pt. 5 | SL 2024/57 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).
 The Shipping and Pilotage Amendment Act 2006 s. 10 commenced on 4 June 2010.
@@ -144,7 +148,7 @@ vessel4
 vessel of war4
 Western Australian Land Information Authority4
 wharf4
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
