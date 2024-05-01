@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -155,6 +155,10 @@ Navigable Waters Amendment Regulations 2022 | SL 2022/137 29 Jul 2022 | r. 1 and
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2023 Pt. 2 | SL 2023/135 9 Aug 2023 | 1 Sep 2023 (see r. 2(b))
 Navigable Waters Amendment Regulations 2023 | SL 2023/204 20 Dec 2023 | r. 1and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2024 Pt. 4 | SL 2024/57 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
@@ -228,7 +232,7 @@ vessel18A(1), 21
 water skier46(2)
 water ski-ing46(2)
 wave jumping50A(4)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
