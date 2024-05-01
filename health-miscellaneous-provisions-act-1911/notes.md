@@ -146,9 +146,10 @@ Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
  | Major Events Act 2023 s. 110 | 12 of 2023 | 22 May 2023 | 23 May 2023 (see s. 2(b))
  | Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11 and Div. 16 (s. 249-271, 273 and 275) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Health (Miscellaneous Provisions) (Offensive Trades) Proclamation 2024 Pt. 2 (SL 2024/53) | 4 Jun 2024 (see cl. 2(b))
 Other notes
 Footnote no longer applicable.
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
