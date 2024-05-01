@@ -14,6 +14,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 Pt. 3 | SL 2022/178 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
+Planning and Development (Local Planning Schemes) Amendment (Single House Development) Regulations 2024 r. 3 and 4 | SL 2024/68 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
