@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Administration) Regulations 2014 | 23 Dec 2014 p. 4939-5009 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -33,6 +33,10 @@ Transport Regulations Amendment (Digital Identity Exchange) Regulations 2021 Pt.
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 3 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 6 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Identity Matching Services) Regulations 2023 Pt. 2 | SL 2023/166 1 Nov 2023 | 2 Nov 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -62,7 +66,7 @@ road law regulation offence24(1)
 section3
 traffic escort warden17(1)
 WOVR8(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
