@@ -205,6 +205,7 @@ Fish Resources Management Amendment Regulations 2022 | SL 2022/128 5 Jul 2022 | 
 Fish Resources Management Amendment Regulations (No. 2) 2022 | SL 2022/134 15 Jul 2022 | r. 1 and 2: 15 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2022 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2022 | SL 2022/160 23 Sep 2022 | r. 1 and 2: 23 Sep 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2022 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2023 | SL 2023/2 27 Jan 2023 | r. 1 and 2: 27 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2023 (see r. 2(b))
+Fish Resources Management Amendment Regulations 2024 | SL 2024/64 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2024 (see r. 2(b))
 Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -393,3 +394,7 @@ whole fish3(1)
 whole ray16(1)
 whole shark15(1)
 zone144A(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
