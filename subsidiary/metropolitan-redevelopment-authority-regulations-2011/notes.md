@@ -14,6 +14,7 @@ Metropolitan Redevelopment Authority Amendment Regulations (No. 2) 2020 | SL 202
 Metropolitan Redevelopment Authority Amendment Regulations 2022 | SL 2022/52 22 Apr 2022 | r. 1 and 2: 22 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 6 May 2022 (see r. 2(b))
 Metropolitan Redevelopment Authority Amendment Regulations 2023 | SL 2023/114 26 Jul 2023 | r. 1 and 2: 26 Jul 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Aug 2023 (see r. 2(b))
 Lands Regulations Amendment Regulations 2024 Pt. 2 | SL 2024/18 21 Feb 2024 | 1 Mar 2024 (see r. 2(b))
+Metropolitan Redevelopment Authority Amendment Regulations 2024 | SL 2024/59 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -33,7 +34,7 @@ Panel28
 public work3
 R-Codes3
 Register of Heritage Places3
-relevant plan10(1), 11(1), 13(1), 14A(1)
+relevant plan10(1), 10A(1), 11(1), 13(1), 14A(1)
 relevant plans12(1)
 removal day14B(1)
 Scarborough redevelopment area14A(1)
