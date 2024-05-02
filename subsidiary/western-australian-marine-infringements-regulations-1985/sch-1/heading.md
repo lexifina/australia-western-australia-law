@@ -88,32 +88,12 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 [47deleted]
 48 | 52G | Failing to display navigation lights on small motor boat as required | 200
 Item | Western Australian Marine Act Section | Description of offence | Modified penalty $
-49 | 13(1)(a) | Uncertificated person acting in a position of command on a commercial vessel | 300
-50 | 13(1)(b) | Employing an uncertificated person in a position of command | 300
-51 | 13(2) | Failing to ascertain whether an employee on a commercial vessel is duly certificated | 200
-52 | 14 | Beginning a voyage on a commercial vessel without sufficient crew, or with under qualified or inexperienced crew | 300
-53 | 26(3) | Being underway or plying without, or contrary to, certificate of survey | 300
-54 | 27 | Beginning a voyage without exhibiting evidence of compliance with survey requirements | 200
-55 | 28 | Carrying too many people on board ship | 300
-56 | 40(a) | Beginning a voyage without appropriate life saving appliances | 300
-57 | 40(b) | Allowing loss of, or damage to, life saving appliances | 200
-58 | 40(c) | Failing to repair or replace life saving appliances | 200
-59 | 40(d) | Failing to keep life saving appliances fit and ready for use | 200
-60 | 42(a) | Beginning a voyage without appropriate fire appliances | 300
-61 | 42(b) | Allowing loss of, or damage to, fire appliances | 200
-62 | 42(c) | Failing to repair or replace fire appliances | 200
-63 | 42(d) | Failing to keep fire appliances fit and ready for use | 200
-64 | 44(a) | Beginning a voyage without appropriate radio equipment | 300
-65 | 44(b) | Beginning a voyage without a qualified radio operator on board | 200
-66 | 48(a) | Beginning a voyage without required equipment | 150
-67 | 48(b) | Failing to keep required equipment in good repair | 100
-68 | 58(2)(a) | Failing to produce logbook or other documents | 100
-69 | 63(2) | Failing to take vessel to nearest port | 100
-70 | 63(5) | Navigating vessel in breach of order | 150
-71 | 64(2) | Failing to render assistance or give details after a collision | 150
-72A | 64(3) | Failing to — (a)render assistance; or (b)give details to certain persons; or (c)report to the Department within 7 days, after a collision, accident or other casualty involving a pleasure vessel | 150
-72 | 64(4) | Failing to make immediate report of a casualty or injury on, or damage to, a commercial vessel | 150
-73 | 64(5) | Failing to confirm report of a casualty or injury on, or damage to, a commercial vessel | 150
+49 | 64A(1)(a) (as read with (3)) | Failing to stand by to render assistance after a marine incident | 500
+50 | 64A(1)(b) (as read with (3)) | Failing to render assistance after a marine incident | 500
+51 | 64A(1)(c) (as read with (3)) | Failing to give details after a marine incident | 500
+52 | 64B(2) (as read with (3C)) | Master or owner of a vessel failing to report a marine incident involving damage to the vessel | 200
+53 | 64B(4) | Master or owner of a vessel failing to give a written report of a marine incident involving an injury or death, or damage to the vessel, confirming any earlier report of the incident | 200
+[54-73 | deleted]
 74 | 66(3)(a) | Obstructing an authorised person in relation to an area closed to navigation | 200
 75 | 66(3)(b) | Navigating a vessel in an area closed to navigation | 200
 76 | 67(3) | Exceeding speed limit by —
@@ -122,17 +102,10 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
  |  | (c)10 knots or more | 200
 77 | 69 | Failing to batten down and secure hatches | 100
 78 | 70(1) | Going on board a vessel in port at night without authority | 100
-79 | 72(1)(a) | Being drunk or disorderly and attempting to board a passenger ship without authority | 100
-80 | 72(1)(b) | Being drunk or disorderly on board a passenger ship and refusing to leave when requested | 100
-81 | 72(1)(c) | Molesting a passenger on a passenger ship after being warned | 100
-82 | 72(1)(d) | Being on board a passenger ship without authority and refusing to leave when requested | 100
-83 | 72(1)(e) | Attempting to enter a passenger ship after entry has been refused | 100
-84 | 72(1)(f) | Refusing to leave a passenger ship when requested | 100
-85 | 72(1)(g) | Attempting to travel on a passenger ship without paying the fare | 100
-86 | 72(1)(h) | Attempting to travel on a passenger ship beyond the place to which the fare has been paid | 100
-87 | 72(1)(i) | Refusing to leave a passenger ship at place to which fare has been paid | 100
-88 | 72(1)(j) | On a passenger ship failing to produce ticket or pay fare when requested | 100
-89 | 73 | Damaging equipment, or obstructing the crew, on a passenger ship | 100
+79 | 75BF | Careless navigation of a vessel | 300
+80 | 75D(1) | A first offence of navigating or attempting to operate a vessel while BAC is 0.05 or above | 1 000
+81 | 75GF(5) | Failing to comply with a prohibition notice | 600
+[82-89 | deleted]
 90A | 79(2) | Failure of the master or person in charge of a vessel to comply with the Prevention of Collisions at Sea Regulations 1983 | 300
 90 | 91(1) | Carrying dangerous goods without proper markings | 200
 91 | 97(1) | Carrying explosives on a passenger ship without proper protection | 200
@@ -143,4 +116,4 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 95 | 3.12.1 | Failing to notify the CEO of repairs or alterations to hire and drive vessel | 50
 96 | 3.13.2 | Failing to report an accident involving hire and drive vessel | 50
 97 | 4.2.2 | Overloading a hire and drive vessel | 100
-[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39.]
+[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39; SL 2024/61 r. 4.]

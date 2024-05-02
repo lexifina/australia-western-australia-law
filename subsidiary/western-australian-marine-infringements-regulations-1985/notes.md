@@ -31,6 +31,7 @@ Transport Regulations Amendment (Lifejackets) Regulations 2017 Pt. 3 | 3 Mar 201
 Transport Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/172 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Transport Regulations Amendment (Mooring Management) Regulations 2021 Pt. 4 | SL 2021/147 13 Aug 2021 | 28 Sep 2021 (see r. 2(b))
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2023 Pt. 3 | SL 2023/135 9 Aug 2023 | 1 Sep 2023 (see r. 2(b))
+Western Australian Marine (Infringements) Amendment Regulations 2024 | SL 2024/61 1 May 2024 | 2 May 2024 (see r. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -39,7 +40,7 @@ authorised person5(2)
 Department3A
 designated officer5(2)
 infringement notice5(2)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
