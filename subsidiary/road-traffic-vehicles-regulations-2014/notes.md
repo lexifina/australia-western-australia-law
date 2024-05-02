@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -44,6 +44,11 @@ Road Traffic (Vehicles) Amendment Regulations (No. 4) 2022 | SL 2022/149 26 Aug 
 Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 | SL 2022/174 21 Oct 2022 | r. 1 and 2: 21 Oct 2022 (see r. 2(a)); r. 3, 5, 13(4) and 15-20: 7 Nov 2022 (see r. 2(b)); Regulations other than r. 1-3, 5, 13(4) and 15-20: 7 Nov 2023 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/45 19 May 2023 | 20 May 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 3 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 (other than Div. 3) | SL 2024/58 1 May 2024 | 2 May 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 Div. 3 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -79,6 +84,9 @@ For the purposes of section 18 of the Act, the specified day in relation to regu
 The Transport Regulations Amendment (Fees and Charges) Regulations 2023 r. 26 reads as follows:
 26.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to this Part is 1 July 2023.
+The Transport Regulations Amendment (Fees and Charges) Regulations 2024 r. 11 reads as follows:
+11.Specified day
+For the purposes of the Road Traffic (Vehicles) Act 2012 section 18, the specified day in relation to this Division is 1 July 2024.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -359,7 +367,7 @@ written-off146
 written-off vehicle notice157(1)
 Written-Off Vehicle Register3
 yellow3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
