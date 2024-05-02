@@ -154,7 +154,8 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2
 Navigable Waters Amendment Regulations 2022 | SL 2022/137 29 Jul 2022 | r. 1 and 2: 29 Jul 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2023 Pt. 2 | SL 2023/135 9 Aug 2023 | 1 Sep 2023 (see r. 2(b))
-Navigable Waters Amendment Regulations 2023 | SL 2023/204 20 Dec 2023 | r. 1and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b))
+Navigable Waters Amendment Regulations 2023 | SL 2023/204 20 Dec 2023 | r. 1 and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b))
+Navigable Waters Amendment Regulations 2024 | SL 2024/62 1 May 2024 | 2 May 2024 (see r. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -165,17 +166,21 @@ The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+ABF Commissioner72(2)
 ABP standard45A(2)
 Acts2
 appropriate lifejacket46(2)
 appropriate signal19E(4)
 approved electronic visual distress signal46(2)
+APS employee72(1)
 AS46(2)
 AS/NZS46(2)
 Australian Communications and Media Authority46(2)
 authorised person2
-CEO47(1)
+CEO47(1), 72(1)
+Chief of Defence72(2)
 commencement day45AD(1)
+criminal intelligence information71(1)
 department2
 diving2
 Emergency Position-Indicating Radio Beacon46(2)
@@ -185,6 +190,7 @@ foreign skipper’s ticket47(1)
 former Regulations45AD(1)
 freestyle driving50A(4)
 GNSS-equipped46(2)
+GTE CEO72(2)
 higher qualification47C(7)
 hull identification number45A(2)
 inspector2
@@ -197,7 +203,8 @@ Level 150 lifejacket46(2)
 Level 275 lifejacket46(2)
 Level 50 lifejacket46(2)
 Level 50S lifejacket46(2)
-marine transceiver46(1)
+LG CEO72(2)
+marine transceiver46(2)
 motor boat2
 navigable waters2
 non-registrable vessel2
@@ -210,6 +217,8 @@ personal watercraft2
 PFD Type 146(2)
 PFD Type 246(2)
 PFD Type 346(2)
+prescribed offence47GA(1)
+present offence47GA(2)
 proposed departure date45BAA(1)
 protected waters2
 public jetty2
@@ -221,6 +230,7 @@ registrable vessel2
 RST vessel47(1)
 sailboard46(2)
 sailboard riding46(2)
+section47GA(1)
 shore52BAD(1)
 SOLAS lifejacket 46(2)
 speed boat2

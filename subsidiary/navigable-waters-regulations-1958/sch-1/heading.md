@@ -1,6 +1,6 @@
 ## Schedule 1
-[r. 19G and 69]
-[Heading inserted: SL 2021/161 r. 5; amended: SL 2023/204 r. 5.]
+[r. 19G, 69 and 70]
+[Heading inserted: SL 2021/161 r. 5; amended: SL 2023/204 r. 5; amended: SL 2024/62 r. 7.]
 Form 1
 CERTIFICATE OF APPOINTMENT
 INSPECTOR
@@ -37,7 +37,7 @@ INSPECTOR AND AUTHORISED PERSON
 (Section 118 of the Western Australian Marine Act 1982)
 Certificate number:
 This is to certify that ....................................................... is designated as an inspector and appointed as an authorised person under the Western Australian Marine Act 1982 section 117 for the purposes of that Act.
-Signed...........................................................................................................
+Signed..........................................................................................................
 Chief Executive Officer / Delegate of the Chief Executive Officer
 General nature of the person’s functions and the functions conferred on the person under other enactments:
 1.
@@ -63,4 +63,21 @@ End | Date:Time:
 Occupier present? Yes/No Entry audiovisually recorded? Yes/No
 Official details of inspector who executed this warrant
 [Form 4 inserted: SL 2023/204 r. 6.]
+Form 5
+ORDER TO PRODUCE
+Western Australian Marine Act 1982 Order to produce business record
+To
+Application | The applicant has applied under the Western Australian Marine Act 1982 s. 18C to me, a Justice of the Peace, for an order to produce a business record.
+Official details of applicant
+Business records to be produced | Description of records | Version to be produced
+Order | You are ordered to produce the version of the record or records described above at the place described below on or before [date].
+Warning | It is an offence not to obey this order without a reasonable excuse.
+Where records to be produced
+Issuing details | Name of JP
+Date |  | Time
+JP’s signature | Issued by me on the above date and at the above time. Justice of the Peace
+Service details | On [date] I served a copy of this order on the person to whom it is addressed by: Signature of server
+Server’s details | Name
+Contact details
+[Form 5 inserted: SL 2024/62 r. 8.]
 [Schedule 2 deleted: Gazette 1 Aug 1990 p. 3641.]
