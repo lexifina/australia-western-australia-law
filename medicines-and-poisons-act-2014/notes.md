@@ -13,6 +13,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 14(2) | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 14 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Therapeutic Goods Law Application Act 2024 Pt. 8 Div. 2 | 19 of 2024 | 14 May 2024 | 30 Aug 2024 (see s. 2(b) and SL 2024/177 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -108,3 +109,7 @@ vehicle93
 vending machine24(1)
 veterinarian3
 voluntary assisted dying substance3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
