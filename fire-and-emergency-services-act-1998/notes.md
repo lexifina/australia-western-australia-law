@@ -24,6 +24,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 3 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Mining Act 1978.
 Now known as the Fire and Emergency Services Act 1998; short title changed (see note under s. 1).
@@ -133,7 +134,7 @@ volunteer advisory committee25(1)
 volunteer service36ZN(1)
 volunteer unit36ZM
 WC&IM Act36ZM
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
