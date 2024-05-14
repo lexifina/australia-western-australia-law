@@ -77,6 +77,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 1 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Criminal Code Amendment Act 2024 s. 7 | 16 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 1 modifies section 43A of the Act. The modified section is identified by the superscript 2M appearing after the section number. The modification ceases on 31 December 2021 unless postponed under section 37(3) and 52 of that Act.
@@ -173,7 +174,7 @@ trial3(1), 7E(2), 31A(1), 44(2)
 urban area16A(4)
 victimSch. 1 cl. 3D(1)
 video link43A(1), 66B(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
