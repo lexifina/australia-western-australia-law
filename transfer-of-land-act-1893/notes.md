@@ -90,6 +90,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Community Titles Act 2018 s. 253 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 13 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
@@ -233,7 +234,7 @@ transitional period81K
 transmission4(1)
 tree plantation agreement4(1)
 working day182B(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
