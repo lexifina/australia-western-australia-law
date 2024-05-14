@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dampier to Bunbury Pipeline Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dampier to Bunbury Pipeline Act 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Dampier to Bunbury Pipeline Act 1997 | 53 of 1997 (as amended by this Act Sch. 4 Div. 1) | 12 Dec 1997 | Act other than Sch. 4 Div. 1, Div. 4 (except cl. 16, 17(1) and (2), 18 and 20) and Div. 6: 12 Dec 1997 (see s. 2); Sch. 4 Div. 1: 30 Mar 1998 (see s. 2 and cl. 2 and Gazette 27 Mar 1998 p. 1765); Sch. 4 Div. 4 (except cl. 16, 17(1) and (2), 18 and 20): 11.00 am 25 Mar 1998 (see s. 2 and cl. 11 and Gazette 25 Mar 1998 p. 1655); Sch. 4 Div. 6: 30 Mar 1998 (see s. 2 and cl. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -12,6 +12,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 43 | 77 
 Reprint 2: The Dampier to Bunbury Pipeline Act 1997 as at 24 Apr 2009 (includes the amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 46 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 4 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Other notes
 The Gas Corporation Act 1994 was repealed by the Gas Corporation (Business Disposal) Act 1999.
 The Gas Transmission Regulations 1994 were repealed by the Gas Transmission Repeal Regulations 1998.
 Short title changed to the Public Works Act 1902, and section 33A repealed, by the Acts Amendment (Land Administration) Act 1997.
@@ -78,3 +83,7 @@ the assignor19(2)
 transfer order14
 transfer time14
 utilised corridor landSch. 4 cl. 36(5)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
