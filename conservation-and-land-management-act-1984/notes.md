@@ -71,6 +71,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 3 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 3 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
@@ -382,7 +383,7 @@ vested7(1A), 8AA(1)
 Western Australian waters13(8)
 Western Australian Wildlife Authority145
 wildlife officer3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
