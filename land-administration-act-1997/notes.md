@@ -64,6 +64,7 @@ Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 2
 Biodiversity Conservation Act 2016 s. 318(2)(b) | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 2 (s. 6, 29, 30, 31, 82, 88) | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 30 | 23 of 2023 | 24 Oct 2023 | Immediately after the Land and Public Works Legislation Amendment Act 2023 s. 82 comes into operation (see s. 2(c)(ii))
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 7 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation.
 The Land Administration Amendment Act 2000 s. 8(6), (7) and (8) read as follows:
@@ -376,7 +377,7 @@ unallocated Crown land3(1)
 unauthorised structure270(1)
 unmanaged reserve2(1)
 war service landSch. 2 cl. 30(2)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
