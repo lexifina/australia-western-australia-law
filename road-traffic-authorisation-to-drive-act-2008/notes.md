@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Authorisation to Drive) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic (Authorisation to Drive) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Authorisation to Drive) Act 2008 | 40 of 2008 | 15 Aug 2008 | s. 1 and 2: 15 Aug 2008 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -14,6 +14,10 @@ Road Traffic Amendment (Driving Offences) Act 2018 Pt. 3 | 19 of 2018 | 7 Sep 20
 Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 | 26 of 2018 | 30 Oct 2018 | 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50)
 Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 3 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
 Transport Legislation Amendment (Identity Matching Services) Act 2022 Pt. 3 | 8 of 2022 | 14 Apr 2022 | 15 Apr 2022 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 5 | 15 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Road Traffic Amendment Act (No. 2) 2007 s. 27 commenced 1 Dec 2010.
 The Road Traffic Legislation Amendment Act 2012 Pt. 3 (s. 15-18) commenced 1 Aug 2012; Pt. 3 other than s. 15-18 commenced 27 Apr 2015.
@@ -80,3 +84,7 @@ section 51 election period40(1)
 starting time55(2)
 unlicensed person18(1)
 WA driving authorisation43(3)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
