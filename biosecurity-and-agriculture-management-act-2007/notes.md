@@ -23,6 +23,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 s. 278(2) and 279(2) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 Pt. 19 Div. 2 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Mining Act 1978.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -170,3 +171,7 @@ vehicle6
 veterinarian6
 veterinary chemical product6
 wildlife officer6
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
