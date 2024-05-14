@@ -20,6 +20,10 @@ Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 4 | 5 of 2007 | 18
 Petroleum Amendment Act 2007 s. 95 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 4: The Gas Standards Act 1972 as at 4 Jul 2008 (includes amendments listed above)
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 7 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Petroleum Legislation Amendment Act 2024 s. 433(2) and 434(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The provision in this Act repealing that Act has been omitted from this consolidation under the Reprints Act 1984 s. 7(4)(f).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent that it amends this Act, was amended by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(a).
@@ -51,3 +55,7 @@ supply4
 Type A gas appliance4
 Type B gas appliance4
 undertaker4
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
