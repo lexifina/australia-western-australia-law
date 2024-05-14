@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Human Tissue and Transplant Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Human Tissue and Transplant Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Human Tissue and Transplant Act 1982 | 116 of 1982 | 8 Dec 1982 | 1 Mar 1983 (see s. 2)
@@ -19,6 +19,10 @@ Health Services Act 2016 s. 294 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
 Public Health (Consequential Provisions) Act 2016 s. 102 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Reprint 3: The Human Tissue and Transplant Act 1982 as at 19 May 2017 (includes amendments listed above)
 Human Tissue and Transplant Amendment Act 2022 | 41 of 2022 | 21 Nov 2022 | Pt. 2 Div. 1 and 2: 22 Nov 2022 (see s. 2(b)); Pt. 2 Div. 3: 19 Feb 2024 (see s. 2(c) and SL 2024/11 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Therapeutic Goods Law Application Act 2024 Pt. 8 Div. 1 | 19 of 2024 | 14 May 2024 | 30 Aug 2024 (see s. 2(b) and SL 2024/177 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
