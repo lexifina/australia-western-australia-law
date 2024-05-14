@@ -10,6 +10,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 8 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 435(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -89,3 +90,7 @@ tender block5
 transfer 5
 vary5
 year424
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
