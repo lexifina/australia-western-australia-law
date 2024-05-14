@@ -31,6 +31,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Ports Legislation Amendment Act 2019 s. 50(1) and (2)(a)-(c) and (e) | 2 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(e))
+Petroleum Legislation Amendment Act 2024 s. 433(2), 434(2) and 435(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
@@ -158,7 +159,7 @@ under compulsory pilotage95(1)
 vessel3(1)
 vested3(1)
 vested land3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
