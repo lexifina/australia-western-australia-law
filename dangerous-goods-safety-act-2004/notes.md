@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Dangerous Goods Safety Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 | 7 of 2004 | 10 Jun 2004 | s. 1 and 2: 10 Jun 2004; Act other than s. 1 and 2: 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
@@ -11,6 +11,10 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 | 8 of 2012 | 21 May 2
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 4 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Family Violence Legislation Reform Act 2020 Pt. 9 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 18 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 5 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The provisions in this Act repealing these written laws have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -73,3 +77,7 @@ transport3(1)
 unauthorised person40(1)
 unreasonable5(2)
 vehicle3(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
