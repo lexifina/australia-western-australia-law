@@ -37,6 +37,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
+Petroleum Legislation Amendment Act 2024 Pt. 3 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer required.
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
@@ -138,3 +139,7 @@ registered holder4(1)
 relinquished area4(1)
 Under Secretary59(2)
 wholly cancelled4(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
