@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Submerged Lands) Act 1982 | 33 of 1982 | 27 May 1982 | 14 Feb 1983 (see s. 2(1))
@@ -37,6 +37,10 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 7 | 17 of 2014 | 2 Jul 2014 
 Petroleum Legislation Amendment Act 2017 Pt. 3 | 7 of 2017 | 14 Sep 2017 | 15 Nov 2017 (see s. 2(b) and Gazette 14 Nov 2017 p. 5597)
 Reprint 5: The Petroleum (Submerged Lands) Act 1982 as at 29 Jun 2018 (includes amendments listed above)
 Work Health and Safety Act 2020 Pt. 15 Div. 3 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Petroleum Legislation Amendment Act 2024 Pt. 4 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 Repealed by the Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011 Sch 4 Part 1 (Cwlth).
@@ -294,3 +298,7 @@ well4(1)
 wholly cancelled4(1)
 wholly determined4(1)
 worker4A(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
