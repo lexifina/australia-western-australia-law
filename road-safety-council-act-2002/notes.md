@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Safety Council Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Safety Council Act 2002 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Safety Council Act 2002 | 5 of 2002 | 4 Jun 2002 | s. 1 and 2: 4 Jun 2002; Act other than s. 1, 2 and 12(4): 1 Jul 2002 (see s. 2(1) and Gazette 1 Jul 2002 p. 3205); s. 12(4): 1 Jan 2006 (see s. 2(2) and Gazette 23 Dec 2005 p. 6244-5)
@@ -15,6 +15,11 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 46 | 8 of 2012 | 21 May 2
 Reprint 2: The Road Safety Council Act 2002 as at 17 Jul 2015 (includes amendments listed above)
 Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 20 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 20: 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
 Road Traffic Amendment (Impounding and Confiscation of Vehicles) Act 2016 Pt. 3 Div. 2 | 51 of 2016 | 28 Nov 2016 | 14 Jan 2017 (see s. 2(1)(b) and Gazette 13 Jan 2017 p. 338)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 3 | 15 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Other notes
 The provisions of this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -30,3 +35,7 @@ prescribed period12(3)
 public officer3
 road3
 traffic infringement notice12(4)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
