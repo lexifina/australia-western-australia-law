@@ -84,6 +84,7 @@ Local Government Amendment (COVID-19 Response) Act 2020 s. 5 | 17 of 2020 | 20 A
 Local Government Amendment Act 2023 s. 22, 23, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85 | 11 of 2023 | 18 May 2023 | s. 23: 1 Jul 2024 (see s. 2(d) and SL 2023/92 cl. 2(c)); s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85: to be proclaimed (see s. 2(d));
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 10 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 4 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
+Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
