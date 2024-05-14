@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Parks and Reserves Act 1895 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Parks and Reserves Act 1895 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Parks and Reserves Act 1895 | 30 of 1895 (59 Vict. No. 30) | 12 Oct 1895 | 12 Oct 1895
@@ -37,6 +37,11 @@ Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 5: The Parks and Reserves Act 1895 as at 1 Jul 2011 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 38 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 2 | 15 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Other notes
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Now known as the Parks and Reserves Act 1895; short title changed (see note under s. 1).
@@ -58,3 +63,7 @@ staff member15(1)
 State tax17(1)
 Treasurer2
 vehicle2
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
