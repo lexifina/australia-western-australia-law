@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic (Administration) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 | 39 of 2008 | 15 Aug 2008 | s. 1 and 2: 15 Aug 2008 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -21,6 +21,10 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 D
 Family Violence Legislation Reform Act 2020 Pt. 8 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
 Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 3 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
 Transport Legislation Amendment (Identity Matching Services) Act 2022 Pt. 2 | 8 of 2022 | 14 Apr 2022 | 15 Apr 2022 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 2 | 15 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -177,3 +181,7 @@ vehicle licence information4
 warden4
 warden’s function21
 warrant62
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
