@@ -207,6 +207,7 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Criminal Code Amendment Act 2024 Pt. 2 | 16 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
