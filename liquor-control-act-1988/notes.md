@@ -60,6 +60,7 @@ Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 20
 Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 2 | 44 of 2022 | 1 Dec 2022 | 24 Dec 2022 (see s. 2(b) and SL 2022/216 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 36 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 (other than Div. 3) | 25 of 2023 | 10 Nov 2023 | 14 Dec 2023 (see s. 2(b) and SL 2023/191 cl. 2)
+Health Practitioner Regulation National Law Application Act 2024 Pt. 6 Div. 1 | 21 of 2024 | 14 May 2024 | 15 May 2024 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -316,7 +317,7 @@ wholesaler’s licence3(1)
 wine3(1)
 wine producing region61A(1)
 working day152NZR(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
