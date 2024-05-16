@@ -42,10 +42,11 @@ Consumer Protection Legislation Amendment Act 2019 Pt. 9 | 25 of 2019 | 24 Oct 2
 Residential Tenancies (COVID-19 Response) Act 2020 Pt. 8 | 18 of 2020 | 23 Apr 2020 | 30 Mar 2020 (see s. 2(d))
 Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 3 | 28 of 2020 | 9 Jul 2020 | s. 88: 10 Jul 2020 (see s. 2(1)(b)); s. 89: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Residential Tenancies Amendment Act 2024 Pt. 2 (but only s. 3-10, 17, 19-23, 24(1), 32, 34, 36, 44, 45 and 47-55) | 11 of 2024 | 22 Apr 2024 | 16 May 2024 (see s. 2(b) and SL 2024/75 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2024 Pt. 2 | 11 of 2024 | 22 Apr 2024 | To be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2024 s. 11-16, 18, 24(2)-(5), 25-31, 33, 35, 37-43, 46 and 56-61 | 11 of 2024 | 22 Apr 2024 | s. 11, 12, 13(1), 14, 15(1), 18, 25-31, 33, 35, 37, 39-42 and 46: 29 Jul 2024 (see s. 2(b) and SL 2024/143 cl. 2); s. 13(2), 15(2), 16, 24(2)-(5), 38, 43 and 56-61: to be proclaimed (see s. 2(b))
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
@@ -62,22 +63,29 @@ AFI92
 agent22(6), 82A
 agreement70A(1), 71D(1), 72(1A)
 applicant82C(1), 82D(1)
+approved form3
+assistance animal3
 authorised agentSch. 1 cl. 1
 authorised financial institution92
 authorised person88A(1)
 bond3
 bond administrator3
+bond information11AA(1)
+commencement99(1), 101(1), 102(1)
 commencement day91(1), 92, 97(1), 98(1)
 Commissioner3
 common area3
+community titles scheme3
 competent court3
 consumption49A(1)
 co-tenant71AD(1)
 criteria71A
+current term99(2)
 database82A
 database operator82A
 Department3
-disability47(1A)
+disability3, 47(1A)
+disputed tenancy matter3
 DVO71AA
 excluded tenant71AE(1)
 executive officer7A(3)
@@ -88,24 +96,32 @@ family violence3
 family violence order71AE(1)
 first tenant17A(1)
 former agreement31B(1)
+furniture safety modification3
 goods79(1A)
 GST49A(1)
-Housing Authority71A
+Housing Authority3, 71A
 inaccurate82A
 information11A(3)
+known party3
 legally qualified person22(6)
 lessor3, 46(1)
 list82A
+major modification3
 Minister for Housing71A
 minor59A(1)
+minor modification3
+modification3
 national privacy principles82K(1)
 new agreement31B(1)
 notice46(1), 70A(1)
+notice of dispute3
+notice period3
 notice to vacate81A(1)
+original condition3
 out-of-date82A
-party9(1A)
-personal information82A
-pet29(1A)
+party3
+personal information3
+pet3
 plaintiff81B(1), 81(1)
 possession day70A(1), 72(1A)
 premises3, 38(2), 40(1), 42(1), 44(1), 46(1), 71AA
@@ -114,24 +130,35 @@ prescribed alterations47(4)
 prescribed amount12
 prescribed dispute12
 prescribed period43(1)
+previous101(1)
 proceedings22(1A)
 property manager3
 protected tenant71AE(1)
 public utility services49A(1), 98(1)
 reasonable grounds3
 reasonable time46(1)
+regulation 12BA103(1)
+regulation 12CA103(1)
+relevant entity11AA(1)
 rent3
 Rental Accommodation Account3
+representative entity26B(1)
+required act86A(1)
 residential premises3, 82A
 residential tenancy agreement3, 82A
 residential tenancy database82A
+retaliatory action3, 26A
+scheme by-laws3
 security bond3, 29(1A)
 security bond held in an AFI92
+security bond release application3
 social housing premises3, 71A
 social housing provider3, 71A
 social housing tenancy agreement3, 71A
 specified date81A(1)
-strata company49A(1)
+State Register of Heritage Places3
+strata company3
+strata titles scheme3
 suitable repairer43(1)
 tenancy3
 tenancy period3
@@ -141,6 +168,7 @@ tenant compensation order59D(1)
 tenant’s document80A(1)
 terminating tenant71AC(1)
 urgent repairs43(1)
+validation period103(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.

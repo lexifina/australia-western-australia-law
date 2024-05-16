@@ -11,10 +11,11 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 227 | 25 of 2012 | 3
 Consumer Protection Legislation Amendment Act 2014 Pt. 11 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 3 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
 Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 2 | 28 of 2020 | 9 Jul 2020 | s. 3 and 80: 10 Jul 2020 (see s. 2(1)(b)); s. 6, 81-83 and 86: 30 Sep 2020 (see s. 2(1)(c) and SL 2020/174 cl. 2); s. 4, 5, 7-79, 84 and 85: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
+Residential Tenancies Amendment Act 2024 Pt. 3 (other than s. 63) | 11 of 2024 | 22 Apr 2024 | 16 May 2024 (see s. 2(b) and SL 2024/75 cl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2024 Pt. 3 | 11 of 2024 | 22 Apr 2024 | To be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2024 s. 63 | 11 of 2024 | 22 Apr 2024 | 28 Mar 2026 (see s. 2(b) and SL 2026/31 cl. 2(h))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -24,7 +25,7 @@ agreed premises3
 agreement3
 alter54C(1)
 amended99
-amending Act99
+amending Act98(3)
 application period98(1)
 approved form3
 auditor103(1)
@@ -82,15 +83,17 @@ protected tenant74B(1)
 real estate agent3
 reasonable grounds3, 5A
 reasonable time32E(1)
+regulation 13A117(1)
+regulation 22117(1)
 relevant long-stay agreement58(1)
 relevant park operator58(1)
-relocatable home3
+relocatable home2(2)
 rent3
 Rental Accommodation Account3
 rent-only agreement13A(1)
 required documents11(1)
 resident63C(1)
-residential park3, 5B(1), 5B(2)
+residential park3, 5B(1), (2)
 sale commission57A(1)
 sale contract58(2)
 sale trust account57C(2)
@@ -98,8 +101,8 @@ security bond3
 seller55A(1), 58(2)
 selling agency agreement3, 57(1)
 selling agent3
-serious misconduct71A(1)
-shared premises3
+serious misconduct71(1)
+shared premises2(2)
 site3
 site-only agreement3
 specified day39(2), 40(5), 41(2), 42(2), 44(2), 45(4)
@@ -116,6 +119,7 @@ tenant’s lawful enjoyment32C(1)
 terminating tenant74A(1)
 transitional regulations116(1)
 urgent repairs32M(1)
+validation period117(1)
 voluntary sharing arrangement3
 working day3
 © State of Western Australia 2024.
