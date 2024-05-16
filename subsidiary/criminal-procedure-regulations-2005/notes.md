@@ -58,6 +58,7 @@ Criminal Procedure Amendment Regulations (No. 3) 2022 | SL 2022/127 5 Jul 2022 |
 Attorney General Regulations Amendment (Electronic Processes) Regulations 2023 Pt. 3 | SL 2023/19 14 Mar 2023 | 15 Mar 2023 (see r. 2(b))
 Justice Regulations Amendment (Major Events) Regulations 2023 Pt. 2 | SL 2023/69 16 Jun 2023 | 17 Jun 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Workers Compensation) Regulations (No. 2) 2024 Pt. 2 | SL 2024/29 7 Mar 2024 | 8 Mar 2024 (see r. 2(b))
+Attorney General Regulations Amendment (Short-Term Rental Accommodation) Regulations 2024 Pt. 2 | SL 2024/76 15 May 2024 | 16 May 2024
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
