@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Water Services Code of Conduct (Customer Service Standards) 2018. The following table contains information about that code.
+This is a compilation of the Water Services Code of Conduct (Customer Service Standards) 2018. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Water Services Code of Conduct (Customer Service Standards) 2018 | 5 Feb 2018 p. 339-84 | cl. 1 and 2: 5 Feb 2018 (see cl. 2(a)); Code other than cl. 1 and 2: 1 Jul 2018 (see cl. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Water Services Code of Conduct (Customer Service Standards) 2024 Pt. 10 | SL 2024/77 20 May 2024 | 1 Jul 2024 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -45,3 +49,7 @@ tariff15(1)
 undercharged amount18(1)
 water services ombudsman3
 water supply restriction34
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
