@@ -1,10 +1,14 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management Conciliation Rules 2011 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Workers’ Compensation and Injury Management Conciliation Rules 2011 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Workers’ Compensation and Injury Management Conciliation Rules 2011 | 9 Nov 2011 p. 4741-63 | r. 1 and 2: 9 Nov 2011 (see r. 2(a)); Rules other than r. 1 and 2: 1 Dec 2011 (see r. 2(b) and Gazette 8 Nov 2011 p. 4673)
 Workers’ Compensation and Injury Management Conciliation Amendment Rules 2015 | 12 Jun 2015 p. 2042-4 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii))
 Workers’ Compensation and Injury Management Conciliation Amendment Rules 2019 | 2 Aug 2019 p. 2992-6 | r. 1 and 2: 2 Aug 2019 (see r. 2(a)); r. 3, 4(1), 6-8, 9(3) and (4), 10, 13-15: 5 Aug 2019 (see r. 2(c)(i)); r. 4(2), 5, 9(1), (2) and (5), 11 and 12: 4 Nov 2019 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Workers Compensation and Injury Management Conciliation Rules 2024 r. 34 | SL 2024/79 22 May 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -29,3 +33,7 @@ section3(2)
 transferred proceeding4(1)
 worker18
 working day3(2)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
