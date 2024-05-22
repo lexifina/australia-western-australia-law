@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the District Court Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the District Court Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 District Court Rules 2005 | 27 May 2005 p. 2335-92 | 30 May 2005 (see r. 2)
@@ -23,7 +23,10 @@ District Court Amendment Rules 2021 | SL 2021/208 10 Dec 2021 | r. 1 and 2: 10 D
 District Court Amendment Rules 2022 | SL 2022/108 24 Jun 2022 | r. 1 and 2: 24 Jun 2022 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 District Court Amendment Rules 2023 | SL 2023/209 21 Dec 2023 | r. 1 and 2: 21 Dec 2023 (see r. 2(a)); Rules other than r. 1 and 2: 15 Jan 2024 (see r. 2(b))
 District Court Amendment Rules (No. 2) 2024 | SL 2024/6 25 Jan 2024 | r. 1 and 2: 25 Jan 2024 (see r. 2(a)); Rules other than r. 1 and 2: 26 Jan 2024 (see r. 2(b))
-Other notes
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+District Court Amendment Rules 2024 r. 3-8 | SL 2024/80 22 May 2024 | 1 Jul 2024 (see r. 2(b))
 Repealed by r. 72 which has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
