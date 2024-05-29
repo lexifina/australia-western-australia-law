@@ -12,7 +12,9 @@ Waste Avoidance and Resource Recovery Levy Amendment Regulations 2020 | SL 2020/
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Waste Avoidance and Resource Recovery Levy Amendment Regulations 2023 r. 3 and 4 | SL 2023/193 13 Dec 2023 | 1 Jul 2024 (see r. 2(b))
+Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2024 r. 4 | SL 2024/84 29 May 2024 | 1 Jul 2024 (see r. 2(c))
+Other notes
+The Waste Avoidance and Resource Recovery Levy Amendment Regulations 2023 r. 3 and 4 (SL 2023/193) did not come into operation and were repealed by the Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2024 on 30 May 2024 (see SL 2024/84 r. 5).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -34,7 +36,7 @@ reviewable decision6(2)
 surveyor10(1)
 unlicensed premises12B(1)
 waste12A(1), 12B(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
