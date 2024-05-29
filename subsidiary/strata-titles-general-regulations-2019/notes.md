@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Strata Titles (General) Regulations 2019 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Strata Titles (General) Regulations 2019 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Strata Titles (General) Regulations 2019 | 31 Dec 2019 p. 4455-635 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)) Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
@@ -11,6 +11,10 @@ Lands Regulations Amendment (Legal Profession) Regulations 2022 Pt. 3 | SL 2022/
 Lands Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/44 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Lands Regulations Amendment Regulations 2024 Pt. 3 | SL 2024/18 21 Feb 2024 | 1 Mar 2024 (see r. 2(b))
 Lands Regulations (Community and Strata Titles) Amendment Regulations 2024 Pt. 3 | SL 2024/50 17 Apr 2024 | 18 Apr 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lands Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/83 29 May 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
