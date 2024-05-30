@@ -31,6 +31,7 @@ Electricity Industry Exemption Amendment Order 2022 | SL 2022/44 25 Mar 2022 | c
 Electricity Industry Exemption Amendment Order (No. 2) 2022 | SL 2022/171 21 Oct 2022 | cl. 1 and 2: 21 Oct 2022 (see cl. 2(a)); Order other than cl. 1 and 2: 22 Oct 2022 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2023 | SL 2023/80 20 Jun 2023 | cl. 1 and 2: 20 Jun 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 21 Jun 2023 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2024 | SL 2024/3 10 Jan 2024 | cl. 1 and 2: 10 Jan 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Jan 2024 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order (No. 2) 2024 | SL 2024/85 29 May 2024 | cl. 1 and 2: 29 May 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 30 May 2024 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
