@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Lotteries Commission (Authorised Lotteries) Rules 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Lotteries Commission (Authorised Lotteries) Rules 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Lotteries Commission (Authorised Lotteries) Rules 2016 | 7 Oct 2016 p. 4405-527 | r. 1 and 2: 7 Oct 2016 (see r. 2(a)); Rules other than r. 1 and 2: 8 Oct 2016 (see r. 2(b))
@@ -16,17 +16,13 @@ Lotteries Commission (OZ Lotto) Amendment Rules 2022 | 5 Apr 2022 p. 2482-3 | r.
 Lotteries Commission (Super66 and Removal of Self-serve Kiosks) Amendment Rules 2022 | 12 Apr 2022 p. 2728-9 | r. 1 and 2: 12 Apr 2022 (see r. 2(a)); Rules other than r. 1 and 2: immediately after the Super66 draw on 14 May 2022 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) (Powerball) Amendment Rules 2023 | 28 Apr 2023 p. 867 | r. 1 and 2: 28 Apr 2023 (see r. 2(a)); Rules other than r. 1 and 2: immediately after the Powerball draw on 18 May 2023 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) (Commission) Amendment Rules 2023 | 3 Nov 2023 p. 3607-8 | r. 1, 2 and 3: 3 Nov 2023 (see r. 2(a)); r. 6: 6:01pm on 23 Nov 2023 (see r. 2(e)); r. 7: 6:01pm on 25 Nov 2023 (see r. 2(f)); r. 4(1) and (2): 6:01pm on 27 Nov 2023 (see r. 2(b)); r. 5: 6:01pm on 28 Nov 2023 (see r. 2(d)); r. 4(3) and (4): 6:01pm on 29 Nov 2023 (see r. 2(c)); r. 8: 6:01pm on 30 Nov 2023 (see r. 2(g))
-Lotteries Commission (Authorised Lotteries) (Millionaire Medley) Amendment Rules 2024 r. 1-6 | 23 Apr 2024 p. 1078-82 | 23 Apr 2024 (see r. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Lotteries Commission (Authorised Lotteries) (Millionaire Medley) Amendment Rules 2024 r. 7-9 | 23 Apr 2024 p. 1078-82 | 11:59 pm on 31 May 2024 (see r. 2(b))
+Lotteries Commission (Authorised Lotteries) (Millionaire Medley) Amendment Rules 2024 | 23 Apr 2024 p. 1078-82 | r. 1-6: 23 Apr 2024 (see r. 2(a)); r. 7-9: 11:59 pm on 31 May 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 advance play option3
 agent3
-agent’s component63(1), 73, 86, 99, 110, 147(1)
+agent’s component73, 86, 99, 110, 147(1)
 authorised financial institution account3
 authorised provider3
 Autoplay8(2)
@@ -38,21 +34,19 @@ Category A member3
 Category B member3
 digital entry3
 draw73, 110
-entry37, 52, 63(1), 73, 86, 99, 110, 137, 147(1)
-game52, 63(1), 73, 86, 99, 110, 137, 147(1)
-game board3, 86
+entry37, 52, 73, 86, 99, 110, 137, 147(1)
+game52, 73, 86, 99, 110, 137, 147(1)
+game board3, 85(2)
 Lotterywest App3
 Lotterywest member3
 Lotterywest membership3
 Lotterywest membership card3
 Lotterywest membership number3
-lotto3, 63(2) and (3), 147(1)
+lotto3, 147(1)
 Lotto Bloc3
-lotto draw3, 63(2) and (3), 147(1)
+lotto draw3, 147(1)
 membership account3
 Millionaire Medley3
-Monday and Wednesday Lotto Rules3
-Monday Lotto3
 OZ Lotto3
 payout period3
 player3, 37
@@ -67,9 +61,9 @@ Powerball section86
 Powerball selection86
 Powerpik86
 prize37
-prize fund63(1), 73, 86, 99, 110, 137, 147(1)
-prize pool63(1), (2) and (3), 73, 86, 99, 110, 137, 147(1)
-prize reserve fund63(1), 73, 86, 99, 110, 137, 147(1)
+prize fund73, 86, 99, 110, 137, 147(1)
+prize pool73, 86, 99, 110, 137, 147(1)
+prize reserve fund73, 86, 99, 110, 137, 147(1)
 promotional coupon3
 publish3
 receipted ticket3
@@ -80,16 +74,15 @@ selling period3
 Set for Life3
 subscriber3, 3
 Super663
-supplementary number63(2) and (3), 73, 99, 110, 147(1)
+supplementary number73, 99, 110, 147(1)
 syndicate sales (subscription) adjustment26(1)
 system entry3
 total prize pool73, 86, 99, 137
 type of play52
-validation period63(1), 73, 86, 99, 110, 137, 147(1)
-wager3
-Wednesday Lotto3
+validation period73, 86, 99, 110, 137, 147(1)
+Wager3
 winning digits137
-winning number63(2) and (3), 73, 86, 99, 110, 147(1)
+winning number73, 86, 99, 110, 147(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.
