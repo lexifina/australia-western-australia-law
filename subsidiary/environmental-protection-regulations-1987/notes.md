@@ -90,6 +90,7 @@ Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 202
 Environmental Protection Amendment Regulations (No. 2) 2023 | SL 2023/142 6 Sep 2023 | r. 1 and 2: 6 Sep 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Sep 2023 (see r. 2(b))
 Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 4 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 Environmental Protection Amendment Regulations 2024 | SL 2024/4 24 Jan 2024 | r. 1 and 2: 24 Jan 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2024 (see r. 2(b))
+Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2024 Pt. 3 | SL 2024/86 29 May 2024 | 1 Jun 2024 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
