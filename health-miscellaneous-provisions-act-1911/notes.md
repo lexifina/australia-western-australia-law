@@ -145,11 +145,11 @@ Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
  | Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
  | Major Events Act 2023 s. 110 | 12 of 2023 | 22 May 2023 | 23 May 2023 (see s. 2(b))
  | Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
+ | Health (Miscellaneous Provisions) (Offensive Trades) Proclamation 2024 Pt. 2 (SL 2024/53) | 4 Jun 2024 (see cl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11 and Div. 16 (s. 249-271, 273 and 275) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Health (Miscellaneous Provisions) (Offensive Trades) Proclamation 2024 Pt. 2 (SL 2024/53) | 4 Jun 2024 (see cl. 2(b))
 Other notes
 Footnote no longer applicable.
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
@@ -157,21 +157,13 @@ The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
 Proclamations relating to offensive trades were published by Gazette on —
 20 September 1918
-9 April 1948
-10 February 1950
-30 May 1952
-11 January 1957
-10 November 1961 (cancelled by Gazette 29 November 1985)
 10 March 1967
 16 February 1968
-28 February 1969
 5 December 1969
 16 April 1987
 13 November 1987
-25 August 1989
 26 November 1993
 16 June 1995
-28 June 1996
 Renumbering of sections of the Act and certain Part and Division headings was effected in earlier reprints under the Health Act Amendment Act 1919 s. 4 and the Health Act Amendment Act 1933 (No. 2) s. 42.
 The amendment in the Caravan Parks and Camping Grounds Act 1995 s. 33 is not included as the section it sought to amend had been deleted by the Local Government (Consequential Amendments) Act 1996 s. 4 before the amendment came into operation.
 Now known as the Health (Miscellaneous Provisions) Act 1911; short title changed (see note under s. 1).
