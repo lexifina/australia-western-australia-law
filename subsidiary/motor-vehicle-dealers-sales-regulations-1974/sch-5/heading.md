@@ -39,9 +39,10 @@ TERMS AND CONDITIONS
 7.2If this Contract is validly terminated by the Purchaser, the Dealer must immediately refund any deposit paid and return any Trade-In Vehicle to the Purchaser. If, in the event the Trade-In Vehicle has been sold, the cash equivalent of the Trade-In Vehicle value determined at the commencement of the Contract shall be refunded to the Purchaser.
 8.DEALER’S RIGHT TO TERMINATE THIS CONTRACT
 8.1The Dealer may terminate this Contract if the Purchaser has breached any of the obligations imposed on the Purchaser by this Contract.
-8.2If this Contract is validly terminated by the Dealer, the Dealer may seek an amount up to, but not exceeding, 5% of the Total Purchase Price of the Vehicle as pre-estimated liquidated damages.
-8.3Any deposit paid by the Purchaser may be used by the Dealer to meet the pre-estimated liquidated damages payable by the Purchaser. Any surplus will be refunded to the Purchaser.
+8.2If this Contract is validly terminated by the Dealer, the Dealer may seek an amount up to, but not exceeding, 5% of the Total Purchase Price of the Vehicle as pre-estimated damages.
+8.3Any amount sought by the Dealer under Clause 8.2 must be a genuine estimate of the Dealer’s loss arising from the Purchaser’s breach of the obligations imposed on the Purchaser by this Contract.
+8.4Any deposit paid by the Purchaser may be used by the Dealer to meet the pre-estimated damages payable by the Purchaser. Any surplus will be refunded to the Purchaser.
 9.NOTICES
 9.1All Notices required by this Contract may be given by direct communication, telephone, electronically, fax or post to the addresses and numbers included in this Contract.
 9.2If sent by post, a Notice will be considered to have been received, unless the contrary is shown, at the time when the Notice would have been delivered in the ordinary course of the post.
-[Schedule 5, formerly Fifth Schedule, inserted: Gazette 13 Aug 2002 p. 4169-71; amended: SL 2021/164 r. 22.]
+[Schedule 5, formerly Fifth Schedule, inserted: Gazette 13 Aug 2002 p. 4169-71; amended: SL 2021/164 r. 22; SL 2024/33 r. 11.]

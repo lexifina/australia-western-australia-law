@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Dealers (Sales) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Motor Vehicle Dealers (Sales) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Motor Vehicle Dealers (Sales) Regulations 1974 | 14 Jun 1974 p. 1926-36 | 12 Aug 1974
@@ -29,17 +29,21 @@ Motor Vehicle Dealers (Sales) Amendment Regulations 2014 | 8 Jan 2015 p. 89 | r.
 Motor Vehicle Dealers (Sales) Amendment Regulations 2015 | 30 Jun 2015 p. 2330-1 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Licensing Provisions Regulations Amendment Regulations 2017 Pt. 5 | 27 Jun 2017 p. 3408-16 | 1 Jul 2017 (see r. 2(b))
 Commerce Regulations Amendment (Motor Vehicle Dealers and Repairers) Regulations 2021 Pt. 4 | SL 2021/164 24 Sep 2021 | Pt. 4 (other than r. 22): 25 Sep 2021 (see r. 2(c)); r. 22: 1 Jan 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Motor Vehicle Dealers (Sales) Amendment Regulations 2024 r. 3-11 | SL 2024/33 7 Mar 2024 | 7 Jun 2024 (see r. 2(b))
+Motor Vehicle Dealers (Sales) Amendment Regulations 2024 | SL 2024/33 7 Mar 2024 | r. 1 and 2: 7 Mar 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jun 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+corresponding2
 existing trust account10NA(1)
 Form2
+interstate written-off vehicle register2
+jurisdiction2
 previous audit period10NA(1)
+registered repairable write-off2
+repairable write-off2
 section2
+VIN2
+Written-Off Vehicle Register (WA)2
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.
