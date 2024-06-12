@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Firearms Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Firearms Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Firearms Regulations 1974 | 29 Mar 1974 p. 1056-76 | 1 Jul 1974 (see r. 1 and Gazette 29 Mar 1974 p. 1027)
@@ -109,6 +109,10 @@ Firearms Amendment Regulations (No. 2) 2023 | SL 2023/46 19 May 2023 | r. 1 and 
 Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/74 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Firearms Amendment Regulations (No. 4) 2023 | SL 2023/91 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Firearms Amendment Regulations (No. 3) 2023 | SL 2023/129 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Police Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/94 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
@@ -142,7 +146,7 @@ reloaded ammunition16(2)
 revolving rifle26B(1)
 set24(1)
 swinging edgeSch. 4 cl. 4(8)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
