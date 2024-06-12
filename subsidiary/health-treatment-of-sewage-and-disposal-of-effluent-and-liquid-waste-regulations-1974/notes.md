@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Bacteriolytic Treatment of Sewage and Disposal of Effluent and Liquid Waste Regulations | 3 Sep 1974 p. 3303-40 (erratum 13 Sep 1974 p. 3440) | 3 Sep 1974
@@ -53,6 +53,10 @@ Health Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 4 | SL 2020
 Health Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021/108 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
@@ -102,7 +106,7 @@ sedimentation tank3
 septic tank3
 single dwelling3
 wastewater3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
