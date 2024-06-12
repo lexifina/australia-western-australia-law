@@ -143,6 +143,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Jetties Amendment Regulations 2024 r. 3-7 | SL 2024/56 1 May 2024 | 1 Jul 2024 (see r. 2(b))
+Jetties Amendment Regulations (No. 2) 2024 r. 3 and 4 | SL 2024/93 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Footnote no longer applicable.
