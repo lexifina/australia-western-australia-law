@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Work Health and Safety (General) Regulations 2022 | SL 2022/31 11 Mar 2022 | Regulations other than r. 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 49(2), (3) and (4), 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c)); r. 58: 31 Mar 2024 (see r. 2(b))
@@ -7,6 +7,10 @@ Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 
 Work Health and Safety Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
 Work Health and Safety (General) (Fees) Amendment Regulations 2023 | SL 2023/42 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 2 | SL 2023/134 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Work Health and Safety (General) Amendment Regulations 2024 r. 3 and 4 | SL 2024/95 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
