@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Children and Community Services Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Children and Community Services Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Children and Community Services Regulations 2006 | 18 Jan 2006 p. 353-72 | 1 Mar 2006 (see r. 2 and Gazette 14 Feb 2006 p. 695)
@@ -37,6 +37,12 @@ Child Protection Regulations Amendment (Fees and Payments) Regulations 2023 Pt. 
 Children and Community Services Amendment Regulations (No. 2) 2023 | SL 2023/110 14 Jul 2023 | r. 1 and 2: 14 Jul 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jul 2023 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 3) 2023 | SL 2023/172 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 Children and Community Services Amendment Regulations (No. 4) 2023 | SL 2023/179 15 Nov 2023 | r. 1 and 2: 15 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2023 (see r. 2(b))
+Children and Community Services Regulations 2006 with editorial changes as at 14 Jun 2024
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+r. 4(1)(b) and (2)(b) and 4A(3)(c) | s. 25(2) | 14 Jun 2024
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
@@ -70,7 +76,7 @@ section3
 seized article8(1)
 testing16A
 video link9
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
