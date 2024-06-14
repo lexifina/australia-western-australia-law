@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Cemeteries Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Cemeteries Act 1986 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cemeteries Act 1986 | 102 of 1986 | 12 Dec 1986 | s. 1 and 2: 12 Dec 1986; Act other than s. 1 and 2: 1 Jul 1987 (see s. 2 and Gazette 12 Jun 1987 p. 2319)
@@ -20,6 +20,12 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Cemeteries Act 1986 as at 6 May 2016 (includes amendments listed above)
 Local Government Legislation Amendment Act 2019 Pt. 4 Div. 3 | 16 of 2019 | 5 Jul 2019 | 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
+Cemeteries Act 1986 with editorial changes as at 14 Jun 2024
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 3(1) | s. 34 | 14 Jun 2024
 Other notes
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 8 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
