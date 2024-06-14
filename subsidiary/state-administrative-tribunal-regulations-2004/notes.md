@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 State Administrative Tribunal Regulations 2004 | 30 Dec 2004 p. 6747-848 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -65,6 +65,12 @@ State Administrative Tribunal Amendment Regulations 2023 | SL 2023/49 19 May 202
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 2) 2023 | SL 2023/169 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 State Administrative Tribunal Amendment Regulations 2024 | SL 2024/39 4 Apr 2024 | r. 1 and 2: 4 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2024 (see r. 2(b))
+State Administrative Tribunal Regulations 2004 with editorial changes as at 14 Jun 2024
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+Sch. 6 | s. 25(2) | 14 Jun 2024
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
