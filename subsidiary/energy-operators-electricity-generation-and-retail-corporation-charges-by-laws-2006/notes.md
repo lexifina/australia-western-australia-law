@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
  | Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 | 31 Mar 2006 p. 1225-46 | 1 Apr 2006 (see bl. 2)
@@ -31,6 +31,10 @@ Citation | Published | Commencement
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2021 | SL 2021/98 22 Jun 2021 | bl. 1 and 2: 22 Jun 2021 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2021 (see bl. 2(b))
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2022 | SL 2022/70 3 Jun 2022 | bl. 1 and 2: 3 Jun 2022 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2022 (see bl. 2(b))
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2023 | SL 2023/85 27 Jun 2023 | bl. 1 and 2: 27 Jun 2023 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2023 (see bl. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2024 bl. 3-5 | SL 2024/102 14 Jun 2024 | 1 Jul 2024 (see bl. 2(b))
 Other notes
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 The Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016, (row 5 of the table in by-law 5) was disallowed by the Legislative Council on 22 Nov 2016 (see Gazette 6 Dec 2016 p. 5492).
@@ -52,7 +56,7 @@ relevant period8(1)
 residential tariff3
 Tariff3
 unit3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
