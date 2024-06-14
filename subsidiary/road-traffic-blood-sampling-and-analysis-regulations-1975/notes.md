@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Blood Sampling and Analysis) Regulations 1975 | 29 May 1975 p. 1537-42 | 1 Jun 1975
@@ -35,6 +35,12 @@ Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2017 | 27 Jun 2
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2019 | 8 Feb 2019 p. 247-9 | r. 1 and 2: 8 Feb 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2019 (see r. 2(b))
 Reprint 5: The Road Traffic (Blood Sampling and Analysis) Regulations 1975 as at 9 Aug 2019 (includes amendments listed above)
 Road Safety Regulations Amendment and Repeal Regulations 2021 Pt. 2 | SL 2021/58 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
+Road Traffic (Blood Sampling and Analysis) Regulations 1975 with editorial changes as at 14 Jun 2024
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+r. 7(2A) | s. 34 | 14 Jun 2024
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
