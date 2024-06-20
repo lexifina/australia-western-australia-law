@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -45,19 +45,15 @@ Commerce Regulations Amendment (Swan Valley Planning Scheme) Regulations 2021 Pt
 Commerce Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/26 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Building Amendment Regulations (No. 2) 2022 | SL 2022/162 23 Sep 2022 | r. 1 and 2: 23 Sep 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2023 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2023 | SL 2023/146 20 Sep 2023 | r. 1 and 2: 20 Sep 2023 (see r. 2(a)); r. 4(1): 21 Sep 2023 (see r. 2(b)); Regulations other than r. 1, 2 and 4(1): 1 Oct 2023 (see r. 2(c))
-Building Amendment Regulations 2023 (other than Pt. 3) | SL 2023/208 20 Dec 2023 | Pt. 1: 20 Dec 2023 (see r. 2(a)); Pt. 2: 21 Dec 2023 (see r. 2(b))
+Building Amendment Regulations 2023 | SL 2023/208 20 Dec 2023 | Pt. 1: 20 Dec 2023 (see r. 2(a)); Pt. 2: 21 Dec 2023 (see r. 2(b)); Regulations other than Pt. 1 and 2: 20 Jun 2024 (see r. 2(c))
 Building Amendment Regulations 2024 | SL 2024/49 17 Apr 2024 | r. 1 and 2: 17 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Building Amendment Regulations 2023 Pt. 3 | SL 2023/208 20 Dec 2023 | 20 Jun 2024 (see r. 2(c))
 Other notes
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 10 year life battery55(1)
-access through a building48
+access48
 accredited person31
 applicable technical aspects47(1A)
 application31, 40(1)
@@ -67,13 +63,13 @@ approved barrier solution3
 approved door48
 architectural feature44A
 AS3
-AS 1926.148
+AS 1926.1-19933
 AS 1926.1-20123
 AS 39593
 assessment method3
 builder work3
 Building Code3, 3A(1)
-Building Code pool barrier requirements3
+Building Code pool barrier requirement3
 building product31J(1)
 building site3
 bushfire attack level (BAL)3
@@ -89,6 +85,7 @@ commencement day3, 31HB(1)
 debris criteria31HA(1)
 decision33(1)
 declaration of intended demolition55(1)
+deemed-to-satisfy solution3
 dwelling55(1)
 earlier edition31A(4), 31IA(5)
 electrician55(1)
@@ -99,11 +96,14 @@ exempt remedial work31HA(1)
 existing building or incidental structure31HA(1)
 expiry day23(1), 40(1)
 external wall31HA(1)
+fall prevention barrierSch. 4 cl. 2
+fenceSch. 4 cl. 2
 FES Commissioner3
 fire resistance performance requirement3
 former provisions3
 GSTSch. 1 cl. 1
 heritage works permit3
+initial inspection53A(1)
 local planning scheme3, 31HB(1)
 managed reserve10(1A)
 management body10(1A)
@@ -113,9 +113,11 @@ owner10(2A), 55(1)
 performance requirement3
 performance solution3
 pergolaSch. 4 cl. 2
+periodic inspection53A(1)
 permit authority14A(1)
 person responsible54A(1)
 person with a disability51(1)
+pool barrier48
 post-transfer period57(1A)
 pre-May 2016 private swimming pool 3
 prior owner57(1)
@@ -123,16 +125,19 @@ private swimming pool3
 protection order3
 public place44A
 regulation 5A54(1)
+re-inspection53A(1)
 relevant building31BA(1A), 31D
 relevant building standards48A(1)
 relevant componentsSch. 1 cl. 1
 relevant day60(1)
 relevant edition of the Building Code3
+relevant inspection53(2)
 remedial work31HA(1)
 renovation, alteration, extension, improvement or repair31BA(1A)
 repair notice3
 repair order3
 repeal day54(1)
+reporting period53B(1)
 residential tenancy agreement55(1)
 road10(1A), 44A
 safety measures48A(1)
