@@ -17,6 +17,7 @@ Lotteries Commission (Super66 and Removal of Self-serve Kiosks) Amendment Rules 
 Lotteries Commission (Authorised Lotteries) (Powerball) Amendment Rules 2023 | 28 Apr 2023 p. 867 | r. 1 and 2: 28 Apr 2023 (see r. 2(a)); Rules other than r. 1 and 2: immediately after the Powerball draw on 18 May 2023 (see r. 2(b))
 Lotteries Commission (Authorised Lotteries) (Commission) Amendment Rules 2023 | 3 Nov 2023 p. 3607-8 | r. 1, 2 and 3: 3 Nov 2023 (see r. 2(a)); r. 6: 6:01pm on 23 Nov 2023 (see r. 2(e)); r. 7: 6:01pm on 25 Nov 2023 (see r. 2(f)); r. 4(1) and (2): 6:01pm on 27 Nov 2023 (see r. 2(b)); r. 5: 6:01pm on 28 Nov 2023 (see r. 2(d)); r. 4(3) and (4): 6:01pm on 29 Nov 2023 (see r. 2(c)); r. 8: 6:01pm on 30 Nov 2023 (see r. 2(g))
 Lotteries Commission (Authorised Lotteries) (Millionaire Medley) Amendment Rules 2024 | 23 Apr 2024 p. 1078-82 | r. 1-6: 23 Apr 2024 (see r. 2(a)); r. 7-9: 11:59 pm on 31 May 2024 (see r. 2(b))
+Lotteries Commission (Authorised Lotteries) (Set for Life) Amendment Rules 2024 | 25 Jun 2024 p. 1524 | 25 Jun 2024 (see r. 2(a))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
