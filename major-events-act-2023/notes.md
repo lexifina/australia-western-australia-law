@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Major Events Act 2023. For provisions that have come into operation see the compilation table.
+This is a compilation of the Major Events Act 2023. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Major Events Act 2023 | 12 of 2023 | 22 May 2023 | Pt. 1: 22 May 2023 (see s. 2(a)); Act other than Pt. 1: 23 May 2023 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 12 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -83,3 +87,7 @@ WA event venue4
 WA event venue controller4
 waters28(1)
 weapon4
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
