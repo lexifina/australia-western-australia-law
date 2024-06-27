@@ -162,6 +162,7 @@ Liquor Control (Joy Springs Restricted Area) Regulations 2023 Pt. 5 | SL 2023/15
 Liquor Control (Mingullatharndo Restricted Area) Regulations 2023 Pt. 5 | SL 2023/174 1 Nov 2023 | 2 Nov 2023 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2023 (other than Pt. 4) | SL 2023/196 13 Dec 2023 | Pt. 1: 13 Dec 2023 (see r. 2(a)); Pt. 2: 14 Dec 2023 (see r. 2(b)) Pt. 3: 1 Jan 2024 (see r. 2(c))
 Liquor Control (Weymul Restricted Area) Regulations 2024 Pt. 5 | SL 2024/37 20 Mar 2024 | 21 Mar 2024 (see r. 2(b))
+Liquor Control (Strelley Restricted Area) Regulations 2024 Pt. 5 | SL 2024/138 26 Jun 2024 | 27 Jun 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
