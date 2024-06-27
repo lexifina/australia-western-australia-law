@@ -7,10 +7,12 @@ Industrial Relations Regulations Amendment (Work Health and Safety) Regulations 
 Work Health and Safety Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/22 24 Mar 2023 | 31 Mar 2023 (see r. 2(b))
 Work Health and Safety (General) (Fees) Amendment Regulations 2023 | SL 2023/42 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 2 | SL 2023/134 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
+Work Health and Safety (General) Amendment Regulations (No. 2) 2024 (other than Pt. 3) | SL 2024/139 26 Jun 2024 | Pt. 1: 26 Jun 2024 (see r. 2(a)); Regulations other than Pt. 1 and 3: 27 Jun 2024 (see r. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Work Health and Safety (General) Amendment Regulations 2024 r. 3 and 4 | SL 2024/95 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Work Health and Safety (General) Amendment Regulations (No. 2) 2024 Pt. 3 | SL 2024/139 26 Jun 2024 | 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,6 +28,7 @@ Agvet Code5
 airborne contaminant5
 altered244(1A)
 amusement device5
+application documents689C(1A)
 appropriate training460(1A)
 article5
 AS 26015
@@ -79,28 +82,29 @@ commercial vehicle184C
 commercial vehicle driver184C
 compatible357(2A)
 competency assessment5
-competent person5, 235(1B), 240(1A), 252(1A)
+competent person5, 235(1B), 241(1A), 252(1A)
 concrete panel5, 306A(1)
 concrete placing boom5
 confined space5
 confined space entry permit5
-construction project5, 292
+construction project5, 291
 construction site5
 construction work5, 289(1), (2) and (3)
 consumer product5
 container5
 contaminant5
-controlled184A(2), 446(4)
+controlled5, 446(4), 529B(1)
 control measure5
 conveyor5
 correct classification5
 correctly classifiedSch. 9 cl. 1(1), (2) and (3)
-correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2),7(2), 8(2), 9(2) and 10(1)
+correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2), 10(1)
 correctly packedSch. 9 cl. 2(1) and (2)
 crane5
+crystalline silica529A(1A)
 current certificate of medical fitness5
-current class721(2)
-danger zone166A
+current class721(3)
+danger zone166A(1)
 de-energised5
 demolition licence5
 demolition or refurbishment447(1A)
@@ -122,8 +126,9 @@ eligible person676(1)
 emergency454(1A), 455(1A)
 emergency service organisation5
 emergency service worker5
-enclosed workplace5, 50A, 50B(1), (2), (3) and (6)
+enclosed workplace5, 50A, 50B(1), (2), and (6)
 energised5
+engineered stone5, 529A(1)
 engineering control5
 entry5
 essential services5
@@ -207,7 +212,7 @@ medical examination notice5, 55E, 55F(1)
 membrane filter method5
 mixture5
 mobile crane5
-motor vehicle184B
+motor vehicle184C
 moving82(3)
 musculoskeletal disorder5
 NATA5
@@ -235,6 +240,7 @@ plant5
 platform5
 platform height5
 Poisons Standard335(1A)
+porcelain product5
 portal boom crane5
 powered mobile plant5
 precautionary statement5
@@ -243,6 +249,7 @@ pressure equipment5
 pressure piping5
 pressure vessel5
 principal contractor5, 293(1)
+processing5, 529C
 product identifier5
 prohibited carcinogen5
 psychosocial hazard5, 55A
@@ -263,14 +270,14 @@ remote or isolated work48(1A)
 research chemical5
 respirable49(4)
 respirable asbestos fibre5
-respiratory protective equipment184A(3)
+respiratory protective equipment529B(1A)
 responsible person184C, 306I
 restricted carcinogen5
 retailer5
 reviewable decisions676(1)
 rigging work5
 roll-over protective structure216(1A)
-roof5, 50(3)
+roof5, 50A
 roof space153(1)
 RTO5
 safe oxygen level5
@@ -286,9 +293,11 @@ service apparatus153(1)
 shaft5
 shorter transitional period705
 signal word5
+sintered stone5
 slewing mobile crane5
 slinging techniques5
 smoke5, 50A
+social partner SWA members689B(1A)
 solid construction78(1A)
 specified VET course5
 steam turbine5
