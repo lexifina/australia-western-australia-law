@@ -10,9 +10,14 @@ Liquor Control (Bayulu Restricted Area) Amendment Regulations 2019 | 11 Jun 2019
 Liquor Control (Bayulu Restricted Area) Amendment Regulations (No. 2) 2019 | 29 Nov 2019 p. 4107-8 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)) Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 2) 2022 Pt. 2 | SL 2022/63 3 Jun 2022 | 4 Jun 2022 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2023 Pt. 2 | SL 2023/26 6 Apr 2023 | 7 Apr 2023 (see r. 2(b))
+Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 3) 2024 Pt. 2 | SL 2024/109 26 Jun 2024 | 27 Jun 2024 (see r. 2(b))
 Other notes
-These regulations expire at the close of 28 June 2024 (see r. 9).
+These regulations expire at the close of 28 June 2025 (see r. 9).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Bayulu Aboriginal Community3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
