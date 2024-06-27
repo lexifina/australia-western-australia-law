@@ -10,6 +10,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 4 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 5 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -106,3 +107,7 @@ urgent variation application5, 19(3)(b)
 urgent variation of authority5, 21(1)(b), 51(4)(b)
 use44
 witness identity protection certificate80
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
