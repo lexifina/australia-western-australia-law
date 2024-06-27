@@ -54,7 +54,7 @@ Land Administration (South West Native Title Settlement) Act 2016 Pt. 6 | 10 of 
 Biodiversity Conservation Act 2016 s. 318(1) and (2)(a) | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Reprint 7: The Land Administration Act 1997 as at 6 Oct 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 318)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 9 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Land and Public Works Legislation Amendment Act 2023 Pt. 2 (other than s. 6, 29, 30, 31, 82, 88) | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL2023/132 cl. 2)
+Land and Public Works Legislation Amendment Act 2023 Pt. 2 (other than s. 82 and 88) | 4 of 2023 | 24 Mar 2023 | Pt. 2 (other than s. 6, 29, 30, 31, 82 and 88): 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2); s. 6, 29, 30 and 31: 27 Jun 2024 (see s. 2(b) and SL 2024/120 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -62,7 +62,7 @@ Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 |
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Biodiversity Conservation Act 2016 s. 318(2)(b) | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
-Land and Public Works Legislation Amendment Act 2023 Pt. 2 (s. 6, 29, 30, 31, 82, 88) | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 s. 82 and 88 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 30 | 23 of 2023 | 24 Oct 2023 | Immediately after the Land and Public Works Legislation Amendment Act 2023 s. 82 comes into operation (see s. 2(c)(ii))
 Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 7 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes

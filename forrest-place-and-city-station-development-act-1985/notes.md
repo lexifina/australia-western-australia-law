@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Forrest Place and City Station Development Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Forrest Place and City Station Development Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Forrest Place and City Station Development Act 1985 | 106 of 1985 | 17 Dec 1985 | 17 Dec 1985 (see s. 2)
@@ -16,10 +16,7 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 2: The Forrest Place and City Station Development Act 1985 as at 15 Nov 2013 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 5 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
+Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 5 | 4 of 2023 | 24 Mar 2023 | 27 Jun 2024 (see s. 2(b) and SL 2024/120 cl. 2)
 Other notes
 The Office of Titles and the Department formerly known as the Department of Lands and Surveys were both replaced by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Marginal notes in the agreement have been represented as bold headnotes in this compilation but that does not change their status as marginal notes.
@@ -38,3 +35,7 @@ party12A(1)
 public place11(4)
 reserved land3
 street11(4)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
