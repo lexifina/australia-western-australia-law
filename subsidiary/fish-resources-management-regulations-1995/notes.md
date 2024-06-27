@@ -206,6 +206,7 @@ Fish Resources Management Amendment Regulations (No. 2) 2022 | SL 2022/134 15 Ju
 Fish Resources Management Amendment Regulations (No. 3) 2022 | SL 2022/160 23 Sep 2022 | r. 1 and 2: 23 Sep 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2022 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2023 | SL 2023/2 27 Jan 2023 | r. 1 and 2: 27 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2023 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2024 | SL 2024/64 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2024 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 3) 2024 | SL 2024/114 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b))
 Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -220,9 +221,9 @@ Abalone Zone3(1)
 Abrolhos Islands Fish Habitat Protection Area3(1)
 aircraft3(1)
 ALC55A
-ALC fishing boat55C
+ALC fishing boat55C(1)
 allowed time31(1)
-applicant123A(1), 124A(1), 124D(1)
+applicant123A(1), 124D(1)
 approval to transport144A(1)
 approved72, 144A(1)
 approved automatic location communicator55A
@@ -282,7 +283,7 @@ fish processor’s licence3(1)
 fish trunk3(1)
 form3(1)
 former authorisation holder129A
-freshwater finfish65E
+freshwater finfish65D(2)
 Freycinet Estuary3(1)
 full amount outstanding of the fee137(5)
 Gascoyne Region3(1)
@@ -312,6 +313,7 @@ licensed carrier boat3(1)
 licensed carrier boat number3(1)
 licensed fishing boat3(1)
 licensed fishing boat number3(1)
+licensee128U(1)
 live import list69A(1)
 mammal or bird products63A(1)
 marron drop net3(1), 38G
@@ -343,14 +345,18 @@ Port of Bunbury Sch. 5
 Port of FremantleSch. 5
 prawn hand trawl net3(1)
 prescribed abalone16GD(1)
+prescribed way128T(3)
 principal place of residence3(1)
 pull3(1)
 quarantine site144A(1)
+quota period128U(1)
+quota tag128T(3), 128U(1)
 recreational (boat) fishing licence receipt124D(1)
 recreational fishing licence3(1), 136(1)
 recreational fishing licence receipt124A(1)
 region3(1)
 release weight64OAA(1)
+relevant demersal finfish128T(3)
 reserve72
 responsible person64(1A)
 restricted fishing tour128S(1)
