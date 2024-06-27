@@ -45,6 +45,7 @@ Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 | SL 2022/174 21 Oct 
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/45 19 May 2023 | 20 May 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 3 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 (other than Div. 3) | SL 2024/58 1 May 2024 | 2 May 2024 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 2) 2024 | SL 2024/107 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -288,6 +289,7 @@ point of articulation3
 pole-type trailer3, 390
 Police Service employee453(2)
 prime mover3
+principal grooves270(1A)
 proposed action454Q(1), 466(2)
 provisional licence454A
 radial ply tyre266(1)
@@ -316,6 +318,7 @@ road tank vehicle226
 road train3, 367
 school bus86, 226
 seasonal heavy vehicle licence3
+secondary grooves270(1A)
 second edition ADR226
 section3
 semi-trailer3
@@ -349,6 +352,7 @@ trailer derivative38(1)
 transitional pilot454ZC(1)
 transparent material259(1)
 transport enforcement vehicle226
+tread wear indicators270(1A)
 turntable3
 unloaded mass3
 used423(1)
