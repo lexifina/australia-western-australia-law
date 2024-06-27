@@ -69,6 +69,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law (Mental Impairment) Act 2023 s. 409 and 411 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 19 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
