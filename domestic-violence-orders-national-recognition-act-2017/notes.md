@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Domestic Violence Orders (National Recognition) Act 2017. The following table contains information about that Act.
+This is a compilation of the Domestic Violence Orders (National Recognition) Act 2017. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Domestic Violence Orders (National Recognition) Act 2017 | 10 of 2017 | 8 Nov 2017 | s. 1 and 2: 8 Nov 2017 (see s. 2(b)); Act other than s. 1 and 2: 25 Nov 2017 (see s. 2(b) and Gazette 24 Nov 2017 p. 5671)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 9 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -46,3 +50,7 @@ registered foreign order4(1), 7
 relevant law20(2)
 respondent26(1)
 vary4(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
