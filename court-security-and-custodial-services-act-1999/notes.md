@@ -31,7 +31,8 @@ Firearms Amendment Act 2022 s. 83 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see 
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 5 and s. 410 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 5 and s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 3 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 Defined terms
@@ -88,3 +89,7 @@ subcontractor3
 vehicle3
 weapon90(4)
 young person3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
