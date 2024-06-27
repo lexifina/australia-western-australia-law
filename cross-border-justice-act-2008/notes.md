@@ -14,7 +14,8 @@ Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 2 | 
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 10 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 10 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 7 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -102,3 +103,7 @@ WA/SA region31(3)
 WA/SA/NT charge68(3)
 WA/SA/NT region31(3)
 written law7(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
