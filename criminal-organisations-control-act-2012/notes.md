@@ -12,6 +12,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 147 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 6 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 The Criminal Organisations Control Act 2012 s. 176(5) had not come into operation when it was deleted by the Statutes (Minor Amendments) Act 2017 s. 6(3).
 The amendment in the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 to Sch. 1A Pt. 1 it. 3 and Pt. 2 it. 3 is not included because the reference to the provision to be amended is unclear.
@@ -22,8 +23,6 @@ associate3(1)
 authorisation3(1)
 CC Commissioner3(1)
 close family member3(1), 3(2)
-COC Act221C(1), 9A(1)
-COC Act offence9A(1)
 co-licensee93(1)
 Commissioner of Police3(1)
 controlled person3(1)
@@ -32,11 +31,9 @@ conviction3(1)
 corresponding law3(1), 118
 court3(1)
 criminal intelligence information3(1), 109
-criminal organisation221C(1), 221D(1), 177(2)
-criminal organisation offence177(2)
 declaration3(1)
 declaration proceedings32(1)
-declared criminal organisation3(1), 221C(1), 176(4A), 179(3), 9A(1)
+declared criminal organisation3(1)
 designated authority3(1)
 engage in conduct103(1)
 existing order63(2)
@@ -46,14 +43,13 @@ firearms authorisation3(1)
 firearms condition3(1)
 funds3(1)
 identifying particular87
-indictable offence221C(1)
-interim control order2(1)
+interim control order3(1)
 interstate control order3(1), 118
 interstate declaration3(1), 118
 judge3(1)
 juvenile3(1)
 juveniles73(1)
-member3(1), 176(4A), 179(3)
+member3(1)
 monitoring period156
 new order63(2)
 occupation3(1)
@@ -66,8 +62,7 @@ person A3(2)
 personal details3(1)
 person B3(2)
 prescribed activity3(1), 80(1)
-prohibited item82
-prohibited thing69B
+prohibited item82(1)
 prohibition order98(1)
 protected submission3(1), 11(1)
 recruit3(1)
@@ -76,11 +71,8 @@ registered interstate control order3(1)
 registered interstate declaration3(1)
 registrar3(1)
 regulatory authority3(1)
-relevant drug offence179(3)
 relevant event84(4)
-relevant indictable offence9A(1)
 relevant order97(1)
-relevant simple offence9A(1)
 reporting period156
 respondent7(1), 118
 responsible person3(1)
@@ -89,7 +81,6 @@ senior police officer3(1)
 serious criminal activity3(1)
 serious indictable offence3(1)
 serious violence offence3(1)
-victim177(2)
 weapon3(1)
 working day3(1)
 © State of Western Australia 2024.
