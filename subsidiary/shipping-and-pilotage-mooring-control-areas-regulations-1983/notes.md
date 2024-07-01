@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Shipping and Pilotage (Mooring Control Areas) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Shipping and Pilotage (Mooring Control Areas) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Shipping and Pilotage (Mooring Control Areas) Regulations 1983 | 28 Nov 1983 p. 4709-14 | 28 Nov 1983 (see r. 2 and Gazette 28 Nov 1983 p. 4707)
@@ -11,9 +11,6 @@ Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 2011 | 11 Fe
 Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 2012 | 14 Feb 2012 p. 669-70 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
 Transport Regulations Amendment (Mooring Management) Regulations 2021 Pt. 3 | SL 2021/147 13 Aug 2021 | 28 Sep 2021 (see r. 2(b))
 Transport Regulations Amendment (Waiver and Refund) Regulations 2022 Pt. 4 | SL 2022/47 8 Apr 2022 | 9 Apr 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Mooring Control Areas) Regulations 2024 Pt. 2 | SL 2024/69 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Repealed by the Interpretation Act 1984.
@@ -21,14 +18,21 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act3
+additional hire period3
 amending instrument21(2)
 authorised fee officer3
-displacement tonneage3
+commencement day25(1)
+displacement tonnage3
 fee3
+hirer3
+initial hire period6A(1)
 mooring3
-mooring apparatus2
+mooring apparatus3
+mooring site3
+nominated vessel3
 person3
-registered owner3
+pre-commencement regulations25(1)
+relevant area7(1)
 written instrument3
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
