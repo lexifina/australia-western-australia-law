@@ -31,6 +31,7 @@
  | s. 317A(a) | Assault with intent to commit or facilitate a crime
  | s. 317A(b) | Assault with intent to do grievous bodily harm
  | s. 318 | Serious assaults
+ | s. 318B | Assault on retail workers
  | s. 320(2) | Sexual penetration of child under 13
  | s. 320(3) | Procuring child under 13 to engage in sexual behaviour
  | s. 320(4) | Indecently dealing with child under 13
@@ -206,4 +207,4 @@
  | s. 474.27AA(2) | Using carriage service to “groom” person to procure child under 16 for sexual activity with another person who is an adult
  | s. 474.27AA(3) | Using carriage service to “groom” person to procure child under 16 for sexual activity with another person who is under 18
  | s. 474.27A(1) | Using carriage service to transmit indecent communication to child under 16
-[Schedule 2 inserted: No. 45 of 1993 s. 11; amended: No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11; No. 49 of 2012 s. 172; No. 30 of 2020 s. 50; No. 29 of 2022 s. 10; No. 31 of 2023 s. 28(2).]
+[Schedule 2 inserted: No. 45 of 1993 s. 11; amended: No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11; No. 49 of 2012 s. 172; No. 30 of 2020 s. 50; No. 29 of 2022 s. 10; No. 31 of 2023 s. 28(2); No. 16 of 2024 s. 7.]

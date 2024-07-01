@@ -201,13 +201,14 @@ Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 3 | 5 of 2023 | 2
 Directors’ Liability Reform Act 2023 Pt. 2 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Abortion Legislation Reform Act 2023 Pt. 2 | 20 of 2023 | 27 Sep 2023 | 27 March 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 30 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
+Criminal Code Amendment Act 2024 Pt. 2 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/125 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
-Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
-Criminal Code Amendment Act 2024 Pt. 2 | 16 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 4 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -296,7 +297,9 @@ conducting a business331C(1)
 consent221BA, 221BB(1), 319(2)
 consort557K(1)
 contract546
+contractor318B(1)
 conveyance1(1), 284(1), 390A(1)
+conviction426A(1)
 court5(1)
 court of summary jurisdiction1(1)
 CP Act720
@@ -304,6 +307,7 @@ criminally responsible1(1)
 criminal organisation221C(1), 221D(1)
 criminal responsibility1(1)
 current offence401B(1), 401(4)
+current stealing offence426A(2)
 damage1(1), 1(1)
 dangerous goods294A(3)
 dangerous thing305(1)
@@ -415,8 +419,9 @@ prescribed amount68D(1)
 prescribed circumstances297(8), 318(5)
 prescribed offence299(1), 321A(1)
 prescribed place68B(1)
+previous stealing offence426A(2)
 principal546
-principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1),553(1), 558(1), 562(1)
+principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1), 553(1), 558(1), 562(1)
 print98(1), 99(1)
 prior relevant convictions401A(4)
 prison145(1)
@@ -425,7 +430,7 @@ prohibited conduct187(1)
 property1(1), 371(7), 414
 provider305A(3)
 provocation245
-public officer(1), 84
+public officer1(1), 84
 public place1(1)
 public servant81(1)
 publish76, 98(1), 99(1), 345(7)
@@ -443,6 +448,7 @@ relevant period10L(1), 10M(1), 99(1)
 repeat offender401B(1)
 responsible adult75B(1)
 restricted-access computer system440A(1)
+retail worker318B(1)
 review date740B(1)
 reward96(1)
 riot62
@@ -461,9 +467,11 @@ sexual act321A(1)
 sexual offence10K
 sexual service331A
 ship1(1)
+shop318B(1)
 solicit any valuable consideration546
 special property371(2)
 steal371
+stealing offence426A(1)
 summarily1(1)
 summary conviction1(1)
 Summary conviction penalty5
@@ -490,6 +498,7 @@ victim10M(1), 10N(1), 204B(1), 331D(1) and (2), 345(1), 494(1)
 voice print489
 volatile substance206(1)
 wilfully destroy or damage443
+worker318B(1)
 writing397
 written or pictorial material76
 © State of Western Australia 2024.

@@ -45,6 +45,7 @@
  | s. 317 | Assaults occasioning bodily harm
  | s. 317A | Assaults with intent
  | s. 318 | Serious assaults
+ | s. 318B | Assault on retail workers
  | s. 320(2)-(6) | Child under 13, sexual offences against
  | s. 321(2)-(6) | Child of or over 13 and under 16, sexual offences against
  | s. 323 | Indecent assault
@@ -109,7 +110,7 @@
  | s. 75B(1) and (2) | Dangerous navigation of vessel occasioning death
  | s. 75BA(1) and (2) | Dangerous navigation of vessel occasioning grievous bodily harm
  | s. 75BB(1) and (3) | Dangerous navigation of vessel occasioning bodily harm — if the offender is liable to imprisonment for 7 years
-[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39; No. 13 of 2022 s. 85(2); No. 31 of 2023 s. 37(7).]
+[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39; No. 13 of 2022 s. 85(2); No. 31 of 2023 s. 37(7); No. 16 of 2024 s. 8.]
 ## Part 2 — Relevant simple offences
 [Heading inserted: No. 49 of 2012 s. 181(4).]
  | Enactment | Description of offence
