@@ -1,23 +1,19 @@
 Notes
 This is a compilation of the Health Practitioner Regulation National Law (Western Australia). The Health Practitioner Regulation National Law (as enacted by the Health Practitioner Regulation National Law Act 2009 (Queensland) Schedule) is applied and modified as a law of Western Australia by or under the Health Practitioner Regulation National Law Application Act 2024 (the WA Application Act). This is a version of the Health Practitioner Regulation National Law as it applies in Western Australia (as modified) as at the date specified below.
+This version also includes any amendments to the Health Practitioner Regulation National Law made by Queensland Acts where those amendments have effect and have commenced in Western Australia under sections 8 and 9 of the WA Application Act. See the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (Western Australia) |  |  | 15 May 2024 (see WA Act No. 21 of 2024 s. 2(c))
-Health Practitioner Regulation National Law Application Act 2024 Pt. 3 (other than s. 29) | 21 of 2024 | 14 May 2024 | 15 May 2024 (see s. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
- | Health Practitioner Regulation National Law Application Act 2024 s. 29 | 21 of 2024 | 14 May 2024 | Operative on commencement of the Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022 (Queensland) s. 94 (see s. 2(b)(ii))
+Health Practitioner Regulation National Law Application Act 2024 Pt. 3 | 21 of 2024 | 14 May 2024 | Pt. 3 (other than s. 29): 15 May 2024 (see s. 2(c)); s. 29: 1 Jul 2024 (see s. 2(b)(ii))
+Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022 Ch. 3 Pt. 7, 8, 13, 21 (other than section 93 to the extent it is already in force on 10 Oct 2023), Pt. 29 and 30 and s. 117(2), 124, 127 and 128 | Published on QLD legislation website |  | 1 Jul 2024 (see QLD SL 2024/93)
 Other notes
-As at 15 May 2024, when the Health Practitioner Regulation National Law began to apply as a law of Western Australia, the version of the National Law that applied, under the WA Application Act section 5(1), was the Health Practitioner Regulation National Law set out in the Schedule to the Health Practitioner Regulation National Law Act 2009 (Queensland), as in force on 10 October 2023.
-The version of the National Law applying as at 15 May 2024 includes all modifications to the National Law made by the WA Application Act Part 3 (other than section 29).
 The Health Practitioner Regulation National Law (Western Australia) has been formatted in accordance with WA drafting style. Editorial notes have been inserted as part of producing this compilation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 ACC5
 accreditation5
-accreditation committee4
+accreditation committee5
 accreditation function42
 accreditation standard5
 accredited program of study5
@@ -31,19 +27,20 @@ Agency Fund5
 Agency Management Committee324(2)
 AIC Act212A(4)
 Ambulance Service of New South Wales306
-amendSch. 7 cl. 12(1)
+amendSch. 7 cl. 11(1)
 another jurisdiction317(3)
 appellable decision199(1)
-appointSch. 7 cl. 11(1)
+appointSch. 7 cl. 12(1)
 appropriate health profession123(2)
 appropriately qualified67(8)
-appropriate professional indemnity insurance arrangements4
+appropriate professional indemnity insurance arrangements5
 approved accreditation standard5
 approved area of practice5
 approved program of study5, 86
 approved qualification5
 approved registration standard5
 assessment168
+associate159N(7), 226(4)
 AustraliaSch. 7 cl. 12(1)
 Australian legal practitioner5
 basic instrument-makingSch. 7 cl. 30(3)
@@ -59,7 +56,7 @@ commencement day250
 CommonwealthSch. 7 cl. 12(1)
 community memberSch. 4 cl. 1
 conferSch. 7 cl. 12(1)
-continued Board320(1)
+continued Board320
 contraveneSch. 7 cl. 12(1)
 co-regulatory authority5
 co-regulatory jurisdiction5
@@ -81,16 +78,18 @@ electronic communicationSch. 7 cl. 12(1)
 employer142(4)
 employment contract295(2)
 empoweringSch. 7 cl. 30(2)
-empowering provisionSch. 7 cl. 30(1)
+empowering provisionSch. 6 cl. 30(1)
 entity5
 estateSch. 7 cl. 12(1)
 exercise5
 existing Board31(6)
 expireSch. 7 cl. 12(1)
+extended or substituted interim prohibition order159L(1), 159M(1)
 external accreditation entity5
 external TerritorySch. 7 cl. 12(1)
 extrinsic materialSch. 7 cl. 8(1)
 failSch. 7 cl. 12(1)
+family159N(7), 226(4)
 financial yearSch. 7 cl. 12(1)
 first BoardSch. 4 cl. 9
 first health practitioner141(1)
@@ -125,6 +124,7 @@ insertSch. 7 cl. 12(1)
 instrumentSch. 7 cl. 12(1)
 instrument-making powerSch. 7 cl. 30(3)
 interestSch. 7 cl. 12(1)
+interim prohibition order5, 159A(2)
 internal TerritorySch. 7 cl. 12(1)
 Jervis Bay TerritorySch. 7 cl. 12(1)
 large participating jurisdiction33(11)
@@ -164,7 +164,7 @@ original warrantSch. 5 cl. 7(3)
 orthoptist122(2)
 other BoardSch. 4 cl. 9
 other person165(1), 241(1), Sch. 5 cl. 18(1), Sch. 6 cl. 18(1)
-ownerSch. 5 cl. 18(6), Sch. 6 cl. 18(6)
+ownerSch. 5 cl. 18(5), Sch. 6 cl. 18(6)
 panel5
 Paramedicine Board306
 participating jurisdiction5
@@ -189,6 +189,8 @@ proceedingSch. 7 cl. 12(1)
 professional misconduct5
 program of study5
 prohibited196A(2)
+prohibited name131A(4)
+prohibited person159O(1)
 prohibition order5
 propertySch. 7 cl. 12(1)
 protected information214
@@ -199,8 +201,8 @@ public health facility5
 public sector auditorSch. 3 cl. 8(7)
 recipient248
 recognised specialty5
-recordSch. 7 cl. 12(1)
-registered health practitioner5, 128(3), 129(5)
+recordSch. 7 cl. 12
+registered health practitioner5, 128(2), 129(5)
 registration authority5
 registration period61(1), 64(1), 76(1)
 registration standard5
@@ -210,18 +212,18 @@ regulatory body5
 related health professionals258(3)
 relevant action5
 relevant day306
-relevant event130(3), 130(3)
+relevant event130(3)
 relevant fee5
 relevant health profession250
 relevant law55(2)
-relevant provision5, 159P
+relevant provision5, 159B, 159P
 relevant section82(2), 102(3)
 repealSch. 7 cl. 12(1)
 repealed Law250
 replacement Board31(2)
 responsible Minister5
 responsible tribunal5
-restricted birthing practice123(1)
+restricted birthing practice123A(1)
 restricted dental act121(2)
 review body127A(4)
 review period5
@@ -229,7 +231,7 @@ scheduled medicine5
 scheduled medicine offence130(3)
 second health practitioner141(1)
 secondment arrangement261(3)
-second person113(2), 113(2)
+second person113(2)
 signSch. 7 cl. 12(1)
 small participating jurisdiction33(11)
 specialist health practitioner5, 270(3)
@@ -242,15 +244,17 @@ statutory instrumentSch. 7 cl. 12(1)
 student5
 student register5
 surgical class115A(5)
+suspension period5, 112A(1)
 swearSch. 7 cl. 12(1)
 technical work121(2)
 the LawSch. 7 cl. 12(2)
 transfer day294
 transition period281(3), 284(5)
-unique identifier233(2)
+unique identifier232(2)
 unprofessional conduct5
 unregistered person5
 unsatisfactory professional performance5
+varied interim prohibition order159G(1)
 Victorian Government Printer245(5)
 voluntary notification5
 wordSch. 7 cl. 12(1)
