@@ -1,14 +1,11 @@
 Notes
-This is a compilation of the Health Services Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Health Services Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 | 11 of 2016 | 26 May 2016 | s. 1 and 2: 26 May 2016 (see s. 2(a)); s. 6, 7, 32, 238, 244 and 245: 15 Jun 2016 (see s. 2(b) and Gazette 14 Jun 2016 p. 1819); Act other than s. 1, 2, 6, 7, 32, 238, 244, 245, 301(2), (3), (6) and (7) and 307(j): 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 17 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Procurement Act 2020 Pt. 10 Div. 4 | 24 of 2020 | 19 Jun 2020 | 22 Jul 2020 (see s. 2(b) and SL 2020/122)
 Health Services Amendment Act 2023 Pt. 2 | 1 of 2023 | 22 Feb 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/103 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 4 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 The Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) had not come into operation when those provisions were deleted by the Health Services Amendment Act 2023 s. 85.
@@ -196,7 +193,7 @@ validated land263(1)
 WA health system6
 WA health system-wide plan6
 WCIM Act228(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

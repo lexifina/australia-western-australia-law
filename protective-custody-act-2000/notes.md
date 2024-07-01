@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Protective Custody Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Protective Custody Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Protective Custody Act 2000 | 50 of 2000 | 28 Nov 2000 | 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7903)
@@ -10,9 +10,6 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Reprint 1: The Protective Custody Act 2000 as at 2 Jun 2006 (includes amendments listed above)
 Police Amendment Act 2008.s. 17 and 23(7) | 8 of 2008 | 31 Mar 2008 | s. 17: 1 Apr 2008 (see s. 2(1)) s. 23(7): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 20 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -29,7 +26,7 @@ intoxicated3
 JP3
 public place3
 volatile substance3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

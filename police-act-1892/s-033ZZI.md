@@ -11,9 +11,10 @@
 (d) give a medically retired member the right to make submissions or representations;
 (e) impose time limits, or provide for time limits to be imposed, for the doing of anything under this Part or the regulations, including for the making of payments by the Police Commissioner under section 33ZV(1);
 (f) in relation to assessments under section 33ZW(5) —
-(i) prescribe the qualifications, expertise or experience that an approved medical specialist must have;
-(ii) otherwise regulate the appointment of approved medical specialists under section 33ZW(2);
+(i) prescribe the qualifications, expertise or experience that an approved permanent impairment assessor must have;
+(ii) otherwise regulate the appointment of approved permanent impairment assessors under section 33ZW(2);
 (iii) otherwise regulate the arranging and making of assessments;
+(fa) make provision for, or in relation to, the assessment of noise induced hearing loss for the purposes of section 33ZX;
 (g) regulate the making or consideration of applications under section 33ZZ(2), including prescribing the information that must be provided with an application;
 (h) in relation to determinations under section 33ZZ(5)(a) —
 (i) prescribe classes of legal practitioners who are taken to be suitably qualified, including the qualifications, expertise or experience that they must have;
@@ -24,6 +25,6 @@
 (k) make provision for, or in relation to, the following —
 (i) the giving of a notice or other document required or permitted to be given under this Part or the regulations (including the giving of the notice or other document by electronic means);
 (ii) the time at which the notice or other document is taken to have been given.
-(2) Regulations made for the purposes of subsection (1) may apply, with or without modifications, any provision of the WC&IM Act, including (without limitation), in relation to assessments under section 33ZW(5), any provision of Part VII of the WC&IM Act.
-(3) Regulations made for the purposes of subsection (1) that make provision under subsection (1)(f) may provide that, despite section 33ZW(5)(b), the WorkCover Guides do not apply, or apply with specified modifications, in relation to an assessment under section 33ZW(5).
-[Section 33ZZI inserted: No. 26 of 2021 s. 4.]
+(2) Regulations made for the purposes of subsection (1) may apply, with or without modifications, any provision of the WCIM Act, including (without limitation), in relation to assessments under section 33ZW(5), any provision of Part 4 of the WCIM Act.
+(3) Regulations made for the purposes of subsection (1) that make provision under subsection (1)(f) may provide that, despite section 33ZW(5)(b), the Permanent Impairment Guidelines do not apply, or apply with specified modifications, in relation to an assessment under section 33ZW(5).
+[Section 33ZZI inserted: No. 26 of 2021 s. 4; amended: No. 21 of 2023 s. 691.]
