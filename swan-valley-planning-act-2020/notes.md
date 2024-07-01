@@ -1,11 +1,8 @@
 Notes
-This is a compilation of the Swan Valley Planning Act 2020. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Swan Valley Planning Act 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Swan Valley Planning Act 2020 | 45 of 2020 | 9 Dec 2020 | Pt. 1: 9 Dec 2020 (see s. 2(1)(a)); Act other than Pt. 1 and s. 53, 54 and 62: 1 Aug 2021 (see s. 2(1)(d)(i) and (e) and SL 2021/124 cl. 2); s. 55 and 103: 1 Aug 2023 (see s. 2(1)(c)(ii) and SL 2023/107 cl. 2); s. 53, 54 and 62 1 Mar 2024 (see s. 2(1)(b)(ii) and SL 2024/16 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Planning and Development Amendment Act 2023 Pt. 8 Div. 2 | 34 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(e) and SL 2024/98 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -13,7 +10,6 @@ Defined termProvision(s)
 applicable regulations3
 approved scheme or amendment27(1)
 assent day2(1)
-chairperson3
 Commission3
 Department3
 development3
@@ -33,14 +29,14 @@ officer of the Commission3
 planning code3
 proposed scheme or amendment14
 public authority3
-relevant local planning scheme regulations39(1)
+relevant local planning scheme regulations40(1)
 relevant planning scheme9(1), 43
 reviewed decision48(1)
 review instructions21(1)
 scheme start day9(1), 43
 specified49(1)
 State planning policy3
-State Register of Heritage Places2(3)
+State Register of Heritage Places3
 Swan Valley3, 4(1)
 Swan Valley local government3
 Swan Valley planning areas12(1)
