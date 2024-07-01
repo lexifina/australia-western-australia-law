@@ -55,6 +55,8 @@ Rottnest Island Amendment Regulations 2020 | SL 2020/118 17 Jul 2020 | r. 1 and 
 Rottnest Island Amendment Regulations 2021 | SL 2021/107 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Rottnest Island Amendment Regulations 2022 | SL 2022/124 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Rottnest Island Amendment Regulations 2023 | SL 2023/60 2 Jun 2023 | r. 1 and 2: 2 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
+Rottnest Island Amendment Regulations (No. 2) 2024 | SL 2024/112 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
+Rottnest Island Amendment Regulations 2024 | SL 2024/126 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
@@ -137,7 +139,7 @@ vessel3
 waiting list19
 water catchment area61(3)
 waters of the Island3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
