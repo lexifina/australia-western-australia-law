@@ -31,6 +31,7 @@ School Education Amendment Regulations 2018 | 21 Dec 2018 p. 4852-3 | r. 1 and 2
 Education Regulations (Immunisation Requirements for Enrolment) Amendment Regulations 2019 Pt. 2 | 19 Jul 2019 p. 2844-6 | 22 Jul 2019 (see r. 2(b) and Gazette 19 Jul 2019 p. 2841)
 School Education Amendment Regulations 2020 | SL 2020/15 17 Mar 2020 | r. 1 and 2: 17 Mar 2020 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 18 Mar 2020 (see r. 2(c)); r. 4: 17 Apr 2020 (see r. 2(b))
 School Education Amendment Regulations (No. 2) 2020 | SL 2020/101 30 Jun 2020 | r. 1 and 2: 30 Jun 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
+School Education Amendment Regulations 2024 | SL 2024/118 26 Jun 2024 | 1 Jul 2024 (see r. 2(b) and SL 2024/111 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -106,3 +107,7 @@ staff member148A(1)
 vaccine preventable notifiable infectious disease3(1)
 vehicle3(1)
 visa3(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
