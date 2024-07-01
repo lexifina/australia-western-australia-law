@@ -1,10 +1,13 @@
 Notes
-This is a compilation of the Motor Vehicle (Catastrophic Injuries) Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Motor Vehicle and Workplace Accidents (Catastrophic Injuries) Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Motor Vehicle (Catastrophic Injuries) Regulations 2016 | 13 May 2016 p. 1441-85 | r. 1 and 2: 13 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2016 (see r. 2(b) and Gazette 13 May 2016 p. 1421)
 Motor Vehicle (Catastrophic Injuries) Amendment Regulations 2019 | 31 Dec 2019 p. 4651-2 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Motor Vehicle (Catastrophic Injuries) Amendment Regulations 2021 | SL 2021/76 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
+Treasurer Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/133 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Other notes
+Now known as the Motor Vehicle and Workplace Accidents (Catastrophic Injuries) Regulations 2016; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -50,3 +53,7 @@ travel costs64(1)
 treatment, care and support requirement25(1)
 WeeFIM®3
 Westmead Post-Traumatic Amnesia Scale3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -61,6 +61,7 @@ State Trading Concerns (Authorisation) Amendment Regulations 2016 | 24 Jun 2016 
 State Trading Concerns (Authorisation) Amendment Regulations 2018 | 31 Aug 2018 p. 3048 | r. 1 and 2: 31 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2018 (see r. 2(b))
 Reprint 6: The State Trading Concerns (Authorisation) Regulations 1998 as at 18 Oct 2019 (includes amendments listed above)
 State Trading Concerns (Authorisation) Amendment Regulations 2022 | SL 2022/3 18 Jan 2022 | r. 1 and 2: 18 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/77 cl. 2)
+Treasurer Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 5 | SL 2024/133 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Footnote no longer required.
 Under the Alteration of Statutory Designations Order 2017 cl. 6, a reference in any law to the Department for Planning and Infrastructure is to be read and construed as a reference to the relevant successor unless the context of the reference requires otherwise. In cl. 6 —

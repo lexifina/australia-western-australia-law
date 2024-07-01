@@ -1,1 +1,1 @@
-Motor Vehicle (Catastrophic Injuries) Regulations 2016
+Motor Vehicle and Workplace Accidents (Catastrophic Injuries) Regulations 2016
