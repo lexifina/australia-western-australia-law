@@ -47,6 +47,7 @@ Building Amendment Regulations (No. 2) 2022 | SL 2022/162 23 Sep 2022 | r. 1 and
 Building Amendment Regulations (No. 2) 2023 | SL 2023/146 20 Sep 2023 | r. 1 and 2: 20 Sep 2023 (see r. 2(a)); r. 4(1): 21 Sep 2023 (see r. 2(b)); Regulations other than r. 1, 2 and 4(1): 1 Oct 2023 (see r. 2(c))
 Building Amendment Regulations 2023 | SL 2023/208 20 Dec 2023 | Pt. 1: 20 Dec 2023 (see r. 2(a)); Pt. 2: 21 Dec 2023 (see r. 2(b)); Regulations other than Pt. 1 and 2: 20 Jun 2024 (see r. 2(c))
 Building Amendment Regulations 2024 | SL 2024/49 17 Apr 2024 | r. 1 and 2: 17 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2024 (see r. 2(b))
+Short-Term Rental Accommodation Regulations 2024 r. 19 | SL 2024/123 26 Jun 2024 | 1 Jul 2024 (see r. 2 and SL 2024/88 cl. 2(a))
 Other notes
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms

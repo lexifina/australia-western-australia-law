@@ -71,6 +71,7 @@ Commerce Regulations Amendment (Strata Titles) Regulations 2019 Pt. 3 | 31 Dec 2
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 11 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 2 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Energy Regulations Amendment (Electricity Licensing) Regulations 2022 Pt. 3 | SL 2022/36 15 Mar 2022 | 16 Mar 2022 (see r. 2(b))
+Short-Term Rental Accommodation Regulations 2024 r. 20 | SL 2024/123 26 Jun 2024 | 1 Jul 2024 (see r. 2 and SL 2024/88 cl. 2(a))
 Other notes
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 Footnote no longer applicable.
@@ -94,7 +95,6 @@ appliances of the same type321
 applicant321
 approvals marking321
 approved321
-Australian/New Zealand Wiring Rules2(1)
 building permit12
 common property12
 conductor2, 316A(1A)
@@ -104,7 +104,7 @@ final subcircuit12A(1)
 fuse241(1)
 inspection plan242(1A)
 network241(2)
-network operator241(1) and (3)
+network operator241(1), (3)
 neutral conductor2
 new owner12
 notice of completion242(1A)
@@ -119,4 +119,5 @@ published specification321
 residential premises12
 residential tenancy agreement12
 residual current device12
+short-term rental accommodation12
 transferred residential premises12
