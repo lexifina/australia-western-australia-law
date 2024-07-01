@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 | 31 Mar 2006 p. 1279-97 | 1 Apr 2006 (see bl. 2)
@@ -27,10 +27,7 @@ Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2020 |
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2021 | SL 2021/110 29 Jun 2021 | bl. 1 and 2: 29 Jun 2021 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2021 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2022 | SL 2022/71 3 Jun 2022 | bl. 1 and 2: 3 Jun 2022 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2022 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2023 | SL 2022/84 27 Jun 2023 | bl. 1 and 2: 27 Jun 2023 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2023 (see bl. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2024 bl. 3-6 | SL 2024/103 14 Jun 2024 | 1 Jul 2024 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2024 | SL 2024/103 14 Jun 2024 | bl. 1 and 2: 14 Jun 2024 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2024 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
