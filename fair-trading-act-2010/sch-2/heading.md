@@ -10,4 +10,5 @@ Motor Vehicle Dealers Act 1973
 Motor Vehicle Repairers Act 2003
 Real Estate and Business Agents Act 1978
 Settlement Agents Act 1981
-[Schedule 2 inserted: No. 58 of 2010 s. 12; amended: No. 11 of 2013 s. 16; No. 21 of 2014 s. 8; No. 25 of 2019 s. 29.]
+Short-Term Rental Accommodation Act 2024
+[Schedule 2 inserted: No. 58 of 2010 s. 12; amended: No. 11 of 2013 s. 16; No. 21 of 2014 s. 8; No. 25 of 2019 s. 29; No. 12 of 2024 s. 55.]
