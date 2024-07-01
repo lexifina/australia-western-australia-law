@@ -12,10 +12,11 @@ Classification (Publications, Films and Computer Games) Enforcement Amendment Re
 Attorney General Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/162 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/111 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/113 26 Jun 2024 | 1 Jul 2024 (see. r 2(b))
 Other notes
 Now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 Now known as the Classification (Publications, Films and Computer Games) Enforcement Regulations 1996; citation changed (see note under r. 1).
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

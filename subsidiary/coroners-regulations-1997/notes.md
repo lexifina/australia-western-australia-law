@@ -30,6 +30,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 5
 Coroners Amendment Regulations 2021 | SL 2021/150 27 Aug 2021 | r. 1 and 2: 27 Aug 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2021 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 6 | SL 2022/111 30 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 6 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 6 | SL 2024/113 26 Jun 2024 | 1 Jul 2024 (see. r 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -40,7 +41,7 @@ ECMS3A
 eligible individual3A
 eligible individual fee3A
 fee3A
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
