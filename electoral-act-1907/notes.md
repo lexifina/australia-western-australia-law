@@ -104,18 +104,18 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 | 25 of 201
 Electoral Amendment Act 2016 | 14 of 2016 | 11 Jul 2016 | s. 1 and 2: 11 Jul 2016 (see s. (2)(a)); Act other than s. 1 and 2: 17 Aug 2016 (see s. 2(b) and Gazette 16 Aug 2016 p. 3469)
 Reprint 17: The Electoral Act 1907 as at 9 Dec 2016 (includes amendments listed above)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 4 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
-Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 2 (other than s. 4-175 and 180-182) | 30 of 2023 | 11 Dec 2023 | 12 Dec 2023 (see s. 2(b))
+Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 2 | 30 of 2023 | 11 Dec 2023 | s. 3 and 176-179: 12 Dec 2023 (see s. 2(b)); Pt. 2 (other than s. 3 and 176-179): 1 Jul 2024 (see s. 2(c))
+Electoral Amendment Act 2024 | 24 of 2024 | 27 Jun 2024 | 1 Jul 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 13 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
-Electoral Amendment (Finance and Other Matters) Act 2023 s. 4-175 and 180-182 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 13 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Other notes
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 (Cwlth) Sch. 1 Pt. 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also the uncommenced provisions table.
 Footnote no longer applicable.
-Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
+Footnote no longer applicable.
 In this consolidation the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Electoral Reform) Act 1987 s. 19(2) reads as follows:
@@ -141,45 +141,62 @@ commencement means the coming into operation of this section.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-above the line4(1), 128(1)
+above-the-line square4(1)
 absent voter4(1)
+absent voting97I(1)
 absolute majority of votes144(3)
+acceptable action175R(1AA), 175SAA
+acceptable action period175SAA
+accountable person4(1)
 advertise75(1)
+affiliate fee175
 agent175
+amalgamated roll4(1), 76AD(1)
 amended Part 6 Division 2A218
 amending provisions215
+amendment period76AB(2)
+amount175
 amount change day218
 application for continued registration217(1)
 application name62J(1)
+appropriate donor information175SAA
 approved form4(1)
-approved procedures99C
+approved procedures101
 Assembly4(1)
+assistant returning officer4(1)
 associated entity175
 Australian citizen4(1)
 Australian Electoral Officer31(6)
+authorised deposit-taking institution175LL, 233(2)
 authorised officer175W(1)
-authorised witness4(1)
 automated146I(6)
-available day71(1)
+available day71(1), 91(1)
 average district enrolment16A, 16G(1)
 ballotSch. 2
 ballot paper156D(14), Sch. 1
 ballot paper packet146G(1)
-ballot papers99B(1)
-below the line4(1), 128(1)
+below-the-line square4(1)
 Breach or neglect of official duty180
 bribery182
 broadcast175
+business day4(1)
 campaign committee175
+campaigner terminating event175LV(1)
 candidate4(1)
+candidate terminating event175LR(1)
+capped expenditure period175
 certain document211A(1)
 chief executive officer, prisons59(1)
-christian name4(1)
 claim43(1)
-commencement day43(1), 215, 218
+claim voter98
+close of nominations4(1)
+close of the roll4(1)
+commencementSch. 2
+commencement day43(1), 215, 218, 224
 Commissioners16A
 Commission website4(1)
 Commonwealth elector43(1)
+compulsory party levy175
 conjoint election4(1)
 consenting candidate156D(1)
 constitution4(1)
@@ -187,130 +204,231 @@ continuing candidateSch. 1
 Council4(1)
 Council ballot paper4(1)
 Council election4(1)
-CPI175LC(3)
+counting place4(1)
+CPI number175AC(1)
+declaration voter98
 Deputy Electoral Commissioner4(1)
+designated entrance4(1)
+directed officer142A(1)
+disclose4(1)
+disclosure document175T(1)
 disposition of property175
+distributor89C(2)
 district4(1)
 division175
 document149B
-donor175R(1)
-DRO146H(1)
-early ballot paper4(1)
-early vote4(1)
+donor175R(1AA), 175SAA
+early polling place4(1)
+early voting days4(1)
+elected member4(1)
 elected non-party member220(1)
-election4(1), 175LA(1), 175Q(6)
-election period62C(1), 175
+election4(1), 17(2), 175LA(1), 175Q(6)
+election campaign worker4(1)
+election period62C(1)
 election year4(1)
 elector4(1)
-electoral census4(1)
+electoral address4(1)
 Electoral Commissioner4(1), 5B(1)
-electoral expenditure175
+electoral expenditure175, 175AA(1), 175SR(1), 233(1)
+electoral material187(1A)
 electoral matter175
 electoral paper191(3)
-eligible elector91(1), 99C
+eligible candidate175LCC(1)
+eligible elector101
 eligible political party62C(1)
+eligible SCA nominee175LL
 eligible vote175LA(1)
+endorsed candidate4(1)
+enrolled4(1), 40A
 enrolment information4(1)
-enrolment officer42(1)
-entity175
+enrolment officer4(1)
+error notice4(1), 89F(2)
 excluded day71(1)
 existing party62J(1), 215
+expenditure cap175SG
+expenditure disclosure period175SAG
 expiry year4(1)
+external place98G(1)
 financial controller175
-first district or sub-district31AB(4)
+first card89D(3)
+first district35A(4)
+foreign contribution175
+foreign donor175
 former provisions215
 general election4(1), 175
-general polling place4(1), 100(3)
-gift175
+general postal voter4(1), 61(1)
+gift175, 175AB(1) and (2)
 Government Statistician16A
 group4(1)
 group claim80(1)
-higher reimbursement amount218
-hour of nomination4(1)
-independent auditor99F(1)
+group terminating event175LL, 175LT(1)
+higher reimbursement amount175, 175LB(1), 218
+how-to-vote card4(1), 89A(1)
+identified error89F(2)
+illegal practices4(1), 187(1)
+inclusivity principle5I(1)
+independent auditor101C(1)
 independent candidate218
 infringement notice155AB
 in order43(1)
 input tax credit175LG(2)
-issuing officer90(2)
+issuing officer4(1)
 journal175
+LA by-election cap175
+LA candidate cap amount175
+lack of capacity notice4(1), 206A(3)
 Land Information Authority16A
 large district allowance16G(4)
+LC by-election cap amount175
+LC candidate cap amount175
 lodgment period218
+lower reimbursement amount175, 175LB(2)
+management actions175SAA
+medical practitioner100K(1)
+member terminating event175LS(1)
+mental impairment4(1)
 mentally impaired accused59(1)
+mobile voting officer4(1)
+mobile voting place4(1)
+mobile voting times4(1)
 modified penalty156(6) and (13A)
-name113C(10)
-new address31AB(3)
+name94B(1)
+new address35A(3)
+nominated person98F(2), 100I(2), 102D(2)
 non-participating candidate156D(14)
+non-party candidate4(1)
+non-party group175
+non-party opt-in request175LCA(1)
 officer4(1)
 official agent4(1)
-official paper4(1)
+official documents175SAA
+official paper4(1), 94A(2)
 original election156A.
+original notice90A(1)
 parent body62C(4)
-parliamentary party25A(6), 62C(1)
+parliamentary party4(1)
+participation day175LL, 233(2)
 party agents register175F(1)
-party group175LA(1)
+party group175
 party nomination81A(1)
+party opt-in request175LC(1)
+party terminating event175LU(1)
 penalty notice155AB
 periodic election4(1)
-permitted purpose25D(2)
+permitted175SG, 175SH(1), (2) and (3)
+permitted purpose4(1)
 person with judicial experience16A
+place to vote4(1)
+political contribution175
+political entity175
 political gift199A(2)
 political party4(1)
+political purpose175
+polling day4(1)
 polling day69
-polling place4(1), 193(2)
+polling place4(1)
+postal application period100
+postal ballot paper4(1), 100D(2)
+postal vote application100, 100B(1)
+postal voter100D(1)
+postal voting4(1)
 post-change election218
 pre-commencement elected non-party member220(1)
 pre-commencement registered party218
 preferenced group146EC(1)
+preparation period76AA(2)
 prepared155AB
-prescribed information25A(1a)
 prescribed manner140(3), 146E(9)
 President4(1)
+presiding officer4(1)
+previous amount175AC(1)
 previous electoral distribution215
 previously elected member156D(14)
+previous supplementary roll76AC(2)
+primary residential address4(1)
+principal175K(1)
 principal officer175
 prison4(1)
 prisoner59(1)
 property175
+protected information62AF(1)
+provisional voting97I(1)
 public agency175
 public body name62J(1)
 publish191A(4)
 qualified person156A.
+received information35A(1)
 recipient175R(1)
 referendum4(1)
-registered political party4(1), 62C(1)
-register of political parties62C(1), 215
+registered how-to-vote card4(1)
+registered officer4(1)
+registered person175SW(1)
+registered political party4(1)
+registered third-party campaigner175
+register extract4(1), 62A(1)
+register of electors4(1), 19(1)
+register of political parties4(1), 215
 registrar, MIARB59(1)
+Registrar of Births, Deaths and Marriages4(1)
+registration period89C(1)
+relevant action5B(11)
+relevant amount175AC(1)
+relevant ballot paper97I(1)
 relevant citizenship law4(1)
-relevant day16A
+relevant day16A, 17(2)
+relevant details175M(1)
+relevant district17(2)
 relevant election175O(2), 175Q(4), 221(1)
+relevant information62AB(1)
 relevant member220(2)
 relevant number4(1)
 relevant period88(1A), 191A(4)
+relevant place100K(1)
+relevant political entity175LM(2), 175R(1AA)
+relevant risk51B(1)
+replacement how-to-vote card89E(1)
 required information59(1)
 response date155AB
+responsible person175
 returning officer4(1)
 roll4(1)
-second district or sub-district31AB(4)
+scrutineer4(1)
+second card89D(3)
+second district35A(4)
 secretary4(1)
+section 175LN notice233(1)
+silent elector4(1)
 single member election4(1)
 Speaker4(1)
-specified156AA(3)
+specified156AA(3), 234(1)
 specified amount175
+specified name94B(3)
+State campaign account175LL, 233(2)
 State party62C(4)
-sub-district4(1)
+suitable to be registered4(1), 89B(1) and (2)
+supplementary roll4(1)
 surplus votesSch. 1
-technology assisted voting99C
+technology assisted voting101
+third-party campaigner175
+third-party campaigners register175, 175SS(1)
+third-party general cap amount175
+third-party LC cap amount175
 tied candidates144(2), 145(3), Sch. 1
+transitional matter234(1)
 transmitted211A(1)
-undue influence184
+unamended Act224
+undue influence183
+unlawful amount175SO(1)
 vacancy156A.
-valid and sufficient reason156(16)
-vote record4(1), 99E(1)
+valid and sufficient reason156(1A)
+vote as a provisional voter97
+voter98
+vote record4(1), 101B(1)
+voting area4(1)
+voting day192(1)
 whole of State electorate4(1), 16C(1)
 writ4(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
