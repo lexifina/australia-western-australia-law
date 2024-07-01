@@ -2,65 +2,61 @@
 [cl. 4]
 [Heading amended: SL 2023/87 cl. 12.]
 ## Division 1 — General
-[Heading inserted: SL 2023/86 cl. 4.]
+[Heading inserted: SL 2024/104 cl. 5.]
 ## Subdivision 1 — In-patients
-[Heading inserted: SL 2023/86 cl. 4.]
+[Heading inserted: SL 2024/104 cl. 5.]
 1. | Accommodation, maintenance, nursing care and other services —
  | (a)for public in-patients | no charge
- | (b)for private in-patients —
- | (i)in single bed wards (if taken at patient’s request) | no more than $717 per day
- | (ii)in other wards | $421 per day
+ | (b)for private in-patients — (i)in single bed wards (if taken at patient’s request) (ii)in other wards | no more than $737 per day $414 per day
  | (c)for nursing home type patients | $75.55 per day
  | (d)for nursing home type private patients | $225.30 per day
- | (e)for ineligible in-patients | $2 865 per day
+ | (e)for ineligible in-patients | $2 884 per day
  | (f)for eligible veteran in-patients | no charge
 2. | Home modifications service and supply or loan as appropriate, of such aids and appliances, orthotics and prostheses, oxygen, gas and equipment, wigs, surgical implants or devices as are approved by the Department CEO (including repair and replacement) | no charge
 ## Subdivision 2 — Day patients
-[Heading inserted: SL 2023/86 cl. 4.]
+[Heading inserted: SL 2024/104 cl. 5.]
 3. | Accommodation, maintenance and other services for eligible day patients | no charge
 ## Subdivision 3 — Out-patients
-[Heading inserted: SL 2023/86 cl. 4.]
+[Heading inserted: SL 2024/104 cl. 5.]
 4. | Out-patients service, except for medicines referred to in item 5 —
  | (a)for eligible out-patients and eligible veteran out-patients | no charge
- | (b)for ineligible out-patients — for each individual service rendered | $381
+ | (b)for ineligible out-patients — for each individual service rendered | $379
 5. | Medicines, for each item —
  | (a)for holders of an entitlement card | no charge
  | (b)for other people who are — (i)veterans who hold a Gold Card or a White Card; or (ii)pensioners; or (iii)concessional beneficiaries | no more than $7.70
- | (c)for all other people (other than ineligible out-patients) —
- | (i)at a participating hospital for an item on the PBS list | PBS price up to a maximum of $31.60
- | (ii)at a participating hospital for an item not on the PBS list | no more than $25.30
- | (iii)at a hospital that is not a participating hospital | no more than $25.30
+ | (c)for all other people (other than ineligible out-patients) — (i)at a participating hospital for an item on the PBS list (ii)at a participating hospital for an item not on the PBS list (iii)at a hospital that is not a participating hospital | PBS price up to a maximum of $31.60 no more than $25.30 no more than $25.30
 ## Subdivision 4 — Same day patients
-[Heading inserted: SL 2023/86 cl. 4.]
+[Heading inserted: SL 2024/104 cl. 5.]
 6. | Same day health service, other than a service subject to a charge set out in this Schedule and associated with the provision of such service —
  | (a)for public same day patients | no charge
- | (b)for private same day patients | $347 per day
+ | (b)for private same day patients | $341 per day
  | (c)for eligible veteran same day patients | no charge
- | (d)for ineligible same day patients | $2 586 per day
+ | (d)for ineligible same day patients | $2 894 per day
 ## Subdivision 5 — Other services
-7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $43 per day
-[Division 1 inserted: SL 2023/86 cl. 4; amended: SL 2023/87 cl. 13; SL 2023/178 cl. 4; SL 2024/7 cl. 4(1); SL 2024/74 cl. 4.]
+[Heading inserted: SL 2024/104 cl. 5.]
+7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $44 per day
+[Division 1 inserted: SL 2024/104 cl. 5.]
 ## Division 2 — Compensable patients
-[Heading inserted: SL 2023/86 cl. 4.]
+[Heading inserted: SL 2024/104 cl. 5.]
 ## Subdivision 1 — Compensable in-patients
-[Heading inserted: SL 2023/86 cl. 4.]
-1. | Accommodation, maintenance, nursing care and other services in a hospital bed, except services referred to in item 5 or 6 | $3 109 per day
-2. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient, not being a patient mentioned in item 3, in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 400 per day
-3. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $3 333 per day
-4. | Accommodation, maintenance, nursing care and other services in a nursing home bed | $347 per day
-5. | Accommodation, maintenance, nursing care and other services in a hospital bed for a ventilator dependent compensable in-patient with tracheostomy requiring 24 hour a day individual care | $6 638 per day
-6. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient requiring 24 hour a day care for airway management, with or without tracheostomy | $3 969 per day
+[Heading inserted: SL 2024/104 cl. 5.]
+1. | Accommodation, maintenance, nursing care and other services in a hospital bed, except services referred to in item 5 or 6 | $3 100 per day
+2. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient, not being a patient mentioned in item 3, in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
+3. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
+4. | Accommodation, maintenance, nursing care and other services in a nursing home bed | $341 per day
+5. | Accommodation, maintenance, nursing care and other services in a hospital bed for a ventilator dependent compensable in-patient with tracheostomy requiring 24 hour a day individual care | $6 821 per day
+6. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient requiring 24 hour a day care for airway management, with or without tracheostomy | $4 078 per day
 ## Subdivision 2 — Compensable out-patients
-[Heading inserted: SL 2023/86 cl. 4.]
-7. | For radiological service — for each item of service | $381
+[Heading inserted: SL 2024/104 cl. 5.]
+7. | For radiological service — for each item of service | $379
 8. | For medicines, subject to item 9, for each item — (a)at a participating hospital for an item on the PBS list (b)at a participating hospital for an item not on the PBS list (c)at a hospital that is not a participating hospital | PBS price up to a maximum of $31.60 $25.30 $25.30
-9. | For each other individual service (with any medicines supplied at the time of the initial service being treated as included in that service) | $381
+9. | For each other individual service (with any medicines supplied at the time of the initial service being treated as included in that service) | $379
 ## Subdivision 3 — Compensable same day patients
-[Heading inserted: SL 2023/86 cl. 4.]
-10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $2 827 per day
- | (b)for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $3 897 per day
- | (c)for any other patient | $3 649 per day
-[Division 2 inserted: SL 2023/86 cl. 4; amended: SL 2024/7 cl. 4(2).]
+[Heading inserted: SL 2024/104 cl. 5.]
+10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
+ | (b)for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
+ | (c)for any other patient | $3 834 per day
+[Division 2 inserted: SL 2024/104 cl. 5.]
 ## Division 3 — Magnetic resonance imaging
 Charges for magnetic resonance imaging services
 Item | Service | Charge (per study)
