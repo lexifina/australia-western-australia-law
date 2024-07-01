@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Fire Brigades Regulations 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire Brigades Regulations 1943 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Fire Brigades Act Regulations | 4 Jun 1943 p. 552-76 | 17 Sep 1943
 Untitled regulations | 24 Mar 1944 p. 270-1 | 24 Mar 1944
 Untitled regulations | 18 Aug 1944 p. 705 | 18 Aug 1944
@@ -88,6 +88,9 @@ Fire Brigades Amendment Regulations (No. 3) 2012 | 18 Jan 2013 p. 147 | r. 1 and
 Fire Brigades Amendment Regulations 2013 | 4 Jun 2013 p. 2137-9 | r. 1 and 2: 4 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jun 2013 (see r. 2(b))
 Reprint 5: The Fire Brigades Regulations 1943 as at 20 Sep 2013 (includes amendments listed above)
 Fire Brigades Amendment Regulations 2019 | 16 Aug 2019 p. 3065-76 | r. 1 and 2: 16 Aug 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Aug 2019 (see r. 2(b))
+Emergency Services Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 3 | SL 2024/131 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Other notes
+Footnote no longer applicable.
 Headings preceding groups of regulations were repealed by the Fire Brigades Amendment Regulations 1989. Regulation 2 of those regulations reads as follows:
 2.Headings deleted
 For the purposes of facilitating a reprint of the Fire Brigades Regulations 1943, those regulations are amended —
@@ -154,3 +157,7 @@ registered158
 serious offence141(1)
 targeted drug96
 weekly wages132(2)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
