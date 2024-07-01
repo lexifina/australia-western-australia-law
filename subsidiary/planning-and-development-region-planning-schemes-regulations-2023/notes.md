@@ -1,11 +1,8 @@
 Notes
-This is a compilation of the Planning and Development (Region Planning Schemes) Regulations 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Planning and Development (Region Planning Schemes) Regulations 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Planning and Development (Region Planning Schemes) Regulations 2023 | 12 Jul 2023 SL 2023/108 | 1 Aug 2023 (see r. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Planning and Development Regulations Amendment (Consequential Matters) Regulations 2024 Pt. 3 | SL 2024/99 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
