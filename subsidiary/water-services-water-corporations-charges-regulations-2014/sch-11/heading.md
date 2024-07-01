@@ -189,7 +189,7 @@ Pinjarra | 2 | 2
 Pithara | 5 | 15
 Point Samson | 4 | 10
 Popanyinning | 5 | 15
-Porongurup | 5 | 12
+Porongurup | 5 | 14
 Port Hedland | 2 | 5
 Preston Beach | 5 | 15
 Prevelly | 5 | 14
@@ -235,4 +235,4 @@ Yealering | 5 | 15
 Yerecoin | 5 | 15
 York | 5 | 15
 Yuna | 5 | 15
-[Schedule 11 inserted: SL 2021/80 r. 9; amended: SL 2022/82 r. 22; SL 2023/66 r. 10.]
+[Schedule 11 inserted: SL 2021/80 r. 9; amended: SL 2022/82 r. 22; SL 2023/66 r. 10; SL 2024/117 r. 11.]

@@ -1,3 +1,3 @@
-## Schedule 6 — Irrigation charges for the Water Corporation (Ord Irrigation District)
+## Schedule 6 — Irrigation charges for Water Corporation (Ord Irrigation District)
 [r. 50]
-[Heading inserted: SL 2023/66 r. 8.]
+[Heading inserted: SL 2024/117 r. 9.]

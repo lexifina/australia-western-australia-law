@@ -1,3 +1,3 @@
-## Schedule 7 — Miscellaneous charges for the Water Corporation
+## Schedule 7 — Miscellaneous charges for Water Corporation
 [r. 51]
-[Heading inserted: SL 2023/66 r. 8.]
+[Heading inserted: SL 2024/117 r. 9.]
