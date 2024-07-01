@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Radiation Safety (General) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Radiation Safety (General) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Radiation Safety (General) Regulations 1983 | 21 Feb 1983 p. 555-636 | 21 Aug 1983 (see r. 2)
@@ -68,9 +68,6 @@ Radiation Safety (General) Amendment Regulations 2022 | SL 2022/33 11 Mar 2022 |
 Health Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 3 | SL 2022/93 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 9 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 9 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 9 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Footnote no longer applicable.

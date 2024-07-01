@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Food Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Food Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Food Regulations 2009 | 23 Oct 2009 p. 4095-142 | r. 1 and 2: 23 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2009 (see r. 2(b) and Gazette 23 Oct 2009 p. 4157)
@@ -25,9 +25,6 @@ Food Amendment Regulations 2021 | SL 2021/40 9 Apr 2021 | r. 1 and 2: 9 Apr 2021
 Health Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 2 | SL 2021/108 29 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 The Food Act 2008 s. 147(14) commenced 24 Oct 2009.

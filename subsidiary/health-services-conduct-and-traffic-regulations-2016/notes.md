@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health Services (Conduct and Traffic) Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Health Services (Conduct and Traffic) Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Health Services (Conduct and Traffic) Regulations 2016 | 24 Jun 2016 p. 2369-406 | 1 July 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291)
@@ -12,9 +12,6 @@ Health Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 
 Health Services (Conduct and Traffic) Amendment Regulations 2021 | SL 2021/105 29 Jun 2021 | r. 1 and 2: 29 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
