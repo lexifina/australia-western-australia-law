@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Work Health and Safety (Petroleum and Geothermal Energy Operations) Regulations 2022. For provisions that have come into operation see the compilation table.
+This is a compilation of the Work Health and Safety (Petroleum and Geothermal Energy Operations) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Work Health and Safety (Petroleum and Geothermal Energy Operations) Regulations 2022 | SL 2022/30 11 Mar 2022 | 31 Mar 2022 (see r. 2 and SL 2022/18 cl. 2)
+Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL 2024/135 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -158,3 +159,7 @@ vehicle126
 vessel4
 well4
 workers38(2)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
