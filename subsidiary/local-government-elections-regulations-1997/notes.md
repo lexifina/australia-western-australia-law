@@ -22,6 +22,7 @@ Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 6 | SL 2020/
 Local Government (Elections) Amendment Regulations 2021 | SL 2021/141 30 Jul 2021 | r. 1 and 2: 30 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2021 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 4 | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 4 | SL 2023/158 18 Oct 2023 | Pt. 4 Div. 1: 19 Oct 2023 (see r. 2(c)); Pt. 4 Div. 2: 1 Jan 2024 (see r. 2(b))
+Local Government (Elections) Amendment Regulations 2024 | SL 2024/128 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Other notes
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 3.Application

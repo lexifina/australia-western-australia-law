@@ -373,10 +373,10 @@ rin person or rby lodging a postal vote
 Declaration [Making a false declaration is an offence] | I declare that all of the details set out above are true and correct.
 Signature:Date:
 Electoral officer | Full name:
-[Tick appropriate boxes] | In considering this claim, I have had regard to: ra previously compiled electoral roll of the local government; ran electoral roll or other document prepared under the Electoral Act 1907 or the Commonwealth Electoral Act 1918; rthe owners and occupiers register; radvice sent by the CEO as to whether or not the person is an elector; rother relevant documents and materials – (describe briefly)
+[Tick appropriate boxes] | In considering this claim, I have had regard to: ra previously compiled electoral roll of the local government; rthe register of electors, a roll or another document prepared under the Electoral Act 1907 or the Commonwealth Electoral Act 1918; rthe owners and occupiers register; radvice sent by the CEO as to whether or not the person is an elector; rother relevant documents and materials – (describe briefly)
  | This application is racceptedrrejected
  | Signature: | Date:
-[Form 16 inserted: Gazette 22 Dec 1998 p. 6877-8; amended: Gazette 21 Jan 2005 p. 268.]
+[Form 16 inserted: Gazette 22 Dec 1998 p. 6877-8; amended: Gazette 21 Jan 2005 p. 268; SL 2024/128 r. 10.]
 Form 17.Application for Absent Vote
 Local Government (Elections) Regulations 1997, reg 54 APPLICATION FOR ABSENT VOTE
 Applicant | Full name:
