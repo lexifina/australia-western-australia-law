@@ -14,9 +14,6 @@ Transport (Road Passenger Services) Amendment Regulations 2022 | SL 2022/131 5 J
 Transport (Road Passenger Services) Amendment Regulations (No. 2) 2022 | SL 2022/198 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport (Road Passenger Services) Amendment Regulations 2024 | SL 2024/40 4 Apr 2024 | r. 1 and 2: 4 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

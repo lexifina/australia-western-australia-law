@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -20,7 +20,7 @@ Reprint 1: The Road Traffic (Vehicles) Regulations 2014 as at 5 Jan 2018 (includ
 Transport Regulations Amendment (Fees and Charges) Regulations 2018 Pt. 6 | 25 May 2018 p. 1640-7 | 25 May 2018 (see r. 2(a))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2018 Pt. 6 | 22 Jun 2018 p. 2184-93 | 1 Jul 2018 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2019 | 29 Mar 2019 p. 962-72 | r. 1 and 2: 29 Mar 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Mar 2019 (see r. 2(b))
-Transport Regulations Amendment (Fees and Charges) Regulations 2019 Pt 3 | 17 May 2019 p. 1437-42 | 18 May 2019 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 17 May 2019 p. 1437-42 | 18 May 2019 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2019 Pt. 6 | 31 May 2019 p. 1721-8 | 1 Jul 2019 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations 2019 | 18 Jun 2019 p. 2061 | r. 1 and 2: 18 Jun 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
 Transport Regulations Amendment (Road Passenger Services) Regulations (No. 2) 2019 Pt. 3 | 26 Jun 2019 p. 2229-371 | 2 Jul 2019 (see r. 2(d) and Gazette 28 Jun 2019 p. 2473)
@@ -44,12 +44,8 @@ Road Traffic (Vehicles) Amendment Regulations (No. 4) 2022 | SL 2022/149 26 Aug 
 Road Traffic (Vehicles) Amendment Regulations (No. 2) 2022 | SL 2022/174 21 Oct 2022 | r. 1 and 2: 21 Oct 2022 (see r. 2(a)); r. 3, 5, 13(4) and 15-20: 7 Nov 2022 (see r. 2(b)); Regulations other than r. 1-3, 5, 13(4) and 15-20: 7 Nov 2023 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/45 19 May 2023 | 20 May 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 3 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
-Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 (other than Div. 3) | SL 2024/58 1 May 2024 | 2 May 2024 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/58 1 May 2024 | Pt. 4 (other than Div. 3): 2 May 2024 (see r. 2(b)); Pt. 4 Div. 3: 1 Jul 2024 (see r. 2(c))
 Road Traffic (Vehicles) Amendment Regulations (No. 2) 2024 | SL 2024/107 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 Div. 3 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
