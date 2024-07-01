@@ -12,10 +12,11 @@ Rail Safety National Law (WA) Amendment Regulations 2021 | SL 2021/91 18 Jun 202
 Transport Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 2 | SL 2022/23 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Transport Regulations Amendment (Rail Safety National Law) Regulations 2022 Pt. 3 | SL 2022/46 8 Apr 2022 | 9 Apr 2022 (see r. 2(b))
 Rail Safety National Law (WA) Amendment Regulations 2022 | SL 2022/66 3 Jun 2022 | r. 1 and 2: 3 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
+Rail Safety National Law (WA) Amendment Regulations 2024 | SL 2024/122 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
-Rail Safety National Law Application Act 2024 s. 48(2)(b) assented to 26 Mar 2024 | To be proclaimed (see s. 2(b))
+Rail Safety National Law Application Act 2024 s. 48(2)(b) assented to 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
