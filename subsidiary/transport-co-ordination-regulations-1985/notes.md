@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport Co-ordination Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Transport Co-ordination Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Transport Co-ordination Regulations 1985 | 20 Dec 1985 p. 4835-55 | 1 Jan 1986 (see r. 2)
@@ -45,9 +45,6 @@ Transport Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | 
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2021 Pt. 7 | SL 2021/92 18 Jun 2021 | 1 Jul 2021 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 7 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 10 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2024 Pt. 6 | SL 2024/57 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference to the clerk in Form 21, Schedule 2, was amended under the Reprints Act 1984 s. 7(5)(a).

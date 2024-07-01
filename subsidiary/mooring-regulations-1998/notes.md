@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mooring Regulations 1998 | 11 Dec 1998 p. 6659-78 | 11 Dec 1998
@@ -33,9 +33,6 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2
 Transport Regulations Amendment (Mooring Management) Regulations 2021 Pt. 2 | SL 2021/147 13 Aug 2021 | 28 Sep 2021 (see r. 2(b))
 Transport Regulations Amendment (Waiver and Refund) Regulations 2022 Pt. 3 | SL 2022/47 8 Apr 2022 | 9 Apr 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2024 Pt. 3 | SL 2024/57 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Transport Regulations Amendment (Mooring Control Areas) Regulations 2024 Pt. 3 | SL 2024/69 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
@@ -47,7 +44,6 @@ Defined termProvision(s)
 Act2
 additional vessel2
 amending instrument39(2)
-amending regulations33
 applicant7J(1)
 approved2
 authorisation7E(1)
@@ -55,23 +51,18 @@ authorised fee officer37
 body corporate licensee21(2A)
 CEO2
 certificate of registration2
-commencement day33
 commercial general mooring site2
 commercial resources mooring site2
 courtesy mooring site2
-current mooring licence33
-current registration period33
 damage7J(4)
 Division 2 mooring control area7(1)
 emergency mooring site2
-excluded area33
 fee37
 identification sticker6(4)
 inspector31(1)
 length2
 licensed vessel2
 maximum vessel length2
-MCA Regulations33
 mooring2
 mooring control area2
 mooring inspection report20(1)
@@ -79,20 +70,15 @@ mooring inspector20(1)
 mooring licence2
 mooring licensee2
 mooring site2, 7(1)
-new regulations33
-next anniversary33
 nominated29(1)
-old regulations33
 owner28(1A), 29(1)
 permissible vessel length7A
 pleasure vessel2
 previous licensee21(1)
 recreational mooring site2
 register2
-registered mooring site2, 32
-registered owner33
-registration period33
-relevant mooring site9(2)
+registered mooring site2
+relevant mooring site8(2)
 rental mooring site2
 rental period7F(1), 7J(1)
 shared-use mooring7D(1)
