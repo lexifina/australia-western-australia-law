@@ -22,6 +22,7 @@ Family Court Amendment Regulations (No. 2) 2021 | SL 2021/137 30 Jul 2021 | r. 1
 Family Court Amendment Regulations 2022 | SL 2022/45 8 Apr 2022 | r. 1 and 2: 8 Apr 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Apr 2022 (see r. 2(b))
 Family Court Amendment Regulations (No. 2) 2022 | SL 2022/123 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Family Court Amendment Regulations 2023 | SL 2023/88 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
+Family Court Amendment Regulations 2024 | SL 2024/140 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -46,7 +47,7 @@ refund period24(1)
 relevant court18
 section3(1)
 setting down fee18
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
