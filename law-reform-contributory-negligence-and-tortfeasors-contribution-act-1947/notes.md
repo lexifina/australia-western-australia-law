@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Law Reform (Contributory Negligence and Tortfeasors’ Contribution) Act 1947 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Law Reform (Contributory Negligence and Tortfeasors’ Contribution) Act 1947 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Law Reform (Contributory Negligence and Tortfeasors’ Contribution) Act 1947 | 23 of 1947 (11 Geo. VI No. 23) | 7 Nov 1947 | 7 Nov 1947
@@ -10,9 +10,6 @@ Civil Liability Amendment Act 2003 s. 14 | 58 of 2003 | 30 Oct 2003 | 1 Dec 2004
 Workers’ Compensation Reform Act 2004 s. 175 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Standardisation of Formatting Act 2010 s. 46 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 3: The Law Reform (Contributory Negligence and Tortfeasors’ Contribution) Act 1947 as at 3 Jun 2011 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 6 and s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 The Imperial Act 9 & 10 Vict. c. 93 (1846) was adopted by the Imperial Acts Adopting Ordinance 1849 (12 Vict. No. 21) and amended by Act No. 37 of 1900. It was repealed in so far as it was part of the law of W.A. by the Fatal Accidents Act 1959 s. 2.
@@ -36,7 +33,7 @@ negligence3
 parent7(3)
 plaintiff3
 workers’ compensation3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

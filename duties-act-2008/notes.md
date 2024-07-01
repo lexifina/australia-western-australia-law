@@ -35,11 +35,11 @@ Family Court Amendment Act 2022 Pt. 4 | 28 of 2022 | 31 Aug 2022 | Pt. 4 (other 
 Duties Amendment (Farm-in Agreements) Act 2022 | 37 of 2022 | 1 Nov 2022 | s. 1 and 2: 1 Nov 2022 (see 2(a)); Act other than s. 1 and 2: 2 Nov 2022 (see s. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 3 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Duties Amendment (Off-the-Plan Concession and Foreign Persons Exemptions) Act 2023 | 29 of 2023 | 28 Nov 2023 | s. 1 and 2: 28 Nov 2023 (see 2(a)); Act other than s. 1 and 2: 29 Nov 2023 (see s. 2(b))
+Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
@@ -511,7 +511,7 @@ voting power205C(1)
 Western Australian business9, 79
 Western Australian business asset9, 79
 wound up3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

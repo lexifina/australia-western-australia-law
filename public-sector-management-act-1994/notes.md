@@ -112,12 +112,12 @@ Infrastructure Western Australia Act 2019 s. 77 | 13 of 2019 | 24 Jun 2019 | 24 
 Procurement Act 2020 Pt. 10 Div. 5 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2(c))
 Work Health and Safety Act 2020 Pt 15 Div. 4 Subdiv. 7 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Arts and Culture Trust Act 2021 s. 76 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 15 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 TAB (Disposal) Act 2019 s. 152 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 15 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -203,7 +203,7 @@ term officer3(1)
 this Act3(1)
 transitional matterSch. 7 cl. 12(2), Sch. 8 cl. 6(2)
 Tribunal57(2)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Blood Donation (Limitation of Liability) Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Blood Donation (Limitation of Liability) Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Blood Donation (Limitation of Liability) Act 1985 | 88 of 1985 | 4 Dec 1985 | 30 Jun 1985 (see s. 2)
@@ -14,9 +14,6 @@ Reprint 2: The Blood Donation (Limitation of Liability) Act 1985 as at 21 Sep 20
 Health Services Act 2016 s. 285 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 5 and Pt. 5 Div. 2 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 5: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 2: 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 101 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Day fixed is 15 September 1986 (see Gazette 12 Sep 1986 p. 3343).
@@ -39,7 +36,7 @@ Society3
 tissue11(2)
 Transmissible Diseases Regulations3
 worker3A(2)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

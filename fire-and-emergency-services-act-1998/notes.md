@@ -20,10 +20,10 @@ Reprint 3: The Fire and Emergency Services Act 1998 as at 7 Dec 2012 (includes a
 Fire and Emergency Services Amendment Act 2015 | 20 of 2015 | 26 Aug 2015 | s. 1 and 2: 26 Aug 2015 (see s. 2(a)); Act other than s. 1 and 2: 27 Aug 2015 (see s. 2(b))
 Firefighters and Emergency Volunteers Legislation Amendment (Compensation) Act 2016 Pt. 3 | 28 of 2016 | 21 Sep 2016 | 16 Sep 2017 (see s. 2(b) and Gazette 15 Sep 2017 p. 4791)
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 4 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 3 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 3 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Mining Act 1978.
@@ -49,11 +49,10 @@ benchmark weekly earnings36ZM
 BFA volunteer36ZM
 board of management42
 brigade13(4)
-compensable injury36ZM
 consultative committee3
 consultative committees42
 Crown land3
-date of injury36ZM
+date of injury36ZM, 36ZN(4)
 Department3
 dispose of8(1)
 emergency services Acts3
@@ -62,10 +61,11 @@ ESL agreement36ZI
 ESL category area3
 FES activities3
 FES Commissioner3
-FES employment 36ZN(1)
 FES Ministerial Body4
 FES Unit3
 Fire and Emergency Services Commissioner3
+firefighter disease36ZM
+firefighter disease dispute36ZX(1)
 firefighting employment36ZN(1)
 firefighting service36ZN(1)
 former account46(1)
@@ -73,8 +73,10 @@ former Act42
 former Bush Fires Act42
 former Fire Brigades Act42
 former Superannuation Act42
+general maximum amount36ZU(1)
 gross rental value3
 hazardous fire36ZN(1)
+hazardous firefighting employment36ZN(1)
 hazardous firefighting service36ZN(1)
 hazardous material incident3
 incident3
@@ -91,14 +93,12 @@ member of staff3
 monitoring activity3
 motor vehicle37(6)
 natural disaster3
-non-FES employment36ZN(1)
 occupier36ZL(3)
 operating account of the Department3
 operational name13(1)
 operational staff19
 owner3, 3A
 Part 6B commencement day36ZM
-prescribed amount36ZU(1)
 prescribed association23
 PSMA19
 qualifying period36ZN(1)
@@ -116,8 +116,6 @@ right42
 search and rescue operation3
 SES Unit3
 specified62(1)
-specified disease36ZM
-specified disease dispute36ZX(1)
 specified injury36ZU(1)
 State tax50(1)
 statutory transition42
@@ -133,7 +131,7 @@ volunteer activities36ZM
 volunteer advisory committee25(1)
 volunteer service36ZN(1)
 volunteer unit36ZM
-WC&IM Act36ZM
+WCIM Act36ZM
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.

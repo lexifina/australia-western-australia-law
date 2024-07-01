@@ -8,11 +8,11 @@ Statutes (Repeals and Minor Amendments) Act 2003 s. 111 | 74 of 2003 | 15 Dec 20
 State Superannuation Amendment Act 2007 s. 78 | 25 of 2007 | 16 Oct 2007 | 6 Dec 2007 (see s. 2(1)(b) and Gazette 5 Dec 2007 p. 5973)
 Health Services Act 2016 s. 304 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Arts and Culture Trust Act 2021 s. 77 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
+Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 17 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 50, 51, 53, 54, 56, 59(a), 60(2), 63, 64, 66-68 & 71-75 | 43 of 2000 (as amended by 65 of 2003 s. 106, 42 of 2004 s. 174 and 11 of 2016 s. 304) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 17 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 The amendment in s. 75 to the Workplace Agreements Act 1993 will not be included because the Schedule it sought to amend was deleted by the Labour Relations Reform Act 2002 s. 72 prior to commencement.
@@ -27,7 +27,7 @@ commencement day3(1)
 continues3(1)
 current3(1)
 transitional matter25(4)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

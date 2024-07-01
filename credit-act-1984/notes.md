@@ -1,37 +1,34 @@
 Notes
-This is a compilation of the Credit Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Credit Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | s. 1 and 2: 27 Dec 1984; Act other than s. 1, 2 and 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867); s. 91(3) deleted by No. 8 of 2009 s. 44(2)
-Acts Amendment (Credit) Act 1989 Pt. 2 | 47 of 1989 | 9 Jan 1990 | s. 3: 31 Mar 1985 (see s. 2(2) and Gazette 8 Mar 1985 p. 867); s. 4 and 5: 9 Jan 1990 (see s. 2(1))
-Credit Amendment Act 1992 | 58 of 1992 | 11 Dec 1992 | s. 1 and 2: 11 Dec 1992; Act other than s. 1 and 2: 11 Jan 1993 (see s. 2 and Gazette 8 Jan 1993 p. 25)
-Consumer Credit (Western Australia) Act 1996 s. 13 | 30 of 1996 | 10 Sep 1996 | 1 Nov 1996 (see s. 2)
-Statutes (Repeals and Minor Amendments) Act 1997 s. 39(10) | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 70 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
-Statutes (Repeals and Minor Amendments) Act 2000 s. 49 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-Reprint of the Credit Act 1984 as at 6 Apr 2001 (includes amendments listed above)
-Corporations (Consequential Amendments) Act 2001 Pt. 17 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Building Societies Amendment Act 2001 s. 51 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
-Acts Amendment (Equality of Status) Act 2003 Pt. 11 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 30 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 2: The Credit Act 1984 as at 24 Jun 2005 (includes amendments listed above)
-Housing Societies Repeal Act 2005 s. 24 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Duties Legislation Amendment Act 2008 Sch. 1 cl. 6 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and 36 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed above)
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
-Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-Strata Titles Amendment Act 2018 Pt. 3 Div. 4 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
-Community Titles Act 2018 Pt. 14 Div. 4 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
+ | Short title | Number and year | Assent | Commencement
+ | Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | s. 1 and 2: 27 Dec 1984; Act other than s. 1, 2 and 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867); s. 91(3) deleted by No. 8 of 2009 s. 44(2)
+ | Acts Amendment (Credit) Act 1989 Pt. 2 | 47 of 1989 | 9 Jan 1990 | s. 3: 31 Mar 1985 (see s. 2(2) and Gazette 8 Mar 1985 p. 867); s. 4 and 5: 9 Jan 1990 (see s. 2(1))
+ | Credit Amendment Act 1992 | 58 of 1992 | 11 Dec 1992 | s. 1 and 2: 11 Dec 1992; Act other than s. 1 and 2: 11 Jan 1993 (see s. 2 and Gazette 8 Jan 1993 p. 25)
+ | Consumer Credit (Western Australia) Act 1996 s. 13 | 30 of 1996 | 10 Sep 1996 | 1 Nov 1996 (see s. 2)
+ | Statutes (Repeals and Minor Amendments) Act 1997 s. 39(10) | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+ | Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 70 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
+ | Statutes (Repeals and Minor Amendments) Act 2000 s. 49 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+ | Reprint of the Credit Act 1984 as at 6 Apr 2001 (includes amendments listed above)
+ | Corporations (Consequential Amendments) Act 2001 Pt. 17 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+ | Building Societies Amendment Act 2001 s. 51 | 12 of 2001 | 13 Jul 2001 | 13 Jul 2001 (see s. 2)
+ | Acts Amendment (Equality of Status) Act 2003 Pt. 11 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+ | Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 30 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Reprint 2: The Credit Act 1984 as at 24 Jun 2005 (includes amendments listed above)
+ | Housing Societies Repeal Act 2005 s. 24 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Duties Legislation Amendment Act 2008 Sch. 1 cl. 6 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+ | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+ | Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and 36 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
+ | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+ | Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed above)
+ | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+ | Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+ | Strata Titles Amendment Act 2018 Pt. 3 Div. 4 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
+ | Community Titles Act 2018 Pt. 14 Div. 4 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Other notes
 Repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010.
@@ -132,7 +129,7 @@ tied loan contract5(1)
 trade-in allowance5(1)
 trade or tie agreement5(1)
 Tribunal5(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
