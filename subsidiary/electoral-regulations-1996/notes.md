@@ -18,18 +18,19 @@ Electoral Amendment Regulations 2012 | 4 Dec 2012 p. 5910-18 | r. 1 and 2: 4 Dec
 Reprint 3: The Electoral Regulations 1996 as at 11 Jan 2013 (includes amendments listed above)
 Electoral Amendment Regulations 2016 | 16 Aug 2016 p. 3470 | r. 1 and 2: 16 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Aug 2016 (see r. 2(b))
 Electoral Amendment Regulations 2022 | SL 2022/195 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
-Other notes
-The Evidence Act 1906 s. 106 was deleted by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
+Electoral Amendment Regulations (Finance and Other Matters) Regulations 2024 Pt. 3 | SL 2024/124 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-authorised person2
 ballot paper envelope2
 commencement day31(1)
 election period28(1)
-issuing officer2
 member28(1)
 prescribed body28(1)
-public employee28
+public employee28(1)
 record2
 relevant person22A(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

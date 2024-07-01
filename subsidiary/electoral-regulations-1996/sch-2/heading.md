@@ -26,31 +26,4 @@ Name of witness
 A declaration by any other officer must be witnessed by a person who is, or is qualified to be, an elector at Commonwealth or State elections.]
 [Form 1 inserted: Gazette 8 Nov 1996 p. 6268; amended: SL 2022/195 r. 18(1).]
 [Form 2 deleted: Gazette 8 Nov 1996 p. 6268.]
-Form 3
-[Regulation 6(3)]
-Western Australia
-Electoral Act 1907 (s. 114(3))
-DECLARATION BY SCRUTINEER
-I, ............................................................ of ............................................................
-a scrutineer appointed by ......................................................................................,
-a candidate/the official agent of a candidate* for the ................................................................ District/whole of State electorate* at the ......................................................................... Polling Place declare that I will faithfully observe all the provisions of the Electoral Act 1907 which relate to the office of scrutineer.
-....................................................................
-Signature of scrutineer
-Declared before me on ....................................................
-Date
-.........................................................................................
-Returning officer or presiding officer
-*Strike out whichever is not applicable.
-[Form 3 amended: Gazette 16 Aug 2016 p. 3470; SL 2022/195 r. 18(2).]
-Form 4
-[Regulation 6(4)]
-Western Australia
-Electoral Act 1907 (s. 104(1))
-APPOINTMENT OF PRESIDING OFFICER, ASSISTANT PRESIDING OFFICER, POLL CLERK OR DOORKEEPER
-I appoint .................................................................................................................
-(full name of appointee)
-of ......................................................... to be .........................................................
-(position)
-at the ............................................................................................... polling place for the election to be held on ..................................................................................
-........................................................................................................................
-DateReturning officer
+[Forms 3 and 4 deleted: SL 2024/124 r. 46.]
