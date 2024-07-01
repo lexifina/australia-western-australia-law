@@ -4,6 +4,7 @@ Compilation table
 Citation | Published | Commencement
 Procurement (Debarment of Suppliers) Regulations 2021 | SL 2021/187 5 Nov 2021 | Pt. 1: 5 Nov 2021 (see r. 2(a)); Regulations other than Pt. 1: 1 Jan 2022 (see r. 2(b))
 Procurement (Debarment of Suppliers) Amendment Regulations 2023 | SL 2023/133 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); r. 3 and 4: 10 Aug 2023 (see r. 2(b)); r. 5: 1 Feb 2024 (see r. 2 (c))
+Finance Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 3 | SL 2024/134 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

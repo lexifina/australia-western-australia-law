@@ -15,6 +15,7 @@ Duties Amendment Regulations 2018 | 22 Jun 2018 p. 2193-5 | r. 1 and 2: 22 Jun 2
 Duties Amendment Regulations 2019 | 8 Oct 2019 p. 3617-21 | Pt. 1: 8 Oct 2019 (see r. 2(a)); Regulations other than Pt. 1 and 3: 9 Oct 2019 (see r. 2(c)); Pt. 3: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Finance Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
 Duties Amendment Regulations 2023 | SL 2023/12 24 Feb 2023 | r. 1 and 2: 24 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2023 (see r. 2(b))
+Finance Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/134 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 2.
 If a modification is to:
@@ -50,3 +51,7 @@ timber sharefarming profit à prendre4A(1), 4B(1)
 tractor7(1)
 tractor plant7(1)
 wholly-owned subsidiary2A(2)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
