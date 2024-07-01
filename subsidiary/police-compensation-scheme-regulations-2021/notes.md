@@ -1,13 +1,9 @@
 Notes
-This is a compilation of the Police (Compensation Scheme) Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Police (Compensation Scheme) Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Police (Compensation Scheme) Regulations 2021 | SL 2021/223 31 Dec 2021 | Pt. 1: 31 Dec 2021 (see r. 2(a)); Regulations other than Pt. 1: 1 Jan 2022 (see r. 2(b) and SL 2021/222 cl. 2)
-Police (Compensation Scheme) Amendment Regulations 2024 Pt. 1 and 2 | SL 2024/101 12 Jun 2024 | Pt. 1: 12 Jun 2024 (see r. 2(a)); Pt. 2: 13 Jun 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Police (Compensation Scheme) Amendment Regulations 2024 (other than Pt. 1 and 2) | SL 2024/101 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
+Police (Compensation Scheme) Amendment Regulations 2024 | SL 2024/101 12 Jun 2024 | Pt. 1: 12 Jun 2024 (see r. 2(a)); Pt. 2: 13 Jun 2024 (see r. 2(b)); Regulations other than Pt. 1 and 2: 1 Jul 2024 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
