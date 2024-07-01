@@ -1,15 +1,12 @@
 ## Schedule 3 — Fees
 [r. 10(1)]
-[Heading inserted: SL 2023/35 r. 21.]
+[Heading inserted: SL 2024/96 r. 27.]
 Item | Column 1 Matter | Column 2 Fee ($)
-1. | Application for grant of general licence for period not exceeding prescribed period | 1 114.00
-2. | Application for grant of restricted licence for period not exceeding prescribed period | 1 012.40
-3. | Application for renewal of general or restricted licence for prescribed period | 788.00
-4. | Application for grant of interim licence | 36.35
-5. | Issue of duplicate licence | 33.00
-6. | Application for transfer of licence under section 19(6) of the Act | 92.00
-7. | Inspection of record under section 51 of the Act | 14.80
-8. | Inspection of Register | 11.80
-9. | Copy (certified or uncertified) of individual registration in Register — (a)first page (b)each subsequent page | 14.00 2.30
-10. | Copy (certified or uncertified) of all registrations in Register | 121.00
-[Schedule 3 inserted: SL 2023/35 r. 21.]
+1. | Application for grant of licence (Act s. 18(1)) — (a)general licence (b)restricted licence (c)interim licence, for each month applied for | 1 114.00 1 012.40 36.35
+2. | Application for renewal of licence (Act s. 18(1)) — (a)general licence (b)restricted licence | 788.00 788.00
+3. | Issue of duplicate licence (Act s. 26(3)) | 34.60
+4. | Application for transfer of licence under section 19(6) of the Act | 96.50
+5. | Inspection of record (Act s. 51) | 14.80
+6. | Inspection of Register (Act s. 27(3)) | 11.80
+7. | Certificate as to the contents of the Register (Act s. 27(3)) — (a)in relation to a record for 1 person (b)in relation to records for 2 or more persons but not all persons recorded in the Register (c)in relation to records for all persons recorded in the Register | 14.70 14.70 for first person plus 2.30 for each additional person 127.00
+[Schedule 3 inserted: SL 2024/96 r. 27.]

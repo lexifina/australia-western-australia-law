@@ -54,11 +54,11 @@ Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 5 | SL 20
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2022 | SL 2022/163 23 Sep 2022 | Pt. 1: 23 Sep 2022 (see r. 2(a); Pt. 2: 1 Oct 2022 (see r. 2(b)); Pt. 3: 1 May 2023 (see r. 2(c)); Regulations other Pt. 1-3: 1 May 2024 (see r. 2(d))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 15 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 2 (other than Div. 4) | SL 2024/12 9 Feb 2024 | Pt. 2 (other than Div. 3 and 4): 10 Feb 2024 (see r. 2(d)); Pt. 2 Div. 3: 1 May 2024 (see r. 2(b) and SL 2022/163 r. 2(d))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 14 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 2 Div. 4 | SL 2024/12 9 Feb 2024 | 10 Feb 2025 (see r. 2(c))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 14 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
