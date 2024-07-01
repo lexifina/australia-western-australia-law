@@ -28,11 +28,11 @@ Compilation table
  | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 25 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | School Boarding Facilities Legislation Amendment and Repeal Act 2016 Pt. 3 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
 Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 Pt. 3 | 14 of 2019 | 5 Jul 2019 | s. 13: 5 Jul 2019 (see s. 2(a)); s. 14-22: 22 Jul 2019 (see s. 2(b) and Gazette 19 Jul 2019 p. 2841)
+School Education Amendment Act 2024 | 13 of 2024 | 22 Apr 2024 | s. 1 and 2: 22 Apr 2024 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2024 (see s. 2(b) and SL 2024/111 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-School Education Amendment Act 2024 s. 3-11 | 13 of 2024 | 22 Apr 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
@@ -58,6 +58,7 @@ attendance officer32
 Attendance Panel32
 authorised person12, 43(3), 120(5)
 bank113(5), 213U(5)
+breach of school discipline89
 business arrangement216(6)
 capital works186(4)
 CEO’s Instructions233(1)
@@ -68,13 +69,15 @@ child4, 75(3)
 child of compulsory school age4, 29(1a)
 code of conduct213A
 college fund 213A
-commencementSch. 1 cl. 1 and cl. 24
+commencementSch. 1 cl. 1 and 24
 commencement Sch. 1 cl. 26
 commencement day11L(7), Sch. 1 cl. 33
 Community Kindergarten Registration Advisory Panel201(7)
+complainant96B
 compulsory education period4
 condition150
 contribution97
+conviction96C
 Council4
 course11A(1)
 department4
@@ -141,6 +144,7 @@ school planning proposal150, 156
 school premises119(1)
 school system150
 school year4
+sexual offence96B
 significant registration change150, 156
 special religious education66
 specifiedSch. 1 cl. 32(5)
