@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Adoption Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Adoption Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Adoption Act 1994 | 9 of 1994 | 15 Apr 1994 | s. 1 and 2: 15 Apr 1994; Act other than s. 1 and 2: 1 Jan 1995 (see s. 2 and Gazette 25 Nov 1994 p. 5905)
@@ -34,10 +34,7 @@ Adoption Amendment Act 2012 | 15 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (
 Reprint 5: The Adoption Act 1994 as at 1 Mar 2013 (includes amendments listed above)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 3 | 30 of 2023 | 8 Dec 2023 | 1 Jul 2024 (see s. 2(c))
+Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 3 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
 Other notes
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
 Section 16A(2) was deleted by the Adoption Amendment Act 2012 s. 10.
@@ -127,7 +124,7 @@ State Central Authority4(1)
 step-parent4(1)
 Torres Strait Islander4(1)
 veto cut off day4(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

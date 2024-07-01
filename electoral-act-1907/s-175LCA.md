@@ -1,0 +1,5 @@
+### 175LCA. Non-party candidates may opt in and out of receiving higher reimbursement amount
+(1) The agent of a non-party candidate in an election may, on or before the day of the close of nominations for every election at which the non-party candidate will be a candidate in the election, lodge an opt-in request (a non-party opt-in request) in writing with the Electoral Commissioner to receive the higher reimbursement amount under this Division.
+(2) After a non-party opt-in request for a non-party candidate has been lodged under subsection (1), the agent of the candidate may lodge a request in writing with the Electoral Commissioner to withdraw the non-party opt-in request.
+(3) If a non-party opt-in request for a non-party candidate is withdrawn under subsection (2) and the candidate becomes a non-party candidate in a subsequent election, the agent of the candidate may lodge another non-party opt-in request within the period of 10 days beginning on the day on which the writ for the election is issued.
+[Section 175LCA inserted: No. 30 of 2023 s. 123.]
