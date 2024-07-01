@@ -1,11 +1,8 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Safety Levies Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Petroleum and Geothermal Energy Safety Levies Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Petroleum and Geothermal Energy Safety Levies Regulations 2022 | SL 2022/29 11 Mar 2022 | Pt. 1 (other than r. 3): 11 Mar 2022 (see r. 2(a)); r. 3 and Pt. 2-8: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 10 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

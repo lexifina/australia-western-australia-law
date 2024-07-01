@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Petroleum (Submerged Lands) Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Petroleum (Submerged Lands) Regulations 1990 | 28 Sep 1990 p. 5105-8 | 1 Oct 1990 (see r. 2 and Gazette 28 Sep 1990 p. 5099)
@@ -33,9 +33,6 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 15 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 11 | SL 2022/58 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 13 | SL 2023/36 5 May 2023 | 1 Jul 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 12 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 Commencement day was 16 December 2000 (see Gazette 15 Dec 2000 p. 7201).
