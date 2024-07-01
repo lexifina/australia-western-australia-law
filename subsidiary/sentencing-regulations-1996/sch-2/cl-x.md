@@ -13,7 +13,7 @@ Criminal Investigation (Extra-territorial Offences) Act 1987 s. 6
 Criminal Procedure Act 2004 Sch. 2 cl. 5
 Dangerous Goods (Transport) Act 1998 s. 19, 29(6)
 Debt Collectors Licensing Act 1964 s. 5(2)
-Electoral Act 1907 s. 77(4), 188(2), 190 (Fraudulently putting any ballot or other paper into the ballot box. Fraudulently taking any ballot paper out of any polling place. Supplying ballot papers without authority.), 191A(1), 191A(2), 199A(1)
+Electoral Act 1907 s. 77(4), 188(2), 190 (Fraudulently putting any ballot or other paper into the ballot box. Fraudulently taking any ballot paper out of any place to vote. Supplying ballot papers without authority.), 191A(1), 191A(2), 199A(1)
 Electricity Transmission and Distribution Systems (Access) Act 1994 Sch. 2 cl. 12(1)
 Explosives and Dangerous Goods Act 1961 s. 54A(6)
 Family Court Act 1997 s. 243(6)
@@ -47,5 +47,4 @@ Street Collections (Regulation) Act 1940 s. 3(1), 6
 Swan River Trust Act 1988 s. 64(6)
 Transport Co-ordination Act 1966 s. 49(3)
 Unclaimed Money Act 1990 s. 22(2)
-Water Corporation Act 1995 Sch. 2 cl. 12(1)
 Zoological Parks Authority Act 2001 s. 31

@@ -35,6 +35,7 @@ Sentencing Amendment Regulations 2019 | 24 Dec 2019 p. 4421 | r. 1 and 2: 24 Dec
 Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 6 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/162 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Attorney General Regulations Amendment (Sunday Entertainments) Regulations 2021 Pt. 4 | SL 2021/136 30 Jul 2021 | 31 Jul 2021 (see r. 2(b))
+Sentencing Amendment Regulations 2024 | SL 2024/129 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Other notes
 Footnote no longer required.
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
@@ -72,3 +73,7 @@ non-complying person8B(1)
 prosecutor4B(8), 10(8)
 Sheriff’s costs8B(1)
 superior court application5B(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
