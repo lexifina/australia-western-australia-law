@@ -10,11 +10,11 @@ Planning Regulations Amendment Regulations 2020 Pt. 2 | SL 2020/252 18 Dec 2020 
 Planning and Development (Local Planning Schemes) Amendment Regulations 2021 | SL 2021/77 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 (other than Pt. 3) | SL 2022/178 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
 Planning and Development (Local Planning Schemes) Amendment Regulations 2024 | SL 2024/25 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2024 (see r. 2(b))
+Planning and Development (Local Planning Schemes) Amendment (Single House Development) Regulations 2024 | SL 2024/68 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 Pt. 3 | SL 2022/178 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
-Planning and Development (Local Planning Schemes) Amendment (Single House Development) Regulations 2024 r. 3 and 4 | SL 2024/68 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
@@ -41,6 +41,7 @@ applicable minimum on-site parking requirementSch. 2 cl. 77A
 applicationSch. 2 cl. 78F(2)
 art gallerySch. 1 cl. 38
 AS 3959Sch. 2 cl. 78A
+authorised employeeSch. 2 cl. 84A
 authorised person3
 BAL contour mapSch. 2 cl. 78A
 basic amendment34
@@ -183,6 +184,8 @@ precinct structure planSch. 2 cl. 14
 predominant useSch. 1 cl. 37(1)
 premisesSch. 2 cl. 1
 preparation and approval processSch. 2 cl. 93(1)
+prescribed development approval functionSch. 2 cl. 84A
+prescribed single house developmentSch. 2 cl. 84A, 84B(1) and (2)
 previous bushfire provisionsSch. 2 cl. 78G(1)
 properly maintainedSch. 2 cl. 13(1)
 publication requirements76B(1), Sch. 2 cl. 88(1)
