@@ -1,12 +1,8 @@
 Notes
-This is a compilation of the Health Practitioner Regulation National Law Application Act 2024 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Health Practitioner Regulation National Law Application Act 2024. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law Application Act 2024 Pt. 1 and 2, Pt. 3 (other than s. 29) and Pt. 4-6 | 21 of 2024 | 14 May 2024 | Pt. 1: 14 May 2024 (see s. 2(a)); Pt. 2 and 3 (other than s. 29) and Pt. 4-6: 15 May 2024 (see s. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law Application Act 2024 s. 29 | 21 of 2024 | 14 May 2024 | Operative on commencement of the Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022 (Qld) s. 94 (see s. 2(b)(ii))
+Health Practitioner Regulation National Law Application Act 2024 | 21 of 2024 | 14 May 2024 | Pt. 1: 14 May 2024 (see s. 2(a)); Pt. 2 and 3 (other than s. 29) and Pt. 4-6: 15 May 2024 (see s. 2(c)); s. 29: 1 Jul 2024 (see s. 2(b)(ii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
