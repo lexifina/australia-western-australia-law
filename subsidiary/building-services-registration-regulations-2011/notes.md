@@ -34,14 +34,14 @@ Building Services (Registration) Amendment Regulations (No. 3) 2021 | SL 2021/21
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Building Services (Registration) Amendment Regulations 2022 | SL 2022/101 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
+Commerce Regulations Amendment (Building Services) Regulations 2023 Pt. 2 Div. 1 and 2 | SL 2023/64 2 Jun 2023 | 1 Jul 2024 (see r. 2(b))
 Building Services (Registration) Amendment Regulations 2023 | SL 2023/76 16 Jun 2023 | r. 1 and 2: 16 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jun 2024 (see r. 2(b))
-Building Services (Registration) Amendment Regulations (No. 2) 2023 (other than r. 4) | SL 2023/164 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); r. 3 and 5: 2 Nov 2023 (see r. 2(c))
+Building Services (Registration) Amendment Regulations (No. 2) 2023 | SL 2023/164 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); r. 3 and 5: 2 Nov 2023 (see r. 2(c)); r. 4: 1 Jul 2024 (see r. 2(b)(ii) and SL 2023/64 r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Commerce Regulations Amendment (Building Services) Regulations 2023 Pt. 2 | SL 2023/64 2 Jun 2023 | Pt. 2 Div. 1 and 2: 1 Jul 2024 (see r. 2(b)); Pt. 2 Div. 3: 1 Jul 2025 (see r. 2(c)); Pt. 2 Div. 4: 1 Jul 2027 (see r. 2(d))
-Building Services (Registration) Amendment Regulations (No. 2) 2023 r. 4 | SL 2023/164 1 Nov 2023 | 1 Jul 2024 (see r. 2(b)(ii) and SL 2023/64 cl. 2(b))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/96 12 Jun 2024 | Operative immediately after the Commerce Regulations Amendment (Building Services) Regulations 2023 regulation 15 comes into operation (see r. 2(b))
+Commerce Regulations Amendment (Building Services) Regulations 2023 Pt. 2 Div. 3 and 4 | SL 2023/64 2 Jun 2023 | Pt. 2 Div. 3: 1 Jul 2025 (see r. 2(c)); Pt. 2 Div. 4: 1 Jul 2027 (see r. 2(d))
 Other notes
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
@@ -51,10 +51,21 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 2008 regulations47
+amending provisions53(1)
 approval number27(1)
+approved continuing professional development28P(1)
 builder work3, 13(1)
-Building Code22
+Building Code3
 building contractor13(1), Sch. 5 cl. 1
+building engineering contractor28J, Sch. 5 cl. 1
+building engineering contractor (company)28N(1)
+building engineering contractor (individual)28N(1)
+building engineering contractor (partnership)28N(1)
+building engineering practitioner28J, Sch. 5 cl. 1
+building engineering practitioner - associate28Q(1)
+building engineering practitioner - professional28Q(1)
+building engineering practitioner - technologist28Q(1)
+building engineering work3
 building surveying contractor28A, Sch. 5 cl. 1
 building surveying practitionerSch. 5 cl. 1
 building surveying work28A, Sch. 5 cl. 1
@@ -65,29 +76,38 @@ certificate of building compliance3
 certificate of construction compliance3
 certificate of design compliance3
 Class 10 building22
-commencement day37, 43
+commencement day37, 43, 53(1)
 compliance certificate3
 detached house22
 DIN10A(1)
-eligible person16(4), 28D(2A) and (3A), 31(4)
+eligible person16(4), 28D(2A) and (3A), 28M(1), 31(4)
 exempt shed13(1)
 farm building12
 former board37, 43
 former registrar37, 43
 GSTSch. 2 cl. 1
+low-rise building28L(1)
+medium-rise building28L(1)
+National Construction Code3
 National Register3
 owner-builder3
 owner-builder authorisation37
 painter work3, 28(1)
 painting contractor28(1), Sch. 5 cl. 1
 painting work28(1)
-previously registered16(4)
+prescribed fire system28M(1)
+previously registered16(4), 28M(1)
 principal builder3
+professional engineering work28L(1)
+relevant28M(1) and (5)
+relevant class53(2)
 relevant componentsSch. 2 cl. 1
 repeal day47
 repealed Act37, 43
 section3
 small commercial building22
+storey3
+technical engineering work28L(1)
 townsiteSch. 3 cl. 1, Sch. 4 cl. 1
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
