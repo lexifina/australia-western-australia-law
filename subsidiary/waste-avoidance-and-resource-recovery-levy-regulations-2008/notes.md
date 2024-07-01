@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Waste Avoidance and Resource Recovery Levy Regulations 2008 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Waste Avoidance and Resource Recovery Levy Regulations 2008 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Waste Avoidance and Resource Recovery Levy Regulations 2008 | 20 Jun 2008 p. 2685-702 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
@@ -9,11 +9,7 @@ Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2014 | 
 Waste Avoidance and Resource Recovery Levy Amendment Regulations 2014 | 23 Sep 2014 p. 3475-6 | r. 1 and 2: 23 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Sep 2014 (see r. 2(b))
 Waste Avoidance and Resource Recovery Levy Amendment Regulations 2016 | 17 Jun 2016 p. 2091-7 | r. 1 and 2: 17 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2016 (see r. 2(b))
 Waste Avoidance and Resource Recovery Levy Amendment Regulations 2020 | SL 2020/3 4 Feb 2020 | r. 1 and 2: 4 Feb 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Feb 2020 (see r. 2(b))
-Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2024 (other than r. 4) | SL 2024/84 29 May 2024 | r. 1 and 2: 29 May 2024 (see r. 2(a)); r. 5: 30 May 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2024 r. 4 | SL 2024/84 29 May 2024 | 1 Jul 2024 (see r. 2(c))
+Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2024 | SL 2024/84 29 May 2024 | r. 1 and 2: 29 May 2024 (see r. 2(a)); r. 5: 30 May 2024 (see r. 2(b)); Regulations other than r. 1, 2 and 5: 1 Jul 2024 (see r. 2(c))
 Other notes
 The Waste Avoidance and Resource Recovery Levy Amendment Regulations 2023 r. 3 and 4 (SL 2023/193) did not come into operation and were repealed by the Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2024 on 30 May 2024 (see SL 2024/84 r. 5).
 Defined terms
