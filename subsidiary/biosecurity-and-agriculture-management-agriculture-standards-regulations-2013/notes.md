@@ -8,6 +8,7 @@ Agriculture and Food Regulations Amendment (Poisons) Regulations 2016 Pt. 3 | 17
 Biosecurity and Agriculture Management Regulations Amendment Regulations 2017 Pt. 2 | 3 Feb 2017 p. 1110-12 | 4 Feb 2017 (see r. 2(b))
 Biosecurity and Agriculture Management (Agriculture Standards) Amendment Regulations 2021 | SL 2021/214 17 Dec 2021 | r. 1 and 2: 17 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2021 (see r. 2(b))
 Agriculture and Food Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 5 | SL 2022/98 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Biosecurity and Agriculture Management Regulations Amendment Regulations 2024 Pt. 3 | SL 2024/150 10 Jul 2024 | 11 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -52,3 +53,7 @@ test sieve3
 transport document20D(1)
 used cooking oil3
 withholding period14
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
