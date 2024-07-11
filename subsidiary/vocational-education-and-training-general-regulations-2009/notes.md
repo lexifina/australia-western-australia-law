@@ -18,6 +18,7 @@ Vocational Education and Training (General) Amendment Regulations 2016 | 27 Jan 
 Vocational Education and Training (General) Amendment Regulations 2017 | 29 Dec 2017 p. 6080-3 | r. 1 and 2: 29 Dec 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2018 (see r. 2(b))
 Reprint 2: The Vocational Education and Training (General) Regulations 2009 as at 16 Nov 2018 (includes amendments listed above)
 Vocational Education and Training (General) Amendment Regulations 2021 | SL 2021/156 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2021 (see r. 2(b))
+Vocational Education and Training (General) Amendment Regulations 2024 | SL 2024/147 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2024 (see r. 2(b))
 Other notes
 Repealed by the Vocational Education and Training (Commonwealth Powers) Act 2010 Sch. 1 (NSW).
 Repealed by the Training and Skills Development Act 2016 (NT).
@@ -76,3 +77,7 @@ WA3
 WA accredited course7(1)
 WA registered provider7(1)
 working day3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
