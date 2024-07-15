@@ -6,6 +6,7 @@ Prohibited Behaviour Orders Regulations 2011 | 23 Feb 2011 p. 635-48 | r. 1 and 
 Prohibited Behaviour Orders Amendment Regulations 2011 | 1 Jul 2011 p. 2725-6 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
 Attorney General Regulations Amendment (Road Traffic) Regulations 2021 Pt. 3 | SL 2021/56 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Attorney General Regulations Amendment (Firearms) Regulations 2022 Pt. 2 | SL 2022/189 18 Nov 2022 | 19 Nov 2022 (see r. 2(b))
+Prohibited Behaviour Orders Amendment Regulations 2024 | SL 2024/146 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jul 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -15,3 +16,7 @@ co-licensee3
 Commissioner3
 prescribed period5(1)
 section3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

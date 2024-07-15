@@ -27,11 +27,12 @@ s. 204A | Showing offensive material to children under 16 years of age
 s. 313 | Common assaults
 s. 317 | Assaults occasioning bodily harm
 s. 318 | Serious assaults
+s. 318B | Assault on retail workers
 s. 338A | Threats with intent to influence
 s. 338B | Threats
 s. 338E | Stalking
 s. 378 | Stealing a motor vehicle on conviction for which a summary conviction penalty is imposed under The Criminal Code section 426(3)
-s. 378 | Stealing a thing having a value that does not exceed $1 000 on conviction for which a summary conviction penalty is imposed under The Criminal Code section 426(4)
+s. 378 | Stealing a thing having a value that does not exceed $1 000
 s. 392 | Robbery
 s. 393 | Assault with intent to rob
 s. 401 | Burglary on conviction for which a summary conviction penalty is imposed under The Criminal Code section 401
@@ -93,4 +94,4 @@ Provision | Description of offence
 s. 6 | Prohibited weapons
 s. 7 | Controlled weapons
 s. 8 | Other articles carried or possessed as weapons
-[Schedule 1 amended: SL 2021/56 r. 7.]
+[Schedule 1 amended: SL 2021/56 r. 7; SL 2024/146 r. 4.]
