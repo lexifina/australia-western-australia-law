@@ -30,11 +30,11 @@ COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 56 | 34 of 2020 | 11
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Criminal Investigation Amendment (Validation) Act 2023 | 8 of 2023 | 29 Mar 2023 | Act (other than s. 4): 29 Mar 2023 (see s. 2(1)); s. 4: 30 Mar 2023 (see s. 2(2))
 Western Australian Marine Amendment Act 2023 s. 31 | 31 of 2023 | 11 Dec 2023 | 2 May 2024 (see s. 2(c) and SL 2024/52 cl. 2)
+Criminal Investigation Amendment (Protection of Law Enforcement Animals) Act 2024 | 20 of 2024 | 14 May 2024 | s. 1 and 2: 14 May 2024 (see s. 2(a)); Act other than s. 1 and 2: 15 Jul 2024 (see s. 2(b) and SL 2024/142 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
-Criminal Investigation Amendment (Protection of Law Enforcement Animals) Act 2024 r. 3-6 | 20 of 2024 | 14 May 2024 | To be proclaimed (see. s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms
@@ -43,12 +43,13 @@ Defined termProvision(s)
 admission118(1)
 adult73, 118(1)
 aggrieved person49(1)
+apply force152A
 area associated with a dwelling3(1)
 arrestable offence25(1)
 arrestable person132(1)
 arrested suspect138(1), 139(1), 140(1), 142(1)
 arrest warrant3(1)
-assault38C(1)
+assault38C(1), 152A
 authorisation154(1)
 authorised47(1)
 authorised officer135(1)
@@ -61,7 +62,7 @@ business record50
 CCC115
 CCC officer115
 child73, 118(1)
-circumstances of aggravation38C(1)
+circumstances of aggravation38C(1), 152A
 citizen24(1)
 court151(1)
 data57
@@ -107,6 +108,7 @@ passenger26(2)
 person in authority32A
 photograph3(1)
 place3(1)
+power, duty or responsibility152A
 prescribed3(1)
 prescribed person124(1)
 private parts3(1)
@@ -120,7 +122,7 @@ public officer3(1)
 public open area3(1)
 public place3(1)
 qualified person73
-reasonable excuse118(1)
+reasonable excuse118(1), 152A, 153C(2), 153D(1)
 reasonably suspects3(1)
 record3(1)
 relevant thing73
@@ -130,7 +132,7 @@ road18(1)
 searcher65(1), 70(1), 71(1), 72(1)
 search warrant3(1)
 security risk item135(1)
-senior officer38A(1), 44(1), 47(1), 97(1), 133(1), 140(1)
+senior officer37(1), 44(1), 47(1), 97(1), 133(1), 140(1)
 senior police officer3(1)
 serious event37(1)
 serious offence40(1), 57, 128(1), 133(1), 142(1)
