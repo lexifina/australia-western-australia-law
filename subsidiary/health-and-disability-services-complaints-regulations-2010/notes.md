@@ -10,6 +10,7 @@ Health Services (Consequential Amendments) Regulations 2016 Pt. 6 | 24 Jun 2016 
 Health and Disability Services (Complaints) Amendment Regulations 2023 | SL 2023/115 26 Jul 2023 | r. 1 and 2: 26 Jul 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jul 2023 (see r. 2(b))
 Health Regulations Amendment (Abortion Legislation Reform) Regulations 2024 Pt. 2 | SL 2024/20 21 Feb 2024 | 27 Mar 2024 (see r. 2(b))
 Health and Disability Services (Complaints) Amendment Regulations 2024 | SL 2024/54 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2024 (see r. 2(b))
+Health and Disability Services (Complaints) Amendment Regulations (No. 2) 2024 | SL 2024/145 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jul 2024 (see r. 2(b))
 Other notes
 Now known as the Health and Disability Services (Complaints) Regulations 2010; citation changed (see note under r. 1).
 Defined terms

@@ -68,6 +68,7 @@ Item | Provision | Description of offence
 48. | s. 317A | Assault with intent
 49. | s. 318 | Serious assault
 50. | s. 318A | Assault on aircraft’s crew
+50A. | s. 318B | Assault on retail workers
 51. | s. 320 | Sexual offence against child under 13
 52. | s. 321 | Sexual offence against child of or over 13 and under 16
 53. | s. 321A | Persistent sexual conduct with child under 16
@@ -102,7 +103,7 @@ Item | Provision | Description of offence
 82. | s. 401 | Burglary
 83. | s. 407 | Person found armed etc. with intent to commit crime
 84. | s. 409 | Fraud
-[Division 3 inserted: SL 2023/115 r. 7; amended: SL 2024/20 r. 4.]
+[Division 3 inserted: SL 2023/115 r. 7; amended: SL 2024/20 r. 4; SL 2024/145 r. 4.]
 ## Division 4 — Offences under Human Reproductive Technology Act 1991
 [Heading inserted: SL 2023/115 r. 7.]
 Item | Provision | Description of offence
