@@ -46,6 +46,7 @@ Taxation Administration Amendment Regulations 2022 | SL 2022/120 30 Jun 2022 | r
 Finance Regulations Amendment (Interest Rates) Regulations 2023 Pt. 3 | SL 2023/70 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Finance Regulations Amendment (Interest Rates) Regulations 2024 Pt. 3 | SL 2024/82 29 May 2024 | 1 Jul 2024 (see r. 2(b))
 Finance Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL 2024/134 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Finance Regulations Amendment (Disclosure of Information) Regulations 2024 Pt. 3 | SL 2024/151 24 Jul 2024 | 25 Jul 2024 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 2.
 If a modification is to:
@@ -78,12 +79,12 @@ employer13G(1)
 functions14A(1)
 industrial inspector13P(1)
 Legal Practice Board14A(1)
-legal practitioner14A(1)
 online arrangement5A(3)
 Pastoral Lands Board13(1)
 pastoral lessee13(1)
 public sector agency13L(1)
 relevant recipient14A(1)
+relevant scheme14B(1)
 senior officer13Q(1)
 settlement agent14A(1)
 STR arrangement14A(1)
