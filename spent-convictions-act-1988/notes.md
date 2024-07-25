@@ -65,10 +65,11 @@ Short title | Number and year | Assent | Commencement
  | Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 2 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
  | Spent Convictions (Act Amendment) Regulations 2023 (SL 2023/121) | r. 1 and 2: 2 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2023 (see r. 2(b))
  | Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 3 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
+ | Spent Convictions (Act Amendment) Regulations 2024 (SL 2024/153) | r. 1 and 2: 24 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Criminal Law (Mental Impairment) Act 2023 s. 409 and 411 | 10 of 2023 | 13 Apr 2023 | To be proclaimed (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 s. 409 and 411 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 19 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
