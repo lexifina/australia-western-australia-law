@@ -42,11 +42,11 @@ Consumer Protection Legislation Amendment Act 2019 Pt. 9 | 25 of 2019 | 24 Oct 2
 Residential Tenancies (COVID-19 Response) Act 2020 Pt. 8 | 18 of 2020 | 23 Apr 2020 | 30 Mar 2020 (see s. 2(d))
 Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 3 | 28 of 2020 | 9 Jul 2020 | s. 88: 10 Jul 2020 (see s. 2(1)(b)); s. 89: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
-Residential Tenancies Amendment Act 2024 Pt. 2 (but only s. 3-10, 17, 19-23, 24(1), 32, 34, 36, 44, 45 and 47-55) | 11 of 2024 | 22 Apr 2024 | 16 May 2024 (see s. 2(b) and SL 2024/75 cl. 2(a))
+Residential Tenancies Amendment Act 2024 Pt. 2 (other than s. 13(2), 15(2), 16, 24(2)-(5), 38, 43 and 56-61) | 11 of 2024 | 22 Apr 2024 | s. 3-10, 17, 19-23, 24(1), 32, 34, 36, 44, 45 and 47-55): 16 May 2024 (see s. 2(b) and SL 2024/75 cl. 2(a)); s. 11, 12, 13(1), 14, 15(1), 18, 25-31, 33, 35, 37, 39-42 and 46: 29 Jul 2024 (see s. 2(b) and SL 2024/143 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2024 s. 11-16, 18, 24(2)-(5), 25-31, 33, 35, 37-43, 46 and 56-61 | 11 of 2024 | 22 Apr 2024 | s. 11, 12, 13(1), 14, 15(1), 18, 25-31, 33, 35, 37, 39-42 and 46: 29 Jul 2024 (see s. 2(b) and SL 2024/143 cl. 2); s. 13(2), 15(2), 16, 24(2)-(5), 38, 43 and 56-61: to be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2024 s. 13(2), 15(2), 16, 24(2)-(5), 38, 43 and 56-61 | 11 of 2024 | 22 Apr 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
@@ -59,6 +59,7 @@ The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+additional amount31(1A)
 AFI92
 agent22(6), 82A
 agreement70A(1), 71D(1), 72(1A)
@@ -71,32 +72,34 @@ authorised person88A(1)
 bond3
 bond administrator3
 bond information11AA(1)
-commencement99(1), 101(1), 102(1)
+commencement99(1), 100(1), 101(1), 102(1)
 commencement day91(1), 92, 97(1), 98(1)
 Commissioner3
 common area3
+community corporation50A(1)
 community titles scheme3
 competent court3
+consenting party50Y(1) and (2)
 consumption49A(1)
+continuing agreement31B(2)
 co-tenant71AD(1)
 criteria71A
 current term99(2)
 database82A
 database operator82A
 Department3
-disability3, 47(1A)
-disputed tenancy matter3
+disability3
+disputed tenancy matter3, 11E(1)
 DVO71AA
 excluded tenant71AE(1)
 executive officer7A(3)
-existing agreement71H
+existing agreement31B(2), 71H
 expiry day3
 Family Court injunction71AA
 family violence3
 family violence order71AE(1)
 first tenant17A(1)
-former agreement31B(1)
-furniture safety modification3
+furniture safety modification3, 50J(2)
 goods79(1A)
 GST49A(1)
 Housing Authority3, 71A
@@ -106,27 +109,25 @@ known party3
 legally qualified person22(6)
 lessor3, 46(1)
 list82A
-major modification3
+major modification3, 50W(1)
 Minister for Housing71A
 minor59A(1)
 minor modification3
 modification3
 national privacy principles82K(1)
-new agreement31B(1)
 notice46(1), 70A(1)
 notice of dispute3
 notice period3
 notice to vacate81A(1)
 original condition3
 out-of-date82A
-party3
+party3, 11D
 personal information3
 pet3
 plaintiff81B(1), 81(1)
 possession day70A(1), 72(1A)
 premises3, 38(2), 40(1), 42(1), 44(1), 46(1), 71AA
 prescribed3
-prescribed alterations47(4)
 prescribed amount12
 prescribed dispute12
 prescribed period43(1)
@@ -147,7 +148,7 @@ required act86A(1)
 residential premises3, 82A
 residential tenancy agreement3, 82A
 residential tenancy database82A
-retaliatory action3, 26A
+retaliatory action2, 26A
 scheme by-laws3
 security bond3, 29(1A)
 security bond held in an AFI92
