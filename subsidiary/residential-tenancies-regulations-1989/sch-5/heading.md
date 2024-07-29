@@ -1,9 +1,15 @@
 ## Schedule 5 — Prescribed offences and modified penalties
 [r. 13]
 [Heading inserted: Gazette 3 May 2013 p. 1832.]
+Offences under Residential Tenancies Regulations 1989 | Modified penalty
+r. 10ABA(1)(a) | Failing to give information in approved form in relation to written residential tenancy agreement | $1 000
+r. 10ABA(1)(b) | Failing to give information in approved form in relation to residential tenancy agreement other than written agreement | $1 000
 Offences under Residential Tenancies Act 1987 | Modified penalty
+s. 11H(1) | Giving Commissioner false or misleading information | $2 000
 s. 22(5) | Unlawfully demanding or receiving fee or reward for representing or assisting party to proceedings | $1 000
-s. 27A | Failing to use prescribed form of written residential tenancy agreement | $1 000
+s. 27A | Failing to use approved form of written residential tenancy agreement | $1 000
+s. 27AA(1) | Advertising or offering tenancy other than for rent at fixed amount or for rent calculated by reference to tenant’s income | $2 000
+s. 27AA(3) | Soliciting or inviting offer of rent at amount higher than advertised | $2 000
 s. 27B | Failing to give prescribed information to tenant | $1 000
 s. 27C(1)(a) | Failing to prepare property condition report within 7 days | $1 000
 s. 27C(1)(b) | Failing to provide 2 copies of property condition report within 7 days | $1 000
@@ -53,4 +59,4 @@ s. 82I(2) | Database operator failing to give copy of personal information in re
 s. 82K(2) | Keeping personal information in residential tenancy database longer than permitted | $1 000
 s. 93(1) | Failing to take reasonable steps to ensure security bond is transferred to bond administrator when required | $1 000
 s. 96(2) | Failing to pay bond, or part of bond, when required | $1 000
-[Schedule 5 inserted: Gazette 3 May 2013 p. 1832-5; amended: Gazette 9 Apr 2019 p. 1052.]
+[Schedule 5 inserted: Gazette 3 May 2013 p. 1832-5; amended: Gazette 9 Apr 2019 p. 1052; SL 2024/149 r. 20.]

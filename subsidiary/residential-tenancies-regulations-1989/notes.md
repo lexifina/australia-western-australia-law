@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Residential Tenancies Regulations 1989 | 9 Aug 1989 p. 2563-85 (erratum 18 Aug 1989 p. 2751) | 1 Oct 1989 (see r. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -55,10 +55,7 @@ Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 6 | SL 20
 Residential Tenancies Amendment Regulations 2023 | SL 2023/126 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
 Residential Tenancies Amendment Regulations (No. 2) 2023 | SL 2023/206 20 Dec 2023 | r. 1 and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 16 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Residential Tenancies Amendment Regulations (No. 2) 2024 r. 3-20 | SL 2024/149 10 Jul 2024 | 29 Jul 2024 (see r. 2(b))
+Residential Tenancies Amendment Regulations (No. 2) 2024 | SL 2024/149 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jul 2024 (see r. 2(b))
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
@@ -68,28 +65,28 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 AS 5039-200812B(1)
-belongsSch. 4
 bond holder15(7)
-commencement day5A(1A)
-community titles schemeSch. 4
+commencement day5A(1A), 19(1)
+dangerous dog12BB(1)
 deadlock12B(1)
+draughtproofing7I(1)
 financially disadvantaged personSch. 3
 Foyer Oxford7D(1)
 Government employee5B(1)
 Housing Authority3A
 housing management agreement3A
+installing3A
+minor modification7I(2)
 person of Aboriginal descent5AD(1)
 premises5AD(2)
 relevant bank accepted bills rate14(1)
 retirement village3(2)
 rural land7A(1)
-scheme by-lawsSch. 4
 security bond15(7)
 specified power5(2), 5D(2)
 St Thomas More College5AAA(1)
-tier 2 schemeSch. 4
-tier 3 schemeSch. 4
 Unclaimed Security Bond Account15(7)
+water-efficient shower head7I(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.

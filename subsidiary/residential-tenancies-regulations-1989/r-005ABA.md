@@ -3,7 +3,7 @@ Under section 6(a) of the Act it is provided that section 27A of the Act applies
 (a) deleting “A lessor” and inserting:
 (1)A lessor
 (b) inserting at the end of section 27A:
-(2)However, the lessor does not commit an offence against subsection (1) if the written residential tenancy agreement has been amended only to the extent necessary to —
+(2)However, the lessor, and property manager, if any, do not commit an offence against subsection (1) if the written residential tenancy agreement has been amended only to the extent necessary to —
 (a)reflect the terms that lawfully apply to the agreement; or
 (b)make incidental changes because the agreement has been amended under paragraph (a).
-[Regulation 5ABA inserted: SL 2023/206 r. 4.]
+[Regulation 5ABA inserted: SL 2023/206 r. 4; amended: SL 2024/149 r. 6.]
