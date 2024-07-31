@@ -18,6 +18,7 @@ Criminal Procedure Amendment Rules 2019 | 15 Nov 2019 p. 4031-2 | r. 1 and 2: 15
 Criminal Procedure Amendment Rules 2020 | SL 2020/53 8 May 2020 | r. 1 and 2: 8 May 2020 (see r. 2(a)); Rules other than r. 1 and 2: 9 May 2020 (see r. 2(b))
 Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 2 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Criminal Procedure Amendment Rules 2023 | SL 2023/20 14 Mar 2023 | r. 1 and 2: 14 Mar 2023 (see r. 2(a)); Rules other than r. 1 and 2: 15 Mar 2023 (see r. 2(b))
+Criminal Procedure Amendment Rules (No. 2) 2024 | SL 2024/154 30 Jul 2024 | r. 1 and 2: 30 Jul 2024 (see r. 2(a)); Rules other than r. 1 and 2: 31 Jul 2024 (see r. 2(b))
 Other notes
 The Parole Board was replaced by the Prisoners Review Board. See the Parole and Sentencing Legislation Amendment Act 2006.
 Defined terms
@@ -51,3 +52,7 @@ section52, 76
 section 138 application22(1)
 trial date35
 working day3(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
