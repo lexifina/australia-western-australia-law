@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Caravan Parks and Camping Grounds Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Caravan Parks and Camping Grounds Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Citation | Published | Commencement
  | Caravan Parks and Camping Grounds Regulations 1997 | 20 Jun 1997 p. 2871-946 | 1 Jul 1997 (see r. 2)
@@ -18,6 +18,10 @@ Caravan Parks and Camping Grounds Amendment Regulations 2020 | SL 2020/12 3 Mar 
 Local Government Regulations Amendment (Payment Method) Regulations 2020 Pt. 2 | SL 2020/99 30 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Local Government Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/169 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 2 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Caravan Parks and Camping Grounds Amendment Regulations 2024 r. 3-18 | SL 2024/162 7 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Other notes
 Under the Alteration of Statutory Designations Order (No. 4) 2013 a reference in any law to the Department of Local Government is to be read and construed, unless the context otherwise requires, as a reference to the Department of Local Government and Communities.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960.
@@ -84,3 +88,7 @@ transit park3
 trust fund59(11)
 unallocated Crown land11(3)
 unmanaged reserve11(3)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
