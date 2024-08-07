@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Procedure Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Criminal Procedure Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Criminal Procedure Rules 2005 | 29 Apr 2005 p. 1885-964 | 2 May 2005 (see r. 2)
@@ -19,6 +19,10 @@ Criminal Procedure Amendment Rules 2020 | SL 2020/53 8 May 2020 | r. 1 and 2: 8 
 Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 2 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Criminal Procedure Amendment Rules 2023 | SL 2023/20 14 Mar 2023 | r. 1 and 2: 14 Mar 2023 (see r. 2(a)); Rules other than r. 1 and 2: 15 Mar 2023 (see r. 2(b))
 Criminal Procedure Amendment Rules (No. 2) 2024 | SL 2024/154 30 Jul 2024 | r. 1 and 2: 30 Jul 2024 (see r. 2(a)); Rules other than r. 1 and 2: 31 Jul 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Criminal Procedure Amendment Rules 2024 r. 3-6 | SL 2024/164 7 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Other notes
 The Parole Board was replaced by the Prisoners Review Board. See the Parole and Sentencing Legislation Amendment Act 2006.
 Defined terms
