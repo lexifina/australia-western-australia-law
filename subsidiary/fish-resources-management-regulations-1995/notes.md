@@ -207,6 +207,7 @@ Fish Resources Management Amendment Regulations (No. 3) 2022 | SL 2022/160 23 Se
 Fish Resources Management Amendment Regulations 2023 | SL 2023/2 27 Jan 2023 | r. 1 and 2: 27 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2023 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2024 | SL 2024/64 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2024 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2024 | SL 2024/114 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 4) 2024 | SL 2024/158 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2024 (see r. 2(b))
 Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
