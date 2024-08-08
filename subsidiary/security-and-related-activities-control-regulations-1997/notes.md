@@ -56,6 +56,7 @@ Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022
 Security and Related Activities (Control) Amendment Regulations 2022 | SL 2022/211 16 Dec 2022 | r. 1 and 2: 16 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2022 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/74 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/94 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Security and Related Activities (Control) Amendment Regulations 2024 | SL 2024/161 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2024 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
