@@ -25,6 +25,7 @@ Reprint 2: The Casino Control Regulations 1999 as at 6 Mar 2009 (includes amendm
  | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 4 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
+ | Casino Control Amendment Regulations 2024 | SL 2024/163 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2024 (see r. 2(b))
 Other notes
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
 Defined terms
