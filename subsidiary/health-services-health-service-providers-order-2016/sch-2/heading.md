@@ -9,6 +9,7 @@
 5.Fiona Stanley Hospital
 6.Fremantle Hospital
 7.Murray District Hospital
+7A.Peel Health Campus
 8.Rockingham General Hospital
 9.Rottnest Island Nursing Post
 ## Division 3 — East Metropolitan
@@ -127,4 +128,4 @@
 121.Yalgoo Health Centre
 122.Yandeyarra Health Centre
 123.York Hospital
-[Schedule 2 amended: Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135; 30 Nov 2018 p. 4596; 15 Jan 2019 p. 57.]
+[Schedule 2 amended: Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135; 30 Nov 2018 p. 4596; 15 Jan 2019 p. 57; SL 2024/167 cl. 4.]
