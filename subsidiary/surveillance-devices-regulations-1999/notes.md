@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Surveillance Devices Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Surveillance Devices Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Surveillance Devices Regulations 1999 | 18 Nov 1999 p. 5767-86 | 22 Nov 1999 (see r. 2 and Gazette 22 Nov 1999 p. 5843)
@@ -23,6 +23,10 @@ Reprint 2: The Surveillance Devices Regulations 1999 as at 10 Sep 2010 (includes
  | Surveillance Devices Amendment Regulations (No. 2) 2020 | SL 2020/61 22 May 2020 | r. 1 and 2: 22 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 23 May 2020 (see r. 2(b))
  | Surveillance Devices Amendment Regulations (No. 3) 2020 | SL 2020/151 31 Aug 2020 | 31 Aug 2020 (see r. 2)
  | Surveillance Devices Amendment Regulations 2023 | SL 2023/188 29 Nov 2023 | r. 1 and 2: 29 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Police Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 4 | SL 2024/172 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -36,7 +40,7 @@ researcher6(4)
 superintendent6(4)
 surveillance information9(3)
 vulnerable patient6(4)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
