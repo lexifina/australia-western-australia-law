@@ -7,7 +7,7 @@
 [Heading inserted: SL 2024/104 cl. 5.]
 1. | Accommodation, maintenance, nursing care and other services —
  | (a)for public in-patients | no charge
- | (b)for private in-patients — (i)in single bed wards (if taken at patient’s request) (ii)in other wards | no more than $737 per day $414 per day
+ | (b)for private in-patients — (i)in single bed wards (if taken at patient’s request) (ii)in other wards | no more than $737 per day $436 per day
  | (c)for nursing home type patients | $75.55 per day
  | (d)for nursing home type private patients | $225.30 per day
  | (e)for ineligible in-patients | $2 884 per day
@@ -29,13 +29,13 @@
 [Heading inserted: SL 2024/104 cl. 5.]
 6. | Same day health service, other than a service subject to a charge set out in this Schedule and associated with the provision of such service —
  | (a)for public same day patients | no charge
- | (b)for private same day patients | $341 per day
+ | (b)for private same day patients | $359 per day
  | (c)for eligible veteran same day patients | no charge
  | (d)for ineligible same day patients | $2 894 per day
 ## Subdivision 5 — Other services
 [Heading inserted: SL 2024/104 cl. 5.]
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $44 per day
-[Division 1 inserted: SL 2024/104 cl. 5.]
+[Division 1 inserted: SL 2024/104 cl. 5; amended: SL 2024/170 cl. 4.]
 ## Division 2 — Compensable patients
 [Heading inserted: SL 2024/104 cl. 5.]
 ## Subdivision 1 — Compensable in-patients
@@ -43,7 +43,7 @@
 1. | Accommodation, maintenance, nursing care and other services in a hospital bed, except services referred to in item 5 or 6 | $3 100 per day
 2. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient, not being a patient mentioned in item 3, in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
 3. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
-4. | Accommodation, maintenance, nursing care and other services in a nursing home bed | $341 per day
+4. | Accommodation, maintenance, nursing care and other services in a nursing home bed | $359 per day
 5. | Accommodation, maintenance, nursing care and other services in a hospital bed for a ventilator dependent compensable in-patient with tracheostomy requiring 24 hour a day individual care | $6 821 per day
 6. | Accommodation, maintenance, nursing care and other services in a hospital bed for a patient requiring 24 hour a day care for airway management, with or without tracheostomy | $4 078 per day
 ## Subdivision 2 — Compensable out-patients
@@ -56,7 +56,7 @@
 10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
  | (b)for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
  | (c)for any other patient | $3 834 per day
-[Division 2 inserted: SL 2024/104 cl. 5.]
+[Division 2 inserted: SL 2024/104 cl. 5; amended: SL 2024/170 cl. 5.]
 ## Division 3 — Magnetic resonance imaging
 Charges for magnetic resonance imaging services
 Item | Service | Charge (per study)

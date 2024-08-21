@@ -41,6 +41,7 @@ Health Services (Fees and Charges) Amendment Order 2024 | SL 2024/7 2 Feb 2024 |
 Health Services (Fees and Charges) Amendment Order (No. 3) 2024 | SL 2024/74 8 May 2024 | cl. 1 and 2: 8 May 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 9 May 2024 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 2) 2024 | SL 2024/81 22 May 2024 | cl. 1 and 2: 22 May 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2024 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 4) 2024 | SL 2024/104 17 Jun 2024 | cl. 1 and 2: 17 Jun 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2024 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order (No. 5) 2024 | SL 2024/170 20 Aug 2024 | cl. 1 and 2: 20 Aug 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 21 Aug 2024 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
