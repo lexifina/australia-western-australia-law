@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Freedom of Information Regulations 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Freedom of Information Regulations 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Freedom of Information Regulations 1993 | 22 Oct 1993 p. 5800-2 | 1 Nov 1993 (see r. 2 and Gazette 29 Oct 1993 p. 5881)
@@ -23,6 +23,10 @@ Attorney General Regulations Amendment (Swan Valley Planning Scheme) Regulations
 Freedom of Information Amendment Regulations 2022 | SL 2022/5 18 Jan 2022 | r. 1 and 2: 18 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b) and SL 2022/77 cl. 2)
 Attorney General Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/27 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Attorney General Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/97 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Attorney General Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 2 | SL 2024/173 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the Department for Child Protection has been altered to the Department for Child Protection and Family Support.
@@ -41,3 +45,7 @@ Defined terms
 Defined termProvision(s)
 non-personal information2A
 suitably qualified person7
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
