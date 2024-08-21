@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (Fees) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Magistrates Court (Fees) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Magistrates Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1573-603 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -44,6 +44,10 @@ Attorney General Regulations Amendment (Legal Profession) Regulations 2022 Pt. 4
 Attorney General Regulations Amendment (Fee Waiver) Regulations 2022 Pt. 3 | SL 2022/145 26 Aug 2022 | 27 Aug 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 10 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 10 | SL 2024/113 26 Jun 2023 | 1 Jul 2024 (see. r 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Court Fees Regulation Amendment Regulations 2024 Pt. 4 | SL 2024/174 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Other notes
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms
