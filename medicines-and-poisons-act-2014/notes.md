@@ -8,12 +8,12 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 23 | 26 of 2016 | 21 
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 5 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Veterinary Practice Act 2021 s. 232 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 39 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Therapeutic Goods Law Application Act 2024 Pt. 8 Div. 2 | 19 of 2024 | 14 May 2024 | 30 Aug 2024 (see s. 2(b) and SL 2024/177 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 14(2) | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 14 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Therapeutic Goods Law Application Act 2024 Pt. 8 Div. 2 | 19 of 2024 | 14 May 2024 | 30 Aug 2024 (see s. 2(b) and SL 2024/177 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -104,6 +104,7 @@ substance3
 sufficient41(1)
 supplier7(3)
 supply3, 8(1)
+therapeutic goods law3
 transitional matter146(2)
 vehicle93
 vending machine24(1)
