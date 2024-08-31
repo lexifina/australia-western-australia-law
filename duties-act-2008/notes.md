@@ -36,6 +36,7 @@ Duties Amendment (Farm-in Agreements) Act 2022 | 37 of 2022 | 1 Nov 2022 | s. 1 
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 3 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Duties Amendment (Off-the-Plan Concession and Foreign Persons Exemptions) Act 2023 | 29 of 2023 | 28 Nov 2023 | s. 1 and 2: 28 Nov 2023 (see 2(a)); Act other than s. 1 and 2: 29 Nov 2023 (see s. 2(b))
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Duties Amendment (First Home Owner Concessions) Act 2024 | 27 of 2024 | 30 Aug 2024 | s. 1 and 2: 30 Aug 2024 (see s. 2(a)); Act other than s. 1 and 2: 31 Aug 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -76,6 +77,7 @@ affected entity259(1)
 affected mining tenementSch. 3 cl. 73(3) and 74(5)
 aggregated group interest163(2), 205ZH(3)
 agreement by instalments33(1)
+amended concession provisionsSch. 3 cl. 78
 amended exemption provisionsSch. 3 cl. 76(1)
 amended provisionsSch. 3 cl. 37
 amended section 244ASch. 3 cl. 50(1)
@@ -108,7 +110,7 @@ child128(1)
 chosen entity125(2)
 circuit layout right79
 commencementSch. 3 cl. 37
-commencement daySch. 3 cl. 46(1), 55(1) and 75
+commencement daySch. 3 cl. 46(1), 55(1), 75 and 78
 Commissioner113A(1)
 commodities79
 Commonwealth Act121
@@ -168,7 +170,7 @@ diversification lease3
 diversification lessee3
 dormant corporation42(6)
 duplicate3
-dutiable property3, 15, 70
+dutiable property2, 15, 70
 dutiable transaction3, 11(1)
 dutiable transactions11(2)
 dutiable value9, 205F(1), 231, 266E
@@ -211,7 +213,7 @@ financial services licensee206
 first acquisition174(1)
 first agreement42(8)
 first business81(5)
-first concessional transaction141(1), 142(2)
+first concessional transaction141(1), 142(2), Sch. 3 cl. 78
 first dutiable transaction35, 47, 51
 first home owner concessional rate141(1)
 first home owner concessional transaction141(1)
@@ -233,7 +235,7 @@ foreign individual205A(1)
 foreign landholder acquisition205ZD(1), 205ZH(1)
 foreign landholder duty3
 foreign person205A(1)
-foreign tax267(1)
+foreign tax268(1)
 foreign transfer duty3
 foreign transfer duty endorsed205F(1), (2) and (3)
 foreign trust205A(1), 205D(1)
@@ -242,7 +244,7 @@ former Chapter 2 Part 6 Division 4ASch. 3 cl. 59(1)
 franchise arrangement79
 franchisee79
 franchisor79
-further concessional transaction141(1)
+further concessional transaction141(1), Sch. 3 cl. 78
 further interest148(1)
 general conditional agreement9
 general insurance206
@@ -284,7 +286,7 @@ lodge3
 lot96, 266E
 lower entity154A(1)
 madeSch. 3 cl. 61(1)
-main acquisition195B(1) and (3), 204G(1), 204H(1), 205ZKA(1)
+main acquisition195B(1), 195B(3), 204G(1), 204H(1), 205ZKA(1)
 main entities156A(1)
 main entity154A(1), 156(1), 195B(1) and (3), 204A(1), 204G(1), 205ZKA(1)
 major holder264(1)
@@ -292,7 +294,7 @@ majority shareholder3
 managed investment scheme9
 matrimonial instrument128(1)
 matrimonial property128(1)
-merging corporations12(4) and (5), 160A(2) and (3)
+merging corporations12(4), 12(5), 160A(2) and (3)
 minerals91K(1)
 mining91K(1)
 mining tenement3
@@ -305,11 +307,11 @@ motorised wheelchair244A(1)
 motor vehicle228
 multi-tiered scheme266E
 new agreement266F(2), 266FA(2), 266H(2)
-new dutiable property9, 17(1) and (2)
+new dutiable property9, 17(1), 17(2)
 new lease18
 new mining tenement91M(8), Sch. 3 cl. 74(2)
 new record273(3)
-new residential property205F(1), 205I(1) and (2)
+new residential property205F(1), 205I(1) and I(2)
 new residential unit or apartment266E, 266G(1) and (2)
 new trustee119(1)
 new vehicle228
@@ -317,8 +319,8 @@ nominal duty3
 non-prospecting dutiable transaction91U(4) and (5)
 non-prospecting interest91U(1)
 non-prospecting mining tenement91U(1)
-notifiable event257(1), 264(2) and (3)
-notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
+notifiable event257(1), 264(2), 264(3)
+notional transfer167(1), 167(5), 168(1) and (5), 205ZM(1) and (4)
 offshore risk insurance206
 Off-the-Plan Duty Rebate Scheme266E
 old lease18
@@ -351,6 +353,7 @@ plant breeder right79
 political party3
 pooled superannuation trust121
 potential voting power205C(1)
+pre-9 May 2024 agreementSch. 3 cl. 78 and 79(2)
 pre-commencement periodSch. 3 cl. 48(1)
 premium206, 211
 prescribed3
@@ -397,6 +400,7 @@ relevant construction works266J(3)
 relevant derivative mining right91K(1), 91M(1)
 relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
 relevant exempt transaction or acquisitionSch. 3 cl. 76(1)
+relevant first home owner concessional transactionSch. 3 cl. 78 and 79(1) and (2)
 relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
 relevant land assets167(1), 168(1)
@@ -427,7 +431,7 @@ residence96
 residential landholder205ZD(1)
 residential park site3
 residential partnership acquisition205F(1)
-residential property3, 205E(1), (2) and (3)
+residential property3, 205E(1), 205E(2) and (3)
 residential trust acquisition205F(1)
 residential trust surrender205F(1)
 responsible entity119(1)
@@ -471,7 +475,7 @@ subsequent transaction104
 subsequent transfer118(1), 120A(2), 120B(1)
 subsidiary257(1)
 substantial refurbishment205ZA(1A), 205ZO(1A)
-substituted transferee141(3)
+substituted transferee141(3), Sch. 3 cl. 78
 superannuation agreement128(1)
 superannuation fund121, 125(1), 128(1)
 supply3
@@ -480,12 +484,12 @@ surplus receiving body113A(1)
 surrender9
 taker in default9
 Taxation Administration Act3
-tax avoidance scheme267(2)
+tax avoidance scheme268(2)
 terminated on relevant grounds9
 terms contract141(1)
 trailer228
 transaction3, Sch. 3 cl. 46(1)
-transaction group257(1)
+transaction group257(1), 257(1)
 transaction record3
 transfer9
 transfer duty3
