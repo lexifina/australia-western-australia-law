@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Supreme Court (Fees) Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Supreme Court (Fees) Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Supreme Court (Fees) Regulations 2002 | 27 Dec 2001 p. 6583-616 | 1 Jan 2002 (see r. 2)
@@ -43,9 +43,6 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 1
 Attorney General Regulations Amendment (Legal Profession) Regulations 2022 Pt. 6 | SL 2022/114 30 Jun 2022 | 1 Jul 2022 (see r. 2(c) and SL 2022/111 r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 12 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 12 | SL 2024/113 26 Jun 2023 | 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Court Fees Regulation Amendment Regulations 2024 Pt. 5 | SL 2024/174 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
