@@ -28,11 +28,11 @@ Declared Places (Mentally Impaired Accused) Act 2015 s. 85 | 4 of 2015 | 3 Mar 2
 Reprint 4: The Court Security and Custodial Services Act 1999 as at 14 Aug 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014)
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 106 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Firearms Amendment Act 2022 s. 83 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 5 and s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 5 and s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 3 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 3 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 Defined terms

@@ -34,11 +34,11 @@ Family Violence Legislation Reform Act 2020 Pt. 6 | 30 of 2020 | 9 Jul 2020 | Pt
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Firearms Amendment Act 2022 Pt. 3 Div. 4 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 4 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 25 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 25 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 16 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 18 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.

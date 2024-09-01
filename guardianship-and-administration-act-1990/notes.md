@@ -42,13 +42,13 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 2 | 25 of 2014 | 3 Nov 2
 Voluntary Assisted Dying Act 2019 Pt. 12 Div. 3 | 27 of 2019 | 19 Dec 2019 | 1 Jul 2021 (see s. 2(b) and SL 2021/83 cl. 2)
 Guardianship and Administration Amendment (Medical Research) Act 2020 | 14 of 2020 (as amended by No. 32 of 2023 Pt. 3) | 6 Apr 2020 | s. 1 and 2: 6 Apr 2020 (see s. 2(a)); Act other than s. 1, 2, 13 and 15: 7 Apr 2020 (see s. 2(c))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 16 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Abortion Legislation Reform Act 2023 Pt. 4 Div. 5 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Guardianship and Administration Amendment (Medical Research) Act 2023 Pt. 2 | 32 of 2023 | 11 Dec 2023 | 12 Dec 2023 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 16 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Other notes
 1-3Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
@@ -157,73 +157,6 @@ researcher110ZO
 review application110ZO
 reviewed decision110ZO
 substitute enduring guardian3(1)
-take research action110ZX(1)
-take treatment action110ZK(1)
-treatment3(1)
-treatment decision3(1)
-urgent medical research decision110ZO
-urgent treatment110ZH
-Defined terms
-[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined termProvision(s)
-abortion treatment decision110ZLD(1)
-act114(4)
-administration order3(1)
-administrator3(1)
-advance health directive3(1), 110ZH
-application3(1)
-appointee110E(1)
-appointor110A
-corporate trustee3(1)
-Court18(1)
-Deputy President3
-designated country67(5)
-determination3(1), 30(1A)
-donee102
-electroconvulsive therapy3(1)
-enduring guardian3(1)
-enduring power of attorney102
-enduring power of guardianship3(1)
-executive officer3(1)
-foreign administrator83B(4)
-Full Tribunal3(1)
-guardian3(1)
-guardianship order3(1)
-Health Minister110ZO
-health professional110ZH
-HREC110ZO
-independent medical practitioner110ZO
-lead researcher110ZO
-life sustaining measure3(1)
-medical practitioner110ZO
-medical research3(1), 3AA(1), (2), (3)
-member3(1)
-mental disability3(1)
-National Statement110ZO
-nearest relative3(1)
-palliative care3(1)
-party3(1)
-patient110ZC, 110ZH
-personal information3(1)
-placebo3(1)
-prescribed daySch. 5 cl. 7(1)
-President3(1)
-procedure for the sterilisation56, 110ZT(1)
-Public Advocate3(1)
-Public Trustee3(1)
-registered health practitioner110ZO
-relevant finding67(5)
-relevant official83C(4)
-report request110ZZA(3)
-represented person3(1), 56
-research candidate3(1)
-research decision3(1)
-research decision-maker3(1), 110ZP(1)
-researcher110ZO
-review application110ZO
-reviewed decision110ZO
-substitute enduring guardian3(1)
-take abortion action110ZLD(1)
 take research action110ZX(1)
 take treatment action110ZK(1)
 treatment3(1)

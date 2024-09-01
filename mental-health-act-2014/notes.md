@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mental Health Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mental Health Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mental Health Act 2014 | 24 of 2014 | 3 Nov 2014 | s. 1 and 2: 3 Nov 2014 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
@@ -11,14 +11,12 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 24 | 26 of 2016 | 21 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 114 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Health Services Amendment Act 2023 Pt. 3 | 1 of 2023 | 22 Feb 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/103 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 20 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 1996 Act590
+accused348
 admission4
 adult4
 advance health directive4
@@ -31,6 +29,7 @@ approved product information304(2)
 authorised hospital4
 authorised mental health practitioner4
 authorised person161
+Board678
 bodily restraint4
 bodily restraint order226
 carer4
@@ -42,8 +41,9 @@ Chief Mental Health Advocate4
 Chief Psychiatrist4
 child4
 child and adolescent psychiatrist4
+CLMI Act4
 close family member4
-commencement day590
+commencement day590, 678
 community mental health service4
 community treatment order4, 113
 company579(1)
@@ -51,7 +51,7 @@ complainant305
 complaint305, 345(1)
 Complaints Office305
 Complaints Office staff305
-complaints procedure308(1)(a)
+complaints procedure308(1)
 continuation order85, 113, 121(1)
 continued community treatment order590
 continued inpatient treatment order590
@@ -59,8 +59,8 @@ continued involuntary treatment order590
 corresponding law551(1)
 corresponding overseas authority572(1)
 decision379, 471(1), 493
-decision or order503(1)
 decision-maker455(1)
+decision or order503(1)
 detention period85
 Director305
 Director of the Complaints Office4
@@ -114,10 +114,8 @@ mental health practitioner4
 mental health service4, 12(1), 252, 305, 348, 507, 572(1), 574(1)
 Mental Health Tribunal4
 mental illness4
-mentally impaired accused4
-Mentally Impaired Accused Review Board4
+Mental Impairment Review Tribunal4
 metropolitan area4
-MIA Act4
 Minister4
 month201(2)
 neurosurgeon4
@@ -135,11 +133,11 @@ party379, 493
 patient4
 patient’s psychiatrist4
 periodic review period387(1)
-person concerned379, 493
-person’s representative334(1)
 personal information4
 personal possessions259(2)
 personal support person4
+person concerned379, 493
+person’s representative334(1)
 prejudicial conduct345(1)
 prescribed309(1)
 prescribed financial market579(1)
@@ -155,12 +153,12 @@ private hospital4
 private psychiatric hostel4
 proceeding379, 493
 product information304(2)
-provide305
+provide,305
 psychiatrist4
 psychologist4
 psychosurgery4
-public hospital4
 publication day676(1)
+public hospital4
 publish468(1), 502(1)
 question of law403(1), 441(1), 495(1)
 registered service provider326(1)
@@ -181,13 +179,13 @@ reportable incident254(1)
 requesting CEO573(3), 574(3)
 respondent305
 restricted information461(1)
+reviewable decision455(1)
 review period118(1), 389(1)
 review proceeding455(1)
-reviewable decision455(1)
 revocation order101(1), 154(1), 581(3)
 seclusion4
 seclusion order211
-serious adverse event201(2)
+serious adverse event 201(2)
 service provider305, 422
 social worker4
 specified676(1)
@@ -196,6 +194,7 @@ staff member4
 State authority572(1)
 State inpatient551(1)
 substantial holding579(1)
+supervised person4
 supervising psychiatrist4, 113
 traditional healer4
 transfer approval order557(1)
@@ -216,7 +215,7 @@ voluntary inpatient4
 voluntary patient4
 witness379
 youth advocate350(2)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
