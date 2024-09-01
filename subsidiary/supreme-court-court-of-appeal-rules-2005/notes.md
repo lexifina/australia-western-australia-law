@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Supreme Court (Court of Appeal) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Supreme Court (Court of Appeal) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Supreme Court (Court of Appeal) Rules 2005 | 29 Apr 2005 p. 1803-75 | 2 May 2005 (see r. 2)
@@ -9,10 +9,7 @@ Supreme Court Rules Amendment (Court of Appeal) Rules 2021 Pt. 2 | SL 2021/34 30
 Supreme Court (Court of Appeal) Amendment Rules 2022 | SL 2022/60 20 May 2022 | r. 1 and 2: 20 May 2022 (see r. 2(a)); Rules other than r. 1 and 2: 3 Jun 2022 (see r. 2(b))
 Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 5 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Supreme Court (Court of Appeal) Amendment Rules (No. 2) 2022 | SL 2022/209 16 Dec 2022 | r. 1 and 2: 16 Dec 2022 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2023 (see r. 2(b) and SL 2022/212 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Supreme Court (Court of Appeal) Amendment Rules 2024 r. 3-6 | SL 2024/166 7 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+Supreme Court (Court of Appeal) Amendment Rules 2024 | SL 2024/166 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
