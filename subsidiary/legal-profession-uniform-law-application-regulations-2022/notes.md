@@ -1,13 +1,10 @@
 Notes
-This is a compilation of the Legal Profession Uniform Law Application Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Legal Profession Uniform Law Application Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Legal Profession Uniform Law Application Regulations 2022 | SL 2022/117 30 Jun 2022 | 1 Jul 2022 (see r. 2)
 Legal Profession Uniform Law Application Amendment Regulations 2022 | SL 2022/208 14 Dec 2022 | r. 1 and 2: 14 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2022 (see r. 2(b))
 Legal Profession Uniform Law Application Amendment Regulations 2023 | SL 2023/145 20 Sep 2023 | r. 1 and 2: 20 Sep 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Attorney General Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 3 | SL 2024/173 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
