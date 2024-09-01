@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mental Health Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mental Health Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mental Health Regulations 2015 | 13 Nov 2015 p. 4675-90 | 30 Nov 2015 (see r. 2 and Gazette 13 Nov 2015 p. 4632)
@@ -25,10 +25,7 @@ Mental Health Amendment Regulations (No. 4) 2023 | SL 2023/184 29 Nov 2023 | r. 
 Mental Health Amendment Regulations 2024 | SL 2024/30 7 Mar 2024 | r. 1 and 2: 7 Mar 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Mar 2024 (see r. 2(b))
 Mental Health Amendment Regulations (No. 2) 2024 | SL 2024/144 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2024 (see r. 2(b))
 Mental Health Amendment Regulations (No. 4) 2024 | SL 2024/156 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Mental Health Amendment Regulations (No. 3) 2024 r. 3 and 4 | SL 2024/171 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+Mental Health Amendment Regulations (No. 3) 2024 | SL 2024/171 21 Aug 2024 | r. 1 and 2: 21 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
