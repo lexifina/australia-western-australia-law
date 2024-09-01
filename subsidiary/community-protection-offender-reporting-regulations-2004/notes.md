@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Community Protection (Offender Reporting) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Community Protection (Offender Reporting) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Community Protection (Offender Reporting) Regulations 2004 | 31 Dec 2004 p. 7025-39 | 1 Feb 2005 (see r. 2)
@@ -27,9 +27,6 @@ Community Protection (Offender Reporting) Amendment Regulations 2018 | 13 Nov 20
 Community Protection (Offender Reporting) Amendment Regulations 2021 | SL 2021/57 21 May 2021 | r. 1 and 2: 21 May 2021 (see r. 2(a)); r. 3 and 5(1): 22 May 2021 (see r. 2(b)); r. 4, 5(2) and (3), 6 and 7: 1 Jul 2021 (see r. 2(c) and SL 2021/54 cl. 2(c))
 Community Protection (Offender Reporting) Amendment Regulations (No. 2) 2021 | SL 2021/125 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2021 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations (No. 3) 2021 | SL 2021/192 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Police Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 2 | SL 2024/172 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -48,13 +45,13 @@ Department of Corrective Services3
 Department of Health7(3)
 detention centre7(3)
 foreign court3
+leave of absence order7(3)
 medical practitioner3
 phlebotomist3
 prison7(3)
 recognised order3
 registered nurse3
 registrar3
-release order7(3)
 relevant court3
 resident7(5)
 sample26F(1)

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Surveillance Devices Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Surveillance Devices Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Surveillance Devices Regulations 1999 | 18 Nov 1999 p. 5767-86 | 22 Nov 1999 (see r. 2 and Gazette 22 Nov 1999 p. 5843)
@@ -23,10 +23,7 @@ Reprint 2: The Surveillance Devices Regulations 1999 as at 10 Sep 2010 (includes
  | Surveillance Devices Amendment Regulations (No. 2) 2020 | SL 2020/61 22 May 2020 | r. 1 and 2: 22 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 23 May 2020 (see r. 2(b))
  | Surveillance Devices Amendment Regulations (No. 3) 2020 | SL 2020/151 31 Aug 2020 | 31 Aug 2020 (see r. 2)
  | Surveillance Devices Amendment Regulations 2023 | SL 2023/188 29 Nov 2023 | r. 1 and 2: 29 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Police Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 4 | SL 2024/172 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+ | Police Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 4 | SL 2024/172 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
