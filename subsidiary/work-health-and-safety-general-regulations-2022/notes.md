@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Work Health and Safety (General) Regulations 2022 | SL 2022/31 11 Mar 2022 | Regulations other than r. 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 49(2), (3) and (4), 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c)); r. 58: 31 Mar 2024 (see r. 2(b))
@@ -8,12 +8,8 @@ Work Health and Safety Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/22
 Work Health and Safety (General) (Fees) Amendment Regulations 2023 | SL 2023/42 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 2 | SL 2023/134 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
 Work Health and Safety (General) Amendment Regulations 2024 | SL 2024/95 12 Jun 2024 | r. 1 and 2: 12 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
-Work Health and Safety (General) Amendment Regulations (No. 2) 2024 (other than Pt. 3) | SL 2024/139 26 Jun 2024 | Pt. 1: 26 Jun 2024 (see r. 2(a)); Regulations other than Pt. 1 and 3: 27 Jun 2024 (see r. 2(c))
 Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/135 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Work Health and Safety (General) Amendment Regulations (No. 2) 2024 Pt. 3 | SL 2024/139 26 Jun 2024 | 1 Sep 2024 (see r. 2(b))
+Work Health and Safety (General) Amendment Regulations (No. 2) 2024 | SL 2024/139 26 Jun 2024 | Pt. 1: 26 Jun 2024 (see r. 2(a)); Regulations other than Pt. 1 and 3: 27 Jun 2024 (see r. 2(c)); Pt. 3: 1 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -88,21 +84,24 @@ concrete panel5, 306A(1)
 concrete placing boom5
 confined space5
 confined space entry permit5
-construction project5, 291
+construction project5, 292
 construction site5
 construction work5, 289(1), (2) and (3)
 consumer product5
 container5
 contaminant5
-controlled5, 446(4), 529B(1)
+controlled5, 446(4), 529B(1) and (2)
 control measure5
 conveyor5
 correct classification5
 correctly classifiedSch. 9 cl. 1(1), (2) and (3)
-correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2), 10(1)
+correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2) and 10(1)
 correctly packedSch. 9 cl. 2(1) and (2)
 crane5
-crystalline silica529A(1A)
+crystalline silica5, 529A(3)
+crystalline silica substance5, 529A(2)
+crystalline silica training529CD(1A)
+CSS5, 529A(2)
 current certificate of medical fitness5
 current class721(3)
 danger zone166A(1)
@@ -127,9 +126,9 @@ eligible person676(1)
 emergency454(1A), 455(1A)
 emergency service organisation5
 emergency service worker5
-enclosed workplace5, 50A, 50B(1), (2), and (6)
+enclosed workplace5, 50A, 50B(1), (2), (3) and (6)
 energised5
-engineered stone5, 529A(1)
+engineered stone5, 529A(4)
 engineering control5
 entry5
 essential services5
@@ -170,6 +169,7 @@ hazard statement5
 head or upper body5
 health monitoring5
 heritage boiler5
+high risk5
 high risk construction work5, 291
 high risk diving work5
 high risk work5
@@ -250,7 +250,7 @@ pressure equipment5
 pressure piping5
 pressure vessel5
 principal contractor5, 293(1)
-processing5, 529C
+processing5, 529A(1)
 product identifier5
 prohibited carcinogen5
 psychosocial hazard5, 55A
@@ -294,6 +294,7 @@ service apparatus153(1)
 shaft5
 shorter transitional period705
 signal word5
+silica risk control plan5
 sintered stone5
 slewing mobile crane5
 slinging techniques5
