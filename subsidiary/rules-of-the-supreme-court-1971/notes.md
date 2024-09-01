@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Rules of the Supreme Court 1971 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -154,10 +154,7 @@ Supreme Court Amendment Rules 2022 | SL 2022/53 6 May 2022 | r. 1 and 2: 6 May 2
 Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Supreme Court Amendment Rules 2023 | SL 2023/16 10 Mar 2023 | r. 1 and 2: 10 Mar 2023 (see r. 2(a)); Rules other than r. 1 and 2: 25 Mar 2023 (see r. 2(b) and SL 2023/21 cl. 2)
 Supreme Court Amendment Rules 2024 | SL 2024/38 26 Mar 2024 | r. 1 and 2: 26 Mar 2024 (see r. 2(a)); Rules other than r. 1 and 2: 9 Apr 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Supreme Court Amendment Rules (No. 3) 2024 r. 3-9 | SL 2024/165 7 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+Supreme Court Amendment Rules (No. 3) 2024 | SL 2024/165 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2024 (see r. 2(b))
 Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -332,6 +329,7 @@ subpoena to attend to give evidenceO. 36B r. 1(2)
 subpoena to produceO. 36B r. 1(3)
 sufficient timeO. 11A r. 10(3)
 Supreme Court (full bench)O. 75A r. 1
+Supreme Court rollO. 75A r. 1
 suspension orderO. 81FA r. 1
 taxing officerO. 1 r. 4(1)
 testamentary scriptO. 73 r 1(3)
@@ -345,6 +343,10 @@ unexplained wealth declarationO. 81FA r. 1
 willO. 73 r. 1(3)
 working dayO. 1 r. 4(1)
 writO. 1 r. 4(1), O. 56 r. 1(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.
