@@ -15,19 +15,14 @@ Reprint 2: The Security and Related Activities (Control) Act 1996 as at 19 Mar 2
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 56 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 26 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 26 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 17 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 17 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 47 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The State Administrative Tribunal Regulations 2004 r. 62 reads as follows:
-62.Security and Related Activities (Control) Act 1996
-(1) In this regulation —
-commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 117 comes into operation.
-(2) If in the period of 21 days before the commencement day a notice has been given under the Security and Related Activities (Control) Act 1996 section 68(2) (applying section 67(2), (3) and (4) to the cancellation of an endorsement under section 68(1)), on or after the commencement day that notice is to be taken to be a notice given on the commencement day under that Act section 68(2)(a).
 The Standardisation of Formatting Act 2010 s. 4, the amendment to the Security and Related Activities (Control) Act 1996 Schedule 1, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(c).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

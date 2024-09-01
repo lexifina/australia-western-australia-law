@@ -7,11 +7,11 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 D
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 55 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Industrial Relations Legislation Amendment Act 2021 Pt. 3 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and SL 2022/79 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 s. 409 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 37-39, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Criminal Law (Mental Impairment) Act 2023 s. 409 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Other notes
 The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation when it was deleted by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 s. 107.
 Defined terms
@@ -24,7 +24,7 @@ lodge5
 person5
 seal5
 writing5
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer

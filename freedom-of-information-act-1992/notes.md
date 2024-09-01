@@ -55,13 +55,13 @@ High Risk Serious Offenders Act 2020 Pt. 9 Div. 3 | 29 of 2020 | 9 Jul 2020 | 26
 Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 5 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
 Health and Disability Services (Complaints) Amendment Act 2022 s. 44 | 35 of 2022 | 28 Oct 2022 | 27 Jul 2023 (see s. 2(b) and SL 2023/112 cl. 2)
 Charitable Trusts Act 2022 s. 58 | 38 of 2022 | 1 Nov 2022 | 21 Nov 2022 (see s. 2(b) and SL 2022/194 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Abortion Legislation Reform Act 2023 Pt. 4 Div. 4 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Criminal Law (Mental Impairment) Act 2023 s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Other notes
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.

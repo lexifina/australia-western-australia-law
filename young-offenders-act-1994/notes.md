@@ -62,6 +62,7 @@ Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 4 | 
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 23 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 3 | 14 of 2022 | 18 May 2022 | 11 Nov 2022 (see s. 2(b) and SL 2022/182 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 29 and s. 409-411 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Young Offenders Amendment Act 2023 | 15 of 2023 | 26 Jun 2023 | s. 1 and 2: 26 Jun 2023 (see s. 2(a)); Act other than s. 1 and 2: 27 Jun 2023 (see s. 2(b))
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 39 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
@@ -72,7 +73,6 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 29 and s. 409-411 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -124,6 +124,8 @@ CEO (child welfare)15A(2)
 chairperson3(1)
 Chief Commissioner11CA
 chief executive officer3(1)
+Chief Mental Health Advocate16(1)
+CLMI identified person16(1)
 commencement day11CV(1), 235A
 Commissioner of Police report3(1)
 Commonwealth Criminal Code3(1)
@@ -163,6 +165,7 @@ maintenance payment11CA, 11CE(1)
 maintenance period11CA, 11CE(1)
 medical officer179(1)
 medical treatment179(1)
+mental health advocate16(1)
 monitor17A
 new evidence11CA
 notice to attend court3(1)

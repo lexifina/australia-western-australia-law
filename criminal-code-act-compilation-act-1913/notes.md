@@ -199,6 +199,7 @@ Firearms Amendment Act 2022 Pt. 3 Div. 1 | 13 of 2022 | 18 May 2022 | 15 Jun 202
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2022 Pt. 2 | 15 of 2022 | 27 May 2022 | 28 May 2022 (see s. 2(b))
 Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 3 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 2 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Abortion Legislation Reform Act 2023 Pt. 2 | 20 of 2023 | 27 Sep 2023 | 27 March 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 30 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Criminal Code Amendment Act 2024 Pt. 2 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/125 cl. 2)
@@ -207,7 +208,6 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
-Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 4 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 Footnote no longer applicable.

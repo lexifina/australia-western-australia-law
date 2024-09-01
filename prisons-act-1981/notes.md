@@ -65,11 +65,11 @@ Reprint 9: The Prisons Act 1981 as at 9 Aug 2019 (includes amendments listed abo
 Prisons Amendment Act 2020 | 20 of 2020 | 21 May 2020 | s. 1 and 2: 21 May 2020 (see s. 2(a)); Act other than s. 1, 2, 4(1), 12, 19 and 23(1): 27 Jun 2020 (see s. 2(b) and SL 2020/92 cl. 2); s. 4(1), 12, 19 and 23(1): 21 Dec 2020 (see s. 2(b) and SL 2020/243 cl. 2)
 High Risk Serious Offenders Act 2020 s. 119 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Firearms Amendment Act 2022 s. 84 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 24 and s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 24 and s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 14 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -107,12 +107,13 @@ cessation declaration114(5)
 Chief Commissioner99
 chief executive officer3(1)
 Chief Health Officer95C(1)
-commencement day 110K(1)
-commencement day119(1)
+Chief Mental Health Advocate113(1)
+CLMI identified person113(1)
+commencement day110K(1), 119(1)
 Commission114(12)
 contract3(1)
-contract worker15A
 contractor3(1), 113(1)
+contract worker15A
 decision notice99, 102(3)
 Department3(1)
 District Court judge3(1)
@@ -136,6 +137,7 @@ maintenance payment99, 103(1)
 maintenance period99, 103(1)
 medical officer3(1)
 medical practitioner3(1)
+mental health advocate113(1)
 misconduct119(1)
 new evidence99
 officer3(1)
@@ -146,10 +148,10 @@ permit3(1)
 person67A(4)
 prison3(1), Sch. 2
 prison dog49A(1)
+prisoner3(1)
 prison offence3(1)
 prison officer3(1), 96, 99, 114(12)
 prison services3(1)
-prisoner3(1)
 proceedings85(4)
 proof of identity60A(1)
 public authority113(1)

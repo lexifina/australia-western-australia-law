@@ -38,11 +38,11 @@ Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Ac
  | Reprint 7: The Corruption, Crime and Misconduct Act 2003 as at 24 May 2019 (includes amendments listed above)
 Corruption, Crime and Misconduct Amendment Act 2021 | 7 of 2021 | 25 Jun 2021 | s. 1 and 2: 25 Jun 2021 (see s. 2(a)); Act other than s. 1 and 2: 26 Jun 2021 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Corruption, Crime and Misconduct Amendment Act 2024 Pt. 2 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Criminal Law (Mental Impairment) Act 2023 s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 2 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Other notes
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.

@@ -4,12 +4,12 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 National Disability Insurance Scheme (Worker Screening) Act 2020 (other than s. 23) | 48 of 2020 | 9 Dec 2020 | Pt. 1: 9 Dec 2020 (see s. 2(1)(a)); Pt. 2 (other than s. 23), Pt. 3-7 and Sch. 1 and 2: 1 Feb 2021 (see s. 2(1)(b) and SL 2021/4 cl. 2)
 Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 3 Div. 1 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 21 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 36 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 National Disability Insurance Scheme (Worker Screening) Act 2020 (s. 23) | 48 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(b))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 21 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -91,7 +91,7 @@ transitional matter82(1)
 transitional regulations82(1)
 unacceptable risk5(1)
 vulnerable person5(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
