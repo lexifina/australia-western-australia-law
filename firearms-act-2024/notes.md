@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Firearms Act 2024 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Firearms Act 2024 Pt. 1 and 16 | 23 of 2024 | 27 Jun 2024 | Pt. 1: 27 Jun 2024 (see s. 2(a)); Pt. 16: 28 Jun 2024 (see s. 2(b))
+Firearms Act 2024 Pt. 1, Pt. 16 and Pt. 17 Div. 3 Subdiv. 11 | 23 of 2024 | 27 Jun 2024 | Pt. 1: 27 Jun 2024 (see s. 2(a)); Pt. 16: 28 Jun 2024 (see s. 2(b)); Pt. 17 Div. 3 Subdiv. 11: 1 Sep 2024 (see s. 2(c) and SL 2024/175 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Firearms Act 2024 (other than Pt. 1 and 16) | 23 of 2024 | 27 Jun 2024 | Pt. 17 Div. 3 Subdiv. 11: operative on commencement of the Criminal Law (Mental Impairment) Act 2023 s 412 (see s. 2(c)); Act other than Pt. 1 and 16 and Pt. 17 Div. 3 Subdiv. 11: to be proclaimed (see s. 2(d))
+Firearms Act 2024 (other than Pt. 1, Pt. 16 and Pt. 17 Div. 3 Subdiv. 11) | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
