@@ -46,6 +46,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 3 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/58 1 May 2024 | Pt. 4 (other than Div. 3): 2 May 2024 (see r. 2(b)); Pt. 4 Div. 3: 1 Jul 2024 (see r. 2(c))
 Road Traffic (Vehicles) Amendment Regulations (No. 2) 2024 | SL 2024/107 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 3) 2024 | SL 2024/180 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 5 Sep 2024 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
@@ -213,7 +214,7 @@ ID prevention state120(1)
 imitation plate109
 Immigration and Border Protection worker3
 improvement notice481
-improvement notice reviewable decision480(5)
+improvement notice reviewable decision481
 independent brake336(1)
 initial examination86
 inspection station3
@@ -224,7 +225,7 @@ least favoured chamber347(1)
 left3, 237
 licence103
 licence holder3
-lifting apparatus414(1A)
+lifting apparatus415(1A)
 lighting equipment426(1)
 load capacity414(1)
 loaded mass3
@@ -312,6 +313,7 @@ right3, 237
 road202
 road tank vehicle226
 road train3, 367
+safer freight vehicle171(1A)
 school bus86, 226
 seasonal heavy vehicle licence3
 secondary grooves270(1A)
@@ -342,7 +344,7 @@ tow coupling overhang379(1)
 towed vehicle423(1)
 towing vehicle423(1)
 tow truck3
-trade plate108
+trade plate109
 trailer3, 167(1), 168(1)
 trailer derivative38(1)
 transitional pilot454ZC(1)
@@ -352,7 +354,7 @@ tread wear indicators270(1A)
 turntable3
 unloaded mass3
 used423(1)
-vacuum brakes225
+vacuum brakes226
 vacuum reserve334(1A)
 vacuum storage tank3
 vehicle165(1), 167(1), 179(2), 180(1), 181(1), 236(1), 238(1)
@@ -360,9 +362,9 @@ vehicle examiner12, 20(1)
 vehicle identification number3
 vehicle licensing reviewable decision478
 vehicle standard regulation460
-VIN2
+VIN3
 WOVR3
-wrecker142(6)
+wrecker146
 written-off146
 written-off vehicle notice157(1)
 Written-Off Vehicle Register3
