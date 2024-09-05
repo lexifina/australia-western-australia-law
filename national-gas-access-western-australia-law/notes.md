@@ -9,6 +9,7 @@ Statutes Amendment (National Electricity and Gas Laws—Limited Merits Review) A
 National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017 | 23 of 2017 (SA Act) |  | In SA: 1 Aug 2017 (see SA Gazette 1 Aug 2017 p. 3037); In WA: 23 Dec 2017 (see WA Gazette 22 Dec 2017 p. 5984)
 Statutes Amendment (National Energy Laws) (Rules) Act 2018 | 12 of 2018 (SA Act) |  | In SA: 20 Sep 2018 (see SA Gazette 20 Sep 2018 p. 3500); In WA: 10 Oct 2020 (see SL 2020/195 cl. 2(b))
 Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018 Pt. 3 | 33 of 2018 (SA Act) |  | In SA: 13 Dec 2018 (see SA Gazette 13 Dec 2018 p. 4272); In WA: 6 Apr 2019 (see WA Gazette 5 Apr 2019 p. 1007)
+Statutes Amendment (National Energy Laws) (Penalties and Enforcement) Act 2020 Pt. 4 (other than s. 55-60) | 37 of 2020 (SA Act) |  | In SA: 29 Jan 2021 (see SA Gazette 27 Jan 2021 p. 163); In WA: 5 Sep 2024 (see WA Gazette 4 Sep 2024 p. 2215)
 Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023 | 26 of 2023 (SA Act) |  | In SA: 21 Sep 2023 (see s. 2); In WA: 25 Jan 2024 (see WA Gazette 24 Jan 2024 p. 91-2)
 Other notes
 The National Gas Access (Western Australia) Law applies as a law of Western Australia under the National Gas Access (WA) Act 2009 section 7(1).
