@@ -9,6 +9,7 @@ School Education (Student Residential Colleges) Amendment Regulations 2019 | 8 N
 School Education (Student Residential Colleges) Amendment Regulations 2020 | SL 2020/7 21 Feb 2020 | r. 1 and 2: 21 Feb 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Feb 2020 (see r. 2(b))
 School Education (Student Residential Colleges) Amendment Regulations 2021 | SL 2021/197 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
 Education Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/67 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
+School Education (Student Residential Colleges) Amendment Regulations 2024 | SL 2024/181 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -36,7 +37,7 @@ staff3
 student3, 6(1)
 suspend22
 WA student12(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
