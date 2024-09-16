@@ -1,6 +1,6 @@
 ## Schedule 2 — Fees and rents
-[r. 2, 4D(2), 16C(2), 23BA(2), 25B, 28A(1), 64(1b), (1C) and (8), 84D, 109(1), (3) and (3A), 121(2), 163(2) and (4) and 165(7)(f)]
-[Heading inserted: SL 2024/97 r. 15.]
+[r. 2, 4D(2), 16C(2), 23BA(2), 25B, 28A(1), 64(1b), (1C) and (8), 84D, 109(1), (3) and (3A), 120A(3B), 121(2), 146(1A), 163(2) and (4) and 165(7)(f)]
+[Heading inserted: SL 2024/97 r. 15; amended: SL 2024/183 r. 8.]
 ItemDescription |  | $
 1.Annual rent of existing exploration licence per square kilometre or part of 1 square kilometre —
 (a)for years 1 to 7 of the term of the licence |  | 75.50
@@ -68,4 +68,9 @@ ItemDescription |  | $
 (i)evidence — per page |  | 11.10
 (ii)a judgment, decision or order — per page |  | 2.10
 (f)taxation of bill of costs | $0.05 in each amount of $1.00 on amount of lodged bill (minimum fee $12.00) — however where the lodged bill exceeds $1 000 the fee is reduced to $0.025 in each $1.00 for the excess, plus $50.00
-[Schedule 2 inserted: SL 2024/97 r. 15.]
+23.Fee for notice of objection —
+(a)general | 430.00
+(b)eligible individual | 100.00
+(c)registered native title body corporate whose land is included or partly included in or shares a common boundary with land the subject of the mining tenement application | Nil fee
+(d)proprietor of land included or partly included in or sharing a common boundary with land the subject of the mining tenement application | Nil fee
+[Schedule 2 inserted: SL 2024/97 r. 15; amended: SL 2024/183 r. 8.]

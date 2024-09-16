@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -163,10 +163,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt
 Mining Amendment Regulations (No. 2) 2023 | SL 2023/127 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
 Mining Amendment Regulations (No. 3) 2023 | SL 2023/144 20 Sep 2023 | r. 1 and 2: 20 Sep 2023 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Oct 2023 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Mining Amendment Regulations (No. 4) 2024 r. 3-8 | SL 2024/183 4 Sep 2024 | 16 Sep 2024 (see r. 2(b))
+Mining Amendment Regulations (No. 4) 2024 | SL 2024/183 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 16 Sep 2024 (see r. 2(b))
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -204,6 +201,7 @@ beneficiation plant86AC(1)
 blend85(1)
 block2, Sch. 3 cl. 1(1)
 CSch. 4 cl. 1
+Centrelink2
 combined mineral exploration report96(1)
 commencement daySch. 3 cl. 1(1)
 concentrate85(1)
@@ -221,6 +219,7 @@ Director116, 120P
 Director General of Finance96CB(1)
 document59A(1)
 Dry Freight Wire86AD(1)
+eligible individual2
 environmental officer2
 environment information96CA(1)
 environment report96CA(1)
@@ -254,6 +253,7 @@ issuing officer4A
 JLPSch. 4 cl. 1
 JORC Code89C(1)
 junior legal practitionerSch. 4 cl. 1
+Land Register2
 lease application63A(1)
 licensed surveyor116
 licensee statement4A
@@ -289,6 +289,7 @@ prescribed landSch. 3 cl. 1(1)
 prescribed period84F(1)
 prescribed tenement96CA(1)
 proceedings137(1)
+proprietor2
 purchaser85(1)
 quarter85(1)
 quarterly period2
@@ -297,6 +298,7 @@ reference grade86AD(4)
 reference price86AB(1)
 refiner86AA(11)
 refinery86AA(11)
+registered native title body corporate2
 related corporation85(1)
 release96(1), 96CA(1)
 release date23(2)
