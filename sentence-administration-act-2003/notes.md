@@ -34,6 +34,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2020 s. 37 | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Family Violence Legislation Reform Act 2024 Pt. 8 | 28 of 2024 | 17 Sep 2024 | Pt. 8 (other than s. 57(1) and (2)): 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(d)); s. 57(1) and (2): to be proclaimed (see s. 2(d))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
