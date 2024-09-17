@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bail Act 1982 | 86 of 1982 | 18 Nov 1982 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -75,6 +75,10 @@ Criminal Appeals Amendment Act 2022 Pt. 3 Div. 1 | 18 of 2022 | 24 Jun 2022 | 1 
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 1 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 28 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Criminal Code Amendment Act 2024 s. 7 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/125 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Family Violence Legislation Reform Act 2024 Pt. 2 | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(a))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 1 modifies section 43A of the Act. The modified section is identified by the superscript 2M appearing after the section number. The modification ceases on 31 December 2021 unless postponed under section 37(3) and 52 of that Act.
