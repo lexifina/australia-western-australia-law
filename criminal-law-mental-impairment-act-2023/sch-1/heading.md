@@ -23,6 +23,7 @@ Item | Provision | Description of offence
 12. | s. 283 | Attempt to unlawfully kill
 13. | s. 294 | Act intended to cause grievous bodily harm or prevent arrest
 14. | s. 297 | Grievous bodily harm
+14A. | s. 300(1) | Persistent family violence
 15. | s. 304(2) | Act or omission causing bodily harm or danger, done with intent to harm
 16. | s. 320 | Sexual offence against child under 13
 17. | s. 321 | Sexual offence against child of or over 13 and under 16
@@ -45,6 +46,7 @@ Item | Provision | Description of offence
 34. | s. 392 | Robbery
 35. | s. 393 | Assault with intent to rob
 36. | s. 445A | Breach of duty of person in control of ignition source or fire
+[Subdivision 3 amended: No. 28 of 2024 s. 39.]
 ## Subdivision 4 — Offences under Prostitution Act 2000
 Item | Provision | Description of offence
 1. | s. 7 | Seeking to induce person to act as prostitute
