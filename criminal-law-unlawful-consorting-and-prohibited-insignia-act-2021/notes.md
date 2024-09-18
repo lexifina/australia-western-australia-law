@@ -4,6 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 (other than s. 67) | 25 of 2021 | 13 Dec 2021 | Pt. 1: 13 Dec 2021 (see s. 2(a)); Act other than Pt. 1 and s. 67: 24 Dec 2021 (see s. 2(b) and SL 2021/219 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 16 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Criminal Code Amendment (Prohibition on Display of Nazi Symbols or Gesture) Act 2024 Pt. 3 | 29 of 2024 | 17 Sep 2024 | 18 Sep 2024 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -64,3 +65,7 @@ time allowed34(1)
 unlawful consorting notice3, 9(1)
 variation notice16(4)
 vehicle3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
