@@ -58,4 +58,4 @@ subject in each case to the sooner determination of such term upon the cessation
 EXECUTED as a deed.
 SIGNED by THE HONOURABLE MARK McGOWAN in the presence of: [Signature] ______________________________ Signature of witness NADEEN LYN ROBERTS Name of witness (block letters) | ) ) ) | [Signature]
 EXECUTED for and on behalf of THE GRIFFIN COAL MINING COMPANY PTY LIMITED (RECEIVERS AND MANAGERS APPOINTED) (IN LIQUIDATION) by its joint and several receiver and manager in the presence of: [Signature] ______________________________ Signature of witness SEAN HOLMES Full name of witness (block letters) | ))))) ))))) ))))) ) | [Signature] __________________________ Signature of receiver and manager MATTHEW J DONNELLY Name of receiver and manager (block letters)
-[Schedule 2 inserted: No. 14 of 2023 s. 7]
+[Schedule 2 inserted: No. 14 of 2023 s. 7.]
