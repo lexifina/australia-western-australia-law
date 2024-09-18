@@ -1,9 +1,16 @@
 Notes
-This is a compilation of the Criminal Law (Mental Impairment) Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Criminal Law (Mental Impairment) Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Law (Mental Impairment) Act 2023 | 10 of 2023 | 13 Apr 2023 | Pt. 1: 13 Apr 2023 (see s. 2(a)); Act other than Pt. 1: 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 32 | 31 of 2023 | 11 Dec 2023 | 1 Sep 2024 (see s. 2(b)(ii) and SL 2024/175 cl. 2)
+Family Violence Legislation Reform Act 2024 Pt. 4 (other than s. 38) | 28 of 2024 | 17 Sep 2024 | 18 Sep 2024 (see s. 2(b)(i) and SL 2024/175 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Family Violence Legislation Reform Act 2024 s. 38 | 28 of 2024 | 17 Sep 2024 | To be proclaimed (see s. 2(d))
+Other notes
+The Information Commissioner Act 2024 Pt. 7 Div. 2 will not come into operation and was deleted (see s. 2(2)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
