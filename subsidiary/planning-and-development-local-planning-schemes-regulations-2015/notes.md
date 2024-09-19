@@ -11,6 +11,7 @@ Planning and Development (Local Planning Schemes) Amendment Regulations 2021 | S
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 (other than Pt. 3) | SL 2022/178 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
 Planning and Development (Local Planning Schemes) Amendment Regulations 2024 | SL 2024/25 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2024 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment (Single House Development) Regulations 2024 | SL 2024/68 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
+Planning and Development (Local Planning Schemes) Amendment (Short-Term Rental Accommodation) Regulations 2024 | SL 2024/194 18 Sep 2024 | r. 1 and 2: 18 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -32,8 +33,8 @@ agriculture - extensiveSch. 1 cl. 38
 agriculture - intensiveSch. 1 cl. 38
 amended deemed provisionsSch. 2 cl. 89
 amended regulations82(1)
-amenitySch. 2 cl. 1
-amusement parlourSch. 1 cl. 38
+amenitySch. 2
+amusement parlourSch. 1 cl. 37(2)
 ancillary dwellingSch. 2 cl. 1
 animal establishmentSch. 1 cl. 38
 animal husbandry - intensiveSch. 1 cl. 38
@@ -45,7 +46,6 @@ authorised employeeSch. 2 cl. 84A
 authorised person3
 BAL contour mapSch. 2 cl. 78A
 basic amendment34
-bed and breakfastSch. 1 cl. 38
 betting agencySch. 1 cl. 38
 brewerySch. 1 cl. 38
 Building CodeSch. 2 cl. 1
@@ -73,7 +73,7 @@ clause10(3), 10(5)
 club premisesSch. 1 cl. 38
 commencement day77, 82(1), Sch. 2 cl. 78G(1) and 89
 commercial, centre or mixed use zoneSch. 2 cl. 1
-commercial vehicleSch. 1 cl. 37(1)
+commercial vehicleSch. 1 cl. 36(1)
 commercial vehicle parkingSch. 1 cl. 38
 committeeSch. 2 cl. 81
 community purposeSch. 1 cl. 38
@@ -98,7 +98,7 @@ Department3
 Department of Main RoadsSch. 1 cl. 14(1)
 developerSch. 2 cl. 78D(1)
 development approvalSch. 2 cl. 78A
-development contribution plan2, Sch. 2 cl. 1
+development contribution plan3, Sch. 2 cl. 1
 development siteSch. 2 cl. 78A
 document76A(1), 76B(1), Sch. 2 cl. 87(1) and 88(1)
 drop-off refund pointSch. 2 cl. 1
@@ -125,16 +125,15 @@ heritage conservation noticeSch. 2 cl. 13(1)
 heritage listSch. 2 cl. 7
 heritage placeSch. 2 cl. 13(1)
 heritage-protected placeSch. 2 cl. 1 and 1A(1)
-holiday accommodationSch. 1 cl. 38
-holiday houseSch. 1 cl. 38
 home businessSch. 1 cl. 38
 home occupationSch. 1 cl. 38
 home officeSch. 1 cl. 38
 home storeSch. 1 cl. 38
 hospitalSch. 1 cl. 38
+hosted short-term rental accommodationSch. 2 cl. 1
 hotelSch. 1 cl. 38
 in a bushfire prone areaSch. 2 cl. 78C
-incidental useSch. 2
+incidental useSch. 2 cl. 1
 industrySch. 1 cl. 38
 industry - extractiveSch. 1 cl. 38
 industry - lightSch. 1 cl. 38
@@ -157,7 +156,6 @@ mineralsSch. 1 cl. 37(1)
 minimum on-site parking requirementSch. 2 cl. 77A
 mining operationsSch. 1 cl. 38
 Minister for HeritageSch. 2 cl. 1
-motelSch. 1 cl. 38
 motor vehicle, boat or caravan salesSch. 1 cl. 38
 motor vehicle repairSch. 1 cl. 38
 motor vehicle washSch. 1 cl. 38
@@ -170,10 +168,10 @@ non-conforming useSch. 2 cl. 1
 officeSch. 1 cl. 38
 ownerSch. 2 cl. 1
 park home parkSch. 1 cl. 38
-parking space shortfallSch. 2 cl. 77A and 77C
+parking space shortfallSch. 2 cl. 77A, Sch. 2 cl. 77C
 Part10(3), 10(5)
 payment in lieu of parking conditionSch. 2 cl. 77A
-payment in lieu of parking planSch. 2 cl. 77A and 77J(1)
+payment in lieu of parking planSch. 2 cl. 77A, Sch. 2 cl. 77J(1)
 Peel Region Scheme areaSch. 2 cl. 1
 placeSch. 2 cl. 7
 place of worshipSch. 1 cl. 38
@@ -195,6 +193,7 @@ recreation - privateSch. 1 cl. 38
 refund amountSch. 2 cl. 1
 refund pointSch. 2 cl. 1
 region planning schemeSch. 2 cl. 1
+relevant 12-month periodSch. 2 cl. 61(10)
 relevant advertising process82(1), Sch. 2 cl. 91(1)
 relevant payerSch. 2 cl. 77I(4) and 77O(1)
 relevant payment in lieu of parking planSch. 2 cl. 77A
@@ -203,7 +202,7 @@ repealed regulations77
 reserveSch. 2 cl. 1
 residential zoneSch. 2 cl. 1
 resource recovery centreSch. 1 cl. 38
-restaurant/cafeSch. 1 cl. 38
+restaurant/cafeSch. 1 cl. 37(2)
 restricted premisesSch. 1 cl. 38
 retailSch. 1 cl. 37(1)
 reverse vending machineSch. 2 cl. 1
@@ -212,18 +211,18 @@ review expenses74(1)
 road houseSch. 1 cl. 38
 rural home businessSch. 1 cl. 38
 rural pursuit/hobby farmSch. 1 cl. 38
-scheme area3
+scheme area2
 Scheme areaSch. 2 cl. 1
 Scheme commencement daySch. 1 cl. 37(1)
 scheme map3
 scheme text), thisSch. 1 cl. 7(1)
-serviced apartmentSch. 1 cl. 38
 service stationSch. 1 cl. 38
 shared parking arrangementSch. 2 cl. 77Q(1)
 shared parking arrangement conditionSch. 2 cl. 77A
 shared siteSch. 2 cl. 77Q(1)
 shopSch. 1 cl. 38
-short-term accommodationSch. 1 cl. 37(1)
+short-term rental accommodationSch. 2 cl. 1
+short-term rental arrangementSch. 2 cl. 1
 single houseSch. 2 cl. 1
 site worksSch. 2 cl. 1
 small barSch. 1 cl. 38
@@ -237,8 +236,8 @@ submission period25(1), 41(1), 50(1)
 substantially commencedSch. 2 cl. 1
 tavernSch. 1 cl. 38
 telecommunications infrastructureSch. 1 cl. 38
-this Scheme10(3) and (5)
-tourist developmentSch. 1 cl. 38
+this Scheme10(3), 10(5)
+tourist and visitor accommodationSch. 1 cl. 38
 trade displaySch. 1 cl. 38
 trade suppliesSch. 1 cl. 38
 transitional development siteSch. 2 cl. 78G(1)
@@ -246,6 +245,7 @@ transitional permitSch. 2 cl. 78F(2)
 transition periodSch. 2 cl. 78G(1)
 transport depotSch. 1 cl. 38
 tree farmSch. 1 cl. 38
+unhosted short-term rental accommodationSch. 2 cl. 1
 value74(1)
 veterinary centreSch. 1 cl. 38
 wall heightSch. 2 cl. 1
