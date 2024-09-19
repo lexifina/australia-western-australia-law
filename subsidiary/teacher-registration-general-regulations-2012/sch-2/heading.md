@@ -52,7 +52,7 @@ Details of accused/offender
 Full name |  | D.O.B.
 Residential address
 Details of notification
-Circumstance that has occurred | □A registered teacher was convicted or found guilty of an actionable offence. □All charges of actionable offences against a registered teacher were discontinued. □A registered teacher was acquitted, or there was a mistrial, in relation to an actionable offence.
+Circumstance that has occurred | □A registered teacher was convicted or found guilty of an indictable offence. □All charges of actionable offences against a registered teacher were discontinued. □A registered teacher was acquitted, or there was a mistrial, in relation to an actionable offence.
  | actionable offence is defined in the Teacher Registration Act 2012 section 3 to mean — (a)an offence that, on conviction, would result in the person charged being a child sex offender; or (b)a sexual offence committed against or in respect of a child; or (c)a sexual offence committed when a child was present, or within sight of a child; or (d)an offence the commission of which used or involved material the production of which involved a sexual offence against or in respect of a child; or (e)an offence prescribed for the purposes of [the] definition.
 Details of charges/convictions
 Date of alleged conduct | Include range of dates (if applicable)
@@ -67,4 +67,4 @@ Position
 Office/Location
 Contact number |  | Email
 Date
-[Schedule 2 inserted: SL 2023/194 r. 32.]
+[Schedule 2 inserted: SL 2023/194 r. 32; amended: SL 2024/188 r. 5.]

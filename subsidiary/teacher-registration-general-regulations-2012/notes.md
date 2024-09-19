@@ -17,6 +17,7 @@ Education and Training Regulations Amendment (Fees and Charges) Regulations 2022
 Teacher Registration (General) Amendment Regulations 2022 | SL 2022/125 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Education Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 6 | SL 2023/67 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Teacher Registration Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/194 13 Dec 2023 | 19 Dec 2023 (see r. 2(b))
+Teacher Registration (General) Amendment Regulations 2024 | SL 2024/188 18 Sep 2024 | r. 1 and 2: 18 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2024 (see r. 2(b))
 Other notes
 The Mutual Recognition (Western Australia) Act 2020 (Act No. 44 of 2020) commenced on 1 Mar 2021 and adopts the Mutual Recognition Act 1992 (Commonwealth) (see s. 4 of that Act).
 Defined terms
@@ -41,7 +42,7 @@ school3
 suspected misconduct or incompetence26(1)
 Torres Strait Islander11(7)
 Trans-Tasman mutual recognition principle3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
