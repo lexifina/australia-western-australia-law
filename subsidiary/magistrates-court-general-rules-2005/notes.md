@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (General) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Magistrates Court (General) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Magistrates Court (General) Rules 2005 | 28 Apr 2005 p. 1605-49 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -33,6 +33,10 @@ Magistrates Court Rules Amendment Rules 2022 Pt. 3 | SL 2022/54 13 May 2022 | 14
 Magistrates Court Rules Amendment (Legal Profession) Rules 2022 Pt. 3 | SL 2022/106 24 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Magistrates Court (General) Amendment Rules 2022 | SL 2022/180 4 Nov 2022 | r. 1 and 2: 4 Nov 2022 (see r. 2(a)); Rules other than r. 1 and 2: 5 Nov 2022 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2023 Pt. 3 | SL 2023/148 20 Sep 2023 | 21 Sep 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Magistrates Court (General) Amendment Rules 2024 r. 3 and 4 | SL 2024/196 20 Sep 2024 | Operative on commencement of the Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 s. 38 (see r. 2(b)(ii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -68,7 +72,7 @@ searchable information41A(1)
 substituted prosecution notice45A(1)
 transcript40A, 40B
 working day3
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
