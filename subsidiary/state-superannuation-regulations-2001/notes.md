@@ -69,9 +69,10 @@ State Superannuation Amendment Regulations 2022 | SL 2022/4 18 Jan 2022 | r. 1 a
 State Superannuation Amendment Regulations (No. 2) 2022 Pt. 2 | SL 2022/173 21 Oct 2022 | 22 Oct 2022 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 2) 2023 | SL 2023/205 20 Dec 2023 | r. 1 and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b)
 Treasurer Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL 2024/133 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+State Superannuation Amendment Regulations 2024 | SL 2024/195 18 Sep 2024 | r. 1 and 2: 18 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2024 (see r. 2(b))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
-Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
+Formerly referred to as the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
 Repealed by the State Superannuation Act 2000 s. 39.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
 The Superannuation Legislation Amendment and Validation Act 2006 s. 19 reads as follows:
@@ -136,7 +137,8 @@ contributions tax3(1)
 contributor64A(1), 94(3), 95(1)
 contributory membership period12, 14(1), Sch. 3 cl. 5
 covered GESB Super Member111A
-covered risk benefits Member69G
+covered risk benefit50(1), 220
+covered risk benefits Member50(1), 69G
 covert allowance12
 CPI rate3(1)
 currentSch. 3 cl. 1(1)
@@ -173,7 +175,7 @@ former member3(1)
 former MemberSch. 3 cl. 55(2)
 former temporary resident3(1)
 gainfully employed50(1), 83(1)
-GESB Super account83(1)
+GESB Super account3(1), 83(1)
 GESB Super Member3(1)
 GESB Super (Retirement Access) Member3(1)
 GESB Super (Retirement Access) Scheme3(1)
@@ -183,7 +185,13 @@ Gold State Super Member3(1)
 Gold State Super Scheme3(1)
 GSS withdrawal benefit12, Sch. 3 cl. 2
 health condition12, 50(1), 111A
+inactive account220
+inactive GESB Super account3(1), 83(1B)
+inactive low-balance GESB Super account83(1), 83(1A)
+inactive low-balance west state account50(1), 50(1A)
+inactive west state account3(1), 50(1B)
 industrial commissionerSch. 2 cl. 17
+insurance cover83(1), 220
 investment powers246B(4)
 Kiwisaver scheme83(1)
 life expectancy196P(4)
@@ -196,6 +204,7 @@ member contribution12, 50(1)
 member contribution rate12, Sch. 3 cl. 5
 Member’s assets69E(3), 109(3), 187(4), 196N(4), 215(3)
 non-contributory periodSch. 2 cl. 7
+notice of inactivity3(1), 50(1B), 83(1B)
 notional funded amount44D(4)
 notional unfunded amount44D(4)
 notional unreduced amount44D(4)
@@ -215,6 +224,7 @@ partner3(1), 65BA, 97
 partner GESB Super Member83(1)
 partner WSS Member50(1)
 part payment80B(1)
+payment69AD(1), 105D(1)
 payment split219A(2)
 pension day171, 196A
 Pension Scheme3(1)
@@ -245,8 +255,9 @@ Registrar225
 regulated superannuation fund3(1)
 release authority3(1)
 relevant amount96(4)
+relevant contribution3(1)
 relevant MemberSch. 3 cl. 29(3)
-relevant regulationsSch. 2 cl. 13, 15
+relevant regulationsSch. 2 cl. 13, Sch. 2 cl. 15
 remuneration17A(1)
 reporting period220
 resignation daySch. 3 cl. 29(3)
@@ -306,7 +317,7 @@ transferred contributor for limited benefitsSch. 2 cl. 5(1)
 transferred serviceSch. 2 cl. 1(1)
 unclaimed money3(1)
 UnionsWA225
-UniversitySch. 2 cl. 6(2), 15
+UniversitySch. 2 cl. 6(2), Sch. 2 cl. 14(2)
 University staff memberSch. 2 cl. 15
 unpaid leave12
 unrecognised unpaid leave12
@@ -317,7 +328,7 @@ value219A(1)
 voluntary GESB Super Member83(1)
 voluntary transfereeSch. 2 cl. 1(1)
 voluntary WSS Member50(1)
-west state account50(1)
+west state account3(1), 50(1)
 West State Super Member3(1)
 West State Super Scheme3(1)
 withheld amount49A(6), 81A(6)
