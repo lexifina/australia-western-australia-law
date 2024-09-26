@@ -34,6 +34,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 34 | 25 of 2023 | 10 Nov 2023 | 14 Dec 2025 (see s. 2(c))
+Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 6 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms
