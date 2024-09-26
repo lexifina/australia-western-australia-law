@@ -38,6 +38,8 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Children and Community Services Amendment Act 2021 s. 15, 32, 39, 40, 52(2), (7), (12), (16) and (20) and 53(4) and (9) | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 1 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
+Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 1 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
+Police Legislation Amendment Act 2024 Pt. 5 Div. 1 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
