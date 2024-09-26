@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 September 2009 of the Law Reform (Miscellaneous Provisions) Act 1941 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Law Reform (Miscellaneous Provisions) Act 1941 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Law Reform (Miscellaneous Provisions) Act 1941 | 29 of 1941 (5 and 6 Geo. VI No. 29) | 15 Dec 1941 | 24 Oct 1942 (see s. 1 and Gazette 23 Oct 1942 p. 995)
@@ -15,6 +15,11 @@ Acts Amendment (Equality of Status) Act 2003 s. 116 | 28 of 2003 | 22 May 2003 |
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 7 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2(1))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 84 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 3: The Law Reform (Miscellaneous Provisions) Act 1941 as at 25 Sep 2009 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Civil Liability Amendment (Provisional Damages for Dust Diseases) Act 2024 Pt. 3 | 32 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(d))
+Other notes
 The Imperial Act 9 and 10 Vict. c. 93 (1846) was adopted by the Imperial Acts Adopting Ordinance 1849 (12 Vict. No. 21) and amended by Act No. 37 of 1900. It was repealed in so far as it was part of the law of WA by the Fatal Accidents Act 1959 s. 2.
 The Limitation Legislation Amendment and Repeal Act 2005 s. 15(4) reads as follows:
 15.Section 4 amended and a savings provision
@@ -23,3 +28,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 personal injury5(3)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
