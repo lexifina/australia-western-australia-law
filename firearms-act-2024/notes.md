@@ -7,6 +7,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Firearms Act 2024 (other than Pt. 1, Pt. 16 and Pt. 17 Div. 3 Subdiv. 11) | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
+Police Legislation Amendment Act 2024 Pt. 5 Div. 3 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
