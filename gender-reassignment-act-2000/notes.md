@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gender Reassignment Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Gender Reassignment Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gender Reassignment Act 2000 | 2 of 2000 | 12 Apr 2000 | s. 1 and 2: 12 Apr 2000; Act other than s. 1 and 2: 19 Dec 2001 (see s. 2 and Gazette 18 Dec 2001 p. 6489)
@@ -15,6 +15,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 2: The Gender Reassignment Act 2000 as at 6 Dec 2013 (includes amendments listed above)
 Gender Reassignment Amendment Act 2019 | 1 of 2019 | 19 Feb 2019 | s. 1 and 2: 19 Feb 2019 (see s. 2(a)); Act other than s. 1 and 2: 19 Mar 2019 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 s. 20(1) | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -35,3 +39,7 @@ president3
 reassignment procedure3
 recognition certificate3
 Registrar3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
