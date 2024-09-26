@@ -50,6 +50,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Firearms Act 2024 s. 440 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
+Police Legislation Amendment Act 2024 Pt. 5 Div. 2 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b) and (2))
 Other notes
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
