@@ -320,6 +320,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 3 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
