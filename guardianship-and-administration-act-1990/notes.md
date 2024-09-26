@@ -49,6 +49,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
+Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 9 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Other notes
 1-3Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
