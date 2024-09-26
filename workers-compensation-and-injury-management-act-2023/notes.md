@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Workers Compensation and Injury Management Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Workers Compensation and Injury Management Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Workers Compensation and Injury Management Act 2023 | 21 of 2023 | 24 Oct 2023 | Pt 1 Div. 1: 24 Oct 2023 (see s. 2(a)); Pt. 14 (but only Div. 1, 4 and 10 and only s. 542, 543, 545, 574, 579, 603, 606 and 609): 25 Oct 2023 (see s. 2(b)); Act other than Pt. 1 Div. 1, Pt. 14 Div. 1 s. 542, 543 & 545, Pt. 14 Div. 4 s. 574 & 579, Pt. 14 Div. 10 s. 603, 606 & 609 & Pt. 15 Div. 3 Subdiv. 18: 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2); Pt. 15 Div. 3 Subdiv. 18: 1 Sep 2024 (see s. 2(c)(ii) and SL 2024/175 cl. 2)
 Workers Compensation and Injury Management Amendment Act 2023 | 22 of 2023 | 24 Oct 2023 | s. 1-3: 24 Oct 2023 (see s. 2(a)); s. 4-8: 1 Jul 2024 (see s. 2(b)-(f) and SL 2024/34 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Civil Liability Amendment (Provisional Damages for Dust Diseases) Act 2024 s. 11 | 32 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b)(i))
 Other notes
 The Civil Liability Amendment (Provisional Damages for Dust Diseases) Act 2024 s. 12 will not come into operation (see s. 2(2)).
 Defined terms
