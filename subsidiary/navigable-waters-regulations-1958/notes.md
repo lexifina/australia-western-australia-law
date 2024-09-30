@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -157,9 +157,6 @@ Transport Regulations Amendment (Marine Safety Equipment) Regulations 2023 Pt. 2
 Navigable Waters Amendment Regulations 2023 | SL 2023/204 20 Dec 2023 | r. 1 and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2024 Pt. 4 | SL 2024/57 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Navigable Waters Amendment Regulations 2024 | SL 2024/62 1 May 2024 | 2 May 2024 (see r. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2024 Pt. 2 | SL 2024/191 18 Sep 2024 | 30 Sep 2024 (see r. 2(b))
 Other notes
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
@@ -169,7 +166,7 @@ Defined terms
 Defined termProvision(s)
 ABF Commissioner72(2)
 ABP standard45A(2)
-Acts2
+Acts2(1)
 appropriate lifejacket46(2)
 appropriate signal19E(4)
 approved electronic visual distress signal46(2)
@@ -177,13 +174,11 @@ APS employee72(1)
 AS46(2)
 AS/NZS46(2)
 Australian Communications and Media Authority46(2)
-authorised person2
 CEO47(1), 72(1)
 Chief of Defence72(2)
 commencement day45AD(1)
 criminal intelligence information71(1)
-department2
-diving2
+diving2(1)
 Emergency Position-Indicating Radio Beacon46(2)
 examiner47(1)
 foreign pleasure vessel45BAA(1)
@@ -194,11 +189,10 @@ GNSS-equipped46(2)
 GTE CEO72(2)
 higher qualification47C(7)
 hull identification number45A(2)
-inspector2
 ISO46(2)
 jetty21
 learner47B(2)
-length2
+length2(1)
 Level 100 lifejacket46(2)
 Level 150 lifejacket46(2)
 Level 275 lifejacket46(2)
@@ -206,40 +200,33 @@ Level 50 lifejacket46(2)
 Level 50S lifejacket46(2)
 LG CEO72(2)
 marine transceiver46(2)
-motor boat2
-navigable waters2
-non-registrable vessel2
-officer of the department 2
+motor boat2(1)
+navigable waters2(1)
+non-registrable vessel46(2)
 open area50B(1)
-owner2, 45A(2), 46(1), 52BAD(1)
+owner45A(2)
+paddle craft46(2)
 para-sailing46(2)
 personal locator beacon46(2)
-personal watercraft2
-PFD Type 146(2)
-PFD Type 246(2)
-PFD Type 346(2)
 prescribed offence47GA(1)
 present offence47GA(2)
 proposed departure date45BAA(1)
-protected waters2
-public jetty2
-recreational paddle craft46(2)
+protected waters2(1)
+public jetty2(1)
 recreational skipper’s ticket47(1)
 registered interstate pleasure vessel45A(2)
 registered vessel45A(2)
-registrable vessel2
+registrable vessel2(1)
 RST vessel47(1)
 sailboard46(2)
 sailboard riding46(2)
 section47GA(1)
-shore52BAD(1)
 SOLAS lifejacket 46(2)
-speed boat2
+speed boat2(1)
 surfing50A(4)
-tender45A(2)
-territorial sea2
+tender2(1)
 trick water ski-ing46(2)
-vessel18A(1), 21
+vessel21
 water skier46(2)
 water ski-ing46(2)
 wave jumping50A(4)

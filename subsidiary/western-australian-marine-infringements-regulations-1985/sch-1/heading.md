@@ -40,7 +40,7 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 23E | 47A(3) | Person between 10 and 14 driving an RST vessel unless under supervision | 200
 23F | 47A(4) | Person between 14 and 16 driving an RST vessel unless — (a)holding a recreational skipper’s ticket and driving at not more than 8 knots and during the daytime; or (b)under supervision | 200
 23G | 47A(5) | Person over 16 driving an RST vessel unless holding a recreational skipper’s ticket or under supervision | 200
-23H | 47A(6) | Owner allowing RST vessel to be driven in contravention of regulation 47A | 200
+23H | 47A(6) | Allowing RST vessel to be driven in contravention of regulation 47A | 200
 23I | 47H | Failing to produce recreational skipper’s ticket on request | 200
 23J | 47I | Holder of recreational skipper’s ticket failing to notify change of details | 120
 24 | 48(a)(i) | Driving a motor boat at a speed exceeding 8 knots or water ski-ing or para-sailing in water with a depth of less than 3 m | 160
@@ -71,16 +71,16 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 38B | 50A(3) | Freestyle driving, surfing or wave jumping within — (a)30 m of another personal watercraft; or (b)50 m of any other vessel or person | 200
 38C | 50B(3) and (4) (as read with (8)) | Person over 12 years failing to wear appropriate lifejacket | 200
 38D | 50B(5) (as read with (8)) | Person over 12 years required to wear appropriate lifejacket failing to produce the lifejacket they are wearing to officer of Department on demand | 160
-38E | 50B(6) (as read with (9)) | Master or person in charge of a vessel failing to ensure that an appropriate lifejacket is worn by a person on the vessel | 200
-38F | 50B(7) (as read with (9)) | Master or person in charge of a vessel failing to produce to officer of Department on demand a lifejacket being worn by a person on board who is under 12 and required to wear an appropriate lifejacket | 160
+38E | 50B(6) (as read with (9)) | Master of a vessel failing to ensure that an appropriate lifejacket is worn by a person on the vessel | 200
+38F | 50B(7) (as read with (9)) | Master of a vessel failing to produce to officer of Department on demand a lifejacket being worn by a person on board who is under 12 and required to wear an appropriate lifejacket | 160
 39 | 51 | Using motor boat not fitted with efficient silencer approved by Department | 160
 40 | 51A | Causing or permitting motor boat to emit smoke or vapour causing danger, nuisance or annoyance . | 160
 [40A, 41deleted]
-42 | 52A(2) | Failing to equip registrable vessel being navigated with required number of lifejackets | 200
-42A | 52A(3) | Failing to equip non-registrable vessel being navigated outside protected waters and more than 400 m from any shore with required number of lifejackets | 200
-43 | 52B | Failing to equip vessel being navigated outside protected waters and more than 400 m from any shore with required number of distress signals | 160
-43A | 52BAA | Failing to equip vessel being navigated more than 4 nautical miles from any shore with a marine transceiver | 200
-43B | 52BAB | Failing to equip vessel being navigated outside protected waters and more than 400 m from any shore with — (a)an Electronic Position-Indicating Radio Beacon; or (b)a personal locator beacon attached to a person on board the vessel | 200
+42 | 52A(2) | Failing to equip registrable vessel with required number of lifejackets | 200
+42A | 52A(3) | Failing to equip non-registrable vessel while outside protected waters and more than 400 m from any shore with required number of lifejackets | 200
+43 | 52B | Failing to equip pleasure vessel while outside protected waters and more than 400 m from any shore with required number of distress signals | 160
+43A | 52BAA | Failing to equip vessel that proceeds more than 4 nautical miles from any shore with a marine transceiver | 200
+43B | 52BAB | Failing to equip pleasure vessel that is outside protected waters and more than 400 m from any shore with — (a)an Electronic Position-Indicating Radio Beacon; or (b)a personal locator beacon attached to a person on board the vessel | 200
 44 | 52BA(1)(a) | Failing to maintain items of safety equipment of vessel in serviceable condition | 160
 45 | 52BA(1)(b) | Failing to have safety equipment of vessel readily accessible to all persons on board | 160
 46 | 52BA(3) | Failing to produce items of safety equipment to officer of Department on demand | 160
@@ -116,4 +116,4 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 95 | 3.12.1 | Failing to notify the CEO of repairs or alterations to hire and drive vessel | 50
 96 | 3.13.2 | Failing to report an accident involving hire and drive vessel | 50
 97 | 4.2.2 | Overloading a hire and drive vessel | 100
-[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39; SL 2024/61 r. 4.]
+[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39; SL 2024/61 r. 4; SL 2024/191 r. 48.]
