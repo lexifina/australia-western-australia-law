@@ -104,14 +104,13 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 | 25 of 201
 Electoral Amendment Act 2016 | 14 of 2016 | 11 Jul 2016 | s. 1 and 2: 11 Jul 2016 (see s. (2)(a)); Act other than s. 1 and 2: 17 Aug 2016 (see s. 2(b) and Gazette 16 Aug 2016 p. 3469)
 Reprint 17: The Electoral Act 1907 as at 9 Dec 2016 (includes amendments listed above)
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 Pt. 4 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 13 (other than s. 339(8) and (9)) | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 13 | 10 of 2023 | 13 Apr 2023 | Pt. 15 Div. 13 (other than s. 339(8) and (9)): 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2); s. 339(8) and (9): 1 Oct 2024 (see s. 339(7) and SL 2024/175 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 2 | 30 of 2023 | 11 Dec 2023 | s. 3 and 176-179: 12 Dec 2023 (see s. 2(b)); Pt. 2 (other than s. 3 and 176-179): 1 Jul 2024 (see s. 2(c))
 Electoral Amendment Act 2024 | 24 of 2024 | 27 Jun 2024 | 1 Jul 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 13 s. 339(8) and (9) | 10 of 2023 | 13 Apr 2023 | 1 Oct 2024 (see s. 2(b) and SL 2024/175 cl. 2 and s. 339(7))
 Other notes
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 (Cwlth) Sch. 1 Pt. 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also the uncommenced provisions table.
@@ -139,7 +138,6 @@ by reason only of not being an Australian citizen as defined in the Electoral Ac
 by reason only of not being an Australian citizen as defined in the Electoral Act 1907 section 4(1).
 (4) In subsections (2) and (3) —
 commencement means the coming into operation of this section.
-The Criminal Law (Mental Impairment) Act 2023 s. 339(8) and (9) do not have effect until 1 Oct 2024 (see s. 339(7) and SL 2024/175 cl. 2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -289,7 +287,6 @@ medical practitioner100K(1)
 member terminating event175LS(1)
 mental impairment4(1)
 Mental Impairment Review Tribunal registrar59(1)
-mentally impaired accused59(1)
 mobile voting officer4(1)
 mobile voting place4(1)
 mobile voting times4(1)
