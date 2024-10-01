@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Government Railways Act 1904 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Government Railways Act 1904 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Railways Act 1904 | 23 of 1904 (3 Edw. VII No. 38) | 16 Jan 1904 | 16 Jan 1904
@@ -78,9 +78,6 @@ Reprint 9: The Government Railways Act 1904 as at 4 May 2012 (includes amendment
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 25 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 Government Railways Amendment Act 2022 | 40 of 2022 | 21 Nov 2022 | s. 1 and 2: 21 Nov 2022 (see s. 2(a)); Act other than s. 1 and 2: 27 Jul 2023 (see s. 2(b) and SL 2023/118 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Rail Safety National Law Application Act 2024 s. 57 | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Other notes
 Office of Titles plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).

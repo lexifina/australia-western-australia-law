@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Transport Authority Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Public Transport Authority Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Transport Authority Act 2003 | 31 of 2003 | 26 May 2003 | Pt. 1 and Pt. 7 Div. 1: 26 May 2003 (see s. 2(2)); balance: 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
@@ -11,9 +11,6 @@ Reprint 1: The Public Transport Authority Act 2003 as at 3 Apr 2009 (includes am
 Rail Safety Act 2010 Pt. 11 Div. 3 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 Graffiti Vandalism Act 2016 Pt. 5 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016 (see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Rail Safety National Law Application Act 2024 s. 58 | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Other notes
 The provisions in the Public Transport Authority Act 2003 amending or repealing these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).

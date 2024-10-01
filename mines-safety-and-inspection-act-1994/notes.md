@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mines Safety and Inspection Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mines Safety and Inspection Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mines Safety and Inspection Act 1994 | 62 of 1994 | 7 Nov 1994 | s. 1 and 2: 7 Nov 1994; Act other than s. 1 and 2: 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
@@ -36,10 +36,7 @@ Reprint 6: The Mines Safety and Inspection Act 1994 as at 22 Jan 2016 (includes 
 Mines Safety and Inspection Amendment Act 2018 | 17 of 2018 | 7 Sep 2018 | s. 1 and 2: 7 Sep 2018 (see s. 2(a)); Act other than s. 1 and 2: 3 Oct 2018 (see s. 2(b) and Gazette 2 Oct 2018 p. 3780)
 Work Health and Safety Act 2020 Pt. 15 Div. 2 Subdiv. 1 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Safety Levies Amendment Act 2020 Pt. 2 | 37 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(b) and SL 2022/18 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Rail Safety National Law Application Act 2024 s. 58 | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see. s. 2(b) and SL 2024/193 cl. 2)
+Rail Safety National Law Application Act 2024 s. 58 | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Other notes
 Footnote no longer applicable.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.

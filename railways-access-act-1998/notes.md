@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Railways (Access) Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Railways (Access) Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Railways (Access) Act 1998 | 49 of 1998 | 30 Nov 1998 | s. 1 and 2: 30 Nov 1998; Pt. 6: 30 Nov 1998 (see s. 2(1)); s. 3 and Pt. 2: 12 Aug 2000 (see s. 2(2) and Gazette 11 Aug 2000 p. 4691); Pt. 3-5 and 7: 1 Sep 2001 (see s. 2(2) and Gazette 28 Aug 2001 p. 4795)
@@ -15,9 +15,6 @@ Reprint 3: The Railways (Access) Act 1998 as at 8 Aug 2008 (includes amendments 
 Rail Safety Act 2010 Pt. 11 Div. 5 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Amendment Act 2010 Pt. 3 | 60 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(b))
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Rail Safety National Law Application Act 2024 s. 58 | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Other notes
 Under the Railway (Roy Hill Infrastructure Pty Ltd) Agreement Act 2010 Pt. 3, this Act must be applied with the modifications set out in that Part. Those modifications have effect on and from 15 Aug 2015 until that Part expires in accordance with s. 15 of that Act.

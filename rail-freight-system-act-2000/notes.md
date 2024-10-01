@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rail Freight System Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Rail Freight System Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rail Freight System Act 2000 | 13 of 2000 | 8 Jun 2000 | s. 1 and 2: 8 Jun 2000; Act other than s. 1 and 2, Pt. 5 Div. 1 and 6 and s. 91(1)(a) and (b) and 93: 30 Jun 2000 (see s. 2(1) and Gazette 30 Jun 2000 p. 3397); Pt. 5 Div. 1 and 6: 1 Jul 2000 (see s. 2(2) and Gazette 30 Jun 2000 p. 3397); s. 91(1)(a) and (b) and 93: 1 Sep 2001 (see s. 2(5)-(7) and Gazette 28 Aug 2001 p. 4795)
@@ -14,9 +14,6 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 2: The Rail Freight System Act 2000 as at 3 Feb 2012 (includes amendments listed above)
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Rail Safety National Law Application Act 2024 s. 58 | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Other notes
 The provisions in this Act amending other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
