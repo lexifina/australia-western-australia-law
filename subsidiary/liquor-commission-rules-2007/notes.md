@@ -17,6 +17,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Liquor Commission Amendment Rules (No. 2) 2023 Pt. 3 | SL 2023/198 13 Dec 2023 | Operative on the day on which the Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 31 comes into operation (see r. 2(c))
+Liquor Commission Amendment Rules 2024 r. 3 and 4 | SL 2024/204 1 Oct 2024 | 1 Jan 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
