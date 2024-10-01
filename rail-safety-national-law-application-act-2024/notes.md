@@ -1,22 +1,65 @@
 Notes
-This is a compilation of the Rail Safety National Law Application Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Rail Safety National Law Application Act 2024. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Rail Safety National Law Application Act 2024 Pt. 1 | 7 of 2024 | 26 Mar 2024 | 26 Mar 2024 (see s. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Rail Safety National Law Application Act 2024 (other than Pt. 1) | 7 of 2024 | 26 Mar 2024 | 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
+Rail Safety National Law Application Act 2024 | 7 of 2024 | 26 Mar 2024 | Pt. 1: 26 Mar 2024 (see s. 2(a)); Act other than Pt. 1: 1 Oct 2024 (see s. 2(b) and SL 2024/193 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 amending Act3(1)
+amending Act provision14(1)
+analyst21(1)
+blood alcohol content21(1)
+breath analysis21(1)
+breath analysis instrument21(1)
 commencement day3(1)
 Commissioner of Police3(1)
+corresponds49(2)
+court18(1)
+defendant45(2)
+disallowance period8(1)
+disallowance resolution8(1)
+disallowed regulations16(5)
+drug screening device21(1)
+drug screening test21(1)
+drug test21(1)
+emergency services18(1)
+former Law49(1)
+Gazette18(1)
+Health Practitioner Regulation National Law18(1)
+hospital21(1)
 local regulations3(1)
+magistrate18(1)
+medical practitioner21(1)
+Minister18(1)
+national regulations12(2)
+new Law49(1)
+notice period8(1)
+oral fluid analysis21(1)
+oral fluid analysis device21(1)
+parliamentary committee11(1)
+police officer18(1)
+preliminary breath test21(1)
+preliminary testing device21(1)
+prescribed BAC21(1)
+publication day56(1)
+public sector auditor18(1)
+Rail Safety National Law5(1)
 Rail Safety National Law (WA)3(1)
-Rail Safety National Regulations3(1)
+Rail Safety National Regulations3(1), 12(1)
 Rail Safety National Regulations (WA)3(1)
+registered nurse21(1)
+relevant time42
+repealed Act49(1)
+road vehicle18(1)
+sample taker21(1)
+shared path18(1)
+subsidiary provision14(1)
+the jurisdiction18(1)
+this jurisdiction18(1)
+transitional matter56(1)
+transitional regulations56(1)
+urine test21(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.
