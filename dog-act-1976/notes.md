@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dog Act 1976 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Dog Act 1976 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Dog Act 1976 | 58 of 1976 | 16 Sep 1976 | Act other than s. 21: 24 Dec 1976 (see s. 2(1) and Gazette 24 Dec 1976 p. 5029); s. 21: 1 Jul 1977 (see s. 2(2) and Gazette 3 Jun 1977 p. 1635)
@@ -31,6 +31,12 @@ Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 11 | 19 of 2016 | 2
 Local Government Legislation Amendment Act 2019 Pt. 4 Div. 5 | 16 of 2019 | 5 Jul 2019 | 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2)
 Veterinary Practice Act 2021 s. 230 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Dog Amendment (Stop Puppy Farming) Act 2021 Pt. 2 Div. 1 and 2 and s. 44 | 29 of 2021 | 22 Dec 2021 | Pt. 2 Div. 1 and 2: 23 Dec 2021 (see s. 2(b)); s. 44: 27 Aug 2022 (see s. 2(e) and SL 2022/150 cl. 2)
+Dog Act 1976 with editorial changes as at 4 Oct 2024
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 7(3)(b)(i) | s. 26(1) | 4 Oct 2024
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -53,6 +59,7 @@ The Dog Amendment Act 2013 s. 60 reads as follows:
 60.Review of Act
 (1) The Minister must carry out a review of the operation and effectiveness of this Act as soon as practicable after 1 January 2019.
 (2) The Minister must prepare a report based on the review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
+Formerly know as Royal Society for the Prevention of Cruelty to Animals (Inc.) of Western Australia.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
