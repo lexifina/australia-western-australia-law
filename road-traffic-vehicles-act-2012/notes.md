@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Vehicles) Act 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Vehicles) Act 2012 | 7 of 2012 | 21 May 2012 | s. 1 and 2: 21 May 2012 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -11,10 +11,7 @@ Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 6 | 26 of 201
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 6 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Road Traffic (Vehicles) Amendment (Offensive Advertising) Act 2023 | 6 of 2023 | 29 Mar 2023 | s. 1 and 2: 29 Mar 2023 (see s. 2(a)); Act other than s. 1 and 2: 1 November 2023 (see s. 2(b) and SL 2023/154 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 55 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 6 | 15 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 6 | 15 of 2024 | 14 May 2024 | 7 Oct 2024 (see s. 2(b) and SL 2024/200 cl. 2)
 Other notes
 The Road Traffic Legislation Amendment Act 2012 Pt. 2 commenced on 12 Dec 2012.
 The Road Traffic (Licensing) Regulations 1975 were repealed by the Road Traffic (Repeals and Amendment) Regulations 2014 as at 27 Apr 2015 (see Gazette 23 Dec 2014 p. 4914).

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Administration) Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 | 39 of 2008 | 15 Aug 2008 | s. 1 and 2: 15 Aug 2008 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
@@ -21,19 +21,15 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 D
 Family Violence Legislation Reform Act 2020 Pt. 8 | 30 of 2020 | 9 Jul 2020 | 1 Jan 2021 (see s. 2(1)(c) and SL 2020/125 cl. 2(c)(iv))
 Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 3 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
 Transport Legislation Amendment (Identity Matching Services) Act 2022 Pt. 2 | 8 of 2022 | 14 Apr 2022 | 15 Apr 2022 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 2 | 15 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 2 | 15 of 2024 | 14 May 2024 | 7 Oct 2024 (see s. 2(b) and SL 2024/200 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+abridged incident information13E(1)
 administrative action18(1)
-administrative authority17(1)
-alleged offender83(1)
+administrative authority18(1)
 amending Act147
-approved117G(3)
-approved procedure117(1)
+approved117A(2A), 117G(3)
 Australian driver licence4
 Australian driver licensing authority4
 Australian police officer4
@@ -41,7 +37,7 @@ authorised person47(1), 59(1), 117(1), 117B(1)
 authorised purpose14(1)
 authorised to drive a vehicle29(3)
 authorised to run the engine of a vehicle29(3)
-average speed detection system117B(1)
+average speed detection system117B(1), 174(1)
 axle4
 axle group4
 bodily harm4
@@ -51,8 +47,9 @@ carriageway117B(1)
 CEO4
 certificate126(1)
 co-driver4, 28, 38
-commencement day147, 166
+commencement day147, 166, 170
 Commissioner140(1)
+Commissioner of Police4
 compensation order123
 condition4
 contractor135(6)
@@ -60,29 +57,34 @@ corresponding4
 corresponding authority4
 demerit points information4
 demerit points register4
-detection points117A(1)
+designated departmental officer79
+detection points117B(1)
 director119(1), 137(1)
 disclose4
 Disq7
 distance measuring equipment117(1)
-district3(2)
-drive3(2)
+district4
+drive4
 driver4, 28, 38
 driver’s licence4
 driver’s licence document36(3)
 driver’s licence information4
 driver’s licence register4
 DVO4
+electronic means4
 engaging in conduct119(1)
 entitled person70(1)
 equipment4
+extended payment period79, 90(2)
+extension infringement notice4, 90(1)
 extract4
 Family Court injunction4
 family violence4
 family violence evidentiary document4
 fit to drive a vehicle or to run its engine29(2)
+former170
 GCM4
-Government road132
+Government road132(1)
 GVM4
 heavy traffic132(1)
 heavy vehicle4
@@ -90,13 +92,20 @@ home address4
 ICWA13D(1)
 identity request35(1)
 incident26(1)
-incident information12(1), 13D(1), 13E(1), 15(1)
-infringement notice4, 13A(1), 79
+incident information4
+infringement notice4
+infringement notice (alleged offender)4, 81(1)
+infringement notice (ATD)13A(1)
+infringement notice (vehicle)4, 83(2)
+infringement notice (visual evidence)4, 86(2)
+initial infringement notice4
+initial payment period79, 91(2)
 inspection station4
 instructor28
 instructor information4
 involved person4
 issuing authority21
+issuing officer79
 journey documentation4
 jurisdiction4
 label36(3)
@@ -110,50 +119,55 @@ light vehicle4
 load4
 loadmeter113(1)
 Max7
-MDLR compliance purposes3(2), 27(2)
+MDLR compliance purposes4, 28
 MDLR embargo notice71(5)
 MDLR offence4, 28
 Min7
 Minister117(1), 117B(1)
-modified penalty104(1)
+modified penalty79
 motor vehicle4
+notice requesting information4, 96(2)
 number plate36(3)
 occupier4
-offence80(1)
 offence information12(1)
 office holder116(1)
 optional plates information4
 order19(1)
 owner4, 5(1), 140(1)
+Part 5 document4
 passenger4
-period for complying90, 97
+period for complying79, 96(3)
 permit information4
 personal details32(1)
 photograph4
-photographic evidence90
 power assisted pedal cycle4
 predominantly for residential purposes51(2)
 premises4, 54(1), 55(1), 61A(1), 61B(1)
 prescribed area40(1), 47(1)
 prescribed person14(1)
+prescribed road law offence79, 95(1)
 present offence107
 provide driving instruction28
 PU7
 public authority4
 public place28
 public safety4, 28
+Public Transport Authority79
+public transport offence79
 qualified to drive a vehicle or to run its engine29(1)
-reasonable excuse56(5), 57(5), 58(6), 61C(5), 61D(3), 61E(4)
+reasonable excuse56(5), 57(5), 58(6), 61C(5), 61D(4), 61E(4)
 records4
 relevant authorisation12(1)
 relevant authority13A(1)
+relevant offence172(1)
 remote communication62
 residential purposes51(1)
 responsible person4, 34(1)
-road3(2)
+road4
 road authority123
 road infrastructure4, 123
-road law3(2), 17(2), 110(1A)
+road law4, 17(2), 110(1A)
+road law offence detection equipment117(1)
 road safety purpose15(1)
 road transport4
 RT(A) Act166
@@ -165,12 +179,14 @@ RTA Part 6A offence28
 run28
 shortest practicable distance117B(1)
 signature4
-speed measuring and recording equipment117(1)
+speed measuring and recording equipment117(1), 173(1)
 speed measuring equipment117(1), 169(1)
 state of mind119(1)
 stop39(1)
 suitable location40(1)
 traffic4
+transfer duty82(2)
+transfer fee82(2)
 transport documentation4
 unattended30(1)
 unloaded mass16(2)
@@ -178,9 +194,12 @@ use4
 vehicle4, 38, 52(1), 53(1)
 vehicle licence4
 vehicle licence information4
+visual detection equipment117(1)
+visual evidence79
 warden4
 warden’s function21
 warrant62
+withdrawing officer79
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.

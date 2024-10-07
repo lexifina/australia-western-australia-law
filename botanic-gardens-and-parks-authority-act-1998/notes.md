@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Botanic Gardens and Parks Authority Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Botanic Gardens and Parks Authority Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Botanic Gardens and Parks Authority Act 1998 | 53 of 1998 | 7 Dec 1998 | s. 1 and 2: 7 Dec 1998; Act other than s. 1 and 2: 1 Jul 1999 (see s. 2 and Gazette 30 Jun 1999 p. 2879)
@@ -16,10 +16,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 3 | 8 of 2012 | 21 May 20
 City of Perth Act 2016 Pt. 4 Div. 2 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 6 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Reprint 3: The Botanic Gardens and Parks Authority Act 1998 as at 7 Dec 2018 (includes amendments listed above)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 1 | 15 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 1 | 15 of 2024 | 14 May 2024 | 7 Oct 2024 (see s. 2(b) and SL 2024/200 cl. 2)
 Other notes
 The provision in this Act consequentially amending other Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
@@ -45,7 +42,7 @@ document14(4)
 emergency situation29(5)
 first management plan16(3)
 Foundation3
-Foundation Account3
+Foundation Account2
 function3
 information14(4)
 King’s Park3
