@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fines, Penalties and Infringement Notices Enforcement Act 1994 | 93 of 1994 | 23 Dec 1994 | s. 1 and 2: 23 Dec 1994; Act other than s. 1, 2 and 29(2): 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211); s. 29(2): 11 Jan 1995 (see s. 2(2))
@@ -39,10 +39,7 @@ Reprint 6: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 2 | 25 of 2020 | 19 Jun 2020 | Pt. 2 Div. 1 and 2, s. 87 and 103: 20 Jun 2020 (see s. 2(1)(b)); s. 9-86, 88 and 89: 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a)); s. 90-102, 104 and 105: 30 Sep 2020 (see s. 2(1)(d) and SL 2020/159 cl. 2(b))
 Criminal Appeals Amendment Act 2022 Pt. 3 Div. 3 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 15 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 3 | 15 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 3 | 15 of 2024 | 14 May 2024 | 7 Oct 2024 (see s. 2(b) and SL 2024/200 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -79,7 +76,7 @@ bank account garnishee order63(1), 95M(2)
 CCO28(1)
 CEO (corrections)3(1)
 CEO (fines enforcement)3(1)
-child3(1)
+child2(1)
 claimant93(1)
 commencement111(1), 112(1), 113(1)
 commencement date32(5)
@@ -120,26 +117,29 @@ garnishee order63(1), 95M(2)
 garnishee order on earnings63(1), 95M(2)
 give3(1)
 hardship3(1)
-infringement notice11, 26(4)
+infringement notice11
 interest70(1)
 issue day52H(1)
 licence suspension order11, 28(1), 101D(1A)
 mobile home63(1)
-modified penalty11, 56A
+modified penalty3(1)
 multiple payments garnishee order63(1), 95V(2)
-number plate3(1)
+number plate2(1)
 offender28(1), 100, 108A(1)
 ongoing fine expiation order28(1), 52I(1)
 order to attend for work and development28(1)
+outstanding balance3(1), 14A(4)
+outstanding balance payment order56A, 56AB
 outstanding order to pay or elect56A, 56AA
+outstanding payment obligation56A
 outstanding registered fine56A, 56B
 owner63(1)
 paid3(1)
 pay period95P(1)
 period of concurrent imprisonment115
 period served53(7)
-person in court custody28(1)
 personal property63(1)
+person in court custody28(1)
 place63(1)
 police facility28(1)
 prescribed enactment11
