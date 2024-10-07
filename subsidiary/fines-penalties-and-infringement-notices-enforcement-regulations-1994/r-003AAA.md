@@ -5,7 +5,7 @@
 (c) the date or dates on which the alleged offence occurred;
 (d) the location or locations at which the alleged offence occurred;
 (e) the written law, and the provision of that written law, that creates the alleged offence;
-(f) the amount of the modified penalty;
+(f) the amount of the modified penalty or outstanding balance of the modified penalty;
 (g) the infringement notice reference number.
 (2) Under section 16(1), a prosecuting authority may, with the consent of the Registrar, give the Registry the enforcement certificate and the information required under section 16(1)(b) by electronic means in accordance with regulation 11A.
-[Regulation 3AAA inserted: SL 2020/167 r. 6.]
+[Regulation 3AAA inserted: SL 2020/167 r. 6; amended: SL 2024/203 r. 6.]

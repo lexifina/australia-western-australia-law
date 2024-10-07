@@ -12,5 +12,10 @@ Cross-border Justice Amendment Regulations 2018 | 9 Mar 2018 p. 801-7 | r. 1 and
 Cross-border Justice Amendment Regulations 2020 | SL 2020/164 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1, 2 and 7: 29 Sep 2020 (see r. 2(c) and SL 2020/159 cl. 2(a)); r. 7: 30 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(b))
 Attorney General Regulations Amendment (Road Traffic) Regulations 2021 Pt. 2 | SL 2021/56 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Attorney General Regulations Amendment (Legal Profession) Regulations 2022 Pt. 3 | SL 2022/114 30 Jun 2022 | 1 Jul 2022 (see r. 2(d) and SL 2022/113 cl. 2)
+Attorney General Regulations Amendment (Road Traffic Infringement Management Reform) Regulations 2024 Pt. 2 | SL 2024/203 2 Oct 2024 | 7 Oct 2024 (see r. 2(b))
 Other notes
 The Aboriginal Lands Trust Act 1966 was repealed by the Aboriginal Lands Trust Act 2013 (South Australia) Sch. 1 cl. 6.
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
