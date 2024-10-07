@@ -9,11 +9,11 @@
  | (a)issued to a volunteer organisation | $18.00
  | (b)issued to a public sector body | $37.40
 5. | National police certificate | $63.80
-6. | Provision of incident information as defined in the Road Traffic (Administration) Act 2008 section 12(1) —
+6. | Provision of incident information as defined in the Road Traffic (Administration) Act 2008 section 4 —
  | (a)to those involved or their representatives (outlining certain accident details) | $54.40
  | (b)to the Insurance Commission of Western Australia for third party insurance purposes | $54.40
-7. | Provision of information about a reported incident, other than incident information as defined in the Road Traffic (Administration) Act 2008 section 12(1), to those involved or their representatives (outlining certain incident details) | $49.60
+7. | Provision of information about a reported incident, other than incident information as defined in the Road Traffic (Administration) Act 2008 section 4, to those involved or their representatives (outlining certain incident details) | $49.60
 8. | Replacement of prosecution documents —
  | (a)a statement of the material facts of a charge, which has already been served (per hour or part of an hour) | $91.91
  | (b)additional copy of documents already disclosed (per hour or part of an hour) | $91.91
-[Schedule 1 inserted: SL 2024/94 r. 10.]
+[Schedule 1 inserted: SL 2024/94 r. 10; amended: SL 2024/202 r. 5.]

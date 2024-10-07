@@ -11,6 +11,7 @@ Police Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 4 | SL 2021
 Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/65 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/74 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/94 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Police (Fees and Charges) Amendment Regulations 2024 | SL 2024/202 2 Oct 2024 | r. 1 and 2: 2 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
