@@ -35,6 +35,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 6 | SL 2
 Transport Regulations Amendment (Identity Matching Services) Regulations 2023 Pt. 2 | SL 2023/166 1 Nov 2023 | 2 Nov 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Road Traffic (Administration) Amendment Regulations (No. 2) 2024 | SL 2024/184 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2024 (see r. 2(b))
+Road Traffic (Administration) Amendment Regulations 2024 | SL 2024/201 2 Oct 2024 | r. 1 and 2: 2 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,12 +43,14 @@ ABF Commissioner7(2)
 approved officer34(1)
 APS employee7(1)
 Chief of Defence7(2)
+commencement day38(1)
 corresponding WOVR8(1)
 crossing attendant warden16(1)
 data storage device35(1)
 Department of the Premier and Cabinet8A(1)
 digital identity exchange8A(1)
 electric-powered vehicle9A(1)
+existing warden38(1)
 HVNL9(1), 10(1)
 hydrogen-powered vehicle9A(1)
 identifier8(1)
@@ -57,14 +60,17 @@ LG CEO7(2)
 Measurement Adjustments document31(1)
 novice driver (type 1A)23(1)
 PA CEO7(2)
-parking warden 18(1)
+parking warden3
 pedalec4(1)
+prescribed road law offence3
 relevant information8A(1)
 relying chief executive officer8A(1)
 reviewable decision33(1)
-road law regulation offence24(1)
 section3
 traffic escort warden17(1)
+transport inspection warden3
+transport investigation warden3
+transport warden3
 WOVR8(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.

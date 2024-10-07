@@ -25,3 +25,4 @@ Notes —
 1.State the address or geographical location of the premises as defined in the Act s. 55(1) or 61B(1) (as relevant) to be entered.
 2.This period must not exceed 30 days (see the Act s. 65(2)(d)).
 [Schedule 1 amended: SL 2020/231 r. 12.]
+[Schedule 2 deleted: SL 2024/201 r. 25.]
