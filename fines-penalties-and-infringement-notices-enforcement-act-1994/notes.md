@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fines, Penalties and Infringement Notices Enforcement Act 1994 | 93 of 1994 | 23 Dec 1994 | s. 1 and 2: 23 Dec 1994; Act other than s. 1, 2 and 29(2): 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211); s. 29(2): 11 Jan 1995 (see s. 2(2))
@@ -40,6 +40,12 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 2 |
 Criminal Appeals Amendment Act 2022 Pt. 3 Div. 3 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 15 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 3 | 15 of 2024 | 14 May 2024 | 7 Oct 2024 (see s. 2(b) and SL 2024/200 cl. 2)
+Fines, Penalties and Infringement Notices Enforcement Act 1994 with editorial changes as at 10 Oct 2024
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 96(3)(c) | s. 34(2) [s. 34(1) def. (h)] | 10 Oct 2024
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -76,7 +82,7 @@ bank account garnishee order63(1), 95M(2)
 CCO28(1)
 CEO (corrections)3(1)
 CEO (fines enforcement)3(1)
-child2(1)
+child3(1)
 claimant93(1)
 commencement111(1), 112(1), 113(1)
 commencement date32(5)
@@ -124,7 +130,7 @@ licence suspension order11, 28(1), 101D(1A)
 mobile home63(1)
 modified penalty3(1)
 multiple payments garnishee order63(1), 95V(2)
-number plate2(1)
+number plate3(1)
 offender28(1), 100, 108A(1)
 ongoing fine expiation order28(1), 52I(1)
 order to attend for work and development28(1)
