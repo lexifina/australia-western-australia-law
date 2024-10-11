@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gold Corporation Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Gold Corporation Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Gold Banking Corporation Act 1987 | 99 of 1987 | 18 Dec 1987 | s. 1 and 2: 18 Dec 1987; Sch. 3 cl. 1(1): 1 Jul 1987 (see Sch. 3 cl. 1(2)); Act other than s. 1 and 2 and Sch. 3 cl. 1(1): 30 Jun 1988 (see s. 2 and Gazette 30 Jun 1988 p. 2133)
@@ -30,6 +30,12 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 3 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 32 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Government Trading Enterprises Act 2023 Pt. 12 Div. 2 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
+Gold Corporation Act 1987 with editorial changes as at 11 Oct 2024
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 8B(4), 41B(3) and (4), 52B(3) and (4) | s. 34(2) [s. 34(1) def. (i)] | 11 Oct 2024
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -107,7 +113,7 @@ to produce74(6)
 Treasurer3(1)
 Treasury3(1)
 unestablished personSch. 2 cl. 1
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
