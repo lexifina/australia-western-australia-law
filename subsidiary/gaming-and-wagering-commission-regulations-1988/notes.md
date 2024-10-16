@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Gaming Commission Regulations 1988 | 29 Apr 1988 p. 1295-304 | 2 May 1988 (see r. 2)
@@ -78,6 +78,10 @@ Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2
 Gaming and Wagering Commission Amendment Regulations 2020 | SL 2020/10 3 Mar 2020 | r. 1 and 2: 3 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2020 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
