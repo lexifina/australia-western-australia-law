@@ -167,6 +167,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Liquor Control Amendment Regulations (No. 2) 2023 Pt. 4 | SL 2023/196 13 Dec 2023 | 14 Dec 2025 (see r. 2(d))
+Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 6 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
