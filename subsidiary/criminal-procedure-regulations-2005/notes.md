@@ -60,6 +60,7 @@ Justice Regulations Amendment (Major Events) Regulations 2023 Pt. 2 | SL 2023/69
 Attorney General Regulations Amendment (Workers Compensation) Regulations (No. 2) 2024 Pt. 2 | SL 2024/29 7 Mar 2024 | 8 Mar 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Short-Term Rental Accommodation) Regulations 2024 Pt. 2 | SL 2024/76 15 May 2024 | 16 May 2024
 Attorney General Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/132 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Attorney General Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 2 | SL 2024/210 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Other notes
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).

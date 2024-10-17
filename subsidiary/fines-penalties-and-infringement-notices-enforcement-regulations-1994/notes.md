@@ -97,6 +97,7 @@ Attorney General Regulations Amendment (Short-Term Rental Accommodation) Regulat
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 9 | SL 2024/113 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 3 | SL 2024/132 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Road Traffic Infringement Management Reform) Regulations 2024 Pt. 3 | SL 2024/203 2 Oct 2024 | 7 Oct 2024 (see r. 2(b))
+Attorney General Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 3 | SL 2024/210 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Other notes
 Formerly referred to as the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996, the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).

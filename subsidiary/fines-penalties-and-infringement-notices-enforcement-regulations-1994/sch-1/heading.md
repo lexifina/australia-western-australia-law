@@ -57,6 +57,7 @@ Litter Act 1979 | 30
 Local Government Act 1995
 Local Government (Miscellaneous Provisions) Act 1960
 Major Events Act 2023
+Medicines and Poisons Act 2014
 Mining Rehabilitation Fund Act 2012
 Motor Vehicle Dealers Act 1973
 Motor Vehicle Repairers Act 2003
@@ -96,4 +97,4 @@ Western Australian Marine Act 1982 | 132
 Western Australian Meat Industry Authority Act 1976
 Workers Compensation and Injury Management Act 2023
 Zoological Parks Authority Act 2001
-[Schedule 1 amended: Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19; 23 Jun 2009 p. 2466; 29 Jan 2010 p. 200; 25 Jun 2010 p. 2869; 17 Sep 2010 p. 4759; 17 Jun 2011 p. 2169; 13 Dec 2011 p. 5282; 16 Mar 2012 p. 1256; 23 Mar 2012 p. 1370; 8 Jun 2012 p. 2386; 5 Feb 2013 p. 836; 10 May 2013 p. 1937; 20 Aug 2013 p. 3884; 20 Jun 2014 p. 2026; 10 Feb 2015 p. 611; 3 Mar 2015 p. 784; 12 Jun 2015 p. 2027; 28 Jun 2016 p. 2643; 9 Aug 2016 p. 3428; 30 Dec 2016 p. 5966; 10 Jan 2017 p. 175; 24 Jan 2017 p. 745; 4 Aug 2017 p. 4314; 14 Sep 2018 p. 3315; 12 Feb 2019 p. 266; 28 Jun 2019 p. 2490; SL 2020/32 r. 6; SL 2020/167 r. 21; SL 2021/135 r. 6; SL 2021/136 r. 6; SL 2021/174 r. 6; SL 2022/7 r. 4; SL 2022/14 r. 6; SL 2023/69 r. 6; SL 2024/29 r. 6; SL 2024/44 r. 5; SL 2024/76 r. 6; SL 2024/203 r. 8.]
+[Schedule 1 amended: Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19; 23 Jun 2009 p. 2466; 29 Jan 2010 p. 200; 25 Jun 2010 p. 2869; 17 Sep 2010 p. 4759; 17 Jun 2011 p. 2169; 13 Dec 2011 p. 5282; 16 Mar 2012 p. 1256; 23 Mar 2012 p. 1370; 8 Jun 2012 p. 2386; 5 Feb 2013 p. 836; 10 May 2013 p. 1937; 20 Aug 2013 p. 3884; 20 Jun 2014 p. 2026; 10 Feb 2015 p. 611; 3 Mar 2015 p. 784; 12 Jun 2015 p. 2027; 28 Jun 2016 p. 2643; 9 Aug 2016 p. 3428; 30 Dec 2016 p. 5966; 10 Jan 2017 p. 175; 24 Jan 2017 p. 745; 4 Aug 2017 p. 4314; 14 Sep 2018 p. 3315; 12 Feb 2019 p. 266; 28 Jun 2019 p. 2490; SL 2020/32 r. 6; SL 2020/167 r. 21; SL 2021/135 r. 6; SL 2021/136 r. 6; SL 2021/174 r. 6; SL 2022/7 r. 4; SL 2022/14 r. 6; SL 2023/69 r. 6; SL 2024/29 r. 6; SL 2024/44 r. 5; SL 2024/76 r. 6; SL 2024/203 r. 8; SL 2024/210 r. 6.]
