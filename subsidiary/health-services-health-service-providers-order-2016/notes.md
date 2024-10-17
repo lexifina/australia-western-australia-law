@@ -17,6 +17,7 @@ Health Services (Health Service Providers) Amendment Order (No. 3) 2021 | SL 202
 Health Services (Health Service Providers) Amendment Order (No. 2) 2023 | SL 2023/143 7 Sep 2023 | cl. 1 and 2: 7 Sep 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Sep 2023 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order 2024 | SL 2024/73 3 May 2024 | cl. 1 and 2: 3 May 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 4 May 2024 (see cl. 2(b))
 Health Services (Health Service Providers) Amendment Order (No. 2) 2024 | SL 2024/167 8 Aug 2024 | cl. 1 and 2: 8 Aug 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 13 Aug 2024 (see cl. 2(b))
+Health Services (Health Service Providers) Amendment Order (No. 3) 2024 | SL 2024/215 16 Oct 2024 | cl. 1 and 2: 16 Oct 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 17 Oct 2024 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
