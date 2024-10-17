@@ -62,6 +62,7 @@ Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 4 | SL 20
 Electricity (Licensing) Amendment Regulations 2023 | SL 2023/30 6 Apr 2023 | r. 1 and 2: 6 Apr 2023 (see r. 2(a)); Regulations other than r. 1, 2 and 4(2): 7 Apr 2023 (see r. 2(c)); r. 4(2): 1 Aug 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
+Electricity Regulations Amendment (Licensing) Regulations 2024 Pt. 2 | SL 2024/211 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
@@ -78,24 +79,28 @@ Defined termProvision(s)
 agent50AA(1)
 apprentice3(1)
 approved5(1a)
+approved CPR course32A
 AS3(1)
 AS/NZS3(1)
 Australian/New Zealand Wiring Rules3(1)
 Board3(1)
 casual vacancy8(4)
 chairperson3(1)
-commencement day49(2B), 67(1)
+commencement day32A, 49(2B), 67(1)
 competent person54A(1)
+completion period32A
 construction project52BB(1)
 consumers mains51(3)
 contact details3(1)
+continuing CPR course32A
 control or protective gear51(3)
 copy3(1)
+course completion record32I(1)
 de-energised3(1)
 default procedure52BB(1)
 department3(1)
 electrical accident63(1)
-electrical appliance2(1)
+electrical appliance3(1)
 electrical contractor3(1)
 electrical contractor’s licence3(1)
 electrical equipment3(1)
@@ -110,6 +115,7 @@ electrician3(1)
 employee63(1)
 employer50AB, 63(1)
 employer of an electrical worker in training50AA(1)
+endorsed electrician’s licence32A
 energised3(1)
 executive officer3(1)
 flexible cord19(1A)
@@ -117,9 +123,11 @@ former apprentice50AB
 holder of a licence46(1a), 47(1aa)
 in-house electrical installing work3(1)
 in-house electrical installing work licence3(1)
+initial CPR course32A
 labour hire arrangement50AA(1) and (1A)
 licence3(1)
 licensed electrical worker3(1)
+licensed electrician32A
 live3(1)
 main switchboard3(1)
 maintenance work3(1)

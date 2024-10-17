@@ -29,6 +29,10 @@ For individual | For body corporate
 r. 19(1) | Carrying out electrical work without a licence or permit | $1 000
 r. 19(2a) & 65 | Failing to ensure electrical work is checked, tested and certified | $1 000 | $4 000
 r. 28(1) & 65 | Failing to notify Board of change of contact details | $100 | $400
+r. 32E(2) | Failing to complete approved CPR course within completion period | $500
+r. 32F(2) | Failing to complete approved CPR course within completion period after first licence issued | $500
+r. 32G(2) | Failing to complete approved CPR course within completion period after last course completed | $500
+r. 32I(6) | Failing to comply with written direction to provide course completion record | $500
 r. 33(1) & 65 | Carrying on business as an electrical contractor without a licence | $1 250 | $5 000
 r. 34 | Knowingly contracting unlicensed person to do electrical work | $1 250 | $5 000
 r. 35 | Falsely representing electrical work to be carried out by or on behalf of employer | $1 250 | $5 000
@@ -84,4 +88,4 @@ r. 41(2) | Failure by network operator to inform Director and give details |  | 
 r. 41(3) | Failure by person who is to become network operator to inform Director and give details |  | $5 000
 r. 41(4) | Failure by person who is to cease to be network operator to inform Director and give details |  | $5 000
 r. 41(5) | Failure by network operator to give notice of change in name or contact details |  | $5 000
-[Schedule 1 inserted: Gazette 31 Dec 2010 p. 6888-92; amended: Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6; 2 Oct 2018 p. 3792; SL 2022/36 r. 19.]
+[Schedule 1 inserted: Gazette 31 Dec 2010 p. 6888-92; amended: Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6; 2 Oct 2018 p. 3792; SL 2022/36 r. 19; SL 2024/211 r. 7.]

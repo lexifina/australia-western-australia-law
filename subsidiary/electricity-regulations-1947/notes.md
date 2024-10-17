@@ -72,6 +72,7 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 11 | 
 Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 2 | SL 2021/71 18 Jun 2021 | 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Energy Regulations Amendment (Electricity Licensing) Regulations 2022 Pt. 3 | SL 2022/36 15 Mar 2022 | 16 Mar 2022 (see r. 2(b))
 Short-Term Rental Accommodation Regulations 2024 r. 20 | SL 2024/123 26 Jun 2024 | 1 Jul 2024 (see r. 2 and SL 2024/88 cl. 2(a))
+Electricity Regulations Amendment (Licensing) Regulations 2024 Pt. 3 | SL 2024/211 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Other notes
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 Footnote no longer applicable.
