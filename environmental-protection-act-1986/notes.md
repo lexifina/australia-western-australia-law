@@ -69,6 +69,7 @@ Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 4 | 4 of 2023 | 
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 24 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 28 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Planning and Development Amendment Act 2023 Pt. 5 Div. 2 | 34 of 2023 | 11 Dec 2023 | 1 Mar 2024 (see s. 2(d))
+Environmental Protection Amendment Act 2024 Pt. 1-3, Pt. 4 Div. 2 and 3, Pt. 5 and Pt. 6 Div. 1 | 36 of 2024 | 22 Oct 2024 | Pt. 1: 22 Oct 2024 (see s. 2(1)(a)); Pt. 2 and 3, Pt. 4 Div. 2 and 3, Pt. 5 and Pt. 6 Div. 1: 23 Oct 2024 (see s. 2(1)(e))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -76,6 +77,7 @@ Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Environmental Protection Amendment Act 2020 s. 4(2), (4) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
+Environmental Protection Amendment Act 2024 (other than Pt. 1-3, Pt. 4 Div. 2 and 3, Pt. 5 and 6) | 36 of 2024 | 22 Oct 2024 | Pt. 4 Div. 1 Subdiv. 1 and Div. 4: to be proclaimed (see s. 2(1)(b) and (d)); Pt. 4 Div. 1 Subdiv. 2: operative immediately after Environmental Protection Amendment Act 2020 s. 60 comes into operation or when Pt. 4 Div. 1 Subdiv. 1 comes into operation, whichever is the earlier (see s. 2(1)(c) and (2))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -137,7 +139,8 @@ Defined termProvision(s)
 Account110A
 agreement to reserve51A
 amended EP Act133(1)
-amending Act129, 133A
+amending Act129, 133A, 133Q
+amendment day133T(1), 133U(1), 133V(1), 133W(1)
 analysis3(1)
 analyst3(1)
 appeals committee3(1)
@@ -150,7 +153,7 @@ area51DA(4)
 area permit51A, 51E(7)
 assessed proposal44A
 assessed scheme3(1)
-assessment report44(1)
+assessment report43A(1)
 authorisation50D(1), 68A(1), 86A, Sch. 2
 authorised person3(1)
 Authority3(1)
@@ -171,7 +174,7 @@ clearing matter51O(1)
 clearing permit3(1)
 clearing principles51A
 closure notice3(1), 68A(2)
-commencement133C(1), 133D(1), 133E, 133M(2), (3), (5) and (7), 133N(1)
+commencement133C(1), 133D(1), 133E, 133M(2), 133M(2), 133M(3), 133M(5), 133M(7), 133N(1)
 commencement condition47A(2)
 Commissioner51D(1)
 committee of inquiry3(1)
@@ -208,6 +211,7 @@ draft policy3(1), 31
 driver3(1)
 ecological community3(1)
 ecosystem health condition3(1)
+effective day21A
 emission3(1)
 environment3(1)
 environmental harm3(1), 3A(2)
@@ -220,8 +224,11 @@ environmental value3(1)
 equipment3(1)
 establish51I(4)
 existing Act133E
+existing appeal133W(1)
 existing application133C(1), 133D(1), 133H(1), 133I(1), 133J(1)
 existing authorisation61(3)
+existing Authority member133T(1)
+expectation statement21A
 faunaSch. 5 cl. 2
 feeSch. 2
 final approval3(1)
@@ -238,7 +245,7 @@ image116B(1)
 image data source116B(1)
 implementation agreement or decision44A
 implementation conditions3(1), 44A, 48EA
-implementation issue44A, 48EA
+implementation issue44(4), 48EA
 improper conduct51S(1)
 improvement scheme3(1)
 industrial plant3(1)
@@ -248,7 +255,7 @@ interest51N(1)
 involvement in a contravention51S(1)
 key decision44A
 levy110A
-licence3(1), 133G(1), 133J(1)
+licence3(1), 133G(1), 133J(1), 138
 licensee3(1)
 local planning scheme3(1)
 making authority44A
@@ -298,27 +305,30 @@ proposal of a prescribed class37B(1)
 proposal under an assessed scheme3(1)
 proposed action51M(2)
 proposed amendment51KB(1)
-proposed change133M(3) and (5)
+proposed change133M(3), 133M(5)
 protection3(1)
-publication day133O(1)
+publication day133O(1), 133S(1)
 public authority3(1)
 public place3(1)
 public review48C(7)
 publish122B(1)
 purpose permit51A, 51E(8)
-recorded100(1a)
 referral133M(1)
 referred proposal3(1)
 referrer51DA(2)
 region planning scheme3(1)
 Registrar of Deeds and Transfers3(1)
 Registrar of Titles3(1)
+regulation 5DA(3)138
+regulation 5DA(5)138
 regulations3(1), 133B(1)
 relevant ActSch. 4
 relevant day61(2)
+relevant licence141(1)
 relevant NEPM72(5)
-relevant premises55(1), 68A(1)
+relevant premises55(1), 68A(1), 141(1)
 relevant scheme48AAA(1)
+relevant time141(1)
 remotely sensed image116B(1)
 repealed Act3(1)
 required action70(4A)
@@ -340,12 +350,12 @@ significant proposal37B(1)
 SLC Act51A
 soil conservation notice51A
 specified6(10), 45A(2), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6),
-133O(1), Sch. 2
+133O(1), 133S(1), Sch. 2
 specified decision133L(1)
 State entity124A
 State planning policy3(1)
 strategic assessment38E(1)
-strategic proposal37B(1) and (2)
+strategic proposal37B(1), 37B(2)
 subdivision3(2a)
 subject land45A(2)
 submit122B(1)
@@ -358,11 +368,13 @@ Tier 1 offence3(1)
 Tier 2 offence3(1)
 Tier 3 offence3(1)
 trade3(1)
-transitional matter133O(1)
+transitional matter133O(1), 133S(1)
+transitional regulations133Q
 unlawful clearing70(1)
 unreasonable emission49(1)
 unreasonable noise3(1)
 validated thing136(4)
+validation day138
 vegetation conservation notice3(1), 70(2)
 vehicle3(1)
 vessel3(1)
@@ -370,7 +382,7 @@ waste3(1)
 watercourse70(1), Sch. 5 cl. 2
 waters3(1)
 Western Australian Planning Commission3(1)
-wetland70(1), Sch. 5 cl. 1
+wetland70(1), Sch. 5 cl. 2
 works approval3(1), 133F(1), 133I(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
