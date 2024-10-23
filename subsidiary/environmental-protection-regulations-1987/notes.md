@@ -91,6 +91,7 @@ Environmental Protection Amendment Regulations (No. 2) 2023 | SL 2023/142 6 Sep 
 Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 4 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 Environmental Protection Amendment Regulations 2024 | SL 2024/4 24 Jan 2024 | r. 1 and 2: 24 Jan 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2024 (see r. 2(b))
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2024 Pt. 3 | SL 2024/86 29 May 2024 | 1 Jun 2024 (see r. 2(b))
+Environmental Protection Amendment Act 2024 Pt. 6 Div. 2 assented to on 22 Oct 2024 | 23 Oct 2024 (see s. 2(1)(e))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
@@ -142,7 +143,7 @@ licence4(1)
 licence period4(1)
 licensed landfill21(1)
 licensed premises11(1)
-licensee21(1), 24(1), 27(1)
+licensee21(1), 24(1), 28(1)
 lot16A
 mercury5P
 mercury-added product5P
@@ -177,6 +178,7 @@ threatened species3D(1)
 tyre11(1)
 Tyre Landfill Exclusion Zone11(1)
 tyre retailer11(1)
+validation day5DA(8)
 vessel16(4)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
