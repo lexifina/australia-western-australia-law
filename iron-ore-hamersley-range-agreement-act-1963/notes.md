@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Iron Ore (Hamersley Range) Agreement Act 1963 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Iron Ore (Hamersley Range) Agreement Act 1963 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Iron Ore (Hamersley Range) Agreement Act 1963 | 24 of 1963 (12 Eliz. II No. 24) | 13 Nov 1963 | 13 Nov 1963
@@ -21,9 +21,11 @@ Iron Ore Agreements Legislation Amendment Act (No. 2) 2010 Pt. 2 | 61 of 2010 | 
 Iron Ore Agreements Legislation Amendment Act 2011 Pt. 2 | 61 of 2011 | 14 Dec 2011 | 15 Dec 2011 (see s. 2(b))
 Reprint 3: The Iron Ore (Hamersley Range) Agreement Act 1963 as at 17 Jan 2014 (includes amendments listed above)
 Iron Ore (Channar Joint Venture) (Hamersley Range) Agreements Amendment Act 2017 Pt. 3 | 13 of 2017 | 5 Dec 2017 | 6 Dec 2017 (see s. 2(b))
+Iron Ore Agreements Legislation Amendment Act 2024 Pt. 3 | 38 of 2024 | 29 Oct 2024 | 30 Oct 2024 (see s. 2(b))
+Other notes
 Repealed by the Mining Act 1978.
 Repealed by the Interpretation Act 1984.
-Marginal notes in the agreement have been represented as headnotes in this reprint but that does not change their status as marginal notes.
+Marginal notes in the agreement have been represented as headnotes in this compilation but that does not change their status as marginal notes.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -38,9 +40,15 @@ Fourteenth Supplementary Agreement2
 Fourth Supplementary Agreement2
 Ninth Supplementary Agreement2
 Second Supplementary Agreement2, 4B(1)
+Seventeenth Supplementary Agreement2
 Seventh Supplementary Agreement2
+Sixteenth Supplementary Agreement2
 Sixth Supplementary Agreement2
 Tenth Supplementary Agreement2
 Third Supplementary Agreement2
 Thirteenth Supplementary Agreement2
 Twelfth Supplementary Agreement2
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
