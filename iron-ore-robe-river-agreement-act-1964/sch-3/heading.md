@@ -7,10 +7,10 @@ WHEREAS:
 (b)By virtue of various agreements under seal Cliffs became entitled to all the right title interest claim and demand whatsoever of Basic in and under the Agreement and by virtue of deed of covenant with the State assumed the obligations of Basic thereunder.
 (c)By an agreement dated the 12th day of May, 1970 made between the State of the one part and Cliffs of the other part which is scheduled to the Iron Ore (Cleveland-Cliffs) Agreement Act Amendment Act 1970 (hereinafter called “the first variation agreement”) the parties thereto varied the agreement as therein set out for the purposes set out in the recitals thereto. Under the provisions of the said Act and in the events which happened the first variation agreement was approved thereby on and from the 30th day of December, 1970.
 (d)By deed dated the 29th day of June, 1970 made between the State, Cliffs and the Participants, Cliffs granted and assigned to the Participants all the right title interest claim and demand of the “Company” (as defined in the Agreement) in and under the Agreement (as then or thereafter altered from time to time) except the rights of occupancy referred to therein of the mining areas therein defined and the rights to obtain mineral leases thereof as tenants in common in the following shares:
-Cliffs Western Australian Mining Co. Pty. Ltd .... | 30%
-Mitsui Iron Ore Development Pty.Ltd. ................. | 30%
-Robe River Limited .............................................. | 35%
-Mt. Enid Iron Co. Pty. Ltd. ................................... | 5%
+Cliffs Western Australian Mining Co. Pty. Ltd.... | 30%
+Mitsui Iron Ore Development Pty.Ltd.................. | 30%
+Robe River Limited.............................................. | 35%
+Mt. Enid Iron Co. Pty. Ltd.................................... | 5%
 By the said deed the Participants severally covenanted and agreed with the State that such Participant should to the extent of its commitment therein set out comply with, observe and perform the provisions of the Agreement (as then or thereafter amended) on the part of Cliffs to be complied with observed or performed in respect of the matters assigned as therein set forth to the intent that the same should be binding upon the Participants (to the extent of the commitment therein set out) in the same manner and to the same extent as if the Participants were expressly named in the Agreement.
 (e)The parties desire to add to and amend the provisions of the Agreement as amended and added to by the first variation agreement (hereinafter referred to as “the Principal Agreement”).
 NOW THIS AGREEMENT WITNESSETH:
