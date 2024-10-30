@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Towing Services Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Towing Services Act 2024 Pt. 1 | 37 of 2024 | 29 Oct 2024 | 29 Oct 2024 (see s. 2(a))
+Towing Services Act 2024 Pt. 1 and 4 (but only s. 68) | 37 of 2024 | 29 Oct 2024 | Pt. 1: 29 Oct 2024 (see s. 2(a)); Pt. 4 (but only s. 68): 30 Oct 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Towing Services Act 2024 (other than Pt. 1) | 37 of 2024 | 29 Oct 2024 | Pt. 4 (but only s. 68): 30 Oct 2024 (see s. 2(b)); Pt. 2 and 3, s. 69 and Pt. 5-11: to be proclaimed (see s. 2(c))
+Towing Services Act 2024 (other than Pt. 1 and s. 68) | 37 of 2024 | 29 Oct 2024 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -25,6 +25,7 @@ close associate4
 Commissioner of Main Roads4
 Commissioner of Police4
 conviction4
+crash or breakdown information68(1)
 crash towing4, 6(3)
 Crash towing6(2)
 criminal record check4
@@ -57,12 +58,14 @@ towing business4
 towing business authorisation4
 towing charge4
 towing industry authorisation4
+towing procurement purpose68(1)
 towing service provider4
 towing worker4
 towing worker authorisation4
 towing worker authorisation document4
 tow truck4
 traffic record check4
+valuable thing68(1)
 vehicle4
 vehicle crash4, 6(1)
 © State of Western Australia 2024.
