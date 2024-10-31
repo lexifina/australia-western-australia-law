@@ -13,6 +13,8 @@ Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 6 | SL 2022
 Medicines and Poisons Amendment Regulations 2023 | SL 2023/3 27 Jan 2023 | r. 1 and 2: 27 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2023 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Medicines and Poisons Amendment Regulations (No. 3) 2024 | SL 2024/218 30 Oct 2024 | r. 1 and 2: 30 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2024 (see r. 2(b))
+Medicines and Poisons Amendment Regulations (No. 2) 2024 | SL 2024/224 30 Oct 2024 | r. 1 and 2: 30 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -30,16 +32,17 @@ approved alternative storage arrangement94
 approved electronic prescribing system3(1)
 approved form3(1)
 approved needle and syringe programme3(1)
+approved recipient148E(2)
 approved system142(1)
-AS/NZS 3809:199894
 ASGS39A(1)
+AS/NZS 3809:199894
 Australian Register of Therapeutic Goods89(1)
 authorised person144(1), 147(1)
 cannabis-based product114
 cannabis-based product co-prescriber119
 cannabis-based product prescriber119
-clinic prescriber125
 clinical governance committee34(1)
+clinic prescriber125
 commencement day149
 co-prescriber133
 current cannabis-based product prescriber119
@@ -62,8 +65,8 @@ endorsed midwife37
 endorsed optometrist37
 endorsed podiatrist37
 enrolled nurse37
-exempt substance3(1)
 exemption152(1)
+exempt substance3(1)
 existing approval154
 existing authority155
 existing direction153
@@ -74,8 +77,9 @@ health organisation37
 health service permit37
 hospital3(1)
 inappropriate use22(1)
+included in the Register6A(1)
 large safe94
-legally imported amygdalin9(1)
+legally imported amygdalin8(1)
 listed name89(1)
 livestock export standard49(1)
 medic37
@@ -90,6 +94,7 @@ opioid pharmacotherapy prescriber133
 optometrist37
 Optometry guidelines59(1)
 oral health therapist37
+oromucosal administration6A(1)
 paramedic37
 patient15(1), 16A(1), 64(4)
 patient in a hospital3(1)
@@ -102,7 +107,6 @@ pharmacy intern88(1)
 pharmacy technician88(1)
 podiatrist37
 prescribing code114
-Prescribing Formulary57(1)
 private hospital3(1)
 public health programme3(1)
 public health service3(1)
@@ -123,8 +127,9 @@ repeat form24(1) and (2)
 residential care chart3(1)
 residential care facility3(1)
 responsible person76(1)
-restricted Schedule 3 poison3(1)
+restricted Schedule 3 poison2(1)
 Schedule 2 retail licence86(1)
+Schedule 6 nitrous oxide148D
 section3(1)
 secure cabinet94
 small safe94
@@ -138,7 +143,9 @@ stimulant prescriber125
 strongroom94
 structured administration and supply arrangement3(1)
 supply37
-system identifier18(1), 147(1)
+system identifier18(1), 146(1)
+therapeutic use6A(1)
+transdermal administration6A(1)
 unauthorised person22(1)
 vessel37
 veterinary nurse37
