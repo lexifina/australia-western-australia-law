@@ -14,10 +14,11 @@ Licensed Surveyors (Licensing and Registration) Amendment Regulations 2014 | 15 
 Reprint 2: The Licensed Surveyors (Licensing and Registration) Regulations 1990 as at 14 Nov 2014 (includes amendments listed above)
 Licensed Surveyors (Licensing and Registration) Amendment Regulations 2017 | 23 Jun 2017 p. 3179-80 | r. 1 and 2: 23 Jun 2017 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2017 (see r. 2(b))
 Licensed Surveyors (Licensing and Registration) Amendment Regulations 2023 | SL 2023/149 22 Sep 2023 | r. 1 and 2: 22 Sep 2023 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Oct 2023 (see r. 2(b))
+Licensed Surveyors (Licensing and Registration) Amendment Regulations 2024 (other than r. 11) | SL 2024/216 18 Oct 2024 | r. 1 and 2: 18 Oct 2024 (see r. 2(a)); Regulations other than r. 1, 2 and 11: 1 Nov 2024 (see r. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Licensed Surveyors (Licensing and Registration) Amendment Regulations 2024 r. 3-15 | SL 2024/216 18 Oct 2024 | r. 3-10 and 12-15: 1 Nov 2024 (see r. 2(c)); r. 11: 1 Jan 2025 (see r. 2(b))
+Licensed Surveyors (Licensing and Registration) Amendment Regulations 2024 r. 11 | SL 2024/216 18 Oct 2024 | 1 Jan 2025 (see r. 2(b))
 Other notes
 Published in the Government Gazette 31 October 1952 at p. 2647-55.
 Now 1 Midland Square, Midland 6056.
@@ -27,6 +28,8 @@ Defined terms
 Defined termProvision(s)
 certificate18E(2)
 commencement day21(2)
+complying policy18F, 18G(1)
+employer18H(1)
 Form3
 professional training agreement3
 repealed regulations21(2)

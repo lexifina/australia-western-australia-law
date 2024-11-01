@@ -30,7 +30,7 @@ WESTERN AUSTRALIA
 LICENSED SURVEYORS ACT 1909
 CERTIFICATE OF COMPETENCY IN SURVEYING
 No. .........................
-We, the Land Surveyors’ Licensing Board of Western Australia appointed for the examination of candidates for certificates as surveyors under the Licensed Surveyors Act 1909, certify that has passed all the examinations and fulfilled all the conditions prescribed.
+We, the Land Surveyors’ Licensing Board of Western Australia appointed for the examination of candidates for certificates as surveyors under the Licensed Surveyors Act 1909, certify that .................................... has passed all the examinations and fulfilled all the conditions prescribed.
 Dated this .................................... day of .............................................. 20............
 .....................................................................
 Chairman.
@@ -41,6 +41,7 @@ Secretary.
 .....................................................................
 Members of the Board.
 Office of the Land Surveyors’ Licensing Board, Perth.
+[Form 2 amended: SL 2024/216 r. 15.]
 FORM 3
 WESTERN AUSTRALIA
 LICENSED SURVEYORS ACT 1909
