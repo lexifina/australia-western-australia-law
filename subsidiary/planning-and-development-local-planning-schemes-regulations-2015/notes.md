@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Regulations 2015 | 25 Aug 2015 p. 3401-595 | r. 1 and 2: 25 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Oct 2015 (see r. 2(b))
@@ -8,14 +8,10 @@ Planning and Development (Local Planning Schemes) Amendment Regulations 2020 | S
 Planning and Development (Local Planning Schemes) Amendment Regulations (No. 2) 2019 | 31 Dec 2019 p. 4655-6 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Planning Regulations Amendment Regulations 2020 Pt. 2 | SL 2020/252 18 Dec 2020 | Pt. 2 (other than Div. 3): 15 Feb 2021 (see r. 2(c)); Pt. 2 Div. 3: 1 Jul 2021 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment Regulations 2021 | SL 2021/77 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
-Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 (other than Pt. 3) | SL 2022/178 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 | SL 2022/178 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2); Pt. 3: 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Planning and Development (Local Planning Schemes) Amendment Regulations 2024 | SL 2024/25 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2024 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment (Single House Development) Regulations 2024 | SL 2024/68 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment (Short-Term Rental Accommodation) Regulations 2024 | SL 2024/194 18 Sep 2024 | r. 1 and 2: 18 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 2022 Pt. 3 | SL 2022/178 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
