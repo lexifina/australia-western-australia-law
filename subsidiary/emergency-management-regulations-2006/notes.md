@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Emergency Management Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Emergency Management Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Emergency Management Regulations 2006 | 21 Apr 2006 p. 1582-4 | 21 Apr 2006
@@ -22,11 +22,7 @@ Reprint 3: The Emergency Management Regulations 2006 as at 7 Mar 2014 (includes 
 Emergency Management Amendment Regulations 2020 | SL 2020/24 27 Mar 2020 | r. 1 and 2: 27 Mar 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2020 (see r. 2(b))
 Emergency Management Amendment Regulations (No. 2) 2020 | SL 2020/31 3 Apr 2020 | r. 1 and 2: 3 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2020 (see r. 2(b))
 Emergency Management Amendment Regulations (No. 3) 2020 | SL 2020/165 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
-Emergency Management Amendment Regulations (No. 2) 2022 (other than Pt. 3) | SL 2022/176 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b)) and SL 2022/175 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Emergency Management Amendment Regulations (No. 2) 2022 Pt. 3 | SL 2022/176 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
+Emergency Management Amendment Regulations (No. 2) 2022 | SL 2022/176 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2) Pt. 3: 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -46,3 +42,7 @@ State waters14
 Transport Department1A
 vessel14
 weapon14
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
