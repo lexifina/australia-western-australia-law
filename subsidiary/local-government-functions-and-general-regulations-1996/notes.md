@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Functions and General) Regulations 1996 | 24 Jun 1996 p. 2771-97 | 1 Jul 1996 (see r. 2)
@@ -29,13 +29,9 @@ Local Government Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/35 9 Apr
 Local Government (Functions and General) Amendment Regulations 2020 | SL 2020/55 8 May 2020 | r. 1 and 2: 8 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2020 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 8 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Local Government (Functions and General) Amendment Regulations 2021 | SL 2021/75 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
-Local Government Regulations Amendment Regulations 2022 Pt. 4 (other than Div. 3) | SL 2022/177 2 Nov 2022 | 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Local Government Regulations Amendment Regulations 2022 Pt. 4 | SL 2022/177 2 Nov 2022 | Pt. 4 (other than Div. 3): 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2); Pt. 4 Div. 3: 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Local Government (Functions and General) Amendment Regulations 2023 | SL 2023/47 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 20 May 2023 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 5 | SL 2023/102 30 Jun 2023 | 1 Jul 2024 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Local Government Regulations Amendment Regulations 2022 Pt. 4 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Other notes
 The Local Government Act 1995 came into operation on 1 July 1996.
 The Local Government (Functions and General) Amendment Regulations 2001 r. 11 is a transitional provision that is of no further effect.
@@ -46,7 +42,6 @@ acquire3A(4)
 application24AH(1)
 contract3A(4)
 contracts12(1)
-COVID-19 declaration11(1A)
 dispose3A(4)
 former draft model by-law38(4)
 former section6(4)

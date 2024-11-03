@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Administration) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Local Government (Administration) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Administration) Regulations 1996 | 24 Jun 1996 p. 2799-826 | 1 Jul 1996 (see r. 2)
@@ -30,15 +30,11 @@ Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 5 | SL 2020/
 Local Government (Administration) Amendment Regulations 2021 | SL 2021/14 2 Feb 2021 | r. 1 and 2: 2 Feb 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Local Government (Model Code of Conduct) Regulations 2021 r. 5 | SL 2021/15 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Local Government Amendment (Employee Code of Conduct) Regulations 2021 Pt. 2 | SL 2021/16 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
-Local Government Regulations Amendment Regulations 2022 Pt. 2 (other than Div. 3) | SL 2022/177 2 Nov 2022 | 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Local Government Regulations Amendment Regulations 2022 Pt. 2 | SL 2022/177 2 Nov 2022 | Pt. 2 (other than Div. 3): 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2) Pt. 2 Div. 3: 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Local Government (Administration) Amendment Regulations 2022 | SL 2022/185 8 Nov 2022 | r. 1 and 2: 8 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Nov 2022 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 2 | SL 2023/102 30 Jun 2023 | Pt. 2 other than r. 7: 1 Jul 2023 (see r. 2(d)); r. 7: 1 Jan 2024 (see r. 2(b))
 Local Government Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/106 30 Jun 2023 | 1 Jul 2023 (see r. 2(c))
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 2 | SL 2023/158 18 Oct 2023 | Pt. 2 Div. 1: 19 Oct 2023 (see r. 2(c)); Pt. 2 Div. 2: 1 Jan 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Local Government Regulations Amendment Regulations 2022 Pt. 2 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Other notes
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.

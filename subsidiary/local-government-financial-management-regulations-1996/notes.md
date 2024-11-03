@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Financial Management) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Local Government (Financial Management) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Financial Management) Regulations 1996 | 24 Jun 1996 p. 2681-750 | 1 Jul 1996 (see r. 2)
@@ -28,13 +28,9 @@ Local Government Regulations Amendment Regulations 2020 Pt. 2 | SL 2020/35 9 Apr
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 7 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Local Government (Financial Management) Amendment Regulations 2020 | SL 2020/219 6 Nov 2020 | r. 1 and 2: 6 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2020 (see r. 2(b))
 Local Government Regulations Amendment (Financial Management and Audit) Regulations 2022 Pt. 3 | SL 2022/88 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
-Local Government Regulations Amendment Regulations 2022 Pt. 3 (other than Div. 3) | SL 2022/177 2 Nov 2022 | 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Local Government Regulations Amendment Regulations 2022 Pt. 3 | SL 2022/177 2 Nov 2022 | Pt. 3 (other than Div. 3): 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2); Pt. 3 Div. 3: 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Local Government Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/106 30 Jun 2023 | Pt. 2 (other than r. 6): 1 Jul 2023 (see r. 2(c)); r. 6: 1 Sep 2023 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 5 | SL 2023/158 18 Oct 2023 | 19 Oct 2023 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Local Government Regulations Amendment Regulations 2022 Pt. 3 Div. 3 | SL 2022/177 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -76,7 +72,7 @@ rate3(1)
 re-finance20(1)
 relevant district52A(1)
 relevant month34(1)
-reportable value17A(1), (4)
+reportable value17A(1) and (4)
 right-of-use17A(1)
 section3(1)
 statement of financial activity3(1)
@@ -85,7 +81,7 @@ state of emergency declaration3(1)
 the due date71(1)
 unpaid rate66(5)
 vested improvement17A(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
