@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Taxation Administration Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of non-reviewable decision in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137); s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59: 2 Mar 2009 (see s. 2 and Gazette 24 Feb 2009 p. 385)
@@ -34,11 +34,7 @@ Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 4 | 37 of 2018 | 12 Dec 201
 Taxation Administration Amendment Act 2019 Pt. 2 | 11 of 2019 | 12 Jun 2019 | 13 Jun 2019 (see s. 2(b))
 Finance Legislation Amendment (Emergency Relief) Act 2022 Pt. 2 | 1 of 2022 | 21 Feb 2022 | 22 Feb 2022 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
-Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 2 Div. 2 Subdiv. 6 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 Pt. 3 Div. 4 | 33 of 2022 | 21 Oct 2022 | 3 Nov 2024 (see s. 2 (c) and SL 2022/175 cl. 2)
+Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 | 33 of 2022 | 21 Oct 2022 | Pt. 2 Div. 2 Subdiv. 6: 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2); Pt. 3 Div. 4: 3 Nov 2024 (see s. 2(c) and SL 2022/175 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 1.
 If a modification is to:
@@ -86,7 +82,7 @@ assessment noticeGl. cl. 1
 before129(2)
 beneficial body determinationGl. cl. 1
 chargeGl. cl. 1
-commencement day135F(1), 137(1), 138(1)
+commencement day136(1), 137(1), 138(1), 139(1)
 CommissionerGl. cl. 1
 Commissioner’s websiteGl. cl. 1
 completeGl. cl. 1
@@ -102,7 +98,7 @@ dishonoured76A(3)
 documentGl. cl. 1
 due dateGl. cl. 1
 eligible person135E(1)
-emergency declaration135A
+emergency declaration135A(1)
 emergency period135A(6)
 endorseGl. cl. 1
 garnishee65(1), Gl. cl. 1
@@ -164,3 +160,7 @@ transfer duty77A(1)
 transfer duty interim assessment77A(1)
 unaffected amount133(2)
 vehicleGl. cl. 1
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
