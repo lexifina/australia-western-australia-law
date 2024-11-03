@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Authorisation to Drive) Regulations 2014 | 23 Dec 2014 p. 5011-101 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -30,15 +30,11 @@ Transport Regulations Amendment (Electric Rideable Devices) Regulations 2021 Pt.
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 4 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2022 | SL 2022/147 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2022 | SL 2022/148 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
-Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2022 (other than Pt. 3) | SL 2022/179 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2)
+Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2022 | SL 2022/179 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2); Pt. 3: 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Transport Regulations Amendment (Fee Waiver and Refund) Regulations 2022 Pt. 2 | SL 2022/181 4 Nov 2022 | 5 Nov 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Identity Matching Services) Regulations 2023 Pt. 3 | SL 2023/166 1 Nov 2023 | 2 Nov 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2022 Pt. 3 | SL 2022/179 2 Nov 2022 | 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
