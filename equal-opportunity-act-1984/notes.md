@@ -56,6 +56,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 7 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
+Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 1 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Other notes
 Footnote no longer required.
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 (Cwlth) (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 (Cwlth).
