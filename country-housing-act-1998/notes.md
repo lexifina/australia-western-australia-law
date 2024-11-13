@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 May 2011 of the Country Housing Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Housing Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country Housing Act 1998 | 4 of 1998 | 14 Apr 1998 | s. 1 and 2: 14 Apr 1998; Act other than s. 1 and 2: 1 Jul 1998 (see s. 2 and Gazette 30 Jun 1998 p. 3557)
@@ -20,6 +20,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 37
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Country Housing Act 1998 as at 13 May 2011 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Keystart Act 2024 Pt. 6 | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
+Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e) from this reprint.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Treasury Department is read and construed as a reference to the Department of Treasury and Finance.
 Repealed by the Industry and Technology Development Act 1998.
@@ -63,3 +68,7 @@ State Housing CommissionSch. 2 cl. 3
 State taxSch. 2 cl. 16(1)
 town3
 WALGA5(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
