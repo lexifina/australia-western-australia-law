@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Long Service Leave Act 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Long Service Leave Act 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Long Service Leave Act 1958 | 44 of 1958 (7 Eliz. II No. 44) | 12 Dec 1958 | 24 Dec 1958 (see s. 2 and Gazette 24 Dec 1958 p. 3371)
@@ -22,6 +22,10 @@ Training Legislation Amendment and Repeal Act 2008 s. 54 | 44 of 2008 | 10 Dec 2
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Industrial Relations Legislation Amendment Act 2021 Pt. 4 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and SL 2022/79 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 3 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Other notes
 The Industrial Relations Legislation Amendment and Repeal Act 1995 Pt. 8 Div. 2 are savings and transitional provisions that are of no further effect.
 The Labour Relations Legislation Amendment Act 2006 Pt. 7 Div. 3 reads as follows:
@@ -78,3 +82,7 @@ transfer of business7D, 7E
 transferring employee7D, 7F
 transferring work7D, 7E
 WA LSL4A(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
