@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the University of Notre Dame Australia Act 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the University of Notre Dame Australia Act 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 University of Notre Dame Australia Act 1989 | 49 of 1989 | 9 Jan 1990 | 26 Jan 1990 (see s. 2 and Gazette 26 Jan 1990 p. 657)
@@ -15,6 +15,11 @@ Reprint 2: The University of Notre Dame Australia Act 1989 as at 3 Feb 2006 (inc
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 16 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Universities Legislation Amendment Act 2016 Pt. 5 | 32 of 2016 | 19 Oct 2016 | 2 Jan 2017 (see s. 2(b) and Gazette 9 Dec 2016 p. 5557)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Industrial Relations Legislation Amendment Act 2024 s. 159 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
+Other notes
 The Voluntary Membership of Student Guilds and Associations Act 1994 s. 2(2), (3) and (4) are transitional provisions that are of no further effect.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
 “
@@ -73,3 +78,7 @@ this Act3
 Trustees3
 University3
 Vice-Chancellor3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
