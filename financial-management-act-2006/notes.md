@@ -50,6 +50,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 149 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
+Keystart Act 2024 Pt. 8 Div. 2 | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
 Other notes
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
