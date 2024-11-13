@@ -104,6 +104,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Industrial Relations Legislation Amendment Act 2024 Pt. 2 | 43 of 2024 | 13 Nov 2024 | Pt. 2 (other than Div. 3): 31 Jan 2025 (see s. 2(c)); Pt. 2 Div. 3: to be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 (Cwlth). Now see the Fisheries Management Act 1991 s. 4(1) (Cwlth).
@@ -389,3 +390,7 @@ wage assessment tool7(1)
 WA Police51BF
 Westrail Enterprise Bargaining Agreement80R(2b)
 worker7(2), 51BF, 51BH(1) and (3)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
