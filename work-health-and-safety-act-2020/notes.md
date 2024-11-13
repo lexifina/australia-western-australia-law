@@ -8,6 +8,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 15 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Industrial Relations Legislation Amendment Act 2024 s. 160 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Other notes
 The Industrial Relations Legislation Amendment Act 2021 Pt. 7 Div. 1 Subdiv. 2 was deleted when s. 5(2) of that Act came into operation (see Pt. 7 Div. 2 and SL 2022/18 cl. 2).
 Defined terms
