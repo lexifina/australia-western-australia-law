@@ -30,11 +30,12 @@ Reprint 4: The Retirement Villages Act 1992 as at 5 Jul 2013 (includes amendment
 Strata Titles Amendment Act 2018 Pt. 3 Div. 19 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 19 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 54 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Retirement Villages Amendment Act 2024 | 42 of 2024 | 13 Nov 2024 | Pt. 1: 13 Nov 2024 (see s. 2(a)); Pt. 2 Div. 2: 14 Nov 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Retirement Villages Amendment Act 2012 s. 4(4) | 36 of 2012 | 5 Nov 2012 | To be proclaimed (see s. 2(b))
+Retirement Villages Amendment Act 2024 Pt. 2 Div. 1 | 42 of 2024 | 13 Nov 2024 | Pt. 2 Div. 1 (other than s. 7 and 28): 1 Sep 2026 (see s. 2(c) and SL 2026/172 cl. 2); s. 7 and 28: to be proclaimed (see s. 2(c))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 45 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -47,16 +48,17 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (b) the matter is to be dealt with by the Tribunal as if the Retirement Villages Act 1992 section 47 in force immediately before the commencement day continued to apply and a reference in that section to the Tribunal were a reference to the State Administrative Tribunal.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) had not come into operation. The section that it seeks to amend has been deleted.
+The Retirement Villages Amendment Act 2012 s. 4(4) was repealed by the Statutes (Repeals and Minor Amendments) Act 2025 s. 3(h).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-administering body3(1)
-amending ActSch. 1 cl. 5(1)
+amending ActSch. 1 cl. 5(1) and 6
 appointed75F(1)
+approved form3(1)
 assets75A
 code3(1)
 commencement dateSch. 1 cl. 3(2)
-commencement daySch. 1 cl. 4(1), Sch. 1 cl. 5(1)
+commencement daySch. 1 cl. 4(1) and 5(1)
 Commissioner3(1)
 Department3(1)
 executive officer7A(3)
@@ -64,15 +66,17 @@ external administration75G(1)
 external administrator75G(1)
 former resident23(1), 24(1)
 functions75A
-Gazettal daySch. 1 cl. 5(1)
+Gazettal daySch. 1 cl. 4(1)
 information11A(3)
-levy3(1)
-officer79(2)
+inserted provisionSch. 1 cl. 9(1)
+levy2(1)
 operative daySch. 1 cl. 5(5)
+operator3(1)
 other persons75D(1)
 owner3(1), 13(7)
 premium3(1)
 property75A
+publication daySch. 1 cl. 7(1)
 records75H(1)
 recurrent charge3(1)
 recurrent charges23(1), 24(1)
@@ -88,12 +92,17 @@ residential tenancy agreement3(1)
 retired person3(1)
 retirement village3(1)
 retirement village scheme3(1)
-scheme3(1)
 service19(7)
 service contract3(1)
 special resolution57A(3)
+specifiedSch. 1 cl. 7(1)
 statutory manager11(1), 75A
 successor in title17(3)
-transitional matterSch. 1 cl. 5(1)
-transitional regulationsSch. 1 cl. 5(1)
+transitional matterSch. 1 cl. 5(1) and 7(1)
+transitional regulationsSch. 1 cl. 5(1) and 7(1)
+Tribunal3(1)
 working day3(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
