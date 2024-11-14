@@ -10,6 +10,7 @@ Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 2 | SL
 Work Health and Safety (General) Amendment Regulations 2024 | SL 2024/95 12 Jun 2024 | r. 1 and 2: 12 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/135 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Work Health and Safety (General) Amendment Regulations (No. 2) 2024 | SL 2024/139 26 Jun 2024 | Pt. 1: 26 Jun 2024 (see r. 2(a)); Regulations other than Pt. 1 and 3: 27 Jun 2024 (see r. 2(c)); Pt. 3: 1 Sep 2024 (see r. 2(b))
+Work Health and Safety (General) Amendment Regulations (No. 4) 2024 | SL 2024/227 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
