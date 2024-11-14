@@ -19,6 +19,7 @@ Vocational Education and Training (General) Amendment Regulations 2017 | 29 Dec 
 Reprint 2: The Vocational Education and Training (General) Regulations 2009 as at 16 Nov 2018 (includes amendments listed above)
 Vocational Education and Training (General) Amendment Regulations 2021 | SL 2021/156 10 Sep 2021 | r. 1 and 2: 10 Sep 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2021 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2024 | SL 2024/147 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2024 (see r. 2(b))
+Vocational Education and Training (General) Amendment Regulations (No. 2) 2024 | SL 2024/229 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Other notes
 Repealed by the Vocational Education and Training (Commonwealth Powers) Act 2010 Sch. 1 (NSW).
 Repealed by the Training and Skills Development Act 2016 (NT).
