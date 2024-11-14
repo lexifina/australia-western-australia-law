@@ -8,6 +8,7 @@ Work Health and Safety Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/22
 Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 3 | SL 2023/134 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
 Work Health and Safety (Mines) Regulations 2022 with editorial changes as at 26 Mar 2024
 Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 3 | SL 2024/135 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Work Health and Safety (Mines) Amendment Regulations (No. 2) 2024 | SL 2024/233 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
