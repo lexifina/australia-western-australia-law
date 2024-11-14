@@ -4,6 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Procurement Act 2020 | 24 of 2020 | 19 Jun 2020 | Pt. 1: 19 Jun 2020 (see s. 2(a)); Pt. 2-6 and 8, s. 52 and Pt. 10 Div. 4: 22 Jul 2020 (see s. 2(b) and SL 2020/122 cl. 2); Pt. 7, s. 40-51, s. 53 and 54 and Pt. 10 Div. 1-3 and 5-7: 1 Jun 2021 (see s. 2(b) and SL 2020/244 cl. 2)
 Building and Construction Industry (Security of Payment) Act 2021 Pt. 7 Div. 4 | 4 of 2021 | 25 Jun 2021 | 1 Aug 2022 (see s. 2(c) and SL 2022/78 cl. 2(2)(a)(vii))
+Keystart Act 2024 Pt. 8 Div. 4 | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -40,3 +41,7 @@ supplier4(1), 32
 this Part32
 transitional matter52(1)
 transition day40
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

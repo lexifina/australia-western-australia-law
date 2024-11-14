@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Government Trading Enterprises Act 2023. For provisions that have come into operation see the compilation table.
+This is a compilation of the Government Trading Enterprises Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Trading Enterprises Act 2023 | 13 of 2023 | 22 Jun 2023 | Pt. 1: 22 Jun 2023 (see s. 2(a)); Act other than Pt. 1: 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
+Keystart Act 2024 Pt. 8 Div. 3 | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -97,7 +98,7 @@ Treasurer’s GTE instructions142
 unable to act3(1)
 Under Treasurer74
 wholly-owned subsidiary117
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
