@@ -314,6 +314,7 @@ Soil and Land Conservation Amendment Act 2022 s. 20 | 19 of 2022 | 24 Jun 2022 |
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 25 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 1 | 24 of 2023 | 24 Oct 2023 | 21 Dec 2023 (see s. 2(b) and SL 2023/203 cl. 2(b))
 Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 1 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
+Keystart Act 2024 Pt. 8 Div. 1 (other than s. 59(2)) | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -321,6 +322,8 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 3 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
+Industrial Relations Legislation Amendment Act 2024 s. 156 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
+Keystart Act 2024 s. 59(2) | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
 Other notes
 Footnote no longer applicable.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
