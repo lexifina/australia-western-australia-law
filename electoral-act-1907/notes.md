@@ -107,6 +107,7 @@ Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 13 | 10 of 2023 | 13 Apr 2023 | Pt. 15 Div. 13 (other than s. 339(8) and (9)): 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2); s. 339(8) and (9): 1 Oct 2024 (see s. 339(7) and SL 2024/175 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 2 | 30 of 2023 | 11 Dec 2023 | s. 3 and 176-179: 12 Dec 2023 (see s. 2(b)); Pt. 2 (other than s. 3 and 176-179): 1 Jul 2024 (see s. 2(c))
 Electoral Amendment Act 2024 | 24 of 2024 | 27 Jun 2024 | 1 Jul 2024 (see s. 2(b))
+Electoral Amendment (Names of Registered Political Parties) Act 2024 | 46 of 2024 | 15 Nov 2024 | s. 1 and 2: 15 Nov 2024 (see s. 2(a)); Act other than s. 1 and 2: 16 Nov 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -149,6 +150,7 @@ acceptable action175R(1AA), 175SAA
 acceptable action period175SAA
 accountable person4(1)
 advertise75(1)
+affected party62J(6)
 affiliate fee175
 agent175
 amalgamated roll4(1), 76AD(1)
@@ -157,6 +159,7 @@ amending provisions215
 amendment period76AB(2)
 amount175
 amount change day218
+application abbreviation62J(1)
 application for continued registration217(1)
 application name62J(1)
 appropriate donor information175SAA
@@ -177,7 +180,7 @@ ballot paper156D(14), Sch. 1
 ballot paper packet146G(1)
 below-the-line square4(1)
 Breach or neglect of official duty180
-bribery182
+bribery181
 broadcast175
 business day4(1)
 campaign committee175
@@ -191,10 +194,11 @@ claim43(1)
 claim voter98
 close of nominations4(1)
 close of the roll4(1)
-commencement day43(1), 215, 218, 224
+commencement day43(1), 215, 218, 224, 235(1)
 Commissioners16A
 Commission website4(1)
 Commonwealth elector43(1)
+complies with the relevant name requirements238(1), 243(1)
 compulsory party levy175
 conjoint election4(1)
 consenting candidate156D(1)
@@ -217,6 +221,8 @@ district4(1)
 division175
 document149B
 donor175R(1AA), 175SAA
+earlier registered word241(1)
+earliest registered party241(2)
 early polling place4(1)
 early voting days4(1)
 elected member4(1)
@@ -261,7 +267,7 @@ Government Statistician16A
 group4(1)
 group claim80(1)
 group terminating event175LL, 175LT(1)
-higher reimbursement amount175, 175LB(1), 217(6)
+higher reimbursement amount175, 175LB(1), 218
 how-to-vote card4(1), 89A(1)
 identified error89F(2)
 illegal practices4(1), 187(1)
@@ -302,6 +308,7 @@ officer4(1)
 official agent4(1)
 official documents175SAA
 official paper4(1), 94A(2)
+ongoing application235(1)
 original election156A.
 original notice90A(1)
 parent body62C(4)
@@ -359,7 +366,9 @@ qualified person156A.
 received information35A(1)
 recipient175R(1)
 referendum4(1)
+registered abbreviation62J(1)
 registered how-to-vote card4(1)
+registered name62J(1)
 registered officer4(1)
 registered person175SW(1)
 registered political party4(1)
@@ -370,23 +379,29 @@ register of political parties4(1), 215
 Registrar of Births, Deaths and Marriages4(1)
 registration period89C(1)
 relevant action5B(11)
+relevant affected party62J(6A)
 relevant amount175AC(1)
 relevant ballot paper97I(1)
 relevant citizenship law4(1)
 relevant day16A, 17(2)
 relevant details175M(1)
 relevant district17(2)
-relevant election175O(2), 175Q(4), 221(1)
-relevant information62AB(1)
+relevant document238(4)
+relevant election175O(2), 175Q(4), 220(1)
+relevant information62AB(1), 238(4)
 relevant member220(2)
 relevant number4(1)
+relevant party242(2)
 relevant period88(1A), 191A(4)
 relevant place100K(1)
 relevant political entity175LM(2), 175R(1AA)
+relevant registered party241(1)
 relevant risk51B(1)
+relevant word237(2)
 replacement how-to-vote card89E(1)
 required information59(1)
 response date155AB
+response period237(3), 242(3)
 responsible person175
 returning officer4(1)
 roll4(1)
@@ -414,7 +429,7 @@ third-party general cap amount175
 third-party LC cap amount175
 tied candidates144(2), 145(3), Sch. 1
 transitional matter234(1)
-transmitted211A(1)
+transmitted211A(1), 247(1)
 unamended Act224
 undue influence184
 unlawful amount175SO(1)
@@ -426,6 +441,7 @@ vote record4(1), 101B(1)
 voting area4(1)
 voting day192(1)
 whole of State electorate4(1), 16C(1)
+word62J(1)
 writ4(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
