@@ -15,6 +15,7 @@ Transport (Road Passenger Services) Act 2018 Pt. 14 Div. 2 Subdiv. 5 | 26 of 201
 Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 3 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
 Transport Legislation Amendment (Identity Matching Services) Act 2022 Pt. 3 | 8 of 2022 | 14 Apr 2022 | 15 Apr 2022 (see s. 2(b))
 Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 5 | 15 of 2024 | 14 May 2024 | 7 Oct 2024 (see s. 2(b) and SL 2024/200 cl. 2)
+Road Traffic (Authorisation to Drive) Amendment (Driving Restrictions) Act 2024 | 45 of 2024 | 15 Nov 2024 | s. 1 and 2: 15 Nov 2024 (see s. 2(a)); Act other than s. 1 and 2: 16 Nov 2024 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -37,9 +38,9 @@ Australian driver licence3(1)
 Australian driver licensing authority3(1)
 authorised purpose11C(1)
 CEO (road passenger services)11G(1)
-commencement day64
+commencement day64, 71(1)
 current demerit points40(1)
-dealt with by infringement notice40(1), (1A)
+dealt with by infringement notice40(1) and (1A)
 demerit period55(1)
 demerit point action40(1)
 demerit point offence40(1)
@@ -57,7 +58,7 @@ Entity11J(1)
 excessive demerit points notice40(1)
 excessive demerit points (novice driver) notice40(1)
 external licensing authority3(1)
-extraordinary licence3(1)
+extraordinary licence3
 Face Matching Services11J(1)
 foreign law15(1)
 former demerit point registry jurisdiction58(1)
@@ -76,7 +77,7 @@ novice driver (type 2)40(1)
 police official11E(1)
 post-commencement demerit points50(1)
 prescribed person11C(1)
-provisional licence3(1)
+provisional licence2(1)
 related Act3(1)
 review date64A(1)
 RT Act64
@@ -84,6 +85,7 @@ section 51 election40(1)
 section 51 election period40(1)
 starting time55(2)
 unlicensed person18(1)
+vary3(1)
 WA driving authorisation43(3)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
