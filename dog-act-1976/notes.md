@@ -32,13 +32,15 @@ Local Government Legislation Amendment Act 2019 Pt. 4 Div. 5 | 16 of 2019 | 5 Ju
 Veterinary Practice Act 2021 s. 230 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Dog Amendment (Stop Puppy Farming) Act 2021 Pt. 2 Div. 1 and 2 and s. 44 | 29 of 2021 | 22 Dec 2021 | Pt. 2 Div. 1 and 2: 23 Dec 2021 (see s. 2(b)); s. 44: 27 Aug 2022 (see s. 2(e) and SL 2022/150 cl. 2)
 Dog Act 1976 with editorial changes as at 4 Oct 2024
+Dog Act 1976 with editorial changes as at 26 Nov 2024
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
 Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
 s. 7(3)(b)(i) | s. 26(1) | 4 Oct 2024
+s. 7(3)(b)(i) | s. 26(2) | 26 Nov 2024
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 5 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 TAB (Disposal) Act 2019 s. 148 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
@@ -59,7 +61,7 @@ The Dog Amendment Act 2013 s. 60 reads as follows:
 60.Review of Act
 (1) The Minister must carry out a review of the operation and effectiveness of this Act as soon as practicable after 1 January 2019.
 (2) The Minister must prepare a report based on the review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
-Formerly know as Royal Society for the Prevention of Cruelty to Animals (Inc.) of Western Australia.
+Formerly known as Royal Society for the Prevention of Cruelty to Animals (Inc.) of Western Australia.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
