@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Animal Welfare Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Animal Welfare Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Animal Welfare Act 2002 | 33 of 2002 | 15 Nov 2002 | s. 1 and 2: 15 Nov 2002; Act other than s. 1 and 2: 4 Apr 2003 (see s. 2 and Gazette 4 Apr 2003 p. 1023)
@@ -16,14 +16,21 @@ Reprint 2: The Animal Welfare Act 2002 as at 22 Feb 2019 (includes amendments li
 Veterinary Practice Act 2021 s. 226 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 2 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 3 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Animal Welfare Act 2002 with editorial changes as at 26 Nov 2024
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 5(1) | s. 26(2) | 26 Nov 2024
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 362 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 5 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 References in the Act to the Director General were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 1. The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 454 is a general transitional provision that applies to references to the Director General in other written laws.
+Formerly known as The Royal Society for the Prevention of Cruelty to Animals, Western Australia (Incorporated).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
