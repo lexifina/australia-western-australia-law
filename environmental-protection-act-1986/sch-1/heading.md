@@ -8,6 +8,7 @@
 Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — individual | Daily penalty
 1 | 6(7) | $250 000 | $50 000
+1A | 41A(1) | $125 000 | $25 000
 2 | 47(1) | $125 000 | $25 000
 2A | 47(5) | $500 000 | $100 000
 3 | 48(9) | $162 500 | $32 500
@@ -24,12 +25,13 @@ Item | Section | Penalty — individual | Daily penalty
 10 | 69(5) | $162 500 | $32 500
 11 | 71(5) | $250 000 | $50 000
 12 | 73A(6) | $250 000 | $50 000
-[Division 1 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(1), 66(1) and (2) and 115(1); No. 40 of 2020 s. 102.]
+[Division 1 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(1), 66(1) and (2) and 115(1); No. 40 of 2020 s. 102; No. 36 of 2024 s. 39(1).]
 ## Division 2 — Bodies corporate
 [Heading inserted: No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — body corporate | Daily penalty
 1 | 6(7) | $500 000 | $100 000
+1A | 41A(1) | $250 000 | $50 000
 2 | 47(1) | $250 000 | $50 000
 2A | 47(5) | $1 000 000 | $200 000
 3 | 48(9) | $325 000 | $65 000
@@ -46,14 +48,14 @@ Item | Section | Penalty — body corporate | Daily penalty
 10 | 69(5) | $325 000 | $65 000
 11 | 71(5) | $500 000 | $100 000
 12 | 73A(6) | $500 000 | $100 000
-[Division 2 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(1), 66(3) and (4) and 115(2); No. 40 of 2020 s. 103.]
+[Division 2 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(1), 66(3) and (4) and 115(2); No. 40 of 2020 s. 103; No. 36 of 2024 s. 39(2).]
 ## Part 2 — Tier 2 offences and penalties
 [Heading inserted: No. 14 of 1988 s. 18.]
 ## Division 1 — Individuals
 [Heading inserted: No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — individual | Daily penalty
-1 | 41A(1) | $62 500 | $12 500
+[1deleted]
 1B | 49(5) | $62 500 | $12 500
 1CA | 49A(2) | $62 500 | Nil
 1CB | 49A(3) | $62 500 | Nil
@@ -77,12 +79,12 @@ Item | Section | Penalty — individual | Daily penalty
 13 | 92E(1) | $62 500 | Nil
 14 | 99X(4) | $62 500 | Nil
 15 | 111A(1) | $62 500 | $12 500
-[Division 1 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(2), 66(5)-(7), 85(1), (2) and (5), 88(1), 115(3) and 132(2); No. 48 of 2010 s. 11(1).]
+[Division 1 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(2), 66(5)-(7), 85(1), (2) and (5), 88(1), 115(3) and 132(2); No. 48 of 2010 s. 11(1); No. 36 of 2024 s. 39(3).]
 ## Division 2 — Bodies corporate
 [Heading inserted: No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — body corporate | Daily penalty
-1 | 41A(1) | $125 000 | $25 000
+[1deleted]
 1B | 49(5) | $125 000 | $25 000
 1CA | 49A(2) | $125 000 | Nil
 1CB | 49A(3) | $125 000 | Nil
@@ -106,7 +108,7 @@ Item | Section | Penalty — body corporate | Daily penalty
 13 | 92E(1) | $125 000 | Nil
 14 | 99X(4) | $125 000 | Nil
 15 | 111A(1) | $125 000 | $25 000
-[Division 2 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(3), 66(8) and (9), 85(3)-(5), 88(2), 115(4) and 132(3); No. 48 of 2010 s. 11(2).]
+[Division 2 inserted: No. 14 of 1998 s. 18; amended: No. 54 of 2003 s. 25(3), 66(8) and (9), 85(3)-(5), 88(2), 115(4) and 132(3); No. 48 of 2010 s. 11(2); No. 36 of 2024 s. 39(4).]
 ## Division 3 — Individuals and bodies corporate
 [Heading inserted: No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
