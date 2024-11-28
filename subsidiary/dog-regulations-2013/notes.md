@@ -15,13 +15,34 @@ Local Government Regulations Amendment (Payment Method) Regulations 2020 Pt. 4 |
 Local Government Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | SL 2020/169 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 4 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
 Local Government Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 3 | SL 2022/94 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Dog Amendment Regulations 2024 | SL 2024/246 27 Nov 2024 | r. 1 and 2: 27 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2024 (see r. 2(b) and SL 2024/241 cl. 2))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+ABN3
+ACN3
+applicant33AD(1)
+application day37(2)
+close associate3
+criminal record check3
+dog care plan33AD(3), 36A(2)
 Form3
-infringement notice35(1)
+holder33AI(1)
+incorporated association3
+infringement notice35(1), 35A(1)
+interstate veterinarian33AC(1)
 pensioner17(1)
+person affected33AG(1)
 place control provision37(1)
 registered training provider9(1)
+related body corporate3
+relevant dog33AB(1)
 RWWA3
 section3
+significant veterinary treatment3
+veterinary practice business10A(1), 33AC(1)
+WA veterinarian33AC(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

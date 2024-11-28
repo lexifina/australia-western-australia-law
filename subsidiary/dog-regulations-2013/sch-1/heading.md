@@ -272,12 +272,12 @@ Alleged offence | Description of offence _______________________________________
 Dog Act 1976 s. or Dog Regulations 2013 r.
 Date //20Time a.m./p.m.
 Modified penalty $
-Authorised person/officer issuing notice | Name
+Authorised person/designated person/officer issuing notice | Name
 Signature
 Office
 Date | Date of notice //20
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Authorised Person at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here — ____________________________________________ and post this notice to the CEO [relevant local government and address] within 28 days after the date of this notice.
-[Form 8 amended: SL 2020/99 r. 8; SL 2020/169 r. 8.]
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Authorised Person or designated person at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here — ____________________________________________ and post this notice to — CEO — Dog Act 1976 [relevant local government and address] Or Designated person — Dog Act 1976 [Department and address] within 28 days after the date of this notice.
+[Form 8 amended: SL 2020/99 r. 8; SL 2020/169 r. 8; SL 2024/246 r. 15.]
 Form 9
 [r. 35(5)]
 Withdrawal of infringement notice
@@ -291,8 +291,9 @@ Date of issue //20
 Alleged offence | Description of offence ______________________________________________
 Dog Act 1976 s. or Dog Regulations 2013 r.
 Date //20Timea.m./p.m.
-CEO withdrawing notice | Name
+CEO withdrawing notice/designated person acting on behalf of the CEO withdrawing notice | Name
 Signature
-[Relevant local government]
+[Relevant local government or Department]
 Date | Date of withdrawal //20
-Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to — CEO [Relevant local government] — Dog Act 1976 [Relevant local government and address] Signature//20
+Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to — CEO — Dog Act 1976 [relevant local government and address] or CEO/designated person acting on behalf of the CEO — Dog Act 1976 [Department and address] Signature//20
+[Form 9 amended: SL 2024/246 r. 16.]
