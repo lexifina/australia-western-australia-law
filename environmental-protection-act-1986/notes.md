@@ -69,7 +69,7 @@ Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 4 | 4 of 2023 | 
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 24 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 28 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Planning and Development Amendment Act 2023 Pt. 5 Div. 2 | 34 of 2023 | 11 Dec 2023 | 1 Mar 2024 (see s. 2(d))
-Environmental Protection Amendment Act 2024 Pt. 1-3, Pt. 4 Div. 2 and 3, Pt. 5 and Pt. 6 Div. 1 | 36 of 2024 | 22 Oct 2024 | Pt. 1: 22 Oct 2024 (see s. 2(1)(a)); Pt. 2 and 3, Pt. 4 Div. 2 and 3, Pt. 5 and Pt. 6 Div. 1: 23 Oct 2024 (see s. 2(1)(e))
+Environmental Protection Amendment Act 2024 Pt. 1-3, Pt. 4 (other than Div. 1 Subdiv. 2), Pt. 5 and Pt. 6 Div. 1 | 36 of 2024 | 22 Oct 2024 | Pt. 1: 22 Oct 2024 (see s. 2(1)(a)); Pt. 2 and 3, Pt. 4 Div. 2 and 3, Pt. 5 and Pt. 6 Div. 1: 23 Oct 2024 (see s. 2(1)(e)); Pt. 4 Div. 1 Subdiv. 1 and Div. 4: 28 Nov 2024 (see s. 2(1)(b) and (d) and SL 2024/239 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -77,7 +77,7 @@ Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Environmental Protection Amendment Act 2020 s. 4(2), (4) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
-Environmental Protection Amendment Act 2024 (other than Pt. 1-3, Pt. 4 Div. 2 and 3, Pt. 5 and 6) | 36 of 2024 | 22 Oct 2024 | Pt. 4 Div. 1 Subdiv. 1 and Div. 4: to be proclaimed (see s. 2(1)(b) and (d)); Pt. 4 Div. 1 Subdiv. 2: operative immediately after Environmental Protection Amendment Act 2020 s. 60 comes into operation or when Pt. 4 Div. 1 Subdiv. 1 comes into operation, whichever is the earlier (see s. 2(1)(c) and (2))
+Environmental Protection Amendment Act 2024 Pt. 4 Div. 1 Subdiv. 2 | 36 of 2024 | 22 Oct 2024 | Immediately after the Environmental Protection Amendment Act 2020 s. 60 comes into operation (see s. 2(1)(c)(i))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -153,7 +153,7 @@ area51DA(4)
 area permit51A, 51E(7)
 assessed proposal44A
 assessed scheme3(1)
-assessment report43A(1)
+assessment report44(1)
 authorisation50D(1), 68A(1), 86A, Sch. 2
 authorised person3(1)
 Authority3(1)
@@ -173,8 +173,8 @@ clearing injunction51S(2), 133D(1)
 clearing matter51O(1)
 clearing permit3(1)
 clearing principles51A
-closure notice3(1), 68A(2)
-commencement133C(1), 133D(1), 133E, 133M(2), 133M(2), 133M(3), 133M(5), 133M(7), 133N(1)
+closure notice2(1), 68A(2)
+commencement133C(1), 133D(1), 133E, 133M(2), (3), (5) and (7), 133N(1)
 commencement condition47A(2)
 Commissioner51D(1)
 committee of inquiry3(1)
@@ -208,7 +208,7 @@ discharge3(1)
 DMA decision44A
 documentation122B(1)
 draft policy3(1), 31
-driver3(1)
+driver2(1)
 ecological community3(1)
 ecosystem health condition3(1)
 effective day21A
@@ -218,7 +218,7 @@ environmental harm3(1), 3A(2)
 environmentally sensitive area51A
 environmental monitoring programme3(1)
 environmental protection covenant3(1)
-environmental protection notice3(1), 65(1)
+environmental protection notice3(1), 64A(1)
 environmental undertaking3(1)
 environmental value3(1)
 equipment3(1)
@@ -245,9 +245,9 @@ image116B(1)
 image data source116B(1)
 implementation agreement or decision44A
 implementation conditions3(1), 44A, 48EA
-implementation issue44(4), 48EA
+implementation issue44A, 48EA
 improper conduct51S(1)
-improvement scheme3(1)
+improvement scheme2(1)
 industrial plant3(1)
 infringement notice offence99H
 inspector3(1)
@@ -265,6 +265,7 @@ matter14A(1)
 Minister for Lands121A(1)
 Ministerial statement3(1)
 Minister (Water Resources)57(5)
+minor or preliminary work3(1), 41A(4)
 misbehaviourSch. 7 cl. 3(3)
 monetary benefits99Z(2)
 monitoring programme3(1)
@@ -272,7 +273,7 @@ motor vehicle3(1)
 native vegetation3(1), 51A
 NEPM3(1)
 new licence133E
-new occupier61(1)
+new occupier60(1)
 new owner51N(1)
 new provisions133E
 new section133B(1)
@@ -305,7 +306,7 @@ proposal of a prescribed class37B(1)
 proposal under an assessed scheme3(1)
 proposed action51M(2)
 proposed amendment51KB(1)
-proposed change133M(3), 133M(5)
+proposed change133M(3) and (5)
 protection3(1)
 publication day133O(1), 133S(1)
 public authority3(1)
@@ -337,6 +338,7 @@ reserve3(1)
 responsible authority3(1)
 responsible Minister3(1)
 responsible person86A
+restricted decision41(1A)
 road3(1)
 scheme3(1), 48EA
 scheme Act3(1)
@@ -349,20 +351,19 @@ significant amendment3(1)
 significant proposal37B(1)
 SLC Act51A
 soil conservation notice51A
-specified6(10), 45A(2), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6),
-133O(1), 133S(1), Sch. 2
+specified6(10), 45A(2), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6), 133O(1), 133S(1), Sch. 2
 specified decision133L(1)
 State entity124A
 State planning policy3(1)
 strategic assessment38E(1)
-strategic proposal37B(1), 37B(2)
+strategic proposal37B(1) and (2)
 subdivision3(2a)
 subject land45A(2)
 submit122B(1)
 subsidiary51R(7), 55(3), 58(4)
 The Wilderness Society v Minister for Environment134(1)
 threatened ecological communitySch. 5 cl. 2
-threatened floraSch. 5 cl. 2
+threatened floraSch. 5 cl. 1
 threshold amount3A(3)
 Tier 1 offence3(1)
 Tier 2 offence3(1)
