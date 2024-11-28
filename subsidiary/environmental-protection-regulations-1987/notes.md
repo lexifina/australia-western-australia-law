@@ -92,6 +92,7 @@ Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 4 |
 Environmental Protection Amendment Regulations 2024 | SL 2024/4 24 Jan 2024 | r. 1 and 2: 24 Jan 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2024 (see r. 2(b))
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2024 Pt. 3 | SL 2024/86 29 May 2024 | 1 Jun 2024 (see r. 2(b))
 Environmental Protection Amendment Act 2024 Pt. 6 Div. 2 assented to on 22 Oct 2024 | 23 Oct 2024 (see s. 2(1)(e))
+Environmental Protection Amendment Regulations (No. 4) 2024 | SL 2024/244 27 Nov 2024 | r. 1 and 2: 27 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2024 (see r. 2(b) and SL 2024/239 cl. 2))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
@@ -126,6 +127,7 @@ development requirement33C(1)
 development site16A
 development work16A
 documentation3A
+enabling Act3H(1)
 enclosed water body16(4)
 exemption period21(1)
 exempt matter2B(1)
@@ -134,7 +136,7 @@ existing licensee21(1)
 existing petroleum authority area2C(1)
 Fund21(1)
 head office2AA
-hydraulic fracturing2C(1)
+hydraulic fracturing2AA
 Landfill Waste Classification and Waste Definitions 19962AA
 land use category33C(1)
 length16(4)
@@ -153,10 +155,13 @@ minute2B(1)
 native species3D(1)
 native vegetation33C(1)
 organotin anti-fouling paint16(4)
+original jurisdiction3H(1)
 Part 2 waste5D(6)
 payer5N
-petroleum activity2C(1)
-PGER Environment Regulations2C(1)
+petroleum activity2AA
+petroleum activity involving hydraulic fracturing3F
+PGER Environment Regulations2AA
+planning legislation3H(1)
 priority list3D(1)
 prohibited manufacturing process5P
 publish3A
@@ -167,6 +172,7 @@ refund pointSch. 1
 regional road33B(1)
 relevant documentation3B(2)
 return period21(1)
+review jurisdiction3H(1)
 semi-enclosed water body16(4)
 species3D(1)
 specified31(3)
@@ -175,6 +181,7 @@ storage11(1)
 submit3A
 surveyor26(8)
 threatened species3D(1)
+Tribunal3H(1)
 tyre11(1)
 Tyre Landfill Exclusion Zone11(1)
 tyre retailer11(1)
