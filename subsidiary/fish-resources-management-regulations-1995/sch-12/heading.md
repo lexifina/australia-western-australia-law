@@ -1,7 +1,7 @@
 ## Schedule 12
 ## Modified penalties
 [s. 229(2) and reg. 162]
-Offence Part 1 — Sections of the Act | Modified penalty $
+Offence Part 1 — Sections of the Act | Modifiedpenalty $
 1A.Section 7(7), for a contravention of a condition of an exemption granted for purposes mentioned in section 7(2)(e) | 750.00
 1.Section 43(3), relating to —
 (a)category 1 fish | 400.00
