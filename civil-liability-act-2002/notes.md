@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Civil Liability Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Civil Liability Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Liability Act 2002 | 35 of 2002 | 20 Nov 2002 | s. 1 and 2: 20 Nov 2002; Act other than s. 1 and 2: 1 Jan 2003 (see s. 2 and Gazette 17 Dec 2002 p. 5905)
@@ -34,10 +34,7 @@ Civil Liability Legislation Amendment (Child Sexual Abuse Actions) Act 2018 Pt. 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 103 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 4 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 1 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Civil Liability Amendment (Provisional Damages for Dust Diseases) Act 2024 Pt. 2 | 32 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(d))
+Civil Liability Amendment (Provisional Damages for Dust Diseases) Act 2024 Pt. 2 | 32 of 2024 | 26 Sep 2024 | 1 Dec 2024 (see s. 2(d) and SL 2024/238 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -63,22 +60,26 @@ concurrent wrongdoer5AI
 consequential mental harm5Q
 convicted21(3)
 costs determination15L(1)
+Court15AA(1)
 current office holder15B(2)
 dangerous recreational activity5E
 defendant5H(1), 5I(1), 5O(1), 5P(1), 5S(1)
+dust disease15AA(1), 15AB
 earlier institution15G(1)
 emergency assistance5AB
 emergency medical assistance5AAA
 enrolled child5AAA
 excluded concurrent wrongdoer5AJA(1)
-factual causation5C(1)
+factual causation5B(1)
 fee20(4)
 good samaritan5AB
 harm3
 health professional5PA
 hospital16
 incompetent person5I(16)
+information15AH(1)
 inherent risk5E
+initial action15AA(1), 15AC(1)
 injured person5C(3)
 institution15A
 insurer19(8)
@@ -92,8 +93,9 @@ medically qualified good samaritan5AB
 medical qualifications5AB
 mental harm5Q
 misconduct21(3)
-MV(CI) Act13A(1)
+MVWA(CI) Act13A(1)
 non-pecuniary loss9(4)
+non-publication order15AH(1)
 obvious risk5E, 5M
 office holder15B(1), 15D(1)
 other person5AKA(1)
@@ -107,6 +109,9 @@ policy decision5U
 potential claimant16
 preceding financial year4(1)
 printed publication16
+proclamation day15AO(1)
+provisional damages15AA(1), 15AC(1)
+publication15AH(1)
 public body or officer5U
 public place16
 publish16
@@ -119,8 +124,13 @@ relevant time15F(1)
 road5Z(1)
 roads authority5Z(1)
 scope of liability5C(1)
+settlement agreement15AA(1), 15AE, 15AL
 staff member5AAA
 structured settlement14
+subsequent action15AA(1), 15AG(1)
+subsequent damages15AA(1), 15AG(1)
+subsequent dust disease15AA(1), 15AC(2)
+suppression order15AH(1)
 the relevant Act21(1)
 tortfeasor5C(1)
 treatment, care and support needs13A(1)
