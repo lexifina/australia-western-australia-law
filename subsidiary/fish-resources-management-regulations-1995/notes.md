@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -208,10 +208,7 @@ Fish Resources Management Amendment Regulations 2023 | SL 2023/2 27 Jan 2023 | r
 Fish Resources Management Amendment Regulations 2024 | SL 2024/64 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2024 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2024 | SL 2024/114 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2024 | SL 2024/158 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Fish Resources Management Amendment Regulations (No. 5) 2024 r. 3-7 | SL 2024/234 13 Nov 2024 | 1 Dec 2024 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 5) 2024 | SL 2024/234 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2024 (see r. 2(b))
 Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -228,7 +225,7 @@ aircraft3(1)
 ALC55A
 ALC fishing boat55C(1)
 allowed time31(1)
-applicant123A(1), 124D(1)
+applicant123A(1), 124A(1), 124D(1)
 approval to transport144A(1)
 approved72, 144A(1)
 approved automatic location communicator55A
@@ -250,7 +247,8 @@ Central West Zone38(1)
 certificate of health144A(1)
 charter boat3(1)
 chlorine tarping110(2)
-closed season38G, 45(1)
+closed season38G, 44(1)
+Cockburn Sound3(1)
 commencement point3(1)
 commercial fishing licence3(1)
 commercial fishing licence receipt123A(1)
@@ -288,7 +286,7 @@ fish processor’s licence3(1)
 fish trunk3(1)
 form3(1)
 former authorisation holder129A
-freshwater finfish65D(2)
+freshwater finfish65E
 Freycinet Estuary3(1)
 full amount outstanding of the fee137(5)
 Gascoyne Region3(1)
@@ -310,7 +308,7 @@ Jungulu Special Purpose Zone (wilderness conservation)3(1)
 Kalbarri Blue Holes waters3(1)
 Lalang-garram / Camden Sound Marine Park3(1)
 Lancelin Island Lagoon3(1)
-large pelagic finfish3(1)
+large pelagic finfish2(1)
 length144A(1)
 licence holder55A
 licensed boat72
@@ -373,7 +371,7 @@ Rottnest Island ReserveSch. 2 cl. 4(2)
 Rowley Shoals Marine ParkSch. 2
 scheduled fish disease3(1)
 sea lion exclusion device38(3)
-Sea Lion Protection Zone38(1)
+Sea Lion Protection Zone38
 section 224129A
 set3(1)
 setoseSch. 2

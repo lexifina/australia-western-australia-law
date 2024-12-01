@@ -148,7 +148,7 @@ Herring, Australian (Herring) | 20
 [r. 65G]
 [Heading inserted: Gazette 4 Oct 2019 p. 3561.]
 Species | Bag limit for one day
-Crab, Blue Swimmer (Blue Manna) | 5 (in Swan and Canning Rivers) 10 (in Geographe Bay and Inland Waters, including no more than 5 females) 10 (in other waters of West Coast Region) 20 (in other regions)
+Crab, Blue Swimmer (Blue Manna) | 5 (in Cockburn Sound or the Swan and Canning Rivers) 10 (in Geographe Bay and Inland Waters, including no more than 5 females) 10 (in other waters of West Coast Region) 20 (in other regions)
 Crab, Mud, all species | 5
 Koonac | N/A
 Marron | 5 (in marron trophy water) 8 (in other waters)
@@ -158,7 +158,7 @@ Redclaw | N/A
 Rock Lobster, all species | 8 (including no more than 4 Tropical Rock Lobsters)
 Yabbie | N/A
 Other crustacean species not specified above | 10
-[Division 6 inserted: Gazette 4 Oct 2019 p. 3561-2; amended: Gazette 29 Nov 2019 p. 4105; SL 2023/2 r. 28.]
+[Division 6 inserted: Gazette 4 Oct 2019 p. 3561-2; amended: Gazette 29 Nov 2019 p. 4105; SL 2023/2 r. 28; SL 2024/234 r. 7.]
 ## Division 7 — Bag limits — molluscs and other invertebrates
 [r. 65H]
 [Heading inserted: Gazette 4 Oct 2019 p. 3562.]
