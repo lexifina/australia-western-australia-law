@@ -36,6 +36,7 @@ Transport Regulations Amendment (Identity Matching Services) Regulations 2023 Pt
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Road Traffic (Administration) Amendment Regulations (No. 2) 2024 | SL 2024/184 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2024 (see r. 2(b))
 Road Traffic (Administration) Amendment Regulations 2024 | SL 2024/201 2 Oct 2024 | r. 1 and 2: 2 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2024 (see r. 2(b))
+Transport Regulations Amendment (Road Traffic) Regulations 2024 Pt. 2 | SL 2024/237 27 Nov 2024 | 1 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

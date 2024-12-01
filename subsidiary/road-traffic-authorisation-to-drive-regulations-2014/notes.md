@@ -35,10 +35,12 @@ Transport Regulations Amendment (Fee Waiver and Refund) Regulations 2022 Pt. 2 |
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Identity Matching Services) Regulations 2023 Pt. 3 | SL 2023/166 1 Nov 2023 | 2 Nov 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
+Transport Regulations Amendment (Road Traffic) Regulations 2024 Pt. 3 | SL 2024/237 27 Nov 2024 | 1 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accredited service provider69A
+additional passenger11(1)
 alcohol assessment and treatment69A
 alcohol interlock offence3
 alcohol interlock scheme69A
@@ -66,8 +68,9 @@ electric personal transporter3
 electric personal transporter use area3
 electric rideable device3
 emergency declaration60B(1)
-employment10(1)
+employment10(1), 11(1)
 excess period served68(7)
+experienced driver11(4)
 expiry day38(1)
 external Territory3
 foreign driving authorisation3, 60(1)
@@ -77,6 +80,7 @@ grant by way of renewal3
 hazard perception testSch. 9
 heavy vehicle extended recognition period60A(1)
 holiday period65(1)
+immediate family11(1)
 inspection period69K
 instructor47(1)
 interlock contract69A
@@ -92,12 +96,14 @@ motor cycle3
 motor cycle hazard perception testSch. 9
 motorised scooter3
 motorised wheelchair3
+motor vehicle offence75(1A)
 new driver’s licence applicant3
 notice of recognition60B(5)
 novice driver3
 novice driver (type 1A)3
 other jurisdictions’ driving authorisations60B(2)
 parental responsibility22(1)
+permitted passenger11(3)
 personal details40(1)
 practical driving assessmentSch. 9
 prescribed offence53A(1)
