@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport (Road Passenger Services) Regulations 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Transport (Road Passenger Services) Regulations 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Transport (Road Passenger Services) Regulations 2020 | SL 2020/90 24 Jun 2020 | Pt. 1: 24 Jun 2020 (see r. 2(a)); Pt. 2-7, Pt. 8 (other than r. 110), Pt. 9-15, Sch. 1-5, Sch. 6 (other than it. 34 and 35) and Sch. 7: 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2); r. 110 and Sch. 6 it. 34 and 35: 1 Jul 2021 (see r. 2(b))
@@ -15,22 +15,28 @@ Transport (Road Passenger Services) Amendment Regulations (No. 2) 2022 | SL 2022
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport (Road Passenger Services) Amendment Regulations 2024 | SL 2024/40 4 Apr 2024 | r. 1 and 2: 4 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2024 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
+Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 (other than Pt. 3 and 4) | SL 2024/245 27 Nov 2024 | Pt. 1: 27 Nov 2024 (see r. 2(a)); Pt. 2: 2 Dec 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 | SL 2024/245 27 Nov 2024 | Pt. 3: 1 Mar 2025 (see r. 2(c)); Regulations other than Pt. 1-3: 1 Oct 2025 (see r. 2(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 2017 standards182(1)
 2019 regulations3
 2019 regulations reviewable decision198(1)
+aggregated journey data130J(1)
 agreement period156(2)
 approved identification card3
 approved person3
-approved provider (family violence exception)27(1)
+approved provider (family violence exception)28(1)
 approved special events provider152
 AS/NZS3
 assessment period152
 assistance animal137(1)
 associated journey58(1)
-associated relevant journey151
+associated relevant journey152
 Australian Design Rules3
 authorised on-demand rank or hail vehicle3
 authorised provider76
@@ -59,13 +65,14 @@ first provider58(3)
 foreign driving authorisation3
 ‘F’ or ‘T’ endorsed driver’s licence3
 GST3
+guidelines130A
 interstate driver authorisation document3
 interstate vehicle authorisation document3
 interstate vehicle licence3
 large vehicle3
 last approved medical report3
 last criminal record check3
-local offenceSch. 2 cl. 1(5), Sch. 3 cl. 1(4)
+local offenceSch. 2 cl. 1(5), Sch. 3 cl. 1(5)
 metered fare152
 metered fare amount152
 metropolitan region3
@@ -80,6 +87,11 @@ payment terminal3
 principal booking service39(1), 61(2), 131(2), 153(2)
 principal provider65(1)
 prior authorisation46(1), 69(1), 85(1), 100(1)
+PTSS electronic device130A
+PTSS electronic interface130A
+PTSS journey130A
+PTSS passenger130A
+PTSS smartcard130A
 queue-jumping fee129(1)
 recipient145(1), 181(1)
 region3
@@ -91,7 +103,7 @@ relevant offence199(1)
 relevant person115, 195(3)
 relevant provider127
 relevant provider or driver12(1)
-required information31(1) and (3), 185(2)
+required information31(3), 185(2)
 Road Safety Commissioner143(1)
 road traffic CEO3
 safety management system3

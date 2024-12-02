@@ -65,6 +65,14 @@ Offences under the Transport (Road Passenger Services) Regulations 2020
 61. | r. 126(3) | Failure to use payment terminal that results in lowest surcharge | $200
 62. | r. 128(1) | Failure to make information about fares available to person booking vehicle | $900 | $3 000
 63. | r. 128(4) | Failure to make information about fares available to CEO or authorised officer | $900 | $3 000
+63A. | r. 130D | Falsely providing PTSS smartcard | $900
+63B. | r. 130E | Accepting PTSS smartcard from person who is not a PTSS passenger | $1 800
+63C. | r. 130F | Entering false or misleading information into PTSS electronic interface | $1 800 | $6 000
+63D. | r. 130G | Driver causing or permitting another person to enter particular information into PTSS electronic interface | $900
+63E. | r. 130H | Provider causing or permitting another person to enter particular information into PTSS electronic interface | $900 | $1 800
+63F. | r. 130I | False claim for payment | $1 800 | $6 000
+63G. | r. 130J(2) | Failure to provide aggregated journey data | $1 200 | $4 000
+63H. | r. 130J(4) | Failure to comply with notice | $1 200 | $4 000
 64. | r. 131(1) | Failure to include information in receipt | $900 | $3 000
 65. | r. 131(2) | Failure of provider of associated booking service to include information in receipt | $900 | $3 000
 66. | r. 132(1) | Failure to ensure vehicle fitted with fare calculation device | $900 | $3 000
@@ -98,3 +106,4 @@ Offences under the Transport (Road Passenger Services) Act 2018
 93. | s. 211(1) | Compliance with improvement notice | $500 | $2 500
 94. | s. 211(2) | Driving vehicle when prohibited under improvement notice | $1 200 | $6 000
 95. | s. 213(3) | Unlawful removal of improvement notice sticker | $500
+[Schedule 6 amended: SL 2024/245 r. 6.]
