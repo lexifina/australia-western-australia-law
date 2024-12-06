@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Health Practitioner Regulation National Law Application Act 2024. For provisions that have come into operation see the compilation table.
+This is a compilation of the Health Practitioner Regulation National Law Application Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law Application Act 2024 | 21 of 2024 | 14 May 2024 | Pt. 1: 14 May 2024 (see s. 2(a)); Pt. 2 and 3 (other than s. 29) and Pt. 4-6: 15 May 2024 (see s. 2(c)); s. 29: 1 Jul 2024 (see s. 2(b)(ii))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Privacy and Responsible Information Sharing Act 2024 Pt. 6 Div. 4 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
