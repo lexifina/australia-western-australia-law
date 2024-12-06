@@ -43,7 +43,8 @@ Corruption, Crime and Misconduct Amendment Act 2024 Pt. 2 | 5 of 2024 | 14 Mar 2
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 2 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 2 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
+Local Government Amendment Act 2024 Pt. 3 Div. 2 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(i))
 Other notes
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
