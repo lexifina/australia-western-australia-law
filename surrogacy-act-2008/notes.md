@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Surrogacy Act 2008. The following table contains information about that Act.
+This is a compilation of the Surrogacy Act 2008 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Surrogacy Act 2008 | 47 of 2008 | 10 Dec 2008 | s. 1 and 2: 10 Dec 2008 (see s. 2(a)); Act other than s. 1 and 2: 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Family Court Amendment (Commonwealth Reforms) Act 2024 s. 84 | 49 of 2024 | 6 Dec 2024 | 10 Feb 2025 (see s. 2(b) and SL 2025/10 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -29,3 +33,7 @@ proceedings under this Part43(1)
 sibling33
 surrogacy arrangement3
 surrogacy arrangement that is for reward5
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
