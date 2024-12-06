@@ -1,9 +1,13 @@
 Notes
-This is a compilation of the Government Trading Enterprises Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Government Trading Enterprises Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Trading Enterprises Act 2023 | 13 of 2023 | 22 Jun 2023 | Pt. 1: 22 Jun 2023 (see s. 2(a)); Act other than Pt. 1: 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Keystart Act 2024 Pt. 8 Div. 3 | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Privacy and Responsible Information Sharing Act 2024 Pt. 6 Div. 3 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
