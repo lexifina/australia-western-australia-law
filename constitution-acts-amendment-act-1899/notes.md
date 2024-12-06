@@ -324,6 +324,8 @@ TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (se
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 3 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Industrial Relations Legislation Amendment Act 2024 s. 156 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Keystart Act 2024 s. 59(2) | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
+Local Government Amendment Act 2024 Pt. 3 Div. 1 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(i))
+Information Commissioner Act 2024 Pt. 7 Div. 1 | 52 of 2024 | 6 Dec 2024 | Operative on commencement of the Privacy and Responsible Information Sharing Act 2024 Pt. 2 Div. 12 (see s. 2(1)(d))
 Other notes
 Footnote no longer applicable.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
