@@ -35,6 +35,10 @@ Reprint 5: The Adoption Act 1994 as at 1 Mar 2013 (includes amendments listed ab
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 3 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Family Court Amendment (Commonwealth Reforms) Act 2024 s. 83 | 49 of 2024 | 6 Dec 2024 | 10 Feb 2025 (see s. 2(b) and SL 2025/10 cl. 2)
 Other notes
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
 Section 16A(2) was deleted by the Adoption Amendment Act 2012 s. 10.
