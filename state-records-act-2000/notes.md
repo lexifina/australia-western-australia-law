@@ -16,6 +16,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 230(3) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Information Commissioner Act 2024 Pt. 7 Div. 6 | 52 of 2024 | 6 Dec 2024 | Operative on commencement of the Privacy and Responsible Information Sharing Act 2024 Pt. 2 Div. 12 (see s. 2(1)(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -53,7 +54,7 @@ State record3(1)
 State Records Office3(1)
 successor3(1)
 unauthorised possession3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
