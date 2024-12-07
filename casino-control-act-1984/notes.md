@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Casino Control Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Casino Control Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Casino Control Act 1984 | 34 of 1984 | 20 Jun 1984 | 1 Jul 1984 (see s. 2 and Gazette 29 Jun 1984 p. 1754)
@@ -25,6 +25,11 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 20 | 77 of 2006 |
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 4: The Casino Control Act 1984 as at 16 Dec 2011 (includes amendments listed above)
 Casino Legislation Amendment (Burswood Casino) Act 2022 Pt. 2 | 32 of 2022 | 28 Sep 2022 | 29 Sep 2022 (see s. 2(b))
+Gambling Legislation Amendment Act 2024 Pt. 4 (other than s. 33) | 53 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(d))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Gambling Legislation Amendment Act 2024 s. 33 | 53 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
 Other notes
 The Acts Amendment and Validation (Casino Control) Act 1985 s. 44 reads as follows:
 44.Validation
@@ -53,9 +58,10 @@ casino employee3(1)
 casino gaming licence3(1)
 casino key employee3(1)
 casino licensee3(1)
-CEO21H(1)
+CEO3(1)
 Chief Casino Officer3(1)
 close associate18(1)
+commencement day38
 Commission3(1)
 common gaming house3(1)
 condition3(2)
@@ -63,7 +69,7 @@ conduct3(2)
 contract29A
 contract notice29B(1)
 controlled contract29A
-Department21H(1)
+Department3(1)
 dispose of21F(8)
 final report of the Perth Casino Royal Commission21H(1)
 game3(1)
@@ -77,7 +83,7 @@ instruments of gaming3(2)
 junket25A(3)
 licensed casino3(1)
 machine3(2)
-management and operation of a casino24(1AA)
+management and operation3(1)
 management and operation of the Burswood Casino21H(1)
 member of the Independent Monitor’s staff21H(1)
 monitor21U(5)
@@ -105,3 +111,7 @@ token3(2)
 unclaimed winnings15(1), 15(6)
 winner15(1)
 winnings3(2)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
