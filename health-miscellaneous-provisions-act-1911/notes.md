@@ -146,6 +146,7 @@ Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
  | Major Events Act 2023 s. 110 | 12 of 2023 | 22 May 2023 | 23 May 2023 (see s. 2(b))
  | Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
  | Health (Miscellaneous Provisions) (Offensive Trades) Proclamation 2024 Pt. 2 (SL 2024/53) | 4 Jun 2024 (see cl. 2(b))
+ | Local Government Amendment Act 2024 Pt. 3 Div. 3 | 47 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(1)(g))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Short title | Number and year | Assent | Commencement

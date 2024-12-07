@@ -13,6 +13,7 @@ Waste Avoidance and Resource Recovery Amendment (Container Deposit) Act (No. 2) 
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 4 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Environmental Protection Amendment Act 2020 s. 118 | 40 of 2020 | 19 Nov 2020 | s. 118(1) and (3): 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2); s. 118(2): 23 Oct 2021 (see s. 2(1)(e) and SL 2021/176 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 65 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Local Government Amendment Act 2024 Pt. 3 Div. 7 | 47 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(1)(g))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -140,3 +141,7 @@ waste inspection83(4)
 Waste Management (WA)Sch. 5 cl. 7(1)
 waste service3(1)
 waste strategy3(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
