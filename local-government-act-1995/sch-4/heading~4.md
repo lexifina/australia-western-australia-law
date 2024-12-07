@@ -26,8 +26,8 @@ and
 7B.For the purposes of clause 7A(b)(ii) and (c)(ii), the order in which the councillors with the same number of votes were elected —
 (a) is to be determined by reference to the votes that each had on the completion of the last count or transfer of votes under Schedule 4.1 Division 3 at which each had a different number of votes, with the councillor having the highest number of votes being regarded as having been elected first and so on; but
 (b) if there was no such count or transfer — is to be determined by the returning officer drawing lots in accordance with regulations.
-8.If it is necessary to determine the order of retirement as between councillors representing different wards, the councillor who receives the highest percentage of first-preference votes cast on his or her election is to retire last and —
-(a) where a councillor has been elected unopposed he or she is to be regarded as having received 100% of the first-preference votes cast; and
+8.If it is necessary to determine the order of retirement as between councillors representing different wards, the councillor who receives the highest percentage of first-preference votes cast on the councillor’s election is to retire last and —
+(a) where a councillor has been elected unopposed the councillor is to be regarded as having received 100% of the first-preference votes cast; and
 (b) where 2 or more councillors have an equality of the percentage of first-preference votes cast the returning officer is to draw lots in accordance with regulations to determine the order of their retirement.
 9.If a question arises as to the order of retirement of persons occupying the office of councillor, the order of retirement as between a person appointed under section 4.57(3) and another person or other persons —
 (a) so appointed to the office of councillor on the same day, is that determined on the drawing of lots in accordance with regulations by the returning officer; or
@@ -36,4 +36,4 @@ and
 10.In this Schedule —
 first-preference vote has the meaning given in Schedule 4.1 clause 1;
 votes has the meaning given in Schedule 4.1 clause 7.
-[Schedule 4.2 amended: No. 9 of 2007 s. 6; No. 15 of 2009 s. 6; No. 11 of 2023 s. 93-98.]
+[Schedule 4.2 amended: No. 9 of 2007 s. 6; No. 15 of 2009 s. 6; No. 11 of 2023 s. 93-98; No. 47 of 2024 s. 160.]
