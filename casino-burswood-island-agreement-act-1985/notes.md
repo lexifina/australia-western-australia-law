@@ -24,6 +24,7 @@ Casino (Burswood Island) Agreement Amendment Act 2008 | 17 of 2008 | 16 Apr 2008
  | TAB (Disposal) Act 2019 Pt. 7 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(c))
  | Casino (Burswood Island) Agreement Amendment Order 2023 (SL 2023/192) | cl. 1 and 2: 13 Dec 2023 (see cl. 2(a)) Order other than cl. 1 and 2: 14 Dec 2023 (see cl. 2(b))
  | Casino (Burswood Island) Agreement Amendment Act 2024 | 4 of 2024 | 14 Mar 2024 | s. 1 and 2: 14 Mar 2024 (see s. 2(a)); Act other than s. 1 and 2: 15 Mar 2024 (see s. 2(b))
+ | Gambling Legislation Amendment Act 2024 Pt. 3 | 53 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(d))
 Other notes
 Footnote no longer applicable.
 The Liquor Licensing (Moratorium) Act 1983 expired on 31 December 1986.

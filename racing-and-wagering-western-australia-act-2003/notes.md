@@ -21,6 +21,7 @@ Betting Tax Assessment Act 2018 Pt. 8 Div. 1 Subdiv. 2 and Div. 2 Subdiv. 3 | 37
 Reprint 3: The Racing and Wagering Western Australia Act 2003 as at 3 May 2019 (includes amendments listed above)
 TAB (Disposal) Act 2019 Pt. 9 Div. 1 and 2 | 21 of 2019 | 18 Sep 2019 | 19 Sep 2019 (see s. 2(1)(c))
 Government Trading Enterprises Act 2023 Pt. 12 Div. 6 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
+Gambling Legislation Amendment Act 2024 Pt. 6 | 53 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(d))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -46,6 +47,7 @@ combined totalisator pool scheme3(1)
 Commission3(1)
 committee3(1)
 Corporations Act3(1)
+Department3(1)
 director3(1)
 document83(5)
 eligible person3(1)
@@ -75,8 +77,8 @@ prescribed3(1)
 public interest24(2)
 public service officer18(3)
 race3(1), 54(1)
-race meeting3(1)
 racecourse3(1)
+race meeting3(1)
 racing bets levy account107A(1)
 racing club3(1)
 racing industry3(1)
@@ -105,7 +107,7 @@ Treasurer3(1)
 trial3(1)
 wagering3(1)
 wagering licensee3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
