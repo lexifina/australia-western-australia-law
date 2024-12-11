@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -47,6 +47,10 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/58 1 May 2024 | Pt. 4 (other than Div. 3): 2 May 2024 (see r. 2(b)); Pt. 4 Div. 3: 1 Jul 2024 (see r. 2(c))
 Road Traffic (Vehicles) Amendment Regulations (No. 2) 2024 | SL 2024/107 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2024 | SL 2024/180 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 5 Sep 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Traffic (Vehicles) Amendment Regulations (No. 6) 2024 r. 3 and 4 | SL 2024/256 11 Dec 2024 | 1 Jan 2025 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
