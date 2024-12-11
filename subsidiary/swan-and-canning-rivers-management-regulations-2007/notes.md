@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Swan and Canning Rivers Management Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Swan and Canning Rivers Management Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Swan and Canning Rivers Management Regulations 2007 | 25 Sep 2007 p. 4787-831 | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
@@ -15,6 +15,10 @@ Swan and Canning Rivers Management Amendment Regulations 2021 | SL 2021/131 16 J
 Swan and Canning Rivers Management Amendment Regulations 2023 | SL 2023/14 24 Feb 2023 | r. 1 and 2: 24 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2023 (see r. 2(b))
 Swan and Canning Rivers Management Amendment Regulations (No. 2) 2023 | SL 2023/63 2 Jun 2023 | r. 1 and 2: 2 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jun 2023 (see r. 2(b) and SL 2023/62 cl. 2)
 Swan and Canning Rivers Management Amendment Regulations 2024 | SL 2024/35 20 Mar 2024 | r. 1 and 2: 20 Mar 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Swan and Canning Rivers Management Amendment Regulations (No. 2) 2024 r. 4-6 | SL 2024/253 11 Dec 2024 | 31 Mar 2025 (see r. 2(b))
 Other notes
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 The regulation in these regulations repealing the Swan River Trust Regulations 1989 was omitted under the Reprints Act 1984 s. 7(4)(f).
