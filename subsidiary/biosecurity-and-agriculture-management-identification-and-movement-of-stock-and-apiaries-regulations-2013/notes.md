@@ -1,11 +1,15 @@
 Notes
-This is a compilation of the Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013 | 5 Feb 2013 p. 593-761 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Biosecurity and Agriculture Management Regulations Amendment Regulations (No. 2) 2019 Pt. 2 | 27 Jun 2019 p. 2407-54 | 28 Jun 2019 (see r. 2(b))
 Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Amendment Regulations 2021 | SL 2021/204 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2022 (see r. 2(b))
 Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Amendment Regulations 2022 | SL 2022/17 25 Feb 2022 | r. 1 and 2: 25 Feb 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Amendment Regulations 2024 r. 3-13 | SL 2024/264 11 Dec 2024 | 1 Jan 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -90,3 +94,7 @@ transferor27(2)
 transport document3
 update the NLIS database3
 waybill3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
