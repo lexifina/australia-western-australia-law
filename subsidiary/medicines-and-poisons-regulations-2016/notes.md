@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Medicines and Poisons Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Medicines and Poisons Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Medicines and Poisons Regulations 2016 | 17 Jan 2017 p. 443-586 | 30 Jan 2017 (see r. 2 and Gazette 17 Jan 2017 p. 403)
@@ -15,6 +15,11 @@ Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Medicines and Poisons Amendment Regulations (No. 3) 2024 | SL 2024/218 30 Oct 2024 | r. 1 and 2: 30 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2024 (see r. 2(b))
 Medicines and Poisons Amendment Regulations (No. 2) 2024 | SL 2024/224 30 Oct 2024 | r. 1 and 2: 30 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2024 (see r. 2(b))
+Health Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 2 (other than r. 10) | SL 2024/265 11 Dec 2024 | 12 Dec 2024 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Health Regulations Amendment (Medicines and Poisons) Regulations 2024 r. 10 | SL 2024/265 11 Dec 2024 | 12 Jun 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -38,32 +43,26 @@ ASGS39A(1)
 AS/NZS 3809:199894
 Australian Register of Therapeutic Goods89(1)
 authorised person144(1), 147(1)
-cannabis-based product114
-cannabis-based product co-prescriber119
-cannabis-based product prescriber119
 clinical governance committee34(1)
 clinic prescriber125
 commencement day149
 co-prescriber133
-current cannabis-based product prescriber119
 current detoxification prescriber133
 current Poisons Standard3(1)
-current stimulant clinic125
-current stimulant prescriber125
 custodial facility114
 dental hygienist37
 dental therapist37
 dental worker47(1)
-dentist37
+dentist3(1)
 detection device94
 detoxification prescriber133
 detoxification treatment135(1)
 dispense3(1)
 domestic commercial vessel37
 dose94
-endorsed midwife37
+endorsed midwife3(1)
 endorsed optometrist37
-endorsed podiatrist37
+endorsed podiatrist3(1)
 enrolled nurse37
 exemption152(1)
 exempt substance3(1)
@@ -79,7 +78,7 @@ hospital3(1)
 inappropriate use22(1)
 included in the Register6A(1)
 large safe94
-legally imported amygdalin8(1)
+legally imported amygdalin9(1)
 listed name89(1)
 livestock export standard49(1)
 medic37
@@ -88,7 +87,7 @@ medication chart3(1)
 Medicines List67(1)
 midwife37
 non-compliant container or label85(1), 152(1)
-nurse practitioner37
+nurse practitioner3(1)
 opioid pharmacotherapy114
 opioid pharmacotherapy prescriber133
 optometrist37
@@ -105,7 +104,7 @@ personal information18(1)
 pharmaceutical sample3(1)
 pharmacy intern88(1)
 pharmacy technician88(1)
-podiatrist37
+podiatrist3(1)
 prescribing code114
 private hospital3(1)
 public health programme3(1)
@@ -122,28 +121,28 @@ regulated Australian vessel37
 relevant premises95(1)
 remote clinic37
 repealed Act149
-repealed regulations149
-repeat form24(1) and (2)
+repealed regulations148F(2)
+repeat form23(1), 24(2)
 residential care chart3(1)
 residential care facility3(1)
 responsible person76(1)
-restricted Schedule 3 poison2(1)
+restricted Schedule 3 poison3(1)
 Schedule 2 retail licence86(1)
+Schedule 4 reportable poison3(1)
 Schedule 6 nitrous oxide148D
 section3(1)
 secure cabinet94
 small safe94
 specialist prescriber133
-specified71, 107(1), 118(1)
+specified70(3), 107(1), 118(1)
 Standard for Optometrists60(1)
 stimulant114
 stimulant clinic125
-stimulant co-prescriber125
 stimulant prescriber125
 strongroom94
 structured administration and supply arrangement3(1)
 supply37
-system identifier18(1), 146(1)
+system identifier18(1), 147(1)
 therapeutic use6A(1)
 transdermal administration6A(1)
 unauthorised person22(1)
