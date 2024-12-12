@@ -45,13 +45,15 @@ Attorney General Regulations Amendment (Fee Waiver) Regulations 2022 Pt. 3 | SL 
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 10 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 10 | SL 2024/113 26 Jun 2023 | 1 Jul 2024 (see. r 2(b))
 Court Fees Regulation Amendment Regulations 2024 Pt. 4 | SL 2024/174 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+Attorney General Regulations Amendment (Fees) Regulations 2024 Pt. 3 | SL 2024/254 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Other notes
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+applicant6A(1)
 case statement3
-Centrelink8(1)
+Centrelink7(1)
 claim3
 claimant3
 commencement day15(1)
@@ -64,18 +66,19 @@ eligible individual fee3
 enforcement officer3
 entity3
 Form3
+FVRO6A(1)
 individual3
 interim order6A(1)
-interim order respondent6A(2)
 metropolitan region3
 minor cases procedure3
 non-profit association3
 party3
 person3
 prosecution notice3
-respondent6(2)
+respondent6(2), 6A(1)
 small business3
 subsidiary3
+VRO6A(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.

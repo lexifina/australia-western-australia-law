@@ -37,9 +37,11 @@ Attorney General Regulations Amendment (Fee Waiver) Regulations 2022 Pt. 2 | SL 
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/113 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Court Fees Regulation Amendment Regulations 2024 Pt. 2 | SL 2024/174 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+Attorney General Regulations Amendment (Fees) Regulations 2024 Pt. 2 | SL 2024/254 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+applicant6AA(1)
 approved form3
 Centrelink8(1)
 civil jurisdiction3
@@ -48,8 +50,11 @@ deputy registrar3
 eligible individual3
 eligible individual fee3
 enforcement officer3
+FVRO6AA(1)
+interim order6AA(1)
 prosecution notice3
-respondent6(2)
+respondent6(2), 6AA(1)
+VRO6AA(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2024.
