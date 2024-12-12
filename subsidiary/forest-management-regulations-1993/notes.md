@@ -20,6 +20,7 @@ Reprint 2: Forest Management Regulations 1993 as at 25 Mar 2011 (includes amendm
 Forest Management Amendment Regulations 2012 | 7 Dec 2012 p. 5975-7 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Forest Management Amendment Regulations 2020 | SL 2020/224 20 Nov 2020 | r. 1 and 2: 20 Nov 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2020 (see r. 2(b) and SL 2020/225 r. 2(b))
 Environment Regulations Amendment Regulations 2022 Pt. 3 | SL 2022/170 21 Oct 2022 | 22 Oct 2022 (see r. 2(b))
+Forest Management Amendment Regulations 2024 | SL 2024/259 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2024 (see r. 2(b))
 Other notes
 The Conservation and Land Management Regulations 2002 r. 114 repealed some of these regulations and s. 116 reads as follows:
 116.Saving
@@ -34,21 +35,16 @@ former provision means a provision repealed by regulation 114 or 115.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-buyer2
-contract of sale2
-contract to harvest and deliver2
-contractor2
-coupe2
-Crown land2
-district2
+authorised officer2
 fell2
-forest produce licence2
-logging plan2
 marking out93
-permit2
 public firewood area98(1)
 sell101(2)
 South-west Division93
 State forest2
 tree2
 written authorisation104
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
