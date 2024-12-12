@@ -21,6 +21,7 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 4 | S
 Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/59 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Commerce Regulations Amendment (Building Services) Regulations 2023 Pt. 3 | SL 2023/64 2 Jun 2023 | 1 Jul 2024 (see r. 2(b))
 Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 3 | SL 2024/12 9 Feb 2024 | 10 Feb 2024 (see r. 2(d))
+Commerce Regulations Amendment (Building Services) Regulations 2024 Pt. 2 | SL 2024/255 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Other notes
 Section 374 was deleted by the Building Act 2011 s. 153(2).
 Defined terms
