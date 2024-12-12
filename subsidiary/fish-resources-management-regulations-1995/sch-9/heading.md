@@ -46,7 +46,7 @@ Emperor, Red | 12.00 | 36.00
 Emperor, Spangled | 6.00 | 15.00
 Flathead | 8.00 | 7.00
 Flounder | 12.50 | 6.00
-Foxfish, Western | 7.00 | 4.00
+Foxfish | 7.00 | 4.00
 Garfish | 6.00 | 2.00
 Groper, Baldchin | 13.00 | 39.00
 Groper, Bass | 9.50 | 57.00
@@ -104,7 +104,7 @@ Sawfish | 10.00 | 500.00
 Scallop (shucked) | 18.00 | 0.50
 Scallop (whole weight) | 6.00 | 1.00
 Seabream | 7.00 | 14.00
-Sea Cucumber (Beche-de-mer, Trepang) | 9.50 | 4.00
+Sea Cucumber | 9.50 | 4.00
 Seadragon, Common | - | 100.00
 Seadragon, Leafy | - | 100.00
 Sea Urchin | 20.00 | 2.00
@@ -157,4 +157,4 @@ Yabbie | 12.00 | 2.00
 Yellowtail Kingfish | 3.00 | 15.00
 Zoila Cowry | - | 50.00
 All fish not otherwise listed in this Schedule | 1.00 | 1.00
-[Schedule 9 inserted: Gazette 4 Oct 2019 p. 3599-606.]
+[Schedule 9 inserted: Gazette 4 Oct 2019 p. 3599-606; amended: SL 2024/263 r. 27.]

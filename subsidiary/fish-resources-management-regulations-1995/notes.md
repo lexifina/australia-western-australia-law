@@ -209,6 +209,7 @@ Fish Resources Management Amendment Regulations 2024 | SL 2024/64 1 May 2024 | r
 Fish Resources Management Amendment Regulations (No. 3) 2024 | SL 2024/114 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2024 | SL 2024/158 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2024 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 5) 2024 | SL 2024/234 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2024 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 2) 2024 | SL 2024/263 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2024 (see r. 2(b))
 Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -239,6 +240,7 @@ bait band55E
 batch144A(1)
 boat124B(1), 128IA
 bona fide64I(2)
+broken55FA(1)
 camp72
 cancelled authorisation129A
 carrier boat119(1)
@@ -247,7 +249,7 @@ Central West Zone38(1)
 certificate of health144A(1)
 charter boat3(1)
 chlorine tarping110(2)
-closed season38G, 44(1)
+closed season38G, 45(1)
 Cockburn Sound3(1)
 commencement point3(1)
 commercial fishing licence3(1)
@@ -269,10 +271,11 @@ destroy144A(1)
 disease3(1), 144A(1)
 diseased144A(2)
 disinfect144A(1)
-disposable part15(1), 16(1)
+disposable part14(1), 16(1)
 due date137(4)
 Easter Group Zone 38(1)
 eastern gulf land area3(1)
+excluded boat16DA(1A)
 exempt business64AA(1)
 extended fishing tour3(1)
 farm lease144A(1)
@@ -308,7 +311,7 @@ Jungulu Special Purpose Zone (wilderness conservation)3(1)
 Kalbarri Blue Holes waters3(1)
 Lalang-garram / Camden Sound Marine Park3(1)
 Lancelin Island Lagoon3(1)
-large pelagic finfish2(1)
+large pelagic finfish3(1)
 length144A(1)
 licence holder55A
 licensed boat72
@@ -325,10 +328,11 @@ marron scoop net3(1), 38G
 marron trophy waters3(1)
 May - October64OD(4)
 metropolitan waters3(1)
-mollusc3(1)
+mollusc2(1)
 Montebello Islands Marine ParkSch. 5
 mooring72
 motor boat3(1)
+NDS Managed Fishery55E
 nearshore or estuarine finfish65D(1)
 Ningaloo Marine Park3(1)
 non-possession period38O(3)
@@ -336,6 +340,7 @@ notice55B(1A)
 notional bag limit162(2)
 November - April64OD(4)
 one day3(1)
+operating effectively55C(1)
 operator72
 ornamental fish69A(1)
 package21A(1), 61(3a)
@@ -350,6 +355,7 @@ prawn hand trawl net3(1)
 prescribed abalone16GD(1)
 prescribed way128T(3)
 principal place of residence3(1)
+PT Managed Fishery55E
 pull3(1)
 quarantine site144A(1)
 quota period128U(1)
@@ -371,7 +377,7 @@ Rottnest Island ReserveSch. 2 cl. 4(2)
 Rowley Shoals Marine ParkSch. 2
 scheduled fish disease3(1)
 sea lion exclusion device38(3)
-Sea Lion Protection Zone38
+Sea Lion Protection Zone38(1)
 section 224129A
 set3(1)
 setoseSch. 2
@@ -380,6 +386,7 @@ share arrangement72
 South Coast Region3(1)
 spat144A(1)
 spat collector144A(1)
+specified boat55FA(1)
 store21A(1)
 structure87
 sunrise3(1)

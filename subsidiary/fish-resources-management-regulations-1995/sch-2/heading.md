@@ -41,7 +41,6 @@ Fish of Class Anthozoa and Class Hydrozoa in Rowley Shoals Marine Park.
 Groper, Queensland.
 Humphead Maori Wrasse.
 Little Pygmy Perch.
-Live coral of the Order Scleractinia in the waters bounded by a line commencing from the intersection of 27° 30′ south latitude and 112° 50′ east longitude and extending in an easterly direction to the intersection of 27° 30′ south latitude and 113° 37′ east longitude; thence southeasterly to the intersection of 28° 45′ south latitude and 114° 09′ 52.18″ east longitude; thence southeasterly to the intersection of 29° 30′ south latitude and 114° 30′ east longitude; thence west to 112° 50′ east longitude; thence north to the starting point.
 Leafy Seadragon.
 Molluscs, other than cuttlefish, squid and octopus, in Rowley Shoals Marine Park.
 Mud Minnow.
@@ -72,7 +71,7 @@ interdorsal fin length means the distance between the first and second dorsal fi
 (i)the second dorsal fin insertion; or
 (ii)if all or part of that fin has been removed so that point of insertion cannot be ascertained, the posterior end of the cut made to remove the fin or that part of the fin;
 Rowley Shoals Marine Park means all waters reserved under the Conservation and Land Management Act 1984 section 13 as Class “A” Marine Reserve No. 3, Rowley Shoals Marine Park.
-[Division 2 amended: Gazette 5 Dec 1997 p. 7123; 19 Jun 1998 p. 3264; 13 Aug 1999 p. 3827; 28 Nov 2003 p. 4776; 22 Dec 2005 p. 6228; 13 Feb 2009 p. 299; 24 Aug 2011 p. 3408; 24 Feb 2012 p. 802; 23 Jan 2015 p. 401; 4 Oct 2019 p. 3548-9.]
+[Division 2 amended: Gazette 5 Dec 1997 p. 7123; 19 Jun 1998 p. 3264; 13 Aug 1999 p. 3827; 28 Nov 2003 p. 4776; 22 Dec 2005 p. 6228; 13 Feb 2009 p. 299; 24 Aug 2011 p. 3408; 24 Feb 2012 p. 802; 23 Jan 2015 p. 401; 4 Oct 2019 p. 3548-9; SL 2024/263 r. 20.]
 ## Division 3 — Marine or fluvio-marine fish
 ## Subdivision 1 — Protected by reference to species, area and period
 [Heading inserted: Gazette 28 Feb 2003 p. 662.]

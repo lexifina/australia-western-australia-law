@@ -15,7 +15,7 @@ Dhufish, West Australian | 2
 Dory, John and Mirror | 3
 Emperor and Seabream, all species except Grass Emperor | 3
 Emperor, Grass | 5
-Foxfish, Western and Pigfish | 3
+Foxfish | 3
 Groper, Baldchin and Tuskfish | 3
 Groper, Western Blue | 1
 Hapuku, Bass Groper and Trevalla(s), Blue-Eye | 3
@@ -26,7 +26,7 @@ Snapper (Pink Snapper), in the waters of the Shark Bay western gulf or the water
 Snapper, Queen | 3
 Tropical Snapper, all species except Golden Snapper (Fingermark), Mangrove Jack and Stripey Snapper | 3
 Redfish, Bight (Red Snapper, Nannygai), Redfish, Yelloweye and Swallowtail in South Coast region | 8
-[Subdivision 1 inserted: Gazette 4 Oct 2019 p. 3555-6; amended: SL 2023/2 r. 22.]
+[Subdivision 1 inserted: Gazette 4 Oct 2019 p. 3555-6; amended: SL 2023/2 r. 22; SL 2024/263 r. 21(1).]
 ## Subdivision 2 — West Coast Region other than Abrolhos Islands Fish Habitat Protection Area
 [r. 65B]
 [Heading inserted: Gazette 4 Oct 2019 p. 3556; amended: SL 2023/2 r. 23.]
@@ -36,7 +36,7 @@ Coral Trout and Coronation Trout | 1
 Dhufish, West Australian | 2
 Dory, John and Mirror | 2
 Emperor and Seabream | 2
-Foxfish, Western and Pigfish | 2
+Foxfish | 2
 Groper, Baldchin and Tuskfish | 2
 Groper, Western Blue | 1
 Hapuku, Bass Groper, Eightbar Grouper and Trevalla(s), Blue-Eye | 2
@@ -45,7 +45,7 @@ Rockcod, all species except Coral Trout and Coronation Trout | 2
 Snapper (Pink Snapper) | 2
 Snapper, Queen | 2
 Tropical Snapper, all species except Golden Snapper (Fingermark), Mangrove Jack and Stripey Snapper | 2
-[Subdivision 2 inserted: Gazette 4 Oct 2019 p. 3556-7; amended: SL 2023/2 r. 24.]
+[Subdivision 2 inserted: Gazette 4 Oct 2019 p. 3556-7; amended: SL 2023/2 r. 24; SL 2024/263 r. 21(2).]
 ## Subdivision 3 — Abrolhos Island Fish Habitat Protection Area
 [r. 65BA]
 [Heading inserted: SL 2023/2 r. 25.]
@@ -72,7 +72,7 @@ Tropical Snapper, all species except Golden Snapper (Fingermark), Mangrove Jack 
 [Heading inserted: SL 2023/2 r. 26.]
 Fish | Species bag limit for one day | Grouped bag limit of all species of large pelagic finfish for one day
 Amberjack, Samsonfish and Yellowtail Kingfish | 3 | 3
-Barracouta (Gemfish) | 3
+Barracouta | 3
 Barracuda | 3
 Billfish (Marlin, Sailfish) and Swordfish | 1
 Cobia | 3
@@ -81,22 +81,22 @@ Mackerel (Grey, School, Shark, Spanish, Spotted) and Wahoo | 3
 Sharks and Rays | 3
 Trevally, Giant and Golden | 3
 Tuna (Bigeye, Longtail, Mackerel, Skipjack, Southern Bluefin, Yellowfin and Dogtooth) | 3
-[Subdivision 1 (formerly Division 2) inserted: Gazette 4 Oct 2019 p. 3557-8.]
+[Subdivision 1 (formerly Division 2) inserted: Gazette 4 Oct 2019 p. 3557-8; amended: SL 2024/263 r. 21(3).]
 ## Subdivision 2 — Abrolhos Island Fish Habitat Protection Area
 [r. 65CA]
-[Heading inserted: SL 2023/2 r. 27.]
+[Heading inserted: SL 2024/263 r. 21(4).]
 Fish | Species bag limit for one day | Grouped bag limit of all species of large pelagic finfish for one day
-Amberjack, Samsonfish and Yellowtail Kingfish | 1 | 1
-Barracouta (Gemfish) | 1
-Barracuda | 1
+Amberjack, Samsonfish and Yellowtail Kingfish | 3 | 3
+Barracouta | 3
+Barracuda | 3
 Billfish (Marlin, Sailfish) and Swordfish | 1
-Cobia | 1
-Dolphinfish (Mahi Mahi) | 1
-Mackerel (Grey, School, Shark, Spanish, Spotted) and Wahoo | 1
-Sharks and Rays | 1
-Trevally, Giant and Golden | 1
-Tuna (Bigeye, Longtail, Mackerel, Skipjack, Southern Bluefin, Yellowfin and Dogtooth) | 1
-[Subdivision 2 inserted: SL 2023/2 r. 27.]
+Cobia | 3
+Dolphinfish (Mahi Mahi) | 3
+Mackerel (Grey, School, Shark, Spanish, Spotted) and Wahoo | 3
+Sharks and Rays | 3
+Trevally, Giant and Golden | 3
+Tuna (Bigeye, Longtail, Mackerel, Skipjack, Southern Bluefin, Yellowfin and Dogtooth) | 3
+[Subdivision 2 inserted: SL 2024/263 r. 21(4).]
 ## Division 3 — Bag limits — nearshore or estuarine finfish
 [r. 65D]
 [Heading inserted: Gazette 4 Oct 2019 p. 3558.]
@@ -154,11 +154,11 @@ Koonac | N/A
 Marron | 5 (in marron trophy water) 8 (in other waters)
 Prawn | 9 litres
 Prawn, Freshwater (Cherabin) | 9 litres
-Redclaw | N/A
+Redclaw Crayfish | N/A
 Rock Lobster, all species | 8 (including no more than 4 Tropical Rock Lobsters)
 Yabbie | N/A
 Other crustacean species not specified above | 10
-[Division 6 inserted: Gazette 4 Oct 2019 p. 3561-2; amended: Gazette 29 Nov 2019 p. 4105; SL 2023/2 r. 28; SL 2024/234 r. 7.]
+[Division 6 inserted: Gazette 4 Oct 2019 p. 3561-2; amended: Gazette 29 Nov 2019 p. 4105; SL 2023/2 r. 28; SL 2024/234 r. 7; amended: SL 2024/263 r. 21(5).]
 ## Division 7 — Bag limits — molluscs and other invertebrates
 [r. 65H]
 [Heading inserted: Gazette 4 Oct 2019 p. 3562.]

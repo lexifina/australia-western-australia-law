@@ -2,15 +2,15 @@
 [r. 3(2)]
 [Heading inserted: Gazette 4 Oct 2019 p. 3588.]
 ## Division 1 — Marine or fluvio-marine fish
-[Heading inserted: Gazette 4 Oct 2019 p. 3588.]
+[Heading inserted: SL 2024/263 r. 24.]
 Common name | Scientific name
 Albacore | Thunnus alalunga
 Amberjack | Seriola dumerili
 Anchovy, Australian | Engraulis australis
 Bait Fish | Families Clupeidae and Engraulidae
+Barracouta | Family Gempylidae
 Barracuda, Great | Sphyraena barracuda
 Barracuda, Striped | Sphyraena obtusata
-Barracouta (Gemfish) | Family Gempylidae
 Barramundi | Lates calcarifer
 Billfish (Marlins, Sailfish, Spearfish) | Family Istiophoridae
 Boarfish | Family Pentacerotidae
@@ -22,10 +22,11 @@ Bream, Northwest Black | Acanthopagrus palmaris
 Bream, Western Yellowfin | Acanthopagrus morrisoni
 Catfish | Families Ariidae and Plotosidae
 Cobbler, Estuary | Cnidoglanis macrocephalus
+Cobbler, Silver | Neoarius midgleyi
 Cobia | Rachycentron canadum
 Cod, Barramundi | Cromileptes altivelis
 Cod, Breaksea | Epinephelides armatus
-Cod, Rankin | Epinephelus multinotatus
+Cod, Rankin | Epinephelus rankini
 Coral Trout | Plectropomus spp.
 Coronation Trout | Variola spp.
 Dart | Trachinotus spp.
@@ -45,7 +46,7 @@ Flathead, Marbled | Platycephalus marmoratus
 Flathead, Southern Bluespotted | Platycephalus speculator
 Flathead, Yellowtail | Platycephalus westraliae
 Flounder | Families Pleuronectidae, Bothidae and Paralichthyidae
-Foxfish, Western and Pigfish | Bodianus spp.
+Foxfish | Bodianus spp.
 Garfish | Family Hemiramphidae
 Groper, Baldchin | Choerodon rubescens
 Groper, Bass | Polyprion americanus
@@ -53,7 +54,7 @@ Groper, Queensland | Epinephelus lanceolatus
 Groper, Western Blue | Achoerodus gouldii
 Grouper, Eightbar | Hyporthodus octofasciatus
 Hapuku | Polyprion oxygeneios
-Hardyhead | Family Atherinidae
+Hardyhead | Families Atherinidae and Dentatherinidae
 Herring, Australian (Herring) | Arripis georgianus
 Herring, Giant | Elops spp.
 Herring, Perth | Nematalosa vlaminghi
@@ -64,12 +65,12 @@ Longtom | Family Belonidae
 Mackerel | Family Scombridae
 Mackerel, Blue | Scomber australasicus
 Mackerel, Common Jack | Trachurus declivis
-Mackerel, Grey | Scomberomorus semifasciatus
+Mackerel, Grey (Broad-barred Mackerel) | Scomberomorus semifasciatus
 Mackerel, Peruvian Jack | Trachurus murphyi
 Mackerel, Scaly | Sardinella lemuru
 Mackerel, School | Scomberomorus queenslandicus
 Mackerel, Shark | Grammatorcynus bicarinatus
-Mackerel, Spanish | Scomberomorus commerson
+Mackerel, Spanish (Narrow-barred Mackerel) | Scomberomorus commerson
 Mackerel, Spotted | Scomberomorus munroi
 Mangrove Jack | Lutjanus argentimaculatus
 Maray | Etrumeus jacksoniensis
@@ -84,9 +85,9 @@ Pearl Perch | Glaucosoma spp., excluding G. hebraicum
 Pike, Longfin | Dinolestes lewini
 Queenfish | Scomberoides spp.
 Queenfish, Needleskin | Scomberoides tol
+Rays | Superorder Batoidea
 Rays, Eagle | Family Myliobatidae
 Ray, Manta | Manta birostris
-Rays | Superorder Batoidea
 Redbait | Emmelichthys nitidus
 Redfish, Bight (Nannygai, Red Snapper) | Centroberyx gerrardi
 Redfish, Yelloweye | Centroberyx australis
@@ -120,11 +121,11 @@ Snapper, Saddletail | Lutjanus malabaricus
 Snapper, Stripey | Lutjanus carponotatus
 Snapper, Tropical | Family Lutjanidae
 Snook | Sphyraena novaehollandiae
-Sole | Families Soleidae and Cynoglossidae
+Sole | Family Soleidae
 Sprat, Blue | Spratelloides robustus
 Sprat, Sandy (Whitebait) | Hyperlophus vittatus
-Stingray, Black | Dasyatis thetidis
-Stingray, Smooth | Dasyatis brevicaudata
+Stingray, Black | Bathytoshia lata
+Stingray, Smooth | Bathytoshia brevicaudata
 Swallowtail | Centroberyx lineatus
 Sweep, Banded | Scorpis georgiana
 Sweep, Sea | Scorpis aequipinnis
@@ -139,7 +140,7 @@ Trevally | Family Carangidae
 Trevally, Diamond | Alectis indica
 Trevally, Giant | Caranx ignobilis
 Trevally, Golden | Gnathanodon speciosus
-Trevally, Silver (Skipjack) | Pseudocaranx spp.
+Trevally, Silver (Skipjack) | Pseudocaranx spp. complex
 Tripletail | Lobotes surinamensis
 Tuna, Bigeye | Thunnus obesus
 Tuna, Dogtooth | Gymnosarda unicolor
@@ -154,19 +155,18 @@ Tuskfish, Blue | Choerodon cyanodus
 Wahoo | Acanthocybium solandri
 Whiting | Sillago spp.
 Whiting, Goldenline | Sillago analis
-Whiting, King George | Sillaginodes punctata
+Whiting, King George | Sillaginodes punctatus
 Whiting, Southern School | Sillago bassensis
 Whiting, Yellowfin | Sillago schomburgkii
 Wrasse | Subfamily Labrinae
 Wrasse, Humphead Maori | Cheilinus undulatus
 Yellowtail Kingfish | Seriola lalandi
-[Division 1 inserted: Gazette 4 Oct 2019 p. 3588-95; amended: SL 2021/118 r. 26.]
+[Division 1 inserted: SL 2024/263 r. 24.]
 ## Division 2 — Freshwater fish
 [Heading inserted: Gazette 4 Oct 2019 p. 3595.]
 Common name | Scientific name
 Carp, European | Cyprinus carpio
 Cobbler, Freshwater | Tandanus bostocki
-Cobbler, Silver | Neoarius midgleyi
 Cod, Murray | Maccullochella peeli
 Eel, Southern Shortfin | Anguilla australis
 Goldfish | Carassius auratus
@@ -184,12 +184,12 @@ Redfin | Perca fluviatilis
 Salamanderfish | Lepidogalaxias salamandroides
 Trout, Brown | Salmo trutta
 Trout, Rainbow | Oncorhynchus mykiss
-[Division 2 inserted: Gazette 4 Oct 2019 p. 3595-6.]
+[Division 2 inserted: Gazette 4 Oct 2019 p. 3595-6; SL 2024/263 r. 25.]
 ## Division 3 — Crustaceans
-[Heading inserted: Gazette 4 Oct 2019 p. 3596.]
+[Heading inserted: SL 2024/263 r. 26.]
 Common name | Scientific name
 Crab | Chaceon, Hypothalassia, Ovalipes, Portunus, Pseudocarcinus and Scylla spp.
-Crab, Blue Swimmer (Blue Manna) | Portunus pelagicus and Portunus armatus
+Crab, Blue Swimmer (Blue Manna) | Portunus armatus
 Crab, Brown Mud | Scylla olivacea
 Crab, Champagne | Hypothalassia acerba
 Crab, Coral | Charybdis feriata
@@ -198,42 +198,29 @@ Crab, Giant | Pseudocarcinus gigas
 Crab, Green Mud | Scylla serrata
 Crab, Sand | Ovalipes australiensis and Portunus sanguinolentus
 Freshwater Crayfish | Cherax spp. excluding C. tenuimanus and C. cainii
-Gilgie | Cherax quinquecarinatus and crassimanus
-Koonac | Cherax plebejus and glaber
+Gilgie | Cherax quinquecarinatus and C. crassimanus
+Koonac | Cherax plebejus and C. glaber
 Marron | Cherax tenuimanus and C. cainii
-Prawn | Family Penaeidae
+Prawn | Superfamilies Penaeoidea and Caridea
 Prawn, Banana | Penaeus indicus and Penaeus merguiensis
 Prawn, Brown Tiger | Penaeus esculentus
 Prawn, Freshwater (Cherabin) | Macrobrachium spp.
-Prawn, Western King | Penaeus latisulcatus
+Prawn, Western King | Melicertus latisulcatus
 Prawn, Western School | Metapenaeus dalli
-Redclaw | Cherax quadricarinatus
+Redclaw Crayfish | Cherax quadricarinatus
 Rock Lobster | Jasus and Panulirus spp.
 Rock Lobster, Southern | Jasus edwardsii
 Rock Lobster, Tropical | Panulirus spp. excluding P. cygnus
 Rock Lobster, Western | Panulirus cygnus
-Yabbie | Cherax destructor Var.
-[Division 3 inserted: Gazette 4 Oct 2019 p. 3596-7.]
+Yabbie | Cherax destructor
+[Division 3 inserted: SL 2024/263 r. 26.]
 ## Division 4 — Molluscs
-[Heading inserted: Gazette 4 Oct 2019 p. 3597.]
+[Heading inserted: SL 2024/263 r. 26.]
 Common name | Scientific name
-CEPHALOPODS
-Cuttlefish | Sepia spp.
-Octopus | Family Octopodidae
-Squid | Order Teuthoidea
-GASTROPODS
-Abalone (all species) | Haliotis spp.
-Abalone, Brownlip | Haliotis conicopora
-Abalone, Greenlip | Haliotis laevigata
-Abalone, Roe’s | Haliotis roei
-Bailer Shell | Family Volutidae
-Conch | Family Strombidae
-Trochus | Tectus niloticus
-Zoila Cowry | Family Cypraeidae
 BIVALVES
 Ark Shell | Family Arcidae
-Clam, Giant | Family Tridacnidae
-Clam, Venus | Family Veneridae, Katelysia spp.
+Clam, Giant | Tridacna gigas
+Clam, Venus | Family Veneridae
 Cockle | Anadara spp.
 Mussel | Family Mytilidae
 Mussel, Blue | Mytilus galloprovincialis
@@ -241,13 +228,26 @@ Oyster | Family Ostreidae
 Pipis | Family Donacidae
 Razor Shell | Family Pinnidae
 Scallop | Family Pectinidae
-[Division 4 inserted: Gazette 4 Oct 2019 p. 3597-8.]
+CEPHALOPODS
+Cuttlefish | Sepia spp.
+Octopus | Family Octopodidae
+Squid | Order Teuthoidea
+GASTROPODS
+Abalone | Haliotis spp.
+Abalone, Brownlip | Haliotis conicopora
+Abalone, Greenlip | Haliotis laevigata
+Abalone, Roe’s | Haliotis roei
+Bailer Shell | Family Volutidae
+Conch | Family Strombidae
+Trochus | Rochia nilotica
+Zoila Cowry | Family Cypraeidae
+[Division 4 inserted: SL 2024/263 r. 26.]
 ## Division 5 — Other
-[Heading inserted: Gazette 4 Oct 2019 p. 3598.]
+[Heading inserted: SL 2024/263 r. 26.]
 Common name | Scientific name
 Bloodworm | Polycirrus spp.
 Coral | Class Anthozoa and Class Hydrozoa
 Live Rock | Family Corallinaceae, Class Polychaeta, Class Crinoidea, Class Ascidiacea, Class Ophiuroidea, Phylum Bryozoa and Phylum Porifera and dead fish of Class Anthozoa and Class Hydrozoa
-Sea Cucumber (Beche-de-mer, Trepang) | Class Holothurioidae
-Sea Urchin | Class Echinoidea
-[Division 5 inserted: Gazette 4 Oct 2019 p. 3598-9.]
+Sea Cucumber | Class Holothuroidea
+Sea Urchin | Family Echinometridae
+[Division 5 inserted: SL 2024/263 r. 26.]

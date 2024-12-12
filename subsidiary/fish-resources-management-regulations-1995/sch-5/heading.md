@@ -8,7 +8,6 @@ Port of Bunbury means the area described to be the Port of Bunbury by order made
 Port of Fremantle means the area described to be the Port of Fremantle by order made by the Governor under the Port Authorities Act 1999 section 24(1).
 Scientific name | Examples of common names used | Area or areas where fish is prescribed to be noxious
 Acanthogobius flavimanus | Yellow Fin Goby | Any area of the State
-Acartia (Acanthacartia) tonsa | Calanoid Copepod | Any area of the State
 Acestrorhynchus microlepis | Pike Characin | Any area of the State
 Acipenser baerii baerii | Siberian Sturgeon | Any area of the State
 Acipenser baerii baicalensis | Baikal Sturgeon | Any area of the State
@@ -31,10 +30,6 @@ Acipenser sinensis | Chinese Sturgeon | Any area of the State
 Acipenser stellatus | Starry Sturgeon | Any area of the State
 Acipenser sturio | European Sturgeon | Any area of the State
 Acipenser transmontanus | White Sturgeon | Any area of the State
-Alexandrium catenella | Toxic Dinoflagellate | Any area of the State except in the Port of Fremantle
-Alexandrium minutum | Toxic Dinoflagellate | Any area of the State
-Alexandrium monilatum | Toxic Dinoflagellate | Any area of the State
-Alexandrium tamarense | Toxic Dinoflagellate | Any area of the State
 Alfaro amazonus |  | Any area of the State
 Alfaro cultratus | Knife-edged Livebearer | Any area of the State
 Alfaro huberi |  | Any area of the State
@@ -56,6 +51,7 @@ Anaspidoglanis macrostoma | Flatnose Catfish | Any area of the State
 Apeltes quadracus | Four-spined Stickleback | Any area of the State
 Arcuatula senhousia (syn. Musculista senhousia) | Asian Bag Mussel, Asian Date Mussel | Any area of the State except in the Swan River and Port of Fremantle
 Aristichthys noblis | Bighead Carp | Any area of the State
+Astacus leptodactylus | Danube Crayfish, Turkish Crayfish | Any area of the State
 Asterias amurensis | Northern Pacific Seastar | Any area of the State
 Astyanax aeneus | Banded Tetra | Any area of the State
 Astyanax fasciatus | Banded Astyanax | Any area of the State
@@ -73,6 +69,7 @@ Boulengerella xyrekes |  | Any area of the State
 Boulengerochromis microlepis | Giant Cichlid, Yellow-belly Cichlid | Any area of the State
 Brachidontes pharaonis | Variable Mussel | Any area of the State
 Callinectes sapidus | Chesapeake Blue Crab, Atlantic Blue Crab, Blue Crab | Any area of the State
+Cambarellus patzcuarensis | Mexican Dwarf Crayfish | Any area of the State
 Carcinoscorpius rotundicauda | Mangrove Horseshoe Crab | Any area of the State
 Carcinus maenas | European Green Crab, European Shore Crab | Any area of the State
 Catla catla | Catla | Any area of the State
@@ -83,8 +80,6 @@ Centropomus (entire genus) | Snooks (American) | Any area of the State
 Chaca bankanensis | Angler Catfish | Any area of the State
 Chaca burmensis | Burmensis Frogmouth Catfish | Any area of the State
 Chaca chaca | Angler, Frogmouth and Squarehead Catfish | Any area of the State
-Chaetoceros concavicornis | Centric Diatom | Any area of the State
-Chaetoceros convolutus | Centric Diatom | Any area of the State
 Channa spp. (entire genus) | Snakehead | Any area of the State
 Charybdis (Charybdis) japonica | Asian Paddle Crab | Any area of the State
 Chthamalus proteus | Atlantic Barnacle, Caribbean Barnacle | Any area of the State
@@ -114,7 +109,6 @@ Didemnum non-endemic spp. | Colonial Sea Squirt, Colonial Ascidian | Any area of
 Didemnum perlucidum | White Sea Squirt, White Ascidian | Montebello Islands Marine Park
 Didemnum vexillum | Colonial Sea Squirt | Any area of the State
 Dikerogammarus villosus | Killer Shrimp | Any area of the State
-Dinophysis norvegica | Toxic Dinoflagellate | Any area of the State
 Dormitator latifrons | Pacific Fat Sleeper | Any area of the State
 Dormitator lebretonis |  | Any area of the State
 Dormitator maculatus | Fat Sleeper | Any area of the State
@@ -155,6 +149,7 @@ Eriocheir spp. | Mitten Crabs | Any area of the State
 Erpetoichthys calabaricus | Reedfish | Any area of the State
 Erythrinus spp. (entire genus) | Trahiras (various) | Any area of the State
 Esox spp. (entire genus) | Pikes (Freshwater) | Any area of the State
+Faxonius rusticus (formerly Orconectes rusticus) | Rusty Crayfish | Any area of the State
 Fucus evanescens | Brown Macroalga, Wrack | Any area of the State
 Gambusia spp. (entire genus) | Mosquito Fish | Any area of the State
 Gelliodes fibrosa | Gray Encrusting Sponge | Any area of the State
@@ -165,7 +160,6 @@ Gobiomorus dormitor | Bigmouth Sleeper | Any area of the State
 Gobiomorus maculatus | Pacific Sleeper | Any area of the State
 Grateloupia turuturu | Devil’s Tongue Weed, Asian Red Seaweed | Any area of the State
 Gymnarchus niloticus | Aba Aba | Any area of the State
-Gymnodinium catenatum |  | Any area of the State
 Helicophagus leptorhynchus |  | Any area of the State
 Helicophagus waandersii |  | Any area of the State
 Hemichromis fasciatus | Banded Jewelfish | Any area of the State
@@ -249,6 +243,8 @@ Noturus stanauli | Pygmy Madtom | Any area of the State
 Noturus stigmosus | Northern Madtom | Any area of the State
 Noturus taylori | Caddo Madtom | Any area of the State
 Noturus trautmani | Scioto Madtom | Any area of the State
+Orconectes limosus | Spiny Cheek Crayfish | Any area of the State
+Orconectes virilis | Northern Crayfish, Virile Crayfish | Any area of the State
 Oreochromis spp. (entire genus) | Tilapia (various) | Any area of the State
 Oxydoras spp. (entire genus) | Ripsaw Catfish, Black Doras, Black Shielded Catfish | Any area of the State
 Oxyeleotris heterodon | Sentani Gudgeon | Any area of the State
@@ -257,6 +253,7 @@ Oxyeleotris siamensis |  | Any area of the State
 Oxyeleotris urophthalmoides |  | Any area of the State
 Oxyeleotris urophthalmus |  | Any area of the State
 Pachygrapsus fakaravensis | Polynesian Grapsid Crab | Any area of the State
+Pacifastacus leniusculus | Signal Crayfish | Any area of the State
 Pangasianodon gigas | Mekong Giant Catfish | Any area of the State
 Pangasius bedado |  | Any area of the State
 Pangasius bocourti | Basa Fish | Any area of the State
@@ -286,18 +283,17 @@ Paravandelia oxyptera | Parasitic Catfish | Any area of the State
 Perna canaliculus | New Zealand Mussel, New Zealand Green-lipped Mussel, Greenshell Mussel, Kuku, Kutai | Any area of the State
 Perna perna | Brown Mussel | Any area of the State
 Perna viridis | Asian Green Mussel | Any area of the State
-Pfiesteria piscicida | Toxic Dinoflagellate | Any area of the State
 Phoxinus erythrogaster | Southern Redbelly Dace | Any area of the State
 Polyodon spathula | Mississippi Paddlefish | Any area of the State
 Potamocorbula amurensis (syn. Corbula amurensis) | Asian Clam, Amur River Clam, Overbite Clam, Brackish-water Corbula | Any area of the State
 Procambarus clarkii | Red Swamp Crayfish | Any area of the State
+Procambarus fallax f. virginalis | Marbled Crayfish, Marmorkrebs | Any area of the State
 Protopterus aethiopicus | Marbled Lungfish | Any area of the State
 Protopterus amphibius | Gilled Lungfish | Any area of the State
 Protopterus annectens | African Lungfish | Any area of the State
 Protopterus dolloi | Slender Lungfish | Any area of the State
 Psephurus gladius | Chinese Swordfish | Any area of the State
 Pseudodiaptomus marinus | Calanoid Copepod | Any area of the State
-Pseudo-nitzschia seriata | Pennate Diatom | Any area of the State
 Pseudoplatystoma fasciatum | Tiger Catfish | Any area of the State
 Pungitius pungitius | Ninespine Stickleback | Any area of the State
 Pygocentrus spp. (entire genus) | Piranha (various) | Any area of the State
@@ -348,4 +344,4 @@ Undaria pinnatifida | Japanese Kelp, Wakame | Any area of the State
 Valencia hispanica | Valencia Toothcarp | Any area of the State
 Womersleyella setacea (syn. Polysiphonia setacea) | Red Polysiphonous Macroalga | Any area of the State
 Zacco platypus | Freshwater Minnow | Any area of the State
-[Schedule 5 inserted: Gazette 22 Oct 2014 p. 4088-115; amended: Gazette 4 Oct 2019 p. 3566-87.]
+[Schedule 5 inserted: Gazette 22 Oct 2014 p. 4088-115; amended: Gazette 4 Oct 2019 p. 3566-87; SL 2024/263 r. 23.]

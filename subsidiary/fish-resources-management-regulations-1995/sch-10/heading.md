@@ -7,9 +7,9 @@
 2.Eel, Southern Shortfin
 3.Perch, Golden
 4.Perch, Silver
-5.Redclaw
+5.Redclaw Crayfish
 6.Yabbie
-[Division 1 inserted: Gazette 4 Oct 2019 p. 3606-7.]
+[Division 1 inserted: Gazette 4 Oct 2019 p. 3606-7; amended: SL 2024/263 r. 28.]
 ## Division 2 — Species of fish not endemic to Australia
 [Heading inserted: Gazette 4 Oct 2019 p. 3607.]
 1.Redfin

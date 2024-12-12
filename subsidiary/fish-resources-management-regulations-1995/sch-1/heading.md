@@ -143,8 +143,8 @@ Fee | $
 (27)South Coast Line and Fish Trap Managed Fishery —
 (a)per class A licence | 1 002.26
 (b)per class B licence | 294.87
-(c)per class C zone 1 licence | 202.73
-(d)per class C zone 2 licence | 57.58
+(c)per class C licence | 202.73
+(d)per class D licence | 57.58
 (28)South Coast Nearshore Net Managed Fishery, per licence | 277.70
 (29)South Coast Purse Seine Managed Fishery, the sum obtained by multiplying the number of units of entitlement conferred by the licence by the fee for each unit as follows —
 (a)per zone 1 unit of entitlement | 217.76
@@ -201,4 +201,4 @@ Fee | $
 (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 50.00
 (e)fishing by means of a fishing net | 50.00
 9.Recreational (boat) fishing licence (r. 124C) | 40.00
-[Part 3 inserted: Gazette 9 Jun 2009 p. 1915-20; amended: Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200; 4 Nov 2014 p. 4203; 30 Jun 2015 p. 2332; 30 Sep 2015 p. 3919-23; 8 Jan 2016 p. 22; 4 Oct 2016 p. 4237; 7 Oct 2016 p. 4376-9; 7 Jul 2017 p. 3697; 1 Sep 2017 p. 4652-5; 26 Jun 2018 p. 2380-2; 4 Oct 2019 p. 3541-7; SL 2021/166 r. 4; SL 2022/134 r. 4; SL 2024/158 r. 4.]
+[Part 3 inserted: Gazette 9 Jun 2009 p. 1915-20; amended: Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200; 4 Nov 2014 p. 4203; 30 Jun 2015 p. 2332; 30 Sep 2015 p. 3919-23; 8 Jan 2016 p. 22; 4 Oct 2016 p. 4237; 7 Oct 2016 p. 4376-9; 7 Jul 2017 p. 3697; 1 Sep 2017 p. 4652-5; 26 Jun 2018 p. 2380-2; 4 Oct 2019 p. 3541-7; SL 2021/166 r. 4; SL 2022/134 r. 4; SL 2024/158 r. 4; SL 2024/263 r. 19.]

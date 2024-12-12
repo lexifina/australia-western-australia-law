@@ -23,7 +23,7 @@ Crab, Green Mud
 Dhufish, West Australian
 Dolphinfish (Mahi Mahi)
 Emperor
-Foxfish, Western
+Foxfish
 Groper, Baldchin
 Groper, Bass
 Groper, Queensland
@@ -99,7 +99,7 @@ Razor shell
 Salmon, Western Australian (Salmon)
 Samsonfish
 Scallops
-Sea Cucumber (Beche-de-mer, Trepang)
+Sea Cucumber
 Sea Urchins
 Snook
 Sole
@@ -131,4 +131,4 @@ Whiting (other than whiting listed as category 2 fish)
 Wrasse (other than wrasse listed as category 1 fish)
 Category 4 fish
 Any species of fish not specified in this Schedule to be category 1 fish, category 2 fish or category 3 fish.
-[Schedule 4 inserted: Gazette 4 Oct 2019 p. 3563-6.]
+[Schedule 4 inserted: Gazette 4 Oct 2019 p. 3563-6; amended: SL 2024/263 r. 22.]
