@@ -17,7 +17,7 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (b)for each additional half day allocated for the hearing of the appeal | 558.00 | 1 450.00 | 100.00
  | Notes for this item: 1.The fee in paragraph (a) includes a directions hearing and the first half day allocated by the Court for the hearing of the appeal.
  | 2.The fee in paragraph (b) is payable for each half day, allocated by the Court for the hearing of the appeal, that is additional to the first half day of hearing.
- | 3.Under the District Court Rules 2005 rule 56A, if the fee payable under paragraph (b) is not paid or waived within 14 days after the date on which the hearing date is set, the appeal may be dismissed for want of prosecution.
+ | 3.Under the District Court Rules 2005 rule 56A, if the fee payable under paragraph (b) is not paid within 14 days after the date on which the hearing date is set, the appeal may be dismissed for want of prosecution.
 6. | Entry of a cause or matter for hearing (including the assessment of damages in an action for personal injury) or entry of notice of an appointment to hear an originating summons | 1 271.00 | 2 477.00 | 100.00
  | Note for this item: This item does not apply to entering an appeal for hearing.
 7. | Allocation of hearing date, for each day allocated | 1 115.00 | 2 904.00 | 100.00
@@ -67,4 +67,4 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (b)For providing a copy of a transcript, or part of a transcript, if the transcript or part has been provided to the person requesting the copy —
  | (i)electronic format | 31.00 per copy | 31.00 per copy | 9.30 per copy
  | (ii)paper copy | 3.10 per page | 3.10 per page | 0.95 per page
-[Schedule 1 inserted: SL 2024/113 r. 15.]
+[Schedule 1 inserted: SL 2024/113 r. 15; amended: SL 2024/261 r. 7.]

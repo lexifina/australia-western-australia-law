@@ -43,6 +43,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7
 District Court (Fees) Amendment Regulations 2024 | SL 2024/32 7 Mar 2024 | r. 1 and 2: 7 Mar 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Mar 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/113 26 Jun 2024 | 1 Jul 2024 (see. r 2(b))
 Court Fees Regulation Amendment Regulations 2024 Pt. 3 | SL 2024/174 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+District Court (Fees) Amendment Regulations (No. 2) 2024 | SL 2024/261 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2024 (see r. 2(b))
 Other notes
 Repealed by the District Court Rules 2005.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:

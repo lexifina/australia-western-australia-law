@@ -1,6 +1,6 @@
 ## Schedule 3 — Forms
-[r. 4A(1) and 8(2)]
-[Heading amended: Gazette 14 Jun 2016 p. 1900.]
+[r. 4A(1), 5A(1), 6(4) and 8(2)]
+[Heading amended: Gazette 14 Jun 2016 p. 1900; SL 2024/261 r. 8(1).]
 Form 1
 Declaration that a person is a small business or a non-profit association
 In the District Court of Western Australia | No. of 2
@@ -18,20 +18,22 @@ Under the District Court (Fees) Regulations 2002 regulation 3 a small business i
 a co-operative as defined in the Co-operatives Act 2009 that has less than 20 full-time equivalent employees and that is not a subsidiary of another co-operative or corporation that has 20 or more full-time equivalent employees; or a corporation within the meaning of the Statutory Corporations (Liability of Directors) Act 1996 that has less than 20 full-time equivalent employees and that is not a body that would be a subsidiary, if the corporation were a corporation to which the Corporations Act 2001 (Commonwealth) applies, of a corporation within the meaning of the Corporations Act 2001 (Commonwealth) or the Statutory Corporations (Liability of Directors) Act 1996 that has 20 or more full-time equivalent employees.
 Under the District Court (Fees) Regulations 2002 regulation 3 a non-profit association is a society, club, institution, or body that is not for the purpose of trading or securing pecuniary profit for its members from its transactions.
 [Form 1 amended: Gazette 30 Dec 2003 p. 5707-8; 14 Jun 2016 p. 1900.]
-Form 2 Application to reduce fee
+Form 2 Application for the purposes of reducing or deferring a fee
 In the District Court of Western Australia | No. of 2
 Plaintiff/Appellant*: (*strike out word that is not applicable)
 Defendant/Respondent*: (*strike out word that is not applicable)
-Fee type for which request is made:
+Please indicate if your application relates to*: (*select 1 or both)
+❑ Reducing a fee | ❑ Deferring a fee
+Fee type for which application is made:
 ❑ Application fee | ❑ Hearing fee | ❑ Transcription fee | ❑ Other (please describe below)
-Concession Card Holder: ❑ Yes ❑ No | Pension Concession Card No:
-Health Care Card No:
+Concession Card Holder: ❑ Yes ❑ No | Pension Concession Card Number:
+Health Care Card Number:
 Grant of Legal Aid under a legal aid scheme or service ❑ Yes ❑ No
 Applicant Details: | Full Name:
 Please indicate your party type: ❑ Individual ❑ Entity
 Address:
 Date of Birth:
-Please give supporting reasons for your request (attach a separate page if required). If the reasons include financial hardship you must complete the information on the following pages.
+Please give supporting reasons for your application (attach a separate page if required). If the reasons include financial hardship you must complete the information on the following pages.
 I certify that the above information and disclosures in this form are true and correct.
 Applicant’s Signature | Dated:
 *Note: A person who makes a statement or representation in this application that the person knows or has reason to believe is false or misleading in a material particular commits an offence under the District Court (Fees) Regulations 2002 regulation 8B(1).
@@ -81,13 +83,13 @@ Mortgage to: |  | $
 Other to: |  | $
 Time to Pay Order: |  | $
 TOTAL LIABILITIES | $
-FINANCIAL DETAIL: APPLICANT WHO IS NOT AN INDIVIDUAL
+FINANCIAL DETAILS: APPLICANT WHO IS NOT AN INDIVIDUAL
 If the reasons for application include financial hardship, the following sections of the form must be completed by the applicant if the applicant is an entity.
 Income |  | $
 Assets |  | $
 Liabilities |  | $
 TOTAL | $
-[Form 2 inserted: Gazette 14 Jun 2016 p. 1900-5; amended: Gazette 20 Jul 2018 p. 2626.]
+[Form 2 inserted: Gazette 14 Jun 2016 p. 1900-5; amended: Gazette 20 Jul 2018 p. 2626; SL 2024/261 r. 8(2).]
 Form 3 Application for determination of dispute about fees
 In the District Court of Western Australia | No. of 20
 Plaintiff:........................................................................................................
