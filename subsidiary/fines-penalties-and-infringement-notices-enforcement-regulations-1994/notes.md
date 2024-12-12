@@ -100,8 +100,8 @@ Attorney General Regulations Amendment (Road Traffic Infringement Management Ref
 Attorney General Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 3 | SL 2024/210 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2024 | SL 2024/232 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Firearms) Regulations (No. 2) 2024 Pt. 3 | SL 2024/242 27 Nov 2024 | 28 Nov 2024 (see r. 2(b))
+Attorney General Regulations Amendment (Towing Services) Regulations 2024 Pt. 3 | SL 2024/260 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Other notes
-Formerly referred to as the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996, the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Curtin University of Technology Act 1966, the short title of which was changed to the Curtin University Act 1966 by the Universities Legislation Amendment Act 2016 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.

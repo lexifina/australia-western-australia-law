@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Procedure Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Criminal Procedure Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Criminal Procedure Regulations 2005 | 28 Apr 2005 p. 1441-82 | 2 May 2005 (see r. 2)
@@ -62,7 +62,11 @@ Attorney General Regulations Amendment (Short-Term Rental Accommodation) Regulat
 Attorney General Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/132 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 2 | SL 2024/210 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Firearms) Regulations (No. 2) 2024 Pt. 2 | SL 2024/242 27 Nov 2024 | 28 Nov 2024 (see r. 2(b))
-Other notes
+Attorney General Regulations Amendment (Towing Services) Regulations 2024 Pt. 2 | SL 2024/260 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Attorney General Regulations Amendment (Family Violence Reform) Regulations 2024 Pt. 3 | SL 2024/252 11 Dec 2024 | 18 Dec 2024 (see r. 2(b))
 Repealed by the Road Transport (General) Act 2005 (NSW).
 Repealed by the Road Transport Legislation (Repeal and Amendment) Act 2013 (NSW).
 Repealed by the Co-operatives Act 2009.
