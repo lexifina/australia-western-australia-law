@@ -22,6 +22,7 @@ Citation | Published | Commencement
  | Police Regulations Amendment (Captive Bolt Guns) Regulations 2016 Pt. 3 | 29 Nov 2016 p. 5322-3 | 30 Nov 2016 (see r. 2(b))
  | Weapons Amendment Regulations 2019 | 22 Oct 2019 p. 3718-19 | r. 1 and 2: 22 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2019 (see r. 2(b))
  | Weapons Amendment Regulations 2021 | SL 2021/120 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
+ | Weapons Amendment Regulations 2024 | SL 2024/267 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -29,15 +30,17 @@ approved electric shock case3
 Archery Australia (Inc.) member14(1)
 aviation security inspector12A(1)
 baton3
+capsicum spray weapon3
 catapult3
 crossbow14(1)
+custodial officer10A(1)
 discharge3
 dramatic production13(1)
 exempt arbalest14(1)
 exempt collector9(6)
 exempt event11(1)
-exempt production13(1)
 exemption notice13(1)
+exempt production13(1)
 extendable baton8(2)
 injure or disable3
 maritime security inspector12A(1)
@@ -51,3 +54,7 @@ specified prohibited weapon9(6)
 specified weapon13(1)
 spray weapon3
 WA Disabled Sports Association (Inc.) member11(1)
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer

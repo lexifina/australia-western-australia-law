@@ -18,5 +18,5 @@ Item | Article | Description
 12. | Knuckle dusters | An article made or modified to be worn across the knuckles of a hand so as — (a)to increase the force at the point of impact of a punch or blow when striking another with those knuckles; or (b)to protect the knuckles from injury when striking another with those knuckles.
 13. | Knuckle knife | A knife made or modified to be held so that the blade protrudes between the knuckles or fingers of a hand (e.g. the article commonly known as the “Urban Pal” knife).
 [14.deleted]
-15. | Spray weapon (not oleoresin capsicum) | A spray weapon made or modified to be used to discharge a substance other than oleoresin capsicum.
-[Schedule 1 amended: Gazette 11 Sep 2007 p. 4613; 8 Apr 2011 p. 1286; SL 2021/120 r. 4.]
+15. | Spray weapon (other than a capsicum spray weapon) | A spray weapon made or modified to be used to discharge a substance other than oleoresin capsicum.
+[Schedule 1 amended: Gazette 11 Sep 2007 p. 4613; 8 Apr 2011 p. 1286; SL 2021/120 r. 4; SL 2024/267 r. 7.]
