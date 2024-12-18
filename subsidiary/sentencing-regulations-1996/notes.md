@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sentencing Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Sentencing Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Sentencing Regulations 1996 | 4 Oct 1996 p. 5281-96 | 4 Nov 1996 (see r. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -36,9 +36,6 @@ Attorney General Regulations Amendment (Case Management System) Regulations 2019
 Attorney General Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 5 | SL 2020/162 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Attorney General Regulations Amendment (Sunday Entertainments) Regulations 2021 Pt. 4 | SL 2021/136 30 Jul 2021 | 31 Jul 2021 (see r. 2(b))
 Sentencing Amendment Regulations 2024 | SL 2024/129 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Attorney General Regulations Amendment (Family Violence Reform) Regulations 2024 Pt. 4 | SL 2024/252 11 Dec 2024 | 18 Dec 2024 (see r. 2(b))
 Other notes
 Footnote no longer required.

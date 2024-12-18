@@ -1,5 +1,5 @@
 ### Acts
-Bail Act 1982 s. 20(4), 50D(2), 60
+Bail Act 1982 s. 20(4), 50D(2), 50O(2), 60
 Biological Control Act 1986 s. 41, 43
 Botanic Gardens and Parks Authority Act 1998 s. 30
 Business Names Act 1962 s. 5A(2)

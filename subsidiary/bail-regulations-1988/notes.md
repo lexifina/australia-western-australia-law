@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bail Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Bail Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Bail Regulations 1988 | 30 Dec 1988 p. 5043-80 | 6 Feb 1982 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -25,9 +25,6 @@ Bail Amendment Regulations 2018 | 29 Jun 2018 p. 2436-7 | r. 1 and 2: 29 Jun 201
 Attorney General Regulations Amendment (Case Management System) Regulations 2019 Pt. 2 | 31 Dec 2019 p. 4669-73 | 1 Jan 2020 (see r. 2(b))
 Bail Amendment Regulations 2020 | SL 2020/235 4 Dec 2020 | r. 1 and 2: 4 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2020 (see r. 2(b))
 Attorney General Regulations Amendment (Forms) Regulations 2021 Pt. 2 | SL 2021/38 9 Apr 2021 | 10 Apr 2021 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Attorney General Regulations Amendment (Family Violence Reform) Regulations 2024 Pt. 2 | SL 2024/252 11 Dec 2024 | 18 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -37,3 +34,7 @@ Department3A
 departmental programme11(3)
 ECMS3A
 working day3A
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
