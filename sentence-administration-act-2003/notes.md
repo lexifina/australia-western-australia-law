@@ -30,11 +30,12 @@ Sentencing Legislation Amendment (Persons Linked to Terrorism) Act 2022 Pt. 2 | 
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 27 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Sentence Administration Amendment (Monitoring Equipment) Act 2024 | 6 of 2024 | 26 Mar 2024 | s. 1 and 2: 26 Mar 2024 (see s. 2(a)); Act other than s. 1 and 2: 27 Mar 2024 (see s. 2(b))
+Family Violence Legislation Reform Act 2024 Pt. 8 (other than s. 57(1) and (2)) | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(d))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2020 s. 37 | 30 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
-Family Violence Legislation Reform Act 2024 Pt. 8 | 28 of 2024 | 17 Sep 2024 | Pt. 8 (other than s. 57(1) and (2)): 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(d)); s. 57(1) and (2): to be proclaimed (see s. 2(d))
+Family Violence Legislation Reform Act 2024 s. 57(1) and (2) | 28 of 2024 | 17 Sep 2024 | To be proclaimed (see s. 2(d))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
@@ -82,6 +83,7 @@ Defined terms
 Defined termProvision(s)
 additional release considerations66F
 approved electronic monitoring device4(2)
+approved form118A(1)
 authorised person108(1)
 Board4(2), 12C, 66E, 67A(1), 119A(1), 119B(1)
 breach74A
@@ -94,7 +96,7 @@ CEO4(2)
 chairperson4(2)
 combined report12B(1)
 commencement123
-commencement day129(1)
+commencement day129(1), 130
 Commissioner of Police report4(2)
 Commonwealth Criminal Code4(2)
 community4(2)
@@ -104,7 +106,7 @@ community corrections officer4(2)
 community corrections order75, 83
 community order4(2)
 conditional suspended imprisonment4(2)
-confirmed control order4(2)
+confirmed control order3(2)
 contractor97B(1)
 court119C(1)
 CSI4(3)
@@ -114,7 +116,11 @@ designated family relationship4(2)
 designated prisoner14B
 disclosure requirement119C(1)
 early release order4(2)
-family violence offence4(2)
+electronic monitoring information97DA(1)
+EM orders97DA(1)
+family violence offence (category A)4(2)
+family violence offence (category B)4(2)
+family violence restraining order4(2)
 first relevant offence14B
 first report12B(1)
 fixed term7(1)
@@ -130,11 +136,12 @@ interim control order4(2)
 intimate personal relationship4(2A)
 memberSch. 1 cl. 1
 minimum hours requirement78(1)
-monitoring equipment118(1)
+monitoring equipment118(1), 118A(1)
 non-parole period7(1)
 notice84(3)
 notifiable information112A(3)
 offender76(1), 78(1), 83
+original report131(1), 132(1), 133(1), 134(1)
 parole order4(2)
 parole order (unsupervised)4(2)
 post-sentence supervision order4(2)
@@ -154,8 +161,11 @@ release4(2)
 release action66A, 66D, 112A(1)
 release considerations4(2), 5A
 release decision66A, 66D, 112A(1)
+relevant employee97DA(1)
 relevant information97B(1)
-relevant offence14B
+relevant instruction118A(1)
+relevant matter118A(1)
+relevant offence14B, 118A(1)
 relevant prisoner66A
 relevant report14B
 remains of the victim66A

@@ -95,6 +95,7 @@ Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 33 | 23 of 2023
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 6 | 24 of 2023 | 24 Oct 2023 | 16 Dec 2023 (see s. 2(b) and SL 2023/190 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 37 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Criminal Code Amendment Act 2024 s. 8 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/125 cl. 2)
+Family Violence Legislation Reform Act 2024 Pt. 9 | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s 2(d) and SL 2024/249 cl. 2(e))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -103,7 +104,6 @@ Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 2
 Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
 Perth Parking Management Act 2024 Pt. 11 | 2 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(c))
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 18 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
-Family Violence Legislation Reform Act 2024 Pt. 9 | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s 2(d) and SL 2024/249 cl. 2(e))
 Police Legislation Amendment Act 2024 Pt. 5 Div. 5 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b))
 Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 3 and Pt. 3 Div. 2 Subdiv. 3 | 35 of 2024 | 22 Oct 2024 | To be proclaimed (see s. 2(b))
 Other notes
@@ -265,16 +265,19 @@ CSI requirement84G
 declared criminal organisation9A(1)
 derived property8(6)
 designated family relationship4(1)
-disqualification order4(1)
+disqualification order4
 DPP4(2)
 driver’s licence105(5)
 early release order76(4), 81(4)
-electronic monitoring requirement33HA(2), 67A(2), 76A(2), 84CA(2)
+electronic monitoring requirement33HA(3), 67A(3), 76A(2)
+and (2C), 84CA(2) and (3C)
 excluded offence33A(1)
 explosive4(1)
 family relationship97A(1)
 family victim23A
-family violence offence4(1)
+family violence offence (category A)4(1)
+family violence offence (category B)4(1)
+family violence restraining order4(1)
 fine57(1)
 firearm106(5), 124D
 firearms offence106(5)

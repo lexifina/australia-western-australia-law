@@ -113,6 +113,29 @@
 3. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury, etc.
  | s. 59A | Dangerous driving causing bodily harm
+3AA. | Sentence Administration Act 2003
+ | s. 30(2) | Failure to comply with requirement about approved electronic monitoring device
+ | s. 30(3) | Failure to comply with requirement about not entering area of the State
+ | s. 57(3) | Failure to comply with requirement about approved electronic monitoring device
+ | s. 57(4) | Failure to comply with requirement about not entering area of the State
+ | s. 74G(2) | Failure to comply with requirement about approved electronic monitoring device
+ | s. 74G(3) | Failure to comply with requirement about not entering area of the State
+ | s. 118(6) | Damage, remove or interfere with, or interfere with operation of, monitoring equipment in such a way as to prevent or impede monitoring person’s location
+3AB. | Sentencing Act 1995
+ | s. 33H(10A) | Failure to comply with order about approved electronic monitoring device
+ | s. 33H(10B) | Failure to comply with order about not entering area of the State
+ | s. 33HA(5A) | Failure to comply with direction about approved electronic monitoring device
+ | s. 33HA(5B) | Failure to comply with direction about not entering area of the State
+ | s. 67A(6A) | Failure to comply with direction about approved electronic monitoring device
+ | s. 67A(6B) | Failure to comply with direction about not entering area of the State
+ | s. 75(10A) | Failure to comply with order about approved electronic monitoring device
+ | s. 75(10B) | Failure to comply with order about not entering area of the State
+ | s. 76A(3A) | Failure to comply with direction about approved electronic monitoring device
+ | s. 76A(3B) | Failure to comply with direction about not entering area of the State
+ | s. 84C(10A) | Failure to comply with order about approved electronic monitoring device
+ | s. 84C(10B) | Failure to comply with order about not entering area of the State
+ | s. 84CA(4A) | Failure to comply with direction about approved electronic monitoring device
+ | s. 84CA(4B) | Failure to comply with direction about not entering area of the State
 3A. | Western Australian Marine Act 1982
  | s. 75B(1) | Navigation of vessel occasioning death while under influence of alcohol, a drug or alcohol and a drug
  | s. 75B(2) | Dangerous navigation of vessel occasioning death
@@ -207,4 +230,4 @@
  | s. 474.27AA(2) | Using carriage service to “groom” person to procure child under 16 for sexual activity with another person who is an adult
  | s. 474.27AA(3) | Using carriage service to “groom” person to procure child under 16 for sexual activity with another person who is under 18
  | s. 474.27A(1) | Using carriage service to transmit indecent communication to child under 16
-[Schedule 2 inserted: No. 45 of 1993 s. 11; amended: No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11; No. 49 of 2012 s. 172; No. 30 of 2020 s. 50; No. 29 of 2022 s. 10; No. 31 of 2023 s. 28; No. 16 of 2024 s. 7.]
+[Schedule 2 inserted: No. 45 of 1993 s. 11; amended: No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11; No. 49 of 2012 s. 172; No. 30 of 2020 s. 50; No. 29 of 2022 s. 10; No. 31 of 2023 s. 28; No. 16 of 2024 s. 7; No. 28 of 2024 s. 34.]

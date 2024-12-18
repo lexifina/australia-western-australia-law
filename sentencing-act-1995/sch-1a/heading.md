@@ -126,6 +126,7 @@
  | s. 50(1) | Indemnifying or agreeing to indemnify surety
  | s. 50C(3) | Hindering community corrections officer in administration of home detention condition
  | s. 50D(2) | Hindering police officer seeking to ascertain compliance with home detention condition
+ | s. 50O(2) | Hindering police officer seeking to ascertain compliance with electronic monitoring condition
  | s. 51(1), (2) and (2a) | Failure to comply with requirement or condition of bail undertaking
  | s. 60 | Failure of accused or surety to notify change of residential address
  | s. 62 | Giving false information for bail purposes
@@ -173,4 +174,4 @@
  | s. 8(1) | Carrying or possessing article as weapon
 10. | Western Australian Marine Act 1982
  | s. 75BB(1) and (3) | Dangerous navigation of vessel occasioning bodily harm — if the offender is not liable to imprisonment for 7 years
-[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13; No. 13 of 2022 s. 85(3); No. 31 of 2023 s. 37(8).]
+[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13; No. 13 of 2022 s. 85(3); No. 31 of 2023 s. 37(8); No. 28 of 2024 s. 74.]
