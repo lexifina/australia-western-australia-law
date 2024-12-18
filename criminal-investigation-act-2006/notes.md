@@ -32,6 +32,7 @@ Criminal Investigation Amendment (Validation) Act 2023 | 8 of 2023 | 29 Mar 2023
 Western Australian Marine Amendment Act 2023 s. 31 | 31 of 2023 | 11 Dec 2023 | 2 May 2024 (see s. 2(c) and SL 2024/52 cl. 2)
 Criminal Investigation Amendment (Protection of Law Enforcement Animals) Act 2024 | 20 of 2024 | 14 May 2024 | s. 1 and 2: 14 May 2024 (see s. 2(a)); Act other than s. 1 and 2: 15 Jul 2024 (see s. 2(b) and SL 2024/142 cl. 2)
 Criminal Investigation Act 2006 with editorial changes as at 4 Oct 2024
+Family Violence Legislation Reform Act 2024 Pt. 3 | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
@@ -41,7 +42,6 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
-Family Violence Legislation Reform Act 2024 Pt. 3 | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(b))
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 5 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Police Legislation Amendment Act 2024 Pt. 2 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b))
 Other notes

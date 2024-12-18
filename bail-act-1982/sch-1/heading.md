@@ -1,6 +1,6 @@
 ## Schedule 1 — Jurisdiction as to bail and related matters
-[s. 13, 17]
-[Heading inserted: No. 6 of 2008 s. 41(1).]
+[s. 13, 17 and 17AA]
+[Heading inserted: No. 6 of 2008 s. 41(1); amended: No. 28 of 2024 s. 27.]
 ## Part A — Jurisdiction relating to bail
 [Heading inserted: No. 6 of 2008 s. 41(2)(a).]
  | First Column Appearances in court | Second Column By whom bail may be granted or (where applicable) dispensed with

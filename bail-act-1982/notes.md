@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Bail Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bail Act 1982 | 86 of 1982 | 18 Nov 1982 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -75,9 +75,6 @@ Criminal Appeals Amendment Act 2022 Pt. 3 Div. 1 | 18 of 2022 | 24 Jun 2022 | 1 
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 1 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 28 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Criminal Code Amendment Act 2024 s. 7 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/125 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Family Violence Legislation Reform Act 2024 Pt. 2 | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(a))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -101,12 +98,12 @@ Defined terms
 Defined termProvision(s)
 accountable authority66D(1)
 accused3(1), 6(1), 6A(1)
-adjournment3
+adjournment3(1)
 amendment31A(1)
 appeal3(1)
 appropriate judicial officer3(1)
 approved3(1)
-approved electronic monitoring device3
+approved electronic monitoring device3(1)
 arrester6(1)
 as soon as is practicable3(1)
 audio link66B(1)
@@ -120,7 +117,7 @@ CEO (corrections)3(1)
 Chief Judge3(1)
 Chief Justice3(1)
 child3(1)
-child victimSch. 1 cl. 1A
+child victimSch. 1 Pt. C cl. 1A
 Commonwealth Criminal Code3(1)
 community corrections officer3(1)
 confirmed control order3(1)
@@ -129,36 +126,42 @@ court custody centre3(1)
 designated family relationship3(1)
 Director of Public Prosecutions3(1)
 early release order3(1)
-family memberSch. 1 cl. 1A
+electronic monitoring condition3(1)
+electronic monitoring information66F(1)
+EM orders66F(1)
+family memberSch. 1 Pt. C cl. 1A
 family relationship3(1)
-family violence offence3(1)
+family violence offence (category A)Sch. 1 Pt. C cl. 3G(2)
+family violence offence (category B)Sch. 1 Pt. C cl. 3F(1A)
+family violence restraining orderSch. 1 Pt. C cl. 3G(2)
 home detention condition3(1)
 interim control order3(1)
 intimate personal relationship3(1A)
-judge7B(1), Sch. 1 cl. 1(1)
+judge7B(1), Sch. 1 Pt. B cl. 1(1)
 judge of appeal3(1)
 judicial officer3(1)
 lock-up3(1)
-medical practitionerSch. 1 cl. 2(7)
+medical practitionerSch. 1 Pt. D cl. 2(7)
 offence3(1)
-pending offenceSch. 1 cl. 1A
+pending offenceSch. 1 Pt. C cl. 1A
 person linked to terrorism3(1)
-proceedings for an offenceSch. 1 cl. 7
+proceedings for an offenceSch. 1 Pt. A cl. 7
 proposed surety43A(1)
 prosecutor3(1)
 protected information66D(1)
-protective condition or orderSch. 1 cl. 3B(6)
-psychiatristSch. 1 cl. 2(7)
+protective condition or orderSch. 1 Pt. C cl. 3B(6)
+psychiatristSch. 1 Pt. D cl. 2(7)
 registrar3(1)
 released6A(1)
-relevant offenceSch. 1 cl. 1A
+relevant employee66F(1)
+relevant offenceSch. 1 Pt. C cl. 1A
 relevant officer54(1a), 59A(1)
 relevant official43A(1)
 relevant papers27(2)
-relevant personSch. 1 cl. 3B(3)
+relevant personSch. 1 Pt. C cl. 3B(3)
 reportable information66D(2)
-responsible personSch. 1 cl. 2(1)
-section 80 offenceSch. 1 cl. 3D(1)
+responsible personSch. 1 Pt. C cl. 2(1)
+section 80 offenceSch. 1 Pt. C cl. 3D(1)
 sensitive information66D(1)
 serial family violence offender3(1)
 serious offence3(1)
@@ -171,9 +174,9 @@ surety undertaking3(1)
 terrorism offence3(1)
 terrorist act3(1)
 terrorist intelligence information3(1)
-trial3(1), 7E(2), 31A(1), 44(2)
+trial3(1), 7E(2), 31A(1), 44(3)
 urban area16A(4)
-victimSch. 1 cl. 3D(1)
+victimSch. 1 Pt. C cl. 3D(1)
 video link43A(1), 66B(1)
 © State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
