@@ -6,6 +6,7 @@ Motor Vehicle (Catastrophic Injuries) Regulations 2016 | 13 May 2016 p. 1441-85 
 Motor Vehicle (Catastrophic Injuries) Amendment Regulations 2019 | 31 Dec 2019 p. 4651-2 | r. 1 and 2: 31 Dec 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2020 (see r. 2(b) and SL 2020/39 cl. 2)
 Motor Vehicle (Catastrophic Injuries) Amendment Regulations 2021 | SL 2021/76 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Treasurer Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/133 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Motor Vehicle and Workplace Accidents (Catastrophic Injuries) Amendment Regulations 2024 | SL 2024/274 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2024 (see r. 2(b))
 Other notes
 Now known as the Motor Vehicle and Workplace Accidents (Catastrophic Injuries) Regulations 2016; citation changed (see note under r. 1).
 Defined terms
