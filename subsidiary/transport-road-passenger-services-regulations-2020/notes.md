@@ -16,10 +16,12 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 
 Transport (Road Passenger Services) Amendment Regulations 2024 | SL 2024/40 4 Apr 2024 | r. 1 and 2: 4 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2024 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 (other than Pt. 3 and 4) | SL 2024/245 27 Nov 2024 | Pt. 1: 27 Nov 2024 (see r. 2(a)); Pt. 2: 2 Dec 2024 (see r. 2(b))
+Transport (Road Passenger Services) Amendment Regulations (No. 2) 2024 | SL 2024/286 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 | SL 2024/245 27 Nov 2024 | Pt. 3: 1 Mar 2025 (see r. 2(c)); Regulations other than Pt. 1-3: 1 Oct 2025 (see r. 2(d))
+Transport (Road Passenger Services) Amendment Regulations (No. 5) 2024 r. 3-5 | SL 2024/278 18 Dec 2024 | 20 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -28,10 +30,12 @@ Defined termProvision(s)
 2019 regulations reviewable decision198(1)
 aggregated journey data130J(1)
 agreement period156(2)
+approved form200A(1)
 approved identification card3
 approved person3
 approved provider (family violence exception)28(1)
 approved special events provider152
+AS3
 AS/NZS3
 assessment period152
 assistance animal137(1)
@@ -48,7 +52,7 @@ CEO guidelines122(1)
 child care service3
 child restraint152
 child safety harness152
-commencement day189
+commencement day189, 200A(1)
 contracted provider65(1)
 contract fare3
 copy3
@@ -63,6 +67,7 @@ family violence28(1)
 fare amount127
 first provider58(3)
 foreign driving authorisation3
+former Schedule 4200A(1)
 ‘F’ or ‘T’ endorsed driver’s licence3
 GST3
 guidelines130A
@@ -103,11 +108,11 @@ relevant offence199(1)
 relevant person115, 195(3)
 relevant provider127
 relevant provider or driver12(1)
-required information31(3), 185(2)
+required information31(1) and (3), 185(2)
 Road Safety Commissioner143(1)
 road traffic CEO3
 safety management system3
-Schedule 4 fare3
+Schedule 4 fare2
 Schedule 5 fare3
 school bus service3
 second provider58(3)
@@ -120,7 +125,7 @@ surcharge3
 surge pricing129(1)
 TRPS authorised officer148(1)
 unauthorised purpose107
-unit of competency TLIC20403
+unit of competency3
 visual, audiovisual or audio recording3
 voucher122(1)
 wheelchair accessible vehicle3
