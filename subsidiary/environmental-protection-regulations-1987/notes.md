@@ -93,6 +93,7 @@ Environmental Protection Amendment Regulations 2024 | SL 2024/4 24 Jan 2024 | r.
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2024 Pt. 3 | SL 2024/86 29 May 2024 | 1 Jun 2024 (see r. 2(b))
 Environmental Protection Amendment Act 2024 Pt. 6 Div. 2 assented to on 22 Oct 2024 | 23 Oct 2024 (see s. 2(1)(e))
 Environmental Protection Amendment Regulations (No. 4) 2024 | SL 2024/244 27 Nov 2024 | r. 1 and 2: 27 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2024 (see r. 2(b) and SL 2024/239 cl. 2))
+Environmental Protection Amendment Regulations (No. 2) 2024 | SL 2024/288 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2024 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
@@ -116,6 +117,7 @@ baseline report26(1)
 baseline survey26(1)
 best practice criteria4(1)
 building envelope33C(1)
+Bush Forever area33B(1)
 category4(1)
 clean fill premises2AA
 commencement day21(1)
@@ -123,6 +125,7 @@ confidential material3B(1)
 cultural place33C(1)
 department3D(1)
 design requirement33C(1)
+development33C(1)
 development requirement33C(1)
 development site16A
 development work16A
@@ -146,11 +149,13 @@ licence period4(1)
 licensed landfill21(1)
 licensed premises11(1)
 licensee21(1), 24(1), 28(1)
+local development plan33C(1)
 lot16A
 mercury5P
 mercury-added product5P
 mercury compound5P
 metropolitan region21(1)
+Metropolitan Region Scheme33B(1)
 minute2B(1)
 native species3D(1)
 native vegetation33C(1)
@@ -173,11 +178,13 @@ regional road33B(1)
 relevant documentation3B(2)
 return period21(1)
 review jurisdiction3H(1)
+scheme map33C(1)
 semi-enclosed water body16(4)
 species3D(1)
 specified31(3)
 specified monitoring programme17
 storage11(1)
+structure plan33C(1)
 submit3A
 surveyor26(8)
 threatened species3D(1)
