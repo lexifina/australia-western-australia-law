@@ -30,7 +30,7 @@ If you want to rescind the contract
 11.If you want to rescind the contract you must give the builder or developer with whom you have the contract a “Notice of exercise of right to rescind” before —
 (a)the end of one month after the day on which you received this notice; or
 (b)settlement,
-which ever is the earlier.
+whichever is the earlier.
 The “Notice of exercise of right to rescind” is set out below.
 For example: you receive a copy of this notice on 21 June, the one month starts on 22 June and ends on 21 July. To exercise your right to rescind, the builder or developer must receive your Notice of exercise of right to rescind on or before 21 July, or before settlement if settlement is going to take place before the end of 21 July.
 Other matters
@@ -57,7 +57,7 @@ name(s)] rescind the contract dated ............................ [insert date] f
  | Date ..................................
 NB:You should make sure that you have some evidence of the time and date on which you sent or gave this notice.
 *Complete or delete as necessary.
-[Form 1 amended: Gazette 8 Apr 2003 p. 1104; 16 Nov 2004 p. 5051; 21 Dec 2007 p. 6319.]
+[Form 1 amended: Gazette 8 Apr 2003 p. 1104; 16 Nov 2004 p. 5051; 21 Dec 2007 p. 6319; SL 2024/287 r. 9.]
 Form 2
 [r. 7(4)]
 Home Building Contracts Act 1991
