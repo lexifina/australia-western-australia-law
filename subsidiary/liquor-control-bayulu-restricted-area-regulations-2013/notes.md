@@ -11,8 +11,9 @@ Liquor Control (Bayulu Restricted Area) Amendment Regulations (No. 2) 2019 | 29 
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 2) 2022 Pt. 2 | SL 2022/63 3 Jun 2022 | 4 Jun 2022 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations 2023 Pt. 2 | SL 2023/26 6 Apr 2023 | 7 Apr 2023 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 3) 2024 Pt. 2 | SL 2024/109 26 Jun 2024 | 27 Jun 2024 (see r. 2(b))
+Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 5) 2024 Pt. 2 | SL 2024/273 18 Dec 2024 | 19 Dec 2024 (see r. 2(b))
 Other notes
-These regulations expire at the close of 28 June 2025 (see r. 9).
+These regulations expire at the close of 28 June 2027 (see r. 9).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
