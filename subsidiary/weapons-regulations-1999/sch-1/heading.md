@@ -5,10 +5,10 @@ Item | Article | Description
 2. | Ballistic knife | An article made or modified to be used to discharge a knife and includes the knife.
 3. | Blow pipe | An article made or modified to be used to discharge a missile by air expelled from the mouth and includes the missile.
 4. | Butterfly knife | A knife — (a)having a 2 piece handle which folds together to cover both edges of the blade; and (b)made or modified to be used to injure or disable a person or as a martial arts weapon, and includes the martial arts weapon known as the butterfly knife or balisong.
-5. | Catapult (with an arm brace) | A catapult made or modified to be used with an arm brace that fits or rests on the forearm to support the wrist from the tension of the elastic material used to discharge the missile (e.g. the article commonly known as the “Saunders Falcon Hunting Sling”).
+5. | Catapult (with an arm brace) | A catapult made or modified to be used with an arm brace that fits or rests on the forearm to support the wrist from the tension of the elastic material used to discharge the missile (for example, the article commonly known as the “Saunders Falcon Hunting Sling”).
 6. | Commercially produced catapult (without an arm brace) | A catapult — (a)made or modified to be used without the arm brace referred to in item 5; and (b)made for commercial distribution.
 7A. | Crossbow | An article made or modified to be used with one or 2 hands to discharge a missile by an elastic force across a stock grooved to direct the missile and includes the missile.
-7. | Disguised knife or sword | A knife or sword disguised as part of another article and includes — (a)a knife disguised as part of a belt (e.g. the article commonly known as the “Bowen” knife belt); or (b)a sword disguised as a cane or stick.
+7. | Disguised knife or sword | A knife or sword disguised as part of another article and includes — (a)a knife disguised as part of a belt (for example, the article commonly known as the “Bowen” knife belt); or (b)a sword disguised as a cane or stick.
 8. | Electric shock weapon | An article made or modified to be used to discharge an electric current so as to injure or disable a person but does not include an approved electric shock case.
 9. | Electromagnetic weapon | An article made or modified to be used to emit electromagnetic radiation so as to injure or disable a person.
 10. | Extendable baton | A baton made or modified so that the length of the baton extends by gravity or centrifugal force or by any pressure applied to a button, spring or device in or attached to the handle of the baton.
@@ -16,7 +16,7 @@ Item | Article | Description
 11A. | Gas dart | A device designed or adapted to kill or injure an animal by injecting a gas into the body of the animal (including a “Gas Dart”, “Farallon Shark Dart” or similar device).
 11B. | Gel blaster | An article that is made or modified to be used to discharge a hydrated superabsorbent polymer ball or other similar gel-like missile and includes the ball or missile.
 12. | Knuckle dusters | An article made or modified to be worn across the knuckles of a hand so as — (a)to increase the force at the point of impact of a punch or blow when striking another with those knuckles; or (b)to protect the knuckles from injury when striking another with those knuckles.
-13. | Knuckle knife | A knife made or modified to be held so that the blade protrudes between the knuckles or fingers of a hand (e.g. the article commonly known as the “Urban Pal” knife).
+13. | Knuckle knife | A knife made or modified to be held so that the blade protrudes between the knuckles or fingers of a hand (for example, the article commonly known as the “Urban Pal” knife).
 [14.deleted]
 15. | Spray weapon (other than a capsicum spray weapon) | A spray weapon made or modified to be used to discharge a substance other than oleoresin capsicum.
-[Schedule 1 amended: Gazette 11 Sep 2007 p. 4613; 8 Apr 2011 p. 1286; SL 2021/120 r. 4; SL 2024/267 r. 7.]
+[Schedule 1 amended: Gazette 11 Sep 2007 p. 4613; 8 Apr 2011 p. 1286; SL 2021/120 r. 4; SL 2024/267 r. 7; SL 2024/282 r. 13.]
