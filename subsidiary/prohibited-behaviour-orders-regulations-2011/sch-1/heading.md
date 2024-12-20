@@ -92,6 +92,7 @@ s. 67AD(6) | Failure to comply with drug test requirement for persons with blood
 Weapons Act 1999
 Provision | Description of offence
 s. 6 | Prohibited weapons
+s. 6A | Edged weapons
 s. 7 | Controlled weapons
 s. 8 | Other articles carried or possessed as weapons
-[Schedule 1 amended: SL 2021/56 r. 7; SL 2024/146 r. 4.]
+[Schedule 1 amended: SL 2021/56 r. 7; SL 2024/146 r. 4; SL 2024/280 r. 4.]

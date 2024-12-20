@@ -7,6 +7,7 @@ Prohibited Behaviour Orders Amendment Regulations 2011 | 1 Jul 2011 p. 2725-6 | 
 Attorney General Regulations Amendment (Road Traffic) Regulations 2021 Pt. 3 | SL 2021/56 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
 Attorney General Regulations Amendment (Firearms) Regulations 2022 Pt. 2 | SL 2022/189 18 Nov 2022 | 19 Nov 2022 (see r. 2(b))
 Prohibited Behaviour Orders Amendment Regulations 2024 | SL 2024/146 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jul 2024 (see r. 2(b))
+Prohibited Behaviour Orders Amendment Regulations (No. 2) 2024 | SL 2024/280 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
