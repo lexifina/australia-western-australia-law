@@ -33,6 +33,7 @@ Western Australian Marine Amendment Act 2023 s. 31 | 31 of 2023 | 11 Dec 2023 | 
 Criminal Investigation Amendment (Protection of Law Enforcement Animals) Act 2024 | 20 of 2024 | 14 May 2024 | s. 1 and 2: 14 May 2024 (see s. 2(a)); Act other than s. 1 and 2: 15 Jul 2024 (see s. 2(b) and SL 2024/142 cl. 2)
 Criminal Investigation Act 2006 with editorial changes as at 4 Oct 2024
 Family Violence Legislation Reform Act 2024 Pt. 3 | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(b))
+Police Legislation Amendment Act 2024 Pt. 2 | 33 of 2024 | 26 Sep 2024 | 20 Dec 2024 (see s. 2(1)(b) and SL 2024/277 cl. 2)
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
@@ -43,7 +44,6 @@ To view the text of the uncommenced provisions see Acts as passed on the WA Legi
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 5 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
-Police Legislation Amendment Act 2024 Pt. 2 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms
@@ -53,6 +53,8 @@ admission118(1)
 adult73, 118(1)
 aggrieved person49(1)
 apply force152A
+approved form26A
+arch scanner61A
 area associated with a dwelling3(1)
 arrestable offence25(1)
 arrestable person132(1)
@@ -78,11 +80,12 @@ data57
 data access order57
 data storage device57
 dentist73
+designated area61A
 disturb3(1)
 doctor73
 DPP3(1)
 dwelling3(1)
-endangering offence26(1)
+endangering offence25(1)
 escapee134(1)
 forensic database112(1)
 forensic examination3(1)
@@ -92,6 +95,7 @@ forensic purpose113(1)
 FP warrant (involved person)73
 FP warrant (suspect)73
 frisk search3(1)
+hand-held scanner61A
 identifying particular73
 impression3(1)
 incapable person73
@@ -101,8 +105,10 @@ intimate forensic procedure73
 investigating officer49(3), 147(7)
 involved person73, 83(1), 84(1)
 judicial officer13(1)
+metal detector61A
 midwife73
 mobile home3(1)
+move on order26A
 non-intimate forensic procedure73
 nurse73
 occupier3(1)
@@ -123,6 +129,7 @@ prescribed person124(1)
 private parts3(1)
 privileged151(1)
 prohibited thing69A, 69B
+protected entertainment precinct61A
 protected forensic area3(1)
 protected information113(1)
 protected person73
@@ -134,6 +141,7 @@ qualified person73
 reasonable excuse118(1), 152A, 153C(2), 153D(1)
 reasonably suspects3(1)
 record3(1)
+relevant place or vehicle26A, 27(1)
 relevant thing73
 remote communication3(1)
 responsible person73, 73
@@ -141,10 +149,11 @@ road18(1)
 searcher65(1), 70(1), 71(1), 72(1)
 search warrant3(1)
 security risk item135(1)
-senior officer37(1), 44(1), 47(1), 97(1), 133(1), 140(1)
+senior officer38A(1), 44(1), 47(1), 97(1), 133(1), 140(1)
 senior police officer3(1)
 serious event37(1)
 serious offence40(1), 57, 128(1), 133(1), 142(1)
+specified26A
 statutory penalty3(1)
 strip search3(1)
 suspect25(2) and (3), 26(5), 73, 91(1), 92(1), 97(1), 115
@@ -154,6 +163,7 @@ target place43(1), 44(1)
 target thing43(1), 44(1)
 thing relevant to an offence3(1)
 unconditionally125(1)
+use61A
 validation period158(1)
 vehicle3(1), 18(1)
 volunteer79

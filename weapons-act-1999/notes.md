@@ -8,11 +8,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 1: The Weapons Act 1999 as at 4 Nov 2005 (includes amendments listed above)
 Acts Amendment (Weapons) Act 2009 Pt. 3 | 34 of 2009 | 3 Dec 2009 | s. 5-7 and 9-12: 4 Dec 2009 (see s. 2(c)); s. 8: 31 Dec 2009 (see s. 2(b))
+Police Legislation Amendment Act 2024 Pt. 3 | 33 of 2024 | 26 Sep 2024 | 20 Dec 2024 (see s. 2(1)(b) and SL 2024/277 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 20 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
-Police Legislation Amendment Act 2024 Pt. 3 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 20 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -20,14 +20,16 @@ Defined terms
 Defined termProvision(s)
 article3
 carry3
-child8A(1)
+child3
 Commissioner12(1)
 controlled weapon3
 conveyance3
 defence3
 dwelling8(4)
+edged weapon3, 3A(1) and (2)
 firearm3
 juvenile justice team12(1)
+lawful excuse5A(1)
 offence12(1)
 possess3
 prohibited weapon3

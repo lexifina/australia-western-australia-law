@@ -106,11 +106,13 @@
 7. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury etc.
  | s. 59A | Dangerous driving causing bodily harm — if the offender is liable to imprisonment for 7 years
+7A. | Weapons Act 1999
+ | s. 6(1) | Offences relating to prohibited weapons
 8. | Western Australian Marine Act 1982
  | s. 75B(1) and (2) | Dangerous navigation of vessel occasioning death
  | s. 75BA(1) and (2) | Dangerous navigation of vessel occasioning grievous bodily harm
  | s. 75BB(1) and (3) | Dangerous navigation of vessel occasioning bodily harm — if the offender is liable to imprisonment for 7 years
-[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39; No. 13 of 2022 s. 85(2); No. 31 of 2023 s. 37(7); No. 16 of 2024 s. 8.]
+[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39; No. 13 of 2022 s. 85(2); No. 31 of 2023 s. 37(7); No. 16 of 2024 s. 8; No. 33 of 2024 s. 36(1).]
 ## Part 2 — Relevant simple offences
 [Heading inserted: No. 49 of 2012 s. 181(4).]
  | Enactment | Description of offence
@@ -168,10 +170,11 @@
 8. | Road Traffic Act 1974
  | s. 59A | Dangerous driving causing bodily harm — if the offender is not liable to imprisonment for 7 years
 9. | Weapons Act 1999
- | s. 6(1) | Offences relating to prohibited weapons
+ | s. 6A(1) and (2) | Offences relating to edged weapons
+ | s. 6B(1) and (2) | Selling or supplying edged weapons to children
  | s. 7(1) and (2) | Offences relating to controlled weapons
  | s. 8A(2) and (3) | Selling or supplying controlled weapons to children
  | s. 8(1) | Carrying or possessing article as weapon
 10. | Western Australian Marine Act 1982
  | s. 75BB(1) and (3) | Dangerous navigation of vessel occasioning bodily harm — if the offender is not liable to imprisonment for 7 years
-[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13; No. 13 of 2022 s. 85(3); No. 31 of 2023 s. 37(8); No. 28 of 2024 s. 74.]
+[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13; No. 13 of 2022 s. 85(3); No. 31 of 2023 s. 37(8); No. 28 of 2024 s. 74; No. 33 of 2024 s. 36(2).]

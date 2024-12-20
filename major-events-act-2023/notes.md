@@ -3,11 +3,11 @@ This is a compilation of the Major Events Act 2023 and includes amendments made 
 Compilation table
 Short title | Number and year | Assent | Commencement
 Major Events Act 2023 | 12 of 2023 | 22 May 2023 | Pt. 1: 22 May 2023 (see s. 2(a)); Act other than Pt. 1: 23 May 2023 (see s. 2(b))
+Police Legislation Amendment Act 2024 Pt. 5 Div. 4 | 33 of 2024 | 26 Sep 2024 | 20 Dec 2024 (see s. 2(1)(b) and SL 2024/277 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 12 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
-Police Legislation Amendment Act 2024 Pt. 5 Div. 4 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 12 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,6 +26,7 @@ deceptively similar70(1)
 department4
 direction to leave4, 57(1)
 drive4
+edged weapon4
 emergency vehicle4
 emergency vessel4
 employing authority4
