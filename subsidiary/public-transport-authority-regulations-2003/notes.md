@@ -19,6 +19,7 @@ Public Transport Authority Amendment Regulations 2019 | 19 Feb 2019 p. 335 | r. 
 Public Transport Authority Amendment Regulations 2020 | SL 2020/183 29 Sep 2020 | r. 1 and 2: 29 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2020 (see r. 2(b))
 Public Transport Authority Amendment Regulations (No. 2) 2022 | SL 2022/192 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2023 | SL 2023/75 16 Jun 2023 | r. 1 and 2: 16 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2023 (see r. 2(b))
+Public Transport Authority Amendment Regulations (No. 2) 2024 | SL 2024/279 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -55,3 +56,7 @@ ticket3
 ticket vending machine24
 tobacco product11(1A)
 working day33A
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
