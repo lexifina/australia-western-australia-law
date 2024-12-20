@@ -13,6 +13,7 @@ Health Services (Conduct and Traffic) Amendment Regulations 2021 | SL 2021/105 2
 Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022/136 15 Jul 2022 | 16 Jul 2022 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Health Services (Conduct and Traffic) Amendment Regulations 2024 | SL 2024/281 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2024 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
