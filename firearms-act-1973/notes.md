@@ -46,11 +46,11 @@ Biodiversity Conservation Act 2016 s. 316 | 24 of 2016 | 21 Sep 2016 | 1 Jan 201
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 110 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Firearms Amendment Act 2022 Pt. 2 | 13 of 2022 | 18 May 2022 | s. 42(8): 15 Jun 2022 (see s. 2(b)); Pt. 2 (other than s. 42(8)): 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 27 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(g)(i) and (j))
+Police Legislation Amendment Act 2024 Pt. 5 Div. 2 | 33 of 2024 | 26 Sep 2024 | 20 Dec 2024 (see s. 2(1)(b) and SL 2024/277 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Firearms Act 2024 s. 440 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
-Police Legislation Amendment Act 2024 Pt. 5 Div. 2 | 33 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(1)(b) and (2))
+Firearms Act 2024 s. 440 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
