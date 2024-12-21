@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisons Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Prisons Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Prisons Regulations 1982 | 23 Jul 1982 p. 2905-29 | 1 Aug 1982 (see r. 1 and Gazette 23 Jul 1982 p. 2841)
@@ -49,6 +49,10 @@ Prisons Amendment Regulations 2022 | SL 2022/12 11 Feb 2022 | r. 1 and 2: 11 Feb
 Corrective Services Regulations Amendment (Firearms) Regulations 2022 Pt. 2 | SL 2022/19118 Nov 2022 | 19 Nov 2022 (see r. 2(b))
 Prisons Amendment Regulations (No. 2) 2022 | SL 2022/19718 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Prisons Amendment Regulations 2024 | SL 2024/275 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Corrective Services Regulations Amendment (Firearms) Regulations 2024 Pt. 2 | SL 2024/299 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, these Regulations must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 17 as if these Regulations had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
