@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Biodiversity Conservation Regulations 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Biodiversity Conservation Regulations 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Biodiversity Conservation Regulations 2018 | 14 Sep 2018 p. 3337-505 | Pt. 1 (other than r. 3 to 7): 14 Sep 2018 (see r. 2(a)) r. 3-7, Pt. 2-13 and Sch. 1-11: 1 Jan 2019 (see r. 2(b) and Gazette 14 Sep 2018 p. 3305)
@@ -9,6 +9,10 @@ Environment Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 
 Biodiversity Conservation Amendment Regulations 2022 | SL 2022/43 25 Mar 2022 | r. 1 and 2: 25 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Mar 2022 (see r. 2(b))
 Biodiversity Conservation Amendment Regulations (No. 2) 2022 | SL 2022/95 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Biodiversity Conservation Amendment Regulations 2023 | SL 2023/165 1 Nov 2023 | r. 1 and 2: 1 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Environment Regulations Amendment (Firearms) Regulations 2024 Pt. 2 | SL 2024/298 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -95,7 +99,7 @@ whale3
 whale shark3
 wildlife licence168
 Zoological Parks Authority45(1)
-© State of Western Australia 2023.
+© State of Western Australia 2024.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2024.
 By Authority: GEOFF O. LAWN, Government Printer
