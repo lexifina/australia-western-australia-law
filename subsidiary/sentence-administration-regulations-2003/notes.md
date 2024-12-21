@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sentence Administration Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Sentence Administration Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Sentence Administration Regulations 2003 | 29 Aug 2003 p. 3842-50 | 31 Aug 2003 (see r. 2 and Gazette 29 Aug 2003 p. 3833)
@@ -12,6 +12,10 @@ Attorney General Regulations Amendment (Associations Incorporation) Regulations 
 Sentence Administration Amendment Regulations 2017 | 7 Feb 2017 p. 1162-3 | r. 1 and 2: 7 Feb 2017 (see r. 2(a)); r. 4: 8 Feb 2017 (see r. 2(b)); Regulations other than r. 1, 2 and 4: 1 Jul 2017 (see r. 2(c) and Gazette 7 Feb 2017 p. 1159)
 Corrective Services Regulations Amendment (Firearms) Regulations 2022 Pt. 3 | SL 2022/191 18 Nov 2022 | 19 Nov 2022 (see r. 2(b))
 Sentence Administration Amendment (Family Violence Reform) Regulations 2024 | 11 Dec 2024 SL 2024/250 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Corrective Services Regulations Amendment (Firearms) Regulations 2024 Pt. 3 | SL 2024/299 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Other notes
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
