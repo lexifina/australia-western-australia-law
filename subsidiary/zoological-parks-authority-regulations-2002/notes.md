@@ -1,10 +1,14 @@
 Notes
-This is a compilation of the Zoological Parks Authority Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Zoological Parks Authority Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Zoological Parks Authority Regulations 2002 | 8 May 2002 p. 2371-402 | 22 May 2002 (see r. 2 and Gazette 10 May 2002 p. 2445)
 Zoological Parks Authority Amendment Regulations 2014 | 8 Jan 2015 p. 141-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Zoological Parks Authority Amendment Regulations 2020 | SL 2020/6 11 Feb 2020 | r. 1 and 2: 11 Feb 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2020 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Environment Regulations Amendment (Firearms) Regulations 2024 Pt. 6 | SL 2024/298 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -22,3 +26,7 @@ stand3
 ticket vending machine10(1)
 traffic sign3
 use3
+© State of Western Australia 2024.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2024.
+By Authority: GEOFF O. LAWN, Government Printer
