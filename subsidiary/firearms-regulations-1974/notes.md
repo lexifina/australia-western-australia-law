@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Firearms Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Firearms Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Firearms Regulations 1974 | 29 Mar 1974 p. 1056-76 | 1 Jul 1974 (see r. 1 and Gazette 29 Mar 1974 p. 1027)
@@ -110,6 +110,10 @@ Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023
 Firearms Amendment Regulations (No. 4) 2023 | SL 2023/91 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Firearms Amendment Regulations (No. 3) 2023 | SL 2023/129 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
 Police Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/94 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Citation | Published | Commencement
+Firearms Act 2024 s. 441 assented to on 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
