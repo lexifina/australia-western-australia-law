@@ -68,9 +68,10 @@ Short title | Number and year | Assent | Commencement
  | Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 3 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
  | Spent Convictions (Act Amendment) Regulations 2024 (SL 2024/153) | r. 1 and 2: 24 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2024 (see r. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 19 | 23 of 2024 | 27 Jun 2024 | To be proclaimed (see s. 2(d))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 19 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
+Spent Convictions (Act Amendment) Regulations (No. 2) 2024 r. 3 and 4 (SL 2024/290) | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Other notes
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
