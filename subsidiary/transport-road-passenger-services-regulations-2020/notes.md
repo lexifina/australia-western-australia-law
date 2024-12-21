@@ -22,6 +22,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 | SL 2024/245 27 Nov 2024 | Pt. 3: 1 Mar 2025 (see r. 2(c)); Regulations other than Pt. 1-3: 1 Oct 2025 (see r. 2(d))
+Transport (Road Passenger Services) Amendment Regulations (No. 4) 2024 r. 3-5 | SL 2024/291 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
