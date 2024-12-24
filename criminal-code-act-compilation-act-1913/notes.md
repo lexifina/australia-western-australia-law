@@ -194,7 +194,7 @@ COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2
 Criminal Law Amendment (Uncertain Dates) Act 2020 Pt. 2 | 47 of 2020 | 9 Dec 2020 | 10 Dec 2020 (see s. 2(b))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2021 Pt. 2 | 1 of 2021 | 2 Jun 2021 | 3 Jun 2021 (see s. 2(b))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act (No. 2) 2021 Pt. 2 | 21 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
-Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 Pt. 6 Div. 2 (other than s. 67) | 25 of 2021 | 13 Dec 2021 | 24 Dec 2021 (see s. 2(b) and SL 2021/219 cl. 2)
+Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 | 25 of 2021 | 13 Dec 2021 | Pt. 6 Div. 2 (other than s. 67): 24 Dec 2021 (see s. 2(b) and SL 2021/219 cl. 2); s. 67: 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
 Firearms Amendment Act 2022 Pt. 3 Div. 1 | 13 of 2022 | 18 May 2022 | 15 Jun 2022 (see s. 2(b))
 COVID-19 Response Legislation Amendment (Extension of Expiring Provisions) Act 2022 Pt. 2 | 15 of 2022 | 27 May 2022 | 28 May 2022 (see s. 2(b))
 Animal Welfare and Trespass Legislation Amendment Act 2023 Pt. 3 | 5 of 2023 | 24 Mar 2023 | 7 Apr 2023 (see s. 2(b))
@@ -207,9 +207,8 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 s. 67 | 25 of 2021 | 13 Dec 2021 | 24 Dec 2024 (see s. 2(c) and SL 2021/219 cl. 2)
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 4 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
-Criminal Code Amendment (Prohibition on Display of Nazi Symbols or Gesture) Act 2024 Pt. 2 | 29 of 2024 | 17 Sep 2024 | To be proclaimed (see s. 2(b))
+Criminal Code Amendment (Prohibition on Display of Nazi Symbols or Gesture) Act 2024 Pt. 2 | 29 of 2024 | 17 Sep 2024 | 1 Mar 2025 (see s. 2(b) and SL 2025/25 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 4 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
@@ -297,7 +296,6 @@ computer generated image204B(1)
 computer system440A(1)
 conducting a business331C(1)
 consent221BA, 221BB(1), 319(2)
-consort557K(1)
 contract546
 contractor318B(1)
 conveyance1(1), 284(1), 390A(1)
