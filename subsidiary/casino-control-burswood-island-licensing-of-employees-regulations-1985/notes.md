@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 | 16 Aug 1985 p. 2905-16 | 16 Aug 1985
@@ -44,10 +44,7 @@ Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulat
  | Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 3 | 22 Oct 2019 p. 3720-9 | 1 Jan 2020 (see r. 2(b))
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
+ | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -58,7 +55,7 @@ current holder2(1)
 employ2(1)
 form2(1)
 Operator2(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
