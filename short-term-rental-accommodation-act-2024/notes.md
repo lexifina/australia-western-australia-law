@@ -1,12 +1,8 @@
 Notes
-This is a compilation of the Short-Term Rental Accommodation Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Short-Term Rental Accommodation Act 2024. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Short-Term Rental Accommodation Act 2024 (other than s. 47) | 12 of 2024 | 22 Apr 2024 | Pt. 1: 22 Apr 2024 (see s. 2(a)); Pt. 2-8 (other than s. 47): 1 Jul 2024 (see s. 2(b) and SL 2024/88 cl. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Short-Term Rental Accommodation Act 2024 s. 47 | 12 of 2024 | 22 Apr 2024 | 1 Jan 2025 (see s. 2(b) and SL 2024/88 cl. 2(b))
+Short-Term Rental Accommodation Act 2024 | 12 of 2024 | 22 Apr 2024 | Pt. 1: 22 Apr 2024 (see s. 2(a)); Pt. 2-8 (other than s. 47): 1 Jul 2024 (see s. 2(b) and SL 2024/88 cl. 2(a)); s. 47: 1 Jan 2025 (see s. 2(b) and SL 2024/88 cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -44,7 +40,7 @@ short-term rental arrangement3, 4(1)
 tenant3
 transition period52(1)
 Tribunal3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
