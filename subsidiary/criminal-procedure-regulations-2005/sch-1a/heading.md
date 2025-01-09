@@ -2,12 +2,15 @@
 [r. 6A]
 [Heading inserted: Gazette 14 Jul 2006 p. 2568.]
 Associations Incorporation Act 2015
+Betting Control Act 1954
 Biodiversity Conservation Act 2016
 Building Act 2011
 Building and Construction Industry (Security of Payment) Act 2021
 Building Services (Complaint Resolution and Administration) Act 2011
 Building Services (Registration) Act 2011
 Business Names Act 1962
+Casino (Burswood Island) Agreement Act 1985
+Casino Control Act 1984
 Charitable Collections Act 1946
 Chattel Securities Act 1987
 Child Care Services Act 2007
@@ -23,6 +26,7 @@ Energy Coordination Act 1994
 Energy Safety Act 2006
 Fair Trading Act 2010
 Firearms Act 2024
+Gaming and Wagering Commission Act 1987
 Gas Standards Act 1972
 Health (Miscellaneous Provisions) Act 1911
 Health Services Act 2016
@@ -50,4 +54,4 @@ Transport (Road Passenger Services) Act 2018
 Water Services Act 2012
 Western Australian Meat Industry Authority Act 1976
 Workers Compensation and Injury Management Act 2023
-[Schedule 1A inserted: Gazette 14 Jul 2006 p. 2568-9; amended: Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724; 27 Oct 2011 p. 4552; 23 Mar 2012 p. 1369; 30 Aug 2013 p. 4101; 3 Sep 2013 p. 4148; 24 Jun 2016 p. 2317; 30 Dec 2016 p. 5965; 10 Jan 2017 p. 174; 24 Jan 2017 p. 745; 4 Aug 2017 p. 4314; 14 Sep 2018 p. 3314; 12 Feb 2019 p. 265; SL 2020/32 r. 4; SL 2021/135 r. 4; SL 2021/136 r. 4; SL 2021/174 r. 4; SL 2022/8 r. 4; SL 2022/14 r. 4; SL 2023/69 r. 4; SL 2024/29 r. 4; SL 2024/76 r. 4; SL 2024/210 r. 4; SL 2024/242 r. 4; SL 2024/260 r. 4.]
+[Schedule 1A inserted: Gazette 14 Jul 2006 p. 2568-9; amended: Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724; 27 Oct 2011 p. 4552; 23 Mar 2012 p. 1369; 30 Aug 2013 p. 4101; 3 Sep 2013 p. 4148; 24 Jun 2016 p. 2317; 30 Dec 2016 p. 5965; 10 Jan 2017 p. 174; 24 Jan 2017 p. 745; 4 Aug 2017 p. 4314; 14 Sep 2018 p. 3314; 12 Feb 2019 p. 265; SL 2020/32 r. 4; SL 2021/135 r. 4; SL 2021/136 r. 4; SL 2021/174 r. 4; SL 2022/8 r. 4; SL 2022/14 r. 4; SL 2023/69 r. 4; SL 2024/29 r. 4; SL 2024/76 r. 4; SL 2024/210 r. 4; SL 2024/242 r. 4; SL 2024/260 r. 4; SL 2025/2 r. 4.]

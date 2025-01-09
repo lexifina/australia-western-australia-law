@@ -101,6 +101,7 @@ Attorney General Regulations Amendment (Medicines and Poisons) Regulations 2024 
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2024 | SL 2024/232 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Firearms) Regulations (No. 2) 2024 Pt. 3 | SL 2024/242 27 Nov 2024 | 28 Nov 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Towing Services) Regulations 2024 Pt. 3 | SL 2024/260 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
+Attorney General Regulations Amendment (Gambling) Regulations 2025 Pt. 3 | SL 2025/2 8 Jan 2025 | 9 Jan 2025 (see r. 2(b))
 Other notes
 Formerly referred to the Censorship Act 1996, the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Curtin University of Technology Act 1966, the short title of which was changed to the Curtin University Act 1966 by the Universities Legislation Amendment Act 2016 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -116,7 +117,7 @@ metropolitan region2A
 section2A
 warrant11B(1)
 WPI8AA(3), 8AC(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
