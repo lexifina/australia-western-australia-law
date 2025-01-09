@@ -14,6 +14,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 2022
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Health Services (Conduct and Traffic) Amendment Regulations 2024 | SL 2024/281 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2024 (see r. 2(b))
+Health Services (Conduct and Traffic) Amendment Regulations 2025 | SL 2025/1 8 Jan 2025 | r. 1 and 2: 8 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2025 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -53,7 +54,7 @@ ticket parking area19(1)
 ticket parking feeSch. 1 cl. 1(1)
 ticket vending machine3(1)
 vehicle3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
