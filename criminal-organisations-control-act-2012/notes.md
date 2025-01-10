@@ -8,13 +8,13 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Statutes (Minor Amendments) Act 2017 s. 6 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Firearms Amendment Act 2022 Pt. 3 Div. 2 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 2 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
+Towing Services Act 2024 Pt. 11 Div. 1 | 37 of 2024 | 29 Oct 2024 | 10 Jan 2025 (see s. 2(c) and SL 2025/3 cl. 2(h))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 147 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 6 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 2 | 35 of 2024 | 22 Oct 2024 | To be proclaimed (see s.2(b))
-Towing Services Act 2024 Pt. 11 Div. 1 | 37 of 2024 | 29 Oct 2024 | To be proclaimed (see s. 2(c))
 Other notes
 The Criminal Organisations Control Act 2012 s. 176(5) had not come into operation when it was deleted by the Statutes (Minor Amendments) Act 2017 s. 6(3).
 The amendment in the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 to Sch. 1A Pt. 1 it. 3 and Pt. 2 it. 3 is not included because the reference to the provision to be amended is unclear.
@@ -85,7 +85,7 @@ serious indictable offence3(1)
 serious violence offence3(1)
 weapon3(1)
 working day3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

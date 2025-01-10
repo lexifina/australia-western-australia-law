@@ -167,11 +167,11 @@ Road Traffic Amendment (Blood Alcohol Content) Act 2019 | 20 of 2019 | 15 Aug 20
 Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 2 | 27 of 2020 | 9 Jul 2020 | s. 3 and 39: 12 Oct 2020 (see s. 2(1)(b) and SL 2020/148 cl. 2); s. 24 and 26: 28 Oct 2020 (see s. 2(1)(b) and SL 2020/199 cl. 2); s. 29(10) and 33: 26 Feb 2021 (see s. 2(1)(b) and SL 2020/254 cl. 2); Pt. 2 (other than s. 3, 24, 26, 29(10), 33 and 39): 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(a)-(c))
 Road Traffic Amendment (Immobilisation, Towing and Detention of Vehicles) Act 2020 Pt. 2 | 38 of 2020 | 10 Nov 2020 | 14 Dec 2020 (see s. 2(1)(b) and SL 2020/229 cl. 2)
 Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 4 Div. 4 | 15 of 2024 | 14 May 2024 | 7 Oct 2024 (see s. 2(b) and SL 2024/200 cl. 2)
+Towing Services Act 2024 Pt. 11 Div. 2 | 37 of 2024 | 29 Oct 2024 | 10 Jan 2025 (see s. 2(c) and SL 2025/3 cl. 2(h))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Towing Services Act 2024 Pt. 11 Div. 2 | 37 of 2024 | 29 Oct 2024 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Footnote no longer applicable.
@@ -434,10 +434,11 @@ uncollected vehicle80J(1), 80M(1)
 undergoes65
 vehicle79BA(1)
 vehicle A79BCD(1)
+vehicle crash91
 vehicle referred to in section 80GA78A(1)
 vehicle service provider79D(1)
 victim54(2) and (6)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

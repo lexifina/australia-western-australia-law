@@ -36,12 +36,12 @@ Statutes (Minor Amendments) Act 2017 s. 13 | 6 of 2017 | 12 Sep 2017 | 13 Sep 20
 Transport (Road Passenger Services) Act 2018 s. 327 | 26 of 2018 | 30 Oct 2018 | s. 327(2): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 327(1): 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Veterinary Practice Act 2021 s. 236 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 20 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Towing Services Act 2024 Pt. 11 Div. 5 | 37 of 2024 | 29 Oct 2024 | 10 Jan 2025 (see s. 2(c) and SL 2025/3 cl. 2(h))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 371 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Towing Services Act 2024 Pt. 11 Div. 5 | 37 of 2024 | 29 Oct 2024 | To be proclaimed (see s. 2(c))
 Other notes
 The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
 Defined terms
@@ -104,7 +104,7 @@ vexatiously3(1)
 vocational Act3(1)
 vocational regulatory body3(1)
 witness3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
