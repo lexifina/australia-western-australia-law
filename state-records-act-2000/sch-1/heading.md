@@ -1,4 +1,4 @@
-## Schedule 1 — Government organizations
+## Schedule 1 — Government organisations
 [s. 3]
 1.The Governor.
 2.The Governor’s Establishment referred to in the Governor’s Establishment Act 1992.

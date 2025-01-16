@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Records Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the State Records Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Records Act 2000 | 52 of 2000 | 28 Nov 2000 | s. 1 and 2: 28 Nov 2000; s. 3-10, Pt. 8 and 9 and s. 77 and 82: 28 Jul 2001 (see s. 2 and Gazette 27 Jul 2001 p. 3797); Pt. 2-7 and s. 72, 78-81, 83 and 84: 1 Dec 2001 (see s. 2 and Gazette 30 Nov 2001 p. 6067)
@@ -12,8 +12,17 @@ Electricity Corporations Amendment Act 2013 s. 46 | 25 of 2013 | 18 Dec 2013 | 1
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 33 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Aboriginal Cultural Heritage Act 2021 s. 353 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 34 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
+State Records Act 2000 with editorial changes as at 16 Jan 2025
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+Whole Act | s. 34(3) [spelling] | 16 Jan 2025
+s. 22(3), 79(3), Sch. 4 cl. 2(3) and (4)(b) and (d) and 4(3) | s. 30
+s. 66(3)(a) | s. 32
+s. 69(2) | s. 34(2) [s. 34(1) def. (f)]
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 230(3) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Information Commissioner Act 2024 Pt. 7 Div. 6 | 52 of 2024 | 6 Dec 2024 | Operative on commencement of the Privacy and Responsible Information Sharing Act 2024 Pt. 2 Div. 12 (see s. 2(1)(d))
@@ -28,9 +37,9 @@ destroy3(1)
 Director3(1)
 exempt record3(1)
 FOI Act3(1)
-former organization8(1)
-government organization3(1)
-government organization employee3(1)
+former organisation 8(1)
+government organisation 3(1)
+government organisation employee3(1)
 government record3(1)
 information66(1)
 keep3(1)
@@ -45,16 +54,16 @@ relevant Minister3(1)
 reproduce3(1)
 restricted access archive3(1)
 retention period3(1)
-Schedule 3 organization3(1)
+Schedule 3 organisation 3(1)
 State archive3(1), 43(1)
 State archives collection3(1)
 State collecting institution3(1)
-State organization3(1)
+State organisation 3(1)
 State record3(1)
 State Records Office3(1)
 successor3(1)
 unauthorised possession3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

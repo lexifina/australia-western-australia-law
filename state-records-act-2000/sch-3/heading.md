@@ -1,4 +1,4 @@
-## Schedule 3 — Certain government organizations
+## Schedule 3 — Certain government organisations
 [s. 3]
 1.A body established by the Electricity Corporations Act 2005 section 4(1).
 2.A body established by or under the Water Corporations Act 1995 section 4, namely —
