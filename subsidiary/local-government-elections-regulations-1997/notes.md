@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Elections) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Local Government (Elections) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Elections) Regulations 1997 | 14 Feb 1997 p. 905-1008 | 14 Feb 1997
@@ -23,6 +23,10 @@ Local Government (Elections) Amendment Regulations 2021 | SL 2021/141 30 Jul 202
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 4 | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 4 | SL 2023/158 18 Oct 2023 | Pt. 4 Div. 1: 19 Oct 2023 (see r. 2(c)); Pt. 4 Div. 2: 1 Jan 2024 (see r. 2(b))
 Local Government (Elections) Amendment Regulations 2024 | SL 2024/128 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Local Government Regulations Amendment Regulations (No. 2) 2025 Pt. 4 | SL 2025/7 22 Jan 2025 | 1 Feb 2025 (see r. 2(b))
 Other notes
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 3.Application
@@ -94,7 +98,7 @@ voting paper45(7)
 Western Australian Electoral Commission3
 withdrawal notice11B(1)
 working day22AA(1), 87B(2)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
