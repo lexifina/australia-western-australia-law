@@ -3,8 +3,7 @@ This is a compilation of the Fair Trading (Retirement Villages Code) Regulations
 Compilation table
 Citation | Published | Commencement
 Fair Trading (Retirement Villages Code) Regulations 2022 | SL 2022/42 25 Mar 2022 | r. 1 and 2: 25 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2022 (see r. 2(b))
-Other notes
-These regulations expire at the end of 31 Mar 2025 (see r. 4).
+Fair Trading (Retirement Villages Code) Amendment Regulations 2025 | SL 2025/13 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -47,3 +46,7 @@ special resolutionSch. 1 cl. 14(1) and 29
 voting residentSch. 1 cl. 27(1)
 withdrawal noticeSch. 1 cl. 31(15)
 working daySch. 1 cl. 1
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
