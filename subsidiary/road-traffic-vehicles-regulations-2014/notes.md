@@ -49,6 +49,7 @@ Road Traffic (Vehicles) Amendment Regulations (No. 2) 2024 | SL 2024/107 26 Jun 
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2024 | SL 2024/180 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 5 Sep 2024 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations (No. 6) 2024 | SL 2024/256 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2025 (see r. 2(b))
 Road Traffic (Vehicles) Amendment Regulations 2025 | SL 2025/4 8 Jan 2025 | r. 1 and 2: 8 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jan 2025 (see r. 2(b))
+Transport Regulations Amendment (Heavy Vehicle) Regulations 2025 Pt. 3 | SL 2025/20 22 Jan 2025 | 23 Jan 2025 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
