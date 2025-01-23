@@ -26,6 +26,7 @@ Petroleum Products Pricing Amendment Regulations (No. 2) 2018 | 27 Nov 2018 p. 4
 Petroleum Products Pricing Amendment Regulations 2020 | SL 2020/33 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
 Petroleum Products Pricing Amendment Regulations (No. 2) 2020 | SL 2020/34 9 Apr 2020 | r. 1 and 2: 9 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2020 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 22 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
+Petroleum Products Pricing Amendment Regulations 2025 | SL 2025/11 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Other notes
 The Petroleum Products Pricing Amendment Regulations 2001 r. 8 reads as follows:
 8.Defence during transitional period
@@ -54,3 +55,7 @@ Perth metropolitan region2AA
 regular unleaded petrol6(7)
 retail sale2A
 townsite2AA
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
