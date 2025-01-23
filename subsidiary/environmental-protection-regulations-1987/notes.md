@@ -94,6 +94,7 @@ Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons
 Environmental Protection Amendment Act 2024 Pt. 6 Div. 2 assented to on 22 Oct 2024 | 23 Oct 2024 (see s. 2(1)(e))
 Environmental Protection Amendment Regulations (No. 4) 2024 | SL 2024/244 27 Nov 2024 | r. 1 and 2: 27 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2024 (see r. 2(b) and SL 2024/239 cl. 2))
 Environmental Protection Amendment Regulations (No. 2) 2024 | SL 2024/288 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2024 (see r. 2(b))
+Environmental Protection Amendment Regulations 2025 | SL 2025/6 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Other notes
 Published by Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order 2017 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Water and Environmental Regulation.
@@ -116,7 +117,7 @@ approved site11(1)
 baseline report26(1)
 baseline survey26(1)
 best practice criteria4(1)
-building envelope33C(1)
+building envelope33B(1)
 Bush Forever area33B(1)
 category4(1)
 clean fill premises2AA
@@ -126,7 +127,7 @@ cultural place33C(1)
 department3D(1)
 design requirement33C(1)
 development33C(1)
-development requirement33C(1)
+development requirement33B(1)
 development site16A
 development work16A
 documentation3A
@@ -149,13 +150,12 @@ licence period4(1)
 licensed landfill21(1)
 licensed premises11(1)
 licensee21(1), 24(1), 28(1)
-local development plan33C(1)
 lot16A
 mercury5P
 mercury-added product5P
 mercury compound5P
 metropolitan region21(1)
-Metropolitan Region Scheme33B(1)
+Metropolitan Region Scheme33A(1)
 minute2B(1)
 native species3D(1)
 native vegetation33C(1)
@@ -178,13 +178,11 @@ regional road33B(1)
 relevant documentation3B(2)
 return period21(1)
 review jurisdiction3H(1)
-scheme map33C(1)
 semi-enclosed water body16(4)
 species3D(1)
 specified31(3)
 specified monitoring programme17
 storage11(1)
-structure plan33C(1)
 submit3A
 surveyor26(8)
 threatened species3D(1)
@@ -194,7 +192,7 @@ Tyre Landfill Exclusion Zone11(1)
 tyre retailer11(1)
 validation day5DA(8)
 vessel16(4)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
