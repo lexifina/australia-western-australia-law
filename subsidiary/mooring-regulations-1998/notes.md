@@ -36,6 +36,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2024 Pt. 3 | SL 2024/57 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Transport Regulations Amendment (Mooring Control Areas) Regulations 2024 Pt. 3 | SL 2024/69 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2024 Pt. 3 | SL 2024/191 18 Sep 2024 | 30 Sep 2024 (see r. 2(b))
+Mooring Amendment Regulations 2025 | SL 2025/18 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -70,16 +71,16 @@ mooring inspection report20(1)
 mooring inspector20(1)
 mooring licence2
 mooring licensee2
-mooring site2, 7(1)
+mooring site2
 nominated29(1)
 owner28(1A), 29(1)
 permissible vessel length7A
-pleasure vessel2
+person responsible6A(1)
 previous licensee21(1)
 recreational mooring site2
 register2
 registered mooring site2
-relevant mooring site8(2)
+relevant mooring site9(2)
 rental mooring site2
 rental period7F(1), 7J(1)
 shared-use mooring7D(1)
@@ -90,7 +91,7 @@ substituted vessel7C(8)
 tender2
 waiting list2
 written instrument37
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

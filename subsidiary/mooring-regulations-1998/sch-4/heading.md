@@ -5,6 +5,7 @@ Item | Provision | Description of offence | Modified penalty $
 1. | r. 4(1) | Installing a mooring in mooring control area without written permission | 400
 2. | r. 6(1) | Causing or permitting vessel to be secured to mooring on mooring site without authorisation | 200
 3. | r. 6(3) | Causing or permitting vessel to be secured to mooring on mooring site without vessel displaying issued identification sticker | 200
+3A. | r. 6A(4) | Failing to comply with direction of CEO to move vessel | 400
 4. | r. 7(2) | Causing or permitting vessel to be secured or anchored in mooring control area and causing risk of damage | 200
 5. | r. 7(3) | Causing or permitting vessel to be secured or anchored for more than 6 hours in Division 2 mooring control area | 200
 6. | r. 7H(2) | Failing to notify CEO within 24 hours after vessel is secured to emergency mooring site | 200
@@ -23,4 +24,4 @@ Item | Provision | Description of offence | Modified penalty $
 19. | r. 22(2) | Failing to comply within 7 days after given direction by Minister as to moving or removing mooring | 400
 20. | r. 23 | Failing to maintain vessel moored on registered mooring site in seaworthy condition | 400
 21. | r. 25(2) | Failing to give Minister written notice within 15 days after sale or disposal of interest in licensed vessel | 200
-[Schedule 4 inserted: SL 2021/147 r. 34.]
+[Schedule 4 inserted: SL 2021/147 r. 34; amended: SL 2025/18 r. 10.]
