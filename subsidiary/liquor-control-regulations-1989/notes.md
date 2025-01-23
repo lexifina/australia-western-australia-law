@@ -164,6 +164,7 @@ Liquor Control Amendment Regulations (No. 2) 2023 (other than Pt. 4) | SL 2023/1
 Liquor Control (Weymul Restricted Area) Regulations 2024 Pt. 5 | SL 2024/37 20 Mar 2024 | 21 Mar 2024 (see r. 2(b))
 Liquor Control (Strelley Restricted Area) Regulations 2024 Pt. 5 | SL 2024/138 26 Jun 2024 | 27 Jun 2024 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 6 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
+Liquor Control Amendment Regulations 2025 | SL 2025/9 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
