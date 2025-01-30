@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Magistrates Court (Civil Proceedings) Rules 2005 | 28 Apr 2005 p. 1651-709 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -41,6 +41,10 @@ Magistrates Court Rules Amendment (Legal Profession) Rules 2022 Pt. 2 | SL 2022/
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2022 | SL 2022/188 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Rules other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2023 Pt. 2 | SL 2023/148 20 Sep 2023 | 21 Sep 2023 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2024 | SL 2024/155 30 Jul 2024 | r. 1 and 2: 30 Jul 2024 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Magistrates Court (Civil Proceedings) Amendment Rules 2025 r. 3 and 4 | SL 2025/23 30 Jan 2025 | Operative on commencement of the Restraining Orders Amendment Regulations 2025 r. 4 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -106,7 +110,7 @@ video link123
 warehouseman133AAA
 warrant of commitment inquiry123
 working day4
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
