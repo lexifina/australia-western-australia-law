@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health Services Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Health Services Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 | 11 of 2016 | 26 May 2016 | s. 1 and 2: 26 May 2016 (see s. 2(a)); s. 6, 7, 32, 238, 244 and 245: 15 Jun 2016 (see s. 2(b) and Gazette 14 Jun 2016 p. 1819); Act other than s. 1, 2, 6, 7, 32, 238, 244, 245, 301(2), (3), (6) and (7) and 307(j): 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
@@ -7,9 +7,6 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 17 | 26 of 2016 | 21 
 Procurement Act 2020 Pt. 10 Div. 4 | 24 of 2020 | 19 Jun 2020 | 22 Jul 2020 (see s. 2(b) and SL 2020/122)
 Health Services Amendment Act 2023 Pt. 2 | 1 of 2023 | 22 Feb 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/103 cl. 2)
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 4 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 2 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Other notes
 The Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) had not come into operation when those provisions were deleted by the Health Services Amendment Act 2023 s. 85.
@@ -23,8 +20,9 @@ administrator6
 adviser94
 alcohol and drug health service43
 alcohol and drug health service provider43
+applied section174A(1)
 appointee117(1)
-assets6, 200(1)
+assets5, 200(1)
 associated interest194(1)
 authorised person211(1)
 board6
@@ -39,15 +37,14 @@ clinical commissioning6
 clinical governance arrangements34(3)
 code231(1)
 commencement day259
-Commission CEO 6
-Commission CEO43
+Commission CEO6, 43
 Commission health service43
 Commission service agreement43
 committee6
 compensable charge53A
 compensation53A, 53B(1) and (2)
 compensation payer53A
-condition267(2)
+condition267(1)
 confidential information177(1), 187(1AA)
 contracted health entity6
 day hospital facility8(1) and (2)
@@ -57,7 +54,6 @@ Department CEO6
 Department CEO direction6, 29(1)
 disability213
 disciplinary action6
-disciplinary decision or finding172(1)
 dispose of13(1), 36(1)
 document61(1)
 earlier transfer order194(1)
@@ -75,7 +71,6 @@ former Act6
 former employee155(1)
 former hospital service6
 government entity260(1)
-government officer171
 granting entity268(1)
 head agreement44(1)
 health asset194(1)
@@ -102,7 +97,7 @@ holding health entity260(2), 262(1)
 hospital6, 8(4)
 hospital board233
 improvement action6
-Industrial Commission171
+Industrial Commission174A(1)
 industrial instrument6
 informant192(1)
 information61(1)
@@ -115,6 +110,8 @@ interest260(1), 268(1)
 interstate authority218(1)
 joint arrangement6
 LA Act233
+lawful redeployment breach of discipline160
+lawful redeployment direction171(2)
 legal process213
 liabilities6
 management body6
@@ -130,12 +127,12 @@ misconduct76A(1)
 misconduct finding145(3)
 National Health Agreement6
 new body corporate250
-nursing post8(1)
+nursing post7A(1)
 old body corporate250
 operating account201(1), 233
 organisation126
 original contract128(3)
-originating place of employment132(2), 132(2)
+originating place of employment132(2)
 participate14(1), 36(1)
 patient6, 57A(1), 57B(1)
 personal information6
@@ -173,7 +170,6 @@ responsible provider212(1), 263(1)
 right of return132(1)
 rights6
 second provider36D(1), 36E(1)
-section 173(2) breach of discipline160
 section 194 transfer order6, 194(2)
 serious offence144
 service agreement6, 43
@@ -197,7 +193,7 @@ validated land263(1)
 WA health system6
 WA health system-wide plan6
 WCIM Act228(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

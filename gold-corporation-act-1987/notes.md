@@ -2,35 +2,36 @@ Notes
 This is a compilation of the Gold Corporation Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
- | Gold Banking Corporation Act 1987 | 99 of 1987 | 18 Dec 1987 | s. 1 and 2: 18 Dec 1987; Sch. 3 cl. 1(1): 1 Jul 1987 (see Sch. 3 cl. 1(2)); Act other than s. 1 and 2 and Sch. 3 cl. 1(1): 30 Jun 1988 (see s. 2 and Gazette 30 Jun 1988 p. 2133)
- | Gold Banking Corporation Amendment Act 1988 | 5 of 1988 | 29 Jun 1988 | 29 Jun 1988 (see s. 2)
- | Acts Amendment (Gold Banking Corporation) Act 1990 Pt. 2 | 10 of 1990 | 31 Jul 1990 | 28 Sep 1990 (see s. 2 and Gazette 28 Sep 1990 p. 4981)
- | Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
- | Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
- | Reprint of the Gold Corporation Act 1987 as at 24 Aug 1994 (includes amendments listed above except those in the Acts Amendment (Public Sector Management) Act 1994)
- | Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
- | Industrial Legislation Amendment Act 1995 s. 35 | 1 of 1995 | 9 May 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 24 Nov 1995 p. 5389)
- | Statutory Corporations (Liability of Directors) Act 1996 s. 3 | 41 of 1996 | 10 Oct 1996 | 1 Dec 1996 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
- | Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
- | State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(1) | 43 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2(2) and Gazette 16 Feb 2001 p. 903)
- | Reprint of the Gold Corporation Act 1987 as at 2 Jan 2001 (includes amendments listed above except those in the State Superannuation (Transitional and Consequential Provisions) Act 2000)
- | Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 9 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
- | Acts Amendment (Equality of Status) Act 2003 Pt. 24 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
- | Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 8 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
- | Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
- | Reprint 3: The Gold Corporation Act 1987 as at 10 Jun 2005 (includes amendments listed above)
- | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
- | Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
- | Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
- | Reprint 4: The Gold Corporation Act 1987 as at 1 Aug 2008 (includes amendments listed above)
- | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 65 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Gold Banking Corporation Act 1987 | 99 of 1987 | 18 Dec 1987 | s. 1 and 2: 18 Dec 1987; Sch. 3 cl. 1(1): 1 Jul 1987 (see Sch. 3 cl. 1(2)); Act other than s. 1 and 2 and Sch. 3 cl. 1(1): 30 Jun 1988 (see s. 2 and Gazette 30 Jun 1988 p. 2133)
+Gold Banking Corporation Amendment Act 1988 | 5 of 1988 | 29 Jun 1988 | 29 Jun 1988 (see s. 2)
+Acts Amendment (Gold Banking Corporation) Act 1990 Pt. 2 | 10 of 1990 | 31 Jul 1990 | 28 Sep 1990 (see s. 2 and Gazette 28 Sep 1990 p. 4981)
+Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+Acts Amendment (Public Sector Management) Act 1994 s. 3(2) | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+Reprint of the Gold Corporation Act 1987 as at 24 Aug 1994 (includes amendments listed above except those in the Acts Amendment (Public Sector Management) Act 1994)
+Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
+Industrial Legislation Amendment Act 1995 s. 35 | 1 of 1995 | 9 May 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 24 Nov 1995 p. 5389)
+Statutory Corporations (Liability of Directors) Act 1996 s. 3 | 41 of 1996 | 10 Oct 1996 | 1 Dec 1996 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
+Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(1) | 43 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2(2) and Gazette 16 Feb 2001 p. 903)
+Reprint of the Gold Corporation Act 1987 as at 2 Jan 2001 (includes amendments listed above except those in the State Superannuation (Transitional and Consequential Provisions) Act 2000)
+Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 9 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
+Acts Amendment (Equality of Status) Act 2003 Pt. 24 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 8 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
+Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Reprint 3: The Gold Corporation Act 1987 as at 10 Jun 2005 (includes amendments listed above)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Reprint 4: The Gold Corporation Act 1987 as at 1 Aug 2008 (includes amendments listed above)
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 65 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 10 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 3 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 32 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Government Trading Enterprises Act 2023 Pt. 12 Div. 2 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Gold Corporation Act 1987 with editorial changes as at 11 Oct 2024
+Industrial Relations Legislation Amendment Act 2024 s. 157 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
@@ -40,7 +41,6 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Industrial Relations Legislation Amendment Act 2024 s. 157 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Other notes
 Now known as the Western Australian Mint Act 1970, which is repealed by this Act.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
@@ -114,7 +114,7 @@ to produce74(6)
 Treasurer3(1)
 Treasury3(1)
 unestablished personSch. 2 cl. 1
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

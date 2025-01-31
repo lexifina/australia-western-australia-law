@@ -113,25 +113,24 @@ Procurement Act 2020 Pt. 10 Div. 5 | 24 of 2020 | 19 Jun 2020 | 1 Jun 2021 (see 
 Work Health and Safety Act 2020 Pt 15 Div. 4 Subdiv. 7 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Arts and Culture Trust Act 2021 s. 76 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 15 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 4 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Keystart Act 2024 Pt. 8 Div. 5 (other than s. 68) | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 TAB (Disposal) Act 2019 s. 152 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 4 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Keystart Act 2024 s. 68 | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-Under the R & I Holdings Act 1990 s. 22(2) that Act was repealed on 26 Jun 2001, see Gazette 26 Jun 2001 p. 3063.
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 (Sch. 1 cl. 5) is not included because of an error in the reference to the item to be amended.
 The amendment in the State Superannuation Amendment Act 2007 s. 85 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment came into operation.
 The amendments in the Public Sector Reform Act 2010 s. 68 and 70 to the Public Sector Management Act 1994 s. 79(6) and 99 are not included as those sections were deleted by the Public Sector Reform Act 2010 s. 55(3) and 57 respectively.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accountable authority5(2)(b)
+accountable authority5(2)
 affected department or organisation93(3)
 agency3(1)
 agency of destination50(5)
@@ -163,13 +162,14 @@ improvement action3(1)
 incumbent107(1)
 Industrial Commission3(1)
 industrial instrument95B(1)
+lawful redeployment direction75A
 Minister3(1)
 ministerial office3(1)
 ministerial officer3(1), 74(3), 105(4)
 non-SES organisation3(1)
 organisation3(1)
 original contract56(4)
-paragraph (a) provision32(2)(a)
+paragraph (a) provision32(2)
 performance agreement3(1)
 permanent officer3(1)
 political office holder3(1)
@@ -179,7 +179,8 @@ public sector notice3(1)
 public sector standard3(1)
 Public Service3(1)
 public service officer3(1)
-reasonable excuseSch. 3 cl. 3(5) and 4(3)
+reasonable excuseSch. 3 cl. 3.(5) and 4.(3)
+redeployment direction breach of discipline80A
 registered employee94(1A), 95A(1)
 registrable employee94(1A)
 remuneration3(1)
@@ -188,7 +189,6 @@ responsible authority3(1)
 review24A
 right of return58(7)
 seconding authority66
-section 94 breach of discipline80A
 section 94 decision95(1)
 senior executive officer3(1)
 Senior Executive Service3(1)
@@ -206,7 +206,7 @@ term officer3(1)
 this Act3(1)
 transitional matterSch. 7 cl. 12(2), Sch. 8 cl. 6(2)
 Tribunal57(2)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
