@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Minimum Conditions of Employment Act 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Minimum Conditions of Employment Act 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Minimum Conditions of Employment Act 1993 | 14 of 1993 | 23 Nov 1993 | s. 1 and 2: 23 Nov 1993; Act other than s. 1 and 2: 1 Dec 1993 (see s. 2 and Gazette 30 Nov 1993 p. 6439)
@@ -26,9 +26,6 @@ Western Australia Day (Renaming) Act 2012 Pt. 2 Div. 2 | 3 of 2012 | 10 Apr 2012
 Reprint 5: The Minimum Conditions of Employment Act 1993 as at 6 Jul 2012 (includes amendments listed above)
 Statutes (Repeals) Act 2016 Pt. 3 Div. 3 | 50 of 2016 | 28 Nov 2016 | 29 Nov 2016 (see s. 2(b))
 Industrial Relations Legislation Amendment Act 2021 Pt. 5 | 30 of 2021 | 22 Dec 2021 | Pt. 5 (other than s. 100-119 and 121): 12 Feb 2022 (see s. 2(1)(b) and SL 2022/10 cl. 2); s. 100-119 and 121: 20 Jun 2022 (see s. 2(1)(b) and SL 2022/79 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Industrial Relations Legislation Amendment Act 2024 Pt. 3 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Other notes
 Expired 14 September 2003.
@@ -39,35 +36,37 @@ The Labour Relations Legislation Amendment Act 2006 s. 31(2) reads as follows:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-adoption32(1)
 annual leave3(1)
 apprentice3(1)
 assessment49(1), 50(1)
 assessment period49(1), 50(1)
 authorised leave9A(4)
+average weekly hours18B(4)
 award3(1)
+child39F(3)
 commencement day48
+Commission3(1)
+compensated employee3(1), 18B(1)
+compensated employee rate3(1), 18B(2)
 continuous service3(1)
-eligible32(2) and (3)
-employee3(1), 32(1), 40(1)
+employee3(1), 40(1)
 employee with a disability15
 employer3(1)
-employer-employee agreement3(1)
-expected date of birth32(1)
-family and domestic violence39A
-family and domestic violence leave39A
-first period of employment32(3)
+entitled to receive income compensation3(1), 18B(1)
+family and domestic violence3(1)
+flexible working arrangement dispute3(1)
+flexible working arrangement request3(1), 39F(1)
+income compensation3(1)
 industrial instrument3(1)
 instrument-free employee with a disability15
 instrument-governed employee with a disability15
 IR Act3(1)
-medical practitioner3(1)
 member of the employee’s family or household3(1)
 minimum condition of employment3(1)
-modified basis38(8)
 offshore area6(2)
 on call3(3)
-parental leave32(1)
+organisation3(1)
+paid family and domestic violence leave3(1)
 party related17A(1A)
 permissible occasion21(1)
 personal circumstances19
@@ -77,19 +76,21 @@ prescribed percentage11(2)
 prospective employee17BA(2)
 prospective employer17BA(2)
 public holiday3(1)
+rate of pay18B(3)
 redundant40(1)
 relative17A(1A)
-second period of employment32(3)
+supported employment service15
 supported wage industrial instrument provision15
 Supported Wage System15
 SWIIP15
 SWS15
 under rate employee50(1)
 under rate employee provision50(1)
+unpaid family and domestic violence leave39A
 wage assessment tool15
 wages17A(2)
-year20(1), 23(3), 24(4)
-© State of Western Australia 2024.
+year of service3(1)
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

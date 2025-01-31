@@ -52,11 +52,11 @@ Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 6 | 19 o
 Reprint 7: The Equal Opportunity Act 1984 as at 5 Aug 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016
 Statutes (Minor Amendments) Act 2017 s. 8 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Industrial Relations Amendment Act 2018 s. 68 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
+Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 1 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 7 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
-Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 1 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Other notes
 Footnote no longer required.
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 (Cwlth) (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 (Cwlth).
@@ -128,6 +128,7 @@ marital status4(1)
 near relative4(1)
 notifiable infectious disease66U(3)
 opposite sex35AA(2)
+particular allegation83B(1)
 person victimised67(1)
 principal4(1)
 private educational authority4(1)
@@ -153,7 +154,7 @@ victimiser67(1)
 voluntary body4(1)
 Western Australian law4(1)
 woman4(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
