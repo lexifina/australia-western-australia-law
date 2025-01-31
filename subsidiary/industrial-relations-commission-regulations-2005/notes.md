@@ -31,47 +31,51 @@ Industrial Relations Commission Amendment Regulations (No. 2) 2019 | 29 Nov 2019
 Industrial Relations Commission Amendment Regulations (No. 2) 2022 | SL 2022/6 21 Jan 2022 | r. 1 and 2: 21 Jan 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2022 (see r. 2(b))
 Industrial Relations Commission Amendment Regulations 2022 | SL 2022/19 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Industrial Relations Commission Amendment Regulations (No. 3) 2022 | SL 2022/75 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jun 2022 (see r. 2(b))
+Industrial Relations Commission Amendment Regulations 2025 | SL 2025/21 29 Jan 2025 | r. 1 and 2: 29 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jan 2025 (see r. 2(b))
 Other notes
 Although the commencement date of 1 Jul 2008 was specified in the Industrial Relations Commission Amendment Regulations (No. 2) 2008, because of the Interpretation Act 1984 s. 25(3) those regulations came into operation on 1 Aug 2008 when the Owner-Drivers (Contracts and Disputes) Act 2007 Sch. 3 cl. 1 came into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+accompanying photograph77E(2)
+aggrieved person62B(1)
 appeal against removal action89A, 89H, 89
 appeal against retirement on medical grounds94A
 appellant89A, 89H, 89, 94A
-applicant99A
-Arbitrator105
-Board102A(1), 105, 109
+applicant62E(1), 99A
+Board102A(1)
 chief executive officer89A, 89H
 Commission3
 Commissioner of Police89, 94A
-conciliation document29(1), 94M(6), 98(6), 99D(10)
+conciliation document29(1), 94M(6), 97(6), 99D(10)
 custodial officer89H
 decision65(3)
 discovery20(1)
 document20(1)
 electronic document3
-employer105
-employing authority63A(1)
 expert’s report45(1)
-government officer105
+flexible working arrangement request62F(1)
 inspection20(1)
 interested person86(1)
 lodged electronically3
-member of a constituent authority120(8)
+new rules77B(1)
 notice to admit23(1)
 person to be joined18(1)
 police officer89, 94A
+previous rules77B(1)
 prison officer89A
-Public Transport Authority109
-railway officer109
 Registrar3
 removal action89A, 89H, 89
 reviewable decision102A(1)
-salaried position109
 section 72A application73(1)
+section 94 decision60AA(1)
+section 95A decision60AA(1)
 service direction29(1), 94M(6), 98(6), 99D(10)
 substantive proceedings18(1)
 Tribunal94H, 95, 99A
 warrant63(1)
 writing3
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
