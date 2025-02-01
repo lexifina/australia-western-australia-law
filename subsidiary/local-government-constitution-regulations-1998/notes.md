@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Constitution) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Local Government (Constitution) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Constitution) Regulations 1998 | 26 Jun 1998 p. 3449-74 | 26 Jun 1998
@@ -12,9 +12,6 @@ Local Government (Constitution) Amendment Regulations 2014 | 12 Dec 2014 p. 4733
 Local Government (Model Code of Conduct) Regulations 2021 r. 7 | SL 2021/15 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 3 | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 3 | SL 2023/158 18 Oct 2023 | Pt. 3 Div. 1: 19 Oct 2023 (see r. 2(c)); Pt. 3 Div. 2: 1 Jan 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Local Government Regulations Amendment Regulations (No. 2) 2025 Pt. 3 | SL 2025/7 22 Jan 2025 | 1 Feb 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
