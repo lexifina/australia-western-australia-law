@@ -77,14 +77,14 @@ Compilation table
  | Local Government Amendment Act 2023 Pt. 2 (other than s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85) | 11 of 2023 | 18 May 2023 | s. 3, 60, 86, 87 and 99: 19 May 2023 (see s. 2(1)(b)); s. 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24 and 89: 21 Jun 2023 (see s. 2(1)(d) and SL 2023/77 cl. 2); s. 4, 5(1) and (3), 6, 12, 18, 19(4), 20, 21, 25 to 28, 31(2) and (3), 33 to 39, 40(1) and (2), 42 to 54, 56, 57, 71, 76(2), 77(3), 88 and 90 to 98: 1 Jul 2023 (see s. 2(1)(d) and SL 2023/92 cl. 2(a)); s. 58, 66, 70, 79(1) and 82: 19 Oct 2023 (see s. 2(1)(d) and SL 2023/157 cl. 2(a)); s. 17, 29, 30, 31(1), 32, 40(3), 41, 79(2) and 80: 1 Jan 2024 (see s. 2(1)(d), SL 2023/92 cl. 2(b) and SL 2023/157 cl. 2(b)); s. 23: 1 Jul 2024 (see s. 2(1)(d) and SL 2023/92 cl. 2(c))
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 10 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 4 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
-Local Government Amendment Act 2024 Pt. 2 (other than s. 4(1) and (2), 8-13, 14(2), 16, 17, 27, 32, 33, 36, 40, 44-49, 51-57, 59(1), 60-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142, 143, 145-151 and 155-158) | 47 of 2024 | 6 Dec 2024 | s. 3, 4(3), 5-7, 14(1) and (3), 15, 18-26, 28-31, 34, 35, 37-39, 41-43, 50, 58, 59(2), 72(2), 84, 89, 115(2), 126-128, 130, 132, 135, 138, 141, 144, 152-154 and 159-161: 7 Dec 2024 (see s. 2(1)(b))
+Local Government Amendment Act 2024 Pt. 2 (other than s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 27, 36, 40, 44-49, 51-53, 55-57, 59(1), 60, 61, 64-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142, 143, 146-151 and 155-157) | 47 of 2024 | 6 Dec 2024 | s. 3, 4(3), 5-7, 14(1) and (3), 15, 18-26, 28-31, 34, 35, 37-39, 41-43, 50, 58, 59(2), 72(2), 84, 89, 115(2), 126-128, 130, 132, 135, 138, 141, 144, 152-154 and 159-161: 7 Dec 2024 (see s. 2(1)(b)); s. 8(2), 9, 10, 32, 33, 54, 62, 63, 145 and 158: 1 Feb 2025 (see s. 2(1)(i) and SL 2025/8 cl. 2);
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Local Government Amendment (Auditing) Act 2017 s. 4(2), 7(2) and 22 | 5 of 2017 (as amended by No. 11 of 2023 s. 103) | 1 Sep 2017 | To be proclaimed (see s. 2(1)(c))
 Local Government Amendment Act 2023 s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85 | 11 of 2023 (as amended by No. 47 of 2024 s. 172) | 18 May 2023 | To be proclaimed (see s. 2(1)(d), (2) and (3))
 Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
-Local Government Amendment Act 2024 s. 4(1) and (2), 8-13, 14(2), 16, 17, 27, 32, 33, 36, 40, 44-49, 51-57, 59(1), 60-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142, 143, 145-151 and 155-158 and Pt. 3 Div. 4 | 47 of 2024 | 6 Dec 2024 | s. 8(2), 9, 10, 32, 33, 54, 62, 63, 145 and 158: 1 Feb 2025 (see s. 2(1)(i) and SL 2025/8 cl. 2); s. 4(1) and (2), 8(1), 9-13, 14(2), 16, 17, 27, 36, 40, 44-49, 51-53, 55-57, 59(1), 60, 61, 64-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142, 143, 146-151 and 155-157 and Pt. 3 Div. 4: to be proclaimed (see s. 2(1)(c)-(f), (h) and (i) and (2) and (3))
+Local Government Amendment Act 2024 s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 27, 36, 40, 44-49, 51-53, 55-57, 59(1), 60, 61, 64-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142, 143, 146-151 and 155-157 and Pt. 3 Div. 4 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(c)-(f), (h) and (i) and (2) and (3))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
@@ -381,7 +381,7 @@ electoral material4.87(3)
 electoral officer4.1
 electoral requirements1.4, 4.1
 electoral roll4.1
-electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)
+electorate4.29(1), 4.30(1)
 elector mayor or president1.4
 electors5.26
 electronic broadcasting5.23A(1)
@@ -413,7 +413,7 @@ former districtSch. 9.3 cl. 1
 former Division 1Sch. 9.3 cl. 77(1)
 former memberSch. 4.1A cl. 1, Sch. 4.1B cl. 1(1)
 former municipalitySch. 9.3 cl. 1
-former provisions2.22(3), Sch. 9.3 cl. 1, 56(1)
+former provisionsSch. 9.3 cl. 1, 56(1)
 former sectionSch. 9.3 cl. 38(1)
 former section 3003.53(1)
 former section 5.89A(7)Sch. 9.3 cl. 56(1)
@@ -477,7 +477,7 @@ notice recipient3.26(2)
 occupier1.4, 2.19(2B)
 offence2.22(3)
 officeSch. 2.3 cl. 1, 6
-officerSch. 9.3 cl. 70(1)
+officer4.31(1GA), Sch. 9.3 cl. 70(1)
 officially certified9.48(2)
 official plan9.48(2)
 old Part 7 Division 1ASch. 9.3 cl. 69(1)
@@ -485,6 +485,7 @@ old ScheduleSch. 9.3 cl. 72(1)
 old sectionSch. 9.3 cl. 72(1), 77(1)
 one office electionSch. 4.1 cl. 1
 on which the order is based8.15D
+opt-out notice5.99C(2)
 ordinary election1.4, 4.4(2)
 ordinary election day2.16A, Sch. 9.3 cl. 59(1)
 ordinary elections day1.4
@@ -550,11 +551,13 @@ relevant information4.52(1)
 relevant interest6.29(1)
 relevant officialSch. 2.1 cl. 12(1)
 relevant period4.88(4)
-relevant person5.59, 5.74(1)
+relevant person5.59, 5.74(1), 5.99E(1)
 relevant pre-amendment periodSch. 9.3 cl. 65(1)
 relevant rateable property4.32(3D)
+remuneration5.99B(1)
 required way3.12(6A)
 return5.74(1)
+returnable amount5.99E(2)
 return period5.74(1)
 reviewSch. 2.2 cl. 1
 reward4.85(4)
@@ -576,6 +579,7 @@ start day5.74(1)
 Statewide public notice1.4
 statutory provision administered by the local government9.28(2)
 submissionSch. 2.2 cl. 1
+superannuation contribution payment 5.99B(1)
 supplementary audit7.1
 supplied copy4.42(3)
 supply4.46A(1)
@@ -616,7 +620,7 @@ ward1.4
 WCIM Act5.49(1)
 WorkCover WA5.49(1)
 working daySch. 4.1A cl. 1
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
