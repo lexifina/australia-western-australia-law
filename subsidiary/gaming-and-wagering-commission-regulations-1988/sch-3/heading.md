@@ -1,53 +1,41 @@
 ## Schedule 3
 ## Forms
-Form 1
-Gaming and Wagering Commission Act 1987
-[s. 36(2)]
-INFRINGEMENT NOTICE
-No. ..................................
-Date of service ....................................
-1. To..................................................................................................................
-(Surname)(other names)
-of ..................................................................................................................
-................................................................................... Postcode ...................
-It is alleged that at about ...................a.m./p.m. on the ......................... day of .......................... 20 .........., at ..................................................................
-(Name of Premises)
-you committed the offence described below and are liable for the modified penalty stated.
-........................................................
-*Police officer or
-Authorised officer for
-the Gaming and Wagering Commission of Western Australia.
-2. SectionDescription of offenceModified penalty
-3.If for any reason you wish to have the matter determined in a court hearing you need not reply and may decline to pay the modified penalty, but in that case court proceedings may be taken against you and you may be liable both for costs and a fine for the offence.
-4.You may pay the modified penalty within 21 days of the date of this notice, but if the modified penalty is not then paid you will be deemed to have declined to pay it and court proceedings may be taken.
-5.Payment may be made by completing item 6 and either —
-(a)posting this form and a cheque, money order or postal note for the amount of the modified penalty specified in item 2, to the Gaming and Wagering Commission, P.O. Box 6119, East Perth W.A. 6004; or
-(b)delivering this form and paying the amount to the Gaming and Wagering Commission, 1st Floor, Hyatt Centre, 87 Adelaide Terrace, Perth W.A. 6000.
-6.I, ..................................................................................................................
-(Name)
-of .................................................................................................................
-(number and street)
-......................................................................................................................
-(town or suburb)(Postcode)
-agree to pay the modified penalty for the offence indicated in this form.
-..............................................
-(Signature of offender)
-*Delete whichever is inapplicable
-[Form 1 amended: Gazette 30 Jan 2004 p. 416.]
-Form 2
-Gaming and Wagering Commission Act 1987
-[s. 36(7)]
-WITHDRAWAL OF INFRINGEMENT NOTICE
-No. ..................................
-Date of Service .......................... 20 ......
-To ............................................................of ...........................................................
-(Name)(Address)
-Infringement notice No ...................... served on you on the ..................... day of ............................................ 20 ...... for the offence described below is hereby withdrawn.
-..............................................
-Authorised officer for
-the Gaming and Wagering Commission of Western Australia.
-SectionDescription of offenceModified penalty
-[Form 2 amended: Gazette 30 Jan 2004 p. 416.]
+Form 1 — Infringement notice
+[r. 6(1)]
+Gaming and Wagering Commission Act 1987 INFRINGEMENT NOTICE | Infringement notice no.
+Alleged offender | Name
+Address
+Alleged offence | Date or period
+Time
+Place
+Details of offence
+Written law contravened
+Modified penalty | $
+Date | Date of notice
+Issuing officer | Name
+Signature
+TAKE NOTICE | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty to the Approved Officer (the Gaming and Wagering Commission) within 28 days after the date of this notice. If you do not pay the modified penalty within 28 days after the date of this notice, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended, your vehicle licence may be suspended or cancelled, you may be disqualified from holding or obtaining a driver’s licence or vehicle licence, your vehicle may be immobilised or have its number plates removed, your details may be published on a website, your earnings or bank accounts may be garnished, and your property may be seized and sold. If you need more time to pay the modified penalty, you should contact the Gaming and Wagering Commission at the address below. Paying the modified penalty will not be regarded as an admission for the purposes of any civil or criminal court case. If you want this matter to be dealt with by prosecution in court, sign and date here: __________________________________ / / and post this notice to the Gaming and Wagering Commission at the address below within 28 days after the date of this notice.
+How to pay | By post | [Insert details for paying by post]
+In person | [Insert details for paying in person]
+Electronically | [Insert details for paying electronically]
+[Form 1 inserted: SL 2025/35 r. 29.]
+Form 2 — Withdrawal of infringement notice
+[r. 6(2)]
+Gaming and Wagering Commission Act 1987 WITHDRAWAL OF INFRINGEMENT NOTICE | Withdrawal no.
+Alleged offender | Name
+Address
+Details of infringement notice | Infringement notice no.
+Date of issue
+Alleged offence | Date or period
+Time
+Place
+Details of offence
+Written law contravened
+Officer of the Commission withdrawing notice | Name
+Signature
+Date | Date of withdrawal
+Withdrawal of infringement notice | The above infringement notice issued against you for the above alleged offence has been withdrawn. If you have already paid the modified penalty for the alleged offence, you are entitled to a refund. [Insert details for processing of refund.]
+[Form 2 inserted: SL 2025/35 r. 29.]
 Form 3
 Gaming and Wagering Commission Act 1987
 [s. 47; 51]

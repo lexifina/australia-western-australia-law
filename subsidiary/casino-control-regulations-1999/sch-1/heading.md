@@ -1,25 +1,24 @@
-## Schedule 1 — Prescribed forms
-[r. 19]
-## Form 1
-Western Australia
-Casino Control Act 1984, s. 29I
-INFRINGEMENT NOTICE
-No: .....................
-Date of Service: ............................
-1. | To: ........................................................................................................... (surname)(other names) of ............................................................................................................. ..................................................................................... Postcode ........... It is alleged that at about ..................... a.m./p.m. on the ............. day of .................................................., at ...................................................... ................................................................................................................. (name of premises) you committed the offence described below and are liable for the modified penalty stated. .................................................... *Police officer or Authorised officer for the Gaming and Wagering Commission of Western Australia
-2. | Section | Description of offence | Modified penalty
-3. | If for any reason you wish to have the matter determined in a court hearing you need not reply and may decline to pay the modified penalty, but in that case court proceedings may be taken against you and you may be liable both for costs and a fine for the offence.
-4. | You may pay the modified penalty within 28 days of the date of this notice, but if the modified penalty is not then paid you will be deemed to have declined to pay it and court proceedings may be taken.
-5. | Payment may be made by completing item 6 and either — (a)posting this form and a cheque, money order or postal note for the amount of the modified penalty specified in item 2, to the Gaming and Wagering Commission, PO Box 8349 Perth Business Centre WA 6849; or (b)delivering this form and paying the amount to the Gaming and Wagering Commission, Gordon Stephenson House, Level 2 140 William Street Perth WA 6000.
-6. | I, .............................................................................................................. (name) of ............................................................................................................ (number and street) ................................................................................................................. (town or suburb)(postcode) agree to pay the modified penalty for the offence indicated in this form. ....................................... (Signature of offender)
-* Delete whichever is inapplicable
-[Form 1 amended: Gazette 30 Jan 2004 p. 413; SL 2024/163 r. 5.]
-## Form 2
-Western Australia
-Casino Control Act 1984, s. 29K
-WITHDRAWAL OF INFRINGEMENT NOTICE
-No: .....................
-Date of Service: ............................
-To: ...................................................................................................................... (name) of ........................................................................................................................ (address) Infringement notice No.: .................... served on you on the .............. day of ......................................, for the offence described below is hereby withdrawn. ................................................... Authorised officer for the Gaming and Wagering Commission of Western Australia
-Section | Description of offence | Modified penalty
-[Form 2 amended: Gazette 30 Jan 2004 p. 413.]
+## Schedule 1 — Prescribed offences and modified penalties
+[r. 8]
+[Heading inserted: SL 2025/35 r. 23.]
+## Division 1 — Offences under Act
+[Heading inserted: SL 2025/35 r. 23.]
+Item | Section | Modified penalty
+1. | s. 22(7) | $500
+2. | s. 23(2)(ia) | $2 500
+3. | s. 23(2)(ii) | $500
+4. | s. 26(1d) | $500
+5. | s. 26(6) | $1 000
+6. | s. 27(1) | $4 000
+7. | s. 27(1a) | $5 000
+8. | s. 27(3) | $200
+9. | s. 27(3a) | $200
+10. | s. 27A(4) | $200
+11. | s. 30A | $5 000
+[Division 1 inserted: SL 2025/35 r. 23.]
+## Division 2 — Offences under regulations
+[Heading inserted: SL 2025/35 r. 23.]
+Item | Regulation | Modified penalty
+1. | r. 6(1) | $5 000
+2. | r. 6(2) | $5 000
+[Division 2 inserted: SL 2025/35 r. 23.]

@@ -27,14 +27,17 @@ Reprint 2: The Casino Control Regulations 1999 as at 6 Mar 2009 (includes amendm
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
  | Casino Control Amendment Regulations 2024 | SL 2024/163 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2024 (see r. 2(b))
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
+ | Gambling Regulations Amendment Regulations 2025 Pt. 4 | SL 2025/35 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
 Other notes
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Act2(1)
+Act1(1)
+business day7(1)
 conviction2(1)
 gaming technical services4A(2)
+manuals2(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
