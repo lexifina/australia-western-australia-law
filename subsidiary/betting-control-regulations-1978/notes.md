@@ -77,9 +77,14 @@ Citation | Published | Commencement
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
+ | Gambling Regulations Amendment Regulations (No. 2) 2025 Pt. 2 | SL 2025/30 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
+ | Gambling Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/35 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+6-month period77P
+account holder77C
+activity statement77P
 all up betApp. cl. 1(1)
 another jurisdiction98
 approval98
@@ -94,27 +99,31 @@ barrierApp. cl. 1(1)
 betApp. cl. 4A(1)
 bet back3(1)
 betting98
-betting account3(1)
+betting account3(1), 77C
 betting sheetApp. cl. 1(1)
 cash3(1)
 combined win/place bet105B(1)
 commencement day102(1)
 committeeApp. cl. 1(1)
 concession bet3(1)
+consistent gambling messaging77V(1)
 country3(1)
+deposit limit77C
 doubleApp. cl. 1(1)
-each way bet3(1)
+each way bet2(1)
 Flexi Bet3(1)
 fraudulent behaviour105C(1)
 grandstand enclosure3(1)
 greyhound race3(1)
 harness race3(1)
 host club91(1)
+interactive wagering service77B
 internet betting3(1)
 late scratched runnerApp. cl. 4A(1)
 leger3(1)
 local on-course totalisator78(1)
 multiple doubleApp. cl. 10(2)
+National Consumer Protection Framework for Online Wagering in Australia - National Policy Statement77C
 objectionApp. cl. 1(1)
 oddsApp. cl. 4A(1)
 on-course totalisator78(1)
@@ -123,8 +132,15 @@ place bet3(1)
 place component105B(1)
 play or payApp. cl. 1(1)
 prescribed information104(1), 107(1)
+provider77B, 77C
 racing year3(1)
-relevant person98
+relevant individual77X
+relevant period77T(1), 77U(1)
+relevant person77U(1), 98
+relevant time77L(1)
+relevant way77L(1)
+responsible gambling training77Y(1)
+responsible person77D(1)
 rules of racing3(1)
 rules of wagering3(1)
 runner3(1)
@@ -133,7 +149,9 @@ scheduled starting time3(1)
 sporting event3(1)
 sum percentageApp. cl. 4A(1)
 thoroughbred race3(1)
-totalisator63(1A)
+totalisator62(1A)
+transaction77C
+transaction history77T(2), 77U(2)
 trebleApp. cl. 1(1)
 type 1 thoroughbred race105B(1)
 type 2 thoroughbred race105B(1)

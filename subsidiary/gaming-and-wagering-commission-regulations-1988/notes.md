@@ -79,6 +79,8 @@ Gaming and Wagering Commission Amendment Regulations 2020 | SL 2020/10 3 Mar 202
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
+Gambling Regulations Amendment Regulations (No. 2) 2025 Pt. 3 | SL 2025/30 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
+Gambling Regulations Amendment Regulations 2025 Pt. 5 | SL 2025/35 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -89,20 +91,38 @@ The amendments in the Gaming and Wagering Commission Amendment Regulations 2019 
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+6-month period40Q
+account40D
+account holder40D
+activity statement40Q
 amusement parlour18B(7)
 approved electronic bingo equipment23(1A)
+consistent gambling messaging40W(1)
 cruise ship18C(1)
+deposit limit40D
 donor organization30A(3)
 gambling advertisement43(1)
 gambling operator43(1)
+interactive wagering service40D
 lottery terms and conditions36A(2)
+National Consumer Protection Framework for Online Wagering in Australia - National Policy Statement40D
 prize23A(2)
-prize goodsSch. 4 cl. 7(2) and 8(2)
+prize goodsSch. 4 cl. 7(2), cl. 8(2)
 publish43(1)
+relevant individual40Y
+relevant period40U(1), 40V(1)
+relevant person40V(1)
+relevant time40M(1)
+relevant way40M(1)
 rents18(2)
+responsible gambling training40Z(1)
+responsible person40E(1)
+RWWA key employee40D
 second person43(7)
 series18AA(3)
 snowballSch. 4 cl. 6
+transaction40D
+transaction history40U(2), 40V(2)
 value23A(2)
 video lottery terminal18AA(1)
 voucher18B(7)
