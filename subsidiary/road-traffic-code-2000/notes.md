@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -72,6 +72,11 @@ Road Traffic Code Amendment Regulations (No. 3) 2020 | SL 2020/253 24 Dec 2020 (
 Road Traffic Code Amendment Regulations (No. 2) 2021 | SL 2021/87 22 Jun 2021 | r. 1 and 2: 22 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2021 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 3) 2021 | SL 2021/184 5 Nov 2021 | r. 1 and 2: 5 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2021 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 4) 2021 | SL 2021/200 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
+Road Safety Regulations Amendment Regulations 2025 Pt. 3 (other than Div. 3) | SL 2025/36 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Safety Regulations Amendment Regulations 2025 Pt. 3 Div. 3 | SL 2025/36 5 Feb 2025 | 31 Mar 2025 (see r. 2(c))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
@@ -120,7 +125,7 @@ busway3(1)
 bus zone3(1)
 carriageway3(1)
 centre3(1)
-children’s crossin3(1)
+children’s crossing3(1)
 child restraint230
 child safety harness230
 combination3(1)
@@ -130,7 +135,7 @@ continuous dividing line176(12)
 corresponding illuminated speed sign11A(1)
 dangerous goods184(4)
 default speed limit3(1)
-de-restriction sign3(1)
+de-restriction sig3(1)
 dipped3(1)
 dipping device3(1)
 disability parking permit3(1)
@@ -224,7 +229,7 @@ protective helmet209A(1), 222(1), 223A(1), 223(3), 230A, 244(1)
 protective helmet (bicycle)223B(1)
 protective helmet (motor cycle)223B(1)
 public bus3(1), 59(2)
-rear fog light3(1)
+rear fog light2(1)
 red X lane3(1)
 relevant rider3(1)
 relevant time230
@@ -300,9 +305,14 @@ U turn3(1)
 variable illuminated speed limit sign3(1)
 vehicle3(1), 110(2) and (3)
 Vehicle Standards3(1)
+visual detection equipment18A(1)
 warning device224(1A)
 weekend3(1)
 wheeled recreational device3(1)
 wheeled toy3(1)
 “when blank” sign11A(1)
 works zone3(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
