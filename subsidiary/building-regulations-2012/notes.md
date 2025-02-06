@@ -48,6 +48,7 @@ Building Amendment Regulations (No. 2) 2023 | SL 2023/146 20 Sep 2023 | r. 1 and
 Building Amendment Regulations 2023 | SL 2023/208 20 Dec 2023 | Pt. 1: 20 Dec 2023 (see r. 2(a)); Pt. 2: 21 Dec 2023 (see r. 2(b)); Regulations other than Pt. 1 and 2: 20 Jun 2024 (see r. 2(c))
 Building Amendment Regulations 2024 | SL 2024/49 17 Apr 2024 | r. 1 and 2: 17 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2024 (see r. 2(b))
 Short-Term Rental Accommodation Regulations 2024 r. 19 | SL 2024/123 26 Jun 2024 | 1 Jul 2024 (see r. 2 and SL 2024/88 cl. 2(a))
+Building Amendment Regulations 2025 | SL 2025/34 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
 Other notes
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -118,17 +119,16 @@ periodic inspection53A(1)
 permit authority14A(1)
 person responsible54A(1)
 person with a disability51(1)
-pool barrier48
 post-transfer period57(1A)
 pre-May 2016 private swimming pool 3
 prior owner57(1)
 private swimming pool3
-protection order3
+protection order2
 public place44A
 regulation 5A54(1)
 re-inspection53A(1)
 relevant building31BA(1A), 31D
-relevant building standards48A(1)
+relevant building standards47(1)
 relevant componentsSch. 1 cl. 1
 relevant day60(1)
 relevant edition of the Building Code3
@@ -143,6 +143,7 @@ residential tenancy agreement55(1)
 road10(1A), 44A
 safety measures48A(1)
 section3
+short-term rental accommodation55(1)
 sole-occupancy unit3
 specified employee70(1A)
 specified Part 8 provisions4A(1)
@@ -158,7 +159,7 @@ unit55(1)
 work54A(1)
 WorkSafe Commissioner14A(1)
 young child48
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

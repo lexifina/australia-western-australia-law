@@ -14,8 +14,8 @@ s. 80(3) | Failure to erect adequate temporary barrier | $1 000
 ## Division 2 — Offences under these regulations
 [Heading inserted: Gazette 26 Apr 2019 p. 1210.]
 Offence under these regulations | Modified penalty
-r. 50(1) | Failure to install barrier around private swimming pool | $1 000
+r. 50(2) | Failure to install compliant pool barrier around private swimming pool | $1 000
 r. 56(1) | Failure to ensure smoke alarms compliant prior to transfer of dwelling | $1 000
 r. 58 | Failure to ensure smoke alarms compliant prior to tenancy | $1 000
 r. 59 | Failure to ensure smoke alarms compliant prior to hire of dwelling | $1 000
-[Division 2 inserted: Gazette 26 Apr 2019 p. 1210.]
+[Division 2 inserted: Gazette 26 Apr 2019 p. 1210; amended: SL 2025/34 r. 13.]
