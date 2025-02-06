@@ -70,6 +70,7 @@ State Superannuation Amendment Regulations (No. 2) 2022 Pt. 2 | SL 2022/173 21 O
 State Superannuation Amendment Regulations (No. 2) 2023 | SL 2023/205 20 Dec 2023 | r. 1 and 2: 20 Dec 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2023 (see r. 2(b)
 Treasurer Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL 2024/133 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 State Superannuation Amendment Regulations 2024 | SL 2024/195 18 Sep 2024 | r. 1 and 2: 18 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2024 (see r. 2(b))
+State Superannuation Amendment Regulations 2025 | SL 2025/28 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
 Formerly referred to as the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
@@ -334,7 +335,7 @@ West State Super Scheme3(1)
 withheld amount49A(6), 81A(6)
 worker3(1)
 WSS withdrawal benefit50(1), Sch. 3 cl. 2
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
