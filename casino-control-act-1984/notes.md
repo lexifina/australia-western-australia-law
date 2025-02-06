@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Casino Control Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Casino Control Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Casino Control Act 1984 | 34 of 1984 | 20 Jun 1984 | 1 Jul 1984 (see s. 2 and Gazette 29 Jun 1984 p. 1754)
@@ -25,11 +25,7 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 20 | 77 of 2006 |
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 4: The Casino Control Act 1984 as at 16 Dec 2011 (includes amendments listed above)
 Casino Legislation Amendment (Burswood Casino) Act 2022 Pt. 2 | 32 of 2022 | 28 Sep 2022 | 29 Sep 2022 (see s. 2(b))
-Gambling Legislation Amendment Act 2024 Pt. 4 (other than s. 33) | 53 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(d))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Gambling Legislation Amendment Act 2024 s. 33 | 53 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
+Gambling Legislation Amendment Act 2024 Pt. 4 | 53 of 2024 | 6 Dec 2024 | Pt. 4 (other than s. 33): 7 Dec 2024 (see s. 2(d)); s. 33: 6 Feb 2025 (see s. 2(c) and SL 2025/27 cl. 2)
 Other notes
 The Acts Amendment and Validation (Casino Control) Act 1985 s. 44 reads as follows:
 44.Validation
@@ -45,7 +41,7 @@ administrator3(1)
 agent21ZF(3)
 applicant21(1), 26A(1)
 authorised game3(1)
-authorised person27A(5), 29F
+authorised person27A(5)
 books3(1)
 Burswood Casino21H(1)
 Burswood Casino licensee21H(1)
@@ -77,8 +73,8 @@ gaming3(2)
 gaming equipment3(2)
 gaming operations3(1)
 government inspector3(1)
-ID card21ZH(1)
-Independent Monitor21H(1)
+ID card21ZG(1)
+Independent Monitor21G(1)
 instruments of gaming3(2)
 junket25A(3)
 licensed casino3(1)
@@ -111,7 +107,7 @@ token3(2)
 unclaimed winnings15(1), 15(6)
 winner15(1)
 winnings3(2)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
