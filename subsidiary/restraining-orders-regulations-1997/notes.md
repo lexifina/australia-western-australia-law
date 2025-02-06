@@ -18,6 +18,7 @@ Restraining Orders Amendment Regulations 2020 | SL 2020/63 22 May 2020 | r. 1 an
 Restraining Orders Amendment Regulations (No. 2) 2020 | SL 2020/258 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
 Restraining Orders Amendment Regulations 2022 | SL 2022/146 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Firearms) Regulations 2022 Pt. 3 | SL 2022/189 18 Nov 2022 | 19 Nov 2022 (see r. 2(b))
+Restraining Orders Amendment Regulations 2025 | SL 2025/29 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -28,13 +29,15 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Chief Dangerous Goods Officer2A
+custodial officer10(1A)
 explosives order5C
 form2A
 latest attempt9B(2)
+prison officer10(1A)
 proceedings under the Act2A
 restrained person2A
 senior officer9B(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
