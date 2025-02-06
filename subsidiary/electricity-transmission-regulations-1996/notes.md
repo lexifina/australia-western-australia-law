@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Electricity Transmission Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Transmission Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Electricity Transmission Regulations 1996 | 31 Dec 1996 p. 7257-320 | 1 Jan 1997 (see r. 2)
 Electricity Transmission Amendment Regulations 1997 | 1 Jul 1997 p. 3251-2 | 1 Jul 1997 (see r. 2)
 Electricity Transmission Amendment Regulations 2001 | 31 Aug 2001 p. 4877-81 | 31 Aug 2001
@@ -19,6 +19,8 @@ Electricity Transmission Amendment Regulations (No. 2) 2006 | 25 Aug 2006 p. 349
 Electricity Transmission Amendment Regulations 2007 | 26 Jun 2007 p. 3022-4 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Reprint 3: The Electricity Transmission Regulations 1996 as at 11 Dec 2009 (includes amendments listed above)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 11 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Electricity Industry Regulations Amendment (Distributed Energy Resources) Regulations 2025 Pt. 4 | SL 2025/37 5 Feb 2025 | 6 Feb 2025 (see r. 2(b) and SL 2025/31 cl. 2)
+Other notes
 Formerly referred to the Electricity Corporation Act 1994 the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139.
 Repealed by the Electricity Referee and Dispute Resolution Repeal Regulations 2007.
 Defined terms
@@ -103,3 +105,7 @@ transmission employee3(1)
 use of system services3(1)
 voltage control3(1)
 wholesale electricity market commencement18A(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
