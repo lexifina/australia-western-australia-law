@@ -20,10 +20,11 @@ Electricity Industry Amendment Act 2020 s. 30 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 4 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Swan Valley Planning Act 2020 Pt. 10 Div. 2 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Government Trading Enterprises Act 2023 Pt. 12 Div. 1 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 3 | 1 of 2024 | 7 Mar 2024 | 6 Feb 2025 (see s. 2(b) and SL 2025/31 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 3 and Pt. 3 Div. 2 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 3 Div. 2 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Deleted by the Public Sector Reform Act 2010 s. 57.
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
@@ -58,6 +59,7 @@ electricity3(1)
 electricity distribution system60(1)
 Electricity Generation and Retail Corporation3(1)
 Electricity Networks Corporation3(1)
+electricity system and market rules3(1)
 electricity transmission system60(1)
 energy efficient technologies34(1)
 former name218(1)
@@ -109,7 +111,7 @@ unallocated asset or liability53(1)
 Western Power Corporation142(1)
 wholesale arrangements38(1), 39(1)
 wholesale products38(1), 39(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

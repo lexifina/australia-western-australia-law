@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Act 1945 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Electricity Act 1945 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Act 1945 | 19 of 1945 (9 and 10 Geo. VI No. 19) | 9 Jan 1946 | 29 Mar 1946 (see s. 1 and Gazette 29 Mar 1946 p. 310)
@@ -37,11 +37,8 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 201
 Commercial Arbitration Act 2012 s. 45 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Reprint 8: The Electricity Act 1945 as at 13 Dec 2013 (includes amendments listed above)
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 4 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 2 | 1 of 2024 | 7 Mar 2024 | 6 Feb 2025 (see s. 2(b) and SL 2025/31 cl. 2)
 Electricity Industry Amendment (Alternative Electricity Services) Act 2024 Pt. 3 | 10 of 2024 | 22 Apr 2024 | 23 Apr 2024 (see s. 2(1)(d))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 2 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Interpretation Act 1984.
 Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this compilation.
@@ -85,7 +82,7 @@ street5(1)
 supply authority5(1)
 transmission licensee5(1)
 transmission works5(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

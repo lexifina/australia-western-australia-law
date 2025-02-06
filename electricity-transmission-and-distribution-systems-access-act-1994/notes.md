@@ -25,10 +25,11 @@ Electricity Legislation Amendment Act 2004 Pt. 2 Div. 2 | 33 of 2004 | 20 Oct 20
 Electricity Corporations Act 2005 Sch. 5 cl. 7-22 | 18 of 2005 (as amended by No. 8 of 2009 s. 50(3)(b)) | 13 Oct 2005 | Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153) Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
 Reprint 3: The Electricity Transmission and Distribution Systems (Access) Act 1994 as at 4 Aug 2006 (includes amendments listed above)
 Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 published in Gazette 26 Jun 2007 p. 3018-21 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 4 | 1 of 2024 | 7 Mar 2024 | 6 Feb 2025 (see s. 2(b) and SL 2025/31 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 4 and Pt. 3 Div. 3 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 3 Div. 3 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer required.
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 Pt. 3 (as amended by the Electricity Corporations Act 2005 s. 139) reads as follows:
@@ -293,7 +294,7 @@ regulations89(1)
 relevant provision95A(5)
 specified95A(5)
 user89(2)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

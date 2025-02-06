@@ -17,12 +17,12 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Electricity Corporations Amendment Act 2013 s. 39 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 3: The Electricity Industry Act 2004 as at 29 Mar 2018 (includes amendments listed above)
 Electricity Industry Amendment Act 2020 Pt. 2 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
-Electricity Industry Amendment (Alternative Electricity Services) Act 2024 Pt. 2 | 10 of 2024 | 22 Apr 2024 | 23 Apr 2024 (see s. 2(1)(d))
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 1 | 1 of 2024 (as amended by No. 10 of 2024 s. 27) | 7 Mar 2024 | 6 Feb 2025 (see s. 2(b) and SL 2025/31 cl. 2)
+Electricity Industry Amendment (Alternative Electricity Services) Act 2024 Pt. 2 and s. 26(2) and (3) | 10 of 2024 | 22 Apr 2024 | Pt. 2: 23 Apr 2024 (see s. 2(1)(d))’ s. 26(2) and (3): 6 Feb 2025 (see s. 2(1)(b)(ii) and (c)(ii) and SL 2025/31 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 1 and Pt. 3 Div. 1 | 1 of 2024 (as amended by No. 10 of 2024 s. 27) | 7 Mar 2024 | To be proclaimed (see s. 2(b))
-Electricity Industry Amendment (Alternative Electricity Services) Act 2024 s. 26(2) and (3) | 10 of 2024 | 22 Apr 2024 | s. 26(2): operative immediately after the Electricity Industry Amendment (Distributed Energy Resources) Act 2024 s. 5 comes into operation (see s. 2(1)(b)(ii)); s. 26(3): operative immediately after the Electricity Industry Amendment (Distributed Energy Resources) Act 2024 s. 24 comes into operation (see s. 2(1)(c)(ii))
+Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 3 Div. 1 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Electricity Corporation Act 1994 was renamed as the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 Sch. 5 cl. 9.
 The Electricity Corporations Act 2005 Sch. 5 cl. 11 came into operation on 1 Apr 2006, see Gazette 31 Mar 2006 p. 1153.
@@ -35,7 +35,7 @@ Defined termProvision(s)
 access3(1)
 access agreement103
 access arrangement39A(1), 103
-AES code of practice3(1)
+AES code of practice2(1)
 AES customer contract3(1)
 affected person59B, 59U(1)
 alternative electricity service3(1)
@@ -54,12 +54,15 @@ code matter39(2c)
 code of conduct78
 commencement day46(1)
 committee78
-Competition Principles Agreement3(1)
+Competition Principles Agreement2(1)
 confer121(1)
 connect57
+connected facility3(1)
+connected facility operator124D
 contestable annual volume129L
 contestable proportion129L
 contestable supply129L
+contravene124I
 cooling-off period48(1)
 Coordinator3(1)
 corporation54A(1), 60
@@ -68,19 +71,29 @@ covered network3(1)
 covered Pilbara network3(1)
 customer3(1), 90
 customer contract90
-daily amount118(3), 120V(3), 124(6)
+daily amount118(3), 120V(3)
 designated area67
 distribution licence3(1)
-distribution system3(1)
+distribution system2(1), 124D
+distribution system market124D
+distribution system market operator124D
+distribution system operator124D
 efficient cost of supply129B
 electricity3(1)
 electricity corporation3(1)
+electricity data124H(1)
+electricity data service124H(1)
+electricity data system124H(1)
 Electricity Generation and Retail Corporation3(1)
 electricity infrastructure3(1)
 electricity marketing agent78, 90
 electricity network3(1)
 Electricity Networks Corporation3(1)
 electricity ombudsman90, 92(1)
+electricity services3(1)
+electricity system3(1)
+electricity system and market rules3(1), 123(1)
+embedded network3(1)
 entity120ZA(1)
 existing operator46(2)
 extension and expansion policy60
@@ -88,6 +101,7 @@ gas pipelines access provisions130(1)
 generating works3(1)
 generation costs129L
 generation licence3(1)
+governance participant121(1)
 historical generation costs129L
 integrated regional licence3(1)
 interconnected Pilbara network120
@@ -97,19 +111,16 @@ last resort supply plan67
 licence3(1), 60
 licence area3(1)
 licensee3(1), 45(5), 71(1), 90
-market121(1), 122(1)
-market governance participant126(1)
 marketing78
-market rules121(1), 123(1), 134(1)
 matter134(1)
-NBU129L
+NBU129K
 network infrastructure facilities3(1)
-network service provider103
-network user103
+network service provider103, 121(1)
+network user103, 124D
 non-standard contract3(1)
 officer120ZA(1), 126(1)
 operate3(1)
-participant120ZA(1), 121(2)
+participant120ZA(1), 121(1)
 period of exclusivity26(3)
 Pilbara access agreement120
 Pilbara electricity objective119(2), 120
@@ -127,7 +138,9 @@ prescribed customer129L
 prescribed form of contract54A(1)
 prescribed period61(1)
 prescribed provision45(1)
+prescribed voltage3(1)
 public authority40(1)
+quality3(1)
 Regional Power Corporation3(1)
 registration3(1)
 registration framework59B
@@ -136,24 +149,28 @@ regulated retail tariffs129B
 relevant contract54A(1)
 relevant corporation45(5)
 relevant day39A(1), 54A(1)
+relevant instrument135
 relevant interest40(1)
+reliability3(1)
 retail licence3(1), 67
 retail licensee47
 reviewable decision59B, 59U(1)
 RPC standards39A(1)
+security3(1)
 services3(1)
 service standards39A(1), 129D(4), 129N(5)
 small use customer3(1)
 South West interconnected system3(1)
+specified136(1)
 stand-alone power system3(1)
 standard form contract3(1)
+State electricity objective3(1), 3A(1)
 storage activity3(1)
 storage works3(1)
 subsidiary3(1)
 supplier of last resort67, 69(1)
 supply3(1)
 system60
-system management participant126(1)
 tariff customersSch. 1 cl. 1
 Tariff Equalisation Account129B
 tariff equalisation contribution129B
@@ -161,11 +178,13 @@ temporary access contribution129L
 Temporary Access Contribution Account129L
 termination date129L
 total annual volume129L
+transitional matter136(1)
 transmission licence3(1)
 transmission system3(1)
 user129B, 129F(5), 129L
-Western Power Corporation46(1)
-© State of Western Australia 2024.
+Western Power Corporation45(1)
+wholesale electricity market121(1)
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
