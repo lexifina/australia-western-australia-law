@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -53,12 +53,8 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 15 | SL 2
 Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 5 | SL 2022/115 30 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2022 | SL 2022/163 23 Sep 2022 | Pt. 1: 23 Sep 2022 (see r. 2(a); Pt. 2: 1 Oct 2022 (see r. 2(b)); Pt. 3: 1 May 2023 (see r. 2(c)); Regulations other Pt. 1-3: 1 May 2024 (see r. 2(d))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 15 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
-Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 2 (other than Div. 4) | SL 2024/12 9 Feb 2024 | Pt. 2 (other than Div. 3 and 4): 10 Feb 2024 (see r. 2(d)); Pt. 2 Div. 3: 1 May 2024 (see r. 2(b) and SL 2022/163 r. 2(d))
+Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 2 | SL 2024/12 9 Feb 2024 | Pt. 2 (other than Div. 3 and 4): 10 Feb 2024 (see r. 2(d)); Pt. 2 Div. 3: 1 May 2024 (see r. 2(b) and SL 2022/163 r. 2(d)); Pt. 2 Div. 4: 10 Feb 2025 (see r. 2(c))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 14 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 2 Div. 4 | SL 2024/12 9 Feb 2024 | 10 Feb 2025 (see r. 2(c))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
@@ -71,7 +67,7 @@ alternate memberSch. 2 cl. 4(1)
 alternative water supply system3(1)
 apparatus for the treatment of sewage3(1)
 application fee3(1)
-apprentice3(1), 3A(1) and (2)
+apprentice3(1), 3A(1), 3A(2)
 approvedSch. 3 cl. 1
 approved form3(1)
 AS3(1)
@@ -87,7 +83,7 @@ CertificateSch. 3 cl. 1
 certificate of compliance3(1)
 chairperson3(1)
 Class3(1)
-commencement day112(1), 113(1)
+commencement day112(1), 113(1), 114(1), 115(1), Sch. 3 cl. 8(1)
 common property55
 compliance purposes82
 compression fitting13D(1)
@@ -102,7 +98,7 @@ drainage plumbing3(1)
 drainage plumbing connection point45DA(1), 55
 drainage plumbing diagram3(1)
 drainage plumbing service line45DA(1), 55
-drainage plumbing work3(1), 4B(1) and (2)
+drainage plumbing work3(1), 4B(1), 4B(2)
 dwelling3(1)
 eligible remote community37
 emergency plumbing work3(1)
@@ -112,11 +108,12 @@ exempt work3(1)
 existing building lot59(1)
 existing pipes13D(1)
 expansion control valve13D(1)
+fire service4(1)
 fitting3(1)
 fixture3(1), 45(4)
 flexible hose assembly3(1)
 former regulation 3(1)113(1)
-former regulation 4113(1)
+former regulation 4113(1), 114(1)
 former regulation 44111(1)
 front lot58(1)
 greywater3(1)
@@ -136,6 +133,7 @@ meetingSch. 2 cl. 1
 member3(1)
 meter3(1)
 minor plumbing work3(1)
+modular plumbing work3(1)
 National Construction Code3(1)
 new installation fee3(1)
 notice of intention3(1)
@@ -149,7 +147,9 @@ place3(1)
 Plumbing Code3(1)
 plumbing compliance officer3(1)
 plumbing contractor’s licence3(1)
+plumbing module3(1)
 plumbing standards3(1), 48(1)
+point of discharge4(1)
 pre-apprentice3(1)
 pre-commencement delivery temperature requirements112(1)
 prescribed offence74
@@ -171,8 +171,10 @@ renewal period19A(2)
 represent25(1)
 responsible person3(1)
 restricted plumbing permit3(1)
+restricted plumbing permit (rainwater storage)3(1)
+restricted plumbing permit (water heater)3(1)
 sanitary plumbing3(1)
-sanitary plumbing work3(1), 4A(1) and (2)
+sanitary plumbing work3(1), 4A(1), 4A(2)
 serious offence3(1)
 service line55
 service provider37
@@ -194,16 +196,17 @@ trade waste3(1)
 unit of competency3(1)
 wastewater3(1)
 water heater3(1)
+WaterMark Technical Specification3(1)
 water services provider3(1)
 water services works of a water services provider3(1)
 water supply plumbing3(1)
 water supply plumbing connection point55
 water supply plumbing service line55
-water supply plumbing work3(1)
+water supply plumbing work3(1), 4(2) and (3)
 water supply service3(1)
 water supply system3(1)
 working day3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
