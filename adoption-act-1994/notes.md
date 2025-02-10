@@ -35,9 +35,6 @@ Reprint 5: The Adoption Act 1994 as at 1 Mar 2013 (includes amendments listed ab
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 3 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Family Court Amendment (Commonwealth Reforms) Act 2024 s. 83 | 49 of 2024 | 6 Dec 2024 | 10 Feb 2025 (see s. 2(b) and SL 2025/10 cl. 2)
 Other notes
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
@@ -87,6 +84,7 @@ close relative59(1A)
 commencementSch. 3 cl. 1
 commencement day145(1), 146(1A)
 Commonwealth Central Authority4(1)
+communicate124(2A)
 competent authority4(1)
 contact4(1)
 contact and mediation licensee4(1)
@@ -128,7 +126,7 @@ State Central Authority4(1)
 step-parent4(1)
 Torres Strait Islander4(1)
 veto cut off day4(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
