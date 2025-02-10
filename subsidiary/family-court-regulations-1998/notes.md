@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Family Court Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Family Court Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Family Court Regulations 1998 | 25 Sep 1998 p. 5303-9 | 26 Sep 1998 (see r. 2 and Gazette 25 Sep 1998 p. 5295)
@@ -23,10 +23,7 @@ Family Court Amendment Regulations 2022 | SL 2022/45 8 Apr 2022 | r. 1 and 2: 8 
 Family Court Amendment Regulations (No. 2) 2022 | SL 2022/123 30 Jun 2022 | r. 1 and 2: 30 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Family Court Amendment Regulations 2023 | SL 2023/88 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Family Court Amendment Regulations 2024 | SL 2024/140 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Family Court Amendment Regulations 2025 r. 3-7 | SL 2025/16 22 Jan 2025 | 10 Feb 2025 (see r. 2(b))
+Family Court Amendment Regulations 2025 | SL 2025/16 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Feb 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -51,6 +48,7 @@ refund period24(1)
 relevant court18
 section3(1)
 setting down fee18
+shared material10C(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
