@@ -39,6 +39,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Queen Elizabeth II Medical Centre Act 1966 s. 22 (as amended by Act No. 2023/1 s. 97) | To be proclaimed (see s. 2(b))
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2025 r. 3-5 | SL 2025/39 27 Feb 2025 | 31 Mar 2025 (see bl. 2(b) and SL 2024/289 cl. 2)
 Other notes
 Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Health Services Act 2016 s. 307(j) had not come into operation when it was deleted by the Health Services Amendment Act 2023 s. 85.
@@ -76,7 +77,7 @@ ticket3(1)
 ticket parking area26AA(1)
 ticket vending machine3(1)
 vehicle3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
