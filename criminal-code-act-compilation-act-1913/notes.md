@@ -203,12 +203,12 @@ Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | 1 
 Abortion Legislation Reform Act 2023 Pt. 2 | 20 of 2023 | 27 Sep 2023 | 27 March 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 30 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Criminal Code Amendment Act 2024 Pt. 2 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/125 cl. 2)
+Criminal Code Amendment (Prohibition on Display of Nazi Symbols or Gesture) Act 2024 Pt. 2 | 29 of 2024 | 17 Sep 2024 | 1 Mar 2025 (see s. 2(b) and SL 2025/25 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 4 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
-Criminal Code Amendment (Prohibition on Display of Nazi Symbols or Gesture) Act 2024 Pt. 2 | 29 of 2024 | 17 Sep 2024 | 1 Mar 2025 (see s. 2(b) and SL 2025/25 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 4 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
@@ -247,7 +247,7 @@ Defined terms
 Defined termProvision(s)
 abattoir70A(1)
 accessory after the fact10
-accused5(1), 10G(2), 10H(2)
+accused4(1), 10G(2), 10H(2)
 act of family violence299(4)
 adult offender1(1)
 advice given546
@@ -316,13 +316,16 @@ deceptive material99(1)
 declared criminal organisation221C(1)
 de facto child329(1)
 defamatory345(7)
+delegated officer80ZC(1)
 depicted person221BD(2)
 designated family relationship299(1)
 destroy1(1)
 detriment97(1)
 digital signature489
 disclosure81(1)
-display76
+display76, 80K(1)
+displaying80N(1)
+displays80N(2) and (4)
 distribute76, 219(1)
 distributes221BA, 221BC
 District Court1(1)
@@ -337,7 +340,7 @@ electronic204B(1)
 electronic communication204B(1), 489
 enclosed land70B(1)
 engaged in a private act221BA
-explosive substance1(1), 455, 557(2)
+explosive substance1(1), 454, 557(2)
 family member70A(1)
 family relationship221(2)
 female genital mutilation306(1)
@@ -355,6 +358,7 @@ identification equipment492(1)
 identification information489
 identification material489, 494(1)
 identity offence494(1)
+image80M(1)
 impair305A(1)
 incapable person331A
 incites1(1)
@@ -365,6 +369,8 @@ indictment1(1)
 indigenous person70A(1)
 information81(1)
 in relation to his principal’s affairs or business546
+intelligence agency80T(1)
+interested person80K(1), 80U(1)
 interfere with70A(1)
 intimate image221BA
 intimate image offence221BE(1)
@@ -376,9 +382,9 @@ judicial proceeding120
 juvenile offender1(1)
 kill270
 knackery70A(1)
-law enforcement agency221A(4), 221BA
+law enforcement agency80T(1), 221A(4), 221BA
 lawful excuse68B(1), 68C(1), 68D(1)
-liable1(1)
+liable(1)
 licensed premises75A(4)
 lineal relative329(1)
 material204A(1), 217A
@@ -390,6 +396,9 @@ mental impairment1(1)
 money1(1)
 mortgaged goods389
 motor vehicle1(1)
+Nazi hakenkreuz80K(1), 80L
+Nazi symbol80K(1), 80M(2)
+Nazi symbol removal notice80K(1), 80U(2)
 new conviction401A(4)
 night1(1)
 night-time1(1)
@@ -403,7 +412,7 @@ officer38
 official information81(1)
 organise75B(1)
 out-of-control gathering75A(1)
-owner1(1), 70B(1)
+owner1(1), 70B(1), 80K(1)
 password440A(1)
 periodical343A(2)
 persistently engages in family violence299(5)
@@ -425,6 +434,7 @@ principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2), 552(1), 553(1), 
 print98(1), 99(1)
 prior relevant convictions401A(4)
 prison145(1)
+private property80K(1)
 proceeds563A(3)
 prohibited conduct187(1)
 property1(1), 371(7), 414
@@ -433,7 +443,7 @@ provocation245
 public officer1(1), 84
 public place1(1)
 public servant81(1)
-publish76, 98(1), 99(1), 345(7)
+publish76, 80K(1), 98(1), 99(1), 345(7)
 pursue338D(1)
 racial group76
 railway1(1)
@@ -445,6 +455,9 @@ relevant birthday10M(1)
 relevant conviction401A(1)
 relevant law10L(1)
 relevant period10L(1), 10M(1), 99(1)
+relevant person80ZA(1)
+relevant place80K(1), 80U(1)
+remove80K(1)
 repeat offender401B(1)
 responsible adult75B(1)
 restricted-access computer system440A(1)
@@ -453,11 +466,12 @@ review date740B(1)
 reward96(1)
 riot62
 riotously assembled62
-second relevant conviction401A(1)
+second relevant conviction401A(1), 401A(1)
 seditious enterprise46
 seditious intention44
 seditious words46
 seditious writing46
+senior police officer80K(1)
 sentence completion date401A(5)
 sentencing court401A(4)
 serious disease1(1)
@@ -477,6 +491,7 @@ summary conviction1(1)
 Summary conviction penalty5
 thing sent by post1(1)
 threat332(4), 338
+time allowed80ZA(1)
 to indecently record319(1)
 to sexually penetrate319(1)
 transaction563A(3)
@@ -489,19 +504,19 @@ unlawful assembly62
 use390A(1), 440A(1)
 used in connection with an offence563B(5)
 utter1(1)
-valuable consideration546
+valuable consideration546, 546, 546
 valuable consideration solicited546
 valuable security1(1)
 vehicle1(1), 75A(2)
 vessel1(1)
-victim10M(1), 10N(1), 204B(1), 331D(1) and (2), 345(1), 494(1)
+victim10M(1), 10N(1), 204B(1), 331D(1), 331D(2), 345(1), 494(1)
 voice print489
 volatile substance206(1)
 wilfully destroy or damage443
 worker318B(1)
 writing397
 written or pictorial material76
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
