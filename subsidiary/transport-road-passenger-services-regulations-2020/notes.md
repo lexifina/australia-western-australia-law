@@ -15,13 +15,13 @@ Transport (Road Passenger Services) Amendment Regulations (No. 2) 2022 | SL 2022
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport (Road Passenger Services) Amendment Regulations 2024 | SL 2024/40 4 Apr 2024 | r. 1 and 2: 4 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 3 May 2024 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
-Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 (other than Pt. 3 and 4) | SL 2024/245 27 Nov 2024 | Pt. 1: 27 Nov 2024 (see r. 2(a)); Pt. 2: 2 Dec 2024 (see r. 2(b))
+Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 (other than Pt. 4) | SL 2024/245 27 Nov 2024 | Pt. 1: 27 Nov 2024 (see r. 2(a)); Pt. 2: 2 Dec 2024 (see r. 2(b)); Pt. 3: 1 Mar 2025 (see r. 2(c))
 Transport (Road Passenger Services) Amendment Regulations (No. 5) 2024 | SL 2024/278 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2024 (see r. 2(b))
 Transport (Road Passenger Services) Amendment Regulations (No. 2) 2024 | SL 2024/286 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2024 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 | SL 2024/245 27 Nov 2024 | Pt. 3: 1 Mar 2025 (see r. 2(c)); Regulations other than Pt. 1-3: 1 Oct 2025 (see r. 2(d))
+Transport (Road Passenger Services) Amendment Regulations (No. 3) 2024 Pt. 4 | SL 2024/245 27 Nov 2024 | 1 Oct 2025 (see r. 2(d))
 Transport (Road Passenger Services) Amendment Regulations (No. 4) 2024 r. 3-5 | SL 2024/291 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -133,7 +133,7 @@ wheelchair accessible vehicle3
 wheelchair accessible vehicle booking58(1)
 WorkSafe Commissioner143(1)
 X%156(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
