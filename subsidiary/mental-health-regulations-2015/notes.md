@@ -28,6 +28,7 @@ Mental Health Amendment Regulations (No. 4) 2024 | SL 2024/156 7 Aug 2024 | r. 1
 Mental Health Amendment Regulations (No. 3) 2024 | SL 2024/171 21 Aug 2024 | r. 1 and 2: 21 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2024 (see r. 2(b))
 Mental Health Amendment Regulations (No. 5) 2024 | SL 2024/197 2 Oct 2024 | r. 1 and 2: 2 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2024 (see r. 2(b))
 Mental Health Amendment Regulations (No. 6) 2024 | SL 2024/231 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
+Mental Health Amendment Regulations 2025 | SL 2025/40 6 Mar 2025 | r. 1 and 2: 6 Mar 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -36,7 +37,7 @@ Register of Medical Practitioners4A(1)
 registration number4A(1)
 transport contractor7(1)
 WA Country Health Service3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
