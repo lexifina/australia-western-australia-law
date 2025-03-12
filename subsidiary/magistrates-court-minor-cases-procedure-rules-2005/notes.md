@@ -22,6 +22,7 @@ Magistrates Court Rules Amendment Rules 2020 Pt. 3 | SL 2020/67 28 May 2020 | 1 
 Magistrates Court Rules Amendment Rules 2021 Pt. 4 | SL 2021/25 26 Feb 2021 | 27 Feb 2021 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2022 Pt. 4 | SL 2022/54 13 May 2022 | 14 May 2022 (see r. 2(b))
 Magistrates Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/106 24 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
+Magistrates Court Rules Amendment Rules 2025 Pt. 3 | SL 2025/42 11 Mar 2025 | 12 Mar 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -56,3 +57,7 @@ third party4
 third party claim4
 transitional case82
 working day4
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
