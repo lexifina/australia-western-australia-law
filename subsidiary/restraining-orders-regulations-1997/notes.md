@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Restraining Orders Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Restraining Orders Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Restraining Orders Regulations 1997 | 12 Sep 1997 p. 5079-146 (correction 16 Sep 1997 p. 5235) | 15 Sep 1997 (see r. 2 and Gazette 12 Sep 1997 p. 5149)
@@ -18,11 +18,8 @@ Restraining Orders Amendment Regulations 2020 | SL 2020/63 22 May 2020 | r. 1 an
 Restraining Orders Amendment Regulations (No. 2) 2020 | SL 2020/258 24 Dec 2020 | r. 1 and 2: 24 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2021 (see r. 2(b))
 Restraining Orders Amendment Regulations 2022 | SL 2022/146 26 Aug 2022 | r. 1 and 2: 26 Aug 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2022 (see r. 2(b))
 Attorney General Regulations Amendment (Firearms) Regulations 2022 Pt. 3 | SL 2022/189 18 Nov 2022 | 19 Nov 2022 (see r. 2(b))
-Restraining Orders Amendment Regulations 2025 | SL 2025/29 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Attorney General Regulations Amendment (Firearms) Regulations 2024 Pt. 3 | SL 2024/300 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
+Restraining Orders Amendment Regulations 2025 | SL 2025/29 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Defined terms

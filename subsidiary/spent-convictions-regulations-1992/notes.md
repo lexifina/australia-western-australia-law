@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Spent Convictions Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Spent Convictions Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Spent Convictions Regulations 1992 | 26 Jun 1992 p. 2715-22 | 1 Jul 1992 (see r. 2 and Gazette 26 Jun 1992 p. 2644)
@@ -17,16 +17,13 @@ Spent Convictions Amendment Regulations 2015 | 10 Feb 2015 p. 621 | r. 1 and 2: 
 Reprint 3: The Spent Convictions Regulations 1992 as at 4 Sep 2015 (includes amendments listed above)
 Spent Convictions Amendment Regulations 2021 | SL 2021/6 29 Jan 2021 | r. 1 and 2: 29 Jan 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2021 (see r. 2(b) and SL 2021/4 cl. 2)
 Spent Convictions Amendment Regulations 2023 | SL 2023/122 2 Aug 2023 | r. 1 and 2: 2 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2023 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Attorney General Regulations Amendment (Firearms) Regulations 2024 Pt. 4 | SL 2024/300 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 amendment day7(1)
 conviction7(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
