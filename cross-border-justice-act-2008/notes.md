@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Cross-border Justice Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Cross-border Justice Act 2008 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cross-border Justice Act 2008 | 7 of 2008 | 31 Mar 2008 | s. 1 and 2: 31 Mar 2008 (see s. 2(a)); Act other than s. 1, 2, 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991); s. 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
@@ -12,11 +12,8 @@ Reprint 1: The Cross-border Justice Act 2008 as at 1 Dec 2015 (includes amendmen
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 Pt. 3 Div. 3 | 25 of 2020 | 19 Jun 2020 | 29 Sep 2020 (see s. 2(1)(c) and SL 2020/159 cl. 2(a))
 Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 2 | 27 of 2020 | 9 Jul 2020 | 1 Jul 2021 (see s. 2(1)(b) and SL 2021/54 cl. 2(d))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 10 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
-Family Violence Legislation Reform Act 2024 s. 75 | 28 of 2024 | 17 Sep 2024 | 18 Sep 2024 (see s. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 7 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
+Family Violence Legislation Reform Act 2024 s. 75 | 28 of 2024 | 17 Sep 2024 | 18 Sep 2024 (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -104,7 +101,7 @@ WA/SA region31(3)
 WA/SA/NT charge68(3)
 WA/SA/NT region31(3)
 written law7(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

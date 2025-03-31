@@ -89,12 +89,69 @@
  | s. 99(1) | Association by controlled person with another controlled person — if the offender is liable to imprisonment for 5 years
  | s. 102 | Offence for controlled person to get funds to, from or for declared criminal organisation
  | s. 106 | Recruiting members for declared criminal organisation
-5. | Firearms Act 1973
- | s. 6(3) | Contravention of regulation made under s. 6(1)
- | s. 19(1) | Obtaining, disposing of etc. firearm, major firearm part or ammunition when not holder of a licence or permit
- | s. 23(3), (5) and (9A) | Offences relating to firearms and major firearm parts
- | s. 23AC(1) | Unauthorised manufacture of firearms and other things
- | s. 23AD | Unauthorised repair of firearms and other things
+5. | Firearms Act 2024
+ | s. 213 | Offence of unlawful possession
+ | s. 214 | Offence involving handgun or prohibited firearm
+ | s. 215 | Offence involving 3 or more firearms or major firearm parts
+ | s. 216 | Offence involving 3 or more firearms or major firearm parts: handgun or prohibited firearm
+ | s. 217 | Offence while in immediate possession of prohibited drug or prohibited plant
+ | s. 218 | Offence while in immediate possession of large sum of money
+ | s. 220 | Offence of unlawful use
+ | s. 221 | Offence of unlawful use: handgun or prohibited firearm
+ | s. 223 | Offence of unauthorised supply
+ | s. 224 | Offence of unauthorised supply involving 3 or more firearms or major firearm parts
+ | s. 225 | Offence of unauthorised supply involving handgun or prohibited firearm
+ | s. 227 | Offence of supplying to unauthorised person
+ | s. 228 | Offence involving supply of handgun or prohibited firearm
+ | s. 230 | Offence of giving possession to unauthorised person
+ | s. 231 | Offence involving giving possession of handgun or prohibited firearm
+ | s. 233 | Offence of acquiring as unauthorised person
+ | s. 234 | Offence involving acquiring handgun or prohibited firearm
+ | s. 237 | Offence involving handgun or prohibited firearm
+ | s. 240 | Offence involving handgun or prohibited firearm
+ | s. 242 | Unauthorised possession or acquisition of prohibited ammunition
+ | s. 244 | Supplying or giving possession of prohibited ammunition without authority
+ | s. 246 | Supplying or giving possession of prohibited ammunition to unauthorised person
+ | s. 248 | Acquiring or taking possession of prohibited ammunition from unauthorised person
+ | s. 251 | Unauthorised possession of ammunition component for purpose of manufacturing prohibited ammunition
+ | s. 253 | Unauthorised supply of unassembled components of prohibited ammunition
+ | s. 255 | Supplying or giving possession of unassembled components of prohibited ammunition to unauthorised person
+ | s. 257 | Unauthorised possession of unassembled components of prohibited ammunition
+ | s. 258 | Unauthorised possession, acquisition or supply of prohibited accessory
+ | s. 259 | Unauthorised use of firearm fitted with prohibited accessory
+ | s. 260 | Acquiring or taking possession of prohibited accessory from unauthorised person
+ | s. 261 | Supplying or giving possession of prohibited accessory to unauthorised person
+ | s. 263 | Offence of unlawful interference with serial number
+ | s. 264 | Offence of unlawful interference with serial number: handgun or prohibited firearm
+ | s. 265 | Offence of possession where serial number unlawfully interfered with
+ | s. 266 | Offence of possession where serial number unlawfully interfered with: handgun or prohibited firearm
+ | s. 267 | Offence of acquiring firearm or major firearm part where serial number unlawfully interfered with
+ | s. 268 | Offence of acquiring firearm or major firearm part where serial number unlawfully interfered with: handgun or prohibited firearm
+ | s. 269 | Offence of unauthorised supply where serial number unlawfully interfered with
+ | s. 270 | Offence of unauthorised supply where serial number unlawfully interfered with: handgun or prohibited firearm
+ | s. 272 | Offence of making prohibited alteration
+ | s. 273 | Offence of making prohibited alteration: handgun or prohibited firearm
+ | s. 274 | Offence of possession of firearm or major firearm part with prohibited alteration
+ | s. 275 | Offence of possession of firearm or major firearm part with prohibited alteration: handgun or prohibited firearm
+ | s. 276 | Offence of acquiring firearm or major firearm part with prohibited alteration
+ | s. 277 | Offence of acquiring firearm or major firearm part with prohibited alteration: handgun or prohibited firearm
+ | s. 278 | Offence of unauthorised supply of firearm or major firearm part with prohibited alteration
+ | s. 279 | Offence of unauthorised supply of firearm or major firearm part with prohibited alteration: handgun or prohibited firearm
+ | s. 280 | Unauthorised manufacture
+ | s. 281 | Unauthorised repair
+ | s. 282 | Unauthorised destruction of firearm, major firearm part or prohibited accessory
+ | s. 283 | Participating in unauthorised firearm activities
+ | s. 285 | Unauthorised possession of firearm technology
+ | s. 286 | Unauthorised creation or development of firearm technology
+ | s. 287 | Unauthorised dissemination of firearm technology
+ | s. 291 | Offence of possessing remote use device
+ | s. 292 | Offence of using remote use device
+ | s. 293 | Offence of manufacturing remote use device
+ | s. 295 | Pointing firearm at another person
+ | s. 296 | Use of firearm that causes danger or fear
+ | s. 297 | Giving possession of firearm or related thing to unsuitable person
+ | s. 298 | Use or possession of firearm while intoxicated
+ | s. 299 | Shooting onto, from or across road or public place
 6. | Misuse of Drugs Act 1981
  | s. 6(1) | Indictable offences concerned with prohibited drugs
  | s. 7(1) | Indictable offences concerned with prohibited plants
@@ -112,7 +169,7 @@
  | s. 75B(1) and (2) | Dangerous navigation of vessel occasioning death
  | s. 75BA(1) and (2) | Dangerous navigation of vessel occasioning grievous bodily harm
  | s. 75BB(1) and (3) | Dangerous navigation of vessel occasioning bodily harm — if the offender is liable to imprisonment for 7 years
-[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39; No. 13 of 2022 s. 85(2); No. 31 of 2023 s. 37(7); No. 16 of 2024 s. 8; No. 33 of 2024 s. 36(1).]
+[Part 1 inserted: No. 49 of 2012 s. 181(4); amended: No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39; No. 13 of 2022 s. 85(2); No. 31 of 2023 s. 37(7); No. 16 of 2024 s. 8; No. 23 of 2024 s. 491(1); No. 33 of 2024 s. 36(1).]
 ## Part 2 — Relevant simple offences
 [Heading inserted: No. 49 of 2012 s. 181(4).]
  | Enactment | Description of offence
@@ -141,16 +198,35 @@
  | s. 103 | Other contravention of interim control order or control order
  | s. 107(2) | Permitting premises to be habitually used as place of resort by members of declared criminal organisation
  | s. 107(3) | Being knowingly concerned in the management of premises habitually used as place of resort by members of declared criminal organisation
-5. | Firearms Act 1973
- | s. 19(2) | Obtaining, disposing of etc. firearm or ammunition from or to person not holding licence or permit
- | s. 21(2) | Breach of or failure to observe restriction, limitation or condition of licence, permit or approval
- | s. 22A(2) and (3) | Offences relating to possession and production of Extract of Licence
- | s. 22C(1) | Offences relating to Extract of Licence, licences, permits etc.
- | s. 23(1), (2), (6), (7), (8), (9), (10), (10a) and (11) | General offences
- | s. 24(6) | Failing to cooperate with police officer in exercise of powers relating to firearms etc.
- | s. 30(4) | Offences relating to obtaining or disposing of ammunition
- | s. 30A(1), (2) and (3) | Offences relating to sale and disposal of firearms
- | s. 30B(1) and (2) | Offences relating to reporting of loss, theft, destruction of firearm or disposal out of State
+5. | Firearms Act 2024
+ | s. 178 | Offence of providing false or misleading information
+ | s. 188 | Compliance with conditions
+ | s. 208 | Duty to carry and produce licence card
+ | s. 209 | Unlawful alteration of licence card
+ | s. 210 | Fraudulent possession and use of licence card
+ | s. 211 | Surrender of physical licence card
+ | s. 236 | Offence of acquiring from unauthorised person
+ | s. 239 | Offence of taking possession from unauthorised person
+ | s. 241 | Unauthorised possession or acquisition of ammunition
+ | s. 243 | Supplying or giving possession of ammunition without authority
+ | s. 245 | Supplying or giving possession of ammunition to unauthorised person
+ | s. 247 | Acquiring or taking possession of ammunition from unauthorised person
+ | s. 250 | Unauthorised possession of ammunition component for purpose of manufacturing ammunition
+ | s. 252 | Unauthorised supply of unassembled components of ammunition
+ | s. 254 | Supplying or giving possession of unassembled components of ammunition to unauthorised person
+ | s. 256 | Unauthorised possession of unassembled components of ammunition
+ | s. 300 | Using or carrying firearm while trespassing
+ | s. 305 | General duty of safekeeping of firearms and related things
+ | s. 306 | Storage in compliant storage
+ | s. 370 | Offence: failure to answer questions
+ | s. 371 | Offence: misleading police officer
+ | s. 389 | Advertising firearms and related things for sale
+ | s. 390 | Advertising under Trade Licence
+ | s. 391 | Advertising prohibited accessories for sale
+ | s. 392 | Sending firearms and related things by post
+ | s. 393 | Reporting loss of firearm or related thing
+ | s. 394 | Reporting destruction of firearm, major firearm part or prohibited accessory
+ | s. 395 | Reporting supply of firearm or related thing
 6. | Misuse of Drugs Act 1981
  | s. 5(1) | Offences concerned with prohibited drugs and prohibited plants
  | s. 6(2) | Having in possession or using prohibited drug
@@ -177,4 +253,4 @@
  | s. 8(1) | Carrying or possessing article as weapon
 10. | Western Australian Marine Act 1982
  | s. 75BB(1) and (3) | Dangerous navigation of vessel occasioning bodily harm — if the offender is not liable to imprisonment for 7 years
-[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13; No. 13 of 2022 s. 85(3); No. 31 of 2023 s. 37(8); No. 28 of 2024 s. 74; No. 33 of 2024 s. 36(2).]
+[Part 2 inserted: No. 49 of 2012 s. 181(4); amended: No. 35 of 2014 s. 39; No. 6 of 2017 s. 12(5); No. 13 of 2020 s. 13; No. 13 of 2022 s. 85(3); No. 31 of 2023 s. 37(8); No. 23 of 2024 s. 491(2); No. 28 of 2024 s. 74; No. 33 of 2024 s. 36(2).]

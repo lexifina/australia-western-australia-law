@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Disposal of Uncollected Goods Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Disposal of Uncollected Goods Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Disposal of Uncollected Goods Act 1970 | 121 of 1970 | 10 Dec 1970 | 1 Aug 1971 (see s. 2 and Gazette 16 Jul 1971 p. 2555)
@@ -17,10 +17,7 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
  | Residential Tenancies Amendment Act 2011 Pt. 5 Div. 1 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
  | Reprint 2: The Disposal of Uncollected Goods Act 1970 as at 1 Feb 2013 (includes amendments listed above except those in the Residential Tenancies Amendment Act 2011)
  | Disposal of Uncollected Goods Amendment Act 2016 | 43 of 2016 | 1 Dec 2016 | s. 1 and 2: 1 Dec 2016 (see s. 2 (a)); Act other than s. 1 and 2: 10 Jun 2017 (see s. 2(b) and Gazette 9 Jun 2017 p. 2849)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 8 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
+ | Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 8 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -32,7 +29,7 @@ order4(1)
 prescribed goods4(1)
 relevant amount4(1)
 Treasurer28(5)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

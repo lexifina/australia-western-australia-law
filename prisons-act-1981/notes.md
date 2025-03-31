@@ -66,11 +66,11 @@ Prisons Amendment Act 2020 | 20 of 2020 | 21 May 2020 | s. 1 and 2: 21 May 2020 
 High Risk Serious Offenders Act 2020 s. 119 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
 Firearms Amendment Act 2022 s. 84 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 24 and s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 14 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 14 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 10 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Young Offenders and Prisons Legislation Amendment Act 2024 Pt. 2 | 48 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(b))
 Other notes
@@ -180,7 +180,7 @@ video link74A(1)
 violent personal offence113B(1)
 visiting justice3(1)
 WAIRC99
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

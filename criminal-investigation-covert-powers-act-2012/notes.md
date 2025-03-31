@@ -6,11 +6,11 @@ Criminal Investigation (Covert Powers) Act 2012 | 55 of 2012 | 3 Dec 2012 | s. 1
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Reprint 1: The Criminal Investigation (Covert Powers) Act 2012 as at 15 Dec 2017 (includes amendments listed above)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 5 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 4 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 5 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -107,7 +107,7 @@ urgent variation application5, 19(3)(b)
 urgent variation of authority5, 21(1)(b), 51(4)(b)
 use44
 witness identity protection certificate80
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

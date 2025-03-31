@@ -203,18 +203,18 @@ Criminal Law (Mental Impairment) Act 2023 s. 412 | 10 of 2023 | 13 Apr 2023 | 1 
 Abortion Legislation Reform Act 2023 Pt. 2 | 20 of 2023 | 27 Sep 2023 | 27 March 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 30 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Criminal Code Amendment Act 2024 Pt. 2 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/125 cl. 2)
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 4 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Criminal Code Amendment (Prohibition on Display of Nazi Symbols or Gesture) Act 2024 Pt. 2 | 29 of 2024 | 17 Sep 2024 | 1 Mar 2025 (see s. 2(b) and SL 2025/25 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 4 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 4 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
-See Firearms Regulations 1974 r. 2B.
+See the Firearms Regulations 2024 r. 235.
 Renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) is a transitional provision.
 The Acts Amendment (Mental Health) Act 1981 was repealed by the Statute Law Revision Act 2006 s. 3(1) before it came into operation.

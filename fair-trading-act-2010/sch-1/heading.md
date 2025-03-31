@@ -4,7 +4,7 @@
 The following enactments are specified for the purpose of section 15(1)(a) —
 Biosecurity and Agriculture Management Act 2007
 Dangerous Goods Safety Act 2004
-Firearms Act 1973
+Firearms Act 2024
 Food Act 2008
 Health (Miscellaneous Provisions) Act 1911
 Medicines and Poisons Act 2014
@@ -18,4 +18,4 @@ Road Traffic (Vehicles) Act 2012.
 Trade Measurement Act 2006
 Veterinary Chemical Control and Animal Feeding Stuffs Act 1976
 Work Health and Safety Act 2020
-[Schedule 1 amended: No. 24 of 2007 s. 23, 29, 61, 64, 75 and 86 (as amended: No. 58 of 2010 s. 192(1)-(6) and (8)); No. 8 of 2012 s. 103; No. 13 of 2014 s. 185; No. 19 of 2016 s. 138; No. 50 of 2016 s. 22; No. 36 of 2020 s. 354.]
+[Schedule 1 amended: No. 24 of 2007 s. 23, 29, 61, 64, 75 and 86 (as amended: No. 58 of 2010 s. 192(1)-(6) and (8)); No. 8 of 2012 s. 103; No. 13 of 2014 s. 185; No. 19 of 2016 s. 138; No. 50 of 2016 s. 22; No. 36 of 2020 s. 354; No. 23 of 2024 s. 469.]
