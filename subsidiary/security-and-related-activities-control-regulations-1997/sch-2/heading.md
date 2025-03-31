@@ -11,10 +11,11 @@ The Criminal Code | All indictable offences with a maximum penalty exceeding 3 y
  | s. 192 | s. 345 | s. 396
  | s. 488
  | Offences under s. 378 if the offence falls within the description of a special case under the heading “Punishment in special cases” in that section
-Firearms Act 1973 | All indictable offences
+Firearms Act 1973, as in force immediately before the Firearms Act 2024 section 440 comes into operation | All indictable offences
+Firearms Act 2024 | All indictable offences
 Misuse of Drugs Act 1981 | All indictable offences
 Criminal Code Act 1995 (Commonwealth) | All offences in the Schedule Part 5.3 — Terrorism
-[Division 1 inserted: Gazette 4 Dec 2009 p. 4914-15; amended: Gazette 29 Jul 2016 p. 3249.]
+[Division 1 inserted: Gazette 4 Dec 2009 p. 4914-15; amended: Gazette 29 Jul 2016 p. 3249; SL 2024/296 r. 15.]
 ## Division 2 — Division 2 offences
 [Heading inserted: Gazette 4 Dec 2009 p. 4915.]
 Enactment | Offences

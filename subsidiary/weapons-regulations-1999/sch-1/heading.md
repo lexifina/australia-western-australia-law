@@ -2,6 +2,7 @@
 [r. 4]
 Item | Article | Description
 1. | Acoustic shock weapon | An article made or modified to be used to emit sound so as to injure or disable a person.
+1A. | Airsoft gun | An article that — (a)has the appearance of being a firearm; and (b)is made or modified to be used to discharge a spherical projectile made of ceramic, metal, plastic or biodegradable material (commonly known as a BB pellet) using a pneumatic, gas, electric or spring-loaded mechanism or a combination of those mechanisms.
 2. | Ballistic knife | An article made or modified to be used to discharge a knife and includes the knife.
 3. | Blow pipe | An article made or modified to be used to discharge a missile by air expelled from the mouth and includes the missile.
 4. | Butterfly knife | A knife — (a)having a 2 piece handle which folds together to cover both edges of the blade; and (b)made or modified to be used to injure or disable a person or as a martial arts weapon, and includes the martial arts weapon known as the butterfly knife or balisong.
@@ -12,6 +13,7 @@ Item | Article | Description
 8. | Electric shock weapon | An article made or modified to be used to discharge an electric current so as to injure or disable a person but does not include an approved electric shock case.
 9. | Electromagnetic weapon | An article made or modified to be used to emit electromagnetic radiation so as to injure or disable a person.
 10. | Extendable baton | A baton made or modified so that the length of the baton extends by gravity or centrifugal force or by any pressure applied to a button, spring or device in or attached to the handle of the baton.
+10A. | Flamethrower | An article made or modified to be used to spray ignited incendiary fuel over a distance.
 11. | Flick knife or Switchblade | A knife — (a)having a blade that is concealed when folded or recessed into the handle and that opens by gravity or centrifugal force or by any pressure applied to a button, spring or device in or attached to the handle of the knife; and (b)made or modified to be used to injure or disable a person or as a martial arts weapon.
 11A. | Gas dart | A device designed or adapted to kill or injure an animal by injecting a gas into the body of the animal (including a “Gas Dart”, “Farallon Shark Dart” or similar device).
 11B. | Gel blaster | An article that is made or modified to be used to discharge a hydrated superabsorbent polymer ball or other similar gel-like missile and includes the ball or missile.
@@ -19,4 +21,5 @@ Item | Article | Description
 13. | Knuckle knife | A knife made or modified to be held so that the blade protrudes between the knuckles or fingers of a hand (for example, the article commonly known as the “Urban Pal” knife).
 [14.deleted]
 15. | Spray weapon (other than a capsicum spray weapon) | A spray weapon made or modified to be used to discharge a substance other than oleoresin capsicum.
-[Schedule 1 amended: Gazette 11 Sep 2007 p. 4613; 8 Apr 2011 p. 1286; SL 2021/120 r. 4; SL 2024/267 r. 7; SL 2024/282 r. 13.]
+16. | Spud gun | An article (commonly constructed of PVC or other type of piping) made or modified to be used to discharge organic material (for example, potato) using a pneumatic, gas or spring-loaded mechanism.
+[Schedule 1 amended: Gazette 11 Sep 2007 p. 4613; 8 Apr 2011 p. 1286; SL 2021/120 r. 4; SL 2024/267 r. 7; SL 2024/282 r. 13; SL 2024/296 r. 17.]
