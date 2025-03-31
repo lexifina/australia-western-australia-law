@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Police Force Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Police Force Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Police Regulations 1979 | 20 Dec 1978 p. 4731-62 | 1 Jan 1979
@@ -72,10 +72,7 @@ Police Force Amendment Regulations 2019 | 1 Oct 2019 p. 3509-13 | r. 1 and 2: 1 
 Police Force Amendment Regulations (No. 3) 2019 | 29 Nov 2019 p. 4149 | r. 1 and 2: 29 Nov 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2019 (see r. 2(b) and Gazette 29 Nov 2019 p. 4133)
 Police Force Amendment Regulations (No. 2) 2020 | SL 2020/263 31 Dec 2020 | r. 1 and 2: 31 Dec 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2021 (see r. 2(b) and SL 2020/254 cl. 2)
 Police Force Amendment Regulations 2022 | SL 2022/187 18 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Police Force Amendment Regulations 2024 r. 3 and 4 | SL 2024/302 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
+Police Force Amendment Regulations 2024 | SL 2024/302 21 Dec 2024 | r. 1 and 2: 21 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Other notes
 Now known as the Police Force Regulations 1979; citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
@@ -134,7 +131,7 @@ Seniority List801
 special area1107(1)
 station firearm item404(1)
 uniform103
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
