@@ -36,6 +36,7 @@ Planning and Development Amendment Act 2022 | 17 of 2022 | 24 Jun 2022 | s. 1 an
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 11 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 31 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Planning and Development Amendment Act 2023 Pt. 2-4, Pt. 5 Div. 1, Pt. 6 and 7, Pt. 8 Div. 1, Pt. 10 Div. 1, Pt. 11 and 12 | 34 of 2023 | 11 Dec 2023 | Pt. 4, 6 and 7, Pt. 10 Div. 1, Pt. 11 (other than s. 76) and Pt. 12: 12 Dec 2023 (see s. 2(c)); Pt. 2 and 3 and Pt. 5 Div. 1 and s. 76: 1 Mar 2024 (see s. 2(b), (d) and (e) and SL 2024/15 cl. 2 and SL 2024/16 cl. 2); Pt. 8 Div. 1: 1 Jul 2024 (see s. 2(e) and SL 2024/98 cl. 2)
+Planning and Development Amendment (Metropolitan Region Scheme) Act 2024 Pt. 3 | 41 of 2024 | 29 Oct 2024 | 31 Mar 2025 (see s. 2(b) and SL 2024/251 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -44,7 +45,6 @@ Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be 
 Community Titles Act 2018 s. 224-226 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Planning and Development Amendment Act 2020 Pt. 9 | 26 of 2020 | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
 Planning and Development Amendment Act 2023 Pt. 9 | 34 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(e))
-Planning and Development Amendment (Metropolitan Region Scheme) Act 2024 Pt. 3 | 41 of 2024 | 29 Oct 2024 | 31 Mar 2025 (see s. 2(b) and SL 2024/251 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 4 Div. 2.
 If a modification is to:
@@ -181,10 +181,13 @@ Defined termProvision(s)
 Account4(1)
 affected local government122B(3B)
 alleged offender226
+amend181(16C)
 amended Act290(1)
 amended section 138(3)(a)311(1)
 amended section 171R(1)(b)(ii)311(1)
 amended section 33(2)304(1)
+amendment175(2B)
+amendment Act175(2B), 181(16C)
 amendment day122B(7)
 ancillary structure257C(1)
 applicable legal instrument269(1)
@@ -200,16 +203,17 @@ board4(1)
 Board172, Sch. 9 cl. 1
 board of management306(1)
 building lineSch. 8 cl. 8(2)
-business arrangement14(5)
+business arrangement15(5)
 CEO257C(1)
 chairperson4(1)
 chief executive officer4(1)
-commencement day289(1), 290(1), 291(1), 292(1), 298(1)
+commencement day175(2B), 181(16C), 289(1), 290(1), 291(1), 292(1),
+293(1), 298(1)
 Commission4(1)
-committee302(1), 303(1), 304(1), 305(1), 307(1)
+committee302(1), 304(1), 305(1), 307(1)
 conflict171ZE, 171ZI(2)
 conflicts171ZI(1)
-cost of providing a road158(3)
+cost of providing a road159(3)
 COVID-19 emergency start date287
 CPI159(2)
 Crown land4(1)
@@ -236,7 +240,7 @@ existing member300(1), 302(1), 303(1), 305(1)
 existing nominated member306(1)
 existing strata titles scheme145B(1), 149A(1)
 extended recovery period269(1)
-fee259(1)
+fee261(1)
 first owner154(2)
 former Act290(1)
 former Part 17 Division 3298(1)
@@ -310,7 +314,7 @@ planning matter261(1)
 planning scheme4(1), 236(1)
 pollution217(1)
 preparation and approval process290(1)
-prescribed development application170(6)
+prescribed development application171A(1)
 prescribed development approval functions257C(2)
 prescribed offence226
 prescribed significant development171H(1), 171I(1), 171ZE
@@ -336,6 +340,7 @@ relevant development approval171ZE, 171ZG(1)
 relevant existing member304(1)
 relevant land190(2), 191(1A)
 relevant legal instrument171ZE
+relevant planning scheme175(2B)
 remote communication235A
 removed land122E(1), 122G(1)
 repeal day122B(7), 308
@@ -343,7 +348,7 @@ repealed section 66(2)309(1)
 repealed section 93310(1)
 responsible authority4(1), 170(1A)
 responsible Minister171ZE
-road4(1), 135(3), 159(2), Sch. 8 cl. 7(2), 8(2)
+road4(1), 135(3), 159(2), Sch. 8 cl. 7(2) and 8(2)
 scheme start day138A(1)
 second owner154(2)
 significant development269(1)
@@ -351,7 +356,7 @@ significant development application171H(1)
 single house257C(1)
 single house development257C(1)
 spatial data267B(1)
-specified99(3), 103(3), 294(1), 313(1)
+specified99(3), 103(3), 294(1), 312(1)
 start day122D(1)
 State planning policy4(1)
 subdivision4(1)
@@ -367,7 +372,7 @@ utility services4(1)
 vehicle offence225(1)
 WALGA4(1)
 warehouse269(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
