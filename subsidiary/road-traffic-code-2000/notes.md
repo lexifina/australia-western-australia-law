@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic Code 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -72,11 +72,7 @@ Road Traffic Code Amendment Regulations (No. 3) 2020 | SL 2020/253 24 Dec 2020 (
 Road Traffic Code Amendment Regulations (No. 2) 2021 | SL 2021/87 22 Jun 2021 | r. 1 and 2: 22 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2021 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 3) 2021 | SL 2021/184 5 Nov 2021 | r. 1 and 2: 5 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2021 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 4) 2021 | SL 2021/200 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
-Road Safety Regulations Amendment Regulations 2025 Pt. 3 (other than Div. 3) | SL 2025/36 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Road Safety Regulations Amendment Regulations 2025 Pt. 3 Div. 3 | SL 2025/36 5 Feb 2025 | 31 Mar 2025 (see r. 2(c))
+Road Safety Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/36 5 Feb 2025 | Pt. 3 (other than Div. 3): 6 Feb 2025 (see r. 2(b)); Pt. 3 Div. 3: 31 Mar 2025 (see r. 2(c))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
