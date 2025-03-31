@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Conservation and Land Management Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Conservation and Land Management Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Conservation and Land Management Regulations 2002 | 3 May 2002 p. 2233-308 | 3 May 2002
@@ -49,9 +49,6 @@ Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 202
 Conservation and Land Management Amendment Regulations (No. 2) 2023 | SL 2023/130 9 Aug 2023 | r. 1 and 2: 9 Aug 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2023 (see r. 2(b) and SL 2023/132 cl. 2)
 Conservation and Land Management Amendment Regulations (No. 3) 2023 | SL 2023/141 6 Sep 2023 | r. 1 and 2: 6 Sep 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2023 (see r. 2(b))
 Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 2 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Environment Regulations Amendment (Firearms) Regulations 2024 Pt. 4 | SL 2024/298 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Other notes
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
@@ -158,7 +155,7 @@ vessel storage facility65A(1)
 visitor area114
 waste21(5)
 wearing50A(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
