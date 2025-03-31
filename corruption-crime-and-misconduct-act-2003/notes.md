@@ -40,10 +40,10 @@ Corruption, Crime and Misconduct Amendment Act 2021 | 7 of 2021 | 25 Jun 2021 | 
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Corruption, Crime and Misconduct Amendment Act 2024 Pt. 2 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 2 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 2 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Local Government Amendment Act 2024 Pt. 3 Div. 2 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(i))
 Other notes
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
@@ -265,7 +265,7 @@ urgent authority119, 121(2)
 urgent variation of an authority124(3)
 warrant101(1)
 witness3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

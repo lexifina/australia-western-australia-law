@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Security and Related Activities (Control) Act 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Security and Related Activities (Control) Act 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Security and Related Activities (Control) Act 1996 | 27 of 1996 | 22 Jul 1996 | s. 1 and 2: 22 Jul 1996; Act other than s. 1 and 2: 1 Apr 1997 (see s. 2 and Gazette 27 Mar 1997 p. 1693)
@@ -16,9 +16,6 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 201
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 56 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 26 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 17 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 47 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -77,7 +74,7 @@ security officer3
 security officer’s licence3
 supplies3
 temporary licence3, 42A(1), 42B(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

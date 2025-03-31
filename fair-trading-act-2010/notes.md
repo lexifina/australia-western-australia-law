@@ -21,12 +21,12 @@ Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 20
 Fair Trading Amendment Act 2022 | 34 of 2022 | 28 Oct 2022 | s. 1 and 2: 28 Oct 2022 (see s. 2(a)); Act other than s. 1 and 2: 29 Oct 2022 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 26 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Short-Term Rental Accommodation Act 2024 Pt. 8 | 12 of 2024 | 22 Apr 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/88 cl. 2(a)))
+Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 10 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 10 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 For the Australian Consumer Law (WA) text see: Australian Consumer Law (WA).
@@ -99,7 +99,7 @@ this jurisdiction17(1)
 trade or commerce6
 transitional matter117(2)
 variation day38(2)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

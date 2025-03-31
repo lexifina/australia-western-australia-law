@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Court Security and Custodial Services Act 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Court Security and Custodial Services Act 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Court Security and Custodial Services Act 1999 | 46 of 1999 | 8 Dec 1999 | s. 1 and 2: 8 Dec 1999; Act other than s. 1, 2 and Pt. 5: 18 Dec 1999 (see s. 2(1) and Gazette 17 Dec 1999 p. 6175); Pt. 5: 18 Jun 2000 (see s. 2(2) and Gazette 16 Jun 2000 p. 2939)
@@ -29,9 +29,6 @@ Reprint 4: The Court Security and Custodial Services Act 1999 as at 14 Aug 2015 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 106 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Firearms Amendment Act 2022 s. 83 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 5 and s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 3 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Other notes
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
@@ -89,7 +86,7 @@ subcontractor3
 vehicle3
 weapon90(4)
 young person3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
