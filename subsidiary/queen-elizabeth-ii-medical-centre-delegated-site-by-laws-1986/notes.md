@@ -35,11 +35,11 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2022 | SL 2
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2023 | SL 2023/83 30 Jun 2023 | bl. 1 and 2: 30 Jun 2023 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2023 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2024 | SL 2024/141 27 Jun 2024 | bl. 1 and 2: 27 Jun 2024 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2024 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 3) 2024 | SL 2024/248 5 Dec 2024 | bl. 1 and 2: 5 Dec 2024 (see bl. 2(a)); By-laws other than bl. 1 and 2: 20 Dec 2024 (see bl. 2(b) and SL 2024/277 cl. 2)
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2025 | SL 2025/39 27 Feb 2025 | bl. 1 and 2: 27 Feb 2025 (see bl. 2(a)); By-laws other than bl. 1 and 2: 31 Mar 2025 (see bl. 2(b) and SL 2024/289 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
 Queen Elizabeth II Medical Centre Act 1966 s. 22 (as amended by Act No. 2023/1 s. 97) | To be proclaimed (see s. 2(b))
-Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2025 r. 3-5 | SL 2025/39 27 Feb 2025 | 31 Mar 2025 (see bl. 2(b) and SL 2024/289 cl. 2)
 Other notes
 Formerly referred to as the Hospitals and Health Services Act 1927, the short title of which was changed to the Private Hospitals and Health Services Act 1927 by the Health Services Act 2016 s. 261. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Health Services Act 2016 s. 307(j) had not come into operation when it was deleted by the Health Services Amendment Act 2023 s. 85.
@@ -53,11 +53,12 @@ committee26AF(1)
 decision26AF(1)
 driver3(1)
 eligible staff member26AB(1)
+firearm3(1)
 Hospital3(1)
 infringement notice27
 modified penalty27
 North Metropolitan Health Service3(1)
-on-demand rank or hail vehicle authorisation3(1)
+on-demand rank or hail vehicle authorisation2(1)
 paid staff parking area26AB(1)
 parking facility3(1)
 parking permit3(1)
