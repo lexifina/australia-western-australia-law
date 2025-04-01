@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Workers Compensation and Injury Management Arbitration Rules 2024. For provisions that have come into operation see the compilation table.
+This is a compilation of the Workers Compensation and Injury Management Arbitration Rules 2024 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Workers Compensation and Injury Management Arbitration Rules 2024 | SL 2024/78 22 May 2024 | Pt. 1: 22 May 2024 (see r. 2(a)); Rules other than Pt. 1: 1 Jul 2024 (see r. 2(b))
+Workers Compensation and Injury Management Arbitration Amendment Rules 2025 | SL 2025/47 31 Mar 2025 | r. 1 and 2: 31 Mar 2025 (see r. 2(a)); Rules other than r. 1 and 2: 1 Apr 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -31,7 +32,7 @@ requesting party29(1)
 second party29(1)
 witness statement35(1)
 working day3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
