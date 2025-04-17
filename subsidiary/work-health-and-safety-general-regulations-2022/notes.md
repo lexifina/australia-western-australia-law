@@ -11,6 +11,7 @@ Work Health and Safety (General) Amendment Regulations 2024 | SL 2024/95 12 Jun 
 Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/135 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Work Health and Safety (General) Amendment Regulations (No. 2) 2024 | SL 2024/139 26 Jun 2024 | Pt. 1: 26 Jun 2024 (see r. 2(a)); Regulations other than Pt. 1 and 3: 27 Jun 2024 (see r. 2(c)); Pt. 3: 1 Sep 2024 (see r. 2(b))
 Work Health and Safety (General) Amendment Regulations (No. 4) 2024 | SL 2024/227 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
+Work Health and Safety Regulations Amendment (E-cigarettes) Regulations 2025 Pt. 2 | SL 2025/61 16 Apr 2025 | 17 Apr 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -119,6 +120,7 @@ driver fatigue management plan184C
 duty holder5
 EANx5
 earthmoving machinery5
+e-cigarette50A
 electrical equipment5, 144, 148
 electrical installation5, 145, 148
 electrical risk5
@@ -290,6 +292,7 @@ safe work method statement5
 scaffold5
 scaffolding equipment225(8)
 scaffolding work5
+second-hand smoke50I(1)
 self-erecting tower crane5
 service apparatus153(1)
 shaft5
@@ -333,7 +336,7 @@ work box5
 workers’ accommodation55D(1A)
 work positioning system5
 work time184C
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

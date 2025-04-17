@@ -9,6 +9,7 @@ Work Health and Safety Regulations Amendment Regulations (No. 2) 2023 Pt. 3 | SL
 Work Health and Safety (Mines) Regulations 2022 with editorial changes as at 26 Mar 2024
 Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 3 | SL 2024/135 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Work Health and Safety (Mines) Amendment Regulations (No. 2) 2024 | SL 2024/233 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
+Work Health and Safety Regulations Amendment (E-cigarettes) Regulations 2025 Pt. 3 | SL 2025/61 16 Apr 2025 | 17 Apr 2025 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
@@ -69,7 +70,7 @@ authorised RTO326(1A)
 biological monitoring5
 blood lead level5
 blood lead level monitoring5
-Board of Examiners707
+Board of Examiners707(1)
 boiler5
 boom-type elevating work platform5
 bridge crane5
@@ -121,8 +122,9 @@ control measure5
 conveyor5
 correct classification5
 correctly classifiedSch. 9 cl. 1(1), (2) and (3)
-correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2) and 10(1)
-correctly packedSch. 9 cl. 2(1) and (2)
+correctly labelled335(2), Sch. 9 cl. 3(1), 4(2), 5(2), 6(2), 7(2), 8(2), 9(2) and
+10(1)
+correctly packedSch. 9 cl. 2(1), Sch. 9 cl. 2(2)
 crane5
 current certificate of medical fitness5
 danger zone166A(1)
@@ -140,6 +142,7 @@ dogging work5
 duty holder5
 EANx5
 earthmoving machinery5
+e-cigarette50A
 electrical equipment5, 144, 148
 electrical installation5, 145, 148
 electrical risk5
@@ -377,6 +380,7 @@ scaffolding equipment225(8)
 scaffolding work5
 Schedule 26 position5
 Schedule 26 positions675ZP
+second-hand smoke50I(1)
 self-contained self-rescuer674(1)
 self-erecting tower crane5
 service apparatus153(1)
@@ -450,7 +454,7 @@ work box5
 worker monitoring plan641I(1)
 workers’ accommodation55D(1A)
 work positioning system5
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
