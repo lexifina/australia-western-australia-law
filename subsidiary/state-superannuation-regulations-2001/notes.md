@@ -71,9 +71,10 @@ State Superannuation Amendment Regulations (No. 2) 2023 | SL 2023/205 20 Dec 202
 Treasurer Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL 2024/133 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 State Superannuation Amendment Regulations 2024 | SL 2024/195 18 Sep 2024 | r. 1 and 2: 18 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2024 (see r. 2(b))
 State Superannuation Amendment Regulations 2025 | SL 2025/28 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
+State Superannuation Amendment Regulations (No. 2) 2025 | SL 2025/59 16 Apr 2025 | r. 1 and 2: 16 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Apr 2025 (see r. 2(b))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
-Formerly referred to as the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
+Footnote no longer applicable.
 Repealed by the State Superannuation Act 2000 s. 39.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
 The Superannuation Legislation Amendment and Validation Act 2006 s. 19 reads as follows:
@@ -106,13 +107,14 @@ adjustment day12, Sch. 3 cl. 5
 AFCA scheme3(1)
 allocated pension fund171
 annual reporting day220
-ASICSch. 2 cl. 13
+ASICSch. 2 cl. 12
 ASIC workerSch. 2 cl. 13
 assessment notice49A(6), 81A(6)
 Australian Financial Complaints Authority3(1)
 average contribution rate12, 13(1)
 average Part 6 contribution rateSch. 2 cl. 17
-binding death benefit nomination48(1A), 80(1A), 121(1A), 194(3), 196U(3), 219(1A)
+binding death benefit nomination48(1A), 80(1A), 121(1A),
+194(3), 196U(3), 219(1A)
 casual worker12
 charge percentage3(1)
 close of nominations225
@@ -135,15 +137,16 @@ contribution day12
 contribution period3(1)
 contributions-split transfer3(1)
 contributions tax3(1)
-contributor64A(1), 94(3), 95(1)
+contributor64A(1), 94(3), 95(1), 248B(1)
 contributory membership period12, 14(1), Sch. 3 cl. 5
 covered GESB Super Member111A
 covered risk benefit50(1), 220
-covered risk benefits Member50(1), 69G
+covered risk benefits Member50(1), 69G, 113A(1)
 covert allowance12
 CPI rate3(1)
 currentSch. 3 cl. 1(1)
-death benefit48(1), 49B(1), 80(1), 81B(1), 121(1), 126A(1), 194(2), 196AE(1), 196U(2), 219(1), 219AE(1)
+death benefit48(1), 49B(1), 80(1), 81B(1), 121(1), 126A(1),
+194(2), 196AE(1), 196U(2), 219(1), 219AE(1)
 default plan69A, 105, 183, 196J, 211
 deferred contributions option35(2)
 dependant3(1)
@@ -154,6 +157,7 @@ Division 1 Employer3(1)
 Division 2 Employer3(1)
 document251(5)
 DPPSch. 2 cl. 10
+dual member113A(1)
 earlier determination47A(5A), 79A(6), 123(5A)
 earning rate3(1)
 earnings76A, 79AA(4), 117, 122(7)
@@ -182,14 +186,14 @@ GESB Super (Retirement Access) Member3(1)
 GESB Super (Retirement Access) Scheme3(1)
 GESB Super Scheme3(1)
 GESB withdrawal benefit83(1)
-Gold State Super Member3(1)
+Gold State Super Member2(1)
 Gold State Super Scheme3(1)
 GSS withdrawal benefit12, Sch. 3 cl. 2
 health condition12, 50(1), 111A
 inactive account220
 inactive GESB Super account3(1), 83(1B)
-inactive low-balance GESB Super account83(1), 83(1A)
-inactive low-balance west state account50(1), 50(1A)
+inactive low-balance GESB Super account83(1) and (1A)
+inactive low-balance west state account50(1) and (1A)
 inactive west state account3(1), 50(1B)
 industrial commissionerSch. 2 cl. 17
 insurance cover83(1), 220
@@ -205,7 +209,8 @@ member contribution12, 50(1)
 member contribution rate12, Sch. 3 cl. 5
 Member’s assets69E(3), 109(3), 187(4), 196N(4), 215(3)
 non-contributory periodSch. 2 cl. 7
-notice of inactivity3(1), 50(1B), 83(1B)
+non-government contribution3(1)
+notice of inactivity2(1), 50(1B), 83(1B)
 notional funded amount44D(4)
 notional unfunded amount44D(4)
 notional unreduced amount44D(4)
@@ -258,7 +263,7 @@ release authority3(1)
 relevant amount96(4)
 relevant contribution3(1)
 relevant MemberSch. 3 cl. 29(3)
-relevant regulationsSch. 2 cl. 13, Sch. 2 cl. 15
+relevant regulationsSch. 2 cl. 13 and 15
 remuneration17A(1)
 reporting period220
 resignation daySch. 3 cl. 29(3)
@@ -266,7 +271,7 @@ restricted non-preserved benefit3(1)
 retirement access account201
 retirement income account171
 Retirement Income (Lump Sum) Member194(1)
-Retirement Income Member3(1)
+Retirement Income Member2(1)
 Retirement Income Scheme3(1)
 retrenched19(2)
 retrenched transfereeSch. 2 cl. 1(1)
@@ -301,7 +306,7 @@ superannuation agreement219A(2)
 superannuation fund3(1)
 superannuation interest219A(1)
 superannuation salary in respect of a contribution period26(1)
-tax saving amount3(1)
+tax saving amount2(1)
 temporarily incapacitated72(1), 116(1)
 term12G(1)
 term allocated pension196A
@@ -318,8 +323,8 @@ transferred contributor for limited benefitsSch. 2 cl. 5(1)
 transferred serviceSch. 2 cl. 1(1)
 unclaimed money3(1)
 UnionsWA225
-UniversitySch. 2 cl. 6(2), Sch. 2 cl. 14(2)
-University staff memberSch. 2 cl. 15
+UniversitySch. 2 cl. 6(2) and 15
+University staff memberSch. 2 cl. 14(2)
 unpaid leave12
 unrecognised unpaid leave12
 unrestricted condition of release3(1)
