@@ -2,14 +2,16 @@
 [r. 15(1) and (2)]
 ## Division 1 — Offences under Act
 Provision | Description of offence | Modified penalty
-s. 9 | Entering into, or seeking to enter into, short-term rental arrangement for unregistered premises | For entering into a short-term rental arrangement — $2 000
+s. 9 | Entering into, or seeking to enter into, short-term rental arrangement for unregistered premises | $2 000
+s. 10(1) | Causing a prohibited advertisement to be published in or on an advertising publication or booking platform (accommodation provider) | $2 000
+s. 10(2) | Causing a prohibited advertisement to be published in or on an advertising publication or booking platform (agent of an accommodation provider) | $2 000
 s. 13(2) | Failure to comply with s. 13(1) notice | $2 000
 s. 14(2) | Failure to comply with s. 14(1) notice | $2 000
 s. 15(2) | Failure to comply with s. 15(1) notice | $2 000
 s. 16(1) | False representation as to registration of premises | $2 000
-s. 16(2) | Display of false registration number for premises | $2 000
 s. 28 | Failure to notify Commissioner of event | For failing to notify of an event mentioned in s. 28(a), (b), (c), (d) or (e) — $500
 s. 36(3) | Failure to comply with a s. 36 notice | $2 000
+[Division 1 amended: SL 2025/56 r. 4.]
 ## Division 2 — Offences under regulations
 Provision | Description of offence | Modified penalty
 r. 13(3) | Booking made on electronically integrated booking platform — failure to notify particulars of booking and obtain confirmation of registration | $500
