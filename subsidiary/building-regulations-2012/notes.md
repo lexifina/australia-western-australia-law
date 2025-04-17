@@ -49,6 +49,7 @@ Building Amendment Regulations 2023 | SL 2023/208 20 Dec 2023 | Pt. 1: 20 Dec 20
 Building Amendment Regulations 2024 | SL 2024/49 17 Apr 2024 | r. 1 and 2: 17 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2024 (see r. 2(b))
 Short-Term Rental Accommodation Regulations 2024 r. 19 | SL 2024/123 26 Jun 2024 | 1 Jul 2024 (see r. 2 and SL 2024/88 cl. 2(a))
 Building Amendment Regulations 2025 | SL 2025/34 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2025 | SL 2025/62 16 Apr 2025 | r. 1 and 2: 16 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Apr 2025 (see r. 2(b))
 Other notes
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -56,7 +57,6 @@ Defined terms
 Defined termProvision(s)
 10 year life battery55(1)
 access48
-accredited person31
 applicable technical aspects47(1A)
 application31, 40(1)
 approved alternative building solution55(1)
@@ -69,18 +69,19 @@ AS 1926.1-19933
 AS 1926.1-20123
 AS 39593
 assessment method3
+BAL3
 builder work3
-Building Code3, 3A(1)
+Building Code3, 3(1)
 Building Code pool barrier requirement3
 building product31J(1)
-building site3
-bushfire attack level (BAL)3
+building site2
 bush fire performance requirement3
 bush fire prone area3
 bush fire standard31BA(1A)
 business day3
 C1V33
 Class3
+Class 9 vulnerable use building3
 CodeMark certificate31J(1)
 commencement date31HA(1)
 commencement day3, 31HB(1)
@@ -90,6 +91,7 @@ declaration of intended demolition55(1)
 deemed-to-satisfy solution3
 dwelling55(1)
 earlier edition31A(4), 31IA(5)
+early childhood centre3
 electrician55(1)
 EPSch. 3 cl. 1
 estimated value3
@@ -106,6 +108,8 @@ former provisions3
 GSTSch. 1 cl. 1
 heritage works permit3
 initial inspection53A(1)
+item 13(d) building or incidental structureSch. 4 cl. 2
+item 13(e) building or incidental structureSch. 4 cl. 2
 local planning scheme3, 31HB(1)
 managed reserve10(1A)
 management body10(1A)
@@ -121,14 +125,15 @@ person responsible54A(1)
 person with a disability51(1)
 post-transfer period57(1A)
 pre-May 2016 private swimming pool 3
+primary or secondary school3
 prior owner57(1)
 private swimming pool3
-protection order2
+protection order3
 public place44A
 regulation 5A54(1)
 re-inspection53A(1)
 relevant building31BA(1A), 31D
-relevant building standards47(1)
+relevant building standards48A(1)
 relevant componentsSch. 1 cl. 1
 relevant day60(1)
 relevant edition of the Building Code3
@@ -154,7 +159,6 @@ swimming pool3
 Table41(2)
 townsite3
 transfer day55(1)
-transitional bush fire application31
 unit55(1)
 work54A(1)
 WorkSafe Commissioner14A(1)
