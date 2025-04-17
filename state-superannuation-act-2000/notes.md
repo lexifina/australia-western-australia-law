@@ -18,10 +18,11 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 201
 Reprint 2: The State Superannuation Act 2000 as at 11 May 2012 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 40 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Unclaimed Money (Superannuation and RSA Providers) Amendment and Expiry Act 2014 Pt. 3 | 22 of 2014 | 29 Aug 2014 | 7 Jan 2015 (see s. 2(b) and Gazette 6 Jan 2015 p. 3)
+State Superannuation Amendment Act 2024 (other than s. 5(2) and 6-8) | 50 of 2024 | 6 Dec 2024 | s. 1 and 2: 6 Dec 2024 (see s. 2(a)); s. 3, 4, 5(1) and (3) and 9-27: 17 Apr 2025 (see s. 2(b) and SL 2025/55 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-State Superannuation Amendment Act 2024 (s. 3-27) | 50 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(b))
+State Superannuation Amendment Act 2024 s. 5(2) and 6-8 | 50 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by s. 39 of this Act. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
@@ -77,8 +78,9 @@ Corporations Act3(1)
 default fund4A(1)
 Department33(4B)
 document36(4)
-employee4A(1)
+employee4A(1), 37(1)
 Employer3(1)
+Employer directorSch. 1 cl. 1A
 exempt employee4A(1)
 Fund3(1)
 fund4A(1)
@@ -86,18 +88,20 @@ GES Act3(1)
 individual superannuation guarantee shortfall4A(1)
 information36(4)
 Member3(1)
+Member directorSch. 1 cl. 1A
 multiplying factor38(5B)
+non-government contributor3(1), 37(1)
 parliamentary purposes36(4)
 pension value factor38(5B)
 prior approvalSch. 3 cl. 1
 relevant benefit38(5B)
 scheme3(1)
-SGA Act4A(1)
+SGA Act3(1)
 spouse28(3)
 subsidiary3(1)
 superannuation guarantee charge4A(1)
 Treasurer’s guidelines3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
