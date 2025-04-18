@@ -62,6 +62,8 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 53. | Regulation 166(2) | 100 | —
 54. | Regulation 169 | 100 | —
 55. | Regulation 170 | 200 | —
+55A. | Regulation 170A(2) | 300 | —
+55B. | Regulation 170A(3) | 300 | 1 500
 56. | Regulation 171(2) | 600 | —
 57. | Regulation 172 | 600 | —
 58. | Regulation 173 | 600 | —
@@ -88,4 +90,4 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 74. | Regulation 257(1) | 600 | 3 000
 75. | Regulation 258(1) | 600 | 3 000
 76. | Regulation 259(2) | 200 | 1 000
-[Schedule 1 amended: Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701; 11 Jul 2017 p. 3833; 31 Aug 2018 p. 3047; SL 2020/193 r. 27; SL 2024/22 r. 13.]
+[Schedule 1 amended: Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701; 11 Jul 2017 p. 3833; 31 Aug 2018 p. 3047; SL 2020/193 r. 27; SL 2024/22 r. 13; SL 2024/285 r. 12.]

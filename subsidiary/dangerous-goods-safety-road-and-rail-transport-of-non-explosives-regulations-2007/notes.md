@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6893-7056 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -34,9 +34,6 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/36 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2024 | SL 2024/22 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Feb 2024 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Dangerous Goods Safety Regulations Amendment Regulations 2024 Pt. 2 | SL 2024/285 18 Dec 2024 | 18 Apr 2025 (see r. 2(b))
 Other notes
 The Dangerous Goods Safety Act 2004 Pt. 3 commenced 1 Mar 2008.
@@ -47,7 +44,8 @@ Defined termProvision(s)
 Act4
 ADG Code4
 ADR approved4
-aggregate quantity3
+aggregate quantity4
+ammonium nitrate explosion risk goods4, 4A
 another participating jurisdiction4
 appropriately marked4, 106(1), (2), (3), (4) and (5)
 appropriately placarded4, 111(2)
@@ -58,6 +56,7 @@ approved tank4
 approved test4
 approved training course4
 article4
+at the relevant times170A(1)
 Austroads213
 authorised body4
 bulk container4, 33(1) and (2)
@@ -84,7 +83,7 @@ corresponding determination4
 corresponding exemption4
 corresponding law4
 corresponding provision276(1), 278(1), 280(1), 282(1)
-dangerous goods4, 27(1)
+dangerous goods4, 28(1)
 dangerous goods driver licence4
 Dangerous Goods List4
 dangerous goods vehicle licence4
@@ -120,10 +119,10 @@ journey4
 large packaging4
 licence241, 250
 licensed vehicle237(1)
-licensee240, 250
+licensee241, 250
 licensing authority213
 load4
-loader4, 42
+loader3, 42
 loads4, 42
 MEGC4, 35
 Ministerial Council4
@@ -154,7 +153,7 @@ pressure drums4
 previous regulation 221(c)287(1)
 prime contractor4, 43
 prime mover4
-proposed action210(1), 254(1), 261(1)
+proposed action211(1), 254(1), 261(1)
 provisional licence4
 rail4
 rail authority4
@@ -167,11 +166,13 @@ recognised testing facility4
 register25
 registered4
 relevant change200(1), 201(1)
-relevant provision263(1), 264(1), 265(1), 266(1), 275(1), 277(1), 279(1), 281(1)
+relevant provision263(1), 264(1), 265(1), 266(1),
+275(1), 277(1), 279(1), 281(1)
 relevant road tank vehicle215(1)
 repealed Act273
 repealed regulations273
 required emergency information156
+responsible person170A(1)
 RID approved4
 rigid vehicle4
 road4
@@ -195,8 +196,9 @@ UN Class4, 29
 UN Division4
 UN Division29
 unit of rolling stock4
+UN Number4
 vehicle4, 229
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
