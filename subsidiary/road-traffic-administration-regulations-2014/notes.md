@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Administration) Regulations 2014 | 23 Dec 2014 p. 4939-5009 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -38,6 +38,10 @@ Road Traffic (Administration) Amendment Regulations (No. 2) 2024 | SL 2024/184 4
 Road Traffic (Administration) Amendment Regulations 2024 | SL 2024/201 2 Oct 2024 | r. 1 and 2: 2 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2024 (see r. 2(b))
 Transport Regulations Amendment (Road Traffic) Regulations 2024 Pt. 2 | SL 2024/237 27 Nov 2024 | 1 Dec 2024 (see r. 2(b))
 Transport Regulations Amendment (Heavy Vehicle) Regulations 2025 Pt. 2 | SL 2025/20 22 Jan 2025 | 23 Jan 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
