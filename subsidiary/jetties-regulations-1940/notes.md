@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
@@ -141,6 +141,10 @@ Jetties Amendment Regulations (No. 2) 2022 | SL 2022/48 22 Apr 2022 | r. 1 and 2
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 2 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Jetties Amendment Regulations 2024 | SL 2024/56 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2024 | SL 2024/93 12 Jun 2024 | r. 1 and 2: 12 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 2 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Footnote no longer applicable.
@@ -205,7 +209,7 @@ unit3(5)
 vessel3(1), 105J
 week3(2)
 written instrument109
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
