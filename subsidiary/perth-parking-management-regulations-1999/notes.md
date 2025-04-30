@@ -42,6 +42,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Perth Parking Management Act 2024 s. 159 assented to 7 Mar 2024 | To be proclaimed (see s. 2(c))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 6 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -51,7 +52,7 @@ fire brigade3
 private road3
 road3
 vehicle of a disabled person2
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
