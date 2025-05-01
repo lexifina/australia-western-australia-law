@@ -20,4 +20,4 @@ Distress signals
 2.The use or exhibition of any of the foregoing signals except for the purpose of indicating distress and need of assistance and the use of other signals which may be confused with any of the above signals is prohibited.
 3.Attention is drawn to the relevant sections of the International Code of Signals, the Merchant Ship Search and Rescue Manual and the following signals:
 (a) a piece of orange-coloured canvas with either a black square and circle or other appropriate symbol (for identification from the air);
-(b)a dye marker.
+(b) a dye marker.
