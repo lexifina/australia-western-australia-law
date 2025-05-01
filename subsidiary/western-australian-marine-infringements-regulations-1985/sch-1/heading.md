@@ -106,7 +106,7 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 80 | 75D(1) | A first offence of navigating or attempting to operate a vessel while BAC is 0.05 or above | 1 000
 81 | 75GF(5) | Failing to comply with a prohibition notice | 600
 [82-89 | deleted]
-90A | 79(2) | Failure of the master or person in charge of a vessel to comply with the Prevention of Collisions at Sea Regulations 1983 | 300
+90A | 79(2) | Failure of the master or person in charge of a vessel to comply with the Prevention of Collisions in State Waters Regulations 1983 | 300
 90 | 91(1) | Carrying dangerous goods without proper markings | 200
 91 | 97(1) | Carrying explosives on a passenger ship without proper protection | 200
 92 | 132(8) | Removing an infringement notice from a vessel | 100
@@ -116,4 +116,4 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 95 | 3.12.1 | Failing to notify the CEO of repairs or alterations to hire and drive vessel | 50
 96 | 3.13.2 | Failing to report an accident involving hire and drive vessel | 50
 97 | 4.2.2 | Overloading a hire and drive vessel | 100
-[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39; SL 2024/61 r. 4; SL 2024/191 r. 48.]
+[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39; SL 2024/61 r. 4; SL 2024/191 r. 48; SL 2025/68 r. 14.]
