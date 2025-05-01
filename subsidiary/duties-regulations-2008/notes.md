@@ -16,6 +16,7 @@ Duties Amendment Regulations 2019 | 8 Oct 2019 p. 3617-21 | Pt. 1: 8 Oct 2019 (s
 Finance Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/206 23 Oct 2020 | 24 Oct 2020 (see r. 2(b))
 Duties Amendment Regulations 2023 | SL 2023/12 24 Feb 2023 | r. 1 and 2: 24 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2023 (see r. 2(b))
 Finance Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 2 | SL 2024/134 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Finance Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/67 30 Apr 2025 | 1 May 2025 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 2.
 If a modification is to:
@@ -28,8 +29,12 @@ If a modification is to:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+1 January 201411(1)
+1 January 2017 instrument11(1)
+1 January 2017 transaction11(1)
 Agriculture Minister7(1)
 asset-backed securitisation arrangement4(1A)
+commencement day11(1)
 demerged entity2A(3) and (4)
 entity2A(1)
 entity A2A(2)
@@ -37,7 +42,10 @@ farming land7(1)
 financial asset4(1A)
 fixed infrastructure4(1A)
 fixed to land financial asset4(1A)
-hybrid demerger2(4)
+former instrument11(1)
+former transaction11(1)
+hybrid demerger2A(4)
+instrument11(1)
 listed entity2A(1)
 listed entity demerger2A(3)
 listed entity security holder2A(3) and (4)
@@ -50,8 +58,9 @@ security2A(1)
 timber sharefarming profit à prendre4A(1), 4B(1)
 tractor7(1)
 tractor plant7(1)
+transaction11(1)
 wholly-owned subsidiary2A(2)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

@@ -47,6 +47,7 @@ Finance Regulations Amendment (Interest Rates) Regulations 2023 Pt. 3 | SL 2023/
 Finance Regulations Amendment (Interest Rates) Regulations 2024 Pt. 3 | SL 2024/82 29 May 2024 | 1 Jul 2024 (see r. 2(b))
 Finance Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL 2024/134 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Finance Regulations Amendment (Disclosure of Information) Regulations 2024 Pt. 3 | SL 2024/151 24 Jul 2024 | 25 Jul 2024 (see r. 2(b))
+Finance Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/67 30 Apr 2025 | 1 May 2025 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 2.
 If a modification is to:
@@ -66,33 +67,40 @@ Australian Building and Construction Commissioner13M(1)
 Building Commissioner13N(1)
 CEO (Landgate)13C(1)
 CEO (petroleum)13B(1)
-chief executive officer13G(1)
-Commissioner Fair Trading14A(1)
-Commissioner for Consumer Protection13O(1)
+chief executive officer13G(1), 14BB(1)
+Commissioner for Consumer Protection2B
 corresponding law13E(1)
 Corruption and Crime Commission13K(1)
 Corruption and Crime Commissioner13K(1)
 COVID-19 relief measure13L(1)
+department14BA(1)
 Department CEO13Q(1)
 duty5A(3), 13C(1)
 employer13G(1)
+EOI proposal14BA(1)
 functions14A(1)
+GTE14BA(1)
 industrial inspector13P(1)
 Legal Practice Board14A(1)
+market-led proposal14BA(1)
+MLP officer14BA(1)
 online arrangement5A(3)
 Pastoral Lands Board13(1)
 pastoral lessee13(1)
+proponent14BA(1)
 public sector agency13L(1)
 relevant recipient14A(1)
 relevant scheme14B(1)
+relevant tax information14BB(1)
 senior officer13Q(1)
 settlement agent14A(1)
+statutory authority14BA(1)
 STR arrangement14A(1)
 supplier13Q(1)
 tax information2B
 wages13G(1)
 WorkCover WA13J(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
