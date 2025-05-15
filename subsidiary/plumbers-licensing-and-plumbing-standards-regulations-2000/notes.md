@@ -55,6 +55,7 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations 2022 | SL 2022/1
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 15 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 2 | SL 2024/12 9 Feb 2024 | Pt. 2 (other than Div. 3 and 4): 10 Feb 2024 (see r. 2(d)); Pt. 2 Div. 3: 1 May 2024 (see r. 2(b) and SL 2022/163 r. 2(d)); Pt. 2 Div. 4: 10 Feb 2025 (see r. 2(c))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 14 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
+Plumbers Licensing and Plumbing Standards Amendment Regulations 2025 | SL 2025/70 14 May 2025 | r. 1 and 2: 14 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2025 (see r. 2(b))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
@@ -67,7 +68,7 @@ alternate memberSch. 2 cl. 4(1)
 alternative water supply system3(1)
 apparatus for the treatment of sewage3(1)
 application fee3(1)
-apprentice3(1), 3A(1), 3A(2)
+apprentice3(1), 3A(1) and (2)
 approvedSch. 3 cl. 1
 approved form3(1)
 AS3(1)
@@ -83,7 +84,7 @@ CertificateSch. 3 cl. 1
 certificate of compliance3(1)
 chairperson3(1)
 Class3(1)
-commencement day112(1), 113(1), 114(1), 115(1), Sch. 3 cl. 8(1)
+commencement day112(1), 113(1), 114(1), 115(1)
 common property55
 compliance purposes82
 compression fitting13D(1)
@@ -98,7 +99,7 @@ drainage plumbing3(1)
 drainage plumbing connection point45DA(1), 55
 drainage plumbing diagram3(1)
 drainage plumbing service line45DA(1), 55
-drainage plumbing work3(1), 4B(1), 4B(2)
+drainage plumbing work3(1), 4B(1) and (2)
 dwelling3(1)
 eligible remote community37
 emergency plumbing work3(1)
@@ -149,6 +150,7 @@ plumbing compliance officer3(1)
 plumbing contractor’s licence3(1)
 plumbing module3(1)
 plumbing standards3(1), 48(1)
+plumbing work3(1)
 point of discharge4(1)
 pre-apprentice3(1)
 pre-commencement delivery temperature requirements112(1)
@@ -157,6 +159,7 @@ previous contractor45B(4)
 previous contractor or permit holder42(5)
 primary contractor25B(1)
 principal plumbing42(2), 45B(2)
+property sewer connection9A
 proposed scheme plan55
 provisional tradesperson’s licence3(1)
 qualifying plumbing unit37
@@ -165,6 +168,8 @@ rear lot58(1)
 register3(1)
 registered training providerSch. 3 cl. 1
 re-issue20A(1A)
+relevant drainage plumbing work9A
+relevant licensee9A
 relevant person109(3)
 renewal fee3(1)
 renewal period19A(2)
@@ -174,12 +179,12 @@ restricted plumbing permit3(1)
 restricted plumbing permit (rainwater storage)3(1)
 restricted plumbing permit (water heater)3(1)
 sanitary plumbing3(1)
-sanitary plumbing work3(1), 4A(1), 4A(2)
+sanitary plumbing work3(1), 4A(1) and (2)
 serious offence3(1)
 service line55
 service provider37
 sewer3(1)
-sewerage service licensee45E(5)
+sewerage service licensee3(1)
 sewerage system3(1)
 specified54(1)
 statement of attainmentSch. 3 cl. 1
@@ -197,7 +202,7 @@ unit of competency3(1)
 wastewater3(1)
 water heater3(1)
 WaterMark Technical Specification3(1)
-water services provider3(1)
+water services provider2(1)
 water services works of a water services provider3(1)
 water supply plumbing3(1)
 water supply plumbing connection point55
