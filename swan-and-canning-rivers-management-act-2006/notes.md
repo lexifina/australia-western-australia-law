@@ -28,8 +28,9 @@ Swan Valley Planning Act 2020 Pt. 10 Div. 15 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2
 Swan and Canning Rivers Management Regulations 2007 r. 48 and 49 inserted by SL 2023/14 r. 10 | 25 Feb 2023 (see SL 2023/14 r. 2(b))
 Swan and Canning Rivers Management Amendment Act 2023 | 2 of 2023 | 1 Mar 2023 | s. 1 and 2: 1 Mar 2023 (see s. 2(a)); Act other than s. 1 and 2: 3 Jun 2023 (see s. 2(b) and SL 2023/62 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 58 | 9 of 2023 | 4 Apr 2023 | Pt. 3 Div. 58 (other than s. 146): 5 Apr 2023 (see s. 2(i)(ii) and (j)); s. 146: 3 Jun 2023 (see s. 2(i)(ii))
+Swan and Canning Rivers Management Regulations 2007 r. 47 inserted by SL 2025/69 r. 4 | 15 May 2025 (see SL 2025/69 r. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 24 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Aquatic Resources Management Act 2016 s. 372 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
