@@ -16,6 +16,7 @@ Swan and Canning Rivers Management Amendment Regulations 2023 | SL 2023/14 24 Fe
 Swan and Canning Rivers Management Amendment Regulations (No. 2) 2023 | SL 2023/63 2 Jun 2023 | r. 1 and 2: 2 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jun 2023 (see r. 2(b) and SL 2023/62 cl. 2)
 Swan and Canning Rivers Management Amendment Regulations 2024 | SL 2024/35 20 Mar 2024 | r. 1 and 2: 20 Mar 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2024 (see r. 2(b))
 Swan and Canning Rivers Management Amendment Regulations (No. 2) 2024 | SL 2024/253 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b))
+Swan and Canning Rivers Management Amendment Regulations (No. 2) 2025 | SL 2025/69 14 May 2025 | r. 1 and 2: 14 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2025 (see r. 2(b))
 Other notes
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 The regulation in these regulations repealing the Swan River Trust Regulations 1989 was omitted under the Reprints Act 1984 s. 7(4)(f).
