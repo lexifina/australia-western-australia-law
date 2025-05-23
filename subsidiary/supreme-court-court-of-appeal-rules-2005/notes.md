@@ -10,6 +10,7 @@ Supreme Court (Court of Appeal) Amendment Rules 2022 | SL 2022/60 20 May 2022 | 
 Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 5 | SL 2022/74 14 Jun 2022 | 1 Jul 2022 (see r. 2(b) and SL 2022/113 cl. 2)
 Supreme Court (Court of Appeal) Amendment Rules (No. 2) 2022 | SL 2022/209 16 Dec 2022 | r. 1 and 2: 16 Dec 2022 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2023 (see r. 2(b) and SL 2022/212 cl. 2)
 Supreme Court (Court of Appeal) Amendment Rules 2024 | SL 2024/166 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2024 (see r. 2(b))
+Supreme Court (Court of Appeal) Amendment Rules 2025 | SL 2025/76 22 May 2025 | r. 1 and 2: 22 May 2025 (see r. 2(a)); Rules other than r. 1 and 2: 23 May 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -22,6 +23,7 @@ appellant’s grounds of appeal33(1)
 approved mediator47(1)
 audio link3(1)
 CA matter3(1)
+child sexual abuse action72(1)
 civil appeal3(1)
 concluded3(1)
 costs66(1)
@@ -34,12 +36,14 @@ Form3(1)
 interim order3(1)
 interlocutory civil appeal3(1)
 legal issue67(1)
+media manager70(1)
+media organisation70(1)
+National Redress Scheme72(1)
 party3(1)
 primary court3(1)
 primary court case3(1)
 primary court’s decision3(1)
 primary court’s transcript3(1)
-provisional decision19(2)
 record3(1)
 refer to67(1)
 registrar3(1)
@@ -50,7 +54,7 @@ single judge3(1)
 urgent appeal order3(1)
 video link3(1)
 working day3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
