@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Cremation Regulations 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Cremation Regulations 1954 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Cremation Regulations 1954 | 20 Aug 1954 p. 1441-9 | 6 Sep 1954 (see r. 2)
@@ -36,6 +36,10 @@ Cremation Amendment Regulations 2019 | 2 Jul 2019 p. 2645-7 | r. 1 and 2: 2 Jul 
 Cremation Amendment Regulations 2021 | SL 2021/46 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2021 (see r. 2(b))
 Cremation Amendment Regulations 2023 | SL 2023/68 16 Jun 2023 | r. 1 and 2: 16 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2023 (see r. 2(b))
 Cremation Amendment Regulations 2024 | SL 2024/92 12 Jun 2024 | r. 1 and 2: 12 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Cremation Amendment Regulations 2025 r. 3 and 4 | SL 2025/81 28 May 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Repealed by the Cemeteries Act 1986.
 Repealed by the Associations Incorporation Act 1987.
@@ -45,7 +49,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 nearest surviving relative3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
