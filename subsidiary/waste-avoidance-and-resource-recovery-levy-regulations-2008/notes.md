@@ -10,6 +10,7 @@ Waste Avoidance and Resource Recovery Levy Amendment Regulations 2014 | 23 Sep 2
 Waste Avoidance and Resource Recovery Levy Amendment Regulations 2016 | 17 Jun 2016 p. 2091-7 | r. 1 and 2: 17 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2016 (see r. 2(b))
 Waste Avoidance and Resource Recovery Levy Amendment Regulations 2020 | SL 2020/3 4 Feb 2020 | r. 1 and 2: 4 Feb 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Feb 2020 (see r. 2(b))
 Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2024 | SL 2024/84 29 May 2024 | r. 1 and 2: 29 May 2024 (see r. 2(a)); r. 5: 30 May 2024 (see r. 2(b)); Regulations other than r. 1, 2 and 5: 1 Jul 2024 (see r. 2(c))
+Waste Avoidance and Resource Recovery Levy Amendment Regulations 2025 | SL 2025/83 28 May 2025 | r. 1 and 2: 28 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2025 (see r. 2(b))
 Other notes
 The Waste Avoidance and Resource Recovery Levy Amendment Regulations 2023 r. 3 and 4 (SL 2023/193) did not come into operation and were repealed by the Waste Avoidance and Resource Recovery Levy Amendment Regulations (No. 2) 2024 on 30 May 2024 (see SL 2024/84 r. 5).
 Defined terms
@@ -33,7 +34,7 @@ reviewable decision6(2)
 surveyor10(1)
 unlicensed premises12B(1)
 waste12A(1), 12B(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
