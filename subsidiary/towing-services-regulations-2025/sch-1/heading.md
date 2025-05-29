@@ -1,10 +1,10 @@
 ## Schedule 1 — Prescribed offences and modified penalties
 [r. 66]
 Offence | Modified penalty for individual | Modified penalty for body corporate
-Offences under the Towing Services Regulations 2024
+Offences under the Towing Services Regulations 2025
 1. | r. 11(2) | Failure to give notice of moving of stored vehicle | $750 | $3 750
 2. | r. 13(1) | Failure to keep records in relation to regulated towing business | $1 800 | $9 000
-3. | r. 17(3) | Failure to comply with notice requiring records to be produced or provided | $1 800 | $9 000
+3. | r. 17(4) | Failure to comply with notice requiring records to be produced or provided | $1 800 | $9 000
 4. | r. 21(2) | Failure to carry Australian driver licence or foreign driving authorisation | $750
 5. | r. 24(3) | Failure to move, or move vehicle, so that authorised officer or emergency worker is not obstructed | $1 350
 6. | r. 24(4) | Failure to move, or move vehicle, so that provision of first aid or medical treatment is not obstructed | $1 350
@@ -21,3 +21,4 @@ Offences under the Towing Services Regulations 2024
 17. | r. 61(7) | Contravention of safety standard: prohibited driving and stopping | $1 350
 Offence under the Towing Services Act 2024
 18. | s. 40(2) | Towing vehicle without authorisation | $1 800
+[Schedule 1 amended: SL 2025/78 r. 4.]

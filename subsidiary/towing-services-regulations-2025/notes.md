@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Towing Services Regulations 2025. For provisions that have come into operation see the compilation table.
+This is a compilation of the Towing Services Regulations 2025 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Towing Services Regulations 2025 | SL 2025/5 8 Jan 2025 | 10 Jan 2025 (see r. 2)
+Towing Services Amendment Regulations 2025 | SL 2025/78 28 May 2025 | r. 1 and 2: 28 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
