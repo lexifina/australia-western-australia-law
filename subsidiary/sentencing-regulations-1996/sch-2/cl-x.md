@@ -22,7 +22,6 @@ Fish Resources Management Act 1994 s. 49, 171(1), 196(1)
 Freedom of Information Act 1992 s. 82(2), 83, 109, 110
 Fuel, Energy and Power Resources Act 1972 s. 49(3)
 Gaming and Wagering Commission Act 1987 s. 20(3), 35, 42(4), 45(3), 45(4), 58(4)
-Gender Reassignment Act 2000 s. 22(2), 23
 Government Railways Act 1904 s. 34(1), 45, 51(2)
 Graffiti Vandalism Act 2016 s. 6(1)
 Growers Charge Act 1940 s. 6
