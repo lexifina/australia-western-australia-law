@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Equal Opportunity Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Equal Opportunity Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Equal Opportunity Act 1984 | 83 of 1984 | 7 Dec 1984 | s. 1 and 2: 7 Dec 1984; Act other than s. 1 and 2: 8 Jul 1985 (see s. 2 and Gazette 5 Jul 1985 p. 2387)
@@ -52,11 +52,8 @@ Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 6 | 19 o
 Reprint 7: The Equal Opportunity Act 1984 as at 5 Aug 2016 (includes amendments listed above except the Public Health (Consequential Provisions) Act 2016
 Statutes (Minor Amendments) Act 2017 s. 8 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Industrial Relations Amendment Act 2018 s. 68 | 39 of 2018 | 12 Dec 2018 | 19 Dec 2018 (see s. 2(b) and Gazette 18 Dec 2018 p. 4835)
+Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 7 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
 Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 1 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 7 | 31 of 2024 | 26 Sep 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer required.
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 (Cwlth) (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 (Cwlth).
