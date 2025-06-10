@@ -106,6 +106,7 @@ Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 2
 Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
 Perth Parking Management Act 2024 Pt. 11 | 2 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(c))
 Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 3 and Pt. 3 Div. 2 Subdiv. 3 | 35 of 2024 | 22 Oct 2024 | To be proclaimed (see s. 2(b))
+Architects Amendment Act 2025 s. 32 | 2 of 2025 | 10 Jun 2025 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 4 Subdivision 1 modifies sections 14, 14B and 34 of the Act. The modified sections are identified by the superscript 2M appearing after the section numbers. The modification ceases on 31 December 2021 unless postponed under sections 46(3) and 52 of that Act.
