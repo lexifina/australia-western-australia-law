@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Services (Complaint Resolution and Administration) Act 2011 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Building Services (Complaint Resolution and Administration) Act 2011 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Building Services (Complaint Resolution and Administration) Act 2011 | 16 of 2011 | 25 May 2011 | s. 1 and 2: 25 May 2011 (see s. 2(a)); Act other than s. 1 and 2: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
@@ -8,6 +8,10 @@ Reprint 1: The Building Services (Complaint Resolution and Administration) Act 2
 Building and Construction Industry (Security of Payment) Act 2021 Pt. 7 Div. 1 | 4 of 2021 | 25 Jun 2021 | Pt. 7 Div. 1 (other than s. 123 and 124): 1 Aug 2022 (see s. 2(c) and SL 2022/78 cl. 2(2)(a)(vii)); s. 123 and 124: 1 Feb 2023 (see s. 2(c) and SL 2022/78 cl. 2(2)(b)(iii))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 12 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Building Services (Complaint Resolution and Administration) Amendment Act 2024 | 39 of 2024 | 29 Oct 2024 | s. 1 and 2: 29 Oct 2024 (see s. 2(a)); Act other than s. 1 and 2: 30 Oct 2024 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Architects Amendment Act 2025 s. 30 | 2 of 2025 | 10 Jun 2025 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Building Services (Registration) Act 2011.
 Defined terms
@@ -81,7 +85,7 @@ transitional matter138(2)
 Typlex pipe6(4)
 unauthorised person78(1)
 vocational regulatory body3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
