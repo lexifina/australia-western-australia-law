@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 | 31 Dec 2007 p. 7057-100 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -24,6 +24,10 @@ Dangerous Goods Safety Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/19
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/58 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/36 5 May 2023 | 1 Jul 2023 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2025/90 11 Jun 2024 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
 Defined terms
@@ -73,7 +77,7 @@ Table 210(1)
 threshold quantity9(1)
 UN numberSch. 1 cl. 1
 zoning4
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
