@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -56,6 +56,10 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 15 | SL 2
 Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 2 | SL 2024/12 9 Feb 2024 | Pt. 2 (other than Div. 3 and 4): 10 Feb 2024 (see r. 2(d)); Pt. 2 Div. 3: 1 May 2024 (see r. 2(b) and SL 2022/163 r. 2(d)); Pt. 2 Div. 4: 10 Feb 2025 (see r. 2(c))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 14 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2025 | SL 2025/70 14 May 2025 | r. 1 and 2: 14 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 15 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
