@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mines Safety and Inspection Levy Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Mines Safety and Inspection Levy Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Mines Safety and Inspection Levy Regulations 2010 | 23 Apr 2010 p. 1545-77 | r. 1 and 2: 23 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Apr 2010 (see r. 2(b))
@@ -16,6 +16,10 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 3 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Mines Safety and Inspection Levy Amendment Regulations 2022 | SL 2022/20 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 6 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 7 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -41,7 +45,7 @@ quarter 3(1)
 reassessment3(1)
 reviewer20
 worker3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
