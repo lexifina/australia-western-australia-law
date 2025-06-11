@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Offshore Minerals Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Offshore Minerals Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Offshore Minerals Regulations 2010 | 17 Dec 2010 p. 6379-96 | r. 1 and 2: 17 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b) and Gazette 17 Dec 2010 p. 6350)
@@ -17,6 +17,10 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 8 | SL 2022/58 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/36 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 8 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 9 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -32,7 +36,7 @@ responsible licence holder11
 section3
 unused mining property11
 year7
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
