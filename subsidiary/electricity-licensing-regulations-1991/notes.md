@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -63,6 +63,10 @@ Electricity (Licensing) Amendment Regulations 2023 | SL 2023/30 6 Apr 2023 | r. 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Electricity Regulations Amendment (Licensing) Regulations 2024 Pt. 2 | SL 2024/211 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
@@ -159,7 +163,7 @@ supervising electrical worker49C(1), 50(3)
 temporary builders supply52B(4A)
 transportable structure3(1)
 working days3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
