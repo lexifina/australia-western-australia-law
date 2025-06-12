@@ -25,9 +25,9 @@ Rights in Water and Irrigation Amendment Regulations (No. 2) 2018 | 30 Oct 2018 
 Rights in Water and Irrigation Amendment Regulations 2019 | 8 Oct 2019 p. 3622-3 | r. 1 and 2: 8 Oct 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2019 (see r. 2(b))
 Water Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/173 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Water Regulations Amendment (Infringement Notices) Regulations 2021 Pt. 2 | SL 2021/173 8 Oct 2021 | 9 Oct 2021 (see r. 2(b))
+Water Regulations Amendment (Infringement Notices) Regulations 2025 Pt. 2 | SL 2025/91 11 Jun 2025 | 12 Jun 2025 (see r. 2(b))
 Other notes
 These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 37.
-Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Disallowed 22 Nov 2007 see Gazette 27 Nov 2007 p. 5910.
 Disallowed 8 Apr 2008 see Gazette 11 Apr 2008 p. 1396.
 Defined terms
@@ -68,3 +68,7 @@ water services licence58
 water supply service58
 water year41A
 well32
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
