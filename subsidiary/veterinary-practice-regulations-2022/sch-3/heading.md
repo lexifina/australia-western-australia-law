@@ -1,38 +1,35 @@
 ## Schedule 3 — Specialties
 [r. 5]
-1. | Animal behaviour
-2. | Avian medicine
-3. | Canine medicine
-4. | Cattle management and diseases
-5. | Deer management and diseases
-6. | Equine medicine
-7. | Equine surgery
-8. | Feline medicine
-9. | Laboratory animal medicine
-10. | Large animal medicine
-11. | Large animal surgery
-12. | Pig management and diseases
-13. | Sheep management and diseases
-14. | Small animal medicine
-15. | Small animal orthopaedic surgery
-16. | Small animal surgery
-17. | Veterinary anaesthesia
-18. | Veterinary anaesthesia and critical care
-19. | Veterinary anatomical pathology
-20. | Veterinary cardiology
-21. | Veterinary clinical pathology
-22. | Veterinary dentistry
-23. | Veterinary dermatology
-24. | Veterinary diagnostic imaging
-25. | Veterinary emergency medicine and critical care
-26. | Veterinary epidemiology
-27. | Veterinary microbiology
-28. | Veterinary neurology
-29. | Veterinary nutrition
-30. | Veterinary oncology
-31. | Veterinary ophthalmology
-32. | Veterinary parasitology
-33. | Veterinary pharmacology
-34. | Veterinary public health and food hygiene
-35. | Veterinary reproduction (species)
-36. | Veterinary toxicology
+[Heading inserted: SL 2025/92 r. 28.]
+Item | Specialty
+1. | Animal behaviour.
+2. | Animal welfare science, ethics and law.
+3. | Avian medicine and surgery (or avian medicine).
+4. | Dairy cattle medicine and management (or cattle management and diseases).
+5. | Equine medicine.
+6. | Equine surgery.
+7. | Feline medicine.
+8. | Laboratory animal medicine.
+9. | Large animal medicine.
+10. | Small animal medicine.
+11. | Small animal surgery.
+12. | Veterinary anaesthesia and analgesia (or anaesthesia and critical care).
+13. | Veterinary anatomical pathology.
+14. | Veterinary cardiology.
+15. | Veterinary clinical pathology.
+16. | Veterinary dentistry.
+17. | Veterinary dermatology.
+18. | Veterinary emergency medicine and critical care.
+19. | Veterinary epidemiology.
+20. | Veterinary medicine (sheep).
+21. | Veterinary microbiology.
+22. | Veterinary neurology.
+23. | Veterinary nutrition.
+24. | Veterinary oncology.
+25. | Veterinary ophthalmology.
+26. | Veterinary radiation oncology.
+27. | Veterinary radiology (or diagnostic imaging).
+28. | Veterinary reproduction.
+29. | Veterinary sports medicine and rehabilitation.
+30. | Zoological medicine.
+[Schedule 3 inserted: SL 2025/92 r. 28.]
