@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Medicines and Poisons Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Medicines and Poisons Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Medicines and Poisons Regulations 2016 | 17 Jan 2017 p. 443-586 | 30 Jan 2017 (see r. 2 and Gazette 17 Jan 2017 p. 403)
@@ -15,11 +15,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Medicines and Poisons Amendment Regulations (No. 3) 2024 | SL 2024/218 30 Oct 2024 | r. 1 and 2: 30 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2024 (see r. 2(b))
 Medicines and Poisons Amendment Regulations (No. 2) 2024 | SL 2024/224 30 Oct 2024 | r. 1 and 2: 30 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2024 (see r. 2(b))
-Health Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 2 (other than r. 10) | SL 2024/265 11 Dec 2024 | 12 Dec 2024 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Health Regulations Amendment (Medicines and Poisons) Regulations 2024 r. 10 | SL 2024/265 11 Dec 2024 | 12 Jun 2025 (see r. 2(b))
+Health Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 2 | SL 2024/265 11 Dec 2024 | Pt. 2 (other than r. 10): 12 Dec 2024 (see r. 2(c)); r. 10: 12 Jun 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -99,7 +95,7 @@ patient15(1), 16A(1), 64(4)
 patient in a hospital3(1)
 PBS37
 PBS medicine37
-permitted purpose74(1), 79(1)
+permitted purpose73(1), 79(1)
 personal information18(1)
 pharmaceutical sample3(1)
 pharmacy intern88(1)
@@ -114,15 +110,18 @@ public hospital3(1)
 public sector agency79(1)
 qualified person 145(1)
 racing yacht37
+real-time prescription monitoring system22A(1)
 recordable event144(1)
 register147(1)
 registered nurse37
 regulated Australian vessel37
+relevant health professional22A(1)
+relevant medicine22A(1)
 relevant premises95(1)
 remote clinic37
 repealed Act149
-repealed regulations148F(2)
-repeat form23(1), 24(2)
+repealed regulations149
+repeat form24(1) and (2)
 residential care chart3(1)
 residential care facility3(1)
 responsible person76(1)
@@ -134,7 +133,7 @@ section3(1)
 secure cabinet94
 small safe94
 specialist prescriber133
-specified70(3), 107(1), 118(1)
+specified71, 107(1), 118(1)
 Standard for Optometrists60(1)
 stimulant114
 stimulant clinic125
@@ -148,7 +147,7 @@ transdermal administration6A(1)
 unauthorised person22(1)
 vessel37
 veterinary nurse37
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
