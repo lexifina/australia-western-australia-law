@@ -549,4 +549,3 @@ Director: [Signature]
 Name: TADEUSZ J WATROBA
 Director/Secretary: [Signature]
 Name: JAY NEWBY
-By Authority: JOHN A. STRIJK, Government Printer
