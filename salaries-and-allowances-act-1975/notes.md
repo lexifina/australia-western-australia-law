@@ -58,6 +58,7 @@ Reprint 6: The Salaries and Allowances Act 1975 as at 24 Aug 2018 (includes amen
 Constitutional and Electoral Legislation Amendment (Electoral Equality) Act 2021 s. 96 | 20 of 2021 | 24 Nov 2021 | 25 Nov 2021 (see s. 2(b))
 Government Trading Enterprises Act 2023 Pt. 12 Div. 7 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
 Local Government Amendment Act 2023 Pt. 3 Div. 3 | 11 of 2023 | 18 May 2023 | 1 Jan 2024 (see s. 2(d) and SL 2023/92 cl. 2(b))
+Salaries and Allowances Amendment Act 2025 Pt. 2 | 3 of 2025 | 19 Jun 2025 | 20 Jun 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -74,7 +75,9 @@ Now known as the Salaries and Allowances Act 1975; short title changed (see note
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Chairman4(1)
+amendment Act12A(1)
+amendment day12A(1)
+Chairperson4(1)
 classification framework10D(1)
 commencement day10B
 committee member7BAA(1)
@@ -91,11 +94,14 @@ holding public office6C(1)
 member4(1)
 Minister of the Crown4(1)
 Public Sector Wages Policy Statement 10A(1)
+remote communication9(7)
 remuneration4(1)
 Schedule 1 offence6C(1)
 section4(1)
 Tribunal4(1)
-© State of Western Australia 2024.
+validation day12B(1)
+validation period12B(1)
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
