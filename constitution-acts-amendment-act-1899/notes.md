@@ -317,6 +317,7 @@ Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 1 | 5 of 2024 | 1
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 3 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
 Industrial Relations Legislation Amendment Act 2024 s. 156 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Keystart Act 2024 Pt. 8 Div. 1 (other than s. 59(2)) | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
+Salaries and Allowances Amendment Act 2025 Pt. 3 | 3 of 2025 | 19 Jun 2025 | 20 Jun 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
