@@ -67,6 +67,7 @@ Aboriginal Cultural Heritage Act 2021 s. 343 | 27 of 2021 | 22 Dec 2021 | 1 Jul 
 Conservation and Land Management Amendment Act 2022 | 27 of 2022 | 31 Aug 2022 | s. 1 and 2: 31 Aug 2022 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2022 (see s. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 2 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 24 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
+Conservation and Land Management Amendment Act 2025 | 6 of 2025 | 24 Jun 2025 | s. 1 and 2: 24 Jun 2025 (see s. 2(a)); Act other than s. 1 and 2: 25 Jun 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -222,7 +223,6 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Aboriginal3
-Aboriginal cultural heritage59(3A)
 Aboriginal customary purpose103A(1)
 Aboriginal person3
 agency23(1)
@@ -295,10 +295,9 @@ joint responsible body3
 land3, 17(8), 53, 98(2)
 Land Administration Minister3
 land to which this Act applies3
-land to which this Part applies102(1), 102(1A)
+land to which this Part applies102(1) and (1A)
 lease13E(1)
 licence13E(1), 87(1)
-located59(3A)
 managed land103A(1)
 management plan3
 Marine Authority157
@@ -371,6 +370,7 @@ State forest3
 State forests128(2)
 take33(7A), 101A, 103A(1)
 timber3
+timber production55(1C)
 timber reserve3
 transitional matter168(1)
 tree3
@@ -383,7 +383,7 @@ vested7(1A), 8AA(1)
 Western Australian waters13(8)
 Western Australian Wildlife Authority145
 wildlife officer3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
