@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Strata Titles Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Strata Titles Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Strata Titles Act 1985 | 33 of 1985 | 6 May 1985 | s. 1 and 2: 6 May 1985; Act other than s. 1 and 2: 30 Jun 1985 (see s. 2 and Gazette 21 Jun 1985 p. 2188)
@@ -53,8 +53,14 @@ Strata Titles Amendment Act 2018 Pt. 2 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (
 Swan Valley Planning Act 2020 Pt. 10 Div. 14 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 21 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 7 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
+Strata Titles Act 1985 with editorial changes as at 26 Jun 2025
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+Sch. 5 cl. 31 and 32 | s. 36 and 39 | 26 Jun 2025
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Other notes
@@ -234,7 +240,7 @@ administrative fund3(1), 100(1)
 administrator3(1)
 allowed period89(2)
 amending ActSch. 5 cl. 1
-amendment3(1), 3(1)
+amendment3(1)
 appointed daySch. 3 cl. 1(1)
 approved form3(1)
 assistance animal3(1)
@@ -245,10 +251,10 @@ building3(1)
 camping ground212(3)
 capital value3(1)
 caravan park212(3)
-chairperson3(1), 3(1)
+chairperson3(1)
 commencement daySch. 5 cl. 1
 Commissioner of Titles3(1)
-common property3(1), 10(1), 10(2), 10(3)
+common property3(1), 10(1), (2) and (3)
 common property (utility and sustainability infrastructure) easement3(1)
 companySch. 3 cl. 1(1)
 conduct by-laws3(1)
@@ -309,7 +315,7 @@ location plan for a strata scheme3(1)
 lotSch. 2A cl. 2
 lot in a strata scheme3(1)
 lot in a survey-strata scheme3(1)
-member3(1), 3(1)
+member3(1)
 Minister for Lands196(3)
 monetary order3(1)
 mortgage3(1)
@@ -422,7 +428,7 @@ vacant lot3(1)
 volunteer strata manager3(1)
 wall3(1)
 working day3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
