@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -210,6 +210,12 @@ Fish Resources Management Amendment Regulations (No. 3) 2024 | SL 2024/114 26 Ju
 Fish Resources Management Amendment Regulations (No. 4) 2024 | SL 2024/158 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2024 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 5) 2024 | SL 2024/234 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2024 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2024 | SL 2024/263 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2024 (see r. 2(b))
+Fish Resources Management Regulations 1995 with editorial changes as at 26 Jun 2025
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+r. 3 def. finfish, r. 16DB(1) and Sch. 2 and 7 | s. 38 | 26 Jun 2025
 Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -217,6 +223,7 @@ The name of the Fisheries Research and Development Fund was changed by the Finan
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 (Sch. 1 cl. 68) to the Recreational Fishing Account. This reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
 The commencement date of 15 Jan 2013 that was specified in r. 2(b) was before the date of gazettal.
+Underlining has been removed from taxonomic ranks to be consistent with current drafting practice.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -410,7 +417,7 @@ whole fish3(1)
 whole ray16(1)
 whole shark15(1)
 zone144A(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
