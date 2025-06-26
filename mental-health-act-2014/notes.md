@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mental Health Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Mental Health Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mental Health Act 2014 | 24 of 2014 | 3 Nov 2014 | s. 1 and 2: 3 Nov 2014 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
@@ -12,6 +12,12 @@ Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 114 | 4 o
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Health Services Amendment Act 2023 Pt. 3 | 1 of 2023 | 22 Feb 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/103 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 20 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Mental Health Act 2014 with editorial changes as at 26 Jun 2025
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 457 | s. 34(2) [s. 34(1) def. (h)] | 26 Jun 2025
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -215,7 +221,7 @@ voluntary inpatient4
 voluntary patient4
 witness379
 youth advocate350(2)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
