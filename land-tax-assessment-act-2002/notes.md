@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Tax Assessment Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Land Tax Assessment Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -43,6 +43,7 @@ Land Tax Assessment Amendment Act 2022 | 42 of 2022 | 21 Nov 2022 | Pt. 2: deeme
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 7 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Land Tax Assessment Amendment (Residential Construction Exemptions) Act 2024 | 9 of 2024 | 26 Mar 2024 | s. 1 and 2: 26 Mar 2024 (see s. 2(a)); Act other than s. 1 and 2: 27 Mar 2024 (see s. 2(b))
 Land Tax Assessment (Build-to-Rent) Amendment Act 2024 | 22 of 2024 | 15 May 2024 | Act other than s. 1 and 2: deemed to have come into operation on 1 Jul 2023 (see s. 2(b)(ii)); s. 1 and 2: 15 May 2024 (see s. 2(a))
+Land Tax Assessment Amendment (Build-to-Rent) Act 2026 | 6 of 2026 | 25 Jun 2026 | Act other than s. 1 and 2: deemed to have come into operation on 1 Jul 2025 (see s. 2(b)); s. 1 and 2: 25 Jun 2026 (see s. 2(a))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 3 Div. 2.
 If a modification is to:
@@ -130,6 +131,7 @@ home lotGl. cl. 2(4)
 home unitGl. cl. 1
 improvementsGl. cl. 1
 improvement schemeGl. cl. 1
+increased exemption development39E, Sch. 1 cl. 26B(1)
 individual30I(1)
 industrial associationGl. cl. 1
 joint owners28E(1), Gl. cl. 1
@@ -227,7 +229,7 @@ unsatisfied requirements28B(1)
 validation periodSch. 1 cl. 10 and 16
 X%15A(3A), 39B(2)
 Y%15A(3A)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
