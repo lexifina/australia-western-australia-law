@@ -1,12 +1,8 @@
 Notes
-This is a compilation of the Financial Management Regulations 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Financial Management Regulations 2024. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
-Financial Management Regulations 2024 (other than r. 6(2), 10(2) and 11(3)) | SL 2024/283 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1, 2, 6(2), 10(2) and 11(3): 1 Jan 2025 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Financial Management Regulations 2024 r. 6(2), 10(2) and 11(3) | SL 2024/283 18 Dec 2024 | 1 Jul 2025 (see r. 2(b))
+Financial Management Regulations 2024 | SL 2024/283 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1, 2, 6(2), 10(2) and 11(3): 1 Jan 2025 (see r. 2(c)); r. 6(2), 10(2) and 11(3): 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
