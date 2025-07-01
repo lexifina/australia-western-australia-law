@@ -1,21 +1,21 @@
 ## Schedule 2 — Sheriff’s fees
 [r. 4]
-[Heading inserted: SL 2024/113 r. 28.]
+[Heading inserted: SL 2025/111 r. 28.]
 Item | Matter | Fee $
 1. | On the execution of an arrest warrant —
- | (a)for arresting the person | 205.00
- | (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody | 203.00
- | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until the person is conveyed to a court or a custodial place | 53.50
+ | (a)for arresting the person | 211.00
+ | (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody | 209.00
+ | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until the person is conveyed to a court or a custodial place | 55.00
  | Notes for this item: 1.The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
  | 2.The fee under paragraph (a) includes the costs of — (a)receiving and printing the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
-2. | For the service of a writ, application, summons, originating process, notice or order of the Court or other process requiring service | 114.00
+2. | For the service of a writ, application, summons, originating process, notice or order of the Court or other process requiring service | 117.00
  | Notes for this item: 1.The fee is payable whether or not the service is successful and covers up to 3 attempts at service at the same address.
  | 2.The fee includes the costs of receiving and printing the process.
 3. | If it is necessary to travel to execute a warrant or other process, serve a writ, summons, order of the Court, other process or document, make an arrest or for all attempts, attendances and inspections, from the Sheriff’s office or nearest bailiff’s office —
- | (a)for each kilometre travelled (1 way) in the metropolitan region | 2.60
- | (b)for each kilometre travelled (1 way) outside the metropolitan region | 2.90
+ | (a)for each kilometre travelled (1 way) in the metropolitan region | 2.65
+ | (b)for each kilometre travelled (1 way) outside the metropolitan region | 3.00
  | Note for this item: If more than 1 process or document is executed or served by the Sheriff or a bailiff at the same time on the same person, or on different persons at the same address, only 1 fee for kilometres travelled is chargeable.
-4. | Fee to the Sheriff for attending a view — per hour or part of an hour | 107.00
-5. | (a)For striking a jury and preparing a jury panel | 345.00
- | (b)For attendance of Sheriff’s officer at hearing (per day or part of a day) | The sum actually and reasonably paid
-[Schedule 2 inserted: SL 2024/113 r. 28.]
+4. | Fee to the Sheriff for attending a view — per hour or part of an hour | 110.00
+5. | (a)For striking a jury and preparing a jury panel | 354.00
+ | (b)For attendance of Sheriff’s officer at hearing (per day or part of a day) | The reasonable amount paid
+[Schedule 2 inserted: SL 2025/111 r. 28.]

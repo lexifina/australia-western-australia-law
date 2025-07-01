@@ -102,6 +102,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2024
 Attorney General Regulations Amendment (Firearms) Regulations (No. 2) 2024 Pt. 3 | SL 2024/242 27 Nov 2024 | 28 Nov 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Towing Services) Regulations 2024 Pt. 3 | SL 2024/260 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Gambling) Regulations 2025 Pt. 3 | SL 2025/2 8 Jan 2025 | 9 Jan 2025 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 9 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Formerly referred to the Censorship Act 1996, the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Curtin University of Technology Act 1966, the short title of which was changed to the Curtin University Act 1966 by the Universities Legislation Amendment Act 2016 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
