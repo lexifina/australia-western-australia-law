@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Marine and Harbours (Departmental Areas) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Marine and Harbours (Departmental Areas) Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Marine and Harbours (Departmental Areas) Regulations 1998 | 17 Jul 1998 p. 3800-3 | 17 Jul 1998
@@ -13,9 +13,6 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 3 | SL 2
 Transport Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/56 20 May 2022 | 1 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2024 Pt. 2 | SL 2024/57 1 May 2024 | 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 3 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

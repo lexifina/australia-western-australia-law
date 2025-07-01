@@ -38,11 +38,11 @@ Perth Parking Management Amendment Regulations 2022 | SL 2022/51 22 Apr 2022 | r
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 2 | SL 2022/67 3 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Perth Parking Management Amendment Regulations 2024 | SL 2024/60 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 6 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Perth Parking Management Act 2024 s. 159 assented to 7 Mar 2024 | To be proclaimed (see s. 2(c))
-Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 6 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

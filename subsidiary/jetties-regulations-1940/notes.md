@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Jetties Regulations 1940 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
@@ -141,16 +141,13 @@ Jetties Amendment Regulations (No. 2) 2022 | SL 2022/48 22 Apr 2022 | r. 1 and 2
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2023 Pt. 2 | SL 2023/43 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Jetties Amendment Regulations 2024 | SL 2024/56 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2024 | SL 2024/93 12 Jun 2024 | r. 1 and 2: 12 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 2 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the department in the Public Service designated as “Police Department” is to be read and construed as a reference to the department designated as “Police Service”.
-Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Footnote no longer applicable.
 Repealed by the Explosives and Dangerous Goods Act 1961, which was repealed by the Dangerous Goods Safety Act 2004.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this compilation was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Transport.
 Formerly referred to the Jetties Act Regulations 1940 the citation of which was changed to the Jetties Regulations 1940 by the Jetties Amendment Regulations (No. 3) 2004 r. 3. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
