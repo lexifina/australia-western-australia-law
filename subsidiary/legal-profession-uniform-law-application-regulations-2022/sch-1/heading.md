@@ -6,8 +6,9 @@ Item | Application in respect of which fee is payable | Fee
 2. | Application under r. 31(1)(b) for exemption under Legal Profession Uniform Law (WA) s. 18 from satisfying specified academic qualifications prerequisite, specified practical legal training prerequisite or both | $320.00
 3. | Application under Legal Profession Uniform Law (WA) s. 19(1) for compliance certificate | $360.00
 4. | Application under Legal Profession Uniform Law (WA) s. 21(1) for declaration of early assessment of suitability | $300.00
-5. | Application under Uniform Admission Rules r. 11(1) for direction about additional academic qualifications | $320.00
-6. | Application under Uniform Admission Rules r. 11(2) for direction about additional practical legal training understanding and competence | $320.00
+5. | Application under Uniform Admission Rules r. 11(1) for direction about sufficiency of qualifications or practical legal training obtained overseas or guidance as to additional qualifications or training required | $320.00
+[6.deleted]
+[Division 1 amended: SL 2025/110 r. 4.]
 ## Division 2 — Applications for Australian practising certificates and Australian registration certificates
 Item | Application in respect of which fee is payable | Fee
 1. | Application for the grant of an Australian practising certificate —

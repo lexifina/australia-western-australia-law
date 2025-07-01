@@ -6,6 +6,8 @@ Legal Profession Uniform Law Application Regulations 2022 | SL 2022/117 30 Jun 2
 Legal Profession Uniform Law Application Amendment Regulations 2022 | SL 2022/208 14 Dec 2022 | r. 1 and 2: 14 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2022 (see r. 2(b))
 Legal Profession Uniform Law Application Amendment Regulations 2023 | SL 2023/145 20 Sep 2023 | r. 1 and 2: 20 Sep 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 3 | SL 2024/173 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+Legal Profession Uniform Law Application Amendment Regulations 2025 | SL 2025/110 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
+Attorney General Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/117 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -44,7 +46,7 @@ Uniform Admission Rules3
 Uniform Conduct (Barristers) Rules70(1)
 Uniform CPD (Barristers) Rules3
 Uniform CPD (Solicitors) Rules3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
