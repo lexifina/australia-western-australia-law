@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Conservation and Land Management Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Conservation and Land Management Regulations 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Conservation and Land Management Regulations 2002 | 3 May 2002 p. 2233-308 | 3 May 2002
@@ -50,10 +50,7 @@ Conservation and Land Management Amendment Regulations (No. 2) 2023 | SL 2023/13
 Conservation and Land Management Amendment Regulations (No. 3) 2023 | SL 2023/141 6 Sep 2023 | r. 1 and 2: 6 Sep 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2023 (see r. 2(b))
 Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 2 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
 Environment Regulations Amendment (Firearms) Regulations 2024 Pt. 4 | SL 2024/298 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Conservation and Land Management Amendment Regulations 2025 r. 3 and 4 | SL 2025/79 28 May 2025 | 1 Jul 2025 (see r. 2(b))
+Conservation and Land Management Amendment Regulations 2025 | SL 2025/79 28 May 2025 | r. 1 and 2: 28 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Other notes
 The Conservation and Land Management Regulations 1992 were repealed by the Conservation and Land Management Regulations 2002 (see r. 115 of those regulations as published by Gazette 3 May 2002 p. 2295).
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
