@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Photo Card Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Western Australian Photo Card Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Western Australian Photo Card Regulations 2014 | 18 Jun 2014 p. 2011-20 | 1 Jul 2014 (see r. 2 and Gazette 17 Jun 2014 p. 1955)
@@ -21,9 +21,6 @@ Transport Regulations Amendment (Fee Waiver and Refund) Regulations 2022 Pt. 3 |
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 14 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Identity Matching Services) Regulations 2023 Pt. 4 | SL 2023/166 1 Nov 2023 | 2 Nov 2023 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 6 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 6 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

@@ -6,7 +6,7 @@
 Table
  | Description of fee | Fee
 1. | Application fee for on-demand booking service authorisation (s. 29(4)(f) of the Act) | $139.20
-2. | Fee for nomination of additional or replacement person to represent provider of authorised on-demand booking service (r. 50(5)(a)) | $25.40
+2. | Fee for nomination of additional or replacement person to represent provider of authorised on-demand booking service (r. 50(5)(a)) | $26.20
 3. | Application fee for variation of conditions of on-demand booking service authorisation (s. 34(2)(c) of the Act) | $14.40
 4. | Application fee for regular passenger transport service authorisation (s. 59(3)(e) of the Act) | $119.00
 5. | Application fee for renewal of regular passenger transport service authorisation (r. 69(2)(c)) | $119.00
@@ -21,22 +21,22 @@ Table
 14. | Fee for provision of unpublished de-identified data on request (s. 151(3) of the Act) | $143.90 for each hour, or part of an hour, that a person spends extracting and providing data in response to request
 15. | Fee for providing copy of authorisation document for passenger transport authorisation | $12.40
 16. | Fee for handling the following transactions in person or over the phone in relation to passenger transport authorisations — (a)changes to existing records (except changes of address) (b)late renewal of annual authorisations (c)manual search of records | $20.70
-[Division 1 inserted: SL 2024/58 r. 25.]
+[Division 1 inserted: SL 2024/58 r. 25; amended: SL 2025/65 r. 17.]
 ## Division 2 — Authorisation fees for on-demand booking service authorisations
-[Heading inserted: SL 2024/58 r. 25.]
+[Heading inserted: SL 2025/65 r. 18.]
 Table
 Number of vehicles to be covered by the authorisation | Fee
-1 | $275.40
-2 to 5 | $517.50
-6 to 15 | $1 519.50
-16 to 30 | $3 027.80
-31 to 50 | $4 954.70
-51 to 90 | $8 147.70
-91 to 150 | $13 542.70
-151 to 250 | $22 020.40
-251 to 500 | $36 333.80
-More than 500 | $71 564.40
-[Division 2 inserted: SL 2024/58 r. 25.]
+1 | $283.00
+2 to 5 | $531.80
+6 to 15 | $1 561.30
+16 to 30 | $3 111.10
+31 to 50 | $5 091.00
+51 to 90 | $8 371.80
+91 to 150 | $13 915.20
+151 to 250 | $22 626.00
+251 to 500 | $37 333.00
+More than 500 | $73 532.50
+[Division 2 inserted: SL 2025/65 r. 18.]
 ## Division 3 — Authorisation fee for passenger transport driver authorisation
 [Heading inserted: SL 2023/45 r. 45.]
 The authorisation fee for a passenger transport driver authorisation is $99.00.
