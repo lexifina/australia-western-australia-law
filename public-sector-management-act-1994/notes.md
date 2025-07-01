@@ -115,6 +115,7 @@ Arts and Culture Trust Act 2021 s. 76 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (se
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 15 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 4 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Keystart Act 2024 Pt. 8 Div. 5 (other than s. 68) | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
+Public Sector Management (Act Amendment) Regulations 2025 (SL 2025/121) | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
