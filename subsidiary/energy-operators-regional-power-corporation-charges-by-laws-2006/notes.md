@@ -28,13 +28,17 @@ Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2021 |
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2022 | SL 2022/71 3 Jun 2022 | bl. 1 and 2: 3 Jun 2022 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2022 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2023 | SL 2022/84 27 Jun 2023 | bl. 1 and 2: 27 Jun 2023 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2023 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2024 | SL 2024/103 14 Jun 2024 | bl. 1 and 2: 14 Jun 2024 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2024 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2025 | SL 2025/123 26 Jun 2025 | bl. 1 and 2: 26 Jun 2025 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2025 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Centrelink9(1)
 corporation3
 dwelling3
+eligible individual9(1)
 Esperance networkSch. 1 cl. 7(1)
 exceeds the applicable peak allowanceSch. 1 cl. 7(2)
+gold card9(1)
 government consumer4(1A)
 interest period12(1)
 MyPower non-residential tariffSch. 1 cl. 9(1)
@@ -54,7 +58,7 @@ residential tariff3
 South West interconnected system4(1A)
 Tariff3
 unit3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
