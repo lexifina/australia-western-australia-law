@@ -3,11 +3,11 @@ This is a compilation of the Veterinary Practice Regulations 2022 and includes a
 Compilation table
 Citation | Published | Commencement
 Veterinary Practice Regulations 2022 | SL 2022/84 17 Jun 2022 | 18 Jun 2022 (see r. 2 and SL 2022/81 cl. 2)
-Veterinary Practice Amendment Regulations 2025 (other than r. 24 and 31) | SL 2025/92 11 Jun 2025 | r. 1 and 2: 11 Jun 2025 (see r. 2(a)); Regulations other than r. 1, 2, 24 and 31: 12 Jun 2025 (see r. 2(d))
+Veterinary Practice Amendment Regulations 2025 (other than r. 24) | SL 2025/92 11 Jun 2025 | r. 1 and 2: 11 Jun 2025 (see r. 2(a)); Regulations other than r. 1, 2, 24 and 31: 12 Jun 2025 (see r. 2(d)); r. 31: 1 Jul 2025 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Veterinary Practice Amendment Regulations 2025 r. 24 and 31 | SL 2025/92 11 Jun 2025 | r. 31: 1 Jul 2025 (see r. 2(b)); r. 24: 11 Dec 2025 (see r. 2(c))
+Veterinary Practice Amendment Regulations 2025 r. 24 | SL 2025/92 11 Jun 2025 | 11 Dec 2025 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
