@@ -13,6 +13,7 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 33 | 26 of 2016 | 21 
 Aboriginal Cultural Heritage Act 2021 s. 353 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 34 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 State Records Act 2000 with editorial changes as at 16 Jan 2025
+Information Commissioner Act 2024 Pt. 7 Div. 6 | 52 of 2024 | 6 Dec 2024 | 1 Jul 2025 (see s. 2(1)(d) and SL 2025/102 cl. 2(a))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
@@ -25,7 +26,6 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 230(3) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
-Information Commissioner Act 2024 Pt. 7 Div. 6 | 52 of 2024 | 6 Dec 2024 | Operative on commencement of the Privacy and Responsible Information Sharing Act 2024 Pt. 2 Div. 12 (see s. 2(1)(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
