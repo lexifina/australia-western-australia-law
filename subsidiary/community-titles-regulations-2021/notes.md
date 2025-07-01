@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Community Titles Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Community Titles Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Community Titles Regulations 2021 | SL 2021/70 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
@@ -11,9 +11,6 @@ Community Titles Amendment Regulations (No. 2) 2023 | SL 2023/171 1 Nov 2023 | r
 Lands Regulations (Community and Strata Titles) Amendment Regulations 2024 Pt. 2 | SL 2024/50 17 Apr 2024 | 18 Apr 2024 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/83 29 May 2024 | 1 Jul 2024 (see r. 2(b))
 Lands Regulations (Community and Strata Titles) Amendment Regulations (No. 3) 2024 Pt. 2 | SL 2024/209 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Lands Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/85 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
