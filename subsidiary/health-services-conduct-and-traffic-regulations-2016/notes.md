@@ -16,6 +16,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024
 Health Services (Conduct and Traffic) Amendment Regulations 2024 | SL 2024/281 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2024 (see r. 2(b))
 Health Regulations Amendment (Firearms) Regulations 2024 Pt. 2 | SL 2024/297 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Health Services (Conduct and Traffic) Amendment Regulations 2025 | SL 2025/1 8 Jan 2025 | r. 1 and 2: 8 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2025 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

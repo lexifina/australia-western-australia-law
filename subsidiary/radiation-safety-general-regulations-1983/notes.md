@@ -70,6 +70,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 9 | SL 2022
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 9 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 9 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Health Regulations Amendment (Firearms) Regulations 2024 Pt. 3 | SL 2024/297 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
+Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 9 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
