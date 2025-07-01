@@ -19,7 +19,7 @@ Explosives and Dangerous Goods Act 1961 s. 54A(6)
 Family Court Act 1997 s. 243(6)
 Fire Brigades Act 1942 s. 33A(12), 59
 Fish Resources Management Act 1994 s. 49, 171(1), 196(1)
-Freedom of Information Act 1992 s. 82(2), 83, 109, 110
+Freedom of Information Act 1992 s. 83, 109, 110
 Fuel, Energy and Power Resources Act 1972 s. 49(3)
 Gaming and Wagering Commission Act 1987 s. 20(3), 35, 42(4), 45(3), 45(4), 58(4)
 Government Railways Act 1904 s. 34(1), 45, 51(2)
@@ -28,12 +28,14 @@ Growers Charge Act 1940 s. 6
 Guardianship and Administration Act 1990 s. 49(4), 113(1), Sch. 1 Part B cl. 12(6)
 Health (Miscellaneous Provisions) Act 1911 s. 360(1)(e), 360(1)(f)
 Housing Societies Act 1976 s. 29D(9), 79(a)
+Information Commissioner Act 2024 s. 33(1)
 Juries Act 1957 s. 56B(1), 56C(1), 56D(1)
 Local Government (Miscellaneous Provisions) Act 1960 s. 474(7), 482(3)
 Mental Health Act 2014 s. 342(1), 468(10), 471(2), 576(2)
 Nuclear Activities Regulation Act 1978 s. 9(7)
 Police Act 1892 s. 16A(1), 31, 54, 54A(3), 59, 65, 66, 76F(3)(a), 82B(1), 82B(3), 97, 107, 124, 125, 128
 Prisons Act 1981 s. 49(2)
+Privacy and Responsible Information Sharing Act 2024 s. 208(2), 215
 Prostitution Act 2000 s. 12 (first offence), 19(1)
 Real Estate and Business Agents Act 1978 s. 64(1), 64(2)
 Referendums Act 1983 s. 45(1), 48(2), 48(3)

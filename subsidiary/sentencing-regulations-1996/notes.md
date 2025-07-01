@@ -38,6 +38,7 @@ Attorney General Regulations Amendment (Sunday Entertainments) Regulations 2021 
 Sentencing Amendment Regulations 2024 | SL 2024/129 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Family Violence Reform) Regulations 2024 Pt. 4 | SL 2024/252 11 Dec 2024 | 18 Dec 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Births, Deaths and Marriages) Regulations 2025 Pt. 3 | SL 2025/82 28 May 2025 | 30 May 2025 (see r. 2(b))
+Attorney General Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/117 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Footnote no longer required.
 The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
