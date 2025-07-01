@@ -8,7 +8,7 @@ Column 1 Item | Column 2 Provision of Act | Column 3 Amount of prescribed fee ($
 4. | s. 38A(2)(e) | 8 320.00
 5. | s. 38CA(2)(d) | 8 320.00
 6. | s. 38F(2)(d) | 8 320.00
-7. | s. 41(1)(e) | 8 740.00
+7. | s. 41(1)(e) | 8 950.00
 8. | s. 48(1)(a) | 8 740.00
 9. | s. 51(2)(e) | 8 740.00
 10. | s. 54(2)(d) | 8 320.00
@@ -16,10 +16,10 @@ Column 1 Item | Column 2 Provision of Act | Column 3 Amount of prescribed fee ($
 12. | s. 60J(2)(d) | 7 550.00
 13. | s. 64(1)(f) | 8 740.00
 14. | s. 71(2)(e) | 8 740.00
-15. | s. 79(2) | 163.00
+15. | s. 79(2) | 167.00
 16. | s. 79(3)(b) | 156.00
 17. | s. 86(1) | 149.00
 18. | s. 87(3) | 142.00
 19. | s. 111(2)(d) | 8 740.00
-20. | s. 141 | 228.00
-[Schedule 1 inserted: SL 2024/97 r. 25.]
+20. | s. 141 | 233.00
+[Schedule 1 inserted: SL 2024/97 r. 25; amended: SL 2025/90 r. 26.]
