@@ -46,12 +46,12 @@ Animal Resources Authority Amendment and Repeal Act 2022 s. 16 | 12 of 2022 | 14
 Soil and Land Conservation Amendment Act 2022 s. 21 | 19 of 2022 | 24 Jun 2022 | 25 Jun 2022 (see s. 2(b))
 Financial Management (Statutory Authorities) Regulations 2022 (SL 2022/169) | r. 1 and 2: 21 Oct 2022 (see r. 2(b)); Regulations other than r. 1 and 2: 22 Oct 2022 (see r. 2(b))
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 2 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Information Commissioner Act 2024 Pt. 7 Div. 3 | 52 of 2024 | 6 Dec 2024 | 1 Jul 2025 (see s. 2(1)(d) and SL 2025/102 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 149 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Keystart Act 2024 Pt. 8 Div. 2 | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
-Information Commissioner Act 2024 Pt. 7 Div. 3 | 52 of 2024 | 6 Dec 2024 | Operative on commencement of the Privacy and Responsible Information Sharing Act 2024 Pt. 2 Div. 12 (see s. 2(1)(d))
 Other notes
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
@@ -130,7 +130,7 @@ Treasurer’s instructions3
 Treasury3
 Treasury Corporation official73
 Under Treasurer3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

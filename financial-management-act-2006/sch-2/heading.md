@@ -1,16 +1,19 @@
-## Schedule 2 — Modifications to the Act as to certain administrations
+## Schedule 2 — Modifications to the Act as to certain administrations and the Office of the Information Commissioner
 [s. 5(2)]
+[Heading inserted: No. 52 of 2024 s. 52.]
 The provisions of the Act specified in column 1 are modified and have effect for the purposes of section 5(2) as if they were in the form set out opposite in column 2.
 Column 1 | Column 2
 Section | Modified form
 21 | 21.(1)The Treasurer may direct that a special purpose account operated by an agency, other than a special purpose account established by an Act, be closed.
 48 | 48.(4)The accountable authority of an agency may, with the prior approval of the Treasurer, write off relevant amounts that are greater than the monetary limit prescribed for the purposes of subsection (2), subject to any conditions prescribed by the regulations.
 52 | 52.The accountable authority of an agency is responsible for the financial management of the services under the control of the agency.
-54 | 54.(1)The accountable authority of the agency taken to be constituted under section 5(1) by the administration of —
- | (a)the Legislative Council is the Clerk of the Legislative Council; or (b)the Legislative Assembly is the Clerk of the Legislative Assembly; or
- | (c)the Parliamentary Services Department is the Executive Manager (however designated) of the Parliamentary Services Department; or
- | (d)the Parliamentary Commissioner for Administrative Investigations is the chief executive officer of the department of the Public Service principally assisting in the administration of the Parliamentary Commissioner Act 1971; or (e)the Information Commissioner is the chief executive officer of the department of the Public Service principally assisting in the administration of the Freedom of Information Act 1992,
- | and the accountable authority of an agency taken to be constituted under section 5(1) by the administration of a body or office that is the subject of regulations referred to in that provision is the person appointed, in writing, by the Treasurer to be the accountable authority of that agency.
+54 | 54.(1)The accountable authority of —
+ | (a)the agency taken to be constituted under section 5(1) by the administration of the Legislative Council is the Clerk of the Legislative Council; or
+ | (b)the agency taken to be constituted under section 5(1) by the administration of the Legislative Assembly is the Clerk of the Legislative Assembly; or
+ | (c)the agency taken to be constituted under section 5(1) by the administration of the Parliamentary Services Department is the Executive Manager (however designated) of the Parliamentary Services Department; or
+ | (d)the agency taken to be constituted under section 5(1) by the administration of the Parliamentary Commissioner for Administrative Investigations is the chief executive officer of the department of the Public Service principally assisting in the administration of the Parliamentary Commissioner Act 1971; or
+ | (e)an agency taken to be constituted under section 5(1) by the administration of a body or office that is the subject of regulations referred to in that provision is the person appointed, in writing, by the Treasurer to be the accountable authority of that agency; or
+ | (f)a department of the Public Service known as the Office of the Information Commissioner is the Information Commissioner appointed under the Information Commissioner Act 2024.
 61 | 61.(1)After the end of each financial year the accountable authority of an agency is to prepare an annual report that contains —
  | (a)financial statements for the financial year; and (b)unless otherwise directed in writing by the Treasurer, key performance indicators; and
  | (c)a report on the operations of the agency during the financial year; and
@@ -27,4 +30,4 @@ Section | Modified form
  | (b)the reasons for that inability; and (c)the anticipated date on which those documents will be transmitted.
  | 65.(2)If the accountable authority of an agency is not able to comply with subsection (1) in respect of a House of Parliament because that House is not then sitting, the accountable authority is to inform that House as required by that subsection as soon as is practicable after the expiry of the prescribed period.
 For the purposes of section 5(2), section 43(2) does not have effect.
-[Schedule 2 amended: No. 12 of 2021 s. 18.]
+[Schedule 2 amended: No. 12 of 2021 s. 18; No. 52 of 2024 s. 53.]

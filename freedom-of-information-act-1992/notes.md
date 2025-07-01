@@ -57,16 +57,14 @@ Health and Disability Services (Complaints) Amendment Act 2022 s. 44 | 35 of 202
 Charitable Trusts Act 2022 s. 58 | 38 of 2022 | 1 Nov 2022 | 21 Nov 2022 (see s. 2(b) and SL 2022/194 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 s. 410 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Abortion Legislation Reform Act 2023 Pt. 4 Div. 4 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
+Information Commissioner Act 2024 Pt. 7 Div. 4 | 52 of 2024 | 6 Dec 2024 | 1 Jul 2025 (see s. 2(1)(c)(i) and (d) and SL 2025/102 cl. 2(a))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Privacy and Responsible Information Sharing Act 2024 Pt. 6 Div. 2 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
-Information Commissioner Act 2024 Pt. 7 Div. 4 | 52 of 2024 | 6 Dec 2024 | Pt. 7 Div. 4 Subdiv. 1: operative on commencement of the Privacy and Responsible Information Sharing Act 2024 Pt. 2 Div. 12 (see s. 2(1)(d)); Pt. 7 Div. 4 Subdiv. 2: immediately after s. 59 comes into operation (see s. 2(1)(c)(i))
 Other notes
-Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Acts Amendment (Ministry of Justice) Act 1993 s. 68 is a savings provision that is of no further effect.
@@ -74,48 +72,50 @@ The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by 
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-access applicantGl.
-access regulation functionsGl.
-agency99(3), Gl.
-applicantGl.
-applicant for amendmentGl.
-arbitratorGl.
-AuthorityGl.
-BoardGl.
+access applicantGl. cl. 1
+access regulation functionsGl. cl. 7A(1)
+agency99(3), Gl. cl. 1
+applicantGl. cl. 1
+applicant for amendmentGl. cl. 1
+arbitratorGl. cl. 7A(1)
+AuthorityGl. cl. 7A(1)
+BoardGl. cl. 7A(1)
+Commissioner of Police reportSch. 1 cl. 5(5)
 Commonwealth intelligence or security agencySch. 1 cl. 5(5)
-confidential information82(1)
-contractorGl.
+contractorGl. cl. 1
 contraventionSch. 1 cl. 5(5)
-Corrective ServicesGl.
-courtGl.
-documentGl.
-edited copyGl.
+Corrective ServicesGl. cl. 1
+courtGl. cl. 1
+documentGl. cl. 1
+edited copyGl. cl. 1
 Executive bodySch. 1 cl. 1(6)
-exempt agencyGl.
-exempt documentGl.
-exempt matterGl.
-exemption certificateGl.
+exempt agencyGl. cl. 1
+exempt documentGl. cl. 1
+exemption certificateGl. cl. 1
+exempt matterGl. cl. 1
+freedom of information functions97B(1), Gl. cl. 1
 Gold CorporationSch. 1 cl. 15(2)
+Information Access Deputy CommissionerGl. cl. 1
+Information CommissionerGl. cl. 1
 information statement94
 internal manual95
 lawSch. 1 cl. 5(5)
-misbehaviour58(2)
-officerGl.
+member of Commissioner staffGl. cl. 1
+officerGl. cl. 1
 other governmentSch. 1 cl. 2(3)
 permitted period13(3)
 person45(1)
-personal informationGl.
-principal officerGl.
-public body or officeGl.
-recordGl.
-relativeGl.
-relevant office62(1)
-requested documentsGl.
+personal informationGl. cl. 1
+principal officerGl. cl. 1
+public body or officeGl. cl. 1
+recordGl. cl. 1
+relativeGl. cl. 1
+requested documentsGl. cl. 1
 review proceedings88
-State archiveGl.
-subcontractorGl.
-third party32(1), 33(1), Gl.
-© State of Western Australia 2024.
+State archiveGl. cl. 1
+subcontractorGl. cl. 1
+third party32(1), 33(1), Gl. cl. 1
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
