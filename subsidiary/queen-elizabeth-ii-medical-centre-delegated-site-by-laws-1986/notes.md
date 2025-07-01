@@ -36,6 +36,7 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2023 | SL 2
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2024 | SL 2024/141 27 Jun 2024 | bl. 1 and 2: 27 Jun 2024 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2024 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 3) 2024 | SL 2024/248 5 Dec 2024 | bl. 1 and 2: 5 Dec 2024 (see bl. 2(a)); By-laws other than bl. 1 and 2: 20 Dec 2024 (see bl. 2(b) and SL 2024/277 cl. 2)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2025 | SL 2025/39 27 Feb 2025 | bl. 1 and 2: 27 Feb 2025 (see bl. 2(a)); By-laws other than bl. 1 and 2: 31 Mar 2025 (see bl. 2(b) and SL 2024/289 cl. 2)
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2025 | SL 2025/127 30 Jun 2025 | bl. 1 and 2: 30 Jun 2025 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2025 (see bl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
