@@ -39,6 +39,7 @@ Salaries and Allowances Amendment Regulations 2015 | 29 Dec 2015 p. 5181 | r. 1 
 Salaries and Allowances Amendment Regulations 2018 | 6 Jul 2018 p. 2538-42 | r. 1 and 2: 6 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2018 (see r. 2(b))
 Salaries and Allowances Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2864-5 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
 Salaries and Allowances Amendment Regulations 2022 | SL 2022/22 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Salaries and Allowances Amendment Regulations 2025 | SL 2025/112 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 Repealed by the Financial Legislation Amendment and Repeal Act 2006.
@@ -57,3 +58,7 @@ pre-commencement determination5(1)
 report6(1)
 section2
 taxation ruling2
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
