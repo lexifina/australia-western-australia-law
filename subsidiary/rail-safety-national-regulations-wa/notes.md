@@ -6,6 +6,7 @@ Citation | Published | Commencement
 Rail Safety National Regulations (WA) |  | 1 Oct 2024 (see r. 2 and SL 2024/193 cl. 2 and WA Act No. 7 of 2024 s. 12)
 Rail Safety National Law National Regulations (Fees) Amendment Regulations 2024 | SL 2024/207 14 Oct 2024 | 1 Oct 2024 (see r. 2 and Act No. 2024/007 s. 2(b), 15(3) and SL 2024/193 cl. 2)
 Rail Safety National Law National Regulations (Drug and Alcohol Testing) Amendment Regulations 2024 | SL 2024/303 23 Dec 2024 | 2 Jan 2025 (see note to r. 2)
+Rail Safety National Law National Regulations (Fees) Amendment Regulations 2025 | SL 2025/129 1 Jul 2025 | 1 Jul 2025 (see r. 2)
 Other notes
 As at 1 October 2024, when the Rail Safety National Regulations began to apply as a law of Western Australia, the version of the Rail Safety National Regulations that applied under the WA Application Act section 12 was the regulations set out in the Rail Safety National Law National Regulations 2012 (South Australia) as in force on 1 July 2024.
 The version of the Rail Safety National Regulations as in force on 1 July 2024 includes amendments made by the Rail Safety National Law National Regulations (Fees) Amendment Regulations 2024 which was published on the WA legislation website as if those amendments commenced on 1 October 2024. See the WA Application Act section 15(3).
