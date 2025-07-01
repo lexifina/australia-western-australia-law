@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
@@ -97,9 +97,6 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 16 | SL 2
 Commerce Regulations Amendment (Property Licensing) Regulations 2023 Pt. 3 | SL 2023/131 9 Aug 2023 | 10 Aug 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 15 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Real Estate and Business Agents (General) Amendment Regulations 2024 | SL 2024/152 24 Jul 2024 | r. 1 and 2: 24 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 16 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.

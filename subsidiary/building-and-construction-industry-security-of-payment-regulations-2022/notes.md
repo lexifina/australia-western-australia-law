@@ -1,13 +1,10 @@
 Notes
-This is a compilation of the Building and Construction Industry (Security of Payment) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Building and Construction Industry (Security of Payment) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Building and Construction Industry (Security of Payment) Regulations 2022 | SL 2022/85 17 Jun 2022 | Regulations other than r. 10 and Pt. 4: 1 Aug 2022 (see r. 2(c)); Pt. 4: 1 Feb 2023 (see r. 2(b)); r. 10: 1 Feb 2024 (see r. 2(a))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

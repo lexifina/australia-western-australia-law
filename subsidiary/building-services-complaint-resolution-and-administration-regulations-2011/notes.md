@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Services (Complaint Resolution and Administration) Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Building Services (Complaint Resolution and Administration) Regulations 2011 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Building Services (Complaint Resolution and Administration) Regulations 2011 | 26 Aug 2011 p. 3453-71 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Pt. 3 Div. 1 and 3: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475); r. 3, 4, Pt. 2 (other than r. 7(a)) and Pt. 4: 29 Aug 2011 (see r. 2(d) and Gazette 26 Aug 2011 p. 3475); r. 7(a) and Pt. 3 Div. 2: 2 Apr 2012 (see r. 2(c) and Gazette 13 Mar 2012 p. 1033)
@@ -22,9 +22,6 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 4 | SL 20
 Commerce Regulations Amendment (Building Services) Regulations 2023 Pt. 3 | SL 2023/64 2 Jun 2023 | 1 Jul 2024 (see r. 2(b))
 Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 3 | SL 2024/12 9 Feb 2024 | 10 Feb 2024 (see r. 2(d))
 Commerce Regulations Amendment (Building Services) Regulations 2024 Pt. 2 | SL 2024/255 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Section 374 was deleted by the Building Act 2011 s. 153(2).
