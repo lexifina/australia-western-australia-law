@@ -100,12 +100,12 @@ Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 5 | 36 of 2020 | 10 Nov 20
 Police Amendment (Compensation Scheme) Act 2021 Pt. 3 | 26 of 2021 | 13 Dec 2021 | 1 Jan 2022 (see s. 2(b) and SL 2021/222 cl. 2)
 Industrial Relations Legislation Amendment Act 2021 Pt. 2 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and (2) and SL 2022/79 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 9 and s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(b)(i) and (c) and SL 2022/113 cl. 2)
-Industrial Relations Legislation Amendment Act 2024 Pt. 2 (other than Div. 3) | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
+Industrial Relations Legislation Amendment Act 2024 Pt. 2 (other than s. 100-103) | 43 of 2024 | 13 Nov 2024 | s. 3-92: 31 Jan 2025 (see s. 2(c)); s. 93-99 and 104: 1 Jul 2025 (see s. 2(b) and SL 2025/97 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Industrial Relations Legislation Amendment Act 2024 Pt. 2 Div. 3 | 43 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(b))
+Industrial Relations Legislation Amendment Act 2024 s. 100-103 | 43 of 2024 | 13 Nov 2024 | 1 Sep 2026 (see s. 2(b) and SL 2026/154 cl. 2)
 Other notes
 Footnote no longer applicable.
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 (Cwlth). Now see the Fisheries Management Act 1991 s. 4(1) (Cwlth).
@@ -138,6 +138,7 @@ Defined terms
 Defined termProvision(s)
 adopting provision71A(2)
 affected person23B(1)
+agency resolution period36AJ, 129(1)
 aggrieved person51BT(1), 51BX(1), 51BZ(1), 51BZC(1)
 alteration7(1)
 alternative remedy51Q(1)
@@ -164,6 +165,7 @@ bargaining in good faith42B(2)
 Board125(1)
 Board of Reference121(1)
 breach103(3)
+breach of public sector standards claim7(1), 36AJ
 bullied51BF, 51BI(1)
 bullying7(1)
 business premises98(3)
@@ -177,7 +179,7 @@ civil infringement notice84B, 84C(2)
 civil infringement notice penalty84B, 84C(2)
 civil penalty provision7(1)
 collegiate electoral system52
-commencement day20(8b), 117(1), 118, Sch. 6 cl. 1
+commencement day20(8b), 117(1), 118, 129(1), Sch. 6 cl. 1
 Commission7(1), 16(1), 42C(6), 49(1), 50(1), 97VW, Sch. 6 cl. 5(1)
 commissioner7(1)
 Commission in Court Session7(1)
@@ -267,6 +269,7 @@ group training organisation7(1)
 guardianship order97WS(4)
 habitation premises49K(1)
 health services employee7(1)
+human resource management activity36AI
 in connection with work7(1), 51BR(2)
 industrial action7(1)
 industrial agreement7(1)
@@ -319,7 +322,7 @@ original dispute97WK(1)
 original term56A(4)
 outworker51BH(1A)
 particular allegation51BZD(1)
-party38(1b), 91(2), 97U(1), 97VB(5), Sch. 4 cl. 1(3)
+party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(3)
 peak industrial body97VZ(3)
 person51BF, 51BR(1)
 person with a mental disability97WR
@@ -331,6 +334,7 @@ pre-commencement behaviour123(1)
 premises7(1)
 prescribed amount29AA(5)
 prescribed period40C, 42A(1)
+prescribed procedures129(1)
 presiding commissioner7(1)
 presiding judge7(1)
 principal7(6), 51BS(1), 83EA(6)
@@ -345,7 +349,8 @@ Public Advocate97WR
 public authority7(1)
 public hospital7(1)
 public sector award7(1)
-public sector body7(1)
+public sector body7(1), 36AI
+Public Sector Commissioner129(1)
 public sector decision26(2B)
 public sector entity26(2B)
 Public Sector Wages Policy Statement 26(2B)
@@ -390,6 +395,7 @@ sexual harassment proceeding51BF
 sexual harassment referral51BF, 51BT(1)
 sexually harasses7(1), 51BQ(1)
 specified51A(3)
+specified public sector standard36AI
 statement of principles51O(1)
 State organisation52
 State rules71A(2)
@@ -404,6 +410,7 @@ supported wage industrial instrument provision7(1)
 Supported Wage System7(1)
 SWIIP7(1)
 SWS7(1)
+taking action36AI
 teacher36AB(3)
 terms80B
 third party23B(1), 97C(1)
@@ -420,4 +427,4 @@ work health and safety law49G(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ANDREW JONES, Government Printer
