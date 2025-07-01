@@ -21,6 +21,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Health (Pesticides) Amendment Regulations 2025 | SL 2025/44 19 Mar 2025 | r. 1 and 2: 19 Mar 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Mar 2025 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2024/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
