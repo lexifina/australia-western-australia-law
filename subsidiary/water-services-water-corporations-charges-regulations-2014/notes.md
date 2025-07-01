@@ -25,6 +25,7 @@ Water Services (Water Corporations Charges) Amendment Regulations 2022 | SL 2022
 Water Services Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 2 | SL 2022/82 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
 Water Services Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 2 | SL 2023/66 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Water Services Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/117 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Water Services Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2025/101 25 Jun 2024 | 1 Jul 2025 (see r. 2(b))
 Other notes
 The Country Town Sewage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) on 18 Nov 2013.
 The Water Agencies (Charges) By-laws 1987 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) on 1 Jul 2014.
@@ -102,7 +103,7 @@ trade waste charge19(1)
 vacant land3(1)
 water deficiency declaration36A(1)
 water supply charge16(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
