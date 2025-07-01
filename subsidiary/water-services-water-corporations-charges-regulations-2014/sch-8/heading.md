@@ -1,7 +1,7 @@
 ## Schedule 8 — Government trading organisations
 [r. 16(1)]
 Government trading organisations
-[1-2.deleted]
+[1, 2.deleted]
 2A.Arts and Culture Trust established under the Arts and Culture Trust Act 2021 section 7.
 3.Electricity Generation and Retail Corporation established under the Electricity Corporations Act 2005 section 4.
 4.Electricity Networks Corporation established under the Electricity Corporations Act 2005 section 4.
