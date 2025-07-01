@@ -15,6 +15,7 @@ Planning and Development (Development Assessment Panels) Amendment Regulations 2
 Planning and Development (Development Assessment Panels) Amendment Regulations (No. 2) 2022 | SL 2022/89 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2022 (see r. 2(b))
 Planning and Development (Development Assessment Panels) Amendment Regulations (No. 2) 2023 | SL 2023/72 16 Jun 2023 | r. 1 and 2: 16 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Planning and Development (Development Assessment Panels) Amendment Regulations 2024 | SL 2024/27 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2024 (see r. 2(b))
+Planning and Development (Development Assessment Panels) Amendment Regulations 2025 | SL 2025/109 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -73,7 +74,7 @@ sessional specialist DAP member3(1)
 single house3(2)
 specialist DAP member3(1)
 substantially commenced16A(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
