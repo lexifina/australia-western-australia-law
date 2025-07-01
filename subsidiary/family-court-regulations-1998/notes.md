@@ -25,6 +25,7 @@ Family Court Amendment Regulations 2023 | SL 2023/88 30 Jun 2023 | r. 1 and 2: 3
 Family Court Amendment Regulations 2024 | SL 2024/140 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Family Court Amendment Regulations 2025 | SL 2025/16 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Feb 2025 (see r. 2(b))
 Family Court Amendment Regulations (No. 2) 2025 | SL 2025/63 30 Apr 2025 | r. 1 and 2: 30 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2025 (see r. 2(b))
+Family Court Amendment Regulations (No. 3) 2025 | SL 2025/99 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
