@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Pawnbrokers and Second-hand Dealers Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Pawnbrokers and Second-hand Dealers Regulations 1996 | 29 Mar 1996 p. 1557-76 | 1 Apr 1996 (see r. 2)
@@ -48,9 +48,6 @@ Police Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022
 Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/74 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/94 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2024 | SL 2024/127 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Police Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/86 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
