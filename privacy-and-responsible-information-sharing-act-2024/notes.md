@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Privacy and Responsible Information Sharing Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Privacy and Responsible Information Sharing Act 2024 Pt. 1 and 7 | 51 of 2024 | 6 Dec 2024 | Pt. 1 and 7: 6 Dec 2024 (see s. 2(a) and (b)(i))
+Privacy and Responsible Information Sharing Act 2024 Pt. 1, Pt. 2 Div. 12, Pt. 3 Div. 8, Pt. 4, Pt. 5 and Pt. 7 | 51 of 2024 | 6 Dec 2024 | Pt. 1 and 7: 6 Dec 2024 (see s. 2(a) and (b)(i)); Pt. 2 Div. 12, Pt. 3 Div. 8, Pt. 4 and 5: 1 Jul 2025 (see s. 2(c) and SL 2025/102 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Privacy and Responsible Information Sharing Act 2024 (other than Pt. 1 and 7) | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
+Privacy and Responsible Information Sharing Act 2024 Pt. 2 (other than Div. 12), Pt. 3 (other than Div. 8), Pt. 6 and Sch. 1 and 2 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -29,6 +29,7 @@ Chief Data Officer guidelines4
 child4
 child protection functions4
 collect4
+commencement day223(1), 224(1), 225(1), 226(1), 227(1), 228(1)
 community policing functions4
 compliance notice4
 conciliator4
@@ -93,7 +94,7 @@ principal officer4, 9(1), (2) and (3)
 privacy code of practice4
 privacy complaint4
 Privacy Deputy Commissioner4
-privacy functions4
+privacy functions4, 142(1)
 privacy guidelines4
 privacy impact assessment4
 Privacy Minister4
@@ -106,6 +107,8 @@ public register4
 recipient4
 re-identify4, 11(3)
 relevant activity4
+relevant Minister220(1)
+relevant official208(1), 218(1)
 requesting entity4
 respondent4
 responsible Minister4
@@ -120,11 +123,14 @@ shared information4
 shared information breach4
 significant decision4
 special information sharing entity4
+specified229(1)
+state of mind217(1)
 State services contract4, 8(1)
 temporary public interest determination4
+transitional matter229(1)
 unique identifier4
 variation agreement4
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
