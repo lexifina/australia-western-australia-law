@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Enterprises (Commonwealth Tax Equivalents) (Application) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the State Enterprises (Commonwealth Tax Equivalents) (Application) Regulations 1997 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 State Enterprises (Commonwealth Tax Equivalents) (Application) Regulations 1997 | 6 Jun 1997 p. 2645-6 | 7 Jun 1997 (see r. 2 and Gazette 6 Jun 1997 p. 2615)
@@ -19,16 +19,13 @@ State Enterprises (Commonwealth Tax Equivalents) (Application) Amendment Regulat
 Reprint 2: The State Enterprises (Commonwealth Tax Equivalents) (Application) Regulations 1997 as at 22 Aug 2014 (includes amendments listed above)
 State Enterprises (Commonwealth Tax Equivalents) (Application) Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3343-4 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2014 (see r. 2(b)(i))
 State Enterprises (Commonwealth Tax Equivalents) (Application) Amendment Regulations 2022 | SL 2022/69 3 Jun 2022 | r. 1 and 2: 3 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jun 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Citation | Published | Commencement
-Keystart Act 2024 Pt. 8 Div. 6 assented to 13 Nov 2024 | 2 Jul 2025 (see s.2(c) and SL 2025/87 cl. 2(b))
+Keystart Act 2024 Pt. 8 Div. 6 assented to 13 Nov 2024 | 2 Jul 2025 (see s. 2(c) and SL 2025/87 cl. 2(b))
 Other notes
 Came into operation on 1 Jan 2007.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Came into operation on 18 Nov 2013.
 Now known as the Water Corporations Act 1995.
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
