@@ -53,6 +53,7 @@ Western Australian Meat Industry Authority Amendment Regulations 2021 | SL 2021/
 Western Australian Meat Industry Authority Amendment Regulations 2022 | SL 2022/21 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Western Australian Meat Industry Authority Amendment Regulations 2023 | SL 2023/4 27 Jan 2023 | r. 1 and 2: 27 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jan 2023 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2023 | SL 2023/185 29 Nov 2023 | r. 1 and 2: 29 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2023 (see r. 2(b))
+Western Australian Meat Industry Authority Amendment Regulations 2025 | SL 2025/132 9 Jul 2025 | r. 1 and 2: 9 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2025 (see r. 2(b))
 Other notes
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
@@ -84,7 +85,7 @@ sign25
 stand25
 stock agent3(1), 25
 throughput feeSch. 6 cl. 1
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
