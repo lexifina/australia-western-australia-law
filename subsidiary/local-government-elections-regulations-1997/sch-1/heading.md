@@ -179,36 +179,31 @@ Withdrawing your nomination | You may withdraw your nomination by giving written
 [Form 9 amended: Gazette 21 Jan 2005 p. 267 and 268; 18 Mar 2005 p. 977; 21 Dec 2012 p. 6644; 18 Jan 2019 p. 111; 9 Aug 2019 p. 3021-2; SL 2021/141 r. 7; SL 2023/102 r. 51; SL 2025/7 r. 23(3) and (4).]
 Local Government Act 1995
 Local Government (Elections) Regulations 1997
-[s. 4.59]
-[r. 30D]
-Form 9A
-DISCLOSURE OF GIFTS
-Details of person making disclosure
-Candidate ⁯ Donor ⁯ [Tick one box]
-Surname . . . . . . . . . . . . . . . . . . . . . . . Other names . . . . . . . . . . . . . . . . . . . . .
-Details of candidate
-Surname . . . . . . . . . . . . . . . . . . . . . . . Other names . . . . . . . . . . . . . . . . . . . . .
-Details of person making the gift
-Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Details of person on whose behalf the gift is made (if other than the person making the gift)
-Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[s. 4.59 and r. 30D]
+Form 9A.Disclosure of Gifts
+Details of candidate making disclosure
+Surname . . . . . . . . . . . . . . . . . . . . Other names . . . . . . . . . . . . . . . . . .
+Details of person making or promising the gift
+Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Details of person on whose behalf the gift is made or promised (if other than the person making or promising the gift)
+Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Details of the gift (value of which is $300 or more, or which is one of 2 or more gifts with a total value of $300 or more)
-Date gift promised, received or made . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Value of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Description of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Candidates only — IF YOU ARE UNABLE TO PROVIDE THE INFORMATION REQUIRED BY THIS FORM, SET OUT THE REASONS FOR NOT PROVIDING IT IN THE SPACE BELOW.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Person making disclosure to complete and sign the declaration below
+Date gift promised or received . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Value of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Description of gift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+IF YOU ARE UNABLE TO PROVIDE THE INFORMATION REQUIRED BY THIS FORM, SET OUT THE REASONS FOR NOT PROVIDING IT IN THE SPACE BELOW.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Candidate making disclosure to complete and sign the declaration below
 I . . . . . . . . . . . . . . . . . . . . . . . . . declare that all information and details provided are true and correct, and no known, relevant information is omitted.
-Signature . . . . . . . . . . . . . . . . . . . . . . . . Date . . . . . . . . . . . . . . . . . . . . . . . . .
-[Form 9A inserted: Gazette 14 Aug 2009 p. 3219-20; amended: SL 2023/102 r. 52.]
+Signature . . . . . . . . . . . . . . . . . . . . . . . Date . . . . . . . . . . . . . . . . . . . . .
+[Form 9A inserted: SL 2025/141 r. 21.]
 Form 10.Ballot Paper
 BALLOT PAPER
 Election of __________________________

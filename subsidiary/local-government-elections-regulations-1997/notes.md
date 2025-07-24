@@ -24,6 +24,7 @@ Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 4 | SL 2023/
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 4 | SL 2023/158 18 Oct 2023 | Pt. 4 Div. 1: 19 Oct 2023 (see r. 2(c)); Pt. 4 Div. 2: 1 Jan 2024 (see r. 2(b))
 Local Government (Elections) Amendment Regulations 2024 | SL 2024/128 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2025 Pt. 4 | SL 2025/7 22 Jan 2025 | 1 Feb 2025 (see r. 2(b))
+Local Government (Elections) Amendment Regulations 2025 | SL 2025/141 23 Jul 2025 | r. 1 and 2: 23 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jul 2025 (see r. 2(b))
 Other notes
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 3.Application
@@ -48,8 +49,8 @@ councillor election3
 declaration envelope54(3)
 destroy82(5)
 donor30A(1)
-election92B(1)
-election day92B(1)
+election92B(1) , 92I(1)
+election day92B(1), 92I(1)
 election package3
 election papers3
 elector67(1)
@@ -64,14 +65,19 @@ first-preference vote3
 floor area10A(1)
 Form3
 form4(1A)
+full re-count75U(1), 75V(1)
 gift30A(1)
 notification13A(3)
 officer3
+one office election75U(1)
+original count75U(1), 75V(2)
 original extension87I(2)
 owners and occupiers register3
 polling day73(2)
 portion of rateable property3
+postal election3
 postal voters register3, 40(1)
+pre-18 October 2025 election92I(1)
 pre-21 October election92B(1)
 pre-existing vacancy92D(1)
 preference vote3
@@ -80,6 +86,7 @@ publish30I(2)
 rateable property11(1), 11A(1), 12A(1)
 reasons30F(3)
 recipient22AA(1)
+re-count threshold75W(2), 75X(3) and (5), 75Y(1)
 relevant candidates75G(2), 75H(2), 75I(2), 75J(2), 75K(2),
 75L(2), 75M(2), 75N(2), 75O(2), 75P(2),
 75Q(2), 75R(2), 75S(2), 75T(2)
@@ -94,6 +101,7 @@ steps for drawing lots75E(1)
 supplied copy22AA(1)
 vacancy day87B(2)
 votes3
+voting in person election3
 voting paper45(7)
 Western Australian Electoral Commission3
 withdrawal notice11B(1)
