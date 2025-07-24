@@ -68,6 +68,7 @@ State Administrative Tribunal Amendment Regulations 2024 | SL 2024/39 4 Apr 2024
 State Administrative Tribunal Regulations 2004 with editorial changes as at 14 Jun 2024 (includes amendments listed above)
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 11 | SL 2024/113 26 Jun 2023 | 1 Jul 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 11 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+State Administrative Tribunal Amendment Regulations 2025 | SL 2025/139 23 Jul 2025 | r. 1 and 2: 23 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jul 2025 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
