@@ -16,6 +16,7 @@ Local Government Regulations Amendment (Payment Method) Regulations 2020 Pt. 3 |
 Local Government Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 3 | SL 2020/169 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Local Government Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/94 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Cat Regulations 2012 with editorial changes as at 26 Nov 2024
+Local Government Regulations Amendment (Cat and Dog) Regulations (No. 2) 2025 Pt. 2 | SL 2025/138 23 Jul 2025 | 24 Jul 2025 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
@@ -31,3 +32,7 @@ Form3(1)
 pensionerSch. 3 cl. 1(1)
 registered training provider7(3)
 SAFE entity9(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
