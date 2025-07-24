@@ -13,23 +13,28 @@ Local Government (Model Code of Conduct) Regulations 2021 r. 7 | SL 2021/15 2 Fe
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 3 | SL 2023/102 30 Jun 2023 | 1 Jul 2023 (see r. 2(d))
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 3 | SL 2023/158 18 Oct 2023 | Pt. 3 Div. 1: 19 Oct 2023 (see r. 2(c)); Pt. 3 Div. 2: 1 Jan 2024 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2025 Pt. 3 | SL 2025/7 22 Jan 2025 | 1 Feb 2025 (see r. 2(b))
+Local Government Regulations Amendment (Transitional Provisions) Regulations 2025 Pt. 3 | SL 2025/135 23 Jul 2025 | 24 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+2024 amendment Act14C(1)
 amendment day10AC(1), 10AF(1), 14A(1)
-authorised person12(5)
+authorised person13(5)
 class 1 local government2A
 class 2 local government2A
 class 3 local government2A
 class 3 or 4 district10AA
 class 4 local government2A
 commencement5(1), 6(1), 7(1)
-election10AF(4)
+election10A
+existing deputy14C(1)
+existing member14C(1)
 first-preference vote10A
 Form2
 former provisions14(2)
 next election10AC(1)
 next election day10AC(1)
+reconstitution day14C(1)
 records of the election10A
 relevant local government10AF(1)
 section2
