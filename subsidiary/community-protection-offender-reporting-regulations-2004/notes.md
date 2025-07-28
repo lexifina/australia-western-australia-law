@@ -28,6 +28,7 @@ Community Protection (Offender Reporting) Amendment Regulations 2021 | SL 2021/5
 Community Protection (Offender Reporting) Amendment Regulations (No. 2) 2021 | SL 2021/125 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2021 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations (No. 3) 2021 | SL 2021/192 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Police Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 2 | SL 2024/172 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
+Community Protection (Offender Reporting) Amendment Regulations (No. 2) 2025 | SL 2025/142 23 Jul 2025 | r. 1 and 2: 23 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jul 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -41,12 +42,14 @@ Breath Analysis Regulations3
 breath test3
 breath testing equipment3
 Commission7(5)
-Department of Corrective Services3
 Department of Health7(3)
+Department of Justice3
 detention centre7(3)
 foreign court3
 leave of absence order7(3)
 medical practitioner3
+online reporting tool14A(1)
+online reporting tool report14A(1)
 phlebotomist3
 prison7(3)
 recognised order3
@@ -56,7 +59,7 @@ relevant court3
 resident7(5)
 sample26F(1)
 urine sampling equipment3, 26F(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
