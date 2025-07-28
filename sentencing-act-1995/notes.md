@@ -98,6 +98,7 @@ Criminal Code Amendment Act 2024 s. 8 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (s
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 18 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d)) and SL 2024/289 cl. 2
 Family Violence Legislation Reform Act 2024 Pt. 9 | 28 of 2024 | 17 Sep 2024 | 18 Dec 2024 (see s 2(d) and SL 2024/249 cl. 2(e))
 Police Legislation Amendment Act 2024 Pt. 5 Div. 5 | 33 of 2024 | 26 Sep 2024 | 20 Dec 2024 (see s. 2(1)(b) and SL 2024/277 cl. 2)
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 3 | 35 of 2024 | 22 Oct 2024 | 28 Jul 2025 (see s. 2(b) and SL 2025/137 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -105,7 +106,7 @@ Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Sentencing Legislation Amendment Act 2016 Pt. 4 Div. 5 and s. 69 and 73 | 45 of 2016 | 7 Dec 2016 | To be proclaimed (see s. 2(c))
 Perth Parking Management Act 2024 Pt. 11 | 2 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(c))
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 3 and Pt. 3 Div. 2 Subdiv. 3 | 35 of 2024 | 22 Oct 2024 | To be proclaimed (see s. 2(b))
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 2 Subdiv. 3 | 35 of 2024 | 22 Oct 2024 | 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
 Architects Amendment Act 2025 s. 32 | 2 of 2025 | 10 Jun 2025 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
