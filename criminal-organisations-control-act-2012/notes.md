@@ -9,12 +9,12 @@ Statutes (Minor Amendments) Act 2017 s. 6 | 6 of 2017 | 12 Sep 2017 | 13 Sep 201
 Firearms Amendment Act 2022 Pt. 3 Div. 2 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 2 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 6 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 2 | 35 of 2024 | 22 Oct 2024 | 28 Jul 2025 (see s. 2(b) and SL 2025/137 cl. 2)
 Towing Services Act 2024 Pt. 11 Div. 1 | 37 of 2024 | 29 Oct 2024 | 10 Jan 2025 (see s. 2(c) and SL 2025/3 cl. 2(h))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 147 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 2 | 35 of 2024 | 22 Oct 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Criminal Organisations Control Act 2012 s. 176(5) had not come into operation when it was deleted by the Statutes (Minor Amendments) Act 2017 s. 6(3).
 The amendment in the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 to Sch. 1A Pt. 1 it. 3 and Pt. 2 it. 3 is not included because the reference to the provision to be amended is unclear.
@@ -24,7 +24,7 @@ Defined termProvision(s)
 associate3(1)
 authorisation3(1)
 CC Commissioner3(1)
-close family member3(1), 3(2)
+close family member3(1) and (2)
 co-licensee93(1)
 Commissioner of Police3(1)
 controlled person3(1)
@@ -65,8 +65,8 @@ personal details3(1)
 person B3(2)
 prescribed activity3(1), 80(1)
 prohibited item82(1)
-prohibition order98(1)
 protected submission3(1), 11(1)
+protection order98(1)
 recruit3(1)
 register3(1)
 registered interstate control order3(1)

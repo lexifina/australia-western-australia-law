@@ -31,12 +31,5 @@ the deleted s. 60 | Child pornography
 s. 101 | Objectionable material offences (if the objectionable material is child pornography)
 Children and Community Services Act 2004
 s. 192 | Employment of child to perform in indecent manner
-Crimes Act 1914 of the Commonwealth
-s. 50BC | Sexual conduct involving child under 16
-s. 50BD | Inducing child under 16 to be involved in sexual conduct
-s. 50DA | Benefiting from offence against Part IIIA
-s. 50DB | Encouraging offence against Part IIIA
-Customs Act 1901 of the Commonwealth
-s. 233BAB | Special offences relating to tier 2 goods (if the offence involves items of child pornography or of child abuse material)
-[Schedule 2 amended: No. 27 of 2008 s. 12; No. 21 of 2010 s. 13; No. 54 of 2012 s. 38; No. 25 of 2021 s. 64.]
+[Schedule 2 amended: No. 27 of 2008 s. 12; No. 21 of 2010 s. 13; No. 54 of 2012 s. 38; No. 25 of 2021 s. 64; No. 35 of 2024 s. 58.]
 [Schedule 3 has not come into operation.]

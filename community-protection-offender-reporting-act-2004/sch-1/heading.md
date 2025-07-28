@@ -14,7 +14,4 @@ s. 327 | Sexual coercion (if the person against whom the offence is committed is
 s. 328 | Aggravated sexual coercion (if the person against whom the offence is committed is a child)
 s. 329 (except s. 329(8)) | Sexual offences by relatives and the like
 s. 330 | Sexual offences against incapable person
-Crimes Act 1914 of the Commonwealth
-s. 50BA | Sexual intercourse with child under 16
-s. 50BB | Inducing child under 16 to engage in sexual intercourse
-[Schedule 1 amended: No. 2 of 2008 s. 58; No. 27 of 2008 s. 11; No. 29 of 2008 s. 25(2) and (3).]
+[Schedule 1 amended: No. 2 of 2008 s. 58; No. 27 of 2008 s. 11; No. 29 of 2008 s. 25(2) and (3); No. 35 of 2024 s. 57.]

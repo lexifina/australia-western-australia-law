@@ -31,13 +31,14 @@ Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 3 | 44
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 8 and s. 409 and 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 3 (other than s. 34) | 25 of 2023 | 10 Nov 2023 | 14 Dec 2023 (see s. 2(b) and SL 2023/191 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 6 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 1 | 35 of 2024 | 22 Oct 2024 | 28 Jul 2025 (see s. 2(b) and SL 2025/137 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 34 | 25 of 2023 | 10 Nov 2023 | 14 Dec 2025 (see s. 2(c))
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 1 and Pt. 3 Div. 2 Subdiv. 2 | 35 of 2024 | 22 Oct 2024 | To be proclaimed (see s. 2(b))
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 2 Subdiv. 2 | 35 of 2024 | 22 Oct 2024 | 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+The Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 34 was deleted by the Liquor Control Amendment Act 2025 s. 129 before it purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -88,6 +89,7 @@ registered forensic order90(1)
 Registrar87
 relevant offence66(1)
 remote communication3(1)
+reportable offender68B(1)
 responsible person3(1)
 sample9(1)
 senior officer3(1)
