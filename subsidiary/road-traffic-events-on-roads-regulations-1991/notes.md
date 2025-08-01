@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Events on Roads) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Road Traffic (Events on Roads) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Events on Roads) Regulations 1991 | 1 Feb 1991 p. 549-54 | 1 Feb 1991 (see r. 2 and Gazette 1 Feb 1991 p. 511)
@@ -27,10 +27,7 @@ Road Traffic (Events on Roads) Amendment Regulations 2021 | SL 2021/109 29 Jun 2
 Road Traffic (Events on Roads) Amendment Regulations 2022 | SL 2022/165 7 Oct 2022 | r. 1 and 2: 7 Oct 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Oct 2022 (see r. 2(b))
 Road Traffic (Events on Roads) Amendment Regulations 2023 | SL 2023/59 2 Jun 2023 | r. 1 and 2: 2 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
 Road Traffic (Events on Roads) Amendment Regulations 2024 | SL 2024/87 12 Jun 2024 | r. 1 and 2: 12 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Road Traffic (Events on Roads) Amendment Regulations 2025 r. 3 and 4 | SL 2025/136 23 Jul 2025 | 1 Aug 2025 (see r. 2(b))
+Road Traffic (Events on Roads) Amendment Regulations 2025 | SL 2025/136 23 Jul 2025 | r. 1 and 2: 23 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2025 (see r. 2(b))
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
