@@ -45,6 +45,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
 Commerce Regulations Amendment (Building Services) Regulations 2023 Pt. 2 Div. 4 | SL 2023/64 2 Jun 2023 (as amended by SL 2024/255 Pt. 4) | 1 Jul 2027 (see r. 2(d))
+Building Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/144 6 Aug 2025 | 1 Sep 2025 (see r. 2(b))
 Other notes
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
