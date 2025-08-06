@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Home Building Contracts Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Home Building Contracts Regulations 1992 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Home Building Contracts Regulations 1992 | 3 Apr 1992 p. 1465-8 | 4 Apr 1992 (see r. 2 and Gazette 3 Apr 1992 p. 1461)
@@ -24,8 +24,16 @@ Commerce Regulations Amendment (Infringement Notices) Regulations 2019 Pt. 5 | 2
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 3 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Home Building Contracts Amendment Regulations 2020 | SL 2020/66 26 May 2020 | r. 1 and 2: 26 May 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 27 May 2020 (see r. 2(b))
 Home Building Contracts Amendment Regulations 2022 | SL 2022/172 21 Oct 2022 | r. 1 and 2: 21 Oct 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2022 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Building Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/144 6 Aug 2025 | 1 Sep 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 cabinetry work3A(1)
 off-site work3A(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
