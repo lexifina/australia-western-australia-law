@@ -31,6 +31,7 @@ Mental Health Amendment Regulations (No. 6) 2024 | SL 2024/231 13 Nov 2024 | r. 
 Mental Health Amendment Regulations 2025 | SL 2025/40 6 Mar 2025 | r. 1 and 2: 6 Mar 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2025 (see r. 2(b))
 Mental Health Amendment Regulations (No. 2) 2025 | SL 2025/49 2 Apr 2025 | r. 1 and 2: 2 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Apr 2025 (see r. 2(b))
 Mental Health Amendment Regulations (No. 3) 2025 | SL 2025/53 16 Apr 2025 | r. 1 and 2: 16 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Apr 2025 (see r. 2(b))
+Mental Health Amendment Regulations (No. 4) 2025 | SL 2025/145 6 Aug 2025 | r. 1 and 2: 6 Aug 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Aug 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
