@@ -21,6 +21,7 @@ State Administrative Tribunal Amendment Rules (No. 2) 2019 | 31 Dec 2019 p. 4661
 State Administrative Tribunal Amendment Rules 2021 | SL 2021/123 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Rules other than r. 1 and 2: 17 Jul 2021 (see r. 2(b))
 State Administrative Tribunal Amendment Rules (No. 2) 2022 | SL 2022/73 10 Jun 2022 | r. 1 and 2: 10 Jun 2022 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2022 (see r. 2(b)) and SL 2022/113 cl. 2)
 State Administrative Tribunal Amendment Rules 2022 | SL 2022/219 30 Dec 2022 | r. 1 and 2: 30 Dec 2022 (see r. 2(a)); r. 3, 4 and 8-15: 31 Dec 2022 (see r. 2(c)); r. 5-7: 1 Jul 2023 (see r. 2(b))
+State Administrative Tribunal Amendment Rules 2025 | SL 2025/147 15 Aug 2025 | r. 1 and 2: 15 Aug 2025 (see r. 2(a)); Rules other than r. 1 and 2: 16 Aug 2025 (see r. 2(b))
 Other notes
 Schedule deleted by the State Administrative Tribunal Amendment Regulations (No. 2) 2007 r. 8 (see Gazette 26 June 2007 p. 2979-96).
 Repealed by the Medical Practitioners Act 2008, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
@@ -61,7 +62,7 @@ referring person3
 representative35(2)
 RV Act59(1)
 supervising psychiatrist56(1)
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
