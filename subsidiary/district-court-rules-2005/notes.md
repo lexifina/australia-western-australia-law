@@ -24,6 +24,7 @@ District Court Amendment Rules 2022 | SL 2022/108 24 Jun 2022 | r. 1 and 2: 24 J
 District Court Amendment Rules 2023 | SL 2023/209 21 Dec 2023 | r. 1 and 2: 21 Dec 2023 (see r. 2(a)); Rules other than r. 1 and 2: 15 Jan 2024 (see r. 2(b))
 District Court Amendment Rules (No. 2) 2024 | SL 2024/6 25 Jan 2024 | r. 1 and 2: 25 Jan 2024 (see r. 2(a)); Rules other than r. 1 and 2: 26 Jan 2024 (see r. 2(b))
 District Court Amendment Rules 2024 | SL 2024/80 22 May 2024 | r. 1 and 2: 22 May 2024 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
+District Court Amendment Rules 2025 | SL 2025/148 19 Aug 2025 | r. 1 and 2: 19 Aug 2025 (see r. 2(a)); Rules other than r. 1 and 2: 20 Aug 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -51,7 +52,7 @@ file and serve3
 file electronically3
 Form3
 former rules73
-former security for costs provision60(1)
+former security for costs provision61A(1)
 health information3
 health professional3
 Inactive Cases List43A
@@ -83,7 +84,7 @@ video link3
 WCIMASch. 1 cl. 8A
 WCIMA appeal49
 working day3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

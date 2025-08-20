@@ -7,7 +7,7 @@ Date of filing
 Disclosure pursuant to RSC Order 9A
 Identity of any person who is an interested non-party (If applicable: see Rules of the Supreme Court 1971 Order 9A rule 2 and District Court Rules 2005 rule 22A(3))
 Service and contact details
-Geographical address of party (Must be provided unless otherwise ordered by the Court: see Rules of the Supreme Court 1971 Order 71A rule 2 and District Court Rules 2005 rule 22C)
+Geographical address of party (Must be provided unless otherwise ordered by the Court: see Rules of the Supreme Court 1971 Order 71A rules 2 and 3A)
 Name of legal practitioner (If one has been appointed)
 Postal address for service of documents (Must be provided)
 Email address (Optional — if provided, may be used for service of documents)
@@ -16,5 +16,5 @@ Telephone number
 Reference
 Signature of party or legal practitioner | Party/ legal practitioner | Date of signing:
 Note to Form 1AA — 1.If not held at Perth, state the location of the relevant registry.
-[Form 1AA inserted: Gazette 26 Jul 2013 p. 3417-18; amended: Gazette 31 Dec 2013 p. 6556; SL 2022/108 r. 6.]
+[Form 1AA inserted: Gazette 26 Jul 2013 p. 3417-18; amended: Gazette 31 Dec 2013 p. 6556; SL 2022/108 r. 6; SL 2025/148 r. 12.]
 [Form 1AB deleted: Gazette 7 Sep 2018 p. 3191.]
