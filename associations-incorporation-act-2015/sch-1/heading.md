@@ -14,6 +14,7 @@
 (e)the quorum and procedure at meetings of the committee;
 (f)the making and keeping of records of the proceedings at meetings of the committee;
 (g)subject to Division 2 clause 1, the circumstances (if any) in which payment may be made to a member of the committee out of the funds of the association.
+6A.The member or members, by name or position, of the management committee of the incorporated association who are responsible for complying with a provision of this Act or the regulations that requires information to be given to the Commissioner about the association.
 7.The quorum and procedure at general meetings of members of the incorporated association.
 8.The notification of members or classes of members of general meetings of the incorporated association and their rights to attend and vote at those meetings.
 9.The time within which, and manner in which, notices of general meetings and notices of motion are to be given, published or circulated.
@@ -29,3 +30,4 @@
 (a)between members; or
 (b)between members and the incorporated association.
 19.Subject to section 24, the manner in which surplus property of the incorporated association must be distributed or dealt with if the association is wound up or its incorporation is cancelled.
+[Division 1 amended: No. 9 of 2025 s. 29.]
