@@ -11,6 +11,7 @@ Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 201
 Co-operatives Amendment Act 2016 | 7 of 2016 | 14 Apr 2016 | s. 1 and 2: 14 Apr 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2017 (see s. 2(b) and Gazette 2 Dec 2016 p. 5381)
 Reprint 1: The Co-operatives Act 2009 as at 4 Aug 2017 (includes amendments listed above)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Associations and Co-operatives Legislation Amendment Act 2025 Pt. 3 | 9 of 2025 | 22 Aug 2025 | 23 Aug 2025 (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -47,16 +48,16 @@ compensation order482A
 compulsory acquisition notice355(1)
 consolidated entity244A(1)
 constitution4(1)
-continuing auditor244ZS(2)(a)
+continuing auditor244ZS(2)
 control daySch. 4 cl. 1
-controllerSch. 4 cl. 1 and 5(3)(a)
+controllerSch. 4 cl. 1 and 5(3)
 controller’s chargeSch. 4 cl. 9(1)
 co-operative4(1), 352(1), Sch. 3 cl. 1, Sch. 4 cl. 1
 co-operative capital unit257(1)
 co-operative company492
 co-operative group4(1)
-co-operative venture398
 co-operatives legislation206G(1)
+co-operative venture398
 corporation4(1)
 Corporations Act4(1)
 Corporations legislation8
@@ -81,7 +82,7 @@ dissenting shareholder353
 distributing co-operative4(1)
 divulge476(1)
 document of titleSch. 3 cl. 1
-earlier chargeSch. 3 cl. 30(1)(a)
+earlier chargeSch. 3 cl. 30(1)
 eligible applicant480A(1)
 eligible member4(1)
 eligible proceedings482M(1)
@@ -97,7 +98,7 @@ financial statements4(1), 244A(1)
 financial year4(1)
 former Act492
 further offence period478(3)
-half-year4(1)
+half-year3(1)
 incapable person153(1)
 independent director201(1)
 inspector4(1)
@@ -108,10 +109,10 @@ involved4(1)
 involved person426
 jurisdiction 4(1)
 large co-operative4(1)
-later chargeSch. 3 cl. 30(1)(a)
+later chargeSch. 3 cl. 30(1)
 liabilities335(1), 352(1), 389
 limited dividend271(1)
-main office405(2)(b)
+main office405(2)
 malice5(2)
 management contract219(1)
 managing controllerSch. 4 cl. 1
@@ -124,13 +125,13 @@ model rules4(1)
 mortgage4(1)
 national newspaperSch. 4 cl. 1
 new body307, 332(2), 333(2), 334(2)
-new co-operative133(1)(a) and (b)
+new co-operative133(1)
 non-distributing co-operative4(1)
 notes to the financial statements244A(1)
 notification period244ZQ(2)
 obstruct423(1)
 officer4(1), Sch. 3 cl. 32, Sch. 4 cl. 1 and 3(2)
-oppressed member85(a)(i) and (b)(i)
+oppressed member85, 85
 original body332(2), 333(2), 334(2)
 original co-operative133(1), 396(1)
 participating co-operative4(1)
@@ -143,30 +144,32 @@ present liabilitySch. 3 cl. 1
 primary activity4(1)
 primary conviction478(2)
 prior chargeSch. 4 cl. 9(1)
+priority timeSch. 3 cl. 45(1) and (3)
 prior registered chargeSch. 3 cl. 45(1)
-priority timeSch. 3 cl. 45(1) and 45(3)
 property352(1), Sch. 3 cl. 1, Sch. 4 cl. 1
 proposed company293(1)
 prospective liabilitySch. 3 cl. 1
+proven484A(4)
 public service officer452(1)
 quoted security4(1)
 receiverSch. 3 cl. 32, Sch. 4 cl. 1
-Register of Co-operative ChargesSch. 3 cl. 1
 registered chargeSch. 3 cl. 45(1)
 registered society492
+Register of Co-operative ChargesSch. 3 cl. 1
 registrable chargeSch. 3 cl. 1 and 4A
 Registrar4(1)
 registration commencement timeSch. 3 cl. 4A
 registration functionSch. 3 cl. 4A
 related corporation4(1)
-relevant dateSch. 4 cl. 24(1)(b)
+relevant agreement484A(4)
+relevant dateSch. 4 cl. 24(1)
 relevant day332(2), 333(2), 334(2), 481H(1), Sch. 3 cl. 26
 relevant documents398
 relevant interest4(1)
 relevant personSch. 3 cl. 32
-relevant shares151(1)(a)
-remedial period244ZM(3)(a), (4)(a) and (5)(a)
-repayable amount73(1)(a), 127(1)(a)
+relevant shares151(1)
+remedial period244ZM(3), (4) and (5)
+repayable amount73(1), 127(1)
 repealed Act476(1)
 reporting officerSch. 4 cl. 20(1)
 required period120(1)
@@ -177,7 +180,7 @@ share4(1)
 show cause notice377(1)
 small co-operative4(1)
 specified494(4)
-start day244ZM(3)(b), (4)(b) and (5)(b)
+start day244ZM(3), (4) and (5)
 State co-operative389
 State Registrar389
 subordinated debt249(1)
@@ -188,11 +191,11 @@ substantial share interest276(4), 289(2)
 successor co-operative396(1)
 surplus4(1)
 surplus property319(1)
-third party propertySch. 4 cl. 6(1)(a)
+third party propertySch. 4 cl. 6(1)
 transfer74, 307
 transfer day4(1)
-transferee352(2)(b), 354(1), 500(1)
-transferor352(2)(b), 354(1), 500(1)
+transferee352(2), 354(1), 500(1)
+transferor352(2), 354(1), 500(1)
 transferred co-operative4(1)
 transition day396(2)
 transition period492

@@ -1,18 +1,23 @@
 Notes
-This is a compilation of the Associations Incorporation Act 2015. The following table contains information about that Act.
+This is a compilation of the Associations Incorporation Act 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Associations Incorporation Act 2015 | 30 of 2015 | 2 Nov 2015 | s. 1 and 2: 2 Nov 2015 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Associations and Co-operatives Legislation Amendment Act 2025 Pt. 2 (other than s. 5, 12-14, 26 and 28) | 9 of 2025 | 22 Aug 2025 | 23 Aug 2025 (see s. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Associations and Co-operatives Legislation Amendment Act 2025 s. 5, 12-14, 26 and 28 | 9 of 2025 | 22 Aug 2025 | To be proclaimed (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-a repealed Act3
 accounting standards62
 activity5(3)
 address58(1)
 affected person169(1)
 alter3
 approved form3
+a repealed Act3
 association3
 auditing standards62
 authorised person61(1), 171
@@ -53,8 +58,9 @@ relevant contract134(1)
 relevant documents and records41(1)
 relevant office holder60(1)
 repealed provision194(1)
+restructuring practitioner127(7)
 reviewable decision169(1)
-rulesSch. 1 cl. 4(1) and cl. 5(1)
+rulesSch. 1 cl. 4(1) and 5(1)
 special resolution3
 specified60(1), 160(1)
 surplus property3
@@ -63,3 +69,7 @@ tier 1 association62, 64(1)
 tier 2 association62, 64(2)
 tier 3 association62, 64(3)
 transition period201(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
