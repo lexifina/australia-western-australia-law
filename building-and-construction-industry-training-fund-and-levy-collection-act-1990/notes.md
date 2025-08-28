@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Act 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Building and Construction Industry Training Fund and Levy Collection Act 1990 | 76 of 1990 | 20 Dec 1990 | s. 1 and 2: 20 Dec 1990; Act other than s. 1 and 2: 1 Jul 1991 (see s. 2 and Gazette 28 Jun 1991 p. 3101)
@@ -21,6 +21,10 @@ Reprint 3: The Building and Construction Industry Training Fund and Levy Collect
 Building Act 2011 s. 159 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Building and Construction Industry Training Fund and Levy Collection Amendment Act 2020 | 23 of 2020 | 27 May 2020 | s. 1 and 2: 27 May 2020 (see s. 2(a)); Act other than s. 1 and 2: 28 May 2020 (see s. 2(b))
 Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 1 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Construction Industry Portable Paid Long Service Leave Amendment Act 2025 Pt. 7 | 12 of 2025 | 28 Aug 2025 | 1 Jan 2026 (see s. 2(b) and SL 2025/170 cl. 2)
 Other notes
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 (Cwlth).
 Repealed by the Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 (Cwlth). Now see Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cwlth).
@@ -50,3 +54,7 @@ regulation 621(5)
 relevant componentsSch. 2 cl. 1
 required amount21(5)
 specified25A(3)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
