@@ -9,6 +9,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2018 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt. 9 | 18 Jun 2019 p. 2040-56 | 1 Jul 2019 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 12 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Royalty Information) Regulations 2022 Pt. 4 | SL 2022/1 14 Jan 2022 | 15 Jan 2022 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Transfer of Royalty Administration) Regulations 2025 Pt. 4 | SL 2025/153 28 Aug 2025 | 1 Sep 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -17,11 +18,12 @@ annual assessment report37(1)
 approved field management plan4
 approved well management plan4
 basic information80
+CEO93A(1)
 commencement day98
 daily well activity report71(1)
-Department of Finance93A(1)
-Department of Finance worker93A(1)
-Director General of Finance93A(1)
+Department of Mines, Petroleum and Exploration worker93A(1)
+Department of Treasury and Finance93A(1)
+Department of Treasury and Finance worker93A(1)
 disclosable information80
 discovery assessment report36(1)
 documentary information80
@@ -56,7 +58,7 @@ permitted period61(1)
 processed survey data76(1)
 produced formation material4
 requirement4
-royalties activities93A(1)
+royalties function93A(1)
 seismic extracted data grid80
 significant event62(1)
 survey4

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -165,6 +165,11 @@ Mining Amendment Regulations (No. 3) 2023 | SL 2023/144 20 Sep 2023 | r. 1 and 2
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Mining Amendment Regulations (No. 4) 2024 | SL 2024/183 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 16 Sep 2024 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Transfer of Royalty Administration) Regulations 2025 Pt. 2 | SL 2025/153 28 Aug 2025 | 1 Sep 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Mining Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/156 28 Aug 2025 | 9 Sep 2025 (see r. 2(b) and SL 2025/152 cl. 2)
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -187,69 +192,42 @@ Disallowed on 28 Nov 2017 see Gazette 1 Dec 2017 p. 5749.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+additional rent2
 aerial photography120P
 agent137(1)
-allowable deductions85(1)
 allowed period84B(1)
-Amount A86(2a)
-Amount B86(2a)
 another tenementSch. 3 cl. 7(5)
 application70A(1), 70BA(1), 70BB(1), 70BC(1), 70BD(1)
 approved surveyor116
 Australian Geodetic DatumSch. 3 cl. 1(1)
-beneficiated85(1)
-beneficiation plant86AC(1)
-blend85(1)
 block2, Sch. 3 cl. 1(1)
 CSch. 4 cl. 1
 Centrelink2
 combined mineral exploration report96(1)
 commencement daySch. 3 cl. 1(1)
-concentrate85(1)
-contracted list price86AB(1)
 contractor120P
 counselSch. 4 cl. 1
 date of application2
 date of issue4A
-decreasing adjustment85AA(5)
-deliverer86AA(11)
-Department of Finance96CB(1)
-Department of Finance worker96CB(1)
 determination137(1)
 Director116, 120P
-Director General of Finance96CB(1)
 document59A(1)
-Dry Freight Wire86AD(1)
 eligible individual2
 environmental officer2
 environment information96CA(1)
 environment report96CA(1)
 Executive Director, Resource and Environmental Compliance Division2
-existing amount86(2d)
 existing exploration licence2, Sch. 3 cl. 1(1)
-expense85AA(3)
 file2
-first body corporate85(1)
 Form2
 GDA89A(2)
 GM Mine Closure and Environmental Services2
 GM Mining Environmental Compliance2
-gold bearing material86AA(11)
-gold metal86AA(11)
-gold royalty project86AA(11)
-gold spot price86AA(11)
-grade86AD(1)
 graticular exploration licence2
 graticular section2
-gross invoice value85(1)
 GRS8089A(3)
-GST85AA(5)
 hearing137(1)
-ilmenite feedstock86AC(1)
-increasing adjustment85AA(5)
-input tax credit85AA(5)
 inspector120F(5)
-invoice86AA(11)
 issuing officer4A
 JLPSch. 4 cl. 1
 JORC Code89C(1)
@@ -264,70 +242,40 @@ mineral exploration report2, 96(1)
 mining information96(1)
 mining lease96CA(1)
 mining survey116
-mining tenement86AA(11)
 mining tenement document59B(1)
-Minister for Finance96CB(1)
-net GST85AA(5)
-net input tax credit85AA(4)
-nickel by-product85(1)
 numberSch. 3 cl. 1(1)
 objection137(1)
 officer137(1)
 operations report96(1)
 other tenementSch. 3 cl. 7(5)
 party137(1)
-payable gold metal content86AA(11)
 permit4A
 permit holder4A
 PLSch. 4 cl. 1
-Platts daily assessments86AD(1)
-Platts daily premium spot assessment86AD(1)
-Platts freight rate86AD(1)
-Platts premium86AD(1)
-Platts price86AD(1)
 prescribed fee2
 prescribed landSch. 3 cl. 1(1)
 prescribed period84F(1)
 prescribed tenement96CA(1)
 proceedings137(1)
+production report96(1)
 proprietor2
-purchaser85(1)
-quarter85(1)
-quarterly period2
-RBA rate85AB(1)
-reference grade86AD(4)
-reference price86AB(1)
-refiner86AA(11)
-refinery86AA(11)
 registered native title body corporate2
-related corporation85(1)
 release96(1), 96CA(1)
 release date23(2)
 relevant depth101A(1)
 relevant exploration licence4A
-relevant information96CB(1)
 relevant operations report58A(1)
-relevant period86(2a), 96CA(1)
+relevant period96CA(1)
 reversion licence63A(1)
-royalties activities96CB(1)
-royalty ore86AD(4)
-royalty return2
-royalty value85(1)
-sale85(1)
 SCSch. 4 cl. 1
 section2
 senior counselSch. 4 cl. 1
 senior inspector120F(5)
 senior legal practitionerSch. 4 cl. 1
-shipment date85(1)
-shipping costs85(1), 86AD(1)
 SLPSch. 4 cl. 1
-sold85(1)
 summons125(1a)
-supply85AA(5)
 tenement116
 term2
-treatment facility86AA(11)
 working day2
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
