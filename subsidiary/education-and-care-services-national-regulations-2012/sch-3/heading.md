@@ -10,7 +10,7 @@ Regulation 77(1) | Health, hygiene and safe food practices
 Regulation 78(1) | Food and beverages
 Regulation 79(1) | Service providing food and beverages
 Regulation 80(1) | Weekly menu
-Regulation 82(1) | Tobacco, drug and alcohol-free environment
+Regulation 82(1) | Environment to be free from tobacco, vaping devices, vaping substances, drugs and alcohol
 Regulation 83(1) | Nominated supervisors, staff members and volunteers not to be affected by alcohol or drugs
 Regulation 84(1) | Awareness of child protection law
 Regulation 84A(1) | Reasonable steps to ensure that the needs for sleep and rest of children are met
@@ -52,4 +52,4 @@ Regulation 172(1)(b) | Notification of change to policies or procedures affectin
 Regulation 177(2), (3) | Prescribed enrolment and other documents to be kept by approved provider
 Regulation 183 | Storage of records and other documents
 Regulation 185 | Law and regulations to be available
-[Schedule 3 amended: SL 2023/186 r. 44.]
+[Schedule 3 amended: SL 2023/186 r. 44; SL 2025/150 r. 12.]
