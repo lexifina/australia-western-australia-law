@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Taxation Administration Act 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of non-reviewable decision in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137); s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59: 2 Mar 2009 (see s. 2 and Gazette 24 Feb 2009 p. 385)
@@ -35,10 +35,7 @@ Taxation Administration Amendment Act 2019 Pt. 2 | 11 of 2019 | 12 Jun 2019 | 13
 Finance Legislation Amendment (Emergency Relief) Act 2022 Pt. 2 | 1 of 2022 | 21 Feb 2022 | 22 Feb 2022 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 | 33 of 2022 | 21 Oct 2022 | Pt. 2 Div. 2 Subdiv. 6: 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2); Pt. 3 Div. 4: 3 Nov 2024 (see s. 2(c) and SL 2022/175 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Mining Amendment (Transfer of Royalty Administration) Act 2025 Pt. 3 | 7 of 2025 | 2 Jul 2025 | To be proclaimed (see s. 2(b))
+Mining Amendment (Transfer of Royalty Administration) Act 2025 Pt. 3 | 7 of 2025 | 2 Jul 2025 | 1 Sep 2025 (see s. 2(b) and SL 2025/151 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 1.
 If a modification is to:
@@ -75,6 +72,8 @@ The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Additional rent104B(2)
+additional rent104B(3)
 addressGl. cl. 1
 affected return135E(1)
 affected tax135E(1)
@@ -86,7 +85,7 @@ assessment noticeGl. cl. 1
 before129(2)
 beneficial body determinationGl. cl. 1
 chargeGl. cl. 1
-commencement day136(1), 137(1), 138(1), 139(1)
+commencement day136(1), 137(1), 138(1), 139(1), 140(1)
 CommissionerGl. cl. 1
 Commissioner’s websiteGl. cl. 1
 completeGl. cl. 1
@@ -101,6 +100,7 @@ directly reviewable decisionGl. cl. 1
 dishonoured76A(3)
 documentGl. cl. 1
 due dateGl. cl. 1
+electronic means104J(4)
 eligible person135E(1)
 emergency declaration135A(1)
 emergency period135A(6)
@@ -117,6 +117,8 @@ landholder77A(1)
 landholder duty77A(1)
 linked entity77A(1)
 lodge76A(1)
+mining operations104A(1)
+mining royalty104A(1), 104B(1)
 mining tenement76A(1)
 objectionGl. cl. 1
 official assessmentGl. cl. 1
@@ -144,9 +146,13 @@ relevant materialGl. cl. 1
 remaining transfer duty77A(2A)
 responsible partyGl. cl. 1
 review proceedingsGl. cl. 1
+royalty information140(1)
+royalty return104A(1), 140(1)
 self-assessmentGl. cl. 1
 special tax return arrangementGl. cl. 1
-StateGl. cl. 1
+State104A(1), 104C, 140(1), Gl. cl. 1
+State mining agreement104A(1)
+State mining agreement Act104A(1)
 statutory administrator of a taxpayer’s assets64(3)
 taxGl. cl. 1
 taxation Act129(1), Gl. cl. 1
