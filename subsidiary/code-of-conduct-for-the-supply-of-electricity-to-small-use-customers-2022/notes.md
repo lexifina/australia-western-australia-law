@@ -1,8 +1,12 @@
 Notes
-This is a compilation of the Code of Conduct for the Supply of Electricity to Small Use Customers 2022. For provisions that have come into operation see the compilation table.
+This is a compilation of the Code of Conduct for the Supply of Electricity to Small Use Customers 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Code of Conduct for the Supply of Electricity to Small Use Customers 2022 | SL 2022/207 14 Dec 2022 | cl. 1 and 2: 14 Dec 2022 (see cl. 2(a)); Code other than cl. 1 and 2: 20 Feb 2023 (see cl. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Code of Conduct for the Supply of Electricity to Small Use Customers Amendment Code 2025 cl. 3-23 | SL 2025/158 2 Sep 2025 | 1 Jan 2026 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -93,3 +97,7 @@ unsolicited consumer agreement3
 verifiable confirmation3
 verifiable consent3
 vulnerable customer3
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
