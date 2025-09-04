@@ -40,6 +40,7 @@ Children and Community Services Amendment Regulations (No. 4) 2023 | SL 2023/179
 Children and Community Services Regulations 2006 with editorial changes as at 14 Jun 2024
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2024 Pt. 3 | SL 2024/108 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Children and Community Services Amendment Regulations 2025 | SL 2025/57 16 Apr 2025 | r. 1 and 2: 16 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2025 (see r. 2(b))
+Children and Community Services Amendment Regulations (No. 2) 2025 | SL 2025/159 3 Sep 2025 | r. 1 and 2: 3 Sep 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2025 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
