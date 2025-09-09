@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mining Regulations 1981 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -166,9 +166,6 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt
 Mining Amendment Regulations (No. 4) 2024 | SL 2024/183 4 Sep 2024 | r. 1 and 2: 4 Sep 2024 (see r. 2(a)) Regulations other than r. 1 and 2: 16 Sep 2024 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Transfer of Royalty Administration) Regulations 2025 Pt. 2 | SL 2025/153 28 Aug 2025 | 1 Sep 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Mining Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/156 28 Aug 2025 | 9 Sep 2025 (see r. 2(b) and SL 2025/152 cl. 2)
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
@@ -192,6 +189,7 @@ Disallowed on 28 Nov 2017 see Gazette 1 Dec 2017 p. 5749.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+active58K(1)
 additional rent2
 aerial photography120P
 agent137(1)
@@ -203,6 +201,8 @@ Australian Geodetic DatumSch. 3 cl. 1(1)
 block2, Sch. 3 cl. 1(1)
 CSch. 4 cl. 1
 Centrelink2
+clearing58F(1)
+closure risks58N
 combined mineral exploration report96(1)
 commencement daySch. 3 cl. 1(1)
 contractor120P
@@ -212,8 +212,14 @@ date of issue4A
 determination137(1)
 Director116, 120P
 document59A(1)
+electronic lodgment58J(1)
 eligible individual2
+environmental data58M, 58N
+environmental impact58B
 environmental officer2
+environmental outcomes58M
+environmental risk58B
+environmental value58F(1)
 environment information96CA(1)
 environment report96CA(1)
 Executive Director, Resource and Environmental Compliance Division2
@@ -227,6 +233,7 @@ graticular exploration licence2
 graticular section2
 GRS8089A(3)
 hearing137(1)
+holder58C
 inspector120F(5)
 issuing officer4A
 JLPSch. 4 cl. 1
@@ -243,6 +250,7 @@ mining information96(1)
 mining lease96CA(1)
 mining survey116
 mining tenement document59B(1)
+native vegetation58F(1)
 numberSch. 3 cl. 1(1)
 objection137(1)
 officer137(1)
@@ -262,16 +270,21 @@ proprietor2
 registered native title body corporate2
 release96(1), 96CA(1)
 release date23(2)
+relevant activities58B
 relevant depth101A(1)
+relevant EMA58K(1)
 relevant exploration licence4A
+relevant mining activity58C
 relevant operations report58A(1)
 relevant period96CA(1)
 reversion licence63A(1)
+riparian vegetation58F(1)
 SCSch. 4 cl. 1
 section2
 senior counselSch. 4 cl. 1
 senior inspector120F(5)
 senior legal practitionerSch. 4 cl. 1
+site58B
 SLPSch. 4 cl. 1
 summons125(1a)
 tenement116
