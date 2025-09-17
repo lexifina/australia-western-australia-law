@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Environmental Protection (Prohibited Plastics and Balloons) Regulations 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Environmental Protection (Prohibited Plastics and Balloons) Regulations 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Environmental Protection (Plastic Bags) Regulations 2018 | 12 Jun 2018 p. 1890-1 | r. 1 and 2: 12 Jun 2018 (see r. 2(a)); Regulations (other than r. 1, 2, 4 and 7(2)): 1 Jul 2018 (see r. 2(c)); r. 4 and 7(2): 1 Jan 2019 (see r. 2(b))
@@ -7,6 +7,10 @@ Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2022 Pt. 2, Pt. 3 Div. 1 and Pt. 4 | SL 2022/64 3 Jun 2022 | Pt. 2: 4 Jun 2022 (see r. 2(d)); Pt. 3 Div. 1: 1 Jul 2022 (see r. 2(b)); Pt. 4: 1 Oct 2022 (see r. 2(c))
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2023 Pt. 2 | SL 2023/13 24 Feb 2023 | 1 Mar 2023 (see r. 2(b))
 Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2024 Pt. 2 | SL 2024/86 29 May 2024 | 1 Jun 2024 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Environmental Protection (Prohibited Plastics and Balloons) Amendment Regulations 2025 r. 3-13 | SL 2025/163 17 Sep 2025 | 1 Oct 2025 (see r. 2(b))
 Other notes
 Now known as the Environmental Protection (Prohibited Plastics and Balloons) Regulations 2018; citation changed (see note under r. 1).
 The Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2021 Pt. 3 Div. 1 and Pt. 4 (SL 2021/215) were deleted before those provisions could come into operation (see the Environmental Protection Regulations Amendment (Prohibited Plastics and Balloons) Regulations 2022 r. 5 (SL 2022/64)).
@@ -60,7 +64,7 @@ soft plastic18A(1)
 supplier12(1), 14(1)
 supply3
 wholesale supplier15
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
