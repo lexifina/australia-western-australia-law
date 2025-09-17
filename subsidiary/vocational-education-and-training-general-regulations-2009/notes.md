@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Vocational Education and Training (General) Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Vocational Education and Training (General) Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Vocational Education and Training (General) Regulations 2009 | 22 May 2009 p. 1731-97 | r. 1 and 2: 22 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b) and No. 44 of 2008 s. 2(2))
@@ -21,6 +21,10 @@ Vocational Education and Training (General) Amendment Regulations 2021 | SL 2021
 Vocational Education and Training (General) Amendment Regulations 2024 | SL 2024/147 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2024 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations (No. 2) 2024 | SL 2024/229 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2025 | SL 2025/71 14 May 2025 | r. 1 and 2: 14 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Vocational Education and Training (General) Amendment Regulations (No. 2) 2025 r. 3-24 | SL 2025/165 17 Sep 2025 | 1 Oct 2025 (see r. 2(b))
 Other notes
 Repealed by the Vocational Education and Training (Commonwealth Powers) Act 2010 Sch. 1 (NSW).
 Repealed by the Training and Skills Development Act 2016 (NT).
