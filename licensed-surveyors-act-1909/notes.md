@@ -30,6 +30,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration) Act 1987 Pt. IX | 126 of 1987 | 31 Dec 1987 | To be proclaimed (see s. 2)
+Evidence Act 2025 Pt. 12 Div. 16 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and and SL 2026/190 cl. 2)
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 27 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The Acts Amendment and Repeal (Competition Policy) Act 2003 s. 40(7)-(9) reads as follows:
@@ -61,3 +62,7 @@ standard period3(1)
 survey mark3(1)
 Surveyor General3(1)
 this Act3(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
