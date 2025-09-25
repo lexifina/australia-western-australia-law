@@ -22,11 +22,12 @@ Western Australian Marine Amendment Act 2023 s. 29 | 31 of 2023 | 11 Dec 2023 | 
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 2 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
 Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 1 | 35 of 2024 | 22 Oct 2024 | 28 Jul 2025 (see s. 2(b) and SL 2025/137 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 (as amended by No. 29 of 2008 s. 25(4)) | 8 Dec 2004 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 1 and Pt. 4 | 35 of 2024 | 22 Oct 2024 | To be proclaimed (see s. 2(b))
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 1 and Pt. 4 | 35 of 2024 | 22 Oct 2024 | Pt. 3 Div. 1: 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2); Pt. 4: to be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 5 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms
