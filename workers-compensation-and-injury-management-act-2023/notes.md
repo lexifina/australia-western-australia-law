@@ -1,11 +1,15 @@
 Notes
-This is a compilation of the Workers Compensation and Injury Management Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Workers Compensation and Injury Management Act 2023 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Workers Compensation and Injury Management Act 2023 | 21 of 2023 | 24 Oct 2023 | Pt 1 Div. 1: 24 Oct 2023 (see s. 2(a)); Pt. 14 (but only Div. 1, 4 and 10 and only s. 542, 543, 545, 574, 579, 603, 606 and 609): 25 Oct 2023 (see s. 2(b)); Act other than Pt. 1 Div. 1, Pt. 14 Div. 1 s. 542, 543 & 545, Pt. 14 Div. 4 s. 574 & 579, Pt. 14 Div. 10 s. 603, 606 & 609 & Pt. 15 Div. 3 Subdiv. 18: 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2); Pt. 15 Div. 3 Subdiv. 18: 1 Sep 2024 (see s. 2(c)(ii) and SL 2024/175 cl. 2)
 Workers Compensation and Injury Management Amendment Act 2023 | 22 of 2023 | 24 Oct 2023 | s. 1-3: 24 Oct 2023 (see s. 2(a)); s. 4-8: 1 Jul 2024 (see s. 2(b)-(f) and SL 2024/34 cl. 2)
 Civil Liability Amendment (Provisional Damages for Dust Diseases) Act 2024 Pt. 5 (other than s. 12) | 32 of 2024 | 26 Sep 2024 | 1 Dec 2024 (see s. 2(1)(b)(i) and SL 2024/238 cl. 2)
 Workers Compensation and Injury Management Amendment (Common Law Election Validation) Act 2024 | 40 of 2024 | 29 Oct 2024 | s. 1 and 2: 29 Oct 2024 (see s. 2(a)); Act other than s. 1 and 2: 30 Oct 2024 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The Civil Liability Amendment (Provisional Damages for Dust Diseases) Act 2024 s. 12 was deleted on 1 Dec 2024 (see s. 2(2)(b) and SL 2024/238 cl. 2).
 Defined terms
@@ -225,7 +229,7 @@ new information354(1)
 new licensed insurer261(7), 491(6)
 new provision547(2)
 new self-insurer261(7), 491(6)
-NIHL assessment106(3), 111(1)
+NIHL assessment107(3), 111(1)
 NIHL maximum compensation amount107
 noise-induced hearing loss5, 107
 noise-induced hearing loss compensation107, 108(1)
@@ -381,7 +385,7 @@ workplace rehabilitation expense5
 workplace rehabilitation expenses compensation5, 93(1)
 workplace rehabilitation expenses compensation limit95(1)
 workplace rehabilitation service5
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
