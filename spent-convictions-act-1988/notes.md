@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Spent Convictions Act 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Spent Convictions Act 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Spent Convictions Act 1988 | 55 of 1988 | 8 Dec 1988 | s. 1 and 2: 8 Dec 1988; Act other than s. 1 and 2: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644)
@@ -69,6 +69,10 @@ Short title | Number and year | Assent | Commencement
  | Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 19 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
  | Spent Convictions (Act Amendment) Regulations 2024 (SL 2024/153) | r. 1 and 2: 24 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2024 (see r. 2(b))
  | Spent Convictions (Act Amendment) Regulations (No. 2) 2024 (SL 2024/290) | r. 1 and 2: 21 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 Pt. 12 Div. 19 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
