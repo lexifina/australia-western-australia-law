@@ -27,10 +27,11 @@ Compilation table
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 9 (other than s. 44 and 54) | 24 of 2023 | 24 Oct 2023 | Pt. 9 (other than s. 39(1), 44, 46, 54, 56, 69, 70, 72 to 74, 76, 78 to 80, 85, 86, 90 and 95): 21 Dec 2023 (see s. 2(b) and SL 2023/203 cl. 2(a)); s. 39(1), 46, 56, 69, 70, 72-74, 76, 78-80, 85, 86, 90 and 95: 2 May 2024 (see s. 2(b) and SL 2024/55 cl. 2)
  | Western Australian Marine Amendment Act 2023 Pt. 2 | 31 of 2023 | 11 Dec 2023 | Pt. 2 (other than s. 7, 8, 14(2), 15-22, 23(2), 24(1), 26 and 31): 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2 and SL 2023/203 cl. 2(a)); s. 7, 8, 14(2), 15-22, 23(2), 24(1), 26 and 31: 2 May 2024 (see s. 2(c) and SL 2024/52 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 376 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 s. 44 and 54 | 24 of 2023 | 24 Oct 2023 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Western Australian Marine Amendment Act 1987 (other than s. 1 and 2) was repealed by the Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 9 (No. 24 of 2023) before it came into operation.
@@ -206,7 +207,7 @@ WA marine qualification3(1)
 warrant6(1)
 waters71(5)
 young person124I
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
