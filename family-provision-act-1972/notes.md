@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Family Provision Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Family Provision Act 1972 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Inheritance (Family and Dependants Provision) Act 1972 | 57 of 1972 | 31 Oct 1972 | 1 Jan 1973 (see s. 2 and Gazette 17 Nov 1972 p. 4379)
@@ -11,6 +11,11 @@ Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2
 Inheritance (Family and Dependants Provision) Amendment Act 2011 Pt. 2 | 48 of 2011 (as amended by No. 41 of 2012 s. 4-5) | 25 Oct 2011 | 16 Jan 2013 (see s. 2(b) and Gazette 15 Jan 2013 p. 79)
 Reprint 2: The Family Provision Act 1972 as at 22 Feb 2013 (includes amendments listed above)
 Statutes (Minor Amendments) Act 2017 s. 10 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Other notes
 Repealed by the Guardianship of Children Act 1972 which was repealed by the Family Court Act 1975 (as amended by the Family Court Act Amendment and Acts Repeal Act 1979) which was repealed by the Family Court Act 1997.
 The Acts Amendment (Lesbian and Gay Reform) Act 2002 s. 82 reads as follows:
 82.Applications regarding the estates of persons who died before the commencement of this Part
@@ -31,3 +36,7 @@ stepchild4(1)
 trustee13(3)
 undisclosed property6(5)
 will4(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
