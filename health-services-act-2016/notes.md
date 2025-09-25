@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health Services Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Health Services Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Services Act 2016 | 11 of 2016 | 26 May 2016 | s. 1 and 2: 26 May 2016 (see s. 2(a)); s. 6, 7, 32, 238, 244 and 245: 15 Jun 2016 (see s. 2(b) and Gazette 14 Jun 2016 p. 1819); Act other than s. 1, 2, 6, 7, 32, 238, 244, 245, 301(2), (3), (6) and (7) and 307(j): 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
@@ -8,6 +8,10 @@ Procurement Act 2020 Pt. 10 Div. 4 | 24 of 2020 | 19 Jun 2020 | 22 Jul 2020 (see
 Health Services Amendment Act 2023 Pt. 2 | 1 of 2023 | 22 Feb 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/103 cl. 2)
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 4 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 2 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The Health Services Act 2016 s. 301(2), (3), (6) and (7) and 307(j) had not come into operation when those provisions were deleted by the Health Services Amendment Act 2023 s. 85.
 Defined terms
