@@ -46,11 +46,12 @@ Aboriginal Cultural Heritage Act 2021 s. 345 | 27 of 2021 | 22 Dec 2021 | 1 Jul 
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 26 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Control of Vehicles (Off-road Areas) Amendment Act 2025 (other than s. 4, 5(1)-(3), 6, 7(1), 8 and 13) | 8 of 2025 | 22 Aug 2025 | s. 1 and 2: 22 Aug 2025 (see s. 2(a)); s. 3, 5(4), 7(2), 9-12, 14 and 15: 23 Aug 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7 and No. 8 of 2012 s. 65) | 12 Dec 1978 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 365 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Control of Vehicles (Off-road Areas) Amendment Act 2025 s. 4, 5(1)-(3), 6, 7(1), 8 and 13 | 8 of 2025 | 22 Aug 2025 | To be proclaimed (see s. 2(c))
+Control of Vehicles (Off-road Areas) Amendment Act 2025 s. 4, 5(1)-(3), 6, 7(1), 8 and 13 | 8 of 2025 | 22 Aug 2025 | 28 Jun 2026 (see s. 2(c) and SL 2026/99 cl. 2)
+Evidence Act 2025 Pt. 12 Div. 8 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -86,4 +87,4 @@ vehicle3(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ANDREW JONES, Government Printer
