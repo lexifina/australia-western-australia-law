@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Property Confiscation Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Criminal Property Confiscation Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Criminal Property Confiscation Act 2000 | 68 of 2000 | 6 Dec 2000 | s. 1 and 2: 6 Dec 2000; Act other than s. 1 and 2: 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7903)
@@ -25,6 +25,10 @@ Short title | Number and year | Assent | Commencement
  | Corruption, Crime and Misconduct and Criminal Property Confiscation Amendment Act 2018 Pt. 3 | 10 of 2018 | 13 Jul 2018 | 1 Sep 2018 (see s. 2(b) and Gazette 17 Aug 2018 p. 2894)
  | Reprint 4: The Criminal Property Confiscation Act 2000 as at 21 Jun 2019 (includes amendments listed above)
  | Transfer of Land Amendment Act 2022 Pt. 3 Div. 2 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 Pt. 12 Div. 13 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The amendments in the Criminal Organisations Control Act 2012 s. 176(5) had not come into operation when it was deleted by the Statutes (Minor Amendments) Act 2017 s. 6(3).
@@ -111,7 +115,7 @@ unexplained wealth declarationGl.
 valuable considerationGl.
 valueGl.
 wealthGl.
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
