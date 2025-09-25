@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Juries Act 1957 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Juries Act 1957 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Juries Act 1957 | 50 of 1957 (6 Eliz. II No. 50) | 9 Dec 1957 | 1 Jul 1960 (see s. 1(2) and Gazette 6 Mar 1959 p. 539)
@@ -72,6 +72,10 @@ Reprint 8: The Juries Act 1957 as at 10 May 2019 (includes amendments listed abo
 COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 60 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 11 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 18 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 Pt. 12 Div. 15 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The Criminal Code s. 282 and 679 have been deleted.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -117,7 +121,7 @@ summons and notice list33(2)
 Supreme Court3(1)
 tickets3(1)
 trial3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
