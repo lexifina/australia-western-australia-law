@@ -1,10 +1,15 @@
 Notes
-This reprint is a compilation as at 17 October 2003 of the Australia and New Zealand Banking Group Act 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Australia and New Zealand Banking Group Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Australia and New Zealand Banking Group Act 1970 | 44 of 1970 | 29 Sep 1970 | 1 Oct 1970 (see s. 1(2)(a))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Reprint 1: The Australia and New Zealand Banking Group Act 1970 as at 17 Oct 2003 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 Pt. 12 Div. 2 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
+Other notes
 The Companies Act 1961 was superseded by the Companies (Western Australia) Code, see section 18 of the Companies (Application of Laws) Act 1981. The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
 At the time this reprint was prepared the “Registrar of Companies” was an office created by the Companies Act 1943. That Act is now cited as the Companies (Co-operative) Act 1943.
 Repealed by the Mining Act 1978.
@@ -27,3 +32,7 @@ the Bank4
 the undertaking of an existing bank4
 the undertaking of E.S.A. Savings Bank4
 the undertakings of the existing banks4
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
