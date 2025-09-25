@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Education Service Providers (Full Fee Overseas Students) Registration Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Education Service Providers (Full Fee Overseas Students) Registration Act 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Education Service Providers (Full Fee Overseas Students) Registration Act 1991 | 58 of 1991 | 30 Dec 1991 | s. 1 and 2: 30 Dec 1991; Act other than s. 1 and 2: 16 Oct 1992 (see s. 2 and Gazette 16 Oct 1992 p. 5114)
@@ -12,6 +12,11 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 50 | 77 of 2006 |
 Acts Amendment (Fair Trading) Act 2010 s. 195 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 2: The Education Service Providers (Full Fee Overseas Students) Registration Act 1991 as at 4 Nov 2011 (includes amendments listed above)
 Associations Incorporation Act 2015 s. 215 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
+Other notes
 The Statutes (Repeals and Minor Amendments) Act 2000 s. 13(4) is a transitional provision of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -31,3 +36,7 @@ published39(2)
 registered3(1)
 statutory education service provider3(1)
 students’ funds16(2)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
