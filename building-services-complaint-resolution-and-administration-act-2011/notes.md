@@ -9,9 +9,10 @@ Building and Construction Industry (Security of Payment) Act 2021 Pt. 7 Div. 1 |
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 12 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Building Services (Complaint Resolution and Administration) Amendment Act 2024 | 39 of 2024 | 29 Oct 2024 | s. 1 and 2: 29 Oct 2024 (see s. 2(a)); Act other than s. 1 and 2: 30 Oct 2024 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Architects Amendment Act 2025 s. 30 | 2 of 2025 | 10 Jun 2025 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Repealed by the Building Services (Registration) Act 2011.
 Defined terms
