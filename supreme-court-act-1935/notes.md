@@ -94,9 +94,10 @@ Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 20
 Criminal Appeals Amendment Act 2022 Pt. 3 Div. 4 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 7 | 24 of 2023 | 24 Oct 2023 | 21 Dec 2023 (see s. 2(b) and SL 2023/203 cl. (2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Evidence Act 2025 Pt. 12 Div. 20 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Footnote no longer applicable.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
@@ -243,7 +244,7 @@ rules of court4(1)
 statute4(1)
 suit4(1)
 vessel26(5)
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
