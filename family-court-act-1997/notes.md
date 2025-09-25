@@ -33,9 +33,10 @@ Family Court Amendment Act 2022 Pt. 2 | 28 of 2022 | 31 Aug 2022 | 28 Sep 2022 (
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 8 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
 Family Court Amendment (Commonwealth Reforms) Act 2024 Pt. 2 | 49 of 2024 | 6 Dec 2024 | 10 Feb 2025 (see s. 2(b) and SL 2025/10 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 43(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The Superannuation and Family Benefits Act 1938was repealed by the State Superannuation Act 2000 s. 39. Certain provisions of that Act continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
