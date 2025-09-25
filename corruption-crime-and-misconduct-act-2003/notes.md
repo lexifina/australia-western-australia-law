@@ -42,9 +42,10 @@ Criminal Law (Mental Impairment) Act 2023 s. 410 | 10 of 2023 | 13 Apr 2023 | 1 
 Corruption, Crime and Misconduct Amendment Act 2024 Pt. 2 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 2 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Local Government Amendment Act 2024 Pt. 3 Div. 2 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(i))
+Local Government Amendment Act 2024 Pt. 3 Div. 2 | 47 of 2024 | 6 Dec 2024 | 1 Jan 2026 (see s. 2(1)(i) and SL 2025/203 cl. 2)
+Evidence Act 2025 Pt. 12 Div. 9 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
