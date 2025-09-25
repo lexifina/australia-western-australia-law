@@ -23,10 +23,11 @@ Directors’ Liability Reform Act 2023 Pt. 3 Div. 26 | 9 of 2023 | 4 Apr 2023 | 
 Short-Term Rental Accommodation Act 2024 Pt. 8 | 12 of 2024 | 22 Apr 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/88 cl. 2(a)))
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 10 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 For the Australian Consumer Law (WA) text see: Australian Consumer Law (WA).
