@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Tobacco Products Control Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Tobacco Products Control Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Tobacco Products Control Act 2006 | 5 of 2006 | 12 Apr 2006 | s. 1 and 2: 12 Apr 2006; Act other than s. 1-2, 16-25, 26(2), (3) and (4), Pt. 4 and s. 103(2), 105 and 113(3): 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701); s. 19-25, 26(2), (3) and (4), Pt. 4, s. 103(2), 105 and 113(3): 28 Feb 2007 (see s. 2 and Gazette 28 Feb 2007 p. 677); s. 16-18: 31 May 2007 (see s. 2 and Gazette 28 Feb 2007 p. 677)
@@ -17,6 +17,10 @@ Tobacco Products Control Amendment Act 2009 | 22 of 2009 | 22 Sep 2009 | s. 1 an
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 27 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Tobacco Products Control Amendment Act 2018 | 21 of 2018 | 18 Sep 2018 | s. 1 and 2: 18 Sep 2018 (see s. 2(a)); Act other than s. 1, 2 and 4: 18 Mar 2019 (see s. 2(c)); s. 4: 18 Sep 2020 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 59 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The provision in this Act repealing the Tobacco Control Act 1990 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -98,3 +102,7 @@ wholesaleGl.
 wholesaler’s licenceGl.
 young person98
 young person offence94
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
