@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Records Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table. For provisions affected by editorial changes see the editorial changes table.
+This is a compilation of the State Records Act 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Records Act 2000 | 52 of 2000 | 28 Nov 2000 | s. 1 and 2: 28 Nov 2000; s. 3-10, Pt. 8 and 9 and s. 77 and 82: 28 Jul 2001 (see s. 2 and Gazette 27 Jul 2001 p. 3797); Pt. 2-7 and s. 72, 78-81, 83 and 84: 1 Dec 2001 (see s. 2 and Gazette 30 Nov 2001 p. 6067)
@@ -14,6 +14,10 @@ Aboriginal Cultural Heritage Act 2021 s. 353 | 27 of 2021 | 22 Dec 2021 | 1 Jul 
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 34 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 State Records Act 2000 with editorial changes as at 16 Jan 2025
 Information Commissioner Act 2024 Pt. 7 Div. 6 | 52 of 2024 | 6 Dec 2024 | 1 Jul 2025 (see s. 2(1)(d) and SL 2025/102 cl. 2(a))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
@@ -22,10 +26,8 @@ Whole Act | s. 34(3) [spelling] | 16 Jan 2025
 s. 22(3), 79(3), Sch. 4 cl. 2(3) and (4)(b) and (d) and 4(3) | s. 30
 s. 66(3)(a) | s. 32
 s. 69(2) | s. 34(2) [s. 34(1) def. (f)]
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 230(3) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Other notes
+The Water Services Legislation Amendment and Repeal Act 2012 s. 230(3) was repealed by the Statutes (Repeals and Minor Amendments) Act 2025 s. 3(i).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
