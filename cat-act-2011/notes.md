@@ -8,9 +8,10 @@ Local Government Legislation Amendment Act 2019 Pt. 4 Div. 2 | 16 of 2019 | 5 Ju
 Veterinary Practice Act 2021 s. 228 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Dog Amendment (Stop Puppy Farming) Act 2021 Pt. 3 (but only s. 49 and 62) | 29 of 2021 | 22 Dec 2021 | 27 Aug 2022 (see s. 2(e) and SL 2022/150 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Dog Amendment (Stop Puppy Farming) Act 2021 s. 50-61 | 29 of 2021 | 22 Dec 2021 | To be proclaimed (see s. 2(e))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -43,3 +44,7 @@ specified75(2)
 sterilised3(1)
 transfer3(1)
 veterinarian3(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
