@@ -7,9 +7,10 @@ Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 17 | 10 of 2023 | 13 Apr 2
 Western Australian Marine Amendment Act 2023 s. 35 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Family Violence Legislation Reform Act 2024 Pt. 6 | 28 of 2024 | 17 Sep 2024 | Pt. 6 (other than s. 43-45): 18 Sep 2024 (see s. 2(c)); s. 43-45: 18 Dec 2024 (see s. 2(d) and SL 2024/249 cl. 2(c))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 High Risk Serious Offenders Act 2020 Sch. 1 Div. 2 Subdiv. 1 it. 1 | 29 of 2020 | 9 Jul 2020 | To be proclaimed (see s. 2(1)(c))
+Evidence Act 2025 Pt. 12 Div. 14 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -75,7 +76,7 @@ unfit to stand trial79(1)
 victim3
 victim submission3
 video link86(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
