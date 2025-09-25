@@ -6,11 +6,12 @@ Aquatic Resources Management Act 2016 Pt. 1 (s. 1-5 and 8), Pt. 2, Pt. 3 (s. 12,
 Aquatic Resources Management Amendment Act 2021 s. 4-8 and 16 | 14 of 2021 | 24 Aug 2021 | 25 Aug 2021 (see s. 2(b))
 Planning and Development Amendment Act 2023 Pt. 8 Div. 3 | 34 of 2023 | 11 Dec 2023 | 12 Dec 2023 (see s. 2(c))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 1 (s. 6 and 7), Pt. 3 (s. 13 and 14(2) and (3), 22, 28-31 and 41-50), Pt. 4-15, Pt. 16 (s. 258-266) and Pt. 17-19 | 53 of 2016 (as amended by No. 8 of 2017 s. 8; No. 14 of 2021 (other than s. 4-8 and 16)) | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Aquatic Resources Legislation Amendment Act 2016 Pt. 2 | 40 of 2016 | 29 Nov 2016 | Operative on commencement of the Aquatic Resources Management Act 2016 s. 263 (see s. 2(b))
-Directors’ Liability Reform Act 2023 Pt. 3 Div. 5 | 9 of 2023 | 4 Apr 2023 | Immediately after the Aquatic Resources Management Act 2016 s. 191 and 192 come into operation (see s. 2(c)(ii))
+Directors’ Liability Reform Act 2023 Pt. 3 Div. 5 | 9 of 2023 | 4 Apr 2023 | Operative immediately after the Aquatic Resources Management Act 2016 s. 191 and 192 come into operation (see s. 2(c)(ii))
+Evidence Act 2025 Pt. 12 Div. 1 | 15 of 2025 | 25 Sep 2025 | Operative immediately after the Aquatic Resources Management Act 2016 s. 240 comes into operation (see s. 2(c)(ii) and (e))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -109,7 +110,7 @@ vary3(1)
 vehicle3(1)
 WA waters3(1)
 waters3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
