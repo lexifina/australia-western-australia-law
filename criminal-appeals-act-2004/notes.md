@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Appeals Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Criminal Appeals Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Appeals Act 2004 | 60 of 2004 | 23 Nov 2004 | s. 1 and 2: 23 Nov 2004; Act other than s. 1 and 2: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -13,6 +13,10 @@ Reprint 2: The Criminal Appeals Act 2004 as at 12 Apr 2013 (includes amendments 
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 5 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Criminal Appeals Amendment Act 2022 Pt. 2 | 18 of 2022 | 24 Jun 2022 | 1 Jan 2023 (see s. 2(b) and SL 2022/212 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 6 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -51,7 +55,7 @@ trial A46A(1), 46A(1)
 trial court22
 Tribunal41A(1)
 video link43(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
