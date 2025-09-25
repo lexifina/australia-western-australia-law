@@ -10,6 +10,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 National Disability Insurance Scheme (Worker Screening) Act 2020 (s. 23) | 48 of 2020 | 9 Dec 2020 | To be proclaimed (see s. 2(1)(b))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -91,7 +92,7 @@ transitional matter82(1)
 transitional regulations82(1)
 unacceptable risk5(1)
 vulnerable person5(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
