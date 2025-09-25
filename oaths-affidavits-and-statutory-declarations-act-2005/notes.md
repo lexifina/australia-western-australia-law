@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Oaths, Affidavits and Statutory Declarations Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Oaths, Affidavits and Statutory Declarations Act 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Oaths, Affidavits and Statutory Declarations Act 2005 | 23 of 2005 | 2 Dec 2005 | s. 1 and 2: 2 Dec 2005; Act other than s. 1 and 2: 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
@@ -18,6 +18,10 @@ Reprint 2: The Oaths, Affidavits and Statutory Declarations Act 2005 as at 4 Dec
  | Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 115 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
  | Veterinary Practice Act 2021 s. 233 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
  | Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The COVID-19 Response and Economic Recovery Omnibus Act 2020 Part 4 Division 3 modifies section 9 of the Act. The modified section is identified by the superscript 1M appearing after the section number. The modification ceases on 31 December 2021 unless postponed under section 44(3) and 52 of that Act.
 Defined terms
@@ -29,3 +33,7 @@ chief judicial officer10(1)
 court staff10(1)
 experienced legal practitioner 8
 prescribed consular official3
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
