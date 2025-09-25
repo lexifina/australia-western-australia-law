@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (Civil Proceedings) Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Magistrates Court (Civil Proceedings) Act 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Magistrates Court (Civil Proceedings) Act 2004 | 48 of 2004 | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -14,6 +14,10 @@ Courts Legislation Amendment Act 2012 Pt. 3 | 43 of 2012 | 22 Nov 2012 | 30 Jan 
 Local Government Legislation Amendment Act 2016 Pt. 3 Div. 22 | 26 of 2016 | 21 Sep 2016 | 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 Defined terms
@@ -55,7 +59,7 @@ services7(1)
 settle3(1)
 superior court39(1)
 trader7(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
