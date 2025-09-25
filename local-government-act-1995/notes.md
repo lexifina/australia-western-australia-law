@@ -79,12 +79,13 @@ Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 10 | 2
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 4 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
 Local Government Amendment Act 2024 Pt. 2 (other than s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 27, 36, 40, 44-49, 51-53, 55-57, 59(1), 60, 61, 64-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142, and 155-157) | 47 of 2024 | 6 Dec 2024 | s. 3, 4(3), 5-7, 14(1) and (3), 15, 18-26, 28-31, 34, 35, 37-39, 41-43, 50, 58, 59(2), 72(2), 84, 89, 115(2), 126-128, 130, 132, 135, 138, 141, 144, 152-154 and 159-161: 7 Dec 2024 (see s. 2(1)(b)); s. 8(2), 9, 10, 32, 33, 54, 62, 63, 145 and 158: 1 Feb 2025 (see s. 2(1)(i) and SL 2025/8 cl. 2); s. 143 and 146-151: 24 Jul 2025 (see s. 2(1)(i) and SL 2025/140 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Local Government Amendment (Auditing) Act 2017 s. 4(2), 7(2) and 22 | 5 of 2017 (as amended by No. 11 of 2023 s. 103) | 1 Sep 2017 | To be proclaimed (see s. 2(1)(c))
+Local Government Amendment (Auditing) Act 2017 s. 4(2), 7(2) and 22 | 5 of 2017 (as amended by No. 11 of 2023 s. 103) | 1 Sep 2017 | s. 4(2), 7(2): to be proclaimed (see s. 2(1)(c)); s. 22: 1 Jan 2026 (see s. 2(1)(c) and SL 2025/210 cl. 2)
 Local Government Amendment Act 2023 s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85 | 11 of 2023 (as amended by No. 47 of 2024 s. 172) | 18 May 2023 | To be proclaimed (see s. 2(1)(d), (2) and (3))
 Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
-Local Government Amendment Act 2024 s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 27, 36, 40, 44-49, 51-53, 55-57, 59(1), 60, 61, 64-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142 and 155-157 and Pt. 3 Div. 4 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(c)-(f), (h) and (i) and (2) and (3))
+Local Government Amendment Act 2024 s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 27, 36, 40, 44-49, 51-53, 55-57, 59(1), 60, 61, 64-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142 and 155-157 and Pt. 3 Div. 4 | 47 of 2024 | 6 Dec 2024 | s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 36, 40, 44, 45, 52(1), 55-57, 59(1), 61, 66-71, 72(1) and (3), 74, 75, 86, 87, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 139, 140, 142, 155-157: 1 Jan 2026 (see s. 2(1)(i) and (2), SL 2025/203 cl. 2 and SL 2025/207 cl. 2); s. 27, 46-49, 51, 52(2), 53, 60, 64, 65, 73, 76-83, 85 and 88, 137, Pt. 3 Div. 4: to be proclaimed (see s. 2(1)(c), (d), (e), (f), (h), (i) and (3))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
