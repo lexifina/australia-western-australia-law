@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Evidence (Prescribed Persons) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Evidence (Prescribed Persons) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Evidence (Prescribed Persons) Regulations 2005 | 6 May 2005 p. 2024-5 | 18 Jun 2005 (see r. 2 and Gazette 17 Jun 2005 p. 2658)
@@ -16,6 +16,10 @@ Evidence (Prescribed Persons) Amendment Regulations 2020 | SL 2020/77 9 Jun 2020
 Evidence (Prescribed Persons) Amendment Regulations 2022 | SL 2022/204 2 Dec 2022 | r. 1 and 2: 2 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2022 (see r. 2(b))
 Evidence (Prescribed Persons) Amendment Regulations 2023 | SL 2023/163 1 Nov 2023 | 1 Nov 2023 (see r. 2)
 Evidence (Prescribed Persons) Amendment Regulations 2025 | SL 2025/77 28 May 2025 | r. 1 and 2: 28 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Citation | Published | Commencement
+Evidence Act 2025 assented to 25 Sep 2025 s. 387(d) | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
