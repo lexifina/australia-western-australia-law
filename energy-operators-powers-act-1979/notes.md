@@ -49,9 +49,10 @@ Electricity Industry Amendment Act 2020 s. 31 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 22 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 5 | 1 of 2024 | 7 Mar 2024 | 6 Feb 2025 (see s. 2(b)) and SL 2025/31 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 3 Div. 4 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
