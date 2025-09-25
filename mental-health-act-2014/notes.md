@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mental Health Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
+This is a compilation of the Mental Health Act 2014 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mental Health Act 2014 | 24 of 2014 | 3 Nov 2014 | s. 1 and 2: 3 Nov 2014 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
@@ -18,6 +18,10 @@ The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make edi
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
 Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
 s. 457 | s. 34(2) [s. 34(1) def. (h)] | 26 Jun 2025
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
