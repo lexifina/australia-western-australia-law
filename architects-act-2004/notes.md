@@ -10,9 +10,10 @@ Reprint 1: The Architects Act 2004 as at 6 May 2016 (includes amendments listed 
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 1 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 6 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Architects Amendment Act 2025 Pt. 2 | 2 of 2025 | 10 Jun 2025 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Mutual Recognition (Western Australia) Act 2010 expired on 28 Feb 2021 (see s. 6(3) of that Act). The Mutual Recognition (Western Australia) Act 2020 (Act No. 44 of 2020) commenced on 1 Mar 2021 and adopts the Mutual Recognition Act 1992 (Commonwealth) (see s. 4 of that Act).
