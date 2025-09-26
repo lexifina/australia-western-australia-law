@@ -9,11 +9,13 @@ Voluntary Assisted Dying Act 2019 Pt. 12 Div. 5 | 27 of 2019 | 19 Dec 2019 | 1 J
 Veterinary Practice Act 2021 s. 232 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 39 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Therapeutic Goods Law Application Act 2024 Pt. 8 Div. 2 | 19 of 2024 | 14 May 2024 | 30 Aug 2024 (see s. 2(b) and SL 2024/177 cl. 2)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 27 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 14(2) | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 14 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -110,7 +112,7 @@ vehicle93
 vending machine24(1)
 veterinarian3
 voluntary assisted dying substance3
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

@@ -13,6 +13,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 2: The Pollution of Waters by Oil and Noxious Substances Act 1987 as at 6 Jan 2012 (includes amendments listed above)
 Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt. 10 Div. 5 | 24 of 2023 | 24 Oct 2023 | 21 Dec 2023 (see s. 2(b) and SL 2023/203 cl. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 32 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Other notes
 On the date as at which this compilation was prepared the amendments to the Western Australian Marine Act 1982 which are to be effected by the Western Australian Marine Amendment Act 1987 s. 6 had not come into operation. The relevant part of s. 6 reads:
 6.Divisions 6 and 7 of Part IV inserted
@@ -60,9 +61,9 @@ Tonnage Convention3(1)
 trading ship3(1)
 transfer apparatus28(1a)
 transfer operation9(1)
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
 [1] * Reference is made to the Recommendation on International Performance Specifications for Oily-Water Separating Equipment and Oil Content Meters adopted by the Organization by Resolution A.233(VII).
 [2] **Reference is made to “Clean Seas Guide for Oil Tankers”, published by the International Chamber of Shipping and the Oil Companies International Marine Forum.

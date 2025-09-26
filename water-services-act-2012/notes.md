@@ -10,10 +10,12 @@ Community Titles Act 2018 Pt. 14 Div. 25 | 32 of 2018 | 19 Nov 2018 | 30 Jun 202
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 6 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Swan Valley Planning Act 2020 Pt. 10 Div. 17 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 4 Div. 66 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 8 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 27 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The short title of the Fire and Emergency Services Authority of Western Australia Act 1998 was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5.
 The Fire and Emergency Services Authority (FESA) was abolished by the Fire and Emergency Services Legislation Amendment Act 2012 s. 43.
@@ -165,3 +167,7 @@ water supply works of a licensee71(1)
 works holding body37(1)
 works plans158(1)
 works power3(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

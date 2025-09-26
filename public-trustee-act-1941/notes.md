@@ -49,6 +49,7 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 21 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 16 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 33 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Other notes
 Footnote no longer required.
 Repealed in the First Schedule to this Act.
@@ -74,9 +75,9 @@ The Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+administration2
 a grant of administration2
 a grant of letters of administration2
-administration2
 appointed day1(2)
 client2
 Common Account2
@@ -90,12 +91,11 @@ estates2
 fees38
 Fund2
 income2
-investment management services37B
+investment management services37A(7)
 Official Trustee2
 prescribed amount14(6)
 proper officer16(3)
 Public Trustee2
-purchased land40A(1)
 Registrar of the Supreme Court2
 regulations2
 represented person2
@@ -104,9 +104,8 @@ rules2
 strategic common account2
 Territory16(3)
 Treasurer’s guidelines2
-unused portion40A(1)
 will2
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

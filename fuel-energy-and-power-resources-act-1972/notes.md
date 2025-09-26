@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 March 2015 of the Fuel, Energy and Power Resources Act 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fuel, Energy and Power Resources Act 1972 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fuel, Energy and Power Resources Act 1972 | 56 of 1972 | 13 Oct 1972 | 3 Nov 1972 (see s. 2 and Gazette 3 Nov 1972 p. 4259)
@@ -13,4 +13,9 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 65 | 50 of 2003 | 9 Jul 
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Fuel, Energy and Power Resources Act 1972 as at 13 Mar 2015 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 25 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

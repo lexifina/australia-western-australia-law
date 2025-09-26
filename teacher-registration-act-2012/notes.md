@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Teacher Registration Act 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Teacher Registration Act 2012 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Teacher Registration Act 2012 | 16 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (see s. 2(a)); Act other than s. 1, 2, 132 and 166: 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637); s. 132: 3 Aug 2016 (see s. 2(b) and Gazette 2 Aug 2016 p. 3293)
@@ -7,8 +7,13 @@ Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 13 | 7 of 2
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
 Teacher Registration Amendment Act 2023 | 3 of 2023 | 1 Mar 2023 | s. 1 and 2: 1 Mar 2023 (see 2(a)); Act other than s. 1 and 2: 19 Dec 2023 (see s. 2(b) and SL 2023/195 cl. 2)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 36 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Evidence Act 2025 s. 492 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
-The Teacher Registration Act 2012 s. 166 will not come into operation because the Act it purported to amend was repealed by the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) as at 1 Jul 2012.
+The Teacher Registration Act 2012 s. 166 was deleted by the Statutes (Repeals and Minor Amendments) Act 2025 s. 36(2) before it purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -139,7 +144,7 @@ undecided provisional registration application149G(1)
 undecided provisional registration renewal application149H(1)
 WACOT Act135, 149A
 WACOT teacher149A
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

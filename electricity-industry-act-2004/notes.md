@@ -19,8 +19,9 @@ Reprint 3: The Electricity Industry Act 2004 as at 29 Mar 2018 (includes amendme
 Electricity Industry Amendment Act 2020 Pt. 2 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2020 (see s. 2(b))
 Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 1 | 1 of 2024 (as amended by No. 10 of 2024 s. 27) | 7 Mar 2024 | 6 Feb 2025 (see s. 2(b) and SL 2025/31 cl. 2)
 Electricity Industry Amendment (Alternative Electricity Services) Act 2024 Pt. 2 and s. 26(2) and (3) | 10 of 2024 | 22 Apr 2024 | Pt. 2: 23 Apr 2024 (see s. 2(1)(d))’ s. 26(2) and (3): 6 Feb 2025 (see s. 2(1)(b)(ii) and (c)(ii) and SL 2025/31 cl. 2)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 8 and 21 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 3 Div. 1 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
 Other notes

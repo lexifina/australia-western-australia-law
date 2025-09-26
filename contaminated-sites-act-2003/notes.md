@@ -13,6 +13,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 5 Div. 2 Subdiv. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Environmental Protection Amendment Act 2020 s. 115 | 40 of 2020 | 19 Nov 2020 | 3 Feb 2021 (see s. 2(1)(e) and SL 2021/12 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 15 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 8 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -67,3 +68,7 @@ specified10(14), 86(2)
 state of mind28(7)
 summary of records21(2)
 well93(2)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

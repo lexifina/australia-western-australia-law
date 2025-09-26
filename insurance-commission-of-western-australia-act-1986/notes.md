@@ -31,10 +31,10 @@ Associations Incorporation Act 2015 s. 219 | 30 of 2015 | 2 Nov 2015 | 1 Jul 201
 Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 2 | 8 of 2016 | 14 Apr 2016 | 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
 Reprint 5: The Insurance Commission of Western Australia Act 1986 as at 31 Aug 2016 (includes amendments listed above)
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 5 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
+Statutes (Repeals and Minor Amendments) Act 2025 Pt. 3 Div. 2 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Acts Amendment (ICWA) Act 1996 s. 25 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Other notes
 The Life Insurance Act 1945 was repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 s. 5.
@@ -56,6 +56,7 @@ The Acts Amendment (ICWA) Act 1996 Pt. 3 contained transitional and savings prov
 The Insurance Commission of Western Australia Amendment Act 2002 s. 10 reads as follows:
 10.Transition and savings
 The functions conferred on the Insurance Commission of Western Australia by section 6(ca) and (e) of the Insurance Commission of Western Australia Act 1986 as amended by this Act are taken always to have been functions of the Commission.
+The Acts Amendment (ICWA) Act 1996 s. 25 and 28 were deleted by the Statutes (Repeals and Minor Amendments) Act 2025 s. 10(2) and (3) before they purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -94,7 +95,7 @@ surplus18(5)
 Third Party Insurance ActSch. 4 cl. 1
 Treasurer3
 WC&IM Act44
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

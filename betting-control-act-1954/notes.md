@@ -63,8 +63,9 @@ Betting Control Amendment (Taxing) Act 2019 | 22 of 2019 | 18 Sep 2019 | s. 1 an
 Mutual Recognition (Western Australia) Amendment Act 2022 Pt. 3 Div. 2 | 7 of 2022 | 29 Mar 2022 | 1 Jul 2022 (see s. 2(b) and SL 2022/80 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 8 (other than s. 27) | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(d)(ii) and (j))
 Gambling Legislation Amendment Act 2024 Pt. 2 (other than s. 8) | 53 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(d))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 5 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 40(2), (3), (5), (6), (8), (10)-(13), (15) and (16), 41, 43-45, 49-51, 53-76, 77(2), 78 and 79 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b) and (2))
 Directors’ Liability Reform Act 2023 s. 27 | 9 of 2023 | 4 Apr 2023 | On the day on which the TAB (Disposal) Act 2019 s. 70 comes into operation (see s. 2(d)(ii))
@@ -252,7 +253,7 @@ wagering licence4(1), 6(1)
 wagering licence agreement4(1), 10Q(1)
 wagering licensee4(1), 6(1)
 WA race field4(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

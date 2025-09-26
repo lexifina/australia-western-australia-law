@@ -10,16 +10,18 @@ Short title | Number and year | Assent | Commencement
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Bank of Western Australia Amendment Act 2012 Pt. 2 | 14 of 2012 | 3 Jul 2012 | 11 Aug 2012 (see s. 2(b) and Gazette 10 Aug 2012 p. 3803)
  | Reprint 2: The Bank of Western Australia Act 1995 as at 1 Mar 2013 (includes amendments listed above)
+ | Statutes (Repeals and Minor Amendments) Act 2025 s. 11 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Evidence Act 2025 Pt. 12 Div. 5 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The provisions in this Act amending the Bank of Western Australia Act 1990 and other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Bank of Western Australia Act 1990 (originally enacted as the R&I Bank Act 1990), the short title of which was changed to the R & I Holdings Act 1990 by this Act Sch. 1 cl. 2, was repealed under the R & I Holdings Act 1990 s. 22(2); see Gazette 26 Jun 2001 p. 3063. [Section 22 was inserted in the 1990 Act by this Act Sch. 1 cl. 9.]
 Repealed by the Rural and Industries Bank of Western Australia Act 1987 s. 36.
 Repealed by the R & I Bank Act 1990 s. 43.
-Part 3 Div. 3 (s. 23-26A) expired on the transfer day (see s. 26A). The transfer day is defined in s. 42A and is 1 Oct 2012 (see Gazette 9 Nov 2012 p. 5393).
+The transfer day is defined in s. 42A and is 1 Oct 2012 (see Gazette 9 Nov 2012 p. 5393).
 Section 28 expired 25 Oct 1996 (see s. 28(2)).
 The provision of this Act repealing Schedule 2 of the 1990 Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The 1990 Act s. 22(2)(b) and 30 and Sch. 1 cl. 2, 3 and 4 were repealed by this Act Sch. 1 Div. 1 and have been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -55,7 +57,6 @@ existing Act5
 former Bank31
 head office42A
 managing officer42A
-mandatory articles19
 penalty notice42R(3)
 point of presence42A
 points of presence threshold42A
@@ -71,3 +72,7 @@ repealed Acts34(2)
 subsidiary14(5), 19
 transfer day42A
 voting share5
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

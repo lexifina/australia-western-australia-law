@@ -64,6 +64,7 @@ Voluntary Assisted Dying Act 2019 Pt. 12 Div. 6 | 27 of 2019 | 19 Dec 2019 | 1 J
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 42 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2023 (SL 2023/48) | cl. 1 and 2: 19 May 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 20 May 2023 (see cl. 2(b))
 Misuse of Drugs Amendment Act 2023 Pt. 2 | 16 of 2023 | 26 Jun 2023 | 27 Jun 2023 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 28 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -187,3 +188,7 @@ vehicle3(1)
 vehicle search authorisation20A
 young person8B(1)
 young person at risk8H(2)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
