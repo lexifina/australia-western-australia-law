@@ -2,11 +2,16 @@ Notes
 This is a compilation of the Evidence Act 2025. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Evidence Act 2025 Pt. 1 | 15 of 2025 | 25 Sep 2025 | 25 Sep 2025 (see s. 2(a))
+Evidence Act 2025 Pt. 1 and s. 384 | 15 of 2025 | 25 Sep 2025 | Pt. 1: 25 Sep 2025 (see s. 2(a)); Pt. 10 (but only s. 384): 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Evidence Act 2025 (other than Pt. 1) | 15 of 2025 | 25 Sep 2025 | Pt. 10 (but only s. 384): 26 Sep 2025; Pt. 12 Div. 1: operative immediately after the Aquatic Resources Management Act 2016 s. 240 comes into operation (see s. 2(c)(ii))); Pt. 12 Div. 17: operative immediately after the Privacy and Responsible Information Sharing Act 2024 s 158 comes into operation (see s. 2(d)(ii)); Pt. 2-9, Pt. 10 (other than s. 384), Pt. 11 and Pt. 12 Div. 2-16 and 18-24: to be proclaimed (see s. 2(e))
+Evidence Act 2025 (other than Pt. 1 and s. 384) | 15 of 2025 | 25 Sep 2025 | Pt. 12 Div. 1: operative immediately after the Aquatic Resources Management Act 2016 s. 240 comes into operation (see s. 2(c)(ii)); Pt. 2-9, Pt. 10 (other than s. 384), Pt. 11 and Pt. 12 Div. 2-7 and 9-24: 18 Sep 2027 (see s. 2(d)(i) and (e) and SL 2026/190 cl. 2)
+Other notes
+The following provisions of the Evidence Act 2025 will not come into operation:
+·Pt. 12 Div. 8, as the section it purported to amend was deleted by the Control of Vehicles (Off-road Areas) Amendment Act 2025 s. 4(1) on 28 Jun 2026 (see s. 2(c) and SL 2026/99 cl. 2).
+·s. 492(1) Table which amends the Liquor Control Act 1988 s. 16(7), as the subsection it purported to amend was deleted by the Liquor Control Amendment Act 2025 s. 70 on 1 Jul 2026 (see s. 2(c) and SL 2026/87 cl. 2).
+·s. 492(2) Table which amends the Finance Brokers Control Act 1975, as the Act it purported to amend was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 80 on 6 Mar 2026 (see s. 2(b) and SL 2026/18 cl. 2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
