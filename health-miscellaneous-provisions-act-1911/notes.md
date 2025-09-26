@@ -147,6 +147,7 @@ Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 
  | Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
  | Health (Miscellaneous Provisions) (Offensive Trades) Proclamation 2024 Pt. 2 (SL 2024/53) | 4 Jun 2024 (see cl. 2(b))
  | Local Government Amendment Act 2024 Pt. 3 Div. 3 | 47 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(1)(g))
+ | Statutes (Repeals and Minor Amendments) Act 2025 s. 26 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -313,7 +314,7 @@ vessel3(1)
 WALGA247AA
 Water supply129
 writing3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

@@ -319,6 +319,7 @@ Industrial Relations Legislation Amendment Act 2024 s. 156 | 43 of 2024 | 13 Nov
 Keystart Act 2024 Pt. 8 Div. 1 (other than s. 59(2)) | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
 Information Commissioner Act 2024 Pt. 7 Div. 1 | 52 of 2024 | 6 Dec 2024 | 1 Jul 2025 (see s. 2(1)(d) and SL 2025/102 cl. 2(a))
 Salaries and Allowances Amendment Act 2025 Pt. 3 | 3 of 2025 | 19 Jun 2025 | 20 Jun 2025 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 17 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -344,7 +345,7 @@ Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Relevant provisions amended by the Soil and Land Conservation Amendment Act 1988. Committees are now land conservation district committees.
 Under the Environmental Protection Act 1986 Sch. 3 it. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee unless the context is such that it would be incorrect or inappropriate.
 The Authority continued in existence under the Environmental Protection Act 1986 s. 7(1).
-The Hairdressers Registration Act 1946 expired on 13 Mar 2012 (see Gazette 13 Mar 2012 p. 1041).
+Footnote no longer applicable.
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The Land Valuers Licensing Board was abolished on 1 Jul 2011. The Land Valuers Licensing Act 1978 s. 38 and 39 read as follows:
 38.Former Board abolished

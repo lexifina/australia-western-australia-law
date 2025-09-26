@@ -41,6 +41,7 @@ Criminal Appeals Amendment Act 2022 Pt. 3 Div. 3 | 18 of 2022 | 24 Jun 2022 | 1 
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 15 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Road Traffic Legislation Amendment (Infringement Management Reform) Act 2024 Pt. 3 | 15 of 2024 | 14 May 2024 | 7 Oct 2024 (see s. 2(b) and SL 2024/200 cl. 2)
 Fines, Penalties and Infringement Notices Enforcement Act 1994 with editorial changes as at 10 Oct 2024
+Statutes (Repeals and Minor Amendments) Act 2025 s. 23 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
@@ -201,7 +202,7 @@ work and development instrument28(1)
 work and development order (WDO)3(1)
 work and development permit (WDP)3(1)
 young person10B(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

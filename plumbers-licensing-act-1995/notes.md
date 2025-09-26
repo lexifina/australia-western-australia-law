@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 January 2014 of the Plumbers Licensing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Plumbers Licensing Act 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Services Coordination Act 1995 | 72 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -26,6 +26,8 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Reprint 3: The Water Services Licensing Act 1995 as at 6 Jul 2012 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 8 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 4: The Plumbers Licensing Act 1995 as at 24 Jan 2014 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 31 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Other notes
 Short title was initially the Water Services Coordination Act 1995 and was subsequently changed to the Water Services Licensing Act 1995, and now known as the Plumbers Licensing Act 1995 (see note under s. 1).
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 is a review provision that is of no further effect.
 The Economic Regulation Authority Act 2003 s. 63(1), which gives effect to Sch. 3, reads as follows:
@@ -94,3 +96,7 @@ plumber3
 plumbing work59I
 specified59I
 staff59F(5)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

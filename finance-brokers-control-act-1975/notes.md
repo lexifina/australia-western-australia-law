@@ -33,10 +33,12 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
  | Reprint 5: The Finance Brokers Control Act 1975 as at 7 Aug 2015 (includes amendments listed above)
  | COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 98 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
  | Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+ | Statutes (Repeals and Minor Amendments) Act 2025 s. 22 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 5 Div. 1 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The appointed day is 1 August 1977 (see Gazette 17 June 1977 p. 1834).
 The referral day is 1 July 2010 (see Gazette 30 Jun 2010 p. 3187).
@@ -153,3 +155,7 @@ trust account72(5)(a)
 trust accounts47
 unlicensed finance broker40A(1)
 year47
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

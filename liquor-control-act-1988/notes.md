@@ -61,13 +61,15 @@ Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 2 | 44
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 36 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 (other than Div. 3) | 25 of 2023 | 10 Nov 2023 | 14 Dec 2023 (see s. 2(b) and SL 2023/191 cl. 2)
 Health Practitioner Regulation National Law Application Act 2024 Pt. 6 Div. 1 | 21 of 2024 | 14 May 2024 | 15 May 2024 (see s. 2(c))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 8 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 Div. 3 | 25 of 2023 | 10 Nov 2023 | 14 Dec 2025 (see s. 2(c))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
@@ -317,7 +319,7 @@ wholesaler’s licence3(1)
 wine3(1)
 wine producing region61A(1)
 working day152NZR(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

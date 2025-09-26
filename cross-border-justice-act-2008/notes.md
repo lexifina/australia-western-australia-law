@@ -14,6 +14,7 @@ Road Traffic Amendment (Impaired Driving and Penalties) Act 2020 Pt. 3 Div. 2 | 
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 10 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 7 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Family Violence Legislation Reform Act 2024 s. 75 | 28 of 2024 | 17 Sep 2024 | 18 Sep 2024 (see s. 2(c))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 18 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -8,6 +8,7 @@ Building Services (Complaint Resolution and Administration) Act 2011 s. 128 | 16
 Reprint 1: The Construction Contracts Act 2004 as at 12 Aug 2016 (includes amendments listed above)
 Construction Contracts Amendment Act 2016 | 55 of 2016 | 29 Nov 2016 | s. 1 and 2: 29 Nov 2016 (see s. 2(a)); Act other than s. 1, 2, 7 and 20: 15 Dec 2016 (see s. 2(b)); s. 7 and 20: 3 Apr 2017 (see s. 2(c))
 Building and Construction Industry (Security of Payment) Act 2021 Pt. 7 Div. 3 | 4 of 2021 | 25 Jun 2021 | 1 Aug 2022 (see s. 2(c) and SL 2022/78 cl. 2(2)(a)(vii))
+ | Statutes (Repeals and Minor Amendments) Act 2025 s. 8 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Other notes
 Now known as the Construction Contracts (Former Provisions) Act 2004; short title changed (see note under s. 1).
 Defined terms
@@ -40,3 +41,7 @@ registered adjudicator3
 retention moneySch. 1 cl. 11
 site in WA4(1)
 total obligationsSch. 1 cl. 5(3)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

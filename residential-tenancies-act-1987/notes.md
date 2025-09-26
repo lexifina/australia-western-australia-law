@@ -43,10 +43,11 @@ Residential Tenancies (COVID-19 Response) Act 2020 Pt. 8 | 18 of 2020 | 23 Apr 2
 Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 3 | 28 of 2020 | 9 Jul 2020 | s. 88: 10 Jul 2020 (see s. 2(1)(b)); s. 89: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Residential Tenancies Amendment Act 2024 Pt. 2 (other than s. 13(2), 15(2), 16, 24(2)-(5), 38, 43 and 56-61) | 11 of 2024 | 22 Apr 2024 | s. 3-10, 17, 19-23, 24(1), 32, 34, 36, 44, 45 and 47-55): 16 May 2024 (see s. 2(b) and SL 2024/75 cl. 2(a)); s. 11, 12, 13(1), 14, 15(1), 18, 25-31, 33, 35, 37, 39-42 and 46: 29 Jul 2024 (see s. 2(b) and SL 2024/143 cl. 2)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 35 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2024 s. 13(2), 15(2), 16, 24(2)-(5), 38, 43 and 56-61 | 11 of 2024 | 22 Apr 2024 | To be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2024 s. 13(2), 15(2), 16, 24(2)-(5), 38, 43 and 56-61 | 11 of 2024 | 22 Apr 2024 | 28 Mar 2026 (see s. 2(b) and SL 2026/31 cl. 2(a)-(g))
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
@@ -170,7 +171,7 @@ tenant’s document80A(1)
 terminating tenant71AC(1)
 urgent repairs43(1)
 validation period103(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer

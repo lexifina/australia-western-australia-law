@@ -92,6 +92,7 @@ Fire Brigades (Fire Districts) Notice (No. 2) 2012 published in Gazette 14 Dec 2
 Reprint 8: The Fire Brigades Act 1942 as at 24 Jan 2014 (includes amendments listed above)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 13 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Fire Brigades (Northampton Fire District) Notice 2017 published in Gazette 25 Jul 2017 p. 4075 | 26 Jul 2017 (see cl. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 24 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Other notes
 Footnote no longer applicable.
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
@@ -200,7 +201,7 @@ The Fire and Emergency Services Legislation Amendment Act 2002 s. 45(4) and 54(3
 (3) An order made by the Governor under section 35A of the Fire Brigades Act 1942 that is in force immediately before the day on which this section comes into operation, continues in force on and after that day, subject to the Fire Brigades Act 1942 (as amended by this Act), as if it were a notice made by the Minister under that section as amended by this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 18 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The amendment in the Water Services Legislation Amendment and Repeal Act 2012 s. 213(4)(a) is not included because the subsection it sought to amend had been amended before the amendment purported to come into operation.
+The Water Services Legislation Amendment and Repeal Act 2012 s. 213(4)(a) was repealed by the Statutes (Repeals and Minor Amendments) Act 2025 s. 3(i).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -229,3 +230,7 @@ rescue operation4(1)
 vessel4(1)
 volunteer fire brigade4(1)
 water services licensee61(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

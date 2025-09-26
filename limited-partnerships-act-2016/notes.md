@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Limited Partnerships Act 2016. The following table contains information about that Act.
+This is a compilation of the Limited Partnerships Act 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Limited Partnerships Act2016 | 54 of 2016 | 29 Nov 2016 | s. 1 and 2: 29 Nov 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Feb 2017 (see s. 2(b) and Gazette 31 Jan 2017 p. 1093)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 8 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -78,3 +79,7 @@ transitional matter121(1)
 VCLP3
 VCMP3
 winding up notice3
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

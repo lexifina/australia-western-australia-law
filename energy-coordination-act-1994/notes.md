@@ -29,8 +29,9 @@ Reprint 4: The Energy Coordination Act 1994 as at 7 May 2010 (includes amendment
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 6 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Petroleum Legislation Amendment Act 2024 s. 434(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
@@ -374,7 +375,7 @@ supply systemSch. 3 cl. 1(1)
 trade secret3(1)
 trading licence3(1)
 transmission works3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
