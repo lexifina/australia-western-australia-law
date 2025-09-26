@@ -37,10 +37,10 @@ Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 11 | 4 of 2023 |
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 31 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
 Planning and Development Amendment Act 2023 Pt. 2-4, Pt. 5 Div. 1, Pt. 6 and 7, Pt. 8 Div. 1, Pt. 10 Div. 1, Pt. 11 and 12 | 34 of 2023 | 11 Dec 2023 | Pt. 4, 6 and 7, Pt. 10 Div. 1, Pt. 11 (other than s. 76) and Pt. 12: 12 Dec 2023 (see s. 2(c)); Pt. 2 and 3 and Pt. 5 Div. 1 and s. 76: 1 Mar 2024 (see s. 2(b), (d) and (e) and SL 2024/15 cl. 2 and SL 2024/16 cl. 2); Pt. 8 Div. 1: 1 Jul 2024 (see s. 2(e) and SL 2024/98 cl. 2)
 Planning and Development Amendment (Metropolitan Region Scheme) Act 2024 Pt. 3 | 41 of 2024 | 29 Oct 2024 | 31 Mar 2025 (see s. 2(b) and SL 2024/251 cl. 2)
+Statutes (Repeals and Minor Amendments) Act 2025 s. 30 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Community Titles Act 2018 s. 224-226 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Planning and Development Amendment Act 2020 Pt. 9 | 26 of 2020 | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
@@ -174,6 +174,7 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
+The Planning and Development Act 2005 s. 149 was deleted by the Statutes (Repeals and Minor Amendments) Act 2025 s. 30(2) before it purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
