@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Vocational Education and Training (General) Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Vocational Education and Training (General) Regulations 2009 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Vocational Education and Training (General) Regulations 2009 | 22 May 2009 p. 1731-97 | r. 1 and 2: 22 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b) and No. 44 of 2008 s. 2(2))
@@ -21,10 +21,7 @@ Vocational Education and Training (General) Amendment Regulations 2021 | SL 2021
 Vocational Education and Training (General) Amendment Regulations 2024 | SL 2024/147 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2024 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations (No. 2) 2024 | SL 2024/229 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2025 | SL 2025/71 14 May 2025 | r. 1 and 2: 14 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
-Citation | Published | Commencement
-Vocational Education and Training (General) Amendment Regulations (No. 2) 2025 r. 3-24 | SL 2025/165 17 Sep 2025 | 1 Oct 2025 (see r. 2(b))
+Vocational Education and Training (General) Amendment Regulations (No. 2) 2025 | SL 2025/165 17 Sep 2025 | r. 1 and 2: 17 Sep 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2025 (see r. 2(b))
 Other notes
 Repealed by the Vocational Education and Training (Commonwealth Powers) Act 2010 Sch. 1 (NSW).
 Repealed by the Training and Skills Development Act 2016 (NT).
@@ -36,52 +33,60 @@ Repealed by the Vocational Education and Training (General) Regulations 2009 r. 
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accreditation application7(1)
-accreditation standards7(1)
+accreditation application7
+accreditation standards7
 Act3
 amendment regulations61
-application11(1)
 AQF3
 AQTF61
 ASQA3
 associate12(1)
-audit7(1), 24
+audit7
 child40(1)
 commencement55, Sch. 2 cl. 1
 commencement day61
 Commonwealth Act3
-compliance audit7(1), 24
+compliance audit7
+compliance standards3
 complying training plan3, 43(1)
 compulsory education period40(1)
-investigation24
+condition of registration7
+data provision requirements3
+fit and proper person requirements3
+governing person7
+investigation7
 involved person45(1)
 jurisdiction3
 listed4(1)
 national register3
 nominated training provider34
-non-referring State7(1)
+non-referring State3
 official travel costs24
 old agreementSch. 2 cl. 1
 old training contractSch. 2 cl. 1
-owner7(1)
+outcome standards3
+owner7
 parent40(1)
 personal details3
-register7(1)
-registering body3
-registration application7(1)
-registration document7(1)
-registration standards7(1)
+pre-commencement regulations64(1)
+register7
+registering body7
+registration application3
+registration document6
+registration standards 20253
 school-based apprenticeship3, 43(1)
-scope of registration7(1)
-Standards for VET Regulators7(1)
+scope of registration7
+Standards for VET Regulators7
 suspension notice49(4)
 trade apprenticeSch. 2 cl. 1
-transitional period61
+training provider application3
+transitional period61, 64(1)
 units gained institutionally38(3B)
-VET course for a prescribed VET qualification7(1)
+VET course for a prescribed VET qualification7
+VET quality framework3
 WA3
-WA accredited course7(1)
-WA registered provider7(1)
+WA accredited course7
+WA registered provider3
 working day3
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
