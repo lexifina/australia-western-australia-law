@@ -167,6 +167,7 @@ Mining Amendment Regulations (No. 4) 2024 | SL 2024/183 4 Sep 2024 | r. 1 and 2:
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Transfer of Royalty Administration) Regulations 2025 Pt. 2 | SL 2025/153 28 Aug 2025 | 1 Sep 2025 (see r. 2(b))
 Mining Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/156 28 Aug 2025 | 9 Sep 2025 (see r. 2(b) and SL 2025/152 cl. 2)
+Mines and Petroleum Regulations Amendment (Geocentric Datum) Regulations 2025 Pt. 2 | SL 2025/172 2 Oct 2025 | 3 Oct 2025 (see r. 2(b))
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -227,6 +228,7 @@ existing exploration licence2, Sch. 3 cl. 1(1)
 file2
 Form2
 GDA89A(2)
+Geocentric Datum of Australia 202089AAA(1)
 GM Mine Closure and Environmental Services2
 GM Mining Environmental Compliance2
 graticular exploration licence2

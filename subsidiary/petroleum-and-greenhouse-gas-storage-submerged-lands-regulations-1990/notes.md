@@ -35,17 +35,19 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 13 | SL 2023/36 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 12 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 12 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
-Other notes
-Commencement day was 16 December 2000 (see Gazette 15 Dec 2000 p. 7201).
+Mines and Petroleum Regulations Amendment (Geocentric Datum) Regulations 2025 Pt. 5 | SL 2025/172 2 Oct 2025 | 3 Oct 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 AGD2A
-commencement day10(4)
 dealing5(1)
 federal duty8
 GDA2A
-GDA reference10(1)
+Geocentric Datum of Australia 202010(1)
 GRS809(2)
 regulation 312(1)
 related dealing5(2)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer

@@ -18,6 +18,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2022 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/36 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 8 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 9 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Geocentric Datum) Regulations 2025 Pt. 3 | SL 2025/172 2 Oct 2025 | 3 Oct 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -25,6 +26,7 @@ AFN coordinates4(1)
 applicant6(1)
 environmental data7
 GDA4(1)
+Geocentric Datum of Australia 20204A(1)
 geological data7
 geophysical data7
 GRS80 ellipsoid4(1)
