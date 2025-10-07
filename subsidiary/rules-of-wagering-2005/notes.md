@@ -21,6 +21,7 @@ Rules of Wagering Amendment Rules 2019 | 15 Mar 2019 p. 797-801 | r. 1 and 2: 15
 Rules of Wagering Amendment Rules 2021 | SL 2021/188 8 Nov 2021 | r. 1 and 2: 8 Nov 2021 (see r. 2(a)); Rules other than r. 1 and 2: 9 Nov 2021 (see r. 2(b))
 Rules of Wagering Amendment Rules (No. 2) 2021 | 19 Nov 2021 p. 5144 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Rules of Wagering Amendment Rules 2022 | 15 Jul 2022 p. 4177-8 | r. 1 and 2: 15 Jul 2022 (see r. 2(a)); Rules other than r. 1 and 2: 16 Jul 2022 (see r. 2(b))
+Rules of Wagering Amendment Rules 2025 | SL 2025/175 6 Oct 2025 | r. 1 and 2: 6 Oct 2025 (see r. 2(a)); Rules other than r. 1 and 2: 7 Oct 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -36,9 +37,11 @@ bookmaker3(1)
 bookmaker’s manager3(1)
 box (trap) number3(1)
 cash3(1)
+cash out amount3(1)
 Commission3(1)
 concession wager3(1)
 controlling authority3(1)
+correct cash out amount62U(1)
 dead heat62S(1)
 depositor3(1)
 dividend3(1)
@@ -51,7 +54,7 @@ final field62A
 fixed odds wager3(1)
 flat commission method16(2)
 Flexi Bet3(1)
-footo24
+footo23(2)
 futures wager62A
 game pool25(2)
 internet wagering3(1)
@@ -62,6 +65,7 @@ late scratched runner56(1), 62A
 losing wagers method16(2)
 middle dividend3(1)
 mistaken acceptance62U(1)
+mistaken cash out amount62U(1)
 multiple doubles wager3(1)
 multi wager3(1)
 no race3(1)
@@ -86,7 +90,7 @@ relevant novelty wager18A
 relevant period63
 rules of racing3(1)
 runner3(1)
-runs28(2), 28(2)
+runs28(2)
 RWWA3(1)
 RWWA Act3(1)
 RWWA Regulations3(1)
@@ -114,3 +118,7 @@ winning combinations18(2)
 winning relevant novelty wager combination18A
 winning wager25(2)
 win wager3(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: GEOFF O. LAWN, Government Printer
