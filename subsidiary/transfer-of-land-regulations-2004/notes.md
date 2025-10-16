@@ -40,6 +40,7 @@ Reprint 5: The Transfer of Land Regulations 2004 as at 19 Jan 2018 (includes ame
  | Transfer of Land Amendment Regulations 2023 | SL 2023/117 26 Jul 2023 | r. 1 and 2: 26 Jul 2023 (see r. 2(a)); r. 3 and 9-11: 27 Jul 2023 (see r. 2(b)); Regulations other than r. 1-3 and 9-11: 7 Aug 2023 (see r. 2(c))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/83 29 May 2024 | 1 Jul 2024 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 5 | SL 2025/85 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+ | Planning and Lands Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/178 15 Oct 2025 | 16 Oct 2025 (see r. 2(b))
 Other notes
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
 Defined terms

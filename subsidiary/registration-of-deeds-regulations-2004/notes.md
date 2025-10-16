@@ -25,11 +25,13 @@ Lands Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 3 | SL 2022/
 Lands Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/44 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/83 29 May 2024 | 1 Jul 2024 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2025/85 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Planning and Lands Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/178 15 Oct 2025 | 16 Oct 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 memorial3
 Registrar3
+TLA application3
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
