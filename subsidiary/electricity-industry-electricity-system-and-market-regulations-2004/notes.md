@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Industry (Electricity System and Market) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Electricity Industry (Electricity System and Market) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | Regulations other than r. 4(3)(b): 30 Sep 2004; r. 4(3)(b): 1 Oct 2004 (see r. 4(3) and the Wholesale Electricity Market Rules published in Gazette 5 Oct 2004 r. 1.8.2 and 1.9.7)
@@ -29,6 +29,10 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2020 |
 Energy Regulations Amendment Regulations 2021 Pt. 2 | SL 2021/2 15 Jan 2021 | Pt. 2 Div. 1: 16 Jan 2021 (see r. 2(b)); Pt. 2 Div. 2: 8 am on 1 Feb 2021 (see r. 2(c)); Pt. 2 Div. 3: 1 Jul 2021 (see r. 2(e))
 Energy Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/32 21 Apr 2023 | r. 7 and 9: 22 Apr 2023 (see r. 2(b)) Pt. 3 other than r. 7 and 9: 8 am 1 Oct 2023 (see r. 2(c))
 Electricity Industry Regulations Amendment (Distributed Energy Resources) Regulations 2025 Pt. 3 | SL 2025/37 5 Feb 2025 | 6 Feb 2025 (see r. 2(b) and SL 2025/31 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Energy Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/179 29 Oct 2025 | 1 Jan 2026 (see r. 2(b))
 Other notes
 Now known as the Competition and Consumer Act 2010 (Cwlth). The short title was changed by the Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 Sch. 5 cl. 2 (Cwlth).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
