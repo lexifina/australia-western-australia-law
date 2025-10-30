@@ -15,6 +15,7 @@ Gas Services Information Amendment Regulations 2017 | 30 Jun 2017 p. 3561-2 | r.
 Energy Regulations Amendment (Independent Market Operator) Regulations 2018 Pt. 3 | 27 Jul 2018 p. 2687-9 | 28 Jul 2018 (see r. 2(b))
 Energy Regulations Amendment Regulations 2021 Pt. 4 | SL 2021/2 15 Jan 2021 | Div. 1: 16 Jan 2021 (see r. 2(d)) Div. 2: 1 Jul 2021 (see r. 2(e))
 Energy Regulations Amendment Regulations 2023 Pt. 4 | SL 2023/32 21 Apr 2023 | 8 am 1 Oct 2023 (see r. 2(c))
+Energy Regulations Amendment Regulations 2025 Pt. 4 | SL 2025/179 29 Oct 2025 | 30 Oct 2025 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -46,7 +47,7 @@ Rule Change Panel function8B(1)
 specified3(1)
 standing charge33
 warning notice3(1)
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
