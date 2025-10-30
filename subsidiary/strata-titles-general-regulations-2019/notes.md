@@ -14,23 +14,32 @@ Lands Regulations (Community and Strata Titles) Amendment Regulations 2024 Pt. 3
 Lands Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/83 29 May 2024 | 1 Jul 2024 (see r. 2(b))
 Lands Regulations (Community and Strata Titles) Amendment Regulations (No. 3) 2024 Pt. 3 | SL 2024/209 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/85 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Lands Regulations (Community and Strata Titles) Amendment Regulations 2025 Pt. 3 | SL 2025/182 29 Oct 2025 | 30 Oct 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 2018 amending Act172
+2025 commencement day90
+2025 transitional period97E(1)
 4-year and 6-month transitional period172
 4-year transitional period172
 5-year and 6-month transitional period172
 5-year transitional period172
 6-month grace period172
+7-year and 6-month transitional period172
 ActSch. 3 cl. 2
 advisory service107
 affected person107
 agreed stage of subdivision48
 ancillary service107
+assistant strata community manager3, 90
+authorised scheme function90
 calendar year3
+Certificate IV in Strata Community Management95(1)
 class of vulnerable person107
 commencement day3
+community corporation97B(1)
+community titles scheme97B(1)
 condition report77(1)
 covenant area22
 covenantee22
@@ -38,19 +47,20 @@ covenantor22
 covered items77(1)
 criminal record statement90, 93(1)
 designated eventSch. 3 cl. 8
-designated person90, Sch. 4 cl. 1
 designated strata company79(1)
+Diploma of Property (Agency Management - Strata)95(1)
 dissenting owner protections155(1)
 easement area22
 existing contract181(3)
+former regulations90
 full proposal stage107
 government chargeSch. 3 cl. 13(1)
 grantee22
 grantor22
 GST3
 independent vote counter107
+industry experience97B(1)
 interested person16(1)
-key role90, 96(1)
 lease60(1)
 leasehold schemeSch. 3 cl. 2
 lesseeSch. 3 cl. 2
@@ -65,11 +75,13 @@ national criminal record check90
 pending registration application177(1)
 personal information3
 pre-commencement re-subdivision by-laws178(1)
-prescribed educational qualifications90, 95(1), 172
+prescribed educational qualification3, 90, 172
+prescribed experience qualification90
+principal90
 property or dishonesty offence90
 property type3
 public authority3
-qualified personSch. 4 cl. 1
+qualified person90
 R-Codes3
 record of votes107
 relative unit entitlement48
@@ -78,6 +90,7 @@ repair or maintenance work90
 representation service107
 required insurance70(1)
 Schedule 2ASch. 1 cl. 1
+scheme manager97B(1)
 sealed record of votes124(1)
 section3
 short form description22, 23(2), 25(2)
@@ -87,6 +100,8 @@ simplified conversion procedure167(1)
 single tier building6(1)
 sketch planSch. 1 cl. 6(1)
 specialist work90
+strata community manager90
+superseding qualification90
 Survey Regulations3
 termination proposal process107
 TribunalSch. 2 cl. 1(2)
@@ -95,6 +110,7 @@ trust107
 trust account101(1)
 unanimous owner-initiated termination proposal107, 153(1)
 unanimous support107, 153(2)
+unit95(1)
 utility chargeSch. 3 cl. 13(1)
 voting notice107, 121(1)
 voting right restriction103(2)
