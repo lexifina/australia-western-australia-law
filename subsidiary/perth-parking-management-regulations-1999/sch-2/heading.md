@@ -5,11 +5,11 @@ Item | Parking facilities | Annual licence fee $
 2. | a permit parking area as defined in the Local Government (Parking for People with Disabilities) Regulations 2014 regulation 4 | nil
 3. | a parking bay in a commercial parking facility leased to a resident of the City of Perth who has no access as a resident of the City to exempt parking facilities of the kind referred to in regulation 5(a) or (c) | nil
 4. | a parking bay clearly identified as being solely for vehicles engaged in unloading or loading goods or passengers | nil
-5. | a parking bay set aside solely for a vehicle being used to transport patients or blood, or to deliver meals to the aged or infirm or to a hospital | nil
+5. | a parking bay set aside solely for a vehicle being used — (a)to transport patients or blood; or (b)to deliver meals to the aged or infirm or to a hospital; or (c)by a charity to provide frontline services to persons who are vulnerable or in crisis, including, for example, by providing — (i)meals, blankets or clothes; or (ii)transport to medical or welfare services or emergency accommodation | nil
 6. | a parking bay being used for a vehicle that forms part of a display, such as a vehicle offered as a prize in a raffle | nil
 7. | a parking bay set aside for the use of passenger buses during layover periods | nil
 8. | a parking bay used solely for parking an ambulance being used for operational purposes or a vehicle being used for operational purposes by a member of the Police Force or a member of a fire brigade | nil
-9. | a parking bay used solely for servicing, inspecting, repairing, fuelling or maintaining vehicles | nil
+9. | a parking bay — (a)used solely for servicing, inspecting, repairing, fuelling or maintaining vehicles; or (b)located on land or in or on a building, used solely for parking a vehicle being used by a person who is servicing, inspecting, repairing or maintaining the land or building | nil
 10. | a parking bay used solely for a vehicle that forms part of the stock of a business of a motor vehicle dealer who holds a licence under the Motor Vehicle Dealers Act 1973 | nil
 11. | a facility that has more than 5 parking bays for the use of vehicles (excluding a bay set aside for the exclusive use of vehicles referred to in any of items 2 to 10 and 12 to 14) —
  | (a)for each motor cycle bay; | nil
@@ -31,4 +31,4 @@ Item | Parking facilities | Annual licence fee $
  | (h)Hackett Drive | nil
  | (i)the part of Mounts Bay Road between Hackett Drive and Winthrop Avenue | nil
  | (j)Stirling Highway | nil
-[Schedule 2 amended: Gazette 15 Jun 2001 p. 2976-7; 17 May 2002 p. 2569; 16 May 2003 p. 1704-5; 21 May 2004 p. 1713-14; 10 Jun 2005 p. 2567; 12 May 2006 p. 1788; 12 Jun 2007 p. 2736-7; 28 Sep 2007 p. 4933; 16 May 2008 p. 1913-14; 23 Jun 2009 p. 2490; 30 Jun 2009 p. 2660; 1 Apr 2010 p. 1280; 8 Apr 2011 p. 1292; 29 Apr 2011 p. 1535-6; 1 Jun 2012 p. 2287; 2 Nov 2012 p. 5262-3; 8 Feb 2013 p. 870; 14 Jun 2013 p. 2247; 16 May 2014 p. 1544-5; 13 Feb 2015 p. 653; 15 May 2015 p. 1729-30; 13 May 2016 p. 1428; 26 May 2017 p. 2641; 25 May 2018 p. 1642; SL 2021/92 r. 4; SL 2022/51 r. 8; SL 2022/67 r. 4; SL 2023/45 r. 17; SL 2024/60 r. 4; SL 2025/64 r. 12.]
+[Schedule 2 amended: Gazette 15 Jun 2001 p. 2976-7; 17 May 2002 p. 2569; 16 May 2003 p. 1704-5; 21 May 2004 p. 1713-14; 10 Jun 2005 p. 2567; 12 May 2006 p. 1788; 12 Jun 2007 p. 2736-7; 28 Sep 2007 p. 4933; 16 May 2008 p. 1913-14; 23 Jun 2009 p. 2490; 30 Jun 2009 p. 2660; 1 Apr 2010 p. 1280; 8 Apr 2011 p. 1292; 29 Apr 2011 p. 1535-6; 1 Jun 2012 p. 2287; 2 Nov 2012 p. 5262-3; 8 Feb 2013 p. 870; 14 Jun 2013 p. 2247; 16 May 2014 p. 1544-5; 13 Feb 2015 p. 653; 15 May 2015 p. 1729-30; 13 May 2016 p. 1428; 26 May 2017 p. 2641; 25 May 2018 p. 1642; SL 2021/92 r. 4; SL 2022/51 r. 8; SL 2022/67 r. 4; SL 2023/45 r. 17; SL 2024/60 r. 4; SL 2025/64 r. 12; SL 2025/181 r. 4.]
